@@ -52,11 +52,11 @@ html.w66-widget-page,
 
 .w66-ge-map canvas {
   display: block;
+  touch-action: none;
 }
 
 .w66-ge-map.is-exploring-globe canvas {
   cursor: grab;
-  touch-action: none;
 }
 
 .w66-ge-map.is-exploring-globe canvas:active {

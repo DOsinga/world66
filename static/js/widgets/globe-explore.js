@@ -24,6 +24,8 @@
   var embedClose = root.querySelector('[data-globe-embed-close]');
   var embedCopy = root.querySelector('[data-globe-embed-copy]');
   var scale = Number(options.scale || root.getAttribute('data-scale') || 1);
+  var minScale = 0.65;
+  var maxScale = 2.25;
   if (!mapEl || !panel) return null;
   var canvas = document.createElement('canvas');
   var ctx = canvas.getContext('2d');
@@ -35,6 +37,8 @@
   var routeLine = [];
   var isExploring = false;
   var dragState = null;
+  var pointers = {};
+  var pinchState = null;
   var suppressNextClick = false;
   var dpr = window.devicePixelRatio || 1;
   mapEl.appendChild(canvas);
@@ -299,7 +303,55 @@
     canvas.style.cursor = destinationAtPoint(point.x, point.y) ? 'pointer' : 'grab';
   }
 
+  function clampScale(value) {
+    return Math.max(minScale, Math.min(maxScale, value));
+  }
+
+  function setScale(value) {
+    scale = clampScale(value);
+    drawGlobe();
+    if (activeCity) positionCard(activeCity);
+  }
+
+  function activePointerList() {
+    return Object.keys(pointers).map(function(id) { return pointers[id]; });
+  }
+
+  function pointerDistance(items) {
+    var dx = items[0].x - items[1].x;
+    var dy = items[0].y - items[1].y;
+    return Math.max(1, Math.sqrt(dx * dx + dy * dy));
+  }
+
+  function updatePinchState() {
+    var items = activePointerList();
+    if (items.length < 2) {
+      pinchState = null;
+      return;
+    }
+    pinchState = {
+      distance: pointerDistance(items),
+      scale: scale
+    };
+  }
+
+  function rememberPointer(event) {
+    pointers[event.pointerId] = {
+      x: event.clientX,
+      y: event.clientY
+    };
+  }
+
   canvas.addEventListener('pointerdown', function(event) {
+    canvas.setPointerCapture(event.pointerId);
+    rememberPointer(event);
+    if (activePointerList().length >= 2) {
+      dragState = null;
+      updatePinchState();
+      suppressNextClick = true;
+      event.preventDefault();
+      return;
+    }
     if (!isExploring) return;
     canvas.style.cursor = 'grabbing';
     dragState = {
@@ -310,10 +362,18 @@
       lastY: event.clientY,
       moved: false
     };
-    canvas.setPointerCapture(event.pointerId);
   });
 
   canvas.addEventListener('pointermove', function(event) {
+    if (pointers[event.pointerId]) {
+      rememberPointer(event);
+    }
+    if (pinchState && activePointerList().length >= 2) {
+      setScale(pinchState.scale * pointerDistance(activePointerList()) / pinchState.distance);
+      suppressNextClick = true;
+      event.preventDefault();
+      return;
+    }
     if (!dragState || dragState.pointerId !== event.pointerId) {
       updateCanvasCursor(event);
       return;
@@ -337,10 +397,20 @@
   });
 
   function endDrag(event) {
-    if (!dragState || dragState.pointerId !== event.pointerId) return;
-    canvas.releasePointerCapture(event.pointerId);
-    dragState = null;
-    updateCanvasCursor(event);
+    delete pointers[event.pointerId];
+    if (
+      canvas.releasePointerCapture &&
+      (!canvas.hasPointerCapture || canvas.hasPointerCapture(event.pointerId))
+    ) {
+      canvas.releasePointerCapture(event.pointerId);
+    }
+    if (pinchState) {
+      updatePinchState();
+    }
+    if (dragState && dragState.pointerId === event.pointerId) {
+      dragState = null;
+      updateCanvasCursor(event);
+    }
     setTimeout(function() { suppressNextClick = false; }, 0);
   }
 
@@ -349,6 +419,11 @@
   canvas.addEventListener('pointerleave', function() {
     if (!dragState) canvas.style.cursor = '';
   });
+
+  canvas.addEventListener('wheel', function(event) {
+    event.preventDefault();
+    setScale(scale * Math.exp(-event.deltaY * 0.001));
+  }, { passive: false });
 
   canvas.addEventListener('click', function(event) {
     if (!isExploring) return;

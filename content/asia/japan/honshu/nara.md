@@ -2,18 +2,27 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
+image: nara.jpg
+image_attribution: 名古屋太郎
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:090124_wakakusa_yamayaki.jpg
 latitude: 34.6851
 loc_type: city
 longitude: 135.805
+quick_facts:
+  Deer: ~1,200 roam free, and bow
+  Great Buddha: 15 m of bronze
+  Tōdai-ji: World's largest wooden gate
+  Was: Japan's first capital (710)
 score: 9.48
-title: Nara
 snippet: Japan's first permanent capital, compact and temple-rich, with Todai-ji and
   its great bronze Buddha
+tip: Nara's deer roam free and bow for crackers (shika senbei) sold by vendors — but
+  they'll headbutt and nip, so don't tease them. The Great Buddha at Tōdai-ji is one
+  of the world's largest bronze statues; squeeze through the 'Buddha's nostril' pillar
+  for luck. It's an easy half-day from Kyoto or Osaka.
+title: Nara
 type: location
-image: nara.jpg
-image_source: https://commons.wikimedia.org/wiki/File:090124_wakakusa_yamayaki.jpg
-image_license: CC BY-SA 3.0
-image_attribution: 名古屋太郎
 ---
 
 Nara was Japan's first permanent capital, founded in 710 and modelled on the Tang Chinese city of Chang'an. For barely seventy years it served as the seat of imperial power before the court moved to Kyoto — but those decades were enough to produce some of the greatest Buddhist monuments in the country. Today Nara is a compact, manageable city that rewards a day or two's wandering, and it is far less crowded than Kyoto.

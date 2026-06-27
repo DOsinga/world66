@@ -9,10 +9,10 @@ latitude: 51.1282
 loc_type: city
 longitude: 71.4307
 quick_facts:
-  2nd-Coldest Capital: On Earth
   Bayterek Tower: A 97 m 'tree of life'
   Became Capital: '1997'
   Population: ~1.4 million
+  Winter Cold: 2nd-coldest capital on Earth
 score: 7.17
 snippet: Purpose-built Kazakh capital on the steppe, defined by monumental architecture
   along the Ishim River.

@@ -11,9 +11,9 @@ loc_type: city
 longitude: 33.7741
 quick_facts:
   Became Capital: '1975'
+  Local Saying: '''Warm heart of Africa'''
   Population: ~1.1 million
   Two Halves: Old Town & City Centre
-  Warm Heart: Of Africa, by repute
 score: 6.27
 snippet: Malawian capital split between planned government avenues and the busy markets
   of Old Town.

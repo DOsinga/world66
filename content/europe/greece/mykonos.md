@@ -12,10 +12,10 @@ latitude: 37.4454
 loc_type: city
 longitude: 25.3287
 quick_facts:
-  Chora: A maze built to foil pirates
-  Little Venice: Houses built over the water
-  Mythology: Where Zeus fought the giants
-  Windmills: 16th-century landmarks
+  Little Venice: Houses over the sea
+  Maze Town: Built to foil pirates
+  Population: ~10,000
+  Windmills: 16th century
 score: 9.43
 snippet: Cycladic island of whitewashed lanes, protected architecture, beach clubs,
   and boat trips to Delos

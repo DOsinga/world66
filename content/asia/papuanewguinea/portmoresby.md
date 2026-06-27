@@ -8,9 +8,9 @@ latitude: -9.47433
 loc_type: city
 longitude: 147.15995
 quick_facts:
+  Languages: 800+ across PNG
   Nature Park: Birds of paradise & tree kangaroos
-  Only Reachable: By air or sea, no roads in
-  PNG Languages: Over 800 nationwide
+  No Road Access: Reached by air or sea
   Population: ~400,000
 score: 5.21
 snippet: Papua New Guinea capital on a natural harbour, with colonial downtown and

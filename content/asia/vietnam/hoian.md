@@ -17,10 +17,10 @@ latitude: 15.8801
 loc_type: city
 longitude: 108.338
 quick_facts:
-  Japanese Bridge: A 400-year-old covered span
-  Lanterns: Silk, lighting the old town
-  Old Town: UNESCO, spared by the war
+  Japanese Bridge: Built ~1600
+  Silk Lanterns: Light the old town
   Tailors: Custom clothes in a day
+  UNESCO Since: '1999'
 score: 9.46
 snippet: Vietnamese trading port with lantern-lit merchant houses, Chinese assembly
   halls, and a Japanese covered bridge.

@@ -4,7 +4,7 @@ done:
 latitude: 37.7667
 loc_type: city
 longitude: 20.9167
-score: 0.48
+score: 7.33
 snippet: Busy Zakynthos beach resort just south of the island capital, with tavernas,
   boat trips, and a half-submerged bridge.
 sources:

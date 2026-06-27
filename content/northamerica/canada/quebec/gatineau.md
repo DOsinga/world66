@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gatineau_-_QC_-_Museum_of_
 latitude: 45.4765
 loc_type: city
 longitude: -75.7013
-score: 0.46
+score: 7.26
 snippet: Quebec city across from Ottawa, tying Hull museums, Aylmer waterfront, and
   Gatineau Park into one capital-region base.
 sources:

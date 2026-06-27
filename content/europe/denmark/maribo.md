@@ -2,7 +2,7 @@
 latitude: 54.7752
 longitude: 11.5026
 loc_type: city
-score: 0.45
+score: 7.22
 tags:
 - lolland
 title: Maribo

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schwyz.jpg
 latitude: 47.0167
 loc_type: city
 longitude: 8.65
-score: 0.47
+score: 7.29
 snippet: Central Swiss canton capital tied to Confederation history, Victorinox knives,
   and the Mythen peaks.
 sources:

@@ -2,7 +2,7 @@
 latitude: 55.8667
 longitude: 10.6167
 loc_type: feature
-score: 0.4
+score: 7.04
 snippet: Kattegat island running on 100% renewable energy, famous for early potatoes,
   gentle cycling, and a pace that feels several decades removed from the mainland.
 title: Samsø

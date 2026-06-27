@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jahangir_Mahal,_Orchha,_Ma
 latitude: 25.35
 loc_type: city
 longitude: 78.64
-score: 0.44
+score: 7.18
 snippet: Bundela river town near Jhansi, packed with palaces, painted temples, and
   Betwa-side cenotaphs.
 sources:

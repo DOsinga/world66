@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Madagascar_Brush_Warbler_-
 latitude: -21.25
 loc_type: feature
 longitude: 47.45
-score: 0.55
+score: 7.56
 snippet: Rainforest park village known for hot springs, lemurs, waterfalls, and steep
   green valleys.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Labuan_Bajo,_Flores,_Indon
 latitude: -8.5
 loc_type: city
 longitude: 119.883333
-score: 0.64
+score: 7.85
 snippet: Western Flores harbour town and busy gateway to Komodo's dragons, reefs,
   and island liveaboards.
 sources:

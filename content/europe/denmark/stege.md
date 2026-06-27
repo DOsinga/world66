@@ -2,7 +2,7 @@
 latitude: 54.9847
 loc_type: city
 longitude: 12.2939
-score: 0.44
+score: 7.18
 snippet: 'Møn''s only real town: medieval gate, parish church, low-key main street'
 tags:
 - things_to_do

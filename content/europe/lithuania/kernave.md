@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kernave_mounds_20200926.jp
 latitude: 54.8833
 loc_type: feature
 longitude: 24.85
-score: 0.54
+score: 7.53
 snippet: UNESCO-listed archaeological landscape where Lithuania's early capital rises
   above the Neris valley
 sources:

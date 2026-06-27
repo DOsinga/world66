@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Scenery_from_hotel_in_Pala
 latitude: 10.775
 loc_type: city
 longitude: 76.651
-score: 0.31
+score: 6.72
 snippet: Kerala gateway town at the Palghat Gap, with a sturdy fort, Tamil-Kerala
   culture, and dam-country day trips.
 sources:

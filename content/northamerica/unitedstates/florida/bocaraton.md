@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boca_Raton_Old_City_Hall_7
 latitude: 26.3778
 loc_type: city
 longitude: -80.1139
-score: 0.36
+score: 6.9
 snippet: Polished Palm Beach County city of Mizner architecture, guarded beaches,
   and serious shopping.
 sources:

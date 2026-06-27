@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hermosa_Beach_sunset_conce
 latitude: 33.8664
 loc_type: city
 longitude: -118.3997
-score: 0.44
+score: 7.18
 snippet: Compact South Bay beach city known for volleyball, a busy pier, and an easygoing
   bar scene.
 sources:

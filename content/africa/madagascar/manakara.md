@@ -4,7 +4,7 @@ done:
 latitude: -22.15
 loc_type: city
 longitude: 48.0
-score: 0.3
+score: 6.68
 snippet: East-coast Malagasy rail terminus where the FCE train meets the Pangalanes
   Canal.
 sources:

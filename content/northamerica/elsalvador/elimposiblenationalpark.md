@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mirador_Reserva_Natural_El
 latitude: 13.8417
 loc_type: feature
 longitude: -89.9575
-score: 0.41
+score: 7.08
 snippet: Rugged Pacific-slope forest park in western El Salvador, prized for hiking,
   birds, and ravines.
 sources:

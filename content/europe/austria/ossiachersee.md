@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mi
 latitude: 46.6667
 loc_type: feature
 longitude: 13.9667
-score: 0.35
+score: 6.86
 snippet: Warm Carinthian lake near Villach, framed by Ossiach Abbey, reed beds, and
   the Gerlitzen slopes.
 sources:

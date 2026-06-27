@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Florida_Keys_(from_Key_Wes
 latitude: 24.6669
 loc_type: feature
 longitude: -81.5442
-score: 0.58
+score: 7.66
 snippet: Coral-cay archipelago of reef water, low islands, bridges, and unrushed tropical
   Florida.
 sources:

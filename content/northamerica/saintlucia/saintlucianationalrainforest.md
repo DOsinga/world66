@@ -4,7 +4,7 @@ done:
 latitude: 13.9
 loc_type: feature
 longitude: -60.98
-score: 0.48
+score: 7.33
 snippet: Mountain rainforest interior of Saint Lucia, with bird trails, waterfalls,
   and the island's highest peak.
 sources:

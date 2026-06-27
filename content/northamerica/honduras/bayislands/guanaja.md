@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guanaja.jpg
 latitude: 16.4667
 loc_type: island
 longitude: -85.8833
-score: 0.44
+score: 7.18
 snippet: Quiet Bay Island of pine ridges, reef diving, boat villages, and less development
   than Roatán or Utila.
 sources:

@@ -10,9 +10,9 @@ latitude: -16.504347
 loc_type: city
 longitude: -151.736689
 quick_facts:
-  Lagoon: Rings a dormant volcano
-  Mt Otemanu: 727 m basalt peak
-  Ring Road: Just 32 km around
+  Lagoon: Rings a sunken volcano
+  Mt Otemanu: 727 m
+  Ring Road: 32 km around
   WWII: Former US supply base
 score: 9.9
 snippet: French Polynesian island of volcanic peaks, turquoise lagoon, and sandy motu

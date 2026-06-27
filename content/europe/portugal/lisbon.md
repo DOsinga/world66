@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:December_10,_2006,_Lisbon_
 latitude: 38.707751
 loc_type: city
 longitude: -9.136592
+quick_facts:
+  Fado: Melancholy music born in Alfama
+  Hills: Built on seven
+  Older Than: Rome
+  Tram 28: A vintage rattler through the hills
 score: 9.44
 snippet: Hilly Portuguese capital on the Tagus, shaped by Pombaline avenues, Alfama
   lanes, and Atlantic light.
+tip: Lisbon is built on seven hills, so save your legs with the vintage trams (line
+  28 is the scenic classic, and pickpocket-prone, so guard your bag) and the funiculars.
+  Pastéis de nata are best in Belém, from the original bakery. The Alfama district
+  is the soul of fado music. Tap a Viva Viagem card for transport.
 title: Lisbon
 type: location
 ---

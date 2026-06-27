@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - park
   - sight
+  - cbd
 latitude: -33.8642
 longitude: 151.2166
 sources:

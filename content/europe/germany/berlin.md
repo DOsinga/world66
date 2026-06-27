@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-17'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: berlin.jpg
 image_attribution: Norbert Nagel

@@ -1,12 +1,15 @@
 ---
-title: "Museo Soumaya"
-type: poi
-snippet: "Silver-tiled, asymmetric tower in Polanco housing Carlos Slim's collection"
-tags: [things_to_do, museum, architecture, polanco]
-neighbourhood: Polanco
 latitude: 19.4408
 longitude: -99.2049
 score: 7.4
+snippet: Silver-tiled, asymmetric tower in Polanco housing Carlos Slim's collection
+tags:
+- things_to_do
+- museum
+- architecture
+- polanco
+title: Museo Soumaya
+type: poi
 ---
 
 The Soumaya is the private museum of Carlos Slim, for many years the richest man in the world; he named it after his late wife. Its eye-catching tower in Plaza Carso, Polanco, is sheathed in 16,000 hexagonal aluminium tiles that catch the sun differently depending on the angle. The Mexican architect Fernando Romero, Slim's son-in-law, designed the building, which opened in 2011.

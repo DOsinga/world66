@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - cafe
+- the_rocks
 title: Museum of Contemporary Art
 type: poi
 url: www.mca.com.au

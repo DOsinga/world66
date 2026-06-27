@@ -9,6 +9,7 @@ snippet: Quick, reliable Thai food in Chinatown
 tags:
 - eating_out
 - restaurant
+- chinatown
 title: Star of Siam
 type: poi
 score: 5.7

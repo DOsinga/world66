@@ -8,7 +8,7 @@ tags:
   - shopping
   - market
   - sight
-  - museumsquartier
+  - mariahilf
 score: 7.0
 ---
 

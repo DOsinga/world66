@@ -1,12 +1,17 @@
 ---
 latitude: 43.644722
 longitude: -79.408611
-snippet: West Queen West — galleries, vintage shops, and restaurants in a former garment district
+snippet: West Queen West — galleries, vintage shops, and restaurants in a former garment
+  district
 tags:
 - things_to_do
 - neighbourhood
 title: West Queen West
 type: neighbourhood
+image: queen_west.jpg
+image_source: https://commons.wikimedia.org/wiki/File:299_Queen_St_and_CN_Tower.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Oaktree b
 ---
 
 West Queen West — the stretch of Queen Street West from Bathurst Street roughly to Dufferin — is Toronto's primary arts and design neighbourhood. The area developed in the early 2000s after artists colonised the former garment and textile factories; galleries, studios, and independent shops followed, and the neighbourhood has been designated as one of the world's coolest streets by Vogue multiple times.

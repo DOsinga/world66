@@ -10,10 +10,10 @@ latitude: -25.3444
 loc_type: city
 longitude: 131.0369
 quick_facts:
-  Climbing: Banned since 2019
-  Colour: Glows red at dawn & dusk
-  Sacred To: The Anangu people
-  Uluru: 348 m high, more below ground
+  Climbing Banned: Since 2019
+  Colour: Glows red at dusk
+  Height: 348 m
+  Rock Age: ~550 million years
 score: 9.44
 snippet: Red Centre national park jointly managed by Anangu owners, centred on Uluru
   and Kata Tjuta.

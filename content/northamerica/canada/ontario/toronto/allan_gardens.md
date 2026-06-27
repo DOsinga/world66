@@ -7,6 +7,7 @@ tags:
 - garden
 - museum
 - cabbagetown
+- garden_district
 title: Allan Gardens Conservatory
 type: poi
 score: 7.5

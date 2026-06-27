@@ -2,7 +2,7 @@
 title: "Museo Anahuacalli"
 type: poi
 snippet: "Diego Rivera's pre-Hispanic collection in a volcanic pyramid"
-tags: [things_to_do, museum, architecture]
+tags: [things_to_do, museum, architecture, coyoacan]
 address: "Museo 150, San Pablo Tepetlapa"
 latitude: 19.3197
 longitude: -99.1378

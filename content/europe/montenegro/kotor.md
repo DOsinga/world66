@@ -11,8 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zd
 latitude: 42.4249
 loc_type: city
 longitude: 18.7713
+quick_facts:
+  Cats: The town's beloved symbol
+  Old Town: A car-free medieval maze
+  The Bay: Often called Europe's southernmost fjord
+  Town Walls: Climb 1,350 steps
 score: 9.42
 snippet: Walled Venetian old town on the Bay of Kotor, backed by steep limestone mountains.
+tip: Kotor sits at the end of a fjord-like bay, with town walls climbing 1,350 steps
+  up the mountain behind — hike them at dawn or dusk to dodge the heat and cruise
+  crowds. The walled old town is a car-free medieval maze full of cats, a local symbol.
+  Drive or boat the dramatic bay, and brave the serpentine road up to Lovćen for the
+  view.
 title: Kotor
 type: location
 ---

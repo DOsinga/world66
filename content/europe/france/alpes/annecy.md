@@ -10,9 +10,9 @@ latitude: 45.899235
 loc_type: city
 longitude: 6.128885
 quick_facts:
-  Lake Area: 27 km²
-  Lake Cleanup: Pioneering 1960s sewers
-  Lake Depth: 82 m
+  Cleaned Up: A pioneering 1960s sewer scheme
+  Elevation: 448 m
+  Lake Annecy: 27 km², 82 m deep
   Old Town: '''Venice of the Alps'''
 score: 9.41
 snippet: Lakeside Alpine town known for its canal-lined old quarter, Savoy castle,

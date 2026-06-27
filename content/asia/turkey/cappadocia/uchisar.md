@@ -11,9 +11,9 @@ loc_type: city
 longitude: 34.804614
 quick_facts:
   Castle: Tallest point in Cappadocia
-  Caves: Honeycombed into the rock
-  Pigeon Valley: Carved dovecotes below
-  Views: Over the whole region
+  Cave Dwellings: Honeycomb the rock
+  Elevation: 1,400 m
+  Pigeon Valley: Carved dovecotes
 score: 9.41
 snippet: Cappadocian hill village beneath Uçhisar Castle, overlooking fairy chimneys,
   pigeon valleys, and Mount Erciyes.

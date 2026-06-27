@@ -10,10 +10,10 @@ latitude: 46.624273
 loc_type: city
 longitude: 8.036746
 quick_facts:
-  Below: The Eiger's deadly north face
-  Eiger Trail: Runs under the wall
-  First: A cliff walk over the drop
-  Jungfraujoch: '''Top of Europe'' railway'
+  Jungfraujoch: Europe's highest station
+  North Face: 1,800 m sheer wall
+  The Eiger: 3,967 m above
+  Village Elevation: 1,034 m
 score: 9.65
 snippet: Bernese Oberland village beneath the Eiger, Mönch, and Jungfrau, long associated
   with Alpine tourism.

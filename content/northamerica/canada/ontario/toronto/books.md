@@ -3,18 +3,6 @@ title: "Books"
 type: section
 ---
 
-If you would like to recommend an interesting book about Toronto, please let us know about it.
+For a feel of the city before you arrive, Michael Ondaatje's *In the Skin of a Lion* is the great Toronto novel — the building of the Bloor Street Viaduct and the waterworks told through the immigrant labourers who did the work. Hugh Garner's *Cabbagetown* is the classic chronicle of that neighbourhood during the Depression, when it was a working-class slum rather than a restored showpiece.
 
-**all**
-
-**Birds of Toronto**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0-919433-63-4/ref=ase_osingacom?v=glance&s=books)
-
-author: Gerald McKeating
-
-isbn: 0-919433-63-4
-
-subject: Bird Identification
+For non-fiction, Robert Fulford's *Accidental City* traces how Toronto grew into the place it is, and Shawn Micallef's *Stroll: Psychogeographic Walking Tours of Toronto* is the best companion for exploring on foot, neighbourhood by neighbourhood.

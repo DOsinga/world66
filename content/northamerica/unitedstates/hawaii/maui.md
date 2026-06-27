@@ -10,10 +10,10 @@ latitude: 20.802957
 loc_type: city
 longitude: -156.310683
 quick_facts:
-  Haleakalā: 10,023 ft dormant volcano
+  Haleakalā: 3,055 m (10,023 ft)
   Old Capital: Lahaina
-  Road To Hāna: 600 curves, 59 bridges
-  Winter Visitors: Humpback whales offshore
+  Road to Hāna: 620 curves, 59 bridges
+  Winter Whales: Humpbacks offshore
 score: 9.92
 snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and the
   road to Hāna.

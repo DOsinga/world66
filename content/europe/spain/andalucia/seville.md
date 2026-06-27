@@ -11,10 +11,10 @@ latitude: 37.38863
 loc_type: city
 longitude: -5.99534
 quick_facts:
-  Cathedral: Largest Gothic church on Earth
-  Flamenco: Born in this region
-  Giralda: Climb by ramp, not stairs
-  Plaza de España: A Star Wars film set
+  Cathedral: Largest Gothic church
+  Giralda: Climbed by ramp, not stairs
+  Plaza de España: A Star Wars set
+  Population: 680,000
 score: 9.53
 snippet: Andalusian capital on the Guadalquivir, known for its cathedral, Alcázar,
   flamenco, and orange-lined streets.

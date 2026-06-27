@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Seddon_Statue_in_Parliamen
 latitude: -41.288795
 loc_type: city
 longitude: 174.777211
+quick_facts:
+  '''Windy Welly''': Among Earth's windiest cities
+  Population: ~215,000
+  Southernmost Capital: In the world
+  Te Papa: The free national museum
 score: 8.78
 snippet: Compact harbour capital wedged between forested hills, wild coast, parliament,
   cafes, and relentless wind
+tip: Wellington is the world's southernmost capital and famously windy — locals joke
+  you can't trust a calm day. It is compact, walkable and packed with cafés (it claims
+  more per head than New York) and craft beer. Ride the historic red cable car up
+  to the Botanic Garden, and don't miss Te Papa, the brilliant free national museum.
+  It's also the home of Middle-earth's film studios.
 title: Wellington
 type: location
 ---

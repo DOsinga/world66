@@ -21,4 +21,5 @@ The historic sultanate of [Ternate](/asia/indonesia/maluku/ternate), which has g
 
 - [Ambon](/asia/indonesia/maluku/ambon)
 - [Kei Islands](/asia/indonesia/maluku/kei_islands)
+- [Saparua](/asia/indonesia/maluku/saparua)
 - [Ternate](/asia/indonesia/maluku/ternate)

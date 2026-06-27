@@ -11,10 +11,10 @@ latitude: 27.175255
 loc_type: city
 longitude: 78.009816
 quick_facts:
-  Built By: Shah Jahan for his wife
   Closed: Every Friday
-  Marble: Changes colour through the day
-  Taj Mahal: A tomb, not a palace
+  It's a Tomb: Not a palace
+  Population: 1.6 million
+  Taj Mahal Built: 1632–1653
 score: 9.42
 snippet: North Indian city on the Yamuna, home to the Taj Mahal, Agra Fort, and Mughal
   gardens.

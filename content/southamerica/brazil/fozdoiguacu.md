@@ -12,7 +12,7 @@ quick_facts:
   Falls: 275 drops, Brazil side
   Itaipú Dam: One of world's biggest
   Triple Frontier: Three countries meet
-  Wider Than: Niagara, by far
+  Vs Niagara: Far wider
 score: 9.47
 snippet: Brazilian border city at the Triple Frontier, built around the power and
   spray of Iguaçu Falls.

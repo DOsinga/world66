@@ -10,8 +10,8 @@ loc_type: city
 longitude: 139.02
 quick_facts:
   Black Eggs: '''7 extra years of life'''
-  Lake Ashi: 723 m elevation
-  Lake Crossing: By replica pirate ship
+  Boats: Replica pirate ships
+  Lake Ashi: 723 m up, volcanic
   Last Eruption: ~3,000 years ago
 score: 9.48
 snippet: Japanese hot spring resort in volcanic Hakone caldera, with Lake Ashi views

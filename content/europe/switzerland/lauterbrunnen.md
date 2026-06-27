@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_201
 latitude: 46.593904
 loc_type: city
 longitude: 7.907802
+quick_facts:
+  Above: Car-free Mürren & Wengen
+  Inspired: Tolkien's Rivendell
+  Staubbach Falls: ~300 m freefall
+  Waterfalls: 72 in the valley
 score: 9.68
 snippet: Alpine valley village below sheer limestone cliffs, where more than 70 waterfalls
   drop from the rim.
+tip: Lauterbrunnen sits in a sheer valley with 72 waterfalls — Staubbach plunges nearly
+  300 m right behind the village. Use it as a base and ride the trains up to car-free
+  Wengen, Mürren and Jungfraujoch. The valley inspired Tolkien's Rivendell; on a misty
+  morning you'll see why. Weather turns fast, so check the webcams before heading
+  up.
 title: Lauterbrunnen
 type: location
 ---

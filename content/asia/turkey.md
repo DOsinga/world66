@@ -40,7 +40,8 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Antalya](/asia/turkey/antalya) — gateway to the Mediterranean coast
 - [Cappadocia](/asia/turkey/cappadocia) — the fairy-chimney landscape of central Anatolia
 - [Ephesus](/asia/turkey/ephesus) — arguably the best-preserved Roman city in the world
-- Bodrum — Aegean resort with history and good nightlife
+- [Bodrum](/asia/turkey/bodrum) — Aegean resort with history and good nightlife
+- [Datça](/asia/turkey/datca) — quieter Aegean peninsula town for Knidos, coves, and old villages
 - [Fethiye](/asia/turkey/fethiye) and [Marmaris](/asia/turkey/marmaris) — yachting bases on the Turquoise Coast
 - [Selcuk](/asia/turkey/selcuk) — the small town closest to Ephesus
 - [Side](/asia/turkey/side) — Roman ruins on the Mediterranean coast

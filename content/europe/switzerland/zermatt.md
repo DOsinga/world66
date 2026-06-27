@@ -9,12 +9,21 @@ image_source: https://commons.wikimedia.org/wiki/File:3802_-_Zermatt_-_Matterhor
 latitude: 46.0207
 loc_type: city
 longitude: 7.7491
+quick_facts:
+  Car-Free: Electric taxis only
+  First Ascent: 1865, ended in tragedy
+  Matterhorn: 4,478 m, the iconic pyramid
+  Summer Skiing: On the glacier above
 score: 9.72
 snippet: Car-free Valais mountain village at the foot of the Matterhorn, with skiing
   shared across the Italian border.
 sources:
 - https://en.wikipedia.org/wiki/Zermatt
 - https://en.wikipedia.org/wiki/Matterhorn_Museum
+tip: Zermatt is car-free — park in Täsch and take the train up. The Matterhorn is
+  shy and often cloud-wrapped, so build in a few days and grab the clear mornings.
+  The Gornergrat cog railway delivers the postcard view without a hike. Even in summer
+  you can ski on the glacier.
 title: Zermatt
 type: location
 ---

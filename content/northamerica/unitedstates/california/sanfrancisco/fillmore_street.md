@@ -6,6 +6,7 @@ snippet: Long city street linking the boutiques of Pacific Heights to the histor
 tags:
 - things_to_do
 - sight
+- pacific_heights
 title: Fillmore Street
 type: poi
 image: fillmore_street.jpg

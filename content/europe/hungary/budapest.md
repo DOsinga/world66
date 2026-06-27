@@ -13,10 +13,10 @@ latitude: 47.4979
 loc_type: city
 longitude: 19.0402
 quick_facts:
-  Metro Line 1: Continental Europe's oldest
-  Parliament: Among the world's largest
-  Thermal Springs: Over 100 feed the baths
-  Two Cities: Buda + Pest, joined 1873
+  Buda + Pest Merged: '1873'
+  Metro Line 1: Oldest on the continent
+  Population: 1.7 million
+  Thermal Springs: 100+ feed the baths
 score: 9.65
 snippet: Danube capital where hilly Buda, busy Pest, imperial architecture, and thermal
   baths meet.

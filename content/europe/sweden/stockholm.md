@@ -12,10 +12,10 @@ latitude: 59.325117
 loc_type: city
 longitude: 18.071093
 quick_facts:
-  Archipelago: ~30,000 islands beyond
-  Islands: Built across 14
+  Archipelago: 30,000 islands beyond
+  Islands: Built on 14
   Metro: World's longest art gallery
-  Nobel Prizes: Awarded here each December
+  Nobel Prizes: Awarded each December
 score: 9.41
 snippet: Island-built Nordic capital where Lake Mälaren meets the Baltic and boats
   open the archipelago.

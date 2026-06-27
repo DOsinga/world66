@@ -13,10 +13,10 @@ latitude: 35.67686
 loc_type: city
 longitude: 139.763895
 quick_facts:
-  Busiest Station: Shinjuku, 3.5M a day
-  Metro Population: 37 million — world's largest
+  Metro Population: 37 million
   Michelin Stars: Most of any city
   Renamed from Edo: '1868'
+  Shinjuku Station: 3.5M passengers a day
 score: 9.99
 snippet: Vast Japanese capital where distinct neighbourhoods, rail networks, shrines,
   and neon districts interlock.

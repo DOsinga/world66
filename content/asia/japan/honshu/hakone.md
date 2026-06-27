@@ -9,10 +9,10 @@ latitude: 35.2
 loc_type: city
 longitude: 139.02
 quick_facts:
-  Onsen: Hot springs in Fuji's shadow
-  Open-Air Museum: Sculptures in the hills
-  Owakudani: Black eggs boiled in sulphur
-  The Loop: Train, ropeway & 'pirate ship'
+  Black Eggs: '''7 extra years of life'''
+  Lake Ashi: 723 m elevation
+  Lake Crossing: By replica pirate ship
+  Last Eruption: ~3,000 years ago
 score: 9.48
 snippet: Japanese hot spring resort in volcanic Hakone caldera, with Lake Ashi views
   toward Mount Fuji

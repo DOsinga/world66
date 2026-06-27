@@ -31,7 +31,6 @@ In the south, [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance) (B
 - [Heidelberg](/europe/germany/badenwrttemberg/heidelberg)
 - [Freiburg](/europe/germany/badenwrttemberg/freiburg)
 - [Black Forest](/europe/germany/badenwrttemberg/blackforest)
-- [Gersbach](/europe/germany/badenwrttemberg/gersbach)
 - [Baden-Baden](/europe/germany/badenwrttemberg/badenbaden)
 - [Tübingen](/europe/germany/badenwrttemberg/tubingen)
 - [Ulm](/europe/germany/badenwrttemberg/ulm)

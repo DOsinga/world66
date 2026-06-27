@@ -27,7 +27,6 @@ On the coast, the **Wadden Sea** (Wattenmeer) is UNESCO-listed as the largest un
 - [Goslar](/europe/germany/lowersaxony/goslar)
 - [Göttingen](/europe/germany/lowersaxony/goettingen)
 - [Lüneburg](/europe/germany/lowersaxony/luneburg)
-- [Leer](/europe/germany/lowersaxony/leer)
 - [Hameln](/europe/germany/lowersaxony/hameln)
 - [Hildesheim](/europe/germany/lowersaxony/hildesheim)
 - [Harz Mountains](/europe/germany/lowersaxony/harz_mountains)

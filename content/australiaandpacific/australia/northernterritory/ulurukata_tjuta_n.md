@@ -9,11 +9,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Ulu
 latitude: -25.3444
 loc_type: city
 longitude: 131.0369
+quick_facts:
+  Climbing: Banned since 2019
+  Colour: Glows red at dawn & dusk
+  Sacred To: The Anangu people
+  Uluru: 348 m high, more below ground
 score: 9.44
-title: Uluru-Kata Tjuta National Park
-type: location
 snippet: Red Centre national park jointly managed by Anangu owners, centred on Uluru
   and Kata Tjuta.
+tip: Climbing Uluru is now banned out of respect for the Anangu traditional owners
+  — walk the base loop instead, which is more rewarding anyway. The rock glows red
+  at sunrise and sunset, and both viewing areas fill early. Kata Tjuta (the Olgas)
+  nearby is taller and far less visited. It's brutally hot and remote, so carry far
+  more water than you think.
+title: Uluru-Kata Tjuta National Park
+type: location
 ---
 
 Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.

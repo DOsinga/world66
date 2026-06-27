@@ -15,8 +15,8 @@ longitude: -0.1278
 quick_facts:
   Big Museums: Free to enter
   Black Cabs: Drivers pass 'the Knowledge'
-  Royal Parks: Eight across the city
-  The Underground: World's oldest metro (1863)
+  Population: 9 million
+  The Underground: Opened 1863
 score: 9.81
 snippet: Vast Thames-side world city of layered neighbourhoods, Roman traces, West
   End theatre, markets, and Georgian pubs.

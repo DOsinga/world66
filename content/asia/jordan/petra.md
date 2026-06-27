@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Camels_in_front_of_the_tom
 latitude: 30.325836
 loc_type: city
 longitude: 35.474567
+quick_facts:
+  Age: Over 2,000 years
+  Carved By: The Nabataeans
+  Rediscovered: 1812, by the West
+  Screen Role: Indiana Jones' Grail temple
 score: 9.89
 snippet: Nabataean sandstone city in Wadi Musa, famous for the Siq approach and the
   Treasury facade.
+tip: Petra is bigger than a day allows — the walk through the Siq to the Treasury
+  is just the start; the Monastery is another 800 steps up and worth every one. Go
+  early or late to dodge midday heat and the worst crowds, wear sturdy shoes, and
+  consider the candlelit 'Petra by Night'.
 title: Petra
 type: location
 ---

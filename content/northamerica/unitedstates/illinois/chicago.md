@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Chicago_River_ferry_b.jpg
 latitude: 41.8756
 loc_type: city
 longitude: -87.6244
+quick_facts:
+  On Lake Michigan: 26 miles of shoreline
+  Population: ~2.7 million
+  Reversed a River: Engineered to flow backwards
+  Skyscraper Birthplace: First built here, 1885
 score: 9.25
 snippet: Major Great Lakes city known for pioneering skyscraper architecture, deep
   neighbourhood culture, and a broad Lake Michigan waterfront.
+tip: Chicago is the birthplace of the skyscraper, and the best way to grasp it is
+  from the Chicago River — take an architecture boat tour. The 'L' train loops the
+  downtown core. Brave the wind off Lake Michigan (the 'Windy City' nickname is partly
+  about its boastful politicians, though). Eat deep-dish pizza and a Chicago-style
+  hot dog (never with ketchup).
 title: Chicago
 type: location
 ---

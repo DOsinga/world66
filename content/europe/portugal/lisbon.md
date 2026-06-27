@@ -12,10 +12,10 @@ latitude: 38.707751
 loc_type: city
 longitude: -9.136592
 quick_facts:
-  Fado: Melancholy music born in Alfama
   Hills: Built on seven
-  Older Than: Rome
-  Tram 28: A vintage rattler through the hills
+  Older Than Rome: By centuries
+  Population: 550,000
+  Tram 28: Vintage hill rattler
 score: 9.44
 snippet: Hilly Portuguese capital on the Tagus, shaped by Pombaline avenues, Alfama
   lanes, and Atlantic light.

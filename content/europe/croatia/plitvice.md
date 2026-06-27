@@ -10,10 +10,10 @@ latitude: 44.8654
 loc_type: city
 longitude: 15.582
 quick_facts:
-  Barriers: Living travertine, still growing
-  Colour: Shifts with minerals & light
-  Croatia's Oldest: National park (1949)
-  Lakes: 16, linked by waterfalls
+  Colour: Shifts blue to green
+  Lakes: 16, terraced
+  National Park Since: '1949'
+  Travertine: Barriers still growing
 score: 9.67
 snippet: Croatian national park of terraced karst lakes, waterfalls, and boardwalks
   through mineral-bright water

@@ -6,6 +6,7 @@ snippet: The first purpose-built jazz venue in America
 tags:
 - bars_and_cafes
 - bar
+- hayes_valley
 title: SFJAZZ Center
 type: poi
 score: 8.2

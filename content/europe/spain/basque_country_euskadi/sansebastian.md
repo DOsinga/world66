@@ -9,10 +9,10 @@ latitude: 43.3183
 loc_type: city
 longitude: -1.9812
 quick_facts:
-  Basque: Europe's oldest language
-  La Concha: Shell-shaped city beach
-  Michelin Stars: Among the most per head on Earth
-  Pintxos: Basque bar-top tapas
+  La Concha: Shell-shaped bay beach
+  Michelin Stars: Most per head on Earth
+  Pintxos: Eaten bar to bar
+  Population: 190,000
 score: 9.46
 snippet: Elegant Basque bay city of pintxos bars, crescent beaches, and wooded headlands.
 tip: San Sebastián has one of the highest concentrations of Michelin stars on Earth,

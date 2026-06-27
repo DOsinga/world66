@@ -10,10 +10,10 @@ latitude: 45.899235
 loc_type: city
 longitude: 6.128885
 quick_facts:
-  Old Town: Canals — 'Venice of the Alps'
-  Palais De L'Île: A 12th-century canal prison
-  Swimming: Straight off public beaches
-  The Lake: Among Europe's cleanest
+  Lake Area: 27 km²
+  Lake Cleanup: Pioneering 1960s sewers
+  Lake Depth: 82 m
+  Old Town: '''Venice of the Alps'''
 score: 9.41
 snippet: Lakeside Alpine town known for its canal-lined old quarter, Savoy castle,
   and mountain-framed Lake Annecy.

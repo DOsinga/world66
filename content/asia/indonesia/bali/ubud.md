@@ -11,10 +11,10 @@ latitude: -8.5072
 loc_type: city
 longitude: 115.2618
 quick_facts:
-  Craft Villages: Silver, wood & painting
-  Monkey Forest: 1,000+ macaques
-  Subak: UNESCO-listed rice irrigation
-  Surrounded By: Terraced rice paddies
+  Elevation: ~200 m
+  Monkey Forest: 1,200 macaques
+  Population: ~75,000
+  Rice Terraces: UNESCO-listed subak
 score: 9.7
 snippet: Balinese cultural town among rice terraces and river gorges, known for dance,
   painting, and temples

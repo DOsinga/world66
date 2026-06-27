@@ -13,8 +13,8 @@ latitude: 36.167426
 loc_type: city
 longitude: -115.148413
 quick_facts:
+  Hotel Rooms: Most of any US city
   In the Mojave: A desert resort city
-  Most Hotel Rooms: Of any US city
   Population: ~660,000 (metro ~2.3M)
   The Strip: 6.8 km of casinos
 score: 9.39

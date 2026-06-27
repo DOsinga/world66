@@ -5,7 +5,6 @@ snippet: Victorian industrial complex converted into Toronto's best arts and din
 story: The Gooderham & Worts Distillery opened in 1832 and by the 1860s was the largest distillery in the British Empire, producing 2 million gallons of whisky per year. The complex closed in 1990 and sat derelict until 2001, when a heritage restoration project converted the 47 Victorian industrial buildings into galleries, studios, and restaurants — without demolishing a single structure. The Christmas market held here each winter is one of the most atmospheric in North America.
 tags:
 - things_to_do
-- neighbourhood
 - historic
 title: Distillery Historic District
 type: poi

@@ -9,10 +9,10 @@ latitude: 35.3197
 loc_type: city
 longitude: 139.5502
 quick_facts:
-  Beach: Tokyo's nearest surf
-  Great Buddha: Open-air since a tsunami
-  Temples: Dozens across the hills
-  Was: Seat of the shogunate (1185–1333)
+  Capital Years: 1185–1333
+  Great Buddha: 13.4 m bronze
+  Open-Air Buddha: Hall lost to a tsunami
+  Temples: 65+ in the hills
 score: 9.45
 snippet: Ancient Japanese warrior capital where Zen temples and samurai history sit
   between wooded hills and the sea.

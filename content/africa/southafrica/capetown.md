@@ -10,10 +10,10 @@ latitude: -33.92883
 loc_type: city
 longitude: 18.41722
 quick_facts:
-  Cape Floral Region: More plant species than the UK
-  Nearby: Atlantic & Indian oceans meet
-  Robben Island: Mandela's prison for 18 years
-  Table Mountain: Around 6 million years old
+  Founded: '1652'
+  Plant Species: More than all of Britain
+  Robben Island: Mandela jailed 18 years
+  Table Mountain: 1,085 m high
 score: 9.86
 snippet: South African coastal city beneath Table Mountain, blending beaches, vineyards,
   colonial history, and post-apartheid complexity.

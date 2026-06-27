@@ -10,10 +10,10 @@ latitude: 22.050384
 loc_type: city
 longitude: -159.558862
 quick_facts:
+  Age: 5 million years, oldest isle
   Nā Pali Coast: No road reaches it
-  Oldest: Of the main Hawaiian islands
-  Waimea Canyon: '''Grand Canyon of the Pacific'''
-  Wettest Spot: Near Earth's rainiest place
+  Waimea Canyon: 900 m deep
+  Wettest Spot: Among Earth's rainiest
 score: 9.58
 snippet: Hawaiian island known as the Garden Isle, with the Na Pali Coast and Waimea
   Canyon.

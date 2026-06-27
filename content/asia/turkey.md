@@ -54,6 +54,7 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Troy](/asia/turkey/troy) — the legendary city near Canakkale
 - [Bursa](/asia/turkey/bursa) — first Ottoman capital, great bazaar, good food
 - [Canakkale](/asia/turkey/canakkale) — ferry town for Gallipoli and Troy
+- [Edremit](/asia/turkey/edremit) — northern Aegean base for Mount Ida, olive country, thermal villages, and gulf beaches
 - [Kusadasi](/asia/turkey/kusadasi) — cruise-ship port and base for Ephesus
 - [Alanya](/asia/turkey/alanya) — beach resort on the eastern Mediterranean coast
 - [Pamukale](/asia/turkey/pamukale) — the white calcium terraces and ancient Hierapolis above them

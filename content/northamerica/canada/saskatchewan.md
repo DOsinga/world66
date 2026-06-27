@@ -28,3 +28,4 @@ Saskatchewan is culturally diverse — Cree, Dene, Saulteaux, Métis, and the de
 [Prince Albert](/northamerica/canada/saskatchewan/prince_albert)
 [North Battleford](/northamerica/canada/saskatchewan/north_battleford)
 [Swift Current](/northamerica/canada/saskatchewan/swift_current)
+[Canora](/northamerica/canada/saskatchewan/canora)

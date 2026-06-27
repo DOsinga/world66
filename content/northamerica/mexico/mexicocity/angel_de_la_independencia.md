@@ -2,7 +2,7 @@
 title: "El Ángel de la Independencia"
 type: poi
 snippet: "Gilded victory column at the heart of the Paseo de la Reforma"
-tags: [things_to_do, sight]
+tags: [things_to_do, sight, juarez]
 latitude: 19.4270
 longitude: -99.1677
 score: 6.8

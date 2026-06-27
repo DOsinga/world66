@@ -4,7 +4,7 @@ done:
 latitude: 41.5225
 loc_type: city
 longitude: -90.5756
-score: 0.39
+score: 7.0
 snippet: Mississippi River city and Iowa anchor of the Quad Cities, with museums and
   blufftop neighborhoods.
 sources:

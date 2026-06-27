@@ -4,7 +4,7 @@ done:
 latitude: -19.9976
 loc_type: city
 longitude: 57.5882
-score: 0.43
+score: 7.15
 snippet: Compact north-coast Mauritius beach village with calm swimming between Grand
   Baie and Cap Malheureux.
 sources:

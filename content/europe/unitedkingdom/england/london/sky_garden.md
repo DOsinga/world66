@@ -1,19 +1,20 @@
 ---
-title: Sky Garden
-type: poi
-snippet: A free public garden and viewing terrace on top of the Walkie-Talkie skyscraper
-tags:
-  - things_to_do
-  - sight
-  - viewpoint
-  - free
-latitude: 51.5113
-longitude: -0.0838
 address: 20 Fenchurch Street, London EC3M 8AF
 admission: Free with advance booking
+latitude: 51.5113
+longitude: -0.0838
 opening_hours: Mon-Fri 10am-6pm, Sat-Sun 11am-9pm
-url: skygarden.london
 score: 7.1
+snippet: A free public garden and viewing terrace on top of the Walkie-Talkie skyscraper
+tags:
+- things_to_do
+- sight
+- viewpoint
+- free
+- the_city
+title: Sky Garden
+type: poi
+url: skygarden.london
 ---
 
 The top three floors of Rafael Vinoly's so-called "Walkie-Talkie" building hold an enclosed public garden — three storeys of Mediterranean and South African planting under a curved glass roof — with two outdoor terraces and 360-degree views over the City of London. The building was given planning permission on condition that the upper floors be a public space, and admission is free if you book a slot online in advance.

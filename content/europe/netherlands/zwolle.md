@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sassenpoort,_Zwolle_(Nethe
 latitude: 52.5167
 loc_type: city
 longitude: 6.1
-score: 0.43
+score: 7.15
 snippet: Hanseatic Overijssel city with a handsome old centre, medieval gate, museums,
   and serious food.
 sources:

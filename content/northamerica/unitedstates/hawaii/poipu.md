@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial-Poipu-Beach-Park-Ka
 latitude: 21.8767
 loc_type: city
 longitude: -159.4539
-score: 0.41
+score: 7.08
 snippet: Sunny Kauai south-shore resort village built around calm beaches and lava-rock
   coast.
 sources:

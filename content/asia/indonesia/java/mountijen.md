@@ -25,4 +25,4 @@ The crater lake — [Kawah Ijen](/asia/indonesia/java/mountijen/kawah_ijen) — 
 
 The trek starts at the Paltuding basecamp at 1,841 metres elevation. The 3-kilometre hike to the crater rim gains 435 metres and takes most visitors 90 minutes to two hours. From the rim you can look down into the turquoise lake and across to the steaming vents. Descending into the crater for the blue fire views requires care and a gas mask — sulphuric fumes are dangerous and conditions change quickly with the wind. The Ijen Geopark was designated a UNESCO Global Geopark in 2023.
 
-From the same base, [Banyuwangi](/asia/indonesia/java/banyuwangi) — the regency capital and main town — is about 1.5 hours by road. Many visitors combine an Ijen visit with Baluran National Park to the north or a crossing to Bali via the Ketapang-Gilimanuk ferry.
+From the same base, Banyuwangi — the regency capital and main town — is about 1.5 hours by road. Many visitors combine an Ijen visit with Baluran National Park to the north or a crossing to Bali via the Ketapang-Gilimanuk ferry.

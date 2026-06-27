@@ -5,6 +5,7 @@ snippet: World-class collection of pre-Columbian art and artifacts
 tags:
 - things_to_do
 - museum
+- chapultepec
 title: Museo Nacional de Antropología
 type: poi
 score: 9.7

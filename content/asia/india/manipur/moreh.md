@@ -4,7 +4,7 @@ done:
 latitude: 24.2477
 loc_type: city
 longitude: 94.3031
-score: 0.22
+score: 6.36
 snippet: Manipur border town on NH102, facing Tamu and the Kabaw Valley across the
   Myanmar frontier.
 sources:

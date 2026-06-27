@@ -7,6 +7,7 @@ snippet: Largest cathedral in the Americas, slowly sinking into ancient lake-bed
 tags:
 - things_to_do
 - architecture
+- centro_historico
 title: Metropolitan Cathedral
 type: poi
 score: 8.9

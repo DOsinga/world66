@@ -1,18 +1,22 @@
 ---
-title: Basilica di San Marco
-type: poi
-tags:
-  - things_to_do
-  - san_marco
-  - sight
-  - architecture
 latitude: 45.4345
 longitude: 12.3397
-snippet: "Byzantine masterpiece with 8,000 square metres of gold mosaics"
-neighbourhood: San Marco
-story: >
-  The four bronze horses above the entrance are copies — the originals were looted from Constantinople during the Fourth Crusade in 1204 and are now inside the basilica's museum. Venice's greatest church was built to house stolen relics and decorated with stolen art. The Venetians called this acquisizione rather than theft.
 score: 10.0
+snippet: Byzantine masterpiece with 8,000 square metres of gold mosaics
+story: 'The four bronze horses above the entrance are copies — the originals were
+  looted from Constantinople during the Fourth Crusade in 1204 and are now inside
+  the basilica''s museum. Venice''s greatest church was built to house stolen relics
+  and decorated with stolen art. The Venetians called this acquisizione rather than
+  theft.
+
+  '
+tags:
+- things_to_do
+- san_marco
+- sight
+- architecture
+title: Basilica di San Marco
+type: poi
 ---
 
 The Basilica di San Marco is one of the finest Byzantine buildings in the world, a glittering accumulation of marble, mosaic, and gilded decoration that took centuries to assemble and still overwhelms at first sight. The current building dates mainly from the 11th century, though building and embellishment continued for several hundred years after that.

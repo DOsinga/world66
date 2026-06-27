@@ -1,0 +1,19 @@
+---
+latitude: 48.790136
+longitude: 9.183836
+score: 6.5
+snippet: Interactive illusion museum in Stuttgart, best as a light indoor stop between
+  larger city sights.
+sources:
+- https://stuttgart.museumderillusionen.de/en/
+- https://en.wikivoyage.org/wiki/Stuttgart
+tags:
+- things_to_do
+- museum
+title: Museum of Illusions Stuttgart
+type: poi
+---
+
+Museum of Illusions Stuttgart is a museum in Stuttgart, adding a focused stop for travellers who want more than the obvious headline sights. It earns its place here because it gives Stuttgart visitors a concrete place to build into a half-day route, whether for culture, scenery, family time, or local history.
+
+It is a good fit when you want context that the headline monuments do not provide, especially on a wet or slower day. Check the official source before you go for current hours, access details, and any booking requirements, then pair it with nearby sights instead of crossing town for a rushed look.

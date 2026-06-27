@@ -6,7 +6,11 @@ tags:
 - neighbourhood
 latitude: 34.673
 longitude: 135.4988
-snippet: "Osaka's streetwear and subculture hub, centred on Triangle Park"
+snippet: Osaka's streetwear and subculture hub, centred on Triangle Park
+image: amerikamura.jpg
+image_source: https://commons.wikimedia.org/wiki/File:American-Village_-01-.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Wikipedia
 ---
 
 A cluster of blocks west of the Shinsaibashi shopping arcade, known since the 1970s as the city's centre for streetwear, second-hand American clothing, vintage goods, and youth subculture. The name — 'American Village' — comes from the era when the area specialised in importing American surplus clothing; it has since diversified into all forms of youth retail and nightlife.

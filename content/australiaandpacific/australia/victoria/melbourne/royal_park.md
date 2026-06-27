@@ -6,7 +6,7 @@ latitude: -37.7862
 longitude: 144.9495
 tags:
   - things_to_do
-  - carlton
+  - parkville
   - landmark
   - park
 story: >

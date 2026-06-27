@@ -4,7 +4,7 @@ done:
 latitude: 18.6769
 loc_type: city
 longitude: -88.3953
-score: 0.52
+score: 7.46
 snippet: Lakeside Pueblo Mágico on a turquoise freshwater lagoon near Mexico's Belize
   border.
 sources:

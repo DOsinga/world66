@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_and_Cathedral_of_Za
 latitude: 22.7736
 loc_type: city
 longitude: -102.5736
-score: 0.5
+score: 7.4
 snippet: Pink-stone silver city in northern Mexico, built in a ravine beneath Cerro
   de la Bufa.
 sources:

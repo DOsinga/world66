@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Border_town_Chui.jpg
 latitude: -33.6964
 loc_type: city
 longitude: -53.46
-score: 0.29
+score: 6.64
 snippet: Uruguayan border city where one street divides Spanish-speaking Uruguay from
   Portuguese-speaking Brazil.
 sources:

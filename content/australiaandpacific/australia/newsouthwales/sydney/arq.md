@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - bar
 - club
+- darlinghurst
 title: ARQ
 type: poi
 score: 6.1

@@ -2,10 +2,14 @@
 title: Newtown
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: -33.8979
 longitude: 151.1794
+image: newtown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Newtown,_New_South_Wales_(26204964770).jpg
+image_license: CC BY 2.0
+image_attribution: Jeremy from Sydney, Australia
 ---
 
 Newtown is Sydney's most countercultural neighbourhood, a dense strip of terrace houses, vintage shops, vegan restaurants, live music venues and LGBTQ+ bars stretching along King Street about four kilometres southwest of the CBD. It is the kind of neighbourhood that has absorbed repeated waves of gentrification without quite losing its edge — partly because the university (University of Sydney) keeps the student population high, and partly because rents along King Street have somehow stayed lower than equivalent strips elsewhere.

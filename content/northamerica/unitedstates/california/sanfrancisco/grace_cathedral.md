@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+  - nob_hill
 story: "The bronze doors at the entrance are casts of Ghiberti's Gates of Paradise on the Florence Baptistery — made from the original moulds, with Lorenzo Ghiberti's permission, in 1903 and rescued from the 1906 earthquake. They are the only authorised reproductions in existence."
 score: 8.2
 ---

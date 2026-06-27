@@ -253,6 +253,8 @@ longitude: 12.4833
 
 Do not publish a POI without coordinates. If you cannot determine them, leave the file out. Don't make up coordinates. Check and double check.
 
+A `neighbourhood` page also needs `latitude` and `longitude` — this is the pin for its card on the city map. Give it the **centre of the district**, and make sure it is not identical to one of its POIs. The map deduplicates markers that share the exact same coordinate, so a neighbourhood whose centre lands on top of one of its own POIs will silently drop off the map. (This is a placement bug, not a tagging one — the neighbourhood's POIs still collect correctly via its slug tag.)
+
 ## POI scores
 
 Every POI must have a `score` field in its frontmatter. Scores are floats from `1.0` to `10.0` and are used to order POI lists within a location, with the most important places first.
@@ -273,6 +275,18 @@ Use this scale:
 ```yaml
 score: 7.4
 ```
+
+### Location scores (`loc_type: city` / `feature` / `island`)
+
+Cities, features, and islands — `type: location` pages below the region level — also carry a `score` on the same `1.0`-`10.0` scale as POIs, so destinations and the sights within them sort consistently everywhere they're listed together.
+
+These scores aren't hand-picked one at a time the way POI scores are. They come from `tools/rank_locations.py`, which repeatedly asks Claude to order small batches of destinations from best to worst, fits a Plackett-Luce model to the accumulated pairwise rankings, and percentile-maps the result onto the same score distribution as scored POIs (`POI_SCORE_QUANTILES` in that file). This keeps location and POI scores comparable without manually comparing every location against every POI.
+
+A brand-new city/feature/island page won't have a score until it's been through that process. Don't leave it unscored in the meantime — either:
+- run `python tools/rank_locations.py discover`, then enough `run --rounds` against the Claude API to get it compared, then `apply`; or
+- if that's not practical right now, hand-calibrate a score by comparing the new page against sibling locations in the same parent directory, the same way you would for a POI.
+
+**Countries, regions, and continents are scored on a separate, older `0.0`-`1.0` scale** that predates this system and is unrelated to it — don't try to "fix" a country score that looks low next to a city's `7.4`. Only `city`/`feature`/`island` locations and POIs use the `1.0`-`10.0` scale.
 
 ## Sources
 

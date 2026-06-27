@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PlayaCostadelSolMDP-jul201
 latitude: 13.3388
 loc_type: feature
 longitude: -88.9952
-score: 0.28
+score: 6.61
 snippet: Long Pacific beach strip near San Salvador, backed by the mangroves of Estero
   de Jaltepeque.
 sources:

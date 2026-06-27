@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bidar_Fort,_Bidar,_Karnata
 latitude: 17.912
 loc_type: city
 longitude: 77.52
-score: 0.34
+score: 6.82
 snippet: Northern Karnataka fortress city of Bahmani tombs, Persianate ruins, and
   quiet Deccan lanes near Telangana.
 sources:

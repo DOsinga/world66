@@ -21,11 +21,3 @@ The sights, sounds, and smells are unforgettable.
 *Take the Dundas 505 streetcar west from Dundas or St Patrick Stations, the 510 Spadina Streetcar from Union Station or Spadina Station to Spadina and Dundas.*
 
 *Kensington Market is also nearby, a short walk north on Spadina Street.*
-
-type: Markets
-
-
-
-
-
-address: Spadina and Dundas Street West

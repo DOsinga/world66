@@ -1,17 +1,22 @@
 ---
-title: Museum of Aviation
-type: poi
+image: museum_of_aviation.jpg
+image_attribution: ZemplinTemplar
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%22Flying_Bulls%22_MBB_Bo-105_CB_Aerov%C3%ADkend_2010_air_show_(Museum_of_Aviation_in_Ko%C5%A1ice)_01.jpg
+latitude: 48.668253
+longitude: 21.235643
+score: 6.6
+snippet: Aircraft collection beside Košice airport.
+sources:
+- https://en.wikipedia.org/wiki/Museum_of_Aviation_(Ko%C5%A1ice)
+- https://en.wikivoyage.org/wiki/Ko%C5%A1ice
+- https://stm-ke.sk/en/branches/museum-of-aviation-in-kosice/basic-information
 tags:
 - things_to_do
 - museum
-latitude: 48.6682
-longitude: 21.2356
-sources:
-- https://en.wikipedia.org/wiki/Museum_of_Aviation_(Ko%C5%A1ice)
-image: museum_of_aviation.jpg
-image_source: https://commons.wikimedia.org/wiki/File:%22Flying_Bulls%22_MBB_Bo-105_CB_Aerov%C3%ADkend_2010_air_show_(Museum_of_Aviation_in_Ko%C5%A1ice)_01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: ZemplinTemplar
+- aviation
+title: Museum of Aviation
+type: poi
 ---
 
 The Museum of Aviation occupies a corner of Košice International Airport, on the southern edge of the city, and is the only specialised aviation museum in Slovakia. The collection covers most of the 20th century — early biplanes, Second World War piston fighters, and a substantial run of Cold War Soviet-bloc jets including MiG-15s, MiG-21s, and a Sukhoi Su-22, plus the helicopters and trainers that made up the Czechoslovak air force inventory. Some aircraft are displayed in the open air on the apron, others in hangars together with engines, ejection seats, and uniforms.

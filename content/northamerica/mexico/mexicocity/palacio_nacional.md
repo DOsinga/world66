@@ -8,6 +8,7 @@ snippet: Mexico's seat of government, famous for Diego Rivera's monumental mural
 tags:
 - things_to_do
 - landmark
+- centro_historico
 title: Palacio Nacional
 type: poi
 score: 9.3

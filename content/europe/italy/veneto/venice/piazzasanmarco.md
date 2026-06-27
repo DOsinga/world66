@@ -1,15 +1,15 @@
 ---
 latitude: 45.4343
 longitude: 12.3387
-snippet: "Venice's grand square — basilica, campanile, Doge's Palace, and Napoleon's ceiling"
-neighbourhood: San Marco
+score: 9.3
+snippet: Venice's grand square — basilica, campanile, Doge's Palace, and Napoleon's
+  ceiling
 tags:
 - things_to_do
 - san_marco
 - sight
 title: Piazza San Marco
 type: poi
-score: 9.3
 ---
 
 The great set piece of Venice — the only place in the city that Napoleon called a salon. The piazza houses the Basilica di San Marco on the eastern end, the Campanile (98 metres, with excellent views) on the south side, the Torre dell'Orologio on the north, and the Doge's Palace leading off to the Piazzetta at the southeast corner. The Procuratie Vecchie and Procuratie Nuove line the north and south sides respectively, their continuous arcades giving the square its distinctive proportions.

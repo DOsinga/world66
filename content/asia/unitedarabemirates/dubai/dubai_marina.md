@@ -1,6 +1,12 @@
 ---
+image: dubai_marina.jpg
+image_attribution: Radoslaw Botev
+image_license: CC BY 3.0 pl
+image_source: https://commons.wikimedia.org/wiki/File:Dubai_Marina_(2).jpg
 latitude: 25.0757
 longitude: 55.1329
+snippet: Man-made canal city of high-rise towers and waterfront restaurants in New
+  Dubai
 tags:
 - things_to_do
 - neighbourhood

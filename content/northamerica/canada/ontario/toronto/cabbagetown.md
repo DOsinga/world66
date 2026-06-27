@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Cabbagetown
 type: neighbourhood
+image: cabbagetown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cabbagetown_-_Toronto_(5093595303).jpg
+image_license: CC BY 2.0
+image_attribution: Mark
 ---
 
 Cabbagetown — the area east of Parliament Street between Bloor and Gerrard — is the largest concentration of preserved Victorian residential architecture in North America. The neighbourhood was originally settled by Irish immigrants in the 19th century (the cabbages they grew in their front gardens gave it the name). By the mid-20th century it had declined significantly; a 1970s restoration movement saved it from demolition, and today the narrow streets of terrace houses and semi-detached Victorians are among the most photographed in the city.

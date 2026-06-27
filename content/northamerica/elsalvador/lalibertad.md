@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CA-2,_La_Libertad,_El_Salv
 latitude: 13.4833
 loc_type: city
 longitude: -89.3167
-score: 0.31
+score: 6.72
 snippet: Pacific port town and surf-coast gateway, known for seafood, black-sand beaches,
   and Punta Roca.
 sources:

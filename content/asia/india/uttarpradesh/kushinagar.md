@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kushinara1.jpg
 latitude: 26.741
 loc_type: city
 longitude: 83.888
-score: 0.34
+score: 6.82
 snippet: Buddhist pilgrimage town where the Buddha is believed to have entered parinirvana.
 sources:
 - https://en.wikipedia.org/wiki/Kushinagar

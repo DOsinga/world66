@@ -12,10 +12,10 @@ latitude: 39.905714
 loc_type: city
 longitude: 116.391297
 quick_facts:
-  Forbidden City: Some 9,000 rooms
-  Great Wall: Restored sections nearby
-  Hutongs: Vanishing alley neighbourhoods
-  Was Home To: 24 emperors
+  Emperors Housed: '24'
+  Forbidden City: 9,000 rooms
+  Great Wall: 90 min away
+  Population: 21 million
 score: 9.46
 snippet: China's northern capital, centred on imperial landmarks including the Forbidden
   City, Temple of Heaven, and Summer Palace.

@@ -8,6 +8,7 @@ snippet: Top-tier cabaret in a mirrored Dutch tent
 tags:
 - things_to_do
 - nightlife
+- wilmersdorf
 title: Bar jeder Vernuft
 type: poi
 score: 8.2

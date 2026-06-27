@@ -6,9 +6,18 @@ done:
 latitude: 0.317714
 loc_type: city
 longitude: 32.581354
+quick_facts:
+  Built On: Seven hills, originally
+  Kasubi Tombs: Royal Buganda burial site
+  Near the Source: Of the White Nile at Jinja
+  Population: ~1.7 million
 score: 6.87
 snippet: Ugandan capital built across hills above Lake Victoria, busy with markets,
   matatus, and royal tombs.
+tip: Kampala is a green, hilly, hectic city — originally built on seven hills like
+  Rome, now sprawled over many more. It is friendly and English-speaking, the launchpad
+  for gorilla treks and the Nile at Jinja. See the Kasubi Tombs of the Buganda kings.
+  Boda-boda motorbike taxis are fast but risky; agree the fare and hold on.
 title: Kampala
 type: location
 ---

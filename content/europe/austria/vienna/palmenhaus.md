@@ -6,7 +6,7 @@ snippet: Cocktails under glass domes in a Jugendstil greenhouse
 tags:
 - bars_and_cafes
 - sight
-- museumsquartier
+- innere_stadt
 title: Palmenhaus
 type: poi
 score: 6.9

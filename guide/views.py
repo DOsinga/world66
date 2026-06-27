@@ -382,16 +382,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 'snippet': poi.meta.get('snippet', '') or '',
             })
 
-    # Inspiration image strip for section pages — up to 12 POI images
-    poi_images = []
-    if page.page_type in NAV_TYPES:
-        for poi in pois:
-            img_path = _image_path(poi, source_ref)
-            if img_path:
-                href = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
-                poi_images.append({'url': f'{poi.url_prefix}/content-image/{img_path}', 'title': poi.title, 'href': href})
-            if len(poi_images) >= 12:
-                break
 
     # For small city pages (< 8 POIs total): inline sections directly instead of section cards
     inline_sections = None
@@ -457,7 +447,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
-        "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
         "daytrip_cards": daytrip_cards,

@@ -196,42 +196,6 @@
 </div>
 {% endif %}
 
-{% if poi_images %}
-<p class="poi-strip-label">Visual inspiration</p>
-<div class="poi-strip-wrap">
-  <button class="poi-strip-arrow poi-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
-  <div class="poi-strip" id="poi-strip">
-    {% for img in poi_images %}
-    <a href="{{ img.href }}" class="poi-strip-item" title="{{ img.title }}">
-      <img src="{{ img.url }}" alt="{{ img.title }}">
-    </a>
-    {% endfor %}
-  </div>
-  <button class="poi-strip-arrow poi-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
-</div>
-<script>
-(function() {
-  var wrap = document.querySelector('.poi-strip-wrap');
-  var strip = document.getElementById('poi-strip');
-  var prev = wrap.querySelector('.poi-strip-arrow--prev');
-  var next = wrap.querySelector('.poi-strip-arrow--next');
-  if (!strip) return;
-  function update() {
-    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
-    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
-    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
-    next.style.opacity = atEnd ? '0' : '1';
-    next.style.pointerEvents = atEnd ? 'none' : '';
-  }
-  var step = 320;
-  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
-  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
-  strip.addEventListener('scroll', update);
-  update();
-})();
-</script>
-{% endif %}
-
 {% endblock %}
 
 {% block wide_content %}

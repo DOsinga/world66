@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Arabian_shepherd_selling_s
 latitude: 31.625826
 loc_type: city
 longitude: -7.989161
+quick_facts:
+  Jemaa El-Fnaa: UNESCO 'living heritage'
+  Majorelle Garden: Rescued by Yves Saint Laurent
+  Medina: A walled maze of souks
+  Nickname: The 'Red City'
 score: 9.47
 snippet: Moroccan imperial city of ochre medina walls, Jemaa el-Fna theatre, and Atlas
   Mountain backdrops.
+tip: The medina is a maze and the 'helpful' boys offering directions expect payment
+  — politely decline and use your phone. Haggling in the souks is expected; start
+  around a third of the asking price. Jemaa el-Fnaa square becomes a food-and-performance
+  circus at dusk. Stay in a riad — a courtyard house hidden behind a blank wall.
 title: Marrakesh
 type: location
 ---

@@ -11,9 +11,9 @@ loc_type: city
 longitude: -54.441114
 quick_facts:
   Borders: Argentina & Brazil
-  Compared To Niagara: Three times as wide
   Devil's Throat: 80 m high
-  Waterfalls: ~275 separate drops
+  Waterfalls: ~275 drops
+  Wider Than Niagara: Three times over
 score: 9.94
 snippet: Border-straddling waterfall system where subtropical forest drops into the
   roaring Garganta del Diablo.

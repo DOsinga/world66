@@ -12,11 +12,11 @@ latitude: 13.7563
 loc_type: city
 longitude: 100.5018
 quick_facts:
-  Emerald Buddha: Robed by the king each season
   Locals Just Say: Krung Thep — 'City of Angels'
   World's Longest Place Name: Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya
     Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman
     Awatan Sathit Sakkathattiya Witsanukam Prasit
+  Emerald Buddha: Robed by the king each season
   World's Most-Visited City: Tops global rankings
 score: 9.73
 snippet: Thai capital on the Chao Phraya River, where royal temples, street food,

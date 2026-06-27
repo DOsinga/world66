@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gomukh_ghat,_Omkareshwar_0
 latitude: 22.25
 loc_type: city
 longitude: 76.15
-score: 0.34
+score: 6.82
 snippet: Narmada river island pilgrimage town centred on one of Shiva's twelve jyotirlinga
   temples.
 sources:

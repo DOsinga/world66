@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kolon%C3%A1dov%C3%BD_most,
 latitude: 48.5892
 loc_type: city
 longitude: 17.834
-score: 0.42
+score: 7.11
 snippet: Slovak spa town on the Váh, known for thermal mud, elegant bridges, and slow
   riverside days.
 sources:

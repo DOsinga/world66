@@ -4,7 +4,7 @@ done:
 latitude: 56.8625
 loc_type: city
 longitude: 35.9242
-score: 0.42
+score: 7.11
 snippet: Historic Volga city between Moscow and St Petersburg, with imperial palaces
   and river embankments.
 sources:

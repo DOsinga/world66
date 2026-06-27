@@ -2,10 +2,14 @@
 title: Carlton
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: -37.8001
 longitude: 144.9671
+image: carlton.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Carlton_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Sgroey
 ---
 
 Carlton is the inner-city suburb most associated with Melbourne's Italian community. After World War II, waves of Italian immigrants settled here and transformed Lygon Street into a strip of espresso bars, trattorias, and delis that became central to the city's food culture. The area around Lygon and Carlton Gardens remains the heart of the Italian quarter, though the community has spread through the northern suburbs over the decades and the street now mixes Italian stalwarts with newer arrivals.

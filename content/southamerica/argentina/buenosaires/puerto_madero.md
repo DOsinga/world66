@@ -1,11 +1,15 @@
 ---
-title: "Puerto Madero"
+title: Puerto Madero
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: -34.6162
 longitude: -58.3618
+image: puerto_madero.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Buenos_Aires,_the_Woman%27s_Bridge_(123009).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Wikipedia
 ---
 
 The former industrial docklands east of the Microcentro, redeveloped since the 1990s into a neighbourhood of renovated red-brick warehouses, glass towers, footbridges, and riverside restaurants. Puerto Madero is expensive and a little sterile — the dining scene tends toward expense-account steak houses and the hotels toward international business chains — but it has good views back toward the city skyline and some worthwhile architecture.

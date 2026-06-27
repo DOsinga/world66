@@ -1,13 +1,19 @@
 ---
-title: Hozenji Yokocho
-type: poi
+latitude: 34.6679
+longitude: 135.5047
+score: 8.4
+snippet: Atmospheric stone-paved alley of tiny bars and izakaya off Dotonbori
+story: Hozenji Yokocho is a stone-paved alley barely wide enough for two people to
+  pass, flanked by tiny bars and restaurants with lanterns glowing at head height.
+  The small temple at its centre — Hozenji — has a moss-covered Fudo-Myo-o statue
+  that visitors throw water onto as they pray, and the statue is now completely encased
+  in a thick layer of living moss from a century of water offerings.
 tags:
 - things_to_do
 - eating_out
-latitude: 34.6679
-longitude: 135.5047
-story: "Hozenji Yokocho is a stone-paved alley barely wide enough for two people to pass, flanked by tiny bars and restaurants with lanterns glowing at head height. The small temple at its centre — Hozenji — has a moss-covered Fudo-Myo-o statue that visitors throw water onto as they pray, and the statue is now completely encased in a thick layer of living moss from a century of water offerings."
-score: 8.4
+- namba
+title: Hozenji Yokocho
+type: poi
 ---
 
 A narrow stone-paved alley in the Namba district, one of the most atmospheric eating and drinking streets in Osaka. The alley runs between two streets, lined with small bars, restaurants, and izakayas that seat perhaps a dozen people each. Lanterns hang at eye height, and on a wet evening the stone pavement reflects the light from inside the tiny rooms.

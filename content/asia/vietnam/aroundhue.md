@@ -4,7 +4,7 @@ done:
 latitude: 16.35
 loc_type: feature
 longitude: 107.85
-score: 0.58
+score: 7.66
 snippet: Coastal region around Hue where lagoons, beaches, tombs, and the Hai Van
   Pass sit within easy reach.
 title: Around Hue

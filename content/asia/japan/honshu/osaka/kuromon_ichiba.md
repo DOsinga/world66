@@ -1,14 +1,20 @@
 ---
-title: Kuromon Ichiba Market
-type: poi
+latitude: 34.6672
+longitude: 135.5075
+score: 7.5
+snippet: Osaka's liveliest covered food market — fresh seafood and street snacks
+story: Kuromon has been Osaka's primary wholesale food market since the 1820s, earning
+  the nickname 'Osaka's Kitchen.' Most of the 170 stalls are still wholesale operations
+  that sell to restaurants before 9am, but they stay open through the lunch hour selling
+  directly to the public — crab legs, sea urchin on rice, grilled beef skewers, and
+  fresh takoyaki.
 tags:
 - things_to_do
 - eating_out
 - market
-latitude: 34.6672
-longitude: 135.5075
-story: "Kuromon has been Osaka's primary wholesale food market since the 1820s, earning the nickname 'Osaka's Kitchen.' Most of the 170 stalls are still wholesale operations that sell to restaurants before 9am, but they stay open through the lunch hour selling directly to the public — crab legs, sea urchin on rice, grilled beef skewers, and fresh takoyaki."
-score: 7.5
+- namba
+title: Kuromon Ichiba Market
+type: poi
 ---
 
 The city's most atmospheric covered food market, running under a long glass-roofed arcade one street east of the main Namba shopping area. The 170-plus stalls sell fresh fish, shellfish, meat, pickles, fruit, and prepared foods, and the best way to use it is as an eating experience rather than a shopping trip — most vendors sell small portions to eat standing at the stall.

@@ -4,7 +4,7 @@ done:
 latitude: 49.8681
 loc_type: city
 longitude: 6.1567
-score: 0.39
+score: 7.0
 snippet: Small Sauer valley town known for military history, beer, and easy access
   to Vianden
 sources:

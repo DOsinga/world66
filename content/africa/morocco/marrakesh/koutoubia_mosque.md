@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - mosque
 - sight
-- semlalia
+- medina
 title: Koutoubia Mosque
 type: poi
 ---

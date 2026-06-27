@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calder_valley_hebden_bridg
 latitude: 53.742
 loc_type: city
 longitude: -2.009
-score: 0.43
+score: 7.15
 snippet: Calder Valley market town of steep terraces, independent shops, canals, moorland,
   and literary-arts energy.
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: -43.2533
 loc_type: city
 longitude: -65.3094
-score: 0.42
+score: 7.11
 snippet: Chubut Valley city known for dinosaur fossils, Welsh Patagonia history, and
   access to Gaiman.
 sources:

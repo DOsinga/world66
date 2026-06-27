@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:32nd_Avenue_in_Gurgaon_(P1
 latitude: 28.456
 loc_type: city
 longitude: 77.029
-score: 0.34
+score: 6.82
 snippet: Delhi satellite city of glass towers, old Haryana villages, malls, and surviving
   Aravalli scrub.
 sources:

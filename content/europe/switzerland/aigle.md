@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aigle,_Switzerland_-_panor
 latitude: 46.3167
 loc_type: city
 longitude: 6.9667
-score: 0.44
+score: 7.18
 snippet: Vaud wine town below Leysin, with a turreted castle set among Chablais vineyards.
 sources:
 - https://en.wikipedia.org/wiki/Aigle

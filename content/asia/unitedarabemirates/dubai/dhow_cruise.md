@@ -1,12 +1,14 @@
 ---
 latitude: 25.2636
 longitude: 55.2981
+score: 6.9
+snippet: Evening dinner cruise along Dubai Creek on a traditional wooden dhow
 tags:
 - things_to_do
 - sight
+- al_fahidi
 title: Creek Dhow Cruise
 type: poi
-score: 6.9
 ---
 
 An evening dinner cruise on the Dubai Creek aboard a traditional wooden dhow is one of the city's most consistently enjoyable tourist experiences. The cruise takes about two hours, covering the Creek from the Bur Dubai waterfront to the mouth near Al Shindagha and back, with a buffet dinner served on board.

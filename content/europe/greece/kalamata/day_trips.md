@@ -3,7 +3,7 @@ title: "Day Trips"
 type: section
 linked_locations:
   - europe/greece/mani
-  - europe/greece/kalamata/mystras
+  - europe/greece/mistra
 ---
 
 Kalamata is one of the best-positioned cities in Greece for day trips to extraordinary places. The southern Peloponnese is dense with ancient sites, Byzantine towns, and wild landscape within two hours' drive.

@@ -4,7 +4,7 @@ done:
 latitude: -15.7167
 loc_type: city
 longitude: 46.3167
-score: 0.35
+score: 6.86
 snippet: Northwestern Malagasy port city of baobabs, red earth, sea air, and dry-season
   sunsets.
 sources:

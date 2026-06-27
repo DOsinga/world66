@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_Christ_Pantocrat
 latitude: 42.65
 loc_type: city
 longitude: 27.7333
-score: 0.55
+score: 7.56
 snippet: UNESCO Black Sea town of medieval brick churches on a narrow peninsula near
   Sunny Beach.
 sources:

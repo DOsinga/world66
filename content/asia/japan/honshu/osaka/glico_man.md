@@ -1,13 +1,20 @@
 ---
-title: Glico Running Man Sign
-type: poi
+latitude: 34.6688
+longitude: 135.5013
+score: 5.8
+snippet: Osaka's most photographed sight — the neon running man over Dotonbori
+story: The Glico Running Man has presided over Dotonbori since 1935. The original
+  sign was erected after Glico candy made a successful business recovery from a factory
+  fire, and the running figure — a celebration — became the visual mascot of Osaka
+  itself. The current sixth-generation sign, installed in 2014, incorporates LED screens
+  and changes colour, but the pose — arms raised, chest out, finishing line broken
+  — is unchanged after 90 years.
 tags:
 - things_to_do
 - sight
-latitude: 34.6688
-longitude: 135.5013
-story: "The Glico Running Man has presided over Dotonbori since 1935. The original sign was erected after Glico candy made a successful business recovery from a factory fire, and the running figure — a celebration — became the visual mascot of Osaka itself. The current sixth-generation sign, installed in 2014, incorporates LED screens and changes colour, but the pose — arms raised, chest out, finishing line broken — is unchanged after 90 years."
-score: 5.8
+- namba
+title: Glico Running Man Sign
+type: poi
 ---
 
 The illuminated figure of a runner breaking a finish line tape, mounted on a building above the Dotonbori canal, is the single most photographed image of Osaka. The sign advertises Glico, a confectionery company, and has stood in various incarnations at this spot since 1935. It became the visual symbol of the city rather than just an advertisement — the point on the Dotonbori bridge from which the sign is visible becomes a selfie queue after dark.

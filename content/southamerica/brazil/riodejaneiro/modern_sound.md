@@ -2,13 +2,14 @@
 address: Rua Barata Ribeiro, 502, Copacabana
 latitude: -22.9698
 longitude: -43.1882
-snippet: "Legendary Copacabana record store with live music stage"
+score: 6.6
+snippet: Legendary Copacabana record store with live music stage
 tags:
 - shopping
 - shop
+- copacabana
 title: Modern Sound
 type: poi
-score: 6.6
 ---
 
 Modern Sound is one of Rio's last great independent record stores, holding its ground on Rua Barata Ribeiro in Copacabana since 1966. The collection leans heavily into Brazilian music — bossa nova, MPB, samba, and tropicália — and the staff know their catalogue well enough to steer you toward the right Cartola album or a Hermeto Pascoal deep cut you didn't know you needed.

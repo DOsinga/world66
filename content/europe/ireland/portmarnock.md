@@ -10,6 +10,7 @@ snippet: Coastal Fingal town north of Dublin, known for Velvet Strand beach and 
   links golf.
 title: Portmarnock
 type: location
+score: 6.0
 ---
 
 Portmarnock is a coastal town in Fingal, on the sandy stretch of shore north of Dublin and an easy train ride from the city. Its name is bound up with two things: a magnificent beach and world-class golf.

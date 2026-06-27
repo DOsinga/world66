@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lago_Skadar,_Montenegro,_2
 latitude: 42.1667
 loc_type: feature
 longitude: 19.3167
-score: 0.62
+score: 7.78
 snippet: Vast Balkan border lake where reed beds, birdlife, island monasteries, and
   wine villages meet
 sources:

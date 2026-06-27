@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angla_tuulikud_Saaremaal.j
 latitude: 58.4167
 loc_type: island
 longitude: 22.5
-score: 0.5
+score: 7.4
 snippet: Estonia's largest island, a quiet Baltic world of juniper meadows, windmills,
   cliffs, and castles.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clocktower_Veles_Macedonia
 latitude: 41.72
 loc_type: city
 longitude: 21.7933
-score: 0.36
+score: 6.9
 snippet: Central Macedonian city on the Vardar, known for poets, old churches, and
   a dramatic war memorial
 sources:

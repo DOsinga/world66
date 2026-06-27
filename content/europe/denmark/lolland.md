@@ -2,7 +2,7 @@
 latitude: 54.77
 loc_type: feature
 longitude: 11.49
-score: 0.44
+score: 7.18
 title: Lolland
 type: location
 image: lolland.jpg

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gwalior_1991.jpg
 latitude: 26.2125
 loc_type: city
 longitude: 78.1775
-score: 0.45
+score: 7.22
 snippet: Madhya Pradesh fortress city where sandstone cliffs, Scindia palaces, and
   carved temples dominate the skyline.
 sources:

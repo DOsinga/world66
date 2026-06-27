@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_Square,_Peterbor
 latitude: 52.5661
 loc_type: city
 longitude: -0.2364
-score: 0.36
+score: 6.9
 snippet: Fast-growing cathedral city on the edge of the Fens, with Saxon stone, Bronze
   Age archaeology, and rail connections.
 sources:

@@ -2,7 +2,7 @@
 latitude: 55.3558
 longitude: 9.4856
 loc_type: city
-score: 0.42
+score: 7.11
 snippet: UNESCO-listed Moravian Brethren settlement of 1773, with uniform ochre buildings,
   an egalitarian cemetery, and the original honey cake.
 title: Christiansfeld

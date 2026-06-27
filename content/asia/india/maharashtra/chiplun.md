@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiplun_Clouds.JPG
 latitude: 17.53
 loc_type: city
 longitude: 73.52
-score: 0.28
+score: 6.61
 snippet: Inland Konkan town on the Vashishti River, used as a gateway to Sahyadri
   forests and forts.
 sources:

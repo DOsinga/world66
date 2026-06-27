@@ -1,8 +1,12 @@
 ---
+image: brickell.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Brickell_neighborhood_skyline_(60062p).jpg
 latitude: 25.758
 longitude: -80.193
 tags:
 - things_to_do
+- neighbourhood
 title: Brickell
 type: neighbourhood
 ---

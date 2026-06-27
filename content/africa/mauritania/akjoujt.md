@@ -4,7 +4,7 @@ done:
 latitude: 19.7458
 loc_type: city
 longitude: -14.3878
-score: 0.18
+score: 6.17
 snippet: Saharan mining town on the Nouakchott-Atar road, useful as a stop between
   coast and Adrar.
 sources:

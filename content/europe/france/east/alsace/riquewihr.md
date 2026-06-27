@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Riquewihr,_%C3%A9glise_Sai
 latitude: 48.1672
 loc_type: city
 longitude: 7.2978
-score: 0.51
+score: 7.43
 snippet: Walled Alsatian wine village of half-timbered lanes below the Schoenenbourg
   grand cru.
 sources:

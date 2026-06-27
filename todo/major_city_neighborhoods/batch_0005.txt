@@ -1,5 +1,0 @@
-europe/italy/lazio/rome
-northamerica/unitedstates/newyorkstate/newyork
-northamerica/unitedstates/nevada/lasvegas
-asia/japan/honshu/kyoto
-europe/unitedkingdom/scotland/edinburgh

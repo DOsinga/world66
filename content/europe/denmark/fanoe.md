@@ -2,7 +2,7 @@
 latitude: 55.4167
 longitude: 8.4
 loc_type: feature
-score: 0.44
+score: 7.18
 snippet: Small Wadden Sea island off Esbjerg with wide Atlantic beaches, the preserved
   village of Sønderho, and one of Denmark's most distinctive folk costumes.
 title: Fanø

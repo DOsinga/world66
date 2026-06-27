@@ -2,7 +2,7 @@
 latitude: 54.9511
 longitude: 9.88
 loc_type: city
-score: 0.33
+score: 6.79
 snippet: Small Als waterfront town with an 18th-century ducal palace, formal gardens,
   and a harbour on the Als Fjord.
 tags:

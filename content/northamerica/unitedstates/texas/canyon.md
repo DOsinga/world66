@@ -4,7 +4,7 @@ done:
 latitude: 34.9906
 loc_type: city
 longitude: -101.9192
-score: 0.34
+score: 6.82
 snippet: Texas Panhandle college town beside Palo Duro Canyon and the high-plains
   history museum.
 sources:

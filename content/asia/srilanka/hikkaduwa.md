@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hikkaduwa_beach_beauty.jpg
 latitude: 6.1407
 loc_type: city
 longitude: 80.1012
-score: 0.52
+score: 7.46
 snippet: Lively southwest Sri Lankan beach town known for coral reefs, surf breaks,
   turtles, and nightlife.
 sources:

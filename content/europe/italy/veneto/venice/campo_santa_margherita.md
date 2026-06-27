@@ -4,12 +4,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 45.4356
 longitude: 12.3233
-snippet: Venice's liveliest square, best at sunset with a Spritz
+score: 7.6
+snippet: Venice's liveliest square in Dorsoduro, best at sunset with a Spritz
 tags:
 - things_to_do
-- neighbourhood
+- sight
+- dorsoduro
 title: Campo Santa Margherita
-type: neighbourhood
+type: poi
 ---
 
 The large, lively square in Dorsoduro that functions as Venice's neighbourhood living room — lined with market stalls in the morning, cafes and student bars through the day and evening. Less touristic than San Marco and more animated than most of the city after dark. The surrounding streets contain some of the best independent restaurants in Venice.

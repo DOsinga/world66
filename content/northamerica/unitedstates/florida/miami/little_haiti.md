@@ -1,8 +1,12 @@
 ---
+image: little_haiti.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Little_Haiti_south.jpg
 latitude: 25.8244
 longitude: -80.1907
 tags:
 - things_to_do
+- neighbourhood
 title: Little Haiti
 type: neighbourhood
 ---

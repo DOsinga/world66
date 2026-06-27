@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_-_Spearfish,_South_
 latitude: 44.4914
 loc_type: city
 longitude: -103.8163
-score: 0.39
+score: 7.0
 snippet: Northern Black Hills college town where Spearfish Creek cuts toward a limestone
   canyon.
 sources:

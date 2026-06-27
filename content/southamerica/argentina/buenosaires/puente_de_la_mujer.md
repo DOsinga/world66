@@ -6,8 +6,8 @@ tags:
   - puerto_madero
   - architecture
   - sight
-latitude: -34.6163
-longitude: -58.3624
+latitude: -34.6083
+longitude: -58.3656
 story: >
   The bridge's design is intended to evoke a tango couple: the tilted pylon represents a dancer leaning back, and the curved handrails suggest outstretched arms. Calatrava designed it in 1998 and it was installed in 2001, just weeks before Argentina's economic collapse — the most expensive infrastructure project in Buenos Aires that decade, completed at precisely the worst moment.
 score: 6.1

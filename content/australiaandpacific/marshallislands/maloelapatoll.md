@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maloelap%26Aur_atoll_(sate
 latitude: 8.7602
 loc_type: island
 longitude: 171.0486
-score: 0.29
+score: 6.64
 snippet: Remote Marshall Islands atoll where quiet villages share reef flats with
   Japanese wartime remains.
 sources:

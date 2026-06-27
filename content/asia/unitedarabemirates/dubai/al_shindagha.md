@@ -1,13 +1,15 @@
 ---
 latitude: 25.271
 longitude: 55.2916
+score: 8.7
+snippet: Heritage-precinct museum telling the story of old Dubai by the Creek
 tags:
 - things_to_do
 - sight
 - museum
+- al_fahidi
 title: Al Shindagha Museum
 type: poi
-score: 8.7
 ---
 
 Al Shindagha is the heritage precinct at the mouth of Dubai Creek where the ruling Al Maktoum family originally settled, and the Al Shindagha Museum is an ambitious effort to tell the story of old Dubai through its traditional industries and social history. The complex covers the restored historic district and includes dedicated pavilions on pearl diving, maritime history, spice trading, and perfume-making — the latter incorporating actual traditional distillation equipment.

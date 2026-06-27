@@ -11,10 +11,10 @@ latitude: 21.304547
 loc_type: city
 longitude: -157.855676
 quick_facts:
-  Diamond Head: Extinct volcanic crater
+  Diamond Head: 232 m crater
   Pearl Harbor: USS Arizona memorial
-  Waikīkī: Once royal surf grounds
-  ʻIolani Palace: Only royal palace in the USA
+  Population: 350,000
+  ʻIolani Palace: Only US royal palace
 score: 9.7
 snippet: Hawaiian capital on Oahu's south shore, where Waikiki high-rises sit beneath
   the Ko'olau mountains.

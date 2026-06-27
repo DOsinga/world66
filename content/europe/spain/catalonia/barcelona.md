@@ -10,6 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:14-08-05-barcelona-RalfR-0
 latitude: 41.38258
 loc_type: city
 longitude: 2.177073
+quick_facts:
+  City Beaches: Man-made for the 1992 Olympics
+  Founded By: Romans, as Barcino
+  Gaudí Sites: 7 UNESCO-listed
+  Sagrada Família: Unfinished since 1882
 score: 9.96
 snippet: Catalonia's Mediterranean capital, noted for Gaudi architecture, neighbourhood
   street life, and coastal setting.
@@ -21,6 +26,11 @@ tags:
 - nightlife
 - museums
 tier: 1
+tip: Barcelona's beach is artificial — the sand was trucked in for the 1992 Olympics
+  — and so is much of the tourist-trap dining along La Rambla. Eat one street back,
+  in the Gothic Quarter or up in Gràcia, where locals actually go. Book Sagrada Família
+  and Park Güell online days ahead; both sell out and the walk-up queues are brutal.
+  Watch your pockets on La Rambla and the metro.
 title: Barcelona
 type: location
 ---

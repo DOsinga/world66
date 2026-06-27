@@ -12,10 +12,10 @@ latitude: 52.37308
 loc_type: city
 longitude: 4.892453
 quick_facts:
-  Bikes: Outnumber the residents
-  Bridges: 1,500+ — more than Venice
-  Canals: 165, ringing the centre
-  Narrow Houses: Once taxed by their width
+  Bridges: 1,500+
+  Canals: '165'
+  More Bridges: Than Venice
+  Narrow Houses: Once taxed by width
 quote: Amsterdam makes more sense on two wheels than on foot.
 score: 9.87
 snippet: Compact Dutch capital defined by Golden Age canals, narrow gabled houses,

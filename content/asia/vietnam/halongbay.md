@@ -9,6 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_22.jpg
 latitude: 20.9084
 loc_type: city
 longitude: 107.0683
+quick_facts:
+  Hidden: Grottoes & lagoons
+  Karst Towers: ~1,600 limestone islands
+  Name Means: '''Descending Dragon'''
+  Status: UNESCO World Heritage
 score: 9.59
 snippet: Vietnamese karst bay where nearly two thousand limestone islands rise from
   the Gulf of Tonkin.
@@ -21,6 +26,10 @@ tags:
 - unesco
 - wildlife
 tier: 4
+tip: Halong Bay is best as an overnight cruise, not a day trip — you want to wake
+  among the karst towers after the day boats have gone. Quality varies wildly, so
+  read reviews; the cheapest boats cut corners. Consider less-crowded Lan Ha or Bai
+  Tu Long Bay nearby for the same scenery with fewer boats.
 title: Ha Long Bay
 type: location
 ---

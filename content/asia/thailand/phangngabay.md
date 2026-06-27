@@ -10,10 +10,10 @@ latitude: 8.291667
 loc_type: city
 longitude: 98.552773
 quick_facts:
-  Best By: Sea kayak at low tide
-  Hongs: Hidden lagoons inside islands
-  James Bond Island: A Golden Gun film set
-  Karsts: Limestone towers in the sea
+  Hidden Lagoons: Reached by kayak
+  James Bond Island: The Golden Gun set
+  Karst Islands: 40+
+  National Park Since: '1981'
 score: 9.45
 snippet: Karst-filled marine bay between Phuket and Krabi, known for limestone towers
   and hidden hongs.

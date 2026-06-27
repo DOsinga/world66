@@ -13,9 +13,9 @@ latitude: 41.006381
 loc_type: city
 longitude: 28.975872
 quick_facts:
-  Grand Bazaar: 4,000 shops, oldest mall
-  Hagia Sophia: Church, mosque, museum, mosque again
-  Once Called: Byzantium & Constantinople
+  Grand Bazaar: 4,000 shops
+  Hagia Sophia: Church, mosque, museum, mosque
+  Population: 16 million
   Straddles: Europe & Asia
 score: 9.84
 snippet: Turkish metropolis on the Bosphorus, layered with Byzantine, Ottoman, and

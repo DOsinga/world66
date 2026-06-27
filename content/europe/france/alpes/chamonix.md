@@ -10,10 +10,10 @@ latitude: 45.92467
 loc_type: city
 longitude: 6.872751
 quick_facts:
-  Aiguille Du Midi: 3,842 m cable car
-  Below: Mont Blanc, 4,808 m
-  Hosted: The first Winter Olympics (1924)
-  Mer De Glace: France's largest glacier
+  Aiguille du Midi: 3,842 m cable car
+  Elevation: 1,035 m
+  First Winter Olympics: '1924'
+  Mont Blanc: 4,808 m above
 score: 9.48
 snippet: Alpine town at the foot of Mont Blanc, known for mountaineering history and
   varied ski areas.

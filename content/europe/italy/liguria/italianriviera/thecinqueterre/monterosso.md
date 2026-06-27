@@ -12,8 +12,8 @@ longitude: 9.6558
 quick_facts:
   Anchovies: A protected specialty
   Cinque Terre: One of five villages
-  Only Sand Beach: Of the five
   Population: ~1,400
+  Sand Beach: The only one of the five
 score: 9.41
 snippet: Largest Cinque Terre village, with sandy beaches, a fishing old town, and
   local anchovies and Sciacchetrà wine.

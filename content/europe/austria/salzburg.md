@@ -12,10 +12,10 @@ latitude: 47.798135
 loc_type: city
 longitude: 13.046481
 quick_facts:
-  Birthplace Of: Mozart
-  Fortress: Among Europe's largest, never taken
-  Old Town: UNESCO World Heritage
-  Sound Of Music: Filmed here
+  Fortress Built: '1077'
+  Mozart: Born here in 1756
+  Population: 155,000
+  Sound of Music: Filmed here
 score: 9.49
 snippet: Baroque Austrian city on an Alpine river, built from salt wealth and Mozart
   history.

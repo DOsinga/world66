@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_-_Flickr.
 latitude: -13.9626
 loc_type: city
 longitude: 33.7741
+quick_facts:
+  Became Capital: '1975'
+  Population: ~1.1 million
+  Two Halves: Old Town & City Centre
+  Warm Heart: Of Africa, by repute
 score: 6.27
 snippet: Malawian capital split between planned government avenues and the busy markets
   of Old Town.
+tip: 'Lilongwe is a quiet, low-rise capital split in two: the modern City Centre with
+  embassies, and the livelier Old Town with markets and cheap eats. It is a transit
+  point for Lake Malawi and the parks more than a destination. See the nature sanctuary
+  in the green belt between the two halves. Malawians are famously warm — ''the warm
+  heart of Africa''.'
 title: Lilongwe
 type: location
 ---

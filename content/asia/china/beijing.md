@@ -4,20 +4,30 @@ done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-22'
   poi_cleanup: '2026-04-19'
+image: beijing.jpg
+image_attribution: Windmemories
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2017-05-07_The_Forbidden_City.jpg
 latitude: 39.905714
 loc_type: city
 longitude: 116.391297
+quick_facts:
+  Forbidden City: Some 9,000 rooms
+  Great Wall: Restored sections nearby
+  Hutongs: Vanishing alley neighbourhoods
+  Was Home To: 24 emperors
 score: 9.46
 snippet: China's northern capital, centred on imperial landmarks including the Forbidden
   City, Temple of Heaven, and Summer Palace.
 sources:
 - https://en.wikivoyage.org/wiki/Beijing
+tip: The Great Wall is the day trip — Mutianyu is restored and less mobbed than Badaling,
+  while Jinshanling is wilder. In the city, the Forbidden City sells timed tickets
+  online that sell out, and you need your passport to enter. Check the air-quality
+  index before a big day out. The subway is cheap, vast and signed in English; taxis
+  fight the traffic.
 title: Beijing
 type: location
-image: beijing.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2017-05-07_The_Forbidden_City.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Windmemories
 ---
 
 Beijing — "Northern Capital" — has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The [Forbidden City](/asia/china/beijing/forbidden_city) at the heart of the old town, the [Temple of Heaven](/asia/china/beijing/temple_of_heaven) to the south, the [Summer Palace](/asia/china/beijing/summer_palace) to the northwest, and the [Great Wall at Mutianyu](/asia/china/beijing/great_wall_mutianyu) running along the mountains an hour north are the most famous set pieces of imperial China anywhere in the world, and together they fill the better part of a week.

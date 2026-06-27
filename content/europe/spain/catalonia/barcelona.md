@@ -11,9 +11,9 @@ latitude: 41.38258
 loc_type: city
 longitude: 2.177073
 quick_facts:
-  City Beaches: Man-made for the 1992 Olympics
-  Founded By: Romans, as Barcino
-  Gaudí Sites: 7 UNESCO-listed
+  Beaches: Man-made for 1992 Olympics
+  Population: 1.6 million
+  Roman Origin: Barcino
   Sagrada Família: Unfinished since 1882
 score: 9.96
 snippet: Catalonia's Mediterranean capital, noted for Gaudi architecture, neighbourhood

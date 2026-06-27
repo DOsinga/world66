@@ -12,10 +12,10 @@ latitude: 52.8737
 loc_type: city
 longitude: -117.9543
 quick_facts:
-  Athabasca Glacier: Walkable on guided tours
+  Athabasca Glacier: Walkable on foot
   Dark-Sky Preserve: Among world's largest
-  Icefields Parkway: A glacier-lined drive
-  Larger & Wilder: Than neighbouring Banff
+  Icefields Parkway: Glacier-lined drive
+  Park Area: 11,000 km²
 score: 9.44
 snippet: Canadian Rockies mountain town inside Jasper National Park, quieter than
   Banff and surrounded by wilderness

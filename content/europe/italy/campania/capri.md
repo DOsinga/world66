@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:1960_Capri_Marina.jpg
 latitude: 40.548843
 loc_type: city
 longitude: 14.228371
+quick_facts:
+  Blue Grotto: Glows electric blue
+  Chairlift: Up Monte Solaro
+  Faraglioni: Iconic offshore rock stacks
+  Roman Retreat: Emperor Tiberius' villas
 score: 9.43
 snippet: Rocky Bay of Naples island with Roman imperial ruins, cliff paths, and long
   literary associations.
+tip: Capri fills with day-trippers from mid-morning; stay overnight or come early
+  to see it breathe. The Blue Grotto is weather-dependent, and the boatmen-and-queue
+  ritual is pricey, so manage expectations. Take the chairlift up Monte Solaro for
+  the view and walk to the Faraglioni rock stacks. Anacapri, up top, is the quieter
+  half.
 title: Capri
 type: location
 ---

@@ -10,10 +10,10 @@ latitude: 48.80354
 loc_type: city
 longitude: 2.126689
 quick_facts:
-  Built By: Louis XIV, the Sun King
+  Built By: Louis XIV
   Gardens: Bigger than central Paris
-  Hall Of Mirrors: 357 mirrors
-  Rooms: Around 2,300
+  Hall of Mirrors: 357 mirrors
+  Rooms: 2,300
 score: 9.57
 snippet: Paris-region town dominated by the Château de Versailles, its formal gardens,
   and royal history.

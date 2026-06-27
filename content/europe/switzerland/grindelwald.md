@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0020_Grindelwald_-_Wett
 latitude: 46.624273
 loc_type: city
 longitude: 8.036746
+quick_facts:
+  Below: The Eiger's deadly north face
+  Eiger Trail: Runs under the wall
+  First: A cliff walk over the drop
+  Jungfraujoch: '''Top of Europe'' railway'
 score: 9.65
 snippet: Bernese Oberland village beneath the Eiger, Mönch, and Jungfrau, long associated
   with Alpine tourism.
+tip: Grindelwald sits beneath the Eiger's north face, the mountaineering world's most
+  infamous wall. New gondolas now whisk you toward Jungfraujoch and the First cliff
+  walk in minutes. Come for hiking in summer and skiing in winter, and book the Jungfraujoch
+  train early — it's pricey and popular.
 title: Grindelwald
 type: location
 ---

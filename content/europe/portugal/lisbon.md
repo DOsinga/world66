@@ -12,8 +12,8 @@ latitude: 38.707751
 loc_type: city
 longitude: -9.136592
 quick_facts:
+  Age: Older than Rome
   Hills: Built on seven
-  Older Than Rome: By centuries
   Population: 550,000
   Tram 28: Vintage hill rattler
 score: 9.44

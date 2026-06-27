@@ -1,7 +1,7 @@
 ---
 address: Avenida Río Churubusco 410
-latitude: 19.3475
-longitude: -99.1574
+latitude: 19.3577
+longitude: -99.1595
 score: 7.8
 snippet: The house in Coyoacán where Trotsky was murdered in 1940
 story: On 20 August 1940, the Spanish-born NKVD agent Ramón Mercader entered the study

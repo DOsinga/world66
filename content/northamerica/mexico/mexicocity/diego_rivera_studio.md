@@ -1,7 +1,7 @@
 ---
 address: Diego Rivera 2, San Ángel Inn
-latitude: 19.347
-longitude: -99.1898
+latitude: 19.349
+longitude: -99.1969
 score: 7.9
 snippet: Functionalist pair of houses in San Ángel where Rivera and Kahlo worked
 story: The architect Juan O'Gorman gave the couple two separate houses — Diego's red,

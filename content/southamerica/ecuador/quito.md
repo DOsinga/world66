@@ -9,8 +9,8 @@ latitude: -0.220164
 loc_type: city
 longitude: -78.512327
 quick_facts:
+  Distinction: World's highest official capital
   Elevation: 2,850 m
-  Highest Official Capital: In the world
   Old Town: A first-ever UNESCO site (1978)
   On the Equator: Mitad del Mundo nearby
 score: 9.03

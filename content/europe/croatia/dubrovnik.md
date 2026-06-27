@@ -13,10 +13,10 @@ latitude: 42.6507
 loc_type: city
 longitude: 18.0944
 quick_facts:
-  City Walls: 1,940 m all the way round
-  Marble Streets: Polished smooth since the 1400s
-  On Screen: King's Landing in Game of Thrones
-  Once: A republic rivalling Venice
+  City Walls: 1,940 m, 25 m high
+  Founded: 7th century
+  King's Landing: Game of Thrones set
+  Marble Streets: Polished since the 1400s
 score: 9.87
 snippet: Walled Adriatic city whose compact old town rises above cliffs and a historic
   harbour.

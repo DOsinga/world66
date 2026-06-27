@@ -10,9 +10,9 @@ latitude: 41.1496
 loc_type: city
 longitude: -8.611
 quick_facts:
-  Azulejos: Blue-tiled churches & stations
-  Dom Luís Bridge: Eiffel-school ironwork
+  Dom Luís Bridge: 1886, Eiffel school
   Livraria Lello: Inspired Harry Potter
+  Population: 230,000
   Port Wine: Named after the city
 score: 9.47
 snippet: Granite Douro city of tiled facades, iron bridges, and port-wine cellars

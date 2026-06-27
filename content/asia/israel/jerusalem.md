@@ -10,10 +10,10 @@ latitude: 31.7683
 loc_type: city
 longitude: 35.2137
 quick_facts:
-  Buildings: Faced in Jerusalem stone by law
-  Gates: Eight in the walls, one sealed
-  Holy To: Judaism, Christianity & Islam
-  Old City: Four quarters in one square km
+  Building Law: All clad in Jerusalem stone
+  City Gates: 8, one sealed
+  Holy To: Three faiths
+  Old City: 0.9 km²
 score: 9.74
 snippet: Ancient hill city sacred to Judaism, Christianity, and Islam, centred on
   the walled Old City.

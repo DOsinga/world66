@@ -10,10 +10,10 @@ latitude: 36.407111
 loc_type: city
 longitude: 25.456664
 quick_facts:
-  Beaches: Black, red & white volcanic sand
-  Last Big Eruption: ~1600 BC
-  Legend: A candidate for Atlantis
-  Shape: Rim of a sunken volcano
+  Atlantis: A candidate site
+  Caldera Eruption: ~1600 BC
+  Highest Point: 567 m
+  Volcanic Beaches: Black, red & white sand
 score: 9.93
 snippet: Santorini is a volcanic Cycladic island shaped by a flooded caldera and cliff-top
   whitewashed towns.

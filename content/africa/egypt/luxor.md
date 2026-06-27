@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Luxor,_Egypt,_Boats_on_Nil
 latitude: 25.702096
 loc_type: city
 longitude: 32.647186
+quick_facts:
+  Karnak: Built over 2,000 years
+  Open-Air Museum: World's largest
+  Valley Of The Kings: 60+ royal tombs
+  Was: Ancient Thebes
 score: 9.51
 snippet: Nile city built over ancient Thebes, with Karnak, Luxor Temple, and West
   Bank necropolises nearby.
+tip: 'Luxor splits in two: the temples (Karnak, Luxor) on the East Bank of the living,
+  and the tombs (the Valley of the Kings) on the West Bank of the dead. Hire a guide
+  and start at dawn, before the ferocious heat. A sunrise hot-air balloon over the
+  Theban necropolis is the splurge worth making.'
 title: Luxor
 type: location
 ---

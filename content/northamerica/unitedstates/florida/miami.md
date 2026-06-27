@@ -12,9 +12,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Miami_aerial_2008
 latitude: 25.774157
 loc_type: city
 longitude: -80.193597
+quick_facts:
+  Art Deco District: 800 preserved buildings
+  Barely Above: Sea level, and sinking
+  Little Havana: Cuban heart of the city
+  Population: ~450,000 (metro ~6M)
 score: 8.95
 snippet: Caribbean-leaning American city of Spanish-speaking neighbourhoods, pastel
   Art Deco, and towers over Biscayne Bay.
+tip: Miami is the USA's gateway to Latin America — Spanish is everywhere, and the
+  Cuban coffee and cuisine of Little Havana are essential. South Beach's pastel Art
+  Deco district is the icon; rent a bike along the sand. It's hot and humid with daily
+  summer downpours, and hurricane season runs June to November. Nightlife runs very
+  late.
 title: Miami
 type: location
 ---

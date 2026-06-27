@@ -12,9 +12,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-
 latitude: 41.9028
 loc_type: city
 longitude: 12.4964
+quick_facts:
+  Founded: 753 BC, by legend
+  Fountains: 2,000+
+  Stray Cats: Legally protected
+  Trevi Coins: ~€1.5 million a year
 score: 9.99
 snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, and
   everyday street life layer three millennia together
+tip: Rome rewards early starts and late dinners. See the Colosseum or Vatican Museums
+  in the first or last entry slot to dodge the worst of the crush, and never sit down
+  to eat before 8pm — a restaurant full at seven is fishing for tourists. Carry small
+  coins and drink from the nasoni, the cast-iron street fountains pouring cold, free
+  mountain water on nearly every corner.
 title: Rome
 type: location
 ---

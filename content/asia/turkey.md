@@ -63,5 +63,6 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Edirne](/asia/turkey/edirne) — Ottoman city near the Greek and Bulgarian borders
 - [Uzunköprü](/asia/turkey/uzunkopru) — Eastern Thrace town named for its long Ottoman bridge
 - [Eskisehir](/asia/turkey/eskisehir) — lively university city
+- [Divriği](/asia/turkey/divrigi) — remote Anatolian town with a UNESCO-listed medieval mosque and hospital
 - [Burdur](/asia/turkey/burdur) — Lakes District market town with Sagalassos finds and nearby karst scenery
 - [Trabzon region](/asia/turkey/kackar) — Black Sea coast and the Kackar mountains

@@ -13,10 +13,10 @@ latitude: 22.3193
 loc_type: city
 longitude: 114.1694
 quick_facts:
-  Country Parks: 40% of the land protected
-  Octopus Card: Pays for almost everything
-  Outdoor Escalator: World's longest
-  Skyscrapers: More than any city
+  Octopus Card: Even buys snacks
+  Population: 7.5 million
+  Protected Land: 40% country parks
+  Skyscrapers: 500+, most on Earth
 score: 9.5
 snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong
   Kong Island and Kowloon

@@ -10,10 +10,10 @@ latitude: -17.5333
 loc_type: city
 longitude: -149.8386
 quick_facts:
-  Distance: 30-min ferry from Tahiti
-  Inspired: The South Pacific's 'Bali Hai'
-  Lagoon: Rays & blacktip sharks
-  Shape: Two bays in a heart-shaped isle
+  Bali Hai: Said to inspire it
+  From Tahiti: 30-minute ferry
+  Heart Shape: Two bays form one
+  Highest Peak: Mt Tohivea, 1,207 m
 score: 9.75
 snippet: Mountainous Society Islands escape with turquoise lagoons, deep bays, and
   easy ferry access from Tahiti

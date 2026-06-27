@@ -14,9 +14,9 @@ loc_type: city
 longitude: 31.235726
 quick_facts:
   Egyptian Museum: Tutankhamun's gold
-  Islamic Cairo: 600+ historic monuments
-  Largest City: In the Arab world
-  The Nile: World's longest river runs through
+  Founded: 969 AD
+  Metro Population: 22 million
+  Nickname: City of a Thousand Minarets
 score: 9.45
 snippet: Egyptian capital where the Nile meets the Sahara edge, layered with ancient
   and Islamic landmarks.

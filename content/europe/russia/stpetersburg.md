@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Courtyards_of_SPB_03.jpg
 latitude: 59.9343
 loc_type: city
 longitude: 30.3351
+quick_facts:
+  Bridges: Drawbridges rise each night
+  Built On: Drained marshland (1703)
+  Hermitage: 3 million works
+  White Nights: Sun barely sets in June
 score: 9.66
 snippet: Imperial Russian city of Neva canals, baroque palaces, and the Hermitage's
   vast art collections.
+tip: St Petersburg was built on drained marshland by decree of Peter the Great, and
+  its canals earn it the 'Venice of the North' tag — see it by boat. Come in June
+  for the White Nights, when the sky barely darkens and the city stays up all night.
+  The Hermitage is vast; pick a few wings rather than trying to see it all.
 title: St Petersburg
 type: location
 ---

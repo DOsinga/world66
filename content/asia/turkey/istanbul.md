@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Istanbul_asv2020-02_img12_
 latitude: 41.006381
 loc_type: city
 longitude: 28.975872
+quick_facts:
+  Grand Bazaar: 4,000 shops, oldest mall
+  Hagia Sophia: Church, mosque, museum, mosque again
+  Once Called: Byzantium & Constantinople
+  Straddles: Europe & Asia
 score: 9.84
 snippet: Turkish metropolis on the Bosphorus, layered with Byzantine, Ottoman, and
   modern districts across two continents.
+tip: 'Istanbul straddles two continents — take a cheap public ferry across the Bosphorus
+  to feel it, not an overpriced tour boat. Get an Istanbulkart for trams, ferries
+  and buses. Grand Bazaar haggling is theatre: smile, walk away once, and the price
+  drops. Mosques close to tourists during the five daily prayers, so plan around them.'
 title: Istanbul
 type: location
 ---

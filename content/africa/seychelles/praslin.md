@@ -10,10 +10,10 @@ latitude: -4.325071
 loc_type: city
 longitude: 55.735608
 quick_facts:
-  Anse Lazio: Voted world's best beach
-  Black Parrot: Found nowhere else
-  Coco De Mer: World's largest seed
-  Vallée De Mai: A candidate 'Garden of Eden'
+  Area: 38 km²
+  Black Parrot: Found only here
+  Coco de Mer: World's largest seed
+  Population: ~7,500
 score: 9.49
 snippet: Seychelles island known for Vallée de Mai palms, granite beaches, and calm
   coves.

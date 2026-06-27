@@ -12,10 +12,10 @@ latitude: 34.693757
 loc_type: city
 longitude: 135.501454
 quick_facts:
-  Castle: Rebuilt with a lift inside
-  Dotonbori: Neon canal-side food strip
-  Escalators: Stand on the right (vs Tokyo)
-  Nickname: '''Japan''s Kitchen'''
+  Castle Built: '1583'
+  Escalators: Stand on the right
+  Nickname: Japan's Kitchen
+  Population: 2.7 million
 score: 9.54
 snippet: Japanese metropolis of street food, entertainment districts, and frank merchant-city
   energy

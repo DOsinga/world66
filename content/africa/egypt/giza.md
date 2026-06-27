@@ -12,10 +12,10 @@ latitude: 29.987075
 loc_type: city
 longitude: 31.211806
 quick_facts:
-  Ancient Wonder: Only one still standing
-  Great Pyramid Built: ~2560 BC
-  Pyramid Height: 139 m
+  Great Pyramid: 139 m, built ~2560 BC
+  Last Ancient Wonder: Still standing
   Stone Blocks: ~2.3 million
+  The Sphinx: Carved from one outcrop
 score: 9.56
 snippet: Greater Cairo city at the desert edge, gateway to the pyramids, Sphinx, and
   Giza Plateau.

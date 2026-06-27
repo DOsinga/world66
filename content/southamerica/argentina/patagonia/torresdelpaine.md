@@ -9,10 +9,10 @@ latitude: -50.9423
 loc_type: city
 longitude: -73.4068
 quick_facts:
-  '''W'' Trek': A four-to-five-day classic
-  The Towers: Granite spires, its namesake
-  Weather: Four seasons in a day
-  Wildlife: Guanacos & elusive pumas
+  Four Seasons: In a single day
+  National Park Since: '1959'
+  Pumas: Roam the park
+  The Towers: 2,500 m granite spires
 score: 9.44
 snippet: Patagonian national park of granite towers, turquoise lakes, wind-bent steppe,
   and multi-day treks.

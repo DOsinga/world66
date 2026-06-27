@@ -12,10 +12,10 @@ latitude: 43.769796
 loc_type: city
 longitude: 11.25564
 quick_facts:
-  Birthplace Of: The Renaissance
-  Duomo Dome: Largest brick dome ever built
-  Stendhal Syndrome: Named after fainting here
-  Uffizi: Public museum since 1769
+  Duomo Dome: Largest brick dome (1436)
+  Population: 360,000
+  Renaissance: Born here
+  Stendhal Syndrome: Named for fainting here
 score: 9.95
 snippet: Tuscan city on the Arno, packed with Renaissance art, Medici palaces, and
   the Duomo.

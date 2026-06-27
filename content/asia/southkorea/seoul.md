@@ -12,10 +12,10 @@ latitude: 37.566679
 loc_type: city
 longitude: 126.978291
 quick_facts:
-  Greater Seoul: Home to half the country
-  Internet: Once the fastest on Earth
-  Palaces: Five grand Joseon-era ones
-  Subway: Among world's busiest
+  Capital Since: '1394'
+  Joseon Palaces: Five grand ones
+  Metro Population: 26 million
+  Subway Wi-Fi: Among world's fastest
 score: 9.61
 snippet: Vast Korean capital on the Han River, where neon districts stand beside Joseon
   palaces and mountain walls.

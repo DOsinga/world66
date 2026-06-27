@@ -12,10 +12,10 @@ latitude: 29.987075
 loc_type: city
 longitude: 31.211806
 quick_facts:
-  Age: About 4,500 years
-  Blocks: ~2.3 million stones
-  Great Pyramid: Only surviving Ancient Wonder
-  Sphinx: Carved from one outcrop
+  Ancient Wonder: Only one still standing
+  Great Pyramid Built: ~2560 BC
+  Pyramid Height: 139 m
+  Stone Blocks: ~2.3 million
 score: 9.56
 snippet: Greater Cairo city at the desert edge, gateway to the pyramids, Sphinx, and
   Giza Plateau.

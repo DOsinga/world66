@@ -13,10 +13,10 @@ latitude: -22.911014
 loc_type: city
 longitude: -43.209373
 quick_facts:
-  Beaches: Copacabana & Ipanema
-  Carnival: ~2 million a day on the streets
-  Christ The Redeemer: 38 m tall, arms wide
-  Tijuca: One of world's largest urban forests
+  Carnival: ~2 million a day
+  Christ the Redeemer: 38 m tall
+  Population: 6.7 million
+  Tijuca: World's largest urban forest
 score: 9.82
 snippet: Brazilian harbour city where beaches, green mountains, and Christ the Redeemer
   frame everyday urban life.

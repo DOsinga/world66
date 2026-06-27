@@ -10,10 +10,10 @@ latitude: 46.6863
 loc_type: city
 longitude: 7.8632
 quick_facts:
-  Adventure Hub: Paragliding & canyoning
-  Between: Lakes Thun & Brienz
-  Lake Colour: Glacier-fed turquoise
-  Launchpad: To the Jungfrau region
+  Adventure Capital: Paraglide the valley
+  Elevation: 568 m
+  Flanked By: Lakes Thun & Brienz
+  Höhematte: A building-banned meadow
 score: 9.56
 snippet: Swiss resort town between Lake Thun and Lake Brienz, beneath the Eiger, Mönch,
   and Jungfrau.

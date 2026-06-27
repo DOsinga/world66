@@ -12,10 +12,10 @@ latitude: 55.953346
 loc_type: city
 longitude: -3.188375
 quick_facts:
-  Built On: Extinct volcanoes
-  Inspired: Harry Potter & Jekyll and Hyde
-  The Fringe: World's largest arts festival
-  Underground: Hidden vaults & closes
+  Castle Rock: An extinct volcano
+  Inspired: Harry Potter
+  Population: 530,000
+  The Fringe: World's biggest arts festival
 score: 9.92
 snippet: Scottish capital built on volcanic rock, where medieval closes and Georgian
   terraces face across a former loch.

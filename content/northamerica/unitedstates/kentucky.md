@@ -18,3 +18,5 @@ Mammoth Cave National Park, in the south-central part of the state, contains the
 [Louisville](/northamerica/unitedstates/kentucky/louisville) is the largest city and home to the Kentucky Derby, the most famous horse race in America. [Frankfort](/northamerica/unitedstates/kentucky/frankfort), the small state capital, sits on the Kentucky River surrounded by bourbon distilleries. The Bourbon Trail takes you through the countryside to distilleries where you can see how the spirit is made and, of course, taste it.
 
 [Harrodsburg](/northamerica/unitedstates/kentucky/harrodsburg), south of Lexington, is the Bluegrass history stop: frontier Kentucky at Old Fort Harrod, Shaker architecture at Pleasant Hill, and limestone river country along the Kentucky River palisades.
+
+[Shelbyville](/northamerica/unitedstates/kentucky/shelbyville), between Louisville and Frankfort, adds American Saddlebred horse country, bourbon distilleries, and a small downtown with real Bluegrass texture.

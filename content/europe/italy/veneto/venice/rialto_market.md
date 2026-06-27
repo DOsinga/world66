@@ -1,14 +1,14 @@
 ---
 latitude: 45.4391
 longitude: 12.3354
-snippet: "Venice's daily fish and produce market — best seen before noon"
-neighbourhood: San Polo
+score: 8.0
+snippet: Venice's daily fish and produce market — best seen before noon
 tags:
 - shopping
 - market
+- san_polo
 title: Rialto Market
 type: poi
-score: 8.0
 ---
 
 The Rialto market has operated on the San Polo bank of the Grand Canal since 1097, making it one of the oldest continuously running food markets in Europe. It divides into two sections: the Pescheria (fish market), open Tuesday to Saturday until around noon, and the Erberia (produce market), which runs daily. Together they offer the clearest picture of what Venetians actually eat.

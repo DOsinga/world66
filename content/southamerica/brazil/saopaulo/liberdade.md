@@ -1,13 +1,19 @@
 ---
-title: "Liberdade"
+title: Liberdade
 type: neighbourhood
 latitude: -23.5557
 longitude: -46.6356
 tags:
-  - things_to_do
-  - neighbourhood
-snippet: "São Paulo's historic Japanese district — the largest outside Japan"
-story: "The first Japanese immigrants arrived in São Paulo in 1908 on the Kasato Maru, brought to work the coffee plantations. Today metropolitan São Paulo holds the largest Japanese diaspora in the world — over 1.5 million people of Japanese descent."
+- things_to_do
+- neighbourhood
+snippet: São Paulo's historic Japanese district — the largest outside Japan
+story: The first Japanese immigrants arrived in São Paulo in 1908 on the Kasato Maru,
+  brought to work the coffee plantations. Today metropolitan São Paulo holds the largest
+  Japanese diaspora in the world — over 1.5 million people of Japanese descent.
+image: liberdade.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Liberdade,_S%C3%A3o_Paulo,_Brasil_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: Ricardo Migliani
 ---
 
 Liberdade was the centre of Japanese São Paulo from the 1910s onwards, and although the diaspora has spread across the city and beyond, the neighbourhood remains the most visible expression of Japanese-Brazilian life. The red torii gates, the suzurantō lantern street lamps, and the bilingual Japanese-Portuguese shop signs are not a tourist invention; they are the neighbourhood's own. The Sunday street fair on Praça da Liberdade is the obvious draw.

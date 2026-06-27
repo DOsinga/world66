@@ -5,15 +5,14 @@ done:
 latitude: 45.439
 longitude: 12.3348
 opening_hours: Mon–Sat 08:00–14:30; closed Sun
+score: 7.4
 snippet: Tiny Rialto bacaro famous for its baccalà mantecato cicchetti
-neighbourhood: San Polo
 tags:
 - bars_and_cafes
 - san_polo
 - bar
 title: Bar All'Arco
 type: poi
-score: 7.4
 ---
 
 Widely considered the best bacaro in Venice — a tiny, standing-room-only counter near the Rialto run by a father-and-son team. Famous above all for their *baccalà mantecato* (whipped salt cod) on grilled polenta or bread, alongside a changing selection of cicchetti made fresh each morning. The quality is exceptional and the prices are what you'd expect to pay at a local bar rather than a tourist stop.

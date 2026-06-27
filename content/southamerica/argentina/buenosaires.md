@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-22'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-19'
 image: buenosaires.jpg
 image_license: CC BY 2.0

@@ -5,15 +5,16 @@ done:
 latitude: 51.543611
 longitude: -0.147222
 opening_hours: Daily 10am-6pm
+score: 6.8
 snippet: London's iconic canal-side market for street food and subculture
 tags:
 - shopping
 - shop
 - market
+- camden_town
 title: Camden Market
 type: poi
 url: www.camdenmarket.com
-score: 6.8
 ---
 
 Camden Market is a collection of several adjacent markets along the canal — Camden Lock, the Stables, the Canal Market — and has been the main London destination for alternative clothing, records, street food, and subculture goods since the 1970s. It draws enormous tourist crowds at weekends but retains a genuine energy, particularly in the Stables Market, where the stalls run through a series of old Victorian horse hospital buildings.

@@ -6,6 +6,7 @@ snippet: Free antique penny arcade with over 300 mechanical curiosities
 tags:
 - things_to_do
 - museum
+- fishermans_wharf
 title: Musée Mécanique
 type: poi
 score: 8.0

@@ -1,5 +1,0 @@
-asia/thailand/bangkok
-europe/spain/catalonia/barcelona
-europe/ireland/dublin
-africa/southafrica/capetown
-europe/italy/tuscany/florence

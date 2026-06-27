@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - sight
 - garden
-- semlalia
+- medina
 title: Koutoubia Gardens
 type: poi
 ---

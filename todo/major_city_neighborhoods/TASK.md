@@ -29,6 +29,8 @@ Do not create a `type: neighbourhood` page for any of these:
 - **A separate town or suburb.** If it's its own town outside the city (Portmarnock near Dublin, a coastal village), it is a `type: location` under the country/region — **not** a neighbourhood of the city.
 - **The city centre itself.** "South City Centre", "Central District", "Downtown" are geographic labels, not neighbourhoods. Sub-districts within the city centre (Creative Quarter, Temple Bar, Medieval Quarter) can be neighbourhoods if they have genuine character.
 
+A named central district with a strong, distinct identity that travelers consciously seek out **is** a valid neighbourhood, even though it sits in the middle of the city and its landmarks are visited by everyone — for example Westminster (the government and royal ceremonial quarter, holding Parliament, Westminster Abbey, and Buckingham Palace). The test is character and name recognition, not distance from the centre. When such a district exists, group its monumental landmarks under it rather than leaving them untagged; the "leave central landmarks untagged" guidance applies only to landmarks that genuinely belong to no single named district.
+
 If you find yourself adding a `_nb`, `_area`, or `_quarter` suffix just to dodge a slug collision with a POI, that is a sign the thing is probably a POI, not a neighbourhood.
 
 ## For each city in the batch
@@ -58,7 +60,8 @@ The failure mode to avoid: creating a neighbourhood page for "Agdal" because Mar
 A neighbourhood needs:
 - A distinct character or identity worth describing — something a traveler would specifically seek out
 - A recognisable name (preferably the one locals use)
-- **At least 3 specific, named, real places you can already identify before creating the page**
+- a number of pois that match the character of the neighbourhood. Tag existing pois but if there are not enough do research to find real places that are a good fit.   
+
 
 Aim for geographic spread across the city. 7–12 neighbourhoods is typical for a major city; many cities genuinely have fewer distinct traveler-relevant districts, and that is fine. **Do not reach for 10 if 6 are real and 4 would be manufactured.**
 
@@ -120,7 +123,6 @@ tags:
 neighbourhood: Shilin   # ← never do this
 ```
 
-**Do not force-tag every POI.** City centre landmarks that don't belong to any specific neighbourhood should remain untagged. Only tag a POI to a neighbourhood if a traveler browsing that neighbourhood page would genuinely want to find it there.
 
 #### Verify geographic accuracy
 
@@ -141,7 +143,8 @@ Every neighbourhood tag assignment must be geographically correct. A POI that is
 
 ### 5. Create new POIs only where there are real places to add
 
-If a neighbourhood genuinely lacks coverage, add POIs using:
+- Ro research to find places that match the description. If the intro mention hipster cafes: we need some. If the intro mentions shopping add specific places. Only add good quality content.
+- make sure coordinates are correct, use open street map
 
 ```bash
 python3 tools/wiki_geosearch.py <lat> <lng> --radius 2000 --limit 30 --json

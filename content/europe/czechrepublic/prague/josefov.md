@@ -1,4 +1,7 @@
 ---
+image: josefov.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Old_Jewish_Cemetery_in_Josefov,_Prague_-_8363.jpg
 latitude: 50.0901
 longitude: 14.418
 tags:

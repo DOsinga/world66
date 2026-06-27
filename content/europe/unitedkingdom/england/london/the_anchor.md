@@ -4,13 +4,14 @@ latitude: 51.506943
 longitude: -0.09252
 opening_hours: Mon–Sat 11am–11pm; Sun noon–10:30pm
 price_range: £5–7 pint
+score: 7.5
 snippet: Bankside pub opposite the Tate Modern, on the site of Shakespeare's brewery
 tags:
 - eating_out
 - restaurant
+- south_bank
 title: The Anchor Bankside
 type: poi
-score: 7.5
 ---
 
 The Anchor on Bankside is one of London's great riverside pubs — a rambling 18th-century building on the south bank directly opposite the Tate Modern, with views of St Paul's Cathedral from its terrace. Samuel Johnson drank here. Samuel Pepys watched the Great Fire of London from this spot in 1666.

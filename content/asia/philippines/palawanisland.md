@@ -11,9 +11,9 @@ loc_type: city
 longitude: 118.5347
 quick_facts:
   Coron: WWII shipwreck diving
-  Lagoons: Hidden behind limestone cliffs
+  Island Length: 450 km
   Often Voted: World's best island
-  Underground River: 8 km, navigable by boat
+  Underground River: 8 km long
 score: 9.77
 snippet: Long Philippine island whose limestone lagoons and Coron wrecks anchor the
   country's frontier coast.

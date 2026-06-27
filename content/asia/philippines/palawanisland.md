@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Corong_Corong,_El_Nido,_Pa
 latitude: 9.6671
 loc_type: city
 longitude: 118.5347
+quick_facts:
+  Coron: WWII shipwreck diving
+  Lagoons: Hidden behind limestone cliffs
+  Often Voted: World's best island
+  Underground River: 8 km, navigable by boat
 score: 9.77
 snippet: Long Philippine island whose limestone lagoons and Coron wrecks anchor the
   country's frontier coast.
+tip: El Nido and Coron are the headline acts, but the island is long and transfers
+  are slow — fly into the right end rather than busing for hours. The island-hopping
+  tours (A, B, C, D) each cover different lagoons, so do at least two. Bring cash;
+  ATMs are scarce and often empty.
 title: Palawan Island
 type: location
 ---

@@ -402,8 +402,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             ]
 
     # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
-    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
-    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index, extra_locations=linked_locations)
+    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index, extra_locations=linked_locations)
 
     breadcrumbs = page.breadcrumbs()
 
@@ -523,7 +523,7 @@ def _marker_from_page(page, highlight=False):
     return None
 
 
-def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
+def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None, extra_locations=None):
     markers = []
     seen = set()
 
@@ -533,6 +533,11 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
             markers.append(m)
 
     for loc in locations:
+        add(_marker_from_page(loc))
+
+    # Linked destinations (e.g. day-trip locations on a section page) so the
+    # map shows them alongside any genuine-attraction POIs in the section.
+    for loc in extra_locations or []:
         add(_marker_from_page(loc))
 
     page_is_sight = page.slug in _SIGHT_SLUGS

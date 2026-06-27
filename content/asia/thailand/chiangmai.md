@@ -10,11 +10,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiang-Mai_Thailand_Buddhi
 latitude: 18.788278
 loc_type: city
 longitude: 98.98588
+quick_facts:
+  Old City: A square moat & walls
+  Temples: Around 300 in and around town
+  Was: Capital of the Lanna kingdom
+  Yi Peng: Sky-lantern festival
 score: 9.46
-title: Chiang mai
-type: location
 snippet: Northern Thailand's cultural capital, founded as the Lanna Kingdom's capital
   and ringed by temple-filled old walls.
+tip: Chiang Mai is northern Thailand's laid-back capital, ringed by an old moat and
+  dotted with some 300 temples. The Sunday Walking Street market is the best in the
+  country. For elephants, choose a genuine sanctuary that doesn't offer rides. Visit
+  in November for Yi Peng, when thousands of lanterns rise into the sky, and dodge
+  the smoky 'burning season' (Mar–Apr).
+title: Chiang mai
+type: location
 ---
 
 **Chiang Mai** is the cultural capital of northern Thailand and one of the most rewarding cities in Southeast Asia to spend time in. Founded in 1296 by King Mangrai as the capital of the Lanna Kingdom, it has a distinct identity that sets it apart from Bangkok — a slower pace, cooler climate, a richer concentration of temples, and a cuisine entirely its own.

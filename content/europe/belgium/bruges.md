@@ -11,10 +11,10 @@ latitude: 51.208553
 loc_type: city
 longitude: 3.226772
 quick_facts:
-  Beer: Piped under the streets to bottling
-  Belfry: 366 steps to the top
-  Canals: Earn it 'Venice of the North'
-  Whole Centre: UNESCO World Heritage
+  Beer Pipeline: Runs under the streets
+  Belfry: 366 steps, 83 m
+  Old Town: Entirely UNESCO-listed
+  Population: 120,000
 score: 9.45
 snippet: Canal city in Flanders whose medieval trading wealth left bridges, guild
   houses, and market squares.

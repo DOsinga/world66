@@ -14,9 +14,9 @@ loc_type: city
 longitude: 12.5683
 quick_facts:
   Bikes: Outnumber the cars
-  Little Mermaid: Just 1.25 m tall
-  Nyhavn: Hans Christian Andersen's home
-  Tivoli: Among the oldest theme parks
+  Little Mermaid: Only 1.25 m tall
+  Metro Population: 1.4 million
+  Tivoli: Opened 1843
 score: 9.47
 snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods,
   and bold modern architecture.

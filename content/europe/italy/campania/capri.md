@@ -10,9 +10,9 @@ latitude: 40.548843
 loc_type: city
 longitude: 14.228371
 quick_facts:
+  Area: 10 km²
   Blue Grotto: Glows electric blue
-  Chairlift: Up Monte Solaro
-  Faraglioni: Iconic offshore rock stacks
+  Monte Solaro: 589 m
   Roman Retreat: Emperor Tiberius' villas
 score: 9.43
 snippet: Rocky Bay of Naples island with Roman imperial ruins, cliff paths, and long

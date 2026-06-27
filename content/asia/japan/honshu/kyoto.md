@@ -12,10 +12,10 @@ latitude: 35.011575
 loc_type: city
 longitude: 135.768144
 quick_facts:
+  Geisha Quarter: Gion
   Imperial Capital: 794–1868
   Spared the A-Bomb: Struck off the target list
-  Temples & Shrines: 1,600 temples, 400 shrines
-  UNESCO Sites: '17'
+  Temples & Shrines: 2,000 total
 score: 10.0
 snippet: Japan’s old imperial capital, dense with Buddhist temples, Shintō shrines,
   craft traditions, and geisha quarters

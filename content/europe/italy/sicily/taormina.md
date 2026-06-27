@@ -10,8 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Taormina_BW_2025-04-27_09-
 latitude: 37.8512
 loc_type: city
 longitude: 15.283
+quick_facts:
+  Greek Theatre: Frames Mt Etna
+  Isola Bella: Tiny island reserve below
+  Mt Etna: Europe's most active volcano
+  Reputation: A Mediterranean jet-set classic
 score: 9.48
 snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
+tip: Taormina clings to a cliff with Mt Etna smoking on the horizon — the ancient
+  Greek Theatre frames the volcano perfectly, so go for sunset. The town is steep
+  and the 'beach' is far below, reached by cable car to Isola Bella. It packs out
+  and prices spike in summer, so come in spring or autumn. Etna day trips and tastings
+  leave from here.
 title: Taormina
 type: location
 ---

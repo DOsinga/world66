@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apaneca,_El_Salvador_-_pan
 latitude: 13.85
 loc_type: city
 longitude: -89.8
-score: 0.24
+score: 6.45
 snippet: Highland coffee town on the Ruta de las Flores, known for cool air and crater
   lagoons.
 sources:

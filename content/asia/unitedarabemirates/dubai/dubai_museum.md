@@ -3,12 +3,13 @@ address: Al Fahidi Street, Bur Dubai
 category: Museum
 latitude: 25.2634
 longitude: 55.2972
+score: 8.5
 snippet: Pre-oil Dubai life recreated inside the city's oldest fort
-title: Dubai Museum
-type: poi
 tags:
 - things_to_do
-score: 8.5
+- al_fahidi
+title: Dubai Museum
+type: poi
 ---
 
 Al Fahidi Fort, which houses the Dubai Museum, is the oldest surviving building in the city, built around 1799. It served at various points as a palace, garrison, and prison before being converted into a museum in 1970 and substantially expanded in 1995.

@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-28'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: marrakesh.jpg
 image_attribution: Petar Milošević

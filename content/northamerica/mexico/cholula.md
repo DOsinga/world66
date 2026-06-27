@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gran_Pir%C3%A1mide_de_Chol
 latitude: 19.0633
 loc_type: city
 longitude: -98.3064
-score: 0.56
+score: 7.59
 snippet: Ancient Puebla twin city where a buried pyramid, colonial churches, and student
   life overlap.
 sources:

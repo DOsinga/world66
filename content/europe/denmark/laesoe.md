@@ -2,7 +2,7 @@
 latitude: 57.2667
 longitude: 11.0
 loc_type: feature
-score: 0.38
+score: 6.97
 snippet: Remote Kattegat island with seaweed-thatched houses, a medieval salt-production
   history, and a slow pace that draws visitors looking for genuine quiet.
 title: Læsø

@@ -4,7 +4,7 @@ done:
 latitude: 35.6225
 loc_type: city
 longitude: -117.6708
-score: 0.3
+score: 6.68
 snippet: High-desert gateway town for China Lake, petroglyph country, and the northern
   Mojave.
 sources:

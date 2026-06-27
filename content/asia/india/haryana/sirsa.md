@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sirsa_road.jpg
 latitude: 29.533333
 loc_type: city
 longitude: 75.016667
-score: 0.22
+score: 6.36
 snippet: Far-west Haryana city on the edge of Punjab and Rajasthan, shaped by shrines,
   markets, and the Ghaggar.
 sources:

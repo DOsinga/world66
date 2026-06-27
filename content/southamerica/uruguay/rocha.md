@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Independencia_de_Roc
 latitude: -34.4833
 loc_type: city
 longitude: -54.35
-score: 0.3
+score: 6.68
 snippet: Quiet eastern Uruguay capital used as a practical base for Rocha's wilder
   Atlantic coast.
 sources:

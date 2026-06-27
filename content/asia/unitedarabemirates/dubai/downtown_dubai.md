@@ -1,6 +1,12 @@
 ---
+image: downtown_dubai.jpg
+image_attribution: juja1811
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Dubai_-_Dubai_-_United_Arab_Emirates_-_panoramio_(11).jpg
 latitude: 25.1972
 longitude: 55.2744
+snippet: Flagship modern district around the Burj Khalifa, Dubai Mall, and the nightly
+  fountain show
 tags:
 - things_to_do
 - neighbourhood

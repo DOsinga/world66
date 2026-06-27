@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Curtiss_SOC_Seagull_flies_
 latitude: 9.4529
 loc_type: island
 longitude: 170.0722
-score: 0.31
+score: 6.72
 snippet: Northern Marshall Islands atoll with a broad lagoon, outer-island schools,
   and visible Japanese war remains.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Driggs_Corner_Drug_Store.j
 latitude: 43.7232
 loc_type: city
 longitude: -111.1109
-score: 0.42
+score: 7.11
 snippet: Teton Valley hub with Grand Targhee access, big mountain views, and a useful
   small downtown.
 sources:

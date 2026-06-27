@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banda_Aceh_banner.jpg
 latitude: 5.55
 loc_type: city
 longitude: 95.3175
-score: 0.43
+score: 7.15
 snippet: Aceh's conservative Sumatran capital, shaped by sultanate history and the
   memory of the 2004 tsunami.
 sources:

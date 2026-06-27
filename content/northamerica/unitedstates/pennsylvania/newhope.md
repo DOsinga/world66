@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Locktender%27s_House,_Lock
 latitude: 40.3642
 loc_type: city
 longitude: -74.9514
-score: 0.39
+score: 7.0
 snippet: Delaware River arts town of galleries, canal walks, theatre, and weekend
   crowds opposite Lambertville.
 sources:

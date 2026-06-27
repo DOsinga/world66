@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bury_St_Edmunds_Abbey_(442
 latitude: 52.2458
 loc_type: city
 longitude: 0.7125
-score: 0.38
+score: 6.97
 snippet: Suffolk market town of abbey ruins, brewing, Georgian streets, and a quietly
   grand cathedral quarter.
 sources:

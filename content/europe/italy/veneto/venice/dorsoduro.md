@@ -2,10 +2,14 @@
 title: Dorsoduro
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 45.4318
 longitude: 12.3268
+image: dorsoduro.jpg
+image_source: https://www.flickr.com/photos/125601701@N03/33663401408
+image_license: CC BY-SA 2.0
+image_attribution: Herve S, France on Flickr
 ---
 
 Dorsoduro — "hard back", referring to the firm ground on which it was built — is the southernmost of Venice's sestieri, containing some of the city's best art and most liveable streets. The Gallerie dell'Accademia and the Peggy Guggenheim Collection are both here, as is the church of Santa Maria della Salute and the Punta della Dogana contemporary art space.

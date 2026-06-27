@@ -4,7 +4,7 @@ done:
 latitude: 52.807
 loc_type: city
 longitude: -2.117
-score: 0.28
+score: 6.61
 snippet: Staffordshire county town with Elizabethan timber, civil-war churches, and
   a practical West Coast Main Line station.
 sources:

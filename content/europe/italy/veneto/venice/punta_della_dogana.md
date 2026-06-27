@@ -1,16 +1,16 @@
 ---
-title: Punta della Dogana
-type: poi
-tags:
-  - things_to_do
-  - dorsoduro
-  - sight
-  - museum
 latitude: 45.4308
 longitude: 12.3362
-snippet: "Tadao Ando's conversion of a 17th-century customs house into the Pinault contemporary art collection"
-neighbourhood: Dorsoduro
 score: 7.9
+snippet: Tadao Ando's conversion of a 17th-century customs house into the Pinault
+  contemporary art collection
+tags:
+- things_to_do
+- dorsoduro
+- sight
+- museum
+title: Punta della Dogana
+type: poi
 ---
 
 Punta della Dogana occupies the triangular tip of the Dorsoduro peninsula where the Grand Canal and Giudecca Canal meet — the most prominent position in Venice after the Doge's Palace. The 17th-century customs warehouse was converted by architect Tadao Ando in 2009 into a contemporary art museum housing the Pinault Collection, one of the most important private art collections in the world.

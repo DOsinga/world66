@@ -2,13 +2,14 @@
 address: 1 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai
 latitude: 25.1972
 longitude: 55.2744
+score: 8.9
 snippet: World's tallest building with observation decks over the desert and sea
 tags:
 - things_to_do
 - landmark
+- downtown_dubai
 title: Burj Khalifa
 type: poi
-score: 8.9
 ---
 
 At 828 metres, the Burj Khalifa is the tallest structure on the planet and the centrepiece of Downtown Dubai. The tower tapers in a series of setbacks inspired by the Hymenocallis flower, and on a clear day you can see Iran from the upper floors.

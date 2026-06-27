@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%B6y%C3%BCk_bazar_m%C9
 latitude: 38.7536
 loc_type: city
 longitude: 48.8511
-score: 0.31
+score: 6.72
 snippet: Humid Caspian city in southern Azerbaijan, shaped by Talysh culture, tea
   country, and old khanate traces.
 sources:

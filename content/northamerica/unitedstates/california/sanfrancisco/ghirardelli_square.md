@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - shopping
 - sight
+- fishermans_wharf
 title: Ghirardelli Square
 type: poi
 story: "When the Ghirardelli Chocolate Company moved out in the 1960s, the building was slated for demolition. William Roth and his mother bought it and hired Lawrence Halprin to convert it into shops and restaurants -- the first major adaptive reuse project in the United States."

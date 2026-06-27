@@ -4,7 +4,7 @@ done:
 latitude: 37.0514
 loc_type: city
 longitude: -122.0558
-score: 0.36
+score: 6.9
 snippet: San Lorenzo Valley redwood town with a covered bridge, steam railroad, and
   easy access to Henry Cowell.
 sources:

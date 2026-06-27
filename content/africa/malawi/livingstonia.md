@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Livingstonia_Mission_Churc
 latitude: -10.6
 loc_type: city
 longitude: 34.1167
-score: 0.34
+score: 6.82
 snippet: Historic mission town high above Lake Malawi, with waterfalls, escarpment
   views, and red-brick institutions.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:France_NA_19_Tulle_01.jpg
 latitude: 45.2678
 loc_type: city
 longitude: 1.7706
-score: 0.36
+score: 6.9
 snippet: Corrèze prefecture folded into a steep river valley, known for lace, accordions,
   and a quiet old centre.
 sources:

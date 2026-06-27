@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Island_in_the_Zambezi_Rive
 latitude: -15.75
 loc_type: feature
 longitude: 29.3333
-score: 0.53
+score: 7.5
 snippet: Wild lower-Zambezi national park of floodplain pools, winterthorn forest,
   elephants, and walking safaris.
 sources:

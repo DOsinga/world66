@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_madonie_dal_belvedere_d
 latitude: 37.8833
 loc_type: feature
 longitude: 14.0167
-score: 0.55
+score: 7.56
 snippet: Mountain park behind Cefalu, where limestone peaks rise above chestnut woods
   and stone villages.
 sources:

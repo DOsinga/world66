@@ -4,7 +4,7 @@ done:
 latitude: 46.9089
 loc_type: feature
 longitude: 17.8792
-score: 0.52
+score: 7.46
 snippet: Lake Balaton peninsula of abbey towers, lavender fields, volcanic lakes,
   and wide north-shore views.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pista_Aterrizaje_P%C3%A9re
 latitude: 9.3706
 loc_type: city
 longitude: -83.7046
-score: 0.38
+score: 6.97
 snippet: Southern Costa Rican market city in the El General Valley, used as the practical
   gateway to Chirripó.
 sources:

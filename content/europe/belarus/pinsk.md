@@ -4,7 +4,7 @@ done:
 latitude: 52.1153
 loc_type: city
 longitude: 26.1031
-score: 0.34
+score: 6.82
 snippet: Polesia river city with Baroque churches, Jewish history, and a restored
   old centre on the Pina.
 sources:

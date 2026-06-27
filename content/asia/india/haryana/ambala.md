@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ambala_Cantonment_Railway_
 latitude: 30.38
 loc_type: city
 longitude: 76.78
-score: 0.28
+score: 6.61
 snippet: North Haryana junction city split between old Ambala and a cantonment full
   of colonial-era traces.
 sources:

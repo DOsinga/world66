@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ozona_Sunset.jpg
 latitude: 28.0847
 loc_type: city
 longitude: -82.7478
-score: 0.3
+score: 6.68
 snippet: Quiet north Pinellas community of bayou parks, golf, old villages, and Gulf-side
   day trips.
 sources:

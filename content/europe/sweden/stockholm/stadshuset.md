@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+  - kungsholmen
 latitude: 59.3272
 longitude: 18.0543
 story: >

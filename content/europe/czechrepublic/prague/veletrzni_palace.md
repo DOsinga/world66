@@ -4,14 +4,16 @@ admission: 300 CZK
 latitude: 50.1008
 longitude: 14.4291
 opening_hours: Tue–Sun 10:00–18:00
-snippet: Functionalist trade fair palace housing the National Gallery's modern art collection
+score: 8.5
+snippet: Functionalist trade fair palace housing the National Gallery's modern art
+  collection
 tags:
 - things_to_do
 - museum
 - architecture
+- holesovice
 title: Veletržní Palace
 type: poi
-score: 8.5
 ---
 
 The Veletržní Palace is the Czech National Gallery's modern art collection, housed in a vast 1920s Functionalist trade fair building in Holešovice. The building itself is remarkable — a huge atrium flooded with natural light, with galleries arranged around the open void. It influenced Le Corbusier, who visited during construction.

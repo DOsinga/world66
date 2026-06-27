@@ -1,10 +1,14 @@
 ---
-category: Neighbourhood
+image: shoreditch.jpg
+image_attribution: Adam Nieman
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Coronet_Street,_Shoreditch_(2252938707).jpg
 latitude: 51.5231
 longitude: -0.0784
 snippet: East London's creative hub of street art, markets, and curry houses
 tags:
 - things_to_do
+- neighbourhood
 title: Shoreditch and Hoxton
 type: neighbourhood
 ---

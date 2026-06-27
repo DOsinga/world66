@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nusa_Lembongan_(Stegop)_02
 latitude: -8.681767
 loc_type: island
 longitude: 115.451117
-score: 0.58
+score: 7.66
 snippet: Small island southeast of Bali with reef trips, seaweed farms, limestone
   coves, and scooter lanes.
 sources:

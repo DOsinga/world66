@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   location_enrich: '2026-05-15'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-20'
 image: copenhagen.jpg
 image_attribution: Moahim
@@ -12,9 +13,9 @@ latitude: 55.6761
 loc_type: city
 longitude: 12.5683
 score: 9.47
-title: Copenhagen
 snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods,
   and bold modern architecture.
+title: Copenhagen
 type: location
 ---
 
@@ -24,4 +25,4 @@ The city's heart is its medieval core, where the pedestrian street [Strøget](/e
 
 Copenhagen punches well above its weight in art and culture. The [Nationalmuseet](/europe/denmark/copenhagen/nationalmuseet) covers 10,000 years of Danish history, the [Ny Carlsberg Glyptotek](/europe/denmark/copenhagen/ny_carlsberg_glyptotek) holds one of the world's great Rodin collections, and a short train ride north brings you to [Louisiana](/europe/denmark/copenhagen/louisiana), arguably the best modern art museum in Europe. The city's food scene runs from classic smørrebrød to some of the world's most inventive restaurants, and its bars range from cosy basement jazz joints to loud clubs that don't get going until midnight.
 
-It is an expensive city, there is no getting around that. But the best things here are often free: walking along the harbourfront, [cycling](/europe/denmark/copenhagen/copenhagen_cycle) through the parks, watching the changing of the guard at [Amalienborg](/europe/denmark/copenhagen/amalienborg), or just sitting in [Nyhavn](/europe/denmark/copenhagen/nyhavn) with a beer and the late northern sun on your face. [Tivoli Gardens](/europe/denmark/copenhagen/tivoli_gardens), just behind the central station, is also open most evenings and is genuinely wonderful.
+It is an expensive city, there is no getting around that. But the best things here are often free: walking along the [harbourfront](/europe/denmark/copenhagen/harbourfront), [cycling](/europe/denmark/copenhagen/copenhagen_cycle) through the parks, watching the changing of the guard at [Amalienborg](/europe/denmark/copenhagen/amalienborg), or just sitting in [Nyhavn](/europe/denmark/copenhagen/nyhavn) with a beer and the late northern sun on your face. [Tivoli Gardens](/europe/denmark/copenhagen/tivoli_gardens), just behind the central station, is also open most evenings and is genuinely wonderful.

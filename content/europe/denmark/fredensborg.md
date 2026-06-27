@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Denmark_-_Fredensborg_Cast
 latitude: 55.9756
 loc_type: city
 longitude: 12.4031
-score: 0.38
+score: 6.97
 snippet: Royal North Zealand town beside Lake Esrum, centred on Denmark's working
   spring palace.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bucks_Courthouse.JPG
 latitude: 40.3128
 loc_type: city
 longitude: -75.1289
-score: 0.48
+score: 7.33
 snippet: Bucks County seat with Henry Mercer's concrete castles, walkable streets,
   and strong small-town culture.
 sources:

@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Alhambra_El_Partal_(croppe
 latitude: 37.173499
 loc_type: city
 longitude: -3.599534
+quick_facts:
+  Albaicín: Medieval Moorish quarter
+  Alhambra: Spain's most-visited monument
+  Last Moorish Kingdom: Fell in 1492
+  Tapas: Still free with a drink
 score: 9.5
 snippet: Historic Andalusian city below the Alhambra, the great surviving palace of
   Moorish Spain.
+tip: The Alhambra sells out days ahead and entry is timed — book online the moment
+  you plan your trip, and don't miss the Nasrid Palaces slot printed on your ticket.
+  Granada is the last city in Spain where many bars still give free tapas with every
+  drink. Watch sunset over the Alhambra from the Mirador de San Nicolás in the Albaicín.
 title: Granada
 type: location
 ---

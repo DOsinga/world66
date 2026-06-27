@@ -10,7 +10,7 @@ latitude: 18.4861
 loc_type: city
 longitude: -69.9312
 quick_facts:
-  First Cathedral: Of the New World, 1540
+  First Cathedral: In the Americas (1540)
   Founded: '1496'
   Oldest in the Americas: First European city
   Population: ~1 million

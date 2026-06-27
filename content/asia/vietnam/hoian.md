@@ -16,9 +16,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Hoi_An_(I).jpg
 latitude: 15.8801
 loc_type: city
 longitude: 108.338
+quick_facts:
+  Japanese Bridge: A 400-year-old covered span
+  Lanterns: Silk, lighting the old town
+  Old Town: UNESCO, spared by the war
+  Tailors: Custom clothes in a day
 score: 9.46
 snippet: Vietnamese trading port with lantern-lit merchant houses, Chinese assembly
   halls, and a Japanese covered bridge.
+tip: Hoi An glows with thousands of silk lanterns at night and is mostly car-free
+  — come at dusk when they light up and people float paper lanterns on the river.
+  It's Vietnam's tailoring capital; order custom clothes early in your stay so there's
+  time for fittings. Rent a bike to the nearby beach. The monthly full-moon festival
+  kills the electric lights.
 title: Hoi An
 type: location
 ---

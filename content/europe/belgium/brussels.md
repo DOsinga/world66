@@ -11,7 +11,7 @@ latitude: 50.846737
 loc_type: city
 longitude: 4.352493
 quick_facts:
-  Comic Capital: Birthplace of Tintin
+  Comic Strips: Birthplace of Tintin
   EU Capital: Seat of the institutions
   Grand-Place: A UNESCO-listed square
   Population: ~1.2 million

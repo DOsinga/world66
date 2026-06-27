@@ -12,10 +12,12 @@ latitude: 13.7563
 loc_type: city
 longitude: 100.5018
 quick_facts:
-  Built On: Canals — 'Venice of the East'
-  Full Name: World's longest place name
-  Skytrain: Beats the gridlock
-  Street Food: Among the world's best
+  Emerald Buddha: Robed by the king each season
+  Locals Just Say: Krung Thep — 'City of Angels'
+  World's Longest Place Name: Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya
+    Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman
+    Awatan Sathit Sakkathattiya Witsanukam Prasit
+  World's Most-Visited City: Tops global rankings
 score: 9.73
 snippet: Thai capital on the Chao Phraya River, where royal temples, street food,
   and canal life crowd together

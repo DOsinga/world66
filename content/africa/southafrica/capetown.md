@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:CapeTown_CityHall.jpg
 latitude: -33.92883
 loc_type: city
 longitude: 18.41722
+quick_facts:
+  Cape Floral Region: More plant species than the UK
+  Nearby: Atlantic & Indian oceans meet
+  Robben Island: Mandela's prison for 18 years
+  Table Mountain: Around 6 million years old
 score: 9.86
 snippet: South African coastal city beneath Table Mountain, blending beaches, vineyards,
   colonial history, and post-apartheid complexity.
+tip: Cable-car or climb Table Mountain on a clear morning — the 'tablecloth' cloud
+  rolls in by afternoon and they close the cableway in high wind, so don't save it
+  for your last day. Rent a car for the Cape Peninsula and the winelands. Be street-smart
+  after dark and don't flash valuables.
 title: Cape Town
 type: location
 ---

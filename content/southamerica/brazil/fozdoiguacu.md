@@ -9,10 +9,10 @@ latitude: -25.5398
 loc_type: city
 longitude: -54.5818
 quick_facts:
-  Compared To Niagara: Far wider
-  Falls: The panoramic Brazilian side
-  Itaipú: One of the world's biggest dams
+  Falls: 275 drops, Brazil side
+  Itaipú Dam: One of world's biggest
   Triple Frontier: Three countries meet
+  Wider Than: Niagara, by far
 score: 9.47
 snippet: Brazilian border city at the Triple Frontier, built around the power and
   spray of Iguaçu Falls.

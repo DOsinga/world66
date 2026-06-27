@@ -12,8 +12,8 @@ latitude: 6.82
 loc_type: city
 longitude: -5.2776
 quick_facts:
+  Basilica: World's largest church
   Became Capital: '1983'
-  Largest Church: On Earth, the Basilica
   Population: ~360,000
   Sacred Crocodiles: Guard the palace lake
 score: 6.56

@@ -1,21 +1,17 @@
 ---
 title: Dürnstein
-type: poi
-tags:
-  - things_to_do
-  - sight
+type: location
+loc_type: city
 latitude: 48.3956
 longitude: 15.5203
-story: >
-  Richard the Lionheart was captured at Dürnstein in December 1192 on his
-  way back from the Third Crusade, and held here by Duke Leopold V of Austria.
-  The ransom demanded — 150,000 marks of silver, equal to three times the
-  annual income of England — was eventually paid, raising taxes in England
-  to a level not seen before or since. Leopold used part of the money to
-  found the cities of Wiener Neustadt and Friedberg.
+snippet: Wachau wine village with a blue Baroque monastery tower and Richard the Lionheart's ruined castle.
 score: 8.9
+sources:
+  - https://en.wikivoyage.org/wiki/D%C3%BCrnstein
 ---
 
-Dürnstein is the most visited town in the Wachau, a small village of some 800 people whose blue-and-white Baroque church tower has become the symbol of the entire valley. The village is compact and largely pedestrianised, with a pretty main street, several wine restaurants, and a viewpoint above the town toward the castle ruins on the cliff.
+Dürnstein is the most visited village in the [Wachau](/europe/austria/wachau), a small Danube town of blue church towers, stone lanes, steep vineyards, and ruined castle walls above the river. It is compact and mostly pedestrian, but it carries more history than its size suggests: Richard the Lionheart was imprisoned in the castle here in 1192, and the Augustinian monastery below has become the visual symbol of the whole valley.
 
-The [Dürnstein Castle](/europe/austria/wachau/durnstein_castle) above the village is a ruin now, but the site of Richard the Lionheart's imprisonment is well documented and the walk up takes about 30 minutes from the village square. The views from the top over the river bend below are outstanding. The Augustinian monastery in the village centre, with its Baroque church, was rebuilt in the early 18th century and contains fine frescoes; it has a wine cellar that is open for tastings. Dürnstein receives large numbers of day-trippers from Vienna and coach tours in summer; arrive early or stay overnight to have the village to yourself.
+The [Dürnstein Castle](/europe/austria/wachau/durnstein/durnstein_castle) walk is the essential climb. The path rises sharply from the village and reaches the ruins in about half an hour, opening wide views over the Danube bend, the ferry landings, and the terraced vineyards on both banks. In the village centre, [Stift Dürnstein](/europe/austria/wachau/durnstein/stift_durnstein) is the polished counterpoint: pale blue, white, and gold Baroque architecture set hard against the river.
+
+Dürnstein receives heavy day-trip traffic from Vienna, river cruises, and coach tours in summer. Go early, stay late, or visit outside the peak months if you want to feel the village rather than just shuffle through it. The reward is simple: a short Wachau day that combines wine country, a castle climb, a monastery visit, and one of Austria's classic river views.

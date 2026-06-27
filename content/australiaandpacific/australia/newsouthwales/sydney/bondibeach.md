@@ -9,6 +9,10 @@ score: 0.71
 tags:
 - neighbourhood
 - things_to_do
+image: bondibeach.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Bondi_Beach_--_2019_--_2354.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dietmar Rabich
 ---
 
 Bondi Beach is Australia’s most iconic stretch of sand — a crescent of golden beach roughly a kilometre long, seven kilometres east of central [Sydney](/australiaandpacific/australia/newsouthwales/sydney). The name is believed to come from an Aboriginal word meaning the sound of breaking waves, and that sound is the constant backdrop here: Bondi faces the open Pacific and gets proper surf. It is the kind of place that manages to be both a working neighbourhood and a destination, with locals jogging the coastal path at dawn and visitors filling the cafes along Campbell Parade by mid-morning.

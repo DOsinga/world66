@@ -364,6 +364,24 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
             linked_locations.append(loc)
 
+    # Day-trip cards: linked destinations + any genuine-attraction POIs kept in
+    # the section, rendered together as one card grid.
+    daytrip_cards = None
+    if page.page_type == 'section' and linked_locations:
+        daytrip_cards = [
+            {'url': loc.get_absolute_url(), 'title': loc.title,
+             'image_url': getattr(loc, 'image_url', None), 'snippet': loc.meta.get('snippet', '')}
+            for loc in linked_locations
+        ]
+        for poi in pois:
+            img_path = _image_path(poi, source_ref)
+            url = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
+            daytrip_cards.append({
+                'url': url, 'title': poi.title,
+                'image_url': f'{poi.url_prefix}/content-image/{img_path}' if img_path else None,
+                'snippet': poi.meta.get('snippet', '') or '',
+            })
+
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
     if page.page_type in NAV_TYPES:
@@ -442,6 +460,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
+        "daytrip_cards": daytrip_cards,
         "url_prefix": page.url_prefix,
     })
 

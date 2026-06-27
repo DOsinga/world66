@@ -235,7 +235,7 @@
 {% endblock %}
 
 {% block wide_content %}
-{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois and not daytrip_cards %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">
@@ -379,15 +379,28 @@
 {% endif %}
 {% endif %}
 
-{% if linked_locations %}
+{% if daytrip_cards %}
 <div class="wide-block destinations-section">
-  {% if page.meta.loc_type == 'feature' %}
-  <span class="section-kicker">Cities</span>
-  <h2 class="section-block-heading">Places in {{ page.title }}</h2>
-  {% else %}
   <span class="section-kicker">Destinations</span>
   <h2 class="section-block-heading">{{ page.title }}{% if parent %} from {{ parent.title }}{% endif %}</h2>
-  {% endif %}
+  <div class="dest-grid">
+    {% for card in daytrip_cards %}
+    <a href="{{ card.url }}" class="dest-card{% if not card.image_url %} dest-card--no-image{% endif %}">
+      {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}">{% endif %}
+      <div class="dest-veil"></div>
+      <div class="dest-txt">
+        <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="dest-name">{{ card.title }}</div>
+        {% if card.snippet %}<div class="dest-snippet">{{ card.snippet }}</div>{% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% elif linked_locations %}
+<div class="wide-block destinations-section">
+  <span class="section-kicker">Cities</span>
+  <h2 class="section-block-heading">Places in {{ page.title }}</h2>
   <div class="dest-grid">
     {% for loc in linked_locations %}
     <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">

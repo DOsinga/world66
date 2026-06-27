@@ -13,10 +13,10 @@ latitude: 40.712728
 loc_type: city
 longitude: -74.006015
 quick_facts:
-  Central Park: Larger than Monaco
-  Languages Spoken: Over 800
+  Languages Spoken: 800+
   Pizza Principle: A slice ≈ a subway fare
-  Subway: Runs 24/7, 472 stations
+  Population: 8.3 million
+  Subway: 472 stations, 24/7
 score: 9.89
 snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, and
   restless street life beside the Hudson.

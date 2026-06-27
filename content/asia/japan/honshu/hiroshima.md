@@ -9,8 +9,8 @@ latitude: 34.391724
 loc_type: city
 longitude: 132.451759
 quick_facts:
-  A-Bomb: 6 August 1945
-  A-Bomb Dome: Left exactly as it stood
+  A-Bomb Dome: Left as it stood
+  Bombed: 6 August 1945
   Miyajima: '''Floating'' torii gate'
   Population: 1.2 million
 score: 9.41

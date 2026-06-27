@@ -10,10 +10,10 @@ latitude: 46.593904
 loc_type: city
 longitude: 7.907802
 quick_facts:
-  Above: Car-free Mürren & Wengen
+  Car-Free Above: Mürren & Wengen
   Inspired: Tolkien's Rivendell
   Staubbach Falls: ~300 m freefall
-  Waterfalls: 72 in the valley
+  Valley Waterfalls: '72'
 score: 9.68
 snippet: Alpine valley village below sheer limestone cliffs, where more than 70 waterfalls
   drop from the rim.

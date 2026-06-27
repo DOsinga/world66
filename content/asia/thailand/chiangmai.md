@@ -11,9 +11,9 @@ latitude: 18.788278
 loc_type: city
 longitude: 98.98588
 quick_facts:
-  Old City: A square moat & walls
-  Temples: Around 300 in and around town
-  Was: Capital of the Lanna kingdom
+  Elevation: 310 m
+  Founded: '1296'
+  Temples: 300+
   Yi Peng: Sky-lantern festival
 score: 9.46
 snippet: Northern Thailand's cultural capital, founded as the Lanna Kingdom's capital

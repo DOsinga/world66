@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Boathouses_in_Hallstatt,_A
 latitude: 47.56217
 loc_type: city
 longitude: 13.64867
+quick_facts:
+  Copied: A full replica built in China
+  Lake: Mirrors the village & alps
+  Name: '''Hall'' is ancient Celtic for salt'
+  Salt Mine: World's oldest, 7,000 years
 score: 9.46
 snippet: Lakeside Salzkammergut village where prehistoric salt mines meet Dachstein
   cliffs and stacked wooden houses.
+tip: Hallstatt is tiny and overwhelmed by day-trippers — it even inspired a full-scale
+  replica in China — so stay overnight or arrive early to have the lakeside to yourself.
+  The salt mine above town is among the world's oldest, reached by funicular. The
+  famous photo viewpoint now gets so crowded the village has tried to fence it off.
 title: Hallstatt
 type: location
 ---

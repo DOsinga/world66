@@ -6,7 +6,6 @@ image_attribution: The original uploader was Estrategy at English Wikipedia.
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Hermosa_Beach_sunset_concert.JPG
 latitude: 33.8664
-loc_type: city
 longitude: -118.3997
 score: 7.18
 snippet: Compact South Bay beach city known for volleyball, a busy pier, and an easygoing
@@ -15,7 +14,7 @@ sources:
 - https://en.wikipedia.org/wiki/Hermosa_Beach,_California
 - https://en.wikipedia.org/wiki/Hermosa_Beach_Pier
 title: Hermosa Beach
-type: location
+type: poi
 ---
 
 Hermosa Beach is the livelier, less polished middle child of the South Bay beach towns, squeezed between [Manhattan Beach](/northamerica/unitedstates/california/manhattenbeach) and Redondo Beach. It has a short downtown, a broad strand of sand, and enough bars around Pier Avenue to make it feel younger than its neighbours.

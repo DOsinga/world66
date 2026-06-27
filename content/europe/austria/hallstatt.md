@@ -10,10 +10,10 @@ latitude: 47.56217
 loc_type: city
 longitude: 13.64867
 quick_facts:
-  Copied: A full replica built in China
-  Lake: Mirrors the village & alps
-  Name: '''Hall'' is ancient Celtic for salt'
-  Salt Mine: World's oldest, 7,000 years
+  '''Hall''': Celtic word for salt
+  Chinese Replica: A full-size copy exists
+  Population: ~780
+  Salt Mine: 7,000 years old
 score: 9.46
 snippet: Lakeside Salzkammergut village where prehistoric salt mines meet Dachstein
   cliffs and stacked wooden houses.

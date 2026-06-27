@@ -396,6 +396,7 @@
       <div class="dest-txt">
         <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
         <div class="dest-name">{{ loc.title }}</div>
+        {% if loc.meta.snippet %}<div class="dest-snippet">{{ loc.meta.snippet }}</div>{% endif %}
       </div>
     </a>
     {% endfor %}

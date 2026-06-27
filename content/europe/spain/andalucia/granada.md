@@ -12,10 +12,10 @@ latitude: 37.173499
 loc_type: city
 longitude: -3.599534
 quick_facts:
-  Albaicín: Medieval Moorish quarter
-  Alhambra: Spain's most-visited monument
-  Last Moorish Kingdom: Fell in 1492
-  Tapas: Still free with a drink
+  Alhambra Built: 13th–14th century
+  Elevation: 738 m
+  Free Tapas: With every drink
+  Last Moorish City: Fell in 1492
 score: 9.5
 snippet: Historic Andalusian city below the Alhambra, the great surviving palace of
   Moorish Spain.

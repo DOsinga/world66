@@ -10,10 +10,10 @@ latitude: 44.1463
 loc_type: city
 longitude: 9.6558
 quick_facts:
-  Anchovies: A protected local specialty
-  Largest: Of the five villages
-  Only One With: A real sand beach
-  Pesto: Born in surrounding Liguria
+  Anchovies: A protected specialty
+  Cinque Terre: One of five villages
+  Only Sand Beach: Of the five
+  Population: ~1,400
 score: 9.41
 snippet: Largest Cinque Terre village, with sandy beaches, a fishing old town, and
   local anchovies and Sciacchetrà wine.

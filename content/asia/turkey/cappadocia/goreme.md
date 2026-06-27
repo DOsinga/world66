@@ -10,10 +10,10 @@ latitude: 38.642089
 loc_type: city
 longitude: 34.829623
 quick_facts:
-  Balloons: 100+ launch at dawn
-  Houses: Carved into 'fairy chimneys'
-  Rock Churches: Byzantine frescoes inside
-  Underground Cities: Sheltered thousands
+  Cave Homes: Carved into fairy chimneys
+  Dawn Balloons: 100+ daily
+  Elevation: ~1,000 m
+  Rock Churches: 30+
 score: 9.53
 snippet: Cappadocian village surrounded by fairy chimneys and the rock-cut churches
   of Göreme Open-Air Museum.

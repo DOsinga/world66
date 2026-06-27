@@ -18,7 +18,7 @@ title: Osaka
 type: location
 ---
 
-Osaka is Japan's third-largest city and its most extroverted. Where Tokyo is polished and Kyoto is refined, Osaka is loud, friendly, and proud of its food. The local phrase is "kuidaore" — eat until you drop — and the city takes it seriously. [Takoyaki](/asia/japan/honshu/osaka/takoyaki) stalls, okonomiyaki restaurants, and [kushikatsu bars](/asia/japan/honshu/osaka/yoshimoto_infty) are everywhere.
+Osaka is Japan's third-largest city and its most extroverted. Where Tokyo is polished and Kyoto is refined, Osaka is loud, friendly, and proud of its food. The local phrase is "kuidaore" — eat until you drop — and the city takes it seriously. [Takoyaki stalls, okonomiyaki restaurants](/asia/japan/honshu/osaka/eating_out), and [kushikatsu bars](/asia/japan/honshu/osaka/yoshimoto_infty) are everywhere.
 
 The city is built around two hubs. [Umeda](/asia/japan/honshu/osaka/umeda) in the north is the main business and shopping district, anchored by Osaka Station and the spectacular [Umeda Sky Building](/asia/japan/honshu/osaka/umeda_sky_building). [Namba](/asia/japan/honshu/osaka/namba) in the south is the entertainment centre, and [Dotonbori](/asia/japan/honshu/osaka/dotonbori) — lined with giant illuminated signs including the famous [Glico Running Man](/asia/japan/honshu/osaka/glico_man) and packed with restaurants and bars — is the visual heart of the city. Between the two, the covered [Shinsaibashi shopping arcade](/asia/japan/honshu/osaka/shinsaibashi) runs for over 600 metres, with the streetwear district of [Amerika-mura](/asia/japan/honshu/osaka/amerikamura) branching off to the west.
 

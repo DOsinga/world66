@@ -4,18 +4,27 @@ done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-20'
+image: manila.jpg
+image_attribution: Allan Jay Quesada
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_Manila_Cathedral_001.jpg
 latitude: 14.590449
-longitude: 120.980362
-score: 7.32
-title: Manila
-type: location
 loc_type: city
+longitude: 120.980362
+quick_facts:
+  Among Earth's Densest: City proper
+  Founded: '1571'
+  Intramuros: Old Spanish walled city
+  Population: ~14 million (metro)
+score: 7.32
 snippet: Dense Philippine capital on Manila Bay, where Intramuros, Chinatown, malls,
   and working districts collide.
-image: manila.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_Manila_Cathedral_001.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Allan Jay Quesada
+tip: Manila is dense, chaotic and sprawling — the historic core is Intramuros, the
+  old Spanish walled city, best explored by bamboo bike or kalesa horse-cart. Watch
+  the sunset over Manila Bay from the baywalk. Traffic is famously punishing, so plan
+  around it. Filipinos speak excellent English, which makes the city easy to navigate.
+title: Manila
+type: location
 ---
 
 Manila is one of the most exhausting cities in Southeast Asia. Thirteen million people live in the metro area, packed into a warren of municipalities, gated villages, slums, and business districts that stretch for forty kilometres up and down the bay. The traffic is legendary. The heat is heavy. The pollution is real. Don't come for rest — fly to one of the smaller islands for that.

@@ -10,10 +10,10 @@ latitude: 36.7198
 loc_type: city
 longitude: 139.6981
 quick_facts:
-  Cedar Avenue: World's longest tree-lined road
-  Kegon Falls: A 97 m plunge
-  Three Monkeys: The original carving
-  Tōshō-gū: A shogun's gilded shrine
+  Cedar Avenue: 35 km, world's longest
+  Shogun's Tomb: Tokugawa Ieyasu
+  Three Wise Monkeys: The original carving
+  Tōshō-gū Built: '1617'
 score: 9.42
 snippet: Mountain temple town north of Tokyo, centered on the ornate Tokugawa shogun
   shrine complex.

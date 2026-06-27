@@ -10,10 +10,10 @@ latitude: 44.098975
 loc_type: city
 longitude: 9.73867
 quick_facts:
-  Cars: Banned in the village
-  Houses: Stacked in pastel rows
-  Linked By: Coastal hiking trails
-  One Of: Five cliffside villages
+  Car-Free: Village banned to cars
+  Cinque Terre: One of five villages
+  Pastel Houses: Stacked up the cliff
+  Population: ~1,500
 score: 9.49
 snippet: Steep Cinque Terre fishing village, where colourful houses climb above a
   narrow Ligurian harbour.

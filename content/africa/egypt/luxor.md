@@ -12,10 +12,10 @@ latitude: 25.702096
 loc_type: city
 longitude: 32.647186
 quick_facts:
-  Karnak: Built over 2,000 years
+  Ancient Name: Thebes
+  Karnak Built Over: 2,000 years
   Open-Air Museum: World's largest
-  Valley Of The Kings: 60+ royal tombs
-  Was: Ancient Thebes
+  Royal Tombs: 60+ in the Valley
 score: 9.51
 snippet: Nile city built over ancient Thebes, with Karnak, Luxor Temple, and West
   Bank necropolises nearby.

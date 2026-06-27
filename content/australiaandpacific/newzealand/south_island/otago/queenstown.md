@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Queenstown,_New_Zealand.jp
 latitude: -45.0322
 loc_type: city
 longitude: 168.661
+quick_facts:
+  Birthplace Of: Commercial bungy jumping
+  Gateway: To Milford Sound & Fiordland
+  Setting: Lake Wakatipu & the Remarkables
+  The Lake: '''Breathes'' with a strange tide'
 score: 9.75
 snippet: Lake Wakatipu mountain town and New Zealand adventure capital beneath the
   Remarkables range.
+tip: Queenstown is the adventure capital — commercial bungy jumping was born here
+  — but you needn't throw yourself off anything; the Skyline gondola and a Milford
+  Sound day trip are gentler highlights. Book Milford well ahead and expect a long
+  but spectacular drive. Winter is ski season, summer is hiking.
 title: Queenstown
 type: location
 ---

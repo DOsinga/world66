@@ -10,10 +10,10 @@ latitude: 34.6851
 loc_type: city
 longitude: 135.805
 quick_facts:
-  Bowing Deer: Beg for crackers
   Capital Years: 710–784
-  Free-Roaming Deer: ~1,200
   Great Buddha: 15 m of bronze
+  Sacred Deer: ~1,200, and they bow
+  Tōdai-ji: Vast wooden hall
 score: 9.48
 snippet: Japan's first permanent capital, compact and temple-rich, with Todai-ji and
   its great bronze Buddha

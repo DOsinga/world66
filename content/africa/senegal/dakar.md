@@ -8,9 +8,9 @@ latitude: 14.693425
 loc_type: city
 longitude: -17.447938
 quick_facts:
+  Cap-Vert: Africa's westernmost point
   Population: ~1.1 million
   Renaissance Monument: Taller than the Statue of Liberty
-  Westernmost Point: Of mainland Africa
   Île de Gorée: Former slave-trade island
 score: 7.93
 snippet: West African capital on the Cap-Vert peninsula, alive with markets, music,

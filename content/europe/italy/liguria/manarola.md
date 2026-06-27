@@ -10,10 +10,10 @@ latitude: 44.106326
 loc_type: city
 longitude: 9.727481
 quick_facts:
-  Among The Oldest: Of the five towns
-  Dry-Stone Walls: Thousands of km in total
-  One Of: Five Cinque Terre villages
-  Sciacchetrà: Local sweet cliff wine
+  Dry-Stone Walls: 7,000 km region-wide
+  Oldest: Of the five villages
+  Population: ~350
+  Sciacchetrà: Sweet cliff-grown wine
 score: 9.43
 snippet: Cinque Terre village where pastel houses descend a steep Ligurian ravine
   to a tiny harbour.

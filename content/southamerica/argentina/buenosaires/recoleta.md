@@ -8,6 +8,10 @@ tags:
 - things_to_do
 title: Recoleta
 type: neighbourhood
+image: recoleta.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_Recoleta_Cemetery_by_Mardetanha.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Mardetanha
 ---
 
 The most European of Buenos Aires' neighbourhoods — wide boulevards, Haussmann-style buildings, and the city's most famous address, the **Recoleta Cemetery**. The narrow lanes of grand mausoleums contain most of Argentina's 19th- and 20th-century elite, including Eva Perón (her tomb is the one with the flowers). Nearby sit the Centro Cultural Recoleta, the Museum of Fine Arts, and a ficus tree that Borges used to walk past. Sunday is market day in Plaza Francia.

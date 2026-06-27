@@ -12,10 +12,10 @@ latitude: 43.700936
 loc_type: city
 longitude: 7.268391
 quick_facts:
-  Beaches: Famous pebbles, not sand
-  Promenade: Des Anglais, 7 km of seafront
-  Riviera Hub: Trains to Monaco & Cannes
-  Socca: A chickpea street-food pancake
+  Beaches: Pebbles, not sand
+  Population: 350,000
+  Promenade des Anglais: 7 km long
+  Socca: Chickpea street snack
 score: 9.42
 snippet: Côte d'Azur city where grand seafront promenades meet Vieux Nice lanes and
   a strong Italian accent

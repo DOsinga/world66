@@ -10,10 +10,10 @@ latitude: 46.36842
 loc_type: city
 longitude: 14.11006
 quick_facts:
-  Church Bell: Ring it for a wish
-  Cream Cake: The famous kremšnita
-  Island: Slovenia's only natural island
-  Pletna Boats: Hand-rowed, a family trade
+  Island: Slovenia's only natural one
+  Kremšnita: The famous cream cake
+  Lake Depth: 30 m
+  Wishing Bell: Ring it on the island
 score: 9.46
 snippet: Alpine lake resort with a cliffside castle, island church, and Julian Alps
   backdrop.

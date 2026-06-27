@@ -17,6 +17,3 @@ Kensington Market is Toronto's most densely layered neighbourhood — a few squa
 The market's physical character is distinctive: low Victorian storefronts with hand-painted signs, crates of produce spilling onto the sidewalk, music from open doorways. Tom's Place on Baldwin Street is a Toronto institution for discounted men's suits. The surrounding streets are dense with restaurants from a dozen cuisines at prices that reflect the neighbourhood's student and immigrant customer base.
 
 Pedestrian Sundays from May to October (one Sunday per month) close the neighbourhood to cars entirely, turning it into an outdoor street fair. The Saturday farmers' market and the permanent food shops make this one of the better markets in the city for actual grocery shopping, not just browsing.
-
-
-address: just west of Spadina and Dundas West

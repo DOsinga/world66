@@ -11,10 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:20250502_B%C3%A4ckerstra%C
 latitude: 48.208354
 loc_type: city
 longitude: 16.372504
+quick_facts:
+  Central Cemetery: Beethoven, Schubert & Strauss
+  Coffee Houses: UNESCO intangible heritage
+  Giant Ferris Wheel: Turning since 1897
+  Most Livable: Topped global rankings
 score: 9.55
-title: Vienna
 snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music,
   and vineyards beyond the suburbs.
+tip: Vienna runs on coffee-house culture — sit, order one melange, and you've rented
+  the table for hours; never let a waiter rush you. The Ringstrasse trams (lines 1
+  and 2) loop the grand boulevard for a normal fare. Standing-room opera tickets at
+  the Staatsoper cost a few euros if you queue.
+title: Vienna
 type: location
 ---
 

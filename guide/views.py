@@ -353,6 +353,17 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
 
+    # For section pages (e.g. day_trips): explicit linked_locations: paths in frontmatter
+    elif page.meta.get('linked_locations'):
+        for loc_path in page.meta['linked_locations']:
+            loc = (load_page_from_revision(loc_path, source_ref, url_revision=url_revision)
+                   if source_ref else load_page(loc_path))
+            if not loc or loc.page_type != 'location':
+                continue
+            loc_img = _image_path(loc, source_ref)
+            loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+            linked_locations.append(loc)
+
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
     if page.page_type in NAV_TYPES:

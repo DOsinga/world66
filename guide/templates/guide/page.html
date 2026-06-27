@@ -381,8 +381,13 @@
 
 {% if linked_locations %}
 <div class="wide-block destinations-section">
+  {% if page.meta.loc_type == 'feature' %}
   <span class="section-kicker">Cities</span>
   <h2 class="section-block-heading">Places in {{ page.title }}</h2>
+  {% else %}
+  <span class="section-kicker">Destinations</span>
+  <h2 class="section-block-heading">{{ page.title }}{% if parent %} from {{ parent.title }}{% endif %}</h2>
+  {% endif %}
   <div class="dest-grid">
     {% for loc in linked_locations %}
     <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">

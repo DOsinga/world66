@@ -12,10 +12,10 @@ latitude: 48.208354
 loc_type: city
 longitude: 16.372504
 quick_facts:
-  Central Cemetery: Beethoven, Schubert & Strauss
-  Coffee Houses: UNESCO intangible heritage
-  Giant Ferris Wheel: Turning since 1897
-  Most Livable: Topped global rankings
+  Coffee Houses: UNESCO heritage
+  Ferris Wheel: Spinning since 1897
+  Population: 2 million
+  Roman Origin: Vindobona
 score: 9.55
 snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music,
   and vineyards beyond the suburbs.

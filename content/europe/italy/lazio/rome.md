@@ -13,10 +13,10 @@ latitude: 41.9028
 loc_type: city
 longitude: 12.4964
 quick_facts:
-  Founded: 753 BC, by legend
+  Founded: 753 BC
   Fountains: 2,000+
-  Stray Cats: Legally protected
-  Trevi Coins: ~€1.5 million a year
+  Population: 2.8 million
+  Trevi Coins: ~€1.5M a year
 score: 9.99
 snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, and
   everyday street life layer three millennia together

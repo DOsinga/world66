@@ -11,9 +11,9 @@ loc_type: city
 longitude: 7.7491
 quick_facts:
   Car-Free: Electric taxis only
-  First Ascent: 1865, ended in tragedy
-  Matterhorn: 4,478 m, the iconic pyramid
-  Summer Skiing: On the glacier above
+  Elevation: 1,620 m
+  First Climbed: 1865, fatally
+  Matterhorn: 4,478 m
 score: 9.72
 snippet: Car-free Valais mountain village at the foot of the Matterhorn, with skiing
   shared across the Italian border.

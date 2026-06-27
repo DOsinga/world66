@@ -3,9 +3,14 @@ latitude: 20.7681
 loc_type: city
 longitude: -105.5189
 score: 5.5
-snippet: Resort peninsula and former fishing village at the northern tip of Banderas Bay
+snippet: Resort peninsula and former fishing village at the northern tip of Banderas
+  Bay
 title: Punta Mita
 type: location
+image: puntamita.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Anclote,_Punta_de_Mita_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Lynx Burgos
 ---
 
 Punta Mita is the narrow peninsula at the northern tip of Banderas Bay, about 45 minutes north of central [Puerto Vallarta](/northamerica/mexico/puertovallarta). The point itself was a humble fishing village called Corral del Risco until the 1990s, when most of the surrounding land was sold off to luxury resorts — the Four Seasons, the St Regis — and gated golf communities. The original village still survives at the eastern edge, where palapa restaurants serve the fishermen's daily catch and the atmosphere is far more down-to-earth than the resort gates suggest.

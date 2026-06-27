@@ -6,6 +6,10 @@ score: 7.1
 snippet: Easy walking loop around Coroico along an unfinished 1940s railway bed
 title: The Circunvalación
 type: location
+image: the_circunvalacion.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Angke_Interchange_(to_Jakarta_Inner_Ring_Road)_-_Jakarta_(01-06-2022).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Firzafp
 ---
 
 The Circunvalación is a flat walking route that circles [Coroico](/southamerica/bolivia/coroico) along the bed of a railway to La Paz that was started in the 1940s but never finished. You can still make out the flattened terrace where the Coroico station was meant to stand. It is by some distance the easiest walk in the area and the best gentle introduction to local life in the Yungas.

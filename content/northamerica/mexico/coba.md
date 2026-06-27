@@ -3,9 +3,14 @@ latitude: 20.4925
 loc_type: feature
 longitude: -87.7361
 score: 8.4
-snippet: Sprawling Maya city in the Yucatán jungle, home to the tallest pyramid on the peninsula.
+snippet: Sprawling Maya city in the Yucatán jungle, home to the tallest pyramid on
+  the peninsula.
 title: Cobá
 type: location
+image: coba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2010._Cob%C3%A1._Quintana_Roo._M%C3%A9xico.-6.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Luis Miguel Bugallo Sánchez
 ---
 
 Cobá was one of the great Maya cities of the Classic period, home to perhaps 50,000 people at its 9th-century peak and spread across some 70 square kilometres of low jungle 40 km northwest of Tulum. What survives today is only a fraction of the original — most of the city remains unexcavated, swallowed by forest — but the scale is unmistakable. The site's defining feature is its network of *sacbeob*, the raised white limestone causeways that radiated out from the centre and once linked Cobá to settlements as far as 100 km away.

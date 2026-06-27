@@ -6,6 +6,10 @@ score: 7.7
 snippet: Cloudforest valley near Coroico crossed by suspension-bridge trails
 title: San Juan Valley
 type: location
+image: san_juan_valley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:A_natural_history_of_the_ducks_(1922)_(14578295809).jpg
+image_license: No restrictions
+image_attribution: Phillips, John C. (John Charles), 1876-1938
 ---
 
 The San Juan Valley is a broad sweep of cloudforest west of [Coroico](/southamerica/bolivia/coroico), mixed with coffee and coca smallholdings and best explored slowly on foot. It is one of the most rewarding day-walking areas in the Yungas, with a network of old footpaths, river crossings and ridgeline trails that link a string of small communities.

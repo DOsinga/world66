@@ -3,14 +3,20 @@ latitude: 20.4977
 loc_type: city
 longitude: -105.4519
 score: 7.8
-snippet: Boat-access fishing village with waterfalls and beach palapas on Banderas Bay
-story: >
-  Until 2001 Yelapa had no road, no grid electricity, and no police force. The
-  village ran on diesel generators and operated under a centuries-old communal
-  land tenure system. Electricity finally arrived after a fifteen-year fight,
-  but there is still no road in — every visitor and resident arrives by boat.
+snippet: Boat-access fishing village with waterfalls and beach palapas on Banderas
+  Bay
+story: 'Until 2001 Yelapa had no road, no grid electricity, and no police force. The
+  village ran on diesel generators and operated under a centuries-old communal land
+  tenure system. Electricity finally arrived after a fifteen-year fight, but there
+  is still no road in — every visitor and resident arrives by boat.
+
+  '
 title: Yelapa
 type: location
+image: yelapa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_in_Yelapa_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: tceagle
 ---
 
 Yelapa is a small fishing village about 45 minutes by boat south of [Puerto Vallarta](/northamerica/mexico/puertovallarta), tucked into a sheltered cove on the southern arm of Banderas Bay. The setting is the draw: a wide crescent beach lined with palapa restaurants, jungle-covered cliffs rising directly behind, and two waterfalls within a short hike of the village. The lower waterfall is an easy 20-minute walk from the beach; the upper one, Cascada del Cielo, is a 100-metre plunge that requires a guided horseback trip into the hills.

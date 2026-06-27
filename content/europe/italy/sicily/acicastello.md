@@ -7,6 +7,10 @@ snippet: Coastal Sicilian village built around a Norman castle on a black basalt
   stack.
 title: Aci Castello
 type: location
+image: acicastello.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aci_Castello_Sicily_Italy_-_Creative_Commons_by_gnuckx_(5085398127).jpg
+image_license: CC BY 2.0
+image_attribution: gnuckx
 ---
 
 Aci Castello is a small coastal village a short drive north of [Catania](/europe/italy/sicily/catania), strung along the Riviera dei Ciclopi where the volcanic shoreline drops straight into the Ionian Sea. The village takes its name and its silhouette from the Norman castle that crowns a black basalt sea stack at the water's edge — a fortress raised in the twelfth century directly onto the lava, so that the rock and the masonry seem to be the same thing.

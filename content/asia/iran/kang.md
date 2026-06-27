@@ -11,6 +11,10 @@ story: Kang's stepped houses, each one's roof serving as the front yard of the h
   to the steep mountainside and the limited flat land.
 title: Kang
 type: location
+image: kang.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kang,_Razavi_Khorasan_Iran_(1).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Mostafameraji
 ---
 
 Kang is a picturesque mountain village about 50 km west of [Mashhad](/asia/iran/mashhad), clinging to the side of a steep valley in stepped rows of stone-and-mud houses. The arrangement is the village's defining feature: the flat roof of each house serves as the courtyard and front yard of the house above it, a tiered solution to the lack of level ground that has earned Kang the local nickname "the Masuleh of the east."

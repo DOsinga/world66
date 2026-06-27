@@ -6,6 +6,10 @@ score: 7.2
 snippet: Near-ghost town and old gold mine in Eldorado Canyon southeast of Las Vegas
 title: Nelson
 type: location
+image: nelson.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Nelson,_Nebraska_downtown_3.JPG
+image_license: Public domain
+image_attribution: Ammodramus
 ---
 
 Nelson is a near-ghost town about 45 minutes southeast of the Las Vegas Strip, sitting at the mouth of Eldorado Canyon where gold was discovered in 1775 — long before Nevada was a state. The Techatticup Mine operated here for decades and is now open for guided tours: you walk into the old tunnels and hear stories of claim jumpers, gunfights, and the smugglers who used the canyon to move goods across the Colorado River. The mine's owners have kept the place deliberately ramshackle, and that is much of its charm.

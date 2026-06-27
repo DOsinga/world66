@@ -3,10 +3,14 @@ latitude: 40.3428
 loc_type: feature
 longitude: -105.6836
 score: 9.1
-snippet: High-country national park northwest of Denver, with alpine lakes, tundra, and
-  the highest paved road in the United States.
+snippet: High-country national park northwest of Denver, with alpine lakes, tundra,
+  and the highest paved road in the United States.
 title: Rocky Mountain National Park
 type: location
+image: rocky_mountain_national_park.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2024-06-18_Rocky_Mountain_National_Park_-_007.jpg
+image_license: CC BY 2.0
+image_attribution: mark byzewski
 ---
 
 Rocky Mountain National Park is the closest national park to [Denver](/northamerica/unitedstates/colorado/denver) — about 90 minutes northwest of the city through the gateway town of Estes Park. Within its 415 square miles the land climbs from montane forest and meadow up past the treeline into genuine alpine tundra, with more than sixty peaks above 12,000 feet and a string of cold, clear lakes left behind by the glaciers that carved the valleys.

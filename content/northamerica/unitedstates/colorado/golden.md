@@ -3,10 +3,14 @@ latitude: 39.7555
 loc_type: city
 longitude: -105.2211
 score: 7.7
-snippet: Foothills town west of Denver where Clear Creek leaves the mountains, home to
-  the Coors brewery and the School of Mines.
+snippet: Foothills town west of Denver where Clear Creek leaves the mountains, home
+  to the Coors brewery and the School of Mines.
 title: Golden
 type: location
+image: golden.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Yang_Ming_Line.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Cary Bass
 ---
 
 Golden sits twenty minutes west of [Denver](/northamerica/unitedstates/colorado/denver), wedged in the gap where Clear Creek leaves the mountains and the Front Range begins to climb. For a small foothills town it carries a lot of history: it was briefly the territorial capital of Colorado in the 1860s, before the seat moved to Denver, and the old main street along Washington Avenue is still one block of red brick that survives largely intact from the 1880s. A welcome arch spanning the street announces, with no irony, "Howdy Folks, Welcome to Golden."

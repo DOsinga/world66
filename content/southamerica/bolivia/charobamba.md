@@ -6,6 +6,10 @@ score: 7.2
 snippet: Forest village near Coroico with a remarkable WWII Jewish refugee history
 title: Charobamba
 type: location
+image: charobamba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:ARATINGA.jpg
+image_license: CC BY-SA 4.0
+image_attribution: CLAUDIOLD
 ---
 
 Charobamba is a small village set in magnificent cloudforest a short distance from [Coroico](/southamerica/bolivia/coroico), and its main interest is a remarkable piece of history. In the late 1930s Bolivia was one of the very few countries that accepted Jewish refugees fleeing Nazi Germany, on condition that they work the land as farmers. A small agricultural community was founded near Coroico, and Charobamba became one of its centres.

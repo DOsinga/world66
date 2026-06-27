@@ -14,7 +14,7 @@ quick_facts:
   Elevation: 3,400 m
   Gateway: To Machu Picchu
   Inca Capital: Until 1533
-  Inca Walls: Stones cut knife-thin
+  Stonework: Cut to fit knife-thin
 score: 9.63
 snippet: Former Inca capital where colonial churches stand directly on ancient stone
   walls and sacred foundations.

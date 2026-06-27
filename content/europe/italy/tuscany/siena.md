@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:%2BDie_Kathedrale_Metropol
 latitude: 43.3186
 loc_type: city
 longitude: 11.3306
+quick_facts:
+  Cathedral: Striped-marble masterpiece
+  Contrade: 17 fiercely loyal districts
+  Il Campo: Shell-shaped main square
+  The Palio: Bareback horse race, twice yearly
 score: 9.44
 snippet: Medieval Tuscan city of brick palaces, contrade rivalries, and the shell-shaped
   Piazza del Campo.
+tip: Siena's shell-shaped Piazza del Campo is one of Europe's great squares — and
+  twice each summer it becomes a bareback horse race, the Palio, run around it in
+  90 seconds of chaos. The medieval centre is car-free. Climb the Torre del Mangia
+  for the view. It's a quieter, easy contrast to nearby Florence.
 title: Siena
 type: location
 ---

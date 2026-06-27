@@ -11,10 +11,10 @@ latitude: 26.9154
 loc_type: city
 longitude: 75.819
 quick_facts:
-  Amber Fort: Hilltop palace-fortress
-  Hawa Mahal: 953 windows for the harem
-  Jantar Mantar: Giant stone sundials
-  Pink City: Painted for a royal visit, 1876
+  Founded: '1727'
+  Hawa Mahal: 953 windows
+  Population: 3 million
+  The Pink City: Painted pink in 1876
 score: 9.42
 snippet: Rajasthani capital and Pink City, with terracotta walls, royal palaces, and
   planned old-town avenues.

@@ -28,3 +28,4 @@ Off the southern coast lies **Yakushima**, an almost perfectly round island of d
 [Oita](/asia/japan/kyushu/oita)
 [Miyazaki](/asia/japan/kyushu/miyazaki)
 [Kitakyushu](/asia/japan/kyushu/kitakyushu)
+[Yoron](/asia/japan/kyushu/yoron)

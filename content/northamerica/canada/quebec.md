@@ -29,6 +29,7 @@ Beyond the two main cities, the province rewards exploration. The **Laurentians*
 - [Montréal](/northamerica/canada/quebec/montreal)
 - [Québec City](/northamerica/canada/quebec/quebeccity)
 - [Baie-Sainte-Catherine](/northamerica/canada/quebec/baie_sainte_catherine)
+- [Grosse Isle](/northamerica/canada/quebec/grosse_isle)
 - [Mont-Tremblant](/northamerica/canada/quebec/mont_tremblant_que)
 - [Saint-Joachim](/northamerica/canada/quebec/saint_joachim)
 - [Saint-Tite-des-Caps](/northamerica/canada/quebec/saint_tite_des_caps)

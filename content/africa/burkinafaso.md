@@ -31,6 +31,7 @@ Honesty requires a serious note. Since 2015, and particularly since the military
 - [Ouagadougou](/africa/burkinafaso/ouagadougou)
 - [Bobo-Dioulasso](/africa/burkinafaso/bobodioulasso)
 - [Banfora](/africa/burkinafaso/banfora)
+- [Fada N'gourma](/africa/burkinafaso/fada_ngourma)
 - [Gaoua](/africa/burkinafaso/gaoua)
 - [Tiebele](/africa/burkinafaso/tibl)
 - [Ouahigouya](/africa/burkinafaso/ouahigouya)

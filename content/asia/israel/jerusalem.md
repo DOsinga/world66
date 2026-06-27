@@ -11,7 +11,7 @@ loc_type: city
 longitude: 35.2137
 quick_facts:
   Building Law: All clad in Jerusalem stone
-  City Gates: 8, one sealed
+  Gates: 8, one sealed
   Holy To: Three faiths
   Old City: 0.9 km²
 score: 9.74

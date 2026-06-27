@@ -12,10 +12,10 @@ latitude: 42.4249
 loc_type: city
 longitude: 18.7713
 quick_facts:
-  Cats: The town's beloved symbol
-  Old Town: A car-free medieval maze
-  The Bay: Often called Europe's southernmost fjord
-  Town Walls: Climb 1,350 steps
+  Bay: Europe's southernmost fjord-like
+  Cats: The town's symbol
+  Town Walls: 4.5 km, up the mountain
+  Wall Steps: 1,350 to the fort
 score: 9.42
 snippet: Walled Venetian old town on the Bay of Kotor, backed by steep limestone mountains.
 tip: Kotor sits at the end of a fjord-like bay, with town walls climbing 1,350 steps

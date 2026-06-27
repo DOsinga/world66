@@ -11,10 +11,10 @@ latitude: 37.8512
 loc_type: city
 longitude: 15.283
 quick_facts:
-  Greek Theatre: Frames Mt Etna
-  Isola Bella: Tiny island reserve below
-  Mt Etna: Europe's most active volcano
-  Reputation: A Mediterranean jet-set classic
+  Elevation: 200 m
+  Frames: Smoking Mt Etna
+  Greek Theatre: 3rd century BC
+  Jet-Set: A retreat since the 1900s
 score: 9.48
 snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
 tip: Taormina clings to a cliff with Mt Etna smoking on the horizon — the ancient

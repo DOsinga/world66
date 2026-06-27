@@ -11,10 +11,10 @@ latitude: 38.835545
 loc_type: city
 longitude: -9.352237
 quick_facts:
-  Byron Called It: A 'glorious Eden'
-  Microclimate: Cool, misty and green
-  Pena Palace: A riot of romantic colour
-  Quinta Da Regaleira: An initiation well
+  Byron: Called it a 'glorious Eden'
+  Elevation: 200 m, cool & misty
+  Initiation Well: Spirals underground
+  Pena Palace Built: '1854'
 score: 9.45
 snippet: Portuguese hill town of royal palaces and misty forests, 40 minutes by train
   from Lisbon.

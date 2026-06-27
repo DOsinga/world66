@@ -12,10 +12,10 @@ latitude: 64.1466
 loc_type: city
 longitude: -21.9426
 quick_facts:
-  Baby Names: A committee must approve them
-  Heated By: Geothermal water
-  Northernmost: Capital in the world
-  Tap Water: Among the world's purest
+  Baby Names: A committee must approve
+  Geothermal Heat: Warms the whole city
+  Northernmost Capital: On Earth
+  Population: 140,000
 score: 9.52
 snippet: Compact Icelandic capital of corrugated-iron houses, a working harbour, and
   hilltop Hallgrímskirkja.

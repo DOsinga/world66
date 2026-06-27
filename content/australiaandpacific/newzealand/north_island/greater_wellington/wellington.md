@@ -11,8 +11,8 @@ loc_type: city
 longitude: 174.777211
 quick_facts:
   '''Windy Welly''': Among Earth's windiest cities
+  Distinction: World's southernmost capital
   Population: ~215,000
-  Southernmost Capital: In the world
   Te Papa: The free national museum
 score: 8.78
 snippet: Compact harbour capital wedged between forested hills, wild coast, parliament,

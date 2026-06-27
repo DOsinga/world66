@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Dramatic_karst_landscape_o
 latitude: 8.291667
 loc_type: city
 longitude: 98.552773
+quick_facts:
+  Best By: Sea kayak at low tide
+  Hongs: Hidden lagoons inside islands
+  James Bond Island: A Golden Gun film set
+  Karsts: Limestone towers in the sea
 score: 9.45
 snippet: Karst-filled marine bay between Phuket and Krabi, known for limestone towers
   and hidden hongs.
+tip: Phang Nga Bay's limestone karsts rise straight out of emerald water near Phuket
+  — 'James Bond Island' featured in The Man with the Golden Gun. Sea-kayak into the
+  hidden lagoons (hongs) at low tide; you can only slip in through the caves when
+  the water's right. Go with a small-group tour to dodge the speedboat armadas at
+  the famous spots.
 title: Phang Nga Bay
 type: location
 ---

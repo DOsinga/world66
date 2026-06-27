@@ -11,10 +11,10 @@ latitude: 36.139625
 loc_type: city
 longitude: 137.251032
 quick_facts:
-  Gateway: To Shirakawa-go's farmhouses
+  Elevation: 573 m
   Hida Beef: Rivals Kobe
-  Old Town: Edo-era streets intact
-  Sake: Breweries marked by cedar balls
+  Old Town: Edo-era, preserved
+  Sake Breweries: Marked by cedar balls
 score: 9.44
 snippet: Mountain castle town in Gifu Prefecture, known for Edo-period merchant streets
   and morning markets.

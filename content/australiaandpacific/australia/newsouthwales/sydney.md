@@ -11,7 +11,7 @@ latitude: -33.8698
 loc_type: city
 longitude: 151.2083
 quick_facts:
-  Driving Side: Left
+  Founded: '1788'
   Harbour Coastline: 240 km
   Opera House Tiles: 1,056,006
   Population: 5.3 million

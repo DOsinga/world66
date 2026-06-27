@@ -7,11 +7,21 @@ done:
 latitude: -9.47433
 loc_type: city
 longitude: 147.15995
+quick_facts:
+  Nature Park: Birds of paradise & tree kangaroos
+  Only Reachable: By air or sea, no roads in
+  PNG Languages: Over 800 nationwide
+  Population: ~400,000
 score: 5.21
-title: Port Moresby
-type: location
 snippet: Papua New Guinea capital on a natural harbour, with colonial downtown and
   Waigani government district.
+tip: Port Moresby is the remote capital of one of the most linguistically diverse
+  nations on earth — over 800 languages are spoken in PNG. It is a rugged frontier
+  city; check advisories and arrange trusted transport and accommodation in advance,
+  as security is a real concern. The National Museum and the Nature Park give a feel
+  for the country's astonishing cultures and wildlife.
+title: Port Moresby
+type: location
 ---
 
 Port Moresby is the capital of Papua New Guinea and the main gateway to the country — almost every traveller arrives here whether they plan to or not. It is a sprawling, disorderly city of around 400,000 people on a fine natural harbour in the south-east of the island, with the older colonial downtown near the port, newer districts spreading out over the hills, and the government quarter at **Waigani**.

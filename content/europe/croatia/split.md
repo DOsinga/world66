@@ -11,10 +11,10 @@ latitude: 43.511638
 loc_type: city
 longitude: 16.439966
 quick_facts:
-  Diocletian's Palace: 1,700 years old
-  Ferry Hub: To the Dalmatian islands
-  Old Town: Inside a Roman palace
-  Riva: Palm-lined seafront promenade
+  Diocletian's Walls: 1,700 years old
+  Founded: 305 AD
+  Lived-In Palace: Roman, still inhabited
+  Population: 160,000
 score: 9.46
 snippet: Dalmatian port city grown through the inhabited Roman walls of Diocletian's
   Palace.

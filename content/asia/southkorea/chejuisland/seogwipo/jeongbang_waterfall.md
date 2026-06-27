@@ -14,6 +14,10 @@ story: >
   inscription claimed to be his still exists nearby — though whether it's
   genuine is debated.
 score: 7.8
+sources:
+  - https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500531
+  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110885
+  - https://en.wikivoyage.org/wiki/Seogwipo
 ---
 
 Jeongbang is one of only a handful of waterfalls in East Asia that fall directly into the ocean. The 23-metre drop over black basalt onto the rocks and sea below is dramatic, and the viewing platform at the base (reached by descending stairs from a park above) puts you close to the spray. It sits just east of Seogwipo city on the south coast.

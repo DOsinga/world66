@@ -12,10 +12,10 @@ latitude: -45.0322
 loc_type: city
 longitude: 168.661
 quick_facts:
-  Birthplace Of: Commercial bungy jumping
-  Gateway: To Milford Sound & Fiordland
-  Setting: Lake Wakatipu & the Remarkables
-  The Lake: '''Breathes'' with a strange tide'
+  '''Breathing'' Lake': Rises and falls hourly
+  Bungy Birthplace: '1988'
+  Elevation: 310 m
+  Lake Wakatipu: 80 km long
 score: 9.75
 snippet: Lake Wakatipu mountain town and New Zealand adventure capital beneath the
   Remarkables range.

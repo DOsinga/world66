@@ -27,16 +27,3 @@ And another uptown:
 Yonge and St. Clair)
 
 416 925-4020
-
-**Contributors**
-June 23, 2007
-
-type: Italian
-
-
-
-tel: 416 504-0320
-
-address: 720 Queen Street West
-
-email: http://www.terroni.ca/locations.html

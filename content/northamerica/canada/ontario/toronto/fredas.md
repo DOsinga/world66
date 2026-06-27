@@ -29,20 +29,3 @@ lines from Europe including Cambio, Kasper, Jean Paul, Sinequaone from
 France and many more.
 
 Worth the trip!
-
-**Contributors**
-November 13, 2005
-
-type: Speciality shops
-
-
-
-
-
-tel: (416) 703-0304
-
-url: [www.fredas.com](http://www.fredas.com)
-
-address: 86 Bathurst Street
-
-email: paulina@fredas.com

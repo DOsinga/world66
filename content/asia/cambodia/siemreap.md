@@ -10,10 +10,10 @@ latitude: 13.361756
 loc_type: city
 longitude: 103.859032
 quick_facts:
-  Angkor: World's largest religious monument
-  Ta Prohm: Strangled by jungle roots
-  Temples: Over 1,000 in the complex
-  Was: Capital of the Khmer Empire
+  Angkor Temples: 1,000+
+  Angkor Wat Built: 12th century
+  Ta Prohm: Tomb Raider temple
+  World's Largest: Religious monument
 score: 9.42
 snippet: Compact Cambodian city on the Siem Reap River, gateway to Angkor’s vast medieval
   temple landscape.

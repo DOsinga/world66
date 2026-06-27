@@ -9,6 +9,7 @@ import markdown as md
 from django.conf import settings
 from django.http import FileResponse, Http404, HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
+from django.views.decorators.clickjacking import xframe_options_exempt
 from django.utils.safestring import mark_safe
 
 from . import github
@@ -80,21 +81,50 @@ def about(request):
     return render(request, "guide/about.html")
 
 
+def _city_snippet(page):
+    snippet = page.meta.get('snippet', '')
+    if snippet:
+        return snippet
+    for paragraph in page.body.split('\n\n'):
+        text = ' '.join(paragraph.strip().split())
+        if text:
+            suffix = '...' if len(text) > 170 else ''
+            return text[:170].rsplit(' ', 1)[0] + suffix
+    return ''
+
+
+def _globe_city_data(source_ref=None, url_revision=""):
+    from .models import load_featured_cities
+    url_prefix = f"/{url_revision}" if url_revision else ""
+    city_cards = [c for c in load_featured_cities() if c['lat'] and c['lng']]
+    city_cards = [
+        {
+            **city,
+            "page": _revision_page(city["page"], source_ref, url_revision),
+            "image_url": _prefixed_url(city["image_url"], url_prefix),
+        }
+        for city in city_cards
+    ]
+    return [
+        {
+            'title': c['page'].title,
+            'url': c['page'].get_absolute_url(),
+            'image': c['image_url'],
+            'country': c['country'],
+            'snippet': _city_snippet(c['page']),
+            'lat': float(c['lat']),
+            'lng': float(c['lng']),
+            'score': c['score'],
+            'path': c['page'].path,
+        }
+        for c in city_cards
+    ]
+
+
 def home(request, source_ref=None, url_revision=""):
     import random
-    from .models import count_content_pages, load_continents, load_story_pois, load_featured_cities
+    from .models import count_content_pages, load_continents, load_story_pois
     url_prefix = f"/{url_revision}" if url_revision else ""
-
-    def city_snippet(page):
-        snippet = page.meta.get('snippet', '')
-        if snippet:
-            return snippet
-        for paragraph in page.body.split('\n\n'):
-            text = ' '.join(paragraph.strip().split())
-            if text:
-                suffix = '...' if len(text) > 170 else ''
-                return text[:170].rsplit(' ', 1)[0] + suffix
-        return ''
 
     continents_raw = load_continents()
     continents = []
@@ -127,29 +157,11 @@ def home(request, source_ref=None, url_revision=""):
         {**poi, "page": _revision_page(poi["page"], source_ref, url_revision)}
         for poi in story_pois
     ]
-    all_cities = load_featured_cities()
-    city_cards = [c for c in all_cities if c['lat'] and c['lng']]
-    city_cards = [
-        {
-            **city,
-            "page": _revision_page(city["page"], source_ref, url_revision),
-            "image_url": _prefixed_url(city["image_url"], url_prefix),
-        }
-        for city in city_cards
-    ]
-    cities_json = json.dumps([
-        {
-            'title': c['page'].title,
-            'url': c['page'].get_absolute_url(),
-            'image': c['image_url'],
-            'country': c['country'],
-            'snippet': city_snippet(c['page']),
-            'lat': float(c['lat']),
-            'lng': float(c['lng']),
-            'score': c['score'],
-        }
-        for c in city_cards
-    ])
+    city_cards = _globe_city_data(source_ref, url_revision)
+    cities_json = json.dumps(city_cards)
+    globe_autoplay_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
+    globe_explore_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
+    photo_map_embed_url = request.build_absolute_uri("/widgets/photo-map")
     return render(request, "guide/home.html", {
         'continents': continents,
         'story_pois': story_pois,
@@ -157,6 +169,12 @@ def home(request, source_ref=None, url_revision=""):
         'featured_city_count': f"{len(city_cards):,}",
         'search_page_count': f"{count_content_pages():,}",
         'url_prefix': url_prefix,
+        'globe_autoplay_embed_url': globe_autoplay_embed_url,
+        'globe_explore_embed_url': globe_explore_embed_url,
+        'globe_autoplay_iframe': _iframe_code(globe_autoplay_embed_url, 560),
+        'globe_explore_iframe': _iframe_code(globe_explore_embed_url, 560),
+        'photo_map_embed_url': photo_map_embed_url,
+        'photo_map_iframe': _iframe_code(photo_map_embed_url, 560),
     })
 
 
@@ -165,6 +183,85 @@ def home_at_revision(request, revision):
     if not source_ref:
         raise Http404
     return home(request, source_ref=source_ref, url_revision=_short_revision(source_ref))
+
+
+def widgets(request):
+    embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
+    explore_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
+    photo_map_url = request.build_absolute_uri("/widgets/photo-map")
+    return render(request, "guide/widgets/index.html", {
+        "globe_embed_url": embed_url,
+        "globe_iframe": _iframe_code(embed_url, 520),
+        "globe_explore_embed_url": explore_url,
+        "globe_explore_iframe": _iframe_code(explore_url, 520),
+        "photo_map_embed_url": photo_map_url,
+        "photo_map_iframe": _iframe_code(photo_map_url, 520),
+    })
+
+
+@xframe_options_exempt
+def widget_globe_explore(request):
+    height = _int_param(request, "height", 520, 280, 1200)
+    scale = _float_param(request, "scale", 1, 0.6, 1.8)
+    mode = request.GET.get("mode", "autoplay")
+    if mode not in {"autoplay", "explore"}:
+        mode = "autoplay"
+    theme = request.GET.get("theme", "light")
+    if theme not in {"light", "transparent"}:
+        theme = "light"
+    show_embed = _bool_param(request, "embed", True)
+    show_fullscreen = _bool_param(request, "fullscreen", True)
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/globe_explore.html", {
+        "cities_json": json.dumps(_globe_city_data()),
+        "height": height,
+        "scale": scale,
+        "mode": mode,
+        "theme": theme,
+        "show_embed": show_embed,
+        "show_fullscreen": show_fullscreen,
+        "embed_code": _iframe_code(widget_url, height),
+        "widget_url": widget_url,
+    })
+
+
+@xframe_options_exempt
+def widget_photo_map(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/photo_map.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 560),
+    })
+
+
+def _bool_param(request, name, default):
+    value = request.GET.get(name)
+    if value is None:
+        return default
+    return value.lower() not in {"0", "false", "no", "off"}
+
+
+def _int_param(request, name, default, min_value, max_value):
+    try:
+        value = int(request.GET.get(name, default))
+    except (TypeError, ValueError):
+        value = default
+    return max(min_value, min(max_value, value))
+
+
+def _float_param(request, name, default, min_value, max_value):
+    try:
+        value = float(request.GET.get(name, default))
+    except (TypeError, ValueError):
+        value = default
+    return max(min_value, min(max_value, value))
+
+
+def _iframe_code(url, height):
+    return (
+        f'<iframe src="{url}" width="100%" height="{height}" '
+        'style="border:0" loading="lazy" allow="fullscreen"></iframe>'
+    )
 
 
 def location_or_section(request, path):

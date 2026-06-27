@@ -12,8 +12,8 @@ latitude: 59.9343
 loc_type: city
 longitude: 30.3351
 quick_facts:
-  Bridges: Drawbridges rise each night
-  Built On: Drained marshland (1703)
+  Built On: Drained marshland
+  Founded: '1703'
   Hermitage: 3 million works
   White Nights: Sun barely sets in June
 score: 9.66

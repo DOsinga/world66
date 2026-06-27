@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Av._de_la_Republica,_Mexic
 latitude: 19.4326
 loc_type: city
 longitude: -99.1332
+quick_facts:
+  Built On: A drained lake bed
+  Elevation: 2,240 m
+  Population: ~22 million (metro)
+  Templo Mayor: Aztec ruins in the centre
 score: 8.45
 snippet: High-altitude Mexican capital built over Tenochtitlan, centred on the Zócalo
   and layered Aztec-colonial history.
+tip: Mexico City is built on a drained lake bed, and it's still sinking — some buildings
+  tilt visibly. It sits at 2,240 m, so take the altitude easy at first. The historic
+  Zócalo, the Aztec Templo Mayor and Frida Kahlo's Casa Azul are essential; eat tacos
+  al pastor from a busy stand. The Metro is cheap and vast. Watch belongings in crowds.
 title: Mexico City
 type: location
 ---

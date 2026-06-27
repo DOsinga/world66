@@ -10,10 +10,10 @@ latitude: 20.9084
 loc_type: city
 longitude: 107.0683
 quick_facts:
-  Hidden: Grottoes & lagoons
-  Karst Towers: ~1,600 limestone islands
-  Name Means: '''Descending Dragon'''
-  Status: UNESCO World Heritage
+  Hidden Grottoes: Inside the karsts
+  Limestone Islands: ~1,600
+  Name Means: Descending Dragon
+  UNESCO Since: '1994'
 score: 9.59
 snippet: Vietnamese karst bay where nearly two thousand limestone islands rise from
   the Gulf of Tonkin.

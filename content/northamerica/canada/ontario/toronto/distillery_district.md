@@ -1,14 +1,17 @@
 ---
 latitude: 43.650278
 longitude: -79.359444
-snippet: Victorian industrial complex converted into Toronto's best arts and dining neighbourhood
-story: The Gooderham & Worts Distillery opened in 1832 and by the 1860s was the largest distillery in the British Empire, producing 2 million gallons of whisky per year. The complex closed in 1990 and sat derelict until 2001, when a heritage restoration project converted the 47 Victorian industrial buildings into galleries, studios, and restaurants — without demolishing a single structure. The Christmas market held here each winter is one of the most atmospheric in North America.
+snippet: Victorian industrial complex converted into Toronto's best arts and dining
+  neighbourhood
 tags:
 - things_to_do
-- historic
+- neighbourhood
 title: Distillery Historic District
-type: poi
-score: 8.5
+type: neighbourhood
+image: distillery_district.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Building_63_of_the_Distillery_District.jpg
+image_license: CC BY-SA 2.5 ca
+image_attribution: Óðinn
 ---
 
 The Distillery Historic District is the most photogenic part of Toronto — forty-seven Victorian industrial buildings in red brick and cast iron, all immaculately preserved and now converted into galleries, restaurants, boutiques, and performance venues. The complex is entirely pedestrianised. On a quiet weekday morning, before the tour groups arrive, the courtyards of the old Gooderham & Worts Distillery feel genuinely atmospheric.

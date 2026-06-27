@@ -10,8 +10,8 @@ latitude: 44.106326
 loc_type: city
 longitude: 9.727481
 quick_facts:
+  Claim to Fame: Oldest Cinque Terre village
   Dry-Stone Walls: 7,000 km region-wide
-  Oldest: Of the five villages
   Population: ~350
   Sciacchetrà: Sweet cliff-grown wine
 score: 9.43

@@ -12,8 +12,8 @@ longitude: 23.734832
 quick_facts:
   Acropolis: 2,500 years old
   Birthplace Of: Democracy
-  Inhabited: For over 3,400 years
-  Metro: Displays its excavation finds
+  Inhabited: 3,400+ years
+  Metro: A museum of dug-up finds
 score: 9.58
 snippet: Ancient Greek capital where the Acropolis rises above hot streets, concrete
   districts, and layered neighbourhoods

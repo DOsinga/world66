@@ -14,7 +14,7 @@ longitude: 12.33459
 quick_facts:
   Bridges: 400+
   Built On: Millions of wooden piles
-  Cars: None — boats only
+  Car-Free: Boats only
   Islands: '118'
 score: 9.97
 snippet: Lagoon city of canals, palaces, and Venetian painting, beautiful despite

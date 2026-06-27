@@ -13,8 +13,8 @@ loc_type: city
 longitude: -68.1336
 quick_facts:
   Cable Cars: World's longest urban network
+  Distinction: World's highest admin capital
   Elevation: ~3,640 m
-  Highest Admin Capital: On Earth
   Witches' Market: Llama foetuses for luck
 score: 8.45
 snippet: High Andean capital spilling through a canyon beneath Illimani and El Alto's

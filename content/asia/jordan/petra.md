@@ -11,10 +11,10 @@ latitude: 30.325836
 loc_type: city
 longitude: 35.474567
 quick_facts:
-  Age: Over 2,000 years
-  Carved By: The Nabataeans
-  Rediscovered: 1812, by the West
-  Screen Role: Indiana Jones' Grail temple
+  Carved By: Nabataeans, ~300 BC
+  Lost City: Rediscovered in 1812
+  Monastery Steps: 800+
+  On Screen: Indiana Jones' Grail
 score: 9.89
 snippet: Nabataean sandstone city in Wadi Musa, famous for the Siq approach and the
   Treasury facade.

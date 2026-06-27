@@ -35,6 +35,7 @@ The coasts deserve more attention than most travelers give them. The southwest h
 - [Busan](/asia/southkorea/pusan) — port city; beaches, fish markets, temples
 - [Jeju Island](/asia/southkorea/chejuisland) — volcanic island; beaches, hiking, honeymooners
 - [Cheongju](/asia/southkorea/cheongju_city) — central Korea; craft biennial, early printing museum
+- [Gongju](/asia/southkorea/gongju) — former Baekje capital; fortress walls, royal tombs, museum
 - [Danyang](/asia/southkorea/danyang) — mountain resort town with limestone caves and river viewpoints
 - [Samcheunpo](/asia/southkorea/samcheunpo) — southern coast; dinosaur footprints, seafood
 - [Ulsan](/asia/southkorea/ulsan) — industrial city; Hyundai country, some surprising corners

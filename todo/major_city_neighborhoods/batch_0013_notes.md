@@ -6,8 +6,9 @@ the standard `TASK.md` audit-and-fill flow; the notes below are a head start on
 what the earlier review surfaced, not a substitute for re-auditing each city.
 
 ## Berlin (`europe/germany/berlin`)
-- **Missing neighbourhoods:** Neukölln (essential — counterculture/dining), and
-  consider Tiergarten/Kulturforum (museum cluster).
+- **Done in batch_0007 follow-up:** Neukölln, Wedding and Wilmersdorf added
+  (with images + POIs); Mitte and Kreuzberg centres corrected.
+- **Still open:** consider Tiergarten/Kulturforum (museum cluster).
 - Mitte has marquee landmarks not yet captured as POIs.
 - Friedrichshain and Schöneberg pages are thin — tag/add real POIs.
 

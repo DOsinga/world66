@@ -11,10 +11,10 @@ latitude: 43.3186
 loc_type: city
 longitude: 11.3306
 quick_facts:
-  Cathedral: Striped-marble masterpiece
-  Contrade: 17 fiercely loyal districts
-  Il Campo: Shell-shaped main square
-  The Palio: Bareback horse race, twice yearly
+  Cathedral Begun: '1196'
+  Contrade: 17 rival districts
+  Population: 54,000
+  The Palio: 90-second horse race
 score: 9.44
 snippet: Medieval Tuscan city of brick palaces, contrade rivalries, and the shell-shaped
   Piazza del Campo.

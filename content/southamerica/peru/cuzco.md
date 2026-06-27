@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_at_Cuszo_Peru.jp
 latitude: -13.516954
 loc_type: city
 longitude: -71.979271
+quick_facts:
+  Altitude: 3,400 m above sea level
+  Gateway: To Machu Picchu
+  Inca Walls: Stones cut knife-thin to fit
+  Was: Capital of the Inca Empire
 score: 9.63
 snippet: Former Inca capital where colonial churches stand directly on ancient stone
   walls and sacred foundations.
+tip: Cuzco sits at 3,400 m — spend a couple of days acclimatising before Machu Picchu
+  or you'll feel the altitude hard; coca tea helps. Most Inca sites and the train
+  to Machu Picchu start here, so it's the hub. Walk the San Blas artisan quarter,
+  and notice the Inca stonework forming the base of the Spanish walls.
 title: Cuzco
 type: location
 ---

@@ -8,10 +8,10 @@ latitude: 47.0517
 loc_type: city
 longitude: 8.3085
 quick_facts:
-  Chapel Bridge: Europe's oldest covered bridge
-  Lake: Where four cantons meet
+  Chapel Bridge: 1365, oldest covered in Europe
   Lion Monument: Twain's 'saddest stone'
   Mt Pilatus: World's steepest cog railway
+  Population: 82,000
 score: 9.47
 snippet: Lakeside Swiss city where medieval bridges, painted old-town gables, and
   nearby Pilatus frame the Reuss.

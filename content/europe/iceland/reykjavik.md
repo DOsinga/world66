@@ -13,8 +13,8 @@ loc_type: city
 longitude: -21.9426
 quick_facts:
   Baby Names: A committee must approve
+  Distinction: World's northernmost capital
   Geothermal Heat: Warms the whole city
-  Northernmost Capital: On Earth
   Population: 140,000
 score: 9.52
 snippet: Compact Icelandic capital of corrugated-iron houses, a working harbour, and

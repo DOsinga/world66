@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_
 latitude: -25.692532
 loc_type: city
 longitude: -54.441114
+quick_facts:
+  Borders: Argentina & Brazil
+  Compared To Niagara: Three times as wide
+  Devil's Throat: 80 m high
+  Waterfalls: ~275 separate drops
 score: 9.94
 snippet: Border-straddling waterfall system where subtropical forest drops into the
   roaring Garganta del Diablo.
+tip: See both sides. The Argentine side puts walkways right over the water and the
+  thundering Devil's Throat; the Brazilian side gives the panoramic view. Wear something
+  you don't mind soaking — the spray drenches you — and go early to beat the tour
+  buses and catch rainbows in the morning mist.
 title: Iguazu Falls
 type: location
 ---

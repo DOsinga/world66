@@ -11,10 +11,10 @@ latitude: -13.516954
 loc_type: city
 longitude: -71.979271
 quick_facts:
-  Altitude: 3,400 m above sea level
+  Elevation: 3,400 m
   Gateway: To Machu Picchu
-  Inca Walls: Stones cut knife-thin to fit
-  Was: Capital of the Inca Empire
+  Inca Capital: Until 1533
+  Inca Walls: Stones cut knife-thin
 score: 9.63
 snippet: Former Inca capital where colonial churches stand directly on ancient stone
   walls and sacred foundations.

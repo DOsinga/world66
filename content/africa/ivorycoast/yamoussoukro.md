@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Yamoussoukro_panorama.jpg
 latitude: 6.82
 loc_type: city
 longitude: -5.2776
+quick_facts:
+  Became Capital: '1983'
+  Largest Church: On Earth, the Basilica
+  Population: ~360,000
+  Sacred Crocodiles: Guard the palace lake
 score: 6.56
 snippet: Purpose-built Ivorian capital of oversized boulevards, sacred crocodiles,
   and an improbably vast basilica
+tip: Yamoussoukro is a planned political capital built in the home village of founding
+  president Houphouët-Boigny — wide empty avenues, and the gigantic Basilica of Our
+  Lady of Peace, the largest church in the world. Most life and business stays in
+  Abidjan; Yamoussoukro feels eerily oversized. Don't miss the sacred crocodiles by
+  the presidential palace.
 title: Yamoussoukro
 type: location
 ---

@@ -11,10 +11,10 @@ latitude: 48.8566
 loc_type: city
 longitude: 2.3522
 quick_facts:
-  Bridges over the Seine: '37'
-  Café & Bistro Count: ~10,000
-  Most-Visited Painting: Mona Lisa
-  Museums: 130+
+  Cafés & Bistros: ~10,000
+  Mona Lisa: World's most-visited art
+  Population: 2.1 million
+  Seine Bridges: '37'
 score: 9.98
 snippet: French capital on the Seine, defined by historic quartiers, major museums,
   and Haussmann boulevards.

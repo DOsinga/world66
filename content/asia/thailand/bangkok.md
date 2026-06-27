@@ -16,8 +16,8 @@ quick_facts:
     Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman
     Awatan Sathit Sakkathattiya Witsanukam Prasit
   Locals Just Say: Krung Thep — 'City of Angels'
-  Emerald Buddha: Robed by the king each season
-  World's Most-Visited City: Tops global rankings
+  Founded: '1782'
+  Metro Population: ~11 million
 score: 9.73
 snippet: Thai capital on the Chao Phraya River, where royal temples, street food,
   and canal life crowd together

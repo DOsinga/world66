@@ -1,19 +1,24 @@
 ---
-title: Museum of Aviation
-type: poi
+image: museum_of_aviation.jpg
+image_attribution: ZemplinTemplar
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%22Flying_Bulls%22_MBB_Bo-105_CB_Aerov%C3%ADkend_2010_air_show_(Museum_of_Aviation_in_Ko%C5%A1ice)_01.jpg
 latitude: 48.668253
 longitude: 21.235643
+score: 6.6
+snippet: Aircraft collection beside Košice airport.
+sources:
+- https://en.wikipedia.org/wiki/Museum_of_Aviation_(Ko%C5%A1ice)
+- https://en.wikivoyage.org/wiki/Ko%C5%A1ice
+- https://stm-ke.sk/en/branches/museum-of-aviation-in-kosice/basic-information
 tags:
 - things_to_do
 - museum
 - aviation
-snippet: Aircraft collection beside Košice airport
-score: 6.6
-sources:
-- https://en.wikivoyage.org/wiki/Ko%C5%A1ice
-- https://stm-ke.sk/en/branches/museum-of-aviation-in-kosice/basic-information
+title: Museum of Aviation
+type: poi
 ---
 
-The Museum of Aviation in Košice displays aircraft, engines and aviation memorabilia beside the city's airport. The collection reflects Czechoslovak, Slovak and wider aviation history, with enough hardware to satisfy visitors who like machines at full scale.
+The Museum of Aviation occupies a corner of Košice International Airport, on the southern edge of the city, and is the only specialised aviation museum in Slovakia. The collection covers most of the 20th century — early biplanes, Second World War piston fighters, and a substantial run of Cold War Soviet-bloc jets including MiG-15s, MiG-21s, and a Sukhoi Su-22, plus the helicopters and trainers that made up the Czechoslovak air force inventory. Some aircraft are displayed in the open air on the apron, others in hangars together with engines, ejection seats, and uniforms.
 
-It is outside the historic centre, so it works best as a planned outing rather than a casual wander. Pair it with airport logistics or a taxi trip, and check seasonal hours before going.
+The strength of the museum is the depth of its Eastern Bloc holdings, which are hard to find together anywhere in Western Europe. Labelling is bilingual (Slovak and English), and staff are happy to talk through the more unusual airframes. The setting beside a working airport means you can watch commercial traffic land and take off while you tour the collection. Allow about two hours. Bus 23 runs from the city centre to the airport; the museum entrance is a short signposted walk from the terminal.

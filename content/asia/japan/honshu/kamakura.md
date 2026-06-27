@@ -10,8 +10,8 @@ loc_type: city
 longitude: 139.5502
 quick_facts:
   Capital Years: 1185–1333
-  Great Buddha: 13.4 m bronze
-  Open-Air Buddha: Hall lost to a tsunami
+  Great Buddha: 13.4 m, now open-air
+  Surf Beach: Tokyo's nearest
   Temples: 65+ in the hills
 score: 9.45
 snippet: Ancient Japanese warrior capital where Zen temples and samurai history sit

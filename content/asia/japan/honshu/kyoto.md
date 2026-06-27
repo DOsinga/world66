@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s
 latitude: 35.011575
 loc_type: city
 longitude: 135.768144
+quick_facts:
+  Imperial Capital: 794–1868
+  Spared the A-Bomb: Struck off the target list
+  Temples & Shrines: 1,600 temples, 400 shrines
+  UNESCO Sites: '17'
 score: 10.0
 snippet: Japan’s old imperial capital, dense with Buddhist temples, Shintō shrines,
   craft traditions, and geisha quarters
+tip: 'Kyoto''s two subway lines barely scratch the city — the temples and the old
+  geisha quarters are linked by buses, not trains, so buy an all-day bus pass. Hit
+  the famous sights right at opening: Fushimi Inari and Kinkaku-ji are magic before
+  8am with empty gravel courtyards, and unbearable by mid-morning when the tour coaches
+  arrive in waves.'
 title: Kyoto
 type: location
 ---

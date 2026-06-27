@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Maui_-_Observatory_2.jpg
 latitude: 20.802957
 loc_type: city
 longitude: -156.310683
+quick_facts:
+  Haleakalā: 10,023 ft dormant volcano
+  Old Capital: Lahaina
+  Road To Hāna: 600 curves, 59 bridges
+  Winter Visitors: Humpback whales offshore
 score: 9.92
 snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and the
   road to Hāna.
+tip: Drive the Road to Hāna early and treat the drive itself as the destination, not
+  Hāna town. For Haleakalā sunrise above the clouds you now need a reservation booked
+  online in advance. Snorkel Molokini in the morning before the wind picks up and
+  the water turns choppy.
 title: Maui
 type: location
 ---

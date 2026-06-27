@@ -7,9 +7,18 @@ done:
 latitude: -17.856703
 loc_type: city
 longitude: 31.060158
+quick_facts:
+  Balancing Rocks: Gravity-defying granite stacks
+  Elevation: ~1,490 m, mild climate
+  Founded: 1890, as Fort Salisbury
+  Population: ~1.5 million
 score: 6.36
 snippet: Highland capital of Zimbabwe, with jacaranda avenues, Shona sculpture, and
   central-plateau ease.
+tip: Harare sits high on the veld, so the climate is mild and the jacarandas and flame
+  trees bloom spectacularly in spring. It is leafy and laid-back by capital standards.
+  See the National Gallery and the Mbare market, and the balancing rocks on the outskirts.
+  Carry US dollars in small denominations; the local currency is unstable.
 title: Harare
 type: location
 ---

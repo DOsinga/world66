@@ -11,11 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Giza_Plateau_(31762565191)
 latitude: 29.987075
 loc_type: city
 longitude: 31.211806
+quick_facts:
+  Age: About 4,500 years
+  Blocks: ~2.3 million stones
+  Great Pyramid: Only surviving Ancient Wonder
+  Sphinx: Carved from one outcrop
 score: 9.56
-title: Giza
-type: location
 snippet: Greater Cairo city at the desert edge, gateway to the pyramids, Sphinx, and
   Giza Plateau.
+tip: The Pyramids sit right at the edge of Cairo's sprawl, not in empty desert — walk
+  a little south for the clean-horizon photo. Go at opening to beat heat, haze and
+  hustlers; a paid ticket lets you enter a pyramid, though it's hot, cramped and bare
+  inside. Agree camel or horse prices in writing first, or skip them.
+title: Giza
+type: location
 ---
 
 Giza is the western half of greater Cairo — a teeming city in its own right of over eight million people, sprawling up to the desert edge where the **[Great Pyramids](/africa/egypt/giza/great_pyramid)** stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last surviving Wonder of the ancient world, the **Pyramid of Khufu** (Cheops) alone containing more than two million limestone blocks and older than almost anything else still standing on earth. The [Great Sphinx](/africa/egypt/giza/sphinx) crouches just below, weather-eaten and half the height of its pyramid, staring east toward the Nile.

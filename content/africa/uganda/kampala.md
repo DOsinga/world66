@@ -9,8 +9,8 @@ longitude: 32.581354
 quick_facts:
   Built On: Seven hills, originally
   Kasubi Tombs: Royal Buganda burial site
-  Near the Source: Of the White Nile at Jinja
   Population: ~1.7 million
+  White Nile Source: At Jinja nearby
 score: 6.87
 snippet: Ugandan capital built across hills above Lake Victoria, busy with markets,
   matatus, and royal tombs.

@@ -11,9 +11,9 @@ loc_type: city
 longitude: 15.2429
 quick_facts:
   Closest Capitals: On Earth, bar Vatican–Rome
+  Faces Kinshasa: Across the Congo River
   Founded: '1880'
   Population: ~2.4 million
-  Twin Capitals: Faces Kinshasa across the river
 score: 6.09
 snippet: Congo River capital facing Kinshasa across Malebo Pool, known for Sainte-Anne
   basilica and Poto-Poto.

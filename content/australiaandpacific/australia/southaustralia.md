@@ -32,6 +32,7 @@ The **Coorong**, a 200-km lagoon system south of Adelaide, is a critical waterbi
 - [Adelaide](/australiaandpacific/australia/southaustralia/adelaide)
 - [Barossa Valley](/australiaandpacific/australia/southaustralia/barossa_valley)
 - [Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy)
+- [Edithburgh](/australiaandpacific/australia/southaustralia/edithburgh)
 - [Hahndorf](/australiaandpacific/australia/southaustralia/handorf)
 - [Innamincka](/australiaandpacific/australia/southaustralia/innamincka)
 - [Mount Gambier](/australiaandpacific/australia/southaustralia/mount_gambier)

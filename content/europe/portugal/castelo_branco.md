@@ -21,4 +21,3 @@ Castelo Branco is about 250 kilometres northeast of Lisbon and is easily reached
 ## Destinations in Castelo Branco
 
 - [Alcains](/europe/portugal/castelo_branco/alcains)
-- [Idanha-a-Nova](/europe/portugal/castelo_branco/idanha_a_nova)

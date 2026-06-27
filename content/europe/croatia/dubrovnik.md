@@ -12,11 +12,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_
 latitude: 42.6507
 loc_type: city
 longitude: 18.0944
+quick_facts:
+  City Walls: 1,940 m all the way round
+  Marble Streets: Polished smooth since the 1400s
+  On Screen: King's Landing in Game of Thrones
+  Once: A republic rivalling Venice
 score: 9.87
-title: Dubrovnik
-type: location
 snippet: Walled Adriatic city whose compact old town rises above cliffs and a historic
   harbour.
+tip: Walk the full city walls early morning or near sunset — at midday they're a sweltering,
+  crowded conveyor belt. The Old Town is car-free marble that turns slippery in rain.
+  Check the cruise-ship schedule and dodge peak days, when 10,000-plus passengers
+  flood the gates at once.
+title: Dubrovnik
+type: location
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

@@ -5,6 +5,10 @@ longitude: -1.0642
 score: 8.2
 snippet: Handsome North Yorkshire market town with a Norman castle, good food shops,
   and Rievaulx Abbey nearby.
+sources:
+- https://en.wikivoyage.org/wiki/Helmsley
+- https://www.northyorkmoors.org.uk/places-to-go/helmsley
+- https://www.english-heritage.org.uk/visit/places/helmsley-castle/
 title: Helmsley
 type: location
 image: helmsley.jpg

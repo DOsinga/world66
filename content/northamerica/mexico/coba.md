@@ -5,8 +5,14 @@ longitude: -87.7361
 score: 8.4
 snippet: Sprawling Maya city in the Yucatán jungle, home to the tallest pyramid on
   the peninsula.
+sources:
+- https://en.wikivoyage.org/wiki/Coba
+- https://inah.gob.mx/zonas/515-zona-arqueologica-de-coba
+- https://lugares.inah.gob.mx/en/node/4389
+- https://puntalagunamx.com/visit
 title: Cobá
 type: location
+wikidata: Q1104936
 image: coba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mother_%26_Child_Coba_QR_Mexico_2014.jpg
 image_license: CC BY 2.0

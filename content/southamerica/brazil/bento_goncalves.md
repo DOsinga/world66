@@ -5,6 +5,10 @@ longitude: -51.5165
 score: 8.1
 snippet: Capital of Brazilian wine in the Serra Gaúcha — Italian heritage and the
   Vale dos Vinhedos, the country's first DOC appellation.
+sources:
+- https://en.wikivoyage.org/wiki/Bento_Gon%C3%A7alves
+- https://bento.tur.br/caminhos-de-pedra/
+- https://en.wikivoyage.org/wiki/Rio_Grande_do_Sul
 title: Bento Gonçalves
 type: location
 image: bento_goncalves.jpg

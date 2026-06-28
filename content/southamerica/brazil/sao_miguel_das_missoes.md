@@ -5,6 +5,10 @@ longitude: -54.5553
 score: 8.8
 snippet: Small pampas town built around the UNESCO-listed ruins of a great 17th-century
   Jesuit mission — one of the most haunting sites in South America.
+sources:
+- https://en.wikivoyage.org/wiki/S%C3%A3o_Miguel_das_Miss%C3%B5es
+- https://whc.unesco.org/en/list/275/
+- https://en.wikipedia.org/wiki/Ruins_of_S%C3%A3o_Miguel_das_Miss%C3%B5es
 title: São Miguel das Missões
 type: location
 image: sao_miguel_das_missoes.jpg

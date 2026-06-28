@@ -1,12 +1,12 @@
 ---
-latitude: 4.6484
-longitude: -74.0556
+latitude: 4.61491
+longitude: -74.06907
 score: 8.0
 snippet: Chef Leonor Espinosa's celebrated restaurant — the best of Colombian cooking
 tags:
 - eating_out
 - restaurant
-- chapinero
+- la_macarena
 title: Leo Cocina y Cava
 type: poi
 ---

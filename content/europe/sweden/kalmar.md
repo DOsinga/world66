@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:KalmarCastle.JPG
 latitude: 56.6629
 loc_type: city
 longitude: 16.3662
-score: 0.56
+score: 8.27
+snippet: Baltic coast city in southeastern Sweden, dominated by its Renaissance castle
+  and medieval centre.
 title: Kalmar
 type: location
 ---

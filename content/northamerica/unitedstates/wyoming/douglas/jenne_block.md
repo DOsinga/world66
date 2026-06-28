@@ -8,6 +8,7 @@ latitude: 42.7592
 longitude: -105.3831
 sources:
   - https://en.wikipedia.org/wiki/Jenne_Block
+score: 5.4
 ---
 
 The Jenne Block is a two-story brick commercial building in downtown Douglas that exemplifies the confident architecture of Wyoming's early boomtown era. Built in the early twentieth century, it represents the kind of substantial investment that local businessmen made once the railroads arrived and Douglas began to look like it would last. The building's solid brick construction and commercial ground-floor plan were the standard template for prosperity on the high plains.

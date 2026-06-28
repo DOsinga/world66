@@ -8,6 +8,7 @@ tags:
 latitude: 43.524759
 longitude: 10.896795
 story: "San Vivaldo was built between 1500 and 1515 by Franciscan friars who wanted to recreate the sacred topography of Jerusalem for pilgrims who could not afford the journey to the Holy Land. The eighteen surviving chapels, each containing life-sized terracotta figures, form what became known as the 'Jerusalem of Tuscany'. The polychrome terracotta work is attributed to the Della Robbia workshop and is among the finest religious sculpture of the early Renaissance."
+score: 8.9
 ---
 
 San Vivaldo is a sacred complex of Franciscan chapels built in a wooded hillside about four kilometres south-west of Montaione. The site was established on the spot where a hermit named Vivaldo died in 1320, his body found three years later miraculously preserved under a chestnut tree. In 1500, friars began building an elaborate series of chapels designed to reproduce the stations of the Passion and the holy places of Jerusalem — a so-called Sacred Mount, of which a handful survive across Tuscany and Umbria, but San Vivaldo is among the most complete.

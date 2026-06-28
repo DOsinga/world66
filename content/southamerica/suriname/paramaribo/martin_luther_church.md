@@ -8,6 +8,7 @@ tags:
   - religious_site
 latitude: 5.8237
 longitude: -55.1595
+score: 5.8
 ---
 
 The Martin Luther Church is one of the older Lutheran churches in Suriname, a reminder that the German Lutheran community had a small but distinct presence in the colonial capital alongside the dominant Dutch Reformed congregation. The building is a modest colonial wooden structure near the waterfront, easily overlooked but with its own place in Paramaribo's layered religious history.

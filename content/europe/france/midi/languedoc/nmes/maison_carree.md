@@ -10,6 +10,7 @@ tags:
 - roman
 - architecture
 story: "The Latin dedication on the temple's frieze had been chipped off for the bronze letters' value. In 1758 the antiquarian Jean-François Séguier reconstructed the inscription by measuring the holes the pins had left, recovering the original dedication to Augustus's adopted grandsons Gaius and Lucius Caesar."
+score: 9.2
 ---
 
 The Maison Carrée, finished in the early years of the 1st century AD, is the only Roman temple still complete on all sides — pediment, columns, walls, roof. Its proportions are perfect: a Corinthian portico with thirty fluted columns on a high podium, the whole building no larger than a comfortable house. Thomas Jefferson, who saw it in 1787, declared it "the most precious morsel of architecture left us by antiquity" and used it as the model for the Virginia State Capitol.

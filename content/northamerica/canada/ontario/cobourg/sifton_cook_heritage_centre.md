@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.9582
 longitude: -78.1623
+score: 5.9
 ---
 
 The Sifton-Cook Heritage Centre is a small community museum housed in an early-19th-century frame house on King Street East, just east of the downtown. The collection covers local Cobourg and Northumberland County history — early industry, transport, the railway era, and the town's lake-port years — through household objects, photographs, and rotating themed displays drawn from the local archives.

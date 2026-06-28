@@ -5,7 +5,9 @@ done:
 latitude: 44.393
 loc_type: city
 longitude: -88.74
-score: 0.37
+score: 5.53
+snippet: East-central Wisconsin river city known for fishing, boating, and its New
+  Dublin festival tradition.
 title: New London
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
   - sight
   - paragliding
 story: "Cerro Dragón is one of the largest urban sand dunes on earth — a mountain of pale sand draped over the back of the city, kept constantly in motion by the coastal wind. Pilots launch from the cliffs above it and ride the thermal column up to 1,200 metres before drifting out over the Pacific and landing on Cavancha beach 15 minutes later."
+score: 7.4
 ---
 
 The Cerro Dragón is the giant sand dune that towers over the southern half of Iquique — a natural monument and one of the city's defining features. It is enormous, roughly four kilometres long, and constantly reshaped by the wind off the Pacific. From the top there are sweeping views of the city, the desert behind, and the ocean below.

@@ -8,6 +8,7 @@ tags:
 - culture
 title: Centre Culturel Goa ma Bwarhat
 type: poi
+score: 6.6
 ---
 
 Hienghène's modest cultural centre is named in the Fwâi language and serves as the village's main gallery and gathering space. Exhibits cover Kanak craft, the region's environment, and the political history of the 1980s, when Hienghène was at the heart of the independence movement led by Jean-Marie Tjibaou.

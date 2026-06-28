@@ -4,6 +4,7 @@ type: poi
 latitude: 51.077
 longitude: -3.618
 tags: [things_to_do, activity]
+score: 8.1
 ---
 
 The Two Moors Way long-distance path follows the River Barle through one of the loveliest river valleys in southern England, with Tarr Steps as its centrepiece. A circular walk from Winsford via the Barle, Tarr Steps, and back across the open hill takes around four hours.

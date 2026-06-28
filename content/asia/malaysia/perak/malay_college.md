@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 story: The college was founded in 1905 to educate the sons of the Malay aristocracy and produced an extraordinary number of the country's mid-20th-century political class — including the first Prime Minister Tunku Abdul Rahman, the second Prime Minister Tun Abdul Razak and many cabinet ministers. The school is sometimes called the "Eton of the East" in self-conscious imitation of the English original.
+score: 7.4
 ---
 
 The **Malay College Kuala Kangsar** (MCKK) is an Edwardian neoclassical pile of brick and white stone, set in extensive grounds at the western edge of Kuala Kangsar. Founded in 1905, it was the first boarding school built specifically for the sons of the Malay aristocracy and is the country's oldest fully residential school. The main building, with its long columned façade, central pediment and clock tower, is among the most distinguished pieces of British colonial school architecture in Asia.

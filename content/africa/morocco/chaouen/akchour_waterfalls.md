@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2195
 longitude: -5.1827
+score: 9.0
 ---
 
 The Akchour area, about 30 km east of Chaouen, is the best day-trip from the blue city and worth planning your visit around. A grand taxi from Chaouen to the village of Akchour takes around 40 minutes; from there the walking begins. Two routes branch out: a shorter path to a series of cascading waterfalls (two to three hours return), and a longer trail to God's Bridge, a natural rock arch carved by the Oued Farda river (four to five hours return).

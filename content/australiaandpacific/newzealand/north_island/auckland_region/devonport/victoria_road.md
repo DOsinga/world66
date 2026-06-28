@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: -36.8305
 longitude: 174.7979
+score: 7.0
 ---
 
 Victoria Road is the main street of Devonport, lined with Victorian and Edwardian commercial buildings that have been well preserved. The street runs from the ferry wharf up through the village, with a succession of independent cafes, bookshops, art galleries, and specialty shops. It is the most characterful main street on Auckland's North Shore.

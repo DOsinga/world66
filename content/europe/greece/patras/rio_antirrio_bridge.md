@@ -8,6 +8,7 @@ tags:
   - engineering
 latitude: 38.319
 longitude: 21.778
+score: 6.9
 ---
 
 The Charilaos Trikoupis Bridge — universally known as the Rio-Antirrio Bridge after the two towns it connects — is one of the longest cable-stayed bridges in the world and a genuine engineering landmark. Opened in 2004 for the Athens Olympics, it spans 2.9 kilometres across the narrows where the Gulf of Corinth meets the open sea, connecting the Peloponnese to mainland Greece in a region where the ferry crossing was the only option for centuries. The four pylon towers rise 164 metres above the water.

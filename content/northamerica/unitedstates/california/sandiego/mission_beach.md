@@ -8,6 +8,7 @@ tags:
 latitude: 32.7700
 longitude: -117.2519
 snippet: A narrow barrier strip of boardwalk, surf, and carnival rides between Mission Bay and the Pacific
+score: 7.0
 ---
 
 Mission Beach is built on a narrow strip of sand between the Pacific Ocean and Mission Bay — at its narrowest the island is barely a hundred metres wide, with the ocean on one side, the bay on the other, and a boardwalk running the entire length. The beach is wide, the surf is reliable, and the general atmosphere is the classic California beach scene: volleyballers, surfers, rollerbladers, and ice cream shops.

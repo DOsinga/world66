@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 28.6760
 longitude: 115.8955
+score: 7.2
 ---
 
 A good Nanchang rice noodle shop is worth seeking out even if you've already eaten bànfěn elsewhere. The city has strong regional variations within its noodle culture: some shops specialize in beef noodle soup (牛肉粉) with a dark, intensely reduced broth; others in the cold-tossed sesame style; others in the more unusual pork bone soup version that borrows from the nearby Hunan tradition. Ordering is done by pointing at the menu and indicating size.

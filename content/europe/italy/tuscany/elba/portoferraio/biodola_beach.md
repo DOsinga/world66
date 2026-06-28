@@ -8,6 +8,7 @@ tags:
 latitude: 42.8003
 longitude: 10.2750
 snippet: "The longest golden-sand beach on Elba's north coast, ringed by pine woods and four upscale hotels."
+score: 6.9
 ---
 
 Biodola is the postcard beach of Elba's north coast — a kilometre-long arc of fine golden sand backed by pine woods and four substantial hotels. The sand is real sand, unlike the pebbles closer to Portoferraio, and the swimming is gentle on the long shallow shelf out from the shore. The bay is sheltered by headlands on both sides, which keeps the sea calm even when there is wind elsewhere.

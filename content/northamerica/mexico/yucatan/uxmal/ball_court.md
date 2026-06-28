@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.3582
 longitude: -89.7726
+score: 7.3
 ---
 
 The ball court at Uxmal is smaller than the enormous court at Chichen Itza but better preserved in some details. Stone rings on the side walls were the targets — players used their hips to drive a heavy rubber ball through them. The exact rules of the Mesoamerican ball game are unknown; the game had ritual significance, and some depictions show the sacrifice of players, though whether victors or losers were sacrificed is debated.

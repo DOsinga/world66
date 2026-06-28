@@ -11,6 +11,7 @@ story: >
   The Citadel is actually the fourth fort built on the hill — the first was constructed by Halifax's founder Edward Cornwallis in 1749, just months after the city was established. The current star-shaped stone fortress dates from 1856 and was never fired upon in anger; its purpose was always deterrence, projecting British naval power over the finest natural harbour on the North American Atlantic coast.
 sources:
   - https://en.wikipedia.org/wiki/Citadel_Hill_(Fort_George)
+score: 9.2
 ---
 
 The star-shaped Halifax Citadel sits on the drumlin hill at the centre of the city, commanding views in every direction across the harbour, the peninsula, and the Dartmouth shore. This British stone fortress is one of Canada's most visited National Historic Sites, and it earns the attention. You can walk the grassy ramparts, peer into casemates, and watch the noon gun — a daily 12 o'clock cannon firing that has been a Halifax institution since 1857. In summer, soldiers in period redcoat uniforms drill on the parade ground and guide visitors through the barracks, guardroom, and powder magazine.

@@ -12,6 +12,7 @@ story: >
   Skyway Monte Bianco and descends through 24 kilometres of glacier terrain to Chamonix on
   the French side. It is the longest off-piste run in the Alps and requires a guide — but
   for experienced skiers, it is one of the great mountain days available anywhere.
+score: 8.2
 ---
 
 Courmayeur's ski area spreads across the south face of the Mont Blanc massif, accessed from the village by gondola to Plan Checrouit (1,700 m) and then by further lifts up to around 2,750 m. The runs are predominantly red and blue — good for confident intermediates, less satisfying for experts looking for serious challenge. The scenery more than compensates: skiing with the Mont Blanc glacier directly overhead is not something you forget.

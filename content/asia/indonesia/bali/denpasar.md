@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Bajra_Sandh
 latitude: -8.652497
 loc_type: city
 longitude: 115.219117
-score: 0.72
+score: 8.8
+snippet: Busy Balinese capital with the island's strongest museums and modern cultural
+  institutions
 title: Denpasar
 type: location
 ---

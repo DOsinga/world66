@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Garfield County Courthouse anchors the downtown square and is one of the more impressive county courthouses on the Oklahoma plains — a substantial Beaux-Arts structure built in 1907, the year of Oklahoma statehood, when the new state was eager to demonstrate its permanence and ambition. The building has been restored and remains in active use.

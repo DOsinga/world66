@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pskov._Mirozhsky_Monastery
 latitude: 57.8174
 loc_type: city
 longitude: 28.3343
-score: 0.42
+score: 7.16
+snippet: Ancient city on the Velikaya River, centred on a heavily besieged medieval
+  kremlin.
 title: Pskov
 type: location
 ---

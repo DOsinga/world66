@@ -4,7 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 71.1372
 longitude: 25.3611
+score: 8.7
 snippet: Puffin colonies on dramatic sea cliffs, accessible by boat safari
+tags:
+- things_to_do
+- sight
+- wildlife
 title: Gjesværstappan Bird Cliffs
 type: poi
 ---

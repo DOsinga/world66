@@ -6,6 +6,7 @@ tags:
 - cafe
 title: Le Glacier
 type: poi
+score: 5.9
 ---
 
 Le Glacier is a Tana institution — a salon de the and ice cream parlour that has occupied its corner spot in the centre of town for decades. The ice cream is locally made and comes in tropical flavours alongside the standards; the pastry case holds millefeuilles, eclairs, and fruit tarts that would not embarrass a Parisian boulangerie. It is the kind of place where a coffee and a slice of cake can stretch into an hour without anyone minding.

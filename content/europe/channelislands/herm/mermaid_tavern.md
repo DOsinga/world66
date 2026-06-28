@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 49.4710
 longitude: -2.4504
+score: 5.9
 ---
 
 The single pub on Herm, a hundred metres from the harbour and the only place that stays open late on the island. The bar serves local **Guernsey Liberation Ale** and pub food — crab sandwiches, fish and chips, scampi — through the day. The walled beer garden is the social centre of the island all summer.

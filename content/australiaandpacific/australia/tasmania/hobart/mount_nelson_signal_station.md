@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - sight
 snippet: "1811 hilltop signal station 6 km south of the city — historic semaphore and a wraparound view of the Derwent estuary"
+score: 7.6
 ---
 
 A small whitewashed signal station built in 1811 on top of Mount Nelson, originally used to flag the approach of ships to Hobart by semaphore, then by flag, and later by radio. The station could relay messages from Port Arthur on the Tasman Peninsula to Hobart via a chain of intermediate stations — a 90 km signal could be passed in 15 minutes. The original cottage and the later 1880s additions are open to walk through, with a small history display.

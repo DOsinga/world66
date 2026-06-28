@@ -8,6 +8,7 @@ latitude: 18.4965
 longitude: -77.6548
 sources:
   - https://en.wikipedia.org/wiki/Falmouth,_Jamaica
+score: 6.7
 ---
 
 The Phoenix Foundry is one of the most distinctive buildings in Falmouth — a mid-nineteenth century cast-iron structure, one of the few of its kind remaining in Jamaica. Built around 1810–1830, the foundry supplied iron fittings and machinery to the sugar estates of Trelawny Parish. Its survival is largely a function of Falmouth's economic stagnation: when the money stopped, so did the demolition.

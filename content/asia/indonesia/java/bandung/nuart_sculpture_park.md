@@ -8,6 +8,7 @@ tags:
 snippet: Garden gallery of monumental sculpture by Nyoman Nuarta
 latitude: -6.8754
 longitude: 107.5654
+score: 7.4
 ---
 
 The garden and gallery of the Balinese sculptor Nyoman Nuarta, best known for the colossal Garuda Wisnu Kencana statue near Denpasar. NuArt is essentially a smaller, more accessible version of his Bali output: a landscaped park dotted with large bronze figures, a glass-walled gallery, and a workshop where his apprentices can sometimes be seen at work.

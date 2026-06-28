@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_the_Baku_bay,_Az
 latitude: 40.375588
 loc_type: city
 longitude: 49.832801
-score: 0.64
+score: 8.54
 title: Baku
 type: location
+snippet: Caspian capital of Azerbaijan where medieval walls, oil-boom mansions, and
+  Flame Towers share the skyline.
 ---
 
 Baku is the capital and largest city of [Azerbaijan](/europe/azerbaijan), a sprawling metropolis on the western shore of the Caspian Sea that has reinvented itself dramatically since the oil boom of the 2000s. The skyline now features the [Flame Towers](/europe/azerbaijan/baku/flame_towers) — three glass skyscrapers shaped like tongues of fire that have become the city's most recognizable landmark — alongside Soviet-era blocks, Belle Époque mansions from the first oil boom of the 1890s, and the medieval walls of the Old City.

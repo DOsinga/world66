@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.7600
 longitude: 19.4100
+score: 7.1
 ---
 
 The deep limestone canyon of the Morača river cuts the south-western approach to Bjelasica, with the road and railway both threading their way along impossibly narrow shelves above the green-blue water. Some of the cliffs drop 1,000 metres directly into the river. The drive from Podgorica to Kolašin runs the full length of the canyon and is one of the most spectacular short road trips in Europe.

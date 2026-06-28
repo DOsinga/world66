@@ -4,6 +4,7 @@ type: poi
 tags: [getting_there, transport]
 latitude: 35.7625
 longitude: 10.7544
+score: 2.3
 ---
 
 The Skanes-Monastir airport halt is a stop on the Sahel metro, the coastal commuter line that connects Sousse, Monastir, and the resort strip in between. Trains call roughly every half hour in daylight, with the run to Monastir Gare Habib Bourguiba taking under ten minutes and Sousse about thirty.

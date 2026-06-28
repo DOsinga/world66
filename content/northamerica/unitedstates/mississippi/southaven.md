@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Snowden_Bridge_Southaven.j
 latitude: 34.987382
 loc_type: city
 longitude: -90.003486
-score: 0.3
+score: 5.56
 title: Southaven
 type: location
+snippet: Mississippi city just south of Memphis, used as a practical base for the
+  region.
 ---
 
 Southaven is the largest city in DeSoto County, sitting just across the Mississippi state line from [Memphis](/northamerica/unitedstates/tennessee/memphis), Tennessee. With a population of around 55,000, it is effectively a Memphis suburb and a practical base for visitors who want easy access to Graceland, Beale Street, and the Memphis music scene without staying downtown.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2715
 longitude: 6.5820
+score: 8.4
 ---
 
 Renting a small electric boat is the best way to see Port Grimaud. The rental outfits near the main entrance operate self-drive boats that require no licence — you are given a brief introduction and then left to navigate the canal network at your own pace. The boats are quiet and slow-moving, which is exactly right for threading through the narrow waterways, ducking under arched bridges, and peering at the waterfront facades from water level.

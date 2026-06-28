@@ -8,6 +8,7 @@ tags:
 latitude: 53.3248
 longitude: 5.9986
 snippet: "Canal-side grand café in the old town centre — the classic stop for coffee or lunch."
+score: 5.4
 ---
 
 Café De Post is one of the main gathering places in Dokkum's historic centre, a grand café in the Dutch provincial tradition occupying a prominent position on the main square. The terrace fills on any day with reasonable weather; inside, the room is comfortable year-round.

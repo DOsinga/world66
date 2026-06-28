@@ -11,6 +11,7 @@ tags:
 title: La Compañía
 type: poi
 story: "The Jesuits commissioned local indigenous stonemasons in 1698 to carve the facade. They wove Catholic iconography together with corn, vines, parrots, and stylised pumas borrowed from pre-Columbian motifs — a kind of subversive coding that the priests either didn't see or didn't mind."
+score: 8.5
 ---
 
 La Compañía, the Jesuit church on the southwest corner of the Plaza de Armas, has the finest sillar carving in Arequipa — a deep, exuberant baroque facade that rewards close looking. Take a step back: every saint is surrounded by twining grape vines, corn cobs, monkeys, and parrots, the work of indigenous craftsmen mixing Catholic and Andean imagery. The carving is shallow but extraordinarily detailed.

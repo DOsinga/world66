@@ -8,6 +8,7 @@ latitude: 9.3383
 longitude: -82.1817
 sources:
   - https://en.wikipedia.org/wiki/Bastimentos_Island
+score: 7.9
 ---
 
 Red Frog Beach on the north coast of Isla Bastimentos is the archipelago's most celebrated beach: a long crescent of dark gold sand backed by jungle, with surf breaking at the point and calmer water in the bay. The beach takes its name from the Strawberry poison dart frog (Oophaga pumilio), a brilliant red amphibian with blue-black legs that is common in the forest behind the beach and found nowhere outside the Bocas del Toro region in exactly this colour form.

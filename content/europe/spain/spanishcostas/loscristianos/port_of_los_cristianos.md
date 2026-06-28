@@ -8,6 +8,7 @@ tags:
   - sight
 title: Port of Los Cristianos
 type: poi
+score: 7.2
 ---
 
 The Port of Los Cristianos keeps the town from feeling like a resort facade. Ferries to La Gomera and other western Canary Islands come and go through the harbour, mixed with excursion boats, fishing craft, and the ordinary bustle of passengers with luggage.

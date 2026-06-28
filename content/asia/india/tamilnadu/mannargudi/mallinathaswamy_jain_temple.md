@@ -8,6 +8,7 @@ latitude: 10.6738
 longitude: 79.4388
 story: >
   The temple's presence in a predominantly Vaishnavite town points to a period when Jainism had deep roots in the Chola heartland. Inscriptions at the site date patronage back to the medieval Chola dynasty, and the temple survived because the Chola kings maintained a policy of supporting multiple faiths simultaneously.
+score: 6.9
 ---
 
 On the northern edge of town, this small but historically significant Jain temple is dedicated to Mallinatha, the 19th Tirthankara. The temple dates to the Chola period and carries stone inscriptions that record royal grants and donations spanning several centuries.

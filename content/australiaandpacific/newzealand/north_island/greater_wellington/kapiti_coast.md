@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: -40.904736
+loc_type: region
 longitude: 174.986136
+score: 0.48
+snippet: Tasman Sea beach region north of Wellington, sheltered by hills and watched
+  over by Kapiti Island.
 title: Kapiti Coast
 type: location
-score: 0.48
-loc_type: region
 ---
 
 The Kapiti Coast is a string of relaxed beach towns running north of [Wellington](/australiaandpacific/newzealand/north_island/greater_wellington/wellington) along the Tasman Sea. It is where Wellingtonians go when they want sun, surf, and a slower pace — the climate is noticeably warmer and calmer than the capital, sheltered from the worst of the southerlies by the Tararua Range.

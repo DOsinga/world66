@@ -10,6 +10,7 @@ latitude: 41.11208
 longitude: 20.79411
 story: >
   The frescoes of Saint Sophia survived Ottoman conversion because, when the church was made a mosque in the 15th century, the walls were whitewashed rather than chiselled clean. When the whitewash was removed during 20th-century restoration, the 11th-century paintings emerged largely intact — a serendipity unmatched anywhere else in the Byzantine world.
+score: 9.5
 ---
 
 The Church of Saint Sophia is the most important medieval building in Ohrid, a 9th-century basilica heavily rebuilt in the 11th century to serve as the seat of the Archbishopric of Ohrid. Its frescoes — completed around 1040 — are among the finest pre-Comnenian Byzantine paintings to survive anywhere.

@@ -8,6 +8,7 @@ snippet: Memorial to the Nazi forced-labour camp that supplied the VW plant in 1
 latitude: 52.4333
 longitude: 10.7667
 story: "Arbeitsdorf was a satellite of Neuengamme, set up inside the perimeter of the Volkswagen factory to provide forced labour for what was then known as the City of the KdF Car. The camp operated for only nine months in 1942 but is part of why Wolfsburg's founding history is so seriously addressed in the present city."
+score: 6.5
 ---
 
 A simple memorial at the gates of the Volkswagen factory marks the site of the Arbeitsdorf concentration camp, a forced-labour subcamp of Neuengamme that operated inside the plant during 1942. The original camp was demolished long ago; the memorial plaque and a small documentation centre run by VW are the main physical traces.

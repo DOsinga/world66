@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 22.7926
 longitude: 108.3256
+score: 6.4
 ---
 
 Nanhu Lake Park in Nanning's Qingxiu District occupies over 600 hectares and centres on a sizeable lake used for paddleboating, fishing, and morning tai chi. It is a functional city park first and a tourist attraction second, which makes it more pleasant than somewhere designed purely for visitors. The orchid garden within the park has over 1,000 orchid varieties — Guangxi is one of China's main orchid-growing regions, and Nanning's subtropical climate makes outdoor cultivation of tropical species possible year-round.

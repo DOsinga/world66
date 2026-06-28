@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 6.4
 ---
 
 The Grand Marché of Ouahigouya is the commercial and social heart of the city, spread across a wide area near the center of town. The market is most animated on the weekly market day, when traders come in from surrounding villages and even from across the Mali border — bringing livestock, grain, cloth, and goods that you won't find in the permanent stalls.

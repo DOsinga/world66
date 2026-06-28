@@ -7,6 +7,7 @@ tags:
 - art
 latitude: 38.6480
 longitude: -90.1830
+score: 5.8
 ---
 
 The Mural Mile runs along the floodwall on the west bank of the Mississippi just north of the Arch — a continuous mile of legal graffiti and street art that has become one of the most active outdoor art spaces in the Midwest. New work goes up constantly; nothing is permanent.

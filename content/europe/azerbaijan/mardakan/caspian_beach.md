@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.512778
 longitude: 50.168333
+score: 5.9
 ---
 
 Mardakan's Caspian shore draws Baku residents throughout the summer, when the city's heat makes the sea air a relief. The beaches here are sandy and the water shallow close to shore — good for swimming, though the Caspian can be surprisingly rough when the winds pick up.

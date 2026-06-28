@@ -8,6 +8,7 @@ latitude: 19.3668
 longitude: 98.4255
 story: >
   The bridge was built by Japanese forces using Allied prisoners of war during World War II as part of a supply route into Burma. The original structure has been replaced, but a simple iron bridge now stands as a memorial on the Pai River. Unlike the famous Bridge on the River Kwai in Kanchanaburi, this one sees almost no visitors at midday — you can usually stand on it alone, watching the river below, thinking about the supply lines and forgotten campaigns that once ran through these mountains.
+score: 6.1
 ---
 
 The WWII Memorial Bridge spans the Pai River about 2 kilometres west of town. Built by Japanese forces using Allied prisoner-of-war labour during the Second World War as part of a supply route into Burma, the bridge has become one of Pai's landmark sites. The current iron structure is not the original wartime bridge but is maintained as a memorial to the prisoners who worked here.

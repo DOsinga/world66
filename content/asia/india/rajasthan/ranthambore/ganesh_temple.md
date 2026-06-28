@@ -12,6 +12,7 @@ story: >
   and sons Shubh and Labh — all in a single image. Newly-weds across Rajasthan
   post invitation cards to the temple before their wedding; the postman actually
   delivers them.
+score: 7.4
 ---
 
 The Trinetra Ganesh temple inside Ranthambore Fort is one of the most visited shrines in Rajasthan — not because pilgrims pass through the park to reach it, but precisely because they do. Each day, hundreds of devotees obtain a special permit to walk or take a vehicle to the fort for darshan. The temple dates to at least the 10th century and is carved into the rock of the fort's inner citadel.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Angels_Landing.jpg
 latitude: 37.2982
 loc_type: feature
 longitude: -113.0263
+score: 9.49
+snippet: Southern Utah national park of red sandstone canyons, river narrows, hanging
+  gardens, and high cliff trails.
 sources:
 - https://www.nps.gov/zion/
 - https://www.nps.gov/places/court-of-the-patriarchs.htm

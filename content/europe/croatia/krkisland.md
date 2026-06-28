@@ -5,8 +5,14 @@ latitude: 45.090196
 loc_type: region
 longitude: 14.549668
 score: 0.67
+snippet: Accessible northern Adriatic island linked to mainland Croatia by bridge
+  and known for medieval coastal towns.
 title: Krk Island
 type: location
+image: krkisland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Krk_krk.jpg
+image_license: CC BY-SA 3.0 de
+image_attribution: Arne Müseler
 ---
 
 Krk is one of the largest islands in the Adriatic, covering 406 square kilometres off the northern Croatian coast. Unlike most Croatian islands, it is connected to the mainland by a bridge, and Rijeka airport sits on the island itself — making it one of the most accessible islands in the country.

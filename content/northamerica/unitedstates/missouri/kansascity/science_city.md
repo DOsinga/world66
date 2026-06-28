@@ -8,6 +8,7 @@ tags:
 - family
 title: Science City at Union Station
 type: poi
+score: 6.3
 ---
 
 Science City occupies the lower levels of Kansas City's restored Union Station and is the city's primary hands-on science museum. The exhibits are consistently well-designed and aimed at a broad age range, with physics demonstrations, a planetarium, a working weather station, and a series of interactive galleries covering biology, engineering, and earth science. The museum is built into the station's historic spaces, which adds architectural interest to the visit.

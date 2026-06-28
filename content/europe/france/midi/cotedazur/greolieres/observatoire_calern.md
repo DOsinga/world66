@@ -8,6 +8,7 @@ latitude: 43.7530
 longitude: 6.9228
 sources:
   - https://en.wikipedia.org/wiki/CERGA_Observatory
+score: 8.0
 ---
 
 The Calern Observatory (formally the Observatoire de la Côte d'Azur, site de Calern) sits on the Plateau de Caussols about 10 kilometres south of Gréolières, at an altitude of around 1270 metres. It is a working research facility operated by the Université Côte d'Azur, and one of the principal sites for laser ranging to the Moon — a technique that has been used here since the 1980s to measure the Earth-Moon distance to millimetre precision.

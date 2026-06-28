@@ -6,10 +6,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 14.590449
 longitude: 120.980362
-score: 0.45
+score: 7.32
 title: Manila
 type: location
 loc_type: city
+snippet: Dense Philippine capital on Manila Bay, where Intramuros, Chinatown, malls,
+  and working districts collide.
 image: manila.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_Manila_Cathedral_001.jpg
 image_license: CC BY-SA 4.0

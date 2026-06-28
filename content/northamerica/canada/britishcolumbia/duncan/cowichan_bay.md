@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 48.75
 longitude: -123.6
+score: 7.7
 ---
 
 Cowichan Bay is a fishing village 10 km south of Duncan where the Cowichan River meets the sea. A row of wooden buildings on stilts extends over the water — boathouses, small restaurants, a maritime centre — giving the bay the unpretentious character of a working waterfront that happens to be very photogenic. It is also home to one of the oldest certified organic farms in British Columbia.

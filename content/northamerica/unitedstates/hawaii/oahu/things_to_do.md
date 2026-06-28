@@ -1,8 +1,9 @@
 ---
 address: '41-202 Kalanian‘ole Hwy., #7, Waimanalo'
 phone: (808) 259-2500
+score: 2.8
 title: Things to do
-type: poi
+type: section
 url: www.sealifeparkhawaii.com
 ---
 

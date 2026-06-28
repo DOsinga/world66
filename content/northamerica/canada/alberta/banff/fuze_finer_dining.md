@@ -2,8 +2,11 @@
 accessibility: elevator access
 address: 2nd Floor, 110 Banff Avenue
 email: reservations@fuzedining.com
+latitude: 51.1744
+longitude: -115.5704
 phone: 403 760-0853
 price: $24 to $38 Cdn
+score: 4.9
 tags:
 - eating_out
 - restaurant

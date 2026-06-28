@@ -7,7 +7,8 @@ done:
 latitude: 17.360589
 loc_type: city
 longitude: 78.474061
-score: 0.52
+score: 7.6
+snippet: Deccan megacity of Nizam palaces, Qutb Shahi monuments, pearls, and biryani.
 title: Hyderabad
 type: location
 ---

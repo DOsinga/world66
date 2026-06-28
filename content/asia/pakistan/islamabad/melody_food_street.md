@@ -7,6 +7,7 @@ address: G-6 Markaz
 tags:
   - eating_out
   - restaurant
+score: 7.9
 ---
 
 Melody Food Street in the G-6 Markaz is the original concentrated eating strip of Islamabad, dating from the 1980s. A short pedestrian lane is lined with maybe forty small kitchens — barbeque grills, biryani houses, naan shops, kebab joints, lassi stalls — most of them open until late into the night.

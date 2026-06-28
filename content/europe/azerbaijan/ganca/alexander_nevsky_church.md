@@ -6,6 +6,7 @@ latitude: 40.6792
 longitude: 46.3564
 sources:
   - https://en.wikipedia.org/wiki/Alexander_Nevsky_Church,_Ganja
+score: 6.4
 ---
 
 The Alexander Nevsky Church is a Russian Orthodox church built in 1887, one of the more unexpected buildings in this predominantly Muslim city. The church dates from the period of Russian imperial administration, when a substantial Russian and Armenian population lived in Ganca, and it serves as a reminder of the city's former ethnic and religious diversity.

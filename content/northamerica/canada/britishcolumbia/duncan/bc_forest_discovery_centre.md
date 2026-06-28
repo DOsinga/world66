@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 48.801944
 longitude: -123.715278
+score: 7.5
 ---
 
 The BC Forest Discovery Centre, located about 3 km north of Duncan on the Trans-Canada Highway, chronicles two centuries of logging history in British Columbia through a mix of outdoor machinery exhibits, a working narrow-gauge steam railway, and indoor displays. The 40-hectare site includes restored logging camps, vintage equipment, and interactive exhibits aimed at both adults and children.

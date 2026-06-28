@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.4763
 longitude: -0.3748
+score: 7.5
 ---
 
 The patroness of Valencia, Our Lady of the Forsaken (Mare de Déu dels Desemparats), lives in this small Baroque basilica on the Plaza de la Virgen. The interior is densely decorated under a frescoed dome by Antonio Palomino — the statue of the Virgin sits behind the main altar, almost always surrounded by candles, flower offerings, and supplicants.

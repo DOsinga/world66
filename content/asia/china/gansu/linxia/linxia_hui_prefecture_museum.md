@@ -12,6 +12,7 @@ story: >
   this region to the wider world. The intricate geometric designs on these vessels, made
   by farmers living in the same valleys as today's Linxia residents, represent one of
   the earliest and most sustained artistic traditions in East Asia.
+score: 7.7
 ---
 
 The Linxia Hui Autonomous Prefecture Museum, near the central park, holds a significant collection that spans the region's history from the neolithic period through to the twentieth century. The highlights are the painted pottery assemblages from the Majiayao and related cultures — some of the finest examples in Gansu outside the provincial museum in Lanzhou, and displayed with enough context to make sense of the different phases and traditions within the broader neolithic sequence.

@@ -8,6 +8,7 @@ story: "On 7 June 1880, Chilean troops under Pedro Lagos stormed the Peruvian ba
 tags:
 - things_to_do
 - sight
+score: 8.7
 ---
 
 The Morro is the rocky cliff that drops sheer to the Pacific at the south end of the city. A switchback road and a stepped footpath both lead to the top, which sits 130 metres above the sea and gives a clean view across Arica, the port and the long line of the desert coast.

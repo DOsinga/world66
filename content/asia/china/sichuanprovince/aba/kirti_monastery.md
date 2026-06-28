@@ -15,6 +15,7 @@ story: >
   civil resistance, and international human rights organisations have documented
   crackdowns here. Despite the political tensions, it remains a living monastic
   community of several hundred monks.
+score: 7.8
 ---
 
 Kirti Monastery, right in the centre of Aba town, is one of the largest Tibetan Buddhist monasteries in the Amdo region of eastern Tibet. Founded in the 18th century and affiliated with the Gelug school, it houses several hundred monks and functions as the religious heart of the community. The main assembly hall contains impressive thangka paintings and a large gilt statue of Je Tsongkhapa, the founder of the Gelug tradition.

@@ -6,6 +6,7 @@ tags:
   - bars_and_cafes
 latitude: 40.8010
 longitude: 111.6440
+score: 6.5
 ---
 
 Mongolian milk tea (奶茶, naichá in Chinese; suutei tsai in Mongolian) is not the sweet bubble tea associated with Taiwan but the traditional pastoral drink of the steppe: brick tea (compressed dark tea, often roasted) simmered with milk, salt, and sometimes butter or millet. The result is savoury rather than sweet — closer to a broth than a beverage — and it takes adjustment if you are expecting anything resembling European-style tea with milk. The salt is essential and sufficient; asking for it without is missing the point.

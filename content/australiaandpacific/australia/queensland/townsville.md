@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ross_River_flowing_through
 latitude: -19.2569
 loc_type: city
 longitude: 146.824
-score: 0.5
+score: 7.41
+snippet: North Queensland coastal city beneath Castle Hill, with Magnetic Island just
+  offshore.
 sources:
 - https://en.wikipedia.org/wiki/Townsville
 - https://en.wikipedia.org/wiki/Reef_HQ

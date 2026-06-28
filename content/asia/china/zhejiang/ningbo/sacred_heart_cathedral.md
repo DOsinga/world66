@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8705
 longitude: 121.5497
+score: 7.6
 ---
 
 The Sacred Heart Cathedral in Ningbo's old city is one of the most significant Catholic buildings in Zhejiang, a Gothic Revival church built by French missionaries in 1872 on the site of an earlier chapel. The building's twin spires are the most visible point on the Ningbo skyline north of the Drum Tower, and the interior preserves its original stained glass and carved wooden pews. The Ningbo diocese was established in the sixteenth century by Jesuit missionaries, and the city has one of the longer histories of Catholicism in China.

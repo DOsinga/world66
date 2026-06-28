@@ -15,6 +15,7 @@ story: >
   inscriptions and tomb fragments. That kind of recycling was practical, not
   romantic, but it means the defences quietly carry pieces of several older
   cities inside them.
+score: 7.2
 ---
 
 Talavera once had three lines of walls, and the surviving stretches of the first enclosure are among the most atmospheric parts of the city. The square towers and projecting albarrana towers recall the town's Islamic and medieval frontier history.

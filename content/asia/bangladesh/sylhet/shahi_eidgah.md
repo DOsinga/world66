@@ -11,6 +11,7 @@ story: >
   the largest open-air prayer grounds in the subcontinent — its terraces can
   hold an estimated 100,000 worshippers, which fills up during the two Eid
   prayers and gives the city its largest annual gathering.
+score: 7.3
 ---
 
 The Shahi Eidgah sits on a low hill in the northeast of the city and is one of Sylhet's most impressive Mughal-era monuments. The complex consists of a long stepped terrace, an enclosed prayer area, a mihrab niche, and surrounding gardens, all in a coherent late-Mughal style adapted to the local sandstone.

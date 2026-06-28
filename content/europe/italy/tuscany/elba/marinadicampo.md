@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Marina_di_Campo,_Elba,_Ita
 latitude: 42.7613
 loc_type: city
 longitude: 10.2392
-score: 0.59
+score: 8.27
+snippet: South-coast Elba resort town built around the island's longest sandy beach
+  and a small fishing harbour.
 title: Marina di Campo
 type: location
 ---

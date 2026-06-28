@@ -2,7 +2,12 @@
 category: Sight
 latitude: 24.1797
 longitude: -76.4561
+score: 7.9
 snippet: Feral pigs that swim out to greet visiting boats
+tags:
+- things_to_do
+- sight
+- wildlife
 title: Swimming Pigs at Big Major Cay
 type: poi
 ---

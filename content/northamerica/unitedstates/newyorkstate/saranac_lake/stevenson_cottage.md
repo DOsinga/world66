@@ -10,6 +10,7 @@ tags:
 - museum
 story: >
   Stevenson wrote much of "The Master of Ballantrae" and twelve essays for Scribner's Magazine during his eight-month stay in this small cottage. He paid the landlord with handwritten manuscripts; the cottage's modest size and the cold winter conditions are credited with sharpening Stevenson's prose discipline.
+score: 7.1
 ---
 
 Robert Louis Stevenson spent the winter of 1887–88 in this small frame cottage on Baker Street, sent here by his doctors in the hope that the Adirondack air would help his persistent lung trouble. He arrived already famous from Treasure Island and Dr Jekyll and Mr Hyde, and used the long Saranac winter to work on what would become The Master of Ballantrae plus a steady stream of essays.

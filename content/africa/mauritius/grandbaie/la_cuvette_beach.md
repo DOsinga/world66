@@ -8,6 +8,7 @@ tags:
 latitude: -20.0089
 longitude: 57.5797
 snippet: Small public beach at the western end of Grand Baie, popular with locals
+score: 6.2
 ---
 
 The main public beach in the village itself — a short crescent of white sand at the western corner of the bay, between the village and the headland. The water is calm and shallow, well protected by the reef offshore, which makes it the easiest place in the area to swim with small children.

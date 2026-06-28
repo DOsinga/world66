@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 34.2000
 longitude: 74.9000
+score: 7.4
 ---
 
 One of the most sacred Hindu shrines in Kashmir, Kheer Bhawani is dedicated to the goddess Bhawani (a form of Durga) and sits beside a spring about 23 km northeast of Srinagar in the village of Tulmul. The spring is held to be miraculous — its water changes colour, supposedly from white to grey or black before some calamity strikes the valley, and back to white when peace returns. Offerings of kheer (rice pudding with milk and sugar) are made to the goddess at the spring, giving the temple its name.

@@ -6,6 +6,7 @@ longitude: 16.4425
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 Konoba Menego occupies a tall stone house in the lanes above Pjaca, with three small rooms and a few outdoor tables on the steep alley. The menu is short, simple, and Dalmatian: marinated anchovies, octopus salad, cured pršut, sheep's cheese, and the local Hvar wines by the carafe.

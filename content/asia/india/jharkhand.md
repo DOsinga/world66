@@ -1,12 +1,14 @@
 ---
-title: Jharkhand
-type: location
-latitude: 23.6102
-longitude: 85.2799
 done:
   location_cleanup: 2026-04-05
-score: 0.38
+latitude: 23.6102
 loc_type: region
+longitude: 85.2799
+score: 0.38
+snippet: Eastern Indian state of forests, red-earth plateaus, and Adivasi communities,
+  carved from Bihar in 2000
+title: Jharkhand
+type: location
 ---
 
 Jharkhand is a state in eastern India, carved out of the southern half of Bihar in the year 2000 after a century-long campaign by its mostly tribal population for self-rule. The name means "land of forests," and that is still the best way to understand the state: a plateau of sal and mahua woodlands, red-earth hills, and the world's largest concentration of Adivasi (tribal) communities in India — the Santhal, Munda, Ho, and Oraon peoples who have lived here for longer than written history, and whose languages, music, and drumming are still as present as they are anywhere in the country.

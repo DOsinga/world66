@@ -7,6 +7,7 @@ tags:
 latitude: 5.5000
 longitude: -61.5000
 story: "Canaima is the second-largest national park in Venezuela and one of the largest in the world at 30,000 square kilometres — bigger than Belgium. Roughly 65 percent of its surface is tepui — flat-topped sandstone plateaus that have stood since before the Atlantic Ocean existed."
+score: 9.2
 ---
 
 The Gran Sabana lies entirely within Canaima National Park — a vast UNESCO World Heritage Site of tepuis, savanna, and waterfalls that also covers the territory around Angel Falls to the west. Most of what visitors think of as the "Gran Sabana" is the eastern half of the park, accessible by the Troncal 10 highway.

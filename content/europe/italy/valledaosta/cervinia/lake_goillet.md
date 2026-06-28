@@ -8,6 +8,7 @@ tags:
 - lake
 latitude: 45.9292
 longitude: 7.6650
+score: 6.5
 ---
 
 Lake Goillet is a large artificial reservoir on the slopes above Cervinia, built in 1949 to feed hydroelectric stations down in the Aosta Valley. It sits at 2,524 metres, reached either by chairlift in summer or by a steady walk of about two hours from the village.

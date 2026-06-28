@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.5645
 longitude: 22.7976
+score: 6.3
 ---
 
 Halfway up the cliff between the old town and the Palamidi, a small whitewashed chapel called Agioi Pantes (All Saints) is reached by a staircase made of broken gravestones. The story goes that the stones came from a Catholic cemetery that the Greeks dismantled after independence; whether or not that is true, you can still read fragmentary names and dates on some of the treads.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 5.6
 ---
 
 Laguna Redonda is one of three natural lagoons inside Concepción's urban area — the city is unusual in being threaded with these freshwater pools, a legacy of the meandering Biobío river. The Redonda is the most central, ringed by a paved jogging path of about a kilometre, with playgrounds, benches and a few cafés around the edge.

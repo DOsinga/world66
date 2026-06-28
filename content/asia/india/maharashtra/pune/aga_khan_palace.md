@@ -9,6 +9,7 @@ tags:
   - museum
   - architecture
 story: "Mahatma Gandhi was interned here by the British from 1942 to 1944 after launching the Quit India movement. His wife Kasturba and his secretary Mahadev Desai both died in captivity inside the palace; their samadhis stand in the garden today."
+score: 7.7
 ---
 
 Built in 1892 by Sultan Aga Khan III as a famine-relief project that employed a thousand local workers, the palace is a long pink building of Italianate arches and verandahs set in 19 acres of gardens north of the river. Aga Khan IV donated it to India in 1969 as a memorial to Gandhi.

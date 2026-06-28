@@ -4,6 +4,7 @@ type: poi
 latitude: -35.3439
 longitude: 149.0817
 tags: [things_to_do, sight, museum]
+score: 7.0
 ---
 
 The Royal Australian Mint, in Deakin south of the lake, is the working national mint that produces all of Australia's circulating coinage. It is one of the more interesting industrial museums in the city — visitors can watch live coin production from a public mezzanine above the production floor, and the small interpretive museum covers Australian currency history from convict tokens to the polymer notes of the contemporary era.

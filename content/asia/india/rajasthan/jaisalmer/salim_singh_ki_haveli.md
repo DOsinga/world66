@@ -13,6 +13,7 @@ story: >
   the early 19th century — and widely despised. He reportedly intended to add more
   storeys to overtop the Maharawal's palace. The king stopped him, which is why the
   haveli ends abruptly with its distinctive corbelled top rather than rising further.
+score: 7.0
 ---
 
 Salim Singh ki Haveli is a tall, narrow mansion built around 1815 by the powerful prime minister of Jaisalmer. Its most distinctive feature is the top floor: a series of arched balconies that fan out like a peacock's tail, supported on elaborate corbels. This overhanging upper storey gives the building a surreal quality — from certain angles it looks as if it might topple. The jali screens and carved stone balconies throughout the building are exceptionally fine.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 49.183
 longitude: -2.109
+score: 6.4
 ---
 
 The Oyster Box on the waterfront at St Helier Marina is the place to eat Jersey's exceptional shellfish. Jersey Royale oysters, locally caught crab, lobster from the harbour, and whatever white fish the boats brought in that morning dominate the menu. The building sits right at the water's edge and the views across the marina make it as good for a leisurely lunch as for dinner.

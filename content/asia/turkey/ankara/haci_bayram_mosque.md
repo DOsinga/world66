@@ -8,6 +8,7 @@ latitude: 39.9415
 longitude: 32.862
 story: >
   Hacı Bayram Veli was a 15th-century Islamic mystic who founded the Bayrami Sufi order. His tomb within the mosque complex is an active pilgrimage site — pilgrims come to pray at a small window that looks into the chamber, a practice common at the shrines of Sufi saints throughout Anatolia. The saint's influence extends across Turkey's religious folk tradition in ways that formal Ottoman orthodoxy never fully managed to displace.
+score: 8.0
 ---
 
 The Hacı Bayram Mosque was built in the 15th century beside the ruins of the Temple of Augustus, incorporating the temple's remains into the complex. It is named for Hacı Bayram Veli, a Sufi mystic and scholar who founded the Bayrami order here in Ankara. His tomb within the mosque complex is one of the most visited pilgrimage sites in central Anatolia, particularly popular with Anatolian rural communities.

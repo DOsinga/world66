@@ -15,6 +15,7 @@ story: >
   rope inside, the "wishing bell", is rung by visitors who believe the
   Virgin will grant their wish. The earlier sanctuary on this site was
   built on what archaeologists have shown to be an Iron Age cult site.
+score: 9.0
 ---
 
 The only natural island in Slovenia, a small forested teardrop in the middle of Lake Bled crowned by the white walls and slate roof of the 17th-century Church of the Assumption. The church incorporates fragments of an earlier 11th-century building, and its baroque bell tower is the most photographed object in the country.

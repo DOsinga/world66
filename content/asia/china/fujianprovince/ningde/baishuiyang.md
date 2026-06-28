@@ -15,6 +15,7 @@ story: >
   local families spend summer afternoons sliding across it on their backs.
   In winter, the same river becomes a sanctuary for mandarin ducks from Siberia,
   sometimes thousands at a time.
+score: 4.4
 ---
 
 Baishuiyang, in Pingnan County inland from Ningde city, is one of those places that photographs cannot quite convey. The Zhoulian River flows across a horizontal slab of granite on a scale that makes it look impossible — a wide, fast, shallow sheet of water over perfectly polished stone, the surface so even that you can walk or wade across it in any direction. Local Chinese call it a "natural swimming pool," though the current is too strong for standing still and the real pleasure is letting the river carry you across the rock.

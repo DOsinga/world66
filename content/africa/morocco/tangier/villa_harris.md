@@ -8,6 +8,7 @@ tags:
 - sight
 title: Villa Harris
 type: poi
+score: 7.2
 ---
 
 The hilltop mansion that the eccentric British journalist Walter Burton Harris built between 1895 and 1900 on a cliff above the bay east of central Tangier. Harris was the *Times* correspondent in Morocco from 1888 until his death in 1933 and one of the most colourful members of the international zone's pre-protectorate cast. His house mixes English manor-house bones with Moorish courtyards, Andalusi tile, and views straight across the strait.

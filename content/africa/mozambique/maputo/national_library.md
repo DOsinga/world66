@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Baixa
+score: 7.1
 ---
 
 The **Biblioteca Nacional de Moçambique** sits on the lower edge of the Tunduru Gardens, a low modernist building of pale concrete and tinted glass from the late colonial period. It is the country's deposit library and holds the most complete collection of Mozambican publications anywhere — newspapers, books, journals, and the records of the long pre-independence underground press.

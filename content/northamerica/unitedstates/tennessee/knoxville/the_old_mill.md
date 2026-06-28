@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.7957
 longitude: -83.5497
+score: 6.5
 ---
 
 The Old Mill in Pigeon Forge, about 40 minutes southeast of Knoxville, is technically a day trip but worth including for anyone interested in Southern grain cooking. The 1830 grist mill still operates, grinding corn and grains sold in the adjacent store, and the restaurant built around it is one of the better places to eat traditional Southern food in the region.

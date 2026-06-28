@@ -13,6 +13,7 @@ story: >
   metaphor for meeting in the middle. When it opened in 2011, it was the first
   pedestrian bridge across the Foyle in 400 years — in a city divided along
   the river for most of those years, the symbolism was not subtle.
+score: 6.6
 ---
 
 The Peace Bridge opened in 2011 as a pedestrian and cycle crossing over the River Foyle, linking the largely nationalist west bank of the city to the largely unionist Waterside on the east. The design — a sinuous S-curve of weathering steel — has become the city's most recognisable modern landmark.

@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 35.6866
 longitude: -105.9378
+score: 6.8
 ---
 
 The fifth-floor rooftop terrace of La Fonda on the Plaza, open seasonally (April to October). The view is the prize: 360 degrees over the adobes of old Santa Fe, with the Sangre de Cristos to the east and the Jemez to the west. Sunset puts the cathedral in gold.

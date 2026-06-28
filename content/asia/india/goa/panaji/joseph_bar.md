@@ -15,6 +15,7 @@ tags:
 - bars_and_cafes
 - bar
 - sao_tome
+score: 7.5
 ---
 
 Joseph Bar — sometimes called Goa's oldest pub — has been operating in the same single room on São Tomé Square since 1932. The room itself is a converted shop, about four metres deep, with a counter at the back, half a dozen wall-mounted shelves of *feni*, *rum*, *whisky*, and a small fridge for beer. There is no seating to speak of.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Cathedral of Coro, though first built in 1536, took well over a century to reach its current form — construction was halted repeatedly by lack of funds, pirate attacks, and earthquakes. What you see today is largely a 17th-century reconstruction of the earlier structure, making it simultaneously one of the oldest and most repeatedly rebuilt churches in Venezuela.
+score: 7.7
 ---
 
 The Cathedral Basilica of St. Anne in Coro is the oldest cathedral in Venezuela, standing on the Plaza Bolívar at the heart of the colonial city. The exterior is relatively plain by Latin American baroque standards — whitewashed walls, a simple tower, and an unadorned facade — which gives it an archaic dignity that more elaborate churches lack. Inside, the three-nave structure retains some original colonial-era furnishings and religious artwork.

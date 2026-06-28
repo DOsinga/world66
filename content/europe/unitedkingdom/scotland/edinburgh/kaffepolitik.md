@@ -3,11 +3,12 @@ address: 146 Marchmont Road, Edinburgh EH9 1AQ
 latitude: 55.934876
 longitude: -3.194238
 phone: 0131 446 9873
+score: 5.9
+snippet: Political-themed cafe-bar with bookish student vibe
 tags:
 - bars_and_cafes
 - bar
 - cafe
-snippet: "Political-themed cafe-bar with bookish student vibe"
 title: Kaffe Politik
 type: poi
 ---

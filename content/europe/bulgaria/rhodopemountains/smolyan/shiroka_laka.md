@@ -13,6 +13,7 @@ story: >
   hosts the Kukeri festival, where men wearing enormous shaggy costumes with bells
   and frightening masks parade through the village to drive away evil spirits — a
   pre-Christian tradition that has survived two millennia.
+score: 8.4
 ---
 
 Shiroka Laka is one of the best-preserved traditional villages in Bulgaria, designated an architectural and historical reserve. It sits in a narrow valley above Devin, its stone houses climbing the steep hillside above a clear stream, the old water mills still standing at intervals along the bank. The village was a centre of craft production and trade in the 18th and 19th centuries, and the prosperity of that era is visible in the solid, ornate houses with their characteristic overhanging upper floors and woodcarved interiors.

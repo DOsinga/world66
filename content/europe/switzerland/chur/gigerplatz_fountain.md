@@ -15,6 +15,7 @@ story: >
   though the museum in his name has moved to the castle at nearby Gruyères.
 sources:
   - https://www.atlasobscura.com/places/gigerplatz-fountain
+score: 5.8
 ---
 
 The small square named Gigerplatz in Chur's old town holds a public fountain decorated with designs by H.R. Giger, the Swiss artist born in Chur in 1940 who went on to create the visual language of the Alien film franchise. The fountain's carved reliefs are unmistakably Giger: biomechanical forms that blur the boundary between organic and mechanical, unsettling in their beauty and impossible to mistake for anything else.

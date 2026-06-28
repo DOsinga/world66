@@ -1,15 +1,21 @@
 ---
-title: AREA15
-type: poi
 address: 3215 South Rancho Drive
 latitude: 36.1392
 longitude: -115.1942
-snippet: "Immersive entertainment complex anchored by Meow Wolf's Omega Mart"
+score: 8.0
+snippet: Immersive entertainment complex anchored by Meow Wolf's Omega Mart
+story: 'Meow Wolf''s Omega Mart, the anchor tenant, opened in 2021 as the New Mexico
+  collective''s largest installation. Disguised as a surreal grocery store, it leads
+  visitors through hidden passages into an interdimensional narrative spanning hours
+  of exploration.
+
+  '
 tags:
 - things_to_do
 - sight
-story: >
-  Meow Wolf's Omega Mart, the anchor tenant, opened in 2021 as the New Mexico collective's largest installation. Disguised as a surreal grocery store, it leads visitors through hidden passages into an interdimensional narrative spanning hours of exploration.
+- chinatown
+title: AREA15
+type: poi
 ---
 
 AREA15 sits just west of the Strip on Rancho Drive and is the closest thing Las Vegas has to a permanent immersive-art neighbourhood. Inside the warehouse-sized complex you will find Omega Mart by Meow Wolf — a fake supermarket that hides portals into a sprawling psychedelic narrative — plus a zip line, axe-throwing range, virtual-reality experiences, a flotation tank, and several themed bars.

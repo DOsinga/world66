@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Langeoog_(
 latitude: 53.74087
 loc_type: city
 longitude: 7.485917
-score: 0.49
+score: 7.43
+snippet: Car-free East Frisian island with a long sandy beach, dunes, salt marshes,
+  and a small railway.
 title: Langeoog
 type: location
 ---

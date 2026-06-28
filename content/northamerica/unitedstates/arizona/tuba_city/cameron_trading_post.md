@@ -10,6 +10,7 @@ tags:
 - historic
 - restaurant
 snippet: Historic 1916 trading post and stone hotel above the Little Colorado gorge
+score: 7.4
 ---
 
 About 50 km south of Tuba City at the junction of US 89 and AZ 64, the Cameron Trading Post has been operating since 1916, when the Cameron brothers built a single-room post next to the new suspension bridge over the Little Colorado River gorge. The complex has expanded into a stone-and-vigas hotel, a high-end gallery of older Navajo and Pueblo work, and a cavernous gift shop selling everything from cheap dreamcatchers to museum-quality kachinas.

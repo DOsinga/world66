@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The Palacio do Povo ("People's Palace"), formerly the Palacio do Governo, is the most photographed building in Mindelo: a wide two-storey pink-and-white colonial palace facing the sea, with a long open arcade along its lower floor and an ornamental cast-iron fence in front.

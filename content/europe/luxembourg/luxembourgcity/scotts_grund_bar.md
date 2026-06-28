@@ -9,6 +9,7 @@ tags:
   - bar
 neighbourhood: Grund
 address: 4 Bisserwee
+score: 6.0
 ---
 
 The bar half of Scott's in the Grund, with the heated outdoor terrace running directly above the Alzette. From spring through autumn it is one of the city's most popular after-work spots — book ahead on a Friday or take your beer and hope a table opens up.

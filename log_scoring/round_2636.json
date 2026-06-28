@@ -1,0 +1,200 @@
+{
+  "round": 2636,
+  "timestamp": "2026-06-13T21:56:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_score": 10.3916,
+      "prior_variance": 0.39926,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 7.277,
+      "prior_variance": 0.239883,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 4.9842,
+      "prior_variance": 0.195543,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 8.9245,
+      "prior_variance": 0.275322,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 5.1858,
+      "prior_variance": 0.177306,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_score": 2.4804,
+      "prior_variance": 0.142628,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.206,
+      "prior_variance": 0.160438,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 4.1057,
+      "prior_variance": 0.170618,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 3.942,
+      "prior_variance": 0.17765,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_score": 5.0997,
+      "prior_variance": 0.196125,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -1.2691,
+      "prior_variance": 0.161482,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.5731,
+      "prior_variance": 0.143731,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.6644,
+      "prior_variance": 0.153994,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_score": -2.3293,
+      "prior_variance": 0.143685,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.1745,
+      "prior_variance": 0.16624,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.3866,
+      "prior_variance": 0.186746,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -4.0625,
+      "prior_variance": 0.164933,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -3.7184,
+      "prior_variance": 0.145464,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -4.4012,
+      "prior_variance": 0.207017,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_score": -5.5974,
+      "prior_variance": 0.177822,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -5.6067,
+      "prior_variance": 0.180276,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Chibi",
+      "path": "asia/china/hubei/chibi",
+      "prior_score": -6.3133,
+      "prior_variance": 0.203232,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -7.055,
+      "prior_variance": 0.380107,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -7.5386,
+      "prior_variance": 0.329865,
+      "prior_n": 8
+    }
+  ]
+}

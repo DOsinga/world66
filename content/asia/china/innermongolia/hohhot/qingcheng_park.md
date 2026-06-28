@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8063
 longitude: 111.6598
+score: 5.9
 ---
 
 Qingcheng Park (青城公园) is Hohhot's main urban green space and the place where local residents go for morning exercises, afternoon strolls, and weekend outings. The park is not especially scenic by Chinese urban park standards, but its central location and constant use by residents make it a good place to observe the daily life of the city. The lake at the centre hosts pedal boats in summer; the surrounding paths are lined with willows and are pleasant in the evening.

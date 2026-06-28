@@ -16,6 +16,7 @@ story: >
   in mainland Britain.
 sources:
   - https://en.wikipedia.org/wiki/Kilmartin_Glen
+score: 9.3
 ---
 
 Kilmartin Glen, about 13 kilometres north of Lochgilphead, is one of Scotland's most important prehistoric landscapes — and one of the least crowded major archaeological sites in Britain. The valley floor is lined with a series of Bronze Age burial cairns, standing stone circles, and carved rock faces that span several thousand years of human activity.

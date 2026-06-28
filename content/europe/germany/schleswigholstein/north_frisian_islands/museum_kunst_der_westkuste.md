@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.7083
 longitude: 8.5100
+score: 7.9
 ---
 
 The Museum Kunst der Westküste (Museum of West Coast Art) in Alkersum on Föhr is one of the more surprising cultural institutions in this part of Germany — a purpose-built museum dedicated to art depicting the North Sea coast, from Dutch Golden Age marine paintings through to contemporary works. The collection spans several centuries and multiple national traditions, reflecting the fact that the North Sea has been a subject for artists across northern Europe for centuries.

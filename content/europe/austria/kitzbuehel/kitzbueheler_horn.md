@@ -9,6 +9,7 @@ latitude: 47.4767
 longitude: 12.4308
 sources:
   - https://en.wikipedia.org/wiki/Kitzbühel
+score: 7.5
 ---
 
 The Kitzbüheler Horn rises to 1,996 metres on the northeast side of the valley, directly opposite the Hahnenkamm. It is the quieter of the two mountains — less famous than the Hahnenkamm, less steep in its ski runs, and more oriented towards families and beginners in winter. The Hornbahn cable car from the edge of town reaches the summit in about twenty minutes.

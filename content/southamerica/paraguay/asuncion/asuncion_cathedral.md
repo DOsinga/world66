@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -25.2816
 longitude: -57.6324
+score: 6.4
 ---
 
 The Metropolitan Cathedral of Asuncion stands on the Plaza de la Independencia — a large, yellow-painted neo-classical building that anchors the central square. The current structure dates from the 19th century, though a church has occupied the site since the earliest days of the colonial settlement. The interior is relatively plain but cool and quiet, making it a good place to pause during a walk around the historic centre.

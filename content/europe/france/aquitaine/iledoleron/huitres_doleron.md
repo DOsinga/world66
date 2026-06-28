@@ -8,6 +8,7 @@ latitude: 45.9200
 longitude: -1.2900
 story: >
   Oléron is one of France's major oyster-farming regions — about 4,500 hectares of the sheltered waters between the island and the mainland are given over to oyster beds. The technique has been practised here since Roman times; oysters were a major export from the nearby port of Saintes in antiquity. Modern cultivation is a slow business: an Oléron flat oyster takes four to five years to reach maturity.
+score: 8.2
 ---
 
 The sheltered eastern coast of Île d'Oléron, facing the mainland, is lined with oyster farms. At low tide, the beds are exposed — a strange low landscape of wooden poles and mesh cages stretching across the mudflats. The port of La Cayenne near Saint-Pierre-d'Oléron is the main oyster harbour, where producers sell direct from small huts along the quay.

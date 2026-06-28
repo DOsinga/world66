@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.9161
 longitude: 116.3426
+score: 6.8
 ---
 
 The museum dedicated specifically to the history and culture of Beijing, housed in a large modern building in the west of the city. The permanent collection covers Beijing's development from the earliest human settlements at Zhoukoudian through the successive dynasties, with particularly strong displays on the Yuan, Ming, and Qing periods when Beijing was the imperial capital. The collection of Buddhist art, bronze vessels, porcelain, and old maps of the city are the highlights.

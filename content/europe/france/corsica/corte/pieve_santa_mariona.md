@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3218
 longitude: 9.1577
+score: 6.2
 ---
 
 On the hillside above the northern edge of Corte stand the ruins of a medieval Corsican pieve — a type of rural ecclesiastical district church that was the basic unit of church organization in medieval Corsica. Santa Mariona di Talcini is one of the better-preserved examples, its Romanesque walls still intact in places though roofless, set in a landscape of maquis and scattered oak trees.

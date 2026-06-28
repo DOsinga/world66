@@ -8,6 +8,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Guide
 type: location
+score: 5.76
+snippet: Predominantly Tibetan city in eastern Qinghai, set on the clear upper Yellow
+  River.
 ---
 
 Guide — pronounced "Gwee-deh" and written 贵德 in Chinese — is a small predominantly Tibetan city in Hainan Prefecture, about 80 kilometres southwest of Xining on the upper Yellow River. The setting is exceptional: the river is clear and fast here, not yet muddied by the silt it accumulates downstream, and the surrounding landscape of red sandstone cliffs and green terraced farmland makes the town one of the most visually rewarding stops in eastern Qinghai.

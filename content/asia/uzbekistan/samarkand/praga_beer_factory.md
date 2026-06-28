@@ -6,6 +6,7 @@ tags:
 snippet: "Walk-through beer keg entrance, fresh brews, watch your bill"
 title: Praga Beer Factory
 type: poi
+score: 4.3
 ---
 
 A brewery with an attached bar where you can walk through a human-sized beer keg on the way in. The beer is fresh and inexpensive. Keep an eye on the bill — extras like complimentary beer nuts have a way of appearing on the check.

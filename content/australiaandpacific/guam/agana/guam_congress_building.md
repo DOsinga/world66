@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.3
 ---
 
 The Guam Congress Building, on Chalan Santo Papa next to the cathedral, is the seat of the Legislature of Guam (Lehislaturan Guåhan). The building, completed in 1947 in a sober tropical-modern style, is the working chamber where Guam's twenty-one senators meet — and the only legislative building in any U.S. territory outside the fifty states open to casual visitors.

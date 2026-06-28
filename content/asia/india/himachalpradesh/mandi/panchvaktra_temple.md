@@ -5,6 +5,7 @@ latitude: 31.7100
 longitude: 76.9295
 snippet: Five-faced Shiva temple at the river confluence
 tags: [things_to_do, sight, temple]
+score: 8.0
 ---
 
 The Panchvaktra is the most photographed temple in Mandi, set on a sandy spit at the confluence of the Beas and Suketi rivers. The temple is dedicated to Shiva in his five-faced form — Panchvaktra — representing the five elements, and the central statue inside the sanctum has five faces carved in black stone. The temple stones bear evidence of repeated flood damage; the Beas rises high here in the summer monsoon.

@@ -9,6 +9,7 @@ tags:
   - restaurant
   - old_town
 neighbourhood: Old Town
+score: 6.7
 ---
 
 Lokys (The Bear) has been operating in a Gothic cellar on Stiklių Street since 1972 — one of the few restaurants in Vilnius to predate independence. It specialises in traditional Lithuanian game: boar, venison, beaver, and elk, alongside the full range of potato and dairy dishes that form the backbone of Lithuanian cooking. The medieval cellar setting is authentic rather than contrived; the vaulted ceilings and stone walls were here long before the restaurant.

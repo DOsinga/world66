@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -29.7670
 longitude: 30.7780
+score: 8.0
 ---
 
 The Valley of a Thousand Hills is the spectacular ridge-and-valley landscape immediately west of Durban, where the Umgeni River carves through deep grass-covered hills on its way to the sea. The valley is Zulu heartland and the easiest day trip from the city for a taste of rural KwaZulu-Natal.

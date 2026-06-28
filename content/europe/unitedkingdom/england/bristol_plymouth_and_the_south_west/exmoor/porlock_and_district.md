@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cottages,_Turkey_Island,_P
 latitude: 51.195375
 loc_type: city
 longitude: -3.618544
-score: 0.52
+score: 7.61
+snippet: Exmoor village below Porlock Hill, surrounded by moorland roads, coastal
+  views, and wooded valleys.
 title: Porlock and District
 type: location
 ---

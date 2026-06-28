@@ -17,6 +17,7 @@ story: >
   three he built outside Catalonia.
 sources:
   - https://en.wikipedia.org/wiki/El_Capricho
+score: 9.1
 ---
 
 El Capricho is among Gaudí's earliest independent commissions — built in 1883–85 as a summer villa for a wealthy Cantabrian, it shows the young architect already pushing hard against convention. The exterior is covered in ceramic sunflower tiles that shimmer in the sea light, arranged with geometric precision. The tower takes the form of a minaret, signalling Gaudí's fascination with Moorish architecture that would deepen throughout his career. The interiors are full of his characteristic detail: cast-iron decorations, patterned surfaces, and a structure that feels organic rather than imposed.

@@ -8,6 +8,7 @@ tags:
   - sight
   - castle
 story: "Somoskő Castle sits exactly on the Hungary–Slovakia border — so precisely that when the post-Trianon borders were drawn in 1920, the castle ended up on the Slovak side while the village remained Hungarian. The two countries shared management for decades. The basalt waterfall just below the keep is a frozen river of hexagonal columns formed by the same volcanism that built Salgó."
+score: 8.5
 ---
 
 Somoskő — Šomoška in Slovak — is the second of the basalt-perched castles outside Salgótarján and arguably the more atmospheric. It is restored more thoroughly than Salgó, with the bastion roofed and the walls intact enough to wander, and the basalt waterfall just below the castle is a small geological wonder on its own. The hexagonal columns of the flow, frozen mid-cascade down the hillside, are an unmistakable sight.

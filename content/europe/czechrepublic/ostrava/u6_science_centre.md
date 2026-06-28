@@ -6,6 +6,7 @@ longitude: 18.2790
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 Inside the old engineering workshops of Lower Vítkovice, U6 is a hands-on science centre aimed at children and inquisitive adults. The exhibits run the gamut from gear trains and steam engines (still working, still loud) to electromagnetism and a giant tesla coil that fires sparks across the hall on the hour.

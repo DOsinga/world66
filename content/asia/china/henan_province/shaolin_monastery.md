@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20241103_Bell_Tower_of_Sha
 latitude: 34.5083
 loc_type: feature
 longitude: 112.9369
+score: 8.54
+snippet: Mount Song Buddhist monastery where Chan tradition and Shaolin martial arts
+  share one famous courtyard.
 sources:
 - https://en.wikipedia.org/wiki/Shaolin_Monastery
 title: Shaolin Monastery

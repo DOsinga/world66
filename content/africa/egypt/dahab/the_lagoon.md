@@ -12,6 +12,7 @@ story: >
   25 knots, making Dahab one of the most predictable kitesurfing venues in the world. Professional kitesurfers
   training here describe it as one of the few places where you can nearly guarantee flat water and strong wind
   simultaneously.
+score: 8.1
 ---
 
 The Lagoon is a broad, shallow sandy bay about 3 kilometres south of central Dahab, and the hub of the town's windsurfing and kitesurfing scene. A long sandbar encloses the inner bay, keeping the water flat and manageable, while the steady afternoon thermal wind arrives reliably enough to set your watch by. Several operators on the beach offer lessons, equipment rental, and full kitesurfing courses for all levels.

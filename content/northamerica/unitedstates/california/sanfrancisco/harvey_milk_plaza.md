@@ -2,13 +2,13 @@
 address: Castro St and Market St
 latitude: 37.7624
 longitude: -122.4353
+score: 7.2
 snippet: Memorial plaza and giant rainbow flag at the gateway to the Castro
 tags:
 - things_to_do
 - sight
 - castro_district
 title: Harvey Milk Plaza
-neighbourhood: Castro District
 type: poi
 ---
 

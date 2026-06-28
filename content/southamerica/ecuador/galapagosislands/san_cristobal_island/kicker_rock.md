@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kicker Rock (León Dormido)
 type: poi
+score: 9.5
 ---
 
 Kicker Rock is the most iconic landmark in San Cristóbal — two sheer volcanic tuff columns rising 150 metres above the ocean, separated by a narrow channel just wide enough for a small boat to pass through. The channel itself is one of the best snorkelling and diving sites in the Galápagos, with Galápagos sharks, hammerhead sharks, rays, sea turtles, and schools of fish moving through the gap in extraordinary numbers.

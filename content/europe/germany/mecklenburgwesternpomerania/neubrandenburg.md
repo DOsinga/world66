@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Neubrandenburg,_Germany_-_
 latitude: 53.5574
 loc_type: city
 longitude: 13.2603
-score: 0.4
+score: 6.69
+snippet: Mecklenburg lake-district city encircled by a nearly complete medieval brick
+  wall and four Gothic gates.
 title: Neubrandenburg
 type: location
 ---

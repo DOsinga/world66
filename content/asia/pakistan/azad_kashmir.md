@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 34.22
+loc_type: region
 longitude: 73.6511
 score: 0.46
+snippet: Mountain region of Pakistan-administered Kashmir, defined by pine valleys
+  between the Line of Control and Punjab plains
 title: Azad Kashmir
 type: location
-loc_type: region
 ---
 
 Azad Kashmir is the Pakistan-administered part of the disputed Kashmir region, a narrow strip of mountainous territory wedged between the Line of Control and the Punjab plains. It is one of the most scenically dramatic areas in South Asia -- terraced hillsides, fast-flowing rivers, dense pine forests, and valleys that disappear into cloud. If you want mountain landscapes without the infrastructure hassles of the Northern Areas, this is worth considering.

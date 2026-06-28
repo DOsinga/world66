@@ -7,6 +7,7 @@ tags:
 latitude: 6.1874
 longitude: 81.1974
 snippet: Coastal wetland reserve, Sri Lanka's top site for flamingos and migratory birds
+score: 8.6
 ---
 
 Bundala National Park is a coastal wetland about 15 km west of Tissamaharama, smaller and far less visited than Yala but outstanding for birdwatching. The park's network of brackish lagoons, saltpans and dry scrubland is a winter staging ground for thousands of migratory waders and waterfowl, and hosts Sri Lanka's largest concentration of greater flamingos between September and March.

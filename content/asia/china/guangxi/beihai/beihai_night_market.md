@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 21.4800
 longitude: 109.1200
+score: 6.8
 ---
 
 The seafood night markets clustered around Beihai's waterfront district are the main reason to be here after dark. Vendors grill, steam, and stir-fry fish, crab, prawns, and shellfish to order at open-air stalls, and the smell of charcoal and garlic from three streets away functions as reliable advertising. The Gulf of Tonkin produces a particular variety of crab and several species of shellfish not found further up the Chinese coast, and the Beihai preparation — heavy on garlic, ginger, and Guangxi spice paste rather than the more restrained Cantonese approach — suits the ingredients.

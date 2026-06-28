@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, history, sight]
 latitude: 32.3814
 longitude: -86.3033
+score: 7.3
 ---
 
 Six blocks of restored and relocated 19th-century buildings — log cabins, a corner grocery, a one-room schoolhouse, an African-American church, a doctor's office, several homes — assembled into a walkable open-air history museum just north of downtown. Costumed interpreters demonstrate weaving, blacksmithing, and other period skills.

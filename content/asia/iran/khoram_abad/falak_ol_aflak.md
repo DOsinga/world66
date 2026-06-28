@@ -14,6 +14,7 @@ tags:
 - museum
 title: Falak-ol-Aflak Castle
 type: poi
+score: 8.7
 ---
 
 One of the largest brick castles in the world, rising from a rocky hill in the centre of Khorramabad. The structure dates from the Sassanid period (3rd–7th century AD) though most of what stands today was built or rebuilt in later centuries. Eight circular towers frame the main structure; the walls are up to three metres thick in places.

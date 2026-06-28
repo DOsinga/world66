@@ -6,6 +6,7 @@ tags:
 - museum
 title: Guildhall Museum
 type: poi
+score: 6.9
 ---
 
 The Guildhall Museum occupies Rochester's 1687 Guildhall, a handsome building on the High Street whose ornate plaster ceiling is itself worth a look. The museum covers the history of Rochester and the Medway towns from prehistoric times to the 20th century, with particular attention to the area's long maritime and military history.

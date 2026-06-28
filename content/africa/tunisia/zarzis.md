@@ -6,7 +6,9 @@ done:
 latitude: 33.5037
 loc_type: city
 longitude: 11.1097
-score: 0.42
+score: 6.8
+snippet: Southern Tunisian fishing town of sandy beaches, olive groves, and a quiet
+  Gulf of Gabès port.
 title: Zarzis
 type: location
 ---

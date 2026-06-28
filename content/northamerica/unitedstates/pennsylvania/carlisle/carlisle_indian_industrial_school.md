@@ -11,6 +11,7 @@ story: >
   The school's founder, Captain Richard Henry Pratt, coined the phrase "Kill the Indian, save the man" — a blunt summary of the assimilationist policy that drove the institution. Children were forbidden to speak their languages or practice their traditions. Many never returned home. The cemetery on the Barracks grounds holds the graves of nearly 200 students who died here.
 sources:
   - https://en.wikipedia.org/wiki/Carlisle_Indian_Industrial_School
+score: 8.5
 ---
 
 From 1879 to 1918, the Carlisle Indian Industrial School educated — and by many accounts traumatised — thousands of Native American children from across the country. It was the first and largest of the government-run Indian boarding schools, and its influence spread to dozens of similar institutions. The school operated on the Carlisle Barracks grounds, and several original buildings survive.

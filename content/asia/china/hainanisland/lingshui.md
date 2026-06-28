@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lingshui_hainan_china_by_g
 latitude: 18.5499
 loc_type: city
 longitude: 110.0347
+score: 6.66
+snippet: Southeastern Hainan county of quieter beaches, coastal villages, and Nanwan
+  Monkey Island.
 sources:
 - https://en.wikivoyage.org/wiki/Lingshui
 title: Lingshui

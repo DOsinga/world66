@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.0950
 longitude: 11.7920
+score: 5.8
 ---
 
 The pedestrianised seafront walk runs from the cruise terminal south past Fort Michelangelo and on toward the marina — about a kilometre of palm-shaded promenade with benches, cafes, and a string of monuments (the Embracing Peace statue, Hasekura, a Garibaldi monument, the war memorial). It is the easiest way to fill a couple of hours between transport connections, and it is genuinely pleasant at sunset.

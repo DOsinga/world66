@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.5740
 longitude: 80.0286
+score: 6.5
 ---
 
 The beach at Kalutara stretches for several kilometres along the coast south of the Kalu Ganga, fringed by tall coconut palms that give the town much of its character. The sand is golden and the swimming is good in the calmer months, though the Indian Ocean swell can build significantly during the southwest monsoon season (May to October), when swimming becomes inadvisable.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Pekkatori was named in honour of Count Per Brahe (Pekka in Finnish), who founded the town in 1649. Brahe envisaged Raahe as a major Baltic trading port; he laid out the streets on the regular grid then fashionable in royal Swedish town-planning, with a square at the centre exactly large enough to drill a company of infantry."
+score: 6.8
 ---
 
 The central market square of the wooden old town, lined with brightly painted timber houses from the early 19th century. The square is the heart of Vanha Raahe and an excellent example of the strict grid planning that Sweden imposed on its new colonial towns around the Gulf of Bothnia.

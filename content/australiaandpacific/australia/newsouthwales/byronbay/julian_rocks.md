@@ -10,6 +10,7 @@ latitude: -28.6114
 longitude: 153.6289
 sources:
   - https://en.wikipedia.org/wiki/Nguthungulli_Julian_Rocks_Nature_Reserve
+score: 8.6
 ---
 
 Julian Rocks is a small rocky outcrop about 2.5 kilometres offshore from Main Beach, and one of the best dive and snorkel sites in New South Wales. The rocks sit at the meeting point of warm tropical currents from the north and cooler southern waters, which produces an unusually rich mix of marine life: leopard sharks, grey nurse sharks, manta rays, turtles, and hundreds of species of fish can all be seen here, depending on the season.

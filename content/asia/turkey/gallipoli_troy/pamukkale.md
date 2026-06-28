@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Pamukkale,_Denizli_2026_68
 latitude: 37.92
 loc_type: city
 longitude: 29.1218
-score: 0.7
+score: 9.23
 title: Pamukkale
+snippet: Turkish spa village below white travertine terraces and the Greco-Roman ruins
+  of Hierapolis.
 type: location
 ---
 

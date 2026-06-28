@@ -11,6 +11,7 @@ story: >
   The Hall was deliberately oriented so that Louis XIV's reflection would be
   the first thing ambassadors saw upon entering — a calculated display of power
   that was understood across Europe without a word being spoken.
+score: 10.0
 ---
 
 The Galerie des Glaces is the most celebrated room in France. Running the full length of the palace's west facade, it stretches 73 metres from end to end, lined on one side by 357 mirrors that face 17 arched windows looking out over the gardens. When lit with 20,000 candles for a royal reception the effect was — and still is — staggering.

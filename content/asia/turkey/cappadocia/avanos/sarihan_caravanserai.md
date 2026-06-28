@@ -15,6 +15,7 @@ story: >
   kilometres. A traveller could stay, eat, and have their animals cared for
   at no charge for three days — the cost covered by taxes on the trade the
   route generated. Sarihan's vaulted hall could shelter up to 300 camels.
+score: 7.4
 ---
 
 The Sarihan Caravanserai stands about five kilometres east of Avanos and is one of the best-preserved Seljuk hans in Cappadocia. Built in 1249, it served merchants travelling the Silk Road across Anatolia and was large enough to house hundreds of camels and their drivers in its vaulted winter hall and open summer courtyard.

@@ -8,6 +8,7 @@ tags:
   - museum
 latitude: 19.6919
 longitude: -80.05
+score: 6.5
 ---
 
 The Central Caribbean Marine Institute is a small but active reef-research station on the north shore of Little Cayman, near Jackson's Bight. It was founded in 2002 to study coral resilience, climate impacts, and reef recovery; the location is ideal because the surrounding marine park is one of the healthiest reef ecosystems in the Caribbean.

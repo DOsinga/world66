@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   Clearwater Beach has been named America's Best Beach by TripAdvisor multiple times, most recently topping the list in 2018 and 2019. The recognition brought a surge of visitors, but the beach had already been drawing crowds since the 1920s when the first causeway connected the barrier island to the mainland.
+score: 9.0
 ---
 
 Three miles of fine white quartz sand and calm, shallow Gulf water make Clearwater Beach one of the most popular stretches of coastline in Florida. The sand stays cool underfoot even in summer, and the water runs a striking shade of turquoise on clear days. Volleyball nets, umbrella rentals, and cabana setups line the main stretch, and the whole scene skews lively rather than secluded.

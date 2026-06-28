@@ -7,6 +7,7 @@ longitude: 5.9301
 address: Place Monsenergue, Toulon
 story: >
   The museum occupies the old gateway building of the Toulon arsenal, built under Louis XIV by Vauban. The royal portal — flanked by carved figures of Mars and Minerva — was designed by Pierre Puget, Toulon's most famous sculptor, in 1738. The building itself is an exhibit before you even get inside.
+score: 8.1
 ---
 
 The national naval museum in Toulon covers the city's maritime history from the establishment of Louis XIV's arsenal in the 17th century to the present day. It occupies a handsome stone building on the quay, built as the ceremonial gateway to the naval base.

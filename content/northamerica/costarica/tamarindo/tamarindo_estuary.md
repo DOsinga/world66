@@ -8,6 +8,7 @@ tags:
 latitude: 10.305
 longitude: -85.842
 snippet: Mangrove-lined river mouth, full of crocodiles and birds
+score: 7.4
 ---
 
 The estuary of the Tamarindo River separates the town from Las Baulas national park to the north. It is a dense mangrove ecosystem — five different species of mangrove, a long bird list, and a healthy population of American crocodiles that lie out on the muddy banks at low tide.

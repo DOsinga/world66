@@ -7,6 +7,7 @@ tags:
 latitude: 44.8380
 longitude: -0.5850
 snippet: Bordeaux's unloved 1970s administrative quarter — a useful counterpoint to all that 18th-century perfection
+score: 5.6
 ---
 
 Mériadeck is the district directly west of the city hall that was demolished and rebuilt as a modernist administrative quarter in the 1970s. It is largely the opposite of everything that makes Bordeaux beautiful: elevated walkways, brutalist government buildings, an underground shopping centre, and concrete on a substantial scale.

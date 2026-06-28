@@ -8,6 +8,7 @@ tags:
 title: Café Santropol
 type: poi
 snippet: "Plateau institution since 1976, creative sandwiches and house teas"
+score: 6.7
 ---
 
 A Montréal institution in the Plateau since 1976, Santropol serves creative sandwiches on thick bread stacked with unusual combinations — the Minted Ham (ham, mint, apples) is a favourite, as is the Killer Tomato for vegetarians. The teas are their own blends and worth trying. The old house with a garden terrace is pleasant in summer. Doubles as a social enterprise; profits support community food programs.

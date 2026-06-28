@@ -13,6 +13,7 @@ story: >
   zigzag through the cliff face, following the sound rock and avoiding the
   faulted sections. The result — nine turns through the mountain — was
   unplanned but became the gorge's most famous feature.
+score: 9.3
 ---
 
 The Tunnel of Nine Turns (Jiuqudong) is a 2-kilometre walking trail that winds through the narrowest and most dramatic inner section of Taroko Gorge. The trail alternates between open cliff-edge paths and tunnels blasted through marble spurs where the gorge walls left no room for an outside route. At the tightest points, the canyon is barely a few metres wide, the walls are sheer marble rising hundreds of metres, and the sound of the river below echoes back from both sides.

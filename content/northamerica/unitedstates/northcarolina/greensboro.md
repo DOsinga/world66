@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Blandwood_Mansion,_Greensb
 latitude: 36.072635
 loc_type: city
 longitude: -79.791975
-score: 0.38
+score: 6.07
+snippet: North Carolina Piedmont city where textile history meets the Woolworth lunch-counter
+  civil rights landmark.
 title: Greensboro
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Centro Histórico
+score: 6.9
 ---
 
 The cathedral of Santos was built in stages between 1909 and 1924 in a neo-Gothic style, with a single high facade and twin towers. Inside, the nave is unexpectedly luminous, with stained glass and painted vaults that catch the afternoon sun.

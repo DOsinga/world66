@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1MarmarisHafen_(13).JPG
 latitude: 36.852255
 loc_type: city
 longitude: 28.274266
-score: 0.64
+score: 8.57
+snippet: Southwestern Turkish resort town in a pine-fringed natural harbour between
+  the Aegean and Mediterranean.
 title: Marmaris
 type: location
 ---

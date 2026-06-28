@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 56.3399
 longitude: -2.7964
+score: 6.9
 ---
 
 Market Street is the middle of St Andrews's three parallel medieval streets — the commercial heart of the town, running east to west between the cathedral ruins and the edge of the Old Course. It is narrower and more intimate than the flanking North Street and South Street, lined with independent shops, cafes, pubs, and the occasional golf equipment retailer.

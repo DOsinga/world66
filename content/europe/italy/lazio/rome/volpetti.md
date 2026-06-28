@@ -10,6 +10,7 @@ tags:
 - testaccio
 title: Volpetti
 type: poi
+score: 8.4
 ---
 
 Volpetti is the finest salumeria in Rome and one of the best delicatessens in Italy — a family-run shop in Testaccio that has been selling extraordinary cheese, cured meats, truffles, oils, and wines since 1973. The staff are knowledgeable and generous with samples. The selection is overwhelming in the best way.

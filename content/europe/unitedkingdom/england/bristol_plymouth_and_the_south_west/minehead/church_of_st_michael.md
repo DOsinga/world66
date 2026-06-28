@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The mediaeval Church of St Michael sits high above the town on the slopes of North Hill, a steep walk up through the old village of Higher Town. The current building is largely 15th century, in pale local sandstone, with a tall west tower that doubled as a navigation mark for sailors crossing the Bristol Channel.

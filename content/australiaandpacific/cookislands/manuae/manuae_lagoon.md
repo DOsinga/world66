@@ -13,6 +13,7 @@ story: >
   mid-20th century when the copra trade became uneconomic, and the Cook Islands
   government has since protected the atoll as a nature reserve. The coconut palms
   planted for the copra industry still grow wild across the two islets.
+score: 8.6
 ---
 
 The lagoon enclosed within Manuae's coral reef is the defining feature of the atoll — a vast shallow basin of turquoise and jade water, sheltered from the Pacific swell by the surrounding reef. The water clarity is exceptional; coral formations are visible from the surface across much of the lagoon floor.

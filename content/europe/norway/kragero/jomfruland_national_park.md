@@ -15,6 +15,7 @@ story: >
   guided coastal traffic for over 150 years.
 sources:
   - https://en.wikipedia.org/wiki/Jomfruland_National_Park
+score: 8.5
 ---
 
 Jomfruland National Park covers the islands of Jomfruland and Stråholmen off the Kragerø coast, established in 2016 to protect a rare stretch of flat coastal landscape — entirely unlike the rugged terrain of most Norwegian national parks. The main island, Jomfruland, is long and narrow, mostly covered in dense deciduous forest and open heath, with sandy beaches on both sides. A network of paths and cycling tracks crosses the island, and the walk from the lighthouse at the south end to the ferry pier takes about two hours.

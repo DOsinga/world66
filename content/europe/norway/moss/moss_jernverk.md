@@ -6,6 +6,7 @@ latitude: 59.43944
 longitude: 10.66944
 sources:
   - https://en.wikipedia.org/wiki/Moss_Jernverk
+score: 6.8
 ---
 
 The Moss Ironworks operated from the seventeenth century through the industrial age, and the remains of the ironwork complex along the Mosselva river give the old town quarter its industrial character. The ironworks was one of the reasons Moss grew into a town at all — the combination of the waterfall that powered the machinery and the sheltered harbour that moved its products made this stretch of the Oslofjord coast commercially significant long before tourism arrived.

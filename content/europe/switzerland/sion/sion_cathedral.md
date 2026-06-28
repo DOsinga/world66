@@ -8,6 +8,7 @@ latitude: 46.2340
 longitude: 7.3594
 sources:
   - https://en.wikipedia.org/wiki/Sion_Cathedral
+score: 7.6
 ---
 
 The Cathedral of Notre-Dame du Glarier stands at the edge of the old town below the two hilltop fortresses, its Romanesque tower one of the oldest surviving structures in Sion. The current building is a mix of Romanesque and Gothic work, with a separate bell tower dating from the 11th century — the oldest part of the cathedral complex.

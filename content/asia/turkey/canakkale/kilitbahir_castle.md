@@ -8,6 +8,7 @@ tags:
 - sight
 - castle
 snippet: "1462 Ottoman fortress on the European shore — 'the lock of the sea'"
+score: 7.4
 ---
 
 Kilitbahir — "the lock of the sea" — is the European-shore companion to Çanakkale's Çimenlik Castle, built by Mehmed II in 1462 to chain the Dardanelles shut against any unauthorised shipping. Its plan is unusual: a triangular curtain wall enclosing a tall round keep, designed to maximise cannon coverage from the narrow promontory.

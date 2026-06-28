@@ -8,6 +8,7 @@ tags:
 title: Elephant Nature Park
 type: poi
 story: The park was founded by Lek Chailert, who began rescuing elephants from logging camps and tourist shows in the 1990s. Many of the elephants at the park bear injuries from their previous lives — broken legs from logging accidents, torn ears, and psychological trauma — all visible reminders of what domesticated elephants endure.
+score: 8.1
 ---
 
 Elephant Nature Park is a rescue and rehabilitation sanctuary for elephants about 60 kilometres north of Chiang Mai in the Mae Taeng valley. It's one of the most reputable elephant welfare operations in Thailand, and the right place to go if you want to spend time with elephants without contributing to exploitation.

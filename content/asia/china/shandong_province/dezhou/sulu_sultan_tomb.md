@@ -6,6 +6,7 @@ latitude: 37.4715
 longitude: 116.2947
 story: >
   Sultan Paduka Pahala of Sulu led a delegation of three hundred and forty people — family members, officials, and attendants — on a diplomatic mission to the Yongle Emperor's court in 1417. On the return journey south, he fell ill and died in Dezhou. The Ming court arranged a state funeral and built the tomb. The sultan's second son and his wife returned to the Philippines; the eldest son and youngest son remained in Dezhou with their families to tend the tomb, and their descendants have maintained the site continuously ever since. The Philippine government sends representatives to the annual memorial ceremony.
+score: 8.0
 ---
 
 The Tomb of Sultan Paduka Pahala of the Sulu Sultanate (in present-day southern Philippines) is one of the most unusual monuments in China — the only known tomb of a foreign head of state on Chinese soil, maintained continuously for over six hundred years. The sultan died in Dezhou in 1417 while returning from a tributary mission to the Ming court; the Yongle Emperor provided a state funeral and tomb, and descendants of his entourage have lived in Dezhou ever since to care for the site. The tomb was designated a national key cultural relic in 1988.

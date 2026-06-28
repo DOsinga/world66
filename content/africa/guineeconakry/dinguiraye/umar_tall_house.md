@@ -6,6 +6,7 @@ longitude: -10.6727
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 A small mud-walled compound next to the Grand Mosque, said to be the residence of El Hadj Umar Tall during the years he spent in Dinguiraye organising his religious community and preparing for the jihad. The buildings have been rebuilt many times but the layout follows the nineteenth-century original.

@@ -7,6 +7,7 @@ tags:
 latitude: -0.4900
 longitude: 37.6200
 story: "During the Mau Mau independence struggle in the 1950s, Kirimiri served as a hiding place for Embu fighters. General Kubu Kubu, one of the most celebrated Embu freedom fighters, operated from these forests, moving between the mountain's upper zones and the settlements below."
+score: 6.6
 ---
 
 Kirimiri is a forested hill north of Embu town that marks the transition between the settled farmland of the lower slopes and the montane forest proper that begins above 2,000 metres. The hill is accessible on foot or by vehicle from the Runyenjes road and offers good views across the Tana River valley and, on clear mornings, toward the distant ridgeline of Mount Kenya itself.

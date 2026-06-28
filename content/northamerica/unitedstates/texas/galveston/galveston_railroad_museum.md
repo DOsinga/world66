@@ -10,6 +10,7 @@ tags:
 address: 2602 Santa Fe Place, Galveston, TX
 sources:
   - https://en.wikipedia.org/wiki/Galveston_Railroad_Museum
+score: 7.5
 ---
 
 The Galveston Railroad Museum occupies the restored 1913 Santa Fe passenger terminal, one of the finest surviving examples of Mission Revival railway architecture in Texas. The terminal itself is worth seeing for the building alone — the arched windows, the tile floors, and the waiting rooms convey a sense of the railway age that most American cities lost when they demolished their stations.

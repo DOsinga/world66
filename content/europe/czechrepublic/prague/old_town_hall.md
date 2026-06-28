@@ -12,6 +12,7 @@ title: Old Town Hall
 type: poi
 story: >
   When the clock was completed in 1410, the city council is said to have blinded the master clockmaker Hanuš so he could never build another one elsewhere. Hanuš reportedly crawled up and jammed the mechanism in revenge — stopping the clock for over a century.
+score: 8.4
 ---
 
 The Old Town Hall is not a single building but a chain of medieval structures that accumulated along the square's western side over several centuries. The Gothic tower — with the Astronomical Clock embedded in its south wall — is the centrepiece, and the view from the top looks directly down onto the square's rooftop tangle of Gothic spires and baroque cupolas.

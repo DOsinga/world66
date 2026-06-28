@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.9282
 longitude: 79.8299
+score: 5.9
 ---
 
 The Pondicherry Botanical Garden was established by French botanists in 1826, making it one of the oldest botanical gardens in India. It spreads over about 22 hectares in the southern part of the city, with avenues of mature trees — rain trees, Alexandrian laurels, palm species — that provide shade rare in the surrounding heat.

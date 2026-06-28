@@ -8,6 +8,7 @@ latitude: 45.9436
 longitude: -1.3058
 story: >
   The cemetery of Saint-Pierre contains a 12th-century Romanesque "lanterne des morts" — a hollow stone column, one of the few surviving examples in France, originally lit from inside at night to mark the resting place of the dead. It stands 10 metres tall and predates the church next to which it stands by several centuries.
+score: 7.6
 ---
 
 Saint-Pierre-d'Oléron is the main town on the island, with a lively Saturday market in the central square that draws locals from across Île d'Oléron. The market sells Oléron oysters, island honey, goat's cheese, fresh fish, and local vegetables — it's one of the better Atlantic coast markets in the region and worth timing a visit around.

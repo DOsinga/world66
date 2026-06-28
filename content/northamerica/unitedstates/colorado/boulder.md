@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Balanced_Rock.jpg
 latitude: 40.014986
 loc_type: city
 longitude: -105.270545
-score: 0.65
+score: 8.34
+snippet: Colorado university city at the foot of the Flatirons, shaped by trails,
+  campuses, and Pearl Street.
 title: Boulder
 type: location
 ---

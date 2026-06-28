@@ -8,6 +8,7 @@ tags:
 latitude: 38.9644
 longitude: -122.6744
 story: "Archaeological evidence suggests the Cache Creek wetlands here have been continuously occupied by human populations for at least 10,000 years, making Anderson Marsh one of the oldest continuously inhabited sites in California. The Pomo people built extensive fish weirs in Cache Creek, whose remains are still visible in some conditions."
+score: 8.0
 ---
 
 Anderson Marsh sits at the southern end of Clear Lake where Cache Creek enters the lake, preserving tule marsh, oak woodland, and grassland habitats in a largely undisturbed state. More than 160 bird species have been recorded here, and the wetlands support significant populations of egrets, herons, and wintering waterfowl.

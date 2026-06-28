@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Guga
 type: poi
+score: 3.8
 ---
 
 A welcoming restaurant with several rooms, some with fireplaces. Good homestyle Georgian food at very low prices. The menu has no printed prices, so agree on costs before ordering. Some English is spoken.

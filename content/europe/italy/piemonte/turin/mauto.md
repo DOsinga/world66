@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.0334
 longitude: 7.6797
+score: 7.9
 ---
 
 Turin built most of Italy's cars for a century, and the National Automobile Museum is the official monument to that fact. Two hundred vehicles, dating from 1769 to the present, are arranged across a dramatic three-storey hall designed by Spanish architect François Confino as a sequence of cinematic set-pieces.

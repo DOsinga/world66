@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 9.9589
 longitude: 126.0131
+score: 7.7
 ---
 
 Tayangban Cave Pool is a freshwater swimming hole inside a cave system in the municipality of Pilar, in the northern part of Siargao. Cool, clear water fills the cave floor, and shafts of light enter through cracks in the limestone ceiling, creating an otherworldly atmosphere. The water is clean enough to drink.

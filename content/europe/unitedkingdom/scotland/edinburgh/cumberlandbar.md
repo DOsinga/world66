@@ -3,10 +3,11 @@ address: 1-3 Cumberland Street, Edinburgh EH3 6RT
 latitude: 55.958966
 longitude: -3.197166
 phone: 0131 558 3134
+score: 7.4
 snippet: Handsome New Town pub with one of Edinburgh's best beer gardens
 tags:
 - bars_and_cafes
-- new_town
+- newtown
 - bar
 title: The Cumberland Bar
 type: poi

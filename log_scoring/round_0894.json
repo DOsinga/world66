@@ -1,200 +1,200 @@
 {
   "round": 894,
-  "timestamp": "2026-04-12T14:48:02",
+  "timestamp": "2026-06-13T19:59:24",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Lucerne",
-      "path": "europe/switzerland/lucerne_2",
-      "prior_score": 10.0001,
-      "prior_variance": 1.513217,
-      "prior_n": 2
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -7.8102,
+      "prior_variance": 0.775958,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Taipei",
-      "path": "asia/taiwan/taipei",
-      "prior_score": 11.0451,
-      "prior_variance": 2.232433,
-      "prior_n": 1
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -8.6199,
+      "prior_variance": 0.838978,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Christchurch",
-      "path": "australiaandpacific/newzealand/canterbury/christchurch",
-      "prior_score": 4.6495,
-      "prior_variance": 2.3009,
-      "prior_n": 1
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -6.72,
+      "prior_variance": 0.4803,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Butrint",
-      "path": "europe/albania/butrint",
-      "prior_score": 5.672,
-      "prior_variance": 1.793428,
-      "prior_n": 1
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -8.996,
+      "prior_variance": 1.039177,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Gallipoli",
-      "path": "asia/turkey/gallipoli",
-      "prior_score": 5.4941,
-      "prior_variance": 1.422675,
-      "prior_n": 1
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -9.5736,
+      "prior_variance": 1.199964,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Krakatoa",
-      "path": "asia/indonesia/krakatoa",
-      "prior_score": 1.487,
-      "prior_variance": 1.67549,
-      "prior_n": 1
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -9.0104,
+      "prior_variance": 1.235649,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Tashkent",
-      "path": "asia/uzbekistan/tashkent",
-      "prior_score": 3.2477,
-      "prior_variance": 1.681957,
-      "prior_n": 1
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -7.3434,
+      "prior_variance": 0.773578,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Jakarta",
-      "path": "asia/indonesia/java/jakarta",
-      "prior_score": -0.1476,
-      "prior_variance": 1.557656,
-      "prior_n": 1
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -7.5412,
+      "prior_variance": 0.820708,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Bitola",
-      "path": "europe/macedonia/bitola",
-      "prior_score": 0.5544,
-      "prior_variance": 0.644786,
+      "title": "Meizhou",
+      "path": "asia/china/guangdong/meizhou",
+      "prior_score": -2.1845,
+      "prior_variance": 0.592898,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Asuncion",
-      "path": "southamerica/paraguay/asuncion",
-      "prior_score": -1.8745,
-      "prior_variance": 0.798888,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -7.667,
+      "prior_variance": 0.683532,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Roenne",
-      "path": "europe/denmark/roenne",
-      "prior_score": 0.2651,
-      "prior_variance": 1.419253,
-      "prior_n": 1
-    },
-    {
-      "rank": 12,
-      "title": "Altena",
-      "path": "europe/germany/northrhinewestphalia/altena",
-      "prior_score": -3.4109,
-      "prior_variance": 1.724091,
-      "prior_n": 1
-    },
-    {
-      "rank": 13,
-      "title": "Ulm",
-      "path": "europe/germany/badenwrttemberg/ulm",
-      "prior_score": 1.4155,
-      "prior_variance": 0.504388,
-      "prior_n": 4
-    },
-    {
-      "rank": 14,
-      "title": "Cisano sul Neva",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
-      "prior_score": 1.1183,
-      "prior_variance": 1.488763,
-      "prior_n": 1
-    },
-    {
-      "rank": 15,
-      "title": "Yap",
-      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
-      "prior_score": 1.8251,
-      "prior_variance": 1.441167,
-      "prior_n": 1
-    },
-    {
-      "rank": 16,
-      "title": "San Jose",
-      "path": "northamerica/unitedstates/california/san_jose",
-      "prior_score": -5.5309,
-      "prior_variance": 1.198826,
-      "prior_n": 1
-    },
-    {
-      "rank": 17,
-      "title": "Escondido",
-      "path": "northamerica/unitedstates/california/sandiego/escondido",
-      "prior_score": -1.2488,
-      "prior_variance": 1.27576,
-      "prior_n": 1
-    },
-    {
-      "rank": 18,
-      "title": "Forestville",
-      "path": "northamerica/unitedstates/california/northcoast/forestville",
-      "prior_score": -2.0449,
-      "prior_variance": 1.583239,
-      "prior_n": 1
-    },
-    {
-      "rank": 19,
-      "title": "Tahlequah",
-      "path": "northamerica/unitedstates/oklahoma/tahlequah",
-      "prior_score": -3.7377,
-      "prior_variance": 1.273186,
-      "prior_n": 1
-    },
-    {
-      "rank": 20,
-      "title": "Henryetta",
-      "path": "northamerica/unitedstates/oklahoma/henryetta",
-      "prior_score": -10.4242,
-      "prior_variance": 2.223068,
-      "prior_n": 1
-    },
-    {
-      "rank": 21,
-      "title": "Manahawkin",
-      "path": "northamerica/unitedstates/newjersey/manahawkin",
-      "prior_score": -3.8384,
-      "prior_variance": 1.389376,
-      "prior_n": 1
-    },
-    {
-      "rank": 22,
-      "title": "Gharyan",
-      "path": "africa/libya/gharyan",
-      "prior_score": -12.085,
-      "prior_variance": 8.020094,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -8.2024,
+      "prior_variance": 0.630814,
       "prior_n": 2
     },
     {
+      "rank": 12,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -7.7899,
+      "prior_variance": 0.525101,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -7.6754,
+      "prior_variance": 0.51324,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -8.2161,
+      "prior_variance": 0.664725,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -6.0156,
+      "prior_variance": 0.711781,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -7.6695,
+      "prior_variance": 0.443474,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -8.7469,
+      "prior_variance": 0.662033,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -10.2547,
+      "prior_variance": 0.793823,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ledu",
+      "path": "asia/china/qinghai/ledu",
+      "prior_score": -6.8655,
+      "prior_variance": 0.706085,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -6.766,
+      "prior_variance": 0.622894,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -10.5162,
+      "prior_variance": 1.046133,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -7.4427,
+      "prior_variance": 0.80766,
+      "prior_n": 3
+    },
+    {
       "rank": 23,
-      "title": "Pallandri",
-      "path": "asia/pakistan/azad_kashmir/pallandri",
-      "prior_score": -4.8194,
-      "prior_variance": 1.478236,
-      "prior_n": 1
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.8558,
+      "prior_variance": 0.723555,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Hajira",
-      "path": "asia/pakistan/azad_kashmir/rawalacoat/hajira",
-      "prior_score": -6.1625,
-      "prior_variance": 1.394473,
-      "prior_n": 1
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -7.6975,
+      "prior_variance": 0.695964,
+      "prior_n": 2
     }
   ]
 }

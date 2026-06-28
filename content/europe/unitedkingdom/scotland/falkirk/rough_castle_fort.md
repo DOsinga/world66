@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Rough_Castle
 story: >
   Rough Castle is one of the best-preserved forts on the Antonine Wall, Rome's northernmost frontier in Britain. The wall was built around AD 142, during the reign of Emperor Antoninus Pius, and stretched 63 kilometres from the Firth of Forth to the Firth of Clyde. It was held for only about 20 years before the Romans retreated south to Hadrian's Wall — leaving behind earthworks that are still clearly visible nearly 2,000 years later.
+score: 8.5
 ---
 
 Rough Castle is one of the most complete Roman forts in Scotland, a rectangular earthwork defended by multiple ditches cut into the ground west of Falkirk. The outer defensive pits — called lilia — are still clearly visible, and the sheer depth and regularity of them gives a real sense of the effort the Romans put into making this a defensible position. The site is in the care of Historic Environment Scotland and is freely accessible.

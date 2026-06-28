@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.0689
 longitude: 14.2596
 address: Marsalforn, Żebbuġ, Gozo
+score: 6.1
 ---
 
 Marsalforn is Gozo's largest seaside resort — modest by international standards, but the busiest place on the island outside Victoria. A long stone promenade curves around the bay, lined with restaurants, gelaterias, and dive schools. The swimming areas are split between the small sandy beach in the centre, the rocky slabs at either end, and the saltpans cut into the rocks west of the village.

@@ -4,10 +4,12 @@ admission: £32 adults, £27 children (cheaper booked online in advance)
 latitude: 51.5032
 longitude: -0.1158
 opening_hours: Daily from 10am (closing times vary by season)
+score: 6.9
 snippet: South Bank observation wheel with sweeping city panoramas
 tags:
 - things_to_do
 - landmark
+- south_bank
 title: London Eye
 type: poi
 url: www.londoneye.com

@@ -7,6 +7,7 @@ tags:
 latitude: 34.0189
 longitude: -118.4864
 snippet: "A small local history museum covering the city from Tongva settlement to postwar development"
+score: 7.2
 ---
 
 The Santa Monica History Museum on 7th Street covers the city's development from the Tongva people who lived in the area for thousands of years through the Spanish mission period, the late-19th-century beach resort era, and the 20th-century growth of the city. The museum is small and the exhibitions are well curated rather than exhaustive — you can cover it in an hour.

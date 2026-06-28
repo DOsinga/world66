@@ -6,7 +6,7 @@ tags:
 - eating_out
 - food
 title: Soba and Udon
-type: poi
+type: theme
 ---
 
 Soba and udon are Japan's traditional noodles. Soba noodles are made from buckwheat flour, and are thin and brown or gray in color. Udon noodles are made from white flour, and are quite wide. Although some establishments specialize as *soba-ya* or *udon-ya*, especially in regions known for one or the other, most restaurants offer both, with the same set of dishes available in either noodle.

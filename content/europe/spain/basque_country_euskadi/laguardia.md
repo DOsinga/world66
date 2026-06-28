@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-02'
 latitude: 42.5535
+loc_type: city
 longitude: -2.5851
+score: 7.88
+snippet: Fortified Rioja Alavesa wine village with vineyard views and medieval cellars
+  under its streets
+sources:
+- https://en.wikipedia.org/wiki/Laguardia,_%C3%81lava
+- https://en.wikipedia.org/wiki/Church_of_Santa_Mar%C3%ADa_de_los_Reyes
+- https://en.wikipedia.org/wiki/Rioja_Alavesa
 title: Laguardia
 type: location
-score: 0.57
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Laguardia,_%C3%81lava
-  - https://en.wikipedia.org/wiki/Church_of_Santa_Mar%C3%ADa_de_los_Reyes
-  - https://en.wikipedia.org/wiki/Rioja_Alavesa
 ---
 
 Laguardia is a fortified hilltop village in the heart of the Rioja Alavesa wine country, just south of the Basque Country border with La Rioja. The views from its medieval ramparts sweep across vineyards in every direction, with the Sierra de Cantabria rising behind.

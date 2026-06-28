@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%D7%94%D7%9E%D7%A6%D7%95%D
 latitude: 31.7683
 loc_type: city
 longitude: 35.2137
-score: 0.76
+score: 9.74
+snippet: Ancient hill city sacred to Judaism, Christianity, and Islam, centred on
+  the walled Old City.
 title: Jerusalem
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
 latitude: 50.6358
 longitude: 3.0671
 snippet: Soaring Flemish Gothic church with five naves of equal height — the classic Hallekerque design
+score: 7.9
 ---
 
 Saint-Maurice is the most purely Flemish of Lille's churches — a **hallekerque** (hall church), meaning all five naves are of equal height, creating a vast, luminous, column-filled interior quite unlike the French Gothic norm where a tall central nave dominates and the side aisles are clearly subordinate. The effect is horizontal and democratic, the columns so slender they seem barely adequate to support the stone vaulting above.

@@ -11,6 +11,7 @@ story: >
   The wildebeest calving season concentrates so much predatory activity in such a small area that researchers have described it as one of the most intense predator-prey interactions in nature. Lions, cheetahs, hyenas, and wild dogs all converge on the same area at the same time, all competing for the same abundant and vulnerable prey. A single morning drive in the Ndutu area in February can produce more predator sightings than a week in most other parks.
 sources:
   - https://en.wikipedia.org/wiki/Serengeti_National_Park
+score: 8.9
 ---
 
 The short-grass southern plains around Ndutu, at the border between the Serengeti and the Ngorongoro Conservation Area, are where the wildebeest calving season reaches its peak between January and March. The volcanic soil produces short, mineral-rich grass that gives calves the best start, and the open terrain makes sightings easy. Up to 400,000 calves can be born within a few weeks — a biological pulse that drives an extraordinary concentration of predator activity.

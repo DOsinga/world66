@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: The original medieval village that predates the Victorian resort — quieter, older, more characterful
+score: 7.6
 ---
 
 Eastbourne Old Town is the nucleus around which the Victorian resort grew. A quiet cluster of streets around the Church of St Mary the Virgin, it has a completely different character from the seafront: older buildings, a few traditional pubs, independent shops, and the kind of unhurried pace that suggests most of its visitors are locals rather than tourists.

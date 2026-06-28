@@ -5,6 +5,7 @@ tags:
   - bars_and_cafes
 latitude: 54.7855
 longitude: 9.4312
+score: 7.7
 ---
 
 Flensburg's harbour district has several bars specialising in rum, the drink that made the city wealthy. These are not tiki bars or tropical-themed novelty venues — they are serious establishments where bartenders can describe the provenance and character of dozens of Caribbean rums, many of which passed through Flensburg as part of the historic rum trade. The selection typically includes aged single-estate rums from Jamaica, Barbados, and Trinidad alongside the local Flensburg blended rums.

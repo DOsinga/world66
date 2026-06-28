@@ -1,7 +1,10 @@
 ---
 address: 154 Naresdamri Road - opposite Hilton Brewery
 email: mailbox@all-seasons-restaurant.net
+latitude: 12.57
+longitude: 99.9585
 phone: 032 512 979
+score: 4.6
 tags:
 - eating_out
 - restaurant

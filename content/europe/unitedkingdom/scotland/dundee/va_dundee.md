@@ -11,6 +11,7 @@ story: >
   appears solid from one direction and full of openings from another. The
   arched void cut through the middle of the building deliberately frames
   the RRS Discovery, the city's other waterfront landmark.
+score: 9.0
 ---
 
 The V&A Dundee opened in 2018 as Scotland's first dedicated design museum and instantly gave the city the landmark it had been searching for. The permanent Scottish Design Galleries upstairs tell the story of design in Scotland from the early industrial period to the present — textiles, ceramics, furniture, video games, and the world's first piece of designer denim. The centrepiece is the reconstructed 1907 Charles Rennie Mackintosh Oak Room, dismantled from Miss Cranston's Ingram Street tearooms in Glasgow and painstakingly reassembled here.

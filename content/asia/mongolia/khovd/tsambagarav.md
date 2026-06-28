@@ -6,6 +6,7 @@ longitude: 90.85
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Tsambagarav is a 4,208-metre peak in the northern Altai, the heart of a national park on the border between Khovd and Bayan-Ölgii provinces. The mountain is sacred to both Kazakh and Mongolian herders, and the surrounding valleys hold some of the densest snow-leopard habitat in the country.

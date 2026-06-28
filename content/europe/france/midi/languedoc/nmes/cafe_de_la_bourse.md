@@ -7,6 +7,7 @@ snippet: A 19th-century terrace cafe facing the Arena
 tags:
 - bars_and_cafes
 - cafe
+score: 5.9
 ---
 
 Café de la Bourse, directly opposite the Arena, has a sweeping terrace facing the Roman amphitheatre — there is no better place in Nîmes for a coffee or an apéritif with a view. The interior is high-ceilinged and stately, in the way of grand provincial brasseries; the terrace is what people come for.

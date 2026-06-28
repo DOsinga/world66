@@ -12,6 +12,7 @@ story: >
   The caves were revealed during road works on the old coastal route, a very
   Jijel kind of discovery: infrastructure blasting through the cliff and
   suddenly exposing a natural chamber full of calcite formations.
+score: 7.4
 ---
 
 The Grottes Merveilleuses are limestone caves in the cliffs of the Jijel corniche, near Ziama Mansouriah and inside the wider Taza National Park landscape. Their main chamber is known for stalactites, stalagmites, calcite curtains, and the theatrical feeling of stepping straight from a coastal road into an underground hall.

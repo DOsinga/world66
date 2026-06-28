@@ -7,6 +7,7 @@ snippet: Family attraction with miniature golf, dinosaur exhibits and a small zo
 tags:
 - things_to_do
 - sight
+score: 4.9
 ---
 
 Lake George Expedition Park sits a few minutes north of the centre, just before the Lake George village line. It bundles together half a dozen of the area's roadside attractions — Magic Forest, a small kids' park with vintage rides; Dino Roar Valley, an animated dinosaur walk; the World's Largest Uncle Sam statue; mini-golf — under a single ticket.

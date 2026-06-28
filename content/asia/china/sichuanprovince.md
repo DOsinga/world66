@@ -3,6 +3,8 @@ done:
   location_cleanup: 2026-04-02
 latitude: 30.5
 loc_type: region
+snippet: Western Chinese province of spicy food, panda country, Tibetan highlands,
+  and Yangtze river gorges
 longitude: 102.5
 score: 0.62
 sources:

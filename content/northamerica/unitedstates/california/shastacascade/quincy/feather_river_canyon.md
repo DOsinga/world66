@@ -13,6 +13,7 @@ story: >
   the scenic alternative to the Central Pacific. Trains still run through the
   canyon today, though now as freight only — the passenger service was
   discontinued in 1970.
+score: 8.4
 ---
 
 Highway 70 follows the Feather River through a spectacular gorge as it descends from the high Sierra to the Sacramento Valley. The canyon walls rise hundreds of feet on either side, the river runs fast and clear through the rocks below, and the Union Pacific railroad tracks wind along the opposite bank through tunnels and across trestles. It is one of the more dramatic drives in California.

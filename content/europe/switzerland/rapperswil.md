@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Rapperswil_-_Hafen_-_Schlo
 latitude: 47.2267
 loc_type: city
 longitude: 8.8222
+score: 8.55
+snippet: Medieval Lake Zurich town of roses, castle towers, lakeside promenades, and
+  an unexpected Polish exile museum.
 sources:
 - https://en.wikipedia.org/wiki/Rapperswil-Jona
 - https://en.wikivoyage.org/wiki/Rapperswil

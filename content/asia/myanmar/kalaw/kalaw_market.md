@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market, sight]
 latitude: 20.6357
 longitude: 96.5669
+score: 7.5
 ---
 
 Kalaw's central market is one of the most ethnically diverse in Shan State. On market days — which rotate on a five-day cycle shared across the surrounding villages — Pa-O women in black dress and indigo turbans arrive alongside Danu traders, Taung Yo farmers, and Indian shopkeepers whose families have been in Kalaw for generations. The range of highland vegetables is extraordinary: wild mushrooms, fresh turmeric, bitter gourds, and a dozen varieties of greens that rarely make it to the lowlands.

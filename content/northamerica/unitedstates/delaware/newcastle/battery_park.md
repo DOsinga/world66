@@ -8,6 +8,7 @@ latitude: 39.6579
 longitude: -75.5648
 sources:
   - https://en.wikipedia.org/wiki/Battery_Park_(Delaware)
+score: 6.5
 ---
 
 Battery Park occupies the southern tip of New Castle's historic core, a thin strip of riverfront land between the Delaware River and Delaware Street. The park is named for the gun battery that once protected the town from river attack. Today it is a pleasant open green with a bandstand, benches, and direct views across the wide Delaware to the New Jersey shore.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Corktown
 title: Sugar House
 type: poi
+score: 6.8
 ---
 
 When the Sugar House opened in Corktown in 2011, it was one of the first bars in Detroit doing the new wave of cocktail bar seriously — house-made bitters, hand-cut ice, a printed bound menu thicker than most bibles. It is still one of the best. The room is dark, narrow, and welcoming, with tin ceilings and a long marble bar.

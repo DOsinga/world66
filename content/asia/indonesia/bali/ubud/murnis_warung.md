@@ -7,6 +7,7 @@ tags:
 latitude: -8.5060
 longitude: 115.2554
 snippet: Ubud institution perched over the Campuhan gorge, open since 1974
+score: 6.8
 ---
 
 Murni's Warung opened in 1974 and is one of the oldest continuously operating restaurants in Ubud. It perches directly above the Campuhan river gorge near the western bridge, on multiple levels that descend into the ravine, with the river audible below and the forested slopes rising opposite. The menu covers Indonesian and Balinese dishes alongside Western options, and the quality is consistently good — this is a place that survives not on novelty but on execution.

@@ -13,6 +13,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 5.9
 ---
 
 Vingis Park occupies a large forested peninsula formed by a bend of the Neris River, a twenty-minute walk from the old town. The park is Vilnius's main green space for outdoor recreation — walking, cycling, running, and in summer swimming in the river. The large amphitheatre in the park hosts the Lithuanian Song Festival every four years, drawing hundreds of thousands of participants and spectators.

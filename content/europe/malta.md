@@ -13,7 +13,8 @@ quick_facts:
   Currency: Euro
   Megalithic Temples: Older than the Pyramids
   Population Density: "1,680 per km²"
-score: 0.6
+score: 0.65
+snippet: "Mediterranean island country with prehistoric temples, fortified harbours, and layered Phoenician, Arab, and Knights history."
 title: Malta
 type: location
 loc_type: country

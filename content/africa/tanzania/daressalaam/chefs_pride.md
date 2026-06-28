@@ -8,6 +8,7 @@ tags:
 - posta
 title: Chef's Pride
 type: poi
+score: 6.4
 ---
 
 A no-frills two-storey restaurant in the Indian quarter at Kisutu, Chef's Pride has been packed at lunchtime for twenty years. The menu runs to several hundred dishes — Indian, Swahili, Continental — but you order the biryani (chicken or mutton), the chapati, a fresh lime soda, and watch the room work. The crowd is half local clerks on a lunch break and half taxi drivers waiting for fares; the turnover is fast, the food unfussy, the bill startlingly cheap.

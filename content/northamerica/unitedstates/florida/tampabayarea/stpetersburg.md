@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:4th_St_Petersburg,_Florida
 latitude: 27.7731
 loc_type: city
 longitude: -82.64
-score: 0.54
+score: 8.02
+snippet: Pinellas Peninsula city with Gulf beaches, a walkable downtown, and the Salvador
+  Dalí Museum.
 title: St. Petersburg
 type: location
 ---

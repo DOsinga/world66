@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   The Cherokee Outlet land run on 16 September 1893 was the largest single-day land rush in American history: over 100,000 people lined up along the border and raced to stake claims at noon. Enid was founded that day — the townsite was staked out within hours. The violence, fraud, and chaos of that founding has defined Oklahoma's relationship with land ownership ever since.
+score: 8.4
 ---
 
 This is the best museum in the region for understanding the land run of 1893 that created northern Oklahoma. The Cherokee Outlet was six million acres of land ceded by the Cherokee Nation and then opened to white settlement in a single day — and the Heritage Center tells that story with real depth, covering both the settler experience and the Native American perspective without glossing either.

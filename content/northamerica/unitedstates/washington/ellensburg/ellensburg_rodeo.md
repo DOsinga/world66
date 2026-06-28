@@ -7,6 +7,7 @@ tags:
 latitude: 46.9987
 longitude: -120.5327
 story: "The Ellensburg Rodeo has run every Labor Day weekend since 1923 and is one of the original 'top 25' rodeos on the Professional Rodeo Cowboys Association tour. Cowboys come from across the West to compete; the town's population doubles for the weekend."
+score: 8.3
 ---
 
 The Ellensburg Rodeo is the centrepiece of Labor Day weekend in central Washington — four days of bull riding, bronc busting, calf roping, and barrel racing at the rodeo grounds on Eighth Avenue, paired with the Kittitas County Fair next door. Tickets sell out months in advance.

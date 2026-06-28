@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.6372
 longitude: 39.7501
+score: 6.5
 ---
 
 The Spaso-Preobrazhensky (Transfiguration) Monastery stands on the bank of the Trubezh River, clearly visible from the Kremlin walls across the water. Founded in the thirteenth century and rebuilt over subsequent centuries, it presents an attractive ensemble of white-walled buildings with a distinctive bell tower. The monastery is still active and the grounds are open to visitors.

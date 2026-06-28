@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.131
 longitude: 53.7611
+score: 7.8
 ---
 
 The Liwa International Festival is an annual event held in late December and early January, timed to coincide with the date harvest season. It is the most animated time to visit this otherwise very quiet corner of the UAE. The festival fills the Liwa area with dune-climbing races (including the famous Tal Moreeb motor challenge), camel competitions, a date market selling dozens of varieties, falconry displays, and traditional crafts.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 snippet: "Baroque royal summer residence, now a military academy — exterior and gardens open"
 latitude: 55.6737
 longitude: 12.5185
+score: 7.3
 ---
 
 Frederiksberg Palace is a Baroque royal summer residence built by Frederik IV in the early 18th century, set on a hill at the top of Frederiksberg Gardens. The palace is not open to the public — it has served as a military academy since 1869 — but the exterior and the gardens around it are free to access and worth the walk up from the park.

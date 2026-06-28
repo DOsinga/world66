@@ -8,6 +8,7 @@ tags:
 - sight
 title: Daytona Beach Pier and Boardwalk
 type: poi
+score: 6.8
 ---
 
 The Daytona Beach Pier stretches 1,000 feet into the Atlantic from the foot of Main Street, a wooden landmark that has anchored the city's tourist district since 1925. It is one of the longest wooden piers on the East Coast and the centrepiece of the small boardwalk area, with Joe's Crab Shack at its end and arcade halls, ice-cream parlours, and bars lining the street that leads to it. Fishing from the pier is open to the public; rods and bait are available from the shop at the entrance.

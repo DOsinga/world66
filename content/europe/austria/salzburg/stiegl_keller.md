@@ -8,6 +8,7 @@ tags:
   - restaurant
   - bar
   - altstadt
+score: 7.3
 ---
 
 Cut into the side of the Festungsberg directly below the fortress, the Stiegl-Keller has a stepped beer garden facing the city — five terraces of long shared tables under chestnut trees, full to bursting on warm evenings. The view is essentially the same as the famous Festung view, but with a beer.

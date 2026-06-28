@@ -1,14 +1,18 @@
 ---
 address: Bulevardul Primăverii 50, Bucharest
 latitude: 44.4651
-loc_type: feature
 longitude: 26.0985
+score: 7.4
 snippet: Ceaușescu's astonishingly kitsch private mansion, now a museum
+story: Nicolae and Elena Ceaușescu lived here from 1965 until they fled by helicopter
+  from the roof of the Central Committee in December 1989. The peacock-themed gold
+  bathroom, the indoor pool decorated with a mosaic of marine life, and the cinema
+  with eighteen leather seats are all preserved exactly as the couple left them.
 tags:
 - things_to_do
 - museum
 title: Primaverii Palace (Ceaușescu Mansion)
-story: "Nicolae and Elena Ceaușescu lived here from 1965 until they fled by helicopter from the roof of the Central Committee in December 1989. The peacock-themed gold bathroom, the indoor pool decorated with a mosaic of marine life, and the cinema with eighteen leather seats are all preserved exactly as the couple left them."
+type: poi
 ---
 
 The private home of Nicolae and Elena Ceaușescu from the mid-1960s until the revolution of December 1989, opened to the public in 2016 and largely unchanged since the couple fled. The 80 rooms are decorated with the singular taste of dictators with unlimited budgets — peacocks embroidered on the silk wall coverings, gold mosaics in the bathrooms, an indoor swimming pool lined with sea creatures, a private cinema, and a winter garden full of tropical plants.

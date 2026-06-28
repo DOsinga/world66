@@ -8,6 +8,7 @@ tags:
   - art
 title: "Musee d'Art Moderne"
 type: poi
+score: 8.4
 ---
 
 The Musee d'Art Moderne is the reason many travellers come to Ceret. Its collection connects the town to Picasso, Braque, Gris, Soutine, Chagall, and other artists who found the Pyrenean light and Catalan setting irresistible.

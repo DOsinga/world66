@@ -8,6 +8,7 @@ tags:
   - architecture
   - sight
 story: "The grand domed capitol at Ngerulmud was completed in 2006 with funding from Taiwan. Critics call it wildly oversized for a country of 18,000 people; defenders say a nation deserves a proper seat of government regardless of its size."
+score: 6.8
 ---
 
 The Capitol of Palau sits on a hilltop above Melekeok, an unexpected echo of the United States Capitol planted in the Micronesian rainforest. The complex houses the Olbiil Era Kelulau (the national congress), the president's office, and the supreme court.

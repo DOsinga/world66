@@ -13,6 +13,7 @@ story: >
   of Aragon in 1443 to celebrate his entry into Naples. The juxtaposition of
   medieval military mass and Renaissance elegance in a single structure is
   unresolved and extraordinary.
+score: 7.5
 ---
 
 The Angevin-era castle near the port, also known as the Maschio Angioino, is one of Naples's most recognisable landmarks. Built in 1279, it has massive cylindrical towers and houses a small civic museum with frescoes, bronze doors from the fifteenth century, and a collection of Neapolitan painting. The Palatine Chapel inside is the best-preserved medieval space in the castle.

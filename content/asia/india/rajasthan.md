@@ -8,6 +8,8 @@ latitude: 26.9124
 loc_type: region
 longitude: 75.7873
 score: 0.78
+snippet: Northwestern Indian desert state of ridge-top forts, painted cities, lake
+  palaces, and Aravalli hill country.
 title: Rajasthan
 type: location
 ---

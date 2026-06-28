@@ -11,6 +11,7 @@ story: >
   John Wilkinson, who set up his cannon-boring foundry at Bersham in 1763, invented the precision horizontal boring machine that made James Watt's steam engine practical — Watt's cylinders were finally manufactured to tight enough tolerances to work efficiently only because Wilkinson's boring machine could hold accuracy to within "the thickness of a sixpence." Wilkinson bored the first Boulton & Watt engine cylinders here in 1775, helping launch the Industrial Revolution.
 sources:
   - https://en.wikipedia.org/wiki/Wrexham
+score: 7.2
 ---
 
 Bersham Ironworks, in the village of Bersham just outside Wrexham, was one of the most important foundries of the Industrial Revolution. John Wilkinson established his cannon-boring operation here in 1763, and it was at Bersham that he developed the precision boring techniques that transformed steam engine manufacture. The foundry also produced iron pipes, cylinders, and structural components for bridges across Britain and the new industrial world.

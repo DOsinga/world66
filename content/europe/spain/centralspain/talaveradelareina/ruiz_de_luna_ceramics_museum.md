@@ -14,6 +14,7 @@ story: >
   after the craft had declined badly. The museum that bears his name is not just
   a display of pretty plates; it is also a record of a local industry rescued
   from near disappearance.
+score: 8.3
 ---
 
 The Ruiz de Luna Ceramics Museum is the essential Talavera stop. Housed in the former convent of San Agustin el Viejo, it traces the city's pottery from older Hispano-Moresque roots through the great polychrome pieces that made Talavera famous.

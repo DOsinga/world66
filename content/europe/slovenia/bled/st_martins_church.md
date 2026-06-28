@@ -7,6 +7,7 @@ tags:
 title: St Martin's Parish Church
 type: poi
 snippet: Neo-Gothic parish church beneath the castle cliff
+score: 6.2
 ---
 
 The parish church of St Martin sits at the foot of the castle cliff, just back from the northeastern shore of the lake. The current building is a neo-Gothic reconstruction from 1905 on much older foundations — the original chapel here dates from the 9th century — and its single bell tower is a familiar element of the Bled skyline.

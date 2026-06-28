@@ -14,6 +14,7 @@ story: >
   his first landfall in the Bahamas in 1492, which would make it the site where the
   Old World first encountered the New. The San Salvador argument now holds more
   scholarly consensus, but the debate has never been fully closed.
+score: 7.1
 ---
 
 Fernandez Bay is a wide, calm, horseshoe-shaped bay on the western (Bight of Acklins) side of Cat Island near the settlement of New Bight. The water is pale turquoise over a sandy bottom, and the beach is shaded by casuarina pines and sea grape trees. It is calm and good for swimming, with the shallow protected water extending a long way out.

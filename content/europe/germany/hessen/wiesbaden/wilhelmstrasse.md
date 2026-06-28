@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Wilhelmstraße is the grandest boulevard in Wiesbaden — a tree-lined avenue laid out in the late 18th century and lined on both sides with grand Wilhelminian-era buildings, designer shops, and the city's most expensive hotels. Locals call it simply "the Rue," and a stroll up and down it remains one of the city's quintessential rituals.

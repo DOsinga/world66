@@ -4,6 +4,7 @@ type: poi
 latitude: -35.2926
 longitude: 149.1185
 tags: [things_to_do, sight, museum, indigenous]
+score: 8.1
 ---
 
 AIATSIS, on Acton Peninsula adjacent to the National Museum, is the world's leading research institution for Aboriginal and Torres Strait Islander culture, language and history. The institute holds extensive archives of indigenous photographs, recordings, manuscripts and films — much of it accessible to the public through the foyer-level Stanner Reading Room or the regular exhibitions.

@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 1.295777
 longitude: 103.859488
+score: 4.5
 snippet: Massive convention-district mall with the Fountain of Wealth
 tags:
 - shopping

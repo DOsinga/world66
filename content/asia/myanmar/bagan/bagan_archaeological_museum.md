@@ -7,6 +7,7 @@ tags:
   - museum
 title: Bagan Archaeological Museum
 type: poi
+score: 6.5
 ---
 
 The Bagan Archaeological Museum sits in Old Bagan and holds a collection of artefacts removed from the temples over the past century: glazed Jataka tiles, Buddha images, stone inscriptions, and items from the royal palace. It is not a large museum and most visitors skip it in favour of the temples themselves, but it provides useful context for what you are seeing outdoors.

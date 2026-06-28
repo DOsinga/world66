@@ -1,17 +1,19 @@
 ---
-title: Sky Garden
-type: poi
-snippet: A free public garden and viewing terrace on top of the Walkie-Talkie skyscraper
-tags:
-  - things_to_do
-  - sight
-  - viewpoint
-  - free
-latitude: 51.5113
-longitude: -0.0838
 address: 20 Fenchurch Street, London EC3M 8AF
 admission: Free with advance booking
+latitude: 51.5113
+longitude: -0.0838
 opening_hours: Mon-Fri 10am-6pm, Sat-Sun 11am-9pm
+score: 7.1
+snippet: A free public garden and viewing terrace on top of the Walkie-Talkie skyscraper
+tags:
+- things_to_do
+- sight
+- viewpoint
+- free
+- the_city
+title: Sky Garden
+type: poi
 url: skygarden.london
 ---
 

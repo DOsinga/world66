@@ -8,6 +8,7 @@ latitude: 13.3854
 longitude: 144.6550
 story: >
   When the Marines waded ashore at Gaan Point on 21 July 1944, they came under fire from a 75mm Japanese gun dug into the coral promontory. The gun is still there. Its barrel still points out across the reef toward the lagoon the Marines crossed under fire.
+score: 8.1
 ---
 
 Gaan Point is the central unit of the War in the Pacific National Historical Park at Agat. The small promontory sits between the two halves of the invasion beach and was the strongest Japanese position on this stretch of coast — a concrete-reinforced bunker holding a 75mm gun that raked the attacking Marines as they crossed the reef in amphibious tractors. The gun, the bunker, and a Japanese light tank are preserved in place, with interpretive panels in English and Chamorro.

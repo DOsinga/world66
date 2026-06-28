@@ -5,6 +5,7 @@ snippet: Surviving 13th-century gate tower — one of the oldest standing struct
 tags: [things_to_do, sight, architecture]
 latitude: 48.8335
 longitude: 9.3186
+score: 6.6
 ---
 
 The Beinsteiner Tor is the surviving east gate of Waiblingen's medieval town wall, dating back to around 1300. It is a square stone tower with a pyramid roof, set across the road that once led toward the village of Beinstein. Most of the town's other medieval gates were demolished in the 19th century; this one remained because it was useful as a customs and toll point.

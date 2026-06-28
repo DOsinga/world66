@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-02'
+image: balasore.jpg
+image_attribution: Apurv013
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Emami_Jagannath_Temple,_Balasore,_Odisha.jpg
 latitude: 21.500642
+loc_type: city
 longitude: 86.919884
+score: 5.9
+snippet: Coastal Odisha district known for rice country and Chandipur beach's unusually
+  retreating tide.
 title: Balasore
 type: location
-score: 0.3
-loc_type: city
-image: balasore.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Emami_Jagannath_Temple,_Balasore,_Odisha.jpg
-image_license: CC0
-image_attribution: Apurv013
 ---
 
 Balasore is a coastal district in the far north of Odisha (formerly Orissa), bordered by West Bengal to the north and the Bay of Bengal to the east. The district town is a busy trading centre in a fertile agricultural area, traditionally known as the granary of Odisha for its rice production.

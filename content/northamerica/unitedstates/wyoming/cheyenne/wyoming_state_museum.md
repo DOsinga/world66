@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.1395
 longitude: -104.8177
+score: 7.7
 ---
 
 Wyoming's official state museum is a free, public history museum across the street from the Capitol. Founded in 1895 in a single Capitol basement room and now housed in the Barrett Building, it covers the natural and human history of the state across five permanent galleries — geology and dinosaurs, Indigenous Wyoming, the Oregon Trail, the cattle industry, and 20th-century life.

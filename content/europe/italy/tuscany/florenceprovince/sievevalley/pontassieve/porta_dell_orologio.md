@@ -6,6 +6,7 @@ longitude: 11.4391
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The eastern gate of the medieval walls, named for the clock set into its arch. It is the most photogenic of the three surviving gateways of the 14th-century Florentine fortification known as the Castello di San Michele Arcangelo al Ponte a Sieve.

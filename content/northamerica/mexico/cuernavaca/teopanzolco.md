@@ -9,6 +9,7 @@ latitude: 18.9278
 longitude: -99.2247
 sources:
   - https://en.wikipedia.org/wiki/Teopanzolco
+score: 7.4
 ---
 
 Teopanzolco is a pre-Aztec ceremonial site within Cuernavaca itself — an unusual double-pyramid in the Colonia Vista Hermosa neighbourhood, about 1km northeast of the zócalo. The site dates from around 1200 CE, predating Aztec domination of the valley, and takes its name from the Nahuatl for "place of the old temple." The outer pyramid was built by the Aztecs over an earlier, smaller structure, and the inner temple is still visible through the outer walls at certain points — like a Russian doll in stone.

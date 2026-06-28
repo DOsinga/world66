@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Vieux_Laval_2
 latitude: 48.070669
 loc_type: city
 longitude: -0.773402
-score: 0.47
+score: 7.19
+snippet: Medieval river town on the Mayenne, with half-timbered lanes and a château
+  linked to Henri Rousseau.
 title: Laval
 type: location
 ---

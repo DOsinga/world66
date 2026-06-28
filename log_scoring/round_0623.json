@@ -1,199 +1,199 @@
 {
   "round": 623,
-  "timestamp": "2026-04-12T10:40:20",
+  "timestamp": "2026-06-13T19:45:30",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Vaishno Devi",
-      "path": "asia/india/jammuandkashmir/vaishnodevi",
-      "prior_mu": 21.7348,
-      "prior_sigma": 4.5874,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -7.806,
+      "prior_variance": 0.732595,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Periyar",
-      "path": "asia/india/kerala/periyar",
-      "prior_mu": 22.6748,
-      "prior_sigma": 5.9128,
-      "prior_n": 1
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -6.8418,
+      "prior_variance": 0.767896,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Alappuzha",
-      "path": "asia/india/kerala/alappuzha",
-      "prior_mu": 22.8617,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -9.222,
+      "prior_variance": 1.001566,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Mahabalipuram",
-      "path": "asia/india/tamilnadu/mahabalipuram",
-      "prior_mu": 22.4477,
-      "prior_sigma": 3.8747,
-      "prior_n": 3
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -9.3142,
+      "prior_variance": 0.896045,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Candolim",
-      "path": "asia/india/goa/candolim",
-      "prior_mu": 22.7197,
-      "prior_sigma": 5.7706,
-      "prior_n": 1
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -9.4061,
+      "prior_variance": 0.670087,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Ajmer",
-      "path": "asia/india/rajasthan/ajmer",
-      "prior_mu": 22.4491,
-      "prior_sigma": 5.9299,
-      "prior_n": 1
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -10.6582,
+      "prior_variance": 0.860963,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Bambolim",
-      "path": "asia/india/goa/bambolim",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -8.3069,
+      "prior_variance": 0.629021,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "caranzalem",
-      "path": "asia/india/goa/caranzalem",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gulbarga",
+      "path": "asia/india/karnataka/gulbarga",
+      "prior_score": -9.867,
+      "prior_variance": 0.743548,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Hotels near Harne Beach",
-      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
-      "prior_mu": 22.4922,
-      "prior_sigma": 5.7169,
-      "prior_n": 1
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/south_east/slough",
+      "prior_score": -10.3923,
+      "prior_variance": 0.71346,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Itanagar",
-      "path": "asia/india/arunachalpradesh/itanagar",
-      "prior_mu": 22.5592,
-      "prior_sigma": 5.5387,
-      "prior_n": 1
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -9.0203,
+      "prior_variance": 0.638272,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Mandangad",
-      "path": "asia/india/maharashtra/konkan/mandangad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -10.1009,
+      "prior_variance": 1.207666,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Jamnagar",
-      "path": "asia/india/gujarat/jamnagar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -9.0063,
+      "prior_variance": 0.67335,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Rajkot",
-      "path": "asia/india/gujarat/rajkot",
-      "prior_mu": 20.3639,
-      "prior_sigma": 3.8987,
-      "prior_n": 3
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -8.3368,
+      "prior_variance": 0.798941,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Coimbatore",
-      "path": "asia/india/tamilnadu/coimbatore",
-      "prior_mu": 22.2553,
-      "prior_sigma": 5.4299,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -6.6076,
+      "prior_variance": 1.611346,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Nagpur",
-      "path": "asia/india/maharashtra/konkan/nagpur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -10.0472,
+      "prior_variance": 0.917111,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Jalgaon",
-      "path": "asia/india/maharashtra/jalgaon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -8.4413,
+      "prior_variance": 0.707672,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Meerut",
-      "path": "asia/india/uttarpradesh/meerut",
-      "prior_mu": 20.8633,
-      "prior_sigma": 4.6082,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -10.125,
+      "prior_variance": 0.742198,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Berhampur",
-      "path": "asia/india/orissa/berhampur",
-      "prior_mu": 21.4259,
-      "prior_sigma": 4.589,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -9.8237,
+      "prior_variance": 0.711222,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Balaghat",
-      "path": "asia/india/madhyapradesh/balaghat",
-      "prior_mu": 21.916,
-      "prior_sigma": 4.6801,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Salem",
-      "path": "asia/india/tamilnadu/salem",
-      "prior_mu": 21.3062,
-      "prior_sigma": 3.8721,
-      "prior_n": 3
-    },
-    {
-      "rank": 21,
-      "title": "Dombivli",
-      "path": "asia/india/maharashtra/dombivli",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 22,
-      "title": "Kairatabad",
-      "path": "asia/india/andhrapradesh/kairatabad",
-      "prior_mu": 22.6586,
-      "prior_sigma": 5.9056,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -10.2243,
+      "prior_variance": 1.570514,
       "prior_n": 1
     },
     {
+      "rank": 20,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -9.391,
+      "prior_variance": 1.499543,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -11.8273,
+      "prior_variance": 1.493817,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -8.9007,
+      "prior_variance": 0.731235,
+      "prior_n": 2
+    },
+    {
       "rank": 23,
-      "title": "bapatla",
-      "path": "asia/india/andhrapradesh/bapatla",
-      "prior_mu": 17.2163,
-      "prior_sigma": 3.962,
-      "prior_n": 4
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -10.3697,
+      "prior_variance": 0.631866,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Hinjilicut",
-      "path": "asia/india/orissa/berhampur/aska/hinjilicut",
-      "prior_mu": 14.8548,
-      "prior_sigma": 5.8251,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -10.5014,
+      "prior_variance": 0.831061,
       "prior_n": 2
     }
   ]

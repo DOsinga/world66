@@ -7,6 +7,7 @@ tags:
 - nature
 title: Mirador Piedra del Coyote
 type: poi
+score: 8.5
 ---
 
 Mirador Piedra del Coyote, also known as Mirador de Kari, looks back across the salt range and the Atacama basin toward the Andes. It is one of the classic sunset viewpoints near San Pedro.

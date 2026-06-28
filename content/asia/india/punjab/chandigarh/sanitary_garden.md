@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Sanitary Garden is the work of architect Sarbjit Bahga, who collected discarded toilets, ceramic insulators and sanitary fittings from across Chandigarh and built them into a wall and a series of sculptures — a deliberate echo of Nek Chand's Rock Garden but with an even more provocative palette."
+score: 5.5
 ---
 
 The Sanitary Garden, sometimes called Kala Sagar ("Ocean of Art"), is a small, easy-to-miss installation tucked away in Sector 38 that takes Nek Chand's idea — making art out of urban waste — and pushes it to its uncomfortable conclusion. The wall and the sculptures here are built almost entirely from broken toilet bowls, urinals and sanitary fittings.

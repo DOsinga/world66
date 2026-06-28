@@ -14,6 +14,7 @@ story: >
   galería-covered houses of A Coruña — a distinctly local reference transplanted into a
   strikingly modern form. It was the first museum in the world dedicated entirely to the
   human being.
+score: 7.1
 ---
 
 The Domus — also known as the Casa del Hombre — is a science museum devoted entirely to the human body and what it means to be human. The building itself, designed by Japanese architect Arata Isozaki and opened in 1995, is architecturally remarkable: a great curved slate fin cantilevered over the seafront at the northern end of the Paseo Marítimo.

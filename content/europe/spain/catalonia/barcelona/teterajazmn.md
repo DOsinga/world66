@@ -3,9 +3,11 @@ address: C/Maspons 11
 latitude: 41.4012
 longitude: 2.156379
 phone: +34 93 218 71 84
-snippet: "Moroccan-style tea house in the Gràcia neighbourhood."
+score: 5.8
+snippet: Moroccan-style tea house in the Gràcia neighbourhood
 tags:
 - bars_and_cafes
+- gracia
 title: Tetería Jazmín
 type: poi
 ---

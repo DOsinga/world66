@@ -8,6 +8,7 @@ tags:
   - architecture
 title: Château Saint-Maire
 type: poi
+score: 6.5
 ---
 
 The Château Saint-Maire towers above the old town, its cylindrical corner towers and austere brick facade making it one of the most recognisable buildings in Lausanne. Built between 1397 and 1430, it served as the residence of the bishops of Lausanne and later became the seat of the cantonal government, a role it still holds.

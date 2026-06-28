@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.7667
 longitude: 21.1000
+score: 9.1
 ---
 
 Micro Prespa — the smaller of the two Prespa lakes — is almost entirely within Greek territory, with only a small section crossing into Albania. At 42.5 km², it is a significant body of water despite its name, and its shallow, reed-fringed margins provide nesting habitat for pelicans, cormorants, herons, and egrets.

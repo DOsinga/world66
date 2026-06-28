@@ -5,7 +5,9 @@ done:
 latitude: 50.484745
 loc_type: city
 longitude: 8.265925
-score: 0.45
+score: 7.21
+snippet: Lahn river town with a baroque palace above Germany's only historic shipping
+  tunnel.
 title: Weilburg
 type: location
 ---

@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-31'
 latitude: 47.9725
+loc_type: city
 longitude: 23.6961
+score: 7.76
+snippet: Maramureș village near Ukraine, famous for the painted crosses of the Merry
+  Cemetery.
+sources:
+- https://en.wikipedia.org/wiki/S%C4%83p%C3%A2n%C8%9Ba
+- https://en.wikipedia.org/wiki/Merry_Cemetery
+- https://en.wikipedia.org/wiki/S%C4%83p%C3%A2n%C8%9Ba-Peri_Monastery
 title: Săpânța
 type: location
-score: 0.49
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/S%C4%83p%C3%A2n%C8%9Ba
-  - https://en.wikipedia.org/wiki/Merry_Cemetery
-  - https://en.wikipedia.org/wiki/S%C4%83p%C3%A2n%C8%9Ba-Peri_Monastery
 ---
 
 Săpânța is a small village in Maramureș county, in the far north of [Romania](/europe/romania), near the Ukrainian border. It is famous for one thing: the Merry Cemetery (Cimitirul Vesel), one of the most unusual burial grounds in Europe.

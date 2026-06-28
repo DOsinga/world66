@@ -6,6 +6,7 @@ longitude: 0.5392
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Strand is Gillingham's slice of riverside, a 19-hectare park stretching along the southern bank of the Medway estuary about a mile and a half north of the town centre. It has a small beach (sand brought in over the years to make a passable bathing strip), an outdoor swimming pool, mini-golf, tennis courts, and a children's play area.

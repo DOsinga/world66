@@ -1,0 +1,200 @@
+{
+  "round": 2842,
+  "timestamp": "2026-06-13T22:11:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.641,
+      "prior_variance": 0.150912,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_score": 2.6166,
+      "prior_variance": 0.145462,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.4364,
+      "prior_variance": 0.135513,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 0.8541,
+      "prior_variance": 0.137217,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.4616,
+      "prior_variance": 0.139029,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 0.8966,
+      "prior_variance": 0.141926,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.0058,
+      "prior_variance": 0.142918,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -2.4823,
+      "prior_variance": 0.21587,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -2.2716,
+      "prior_variance": 0.239271,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.3574,
+      "prior_variance": 0.155951,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -0.2111,
+      "prior_variance": 0.155765,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Libo County",
+      "path": "asia/china/guizhou/libo",
+      "prior_score": 0.1489,
+      "prior_variance": 0.164643,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": -1.0442,
+      "prior_variance": 0.202468,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -0.569,
+      "prior_variance": 0.14687,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -2.0204,
+      "prior_variance": 0.160782,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -2.629,
+      "prior_variance": 0.149619,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -2.2091,
+      "prior_variance": 0.144606,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.7203,
+      "prior_variance": 0.165751,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.6484,
+      "prior_variance": 0.23718,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -2.3201,
+      "prior_variance": 0.265822,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_score": -5.7599,
+      "prior_variance": 0.173359,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -5.5919,
+      "prior_variance": 0.195532,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -6.5354,
+      "prior_variance": 0.218857,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -5.8234,
+      "prior_variance": 0.151906,
+      "prior_n": 9
+    }
+  ]
+}

@@ -8,6 +8,7 @@ tags:
 - shopping
 title: De Bijenkorf
 type: poi
+score: 4.7
 ---
 
 The Eindhoven branch of the Netherlands' upmarket department store chain, right next to the central station. Good for fashion, cosmetics, and homeware. The ground floor has a small gift section with quirky Dutch souvenirs.

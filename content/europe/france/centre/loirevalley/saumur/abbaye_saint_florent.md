@@ -7,6 +7,7 @@ tags:
   - sight
 title: Abbaye Saint-Florent de Saumur
 type: poi
+score: 6.4
 ---
 
 The Benedictine abbey of Saint-Florent, founded in the 9th century, stood for almost a thousand years on the western edge of Saumur and at one point owned much of the surrounding countryside. The French Revolution closed the monastery and most of the buildings were sold off and dismantled in the 19th century.

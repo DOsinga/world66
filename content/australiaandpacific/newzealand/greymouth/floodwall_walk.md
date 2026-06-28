@@ -13,6 +13,7 @@ story: >
   almost two metres of water. The town centre had flooded repeatedly through
   the 19th and 20th centuries; the new wall was the engineering response that
   finally settled the question.
+score: 6.2
 ---
 
 The Floodwall Walk follows the right bank of the Grey River through the centre of town, from the railway station out to the river mouth at Cobden Bridge. About two kilometres each way, flat and easy, the walk is the obvious way to fill an hour and gives a sense of how completely the river dominates the town. Information panels along the way explain the floods that gave the wall its existence.

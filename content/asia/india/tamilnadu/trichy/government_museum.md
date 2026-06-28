@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 10.8250
 longitude: 78.6958
+score: 5.8
 ---
 
 Trichy's Government Museum is small, old-fashioned, and useful for filling gaps between temple visits. Its collections include sculpture, coins, bronzes, natural history specimens, and local archaeological material.

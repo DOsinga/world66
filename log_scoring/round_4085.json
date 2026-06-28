@@ -1,0 +1,200 @@
+{
+  "round": 4085,
+  "timestamp": "2026-06-13T23:42:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": -0.8658,
+      "prior_variance": 0.10326,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.17,
+      "prior_variance": 0.096431,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Woodstock",
+      "path": "northamerica/unitedstates/vermont/woodstock",
+      "prior_score": 1.5853,
+      "prior_variance": 0.093944,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -2.1501,
+      "prior_variance": 0.147081,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -0.9483,
+      "prior_variance": 0.102147,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.357,
+      "prior_variance": 0.101328,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_score": 0.7433,
+      "prior_variance": 0.10509,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -1.3888,
+      "prior_variance": 0.099483,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.3728,
+      "prior_variance": 0.107697,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -2.3367,
+      "prior_variance": 0.103333,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": 0.2832,
+      "prior_variance": 0.098072,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -1.4129,
+      "prior_variance": 0.093975,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -0.9598,
+      "prior_variance": 0.099005,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -1.9623,
+      "prior_variance": 0.109799,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.2349,
+      "prior_variance": 0.101164,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.2023,
+      "prior_variance": 0.101052,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -1.827,
+      "prior_variance": 0.098382,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -0.6962,
+      "prior_variance": 0.095936,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -3.2295,
+      "prior_variance": 0.115075,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Peterhead",
+      "path": "europe/unitedkingdom/scotland/peterhead",
+      "prior_score": -3.0807,
+      "prior_variance": 0.095286,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -3.0162,
+      "prior_variance": 0.10265,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -3.1742,
+      "prior_variance": 0.116098,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bolton",
+      "prior_score": -3.4108,
+      "prior_variance": 0.120728,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -2.8171,
+      "prior_variance": 0.12251,
+      "prior_n": 13
+    }
+  ]
+}

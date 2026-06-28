@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Narsaq-from-Qaaqarsuaq.jpg
 latitude: 60.912745
 loc_type: city
 longitude: -46.04527
-score: 0.29
+score: 7.05
+snippet: South Greenland village backed by mountains, icebergs, local stone workshops,
+  and Henrik Lund history.
 title: Narsaq
 type: location
 ---

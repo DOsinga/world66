@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/68716054@N00/7484131072
 latitude: 19.292545
 loc_type: city
 longitude: -99.656901
-score: 0.4
+score: 6.51
+snippet: High-altitude capital of the State of Mexico, with a historic centre west
+  of Mexico City.
 title: Toluca
 type: location
 ---

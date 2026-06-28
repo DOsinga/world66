@@ -9,6 +9,7 @@ tags:
 - monument
 story: "The bones of an estimated 130,000 unidentified soldiers from both sides lie in 46 alcoves beneath the building, visible through low windows on the outside walls. Each alcove contains the remains gathered from one section of the battlefield, where after the war men collected fragments for years and decades."
 snippet: "Monumental ossuary containing the bones of 130,000 unidentified soldiers"
+score: 9.4
 ---
 
 The Douaumont Ossuary is the most affecting monument on the battlefield. The long concrete building, with its 46-metre tower in the shape of a sword-hilt rising from the centre, was built in the 1920s to gather the unidentifiable bones of soldiers — French and German alike — recovered from the surrounding fields. Through small windows along the outside, you can see those bones still: piled in chambers below the floor of the upper hall.

@@ -9,6 +9,7 @@ latitude: 21.0690
 longitude: -75.8510
 sources:
   - https://en.wikipedia.org/wiki/Guardalavaca
+score: 7.0
 ---
 
 Playa Esmeralda lies a few kilometres west of Guardalavaca along the same stretch of coast, separated from its busier neighbour by a small headland. The beach is narrower but the setting is arguably more beautiful — a horseshoe of white sand enclosed by low green hills, with the same clear turquoise water and good snorkelling as Guardalavaca but without the resort infrastructure.

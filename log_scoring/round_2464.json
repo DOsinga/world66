@@ -1,0 +1,200 @@
+{
+  "round": 2464,
+  "timestamp": "2026-06-13T21:44:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.1206,
+      "prior_variance": 0.248531,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 2.406,
+      "prior_variance": 0.162501,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 3.6682,
+      "prior_variance": 0.232537,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 2.0885,
+      "prior_variance": 0.235883,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Yangzhou",
+      "path": "asia/china/jiangsu_province/yangzhou",
+      "prior_score": 0.8441,
+      "prior_variance": 0.182781,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.4123,
+      "prior_variance": 0.186225,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -0.5009,
+      "prior_variance": 0.207176,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 1.7956,
+      "prior_variance": 0.178021,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.2738,
+      "prior_variance": 0.186383,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.0154,
+      "prior_variance": 0.148223,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.8436,
+      "prior_variance": 0.202538,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -0.8568,
+      "prior_variance": 0.179425,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.9248,
+      "prior_variance": 0.17059,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -3.0484,
+      "prior_variance": 0.238111,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -1.0059,
+      "prior_variance": 0.160997,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -3.2632,
+      "prior_variance": 0.158507,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -3.0893,
+      "prior_variance": 0.19127,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -0.9794,
+      "prior_variance": 0.16875,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -4.1323,
+      "prior_variance": 0.189599,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -2.6959,
+      "prior_variance": 0.211909,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Kuqa",
+      "path": "asia/china/xinjiangprovince/kuqa",
+      "prior_score": -2.7797,
+      "prior_variance": 0.179266,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ambalavao",
+      "path": "africa/madagascar/ambalavao",
+      "prior_score": -2.7869,
+      "prior_variance": 0.187066,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -7.9958,
+      "prior_variance": 0.251675,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -8.3476,
+      "prior_variance": 0.381972,
+      "prior_n": 7
+    }
+  ]
+}

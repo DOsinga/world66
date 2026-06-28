@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-05'
+image: crete.jpg
+image_attribution: dronepicr
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Old_Venetian_Harbour_in_Chania,_Greece.jpg
 latitude: 35.308495
 loc_type: region
 longitude: 24.463342
 score: 0.79
+snippet: Largest Greek island, with Minoan palaces, rugged mountains, proud villages,
+  and radically varied coasts
 title: Crete
 type: location
-image: crete.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Old_Venetian_Harbour_in_Chania,_Greece.jpg
-image_license: CC BY 2.0
-image_attribution: dronepicr
 ---
 
 Crete is the largest of the Greek islands and in many ways its own world. It is big enough to lose yourself in for a fortnight without seeing the same coast twice, and varied enough that you can hike a snowbound mountain pass and swim in a turquoise lagoon on the same day. The Cretans themselves are proud, hospitable, and unmistakably Cretan first and Greek second — they speak their own dialect, dance their own dances, and pour their own raki at the end of every meal whether you asked for it or not.

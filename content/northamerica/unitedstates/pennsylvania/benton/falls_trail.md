@@ -6,6 +6,7 @@ longitude: -76.3081
 tags:
   - things_to_do
   - sight
+score: 9.2
 ---
 
 The Falls Trail is the 7.2-mile loop (or 3.2-mile out-and-back variant) that passes 22 named waterfalls within Ricketts Glen State Park. Most hikers start at the Lake Rose trailhead, descend the Ganoga Glen branch on the west side, cross at Waters Meet, and climb back up Glen Leigh on the east. Each branch holds about ten waterfalls; Waters Meet at the bottom is where the two creeks join.

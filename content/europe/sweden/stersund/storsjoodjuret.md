@@ -8,6 +8,7 @@ tags:
   - legend
 latitude: 63.179
 longitude: 14.59
+score: 4.9
 ---
 
 Lake Storsjön has its own monster. The Storsjöodjuret — the Great Lake Monster — has been reportedly sighted since 1635, making it one of the oldest documented lake creature legends in Scandinavia. Described variously as a serpentine creature with a dog-like head and a horse-like mane, it occupies in Jämtland something of the same cultural space that Nessie holds in Scotland: a beloved regional myth, a tourist magnet, and a source of genuine local pride with no requirement that anyone actually believe in it.

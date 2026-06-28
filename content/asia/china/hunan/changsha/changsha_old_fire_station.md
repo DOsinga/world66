@@ -16,6 +16,7 @@ story: >
   ninety percent of the city in ruins. The general responsible was later
   executed. The fire erased most of the old Changsha that had stood for
   two thousand years.
+score: 7.1
 ---
 
 The 1938 Great Fire of Changsha is the event that most shaped the city's current appearance. On 12 November 1938, with Japanese forces advancing from the north, Chinese military commanders ordered the city set alight to prevent its capture intact. The fire burned for three days, destroying most of the historic urban fabric — the old merchant streets, the temples, the guild halls, the traditional courtyard houses. An estimated three thousand to five thousand residents died; up to ninety percent of the city was destroyed. The Japanese army arrived eighty kilometres away when the fire began.

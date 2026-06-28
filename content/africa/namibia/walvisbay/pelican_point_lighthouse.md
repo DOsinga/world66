@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 1930s lighthouse at the tip of the sand spit
+score: 7.0
 ---
 
 The red-and-white Pelican Point lighthouse stands at the far tip of the long sand spit that shelters the Walvis Bay lagoon from the Atlantic. Built in 1932 by the South African Railways and Harbours administration (Walvis Bay was a South African enclave until 1994), it is a slim 34-metre concrete tower painted in alternating bands. The light is fully automated now but the keepers' cottages have been converted into a small private lodge — a remote and atmospheric place to stay if you want to be utterly alone with the dunes and the sea.

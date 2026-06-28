@@ -5,7 +5,9 @@ done:
 latitude: 37.7236
 loc_type: city
 longitude: 20.872
-score: 0.61
+score: 8.39
+snippet: Quieter Zakynthos beach resort on a loggerhead turtle nesting shore south
+  of the airport.
 sources:
 - https://en.wikipedia.org/wiki/Kalamaki,_Zakynthos
 title: Kalamaki

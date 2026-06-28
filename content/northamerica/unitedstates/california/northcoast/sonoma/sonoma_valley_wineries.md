@@ -11,6 +11,7 @@ story: >
   General Vallejo planted commercial vines at his Lachryma Montis estate in the 1840s, and his Hungarian
   associate Agoston Haraszthy founded Buena Vista Winery in 1857 — California's first premium commercial
   winery, still operating, still on Haraszthy's original land outside Sonoma town.
+score: 7.9
 ---
 
 The Sonoma Valley runs north from Sonoma town to the top of Sugarloaf Ridge — 17 miles of wine country that is smaller, more varied, and easier to navigate than Napa. The valley appellations include Sonoma Valley AVA, Carneros (shared with Napa), and the Moon Mountain and Sonoma Mountain sub-appellations on the valley walls. Pinot noir, chardonnay, and zinfandel are the strengths; the volcanic soils of the mountain vineyards produce intense, structured reds.

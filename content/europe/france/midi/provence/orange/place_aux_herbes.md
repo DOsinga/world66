@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Tiny shaded square in the old town
+score: 6.6
 ---
 
 A small square halfway between the cathedral and the Hôtel de Ville, **Place aux Herbes** is exactly the kind of pocket-sized Provençal square you hope to stumble into. A single fountain, four plane trees, a couple of café terraces with rattan chairs, and the smell of lunch from the small restaurants under the arcades.

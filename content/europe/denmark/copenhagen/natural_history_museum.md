@@ -1,9 +1,13 @@
 ---
+latitude: 55.6869
+longitude: 12.573
+score: 7.6
+tags:
+- things_to_do
+- museum
+- indre_by
 title: Natural History Museum of Denmark
 type: poi
-tags: [things_to_do, museum]
-latitude: 55.6869
-longitude: 12.5730
 ---
 
 The Natural History Museum of Denmark (Statens Naturhistoriske Museum) occupies the old University of Copenhagen buildings on Øster Farimagsgade, backing onto the Botanical Garden. The collections are substantial — geology, palaeontology, zoology, and botany — and include a good mineral collection, Viking-age animal remains, and a range of dinosaur fossils.

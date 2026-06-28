@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20111030_Building_of_the_P
 latitude: 41.0911
 loc_type: city
 longitude: 23.5498
-score: 0.42
+score: 6.74
+snippet: Northern Greek city with Byzantine roots, Ottoman traces, and a medieval
+  acropolis above the old town.
 title: Serres
 type: location
 ---

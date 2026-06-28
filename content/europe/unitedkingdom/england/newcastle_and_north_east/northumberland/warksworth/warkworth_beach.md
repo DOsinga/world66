@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.3393
 longitude: -1.5718
+score: 7.3
 ---
 
 Warkworth Beach, also reached from the nearby town of Amble, is a wide arc of sand at the mouth of the River Coquet. The beach is part of a Northumberland AONB (Area of Outstanding Natural Beauty) and sees a fraction of the visitors who travel to Bamburgh or Seahouses further north, which makes it a better choice for those wanting space and quiet.

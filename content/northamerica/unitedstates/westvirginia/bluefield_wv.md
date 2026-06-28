@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bluefield,_West_Virginia.j
 latitude: 37.26984
 loc_type: city
 longitude: -81.222319
-score: 0.32
+score: 5.71
 title: Bluefield
+snippet: Appalachian border city with coal-and-railroad bones and a cool mountain
+  climate above southern West Virginia.
 type: location
 ---
 

@@ -1,200 +1,200 @@
 {
   "round": 553,
-  "timestamp": "2026-04-12T10:37:12",
+  "timestamp": "2026-06-13T19:41:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Oxford",
-      "path": "europe/unitedkingdom/england/south_east/oxford",
-      "prior_mu": 23.6043,
-      "prior_sigma": 5.9565,
-      "prior_n": 1
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 15.3497,
+      "prior_variance": 6.911089,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Windsor",
-      "path": "europe/unitedkingdom/england/windsor",
-      "prior_mu": 22.9084,
-      "prior_sigma": 5.9358,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 10.7335,
+      "prior_variance": 1.561937,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Salisbury",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kamakura",
+      "path": "asia/japan/honshu/kamakura",
+      "prior_score": 14.526,
+      "prior_variance": 7.393931,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Wye Valley",
-      "path": "europe/unitedkingdom/wales/wye_valley",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 9.4703,
+      "prior_variance": 1.751358,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Sligachan",
-      "path": "europe/unitedkingdom/scotland/skye/sligachan",
-      "prior_mu": 22.9356,
-      "prior_sigma": 5.4075,
-      "prior_n": 1
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 11.3695,
+      "prior_variance": 4.140222,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Durness, Sutherland",
-      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
-      "prior_mu": 21.7125,
-      "prior_sigma": 4.8179,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_score": 13.911,
+      "prior_variance": 7.317008,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Torquay",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
-      "prior_mu": 22.2294,
-      "prior_sigma": 5.7937,
-      "prior_n": 1
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 10.514,
+      "prior_variance": 0.984632,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Guildford",
-      "path": "europe/unitedkingdom/england/south_east/guildford",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 10.3203,
+      "prior_variance": 1.823906,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Rochester",
-      "path": "europe/unitedkingdom/england/rochester",
-      "prior_mu": 22.5698,
-      "prior_sigma": 5.944,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_score": 11.8484,
+      "prior_variance": 1.733411,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Berwick on Tweed",
-      "path": "europe/unitedkingdom/england/berwickontweed",
-      "prior_mu": 21.8383,
-      "prior_sigma": 4.5958,
-      "prior_n": 2
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 7.8375,
+      "prior_variance": 1.652382,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Jedburgh",
-      "path": "europe/unitedkingdom/scotland/jedburgh",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 12,
-      "title": "Lydford",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
-      "prior_mu": 21.7745,
-      "prior_sigma": 4.6859,
+      "title": "Gili Air",
+      "path": "asia/indonesia/lombok/giliislands/gili_air",
+      "prior_score": 10.1308,
+      "prior_variance": 3.449575,
       "prior_n": 2
     },
     {
+      "rank": 12,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 9.1865,
+      "prior_variance": 1.782623,
+      "prior_n": 1
+    },
+    {
       "rank": 13,
-      "title": "Colchester",
-      "path": "europe/unitedkingdom/england/colchester",
-      "prior_mu": 21.3469,
-      "prior_sigma": 4.1417,
-      "prior_n": 3
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 9.971,
+      "prior_variance": 2.006943,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Douglas",
-      "path": "europe/unitedkingdom/manisleof/douglas",
-      "prior_mu": 22.48,
-      "prior_sigma": 5.7779,
-      "prior_n": 1
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 8.1911,
+      "prior_variance": 0.900082,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Laxey",
-      "path": "europe/unitedkingdom/manisleof/laxey",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 14.2232,
+      "prior_variance": 7.28495,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Sudbury",
-      "path": "europe/unitedkingdom/england/sudbury",
-      "prior_mu": 22.6237,
-      "prior_sigma": 5.938,
-      "prior_n": 1
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 10.2135,
+      "prior_variance": 1.73995,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Elie Fife",
-      "path": "europe/unitedkingdom/scotland/eliefife",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 7.5433,
+      "prior_variance": 1.269704,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Laugharne",
-      "path": "europe/unitedkingdom/wales/laugharne",
-      "prior_mu": 22.6976,
-      "prior_sigma": 5.9484,
-      "prior_n": 1
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 9.3489,
+      "prior_variance": 3.935684,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Bolton-by-Bowland",
-      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl",
-      "prior_mu": 22.3345,
-      "prior_sigma": 5.9449,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_score": 7.411,
+      "prior_variance": 1.594847,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Gosport",
-      "path": "europe/unitedkingdom/england/gosport",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 6.9999,
+      "prior_variance": 1.761287,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Newton Abbot",
-      "path": "europe/unitedkingdom/england/newtonabbot",
-      "prior_mu": 21.81,
-      "prior_sigma": 5.7149,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 8.8234,
+      "prior_variance": 1.656497,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Ware",
-      "path": "europe/unitedkingdom/england/eastern_england/ware",
-      "prior_mu": 22.5714,
-      "prior_sigma": 5.92,
-      "prior_n": 1
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 8.7906,
+      "prior_variance": 1.164087,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Chigwell",
-      "path": "europe/unitedkingdom/england/eastern_england/chigwell",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 9.098,
+      "prior_variance": 1.426972,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Briston",
-      "path": "europe/unitedkingdom/norfolk/briston",
-      "prior_mu": 18.7132,
-      "prior_sigma": 5.1222,
-      "prior_n": 2
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 7.2591,
+      "prior_variance": 1.840533,
+      "prior_n": 1
     }
   ]
 }

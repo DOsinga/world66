@@ -6,7 +6,9 @@ done:
 latitude: 41.981847
 loc_type: city
 longitude: 44.111781
-score: 0.46
+score: 7.14
+snippet: Central Georgian town known for Stalin's birthplace museum and the nearby
+  cave city of Uplistsikhe.
 title: Gori
 type: location
 ---

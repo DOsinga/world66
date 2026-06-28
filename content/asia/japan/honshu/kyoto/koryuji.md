@@ -1,12 +1,14 @@
 ---
 latitude: 35.0152
 longitude: 135.7068
+score: 7.4
 snippet: Kyoto's oldest temple, with Japan's first registered National Treasure
 tags:
 - things_to_do
 - temple
 - museum
 - sight
+- arashiyama
 title: Kōryū-ji
 type: poi
 ---

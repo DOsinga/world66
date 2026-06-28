@@ -6,6 +6,7 @@ tags:
 - sight
 title: Bhadkeshwar Mahadev Temple
 type: poi
+score: 6.9
 ---
 
 Bhadkeshwar Mahadev Temple sits on a small rocky projection by the sea, sometimes dramatically surrounded by water at high tide or during rough weather. The setting is the draw as much as the shrine.

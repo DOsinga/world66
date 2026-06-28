@@ -1,8 +1,9 @@
 ---
+score: 2.0
 tags:
 - getting_there
 title: Flights to and from Bergamo
-type: poi
+type: theme
 url: web4.myair.com
 ---
 

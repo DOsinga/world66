@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.9333
 longitude: 8.0167
+score: 6.8
 ---
 
 Pontedassio is the first significant village up the valley from Imperia and home to the Museo Storico degli Spaghetti — a small museum devoted entirely to the history of Italian pasta, run by the pasta-maker Agnesi whose factory is nearby. The museum traces the origins of pasta from ancient grain cultivation through the industrialisation of production in Liguria, with a particular focus on the role the coastal towns around Imperia played in the dried pasta trade.

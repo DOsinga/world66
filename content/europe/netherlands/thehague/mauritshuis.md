@@ -11,6 +11,7 @@ story: >
   at the Mauritshuis in 1902, bought for just two guilders and thirty cents at an
   estate sale. X-ray analysis has revealed that Vermeer painted the background not
   black but a deep curtain green that has darkened over the centuries.
+score: 9.6
 ---
 
 The Royal Cabinet of Paintings at the Mauritshuis is one of the great small museums of Europe — a 17th-century patrician house on the Hofvijver that holds a disproportionately powerful collection of Dutch and Flemish Golden Age painting. The building itself, constructed in the 1630s for Johan Maurits van Nassau-Siegen, is beautiful: a small palace with painted ceilings and intimate rooms where the paintings hang at eye level and at close quarters.

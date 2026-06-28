@@ -2,6 +2,7 @@
 address: 94 Kloof Street, Gardens
 latitude: -33.9206
 longitude: 18.4073
+score: 5.8
 scores:
   activities: 0.5987
   eating_out: 0.7234
@@ -10,6 +11,7 @@ snippet: Cape Town deli-café institution with multiple branches, good for a day
 tags:
 - eating_out
 - restaurant
+- city_bowl
 title: Melissa's
 type: poi
 ---

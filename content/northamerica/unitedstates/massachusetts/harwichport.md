@@ -5,6 +5,9 @@ done:
 latitude: 41.668
 loc_type: city
 longitude: -70.074
+score: 7.05
+snippet: Cape Cod harbour village on Nantucket Sound, with warm south-shore beaches
+  and a low-key main street.
 title: Harwich Port
 type: location
 ---

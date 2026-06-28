@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -3.083
 longitude: 119.917
+score: 5.8
 ---
 
 The Makula hot springs are about 30 kilometres south of Rantepao, near the town of Makale. The springs feed several pools of different temperatures, surrounded by jungle vegetation. They are used primarily by local Torajan people as bathing pools, and visiting feels like entering a community facility rather than a tourist attraction — which is precisely their appeal.

@@ -16,6 +16,7 @@ story: >
   anywhere in Europe for another two centuries.
 sources:
   - https://en.wikipedia.org/wiki/Czech_Museum_of_Silver
+score: 8.1
 ---
 
 The Czech Museum of Silver is housed in the Hrádek, a late Gothic palace built in the 15th century by the wealthy mine overseer Jan Smíšek on top of the old mine workings. The museum covers the full history of silver mining in Kutná Hora, from the discovery of the ore seams in the 13th century through the technical innovations that allowed ever deeper extraction, to the mine's final exhaustion in the early modern period.

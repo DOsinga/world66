@@ -5,6 +5,7 @@ latitude: -8.0500
 longitude: -34.9636
 tags: [things_to_do, sight, museum]
 story: Brennand inherited a ruined tile factory deep in the rainforest behind Recife and spent half a century filling its grounds with monumental, fantastical, and frankly priapic ceramic sculptures. The result is a personal Eden of clay totems, mythological beasts, and obelisks that has no real equivalent anywhere else.
+score: 8.8
 ---
 
 The studio and sculpture park of the late Pernambuco artist Francisco Brennand, set in the grounds of a former tile factory in a forested western suburb. The compound is a vast open-air display of ceramic sculptures, terracotta tiles, and architectural follies — some monumental, many erotic, all unmistakably his.

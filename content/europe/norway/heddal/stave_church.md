@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Local folklore says Heddal Stave Church was built in three days by a troll named Finn, who agreed to construct it for the farmer Raud Rygi on the condition that Raud guess his name. As Finn put the spire on the roof, Raud overheard Finn's wife singing a lullaby with his name in it — and so escaped having to forfeit his eyes and heart to the troll."
+score: 9.4
 ---
 
 Heddal Stave Church is the largest of the 28 surviving stave churches in Norway, a triple-naved wooden structure of pitch-blackened pine that rises in tiers of dragon-decorated roofs above a stone-walled churchyard. It was built around 1250, repaired and extended over the centuries, and remains a working parish church of the Church of Norway.

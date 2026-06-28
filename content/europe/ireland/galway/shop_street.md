@@ -10,6 +10,7 @@ story: >
   Shop Street follows the line of the medieval town's main thoroughfare, and the buildings on either side still have occasional remnants of the old city's merchant wealth. The Lynch's Castle building on the corner of Shop Street and Abbeygate Street is one of the best-preserved medieval townhouses in Ireland, dating from the early sixteenth century, built by the Lynch family who dominated Galway's merchant class for generations.
 sources:
   - https://en.wikipedia.org/wiki/Shop_Street
+score: 8.3
 ---
 
 Shop Street is the pedestrianised spine of Galway's city centre — the place where most days begin and most evenings gather momentum. It is permanently busy: buskers setting up outside the pubs, street performers working the crowds near Lynch's Castle, tourists navigating around locals who are shopping, and the whole thing moving at the slightly chaotic pace that Galway likes. The street connects Eyre Square to Quay Street and the waterfront in a ten-minute walk, passing most of the city's most well-known pubs and restaurants along the way.

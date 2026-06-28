@@ -1,11 +1,13 @@
 ---
 latitude: 35.0152
-longitude: 135.6970
+longitude: 135.697
+score: 5.8
 snippet: Working samurai-drama film studio open as a theme park
 tags:
 - things_to_do
 - sight
 - park
+- arashiyama
 title: Tōei Kyoto Studio Park
 type: poi
 ---

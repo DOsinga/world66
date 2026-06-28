@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.8
 ---
 
 Water Street is the long waterfront thoroughfare and the centre of life in St. Andrews. Lined with timber-framed nineteenth-century buildings — many painted in bright greens, yellows, and reds — it holds most of the town's restaurants, galleries, gift shops, and ice cream parlours, with views straight out to Passamaquoddy Bay along its eastern half.

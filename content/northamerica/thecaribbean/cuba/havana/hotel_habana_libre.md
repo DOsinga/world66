@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 23.1353
 longitude: -82.3833
+score: 5.9
 ---
 
 The Hotel Habana Libre, a 25-storey concrete tower in the Vedado neighbourhood, was built as the Havana Hilton in 1958 and opened just months before Castro took power. It promptly became Fidel's headquarters for the first weeks of the revolution — suite 2324 on the 23rd floor was his personal office and residence for several months. The hotel was nationalised in 1960 and renamed; it remains one of the tallest buildings in Havana.

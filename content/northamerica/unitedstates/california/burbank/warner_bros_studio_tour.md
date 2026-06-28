@@ -14,6 +14,7 @@ story: >
   productions over eight decades. When you walk the same streets used in
   Casablanca, Friends, and The Dark Knight, the layers of cinematic history
   accumulate in an oddly moving way.
+score: 8.9
 ---
 
 The Warner Bros. Studio Tour at 3400 Warner Blvd is the best studio tour in Los Angeles — a genuine behind-the-scenes experience at a working studio rather than a theme park recreation. Small groups travel by open-air vehicle through the backlot, stopping at active soundstages, the famous outdoor sets (the Central Perk exterior from Friends, the New York street sets), and the Warner Bros. Archive with props and costumes from DC Universe, Harry Potter, and Game of Thrones productions.

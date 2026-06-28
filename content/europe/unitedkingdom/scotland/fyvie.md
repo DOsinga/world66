@@ -5,7 +5,9 @@ done:
 latitude: 57.430746
 loc_type: city
 longitude: -2.39241
-score: 0.44
+score: 6.68
+snippet: Small Aberdeenshire village known for Fyvie Castle’s five-towered Scottish
+  baronial silhouette
 title: Fyvie
 type: location
 ---

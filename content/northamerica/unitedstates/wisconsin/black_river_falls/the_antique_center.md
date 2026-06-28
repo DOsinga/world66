@@ -10,6 +10,7 @@ tags:
   - market
 title: The Antique Center
 type: poi
+score: 5.1
 ---
 
 A multi-dealer antique center a couple of blocks down Main Street from the Merchant General Store. The format — multiple dealers sharing one space — means you're likely to find a wider variety of goods than at a single-dealer shop: furniture, glassware, vintage clothing, farm tools, and the random oddments that accumulate in west-central Wisconsin's estate sales.

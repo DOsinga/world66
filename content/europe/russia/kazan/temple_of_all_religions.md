@@ -10,6 +10,7 @@ tags:
   - unusual
 story: >
   Ildar Khanov, a local sculptor and folk-healer, began building the Temple of All Religions on his own family plot in 1992 as a tribute to religious unity. He died in 2013 with the project still unfinished, and his family and volunteers continue construction; it has never opened to worship but is open to visitors as a curiosity.
+score: 7.0
 ---
 
 The Temple of All Religions, in the Aksay suburb on the western edge of Kazan, is one of the country's most peculiar buildings — an unfinished architectural mash-up combining a mosque dome, a Russian Orthodox cupola, a Catholic bell tower, a Buddhist pagoda, a synagogue, and several other religious motifs into a single structure. The intent was to symbolise the equality of all faiths under one roof.

@@ -4,10 +4,12 @@ latitude: 41.899032
 longitude: 12.474082
 opening_hours: Daily 7:30am–1am
 price_range: €1.20–3 coffee
+score: 7.6
 snippet: Rome's most debated coffee bar — the gran caffè is the secret
 tags:
 - bars_and_cafes
 - bar
+- campo_de_fiori
 title: Caffè Sant'Eustachio
 type: poi
 ---

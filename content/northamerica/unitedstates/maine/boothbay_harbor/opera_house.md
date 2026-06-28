@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Opera House at Boothbay Harbor
 type: poi
+score: 6.8
 ---
 
 The Opera House at Boothbay Harbor, built in 1892, is a restored Victorian performance hall on Townsend Avenue that serves as the town's main cultural venue. It was built as a Knights of Pythias hall and hosted theatrical performances, community events, and travelling acts through the late 19th and early 20th centuries. After decades of decline it was restored and reopened, and now stages concerts, film screenings, theatre, and lectures throughout the year.

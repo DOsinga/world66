@@ -9,6 +9,7 @@ latitude: 41.1670
 longitude: 1.0848
 story: >
   The Institut Pere Mata predates the better-known Hospital de Sant Pau in Barcelona by several years, and shares its organisational principle: instead of a single large hospital block, Domènech i Montaner designed a campus of separate pavilions, each with its own garden. The idea was that beauty and green space were part of the treatment.
+score: 8.7
 ---
 
 The Institut Pere Mata is a psychiatric hospital campus on the northern edge of Reus, designed by Lluís Domènech i Montaner and built between 1897 and 1912. It is considered one of the most important examples of Modernista architecture outside Barcelona, and one of the most architecturally ambitious psychiatric facilities in Europe from that era.

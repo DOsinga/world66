@@ -9,6 +9,7 @@ tags:
 - museum
 snippet: A 1950s flour mill turned into one of the UK's largest contemporary art spaces
 story: The Baltic was a Rank Hovis flour mill, derelict from 1982. In 2002 it reopened with the brick shell intact but the interior completely scooped out — six floors of column-free gallery space, no permanent collection, and a free top-floor viewing platform with the best Quayside view in the city.
+score: 8.8
 ---
 
 A short walk across the Millennium Bridge from Newcastle's Quayside, the Baltic occupies the brick shell of a 1950s Rank Hovis flour mill on the south bank. Inside, six floors of column-free gallery space rotate exhibitions of major international contemporary art — Anish Kapoor, Antony Gormley, Yoko Ono, Mona Hatoum have all shown here. Entry is free.

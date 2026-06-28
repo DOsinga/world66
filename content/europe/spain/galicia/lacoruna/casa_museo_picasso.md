@@ -13,6 +13,7 @@ story: >
   School of Fine Arts. By the time the family left in 1895, the thirteen-year-old had already
   produced hundreds of drawings and paintings. His father reportedly gave Pablo his own palette
   and brushes and vowed never to paint again after seeing what his son could do.
+score: 6.3
 ---
 
 Pablo Picasso lived in this apartment on Calle Payo Gómez from 1891 to 1895, between the ages of nine and thirteen, while his father taught at A Coruña's School of Fine Arts. The museum recreates the family's living quarters with period furniture and displays copies of the sketches and paintings Picasso made during these years — a prolific output for a child, and already technically accomplished.

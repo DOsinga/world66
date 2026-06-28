@@ -5,10 +5,12 @@ done:
 latitude: 30.6289
 loc_type: city
 longitude: 72.8639
-score: 0.39
+score: 6.92
 sources:
 - https://en.wikipedia.org/wiki/Harappa
 title: Harappa
+snippet: Indus Valley archaeological site in Punjab, preserving the type-city of a
+  Bronze Age civilisation.
 type: location
 ---
 

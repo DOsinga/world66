@@ -9,6 +9,7 @@ latitude: 3.5666
 longitude: 101.6500
 sources:
   - https://en.wikipedia.org/wiki/Kuala_Kubu_Bharu
+score: 5.8
 ---
 
 The main street of Kuala Kubu Baru is lined with 1920s Chinese shophouses — two-storey terracotta-tile buildings with five-foot ways sheltering the pavement below. This is the rebuilt town: the original Kuala Kubu was wiped out by a catastrophic flood and landslide in 1883, and the new administrative centre was laid out from scratch on slightly higher ground in a grid pattern unusual for a Malayan town of that era.

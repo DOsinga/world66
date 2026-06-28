@@ -14,6 +14,7 @@ tags:
   - museum
 title: Bradbury Science Museum
 type: poi
+score: 8.4
 ---
 
 The Bradbury Science Museum is the public visitor centre for Los Alamos National Laboratory, and it is free. The displays cover the history of the Manhattan Project in unusual depth: the recruitment of scientists from universities across America, the construction of a secret city on a remote New Mexico plateau, and the development of the two bomb designs (Little Boy and Fat Man) that ended the Second World War.

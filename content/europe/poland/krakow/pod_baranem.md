@@ -1,12 +1,15 @@
 ---
-title: "Pod Baranem"
-type: poi
-tags:
-  - eating_out
-  - stare_miasto
-  - restaurant
 latitude: 50.0611
 longitude: 19.9363
+score: 7.2
+snippet: Traditional Polish restaurant under a 16th-century tenement on the corner
+  of Rynek Główny
+tags:
+- eating_out
+- stare_miasto
+- restaurant
+title: Pod Baranem
+type: poi
 ---
 
 Pod Baranem ("Under the Ram") is one of Krakow's most dependable traditional restaurants, occupying a Gothic cellar just off the Main Market Square. The vaulted brick interior is what you hope for when you descend below the Old Town's cobblestones — low ceilings, candlelight, and a menu of carefully prepared Polish classics. The kitchen handles pierogi, żurek, and roasted meats with skill and care that distinguishes it from the tourist-trap restaurants that crowd the square.

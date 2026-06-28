@@ -8,6 +8,7 @@ tags:
 - sight
 title: Norman Park Beach
 type: poi
+score: 6.1
 ---
 
 Norman Park is Kenora's main town beach, a small sandy crescent at the north end of the harbour. The water is soft, swimmable in July and August, and shallow for a long way out — well suited to families. The park has a playground, picnic tables, and a small grass strip behind the sand.

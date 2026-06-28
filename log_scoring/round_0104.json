@@ -1,200 +1,200 @@
 {
   "round": 104,
-  "timestamp": "2026-04-12T08:03:59",
+  "timestamp": "2026-06-13T19:19:41",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Alexandria",
-      "path": "africa/egypt/alexandria",
-      "prior_mu": 21.5,
-      "prior_sigma": 3.36,
-      "prior_n": 4
+      "title": "Arequipa",
+      "path": "southamerica/peru/arequipa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Marathon",
-      "path": "europe/greece/marathon",
-      "prior_mu": 21.03,
-      "prior_sigma": 2.97,
-      "prior_n": 5
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Palolem",
-      "path": "asia/india/goa/palolim",
-      "prior_mu": 22.26,
-      "prior_sigma": 3.63,
-      "prior_n": 3
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Mamaia",
-      "path": "europe/romania/mamaia",
-      "prior_mu": 20.82,
-      "prior_sigma": 2.86,
-      "prior_n": 5
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Kihnu Island",
-      "path": "europe/estonia/kihnu_island",
-      "prior_mu": 21.01,
-      "prior_sigma": 3.61,
-      "prior_n": 3
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Gallinara Island Regional Park",
-      "path": "europe/italy/liguria/gallinarapark",
-      "prior_mu": 22.52,
-      "prior_sigma": 3.18,
-      "prior_n": 4
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Pontrieux",
-      "path": "europe/france/normandybrittany/pontrieux",
-      "prior_mu": 21.21,
-      "prior_sigma": 2.64,
-      "prior_n": 6
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Murcia",
-      "path": "europe/spain/murcia",
-      "prior_mu": 21.51,
-      "prior_sigma": 3.44,
-      "prior_n": 3
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Chieti",
-      "path": "europe/italy/abruzzo/chieti",
-      "prior_mu": 21.64,
-      "prior_sigma": 4.25,
-      "prior_n": 2
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Africa",
-      "path": "africa",
-      "prior_mu": 20.84,
-      "prior_sigma": 3.07,
-      "prior_n": 4
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Mizoram",
-      "path": "asia/india/mizoram",
-      "prior_mu": 20.84,
-      "prior_sigma": 3.06,
-      "prior_n": 4
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Dschang",
-      "path": "africa/cameroon/dschang",
-      "prior_mu": 20.26,
-      "prior_sigma": 2.59,
-      "prior_n": 6
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Aburi",
-      "path": "africa/ghana/aburi",
-      "prior_mu": 20.84,
-      "prior_sigma": 3.5,
-      "prior_n": 3
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Dalaba",
-      "path": "africa/guineeconakry/dalaba",
-      "prior_mu": 20.56,
-      "prior_sigma": 3.33,
-      "prior_n": 4
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Thuan An Beach",
-      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
-      "prior_mu": 20.67,
-      "prior_sigma": 2.77,
-      "prior_n": 5
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Eswatini (Swaziland)",
-      "path": "africa/swaziland",
-      "prior_mu": 20.87,
-      "prior_sigma": 2.82,
-      "prior_n": 5
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Chesterfield",
-      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
-      "prior_mu": 20.26,
-      "prior_sigma": 2.73,
-      "prior_n": 6
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Crescent City",
-      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
-      "prior_mu": 20.62,
-      "prior_sigma": 2.66,
-      "prior_n": 6
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Atascadero",
-      "path": "northamerica/unitedstates/california/atascadero",
-      "prior_mu": 20.83,
-      "prior_sigma": 2.85,
-      "prior_n": 5
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Fergus Falls",
-      "path": "northamerica/unitedstates/minnesota/fergus_falls",
-      "prior_mu": 19.02,
-      "prior_sigma": 3.47,
-      "prior_n": 4
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Bay View",
-      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
-      "prior_mu": 20.86,
-      "prior_sigma": 2.93,
-      "prior_n": 5
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Zuchwil",
-      "path": "europe/switzerland/zuchwil",
-      "prior_mu": 16.71,
-      "prior_sigma": 2.77,
-      "prior_n": 6
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Mallare",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
-      "prior_mu": 20.38,
-      "prior_sigma": 2.8,
-      "prior_n": 5
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Vado Ligure",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
-      "prior_mu": 21.29,
-      "prior_sigma": 3.55,
-      "prior_n": 3
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

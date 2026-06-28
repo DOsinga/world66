@@ -6,6 +6,7 @@ longitude: 44.3344
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A short walk north of the Imam Ali Shrine, the Al-Hannanah Mosque marks one of the stations where, according to Shia tradition, the funeral procession carrying the head of Imam Husayn rested on its way from Karbala to Damascus. It is sometimes called the Mosque of the Head for this reason.

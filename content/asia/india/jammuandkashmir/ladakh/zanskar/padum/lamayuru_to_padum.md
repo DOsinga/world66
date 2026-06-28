@@ -11,6 +11,7 @@ story: >
   that receive almost no outside visitors. At the Singge La (5,090m) — the highest point
   of the trek — you stand on the watershed between the Indus drainage and the Zanskar
   drainage, with views in clear weather stretching deep into Tibet.
+score: 8.9
 ---
 
 The traverse from Lamayuru (near Leh, on the Srinagar highway) to Padum is one of the classic long treks of Ladakh, taking 10 to 14 days and crossing four high passes, the most demanding of which is the Singge La at 5,090 metres. The route passes through the extraordinary "Moonland" landscapes near Lamayuru, through the remote Lingshet and Snertse valleys, and ends with the descent to the Zanskar Valley.

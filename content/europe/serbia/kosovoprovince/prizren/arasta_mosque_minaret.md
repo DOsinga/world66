@@ -14,6 +14,7 @@ story: >
   explanations for its origin — some link it to pre-Islamic Illyrian symbols, others to a
   specific craftsman's signature. The mosque it served was demolished long ago, leaving
   this lone tower standing in the bazaar quarter without a building to belong to.
+score: 6.3
 ---
 
 This solitary Ottoman minaret in the old bazaar is all that remains of the Arasta Mosque, which was demolished in the 19th century. The minaret itself survived, and now stands somewhat incongruously among the shops and cafes of Prizren's commercial centre, a thin finger of stone pointing skyward with nothing around it.

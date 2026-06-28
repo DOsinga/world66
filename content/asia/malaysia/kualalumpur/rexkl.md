@@ -1,12 +1,15 @@
 ---
-title: "REXKL"
-type: poi
 latitude: 3.1439
-longitude: 101.7000
+longitude: 101.7
+score: 7.3
+snippet: Restored 1940s cinema in Chinatown, reimagined as a cultural centre with
+  galleries, food, and events
 tags:
-  - things_to_do
-  - chinatown
-  - sight
+- things_to_do
+- sight
+- chinatown
+title: REXKL
+type: poi
 ---
 
 The old Rex Cinema, a single-screen 1947 movie hall just east of Chinatown, has been reborn as a multi-storey creative space: a labyrinthine **BookXcess** bookstore on the upper floors, a food hall on the ground level featuring some of KL's better-known small operators, and an event space in the former auditorium that hosts gigs, film screenings, and small exhibitions.

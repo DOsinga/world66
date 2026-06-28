@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:-Rudaki_in_Park_Dushanbe_c
 latitude: 38.5762
 loc_type: city
 longitude: 68.7864
-score: 0.43
+score: 6.37
 title: Dushanbe
 type: location
+snippet: Tajik capital of Soviet boulevards and teahouses, grown from a Monday market
+  village.
 ---
 
 Dushanbe is one of those capitals that surprises you by being more pleasant than expected. Its name means Monday in Tajik — a reference to the weekly bazaar that once defined the place — and until the Soviet railroad arrived in the 1920s, it was little more than a market village. The Soviets built it into a proper city: wide tree-lined boulevards, grand Stalinist facades, a leafy central park. The bones of that plan are still there, and on a sunny day the city is genuinely agreeable.

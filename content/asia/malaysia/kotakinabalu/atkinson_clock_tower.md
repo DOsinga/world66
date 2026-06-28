@@ -13,6 +13,7 @@ story: >
   malaria aged just 28. It is the oldest standing structure in Kota Kinabalu,
   having survived the Allied bombing raids of World War II that destroyed most of
   the rest of the colonial town.
+score: 6.3
 ---
 
 The Atkinson Clock Tower stands on a low hill above the Padang, a white wooden structure that is the oldest surviving building in the city. It was erected in 1902 as a memorial to the young colonial officer who founded Jesselton — Kota Kinabalu's former name — and who died of malaria before seeing the town he had helped establish take shape.

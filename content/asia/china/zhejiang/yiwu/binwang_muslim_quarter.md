@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.3150
 longitude: 120.0720
+score: 8.4
 ---
 
 The streets around Binwang Market constitute one of the most unexpected urban environments in provincial China: blocks of Arabic-language signage, mosques, halal butchers, Middle Eastern grocery stores, and restaurants serving Levantine, Central Asian, and Subcontinental food. Tens of thousands of merchants from the Arab world, South Asia, and Africa have settled in Yiwu to source goods from the trade market, and the community has shaped several city blocks into something that feels more like a Levantine trading quarter than a Zhejiang city.

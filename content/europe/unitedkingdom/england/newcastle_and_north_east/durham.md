@@ -5,7 +5,9 @@ done:
 latitude: 54.666667
 loc_type: city
 longitude: -1.75
-score: 0.56
+score: 8.07
+snippet: English cathedral city on a river bend, dominated by its Norman cathedral,
+  castle, and university.
 title: Durham
 type: location
 ---

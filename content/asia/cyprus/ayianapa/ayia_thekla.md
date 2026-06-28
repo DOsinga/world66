@@ -8,6 +8,7 @@ tags:
 latitude: 34.9955
 longitude: 33.9467
 snippet: 4th-century Roman cave church on the coast west of town, still used for worship
+score: 6.8
 ---
 
 The Ayia Thekla church complex sits on the coastline about 5 km west of Ayia Napa, and it is one of the more unusual early Christian sites in Cyprus. The main draw is the underground cave chapel, a natural cavity in the limestone that was converted into a place of worship in the early Byzantine period — possibly as early as the 4th century AD. The cave contains frescoes and religious icons and is still used for occasional services.

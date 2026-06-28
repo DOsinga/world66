@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 31.0583
 longitude: -3.9930
+score: 7.7
 ---
 
 Dayet Srji is a shallow seasonal salt lake about 6 kilometres south of Merzouga, appearing after significant winter or spring rains and typically drying to a cracked white pan by early summer. When it fills, it becomes one of the most unexpected sights in Morocco: flamingos — sometimes hundreds of them — wade the shallows against a backdrop of sand dunes and open desert.

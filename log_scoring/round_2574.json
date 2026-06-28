@@ -1,0 +1,200 @@
+{
+  "round": 2574,
+  "timestamp": "2026-06-13T21:52:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 5.6238,
+      "prior_variance": 0.21802,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.7227,
+      "prior_variance": 0.166259,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 3.1731,
+      "prior_variance": 0.197842,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Cremona",
+      "path": "europe/italy/lombardia/cremona",
+      "prior_score": 2.1913,
+      "prior_variance": 0.181501,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 3.1434,
+      "prior_variance": 0.168189,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 3.6452,
+      "prior_variance": 0.186559,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.227,
+      "prior_variance": 0.164385,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 2.9302,
+      "prior_variance": 0.167999,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 4.536,
+      "prior_variance": 0.194309,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 3.5583,
+      "prior_variance": 0.20452,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 3.6319,
+      "prior_variance": 0.160353,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 3.8801,
+      "prior_variance": 0.20742,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/calistoga",
+      "prior_score": 2.6551,
+      "prior_variance": 0.181072,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 4.1705,
+      "prior_variance": 0.176118,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 2.1823,
+      "prior_variance": 0.167908,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": 1.2065,
+      "prior_variance": 0.165359,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.4468,
+      "prior_variance": 0.147603,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 2.4954,
+      "prior_variance": 0.183367,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.8928,
+      "prior_variance": 0.179455,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 0.5092,
+      "prior_variance": 0.186245,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.6917,
+      "prior_variance": 0.165589,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 2.2249,
+      "prior_variance": 0.17722,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.1834,
+      "prior_variance": 0.146577,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_score": -0.4677,
+      "prior_variance": 0.154302,
+      "prior_n": 8
+    }
+  ]
+}

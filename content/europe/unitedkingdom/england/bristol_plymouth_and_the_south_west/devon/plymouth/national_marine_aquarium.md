@@ -8,6 +8,7 @@ tags:
 latitude: 50.3665
 longitude: -4.1378
 snippet: The UK's largest aquarium, overlooking the Barbican harbour
+score: 6.8
 ---
 
 The National Marine Aquarium occupies a large modern building right on the Barbican waterfront and is the biggest aquarium in the UK. The main exhibits cover the Atlantic Ocean from rock pools around Plymouth Sound through to deep-sea environments, with particular emphasis on British waters and the marine life of the English Channel.

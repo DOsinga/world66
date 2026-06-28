@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:El_ruiz_volcano.jpg
 latitude: 5.0742
 loc_type: city
 longitude: -75.5081
-score: 0.54
+score: 7.73
+snippet: Andean coffee city on a narrow ridge, with university energy and Nevado del
+  Ruiz on the horizon.
 title: Manizales
 type: location
 ---

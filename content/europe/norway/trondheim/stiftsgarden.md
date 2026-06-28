@@ -12,6 +12,7 @@ tags:
 title: Stiftsgården
 type: poi
 url: www.kongehuset.no
+score: 7.0
 ---
 
 The royal residence in Trondheim is a handsome yellow mansion right in the city centre, built in the 1770s and serving as the official royal palace whenever the king visits the city. With 140 rooms spread across three floors, it is one of the grandest wooden buildings anywhere in Scandinavia. Guided tours run through the summer months.

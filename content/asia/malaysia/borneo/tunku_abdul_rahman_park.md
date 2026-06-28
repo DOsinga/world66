@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, beach, island]
 latitude: 5.9800
 longitude: 115.9950
+score: 7.4
 ---
 
 Tunku Abdul Rahman Park is the island escape just offshore from Kota Kinabalu. Boats run out to islands such as Manukan, Sapi, and Gaya for swimming, snorkelling, short walks, and beach time.

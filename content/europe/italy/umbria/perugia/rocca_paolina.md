@@ -14,6 +14,7 @@ story: >
   the foundations. Centuries later, at Italian unification, the Perugians demolished the hated
   fortress — but the medieval streets beneath it survived, buried and forgotten until excavations
   revealed them in the 20th century.
+score: 8.7
 ---
 
 The Rocca Paolina is one of the most unusual sights in Italy: an entire underground medieval city, preserved beneath the 16th-century papal fortress that was built on top of it. Pope Paul III ordered the fortress constructed in 1540 to assert control over the rebellious Perugians. The builders demolished the houses of the city's leading families — the Baglioni in particular — and used the ruins as foundations. When the fortress was torn down at Italian unification in 1860, the streets below were still there.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.1630
 longitude: 107.7812
+score: 6.7
 ---
 
 Honghegu (Red River Valley) Forest Park is the main access point for hiking in the mountains west of Baoji city, and the starting point for the ascent of Mount Taibai. The park sits in a steep-sided valley where the Honghegu stream cuts down through limestone and sandstone formations, creating waterfalls, pools, and narrow gorges. The forest in the lower valley is dense mixed woodland; higher up, above 2,000 metres, it transitions to conifer and rhododendron scrub.

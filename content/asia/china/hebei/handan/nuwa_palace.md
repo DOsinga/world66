@@ -13,6 +13,7 @@ story: >
   for at least 1,500 years, and the annual spring festival here draws hundreds of
   thousands of worshippers — making it one of the largest continuous folk religious
   gatherings in northern China.
+score: 7.2
 ---
 
 The Nuwa Palace complex on Phoenix Mountain (Fenghuangshan) in She County, about 100 kilometres west of Handan, is one of the oldest and most important sites of Nuwa worship in China. Nuwa is the creator goddess of Chinese mythology — she is said to have made humans from yellow clay, and to have repaired the sky with multicoloured stones after a cosmic calamity fractured it. The temple complex includes a series of halls climbing the hillside, with the main shrine at the summit surrounded by forested slopes.

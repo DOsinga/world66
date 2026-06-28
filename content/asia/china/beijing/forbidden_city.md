@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Forbidden City
 type: poi
+score: 8.8
 ---
 
 The imperial palace complex at the centre of Beijing, home to the Ming and Qing dynasty emperors from 1420 until the end of imperial China in 1912. A walled rectangle of 72 hectares and nearly a thousand surviving buildings, it is the largest preserved wooden palace complex in the world and the single best place to understand imperial China.

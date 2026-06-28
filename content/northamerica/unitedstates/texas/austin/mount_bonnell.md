@@ -10,6 +10,7 @@ latitude: 30.3219
 longitude: -97.7731
 story: >
   Mount Bonnell is Austin's highest point at 775 feet — though "mount" is generous for what Texans elsewhere would call a hill. It has been a popular excursion since at least the 1850s, and local legend holds that any couple who climbs it together will fall in love. This has produced an industry of marriage proposals at the summit, which has a comfortable viewing terrace over the Colorado River.
+score: 7.2
 ---
 
 Mount Bonnell, in the Covert Park on the western edge of the city, offers the best elevated view of Austin and the Colorado River valley. The 102 stone steps to the summit take about five minutes to climb, and the reward is a panoramic view over Lake Austin and the Hill Country stretching west. At 775 feet, it is the highest point within the city limits.

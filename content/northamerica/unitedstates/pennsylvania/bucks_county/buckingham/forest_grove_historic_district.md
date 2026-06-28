@@ -10,6 +10,7 @@ latitude: 40.2928
 longitude: -75.0608
 sources:
   - https://en.wikipedia.org/wiki/Forest_Grove_Historic_District
+score: 6.1
 ---
 
 Forest Grove is one of the small historic communities tucked into the southern part of Buckingham Township, listed on the National Register of Historic Places for its concentration of well-preserved 18th and 19th-century Pennsylvania fieldstone architecture. The cluster includes farmhouses, a former school, and a small church in a setting that looks much as it did two hundred years ago.

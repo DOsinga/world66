@@ -1,10 +1,10 @@
 ---
 latitude: 47.4966
 longitude: 19.05
+score: 8.1
 tags:
 - bars_and_cafes
 - sight
-- castle_district
 title: Café Gerbeaud
 type: poi
 ---

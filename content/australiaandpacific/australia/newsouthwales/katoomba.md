@@ -7,13 +7,19 @@ done:
 latitude: -33.713759
 loc_type: city
 longitude: 150.312163
-score: 0.66
+score: 8.7
+snippet: Blue Mountains gateway town known for the Three Sisters, cliff walks, and
+  sandstone escarpments.
+sources:
+- https://en.wikipedia.org/wiki/Katoomba
+- https://en.wikipedia.org/wiki/Scenic_World
+- https://en.wikipedia.org/wiki/Echo_Point_(lookout)
 title: Katoomba
 type: location
-sources:
-  - https://en.wikipedia.org/wiki/Katoomba
-  - https://en.wikipedia.org/wiki/Scenic_World
-  - https://en.wikipedia.org/wiki/Echo_Point_(lookout)
+image: katoomba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_Three_Sisters_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: wood26
 ---
 
 Katoomba is the main town of the Blue Mountains and the natural gateway to one of the most dramatic landscapes in eastern Australia. Perched on the edge of the Jamison Valley about 100 km west of [Sydney](/australiaandpacific/australia/newsouthwales/sydney), it sits within the Blue Mountains National Park — a UNESCO World Heritage Site covering a vast sandstone plateau cut through by gorges up to 760 metres deep, cloaked in eucalyptus forest that releases a blue-tinted oil haze on warm days, giving the range its name.

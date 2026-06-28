@@ -6,6 +6,7 @@ tags:
 - sight
 title: Sudama Setu
 type: poi
+score: 6.4
 ---
 
 Sudama Setu is the pedestrian bridge over the Gomti Creek, linking the temple side with sandy ground and sea views opposite. It is a simple crossing, but a useful one: the perspective back toward Dwarkadhish is excellent.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Changsha_Downtown_Dongpail
 latitude: 28.1987
 loc_type: city
 longitude: 112.9709
+score: 6.89
+snippet: Hunan’s provincial capital on the Xiang River, closely tied to Mao Zedong’s
+  early life.
 sources:
 - https://en.wikivoyage.org/wiki/Changsha
 title: Changsha

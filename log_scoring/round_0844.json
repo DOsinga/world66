@@ -1,200 +1,200 @@
 {
   "round": 844,
-  "timestamp": "2026-04-12T14:44:11",
+  "timestamp": "2026-06-13T19:56:45",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Tel Aviv",
-      "path": "asia/israel/telaviv",
-      "prior_score": 9.2748,
-      "prior_variance": 2.79246,
-      "prior_n": 1
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 2.3242,
+      "prior_variance": 2.12203,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Galicia",
-      "path": "europe/spain/galicia",
-      "prior_score": 7.4004,
-      "prior_variance": 1.824259,
-      "prior_n": 1
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 2.1934,
+      "prior_variance": 0.65823,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Montego Bay",
-      "path": "northamerica/jamaica/montegobay",
-      "prior_score": 9.5051,
-      "prior_variance": 1.004868,
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 4.009,
+      "prior_variance": 1.427867,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Bojnice",
-      "path": "europe/slovakia/bojnice",
-      "prior_score": 1.2257,
-      "prior_variance": 1.519438,
-      "prior_n": 1
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 2.5802,
+      "prior_variance": 1.11738,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Slovakia",
-      "path": "europe/slovakia",
-      "prior_score": 6.0999,
-      "prior_variance": 3.857632,
-      "prior_n": 1
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 3.7068,
+      "prior_variance": 0.668377,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Murchison Falls National Park",
-      "path": "africa/uganda/murchison_falls_na",
-      "prior_score": 6.5937,
-      "prior_variance": 1.832579,
-      "prior_n": 1
+      "title": "Chengyang",
+      "path": "asia/china/guangxi/chengyang",
+      "prior_score": 2.6963,
+      "prior_variance": 0.729326,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Tsodilo hills",
-      "path": "africa/botswana/tsodilohills",
-      "prior_score": -0.6929,
-      "prior_variance": 1.344163,
-      "prior_n": 1
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.6528,
+      "prior_variance": 0.560075,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Baguio",
-      "path": "asia/philippines/baguio",
-      "prior_score": 3.1308,
-      "prior_variance": 2.066259,
-      "prior_n": 1
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 3.0304,
+      "prior_variance": 0.670288,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Oracabessa",
-      "path": "northamerica/jamaica/oracabessa",
-      "prior_score": 4.0624,
-      "prior_variance": 2.409464,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 7.2956,
+      "prior_variance": 0.764415,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Kokura",
-      "path": "asia/japan/kyushu/kitakyushu/kokura",
-      "prior_score": 0.1433,
-      "prior_variance": 1.378165,
-      "prior_n": 1
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 2.895,
+      "prior_variance": 0.736401,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Groveland",
-      "path": "northamerica/unitedstates/california/highsierra/groveland",
-      "prior_score": -0.8596,
-      "prior_variance": 1.381034,
-      "prior_n": 1
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 4.0086,
+      "prior_variance": 0.579702,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "St.Augustine",
-      "path": "northamerica/trinidadandtobago/staugustine",
-      "prior_score": -2.0681,
-      "prior_variance": 1.369967,
-      "prior_n": 1
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 3.6911,
+      "prior_variance": 0.72205,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Raleighvallen",
-      "path": "southamerica/suriname/raleighvallen",
-      "prior_score": 0.3993,
-      "prior_variance": 1.356318,
-      "prior_n": 1
+      "title": "Alnwick",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/alnwick",
+      "prior_score": 4.4341,
+      "prior_variance": 0.653766,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Wilmington",
-      "path": "northamerica/unitedstates/vermont/wilmington",
-      "prior_score": -1.6987,
-      "prior_variance": 1.673652,
-      "prior_n": 1
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 2.2745,
+      "prior_variance": 0.759972,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Burlingame",
-      "path": "northamerica/unitedstates/california/burlingame",
-      "prior_score": -5.7112,
-      "prior_variance": 1.632478,
-      "prior_n": 1
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 4.3692,
+      "prior_variance": 0.632203,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "oran",
-      "path": "africa/algeria/oran/oran_1",
-      "prior_score": -4.4257,
-      "prior_variance": 2.714243,
-      "prior_n": 1
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 1.0922,
+      "prior_variance": 0.518993,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Salem",
-      "path": "northamerica/unitedstates/newjersey/salem",
-      "prior_score": -6.8973,
-      "prior_variance": 1.16539,
-      "prior_n": 1
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 2.5358,
+      "prior_variance": 0.749179,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Larned",
-      "path": "northamerica/unitedstates/kansas/larned",
-      "prior_score": -10.6931,
-      "prior_variance": 9.190275,
-      "prior_n": 1
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 3.2074,
+      "prior_variance": 0.487031,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Cotonou",
-      "path": "africa/benin/cotonou",
-      "prior_score": -5.3542,
-      "prior_variance": 1.773322,
-      "prior_n": 1
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": 1.3475,
+      "prior_variance": 0.937004,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Freetown",
-      "path": "africa/sierraleone/freetown",
-      "prior_score": -4.5439,
-      "prior_variance": 1.256299,
-      "prior_n": 1
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 2.7288,
+      "prior_variance": 0.745871,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Parakou",
-      "path": "africa/benin/parakou",
-      "prior_score": -7.2097,
-      "prior_variance": 1.69368,
-      "prior_n": 1
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 1.0373,
+      "prior_variance": 0.672684,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Dhaka",
-      "path": "asia/bangladesh/dhaka",
-      "prior_score": -3.7177,
-      "prior_variance": 1.388495,
-      "prior_n": 1
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 3.2837,
+      "prior_variance": 0.763784,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Sheikhupura",
-      "path": "asia/pakistan/sheikhu_pura",
-      "prior_score": -6.8813,
-      "prior_variance": 1.329692,
-      "prior_n": 1
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": 2.9655,
+      "prior_variance": 0.648725,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Galkayo",
-      "path": "africa/somalia/galkayo",
-      "prior_score": -8.7349,
-      "prior_variance": 2.110571,
-      "prior_n": 1
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 2.2438,
+      "prior_variance": 0.662666,
+      "prior_n": 2
     }
   ]
 }

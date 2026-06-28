@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4187
 longitude: -70.6367
+score: 5.4
 ---
 
 Chile's national zoo occupies the lower slopes of Cerro San Cristóbal, inside the Parque Metropolitano. The collection focuses heavily on South American fauna — Andean condors, guanacos, pumas, tapirs, vicuñas — alongside the standard international collection. The setting is excellent: the enclosures are carved into the hillside and the zoo walks feel like trails through hilly terrain rather than flat concrete avenues.

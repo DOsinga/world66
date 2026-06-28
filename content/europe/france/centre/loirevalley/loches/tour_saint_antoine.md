@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 16th-century Renaissance belfry tower in the lower town, one of the few civic clock towers of its date in France
+score: 7.5
 ---
 
 The Tour Saint-Antoine, in the lower town near the market square, is a striking 52-metre Renaissance bell tower built between 1529 and 1575. It is one of only a handful of civic belfries of its date in France -- most clock towers of this size are attached to churches. The lower stages are plain Gothic; the upper section, with its arcaded openings and ribbed dome, is unmistakably Italian Renaissance.

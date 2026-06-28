@@ -6,6 +6,7 @@ tags:
 - sight
 title: Place Jean Bayol
 type: poi
+score: 5.8
 ---
 
 The central public square of Porto-Novo, Place Jean Bayol is the hub of outdoor life in the old city. The square is anchored by a statue of the first king of Porto-Novo and surrounded by administrative buildings and colonial-era facades. It is the obvious starting point for exploring the historic centre on foot.

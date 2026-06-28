@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Hotel Sakamanga Restaurant
 type: poi
+score: 5.8
 ---
 
 The Sakamanga has been a traveller institution in Antananarivo for years, and its ground-floor restaurant is the reason many people keep returning. The menu covers Malagasy staples — romazava broth, ravitoto pork with cassava leaves, zebu brochettes — alongside French bistro standards and a handful of pasta dishes. Portions are generous and prices are reasonable. The Malagasy dishes, in particular, are among the most honestly prepared in any restaurant in the city.

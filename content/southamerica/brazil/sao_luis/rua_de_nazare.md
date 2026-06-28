@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.5278
 longitude: -44.3005
+score: 7.7
 ---
 
 Rua de Nazaré is one of the principal streets of the Praia Grande historic district, running through the heart of the colonial town and lined on both sides with azulejo-covered facades. It's the best single street in São Luís for seeing the tiled architecture at its most concentrated — almost every building has tiles, and the variety of patterns and colours is remarkable.

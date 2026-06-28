@@ -3,9 +3,11 @@ address: 660 Madison Avenue
 latitude: 40.764739
 longitude: -73.971142
 phone: 212-716-8817
+score: 4.5
 tags:
 - shopping
 - shop
+- midtown
 title: Barney's New York
 type: poi
 url: www.barneys.com

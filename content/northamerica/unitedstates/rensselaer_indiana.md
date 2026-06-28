@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jasper_County_Courthouse_R
 latitude: 40.936704
 loc_type: city
 longitude: -87.150856
-score: 0.29
+score: 4.72
+snippet: Small northern Indiana county town with a courthouse square, Carnegie library,
+  and unhurried Main Street.
 title: Rensselaer, Indiana
 type: location
 ---

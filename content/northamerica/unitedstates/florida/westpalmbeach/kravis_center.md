@@ -8,6 +8,7 @@ tags:
 - theatre
 title: Kravis Center for the Performing Arts
 type: poi
+score: 7.1
 ---
 
 The Kravis Center opened in 1992 and is the largest performing arts complex between Miami and Tampa: an acoustically respected 2,200-seat main hall (the Dreyfoos), an intimate 300-seat theatre, and a black-box studio. The programme runs Broadway tours, the Palm Beach Symphony, opera, dance, and a strong jazz series.

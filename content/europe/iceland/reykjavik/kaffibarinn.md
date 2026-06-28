@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Kaffibarinn
 type: poi
+score: 7.2
 ---
 
 The most enduring of Reykjavik's downtown bars, in a small house with a London Underground sign on the front. Damon Albarn was once a part-owner, and Baltasar Kormákur set part of the film *101 Reykjavík* here. Coffee and beer in the afternoon, a packed dance floor with local DJs from late on weekends.

@@ -1,14 +1,18 @@
 ---
-title: Botafogo
-type: neighbourhood
-snippet: A residential neighbourhood between the mountains and the bay, with the best view of Sugarloaf
-tags:
-  - things_to_do
-  - neighbourhood
+image: botafogo.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro,_Brazil_0011_02.jpg
 latitude: -22.9453
 longitude: -43.1851
+snippet: A residential neighbourhood between the mountains and the bay, with the best
+  view of Sugarloaf
 sources:
-  - https://en.wikipedia.org/wiki/Botafogo,_Rio_de_Janeiro
+- https://en.wikipedia.org/wiki/Botafogo,_Rio_de_Janeiro
+tags:
+- things_to_do
+- neighbourhood
+title: Botafogo
+type: neighbourhood
 ---
 
 Botafogo is the neighbourhood that sits between the mountains and Guanabara Bay, south of Centro and north of the Zona Sul beaches. The bay-facing Praia de Botafogo offers the classic postcard view of Sugarloaf Mountain from ground level — a perfect cone reflected in the calm water of the bay. Botafogo is not a swimming beach (the water is too polluted) but the seafront walk is excellent in the late afternoon.

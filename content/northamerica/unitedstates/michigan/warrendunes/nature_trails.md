@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.905277
 longitude: -86.599444
+score: 6.7
 ---
 
 Behind the dunes, Warren Dunes has several kilometres of hiking trails through beech-maple forest that feels completely separate from the beach scene out front. The trees are mature and tall, the canopy is dense in summer, and the trails wind through dune ridges and hollows that were formed by the same wind-and-water processes that built Tower Hill. It is a genuine forest, not a manicured greenway, and in autumn the foliage turns the whole area gold and rust in a way that makes fall hiking here as rewarding as summer beach visits.

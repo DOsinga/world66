@@ -1,200 +1,200 @@
 {
   "round": 2259,
-  "timestamp": "2026-04-13T16:25:22",
+  "timestamp": "2026-06-13T21:29:39",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Lauterbrunnen",
-      "path": "europe/switzerland/lauterbrunnen",
-      "prior_score": 8.8205,
-      "prior_variance": 0.661734,
-      "prior_n": 5
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.7442,
+      "prior_variance": 0.186557,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Olympia",
-      "path": "europe/greece/olympia",
-      "prior_score": 5.6555,
-      "prior_variance": 0.274583,
-      "prior_n": 5
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 4.8604,
+      "prior_variance": 0.193458,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Heidelberg",
-      "path": "europe/germany/badenwrttemberg/heidelberg",
-      "prior_score": 7.3839,
-      "prior_variance": 0.355484,
-      "prior_n": 5
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 3.6238,
+      "prior_variance": 0.206789,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Perast",
-      "path": "europe/serbiaandmontenegro/perast",
-      "prior_score": 4.2981,
-      "prior_variance": 0.258688,
-      "prior_n": 6
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 2.8073,
+      "prior_variance": 0.185475,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Delhi",
-      "path": "asia/india/delhi",
-      "prior_score": 3.1015,
-      "prior_variance": 0.267334,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 4.2051,
+      "prior_variance": 0.210749,
       "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Borjomi",
-      "path": "europe/georgia/borjomi",
-      "prior_score": 2.9036,
-      "prior_variance": 0.262545,
-      "prior_n": 6
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 4.5011,
+      "prior_variance": 0.234694,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Bukittinggi",
-      "path": "asia/indonesia/sumatra/bukittinggi",
-      "prior_score": 1.1732,
-      "prior_variance": 0.229225,
-      "prior_n": 6
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 4.0116,
+      "prior_variance": 0.225893,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Kristiansund",
-      "path": "europe/norway/kristiansund",
-      "prior_score": 1.1301,
-      "prior_variance": 0.217681,
-      "prior_n": 6
+      "title": "Kastoria",
+      "path": "europe/greece/kastoria",
+      "prior_score": 1.5501,
+      "prior_variance": 0.179136,
+      "prior_n": 8
     },
     {
       "rank": 9,
-      "title": "Comacchio",
-      "path": "europe/italy/emiliaromagna/comacchio",
-      "prior_score": 1.8115,
-      "prior_variance": 0.212914,
-      "prior_n": 6
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 3.549,
+      "prior_variance": 0.237759,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "El Jadida",
-      "path": "africa/morocco/eljadida",
-      "prior_score": 1.4435,
-      "prior_variance": 0.224989,
-      "prior_n": 6
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.5363,
+      "prior_variance": 0.293852,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Isla Negra",
-      "path": "southamerica/chile/isla_negra",
-      "prior_score": 0.8892,
-      "prior_variance": 0.219966,
-      "prior_n": 6
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.5315,
+      "prior_variance": 0.182519,
+      "prior_n": 8
     },
     {
       "rank": 12,
-      "title": "Lake Malawi",
-      "path": "africa/malawi/lakemalawi",
-      "prior_score": 2.0986,
-      "prior_variance": 0.246565,
-      "prior_n": 6
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.5403,
+      "prior_variance": 0.185875,
+      "prior_n": 8
     },
     {
       "rank": 13,
-      "title": "Togoville",
-      "path": "africa/togo/togoville",
-      "prior_score": -2.5839,
-      "prior_variance": 0.245862,
-      "prior_n": 6
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.7885,
+      "prior_variance": 0.191747,
+      "prior_n": 8
     },
     {
       "rank": 14,
-      "title": "Hisaronu",
-      "path": "asia/turkey/hisaronu",
-      "prior_score": 1.8212,
-      "prior_variance": 0.234324,
-      "prior_n": 6
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.0292,
+      "prior_variance": 0.218236,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Bulawayo",
-      "path": "africa/zimbabwe/bulawayo",
-      "prior_score": -3.9232,
-      "prior_variance": 0.325625,
-      "prior_n": 5
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 2.9289,
+      "prior_variance": 0.237952,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Franeker",
-      "path": "europe/netherlands/friesland/franeker",
-      "prior_score": -0.8117,
-      "prior_variance": 0.188958,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 3.558,
+      "prior_variance": 0.204814,
       "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Impero Valley",
-      "path": "europe/italy/liguria/imperovalley",
-      "prior_score": 1.6863,
-      "prior_variance": 0.274703,
-      "prior_n": 6
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 3.6294,
+      "prior_variance": 0.194119,
+      "prior_n": 8
     },
     {
       "rank": 18,
-      "title": "Montesilvano",
-      "path": "europe/italy/abruzzo/montesilvano",
-      "prior_score": -0.3852,
-      "prior_variance": 0.238176,
-      "prior_n": 6
+      "title": "Pigeon Forge and Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/pigeonforgegatlinburg",
+      "prior_score": 2.5185,
+      "prior_variance": 0.168106,
+      "prior_n": 9
     },
     {
       "rank": 19,
-      "title": "Holden Beach",
-      "path": "northamerica/unitedstates/northcarolina/holden_beach",
-      "prior_score": -0.6195,
-      "prior_variance": 0.214575,
-      "prior_n": 6
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.4357,
+      "prior_variance": 0.191491,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Blandford",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford",
-      "prior_score": -3.298,
-      "prior_variance": 0.269591,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -0.6929,
+      "prior_variance": 0.234429,
       "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Hamilton",
-      "path": "northamerica/canada/ontario/hamilton",
-      "prior_score": -1.2835,
-      "prior_variance": 0.215702,
-      "prior_n": 6
+      "title": "Coquimbo",
+      "path": "southamerica/chile/coquimbo",
+      "prior_score": 0.0237,
+      "prior_variance": 0.180941,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "San Marcos",
-      "path": "northamerica/unitedstates/california/sandiego/sanmarcos",
-      "prior_score": -3.334,
-      "prior_variance": 0.189703,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -1.4981,
+      "prior_variance": 0.203,
       "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "\u201cTacoma\u201d",
-      "path": "northamerica/unitedstates/washington/tacoma",
-      "prior_score": -1.9568,
-      "prior_variance": 0.287582,
-      "prior_n": 6
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": -2.7251,
+      "prior_variance": 0.334431,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Lula",
-      "path": "northamerica/unitedstates/mississippi/lula",
-      "prior_score": -7.9262,
-      "prior_variance": 0.560585,
-      "prior_n": 6
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.6127,
+      "prior_variance": 0.223848,
+      "prior_n": 8
     }
   ]
 }

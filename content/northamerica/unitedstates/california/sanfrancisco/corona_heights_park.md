@@ -2,13 +2,13 @@
 address: Roosevelt Way and Museum Way
 latitude: 37.7647
 longitude: -122.4391
+score: 7.8
 snippet: Rocky hilltop with sweeping city views and no tour buses
 tags:
 - things_to_do
 - park
 - castro_district
 title: Corona Heights Park
-neighbourhood: Castro District
 type: poi
 ---
 

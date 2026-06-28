@@ -6,6 +6,7 @@ longitude: -74.8500
 tags:
   - things_to_do
   - sight
+score: 9.3
 ---
 
 A UNESCO World Heritage site west of Baracoa, named for the Prussian polymath who explored these mountains in 1801. The park protects one of the most biodiverse ecosystems in the insular Caribbean — pine forests, rainforest, mangroves, and karst peaks all packed into a small area, with an extraordinary density of endemic species.

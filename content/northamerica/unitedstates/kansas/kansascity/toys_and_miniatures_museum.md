@@ -8,6 +8,7 @@ latitude: 39.0396
 longitude: -94.5789
 story: >
   The miniatures collection includes some pieces so small they require a magnifying glass to appreciate fully — working oil paintings the size of a thumbnail, chandeliers with individual cut-glass drops smaller than a grain of rice. The work represents thousands of hours of craft and a kind of obsessive precision that sits somewhere between art and mania.
+score: 6.9
 ---
 
 The National Museum of Toys and Miniatures occupies a grand 1911 mansion near the Country Club Plaza and holds two distinct collections: one of fine-scale miniature rooms and objects made by master craftspeople, and one of historic antique toys spanning over a century. Together they form the world's largest collection of their kind.

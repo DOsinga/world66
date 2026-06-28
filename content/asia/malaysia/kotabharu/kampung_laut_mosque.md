@@ -12,6 +12,7 @@ story: >
   shipbuilding skills to construct a mosque from local timber — without a single nail. The
   entire structure was assembled using wooden pegs and traditional joinery, a technique they
   brought from Java.
+score: 8.0
 ---
 
 Masjid Kampung Laut is one of the oldest mosques in Malaysia, built entirely from cengal hardwood in a traditional construction technique that uses no nails or metal fasteners. The building's age is debated — some estimates put it at over 300 years old — but its authenticity is not: the jointed timber frame, tiered roof, and elevated floor are as they have always been.

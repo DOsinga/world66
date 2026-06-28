@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fontevraud3.jpg
 latitude: 47.181353
 loc_type: city
 longitude: 0.037881
-score: 0.56
+score: 8.11
+snippet: Loire Valley village defined by its vast royal abbey and the Plantagenet
+  tombs inside.
 title: Fontevraud
 type: location
 ---

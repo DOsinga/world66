@@ -1,200 +1,200 @@
 {
   "round": 760,
-  "timestamp": "2026-04-12T10:46:49",
+  "timestamp": "2026-06-13T19:52:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bled",
-      "path": "europe/slovenia/bled",
-      "prior_mu": 31.6589,
-      "prior_sigma": 6.2169,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 8.8568,
+      "prior_variance": 0.925381,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Corniglia",
-      "path": "europe/italy/liguria/corniglia",
-      "prior_mu": 25.5708,
-      "prior_sigma": 5.0013,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 3.2715,
+      "prior_variance": 0.944428,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Playa de Palma",
-      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 6.8298,
+      "prior_variance": 0.675309,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Ninh Binh",
-      "path": "asia/vietnam/ninh_binh",
-      "prior_mu": 25.0416,
-      "prior_sigma": 6.0793,
-      "prior_n": 1
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 9.2785,
+      "prior_variance": 0.939899,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Herm",
-      "path": "europe/channelislands/herm",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 8.7136,
+      "prior_variance": 0.859958,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Glenridding",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/glenridding",
-      "prior_mu": 21.6933,
-      "prior_sigma": 4.3395,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 5.1732,
+      "prior_variance": 0.864019,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Friuli Venezia Giulia",
-      "path": "europe/italy/friuliveneziagiulia",
-      "prior_mu": 23.0923,
-      "prior_sigma": 5.9565,
-      "prior_n": 1
-    },
-    {
-      "rank": 8,
-      "title": "Montespertoli",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
-      "prior_mu": 21.229,
-      "prior_sigma": 4.0895,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 6.062,
+      "prior_variance": 0.710439,
       "prior_n": 3
     },
     {
+      "rank": 8,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 4.6788,
+      "prior_variance": 0.939161,
+      "prior_n": 2
+    },
+    {
       "rank": 9,
-      "title": "Vigo",
-      "path": "europe/spain/galicia/vigo",
-      "prior_mu": 22.3315,
-      "prior_sigma": 5.3773,
-      "prior_n": 1
+      "title": "Lake Elmenteita",
+      "path": "africa/kenya/lakes/lakeelmenteita",
+      "prior_score": 4.6413,
+      "prior_variance": 1.226639,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Cesis",
-      "path": "europe/latvia/cesis",
-      "prior_mu": 22.4753,
-      "prior_sigma": 5.994,
-      "prior_n": 1
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 4.9076,
+      "prior_variance": 0.645111,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Port Macquarie",
-      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
-      "prior_mu": 21.9893,
-      "prior_sigma": 4.4882,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 5.7984,
+      "prior_variance": 1.024027,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "South Dakota",
-      "path": "northamerica/unitedstates/southdakota",
-      "prior_mu": 21.7304,
-      "prior_sigma": 4.5302,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 6.1407,
+      "prior_variance": 0.665834,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Saint Bartholomy",
-      "path": "northamerica/thecaribbean/saintbartholomy",
-      "prior_mu": 22.7362,
-      "prior_sigma": 5.9257,
-      "prior_n": 1
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 6.0918,
+      "prior_variance": 0.835403,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Greenville Junction",
-      "path": "northamerica/unitedstates/maine/greenville_junctio",
-      "prior_mu": 21.1077,
-      "prior_sigma": 3.7822,
-      "prior_n": 3
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 3.9281,
+      "prior_variance": 1.280586,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Maharashtra",
-      "path": "asia/india/maharashtra",
-      "prior_mu": 22.4747,
-      "prior_sigma": 5.743,
-      "prior_n": 1
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 5.042,
+      "prior_variance": 0.758452,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Dallas",
-      "path": "northamerica/unitedstates/texas/dallas",
-      "prior_mu": 21.5539,
-      "prior_sigma": 4.2026,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 5.8483,
+      "prior_variance": 0.976802,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Indianopolis",
-      "path": "northamerica/unitedstates/indiana/indianopolis",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 3.802,
+      "prior_variance": 1.058232,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "San Pablo City",
-      "path": "asia/philippines/sanpablocity",
-      "prior_mu": 21.551,
-      "prior_sigma": 4.4249,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 6.1036,
+      "prior_variance": 1.013509,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Al Wakrah",
-      "path": "asia/qatar/alwakrah",
-      "prior_mu": 22.3988,
-      "prior_sigma": 5.7203,
-      "prior_n": 1
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 5.9591,
+      "prior_variance": 1.252134,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Bad Schwartau",
-      "path": "europe/germany/schleswigholstein/badschwartau",
-      "prior_mu": 18.9638,
-      "prior_sigma": 5.1641,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 5.9275,
+      "prior_variance": 0.950534,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Zielonka",
-      "path": "europe/poland/zielonka",
-      "prior_mu": 22.3034,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": 4.8936,
+      "prior_variance": 0.808339,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Makeni",
-      "path": "africa/sierraleone/makeni",
-      "prior_mu": 21.5722,
-      "prior_sigma": 5.7307,
-      "prior_n": 1
+      "title": "Malia",
+      "path": "europe/greece/crete/malia",
+      "prior_score": 6.0829,
+      "prior_variance": 0.653411,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Faisalabad",
-      "path": "asia/unitedarabemirates/sharjah/faisalabad",
-      "prior_mu": 20.9585,
-      "prior_sigma": 4.6782,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 4.7541,
+      "prior_variance": 0.809927,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Galdogob",
-      "path": "africa/somalia/galdogob",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 4.6315,
+      "prior_variance": 1.302535,
+      "prior_n": 1
     }
   ]
 }

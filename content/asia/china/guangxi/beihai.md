@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beihai-Silver-Beach-2007-0
 latitude: 21.4667
 loc_type: city
 longitude: 109.1
+score: 7.24
+snippet: Guangxi beach city on the Gulf of Tonkin, known for seafood markets and Silver
+  Beach.
 sources:
 - https://en.wikivoyage.org/wiki/Beihai
 title: Beihai

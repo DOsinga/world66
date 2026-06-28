@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hobart-Tasmania-Australia1
 latitude: -42.8821
 loc_type: city
 longitude: 147.3272
-score: 0.65
+score: 8.74
+snippet: Tasmanian capital on the Derwent River, backed by kunanyi/Mount Wellington
+  and centred on Sullivans Cove.
 title: Hobart
 type: location
 ---

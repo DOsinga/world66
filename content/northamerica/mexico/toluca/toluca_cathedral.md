@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 19.2916
 longitude: -99.6572
+score: 6.6
 ---
 
 The Cathedral of Saint Joseph of Nazareth, on the main plaza, is a comparatively young building by Mexican standards — construction began in 1867 and was not finished until 1978. The style is broadly neoclassical with later neo-Romanesque additions, and the long building period shows: the façade is restrained, the interior is florid.

@@ -7,6 +7,7 @@ tags:
 latitude: 41.9650
 longitude: 12.0350
 story: "Torre Flavia is losing its battle with the Tyrrhenian Sea. Coastal erosion has already claimed the causeway that once connected it to the shore — at high tide the tower stands in the water — and engineers estimate it has decades, not centuries, left. The WWF manages the surrounding wetland as a nature reserve and monitors the tower's slow retreat."
+score: 7.9
 ---
 
 The ruined medieval watchtower standing in the sea just north of Ladispoli is the town's most distinctive landmark. Built in the 16th century as part of a coastal defense network against Saracen raids, Torre Flavia now stands isolated on a rocky shoal, reachable only by wading or at very low tide.

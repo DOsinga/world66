@@ -6,6 +6,7 @@ latitude: 34.0667
 longitude: 133.0000
 story: >
   The route was engineered for cars, but its protected cycling lanes turned it into a pilgrimage of a different kind. Riders cross island after island with sea below, citrus groves beside the road, and bridges that feel improbably graceful at bicycle speed.
+score: 9.0
 ---
 
 The Shimanami Kaido links Imabari in Ehime with Onomichi on Honshu by a chain of bridges and islands across the Seto Inland Sea. It is one of Japan's best cycling routes, long enough to feel like a journey but manageable for fit casual riders.

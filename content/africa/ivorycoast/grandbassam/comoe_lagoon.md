@@ -10,6 +10,7 @@ story: >
   The Comoé River, which empties into the lagoon here, is one of West Africa's longer rivers, rising in Burkina Faso and running more than 800 kilometres south to the sea. At Grand-Bassam its mouth has created a lagoon that effectively made the town: the sheltered water gave the colonial port its reason to exist, and the fish have sustained the local population for far longer than that.
 sources:
   - https://en.wikipedia.org/wiki/Komo%C3%A9_River
+score: 7.2
 ---
 
 The lagoon behind the historic quarter provides a quieter counterpart to the ocean beach on the other side of the peninsula. Pirogue canoes work the water in the morning, setting and retrieving nets; the catch — tilapia, barracuda, mullet — goes straight to the stalls in the market on the lagoon side of the historic town.

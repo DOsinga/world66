@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.6278
 longitude: -116.9744
+score: 4.7
 ---
 
 Eastlake is a planned community in eastern Chula Vista, built from the 1980s onward around a series of artificial lakes and ponds. It is a prototype of the master-planned suburban development that defined San Diego County's growth during that era — uniformly neat, heavily amenitised, and somewhat interchangeable with similar developments across Southern California. But it has aged well and has a pleasant lakeside ambiance.

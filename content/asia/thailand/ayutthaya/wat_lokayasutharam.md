@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Wat Lokayasutharam
 type: poi
+score: 7.3
 ---
 
 In the western part of the historical park, an enormous reclining Buddha lies in the open, its viharn long since disappeared. The statue is 42 metres long and 8 metres high — large enough that visitors walk alongside it rather than around it. Monks regularly come to drape fresh orange robes over the image, which creates one of the more vivid photographic moments in Ayutthaya.

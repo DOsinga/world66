@@ -14,6 +14,7 @@ story: >
   as a semi-wild population across hundreds of kilometres of Arctic terrain. The reindeer
   safari industry emerged in the 1980s as a way for traditional herding families to share
   their culture while earning income from tourism.
+score: 7.5
 ---
 
 Reindeer safaris are one of the most characteristically Finnish experiences available around Rovaniemi, and they are better than you might expect from a tourist activity. A reindeer-drawn sleigh moving through a silent birch forest in midwinter, with snow falling and temperatures at minus twenty, is genuinely atmospheric rather than merely photogenic. Many farms combine the sleigh experience with a visit to see how the animals are fed and handled, and some offer a chance to learn to drive the sleigh yourself.

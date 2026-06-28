@@ -9,6 +9,7 @@ latitude: -37.2208
 longitude: 145.4492
 sources:
   - https://en.wikipedia.org/wiki/Yea_Flora_Fossil_Site
+score: 5.9
 ---
 
 The Yea Flora Fossil Site is a roadside cutting on Limestone Road, just east of town, where Miocene-era plant fossils are visible in the exposed rock face. The fossils are around 5 million years old and preserve the impressions of leaves, seeds, and fragments of a subtropical forest that once covered this part of Victoria when the climate was warmer. The site is registered on the Victorian Heritage Register.

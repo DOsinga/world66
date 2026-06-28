@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 9.8
 ---
 
 About 75 km west of Bamiyan town, on the road towards the central highlands, sits one of the most surreal landscapes in Asia: six deep-blue lakes at 3,000 metres above sea level, each held in place by a natural dam of travertine — limestone precipitated out of the water itself — surrounded by red sandstone cliffs.

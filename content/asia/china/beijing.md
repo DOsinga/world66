@@ -7,11 +7,17 @@ done:
 latitude: 39.905714
 loc_type: city
 longitude: 116.391297
-score: 0.73
+score: 9.46
+snippet: China's northern capital, centred on imperial landmarks including the Forbidden
+  City, Temple of Heaven, and Summer Palace.
 sources:
 - https://en.wikivoyage.org/wiki/Beijing
 title: Beijing
 type: location
+image: beijing.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2017-05-07_The_Forbidden_City.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Windmemories
 ---
 
 Beijing — "Northern Capital" — has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The [Forbidden City](/asia/china/beijing/forbidden_city) at the heart of the old town, the [Temple of Heaven](/asia/china/beijing/temple_of_heaven) to the south, the [Summer Palace](/asia/china/beijing/summer_palace) to the northwest, and the [Great Wall at Mutianyu](/asia/china/beijing/great_wall_mutianyu) running along the mountains an hour north are the most famous set pieces of imperial China anywhere in the world, and together they fill the better part of a week.

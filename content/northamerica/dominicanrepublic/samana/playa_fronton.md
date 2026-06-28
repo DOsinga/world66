@@ -8,6 +8,7 @@ tags:
 - nature
 title: Playa Frontón
 type: poi
+score: 8.1
 ---
 
 Playa Frontón is a steep crescent of white sand backed by sheer green cliffs, accessible only by boat (15 minutes from Las Galeras) or a strenuous hour-long hike through the forest. The beach faces the open Atlantic, the water is unusually clear, and a shallow reef close to shore makes the snorkelling among the best in the region.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Kigamboni Bridge
 type: poi
+score: 4.5
 ---
 
 The Mwl. Nyerere Bridge, almost always called the Kigamboni Bridge, opened in 2016 — a 680-metre cable-stayed span across the mouth of the harbour, linking the city centre to the Kigamboni peninsula. It was the first cable-stayed bridge of any size in East Africa and the construction was managed by Chinese engineers as part of the Belt and Road programme.

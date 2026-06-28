@@ -5,6 +5,7 @@ latitude: 33.270
 longitude: 35.195
 snippet: "Informal fish restaurants along the old harbour serving whatever came in that morning"
 tags: [eating_out, restaurant]
+score: 7.1
 ---
 
 A cluster of small restaurants lines the waterfront near the old harbour, serving grilled fish, fried calamari, and mezze. The fish is genuinely fresh — the boats land their catch a short walk away — and the cooking is straightforward: grilled whole fish with lemon and olive oil, fried whitebait, hummus, tabbouleh, and bread. Prices are considerably lower than Beirut seafood restaurants, and the setting — plastic chairs on a quay with boats bobbing nearby — is unpretentious.

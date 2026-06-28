@@ -8,6 +8,7 @@ tags:
 title: Compleat Angler Site
 type: poi
 story: "The original Compleat Angler Hotel, where Hemingway brawled with locals, drank Bacardi cocktails on the porch and worked on To Have and Have Not, burned to the ground in January 2006. The fire took with it the original Hemingway memorabilia — letters, photographs, the marlin-fishing logbook — that had been displayed there for half a century."
+score: 4.2
 ---
 
 For seventy years the Compleat Angler on the King's Highway in Alice Town was the heart of Bimini's tourist mythology. Ernest Hemingway spent long stretches here between 1935 and 1937, fishing for marlin in the daytime and drinking heavily in the bar at night. The walls were thick with his photographs, fishing logs, and signed letters until a 2006 fire destroyed the building and almost all of its contents.

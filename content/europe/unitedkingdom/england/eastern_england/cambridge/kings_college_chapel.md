@@ -9,6 +9,7 @@ latitude: 52.2044
 longitude: 0.1165
 story: >
   The chapel took 70 years to build, starting under Henry VI in 1446 and not completed until Henry VIII finished it in 1515. The fan vault — the largest in the world — was added at the very end, and its engineering was considered so extraordinary that its method of construction remained disputed among scholars for centuries. Rubens' Adoration of the Magi, hanging over the altar, was donated anonymously in 1961 by art dealer Alfred Brod, who had bought it for £275,000 — a world record for a painting at the time.
+score: 9.6
 ---
 
 King's College Chapel is one of the great late-Gothic buildings in Europe. Henry VI began it in 1446, intending it as the spiritual heart of his new college; work continued intermittently for 70 years through royal wars and changes of regime until Henry VIII finally completed it in 1515. The result is a single soaring space — 88 metres long, 12 metres wide, 24 metres high — covered by the largest fan vault in the world, a breathtaking web of stone tracery that appears to defy gravity.

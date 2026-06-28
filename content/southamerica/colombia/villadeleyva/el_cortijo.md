@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 5.6335
 longitude: -73.5260
+score: 5.9
 ---
 
 El Cortijo is the most reliably lively bar in Villa de Leyva on weekend evenings. It draws a mix of locals and visitors, serves cold beer at fair prices, and most Friday and Saturday nights has live music — vallenato, cumbia, or covers bands depending on the week. The grilled meats from the kitchen are above average for a bar.

@@ -9,6 +9,7 @@ latitude: 19.4706
 longitude: -99.2308
 sources:
   - https://en.wikipedia.org/wiki/El_Conde
+score: 5.8
 ---
 
 El Conde is a pre-Columbian archaeological site in the municipality of Naucalpan, preserving the remains of a small ceremonial platform and pyramid associated with the Teotihuacan cultural sphere. The site dates to the Preclassic and Classic periods (roughly 200 BCE–650 CE) and was part of the extensive settlement network that surrounded Teotihuacan during its peak.

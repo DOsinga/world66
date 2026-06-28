@@ -6,6 +6,7 @@ longitude: -117.2356
 tags:
   - bars_and_cafes
   - bar
+score: 7.1
 ---
 
 The Santa Fe Saloon, on the north side of Goldfield, opened in 1905 and claims to be the longest continually-running business in the town — which, given how many of Goldfield's businesses simply gave up between 1910 and 1945, is a low bar but a real one. The original building burned in 1923 and was rebuilt in the same year; the bar itself, the back-bar mirror, and a great deal of mining memorabilia survived.

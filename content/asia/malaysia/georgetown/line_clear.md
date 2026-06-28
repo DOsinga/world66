@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - malay
+score: 7.4
 ---
 
 Line Clear is the most famous nasi kandar restaurant in Penang. It occupies a narrow alley running off Penang Road — open on three sides to the street, no walls to speak of, fans blowing the smell of curry across the pavement. The restaurant has been running 24 hours a day, seven days a week, for over 70 years; the name refers to the way the queue snakes "in line, clear" down the alley waiting to be served.

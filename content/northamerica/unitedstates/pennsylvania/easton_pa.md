@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Easton,_Pennsylvania_-_114
 latitude: 40.691608
 loc_type: city
 longitude: -75.209987
-score: 0.39
+score: 6.49
+snippet: Pennsylvania river city where the Delaware and Lehigh meet beside Crayola,
+  canals, and a revived square
 title: Easton
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Byzantine Museum
 type: poi
+score: 7.1
 ---
 
 The Greek Orthodox Church's museum in the old town — one of the finest icon collections on the island, including the oldest surviving Cypriot icon, the 7th-century *Our Lady of Arakapas*. Small, quick, and rewarding.

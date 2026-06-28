@@ -8,6 +8,7 @@ latitude: 41.381200
 longitude: 43.283500
 sources:
   - https://en.wikipedia.org/wiki/Vardzia
+score: 8.0
 ---
 
 Above the Church of the Assumption, a rough path leads up to the bell tower and the upper terraces of the cave city. This is the least-visited part of the complex and gives you the clearest sense of how the rooms stack up against the cliff. From here you can look out across the Kura River gorge and see the full extent of the site stretched below you.

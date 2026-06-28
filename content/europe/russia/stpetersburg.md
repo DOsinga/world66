@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Courtyards_of_SPB_03.jpg
 latitude: 59.9343
 loc_type: city
 longitude: 30.3351
-score: 0.8
+score: 9.66
+snippet: Imperial Russian city of Neva canals, baroque palaces, and the Hermitage's
+  vast art collections.
 title: St Petersburg
 type: location
 ---

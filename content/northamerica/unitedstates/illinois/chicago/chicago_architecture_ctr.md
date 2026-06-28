@@ -5,14 +5,18 @@ longitude: -87.6257
 opening_hours: 9:00 AM - 6:00 PM daily
 phone: 312-922-3432
 snippet: The best starting point for understanding Chicago's extraordinary built environment
+sources:
+- https://en.wikipedia.org/wiki/Chicago_Architecture_Center
 tags:
 - things_to_do
 - architecture
+- the_loop
 title: Chicago Architecture Center
 type: poi
 url: www.architecture.org
 sources:
 - https://en.wikipedia.org/wiki/Chicago_Architecture_Center
+score: 9.1
 ---
 
 The Chicago Architecture Center is the best entry point into the city's extraordinary built environment. The centre runs boat tours along the Chicago River that pass beneath the canyon of skyscrapers in the Loop -- these 90-minute tours are one of the finest urban experiences in America and genuinely worth the price. Walking tours cover the Loop, the North Side, and specific architectural movements.

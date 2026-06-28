@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Shree Shakti Prasad
 type: poi
+score: 5.9
 ---
 
 One of the traditional Brahmin restaurants on and near the car street, Shree Shakti Prasad serves vegetarian thali meals throughout the day. The thali is classic Karnataka Brahmin cooking — rice, sambar, rasam, kootu (a dry vegetable curry), pickle, papad, and a sweet — served on a steel plate with multiple small bowls. The masala dosa in the morning is excellent.

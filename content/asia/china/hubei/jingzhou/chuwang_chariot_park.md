@@ -9,6 +9,7 @@ latitude: 30.3800
 longitude: 112.1600
 story: >
   The chariots buried at Chuwang were functional war vehicles, not ceremonial replicas — the horses still had their harnesses in place, and the bronze fittings on the wheel hubs were polished, not decorative. Chu elite burial practice placed real military equipment in tombs because the afterlife, in the Chu conception, required the same resources as life.
+score: 8.2
 ---
 
 The Chuwang Chariot and Horse Formation Park, a national archaeological park a short taxi ride from the Jingzhou city centre, contains one of the most complete Warring States period elite burial complexes ever excavated in China. The site encompasses 138 burial tombs, 40 chariot pits, and over 200 sacrificial pits — the physical expression of what it meant to bury a Chu aristocrat with the equipment he would need in the afterlife.

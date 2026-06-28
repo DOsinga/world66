@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2013-10-03_View_from_Rozaf
 latitude: 42.068137
 loc_type: city
 longitude: 19.512144
-score: 0.53
+score: 7.7
+snippet: Northern Albanian city with Venetian and Ottoman layers, Rozafa Castle, and
+  views over Lake Shkodër.
 title: Shkoder
 type: location
 ---

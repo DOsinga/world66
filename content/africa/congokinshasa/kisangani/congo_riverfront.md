@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Congo Riverfront
 type: poi
+score: 8.0
 ---
 
 The Congo — here called the Lualaba — runs broad and brown past Kisangani at the upper limit of navigation from Kinshasa, and the riverfront is the city's living artery. Pirogues, dugouts, barges and the occasional rusting boat from the Belgian era jostle for space along the bank. Traders sell smoked fish, cassava, palm wine and forest fruits from improvised stalls.

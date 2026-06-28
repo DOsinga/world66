@@ -1,0 +1,200 @@
+{
+  "round": 3895,
+  "timestamp": "2026-06-13T23:28:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -1.2468,
+      "prior_variance": 0.139085,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 0.9567,
+      "prior_variance": 0.117568,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 0.5926,
+      "prior_variance": 0.111138,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 0.5528,
+      "prior_variance": 0.099935,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": -1.7029,
+      "prior_variance": 0.159278,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Mangawhai Heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.7073,
+      "prior_variance": 0.11108,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.1854,
+      "prior_variance": 0.121237,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_score": -3.2287,
+      "prior_variance": 0.114298,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 0.0449,
+      "prior_variance": 0.111827,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -1.7123,
+      "prior_variance": 0.100678,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -1.657,
+      "prior_variance": 0.095742,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -2.6749,
+      "prior_variance": 0.108147,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_score": -2.0857,
+      "prior_variance": 0.105937,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -2.9038,
+      "prior_variance": 0.100915,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -3.2277,
+      "prior_variance": 0.120964,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -3.2409,
+      "prior_variance": 0.107539,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/england/norfolk/briston",
+      "prior_score": -5.5034,
+      "prior_variance": 0.170288,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -2.7299,
+      "prior_variance": 0.103118,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.4454,
+      "prior_variance": 0.170584,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.0982,
+      "prior_variance": 0.104731,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.2757,
+      "prior_variance": 0.146875,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -7.1359,
+      "prior_variance": 0.150863,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -7.8968,
+      "prior_variance": 0.234313,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -9.9296,
+      "prior_variance": 0.254538,
+      "prior_n": 12
+    }
+  ]
+}

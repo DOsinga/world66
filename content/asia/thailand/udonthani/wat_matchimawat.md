@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.4149
 longitude: 102.7898
+score: 6.5
 ---
 
 Wat Matchimawat, known to almost everyone as Wat Klang ("the central temple"), is the oldest and most important Buddhist temple in Udon Thani. Founded in the early 19th century, it sits a short walk from Pu-ya Shrine and the central market.

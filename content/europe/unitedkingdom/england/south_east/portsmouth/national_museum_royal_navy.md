@@ -8,6 +8,7 @@ tags:
   - museum
   - historic_dockyard
 neighbourhood: Historic Dockyard
+score: 8.1
 ---
 
 Spread across several historic buildings inside the dockyard, the museum covers five hundred years of British naval history, from Tudor warships to the modern fleet. Highlights include Nelson's personal effects, the 'Sailing Navy' gallery telling the story of the Georgian fleet, and a 36-foot model of HMS Victory.

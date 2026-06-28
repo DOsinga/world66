@@ -13,6 +13,7 @@ tags:
 - sight
 title: Laugh-O-Gram Studio
 type: poi
+score: 6.9
 ---
 
 Before Hollywood, before Mickey Mouse, before any of it, Walt Disney was a young animator in Kansas City. He arrived in 1919, found work as a commercial artist, and in 1921 founded Laugh-O-Gram Studios at 1127 East 31st Street with investment from local businesspeople. The studio produced a series of animated fairy tales synchronized to recorded music — a genuinely innovative technical achievement for its time — and was on the verge of a breakthrough when the distributor stopped paying and the company went bankrupt in 1923.

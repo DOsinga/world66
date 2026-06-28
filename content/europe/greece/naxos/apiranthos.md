@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.0647
 longitude: 25.4761
+score: 8.3
 ---
 
 Apiranthos is the most distinctive village in the Cyclades, and one of the few places in the islands that feels genuinely proud of itself on its own terms rather than in relation to tourism. The village sits high in the eastern mountains, its streets paved with white marble from local quarries, its houses built from the same stone in a style that predates the Venetian period. The inhabitants are descendants of Cretan refugees who settled here several centuries ago and have maintained a distinct dialect — closer to medieval Cretan Greek than to standard modern Greek — along with a fierce local identity.

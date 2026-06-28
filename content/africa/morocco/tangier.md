@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_del_cabo_Espartel,_Ma
 latitude: 35.7596
 loc_type: city
 longitude: -5.834
-score: 0.59
+score: 8.42
+snippet: Moroccan port city where the Mediterranean meets the Atlantic, long shaped
+  by international crossroads energy
 title: Tangier
 type: location
 ---

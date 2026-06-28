@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 14.9199
 longitude: -23.5071
+score: 7.8
 ---
 
 The Platô is Praia's historic core — a flat-topped plateau rising abruptly from the surrounding terrain, its flanks dropping sharply to the lower city on all sides. The plateau has been the seat of government and commerce since Portuguese colonial times, and it retains the most coherent colonial streetscape in the city: wide avenues, low whitewashed buildings, and the grand Praça Alexandre Albuquerque at its centre.

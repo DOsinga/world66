@@ -5,7 +5,9 @@ done:
 latitude: 41.7399
 loc_type: city
 longitude: -7.471521
-score: 0.5
+score: 7.62
+snippet: Northern Portuguese border town on the Tâmega, known for Roman baths, smoked
+  meats, and a Trajan bridge
 title: Chaves
 type: location
 ---

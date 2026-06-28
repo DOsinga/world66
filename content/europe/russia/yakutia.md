@@ -1,9 +1,11 @@
 ---
-title: "Yakutia"
-type: location
-loc_type: region
 latitude: 63.0
+loc_type: region
 longitude: 129.0
+snippet: Vast Siberian republic of taiga, tundra, permafrost, and Lena River journeys
+  through earth's coldest settlements.
+title: Yakutia
+type: location
 ---
 
 Yakutia — formally the Sakha Republic — is an immense region of eastern Siberia, the largest federal subject of Russia and one of the largest administrative divisions in the world. It stretches from the taiga forests of the south to the Arctic Ocean in the north, encompassing tundra, permafrost, mountain ranges, and some of the coldest permanently inhabited places on earth. Oymyakon, a small village in the Oymyakon Highlands, holds the record for the lowest temperature ever recorded in an inhabited settlement.

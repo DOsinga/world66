@@ -1,0 +1,200 @@
+{
+  "round": 4446,
+  "timestamp": "2026-06-14T00:13:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 11.0909,
+      "prior_variance": 0.319745,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.1606,
+      "prior_variance": 0.184684,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 7.4145,
+      "prior_variance": 0.137638,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_score": 8.1018,
+      "prior_variance": 0.157798,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 7.9973,
+      "prior_variance": 0.169914,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 7.2504,
+      "prior_variance": 0.134464,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadeiros",
+      "prior_score": 2.9881,
+      "prior_variance": 0.103272,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.5119,
+      "prior_variance": 0.088119,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_score": -0.0582,
+      "prior_variance": 0.08952,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.6258,
+      "prior_variance": 0.088215,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 1.2467,
+      "prior_variance": 0.096868,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 0.7075,
+      "prior_variance": 0.09143,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.6868,
+      "prior_variance": 0.095188,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.7672,
+      "prior_variance": 0.099204,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.2757,
+      "prior_variance": 0.097136,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 0.1871,
+      "prior_variance": 0.105992,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.761,
+      "prior_variance": 0.08975,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": -1.8201,
+      "prior_variance": 0.088199,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -2.6299,
+      "prior_variance": 0.118227,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -2.7726,
+      "prior_variance": 0.096887,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.7465,
+      "prior_variance": 0.138682,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -3.2102,
+      "prior_variance": 0.089679,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -6.6847,
+      "prior_variance": 0.144354,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -11.9996,
+      "prior_variance": 0.467297,
+      "prior_n": 14
+    }
+  ]
+}

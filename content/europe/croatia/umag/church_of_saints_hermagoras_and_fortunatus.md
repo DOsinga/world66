@@ -9,6 +9,7 @@ latitude: 45.4322
 longitude: 13.5192
 sources:
   - https://en.wikipedia.org/wiki/Umag
+score: 6.6
 ---
 
 The main parish church of Umag stands at the tip of the old town peninsula, its freestanding campanile (bell tower) visible from the sea. The church is dedicated to Saints Hermagoras and Fortunatus, the patron saints of the Aquileia diocese — a reminder that this coast was part of Roman and early Christian Aquileia long before Venice arrived.

@@ -8,6 +8,7 @@ tags:
 latitude: 40.3529
 longitude: 18.1720
 snippet: Lecce's custard pastry is the essential breakfast — the bar culture here is as serious as in Naples
+score: 7.9
 ---
 
 The pasticciotto is Lecce's contribution to the Italian pastry canon: a small oval pastry with a shortcrust shell filled with custard cream, eaten warm from the oven at a bar counter before 10am. It was invented in the village of Galatina in the 18th century and remains a regional speciality — you will not find it done as well anywhere else in Italy. Eat it standing at the bar with an espresso or a caffè leccese (espresso poured over ice and almond milk).

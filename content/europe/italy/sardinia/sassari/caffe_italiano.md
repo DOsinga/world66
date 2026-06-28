@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.7253
 longitude: 8.5632
+score: 6.0
 ---
 
 Caffè Italiano on Piazza d'Italia is the classic Sassari café — a large, slightly formal establishment that has been serving coffee and pastries to the city's professionals and students for generations. The coffee is excellent, the *bomba* pastries are first-rate, and the location on the main square makes it the best place in the city to watch the passeggiata.

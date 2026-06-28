@@ -14,6 +14,7 @@ story: >
   solid bedrock. On arrival, you step out onto the sunny terrace above the clouds
   that often sit over Zermatt, with the Matterhorn suddenly visible where
   it was hidden below.
+score: 7.4
 ---
 
 Sunnegga Paradise is the first station on the Rothorn cable car network, reached in four minutes by an underground funicular that departs from the east side of Zermatt village. At 2,288 metres, it sits above the tree line and above the morning cloud that often fills the valley, giving reliable sunshine and views of the Matterhorn from a sun terrace with a restaurant.

@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Bulkeley_Hotel
+score: 6.6
 ---
 
 The Bulkeley is the white-painted Georgian hotel that dominates the seafront, built in 1832 by Sir Richard Bulkeley to a design by Joseph Hansom. It survives almost unchanged — long sash windows, high ceilings, a grand staircase — and the front bar and lounge are open to non-residents.

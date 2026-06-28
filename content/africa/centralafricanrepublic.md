@@ -1,4 +1,6 @@
 ---
+score: 0.17
+snippet: Landlocked Central African country where equatorial rainforest gives way to savannah and the Oubangui River capital.
 title: Central African Republic
 type: location
 loc_type: country

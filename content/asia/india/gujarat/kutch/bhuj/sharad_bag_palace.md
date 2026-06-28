@@ -5,6 +5,7 @@ tags: [things_to_do, museum, architecture]
 latitude: 23.2484
 longitude: 69.6645
 snippet: "Italian-style summer palace and museum of the last Maharao"
+score: 6.5
 ---
 
 The small two-storey summer palace in a wooded compound just west of Hamirsar Lake was the home of Madansinhji, the last titular Maharao of Kutch. Built in the 1860s in Italianate style, the building itself was badly damaged in the 2001 earthquake but the surrounding gardens, the mango grove and a small museum housed in an adjacent annexe have reopened.

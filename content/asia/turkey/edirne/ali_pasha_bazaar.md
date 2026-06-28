@@ -7,6 +7,7 @@ tags:
 - market
 title: Ali Pasha Bazaar
 type: poi
+score: 7.4
 ---
 
 The Ali Pasha Covered Bazaar is a working Ottoman market, built in the 16th century by the grand vizier Semiz Ali Pasha and still in daily commercial use. It runs as a long vaulted arcade of stone and brick, lined with small shops selling textiles, spices, household goods, and the kinds of things locals actually buy rather than purely tourist souvenirs. The architecture is functional rather than ornate — it was built to trade in, and that is what it continues to do.

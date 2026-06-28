@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandera_de_Tarapoto_con_es
 latitude: -6.48772
 loc_type: city
 longitude: -76.359871
-score: 0.48
+score: 7.36
+snippet: High-Amazon city of palms and waterfalls, gateway to the forested San Martín
+  plateau
 title: Tarapoto
 type: location
 ---

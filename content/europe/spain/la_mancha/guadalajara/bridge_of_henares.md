@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.644533
 longitude: -3.173931
+score: 6.3
 ---
 
 The Bridge of Henares (Puente del Henares) spans the Henares River on the northern edge of the old town and is one of the more handsome surviving medieval bridges in Castile. The current structure dates from the 15th century, built on earlier foundations, and consists of nine arches spanning the river in a gentle curve. From the bridge there are good views upstream and downstream, and the gardens along the riverbank below make for a pleasant walk.

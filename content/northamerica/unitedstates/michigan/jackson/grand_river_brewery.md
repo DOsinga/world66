@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: "Downtown brewpub in a restored historic building"
+score: 6.0
 ---
 
 The Grand River Brewery occupies a turn-of-the-century brick building on West Louis Glick Highway, just off the main downtown drag. It runs around a dozen of its own beers on tap at any time — a clean Vienna lager, an IPA, a porter, a rotating sour — and a full kitchen putting out sliders, pizzas, and respectable wings.

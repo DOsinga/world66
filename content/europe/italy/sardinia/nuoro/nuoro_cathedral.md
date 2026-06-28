@@ -8,6 +8,7 @@ latitude: 40.32056
 longitude: 9.33667
 sources:
   - https://en.wikipedia.org/wiki/Nuoro_Cathedral
+score: 6.5
 ---
 
 Nuoro's cathedral, dedicated to Our Lady of the Snows (Santa Maria della Neve), stands at the edge of the old town near the Piazza Santa Maria. The current neoclassical building dates from the early nineteenth century, replacing an older church on the same site. The interior is relatively plain by Italian standards but contains a few noteworthy paintings and the tomb of Sebastiano Satta, one of Sardinia's most celebrated poets.

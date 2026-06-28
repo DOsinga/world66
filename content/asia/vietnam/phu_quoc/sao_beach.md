@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.0360
 longitude: 104.0172
+score: 9.2
 ---
 
 The most celebrated beach on Phu Quoc: a wide crescent of white powdery sand on the southeast coast, with calm, clear turquoise water backed by palm trees and forested hills. It consistently ranks among the best beaches in Southeast Asia, and on a quiet weekday morning it earns the accolade. The sand is fine and stays cool underfoot even in full sun.

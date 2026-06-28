@@ -8,8 +8,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Haydarpasa_train_station_(cropped).jpg
 latitude: 41.01
 loc_type: city
+snippet: Residential Istanbul district across the Bosphorus, centred on Kadıköy's
+  markets, ferries, and everyday neighbourhood life.
 longitude: 29.025
-score: 0.63
+score: 8.24
 title: Asian Side (Kadıköy)
 type: location
 ---

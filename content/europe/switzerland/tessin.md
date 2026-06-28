@@ -6,11 +6,17 @@ latitude: 46.335191
 loc_type: region
 longitude: 8.75259
 score: 0.53
+snippet: Italian-speaking Swiss canton south of the Gotthard Pass, with lakeside palms
+  and Alpine valleys.
 sources:
 - https://www.myswitzerland.com/en-ch/destinations/ticino/
 - https://www.ticino.ch/en/travel-inspirations/top-10-ticino.html
 title: Tessin
 type: location
+image: tessin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Castelgrande_Bellinzona.JPG
+image_license: CC BY-SA 3.0
+image_attribution: H005
 ---
 
 Ticino is the Italian-speaking corner of [Switzerland](/europe/switzerland), and it feels like a different country. South of the Gotthard Pass, the climate turns Mediterranean, the architecture turns Italianate, and the food improves dramatically. Palm trees line the lakefronts, the piazzas fill with espresso drinkers, and the light has a warmth you do not find north of the Alps.

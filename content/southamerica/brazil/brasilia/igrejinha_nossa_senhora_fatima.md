@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - religious_site
 - niemeyer
+score: 7.2
 ---
 
 The "Little Church" of Our Lady of Fátima, in superblock SQS 307/308, was Brasília's first place of worship — designed by Niemeyer and inaugurated in 1958, two years before the city itself. It looks like a child's drawing of a church: a curved triangular shape with a sloping concrete roof that comes down almost to the ground, and a slim cross over the entrance.

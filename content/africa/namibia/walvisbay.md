@@ -5,7 +5,9 @@ done:
 latitude: -22.9558
 loc_type: city
 longitude: 14.5071
-score: 0.49
+score: 7.42
+snippet: Namibian deep-water port on a sheltered lagoon famous for flamingos, salt
+  pans, and desert coast excursions.
 title: Walvis Bay
 type: location
 ---

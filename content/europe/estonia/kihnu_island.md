@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kihnu_-_Villageroad.jpg
 latitude: 58.126136
 loc_type: city
 longitude: 23.985261
-score: 0.51
+score: 7.4
+snippet: Small Estonian island known for a distinctive living culture of folk songs,
+  crafts, and seafaring.
 title: Kihnu Island
 type: location
 ---

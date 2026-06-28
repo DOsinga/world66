@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Brick_Buildings_Nashville_
 latitude: 36.162277
 loc_type: city
 longitude: -86.774298
-score: 0.6
+score: 8.53
+snippet: Southern state capital where country music landmarks sit beside universities,
+  healthcare, and honky-tonk nightlife.
 title: Nashville
 type: location
 ---

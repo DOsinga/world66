@@ -6,6 +6,7 @@ longitude: 20.987
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Arta is built directly on top of ancient Ambracia, a Corinthian colony founded in the seventh century BC that briefly served as the capital of Pyrrhus of Epirus — the king whose costly victories over Rome gave the language the word Pyrrhic. Most of the ancient city is buried under the modern one, but a handful of well-presented excavated patches are scattered across the centre.

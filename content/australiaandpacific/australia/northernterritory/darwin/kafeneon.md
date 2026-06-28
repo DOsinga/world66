@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 latitude: -12.4634
 longitude: 130.8456
+score: 5.8
 ---
 
 A Greek-influenced cafe tucked into the Stokes Hill Wharf arcade, right on Darwin's waterfront. The menu leans Mediterranean — grilled seafood, lamb, salads — and the outdoor tables catch the harbour breeze, which matters in Darwin's tropical heat. It is a reliable spot for a meal after visiting the wharf's other attractions or watching the sunset over the Timor Sea.

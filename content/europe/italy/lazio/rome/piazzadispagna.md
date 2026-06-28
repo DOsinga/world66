@@ -3,6 +3,7 @@ address: Piazza di Spagna, 00187 Rome
 admission: Free
 latitude: 41.906
 longitude: 12.4832
+score: 6.8
 snippet: Iconic 135-step staircase connecting two famous Roman squares
 tags:
 - 48 Hours in Rome
@@ -12,6 +13,7 @@ tags:
 - church
 - monument
 - square
+- pantheon_navona
 title: Spanish Steps
 type: poi
 ---

@@ -5,10 +5,12 @@ done:
 latitude: 41.3954
 longitude: 2.1493
 phone: +34 93 201 16 06
+score: 4.4
 snippet: Irish pub in Eixample with pints and live sports
 tags:
 - bars_and_cafes
 - bar
+- eixample
 title: Flann O'Brien's
 type: poi
 ---

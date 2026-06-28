@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3065
 longitude: 75.5641
+score: 6.6
 ---
 
 Bootan Mandi is a historic neighbourhood in the southwest of Jalandhar, known as the centre of the city's leather and shoe industry and as the birthplace of several prominent Dalit social and political leaders. The area gave India one of its most respected Ambedkarite politicians, Babu Kanshi Ram, and is dotted with monuments and buildings linked to the Dalit movement. The Ravidassia community here is among the most prosperous in Punjab, in large part thanks to the leather trade.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Porec Museum
 type: poi
+score: 6.4
 ---
 
 Housed in the 18th-century Baroque Sincic Palace, the town museum displays Roman stone monuments and inscriptions on the ground floor, with an archaeological collection of prehistoric ceramics. The original Baroque salons on the upper floor provide an elegant setting for the exhibits on local history.

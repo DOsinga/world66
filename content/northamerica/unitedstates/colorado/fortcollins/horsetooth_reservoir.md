@@ -8,6 +8,7 @@ tags:
 latitude: 40.5350
 longitude: -105.1620
 story: "Horsetooth takes its name from a distinctive rock formation on the ridge above the reservoir — a jagged notch in the skyline that, from the right angle on the plains, does bear a passing resemblance to a horse's tooth. The Arapaho people knew this landmark long before any reservoir existed here."
+score: 7.8
 ---
 
 Horsetooth Reservoir sits in the foothills just west of Fort Collins — close enough to ride a bike to from Old Town, dramatic enough to feel like a genuine mountain destination. The 6.5-km reservoir is flanked by red sandstone ridges and offers swimming, paddleboarding, kayaking, sailing, and motorboating from multiple launch points along its shoreline.

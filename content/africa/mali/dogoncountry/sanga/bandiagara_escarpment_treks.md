@@ -8,6 +8,7 @@ latitude: 14.465
 longitude: -3.3061
 story: >
   Marcel Griaule, the French anthropologist who spent 25 years studying the Dogon, conducted most of his fieldwork here at Sangha. In 1946 he spent 33 consecutive days in conversation with an elder named Ogotemmeli, who revealed a cosmological system of extraordinary complexity. Griaule's accounts of Dogon astronomy — claiming the Dogon had ancient knowledge of Sirius's companion star, invisible to the naked eye — became one of the most debated claims in anthropology.
+score: 9.3
 ---
 
 From Sanga, three standard trek routes run along the Bandiagara Escarpment: the Petit Tour (one day, covering the nearby cliff villages), the Moyen Tour (two to three days), and the Grand Tour (four to five days, going deeper along the escarpment). All require a local guide, which can be arranged in Sanga. Hostels in each village provide basic accommodation and food.

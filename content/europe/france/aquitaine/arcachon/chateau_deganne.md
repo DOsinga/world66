@@ -9,6 +9,7 @@ title: "Château Deganne"
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau_Deganne
+score: 6.0
 ---
 
 The Château Deganne is one of the most prominent buildings on Arcachon's Boulevard du Général de Gaulle, a grand 19th-century villa in the eclectic style characteristic of the Ville d'Été. Built in the 1860s for a wealthy Bordelais family, the building later served as the town's casino and is now a cultural centre hosting exhibitions and events.

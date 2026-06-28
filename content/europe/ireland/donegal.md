@@ -6,9 +6,11 @@ image: donegal_castle.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Donegal_Castle_Front_view.jpg
 latitude: 54.653792
-loc_type: city
+loc_type: region
 longitude: -8.110262
-score: 0.62
+score: 8.33
+snippet: Wild northwest Irish county of Atlantic cliffs, mountain moorland, sea inlets,
+  and Gaeltacht villages
 title: Donegal
 type: location
 ---

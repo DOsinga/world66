@@ -9,6 +9,7 @@ latitude: 44.3178
 longitude: -90.7581
 story: >
   Wazee Lake began existence as an open-pit iron ore mine. After the mine closed in the 1980s, the pit filled with groundwater and became what is now one of the deepest inland lakes in Wisconsin, reaching depths of over 120 metres. The water is crystal clear — up to 30 metres visibility — because it's fed entirely by groundwater rather than surface runoff.
+score: 7.7
 ---
 
 Wazee Lake is a former open-pit iron mine east of Black River Falls that has been transformed into a recreational lake since mining operations ceased in the 1980s. At depths exceeding 120 metres and with extraordinary water clarity, it's one of the premier scuba diving lakes in the Midwest — you can see the old mine structures on the bottom. Several dive charters operate on the lake.

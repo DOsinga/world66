@@ -13,6 +13,7 @@ tags:
 - family
 title: Emperor Valley Zoo
 type: poi
+score: 5.8
 ---
 
 Tucked into the northern edge of the Savannah, Emperor Valley Zoo is a small but well-maintained zoo with a focus on Caribbean and South American wildlife — red howler monkeys, anacondas, caimans, and various parrots among them. It is a good place to spot creatures you might hope to see in the wild in Trinidad's forests. Modest admission fee; popular with local families on weekends.

@@ -11,6 +11,7 @@ story: >
   Llewellyn Park was developed in 1857 by the entrepreneur Llewellyn Haskell as one of the first planned residential communities in the United States — and one of the first to use curved roads and preserved natural landscape as selling points rather than the standard rectilinear grid. It remains private and gated to this day, accessible to visitors only when visiting Glenmont as part of the national park.
 sources:
   - https://en.wikipedia.org/wiki/Llewellyn_Park
+score: 6.8
 ---
 
 Llewellyn Park is a 19th-century planned community built on the wooded First Watchung Mountain ridge in West Orange, and it contains both Glenmont and some of the most intact Victorian residential architecture in New Jersey. The community was designed with winding carriage roads, common parklands, and preserved naturalistic landscaping — a conscious reaction against the grid-plan suburbs being built everywhere else in the 1850s.

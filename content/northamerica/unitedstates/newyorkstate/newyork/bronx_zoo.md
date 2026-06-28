@@ -2,12 +2,14 @@
 address: 2300 Southern Boulevard, The Bronx
 done:
   poi_cleanup: '2026-04-19'
-latitude: 40.845415
-longitude: -73.877354
+latitude: 40.849305
+longitude: -73.877138
 phone: 718-367-1010
+score: 8.7
 snippet: Largest metropolitan zoo in the US, 265 acres of habitats
 tags:
 - things_to_do
+- thebronx
 title: Bronx Zoo
 type: poi
 url: www.bronxzoo.com

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Marktplatz
 type: poi
+score: 7.8
 ---
 
 Naumburg's Marktplatz is a well-preserved medieval market square, surrounded by the sort of gabled burgher houses and civic buildings that were ubiquitous across Germany before the twentieth century and are now increasingly rare. The town hall (Rathaus) dates from the late Gothic period, with a Renaissance upper section added later. St Wenceslas Church (Stadtkirche St Wenzel) flanks the square and is worth entering for its organ, which J.S. Bach tested and approved in 1746, and for the Cranach altarpiece inside.

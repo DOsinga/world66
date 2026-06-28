@@ -9,6 +9,7 @@ tags:
   - mountain
 title: Mount Olympus
 type: poi
+score: 7.5
 ---
 
 Mount Olympus is the highest peak in the Olympic Mountains and the symbolic heart of the park. It is not a roadside attraction; most visitors see it from viewpoints or from long trails rather than standing on its slopes.

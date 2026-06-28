@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: Small red-stuccoed church marking the site of Sant'Emidio's martyrdom
+score: 5.8
 ---
 
 A small Baroque oratory on the northern edge of the centre, distinguished by a deep red plaster wash that gives it the local name "Rosso". The interior is rococo at small scale; the site is traditionally that of the martyrdom of Sant'Emidio, Ascoli's patron, in 303 AD.

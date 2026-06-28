@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -4.8833
 longitude: 29.6280
+score: 6.5
 ---
 
 The waterfront in Kigoma is not formally laid out, but a series of dirt paths and short stretches of road let you walk almost the entire shore of the inner harbour. Start at the railway pier, where you can usually see whichever boats are in port, and walk north past the customs warehouses to the fishing landings, or south towards the Hilltop and Aqua Lodge area where the lake opens out.

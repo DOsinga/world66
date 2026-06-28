@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 36.3825
 longitude: 140.4652
+score: 7.7
 ---
 
 The Ibaraki Prefectural Museum of History sits adjacent to Kairakuen garden and contains an excellent collection of artefacts from Ibaraki's prehistoric, ancient, medieval, and modern periods. The exhibition covers the full sweep of regional history from the Jomon period through the Tokugawa era, with particular emphasis on the Mito domain and its intellectual traditions.

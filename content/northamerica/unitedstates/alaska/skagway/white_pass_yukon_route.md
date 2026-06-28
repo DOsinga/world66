@@ -12,6 +12,7 @@ story: >
   into Canada at 2,885 feet — a climb of nearly 3,000 feet in 20 miles — past the spot
   known as Dead Horse Gulch, where an estimated 3,000 horses died carrying supplies
   during the rush before the railroad made them unnecessary.
+score: 9.3
 ---
 
 The White Pass and Yukon Route is one of the great scenic railways of North America and a direct link to the gold rush era — it was built during the rush itself, completed in 1900 to service the Klondike. The narrow-gauge line climbs from Skagway's sea level to the White Pass summit at 2,885 feet, and the views of waterfalls, glaciers, gorges, and trestle bridges are spectacular.

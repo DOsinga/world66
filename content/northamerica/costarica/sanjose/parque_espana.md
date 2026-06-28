@@ -9,6 +9,7 @@ tags:
   - barrio_amon
 title: Parque España
 type: poi
+score: 7.1
 ---
 
 Parque España is the loveliest of San José's downtown parks — a canopy of mature trees covers the square so completely that the noise of the city recedes. Parrots nest in the trees and screech through the mornings. The park is a meeting place for older residents and a midday escape for office workers from the surrounding government buildings and embassies.

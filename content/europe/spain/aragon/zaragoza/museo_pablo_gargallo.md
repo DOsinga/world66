@@ -6,6 +6,7 @@ tags:
 - museum
 title: Museo Pablo Gargallo
 type: poi
+score: 7.6
 ---
 
 Pablo Gargallo (1881–1934) was an Aragonese sculptor who worked in Paris alongside Picasso and became one of the pioneers of modern sculpture in iron and bronze. His museum occupies the early 17th-century Palacio de Argillo in Zaragoza's old town — a handsome building with a fine Renaissance courtyard that suits the collection well.

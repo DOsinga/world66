@@ -8,6 +8,7 @@ latitude: 43.0923
 longitude: 11.7808
 sources:
   - https://en.wikipedia.org/wiki/Montepulciano_Cathedral
+score: 6.7
 ---
 
 The Duomo di Montepulciano was begun in 1592 and completed in the eighteenth century, leaving the facade in bare brick — it was never given the stone cladding originally intended, giving the cathedral a slightly unfinished appearance that distinguishes it from its neighbours on Piazza Grande. The interior, however, is more rewarding than the exterior suggests.

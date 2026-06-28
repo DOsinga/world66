@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8488
 longitude: 128.6314
+score: 5.3
 ---
 
 Suseong Lake (수성못) is a reservoir in the southern part of Daegu that has been transformed into a recreational park and one of the city's most popular evening destinations. The lake is not particularly large, but the surrounding promenade, lined with restaurants, bars, and street food stalls, gives it the atmosphere of a resort lakefront. Paddle boats can be hired, and there are frequent performances and events in the adjacent amphitheatre.

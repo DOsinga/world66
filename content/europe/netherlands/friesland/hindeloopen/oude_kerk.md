@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.9497
 longitude: 5.3987
+score: 6.8
 ---
 
 The Oude Kerk (Old Church) of Hindeloopen is a 13th-century Gothic church that has stood through the town's prosperous centuries and its long decline. The interior is relatively plain but the building itself — sitting slightly above the narrow streets on a raised terrace — has the compressed dignity you find in many old Frisian churches, built to last rather than to impress.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 0.7600
 longitude: 127.3900
+score: 5.8
 ---
 
 Rum is the small port on the north tip of Tidore that handles the speedboat crossings to and from Bastiong on Ternate. The trip takes about ten minutes and runs from early morning until late afternoon; boats leave when full, which means rarely more than a fifteen-minute wait at either end. For most travellers, Rum is simply the arrival point on the island — but the village itself is worth ten minutes' attention before piling into a bemo for Soasio.

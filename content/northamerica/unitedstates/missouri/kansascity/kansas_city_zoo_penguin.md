@@ -7,6 +7,7 @@ tags:
 - family
 title: KC Zoo Penguin Cove
 type: poi
+score: 5.8
 ---
 
 The penguin exhibit at Kansas City Zoo, opened in 2019, is one of the newer additions to the zoo campus and a popular draw for families. African penguins waddle and swim in a naturalistic habitat designed to allow close-up viewing from multiple angles. The adjacent flamingo enclosure creates an informal African wetlands section in the northwest corner of the zoo grounds.

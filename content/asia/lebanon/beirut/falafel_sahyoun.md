@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.8893
 longitude: 35.5039
+score: 8.2
 ---
 
 Falafel Sahyoun has been frying chickpea balls for Beirutis since 1933 and is by general consensus the best falafel sandwich in town. The recipe — herb-flecked, deep-fried to order, packed into pita with pickled turnips, parsley and sesame sauce — has not changed.

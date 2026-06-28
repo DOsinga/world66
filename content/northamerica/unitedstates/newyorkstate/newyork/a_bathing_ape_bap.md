@@ -3,9 +3,11 @@ address: 91 Greene Street
 latitude: 40.724212
 longitude: -74.000279
 phone: 212-925-0222
+score: 4.8
 tags:
 - shopping
 - shop
+- soho
 title: A Bathing Ape (Bape)
 type: poi
 url: www.bapestas.net

@@ -7,17 +7,23 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Tarod" title="User
 image_license: CC BY-SA 3.0 nl
 image_source: https://commons.wikimedia.org/wiki/File:The_windmills_of_Kinderdijk.JPG
 latitude: 52.243498
+loc_type: country
 longitude: 5.634323
-map_bounds: [[51.2, 3.9], [53.2, 7.1]]
+map_bounds:
+- - 51.2
+  - 3.9
+- - 53.2
+  - 7.1
 quick_facts:
-  Population: "17.9 million"
+  Below Sea Level: 26%
+  Bicycles: 23 million
   Capital: Amsterdam
-  Below Sea Level: "26%"
-  Bicycles: "23 million"
+  Population: 17.9 million
+score: 0.82
+snippet: Low, densely settled North Sea country shaped by canals, polders, merchant
+  cities, and Dutch light.
 title: Netherlands
 type: location
-score: 0.39
-loc_type: country
 ---
 
 The Netherlands is a small, flat, densely populated country in the northwest corner of Europe, wedged between [Germany](/europe/germany) and [Belgium](/europe/belgium) with its face turned towards the North Sea. It is far more interesting than the stereotype of windmills and tulips suggests — though the windmills and tulips are genuinely worth seeing.

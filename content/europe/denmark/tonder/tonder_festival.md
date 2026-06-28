@@ -10,6 +10,7 @@ story: >
   The Tønder Festival began in 1975 as a small gathering of folk music enthusiasts in a Danish border town that few people had heard of. Today it draws around 25,000 visitors each year and has earned a reputation as one of the finest folk and roots music festivals in Europe. The programming is genuinely eclectic — Danish and Scandinavian folk, American bluegrass, West African kora, Celtic, Cajun, and everything in between.
 sources:
   - https://en.wikipedia.org/wiki/T%C3%B8nder_Festival
+score: 8.7
 ---
 
 Held over the last weekend of August, the Tønder Festival is the most compelling reason to visit this corner of Denmark. Four days of folk and roots music across multiple stages — the main tent, churches, courtyards, and smaller indoor venues around the old town — draw top artists from across the world. The atmosphere is friendly, unpretentious, and genuinely celebratory: this is a town that takes its festival seriously.

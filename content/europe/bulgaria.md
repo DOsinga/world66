@@ -8,16 +8,18 @@ image_attribution: Plamen Agov (<a href="//commons.wikimedia.org/wiki/User:MrPan
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg
 latitude: 42.607397
+loc_type: country
 longitude: 25.485662
 quick_facts:
-  Population: "6.5 million"
   Currency: Euro (€, adopted Jan 2026)
-  Rose Oil: "Produces 85% of the world's supply"
-  Yoghurt: "Contains a unique bacteria named after the country"
-score: 0.53
+  Population: 6.5 million
+  Rose Oil: Produces 85% of the world's supply
+  Yoghurt: Contains a unique bacteria named after the country
+score: 0.69
+snippet: Balkan country with Black Sea resorts, mountain monasteries, Ottoman-era
+  towns, Roman ruins, and wood-fired regional cooking.
 title: Bulgaria
 type: location
-loc_type: country
 ---
 
 Bulgaria rewards travelers who look beyond the package-holiday beach resorts. Yes, the Black Sea coast gets crowded and a little tacky in summer, but drive an hour inland and you're in a country of mountain monasteries, Ottoman-era towns, Roman ruins, and a cuisine built around wood-fired clay pots, sheep's cheese, and homemade rakia. It's one of the cheapest countries in the EU, and it shows — in a good way.

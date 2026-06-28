@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.4
 ---
 
 Sironit, directly below the central square, is the most popular and best-equipped beach in Netanya. Two breakwaters create a sheltered swimming area with calm, shallow water that suits families and weak swimmers. There are lifeguards in season, changing rooms, showers, and beach cafés.

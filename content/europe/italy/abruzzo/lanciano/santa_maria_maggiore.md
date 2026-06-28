@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Santa Maria Maggiore
 type: poi
+score: 8.2
 ---
 
 Santa Maria Maggiore is Lanciano's Gothic church, set in the Civitanova quarter of the historic centre. Its stonework and portal give it a different feel from the cathedral: quieter, older, and more tucked into the fabric of the town.

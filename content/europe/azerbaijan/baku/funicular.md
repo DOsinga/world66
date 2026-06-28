@@ -6,6 +6,7 @@ longitude: 49.8328
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The short funicular runs from Neftchilar Avenue, by the seaside boulevard, up to Highland Park beneath the Flame Towers. The trip takes about four minutes. It first opened in 1960 and has been rebuilt and reopened several times since, with the present cabins dating from 2012.

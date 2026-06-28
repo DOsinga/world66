@@ -1,4 +1,5 @@
 ---
+snippet: "Southern Caribbean island nation where rugged Saint Vincent leads into the sailing waters of the Grenadines."
 title: Saint Vincent and the Grenadines
 type: location
 loc_type: region

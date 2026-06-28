@@ -15,6 +15,7 @@ story: >
   death he became the patron saint of Khiva, and pilgrims still rub the doors
   of his tomb for luck. The current mausoleum, with its enormous turquoise
   dome, was built in 1810 by the khan who claimed him as a personal protector.
+score: 9.2
 ---
 
 The Pahlavon Mahmud Mausoleum is the spiritual centre of Khiva, the most architecturally ambitious of all its monuments, and easily its most beautiful. The dome above the main tomb chamber is faced inside and out in blue-and-white majolica of dizzying complexity, and the small adjoining chambers hold the tombs of several Khivan khans who chose to be buried in the saint's shadow.

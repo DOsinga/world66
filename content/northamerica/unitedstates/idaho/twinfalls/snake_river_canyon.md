@@ -8,6 +8,7 @@ story: >
   In September 1974, daredevil Evel Knievel attempted to jump the Snake River Canyon in a steam-powered rocket called
   the Skycycle X-2. He launched from a ramp on the south rim but a parachute deployed prematurely and he drifted
   down into the canyon, landing near the river. The launch ramp site is still visible near the south rim of the canyon.
+score: 8.5
 ---
 
 The Snake River Canyon cuts through the basalt plateau just north of Twin Falls, a gash up to 500 feet deep and in places nearly a mile wide. The canyon walls are columnar basalt — dark, fractured, and completely bare, giving the landscape a starkly beautiful geological character. The contrast between the cultivated farmland on the surface and the raw canyon below is striking.

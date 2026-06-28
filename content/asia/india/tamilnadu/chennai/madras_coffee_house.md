@@ -7,6 +7,7 @@ tags:
 latitude: 13.0564
 longitude: 80.2493
 snippet: "Traditional filter coffee institution — the real thing, served in a steel tumbler."
+score: 6.7
 ---
 
 Madras Coffee House represents the end of the spectrum from Western-style specialty coffee: this is traditional South Indian filter coffee, served in a steel tumbler placed inside a steel dabara (a wide, low bowl used to cool the coffee by pouring it back and forth). The process of mixing and cooling — pouring from height to create a froth — is part of the ritual.

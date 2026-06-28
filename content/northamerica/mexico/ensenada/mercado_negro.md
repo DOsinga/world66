@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 31.8537
 longitude: -116.6136
+score: 7.7
 ---
 
 The Mercado Negro is Ensenada's main wholesale fish market, and unlike many such places it welcomes anyone who shows up. The market runs from early morning, with fishing boats unloading directly at the docks and vendors setting up tables of whatever came in that night — yellowtail, halibut, sea bass, lobster from the Pacific coast, clams, and oysters.

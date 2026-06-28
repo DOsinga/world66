@@ -10,6 +10,7 @@ story: >
   CAT was founded in 1974 by a group of idealists who bought a disused slate quarry in the Dyfi valley with the idea of building a working sustainable community from scratch. In the 1970s, renewable energy and sustainable building were considered fringe concerns; CAT was demonstrating wind turbines, solar panels, and composting systems before most people had heard the terms. By the time these technologies went mainstream, CAT had 45 years of practical experience.
 sources:
   - https://en.wikipedia.org/wiki/Centre_for_Alternative_Technology
+score: 8.5
 ---
 
 The Centre for Alternative Technology (CAT), a couple of miles north of Machynlleth up the Dyfi valley, is a working demonstration site for renewable energy, sustainable building, organic growing, and ecological living. Founded in 1974 on a disused slate quarry, it has been continuously running experiments and education programmes for over 50 years.

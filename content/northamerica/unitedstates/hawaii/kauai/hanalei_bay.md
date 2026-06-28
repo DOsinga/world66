@@ -14,6 +14,7 @@ story: >
   Technicolor cameras. The production reportedly left the valley greener than they found it.
 sources:
   - https://en.wikipedia.org/wiki/Hanalei_Bay
+score: 8.6
 ---
 
 Hanalei Bay is the postcard image of Kauaʻi's north shore: a two-mile crescent of sand backed by mountains that catch the clouds and hold them, creating the lush green walls that frame every photograph of the place. The bay faces north and catches winter swells that make it one of the finest surf spots in Hawaii, with breaks off the pier that attract serious surfers from November to March. In summer the water calms enough for swimming, kayaking, and stand-up paddleboarding.

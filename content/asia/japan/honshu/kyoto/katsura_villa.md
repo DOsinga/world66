@@ -1,13 +1,18 @@
 ---
 latitude: 34.9836
 longitude: 135.7081
-snippet: 17th-century imperial villa on the Katsura River, the gold standard of Japanese garden design
-story: Bruno Taut, the modernist German architect, walked the grounds of Katsura in 1933 and declared it the finest example of architecture he had ever seen — the building from which, he wrote, all of modern European modernism had unknowingly descended.
+score: 9.1
+snippet: 17th-century imperial villa on the Katsura River, the gold standard of Japanese
+  garden design
+story: Bruno Taut, the modernist German architect, walked the grounds of Katsura in
+  1933 and declared it the finest example of architecture he had ever seen — the building
+  from which, he wrote, all of modern European modernism had unknowingly descended.
 tags:
 - things_to_do
 - villa
 - garden
 - sight
+- arashiyama
 title: Katsura Imperial Villa
 type: poi
 ---

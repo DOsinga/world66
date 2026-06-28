@@ -15,6 +15,7 @@ story: >
   mechanical figures emerge from the facade at noon to re-enact scenes from Gouda's
   history. A replica of the facade was built in Japan's Huis ten Bosch theme park in
   Nagasaki.
+score: 8.5
 ---
 
 The Gothic town hall stands in the very centre of the Markt, freestanding on all sides — an unusual and impressive sight. The stepped gables, the pointed turrets, and the pale stone have barely changed since 1450. The building is still in use as the city's administrative centre; the council chamber is open to visitors on certain days. The carillon, installed in the 17th century, can be heard from most of the old centre.

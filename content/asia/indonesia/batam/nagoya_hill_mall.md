@@ -6,6 +6,7 @@ tags:
   - landmark
 latitude: 1.1490
 longitude: 104.0100
+score: 5.9
 ---
 
 The largest shopping mall in Batam and the central landmark of the Nagoya district. Nagoya Hill covers nearly nine hectares and holds several floors of clothing, electronics, accessories, and household goods at prices well below Singapore. The free-trade zone status keeps imported goods genuinely cheap, and the range of local Indonesian brands and batik textiles is good. Beyond shopping, the mall has a Cinema XXI multiplex, a bowling alley, a karaoke lounge, and a food court with a wide spread of Indonesian and Chinese dishes.

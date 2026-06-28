@@ -9,6 +9,7 @@ story: "The chariots are so large and heavy that they can only be stopped with e
   in front of the lead chariot with a golden broom — the principle being that all
   are equal before Lord Jagannath, and even royalty must perform the most humble act
   of service."
+score: 9.4
 ---
 
 The Rath Yatra — the Chariot Festival — is one of the oldest and largest religious gatherings anywhere in the world. It takes place annually in June or July, the exact date determined by the lunar calendar (Ashadha Shukla Dwitiya, the second day of the bright fortnight of the month of Ashadha). Up to a million pilgrims descend on Puri in a single day to witness — and participate in pulling — the three massive wooden chariots that carry Lord Jagannath, his brother Balabhadra, and his sister Subhadra from the main temple to the Gundicha Temple 3 kilometres away along the Grand Road. The chariots are pulled by thousands of devotees on thick ropes; the enormous crowds make progress slow, stop-and-start, and extraordinarily loud.

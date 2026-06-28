@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.4
 ---
 
 The Asmara State House, the residence and offices of the Eritrean president, occupies an Italian-era complex south of Liberation Avenue. The main building is the former Royal Italian governor's residence, built between 1897 and 1900 — older than most of the city.

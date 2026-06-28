@@ -16,6 +16,7 @@ story: >
   tide tables. Van Horne liked it that way.
 sources:
   - https://en.wikipedia.org/wiki/Ministers_Island
+score: 7.6
 ---
 
 Ministers Island is a tidal island just offshore from Saint Andrews, accessible by car across a gravel tidal bar at low tide — but only at low tide. Twice a day, the causeway disappears under several metres of cold Fundy water. The island contains Covenhoven, the summer estate of Sir William Van Horne, builder of the Canadian Pacific Railway.

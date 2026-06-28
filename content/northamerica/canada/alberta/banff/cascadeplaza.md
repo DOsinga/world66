@@ -1,5 +1,8 @@
 ---
 address: Corner of Banff Ave and Wolf St, Downtown Banff Alberta T0L 0C0
+latitude: 51.178
+longitude: -115.5708
+score: 4.2
 tags:
 - shopping
 - shop

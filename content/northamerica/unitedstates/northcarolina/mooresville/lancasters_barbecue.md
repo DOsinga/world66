@@ -6,6 +6,7 @@ longitude: -80.8460
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Lancaster's Barbecue on Highway 150 is a Mooresville institution, with a wood-smoke smell that hits you in the parking lot and a low-ceilinged dining room hung with NASCAR memorabilia. The menu is straightforward: pulled pork, ribs, chopped Brunswick stew, and a hand-painted sign on the back wall reminding you to try the slaw.

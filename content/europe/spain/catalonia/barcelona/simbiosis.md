@@ -6,10 +6,12 @@ done:
 latitude: 41.378903
 longitude: 2.167347
 phone: +34 93 443 10 71
+score: 5.7
 snippet: Intimate venue for live music and DJ sets in the Raval
 tags:
 - bars_and_cafes
 - nightlife
+- el_raval
 title: Simbiosis
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
   - walking
 latitude: 29.1115
 longitude: 86.8543
+score: 7.5
 ---
 
 The Drolma Ri kora is a pilgrimage circuit around the hill that backs the Tashilhunpo Monastery complex, taking about two hours at a comfortable pace. The path climbs behind the monastery walls, past strings of prayer flags and cairns, with expanding views over Shigatse and the Yarlung Tsangpo valley as you gain height. Prayer wheels and shrines are placed at intervals along the route, and you will likely encounter Tibetan pilgrims completing the circuit with prayer beads and low chanting.

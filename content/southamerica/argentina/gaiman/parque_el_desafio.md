@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.2890
 longitude: -65.4960
+score: 4.8
 ---
 
 Parque el Desafío is the life's work of Joaquín Alonso, a retired railway worker who spent decades transforming his plot of land into an outdoor sculpture park made entirely from recycled materials: bottles, tyres, scrap metal, broken ceramics, and whatever else the Patagonian wind brought his way. The result is a colourful, chaotic, and completely earnest creation that sprawls over a considerable area and includes towers, arches, mosaics, and figures.

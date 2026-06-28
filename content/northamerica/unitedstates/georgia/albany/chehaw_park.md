@@ -7,6 +7,7 @@ tags:
 snippet: "800-acre park with a wild animal park designed by TV naturalist Jim Fowler"
 latitude: 31.6256
 longitude: -84.1368
+score: 7.5
 ---
 
 Chehaw Park is a sprawling 800-acre city park about 5 km north of downtown Albany, best known for the Wild Animal Park within it. The animal park was designed by Jim Fowler, the naturalist familiar from television's Wild Kingdom, and its enclosures are set within a natural hardwood habitat rather than the concrete-and-glass structures typical of urban zoos.

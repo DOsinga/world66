@@ -16,6 +16,7 @@ story: >
   cardinals, and insist on his legitimacy until he died in 1423, aged around 94.
   At that point his two remaining loyal cardinals elected a successor, making
   Peñíscola briefly the seat of the last antipope anyone took seriously.
+score: 8.8
 ---
 
 The castle stands at the summit of the rock, visible from miles out to sea. The Knights Templar built it between 1294 and 1307 on the foundations of an earlier Moorish fortification, and the Templar cross still marks the gatehouse. The structure is compact and well preserved — thick walls, a vaulted throne room, and a keep with sweeping views across the bay.

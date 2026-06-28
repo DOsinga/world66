@@ -12,6 +12,7 @@ story: >
   canyon. A century later it is still doing exactly that job — locals use it every day as a practical
   cut-through, not a tourist attraction. The fact that it bounces and sways with each step has been
   a feature, not a bug, for 110 years.
+score: 6.9
 ---
 
 The Spruce Street Suspension Bridge is a 375-foot pedestrian footbridge spanning a deep canyon in the Bankers Hill neighbourhood, built in 1912 and still in daily use. The bridge is wire-supported and bounces visibly when walked — the oscillation is mild but noticeable, and the views down into the eucalyptus-filled canyon and across to the Hillcrest skyline are best from the middle of the span.

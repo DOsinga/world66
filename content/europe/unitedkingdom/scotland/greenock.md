@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-06-02'
 latitude: 55.947342
 loc_type: city
+snippet: Clyde port town west of Glasgow, shaped by shipbuilding, transatlantic trade,
+  and James Watt history.
 longitude: -4.756472
-score: 0.39
+score: 6.55
 sources:
 - https://en.wikipedia.org/wiki/Greenock
 - https://en.wikipedia.org/wiki/McLean_Museum

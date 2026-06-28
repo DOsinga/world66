@@ -8,6 +8,7 @@ latitude: 51.555897
 longitude: 5.090128
 snippet: No-frills student pub on lively Piusplein square
 tags: [bars_and_cafes, bar]
+score: 5.2
 ---
 
 A student pub on the Piusplein, one of the stalwarts of the square. Cheap beer, no fuss, and a terrace that fills up from late afternoon when Tilburg University empties out.

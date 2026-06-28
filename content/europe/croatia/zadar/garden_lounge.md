@@ -6,6 +6,7 @@ longitude: 15.2225
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 A long-running rooftop bar built into a section of the medieval city walls, with views over the old town and the harbour. Founded in the early 2000s by James Brown of UB40 fame and former associates, the Garden runs into the small hours in summer and hosts the occasional DJ.

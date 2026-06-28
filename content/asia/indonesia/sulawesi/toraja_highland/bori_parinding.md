@@ -8,6 +8,7 @@ latitude: -2.94
 longitude: 119.882
 story: >
   Bori Parinding contains over one hundred standing stones, each one erected to mark the funeral of a nobleman whose family could afford the ceremony. The largest stones, called simbuang batu, can weigh several tonnes and were dragged from riverbeds by teams of men using ropes and wooden rollers — a practice that continues today for the wealthiest families.
+score: 8.5
 ---
 
 Bori Parinding is a megalithic site near the village of Bori, a few kilometres north of Rantepao. Hundreds of standing stones fill a flat ceremonial ground, each one a marker for a noble who was given the most elaborate form of Torajan burial rite. Some of the stones are centuries old; others were placed within living memory. The site is unlike anything else in Indonesia.

@@ -13,6 +13,7 @@ story: >
   were officially forbidden from entering it. The street contained some 25 bars, several brothels,
   and dance halls catering almost exclusively to sailors. Local women who worked or lived there
   were known as "Gut girls" — the Maltese nickname for the street was simply "il-Gut."
+score: 7.8
 ---
 
 Strait Street runs parallel to Republic Street but on the downhill side, and for most of the 19th and 20th centuries it occupied a very different place in Valletta's social geography. As the city's red-light district and primary entertainment strip for the Royal Navy, it was known as "The Gut" — a place of bars, dance halls, and general rowdiness that the respectable parts of the city preferred not to acknowledge.

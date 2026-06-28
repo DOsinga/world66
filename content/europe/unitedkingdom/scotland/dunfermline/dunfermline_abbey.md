@@ -11,6 +11,7 @@ story: >
   Robert the Bruce's body was buried at Dunfermline Abbey in 1329, but his heart was removed and taken on crusade to Spain, as he had wished. In 1818, builders working on the nave discovered a vault containing a skeleton with the breastbone sawn open — a tell-tale sign that the heart had been removed before burial. The skeleton was reinterred with ceremony, and a brass plaque in the floor of the nave now marks the site. The heart, it is believed, was brought back from Spain and buried separately at Melrose Abbey.
 sources:
   - https://en.wikipedia.org/wiki/Dunfermline_Abbey
+score: 9.2
 ---
 
 Dunfermline Abbey is an active Church of Scotland parish church built on the site of one of the most important royal monasteries in medieval Scotland. Founded by Malcolm III in the 11th century, it was the burial place of Scottish kings and queens from Malcolm I to Robert the Bruce, and the building contains the tombs of at least seven Scottish monarchs and their consorts.

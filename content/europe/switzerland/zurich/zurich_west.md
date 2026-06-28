@@ -1,12 +1,17 @@
 ---
-title: "Zurich-West (Kreis 5)"
-type: neighbourhood
+image: zurich_west.jpg
+image_attribution: Hansueli Krapf
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Zurich.JPG
 latitude: 47.3897
 longitude: 8.5187
+snippet: 'Former industrial district turned creative quarter: warehouse clubs, design
+  shops, the Viadukt arches'
 tags:
-  - things_to_do
-  - neighbourhood
-snippet: "Former industrial district turned creative quarter: warehouse clubs, design shops, the Viadukt arches"
+- things_to_do
+- neighbourhood
+title: Zurich-West (Kreis 5)
+type: neighbourhood
 ---
 
 Zurich-West, the **Kreis 5** district north-west of the main station, was the city's heavy-industrial heartland from the 1860s through the late 20th century — shipyards, breweries, foundries, gasworks. When the factories left in the 1990s the lofts and warehouses were progressively colonised by architects, designers, club promoters and chefs. Today it carries most of Zurich's contemporary art and nightlife and is by far the most architecturally interesting recent quarter in the city.

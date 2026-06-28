@@ -10,6 +10,7 @@ story: >
   The Kaliningrad region (formerly the Samland Peninsula) holds an estimated 90% of the world's known amber reserves, concentrated in the blue clay layer about eight metres below the surface along the Baltic shore. The amber formed roughly 40-50 million years ago from the resin of ancient forests, and the Baltic amber is valued not just for its colour but for the extraordinary range of prehistoric inclusions — insects, spiders, feathers, plant material — that have been preserved inside it.
 sources:
   - https://en.wikipedia.org/wiki/Amber_Museum_(Kaliningrad)
+score: 8.7
 ---
 
 The Amber Museum is housed in the Dohna Tower, a tall round 19th-century Prussian fortification tower on the edge of the old city. The museum is one of the best in the world for understanding amber — the fossilised tree resin that has made this region both wealthy and distinctive for centuries. The permanent collection covers the geology and formation of amber, its historical trade routes, and its role in art from antiquity to the present.

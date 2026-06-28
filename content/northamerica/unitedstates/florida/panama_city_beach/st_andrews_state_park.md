@@ -14,6 +14,7 @@ story: >
   and the lagoon, watching fish that use the pass as a feeding ground. Rangers
   time the drift by the tide, and on a good run you can cover 200 metres in
   minutes without moving a muscle.
+score: 8.4
 ---
 
 St. Andrews State Park occupies the eastern tip of the barrier peninsula, a few miles from the condo strip, and it is a completely different experience. The beach here is the same white quartz sand as everywhere else on this stretch of the Panhandle, but without the development, the crowds thin out fast.

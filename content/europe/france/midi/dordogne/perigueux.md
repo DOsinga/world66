@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:P%C3%A9rigueux_-_Vue_de_la
 latitude: 45.184021
 loc_type: city
 longitude: 0.716039
-score: 0.59
+score: 8.24
+snippet: Dordogne capital where Roman ruins and the domed Cathédrale Saint-Front share
+  the Isle riverbank
 title: Périgueux
 type: location
 ---

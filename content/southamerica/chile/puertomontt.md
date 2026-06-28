@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Montt_2009.jpg
 latitude: -41.4717
 loc_type: city
 longitude: -72.9396
-score: 0.5
+score: 7.71
+snippet: Southern Chilean port where the Lake District gives way to Patagonia and
+  Chiloé-bound ferries.
 title: Puerto Montt
 type: location
 ---

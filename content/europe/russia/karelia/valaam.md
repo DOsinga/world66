@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Ladoga._Valaam._Valaa
 latitude: 61.388986
 loc_type: city
 longitude: 30.944978
-score: 0.42
+score: 7.24
+snippet: Lake Ladoga archipelago in Karelia, centred on the historic Valaam Monastery
+  and wooded islands.
 title: Valaam
 type: location
 ---

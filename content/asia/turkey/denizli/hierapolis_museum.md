@@ -8,6 +8,7 @@ tags:
 - museum
 - archaeological_site
 snippet: Sculptures and finds from Hierapolis and the surrounding region, housed inside the restored Roman bath complex
+score: 7.7
 ---
 
 The **Hierapolis Archaeological Museum** occupies three of the vaulted halls of the second-century Roman baths, which gives it one of the more atmospheric settings of any provincial museum in Turkey. The collection covers Hierapolis itself, neighbouring Laodicea and the Lycos valley, and includes reliefs from the Hierapolis theatre, sarcophagi from the necropolis, and small finds from local tombs.

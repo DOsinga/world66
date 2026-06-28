@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge_
 latitude: 51.453802
 loc_type: city
 longitude: -2.597298
-score: 0.65
+score: 8.35
+snippet: Southwest England's largest city, a historic port linked to Brunel, Cabot,
+  and the Clifton Suspension Bridge.
 title: Bristol
 type: location
 ---

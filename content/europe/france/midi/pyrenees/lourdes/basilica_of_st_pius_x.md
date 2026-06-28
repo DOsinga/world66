@@ -14,6 +14,7 @@ story: >
   the view of the existing basilicas — only a small entrance pavilion is visible above 
   ground. The oval concrete structure took four years to build and was consecrated in 
   1958, exactly a century after the apparitions.
+score: 6.8
 ---
 
 The Basilica of St. Pius X lies entirely underground, accessed by a ramp that descends from the Esplanade des Processions. The scale inside is remarkable — a vast, low concrete vault held up by twenty-two elliptical arches, with a capacity of 25,000 people. The building was designed by Pier Luigi Nervi, one of the great engineers of the 20th century, and the structural elegance of the concrete arches is impressive despite the utilitarian purpose.

@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
 latitude: 42.7121
+loc_type: city
 longitude: -110.9326
+score: 6.99
+snippet: Fertile western Wyoming valley of small towns, clean mountain air, and snow-rimmed
+  ranges.
+sources:
+- https://en.wikipedia.org/wiki/Afton,_Wyoming
+- https://en.wikipedia.org/wiki/Intermittent_Spring_(Wyoming)
+- https://en.wikipedia.org/wiki/Star_Valley_Wyoming_Temple
 title: Star Valley (Afton)
 type: location
-score: 0.4
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Afton,_Wyoming
-  - https://en.wikipedia.org/wiki/Intermittent_Spring_(Wyoming)
-  - https://en.wikipedia.org/wiki/Star_Valley_Wyoming_Temple
 ---
 
 Star Valley is a long, fertile valley in western Wyoming, flanked by the Salt River Range to the east and the Wyoming Range to the west. A string of small towns runs down its length — Thayne, Auburn, Grover, Afton, Smoot — with Afton serving as the valley's commercial hub and largest town. The valley floor sits at around 1,900 metres and is ringed by peaks that hold snow into June, keeping the air clean and the summers short.

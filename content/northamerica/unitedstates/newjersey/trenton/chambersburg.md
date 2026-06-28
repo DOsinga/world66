@@ -8,6 +8,7 @@ latitude: 40.2108
 longitude: -74.7469
 sources:
   - https://en.wikipedia.org/wiki/Chambersburg,_Trenton,_New_Jersey
+score: 7.5
 ---
 
 Chambersburg, south of the downtown, is Trenton's Italian-American neighbourhood. The community dates to the late 19th century and has survived the decades better than most of the city: you will still find Italian bakeries, a few old-school restaurants, and the kind of neighbourhood social clubs that have mostly vanished elsewhere.

@@ -10,6 +10,7 @@ latitude: 38.6534
 longitude: -122.6034
 sources:
   - https://en.wikipedia.org/wiki/Robert_Louis_Stevenson_State_Park
+score: 7.8
 ---
 
 Robert Louis Stevenson spent his honeymoon in 1880 in an abandoned bunkhouse on the slopes of Mount St. Helena, and the state park named for him covers much of the mountain above Calistoga. The summit trail climbs about 600 metres over 10 kilometres, with panoramic views on clear days stretching to the Sierra Nevada and the Pacific. The hike is strenuous and largely exposed; start early to avoid the midday heat.

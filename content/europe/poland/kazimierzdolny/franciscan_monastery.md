@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.3245
 longitude: 21.9440
+score: 6.8
 ---
 
 The Reformati Franciscan monastery sits on the slope below Three Crosses Hill, a quieter and less visited corner of town than the market square. The seventeenth-century church and cloister are simple, whitewashed and dignified, with a small ornate Baroque altarpiece inside.

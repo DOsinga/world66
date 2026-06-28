@@ -6,6 +6,7 @@ latitude: 19.2010
 longitude: -104.6839
 sources:
   - https://www.openstreetmap.org
+score: 4.3
 ---
 
 A long-standing local institution on Avenida Veracruz, Pizza Internet does exactly what its eccentric name suggests: pizza, and (at least historically) internet access. It is one of the more reliable options in the centre of town for a filling, unpretentious meal that will not break the bank.

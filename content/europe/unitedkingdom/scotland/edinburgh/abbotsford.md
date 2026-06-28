@@ -5,10 +5,11 @@ done:
 latitude: 55.953244
 longitude: -3.194558
 phone: 0131 225 5276
+score: 7.3
 snippet: Grand Victorian bar with cask ales on Rose Street
 tags:
 - bars_and_cafes
-- new_town
+- newtown
 - bar
 title: The Abbotsford
 type: poi

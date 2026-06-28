@@ -8,6 +8,7 @@ tags:
   - museum
   - architecture
   - sight
+score: 7.2
 ---
 
 Built in 1904 for the Spanish nitrate baron Juan Higinio Astoreca, the Palacio Astoreca is the most opulent of Iquique's wooden mansions — a three-storey timber palace in Georgian-revival style, with billiard rooms, ballrooms, and tortoiseshell-and-marble interiors imported from Europe. It is now a cultural centre run by the Universidad Arturo Prat and free to visit.

@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 53.8661
 longitude: 21.3046
+score: 7.3
 ---
 
 The Masurian Lake District is one of the best kayaking regions in central Europe, and Mragowo sits within comfortable reach of several marked water trails. The Great Masurian Kayak Trail (Wielka Pętla Mazurska) is the flagship route: a 108-kilometre circuit through 18 lakes connected by rivers and canals, typically done over five to seven days but easily broken into single-day sections. The trail passes through pine and birch forests, small villages, and stretches of open water where the only sounds are wind and water birds.

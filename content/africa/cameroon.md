@@ -1,6 +1,7 @@
 ---
 latitude: 4.612552
 longitude: 13.153581
+snippet: "Central African country of rainforests, Sahel savannah, volcanic coast, and unusually dense cultural variety."
 title: Cameroon
 type: location
 image: cameroon.jpg
@@ -12,7 +13,7 @@ quick_facts:
   Languages: French and English
   Nicknamed: "Africa in miniature"
   Mount Cameroon: "Only active volcano in West Africa"
-score: 0.35
+score: 0.47
 loc_type: country
 ---
 

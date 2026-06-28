@@ -1,0 +1,200 @@
+{
+  "round": 3080,
+  "timestamp": "2026-06-13T22:27:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 9.2291,
+      "prior_variance": 0.356113,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 6.659,
+      "prior_variance": 0.204296,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.2229,
+      "prior_variance": 0.172156,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.822,
+      "prior_variance": 0.217619,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 4.5248,
+      "prior_variance": 0.14707,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 3.7526,
+      "prior_variance": 0.162575,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.259,
+      "prior_variance": 0.125169,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.6863,
+      "prior_variance": 0.124088,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -2.5151,
+      "prior_variance": 0.16977,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -2.7081,
+      "prior_variance": 0.129313,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 0.727,
+      "prior_variance": 0.143518,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Orte",
+      "path": "europe/italy/lazio/orte",
+      "prior_score": -0.8151,
+      "prior_variance": 0.131401,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 1.5833,
+      "prior_variance": 0.141145,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_score": -0.4233,
+      "prior_variance": 0.173233,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -0.8471,
+      "prior_variance": 0.133118,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 1.1227,
+      "prior_variance": 0.112937,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": -0.0374,
+      "prior_variance": 0.118911,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -2.2919,
+      "prior_variance": 0.147355,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -2.0243,
+      "prior_variance": 0.119704,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -0.5999,
+      "prior_variance": 0.128156,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -3.2555,
+      "prior_variance": 0.155915,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.4077,
+      "prior_variance": 0.129196,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -4.843,
+      "prior_variance": 0.150283,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.589,
+      "prior_variance": 0.188862,
+      "prior_n": 10
+    }
+  ]
+}

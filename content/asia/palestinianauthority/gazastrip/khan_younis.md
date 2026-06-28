@@ -13,6 +13,7 @@ tags:
   - sight
 title: Khan Younis
 type: poi
+score: 6.2
 ---
 
 Khan Younis is the largest city in the southern Gaza Strip, built around the surviving walls of a Mamluk caravanserai from which it takes its name. The fortified khan was a substantial structure — a large rectangular courtyard with stables, storerooms, and a small mosque — built to shelter travellers and their pack animals on the long road between Egypt and the Levant. Fragments of the walls and gates remained visible into recent years.

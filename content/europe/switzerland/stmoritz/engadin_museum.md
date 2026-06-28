@@ -6,7 +6,11 @@ done:
 latitude: 46.4985
 longitude: 9.8413
 phone: +41 81 833 43 33
+score: 6.6
 snippet: Romansh valley culture in a fine traditional Engadin house
+tags:
+- things_to_do
+- museum
 title: Engadin Museum
 type: poi
 ---

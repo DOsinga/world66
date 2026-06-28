@@ -10,6 +10,7 @@ tags:
   - historic_house
   - castle
 story: "The current Verwolde was built in 1776 for Adolph Werner Carel van der Borch — a baron in the Holy Roman Empire who wanted a respectable seat in the Achterhoek. The house was deliberately old-fashioned even when new: the architect copied Louis-XIV fashions a hundred years out of date because the patron preferred them to the lighter rococo of the period."
+score: 7.9
 ---
 
 Verwolde is the most polished of the country houses around Lochem, a brick-and-stone block in late-baroque style set on its moated island in the hamlet of Laren, six kilometres north of town. The interiors — including a baroque chapel, a state dining room and a 19th-century kitchen still fitted with copper pans — are open to visitors as part of the Geldersch Landschap & Kastelen network.

@@ -12,6 +12,7 @@ tags:
 title: Arlington National Cemetery
 type: poi
 url: https://www.arlingtoncemetery.mil
+score: 8.8
 ---
 
 One of the most visited sites in the Washington area, Arlington National Cemetery holds the graves of more than 400,000 military personnel and their dependents. The cemetery is open every day of the year; a visitors center near the main gate provides maps and grave-location services.

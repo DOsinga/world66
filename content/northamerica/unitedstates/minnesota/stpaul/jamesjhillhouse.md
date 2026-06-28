@@ -10,6 +10,7 @@ tags:
 - sight
 title: James J. Hill House
 type: poi
+score: 8.7
 ---
 
 The largest mansion in the Midwest when railroad baron James J. Hill built it in 1891. The interior features stained glass, elaborately carved woodwork, tile fireplaces, and cut-glass chandeliers. Operated by the Minnesota Historical Society; guided tours available Wednesday through Saturday.

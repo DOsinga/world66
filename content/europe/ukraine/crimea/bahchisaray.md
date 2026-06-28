@@ -6,7 +6,8 @@ done:
 latitude: 44.748
 loc_type: city
 longitude: 33.881
-score: 0.45
+score: 7.29
+snippet: Crimean Tatar valley town centred on the Khan's Palace and nearby cave monasteries.
 title: Bahchisaray
 type: location
 ---

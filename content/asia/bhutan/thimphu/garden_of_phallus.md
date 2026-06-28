@@ -12,6 +12,7 @@ tags:
 - sight
 title: Wangchuk Chenmoi Dumra (Garden of Phallus)
 type: poi
+score: 7.2
 ---
 
 A garden in Thimphu dedicated to explaining the Bhutanese folk tradition of phallic imagery, which has its roots in the teachings of the 15th-century saint Drukpa Kunley. Painted wooden phalluses and associated ritual objects are displayed with explanatory text covering the history and symbolism of the tradition. The garden is modest in scale but provides genuine cultural context for the imagery that visitors encounter on house walls across rural Bhutan. The tone is educational rather than prurient.

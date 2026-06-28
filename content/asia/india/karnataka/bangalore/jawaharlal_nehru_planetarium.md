@@ -7,6 +7,7 @@ tags:
 - museum
 title: Jawaharlal Nehru Planetarium
 type: poi
+score: 6.9
 ---
 
 The Jawaharlal Nehru Planetarium, opened in 1989, sits on the western edge of Cubbon Park and is one of the better planetariums in India. The 15-metre dome seats 225 for sky shows, which run twice daily in English and Kannada. The accompanying exhibition hall covers the solar system, space exploration, and Indian contributions to astronomy. The observatory, with its 6-inch refractor telescope, offers public viewings on clear evenings.

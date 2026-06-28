@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 32.1500
 longitude: 78.0500
+score: 8.7
 ---
 
 The Spiti River runs the length of the valley from near the Kunzum Pass to its confluence with the Sutlej near Khab, cutting through a gorge of such stark grandeur that the road — already a feat of engineering — seems almost audacious for even attempting to follow it. The river is grey-green with glacial melt, fast and cold, and the valley it has carved is wide and flat-floored in some places, pinched into near-vertical cliffs in others.

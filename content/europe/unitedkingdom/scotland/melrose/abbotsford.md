@@ -16,6 +16,7 @@ story: >
   followed nearly killed him; the books he wrote to clear the debt, including
   Ivanhoe, became the bestsellers of their age. He died in the dining room in
   1832 with the windows open onto the river.
+score: 8.9
 ---
 
 Abbotsford was Sir Walter Scott's home for the last twenty years of his life, the place where he wrote most of his novels and assembled an extraordinary cabinet of curiosities — Rob Roy's gun, Napoleon's pen-case, a fragment of oatcake from Bonnie Prince Charlie's saddlebag, the original keys of Loch Leven Castle. The house itself is a Scots Baronial fantasia of turrets, panelling, and carved oak, modelled by Scott from Border tower houses and the imagination that filled his novels.

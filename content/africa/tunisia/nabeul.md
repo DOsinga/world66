@@ -5,7 +5,9 @@ done:
 latitude: 36.45129
 loc_type: city
 longitude: 10.735591
-score: 0.49
+score: 7.39
+snippet: Cap Bon pottery town where blue-and-white ceramics fill workshops, markets,
+  and medina lanes.
 sources:
 - https://en.wikipedia.org/wiki/Nabeul
 - https://en.wikipedia.org/wiki/Nabeul_Museum

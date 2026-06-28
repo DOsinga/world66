@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Hydra grew rich in the 18th century running supplies and grain through the British blockade of the French during the Napoleonic wars. By 1820 the island had a merchant fleet of around 150 ships and a population approaching 30,000 — five times what it is now. The captains used their fortunes to build the stone mansions that still climb the slopes above the harbour."
+score: 9.2
 ---
 
 The horseshoe-shaped harbour is the front parlour of Hydra and the reason most people come. Stone quays curve around a deep, sheltered basin lined with cafes, fish tavernas, jewellery shops, and the offices of the hydrofoil companies. Cannons set into the seawall mark the entrance — there are two small stone bastions at either side, all that remains of the harbour defences from the Greek War of Independence.

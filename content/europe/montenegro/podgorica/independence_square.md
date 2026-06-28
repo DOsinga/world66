@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.441262
 longitude: 19.262804
+score: 5.9
 ---
 
 Independence Square (Trg Nezavisnosti) is the central public square of Podgorica, flanked by government buildings and the Montenegrin National Theatre. It was known as Republic Square during the Yugoslav era. The square is the focal point of national events and hosts a café culture at its edges that makes it the most sociable public space in the city centre.

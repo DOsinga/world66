@@ -10,6 +10,7 @@ tags:
 neighbourhood: Midtown
 title: Old Miami
 type: poi
+score: 6.9
 ---
 
 The Old Miami is a Cass Corridor institution: a dim, scruffy, deeply loved dive bar that opened in 1979 as a hangout for Vietnam veterans (Miami stood for Missing in Action / Missing in Iraq). The walls are covered in military memorabilia, the jukebox is genuinely good, and the bartenders are unflappable. There's an unexpectedly large back garden with picnic tables and a fire pit.

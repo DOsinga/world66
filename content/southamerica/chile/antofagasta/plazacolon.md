@@ -9,6 +9,7 @@ tags:
 - sight
 title: Plaza Colón
 type: poi
+score: 6.3
 ---
 
 Plaza Colón is the main square of Antofagasta, anchored by a clock tower built in 1910 to mark a century of Chilean independence. The tower bears a notable resemblance to Big Ben in London — a nod to the strong British influence during Antofagasta's nitrate mining heyday. The British community donated the tower, and it remains the city's most recognizable landmark.

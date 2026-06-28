@@ -6,6 +6,7 @@ longitude: -155.9930
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 Alii Drive is the seafront road that runs through the heart of Kailua-Kona — a winding three-mile strip between Kamakahonu in the north and Keauhou in the south. The northern end, from the pier to Hulihee Palace, is the busiest stretch: shops, restaurants, bars, and the main concentration of historic buildings on the shore.

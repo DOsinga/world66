@@ -10,6 +10,7 @@ story: >
   The five red-brick prangs of Prasat Sikhoraphum were built in the early 12th century during the reign of the Khmer king Suryavarman II — the same king who commissioned Angkor Wat. The lintels carved with scenes from Hindu mythology are some of the finest Khmer stonework still visible on Thai soil.
 sources:
   - https://en.wikipedia.org/wiki/Prasat_Sikhoraphum
+score: 8.3
 ---
 
 Prasat Sikhoraphum is the finest Khmer temple ruin in the Surin region, standing about 34km east of the city. The complex centres on five lotus-bud prangs rising from a laterite platform, surrounded by a moat fed by an ancient reservoir. The main sanctuary is dedicated to Shiva and dates from the early 12th century.

@@ -11,9 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:American_Queen_Memphis_TN_
 latitude: 35.146025
 loc_type: city
 longitude: -90.051764
-score: 0.55
+score: 8.1
 title: Memphis
 type: location
+snippet: Mississippi River city of blues, barbecue, civil-rights history, and Elvis's
+  Graceland mythology.
 ---
 
 Memphis isn't so much a place as it is a feeling, a sound, a taste. It's the muggy warmth of a southern summer evening. It's the slow moan of a blues song or the eternal sounds of Elvis. It's the taste of barbecue, cornbread, and black-eye peas.

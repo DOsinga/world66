@@ -10,6 +10,7 @@ tags:
   - history
   - old_town
 neighbourhood: Old Town
+score: 7.5
 ---
 
 The National Museum of Lithuania occupies the New Arsenal building adjacent to Cathedral Square and Gediminas Hill — a good location for a museum covering the entire sweep of Lithuanian history. The permanent collection runs from prehistoric Baltic cultures through the medieval Grand Duchy, the Polish-Lithuanian Commonwealth, the Russian imperial period, the interwar republic, Soviet occupation, and independence.

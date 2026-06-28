@@ -14,6 +14,7 @@ tags:
   - sight
 title: Great Mosque of Gaza
 type: poi
+score: 8.5
 ---
 
 The Great Mosque, also known as the Great Omari Mosque, was the largest and oldest mosque in the Gaza Strip, sitting at the heart of the Old City. The building is a palimpsest: parts of the structure date to a fifth-century Byzantine church, much of the surviving fabric was the nave of a twelfth-century Crusader cathedral, and the minaret and additional courtyards were added in the Mamluk and Ottoman periods. The result, before recent destruction, was an unusual hybrid in which Gothic pointed arches stood alongside Mamluk inscriptions and Ottoman-era prayer rugs.

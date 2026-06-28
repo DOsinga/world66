@@ -8,7 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Encl
 latitude: -20.2709
 loc_type: city
 longitude: 30.9332
-score: 0.55
+score: 7.99
+snippet: Shona stone-city ruins whose Great Enclosure gave modern Zimbabwe its name.
 title: Great Zimbabwe
 type: location
 ---

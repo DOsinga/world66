@@ -12,6 +12,7 @@ story: >
   these bushes took place in 2005, when 20 grams of tea were produced.
   They have not been harvested since. Cuttings taken from the original plants
   now grow across the mountain, and that tea is what the world drinks.
+score: 4.4
 ---
 
 The Da Hong Pao (大红袍, Big Red Robe) scenic area centres on a cliff face at Jiulong Ke (Nine Dragon Hollow), where six ancient tea bushes grow from a crack in the rock about 10 metres above the ground. These are the legendary original bushes from which the most prized oolong in China is said to descend. The walk from the scenic area entrance follows a stream through a narrow gorge with tea gardens on both sides — the contrast between the tended cultivation below and the wild cliff above is striking.

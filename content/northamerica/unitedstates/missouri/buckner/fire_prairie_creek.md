@@ -9,6 +9,7 @@ latitude: 39.1378
 longitude: -94.0991
 sources:
   - https://en.wikipedia.org/wiki/Fire_Prairie_Creek
+score: 4.4
 ---
 
 Fire Prairie Creek is a small stream east of Buckner with a name that hints at the prairie landscape that preceded modern farms and towns. It is not a developed attraction, but it adds a bit of local geography to a rural drive.

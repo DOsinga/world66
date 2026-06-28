@@ -12,6 +12,7 @@ story: >
   of the way the underwater shelf focuses southwest swells into a clean A-frame peak. During the
   dry season, the offshore winds are so reliable that experienced surfers set their alarms
   rather than checking a forecast.
+score: 8.7
 ---
 
 The main surf break at Popoyo is a reef break just offshore, producing a powerful A-frame wave that works at multiple tides and handles a broad range of swell sizes. At low tide on a solid south swell, the wave hollows out into proper barrels — challenging even for experienced surfers. On smaller days the shoulder is long enough for intermediate riders to find their lines.

@@ -10,16 +10,18 @@ image_attribution: I would appreciate <a href="//commons.wikimedia.org/wiki/Spec
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Subotica,_radnice.jpg
 latitude: 44.024323
+loc_type: country
 longitude: 21.076574
 quick_facts:
-  Population: "6.6 million"
-  Budget Meal: "~$4–5"
   Belgrade Fortress: Besieged by 115 armies
+  Budget Meal: ~$4–5
+  Population: 6.6 million
   Rakija: National spirit, homemade in most households
-score: 0.48
+score: 0.65
+snippet: Balkan country shaped by Roman, Byzantine, Ottoman, and Austro-Hungarian
+  influences along historic crossroads.
 title: Serbia
 type: location
-loc_type: country
 ---
 
 Serbia is a country where East meets West in the most literal sense. Shaped by Romans, Byzantines, Ottomans, and Austro-Hungarians, it has absorbed influences from all of them and turned them into something distinctly its own. The food blends Central European and Turkish traditions. The architecture ranges from Habsburg grandeur in the north to Ottoman mosques in the south. The people are famously hospitable, passionately opinionated, and always ready to pour you another glass of rakija.
@@ -30,4 +32,4 @@ Beyond the cities, Serbia rewards exploration. [Zlatibor](/europe/serbia/zlatibo
 
 Serbia is affordable, safe, and easy to navigate. The food is outstanding, the wine is improving fast, and the welcome is genuine. It is one of those places that travelers discover and immediately want to return to.
 
-**Destinations:** [Belgrade](/europe/serbia/belgrade), [Zlatibor](/europe/serbia/zlatibor), [Sokobanja](/europe/serbia/sokobanja), [Lozovik](/europe/serbia/lozovik), [Novi Beograd](/europe/serbia/novi_beograd)
+**Destinations:** [Belgrade](/europe/serbia/belgrade), [Zlatibor](/europe/serbia/zlatibor), [Sokobanja](/europe/serbia/sokobanja), [Lozovik](/europe/serbia/lozovik), [Novi Beograd](/europe/serbia/novi_beograd), [Sombor](/europe/serbia/sombor)

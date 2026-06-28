@@ -9,6 +9,7 @@ tags:
 - nature
 title: Feštinsko Kraljevstvo
 type: poi
+score: 7.1
 ---
 
 The "Fairy-tale Kingdom" is a cave near the village of Feština, discovered in 1930 when a vineyard owner's dog fell through a hole. The stalactites and stalagmites range from milky white to deep red-brown, shaped into curtains and columns that gave the cave its name — local children thought it looked like a kingdom. The temperature holds steady at 13–14°C year-round, and you may spot bats or tiny albino cave crabs.

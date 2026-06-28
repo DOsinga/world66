@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 41.9726
 longitude: -91.6742
+score: 7.8
 ---
 
 Czech Village, a stretch of 16th Avenue SW on the west bank of the Cedar River, is the most characterful neighbourhood in Cedar Rapids and one of the few in the Midwest to preserve a genuine Central European immigrant identity. The storefronts are low and old-fashioned, the bakeries sell koláče (Czech filled pastries) and houska bread, and the neighbourhood feels unhurried in a way that the rest of the city does not.

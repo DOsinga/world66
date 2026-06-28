@@ -1,0 +1,200 @@
+{
+  "round": 3909,
+  "timestamp": "2026-06-13T23:29:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 7.5181,
+      "prior_variance": 0.15908,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 3.7411,
+      "prior_variance": 0.132924,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 3.8545,
+      "prior_variance": 0.122436,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Fujian Tulou",
+      "path": "asia/china/fujianprovince/tulou",
+      "prior_score": 3.9535,
+      "prior_variance": 0.119019,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 4.0719,
+      "prior_variance": 0.119955,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 4.5096,
+      "prior_variance": 0.116608,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 5.5809,
+      "prior_variance": 0.147062,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 3.2274,
+      "prior_variance": 0.115261,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 2.9095,
+      "prior_variance": 0.127317,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 4.9888,
+      "prior_variance": 0.131856,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 3.8005,
+      "prior_variance": 0.115092,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_score": 1.3071,
+      "prior_variance": 0.142857,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 4.3005,
+      "prior_variance": 0.124987,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.6102,
+      "prior_variance": 0.103873,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay",
+      "prior_score": 2.5838,
+      "prior_variance": 0.106548,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 3.8874,
+      "prior_variance": 0.106276,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 3.5546,
+      "prior_variance": 0.106297,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 2.1298,
+      "prior_variance": 0.110955,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.5018,
+      "prior_variance": 0.103895,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 1.8345,
+      "prior_variance": 0.111841,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.5206,
+      "prior_variance": 0.101322,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 0.3361,
+      "prior_variance": 0.109857,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": 0.2645,
+      "prior_variance": 0.109688,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.6415,
+      "prior_variance": 0.108102,
+      "prior_n": 12
+    }
+  ]
+}

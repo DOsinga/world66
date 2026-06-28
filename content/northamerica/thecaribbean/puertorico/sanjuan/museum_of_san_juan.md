@@ -8,6 +8,7 @@ tags:
   - museum
   - old_san_juan
 neighbourhood: Old San Juan
+score: 7.5
 ---
 
 The Museum of San Juan is the city history museum, housed in a restored nineteenth-century market hall on Calle Norzagaray. The exhibits trace the development of the city from its Taíno-era beginnings through Spanish colonisation, the 1898 American invasion, and the twentieth-century population shifts that emptied Old San Juan and turned it into a heritage district.

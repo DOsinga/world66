@@ -1,0 +1,200 @@
+{
+  "round": 3615,
+  "timestamp": "2026-06-13T23:07:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -2.9388,
+      "prior_variance": 0.258444,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.6491,
+      "prior_variance": 0.133496,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": -0.3507,
+      "prior_variance": 0.129003,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -0.8398,
+      "prior_variance": 0.113114,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -1.3457,
+      "prior_variance": 0.106172,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Yantai",
+      "path": "asia/china/shandong_province/yantai",
+      "prior_score": -1.9106,
+      "prior_variance": 0.120074,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -1.8437,
+      "prior_variance": 0.118138,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.7269,
+      "prior_variance": 0.118516,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -2.1481,
+      "prior_variance": 0.115247,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -1.3621,
+      "prior_variance": 0.090704,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.5465,
+      "prior_variance": 0.117589,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -2.0004,
+      "prior_variance": 0.120923,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": 0.4416,
+      "prior_variance": 0.118392,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.6781,
+      "prior_variance": 0.111785,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.5092,
+      "prior_variance": 0.173883,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_score": -2.9086,
+      "prior_variance": 0.119207,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -4.0355,
+      "prior_variance": 0.146352,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -3.0912,
+      "prior_variance": 0.11016,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_score": -1.4895,
+      "prior_variance": 0.101825,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.1602,
+      "prior_variance": 0.121049,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.1909,
+      "prior_variance": 0.133618,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -5.6995,
+      "prior_variance": 0.168464,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.3783,
+      "prior_variance": 0.312067,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -11.556,
+      "prior_variance": 0.374295,
+      "prior_n": 11
+    }
+  ]
+}

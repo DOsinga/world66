@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: "Victoria's"
 type: poi
+score: 4.8
 ---
 
 A casual comfort-food restaurant on 17th Avenue SW, decorated in a loosely Victorian style that gives the place a warmer feel than the typical strip-mall diner. The menu covers a broad range of crowd-pleasers: chicken pot pie, pot roast, liver and onions, pierogies, stir fries, burgers, and sandwiches. Weekend brunch runs from 10am. A solid neighbourhood spot without any pretension about it.

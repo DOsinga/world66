@@ -14,6 +14,7 @@ tags:
   - sight
 title: "St Michael's Victory over the Devil"
 type: poi
+score: 7.2
 ---
 
 Mounted on the outer wall of Basil Spence's new cathedral, Jacob Epstein's enormous bronze sculpture of St Michael triumphant over a bound and prostrate devil is the first thing you see approaching the cathedral's main entrance from the south. Cast in 1960 and measuring over five metres, it is one of Epstein's largest works and one of the defining images of the building. Michael stands composed and victorious; the devil writhes beneath him, wings furled, face turned in anguish.

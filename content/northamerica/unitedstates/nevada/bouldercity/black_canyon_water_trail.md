@@ -8,6 +8,7 @@ tags:
   - kayaking
 latitude: 35.9978
 longitude: -114.7458
+score: 8.7
 ---
 
 The Black Canyon Water Trail is the stretch of the Colorado River immediately downstream of Hoover Dam — 12 miles of clear, cold water flowing through 240-metre red rock cliffs. Bighorn sheep come down to drink, hot springs steam out of the canyon walls, and the contrast with the parched land above the rim is dramatic.

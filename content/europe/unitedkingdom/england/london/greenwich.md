@@ -15,6 +15,7 @@ tags:
 title: Greenwich and the Royal Observatory
 type: poi
 url: www.rmg.co.uk/royal-observatory
+score: 9.2
 ---
 
 Greenwich is one of the most rewarding half-days out in London. Start at the Cutty Sark — the last surviving Victorian tea clipper, now a museum ship in dry dock near the river. Walk up through the Old Royal Naval College (free to enter, the painted hall is extraordinary) and climb the hill to the Royal Observatory, where you can straddle the Prime Meridian — the Greenwich Meridian, zero degrees longitude by international convention since 1884.

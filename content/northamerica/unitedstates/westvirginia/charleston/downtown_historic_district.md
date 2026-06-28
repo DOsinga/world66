@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.35055555555556
 longitude: -81.63416666666667
+score: 7.1
 ---
 
 Charleston's Downtown Historic District — listed on the National Register since 2002 — covers about ten blocks around Capitol Street, the city's main commercial spine. The buildings are largely turn-of-the-twentieth-century: cast-iron department-store fronts, Romanesque revival office blocks, and a row of early movie theatres in various states of restoration.

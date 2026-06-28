@@ -1,0 +1,200 @@
+{
+  "round": 3848,
+  "timestamp": "2026-06-13T23:24:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 13.3591,
+      "prior_variance": 0.775319,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Kamakura",
+      "path": "asia/japan/honshu/kamakura",
+      "prior_score": 9.4972,
+      "prior_variance": 0.244605,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Huang Shan",
+      "path": "asia/china/anhui/huang_shan",
+      "prior_score": 7.9614,
+      "prior_variance": 0.206653,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.7284,
+      "prior_variance": 0.127278,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 5.1366,
+      "prior_variance": 0.131211,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.4201,
+      "prior_variance": 0.104163,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_score": 3.6294,
+      "prior_variance": 0.118618,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.8467,
+      "prior_variance": 0.107487,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 2.3281,
+      "prior_variance": 0.117015,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 2.3152,
+      "prior_variance": 0.100546,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 1.9844,
+      "prior_variance": 0.114144,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_score": 1.4978,
+      "prior_variance": 0.121383,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 0.7629,
+      "prior_variance": 0.133136,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 2.2741,
+      "prior_variance": 0.098684,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 2.1609,
+      "prior_variance": 0.117768,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Hoorn",
+      "path": "europe/netherlands/hoorn",
+      "prior_score": 2.1722,
+      "prior_variance": 0.113333,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.7381,
+      "prior_variance": 0.099885,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.6036,
+      "prior_variance": 0.096375,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 2.6457,
+      "prior_variance": 0.118044,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_score": 0.7716,
+      "prior_variance": 0.117593,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -4.8531,
+      "prior_variance": 0.119342,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -4.9116,
+      "prior_variance": 0.121584,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -6.0753,
+      "prior_variance": 0.177964,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_score": -5.5611,
+      "prior_variance": 0.141299,
+      "prior_n": 12
+    }
+  ]
+}

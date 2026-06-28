@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.7
 longitude: 133.87
+score: 6.4
 ---
 
 The Alice Springs Reptile Centre on Stuart Terrace holds a large collection of central Australian reptiles — thorny devils, perenties, various pythons, and a range of lizards and goannas found in the Red Centre. The handlers give regular demonstrations and talks, including opportunities to hold some of the snakes and lizards, which makes it particularly appealing for children.

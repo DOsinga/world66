@@ -7,6 +7,7 @@ tags:
 latitude: 31.457
 longitude: -100.4327
 snippet: "Riverside art museum known for its ceramics collection and striking building"
+score: 7.7
 ---
 
 The San Angelo Museum of Fine Arts occupies an unusual building on the bank of the Concho River — a curved, earth-toned structure designed by Michael Graves that was built in 1999 on the site of the city's former water treatment plant. The building itself is one of the more architecturally distinguished things in West Texas.

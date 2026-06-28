@@ -9,6 +9,7 @@ tags:
 - museum
 title: Swansea Museum
 type: poi
+score: 7.5
 ---
 
 The oldest museum in Wales, founded in 1835. The collection is eclectic in the best Victorian tradition — local archaeological finds, Egyptian mummies, 18th-century Swansea porcelain, and maritime artefacts. Free admission, and a nicely unreconstructed feel.

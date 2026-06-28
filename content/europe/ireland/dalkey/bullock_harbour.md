@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Small working harbour with twelfth-century castle and lobster pots
+score: 7.4
 ---
 
 Just north of the village, Bullock Harbour is a tiny working port that has been busy since the twelfth century, when the Cistercian monks of St Mary's Abbey in Dublin held fishing rights here and built the squat tower of Bullock Castle on the cliff above. The castle is now part of a nursing home; the harbour still has a fleet of small fishing boats, stacks of lobster pots, and a slipway used by sea kayakers and divers.

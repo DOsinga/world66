@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -5.2262
 longitude: 145.8009
+score: 6.5
 ---
 
 The Madang Museum in the centre of town holds a collection of artefacts from the Madang Province and surrounding region: traditional carvings, woven goods, tools, and ceremonial objects from the coastal and highland cultures of the area. The collection is not large by international standards but provides useful context for anyone trying to understand the extraordinary cultural diversity of Papua New Guinea, where hundreds of distinct language groups live within a relatively small area.

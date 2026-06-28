@@ -16,6 +16,7 @@ story: >
   region.
 sources:
   - https://en.wikipedia.org/wiki/Old_Town_Hall,_Wolverhampton
+score: 5.7
 ---
 
 The Old Town Hall on North Street is a handsome Victorian building that now serves as an events venue and is Grade II listed. The building's Italianate design gives it a more continental character than most civic halls of its era — the ground-floor arcade of round arches and the carefully proportioned upper floors reflect the ambition Wolverhampton had for its public buildings in the second half of the nineteenth century.

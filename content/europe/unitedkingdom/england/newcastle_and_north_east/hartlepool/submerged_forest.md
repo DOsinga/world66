@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - nature
 snippet: "Mesolithic forest stumps visible on the beach at very low tide"
+score: 7.8
 ---
 
 The Hartlepool Submerged Forest is the eerie remains of a Mesolithic woodland — oak, hazel and alder — that grew here around 7,000 years ago, when sea levels were lower and the coastline ran much further east. Rising seas drowned the forest, and the stumps and roots have been preserved in the peat ever since.

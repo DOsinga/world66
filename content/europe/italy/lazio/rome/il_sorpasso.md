@@ -4,10 +4,12 @@ latitude: 41.905832
 longitude: 12.461422
 opening_hours: Mon–Fri 7am–midnight; Sat 8am–midnight; closed Sun
 price_range: €5–10 drinks; €10–20 food
+score: 7.7
 snippet: Prati wine bar and all-day cafe near the Vatican — the model Roman aperitivo
 tags:
 - bars_and_cafes
 - bar
+- prati
 title: Il Sorpasso
 type: poi
 ---

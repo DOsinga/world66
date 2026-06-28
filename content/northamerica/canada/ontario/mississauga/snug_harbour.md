@@ -8,6 +8,7 @@ tags:
 neighbourhood: Port Credit
 latitude: 43.549
 longitude: -79.584
+score: 5.6
 ---
 
 Snug Harbour sits right at the mouth of the Credit River — the largest waterfront patio in Port Credit, looking out across the marina to Lake Ontario. The food is straightforward seafood and grill: oysters, fish and chips, surf-and-turf. The cooking is reliable rather than memorable, but the location is the point.

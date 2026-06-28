@@ -14,6 +14,7 @@ story: >
   underground cities is its communication system: narrow pipes bored between
   levels allowed defenders above to pour boiling water or oil onto attackers
   in the tunnels below without opening the massive stone blocking doors.
+score: 7.7
 ---
 
 The Özkonak Underground City, about ten kilometres north of Avanos, is the least-visited of Cappadocia's major underground complexes. That alone makes it worth choosing over the better-known sites at [Derinkuyu](/asia/turkey/cappadocia/derinkuyu) or Kaymakli — the tunnels feel less like a theme park and more like what they actually were: a refuge for thousands of people hiding from raids.

@@ -5,7 +5,9 @@ done:
 latitude: 41.7059
 loc_type: city
 longitude: -70.2286
-score: 0.46
+score: 7.12
+snippet: Cape Cod town split between quiet Yarmouthport history and South Shore summer
+  amusements
 title: Yarmouth
 type: location
 ---

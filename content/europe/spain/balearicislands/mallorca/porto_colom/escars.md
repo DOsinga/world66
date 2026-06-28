@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The escars were built in the 19th and early 20th centuries by Felanitx fishermen and farmers, who used them to store boats, nets, salt, and tools. The brightest colours were originally chosen so that owners could spot their own boathouse from across the harbour after a long day out. Today many are listed as heritage buildings, with strict rules on repair and repainting."
+score: 7.9
 ---
 
 Lining the inner reaches of the harbour are rows of low single-storey boathouses, called *escars* in Catalan — squat stone-and-stucco buildings with arched doorways opening directly onto the water and shallow tiled slipways for hauling boats. They are painted in faded ochres, blues, greens, and pinks, and they make Porto Colom's waterfront unlike anywhere else on Mallorca.

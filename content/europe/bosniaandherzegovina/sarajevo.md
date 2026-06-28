@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarajevo_City_Panorama.JPG
 latitude: 43.8563
 loc_type: city
 longitude: 18.4131
-score: 0.63
+score: 8.87
+snippet: Bosnian capital where Ottoman lanes, Habsburg boulevards, and siege memory
+  meet in one narrow valley
 title: Sarajevo
 type: location
 ---

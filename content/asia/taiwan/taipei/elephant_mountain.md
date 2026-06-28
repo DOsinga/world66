@@ -1,11 +1,13 @@
 ---
 latitude: 25.0277
-longitude: 121.5710
+longitude: 121.571
+score: 7.7
 snippet: Short steep hike for the postcard view of Taipei 101
 tags:
 - things_to_do
 - sight
 - hiking
+- xinyi
 title: Elephant Mountain
 type: poi
 ---

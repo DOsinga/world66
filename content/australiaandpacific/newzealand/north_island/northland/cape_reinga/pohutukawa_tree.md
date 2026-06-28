@@ -8,6 +8,7 @@ tags:
 - culture
 title: Ancient Pohutukawa Tree
 type: poi
+score: 7.9
 ---
 
 The gnarled, wind-stunted pohutukawa tree clinging to the cliffs below the lighthouse is one of the most sacred sites in Māori cosmology. According to tradition, the spirits of the dead descend the roots of this tree before slipping beneath the waves to begin their journey north to Hawaiki, the ancestral homeland.

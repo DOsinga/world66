@@ -5,7 +5,9 @@ done:
 latitude: 18.75
 loc_type: city
 longitude: 110.15
-score: 0.42
+score: 6.6
+snippet: Hainan hot-spring town where Southeast Asian Chinese communities shaped coffee,
+  farms, and food culture.
 sources:
 - https://www.topchinatravel.com/china-attractions/xinglong-tropical-botanical-garden.htm
 - https://www.cits.net/china-travel-guide/Xinglong-County/xinglong-hot-spring.html

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.6820
 longitude: -78.9280
+score: 5.8
 ---
 
 Warbird Park, near the former Myrtle Beach Air Force Base, displays a collection of vintage military aircraft in an open-air setting just north of the Myrtle Beach airport. The base closed in 1993 and much of the land has been redeveloped, but the park preserves several aircraft including an A-10 Thunderbolt, an F-4 Phantom, and other Cold War-era planes on outdoor pedestals.

@@ -10,6 +10,7 @@ latitude: 47.2167
 longitude: 12.1703
 story: >
   The mist from the falls is so fine and constant that the path from the village to the upper cascade is effectively a long walk through a cool cloud. Local health resorts have used the "waterfalls cure" since the 19th century — doctors prescribed walks in the spray as treatment for respiratory conditions, and the practice was officially recognised enough that a clinic operated nearby for decades.
+score: 8.2
 ---
 
 The Krimml Waterfalls, 55km west of Zell am See in the Hohe Tauern National Park, are among the highest waterfalls in Europe: three cascades dropping a total of around 380 metres through a steep gorge. A well-maintained path climbs alongside the falls for about 3km, offering increasingly close views of each successive drop. The spray is intense near the main falls — bring a waterproof.

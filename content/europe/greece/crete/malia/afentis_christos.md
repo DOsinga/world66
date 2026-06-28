@@ -9,6 +9,7 @@ latitude: 35.2954
 longitude: 25.4609
 sources:
   - https://en.wikipedia.org/wiki/Afentis_Christos
+score: 4.3
 ---
 
 Afentis Christos is a tiny islet just off the Malia coast, named for the small chapel that sits on it. It is more a landmark than an excursion, but it gives the waterfront a visual point of interest beyond sunbeds and beach bars.

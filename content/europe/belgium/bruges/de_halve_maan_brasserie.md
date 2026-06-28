@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 51.2048
 longitude: 3.2240
+score: 5.5
 ---
 
 Bourgogne des Flandres, at the corner of Dijver canal near the Groeningemuseum, is a reliable spot for traditional Belgian cooking in a setting that doesn't feel like a tourist trap. The kitchen is straightforward — waterzooi (the Ghent chicken or fish stew that also appears in Bruges), rabbit in Belgian beer sauce, stoofvlees (beef braised in Trappist ale) — and does these dishes well. The terrace overlooks the canal and is one of the better spots in Bruges for an unhurried lunch in good weather.

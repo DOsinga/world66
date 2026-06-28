@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 53.1249
 longitude: -9.6685
+score: 7.2
 ---
 
 Joe Watty's is the liveliest pub in Kilronan and the most reliable place for traditional music on a summer evening. It is a proper Irish country pub — low ceilings, no design interventions, a bar that has been in the same place for decades. Musicians turn up without announcement, usually later in the evening; if you are there from around 9 pm onwards in July or August there is a good chance something will happen. The Guinness is well kept.

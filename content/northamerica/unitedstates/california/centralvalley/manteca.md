@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:MantecaCA.jpg
 latitude: 37.7988
 loc_type: city
 longitude: -121.2116
-score: 0.31
+score: 4.95
+snippet: Central Valley crossroads between Yosemite, the Delta, and almond-and-pumpkin
+  farmland around the Stanislaus River.
 title: Manteca
 type: location
 ---

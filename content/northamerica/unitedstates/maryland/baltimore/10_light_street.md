@@ -14,6 +14,7 @@ story: >
   particularly the lobby, with its polychrome marble floors, gilded ceilings, and ornate
   banking hall. The building survived the savings and loan crisis of the 1980s and the
   decline of the bank that built it, and now contains apartments.
+score: 6.8
 ---
 
 10 Light Street is Baltimore's finest Art Deco skyscraper, a 34-story tower completed in 1929 that stood as the tallest building in the city for a generation. The exterior is a classic stepped Art Deco composition; the lobby inside — if you can get access — is extraordinary, with gilded ceilings, polychrome marble, and the full ornamental vocabulary of 1920s banking grandeur.

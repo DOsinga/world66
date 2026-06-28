@@ -1,14 +1,14 @@
 ---
-category: Planetarium
 latitude: -33.9289
 longitude: 18.4153
-neighbourhood: City Bowl
+score: 7.2
 scores:
   activities: 0.6288
   sightseeing: 0.6408
 snippet: Refurbished digital planetarium next door to the South African Museum
 tags:
 - things_to_do
+- museum
 - science
 - city_bowl
 title: Iziko Planetarium and Digital Dome

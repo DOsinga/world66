@@ -2,6 +2,11 @@
 category: Sight
 latitude: 55.750767
 longitude: 37.618437
+score: 6.3
+tags:
+- things_to_do
+- sight
+- the_kremlin
 title: Tsar Bell
 type: poi
 ---

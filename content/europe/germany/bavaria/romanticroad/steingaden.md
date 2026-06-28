@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wieskirche_boenisch_okt_20
 latitude: 47.701707
 loc_type: city
 longitude: 10.860269
-score: 0.56
+score: 8.03
+snippet: Romantic Road village known for the rococo Wieskirche and a 12th-century
+  monastery church
 title: Steingaden
 type: location
 ---

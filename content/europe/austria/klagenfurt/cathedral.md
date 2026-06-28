@@ -9,6 +9,7 @@ tags:
 - sight
 title: Klagenfurt Cathedral
 type: poi
+score: 6.7
 ---
 
 The Protestant cathedral, consecrated in 1591 and later taken over by the Jesuits, is plain on the outside and ornate within. The interior was redecorated in Baroque style in the 18th century and features elaborate ceiling frescoes. It stands just off Alter Platz, the older of the city's two main squares.

@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jokulsarlon_lake,_Iceland.
 latitude: 64.0781
 loc_type: feature
 longitude: -16.23
+score: 9.43
+snippet: Southeastern Iceland glacial lagoon where Breiðamerkurjökull icebergs drift
+  toward black-sand Diamond Beach.
 sources:
 - https://en.wikipedia.org/wiki/J%C3%B6kuls%C3%A1rl%C3%B3n
 title: Jökulsárlón

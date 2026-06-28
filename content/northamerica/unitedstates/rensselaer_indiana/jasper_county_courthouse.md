@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 40.9358
 longitude: -87.1508
 snippet: "Romanesque limestone courthouse of 1898 at the centre of the historic square"
+score: 8.5
 ---
 
 The Jasper County Courthouse is the architectural and civic heart of Rensselaer — a Richardsonian Romanesque pile of rough-cut limestone with a tall central tower, completed in 1898 and still in use as the working county court. The architect Alfred Grindle designed several similar courthouses across Indiana but this is one of the more handsome survivors.

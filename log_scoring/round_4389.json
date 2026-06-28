@@ -1,0 +1,200 @@
+{
+  "round": 4389,
+  "timestamp": "2026-06-14T00:08:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 5.7946,
+      "prior_variance": 0.133827,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 5.2065,
+      "prior_variance": 0.113763,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 4.6732,
+      "prior_variance": 0.135907,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 3.7626,
+      "prior_variance": 0.097962,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -0.707,
+      "prior_variance": 0.116497,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 2.2874,
+      "prior_variance": 0.107424,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.5366,
+      "prior_variance": 0.106945,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.2592,
+      "prior_variance": 0.092454,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 3.176,
+      "prior_variance": 0.108794,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.2344,
+      "prior_variance": 0.08513,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": 0.235,
+      "prior_variance": 0.104362,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sthelena",
+      "prior_score": 0.5632,
+      "prior_variance": 0.09787,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_score": 0.0081,
+      "prior_variance": 0.088972,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.7013,
+      "prior_variance": 0.105958,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -0.8628,
+      "prior_variance": 0.092112,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -1.2168,
+      "prior_variance": 0.098796,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.1527,
+      "prior_variance": 0.106831,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Xuzhou",
+      "path": "asia/china/jiangsu_province/xuzhou",
+      "prior_score": -3.1943,
+      "prior_variance": 0.095163,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -2.9936,
+      "prior_variance": 0.094574,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -1.6401,
+      "prior_variance": 0.102402,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -3.7579,
+      "prior_variance": 0.089373,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -5.7562,
+      "prior_variance": 0.127915,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -6.1146,
+      "prior_variance": 0.120729,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -7.9242,
+      "prior_variance": 0.147099,
+      "prior_n": 14
+    }
+  ]
+}

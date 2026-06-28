@@ -8,6 +8,7 @@ tags:
 - surfing
 title: Crooklets Beach
 type: poi
+score: 6.7
 ---
 
 Crooklets is a sand-and-pebble beach a short walk north of Summerleaze, accessible on foot along the coastal path or by the road at the northern end of the town. It is more exposed than Summerleaze — the waves are bigger and the beach more suited to surfing and bodyboarding — and considerably less busy in summer. The beach hosts the British National Surfing Championships when conditions align.

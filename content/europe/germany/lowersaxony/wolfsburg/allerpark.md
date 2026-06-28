@@ -8,6 +8,7 @@ tags:
 snippet: Lakeside leisure park with beach, watersports, and walking trails
 latitude: 52.4356
 longitude: 10.8227
+score: 6.2
 ---
 
 The Allerpark is Wolfsburg's main outdoor leisure area, a broad green strip along the Aller river that includes the man-made Allersee, walking and cycling paths, an open-air pool, an ice rink, a sauna complex, and the city's main football stadium. In summer the lake fills up with swimmers and small sailboats.

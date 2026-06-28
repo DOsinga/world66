@@ -9,6 +9,7 @@ longitude: 105.2600
 sources:
   - https://seagames31.vietnamtourism.gov.vn/thac-bo-cave/
   - https://maichauhideaway.com/en/thac-bo-cave-a-must-visit-destination-in-mai-chau-that-you-may-not-know
+score: 7.0
 ---
 
 Thac Bo Cave sits on a limestone peninsula in the middle of the Hoa Binh reservoir, accessible only by boat. The cave itself runs more than 100 metres into the mountain, opening into three large chambers hung with stalactites and stalagmites; the widest point reaches about 20 metres across. It has been recognised as a national heritage site by the Vietnamese Ministry of Culture. Beside it, built into the cliff face, is a small pagoda that was a place of worship for Muong communities long before the dam flooded the valley below.

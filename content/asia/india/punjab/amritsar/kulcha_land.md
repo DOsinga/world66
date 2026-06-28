@@ -7,6 +7,7 @@ tags:
 latitude: 31.6300
 longitude: 74.8700
 snippet: The best kulcha in Amritsar, packed before noon
+score: 6.8
 ---
 
 Kulcha Land on Lawrence Road is widely considered to make the best amritsari kulcha in the city — which is saying something, given how seriously Amritsar takes its stuffed flatbreads. The kulchas are cooked in a traditional tandoor, pulled out blistered and smoky, and served with a pool of chickpea curry, raw onion, and a knob of butter large enough to cause concern.

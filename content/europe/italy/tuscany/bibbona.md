@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/36381187@N02/50115454323
 latitude: 43.269784
 loc_type: city
 longitude: 10.59727
-score: 0.6
+score: 7.8
+snippet: Medieval Tuscan hill village above the Tyrrhenian coast, paired with a quieter
+  pine-backed beach resort.
 title: Bibbona
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: -7.483
 longitude: 178.665
+score: 6.7
 ---
 
 The lagoon side of Vaitupu has a wide, shallow reef flat that exposes a long way out at low tide. At dead low you can walk most of the way to the edge of the reef in ankle-deep water over coral rubble and sand, with rock pools full of small fish and the occasional moray. Sea cucumbers and small reef sharks are common.

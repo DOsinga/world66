@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 64.8499
 longitude: -147.7221
+score: 5.9
 ---
 
 Lemongrass Thai is a favorite among University of Alaska students and Fairbanks locals looking for something beyond the usual salmon-and-steak rotation. The restaurant sits on College Road and serves well-executed Thai standards — green curry, pad thai, tom kha gai — with reasonable portions and prices that feel almost affordable by Fairbanks standards.

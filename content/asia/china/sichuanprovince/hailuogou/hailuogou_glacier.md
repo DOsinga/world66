@@ -15,6 +15,7 @@ story: >
   visible from within forested terrain that elsewhere would have no ice nearby.
   In the 1930s, Joseph Rock and a party of Western explorers came here specifically
   to attempt Minya Konka; several members of a subsequent expedition died on its slopes.
+score: 8.6
 ---
 
 The Hailuogou glacier is the central feature of the park and the reason most people make the journey. The glacier descends from the permanent ice fields of Minya Konka to an unusually low altitude — you can stand at the glacier's lower terminus in a landscape that still has large trees and hear the creak and crack of ice movement above you. The approach from the entrance involves shuttle buses and then a walkway that leads to the viewing platform and glacier access point.

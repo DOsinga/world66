@@ -8,6 +8,7 @@ latitude: 26.0177
 longitude: 105.6358
 story: >
   The name "Huangguoshu" means Yellow Fruit Tree — a reference to the wild plum trees that once grew on the surrounding cliffs. Early Chinese descriptions of the falls focus not on the water but on the sound: a roar audible from the town several kilometres away that travellers in the Ming dynasty took as an omen of something enormous before they could see it. The first systematic Western description came from French missionaries in the 19th century, who reported being unable to speak while standing at the base.
+score: 9.4
 ---
 
 The Huangguoshu Grand Waterfall drops between 74 and 78 metres — the variation is seasonal, as higher flows in the rainy season push the edge of the falls further back and add to the effective height — and spreads 101 metres wide at full flow. At peak summer volume it is China's largest waterfall by discharge, a title contested by several others in quieter seasons. What makes it exceptional is not the raw numbers but the geometry: the falls drop into a tight horseshoe-shaped gorge called the Rhinoceros Pool, and the enclosing cliffs amplify the sound and the spray until you are standing in a permanent light mist with the noise at physical volume.

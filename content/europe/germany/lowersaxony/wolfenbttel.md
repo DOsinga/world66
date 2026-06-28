@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:August_II-Marktplatz_Wolfe
 latitude: 52.1625
 loc_type: city
 longitude: 10.5348
-score: 0.45
+score: 7.25
 title: Wolfenbüttel
+snippet: Lower Saxon town of timber-frame streets, ducal history, and the great Herzog
+  August Bibliothek.
 type: location
 ---
 

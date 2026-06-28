@@ -8,6 +8,7 @@ latitude: 50.2136
 longitude: -5.4814
 story: >
   Hepworth died in a fire in her studio in 1975 and left instructions that it should be preserved as a working studio. The National Trust and Tate have maintained it almost exactly as it was when she died, including the tools she used and the half-finished work on her bench — which gives the place an eerie, still-inhabited quality unlike any formal museum.
+score: 9.2
 ---
 
 The Barbara Hepworth Sculpture Garden preserves the studio in Trewyn where Hepworth lived and worked from 1949 until her death in 1975. Administered by Tate St Ives, it is one of the most moving artistic spaces in Britain.

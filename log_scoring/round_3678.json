@@ -1,0 +1,200 @@
+{
+  "round": 3678,
+  "timestamp": "2026-06-13T23:11:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.6479,
+      "prior_variance": 0.149586,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 0.8335,
+      "prior_variance": 0.127809,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 4.6563,
+      "prior_variance": 0.144691,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 3.9968,
+      "prior_variance": 0.123855,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 2.4909,
+      "prior_variance": 0.140526,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.4424,
+      "prior_variance": 0.117939,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Vejer de la Frontera",
+      "path": "europe/spain/andalucia/vejer",
+      "prior_score": 3.6485,
+      "prior_variance": 0.111399,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 3.1105,
+      "prior_variance": 0.123065,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 0.6522,
+      "prior_variance": 0.121876,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.2182,
+      "prior_variance": 0.115078,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 1.6196,
+      "prior_variance": 0.110195,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 1.8452,
+      "prior_variance": 0.106862,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.0735,
+      "prior_variance": 0.127841,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.3945,
+      "prior_variance": 0.118227,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 3.2528,
+      "prior_variance": 0.11802,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 3.1471,
+      "prior_variance": 0.111115,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.6855,
+      "prior_variance": 0.110321,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.3403,
+      "prior_variance": 0.117016,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.8916,
+      "prior_variance": 0.11393,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Elie",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": 0.0042,
+      "prior_variance": 0.112039,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.7843,
+      "prior_variance": 0.110805,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": -0.4149,
+      "prior_variance": 0.13307,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.9511,
+      "prior_variance": 0.112638,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -3.9897,
+      "prior_variance": 0.127689,
+      "prior_n": 12
+    }
+  ]
+}

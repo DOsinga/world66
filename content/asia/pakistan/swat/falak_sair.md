@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6500
 longitude: 72.5167
+score: 6.9
 ---
 
 Mount Falak Sair is the highest peak of the Hindu Raj range and the dominant mountain at the head of the Swat Valley, rising to 5,918 metres. From Matiltan, above Kalam, the view of its long snow ridge is one of the iconic sights of northern Pakistan.

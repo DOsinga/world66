@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 9.311
 longitude: 42.129
+score: 7.8
 ---
 
 The Cultural Centre of the Harari people occupies a traditional Harari house in the old city and presents the distinctive material culture of this small ethnic group — one of Ethiopia's smallest, numbering fewer than 50,000 people — who have maintained a separate language, architecture, and way of life for centuries within Jugol's walls.

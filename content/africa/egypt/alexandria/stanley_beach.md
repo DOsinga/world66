@@ -8,6 +8,7 @@ tags:
 latitude: 31.2456
 longitude: 29.9650
 neighbourhood: Stanley
+score: 6.4
 ---
 
 The bay below Stanley Bridge, with the most-photographed urban beach scene in Alexandria. Two arcs of sand on either side of the bridge are public, with a small but well-maintained promenade running along the seawall.

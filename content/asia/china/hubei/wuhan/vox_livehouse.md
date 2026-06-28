@@ -8,6 +8,7 @@ tags:
   - bar
   - wuchang
 neighbourhood: Wuchang
+score: 7.2
 ---
 
 Vox is the most important live-music venue in central China — a small, dark, low-ceilinged club near the western gate of Wuhan University that has been a launching pad for Wuhan's vigorous indie-rock scene since 2004. Bands like SMZB and AV Okubo cut their teeth here; touring international bands on the China circuit usually play Vox when they come through.

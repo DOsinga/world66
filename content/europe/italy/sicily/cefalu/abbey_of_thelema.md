@@ -7,6 +7,7 @@ tags:
 latitude: 38.0316
 longitude: 14.0271
 story: "Aleister Crowley founded his 'Abbey of Thelema' here in 1920 with the intention of creating a utopian spiritual commune. The walls were covered in murals of his own design — explicit, occult, and genuinely disturbing. Mussolini expelled Crowley from Italy in 1923, reportedly after a visiting journalist wrote a sensational account. The murals were whitewashed over, only to be rediscovered decades later under layers of paint."
+score: 5.8
 ---
 
 On the hillside below La Rocca, a short distance from the old town, stands a small whitewashed farmhouse with an outsized reputation. This is the Abbey of Thelema, founded in 1920 by the English occultist Aleister Crowley as a spiritual commune. Crowley, his companion Leah Hirsig, and a changing cast of disciples lived here for three years, conducting rituals and painting the interior walls with elaborate occult imagery.

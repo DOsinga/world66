@@ -9,6 +9,7 @@ tags:
   - coast
 title: Cape Flattery
 type: poi
+score: 8.5
 ---
 
 Cape Flattery is the dramatic northwest tip of the Olympic Peninsula, where cliffs, sea stacks, and foaming channels meet the open Pacific. It is a small place with a big end-of-the-road feeling.

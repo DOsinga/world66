@@ -1,200 +1,200 @@
 {
   "round": 200,
-  "timestamp": "2026-04-12T08:47:44",
+  "timestamp": "2026-06-13T19:24:02",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Exumas",
-      "path": "northamerica/bahamas/exumas",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Udzungwa National Park",
-      "path": "africa/tanzania/udzungwa_national",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Poland",
-      "path": "europe/poland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Aberdare N.P.",
-      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Manawatu-Whanganui Region",
-      "path": "australiaandpacific/newzealand/whanganui_region",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "St Helier",
-      "path": "europe/channelislands/jersey/sthelier",
-      "prior_mu": 22.7735,
-      "prior_sigma": 5.9441,
-      "prior_n": 1
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Montserrat",
-      "path": "northamerica/montserrat",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Skarsv\u00e5g",
-      "path": "europe/norway/northcape/skarsvg_the_nort",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Phuntsholing",
-      "path": "asia/bhutan/phuntsholing",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Monterrei",
-      "path": "europe/spain/galicia/monterrei",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Arcata",
-      "path": "northamerica/unitedstates/california/arcata",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Indianapolis",
-      "path": "northamerica/unitedstates/indiana/indianapolis",
-      "prior_mu": 21.9302,
-      "prior_sigma": 4.8365,
-      "prior_n": 2
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Tulcea",
-      "path": "europe/romania/tulcea",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Santar\u00e9m",
-      "path": "southamerica/brazil/santarem",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Lansing",
-      "path": "northamerica/unitedstates/michigan/lansing",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Madison County & Winterset",
-      "path": "northamerica/unitedstates/iowa/madison_county__w",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "San Juan del Ro",
-      "path": "northamerica/mexico/sanjuandelro",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Jamestown",
-      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Clarksville",
-      "path": "northamerica/unitedstates/tennessee/clarksville",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Powell",
-      "path": "northamerica/unitedstates/wyoming/powell",
-      "prior_mu": 22.7108,
-      "prior_sigma": 5.9484,
-      "prior_n": 1
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Sneek",
-      "path": "europe/netherlands/friesland/sneek",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/sunderland",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Somerset",
-      "path": "northamerica/unitedstates/newjersey/somerset",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Warrens",
-      "path": "northamerica/unitedstates/wisconsin/warrens",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Goma",
-      "path": "africa/congokinshasa/goma",
-      "prior_mu": 22.635,
-      "prior_sigma": 5.9379,
-      "prior_n": 1
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

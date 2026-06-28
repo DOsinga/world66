@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Redstone_Rocket_Warren_NH.
 latitude: 43.928
 loc_type: city
 longitude: -71.886
-score: 0.35
+score: 5.64
+snippet: Small White Mountains town below Mt Moosilauke, threaded by the Baker River
+  and Appalachian Trail
 sources:
 - https://en.wikipedia.org/wiki/Warren,_New_Hampshire
 title: Warren

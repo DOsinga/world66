@@ -8,10 +8,12 @@ latitude: -37.9504
 loc_type: region
 longitude: 176.9383
 score: 0.6
+snippet: Sunny North Island coastal region of kiwifruit orchards, surf beaches, and
+  volcanic inland towns
 title: Bay of Plenty
 type: location
 ---
 
 The Bay of Plenty stretches along New Zealand's North Island east coast, named by Captain Cook for the abundance of food the local Maori offered his crew. It remains one of the most productive regions in the country — kiwifruit orchards and citrus groves line the coastal plain — and its warm, sunny climate makes it one of New Zealand's most popular holiday areas.
 
-[Tauranga](/australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga) and the beach resort of Mount Maunganui are the main coastal draws, with excellent surfing, big-game fishing, and a laid-back summer atmosphere. Inland, [Rotorua](/australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua) is a geothermal wonderland of bubbling mud pools, geysers, and hot springs, and one of the best places in New Zealand to experience Maori culture. On the horizon, the volcanic plume of White Island (Whakaari) is a constant reminder that this is an active volcanic zone.
+[Tauranga](/australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga) and the beach resort of Mount Maunganui are the main western coastal draws, with excellent surfing, big-game fishing, and a laid-back summer atmosphere. Farther east, [Whakatane](/australiaandpacific/newzealand/north_island/bay_of_plenty/whakatane) has Ngati Awa heritage, Ohope Beach, and guided access to the Moutohora island sanctuary. Inland, [Rotorua](/australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua) is a geothermal wonderland of bubbling mud pools, geysers, and hot springs, and one of the best places in New Zealand to experience Maori culture. On the horizon, the volcanic plume of White Island (Whakaari) is a constant reminder that this is an active volcanic zone.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.3491
 longitude: -1.6121
+score: 7.9
 ---
 
 The Church of St Lawrence stands at the top of Warkworth's main street and is one of the better-preserved Norman churches in Northumberland. The earliest parts of the building date to the 12th century, and the chancel in particular retains Norman stonework largely undisturbed by later renovation.

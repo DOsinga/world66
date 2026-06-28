@@ -14,6 +14,7 @@ story: >
   day than most countries. The wooden oil derricks that still dot the
   landscape around Bakersfield are among the last reminders of an industry
   that defined the city for a century.
+score: 8.1
 ---
 
 The Kern County Museum on Chester Avenue is an outdoor history museum with more than 50 restored and relocated historic structures spread across 16 acres. The collection includes a Victorian-era house, a 1920s Sears catalogue home, a one-room schoolhouse, a working oil derrick from the early industry, early petrol station, and a range of commercial and agricultural buildings that trace the development of the Central Valley from the 1860s to the mid-20th century. The structures are mostly authentic originals, moved here when they faced demolition elsewhere in the county.

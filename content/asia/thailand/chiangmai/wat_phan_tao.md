@@ -8,6 +8,7 @@ tags:
 title: Wat Phan Tao
 type: poi
 story: The viharn at Wat Phan Tao was built entirely from teak, using 28 enormous pillars each carved from a single tree trunk. It served as a palace for the northern prince before being converted into a monastery in the 19th century.
+score: 7.9
 ---
 
 Wat Phan Tao stands directly next to Wat Chedi Luang, but far fewer visitors bother to step inside — which makes it all the more rewarding. The entire viharn (assembly hall) is made of teak, a rare survival from the era when northern Thai craftsmen built in timber rather than brick and stucco. The dark interior is atmospheric, lit by candles and the dim glow through carved wooden screens.

@@ -8,6 +8,7 @@ latitude: 52.2044
 longitude: 0.1190
 story: >
   The Chronophage — the grasshopper-like creature that eats time — is deliberately unsettling. John Taylor, who commissioned the clock, intended it as a meditation on mortality. The clock is accurate only every five minutes; between those moments it speeds up, slows down, and occasionally seems to stop altogether. Time, the clock suggests, is not the regular friendly thing we pretend it is.
+score: 6.7
 ---
 
 The Corpus Clock, unveiled by Stephen Hawking in 2008, is mounted on the outside of the Taylor Library at Corpus Christi College on King's Parade. A golden grasshopper-like creature called the Chronophage (Greek for "time-eater") sits on top of the clock face, its pendulum legs rocking as it appears to devour the seconds. LED lights trace the time across the clock's shimmering surface in a pattern that requires concentration to read.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3381
 longitude: 123.9512
+score: 6.8
 ---
 
 The Dacheng Temple (大乘寺) is a Buddhist complex completed in 1943, spacious and relatively quiet by the standards of urban Chinese temples. The main hall and surrounding courtyards occupy a substantial block near the city centre, and the grounds have the kind of unhurried, shaded quality that most city temples in China sacrifice to visitor pressure. It is not an architectural showpiece — the buildings are early 20th century rather than ancient — but the atmosphere rewards an hour of wandering.

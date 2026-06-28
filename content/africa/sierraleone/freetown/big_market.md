@@ -10,6 +10,7 @@ tags:
 neighbourhood: Central Freetown
 latitude: 8.4860
 longitude: -13.2344
+score: 6.0
 ---
 
 The Big Market — also called Freetown Craft Market — is a long, low colonial-era covered market on Wallace Johnson Street. It is the best place in the city to buy local crafts: gara cloth, basketry, beads, wood carvings, country cloth, and the small batik bags that have become almost a Krio uniform.

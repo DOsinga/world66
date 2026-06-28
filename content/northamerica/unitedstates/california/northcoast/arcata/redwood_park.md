@@ -13,6 +13,7 @@ story: >
   directly from a city. The tallest trees here are over a thousand years old and
   have survived because this hillside was too steep for nineteenth-century loggers
   to haul timber down efficiently — an accidental preservation.
+score: 8.8
 ---
 
 Redwood Park is a 790-acre forest that begins at the edge of the Cal Poly Humboldt campus and climbs into the hills east of Arcata. The park contains genuine old-growth coast redwood groves — some of the trees date back more than a thousand years — alongside second-growth forest, open meadows, and picnic areas. The trailhead is a ten-minute walk from the Plaza.

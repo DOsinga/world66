@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cambridge_-_Kings_College_
 latitude: 52.205531
 loc_type: city
 longitude: 0.118664
-score: 0.7
+score: 9.04
+snippet: English university city on the River Cam, where medieval colleges meet the
+  science parks of Silicon Fen.
 title: Cambridge
 type: location
 ---

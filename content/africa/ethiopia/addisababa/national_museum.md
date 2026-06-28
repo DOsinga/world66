@@ -12,6 +12,7 @@ story: >
   playing on a tape recorder at the excavation camp the night the discovery was
   celebrated in 1974. The Ethiopian name for the fossil is Dinkinesh, meaning
   "you are marvellous" in Amharic — a name Ethiopians consider more fitting.
+score: 9.1
 ---
 
 The National Museum's star attraction is Lucy, the 3.2-million-year-old hominid skeleton discovered in the Afar region in 1974. The actual remains are kept in secure archives, but the replica on display is excellent and provides a powerful sense of how small she was — only about a metre tall. The museum also holds archaeological finds from across Ethiopia, examples of traditional art, and a collection of royal regalia including items belonging to Emperor Haile Selassie.

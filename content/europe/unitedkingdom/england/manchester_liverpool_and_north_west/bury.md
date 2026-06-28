@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bury_St_Edmunds_Abbey_(442
 latitude: 52.246037
 loc_type: city
 longitude: 0.712517
-score: 0.36
+score: 6.74
+snippet: Georgian Suffolk market town built around medieval street planning, abbey
+  ruins, and Angel Hill.
 sources:
 - https://en.wikipedia.org/wiki/Bury_St_Edmunds
 - https://en.wikipedia.org/wiki/Bury_St_Edmunds_Abbey

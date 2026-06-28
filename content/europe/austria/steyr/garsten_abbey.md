@@ -6,6 +6,7 @@ longitude: 14.4103
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Two kilometres south of Steyr, Garsten Abbey was a Benedictine monastery founded in 1108 and dissolved by Joseph II in 1787. The buildings now house a prison — slightly unromantic — but the abbey church, an exuberant work of Carlo Antonio Carlone (1677–1693), is open and very much worth visiting.

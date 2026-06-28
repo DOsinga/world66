@@ -7,6 +7,7 @@ tags:
 latitude: 30.0416
 longitude: 70.6265
 snippet: The city's public zoo on the northern edge of town
+score: 4.8
 ---
 
 A modest public zoo on the northern edge of Dera Ghazi Khan, notable mainly as the city's main green space and a popular local family outing on Fridays. The collection is limited — the usual range of large mammals, birds, and reptiles one sees at smaller Pakistani zoos — but the grounds are shaded and offer a quiet break from the city. Entrance fees are minimal.

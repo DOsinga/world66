@@ -9,6 +9,7 @@ latitude: 11.6864
 longitude: 78.1792
 story: >
   The lake was historically maintained as a tank — an irrigation reservoir — and is still fed by monsoon runoff from the surrounding hills. In recent years it has been developed as a public park with walkways and evening lighting, transforming a working water body into one of the few green spaces in an otherwise densely built city.
+score: 5.3
 ---
 
 Mookaneri Lake, also called Kannankurichi Lake, is a 23-hectare freshwater lake on the northern edge of Salem. The surrounding park has walking paths and is popular with local families in the early mornings and evenings — a reasonable place to stretch your legs if you have time between connections.

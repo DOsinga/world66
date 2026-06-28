@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.7167
 longitude: 73.700
+score: 7.6
 ---
 
 The Tiracol River (sometimes Terekhol) is the natural border between Goa and Maharashtra, and at its mouth — directly below Fort Tiracol — it widens into a broad tidal estuary fringed with mangroves. The water shimmers between blue, grey, and silver depending on the time of day; the small fishing boats of the village pull up on the flats at low tide; egrets and brahminy kites work the shallows.

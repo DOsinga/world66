@@ -21,6 +21,7 @@ tags:
 title: Sistine Chapel
 type: poi
 url: www.museivaticani.va
+score: 10.0
 ---
 
 The emotional and artistic centrepiece of any Vatican visit. Michelangelo painted the famous ceiling between 1508 and 1512 — over 300 figures spread across nearly 500 square metres, 20 metres above the floor. The Last Judgement on the altar wall was completed 29 years later, in 1541. Earlier frescoes by Botticelli, Ghirlandaio, and Perugino line the lower walls; they are worth a look but most visitors never lift their eyes from the ceiling. Photography is prohibited. The chapel is at the end of a long march through the Vatican Museums — plan for several hours of walking before you arrive.

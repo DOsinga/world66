@@ -1,13 +1,15 @@
 ---
-title: "Saigon Zoo and Botanical Gardens"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-latitude: 10.7880
+latitude: 10.788
 longitude: 106.7054
-snippet: "Vintage zoo and gardens dating to 1864, a surprisingly pleasant urban escape"
+score: 7.0
+snippet: Vintage zoo and gardens dating to 1864, a surprisingly pleasant urban escape
+tags:
+- things_to_do
+- sight
+- nature
+- da_kao
+title: Saigon Zoo and Botanical Gardens
+type: poi
 ---
 
 The Saigon Zoo and Botanical Gardens in District 1 is one of the oldest zoos in Asia, founded by the French in 1864. The grounds are large and shaded by mature tropical trees — a welcome contrast to the surrounding city heat. The botanical garden section is the most pleasant part, with orchid houses, a lily pond, and old specimens of tropical hardwoods.

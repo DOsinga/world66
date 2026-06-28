@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Jalan Yos Sudarso
 type: poi
+score: 6.2
 ---
 
 The wide, tree-lined boulevard running through the centre of Palangka Raya is the leftover of Sukarno's planning ambitions for the city — far more boulevard than the population needed at the time, and even now retains an unusually spacious feel for an Indonesian provincial capital.

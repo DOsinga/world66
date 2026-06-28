@@ -7,6 +7,7 @@ tags:
 - info
 latitude: -2.4736
 longitude: 29.2042
+score: 5.4
 ---
 
 Uwinka sits on a ridge at 2,470 metres in the centre of the park, right on the main road that crosses Nyungwe. It is the starting point for the canopy walkway, the Igishigishigi and Bigugu trails, and most short forest walks. Maps and trail guides are available, and Rwanda Development Board rangers are based here for guided walks.

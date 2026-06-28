@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 36.88200
 longitude: 30.70100
+score: 6.6
 ---
 
 Boats leave the old harbour throughout the morning in season, offering half-day and full-day cruises along the coast. The standard route heads east to the lower Düden Falls (where the river plunges off a cliff into the sea) and then along the cliff coast past bays and coves for swimming. The full-day tour typically adds the coast south towards Kemer.

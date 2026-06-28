@@ -4,6 +4,7 @@ type: poi
 latitude: 39.5424
 longitude: 3.3355
 tags: [things_to_do, sight, beaches]
+score: 6.7
 ---
 
 Porto Cristo's beach occupies the innermost curve of the inlet, sheltered on all sides by the steep limestone headlands that give the harbour its character. It is not a large beach — a few hundred metres of coarse golden sand — but the setting is lovely and the water is reliably calm, rarely disturbed by the open-sea swell that makes other Mallorcan beaches choppy in summer winds. The sheltered position and shallow entry make it especially good for children.

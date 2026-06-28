@@ -8,6 +8,7 @@ tags:
 - museum
 title: Awa Odori Kaikan
 type: poi
+score: 7.9
 ---
 
 If you cannot make the August festival, this purpose-built hall at the foot of Mount Bizan is the next best thing. The fifth-floor museum explains the 400-year history of Awa Odori with costumes, instruments, and video of past performances. The first-floor stage hosts daily live shows by professional troupes, with an evening performance by one of the rotating amateur ren (dance groups) at 20:00.

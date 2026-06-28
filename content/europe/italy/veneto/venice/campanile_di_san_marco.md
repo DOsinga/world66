@@ -1,16 +1,21 @@
 ---
-title: Campanile di San Marco
-type: poi
-tags:
-  - things_to_do
-  - san_marco
-  - sight
 latitude: 45.4341
 longitude: 12.3388
-snippet: "Venice's tallest tower — 98 metres, a lift, and the best view in the city"
-neighbourhood: San Marco
-story: >
-  The original campanile stood for nearly a thousand years before it collapsed suddenly on 14 July 1902, folding straight down into its own footprint without damaging the basilica beside it. Venice rebuilt it exactly as it was — "com'era, dov'era" (as it was, where it was) — and reopened it in 1912. The new campanile is an exact copy of the old one.
+score: 7.8
+snippet: Venice's tallest tower — 98 metres, a lift, and the best view in the city
+story: 'The original campanile stood for nearly a thousand years before it collapsed
+  suddenly on 14 July 1902, folding straight down into its own footprint without damaging
+  the basilica beside it. Venice rebuilt it exactly as it was — "com''era, dov''era"
+  (as it was, where it was) — and reopened it in 1912. The new campanile is an exact
+  copy of the old one.
+
+  '
+tags:
+- things_to_do
+- san_marco
+- sight
+title: Campanile di San Marco
+type: poi
 ---
 
 The Campanile is the tallest structure in Venice at 98 metres, and the view from the top is the best way to understand the city's geography — the islands, the lagoon, the distant Alps, and the whole tangle of the historic centre laid out below. A lift takes you to the top; queues can be long in high summer.

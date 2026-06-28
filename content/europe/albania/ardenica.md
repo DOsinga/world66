@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardenica_Monastery_(by_Pud
 latitude: 40.818653
 loc_type: city
 longitude: 19.592689
-score: 0.41
+score: 7.03
 title: Ardenica
 type: location
+snippet: Monastery hill above southern Albania's plains, with 14th-century church
+  walls and Zografi frescoes.
 ---
 
 The [Monastery of Ardenica](/europe/albania/ardenica/ardenica_monastery) stands on a pine-covered hill above the plain south of [Berat](/europe/albania/berat), commanding views in every direction. The monastery's [main church](/europe/albania/ardenica/st_marys_church), dedicated to St Mary, dates to the 14th century, with extensive interior frescoes added in the 18th century by the Zografi brothers, two of the most accomplished Albanian-Greek painters of the period.

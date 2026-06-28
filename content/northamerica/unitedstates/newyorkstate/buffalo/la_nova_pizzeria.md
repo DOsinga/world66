@@ -1,8 +1,13 @@
 ---
 address: W Ferry at Hampshire, Buffalo.
+latitude: 42.915196
+longitude: -78.888083
 price: variable, depending on item.
+score: 5.5
 tags:
 - eating_out
+- restaurant
+- pizza
 title: La Nova Pizzeria
 type: poi
 url: www.lanova.com

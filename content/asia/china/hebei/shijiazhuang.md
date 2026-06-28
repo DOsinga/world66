@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Anji_(Zhaozhou)_Bridge_201
 latitude: 38.043
 loc_type: city
 longitude: 114.5
+score: 5.77
+snippet: Young railway-born provincial capital, useful as a base for Hebei museums,
+  bridges, and monasteries
 sources:
 - https://en.wikivoyage.org/wiki/Shijiazhuang
 title: Shijiazhuang

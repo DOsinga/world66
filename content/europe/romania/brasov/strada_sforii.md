@@ -7,6 +7,7 @@ snippet: One of the narrowest streets in Europe — 1.3 metres at its widest
 tags:
 - things_to_do
 - sight
+score: 4.6
 ---
 
 Strada Sforii — Rope Street — is 80 metres long and between 1.1 and 1.3 metres wide, and is regularly named one of the narrowest streets in Europe. It was originally a fire-fighters' access lane between the houses on Strada Cerbului and Strada Poarta Schei.

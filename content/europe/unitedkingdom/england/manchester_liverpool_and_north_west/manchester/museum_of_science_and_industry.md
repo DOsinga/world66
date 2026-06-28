@@ -9,6 +9,7 @@ tags:
 - museum
 title: Museum of Science and Industry
 type: poi
+score: 8.4
 ---
 
 Housed in the world's oldest surviving railway station, the museum covers Manchester's role in the Industrial Revolution and beyond. The hands-on science galleries are popular with children, and the reconstructed Victorian streets give a vivid sense of the city's past. Free entrance.

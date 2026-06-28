@@ -7,6 +7,7 @@ tags:
 - sight
 title: Pushkin Square and Bookmarket
 type: poi
+score: 7.0
 ---
 
 Pushkin Square is a quiet, pleasant square a short walk from Rustaveli Avenue, notable primarily for its weekend open-air bookmarket where secondhand Georgian and Russian books are laid out on tables and the ground. For anyone who reads Georgian or Russian, this is a worthwhile browse; for others, the atmosphere and the square itself make it a good stopping point on a Rustaveli Avenue walk.

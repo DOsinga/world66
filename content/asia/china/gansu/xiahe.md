@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Labrang_Monastery,_Xiahe,_
 latitude: 35.2026
 loc_type: city
 longitude: 102.5217
+score: 8.22
+snippet: Tibetan town in Gansu's Gannan valley, centred on the vast Gelukpa monastery
+  of Labrang
 sources:
 - https://en.wikivoyage.org/wiki/Xiahe
 title: Xiahe

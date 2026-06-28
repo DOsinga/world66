@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chinese_shop_in_Miri,_Mala
 latitude: 4.39401
 loc_type: city
 longitude: 113.98802
-score: 0.46
+score: 7.19
+snippet: Sarawak oil city turned Borneo gateway, with Mulu caves and Niah's prehistoric
+  sites within reach.
 title: Miri
 type: location
 ---

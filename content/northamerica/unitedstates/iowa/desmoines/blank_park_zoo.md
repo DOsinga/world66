@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5400
 longitude: -93.6189
+score: 6.5
 ---
 
 Blank Park Zoo is Iowa's only accredited zoo and sits on 49 acres on the south side of Des Moines. It is small enough to cover in two hours but well organised: African veldt, Asian Trail, an Australia walkabout, and a children's farm-style petting area. Recent additions include a sea lion show pool and a giraffe-feeding deck that consistently draws the longest queue.

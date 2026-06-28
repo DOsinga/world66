@@ -11,6 +11,7 @@ tags:
 - museum
 title: Musée Stendhal
 type: poi
+score: 6.9
 ---
 
 Grenoble's most famous literary son gets a small but atmospheric museum in the 18th-century Hôtel de Lesdiguières, where you can see manuscripts, personal objects, and first editions. The building sits in the Jardin de Ville, making it easy to combine with a stroll through the park.

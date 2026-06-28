@@ -15,6 +15,7 @@ story: >
   and then quarried streets, temples and houses downward from the surface,
   leaving the walls in place. The natural cliffs handled the defence.
   Mongol cavalry finally took it in the 13th century.
+score: 9.4
 ---
 
 Jiaohe occupies a teardrop-shaped clay plateau between two branches of the Yarnaiz River, 10 km west of Turpan. The city was the capital of the Cheshi kingdom from around the 2nd century BC, and reached its peak as a Tang dynasty garrison in the 7th–8th centuries. Almost everything that survives — temples, monasteries, a 5-metre-deep central avenue, a Buddhist stupa — was hewn rather than built, by digging down from the original surface.

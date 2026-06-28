@@ -11,6 +11,7 @@ tags:
 - garden
 story: >
   The garden was begun in 1775 by Thomas Hickling, a young American consul who had made a fortune in the orange trade. He built himself a wooden country house — Yankee Hall — and laid out a private park around it. Two centuries and several Portuguese owners later it is one of the finest botanical gardens in the Atlantic, and the rust-coloured pool he warmed with volcanic water is still its centrepiece.
+score: 8.8
 ---
 
 The Terra Nostra Garden is the headline attraction of Furnas: about twelve hectares of mature trees, ponds, streams and formal beds, organised around a small lake and a large iron-rich thermal pool. The collection includes more than 2,000 species, with strong holdings of camellias (hundreds of cultivars, in flower from November to April), cycads, tree ferns, hostas and Azorean endemic flora.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.7068
 longitude: 9.5380
+score: 6.5
 ---
 
 The Bryggen waterfront runs along the southern edge of the town centre where the Vejle river meets the fjord. It has been redeveloped substantially over the past two decades — the old industrial harbour replaced by a pleasant promenade with restaurants, benches, and a few small boat moorings. On a clear day the view down the fjord toward the open water is genuinely good, with wooded hills rising steeply on both banks.

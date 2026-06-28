@@ -1,10 +1,12 @@
 ---
 latitude: 36.116628
 longitude: -115.176757
+score: 7.4
 snippet: Iconic Roman-themed Strip casino since 1966
 tags:
 - things_to_do
 - landmark
+- the_strip
 title: Caesars Palace
 type: poi
 ---

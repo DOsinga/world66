@@ -1,12 +1,15 @@
 ---
 latitude: 35.1153
 longitude: 135.7715
-snippet: Mountain temple north of Kyoto, traditionally said to be where reiki was discovered
+score: 8.2
+snippet: Mountain temple north of Kyoto, traditionally said to be where reiki was
+  discovered
 tags:
 - things_to_do
 - temple
 - hiking
 - sight
+- philosophers_walk
 title: Kurama-dera
 type: poi
 ---

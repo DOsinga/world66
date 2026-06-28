@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/145472109@N04/49453813406
 latitude: 36.9257
 loc_type: city
 longitude: 14.7307
-score: 0.7
+score: 8.99
+snippet: Sicilian Baroque hill city split between modern Ragusa Superiore and labyrinthine
+  UNESCO-listed Ragusa Ibla
 title: Ragusa
 type: location
 ---

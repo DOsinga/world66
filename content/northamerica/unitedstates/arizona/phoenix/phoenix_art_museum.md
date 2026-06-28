@@ -13,6 +13,7 @@ tags:
 title: Phoenix Art Museum
 type: poi
 url: www.phxart.org
+score: 8.4
 ---
 
 The largest art museum in the American Southwest, with a permanent collection spanning Asian art, Latin American works, Spanish masters, and an extensive Western American gallery. The fashion design collection is unexpectedly good — one of the strongest in the country. Touring exhibitions rotate regularly and tend to be well-curated.

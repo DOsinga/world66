@@ -7,6 +7,7 @@ tags:
 - sight
 title: Isla Cuale
 type: poi
+score: 7.1
 ---
 
 A narrow island in the middle of the Río Cuale, wedged between the Centro district and the Zona Romántica. Cross via La Iguana Bridge and you are in a different Puerto Vallarta — shaded walkways, open-air galleries, craft vendors, and a bronze statue of John Huston, the director whose film put this town on the map. Le Bistro and River Cafe are two of the better restaurants in the city, both tucked under the trees on the island.

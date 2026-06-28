@@ -5,7 +5,9 @@ done:
 latitude: 61.789221
 loc_type: city
 longitude: 34.368804
-score: 0.41
+score: 6.5
+snippet: Karelian lakeside capital founded as Peter the Great's cannon factory and
+  gateway to Kizhi Island.
 title: Petrozavodsk
 type: location
 ---

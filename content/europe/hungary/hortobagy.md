@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hortobagy_h%C3%ADd.jpg
 latitude: 47.582614
 loc_type: city
 longitude: 21.152537
-score: 0.49
+score: 7.74
+snippet: Hungarian puszta grassland of csikós horsemen, grey cattle, mirages, and
+  the Nine-Arched Bridge
 title: Hortobágy
 type: location
 ---

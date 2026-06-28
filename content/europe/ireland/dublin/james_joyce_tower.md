@@ -7,11 +7,12 @@ latitude: 53.289345
 longitude: -6.105734
 opening_hours: Apr–Oct daily 10:00–18:00; Nov–Mar Sat–Sun 10:00–17:00
 phone: +353 1 280 9265
+score: 7.4
 snippet: Martello tower where Ulysses opens, now a Joyce museum
 tags:
-- things_to_do
 - sight
 - museum
+- day_trips
 title: James Joyce Tower & Museum
 type: poi
 url: https://www.jamesjoyce.ie/james-joyce-tower-museum

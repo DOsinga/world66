@@ -7,6 +7,7 @@ tags:
   - surfing
 title: Crocodile Rock
 type: poi
+score: 7.8
 ---
 
 Crocodile Rock is the southernmost surf break around Arugam Bay, a short tuk-tuk ride from the main strip. The name comes from the crocodiles that genuinely inhabit the lagoon on the way there — not marketing. The break itself is a fast, shallow reef wave that demands experience; it's not a spot to paddle into on your first day.

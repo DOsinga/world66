@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Genghis_khan_mausoleum.jpg
 latitude: 39.6085
 loc_type: city
 longitude: 109.7813
+score: 6.07
+snippet: Inner Mongolian desert city known for Kangbashi, a purpose-built district
+  that reshaped its modern identity.
 sources:
 - https://en.wikivoyage.org/wiki/Ordos_City
 title: Ordos

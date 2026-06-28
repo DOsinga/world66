@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Iglesia Museo Santa Clara
 type: poi
+score: 8.7
 ---
 
 Now a museum, this 17th-century church has one of the most lavishly decorated interiors in Bogotá. Every surface is covered with paintings, gilded altarpieces, and carved wood — the result of Baroque excess taken to its logical conclusion. The contrast between the plain exterior and the explosion of colour inside is striking.

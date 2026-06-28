@@ -1,0 +1,200 @@
+{
+  "round": 3593,
+  "timestamp": "2026-06-13T23:05:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 3.997,
+      "prior_variance": 0.114678,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 4.6454,
+      "prior_variance": 0.122421,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 1.0703,
+      "prior_variance": 0.1253,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Esperance",
+      "path": "australiaandpacific/australia/westernaustralia/esperance",
+      "prior_score": 2.353,
+      "prior_variance": 0.137997,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 2.0284,
+      "prior_variance": 0.113088,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": 0.1344,
+      "prior_variance": 0.155935,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 1.0229,
+      "prior_variance": 0.114145,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 1.5576,
+      "prior_variance": 0.120467,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.4935,
+      "prior_variance": 0.114564,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 1.7837,
+      "prior_variance": 0.151678,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 0.7224,
+      "prior_variance": 0.114054,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": -0.0259,
+      "prior_variance": 0.139338,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 0.984,
+      "prior_variance": 0.118801,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_score": 0.4978,
+      "prior_variance": 0.125422,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.1728,
+      "prior_variance": 0.113319,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.2656,
+      "prior_variance": 0.127786,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.7051,
+      "prior_variance": 0.121703,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -0.3077,
+      "prior_variance": 0.121849,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.3483,
+      "prior_variance": 0.125766,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.8324,
+      "prior_variance": 0.095188,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.4858,
+      "prior_variance": 0.118765,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": 0.2394,
+      "prior_variance": 0.141382,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -1.0617,
+      "prior_variance": 0.117627,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -8.5031,
+      "prior_variance": 0.174857,
+      "prior_n": 11
+    }
+  ]
+}

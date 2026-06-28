@@ -6,6 +6,7 @@ tags:
 - sight
 title: Belton Lake
 type: poi
+score: 6.8
 ---
 
 Belton Lake is a large US Army Corps of Engineers reservoir formed by the damming of the Leon River, sitting just east of Killeen. At roughly 12,300 acres of surface water, it is one of the main recreational draws in the region and a genuine relief from the flat scrubland surrounding it.

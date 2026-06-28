@@ -8,6 +8,7 @@ tags:
 title: Seven Lakes State Park
 type: poi
 story: "The seven lakes were a single small body of water called Big Seven Lake until a 1969 dam project linked them; the state then bought the land and turned it into a park. Drowned tree stumps still poke out of some of the new sections."
+score: 6.7
 ---
 
 Seven Lakes State Park sits about three miles north-west of Holly and runs to roughly 1,400 acres. It is the busiest park in this corner of Oakland County — picnic pavilions and a guarded swimming beach on the main lake, miles of marked hiking and mountain bike trails through the surrounding woods, a boat launch, and rental rowboats and kayaks in summer.

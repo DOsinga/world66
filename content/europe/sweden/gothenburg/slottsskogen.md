@@ -8,6 +8,7 @@ tags:
 - park
 title: Slottsskogen
 type: poi
+score: 8.1
 ---
 
 Slottsskogen is Gothenburg's largest park — 137 hectares of forest, meadows, and ponds with free entry all year. The park runs along a ridge west of the centre and contains several things you would not expect to find in a city park: a free zoo (penguins, elk, seals, and a petting area with farm animals), a children's miniature railway, an old observatory, and the Natural History Museum at the eastern entrance.

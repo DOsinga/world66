@@ -4,6 +4,7 @@ done:
 latitude: 40.4173
 longitude: -82.9071
 score: 0.37
+snippet: "Midwestern state with Lake Erie cities, Amish farmland, industrial history, and major museums."
 title: Ohio
 type: location
 loc_type: region
@@ -16,3 +17,5 @@ Cleveland anchors the north, sitting on Lake Erie with a revitalized downtown, t
 Columbus, the capital, is younger and less immediately obvious, but has a strong music scene, good neighborhoods like the Short North, and a large university that keeps things lively. Cincinnati in the south has its own identity — closer to Kentucky than Cleveland in feel, with good architecture and a proud food tradition.
 
 Ohio also has the largest Amish population in the world, concentrated in the central and eastern parts of the state around Millersburg and Sugarcreek. The contrast between the highway sprawl and the horse-and-buggy roads is striking and worth a day trip from any of the major cities.
+
+In southeast Ohio, [Caldwell](/northamerica/unitedstates/ohio/caldwell) makes a modest but specific stop for early oil history, regional glass collections, and Wolf Run State Park.

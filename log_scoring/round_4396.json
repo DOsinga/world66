@@ -1,0 +1,200 @@
+{
+  "round": 4396,
+  "timestamp": "2026-06-14T00:09:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 5.2882,
+      "prior_variance": 0.113714,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.3976,
+      "prior_variance": 0.102394,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 4.9466,
+      "prior_variance": 0.14516,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 2.5905,
+      "prior_variance": 0.10231,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 0.9149,
+      "prior_variance": 0.119406,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_score": -0.3762,
+      "prior_variance": 0.099273,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Wanning",
+      "path": "asia/china/hainanisland/wanning",
+      "prior_score": -1.0065,
+      "prior_variance": 0.087134,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -1.9988,
+      "prior_variance": 0.10373,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.8972,
+      "prior_variance": 0.098041,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -4.5547,
+      "prior_variance": 0.138862,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Lang De",
+      "path": "asia/china/guizhou/lang_de",
+      "prior_score": -3.3134,
+      "prior_variance": 0.101482,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.075,
+      "prior_variance": 0.087459,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_score": -1.9217,
+      "prior_variance": 0.094266,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -1.2118,
+      "prior_variance": 0.090712,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon",
+      "prior_score": -3.5281,
+      "prior_variance": 0.108678,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.2528,
+      "prior_variance": 0.09935,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.0963,
+      "prior_variance": 0.098261,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -3.7677,
+      "prior_variance": 0.11134,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -3.7972,
+      "prior_variance": 0.09693,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_score": -3.1817,
+      "prior_variance": 0.099894,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -4.9874,
+      "prior_variance": 0.107201,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -4.9098,
+      "prior_variance": 0.117056,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -3.6923,
+      "prior_variance": 0.106734,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_score": -6.9452,
+      "prior_variance": 0.135175,
+      "prior_n": 14
+    }
+  ]
+}

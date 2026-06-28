@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Commonwealth War Cemetery
 type: poi
+score: 7.5
 ---
 
 A quiet, immaculately kept garden cemetery containing the graves of soldiers from Britain, India, Australia, and other Allied nations who died in World War II. It is a peaceful place entirely at odds with the busy city outside its walls. The CWGC maintains it to an exceptionally high standard — the grass is cut, the headstones clean, the flowers planted.

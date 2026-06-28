@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Camiguin_Island,_as_seen_f
 latitude: 9.18
 loc_type: city
 longitude: 124.72
-score: 0.63
+score: 8.67
+snippet: Volcanic Philippine island off northern Mindanao, packed with seven volcanoes,
+  hot springs, waterfalls, and quiet diving coast.
 title: Camiguin Island
 type: location
 ---

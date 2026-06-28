@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.2556
 longitude: 4.0342
+score: 6.3
 ---
 
 Place Royale is the elegant 18th-century square at the heart of Reims, designed by the architect Legendre in the 1760s and dominated by a bronze statue of Louis XV at its centre. The square's classical colonnaded facades and symmetrical layout make it a pleasant place to sit and orient yourself — it is surrounded by cafes and lies just a few minutes' walk south of the Cathedral.

@@ -1,11 +1,13 @@
 ---
 latitude: 35.0254
 longitude: 135.7621
+score: 7.6
 snippet: Former residence of the Japanese imperial family until 1869
 tags:
 - things_to_do
 - palace
 - sight
+- downtown_kyoto
 title: Kyoto Imperial Palace
 type: poi
 ---

@@ -5,9 +5,11 @@ done:
 latitude: 36.1699
 longitude: -115.1398
 phone: 702-455-4415
+score: 5.3
 snippet: Get legally married any time — the bureau never really closes
 tags:
 - things_to_do
+- downtown
 title: Marriage Bureau
 type: poi
 ---

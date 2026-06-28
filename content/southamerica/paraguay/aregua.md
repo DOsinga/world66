@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aregua_church_040.jpg
 latitude: -25.2953
 loc_type: city
 longitude: -57.4147
-score: 0.44
+score: 6.76
+snippet: Lakeside Paraguayan town near Asuncion, known for ceramics workshops and
+  colonial-era streets.
 title: Areguá
 type: location
 ---

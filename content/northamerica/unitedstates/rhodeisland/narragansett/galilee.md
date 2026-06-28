@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Galilee
 type: poi
+score: 7.8
 ---
 
 Galilee — properly Point Judith / Galilee — is the working fishing port at the southern tip of Narragansett, and one of the busiest commercial fishing harbours in New England. Trawlers and lobster boats unload on the docks beside the Block Island ferry terminal; the smell is straightforward fish, salt and diesel. It feels nothing like the manicured tourism farther up the coast.

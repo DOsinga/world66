@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - cetate
+score: 6.9
 ---
 
 Cafe Lloyd occupies the southern end of the arcade in the Lloyd Palace on Victory Square. It is one of the city's continuous social institutions — opened in 1912 with the Lloyd Bank and operating in essentially the same form ever since. Local writers, journalists and academics have used the cafe as an informal meeting room for over a century.

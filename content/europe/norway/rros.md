@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bergstaden_R%C3%B8ros_R%C3
 latitude: 62.5695
 loc_type: city
 longitude: 11.6604
-score: 0.64
+score: 8.61
+snippet: Norwegian mining town of dark timber houses, copper smelters, and grass-roofed
+  buildings near Sweden.
 sources:
 - https://en.wikipedia.org/wiki/R%C3%B8ros
 - https://en.wikivoyage.org/wiki/R%C3%B8ros

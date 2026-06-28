@@ -9,6 +9,7 @@ tags:
   - wine
 sources:
   - https://en.wikipedia.org/wiki/Gavi_(wine)
+score: 7.8
 ---
 
 Gavi sits just over the Ligurian border in Piedmont, but the wine it produces — a dry white made from the Cortese grape — has always been linked to Genoa. Genoese merchants developed the market for it centuries ago, and it remains the white wine of choice in Ligurian restaurants. The Gavi DOCG is one of the most respected white wine designations in northern Italy.

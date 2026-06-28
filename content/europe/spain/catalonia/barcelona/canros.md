@@ -1,10 +1,12 @@
 ---
 address: Carrer de l'Almirall Aixada 7, Barceloneta
-snippet: "Old-school Barceloneta seafood institution"
-latitude: 41.3790
+latitude: 41.379
 longitude: 2.1893
+score: 7.6
+snippet: Old-school Barceloneta seafood institution
 tags:
 - eating_out
+- barceloneta
 title: Can Ros
 type: poi
 ---

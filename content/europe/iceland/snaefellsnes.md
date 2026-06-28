@@ -2,18 +2,20 @@
 country: Iceland
 done:
   wikitravel_coverage: '2026-06-05'
+image: snaefellsnes.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lake_in_Rif,_Sn%C3%A6fellsnes,_Iceland,_20240714_1602_0698.jpg
 latitude: 64.8581
 loc_type: region
 longitude: -23.115
+snippet: Western Icelandic peninsula where glacier volcano, lava fields, fishing villages,
+  and sea cliffs sit close together
 sources:
 - https://en.wikipedia.org/wiki/Sn%C3%A6fellsnes
 - https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull
 title: Snæfellsnes
 type: location
-image: snaefellsnes.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Lake_in_Rif,_Sn%C3%A6fellsnes,_Iceland,_20240714_1602_0698.jpg
-image_license: CC BY 4.0
-image_attribution: Jakub Hałun
 ---
 
 Snæfellsnes is a peninsula jutting west into the Atlantic from the coast of western Iceland, and it compresses an extraordinary range of Icelandic scenery into a single 90-kilometre strip of land. Glacier-capped volcano, lava fields, dramatic sea cliffs, fishing villages, whale-watching grounds, black sand beaches, and ancient saga landscapes all within an hour's drive of each other. Jules Verne chose Snæfellsjökull — the glacier-capped volcano at the peninsula's tip — as the entrance to the centre of the earth in his famous novel, and on a dramatic cloud-moving day, with the glacier floating above the lava fields, you can see why.

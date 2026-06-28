@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 14.2308
 longitude: 76.3992
+score: 6.3
 ---
 
 The Archaeological Museum near the fort entrance houses finds from the Chitradurga region: coins, inscriptions, weapons, and ceramics that trace occupation of the area from prehistoric times through the medieval period. There are pieces from the early Buddhist and Jain periods as well as material from the fort itself — cannon balls, structural fragments, and objects recovered during conservation work.

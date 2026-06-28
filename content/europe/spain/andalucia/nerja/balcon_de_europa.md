@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Balcón de Europa
 type: poi
+score: 8.3
 ---
 
 A wide, palm-lined promenade jutting out over the sea on the site of a former defensive battery, the Balcón is the social heart of Nerja and the spot every visitor sees first. The views east and west along the cliffs and out across the Mediterranean are the town's signature image; on a clear day the Rif Mountains in Morocco are sometimes visible.

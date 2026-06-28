@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nha_Trang,_Kh%C3%A1nh_H%C3
 latitude: 12.208499
 loc_type: city
 longitude: 109.28712
-score: 0.61
+score: 8.79
+snippet: Vietnamese beach city wrapped around a mountain-ringed bay, with offshore
+  islands and a long urban strand.
 title: Nha Trang
 type: location
 ---

@@ -5,7 +5,9 @@ done:
 latitude: 51.642787
 loc_type: city
 longitude: -121.295694
-score: 0.34
+score: 6.03
+snippet: Cariboo ranching and forestry town named for its milepost on the old wagon
+  road.
 sources:
 - https://en.wikipedia.org/wiki/100_Mile_House
 title: 100 Mile House

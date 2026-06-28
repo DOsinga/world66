@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8250
 longitude: 111.6600
+score: 7.6
 ---
 
 The Inner Mongolia Library holds one of the most important collections of Mongolian-language materials in the world — historical manuscripts, printed books, and archival documents in the traditional vertical script that was used for Mongolian writing from the 13th century onward. The collection includes rare Buddhist texts translated from Tibetan and Sanskrit into Mongolian, historical chronicles, and literary works that document the full range of Mongolian cultural production over seven centuries.

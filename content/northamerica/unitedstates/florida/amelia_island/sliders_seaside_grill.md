@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 30.5635
 longitude: -81.4454
+score: 5.9
 ---
 
 Slider's Seaside Grill sits on the south end of the island at American Beach, where the road runs along the dune line and the Atlantic is close enough to hear. It is a casual, order-at-the-counter kind of place with an outdoor deck, fresh shrimp and fish, and the kind of straightforward cooking that suits a beach lunch: shrimp baskets, fish tacos, grouper sandwiches, cold beer. Nothing complicated, nothing bad.

@@ -1,25 +1,28 @@
 ---
-title: Sagrada Família
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
 address: Carrer de Mallorca 401, Barcelona
 admission: €26 basic; tower visits extra
-opening_hours: Daily 9am–8pm (Oct–Mar closes 6pm); closed 25 Dec, 1 Jan
 latitude: 41.4036
 longitude: 2.1744
+opening_hours: Daily 9am–8pm (Oct–Mar closes 6pm); closed 25 Dec, 1 Jan
+score: 10.0
 snippet: Gaudí's unfinished cathedral — the defining building of Barcelona
-story: >
-  On 7 June 1926, Antoni Gaudí was crossing the Gran Via on his daily walk to
-  confession when he was struck by a tram. His clothes were so worn and shabby
-  that passers-by took him for a beggar and left him lying in the road. By the
-  time the chaplain of the Sagrada Família recognised him the following day,
-  his condition had deteriorated too far to recover. Gaudí died three days
-  later. He is buried in the crypt beneath the building he had devoted the last
-  forty years of his life to completing. On 20 February 2026, the basilica
-  reached its final height of 172.5 metres — one hundred years after his death.
+story: 'On 7 June 1926, Antoni Gaudí was crossing the Gran Via on his daily walk to
+  confession when he was struck by a tram. His clothes were so worn and shabby that
+  passers-by took him for a beggar and left him lying in the road. By the time the
+  chaplain of the Sagrada Família recognised him the following day, his condition
+  had deteriorated too far to recover. Gaudí died three days later. He is buried in
+  the crypt beneath the building he had devoted the last forty years of his life to
+  completing. On 20 February 2026, the basilica reached its final height of 172.5
+  metres — one hundred years after his death.
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+- eixample
+title: Sagrada Família
+type: poi
 url: www.sagradafamilia.org
 ---
 

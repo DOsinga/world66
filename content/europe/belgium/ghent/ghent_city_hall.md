@@ -11,6 +11,7 @@ title: Ghent City Hall
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Ghent_City_Hall
+score: 7.7
 ---
 
 Ghent's Stadhuis is one of the more architecturally distinctive city halls in Belgium, not because it is uniformly beautiful, but because it is visibly unfinished in an interesting way. The left half is ornate Brabantine Gothic, begun in the early 16th century; the right half is Renaissance, built later when the city's money ran out and tastes had changed. The two halves sit side by side without attempting to match.

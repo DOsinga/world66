@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Wiener Blut
 type: poi
+score: 5.8
 ---
 
 A good-natured neighbourhood pub in the Wiener Straße area of Kreuzberg. Unpretentious and reliable for an evening beer without the attitude found elsewhere on the street.

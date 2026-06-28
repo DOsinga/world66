@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.6848
 longitude: 17.6342
+score: 6.5
 ---
 
 A popular bistro a short walk from Széchenyi Square, Korhely serves updated Hungarian classics: beef goulash in a bread bowl, duck breast with red cabbage, and seasonal specials that change with the market. The room is warm and convivial — stone walls, wooden tables, candles — and it fills up on weekend evenings. Book ahead or arrive before 7pm.

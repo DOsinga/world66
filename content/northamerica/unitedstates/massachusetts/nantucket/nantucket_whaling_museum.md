@@ -7,6 +7,7 @@ tags:
 latitude: 41.2844
 longitude: -70.0991
 story: "The museum's centerpiece is a 46-foot sperm whale skeleton suspended from the ceiling. In 1998 the whale beached itself on Tom Nevers Head and became one of the best-preserved whale specimens in the world. Visitors who crane their necks up at it get a visceral sense of what Nantucket whalers confronted in the open Pacific."
+score: 9.1
 ---
 
 The Nantucket Whaling Museum occupies a former spermaceti candle factory on Broad Street, one of the grandest industrial buildings from the island's whaling heyday. The collection spans three floors and tells the full story of the world's most dangerous industry: the ships, the tools, the charts, the commerce, and the human cost. Harpoons, logbooks, scrimshaw carvings, and portraits of captains who circled the globe multiple times are arranged with care.

@@ -9,6 +9,7 @@ latitude: 54.1775
 longitude: -6.3376
 story: >
   The hall is built directly on a bridge over the Clanrye river, partly because the town's two halves — Newry proper and Ballybot — were in different counties (Down and Armagh) and neither wanted the building on the other's land. Putting it over the river kept everyone honest. Construction finished in 1893.
+score: 6.6
 ---
 
 Newry Town Hall is the town's most distinctive piece of Victorian architecture, a granite building with a clock tower that straddles the Clanrye river in the centre of town. It still serves as a civic building and is open during office hours for anyone who wants a look at the council chamber.

@@ -2,8 +2,9 @@
 address: Vratzata defile
 email: chaika_hotel@abv.bg
 phone: + 359 92 62 23 67
+score: 4.1
 title: Eating Out
-type: poi
+type: section
 ---
 
 Having a good meal in Vratza is not problem. In the city there are wide varieties of places to dine.

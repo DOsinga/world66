@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 snippet: The most-climbed mountain in Alaska — 1.5 mile trail to a 3,510-foot summit
+score: 8.7
 ---
 
 Flattop is the closest real mountain to the city and the easiest 3,000-foot summit in Alaska. The trail from Glen Alps trailhead in Chugach State Park is 1.5 miles each way; the last few hundred feet involves some easy scrambling on loose scree. From the top, on a clear day, you see Denali to the north, the Alaska Range, Cook Inlet, and Anchorage spread out below.

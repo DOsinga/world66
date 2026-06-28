@@ -7,6 +7,7 @@ tags:
 - sight
 title: Praça da Alfândega
 type: poi
+score: 7.8
 ---
 
 Praça da Alfândega — Customs Square — is one of Porto Alegre's most pleasant urban spaces, a wide, well-maintained square near the waterfront that is bordered by several of the city's best cultural institutions. The MARGS art museum occupies the former customs building on one side; the **Santander Cultural** (a cultural space run by the bank in a beautiful early 20th-century building) is on another; and the old **Correios** (post office) building completes the ensemble. Together they form one of the best civic squares in the Brazilian south.

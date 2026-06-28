@@ -6,6 +6,7 @@ tags:
   - winery
 latitude: 35.6348
 longitude: -120.7893
+score: 7.9
 ---
 
 JUSTIN is one of the best-known names in Paso Robles wine, and its Westside estate is worth visiting for the setting as much as the tasting. The winery specialises in Bordeaux varieties — particularly its Isosceles blend of Cabernet Sauvignon, Cabernet Franc, and Merlot, which put Paso on the national wine map in the early 1990s.

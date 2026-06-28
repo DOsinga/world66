@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.8048
 longitude: 2.1158
+score: 7.3
 ---
 
 The Bosquet de la Colonnade is one of the most unusual structures in the gardens — a circular peristyle of 32 marble arches and columns, built by Jules Hardouin-Mansart in 1686, forming an open-air circular room among the trees. At the centre stands Girardon's *Rape of Persephone*, a marble sculpture group of startling quality.

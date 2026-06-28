@@ -9,6 +9,7 @@ tags:
 - sight
 title: Cathedral of Lugo
 type: poi
+score: 8.2
 ---
 
 Construction of Lugo's cathedral began in 1129, producing a Romanesque-Gothic core that

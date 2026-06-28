@@ -13,6 +13,7 @@ story: >
   through a combination of geographical inaccessibility, clan solidarity,
   and sheer bellicosity — the Ottomans found it simpler to grant the
   peninsula a degree of autonomy than to try to subdue it completely.
+score: 6.9
 ---
 
 Zarnata Castle is a ruined Ottoman-era fortification about 15 km north of Kardamili, above the small village of Stoupa's inland neighbour Thalames. The castle occupies a commanding position on a rocky ridge overlooking the Mani coast and the Messenian Gulf. The walls are substantially intact, the towers are climbable, and the views from the battlements extend south toward Stoupa and north toward Kalamata.

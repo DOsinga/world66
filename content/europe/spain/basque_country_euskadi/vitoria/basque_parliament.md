@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The seat of the Basque Autonomous Community's legislature occupies a Gothic-revival former school built in 1900 and converted in 1982 when Vitoria became the capital of the new self-governing region. The grey stone facade looks more 19th-century English than Spanish — the architect Fausto Iñiguez de Betolaza had studied in Britain.

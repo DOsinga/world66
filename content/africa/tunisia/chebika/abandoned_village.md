@@ -8,6 +8,7 @@ latitude: 34.2200
 longitude: 7.9700
 story: >
   The village was abandoned after catastrophic flash floods in October 1969, when a week of exceptional rainfall turned the normally dry wadis into rivers that destroyed many buildings. The inhabitants moved to a new settlement on higher ground nearby, leaving the old stone houses to the desert air.
+score: 7.9
 ---
 
 On the hillside above the oasis, the ruins of the original Chebika village stand largely as they were left after the floods of 1969 swept through the lower settlement. The houses are built of the same local stone as the cliffs — pale orange and beige, almost indistinguishable from the rock face. Low doorways, narrow alleys, and roofless rooms gradually dissolving back into the hillside.

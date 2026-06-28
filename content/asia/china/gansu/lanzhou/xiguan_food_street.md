@@ -7,6 +7,7 @@ tags:
   - local_food
 latitude: 36.0600
 longitude: 103.8094
+score: 7.3
 ---
 
 The streets around the Xiguan Mosque are lined with halal restaurants, barbecue stalls, and street food vendors catering to Lanzhou's Hui Muslim population and everyone else who has discovered that this is where the best cheap food in the city is. The area is most active in the evening, when smoke from lamb skewer grills fills the air and the restaurants fill up with families.

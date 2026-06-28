@@ -6,6 +6,7 @@ longitude: 73.6900
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 A local institution near the Hathipole gate, **Natraj** does one thing and does it beautifully: a Rajasthani-Gujarati *thali*, served in unlimited refills, for under ₹300. Twelve or thirteen items at any time — dal, three vegetables, papad, *kadhi*, fresh rotis, rice, *churma*, sweet, pickle — all brought to your table in steel bowls until you give up.

@@ -5,7 +5,9 @@ done:
 latitude: 10.816698
 loc_type: city
 longitude: 79.840364
-score: 0.37
+score: 6.07
+snippet: Tamil Nadu coastal town defined by Nagore Dargah, a major Sufi pilgrimage
+  shrine near Nagapattinam
 title: Nagore
 type: location
 ---

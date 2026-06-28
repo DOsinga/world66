@@ -6,6 +6,7 @@ longitude: 98.3122
 tags:
   - things_to_do
   - sight
+score: 5.5
 ---
 
 The main Buddhist temple of Patong, set back from the eastern end of the beach near the bypass road. The compound is modest by Thai standards but unmistakable: a tall white-and-gold ordination hall, several smaller shrines, and a constant trickle of locals stopping to make merit before work or evening prayers.

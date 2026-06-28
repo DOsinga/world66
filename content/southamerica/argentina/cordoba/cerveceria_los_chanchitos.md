@@ -8,6 +8,7 @@ tags:
 latitude: 31.4262
 longitude: -64.1878
 neighbourhood: Nueva Córdoba
+score: 6.1
 ---
 
 A craft brewpub on the busy Rondeau strip, with eight or so taps of in-house and guest beers and a kitchen serving big sharing boards of sausages and pickles. Wooden picnic tables, a big patio, and a young student crowd.

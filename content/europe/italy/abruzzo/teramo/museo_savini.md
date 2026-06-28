@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - history
+score: 7.2
 ---
 
 The Francesco Savini archaeology museum is named for the local nineteenth-century scholar whose collection forms its core. It traces the human history of the Teramo area from prehistory through the Picene period, the Roman colonisation, and the early Christian centuries, with strong holdings of Italic ceramics, bronze ornaments and Roman inscriptions.

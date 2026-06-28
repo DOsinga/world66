@@ -8,6 +8,7 @@ tags:
 snippet: 1923 Norman-style cliff-top castle, also known as Palacio Yarur
 latitude: -33.0218
 longitude: -71.5621
+score: 6.7
 ---
 
 The Brunet Castle stands on the high ground of Cerro Castillo, just back from the coast road and easily visible from the sea. It was built in 1923 for the Brunet family in a heavy Norman style — round corner towers, slate roofs, mullioned windows — and was later sold to the Yarur textile family, after whom it is also still sometimes called.

@@ -7,6 +7,7 @@ tags:
   - wine
 latitude: 41.1925
 longitude: 0.7759
+score: 7.7
 ---
 
 Gratallops is the Priorat village many wine travellers picture before they arrive: stone houses, steep lanes, vineyard terraces and big-name cellars clustered in a settlement that still feels tiny. It is a good place to understand how intense and concentrated the region's wine culture has become.

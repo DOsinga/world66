@@ -10,8 +10,10 @@ snippet: Chicago-style hot dogs under the Fullerton L stop, walls covered in ban
 tags:
 - eating_out
 - restaurant
+- lincoln_park
 title: Demon Dogs
 type: poi
+score: 4.8
 ---
 
 Located directly under the Fullerton L stop on the DePaul campus, Demon Dogs serves solid fast food in a space plastered with memorabilia from the band Chicago. It is a fun, unpretentious stop for a quick Chicago-style hot dog.

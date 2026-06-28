@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: -36.7150
 longitude: 146.9510
+score: 7.2
 ---
 
 Mystic Hill, just north of town, is one of the most consistently flyable paragliding launch sites in Victoria. The hill faces south-southeast, and the thermal activity in the Ovens Valley makes for long, rewarding flights over the town and surrounding orchards. Experienced paragliders and hang-gliders use the site regularly; tandem flights with qualified pilots are available for beginners.

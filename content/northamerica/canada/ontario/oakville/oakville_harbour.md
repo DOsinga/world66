@@ -9,6 +9,7 @@ latitude: 43.4445
 longitude: -79.6688
 story: >
   The harbour was built by William Chisholm, who founded Oakville in 1827 specifically to create a commercial port for exporting grain, potash, and timber from Upper Canada. Chisholm paid for the initial piers and dredging himself, then lobbied the provincial government for decades to maintain them. The Custom House he built in 1856 — still standing beside the museum — is a reminder that this was once a serious port of entry with customs officers, bonded warehouses, and regular schooner traffic to American ports.
+score: 7.8
 ---
 
 Oakville Harbour is the town's historic and geographical centrepiece — a small, well-protected marina at the mouth of Sixteen Mile Creek where the creek has been channelled between two stone piers into the lake. The harbour today is home to several hundred pleasure craft, and the area around it has been landscaped into an attractive public space with benches, heritage plaques, and views back to the Old Oakville streetscape.

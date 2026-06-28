@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: -33.4390
 longitude: -70.6430
+score: 7.1
 ---
 
 Aquí Está Coco is one of Santiago's most celebrated seafood restaurants, run for decades from the same Lastarria-area location. The restaurant earns its reputation through consistent execution of classic Chilean seafood dishes: the *machas a la parmesana* (razor clams with parmesan) are outstanding, the ceviche is properly acidic and cold, and the wine list — focused on Chilean whites that work well with seafood — is genuinely considered.

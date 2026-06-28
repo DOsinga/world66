@@ -3,6 +3,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.4571
 longitude: -3.6783
+score: 5.8
 snippet: Quiet neighborhood park with pieces of the Berlin Wall
 tags:
 - things_to_do

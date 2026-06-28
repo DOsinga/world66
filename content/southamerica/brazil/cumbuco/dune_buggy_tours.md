@@ -7,6 +7,7 @@ tags:
   - sight
 title: Dune Buggy Tours
 type: poi
+score: 8.1
 ---
 
 Dune buggy tours are the classic Cumbuco experience for non-kiters. Local drivers in open-top buggies take you across the sand dunes behind the village, stopping at viewpoints, climbing and descending steep faces, and visiting the lagoons. The dunes here are high enough to be genuinely exciting and the views over the coast and scrubland are excellent.

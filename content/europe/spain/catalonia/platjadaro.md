@@ -5,7 +5,9 @@ done:
 latitude: 41.818469
 loc_type: city
 longitude: 3.0688
-score: 0.57
+score: 8.03
+snippet: Costa Brava resort town with a long sandy beach and a medieval Catalan village
+  just inland.
 title: Platja d'Aro
 type: location
 ---

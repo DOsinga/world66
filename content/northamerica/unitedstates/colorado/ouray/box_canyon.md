@@ -14,6 +14,7 @@ story: >
   from that era show well-dressed Victorians navigating it in suits and long skirts.
 sources:
   - https://en.wikipedia.org/wiki/Box_Canyon_(Colorado)
+score: 8.3
 ---
 
 Box Canyon Falls is a slot canyon and waterfall at the southwest edge of Ouray, where Canyon Creek drops through a narrow rock fissure before joining the Uncompahgre River. The town park entrance is a short walk from Main Street, and a series of metal walkways and bridges penetrate into the canyon itself, bringing you directly alongside the rushing water in a space barely 3 meters wide and 50 meters deep.

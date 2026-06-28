@@ -12,6 +12,7 @@ story: >
   serving as both a warning instrument and, according to legend, a defensive weapon: monks
   could topple it onto attackers attempting to breach the walls. It has survived over a
   thousand years and two major earthquakes, and still rocks gently if you know where to push.
+score: 9.6
 ---
 
 Tatev Monastery perches on a narrow basalt plateau at the edge of a sheer cliff above the Vorotan River gorge — a position that is equal parts breathtaking and strategic. Founded in the ninth century, it became one of the most powerful monasteries in medieval Armenia, housing a university that at its height attracted students from across the Christian east. The approach on foot or by road reveals the complex gradually: first the towers, then the dome of the Church of Saints Paul and Peter, then the full compound with its gavit (narthex), refectory, and oil press.

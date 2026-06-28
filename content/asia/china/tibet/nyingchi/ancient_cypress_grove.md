@@ -6,6 +6,7 @@ latitude: 29.6500
 longitude: 94.4000
 story: >
   The Bayi Ancient Cypress Grove contains trees estimated at over 2,500 years old — some of the oldest living things in Tibet. Tibetan cypress is the sacred tree of this tradition, and the grove has never been logged precisely because of that status.
+score: 7.1
 ---
 
 Near Bayi, several stands of ancient Tibetan cypress survive in remarkably good condition, protected by their sacred status in the local Bon and Buddhist traditions. The trees reach extraordinary dimensions — some are more than five metres in girth — and the groves have a cathedral quality, the massive trunks rising through undergrowth of rhododendron and fern.

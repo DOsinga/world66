@@ -10,6 +10,7 @@ type: poi
 story: >
   The gorge's name — Entenloch, literally "duck hole" — refers not to waterfowl but to an old German dialect word for the narrow, pinched shape of a canyon.
   The upper section of the gorge crosses into Bavaria, making this an unusual spot where you can walk from Austria into Germany through a river canyon rather than through a border post.
+score: 8.2
 ---
 
 The Entenlochklamm is a 2.5-kilometre limestone gorge carved by the Großache river as it cuts north through the mountains toward Bavaria. The path through the gorge is well-maintained but genuinely wild in places — the canyon walls close to less than five metres wide in the tightest sections, and the sound of the water bouncing off the rock is tremendous after rain.

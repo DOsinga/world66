@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.2
 ---
 
 The long white building on the river front, known variously as the Adil Shah Palace, the Old Secretariat, or *Idalcao Palace*, is Panaji's oldest surviving building. It started life in the 15th century as the riverside fortress-palace of the Bijapur Sultan Yusuf Adil Shah, whose dynasty controlled Goa before the Portuguese conquest of 1510. The Portuguese took it over, refortified it, used it as the residence of the viceroys for nearly two centuries (until they decamped to Old Goa), and finally turned it into the legislative secretariat of Portuguese India.

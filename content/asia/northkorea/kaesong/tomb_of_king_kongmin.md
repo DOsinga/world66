@@ -12,6 +12,7 @@ tags:
 - sight
 title: Tomb of King Kongmin
 type: poi
+score: 8.2
 ---
 
 The burial site of Kongmin, the 31st Koryo king (r. 1351–1374), and his Mongol queen Noguk. The two mounds sit side by side on a low hillside about 4km west of the city, surrounded by carved stone animals — tigers, sheep, horses — and guardian figures in martial dress. The UNESCO recognition (it was inscribed as part of the Kaesong Historic Monuments and Sites in 2013) reflects its genuine significance as a well-preserved example of Koryo royal burial practice. The setting is quiet and the stonework is worth examining closely — some of the figures have real personality.

@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/21208051@N00/31713402884
 latitude: 42.8676
 loc_type: city
 longitude: -72.8648
-score: 0.44
+score: 6.92
+snippet: Southern Vermont town in the Deerfield River valley below Mount Snow’s ski
+  slopes.
 title: Wilmington
 type: location
 ---

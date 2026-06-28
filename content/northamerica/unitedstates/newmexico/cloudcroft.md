@@ -5,7 +5,9 @@ done:
 latitude: 32.9577
 loc_type: city
 longitude: -105.7427
-score: 0.48
+score: 7.07
+snippet: Sacramento Mountains village above the desert, cooled by pines and views
+  toward White Sands.
 title: Cloudcroft
 type: location
 ---

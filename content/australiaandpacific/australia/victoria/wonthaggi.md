@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Safety_Beach_Cape_Paterson
 latitude: -38.6044
 loc_type: city
 longitude: 145.5913
-score: 0.38
+score: 6.54
+snippet: Former coal-mining town on Victoria's Bass Coast, with preserved underground
+  workings at the State Coal Mine.
 title: Wonthaggi
 type: location
 ---

@@ -8,9 +8,11 @@ image_attribution: Otter
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Calanais_Standing_Stones_20090610_01.jpg
 latitude: 57.9
-loc_type: city
+loc_type: island
 longitude: -6.7
-score: 0.59
+score: 8.15
+snippet: Outer Hebrides island chain of peat moors, sea lochs, machair beaches, and
+  Gaelic culture.
 title: Western Isles (Outer Hebrides)
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 12.8029
 longitude: 74.8499
 snippet: Long unspoiled beach 10 km south of Mangalore, calmer than city beaches
+score: 7.2
 ---
 
 Ullal is a long stretch of sand about 10 km south of Mangalore city, reached by crossing the Netravati River estuary. The beach is wide, backed by casuarina trees, and far quieter than anything closer to town. The estuary mouth to the north gives good views of boats coming and going from the port. On clear days you can see the hills of the Western Ghats rising to the east.

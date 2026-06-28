@@ -15,6 +15,7 @@ story: >
   resort infrastructure in the 19th century, the Vassacher See remained
   relatively undeveloped because it was too small to attract the railway-era
   tourism that shaped its neighbours. This neglect is now its main asset.
+score: 6.2
 ---
 
 The Vassacher See is a small, quiet lake sitting just north of Villach's city centre, tucked into a forested bowl at the foot of the Dobratsch. It is significantly less visited than the more famous Carinthian lakes and offers swimming and walking in a relaxed, uncrowded setting. The water warms quickly in summer and the small beach area is popular with local families on weekday afternoons when the crowds thin out.

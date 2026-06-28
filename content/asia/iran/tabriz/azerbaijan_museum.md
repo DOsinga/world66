@@ -10,6 +10,7 @@ tags:
 - museum
 title: Azerbaijan Museum
 type: poi
+score: 8.1
 ---
 
 The Azerbaijan Museum sits directly next to the Blue Mosque and is the second most

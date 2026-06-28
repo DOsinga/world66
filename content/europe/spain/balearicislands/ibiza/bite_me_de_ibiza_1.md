@@ -11,6 +11,7 @@ tags:
 title: Bite Me de Ibiza
 type: poi
 url: Facebook Bite Me . de Ibiza
+score: 2.3
 ---
 
 Bite Me de Ibiza is a cute gift shop with a selection of gifts for everyone in the old port area of Ibiza town . A range of bags, jewelry, decorative items, retro toys, kitchen , home, gadgets...unusual stuff that's cute or cool !

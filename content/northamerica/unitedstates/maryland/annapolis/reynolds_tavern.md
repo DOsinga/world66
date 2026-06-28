@@ -8,6 +8,7 @@ tags:
 - history
 title: Reynold's Tavern
 type: poi
+score: 7.1
 ---
 
 Built in 1747 on Church Circle directly opposite St. Anne's, Reynold's Tavern is the oldest hatter's shop in the United States and one of the oldest brick buildings in Annapolis. Hatter William Reynolds added an upper storey in 1763 and opened the ground floor as a tavern, which it has remained — with a few gaps — ever since.

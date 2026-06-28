@@ -8,6 +8,7 @@ latitude: 54.0228
 longitude: 23.9721
 sources:
   - https://en.wikipedia.org/wiki/Druskininkai_Aquapark
+score: 7.7
 ---
 
 The Druskininkai Aqua Park is one of the largest indoor water parks in the Baltic states, covering several thousand square metres of pools, slides, and themed water areas. It operates year-round and is particularly popular in winter, when its indoor climate makes it an incongruous but appealing retreat from the cold. The complex includes both recreational pools and a separate section with therapeutic mineral pools fed by the local springs.

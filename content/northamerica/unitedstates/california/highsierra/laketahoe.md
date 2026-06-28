@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Emerald_Bay,_Lake_Tahoe,_C
 latitude: 39.088541
 loc_type: city
 longitude: -120.050353
-score: 0.69
+score: 8.97
+snippet: High Sierra alpine lake straddling California and Nevada, famous for cobalt
+  water and mountain resorts.
 title: Lake Tahoe
 type: location
 ---

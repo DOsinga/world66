@@ -8,8 +8,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Ampera_Bridge_at_Late_Afternoon,_Palembang.jpg
 latitude: -2.988824
 loc_type: city
+snippet: South Sumatra river city and former Srivijaya capital, centred on the broad
+  Musi River
 longitude: 104.756851
-score: 0.42
+score: 6.58
 title: Palembang
 type: location
 ---

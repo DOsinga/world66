@@ -5,8 +5,10 @@ latitude: 28.39
 longitude: 81.5
 done:
   location_cleanup: 2026-04-07
-score: 0.56
+score: 8.05
 loc_type: feature
+snippet: Lowland Terai national park of sal forest, grassland, tigers, rhinos, and
+  Karnali floodplain.
 ---
 
 Bardia National Park is the largest national park in [Nepal](/asia/nepal)'s lowland Terai, covering 968 square kilometres of sal forest, grassland, and river floodplain along the Karnali and Geruwa rivers. It is Nepal's wilder, less-visited alternative to Chitwan — the forests here are still largely undisturbed, the crowds are thin, and seeing wildlife feels like a genuine encounter rather than a performance.

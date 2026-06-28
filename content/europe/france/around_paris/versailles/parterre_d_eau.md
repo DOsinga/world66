@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8047
 longitude: 2.1192
+score: 7.8
 ---
 
 The Parterre d'Eau consists of two large rectangular basins — about 75 metres long each — on the main terrace directly in front of the palace's west facade. They were among the last major works completed at Versailles under Louis XIV, in the 1680s, and are the first thing you see when you walk out through the Hall of Mirrors onto the terrace.

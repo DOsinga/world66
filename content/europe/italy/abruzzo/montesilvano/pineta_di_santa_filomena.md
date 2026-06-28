@@ -7,6 +7,7 @@ tags:
 - nature
 title: Pineta di Santa Filomena
 type: poi
+score: 5.9
 ---
 
 The Pineta di Santa Filomena is a protected pine strip between Pescara and Montesilvano. On a coast that can feel very built-up, its shade and resin scent are a small but welcome correction.

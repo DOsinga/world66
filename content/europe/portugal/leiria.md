@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Leiria_(25746536508)_(crop
 latitude: 39.74379
 loc_type: city
 longitude: -8.807112
-score: 0.52
+score: 7.74
+snippet: Central Portuguese city below a hilltop castle, once a southern outpost of
+  the early kingdom.
 title: Leiria
 type: location
 ---

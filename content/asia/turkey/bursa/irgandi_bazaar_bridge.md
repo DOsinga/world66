@@ -13,6 +13,7 @@ story: >
   in 2008, was rebuilt on the original foundations using historical records and surviving photographs. 
   It claims to be the only working bazaar bridge in the world, though it was a very common Ottoman 
   urban form before modernisation removed most of them.
+score: 6.3
 ---
 
 The Irgandi Bazaar Bridge is an Ottoman-style covered bridge across the Gökdere stream, with workshops and small shops built into the arches above the water. The concept was common in the medieval Ottoman world — combining bridge with commerce — but almost all have been demolished. This one, reconstructed in 2008 based on the 15th-century original, is now one of the few surviving examples of the form.

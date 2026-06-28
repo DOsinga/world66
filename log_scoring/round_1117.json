@@ -1,200 +1,200 @@
 {
   "round": 1117,
-  "timestamp": "2026-04-12T22:10:29",
+  "timestamp": "2026-06-13T20:12:07",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Provence",
-      "path": "europe/france/midi_1/provence",
-      "prior_rank": 169,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 11.5999,
+      "prior_variance": 0.610373,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Jasper",
-      "path": "northamerica/canada/alberta/jasper",
-      "prior_rank": 267,
-      "prior_wins": 63,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_score": 8.5658,
+      "prior_variance": 0.461796,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Everest Region",
-      "path": "asia/nepal/everest_region",
-      "prior_rank": 11,
-      "prior_wins": 67,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 7.5508,
+      "prior_variance": 0.452994,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Tulum",
-      "path": "northamerica/mexico/tulum",
-      "prior_rank": 73,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 7.517,
+      "prior_variance": 0.506547,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "New Orleans",
-      "path": "northamerica/unitedstates/louisiana/neworleans",
-      "prior_rank": 110,
-      "prior_wins": 87,
-      "prior_n": 4
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 11.0385,
+      "prior_variance": 0.501225,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Penang",
-      "path": "asia/malaysia/penang",
-      "prior_rank": 119,
-      "prior_wins": 65,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 6.682,
+      "prior_variance": 0.51248,
       "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Langkawi",
-      "path": "asia/malaysia/langkawi",
-      "prior_rank": 155,
-      "prior_wins": 43,
-      "prior_n": 2
-    },
-    {
-      "rank": 8,
-      "title": "Valencia",
-      "path": "europe/spain/spanishcostas/valencia",
-      "prior_rank": 312,
-      "prior_wins": 42,
-      "prior_n": 2
-    },
-    {
-      "rank": 9,
-      "title": "Potsdam",
-      "path": "europe/germany/brandenburg/potsdam",
-      "prior_rank": 1918,
-      "prior_wins": 65,
+      "title": "Kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_score": 4.9351,
+      "prior_variance": 0.43356,
       "prior_n": 4
     },
     {
+      "rank": 8,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.8582,
+      "prior_variance": 0.438137,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 8.8323,
+      "prior_variance": 0.563216,
+      "prior_n": 3
+    },
+    {
       "rank": 10,
-      "title": "Skopelos",
-      "path": "europe/greece/skopelos",
-      "prior_rank": 901,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 7.8616,
+      "prior_variance": 0.399589,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Courchevel",
-      "path": "europe/france/alpes/courchevel",
-      "prior_rank": 648,
-      "prior_wins": 59,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 7.444,
+      "prior_variance": 0.454377,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Kazbegi",
-      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
-      "prior_rank": 1166,
-      "prior_wins": 55,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 6.0626,
+      "prior_variance": 0.520883,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Lima",
-      "path": "southamerica/peru/lima",
-      "prior_rank": 1847,
-      "prior_wins": 66,
-      "prior_n": 4
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 7.1746,
+      "prior_variance": 0.4512,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Postojna Caves",
-      "path": "europe/slovenia/postojnacaves",
-      "prior_rank": 666,
-      "prior_wins": 49,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 5.5991,
+      "prior_variance": 0.497711,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Lhasa",
-      "path": "asia/china/tibet/lhasa",
-      "prior_rank": 689,
-      "prior_wins": 59,
-      "prior_n": 3
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 4.3134,
+      "prior_variance": 0.422044,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Baden-Baden",
-      "path": "europe/germany/badenwrttemberg/badenbaden",
-      "prior_rank": 2039,
-      "prior_wins": 48,
-      "prior_n": 3
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 6.202,
+      "prior_variance": 0.426766,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Kata",
-      "path": "asia/thailand/phuket/kata",
-      "prior_rank": 2432,
-      "prior_wins": 45,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.9096,
+      "prior_variance": 0.641918,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "San Quirico d'Orcia",
-      "path": "europe/italy/tuscany/san_quirico_dorci",
-      "prior_rank": 913,
-      "prior_wins": 38,
-      "prior_n": 2
-    },
-    {
-      "rank": 19,
-      "title": "Salo",
-      "path": "europe/italy/lombardia/lagodigarda/salo",
-      "prior_rank": 1261,
-      "prior_wins": 36,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Monreale",
-      "path": "europe/italy/sicily/monreale",
-      "prior_rank": 325,
-      "prior_wins": 42,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Bocas del toro",
-      "path": "northamerica/panama/bocasdeltoro",
-      "prior_rank": 491,
-      "prior_wins": 56,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 5.9527,
+      "prior_variance": 0.963705,
       "prior_n": 3
     },
     {
+      "rank": 19,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 3.0876,
+      "prior_variance": 0.458985,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.3432,
+      "prior_variance": 0.401327,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 4.6314,
+      "prior_variance": 0.406936,
+      "prior_n": 4
+    },
+    {
       "rank": 22,
-      "title": "Bagno Vignoni",
-      "path": "europe/italy/tuscany/bagno_vignoni",
-      "prior_rank": 536,
-      "prior_wins": 60,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 4.5762,
+      "prior_variance": 0.428881,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Kaieteur Falls",
-      "path": "southamerica/guyana/kaieteurfalls",
-      "prior_rank": 348,
-      "prior_wins": 49,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 3.6509,
+      "prior_variance": 0.425794,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Phnom Penh",
-      "path": "asia/cambodia/phnompenh",
-      "prior_rank": 1740,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -4.5058,
+      "prior_variance": 0.41712,
+      "prior_n": 3
     }
   ]
 }

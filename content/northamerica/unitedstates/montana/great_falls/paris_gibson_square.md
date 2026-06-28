@@ -7,6 +7,7 @@ tags:
 title: Paris Gibson Square Museum of Art
 type: poi
 snippet: "Contemporary art museum in the city's original Romanesque sandstone high school"
+score: 6.5
 ---
 
 The 1896 Richardsonian Romanesque sandstone building was Great Falls' original high school, named for the founder of the city. It now houses a regional contemporary art museum with a strong collection of Montana artists and a programme of rotating exhibitions.

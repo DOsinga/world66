@@ -12,6 +12,7 @@ story: >
   fresh white cheese, soaked in sugar syrup and coloured a vivid orange with 
   food dye. The Nablus version — which Habibah claims to make — uses a 
   particularly stretchy white cheese and is considered the original.
+score: 7.4
 ---
 
 Habibah is the most celebrated knafeh shop in Amman, serving the Palestinian sweet cheese pastry that is the city's signature dessert from a counter on a downtown pedestrian street. The knafeh is cut in squares to order, doused in additional sugar syrup, and eaten standing up on the pavement. A portion costs less than a dollar.

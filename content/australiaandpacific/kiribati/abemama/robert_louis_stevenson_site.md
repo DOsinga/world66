@@ -12,6 +12,7 @@ story: >
   who distrusted strangers. After some negotiation — and the gift of a music box — the chief
   relented and installed Stevenson and his party in a house he built for them near the lagoon.
   Stevenson called the arrangement one of the happiest periods of his travels.
+score: 6.3
 ---
 
 On the main islet of Abemama stands a modest marker commemorating Robert Louis Stevenson's three-month stay in 1889. The author of *Treasure Island* and *Kidnapped* came here aboard the schooner *Equator* during his Pacific voyages, and what he found exceeded his expectations. He was the guest of Tem Binoka, the powerful chief who controlled trade on the atoll, and wrote about the experience in *In the South Seas* — one of the finest travel books ever written about the Pacific.

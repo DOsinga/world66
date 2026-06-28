@@ -1,0 +1,200 @@
+{
+  "round": 2658,
+  "timestamp": "2026-06-13T21:58:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 4.6929,
+      "prior_variance": 0.157908,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 3.8824,
+      "prior_variance": 0.166414,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Hoorn",
+      "path": "europe/netherlands/hoorn",
+      "prior_score": 2.0302,
+      "prior_variance": 0.155441,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_score": 3.3457,
+      "prior_variance": 0.161036,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.349,
+      "prior_variance": 0.161198,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 0.8647,
+      "prior_variance": 0.155418,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.1377,
+      "prior_variance": 0.14561,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Nelson",
+      "path": "australiaandpacific/newzealand/nelson",
+      "prior_score": 4.3956,
+      "prior_variance": 0.171337,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": 3.4469,
+      "prior_variance": 0.16526,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 0.4975,
+      "prior_variance": 0.142591,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 1.3201,
+      "prior_variance": 0.195311,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.7617,
+      "prior_variance": 0.154696,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.6603,
+      "prior_variance": 0.154435,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.1924,
+      "prior_variance": 0.171334,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 3.3677,
+      "prior_variance": 0.16017,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.4038,
+      "prior_variance": 0.140497,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.8205,
+      "prior_variance": 0.177105,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.2566,
+      "prior_variance": 0.161176,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": -0.2713,
+      "prior_variance": 0.165129,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 3.36,
+      "prior_variance": 0.199176,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": 0.1807,
+      "prior_variance": 0.160227,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.3816,
+      "prior_variance": 0.155176,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.3706,
+      "prior_variance": 0.146272,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.4881,
+      "prior_variance": 0.217814,
+      "prior_n": 8
+    }
+  ]
+}

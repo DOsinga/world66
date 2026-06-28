@@ -7,6 +7,7 @@ tags:
   - laowaitan
 latitude: 29.875
 longitude: 121.559
+score: 6.2
 ---
 
 The lanes behind the Laowaitan waterfront contain a cluster of seafood restaurants that represent the more tourist-facing end of Ningbo's seafood culture. These restaurants are more reliable for English-language menus and picture-based ordering than the family restaurants further from the waterfront, and the quality is generally good even if the prices are a step above neighbourhood levels.

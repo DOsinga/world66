@@ -13,6 +13,7 @@ story: >
   an hour means missing the sight entirely — but getting the timing right
   and watching the reflected golden light ripple up the mudflats toward you
   is one of the more genuinely memorable experiences in the Kimberley.
+score: 7.2
 ---
 
 The **Staircase to the Moon** is a natural phenomenon that occurs on the mudflats north of town when a full moon rises just after sunset during low tide. The moon's reflection in the tidal ripples creates the illusion of a golden staircase stretching from the water's edge up to the sky. It is fleeting — the effect lasts only while the moon is low — but it is as good as its reputation.

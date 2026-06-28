@@ -14,6 +14,7 @@ story: >
   up the 10-kilometre road is a small fleet of government Land Rovers, which carry
   eight passengers at a time up slopes so steep that the driver must reverse at several
   hairpin bends.
+score: 8.8
 ---
 
 Maxwell Hill — officially Bukit Larut — rises to 1,035 metres directly above Taiping and is the oldest and least developed hill station in Malaysia. While Cameron Highlands and Genting Highlands have been heavily commercialised, Maxwell Hill remains essentially unchanged: a handful of colonial bungalows in the cloud forest, a weather station, and unobstructed jungle. You can rent the government bungalows if you book well in advance, but most visitors come only for the day.

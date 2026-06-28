@@ -1,13 +1,14 @@
 ---
 address: Strada Icoanei 80, Bucharest
 latitude: 44.4453
-loc_type: feature
 longitude: 26.1075
+score: 7.1
 snippet: Inter-war Romanian cuisine in a restored neoromanian villa
 tags:
 - eating_out
 - restaurant
 title: Zexe Zahana
+type: poi
 ---
 
 A serious revival of inter-war Romanian cuisine in a beautifully restored villa just east of Grădina Icoanei. The chef has dug through pre-war cookbooks to reconstruct dishes that had almost vanished — boyar-era game stews, slow-cooked lamb with rose petals, an extravagant Easter lamb dish called drob — and the wine list reads like a survey of the best small Romanian producers.

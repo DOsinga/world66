@@ -12,6 +12,7 @@ story: >
   the hall itself — its bracketing system and roof construction — is one of the
   best-preserved Song dynasty wooden buildings in China, a period from which
   virtually nothing else survives intact in the north.
+score: 8.7
 ---
 
 The Longxing Temple in Zhengding County, about 15 kilometres north of Shijiazhuang, is one of the most important Buddhist monasteries in Hebei. Originally founded during the Sui dynasty, the complex contains buildings from the Song, Jin, Yuan, Ming, and Qing dynasties, each layered onto or beside the others in a way that reads as accumulated time rather than planned uniformity.

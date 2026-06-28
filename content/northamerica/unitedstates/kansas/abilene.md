@@ -5,7 +5,9 @@ done:
 latitude: 38.9172
 loc_type: city
 longitude: -97.2137
-score: 0.37
+score: 5.98
+snippet: Kansas plains town best known for Dwight D. Eisenhower's boyhood home and
+  presidential library.
 title: Abilene
 type: location
 ---

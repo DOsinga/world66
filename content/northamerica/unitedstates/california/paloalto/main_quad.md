@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Stanford's signature sandstone quadrangle, completed 1891"
+score: 8.6
 ---
 
 The architectural heart of Stanford: an inner and outer quadrangle of sandstone arcades laid out by

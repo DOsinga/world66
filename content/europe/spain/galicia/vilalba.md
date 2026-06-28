@@ -5,7 +5,9 @@ done:
 latitude: 43.2963
 loc_type: city
 longitude: -7.6788
-score: 0.4
+score: 6.46
+snippet: Market town in inland Galicia’s Terra Cha, anchored by an Andrade castle
+  keep.
 title: Vilalba
 type: location
 ---

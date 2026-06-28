@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jinding,_Mount_Fanjing,_31
 latitude: 27.92
 loc_type: feature
 longitude: 108.69
+score: 8.38
+snippet: Sacred Guizhou mountain where Buddhist summit temples rise above rare cloud-forest
+  habitat.
 sources:
 - https://en.wikivoyage.org/wiki/Tongren_(Guizhou)
 title: Mount Fanjing

@@ -7,6 +7,7 @@ tags:
 - market
 title: Marché Municipal
 type: poi
+score: 8.0
 ---
 
 The municipal market occupies a set of blue-tiled pavilions on the waterfront near the port, open Tuesday through Sunday from early morning. One pavilion handles fish — the day's catch from the lagoon, including species you will not easily find elsewhere — and another deals in tropical fruit, vegetables, and spices brought in from across New Caledonia's main island and the outer islands.

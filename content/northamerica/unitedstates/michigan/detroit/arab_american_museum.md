@@ -10,6 +10,7 @@ tags:
 neighbourhood: Dearborn
 title: Arab American National Museum
 type: poi
+score: 8.2
 ---
 
 The Arab American National Museum opened in 2005 on Michigan Avenue in east Dearborn — the right place for the only museum in the country devoted to Arab-American life. Permanent exhibits trace immigration from the Levant in the 19th century through the more recent Iraqi, Yemeni, and Syrian arrivals, and explore the cultural, artistic, and political contributions of Arab Americans. The building itself is decorated with Islamic-influenced ornament.

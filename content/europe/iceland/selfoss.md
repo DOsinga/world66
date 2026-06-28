@@ -5,7 +5,9 @@ done:
 latitude: 63.936809
 loc_type: city
 longitude: -21.003532
-score: 0.51
+score: 7.99
+snippet: South Iceland service town on the Ölfusá river, useful for the Golden Circle
+  and south coast.
 title: Selfoss
 type: location
 ---

@@ -16,6 +16,7 @@ story: >
   briefly held the city, and it changed hands repeatedly during the dynastic
   wars that followed. Walking the old streets, you are pacing ground that
   shaped the history of both France and England.
+score: 9.0
 ---
 
 The Cité Plantagenêt is the medieval heart of Le Mans, enclosed within Gallo-Roman walls built in the 3rd and 4th centuries — some of the best-preserved Roman urban fortifications in France. The walls themselves are worth a close look: their decorative brickwork pattern, alternating courses of stone and red tile, is strikingly modern-looking for something nearly 1,800 years old.

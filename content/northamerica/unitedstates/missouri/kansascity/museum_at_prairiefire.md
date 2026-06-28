@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museum at Prairiefire
 type: poi
+score: 5.6
 ---
 
 The Museum at Prairiefire in Overland Park, Kansas, is a natural history museum that operates as a partner to the American Museum of Natural History in New York, hosting major travelling exhibitions from that collection. The building — an architectural statement in its own right, clad in iridescent panels that shift color with the light — sits in a suburban mixed-use development that manages to be more interesting than the description suggests.

@@ -11,6 +11,7 @@ story: >
   and at Indian River Inlet the ocean and bay are separated by less than half a mile.
   The inlet bridge here is one of the most productive fishing spots on the Delaware coast —
   anglers line both sides around the clock during the summer striper runs.
+score: 8.3
 ---
 
 Delaware Seashore State Park stretches south from Dewey Beach along a thin barrier spit between the Atlantic Ocean and the inland bays. It is one of the busiest state parks in Delaware, drawing swimmers, anglers, kayakers, and kiteboarders to its six miles of ocean beach and extensive bay access. The park is managed for recreation rather than strict nature preservation, which means the facilities are good — parking areas, bathhouses, and boat launches are well maintained.

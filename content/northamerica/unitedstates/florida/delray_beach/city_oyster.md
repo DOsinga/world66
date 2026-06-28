@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.4617
 longitude: -80.0709
+score: 6.5
 ---
 
 Big Time Restaurant Group's seafood flagship on Atlantic Avenue, doing a substantial raw bar and a sushi counter alongside a longer menu of grilled fish, lobster rolls and seafood pasta. The oyster selection is the headline — a dozen-plus varieties from both coasts, fresh-shucked. The room is loud, modern, and packed in season; reservations recommended.

@@ -11,6 +11,7 @@ tags:
 - berlinmitte
 title: Atemlos
 type: poi
+score: 5.0
 ---
 
 A fashion boutique on Oranienburger Strasse, a short walk from Hackescher Markt S-Bahn station. The area is well-stocked with independent clothing shops and galleries, and Atemlos sits among them as a stop for contemporary women's fashion.

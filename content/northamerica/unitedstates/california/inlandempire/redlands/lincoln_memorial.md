@@ -12,6 +12,7 @@ tags:
 title: Lincoln Memorial Shrine
 type: poi
 url: www.lincolnshrine.org
+score: 7.9
 ---
 
 The Lincoln Memorial Shrine was built and presented to the City of Redlands in 1932 by philanthropists Robert and Alma Watchorn, as a tribute to Lincoln and a memorial to their son Emory Ewart, who died from injuries suffered in World War I.

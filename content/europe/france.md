@@ -9,16 +9,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
 latitude: 46.603354
+loc_type: country
 longitude: 1.888334
 quick_facts:
-  Population: "68 million"
+  Cheese Varieties: Over 1,200 named
   Drives On: Right
-  Cheese Varieties: "Over 1,200 named"
-  Most-Visited Country: "100 million tourists/year"
-score: 0.95
+  Most-Visited Country: 100 million tourists/year
+  Population: 68 million
+score: 0.98
+snippet: Western European country with Atlantic coasts, Alpine scenery, historic cities,
+  and deeply rooted food and wine traditions.
 title: France
 type: location
-loc_type: country
 ---
 
 France is the number one tourist destination in the world. It has everything that you could ever want to see on your holidays: a great city like [Paris](/europe/france/paris) , good beaches, more monuments than any other country, lovely nature, incredible mountain scenery, need I go on. France is also a very pleasant place to stay. It has good food, great wines and people enjoy their lives. And the best thing is, maybe apart from Paris, living in France does not have to be expensive.

@@ -10,8 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Marib_Yemen_Hunt_1994.jpg
 latitude: 15.4579
 loc_type: city
 longitude: 45.323
-score: 0.13
+score: 2.35
 title: Marib
+snippet: Ancient Yemeni city and Sabaean capital, anchored by incense-route ruins
+  and the Great Dam of Marib
 type: location
 ---
 

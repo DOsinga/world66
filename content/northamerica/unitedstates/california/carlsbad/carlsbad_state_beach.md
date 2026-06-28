@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.1474
 longitude: -117.3455
+score: 6.8
 ---
 
 Carlsbad's main stretch of Pacific coastline runs for several miles between the lagoon inlets, and the state beach section near the village is the most accessible and least crowded of the Southern California beaches in this part of the coast. The seawall path above the beach connects the village restaurants and shops to the sand, making it easy to walk from lunch directly to the water.

@@ -13,6 +13,7 @@ story: >
   French built administrative offices here in the early twentieth century and Chinese
   merchants established trading houses — some still operating under the same family
   names — that gave the town its distinctive hybrid architecture.
+score: 7.9
 ---
 
 Dong Van's old quarter is the most intact colonial-era settlement in Ha Giang province, a cluster of stone houses and shopfronts built by Chinese merchants in the early twentieth century and supplemented by French administrative buildings. The buildings are low, thick-walled, and roofed in the curved dark tiles typical of southern Chinese vernacular architecture — distinctly different from the wooden houses of lowland Vietnam. The quarter sits at the foot of a large cliff with the market square at its centre.

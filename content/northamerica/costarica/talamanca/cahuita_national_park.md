@@ -13,6 +13,7 @@ story: >
   Recovery has been slow but steady, and the reef today supports over 35 species of coral and 140 species of fish.
 sources:
   - https://en.wikipedia.org/wiki/Cahuita_National_Park
+score: 8.8
 ---
 
 Cahuita National Park protects a narrow strip of lowland rainforest along the coast and a coral reef that extends into the Caribbean. The park is one of the easiest in Costa Rica to explore on foot — a flat trail runs the length of the peninsula through dense jungle, close enough to the beach that you can step out for a swim whenever the heat demands it. Sloths hang in the cecropia trees, white-faced capuchins raid the trail for snacks, and raccoons make nuisances of themselves at the Puerto Vargas campsite.

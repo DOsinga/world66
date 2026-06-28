@@ -3,8 +3,14 @@ latitude: 43.144528
 loc_type: region
 longitude: -2.203796
 score: 0.6
+snippet: Small Basque province between the Pyrenees and Bay of Biscay, anchored by
+  Donostia-San Sebastián.
 title: Gipuzkoa
 type: location
+image: gipuzkoa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Algorri_Flysch.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Kent Wang
 ---
 
 Gipuzkoa is the smallest of the three Basque provinces and one of the most densely populated areas of Spain. It stretches from the Pyrenees to the Bay of Biscay, and its coastline is lined with fishing villages and dramatic cliffs.

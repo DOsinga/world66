@@ -8,6 +8,7 @@ tags:
 - nature
 title: Great Hangman
 type: poi
+score: 8.4
 ---
 
 Great Hangman, just east of Combe Martin, rises 1,043 feet (318 metres) above the Bristol Channel — the highest sea cliff on mainland Britain. The South West Coast Path climbs straight up its grassy face from the village; allow two to three hours for the round trip on foot and bring water and a windproof. The summit cairn gives a long view east along the Exmoor coast towards Hartland Point and, on clear days, across to Wales.

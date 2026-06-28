@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:POTENZA_TRICOLORE.jpg
 latitude: 40.6395
 loc_type: city
 longitude: 15.805
-score: 0.45
+score: 6.94
+snippet: Basilicata capital on a high ridge, rebuilt repeatedly after earthquakes
+  and known for cold winters.
 title: Potenza
 type: location
 ---

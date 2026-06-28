@@ -1,13 +1,15 @@
 ---
 address: 180 Greenwich Street
-latitude: 40.711462
-longitude: -74.013275
+latitude: 40.711453
+longitude: -74.01267
+score: 8.6
 snippet: Twin reflecting pools and underground museum marking the September 11 site
 tags:
 - things_to_do
 - museum
 - monument
 - tower
+- financial_district
 title: 9/11 Memorial & Museum
 type: poi
 ---

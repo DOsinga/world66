@@ -10,6 +10,7 @@ tags:
 - museum
 title: Abbaye de Graville
 type: poi
+score: 7.7
 ---
 
 The Abbaye de Graville is a Romanesque church and former Benedictine convent on the plateau above the city, predating the founding of Le Havre by nearly five centuries. The church dates from the 11th and 12th centuries and is one of the best-preserved Romanesque buildings in Upper Normandy. The nave and choir are particularly fine, with heavy round arches and thick piers that create a sense of great solidity.

@@ -9,6 +9,7 @@ tags:
   - historic
 story: "When the canal was opened in 1850 after 22 years of construction, it had been rendered obsolete almost overnight by the Baltimore and Ohio Railroad, which arrived in Cumberland eight years earlier. Yet the canal kept hauling coal until 1924, when a flood finally broke its locks for good."
 snippet: "The end of the Chesapeake and Ohio Canal — 184.5 miles of towpath start here."
+score: 7.9
 ---
 
 The Western Terminus of the C&O Canal sits at the bottom end of downtown Cumberland, where the canal once met the Potomac. From here the towpath runs 184.5 miles east to Georgetown in Washington DC, following the river the entire way. It is now a national historical park and one of the great American long-distance walking and cycling trails.

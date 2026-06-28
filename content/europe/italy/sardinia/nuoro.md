@@ -10,7 +10,9 @@ image_attribution: Sailko
 latitude: 40.3217
 loc_type: city
 longitude: 9.3268
-score: 0.52
+score: 7.75
+snippet: Mountain Sardinian city at the heart of Barbagia, with literary legacy and
+  interior traditions intact.
 title: Nuoro
 type: location
 ---

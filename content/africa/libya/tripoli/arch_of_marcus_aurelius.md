@@ -15,6 +15,7 @@ story: >
   originally stood at the crossroads of the cardo and decumanus. Over the centuries it was
   built into the city's walls, used as a watchtower, and encased in houses. Only in the
   20th century was it fully excavated and restored to stand free.
+score: 8.4
 ---
 
 The Arch of Marcus Aurelius, built in 163 AD, is the most prominent ancient monument in Tripoli and one of the finest Roman arches in North Africa. It stands in the old medina at what was once the crossroads of the main streets of the Roman city of Oea. The arch is four-faced — spanning both directions of the intersection — with carved reliefs on the interior showing the imperial cult, sacrificial scenes, and figures of deities.

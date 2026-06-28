@@ -11,6 +11,7 @@ story: >
   The TAMAR Project has been monitoring sea turtle nesting on Fernando de Noronha since 1980. In the early years, locals collected eggs for food and turtles were hunted for their shells. The project's success in changing this — through education, community employment, and sustained presence — is one of the great conservation turnarounds in South America. The beaches now host thousands of green turtle nests each season, up from near zero in the 1970s.
 sources:
   - https://en.wikipedia.org/wiki/Fernando_de_Noronha
+score: 7.6
 ---
 
 The TAMAR Project operates a sea turtle monitoring station on Fernando de Noronha that visitors can observe and learn from. Green turtles and hawksbill turtles nest on the island's beaches between December and May. The monitoring team patrols the beaches at night, tagging nesting females, counting eggs, and protecting nests from predators.

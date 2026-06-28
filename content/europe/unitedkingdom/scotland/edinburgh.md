@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-21'
+  major_city_neighborhoods: '2026-06-14'
   poi_cleanup: '2026-04-21'
 image: edinburgh.jpg
 image_attribution: W. Bulach
@@ -10,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3331_Edinburgh_-_Schott
 latitude: 55.953346
 loc_type: city
 longitude: -3.188375
-score: 0.84
+score: 9.92
+snippet: Scottish capital built on volcanic rock, where medieval closes and Georgian
+  terraces face across a former loch.
 title: Edinburgh
 type: location
 ---
@@ -27,5 +30,5 @@ In August, the city transforms for the **Festivals** — the Fringe, the Interna
 
 ## Destinations in Edinburgh
 
-[New Town](/europe/unitedkingdom/scotland/edinburgh/newtown_1)
+[New Town](/europe/unitedkingdom/scotland/edinburgh/newtown)
 [Stockbridge](/europe/unitedkingdom/scotland/edinburgh/stockbridge)

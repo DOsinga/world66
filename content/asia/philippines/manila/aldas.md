@@ -1,7 +1,11 @@
 ---
 address: Adriatico St. near corner of P.Faura
+latitude: 14.5782
+longitude: 120.9829
+score: 4.8
 tags:
 - eating_out
+- restaurant
 title: Alda's
 type: poi
 ---

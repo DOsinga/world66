@@ -5,7 +5,9 @@ done:
 latitude: 11.532544
 loc_type: city
 longitude: -10.672727
-score: 0.26
+score: 4.64
+snippet: Remote Guinean town with a major West African mosque founded by El Hadj Umar
+  Tall.
 title: Dinguiraye
 type: location
 ---

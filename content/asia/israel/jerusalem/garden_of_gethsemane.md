@@ -14,6 +14,7 @@ story: >
   Jesus prayed in the garden the night before his arrest. Their gnarled trunks, each
   one unique, give the garden an atmosphere of weight that no roping off or tour group
   can entirely dispel.
+score: 7.7
 ---
 
 At the foot of the Mount of Olives, this small garden marks the place where Jesus is said to have prayed the night before his arrest. The eight olive trees at the heart of the garden are extraordinarily ancient — DNA analysis suggests all eight grew from the same parent tree, and carbon dating has produced dates of up to 900 years, though some researchers believe they may be remnants of the original trees from 2,000 years ago, since olive trees can regenerate from old root systems.

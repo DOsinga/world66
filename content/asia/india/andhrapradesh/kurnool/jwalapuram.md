@@ -18,6 +18,7 @@ story: >
   another species — remains an open question, since no bones have been found.
 sources:
   - https://en.wikipedia.org/wiki/Jwalapuram
+score: 7.3
 ---
 
 Jwalapuram, in the Nandyal district not far from Kurnool, is one of the most archaeologically significant sites in southern India. Excavations here have revealed stone tools spanning a 35,000-year occupation sequence, including tools found beneath and above a layer of ash from the Toba supervolcano eruption of approximately 74,000 years ago. This makes Jwalapuram central to understanding the deep prehistory of human habitation in South Asia.

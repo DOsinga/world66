@@ -12,6 +12,7 @@ tags:
 - sight
 title: Bala Hanuman Temple
 type: poi
+score: 6.5
 ---
 
 On the eastern shore of the Lakhota Lake stands the Bala Hanuman Temple, a working Hindu temple best known for its non-stop chanting. The temple compound is modest and crowded at the popular evening hours, when devotees come to take part in the round-the-clock recitation that has continued without break for more than half a century.

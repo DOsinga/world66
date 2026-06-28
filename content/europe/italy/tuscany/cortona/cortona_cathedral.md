@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.2764
 longitude: 11.9842
+score: 6.4
 ---
 
 Cortona Cathedral — formally the Concattedrale di Santa Maria Assunta — sits on a small square at the western edge of the historic centre, on the site of an older Romanesque church. The interior is restrained Renaissance, the layout a single nave with side chapels. Most of the better artworks are now in the Diocesan Museum across the square.

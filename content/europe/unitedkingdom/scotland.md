@@ -9,6 +9,8 @@ latitude: 56.786111
 loc_type: region
 longitude: -4.114052
 score: 0.56
+snippet: Northern third of Great Britain, with Highland wilderness, volcanic cities,
+  and hundreds of islands.
 title: Scotland
 type: location
 ---

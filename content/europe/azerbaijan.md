@@ -1,21 +1,23 @@
 ---
-title: Azerbaijan
-type: location
-latitude: 40.393629
-longitude: 47.787251
-image: azerbaijan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "10.2 million"
-  Religion: "~97% Muslim, but alcohol is widely available"
-  Mud Volcanoes: "More than any other country — about 350"
-  Land of Fire: "Natural gas flames have burned for millennia at Yanar Dag"
-score: 0.32
+image: azerbaijan.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG
+latitude: 40.393629
 loc_type: country
+longitude: 47.787251
+quick_facts:
+  Land of Fire: Natural gas flames have burned for millennia at Yanar Dag
+  Mud Volcanoes: More than any other country — about 350
+  Population: 10.2 million
+  Religion: ~97% Muslim, but alcohol is widely available
+score: 0.6
+snippet: Caspian country where oil-rich Baku sits between Caucasus mountains and Turkic-Persian
+  crossroads culture.
+title: Azerbaijan
+type: location
 ---
 
 Azerbaijan is a small country on the Caspian Sea. Until 1991 it was part of the Soviet Union. It borders on [Armenia](/europe/armenia), [Georgia](/northamerica/unitedstates/georgia), [Russia](/europe/russia) and [Iran](/asia/iran), but culturally speaking it probably has the closest ties with Turkey. The Azeri language is a lot like an archaic form of Turkish. Iran has a large Azeri Community as well.

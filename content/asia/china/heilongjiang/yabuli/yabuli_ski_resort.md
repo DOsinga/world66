@@ -13,6 +13,7 @@ story: >
   still in use today. China's domestic ski market has grown enormously since 1996, and Yabuli 
   has grown with it — but the Game-standard infrastructure gives it a depth and quality 
   that newer purpose-built resorts lack.
+score: 8.4
 ---
 
 Yabuli Ski Resort is China's largest and most established alpine ski area, spread across the slopes of Daqingshan Mountain in the Zhangguangcai Range. The resort has over a dozen runs of varying difficulty, from wide easy slopes for beginners to the competition-standard descent that hosted the 1996 Asian Winter Games. The vertical drop and run lengths are respectable by domestic standards, and the snow cover from November through March is reliable given the continental Manchurian climate.

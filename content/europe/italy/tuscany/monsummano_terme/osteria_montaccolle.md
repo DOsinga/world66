@@ -7,6 +7,7 @@ address: Via di Montaccolle 39, 51015 Monsummano Terme
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 A long-running country osteria in the hills above Monsummano, family run, with a wood-fired grill and a short, seasonal menu of Tuscan classics — pappa al pomodoro, ribollita, grilled tagliata, hare ragù in winter. The terrace looks out across the Valdinievole.

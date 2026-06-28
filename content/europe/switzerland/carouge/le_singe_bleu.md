@@ -8,6 +8,7 @@ latitude: 46.1833
 longitude: 6.1315
 address: "Place du Marché, Carouge"
 opening_hours: "Daily 9am–1am"
+score: 6.2
 ---
 
 A neighbourhood bar on Place du Marché with a terrace that fills up on warm evenings. Good wine list with a strong emphasis on natural and biodynamic producers — unusual for this part of Switzerland. The kitchen serves simple plates: charcuterie, cheese boards, tartines.

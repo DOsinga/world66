@@ -8,6 +8,7 @@ tags:
 latitude: 32.7278
 longitude: -117.2576
 snippet: A mile of eroded sandstone sea cliffs in Point Loma — tide pools below, open ocean beyond, best at sunset
+score: 7.6
 ---
 
 Sunset Cliffs Natural Park is a strip of eroded sandstone sea cliffs on the Point Loma peninsula, running south from Ocean Beach for about a mile along Sunset Cliffs Boulevard. The cliffs drop directly to the Pacific at heights between twenty and sixty feet, with rocky outcroppings, tide pools, and wave-carved caves at their base. The name is a statement of fact: the westward exposure means the cliffs catch the last light of the day, and the sunsets here are among the best in the city.

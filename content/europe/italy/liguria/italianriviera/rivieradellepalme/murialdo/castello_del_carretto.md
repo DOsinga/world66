@@ -11,6 +11,7 @@ latitude: 44.3200
 longitude: 8.1590
 story: >
   The Del Carretto family controlled much of inland Liguria in the medieval period — their ruined castles dot the valleys from Savona to the Piedmont border. The Murialdo fortress was one of the chain of strongpoints the family used to control the mountain passes connecting the Ligurian coast to the Po plain.
+score: 7.3
 ---
 
 At the locality of Costa, above the main hamlet of Murialdo, the ruins of a medieval fortress of the Del Carretto family occupy a wooded ridge with views down the valley. The remains include a keep, a long curtain wall, and two gateways with pointed arches — enough to give a clear sense of the original scale of the fortification.

@@ -7,7 +7,9 @@ done:
 latitude: 38.232583
 loc_type: city
 longitude: -122.636465
-score: 0.4
+score: 6.62
+snippet: Sonoma County river city with a Victorian downtown and 19th-century port-town
+  bones
 title: Petaluma
 type: location
 ---

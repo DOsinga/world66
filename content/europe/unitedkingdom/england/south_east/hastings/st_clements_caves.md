@@ -8,6 +8,7 @@ tags:
 latitude: 50.8580
 longitude: 0.5900
 story: "During the Second World War, the caves were used as air raid shelters, accommodating up to several thousand Hastings residents during German bombing raids. Graffiti left by wartime shelterees survives on the cave walls alongside the older smugglers' carvings — the caves have served as a refuge and a storage space across several centuries."
+score: 7.4
 ---
 
 St Clement's Caves are a network of sandstone caves cut into the West Hill above Hastings Old Town. The caves have been used for centuries — as a smugglers' cache, a venue for entertainments, and as air raid shelters during the Second World War — and now function as a tourist attraction with guided tours.

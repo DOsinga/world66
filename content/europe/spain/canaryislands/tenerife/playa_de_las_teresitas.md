@@ -13,6 +13,7 @@ story: >
   by an offshore breakwater. Before the project, this was a volcanic black-sand
   beach like most others on the island's northeast coast. The investment was
   spectacular — the beach is now one of the most beautiful in the Canaries.
+score: 6.6
 ---
 
 Playa de las Teresitas is a long, gentle beach of warm golden sand on the northeast coast of Tenerife, about five kilometres from Santa Cruz. It lies beneath the steep slopes of the Anaga mountains, with the traditional village of San Andrés at one end. The beach is protected by an offshore breakwater that keeps the water calm and safe for swimming — unusual on an Atlantic-facing coast, where conditions can be rough.

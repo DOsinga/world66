@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 29.1700
 longitude: 25.5400
+score: 6.4
 ---
 
 A low, distinctive peak rising south of the oasis. In October, hundreds of Egyptians come to be buried up to their necks in Dakrur's hot sand — a traditional therapy for rheumatism. Specialised camps near the base run the treatment for visitors who book in advance.

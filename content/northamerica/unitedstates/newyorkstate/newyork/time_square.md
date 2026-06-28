@@ -4,11 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.757977
 longitude: -73.985564
+score: 8.0
 snippet: NYC's neon-blazing crossroads and Broadway theatre hub
 tags:
 - things_to_do
 - square
 - theatre
+- midtown
 title: Times Square
 type: poi
 ---

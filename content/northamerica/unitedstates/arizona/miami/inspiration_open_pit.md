@@ -8,6 +8,7 @@ latitude: 33.4125
 longitude: -110.8833
 sources:
   - https://en.wikipedia.org/wiki/Inspiration,_Arizona
+score: 6.2
 ---
 
 North of Miami off AZ-188, the old Inspiration Consolidated Copper Company workings left behind an open pit and the ghost town of Inspiration — once a substantial company-owned settlement with its own amenities, now largely demolished. The pit itself is visible from the road, and the surrounding landscape of waste rock and tailings gives a clear picture of the industrial scale that defined this part of Gila County for much of the 20th century.

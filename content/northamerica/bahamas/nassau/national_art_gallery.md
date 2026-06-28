@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0754
 longitude: -77.3473
+score: 8.8
 ---
 
 Housed in **Villa Doyle**, an 1860s mansion on West Hill Street, the NAGB is the most serious cultural institution in Nassau and the best place to understand the Bahamas through its artists. The permanent collection covers a century of Bahamian art — Amos Ferguson's naive paintings, Brent Malone's lush landscapes, Antonius Roberts's woodcarvings — and rotating exhibitions show contemporary work.

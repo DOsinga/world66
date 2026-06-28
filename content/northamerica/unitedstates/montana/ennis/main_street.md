@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: Four blocks of fly shops, saloons, art galleries and pickup trucks
+score: 6.8
 ---
 
 Ennis Main Street is essentially four blocks of low storefronts with angle parking out front, but it has more going on than its size suggests. The fly shops — there are several, including the Tackle Shop, Madison River Outfitters and Beartooth Flyfishing — are run by guides who know the river day by day, and walking into one to ask about hatches is the simplest way to get oriented. A handful of small galleries sell Western art and Native American work; the bookstore stocks the best collection of fly-fishing literature in the state.

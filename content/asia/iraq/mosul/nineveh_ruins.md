@@ -12,6 +12,7 @@ story: >
   destruction of several inside the Mosul Museum in 2015 and smashed the
   stone lamassu at the Nergal Gate with sledgehammers. Some pieces have
   since been recovered; others are gone forever.
+score: 9.4
 ---
 
 The ruins of ancient Nineveh occupy a wide tell on the east bank of the Tigris, directly opposite modern Mosul. Nineveh was the largest city in the world at its peak in the seventh century BC, capital of the Assyrian Empire under kings including Sennacherib and Ashurbanipal, and its libraries held thousands of cuneiform clay tablets — including the oldest written version of the flood myth that preceded the biblical account by more than a thousand years.

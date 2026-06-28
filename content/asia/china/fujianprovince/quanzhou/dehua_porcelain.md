@@ -15,6 +15,7 @@ story: >
   figure sold as a goddess in Quanzhou could be sold as the Madonna in Lisbon.
   The kilns at Dehua have been continuously producing white porcelain for over a
   thousand years.
+score: 8.1
 ---
 
 Dehua County, about 80 kilometres north of Quanzhou city, is home to China's finest white porcelain tradition, a craft that has been practised here since the Song dynasty and which influenced ceramic production across Europe in the 17th and 18th centuries. The Dehua Porcelain Museum in the county town holds a comprehensive collection from all periods, and several large pottery factories operate with showrooms that allow visitors to see the production process and purchase directly from the kilns.

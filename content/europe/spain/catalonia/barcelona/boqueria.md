@@ -1,13 +1,15 @@
 ---
 address: Rambla 91, Rambla
+latitude: 41.3817
+longitude: 2.1717
+score: 8.6
+snippet: Barcelona’s famous covered market off La Rambla
 tags:
 - shopping
 - food
+- el_raval
 title: Boqueria
 type: poi
-latitude: 41.3817
-longitude: 2.1717
-snippet: "Barcelona’s famous covered market off La Rambla"
 ---
 
 La Boqueria — officially the Mercat de Sant Josep — is Barcelona’s most famous market, occupying a covered iron hall just off La Rambla. Fruit stalls piled high with tropical cones, fresh fish on ice, jamón hanging in rows, and a dozen small bars serving seafood and vermouth. It has been here in some form since the 13th century.

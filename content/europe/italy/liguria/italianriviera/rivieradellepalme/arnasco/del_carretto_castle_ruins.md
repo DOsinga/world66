@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 44.0830
 longitude: 8.1050
 story: The Del Carretto were the feudal overlords of much of western Liguria for centuries, and the ruins above Chiesa are a reminder of just how thoroughly that world collapsed. The family split the Arnasco territory in 1236 with the Cazulini family of Albenga, each holding a fortified position on opposite sides of the valley — a medieval property dispute frozen in stone.
+score: 7.2
 ---
 
 The hamlet of Chiesa, partway up the valley side above Arnasco, takes its name from its own old church, but the most dramatic feature is the ruined castle that once belonged to the Del Carretto family, the feudal clan that controlled much of this corner of Liguria through the Middle Ages.

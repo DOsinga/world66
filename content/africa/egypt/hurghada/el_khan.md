@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: El Khan
 type: poi
+score: 5.5
 ---
 
 One of the better places in town for traditional Egyptian food: koshary, grilled meats, ful medames, and fresh bread. Unpretentious setting, low prices, and a local crowd — a good choice if you want to eat like a resident rather than a resort guest.

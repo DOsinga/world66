@@ -4,7 +4,9 @@ done:
 latitude: 40.416284
 loc_type: city
 longitude: -120.653006
-score: 0.32
+score: 5.8
+snippet: Northern California town near Eagle Lake and the volcanic trails and fumaroles
+  of Lassen country.
 sources:
 - https://en.wikipedia.org/wiki/Susanville,_California
 title: Susanville

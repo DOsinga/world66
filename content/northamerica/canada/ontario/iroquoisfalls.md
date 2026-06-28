@@ -5,6 +5,9 @@ done:
 latitude: 48.7672
 loc_type: city
 longitude: -80.6771
+score: 5.88
+snippet: Northern Ontario company town on the Abitibi River, planned around a once-dominant
+  paper mill.
 title: Iroquois Falls
 type: location
 ---

@@ -11,6 +11,7 @@ story: >
   The Serra da Bocaina National Park above Paraty was the site of a 17th-century slave road — the Caminho do Ouro (Gold Road) — used to transport gold from the mines of Minas Gerais to the coast. Sections of the original stone-paved road are still walkable, and the trail cuts through forest that has barely changed since the miners trudged through it 300 years ago.
 sources:
   - https://en.wikipedia.org/wiki/Serra_da_Bocaina_National_Park
+score: 8.5
 ---
 
 The Atlantic Forest rising immediately above Paraty is among the most biodiverse ecosystems on earth, and it starts just minutes from the historic centre. A network of trails runs into the Serra da Bocaina National Park, ranging from short walks to the waterfalls near town to multi-day treks along the ancient gold road to the mountains.

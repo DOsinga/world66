@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - donji_grad
+score: 7.8
 ---
 
 The Muzej za umjetnost i obrt is the kind of decorative arts museum every Central European capital used to have: rooms of period furniture, glass, ceramics, textiles, clocks, and silver, organised chronologically from Gothic and Renaissance through to Art Nouveau and Art Deco. It is housed in a fine 1880s building by Hermann Bollé (also responsible for the cathedral restoration and Mirogoj cemetery), and it has been a museum since the start.

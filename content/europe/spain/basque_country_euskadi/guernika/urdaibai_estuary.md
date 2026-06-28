@@ -8,6 +8,7 @@ tags:
 - sight
 title: Urdaibai Estuary
 type: poi
+score: 7.9
 ---
 
 The Oka river opens north of Guernika into a wide tidal estuary, designated by UNESCO as a biosphere reserve in 1984 — the only one in the Basque Country. The mosaic of saltmarsh, mudflat, reed bed, and beech forest supports more than 300 plant species and is one of the most important waterbird sites on the Cantabrian coast.

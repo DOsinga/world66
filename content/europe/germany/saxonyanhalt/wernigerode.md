@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kochstrase_in_Wernigerode_
 latitude: 51.834417
 loc_type: city
 longitude: 10.786253
-score: 0.55
+score: 8.04
+snippet: Harz mountain market town of half-timbered lanes, steam trains, and a castle
+  above the square.
 title: Wernigerode
 type: location
 ---

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - market
+score: 7.8
 ---
 
 A two-level wooden boardwalk that runs along the inside of the horseshoe pier, lined with seafood markets, fish stalls, ramen counters, sushi bars and Asian grocery shops. The lower level fronts the harbour water; the upper level opens onto the pier deck.

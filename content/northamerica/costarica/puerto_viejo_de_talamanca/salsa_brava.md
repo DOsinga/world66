@@ -8,6 +8,7 @@ tags:
 - sight
 title: Salsa Brava
 type: poi
+score: 7.4
 ---
 
 The reef break called Salsa Brava is Costa Rica's most famous Caribbean wave and one of the country's heaviest. It breaks fast, hollow, and very close to the reef — only a thin layer of water separates the surfers from the coral. The wave faces north, so it picks up north Caribbean swells from December to March, peaking with serious 3-metre-plus days.

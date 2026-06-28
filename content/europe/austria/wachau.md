@@ -9,13 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruine_Aggstein_02.JPG
 latitude: 48.364444
 loc_type: region
 longitude: 15.434167
+snippet: Danube wine valley of terraced vineyards, ruined castles, apricot orchards,
+  and old riverside towns.
 sources:
 - https://en.wikipedia.org/wiki/Wachau
 title: Wachau
 type: location
 ---
 
-The Wachau is a 30-kilometre stretch of the Danube between [Melk](/europe/austria/melk) and Krems in Lower Austria — one of the most beautiful river valleys in Europe and a UNESCO World Heritage Site since 2000. The landscape is distinctive and immediately recognisable: terraced vineyards climbing steep rocky slopes above the river, ruined medieval castles on nearly every promontory, apricot orchards filling every available flat ground, and picturesque old wine towns pressed between the cliff faces and the water's edge.
+The Wachau is a 30-kilometre stretch of the Danube between [Melk](/europe/austria/melk) and [Krems](/europe/austria/wachau/krems) in Lower Austria — one of the most beautiful river valleys in Europe and a UNESCO World Heritage Site since 2000. The landscape is distinctive and immediately recognisable: terraced vineyards climbing steep rocky slopes above the river, ruined medieval castles on nearly every promontory, apricot orchards filling every available flat ground, and picturesque old wine towns pressed between the cliff faces and the water's edge.
 
 The valley is small enough to explore thoroughly in two days but rich enough to reward a week. By boat from Melk, the scenery arrives at you gradually as the river bends and the castles come into view one after another. By bicycle, the EuroVelo 6 path follows both banks and allows you to stop in every village. [Dürnstein](/europe/austria/wachau/durnstein) is the most visited town, its blue Baroque church tower visible from far upstream and its ruined castle famous as the place where Richard the Lionheart was imprisoned in 1192. [Weissenkirchen](/europe/austria/wachau/weissenkirchen) is arguably more beautiful, its fortified church and wine taverns unchanged since the 16th century.
 

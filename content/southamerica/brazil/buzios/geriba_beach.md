@@ -7,6 +7,7 @@ tags:
   - surfing
 latitude: -22.7702
 longitude: -41.8942
+score: 7.8
 ---
 
 Geribá faces the open South Atlantic, which means waves. It is the main surfing beach in Búzios and consistently attracts the younger crowd who have no interest in calm water. The beach stretches for about two kilometres and is wide enough that even in high season it doesn't feel packed.

@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Zelve_Monastery
 story: >
   Zelve was inhabited continuously from the Byzantine era until 1952, when the Turkish government evacuated the remaining families because the soft volcanic tuff was eroding faster than it could be reinforced. The last residents left knowing they would not return. Their carved homes — with niches for oil lamps, stone platforms for sleeping, carved cupboards and shelves — were simply locked and abandoned, preserved almost by accident in the dry Cappadocian air.
+score: 8.8
 ---
 
 The Zelve Open Air Museum is a UNESCO-listed archaeological site encompassing three narrow valleys cut deep into the volcanic tuff of Cappadocia. It is distinct from the better-known Göreme Open Air Museum in having more of an inhabited character — while Göreme is mainly a collection of decorated churches, Zelve is the complete residue of a living community, with dwellings, stables, storage rooms, cisterns, mills, dovecotes, and workshops all carved from the same soft rock.

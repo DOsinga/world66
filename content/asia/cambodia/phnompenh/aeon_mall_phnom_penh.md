@@ -6,6 +6,7 @@ tags:
 title: AEON Mall Phnom Penh
 type: poi
 snippet: Japanese-anchored shopping mall on the western edge of Koh Pich
+score: 6.7
 ---
 
 The first of three AEON malls in Cambodia and still the most popular weekend destination for middle-class Phnom Penh families. The big draw is the cool air, the ice rink, the cinema and an excellent Japanese supermarket on the ground floor — useful for picking up specialty ingredients, sake, or a familiar snack after weeks on the road.

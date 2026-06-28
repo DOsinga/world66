@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:View_from_Gu%C3%A1nica_Sta
 latitude: 17.9714
 loc_type: city
 longitude: -66.9081
-score: 0.5
+score: 7.69
+snippet: Southern Puerto Rican town beside a rare subtropical dry forest and calm
+  Caribbean beaches
 title: Guanica
 type: location
 ---

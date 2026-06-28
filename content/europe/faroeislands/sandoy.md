@@ -8,6 +8,8 @@ latitude: 61.833388
 loc_type: region
 longitude: -6.72399
 score: 0.53
+snippet: Gentler Faroe Islands island, known for sandy beaches, farmland, and quieter
+  village landscapes.
 title: Sandoy
 type: location
 ---

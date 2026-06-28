@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 28.7867
 longitude: -82.6217
+score: 5.8
 ---
 
 A working seafood wholesaler with a tiki bar bolted on the side: order at the window, sit on a plastic chair under a tin roof, and watch crab boats unload their catch fifteen feet away. The blue crabs are steamed to order with Old Bay; the rest of the menu rotates with what came in that day.

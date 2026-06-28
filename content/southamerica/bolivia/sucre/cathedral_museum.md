@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Religious art and the Virgin of Guadalupe regalia
+score: 8.2
 ---
 
 The Cathedral Museum, entered through a side door on Calle Ortiz around the corner from the main cathedral, holds the religious treasury of Sucre — colonial paintings from the Cuzco and Potosí schools, gold and silver chalices, embroidered vestments, and the gem-encrusted regalia of the Virgin of Guadalupe brought out only for procession. The collection is small but the quality is high; this is some of the best colonial sacred art still in situ in South America.

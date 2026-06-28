@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 Wakefield Town Hall, on Wood Street at the western edge of the centre, is a confident piece of late-Victorian municipal architecture by Thomas Edward Collcutt, the architect of the Imperial Institute in London. The building was opened in 1880 with a stone clock-tower and a single-cell council chamber lit by a high coffered ceiling.

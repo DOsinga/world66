@@ -8,6 +8,7 @@ tags:
   - sport
 latitude: 40.8192
 longitude: -96.7145
+score: 5.0
 ---
 
 Pinnacle Bank Arena, which opened in 2013, is Lincoln's main indoor venue — a 15,000-seat arena that anchors the western edge of the Haymarket District and hosts Cornhuskers basketball, concerts, and touring shows. The building sits directly adjacent to the historic Haymarket brick warehouses in a design that attempted to bridge the old and new, with mixed success architecturally but genuine success at bringing life to the area on event nights.

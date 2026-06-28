@@ -14,6 +14,7 @@ story: >
   storax trees (Liquidambar orientalis) emit a resin that mimics a moth pheromone.
   Signs ask visitors not to clap or shout to make them fly — repeated disturbance
   exhausts the moths and reduces breeding success.
+score: 6.8
 ---
 
 Every summer, a wooded valley in the southwest of Paros fills with moths. The Valley of the Butterflies (Petaloudes) is a cool, shaded gorge where a stream runs down through fig trees, oleanders, and storax — a resin-producing tree found in few places outside the eastern Mediterranean. From July to late August, tens of thousands of Jersey tiger moths cluster on the rocks and tree trunks, turning the valley walls into a living mosaic.

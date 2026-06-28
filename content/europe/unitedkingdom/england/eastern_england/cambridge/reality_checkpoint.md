@@ -8,6 +8,7 @@ latitude: 52.2005
 longitude: 0.1286
 story: >
   "Reality Checkpoint" is a lamppost in the middle of Parker's Piece, a large open common south of the city centre. Cambridge students gave it the name in the 1970s as a jokey acknowledgement that life inside the university bubble — old stone, punts, formal dinners, gowned academics — bears limited resemblance to the world outside it. The lamppost marks the point where you cross from one to the other.
+score: 5.4
 ---
 
 The Reality Checkpoint is an ordinary lamppost that stands at the centre of Parker's Piece, a large open common on the edge of central Cambridge where town and gown famously intermix. The lamppost acquired its informal name as a student in-joke about the transition between the enclosed academic world of the university and the ordinary world beyond it. The name is now painted on the base.

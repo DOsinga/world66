@@ -9,6 +9,7 @@ latitude: -39.93456
 longitude: 175.05180
 story: >
   The Royal Whanganui Opera House was built in 1899 and is one of the best-preserved Victorian theatres in New Zealand. When it opened, Wanganui was prosperous enough to attract touring opera companies from Europe and Australia — the city's wealth from farming and river trade was considerable. The theatre went through periods of use as a cinema, a bingo hall, and a storage facility before being restored to its original function.
+score: 7.3
 ---
 
 The Royal Whanganui Opera House is a beautifully restored 1899 Victorian theatre in the city centre, with a decorated plasterwork interior that is the finest of its kind in New Zealand outside Auckland and Wellington. It seats around 900 people and hosts touring productions, local theatre, concerts, and community events.

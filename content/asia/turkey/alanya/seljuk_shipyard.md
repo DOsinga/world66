@@ -9,6 +9,7 @@ tags:
   - ancient_ruins
 sources:
   - https://en.wikipedia.org/wiki/Alanya_Shipyard
+score: 8.2
 ---
 
 The Tersane is one of a very small number of medieval shipyards anywhere in the world that survives in recognisable condition. Built in 1228, just two years after the Red Tower, it was designed by the same Seljuk sultan, Alaeddin Keykubad I, as part of a coordinated effort to turn Alanya into a naval base that could project power across the eastern Mediterranean.

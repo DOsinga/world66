@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 Albacete's cathedral was begun in 1515 as a parish church, raised to co-cathedral status only in 1949, and finished — in the sense of being finally consecrated — in 1978. The long pause shows: the nave is late-Gothic; the side chapels are baroque; the western façade was patched up in a stripped 20th-century neoclassicism; the bell tower remains a stump.

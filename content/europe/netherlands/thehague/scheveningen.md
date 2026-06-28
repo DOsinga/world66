@@ -6,6 +6,7 @@ longitude: 4.2739
 tags:
   - things_to_do
   - neighbourhood
+score: 7.2
 ---
 
 Scheveningen is the beach resort quarter of The Hague — technically a neighbourhood of the city, but in character a full-scale seaside resort with a long sandy beach, a historic pier, a casino, and a promenade lined with restaurants and cafes. In summer it draws huge crowds from across the western Netherlands; out of season it is quieter and not without charm, with the North Sea crashing in and the wind off the water.

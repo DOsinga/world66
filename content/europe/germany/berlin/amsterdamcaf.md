@@ -10,6 +10,7 @@ tags:
 - prenzlauerberg
 title: Amsterdam Café
 type: poi
+score: 5.6
 ---
 
 A neighbourhood bar on Gleimstrasse in Prenzlauer Berg, a short walk from the Schönhauser Allee U- and S-Bahn station. The kind of place where locals linger over a beer rather than somewhere with a concept. Unpretentious and well-positioned for the surrounding residential streets.

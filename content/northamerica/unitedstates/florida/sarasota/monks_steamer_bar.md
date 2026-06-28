@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Monk's Steamer Bar
 type: poi
+score: 5.4
 ---
 
 A genuine raw bar with a dive-bar atmosphere — oysters, clams, mussels, shrimp, and a decent draft beer selection. Prices are reasonable by Sarasota standards. Pool tables and a dartboard if you want to linger. Not fancy, which is the point.

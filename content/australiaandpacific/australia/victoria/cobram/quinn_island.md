@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - nature
 snippet: "Island in the Murray with red gum forest and short walking tracks"
+score: 6.2
 ---
 
 Quinn Island sits just upstream of Cobram, formed by an old anabranch of the Murray. It's a small reserve of river red gum forest — perhaps half an hour's slow walk — and a good complement to the beach if you want shade and birdsong rather than sun.

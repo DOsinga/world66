@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The former Carmelite monastery, built in 1932 in a sober interwar brick style, stands on the north side of the village just back from the Ee. The Carmelites left in the 1990s and the building has since been converted into apartments and a small hotel, but the complex is still recognisable as a monastery — the chapel, the cloister, and the long arcades are preserved.

@@ -9,6 +9,7 @@ latitude: 25.0736
 longitude: -77.3386
 story: >
   The fort was built in 1793 by Lord Dunmore, the former colonial governor of Virginia who had fled the American Revolution. He shaped it like a paddle steamer, with a bow pointing west and stern pointing east, supposedly because he liked ships.
+score: 6.8
 ---
 
 Sitting atop Bennet's Hill, Fort Fincastle is the smallest of Nassau's three colonial forts but the easiest to reach and offers the best views over the harbour and downtown. Its peculiar paddle-wheel-shaped design is a quirk of Lord Dunmore's taste rather than any tactical genius. The walls are walkable in five minutes; the interior is essentially empty.

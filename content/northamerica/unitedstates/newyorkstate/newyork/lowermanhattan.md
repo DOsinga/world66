@@ -3,11 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.713548
 longitude: -74.005426
+score: 8.6
 snippet: Colonial-era streets where Wall Street meets the harbour
 tags:
 - things_to_do
 - church
 - monument
+- financial_district
 title: Lower Manhattan
 type: poi
 ---

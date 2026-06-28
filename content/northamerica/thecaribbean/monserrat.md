@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Little_Bay,_Montserrat.jpg
 latitude: 16.7425
 loc_type: city
 longitude: -62.1874
-score: 0.58
+score: 7.98
 title: Montserrat
+snippet: Volcanic Caribbean island territory marked by Irish heritage and the buried
+  former capital of Plymouth.
 type: location
 ---
 

@@ -7,6 +7,7 @@ tags:
 title: York Mystery Plays
 type: poi
 snippet: "A cycle of medieval religious dramas performed in York since the 14th century, revived in the 20th and still running"
+score: 7.2
 ---
 
 The York Mystery Plays are a cycle of 48 short plays dramatising Biblical scenes from the Creation to the Last Judgement, written in Middle English and first performed in York in the late 14th century. They were performed annually by the city's trade guilds — each guild responsible for a play related to their craft (the shipwrights did Noah's Ark, the goldsmiths the Magi) — until they were suppressed during the Reformation in 1572. A scholarly revival in 1951 brought them back, and they have been performed at intervals since then, usually in the grounds of the Museum Gardens or at the Minster.

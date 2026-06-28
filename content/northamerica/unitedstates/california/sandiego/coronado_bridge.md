@@ -8,6 +8,7 @@ tags:
 latitude: 32.6934
 longitude: -117.1446
 snippet: A curving 2-mile blue bridge connecting downtown San Diego to Coronado — one of the most dramatic spans in California
+score: 5.8
 ---
 
 The San Diego–Coronado Bridge is a 2.1-mile cable-stayed and box-girder bridge that curves through a 80-degree arc as it crosses San Diego Bay, rising to 200 feet above the water to allow naval vessels to pass beneath. It opened in 1969 and has become the most visually distinctive structure in the city's skyline — visible from Balboa Park, from the Embarcadero, and from the hills of Point Loma.

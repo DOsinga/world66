@@ -4,11 +4,16 @@ done:
   location_cleanup: 2026-04-02
   location_enrich: '2026-05-23'
   poi_cleanup: '2026-04-21'
-image_attribution: Quintin Soloviev
+image: granada.jpg
+image_attribution: Tesla Delacroix
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Alhambra_El_Partal_(cropped)_(cropped).jpg
 latitude: 37.173499
 loc_type: city
 longitude: -3.599534
-score: 0.82
+score: 9.5
+snippet: Historic Andalusian city below the Alhambra, the great surviving palace of
+  Moorish Spain.
 title: Granada
 type: location
 ---

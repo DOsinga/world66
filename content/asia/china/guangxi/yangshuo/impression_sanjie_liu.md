@@ -8,6 +8,7 @@ latitude: 24.8060
 longitude: 110.4780
 story: >
   The show is directed by Zhang Yimou, who also directed the opening ceremony of the 2008 Beijing Olympics. The scale is comparable: 600 performers, a 2-square-kilometre water stage on the Li River, 12 illuminated karst peaks as backdrop, and a cast largely drawn from the ethnic minority villages of the region. Sanjie Liu is a legendary Zhuang singer from local mythology, and the performance weaves her story through Zhuang folk songs, cormorant fishing demonstrations, and sequences of light reflecting off the river that are genuinely spectacular.
+score: 7.9
 ---
 
 Impression Sanjie Liu is the large-scale outdoor night performance that takes place on the Li River about 4 kilometres north of Yangshuo, using the actual karst peaks and river as its stage. Zhang Yimou conceived it as an "environmental performance" — one where the landscape is as much a part of the production as the performers — and the result is unlike anything inside a conventional theatre.

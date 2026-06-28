@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 12.7978
 longitude: 99.9702
+score: 6.4
 ---
 
 The row of open-air seafood restaurants along Ruamchit Road is the heart of eating in Cha-am. Most are simple family-run operations with blue plastic stools, a charcoal grill on the pavement, and a fresh catch display at the front. You point at what you want — whole fish, prawns, crab, clams — and specify grilled, steamed, or fried. The standard accompaniment is sticky rice and a fish sauce-lime dipping sauce. Prices are low by any measure: a full meal for two with beer rarely exceeds 300 baht.

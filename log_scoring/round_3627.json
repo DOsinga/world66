@@ -1,0 +1,200 @@
+{
+  "round": 3627,
+  "timestamp": "2026-06-13T23:08:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 7.999,
+      "prior_variance": 0.21881,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Yangshuo",
+      "path": "asia/china/guangxi/yangshuo",
+      "prior_score": 8.5238,
+      "prior_variance": 0.20751,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 3.5212,
+      "prior_variance": 0.171808,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.7829,
+      "prior_variance": 0.140432,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.3587,
+      "prior_variance": 0.116314,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.0794,
+      "prior_variance": 0.113813,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.1393,
+      "prior_variance": 0.108375,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.4931,
+      "prior_variance": 0.10443,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.8973,
+      "prior_variance": 0.114059,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.7138,
+      "prior_variance": 0.14612,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -1.5953,
+      "prior_variance": 0.107788,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": -1.19,
+      "prior_variance": 0.154362,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": -1.7999,
+      "prior_variance": 0.128561,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -1.3945,
+      "prior_variance": 0.127013,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_score": -2.3061,
+      "prior_variance": 0.105412,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -2.2704,
+      "prior_variance": 0.113185,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -0.9944,
+      "prior_variance": 0.112427,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -2.8862,
+      "prior_variance": 0.116738,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": -0.6443,
+      "prior_variance": 0.124774,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -4.2465,
+      "prior_variance": 0.118236,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -0.9769,
+      "prior_variance": 0.102968,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Eckernf\u00f6rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": -0.3371,
+      "prior_variance": 0.102005,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -2.0111,
+      "prior_variance": 0.141471,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -2.962,
+      "prior_variance": 0.134619,
+      "prior_n": 12
+    }
+  ]
+}

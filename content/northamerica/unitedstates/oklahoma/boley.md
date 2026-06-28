@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:100th_Birthday_Rodeo_%26_B
 latitude: 35.493489
 loc_type: city
 longitude: -96.483611
-score: 0.28
+score: 4.74
+snippet: Central Oklahoma town founded as an all-Black community, with a nationally
+  significant historic district.
 title: Boley
 type: location
 ---

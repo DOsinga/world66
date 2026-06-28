@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2022-07-09_12-19-07_-_Diep
 latitude: 49.924618
 loc_type: city
 longitude: 1.079144
-score: 0.53
+score: 7.88
+snippet: Normandy port town facing England, shaped by ferries, fishing, Channel light,
+  and painterly seaside history.
 title: Dieppe
 type: location
 ---

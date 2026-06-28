@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:USA-2016-Puerto_Rico-San_J
 latitude: 18.46633
 loc_type: city
 longitude: -66.10572
-score: 0.66
+score: 8.96
+snippet: Puerto Rican capital where walled Old San Juan meets Caribbean beaches and
+  massive Spanish fortifications
 title: San Juan
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.7
 ---
 
 The main parish church of Ribeira Grande sits at the head of a long flight of basalt steps rising from the riverside square — a deliberate piece of theatre that makes the eighteenth-century baroque facade feel grander than the building actually is. The twin bell towers, sun-bleached white walls trimmed with dark volcanic stone, and the carved doorway are the standard Azorean church palette done unusually well.

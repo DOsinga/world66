@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 5.8
 ---
 
 A high-rise tower on the edge of Blloku with a revolving bar and restaurant on the top floor. The drinks are unremarkable but the view is outstanding — a full 360-degree circuit of Tirana every hour. On a clear day you can see Mount Dajti to the east and the Adriatic to the west.

@@ -13,6 +13,7 @@ story: >
   the region and had enough wealth and political connections — both with the French
   and with China — to construct something approaching a small palace in one of the
   most inaccessible parts of Vietnam.
+score: 8.1
 ---
 
 The Vuong Family Palace — Dinh Vuong in Vietnamese — is the ancestral home of the H'mong king who ruled the Dong Van plateau under French colonial authority in the early twentieth century. The compound sits in a natural hollow near Dong Van town, partly hidden from view until you are almost upon it, which contributed to its security. The architecture is striking: Chinese courtyard style adapted to the local stone, built around a central hall with thick walls, tiled roofs, and carved wooden beams. The compound covers nearly 1,200 square metres.

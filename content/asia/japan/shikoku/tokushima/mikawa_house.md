@@ -7,6 +7,7 @@ tags:
 - museum
 title: Mikawa House
 type: poi
+score: 6.9
 ---
 
 One of the few surviving Edo-period merchant houses in central Tokushima, the Mikawa-ke residence was built in the late 18th century by an indigo wholesaler. The wooden facade, latticed shop window, and earth-floored entryway are typical of the merchant style of the period, and the rooms behind preserve the family's account books, lacquered chests, and household tools.

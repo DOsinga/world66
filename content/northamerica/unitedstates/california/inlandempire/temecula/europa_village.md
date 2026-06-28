@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wine_country
+score: 6.9
 ---
 
 Europa Village is a themed wine resort that breaks the standard Temecula formula. Instead of one tasting room, there are three separate "villages" — Italian, French, and Spanish — each with its own portfolio of varietals matched to the country, its own restaurant, and its own architectural pastiche.

@@ -8,6 +8,7 @@ tags:
 latitude: 22.2966
 longitude: 73.2015
 snippet: Palatial Gaekwad-era market building on Chamaraja Road, still functioning as a busy bazaar
+score: 7.9
 ---
 
 Built by the Gaekwads in the 19th century and named after one of the Maharajas, Khanderao Market is one of the most architecturally distinguished market buildings in Gujarat — an arched, columned structure that looks more like a palace than a place to buy vegetables. Inside, the market continues to operate much as it has for over a century: textile stalls, spices, jewellery, and fresh produce spread through the vaulted halls.

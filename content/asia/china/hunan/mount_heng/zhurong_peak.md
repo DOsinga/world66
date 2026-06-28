@@ -9,6 +9,7 @@ latitude: 27.2977
 longitude: 112.7057
 story: >
   Zhurong is the god of fire in ancient Chinese mythology and one of the Five Emperors of Heaven. That the highest point of China's Southern Sacred Mountain is named for a fire deity is not accidental — the mountain is associated with the south, and in Chinese cosmology the south is the direction of fire. The Ming-dynasty temple at the summit dedicated to Zhurong is still an active place of worship, and pilgrims who climb here in the early morning sometimes find monks already at prayer.
+score: 9.0
 ---
 
 Zhurong Peak, at 1,300 metres, is the highest of Mount Heng's 72 named summits and the mountain's natural destination. The climb on foot from the lower cable car terminus takes four to five hours through nine named primitive forest zones, passing more than a thousand recorded plant species, some of them extremely rare. The ridge trail is well maintained and well marked; the ascent through old-growth cloud forest is one of the best walks in Hunan.

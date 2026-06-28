@@ -4,6 +4,9 @@ done:
 latitude: 22.3833
 loc_type: feature
 longitude: -81.1167
+score: 6.08
+snippet: Zapata wetlands lake complex with Taíno sculptures, swamp walkways, and a
+  faded Cuban resort feel.
 sources:
 - https://en.wikipedia.org/wiki/Zapata_Swamp
 - https://en.wikipedia.org/wiki/Bay_of_Pigs

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7229
 longitude: 21.2607
+score: 6.8
 ---
 
 The Executioner's Bastion is a well-preserved section of the medieval city walls at the northeastern edge of the old town, dating from the 15th century. The bastion is a semi-circular tower that formed part of the fortifications protecting the city from the east. It takes its name from its traditional association with the city's executioner, who was said to live here — close to the tools of his trade, and conveniently separate from the respectable citizens of the town.

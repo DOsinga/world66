@@ -10,6 +10,7 @@ longitude: 8.1745
 story: "Balestrino's residents were evacuated in 1953 after surveys detected ongoing geological instability beneath the village — slow landslide movement that made the foundations unsafe. They were not moved far, just to a new settlement on the other side of the hill, but the original village was sealed off and has been abandoned for over 70 years. Unlike many Italian ghost villages that emptied through emigration, Balestrino was emptied by government order on safety grounds, which is why it retains its furniture and fixtures."
 sources:
   - https://en.wikipedia.org/wiki/Balestrino
+score: 9.4
 ---
 
 The abandoned medieval village of Balestrino is one of the best-preserved ghost towns in Europe, a walled cluster of stone houses and lanes that has been sealed since 1953 when a government survey found the hillside beneath it to be slowly moving. The residents were relocated to a new village nearby, and the old settlement has been left largely untouched — roofless now, but with walls, doorways, stone steps, and even some interior furniture still in place.

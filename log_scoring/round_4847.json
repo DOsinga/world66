@@ -1,0 +1,200 @@
+{
+  "round": 4847,
+  "timestamp": "2026-06-14T00:46:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 3.5885,
+      "prior_variance": 0.095497,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.5923,
+      "prior_variance": 0.086965,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.7281,
+      "prior_variance": 0.08994,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.2121,
+      "prior_variance": 0.07642,
+      "prior_n": 17
+    },
+    {
+      "rank": 5,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 1.5986,
+      "prior_variance": 0.080817,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.8442,
+      "prior_variance": 0.079361,
+      "prior_n": 17
+    },
+    {
+      "rank": 7,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": 0.2576,
+      "prior_variance": 0.07781,
+      "prior_n": 17
+    },
+    {
+      "rank": 8,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": -1.7243,
+      "prior_variance": 0.125434,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": -0.0115,
+      "prior_variance": 0.079789,
+      "prior_n": 17
+    },
+    {
+      "rank": 10,
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 0.5539,
+      "prior_variance": 0.076702,
+      "prior_n": 17
+    },
+    {
+      "rank": 11,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 0.431,
+      "prior_variance": 0.077182,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -0.319,
+      "prior_variance": 0.084128,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": -0.0791,
+      "prior_variance": 0.086818,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -1.3188,
+      "prior_variance": 0.085294,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -0.9631,
+      "prior_variance": 0.096817,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "St Helens",
+      "path": "australiaandpacific/australia/tasmania/eastcoast/st_helens",
+      "prior_score": -1.8327,
+      "prior_variance": 0.081769,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Yushu",
+      "path": "asia/china/qinghai/yushu",
+      "prior_score": -2.6083,
+      "prior_variance": 0.095898,
+      "prior_n": 17
+    },
+    {
+      "rank": 18,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -2.9688,
+      "prior_variance": 0.083994,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": -0.3175,
+      "prior_variance": 0.084943,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -2.7848,
+      "prior_variance": 0.081143,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.5437,
+      "prior_variance": 0.082811,
+      "prior_n": 17
+    },
+    {
+      "rank": 22,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -2.2334,
+      "prior_variance": 0.087706,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -5.1005,
+      "prior_variance": 0.100293,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -9.0169,
+      "prior_variance": 0.221585,
+      "prior_n": 16
+    }
+  ]
+}

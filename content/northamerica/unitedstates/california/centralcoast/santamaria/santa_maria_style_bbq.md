@@ -14,6 +14,7 @@ story: >
   virtually unknown outside the Santa Maria Valley until the 1950s, when a
   supermarket manager named Bob Shutz started selling it and popularising the
   name.
+score: 8.1
 ---
 
 Santa Maria-style barbecue is one of the oldest regional cooking traditions in California. Tri-tip — a triangular cut from the bottom of the sirloin — is seasoned simply with salt, pepper, and garlic, then grilled over red oak coals to create a smoky, charred exterior with a juicy, pink interior. It is served with pinquito beans (a small, pink variety grown almost exclusively in the valley), fresh salsa, and tortillas or garlic bread.

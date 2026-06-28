@@ -11,6 +11,7 @@ story: >
   bedrock; now, freed of the ice, the land is slowly bouncing back. New islands
   appear, straits become shallows, shallows become meadows. The archipelago is
   literally growing while you visit it.
+score: 9.1
 ---
 
 The Kvarken Archipelago is a UNESCO World Heritage Site straddling the Finnish-Swedish border in the narrowest part of the Gulf of Bothnia, and Vaasa is the main gateway to it on the Finnish side. The archipelago contains more than 5,600 islands, islets, and skerries, many of them low, flat, and marshy — the product of exceptionally rapid post-glacial land rise. Kvarken shares its World Heritage status with the High Coast of Sweden on the opposite shore, the two together forming a textbook case in how landscapes form and change after glaciation.

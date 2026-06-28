@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5730
 longitude: 68.7870
+score: 7.7
 ---
 
 Navruz — the Persian New Year — falls around March 21, the spring equinox, and is the biggest celebration in Tajikistan. Dushanbe's public spaces fill with music, dancing, traditional games, and food. The celebrations at Dousti Square and Kohi Novruz are the most organized; the spontaneous street parties in the parks and residential neighborhoods are often more fun.

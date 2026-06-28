@@ -1,8 +1,8 @@
 ---
 address: Strada Lipscani 55, Bucharest
 latitude: 44.4319
-loc_type: feature
 longitude: 26.1016
+score: 7.2
 snippet: Six-storey "carousel of light" bookshop in a restored 19th-century building
 tags:
 - things_to_do
@@ -10,6 +10,7 @@ tags:
 - shopping
 - old_centre
 title: Cărturești Carusel
+type: poi
 ---
 
 A six-storey white bookshop occupying a meticulously restored 19th-century building on Lipscani street. The space — open in the centre, ringed by spiral staircases and cast-iron columns — is one of the most photographed interiors in Bucharest, regularly turning up on lists of the world's most beautiful bookshops.

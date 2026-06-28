@@ -13,6 +13,7 @@ story: >
   one of the relatively few in northeastern Hungary still standing — and
   serves today as a reminder of the community that was destroyed. The
   congregation that remains is tiny.
+score: 6.6
 ---
 
 The **Nyíregyháza New Synagogue** is an Orthodox Jewish synagogue in the city centre, built in the early 20th century. The building is well-preserved and continues to function as a place of worship, though the congregation is a fraction of what it once was.

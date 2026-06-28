@@ -5,7 +5,9 @@ done:
 latitude: 44.1765
 loc_type: city
 longitude: 8.2684
-score: 0.4
+score: 6.97
+snippet: Small Ligurian village in the Maremola valley, just inland from the Riviera
+  delle Palme.
 title: “Tovo San Giacomo”
 type: location
 ---

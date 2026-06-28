@@ -8,6 +8,7 @@ tags:
   - flon
 title: mudac
 type: poi
+score: 7.0
 ---
 
 The mudac (Musée de design et d'arts appliqués contemporains) is Lausanne's museum of contemporary design, installed in a crisp modern building in the Flon district. The collection covers industrial design, graphic design, jewellery, glass, and ceramics from the 20th century onward, with a rotating programme of temporary exhibitions that tends to be genuinely interesting rather than safe.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips, sight, religious]
 latitude: 43.4406
 longitude: 13.6080
+score: 8.5
 ---
 
 Loreto, fifteen kilometres south of the Riviera, is one of the most important Marian pilgrimage sites in Europe. The Basilica della Santa Casa is built around the small stone house traditionally identified as the home of the Virgin Mary in Nazareth, said to have been carried by angels to Loreto in 1294. The church and its surrounding marble screen are a major work of Bramante, Sansovino, Sangallo and others.

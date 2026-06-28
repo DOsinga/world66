@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg
 latitude: 27.175255
 loc_type: city
 longitude: 78.009816
-score: 0.72
+score: 9.42
+snippet: North Indian city on the Yamuna, home to the Taj Mahal, Agra Fort, and Mughal
+  gardens.
 title: Agra
 type: location
 ---

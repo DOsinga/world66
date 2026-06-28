@@ -1,6 +1,6 @@
 ---
 title: Getting There
-type: poi
+type: section
 ---
 
 Here there is some information about how to get to Himachal Pradesh.

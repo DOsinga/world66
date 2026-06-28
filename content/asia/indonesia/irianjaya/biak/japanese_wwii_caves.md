@@ -13,6 +13,7 @@ story: >
   burned the regimental colours and led a final banzai charge rather than
   surrender. American casualties ran to nearly 3,000; Japanese dead exceeded
   4,700. The caves where this happened are still there, unchanged.
+score: 8.0
 ---
 
 The limestone interior of Biak island is honeycombed with natural cave systems that the Japanese garrison used as fortifications, command posts, and final refuges during the American assault of May to June 1944. Several of these caves are accessible to visitors, most notably the complex known as Goa Jepang (Japanese Cave), located a few kilometres from Biak town along the coastal road.

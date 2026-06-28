@@ -7,6 +7,7 @@ tags:
 - park
 title: Memory Grove Park
 type: poi
+score: 6.9
 ---
 
 Memory Grove Park occupies the lower reaches of City Creek Canyon, a narrow wooded canyon that begins just north of the State Capitol and is one of the few canyons in the Wasatch Range with a road closed to motor vehicles. The park itself, at the canyon entrance, contains war memorials and shaded lawns; the canyon trail above it extends several miles into the mountains.

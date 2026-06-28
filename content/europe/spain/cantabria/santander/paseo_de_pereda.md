@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.4633
 longitude: -3.8080
+score: 8.0
 ---
 
 The Paseo de Pereda is the grand seafront promenade that runs along the bay from the old port to the Jardines de Pereda and the Centro Botín. Lined with handsome early 20th-century buildings, palm trees, and the constant movement of the fishing fleet, ferries, and pleasure craft in the harbour, it is the social spine of Santander — the place where the city takes its evening paseo and where the best views of the bay open up.

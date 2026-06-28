@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.5189
 longitude: 83.0653
+score: 6.8
 ---
 
 A second archaeological site between Lumbini and Tilaurakot, identified with **Nigrodharama** — the Banyan Grove where, according to tradition, the Buddha met his father and other relatives after attaining enlightenment, and ordained his half-brother Nanda and his son Rahula.

@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: 1845 settler church — the oldest stone church in Western Australia
+score: 7.3
 ---
 
 The squat, white-painted Gothic Revival church on Peel Terrace was built between 1844 and 1845 by the early Bussell-family settlers, using local stone and timber. It is the oldest stone-built church still standing in Western Australia, and the surrounding churchyard holds graves of most of the founding pioneer families of the district.

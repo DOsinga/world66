@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Francis_of_Assisi_Ca
 latitude: 35.6876
 loc_type: city
 longitude: -105.9385
-score: 0.65
+score: 8.94
+snippet: Old adobe state capital where Canyon Road galleries and Pueblo history gather
+  around the Plaza.
 title: Santa Fe
 type: location
 ---

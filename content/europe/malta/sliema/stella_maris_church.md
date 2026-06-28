@@ -7,6 +7,7 @@ tags:
 latitude: 35.9120
 longitude: 14.5042
 snippet: Sliema's main parish church, built in neoclassical style and dedicated to Our Lady of the Sea
+score: 6.1
 ---
 
 The principal parish church of Sliema, dedicated to Our Lady of the Star of the Sea, stands on the high ground just back from the promenade. Its neoclassical facade and twin campaniles are a Sliema landmark, and the interior has the ornate confidence typical of Maltese parish churches — gilded altars, paintings, and a ceiling decorated in the baroque tradition.

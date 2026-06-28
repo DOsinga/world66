@@ -9,6 +9,7 @@ latitude: 32.4825
 longitude: 119.9207
 story: >
   The original Wanghai Tower — "Tower for Gazing at the Sea" — stood here because in ancient times, when the coast lay much closer, travellers would climb it to see ships approaching from the Yellow Sea. Today the sea has retreated thirty kilometres east as land reclamation pushed the shoreline outward, but the view from the tower still commands the rooftops of the old town.
+score: 7.1
 ---
 
 Wanghai Tower is the restored centrepiece of the Fengchenghe scenic area, a waterfront district built along an ancient canal in the heart of Hailing District. The tower itself is a multi-storey traditional pavilion in the Tang-Song style, its upturned eaves reflected in the water below. The surrounding park has been landscaped with willows, stone bridges, and small garden pavilions.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.26667
 longitude: -97.39861
 story: "The 21-acre district was added to the National Register of Historic Places in 2007, recognizing a collection of late-19th and early-20th-century commercial buildings that survived when many similar Kansas downtowns were demolished for parking lots and strip malls."
+score: 6.8
 ---
 
 Wellington's downtown historic district covers about 21 acres centered on Washington Avenue and the surrounding blocks. The buildings are mostly late-Victorian and early-20th-century commercial architecture — two- and three-storey brick facades with decorative cornices, arched windows, and the kind of solid construction that railroad-era prosperity paid for.

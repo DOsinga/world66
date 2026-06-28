@@ -9,6 +9,7 @@ tags:
 latitude: 45.0691
 longitude: 7.6932
 story: "Alessandro Antonelli was a serial offender of his own budget — what began in 1863 as a modest synagogue ballooned into the tallest brick building in Europe at 167 metres. The Jewish community handed it back to the city in disgust in 1877, halfway through construction."
+score: 8.3
 ---
 
 The slender brick spire of the Mole is Turin's unmissable landmark, visible from almost any street in the centre and emblazoned on the back of the two-cent euro coin. Begun as a synagogue and finished, decades late, as a monument to national unity, it is now the home of the National Cinema Museum.

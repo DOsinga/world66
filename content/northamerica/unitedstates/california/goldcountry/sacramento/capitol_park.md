@@ -8,6 +8,7 @@ latitude: 38.5764
 longitude: -121.4921
 story: >
   The Vietnam Veterans Memorial in Capitol Park was designed by artist Michael Larsen and dedicated in 1988 — several years before the Vietnam Veterans Memorial in Washington expanded the national conversation about how to honour that war. The Sacramento memorial's inscribed panels list the names of all California soldiers killed in Vietnam, and the approach through a grove of bamboo is quietly devastating.
+score: 7.6
 ---
 
 The 40-acre park surrounding the State Capitol, containing one of the most diverse tree collections of any urban park in California. The plantings were begun in the 1870s with specimens gathered from each of the 50 states and several foreign nations — there are Southern magnolias, giant sequoias, Japanese cherries, and a towering Canary Island date palm that dominates the southeast corner.

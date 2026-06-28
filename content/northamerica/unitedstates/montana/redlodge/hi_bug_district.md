@@ -8,6 +8,7 @@ tags:
 latitude: 45.1931
 longitude: -109.2494
 story: "The locally famous nickname came from working-class miners describing the wealthier merchants and managers who lived on the bluff above town — 'putting on the high bugs', meaning putting on airs. The residents themselves preferred to call the neighbourhood Mountain View. The mocking name stuck."
+score: 7.2
 ---
 
 Six blocks north of the commercial district, Hi Bug is the residential bluff where Red Lodge's coal-era merchants and mine managers built themselves wood-frame houses with deep porches between 1890 and 1915. The streets are quieter than Broadway and the houses are intact: Queen Anne turrets, Foursquare bays, the occasional Craftsman porch, all set on tree-lined gravel drives.

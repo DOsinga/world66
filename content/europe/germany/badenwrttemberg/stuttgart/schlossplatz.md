@@ -15,6 +15,7 @@ story: >
   column survived intact. The city rebuilt around it.
 sources:
   - https://en.wikipedia.org/wiki/Schlossplatz_(Stuttgart)
+score: 6.9
 ---
 
 Schlossplatz is the heart of Stuttgart — a large, open square flanked by the New Palace on the east, the Kunstmuseum on the west, and the old royal gardens (Schlossgarten) stretching north toward the main train station. The central Jubilee Column, erected in 1841, rises above fountains and benches where Stuttgart residents eat lunch and students gather on sunny days.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, beach, sight]
 latitude: 14.0925
 longitude: 74.4810
+score: 7.0
 ---
 
 The beach at Murudeshwar curves below the temple hill with the giant Shiva statue visible above and the Western Ghats rising to the east. It is a working beach as well as a scenic one — fishing boats pulled up on the sand, nets spread out, and the activity of the fishing community most apparent in the early morning and late afternoon.

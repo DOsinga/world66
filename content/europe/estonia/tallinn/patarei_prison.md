@@ -12,6 +12,7 @@ story: >
   Patarei was operational as a prison from 1920 to 2002, making it one of the last Soviet-era prisons in use in post-independence Estonia. During the Soviet occupation it held political prisoners alongside common criminals. After closure, the building stood derelict for years while disputes over its future continued. It opened as a museum in 2018 with minimal restoration — the cells, corridors, and execution room were left largely as found.
 sources:
   - https://en.wikipedia.org/wiki/Patarei_Prison
+score: 8.2
 ---
 
 Patarei is a 19th-century sea fortress turned prison, decommissioned in 2002 after more than 80 years of use and opened to visitors as a dark history museum. The star-shaped fortification on the Kalamaja shore was built by the Russian Imperial Army in the 1820s; the Estonians converted it to a prison after independence in 1920, and the Soviets continued using it through the occupation decades.

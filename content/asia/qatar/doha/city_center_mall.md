@@ -5,6 +5,7 @@ tags:
 - shopping
 title: City Center Mall
 type: poi
+score: 3.8
 ---
 
 The biggest shopping mall in the middle east , containing many international outlets such as Bennetton, Debenhams, Next, Claires & many more shops. At City Center you will find clothes, shoes, accessories and food (in the food court on the upper level) as well as coffee shops dotted around the mall.

@@ -1,22 +1,24 @@
 ---
-title: Fiji
-type: location
-latitude: -18.12397
-longitude: 179.012274
-image: fiji.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Local_Market_with_taro_and_coconuts_(14050766628).jpg
-image_license: CC BY-SA 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/89165847@N00">Michael
-  Coghlan</a> from Adelaide, Australia
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "930,000"
-  Number of Islands: "333"
-  English: "Widely spoken — one of three official languages"
-  Greeting: Bula (said to everyone, everywhere)
-score: 0.72
+image: fiji.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/89165847@N00">Michael
+  Coghlan</a> from Adelaide, Australia
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Local_Market_with_taro_and_coconuts_(14050766628).jpg
+latitude: -18.12397
 loc_type: country
+longitude: 179.012274
+quick_facts:
+  English: Widely spoken — one of three official languages
+  Greeting: Bula (said to everyone, everywhere)
+  Number of Islands: '333'
+  Population: 930,000
+score: 0.63
+snippet: South Pacific archipelago of 333 islands, with reef-fringed coasts, rainforest
+  interiors, and strong cultural traditions.
+title: Fiji
+type: location
 ---
 
 Fiji is an archipelago of 333 islands scattered across the South Pacific, about halfway between New Zealand and Hawaii. Most people come for the beaches, the diving, and the reliably warm weather — and Fiji delivers all of that. But the islands also have a cultural life, a complicated political history, and landscapes that range from coastal reef to interior rainforest.

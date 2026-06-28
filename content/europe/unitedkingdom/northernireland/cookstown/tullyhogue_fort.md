@@ -14,6 +14,7 @@ story: >
   The chair was destroyed in 1602 by Lord Mountjoy during the Elizabethan conquest of Ulster,
   a deliberate act to break the symbolism of O'Neill power. The site itself survived and
   remains one of the most important places in Ulster's pre-plantation history.
+score: 7.4
 ---
 
 Tullyhogue Fort is an Iron Age hillfort about 5 kilometres south of Cookstown that served as the inauguration site of the O'Neill kings of Ulster, the most powerful Gaelic dynasty in Ireland, from the 12th century until the Elizabethan conquest in the early 17th century. The fort consists of two concentric earthwork rings on a hilltop, enclosing a central area where the inauguration ceremonies took place.

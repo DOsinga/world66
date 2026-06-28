@@ -1,9 +1,11 @@
 ---
-title: "Northeast Florida"
-type: location
-loc_type: region
 latitude: 30.1667
-longitude: -81.7500
+loc_type: region
+longitude: -81.75
+snippet: Atlantic Florida region linking Jacksonville, St. Augustine, pine forests,
+  and the St. Johns River basin.
+title: Northeast Florida
+type: location
 ---
 
 Northeast Florida covers the Atlantic coast from the Georgia border south to Daytona Beach, taking in the St. Johns River basin and the flat, pine-forested interior. It is a region of genuine contrasts: [Jacksonville](/northamerica/unitedstates/florida/northeastflorida/jacksonville), the largest city by area in the contiguous United States, anchors the north; while [St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), 50 kilometres to the south, is the oldest European settlement in the country, founded by the Spanish in 1565.

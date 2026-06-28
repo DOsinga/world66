@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:15_novembre_2014._Goma,_No
 latitude: -1.666568
 loc_type: city
 longitude: 29.225652
-score: 0.25
+score: 4.48
+snippet: Lake Kivu city in eastern Congo, built on lava below the Nyiragongo volcano.
 title: Goma
 type: location
 ---

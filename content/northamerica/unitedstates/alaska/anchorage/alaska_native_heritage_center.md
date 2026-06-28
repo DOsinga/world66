@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: Museum and cultural park covering the eleven major Alaska Native cultural groups
 story: "Outside the museum building, the centre has reconstructed traditional dwellings from each of the major cultural regions — Iñupiaq sod house, Yup'ik qasgiq, Athabaskan log house, Unangax barabara. They are not models but full-size buildings, built with traditional methods, and you can walk through them."
+score: 9.2
 ---
 
 The state's best Native cultural museum, set on a wooded site on the east side of the city. The main building covers the language, history, and contemporary art of the eleven major Alaska Native cultural groups — Iñupiaq, Yup'ik, Cup'ik, Aleut, Alutiiq, Athabaskan, Tlingit, Haida, Eyak, Tsimshian, and Unangax. Performances of drumming and dance run several times a day in summer; demonstrations of skin-sewing, carving, and beadwork are in the side galleries.

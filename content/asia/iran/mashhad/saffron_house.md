@@ -4,6 +4,7 @@ type: poi
 latitude: 36.3171
 longitude: 59.5388
 tags: [eating_out, restaurant]
+score: 5.6
 ---
 
 A modern restaurant west of the centre serving creative variations on Khorasani cuisine — saffron-laden rice dishes, lamb slow-cooked with quince, and a small but interesting list of Persian wines and non-alcoholic drinks. The dining room is airy and the prices reasonable for the quality.

@@ -9,6 +9,7 @@ tags:
 - church
 title: Mission San Buenaventura
 type: poi
+score: 7.9
 ---
 
 The ninth and final mission founded by Father Junipero Serra, established in 1782. The church still holds regular services, and the small museum next door has a decent collection of Chumash artifacts and mission-era objects. The garden is quietly impressive. Located right in the heart of downtown at 211 E. Main Street.

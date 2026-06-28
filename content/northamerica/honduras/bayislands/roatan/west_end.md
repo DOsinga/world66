@@ -7,6 +7,7 @@ tags:
 snippet: "Roatán's backpacker and dive-shop strip — sand street, no high-rises"
 latitude: 16.3026
 longitude: -86.5876
+score: 8.5
 ---
 
 West End is the one-kilometre stretch of waterfront village at the island's northwest end — a sand-and-gravel street, no buildings taller than three storeys, lined with dive shops, guesthouses, beach bars, and casual restaurants. It is where most independent travellers stay, where most of the dive operators are based, and where the social life on the island happens after dark.

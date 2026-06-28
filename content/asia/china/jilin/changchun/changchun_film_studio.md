@@ -9,6 +9,7 @@ latitude: 43.8600
 longitude: 125.3000
 story: >
   The first film produced after the Communist Party came to power was made here in 1949 — "Bridge," a propaganda film about workers constructing a railway bridge, which is still used in film schools as an example of how to make socialist realism compelling. The studio produced hundreds of films that shaped the visual imagination of an entire generation of Chinese viewers who had no access to foreign cinema.
+score: 8.2
 ---
 
 The Changchun Film Studio is one of the oldest and most historically important film production facilities in China, established in 1945 after Soviet and then Chinese Communist forces took control of the city. It produced the first films of the People's Republic and was the centre of Chinese cinema production through much of the Maoist period, when all film production was state-controlled and all studios were politically directed.

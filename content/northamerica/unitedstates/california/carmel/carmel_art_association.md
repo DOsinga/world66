@@ -8,6 +8,7 @@ tags:
 - art
 title: Carmel Art Association
 type: poi
+score: 6.8
 ---
 
 Founded in 1927, the Carmel Art Association is the oldest continuously operating artists' cooperative in California. The gallery on Dolores Street represents around 120 member artists, all of whom live or work in the Carmel area, and the work reflects a wide range of approaches — oil and watercolour landscape painting, ceramics, sculpture, printmaking. The emphasis on local artists and local subjects (the Carmel coast, the Big Sur cliffs, the cypress groves) gives the gallery a regional specificity that distinguishes it from the more commercial galleries along Ocean Avenue.

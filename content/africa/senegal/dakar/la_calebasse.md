@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Beachfront Senegalese restaurant on Pointe des Almadies, generous plates"
+score: 5.6
 ---
 
 La Calebasse sits on the rocks at Pointe des Almadies, a short walk from the westernmost point marker — a calm Senegalese restaurant of the sort that does one thing well and slowly. The big plates of *thieboudienne* and *yassa poulet* come out steaming and unrushed; the grilled fish straight from the morning's catch is consistently good.

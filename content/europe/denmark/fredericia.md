@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Danmarks_Port,_Fredericia_
 latitude: 55.5653
 loc_type: city
 longitude: 9.7562
-score: 0.44
+score: 7.1
+snippet: Planned Jutland fortress town encircled by intact star-shaped ramparts and
+  Danish military memory.
 title: Fredericia
 type: location
 ---

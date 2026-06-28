@@ -8,6 +8,7 @@ tags:
 title: Casa Museo Pablo Escobar
 type: poi
 story: "Roberto Escobar — brother of Pablo, and the cartel's chief accountant before serving a prison term — runs the museum out of one of the family properties in El Poblado. Many locals object: opinion in the city is genuinely divided about whether the museum honours, profits from, or critiques the family legacy."
+score: 3.2
 ---
 
 A privately run museum in a former Escobar family property in El Poblado, with photographs, cars, weapons, and personal effects of the cartel boss who terrorised Colombia in the 1980s. Operated by Roberto Escobar, the cartel boss's brother. Most local Medellín opinion considers it deeply uncomfortable narco-tourism; many guides will not visit it.

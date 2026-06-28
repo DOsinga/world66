@@ -9,6 +9,7 @@ tags:
 title: Parish Church of St. Helena
 type: poi
 story: "During the Civil War, the church was commandeered as a Union army hospital — surgeons used the flat stone tomb markers in the churchyard as operating tables, and you can still see knife scars on a few of them."
+score: 7.9
 ---
 
 The Parish Church of St. Helena dates to 1724, making it one of the oldest active churches in the South. The brick exterior, deep porch, and tall white spire are a textbook example of colonial Anglican architecture; inside, the box pews and clear-glass windows have been kept largely as they would have looked in the eighteenth century.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.7
 ---
 
 The **Coronation Memorial Clock Tower** stands in the centre of Kuala Kangsar, on the corner of Jalan Kangsar and Jalan Daeng Selili. A slim octagonal stone tower of three storeys, it was erected in 1937 to mark the coronation of **King George VI** — an unusually elaborate piece of imperial commemoration for a town the size of Kuala Kangsar, reflecting the close ties between the Perak sultanate and the British administration.

@@ -8,6 +8,7 @@ longitude: 43.003611
 story: The dam was completed in 1988 during the Iran-Iraq war and damaged in the
   uprisings that followed. Repaired in the 1990s, it now both supplies the city's
   drinking water and serves as its main place to escape the summer heat.
+score: 5.5
 ---
 
 A 60-metre earth-fill embankment dam on the Duhok River, immediately north of the city. The reservoir behind it stretches several kilometres up the valley and has become Duhok's main weekend outing — picnic spots line the shore, families rent paddle boats, and the road along the western bank is the place to stop for grilled fish and tea as the sun goes down.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.7372
 longitude: 79.2675
+score: 5.9
 ---
 
 Markapur, in the west of the district, is a town built around slate quarries — the dark Cuddapah slate that you see roofing and paving across much of southern India is cut here. The town itself is workaday, but the surrounding country of low hills and dry forest is unexpectedly attractive.

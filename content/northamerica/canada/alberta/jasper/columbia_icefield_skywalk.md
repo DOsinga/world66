@@ -11,6 +11,7 @@ story: The glass floor panels are 1.2 centimetres thick and rated to hold the we
   are standing 280 metres above the Sunwapta Valley floor and watching ravens fly
   past at eye level below you. The first few steps onto the glass take longer for
   some people than others.
+score: 6.7
 ---
 
 Opened in 2014, the Columbia Icefield Skywalk is a glass-floored observation platform cantilevered 280 metres above the floor of the Sunwapta Valley, connected to the main parking area by a walkway that hugs the cliff face. From the viewing deck, the Rocky Mountain panorama extends in every direction — the icefields, the valley, and the winding thread of the Icefields Parkway far below.

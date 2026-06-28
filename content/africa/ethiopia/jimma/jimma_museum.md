@@ -8,6 +8,7 @@ latitude: 7.7010
 longitude: 36.8728
 sources:
   - https://en.wikipedia.org/wiki/Jimma
+score: 7.2
 ---
 
 The Jimma Museum occupies a building within the Aba Jifar Palace compound on the northern hill above the city. Its collection focuses on the Kingdom of Jimma and the broader Oromo culture of the region: royal ceremonial objects, traditional weapons, household artefacts, and items relating to the coffee trade that sustained the kingdom's wealth.

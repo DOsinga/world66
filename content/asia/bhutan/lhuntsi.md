@@ -5,7 +5,9 @@ done:
 latitude: 27.6667
 loc_type: city
 longitude: 91.1833
-score: 0.5
+score: 7.31
+snippet: Remote northeast Bhutan district known for Lhuntse Dzong, Khoma silk weaving,
+  and Wangchuck royal ancestry.
 title: Lhuntsi
 type: location
 ---

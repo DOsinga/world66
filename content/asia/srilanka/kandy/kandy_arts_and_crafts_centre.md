@@ -13,6 +13,7 @@ story: >
   for the palace lost their patronage entirely when the British took Kandy in 1815 and
   disbanded the royal court. The Kandyan Arts and Crafts Association was established in the
   1880s specifically to revive these dying skills and find commercial markets for them.
+score: 6.4
 ---
 
 Near the lake, the Kandyan Arts and Crafts Association showroom displays and sells traditional crafts made by local artisans. The quality is generally higher than the tourist shops on the main street, and the prices are correspondingly fair without being inflated. The lacquerware, hand-beaten silverware, and batik textiles are the best buys; the carved masks have become touristy but the workmanship on the better pieces remains good.

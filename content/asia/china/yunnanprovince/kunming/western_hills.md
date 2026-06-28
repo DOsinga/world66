@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - hiking
+score: 8.4
 ---
 
 The long ridge of the Western Hills rises directly out of the western shore of Dianchi Lake, forming the skyline that closes the Kunming basin to the west. Locals know the silhouette as the Sleeping Beauty — viewed from across the lake, the ridges read as a woman lying on her back with her hair trailing into the water. The hills are part of a 25-square-kilometre forest park with a string of Buddhist and Taoist temples climbing the slopes.

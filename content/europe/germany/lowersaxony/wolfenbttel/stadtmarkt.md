@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.1623
 longitude: 10.5378
+score: 7.8
 ---
 
 The Stadtmarkt is the heart of the old town: a rectangular cobbled square ringed by some of the most striking half-timbered houses in Wolfenbüttel. The 17th-century Bürgermeisterhaus on the south side, with its elaborately carved corner posts and overhanging upper storeys, is the showpiece.

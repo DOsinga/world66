@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferens_Art_Gallery_,_Made_
 latitude: 53.762386
 loc_type: city
 longitude: -0.330121
-score: 0.4
+score: 6.93
+snippet: Humber estuary port city with maritime museums, ferries, and a sturdy east-coast
+  character
 title: Hull
 type: location
 ---

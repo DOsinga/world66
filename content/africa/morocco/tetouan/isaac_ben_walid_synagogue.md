@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5700
 longitude: -5.3672
+score: 7.4
 ---
 
 The principal surviving synagogue of Tetouan's Mellah, founded in the nineteenth century and named for Rabbi Isaac Ben Walid, one of the great Sephardic spiritual authorities of northern Morocco. The interior, painted in pale blue and white, is small and dignified — a women's gallery upstairs, an ark of carved wood, a marble floor.

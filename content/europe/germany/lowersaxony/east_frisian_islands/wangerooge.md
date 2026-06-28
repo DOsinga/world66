@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Strand_von_Wangerooge.jpg
 latitude: 53.783439
 loc_type: city
 longitude: 7.934211
-score: 0.49
+score: 7.51
+snippet: Car-free East Frisian island of dunes and beach, reached by ferry and narrow-gauge
+  railway.
 title: Wangerooge
 type: location
 ---

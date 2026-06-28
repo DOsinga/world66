@@ -13,6 +13,7 @@ story: >
   largest in Maharashtra. The temple's origin as a source site makes it one of the most 
   important Shiva pilgrimage destinations in the Deccan, particularly on auspicious days 
   in the Hindu calendar.
+score: 7.8
 ---
 
 The Old Mahabaleshwar Temple (Panchganga Mandir) is a Hemadpanthi-style temple built of dark stone in the forest 3 km from the modern town, predating the British hill station by several centuries. It marks one of the source points of the Krishna River — one of the major rivers of the Deccan — and is among the holiest sites in Maharashtra for Shiva worship. The British settlers built their hill station around it, carefully excluding the religious area from the cantonment's grid.

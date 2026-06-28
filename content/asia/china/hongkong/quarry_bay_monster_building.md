@@ -1,19 +1,24 @@
 ---
-title: "Quarry Bay 'Monster Building'"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
 latitude: 22.2851
 longitude: 114.2154
-snippet: Five interconnected residential towers whose internal courtyard creates a vertiginous urban canyon
-story: >
-  The five towers — Fook Cheong, Montane Mansion, Oceanic Mansion, Provident Centre, and Yick Cheong —
-  were built separately between 1962 and 1964 but share a common podium and internal courtyard.
-  The result, when viewed from the courtyard looking up, is one of the most dramatic urban vistas in
-  Asia. The building appeared in Transformers: Age of Extinction and several other films, which
-  increased foot traffic but also annoyed residents.
+score: 7.2
+snippet: Five interconnected residential towers whose internal courtyard creates a
+  vertiginous urban canyon
+story: 'The five towers — Fook Cheong, Montane Mansion, Oceanic Mansion, Provident
+  Centre, and Yick Cheong — were built separately between 1962 and 1964 but share
+  a common podium and internal courtyard. The result, when viewed from the courtyard
+  looking up, is one of the most dramatic urban vistas in Asia. The building appeared
+  in Transformers: Age of Extinction and several other films, which increased foot
+  traffic but also annoyed residents.
+
+  '
+tags:
+- things_to_do
+- hongkongisland
+- sight
+- architecture
+title: Quarry Bay 'Monster Building'
+type: poi
 ---
 
 Five interconnected residential towers in Quarry Bay, known collectively as the "Monster Building" or Yick Cheong Building, create one of the most photographed urban canyons in Asia. When viewed from the internal courtyard, the receding tiers of residential blocks, hung with air conditioning units and laundry, stretch up to a rectangle of sky in a composition that has become iconic.

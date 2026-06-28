@@ -9,6 +9,7 @@ latitude: 19.6394
 longitude: -155.9944
 story: >
   Hulihe'e was built in 1838 by Governor John Adams Kuakini, who used lava stone and coral mortar. It was later used as a summer retreat by Hawaiian royalty, including King Kalakaua, who threw lavish parties here while the kingdom was slowly losing its independence. A photograph taken in the 1880s shows the king and his guests on the lanai — it looks like a leisurely afternoon, oblivious to the crisis that would end the monarchy seven years later.
+score: 7.9
 ---
 
 A graceful two-storey building right on Ali'i Drive overlooking the bay, Hulihe'e Palace is the most tangible reminder of the Hawaiian monarchy in Kailua-Kona. Built in 1838 for the island's governor and later used as a royal summer retreat, it now functions as a museum displaying furniture, featherwork, koa wood objects, and personal belongings of the Hawaiian royal family.

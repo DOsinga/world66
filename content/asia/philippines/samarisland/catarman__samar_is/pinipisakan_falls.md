@@ -10,6 +10,7 @@ story: >
   Pinipisakan is a tiered falls — not one drop but a sequence, each level pooling before spilling to the next. The surrounding limestone and secondary forest have kept it cool even at midday, and the pools are cold enough to make you gasp. It is a proper waterfall, not a trickle with a dramatic name, and the trail through the forest to reach it earns the view.
 sources:
   - https://en.wikipedia.org/wiki/Catarman,_Northern_Samar
+score: 7.3
 ---
 
 Pinipisakan Falls lies within reasonable striking distance of central Catarman — the drive and walk together take about an hour each way. The falls are multi-tiered, cascading over limestone rock formations through a pocket of intact forest, with natural pools at the base and between levels that are excellent for swimming. The surrounding vegetation keeps the area shaded and cooler than the surrounding lowlands.

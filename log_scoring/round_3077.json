@@ -1,0 +1,200 @@
+{
+  "round": 3077,
+  "timestamp": "2026-06-13T22:27:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 12.0358,
+      "prior_variance": 0.892747,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_score": 11.0404,
+      "prior_variance": 0.321559,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 9.0052,
+      "prior_variance": 0.210086,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 1.7778,
+      "prior_variance": 0.130624,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.0778,
+      "prior_variance": 0.203085,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.7926,
+      "prior_variance": 0.150395,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 1.7075,
+      "prior_variance": 0.137213,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 0.7061,
+      "prior_variance": 0.141669,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -1.9637,
+      "prior_variance": 0.134769,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -5.2544,
+      "prior_variance": 0.14915,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.8256,
+      "prior_variance": 0.148889,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -6.5118,
+      "prior_variance": 0.229201,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -6.5959,
+      "prior_variance": 0.170416,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -4.4731,
+      "prior_variance": 0.1633,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.6742,
+      "prior_variance": 0.16712,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.5902,
+      "prior_variance": 0.138838,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -5.9681,
+      "prior_variance": 0.145793,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -5.2871,
+      "prior_variance": 0.141979,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -5.3512,
+      "prior_variance": 0.210326,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -5.9981,
+      "prior_variance": 0.168929,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -6.7456,
+      "prior_variance": 0.173721,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -6.9111,
+      "prior_variance": 0.185316,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -7.6444,
+      "prior_variance": 0.209863,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -6.8898,
+      "prior_variance": 0.246847,
+      "prior_n": 10
+    }
+  ]
+}

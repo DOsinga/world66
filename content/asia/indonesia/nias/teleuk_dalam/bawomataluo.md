@@ -14,6 +14,7 @@ tags:
   - sight
 title: Bawomataluo
 type: poi
+score: 9.1
 ---
 
 Bawomataluo — "sun hill" in Nias — is the most spectacular of the traditional villages of South Nias, set on a ridge above Teluk Dalam and reached up a long flight of stone steps. The village is laid out around a long central plaza paved with megalithic stones: polished benches, vertical columns, a stone throne for the chief, and the famous two-metre stone tower used for fahombo, the warrior stone-jumping ritual that is the symbol of Nias culture.

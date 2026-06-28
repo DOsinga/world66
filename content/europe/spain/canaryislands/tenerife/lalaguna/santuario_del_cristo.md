@@ -16,6 +16,7 @@ story: >
   intense for five centuries.
 sources:
   - https://en.wikipedia.org/wiki/Cristo_de_La_Laguna
+score: 7.6
 ---
 
 The Santuario del Cristo de La Laguna is the most important pilgrimage site in the Canary Islands, housing a revered 16th-century carved wooden figure of Christ that draws hundreds of thousands of devotees each year. The sanctuary is a former Augustinian convent church, founded in the 16th century, with a Baroque interior of considerable richness; the main chapel behind the high altar where the Cristo is venerated is covered in elaborate retablo woodwork and hung with votive offerings accumulated over centuries.

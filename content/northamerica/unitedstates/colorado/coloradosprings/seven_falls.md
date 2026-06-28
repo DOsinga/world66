@@ -7,6 +7,7 @@ tags:
 latitude: 38.8080
 longitude: -104.8780
 snippet: Seven-tiered waterfall in a slot canyon south of the city
+score: 6.8
 ---
 
 Seven Falls is a series of seven successive waterfalls in a deep red-rock canyon in the foothills south of Colorado Springs, operated as a private attraction on land owned by the Broadmoor hotel. The canyon narrows to a slot at the base of the falls, and stairs cut into the rock face allow you to climb up alongside the cascades to a platform at the top.

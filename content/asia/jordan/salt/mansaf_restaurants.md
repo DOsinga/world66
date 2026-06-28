@@ -5,6 +5,7 @@ tags:
   - eating_out
 latitude: 32.0358
 longitude: 35.7285
+score: 6.4
 ---
 
 The restaurants clustered around the town centre and the lower souq area serve the kind of food Salt residents eat at home: mansaf (lamb cooked in fermented yoghurt sauce over rice), maqluba (an inverted rice-and-vegetable dish), and grilled meats. The portions are large and the prices are well below Amman. There is nothing experimental about the cooking, which is precisely its merit.

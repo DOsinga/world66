@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -29.8580
 longitude: 31.0186
+score: 8.8
 ---
 
 Officially renamed Dr Yusuf Dadoo Street but still universally called Grey Street, this is the spine of Durban's old Indian quarter and one of the most distinctive streetscapes in the country. Indian traders settled here from the 1870s onwards, and the street is still lined with sari shops, spice merchants, jewellery stores, halal butchers and curry houses serving bunny chow from steel counters.

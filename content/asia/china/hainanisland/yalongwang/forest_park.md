@@ -6,6 +6,7 @@ longitude: 109.6925
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Yalong Bay Tropical Paradise Forest Park rises behind the eastern end of the bay, a 1,500-hectare reserve of subtropical rainforest threaded with glass-bottomed walkways, suspension bridges, and viewing platforms. The headline feature is the Bird's Nest viewing pavilion at the top — the rope bridge and treehouses were used in the 2002 film *Crouching Tiger, Hidden Dragon* and the park has leaned hard on the connection ever since.

@@ -7,6 +7,7 @@ tags:
 - culture
 title: Dayak Villages
 type: poi
+score: 8.0
 ---
 
 The string of Dayak Ngaju villages along the Kahayan upstream from Palangka Raya is the easiest way to see Central Kalimantan's indigenous culture in something close to its original setting. A day-long klotok trip from the city takes in several — wooden stilt houses on the riverbank, the distinctive carved sandung used for the second burial of ancestors, and patches of traditional weaving and rattan work.

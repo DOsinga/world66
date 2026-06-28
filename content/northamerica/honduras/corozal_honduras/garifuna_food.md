@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 15.7803
 longitude: -86.6714
+score: 7.8
 ---
 
 There are no restaurants in Corozal in any formal sense, but if you ask around the village you can find women who cook traditional Garifuna food for travellers. The key dishes are machuca — a thick soup of mashed plantain with coconut milk and fish — hudut, a similar preparation with whole fish and a more complex spice profile, and cassava bread baked on a griddle. These are not tourist adaptations. They are the everyday food of the community.

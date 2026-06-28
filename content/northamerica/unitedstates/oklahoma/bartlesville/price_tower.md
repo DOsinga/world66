@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Price Tower
 type: poi
+score: 8.7
 ---
 
 Price Tower is a 19-story, 67-metre office building at 510 South Dewey Avenue in downtown Bartlesville — the only skyscraper that Frank Lloyd Wright ever completed. Designed in 1952 and opened in 1956, it represents the sole realization of Wright's long-held theory that tall buildings should be built around a central structural core rather than a conventional steel frame.

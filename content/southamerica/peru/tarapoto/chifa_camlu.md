@@ -2,10 +2,15 @@
 accessibility: Wheelchair accessible.  Parking on street difficult, but easy access
   by foot.  One block from Plaza de Armas
 address: 'Jr. Alagria Arias de Morey #139'
+latitude: -6.489
+longitude: -76.3638
 phone: (042) 52-3004
 price: Cheap lunch.  Inexpensive dinner.
+score: 4.2
 tags:
 - eating_out
+- restaurant
+- chifa
 title: Chifa Cam-Lu
 type: poi
 ---

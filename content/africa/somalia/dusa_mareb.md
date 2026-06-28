@@ -5,7 +5,9 @@ done:
 latitude: 5.535591
 loc_type: city
 longitude: 46.383108
-score: 0.14
+score: 1.19
+snippet: Central Somali state capital in Galmudug, a semi-arid interior stop between
+  Mogadishu and Garowe
 title: Dhuusamarreeb
 type: location
 ---

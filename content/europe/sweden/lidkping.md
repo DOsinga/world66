@@ -5,7 +5,9 @@ done:
 latitude: 58.5037
 loc_type: city
 longitude: 13.1576
-score: 0.42
+score: 6.98
+snippet: Small Vänern lakeside city at the mouth of the River Lidan, with an unhurried
+  centre.
 sources:
 - https://en.wikipedia.org/wiki/Lidk%C3%B6ping
 title: Lidköping

@@ -14,6 +14,7 @@ story: >
   to miss if you're not looking for it.
 sources:
   - https://en.wikipedia.org/wiki/Wangerooge
+score: 5.8
 ---
 
 The West Tower (Westturm) stands at the western end of the island, where the original lighthouse used to be before the island's slow eastward drift made the old position obsolete. Built in 1969, it now fulfills the navigational function that the Old Lighthouse can no longer perform from its central position. The tower is not open to visitors but its position at the far western end of the island makes the walk there worthwhile.

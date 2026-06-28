@@ -6,6 +6,7 @@ longitude: 78.0104
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 Akbar's Church, also called the Catholic Church of the Mother of God or the Akbari Church, is the oldest church in northern India. Akbar invited Jesuit missionaries from Goa to his court in 1580 and gave them permission to build a church in Agra; the original structure was destroyed and rebuilt several times, most recently in 1772.

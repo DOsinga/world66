@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Historic rack-railway that climbs steeply from the station district to hilltop Granarolo
+score: 7.1
 ---
 
 Despite being called a funicular by everyone including its operators, the Principe-Granarolo line is technically a rack railway — it uses a cog system to climb the steep hillside above the Principe train station. It was opened in 1901 and gives access to the hilltop neighbourhood of Granarolo, with views back over the port and the city below.

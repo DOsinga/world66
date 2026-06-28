@@ -14,6 +14,7 @@ story: >
   Delicias. Within a decade he had created an industry. By the 1940s Taxco had
   more silversmiths than any town in Mexico, and nearly all of them had learned
   their trade from Spratling or from someone who had.
+score: 7.8
 ---
 
 William Spratling was an American architect and writer from New Orleans who came to Taxco in the late 1920s and ended up transforming it. Before Spratling, the town's silver trade had largely collapsed. He recognized that pre-Hispanic forms and indigenous craftsmanship could be combined with modern design sensibility to create something new, and he set about proving it. The museum dedicated to him occupies a colonial building near the church and tells both sides of his work: the man and the craftsman.

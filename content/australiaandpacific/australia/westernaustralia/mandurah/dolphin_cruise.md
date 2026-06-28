@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "The estuary's resident dolphin population — usually about a hundred animals — is one of the few in Australia that lives full-time inside a coastal estuary. Researchers have given many of them names and follow them by their distinctive dorsal fin markings."
+score: 7.5
 ---
 
 A canal-and-dolphin cruise is the standard introduction to Mandurah. Several operators run one- and two-hour trips from the marina jetties, taking small motor cruisers through the canal network and out into the open estuary. The boats are flat-decked and easy to board, and skippers narrate the local history along the way.

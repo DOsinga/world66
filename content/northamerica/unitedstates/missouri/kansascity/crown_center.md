@@ -8,6 +8,7 @@ tags:
 - family
 title: Crown Center
 type: poi
+score: 5.8
 ---
 
 Crown Center is a large mixed-use complex developed by Hallmark Cards — whose world headquarters is on the site — in the southern part of downtown. The complex includes hotels, restaurants, shops, a science museum for children (Wonderscope), and the Hallmark Visitors Center, which offers a behind-the-scenes look at the history of America's most famous greeting card company and holds a small collection of Dalí paintings (Hallmark commissioned art from Dalí in the 1950s for a series of Christmas cards).

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A
 latitude: 19.0414
 loc_type: city
 longitude: -98.2063
-score: 0.64
+score: 8.52
+snippet: Colonial Mexican city of tiled churches and mole poblano, framed by Popocatépetl
+  and Iztaccíhuatl.
 title: Puebla
 type: location
 ---

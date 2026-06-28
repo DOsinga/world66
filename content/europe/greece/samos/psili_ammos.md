@@ -6,6 +6,7 @@ longitude: 27.0200
 tags:
   - beaches
   - sight
+score: 6.4
 ---
 
 A shallow sand bay on the south-east coast, looking directly across the narrow strait at the Turkish mountains — barely a kilometre and a half away at the closest point. "Psili Ammos" means "fine sand" and the name is accurate; this is one of the very few proper sand beaches on Samos.

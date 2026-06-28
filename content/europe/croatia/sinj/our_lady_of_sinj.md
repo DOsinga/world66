@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The icon was carried to Sinj by Franciscan friars fleeing the Ottoman advance in 1687. When the Ottomans returned in 1715 and besieged the town with 60,000 troops against perhaps 700 defenders, the garrison prayed before the painting and held out. Within days the besiegers retreated, and Our Lady of Sinj has been credited with the miracle ever since."
+score: 7.8
 ---
 
 The Franciscan church and monastery in the centre of town house the most venerated icon in Dalmatia: a 16th-century painting of the Madonna and Child known as Gospa Sinjska, Our Lady of Sinj. Pilgrims come year-round, but the great pilgrimage is on 15 August, the Feast of the Assumption, when the icon is carried in procession through the streets.

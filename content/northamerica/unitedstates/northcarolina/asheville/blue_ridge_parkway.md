@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The parkway was a Depression-era make-work scheme begun in 1935 and not finally completed until 1987 — a fifty-two-year construction effort interrupted by World War Two and the Linn Cove Viaduct, a curving concrete bridge so complicated it took seven years to design and build."
+score: 9.1
 ---
 
 The Blue Ridge Parkway is one of the great American road trips: 469 miles of two-lane road running along the crest of the southern Appalachians from Shenandoah National Park in Virginia to the Great Smoky Mountains in North Carolina. Asheville sits roughly in the middle and is the largest town anywhere on the route.

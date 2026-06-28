@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: One of the longest, steepest and fastest commercial zip lines in the world
+score: 5.5
 ---
 
 A 1.8-kilometre cable strung between two ridges above Pokhara, dropping 600 metres and reaching speeds of 120 kilometres an hour — by several measurements, the longest, steepest and fastest commercial zip-line on earth. The launch is near the Sarangkot road; the landing is in the valley below.

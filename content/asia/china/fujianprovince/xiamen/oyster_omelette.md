@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 24.4600
 longitude: 118.0755
+score: 6.8
 ---
 
 The Xiamen oyster omelette (蚵仔煎, háo chī in Hokkien) is a fried pancake of small oysters bound with sweet potato starch and egg, cooked on a flat iron griddle until the starch goes translucent and slightly sticky at the edges while the egg crisps. It is one of the foundational street foods of the Hokkien diaspora — variations of the same dish appear in Taiwan, Singapore, Malaysia, and Indonesia, all carried there by Fujian emigrants.

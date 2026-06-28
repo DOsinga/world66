@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.0200
 longitude: 101.3900
+score: 5.9
 ---
 
 The hot springs outside Guide town have been used by local people for generations and now attract visitors from Xining, particularly in the colder months when the warm water has obvious appeal. The springs emerge at temperatures suitable for bathing and feed into a small resort complex a few kilometres from the town centre, where private pool bathing and some communal soaking facilities are available at modest prices.

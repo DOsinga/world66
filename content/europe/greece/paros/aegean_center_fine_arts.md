@@ -8,6 +8,7 @@ tags:
   - gallery
 latitude: 37.0847
 longitude: 25.1486
+score: 5.8
 ---
 
 The Aegean Center for the Fine Arts has occupied a neoclassical mansion in Parikia since 1966, offering semester-long residency programmes for artists, writers, and musicians. It is not a conventional gallery — it is a working arts school — but the centre does stage occasional exhibitions and events that are open to the public.

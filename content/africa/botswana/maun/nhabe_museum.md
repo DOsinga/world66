@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -19.9993
 longitude: 23.4197
+score: 6.6
 ---
 
 The Nhabe Museum is Maun's small but worthwhile community museum, housed in a building in the centre of town. It covers the history and culture of the BaTawana people, who have inhabited the Okavango region for centuries and whose decisions shaped Moremi Game Reserve into existence. The exhibits include traditional crafts, tools, clothing, and photographs documenting life in the delta communities before tourism transformed the economy.

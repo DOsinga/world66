@@ -11,6 +11,7 @@ story: >
   on which angle you approach from; from the north it is unmistakable. The
   stone has been a landmark for hikers in the region for generations and its
   summit was once used as a surveying point for early maps of the serra.
+score: 7.7
 ---
 
 One of the most recognisable natural landmarks in the Nova Friburgo area, a distinctive rock formation whose profile resembles a seated dog when seen from the valley. The peak stands at around 2,100 metres and is reachable on foot via trails from the district of Campo do Coelho, a hike of moderate to strenuous difficulty that passes through Atlantic Forest and offers views that expand dramatically as you climb.

@@ -7,6 +7,7 @@ tags:
 latitude: 52.3090
 longitude: -114.0970
 snippet: "Sailing, waterskiing, kayaking, and paddleboard rentals on the lake"
+score: 6.9
 ---
 
 Sylvan Lake is large enough and usually warm enough to support proper water sports. Several rental operators along the waterfront offer kayaks, paddleboards, pedal boats, and motorised craft in summer. Waterskiing and wakeboarding are popular — the lake is calm enough most mornings for good conditions, though afternoons can get choppy.

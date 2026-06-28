@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.5972
 longitude: 75.9858
+score: 4.9
 ---
 
 The Chamera Dam, a concrete gravity dam across the Ravi some 20 km north-west of Khajjiar, has created a long, narrow reservoir that snakes between forested hills. It is an easy half-day trip from Khajjiar by taxi, often combined with [Dalhousie](/asia/india/himachalpradesh/dalhousie).

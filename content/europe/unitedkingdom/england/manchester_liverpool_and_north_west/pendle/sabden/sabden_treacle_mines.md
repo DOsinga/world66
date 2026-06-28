@@ -7,6 +7,7 @@ tags:
 latitude: 53.8368
 longitude: -2.336
 story: "Sabden's \"treacle mines\" are a local joke that has been told straight-faced for generations — bottled treacle was supposedly the village's main industry, refined from the rich soil of Pendle. The story has appeared in local guidebooks and folklore collections, and Sabden has played up the tradition with treacle-themed sweets and souvenirs."
+score: 5.6
 ---
 
 The Sabden Treacle Mines are entirely fictional, but they are a defining piece of Sabden character. The village has leaned into the joke with treacle toffee and other novelties sold in local shops, and the mines turn up in pub names and signs around the area.

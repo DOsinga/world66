@@ -1,200 +1,200 @@
 {
   "round": 1171,
-  "timestamp": "2026-04-12T22:13:16",
+  "timestamp": "2026-06-13T20:15:12",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Calitri",
-      "path": "europe/italy/campania/calitri",
-      "prior_rank": 7517,
-      "prior_wins": 11,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 17.0516,
+      "prior_variance": 0.813601,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Agadez",
-      "path": "africa/niger/agadez",
-      "prior_rank": 7798,
-      "prior_wins": 11,
-      "prior_n": 4
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 9.3126,
+      "prior_variance": 0.711649,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Fullerton",
-      "path": "northamerica/unitedstates/california/fullerton",
-      "prior_rank": 5283,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 7.997,
+      "prior_variance": 0.488469,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Wrzesnia",
-      "path": "europe/poland/wrzesnia",
-      "prior_rank": 7342,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -0.389,
+      "prior_variance": 0.386339,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Sabden",
-      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/sabden",
-      "prior_rank": 7291,
-      "prior_wins": 13,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.9497,
+      "prior_variance": 0.454267,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Kabli",
-      "path": "europe/estonia/kabli",
-      "prior_rank": 7419,
-      "prior_wins": 12,
-      "prior_n": 3
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -4.6302,
+      "prior_variance": 0.406097,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Perm",
-      "path": "europe/russia/perm",
-      "prior_rank": 4357,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -6.0687,
+      "prior_variance": 0.452945,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Voronezh",
-      "path": "europe/russia/voronezh",
-      "prior_rank": 7690,
-      "prior_wins": 9,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_score": -5.7351,
+      "prior_variance": 0.423778,
       "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Elmira",
-      "path": "northamerica/unitedstates/newyorkstate/elmira",
-      "prior_rank": 7702,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -5.8477,
+      "prior_variance": 0.414455,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Porter",
-      "path": "northamerica/unitedstates/indiana/porter",
-      "prior_rank": 6850,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -6.5348,
+      "prior_variance": 0.413051,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Ponca City",
-      "path": "northamerica/unitedstates/oklahoma/ponca_city",
-      "prior_rank": 7646,
-      "prior_wins": 10,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -5.2617,
+      "prior_variance": 0.391011,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Grande Prairie",
-      "path": "northamerica/canada/alberta/grande_prairie",
-      "prior_rank": 6855,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -5.8251,
+      "prior_variance": 0.413923,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Resolute",
-      "path": "northamerica/canada/nunavut/resolute",
-      "prior_rank": 7867,
-      "prior_wins": 5,
-      "prior_n": 2
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -8.2333,
+      "prior_variance": 0.449591,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Wamic",
-      "path": "northamerica/unitedstates/oregon/wamic",
-      "prior_rank": 7989,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -6.7851,
+      "prior_variance": 0.414867,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Lubango",
-      "path": "africa/angola/lubango",
-      "prior_rank": 6758,
-      "prior_wins": 17,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -6.0481,
+      "prior_variance": 0.434576,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Niamey",
-      "path": "africa/niger/niamey",
-      "prior_rank": 8001,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -6.6975,
+      "prior_variance": 0.381978,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Asyut",
-      "path": "africa/egypt/asyut",
-      "prior_rank": 6866,
-      "prior_wins": 11,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Darkhan",
-      "path": "asia/mongolia/darkhan",
-      "prior_rank": 7214,
-      "prior_wins": 15,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_score": -3.0624,
+      "prior_variance": 0.303886,
       "prior_n": 4
     },
     {
+      "rank": 18,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -8.2199,
+      "prior_variance": 0.568573,
+      "prior_n": 3
+    },
+    {
       "rank": 19,
-      "title": "Karagandy",
-      "path": "asia/kazakhstan/karagandy",
-      "prior_rank": 7157,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -8.1321,
+      "prior_variance": 0.556738,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Kita",
-      "path": "africa/mali/kita",
-      "prior_rank": 7857,
-      "prior_wins": 5,
-      "prior_n": 2
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -7.5708,
+      "prior_variance": 0.685723,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Sudhnoti",
-      "path": "asia/pakistan/azad_kashmir/rawalacoat/sudnooti",
-      "prior_rank": 7724,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.646,
+      "prior_variance": 0.410193,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Depok",
-      "path": "asia/indonesia/java/depok",
-      "prior_rank": 7199,
-      "prior_wins": 14,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -10.1544,
+      "prior_variance": 0.598694,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Karimnagar",
-      "path": "asia/india/andhrapradesh/karimnagar",
-      "prior_rank": 6845,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -16.0005,
+      "prior_variance": 0.988015,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "vascauti",
-      "path": "europe/romania/bucharest/vascauti",
-      "prior_rank": 7708,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -6.9098,
+      "prior_variance": 0.467795,
+      "prior_n": 3
     }
   ]
 }

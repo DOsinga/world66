@@ -9,6 +9,7 @@ type: poi
 snippet: "Go-kart track under palm trees with camels, beach buggies, and kids' rides"
 latitude: -3.9943
 longitude: 39.7063
+score: 5.2
 ---
 
 Mombasa Motorsport Arena is one of the more unusual go-kart tracks in the world — you drive under palm trees while camels and donkeys watch from the sidelines. The Swiss-made karts are well maintained and fast, with remote-controlled speed governors so kids can race safely. An off-road beach buggy track rounds out the motorsport options.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 7.8
 ---
 
 A suite of six rooms on the floor below the Raphael Rooms, decorated for the Borgia pope Alexander VI by Pinturicchio and his workshop between 1492 and 1494. After Alexander's death, the rooms were closed off — the Borgia name had become so toxic that subsequent popes preferred not to live in their predecessor's chambers — and they remained largely sealed for centuries.

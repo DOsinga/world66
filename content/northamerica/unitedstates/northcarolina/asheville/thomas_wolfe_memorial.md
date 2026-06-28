@@ -8,6 +8,7 @@ tags:
   - museum
   - historic_house
 story: "After 'Look Homeward, Angel' was published in 1929, Asheville locals were so furious at being recognisably depicted in its pages that the book was banned from the public library for seven years and Wolfe stayed away from the city for nearly a decade."
+score: 7.1
 ---
 
 The big yellow boarding house at 52 North Market Street was run by Thomas Wolfe's mother, Julia, between 1906 and 1916. Her son later turned the house, and the people who passed through it, into the fictional Dixieland of his first novel, *Look Homeward, Angel*. It is one of the most thinly disguised settings in American fiction, and the house itself was kept largely intact after his death.

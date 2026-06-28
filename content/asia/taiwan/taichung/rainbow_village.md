@@ -2,7 +2,12 @@
 category: Sight
 latitude: 24.1518
 longitude: 120.6105
+score: 6.9
 snippet: Vibrant folk-art murals by a retired soldier
+tags:
+- things_to_do
+- sight
+- art
 title: Rainbow Village
 type: poi
 ---

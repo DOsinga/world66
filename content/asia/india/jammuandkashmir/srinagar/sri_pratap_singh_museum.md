@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.0883
 longitude: 74.7950
+score: 7.8
 ---
 
 The main museum of Kashmir, located at Lal Mandi on the road between the city centre and the Residency area. The building was originally the summer palace of the Dogra Maharajas and became a museum in 1898 under Maharaja Pratap Singh, for whom it is named. The collection spans Kashmiri material culture across many centuries: pashmina shawls, costumes, metalwork, jewellery, arms and armour, paintings, stone sculptures from the medieval period, and a remarkable needlework map of Kashmir embroidered on a shawl from the 18th century.

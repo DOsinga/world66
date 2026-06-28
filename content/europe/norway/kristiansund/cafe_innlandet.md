@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 63.1044
 longitude: 7.7348
+score: 4.7
 ---
 
 A small café on the Innlandet island, close to the Klippfiskmuseet warehouse, that serves coffee and light lunches in an unhurried setting. The location on the older island means it draws as many locals popping in after the ferry as it does museum visitors — a good sign. Simple sandwiches, baked goods, and decent Norwegian coffee.

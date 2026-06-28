@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 37.2403
 longitude: -96.9964
+score: 7.4
 ---
 
 Winfield's Main Street between 8th and 11th has held on to its late-nineteenth-century character better than most Kansas county seats. The Cowley County National Bank Building, the Winfield National Bank Building, and the Pettit Cleaners Building are all on the National Register and visible from a single corner.

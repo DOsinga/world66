@@ -14,6 +14,7 @@ story: >
   quality, and ceremonial record. The most celebrated resident in recent decades was
   Guruvayur Kesavan, who died in 1976 and is commemorated by a life-size bronze
   statue at the sanctuary entrance.
+score: 5.8
 ---
 
 The Guruvayur Temple's elephant sanctuary, set on the grounds of a former palace about 3 km from the famous Guruvayur Krishna Temple (27 km from Thrissur city centre). The sanctuary houses around 60 elephants — the largest captive elephant population at any temple in India — in a wooded compound of 11.5 acres. The elephants are used in the elaborate processions at the Guruvayur Temple and other major temples across Kerala.

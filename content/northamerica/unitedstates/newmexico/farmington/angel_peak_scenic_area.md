@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.5766
 longitude: -107.8789
+score: 7.3
 ---
 
 About 35 miles southeast of Farmington, Angel Peak rises nearly 7,000 feet above the surrounding Kutz Canyon badlands — a sandstone spire that dominates a landscape of eroded gullies, mesas, and strange coloured formations. The BLM manages the area as a scenic area rather than a wilderness, so there's a basic campground and a short paved road to overlooks.

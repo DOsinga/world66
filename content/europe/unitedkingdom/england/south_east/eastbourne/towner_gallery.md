@@ -9,6 +9,7 @@ tags:
 snippet: A striking modernist gallery with a strong British art collection and ambitious temporary exhibitions
 sources:
   - https://en.wikipedia.org/wiki/Towner_Eastbourne
+score: 8.2
 ---
 
 The Towner is one of the better regional art galleries in England, housed in a purpose-built modernist building near the railway station that opened in 2009. The permanent collection focuses on 20th-century British art, with particular strength in Eric Ravilious — the Sussex-born artist whose wood-engravings and watercolours of the English landscape remain some of the most loved works in British art. The Towner holds the largest public collection of Ravilious in the country.

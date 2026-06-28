@@ -15,6 +15,7 @@ story: >
   some still remarkably intact — have been left in place. A Norwegian doctor who
   operated from Hesteyri in the early 20th century is buried in the small churchyard;
   the church is still occasionally used for summer services.
+score: 8.6
 ---
 
 Hesteyri is the most accessible settlement in the Hornstrandir nature reserve — a ghost village at the head of a fjord that can be reached by day-trip boat from Ísafjörður in about an hour. The village, abandoned in the 1950s, still has standing structures including a former herring factory and several farmhouses. A small café operates here in July and August, using produce from the surrounding land.

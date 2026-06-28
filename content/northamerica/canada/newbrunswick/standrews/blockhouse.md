@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/St._Andrews_Blockhouse
+score: 7.5
 ---
 
 The squat wooden blockhouse at the western end of Water Street is one of the few surviving examples of its kind in North America. Built in 1813 during the War of 1812, it was meant to defend the town against American raids; in the event the war ended without an attack on St. Andrews, and the building was repurposed as a coastguard station before being preserved as a National Historic Site.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Salvador Dalí, who grew up just down the coast in Cadaqués, drew heavily on the cape's strange wind-sculpted rocks for the melted landscapes of his paintings. The boulders of the Pla de Tudela, in particular, were the model for the rock formations in The Persistence of Memory.
+score: 9.1
 ---
 
 The Cap de Creus is the easternmost point of mainland Spain — a windswept, treeless headland of folded schist and granite that ends in a lighthouse perched above the sea. The 14,000-hectare natural park covers both the cape and the marine zone around it, with footpaths through scrub and along the clifftops to a string of empty coves.

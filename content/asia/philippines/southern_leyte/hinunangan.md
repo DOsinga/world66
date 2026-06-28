@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Pablo_Island_Hinunanga
 latitude: 10.39404
 loc_type: city
 longitude: 125.200194
-score: 0.4
+score: 6.24
+snippet: Southern Leyte coastal town facing the Pacific, with Tahusan Beach and offshore
+  coral islands
 title: Hinunangan
 type: location
 ---

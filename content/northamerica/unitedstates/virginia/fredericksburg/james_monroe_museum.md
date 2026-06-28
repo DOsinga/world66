@@ -8,6 +8,7 @@ latitude: 38.3025
 longitude: -77.4616
 sources:
   - https://en.wikipedia.org/wiki/James_Monroe_Museum_and_Memorial_Library
+score: 7.0
 ---
 
 The James Monroe Museum and Memorial Library occupies the small building on Charles Street where Monroe operated his law practice from 1786 to 1789, between his time in the Continental Congress and his election to the US Senate. Monroe lived in Fredericksburg on and off for much of his early career, and his wife Elizabeth was from the area.

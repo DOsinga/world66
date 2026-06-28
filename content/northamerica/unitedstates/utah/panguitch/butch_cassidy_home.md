@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 37.8214
 longitude: -112.4349
+score: 6.5
 ---
 
 Robert LeRoy Parker — the man who would become Butch Cassidy — was born in Beaver, Utah, but grew up in Circleville, about 25 miles south of Panguitch, where the Parker family homestead still stands. It is a modest two-room cabin, preserved but unadorned, on the edge of a small ranch. Cassidy left this valley as a teenager, heading north to work the cattle ranges where he fell in with rustlers and outlaws and eventually formed the Wild Bunch.

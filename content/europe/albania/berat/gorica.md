@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.703
 longitude: 19.944
+score: 7.9
 ---
 
 Gorica is the Christian quarter on the far bank of the Osum River, reached by the 18th-century Gorica Bridge — a graceful stone span that is one of the symbols of the town. The neighbourhood is quieter and less visited than Mangalem and has a slightly different character: older, more Ottoman in feel, with a mix of residential houses and small churches tucked among orchards and garden plots.

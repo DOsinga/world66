@@ -13,6 +13,7 @@ story: >
   bricks were laid without mortar, cemented by a vegetable resin still not fully identified
   by researchers. The towers have survived nearly a thousand years of tropical weather with
   barely a crack, while modern concrete structures nearby have crumbled in decades.
+score: 8.1
 ---
 
 The Banh It towers rise from a low hillock about 20 kilometers northwest of Qui Nhon, four Cham structures in varying states of preservation standing on a ridge above the coastal plain. They are among the better-preserved Cham monuments in Binh Dinh province, and the setting — isolated, overgrown, without the souvenir stalls that surround the more famous towers at My Son — gives them a particular quality.

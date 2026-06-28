@@ -1,5 +1,8 @@
 ---
 address: 20/5 Poolsuk Rd, Hua Hin, Prachaubkirikhan, 77110
+latitude: 12.5701
+longitude: 99.9582
+score: 5.2
 tags:
 - eating_out
 - restaurant

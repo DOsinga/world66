@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:00_5555_%C3%85lesund_-_Nor
 latitude: 62.4722
 loc_type: city
 longitude: 6.1549
+score: 8.98
+snippet: Norwegian Art Nouveau port rebuilt after the 1904 fire on islands at the
+  mouth of fjord country.
 sources:
 - https://en.wikipedia.org/wiki/%C3%85lesund
 - https://en.wikivoyage.org/wiki/%C3%85lesund

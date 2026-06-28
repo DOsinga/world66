@@ -8,6 +8,7 @@ tags:
   - sight
   - lake
   - birding
+score: 7.2
 ---
 
 The shallowest and least-visited of the five lakes, lying west of the town. Cheleleka is more wetland than lake — broad, marshy, and seasonal. In recent decades it has dried back significantly during the dry months, and in some years has nearly disappeared altogether.

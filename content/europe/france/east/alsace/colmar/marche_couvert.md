@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - market
 - sight
+score: 7.1
 ---
 
 Colmar's covered market is housed in a handsome red-brick 19th-century hall on the Quai de la Poissonnerie, restored in 2010 after years of neglect. The two-dozen stalls inside concentrate on Alsatian specialities — charcuterie, cheeses (especially Munster), bredele biscuits, smoked sausages, sauerkraut by the kilo — and the city's best fresh produce.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kramfors,_Sweden_-_panoram
 latitude: 62.9333
 loc_type: city
 longitude: 17.8
-score: 0.37
+score: 6.35
+snippet: Ångermanland mill town on the Ångermanälven, used as a base for Sweden's
+  High Coast.
 title: Kramfors
 type: location
 ---

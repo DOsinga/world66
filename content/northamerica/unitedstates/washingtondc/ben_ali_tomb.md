@@ -9,6 +9,7 @@ latitude: 38.9099
 longitude: -76.9705
 story: >
   Among the museum's bonsai is a Japanese white pine that was being cultivated in Hiroshima in 1945 and survived the atomic bomb. The Yamaki family, who had been growing the tree for generations, donated it to the United States as a bicentennial gift in 1976 — more than 30 years after the bombing. The tree is now nearly 400 years old.
+score: 7.6
 ---
 
 The National Bonsai and Penjing Museum at the US National Arboretum holds a collection of over 150 miniature trees, some of them centuries old. The museum is divided into three pavilions — Japanese bonsai, Chinese penjing, and North American bonsai — and the outdoor display areas are arranged as formal garden spaces.

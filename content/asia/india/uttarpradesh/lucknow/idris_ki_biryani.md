@@ -8,6 +8,7 @@ tags:
 neighbourhood: Chowk
 latitude: 26.8755
 longitude: 80.9148
+score: 6.8
 ---
 
 Idris ki Biryani is the most discussed biryani address in Lucknow — a small, basic shop in Raja Bazaar that has been producing one dish, in one style, for several decades. The **mutton biryani** here is the long-grain Awadhi kind: layered with marinated mutton in a sealed handi, slow-cooked over coals, opened at the table for steam and aroma to escape. The rice stays separate; the meat is fall-apart soft.

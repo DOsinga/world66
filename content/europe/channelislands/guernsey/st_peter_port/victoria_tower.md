@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.4581
 longitude: -2.5428
+score: 5.9
 ---
 
 Victoria Tower is a slender neo-Gothic monument erected in 1848 to commemorate Queen Victoria and Prince Albert's visit to Guernsey two years earlier. It rises above the town on a slight hill, visible from the harbour and from the lanes below. It is less a conventional tower — you cannot go inside — than a public monument in the grand Victorian style, built in local granite and positioned to be seen.

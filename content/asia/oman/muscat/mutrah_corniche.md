@@ -7,6 +7,7 @@ snippet: Sunset promenade along Muscat's old harbour
 tags:
 - things_to_do
 - landmark
+score: 8.3
 ---
 
 A three-kilometre promenade along the Mutrah harbour, lined on one side by white merchants' houses and on the other by turquoise water and moored dhows. Walk it at sunset when the cliffs behind the corniche turn orange and the giant incense-burner monument above the bay catches the last of the light.

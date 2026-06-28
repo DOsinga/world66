@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.6404
 longitude: 18.1125
+score: 5.1
 ---
 
 The Dubrovnik Aquarium occupies the ground floor of the St. John Fortress at the entrance to the old harbour, a 16th-century structure that now serves a rather different purpose. The collection focuses on the marine life of the Adriatic, with tanks holding local fish, sea turtles, moray eels, and the occasional shark alongside explanations of the ecology of the Dalmatian coast.

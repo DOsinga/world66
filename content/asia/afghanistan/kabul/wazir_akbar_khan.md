@@ -6,6 +6,7 @@ longitude: 69.1839
 tags:
   - things_to_do
   - neighbourhood
+score: 6.1
 ---
 
 The diplomatic and elite-housing neighbourhood north of the Kabul river — wide gridded streets, large walled compounds, the former embassies of half the world. For two decades it was the foreign-bubble district, and the streets remember it: concrete blast walls, surviving Kabul-style fortified gates, signs in Persian and English. With the diplomatic missions mostly gone, it is much quieter than it used to be.

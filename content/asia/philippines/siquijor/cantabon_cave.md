@@ -12,6 +12,7 @@ story: >
   that lives in the underground river. Locals have been navigating this cave for
   generations; the formal tourism setup with guides and a small entrance fee was
   established only in the 1990s, when the island began to attract visitors.
+score: 8.3
 ---
 
 Cantabon Cave is the most unusual natural attraction on Siquijor — an active cave system near the village of Cantabon, in the island's interior, through which a clear river flows. The experience involves wading and swimming through sections of the cave, guided by a local in bare feet who navigates the route with an oil lamp or torch. The cave is not large but the underground river passage requires several short swims in waist- or chest-deep cool water, with stalactites overhead and the faint sound of the current.

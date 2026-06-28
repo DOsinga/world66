@@ -5,7 +5,9 @@ done:
 latitude: 35.5799
 loc_type: city
 longitude: 35.9773
-score: 0.27
+score: 5.61
+snippet: Syrian Mediterranean port city with Roman Laodicea remnants and a busy waterfront
+  corniche.
 title: Latakia
 type: location
 ---

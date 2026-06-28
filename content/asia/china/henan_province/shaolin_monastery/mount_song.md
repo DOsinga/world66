@@ -8,6 +8,7 @@ latitude: 34.4724
 longitude: 112.9346
 story: >
   Mount Song is one of China's Five Sacred Mountains — the central peak of the quintet, oriented to the cardinal directions. The other four are Taishan in Shandong, Huashan in Shaanxi, Hengshan in Shanxi, and Hengshan in Hunan. Being the central mountain in this cosmological scheme, Songshan was historically associated with imperial legitimacy, and several dynasties built observatories and temples here to underscore their mandate.
+score: 8.7
 ---
 
 Mount Song is one of China's Five Sacred Mountains, the ancient peaks that defined the cosmological boundaries of the realm. The summit area is reached by a combination of hiking trails and cable car from within the Shaolin Scenic Area. At the top, the Junji Peak Observatory — built in the Tang dynasty and still standing — is one of the oldest astronomical observation sites in East Asia, used for centuries to calculate solstices and calibrate the imperial calendar.

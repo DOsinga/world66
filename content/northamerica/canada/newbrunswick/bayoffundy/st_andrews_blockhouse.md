@@ -9,6 +9,7 @@ latitude: 45.077
 longitude: -67.062
 sources:
   - https://en.wikipedia.org/wiki/St._Andrews_Blockhouse
+score: 6.2
 ---
 
 The St Andrews Blockhouse is one of the few surviving blockhouses from the War of 1812 in Canada. It was built in 1812 by the New Brunswick militia to defend the town against potential American attack — Saint Andrews, located very close to the Maine border, was considered vulnerable. The American attack never came, but the blockhouse was maintained.

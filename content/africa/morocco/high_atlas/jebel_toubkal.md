@@ -10,6 +10,7 @@ story: >
   Toubkal is not a technical climb — no ropes or special skills needed in summer — yet at 4,167m it is the highest peak in the Atlas and in all of North Africa. On a clear day the summit gives views as far as the Atlantic coast, 200km to the west.
 sources:
   - https://en.wikipedia.org/wiki/Toubkal
+score: 9.4
 ---
 
 Jebel Toubkal is the highest mountain in Morocco and in North Africa, rising to 4,167 metres above sea level. The standard ascent route is non-technical in summer: fit walkers without mountaineering experience can reach the summit via Imlil and the Refuge du Toubkal hut at 3,207m, usually done as a two-day trip. The first day from Imlil takes around four to five hours to reach the refuge; the summit push on day two takes another three to four hours return.

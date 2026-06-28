@@ -8,6 +8,7 @@ tags:
 - sight
 - market
 snippet: "Twelfth-century market square anchored by the 1714 Market Cross"
+score: 8.2
 ---
 
 The Saturday Market is one of the most attractive squares in the north of England — a wide, paved space ringed by Georgian and Victorian buildings and anchored by an elegant **Market Cross** of 1714, with a tall lead roof carried on Doric columns. A market has been held here since the twelfth century and still runs every Saturday, with stalls of meat, vegetables, cheese, flowers, and clothes filling the square.

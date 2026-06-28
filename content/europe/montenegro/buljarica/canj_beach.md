@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, beach]
 latitude: 42.164
 longitude: 18.998
+score: 5.7
 ---
 
 The next bay south of Buljarica, separated by a low headland and reached by a short drive or a slightly longer walk along the coastal path. Čanj is a longer, sandier beach than Buljarica, with shallower water and a few resort-style restaurants behind. Families with small children like it for the gentle shelving.

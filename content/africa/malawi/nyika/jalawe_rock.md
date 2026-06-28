@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -10.5333
 longitude: 33.8667
+score: 7.4
 ---
 
 Jalawe Rock is a granite outcrop on the north-eastern edge of the plateau that gives one of the longest views in Nyika — north into Zambia, east down the escarpment, and (on the clearest days) glimpses of Lake Malawi sparkling far below. The summit is reached by a short scramble from where the dirt track ends.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.8
 ---
 
 Knez Mihailova — Prince Michael Street — is the main pedestrian boulevard of Belgrade, running from Republic Square down to the gates of Kalemegdan fortress. The street was developed in the 19th century as Belgrade's first modern promenade and is lined with handsome Neoclassical and Secession-style buildings from that era, housing a mix of bookshops, cafes, chain stores, and the occasional gallery. The whole length of it, about 800 metres, is traffic-free.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.4100
 longitude: 117.9200
+score: 8.5
 ---
 
 Sixi Yancun (思溪延村) is a pair of adjacent villages — Sixi and Yancun — that have merged into a single tourist site while retaining considerably more of an inhabited, working-village character than Likeng. The maze of alleys between the old buildings actually requires navigation rather than funneling you along a designated tourist route, and the residential mix of old merchant houses alongside ordinary modern living spaces gives the place an authenticity that the more polished villages lack.

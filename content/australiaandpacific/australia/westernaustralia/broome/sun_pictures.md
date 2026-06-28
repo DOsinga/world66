@@ -13,6 +13,7 @@ story: >
   hierarchy of the pearling industry — with separate sections for Europeans,
   Chinese, Japanese, and Aboriginal Australians. The segregation ended only in
   the 1960s.
+score: 7.8
 ---
 
 **Sun Picture Gardens** is the world's oldest operating outdoor picture theatre, a corrugated-iron structure on Carnarvon Street in the heart of Chinatown. Movies have been shown here continuously since 1916, and despite the addition of modern sound and projection equipment, the experience of watching a film in deckchairs under the stars has not changed fundamentally.

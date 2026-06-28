@@ -10,8 +10,10 @@ image: sumedang.jpg
 image_source: https://www.flickr.com/photos/98421865@N08/14523258305
 image_license: CC BY 2.0
 image_attribution: orisonmarden on Flickr
-score: 0.37
+score: 6.25
 loc_type: city
+snippet: Small Sundanese town between Bandung and Cirebon, famous across Java for
+  its crisp fried tofu.
 ---
 
 A small Sundanese town between [Bandung](/asia/indonesia/java/bandung) and Cirebon, Sumedang is famous across Java for one thing above all: its tahu. The deep-fried tofu sold by [roadside vendors](/asia/indonesia/java/sumedang/tahu_sumedang_vendors) along the main road is a distinct style — hollow inside, crackling shell outside — that Indonesians across the country recognise as a Sumedang specialty. Stopping to eat a portion with sambal and lontong is essentially mandatory for anyone passing through.

@@ -8,6 +8,7 @@ tags:
   - bar
 address: 700 Central Avenue
 snippet: "Long-running music bar and live venue on Central Avenue"
+score: 6.0
 ---
 
 A small, dark, dependable live-music room on the upper stretch of Central Avenue. The booking

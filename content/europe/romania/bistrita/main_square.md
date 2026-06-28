@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 47.1320
 longitude: 24.4965
 snippet: "Long Saxon market square at the heart of the old town"
+score: 7.8
 ---
 
 The long, gently sloping Piața Centrală is the heart of medieval Bistrița and the shape of every Saxon-Transylvanian town: a wide central market space framed on three sides by merchants' houses and dominated by the Lutheran church. The square has been gently pedestrianised and now hosts the weekly market, summer events and a handful of cafes spilling out onto the cobbles.

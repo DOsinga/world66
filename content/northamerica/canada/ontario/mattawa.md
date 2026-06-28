@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mattawa_ON.JPG
 latitude: 46.317296
 loc_type: city
 longitude: -78.703308
-score: 0.34
+score: 5.82
+snippet: Northern Ontario river town where fur-trade history meets canoe routes through
+  Canadian Shield wilderness.
 title: Mattawa
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3667
 longitude: 16.9833
+score: 5.6
 ---
 
 A 4.2-kilometre road tunnel under the Biokovo massif, opened in 2013, that connects Brela with the inland Dalmatian villages of Zagvozd and the route to Imotski. Before the tunnel, the only road over the mountain was a steep, slow climb that closed in heavy weather; the tunnel cut the journey from an hour to about five minutes.

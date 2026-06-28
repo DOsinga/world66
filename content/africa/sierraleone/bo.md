@@ -2,13 +2,15 @@
 done:
   location_enrich: '2026-05-29'
 image: bo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bo,_Sierra_Leone_c_1944_(3133798557).jpg
-image_license: CC BY-SA 2.0
 image_attribution: Sludge G
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Bo,_Sierra_Leone_c_1944_(3133798557).jpg
 latitude: 7.9621
 loc_type: city
 longitude: -11.7367
-score: 0.27
+score: 4.93
+snippet: Southern Sierra Leone city and market hub with a long-standing reputation
+  for schools and technical institutes.
 sources:
 - https://en.wikipedia.org/wiki/Bo,_Sierra_Leone
 title: Bo

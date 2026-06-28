@@ -10,6 +10,7 @@ tags:
   - museum
   - university_circle
 neighbourhood: University Circle
+score: 7.8
 ---
 
 The Cleveland Museum of Natural History is best known internationally as the home institution of Donald Johanson, who discovered the 3.2-million-year-old hominin skeleton known as Lucy in Ethiopia in 1974. A cast of Lucy is on permanent display in the human origins gallery, along with one of the strongest collections of Homo erectus fossils outside Africa.

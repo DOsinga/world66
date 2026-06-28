@@ -8,6 +8,7 @@ tags:
 - bar
 title: The World Bar
 type: poi
+score: 6.2
 ---
 
 A good spot to settle in for the evening rather than a dance-floor operation. The signature move here is the teapot cocktail — a shared cocktail served in an actual teapot, meant to be poured into cups and consumed at leisure. The range is broad and most of them work. If you want noise and energy, go to the Altitude Bar; if you want a table and a conversation, come here.

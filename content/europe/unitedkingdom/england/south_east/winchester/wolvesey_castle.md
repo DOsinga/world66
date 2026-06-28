@@ -10,6 +10,7 @@ story: >
   It was at Wolvesey that Queen Mary I celebrated her marriage to Philip II of Spain in July 1554 — one of the most consequential weddings in English history, joining England to the most powerful monarchy in Europe and triggering the Catholic counter-reformation in England that earned Mary her sobriquet "Bloody." The feast was held in the great hall, and the building was still relatively intact at the time.
 sources:
   - https://en.wikipedia.org/wiki/Wolvesey_Castle
+score: 7.6
 ---
 
 Wolvesey Castle is the ruined remains of the 12th-century palace of the Bishops of Winchester — for centuries the wealthiest bishops in England and among the most powerful men in the kingdom. The building was largely demolished after the Civil War, but substantial walls and towers still stand to considerable height, and the ruins have a haunted quality enhanced by the sound of the River Itchen rushing past.

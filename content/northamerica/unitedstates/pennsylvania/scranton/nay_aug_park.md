@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 41.4194
 longitude: -75.6478
+score: 6.8
 ---
 
 Nay Aug Park is Scranton's principal city park, occupying 35 hectares of wooded ridge above the Roaring Brook gorge on the city's east side. It has a deep slate canyon with a waterfall, picnic groves, a small zoo, and a Nay Aug Park Treehouse — a glass-fronted box cantilevered out over the gorge, free to walk into.

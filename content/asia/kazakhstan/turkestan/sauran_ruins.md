@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3680
 longitude: 67.9830
+score: 8.5
 ---
 
 About 35 km northwest of Turkestan, the ruins of Sauran stand on a flat plain — a ghost city that was once one of the most important stops on the Silk Road through Central Asia. At its peak in the 13th and 14th centuries, Sauran had a population of tens of thousands and was protected by a system of double walls that still survive in substantial sections. The distinctive qanat (underground irrigation canal) system that supplied the city's water can still be traced on the surface.

@@ -9,6 +9,7 @@ latitude: 50.663
 longitude: -4.7597
 sources:
   - https://en.wikipedia.org/wiki/St_Materiana%27s_Church,_Tintagel
+score: 8.4
 ---
 
 St Materiana's Church stands on the cliff top between the village and the castle, in one of the most dramatic settings of any parish church in England. The building is Grade I listed and dates from the 11th and 12th centuries, with a Norman font and carved details that survive from the earliest construction. The churchyard, full of slate headstones weathered almost flat by the Atlantic, looks directly out to sea from the cliff edge.

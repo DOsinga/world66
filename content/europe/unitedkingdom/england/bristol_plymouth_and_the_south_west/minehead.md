@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Minehead,_View_from_Quay_-
 latitude: 51.205821
 loc_type: city
 longitude: -3.477852
-score: 0.48
+score: 7.3
+snippet: Somerset seaside town at Exmoor's edge and the start of the South West Coast
+  Path.
 title: Minehead
 type: location
 ---

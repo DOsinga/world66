@@ -6,6 +6,7 @@ longitude: 24.2853
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Basilica A, on the north side of the site, is older and smaller than Basilica B — a 5th-century three-aisled building with the marble pavement, the bema (the raised platform for the clergy), and the synthronon (the curved bench where the bishops sat) all still in place. The triumphal arch piers at the eastern end are partly preserved.

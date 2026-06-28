@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Valdepe%C3%B1as_(DO)
 story: >
   The Valdepeñas DO covers a relatively compact area — about 23,000 hectares — but produces enormous volumes of wine. Historically, nearly all of it left as bulk wine in tanker lorries rather than as bottled product. That changed slowly from the 1980s onward, as individual bodegas began investing in quality and building a reputation bottle by bottle. The underground cellars that make the town so distinctive predate that shift by centuries.
+score: 8.5
 ---
 
 The bodegas of Valdepeñas are the reason to come. Several of the major producers — including Félix Solís, Luis Megía, and Casa de la Viña — offer organised tours that take you through the vineyards (or the bodega itself if visiting in winter), down into the underground cellars, and through the bottling lines. Tours end with a tasting, usually of three or four wines across the range.

@@ -8,6 +8,7 @@ latitude: 36.7434
 longitude: 99.0805
 story: >
   The salt at Chaka Lake has been harvested for over 3,000 years — it is mentioned in historical records of the Han dynasty and was a major commodity on the trade routes connecting the plateau to the interior. The thin film of brine on the lake's surface acts as a mirror for the sky, creating the photographic effect that has made the lake famous on Chinese social media. On perfectly still days the reflection is so precise that it becomes disorienting to walk on.
+score: 7.1
 ---
 
 Chaka Salt Lake (茶卡盐湖), about 300 kilometres west of Xining, is one of China's most photographed natural spectacles: a vast flat salt pan whose thin layer of brine reflects the sky and clouds with mirror-like precision. The reflection effect is most dramatic in summer when weather permits still conditions; it is particularly striking at dawn and dusk. The lake has become enormously popular on Chinese social media and draws large crowds in summer.

@@ -9,6 +9,7 @@ latitude: 32.4266
 longitude: 111.0229
 story: >
   The Purple Cloud Temple was named for a legend about its founding: a Taoist hermit meditating on Zhanqi Peak saw a column of purple cloud rise from the ground, which he interpreted as a divine sign. The Yongle Emperor seized on this tradition to justify the enormous imperial investment in the site — making the purple cloud both a spiritual symbol and a political convenience.
+score: 9.0
 ---
 
 The Zixiao Palace (Purple Cloud Temple) is the largest and most complete surviving temple complex on the Wudang Mountains. Built between 1412 and 1423 during the great imperial expansion of the site under the Yongle Emperor, the palace sits on Zhanqi Peak about three kilometres from the summit and is included in the UNESCO World Heritage inscription. The complex covers several hectares of terraced courtyards, ceremonial gates, worship halls, and ancillary buildings, much of it in original or carefully restored condition.

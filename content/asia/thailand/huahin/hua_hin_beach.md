@@ -7,6 +7,7 @@ tags:
 - beach
 title: Hua Hin Beach
 type: poi
+score: 6.6
 ---
 
 Hua Hin has long, wide stretches of sand running from Cha Am in the north all the way past Khao Takiab hill to the south. The main town beach is right in the center, easy to reach on foot, with no roads to cross. Vendors sell grilled squid and fresh fruit along the shore.

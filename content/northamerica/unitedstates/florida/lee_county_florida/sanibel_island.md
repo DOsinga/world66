@@ -8,6 +8,7 @@ tags:
 - nature
 title: Sanibel Island
 type: poi
+score: 8.8
 ---
 
 Sanibel is Florida's great exception — an island on the Gulf Coast that somehow resisted the high-rise development that consumed almost everything else. Local zoning imposed strict building-height limits before the construction boom of the 1970s, and the result is an island of low beach houses, pines, and sea oats where the beaches feel genuinely wild. The particular shape of the island — it runs east-west rather than north-south — and the depth of the Gulf here conspire to funnel shells from across the Caribbean onto the shoreline. The variety and quantity of shells is extraordinary, and the bent-double posture of beachcombers scanning the waterline has a name: the Sanibel Stoop.

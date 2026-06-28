@@ -2,13 +2,15 @@
 done:
   location_enrich: '2026-05-17'
 image: uruapan.jpg
-image_source: https://www.flickr.com/photos/83346503@N00/1405640532
-image_license: CC BY-SA 2.0
 image_attribution: Jaec on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/83346503@N00/1405640532
 latitude: 19.4147
 loc_type: city
 longitude: -102.0523
-score: 0.41
+score: 6.71
+snippet: Michoacán highland city of avocado country, Cupatitzio springs, and the Paricutín
+  lava-field excursion.
 title: Uruapan
 type: location
 ---

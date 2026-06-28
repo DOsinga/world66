@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Terrace_Houses,_Ephesus
 done:
   poi_cleanup: '2026-04-19'
+score: 9.5
 ---
 
 The Terrace Houses — two blocks of multi-storey Roman townhouses terraced into the hillside above Curetes Street — are among the most remarkable domestic ruins in the ancient world. Lived in from the first century BC to the seventh century AD, they represent the homes of Ephesus's wealthy elite: the ground floors served as reception rooms with colonnaded courtyards, the upper floors as private apartments. Floors, walls, and ceilings still carry mosaics, frescoes, and marble panelling of extraordinary quality.

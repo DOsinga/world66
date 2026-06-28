@@ -13,6 +13,7 @@ tags:
 - story
 title: "Mercado de Hechicería (Witches' Market)"
 type: poi
+score: 8.8
 ---
 
 The Witches' Market along Calles Linares and Jimenez is not a tourist trap dressed up for cameras -- it is a working market where Aymara healers and ritual specialists sell the tools of their trade. Dried llama foetuses are buried under new buildings as offerings to Pachamama. Herbs, incense, coloured threads, and small figurines serve purposes that blend Catholic and pre-Columbian belief in ways that have been practised here for centuries. If you want to photograph vendors, ask first and offer a small payment.

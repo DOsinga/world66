@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Rathaus
 type: poi
+score: 5.8
 ---
 
 The town hall sits in the middle of the market square and is impossible to miss — a tall baroque building with a stepped gable, painted in a soft pink that catches the afternoon light. It was built in the early 1750s, replacing a medieval predecessor that had stood on the same spot.

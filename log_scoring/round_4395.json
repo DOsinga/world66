@@ -1,0 +1,200 @@
+{
+  "round": 4395,
+  "timestamp": "2026-06-14T00:09:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_score": 4.425,
+      "prior_variance": 0.135643,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 1.9669,
+      "prior_variance": 0.092954,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -1.93,
+      "prior_variance": 0.096846,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.261,
+      "prior_variance": 0.108447,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -2.083,
+      "prior_variance": 0.088903,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -2.6461,
+      "prior_variance": 0.114727,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -2.3902,
+      "prior_variance": 0.11385,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -2.7637,
+      "prior_variance": 0.097811,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -3.5762,
+      "prior_variance": 0.092241,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -1.7535,
+      "prior_variance": 0.095143,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.0564,
+      "prior_variance": 0.10708,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.0329,
+      "prior_variance": 0.103158,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.0432,
+      "prior_variance": 0.093151,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_score": -2.8009,
+      "prior_variance": 0.099816,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -3.1172,
+      "prior_variance": 0.119874,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -2.6584,
+      "prior_variance": 0.096658,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -5.3859,
+      "prior_variance": 0.126388,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ruijin",
+      "path": "asia/china/jiangxi/ruijin",
+      "prior_score": -4.2673,
+      "prior_variance": 0.096625,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -5.1275,
+      "prior_variance": 0.106113,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -5.6324,
+      "prior_variance": 0.101293,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -3.7006,
+      "prior_variance": 0.11907,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.0605,
+      "prior_variance": 0.152374,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.5132,
+      "prior_variance": 0.351393,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_score": -6.5438,
+      "prior_variance": 0.134631,
+      "prior_n": 14
+    }
+  ]
+}

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Keris_Village_(Gilgit-balt
 latitude: 35.5
 loc_type: city
 longitude: 75.6
-score: 0.51
+score: 7.71
+snippet: High mountain region of Gilgit-Baltistan, where Balti culture meets Karakoram
+  giants including K2
 title: Baltistan
 type: location
 ---

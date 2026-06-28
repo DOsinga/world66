@@ -8,6 +8,7 @@ tags:
 latitude: -42.7162
 longitude: 170.9636
 snippet: A wild, driftwood-strewn Tasman Sea beach famous for its driftwood art installations, dramatic even in bad weather
+score: 7.8
 ---
 
 Hokitika's beach faces the Tasman Sea and has all the character of the West Coast: grey sand, massive driftwood logs washed down from the inland forest, and breaking surf that makes swimming inadvisable most of the year. The beach is best on a stormy day when the sea is dramatic and clouds roll off the Southern Alps. Sunsets here can be spectacular, with the Alps visible to the east and the open Tasman to the west.

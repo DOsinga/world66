@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Kenya_Kisumu_Harbour_Hyaci
 latitude: -0.102911
 loc_type: city
 longitude: 34.754176
-score: 0.45
+score: 6.93
 title: Kisumu
+snippet: Western Kenyan city on Lake Victoria, with a lively market and humid lakeside
+  character.
 type: location
 ---
 

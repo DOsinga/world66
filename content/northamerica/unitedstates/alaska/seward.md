@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Resurrection_Bay,_Seward,_
 latitude: 60.1042
 loc_type: city
 longitude: -149.4422
-score: 0.57
+score: 8.34
+snippet: Kenai Peninsula harbour town and gateway to tidewater glaciers in Kenai Fjords
+  National Park
 title: Seward
 type: location
 ---

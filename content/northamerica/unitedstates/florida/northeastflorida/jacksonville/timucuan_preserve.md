@@ -8,6 +8,7 @@ latitude: 30.3850
 longitude: -81.4980
 story: >
   The Timucua people inhabited the St. Johns River valley for at least 2,000 years before European contact. Spanish missionaries established a network of missions along the river beginning in the late 16th century, and within 150 years the Timucua population had collapsed from disease, forced labour, and violence. By the early 18th century they were effectively extinct as a distinct people. The preserve protects some of the most significant archaeological and historical sites connected to this history, though most of the Timucua sites remain unexcavated.
+score: 8.5
 ---
 
 The Timucuan Ecological and Historic Preserve covers 46,000 acres of coastal wetlands, salt marshes, tidal creeks, and barrier islands on both sides of the St. Johns River mouth, making it one of the largest undeveloped estuaries on the US Atlantic coast. The preserve protects both the natural ecosystem — which supports manatees, bottlenose dolphins, bald eagles, wood storks, and a huge variety of shorebirds — and multiple historical sites from the Spanish colonial and Civil War periods.

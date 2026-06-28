@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.6075
 longitude: -5.9098
+score: 7.4
 ---
 
 The Titanic Quarter is Belfast's most ambitious regeneration project, built on the 185-acre site of the former Harland & Wolff shipyard where the Titanic, the Britannic, and the Olympic — the three great White Star liners — were constructed. The shipyard closed in 2003; within a decade, the docks had been transformed into a cultural and residential district.

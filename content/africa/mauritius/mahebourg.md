@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Esplanade,_Mahebourg,_Maur
 latitude: -20.411104
 loc_type: city
 longitude: 57.706062
-score: 0.62
+score: 8.43
+snippet: Mauritian fishing town on Grand Port Bay, with a lively waterfront and Battle
+  of Grand Port history.
 title: Mahébourg
 type: location
 ---

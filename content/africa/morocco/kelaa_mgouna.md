@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Beautiful_views_from_Oumaa
 latitude: 31.2406
 loc_type: city
 longitude: -6.1193
-score: 0.53
+score: 7.77
+snippet: Dadès Valley town at the centre of Morocco's damask rose-growing country.
 title: Kelaa M'Gouna
 type: location
 ---

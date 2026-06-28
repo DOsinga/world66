@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20151212_Badaguan_01.jpg
 latitude: 36.066325
 loc_type: city
 longitude: 120.377766
-score: 0.63
+score: 8.13
+snippet: Coastal Shandong city where German concession architecture and Tsingtao beer
+  meet the Yellow Sea.
 title: Qingdao
 type: location
 ---

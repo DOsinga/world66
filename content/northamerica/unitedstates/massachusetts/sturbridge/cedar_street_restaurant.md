@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 42.108
 longitude: -72.079
+score: 6.3
 ---
 
 Cedar Street is Sturbridge's most consistently recommended option for a meal that isn't rooted in colonial nostalgia. The menu changes seasonally and leans toward locally sourced ingredients — the kitchen works with regional farms and adjusts the offerings based on what's available, which gives the food a more contemporary feel than most of what's on Route 20. Dishes tend toward the approachable end of farm-to-table: well-prepared proteins, good vegetables, nothing overly elaborate.

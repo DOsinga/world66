@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Holy Trinity Church (Kostel Svyatoi Triytsi) is a Dominican church in the old town of Kamianets-Podilskyi, built in the mid-17th century with a distinctive twin-tower baroque facade. The church stands on the main street of the old town and is one of the most architecturally refined buildings in the city, its proportions more careful and its stone carving more elaborate than the city's other churches.

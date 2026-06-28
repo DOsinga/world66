@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 15.8637
 longitude: -97.0781
+score: 7.0
 ---
 
 Playa Puerto Angelito is a small, calm bay adjacent to Carrizalillo, separated from it by a rocky outcrop. The water is clear and sheltered, making it one of the safest swimming beaches near the town centre. Snorkelling is good along the rocks — the underwater visibility is better here than at the more exposed beaches, and small fish are plentiful.

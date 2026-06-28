@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wildlife Images Rehabilitation Center
 type: poi
+score: 7.2
 ---
 
 About fifteen minutes west of Grants Pass, Wildlife Images is a working rehabilitation centre for injured and orphaned native wildlife. Animals that cannot be returned to the wild stay on as permanent residents, and the centre runs guided tours showing them off: black bears, cougars, bald eagles, owls, and a couple of Rocky Mountain elk.

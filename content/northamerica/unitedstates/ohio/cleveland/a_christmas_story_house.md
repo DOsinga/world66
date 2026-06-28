@@ -16,6 +16,7 @@ tags:
   - museum
   - tremont
 neighbourhood: Tremont
+score: 6.2
 ---
 
 The yellow clapboard house on W. 11th Street in Tremont was used for the exterior shots of *A Christmas Story* (1983), and after the film became a holiday institution the new owners restored the interior to match the on-screen sets — leg lamp, kitchen radio, soap-eating sink, all of it. A small museum across the street holds props and original costumes.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 38.7322
 longitude: -9.4736
 snippet: "Wild Atlantic surf beach 8 km west of town, backed by dunes and the Sintra hills"
+score: 8.6
 ---
 
 Eight kilometres west of Cascais, the coast turns and opens to the full Atlantic at Praia do Guincho — a long, wide, wind-blasted beach backed by dunes and the green Sintra hills. It is one of the best surf beaches near Lisbon and a regular venue for European windsurfing and kitesurfing competitions.

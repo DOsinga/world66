@@ -1,0 +1,200 @@
+{
+  "round": 4300,
+  "timestamp": "2026-06-14T00:01:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.114,
+      "prior_variance": 0.128261,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.5425,
+      "prior_variance": 0.095209,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 2.5716,
+      "prior_variance": 0.098624,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.7575,
+      "prior_variance": 0.087126,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.512,
+      "prior_variance": 0.095073,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.293,
+      "prior_variance": 0.102347,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.6034,
+      "prior_variance": 0.098011,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": 0.0063,
+      "prior_variance": 0.098502,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.8326,
+      "prior_variance": 0.091218,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 2.9974,
+      "prior_variance": 0.109397,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.4192,
+      "prior_variance": 0.094063,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -1.9653,
+      "prior_variance": 0.13852,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": 0.3092,
+      "prior_variance": 0.096739,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -1.9074,
+      "prior_variance": 0.107979,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -1.6585,
+      "prior_variance": 0.110243,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.6756,
+      "prior_variance": 0.138361,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -4.9881,
+      "prior_variance": 0.121939,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -5.5606,
+      "prior_variance": 0.11481,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -5.2171,
+      "prior_variance": 0.118768,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -5.9502,
+      "prior_variance": 0.116243,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -5.4981,
+      "prior_variance": 0.125405,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -6.5921,
+      "prior_variance": 0.122346,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_score": -6.7908,
+      "prior_variance": 0.167304,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -10.4848,
+      "prior_variance": 0.429469,
+      "prior_n": 14
+    }
+  ]
+}

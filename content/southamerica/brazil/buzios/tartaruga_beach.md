@@ -14,6 +14,7 @@ story: >
   occasionally see them in the water near the rocky outcrops at the beach's
   edges. The Brazilian sea turtle conservation programme TAMAR monitors nesting
   sites on beaches along this coastline.
+score: 7.2
 ---
 
 Tartaruga is one of the quieter beaches on the northern tip of the peninsula. Compared to João Fernandes it sees fewer visitors, mostly because it's a bit further from the town centre and lacks the same density of infrastructure. What it has instead is cleaner water, better snorkelling, and genuine peace in the morning and evening.

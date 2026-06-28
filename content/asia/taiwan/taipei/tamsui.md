@@ -1,10 +1,11 @@
 ---
 latitude: 25.1715
 longitude: 121.4408
+score: 8.2
 snippet: Former Spanish, Dutch and British river port at the mouth of the Tamsui
 tags:
-- things_to_do
 - sight
+- day_trips
 title: Tamsui
 type: poi
 ---

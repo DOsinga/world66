@@ -9,6 +9,7 @@ tags:
   - bar
 snippet: A pub built into the caves under Nottingham Castle, claiming to be England's oldest.
 story: "The pub's name refers to the legend that crusaders stopped here for a pint on the way to the Holy Land in the 12th century. The cave system the pub occupies certainly dates back that far; the building above it is mostly 17th-century."
+score: 8.4
 ---
 
 The Trip — as everyone calls it — is built directly into the sandstone cliff beneath Nottingham Castle, with a frontage of low, white-washed beams and several of its rooms carved straight into the rock. The pub claims a date of 1189 and disputes the title of "oldest inn in England" with several other contenders; the cave rooms certainly feel as old as anything in the city.

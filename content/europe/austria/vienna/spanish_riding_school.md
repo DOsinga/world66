@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - innere_stadt
+score: 8.9
 ---
 
 The Spanische Hofreitschule is one of the last institutions in the world to practice classical dressage in its Renaissance form, using the white Lipizzaner stallions bred at the imperial stud at Piber. The school dates back to the 1570s and has trained horses and riders to the same exacting standards continuously ever since.

@@ -12,6 +12,7 @@ opening_hours: "Year-round; water park daily from 10:00"
 snippet: "All-weather family resort with an indoor tropical water park next to Legoland"
 sources:
   - https://en.wikipedia.org/wiki/Lalandia
+score: 5.8
 ---
 
 Lalandia is a large Nordic holiday resort built directly alongside Legoland in Billund, opened in 2009. Its main feature is an indoor tropical water park with a consistent 29°C temperature regardless of the weather outside — a significant advantage given Denmark's unpredictable summers and cold winters. The water complex includes slides, a wave pool, a river run, and a dedicated area for small children. Admission is included for guests staying in the resort's holiday apartments and can be purchased separately by day visitors.

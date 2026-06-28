@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - history
+score: 7.6
 ---
 
 Castro Marim, four kilometres north of Monte Gordo, is a small town dominated by a medieval castle on a hilltop that gives 360-degree views across the Guadiana estuary, the saltmarshes, and into Andalusia. The castle dates from the 13th century and was the original headquarters of the Order of Christ — the successor to the Knights Templar in Portugal — before they relocated to Tomar.

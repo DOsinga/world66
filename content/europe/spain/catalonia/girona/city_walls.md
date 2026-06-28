@@ -7,6 +7,7 @@ tags:
 - sight
 title: City Walls (Passeig Arqueològic)
 type: poi
+score: 8.8
 ---
 
 Girona's medieval city walls survive in remarkable condition and have been turned into a walkable promenade — the Passeig Arqueològic — that runs along the eastern edge of the old city. Walking the walls gives the best elevated views over the cathedral, the old town roofscape, and the Pyrenean foothills beyond.

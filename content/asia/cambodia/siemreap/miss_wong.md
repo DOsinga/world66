@@ -8,6 +8,7 @@ tags:
 title: Miss Wong
 type: poi
 neighbourhood: Old Market Quarter
+score: 5.9
 ---
 
 **Miss Wong** in "The Lane" — the alley running parallel to Pub Street — is the best cocktail bar in the Pub Street area and a genuine escape from the surrounding noise. The space is intimate and styled after a 1930s Shanghai bar: red lacquer screens, dark wood, low lighting, and good music at a volume that allows conversation. The cocktail list is creative and properly made; the bar has won regional recognition for the quality of its drinks.

@@ -7,6 +7,7 @@ tags:
 latitude: -15.3853
 longitude: 35.3200
 story: "Chilembwe led an armed uprising against British rule in 1915 in protest at the conscription of Africans into the First World War. He was killed by colonial police a few weeks later. His likeness now appears on every Malawian banknote."
+score: 5.8
 ---
 
 A small memorial in the city centre commemorates John Chilembwe, the Baptist pastor and educator who led the 1915 uprising against British colonial rule — the first organised African revolt in the protectorate. Chilembwe is one of the most important figures in modern Malawian history, and his face appears on every banknote in the country.

@@ -8,6 +8,7 @@ latitude: 26.9285
 longitude: 75.8166
 address: Gangapole, Jaipur
 snippet: A 300-year-old painted haveli turned heritage hotel with a bar worth visiting for the frescoes alone
+score: 6.8
 ---
 
 Samode Haveli is a 300-year-old haveli (merchant mansion) in the old city, now operating as a heritage hotel. Even if you're not staying here, the public areas are worth a visit: the painted rooms have original frescoes in reds, greens, and golds depicting hunting scenes, court life, and mythology, and the courtyards give a sense of how the Rajput elite actually lived.

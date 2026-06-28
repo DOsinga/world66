@@ -9,6 +9,7 @@ longitude: 32.929000
 snippet: "Unique double temple on the Nile bend, dedicated simultaneously to Horus and Sobek the crocodile god"
 story: >
   The cult of Sobek at Kom Ombo kept sacred crocodiles in a pool within the temple precinct. The remains of dozens of mummified crocodiles were found buried near the temple, and a small museum on site displays them. The Nile was at this point particularly crocodile-infested in antiquity, and the local cult was essentially a negotiation between the people who lived here and the predators that could kill them. Worship the crocodile god, and perhaps the crocodile would respect you.
+score: 8.1
 ---
 
 Kom Ombo is a Ptolemaic temple in a setting unlike any other in Egypt: perched on a bend in the Nile about 175 kilometres south of Luxor, it is half of a symmetrical double temple, each side dedicated to a different deity — Horus the falcon-headed sky god on the north, Sobek the crocodile god on the south. The plan mirrors itself exactly: two entrances, two sets of halls, two sanctuaries side by side.

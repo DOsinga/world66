@@ -8,6 +8,7 @@ latitude: 29.3350
 longitude: 110.4450
 story: >
   The stream takes its name from a single column beside the path that resembles, in Chinese aesthetic tradition, the golden whip carried by a general. The naming is arbitrary — dozens of the columns along the route are equally dramatic — but the name stuck and the path became the most celebrated valley walk in the park.
+score: 8.6
 ---
 
 Golden Whip Stream runs for roughly seven kilometres through the heart of Zhangjiajie National Forest Park, from the main entrance area through a narrowing gorge toward Yuanjiajie. The path follows the river at valley level, meaning the sandstone columns rise on both sides rather than appearing as a distant panorama: the scale is different here, more intimate and enclosed, and the forest closes overhead in places to reduce the sky to a thin strip.

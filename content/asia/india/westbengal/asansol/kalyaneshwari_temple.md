@@ -8,6 +8,7 @@ latitude: 23.7833
 longitude: 86.8000
 story: >
   The temple is one of the older Shakti shrines of the region, traditionally dated to the eleventh century, and its main following is from women seeking children — Kalyaneshwari is invoked specifically for fertility. The crowds on Tuesdays and Saturdays are reliably large, and the small bazaar that has grown up around the temple is part of the visit.
+score: 6.3
 ---
 
 Kalyaneshwari is one of the more visited Hindu pilgrimage sites of the western Bardhaman region, on the Barakar river just below Maithon Dam. The main image is a black stone Devi in a small, brightly-painted shrine, with the usual rim of subsidiary temples, banyan trees, and shops selling offerings.

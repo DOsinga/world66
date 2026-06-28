@@ -7,6 +7,7 @@ tags:
 latitude: 36.5310
 longitude: -6.3050
 snippet: "A circuit walk around the city's Atlantic-facing fortifications with stunning sea views"
+score: 8.4
 ---
 
 Cádiz is nearly surrounded by water, and the best way to understand its geography is to walk the sea walls. The full circuit runs from the Campo del Sur — the Atlantic-facing promenade below the cathedral — around the tip of the peninsula past the Parque Genovés (a botanical garden squeezed into the northwest corner of the old city) and back along the bay. It takes about two hours at a leisurely pace.

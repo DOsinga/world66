@@ -8,6 +8,7 @@ tags:
 - oyster_bay
 title: Coco Beach
 type: poi
+score: 6.6
 ---
 
 Coco Beach is Dar's closest swim, a curving sand strand of about two kilometres on the eastern side of the Msasani Peninsula. The water is shallow and warm; the swimming is fine on the rising tide and around half-tide, less good at low water when reef and seagrass appear. Sundays the beach turns into the city's main outdoor social space: families, footballers, fish-fryers, hawkers with cold sodas, and music from every direction.

@@ -9,6 +9,7 @@ latitude: 56.3391
 longitude: -2.7945
 sources:
   - https://en.wikipedia.org/wiki/St_Mary%27s_College,_St_Andrews
+score: 7.6
 ---
 
 St Mary's College is the most atmospheric of the University of St Andrews's medieval colleges, and its quadrangle — entered through an arched gateway off South Street — is one of the most peaceful corners of the town. The college was founded in 1537 and has housed the university's Faculty of Divinity ever since. John Knox studied and lectured here, and the college's library holds some of the oldest books in Scotland.

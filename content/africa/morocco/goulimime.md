@@ -5,7 +5,9 @@ done:
 latitude: 28.9833
 loc_type: city
 longitude: -10.05
-score: 0.41
+score: 6.41
+snippet: Southern Moroccan market town at the Sahara's edge, long a meeting point
+  for nomads and traders.
 title: Guelmim
 type: location
 ---

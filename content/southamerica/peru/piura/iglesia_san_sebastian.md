@@ -7,6 +7,7 @@ tags:
   - church
 latitude: -5.1920
 longitude: -80.6280
+score: 5.3
 ---
 
 A small neighbourhood church on the north side of the centre, built in the seventeenth century in the same plain colonial style as the rest of Piura's religious architecture. The single nave holds a few colonial-era paintings of saints and a heavily restored gilded altar.

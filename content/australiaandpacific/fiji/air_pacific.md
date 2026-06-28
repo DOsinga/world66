@@ -1,11 +1,12 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+score: 6.1
 snippet: Fiji's national carrier, direct flights from US, Australia, NZ
 tags:
 - getting_there
 title: Fiji Airways
-type: poi
+type: theme
 url: www.fijiairways.com
 ---
 

@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Tomb-of-Ferdowsi_%D8%A2%D8
 latitude: 36.3848
 loc_type: city
 longitude: 59.3177
-score: 0.26
+score: 5.75
 title: Tus
+snippet: Ancient Iranian city near Mashhad, revered for the tomb of Ferdowsi, poet
+  of the Shahnameh.
 type: location
 ---
 

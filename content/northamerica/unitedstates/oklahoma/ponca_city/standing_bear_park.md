@@ -10,6 +10,7 @@ address: '601 Standing Bear Parkway'
 latitude: 36.7270
 longitude: -97.0775
 story: In 1879 Chief Standing Bear of the Ponca won a landmark federal court case (Standing Bear v. Crook) that established for the first time in US law that Native Americans were "persons" within the meaning of the law and were entitled to constitutional protections. The statue commemorates that ruling.
+score: 8.0
 ---
 
 Standing Bear Park honours the Ponca chief whose 1879 court case established Native Americans as legal persons in US law. The centrepiece is a 22-foot bronze sculpture by Oreland Joe, depicting Standing Bear in traditional dress with a hand raised. It stands on a low rise looking out across the surrounding park.

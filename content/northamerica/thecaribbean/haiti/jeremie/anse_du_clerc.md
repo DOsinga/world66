@@ -7,6 +7,7 @@ tags:
 - beach
 title: Anse du Clerc
 type: poi
+score: 7.6
 ---
 
 Anse du Clerc is one of the prettiest beaches on the Grand'Anse peninsula — a long stretch of soft white sand backed by tall coconut palms, with calm water and a small mountain-fringed bay. It is about a 45-minute drive west of Jérémie along an indifferent road.

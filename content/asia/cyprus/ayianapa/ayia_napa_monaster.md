@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Ayia Napa Monastery
 type: poi
+score: 7.8
 ---
 
 Right in the centre of town, surrounded by the bars and clubs of The Square, this 16th-century Venetian monastery is a surprisingly serene retreat. Built around a cave church and a large ancient sycamore tree, the monastery was constructed just before the Ottoman invasion of 1570 and has been well preserved ever since.

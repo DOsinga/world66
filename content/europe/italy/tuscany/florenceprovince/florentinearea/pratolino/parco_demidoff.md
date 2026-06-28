@@ -10,6 +10,7 @@ story: >
   The original Medici villa that stood here was demolished in 1822 by Ferdinand III of Lorraine, who considered it too expensive to maintain. The estate then passed to the Russian Demidoff family, wealthy industrialists who restored the park and built the current neo-Renaissance villa from the old paggeria — the servants' quarters — in the 1870s.
 sources:
   - https://en.wikipedia.org/wiki/Villa_di_Pratolino
+score: 8.8
 ---
 
 The Parco Demidoff is the reason to come to Pratolino. Originally laid out in the 1570s by the architect Bernardo Buontalenti for Francesco I de' Medici as an extravagant private retreat, the park covered an enormous area and was filled with fountains, grottos, automata, and garden sculptures of extraordinary ingenuity. Most of the original hydraulic machinery has long since gone, but the atmosphere of a great Mannerist garden survives intact.

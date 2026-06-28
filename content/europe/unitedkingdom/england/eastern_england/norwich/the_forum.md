@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 52.6275
 longitude: 1.2906
+score: 6.9
 ---
 
 The Forum is a large curved glass building on Millennium Plain, built in 2001 on the site of the old Norfolk and Norwich Hospital. It houses the Norfolk and Norwich Millennium Library — one of the busiest public libraries in England — along with a café, BBC Norfolk studios, tourist information, and an exhibition space. The building is unusual in Norwich's predominantly medieval and Victorian streetscape: a confident piece of contemporary architecture that uses the open public space in front of it well.

@@ -6,6 +6,7 @@ longitude: 46.5736
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 Inside At-Turaif, the Arabian Horse Museum is a small but well-curated exhibit on the Bedouin's relationship with the desert horse. The Arabian breed was domesticated and refined in the Najd, the region around Diriyah, and the Al Saud family bred horses on a serious scale.

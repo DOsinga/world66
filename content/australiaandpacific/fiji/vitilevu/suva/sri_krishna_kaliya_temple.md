@@ -9,6 +9,7 @@ tags:
   - hindu_temple
   - toorak
 neighbourhood: Toorak
+score: 5.9
 ---
 
 The most colourful Hindu temple in Suva, in the Toorak neighbourhood west of the centre. Built and maintained by the Indo-Fijian community of the city, the temple is dedicated to Krishna in his form as the slayer of the serpent Kaliya.

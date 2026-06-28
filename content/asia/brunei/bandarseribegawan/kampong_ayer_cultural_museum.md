@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 4.8880
 longitude: 114.9440
+score: 7.6
 ---
 
 Located within Kampong Ayer itself — accessible only by water taxi — the Cultural and Tourism Gallery is the best introduction to the history and life of the world's largest water village. The museum traces the history of the stilt village from its origins in the 7th century through the colonial period to the present day, with models of traditional architecture, displays of traditional crafts, and historical photographs.

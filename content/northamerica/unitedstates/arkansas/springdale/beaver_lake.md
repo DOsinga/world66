@@ -8,6 +8,7 @@ tags:
 latitude: 36.2500
 longitude: -93.9500
 story: "Beaver Lake was created in 1966 when the Army Corps of Engineers dammed the White River, flooding several Ozark communities whose residents were relocated. Some locals say that in low water years you can still see the old highway bridges and fence lines beneath the surface — a ghost landscape from before the dam."
+score: 7.3
 ---
 
 Beaver Lake sits about 30 minutes east of Springdale in the Ozark National Forest, a large reservoir with over 480 miles of forested shoreline and excellent water quality. It is the primary outdoor recreation destination for Northwest Arkansas residents, offering swimming, powerboating, kayaking, sailing, and some of the best bass fishing in Arkansas.

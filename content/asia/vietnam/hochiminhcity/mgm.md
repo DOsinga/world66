@@ -2,12 +2,14 @@
 address: 172C Nguyen Dinh Chieu, D3
 latitude: 10.7769
 longitude: 106.6866
+score: 4.3
 snippet: Loud café-nightclub on Nguyen Dinh Chieu playing hip-hop and trance
 tags:
 - bars_and_cafes
 - bar
 - cafe
 - club
+- district_3
 title: MGM
 type: poi
 ---

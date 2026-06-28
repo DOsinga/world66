@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: -45.9252
+loc_type: region
 longitude: 168.3538
+score: 0.52
+snippet: Southern New Zealand region spanning Fiordland, farming plains, mountain
+  valleys, and routes to Stewart Island.
 title: Southland
 type: location
-score: 0.52
-loc_type: region
+image: southland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mlford_Sound_New_Zealand._(12247380283).jpg
+image_license: CC0
+image_attribution: Bernard Spragg. NZ from Christchurch, New Zealand
 ---
 
 Southland occupies the bottom-left corner of the [South Island](/australiaandpacific/newzealand/south_island), and it wears its extremes openly. To the west, [Fiordland](/australiaandpacific/newzealand/south_island/southland/fiordland) receives some of the highest rainfall on earth, its drowned valleys carved into spectacular fiords that plunge between walls of ancient rainforest. To the east, the Southland Plains are flat farming country — sheep, cattle, and wide skies. In between lies a landscape of mountain ranges, braided rivers, and bush-filled valleys that see almost no visitors.
@@ -20,4 +26,5 @@ If you are not walking the Milford or Kepler tracks, Southland rewards slow trav
 ## Destinations in Southland
 
 - [Fiordland](/australiaandpacific/newzealand/south_island/southland/fiordland) — wilderness national park containing the Milford and Doubtful sounds
+- [Gore](/australiaandpacific/newzealand/south_island/southland/gore) — eastern Southland town known for brown trout fishing and country music
 - [Invercargill](/australiaandpacific/newzealand/south_island/otago/invercargill) — the region's main city and southern gateway

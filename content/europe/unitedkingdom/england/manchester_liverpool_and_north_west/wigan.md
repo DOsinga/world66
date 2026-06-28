@@ -4,7 +4,9 @@ done:
 latitude: 53.545719
 loc_type: city
 longitude: -2.626462
-score: 0.35
+score: 6.08
+snippet: Greater Manchester canal town whose industrial memory runs through Orwell,
+  mills, and Wigan Pier.
 title: Wigan
 type: location
 ---

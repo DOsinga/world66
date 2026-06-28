@@ -9,6 +9,7 @@ latitude: 6.80593
 longitude: -58.1496
 snippet: "Nineteenth-century wooden mansion housing the National Art Gallery"
 story: "Castellani House was once the official residence of Forbes Burnham, Guyana's authoritarian first prime minister. He died here in 1985, and the building was handed over to become a public gallery the following year."
+score: 8.1
 ---
 
 A magnificent three-storey wooden building at the edge of the Botanic Gardens, Castellani House was designed in 1879 by Cesar Castellani, the Maltese architect responsible for several of Georgetown's most distinctive Victorian structures. With its gabled roof, scalloped trim, and shaded verandahs, it is one of the city's purest examples of nineteenth-century tropical colonial architecture.

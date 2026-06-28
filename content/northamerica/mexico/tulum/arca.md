@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - zona_hotelera
+score: 7.1
 ---
 
 Chef José Luis Hinostroza, who trained at Pujol in Mexico City and Noma in Copenhagen, opened Arca to take wood-fire cooking further than its more famous neighbour Hartwood. The kitchen is built around an open fire pit, and the menu is short, contemporary, and changes often: smoked octopus tostada, blue corn tortillas with marrow, snapper roasted in banana leaf.

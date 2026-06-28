@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 63.8281
 longitude: 20.2689
+score: 8.2
 ---
 
 NorrlandsOperan is Sweden's only full-scale opera company outside the three major cities, and it has built a reputation that regularly draws singers and conductors from Stockholm and abroad. The company performs a mixed programme of opera, musicals, and contemporary works, with a season running from autumn through spring. The venue on Vasaplan is a modern performance space with good acoustics and sightlines.

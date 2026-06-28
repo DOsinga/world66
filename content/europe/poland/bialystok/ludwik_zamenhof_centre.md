@@ -9,6 +9,7 @@ latitude: 53.1337
 longitude: 23.1698
 story: >
   Ludwik Zamenhof grew up in 19th-century Białystok in a Jewish family, on streets where Polish, Russian, Yiddish, Belarusian and German were all spoken. His attempt to find a way for ordinary people to talk past these divisions — the language he called Esperanto, first published in 1887 — was a direct response to the city around him.
+score: 7.3
 ---
 
 A compact, well-designed centre dedicated to Zamenhof's life and language, occupying a fine pre-war building near the centre. The exhibition covers his Białystok childhood, his ophthalmology practice in Warsaw, the publication of the *Unua Libro*, and the curious survival and global spread of Esperanto through to the present day. There are listening stations where you can hear the language spoken and a children's classroom that runs introductory sessions.

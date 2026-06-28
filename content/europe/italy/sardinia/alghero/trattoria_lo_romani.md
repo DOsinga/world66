@@ -9,6 +9,7 @@ tags:
 - italian
 title: Trattoria Lo Romani
 type: poi
+score: 5.4
 ---
 
 A short walk from the old-town walls in a residential side street, Lo Romani is a small family-run trattoria that locals frequent for honest, well-priced Sardinian cooking — the kind of place that's easy to walk past without noticing. The handwritten daily menu shifts with the market and includes a strong selection of pasta and seafood: malloreddus alla campidanese, fregola with clams, baked fish, and a rotating selection of antipasti.

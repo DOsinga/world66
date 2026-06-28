@@ -18,6 +18,7 @@ story: >
   but it makes for a memorable story about a man who valued his reputation above all else.
 sources:
   - https://en.wikipedia.org/wiki/Cappella_Colleoni
+score: 9.4
 ---
 
 Built between 1470 and 1476 as a mausoleum for the condottiere Bartolomeo Colleoni, this chapel is one of the finest examples of Lombard Renaissance architecture in existence. The facade is a riot of coloured marble — red, white, and green — carved with reliefs, statues, and ornamental medallions in a style that has no parallel in northern Italy.

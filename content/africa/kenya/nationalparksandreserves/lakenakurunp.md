@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: -0.3667
+loc_type: feature
 longitude: 36.0833
+score: 8.82
+snippet: Compact Rift Valley national park around a soda lake, known for flamingos
+  and fenced rhino sanctuary.
 title: Lake Nakuru National Park
 type: location
-score: 0.66
-loc_type: feature
+image: lakenakurunp.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lake-Nakuru-Baboon-Hill-View.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Bjørn Christian Tørrissen
 ---
 
 Lake Nakuru is a shallow soda lake in Kenya's Rift Valley, famous for the vast flocks of flamingos that sometimes line its shores — at peak times, the lake can be ringed in pink. The national park surrounding it is compact but rich in wildlife, and it is one of Kenya's most visited parks.

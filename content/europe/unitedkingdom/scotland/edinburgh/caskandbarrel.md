@@ -5,10 +5,11 @@ done:
 latitude: 55.959041
 longitude: -3.190391
 phone: 0131 556 3132
+score: 6.7
 snippet: Traditional Broughton Street pub with top-notch cask ales
 tags:
 - bars_and_cafes
-- new_town
+- newtown
 - bar
 title: Cask and Barrel
 type: poi

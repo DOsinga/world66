@@ -14,6 +14,7 @@ tags:
   - architecture
 title: Castle of the Bishops
 type: poi
+score: 8.2
 ---
 
 The Castle of the Bishops of Sigüenza stands at the top of the old town, exactly where a frontier fortress should be. Its origins go back to the Islamic period, but the surviving form is tied to the powerful bishops who ruled Sigüenza as both churchmen and feudal lords.

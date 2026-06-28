@@ -6,6 +6,7 @@ longitude: -68.4080
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Bianchi is San Rafael's best-known winery, founded in 1928 by Italian immigrant Valentín Bianchi and now run by the third generation of the family. The flagship Champaña Tradicional is one of the more famous sparkling wines in Argentina, made in the classic method since the 1970s.

@@ -13,6 +13,7 @@ tags:
 - church
 title: Ávila Cathedral
 type: poi
+score: 8.9
 ---
 
 Ávila Cathedral is the oldest Gothic cathedral in Spain and one of the most fortress-like church buildings in Europe. Its most striking architectural feature is the apse — the curved eastern end of the cathedral — which is built directly into the city wall. The round tower (the Cimorro) projects outward from the wall and is visible from outside the city, giving the eastern skyline its distinctive silhouette of towers and the church's rear end rising above the fortifications.

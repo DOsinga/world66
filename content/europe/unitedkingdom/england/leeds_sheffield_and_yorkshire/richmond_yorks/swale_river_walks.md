@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Wooded riverbank paths upstream and downstream from the castle
+score: 8.3
 ---
 
 The River Swale loops around the foot of Richmond Castle in a series of small rapids and waterfalls, and the paths along both banks are the town's best walking. Downstream takes you to Easby Abbey (about a mile and a half each way); upstream goes through Hudswell Woods to Round Howe, a glacial mound the locals once believed to be a fairy hill.

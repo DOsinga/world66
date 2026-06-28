@@ -14,6 +14,7 @@ story: >
   speaks to the completeness of traditional craft. Founded in 1982, the gallery
   was one of the first places in Eswatini to exhibit contemporary Swazi art
   alongside traditional craft, deliberately refusing to treat them as separate categories.
+score: 8.0
 ---
 
 Indingilizi Gallery is the best place in Mbabane to see and buy contemporary Swazi art and craft. Founded in 1982, it occupies a converted building near the city centre and carries a thoughtfully curated selection of paintings, sculpture, weaving, woodwork, and ceramics — a genuine cross-section of what Swazi artists are producing.

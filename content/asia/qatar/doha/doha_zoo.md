@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.6793
 longitude: 51.5096
+score: 5.3
 ---
 
 Qatar's main zoo is located in Al Khor, about 50 km north of Doha — not, as sometimes described, immediately outside the capital. It covers 42 acres and holds over 1,500 animals including the Arabian Oryx, Qatar's national animal, which was hunted to extinction in the wild in 1972. The zoo participates in reintroduction programmes for the species.

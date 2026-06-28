@@ -1,10 +1,12 @@
 ---
 address: 102 West 73rd Street (at Columbus Ave)
-latitude: 40.77815
-longitude: -73.98156
+latitude: 40.778099
+longitude: -73.978638
+score: 5.5
 tags:
 - bars_and_cafes
 - bar
+- upper_west_side
 title: Alice's Tea Cup
 type: poi
 ---

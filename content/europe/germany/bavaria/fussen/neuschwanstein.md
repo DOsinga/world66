@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Ludwig II spent only 172 nights in the castle before his mysterious death in 1886 — his body was found floating in the Starnberger See three days after his ministers had him declared insane and deposed. The castle, with debts that nearly bankrupted the Bavarian crown, was opened to paying visitors seven weeks later to recoup the losses, and has been a profitable tourist attraction ever since."
+score: 9.4
 ---
 
 The fairy-tale castle that everyone has seen before they ever visit — postcards, jigsaw puzzles, the inspiration for the Disney logo. Ludwig II of Bavaria began building it in 1869 as a romantic Romanesque revival fantasy, financed partly from his own pocket and partly from the Bavarian treasury, and intended as a private retreat rather than a working castle.

@@ -8,6 +8,8 @@ latitude: 51.764379
 loc_type: region
 longitude: -2.188066
 score: 0.56
+snippet: West England county of Cotswold hills, Severn Vale towns, and Forest of Dean
+  woodland
 title: Gloucestershire
 type: location
 ---

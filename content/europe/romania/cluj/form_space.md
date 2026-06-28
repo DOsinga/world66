@@ -7,6 +7,7 @@ snippet: Cocktail bar known for serious mixology, in the Centru
 tags:
 - bars_and_cafes
 - bar
+score: 6.1
 ---
 
 Form Space is the cocktail bar Cluj has been waiting for — a small, dimly-lit room with a bartender who takes the craft seriously. The drinks list rotates seasonally and the bartender will happily put together something to order based on what you like.

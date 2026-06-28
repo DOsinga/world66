@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - wildlife
+score: 6.7
 ---
 
 Moccasin Lake Nature Park is a 51-acre nature preserve tucked into a residential part of Clearwater, about 10 minutes inland from the beach. The park has boardwalk trails through oak hammock and wetland habitats, a small interpretive center with live reptile exhibits, and a raptor sanctuary that houses permanently injured birds of prey including red-tailed hawks and barred owls.

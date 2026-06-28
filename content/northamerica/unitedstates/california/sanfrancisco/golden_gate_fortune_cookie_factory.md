@@ -2,11 +2,12 @@
 address: 56 Ross Alley
 latitude: 37.7957
 longitude: -122.4073
+score: 6.5
 snippet: Tiny Chinatown alley shop where fortune cookies are still folded by hand
 tags:
 - things_to_do
 - sight
-neighbourhood: Chinatown
+- chinatown
 title: Golden Gate Fortune Cookie Factory
 type: poi
 ---

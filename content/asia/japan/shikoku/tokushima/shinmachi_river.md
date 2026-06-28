@@ -7,6 +7,7 @@ tags:
 - sight
 title: Shinmachi River Boardwalk
 type: poi
+score: 6.3
 ---
 
 A narrow tributary of the Yoshino that runs through the south side of the city centre, the Shinmachi-gawa has been canalised into a pleasant pedestrian promenade lined with bars, restaurants, and willow trees. In spring the cherry blossoms reflect off the water; in summer the boardwalk hosts open-air evening markets and live music.

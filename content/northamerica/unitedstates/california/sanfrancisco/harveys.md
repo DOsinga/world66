@@ -2,12 +2,12 @@
 address: 500 Castro St
 latitude: 37.7608
 longitude: -122.4352
+score: 6.4
+snippet: Friendly Castro bar and restaurant named after Harvey Milk
 tags:
 - bars_and_cafes
 - bar
 - castro_district
-snippet: Friendly Castro bar and restaurant named after Harvey Milk
-neighbourhood: Castro District
 title: Harvey's
 type: poi
 ---

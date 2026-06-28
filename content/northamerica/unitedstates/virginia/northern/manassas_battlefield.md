@@ -13,6 +13,7 @@ story: >
   watch what they expected to be a quick Union victory, and were routed along
   with the army; and Second Bull Run in August 1862, a larger Confederate
   victory that brought Robert E. Lee's army to the gates of the capital.
+score: 7.7
 ---
 
 The rolling farmland around Manassas was the site of two major Civil War battles — both Confederate victories that shook Northern confidence and prolonged the war. The national battlefield park preserves the terrain almost unchanged; walking the ground gives a sense of the tactical problem both armies faced across the open fields and wooded ridges.

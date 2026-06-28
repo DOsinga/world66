@@ -5,6 +5,8 @@ latitude: -30.534367
 loc_type: region
 longitude: 135.630121
 score: 0.5
+snippet: Australian state of wine country, arid outback, empty coastline, and Adelaide's
+  compact festival-minded capital
 title: South Australia
 type: location
 ---
@@ -30,7 +32,9 @@ The **Coorong**, a 200-km lagoon system south of Adelaide, is a critical waterbi
 - [Adelaide](/australiaandpacific/australia/southaustralia/adelaide)
 - [Barossa Valley](/australiaandpacific/australia/southaustralia/barossa_valley)
 - [Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy)
+- [Edithburgh](/australiaandpacific/australia/southaustralia/edithburgh)
 - [Hahndorf](/australiaandpacific/australia/southaustralia/handorf)
+- [Innamincka](/australiaandpacific/australia/southaustralia/innamincka)
 - [Mount Gambier](/australiaandpacific/australia/southaustralia/mount_gambier)
 - [Victor Harbor](/australiaandpacific/australia/southaustralia/victor_harbour)
 - [William Creek](/australiaandpacific/australia/southaustralia/william_creek)

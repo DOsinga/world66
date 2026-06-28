@@ -11,6 +11,7 @@ tags:
   - polana
   - market
 neighbourhood: Polana
+score: 6.6
 ---
 
 The **Feira Popular de Artesanato, Flores e Gastronomia** — FEIMA for short — is Maputo's largest and friendliest craft market, occupying the shaded lawns of Praça 25 de Junho in Polana. It runs daily, with the biggest crowds on Saturday mornings.

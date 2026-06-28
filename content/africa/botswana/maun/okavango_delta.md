@@ -13,6 +13,7 @@ story: >
   result is one of Africa's most extraordinary ecosystems: 15,000 square kilometres
   of channels, lagoons, islands, and floodplains that surge with life when the annual
   flood arrives from Angola, usually in June and July.
+score: 9.8
 ---
 
 The Okavango Delta is the primary reason most people come to Maun, and it more than delivers on expectations. This UNESCO World Heritage Site is one of the world's great wildlife destinations: elephant, lion, leopard, cheetah, wild dog, hippo, crocodile, and over 400 species of birds make their home here in the shifting labyrinth of waterways and papyrus marshes.

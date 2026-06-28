@@ -11,6 +11,8 @@ longitude: 12.490669
 score: 0.55
 title: Hochpustertal
 type: location
+snippet: Eastern Tyrolean mountain region of alpine valleys, Dolomite views, and cross-border
+  Puster Valley ties.
 ---
 
 *[Europe](/europe) > [Austria](/europe/austria) > Hochpustertal*

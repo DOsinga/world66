@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4467
 longitude: -75.7267
+score: 5.8
 ---
 
 Casino du Lac-Leamy, at 1 Boulevard du Casino, is one of the largest casinos in Quebec and the main entertainment venue in the Gatineau region. Operated by the Société des casinos du Québec, it opened in 1996 on a former industrial quarry site at the edge of Lac Leamy and now draws more than 2.5 million visitors a year.

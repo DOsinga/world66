@@ -7,6 +7,7 @@ tags:
 - sight
 title: Turtle Lake
 type: poi
+score: 6.3
 ---
 
 Turtle Lake (Kus Tba) is a small natural lake in the forested hills above Vake, about 5 km west of the city centre. The lake itself is nothing exceptional — it is small and shallow — but the setting in the wooded hills and the beach along the southern shore make it a popular escape from the heat on summer weekends. Locals swim here from June through September, and the lakeside cafes and restaurants are in full operation.

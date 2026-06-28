@@ -15,6 +15,7 @@ story: >
   The lakeside park was designed in the English landscape style — a deliberate
   contrast to the formal French gardens fashionable at the time — and its giant
   sequoias, planted in the 1860s, are now among the largest trees in Switzerland.
+score: 7.8
 ---
 
 At the southern tip of the town, where the Aare flows out of Lake Thun, stands Schadau Castle — a mid-19th-century neo-Gothic pile in a park that runs along the lakeshore. The castle now houses a restaurant; the real draw is the park, which stretches between the Aare and the lake and is freely accessible throughout the year.

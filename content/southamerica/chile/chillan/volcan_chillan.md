@@ -13,6 +13,7 @@ story: >
   down the river valleys. Hiking trails are rerouted after each eruption cycle.
 sources:
   - https://en.wikipedia.org/wiki/Chill%C3%A1n
+score: 8.8
 ---
 
 Volcán Chillán — more precisely the Nevados de Chillán volcanic complex — rises to 3,212 metres above the Termas de Chillán resort. It is one of Chile's most active volcanoes, with regular eruptions recorded since the 18th century. In summer, when the snow has melted from the lower slopes, hikers can approach the active cone on marked trails from the resort. The landscape is stark and dramatic: sulphurous fumaroles, ash-grey slopes, and the ice-capped peaks of the high Andes behind.

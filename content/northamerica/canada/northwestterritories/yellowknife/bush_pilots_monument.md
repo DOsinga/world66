@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.4548
 longitude: -114.3704
+score: 8.1
 ---
 
 The Bush Pilots Monument stands on a rocky promontory in Old Town, overlooking Yellowknife Bay and the floatplane base below. It honours the pilots who opened up the Canadian North in the 1920s and 1930s — men who flew fragile aircraft across vast, unmapped wilderness to deliver supplies, evacuate the sick, and connect remote communities that had no other link to the outside world. Without them, much of Canada's northern development, including Yellowknife's own gold rush, would not have been possible.

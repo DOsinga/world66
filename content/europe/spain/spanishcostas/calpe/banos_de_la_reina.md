@@ -11,6 +11,7 @@ story: >
   The Romans used these rock-cut pools to farm fish — a practice called pisciculture — by trapping them at high tide and harvesting them when needed. The complex dates from the 1st to 3rd centuries AD, making it one of the better-preserved examples of Roman fish farming infrastructure on the Spanish Mediterranean coast. The nearby Villa Romana ruins suggest a wealthy estate occupied the headland.
 sources:
   - https://en.wikipedia.org/wiki/Calpe
+score: 7.7
 ---
 
 The Banos de la Reina — Baths of the Queen — are Roman fish-salting pools cut directly into the rock on the waterfront at the south end of town, just below the old quarter. The complex was used to trap and process fish in the 1st to 3rd centuries AD and is one of the more intact Roman industrial sites on this stretch of coast.

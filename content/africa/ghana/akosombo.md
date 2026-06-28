@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Akosombo_Dam_from_the_Volt
 latitude: 6.269799
 loc_type: city
 longitude: 0.050899
-score: 0.42
+score: 6.7
+snippet: Volta River dam town built beside the gorge that created Lake Volta.
 title: Akosombo
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 34.6547
 longitude: 135.4293
 story: "Kaiyukan was one of the world's largest aquariums when it opened in 1990, designed around a central tank representing the Pacific Ocean that is 9 metres deep and 34 metres wide. It holds two whale sharks — among the very few aquariums in the world to do so — and visitors walk in a spiral ramp down through eight ecosystems, from the Aleutian Islands to the Antarctic."
+score: 8.4
 ---
 
 One of the finest aquariums in Japan, occupying a large building on the artificial island of Tempozan in Osaka Bay. The design is built around a massive central Pacific Ocean tank that spans multiple floors; visitors spiral down through it on a ramp, passing through recreated ecosystems from the Aleutian Islands through the Japanese Forest and Pacific Ocean to the Antarctic.

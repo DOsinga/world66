@@ -3,12 +3,14 @@ address: Viale delle Terme di Caracalla
 latitude: 41.8791
 longitude: 12.4924
 phone: +39 06 39967700
+score: 8.6
+snippet: Vast 3rd-century bath ruins with summer open-air opera
 tags:
 - things_to_do
 - museum
 - monument
 - theatre
-snippet: "Vast 3rd-century bath ruins with summer open-air opera"
+- aventino
 title: Baths of Caracalla
 type: poi
 ---

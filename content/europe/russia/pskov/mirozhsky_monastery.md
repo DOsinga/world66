@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mirozhsky_Monastery
 story: >
   The Mirozhsky frescoes were plastered over in the 18th century — considered old-fashioned — and only rediscovered in 1857. The restorers who uncovered them found the paint still vivid after 700 years. When Russian art historians first documented them fully in the early 20th century, they realised the monastery contained the most complete ensemble of 12th-century Byzantine frescoes anywhere in Russia.
+score: 9.4
 ---
 
 Mirozhsky Monastery sits on the left bank of the Velikaya, a short walk south of the Krom across the river. It was founded in the 1130s, and the Cathedral of the Transfiguration at its heart contains the oldest and best-preserved frescoes in Russia — Byzantine-style murals covering virtually the entire interior surface, painted in the 1140s by Greek masters brought from Constantinople.

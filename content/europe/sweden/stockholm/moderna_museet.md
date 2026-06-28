@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 59.3243
 longitude: 18.0840
+score: 8.7
 ---
 
 Moderna Museet (the Museum of Modern Art) on Skeppsholmen island holds one of Europe's strongest collections of 20th- and 21st-century art. The permanent collection includes key works by Picasso, Dalí, Matisse, Duchamp, and Andy Warhol, alongside major Scandinavian artists. The building itself — designed by Rafael Moneo — is low-slung and handsome, sitting comfortably on the island with good views of the waterfront.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_de_Ilhabel
 latitude: -23.816628
 loc_type: city
 longitude: -45.368685
-score: 0.56
+score: 8.4
+snippet: Brazilian island archipelago of Atlantic Forest, waterfalls, beaches, and
+  São Paulo's sailing culture.
 title: Ilhabela
 type: location
 ---

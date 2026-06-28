@@ -8,6 +8,7 @@ latitude: 11.353888
 longitude: 43.473888
 snippet: "Ruined mosque traditionally counted as the second-oldest in Africa"
 story: "Local tradition holds that this mosque was founded in the seventh century by companions of the Prophet Muhammad who fled to the Horn of Africa during the early persecutions in Mecca. If true, it would make Masjid al-Qiblatayn one of the oldest mosques anywhere outside the Arabian Peninsula."
+score: 8.2
 ---
 
 The Mosque of the Two Qiblas is the most evocative ruin in Saylac. The name refers to the practice, in the earliest years of Islam, of praying first toward Jerusalem and later toward Mecca — and the building reputedly carries two mihrabs to reflect that transition. Whether the dating is accurate or not, the structure has been ruined for centuries and is now a series of coral-stone walls and broken arches half-buried in the sand.

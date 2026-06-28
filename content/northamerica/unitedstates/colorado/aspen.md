@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Snowbowlaspens.jpg
 latitude: 39.191113
 loc_type: city
 longitude: -106.82356
-score: 0.71
+score: 9.07
+snippet: Roaring Fork Valley ski town where a silver-mining past meets four high Colorado
+  mountains.
 title: Aspen
 type: location
 ---

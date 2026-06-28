@@ -8,6 +8,7 @@ tags:
 - religious
 title: Iglesia y Convento de San Francisco
 type: poi
+score: 7.6
 ---
 
 The Church of San Francisco, two blocks north of Plaza de Bolívar, is one of the oldest surviving churches in Colombia, founded by Franciscan friars within a few decades of the city's establishment in the 1550s. The exterior is plain, almost austere — a single sloping façade of unadorned stone — but the interior carries some of the best colonial-era carved woodwork in Tunja, including a polychromed main altar and side chapels with original retables.

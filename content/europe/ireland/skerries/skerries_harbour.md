@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.5813
 longitude: -6.1100
+score: 7.0
 ---
 
 Skerries Harbour is the heart of the town — a small working fishing harbour where coloured boats bob in the basin and the view stretches out to the three offshore islands: Shenick's, St. Patrick's, and Colt. The harbour is lined with a few seafood restaurants and has a calm, genuinely maritime quality that distinguishes Skerries from the commuter towns to the south.

@@ -8,8 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Rani_ki_vav_-_Patan_-_Gujarat_-_DSC001.jpg
 latitude: 23.85
 loc_type: city
+snippet: Former Gujarat capital known for Rani ki Vav, a richly carved 11th-century
+  stepwell
 longitude: 72.125
-score: 0.51
+score: 7.1
 title: Patan
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9530
 longitude: 45.6200
+score: 7.1
 ---
 
 The Gulistan burial vault is a thirteenth-century mortuary monument near the village of Gülüstan, a few kilometres from old Julfa. It is one of the better-preserved medieval structures in the Julfa area, a tower mausoleum in the tradition common across Nakhchivan and the broader region. The carved stone decoration on the exterior — geometric patterns and inscriptions — reflects the architectural sophistication of the period when this part of the Araz valley was a wealthy crossroads.

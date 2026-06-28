@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_al_crepuscolo_dell_E
 latitude: 37.4648
 loc_type: city
 longitude: 14.9355
-score: 0.42
+score: 6.52
+snippet: Sicilian town west of Catania, marked by a Norman castle on a basalt plug.
 title: Motta S. Anastasia
 type: location
 ---

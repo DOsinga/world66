@@ -1,6 +1,9 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+latitude: 32.2426
+longitude: 76.3213
+score: 2.0
 snippet: Bargaining tips for McLeodganj's silver jewellery shops
 tags:
 - shopping

@@ -17,6 +17,7 @@ story: >
   crossing the desert.
 sources:
   - https://en.wikipedia.org/wiki/Shoubak
+score: 9.2
 ---
 
 Montreal Castle — the Arabic name is Shawbak — crowns a conical hill 1,300 metres above sea level with views stretching across a landscape of sculpted valleys and distant ridges. Baldwin I of Jerusalem built it in 1115 as the most southerly stronghold of the Crusader kingdom, controlling the caravan routes between Egypt and Syria and taxing those who passed through the area known to the Franks as Oultrejordain — "beyond Jordan."

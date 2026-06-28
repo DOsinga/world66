@@ -7,6 +7,7 @@ tags:
 neighbourhood: North Cliff
 latitude: 8.7312
 longitude: 76.7019
+score: 5.5
 ---
 
 The restaurants lining the Varkala cliff path serve a broad menu aimed at the international traveller — fresh Kerala seafood, North Indian standards, Israeli food (Varkala has a significant Israeli visitor contingent), and the usual banana pancake and pasta options. The setting, overlooking the sea from the cliff edge, makes everything taste better.

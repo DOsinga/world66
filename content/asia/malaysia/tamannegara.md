@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Taman_Negara_Sungai_Tembel
 latitude: 4.3833
 loc_type: city
 longitude: 102.3833
-score: 0.64
+score: 8.46
+snippet: Ancient Malaysian rainforest national park entered from Kuala Tahan, with
+  canopy walks, rivers, and jungle trails.
 title: Taman Negara
 type: location
 ---

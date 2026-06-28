@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 7.0702
 longitude: 125.6091
+score: 8.1
 ---
 
 The Davao branch of the National Museum of the Philippines is housed in a building near People's Park and covers the natural history and ethnology of the Mindanao region. The collections include geological specimens, flora and fauna of southern Mindanao, and — most compelling — artefacts and traditional crafts from the indigenous Lumad peoples of the region.

@@ -10,6 +10,7 @@ story: >
   The loggerhead sea turtle (Caretta caretta) nests on this beach between June and August. Females emerge at night to dig their nests above the high-tide line, and the eggs hatch around eight weeks later. EU law and the National Marine Park regulations prohibit night access to the beach during nesting season, and sunbed operators are required to remove their equipment at dusk — which means, unlike at some other Ionian beaches, the rules here are actually enforced.
 sources:
   - https://en.wikipedia.org/wiki/Kalamaki,_Zakynthos
+score: 8.0
 ---
 
 Kalamaki Beach is a kilometre-long stretch of golden sand and clear water that forms the southern edge of the resort. It is part of the National Marine Park of Zakynthos, which was established in 1999 to protect the nesting grounds of the loggerhead sea turtle — one of the most important nesting sites for the species in the Mediterranean.

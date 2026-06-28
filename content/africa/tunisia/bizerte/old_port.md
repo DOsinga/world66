@@ -12,6 +12,7 @@ story: >-
   was deepened by the French in the 1890s to take military vessels, and the
   geometric stone quays are a colonial overlay on what was originally a much
   more ragged natural inlet.
+score: 8.7
 ---
 
 Bizerte's vieux port (Arabic: *al-marsa al-qadim*) is the small, photogenic inner harbour ringed by the medina, the Kasbah, and the Ksiba. Wooden fishing boats — many still painted blue and white in the Tunisian style — moor against the stone quays, mended nets dry along the walls, and a row of low cafés sets out plastic chairs in the afternoon facing the water.

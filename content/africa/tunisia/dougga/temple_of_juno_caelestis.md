@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 The Temple of Juno Caelestis stands on the western edge of the city, isolated from the main forum complex. The deity was a Romanised version of the Phoenician Tanit, and the temple was built around AD 222–235 under Emperor Severus Alexander.

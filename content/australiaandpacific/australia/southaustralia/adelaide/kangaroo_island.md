@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Wildlife-rich island an hour south of Adelaide, reached by ferry or plane"
+score: 8.7
 ---
 
 Kangaroo Island is the third-largest island in Australia and one of the best places in the country for wildlife — largely because it has no foxes or rabbits, pests that wiped out native species everywhere else on the mainland. Koalas, kangaroos, wallabies, platypus, sea lions, and a large variety of birds are all present in numbers that feel extraordinary by mainland standards.

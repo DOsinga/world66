@@ -9,6 +9,7 @@ latitude: 11.9322
 longitude: -85.9554
 story: >
   The tower of La Merced is one of the best viewpoints in the city — a narrow staircase leads up through the belfry to an open platform with 360-degree views over Granada's rooftops, the lake, and Mombacho. The church charges a small fee to climb the tower, and it is one of the most worthwhile uses of a dollar in the city.
+score: 8.8
 ---
 
 Iglesia de La Merced is a colonial church a few blocks north of Parque Central, notable for its elaborate baroque facade and, above all, its climbable bell tower. The facade is one of the most ornate in Nicaragua — rows of carved niches, pilasters, and decorative stonework give it a richness the cathedral's neoclassical style doesn't quite match.

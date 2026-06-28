@@ -16,6 +16,7 @@ title: Vrijdagmarkt
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Vrijdagmarkt,_Ghent
+score: 7.8
 ---
 
 The Vrijdagmarkt (Friday Market) has been Ghent's main public gathering place for political events, executions, and market days since the Middle Ages. The square is dominated by a large statue of Jacob van Artevelde, the 14th-century Ghent leader who allied the city with England during the Hundred Years' War, and ringed by guild houses and merchant buildings dating from the 15th to 19th centuries.

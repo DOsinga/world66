@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Supreme Court of Pakistan occupies a monumental modernist building in the Red Zone, designed by Kenzo Tange — the Japanese architect responsible for Hiroshima's Peace Memorial Park — and completed in 1993. The pink granite facade, the cantilevered roof and the open colonnade at street level are characteristic of Tange's late-period work.

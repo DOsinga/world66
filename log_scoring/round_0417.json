@@ -1,200 +1,200 @@
 {
   "round": 417,
-  "timestamp": "2026-04-12T09:29:58",
+  "timestamp": "2026-06-13T19:34:23",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Florence",
-      "path": "europe/italy/tuscany/florence",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 9.3566,
+      "prior_variance": 10.5351,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Sorrento",
-      "path": "europe/italy/campania/sorrento",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 11.0219,
+      "prior_variance": 9.24624,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Lecce",
-      "path": "europe/italy/puglia/lecce",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 15.3581,
+      "prior_variance": 3.580402,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Chianti Region",
-      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
-      "prior_mu": 23.5922,
-      "prior_sigma": 3.9844,
-      "prior_n": 3
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_score": 13.7595,
+      "prior_variance": 7.77421,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Italian Riviera",
-      "path": "europe/italy/liguria/italianriviera",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 15.5742,
+      "prior_variance": 7.065867,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cortina d'Ampezzo",
-      "path": "europe/italy/veneto/cortina_dampezzo",
-      "prior_mu": 24.18,
-      "prior_sigma": 5.5889,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 7.6204,
+      "prior_variance": 4.129797,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Ravenna",
-      "path": "europe/italy/emiliaromagna/ravenna",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 15.5562,
+      "prior_variance": 7.07138,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Umbria",
-      "path": "europe/italy/umbria",
-      "prior_mu": 22.4719,
-      "prior_sigma": 5.5506,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 11.6654,
+      "prior_variance": 3.585189,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Rimini",
-      "path": "europe/italy/emiliaromagna/rimini",
-      "prior_mu": 22.762,
-      "prior_sigma": 5.9428,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 10.6716,
+      "prior_variance": 3.758376,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Alghero",
-      "path": "europe/italy/sardinia/alghero",
-      "prior_mu": 22.5238,
-      "prior_sigma": 5.8151,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 10.8835,
+      "prior_variance": 2.631294,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Mantua",
-      "path": "europe/italy/lombardia/mantua",
-      "prior_mu": 25.3649,
-      "prior_sigma": 6.0634,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 12.897,
+      "prior_variance": 8.170047,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Abruzzo",
-      "path": "europe/italy/abruzzo",
-      "prior_mu": 22.7066,
-      "prior_sigma": 5.6014,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 12.2927,
+      "prior_variance": 3.490967,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Sanremo",
-      "path": "europe/italy/liguria/sanremo",
-      "prior_mu": 22.2638,
-      "prior_sigma": 4.7842,
-      "prior_n": 2
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 9.5103,
+      "prior_variance": 3.9991,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Ventimiglia",
-      "path": "europe/italy/liguria/ventimiglia",
-      "prior_mu": 22.6958,
-      "prior_sigma": 5.9465,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 7.7715,
+      "prior_variance": 3.009028,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Caltabellotta",
-      "path": "europe/italy/sicily/caltabellotta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 14.2832,
+      "prior_variance": 7.528704,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Oristano",
-      "path": "europe/italy/sardinia/oristano",
-      "prior_mu": 22.7488,
-      "prior_sigma": 5.6503,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 10.5486,
+      "prior_variance": 2.319515,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Bolsena",
-      "path": "europe/italy/lazio/bolsena",
-      "prior_mu": 21.4473,
-      "prior_sigma": 4.0087,
-      "prior_n": 3
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 13.1774,
+      "prior_variance": 8.040029,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Diamante",
-      "path": "europe/italy/calabria/diamante_1",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 11.6499,
+      "prior_variance": 2.564884,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Pisticci",
-      "path": "europe/italy/basilicata/pisticci",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 10.8694,
+      "prior_variance": 2.632111,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Montespertoli",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
-      "prior_mu": 22.6395,
-      "prior_sigma": 5.9384,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_score": 8.9643,
+      "prior_variance": 2.425061,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Figline",
-      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 10.7194,
+      "prior_variance": 2.198621,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Latina",
-      "path": "europe/italy/lazio/latina",
-      "prior_mu": 18.145,
-      "prior_sigma": 6.7064,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 12.0033,
+      "prior_variance": 3.531769,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Balestrino",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Huangguoshu Falls",
+      "path": "asia/china/guizhou/huangguoshu",
+      "prior_score": 10.3128,
+      "prior_variance": 2.142551,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Garlenda",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
-      "prior_mu": 21.7645,
-      "prior_sigma": 4.6007,
-      "prior_n": 2
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 9.4294,
+      "prior_variance": 2.072218,
+      "prior_n": 1
     }
   ]
 }

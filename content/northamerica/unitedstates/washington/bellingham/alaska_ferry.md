@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7180
 longitude: -122.5160
+score: 7.3
 ---
 
 The Bellingham Cruise Terminal in Fairhaven is the southern terminus of the Alaska Marine Highway System, the state ferry network that connects southeast Alaska's coastal communities — Ketchikan, Wrangell, Petersburg, Sitka, Juneau, and beyond — to the contiguous US. The ferry to Ketchikan takes about 37 hours; Juneau is two to three days north. It is one of the great slow-travel routes in North America.

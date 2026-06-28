@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E4%B8%9C%E6%96%B9%E4%B9%8
 latitude: 31.311
 loc_type: city
 longitude: 120.6208
-score: 0.65
+score: 8.79
+snippet: Canal-and-garden city near Shanghai, famed for classical walled gardens and
+  miniature landscapes.
 title: Suzhou
 type: location
 ---

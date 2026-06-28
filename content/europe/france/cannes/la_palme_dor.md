@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.5475
 longitude: 7.0306
+score: 5.6
 ---
 
 La Palme d'Or at the Hôtel Martinez holds two Michelin stars and the status of the most celebrated restaurant in Cannes — the place where the industry lunches during the film festival, where tables book a year in advance for the May weeks, and where the cooking is seriously accomplished year-round. Chef Christian Sinicropi has developed a cuisine that is rooted in Provence while reaching for international influences.

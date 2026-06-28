@@ -7,6 +7,7 @@ tags:
   - sight
 title: Beira Lake
 type: poi
+score: 6.8
 ---
 
 Beira Lake is an unusual feature in a crowded city — a large man-made lake right in the centre of Colombo, originally constructed by the Dutch as part of a defensive canal system. It's now surrounded by hotels, offices, and the Gangaramaya Temple complex, and the Seema Malakaya meditation centre sits on a small island in the lake, connected to the shore by a causeway.

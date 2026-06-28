@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.4
 ---
 
 The wooded park behind Lamberg Castle was laid out as an English-style landscape garden in the early nineteenth century and still preserves a good number of the original specimen trees, including some sycamores and plane trees that must be close to two hundred years old. A small ornamental pond sits in the middle, and a network of gravel paths makes a circuit of about twenty minutes.

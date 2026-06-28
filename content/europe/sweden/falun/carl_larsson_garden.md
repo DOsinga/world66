@@ -7,6 +7,7 @@ tags:
 latitude: 60.6502
 longitude: 15.7298
 snippet: "The artist Carl Larsson's beautifully preserved home in Sundborn village, 12km from Falun"
+score: 8.7
 ---
 
 Carl Larsson was Sweden's most beloved painter, and his home at Sundborn is the best-preserved artist's house in Scandinavia. Larsson and his wife Karin (herself a significant textile designer) transformed a small farmhouse into a remarkable Arts and Crafts interior in the 1890s, painting the walls with bright colours and decorating every surface with folk motifs. Carl then painted the house and family obsessively, and the resulting watercolours became the defining image of Swedish domestic life — reproduced on everything from textbooks to calendars ever since.

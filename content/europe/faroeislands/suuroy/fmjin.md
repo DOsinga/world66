@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Suduroy_F%C3%A1mjin_K%C3%B
 latitude: 61.524687
 loc_type: city
 longitude: -6.87927
-score: 0.5
+score: 7.49
+snippet: Sheltered Suðuroy west-coast village below sea cliffs, whose church holds
+  the original Faroese flag.
 title: Fámjin
 type: location
 ---

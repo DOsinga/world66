@@ -10,6 +10,7 @@ story: >
   The cave's pool stays cool year-round even in the fierce dry-season heat, because it is fed
   by an underground spring that percolates through the surrounding limestone. Local communities
   have used it as a freshwater source for generations, long before it became a visitor attraction.
+score: 7.0
 ---
 
 Goa Kristal — Crystal Cave — is a limestone cavern about 15 kilometres west of Kupang near the village of Bolok. The cave's main feature is a pool of remarkably clear freshwater at its base, lit from above by openings in the cave ceiling that turn the water a vivid blue-green. You swim in it rather than just look at it, which makes it one of the more memorable experiences near Kupang.

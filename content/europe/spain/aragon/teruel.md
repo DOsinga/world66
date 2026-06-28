@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_del_Torico_(Teruel).
 latitude: 40.6005
 loc_type: city
 longitude: -0.9229
-score: 0.55
+score: 7.74
+snippet: High Aragonese provincial capital whose Mudéjar towers form a compact UNESCO-listed
+  old centre
 title: Teruel
 type: location
 ---

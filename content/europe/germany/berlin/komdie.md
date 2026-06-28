@@ -11,6 +11,7 @@ tags:
 title: Komödie am Kurfürstendamm
 type: poi
 url: https://www.komoedie-berlin.de
+score: 6.8
 ---
 
 One of Berlin's best-known boulevard theatres, the Komödie has been staging comedies, farces, and light dramas on the Ku'damm since the 1920s. The programming leans toward crowd-pleasers — sharp dialogue pieces, French bedroom farces in German translation, and the occasional musical revue. Productions are in German.

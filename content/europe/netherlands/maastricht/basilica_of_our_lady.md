@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 8.9
 ---
 
 An 11th-century Romanesque church that feels different from anything else in the Netherlands — older, more austere, built with a gravity that the later Gothic churches of the north never quite match. The westwork towers over the Onze Lieve Vrouweplein square, and the interior has a quality of stillness that the nearby Basilica of Saint Servatius, with its tourist traffic, has largely lost.

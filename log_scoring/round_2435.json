@@ -1,0 +1,200 @@
+{
+  "round": 2435,
+  "timestamp": "2026-06-13T21:42:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 10.7706,
+      "prior_variance": 0.393556,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 6.3595,
+      "prior_variance": 0.662203,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_score": 9.2987,
+      "prior_variance": 0.277674,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "El Chalt\u00e9n",
+      "path": "southamerica/argentina/patagonia/elchalten",
+      "prior_score": 6.5481,
+      "prior_variance": 0.25062,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 3.6547,
+      "prior_variance": 0.250512,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Stirling",
+      "path": "europe/unitedkingdom/scotland/stirling",
+      "prior_score": 5.4101,
+      "prior_variance": 0.205881,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.7277,
+      "prior_variance": 0.184563,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 5.1777,
+      "prior_variance": 0.200436,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 4.4674,
+      "prior_variance": 0.205259,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.2474,
+      "prior_variance": 0.187329,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.4508,
+      "prior_variance": 0.176942,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 3.4315,
+      "prior_variance": 0.184034,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 1.6322,
+      "prior_variance": 0.20891,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 4.0548,
+      "prior_variance": 0.21826,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 4.2269,
+      "prior_variance": 0.214688,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 1.3781,
+      "prior_variance": 0.163401,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.3175,
+      "prior_variance": 0.167889,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 3.1183,
+      "prior_variance": 0.230232,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 5.0895,
+      "prior_variance": 0.221869,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.5575,
+      "prior_variance": 0.166351,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.692,
+      "prior_variance": 0.301881,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 2.8979,
+      "prior_variance": 0.187389,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.0364,
+      "prior_variance": 0.14648,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": -1.5616,
+      "prior_variance": 0.174981,
+      "prior_n": 7
+    }
+  ]
+}

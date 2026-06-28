@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0192
 longitude: 7.6028
+score: 8.6
 ---
 
 The Savoys' Baroque hunting lodge, ten kilometres south-west of the city, is Filippo Juvarra at his most fantastical. A long, low, X-shaped plan opens out from a central oval hall crowned by a copper stag — the building tapers and bulges as the eye follows it.

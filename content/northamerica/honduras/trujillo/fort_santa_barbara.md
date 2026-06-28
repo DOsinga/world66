@@ -15,6 +15,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.3
 ---
 
 The Fortaleza de Santa Bárbara, also called El Castillo, sits on a low headland just east of the town centre with views over the entire sweep of Trujillo Bay. The current stone walls date from the 17th and 18th centuries — the original 1520s structure was repeatedly destroyed and rebuilt as pirates, the British, and finally American filibusters took turns sacking the port.

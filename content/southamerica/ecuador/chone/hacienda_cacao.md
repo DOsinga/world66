@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -0.6800
 longitude: -80.0500
+score: 7.4
 ---
 
 The valleys and hillsides around Chone are among the most important cacao-producing areas in Ecuador, which is itself the world's leading producer of fine-flavor arriba cacao. The Nacional variety, grown in Manabí for centuries, is prized by European chocolatiers for its complex floral and fruity notes — a character that commodity cacao from West Africa cannot replicate.

@@ -11,6 +11,7 @@ story: >
   to give small farmers a direct channel to sell produce without intermediaries.
   Atenas's Friday market has been running ever since, and the stalls are still
   dominated by local farming families rather than resellers.
+score: 7.4
 ---
 
 The Feria del Agricultor runs every Friday morning on the street just off the central park, and it is the best reason to time your visit to coincide with the day. Farmers from the surrounding hills bring fruit, vegetables, cheese, fresh bread, and prepared food. The produce is notably good — Atenas sits in prime growing country for citrus, avocado, and plantain, and prices are a fraction of what you'd pay in San José supermarkets.

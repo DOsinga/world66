@@ -14,6 +14,7 @@ story: >
   cabins where Sami families stayed during the great church feasts. Nearly all
   other church towns in northern Scandinavia have been demolished or burned;
   this is the most complete survivor.
+score: 8.4
 ---
 
 Lappstaden is the oldest preserved Sami church town in Sweden. It consists of around eighty small timber cabins (kåtor) clustered on a slight rise in the middle of Arvidsjaur, beside the now-vanished church for which it was built. Most of the buildings date from the 18th and early 19th centuries; some have been continuously used by the same Sami families for two hundred years.

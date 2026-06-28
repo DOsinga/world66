@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Intimate music venue that has hosted touring acts for four decades"
+score: 7.6
 ---
 
 The Iron Horse is Northampton's most celebrated music venue — a small club with a capacity of around 200 that has been booking touring acts since 1979. Its size makes it one of the better rooms in New England to see any act that fits: the sightlines are good, the sound is consistently decent, and the proximity to the stage is rare at this level.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.5815
 longitude: 107.9750
+score: 6.9
 ---
 
 Kaili rice noodles are a simpler application of the same sour broth that defines suantang yu fish soup. The noodles are thin, smooth, made from rice flour, and served in a bowl of the fermented tomato broth with dried chillies, pickled vegetables, and a spoonful of fragrant oil. It is breakfast food, though it appears at all hours in the small noodle shops around the city's bus station and market areas.

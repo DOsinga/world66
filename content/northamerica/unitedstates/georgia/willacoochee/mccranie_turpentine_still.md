@@ -11,6 +11,7 @@ snippet: "Historic turpentine operation on the National Register — a rare surv
 story: "The turpentine industry once dominated south Georgia's economy. Workers — often convict labourers or debt-bonded African Americans — lived in camps deep in the pine woods, 'boxing' the trees by carving v-shaped cuts into the bark to collect the sticky resin. The McCranie still is one of very few physical remnants of this industry to have survived."
 sources:
   - https://en.wikipedia.org/wiki/McCranie%27s_Turpentine_Still
+score: 6.7
 ---
 
 McCranie's Turpentine Still is a historic site in Willacoochee listed on the National Register of Historic Places. The facility preserves equipment and structures from the longleaf pine turpentine industry that dominated this part of south Georgia from the late 19th century into the mid-20th century.

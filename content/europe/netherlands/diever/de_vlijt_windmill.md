@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.8517
 longitude: 6.3136
+score: 6.2
 ---
 
 De Vlijt is an 18th-century smock mill on the edge of Diever, one of the few surviving windmills in the Westerveld municipality. The mill is maintained by a volunteer miller association and operates on wind days. When the sails are turning, the mill is typically open for visitors to see the grinding mechanism and learn about the mill's history.

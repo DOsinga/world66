@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.12027777777778
 longitude: -134.96916666666667
+score: 7.4
 ---
 
 Rikitea is Mangareva's only settlement of any size — a village of around 1,100 people that functions as the capital of the Gambier commune, with a small school, a medical post, a church, a bar, and little else by way of formal infrastructure. The Saint-Michel Cathedral dominates the waterfront and gives the village a grandeur disproportionate to its size.

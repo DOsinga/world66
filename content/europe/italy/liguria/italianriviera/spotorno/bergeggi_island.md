@@ -9,6 +9,7 @@ tags:
   - nature
   - day_trip
 story: "The small limestone island a kilometre offshore is a protected marine reserve and home to a fifth-century Christian shrine to St Eugene the African — bishop of Carthage, exiled here in 484. The ruined chapel was a pilgrimage site through the Middle Ages and the foundations are still visible at the summit."
+score: 7.8
 ---
 
 A short kayak paddle or boat trip from the Spotorno or Bergeggi seafront brings you to the small island that anchors the bay. The island is uninhabited and a regional nature reserve, with sea caves around its base — the Grotta Marina is the largest, navigable for several tens of metres — and the ruins of the ancient hermitage on the small summit.

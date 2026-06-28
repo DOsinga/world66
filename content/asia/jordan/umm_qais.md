@@ -5,7 +5,9 @@ done:
 latitude: 32.654033
 loc_type: city
 longitude: 35.68446
-score: 0.54
+score: 7.63
+snippet: Northern Jordanian ridge village beside ancient Gadara, overlooking the Sea
+  of Galilee and Yarmouk gorge.
 sources:
 - https://en.wikipedia.org/wiki/Umm_Qais
 - https://en.wikivoyage.org/wiki/Umm_Qais

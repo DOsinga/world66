@@ -5,7 +5,9 @@ done:
 latitude: 56.395876
 loc_type: city
 longitude: -3.43031
-score: 0.49
+score: 7.56
+snippet: Scottish river town and former royal centre, close to Scone Palace and Highland
+  edges
 title: Perth
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0677
 longitude: 7.6826
+score: 8.6
 ---
 
 The most elegant square in Turin and arguably in northern Italy. A long, formal Baroque rectangle laid out in the 1630s, ringed with arcades, terminated by the twin churches of Santa Cristina and San Carlo Borromeo, and presided over by the bronze equestrian statue of Emanuele Filiberto — the *caval ëd bronz* — sword sheathed in mid-flourish.

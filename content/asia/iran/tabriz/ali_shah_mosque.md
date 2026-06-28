@@ -2,7 +2,13 @@
 category: Architecture
 latitude: 38.084
 longitude: 46.2992
+score: 7.8
 snippet: Massive 14th-century Ilkhanid wall, once the largest mosque
+tags:
+- things_to_do
+- sight
+- architecture
+- historic_site
 title: Arg of Tabriz (Ali Shah Mosque)
 type: poi
 ---

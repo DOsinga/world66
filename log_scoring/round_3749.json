@@ -1,0 +1,200 @@
+{
+  "round": 3749,
+  "timestamp": "2026-06-13T23:17:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 22.0276,
+      "prior_variance": 5.255675,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 5.4124,
+      "prior_variance": 0.12756,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 3.9754,
+      "prior_variance": 0.127474,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 4.8103,
+      "prior_variance": 0.129466,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 4.4842,
+      "prior_variance": 0.12547,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 4.0198,
+      "prior_variance": 0.117818,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 3.9009,
+      "prior_variance": 0.117481,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 1.8334,
+      "prior_variance": 0.109497,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.7677,
+      "prior_variance": 0.144591,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 3.4181,
+      "prior_variance": 0.113262,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 3.2824,
+      "prior_variance": 0.122327,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 0.8911,
+      "prior_variance": 0.141603,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.6125,
+      "prior_variance": 0.092884,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": 0.6733,
+      "prior_variance": 0.143438,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_score": 1.5845,
+      "prior_variance": 0.166198,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.2679,
+      "prior_variance": 0.103654,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": -0.113,
+      "prior_variance": 0.11076,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Trichy",
+      "path": "asia/india/tamilnadu/trichy",
+      "prior_score": -0.0304,
+      "prior_variance": 0.115449,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -3.922,
+      "prior_variance": 0.122315,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -5.0643,
+      "prior_variance": 0.108102,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -6.9205,
+      "prior_variance": 0.144988,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "M'Ba\u00efki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_score": -9.945,
+      "prior_variance": 0.266125,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -6.9617,
+      "prior_variance": 0.145644,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -9.9262,
+      "prior_variance": 0.304212,
+      "prior_n": 12
+    }
+  ]
+}

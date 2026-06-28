@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 53.1033
 longitude: 4.7828
+score: 7.8
 ---
 
 De Muy is a freshwater dune slack — a damp, sheltered hollow between the dune ridges — that functions as one of the most important breeding sites for spoonbills in the Netherlands. The reserve is just north of De Koog, reachable by bike in fifteen minutes. A small observation hut gives views over the open water and reed beds without disturbing the birds.

@@ -6,6 +6,7 @@ tags:
 - park
 title: Vulcan Trail
 type: poi
+score: 6.7
 ---
 
 A paved multi-use trail running along the south slope of Red Mountain, connecting several of the Southside neighborhoods and providing access to Vulcan Park from the valley floor. The trail is popular with cyclists and joggers from the surrounding neighborhoods and offers intermittent views of the city.

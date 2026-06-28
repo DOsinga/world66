@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Quinta_da_Boa_Vista
 story: >
   The National Museum that stood in the former imperial palace was the oldest scientific institution in the Americas — founded in 1818 by Dom João VI. In September 2018, a fire destroyed the museum building and most of its 20 million specimens, including irreplaceable indigenous artefacts, Egyptian mummies, and the only dinosaur fossils found in Brazilian territory. The fire was caused by an air conditioning short circuit in an institution that had not received proper government funding for decades.
+score: 6.8
 ---
 
 Quinta da Boa Vista is a large public park in the São Cristóvão neighbourhood of the North Zone, formerly the estate of the Brazilian imperial family. The neoclassical São Cristóvão Palace at its centre housed the National Museum of Brazil — the fire of 2018 destroyed the building and most of its collection. The palace shell is being slowly rebuilt; the museum's remaining collection is gradually being restored and rehoused.

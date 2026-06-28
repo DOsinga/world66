@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "A cantilevered viewing platform high above Åndalsnes"
 latitude: 62.5640
 longitude: 7.6940
+score: 8.5
 ---
 
 The Rampestreken is a striking steel-and-wood platform that juts out over the edge of Nesaksla, the mountain directly above Åndalsnes. From the deck you look straight down on the town, the river mouth, and the fjord stretching off to the west. The whole Romsdalen valley unfolds in the other direction with the Trolltindene and Romsdalshornet on the horizon.

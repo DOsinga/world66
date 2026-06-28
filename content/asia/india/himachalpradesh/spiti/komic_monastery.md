@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.3747
 longitude: 78.0658
+score: 7.6
 ---
 
 Komic is a cluster of houses at around 4,587 metres — one of the highest motorable villages anywhere — sitting on a broad plateau with extraordinary views across Spiti. The small Buddhist monastery here belongs to the Sakyapa order and contains some notable old paintings and a resident monk community, though it is much simpler than the major monasteries at Key or Tabo.

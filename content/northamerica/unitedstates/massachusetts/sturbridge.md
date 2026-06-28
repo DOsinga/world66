@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Center_Meetinghouse,_Old_S
 latitude: 42.1084
 loc_type: city
 longitude: -72.0808
-score: 0.44
+score: 6.98
+snippet: Small Massachusetts town known for Old Sturbridge Village and early New England
+  history
 title: Sturbridge
 type: location
 ---

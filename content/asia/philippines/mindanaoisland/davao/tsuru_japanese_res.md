@@ -1,10 +1,14 @@
 ---
 address: Door 3, Don R. Castillo Bldg., Legaspi St. , Davao City
+latitude: 7.0689
+longitude: 125.6082
 phone: +63 (82) 2210901
+score: 5.8
 tags:
 - eating_out
 - restaurant
 - bar
+- japanese
 title: Tsuru Japanese Restaurant and Sushi Bar
 type: poi
 ---

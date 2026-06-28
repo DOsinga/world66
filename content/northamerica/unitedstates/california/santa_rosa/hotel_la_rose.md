@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 1907 stone hotel facing the Railroad Square station, the city's oldest surviving hotel.
+score: 5.5
 ---
 
 Built in 1907 from the same Mark West basalt as the rest of Railroad Square, Hotel La Rose has been operating as a hotel almost continuously since it opened. We do not review hotels here, but the building is worth a look: a three-storey stone block with a wide veranda, immediately facing the SMART platforms. It is on the National Register of Historic Places and is the anchor of the Railroad Square historic district.

@@ -7,6 +7,7 @@ tags:
 latitude: 59.255
 longitude: -2.560
 snippet: "Long flat northern island with miles of pale sand beaches"
+score: 7.4
 ---
 
 The third-largest of the Orkney isles, Sanday is — as the name suggests — almost entirely sand. The island is low and flat, with beaches stretching for kilometres along the north and west coasts and an extraordinary range of birdlife. Quoyness Chambered Cairn at the southern end is a fine Neolithic monument with views across to Eday and Stronsay.

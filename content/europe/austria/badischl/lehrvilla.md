@@ -7,6 +7,7 @@ snippet: Franz Lehár's summer villa, now a museum of the operetta composer's li
 tags:
 - things_to_do
 - museum
+score: 6.6
 ---
 
 The summer home of operetta composer Franz Lehár (*The Merry Widow*), preserved as a museum with his personal effects, scores, and memorabilia. Guided tours in German, English, and French.

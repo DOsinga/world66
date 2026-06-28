@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mt_Amnye_Machen_-_panorami
 latitude: 34.9
 loc_type: feature
 longitude: 99.2
+score: 7.08
+snippet: Sacred Tibetan mountain massif in Qinghai, encircled by a high-altitude kora
+  through grassland and glaciers.
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Amnye Machen

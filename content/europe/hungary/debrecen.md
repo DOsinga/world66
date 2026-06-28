@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Debrecen_-_Protestant_Grea
 latitude: 47.5314
 loc_type: city
 longitude: 21.626
-score: 0.52
+score: 7.45
 title: Debrecen
+snippet: Eastern Hungarian city with Calvinist roots, centred on the Great Reformed
+  Church and college.
 type: location
 ---
 

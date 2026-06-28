@@ -12,6 +12,7 @@ story: >
   from the start — Genoese traditionalists felt it was too fascist in its grandeur.
   It has since become the city's most-photographed landmark and the default meeting
   place for all Genoese.
+score: 6.6
 ---
 
 The heart of modern Genoa, Piazza De Ferrari is surrounded by monumental buildings from three different periods: the Opera House, the Palazzo della Borsa (stock exchange), and the Palazzo Ducale all face onto the same space. The enormous bronze fountain at the centre, installed in 1936, is the city's most recognisable landmark after the lighthouse.

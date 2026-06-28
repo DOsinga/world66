@@ -5,7 +5,9 @@ done:
 latitude: 38.3957
 loc_type: city
 longitude: 47.6761
-score: 0.27
+score: 5.4
+snippet: Ardabil highland town below Mount Sabalan, linked to Shahsavan nomads, springs,
+  and Safavid history.
 title: Meshkin-Shahr
 type: location
 ---

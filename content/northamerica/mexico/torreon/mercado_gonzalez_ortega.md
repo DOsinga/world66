@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 25.5415
 longitude: -103.411
+score: 6.8
 ---
 
 The central market is the best place in Torreón to eat cheaply and well. The food stalls inside serve gorditas filled with beans, chicharrón, or picadillo; enchiladas with red or green sauce; and aguas frescas in flavours that rotate with the season — jamaica, tamarindo, horchata. The market itself sells produce, dry goods, and household items, and has the organized bustle of a functioning neighbourhood institution rather than a tourist attraction.

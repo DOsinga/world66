@@ -7,6 +7,7 @@ tags:
 - bar
 title: Diesel Nacional
 type: poi
+score: 6.2
 ---
 
 Diesel Nacional is on Avenida 20 de Octubre in Sopocachi, and it has the feel of a bar that has earned its reputation the correct way: by being consistently good rather than by being fashionable. The interior is warm and slightly industrial, the craft beer selection is small but rotates and includes some decent Bolivian micro-brewery output, and the kitchen turns out bar food that is better than it needs to be. It fills up on Thursday and Friday evenings with a mix of young paceños, expats, and travellers who have found out about it from other travellers.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 39.5692
 longitude: 2.6516
+score: 6.8
 ---
 
 Marc Fosh is the most prominent fine-dining restaurant in Palma, occupying the cloister of a seventeenth-century convent that has been converted into the Convent de la Missió hotel. The Welsh chef Marc Fosh has held a Michelin star since 2009 and his cooking uses high-quality Mallorcan and Mediterranean ingredients without the overbearing formality that often accompanies starred restaurants. The dishes change with the season and lean toward clean, precise presentations of local fish, vegetables, and meat.

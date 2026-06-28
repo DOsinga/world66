@@ -1,0 +1,200 @@
+{
+  "round": 3392,
+  "timestamp": "2026-06-13T22:50:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.1721,
+      "prior_variance": 0.168131,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 4.3845,
+      "prior_variance": 0.119202,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 6.5214,
+      "prior_variance": 0.134435,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 2.7399,
+      "prior_variance": 0.154744,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": -0.4781,
+      "prior_variance": 0.133425,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.2403,
+      "prior_variance": 0.125715,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": 0.2169,
+      "prior_variance": 0.109323,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": 0.1829,
+      "prior_variance": 0.111373,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -2.2659,
+      "prior_variance": 0.152502,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 0.4663,
+      "prior_variance": 0.109739,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.2073,
+      "prior_variance": 0.136063,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -0.8747,
+      "prior_variance": 0.129291,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -2.5778,
+      "prior_variance": 0.127684,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -3.3473,
+      "prior_variance": 0.13461,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.5863,
+      "prior_variance": 0.131572,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -2.2394,
+      "prior_variance": 0.132366,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -2.308,
+      "prior_variance": 0.138575,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_score": -3.7381,
+      "prior_variance": 0.274268,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -0.7595,
+      "prior_variance": 0.149434,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -1.221,
+      "prior_variance": 0.141575,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -4.1343,
+      "prior_variance": 0.135659,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -4.4532,
+      "prior_variance": 0.151573,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -4.7807,
+      "prior_variance": 0.19201,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.4541,
+      "prior_variance": 0.161368,
+      "prior_n": 10
+    }
+  ]
+}

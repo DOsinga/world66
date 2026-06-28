@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, architecture]
 latitude: 48.325
 longitude: 19.6671
 story: Built in 1925 in a Moorish-revival style, the Lučenec Synagogue was one of the largest synagogues in Slovakia. Its congregation was nearly entirely wiped out in the Holocaust — of the Jewish community that once numbered over 2,000, fewer than 200 survived. The building now stands as a cultural centre and a memorial to that loss.
+score: 8.2
 ---
 
 The Lučenec Synagogue is the most striking building in the town and one of the most architecturally significant in southern Slovakia. Built in 1925 in a bold Moorish-revival style, it served the Neolog Jewish congregation of Lučenec — then called Losonc under Hungarian rule — at a time when the town had one of the largest Jewish populations in the region.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.4070
 longitude: -1.4433
+score: 7.8
 ---
 
 The Plaza Mayor is the heart of the upper town — small, irregularly shaped, with the casa consistorial (town hall) at one end and a row of arcaded houses on the lower side. The arcades date from the 16th century and are still propped with original wooden columns that have weathered into a deep grey.

@@ -3,6 +3,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.440822
 longitude: 2.198288
+score: 5.0
 snippet: Large open-air shopping mall in Sant Andreu district
 tags:
 - shopping

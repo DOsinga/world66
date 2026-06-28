@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 28.0972
 longitude: -17.3282
+score: 7.0
 ---
 
 La Calera is the oldest part of the Valle Gran Rey settlement, perched on a ledge high on the valley wall with views across the entire valley and out to sea. The village predates the beach communities and retains a more traditional Canarian character — whitewashed houses, narrow stone lanes, and older residents who have lived here through the decades of change.

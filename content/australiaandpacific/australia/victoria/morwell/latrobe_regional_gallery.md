@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -38.2367
 longitude: 146.3945
+score: 7.3
 ---
 
 The Latrobe Regional Gallery on Commercial Road is the main cultural venue in the Latrobe Valley and punches well above its weight for a regional gallery of this size. The permanent collection focuses on Australian art with a particular strength in works connected to the region — there are pieces reflecting the valley's industrial heritage alongside landscape paintings and contemporary works from artists who have lived and worked in Gippsland.

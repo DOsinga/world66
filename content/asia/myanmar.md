@@ -1,29 +1,31 @@
 ---
-latitude: 17.17505
-longitude: 95.999965
-title: Myanmar
-type: location
-image: myanmar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bagan,_Myanmar,_Htilominlo_Temple_and_other_Buddhist_stupas_in_Bagan_plain.jpg
-image_license: CC BY 4.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Argenberg" title="User:Argenberg">Vyacheslav
-  Argenberg</a>
-quick_facts:
-  Population: "55 million"
-  Currency: Kyat (cash only)
-  Buddhist Pagodas: "Over 10,000 in Bagan alone"
-  Driving Side: "Right (switched from left in 1970)"
 done:
   country_cleanup: 2026-03-29
-score: 0.37
+image: myanmar.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Argenberg" title="User:Argenberg">Vyacheslav
+  Argenberg</a>
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bagan,_Myanmar,_Htilominlo_Temple_and_other_Buddhist_stupas_in_Bagan_plain.jpg
+latitude: 17.17505
 loc_type: country
+longitude: 95.999965
+quick_facts:
+  Buddhist Pagodas: Over 10,000 in Bagan alone
+  Currency: Kyat (cash only)
+  Driving Side: Right (switched from left in 1970)
+  Population: 55 million
+score: 0.53
+snippet: Southeast Asian country of temple plains, golden pagodas, floating villages,
+  and deep political trouble
+title: Myanmar
+type: location
 ---
 
 Myanmar is one of Southeast Asia's most remarkable countries — and one of its most troubled. Ancient temple cities, floating villages, golden pagodas, and extraordinary landscapes make it genuinely compelling for travellers. But the military coup of February 2021 changed everything. The country is now in a civil war, tourist arrivals have collapsed, and most Western governments advise against all travel.
 
 That context matters before you read anything else here.
 
-The core tourist circuit — [Yangon](/asia/myanmar/yangon), [Bagan](/asia/myanmar/bagan), [Mandalay](/asia/myanmar/mandalay), [Inle Lake](/asia/myanmar/inlelake) — remains accessible and sees a modest flow of visitors, mainly from China, Thailand, and a handful of independent Western travellers who've made a deliberate choice to go. Outside that circuit, large parts of the country are active conflict zones. Rakhine, Shan, Kachin, Kayah, Chin, Sagaing, and Magway regions all have ongoing fighting.
+The core tourist circuit — [Yangon](/asia/myanmar/yangon), [Bagan](/asia/myanmar/bagan), [Mandalay](/asia/myanmar/mandalay), [Inle Lake](/asia/myanmar/inlelake) — remains accessible and sees a modest flow of visitors, mainly from China, Thailand, and a handful of independent Western travellers who've made a deliberate choice to go. [Hsipaw](/asia/myanmar/hsipaw), once a popular Shan State trekking base, needs much more caution now. Outside the core circuit, large parts of the country are active conflict zones. Rakhine, Shan, Kachin, Kayah, Chin, Sagaing, and Magway regions all have ongoing fighting.
 
 If you do go: every dollar you spend funds the junta to some degree. Visa fees (currently $50) go to the military. Entry fees to Bagan and Inle Lake go to the military. All businesses pay government taxes. You can minimise how much reaches the generals — eat at local teahouses, stay at family-run guesthouses, avoid state enterprises — but you can't eliminate it. That's a decision each traveller has to make for themselves.
 

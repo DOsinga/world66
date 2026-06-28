@@ -1,9 +1,13 @@
 ---
 address: 4001 S. DECATUR SUIT 31
+latitude: 36.117966
+longitude: -115.209664
 phone: 702-202-0333
+score: 6.5
 tags:
 - eating_out
 - restaurant
+- indian
 title: Shalimar
 type: poi
 ---

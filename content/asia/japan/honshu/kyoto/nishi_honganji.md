@@ -1,12 +1,14 @@
 ---
 latitude: 34.9924
 longitude: 135.7515
+score: 8.6
 snippet: Older sibling of Higashi Hongan-ji and one of Kyoto's UNESCO sites
 tags:
 - things_to_do
 - temple
 - unesco
 - sight
+- nishiki
 title: Nishi Hongan-ji
 type: poi
 ---

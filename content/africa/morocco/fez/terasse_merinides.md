@@ -7,6 +7,7 @@ tags:
 title: Terrasse des Mérinides
 type: poi
 snippet: "Café terrace beside the Merinid Tombs with a sweeping medina view"
+score: 7.1
 ---
 
 At the top of the hill beside the Merinid Tombs, the Terrasse des Mérinides is the most accessible of the overlook cafés that line the ridge above Fes el-Bali. The café serves tea, coffee, and soft drinks only — no alcohol — but the view it commands is the whole reason to be here: the medina laid out below, dense and white, with Al-Qarawiyyin's green tiled dome at the centre and the Ville Nouvelle grid visible in the distance.

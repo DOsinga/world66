@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - park
+score: 7.1
 ---
 
 Brandywine Park is Wilmington's central park, 178 acres along both banks of the Brandywine River between the city centre and the Brandywine Valley. It was designed in 1886 by Samuel Parsons Jr., a partner of Frederick Law Olmsted, and retains the Olmsted-influenced curving paths, meadows, and naturalistic plantings.

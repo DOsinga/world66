@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 24.1471
 longitude: 120.6843
+score: 6.5
 ---
 
 Taichung Park is the oldest park in the city, laid out by the Japanese in 1903 around a small lake. The signature image is the twin-pavilion lakeside structure (Hu Xin Ting), built in 1908 to mark the opening of the north-south railway, with curved roofs over a small bridge across the water.

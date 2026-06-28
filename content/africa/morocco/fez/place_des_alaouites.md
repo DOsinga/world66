@@ -8,6 +8,7 @@ tags:
 title: Place des Alaouites
 type: poi
 snippet: "Grand square facing the Royal Palace's seven monumental brass gates"
+score: 7.7
 ---
 
 Place des Alaouites is the broad formal square that faces the main entrance to the Royal Palace of Fez. The seven sets of ornate brass doors — each set flanked by columns, decorated with carved cedar and zellige tilework, and surmounted by carved stone pediments — make up the most theatrical facade in the city outside the medina. Enormous zellige-lined fountains occupy each end of the square.

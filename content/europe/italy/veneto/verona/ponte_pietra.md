@@ -8,6 +8,7 @@ tags:
 - sight
 title: Ponte Pietra
 type: poi
+score: 8.2
 ---
 
 Verona's oldest bridge, crossing the Adige to the east bank near the Duomo. Built by the Romans in the 1st century BC, the bridge was partially destroyed by retreating German forces in 1945; the stones were salvaged from the riverbed and the bridge reconstructed to its original form by 1959. Two of the five arches are Roman originals. Walking across it gives fine views of the Adige and the hillside of San Pietro, and leads to the staircase up to Castel San Pietro, the city's best viewpoint.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, religious, architecture]
 latitude: 43.5660
 longitude: 13.5830
 story: An eleventh-century Romanesque church built directly on the beach by Benedictine monks. Survived an earthquake in the twelfth century, was abandoned, and was rediscovered when the bay was opened up for tourism in the nineteenth. The stone glows pink at sunset.
+score: 7.8
 ---
 
 The little Romanesque church of Santa Maria di Portonovo stands directly on the shoreline of the bay, built by Benedictine monks in the eleventh century out of pale local stone. The plan is a Greek cross, the masonry is unpainted, and the interior is a study in stripped-down Romanesque clarity.

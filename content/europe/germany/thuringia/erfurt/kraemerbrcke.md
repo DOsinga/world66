@@ -11,6 +11,7 @@ story: >
   The Krämerbrücke has been continuously inhabited since around 1325 — longer than any other inhabited bridge in Europe. During the Middle Ages it housed 62 shops and dwellings; today 32 remain. The residents are required to keep the exterior of their buildings in a state consistent with the medieval streetscape.
 sources:
   - https://en.wikipedia.org/wiki/Kr%C3%A4merbr%C3%BCcke
+score: 9.1
 ---
 
 The Krämerbrücke (Merchants' Bridge) is Erfurt's most photographed sight and one of the most unusual streets in Germany. A medieval stone bridge lined on both sides with half-timbered houses, it spans the Breitstrom arm of the Gera River and has been continuously occupied since the 14th century — you can look through the windows of shops and apartments and see people living and working as they have for 700 years.

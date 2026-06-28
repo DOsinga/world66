@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Dense oasis garden below the town, fed by ancient foggara water channels"
+score: 8.1
 ---
 
 The palm grove that stretches below the town and along the edge of the sebkha is the agricultural heart of Timimoun: tens of thousands of date palms, with small plots of vegetables, alfalfa and grain growing in their shade. The whole oasis is watered by *foggara* — narrow underground tunnels, dug by hand a thousand years ago, that bring groundwater from the high desert to the gardens by gravity.

@@ -18,6 +18,7 @@ story: >
   of its history, in Hungarian rather than Slovak cultural territory.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_St._Elizabeth_(Ko%C5%A1ice)
+score: 8.8
 ---
 
 St. Elisabeth Cathedral is the largest Gothic cathedral in Slovakia and the easternmost Gothic cathedral in Central Europe — a distinction that tends to surprise visitors who expect the elaborate Gothic tradition to have thinned out long before reaching the Slovak-Hungarian borderland. Construction began around 1378 and continued for over a century, and the result is a cathedral of genuine grandeur: a five-nave structure with a richly decorated exterior, twin towers (one complete, one truncated), and a refined late Gothic interior.

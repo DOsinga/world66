@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 49.00944
 longitude: 8.41167
+score: 6.3
 ---
 
 The Karlsruhe Institute of Technology is one of Germany's elite research universities, founded in 1825 and consistently ranked among the top three technical universities in the country alongside Munich's TU and Berlin's TU. The campus spreads across the city centre in a mixture of 19th-century lecture halls and modernist research facilities.

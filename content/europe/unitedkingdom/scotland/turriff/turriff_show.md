@@ -8,6 +8,7 @@ tags:
 - festival
 title: Turriff Show
 type: poi
+score: 6.8
 ---
 
 The Turriff Show, held on the first Sunday and Monday of August, is Scotland's largest two-day agricultural show and one of the oldest — it has run since 1864, with breaks only for the world wars and the 2001 foot-and-mouth crisis. It draws around 30,000 visitors over the two days to the Haughs of Turriff just south of the town, where livestock judging, heavy-horse classes, sheepdog trials, vintage tractor displays, and trade stands fill 60 acres of show field.

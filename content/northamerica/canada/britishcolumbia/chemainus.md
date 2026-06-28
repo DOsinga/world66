@@ -5,7 +5,9 @@ done:
 latitude: 48.922499
 loc_type: city
 longitude: -123.718414
-score: 0.47
+score: 7.48
+snippet: Vancouver Island town known for large outdoor murals depicting logging and
+  First Nations history.
 title: Chemainus
 type: location
 ---

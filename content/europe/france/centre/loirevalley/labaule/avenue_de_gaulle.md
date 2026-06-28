@@ -8,6 +8,7 @@ tags:
   - shopping
   - sight
 snippet: "The main shopping avenue, running inland from the casino."
+score: 6.0
 ---
 
 The Avenue du Général de Gaulle runs straight inland from the casino, climbing gently away from the sea. It is the main shopping street of La Baule — clothes shops, jewellers, ice-cream parlours, and the kind of luxury food shops that mark a wealthy resort town: a salon de thé at one end, a chocolatier at the other.

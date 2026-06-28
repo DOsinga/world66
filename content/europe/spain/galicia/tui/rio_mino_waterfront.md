@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.0399
 longitude: -8.6408
+score: 6.2
 ---
 
 The riverfront at Tui sits below the old town, at the foot of the hill, where the River Miño marks the border between Spain and Portugal. A promenade runs along the Spanish bank, with views across to the walled fortifications of Valença and the green hills of Portugal beyond.

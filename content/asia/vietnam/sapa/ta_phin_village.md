@@ -12,6 +12,7 @@ story: >
   silver cloth that takes years to learn to assemble and is worn daily, not just for
   festivals. The village has resisted the homogenisation that has changed some of the
   more tourist-heavy settlements around Sapa.
+score: 7.8
 ---
 
 Ta Phin is a Red Dao village about 12 km from Sapa, set in a valley north of town and accessible by motorbike or as part of a guided trek. The Red Dao are immediately recognisable by their extraordinary red headdresses and elaborately embroidered clothing. The village is quieter than Cat Cat and the minority culture more intact — partly because the approach is less convenient and partly because the community has been more selective about how it engages with tourism.

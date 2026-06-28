@@ -7,6 +7,7 @@ tags:
 - sight
 title: Curanderismo and the Shamans
 type: poi
+score: 8.8
 ---
 
 Huancabamba is one of the most important centres of curanderismo in South America, a syncretic healing tradition that blends indigenous Andean plant medicine with Catholic symbolism and pre-Columbian ritual. The most respected healers — known as curanderos or maestros — live in the mountain villages above Huancabamba rather than in the town itself, and work primarily at night at the sacred lakes.

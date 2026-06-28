@@ -15,6 +15,7 @@ story: >
   Year and major festivals, Liuyang's own display over the Liuyang River is
   prepared by the town's master pyrotechnicians and is extraordinary by any
   standard.
+score: 7.4
 ---
 
 Liuyang, 60 kilometres east of Changsha, is the fireworks capital of the world — producing over half of global consumer fireworks output from a county of workshops, factories, and family enterprises that have made explosives for over a thousand years. The Liuyang Fireworks Museum covers the history and craft of the industry, from Tang dynasty pine-powder squibs to modern computer-controlled shells. The workshops visible from the road and the market in the town centre sell retail fireworks legally, something Chinese cities themselves do not permit.

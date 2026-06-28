@@ -12,6 +12,7 @@ tags:
 - market
 title: Mercato di Ballarò
 type: poi
+score: 9.0
 ---
 
 Palermo's oldest and most atmospheric street market, running through the Albergheria district in the shadow of the Palazzo dei Normanni. Vendors sell produce, fish, meat, olives, cheese, and street food — arancine, panelle (chickpea fritters), sfincione (thick Sicilian pizza), and stigghiola (grilled intestines) — from carts and stalls along a dense network of streets. The noise, smell, and visual chaos are entirely the point.

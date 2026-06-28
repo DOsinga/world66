@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.29626
 longitude: -90.18569
+score: 7.1
 ---
 
 The state's main art museum has a permanent collection focused on Mississippi artists — Walter Anderson's Gulf Coast watercolours, the self-taught painter Theora Hamblett, the photographer Birney Imes — alongside touring exhibitions. It is small enough to do in an hour and good enough to be worth the time.

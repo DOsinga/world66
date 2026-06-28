@@ -9,6 +9,7 @@ latitude: 50.83012
 longitude: 3.62958
 story: >
   According to local legend, the Virgin of Kerselare appeared to a shepherd named Berthold in 1233, instructing him to build a chapel in the forest. The original wooden statue reputedly found its way back to the clearing after being moved to the parish church in Edelare multiple times — each time disappearing overnight and reappearing at the pilgrimage site. The current chapel dates from 1450.
+score: 6.2
 ---
 
 Kerselare is a woodland pilgrimage site in the hamlet of Edelare, about three kilometres south-east of Oudenaarde. A small chapel in a clearing has drawn pilgrims since the thirteenth century, and the surrounding oak forest gives the place a stillness that is quite different from the town's Gothic churches. The path from the road to the chapel is well-worn and takes about ten minutes on foot.

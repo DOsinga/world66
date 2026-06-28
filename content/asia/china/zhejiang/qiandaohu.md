@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_city_-_Qian_Dao_La
 latitude: 29.6092
 loc_type: feature
 longitude: 118.99
+score: 7.71
+snippet: Forested reservoir lake in Zhejiang, dotted with drowned hilltops and the
+  submerged ancient city of Shicheng.
 sources:
 - https://en.wikivoyage.org/wiki/Qiandaohu
 title: Qiandao Lake

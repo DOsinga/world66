@@ -11,7 +11,9 @@ image_source: https://www.flickr.com/photos/38911919@N00/14136857869
 latitude: 51.5719
 loc_type: city
 longitude: 4.7683
-score: 0.52
+score: 7.81
+snippet: Southern Dutch student town of cafe terraces, Brabantine Gothic, and a relaxed
+  old centre.
 title: Breda
 type: location
 ---

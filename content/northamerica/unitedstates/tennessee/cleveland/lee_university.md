@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 snippet: A leafy, well-kept private university campus with a Greek Revival administration building and outdoor walkway
+score: 5.3
 ---
 
 **Lee University** is the largest Christian university in Tennessee — a private, Church of God–affiliated school of about 5,000 students — and its compact campus sits just south of downtown Cleveland. The walkable centre is **Pedestrian Mall**, a tree-lined diagonal path running from the 1947 Old Main Building down to Centenary Avenue, with brick academic halls and the **Conn Center** on either side.

@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/114894128@N08/26039097930
 latitude: 39.663982
 loc_type: city
 longitude: 20.852278
-score: 0.61
+score: 8.47
+snippet: Epirus lake city framed by mountains, Ottoman castle walls, and Ali Pasha
+  history.
 title: Ioannina
 type: location
 ---

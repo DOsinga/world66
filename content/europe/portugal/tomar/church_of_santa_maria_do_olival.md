@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Church_of_Santa_Maria_do_Olival
 story: >
   The Church of Santa Maria do Olival served as the mother church for all Portuguese overseas territories during the Age of Discovery — a remarkable administrative role for a modest parish church in an inland town. By virtue of this status, every Portuguese church established in Africa, Asia, and Brazil was canonically subject to this building in Tomar, giving the Order of Christ and its properties enormous ecclesiastical reach during the era of expansion.
+score: 7.8
 ---
 
 Santa Maria do Olival stands at the edge of the old town, a sober Gothic church that appears older than it is — rebuilt in the thirteenth century on an earlier foundation, its unadorned façade gives little hint of its historical importance. For a provincial church it has played an outsized role: this was the burial place of several Masters of the Knights Templar and later the Order of Christ, and in the age of Portuguese exploration it served as the canonical mother church for all overseas territories claimed by the Portuguese crown.

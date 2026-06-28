@@ -12,6 +12,7 @@ story: >
   built by King Pagan Min in 1847 in a deliberate echo of the Ananda Temple at Bagan —
   a 19th-century ruler consciously invoking the 11th-century golden age of Burmese
   architecture.
+score: 6.6
 ---
 
 Kyauktawgyi Pagoda sits on the eastern side of Taungthaman Lake, a short walk from U Bein Bridge. The structure follows the cruciform plan of the Ananda Temple at Bagan, with tall entrance porches on four sides leading to a central sanctuary. The scale is more modest than its inspiration but the proportions are good, and the setting near the lake gives it a tranquil quality.

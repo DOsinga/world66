@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Catedral de León
 type: poi
+score: 9.4
 ---
 
 The Cathedral of León — known as the Pulchra Leonina, the "Beautiful Leonine" — is one of the finest Gothic buildings in Spain and arguably the most remarkable for its windows. The walls are almost entirely replaced by stained glass: over 1,800 square metres of it, dating from the 13th to the 20th century. On a bright day the interior is flooded with amber and blue light in a way that no other Spanish cathedral quite matches.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.9825
 longitude: -86.4782
+score: 7.8
 ---
 
 An Italianate Victorian mansion begun in 1857 and completed after the Civil War, Riverview is one of the finest antebellum houses in western Kentucky still open to the public. The house tells a Civil War story by omission: construction was interrupted when Bowling Green fell under Confederate control, then Union occupation, and the family didn't move in until 1872 — the half-finished house sat through the entire war. The guided tour traces the family's history through the house, with original furnishings and period details throughout.

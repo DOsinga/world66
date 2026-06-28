@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+score: 7.1
 ---
 
 The oldest church in La Serena, with stone walls a metre thick and a heavy bell tower that has shrugged off four centuries of earthquakes. Built by the Franciscans from 1585, finished around 1627, declared a national monument in 1977.

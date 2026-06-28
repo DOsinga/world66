@@ -7,6 +7,7 @@ tags:
 latitude: 35.9040
 longitude: 14.5020
 snippet: Small island in Marsamxett Harbour with an 18th-century fort and marina
+score: 7.2
 ---
 
 Manoel Island sits in Marsamxett Harbour just across a narrow channel from Sliema, connected by a short causeway. The island is dominated by Fort Manoel, an 18th-century Knights of Malta fortification that has been slowly deteriorating for decades but is now being restored. The surrounding area is a working marina and boatyard, with the slightly ramshackle charm that comes from a place that has not yet been fully gentrified.

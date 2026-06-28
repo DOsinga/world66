@@ -10,6 +10,7 @@ story: When Eliel Saarinen built Hvitträsk in 1903 it was a working studio for 
   station. Today it survives almost untouched — fabrics, ceramics, even most of
   the furniture is original — making it one of the most coherent national-romantic
   ensembles anywhere.
+score: 8.5
 ---
 
 The architects' studio and house at Hvitträsk, on a wooded ridge above a lake in Kirkkonummi, 30 km west of Helsinki. Designed and built between 1901 and 1903 by Eliel Saarinen, Herman Gesellius, and Armas Lindgren as both a working studio and a home for their families, it is the masterpiece of Finnish national-romantic domestic architecture.

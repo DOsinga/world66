@@ -9,6 +9,7 @@ latitude: 60.7158
 longitude: 28.7292
 story: >
   The Castle was built by Swedish crusaders in 1293 — the year they conquered the Karelian Isthmus from Novgorod and planted this fortress in the bay as a statement of intention. For three centuries it was the easternmost fortification of Catholic Europe, a solitary bastion staring across the water toward the Orthodox world.
+score: 8.8
 ---
 
 Vyborg Castle stands on a small island in the bay, connected to the town by a bridge, and is the most recognisable landmark in the city. The Swedish-built fortress dates from 1293, and the Tower of St. Olav — the main keep — was raised to its present height in the 16th century. The tower offers the best views over the town, the bay, and on clear days the surrounding archipelago.

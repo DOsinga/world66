@@ -8,6 +8,7 @@ tags:
 - sight
 title: Christophstal
 type: poi
+score: 7.4
 ---
 
 The Forbach river drops out of Freudenstadt into a narrow forested valley known as Christophstal. From the 16th to the 19th century this was the industrial heart of the region: silver and lead mines, smelting furnaces, hammer mills, and the ironworks that supplied tools and weapons to the Duchy of Württemberg. Almost all of that is gone now — what remains are scattered foundations, a restored furnace house, information panels, and a mining adit you can peer into.

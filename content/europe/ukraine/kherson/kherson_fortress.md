@@ -9,6 +9,7 @@ latitude: 46.6280
 longitude: 32.6070
 story: >
   The fortress was begun in 1778 under the supervision of Hannibal, the great-grandson of an Abyssinian slave brought to Russia by Peter the Great and the grandfather of Alexander Pushkin. Pushkin later memorialised his ancestor in the unfinished novel "The Moor of Peter the Great."
+score: 6.4
 ---
 
 The ruins of Kherson's original fortress stand near the river in the oldest part of the city. Founded in 1778 as the anchor of Russian power on the lower Dnipro, the fortress enclosed shipyards, arsenals, barracks, and the first buildings of the new city. The earthwork ramparts and some stone structures survive in a partly maintained state.

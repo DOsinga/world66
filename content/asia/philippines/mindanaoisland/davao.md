@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Phils_Davao_City_San_Pedro
 latitude: 7.064831
 loc_type: city
 longitude: 125.608062
-score: 0.49
+score: 7.27
+snippet: Mindanao's largest city, where durian markets and Davao Gulf sit below Mount
+  Apo.
 title: Davao
 type: location
 ---

@@ -2,13 +2,15 @@
 done:
   location_enrich: '2026-06-03'
 image: grevenmacher.jpg
-image_source: https://www.flickr.com/photos/58411470@N00/6863379254
-image_license: CC BY 2.0
 image_attribution: kewl on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/58411470@N00/6863379254
 latitude: 49.679313
 loc_type: city
 longitude: 6.443098
-score: 0.48
+score: 7.24
+snippet: Luxembourg Moselle wine town on the German border, with riverside terraces
+  and sparkling wine cellars.
 title: Grevenmacher
 type: location
 ---

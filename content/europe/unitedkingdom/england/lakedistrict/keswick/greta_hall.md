@@ -8,6 +8,7 @@ tags:
 latitude: 54.6039
 longitude: -3.1390
 story: "Samuel Taylor Coleridge moved his family into Greta Hall in 1800 to be near Wordsworth at Grasmere. He invited Robert Southey to share the house in 1803; Southey stayed for forty years and raised both his and Coleridge's children there after Coleridge wandered off into addiction and lecturing."
+score: 6.8
 ---
 
 A handsome late-Georgian house just above the river, hidden behind Keswick School. It is privately owned and only occasionally opened for tours, but worth a detour even just to see from the outside — the literary heart of Lake District Romanticism arguably sits here as much as at Dove Cottage.

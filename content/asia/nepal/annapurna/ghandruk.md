@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ghandruk
 story: >
   Ghandruk is the main village of the Gurung people in the Annapurna region, and the Gurung Museum here documents a culture defined by its relationship with the British and Indian armies. More Gurkha soldiers have been recruited from Ghandruk and the surrounding villages than from almost anywhere else in Nepal. The stone houses, slate roofs, and cobbled alleys of Ghandruk look almost medieval — little has changed in the architecture since the village was built, though satellite dishes now poke through the rooflines.
+score: 7.8
 ---
 
 Ghandruk (1,940m) is the main Gurung village in the Annapurna foothills and one of the most attractive settlements on any of the regional treks. The village sits on a south-facing hillside with direct views of Annapurna South and Machhapuchhre, its stone-flagged lanes and slate-roofed houses spreading up the slope in tiers. It is a natural stop on both the Annapurna Base Camp trek and the loop from Nayapul via Poon Hill.

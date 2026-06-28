@@ -7,6 +7,7 @@ tags:
 title: Budd Bay Cafe
 type: poi
 snippet: Long-running waterfront restaurant on Percival Landing
+score: 5.8
 ---
 
 A casual American restaurant directly on Percival Landing with the best dining-room view in Olympia — full-height windows facing west across Budd Inlet to the Olympic Mountains. Open since 1985 and a reliable favourite for visitors and state workers' lunch meetings.

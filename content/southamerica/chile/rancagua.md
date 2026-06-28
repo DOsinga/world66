@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chile,_Rancagua,_Gobierno_
 latitude: -34.170243
 loc_type: city
 longitude: -70.740718
-score: 0.39
+score: 6.46
+snippet: Central Valley Chilean city known for the 1814 Battle of Rancagua in its
+  main plaza.
 title: Rancagua
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 - sight
 title: St Clair Beach
 type: poi
+score: 7.6
 ---
 
 St Clair is Dunedin's premier beach, a long stretch of dark volcanic sand facing the open Southern Ocean about 5 kilometres south of the city centre. The waves are consistent and powerful — this is a proper surf beach, with a dedicated local surfing community that braves the cold Southern Ocean water year-round. Board rental is available and conditions suit intermediate to experienced surfers.

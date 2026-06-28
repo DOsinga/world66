@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Bistro Jo Jo
 type: poi
+score: 5.9
 ---
 
 A French-style bistro on Calgary's busy 17th Avenue strip, with marble tiles, red banquettes, and a menu leaning toward light Provencal dishes. The mousse au chocolat is the standout dessert. Reservations recommended.

@@ -16,6 +16,7 @@ story: >
   uprising against European colonisers in North American history, and the
   communities around Española were at the centre of it. When the Spanish
   returned twelve years later, they rebuilt their churches on the same sites.
+score: 9.1
 ---
 
 The Church of Santa Cruz de la Cañada, a few kilometres east of Española in the village of Santa Cruz, is one of the oldest and most significant colonial churches in the American Southwest. The current building dates to the 1730s and replaced an earlier structure built after the Spanish reconquest of New Mexico following the Pueblo Revolt of 1680. It is a National Historic Landmark.

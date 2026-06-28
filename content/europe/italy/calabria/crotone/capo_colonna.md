@@ -18,6 +18,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Juno_Lacinia_(Crotone)
   - https://en.wikipedia.org/wiki/Capo_Colonna
+score: 9.0
 ---
 
 Ten kilometres south of Crotone, a single Doric column stands on a rocky promontory above the Ionian Sea. This is all that remains of the Temple of Hera Lacinia, once the most important sanctuary in Magna Graecia — a vast structure with 48 columns that served as the religious and economic centre for all the Greek colonies of southern Italy. Pythagoras is said to have delivered lectures here. The site was so sacred that even warring cities respected its neutrality.

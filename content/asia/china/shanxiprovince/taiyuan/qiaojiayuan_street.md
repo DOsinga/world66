@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.8690
 longitude: 112.5580
+score: 6.0
 ---
 
 Qiaojiayuan and the surrounding pedestrian streets in the eastern city centre are Taiyuan's main food and entertainment district, lined with Shanxi-cuisine restaurants, hot pot chains, snack stalls, and the night market vendors who set up from early evening. The atmosphere is busy and informal — this is where residents eat out rather than a tourist area — and the density of Shanxi noodle and vinegar-based dishes available in a single street makes it the easiest place in the city to eat well without much planning.

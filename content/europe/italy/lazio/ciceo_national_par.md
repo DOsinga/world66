@@ -4,8 +4,10 @@ done:
 latitude: 41.34
 longitude: 13.05
 title: Circeo National Park
+snippet: Coastal Lazio national park combining a limestone promontory, dunes, marsh
+  lakes, and oak forest
 type: location
-score: 0.62
+score: 8.12
 loc_type: feature
 ---
 

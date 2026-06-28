@@ -1,0 +1,200 @@
+{
+  "round": 4732,
+  "timestamp": "2026-06-14T00:36:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 3.7322,
+      "prior_variance": 0.092611,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 2.5212,
+      "prior_variance": 0.094845,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.287,
+      "prior_variance": 0.086919,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.2914,
+      "prior_variance": 0.086271,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 2.3648,
+      "prior_variance": 0.082619,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 1.9601,
+      "prior_variance": 0.100802,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": -0.0491,
+      "prior_variance": 0.08667,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 0.2433,
+      "prior_variance": 0.08838,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -1.7863,
+      "prior_variance": 0.09402,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Limerick",
+      "path": "europe/ireland/limerick",
+      "prior_score": 1.9769,
+      "prior_variance": 0.088176,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": -1.4414,
+      "prior_variance": 0.077345,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.2496,
+      "prior_variance": 0.083304,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -0.7666,
+      "prior_variance": 0.088812,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -1.3951,
+      "prior_variance": 0.113318,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.0715,
+      "prior_variance": 0.102962,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -1.0107,
+      "prior_variance": 0.093349,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -2.1809,
+      "prior_variance": 0.092012,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.504,
+      "prior_variance": 0.08307,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -1.379,
+      "prior_variance": 0.099788,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -2.6545,
+      "prior_variance": 0.101058,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -2.6629,
+      "prior_variance": 0.088229,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -2.2143,
+      "prior_variance": 0.086389,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -3.0466,
+      "prior_variance": 0.083763,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -4.8568,
+      "prior_variance": 0.113167,
+      "prior_n": 16
+    }
+  ]
+}

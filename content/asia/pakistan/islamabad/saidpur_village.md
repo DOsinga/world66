@@ -9,6 +9,7 @@ tags:
   - neighbourhood
   - architecture
 story: "The village was originally a Mughal-era retreat — its small step well and Hindu-Sikh shrines were built during the reign of Emperor Jahangir. When the capital was being laid out in the 1960s the planners decided to preserve Saidpur rather than absorb it, and in 2006 it was restored as a heritage precinct."
+score: 8.3
 ---
 
 Saidpur is a small five-hundred-year-old village embedded in the slopes of the Margalla Hills above Islamabad's E-7 sector. The restored core consists of a single cobbled lane lined with whitewashed houses, a Mughal-era step well, a Hindu temple and an old Sikh gurdwara, all carefully preserved.

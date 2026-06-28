@@ -7,6 +7,7 @@ tags:
 latitude: 34.0242
 longitude: -118.5131
 snippet: "A public beach club on the site of William Randolph Hearst's former estate, with a pool and ocean access"
+score: 7.8
 ---
 
 The Annenberg Community Beach House occupies the oceanfront site of the former Marion Davies Estate — the beach house William Randolph Hearst built for the actress in the 1920s at what was then the extravagant cost of $7 million. The original guesthouse, a six-storey colonnaded structure, survived and is the only remaining building from the estate. It now functions as a public facility with a swimming pool, beach access, and event spaces.

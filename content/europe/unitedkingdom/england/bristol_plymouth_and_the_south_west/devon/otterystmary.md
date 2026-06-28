@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Tarbarrels2005.jpg
 latitude: 50.7466
 loc_type: city
 longitude: -3.2724
-score: 0.39
+score: 6.71
+snippet: East Devon market town known for Coleridge connections and flaming Tar Barrels
+  on Guy Fawkes night.
 title: Ottery St Mary
 type: location
 ---

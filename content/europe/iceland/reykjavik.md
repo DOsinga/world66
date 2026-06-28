@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2006,_graveyard_in_Reykjav
 latitude: 64.1466
 loc_type: city
 longitude: -21.9426
-score: 0.8
+score: 9.52
+snippet: Compact Icelandic capital of corrugated-iron houses, a working harbour, and
+  hilltop Hallgrímskirkja.
 title: Reykjavik
 type: location
 ---

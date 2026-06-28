@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Palm-shaded square at the heart of the colonial Plateau, ringed by old banks and ministries"
+score: 6.0
 ---
 
 The Place de l'Indépendance is the formal centre of downtown Dakar — a long rectangular square with central fountains, ringed by palms, the older colonial-era banks and ministries, and the Hôtel de Ville. It is where the colonial city was laid out, where official ceremonies still happen, and where the morning rush of traffic and street vendors is at its loudest.

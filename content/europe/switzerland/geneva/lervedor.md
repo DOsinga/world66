@@ -9,6 +9,7 @@ tags:
 - nightlife
 title: Le Rêve d'Or
 type: poi
+score: 5.2
 ---
 
 An electronic music club on the banks of the Rhône, near the Bâtiment des Forces Motrices. The sound system is solid and the DJs lean toward house and techno. It gets packed on weekends, so arrive before midnight if you want breathing room.

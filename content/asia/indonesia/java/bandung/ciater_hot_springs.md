@@ -7,6 +7,7 @@ tags:
 snippet: Sulphurous natural pools in a tea plantation north of Tangkuban Perahu
 latitude: -6.7349
 longitude: 107.6655
+score: 6.7
 ---
 
 A natural thermal spring complex about 7km north of Tangkuban Perahu, set on a tea plantation in the Subang regency. Water heated by volcanic activity flows out at around 45°C, channelled through a series of public and private pools. The setting — tea bushes on terraced slopes, occasional cloud, the smell of sulphur in the air — is more striking than the resort itself.

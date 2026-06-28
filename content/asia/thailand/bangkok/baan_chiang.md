@@ -5,10 +5,12 @@ done:
 latitude: 13.7245
 longitude: 100.5263
 phone: +66-2-2367045
+score: 6.2
 snippet: Charming old Thai house serving central Thai and Isaan cuisine
 tags:
 - eating_out
 - restaurant
+- silom
 title: Baan Chiang
 type: poi
 ---

@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 47.0376
 longitude: 28.8492
+score: 6.5
 ---
 
 A 22-storey concrete cylinder rising 77 metres on the northern edge of the centre, the Romanița was the tallest building in Soviet Chisinau when it was completed in 1986. Designed by Oleg Vronsky, it is one of the most distinctive surviving examples of Soviet-modernist residential architecture: a single circular core with 168 apartments cantilevered around it like petals.

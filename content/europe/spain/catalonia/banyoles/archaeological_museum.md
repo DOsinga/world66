@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.1181
 longitude: 2.7650
+score: 6.8
 ---
 
 The Comarcal Archaeological Museum of Banyoles (Museu Arqueològic Comarcal de Banyoles) holds one of the most important prehistoric collections in Catalonia. The centrepiece is a cast of the Banyoles mandible — a partial lower jaw discovered in 1887 during excavations for a canal, and subsequently identified as belonging to a Neanderthal who lived around 45,000 years ago.

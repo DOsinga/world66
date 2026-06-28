@@ -18,6 +18,7 @@ tags:
 - sight
 title: Hanging Bridge
 type: poi
+score: 4.5
 ---
 
 The Hanging Bridge (Jhulto Pul) over the Machhu river is Morbi's most recognisable landmark — a Victorian-era cable suspension bridge built in 1877 that became a symbol of the city. It offers good views over the river and the old town.

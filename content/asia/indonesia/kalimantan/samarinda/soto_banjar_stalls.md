@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -0.5008
 longitude: 117.1460
+score: 5.5
 ---
 
 *Soto Banjar* is the signature soup of the Banjar people of southern Kalimantan and has become ubiquitous across East Kalimantan. Samarinda has dozens of dedicated soto stalls, most of them tiny family operations open from early morning through midday. The soup is a clear, golden chicken broth scented with cinnamon, cloves, cardamom, and lemongrass — warmer and more aromatic than the more common *soto ayam* of Java, and deeply comforting.

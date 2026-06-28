@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Museu_Mariano_Proc%C3%B3pi
 latitude: -21.761
 loc_type: city
 longitude: -43.3501
-score: 0.38
+score: 6.11
+snippet: University city in Minas Gerais hills, with coffee-era architecture and a
+  milder Zona da Mata climate.
 title: Juiz de Fora
 type: location
 ---

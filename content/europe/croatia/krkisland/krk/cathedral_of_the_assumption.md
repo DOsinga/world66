@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "Excavations under the cathedral revealed Roman thermae — a public bath that fed the building's foundations and gave the columns inside, with their varied capitals, their second life. The cathedral was built directly on top of the early Christian basilica that replaced the baths in the fifth century."
+score: 8.6
 ---
 
 The Cathedral of the Assumption of the Blessed Virgin Mary stands on the same spot where Romans bathed two thousand years ago. The present church dates from the twelfth century, with later Gothic and Renaissance additions, but the columns and capitals inside are a salvage job from the original basilica and the Roman building beneath it — no two are alike.

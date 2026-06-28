@@ -7,6 +7,7 @@ tags:
 latitude: 30.4716
 longitude: -8.8761
 snippet: "Slow-roasted lamb carved to order near the main souk"
+score: 7.5
 ---
 
 Taroudant is well known throughout Morocco for its mechoui — whole lambs or sheep slow-roasted in sealed clay underground pits called koucha. The meat cooks overnight or for many hours, emerging falling-tender. Near the souk, particularly on the big market days of Thursday and Sunday, you'll find vendors with the roasted carcasses hung up or displayed, ready to carve portions to order onto plates with cumin and flatbread.

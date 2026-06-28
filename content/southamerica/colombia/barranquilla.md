@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_Aduana_de_Barranqu
 latitude: 11.010192
 loc_type: city
 longitude: -74.823179
-score: 0.51
+score: 7.29
+snippet: Caribbean port city at the Magdalena River mouth, known for Colombia's largest
+  carnival.
 sources:
 - https://en.wikipedia.org/wiki/Barranquilla
 - https://en.wikipedia.org/wiki/Barranquilla_Carnival

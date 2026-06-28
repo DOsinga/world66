@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cixan_(U_Burgu,_daa_Stradd
 latitude: 44.0864
 loc_type: city
 longitude: 8.1474
-score: 0.46
+score: 7.15
+snippet: Medieval Ligurian village on the Neva, preserving a quadrangular plan, corner
+  towers, and olive-growing hamlets.
 title: Cisano sul Neva
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 61.5030
 longitude: 23.7450
+score: 7.6
 ---
 
 The Tampere Art Museum (Tampereen Taidemuseo) occupies a distinctive neo-Baroque building in Hämeenpuisto park, housing a collection of Finnish art from the 19th century onward with particular strength in the National Romantic period. The permanent collection includes works by Akseli Gallen-Kallela, Albert Edelfelt, and Helene Schjerfbeck — the major figures of Finnish art's golden age.

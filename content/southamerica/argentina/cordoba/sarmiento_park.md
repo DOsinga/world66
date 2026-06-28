@@ -9,6 +9,7 @@ tags:
 latitude: 31.4303
 longitude: -64.1756
 neighbourhood: Nueva Córdoba
+score: 7.3
 ---
 
 The city's largest park covers 17 hectares on the southern edge of the centre, designed in the 1890s by Charles Thays — the French-Argentine landscape architect who shaped most of Argentina's great urban parks. There is an artificial lake with paddle boats, a large rose garden, a small zoo, and broad lawns that fill on weekends with families grilling asado.

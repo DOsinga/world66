@@ -7,6 +7,7 @@ snippet: Pre-Roman through medieval Transylvanian history, on Museum Square
 tags:
 - things_to_do
 - museum
+score: 8.1
 ---
 
 The National History Museum, on the south side of Museum Square, is the more comprehensive of Cluj's two history museums (the other being the Transylvanian History Museum two doors down — confusingly named for visitors). The chronological collection runs from Neolithic through the Dacian gold to the Roman provinces of Dacia and Pannonia, then medieval Transylvania.

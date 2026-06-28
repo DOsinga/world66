@@ -10,6 +10,7 @@ tags:
 neighbourhood: Centro Histórico
 snippet: 1905 wood-panelled bar opposite the Government Palace
 story: "Every Peruvian president since 1905 has eaten or drunk at Cordano — the bar sits directly across from the Government Palace and was for decades the favourite breakfast spot for political insiders. Photos on the walls show every head of state from Manuel Pardo onwards."
+score: 7.6
 ---
 
 **Bar Cordano**, opposite the Government Palace, has been pouring pisco sours since 1905. The narrow, wood-panelled interior — original counter, original mirrors, brass fittings worn to a dull gleam — is essentially unchanged from the Belle Époque. Politicians, journalists, and clerks from the surrounding ministries pack it at lunch; tourists and a slightly bohemian set fill it in the evening.

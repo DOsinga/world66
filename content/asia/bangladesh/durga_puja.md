@@ -6,6 +6,7 @@ tags:
 - festivals
 title: Durga Puja
 type: poi
+score: 7.2
 ---
 
 Hindus make up roughly 10% of Bangladesh's population, and Durga Puja is the most visibly celebrated of their festivals. During the five-day event in October, Hindu communities across the country build elaborate pandals — temporary pavilions housing brightly painted clay statues of the ten-armed goddess Durga slaying the buffalo demon Mahishasura. Dhaka's Dhakeshwari Temple area and the old town neighbourhood of Shankhari Bazaar are the best places to see the celebrations.

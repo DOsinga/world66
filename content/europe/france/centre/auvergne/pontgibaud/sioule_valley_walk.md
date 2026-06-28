@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.8320
 longitude: 2.8490
+score: 7.4
 ---
 
 The Sioule river below Pontgibaud runs through a dramatic gorge of volcanic rock, and a network of marked paths follows the valley floor and the ridges above. The GR 441 long-distance trail — part of the Chaîne des Puys circuit — passes through the village, and shorter loops are signposted from the centre.

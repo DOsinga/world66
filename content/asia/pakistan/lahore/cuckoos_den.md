@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - walled_city
+score: 6.6
 ---
 
 Cuckoo's Den is the most famous of the rooftop restaurants on Fort Road Food Street, a converted 19th-century haveli overlooking the Badshahi Mosque. It was opened in 1988 by the Pakistani painter Iqbal Hussain, who grew up in Heera Mandi and whose paintings of the neighbourhood's courtesans line the staircase.

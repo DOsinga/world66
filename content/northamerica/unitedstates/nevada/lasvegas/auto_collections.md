@@ -4,10 +4,12 @@ latitude: 36.118359
 longitude: -115.170597
 opening_hours: 9:30 a.m.-11:30 p.m., daily
 phone: 702-731-3311
+score: 6.8
 snippet: Showroom of rare classic and celebrity-owned automobiles
 tags:
 - things_to_do
 - museum
+- the_strip
 title: Auto Collections at The LINQ
 type: poi
 ---

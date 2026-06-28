@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
 snippet: Weekly Berber market drawing traders from across the Dahar region
+score: 7.3
 ---
 
 The Thursday market is Tataouine's best reason to spend a night here rather than just passing through. Traders come from the surrounding villages and from deeper in the Dahar highlands, selling dates, spices, live animals, cloth, metalwork, and a variety of goods that don't find their way into the permanent shops. It is a working market rather than a tourist spectacle — prices are negotiable, Arabic is the language, and the crowds thin out by early afternoon once the serious trading is done.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.7185
 longitude: -1.7230
+score: 6.2
 ---
 
 At the edge of the forest, just outside the village of Fiema, is a small cemetery used exclusively for the monkeys. When one of the sacred colobus or mona monkeys dies, the community holds a ceremony and buries it here with full funeral rites — a reflection of the deep spiritual significance the animals hold in Bono belief.

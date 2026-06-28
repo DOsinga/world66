@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.8050
 longitude: 100.2677
+score: 7.2
 ---
 
 The Buranathai Foundry is a working bronze-casting workshop that produces Buddha images of all sizes using traditional lost-wax methods. Visitors can walk through the production process, from the clay modelling and wax work through to the firing and polishing of finished images. It is genuinely instructive to watch craftspeople working on something that looks like it could have been made in the same way five hundred years ago.

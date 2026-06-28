@@ -6,6 +6,7 @@ tags:
 - sight
 title: New River Boat Trip
 type: poi
+score: 8.3
 ---
 The boat journey from Orange Walk Town to Lamanai takes about 1.5 hours each way and is a highlight in itself. The route passes through the New River Lagoon, a wide, calm waterway edged with lilies, mangroves, and gallery forest. Guides point out birds — jabiru storks, kingfishers, snail kites, anhingas — as well as Morelet's crocodiles resting on the banks and howler monkeys in the trees.
 

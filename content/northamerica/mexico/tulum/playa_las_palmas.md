@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 7.0
 ---
 
 The middle stretch of the Tulum beach road, around four kilometres south of the ruins, is where the dirt-road backpacker era of Tulum still lingers in places. Playa Las Palmas runs along this section — narrower than Playa Paraíso, with the boutique cabaña hotels close behind the dune, and a string of low-key bars and restaurants reachable on foot.

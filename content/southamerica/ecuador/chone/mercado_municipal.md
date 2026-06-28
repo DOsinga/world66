@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -0.7086
 longitude: -80.0945
+score: 7.8
 ---
 
 Chone's central market is the working heart of the city and one of the better places in Manabí to observe the agricultural economy of the coastal interior in action. Early mornings bring in sellers from the surrounding valley communities — cacao beans, fresh fruit, green plantains, live chickens, dried herbs, and the enormous variety of tubers and legumes that Manabí cooking depends on.

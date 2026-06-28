@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Honiara,_20
 latitude: -9.431077
 loc_type: city
 longitude: 159.955255
-score: 0.42
+score: 6.84
+snippet: Solomon Islands capital on Guadalcanal, ringed by Pacific war relics and
+  major wreck-diving sites.
 title: Honiara
 type: location
 ---

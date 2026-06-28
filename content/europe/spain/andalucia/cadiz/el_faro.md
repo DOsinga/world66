@@ -7,6 +7,7 @@ tags:
 latitude: 36.5267
 longitude: -6.3013
 snippet: "Cádiz's finest seafood restaurant, in the Barrio de la Viña since 1964"
+score: 7.5
 ---
 
 El Faro has been the benchmark for serious seafood cooking in Cádiz since 1964. It sits in the Barrio de la Viña, the old fishermen's quarter at the western end of the peninsula, and it draws on the same Atlantic catch that the barrio has always depended on — ortiguillas (sea anemones fried in batter), local langoustines, sole, grouper, and the red shrimp from nearby Sanlúcar de Barrameda. The fried fish — tortillitas de camarones (shrimp fritters) and pescaíto frito — are made to a standard that makes most other versions taste like a rough draft.

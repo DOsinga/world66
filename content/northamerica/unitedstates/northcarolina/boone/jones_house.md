@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Jones House
 type: poi
+score: 6.2
 ---
 
 The Jones House is a 1908 Queen Anne–style home on King Street that the town of Boone now runs as a community cultural centre. Free rotating art exhibitions fill the ground floor, and the wide front porch and surrounding lawn host the town's Friday-evening Doc Watson Concerts on the Lawn in summer — an open, free, decidedly folk-rooted music programme named for the local guitar legend.

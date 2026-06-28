@@ -12,6 +12,7 @@ story: >
   The hand-clap that seals a deal is called *handjeklap*; both
   parties slap and call out prices until they agree on a number,
   and then a single firm slap closes the transaction.
+score: 8.6
 ---
 
 The Alkmaar cheese market is the most theatrical of the surviving Dutch cheese markets, running every Friday morning from late March to late September on the Waagplein. Around ten o'clock the wheels of Gouda are laid out in long lines on the square; teams of white-clad carriers in coloured straw hats inspect them, buyers and sellers haggle with ritual hand-claps, and the cheese is then weighed in the historic Waag building and loaded onto horse-drawn carts.

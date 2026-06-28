@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.5493
 longitude: 2.3875
+score: 6.8
 ---
 
 This small private geology museum holds one of the most impressive fossil collections in the eastern Pyrenees, assembled over decades by the curator who still runs the place. The collection focuses on the local geology — the Pyrenees are rich in Palaeozoic and Mesozoic formations, and the fossils on display include well-preserved marine creatures from the era when this mountain range was the floor of a shallow sea.

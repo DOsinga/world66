@@ -5,7 +5,9 @@ done:
 latitude: -14.27967
 loc_type: city
 longitude: -170.636687
-score: 0.39
+score: 6.44
+snippet: Small Tutuila south-coast village with a village-owned beach and one of the
+  island's snorkeling spots
 title: Alega
 type: location
 ---

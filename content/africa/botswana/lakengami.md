@@ -5,7 +5,9 @@ latitude: -20.48549
 longitude: 22.758571
 title: Lake Ngami
 type: location
-score: 0.42
+snippet: Seasonal lake on the southern Okavango system, historically famous from David
+  Livingstone's 1849 explorations.
+score: 6.58
 loc_type: feature
 ---
 

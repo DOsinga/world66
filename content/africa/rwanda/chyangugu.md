@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Kivu_from_Gisenyi.jpg
 latitude: -2.485
 loc_type: city
 longitude: 28.908
-score: 0.46
+score: 6.88
+snippet: Lake Kivu border town facing Bukavu, with forested hills rising toward Nyungwe
+  National Park.
 sources:
 - https://en.wikipedia.org/wiki/Cyangugu
 - https://en.wikipedia.org/wiki/Rusizi_District

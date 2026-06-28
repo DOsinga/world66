@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: A 3rd-century Roman temple foundation surviving in a 1930s housing estate
+score: 6.8
 ---
 
 The foundations of a small Roman temple of Antenociticus, a local Celtic god, surviving improbably in the back of a 1930s housing estate west of the city centre. The original altars and a fragmentary head of the god — discovered here in 1862 — are in the Great North Museum; what remains on site is a stone footprint and an interpretation panel.

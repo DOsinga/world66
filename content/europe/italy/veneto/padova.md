@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-02'
+image: padova.jpg
+image_attribution: Frank Kovalchek from Anchorage, Alaska, USA
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Clock_tower_and_Lion_of_St._Mark_in_Padova_-_just_like_the_ones_in_Venice.jpg
 latitude: 45.391408
 loc_type: city
 longitude: 11.805849
-score: 0.63
+score: 8.76
+snippet: Northern Italian university city near Venice, known for Giotto's frescoes
+  and broad arcaded streets.
 title: Padova
 type: location
-image: padova.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Clock_tower_and_Lion_of_St._Mark_in_Padova_-_just_like_the_ones_in_Venice.jpg
-image_license: CC BY 2.0
-image_attribution: Frank Kovalchek from Anchorage, Alaska, USA
 ---
 
 Padova — Padua in English — is one of northern Italy's most rewarding cities, often overlooked by travellers heading straight to [Venice](/europe/italy/veneto/venice) just 40 minutes away by train. That is a mistake. The city has one of the oldest universities in the world (founded 1222, where Galileo taught), the extraordinary [Scrovegni Chapel](/europe/italy/veneto/padova/scrovegni_chapel) with Giotto's frescoes — widely considered the starting point of Western painting — and the [oldest botanical garden](/europe/italy/veneto/padova/orto_botanico) in Europe.

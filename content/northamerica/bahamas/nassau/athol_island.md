@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.0833
 longitude: -77.2500
+score: 6.7
 ---
 
 An uninhabited island a few kilometres east of Paradise Island, popular as a half-day snorkel and beach excursion. The reef around it is shallow and easy, with good coral and reliable fish life — much better than the heavily-trafficked snorkelling spots closer to Nassau.

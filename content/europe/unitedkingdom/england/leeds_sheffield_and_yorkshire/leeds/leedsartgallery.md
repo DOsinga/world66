@@ -10,6 +10,7 @@ tags:
 - museum
 title: Leeds Art Gallery
 type: poi
+score: 8.2
 ---
 
 A fine civic gallery on The Headrow with a strong collection of 19th- and 20th-century British art, including works by Henry Moore, Barbara Hepworth, and Francis Bacon. The building itself is a handsome Victorian structure. The adjoining Henry Moore Institute, connected by a walkway, shows changing exhibitions of sculpture. Both are free.

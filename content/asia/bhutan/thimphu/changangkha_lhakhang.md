@@ -12,6 +12,7 @@ tags:
 - sight
 title: Changangkha Lhakhang
 type: poi
+score: 7.3
 ---
 
 A medieval temple perched on a spur of rock above the city, dedicated to Chenrezig, the deity of compassion. The inner shrine holds a large image of Chenrezig in his eleven-headed form, surrounded by attendant figures and butter lamps. The outer courtyard has a row of prayer wheels and a clear view over the rooftops of Thimphu to the forested hills beyond. The steep lane up from the road is part of the experience — locals make the climb daily.

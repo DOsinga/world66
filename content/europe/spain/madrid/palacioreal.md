@@ -1,8 +1,9 @@
 ---
 address: Plaza de Oriente
-latitude: 40.4180
+latitude: 40.418
 longitude: -3.7143
-phone: "+34 91 454 88 00"
+phone: +34 91 454 88 00
+score: 8.9
 snippet: Europe's largest royal palace, still used for state ceremonies
 tags:
 - things_to_do

@@ -7,6 +7,7 @@ tags:
 - market
 title: Mercado de Bazurto
 type: poi
+score: 8.5
 ---
 
 Mercado de Bazurto is Cartagena's main working market — vast, chaotic, loud, and completely removed from the tourist circuit of the walled city. It sprawls across several blocks in the south of the city, selling fresh fish and seafood, tropical fruits, vegetables, live animals, hardware, clothing, and everything else a large city needs. The fish section, in particular, is extraordinary — barracuda, red snapper, lobster, and species of Caribbean reef fish are laid out in profusion.

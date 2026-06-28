@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Forte de São Brás
 type: poi
+score: 6.8
 ---
 
 A 16th-century fortress at the eastern end of the seafront avenue, now housing the Azores Military Museum. The outer battlements and cannons facing the sea are free to walk; the museum inside documents the islands' military history from Portuguese colonisation to World War II, when Lajes airfield on Terceira became a critical Allied base.

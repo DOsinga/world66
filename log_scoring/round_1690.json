@@ -1,200 +1,200 @@
 {
   "round": 1690,
-  "timestamp": "2026-04-13T10:42:30",
+  "timestamp": "2026-06-13T20:46:24",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "San Sebasti\u00e1n",
-      "path": "europe/spain/northernspain/sansebastian",
-      "prior_score": 9.1199,
-      "prior_variance": 0.478852,
-      "prior_n": 3
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 7.3956,
+      "prior_variance": 0.284651,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Avignon",
-      "path": "europe/france/midi/provence/avignon",
-      "prior_score": 9.553,
-      "prior_variance": 0.489572,
-      "prior_n": 3
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/avebury",
+      "prior_score": 3.4912,
+      "prior_variance": 0.285041,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Ellora",
-      "path": "asia/india/maharashtra/ellora",
-      "prior_score": 6.2826,
-      "prior_variance": 0.349256,
-      "prior_n": 5
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 5.5333,
+      "prior_variance": 0.242182,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Nairobi National Park",
-      "path": "africa/kenya/nationalparksandreserves/nairobinp",
-      "prior_score": 6.195,
-      "prior_variance": 0.613538,
-      "prior_n": 3
-    },
-    {
-      "rank": 5,
-      "title": "Pamir Highway",
-      "path": "asia/tajikistan/pamir_highway",
-      "prior_score": 4.9414,
-      "prior_variance": 0.376736,
-      "prior_n": 4
-    },
-    {
-      "rank": 6,
-      "title": "Playa Flamingo",
-      "path": "northamerica/costarica/playa_flamingo",
-      "prior_score": 3.278,
-      "prior_variance": 0.301417,
-      "prior_n": 4
-    },
-    {
-      "rank": 7,
-      "title": "Texel island",
-      "path": "europe/netherlands/waddenislands/texel_island",
-      "prior_score": 3.2287,
-      "prior_variance": 0.181429,
-      "prior_n": 9
-    },
-    {
-      "rank": 8,
-      "title": "Virginia Beach",
-      "path": "northamerica/unitedstates/virginia/virginiabeach",
-      "prior_score": 1.7018,
-      "prior_variance": 0.531708,
-      "prior_n": 4
-    },
-    {
-      "rank": 9,
-      "title": "Roskilde",
-      "path": "europe/denmark/roskilde",
-      "prior_score": 2.6925,
-      "prior_variance": 0.281723,
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 4.6417,
+      "prior_variance": 0.358416,
       "prior_n": 5
     },
     {
+      "rank": 5,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 2.8179,
+      "prior_variance": 0.279493,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 4.4403,
+      "prior_variance": 0.280433,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Trichy",
+      "path": "asia/india/tamilnadu/trichy",
+      "prior_score": -0.5622,
+      "prior_variance": 0.242307,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.5865,
+      "prior_variance": 0.279085,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_score": 3.0633,
+      "prior_variance": 0.249053,
+      "prior_n": 6
+    },
+    {
       "rank": 10,
-      "title": "Billund",
-      "path": "europe/denmark/billund",
-      "prior_score": 1.7341,
-      "prior_variance": 0.322348,
-      "prior_n": 4
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 1.1967,
+      "prior_variance": 0.254839,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Viareggio",
-      "path": "europe/italy/tuscany/viareggio",
-      "prior_score": 3.089,
-      "prior_variance": 0.455118,
-      "prior_n": 4
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.578,
+      "prior_variance": 0.271071,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Pietra Ligure",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
-      "prior_score": 0.137,
-      "prior_variance": 0.511651,
-      "prior_n": 3
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.0703,
+      "prior_variance": 0.265207,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Celle Ligure",
-      "path": "europe/italy/liguria/celleligure",
-      "prior_score": 4.4577,
-      "prior_variance": 0.356771,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": -0.755,
+      "prior_variance": 0.259926,
       "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Fazana",
-      "path": "europe/croatia/fazana",
-      "prior_score": 3.1792,
-      "prior_variance": 0.317959,
-      "prior_n": 4
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.3873,
+      "prior_variance": 0.238218,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Chebika",
-      "path": "africa/tunisia/chebika",
-      "prior_score": 1.4581,
-      "prior_variance": 0.388382,
-      "prior_n": 4
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -1.1236,
+      "prior_variance": 0.23447,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Ledbury",
-      "path": "europe/unitedkingdom/england/ledbury",
-      "prior_score": 0.4497,
-      "prior_variance": 0.367558,
-      "prior_n": 4
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": 0.0768,
+      "prior_variance": 0.208786,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Yackandandah",
-      "path": "australiaandpacific/australia/victoria/yackandandah",
-      "prior_score": -2.4965,
-      "prior_variance": 0.311065,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.0177,
+      "prior_variance": 0.276411,
       "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Southampton",
-      "path": "europe/unitedkingdom/england/south_east/southampton",
-      "prior_score": -0.7283,
-      "prior_variance": 0.368831,
-      "prior_n": 4
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -0.7735,
+      "prior_variance": 0.332028,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Boca del Rio",
-      "path": "northamerica/mexico/bocadelrio",
-      "prior_score": -2.3784,
-      "prior_variance": 0.301938,
-      "prior_n": 4
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -3.0406,
+      "prior_variance": 0.323727,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Bahia de Caraquez",
-      "path": "southamerica/ecuador/bahiadecaraquez",
-      "prior_score": -1.492,
-      "prior_variance": 0.322996,
-      "prior_n": 4
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -3.1054,
+      "prior_variance": 0.272343,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Comoros",
-      "path": "africa/comoros",
-      "prior_score": -2.3337,
-      "prior_variance": 0.376969,
-      "prior_n": 4
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -3.2084,
+      "prior_variance": 0.256313,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Cap-Ha\u00eftien",
-      "path": "northamerica/haiti/caphaitien",
-      "prior_score": -2.1154,
-      "prior_variance": 0.350118,
-      "prior_n": 4
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_score": -5.924,
+      "prior_variance": 0.289571,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Ingal",
-      "path": "africa/niger/ingal",
-      "prior_score": -8.2902,
-      "prior_variance": 0.504218,
-      "prior_n": 4
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -12.2039,
+      "prior_variance": 0.789996,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Jalalabad",
-      "path": "asia/afghanistan/jalalabad",
-      "prior_score": -10.9625,
-      "prior_variance": 0.446335,
-      "prior_n": 4
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -8.7613,
+      "prior_variance": 0.573933,
+      "prior_n": 5
     }
   ]
 }

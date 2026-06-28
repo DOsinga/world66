@@ -8,6 +8,7 @@ tags:
 latitude: 44.8511
 longitude: 0.4836
 snippet: "Renaissance townhouse that now holds the Musée du Tabac"
+score: 7.2
 ---
 
 The Maison Peyrarède, on the Place du Feu, is the finest surviving Renaissance house in Bergerac and a small monument to the town's 16th-century mercantile prosperity. The carved stone facade, with its mullioned windows and a corner turret on the upper floor, dates from the 1570s. Local tradition holds that Henri IV — at the time still Henri of Navarre — stayed here on one of his Bergerac visits, which is why the building is sometimes called the Maison Henri IV.

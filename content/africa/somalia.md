@@ -2,6 +2,7 @@
 latitude: 5.152149
 longitude: 46.199616
 title: Somalia
+snippet: "Horn of Africa country with the mainland continent's longest coastline along the Gulf of Aden and Indian Ocean."
 type: location
 image: somalia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:On_a_desserted_beach_in_Mogadishu,_Somalia_in_Dec_2024.jpg
@@ -14,7 +15,7 @@ quick_facts:
   One Language: Somali (rare in Africa)
 done:
   country_cleanup: 2026-03-31
-score: 0.11
+score: 0.14
 loc_type: country
 ---
 

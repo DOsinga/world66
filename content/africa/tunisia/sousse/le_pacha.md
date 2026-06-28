@@ -6,6 +6,7 @@ tags:
   - restaurant
 title: Le Pacha
 type: poi
+score: 5.1
 ---
 
 A reliable Medina restaurant serving traditional Tunisian dishes — brik (paper-thin pastry filled with egg and tuna), couscous, and lamb tagines. The setting in an old courtyard house adds to the experience. Reasonably priced and popular with both locals and visitors staying in the Medina.

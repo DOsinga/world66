@@ -9,6 +9,7 @@ tags:
   - hiking
   - nature
 story: "Tarn Hows is not in fact natural. The current lake was created in the 1860s by James Marshall, who flooded three small tarns to make one large picturesque one for his Monk Coniston estate. Beatrix Potter later owned the land and gave it to the National Trust."
+score: 8.6
 ---
 
 A small artificial lake surrounded by larch and pine plantations on the high ground between Hawkshead and Coniston, Tarn Hows is one of the most photographed places in the Lake District. A two-mile path circles the water, easy enough for almost anyone, with constantly changing views back to the Coniston fells.

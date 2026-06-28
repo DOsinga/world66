@@ -8,16 +8,18 @@ image_attribution: <a href="//www.flickr.com/people/47130629@N04" class="extiw" 
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Doha_Karwa_public_bus.jpg
 latitude: 25.3548
+loc_type: country
 longitude: 51.1839
 quick_facts:
-  Population: "3 million (only 12% Qatari citizens)"
-  Alcohol: "Licensed hotels only"
-  GDP per Capita: "Among the highest in the world"
-  Country Size: "About the size of Connecticut"
+  Alcohol: Licensed hotels only
+  Country Size: About the size of Connecticut
+  GDP per Capita: Among the highest in the world
+  Population: 3 million (only 12% Qatari citizens)
+score: 0.43
+snippet: Small Persian Gulf peninsula state built on natural gas wealth and Doha’s
+  fast-growing infrastructure
 title: Qatar
 type: location
-score: 0.52
-loc_type: country
 ---
 
 *Asia > Qatar*

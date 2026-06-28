@@ -4,6 +4,7 @@ type: poi
 latitude: 36.3093
 longitude: 59.5689
 tags: [eating_out, restaurant]
+score: 5.7
 ---
 
 A long-running traditional Iranian restaurant in the Sajjad neighbourhood of central Mashhad, Hezardastan serves the full range of Persian regional cuisine in a comfortable hall built around a central pool and fountain. The shishlik, dizi, and zereshk polo (chicken with barberries and saffron rice) are all excellent.

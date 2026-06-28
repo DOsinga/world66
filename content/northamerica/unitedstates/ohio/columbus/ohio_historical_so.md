@@ -7,6 +7,7 @@ tags:
 - museum
 title: Ohio History Center
 type: poi
+score: 7.0
 ---
 
 The Ohio History Center gives a solid overview of the state's past — Native American civilizations with mound-builder diagrams and artifacts, natural history exhibits, and a timeline from statehood to the 1970s. Outside, a recreation of a typical 19th-century Ohio village square is worth a walk-around. Good interactive exhibits for kids.

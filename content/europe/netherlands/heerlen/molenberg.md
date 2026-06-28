@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 50.88444
 longitude: 5.99556
+score: 7.3
 ---
 
 Molenberg is a former mining colony on the eastern edge of Heerlen, built in the early 20th century to house workers from the nearby Oranje Nassau I colliery. Mining colonies — planned residential communities built by the colliery companies — are one of the distinctive features of South Limburg's industrial history, and Molenberg is one of the best preserved.

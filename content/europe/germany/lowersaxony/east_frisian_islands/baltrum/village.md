@@ -1,5 +1,9 @@
 ---
-snippet: The island's single settlement, with a church, a handful of guesthouses, and no cars
+latitude: 53.7285
+longitude: 7.3719
+score: 6.2
+snippet: The island's single settlement, with a church, a handful of guesthouses,
+  and no cars
 tags:
 - things_to_do
 - landmark

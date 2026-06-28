@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.0500
 longitude: 21.3200
+score: 7.0
 ---
 
 The Great Masurian Canal — *Wielki Kanał Mazurski* — is an extraordinary and largely unfinished piece of 20th-century infrastructure: a canal begun by the German military in the 1930s to connect the Masurian Lakes to the Baltic Sea. Construction was interrupted by the war and never resumed; today about 20 km of the canal exists in a partially completed state, with locks designed but never fully built, and the trench visible in the forest north of Giżycko.

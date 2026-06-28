@@ -11,6 +11,7 @@ story: Sagareshwar beach takes its name from the small Shiva temple at its north
   end — Sagareshwar meaning "Lord of the Ocean." The temple is said to be several
   hundred years old, and local fishermen still make offerings there before putting
   to sea. The beach is virtually unknown outside the state.
+score: 7.4
 ---
 
 Sagareshwar is a wide, pale sand beach about three kilometres from Vengurla town, backed by casuarina trees and largely uncrowded even in season. The water is clean and the beach well-maintained by local community standards. At the northern end, a small Shiva temple sits directly on the sand above the waterline — one of those quiet coastal shrines that give Konkan beaches their particular character.

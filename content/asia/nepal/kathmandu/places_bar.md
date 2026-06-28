@@ -8,6 +8,7 @@ tags:
 latitude: 27.7156
 longitude: 85.3122
 address: Thamel Marg, Kathmandu
+score: 5.0
 ---
 
 One of the oldest bars in Thamel, Tom & Jerry Pub has been serving travellers, trekkers, and Nepali regulars for decades. It is unpretentious in the way that surviving institutions often are — a long wooden bar, live music some nights, Everest beer at honest prices, and a clientele that ranges from fresh-off-the-plane backpackers to weathered expedition veterans. The conversation here can be worth having.

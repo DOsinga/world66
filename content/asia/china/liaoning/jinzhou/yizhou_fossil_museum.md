@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.1167
 longitude: 121.1333
+score: 7.9
 ---
 
 The Yizhou Fossil Museum draws on the same Jurassic and Early Cretaceous geological formations that made nearby Chaoyang world-famous for feathered dinosaurs. Jinzhou sits at the western edge of the Liaoning fossil beds, and the museum houses around ten thousand specimens from local excavations, including fish, plants, and invertebrates alongside the dinosaurs and early birds that attract most attention.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 5.8
 ---
 
 Miramar is Panaji's town beach — a long curve of grey-yellow sand running for nearly two kilometres at the mouth of the Mandovi River, three kilometres west of the city centre. It is not the place to come for serious swimming or sunbathing (better beaches lie a short drive north or south), but as an evening promenade it works well: families gather on the sand, kulfi sellers wheel up their carts, and the boats coming in from the Arabian Sea cut across the sunset.

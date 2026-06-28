@@ -8,6 +8,7 @@ tags:
 address: "315 N. Main St., Opelousas, LA 70570"
 latitude: 30.5336
 longitude: -92.0833
+score: 6.8
 ---
 
 A small but worthwhile museum on the town square covering Opelousas's layered history: French and Spanish colonial periods, African American and Creole communities, and the town's role in Louisiana's sugar and cotton economies. The exhibits on local music are particularly relevant for visitors interested in zydeco and Cajun traditions.

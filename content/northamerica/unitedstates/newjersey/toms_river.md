@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Luker_Bridge,_Toms_River.j
 latitude: 39.952839
 loc_type: city
 longitude: -74.196741
-score: 0.35
+score: 6.0
+snippet: Jersey Shore town on Barnegat Bay, with a riverfront downtown and barrier-island
+  beaches nearby
 title: Toms River
 type: location
 ---

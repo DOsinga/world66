@@ -10,6 +10,7 @@ story: >
   terraced olive groves, the rocky outcrops, the light in the valley. The path connects 
   the town to Anchiano in roughly an hour, and walking it gives you a better sense of 
   what shaped his eye than any museum display.
+score: 8.1
 ---
 
 Path 14 — locally called the Strada Verde, or Green Road — runs from the center of Vinci up through the olive groves to the hamlet of Anchiano, where Leonardo was born. The walk takes about an hour at a comfortable pace and climbs steadily through terraced groves that look much as they would have in the fifteenth century. The path is well-marked and begins near the Museo Leonardiano.

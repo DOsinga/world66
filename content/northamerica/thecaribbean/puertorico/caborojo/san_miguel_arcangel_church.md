@@ -7,6 +7,7 @@ tags:
 latitude: 18.0868
 longitude: -67.1460
 snippet: "18th-century parish church on the main plaza, completed in 1783"
+score: 5.9
 ---
 
 The white-walled San Miguel Arcángel Church dominates the main plaza of Cabo Rojo town, a solid 18th-century structure completed in 1783. It is one of the older surviving colonial churches in Puerto Rico and worth a look if you are passing through town.

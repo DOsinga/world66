@@ -6,6 +6,7 @@ longitude: 3.0500
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The seafront boulevard — known as the Corniche Algéroise — runs along the bay below the Casbah and the colonial city. It is a good walking and cycling route with views of the port and the Mediterranean. In the evening the Corniche fills with people strolling, and several small cafes and kiosks open along the waterfront.

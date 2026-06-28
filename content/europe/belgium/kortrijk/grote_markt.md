@@ -7,6 +7,7 @@ tags:
 latitude: 50.8278
 longitude: 3.2653
 snippet: The lively central square of Kortrijk, flanked by guild houses and the belfry
+score: 6.6
 ---
 
 The Grote Markt is the heart of Kortrijk — a wide, lively square surrounded by guild houses, the city hall, the belfry, and the flank of Sint-Maartenskerk. It has been the commercial and civic centre of the city for centuries and still functions as such, with a weekly market and terrace cafés filling the square in good weather.

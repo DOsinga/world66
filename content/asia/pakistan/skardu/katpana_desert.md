@@ -10,6 +10,7 @@ tags:
 - sight
 - outdoor
 story: The Katpana Desert is one of the world's highest cold deserts, with sand dunes rising to over fifty metres at an altitude of 2,400 m. In winter it is covered in snow; in summer, the dunes sit in surreal contrast to the snow peaks rising behind them. The local Balti name, Biang-a Naqpo, means "black sands."
+score: 7.6
 ---
 
 The Katpana Desert spreads across the upper Skardu valley near the airport, an unexpected expanse of sand dunes set against the snowy Karakoram. It is one of the highest cold deserts in the world and a much-photographed Skardu sight, particularly in winter when the dunes catch a dusting of snow.

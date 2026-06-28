@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.6580
 longitude: -81.4421
+score: 7.1
 ---
 
 Main Beach Park is the most accessible public beach access point on Amelia Island, with a parking area, picnic facilities, and a playground that makes it popular with families. The beach itself at this point is wide and hard-packed — the sand at Amelia Island is firm enough that driving on the beach is permitted in some areas, which is unusual for Florida's Atlantic coast.

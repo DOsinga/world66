@@ -5,7 +5,9 @@ done:
 latitude: 29.805227
 loc_type: city
 longitude: 35.311861
-score: 0.51
+score: 8.28
+snippet: Desert Highway supply town near Wadi Rum, a practical gateway between Aqaba
+  and the desert.
 title: Quweira
 type: location
 ---

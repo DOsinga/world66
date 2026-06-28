@@ -9,6 +9,7 @@ tags:
 story: "Pampulha was Oscar Niemeyer's first major commission, at age 33, and Juscelino Kubitschek's first major patronage as mayor of Belo Horizonte — a partnership that would later remake Brazil with the new capital of Brasília. The four buildings Niemeyer designed around the lake in the early 1940s are now a UNESCO World Heritage site."
 title: Lagoa da Pampulha
 type: poi
+score: 8.5
 ---
 
 The Pampulha lagoon is an oval artificial lake on the north side of the city, surrounded by some of the most important modernist architecture in the Americas. In 1940, a young Oscar Niemeyer designed four buildings around its shore — the Church of São Francisco de Assis, the Pampulha Yacht Club, the Casa do Baile, and the Pampulha Casino (now an art museum). Together they invented a curving, sensual version of modernism that became Niemeyer's signature.

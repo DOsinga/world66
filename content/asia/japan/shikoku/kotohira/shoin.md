@@ -8,6 +8,7 @@ tags:
 - museum
 - architecture
 snippet: 17th-century reception hall part-way up the shrine steps, with screen paintings by Maruyama Ōkyo
+score: 7.8
 ---
 
 A short detour off the main climb to Konpira-san leads to the Shoin, an Edo-period reception hall designated a National Treasure for its fusuma — sliding-screen paintings — by Maruyama Ōkyo. The most famous panels show tigers and cranes; some of the tigers' faces have been used as the model for countless later Japanese depictions of the animal, which is striking when you remember that Ōkyo had never seen one in person.

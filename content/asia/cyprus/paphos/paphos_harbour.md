@@ -7,6 +7,7 @@ tags:
 latitude: 34.7530
 longitude: 32.4085
 snippet: Photogenic working harbour ringed by tavernas and the castle
+score: 6.5
 ---
 
 The old harbour of Kato Paphos is the social heart of the lower town: a small horseshoe of fishing boats, day-cruise yachts and a single Ottoman castle anchoring the breakwater. The quay is lined with tavernas, ice cream stands and souvenir shops, and a paved promenade runs north along the coast all the way past the lighthouse.

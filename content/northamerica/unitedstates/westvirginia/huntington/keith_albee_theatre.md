@@ -13,6 +13,7 @@ story: >
   architects of the era, and cost $2 million — an extraordinary sum at the time.
   After decades of decline and near-demolition, a restoration campaign in the
   2000s brought the ornate interior back to its original condition.
+score: 8.7
 ---
 
 The Keith-Albee is one of the finest surviving movie palaces in the eastern United States, and it remains the centrepiece of downtown Huntington. The exterior is imposing but restrained; the interior is anything but — an elaborate atmospheric theatre with gilded ornamentation, painted ceilings, and the kind of scale that was designed to make ordinary people feel they had entered somewhere extraordinary.

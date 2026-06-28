@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_pont_de_mouli.jpg
 latitude: -20.549001
 loc_type: city
 longitude: 166.567395
-score: 0.64
+score: 9.04
+snippet: Loyalty Islands coral atoll with a 25-kilometre white beach and Kanak culture
+  north-east of Nouméa.
 title: Ouvea
 type: location
 ---

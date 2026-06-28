@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.1758
 longitude: 10.5393
+score: 6.3
 ---
 
 A 20-minute walk north of the centre, the Gärtnermuseum tells the unusual story of Wolfenbüttel's market gardens. From the 17th to the early 20th century, the suburb of Auguststadt was almost entirely given over to commercial vegetable growing — beds of asparagus, leek, and chicory that supplied Braunschweig and the wider region.

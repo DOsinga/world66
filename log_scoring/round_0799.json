@@ -1,199 +1,199 @@
 {
   "round": 799,
-  "timestamp": "2026-04-12T10:48:38",
+  "timestamp": "2026-06-13T19:54:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Copenhagen",
-      "path": "europe/denmark/copenhagen",
-      "prior_mu": 24.2638,
-      "prior_sigma": 5.3788,
-      "prior_n": 1
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 5.1839,
+      "prior_variance": 0.714489,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Bordeaux",
-      "path": "europe/france/aquitaine/bordeaux",
-      "prior_mu": 31.6,
-      "prior_sigma": 6.3033,
+      "title": "Mount Kailash",
+      "path": "asia/china/tibet/mount_kailash",
+      "prior_score": 8.2455,
+      "prior_variance": 0.901083,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Bristol, Plymouth and the South-West",
-      "path": "europe/unitedkingdom/england/bristol_plymouth",
-      "prior_mu": 25.6522,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 0.2655,
+      "prior_variance": 1.217946,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Ragusa",
-      "path": "europe/italy/sicily/ragusa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_score": 6.8795,
+      "prior_variance": 0.994612,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Port Grimaud",
-      "path": "europe/france/midi/provence/portgrimaud",
-      "prior_mu": 22.1434,
-      "prior_sigma": 4.5578,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 6.4678,
+      "prior_variance": 0.632079,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Kalmar",
-      "path": "europe/sweden/kalmar",
-      "prior_mu": 21.843,
-      "prior_sigma": 4.4542,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 6.3726,
+      "prior_variance": 0.75082,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Da Nang",
-      "path": "asia/vietnam/danang",
-      "prior_mu": 22.0358,
-      "prior_sigma": 4.8274,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 7.8723,
+      "prior_variance": 0.877855,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "K\u014dchi",
-      "path": "asia/japan/shikoku/kochi",
-      "prior_mu": 22.9689,
-      "prior_sigma": 5.3106,
-      "prior_n": 1
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 7.0326,
+      "prior_variance": 0.694407,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Bardejov",
-      "path": "europe/slovakia/bardejov",
-      "prior_mu": 21.5803,
-      "prior_sigma": 3.7712,
-      "prior_n": 3
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 8.5402,
+      "prior_variance": 0.71263,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Esperance",
-      "path": "australiaandpacific/australia/westernaustralia/esperance",
-      "prior_mu": 21.0372,
-      "prior_sigma": 3.3343,
-      "prior_n": 4
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 7.4225,
+      "prior_variance": 0.728724,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Comox Valley",
-      "path": "northamerica/canada/britishcolumbia/comox_valley",
-      "prior_mu": 22.3174,
-      "prior_sigma": 5.4691,
-      "prior_n": 1
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_score": 5.8146,
+      "prior_variance": 0.736389,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Diyarbakir",
-      "path": "asia/turkey/diyarbakir",
-      "prior_mu": 21.5046,
-      "prior_sigma": 4.4917,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 4.8947,
+      "prior_variance": 0.923628,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Kutch",
-      "path": "asia/india/gujarat/kutch",
-      "prior_mu": 23.3079,
-      "prior_sigma": 5.6522,
-      "prior_n": 1
-    },
-    {
-      "rank": 14,
-      "title": "Matanzas",
-      "path": "northamerica/cuba/matanzas",
-      "prior_mu": 21.5168,
-      "prior_sigma": 3.803,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 5.7281,
+      "prior_variance": 0.753698,
       "prior_n": 3
     },
     {
-      "rank": 15,
-      "title": "Deserts",
-      "path": "northamerica/unitedstates/california/deserts",
-      "prior_mu": 21.8399,
-      "prior_sigma": 4.8151,
+      "rank": 14,
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 6.186,
+      "prior_variance": 1.284233,
       "prior_n": 2
     },
     {
+      "rank": 15,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 5.0848,
+      "prior_variance": 0.691812,
+      "prior_n": 4
+    },
+    {
       "rank": 16,
-      "title": "Konkan",
-      "path": "asia/india/maharashtra/konkan",
-      "prior_mu": 22.4225,
-      "prior_sigma": 5.3347,
-      "prior_n": 1
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_score": 3.858,
+      "prior_variance": 1.442026,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "M\u00e9rida",
-      "path": "southamerica/venezuela/merida",
-      "prior_mu": 21.7052,
-      "prior_sigma": 4.5757,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 2.0664,
+      "prior_variance": 0.615352,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Hobe Sound",
-      "path": "northamerica/unitedstates/florida/hobe_sound",
-      "prior_mu": 22.4096,
-      "prior_sigma": 5.5271,
-      "prior_n": 1
-    },
-    {
-      "rank": 19,
-      "title": "Palagru\u017ea",
-      "path": "europe/croatia/korcula/palagruza_island",
-      "prior_mu": 21.1563,
-      "prior_sigma": 3.4452,
-      "prior_n": 4
-    },
-    {
-      "rank": 20,
-      "title": "Marabella",
-      "path": "northamerica/trinidadandtobago/marabella",
-      "prior_mu": 22.4146,
-      "prior_sigma": 5.7742,
-      "prior_n": 1
-    },
-    {
-      "rank": 21,
-      "title": "Tsumeb, Gateway to the North and Etosha",
-      "path": "africa/namibia/tsumeb_gateway_to",
-      "prior_mu": 20.7169,
-      "prior_sigma": 2.9428,
-      "prior_n": 5
-    },
-    {
-      "rank": 22,
-      "title": "lonsdale",
-      "path": "australiaandpacific/australia/southaustralia/adelaide/lonsdale",
-      "prior_mu": 21.4188,
-      "prior_sigma": 4.7891,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 8.4829,
+      "prior_variance": 1.181666,
       "prior_n": 2
     },
     {
+      "rank": 19,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 4.044,
+      "prior_variance": 0.889243,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 5.949,
+      "prior_variance": 0.73684,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": 4.1837,
+      "prior_variance": 0.797009,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Famagusta (Gazima\u011fusa)",
+      "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+      "prior_score": 5.4175,
+      "prior_variance": 0.615986,
+      "prior_n": 5
+    },
+    {
       "rank": 23,
-      "title": "New Georgia",
-      "path": "australiaandpacific/solomonislands/newgeorgia",
-      "prior_mu": 23.4148,
-      "prior_sigma": 6.0689,
-      "prior_n": 1
+      "title": "Portoro\u017e",
+      "path": "europe/slovenia/portoroz",
+      "prior_score": 6.1222,
+      "prior_variance": 0.634137,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Mabaruma",
-      "path": "southamerica/guyana/mabarumba",
-      "prior_mu": 18.7879,
-      "prior_sigma": 4.6705,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 6.874,
+      "prior_variance": 0.746813,
       "prior_n": 2
     }
   ]

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0250
 longitude: 9.5440
+score: 6.8
 ---
 
 The closest beach to the Porto Rotondo marina, Spiaggia di Ira is a crescent of white sand tucked into a sheltered cove just south of the port. The water is typically the brilliant turquoise-green of the north Sardinian coast, clear enough to read the sand through three or four metres of depth. A beach bar operates in summer.

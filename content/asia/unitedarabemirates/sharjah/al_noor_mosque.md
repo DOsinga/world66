@@ -11,6 +11,7 @@ story: >
   Al Noor Mosque runs one of the UAE's better mosque open-door programmes, welcoming non-Muslim visitors for guided tours several mornings per week. The tours are designed to explain Islamic practice and answer questions rather than simply show the architecture — a reflection of the emirate's consistent investment in cross-cultural dialogue.
 sources:
   - https://en.wikipedia.org/wiki/Al_Noor_Mosque,_Sharjah
+score: 7.0
 ---
 
 Al Noor Mosque sits on the Al Majaz peninsula on the Khalid Lagoon, its white domes and minarets reflected in the water. Built in 2005 in a classical Ottoman style, it is one of Sharjah's most photographed buildings and one of the most welcoming to non-Muslim visitors in the UAE.

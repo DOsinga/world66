@@ -13,6 +13,7 @@ story: >
   which is why the Virgin of Guadalupe became the symbol of Mexican
   independence, and why the sanctuary is considered a birthplace of the
   Mexican nation.
+score: 9.1
 ---
 
 The Sanctuary of Atotonilco, ten kilometres north of San Miguel de Allende, is one of the most remarkable interiors in Mexico. Built beginning in 1740, the inside of the church was painted over two decades by a single artist, Miguel Antonio Martínez de Pocasangre, who covered every surface — walls, ceilings, arches, vaults — with religious murals, inscriptions, and painted sculptures. The effect is overwhelming: a total environment of Baroque devotional art that has been called the "Sistine Chapel of the Americas."

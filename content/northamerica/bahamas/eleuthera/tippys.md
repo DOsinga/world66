@@ -6,6 +6,7 @@ longitude: -76.2103
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Tippy's, on a quiet beach about ten miles south of Governor's Harbour at Pineapple Fields, is the island's signature beach lunch — and worth the drive. Casual, open-air, with a sandy floor and a small bar; the menu changes with what comes off the boats. Grouper, conch, and lobster get straightforward treatment and good seasoning.

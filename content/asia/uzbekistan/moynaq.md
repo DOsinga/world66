@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Moynaq,_Aral_Sea_(62268073
 latitude: 43.7683
 loc_type: city
 longitude: 59.0214
-score: 0.42
+score: 6.57
+snippet: Former Aral Sea port stranded in desert, where rusting ships mark a vanished
+  fishing fleet
 title: Moynaq
 type: location
 ---

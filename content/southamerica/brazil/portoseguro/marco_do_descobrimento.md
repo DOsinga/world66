@@ -8,6 +8,7 @@ tags:
   - sight
   - monument
 story: "The cross was originally erected on a different stretch of coast at Coroa Vermelha, where Cabral's fleet first landed, then moved here in the 18th century for safekeeping after the original Coroa Vermelha cross was lost."
+score: 7.8
 ---
 
 A weather-eaten stone cross on the edge of the bluff, set inside a small open-sided pavilion. It is one of the original Portuguese *padrões* — territorial markers placed by 15th- and 16th-century Portuguese navigators along the African and Brazilian coasts to claim land for the crown. The carved coat of arms is still visible on one face, though centuries of salt wind have softened the detail.

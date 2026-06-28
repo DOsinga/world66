@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.9225
 longitude: 24.7133
+score: 8.3
 ---
 
 The town hall in the middle of Market Square is the city's defining building — a slender, pale four-storey block with a 49-metre tower, built in 1929 in a stripped-down constructivist style on the foundations of three earlier ratushas (the previous ones burned down, were demolished, or were knocked about in successive wars). It still houses the city council.

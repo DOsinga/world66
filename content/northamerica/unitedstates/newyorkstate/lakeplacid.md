@@ -5,7 +5,9 @@ done:
 latitude: 44.2831
 loc_type: city
 longitude: -73.9828
-score: 0.62
+score: 8.35
+snippet: Adirondack village with 1932 and 1980 Winter Olympic venues around Mirror
+  Lake.
 title: Lake Placid
 type: location
 ---

@@ -12,6 +12,7 @@ story: >
   Every column in St. Patrick's Basilica was carved from a single white oak tree. The columns are massive — 17 metres tall — and the feat of finding trees large enough was considered extraordinary even at the time of construction. The interior holds over 1,000 people and has the quality of near-silence that only the largest stone churches achieve.
 sources:
   - https://en.wikipedia.org/wiki/St._Patrick%27s_Basilica,_Montreal
+score: 7.1
 ---
 
 St. Patrick's Basilica on René-Lévesque Boulevard is the historic church of Montreal's Irish community, built in 1847 and still one of the finest Gothic Revival interiors in North America. The columns are monolithic white oak trunks, each carved from a single tree, and the vaulted ceiling rises 20 metres above the nave. The stained glass is particularly good — warm and rich in the afternoon light.

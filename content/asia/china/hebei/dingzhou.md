@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dingzhou,_Baoding,_Hebei,_
 latitude: 38.516
 loc_type: city
 longitude: 114.99
+score: 5.6
+snippet: Hebei city on the North China Plain, home to the 84-metre Liaodi Pagoda from
+  1055.
 sources:
 - https://en.wikipedia.org/wiki/Dingzhou
 title: Dingzhou

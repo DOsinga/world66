@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5496
 longitude: -4.1445
+score: 7.1
 ---
 
 The parish church of St Eustachius stands on the site of the abbey's chapel, immediately south of the surviving abbey gatehouse. The current building is largely fourteenth and fifteenth century, with a tall west tower visible from across the Tavy valley. Inside, the proportions are generous and there is a fine collection of medieval and Victorian stained glass, including windows by Morris & Co. and Burne-Jones.

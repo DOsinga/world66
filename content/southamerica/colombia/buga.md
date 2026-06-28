@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Buga_-_Catedral.JPG
 latitude: 3.9001
 loc_type: city
 longitude: -76.302
-score: 0.45
+score: 6.77
+snippet: Valle del Cauca colonial city known for the Basílica del Señor de los Milagros
+  pilgrimage
 title: Buga
 type: location
 ---

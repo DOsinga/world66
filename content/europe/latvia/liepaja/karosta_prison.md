@@ -10,6 +10,7 @@ tags:
   - historic
 story: >
   The prison was used continuously from 1900 through the Soviet period, serving the imperial Russian navy, the Latvian military, the Nazi occupation forces, and the Soviet navy in turn. Prisoners with very different histories sat in the same cells — including Latvian freedom fighters during the Soviet occupation.
+score: 7.5
 ---
 
 The Karosta Prison (Karosta Cietums) is one of the most unusual attractions in the Baltic states — a genuine former military prison that operated through tsarist, Nazi, and Soviet occupation, now open to visitors for tours and a deliberately uncomfortable overnight experience.

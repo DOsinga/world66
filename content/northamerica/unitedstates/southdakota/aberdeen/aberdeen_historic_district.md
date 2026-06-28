@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 A 29-acre stretch of downtown listed on the National Register of Historic Places, the Aberdeen Historic District preserves the brick-and-stone commercial buildings that went up between roughly 1885 and 1925, when the town was a four-railroad junction and the trade hub for a vast wheat-farming region.

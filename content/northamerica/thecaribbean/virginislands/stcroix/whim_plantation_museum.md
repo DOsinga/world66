@@ -13,6 +13,7 @@ story: >
   the furniture and fittings have been carefully restored to show what a
   prosperous planter's household looked like in the 18th century, down to
   the imported Delftware and the mahogany four-poster beds.
+score: 8.4
 ---
 
 Estate Whim is a restored 18th-century Danish sugar plantation now operating as an open-air museum, managed by the St. Croix Landmarks Society. The site includes the great house, the sugar mill tower, the wind mill, the cook house, and the enslaved workers' quarters — a complete plantation landscape that gives a far more complete picture of how this economy functioned than the great house alone would. The machinery in the sugar factory has been partially restored and you can walk through the crushing mill, the boiling house, and the curing house to trace the full process.

@@ -10,6 +10,7 @@ story: >
   Presque Isle is a tombolo — a peninsula formed when sediment gradually connected an island to the mainland. It has been migrating eastward by several feet per year for centuries, which means the shoreline changes constantly. The sandy spits at the tip of the peninsula are geologically very young; maps from even 50 years ago show a noticeably different shape.
 sources:
   - https://en.wikipedia.org/wiki/Presque_Isle_State_Park
+score: 9.1
 ---
 
 Presque Isle State Park is a 3,200-acre sandy peninsula curving into Lake Erie eight miles west of downtown Erie, enclosing a protected bay of remarkable calm water on its eastern side. It is one of the most-visited state parks in Pennsylvania, offering eleven swimming beaches, 13 miles of cycling and running trails, kayak and paddleboard rentals, excellent birding, and some of the best freshwater sunsets anywhere in the country.

@@ -14,6 +14,7 @@ story: >
   that destroyed most other medieval wooden churches in Norway. The smell
   inside is of tar and old timber: the same preservative treatment has been
   applied to the wood for eight centuries.
+score: 9.3
 ---
 
 Borgund Stave Church is the best-preserved medieval stave church in Norway — a UNESCO World Heritage candidate structure that has stood since around 1180 CE, virtually unchanged. It rises from the floor of the Lærdal valley on a series of staves (vertical wooden posts) above a stone foundation, the roof layers rising in tiers decorated with carved dragon heads and shingled surfaces. The entire structure is preserved in an extraordinary condition: original carved portals, original iron fittings, original construction.

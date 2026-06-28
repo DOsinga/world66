@@ -19,6 +19,7 @@ title: Saint Bavo's Cathedral
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Saint_Bavo%27s_Cathedral,_Ghent
+score: 9.6
 ---
 
 Saint Bavo's Cathedral is the main reason to come to Ghent if you have any interest in art history. The cathedral houses the Ghent Altarpiece — formally "The Adoration of the Mystic Lamb" — painted by Hubert and Jan van Eyck and completed in 1432. It is one of the most important paintings in Western art, a polyptych of 12 panels that broke with the flat Byzantine tradition to achieve a new kind of pictorial depth and realism.

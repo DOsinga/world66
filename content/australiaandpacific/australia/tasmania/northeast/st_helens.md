@@ -9,6 +9,7 @@ title: St Helens
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/St_Helens,_Tasmania
+score: 7.4
 ---
 
 St Helens is the largest town on the north-east coast, sitting on Georges Bay about 170 kilometres northeast of Launceston. It is the main service town for the region and the natural base for exploring the **Bay of Fires**, the stretch of coast immediately to the north that is widely considered one of the most beautiful in Australia.

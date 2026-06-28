@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 16.5063
 longitude: 80.6463
+score: 5.9
 ---
 
 A south Indian chain restaurant that has been a Vijayawada fixture for years. The vegetarian menu runs from classic dosas and uttapams through to north Indian thalis. Filter coffee is the giveaway in the name and is reliably good.

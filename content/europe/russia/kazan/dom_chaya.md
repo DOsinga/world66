@@ -9,6 +9,7 @@ tags:
   - tatar
   - centre
 address: Bauman Street 64
+score: 6.4
 ---
 
 Dom Chaya, the House of Tea, is a long-running Tatar canteen on Bauman Street where you order at the counter, point at what looks good, and carry the tray to a wood-bench table. The food is honest Tatar home cooking — *echpochmak*, *chak-chak*, soup, *plov*, salads — done at a price that lets you eat a full lunch for the equivalent of a couple of dollars.

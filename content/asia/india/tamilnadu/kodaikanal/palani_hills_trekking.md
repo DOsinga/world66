@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2
 longitude: 77.4667
+score: 8.5
 ---
 
 The Palani Hills around Kodaikanal offer serious trekking for those willing to arrange permits and guides. The hills are part of the Western Ghats, a biodiversity hotspot, and the higher elevations hold shola forest and grassland that are home to Nilgiri tahr, gaur, sambar, and numerous endemic bird species.

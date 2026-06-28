@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.0739
 longitude: -110.9558
+score: 6.8
 ---
 
 The Cathedral of the Assumption (Catedral de la Asunción) is the most visible landmark in central Hermosillo. Its two neoclassical towers, completed in the late 19th century, anchor the downtown skyline and frame the Plaza Zaragoza. The exterior is elegant and restrained; the interior features painted vaults, ornate altarpieces, and a calm atmosphere that offers welcome shade on hot afternoons.

@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 19.6387
 longitude: -155.9941
+score: 6.2
 ---
 
 Island Lava Java is the town's most popular breakfast and brunch spot, occupying a covered lanai right on Ali'i Drive with tables looking out over the bay. The coffee is excellent — 100% Kona grown, properly brewed — and the breakfast plates are generous: eggs Benedict, acai bowls, banana pancakes, and a good selection of fresh fruit.

@@ -1,8 +1,9 @@
 ---
+score: 3.2
 tags:
 - getting_there
 title: Train transfer Amsterdam <> Leeuwarden Harlingen
-type: poi
+type: theme
 ---
 
 Departure/timetable and tariff information for **train** transfer to Leeuwarden and correspondence to Harlingen harbour (here soon)

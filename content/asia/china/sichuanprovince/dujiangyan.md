@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Dujiang_Weir.jpg
 latitude: 30.996525
 loc_type: city
 longitude: 103.614272
-score: 0.6
+score: 8.13
+snippet: Sichuan city northwest of Chengdu, known for its ancient irrigation system
+  on the Min River.
 sources:
-  - https://en.wikipedia.org/wiki/Dujiangyan
-  - https://en.wikipedia.org/wiki/Dujiangyan_City
-  - https://en.wikipedia.org/wiki/Mount_Qingcheng
+- https://en.wikipedia.org/wiki/Dujiangyan
+- https://en.wikipedia.org/wiki/Dujiangyan_City
+- https://en.wikipedia.org/wiki/Mount_Qingcheng
 title: Dujiangyan
 type: location
 ---

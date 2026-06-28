@@ -6,6 +6,7 @@ tags:
   - swimming
 latitude: -36.7262
 longitude: 146.9635
+score: 7.6
 ---
 
 The Ovens River running through Bright offers a string of swimming holes that are the local answer to summer heat. The best spots are along the river bank near the caravan park and behind the main town, where the river runs over smooth granite boulders into clear, cold pools. The water comes straight off the mountains and is refreshing even on the hottest days.

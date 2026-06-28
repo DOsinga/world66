@@ -10,8 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Manuel_Antonio_CRI_07_2016
 latitude: 9.3906
 loc_type: city
 longitude: -84.1406
-score: 0.7
+score: 9.25
 title: Manuel Antonio
+snippet: Pacific beach town beside a compact rainforest national park where wildlife,
+  reefs, and coves sit close together.
 type: location
 ---
 

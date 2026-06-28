@@ -4,14 +4,20 @@ done:
 latitude: 35.000074
 longitude: 104.999927
 quick_facts:
-  Population: "1.4 billion"
-  Time Zone: "UTC+8 (one zone)"
-  High-Speed Rail: "45,000 km"
-  Great Wall Length: "21,196 km"
-score: 0.57
+  Population: 1.4 billion
+  Time Zone: UTC+8 (one zone)
+  High-Speed Rail: 45,000 km
+  Great Wall Length: 21,196 km
+score: 0.94
 title: China
 type: location
 loc_type: country
+snippet: Vast East Asian country of imperial capitals, high-speed cities, minority
+  cultures, and landscapes from Tibet to Yunnan.
+image: china.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beijing_%E5%8C%97%E4%BA%AC_(50540559551).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Melvin Loi from Macau, Macau
 ---
 
 China is one of the most varied countries on earth. Within its borders you get the Tibetan Plateau, the Gobi Desert, the karst mountains of Guilin, the subtropical forests of Yunnan, and some of the world's most dynamic cities. The sheer scale of the place means no single trip covers it all — and that's part of the appeal.

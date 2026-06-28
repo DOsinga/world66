@@ -10,6 +10,7 @@ tags:
 title: Mary McLeod Bethune Home
 type: poi
 story: "Bethune founded the college that became Bethune-Cookman University in 1904 with $1.50 in cash, five girl students and a sweet potato pie. She went on to advise four presidents and to be the only African American woman present at the founding of the United Nations."
+score: 7.7
 ---
 
 Mary McLeod Bethune was the daughter of formerly enslaved parents who became the most influential Black educator in the country and an adviser to Franklin D. Roosevelt. Her modest two-storey clapboard house, on the campus of Bethune-Cookman University, was both her home and the unofficial salon where she received presidents, NAACP organisers and visiting dignitaries from the 1920s until her death here in 1955.

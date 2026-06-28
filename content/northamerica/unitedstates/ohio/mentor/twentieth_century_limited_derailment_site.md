@@ -15,6 +15,7 @@ story: >
   historians.
 sources:
   - https://en.wikipedia.org/wiki/20th_Century_Limited_derailment
+score: 4.2
 ---
 
 In 1905 the New York Central Railroad's pride and joy, the 20th Century Limited, was the fastest long-distance train in North America, making the New York-to-Chicago run in twenty hours flat. On the night of 21 June, it came off the rails near Mentor station at speed, killing 21 people and injuring dozens more. The wreck drew national attention and raised uncomfortable questions about how hard the railroads were pushing their equipment.

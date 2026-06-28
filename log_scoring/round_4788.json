@@ -1,0 +1,200 @@
+{
+  "round": 4788,
+  "timestamp": "2026-06-14T00:41:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 7.0819,
+      "prior_variance": 0.124322,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 7.6338,
+      "prior_variance": 0.1366,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Avanos",
+      "path": "asia/turkey/cappadocia/avanos",
+      "prior_score": 4.1498,
+      "prior_variance": 0.091808,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol",
+      "prior_score": 3.1053,
+      "prior_variance": 0.088426,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 4.3489,
+      "prior_variance": 0.099407,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 4.9528,
+      "prior_variance": 0.098711,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.7288,
+      "prior_variance": 0.087858,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.7368,
+      "prior_variance": 0.097363,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Silverton",
+      "path": "northamerica/unitedstates/colorado/silverton",
+      "prior_score": 2.3307,
+      "prior_variance": 0.094299,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Rincon",
+      "path": "northamerica/thecaribbean/puertorico/rincon",
+      "prior_score": 2.9765,
+      "prior_variance": 0.086882,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": 1.6321,
+      "prior_variance": 0.080981,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -1.2301,
+      "prior_variance": 0.125588,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 0.5974,
+      "prior_variance": 0.079112,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -1.443,
+      "prior_variance": 0.091478,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -2.1008,
+      "prior_variance": 0.085548,
+      "prior_n": 17
+    },
+    {
+      "rank": 16,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.1613,
+      "prior_variance": 0.078479,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.8772,
+      "prior_variance": 0.094134,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -1.8253,
+      "prior_variance": 0.082845,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -3.1886,
+      "prior_variance": 0.11144,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.3458,
+      "prior_variance": 0.12126,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.8246,
+      "prior_variance": 0.089354,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -9.4786,
+      "prior_variance": 0.301744,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -7.4115,
+      "prior_variance": 0.168716,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -10.7451,
+      "prior_variance": 0.282622,
+      "prior_n": 15
+    }
+  ]
+}

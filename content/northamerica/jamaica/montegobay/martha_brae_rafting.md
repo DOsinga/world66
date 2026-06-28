@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4256
 longitude: -77.6378
+score: 7.4
 ---
 
 A 30-foot bamboo raft, a single boatman with a long pole, and three slow miles of green river bordered by jungle — the Martha Brae rafting trip is the classic Jamaican afternoon, easygoing and quietly memorable. Trips start at Rafter's Village near Falmouth, about 35 km east of Montego Bay, and end at Martha Brae village.

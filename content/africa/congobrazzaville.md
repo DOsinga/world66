@@ -1,9 +1,12 @@
 ---
+latitude: -0.228
+loc_type: country
+longitude: 15.827
+score: 0.36
+snippet: Forested Central African country where Congo River cities give way to rainforest
+  and Atlantic coast
 title: Republic of the Congo
 type: location
-loc_type: country
-latitude: -0.228
-longitude: 15.827
 ---
 
 The Republic of the Congo — often called Congo-Brazzaville to distinguish it from its much larger neighbour across the river — is a forested equatorial country on the Atlantic coast of Central Africa. It is one of the most densely forested countries on the continent, with rainforest covering roughly two-thirds of its territory. The north is a vast wilderness of forest and swamp; the south is where most of the population lives, strung along the Congo-Ocean Railway between [Brazzaville](/africa/congobrazzaville/brazzaville) and [Pointe-Noire](/africa/congobrazzaville/pointenoire).

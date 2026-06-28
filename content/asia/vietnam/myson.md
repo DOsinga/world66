@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2024_-_M%E1%BB%B9_S%C6%A1n
 latitude: 15.7583
 loc_type: city
 longitude: 108.1242
-score: 0.62
+score: 8.35
+snippet: Cham temple valley near Hoi An, Vietnam's key red-brick archaeological site
+  from the Champa kingdom.
 title: My Son
 type: location
 ---

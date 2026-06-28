@@ -8,6 +8,7 @@ tags:
 - nature
 title: La Paz Municipal Zoo
 type: poi
+score: 5.8
 ---
 
 The municipal zoo in Miraflores is one of La Paz's better family destinations, partly for what it contains — condors, spectacled bears, tapirs, pumas, and a range of Amazonian species — and partly because it represents Bolivia's biodiversity in miniature. The spectacled bear (ukuku in Quechua) is native to the Andes and rarely seen in the wild; the zoo has a small breeding programme.

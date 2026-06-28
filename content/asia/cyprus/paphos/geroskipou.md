@@ -7,6 +7,7 @@ tags:
 latitude: 34.7667
 longitude: 32.4667
 snippet: Eastern suburb known for its five-domed Byzantine church and loukoumi
+score: 7.4
 ---
 
 A coastal village just east of Paphos that has effectively merged with the town. Its centre is dominated by Agia Paraskevi, a rare Byzantine church with five domes arranged in a cross — inside are frescoes ranging in date from the 9th to the 15th century.

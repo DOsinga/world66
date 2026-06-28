@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - festival
+score: 9.1
 ---
 
 The Damba Festival is the centrepiece of Tamale's cultural calendar and one of the most impressive traditional celebrations in West Africa. It marks the birth of the Prophet Muhammad and falls in the Islamic month of Maulid — roughly July or August in the Gregorian calendar, though the exact date varies each year with the lunar calendar. The festival lasts several days, and timing a visit around it transforms Tamale from a transit hub into something you will not forget quickly.

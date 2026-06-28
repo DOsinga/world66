@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 46.633229
 longitude: 1.06323
+score: 6.8
 ---
 
 Le Blanc's Saturday market fills the town centre with local producers selling goat cheese — the region is known for its chèvre — fresh vegetables, honey from Brenne lavender, and seasonal fruit. It is a proper market town market, not a tourist attraction: the clientele is overwhelmingly local and the prices reflect that.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hui%27an_Chongwu_Cheng_201
 latitude: 24.9
 loc_type: feature
 longitude: 118.9
+score: 7.16
+snippet: Fujian coastal town enclosed by a remarkably intact Ming fortress facing
+  the Taiwan Strait.
 sources:
 - https://en.wikivoyage.org/wiki/Chongwu
 title: Chongwu

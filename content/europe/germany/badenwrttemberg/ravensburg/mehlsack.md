@@ -12,6 +12,7 @@ story: >
   people, who thought the white-plastered cylindrical tower looked like a
   bulging sack of flour. The official name is the Glockenturm (Bell Tower),
   but nobody calls it that. The flour sack name stuck.
+score: 8.0
 ---
 
 The Mehlsack is Ravensburg's most recognizable landmark, a 51-metre white tower rising above the old town that has served as the city's signature image since the 15th century. Built as part of the medieval fortifications, it stands at the edge of the old town centre and is visible from most approaches to the city.

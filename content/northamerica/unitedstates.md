@@ -1,21 +1,23 @@
 ---
-title: United States
-type: location
-latitude: 39.78373
-longitude: -100.445882
-quick_facts:
-  Population: "335 million"
-  Time Zones: "6 (continental + Alaska/Hawaii)"
-  National Parks: "63"
-  Appalachian Trail: "3,500 km from Georgia to Maine"
-image: unitedstates.jpg
-image_source: https://commons.wikimedia.org/wiki/File:USA-NYC-Statue_of_Liberty.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ingfbruno" title="User:Ingfbruno">Ingfbruno</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.29
+image: unitedstates.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ingfbruno" title="User:Ingfbruno">Ingfbruno</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:USA-NYC-Statue_of_Liberty.jpg
+latitude: 39.78373
 loc_type: country
+longitude: -100.445882
+quick_facts:
+  Appalachian Trail: 3,500 km from Georgia to Maine
+  National Parks: '63'
+  Population: 335 million
+  Time Zones: 6 (continental + Alaska/Hawaii)
+score: 0.95
+snippet: Vast federal country of big coastal cities, national parks, highways, and
+  landscapes stretching from Atlantic to Pacific.
+title: United States
+type: location
 ---
 
 The land of the brave and the free, that's the States and it's certainly true for traveling. The USA offers a unique combination of bigger than big cities with their fast paced life and great outdoor opportunities.
@@ -24,7 +26,7 @@ The land of the brave and the free, that's the States and it's certainly true fo
  The East coast has many cities worth discovering, such as [New York](/northamerica/unitedstates/newyorkstate/newyork) a unique melting pot of cultures with the world's most famous skyline, [Boston](/northamerica/unitedstates/massachusetts/boston), also known as Bean Town, [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia) - remember Rocky running up the stairs? It's in Philly - [Washington D.C.](/northamerica/unitedstates/washingtondc), the capital city or [Atlanta](/northamerica/unitedstates/georgia/atlanta), where the 1996 Olympics were held.
  
  
- The East Coast, from [Washington](/northamerica/unitedstates/washington) to [California](/northamerica/unitedstates/california) is well known for its relaxed atmosphere. [San Francisco](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco) is the capital of cool and close to the city you can find mountains to hike, beaches and vineyards. [Los Angeles](/northamerica/unitedstates/california/losangeles) is a micro universe. You can find everything from rags to riches, from Tinseltown to East L.A.
+ The East Coast, from [Washington](/northamerica/unitedstates/washington) to [California](/northamerica/unitedstates/california) is well known for its relaxed atmosphere. [San Francisco](/northamerica/unitedstates/california/sanfrancisco) is the capital of cool and close to the city you can find mountains to hike, beaches and vineyards. [Los Angeles](/northamerica/unitedstates/california/losangeles) is a micro universe. You can find everything from rags to riches, from Tinseltown to East L.A.
 
 
  Located on the shores of the great lakes [Chicago](/northamerica/unitedstates/illinois/chicago), the windy city, is where the Skycraper was invented. Even today downtown Chicago is the beautiful early laboratory of this new form of building. The city is also vibrant with an excellent Jazz and Blues scene, two great ballparks, good food and much more.

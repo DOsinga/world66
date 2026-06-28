@@ -9,6 +9,7 @@ latitude: 46.2266
 longitude: 15.2659
 sources:
   - https://en.wikipedia.org/wiki/Celje_Water_Tower
+score: 5.9
 ---
 
 The Celje Water Tower is one of the best-preserved sections of the medieval town walls. Built in the 15th century as part of the city's defensive circuit, the tower was later converted to serve as a water reservoir — a practical reuse that helped preserve it while other sections of the wall were demolished. It stands at the southern edge of the old town, visible from several surrounding streets.

@@ -7,6 +7,7 @@ snippet: Sweden's oldest observatory, founded by Anders Celsius in 1741
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Uppsala Observatory is the oldest astronomical observatory in Sweden, founded in 1741 by Anders Celsius — the same Uppsala professor whose temperature scale you encounter every day. Celsius designed the original building himself, on what was then the edge of town; the observation deck on the roof still survives, and a plaque marks the spot.

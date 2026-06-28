@@ -9,6 +9,7 @@ latitude: 41.9380
 longitude: 126.4180
 story: >
   The Lingguang Pagoda survived the upheavals of over a thousand years not through continuous protection but through sheer remoteness — the region around Baishan was so marginal to successive Chinese dynasties that the pagoda was simply never important enough to destroy, and too isolated to attract the attention of those who might have looted it. It stands now as an accidental survivor.
+score: 8.0
 ---
 
 The Lingguang Pagoda in Baishan is a genuine rarity in this part of northeast China: a Tang dynasty structure, dating to the eighth or ninth century CE, that has survived more or less intact. The tower follows the brick pagoda form common to Tang Buddhist architecture — octagonal, tapering, with recessed tiers — and stands as the oldest significant above-ground structure in Jilin Province. The area around it includes a small temple precinct with later additions.

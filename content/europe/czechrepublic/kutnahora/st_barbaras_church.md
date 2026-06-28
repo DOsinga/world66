@@ -17,6 +17,7 @@ story: >
   cathedral.
 sources:
   - https://en.wikipedia.org/wiki/St._Barbara%27s_Church,_Kutn%C3%A1_Hora
+score: 9.2
 ---
 
 St. Barbara's Church is one of the great Gothic buildings of Central Europe, begun in 1388 and not completed until the early 16th century — a 130-year project that outlasted the medieval silver boom that financed it. The exterior silhouette is immediately memorable: three enormous tent-shaped flying buttresses rise above the nave, and the south facade is lined with slender Gothic windows that flood the interior with light. The cathedral stands on a promontory above the town, and the terrace in front of it offers a sweeping view over the Bohemian countryside.

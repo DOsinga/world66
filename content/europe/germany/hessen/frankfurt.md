@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Frankfurt_Main_August_2020
 latitude: 50.1109
 loc_type: city
 longitude: 8.6821
-score: 0.56
+score: 8.05
+snippet: Major German city on the Main, combining a financial skyline with museums,
+  opera, and nightlife.
 title: Frankfurt
 type: location
 ---

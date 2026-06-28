@@ -8,6 +8,7 @@ tags:
 - park
 title: High Park
 type: poi
+score: 7.9
 ---
 
 High Park is Toronto's largest urban park at 161 hectares, running along the western edge of the city near the lake. It manages to contain a surprising amount of variety: natural oak savannah, a ravine, an outdoor swimming pool, a small zoo with free admission, tennis courts, a children's playground, and Grenadier Pond (named for the British soldiers who once fished here), which becomes a skating rink in a cold winter.

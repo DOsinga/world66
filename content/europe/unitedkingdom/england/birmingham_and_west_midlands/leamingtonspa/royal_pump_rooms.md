@@ -8,6 +8,7 @@ story: >
   The Pump Rooms were completed in 1814, the same year Queen Victoria's father, the Duke of Kent, visited to take the waters. Victoria herself became a regular visitor, and her affection for the town prompted her to grant it the "Royal" prefix in 1838 — making it Royal Leamington Spa.
 sources:
   - https://en.wikipedia.org/wiki/Royal_Pump_Rooms
+score: 8.4
 ---
 
 The Royal Pump Rooms is the most impressive building in Leamington Spa and the anchor of its spa heritage. The elegant Regency facade on the Parade conceals a complex that served as a fashionable bathing establishment throughout the nineteenth century, drawing royalty, aristocracy, and the merely wealthy to its thermal baths and assembly rooms.

@@ -1,11 +1,14 @@
 ---
 latitude: 35.0163
 longitude: 135.7825
-snippet: Vermilion 1895 shrine with one of Kyoto's largest torii gates and a notable strolling garden
+score: 6.9
+snippet: Vermilion 1895 shrine with one of Kyoto's largest torii gates and a notable
+  strolling garden
 tags:
 - things_to_do
 - shrine
 - sight
+- philosophers_walk
 title: Heian Shrine
 type: poi
 ---

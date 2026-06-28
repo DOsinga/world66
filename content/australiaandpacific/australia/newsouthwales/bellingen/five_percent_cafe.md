@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: -30.4543
 longitude: 152.8982
+score: 6.3
 ---
 
 Bellingen's cafes are a step above the regional average. The town has developed a food culture driven by the organic farming community in the valley and the demands of an educated, alternative-lifestyle population. The result is strong coffee, good breakfasts, and a higher-than-usual prevalence of vegetarian and vegan options.

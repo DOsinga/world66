@@ -13,6 +13,7 @@ story: >
   Luke records Jesus reading from the scroll of Isaiah and declaring "Today this
   scripture is fulfilled in your hearing" — a claim that caused the congregation
   to attempt to throw him off a cliff.
+score: 6.8
 ---
 
 The Synagogue Church is a small Greek Catholic church in the heart of the old town, built on the site traditionally identified as the synagogue where Jesus preached at the start of his ministry. The church is modest in scale but sits at the center of one of the most significant episodes in the Gospels. The sunken floor level suggests a long sequence of buildings on this spot.

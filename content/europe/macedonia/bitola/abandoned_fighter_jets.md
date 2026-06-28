@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0196
 longitude: 21.3427
+score: 6.2
 ---
 
 At the edge of Bitola's small airport, several F-86E Sabre jet fighters from the Yugoslav Air Force have sat rusting in the open for decades. These American-built aircraft were supplied to Yugoslavia under a military assistance programme in the 1950s and were eventually retired from service. Rather than being properly decommissioned or preserved, they were simply left where they stood.

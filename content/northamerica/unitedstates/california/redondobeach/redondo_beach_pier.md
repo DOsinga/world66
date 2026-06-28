@@ -10,6 +10,7 @@ tags:
 - sight
 - landmark
 story: "The original Redondo Beach pier was built in 1889 and was for a time the largest wharf on the Pacific coast — steamships from San Francisco unloaded passengers here before the Port of Los Angeles eclipsed the town. The current horseshoe shape dates from 1995 reconstruction after a series of storms in 1988 and a 1988 pier-end fire destroyed earlier versions."
+score: 7.5
 ---
 
 The pier is the focal point of the town. It juts out into the bay in a distinctive horseshoe shape, lined with restaurants, fish markets, arcades and bait shops. The current structure replaced an earlier 1958 pier that burned down in 1988 — the older pier was a more conventional T-shape.

@@ -1,0 +1,200 @@
+{
+  "round": 2816,
+  "timestamp": "2026-06-13T22:09:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 14.0681,
+      "prior_variance": 0.787453,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Zadar",
+      "path": "europe/croatia/zadar",
+      "prior_score": 6.6834,
+      "prior_variance": 0.194845,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 3.9119,
+      "prior_variance": 0.151648,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.8094,
+      "prior_variance": 0.177809,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 4.8106,
+      "prior_variance": 0.149255,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 1.9768,
+      "prior_variance": 0.181188,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 5.1394,
+      "prior_variance": 0.174281,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.228,
+      "prior_variance": 0.148365,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.4702,
+      "prior_variance": 0.1593,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 0.133,
+      "prior_variance": 0.160314,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 5.0598,
+      "prior_variance": 0.167035,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 0.8183,
+      "prior_variance": 0.145164,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": -0.0844,
+      "prior_variance": 0.149196,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -2.8615,
+      "prior_variance": 0.164313,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.2424,
+      "prior_variance": 0.169722,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.5536,
+      "prior_variance": 0.176628,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -2.2005,
+      "prior_variance": 0.152595,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": -0.0581,
+      "prior_variance": 0.160408,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": -0.9106,
+      "prior_variance": 0.166696,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -2.755,
+      "prior_variance": 0.146509,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.8051,
+      "prior_variance": 0.159208,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -3.2619,
+      "prior_variance": 0.182834,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -3.5063,
+      "prior_variance": 0.157582,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.7135,
+      "prior_variance": 0.158041,
+      "prior_n": 9
+    }
+  ]
+}

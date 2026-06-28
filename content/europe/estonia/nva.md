@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:N%C3%B5va_vald,_Perak%C3%B
 latitude: 59.22471
 loc_type: city
 longitude: 23.688303
-score: 0.35
+score: 5.92
+snippet: Quiet Estonian coastal village with Swedish heritage, pine forest, sandy
+  beach, and berry-picking country
 title: Nõva
 type: location
 ---

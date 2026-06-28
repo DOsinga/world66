@@ -8,6 +8,7 @@ tags:
 snippet: Sandy spit that links Taboga to the islet of El Morro at low tide
 latitude: 8.7965
 longitude: -79.5589
+score: 8.3
 ---
 
 Playa Restinga is the main swimming beach on Taboga and the most photographed bit of the island. It is a sand spit that connects the main island to the small rocky islet of El Morro, exposed at low tide and submerged when the tide is high — at the right moment you can walk across to the islet, scramble up, and look back at the village from the water. The sand here is fine and pale, the water shallow, and the views of Panama City across the bay are striking on clear days.

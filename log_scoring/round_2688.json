@@ -1,0 +1,200 @@
+{
+  "round": 2688,
+  "timestamp": "2026-06-13T22:00:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 6.1304,
+      "prior_variance": 0.220543,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Valle de la Luna",
+      "path": "southamerica/chile/atacamadesert/valledelaluna",
+      "prior_score": 7.0761,
+      "prior_variance": 0.253993,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 4.8412,
+      "prior_variance": 0.181893,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 4.2525,
+      "prior_variance": 0.18382,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Torla-Ordesa",
+      "path": "europe/spain/aragon/torla",
+      "prior_score": 4.5893,
+      "prior_variance": 0.175014,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 5.1176,
+      "prior_variance": 0.1702,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 5.1758,
+      "prior_variance": 0.197674,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.1542,
+      "prior_variance": 0.154506,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 4.3696,
+      "prior_variance": 0.174315,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 3.1569,
+      "prior_variance": 0.18025,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 3.2644,
+      "prior_variance": 0.172457,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 3.8211,
+      "prior_variance": 0.157507,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 2.9098,
+      "prior_variance": 0.214953,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.8145,
+      "prior_variance": 0.145898,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.8591,
+      "prior_variance": 0.158776,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 3.9395,
+      "prior_variance": 0.167377,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 1.8374,
+      "prior_variance": 0.146944,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 1.9972,
+      "prior_variance": 0.168205,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Cambados",
+      "path": "europe/spain/galicia/cambados",
+      "prior_score": 1.7079,
+      "prior_variance": 0.14954,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": -0.2027,
+      "prior_variance": 0.181541,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -3.6728,
+      "prior_variance": 0.241803,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -2.3317,
+      "prior_variance": 0.222341,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.5686,
+      "prior_variance": 0.149003,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -5.8738,
+      "prior_variance": 0.1666,
+      "prior_n": 8
+    }
+  ]
+}

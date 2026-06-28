@@ -13,6 +13,7 @@ story: >
   dynamic environment being reshaped by tidal action and storm events. After a severe storm
   in 1996 breached the barrier island near Faro, a new inlet formed overnight, splitting
   the island and changing the tidal patterns in the lagoon for years afterward.
+score: 7.7
 ---
 
 The Ria Formosa Natural Park, stretching 60 km along the Algarve coast behind its barrier islands, is one of the most important bird habitats in Portugal. The lagoon shelters some 30,000 migratory and resident birds, including flamingos, spoonbills, the critically endangered purple swamphen, and extensive colonies of waders. The park's headquarters near Olhão has a 3 km interpretive trail past a restored tide mill.

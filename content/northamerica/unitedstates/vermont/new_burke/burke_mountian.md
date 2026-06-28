@@ -1,7 +1,13 @@
 ---
+latitude: 44.587547
+longitude: -71.916366
+score: 7.8
 tags:
-- sights
-title: Burke Mountian
+- things_to_do
+- sight
+- skiing
+- mountain
+title: Burke Mountain
 type: poi
 zipcode: 05832
 ---

@@ -8,6 +8,7 @@ tags:
 latitude: 23.44
 longitude: -109.42
 story: "Cabo Pulmo is the recovery story marine biologists cite whenever they need to prove that marine reserves work. By the early 1990s, overfishing had reduced the reef to near-silence. The local fishing community voted to stop fishing entirely in 1995. Within a decade, fish biomass had increased by 460 percent — the largest documented recovery of a coral reef ecosystem anywhere in the world."
+score: 9.0
 ---
 
 The only hard coral reef in the Gulf of California and one of the oldest in the Eastern Pacific, located about 60 kilometres north of San José on the East Cape. The national marine park — a UNESCO World Heritage Site since 1995 — protects a series of granite ridges and coral formations that are home to an extraordinary concentration of marine life.

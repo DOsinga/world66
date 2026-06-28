@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 14.0600
 longitude: 75.2250
+score: 5.9
 ---
 
 The Tunga Anicut is a low weir across the Tunga river just west of the city centre, built in the 19th century for irrigation. It has become the primary riverside gathering point for Shimoga residents — families spread out on the rocks in the evening, children wade at the edges, and vendors set up snack stalls along the embankment.

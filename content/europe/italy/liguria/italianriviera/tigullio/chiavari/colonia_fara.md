@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.3198
 longitude: 9.3288
+score: 6.8
 ---
 
 The Colonia Fara is a large abandoned building on the seafront northeast of Chiavari's centre, one of the most striking examples of rationalist fascist-era architecture on the Ligurian coast. Built in the 1930s as a summer camp for children of military families, it operated until the postwar period before gradually falling into disuse. The building is now derelict and officially closed, but its imposing mass and seafront position make it impossible to miss.

@@ -9,6 +9,7 @@ tags:
 snippet: The Victorian seafront — bandstand, carpet gardens, and a long shingle beach that smells of the Channel
 sources:
   - https://en.wikipedia.org/wiki/Eastbourne
+score: 7.8
 ---
 
 Eastbourne's seafront is one of the best-preserved Victorian seaside fronts in England. The promenade runs for about 3 miles, backed by large white hotels and the celebrated carpet gardens — elaborately maintained flower beds that have been a feature of the seafront since the 1870s. The Victorian bandstand at the western end of the promenade hosts summer concerts. The beach is shingle rather than sand, as is typical of this stretch of the Sussex coast, with the characteristic sound of waves dragging the pebbles back and forth.

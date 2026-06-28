@@ -15,6 +15,7 @@ story: >
   choice — a visual argument that this was California territory, not just another
   Midwestern railroad town. It was listed on the National Register of Historic
   Places in 1975.
+score: 7.2
 ---
 
 The San Bernardino Santa Fe Depot is a handsome Mission Revival railway terminal built in 1918, when the Atchison, Topeka and Santa Fe Railway was the dominant carrier in Southern California. The building features arched openings, a terracotta-tile roof, and a long covered platform that once handled enormous passenger volumes during the railway's golden years.

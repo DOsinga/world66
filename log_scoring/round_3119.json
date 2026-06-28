@@ -1,0 +1,200 @@
+{
+  "round": 3119,
+  "timestamp": "2026-06-13T22:30:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 8.7115,
+      "prior_variance": 0.303864,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": -0.6473,
+      "prior_variance": 0.132918,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -1.8485,
+      "prior_variance": 0.194178,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -0.7694,
+      "prior_variance": 0.11154,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": -0.196,
+      "prior_variance": 0.126254,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -1.0731,
+      "prior_variance": 0.162756,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -1.2242,
+      "prior_variance": 0.118548,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.5536,
+      "prior_variance": 0.133391,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 0.5022,
+      "prior_variance": 0.139372,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": -1.9068,
+      "prior_variance": 0.142127,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -3.0308,
+      "prior_variance": 0.154831,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -2.2026,
+      "prior_variance": 0.134876,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.8482,
+      "prior_variance": 0.125551,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.8043,
+      "prior_variance": 0.132723,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -3.2483,
+      "prior_variance": 0.166432,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_score": -2.56,
+      "prior_variance": 0.131566,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.3292,
+      "prior_variance": 0.119874,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -3.0161,
+      "prior_variance": 0.126768,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -5.3238,
+      "prior_variance": 0.159905,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -5.7541,
+      "prior_variance": 0.178264,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -3.943,
+      "prior_variance": 0.165002,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -3.6933,
+      "prior_variance": 0.133336,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Smolensk",
+      "path": "europe/russia/smolensk",
+      "prior_score": -3.2687,
+      "prior_variance": 0.172938,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -7.9172,
+      "prior_variance": 0.322154,
+      "prior_n": 9
+    }
+  ]
+}

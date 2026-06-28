@@ -9,6 +9,7 @@ latitude: 47.5986
 longitude: -120.6574
 story: >
   The Ranger Station complex was built between 1937 and 1938 by the Civilian Conservation Corps — one of Roosevelt's New Deal programs employing young men during the Depression. The CCC built thousands of structures in national forests and parks across the US; the Leavenworth station is one of the best-preserved examples of their rustic Cascadian style in Washington.
+score: 6.1
 ---
 
 The Leavenworth Ranger Station, now the Wenatchee River Ranger District office, is a well-preserved Civilian Conservation Corps complex from the late 1930s. The buildings — log-and-stone construction in the rustic National Park style — are on the National Register of Historic Places and remain in active use as the district's administrative centre.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Bouvet-Ladubay
 type: poi
+score: 7.8
 ---
 
 Bouvet-Ladubay was founded in 1851 and is one of the great houses of Saumur sparkling wine. Its cellars are an extraordinary maze of tuffeau galleries — over 8 km of them — that maintain a constant temperature of about 12°C all year. Guided tours run several times daily and end with a tasting.

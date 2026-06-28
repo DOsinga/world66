@@ -8,6 +8,7 @@ tags:
 snippet: "Three-mile state-run beach northwest of the pier"
 latitude: 33.6850
 longitude: -118.0233
+score: 6.8
 ---
 
 The state beach immediately north of the city beach, running three miles up to Sunset Beach. Wider, less crowded, more parking, and the only beach in town where RVs can park overnight at the inland edge. The break is softer than at the pier — fine for beginners. Fire rings line the southern half.

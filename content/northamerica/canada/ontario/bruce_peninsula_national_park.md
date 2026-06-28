@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bruce Peninsula National Park
 type: poi
+score: 8.8
 ---
 
 Spectacular limestone cliffs, turquoise water, and ancient cedar trees clinging to rock faces — the Bruce Peninsula is one of Ontario's most dramatic landscapes. The park protects the shoreline of the Niagara Escarpment and is brilliant in spring when wildflowers carpet the forest floor. The Grotto is the must-see swim spot.

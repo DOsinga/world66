@@ -6,6 +6,7 @@ longitude: -94.6650
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Robert S. Kerr Museum sits on a hill south of Poteau in the former home of the late senator and Oklahoma governor — a sprawling stone-and-timber house with views across the valley. The collection ranges across the history of the Poteau River Valley, from Spiro Mound replicas and Choctaw artifacts to early 20th-century farm tools and Kerr family memorabilia.

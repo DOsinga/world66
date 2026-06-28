@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - gallery
+score: 8.0
 ---
 
 Webb Gallery, on the main square a block from the courthouse, has been the most interesting thing happening in Waxahachie since Bruce and Julie Webb opened it in 1987. They deal in self-taught and outsider art, vintage circus and carnival objects, hand-painted signs, and the regalia and artefacts of Texas fraternal lodges — particularly the Odd Fellows. The collection ranges from museum-quality folk paintings to objects you cannot quite identify, and rotates often enough to reward repeat visits.

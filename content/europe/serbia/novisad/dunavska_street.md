@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2553
 longitude: 19.8470
+score: 7.9
 ---
 
 Dunavska is the oldest street in Novi Sad and the most enjoyable to walk. It runs from Liberty Square down to Danube Park — pedestrianised, lined with Biedermeier shopfronts, a few small museums, antique bookshops, and a steady run of cafes with outside seating.

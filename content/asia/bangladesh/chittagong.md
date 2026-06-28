@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Shah_Amanat
 latitude: 22.333778
 loc_type: city
 longitude: 91.834435
-score: 0.32
+score: 5.98
+snippet: Bangladesh's second city and main port, set on the Karnaphuli River near
+  the Bay of Bengal.
 title: Chittagong
 type: location
 ---

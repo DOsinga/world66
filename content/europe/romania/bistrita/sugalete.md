@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 47.1328
 longitude: 24.4956
 snippet: "Vaulted Renaissance arcade of 13 merchant houses"
+score: 7.9
 ---
 
 The Sugălete is a long terrace of thirteen connected merchant houses on the north side of the main square, with a continuous Renaissance arcade in front. The buildings went up in the 15th and 16th centuries as the workshops and shops of the Saxon guilds; the vaulted arcade still shelters small cafes and antique sellers today.

@@ -1,12 +1,14 @@
 ---
 address: 133 Guangfu South Road, Xinyi District, Taipei
-latitude: 25.0440
+latitude: 25.044
 longitude: 121.5604
+score: 7.4
 snippet: Former tobacco factory turned design and exhibition complex
 tags:
 - things_to_do
 - sight
 - architecture
+- xinyi
 title: Songshan Cultural and Creative Park
 type: poi
 url: https://www.songshanculturalpark.org

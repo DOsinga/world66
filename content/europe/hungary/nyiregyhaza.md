@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:County_Hall,_Ny%C3%ADregyh
 latitude: 47.95578
 loc_type: city
 longitude: 21.716798
-score: 0.44
+score: 6.56
 title: Nyíregyháza
 type: location
+snippet: Northeastern Hungarian county capital with religiously mixed squares near
+  the Slovak, Ukrainian, and Romanian borders.
 ---
 
 Nyíregyháza is the capital of **Szabolcs-Szatmár-Bereg** county in the far northeast of Hungary, a flat plains city of around 115,000 people close to the borders with Slovakia, Ukraine and Romania. Its historic centre is a compact set of 19th-century squares dominated by the [Kossuth tér](/europe/hungary/nyiregyhaza/kossuth_ter) and the bulky [Greek Catholic cathedral](/europe/hungary/nyiregyhaza/greek_catholic_cathedral), with a smaller Lutheran church, a Calvinist church, an Orthodox church and the [synagogue](/europe/hungary/nyiregyhaza/nyiregyhaza_synagogue) all within a few minutes' walk — a reminder of the unusual religious mix of this corner of the Great Hungarian Plain.

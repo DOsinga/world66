@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2419
 longitude: 77.5106
+score: 5.6
 ---
 
 Silver Cascade Falls is the first landmark you see on the main road up from the plains: a thin ribbon of water dropping about 55 metres down a granite face just as the road makes the final hairpin turns into Kodaikanal. The falls are most impressive after the monsoon, when the volume is highest.

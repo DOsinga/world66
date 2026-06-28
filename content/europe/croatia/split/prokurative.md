@@ -14,6 +14,7 @@ story: >
   was supposed to have a public building but was never completed, leaving the square with
   three uniform faces and one open side. Architecturally the imitation is obvious; as a
   public space it works perfectly.
+score: 6.4
 ---
 
 The Prokurative, also known as Republic Square (Trg Republike), is Split's grandest 19th-century piazza — three sides of uniform neo-Renaissance arcades forming a three-sided square that opens toward the Riva and the sea. It was built during the Austrian period as a deliberate display of civic architecture, and the echoes of Piazza San Marco are impossible to ignore.

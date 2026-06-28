@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - bulgarian
+score: 5.8
 ---
 
 "The Monastery Kitchen" — a famous Bulgarian tavern that collects recipes from monasteries across the country and rotates them through a long, well-thumbed menu. Each dish lists the monastery it came from. Try the bean stew from Bachkovo or the lamb sach from Rila.

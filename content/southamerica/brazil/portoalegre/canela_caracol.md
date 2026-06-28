@@ -1,8 +1,13 @@
 ---
+latitude: -29.3135
+longitude: -50.8543
+score: 7.9
 snippet: Serra Gaúcha's best waterfall and most beautiful natural park, next to Gramado
 tags:
 - day_trips
 - park
+- waterfall
+- nature
 title: Canela and Parque do Caracol
 type: poi
 ---

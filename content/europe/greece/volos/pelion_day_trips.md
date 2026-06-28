@@ -7,6 +7,7 @@ tags:
 latitude: 39.2500
 longitude: 23.0500
 snippet: "Green, forested peninsula of stone mansions, sea arches, and ancient hiking paths"
+score: 8.8
 ---
 
 Volos is the gateway to the Pelion peninsula, and no visit to the city is complete without at least a day in the hills. The peninsula extends south into the Aegean, a long green ridge draped in chestnut, plane, and olive trees. It looks nothing like the parched Greek landscape most visitors expect: the forests are dense, the villages well-watered, the air cool even in summer. The myth says the Centaurs lived here, and the terrain — steep, wooded, crossed by old stone paths — is the kind of place that invites that sort of story.

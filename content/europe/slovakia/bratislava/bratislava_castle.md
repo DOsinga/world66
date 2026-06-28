@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, museum, stare_mesto]
 latitude: 48.1421
 longitude: 17.0998
 story: The castle's distinctive four-tower silhouette — locals call it the "upturned table" — has dominated the Danube skyline for over a thousand years. Under the communist regime it was left to decay so badly that in 1811 a fire gutted the building, and it wasn't fully reconstructed until the 1950s. The hilltop has been continuously occupied since at least the 9th century.
+score: 8.2
 ---
 
 Bratislava Castle sits on a rocky hill above the Danube, at the western edge of the old city. The current reconstruction dates mostly from the 1950s–60s communist-era restoration, but the site has been fortified since at least the Great Moravian era in the 9th century. The position is commanding — from the terrace, you can see across the Danube into Austria and Hungary, and on a clear day the plains stretch to the horizon.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ceramics_in_Meknes.jpg
 latitude: 33.898413
 loc_type: city
 longitude: -5.532158
-score: 0.6
+score: 8.37
+snippet: Moroccan imperial city defined by Moulay Ismail's ramparts, monumental gates,
+  granaries, and stables.
 title: Meknes
 type: location
 ---

@@ -16,6 +16,7 @@ story: >
   enough and willing to bargain.
 sources:
   - https://en.wikipedia.org/wiki/College_Street,_Kolkata
+score: 9.0
 ---
 
 The stretch of College Street between Presidency University and Calcutta Medical College is lined with hundreds of tiny stalls and shops selling new, used, and antiquarian books. This is said to be the largest second-hand book market in the world, and the range is extraordinary: old Bengali novels, textbooks, rare art books, out-of-print academic works, and paperback novels in every language. Prices are low and bargaining is expected.

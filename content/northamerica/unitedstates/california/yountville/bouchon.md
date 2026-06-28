@@ -9,6 +9,7 @@ tags:
   - french
 address: 6534 Washington Street, Yountville
 opening_hours: Lunch and dinner daily
+score: 8.5
 ---
 
 Bouchon is Thomas Keller's casual bistro counterpart to the French Laundry, an attempt at the kind of place he wished existed for the staff of the more famous restaurant to eat at after service. The roast chicken for two, the steak frites, and the French onion soup are the standards, and they are done with much the same precision that the formal kitchen demands.

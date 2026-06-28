@@ -6,6 +6,7 @@ longitude: -70.7419
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The Museo Regional de Rancagua is the city's principal museum, occupying a pair of restored colonial houses just north of the Plaza de los Héroes. The collection covers the archaeology of the central valley, colonial life, and — at length — the 1814 battle that defined the city's national role.

@@ -15,6 +15,7 @@ story: >
   ore played out and the revolution arrived in 1910 the population collapsed
   to a few hundred. Today fewer than 700 people live in the village, and
   many of the colonial-era houses are still abandoned in the surrounding hills.
+score: 8.0
 ---
 
 A perfectly preserved colonial mining village 1,500 metres up in the Sierra Madre, about a 90-minute drive east of Puerto Vallarta. Founded in 1605, San Sebastián became the centre of an enormous 18th- and 19th-century silver mining district that supplied raw metal to the Mexican mints. After the revolution and the collapse of the silver market it shrank to a dot on the map; the cobbled streets, whitewashed adobe houses, and 1608 parish church are essentially unchanged.

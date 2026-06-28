@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathédrale_Notre-Dame_-_f
 latitude: 49.893
 loc_type: city
 longitude: 2.2993
+score: 7.54
+snippet: Picardie city on the Somme, defined by France's largest Gothic cathedral
+  and the canal-threaded hortillonnages.
 sources:
 - https://en.wikipedia.org/wiki/Amiens
 - https://en.wikivoyage.org/wiki/Amiens

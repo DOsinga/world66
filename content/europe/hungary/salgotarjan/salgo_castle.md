@@ -8,6 +8,7 @@ tags:
   - sight
   - castle
 story: "Salgó Castle was built in the 13th century on a basalt plug rising out of the Mátra foothills, the eroded core of an extinct volcano. The Ottoman Turks took it briefly in 1554; the legend goes that they sent a single galloping horseman around the rock to make the defenders believe they were besieged by a much larger force. The garrison surrendered without a fight."
+score: 8.2
 ---
 
 The ruined fortress of Salgó sits on a 625-metre volcanic plug north of Salgótarján and is the city's defining sight. The hike up takes about thirty to forty-five minutes from the parking lot at Eresztvény, mostly through beech forest on a well-marked path. The last stretch is steep enough to need both hands.

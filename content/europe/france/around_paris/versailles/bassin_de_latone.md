@@ -12,6 +12,7 @@ story: >
   this subject for the main axis because it was understood as a direct reference
   to the Fronde, the rebellion of nobles during his childhood. The moral was clear:
   mock royal authority and you become a frog.
+score: 8.3
 ---
 
 The Bassin de Latone sits at the top of the garden's main axis, at the foot of the great terrace, and was one of the first fountains to be completed, in the 1670s. The central sculptural group, by the Marsy brothers, shows Latona (mother of Apollo and Diana) surrounded by Lycian peasants in various stages of transformation into frogs and lizards — bodies half human, half amphibian, mouths open in mid-croaking.

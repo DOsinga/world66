@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - mexican
+score: 5.5
 ---
 
 A small, casual taqueria on the main strip in Dewey, run by a couple from California. The fish tacos — usually mahi or whatever was landed that morning — are the order of choice, and the margaritas are strong and cheap.

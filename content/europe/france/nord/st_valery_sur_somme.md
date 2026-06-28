@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porte_Guillaume_de_Saint-V
 latitude: 50.188701
 loc_type: city
 longitude: 1.627915
-score: 0.51
+score: 7.7
+snippet: Hilltop Somme Bay town with medieval lanes and William the Conqueror history
+  above the estuary
 title: St-Valéry-sur-Somme
 type: location
 ---

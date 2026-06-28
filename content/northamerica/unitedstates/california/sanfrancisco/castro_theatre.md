@@ -1,16 +1,19 @@
 ---
 address: 429 Castro St
-latitude: 37.7620
-longitude: -122.4350
+latitude: 37.762
+longitude: -122.435
+score: 8.3
 snippet: Gorgeous 1922 movie palace, a Castro District landmark
+story: The Castro Theatre's 1922 organ was replaced in 2026 with the largest hybrid
+  organ ever built -- seven manuals and over 400 registers. The main floor seats were
+  controversially removed during a $41 million renovation, though the balcony seating
+  was preserved.
 tags:
 - things_to_do
 - architecture
 - castro_district
 title: Castro Theatre
-neighbourhood: Castro District
 type: poi
-story: "The Castro Theatre's 1922 organ was replaced in 2026 with the largest hybrid organ ever built -- seven manuals and over 400 registers. The main floor seats were controversially removed during a $41 million renovation, though the balcony seating was preserved."
 ---
 
 The Castro Theatre is a San Francisco landmark -- a gorgeous 1922 movie palace designed by Timothy Pflueger in a mix of Spanish Baroque and Beaux-Arts styles, with an ornate interior that makes every show feel like an event. The neon marquee, visible for blocks up and down Castro Street, is one of the most photographed signs in the city.

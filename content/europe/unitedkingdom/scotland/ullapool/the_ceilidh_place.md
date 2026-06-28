@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 57.8973
 longitude: -5.1599
+score: 7.8
 ---
 
 The Ceilidh Place is Ullapool's most distinctive institution — a hotel, restaurant, bar, bookshop, and arts venue rolled into one. It was founded in 1970 by the actor Robert Urquhart, originally as a coffee shop and performance space, and it has retained a slightly bohemian, culturally minded character ever since. The bookshop attached to the café is one of the better small bookshops in the Highlands, strong on Scottish writing and natural history.

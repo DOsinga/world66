@@ -7,6 +7,7 @@ tags:
 - sight
 title: Hardcastle Crags
 type: poi
+score: 8.5
 ---
 
 A National Trust property in the wooded valley of Hebden Water, just upstream from Hebden Bridge. Paths follow the river through beech and oak woods past tumbling waterfalls and gritstone outcrops; the going is easy enough for families and good enough for serious walkers to lengthen into a day.

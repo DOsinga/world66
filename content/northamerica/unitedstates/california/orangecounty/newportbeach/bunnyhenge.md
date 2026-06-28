@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 14 white concrete bunnies in a circle at the Newport Beach Civic Center cost the city around $221,000 in 2012 and immediately produced one of the most amusing public-art controversies in Orange County history. Critics accused the city of throwing taxpayer money at oversized lawn ornaments; the bunnies refused to comment and went on attracting wedding photographers."
+score: 5.9
 ---
 
 Officially titled *Bunny Henge* and installed in 2012, the work by Los Angeles artist Carolyn Atkins consists of 14 over-sized white concrete bunnies arranged in a Stonehenge-style ring on the lawn of the Newport Beach Civic Center. Each bunny is about waist-high and looks vaguely unimpressed.

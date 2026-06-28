@@ -8,6 +8,7 @@ tags:
 latitude: 43.384
 longitude: -8.4098
 snippet: "Aquarium of the End of the World, focusing on Atlantic marine life"
+score: 7.3
 ---
 
 The Aquarium Finisterrae — named for the ancient Roman designation of this cape as the end of the world — is the northernmost of the three Museos Científicos Coruñeses, sitting near the Torre de Hércules on the tip of the peninsula. Its focus is the Atlantic Ocean and the marine ecosystems of the Galician coast.

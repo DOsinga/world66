@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Santa Clara
 type: poi
+score: 5.8
 ---
 
 A baroque church on the edge of the old town with an unusual curving facade — one of the more distinctive pieces of architecture in a city full of it. Worth a look as you walk between the cathedral area and the newer parts of the city.

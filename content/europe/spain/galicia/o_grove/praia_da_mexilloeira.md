@@ -10,6 +10,7 @@ tags:
   - sight
   - san_vicente_do_mar
 snippet: "Crescent of fine sand on the Atlantic side — the prettiest of the peninsula's beaches"
+score: 6.5
 ---
 
 A 500-metre crescent of fine pale sand tucked between two rocky headlands on the Atlantic side of the peninsula. The water is cold (around 15°C even in August), the swell is moderate, and the beach is rarely crowded — most of the day-trippers are at A Lanzada a few kilometres east. Pine woods run down to the back of the beach.

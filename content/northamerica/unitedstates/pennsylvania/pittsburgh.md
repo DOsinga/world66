@@ -1,15 +1,17 @@
 ---
-title: Pittsburgh
-type: location
-latitude: 40.440697
-longitude: -80.002567
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-21'
-score: 0.49
+latitude: 40.440697
 loc_type: city
+longitude: -80.002567
+score: 7.55
+snippet: Pennsylvania river city where the Allegheny and Monongahela meet beneath
+  steep industrial hills
 sources:
-  - https://en.wikipedia.org/wiki/Pittsburgh
+- https://en.wikipedia.org/wiki/Pittsburgh
+title: Pittsburgh
+type: location
 ---
 
 Pittsburgh sits at the confluence of three rivers in the southwest corner of Pennsylvania — the Allegheny and Monongahela flowing together to form the Ohio — and the triangular wedge of downtown between them has been called the Golden Triangle since the 18th century. The city grew from a French and then British fort into one of the great industrial centres of America, producing most of the steel that built the country. It was also, for much of the 20th century, one of its most polluted. Pittsburgh has spent the past forty years remaking itself, and the reinvention has gone better than almost anyone predicted.

@@ -8,6 +8,7 @@ latitude: 34.5500
 longitude: 70.1500
 sources:
   - https://en.wikipedia.org/wiki/Kabul%E2%80%93Jalalabad_Road
+score: 4.4
 ---
 
 The road between Kabul and Jalalabad descends some 1,800 metres in under 100 km, cutting through the Kabul Gorge — a dramatic canyon where the Kabul River has carved through the Hindu Kush foothills. The road has always been strategically vital, as the main route connecting Afghanistan's capital to Pakistan and the Khyber Pass. During the British Empire's Afghan wars, control of this road determined the outcome of campaigns.

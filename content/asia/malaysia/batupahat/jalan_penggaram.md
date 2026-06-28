@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 1.8499
 longitude: 102.9325
+score: 7.3
 ---
 
 Batu Pahat's main shopping street and the prettiest stretch of pre-war architecture in town. The two- and three-storey shophouses date mostly from the 1920s and '30s, built by Chinese textile merchants who made their fortunes here in the rubber boom. Many of the facades are still in their original tiles and stucco.

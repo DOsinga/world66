@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:201606_Cangzhou.jpg
 latitude: 38.32
 loc_type: city
 longitude: 116.87
+score: 5.63
+snippet: Hebei city known for its thousand-year-old Iron Lion and deep martial arts
+  tradition.
 sources:
 - https://en.wikivoyage.org/wiki/Cangzhou
 title: Cangzhou

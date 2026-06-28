@@ -9,6 +9,7 @@ latitude: 39.9516
 longitude: -75.1622
 snippet: "A grand Beaux-Arts department store containing the largest fully functioning pipe organ in the world"
 story: "The Wanamaker Grand Court Organ is the largest fully functioning pipe organ in the world — 28,750 pipes — installed in this department store in 1911. It still plays twice daily, to the bafflement of shoppers who did not know the building contains one of the great musical instruments on earth."
+score: 8.0
 ---
 
 The Wanamaker Building at 13th and Market is a Beaux-Arts landmark from 1911, originally the flagship store of John Wanamaker's department store empire and now a Lord & Taylor. What makes it extraordinary is what is hidden in its walls: the Grand Court Organ, the largest fully functioning pipe organ in the world. The instrument has 28,750 pipes, six keyboards, and a console that requires a dedicated organist — which it has had continuously since 1909. Organ concerts still happen twice daily, at noon and 5:15pm, and are free to anyone who happens to be in the building.

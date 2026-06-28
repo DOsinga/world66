@@ -4,7 +4,9 @@ done:
 latitude: 38.7986
 loc_type: city
 longitude: -86.6383
-score: 0.23
+score: 4.56
+snippet: Quiet southern Indiana village on the White River, with a covered bridge
+  and cave country nearby.
 title: Williams Dam
 todo_location_cleanup: done
 type: location

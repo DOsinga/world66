@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7764
 longitude: 75.2133
+score: 8.3
 ---
 
 The Lidder Valley runs north from Anantnag district up towards Pahalgam and the Kolahoi Glacier. The Lidder River drains the glaciers of the high Himalayas and is a noisy, fast, blue-green ribbon for most of its length. Pine forest covers the lower slopes; alpine meadow takes over higher up.

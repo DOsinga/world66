@@ -15,6 +15,7 @@ tags:
   - sight
 title: Bandelier National Monument
 type: poi
+score: 9.3
 ---
 
 Bandelier preserves one of the most accessible concentrations of Ancestral Pueblo architecture in the American Southwest. The main loop trail from the visitor centre runs through Frijoles Canyon, passing dozens of cave rooms carved into the soft volcanic tuff — the inhabitants hollowed out the rock and built wooden-beamed structures against it. The round kivas, where religious ceremonies were held, are still visible in the canyon floor.

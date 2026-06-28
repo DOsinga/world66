@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8085
 longitude: 111.6638
+score: 7.3
 ---
 
 The Hohhot People's Stadium is the main venue for the city's Naadam festival celebrations, typically held in late July or early August. Naadam — from the Mongolian word for "games" or "play" — is the annual festival of the three traditional Mongolian sports: horse racing, wrestling (bökh), and archery. In Hohhot, the event draws competitors from across Inner Mongolia and is attended by both Han and Mongolian residents.

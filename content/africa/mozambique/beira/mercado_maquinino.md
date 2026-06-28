@@ -8,6 +8,7 @@ tags:
   - market
   - shopping
 snippet: Beira's main street market — produce, fish, fabric, and household goods
+score: 6.8
 ---
 
 Beira's central market sprawls over several blocks in the Maquinino district, between the colonial centre and the residential areas to the east. Fresh fish from the night's catch, cassava and matapa leaves, capulana cloth in stacks, plastic buckets, secondhand clothes — the standard repertoire of a Mozambican market, on a busy scale.

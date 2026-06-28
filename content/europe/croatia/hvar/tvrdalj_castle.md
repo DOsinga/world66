@@ -6,6 +6,7 @@ longitude: 16.5950
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Tvrdalj is the sixteenth-century fortified house of the Croatian poet Petar Hektorović in Stari Grad, built between 1514 and 1569 partly as defence against Ottoman raids and partly as a private literary retreat. The walls form a square around an internal courtyard, and the centre of the courtyard is occupied by a rectangular saltwater fish pond fed directly from the bay.

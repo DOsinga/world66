@@ -8,6 +8,7 @@ tags:
 title: Yachats State Recreation Area
 type: poi
 snippet: "Rocky headland and tide pools right in town — the best in-town coastal access on the Oregon coast"
+score: 8.1
 ---
 
 The Yachats State Recreation Area sits at the mouth of the Yachats River where it meets the ocean, occupying a headland of wave-carved basalt that is among the richest tidepool habitat on the central coast. The rocks exposed at low tide are thick with sea stars, purple sea urchins, giant green anemones, chitons, and limpets — you can spend an hour on your hands and knees here and see something new every few minutes.

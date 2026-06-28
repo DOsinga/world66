@@ -1,11 +1,14 @@
 ---
-title: "Suria KLCC"
-type: poi
 latitude: 3.1579
 longitude: 101.7117
+score: 6.5
+snippet: Six-storey mall at the base of the Petronas Towers and the entry point for
+  Skybridge tickets
 tags:
-  - shopping
-  - klcc
+- shopping
+- klcc
+title: Suria KLCC
+type: poi
 ---
 
 The six-storey shopping centre wrapped around the base of the Petronas Towers, and one of the most-visited malls in Southeast Asia. The tenant list runs from the obvious global luxury brands (Louis Vuitton, Chanel, Hermès) through mid-market international (Zara, Uniqlo, H&M) to a strong Malaysian craft and gift selection on the upper floors. The Isetan and Parkson department stores anchor the ends.

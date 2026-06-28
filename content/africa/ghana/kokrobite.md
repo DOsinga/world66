@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
+image: kokrobite.jpg
+image_attribution: Annabel Symington
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_stringer_bel_-_fishermen_on_Kokrobite_beach,_Ghana.jpg
 latitude: 5.4977
 loc_type: city
 longitude: -0.3649
-score: 0.44
+score: 6.73
+snippet: Ghanaian beach village west of Accra, known for drumming schools, fishing
+  life, and weekend music.
 title: Kokrobite
 type: location
-image: kokrobite.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_stringer_bel_-_fishermen_on_Kokrobite_beach,_Ghana.jpg
-image_license: CC BY 2.0
-image_attribution: Annabel Symington
 ---
 
 Kokrobite is the closest beach escape from [Accra](/africa/ghana/accra), about 30 km west of the capital along the coast road. It is a fishing village that has quietly become the place Accra residents and backpackers come to decompress — wide sandy beach, cold beer, and drumming into the night.

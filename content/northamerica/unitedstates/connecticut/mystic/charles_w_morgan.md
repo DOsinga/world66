@@ -12,6 +12,7 @@ tags:
 - sight
 title: Charles W. Morgan
 type: poi
+score: 8.6
 ---
 
 Charles W. Morgan is one of the reasons Mystic works as more than a quick highway stop. The village is small, so even the major attractions feel tied to the river, the bridge, and the working-waterfront history around them.

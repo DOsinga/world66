@@ -9,6 +9,7 @@ longitude: -89.6151
 snippet: Museum devoted to trova yucateca, the romantic song tradition unique to the peninsula
 sources:
   - https://en.wikipedia.org/wiki/Museo_de_la_Canci%C3%B3n_Yucateca_Asociaci%C3%B3n_Civil
+score: 7.3
 ---
 
 Trova yucateca is a tradition of romantic poetry set to guitar music, distinct from anything else in Mexico and virtually unknown outside the Yucatán. It evolved in the late 19th and early 20th centuries, blending Spanish copla with Cuban habanera rhythms and the particular emotional register of Yucatecan culture, and produced composers whose names are revered here but unknown to the outside world. The Museo de la Canción Yucateca, a small museum in a colonial house on Calle 57, preserves the archive of this tradition: instruments, photographs, manuscripts, and recordings.

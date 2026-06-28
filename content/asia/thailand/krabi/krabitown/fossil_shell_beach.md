@@ -10,6 +10,7 @@ longitude: 98.7969
 snippet: "75-million-year-old fossilised shell beach, one of only three in the world"
 story: >
   The shells embedded in the rock are freshwater snails, not sea shells — evidence that this coastline was once a freshwater lake or delta. The fossilisation process took place over millions of years as layers of shells were compressed and mineralised into the limestone slab that now extends into the sea.
+score: 7.6
 ---
 
 About 17 kilometres west of Krabi Town, Susan Hoi — the Shell Cemetery — is a broad flat shelf of rock extending into the sea, formed entirely from the compressed and fossilised shells of freshwater snails. The formation is 75 million years old and is one of only three such sites in the world; the others are in the United States and Japan.

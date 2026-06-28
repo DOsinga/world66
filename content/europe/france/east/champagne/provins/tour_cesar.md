@@ -13,6 +13,7 @@ tags:
 - landmark
 - architecture
 story: "Despite its name, the tower has nothing to do with Julius Caesar. It was built in the 12th century by the Counts of Champagne to assert their independence from the French crown. The pyramidal roof and the four small turrets crowning the top were added much later by the Knights Templar, who used the tower as a watchtower during the period when the order owned property in Provins."
+score: 9.0
 ---
 
 The 12th-century keep that dominates the skyline of the upper town and serves as the symbol of Provins. The architecture is unusual — a square base supports an octagonal upper section, topped with four small corner turrets and a pointed slate roof added by the Templars. The whole structure rises 44 metres above the medieval ramparts.

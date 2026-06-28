@@ -7,8 +7,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Embouchure_Adido_(Aneho,_TOGO_2018).jpg
 latitude: 6.228877
 loc_type: city
+snippet: Togolese lagoon town on the Gulf of Guinea, marked by German colonial architecture
+  and border traffic
 longitude: 1.593807
-score: 0.34
+score: 5.93
 title: Aneho
 type: location
 ---

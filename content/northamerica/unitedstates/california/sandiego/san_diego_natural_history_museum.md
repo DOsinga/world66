@@ -7,6 +7,7 @@ tags:
 latitude: 32.7306
 longitude: -117.1489
 snippet: The region's natural history from the Cretaceous to the present, anchoring the east end of Balboa Park
+score: 7.6
 ---
 
 The San Diego Natural History Museum — known locally as the Nat — occupies the eastern end of Balboa Park's central plaza in a 1933 building that was expanded with a striking glass-and-stone addition in 2001. The collection covers the natural history of the Californias — both the US state and Baja California — with particular strengths in mineralogy, palaeontology, and regional ecosystems.

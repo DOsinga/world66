@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   The "Meeting of Cultures" monument embedded in the pavement on Ferhadija Street marks the precise boundary between the Ottoman Baščaršija and the Austro-Hungarian city. A single line in the pavement — one side Ottoman cobblestones, the other Austrian paving — makes the architectural transition visible and deliberate.
+score: 7.5
 ---
 
 Ferhadija is Sarajevo's main pedestrian promenade, running from the Catholic cathedral westward through the Austro-Hungarian quarter. The street itself is the "meeting of cultures" line dividing the Ottoman old town from the European-style city built after 1878, when Austria-Hungary took administrative control. Walking it from east to west, you move from the cobblestones and minarets of Baščaršija to the coffee houses, bookshops, and neo-Renaissance facades of the Habsburg period.

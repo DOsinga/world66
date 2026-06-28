@@ -13,6 +13,7 @@ story: >
   were made at water level during flood seasons, when the river rose to meet the
   cliff. Nobody has been able to explain exactly how the most elevated images
   were reached — the cliff overhang makes scaffold access implausible.
+score: 8.9
 ---
 
 The Huashan murals stretch across a massive red sandstone cliff above the Zuojiang River — over 1,900 individual figures painted in red ochre across a 180-metre-wide section of rock face, some of them more than six metres tall. Dating back roughly 2,000 years, they are attributed to the ancient Luo Yue people, the cultural ancestors of today's Zhuang minority. UNESCO added the Zuojiang Huashan Rock Art Cultural Landscape to the World Heritage List in 2016, recognising it as one of the most significant examples of rock art in Southeast Asia.

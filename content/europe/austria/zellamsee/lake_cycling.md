@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: 47.3160
 longitude: 12.7910
+score: 7.2
 ---
 
 A well-maintained path circles the entire Zeller See, covering around 13km in the full loop. It's flat, mostly car-free, and passes through a succession of small villages, the lakeside campsite, and the nature reserve at the south end of the lake. On foot the circuit takes around 3 hours; by bike it can be done comfortably in 1.5 hours.

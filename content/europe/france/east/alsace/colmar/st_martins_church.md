@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.0
 ---
 
 St. Martin's, often called the cathedral of Colmar even though it never held the title, dominates the central square. The 13th- and 14th-century Gothic structure mixes pink and yellow sandstone, giving it a warm, almost-rosy colour in low sun. The carved tympanum over the south porch — the Last Judgement, with its devils dragging the damned away — is worth a careful look.

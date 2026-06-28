@@ -12,6 +12,7 @@ story: >
   again. In 2018 French President Emmanuel Macron officially acknowledged that Audin had
   been tortured and killed by the French army — one of the few official admissions of
   atrocities committed during the battle of Algiers.
+score: 5.8
 ---
 
 Place Audin is the central public square of modern Algiers, used as a meeting point and the departure point for street protests and celebrations. The square is at the top of the escalator that links the lower and upper city and serves as a node in the tram and bus network.

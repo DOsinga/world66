@@ -13,6 +13,7 @@ story: >
   significance: bodies of people killed by the security forces were thrown off the
   cliffs. The views are spectacular; the history is darker than the tourist signs
   suggest.
+score: 7.4
 ---
 
 Parque Balboa in the hills south of San Salvador (about 12 km from the city centre) is the most popular day-out destination for residents. The park has walking trails, picnic areas, and an amusement park. The main attraction is the Puerta del Diablo — two massive rock formations at the edge of the Planes de Renderos ridge that frame a panoramic view across the coastal plain to the Pacific Ocean.

@@ -6,6 +6,7 @@ latitude: 37.4451
 longitude: 24.9424
 story: >
   The museum's prize exhibit is a collection of Cycladic figurines from the 3rd millennium BC — the minimalist marble sculptures whose influence on Brancusi and Picasso is well-documented. They were found in local cemeteries and represent one of the earliest artistic traditions in European history.
+score: 6.5
 ---
 
 The Archaeological Museum of Syros occupies a neoclassical building just off Plateia Miaouli and houses finds from around the island and the broader Cyclades, from the Neolithic period through to Roman times. The collection is not enormous, but it is well-curated and the Cycladic figurines alone justify the visit.

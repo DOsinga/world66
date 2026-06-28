@@ -13,6 +13,7 @@ story: >
   metres of exposed Pennsylvanian limestone laid down 300 million years ago.
   The river itself cut through them only in the last few million years, carving
   a canyon that is simultaneously ancient and geologically recent.
+score: 7.8
 ---
 
 Wild Rivers Expeditions, based in Bluff, runs guided day trips and multi-day floats down the San Juan River from Bluff to Mexican Hat and beyond. The stretch through the Comb Wash and Goosenecks section passes sandstone canyon walls, cottonwood groves, and Ancestral Puebloan rock art visible from the river — the pictographs and petroglyphs at Butler Wash being among the finest accessible by water.

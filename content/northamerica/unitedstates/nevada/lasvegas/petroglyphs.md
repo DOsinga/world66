@@ -1,10 +1,10 @@
 ---
 latitude: 35.202
 longitude: -114.696
-snippet: "Ancient Mojave rock art in a dramatic canyon near the Colorado River"
+score: 7.4
+snippet: Ancient Mojave rock art in a dramatic canyon near the Colorado River
 tags:
 - day_trips
-- things_to_do
 title: Petroglyphs at Grapevine Canyon
 type: poi
 ---

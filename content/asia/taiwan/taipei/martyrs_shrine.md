@@ -1,11 +1,13 @@
 ---
 address: 139 Beian Road, Zhongshan District, Taipei
 latitude: 25.0827
-longitude: 121.5320
+longitude: 121.532
+score: 7.2
 snippet: Imperial-style memorial with an hourly changing-of-the-guard
 tags:
 - things_to_do
 - sight
+- zhongshan
 title: Martyrs' Shrine
 type: poi
 ---

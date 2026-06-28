@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - muelln
+score: 7.9
 ---
 
 The Augustiner monks of Mülln have been brewing beer here since 1621 and serving it in a complex of barrel-vaulted halls and a tree-shaded garden that together seat about 1,400 drinkers. The system is unique: you collect a stoneware mug, rinse it under a stone fountain, and queue at the wooden hatch where a monk fills it from the barrel.

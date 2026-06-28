@@ -1,0 +1,200 @@
+{
+  "round": 4658,
+  "timestamp": "2026-06-14T00:31:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 2.9185,
+      "prior_variance": 0.107987,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 2.9381,
+      "prior_variance": 0.098659,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 3.0147,
+      "prior_variance": 0.122299,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.0242,
+      "prior_variance": 0.097097,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 3.7213,
+      "prior_variance": 0.094464,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.5693,
+      "prior_variance": 0.093564,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 2.6323,
+      "prior_variance": 0.097791,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 1.3809,
+      "prior_variance": 0.08685,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.2372,
+      "prior_variance": 0.090673,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.2635,
+      "prior_variance": 0.100544,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.0121,
+      "prior_variance": 0.100594,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_score": -0.9689,
+      "prior_variance": 0.089612,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -1.1017,
+      "prior_variance": 0.0831,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "St Helens",
+      "path": "australiaandpacific/australia/tasmania/eastcoast/st_helens",
+      "prior_score": -1.9257,
+      "prior_variance": 0.094319,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -3.9463,
+      "prior_variance": 0.142445,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.8116,
+      "prior_variance": 0.090295,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -3.6073,
+      "prior_variance": 0.098455,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -1.1653,
+      "prior_variance": 0.093848,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Jiujiang",
+      "path": "asia/china/jiangxi/jiujiang",
+      "prior_score": -2.0701,
+      "prior_variance": 0.105275,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -1.8585,
+      "prior_variance": 0.084002,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.4572,
+      "prior_variance": 0.0889,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Smolensk",
+      "path": "europe/russia/smolensk",
+      "prior_score": -3.8409,
+      "prior_variance": 0.121525,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -3.9074,
+      "prior_variance": 0.10339,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_score": -8.946,
+      "prior_variance": 0.189684,
+      "prior_n": 15
+    }
+  ]
+}

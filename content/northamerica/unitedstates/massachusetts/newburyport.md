@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_Square,_Newburyport
 latitude: 42.811659
 loc_type: city
 longitude: -70.871927
-score: 0.53
+score: 7.68
+snippet: Massachusetts seaport on the Merrimack, preserving Federal mansions from
+  its shipbuilding and China-trade years.
 title: Newburyport
 type: location
 ---

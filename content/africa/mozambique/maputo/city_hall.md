@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Baixa
+score: 7.6
 ---
 
 The **Conselho Municipal** sits at the top of Praça da Independência, looking down across the square to the cathedral. Finished in 1947, the building wears its late-colonial ambition heavily: a long Corinthian portico, a heavy attic storey, and a pediment carved with the seal of Lourenço Marques. It is one of the few buildings in central Maputo that ignores the prevailing Art Deco for an unapologetic neoclassical look.

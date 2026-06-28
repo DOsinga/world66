@@ -5,7 +5,9 @@ done:
 latitude: 48.779959
 loc_type: city
 longitude: 18.582199
-score: 0.56
+score: 8.1
+snippet: Small central Slovak town anchored by a turreted castle, thermal baths, and
+  the country’s oldest zoo.
 title: Bojnice
 type: location
 ---

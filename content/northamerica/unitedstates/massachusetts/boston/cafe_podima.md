@@ -11,6 +11,7 @@ tags:
 - cafe
 title: Cafe Podima
 type: poi
+score: 5.4
 ---
 
 A small, unpretentious cafe on Cambridge Street at the foot of Beacon Hill. It draws a mix of neighborhood regulars and workers from the nearby Massachusetts General Hospital complex — the kind of place where the staff knows the regulars' orders.

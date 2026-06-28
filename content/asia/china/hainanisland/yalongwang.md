@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hainan_3.JPG
 latitude: 18.2109
 loc_type: city
 longitude: 109.7065
-score: 0.57
+score: 7.95
+snippet: Sheltered Hainan beach bay with clear shallows, white sand, and protected
+  marine-park waters near Sanya.
 title: Yalong Bay
 type: location
 ---

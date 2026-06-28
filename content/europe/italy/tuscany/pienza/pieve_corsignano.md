@@ -8,6 +8,7 @@ tags:
 latitude: 43.0770
 longitude: 11.6714
 story: "Pope Pius II — the future Aeneas Silvius Piccolomini — was baptised in the font of this church on 18 October 1405. He returned for a private visit in 1462 and ordered it preserved exactly as it was, refusing to incorporate it into his grand reconstruction. The font is still there."
+score: 7.7
 ---
 
 A small, perfectly preserved twelfth-century Romanesque parish church a kilometre west of Pienza, down a quiet country lane lined with cypresses. The interior is plain pale stone with a few worn Romanesque capitals — sirens, lions, an Adoration of the Magi — and a small font in the corner.

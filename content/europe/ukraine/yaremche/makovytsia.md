@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.4511
 longitude: 24.5908
+score: 8.1
 ---
 
 The closest serious hike out of town — a 984-metre peak in the Gorgany range, with a marked trail leading up through beech and fir forest from the eastern edge of Yaremche. Round trip is about 8 kilometres and 600 metres of climbing; a reasonably fit walker can do it in four to five hours.

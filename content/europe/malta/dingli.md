@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_-_Dingli_(Triq_Panor
 latitude: 35.86042
 loc_type: city
 longitude: 14.381682
-score: 0.53
+score: 7.49
+snippet: Maltese hilltop village above the Dingli Cliffs, the island's highest edge
+  over the Mediterranean
 title: Dingli
 type: location
 ---

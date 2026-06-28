@@ -18,6 +18,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Khufu_ship
   - https://en.wikipedia.org/wiki/Giza_Solar_boat_museum
+score: 8.7
 ---
 
 The Solar Boat Museum houses Khufu's magnificent funeral barge, discovered in a sealed limestone pit on the south side of the Great Pyramid in 1954. The ship — 43 metres long, built from Lebanese cedar planks lashed together without a single nail — was disassembled into 1,224 pieces and has been painstakingly reconstructed over decades. It is the oldest complete ship ever found and among the best-preserved organic objects from the ancient world.

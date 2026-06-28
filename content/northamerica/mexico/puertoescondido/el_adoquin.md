@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 15.8627
 longitude: -97.0738
+score: 6.2
 ---
 
 El Adoquín is the pedestrianized street that forms the social heart of Puerto Escondido's tourist district. Named for the adoquín (cobblestone) paving underfoot, the strip runs through the Pérez Gasga neighbourhood near the main beach and concentrates the town's restaurants, bars, tour operators, and shops into a walkable stretch. At night it becomes an extended outdoor seating area, with tables spilling out from bars and restaurants, vendors selling jewellery and crafts, and the occasional musician setting up near the beachfront end.

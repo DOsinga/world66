@@ -8,6 +8,7 @@ latitude: 29.9219
 longitude: 78.1458
 story: >
   Hindu mythology records that King Daksha — father-in-law of Shiva — held a grand yajna (ritual sacrifice) here and insulted Shiva by not inviting him. His daughter Sati, Shiva's wife, attended uninvited and in shame immolated herself. Shiva, mad with grief, is said to have carried her body across the universe until Vishnu dismembered it to end his wandering — which is why Haridwar became a Shakti Peetha.
+score: 7.4
 ---
 
 Daksheshwar Mahadev Temple stands in Kankhal, a small town folded into southern Haridwar, about 4 kilometres from Har Ki Pauri. The temple complex is dedicated to Lord Shiva and sits on the banks of a small waterway. It is a serene, deeply atmospheric site compared to the bustle of central Haridwar, and sees fewer foreign visitors.

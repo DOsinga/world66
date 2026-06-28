@@ -6,6 +6,7 @@ longitude: 101.6065
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A 24-hour open-air food court in Subang's SS15 — technically just over the PJ line but spiritually part of the same city — that has fed students from the surrounding colleges for decades. Around 60 stalls cover almost every Malaysian dish: char kway teow, nasi lemak, claypot rice, mamak rojak, ABC, durian.

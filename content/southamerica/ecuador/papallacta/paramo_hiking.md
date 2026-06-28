@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.3550
 longitude: -78.1350
+score: 7.8
 ---
 
 Papallacta sits at the edge of the Cayambe-Coca Ecological Reserve, one of Ecuador's largest protected areas. The páramo — high-altitude grassland dotted with cushion plants, bromeliads and the strange, spiky *frailejón* — stretches away from the village toward Antisana and the cloud forest at lower elevations. Several trails start within walking distance of the hot springs.

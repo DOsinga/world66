@@ -10,6 +10,7 @@ latitude: 31.2750
 longitude: -7.7200
 sources:
   - https://en.wikipedia.org/wiki/Ourika_Valley
+score: 8.8
 ---
 
 The Djebel Yagour plateau, rising above the upper Ourika Valley, contains one of the largest concentrations of prehistoric rock carvings in North Africa. Thousands of engravings — animals, human figures, weapons, and abstract symbols — are pecked into the flat rock surfaces of the high plateau. Most date from the late Neolithic and Bronze Age, roughly 3,000 to 5,000 years old.

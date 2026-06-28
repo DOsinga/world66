@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Valgerand.jpg
 latitude: 58.393349
 loc_type: city
 longitude: 24.364001
-score: 0.41
+score: 6.22
+snippet: Quiet beach village near Pärnu, named for its white sand backed by pine forest.
 sources:
 - https://en.wikipedia.org/wiki/Valgeranna
 - https://en.wikipedia.org/wiki/Audru_Polder%27s_Nature_Reserve

@@ -7,6 +7,7 @@ tags:
   - nature
 title: Mountain Hike to Gásadalur
 type: poi
+score: 8.0
 ---
 
 Before the tunnel opened in 2004, the only land route into Gásadalur was a mountain path over the ridge from [Bour](/europe/faroeislands/vagar/bour). The postman walked it twice a week. The trail is still one of the best hikes on Vágar — about 90 minutes each way, with views of Sørvágsvatn lake, the stacks in the water off the coast, and eventually the descent into the village with Múlafossur appearing below. It is not technical, but the terrain is steep and can be boggy.

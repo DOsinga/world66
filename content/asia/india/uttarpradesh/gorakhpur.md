@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorakhnath_Mandir_in_nutsh
 latitude: 26.667798
 loc_type: city
 longitude: 83.364233
-score: 0.3
+score: 5.8
+snippet: Eastern Uttar Pradesh rail junction defined by Gorakhnath Temple and the
+  Nepal border route.
 sources:
 - https://en.wikipedia.org/wiki/Gorakhpur
 - https://en.wikipedia.org/wiki/Gorakhpur_Junction_railway_station

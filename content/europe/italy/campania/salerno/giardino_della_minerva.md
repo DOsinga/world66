@@ -17,6 +17,7 @@ story: >
   earliest European examples of a botanical garden designed for scientific
   rather than ornamental purposes — predating the famous university botanical
   gardens of Padua and Pisa by more than two centuries.
+score: 8.3
 ---
 
 The Giardino della Minerva is a terraced medieval garden tucked into the hillside above the old town, reached by a flight of stone steps from Via dei Mercanti. It was established in the thirteenth century as a physic garden for the physicians of the Schola Medica Salernitana — the first medical school in Europe — and its terraces were planted with the herbs and medicinal plants that formed the basis of medieval medicine. The garden fell into disrepair over the centuries but was carefully restored in the 1990s and is now one of the most atmospheric small gardens in southern Italy.

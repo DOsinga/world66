@@ -9,6 +9,7 @@ story: >
   town called Prokopion. The stone houses and rock-carved dwellings were shared between Greek, Armenian, and Turkish
   residents for centuries. The Greek families left almost overnight, and many of the cave dwellings they inhabited
   are now boutique hotels.
+score: 8.0
 ---
 
 Urgup's old town climbs a hillside of yellow volcanic tuff, with a maze of carved-rock houses, boutique hotels, and winding lanes. Much of the historic core is built directly into the soft tuff — rooms carved from the rock, staircases cut into cliffs, cave cellars used for wine and storing produce. Walking through it feels like a living geology exhibit with exceptionally comfortable beds.

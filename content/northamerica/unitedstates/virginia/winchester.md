@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/11629603@N04/52860925442
 latitude: 39.1852
 loc_type: city
 longitude: -78.1652
-score: 0.4
+score: 6.77
+snippet: Shenandoah Valley city packed with Civil War battlefields, George Washington
+  sites, and a walkable historic downtown
 title: Winchester
 type: location
 ---

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Camels_in_front_of_the_tom
 latitude: 30.325836
 loc_type: city
 longitude: 35.474567
-score: 0.81
+score: 9.89
+snippet: Nabataean sandstone city in Wadi Musa, famous for the Siq approach and the
+  Treasury facade.
 title: Petra
 type: location
 ---

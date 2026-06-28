@@ -1,11 +1,14 @@
 ---
-title: Namba Parks
-type: poi
+latitude: 34.6621
+longitude: 135.5013
+score: 6.7
+snippet: Shopping complex crowned by a terraced eight-storey rooftop garden
 tags:
 - things_to_do
 - shopping
-latitude: 34.6621
-longitude: 135.5013
+- namba
+title: Namba Parks
+type: poi
 ---
 
 A shopping complex built on the site of the old Osaka Baseball Stadium, with the unusual design feature of a stepped rooftop park — a terraced garden rising eight storeys from street level, with trees, water features, and plantings cascading down the building's facade. The garden is accessible for free and provides a curious green island in the middle of the Namba entertainment district.

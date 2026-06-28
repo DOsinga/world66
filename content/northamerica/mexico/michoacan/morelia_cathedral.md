@@ -11,6 +11,7 @@ story: >
   The cathedral took over a century to complete, begun in 1640 and not consecrated until 1744, which partly explains its unusual blend of Renaissance, Baroque, and neoclassical elements — different architects over different generations left their signatures on the building. The two towers, at 64 metres, dominate the city skyline and can be seen from virtually anywhere in Morelia's historic centre.
 sources:
   - https://en.wikipedia.org/wiki/Morelia_Cathedral
+score: 8.3
 ---
 
 The Cathedral of Morelia is one of the finest baroque churches in Mexico, a pink stone structure that anchors the city's UNESCO-listed historic centre and faces onto the main plaza. It is built from the local pink quartzite that gives Morelia its distinctive warm colour, and its proportions — monumental without being crushing — make it one of the most photographed buildings in western Mexico.

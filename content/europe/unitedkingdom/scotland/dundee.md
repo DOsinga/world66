@@ -5,7 +5,8 @@ done:
 latitude: 56.4605
 loc_type: city
 longitude: -2.9702
-score: 0.48
+score: 7.29
+snippet: Scottish city on the Firth of Tay, shaped by jute history and a renewed waterfront.
 title: Dundee
 type: location
 ---

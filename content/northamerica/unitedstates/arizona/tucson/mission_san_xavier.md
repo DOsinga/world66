@@ -12,6 +12,7 @@ tags:
   - sight
   - architecture
 story: "The mission is known as the 'White Dove of the Desert' and was built between 1783 and 1797 under Spanish Franciscans, replacing an earlier Jesuit structure destroyed in an Apache raid. One of the two bell towers has never been finished — local legend holds that Spain stopped funding the build before the dome was completed, but no one quite agrees on the real reason."
+score: 9.5
 ---
 
 The Mission San Xavier del Bac, on the Tohono O'odham San Xavier Reservation nine miles south of Tucson, is the oldest intact European structure in Arizona and one of the great pieces of Spanish colonial architecture in the United States. Whitewashed walls, a dome that catches the desert light, painted santos crammed into every niche, and ceilings of folk Baroque polychrome — even non-believers tend to stand still inside for a while.

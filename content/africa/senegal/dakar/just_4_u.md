@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: "Outdoor live music club on Avenue Cheikh Anta Diop, mbalax and jazz seven nights a week"
+score: 7.3
 ---
 
 Just 4 U is the other essential live-music venue in Dakar — an open-air thatched courtyard on Avenue Cheikh Anta Diop with a full bar, a small stage and live music seven nights a week. The booking ranges from *mbalax* to Senegalese jazz to Cuban-influenced fusion; the bigger names of the local scene cycle through regularly.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -22.7478
 longitude: -41.8825
+score: 6.3
 ---
 
 Satyricon is the most famous restaurant in Búzios — an Italian-inflected seafood house that has been on Rua das Pedras since the 1980s. The original outpost in Rio had already established a reputation for excellent fish and pasta before the Búzios branch opened, and the resort location has sustained both the reputation and the prices.

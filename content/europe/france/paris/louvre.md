@@ -23,6 +23,7 @@ story: >
   overnight, walked out with the painting under his coat, and kept it in
   his apartment in Florence for more than two years before being caught.
 url: www.louvre.fr
+score: 9.8
 ---
 
 The Louvre is the world's most visited museum and one of its greatest — a former royal palace whose 35,000 works span 9,000 years of human civilisation. The building itself is extraordinary: a harmonious mix of Renaissance and 19th-century wings wrapped around I.M. Pei's glass pyramid, which opened controversially in 1989 and is now beloved.

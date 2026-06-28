@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SE_Ouirgane_Village_Dam_Al
 latitude: 31.175727
 loc_type: city
 longitude: -8.0789
-score: 0.53
+score: 7.73
+snippet: High Atlas valley town south of Marrakech, surrounded by Berber villages,
+  walnut groves, and mountain trails.
 title: Ouirgane
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
 - msasani
 title: Waterfront Sunset Restaurant
 type: poi
+score: 6.3
 ---
 
 A simple long bar built on a wooden pier at the western tip of the Slipway, facing directly across the Msasani dhow harbour. The drink to order is a cold Serengeti at the railing fifteen minutes before sunset, when the dhows are coming in and the sky goes orange behind the silhouettes of the masts. The grill behind the bar serves prawns, calamari, and seasonal fish at fair prices.

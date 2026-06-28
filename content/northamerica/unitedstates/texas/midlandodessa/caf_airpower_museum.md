@@ -12,6 +12,7 @@ story: >
   Confederate Air Force as a joke — the idea being that they were the last holdouts flying these
   old warbirds. The name changed in 2002, but the mission of keeping flyable World War II aircraft
   in the air continues.
+score: 8.1
 ---
 
 The Commemorative Air Force (CAF) Airpower Museum at Midland International Air and Space Port houses an impressive collection of World War II aircraft, many of them still airworthy. The organisation's mission is to restore and fly vintage military aircraft as living history, and the museum reflects that ethos — these are working machines, not static exhibits.

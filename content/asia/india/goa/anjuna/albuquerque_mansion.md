@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 This crumbling mansion behind the south end of Anjuna Beach was built in the 1920s by the wealthy local landowner Manuel Albuquerque, who modelled it on the palace of the Sultan of Zanzibar, where he had spent time as a young man. The result is a strange and lovely piece of Indo-African architecture — Portuguese balconies, Mughal arches, an octagonal turret, the lot.

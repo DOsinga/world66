@@ -8,6 +8,7 @@ latitude: 44.1375
 longitude: 8.1031
 sources:
   - https://en.wikipedia.org/wiki/Erli
+score: 7.3
 ---
 
 The Borgo dei Bassi is the most distinctive feature of Erli's urban layout — a small settlement built on an elliptical plan, with houses arranged in a continuous oval that originally formed a defensive perimeter. This type of layout, designed to present an unbroken wall to the outside, is found at various points along the Salt Road through the Ligurian Alps and reflects the insecurity of medieval mountain communities.

@@ -8,6 +8,7 @@ tags:
   - sight
   - winery
 story: "In 1972, Sutter Home winemaker Bob Trinchero noticed a batch of his Zinfandel had stuck partway through fermentation, leaving residual sugar in a pink wine. He bottled it anyway, called it White Zinfandel, and accidentally invented the best-selling wine style in late-20th-century America."
+score: 6.1
 ---
 
 A large family-owned winery on Highway 29 just south of town, best known as the inventor of White Zinfandel — a sweet pink wine that for two decades was the best-selling varietal in the United States. The estate is the original 1874 Thomann Winery property, with the historic Victorian house and the rose-filled front gardens open to visitors.

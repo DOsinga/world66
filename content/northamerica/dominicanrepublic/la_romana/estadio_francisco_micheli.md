@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.434237
 longitude: -68.988858
+score: 7.0
 ---
 
 La Romana's baseball stadium is one of the top venues in the Dominican Winter League, the country's six-team professional circuit that runs from October to January and serves as a development ground for major-league prospects. The Toros del Este (Eastern Bulls) play here, and a game is one of the best ways to see Dominican culture in action — the stands are raucous, the food cheap, and the play fast.

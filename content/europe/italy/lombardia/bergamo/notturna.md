@@ -9,6 +9,7 @@ tags:
 - bar
 title: Notturna
 type: poi
+score: 5.1
 ---
 
 Notturna is a beer-focused bar on Via Quinto Alpini in Bergamo's lower town, popular with locals looking for a relaxed evening out. The selection leans toward craft and Belgian-style beers, and the bar regularly hosts live music nights that keep things going well past midnight. It is a good spot to wind down after exploring the upper town, with a laid-back atmosphere that draws a mixed crowd of students and young professionals.

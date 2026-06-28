@@ -1,0 +1,200 @@
+{
+  "round": 4108,
+  "timestamp": "2026-06-13T23:44:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 9.9832,
+      "prior_variance": 0.245343,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 7.6312,
+      "prior_variance": 0.155478,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 7.3836,
+      "prior_variance": 0.124598,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.4198,
+      "prior_variance": 0.12047,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.0195,
+      "prior_variance": 0.136513,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 6.7001,
+      "prior_variance": 0.132839,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 5.1583,
+      "prior_variance": 0.12435,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 3.6469,
+      "prior_variance": 0.101826,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Silverton",
+      "path": "northamerica/unitedstates/colorado/silverton",
+      "prior_score": 2.4119,
+      "prior_variance": 0.10933,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 4.4626,
+      "prior_variance": 0.103433,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": 0.3705,
+      "prior_variance": 0.100561,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.5234,
+      "prior_variance": 0.116801,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 0.626,
+      "prior_variance": 0.099947,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.4009,
+      "prior_variance": 0.093115,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Cooperstown",
+      "path": "northamerica/unitedstates/newyorkstate/cooperstown",
+      "prior_score": 1.5134,
+      "prior_variance": 0.093781,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.105,
+      "prior_variance": 0.105833,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 0.4367,
+      "prior_variance": 0.111048,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -0.3511,
+      "prior_variance": 0.098256,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.5582,
+      "prior_variance": 0.107948,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 1.4817,
+      "prior_variance": 0.097835,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.2761,
+      "prior_variance": 0.094714,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -0.8307,
+      "prior_variance": 0.106155,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -2.4697,
+      "prior_variance": 0.099973,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.561,
+      "prior_variance": 0.109625,
+      "prior_n": 13
+    }
+  ]
+}

@@ -4,6 +4,7 @@ admission: €16 full; gardens included; free first Sun of month
 latitude: 43.7648
 longitude: 11.2501
 opening_hours: Tue–Sun 08:15–18:30; closed Mon
+score: 8.7
 snippet: Medici palace with Raphael and Titian, plus monumental Italian gardens
 tags:
 - 3 Days in Florence
@@ -12,6 +13,7 @@ tags:
 - palace
 - park
 - monument
+- oltrarno
 title: Palazzo Pitti & Boboli Gardens
 type: poi
 url: www.uffizi.it/en/pitti-palace

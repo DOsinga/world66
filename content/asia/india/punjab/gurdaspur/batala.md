@@ -8,6 +8,7 @@ latitude: 31.8167
 longitude: 75.2000
 story: >
   Guru Nanak is said to have married in Batala, a tradition supported by the Gurdwara Kandh Sahib in the old town, built around a wall associated with the wedding ceremony. The city's name appears in the hymns of the Guru Granth Sahib, the Sikh holy scripture, making it one of the few cities mentioned by name in the text.
+score: 6.2
 ---
 
 Batala is the second city of Gurdaspur district and has an old town with a history that stretches back well before Mughal rule. It is traditionally associated with the early life of Guru Nanak, who is said to have married here. The Gurdwara Kandh Sahib marks the site of the wedding, built around a section of wall from a house associated with the ceremony.

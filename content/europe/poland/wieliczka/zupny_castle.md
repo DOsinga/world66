@@ -14,6 +14,7 @@ story: >
   the Polish economy that they were called "Blessed" by King Kazimierz the Great, who
   used the revenues to fund an extraordinary building programme across medieval Poland.
   The castle was, in effect, the treasury of the kingdom.
+score: 6.6
 ---
 
 The castle that administered the Wieliczka salt mine stands above the town, separate from the mine entrance but an integral part of the same centuries-long operation. Built in the 14th century and expanded through the Renaissance, it was the seat of the Żupy Krakowskie — the royal salt administration — and the residence of the mine's chief administrator.

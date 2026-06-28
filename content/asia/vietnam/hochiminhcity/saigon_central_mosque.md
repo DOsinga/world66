@@ -1,15 +1,17 @@
 ---
-title: "Saigon Central Mosque"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - mosque
 latitude: 10.7762
 longitude: 106.7043
-snippet: "1935 mosque at the heart of Saigon's small South Asian Muslim community"
+score: 6.6
+snippet: 1935 mosque at the heart of Saigon's small South Asian Muslim community
 sources:
-  - https://en.wikipedia.org/wiki/Saigon_Central_Mosque
+- https://en.wikipedia.org/wiki/Saigon_Central_Mosque
+tags:
+- things_to_do
+- sight
+- mosque
+- district_1
+title: Saigon Central Mosque
+type: poi
 ---
 
 The Saigon Central Mosque on Dong Du Street is one of the few mosques in Ho Chi Minh City and serves the city's small Indian and Malay Muslim community. The current building dates from 1935 and was built by the Indian Muslim community on the site of an older mosque from 1885. It is an active place of worship, calm and well-maintained, with a pleasant courtyard.

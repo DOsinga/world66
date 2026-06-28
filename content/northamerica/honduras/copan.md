@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Copan_sculpture.jpg
 latitude: 14.8394
 loc_type: city
 longitude: -89.1416
-score: 0.58
+score: 8.59
+snippet: Mayan archaeological city in western Honduras, celebrated for finely carved
+  stelae and hieroglyphic stairways.
 title: Copán
 type: location
 ---

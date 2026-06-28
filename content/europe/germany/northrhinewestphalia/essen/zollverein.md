@@ -9,6 +9,7 @@ tags:
 latitude: 51.4914
 longitude: 7.0461
 story: "Zollverein was designed in the Bauhaus style in 1932 — at the time, it was considered the most modern coal mine in the world. The architects Fritz Schupp and Martin Kremmer were asked specifically to make the mine beautiful, because management believed workers would be more productive in well-designed surroundings. It closed in 1986 when it became unprofitable, and was declared a UNESCO World Heritage Site in 2001."
+score: 9.6
 ---
 
 Zollverein is the centrepiece of the Ruhr's post-industrial reinvention: a 100-hectare former coal mine in Bauhaus style that has been transformed into a cultural campus housing museums, design studios, restaurants, ice skating in winter, and regular art and architecture events. The industrial architecture is extraordinary — monumental but precise, with a clarity of form that makes most modern building look timid.

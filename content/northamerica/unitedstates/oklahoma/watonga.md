@@ -5,9 +5,11 @@ done:
 latitude: 35.848387
 loc_type: city
 longitude: -98.41332
-score: 0.27
+score: 5.48
 title: Watonga
 type: location
+snippet: Small western Oklahoma city tied to Cheyenne-Arapaho country and spring-fed
+  Roman Nose State Park.
 ---
 
 Watonga is a small city in western Oklahoma, the county seat of Blaine County, set in the red-earth farm and ranch country between the Canadian River and the Glass Mountains to the north. The town was named after Arapaho chief Watonga and retains strong ties to the Cheyenne and Arapaho Tribes, whose headquarters are nearby in Concho.

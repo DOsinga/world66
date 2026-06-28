@@ -9,6 +9,7 @@ latitude: -39.4204
 longitude: -71.9419
 story: >
   Volcán Villarrica is one of only five volcanoes in the world with a permanent lava lake in its crater. The lake has been continuously active since at least 1558, when Spanish conquistadors first recorded the fiery summit. Climbers who reach the rim on calm, clear mornings can peer directly into the glowing magma below — a sight that no photograph quite prepares you for.
+score: 9.7
 ---
 
 At 2,847 metres, Volcán Villarrica is the defining landmark of Pucón and one of the most active volcanoes in South America. The standard ascent begins before dawn from the ski resort base and takes four to six hours round-trip, depending on conditions. The route goes up through araucaria forest, then onto open snowfields and finally a glacier, using crampons and an ice axe for the final push to the summit.

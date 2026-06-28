@@ -7,6 +7,7 @@ tags:
 latitude: 21.0454
 longitude: 105.846
 snippet: "The world's longest ceramic mosaic, running 4km along the Red River dike"
+score: 6.0
 ---
 
 The Hanoi Ceramic Mosaic Mural lines the outer wall of the Red River flood dike for nearly four kilometres, from the Long Bien Bridge area southwest along the dike roads of Tran Nhat Duat, Tran Quang Khai, and Au Co. Completed in 2010 for the millennial anniversary of Hanoi's founding, it holds a Guinness World Record as the world's longest ceramic mosaic. The mural was produced as a collaboration involving dozens of Vietnamese artists alongside international participants; the individual panels range from scenes of traditional village life and Vietnamese historical events to abstract sections and contributions from other countries.

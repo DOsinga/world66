@@ -6,6 +6,7 @@ longitude: -78.7430
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The Academy Theatre on Lindsay Street is one of the oldest working theatres in Ontario — built in 1893 as the Lindsay Opera House and operating continuously since. The interior keeps its 19th-century proscenium stage, painted plaster ceiling, and a 530-seat auditorium that is small enough to feel intimate.

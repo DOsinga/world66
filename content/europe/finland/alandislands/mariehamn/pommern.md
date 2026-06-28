@@ -15,6 +15,7 @@ story: >
   sailing ships competed economically with steam. By the time the Pommern made her final
   voyage, she was already an anachronism; the war simply formalized what the shipping
   economics had already decided.
+score: 9.0
 ---
 
 The Pommern is a four-masted barque built in Glasgow in 1903 that sailed the grain trade between Australia and Europe until 1939. She is said to be the world's last intact four-masted sailing ship in original condition and represents the final era of commercial square-rigged sail. The ship is moored permanently in Mariehamn's western harbour and is open for guided tours.

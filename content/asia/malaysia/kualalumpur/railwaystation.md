@@ -2,10 +2,13 @@
 address: Jalan Sultan Hishamuddin, Kuala Lumpur
 latitude: 3.1355
 longitude: 101.6905
-snippet: "Stunning 1910 Moorish-style railway architecture"
+score: 7.8
+snippet: KL's 1910 Moorish-colonial railway station with domes and minarets, now a
+  heritage hotel and transit hub
 tags:
 - things_to_do
 - architecture
+- brickfields
 title: Kuala Lumpur Railway Station
 type: poi
 ---

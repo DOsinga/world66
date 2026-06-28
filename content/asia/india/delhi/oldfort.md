@@ -7,8 +7,10 @@ snippet: Massive Mughal-era citadel on Delhi's oldest inhabited site
 tags:
 - things_to_do
 - sight
+- lutyens
 title: Old Fort
 type: poi
+score: 8.1
 ---
 
 Purana Qila (Old Fort) stands on a site believed to have been continuously inhabited since at least 1000 BC -- tradition identifies it with Indraprastha, the legendary capital of the Pandavas from the Mahabharata. The current walls and gates were built by Mughal emperor Humayun in the 1530s and completed by Sher Shah Suri after he seized power.

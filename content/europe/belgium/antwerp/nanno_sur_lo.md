@@ -1,5 +1,10 @@
 ---
 address: Diamond princess boat
+latitude: 51.2299
+longitude: 4.4051
+score: 3.8
+sources:
+- https://commons.wikimedia.org/wiki/File:Antwerpen_Nassaustraat_44-48_-_103483_-_onroerenderfgoed.jpg
 tags:
 - bars_and_cafes
 - bar

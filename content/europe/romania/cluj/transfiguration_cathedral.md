@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.1
 ---
 
 The Transfiguration Cathedral — also called the Minorites' Church — was built by the Franciscan Minorite order in the mid-18th century in a clean baroque style. After the Greek-Catholic Church was granted the building in 1924, the interior was adapted for Byzantine-rite worship while keeping the original architecture.

@@ -7,6 +7,7 @@ tags:
 latitude: -12.4313
 longitude: 130.8448
 snippet: Darwin's best food market, held every Saturday morning in Parap, with strong Southeast Asian influence
+score: 8.1
 ---
 
 The Parap Village Markets run every Saturday morning and are the best food market in Darwin. The stalls lean heavily toward Southeast Asian — laksa, satay, noodles, dumplings, fresh tropical fruit — reflecting Darwin's position as Australia's northern gateway and its long connections with Indonesia, Timor, and Southeast Asia generally.

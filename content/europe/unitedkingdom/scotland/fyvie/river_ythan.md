@@ -9,6 +9,7 @@ tags:
   - fishing
   - walking
 snippet: Aberdeenshire salmon river running below Fyvie Castle
+score: 6.2
 ---
 
 The River Ythan runs through the estate grounds below Fyvie Castle, entering a gorge section that provides some of the most dramatic scenery in this part of Aberdeenshire. The river is well known for sea trout and salmon fishing — permits can be arranged through local angling associations. Day permits are available and the Ythan is considered one of the better managed smaller salmon rivers in Scotland.

@@ -10,6 +10,7 @@ tags:
 title: Pilgrimage of the Walls of Filial Piety
 type: poi
 url: eng.suwon.ne.kr
+score: 5.8
 ---
 
 An event of pilgrimage to Hwaseong Fortress on Children's Day (May 5) every year. A variety of cultural and artistic performances are held on every course, a firing of the beacon of old times is reenacted. and all sorts of souvenirs and materials are presented to the participants.

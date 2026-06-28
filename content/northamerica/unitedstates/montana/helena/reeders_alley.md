@@ -9,6 +9,7 @@ tags:
   - historic_district
 latitude: 46.5910
 longitude: -112.0305
+score: 8.1
 ---
 
 Reeder's Alley is a short lane of stone miners' cabins built in the 1870s, tucked into the hillside near the south end of Last Chance Gulch. They are among the oldest surviving structures in Helena — squat, thick-walled buildings that have outlasted most of the grander architecture that surrounded them. The alley takes its name from Louis Reeder, who built many of the structures as rental units for miners and laborers. What he built was rudimentary housing, and what you see today is a remarkably intact survivor from Helena's roughest years.

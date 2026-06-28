@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 16.5042
 longitude: 80.6483
+score: 6.9
 ---
 
 A south Indian chain that takes the cuisine of the Rayalaseema region seriously. The thali is the thing to order — multiple curries, ragi sangati (a millet ball), pickles, and the signature natu kodi (country chicken) curry that justifies the trip on its own.

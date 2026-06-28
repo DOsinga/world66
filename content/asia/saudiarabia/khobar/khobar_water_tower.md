@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "1980s mushroom-topped water tower, the unofficial city emblem"
+score: 4.9
 ---
 
 The Khobar Water Tower is the most recognisable structure in the city — a 90-metre concrete column with a flying-saucer top, built in the early 1980s and visible from much of the central Corniche district. There is a small viewing platform inside the head, currently closed to visitors but reopened periodically.

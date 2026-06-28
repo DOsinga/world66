@@ -13,6 +13,7 @@ tags:
 - church
 title: Pioneer Arizona Living History Museum
 type: poi
+score: 5.8
 ---
 
 More than a museum, Pioneer Arizona is an entire reconstructed frontier town complete with a jail, sheriff's office, dress shop, and schoolhouse, all presented as they were at the turn of the century. A Victorian-style chapel hosts weddings, and the Critter Corral lets kids interact with small animals. Lunch and dinner are served on the grounds. Call ahead for a schedule of events.

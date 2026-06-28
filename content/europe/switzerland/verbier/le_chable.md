@@ -7,6 +7,7 @@ tags:
 title: Le Châble
 type: poi
 snippet: Valley railway hub and the cheaper base for Verbier
+score: 6.9
 ---
 
 Le Châble sits at 820 metres in the Val de Bagnes, 800 metres below Verbier and linked to it by a 9-minute gondola. It is the closest railway station — direct trains run from Martigny on the Rhône Valley line — and where most independent travellers without cars first arrive.

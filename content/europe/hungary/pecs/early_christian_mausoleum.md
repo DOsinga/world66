@@ -18,6 +18,7 @@ story: >
   Empire.
 sources:
   - https://en.wikipedia.org/wiki/Early_Christian_Mausoleum_(P%C3%A9cs)
+score: 9.1
 ---
 
 The Early Christian Necropolis of Pécs is a UNESCO World Heritage Site, comprising a group of 4th-century painted burial chambers that survive under the Cathedral Quarter of the city. The site was designated by UNESCO in 2000 as "an outstanding example of early Christian architecture" — the frescoed tombs are among the best-preserved of their kind in Central Europe and compare favourably with catacombs found in Rome itself.

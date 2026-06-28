@@ -14,6 +14,7 @@ story: >
   a six-month-old infant and a child who appears to have had Down syndrome, making it the
   oldest known individual with this condition. Their survival for five centuries in
   near-perfect condition is the result of geological accident.
+score: 9.0
 ---
 
 The Greenland National Museum near Nuuk's old harbour is one of the finest small museums in the Arctic. The collection covers 4,500 years of human habitation in Greenland: the Pre-Dorset and Dorset cultures, the Norse settlement of the tenth to fifteenth centuries, Inuit culture across the same period and into the present, and the Danish colonial history from 1721 onward. The exhibits are well presented in both Greenlandic and Danish, with English labels.

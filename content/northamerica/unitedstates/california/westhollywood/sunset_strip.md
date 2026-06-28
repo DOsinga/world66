@@ -8,6 +8,7 @@ latitude: 34.0975
 longitude: -118.3780
 sources:
   - https://en.wikipedia.org/wiki/Sunset_Strip
+score: 9.0
 ---
 
 The Sunset Strip is the 1.6-mile stretch of Sunset Boulevard running through West Hollywood between Crescent Heights to the east and Doheny Drive to the west. It was unincorporated Los Angeles County from the 1920s onwards — meaning no LAPD jurisdiction — which allowed the clubs, gambling houses, and speakeasies that defined it to operate outside city law. By the early 1960s it had become the centre of the American music industry.

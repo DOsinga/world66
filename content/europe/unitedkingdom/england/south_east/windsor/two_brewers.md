@@ -6,6 +6,7 @@ longitude: -0.6047
 tags:
   - bars_and_cafes
   - bar
+score: 5.9
 ---
 
 The Two Brewers is a 17th-century pub on Park Street, just outside the southern gate of Windsor Castle on the threshold of the Long Walk. The interior is low-beamed and dark, divided into three small rooms with open fires; the menu is straightforward British pub food — pies, fish and chips, Sunday roasts — and the beer selection is good.

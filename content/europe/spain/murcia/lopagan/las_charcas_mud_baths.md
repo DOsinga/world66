@@ -12,6 +12,7 @@ story: >
   iron, and magnesium, is said to benefit skin conditions and joint pain. Whether or not
   the science holds up, the spectacle of dozens of people standing knee-deep in black
   mud on a Spanish beach is memorable.
+score: 7.8
 ---
 
 Las Charcas, the mud baths of Lo Pagán, are one of the stranger and more enjoyable experiences on the Costa Cálida. A shallow channel runs between the Mar Menor and the salt ponds to the north, and in this transitional zone the lagoon bottom is covered in dark, mineral-rich mud. Visitors wade in, coat themselves from head to foot, stand in the sun until the mud dries and cracks, then wash off in the lagoon.

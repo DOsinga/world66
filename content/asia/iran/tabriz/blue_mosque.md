@@ -4,7 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 38.0798
 longitude: 46.2887
+score: 8.8
 snippet: 15th-century mosque famed for its turquoise tilework
+tags:
+- things_to_do
+- sight
+- architecture
+- mosque
 title: Blue Mosque
 type: poi
 ---

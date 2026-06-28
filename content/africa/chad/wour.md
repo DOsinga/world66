@@ -5,7 +5,9 @@ done:
 latitude: 20.9167
 loc_type: city
 longitude: 17.0833
-score: 0.18
+score: 2.31
+snippet: Tiny Saharan border post on the remote Libya-to-Tibesti route, used for paperwork
+  and supplies.
 title: Wour
 type: location
 ---

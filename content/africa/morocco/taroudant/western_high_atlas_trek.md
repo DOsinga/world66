@@ -7,6 +7,7 @@ tags:
 latitude: 30.6200
 longitude: -8.5100
 snippet: "Quieter trekking routes with Berber village access from the south"
+score: 8.1
 ---
 
 The western flank of the High Atlas, directly north of Taroudant, offers trekking that is less crowded and arguably more culturally interesting than the heavily-travelled Toubkal circuit. Routes from the Souss side approach through argan and thuja forest, passing through Tachelhit-speaking Berber villages before reaching the higher grasslands and rocky cols.

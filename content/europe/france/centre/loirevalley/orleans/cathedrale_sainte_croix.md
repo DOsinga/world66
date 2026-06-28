@@ -11,6 +11,7 @@ story: >
   The cathedral has been destroyed and rebuilt multiple times. The Huguenots demolished much of it in 1568 during the Wars of Religion, leaving only the choir standing. Henry IV laid the first stone of the current reconstruction in 1601, and work continued for over a century. The 19th-century windows tracing Joan of Arc's campaign were added long after — giving the rebuilt cathedral a narrative of French identity that the original medieval building never had.
 sources:
   - https://en.wikipedia.org/wiki/Orl%C3%A9ans_Cathedral
+score: 8.1
 ---
 
 The Cathédrale Sainte-Croix dominates the old town from across the Loire — a Gothic church of considerable scale, though the Gothic style is partly illusion, as much of what you see dates from the 17th to 19th centuries. The interior is long and light, with the proportions of a great medieval church but walls pierced by large windows that give it a more open feel than many older cathedrals.

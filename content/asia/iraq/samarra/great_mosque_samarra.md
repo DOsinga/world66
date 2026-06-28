@@ -9,6 +9,7 @@ latitude: 34.2058
 longitude: 43.8797
 story: >
   At its completion in 852 AD, the Great Mosque of Samarra covered 38,000 square metres — more than three times the size of any mosque previously built. Caliph al-Mutawakkil reportedly wanted every worshipper in the Abbasid Empire to be able to pray simultaneously. The mosque could accommodate around 100,000 people.
+score: 9.4
 ---
 
 The Great Mosque of Samarra was, at its completion in 852 AD, the largest mosque in the world — a vast rectangular enclosure measuring 240 by 156 metres, with a roof supported by 464 pillars. Today most of the structure is gone, reduced by centuries of neglect and war to a field of low ruins, but the scale is still staggering. The thick outer walls survive to several metres in places, and the foundations of the prayer hall are clearly visible.

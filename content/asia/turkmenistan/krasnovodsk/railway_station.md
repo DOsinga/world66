@@ -15,6 +15,7 @@ story: >
   influence in Afghanistan. It was the first railway in the region and its
   western terminus at Krasnovodsk — where trains met Caspian ferries — made this
   small port city strategically significant for decades.
+score: 6.1
 ---
 
 The Türkmenbaşy railway station is the western terminus of the Trans-Caspian Railway, the line that connected the Caspian coast to [Ashgabat](/asia/turkmenistan/ashgabat) and eventually all of Central Asia. Construction started in 1880 under Russian Imperial command and reached Samarkand in 1888 — an engineering feat across one of the world's harshest desert landscapes.

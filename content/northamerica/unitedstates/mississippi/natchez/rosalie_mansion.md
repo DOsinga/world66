@@ -8,6 +8,7 @@ tags:
 latitude: 31.558922
 longitude: -91.408425
 story: "Rosalie sits on the bluff directly above the Mississippi, and during the Civil War Union General Walter Gresham chose it as his headquarters — which is largely why the house survived the war intact. The owner, Peter Little's wife Eliza, reportedly refused to leave and spent the occupation living alongside the general in her own home."
+score: 8.0
 ---
 
 Rosalie is one of the most dramatically sited mansions in Natchez, perched on the bluff with the Mississippi River visible from the rear garden. Built in 1820 in the Federal style — brick construction, a modest portico, none of the later Greek Revival excess — it is older and quieter than many of the showier houses, and its garden and river views are unmatched in the historic district.

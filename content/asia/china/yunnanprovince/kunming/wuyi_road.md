@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - food
+score: 5.8
 ---
 
 A short pedestrianised stretch of Wuyi Road, west of Cuihu Park, has been turned into a dedicated street-food lane. Around forty stalls and small shops sell Yunnan snacks — rice noodles in a dozen varieties, baba pancakes, deep-fried potato cakes, grilled tofu, rose-petal cakes, ham buns, and the spicy snail noodles that the southern lowlands are known for.

@@ -1,0 +1,200 @@
+{
+  "round": 3233,
+  "timestamp": "2026-06-13T22:38:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 1.9178,
+      "prior_variance": 0.135544,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.4656,
+      "prior_variance": 0.15385,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_score": 0.6181,
+      "prior_variance": 0.150536,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.3286,
+      "prior_variance": 0.114557,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -2.4769,
+      "prior_variance": 0.131084,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.9205,
+      "prior_variance": 0.157841,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.8919,
+      "prior_variance": 0.118709,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.1983,
+      "prior_variance": 0.130691,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -3.7126,
+      "prior_variance": 0.121464,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/england/norfolk/briston",
+      "prior_score": -5.672,
+      "prior_variance": 0.196712,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.5508,
+      "prior_variance": 0.122888,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.6372,
+      "prior_variance": 0.126328,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -3.3816,
+      "prior_variance": 0.136795,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -4.8655,
+      "prior_variance": 0.151084,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -4.6676,
+      "prior_variance": 0.167465,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -4.7214,
+      "prior_variance": 0.148853,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -4.1581,
+      "prior_variance": 0.138392,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.3075,
+      "prior_variance": 0.237634,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.0368,
+      "prior_variance": 0.134111,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -4.1828,
+      "prior_variance": 0.15304,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -4.6777,
+      "prior_variance": 0.170442,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -5.3434,
+      "prior_variance": 0.169224,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -2.2409,
+      "prior_variance": 0.118398,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -4.8966,
+      "prior_variance": 0.139619,
+      "prior_n": 11
+    }
+  ]
+}

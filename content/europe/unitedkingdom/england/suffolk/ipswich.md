@@ -8,7 +8,9 @@ image_source: https://www.flickr.com/photos/65947222@N00/48694020107
 latitude: 52.0579
 loc_type: city
 longitude: 1.1528
-score: 0.41
+score: 6.67
+snippet: Suffolk county town on the Orwell estuary, with medieval churches and a revived
+  waterfront.
 title: Ipswich
 type: location
 ---

@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 60.85
 longitude: 8.39
+score: 6.4
 ---
 
 The Hemsila river that runs through the length of the Hemsedal valley is one of the better trout rivers in southern Norway. Brown trout and grayling are the main species, and the river produces good catches throughout the summer season from June through September. The best fishing is in the early morning and evening — the river fishes well at any point of the day, but the largest fish are more active when the light is low.

@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood, sight]
 latitude: 1.5577
 longitude: 110.3487
 snippet: "Historic Chinese shophouse district with antique dealers, temples, and traditional trades"
+score: 8.3
 ---
 
 Carpenter Street (Jalan Carpenter) and the Main Bazaar running parallel to the waterfront form the commercial heart of Kuching's Chinese quarter. The shophouses lining these streets date mostly from the late 19th and early 20th centuries and house antique dealers, handicraft shops, traditional coffee houses, and the odd repair workshop operating on principles that haven't changed in fifty years.

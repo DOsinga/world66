@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/52257493@N00/45913985911
 latitude: 37.623962
 loc_type: city
 longitude: -109.47802
-score: 0.36
+score: 6.33
+snippet: Southeastern Utah town on the Colorado Plateau, a base for Ancestral Puebloan
+  sites and canyon country.
 title: Blanding
 type: location
 ---

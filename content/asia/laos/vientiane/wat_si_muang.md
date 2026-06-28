@@ -8,6 +8,7 @@ tags:
 title: Wat Si Muang
 type: poi
 story: "When the foundation pillar was raised in 1563, a pregnant woman named Sao Si is said to have leapt into the hole to consecrate it with her life. The temple is named after her and remains the most active in the city."
+score: 8.3
 ---
 
 Of all the temples in Vientiane, Wat Si Muang is the most alive. It is not the oldest or grandest, but it houses the city pillar (lak muang) and Lao people come here in steady streams to make offerings, pray for luck, and consult monks. The smell of incense and the murmur of chanting fills the place from early morning until evening.

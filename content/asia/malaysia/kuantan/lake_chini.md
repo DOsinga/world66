@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - nature
 story: Lake Chini — or Tasik Chini — is said to conceal the ruins of an ancient Khmer city beneath its waters, guarded by a dragon-like creature called the Naga Sri Gumum. Orang Asli communities have maintained these traditions for generations, and while archaeologists have found no sunken city, they have found evidence of settlement around the lake dating back several centuries. The lotus flowers that blanket the shallows in bloom season, roughly July to September, give the lake an otherworldly quality that makes the legends feel plausible.
+score: 7.8
 ---
 
 About 60 kilometres southwest of Kuantan, Lake Chini is a system of twelve interconnected lakes surrounded by primary jungle and home to the Jakun people, one of the Orang Asli groups of the Malay Peninsula. The lake is best known for its lotus flowers, which cover large stretches of the shallower water from around July to September, and for the legends attached to the site — the Orang Asli speak of a sunken ancient city guarded by a serpentine creature.

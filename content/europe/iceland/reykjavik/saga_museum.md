@@ -10,6 +10,7 @@ tags:
   - grandi
 neighbourhood: Grandi
 snippet: Silicone life-size figures act out the founding sagas of Iceland
+score: 5.9
 ---
 
 Inside an old shipbuilding hall on Grandi, the Saga Museum tells the story of the first three hundred years of Iceland through tableaux of unsettlingly realistic silicone figures: Ingólfur Arnarson throwing his high-seat pillars overboard at Reykjavik, the lawspeakers of Þingvellir, Snorri Sturluson in his hot pool at Reykholt, Guðríður Þorbjarnardóttir setting off for Vinland.

@@ -7,6 +7,7 @@ tags:
 snippet: 16th-century Orthodox monastery on the old town bluff above the Volga
 latitude: 56.1490
 longitude: 47.2420
+score: 7.3
 ---
 
 The Vvedensky Cathedral and Trinity Monastery on the old town promontory are among the oldest buildings in Cheboksary. The monastery was founded in the 16th century, shortly after the Russian conquest of the region from the Kazan Khanate, as part of the Russification and Christianisation of the Chuvash territories. The ensemble of white-painted churches and bell towers on the high bank is the most picturesque sight in the city.

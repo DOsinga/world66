@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Just_in_Penwith_-_geogr
 latitude: 50.124369
 loc_type: city
 longitude: -5.679704
-score: 0.53
+score: 7.57
+snippet: Granite market town on the Penwith peninsula, surrounded by Cornwall's old
+  tin-mining engine houses.
 title: St Just in Penwith
 type: location
 ---

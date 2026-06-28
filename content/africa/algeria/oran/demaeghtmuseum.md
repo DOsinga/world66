@@ -9,6 +9,7 @@ tags:
 - museum
 title: Demaeght Museum
 type: poi
+score: 5.8
 ---
 
 A small but well-stocked museum covering prehistoric archaeology across the Maghreb, ethnography of North and West Africa with a section specifically on Oran, and natural history. Easily combined with a walk through the nearby Place d'Armes.

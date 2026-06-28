@@ -8,6 +8,7 @@ latitude: 44.6977
 longitude: 10.6305
 sources:
   - https://en.wikipedia.org/wiki/Piazza_del_Duomo,_Reggio_Emilia
+score: 7.9
 ---
 
 Reggio Emilia's cathedral square has the layered feeling of a place that has been the civic and religious heart of a city for over a thousand years. The Romanesque cathedral faces a detached Baptistery in pink Verona marble, and the entire ensemble sits against a backdrop of medieval and Renaissance palaces. The Palazzo del Monte closes the south side of the square with particularly fine medieval stonework.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 35.2438
 longitude: -3.9311
+score: 7.7
 ---
 
 Plage Quemado is Al Hoceima's town beach, and its setting is one of the most dramatic of any beach in northern Morocco. The sand curves in a tight arc at the base of the bay, flanked on both sides by sheer limestone cliffs that drop straight into the sea. The water is clear blue and sheltered from Atlantic swells, making it calm for swimming for most of the summer.

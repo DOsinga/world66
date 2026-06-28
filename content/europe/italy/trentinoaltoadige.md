@@ -1,9 +1,11 @@
 ---
+latitude: 46.4
+loc_type: region
+longitude: 11.1
+snippet: Northern Italian Alpine region where Italian Trentino and German-speaking
+  South Tyrol meet beneath the Dolomites.
 title: Trentino Alto Adige
 type: location
-loc_type: region
-latitude: 46.4
-longitude: 11.1
 ---
 
 Trentino Alto Adige is Italy's northernmost region, a narrow Alpine territory wedged between Austria and Switzerland that only became part of Italy after the First World War. It is effectively two distinct places sharing a border: Trentino in the south, where Italian is the dominant language and the culture is a blend of Italian and Tyrolean; and Alto Adige (South Tyrol) in the north, where German is co-official with Italian, the architecture is central European, and the food runs to dumplings and speck rather than pasta. The region contains some of the most dramatic scenery in Europe — the Dolomites rise on its eastern edge in jagged pink and grey towers, designated a UNESCO World Heritage Site.

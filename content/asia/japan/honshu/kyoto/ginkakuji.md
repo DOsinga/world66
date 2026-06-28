@@ -1,13 +1,18 @@
 ---
 latitude: 35.0269
 longitude: 135.7983
+score: 8.8
 snippet: The "Silver" Pavilion, model of Higashiyama Zen aesthetics
-story: The Silver Pavilion is famously not silver. Ashikaga Yoshimasa, retiring from the chaos of the Onin War, planned a silver-leaf coating to echo his grandfather's golden Kinkaku-ji but died before any was applied. The bare wood weathered into the shimmering grey it has been ever since.
+story: The Silver Pavilion is famously not silver. Ashikaga Yoshimasa, retiring from
+  the chaos of the Onin War, planned a silver-leaf coating to echo his grandfather's
+  golden Kinkaku-ji but died before any was applied. The bare wood weathered into
+  the shimmering grey it has been ever since.
 tags:
 - things_to_do
 - temple
 - unesco
 - sight
+- philosophers_walk
 title: Ginkaku-ji (Silver Pavilion)
 type: poi
 ---

@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_downtown_Sa
 latitude: 37.7749
 loc_type: region
 longitude: -122.4194
+snippet: Northern California bay region of bridges, fog, food, tech campuses, and
+  fiercely distinct cities.
 sources:
 - https://www.parksconservancy.org/parks/must-see-destinations-golden-gate-national-recreation-area
 - https://presidio.gov/visit/

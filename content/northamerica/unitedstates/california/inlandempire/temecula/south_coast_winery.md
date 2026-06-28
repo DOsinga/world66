@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wine_country
+score: 7.1
 ---
 
 South Coast Winery has consistently been named California Winery of the Year by the State Fair, an unlikely outcome for a relatively young operation in an unfashionable region. The wines are competent across the board; the gold medals tend to come for the syrah, viognier, and sparkling wines.

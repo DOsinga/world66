@@ -5,7 +5,9 @@ done:
 latitude: 50.815278
 loc_type: city
 longitude: 5.18589
-score: 0.46
+score: 7.15
+snippet: Limburg fruit-region town with abbey remains, a vast Grote Markt, and spring
+  blossom orchards
 title: Sint-Truiden
 type: location
 ---

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Pathirakali_Amman_Temple
 story: >
   Pathirakali Amman (Bhadrakali) is a fierce form of the goddess Kali associated with protection, and the temple is especially active during the Hindu festival of Navaratri, when devotees observe nine nights of prayer and the temple glows with oil lamps and incense smoke until dawn.
+score: 7.7
 ---
 
 The Pathirakali Amman Temple is a large and active Hindu temple in the centre of Trincomalee dedicated to the goddess Bhadrakali. The gopuram (gateway tower) is tall and elaborately decorated with painted figures of deities in the Dravidian style, and the interior courtyards are busy with worshippers throughout the day.

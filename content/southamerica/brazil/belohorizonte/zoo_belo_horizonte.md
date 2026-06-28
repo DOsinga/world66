@@ -7,6 +7,7 @@ tags:
 - park
 title: Belo Horizonte Zoo
 type: poi
+score: 6.0
 ---
 
 The Belo Horizonte Zoo (Fundação Zoo-Botânica) sits in the Pampulha district north of the city. It opened in 1959 and now holds around 1,200 animals across roughly 600 species, with a strong emphasis on Brazilian fauna — jaguars, tapirs, capybaras, giant anteaters, and a wide range of birds and reptiles.

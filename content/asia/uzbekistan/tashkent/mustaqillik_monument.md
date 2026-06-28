@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3169
 longitude: 69.2697
+score: 5.5
 ---
 
 The bronze globe at the heart of Independence Square, erected in 1991 to replace the Lenin statue that had stood there since the 1970s. The outline of Uzbekistan is mapped on the globe; below it stands a figure of a mother holding a baby, symbolising the young republic.

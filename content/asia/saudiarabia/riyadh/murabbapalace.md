@@ -8,6 +8,7 @@ tags:
   - historic_site
 latitude: 24.6530
 longitude: 46.7100
+score: 7.3
 ---
 
 Built in 1937 by King Abdul Aziz (Ibn Saud), Murabba Palace served as both royal residence and seat of government during the formative years of modern Saudi Arabia. The name comes from its square layout — "murabba" means square in Arabic.

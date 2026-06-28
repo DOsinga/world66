@@ -1,200 +1,200 @@
 {
   "round": 523,
-  "timestamp": "2026-04-12T09:45:27",
+  "timestamp": "2026-06-13T19:40:29",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Maastricht",
-      "path": "europe/netherlands/maastricht",
-      "prior_mu": 29.9594,
-      "prior_sigma": 3.2104,
-      "prior_n": 8
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": -3.7807,
+      "prior_variance": 1.372027,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Utrecht",
-      "path": "europe/netherlands/utrecht",
-      "prior_mu": 23.7853,
-      "prior_sigma": 3.4265,
-      "prior_n": 4
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -3.3454,
+      "prior_variance": 1.678668,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Leiden",
-      "path": "europe/netherlands/leiden",
-      "prior_mu": 22.8,
-      "prior_sigma": 2.7975,
-      "prior_n": 6
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -3.7394,
+      "prior_variance": 1.632799,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Den Bosch",
-      "path": "europe/netherlands/denbosch",
-      "prior_mu": 22.1947,
-      "prior_sigma": 4.2426,
-      "prior_n": 2
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -5.1621,
+      "prior_variance": 1.532486,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Arnhem",
-      "path": "europe/netherlands/arnhem",
-      "prior_mu": 20.987,
-      "prior_sigma": 2.9605,
-      "prior_n": 5
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -3.4197,
+      "prior_variance": 1.815489,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Terschelling",
-      "path": "europe/netherlands/waddenislands/terschelling",
-      "prior_mu": 22.3736,
-      "prior_sigma": 3.7085,
-      "prior_n": 3
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -4.3917,
+      "prior_variance": 1.872258,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "De Koog",
-      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
-      "prior_mu": 21.6381,
-      "prior_sigma": 3.9061,
-      "prior_n": 3
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -7.1523,
+      "prior_variance": 1.535766,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Enkhuizen",
-      "path": "europe/netherlands/enkhuizen",
-      "prior_mu": 21.0408,
-      "prior_sigma": 3.641,
-      "prior_n": 4
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -2.4971,
+      "prior_variance": 1.265363,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Volendam",
-      "path": "europe/netherlands/volendam",
-      "prior_mu": 20.842,
-      "prior_sigma": 2.8397,
-      "prior_n": 5
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -3.8582,
+      "prior_variance": 1.504348,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Naarden",
-      "path": "europe/netherlands/naarden",
-      "prior_mu": 20.8688,
-      "prior_sigma": 2.5876,
-      "prior_n": 6
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -5.343,
+      "prior_variance": 1.303992,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Oudeschild",
-      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
-      "prior_mu": 20.9327,
-      "prior_sigma": 2.6696,
-      "prior_n": 6
+      "title": "Ruili",
+      "path": "asia/china/yunnanprovince/ruili",
+      "prior_score": -5.2836,
+      "prior_variance": 1.367306,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Harlingen",
-      "path": "europe/netherlands/friesland/harlingen",
-      "prior_mu": 20.8156,
-      "prior_sigma": 2.8715,
-      "prior_n": 5
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -6.7159,
+      "prior_variance": 1.454244,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Dokkum",
-      "path": "europe/netherlands/friesland/dokkum",
-      "prior_mu": 21.0357,
-      "prior_sigma": 3.4421,
-      "prior_n": 3
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -3.7173,
+      "prior_variance": 1.403181,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Apeldoorn",
-      "path": "europe/netherlands/apeldoorn",
-      "prior_mu": 20.9708,
-      "prior_sigma": 3.1163,
-      "prior_n": 4
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serres/serres",
+      "prior_score": -5.4538,
+      "prior_variance": 1.581085,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Bolsward",
-      "path": "europe/netherlands/friesland/bolsward",
-      "prior_mu": 20.8832,
-      "prior_sigma": 3.2929,
-      "prior_n": 4
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -5.1814,
+      "prior_variance": 1.823902,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Sloten",
-      "path": "europe/netherlands/friesland/sloten",
-      "prior_mu": 21.0752,
-      "prior_sigma": 3.426,
-      "prior_n": 4
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -4.8769,
+      "prior_variance": 1.605108,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Woudsend",
-      "path": "europe/netherlands/friesland/woudsend",
-      "prior_mu": 20.5625,
-      "prior_sigma": 2.5421,
-      "prior_n": 7
+      "title": "Hotan",
+      "path": "asia/china/xinjiangprovince/hotan",
+      "prior_score": -2.3095,
+      "prior_variance": 1.456579,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "IJlst",
-      "path": "europe/netherlands/friesland/ijlst",
-      "prior_mu": 20.5695,
-      "prior_sigma": 2.3541,
-      "prior_n": 7
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -5.4285,
+      "prior_variance": 1.77394,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Hellevoetsluis",
-      "path": "europe/netherlands/hellevoetsluis",
-      "prior_mu": 20.3797,
-      "prior_sigma": 2.3839,
-      "prior_n": 7
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -6.9244,
+      "prior_variance": 1.458971,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Lochem",
-      "path": "europe/netherlands/lochem",
-      "prior_mu": 20.3761,
-      "prior_sigma": 2.5084,
-      "prior_n": 6
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -4.9332,
+      "prior_variance": 1.34581,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Hilversum",
-      "path": "europe/netherlands/hilversum",
-      "prior_mu": 20.9046,
-      "prior_sigma": 2.979,
-      "prior_n": 4
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -8.6359,
+      "prior_variance": 1.989077,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Ouderkerk aan den IJssel",
-      "path": "europe/netherlands/ouderkerk_aan_den",
-      "prior_mu": 18.7721,
-      "prior_sigma": 2.7762,
-      "prior_n": 6
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -7.0554,
+      "prior_variance": 2.265416,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Brunsumm",
-      "path": "europe/netherlands/brunsumm",
-      "prior_mu": 13.6961,
-      "prior_sigma": 3.8343,
-      "prior_n": 4
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_score": -8.2909,
+      "prior_variance": 1.845435,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Oss",
-      "path": "europe/netherlands/oss",
-      "prior_mu": 20.0606,
-      "prior_sigma": 2.8397,
-      "prior_n": 5
+      "title": "Lauro M\u00fcller",
+      "path": "southamerica/brazil/lauro_mller",
+      "prior_score": -8.7171,
+      "prior_variance": 1.711273,
+      "prior_n": 1
     }
   ]
 }

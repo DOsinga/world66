@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2010-06-06-lueneburg-by-Ra
 latitude: 53.2489
 loc_type: city
 longitude: 10.4083
-score: 0.54
+score: 7.96
+snippet: Medieval north German salt city, with Gothic brick churches and gabled houses
+  preserved by decline.
 title: Lüneburg
 type: location
 ---

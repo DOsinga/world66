@@ -10,6 +10,7 @@ story: >
   The name Nohkalikai means "Jump of Ka Likai" in Khasi, referring to a local legend about a woman named Likai who, driven mad by grief after discovering her husband had killed and cooked her daughter, threw herself off the cliff. The pool at the base of the falls is an unusual turquoise-green colour caused by the dissolved minerals in the water.
 sources:
   - https://en.wikipedia.org/wiki/Nohkalikai_Falls
+score: 8.8
 ---
 
 Nohkalikai Falls is the tallest plunge waterfall in India, dropping 340 metres in a single unbroken fall from the edge of the Khasi Hills plateau into a pool of remarkable turquoise-green water below. It is about five kilometres from Cherrapunji, accessible by road with a short walk to the viewpoint.

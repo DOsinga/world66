@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mosque
+score: 7.0
 ---
 
 One of Medina's most historically significant small mosques, Al-Ghamama sits a short walk west of the Prophet's Mosque on a site where Muhammad is said to have led Eid prayers — the earliest Eid congregation in Islamic history. The name means "the cloud": according to tradition, a cloud appeared to shade the Prophet while he prayed here under the open sky, a story reflected in the white dome that now crowns the building.

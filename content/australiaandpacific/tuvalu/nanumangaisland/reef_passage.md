@@ -5,6 +5,7 @@ snippet: The single narrow opening through the fringing reef — Nanumanga's onl
 tags: [things_to_do, sight]
 latitude: -6.2920
 longitude: 176.3160
+score: 6.6
 ---
 
 Nanumanga has no lagoon to anchor in, only a fringing reef around the entire island. Cargo and passenger boats from Funafuti stand off the reef on the west side and offload by aluminium dinghy through a narrow passage in the coral. In rough seas this transfer is genuinely dangerous; arrivals are sometimes called off and the ship simply sails on to the next island.

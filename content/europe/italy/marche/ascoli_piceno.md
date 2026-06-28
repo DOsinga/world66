@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_storico,_63100_Asco
 latitude: 42.8534
 loc_type: city
 longitude: 13.5747
-score: 0.58
+score: 8.39
+snippet: Travertine-built Marche city between two rivers, ringed by mountains and
+  anchored by elegant Piazza del Popolo.
 title: Ascoli Piceno
 type: location
 ---

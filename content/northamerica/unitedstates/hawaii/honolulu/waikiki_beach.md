@@ -7,6 +7,7 @@ tags:
 - waikiki
 title: Waikiki Beach
 type: poi
+score: 8.2
 ---
 
 Waikiki is two miles of beach backed by the most famous resort strip in the Pacific, with Diamond Head rising at the eastern end like a theatrical set piece. The sand is imported — the original beach was largely eroded by development — but the water is warm, the waves are gentle enough for beginners to learn surfing on longboards in an afternoon, and the setting is undeniably dramatic.

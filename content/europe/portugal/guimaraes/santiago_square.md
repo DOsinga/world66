@@ -6,6 +6,7 @@ longitude: -8.2932
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 A smaller, more intimate square just east of Oliveira Square, lined with whitewashed houses on granite arcades. Tradition holds that pilgrims travelling north to Santiago de Compostela passed through here, which is where the name comes from.

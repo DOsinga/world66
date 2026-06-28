@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.5990
 longitude: 16.5580
+score: 6.9
 ---
 
 Lake Mälaren is Sweden's third largest lake, stretching from Västerås eastward through Stockholm all the way to the Baltic. In Västerås, the lake defines the southern edge of the city, and the harbour area has been significantly redeveloped into a pleasant waterfront district with restaurants, a marina, and swimming areas in summer.

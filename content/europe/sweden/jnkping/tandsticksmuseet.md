@@ -12,6 +12,7 @@ story: >
   making it impossible to strike accidentally. The invention transformed global
   fire safety and launched a Swedish industrial empire that at its peak supplied
   most of the world's matches.
+score: 8.3
 ---
 
 The Match Museum occupies the restored brick buildings of the old Jönköping match factory on the waterfront, where safety matches were first manufactured at an industrial scale in the 1850s. It is one of the more unlikely but genuinely fascinating industrial museums in Sweden.

@@ -1,17 +1,21 @@
 ---
-title: "Mercado Municipal"
-type: poi
 latitude: -23.5418
 longitude: -46.6296
+score: 8.0
+snippet: The 1933 covered market — stained-glass windows and the legendary mortadella
+  sandwich
+story: The original 1930s stained-glass windows by the Russian-Brazilian artist Conrado
+  Sorgenicht Filho depict not religious scenes but Brazilian agricultural produce
+  — coffee, sugar cane, cattle. Locals call the market the Mercadão; the windows are
+  sometimes called the cathedral glass of Brazilian food.
 tags:
-  - things_to_do
-  - eating_out
-  - sight
-  - market
-  - centro
-neighbourhood: Centro
-snippet: "The 1933 covered market — stained-glass windows and the legendary mortadella sandwich"
-story: "The original 1930s stained-glass windows by the Russian-Brazilian artist Conrado Sorgenicht Filho depict not religious scenes but Brazilian agricultural produce — coffee, sugar cane, cattle. Locals call the market the Mercadão; the windows are sometimes called the cathedral glass of Brazilian food."
+- things_to_do
+- eating_out
+- sight
+- market
+- centro
+title: Mercado Municipal
+type: poi
 ---
 
 The Mercadão opened in 1933 in an Italianate brick hall with stained-glass windows of agricultural scenes — the building itself is half the reason to come. Downstairs is the working market: butchers, fishmongers, fruit-and-veg stalls, and a serious dried-cod section. Upstairs is a balcony of lanchonete-style food counters, and this is what the city visits the Mercadão for.

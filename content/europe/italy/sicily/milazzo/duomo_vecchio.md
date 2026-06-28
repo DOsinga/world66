@@ -8,6 +8,7 @@ tags:
 latitude: 38.2265
 longitude: 15.2404
 snippet: 17th-century cathedral within the castle walls, now a striking ruin open to visitors
+score: 7.7
 ---
 
 The old cathedral of Milazzo — formally Santa Maria Maggiore, known locally as the Duomo Vecchio — stands within the Spanish citadel inside the castle walls. Built in the 17th century and damaged by earthquake and later neglect, it was deconsecrated in the 19th century when the population shifted to the new town below. The building now stands partly ruined but increasingly well-presented, with conservation work revealing fragments of interior decoration.

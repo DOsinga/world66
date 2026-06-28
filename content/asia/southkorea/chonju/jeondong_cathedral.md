@@ -9,6 +9,7 @@ latitude: 35.8135
 longitude: 127.1490
 story: >
   Jeondong Cathedral stands on the site where three Korean Catholic martyrs were executed in 1791 during the Sinyu Persecution — among the first Koreans to die for their faith. It was built using wood salvaged from the demolished Jeolla-do Provincial Government Office, meaning the timbers of state power were literally recycled into a Christian church.
+score: 7.7
 ---
 
 Jeondong Cathedral is one of the most beautiful Catholic churches in Korea — a Romanesque-Byzantine structure built in 1914 with a distinctive red-brick facade, twin bell towers, and a copper dome that has turned the deep green of aged bronze. It sits directly across from the Hanok Village, making the juxtaposition of East and West unusually visible: traditional tile roofs on one side, European ecclesiastical stonework on the other.

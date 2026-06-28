@@ -10,6 +10,7 @@ latitude: -19.0767
 longitude: 32.7553
 story: >
   The Vumba (or Bvumba) takes its name from the Shona word for "mist" — the mountains spend much of the year in cloud, creating a cool, damp environment quite unlike the rest of Zimbabwe. This has produced a remarkably lush vegetation: the area is one of the most botanically diverse in southern Africa, with over 200 species of fern alone and orchids growing wild on the forest floor.
+score: 5.1
 ---
 
 The Vumba Mountains rise about 25km south of Mutare through a winding road that climbs from warm lowlands into cool, forested highlands. The Bvumba Botanical Gardens at the top are the main destination: a 200-acre garden established in 1950 with indigenous trees, flowering shrubs, and a national rose garden overlooking the Mozambique border. The mist that gives the mountains their name drifts through the garden on most mornings, creating an otherworldly atmosphere.

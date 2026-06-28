@@ -6,6 +6,7 @@ longitude: -8.8926
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 São Julião is the oldest parish church in Setúbal, founded in the 13th century and rebuilt several times after earthquakes — most disastrously in 1755, when the Lisbon quake took down most of the medieval structure. The current building dates largely from the 18th century but preserves a fine Manueline side portal from the original.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.4478
 longitude: 125.8079
+score: 7.6
 ---
 
 Tagum City's signature annual event, held in February, a week-long celebration of music that draws performers from across the Philippines. The festival takes its name from "musika" (music) and reflects Tagum's self-promotion as the "Music Capital of the South." Competitions, free concerts, and street performances fill the city centre.

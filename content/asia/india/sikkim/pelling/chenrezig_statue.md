@@ -10,6 +10,7 @@ longitude: 88.2199379
 snippet: 137-foot statue of the bodhisattva of compassion with a glass-floored walkway
 story: >
   Chenrezig — known in Sanskrit as Avalokitesvara — is the bodhisattva of compassion, and this massive statue faces Kanchenjunga as if in perpetual contemplation of the mountain. The glass-floored skywalk that spirals around the base offers views straight down to the valley floor through your feet.
+score: 7.2
 ---
 
 One of the newer landmarks around Pelling, the Chenrezig statue stands at 137 feet and is visible from much of the valley. The giant gilded figure of the bodhisattva of compassion dominates its hilltop setting, with Kanchenjunga visible (on clear days) directly behind it.

@@ -9,6 +9,7 @@ latitude: 34.6134
 longitude: -120.0762
 sources:
   - https://en.wikipedia.org/wiki/Santa_Ynez,_California
+score: 6.8
 ---
 
 The Santa Ynez Valley Historical Museum sits in a 1910 building in the center of town and covers the valley's history from the Chumash people through the Spanish and Mexican rancho periods, the stagecoach era, and the arrival of Danish settlers in the early twentieth century. The collection includes ranching equipment, Chumash artifacts, and materials from the valley's role as a stagecoach junction on the route between Santa Barbara and the interior.

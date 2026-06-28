@@ -8,6 +8,7 @@ latitude: 2.290556
 longitude: 111.825278
 sources:
   - https://en.wikipedia.org/wiki/Wisma_Sanyan
+score: 4.6
 ---
 
 Wisma Sanyan is Sibu's blunt vertical landmark, a high-rise office and shopping complex that long ranked among the tallest buildings in Sarawak. It is not beautiful, but it is impossible to miss and very much part of the town's turn-of-the-century confidence.

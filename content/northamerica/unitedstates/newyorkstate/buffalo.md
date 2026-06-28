@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_03_(
 latitude: 42.886416
 loc_type: city
 longitude: -78.878149
-score: 0.43
+score: 6.94
+snippet: Lake Erie city near Niagara Falls with grain-port history and notable early
+  modern architecture.
 title: Buffalo
 type: location
 ---

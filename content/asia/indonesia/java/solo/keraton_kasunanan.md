@@ -9,6 +9,7 @@ latitude: -7.5742
 longitude: 110.8267
 story: >
   The Keraton Kasunanan was the seat of the Mataram Sultanate after it split in 1755 at the Treaty of Giyanti, which divided the kingdom between Solo and Yogyakarta. The Dutch engineered the division deliberately, judging two weak rival courts easier to manage than one strong one. The two royal houses have maintained a proud rivalry ever since, each claiming superiority in the performance of Javanese court culture.
+score: 8.5
 ---
 
 The Keraton Kasunanan is Solo's primary royal palace and one of the finest examples of Javanese court architecture in Java. The complex was built in the mid-18th century after the Mataram kingdom was divided, and it remains the formal seat of the Susuhunan — the Javanese king — though today the role is ceremonial.

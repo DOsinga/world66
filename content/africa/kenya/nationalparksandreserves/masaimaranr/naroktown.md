@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Narok_aerial_view.jpg
 latitude: -1.088693
 loc_type: city
 longitude: 35.871492
-score: 0.6
+score: 7.85
+snippet: Rift Valley market town, the last major road stop before the Masai Mara.
 title: Narok Town
 type: location
 ---

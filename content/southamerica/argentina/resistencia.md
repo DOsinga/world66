@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_2_de_febrero.jpg
 latitude: -27.604883
 loc_type: city
 longitude: -59.1932
-score: 0.4
+score: 6.4
+snippet: Chaco provincial capital called Argentina's City of Sculptures, with public
+  art across its plazas
 title: Resistencia
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 68.148
 longitude: 14.2007
+score: 7.1
 ---
 
 A regulation-sized football pitch on a flat shelf of rock at the south end of Henningsvær village, with the sea on three sides, the granite peaks of the Lofoten wall behind, and goal posts just metres from the water. The drone shots that appear on every Norwegian tourism poster have made it briefly internet-famous.

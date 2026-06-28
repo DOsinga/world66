@@ -1,7 +1,7 @@
 ---
-category: Park
 latitude: -33.9879
 longitude: 18.4324
+score: 9.5
 scores:
   activities: 0.6005
   park: 0.7173
@@ -17,6 +17,7 @@ tags:
 - things_to_do
 - sight
 - park
+- newlands
 title: Kirstenbosch National Botanical Garden
 type: poi
 ---

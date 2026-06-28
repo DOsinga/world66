@@ -8,6 +8,7 @@ latitude: 30.3530
 longitude: 112.1920
 story: >
   The Jingzhou walls have survived intact partly because of a remarkable accident of Communist policy: the 1950s plan to demolish them for materials was halted when local officials argued successfully that the earthen core would require more labour to remove than the bricks were worth. The walls were thus preserved by bureaucratic inertia rather than historical consciousness.
+score: 8.5
 ---
 
 The Jingzhou city walls are among the most complete and best-preserved ancient defensive circuits in China. What you walk around today is a seventeenth-century Qing dynasty reconstruction of earlier walls, but the scale is formidable: nine metres high, ten metres thick at the base, circling the old city for ten kilometres with intact watchtowers at intervals and nine original gates still standing. The rampart path that runs along the outside of the walls makes a good two-hour circuit with views over the moat and the surrounding Jianghan Plain.

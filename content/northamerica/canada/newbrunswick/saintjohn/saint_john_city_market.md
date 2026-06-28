@@ -10,6 +10,7 @@ longitude: -66.0598
 snippet: Canada's oldest continuously operated farmers' market, trading since 1785
 story: >
   The market's ship's-keel ceiling — arching timber beams built like an inverted hull — was a deliberate reference to Saint John's days as one of British North America's great shipbuilding centres. The city once launched more wooden sailing ships than almost anywhere on the continent, and the market's builders wanted visitors to feel they were walking under a ship. The tradition survives: look up at the vaulted ceiling and you are looking at a built memorial to an industry that shaped the city.
+score: 8.2
 ---
 
 The Saint John City Market is the oldest continuously operating covered market in Canada, with a charter from 1785 and a building from 1876. It occupies a full block between Charlotte and Germain streets in uptown Saint John, its entrance arched and its interior long, vaulted, and atmospheric even when busy.

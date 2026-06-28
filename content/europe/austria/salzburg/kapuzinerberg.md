@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neustadt
+score: 7.7
 ---
 
 The wooded hill on the right bank of the Salzach is a peaceful counterpoint to the Mönchsberg — fewer tourists, more locals, and a network of footpaths leading to the 16th-century Capuchin monastery at the top.

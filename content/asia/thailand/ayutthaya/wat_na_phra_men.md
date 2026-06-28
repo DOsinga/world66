@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Wat Na Phra Men
 type: poi
+score: 8.6
 ---
 
 Across the moat from the royal palace ruins, on the north bank of the former Lopburi River channel. This is the most historically significant intact temple in Ayutthaya — it survived the 1767 Burmese sack and gives a direct sense of what the city's religious buildings looked like before the destruction.

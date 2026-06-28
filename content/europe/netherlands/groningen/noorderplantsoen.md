@@ -7,6 +7,7 @@ snippet: Romantic landscape park on the old fortifications, host of Noorderzon f
 tags:
 - things_to_do
 - park
+score: 7.3
 ---
 
 A long, looping landscape park north of the centre, laid out in the 1880s on the bastions of the city's old fortifications. The plan, by garden architect Henry Copijn, used the irregular shape of the bastions to create a series of winding paths, ponds, and hidden glades — a textbook example of the English landscape style as it was interpreted in the Netherlands.

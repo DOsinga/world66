@@ -13,6 +13,7 @@ story: >
   resident monks. The main hall contains a 1.6-metre bronze bell cast in
   1697, still rung at dawn and dusk, that has been heard in the Zhangzhou
   valley continuously for over three centuries.
+score: 8.8
 ---
 
 Nanshan Temple (南山寺) sits at the foot of Danxia Mountain at the southern edge of Zhangzhou city, founded in the Tang Dynasty and rebuilt through successive dynasties to its current scale. The complex is substantial — several interconnected halls around a series of courtyards — and active enough to feel like a working monastery rather than a museum piece. The main devotional hall houses three large gilded Buddhas; the surrounding halls contain more intimate shrines, prayer rooms, and monks' quarters.

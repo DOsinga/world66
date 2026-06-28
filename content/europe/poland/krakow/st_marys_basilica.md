@@ -1,14 +1,23 @@
 ---
-title: "St. Mary's Basilica"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - stare_miasto
 latitude: 50.0617
 longitude: 19.9392
-story: >
-  Every hour, on the hour, a trumpeter plays the hejnał — a short melody — from the highest tower, breaking off mid-phrase. The tradition commemorates a medieval watchman who sounded the alarm when Mongol forces attacked in 1241 and was killed by an arrow through the throat before he could finish the call. The melody has been played uninterrupted every hour for over 600 years, pausing only briefly during the Nazi occupation.
+score: 9.4
+snippet: Gothic brick basilica on Rynek Główny with the largest medieval altarpiece
+  in the world, by Veit Stoss
+story: 'Every hour, on the hour, a trumpeter plays the hejnał — a short melody — from
+  the highest tower, breaking off mid-phrase. The tradition commemorates a medieval
+  watchman who sounded the alarm when Mongol forces attacked in 1241 and was killed
+  by an arrow through the throat before he could finish the call. The melody has been
+  played uninterrupted every hour for over 600 years, pausing only briefly during
+  the Nazi occupation.
+
+  '
+tags:
+- things_to_do
+- sight
+- stare_miasto
+title: St. Mary's Basilica
+type: poi
 ---
 
 St. Mary's Basilica occupies the northeast corner of the Market Square and is the parish church of Krakow's Old Town. Its two towers, unequal in height, have defined the city's skyline since the 14th century — the taller one belongs to the city and was used as a watchtower; the shorter belongs to the church. The exterior is imposing; the interior is breathtaking.

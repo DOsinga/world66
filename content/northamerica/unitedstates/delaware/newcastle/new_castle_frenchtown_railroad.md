@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6622
 longitude: -75.5663
+score: 6.9
 ---
 
 The New Castle and Frenchtown Railroad, opened in 1832, was one of the earliest railroads in the United States — and one of the shortest-lived. It ran 16 miles across the Delaware Peninsula to Frenchtown, Maryland, allowing passengers and cargo to bypass a particularly difficult section of the bay. The railroad operated for only five years before the Chesapeake and Delaware Canal made it redundant.

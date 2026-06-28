@@ -13,6 +13,7 @@ story: >
   giant dragonflies, and invertebrates — a snapshot of a world so different
   from the present Chihuahuan Desert that it requires a moment to process the
   geological time involved.
+score: 7.9
 ---
 
 Prehistoric Trackways National Monument preserves an extraordinary concentration of Permian-era fossil trackways — footprints and traces left by insects and reptiles some 280 million years ago. The site is located in the Robledo Mountains, a low range west of Las Cruces, and has produced thousands of individual track specimens, many of exceptional scientific significance. Some of the insect tracks preserved here are the longest known Permian invertebrate trails in the world.

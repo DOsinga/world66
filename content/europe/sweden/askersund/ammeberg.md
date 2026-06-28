@@ -6,6 +6,7 @@ longitude: 15.0000
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Åmmeberg is a small industrial village on the eastern shore of the Vättern narrows, about five kilometres east of Askersund by water. It was built around a zinc mine and processing plant that operated from the late 19th century until 1983, leaving behind a distinctive landscape of industrial ruins and workers' housing. The contrast between the derelict plant and the beautiful lake setting is striking.

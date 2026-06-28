@@ -12,6 +12,7 @@ story: >
   flown in combat during World War II. The aircraft was painstakingly restored to
   airworthy condition and still flies — you can sometimes book a ride. Flying a 80-year-old
   four-engine bomber is not something you can do in many places in the world.
+score: 8.0
 ---
 
 The Liberty Aviation Museum sits inside the Port Clinton Airport and houses an impressive collection of World War II-era aircraft, including fighters, a torpedo bomber, and a flyable B-17 Flying Fortress. The collection focuses on the air war of 1941–1945, and the interpretive material is strong — this is not just rows of planes but a genuine effort to explain the history and the people who flew in these machines.

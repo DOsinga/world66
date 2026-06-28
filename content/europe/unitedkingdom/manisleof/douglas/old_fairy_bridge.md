@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.148
 longitude: -4.479
+score: 6.2
 ---
 
 The Old Fairy Bridge is a small stone crossing over the Silverburn River on the road south from Douglas, and Manx tradition holds that anyone who crosses without saying "hello to the fairies" risks bad luck. The island has a rich fairy folklore tradition — the Manx call fairies the "little folk" or mooinjer veggey — and the superstition around the bridge is widely observed, even if only half-jokingly.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.5600
 longitude: 120.3100
+score: 6.2
 ---
 
 Wuxi spareribs are the dish that defined the city's culinary identity. Pork ribs are braised long and slow in a liquid of soy sauce, Shaoxing rice wine, sugar, ginger, and star anise until the meat separates from the bone at a touch and the sauce reduces to a dark, glossy lacquer. The final flavour is emphatically sweet-savoury, richer and more cloying than Shanghai's red-braised pork — a matter of local preference that provokes strong opinions.

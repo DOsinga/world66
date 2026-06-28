@@ -9,6 +9,7 @@ latitude: 35.5576
 longitude: 45.4258
 story: >
   Among the most remarkable pieces in the Sulaymaniyah Museum is the Gilgamesh Dream Tablet — a 3,500-year-old cuneiform clay tablet describing a dream sequence from the Epic of Gilgamesh, one of the oldest works of literature in human history. The tablet was looted from an Iraqi site in the 1990s, illegally exported, and eventually purchased by Hobby Lobby for $1.67 million in 2014. After years of legal proceedings, US authorities repatriated it to Iraq in 2021. It is now displayed in Sulaymaniyah.
+score: 8.7
 ---
 
 The Sulaymaniyah Museum (Slemani Museum) holds one of the finest collections of Mesopotamian antiquities in Iraq outside Baghdad, spanning five thousand years of history from the Neolithic period through the Islamic era. The collections include cuneiform tablets, cylinder seals, bronze weapons and tools, Assyrian reliefs, and a remarkable run of material from the Bronze Age sites of the Sulaymaniyah region.

@@ -6,6 +6,7 @@ longitude: 134.6900
 tags:
   - shopping
   - sight
+score: 6.0
 ---
 
 Miyuki-dori is the covered shopping arcade that runs north from Himeji Station roughly parallel to Otemae-dori. Three blocks of it form one of the longest arcades in western Japan, and it is the place locals actually use: bakeries, izakayas, pachinko parlours, a couple of department stores, and several shops selling locally produced leather goods.

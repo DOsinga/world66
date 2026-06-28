@@ -6,6 +6,7 @@ longitude: 104.7567
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 Pempek Candy on Jalan Sudirman is the most famous of Palembang's many dedicated pempek restaurants — the kind of place where local families come for a Sunday-morning bowl, businessmen drop in between meetings, and visiting Indonesians from elsewhere on the archipelago detour specifically for lunch.

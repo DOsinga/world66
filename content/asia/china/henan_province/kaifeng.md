@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Daliang_City_Gate.jpg
 latitude: 34.795
 loc_type: city
 longitude: 114.345
+score: 7.57
+snippet: Former Northern Song capital where buried dynasties, the Iron Pagoda, and
+  Jewish heritage survive under Henan silt.
 sources:
 - https://en.wikivoyage.org/wiki/Kaifeng
 title: Kaifeng

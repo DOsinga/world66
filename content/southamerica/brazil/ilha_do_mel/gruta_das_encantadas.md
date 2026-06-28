@@ -12,6 +12,7 @@ tags:
 - sight
 title: Gruta das Encantadas
 type: poi
+score: 6.8
 ---
 
 A short walk south of the village of Encantadas, a path leads through forest to a small sea cave hollowed out of the granite cliffs. The cave can only be entered at low tide and even then needs care over the wet rocks. Inside, the swell echoes through the chamber and the light through the entrance picks out the layers in the rock.

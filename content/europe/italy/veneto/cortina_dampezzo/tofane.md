@@ -11,6 +11,7 @@ longitude: 12.0500
 sources:
   - https://en.wikipedia.org/wiki/Tofane
   - https://en.wikipedia.org/wiki/Tofana_di_Rozes
+score: 9.3
 ---
 
 The Tofane massif is the dominant mountain group west of Cortina, comprising three summits — Tofana di Rozes (3,225 m), Tofana di Mezzo (3,244 m), and Tofana di Dentro (3,238 m). They form the backdrop against which most photographs of Cortina are taken, and the ski area on their flanks is the largest and most varied of the resort's sectors. The cable car to Ra Valles and the slopes below Tofana di Mezzo are the heart of Cortina's winter skiing.

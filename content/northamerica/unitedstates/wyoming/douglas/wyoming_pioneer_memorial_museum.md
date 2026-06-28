@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Wyoming_Pioneer_Memorial_Museum
   - https://wyoparks.wyo.gov/index.php/places-to-go/wyoming-pioneer-museum
+score: 7.5
 ---
 
 The Wyoming Pioneer Memorial Museum occupies a solid building on the State Fairgrounds and does an unusually good job of making frontier history feel specific rather than generic. Established in 1956, it covers the full arc of Wyoming's settlement era: the livestock industry, the Indian Wars, the railroads, and the often-violent clash between large cattle operators and small ranchers that defined the Johnson County War of 1892.

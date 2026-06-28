@@ -12,6 +12,7 @@ story: >
   past 900. Flavours include smoked trout, black beans with cheese, rice with milk, spaghetti,
   and beer, alongside more conventional tropical options. The owner, Manuel da Silva Oliveira,
   a Portuguese immigrant, began the experiment in 1980 and never stopped.
+score: 7.4
 ---
 
 Heladería Coromoto near Plaza Bolívar holds the Guinness World Record for the most ice cream flavours offered — currently more than 900, ranging from straightforward mango and coconut to bizarre experiments like smoked trout, garlic, avocado soup, and spaghetti. Not all flavours are available every day; the menu rotates.

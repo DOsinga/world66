@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Playa del Carmen
 type: poi
+score: 6.5
 ---
 
 The headline Riviera Maya beach town, an hour south of Cancun by ADO bus. Playa is more European and more compact than Cancun — a long pedestrianised shopping and dining strip (Quinta Avenida, Fifth Avenue) running parallel to the beach, with cafes, boutiques, beach clubs, and a more grown-up bar scene than the Hotel Zone offers. The beach itself is wide and white, with calmer water than the open-Caribbean Cancun side.

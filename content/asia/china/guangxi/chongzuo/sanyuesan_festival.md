@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.4200
 longitude: 107.3700
+score: 7.2
 ---
 
 Sanyuesan — the third day of the third lunar month — is the most important festival in the Zhuang calendar, celebrated with particular energy in Chongzuo and the surrounding region. The core of the festival is antiphonal singing competitions, in which men and women from different villages challenge each other in improvised song, the lyrics playful and often flirtatious, the melodies in the pentatonic scales of traditional Zhuang music. It is the kind of event that sounds folklorically staged when described and turns out to be genuinely alive when you see it.

@@ -8,6 +8,7 @@ tags:
   - sight
 title: St Hywyn's Church, Aberdaron
 type: poi
+score: 7.3
 ---
 
 St Hywyn's Church sits at the very end of the Llŷn Peninsula in the fishing village of Aberdaron, a few hundred metres from the beach and the grey waters of Bardsey Sound. For medieval pilgrims making the journey to Bardsey Island, this church was the final stop — a place to pray, rest, and wait for a calm day to make the crossing. The building dates from the 12th century, though there has been a church on the site since at least the 5th century.

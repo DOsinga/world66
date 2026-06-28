@@ -7,6 +7,7 @@ tags:
 latitude: -22.4796
 longitude: -68.9277
 story: "The museum's mummy collection includes pre-Inca burials from the surrounding desert — bodies naturally preserved by the Atacama's extreme dryness for up to 4,000 years. Their hair, leather sandals, and woven textiles survive in conditions that would have rotted any human remains buried in less arid soil within a generation."
+score: 7.3
 ---
 
 The small Archaeological and Ethnographic Museum sits inside Parque El Loa and is the best place in Calama to get a sense of the deep human history of the surrounding desert. The collection covers the Atacameño people of the Loa basin from pre-ceramic times to the colonial period: stone tools, woven baskets, fragments of textile, pre-Inca pottery, and a handful of mummies and burial offerings preserved by the local dryness.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.5780
 longitude: 68.7870
+score: 7.2
 ---
 
 The Behzod Museum of Fine Arts, named after the famous 15th-century Herat miniaturist Kamoliddin Behzod, houses the main collection of Tajik visual art from the Soviet and post-independence periods alongside some pre-Soviet Central Asian decorative arts. The Soviet-era socialist realism section is extensive and, depending on your sensibility, either fascinating or tedious — or both.

@@ -7,7 +7,9 @@ done:
 latitude: 26.4368
 loc_type: city
 longitude: 50.104
-score: 0.32
+score: 5.47
+snippet: Eastern Province port city on the Arabian Gulf, shaped by Saudi Arabia’s
+  oil boom and lively waterfront corniche.
 title: Dammam
 type: location
 ---

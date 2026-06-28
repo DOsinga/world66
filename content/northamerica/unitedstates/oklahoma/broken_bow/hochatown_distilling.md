@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 34.1672
 longitude: -94.7298
+score: 5.3
 ---
 
 A small craft distillery in Hochatown making vodka, gin, and bourbon, with a tasting room that has become a popular afternoon stop. Tours run on weekends and walk through the small still and ageing barrels, ending with a tasting flight.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lucignano_panorama_dalla_f
 latitude: 43.274463
 loc_type: city
 longitude: 11.746
-score: 0.61
+score: 7.53
+snippet: Tuscan hill town laid out in concentric medieval rings above the Valdichiana
+  valley.
 title: Lucignano
 type: location
 ---

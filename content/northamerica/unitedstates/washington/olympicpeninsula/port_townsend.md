@@ -7,6 +7,7 @@ tags:
   - town
 title: Port Townsend
 type: poi
+score: 8.3
 ---
 
 Port Townsend is the peninsula's prettiest town, a Victorian seaport with brick storefronts, old hotels, boatyards, and views across Admiralty Inlet. It once expected to become a major port; the boom faded, leaving a handsome historic core.

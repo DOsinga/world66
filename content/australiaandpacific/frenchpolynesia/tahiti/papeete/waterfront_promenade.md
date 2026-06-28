@@ -6,6 +6,7 @@ longitude: -149.5690
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Papeete's waterfront — the boulevard Pomare — runs the length of the city centre and is its only consistently pleasant strip. A green park, bandstands, and a small marina divide it from the road, and the cruise terminals and inter-island ferry docks line the harbour side. The whole length is walkable in twenty minutes.

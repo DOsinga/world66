@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Long-running modern British restaurant on Market Place
+score: 6.2
 ---
 
 Tailors has been one of Warwick's standout dinner restaurants for years. The dining room is small, in an old townhouse on Market Place, and the menu is short, modern British, and ambitious — slow-cooked lamb shoulder, local game in season, plenty of foraged garnishes. Most ingredients are sourced locally.

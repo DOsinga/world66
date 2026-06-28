@@ -5,7 +5,9 @@ done:
 latitude: 13.5253
 loc_type: city
 longitude: 105.9686
-score: 0.35
+score: 6.42
+snippet: Small Mekong provincial capital near the Lao border, used as a stop between
+  Laos and Cambodia.
 title: Stung Treng
 type: location
 ---

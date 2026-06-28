@@ -7,6 +7,7 @@ tags:
 - sight
 title: Avanhard Stadium
 type: poi
+score: 6.8
 ---
 
 The Avanhard Stadium was the home ground of FC Stroitel Pripyat, the town's amateur football club. Construction finished in early 1986 and the official opening match was set for 1 May, alongside the launch of the amusement park. The grass pitch was never played on; today birch trees more than a decade old grow at the centre circle.

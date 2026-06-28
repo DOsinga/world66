@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 35.6267
 longitude: -120.6865
+score: 6.3
 ---
 
 A compact local history museum housed in a 1907 building a few blocks from downtown. The collection covers life in the Salinas River valley from the rancho era through the early twentieth century — saddles and spurs, farm equipment, period photographs, and a reconstructed pioneer kitchen. There is also material on the local Salinan people who lived in the region for thousands of years before European settlement.

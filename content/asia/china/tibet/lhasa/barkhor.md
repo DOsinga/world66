@@ -10,6 +10,7 @@ title: Barkhor
 type: poi
 story: >
   In 1409 the reformer Tsongkhapa instituted the Monlam Prayer Festival around the Jokhang, and the Barkhor took its modern shape as the kora — the clockwise circumambulation path. Six centuries later pilgrims still walk it the same way, anticlockwise being reserved for the Bon religion. Walk it the wrong way and old women will gently turn you around.
+score: 9.6
 ---
 
 The Barkhor is the kora — the pilgrimage circuit — around the Jokhang temple, and the most atmospheric street in Lhasa. A loop of perhaps half a mile, it is walked clockwise by a constant flow of pilgrims spinning prayer wheels and muttering mantras, intermixed with stallholders selling turquoise, prayer flags, yak-butter, juniper bundles, knives and silver charm boxes.

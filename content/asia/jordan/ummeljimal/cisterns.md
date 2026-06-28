@@ -8,6 +8,7 @@ latitude: 32.3268
 longitude: 36.3695
 sources:
   - https://en.wikipedia.org/wiki/Umm_el-Jimal
+score: 7.3
 ---
 
 The large open reservoirs of Umm el Jimal are among the most visible features of the site — deep stone-lined basins that could hold tens of thousands of litres of water collected from the surrounding dams and channels. Several of these reservoirs survive intact, their basalt walls still waterproof after more than a millennium of disuse.

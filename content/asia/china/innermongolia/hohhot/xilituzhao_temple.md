@@ -9,6 +9,7 @@ latitude: 40.8050
 longitude: 111.6430
 story: >
   Xilituzhao was expanded to its present form in the Qing dynasty and served as the seat of the Grand Lama of Hohhot — the highest Buddhist authority for the Mongolian tribes of the region. The ninth Grand Lama of Xilituzhao was Neichi Toyin (1587–1653), one of the most important missionaries of Tibetan Buddhism to the eastern Mongols, who personally converted many Mongolian tribes and established dozens of monasteries across the region. His career transformed the religious geography of eastern Inner Mongolia.
+score: 8.4
 ---
 
 Xilituzhao Temple (希拉穆仁庙, also called Shiretu Juu in Mongolian) sits just north of Dazhao in the old temple quarter of Hohhot and is often visited on the same walk. The complex is the largest of Hohhot's lamaseries and served as the seat of the Grand Lama, the senior Buddhist authority for the region's Mongolian population. The main hall and assembly rooms are substantial, decorated with gilded statues and hanging tangka paintings, and the courtyard contains several subsidiary shrines and a large incense burner.

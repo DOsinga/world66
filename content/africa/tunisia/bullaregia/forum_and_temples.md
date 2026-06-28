@@ -6,6 +6,7 @@ longitude: 8.7710
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 At ground level, Bulla Regia follows the standard plan of a prosperous Roman city: a forum (public square), surrounded by temples, a basilica (law court), and public baths. The forum area is extensive and gives a sense of the city's original scale — Bulla Regia was not a minor outpost but a genuine urban centre, prospering particularly under the patronage of the Severan emperors in the late 2nd and early 3rd centuries AD.

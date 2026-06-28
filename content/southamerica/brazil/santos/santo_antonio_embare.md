@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The basilica's tall neo-Gothic spires are reinforced with steel salvaged from the Belgian and Portuguese-built railways that once carried coffee from the interior to the port. The architects could not afford traditional stone construction and improvised with what came to hand at the docks."
+score: 7.1
 ---
 
 A few hundred metres back from the beach near Boqueirão, the Basílica Menor de Santo Antônio do Embaré is one of the most photogenic buildings in Santos: a stark neo-Gothic church in red brick and pale stone, finished in 1945 after decades of construction.

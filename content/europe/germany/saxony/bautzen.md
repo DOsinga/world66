@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bautzen_Altstadt_55.jpg
 latitude: 51.1809
 loc_type: city
 longitude: 14.4276
-score: 0.48
+score: 7.52
+snippet: Medieval Upper Lusatian town and Sorbian cultural heart, with bilingual streets
+  and a towered skyline.
 title: Bautzen
 type: location
 ---

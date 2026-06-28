@@ -12,6 +12,7 @@ tags:
   - architecture
 neighbourhood: Baixa
 story: The Iron House was meant to be the governor-general's residence. It turned out that an unventilated metal box in a tropical climate became unbearably hot by mid-morning, and the building was abandoned as a home almost immediately after delivery. For more than a century since it has been put to a series of less ambitious uses, currently the offices of the Department of Museums.
+score: 7.6
 ---
 
 The **Casa de Ferro** (Iron House) is one of those buildings that survives on the strength of a good story. A small two-storey prefabricated structure of riveted iron plates, painted in a pink and white that matches nothing else on the street, it sits in a corner of the Tunduru Gardens just below the cathedral.

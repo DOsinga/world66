@@ -9,6 +9,7 @@ title: Camogli Molo Esterno Lighthouse
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Camogli_Molo_Esterno_Lighthouse
+score: 6.8
 ---
 
 The Camogli Molo Esterno lighthouse stands at the tip of the outer breakwater, a small red tower that marks the entrance to the harbour. Walking out along the breakwater is one of the simplest pleasures Camogli has to offer — the views back to the painted houses, the Castello della Dragonara, and the Basilica are excellent from here, and on the other side you look across open water to the Monte di Portofino headland.

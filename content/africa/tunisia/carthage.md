@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Car
 latitude: 36.854808
 loc_type: city
 longitude: 10.330992
-score: 0.61
+score: 8.52
+snippet: Ancient coastal city near Tunis, layered with Punic ports, Roman ruins, and
+  centuries of Mediterranean history.
 title: Carthage
 type: location
 ---

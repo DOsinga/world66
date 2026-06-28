@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SaintMaryAdama01.jpg
 latitude: 8.541026
 loc_type: city
 longitude: 39.270546
-score: 0.31
+score: 5.74
+snippet: Ethiopian Rift Valley crossroads city, shaped by trucks, traders, rail links,
+  and Oromo administration.
 title: Adama
 type: location
 ---

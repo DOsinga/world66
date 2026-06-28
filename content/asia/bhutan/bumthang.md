@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jakar_Dzong_in_Bumthang.jp
 latitude: 27.707913
 loc_type: city
 longitude: 90.769744
-score: 0.64
+score: 8.55
 sources:
 - https://en.wikipedia.org/wiki/Bumthang_Valley
 - https://en.wikipedia.org/wiki/Kurjey_Lhakhang
@@ -17,6 +17,8 @@ sources:
 - https://en.wikipedia.org/wiki/Jakar_Dzong
 title: Bumthang
 type: location
+snippet: Central Bhutan valley region with some of the kingdom's oldest temples and
+  monasteries.
 ---
 
 Bumthang is a valley district in east-central Bhutan, about 250 km from Thimphu — a journey of 9–10 hours by road over mountain passes. It is considered one of the most beautiful areas in Bhutan, with undulating landscapes of fruit trees, apple orchards, and ancient temples. Bumthang is also the spiritual heartland of the country: this is where Buddhism first took hold in Bhutan, and the concentration of sacred sites here is extraordinary.

@@ -10,6 +10,7 @@ latitude: 26.1317
 longitude: -81.8042
 story: >
   Palm Cottage was built in 1895 from tabby concrete — a mixture of sand, water, oyster shells, and lime made from burned shells — by a contractor working for Walter Haldeman, publisher of the Louisville Courier-Journal. It is the oldest surviving structure in Collier County, and its survival through multiple direct hurricane hits is largely attributed to the unusual strength of tabby construction.
+score: 6.8
 ---
 
 Palm Cottage is the oldest surviving house in Collier County, a modest 1895 structure built from tabby concrete and set in a lush garden a block from the Gulf. The Naples Historical Society maintains it as a museum and runs guided tours that cover early Naples history — the original settlement was a winter retreat for wealthy northerners who arrived by steamboat, bought plots from a developer, and built simple winter homes before hotels arrived.

@@ -7,9 +7,9 @@ snippet: Italian seafood dining near the Harbour Bridge
 tags:
 - eating_out
 - restaurant
-- bridge
 title: Villa Caprese
 type: poi
+score: 5.8
 ---
 
 An Italian restaurant at the northern foot of the Sydney Harbour Bridge in Milsons Point, with water views across to the Opera House. The menu leans heavily on seafood -- think fresh Sydney rock oysters, grilled barramundi, and house-made pasta with local prawns. The setting does a lot of the work here, but the kitchen holds up its end. Lunch Monday to Friday, dinner Monday to Saturday.

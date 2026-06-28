@@ -11,6 +11,7 @@ tags:
   - sight
   - park
 snippet: "1818 botanic gardens with Tasmania's best cool-climate plant collection and an actual sub-Antarctic plant house"
+score: 8.2
 ---
 
 The second-oldest botanic gardens in Australia, laid out in 1818 along a gentle slope down to the Derwent. The cool climate gives the gardens an unusual collection: a serious **conifer collection**, including kauri pines and ancient huon pines from Tasmanian rainforests; a **Tasmanian native plant collection** featuring the Pencil Pine and the King's Lomatia (one of the world's rarest plants, cloned from a single specimen); and a heated **Sub-Antarctic Plant House** that reproduces the conditions of Macquarie Island, the only such display anywhere in the world.

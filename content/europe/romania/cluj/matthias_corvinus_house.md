@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - historic_house
+score: 7.1
 ---
 
 A few minutes' walk west of Piața Unirii, on Strada Matei Corvin, stands a sturdy stone house with Gothic windows where Matthias Corvinus was born in 1443. The future king's father, the Transylvanian commander John Hunyadi, was lodging here when his son arrived. Today the building houses part of the Art and Design University.

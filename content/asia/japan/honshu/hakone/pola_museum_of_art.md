@@ -6,6 +6,7 @@ tags:
   - museum
 title: Pola Museum of Art
 type: poi
+score: 7.9
 ---
 
 The Pola Museum sits in a beech forest above Miyanoshita and houses the private art collection of the Pola Cosmetics group — an unexpected combination that works remarkably well. The collection focuses on late 19th and early 20th century Western art, particularly French Impressionism and Post-Impressionism (Monet, Renoir, Picasso, Cézanne), alongside a strong Japanese oil painting collection from the Meiji and Taisho periods.

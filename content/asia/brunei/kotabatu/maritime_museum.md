@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 4.8819
 longitude: 114.9686
+score: 6.5
 ---
 
 The Brunei Maritime Museum sits alongside the Brunei Museum on the riverbank at Kota Batu and focuses on the sea-trading history that made the sultanate wealthy. Exhibits cover traditional boat-building, navigation, and the maritime trade networks that connected Brunei to China, Java, and the Arab world from the medieval period onward.

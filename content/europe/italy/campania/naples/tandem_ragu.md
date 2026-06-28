@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Tandem Ragù
 type: poi
+score: 7.0
 ---
 
 A cult restaurant in the historic centre that specialises in a single dish: Neapolitan ragù slow-cooked for at least eight hours. The ragù is served in a hollowed-out bread roll (*cuzzetiello*), with pasta, or simply in a bowl — the meat dissolves into a deep, wine-dark sauce that is the definitive version of the dish. Both meat and vegetarian versions available.

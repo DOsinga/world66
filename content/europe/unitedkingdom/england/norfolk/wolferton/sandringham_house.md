@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Sandringham was bought by the future Edward VII in 1862 with a budget secretly arranged by Prince Albert before his death the previous year. It has been the private country home of four generations of monarchs and is the place where George V and George VI both died. The Christmas broadcast is recorded here every year."
+score: 8.8
 ---
 
 Three miles east of Wolferton, Sandringham House is the private Norfolk home of the British royal family — not state-owned like Windsor or Holyrood, but a country estate that successive monarchs have used as a retreat since the 1860s. The house and grounds are open to the public when the family is not in residence, usually from April to October.

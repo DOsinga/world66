@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.6958
 longitude: -124.9947
+score: 7.8
 ---
 
 The Puntledge River runs through the heart of Courtenay before joining the Tsolum River and flowing into Comox Harbour. It is the city's defining natural feature — a clear, cold glacially-fed river that supports runs of Chinook, Coho, and pink salmon in late summer and autumn, and resident trout year-round.

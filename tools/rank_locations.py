@@ -23,6 +23,7 @@ be rebuilt from them via `replay`.
 """
 
 import argparse
+import bisect
 import datetime as dt
 import json
 import math
@@ -50,6 +51,23 @@ DEFAULT_MODEL = 'claude-sonnet-4-6'
 # PL regularization: L2 pull toward 0. Prevents scores from diverging
 # for items with very few comparisons.
 REGULARIZATION = 0.01
+
+# Rough POI score distribution from current scored POI frontmatter.
+# Location scores are percentile-mapped onto this curve so location and POI
+# scores share a similar 0-10 distribution without changing location ranking.
+POI_SCORE_QUANTILES = (
+    (0.00, 1.0),
+    (0.01, 4.3),
+    (0.05, 5.4),
+    (0.10, 5.8),
+    (0.25, 6.5),
+    (0.50, 7.4),
+    (0.75, 8.2),
+    (0.90, 8.8),
+    (0.95, 9.1),
+    (0.99, 9.5),
+    (1.00, 10.0),
+)
 
 
 # ---------------------------------------------------------------------------
@@ -118,10 +136,11 @@ class State:
 
 CONTINENTS = {'africa', 'antarctica', 'asia', 'australiaandpacific', 'europe',
                'northamerica', 'southamerica'}
+SCORABLE_LOC_TYPES = {'city', 'feature', 'island'}
 
 
 def discover_locations() -> list[tuple[str, str]]:
-    """Scan content/ for type: location pages under known continents."""
+    """Scan content/ for below-region location pages under known continents."""
     found = []
     for md_file in sorted(CONTENT_DIR.rglob('*.md')):
         rel = md_file.relative_to(CONTENT_DIR)
@@ -132,6 +151,8 @@ def discover_locations() -> list[tuple[str, str]]:
         except Exception:
             continue
         if meta.get('type') != 'location':
+            continue
+        if meta.get('loc_type') not in SCORABLE_LOC_TYPES:
             continue
         if md_file.parent.name == md_file.stem:
             content_path = str(rel.parent)
@@ -147,7 +168,7 @@ def cmd_discover(args) -> None:
     existing = set(state.ratings.keys())
 
     locations = discover_locations()
-    print(f'Found {len(locations)} location pages.')
+    print(f'Found {len(locations)} below-region location pages.')
 
     if args.sample is not None:
         if args.sample < BATCH_SIZE:
@@ -688,13 +709,37 @@ def cmd_run(args) -> None:
     print(f'Done. {state.rounds} rounds, {state.api_calls} API calls.')
 
 
-def _print_leaderboard(state: State, rows: list[Rating]) -> None:
+def _score_bounds(state: State, min_n: int) -> tuple[float, float] | None:
+    """Return raw score bounds matching the apply command's min-n filter."""
+    rated = [r for r in state.ratings.values() if r.comparisons >= min_n]
+    if not rated:
+        return None
+    s_min = min(r.score for r in rated)
+    s_max = max(r.score for r in rated)
+    if s_max - s_min < 1e-9:
+        return None
+    return s_min, s_max
+
+
+def _display_score(r: Rating, bounds: tuple[float, float] | None, raw: bool) -> float:
+    if raw:
+        return r.score
+    if bounds is None:
+        return 0.5
+    s_min, s_max = bounds
+    return (r.score - s_min) / (s_max - s_min)
+
+
+def _print_leaderboard(state: State, rows: list[Rating], min_n: int, raw: bool) -> None:
+    bounds = _score_bounds(state, min_n) if not raw else None
+    score_label = 'raw' if raw else 'score'
     width = max((len(r.title) for r in rows), default=20)
-    header = f'{"#":>4}  {"title":<{width}}  {"score":>7}  {"var":>8}  {"n":>4}  path'
+    header = f'{"#":>4}  {"title":<{width}}  {score_label:>7}  {"var":>8}  {"n":>4}  path'
     print(header)
     print('-' * len(header))
     for i, r in enumerate(rows, 1):
-        print(f'{i:>4}  {r.title:<{width}}  {r.score:>7.3f}  {r.variance:>8.4f}  '
+        score = _display_score(r, bounds, raw)
+        print(f'{i:>4}  {r.title:<{width}}  {score:>7.3f}  {r.variance:>8.4f}  '
               f'{r.comparisons:>4}  {r.path}')
 
 
@@ -716,7 +761,7 @@ def cmd_top(args) -> None:
         sys.exit(2)
     pool = _filter_pool(state, args)
     rows = sorted(pool, key=lambda r: r.score, reverse=True)[:args.n]
-    _print_leaderboard(state, rows)
+    _print_leaderboard(state, rows, args.min_n, args.raw)
 
 
 def cmd_bottom(args) -> None:
@@ -726,7 +771,7 @@ def cmd_bottom(args) -> None:
         sys.exit(2)
     pool = _filter_pool(state, args)
     rows = sorted(pool, key=lambda r: r.score)[:args.n]
-    _print_leaderboard(state, rows)
+    _print_leaderboard(state, rows, args.min_n, args.raw)
 
 
 DEBUG_BATCH = [
@@ -779,8 +824,40 @@ def cmd_replay(args) -> None:
     print(f'Fitted {state.rounds} rounds across {len(state.ratings)} locations.')
 
 
+def _percentile_rank(value: float, sorted_values: list[float]) -> float:
+    """Return a 0-1 percentile rank, averaging over ties."""
+    n = len(sorted_values)
+    if n <= 1:
+        return 0.5
+
+    left = bisect.bisect_left(sorted_values, value)
+    right = bisect.bisect_right(sorted_values, value)
+    midpoint = (left + right - 1) / 2
+    return max(0.0, min(1.0, midpoint / (n - 1)))
+
+
+def _score_from_quantiles(percentile: float) -> float:
+    """Interpolate the POI-like 0-10 score for a percentile."""
+    percentile = max(0.0, min(1.0, percentile))
+    for i, (q_hi, score_hi) in enumerate(POI_SCORE_QUANTILES):
+        if percentile <= q_hi:
+            if i == 0:
+                return score_hi
+            q_lo, score_lo = POI_SCORE_QUANTILES[i - 1]
+            if q_hi == q_lo:
+                return score_hi
+            t = (percentile - q_lo) / (q_hi - q_lo)
+            return score_lo + t * (score_hi - score_lo)
+    return POI_SCORE_QUANTILES[-1][1]
+
+
+def _location_display_score(raw_score: float, sorted_raw_scores: list[float]) -> float:
+    percentile = _percentile_rank(raw_score, sorted_raw_scores)
+    return _score_from_quantiles(percentile)
+
+
 def cmd_apply(args) -> None:
-    """Write a normalized 0-1 score into each location's frontmatter."""
+    """Write a POI-distribution-mapped 0-10 score into location frontmatter."""
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
@@ -792,14 +869,10 @@ def cmd_apply(args) -> None:
         print(f'No locations with >= {min_n} comparisons.', file=sys.stderr)
         sys.exit(2)
 
-    s_min = min(r.score for r in rated)
-    s_max = max(r.score for r in rated)
-    s_range = s_max - s_min
-    if s_range < 1e-9:
-        print('All rated locations have the same score.', file=sys.stderr)
-        sys.exit(2)
-
-    print(f'Normalizing score [{s_min:.3f}, {s_max:.3f}] → [0.0, 1.0]')
+    sorted_raw_scores = sorted(r.score for r in rated)
+    s_min = sorted_raw_scores[0]
+    s_max = sorted_raw_scores[-1]
+    print(f'Mapping raw score [{s_min:.3f}, {s_max:.3f}] through POI score quantiles → [1.0, 10.0]')
 
     updated = 0
     skipped_n = 0
@@ -816,7 +889,7 @@ def cmd_apply(args) -> None:
             continue
 
         post = frontmatter.load(md_path)
-        score = round((r.score - s_min) / s_range, 2)
+        score = round(_location_display_score(r.score, sorted_raw_scores), 2)
 
         if post.metadata.get('score') == score:
             continue
@@ -887,6 +960,8 @@ def main() -> None:
     p_top.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_top.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
+    p_top.add_argument('--raw', action='store_true',
+                       help='Show raw Plackett-Luce model scores instead of normalized 0-1 scores')
     p_top.set_defaults(func=cmd_top)
 
     p_bot = sub.add_parser('bottom', help='Show the bottom-ranked locations')
@@ -894,6 +969,8 @@ def main() -> None:
     p_bot.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_bot.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
+    p_bot.add_argument('--raw', action='store_true',
+                       help='Show raw Plackett-Luce model scores instead of normalized 0-1 scores')
     p_bot.set_defaults(func=cmd_bottom)
 
     p_stats = sub.add_parser('stats', help='Show rating state summary')

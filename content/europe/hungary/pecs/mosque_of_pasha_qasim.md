@@ -18,6 +18,7 @@ story: >
   the same walls.
 sources:
   - https://en.wikipedia.org/wiki/Mosque_of_Pasha_Qasim
+score: 9.4
 ---
 
 The Mosque of Pasha Qasim is the largest surviving Ottoman mosque in Hungary and one of the most striking buildings in Central Europe — a domed, red-stone structure sitting on Széchenyi Square at the very centre of Pécs, improbably topped with a Catholic cross. Pasha Gazi Qasim built it in the second half of the 16th century using stones from an earlier Gothic church, and it served as the main Muslim house of worship in the city throughout the 150-year Ottoman occupation.

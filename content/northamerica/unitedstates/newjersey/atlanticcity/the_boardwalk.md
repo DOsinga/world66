@@ -9,6 +9,7 @@ longitude: -74.4225
 snippet: "The oldest wooden boardwalk in the world — 6 km of seaside Americana from 1870"
 story: >
   The idea for an elevated wooden walkway along the beach was proposed in 1870 by a local hotel owner who was tired of guests tracking sand through his lobby. The first boardwalk was eight feet wide and was taken up each winter and stored. The current permanent structure was built in 1896. Atlantic City gave the boardwalk concept to the world — and then gave it to Monopoly. When Charles Darrow designed the board game in 1935 using Atlantic City street names, "Boardwalk" became the most expensive property in the most played board game in history.
+score: 8.2
 ---
 
 The Atlantic City Boardwalk is the original — the first wooden promenade built over a beach in the United States, opened in 1870 and still the longest in the world at six kilometres. Walking it from end to end takes about an hour at a strolling pace, past the casino tower hotels that replaced the Victorian-era grand hotels of the early resort era, the souvenir shops, the fudge and taffy stands that have been here in various forms since the 1880s, and the Steel Pier extending over the ocean.

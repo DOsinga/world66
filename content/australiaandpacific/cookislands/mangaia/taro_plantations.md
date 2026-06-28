@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: -21.9300
 longitude: -157.9200
 story: Mangaian taro patches sit in the swampy inland basin between the makatea and the central volcanic core. Each family's patches are still passed down in the old way — and Mangaian taro is reckoned the best in the Cook Islands.
+score: 7.8
 ---
 
 Mangaia's inland is a damp basin between the makatea cliffs and the small central hill. The basin is given over to taro patches — paddies, in effect — that have been worked by the same families for generations. They are the heart of the island's traditional food economy and the reason the makatea trails are still walked daily.

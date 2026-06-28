@@ -10,6 +10,7 @@ tags:
 - cafe
 title: Cafe Mimosa
 type: poi
+score: 5.5
 ---
 
 Mimosa sits right next to Olavinlinna castle and has a cozy open-air terrace with live music in summer. Busiest in July during the opera festival, when the whole town fills up. Serves food, snacks, and drinks.

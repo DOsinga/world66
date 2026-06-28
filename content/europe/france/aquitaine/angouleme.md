@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Angoul%C3%AAme_Cath%C3%A9d
 latitude: 45.6498767
 loc_type: city
 longitude: 0.1559674
+score: 7.87
+snippet: Charente hilltop city of Romanesque stone and bande dessinée murals above
+  the river.
 sources:
 - https://en.wikipedia.org/wiki/Angoul%C3%AAme
 - https://en.wikivoyage.org/wiki/Angoul%C3%AAme

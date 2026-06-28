@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, nové_mesto]
 latitude: 48.1577
 longitude: 17.1049
 story: The 6,845 Soviet soldiers buried at Slavín fell during the liberation of Bratislava in April 1945 — an offensive that lasted four days and cost the Red Army thousands of casualties. The memorial was built in 1960 and is one of the largest Soviet war memorials outside Russia. Slovak and Russian veterans still meet here on Liberation Day, May 9th.
+score: 7.4
 ---
 
 Slavín is the Soviet war memorial on Bratislava's highest hill, a short but steep walk north of the old town. The complex includes the graves of 6,845 soldiers who died in the fighting to liberate the city from German occupation in April 1945. A 39-metre obelisk topped with a Soviet soldier towers above the residential neighbourhood, visible from much of the city.

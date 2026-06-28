@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "A small white concrete obelisk on a rocky headland marks the spot where Vasco da Gama and his crew stepped ashore on 20 May 1498, after a sea voyage from Lisbon of just over ten months. They had not yet realised that the trade in spices from this coast would set off five centuries of European empire in Asia."
+score: 6.5
 ---
 
 Kappad, 16 kilometres north of Kozhikode, is the otherwise unremarkable Kerala beach where Vasco da Gama's three small ships dropped anchor on 20 May 1498 — the first direct sea contact between western Europe and India. A small monument on a rocky outcrop on the south end of the beach commemorates the landing in modest Malayalam-and-English text.

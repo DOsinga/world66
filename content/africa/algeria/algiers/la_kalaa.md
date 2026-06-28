@@ -6,6 +6,7 @@ longitude: 3.0620
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The upper Casbah — the Kalaa — sits at the very top of the hill, above the dense residential core of the old city. The original Berber settlement was here before the Arabs arrived in the 10th century, and the views down over the white rooftops to the bay and the Mediterranean horizon are exceptional.

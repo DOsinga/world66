@@ -5,7 +5,9 @@ done:
 latitude: 27.700399
 loc_type: city
 longitude: 83.465767
-score: 0.37
+score: 6.22
+snippet: Western Terai transport hub where roads from Nepal's hills meet the plains
+  near Lumbini.
 sources:
 - https://en.wikipedia.org/wiki/Butwal
 title: Butwal

@@ -9,6 +9,7 @@ longitude: 24.7392
 snippet: The upper town with the parliament, castle, cathedral, and the best views in Tallinn
 sources:
   - https://en.wikipedia.org/wiki/Toompea
+score: 9.3
 ---
 
 Toompea is the limestone hill that rises above the lower Old Town and has been the seat of power in Tallinn since the first fortifications were built here by the Danes in the 13th century. Today it holds the Estonian parliament (Riigikogu), the Toompea Castle, the Alexander Nevsky Cathedral, the Dome Church, and several viewing terraces that look out over the red rooftops below.

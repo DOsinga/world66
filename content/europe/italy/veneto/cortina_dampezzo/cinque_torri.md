@@ -16,6 +16,7 @@ story: >
   fighting to separate.
 sources:
   - https://en.wikipedia.org/wiki/Cortina_d%27Ampezzo
+score: 9.1
 ---
 
 The Cinque Torri — Five Towers — are a group of distinctive dolomite pinnacles rising above the Falzarego plateau, about 12 kilometres south of Cortina. They are among the most photographed formations in the Dolomites: five separate towers of pale rock, each with a slightly different profile, arranged in a loose cluster above a high alpine meadow. A chairlift from the Falzarego road reaches the base; from there a well-marked trail loops around the towers in about an hour.

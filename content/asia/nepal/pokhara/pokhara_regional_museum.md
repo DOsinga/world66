@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Ethnographic museum of the Gurung, Magar, Thakali and Tamang peoples
+score: 5.8
 ---
 
 A modest ethnographic museum in central Pokhara, showcasing the everyday life and material culture of the hill peoples of central Nepal. The displays include traditional clothing, agricultural tools, religious objects and a reconstructed Gurung house interior. There is also a section on the prehistoric finds from the Pokhara valley.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - park
 - sight
+score: 7.0
 ---
 
 A grassy bluff just south of the Redondo Beach Pier with picnic tables, a small playground and uninterrupted ocean views. The park is the venue for the city's free summer concert series, held on Sunday evenings from June through August, when a temporary stage is set up against the ocean backdrop and several thousand locals turn up with folding chairs and picnic blankets.

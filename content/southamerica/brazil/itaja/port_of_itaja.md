@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Itajaí port is one of the busiest container ports in Brazil and the largest fishing port in the country. The Ocean Race global yacht competition has used Itajaí as its only South American stopover since 2008, attracting hundreds of thousands of spectators for two weeks of public events along the river."
+score: 7.9
 ---
 
 The riverside port stretches several kilometres along the south bank of the Itajaí-Açu. Container terminals, fishing boats, and the trawlers of the high-seas fleet share the dock. A public promenade (the Beira-Rio) runs alongside, with cafés, kiosks, and a small public market where the fishing boats land their catch each morning.

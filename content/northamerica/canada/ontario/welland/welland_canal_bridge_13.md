@@ -7,6 +7,7 @@ longitude: -79.25139
 snippet: Downtown vertical lift bridge that rises to let ocean freighters pass
 sources:
   - https://en.wikipedia.org/wiki/Welland_Canal_Bridge_13
+score: 5.8
 ---
 
 Bridge 13 is a vertical lift bridge in the heart of downtown Welland, carrying traffic over the canal on East Main Street. When a ship needs to pass, the bridge deck rises vertically between its twin towers — the whole span lifts to allow clearance for vessels up to about 40 metres above water. It is a working piece of industrial infrastructure that doubles as a minor spectacle when in operation.

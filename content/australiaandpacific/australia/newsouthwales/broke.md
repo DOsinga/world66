@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:43_Broke_Hunter_Valley.jpg
 latitude: -32.7583
 loc_type: city
 longitude: 151.0917
-score: 0.43
+score: 6.59
+snippet: Tiny Hunter Valley wine village surrounded by quieter cellar doors, olive
+  groves, and sandstone wilderness
 title: Broke
 type: location
 ---

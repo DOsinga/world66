@@ -8,6 +8,7 @@ tags:
 - museum
 title: Museum of Antiquities
 type: poi
+score: 7.3
 ---
 
 Roman mosaics, glasswork, sculptures and Islamic art spread across a building in the Parc de la Liberte. The collection spans Algeria's long history from Roman times through the Arab and Ottoman periods. Admission is free.

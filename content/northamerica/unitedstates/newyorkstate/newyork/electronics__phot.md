@@ -2,11 +2,13 @@
 address: times square
 latitude: 40.75701
 longitude: -73.985972
+score: 1.5
 tags:
 - shopping
 - shop
 - market
 - square
+- midtown
 title: Electronics / Photo shop on time square
 type: poi
 ---

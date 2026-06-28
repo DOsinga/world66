@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:CIty_of_Saranda_Albania_20
 latitude: 39.87522
 loc_type: city
 longitude: 20.006526
-score: 0.58
+score: 8.26
+snippet: Albanian Riviera resort town whose bay makes a base for Butrint and the Blue
+  Eye.
 title: Saranda
 type: location
 ---

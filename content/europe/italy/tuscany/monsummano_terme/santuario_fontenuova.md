@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.1
 ---
 
 The shrine that dominates Monsummano's main square was built in 1602 to house a miraculous image of the Madonna discovered at a nearby spring. The Grand Duke of Tuscany, Ferdinando I de' Medici, financed the construction, and the result is a substantial late-Renaissance church with frescoes by Giovanni da San Giovanni and a graceful arcaded porch facing the piazza.

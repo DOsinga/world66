@@ -1,0 +1,200 @@
+{
+  "round": 4822,
+  "timestamp": "2026-06-14T00:44:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 7.7007,
+      "prior_variance": 0.120578,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 5.1312,
+      "prior_variance": 0.09682,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_score": 2.4116,
+      "prior_variance": 0.081562,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 4.0018,
+      "prior_variance": 0.101278,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 4.1,
+      "prior_variance": 0.083648,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Cheverny",
+      "path": "europe/france/centre/loirevalley/cheverny",
+      "prior_score": 3.9772,
+      "prior_variance": 0.094972,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 2.6209,
+      "prior_variance": 0.106382,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.3658,
+      "prior_variance": 0.083634,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.5028,
+      "prior_variance": 0.107977,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 1.7378,
+      "prior_variance": 0.08176,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 2.01,
+      "prior_variance": 0.086137,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 0.4982,
+      "prior_variance": 0.085319,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.4177,
+      "prior_variance": 0.081056,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": 0.0627,
+      "prior_variance": 0.082414,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -1.9506,
+      "prior_variance": 0.082027,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -1.8046,
+      "prior_variance": 0.08054,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -1.3703,
+      "prior_variance": 0.103782,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -1.4721,
+      "prior_variance": 0.10908,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.6187,
+      "prior_variance": 0.084105,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.2283,
+      "prior_variance": 0.081574,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucuman",
+      "prior_score": -1.5162,
+      "prior_variance": 0.085082,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -4.3771,
+      "prior_variance": 0.111826,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -3.954,
+      "prior_variance": 0.088124,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -4.0528,
+      "prior_variance": 0.109381,
+      "prior_n": 15
+    }
+  ]
+}

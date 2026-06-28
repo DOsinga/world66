@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 story: "In 1909, tobacco merchant Hugo Zietz wanted to build a new factory near Dresden's old town, but planning rules prohibited industrial buildings there. His solution was to disguise it as an Islamic mosque — minaret chimneys, a stained-glass dome, arabesque tilework, crescent finials. City authorities, apparently too confused to object, approved the plans. The building now houses offices and a restaurant in the dome, where storytelling evenings are held weekly."
+score: 6.8
 ---
 
 The Yenidze is the most improbable building in Dresden: a tobacco factory from 1909 dressed up as an Ottoman mosque, complete with minarets, a stained-glass dome, and elaborate arabesque tilework. It stands just west of the old town near the main train station, close enough to be incongruous and far enough that many visitors never find it.

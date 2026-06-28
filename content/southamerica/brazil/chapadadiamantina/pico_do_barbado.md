@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -13.2783
 longitude: -41.4567
+score: 7.9
 ---
 
 Pico do Barbado, at 2,033 metres, is the highest point in Bahia state and one of the higher summits in northeastern Brazil. The mountain sits in the southern section of Chapada Diamantina, near the town of Mucugê, and the ascent is a two-to-three-day trek through diverse ecosystems: starting in caatinga at the base, climbing through cerrado and campo rupestre (rocky montane grassland), and finishing on the high-altitude quartzite plateau.

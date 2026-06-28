@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome_and_Motoy
 latitude: 34.391724
 loc_type: city
 longitude: 132.451759
-score: 0.71
+score: 9.41
+snippet: Western Honshu city rebuilt around peace memorials, with Mazda industry and
+  nearby Miyajima excursions.
 title: Hiroshima
 type: location
 ---

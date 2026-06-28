@@ -3,10 +3,12 @@ address: 9/4-5 Soi Thaniya, Silom Road
 latitude: 13.729
 longitude: 100.5335
 phone: '2343590'
+score: 4.8
 snippet: British-style pub popular with Silom's expat crowd
 tags:
 - bars_and_cafes
 - bar
+- silom
 title: The Barbican
 type: poi
 ---

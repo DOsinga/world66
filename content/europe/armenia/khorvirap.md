@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 39.878388
+loc_type: feature
 longitude: 44.57635
+score: 8.07
+snippet: Armenian monastery on the Ararat plain, famed for its deep pit and direct
+  view of Mount Ararat
 title: Khor Virap
 type: location
-score: 0.58
-loc_type: feature
 ---
 
 Khor Virap is located some 30 kilometres south of [Yerevan](/europe/armenia/yerevan) and can be visited as a day trip, possibly combined with [Garni](/europe/armenia/garni).

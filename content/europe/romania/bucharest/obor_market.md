@@ -1,14 +1,15 @@
 ---
 address: Bulevardul Mihai Bravu, Bucharest
 latitude: 44.4458
-loc_type: feature
 longitude: 26.1259
+score: 7.3
 snippet: Vast, chaotic open-air market — Bucharest at its rawest
 tags:
 - things_to_do
 - shopping
 - market
 title: Obor Market
+type: poi
 ---
 
 The largest and most chaotic market in Bucharest, a sprawling open-air complex on the eastern edge of the centre that has been operating in some form since the Middle Ages. Anything you might conceivably need can be bought here — fresh fruit and vegetables from Romanian smallholders, live carp from tanks, pyramids of unfamiliar cheeses, sacks of paprika, salted lard, Roma cassette tapes, second-hand power tools, and the famous Obor mici (grilled minced-meat rolls), which queues form for at lunchtime.

@@ -8,6 +8,7 @@ tags:
 latitude: 39.9498
 longitude: -75.1465
 snippet: "Michael Solomonov's Israeli restaurant — James Beard Outstanding Restaurant 2019, and worth every bit of the acclaim"
+score: 7.9
 ---
 
 Zahav opened in 2008 in a converted brick building in Old City and spent a decade accumulating awards before winning the James Beard Award for Outstanding Restaurant in the United States in 2019 — the highest honor in American food. Chef Michael Solomonov's cooking is rooted in Israeli cuisine but draws on his own biography: born in Israel, raised in Pittsburgh, trained in the American fine dining tradition. The result is food that feels simultaneously ancient and completely contemporary.

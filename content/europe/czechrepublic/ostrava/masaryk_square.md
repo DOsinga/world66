@@ -6,6 +6,7 @@ longitude: 18.2914
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Masaryk Square is the historic heart of Ostrava, a long rectangular plaza lined with pastel-coloured townhouses, a baroque plague column in the middle, and the old town hall (now the Ostrava Museum) at one end. After decades of soot-blackened decay it was thoroughly restored in the 2000s and is now one of the cleanest, most pleasant squares in industrial Moravia.

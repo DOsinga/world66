@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Paški Sir (Pag Cheese)
 type: poi
+score: 8.3
 ---
 
 **Paški sir** — Pag cheese — is arguably the most distinctive food product in Croatia. Made from the milk of Pag sheep (*paška ovca*), a hardy local breed adapted to the island's sparse karst pasture, it is a hard sheep's cheese with a sharp, intense flavour that comes directly from the island's specific environment. The sheep graze on salt-tolerant herbs and grasses seasoned by sea spray blown inland by the bora wind; the milk they produce is markedly different from that of mainland sheep. The cheese is aged in olive oil and salt and can be eaten at any stage from fresh to aged-hard.

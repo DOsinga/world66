@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.8126
 longitude: 2.1097
+score: 9.2
 ---
 
 The Grand Trianon is a single-storey palace of pink and white marble, built by Louis XIV in 1687 at the far north end of the gardens as a private retreat from the ceremony and crowds of the main palace. It is about 2km from the palace entrance — far enough that only those who are serious about seeing everything make it here, which means it's usually far less crowded.

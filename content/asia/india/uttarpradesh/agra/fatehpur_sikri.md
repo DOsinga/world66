@@ -1,17 +1,23 @@
 ---
 category: Sight
 done:
+  link_coverage: '2026-06-22'
   poi_cleanup: '2026-04-20'
 latitude: 27.0945
 longitude: 77.6679
+score: 9.2
 snippet: Akbar's abandoned Mughal capital, a UNESCO World Heritage Site
+story: Akbar built Fatehpur Sikri after the Sufi saint Salim Chishti predicted he
+  would finally have a male heir — which proved correct. The emperor named his son
+  Salim in gratitude; that boy grew up to be the emperor Jahangir. Childless couples
+  still tie threads onto the marble jali screens around the saint's tomb to ask for
+  the same favour.
+tags:
+- things_to_do
+- sight
+- architecture
 title: Fatehpur Sikri
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-story: "Akbar built Fatehpur Sikri after the Sufi saint Salim Chishti predicted he would finally have a male heir — which proved correct. The emperor named his son Salim in gratitude; that boy grew up to be the emperor Jahangir. Childless couples still tie threads onto the marble jali screens around the saint's tomb to ask for the same favour."
 ---
 
 Built between 1571 and 1585 by Mughal emperor Akbar near the village of the Sufi saint Salim Chishti, Fatehpur Sikri is regarded as Akbar's crowning architectural legacy. The red sandstone city — palaces, halls, mosques, and courtyards — was the Mughal capital for only fourteen years before being abandoned, apparently because the water supply dried up. It is a UNESCO World Heritage Site and one of the best-preserved Mughal complexes in India, 37 km west of Agra.

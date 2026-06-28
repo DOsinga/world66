@@ -1,11 +1,14 @@
 ---
 latitude: 34.9876
 longitude: 135.7593
-snippet: 131-metre observation tower facing Kyoto Station, controversial since the day it opened
+score: 5.7
+snippet: 131-metre observation tower facing Kyoto Station, controversial since the
+  day it opened
 tags:
 - things_to_do
 - sight
 - viewpoint
+- nishiki
 title: Kyoto Tower
 type: poi
 ---

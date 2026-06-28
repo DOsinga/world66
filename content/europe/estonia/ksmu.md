@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kasmu_museum.jpg
 latitude: 59.603462
 loc_type: city
 longitude: 25.896749
-score: 0.45
+score: 7.28
+snippet: Tiny Estonian captains' village on the Lahemaa coast, edged by forest trails
+  and boulder shores.
 title: Käsmu
 type: location
 ---

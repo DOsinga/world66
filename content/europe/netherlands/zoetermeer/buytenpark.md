@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.0480
 longitude: 4.4700
+score: 5.9
 ---
 
 Buytenpark is Zoetermeer's main recreational park, a broad green space at the southern end of the city with walking trails, cycling paths, a small petting zoo for children, and a lake where pedal boats can be hired in summer. The park connects to the Dutch polder landscape beyond the city, and on clear days the distant towers of The Hague are visible to the west.

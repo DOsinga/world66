@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_town
 neighbourhood: Old Town
+score: 7.2
 ---
 
 Chef Charleen Badman's vegetable-forward restaurant on Stetson Drive has been one of the country's most consistently celebrated Southwestern kitchens since it opened in 2009. The menu changes constantly and leans heavily on Arizona-grown produce — wild greens, roasted local squash, slow-braised short ribs over polenta — paired with a list of Arizona wines (the room sources almost exclusively from in-state producers).

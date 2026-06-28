@@ -8,6 +8,7 @@ latitude: 46.1642
 longitude: -95.0342
 sources:
   - https://en.wikipedia.org/wiki/Eagle_Bend,_Minnesota
+score: 5.4
 ---
 
 Eagle Bend's small main-street core is the natural place to start, if only to get your bearings. It is a modest rural Minnesota town centre, with the practical businesses and quiet pace you expect in dairy country.

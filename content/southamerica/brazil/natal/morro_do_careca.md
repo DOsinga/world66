@@ -9,6 +9,7 @@ latitude: -5.8858
 longitude: -35.1797
 story: >
   The Morro do Careca (Bald Hill) was used as a sandboarding destination for decades before the authorities closed it to protect the vegetation. The closure was controversial at the time but the dune's shape has been noticeably better preserved since. It remains the defining image of Natal — the crescent dune curving down to the sea that you see on every postcard of the city.
+score: 7.5
 ---
 
 The Morro do Careca is a 120-metre-high coastal dune at the southern end of Ponta Negra beach. It is one of the most photographed spots in northeastern Brazil, and its distinctive shape — a white crescent of sand collapsing toward the sea — is the emblem of Natal. Access to the dune itself has been restricted since the 1990s to protect the vegetation on its slopes.

@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Marjanishvili District
 type: poi
+score: 7.7
 ---
 
 Marjanishvili is the neighbourhood on the left bank of the Mtkvari around the metro station of the same name. It has a more local, less polished character than the old town — this is where young Tbilisi professionals live, eat, and drink. The Marjanishvili Theatre is one of the city's main stages; the streets around it are lined with cafes that stay open late.

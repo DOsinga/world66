@@ -6,6 +6,7 @@ tags:
 - market
 title: Dalcahue Market
 type: poi
+score: 7.5
 ---
 
 Dalcahue is one of the best stops for Chilote food and crafts. The waterfront market sells woollens, baskets, carved wood, and the kind of filling local dishes that make sense in a wet climate.

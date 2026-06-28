@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.1985
 longitude: -3.7420
+score: 6.8
 ---
 
 The beach at Grand-Bassam stretches for several kilometres along the Atlantic south of the historic quarter, and on weekends it fills with families from Abidjan making the forty-kilometre trip to the coast. The sand is wide and pale, the surf is strong, and there are beach bars and food stalls operating from simple wooden structures along the shore.

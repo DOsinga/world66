@@ -9,6 +9,7 @@ longitude: -89.0833
 snippet: "17th-century Spanish fort built to repel pirates at the entrance to Lake Izabal"
 story: >
   The Spanish stretched an iron chain across the river here at night to prevent pirate ships from slipping through into the lake. The fort changed hands multiple times to English corsairs — it was sacked and burned twice before the Spanish finally built it strong enough to hold. The dungeons once held prisoners from across the Caribbean.
+score: 8.2
 ---
 
 The Castillo de San Felipe de Lara sits at the narrow passage where the Río Dulce leaves Lake Izabal, a compact stone fortress that has been guarding this strategic bottleneck since 1644. Built by the Spanish to stop English pirates from raiding the cargo warehouses further up the lake, it was repeatedly attacked, burned, and rebuilt over the following century.

@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Moment Bed Bar
 type: poi
+score: 4.8
 ---
 
 A high-end bar just south of the Pearl River in Haizhu district. The "bed bar" concept — with lounge seating arranged around low platforms — makes for an unusually comfortable place to drink. The full restaurant menu features western food with reasonably authentic ingredients. Nightly live bands and frequent events give it a social energy that draws Guangzhou's professional crowd. Take a taxi or car; it's not easy to reach on foot.

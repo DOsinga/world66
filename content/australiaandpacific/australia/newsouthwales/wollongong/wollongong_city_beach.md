@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.4183
 longitude: 150.9042
+score: 7.5
 ---
 
 Wollongong City Beach is the most central of the city's beaches, a broad arc of sand just north of the lighthouse headland with good swimming and an ocean pool at the northern end. The beach is patrolled and far less crowded than Sydney's beaches, making it genuinely usable rather than merely decorative.

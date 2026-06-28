@@ -5,6 +5,7 @@ tags: [things_to_do, shopping, sight]
 snippet: "Craft centre on the city's northern edge producing handmade leather goods"
 latitude: 9.9600
 longitude: 8.8800
+score: 6.7
 ---
 
 Naraguta on the northern outskirts of Jos has a long tradition of leatherwork — the result of a confluence of Fulani cattle-herding country, plateau tanning traditions, and a designated craft village set up by the state government in the 1970s. The result today is a strip of small workshops where you can see leather being cured, dyed, and worked by hand, and buy bags, sandals, belts, cushions, and the regional pouf-style stools straight from the artisans.

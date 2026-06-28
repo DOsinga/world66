@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 28.1960
 longitude: 112.9700
+score: 6.6
 ---
 
 Hunan is one of the major tea-producing provinces in China, and Changsha's teahouse culture reflects this. The city has two distinct tea traditions: the old-style teahouse (chaguan) where regulars come daily to drink, read newspapers, and play chess or mahjong; and the newer bubble tea and premium tea shop culture driven by the city's young urban population and the entertainment industry's presence. Both operate at high density.

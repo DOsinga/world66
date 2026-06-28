@@ -12,6 +12,7 @@ tags:
 - sight
 title: Phajoding Monastery
 type: poi
+score: 7.5
 ---
 
 The best hike from central Thimphu leads up through oak and pine forest to this cluster of temples and retreat cabins at 3600 metres. The ascent takes 2–2.5 hours from the trailhead above Motithang; the return is around 1.5 hours. The trail is well-marked and widely used by both pilgrims and fit tourists. The monastery is active — monks live here year-round — so approach the inner shrine rooms respectfully. The sweeping views of the Thimphu valley from the ridge are the best available without a longer trek.

@@ -1,0 +1,200 @@
+{
+  "round": 3259,
+  "timestamp": "2026-06-13T22:40:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 12.7242,
+      "prior_variance": 0.410328,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 13.6818,
+      "prior_variance": 0.739142,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Zhangjiajie",
+      "path": "asia/china/hunan/zhangjiajie",
+      "prior_score": 7.8361,
+      "prior_variance": 0.205051,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 8.9285,
+      "prior_variance": 0.206234,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 7.5138,
+      "prior_variance": 0.195762,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_score": 8.2175,
+      "prior_variance": 0.217375,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.0692,
+      "prior_variance": 0.18583,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 7.3463,
+      "prior_variance": 0.178711,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 7.4885,
+      "prior_variance": 0.243735,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.8573,
+      "prior_variance": 0.170458,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 5.571,
+      "prior_variance": 0.189413,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 5.3657,
+      "prior_variance": 0.206125,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 5.1186,
+      "prior_variance": 0.169882,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 5.6297,
+      "prior_variance": 0.168933,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 5.4302,
+      "prior_variance": 0.135815,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.0577,
+      "prior_variance": 0.135158,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 1.9375,
+      "prior_variance": 0.156808,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 1.8247,
+      "prior_variance": 0.12302,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 1.8961,
+      "prior_variance": 0.129226,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Kaga",
+      "path": "asia/japan/honshu/kaga",
+      "prior_score": 0.9493,
+      "prior_variance": 0.131023,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 0.8897,
+      "prior_variance": 0.146223,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 0.9154,
+      "prior_variance": 0.127994,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 1.9502,
+      "prior_variance": 0.128419,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 1.0867,
+      "prior_variance": 0.141288,
+      "prior_n": 10
+    }
+  ]
+}

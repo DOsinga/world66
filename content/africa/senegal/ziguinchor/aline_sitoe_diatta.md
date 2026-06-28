@@ -12,6 +12,7 @@ story: >
   capacity to unite the Diola people against colonial taxation and forced labour — she had
   organised resistance across dozens of villages through a combination of prophecy, moral
   authority, and political courage. Senegal has since declared her a national hero.
+score: 4.8
 ---
 
 A roundabout in central Ziguinchor bears the name of Aline Sitoe Diatta, the young Diola woman who led resistance against French colonial rule in the 1940s and became one of Senegal's most revered historical figures. She is sometimes called the "Black Joan of Arc" — the comparison captures something of her story, though she deserves to be known on her own terms.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 Sitting halfway up Morne Fortune on the way out of central Castries, Government House is the official residence of Saint Lucia's Governor-General and a rare survivor of the city's nineteenth-century architecture. The current Victorian building dates from 1895 and is a pretty, gingerbread-trimmed affair painted white and pink.

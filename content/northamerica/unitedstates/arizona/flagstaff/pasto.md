@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.1997
 longitude: -111.6527
+score: 6.0
 ---
 
 Pasto is one of the best Italian restaurants in Flagstaff, operating in a handsome brick building just off Route 66 in the historic downtown. The menu leans toward rustic Italian — handmade pasta, wood-fired dishes, a wine list with genuine depth. The space is warm and narrow, with exposed brick and low lighting; it works well for a dinner where you are not in a hurry.

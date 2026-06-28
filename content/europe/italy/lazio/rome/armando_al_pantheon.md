@@ -3,7 +3,8 @@ address: Salita dei Crescenzi 31, 00186 Rome
 latitude: 41.8987
 longitude: 12.4763
 opening_hours: Mon–Fri 12:30–15:00, 19:00–23:00; Sat 12:30–15:00; closed Sun
-snippet: "Family-run Roman trattoria near the Pantheon, open since 1961"
+score: 8.0
+snippet: Family-run Roman trattoria near the Pantheon, open since 1961
 tags:
 - 3 Days in Rome
 - Katie Parla Rome
@@ -11,6 +12,7 @@ tags:
 - Eater Rome
 - eating_out
 - restaurant
+- campo_de_fiori
 title: Armando al Pantheon
 type: poi
 ---

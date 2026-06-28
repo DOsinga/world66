@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 41.1167
 longitude: 122.0500
+score: 5.9
 ---
 
 The combination of Panjin river crab and Panjin rice is the canonical local meal, and autumn is the time to eat it. The river crabs — fattened through the summer in the estuary's nutrient-rich waters — are at their best from late September through November, when the roe fills and the flesh sweetens. They are served steamed, with small bowls of vinegar, ginger, and sugar for dipping, and the local rice is served alongside or underneath.

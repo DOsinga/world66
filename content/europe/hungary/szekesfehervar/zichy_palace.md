@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 47.1894
 longitude: 18.4106
+score: 6.1
 ---
 
 Zichy Palace (Zichy-kúria) is a Zopf-style 1781 manor house on Jókai utca, built for one of the great Hungarian noble families. The two-storey façade is elegant rather than grand, with shallow pilasters and a low pediment over the central bay, typical of the restrained late-baroque style of the period.

@@ -9,6 +9,7 @@ latitude: 30.0058
 longitude: 122.3856
 story: >
   Mount Putuo is one of the four sacred mountains of Chinese Buddhism, and the only one on an island — which gives it a distinct quality of arrival, approaching by ferry across the East China Sea with the mountain's forested ridgeline rising ahead. Japanese pilgrims have been making the crossing since the ninth century, when the monk Huie is said to have obtained a Guanyin statue in China and attempted to sail home; storm winds repeatedly drove his ship back until he took it as a divine sign to stay.
+score: 9.3
 ---
 
 Putuoshan Island is dedicated almost entirely to Guanyin, the bodhisattva of mercy, and the concentration of temples, shrines, and pilgrimage infrastructure on this small forested island is extraordinary. Three major monasteries — Puji Temple, Fayu Temple, and Huiji Temple — are connected by stone paths through bamboo groves, and dozens of smaller chapels and cave shrines are scattered across the hillsides between them. The largest Buddha statue, a 33-metre bronze figure of Guanyin on the island's southern cape, has become the most-photographed image of the island.

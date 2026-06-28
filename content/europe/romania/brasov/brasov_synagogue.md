@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.3
 ---
 
 The Neolog synagogue on Strada Poarta Schei is one of the prettier 19th-century synagogue buildings in Transylvania — pale pink and yellow stripes, Moorish horseshoe arches, a tall central rose window. It was completed in 1901 by the Viennese architect Leopold Baumhorn, who designed dozens of similar synagogues across the Habsburg lands.

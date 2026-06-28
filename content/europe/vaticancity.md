@@ -10,6 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatic
 latitude: 41.9029
 loc_type: country
 longitude: 12.4534
+score: 0.55
+snippet: World's smallest sovereign state, centred on St Peter's Basilica and the
+  Vatican Museums.
 title: Vatican City
 type: location
 ---

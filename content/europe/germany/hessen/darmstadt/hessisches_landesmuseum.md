@@ -10,6 +10,7 @@ story: >
   The museum's zoological wing contains some of the world's oldest habitat dioramas — carefully arranged displays of taxidermied animals in painted landscape settings, constructed in the 1870s and 1880s. They are themselves historical artefacts, showing what natural history presentation looked like when Darmstadt was a grand-ducal capital with money to spend on spectacle.
 sources:
   - https://en.wikipedia.org/wiki/Hessisches_Landesmuseum_Darmstadt
+score: 8.4
 ---
 
 The Hessisches Landesmuseum is one of the oldest and best multi-disciplinary museums in Germany, occupying a handsome neo-baroque building a short walk from the market square. The collections span medieval art, natural history, zoology, geology, and decorative arts — but the standout is the modern and contemporary art section, which includes a dedicated room of Joseph Beuys installations and a strong collection of German Expressionism.

@@ -14,6 +14,7 @@ story: >
   too large. This turned out to be exactly right: it survived five centuries
   of wars, fires, and art raids intact, and is the finest surviving example
   of late-Gothic carved altarpiece painting in the German-speaking world.
+score: 8.8
 ---
 
 The pilgrimage church at St. Wolfgang am Wolfgangsee is one of the finest Gothic churches in Austria, and the reason the village exists at all. According to tradition, Bishop Wolfgang of Regensburg wandered the shores of this then-empty lake in the 970s CE, threw his axe into the air, and vowed to build a church wherever it landed. The axe landed here. Within a century the church had become a major pilgrimage destination, drawing visitors from across the Holy Roman Empire.

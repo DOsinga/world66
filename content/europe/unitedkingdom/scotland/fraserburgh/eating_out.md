@@ -1,8 +1,9 @@
 ---
 accessibility: off the main street
 price: very reasonable
+score: 2.0
 title: Eating Out in Fraserburgh
-type: poi
+type: section
 ---
 
 what can you do nothing

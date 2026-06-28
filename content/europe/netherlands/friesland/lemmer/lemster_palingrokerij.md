@@ -6,6 +6,7 @@ longitude: 5.7080
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 The small smokehouse on the edge of the old harbour smokes eel and mackerel over alder and oak the way generations of Lemster fishermen have. You can watch the process through the door of the smoking room and buy fish to eat there at a couple of plastic tables or to take away.

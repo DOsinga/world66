@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -10.9667
 longitude: 33.5833
+score: 6.7
 ---
 
 Vwaza is one of the best bird-watching destinations in Malawi, with over 300 species recorded across its mix of wetland, dambo, and woodland habitats. The marshes themselves are the centre of activity: African fish eagles, saddle-billed storks, white-faced whistling ducks, and several heron and egret species are all easy to find around Lake Kazuni.

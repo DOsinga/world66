@@ -8,6 +8,7 @@ tags:
 latitude: 0.3155
 longitude: 32.5817
 snippet: Central statue marking Uganda's independence from Britain in 1962
+score: 6.2
 ---
 
 The Independence Monument stands at the roundabout on Parliament Avenue in central Kampala, marking Uganda's independence from Britain on 9 October 1962. The bronze figure depicts a man breaking free from chains — a straightforward but powerful piece of mid-century nationalist sculpture. It was designed by the Ugandan sculptor Gregory Maloba and unveiled on independence day.

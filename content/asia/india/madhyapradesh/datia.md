@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20111028_-_043_-_Lala_Ka_T
 latitude: 25.918295
 loc_type: city
 longitude: 78.664496
-score: 0.38
+score: 6.39
+snippet: Madhya Pradesh city dominated by Bir Singh Deo Palace, a seven-storey Rajput
+  landmark above town.
 title: Datia
 type: location
 ---

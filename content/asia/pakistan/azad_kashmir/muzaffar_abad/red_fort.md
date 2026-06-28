@@ -8,6 +8,7 @@ latitude: 34.3824
 longitude: 73.4648
 snippet: Mughal-era fortification above the Neelum River confluence
 story: "The Red Fort was built in the 16th century by the Chak dynasty and later extended under Mughal governors. It changed hands repeatedly — between Mughals, Sikhs, Dogra rulers, and Pakistani administration — and bears the marks of each period. The 2005 earthquake caused significant damage to parts of the structure, and restoration has been slow."
+score: 8.1
 ---
 
 The Red Fort — also known as Muzaffarabad Fort — stands on a hill above the confluence of the Jhelum and Neelum rivers, commanding views over both valleys. Built in the 16th century, it is the city's most prominent historical monument and worth climbing to for the views alone.

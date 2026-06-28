@@ -9,6 +9,7 @@ tags:
 latitude: 28.0031
 longitude: 84.6290
 story: "The Gorakhnath Temple is the tutelary shrine of the Shah dynasty. Every Shah king was required to perform rituals here before ascending the throne, and the current Hindu faith of the Nepalese state traces much of its formal identity back to this mountain-top complex."
+score: 7.0
 ---
 
 The Gorakhnath Temple sits within the Gorkha Durbar complex on the hilltop, dedicated to the sage-deity Gorakhnath who is considered the patron deity of the Shah royal family and, by extension, of Nepal itself. The temple's inner sanctum contains a natural rock formation said to be Gorakhnath's footprint, and it remains an active pilgrimage site — you will often find sadhus and devotees on the terraces alongside the tourists and hikers.

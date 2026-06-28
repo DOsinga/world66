@@ -5,6 +5,9 @@ done:
 latitude: 21.5
 loc_type: city
 longitude: -71.52
+score: 7.77
+snippet: Windswept Turks and Caicos fishing island where conch and lobster still shape
+  Cockburn Harbour.
 title: South Caicos
 type: location
 ---

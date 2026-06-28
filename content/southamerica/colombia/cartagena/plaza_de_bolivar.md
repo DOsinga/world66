@@ -7,6 +7,7 @@ tags:
 - sight
 title: Plaza de Bolívar
 type: poi
+score: 7.4
 ---
 
 Plaza de Bolívar is the main square of Cartagena's walled city, a broad, shaded plaza with a statue of Simón Bolívar at its centre and some of the city's most important buildings arranged around it — the Cathedral, the Palace of the Inquisition, and the city hall. Large trees provide shade and the plaza is busy at almost all hours, with vendors, shoe-shiners, couples, tourists, and locals sharing the space.

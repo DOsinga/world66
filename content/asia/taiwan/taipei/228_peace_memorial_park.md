@@ -1,10 +1,12 @@
 ---
-latitude: 25.0420
+latitude: 25.042
 longitude: 121.5151
+score: 7.9
 snippet: Memorial park to the victims of the 1947 February 28 incident
 tags:
 - things_to_do
 - sight
+- zhongzheng
 title: 2-28 Peace Memorial Park
 type: poi
 ---

@@ -11,6 +11,7 @@ story: >
   The mosque was built in 1374–75 by the Aydinoglu beylik, using columns plundered from the Basilica of Saint John on the hill above and from the ancient ruins of Ephesus. Look up as you enter: the two granite columns flanking the great portal came from the baths of the ancient city. The mihrab (prayer niche) is faced with blue Iznik tiles, some of the finest examples to survive from the early Anatolian beylik period.
 sources:
   - https://en.wikipedia.org/wiki/%C4%B0sa_Bey_Mosque
+score: 8.1
 ---
 
 The İsa Bey Mosque, built in 1374–75, is one of the finest examples of Anatolian beylik architecture in Turkey and a rare early example of mosque architecture that predates the Ottoman period. The building is unusual for its symmetrical, double-aisled plan and its courtyard flanked by a portico — influenced by Syrian mosque design but distinctively Anatolian in its details. Much of the stone was spoliated from Ephesus and the Byzantine basilica on the hill above, which makes the building a kind of architectural palimpsest.

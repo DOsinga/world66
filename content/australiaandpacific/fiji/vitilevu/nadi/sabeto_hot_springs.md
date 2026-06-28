@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -17.6960
 longitude: 177.5095
+score: 7.8
 ---
 
 The Sabeto Hot Springs are a chain of geothermal mud pools tucked into the hills about 25 minutes north of Nadi. The standard visit is a half-day: you strip down, wade through a thigh-deep grey mud pool until you are coated head to toe, then progress through a series of progressively warmer hot pools until you are clean and very relaxed.

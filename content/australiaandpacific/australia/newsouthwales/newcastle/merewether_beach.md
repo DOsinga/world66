@@ -7,6 +7,7 @@ tags:
 latitude: -32.9458
 longitude: 151.7728
 snippet: Newcastle's largest ocean beach, with ocean baths and a surf club
+score: 7.6
 ---
 
 Merewether is the broadest and most open of Newcastle's beaches, about 3 kilometres south of the city centre. It is a consistently good surf beach — the waves here are more reliable and powerful than at the more sheltered city beaches — and hosts regular surfing competitions. The Merewether Ocean Baths at the northern end is one of the largest ocean baths in the southern hemisphere: two large saltwater pools carved into the rock platform, heated by the sun, and popular year-round.

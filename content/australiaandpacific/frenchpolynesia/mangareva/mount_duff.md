@@ -12,6 +12,7 @@ story: >
   first settled the island, arriving from the Marquesas or the Society Islands around
   1,000 years ago. The Gambier Islands were among the last habitable Pacific islands
   to be settled, and Mount Duff was the landmark that told them they had arrived.
+score: 8.2
 ---
 
 Mount Duff is the highest peak on Mangareva, rising to 441 metres at the southern end of the island. A trail to the summit takes about 2–3 hours return, through vegetation that changes character as you gain altitude, from coconut palms and breadfruit at the base to more montane scrub higher up. The summit gives panoramic views across the entire Gambier lagoon, the surrounding smaller islands, and — on very clear days — an enormous expanse of open Pacific.

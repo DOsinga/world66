@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -4.773
 longitude: 55.497
+score: 7.1
 ---
 
 Anse Takamaka on Mahe's southwest coast is a quieter alternative to Beau Vallon — a broad sweep of sand sheltered by the island's hills, with calmer water than the exposed southern beaches. The beach is backed by takamaka trees (after which it is named), a species of tropical tree that provides dense shade. A small beach bar operates in season.

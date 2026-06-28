@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lewiston_ID_and_Clarkston_
 latitude: 46.4163
 loc_type: city
 longitude: -117.0456
-score: 0.33
+score: 6.14
+snippet: Snake-Clearwater river town on the Washington-Idaho border, gateway to deep
+  Hells Canyon.
 title: Clarkston
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 50.2611
 longitude: -119.2752
+score: 5.4
 ---
 
 Polson Park is Vernon's central park, a large green space just north of the downtown core along 25th Avenue. The park is best known for its floral clock — a working clock face laid out in bedding plants that is replanted each spring — along with ornamental gardens, a bandshell for summer concerts, and large deciduous trees that make it a good spot to sit on a hot afternoon.

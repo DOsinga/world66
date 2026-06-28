@@ -7,6 +7,7 @@ tags:
 latitude: 8.0648
 longitude: 123.7475
 snippet: "Hill-and-coast city famous for its Christmas Symbols Festival"
+score: 6.1
 ---
 
 Tangub sits at the southern end of the province, on the inland side facing Panguil Bay, with a long stretch of coast and a wedge of mountains immediately behind. The city has earned the title "Christmas Symbols Capital of the Philippines" for its annual December competition, when each of the 55 barangays builds a large-scale lighted Christmas display along the main avenues — well worth a visit if the timing allows.

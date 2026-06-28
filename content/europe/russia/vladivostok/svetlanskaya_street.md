@@ -11,6 +11,7 @@ story: >
   Svetlanskaya Street was the commercial heart of Vladivostok from its founding in the 1860s. During the early 20th century it was lined with the offices of German, British, American, and Japanese trading firms, making it one of the most cosmopolitan streets in the Russian Empire. The street was named after the Russian frigate Svetlana, which was present during the founding of the settlement.
 sources:
   - https://en.wikipedia.org/wiki/Svetlanskaya_Street
+score: 8.0
 ---
 
 Svetlanskaya is Vladivostok's main boulevard — a long waterfront street lined with 19th and early 20th century commercial buildings, interspersed with Soviet-era additions. Walking its length gives the best sense of the city's layered history: the ornate merchant palaces of the late imperial period, the heavier Stalinist buildings of the 1950s, and the glass-and-steel additions of the post-Soviet era.

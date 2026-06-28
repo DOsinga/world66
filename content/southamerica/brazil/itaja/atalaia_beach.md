@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.5
 ---
 
 A wilder beach south of Cabeçudas, reached by a short coastal road and a path. The Atlantic surf is stronger here and the water is colder; locals come for the views from the surrounding cliffs rather than for swimming.

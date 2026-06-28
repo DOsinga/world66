@@ -14,6 +14,7 @@ story: >
   limestone cliff. The family has owned the property continuously for over 500 years.
 sources:
   - https://en.wikipedia.org/wiki/Castle_of_Fre%C3%BFr
+score: 8.4
 ---
 
 The Château de Freyr is a handsome Renaissance manor house set in formal gardens on the left bank of the Meuse, between Waulsort and Dinant. The gardens were designed in the style of Le Nôtre — the same landscape architect responsible for Versailles — with clipped hedgerows, geometric parterres, and orange trees that are centuries old. On a clear summer afternoon, the whole ensemble reflected in the Meuse is one of the more striking views in Belgium.

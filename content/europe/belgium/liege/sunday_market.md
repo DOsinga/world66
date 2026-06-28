@@ -9,6 +9,7 @@ longitude: 5.5680
 snippet: The biggest flea market in Belgium, sprawling along the Meuse quays every Sunday morning
 story: >
   The Liège Sunday market has been growing since the 1960s and now stretches for several kilometres along the Meuse embankments. It is the largest regular outdoor market in Belgium, and possibly in the Benelux region. The mixture of serious antiques dealers, junk vendors, street food stalls, and live music acts is unusual — most large markets are either one or the other, but the Liège marché du dimanche is genuinely democratic.
+score: 7.8
 ---
 
 The Sunday morning market along the Meuse is a Liège institution. It begins early and runs until around two in the afternoon, stretching along the quays from the city centre towards the outer neighbourhoods. The stalls sell everything from second-hand furniture and old tools to fresh bread, grilled meats, vintage clothing, and curiosities of indeterminate origin.

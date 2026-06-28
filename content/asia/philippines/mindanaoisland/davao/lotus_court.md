@@ -1,9 +1,13 @@
 ---
 address: Marco Polo Hotel, CM Recto Avenue, Davao City
+latitude: 7.0702
+longitude: 125.6091
 phone: 63 82 221 0888
+score: 5.5
 tags:
 - eating_out
 - restaurant
+- chinese
 title: Lotus Court
 type: poi
 url: marcopolohotels.scriptmania.com

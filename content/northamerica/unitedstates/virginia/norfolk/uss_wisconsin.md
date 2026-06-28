@@ -7,6 +7,7 @@ latitude: 36.8460
 longitude: -76.2945
 story: >
   The USS Wisconsin was the last battleship to fire its guns in anger, during the Gulf War in 1991. After 45 years of active service across three wars, she was decommissioned and donated to the city of Norfolk. At 270 metres and 58,000 tons fully loaded, she remains one of the largest warships ever built in the United States, and standing on her main deck with the 16-inch gun turrets looming overhead gives a visceral sense of the industrial scale of mid-20th century naval warfare.
+score: 8.5
 ---
 
 The USS Wisconsin is moored at Nauticus on the downtown waterfront and is one of the most impressive things to see in Norfolk. The free tour of the main deck, fantail, and the bridge gives a real sense of the ship's staggering scale. The 16-inch guns could hurl a shell weighing as much as a Volkswagen Beetle some 40km.

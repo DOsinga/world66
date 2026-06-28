@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -28.9078
 longitude: 136.3413
+score: 8.4
 ---
 
 The Oodnadatta Track is a 620-km dirt road through the South Australian outback, running from Marree in the south to Marla on the Stuart Highway. William Creek sits near its midpoint. The track follows the route of the old Ghan railway, which was itself built along ancient Aboriginal trade routes and the line of mound springs fed by the Great Artesian Basin.

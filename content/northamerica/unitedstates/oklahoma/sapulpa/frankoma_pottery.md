@@ -7,6 +7,7 @@ tags:
 latitude: 35.9860
 longitude: -96.0919
 story: "John Frank started the pottery in Norman, Oklahoma in 1933 and moved it to Sapulpa in 1938 to be near the brick-quality clay deposits at Sugar Loaf Hill. The trademark Wagonwheel dinnerware — still in production today — was first introduced in 1942 and became one of the most-recognised American ceramic patterns of the 20th century."
+score: 7.8
 ---
 
 Frankoma is the oldest continuously operating pottery in Oklahoma, founded in 1933 by University of Oklahoma art professor John Frank and run by various owners since the family sold the firm in 1991. The trademark earth-tone glazes and the Wagonwheel dinnerware pattern have made Frankoma a collectors' favourite for decades.

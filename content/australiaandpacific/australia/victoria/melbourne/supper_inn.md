@@ -5,9 +5,11 @@ done:
 latitude: -37.8119
 longitude: 144.9662
 phone: +61 3 9663 4759
+score: 7.4
 snippet: Late-night Chinatown BYO with excellent seafood and spicy tofu
 tags:
 - eating_out
+- cbd
 title: Supper Inn
 type: poi
 ---

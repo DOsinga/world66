@@ -7,6 +7,7 @@ tags:
 - food
 title: “Family Restaurants”
 type: poi
+score: 5.4
 ---
 
 The various establishments known collectively as “family restaurants” are Japan’s answer to the American chain restaurant. Housed in large buildings with substantial parking lots, well lit, and sometimes open twenty-four hours, they bear little resemblance to more traditional Japanese eateries. Given that the traditional Japanese restaurant has a nearly invisible storefront, no parking, and rather limited hours, this is a large part of their appeal.

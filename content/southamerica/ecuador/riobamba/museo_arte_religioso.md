@@ -11,6 +11,7 @@ story: >
   the catastrophic 1797 earthquake, which destroyed the original city of
   Riobamba and forced its entire population to relocate 20 kilometres north to
   the present site. The art inside thus predates the city around it.
+score: 6.8
 ---
 
 The Museo de Arte Religioso occupies the old Convent of the Sisters of the Conception, a colonial building that stands out sharply among Riobamba's largely 19th- and 20th-century architecture. The collection covers three centuries of religious art: paintings in the Quito School style, gilded baroque sculptures, silverwork, jewellery, and processional objects that were once carried through the streets of the now-vanished original city.

@@ -3,11 +3,13 @@ address: Piazza della Signoria, 50122 Florence
 latitude: 43.769143
 longitude: 11.25614
 phone: +39 055 2768325
+score: 9.0
+snippet: Medieval civic palace with tower views over Florence
 tags:
 - things_to_do
 - palace
 - tower
-snippet: Medieval civic palace with tower views over Florence
+- centro_storico
 title: Palazzo Vecchio
 type: poi
 ---

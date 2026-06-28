@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.2082
 longitude: 9.6029
+score: 7.5
 ---
 
 Henrik Ibsen, one of the most influential playwrights in history and the father of modern drama, was born in Skien in 1828. The city maintains a museum complex dedicated to his life, with exhibits at the Skien City Museum and a reconstruction of his childhood home at Venstøp, a farm outside the city where the family lived in reduced circumstances after his father went bankrupt. The exhibits cover his life from Skien to his years of exile in Rome and Munich where he wrote most of his great works.

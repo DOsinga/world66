@@ -7,7 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_de_San_Sebas
 latitude: -9.9306
 loc_type: city
 longitude: -76.2422
-score: 0.44
+score: 6.9
+snippet: Andean valley city known for Kotosh's ancient crossed-hands temple and a
+  mild agricultural setting.
 title: Huánuco
 type: location
 ---

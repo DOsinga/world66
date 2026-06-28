@@ -1,0 +1,200 @@
+{
+  "round": 3302,
+  "timestamp": "2026-06-13T22:44:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 9.2159,
+      "prior_variance": 0.257812,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 2.8318,
+      "prior_variance": 0.200324,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": -0.3441,
+      "prior_variance": 0.140338,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 0.9121,
+      "prior_variance": 0.121509,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -1.6361,
+      "prior_variance": 0.125786,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -1.3957,
+      "prior_variance": 0.132508,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.4426,
+      "prior_variance": 0.116598,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -0.6086,
+      "prior_variance": 0.156347,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -1.0124,
+      "prior_variance": 0.106317,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.8439,
+      "prior_variance": 0.112023,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.9973,
+      "prior_variance": 0.117465,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.7856,
+      "prior_variance": 0.208645,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": -1.7737,
+      "prior_variance": 0.125963,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -2.0213,
+      "prior_variance": 0.125581,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -2.6093,
+      "prior_variance": 0.11449,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -1.9043,
+      "prior_variance": 0.113366,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -3.0759,
+      "prior_variance": 0.14886,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -3.0292,
+      "prior_variance": 0.146747,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -2.9801,
+      "prior_variance": 0.128077,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.368,
+      "prior_variance": 0.161806,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -7.37,
+      "prior_variance": 0.176843,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.3441,
+      "prior_variance": 0.259516,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Dosso",
+      "path": "africa/niger/dosso",
+      "prior_score": -9.7693,
+      "prior_variance": 0.358146,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -10.5393,
+      "prior_variance": 0.633311,
+      "prior_n": 10
+    }
+  ]
+}

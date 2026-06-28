@@ -5,6 +5,7 @@ tags: [things_to_do, shopping, eating_out]
 latitude: 50.4502
 longitude: -104.6130
 story: Saskatchewan's agricultural economy means that the produce at Regina's farmers' market has a directness about its origins that more urban markets cannot always match. The farmers selling here are often growing within 100 kilometres of the city on land that has been farmed by the same families for three or four generations — the social structure of the prairie agricultural economy is visible in who is standing behind the tables.
+score: 7.2
 ---
 
 The Regina Farmers' Market runs on Saturdays year-round (moving indoors to the Brandt Centre in winter) and on Wednesdays in summer. It is the best single place to understand Saskatchewan's food economy: grain farmers selling heritage varieties of wheat and pulse crops, vegetable growers from the market gardens around the city, bakers using local grains, cheesemakers, honey producers, and the Saskatchewan-specific food producers that you won't find in markets further east.

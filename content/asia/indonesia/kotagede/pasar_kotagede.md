@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - market
 - sight
+score: 7.5
 ---
 
 The market in the centre of old Kotagede has run on the same five-day rotation since the Mataram court was founded here in the 16th century. Legi day, falling once every five days in the Javanese calendar, is the busiest — sellers come in from the surrounding villages with vegetables, palm sugar, banana leaves and live chickens, and prices fall as the day wears on.

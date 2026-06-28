@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:19850709012NR_Ilmenau_Rath
 latitude: 50.6839
 loc_type: city
 longitude: 10.9194
+score: 6.95
+snippet: Thuringian Forest university town tied to Goethe, with wooded trails rising
+  from its small centre.
 sources:
 - https://en.wikipedia.org/wiki/Ilmenau
 - https://www.ilmenau.de/en/tourism/discover-experience/kickelhahn/

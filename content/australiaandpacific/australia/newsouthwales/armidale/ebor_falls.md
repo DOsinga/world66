@@ -9,6 +9,7 @@ latitude: -30.4023
 longitude: 152.3416
 sources:
   - https://en.wikipedia.org/wiki/Ebor_Falls
+score: 7.9
 ---
 
 Ebor Falls is a two-tiered waterfall on the Guy Fawkes River, about 70 km east of Armidale on the Waterfall Way — one of the most scenic drives in New South Wales. The upper falls drop about 80 metres into a deep pool, and the lower falls a further 60 metres. A short walking track from the carpark takes you to lookout platforms above both tiers.

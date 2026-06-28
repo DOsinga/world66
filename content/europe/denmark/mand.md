@@ -2,10 +2,15 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
+image: mand.jpg
+image_attribution: Erik Christensen
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mand%C3%B8.Kirkevej_1-3.jpg
 latitude: 55.281233
 loc_type: city
 longitude: 8.555332
-score: 0.48
+score: 6.94
+snippet: Tiny Danish Wadden Sea island reached by a tidal road that floods twice daily.
 title: Mandø
 type: location
 ---

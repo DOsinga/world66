@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.8552
 longitude: -103.6841
+score: 5.9
 ---
 
 The Riverside Discovery Center is a park and small zoo complex on the banks of the North Platte River in central Scottsbluff. It keeps a modest collection of animals including big cats, bears, and native Great Plains species, and the riverside setting makes for a pleasant walk even if you skip the zoo portion.

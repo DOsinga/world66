@@ -14,6 +14,7 @@ story: >
   were already well-regarded when Jacques Cousteau filmed in the Red Sea
   in the 1950s; the Yanbu section has maintained more of that original
   character.
+score: 9.0
 ---
 
 Diving is the main reason most visitors come to Yanbu, and the reefs justify the journey. The Red Sea off Yanbu is less visited than the better-known sites at Jeddah, Aqaba, and Sharm el-Sheikh, which means the coral is in better condition and the fish populations are more intact. Several dive centres operate in the city, offering guided boat dives to specific reef sites as well as equipment hire, PADI courses, and introductory dives for beginners.

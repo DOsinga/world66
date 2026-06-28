@@ -9,6 +9,7 @@ tags:
   - cycling
 title: Ffestiniog Railway
 type: poi
+score: 8.8
 ---
 
 The Ffestiniog Railway runs for 21 km from Porthmadog Harbour station up through the mountains to Blaenau Ffestiniog, climbing over 200 metres through some of the most dramatic scenery in Wales. It is the finest narrow-gauge heritage railway in Britain, and one of the oldest working railways in the world — the line was originally built in 1836 to carry slate from the quarries down to the port.

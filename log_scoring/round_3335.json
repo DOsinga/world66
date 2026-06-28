@@ -1,0 +1,200 @@
+{
+  "round": 3335,
+  "timestamp": "2026-06-13T22:46:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.6077,
+      "prior_variance": 0.155657,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 4.4863,
+      "prior_variance": 0.150631,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 1.784,
+      "prior_variance": 0.31109,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 4.5536,
+      "prior_variance": 0.13272,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 5.7343,
+      "prior_variance": 0.134579,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.1779,
+      "prior_variance": 0.137078,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Andasibe",
+      "path": "africa/madagascar/andasibe",
+      "prior_score": 2.2367,
+      "prior_variance": 0.133527,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 5.0101,
+      "prior_variance": 0.152577,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 4.3423,
+      "prior_variance": 0.148644,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 4.3826,
+      "prior_variance": 0.160082,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.6985,
+      "prior_variance": 0.159504,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 4.1893,
+      "prior_variance": 0.119547,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 5.6301,
+      "prior_variance": 0.159722,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_score": 4.9148,
+      "prior_variance": 0.146461,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 6.3486,
+      "prior_variance": 0.168153,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 2.242,
+      "prior_variance": 0.137336,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 4.0379,
+      "prior_variance": 0.143789,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 4.6383,
+      "prior_variance": 0.11644,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_score": 4.3364,
+      "prior_variance": 0.150067,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Varadero",
+      "path": "northamerica/thecaribbean/cuba/varadero",
+      "prior_score": 4.4691,
+      "prior_variance": 0.150323,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.5789,
+      "prior_variance": 0.129106,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -1.3988,
+      "prior_variance": 0.1246,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -1.387,
+      "prior_variance": 0.129093,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.3257,
+      "prior_variance": 0.191964,
+      "prior_n": 10
+    }
+  ]
+}

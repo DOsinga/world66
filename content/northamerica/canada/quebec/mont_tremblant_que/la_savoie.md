@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.2140
 longitude: -74.5855
+score: 5.8
 ---
 
 La Savoie is one of the better-regarded restaurants in the resort village, specialising in cheese fondue, raclette, and the other rich, warming dishes of the French alpine tradition that feel particularly appropriate in a ski resort. The restaurant doubles down on the mountain-lodge aesthetic — exposed beams, candles, wine by the carafe — and manages to carry it off without feeling forced.

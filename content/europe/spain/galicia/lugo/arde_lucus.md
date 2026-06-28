@@ -12,6 +12,7 @@ story: >
   euros in local income. It was designated a Fiesta of International Tourist Interest in 2023.
 sources:
   - https://en.wikipedia.org/wiki/Arde_Lucus
+score: 7.7
 ---
 
 Arde Lucus is Lugo's annual festival celebrating the city's Roman and Celtic heritage, held in the last weeks of June since 2001. It was created to mark the UNESCO World Heritage designation of the Roman walls and has grown into one of the largest historical reenactment events in Spain. The entire old town is transformed: residents and visitors dress in Roman togas or Celtic clothing, military encampments fill the parks inside the walls, and gladiator fights, chariot races, and Celtic wedding ceremonies are staged across the city.

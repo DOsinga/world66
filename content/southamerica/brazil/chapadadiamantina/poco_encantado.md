@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -12.8000
 longitude: -41.0667
+score: 8.8
 ---
 
 Poço Encantado (Enchanted Pool) is a subterranean lake in a limestone cave near Itaetê, about 2 hours from Lençóis. Between April and September, when the sun angle is right, a beam of natural light enters the cave through a skylight and illuminates the water from below, creating a vivid aquamarine glow that fills the entire cave chamber. The effect lasts for about two hours around midday and is one of the most spectacular natural light phenomena in Brazil.

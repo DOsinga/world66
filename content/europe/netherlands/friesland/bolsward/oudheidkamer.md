@@ -9,6 +9,7 @@ snippet: Local history museum in the historic city hall
 tags:
 - things_to_do
 - museum
+score: 7.3
 ---
 
 The Oudheidkamer (Chamber of Antiquities) is the local history museum of Bolsward, housed in the upper rooms of the Stadhuis. The collection is small but well-arranged: medieval and early-modern artefacts from the town, Frisian silver, ceramics, paintings of local notables, and material related to the great Frisian poet Gysbert Japiks, who lived in Bolsward and is buried in the Martinikerk.

@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Knopf Paul
 type: poi
+score: 6.1
 ---
 
 A button shop — wholesale and retail — with buttons in every conceivable shape, colour, and era. Modern, vintage, novelty, military: if it fastens a garment, Knopf Paul probably stocks it. The sheer volume is mesmerizing, and the staff are happy to help you hunt down exactly what you need.

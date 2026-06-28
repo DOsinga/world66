@@ -1,8 +1,7 @@
 ---
-category: Aquarium
 latitude: -33.9081
 longitude: 18.4181
-neighbourhood: V&A Waterfront
+score: 7.8
 scores:
   activities: 0.61
   sight: 0.595
@@ -10,6 +9,7 @@ scores:
 snippet: Aquarium at the Waterfront showing both the Atlantic and Indian Ocean ecosystems
 tags:
 - things_to_do
+- museum
 - sight
 - victoria__alfred
 - waterfront

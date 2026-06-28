@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.5417
 longitude: -103.4117
+score: 5.4
 ---
 
 Torreón's main square is a decent starting point for understanding the city centre, even if it lacks the grandeur of Mexico's colonial plazas. The cathedral faces the plaza on one side, and the Palacio Municipal closes another — both fairly modest by Mexican standards, which reflects the fact that Torreón was a frontier railway town rather than a seat of colonial power. The square itself has the usual benches, shade trees, and vendors selling snacks.

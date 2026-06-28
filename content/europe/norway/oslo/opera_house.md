@@ -13,6 +13,7 @@ story: >
   create a building that anyone could climb, without fences or entry tickets. On warm evenings,
   several hundred Osloites may be found sitting on the marble roof eating lunch or watching the
   fjord. The building won the Mies van der Rohe Award for European architecture in 2009.
+score: 9.4
 ---
 
 The Oslo Opera House is the defining building of modern Oslo — a white marble structure rising from the Bjørvika waterfront, designed so that visitors can walk across the sloping roof to the ridgeline and look out over the fjord and the city. It houses the Norwegian National Opera and Ballet and is, by any measure, one of the most successful public buildings built in Europe in the 21st century.

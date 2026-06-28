@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 story: "The line of the Decumanus has not shifted in 2,000 years. The Roman engineers laid it out as the east-west axis of Colonia Iulia Parentium in the 1st century BC, and every wall on either side has been rebuilt around its alignment ever since."
+score: 8.1
 ---
 
 The main pedestrian spine of the old town runs west from the Pentagonal Tower at the landward gate to Marafor Square at the tip of the peninsula. It is paved with smooth slabs of polished limestone, narrow enough that you can touch both sides if you stretch, and lined with a mix of Romanesque, Gothic and Venetian Renaissance facades. Many shops still occupy their original medieval premises.

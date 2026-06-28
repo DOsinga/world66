@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Parque de los Deseos
 type: poi
+score: 6.9
 ---
 
 An open public plaza on the north side of the city built around the Planetario de Medellín, the city public library, and the EAFIT university extension. Free outdoor films on Tuesday nights in good weather, public lectures, music recitals on weekends. The square's name — "Park of Wishes" — comes from a permanent installation of astronomical instruments and a sundial at its centre.

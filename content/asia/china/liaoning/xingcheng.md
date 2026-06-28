@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Xingcheng_East_Gate.jpg
 latitude: 40.6148
 loc_type: city
 longitude: 120.7283
+score: 6.67
+snippet: Bohai Sea city with one of China's best-preserved Ming Dynasty walled old
+  towns
 sources:
 - https://en.wikivoyage.org/wiki/Xingcheng
 title: Xingcheng

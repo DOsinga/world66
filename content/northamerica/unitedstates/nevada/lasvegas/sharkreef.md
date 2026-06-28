@@ -1,9 +1,11 @@
 ---
 latitude: 36.0919
 longitude: -115.1765
-snippet: "Walk-through shark tunnel at Mandalay Bay"
+score: 6.0
+snippet: Walk-through shark tunnel at Mandalay Bay
 tags:
 - things_to_do
+- the_strip
 title: Shark Reef Aquarium
 type: poi
 ---

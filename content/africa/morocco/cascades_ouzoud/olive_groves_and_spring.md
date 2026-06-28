@@ -8,6 +8,7 @@ latitude: 31.9983
 longitude: -6.6932
 story: >
   The olive trees around Ouzoud are estimated to be several hundred years old, and the stone olive press — an ancient millstone driven by animal power — still exists at the edge of the groves. Traditional stone-press olive oil has a distinctive flavour compared to modern mechanical pressing, and the oil sold by local families here is still made this way.
+score: 6.5
 ---
 
 About six kilometres east of the falls, through olive groves that shade the path and keep it cool even in summer, lies the source spring of the Ouzoud River — a cold artesian spring that bubbles straight out of the ground. The walk takes about an hour and a half each way and is best done in the morning before the day gets hot.

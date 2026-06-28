@@ -8,6 +8,7 @@ story: >
   Bardolino DOC wine takes its name from the small town on the eastern shore. The wine — light-bodied, dry, made primarily from Corvina grapes — has been produced in the hills above the lake since Roman times. The Consorzio del Bardolino runs a wine museum in the town, and in October the Cantine Aperte festival opens dozens of producers to the public over a weekend.
 sources:
   - https://en.wikipedia.org/wiki/Bardolino
+score: 7.1
 ---
 
 The eastern shore of Lake Garda, between Bardolino and Lazise, is wine country — the hills above the lake are planted with the Corvina, Rondinella, and Molinara grapes that go into Bardolino DOC. The wine is best drunk young and slightly chilled on a hot lakeside afternoon, which is exactly what everyone does.

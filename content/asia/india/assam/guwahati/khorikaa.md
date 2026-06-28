@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.1488
 longitude: 91.7654
+score: 7.5
 ---
 
 The more contemporary face of Assamese food. Khorikaa, in the Six Mile area south of the centre, presents tribal and rural dishes — pork with bamboo shoot, smoked chicken, fish wrapped in plantain leaf, ant chutney — in a polished setting at a price point most foreigners are comfortable with. The decor leans towards bamboo-and-jute folk-craft chic; the food is the real draw.

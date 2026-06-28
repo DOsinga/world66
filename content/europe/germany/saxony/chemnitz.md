@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus_und_Siegerts
 latitude: 50.832353
 loc_type: city
 longitude: 12.918914
-score: 0.43
+score: 6.73
+snippet: Saxon industrial city marked by Karl-Marx-Stadt history and a colossal bronze
+  Marx monument downtown.
 title: Chemnitz
 type: location
 ---

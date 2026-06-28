@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Konark_Sun_Temple_Puri_dis
 latitude: 19.907429
 loc_type: city
 longitude: 86.14202
-score: 0.56
+score: 8.05
+snippet: Odisha temple town famous for its 13th-century Sun Temple, built as a stone
+  chariot.
 title: Konark
 type: location
 ---

@@ -6,6 +6,7 @@ latitude: 10.7300
 longitude: 47.2200
 story: >
   Surud Ad is the highest point in Somalia — and in the self-declared republic of Somaliland — yet it receives almost no visitors. The peak sits in a country most governments advise against visiting, reached by rough tracks from a town that itself takes hours to reach from the coast. The summit offers views to the Gulf of Aden on clear days, a sea visible from perhaps the most inaccessible high point in the Horn of Africa.
+score: 8.6
 ---
 
 At 2,420 metres, Surud Ad is the highest peak in Somalia. The summit ridge rises above the Daallo range north of Erigavo, and on a clear morning you can see the Gulf of Aden shimmering roughly 80 kilometres to the north. The ascent from the Erigavo plateau is not technical — the mountain is not a climber's peak — but the approach requires a vehicle capable of handling badly rutted dirt tracks, and a local guide is strongly advisable given the absence of marked trails and the limited mobile coverage.

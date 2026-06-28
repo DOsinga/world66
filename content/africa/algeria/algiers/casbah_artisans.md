@@ -6,6 +6,7 @@ longitude: 3.0595
 tags:
   - shopping
   - market
+score: 6.7
 ---
 
 The lower Casbah contains the best concentration of traditional Algerian craft shops in the city. Look for copper and brass work (trays, coffee pots, lanterns), hand-knotted carpets from the Kabyle region, handwoven fabric from the M'Zab, embroidered fabric from Constantine, and silver jewellery including the distinctive Kabyle silver bangles and pendants.

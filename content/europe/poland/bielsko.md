@@ -7,13 +7,15 @@ done:
 latitude: 49.8224
 loc_type: city
 longitude: 19.0586
-score: 0.44
+score: 6.83
 title: Bielsko-Biała
 type: location
 image: bielsko.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2021_Bielsko-Bia%C5%82a,_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Stanis%C5%82awa_04.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Marcin Konsek
+snippet: Southern Polish twin city at the Beskid foothills, shaped by textiles, castles,
+  and Austro-Hungarian streets.
 ---
 
 Bielsko-Biała sits at the foot of the Beskid Mountains in southern Poland, a twin city formed from two towns that grew up on opposite banks of the Biała River. Bielsko was the Silesian side, Biała the Galician one, and the cultural seam between them still gives the place an interesting double character. It is a compact, walkable city with a handsome old town, a castle that has served as the local museum for decades, and a surprisingly rich industrial heritage rooted in wool and textiles.

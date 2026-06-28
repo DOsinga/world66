@@ -6,6 +6,7 @@ longitude: 49.1198
 tags:
   - shopping
   - market
+score: 6.0
 ---
 
 Bahetle is the largest Tatarstan-based supermarket chain, with branches across Kazan and a flagship in the centre. The food section is the reason to visit — a long counter of fresh Tatar baked goods (*echpochmak*, *gubadiya*, *chak-chak*), takeaway Tatar dishes, smoked horse-meat sausage by the metre, and a deli with regional cheeses and preserves.

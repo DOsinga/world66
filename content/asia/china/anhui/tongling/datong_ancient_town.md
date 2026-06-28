@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.7800
 longitude: 117.6800
+score: 4.4
 ---
 
 Datong Ancient Town sits about thirty kilometers from central Tongling, a Ming and Qing dynasty river settlement whose commercial streets and dock architecture have survived the wholesale demolition that erased comparable towns across the Yangtze corridor. The town grew as a trading post on a tributary of the Yangtze, and the buildings along its main street were built by merchants conducting the river trade in salt, grain, and goods from the interior.

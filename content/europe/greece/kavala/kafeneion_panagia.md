@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.9353
 longitude: 24.4178
+score: 7.3
 ---
 
 The traditional Greek kafeneion — a coffee house serving strong Greek coffee, ouzo, and simple food — survives in its most authentic form in the Panagia district. These are old-fashioned places: wooden tables, old men playing backgammon, a television in the corner showing football or news. The coffee comes in a small copper briki pot and sits at the bottom of the cup as dense grounds.

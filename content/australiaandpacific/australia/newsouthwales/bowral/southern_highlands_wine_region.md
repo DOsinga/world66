@@ -7,6 +7,7 @@ tags:
 latitude: -34.5000
 longitude: 150.3500
 snippet: Cool-climate wineries producing pinot noir, chardonnay, and sparkling wines around Bowral
+score: 6.4
 ---
 
 The Southern Highlands is one of Australia's cooler wine regions, sitting at elevation and benefiting from maritime influence from the coast to the east. The vineyards clustered around Bowral, Moss Vale, and Sutton Forest produce pinot noir, chardonnay, and sparkling wines that reflect the cooler climate.

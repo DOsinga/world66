@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Tokajcivertanlegi1.jpg
 latitude: 48.123553
 loc_type: city
 longitude: 21.411389
-score: 0.53
+score: 8.13
+snippet: Small Hungarian wine town where the Bodrog and Tisza meet in Tokaji Aszú
+  country
 title: Tokaj
 type: location
 ---

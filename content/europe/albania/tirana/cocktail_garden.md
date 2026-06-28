@@ -8,6 +8,7 @@ tags:
   - bar
   - blloku
 neighbourhood: Blloku
+score: 5.5
 ---
 
 A cocktail bar tucked into a Blloku side street, named for the French film movement and run by a young chef-bartender team who take their drinks seriously. The list rotates seasonally; tropical drinks in summer, smoked and barrel-aged drinks in winter. The crowd is mostly Tirana's design-and-creative scene.

@@ -9,6 +9,7 @@ tags:
 - conservation
 title: Nyaru Menteng Orangutan Sanctuary
 type: poi
+score: 7.1
 ---
 
 The Nyaru Menteng centre, about 30 km north of Palangka Raya, is run by the Borneo Orangutan Survival Foundation and is the largest primate rehabilitation operation in the world. Rescued orphans are housed, taught forest survival skills, and eventually released into protected reserves further into Kalimantan.

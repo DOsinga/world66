@@ -4,6 +4,7 @@ done:
 latitude: -33.909897
 longitude: 18.84814
 title: Overberg
+snippet: "Western Cape region beyond the Hottentots Holland Mountains, where wheat fields meet whale-watching coastline."
 type: location
 score: 0.5
 loc_type: region

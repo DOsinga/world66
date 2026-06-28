@@ -12,6 +12,7 @@ story: >
   population at around 120,000, roughly a third of the entire continent's elephant
   population. At the Chobe River waterfront in the late afternoon, hundreds of elephants
   come to drink simultaneously, a spectacle on a scale that is genuinely hard to process.
+score: 8.8
 ---
 
 Chobe National Park lies about five hours by road north of Maun and is often combined with an Okavango visit as part of a wider northern Botswana circuit. The park covers nearly 11,000 square kilometres and encompasses several distinct ecosystems: the Chobe riverfront in the north, the Savuti marsh in the centre, and the remote Linyanti wetlands in the west.

@@ -7,6 +7,7 @@ tags:
 latitude: 40.9698
 longitude: 9.5503
 snippet: A string of four beaches facing the Tavolara marine reserve, 15km north of Olbia
+score: 7.7
 ---
 
 Porto Istana is a series of four small beaches separated by rocky granite headlands, strung out along the coast about 15km north of Olbia. The beaches face directly toward Tavolara — the great limestone monolith that rises dramatically from the sea — and the snorkelling in the shallow water between the beaches and the island is among the best accessible from land in this part of Sardinia.

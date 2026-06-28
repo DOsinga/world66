@@ -15,6 +15,7 @@ story: >
   black piste back down to Tortin is one of the steepest groomed runs in
   Switzerland — and the off-piste mogul field below the summit is the
   arena for the famous Xtreme Verbier freeride contest each March.
+score: 9.0
 ---
 
 The 3,330-metre summit of Mont Fort is the highest point in the 4 Vallées ski region — a glacier-clad peak reached by cable car in two stages from Les Ruinettes. The summit station has a panoramic terrace, an ice cave, and a small café; on a clear day you can pick out Mont Blanc, the Matterhorn and the Grand Combin from the railing.

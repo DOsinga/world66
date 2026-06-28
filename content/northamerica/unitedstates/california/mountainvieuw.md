@@ -5,7 +5,9 @@ done:
 latitude: 37.389389
 loc_type: city
 longitude: -122.08321
-score: 0.38
+score: 6.14
+snippet: Silicon Valley city home to Google, NASA Ames, Castro Street, and the Computer
+  History Museum.
 title: Mountain View
 type: location
 ---

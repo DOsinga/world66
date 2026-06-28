@@ -8,6 +8,7 @@ tags:
 neighbourhood: Buckhead
 latitude: 33.8413
 longitude: -84.3863
+score: 8.7
 ---
 
 A 33-acre museum complex in Buckhead with permanent exhibits on Atlanta's Civil War and civil rights history, the 1996 Olympics, and Southern folk life. The recently relocated and restored Battle of Atlanta Cyclorama — a 49-foot-tall, 358-foot circular painting of the 1864 battle, originally painted in 1886 — is the standout exhibit.

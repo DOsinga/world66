@@ -7,6 +7,7 @@ tags:
 latitude: 5.1433
 longitude: -60.7625
 story: "Arthur Conan Doyle never visited Roraima, but he read enough explorers' reports to set his 1912 novel The Lost World on a plateau just like it — a sealed prehistoric refuge of dinosaurs and unknown plants. The endemic carnivorous pitcher plants on the summit are at least real."
+score: 10.0
 ---
 
 Mount Roraima is the giant of the Pacaraima tepuis, a 31-square-kilometre sandstone plateau standing at 2,810 metres where Venezuela, Brazil, and Guyana meet. The summit is permanently in cloud for most of the year, and from below the cliffs appear and disappear behind shifting white walls. The rock is some of the oldest exposed material on Earth — close to two billion years.

@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Towneley Hall
 type: poi
+score: 8.4
 ---
 
 Towneley Hall is a 14th-century country house on the southern edge of Burnley, now run as a free public art gallery and museum by the council. The building has been continuously modified over six centuries, with Gothic, Elizabethan, and later additions layered onto the medieval core, making the architecture itself a kind of historical document.

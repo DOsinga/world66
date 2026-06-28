@@ -12,6 +12,7 @@ story: >
   and replanting native vegetation — essentially rewinding the ecological clock. Giant Aldabra tortoises
   introduced as ecological replacements for the extinct Mauritian giant tortoises now roam freely.
   The project aims to recreate what Mauritius looked like before humans arrived.
+score: 8.5
 ---
 
 Île aux Aigrettes is a small coral island about 1 kilometre offshore from Mahébourg, accessible by a 15-minute boat transfer from the waterfront. The island is being actively restored to its pre-human state by the Mauritian Wildlife Foundation, making it one of the most ambitious ecological restoration projects in the Indian Ocean.

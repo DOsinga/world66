@@ -12,6 +12,7 @@ story: >
   At its peak in the 18th century, Borkum sent dozens of whaling ships north each summer, and the 
   island's economy depended on the whale oil trade. The industry collapsed as whale populations 
   crashed and petroleum replaced oil as a fuel source.
+score: 7.1
 ---
 
 The Dykhus sits on a small mound just metres from the Old Lighthouse, in the historic whaling quarter of Borkum. Its name refers to the dike at whose foot it stands — one of the earliest dikes built on the island. Inside, the museum traces Borkum's history from its earliest settlement through the whaling era and into the modern age as a North Sea health resort.

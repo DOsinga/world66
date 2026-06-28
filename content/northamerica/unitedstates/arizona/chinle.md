@@ -5,7 +5,9 @@ done:
 latitude: 36.150143
 loc_type: city
 longitude: -109.567069
-score: 0.49
+score: 7.73
+snippet: Navajo Nation service town beside Canyon de Chelly, where red sandstone walls
+  shelter cliff dwellings and rock art
 title: Chinle
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.532
 longitude: -44.294
+score: 6.0
 ---
 
 The ferry terminal on the São Luís waterfront is the departure point for boats to Alcântara across the bay, and also for boat tours of the bay of São Marcos. The terminal building itself is unremarkable, but the quayside around it is lively in the mornings when the Alcântara ferries depart and fishermen bring in their overnight catches.

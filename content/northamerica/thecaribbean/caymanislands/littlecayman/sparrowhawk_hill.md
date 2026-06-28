@@ -7,6 +7,7 @@ tags:
   - viewpoint
 latitude: 19.6833
 longitude: -80.0333
+score: 5.2
 ---
 
 Sparrowhawk Hill is the highest point on Little Cayman — a modest 12 metres above sea level. On an island this flat, that is enough to qualify as a viewpoint, and it gives a wider sense of the island's shape and the surrounding reef pattern than anywhere at sea level.

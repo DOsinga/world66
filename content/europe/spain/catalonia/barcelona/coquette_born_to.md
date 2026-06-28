@@ -4,9 +4,11 @@ email: coquettecollection@yahoo.com
 latitude: 41.3847
 longitude: 2.183
 phone: +34 933192976
+score: 4.5
 snippet: Curated women's fashion boutique in the Born quarter
 tags:
 - shopping
+- el_born
 title: Coquette, Born to Be Beautiful
 type: poi
 url: www.coquettebcn.com

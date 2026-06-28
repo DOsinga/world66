@@ -4,6 +4,7 @@ type: poi
 tags: [beaches]
 latitude: -16.5006
 longitude: -39.0626
+score: 6.7
 ---
 
 Parracho sits just south of Mucugê and shares its character: a long sandy strip backed by *barracas*, palms, and low cliffs. The crowd is slightly younger and the music a notch louder; the bars hire out parasols and serve full meals from morning until sunset.

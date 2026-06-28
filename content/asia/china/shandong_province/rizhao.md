@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Rizhao1.jpg
 latitude: 35.4158
 loc_type: city
 longitude: 119.5271
+score: 6.45
+snippet: Shandong beach city facing the Yellow Sea, known for sunrise shores and water-sports
+  infrastructure.
 sources:
 - https://en.wikivoyage.org/wiki/Rizhao
 title: Rizhao

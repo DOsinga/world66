@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, stare_mesto]
 latitude: 48.1400
 longitude: 17.1000
 story: The Great Neolog Synagogue, completed in 1893, was one of the largest synagogues in Europe, with seats for 3,000 worshippers. It survived the Nazi occupation but was demolished in 1969 by the communist authorities to make way for the SNP bridge approach road. The memorial occupies the spot where the synagogue stood, within view of the bridge that replaced it.
+score: 6.7
 ---
 
 The Neolog Synagogue Memorial marks the site of the Great Synagogue of Bratislava, a massive Moorish-revival building completed in 1893 that served the city's large Neolog (Reform) Jewish community. The building survived the Second World War intact but was demolished in 1969 when the communist government built the approach road to the SNP bridge — destroying most of the historic Jewish quarter in the process.

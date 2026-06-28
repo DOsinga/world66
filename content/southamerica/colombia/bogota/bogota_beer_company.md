@@ -8,6 +8,7 @@ tags:
 latitude: 4.6647
 longitude: -74.0521
 snippet: "Popular craft-beer chain, best in the Zona T, with a wide range of Colombian craft beers"
+score: 5.6
 ---
 
 Bogotá Beer Company (BBC) pioneered craft beer in Colombia in the early 2000s and remains the most visible craft beer brand in the city. The Zona T location is busy and loud, with indoor and outdoor seating. The house beers — Chapinero Porter, Monserrate Roja, Candelaria Cream Ale — are well made and considerably more interesting than the national lager alternatives.

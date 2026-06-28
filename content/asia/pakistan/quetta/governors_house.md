@@ -7,6 +7,7 @@ tags:
 - historic
 title: Governor's House
 type: poi
+score: 6.1
 ---
 
 The Governor's House on Zarghun Road, known historically as the Quetta Residency, is the most substantial surviving piece of British colonial architecture in the city. The sandstone building was the administrative centre of the British Political Agent in Balochistan and later became the governor's official residence after independence. Parts of the structure date to the period of reconstruction following the 1935 earthquake that destroyed much of British Quetta.

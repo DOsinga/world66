@@ -1,0 +1,200 @@
+{
+  "round": 2481,
+  "timestamp": "2026-06-13T21:45:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 2.8343,
+      "prior_variance": 0.160373,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 1.6946,
+      "prior_variance": 0.17003,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.6293,
+      "prior_variance": 0.159832,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Quanzhou",
+      "path": "asia/china/fujianprovince/quanzhou",
+      "prior_score": 0.3146,
+      "prior_variance": 0.159138,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": 0.0744,
+      "prior_variance": 0.166105,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -1.7765,
+      "prior_variance": 0.181413,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.3715,
+      "prior_variance": 0.16479,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -1.0926,
+      "prior_variance": 0.157746,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.5598,
+      "prior_variance": 0.189341,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -1.3069,
+      "prior_variance": 0.198732,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.4291,
+      "prior_variance": 0.15105,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -1.3739,
+      "prior_variance": 0.174573,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_score": -2.857,
+      "prior_variance": 0.405329,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -1.2986,
+      "prior_variance": 0.184812,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -2.5116,
+      "prior_variance": 0.169558,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Erlian",
+      "path": "asia/china/innermongolia/erlian",
+      "prior_score": -6.0503,
+      "prior_variance": 0.232285,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -5.4619,
+      "prior_variance": 0.219995,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.6306,
+      "prior_variance": 0.197022,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -7.8347,
+      "prior_variance": 0.317428,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -6.1211,
+      "prior_variance": 0.193412,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.7416,
+      "prior_variance": 0.374478,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -5.7654,
+      "prior_variance": 0.198859,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.5139,
+      "prior_variance": 0.223056,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -6.6548,
+      "prior_variance": 0.305127,
+      "prior_n": 8
+    }
+  ]
+}

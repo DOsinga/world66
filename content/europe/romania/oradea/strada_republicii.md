@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: Pedestrian corso lined with Art Nouveau palaces and cafes
+score: 8.5
 ---
 
 Strada Republicii is Oradea's main pedestrian street, running north from the river to the Petőfi Park, and it concentrates the city's best Art Nouveau architecture in a single ten-minute walk. The Stern, Moskovits and Apollo palaces all face onto it, along with half a dozen lesser-known but equally elaborate Secessionist buildings.

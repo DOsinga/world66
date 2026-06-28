@@ -9,6 +9,7 @@ story: The monument was so controversial when unveiled in 1967 — too abstract 
   the conservatives, not abstract enough for the modernists — that the sculptor
   added a bust of Sibelius beside it as a compromise. Both pieces now stand together
   in a park overlooking the bay.
+score: 6.8
 ---
 
 Eila Hiltunen's 1967 monument to Jean Sibelius, in a small park on the Töölö Bay. Six hundred hollow steel tubes welded into a wave-shaped structure that — depending on which side you stand on — looks like organ pipes, ice, or a cresting wave. A separate cast bronze bust of the composer sits beside it.

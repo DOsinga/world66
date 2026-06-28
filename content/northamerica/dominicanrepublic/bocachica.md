@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Boca_Chica_RD_12_2017_6442
 latitude: 18.4539
 loc_type: city
 longitude: -69.6103
-score: 0.46
+score: 6.97
+snippet: Beach town east of Santo Domingo, known for its shallow reef-protected lagoon
+  and lively local weekends.
 title: Boca Chica
 type: location
 ---

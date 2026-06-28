@@ -3,10 +3,12 @@ address: Calle Trocadero, between Calles Zulueta and Monserrate
 latitude: 23.1381
 longitude: -82.3584
 phone: 7/861-3856
-snippet: "Cuba's premier art museum with European and Latin American collections"
+score: 9.3
+snippet: Cuba's premier art museum with European and Latin American collections
 tags:
 - things_to_do
 - museum
+- centro_habana
 title: Museo Nacional de Bellas Artes
 type: poi
 url: www.museonacional.cult.cu

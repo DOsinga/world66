@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 8.3921
 longitude: 76.9793
+score: 5.9
 ---
 
 Behind the tourist strip there are a handful of local restaurants — sometimes called "meals hotels" in Kerala — that serve the traditional Kerala sadya-style lunch: rice, sambar, rasam, thorans (stir-fried vegetables with coconut), avial (mixed vegetables in yogurt and coconut), papad, and a small piece of fish or pickle. These are served on banana leaves and eaten with your right hand. The price is a quarter of what the cliff-top restaurants charge.

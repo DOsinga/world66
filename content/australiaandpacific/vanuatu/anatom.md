@@ -5,7 +5,9 @@ done:
 latitude: -20.193761
 loc_type: city
 longitude: 169.825176
-score: 0.43
+score: 7.25
+snippet: Remote southern Vanuatu island of forested mountains, clear rivers, reefs,
+  and Mystery Island's white sand.
 sources:
 - https://en.wikipedia.org/wiki/Anatom_Airport
 - https://en.wikipedia.org/wiki/Mystery_Island_(Vanuatu)

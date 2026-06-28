@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-03'
+image: devonport.jpg
+image_attribution: DXR
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg
 latitude: -36.829731
 loc_type: city
 longitude: 174.797538
-score: 0.54
+score: 7.93
+snippet: Auckland harbourside village with Victorian shops, volcanic viewpoints, and
+  old military tunnels
 title: Devonport
 type: location
-image: devonport.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Auckland_Skyline_as_seen_from_Devonport_20100128_3.jpg
-image_license: CC BY-SA 4.0
-image_attribution: DXR
 ---
 
 Devonport is a charming harbourside village on the North Shore peninsula, easily reached by a 12-minute ferry from downtown [Auckland](/australiaandpacific/newzealand/north_island/auckland_region/auckland). [Victoria Road](/australiaandpacific/newzealand/north_island/auckland_region/devonport/victoria_road) is lined with Victorian buildings housing cafes, bookshops and small galleries, and the whole place has a relaxed, slightly old-fashioned feel that contrasts nicely with the city across the water.

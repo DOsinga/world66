@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 23.8513
 longitude: 72.1212
+score: 6.9
 ---
 
 A library and manuscript repository named after Hemachandra, the 12th-century Jain polymath who tutored the Solanki king Kumarapala and effectively made Patan one of the great centres of Jain learning in India. The collection of palm-leaf and paper manuscripts is one of the most important in the world for Jain studies, with works on philosophy, grammar, astronomy, and medicine in Sanskrit, Prakrit and Apabhramsa.

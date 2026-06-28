@@ -6,6 +6,7 @@ latitude: 47.1907
 longitude: 18.4106
 story: >
   When the Hiemer-Font-Caraffa block was restored in 2012, the conservators discovered painted ceilings, rococo stuccowork, and 18th-century wallpaper that had been hidden for two centuries under layers of plaster. The whole complex is now used as a cultural centre.
+score: 6.7
 ---
 
 The Hiemer House is the most flamboyant building in the centre of Székesfehérvár, a rococo townhouse on Oskola utca with a richly painted façade in pinks and creams. The building is in fact a 19th-century knitting together of three older houses — Hiemer, Font, and Caraffa — and the recently restored interiors include painted ceilings, period staircases, and a courtyard you can walk through.

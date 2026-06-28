@@ -1,9 +1,11 @@
 ---
+latitude: 4.4697
+loc_type: region
+longitude: 101.3808
+snippet: Cool Malaysian highland region of tea plantations, mossy forest walks, and
+  strawberry farms
 title: Cameron Highlands
 type: location
-loc_type: region
-latitude: 4.4697
-longitude: 101.3808
 ---
 
 The Cameron Highlands rise from Malaysia's central mountain spine, a tableland of tea plantations, strawberry farms, and cool highland air sitting roughly 1,500 metres above the heat of the peninsula below. For Malaysians the highlands are the classic escape from the lowland heat — a place to breathe cooler air, eat steamboat hotpot in the evenings, and pick strawberries. For foreign visitors it can come as a surprise: the views across the rolling green rows of tea bushes are genuinely beautiful, and the walks into the surrounding mossy forest go places that feel far removed from the busy market towns in the valleys.

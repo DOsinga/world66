@@ -7,6 +7,7 @@ tags:
 latitude: 33.7456
 longitude: 75.2203
 story: "Built in the mid-8th century by King Lalitaditya Muktapida of the Karkota dynasty, the temple was a sprawling colonnaded complex dedicated to Surya, the sun. It was destroyed in the early 15th century on the orders of Sultan Sikandar Butshikan — \"Sikandar the iconoclast\" — and the rubble still gives a vivid sense of the scale of what once stood."
+score: 9.5
 ---
 
 The Martand Sun Temple sits on a plateau at Mattan, about 9 km northeast of Anantnag town, with a sweeping view over the Kashmir Valley. Even in ruin it is the most important early medieval monument in Kashmir — a Kashmiri-Hindu architectural style with trefoil arches, pediments, and a peristyle of 84 columns enclosing the main shrine.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: 11-block linear park through downtown — originally a firebreak
+score: 6.8
 ---
 
 A long strip of grass running 11 blocks through the heart of downtown — eleven blocks long and one block wide, with a paved path down the middle. It was created in 1923 as a firebreak between the original townsite and the woods to the south. The 9/11 memorial, the Veterans Memorial, and an unusual sundial that uses your shadow to tell the time are all here.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Duche-Uzes.JPG
 latitude: 44.0121
 loc_type: city
 longitude: 4.4197
-score: 0.57
+score: 8.16
+snippet: Restored Gard town north of Nîmes, with medieval lanes, Renaissance squares,
+  and the ducal residence.
 title: Uzès
 type: location
 ---

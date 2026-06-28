@@ -10,6 +10,7 @@ tags:
 title: Shirdak - Central Asian Carpets & Textiles
 type: poi
 url: https://www.theninestreets.com/shirdak-amsterdam.html
+score: 7.1
 ---
 
 A gallery specialising in nomad textiles and felt carpets from Central Asia. Owner Marianne Tuerlings makes regular buying trips to Eastern Europe and Central Asia, bringing back ikat coats, Miao minority embroidery, suzanis, and shirdak felt carpets. The pieces are carefully chosen and tend to be the real thing rather than tourist-market reproductions.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -5.411
 longitude: -78.756
+score: 5.8
 ---
 
 Santa Rosa's small central plaza is the social hub of the town and the best place to get a sense of daily life here. As district capital, the town has a municipal building and a church facing the square, giving it a bit more civic weight than its size might suggest.

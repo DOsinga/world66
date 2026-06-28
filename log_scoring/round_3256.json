@@ -1,0 +1,200 @@
+{
+  "round": 3256,
+  "timestamp": "2026-06-13T22:40:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 12.1226,
+      "prior_variance": 0.485346,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 5.2846,
+      "prior_variance": 0.16059,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 4.8923,
+      "prior_variance": 0.151187,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.5681,
+      "prior_variance": 0.13241,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 1.1948,
+      "prior_variance": 0.122057,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 2.0395,
+      "prior_variance": 0.137588,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_score": 1.5837,
+      "prior_variance": 0.129928,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa",
+      "prior_score": 1.0679,
+      "prior_variance": 0.11764,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.6192,
+      "prior_variance": 0.118633,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.3889,
+      "prior_variance": 0.11568,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.5571,
+      "prior_variance": 0.157477,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 1.5315,
+      "prior_variance": 0.164643,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 0.7203,
+      "prior_variance": 0.160349,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 0.9264,
+      "prior_variance": 0.138856,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.8257,
+      "prior_variance": 0.125881,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": -0.2022,
+      "prior_variance": 0.13509,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -1.06,
+      "prior_variance": 0.114272,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -2.1629,
+      "prior_variance": 0.143175,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": -1.2524,
+      "prior_variance": 0.129593,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -0.8893,
+      "prior_variance": 0.135604,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -3.0546,
+      "prior_variance": 0.131246,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -2.7784,
+      "prior_variance": 0.356817,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -4.322,
+      "prior_variance": 0.135812,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_score": -7.8514,
+      "prior_variance": 0.323403,
+      "prior_n": 10
+    }
+  ]
+}

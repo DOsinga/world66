@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sport]
 latitude: -36.3748
 longitude: 145.4065
+score: 5.9
 ---
 
 Aquamoves is Shepparton's main aquatic and recreation centre — a large indoor-outdoor facility with pools, a gym, group fitness classes, and a waterslide. It's the kind of facility most regional cities would envy.

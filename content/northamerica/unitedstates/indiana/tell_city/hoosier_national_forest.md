@@ -10,6 +10,7 @@ longitude: -86.6500
 story: "At over 200,000 acres, Hoosier National Forest is the largest stretch of public land in Indiana — but the trees you see are mostly second-growth. By the early 20th century the area had been clear-cut and farmed out; the Federal government bought back the eroded land in the 1930s and let the hardwoods come back."
 sources:
   - https://en.wikipedia.org/wiki/Hoosier_National_Forest
+score: 8.1
 ---
 
 The Hoosier National Forest spreads across the hills immediately north of Tell City, and the town is one of the best bases for exploring it. The forest covers more than 200,000 acres of oak-hickory hills, sandstone outcrops, and small lakes — the most rugged country in southern Indiana.

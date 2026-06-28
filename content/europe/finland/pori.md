@@ -11,7 +11,9 @@ image_source: https://www.flickr.com/photos/65608474@N03/51839774153
 latitude: 61.4866
 loc_type: city
 longitude: 21.7972
-score: 0.45
+score: 7.07
+snippet: Western Finnish river city near the Bothnian coast, known for Yyteri beach
+  and its jazz festival.
 title: Pori
 type: location
 ---

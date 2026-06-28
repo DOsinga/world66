@@ -9,6 +9,7 @@ tags:
   - bar
 title: O Por do Som
 type: poi
+score: 4.6
 ---
 
 A relaxed bar tucked into the curve below Vila do Conde's castle walls. The terrace catches the evening sun and the atmosphere stays mellow — a good spot to wind down with a glass of wine or a gin and tonic after a day exploring town. Live music on some weekends.

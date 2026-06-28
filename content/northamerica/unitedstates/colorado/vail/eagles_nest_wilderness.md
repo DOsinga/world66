@@ -8,6 +8,7 @@ latitude: 39.7100
 longitude: -106.3200
 story: >
   The Eagles Nest Wilderness, designated in 1976, takes its name from a prominent peak visible from Vail. The area is home to elk, black bear, mule deer, and the occasional mountain lion — you are genuinely in wild country once you leave the main valley trails behind.
+score: 8.4
 ---
 
 The Eagles Nest Wilderness area rises immediately behind Vail, covering nearly 60,000 hectares of the Gore Range and the Williams Fork Mountains. Access points are scattered throughout the valley, including trailheads at the east end of Vail Village and at various points along Interstate 70. The terrain is steep and dramatic: granite ridges, high alpine lakes, and dense conifer forest below the timberline.

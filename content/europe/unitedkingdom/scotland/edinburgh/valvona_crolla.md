@@ -1,14 +1,15 @@
 ---
-title: Valvona and Crolla
-type: poi
-tags:
-  - eating_out
-  - new_town
-  - restaurant
-  - market
 address: 19 Elm Row, Edinburgh EH7 4AA
 latitude: 55.9583
 longitude: -3.1827
+score: 8.0
+tags:
+- eating_out
+- newtown
+- restaurant
+- market
+title: Valvona and Crolla
+type: poi
 ---
 
 Valvona and Crolla is Edinburgh's most celebrated Italian delicatessen and café, operating from the same premises in Elm Row since 1934. The front shop is a serious Italian food shop — Parmigiano-Reggiano in the wheel, a wine cellar with several hundred Italian labels, olive oils, pasta, cured meats, truffle products, the kind of stock that still surprises even regular visitors. The back café opens for breakfast and lunch and serves some of the best Italian food in Edinburgh.

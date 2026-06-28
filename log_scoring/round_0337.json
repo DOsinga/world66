@@ -1,200 +1,200 @@
 {
   "round": 337,
-  "timestamp": "2026-04-12T09:12:22",
+  "timestamp": "2026-06-13T19:30:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mal\u00e9 Atoll",
-      "path": "asia/maldives/male_atoll",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 12.0062,
+      "prior_variance": 8.644741,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Chamonix",
-      "path": "europe/france/alpes/chamonix",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 13.835,
+      "prior_variance": 3.872723,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Barbados",
-      "path": "northamerica/barbados",
-      "prior_mu": 25.2992,
-      "prior_sigma": 6.0674,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 8.5609,
+      "prior_variance": 2.893553,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Salzburg",
-      "path": "europe/austria/salzburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 10.119,
+      "prior_variance": 2.706231,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Aix en Provence",
-      "path": "europe/france/midi_1/provence/aix_en_provence",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 6.9893,
+      "prior_variance": 2.201505,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Agropoli",
-      "path": "europe/italy/campania/agropoli",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 5.4445,
+      "prior_variance": 1.967789,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Salerno",
-      "path": "europe/italy/campania/salerno",
-      "prior_mu": 23.2422,
-      "prior_sigma": 5.8818,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 8.2811,
+      "prior_variance": 2.362248,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Glen Canyon",
-      "path": "northamerica/unitedstates/utah/glencanyon",
-      "prior_mu": 22.4945,
-      "prior_sigma": 4.8982,
-      "prior_n": 2
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 1.5295,
+      "prior_variance": 1.70649,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "St. Augustine",
-      "path": "northamerica/unitedstates/florida/st_augustine",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 4.1273,
+      "prior_variance": 1.859517,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Eger",
-      "path": "europe/hungary/eger",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": -0.7104,
+      "prior_variance": 1.496129,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Lleyn Peninsula",
-      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.445,
+      "prior_variance": 1.861157,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Bour",
-      "path": "europe/faroeislands/vagar/bour",
-      "prior_mu": 22.0442,
-      "prior_sigma": 4.8481,
-      "prior_n": 2
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 1.2132,
+      "prior_variance": 1.854371,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Cape May",
-      "path": "northamerica/unitedstates/newjersey/cape_may",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.1155,
+      "prior_variance": 1.850007,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Salamis",
-      "path": "asia/cyprus/northerncyprus/salamis",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 4.684,
+      "prior_variance": 1.778246,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Nanyuki",
-      "path": "africa/kenya/centralhighlands/nanyuki",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 3.687,
+      "prior_variance": 2.315065,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Sagay City",
-      "path": "asia/philippines/negrosisland/sagay_city",
-      "prior_mu": 22.4476,
-      "prior_sigma": 5.9031,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 4.302,
+      "prior_variance": 1.752566,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Palanga",
-      "path": "europe/lithuania/palanga",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -4.0054,
+      "prior_variance": 1.723735,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Bogor",
-      "path": "asia/indonesia/java/bogor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -3.6517,
+      "prior_variance": 1.687489,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Udon Thani",
-      "path": "asia/thailand/udonthani",
-      "prior_mu": 22.7228,
-      "prior_sigma": 5.9499,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -2.0967,
+      "prior_variance": 1.319649,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Payyanur",
-      "path": "asia/india/kerala/payyanur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -3.3347,
+      "prior_variance": 2.152296,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Ybor City",
-      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
-      "prior_mu": 21.8558,
-      "prior_sigma": 4.8205,
-      "prior_n": 2
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -4.6339,
+      "prior_variance": 1.491359,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "seal beach ca",
-      "path": "northamerica/unitedstates/california/seal_beach_ca",
-      "prior_mu": 21.3182,
-      "prior_sigma": 5.4971,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -11.2438,
+      "prior_variance": 3.367444,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "New Iberia",
-      "path": "northamerica/unitedstates/louisiana/newiberia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -5.2477,
+      "prior_variance": 1.786675,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Worthington",
-      "path": "northamerica/unitedstates/ohio/worthington",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -8.085,
+      "prior_variance": 1.813723,
+      "prior_n": 1
     }
   ]
 }

@@ -1,11 +1,13 @@
 ---
 latitude: 25.0359
-longitude: 121.4990
-snippet: The old "Snake Alley" night market beside Longshan Temple
+longitude: 121.499
+score: 6.4
+snippet: Old "Snake Alley" night market beside Longshan Temple
 tags:
 - things_to_do
 - shopping
 - market
+- wanhua
 title: Huaxi Street Night Market (Snake Alley)
 type: poi
 ---

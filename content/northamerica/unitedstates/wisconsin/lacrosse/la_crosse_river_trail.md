@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.81858
 longitude: -91.25653
+score: 7.5
 ---
 
 The La Crosse River State Trail follows the old Milwaukee Road railroad corridor for 22 miles from the Mississippi River at La Crosse east to Sparta, where it connects to the Elroy-Sparta State Trail — one of the first rail-to-trail conversions in America. The combined route runs nearly 60 miles through rolling Wisconsin farmland and wooded river valleys, making it one of the better cycling routes in the state.

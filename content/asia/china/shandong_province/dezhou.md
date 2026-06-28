@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dezhou_Xinhu_view_from_Die
 latitude: 37.451
 loc_type: city
 longitude: 116.31
+score: 5.71
+snippet: Shandong transit city on old canal and rail routes, known across China for
+  braised chicken
 sources:
 - https://en.wikivoyage.org/wiki/Dezhou
 title: Dezhou

@@ -8,6 +8,7 @@ tags:
 latitude: 29.0987
 longitude: 75.9643
 snippet: "Brick-built southern gate of the medieval walled town, in use since the 13th century"
+score: 7.1
 ---
 
 Barsi Gate is the most photogenic of the five surviving city gates that mark the old walled limits of Hansi. It guarded the southern road to Barsi (in present-day Bhiwani district) and is one of the oldest standing structures in town, dating in its present form to the early thirteenth-century Sultanate period with later Mughal repairs.

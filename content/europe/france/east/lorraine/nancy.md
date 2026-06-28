@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Place_Stanislas_et_ses_gri
 latitude: 48.693722
 loc_type: city
 longitude: 6.18341
-score: 0.57
+score: 8.37
+snippet: Former ducal city in Lorraine, centered on gilded Place Stanislas and graceful
+  Art Nouveau streets.
 title: Nancy
 type: location
 ---

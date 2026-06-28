@@ -4,7 +4,9 @@ done:
 latitude: 26.077495
 loc_type: city
 longitude: 119.291821
-score: 0.47
+score: 6.99
+snippet: Fujian capital on the Min River, shaped by ancient lanes, banyan trees, and
+  overseas trade
 sources:
 - https://en.wikipedia.org/wiki/Fuzhou
 title: Fuzhou

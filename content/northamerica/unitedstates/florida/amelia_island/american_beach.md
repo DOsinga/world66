@@ -9,6 +9,7 @@ latitude: 30.5733
 longitude: -81.4461
 story: >
   American Beach was established in 1935 by A.L. Lewis, the first Black millionaire in Florida, who bought the land specifically to give Black Floridians access to a beach during segregation. It remained the primary Atlantic beach destination for Black Floridians for decades, reaching its peak in the 1950s before integration opened other options. The community is now listed on the National Register of Historic Places.
+score: 8.4
 ---
 
 American Beach is a historic African American beach community tucked into the southern portion of Amelia Island, about eight miles from Fernandina Beach. During the Jim Crow era, when most Florida beaches were effectively off-limits to Black visitors through legal segregation and social intimidation, American Beach provided a safe and celebrated alternative — complete with the hotels, nightclubs, and restaurants that other resort communities had.

@@ -9,6 +9,7 @@ longitude: 0.7192
 sources:
   - https://en.wikipedia.org/wiki/Bury_St_Edmunds_Abbey
 story: "In November 1214, England's barons gathered at the Abbey's high altar and swore a collective oath to force King John to confirm their ancient liberties. This meeting is widely regarded as the moment the Magna Carta was actually conceived — eight months before the famous sealing at Runnymede. The oaths were sworn at the shrine of St Edmund, calling on the martyred king as their witness."
+score: 9.3
 ---
 
 The Abbey of Bury St Edmunds was once among the wealthiest Benedictine monasteries in England. Founded in the 7th century and rebuilt on a grand scale in the 11th, it housed the remains of the martyred Anglo-Saxon king Edmund, who had been killed by Danish Vikings in 869 and subsequently canonised. The shrine made Bury a major pilgrimage centre for centuries.

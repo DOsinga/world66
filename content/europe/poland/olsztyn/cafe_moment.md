@@ -7,6 +7,7 @@ tags:
 snippet: Quiet cafe with serious coffee and homemade cakes
 latitude: 53.7775
 longitude: 20.4772
+score: 5.4
 ---
 
 A small, calm cafe on the old town square with proper espresso and a counter of homemade cakes — sernik (Polish cheesecake), poppy seed roll, apple szarlotka. The street terrace catches the morning sun.

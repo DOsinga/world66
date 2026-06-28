@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:067_Chital_in_Ranthambore_
 latitude: 26.0173
 loc_type: feature
 longitude: 76.5026
+score: 8.53
+snippet: Rajasthan tiger reserve where dry forest, lakes, and ruined pavilions spread
+  below Ranthambore Fort.
 sources:
 - https://en.wikipedia.org/wiki/Ranthambore_National_Park
 title: Ranthambore National Park

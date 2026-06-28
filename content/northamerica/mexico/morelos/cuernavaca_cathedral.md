@@ -9,6 +9,7 @@ latitude: 18.9202
 longitude: -99.2368
 sources:
   - https://en.wikipedia.org/wiki/Cuernavaca_Cathedral
+score: 8.2
 ---
 
 The Cathedral of the Assumption in Cuernavaca is one of the oldest Christian churches in the Americas, founded in 1529 by Franciscan missionaries. The building has the fortified, fortress-like appearance common to early colonial churches in Mexico — thick walls, battlements, and few windows — because the Spanish needed structures that could serve as refuges as well as places of worship. The atrium in front is enormous, intended to hold the large indigenous congregations converted in the early colonial period.

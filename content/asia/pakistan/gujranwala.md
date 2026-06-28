@@ -5,7 +5,9 @@ done:
 latitude: 32.152531
 loc_type: city
 longitude: 74.193375
-score: 0.26
+score: 5.03
+snippet: Punjabi industrial city known for pehlwani wrestling akharas and a serious
+  kebab-and-tikka food culture.
 title: Gujranwala
 type: location
 ---

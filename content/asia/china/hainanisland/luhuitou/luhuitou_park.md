@@ -14,6 +14,7 @@ story: >
   deer mid-transformation, the moment her antlers begin to soften into a woman's
   hair. The story belongs to the Li, Hainan's indigenous people, who lived on this
   coast for two millennia before Han colonisation.
+score: 7.6
 ---
 
 Luhuitou Park covers the entire wooded peninsula south of Sanya and is the main reason to come: a road and a footpath wind up through subtropical forest to a viewpoint plateau at about 270 metres, dominated by a colossal stone statue of the deer-becoming-a-woman that gives the headland its name. The view from the top takes in the whole of Sanya Bay — the city to the north, Dadonghai beach below, and the East China Sea curving away to the southeast.

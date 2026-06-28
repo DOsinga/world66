@@ -7,9 +7,11 @@ image_attribution: Peter Gronemann from Switzerland
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Bako_National_Park_(3678650933).jpg
 latitude: 2.502385
-loc_type: city
+loc_type: region
 longitude: 112.954728
-score: 0.63
+score: 8.07
+snippet: Bornean Malaysian state of rainforest, longhouse cultures, orangutans, and
+  immense limestone cave systems
 title: Sarawak
 type: location
 ---

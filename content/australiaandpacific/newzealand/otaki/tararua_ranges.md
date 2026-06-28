@@ -9,6 +9,7 @@ latitude: -40.8167
 longitude: 175.3833
 story: >
   The Tararua Ranges are known among New Zealand trampers as genuinely serious country — a compact but unpredictable range where weather can change violently and where several people have died over the decades from exposure. The track conditions and sudden climate shifts that make the Tararuas notorious are not separate from the experience but central to it: these are mountains that demand respect rather than simply reward presence.
+score: 7.6
 ---
 
 The Tararua Forest Park rises sharply east of Ōtaki, accessible via the Ōtaki Forks area where several walking tracks begin. Day walks into the foothills are manageable and pleasant; the full crossing of the ranges is a multi-day undertaking requiring proper preparation and equipment.

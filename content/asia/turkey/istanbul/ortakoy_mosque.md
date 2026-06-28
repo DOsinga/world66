@@ -8,6 +8,7 @@ tags:
   - besiktas
 latitude: 41.0475
 longitude: 29.0278
+score: 7.8
 ---
 
 The Büyük Mecidiye Mosque at Ortaköy is one of Istanbul's most photographed landmarks: a small, elegantly ornate 19th-century mosque right at the water's edge on the Bosphorus, with the Bosphorus Bridge looming above it. Built in 1854–1856 in an Ottoman Baroque style, it sits on a platform over the water and catches the evening light in a way that makes it look more like a stage set than a functioning mosque.

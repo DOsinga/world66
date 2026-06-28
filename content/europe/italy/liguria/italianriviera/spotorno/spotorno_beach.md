@@ -6,6 +6,7 @@ longitude: 8.420
 tags:
   - things_to_do
   - beach
+score: 7.5
 ---
 
 A long curve of fine pale sand running the length of the town — unusual on this stretch of the Ligurian coast, where pebble beaches are the norm. The beach is split between free public sections and the rows of attendant umbrellas of the stabilimenti balneari, the family-run beach clubs that have been there for generations. The water shelves gently and is good for children.

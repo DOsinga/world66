@@ -8,6 +8,7 @@ tags:
 latitude: -26.146
 longitude: 28.042
 neighbourhood: Rosebank
+score: 5.4
 ---
 
 Wolves is a craft beer bar and gastropub in The Zone @ Rosebank, and one of the most reliable evening destinations in the city. The South African craft beer scene has grown considerably in the past decade and Wolves keeps a good rotating selection — expect a mix of IPAs, wheat beers, and sours from Cape Town and Gauteng breweries, alongside decent imports. The food menu (burgers, pizzas, bar snacks) is solid rather than exceptional.

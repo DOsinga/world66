@@ -8,6 +8,7 @@ latitude: 29.6667
 longitude: 121.2667
 story: >
   Chiang Kai-shek was born in Xikou in 1887 and returned here repeatedly throughout his life, including after major political reversals. He retreated to Xikou in 1927 to marry Soong Mei-ling (by proxy, the wedding was in Shanghai) and came back in 1949 just before being driven from the mainland by the Communist forces. His family compound, school building, and ancestral temple are all preserved, making Xikou an unusual site of Republican-era memory in a Communist country.
+score: 7.9
 ---
 
 Xikou, about sixty kilometres south of Ningbo in the Siming Mountains, is the birthplace of Chiang Kai-shek, the Nationalist leader who ruled China from 1928 to 1949 and then governed Taiwan until his death in 1975. The town preserves his family compound (*Fenghaotang*), his mother's tomb, the school he attended, and the ancestral hall of the Chiang family in a state of careful — if politically complicated — commemoration.

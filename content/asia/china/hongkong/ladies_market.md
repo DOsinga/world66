@@ -1,13 +1,15 @@
 ---
-title: "Ladies' Market"
-type: poi
-tags:
-  - things_to_do
-  - shopping
-  - market
 latitude: 22.3192
 longitude: 114.1706
+score: 5.6
 snippet: Mong Kok's street market for cheap clothes, accessories, and souvenirs
+tags:
+- things_to_do
+- kowloon
+- shopping
+- market
+title: Ladies' Market
+type: poi
 ---
 
 Tung Choi Street in Mong Kok runs for several blocks as an open-air market known as the Ladies' Market — the name dates from when it primarily sold women's clothing, though the stalls now cover toys, electronics, phone accessories, luggage, sunglasses, and the usual run of tourist souvenirs alongside the clothes. The market operates from around noon to midnight, with the late afternoon and evening hours being the most crowded.

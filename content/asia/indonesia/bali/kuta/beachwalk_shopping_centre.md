@@ -6,6 +6,7 @@ longitude: 115.1700
 tags:
   - shopping
   - mall
+score: 5.2
 ---
 
 A more upmarket open-air mall directly opposite Kuta Beach, designed with curving roofs and water features that try, mostly successfully, to feel like a tropical garden rather than a shopping centre. International brands, a cinema, a decent food hall, and one of the few places in Kuta with reliable cold air-conditioning and clean toilets.

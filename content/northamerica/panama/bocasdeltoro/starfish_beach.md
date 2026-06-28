@@ -8,6 +8,7 @@ latitude: 9.3875
 longitude: -82.3017
 sources:
   - https://en.wikipedia.org/wiki/Col%C3%B3n_Island
+score: 7.4
 ---
 
 Playa Estrella, universally known as Starfish Beach, sits on the western side of Isla Colón, a short boat ride or bicycle trip from Bocas Town. The name is literal: the shallow, calm waters are home to enormous orange starfish — Oreaster reticulatus — scattered across the sandy floor in such density that they're impossible to miss. The beach is gentle enough for children, with no surf and warm, clear water.

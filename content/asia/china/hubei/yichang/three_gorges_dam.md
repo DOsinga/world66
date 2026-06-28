@@ -13,6 +13,7 @@ story: >
   unusual problem: the chambers had to be large enough for modern freight
   vessels while also accommodating the traditional Chinese junk, which had been
   sailing through the gorges for two thousand years. The junk dimensions won.
+score: 8.6
 ---
 
 The Three Gorges Dam, 30 kilometres west of Yichang in Sandouping town, is the largest hydroelectric dam in the world by installed capacity, and the scale of the structure is genuinely difficult to convey in photographs. Standing on the observation platforms above the dam face, the statistics become physical: a concrete wall 185 metres tall and 2,309 metres wide, holding back a reservoir that stretches 600 kilometres upstream into Chongqing municipality. The dam generates around 88 terawatt-hours of electricity annually, powering a significant fraction of central China.

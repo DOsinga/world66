@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.9838
 longitude: 2.8687
+score: 7.4
 ---
 
 De Blankaart is a wetland nature reserve a few kilometres south of Diksmuide, centered on a lake fed by the Blankaart Polder. This flat, watery landscape of reed beds, marshes and flooded meadows was a no-man's land of a different kind during WWI — the deliberate flooding that stopped the German advance also shaped the hydrology of the whole area. Today it is one of the best birdwatching sites in West Flanders.

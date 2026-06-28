@@ -1,4 +1,7 @@
 ---
+latitude: 51.0673
+longitude: -114.0113
+score: 4.0
 tags:
 - eating_out
 - restaurant

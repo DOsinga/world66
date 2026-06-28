@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 28.4757
 longitude: -16.3090
+score: 6.7
 ---
 
 The Museum of Science and the Cosmos is one of the more surprising cultural institutions in La Laguna — a hands-on science museum that addresses cosmology, the universe, and the human place within it. Tenerife has a strong scientific culture connected to astronomy: the Teide Observatory on the volcano summit is one of the leading astronomical facilities in the world, and the island's clear skies and altitude make it an important base for international research programmes.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 47.5667
 longitude: 9.3833
+score: 5.8
 ---
 
 The largest port on the Swiss side of Lake Constance, Romanshorn is a quiet harbour town that doubles in size in summer when the lake ferries are running. The car ferry to Friedrichshafen on the German shore takes 40 minutes and runs roughly hourly through the day — making Romanshorn the obvious crossing point for road travellers heading north from Zürich into Bavaria.

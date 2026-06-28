@@ -1,0 +1,200 @@
+{
+  "round": 2766,
+  "timestamp": "2026-06-13T22:05:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 8.274,
+      "prior_variance": 0.238937,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 6.5052,
+      "prior_variance": 0.2108,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 9.1427,
+      "prior_variance": 0.246329,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 6.0989,
+      "prior_variance": 0.162475,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 3.9607,
+      "prior_variance": 0.179938,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 6.1961,
+      "prior_variance": 0.180959,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 2.2216,
+      "prior_variance": 0.159194,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 0.676,
+      "prior_variance": 0.141784,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -1.0852,
+      "prior_variance": 0.155661,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_score": -1.7039,
+      "prior_variance": 0.14684,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury",
+      "prior_score": -0.6081,
+      "prior_variance": 0.165098,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": 0.1692,
+      "prior_variance": 0.157355,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.7809,
+      "prior_variance": 0.153067,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": -0.3244,
+      "prior_variance": 0.169422,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_score": -0.7991,
+      "prior_variance": 0.176126,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.6232,
+      "prior_variance": 0.165797,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -2.3106,
+      "prior_variance": 0.156904,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.7922,
+      "prior_variance": 0.166808,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -2.4226,
+      "prior_variance": 0.142337,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -3.1985,
+      "prior_variance": 0.145475,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -6.3347,
+      "prior_variance": 0.165703,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": -4.4935,
+      "prior_variance": 0.177181,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -5.7979,
+      "prior_variance": 0.19232,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_score": -7.9262,
+      "prior_variance": 0.269295,
+      "prior_n": 8
+    }
+  ]
+}

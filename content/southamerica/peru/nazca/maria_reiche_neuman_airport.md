@@ -8,6 +8,7 @@ latitude: -14.8542
 longitude: -74.9611
 sources:
   - https://en.wikipedia.org/wiki/Maria_Reiche_Neuman_Airport
+score: 4.8
 ---
 
 The small aerodrome from which all tourist overflight of the Nazca Lines departs. Named after the German researcher who dedicated her life to studying the geoglyphs, the airport handles light aircraft carrying four to ten passengers. The flight operation is the economic engine of Nazca's tourism industry.

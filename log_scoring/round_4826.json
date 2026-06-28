@@ -1,0 +1,200 @@
+{
+  "round": 4826,
+  "timestamp": "2026-06-14T00:44:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 12.5447,
+      "prior_variance": 0.317259,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 8.7001,
+      "prior_variance": 0.20358,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 8.6459,
+      "prior_variance": 0.160546,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.7746,
+      "prior_variance": 0.183554,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 7.3178,
+      "prior_variance": 0.186666,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 6.2309,
+      "prior_variance": 0.130808,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 6.3334,
+      "prior_variance": 0.125856,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 5.7345,
+      "prior_variance": 0.112693,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_score": 1.622,
+      "prior_variance": 0.094044,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 1.1495,
+      "prior_variance": 0.091471,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.5961,
+      "prior_variance": 0.088419,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 1.1305,
+      "prior_variance": 0.092747,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.6012,
+      "prior_variance": 0.09319,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 0.4578,
+      "prior_variance": 0.093131,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -1.3894,
+      "prior_variance": 0.101911,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -2.8534,
+      "prior_variance": 0.09591,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -1.7876,
+      "prior_variance": 0.094481,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -1.5071,
+      "prior_variance": 0.090939,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -3.6258,
+      "prior_variance": 0.098291,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -5.9991,
+      "prior_variance": 0.121921,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -8.7742,
+      "prior_variance": 0.193212,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -7.3465,
+      "prior_variance": 0.174831,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -9.4292,
+      "prior_variance": 0.222796,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "El Merj",
+      "path": "africa/libya/elmerj",
+      "prior_score": -7.5415,
+      "prior_variance": 0.156095,
+      "prior_n": 15
+    }
+  ]
+}

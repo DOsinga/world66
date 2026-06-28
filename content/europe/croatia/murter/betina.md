@@ -8,6 +8,7 @@ tags:
 latitude: 43.819
 longitude: 15.602
 story: "Betina is the home of the gajeta, the traditional wooden Dalmatian fishing boat. The village's boat-building yards have been producing them by hand for at least three centuries, and the Betina Museum of Wooden Shipbuilding — which opened in 2015 — tells the story."
+score: 7.0
 ---
 
 Betina sits on the north coast, just a couple of kilometres east of Murter town. It is a quieter, more residential village — stone houses, narrow lanes, an old harbour — with a small museum dedicated to traditional wooden boatbuilding that is one of the more thoughtful museums in central Dalmatia.

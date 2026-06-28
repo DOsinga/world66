@@ -12,6 +12,7 @@ story: >
   and Europe. More than 150 species have been recorded passing through in spring and autumn, including
   raptors, waders, and passerines that use the island as a staging post during trans-Mediterranean crossings.
   Ornithologists from across Italy come to Lampedusa specifically for the migration spectacles.
+score: 8.4
 ---
 
 The Lampedusa Nature Reserve covers the southwestern tip of the island, centered on the area around Rabbit Beach and the sea around it. The reserve protects the last coastal scrub and maquis on the island — a habitat that would otherwise have been cleared for tourism development — along with the loggerhead turtle nesting beaches and a system of sea caves along the western cliffs.

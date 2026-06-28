@@ -1,200 +1,200 @@
 {
   "round": 404,
-  "timestamp": "2026-04-12T09:29:28",
+  "timestamp": "2026-06-13T19:33:43",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cefal\u00f9",
-      "path": "europe/italy/sicily/cefalu",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 10.9576,
+      "prior_variance": 3.704979,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Lipari",
-      "path": "europe/italy/sicily/aeolianislands/lipari",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 13.1998,
+      "prior_variance": 3.364859,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Ischia",
-      "path": "europe/italy/campania/ischia",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2991,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 12.2519,
+      "prior_variance": 3.4937,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "La Maddalena",
-      "path": "europe/italy/sardinia/lamaddelena",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_score": 14.2002,
+      "prior_variance": 7.58749,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Furore",
-      "path": "europe/italy/campania/amalfi/furore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 8.3951,
+      "prior_variance": 2.052346,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cortona",
-      "path": "europe/italy/tuscany/cortona",
-      "prior_mu": 23.4334,
-      "prior_sigma": 5.0244,
-      "prior_n": 2
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 11.8406,
+      "prior_variance": 2.124586,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "San Quirico d'Orcia",
-      "path": "europe/italy/tuscany/san_quirico_dorci",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 2.8131,
+      "prior_variance": 1.565081,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Salo",
-      "path": "europe/italy/lombardia/lagodigarda/salo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 7.8837,
+      "prior_variance": 1.832259,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Marina di Campo",
-      "path": "europe/italy/tuscany/elba/marinadicampo",
-      "prior_mu": 22.2833,
-      "prior_sigma": 5.7846,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 6.8887,
+      "prior_variance": 1.899687,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Vasto",
-      "path": "europe/italy/abruzzo/vasto",
-      "prior_mu": 21.994,
-      "prior_sigma": 2.7742,
-      "prior_n": 5
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 10.1078,
+      "prior_variance": 1.758116,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Orbetello",
-      "path": "europe/italy/tuscany/orbetello",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 9.7903,
+      "prior_variance": 2.741684,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Borgio Verezzi",
-      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 12.0439,
+      "prior_variance": 8.628032,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Montegrotto Terme",
-      "path": "europe/italy/veneto/padua/montegrotto_terme",
-      "prior_mu": 22.9878,
-      "prior_sigma": 5.6107,
+      "title": "Mount Putuo",
+      "path": "asia/china/zhejiang/mount-putuo",
+      "prior_score": 6.1878,
+      "prior_variance": 1.766614,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Massa",
-      "path": "europe/italy/tuscany/massa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 8.0986,
+      "prior_variance": 1.917757,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Gambassi Terme",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 8.592,
+      "prior_variance": 4.22771,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Basilicata",
-      "path": "europe/italy/basilicata",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 10.6575,
+      "prior_variance": 2.65234,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Alto Mugello Area",
-      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
-      "prior_mu": 22.2358,
-      "prior_sigma": 5.7131,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 8.7601,
+      "prior_variance": 4.177928,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Bardineto",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
-      "prior_mu": 22.7048,
-      "prior_sigma": 5.9477,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 6.659,
+      "prior_variance": 2.757644,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Miglionico",
-      "path": "europe/italy/basilicata/miglionico",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 5.4278,
+      "prior_variance": 1.518242,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Bagno a Ripoli",
-      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
-      "prior_mu": 22.643,
-      "prior_sigma": 5.9388,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 4.282,
+      "prior_variance": 1.558154,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Erli",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
-      "prior_mu": 21.6932,
-      "prior_sigma": 4.7976,
-      "prior_n": 2
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": 4.0992,
+      "prior_variance": 1.998387,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Quiliano",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
-      "prior_mu": 22.7306,
-      "prior_sigma": 5.7024,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 3.9217,
+      "prior_variance": 1.969368,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Pallare",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/lincoln",
+      "prior_score": 6.9341,
+      "prior_variance": 1.67052,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "San Donato Milanese",
-      "path": "europe/italy/lombardia/san_donato_milanes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_score": 8.4998,
+      "prior_variance": 2.901774,
+      "prior_n": 1
     }
   ]
 }

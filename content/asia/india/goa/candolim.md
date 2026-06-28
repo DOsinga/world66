@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Candolim,_mucche_lungo_la_
 latitude: 15.520153
 loc_type: city
 longitude: 73.765942
-score: 0.57
+score: 8.04
+snippet: Quieter North Goa beach stretch between Calangute and Fort Aguada, with a
+  broad sandy shore.
 title: Candolim
 type: location
 ---

@@ -10,6 +10,7 @@ story: >
   San Siro is one of the oldest churches in Liguria, with foundations going back at least to the 4th century. It is dedicated to the first bishop of Genoa, who is said to have preached in this area. The black-and-white striped interior stonework is a recurring motif across Ligurian churches, visible in Genoa and the Cinque Terre too — a Genoese Gothic trademark that persisted for centuries.
 sources:
   - https://en.wikipedia.org/wiki/Sanremo
+score: 7.9
 ---
 
 The Concattedrale di San Siro stands at the edge of La Pigna's lower quarter and is one of the oldest religious buildings in Liguria. Its origins go back to late antiquity, though the current structure is largely medieval, remodelled in the Genoese Gothic style with the characteristic black-and-white striped stone interior that appears in churches throughout the region.

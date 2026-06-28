@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Aci_Trezza_060413.JPG
 latitude: 37.5663
 loc_type: city
 longitude: 15.161
-score: 0.57
+score: 8.17
 title: Acitrezza
 type: location
+snippet: Sicilian fishing village below basalt sea stacks linked to the Cyclops legend
+  of Odysseus.
 ---
 
 Acitrezza is a small fishing village on the Sicilian coast between [Catania](/europe/italy/sicily/catania) and [Taormina](/europe/italy/sicily/taormina), and one of the most picturesque spots on this stretch of shoreline. It is best known for the Faraglioni dei Ciclopi, a cluster of dramatic basalt sea stacks rising from the water just offshore, which legend says were hurled at Odysseus by the blinded Cyclops Polyphemus.

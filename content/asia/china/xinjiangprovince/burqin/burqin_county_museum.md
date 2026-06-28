@@ -6,6 +6,7 @@ tags:
 - museum
 title: Burqin County Museum
 type: poi
+score: 4.9
 ---
 
 Burqin County Museum is a small local stop, useful for grounding the region's mix of Kazakh, Tuvan, Mongol, and Han histories before heading into the mountains. Exhibits tend to be modest, but the regional context is worth having.

@@ -7,6 +7,7 @@ tags:
 title: York Art Gallery
 type: poi
 snippet: "Reopened in 2015 after a major renovation, home to one of the world's finest collections of studio ceramics"
+score: 7.8
 ---
 
 York Art Gallery stands in Exhibition Square facing Bootham Bar, in a Victorian Italianate building that was substantially extended and reorganised when it reopened in 2015. The renovation added the Centre of Ceramic Art — known as CoCA — which is the finest collection of British studio ceramics anywhere in the world. The collection spans the entire studio ceramics movement from its early-20th-century origins to contemporary work, with particular strengths in Lucie Rie, Hans Coper, and the Leach Pottery tradition. The decision to build a ceramics centre in York connects to the city's York-born potter William Staite Murray, one of the pioneers of the movement.

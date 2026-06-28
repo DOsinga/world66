@@ -8,6 +8,7 @@ tags:
 latitude: 29.4680
 longitude: 74.1330
 snippet: "Indus Valley Civilisation city, 100km south — one of India's most significant sites"
+score: 8.5
 ---
 
 Kalibangan is one of the most important Indus Valley Civilisation sites in India, located about 100 kilometres south of Sri Ganganagar near the town of Pilibanga. The site preserves the remains of a fortified city that was occupied from approximately 3500 to 1750 BCE, making it contemporaneous with Mohenjo-daro and Harappa. Excavations have uncovered a planned street grid, a citadel mound, a lower residential city, and evidence of what may be the world's earliest ploughed field.

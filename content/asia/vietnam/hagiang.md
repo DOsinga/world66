@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Ha_Giang,_Vietnam.jpg
 latitude: 22.8233
 loc_type: region
 longitude: 104.9836
+snippet: Northern Vietnamese mountain province of karst passes and Hmong villages
+  along the Chinese border.
 sources:
 - https://en.wikipedia.org/wiki/H%C3%A0_Giang_province
 - https://en.wikipedia.org/wiki/H%C3%A0_Giang

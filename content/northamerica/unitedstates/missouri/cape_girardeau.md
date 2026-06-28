@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:CapeRiverWall1.JPG
 latitude: 37.304731
 loc_type: city
 longitude: -89.517642
-score: 0.37
+score: 6.27
 title: Cape Girardeau
 type: location
+snippet: Mississippi River city on a limestone bluff, with a mural-lined floodwall
+  and university-town energy.
 ---
 
 Cape Girardeau sits on a limestone bluff above a bend in the Mississippi River in the southeastern corner of Missouri. Known locally as "the Cape," it's the largest city in the region and home to Southeast Missouri State University, which gives it more life than most towns this size. The historic downtown along Broadway runs close to the river with a [floodwall painted in murals](/northamerica/unitedstates/missouri/cape_girardeau/mississippi_river_tales_mural) depicting local and regional history.

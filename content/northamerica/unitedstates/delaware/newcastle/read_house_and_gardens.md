@@ -14,6 +14,7 @@ story: >
   grander Federal mansion in its place, with a garden laid out along the bluffs above the Delaware River.
 sources:
   - https://en.wikipedia.org/wiki/Read_House_and_Garden
+score: 8.4
 ---
 
 The Read House and Gardens is the grandest of New Castle's historic house museums, a Federal-style mansion at 42 The Strand that looks out over the Delaware River. Built in 1801 for George Read II, it contains fourteen rooms furnished in period style, with an impressive collection of Delaware-made furniture, silver, and decorative arts. The house is managed by the Historical Society of Delaware and is open for tours.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.80667
 longitude: 2.12639
+score: 7.6
 ---
 
 The Grande Écurie (Great Stables) is one of two massive stable buildings that face the palace across the Place d'Armes, designed by Jules Hardouin-Mansart in 1682. At their peak, the stables of Louis XIV housed 600 horses for the king's personal use alone, plus 200 for his official carriages — numbers that give some sense of the logistics of court life. The stable complex was, in its own way, as impressive an architectural statement as the palace.

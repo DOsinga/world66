@@ -2,6 +2,7 @@
 category: Town
 latitude: -34.1928
 longitude: 18.4308
+score: 8.3
 scores:
   activities: 0.5594
   sightseeing: 0.6319
@@ -11,6 +12,7 @@ tags:
 - things_to_do
 - day_trips
 - history
+- southern_peninsula
 title: Simon's Town
 type: poi
 ---

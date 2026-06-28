@@ -10,6 +10,7 @@ longitude: -119.6100
 snippet: A 15-acre collection of 1880s agricultural-era buildings preserved on the outskirts of Selma
 story: >
   The Pioneer Village owes its existence to Art Gonzales, a local businessman who began collecting and relocating historic Selma-area buildings in 1980 — essentially saving them from demolition by moving them to a single site. Gonzales spent fifteen years acquiring and restoring the buildings at his own expense before donating the village to the city. The parkway alongside the site is named in his honour.
+score: 7.3
 ---
 
 The Selma Pioneer Village is a collection of around fifteen historic buildings from the 1880s and 1890s, gathered from across the Selma area and reassembled on a 15-acre site on Art Gonzales Parkway. The buildings give a tangible sense of what a small San Joaquin Valley agricultural community looked like before the arrival of industrial farming.

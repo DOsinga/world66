@@ -16,6 +16,7 @@ story: >
   1851 and stands essentially intact, one of the best-preserved Roman arches in France.
 sources:
   - https://en.wikipedia.org/wiki/Arch_of_Germanicus
+score: 7.8
 ---
 
 The Arch of Germanicus stands beside the Charente river near the old bridge, a two-passage Roman triumphal arch built in 19 AD and dedicated to the emperor Tiberius and his adopted son Germanicus. It is one of the best-preserved Roman arches in France, and its location beside the river — moved here from its original roadside position in 1851 — makes it exceptionally photogenic.

@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:SuzdalPanoramaC_9345.jpg
 latitude: 56.419391
 loc_type: city
 longitude: 40.448789
-score: 0.57
+score: 8.06
 title: Suzdal
 type: location
+snippet: Golden Ring town east of Moscow, dense with churches, monasteries, and wooden
+  architecture.
 ---
 
 Suzdal is a small town 230 km east of [Moscow](/europe/russia/moscow) that once served as capital of the medieval Rostov-Suzdal principality. Ten centuries of history are packed into a place you can walk across in an hour, and the concentration of churches, monasteries, and wooden architecture is extraordinary — the entire town is essentially an open-air museum.

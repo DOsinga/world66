@@ -8,6 +8,7 @@ story: >
   The Creamery Covered Bridge, built in 1879, is one of the best-preserved 19th-century wooden covered bridges in Vermont. It stands over Whetstone Brook near where it joins the Connecticut River — a quintessential New England landscape that draws photographers and painters in every season.
 sources:
   - https://en.wikipedia.org/wiki/Creamery_Covered_Bridge
+score: 6.5
 ---
 
 The Connecticut River forms Brattleboro's eastern boundary and the state line with New Hampshire. The river valley here is wide and flat, with good walking trails along the Vermont bank. The confluence of Whetstone Brook with the Connecticut, just south of downtown, is the most scenic spot.

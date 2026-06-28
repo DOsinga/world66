@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_est
 latitude: 12.03671
 loc_type: city
 longitude: 39.046112
-score: 0.71
+score: 8.89
+snippet: Ethiopian mountain town where medieval Orthodox churches were carved downward
+  from solid red rock.
 title: Lalibela
 type: location
 ---

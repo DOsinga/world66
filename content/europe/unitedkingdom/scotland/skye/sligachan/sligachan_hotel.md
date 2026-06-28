@@ -8,6 +8,7 @@ tags:
 latitude: 57.2895
 longitude: -6.1738
 snippet: "Victorian climbers' inn at the foot of the Cuillin"
+score: 7.1
 ---
 
 The Sligachan Hotel has been serving Cuillin climbers since 1830, when it opened as a coaching inn on the new road through Skye. The pioneers of British mountaineering — Norman Collie, John MacKenzie, Sheriff Alexander Nicolson — used it as their base, and a small museum in the back room records their first ascents. Outside, a bronze statue of Collie and MacKenzie looks across to the mountains they spent their lives mapping.

@@ -8,6 +8,7 @@ latitude: 30.3289
 longitude: -81.6553
 story: >
   The church was one of the few buildings to survive the Great Fire of 1901, which destroyed most of downtown Jacksonville in just eight hours. The fire was so intense that it jumped the St. Johns River, but the brick basilica held. It has served as a church since 1854, making it one of the oldest continuously operating Catholic churches in Florida, and was elevated to basilica status in 2018.
+score: 7.4
 ---
 
 The Basilica of the Immaculate Conception is a red-brick Gothic Revival church in downtown Jacksonville that dates to 1854. It is one of the oldest surviving buildings in the city and one of very few structures to survive the Great Fire of 1901 intact. The exterior, with its twin towers and rose window, is the most dramatic piece of Victorian religious architecture in downtown Jacksonville.

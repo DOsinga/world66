@@ -1,0 +1,200 @@
+{
+  "round": 4691,
+  "timestamp": "2026-06-14T00:33:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 4.4013,
+      "prior_variance": 0.103751,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 4.5024,
+      "prior_variance": 0.094684,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 3.4483,
+      "prior_variance": 0.100865,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 0.3493,
+      "prior_variance": 0.102061,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 3.2474,
+      "prior_variance": 0.091755,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 3.4285,
+      "prior_variance": 0.090782,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 3.0395,
+      "prior_variance": 0.09126,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.4968,
+      "prior_variance": 0.085096,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Siguniang Mountain",
+      "path": "asia/china/sichuanprovince/siguniangshan",
+      "prior_score": 2.2062,
+      "prior_variance": 0.098056,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 3.5985,
+      "prior_variance": 0.094518,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_score": 2.9753,
+      "prior_variance": 0.10571,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 1.8583,
+      "prior_variance": 0.105027,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.7409,
+      "prior_variance": 0.083215,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": 0.0684,
+      "prior_variance": 0.104231,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": 1.3569,
+      "prior_variance": 0.087494,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 1.2995,
+      "prior_variance": 0.098481,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.2412,
+      "prior_variance": 0.082769,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 1.6853,
+      "prior_variance": 0.088743,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -0.5764,
+      "prior_variance": 0.080356,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -1.3733,
+      "prior_variance": 0.086873,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.0787,
+      "prior_variance": 0.086889,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.8746,
+      "prior_variance": 0.093408,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 1.1167,
+      "prior_variance": 0.083104,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -0.7247,
+      "prior_variance": 0.081776,
+      "prior_n": 16
+    }
+  ]
+}

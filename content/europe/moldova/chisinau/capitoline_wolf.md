@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0229
 longitude: 28.8285
+score: 5.9
 ---
 
 A bronze copy of the Capitoline Wolf — the she-wolf suckling Romulus and Remus — stands on a stone column at the southwest corner of the Stephen the Great Park. The replica was gifted to Chisinau by the city of Rome in 1926 to mark the kinship between Romania and the ancient Roman colonisers of Dacia, a piece of cultural diplomacy that became politically loaded under the Soviet period and again after independence.

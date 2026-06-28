@@ -1,0 +1,200 @@
+{
+  "round": 4616,
+  "timestamp": "2026-06-14T00:27:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 5.2146,
+      "prior_variance": 0.109066,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 3.7944,
+      "prior_variance": 0.087094,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 4.2378,
+      "prior_variance": 0.121226,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 2.8149,
+      "prior_variance": 0.089831,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 2.9822,
+      "prior_variance": 0.082547,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 5.9842,
+      "prior_variance": 0.129638,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 2.2258,
+      "prior_variance": 0.089756,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 2.6659,
+      "prior_variance": 0.163613,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 1.7599,
+      "prior_variance": 0.089084,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.6522,
+      "prior_variance": 0.091833,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Royal Chitwan National Park",
+      "path": "asia/nepal/royalchitwannationalpark",
+      "prior_score": 5.4122,
+      "prior_variance": 0.109807,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 4.7068,
+      "prior_variance": 0.09065,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 2.0025,
+      "prior_variance": 0.116704,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.6483,
+      "prior_variance": 0.086077,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 2.7666,
+      "prior_variance": 0.090012,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.2312,
+      "prior_variance": 0.100716,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 2.4222,
+      "prior_variance": 0.088848,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.3181,
+      "prior_variance": 0.089474,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": 0.2103,
+      "prior_variance": 0.089175,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_score": -0.8768,
+      "prior_variance": 0.083395,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -8.7308,
+      "prior_variance": 0.222159,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -8.4561,
+      "prior_variance": 0.246797,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Tobruk",
+      "path": "africa/libya/tobruk",
+      "prior_score": -7.5789,
+      "prior_variance": 0.150616,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.2461,
+      "prior_variance": 0.281593,
+      "prior_n": 15
+    }
+  ]
+}

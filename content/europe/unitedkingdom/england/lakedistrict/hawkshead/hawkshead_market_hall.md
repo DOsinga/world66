@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The little stone-pillared Market Hall in the centre of the village is one of Hawkshead's oldest surviving public buildings, dating from the early seventeenth century. Originally an open arcade where wool and yarn were sold on market days, the ground floor was later enclosed and now houses a small information point.

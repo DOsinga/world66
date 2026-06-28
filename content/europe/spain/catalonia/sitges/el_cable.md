@@ -8,6 +8,7 @@ tags:
 latitude: 41.2365
 longitude: 1.8081
 snippet: Long-standing tapas bar away from the seafront crowds
+score: 6.6
 ---
 
 El Cable has been on a side street a couple of blocks back from the seafront since the 1920s and is the local for traditional Catalan tapas and small plates done well. The wooden bar is hung with hams and lined with stools, the dining room is small and noisy, and the regular crowd is a mix of older locals and the artier end of the resort.

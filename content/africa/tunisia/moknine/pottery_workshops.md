@@ -7,6 +7,7 @@ tags:
 latitude: 35.628257
 longitude: 10.900133
 story: "Moknine pottery is distinguished by its use of a local fuel called 'grig' — made from the branches of non-fruit-bearing trees — to fire the kilns at controlled temperatures. The technique has been passed down without interruption for centuries and gives Moknine ceramics a particular surface quality that industrial methods cannot replicate."
+score: 8.2
 ---
 
 Moknine is the pottery capital of the Tunisian Sahel, and visiting the workshops is the main reason to stop here. The town's potters produce an enormous variety of work: functional cooking pots and water jars in the older tradition, and decorative painted ceramics in the colourful modern style that has spread across the region. Several dozen workshops operate in and around the town, concentrated along the main road and in the streets near the market.

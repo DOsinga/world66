@@ -1,0 +1,200 @@
+{
+  "round": 2454,
+  "timestamp": "2026-06-13T21:43:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 11.3372,
+      "prior_variance": 0.573703,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 9.2609,
+      "prior_variance": 0.262137,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 8.3954,
+      "prior_variance": 0.272871,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.6702,
+      "prior_variance": 0.235542,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 5.8375,
+      "prior_variance": 0.233045,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 7.32,
+      "prior_variance": 0.222594,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_score": 5.6002,
+      "prior_variance": 0.216419,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Mirissa",
+      "path": "asia/srilanka/mirissa",
+      "prior_score": 6.2272,
+      "prior_variance": 0.212628,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 4.7265,
+      "prior_variance": 0.222344,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 5.5343,
+      "prior_variance": 0.189011,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 5.5086,
+      "prior_variance": 0.198872,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 5.2507,
+      "prior_variance": 0.220158,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 4.6967,
+      "prior_variance": 0.188055,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.726,
+      "prior_variance": 0.160585,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 2.3397,
+      "prior_variance": 0.179819,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.0031,
+      "prior_variance": 0.202579,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": 0.3726,
+      "prior_variance": 0.157578,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 0.3569,
+      "prior_variance": 0.170784,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 0.06,
+      "prior_variance": 0.162561,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": -0.1186,
+      "prior_variance": 0.185687,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": -0.1655,
+      "prior_variance": 0.201947,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.5739,
+      "prior_variance": 0.164545,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -5.372,
+      "prior_variance": 0.19242,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -9.1865,
+      "prior_variance": 0.792021,
+      "prior_n": 7
+    }
+  ]
+}

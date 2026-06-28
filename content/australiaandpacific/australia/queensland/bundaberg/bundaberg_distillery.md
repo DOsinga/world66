@@ -10,6 +10,7 @@ address: "Hills Street, East Bundaberg"
 latitude: -24.8517
 longitude: 152.3650
 story: "The polar bear on every bottle dates from 1961 — Bundaberg Rum was being marketed as a winter warmer for the New Zealand market, and the bear was chosen as the friendliest possible mascot for a fiercely strong drink. The original copper still, made in 1888, was destroyed in a 1907 fire; the current still — the 'Mighty Bundy' — has been in continuous use since 1908."
+score: 8.1
 ---
 
 The Bundaberg Rum Distillery has been making molasses-based dark rum on the same site by the Burnett River since 1888. It is one of Australia's most iconic industrial sites and the source of the polar-bear-branded bottles in every Australian liquor cabinet.

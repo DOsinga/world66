@@ -7,6 +7,7 @@ tags:
 latitude: 4.6571
 longitude: -74.0994
 snippet: "Rogelio Salmona's landmark public library next to Parque Simón Bolívar"
+score: 8.5
 ---
 
 The Virgilio Barco library, designed by Colombian architect Rogelio Salmona and completed in 2001, is one of the finest modern buildings in South America. The circular brick structure, surrounded by a moat and gardens at the western edge of Parque Simón Bolívar, has become a civic landmark — a genuinely successful piece of public architecture that people actually use.

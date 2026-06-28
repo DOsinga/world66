@@ -5,6 +5,7 @@ tags: [things_to_do, sight, national_park]
 latitude: 25.4824
 longitude: -80.3398
 story: Ninety-five percent of the park is underwater. It protects the longest stretch of mangrove forest on Florida's east coast, the northernmost living coral reefs in the continental United States, and a chain of small offshore keys. The Dante Fascell Visitor Center is the only land-based access point.
+score: 8.8
 ---
 
 Biscayne is the Everglades' lesser-known neighbour and, for many visitors, the more accessible one. Boat tours from Convoy Point head out to the reef for snorkelling, glass-bottom-boat viewing, and trips to Boca Chita Key with its ornamental lighthouse. The lighthouse was built in the 1930s by the millionaire Mark Honeywell, who used the key as a private retreat.

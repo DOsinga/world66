@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The country's principal library, housing manuscripts and rare books
+score: 6.7
 ---
 
 The National Library is the country's main repository of manuscripts and printed books, with collections particularly strong in Zaydi religious texts, Arabic poetry, and Yemeni historical sources — many transferred from older mosque libraries during the 20th century. The building, near Tahrir Square, is a modest modern structure, but the reading room is open to researchers and the catalogue is genuinely useful for anyone interested in Yemeni history.

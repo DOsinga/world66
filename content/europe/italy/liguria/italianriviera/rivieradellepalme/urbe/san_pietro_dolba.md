@@ -6,6 +6,7 @@ longitude: 8.6314
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The principal hamlet of Urbe, San Pietro d'Olba is a low-key mountain resort scattered along the Olba stream. The centre is a handful of stone houses around a parish church; the surrounding chestnut and beech forests are the real attraction.

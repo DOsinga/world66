@@ -10,6 +10,7 @@ story: >
   The fair traditionally takes place on the grounds outside town over the five days leading to Kartik Purnima (the full moon). On the full moon itself, hundreds of thousands of pilgrims converge on the ghats for a sacred bath. The camel trading and the religious festival exist in parallel, and both are entirely genuine — the fair long predates its discovery by tourism.
 sources:
   - https://en.wikipedia.org/wiki/Pushkar_Fair
+score: 8.9
 ---
 
 The Pushkar Camel Fair (Pushkar ka Mela) is one of the largest livestock fairs in the world, held annually in October or November according to the Hindu lunar calendar. For five days before the full moon of Kartik, the sandy grounds on the edge of Pushkar fill with tens of thousands of camels, horses, and cattle brought by traders from across Rajasthan and beyond. The spectacle of thousands of camels against the desert dunes at sunset is genuinely extraordinary.

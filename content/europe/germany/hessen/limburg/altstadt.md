@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Limburg's Altstadt came through World War II almost untouched — the cathedral and surrounding lanes were spared by the bombing that flattened so much of the Rhine-Main region, leaving one of Germany's most complete late-medieval townscapes."
+score: 8.9
 ---
 
 Limburg's Altstadt is a compact warren of cobbled lanes and Fachwerk houses tumbling down the slope from the cathedral to the river. Streets like Fischmarkt, Rütsche, Plötze and Brückengasse are lined with timbered facades from the thirteenth to the sixteenth century, many of them leaning at improbable angles after seven hundred years of settling.

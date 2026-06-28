@@ -1,7 +1,13 @@
 ---
 address: Between Canal Street and Esplanade Avenue, French Quarter.
+latitude: 29.9519
+longitude: -90.0639
+score: 6.7
 tags:
 - things_to_do
+- sight
+- park
+- riverfront
 title: Woldenberg Riverfront Park
 type: poi
 ---

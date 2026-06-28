@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5350
 longitude: 35.7900
+score: 6.8
 ---
 
 The Corniche — the seafront promenade running north from the port — is where Latakia comes alive in the evenings. Families walk back and forth along the waterfront, fishermen lean over the railings with lines in the water, groups of young men sit on the low stone wall watching the sea. The public gardens at the northern end of the promenade, shaded by palms and oleanders, are a fine place to sit and drink tea.

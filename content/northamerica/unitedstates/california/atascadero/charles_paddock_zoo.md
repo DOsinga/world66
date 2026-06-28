@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - zoo
 story: "The zoo started in the 1950s as a private menagerie kept by Charles Paddock, the city's park ranger. The city formally took it over in 1972 and it remains one of the smallest accredited zoos in the United States — about five acres — with a focus on small mammals, birds, and reptiles."
+score: 6.6
 ---
 
 Charles Paddock Zoo (recently renamed Central Coast Zoo) is a five-acre community zoo in the wooded part of Atascadero Lake Park. It is small, but it punches above its size: the collection includes red pandas, fossas, Malayan tigers, a meerkat group, and various smaller mammals and birds. The pathways wind among mature oaks and pines.

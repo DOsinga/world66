@@ -5,7 +5,8 @@ done:
 latitude: 35.432585
 loc_type: city
 longitude: -96.305006
-score: 0.29
+score: 5.44
+snippet: Small Oklahoma town best known as the birthplace of folk singer Woody Guthrie.
 title: Okemah
 type: location
 ---

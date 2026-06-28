@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fr%C3%A9jus_-_Port_de_Fr%C
 latitude: 43.433
 loc_type: city
 longitude: 6.737
+score: 8.1
+snippet: Var coast town with Roman ruins, a medieval episcopal quarter, and beaches
+  beside Saint-Raphaël.
 sources:
 - https://en.wikipedia.org/wiki/Fr%C3%A9jus
 title: Fréjus

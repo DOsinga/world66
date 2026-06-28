@@ -5,10 +5,12 @@ done:
 latitude: 16.900055
 loc_type: feature
 longitude: 7.967952
-score: 0.23
+score: 4.36
 sources:
 - https://en.wikipedia.org/wiki/Trans-Sahara_Highway
 - https://sahara-overland.com/routes/
+snippet: Historic trans-Saharan crossing route through Niger, linking Agadez to desert
+  tracks toward Algeria and Libya.
 title: Trans Sahara
 type: location
 ---

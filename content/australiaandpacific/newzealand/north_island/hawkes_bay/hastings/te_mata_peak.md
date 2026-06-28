@@ -6,6 +6,7 @@ title: Te Mata Peak
 type: poi
 story: >
   Māori tradition holds that Te Mata Peak is the body of a giant chief who ate through the hills to prove his love for a local chieftainess. She set impossible tasks; he completed them all except one, and died in the attempt. The geological result — a long ridge with dramatic bluffs on the southern face — is one of the most recognisable skylines in eastern New Zealand.
+score: 8.7
 ---
 
 Te Mata Peak rises 399 metres above the Heretaunga Plains to the south-east of Hastings and is the defining landmark of the Hawke's Bay landscape. You can drive almost to the top, and the view from the trig point sweeps from the mountains behind Napier across the bay to the coast. On clear days Cape Kidnappers is visible to the south. The park is free, open year-round, and takes about 40 minutes to drive from central Hastings.

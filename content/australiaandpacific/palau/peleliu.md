@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Orange_beach_-_panoramio.j
 latitude: 7.0
 loc_type: city
 longitude: 134.25
-score: 0.54
+score: 7.93
+snippet: Southern Palau island marked by WWII battlefields, jungle ruins, and one
+  of the Pacific War's hardest fights.
 title: Peleliu
 type: location
 ---

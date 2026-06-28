@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.2188
 longitude: -121.0640
+score: 7.2
 ---
 
 The Del Oro Theatre on Mill Street is Grass Valley's 1930s Art Deco cinema, topped by a neon spire that has become one of the town's most recognisable landmarks. It still operates as a working cinema showing current films alongside classic screenings, and is well-maintained with its original period interior largely intact.

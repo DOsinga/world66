@@ -7,6 +7,7 @@ tags:
   - sight
 title: Pfarrkirche St. Peter und Paul
 type: poi
+score: 6.8
 ---
 
 The parish church of Sts Peter and Paul, finished in 1740, is the visual centre of Mittenwald. Its slim white tower is decorated with Lüftlmalerei frescoes of biblical scenes that wrap around all four sides, repainted several times over the centuries and beautifully maintained today.

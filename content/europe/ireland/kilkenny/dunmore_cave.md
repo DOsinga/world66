@@ -14,6 +14,7 @@ story: >
   as slaves. Excavations in the 20th century found the bones of at least 44
   individuals — mostly women and children — along with Viking coins and silver
   objects, confirming that the massacre was real, if the number was exaggerated.
+score: 7.9
 ---
 
 Dunmore Cave, 11 kilometres north of Kilkenny, is one of Ireland's finest limestone show caves — a series of chambers and passages decorated with exceptional calcite formations including stalactites, stalagmites, columns, and the remarkable "Market Cross" column, one of the largest known calcite formations in Ireland.

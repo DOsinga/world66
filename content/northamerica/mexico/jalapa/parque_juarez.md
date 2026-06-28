@@ -8,6 +8,7 @@ tags:
 latitude: 19.5261
 longitude: -96.9239
 snippet: "Xalapa's central park on a terrace above the valley, with a view to the Pico de Orizaba on clear mornings"
+score: 8.0
 ---
 
 Parque Juárez is the social heart of Xalapa — the place where the city assembles in the early evening, where buskers and street vendors set up, and where you'll find the most reliable WiFi in the centre. It sits on a terrace at the edge of the bluff, so the south side opens out over the valley with the volcanic cone of Pico de Orizaba on clear mornings.

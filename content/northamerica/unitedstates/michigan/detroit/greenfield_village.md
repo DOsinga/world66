@@ -10,6 +10,7 @@ tags:
 neighbourhood: Dearborn
 title: Greenfield Village
 type: poi
+score: 8.5
 ---
 
 Greenfield Village is Henry Ford's outdoor companion to his indoor museum: 80 acres of more than 80 historic buildings he had dismantled and shipped from across the country to be rebuilt in Dearborn. Edison's Menlo Park laboratory complex, where the light bulb and phonograph were invented, was moved here from New Jersey. The Wright Brothers' bicycle shop and family home came from Dayton. The Logan County courthouse where Abraham Lincoln practised law arrived from Illinois.

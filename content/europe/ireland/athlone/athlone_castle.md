@@ -14,6 +14,7 @@ story: >
   the castle walls during 20th-century restoration work.
 sources:
   - https://en.wikipedia.org/wiki/Athlone_Castle
+score: 8.1
 ---
 
 Athlone Castle stands on the west bank of the Shannon, where it has commanded the ford since 1210. King John ordered its construction as part of an effort to consolidate English control over the Irish midlands, and the site has been fought over in almost every significant conflict in Irish history — most dramatically during the Williamite War of the 1690s, when it was the pivot point of the Jacobite defence of Connacht.

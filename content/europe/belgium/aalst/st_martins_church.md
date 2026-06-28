@@ -8,6 +8,7 @@ tags:
 - sight
 title: St Martin's Church
 type: poi
+score: 7.6
 ---
 
 St Martin's (Sint-Martinuskerk) is Aalst's main church, a striking but unfinished Gothic structure begun in 1480 and never completed to the planned dimensions. The choir and transept are still impressive, and the church holds a notable collection of paintings.

@@ -16,6 +16,7 @@ story: >
   in the decorative patterns, though subtle, is real. Bhupatindra Malla's statue faces the palace
   from an elevated pillar in the square; the king looks toward the windows he commissioned,
   which has remained the view from that pillar for three hundred years.
+score: 8.2
 ---
 
 The Panchpanna Jhyale Darbar (Palace of 55 Windows) is the most recognisable facade on Bhaktapur Durbar Square — a long, three-storey palace wall of brick and carved wood with fifty-five individually crafted windows of darkened hardwood set into it. The palace dates to the late 17th century, though the building beneath has older origins.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.1847
 longitude: 57.7834
+score: 8.7
 ---
 
 Belle Mare is widely considered one of the finest beaches in Mauritius — a long, uncrowded stretch of white sand on the northeast coast, protected by the outer reef and fronted by the characteristically translucent turquoise water of the Mascarene lagoon. The beach runs for several kilometres, and even in high season there are sections far from any hotel where you can find space.

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gubbio_panorama.jpg
 latitude: 43.35176
 loc_type: city
 longitude: 12.577296
-score: 0.62
+score: 8.49
+snippet: Steep medieval Umbrian town of grey stone streets, intact walls, and towers
+  below Monte Ingino.
 title: Gubbio
 type: location
 ---

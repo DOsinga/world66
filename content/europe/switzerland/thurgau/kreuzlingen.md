@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 47.6500
 longitude: 9.1833
+score: 6.3
 ---
 
 Switzerland's largest lake-shore town on the Bodensee, Kreuzlingen sits directly on the border with the German city of Konstanz — the two towns are joined by a pedestrian crossing, and the easiest way to feel the geography is to walk it. The old town of Konstanz is just across the line; the Swiss customs office sits in the middle of what is functionally a single street.

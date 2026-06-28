@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Baba_Vida_Castle_(27379217
 latitude: 43.9931
 loc_type: city
 longitude: 22.8722
+score: 6.89
+snippet: Danube port town in northwest Bulgaria, dominated by the riverside medieval
+  fortress of Baba Vida.
 title: Vidin
 type: location
 ---

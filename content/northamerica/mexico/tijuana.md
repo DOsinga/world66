@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Border_USA_Mexico.jpg
 latitude: 32.53174
 loc_type: city
 longitude: -117.019529
-score: 0.42
+score: 6.68
+snippet: Busy Mexican border city beside San Diego, known for street tacos, craft
+  beer, and Avenida Revolución.
 title: Tijuana
 type: location
 ---

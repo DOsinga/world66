@@ -11,6 +11,7 @@ neighbourhood: Old Montreal
 snippet: The regenerated Old Port waterfront — cycling, paddleboarding, winter skating, and river views
 sources:
   - https://en.wikipedia.org/wiki/Old_Port_of_Montreal
+score: 6.9
 ---
 
 The Old Port of Montreal stretches for about 2.5 kilometres along the St. Lawrence waterfront below Old Montreal. Once the industrial heart of the city, it was transformed into a public park and entertainment complex in the 1990s and is now one of the most popular outdoor spaces in Montreal. The quays — Alexandra, King Edward, Jacques-Cartier, de la Commune — offer cycling paths, a clock tower from 1922, rental paddleboats and kayaks, and in winter a long outdoor ice skating rink.

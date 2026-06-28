@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 22.2520
 longitude: 112.7940
+score: 6.6
 ---
 
 Taicheng, the county seat, has a modest collection of early twentieth-century buildings that reflect the overseas Chinese money that flowed back from North America. Arcaded shophouses with Western ornamental details — columns, pilasters, and geometric friezes applied to Cantonese building forms — line the older commercial streets, a vernacular version of the same hybrid architecture seen more elaborately in the diaolou towers of the surrounding countryside.

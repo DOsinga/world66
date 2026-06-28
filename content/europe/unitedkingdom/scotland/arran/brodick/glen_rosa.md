@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 55.6070
 longitude: -5.2050
 story: "Glen Rosa is where the young John Keats walked in 1818, shortly after his brother Tom fell ill with tuberculosis. Keats wrote to his brother from Arran describing the glen as 'the finest I have seen' — a consoling thought in grim circumstances. He spent only a few days on the island but the landscape clearly affected him, and the glen still looks much as it would have then."
+score: 8.4
 ---
 
 Glen Rosa is the most accessible of Arran's mountain glens, running north from Brodick into the granite peaks of the island's northern massif. The walk up the glen follows the Rosa Burn through open moorland with increasingly dramatic views of the mountains ahead — Cir Mhòr's sharp summit appearing increasingly close as the glen narrows.

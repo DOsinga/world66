@@ -9,6 +9,7 @@ latitude: 51.2086
 longitude: -2.6483
 story: >
   The swans on the moat at Bishop's Palace have been trained for generations to ring a bell fixed to the gatehouse when they want to be fed. The tradition was started in the 19th century and has been passed from mother cygnet to cygnet ever since — a piece of medieval-looking theatre that is entirely genuine.
+score: 8.6
 ---
 
 The Bishop's Palace has stood beside Wells Cathedral since the 13th century and is one of the finest surviving medieval palaces in England. The moat was added in the 14th century — allegedly to defend the bishop against the townspeople, who had fallen out with the Church over trading rights. The gatehouse, the chapel ruins, and the great hall (now roofless) are all essentially intact.

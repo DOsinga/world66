@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Locarno_porto_-_panoramio.
 latitude: 46.1696
 loc_type: city
 longitude: 8.7955
-score: 0.66
+score: 8.83
+snippet: Ticino lakeside city on Lake Maggiore, centred on Piazza Grande and its open-air
+  film festival
 title: Locarno
 type: location
 ---

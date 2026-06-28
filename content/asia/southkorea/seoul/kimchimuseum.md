@@ -6,9 +6,11 @@ phone: (02)562-1075 (Korean)
 snippet: "Everything you ever wanted to know about Korea's national dish"
 tags:
 - things_to_do
+- gangnam
 - museum
 title: Kimchi Museum
 type: poi
+score: 6.1
 ---
 
 A small museum dedicated entirely to kimchi, Korea's fermented side dish that accompanies virtually every meal. Exhibits trace the history, regional varieties, and fermentation science behind the dish, with displays of the traditional earthenware crocks (onggi) used for storage. You can sample different types and there are occasional hands-on kimchi-making workshops.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.1
 ---
 
 A slender pedestrian and cycle bridge completed in 2003 as part of the Ceramique development, the Hoge Brug (High Bridge) rises steeply from both banks in a steep arch to clear river traffic. Designed by René Greisch, it is one of the more elegant pieces of contemporary infrastructure in the Netherlands and has become part of the city's modern skyline.

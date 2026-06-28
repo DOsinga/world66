@@ -9,6 +9,7 @@ latitude: 29.1731
 longitude: 121.0426
 story: >
   Guoqing Temple is the founding monastery of the Tiantai school of Buddhism, established in 598 CE under the Sui dynasty. The school's doctrines spread to Japan in the ninth century as Tendai Buddhism, making this one of the few places where Japanese pilgrims travel to China specifically to venerate a source of their own religious tradition.
+score: 9.2
 ---
 
 Guoqing Temple sits at the foot of Tiantai Mountain in a broad valley where four streams meet, chosen by the monk Zhiyi in the sixth century as a site of auspicious convergence. The complex is one of the oldest continuously active monasteries in China, and while the current buildings date mostly from Tang and Song-dynasty reconstructions, the atmosphere is that of a living religious institution rather than a heritage site. Grey-robed monks move between halls, pilgrimage groups from Japan and Korea arrive in organized parties, and the incense smoke that drifts between the courtyards carries the weight of fourteen centuries of practice.

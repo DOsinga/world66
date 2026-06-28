@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Longreach,_Queensland._(51
 latitude: -23.4378
 loc_type: city
 longitude: 144.2587
-score: 0.45
+score: 6.99
+snippet: Outback Queensland bush town where Qantas began, with museums devoted to
+  aviation and stockmen
 title: Longreach
 type: location
 ---

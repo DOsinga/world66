@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bell_tower_of_the_cathedra
 latitude: 42.1375
 loc_type: city
 longitude: -0.4086
-score: 0.53
+score: 7.62
 title: Huesca
+snippet: Provincial Pyrenean foothill city with a preserved old town and Gothic cathedral
+  anchoring the centre.
 type: location
 ---
 

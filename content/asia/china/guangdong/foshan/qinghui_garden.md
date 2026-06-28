@@ -14,6 +14,7 @@ story: >
   as his consolation. The irony of naming a consolation garden after filial duty was apparently
   intended. Subsequent generations of the family added to it over three centuries before it
   passed into public ownership.
+score: 8.8
 ---
 
 Qinghui Garden in Shunde — a district of Foshan — is often cited as the finest classical garden in Guangdong and the best example of the Lingnan garden style. Built and expanded from the Ming dynasty onward, it combines formal elements borrowed from Suzhou gardens with a distinctly southern informality: the buildings are lower, the water more prominent, and the plantings more lush. Unlike the Suzhou gardens, it is rarely crowded.

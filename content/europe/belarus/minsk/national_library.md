@@ -10,6 +10,7 @@ longitude: 27.6595
 snippet: A glowing diamond-shaped building housing 8.6 million items, lit up at night
 story: >
   The library's diamond shape — technically a rhombicuboctahedron — was chosen by architects Mikhail Vinogradov and Viktor Kramarenko from a 1989 competition design that sat in a drawer for fifteen years before the Lukashenko government finally built it. The exterior is clad in 4,638 rhombus-shaped glass panels that light up at night in shifting colours, visible from across the city.
+score: 7.3
 ---
 
 The National Library of Belarus is Minsk's most visually striking contemporary building — a giant faceted sphere that looks like a space station or a giant disco ball dropped in a residential neighbourhood east of the city centre. It houses 8.6 million items and is one of the largest libraries in the world by volume.

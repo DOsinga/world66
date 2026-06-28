@@ -1,20 +1,22 @@
 ---
 done:
   location_enrich: '2026-05-22'
+image: twinfalls.jpg
+image_attribution: Karthikc123
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Shoshone_falls.jpg
 latitude: 42.555854
 loc_type: city
 longitude: -114.470068
-score: 0.47
+score: 7.52
+snippet: Snake River Canyon city in southern Idaho, with Shoshone Falls dropping just
+  east of town.
 sources:
 - https://en.wikipedia.org/wiki/Twin_Falls,_Idaho
 - https://en.wikipedia.org/wiki/Shoshone_Falls
 - https://en.wikipedia.org/wiki/Perrine_Bridge
 title: Twin Falls
 type: location
-image: twinfalls.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Shoshone_falls.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Karthikc123
 ---
 
 Twin Falls sits on the rim of the [Snake River Canyon](/northamerica/unitedstates/idaho/twinfalls/snake_river_canyon) in south-central Idaho, and the scenery here is genuinely dramatic. [Shoshone Falls](/northamerica/unitedstates/idaho/twinfalls/shoshone_falls), just east of town, drops 212 feet, making it higher than Niagara, and on a spring day with full water flow it is spectacular. The falls are best visited between April and July before irrigation draws down the river level. There is a modest park entrance fee, and the viewing platforms give you a good look at the whole cascade.

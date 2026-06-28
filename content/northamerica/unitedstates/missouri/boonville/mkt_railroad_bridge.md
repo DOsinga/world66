@@ -8,6 +8,7 @@ tags:
 latitude: 38.9779
 longitude: -92.7507
 snippet: "1932 Pratt-truss lift bridge over the Missouri, repurposed for the Katy Trail"
+score: 7.2
 ---
 
 The blue-painted steel truss spanning the Missouri at Boonville started life as a railway bridge for the MKT line in 1932, replacing an earlier crossing. When the railroad was abandoned in the mid-1980s the bridge sat idle, then was rehabilitated for the [Katy Trail](/northamerica/unitedstates/missouri/boonville/katy_trail) in the 2010s after a long fight to save it from demolition.

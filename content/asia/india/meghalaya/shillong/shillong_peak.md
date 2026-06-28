@@ -12,6 +12,7 @@ story: >
   guardian deity who gives the city its name. Local elders still
   perform rituals at a small shrine near the summit, though it sits
   inside an Indian Air Force base that controls all access.
+score: 8.0
 ---
 
 At 1,965 metres, Shillong Peak is the highest point in the state and the standard sunrise pilgrimage. The viewing platform takes in the whole city below — a basin of red roofs and pine — with the Bangladesh plains visible to the south on a clear day.

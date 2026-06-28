@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - historic_site
 - architecture
+score: 5.8
 ---
 
 The Taliaferro County Courthouse sits on the square at the centre of Crawfordville and dates from 1902. It is a modestly scaled brick building in a county that has seen its population decline dramatically since the early 20th century — Taliaferro County now has fewer than 1,500 people, making it one of the least populous counties in the eastern United States.

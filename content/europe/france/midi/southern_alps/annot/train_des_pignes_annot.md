@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Annot
   - https://en.wikipedia.org/wiki/Annot_derailment
+score: 7.7
 ---
 
 Annot sits on the [Train des Pignes](/europe/france/midi/southern_alps/train_des_pignes) — the narrow-gauge railway that runs 150 kilometres from Nice to Digne-les-Bains through the Southern Alps. The railway is the reason Annot has more accommodation than you would expect for a town of its size; it was built to serve isolated mountain communities, and it still does. Arriving by train and walking up to the boulders is the ideal way to spend a day here.

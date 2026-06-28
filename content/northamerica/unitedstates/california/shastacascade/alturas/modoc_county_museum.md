@@ -8,6 +8,7 @@ latitude: 41.4795
 longitude: -120.542
 story: >
   The Modoc War of 1872–73 is one of the most studied small conflicts in American military history — not for its scale (it involved fewer than 60 Modoc fighters) but because a tiny band held off the US Army for nearly six months using the lava beds south of here as natural fortifications. The Modoc leader Captain Jack was eventually captured, tried for the murder of a US general during peace negotiations, and hanged in 1873. His skull was later put on display at the Army Medical Museum in Washington.
+score: 7.0
 ---
 
 The Modoc County Historical Museum, at 600 South Main Street, covers the layered history of this remote corner of California: the Modoc people who occupied the area for thousands of years, the ranching culture that followed American settlement, and the events of the Modoc War of 1872–73 — one of the last significant armed conflicts between the US government and Native Americans in California.

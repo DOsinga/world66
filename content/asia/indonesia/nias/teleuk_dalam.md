@@ -5,7 +5,9 @@ done:
 latitude: 0.5631
 loc_type: city
 longitude: 97.8195
-score: 0.4
+score: 6.36
+snippet: South Nias capital serving as the gateway to Sorake surf breaks and traditional
+  villages.
 title: Teluk Dalam
 type: location
 ---

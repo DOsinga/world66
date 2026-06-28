@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kiffa_market.jpg
 latitude: 16.6162
 loc_type: city
 longitude: -11.4002
-score: 0.21
+score: 4.47
+snippet: Desert town on Mauritania's Route de l'Espoir, known for markets and traditional
+  glass Kiffa beads.
 title: Kiffa
 type: location
 ---

@@ -14,6 +14,7 @@ story: >
   only in a trading town like Kangding where different cultures met. It was recorded
   and broadcast nationally, and for a generation of Chinese people who had never
   visited, Kangding meant Paoma Mountain and the song they heard on the radio.
+score: 7.4
 ---
 
 Paoma Mountain — Running Horse Mountain — rises directly above Kangding's centre, its forested slopes beginning where the commercial streets end. The ascent on foot takes about thirty minutes and is a legitimate walk rather than a strenuous hike; a cable car covers the same distance for those who want the views without the exertion. A temple complex on the summit contains several halls with good views of the Zheduo River gorge below and the snow peaks that crowd the skyline in every direction.

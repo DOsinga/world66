@@ -4,10 +4,12 @@ done:
 latitude: 36.172
 longitude: -115.2425
 phone: 702-363-5585
+score: 6.6
 snippet: No-frills Louisiana-style fried fish off the Strip
 tags:
 - eating_out
 - restaurant
+- chinatown
 title: Mr. J's Fish Market
 type: poi
 ---

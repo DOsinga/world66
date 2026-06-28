@@ -1,7 +1,7 @@
 ---
-category: Mountain
 latitude: -33.951
 longitude: 18.435
+score: 7.6
 scores:
   activities: 0.5463
   sight: 0.6362
@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 - outdoor
+- observatory
 title: Devil's Peak
 type: poi
 ---

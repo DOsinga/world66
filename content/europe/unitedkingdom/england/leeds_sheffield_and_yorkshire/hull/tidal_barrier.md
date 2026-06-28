@@ -7,6 +7,7 @@ tags:
 title: River Hull Tidal Surge Barrier
 type: poi
 snippet: "Distinctive yellow flood barrier at the mouth of the River Hull, raised to protect the city from tidal surges"
+score: 6.9
 ---
 
 The River Hull Tidal Surge Barrier was built in 1980 at the point where the river meets the Humber. It is a guillotine-style gate — yellow-painted and unmissable — that is dropped during tidal surges to prevent the river backing up into the city. It is operated by the Environment Agency and has been deployed several times during major storm events, including the 2013 surge that flooded large parts of the Humber estuary.

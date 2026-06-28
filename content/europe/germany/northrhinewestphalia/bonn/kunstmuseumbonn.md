@@ -11,6 +11,7 @@ tags:
 - museum
 title: Kunstmuseum Bonn
 type: poi
+score: 8.0
 ---
 
 The municipal art museum holds an excellent collection of August Macke and the Rhenish Expressionists, plus a strong selection of post-war German art. Part of the Museumsmeile, the airy building itself is worth a look. Open Tuesday to Sunday.

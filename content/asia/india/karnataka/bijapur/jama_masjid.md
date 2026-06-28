@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Vast 16th-century Friday mosque begun by Ali Adil Shah I
+score: 8.3
 ---
 
 One of the largest mosques in India and one of the most architecturally pure. Construction began under Ali Adil Shah I in 1576 and continued through the next century, though the gatehouse and the planned eastern minarets were never finished. The single great prayer hall — open on three sides — has nine bays and a vast central dome supported by massive arches.

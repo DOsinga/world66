@@ -7,6 +7,7 @@ snippet: Hands-on science museum in a former bank building
 tags:
 - things_to_do
 - museum
+score: 5.3
 ---
 
 The regional science centre fills four floors of a former bank just east of the main pedestrian street, packed with interactive exhibits on physics, biology, energy, and astronomy. It is squarely aimed at families with school-age children, with the expected button-pressing and pulley-hauling, but adults who like that sort of thing will find plenty to play with — the planetarium and the optical illusions room in particular.

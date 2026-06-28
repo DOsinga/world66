@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2016._Ponte_sobre_o_Sil._O
 latitude: 42.3483
 loc_type: city
 longitude: -6.966
-score: 0.43
+score: 6.93
+snippet: Galician wine comarca along the Sil and Xares valleys, known especially for
+  Godello and Mencía.
 title: Valdeorras
 type: location
 ---

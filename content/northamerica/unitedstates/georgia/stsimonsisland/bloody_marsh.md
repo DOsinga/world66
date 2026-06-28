@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.1567
 longitude: -81.3797
+score: 6.6
 ---
 
 A short distance south of the village, a small interpretive site marks the place where, on 7 July 1742, a British force under Oglethorpe ambushed a much larger Spanish detachment from Florida and effectively decided the future of the Georgia colony. The site is small — really just a marker, a few panels, and a view of the marsh — but it is one of the few easily visited Spanish-British battlefields in the American South.

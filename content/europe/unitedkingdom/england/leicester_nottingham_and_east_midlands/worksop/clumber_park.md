@@ -11,6 +11,7 @@ latitude: 53.273
 longitude: -1.064
 sources:
   - https://en.wikipedia.org/wiki/Clumber_Park
+score: 9.2
 ---
 
 Clumber Park is the grandest of the Dukeries estates and one of the finest National Trust properties in the Midlands. The ducal mansion was demolished in 1938, but everything else remains: a serpentine lake stretching nearly a mile, avenues of limes and cedars, and nearly 4,000 acres of ancient woodland and heathland. Cycling here is a particular pleasure — there are miles of designated routes through the trees, and bikes can be hired from the visitor centre near the main entrance.

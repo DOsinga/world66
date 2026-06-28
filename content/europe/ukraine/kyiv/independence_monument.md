@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4495
 longitude: 30.5254
+score: 5.4
 ---
 
 A 52-metre granite column in the centre of Maidan Nezalezhnosti, topped by a gilded bronze figure of Berehynia — a folkloric protectress holding a guelder-rose branch. The monument was erected in 2001 for the tenth anniversary of Ukrainian independence and replaced the Lenin who had stood here through the Soviet years.

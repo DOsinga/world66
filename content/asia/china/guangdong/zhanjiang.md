@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhanjiang_Bay_Bridge_-_201
 latitude: 21.2
 loc_type: city
 longitude: 110.4
+score: 6.31
+snippet: Leizhou Peninsula port city with a French colonial trace facing Hainan across
+  the strait
 sources:
 - https://en.wikivoyage.org/wiki/Zhanjiang
 title: Zhanjiang

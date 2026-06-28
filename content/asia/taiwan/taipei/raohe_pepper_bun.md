@@ -2,9 +2,11 @@
 address: Entrance Raohe Night Market, Songshan District, Taipei
 latitude: 25.0508
 longitude: 121.5779
+score: 6.7
 snippet: Tandoor-baked beef and scallion buns, an obligatory Taipei snack
 tags:
 - eating_out
+- songshan
 title: Fuzhou Shizu Pepper Buns
 type: poi
 ---

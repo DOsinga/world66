@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Akhalkalaki_Fortress_(7).j
 latitude: 41.407791
 loc_type: city
 longitude: 43.485427
-score: 0.38
+score: 6.25
+snippet: Southern Georgian plateau city near the Armenian border, useful as a transit
+  hub
 title: Akhalkalaki
 type: location
 ---

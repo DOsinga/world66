@@ -1,12 +1,14 @@
 ---
-title: "MoMA (Museum of Modern Art)"
-type: poi
-tags:
-  - things_to_do
-  - museum
+address: 11 West 53rd Street, Midtown
 latitude: 40.7614
 longitude: -73.9776
-address: "11 West 53rd Street, Midtown"
+score: 9.4
+tags:
+- things_to_do
+- museum
+- midtown
+title: MoMA (Museum of Modern Art)
+type: poi
 ---
 
 MoMA is the world's most important museum of modern and contemporary art, holding the canonical collection of 20th-century painting, sculpture, photography, film, and design. Van Gogh's "Starry Night," Picasso's "Les Demoiselles d'Avignon," Monet's "Water Lilies," Warhol's "Campbell's Soup Cans," Pollock's "One: Number 31" — all here. The permanent collection alone contains 200,000 objects.

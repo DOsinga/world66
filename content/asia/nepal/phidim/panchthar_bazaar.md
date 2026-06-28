@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 27.1460
 longitude: 87.7660
+score: 6.7
 ---
 
 Phidim's main bazaar is a lively strip of shops, tea stalls, and small restaurants serving as the commercial hub for the surrounding villages. The mix of Limbu, Magar, Rai, and Brahmin traders gives it a more cosmopolitan feel than most hill towns of similar size. You will find everything from fresh cardamom and large cardamom (a regional cash crop) to practical mountain gear and local raksi.

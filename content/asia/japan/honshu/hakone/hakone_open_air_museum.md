@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2490
 longitude: 139.0530
+score: 8.2
 ---
 
 Japan's first open-air art museum, established in 1969, displaying around 120 sculptures in seven hectares of landscaped grounds in the mountains above Hakone-Yumoto. The collection spans major 20th-century Western and Japanese sculptors: Rodin, Bourdelle, Moore, Picasso, and Taro Okamoto are all represented. The indoor Picasso Pavilion holds over 300 works.

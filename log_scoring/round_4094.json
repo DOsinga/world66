@@ -1,0 +1,200 @@
+{
+  "round": 4094,
+  "timestamp": "2026-06-13T23:43:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Gran Sabana",
+      "path": "southamerica/venezuela/lagransabana",
+      "prior_score": 2.8761,
+      "prior_variance": 0.144345,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 4.3175,
+      "prior_variance": 0.110417,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.0377,
+      "prior_variance": 0.097333,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester",
+      "prior_score": 0.0227,
+      "prior_variance": 0.126691,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 1.6881,
+      "prior_variance": 0.101578,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 0.7258,
+      "prior_variance": 0.10797,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 1.8648,
+      "prior_variance": 0.10648,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": 0.4,
+      "prior_variance": 0.090558,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": 0.3256,
+      "prior_variance": 0.096603,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Falkirk",
+      "path": "europe/unitedkingdom/scotland/falkirk",
+      "prior_score": -0.7301,
+      "prior_variance": 0.101279,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.4974,
+      "prior_variance": 0.096727,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.0271,
+      "prior_variance": 0.095709,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -2.0266,
+      "prior_variance": 0.096855,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 0.7559,
+      "prior_variance": 0.105084,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -2.8648,
+      "prior_variance": 0.115717,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -1.2584,
+      "prior_variance": 0.110232,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Yongzhou",
+      "path": "asia/china/hunan/yongzhou",
+      "prior_score": -3.875,
+      "prior_variance": 0.104054,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -4.7333,
+      "prior_variance": 0.103501,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_score": -4.1545,
+      "prior_variance": 0.129819,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.6463,
+      "prior_variance": 0.126103,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -4.4883,
+      "prior_variance": 0.14524,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -3.3721,
+      "prior_variance": 0.102574,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_score": -4.7325,
+      "prior_variance": 0.140561,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -6.3539,
+      "prior_variance": 0.152317,
+      "prior_n": 13
+    }
+  ]
+}

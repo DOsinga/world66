@@ -9,6 +9,7 @@ longitude: 24.8333
 snippet: Coastal suburb with a beach, Olympic sailing marina, and ruined convent
 sources:
   - https://en.wikipedia.org/wiki/Pirita,_Tallinn
+score: 7.7
 ---
 
 Pirita is the coastal suburb east of the city centre, about 6 kilometres from the Old Town, known for its beach and its role as the sailing venue for the 1980 Moscow Olympics. The marina built for those games is still active, and the TV tower is nearby. The beach is one of the few sandy beaches accessible from Tallinn and is packed in summer.

@@ -6,6 +6,7 @@ tags:
 - museum
 title: Banquitas House of Culture
 type: poi
+score: 5.9
 ---
 The Banquitas House of Culture occupies a restored colonial-era building on the riverside in Orange Walk Town. The museum covers local history from the pre-Columbian Maya through the British colonial period, with exhibits on the sugar industry that has shaped the region's economy and demographics. It is small but well-presented, and the staff are knowledgeable about both the collection and the wider area.
 

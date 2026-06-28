@@ -11,6 +11,7 @@ story: >
   since the 15th century. The performances take place under large bamboo and cloth pavilions erected
   specifically for the festival and dismantled afterwards — the same temporary, impermanent structures
   described in accounts from the Ahom period.
+score: 9.3
 ---
 
 The Raas Leela festival is Majuli's most important cultural event, held in mid-November across several satras simultaneously — the largest celebrations at Dakhinpat, Kamalabari, and Garamur. The festival commemorates the Krishna-Raas story from the Bhagavata Purana: the night when Krishna danced with the gopis in the forests of Vrindavan. On Majuli, it has evolved into an all-night program of Bhaona (classical drama), Borgeet singing, and Sattriya dance performed by monks in full costume.

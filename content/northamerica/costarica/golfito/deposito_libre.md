@@ -8,6 +8,7 @@ tags:
   - sight
   - shopping
 story: "To shop at the Depósito legally, foreign visitors need to register with their passport the day before and stay overnight in Golfito. The scheme was designed in 1990 specifically to keep Ticos in town for at least 24 hours and spread some of the duty-free spending to local hotels."
+score: 5.1
 ---
 
 The duty-free zone at the north end of town is the reason most Costa Ricans visit Golfito. Created in 1990 to compensate the local economy for the United Fruit pullout, the Depósito sells electronics, appliances, and household goods at substantially lower prices than the rest of the country.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_de_imbituba.jpg
 latitude: -28.2418
 loc_type: city
 longitude: -48.6643
-score: 0.43
+score: 6.87
+snippet: Santa Catarina port town known for shore-based southern right whale watching
+  and nearby Praia do Rosa.
 title: Imbituba
 type: location
 ---

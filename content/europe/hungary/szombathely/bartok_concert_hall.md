@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The hall is the former Great Synagogue of Szombathely, built in 1881 for what was one of the largest Jewish communities in western Hungary. A plaque outside lists the names of the local Jews deported to Auschwitz in the summer of 1944; only a small fraction returned."
+score: 7.4
 ---
 
 The Béla Bartók Concert Hall occupies the city's former Great Synagogue, a striking Moorish-Romantic building converted in the 1970s into one of the best small concert venues in Hungary.

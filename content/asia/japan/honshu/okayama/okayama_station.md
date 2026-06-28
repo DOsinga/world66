@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, architecture, transport]
 latitude: 34.6664
 longitude: 133.9186
+score: 5.3
 ---
 
 Okayama Station is a major rail junction, but it is also part of the city's identity. The Momotaro statue outside the station is the standard meeting point, and the surrounding shops are good for regional sweets, fruit gifts, and quick meals.

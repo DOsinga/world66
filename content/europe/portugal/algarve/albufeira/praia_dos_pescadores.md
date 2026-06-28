@@ -13,6 +13,7 @@ story: >
   sand for decades, an arrangement that occasionally produces surreal scenes: a trawler
   being dragged up the beach through sunbathers, its catch being gutted a few metres
   from a family picnic.
+score: 7.4
 ---
 
 Praia dos Pescadores is the most central beach in Albufeira, sitting directly below the old town cliff and accessible by a tunnel cut through the rock from the main square. It is compact, sheltered, and lively — the combination of golden sand, colourful fishing boats, and the terracotta-topped old town rising behind it produces the quintessential Albufeira postcard. The beach fills up in summer but rarely feels as crushed as some of the larger resort beaches to the east.

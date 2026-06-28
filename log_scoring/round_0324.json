@@ -1,200 +1,200 @@
 {
   "round": 324,
-  "timestamp": "2026-04-12T09:11:47",
+  "timestamp": "2026-06-13T19:29:49",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Charleston",
-      "path": "northamerica/unitedstates/southcarolina/charleston",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 6.9819,
+      "prior_variance": 1.914638,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Ajaccio",
-      "path": "europe/france/corsica/ajaccio",
-      "prior_mu": 23.236,
-      "prior_sigma": 6.0143,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 6.4494,
+      "prior_variance": 1.676788,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Krk Island",
-      "path": "europe/croatia/krkisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 4.9732,
+      "prior_variance": 1.891133,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Aran islands",
-      "path": "europe/ireland/aranislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 2.0006,
+      "prior_variance": 1.709112,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Pescasseroli",
-      "path": "europe/italy/abruzzo/pescasseroli",
-      "prior_mu": 22.7348,
-      "prior_sigma": 5.95,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 0.2066,
+      "prior_variance": 1.570998,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Winterthur",
-      "path": "europe/switzerland/winterthur",
-      "prior_mu": 22.1723,
-      "prior_sigma": 5.8466,
+      "title": "Taining",
+      "path": "asia/china/fujianprovince/taining",
+      "prior_score": 4.0998,
+      "prior_variance": 1.812829,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Castries",
-      "path": "northamerica/saintlucia/castries",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": 2.4929,
+      "prior_variance": 1.959617,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Trujillo",
-      "path": "southamerica/peru/trujillo_1",
-      "prior_mu": 21.4919,
-      "prior_sigma": 5.5054,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": 1.5762,
+      "prior_variance": 1.578071,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Coober Pedy",
-      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -2.2172,
+      "prior_variance": 1.673009,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Ilh\u00e9us",
-      "path": "southamerica/brazil/lheus",
-      "prior_mu": 22.7159,
-      "prior_sigma": 5.949,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -3.3705,
+      "prior_variance": 1.721585,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Karakol",
-      "path": "asia/kyrgyzstan/karakol",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": 2.5706,
+      "prior_variance": 1.70309,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Oberhof",
-      "path": "europe/germany/thuringia/oberhof",
-      "prior_mu": 22.6437,
-      "prior_sigma": 5.9389,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.5454,
+      "prior_variance": 1.868709,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Amherst",
-      "path": "northamerica/unitedstates/massachusetts/amherst",
-      "prior_mu": 22.5246,
-      "prior_sigma": 5.9132,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -7.0446,
+      "prior_variance": 2.062569,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Grand-Bassam",
-      "path": "africa/ivorycoast/grandbassam",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hailar",
+      "path": "asia/china/innermongolia/hailar",
+      "prior_score": -7.8808,
+      "prior_variance": 1.693828,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Sagay City",
-      "path": "asia/philippines/negrosisland/sagay_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -4.9389,
+      "prior_variance": 1.976825,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Largo",
-      "path": "northamerica/unitedstates/florida/largo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": 0.2282,
+      "prior_variance": 1.626172,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Albany",
-      "path": "northamerica/unitedstates/newyorkstate/albany",
-      "prior_mu": 22.6934,
-      "prior_sigma": 5.9462,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_score": -4.7273,
+      "prior_variance": 1.672601,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Banana islands",
-      "path": "africa/sierraleone/bananaislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -6.7439,
+      "prior_variance": 2.87634,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Yea",
-      "path": "australiaandpacific/australia/victoria/yea",
-      "prior_mu": 21.6577,
-      "prior_sigma": 4.7344,
-      "prior_n": 2
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_score": -2.7257,
+      "prior_variance": 1.660727,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Kotayk Marz",
-      "path": "europe/armenia/kotayk_marz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -9.859,
+      "prior_variance": 3.670458,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Pulau Sekang",
-      "path": "asia/singapore/islands/pulausekang",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -9.0327,
+      "prior_variance": 2.076193,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Sister Islands",
-      "path": "asia/singapore/islands/sisterislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -4.4255,
+      "prior_variance": 1.829178,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Ngaound\u00e9r\u00e9",
-      "path": "africa/cameroon/ngaoundere",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -11.7803,
+      "prior_variance": 3.26512,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Malange",
-      "path": "africa/angola/malange",
-      "prior_mu": 18.9373,
-      "prior_sigma": 5.2072,
-      "prior_n": 2
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -13.043,
+      "prior_variance": 3.051734,
+      "prior_n": 1
     }
   ]
 }

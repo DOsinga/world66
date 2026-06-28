@@ -7,6 +7,7 @@ tags:
 - museum
 title: Awa Jurobe Yashiki
 type: poi
+score: 8.2
 ---
 
 A combined museum and working theatre about 4 km north of Tokushima Station, dedicated to Awa Ningyo Joruri — the local style of bunraku puppetry in which three-person teams operate metre-tall puppets to live shamisen accompaniment. The 17th-century estate belonged to Bando Jurobe, a samurai whose tragic story became the basis for one of bunraku's most famous plays.

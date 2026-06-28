@@ -11,6 +11,7 @@ story: >
   jealous fellow workers while helping build the Cologne Cathedral in the ninth century. His body was
   transported to Dortmund by oxen, and when the oxen stopped here and refused to move, the city
   took it as a sign that this was where he should be buried.
+score: 8.1
 ---
 
 The Reinoldikirche is Dortmund's most important church and the de facto symbol of the city, its spire marking the Altmarkt at the historic centre. The building dates from the thirteenth century, though its current form reflects substantial reconstruction after wartime damage. The soaring Gothic nave is the finest medieval interior in the city.

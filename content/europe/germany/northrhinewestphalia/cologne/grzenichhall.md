@@ -1,6 +1,10 @@
 ---
+latitude: 50.936672
+longitude: 6.958461
+score: 6.1
 tags:
 - things_to_do
+- sight
 - architecture
 title: Gürzenich Hall
 type: poi

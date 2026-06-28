@@ -4,10 +4,12 @@ latitude: 41.389562
 longitude: 2.155418
 opening_hours: Daily 1–4pm, 8:30pm–midnight
 price_range: €12–18 per pizza
+score: 7.3
 snippet: Wood-fired pizza in a converted parking garage, Barcelona's best
 tags:
 - eating_out
 - restaurant
+- eixample
 title: Parking Pizza
 type: poi
 url: www.parkingpizza.com

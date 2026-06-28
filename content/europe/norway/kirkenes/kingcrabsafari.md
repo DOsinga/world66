@@ -11,6 +11,7 @@ title: King Crab Safari
 type: poi
 story: >
   The red king crab is not native to these waters. Soviet scientists introduced it to the Barents Sea near Murmansk in the 1960s as a food source, intending it to stay in Russian waters. It did not: the crab has spread steadily westward along the Norwegian coast for decades, and local fishermen went from considering it a nuisance to building an entire tourism industry around it.
+score: 8.6
 ---
 
 The Barents Sea king crab is an invasive giant — a two-metre legspan is not unusual — and half a dozen local operators run safaris to catch and eat them. In winter you go out by snowmobile onto the frozen Barents Sea, drill through the ice, and haul up crabs caught in baited pots; in summer the same trip runs by RIB boat. Either way the outing ends with the crabs steamed on the spot and eaten at a trestle table overlooking the water.

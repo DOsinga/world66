@@ -1,9 +1,14 @@
 ---
 address: Main Road Sidhbari, Dharamsala
 category: Museum
+latitude: 32.1887
+longitude: 76.3573
 phone: 09816043708
+score: 6.4
 tags:
 - things_to_do
+- museum
+- gallery
 title: Naam Art Gallery
 type: poi
 url: naamartgallery.com

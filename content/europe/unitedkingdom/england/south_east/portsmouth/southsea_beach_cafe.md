@@ -8,6 +8,7 @@ tags:
   - cafe
   - southsea
 neighbourhood: Southsea
+score: 5.4
 ---
 
 A glass-walled café on the prom near South Parade Pier with a wraparound terrace looking out over the shingle beach and the Isle of Wight in the distance. The menu is mostly breakfast and lunch — eggs, sandwiches, fish and chips, ice cream — but the coffee is decent and the view is what you're paying for.

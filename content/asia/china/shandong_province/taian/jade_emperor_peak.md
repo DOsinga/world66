@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 36.2563
 longitude: 117.1075
+score: 8.3
 ---
 
 The Jade Emperor Peak (Yuhuangding) is the highest point on Mount Tai, marked by a small temple to the Jade Emperor and a stele recording the elevation as 1,545 metres. Pilgrims tie red ribbons to the railings of the platform and burn incense in the temple courtyard. At sunrise the platform is shoulder-to-shoulder with people waiting for the first light over the eastern horizon.

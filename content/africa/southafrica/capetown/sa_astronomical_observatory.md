@@ -1,8 +1,7 @@
 ---
-category: Observatory
 latitude: -33.9341
 longitude: 18.4774
-neighbourhood: Observatory
+score: 7.5
 scores:
   activities: 0.5661
   sight: 0.5994

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_Vigan_
 latitude: 17.5755
 loc_type: city
 longitude: 120.3873
-score: 0.6
+score: 8.51
+snippet: Spanish colonial city in Luzon, preserving Calle Crisologo's stone-and-wood
+  houses and capiz windows
 title: Vigan
 type: location
 ---

@@ -1,11 +1,12 @@
 ---
 latitude: 47.4997
 longitude: 19.048
+score: 8.0
 tags:
 - things_to_do
 - sight
 - architecture
-- castle_district
+- lipotvaros
 title: Gresham Palace
 type: poi
 ---

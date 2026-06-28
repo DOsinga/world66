@@ -8,6 +8,7 @@ tags:
   - restaurant
   - santurce
 neighbourhood: Santurce
+score: 7.8
 ---
 
 José Enrique put Santurce's food scene on the international map in the early 2000s, and the restaurant — relocated and rebuilt after Hurricane María, still run by the same chef — remains one of the most important kitchens in the Caribbean. The cooking is what Enrique calls "elevated Puerto Rican": local seafood, market produce, deeply traditional flavours, plated with restraint.

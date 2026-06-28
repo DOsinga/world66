@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Benalm%C3%A1dena_hotel.jpg
 latitude: 36.594519
 loc_type: city
 longitude: -4.572284
-score: 0.58
+score: 8.01
+snippet: Costa del Sol resort town with a beach strip, old village, and hilltop cable-car
+  views.
 title: Benalmadena
 type: location
 ---

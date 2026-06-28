@@ -12,6 +12,7 @@ tags:
 - ostermalm
 title: Kaknäs TV-Tower
 type: poi
+score: 6.7
 ---
 
 At 155 metres, the Kaknäs Tower is the tallest building in Scandinavia and offers sweeping views over Stockholm's archipelago, the city centre, and the surrounding parkland of Djurgården. There's an observation deck at 128 metres and a café one floor below. On a clear day you can see for miles in every direction. The tower sits in the leafy Gärdet district, an easy walk from the Djurgården museums.

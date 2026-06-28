@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 30.052222
 longitude: 31.280556
+score: 8.7
 snippet: Vast Mamluk-era necropolis where thousands live among the tombs
 tags:
 - things_to_do
 - sight
+- islamic_cairo
 title: City of the Dead
 type: poi
 ---

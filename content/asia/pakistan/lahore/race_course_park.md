@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.8
 ---
 
 Jilani Park — better known as the Race Course Park — is one of Lahore's largest and most popular public parks, occupying the site of the former colonial horse-racing track. Walking paths loop the perimeter, with a large lake at the centre and the city's main Japanese garden in the south-east corner.

@@ -6,6 +6,7 @@ longitude: -79.9320
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Mill Mountain Park is the 568-acre wooded park that occupies the small mountain rising directly south of downtown Roanoke. The park contains the [Roanoke Star](/northamerica/unitedstates/virginia/roanoke/roanoke_star), the [Mill Mountain Zoo](/northamerica/unitedstates/virginia/roanoke/mill_mountain_zoo), a small visitor centre, and around ten miles of hiking and mountain-biking trails.

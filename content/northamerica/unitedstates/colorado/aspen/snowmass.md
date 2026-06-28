@@ -8,6 +8,7 @@ tags:
 - sight
 title: Snowmass
 type: poi
+score: 8.4
 ---
 
 Snowmass is the largest of the four Aspen mountains and the only one with a meaningful beginner area, which makes it the de facto family choice. It is also a separate base village ten miles down-valley from Aspen, with its own hotels and restaurants. The skiable acreage is over 1,300 hectares, more than Aspen Mountain, Highlands and Buttermilk combined.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 1.2158
 longitude: -77.2797
+score: 6.8
 ---
 
 Pasto's main cathedral, dedicated to the Augustinian missionary Ezequiel Moreno, who served as Bishop of Pasto in the 1890s and was canonised in 1992. The current building was finished in the 1960s in a heavy neoclassical style, replacing an earlier colonial church.

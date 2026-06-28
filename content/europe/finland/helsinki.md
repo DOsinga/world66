@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Suomenlinna_(cropped).jpg
 latitude: 60.16662
 loc_type: city
 longitude: 24.943541
-score: 0.65
+score: 8.67
+snippet: Baltic Finnish capital where harbour markets, neoclassical squares, and design
+  districts sit within walking distance.
 title: Helsinki
 type: location
 ---

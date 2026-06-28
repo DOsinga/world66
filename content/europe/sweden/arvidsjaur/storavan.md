@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 65.6800
 longitude: 18.5000
+score: 6.1
 ---
 
 Storavan is the large lake immediately west of Arvidsjaur — part of the chain of waterways that drains the eastern slopes of the mountains into the Skellefte river. In summer it is one of the main swimming and canoeing lakes of the region, with several small sandy beaches, sheltered bays, and islands.

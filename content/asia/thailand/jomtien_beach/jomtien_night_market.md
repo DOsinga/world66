@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 12.8800
 longitude: 100.8770
+score: 5.6
 ---
 
 The Jomtien Night Market sets up in a sandy lot just back from the beach near Jomtien Soi 5 most evenings from around 5pm. It is small compared with the big Pattaya markets but considerably more local: cheap Thai food (pad thai, pork skewers, papaya salad), fresh fruit, knock-off T-shirts, mobile phone covers, the usual.

@@ -3,16 +3,17 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
 image: placerville.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bell_Tower_Placerville_California_-_panoramio.jpg
 image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bell_Tower_Placerville_California_-_panoramio.jpg
 latitude: 38.729625
+loc_type: city
 longitude: -120.798546
+score: 7.05
+snippet: Gold Rush town on Highway 50, still wearing traces of its old Hangtown identity.
+sources:
+- https://en.wikipedia.org/wiki/Placerville,_California
 title: Placerville
 type: location
-score: 0.47
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Placerville,_California
 ---
 
 Placerville sits halfway between Sacramento and South Lake Tahoe on Highway 50, and it's a better stop than you might expect. Main Street mixes hip coffee shops, old-fashioned burger joints, and enough historical grit to keep things interesting.

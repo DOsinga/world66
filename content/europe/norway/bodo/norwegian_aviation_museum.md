@@ -13,6 +13,7 @@ story: >
   Union after Francis Gary Powers was shot down in 1960. The Cold War near-miss 
   happened almost directly overhead: Bodø was Powers' intended landing strip before 
   the Soviets downed him over Sverdlovsk.
+score: 8.2
 ---
 
 Norway's national aviation museum sits on the edge of Bodø airport and covers the full arc of Norwegian flight, from the earliest biplanes to the jet age. The Cold War section is the most compelling, partly because it is so local: Bodø served as a major NATO air base during the Cold War, and the museum holds exhibits relating to that period including material connected to the 1960 U-2 incident.

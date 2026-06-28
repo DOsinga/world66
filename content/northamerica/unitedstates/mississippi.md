@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 32.971528
+loc_type: region
 longitude: -89.73485
 score: 0.4
+snippet: Deep South state where Delta blues, civil rights history, and literary towns
+  carry unusual cultural weight.
 title: Mississippi
 type: location
-loc_type: region
 ---
 
 Mississippi is one of the poorest and least-visited states in the US, but it has a cultural weight that far outstrips its size or wealth. This is where the blues were born -- in the cotton fields of the Delta -- and where the civil rights movement fought some of its most important and brutal battles. The state's history is complicated and painful, and that honesty is part of what makes it a fascinating place to travel.

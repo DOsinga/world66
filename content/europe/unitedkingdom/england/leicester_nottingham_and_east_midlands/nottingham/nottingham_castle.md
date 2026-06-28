@@ -10,6 +10,7 @@ tags:
   - museum
 snippet: A Restoration-era mansion on the rock that held the medieval royal fortress.
 story: "In 1330 a teenaged Edward III led a small band of conspirators up Mortimer's Hole — a secret passage cut through the sandstone — and burst into Roger Mortimer's bedchamber, arresting the regent who had killed his father. The coup ended four years of Mortimer's rule and began Edward's fifty-year reign."
+score: 8.2
 ---
 
 What stands today is not the medieval castle of legend but a 17th-century ducal mansion, built after Parliament demolished the original fortress at the end of the English Civil War. The William and Mary house sits dramatically on Castle Rock, the sandstone bluff that rises above the south-west edge of the city, and now serves as the city's main museum and art gallery — a recent £30 million refit reopened it in 2021 with the Robin Hood story, Nottingham's industrial history, and a fine ceramics collection.

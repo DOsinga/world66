@@ -1,6 +1,6 @@
 ---
 title: Things to do in Westport
-type: poi
+type: section
 url: charterwestport.com
 ---
 

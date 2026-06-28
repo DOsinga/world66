@@ -4,6 +4,9 @@ done:
 latitude: 18.8333
 loc_type: city
 longitude: -72.1053
+score: 4.72
+snippet: Central Plateau Haitian market town at a crossroads between Port-au-Prince,
+  Hinche, Artibonite, and Saut-d’Eau.
 sources:
 - https://en.wikipedia.org/wiki/Mirebalais
 - https://en.wikipedia.org/wiki/H%C3%B4pital_Universitaire_de_Mirebalais

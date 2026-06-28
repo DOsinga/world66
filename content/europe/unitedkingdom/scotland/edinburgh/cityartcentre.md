@@ -5,10 +5,11 @@ done:
 latitude: 55.951953
 longitude: -3.190208
 phone: 0131 529 3993
+score: 7.2
 snippet: Six-floor gallery with Scottish art and changing touring exhibitions
 tags:
 - things_to_do
-- old_town
+- oldtown
 title: City Art Centre
 type: poi
 ---

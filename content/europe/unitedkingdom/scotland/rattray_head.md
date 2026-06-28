@@ -4,8 +4,10 @@ done:
 latitude: 57.6101
 longitude: -1.8163
 title: Rattray Head
+snippet: Remote Aberdeenshire headland of empty beach, shipwreck traces, lighthouse,
+  and Loch of Strathbeg birdlife.
 type: location
-score: 0.42
+score: 6.79
 loc_type: feature
 ---
 

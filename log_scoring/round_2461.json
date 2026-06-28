@@ -1,0 +1,200 @@
+{
+  "round": 2461,
+  "timestamp": "2026-06-13T21:44:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 2.5137,
+      "prior_variance": 0.182707,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.1475,
+      "prior_variance": 0.199723,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.9923,
+      "prior_variance": 0.175221,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.5203,
+      "prior_variance": 0.175279,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": -0.9335,
+      "prior_variance": 0.210179,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -3.1117,
+      "prior_variance": 0.29266,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.7212,
+      "prior_variance": 0.175942,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -3.206,
+      "prior_variance": 0.185671,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -1.8117,
+      "prior_variance": 0.174432,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -1.1669,
+      "prior_variance": 0.173146,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.4792,
+      "prior_variance": 0.205957,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -1.876,
+      "prior_variance": 0.152959,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.5325,
+      "prior_variance": 0.198142,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -3.9282,
+      "prior_variance": 0.239161,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -3.5723,
+      "prior_variance": 0.222111,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston",
+      "prior_score": -3.2091,
+      "prior_variance": 0.193689,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -3.3944,
+      "prior_variance": 0.161825,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.9042,
+      "prior_variance": 0.209785,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -4.9149,
+      "prior_variance": 0.221496,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -4.9009,
+      "prior_variance": 0.20651,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/south_east/crawley",
+      "prior_score": -6.9286,
+      "prior_variance": 0.235632,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -7.708,
+      "prior_variance": 0.270967,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -6.2228,
+      "prior_variance": 0.294383,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Green Island",
+      "path": "asia/kuwait/greenisland",
+      "prior_score": -5.5238,
+      "prior_variance": 0.21255,
+      "prior_n": 7
+    }
+  ]
+}

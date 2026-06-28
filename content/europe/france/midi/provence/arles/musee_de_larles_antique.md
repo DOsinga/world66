@@ -11,6 +11,7 @@ story: >
   the Arles-Rhône 3 — almost perfectly preserved in the river silt. The boat,
   now on display here, is 31 metres long and dates from the 1st century AD.
   It is one of the best-preserved Roman river vessels ever found.
+score: 8.7
 ---
 
 The Musée de l'Arles antique holds one of the finest collections of Roman antiquities outside Rome itself. Opened in 1995 in a striking blue building near the river, it displays sarcophagi, mosaics, sculptures, and inscriptions from the surrounding region — a reminder that Arles was once a significant Roman city known as Arelate.

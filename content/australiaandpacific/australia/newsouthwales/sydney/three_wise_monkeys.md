@@ -8,8 +8,10 @@ snippet: Unpretentious central Sydney pub on George Street
 tags:
 - bars_and_cafes
 - bar
+- cbd
 title: Three Wise Monkeys
 type: poi
+score: 5.6
 ---
 
 A traditional pub right in the centre of the city at the corner of George and Liverpool streets. Unpretentious, reliable and always busy.

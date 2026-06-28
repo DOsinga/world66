@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.3108
 longitude: 9.4897
+score: 7.4
 ---
 
 The **Hessisches Landesmuseum** is the state museum of Hesse, housed in a confident neo-Baroque building from 1913 at the southern edge of the city centre. The collection runs from prehistoric finds (a famously rich Bronze-Age section), through medieval ecclesiastical art, to Hessian decorative arts and the everyday life of regional villages.

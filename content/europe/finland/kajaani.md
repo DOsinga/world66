@@ -5,7 +5,9 @@ done:
 latitude: 64.2247
 loc_type: city
 longitude: 27.7339
-score: 0.43
+score: 6.83
+snippet: Quiet Kainuu town on Lake Oulujarvi, with castle ruins, wooden houses, and
+  Kalevala literary associations.
 title: Kajaani
 type: location
 ---

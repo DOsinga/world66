@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-02'
+  major_city_neighborhoods: '2026-06-23'
   poi_cleanup: '2026-04-21'
 image: amsterdam.jpg
 image_attribution: Patrick Nouhailler's…
@@ -11,7 +12,9 @@ latitude: 52.37308
 loc_type: city
 longitude: 4.892453
 quote: Amsterdam makes more sense on two wheels than on foot.
-score: 0.83
+score: 9.87
+snippet: Compact Dutch capital defined by Golden Age canals, narrow gabled houses,
+  and slow waterside wandering.
 tagline: Seventeen canals, twelve million tulips, and the world's most visited painting.
 tip: Hire a bike on your first full day. Every neighbourhood is within 20 minutes
   of every other by bicycle, and the tram lanes and narrow pavements make walking

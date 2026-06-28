@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Seven members of the Evans and Ellis families are buried in a small fenced plot in the middle of what is now a parking lot for the AMC movie theatre on Route 1. When the strip mall was built in the 1990s, the developer was legally barred from disturbing the graves — so they paved around them."
+score: 5.4
 ---
 
 The Evans-Ellis Cemetery is one of New Jersey's stranger sights: a small 18th-century family burial ground, surrounded by a wrought-iron fence, marooned in the middle of an AMC cinema parking lot off Route 1 just outside town. Seven Evans and Ellis family members are buried here, the oldest stone dating to 1818.

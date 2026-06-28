@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - gornji_grad
+score: 7.2
 ---
 
 Until the 1890s a small stream — the Medveščak — ran along this line, separating the two rival medieval settlements of Gradec and Kaptol. They feuded for centuries: bishops cursed merchants and vice versa. Then the stream was piped underground, the bridges were removed, and the resulting valley became Tkalčićeva, a long pedestrian street that is now the busiest café strip in Zagreb.

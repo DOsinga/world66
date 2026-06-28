@@ -9,6 +9,7 @@ longitude: 21.0355
 snippet: "Warsaw's most beautiful park, with the lakeside palace, peacocks, and Sunday Chopin concerts"
 sources:
   - https://en.wikipedia.org/wiki/Łazienki_Park
+score: 9.2
 ---
 
 Łazienki (Royal Baths) Park is the finest green space in Warsaw and a genuine pleasure on any warm day. The 76-hectare park is home to the [Łazienki Palace](/europe/poland/warsaw/lazienki_palace), several smaller pavilions, an open-air amphitheatre overlooking a lake, a neoclassical theatre on an island, peacocks wandering the paths, and a monument to Chopin where free concerts are held every Sunday afternoon from May to September.

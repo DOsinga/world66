@@ -10,6 +10,7 @@ latitude: 42.4197
 longitude: -76.5208
 story: >
   The Civilian Conservation Corps built most of the trails and stonework here in the 1930s, including the swimming pool at the foot of the lower falls that fills directly from the creek. The 'Gorge Trail' uses CCC-cut steps in the rock itself — a Depression-era public works project that has aged beautifully.
+score: 8.9
 ---
 
 Ten waterfalls in a single gorge. The lower trail starts a five-minute drive from downtown Ithaca and climbs a kilometre alongside the creek, with cascades dropping past every bend. The eponymous Buttermilk Falls at the bottom — a 165-foot wall of white water — is the photogenic showpiece.

@@ -8,6 +8,7 @@ tags:
 latitude: 61.5017
 longitude: 23.7592
 story: "The Moomin Museum holds the only permanent collection of original Tove Jansson Moomin artwork in the world — drawings, paintings, and the elaborate three-dimensional Moomin house dioramas she constructed over decades. Jansson never wanted a theme park; this is closer to what she had in mind — a careful, slightly melancholy presentation of the Moomin world that honours the originals' emotional depth rather than reducing them to merchandise."
+score: 8.2
 ---
 
 The Moomin Museum within Vapriikki holds the world's most comprehensive collection of original Tove Jansson illustrations and artworks related to the Moomin world. The centrepiece is the Moomin house — a detailed scale model of the Moominhouse with illuminated rooms, built by Jansson herself over many years.

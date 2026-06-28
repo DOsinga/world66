@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cycling
+score: 7.8
 ---
 
 The original Erie Canal towpath runs along the waterway through the heart of the Tonawandas and is now a continuous walking and cycling trail. From the canal's western terminus where it meets the Niagara River, you can follow it east through Tonawanda's Gateway Harbor and beyond — a leisurely day's bike ride will get you to Lockport and its restored flight of canal locks.

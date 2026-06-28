@@ -9,6 +9,7 @@ latitude: 18.9833
 longitude: 20.8500
 sources:
   - https://en.wikipedia.org/wiki/Lakes_of_Ounianga
+score: 8.6
 ---
 
 The smaller, more remote of the two lake groups lies about 40 km southeast of Ounianga Kébir, reachable only by 4WD across rough desert terrain. The piste is not marked and requires a guide who knows the route.

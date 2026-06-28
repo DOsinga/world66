@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Centro Comercial Solmar
 type: poi
+score: 4.4
 ---
 
 A smaller shopping centre on the seafront Avenida, with bookshops, a supermarket, fast food, and clothing stores. Convenient for a quick browse if you're already walking the waterfront.

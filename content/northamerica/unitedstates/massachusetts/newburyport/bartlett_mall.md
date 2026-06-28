@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Frog Pond, a Greek Revival courthouse, and 17th-century gravestones
+score: 6.9
 ---
 
 The Bartlett Mall is the long green space below the Superior Courthouse — a sloping park around a tear-shaped pond (the Frog Pond), graced by old elms and oaks. The Greek Revival courthouse at the top, completed in 1805 with later expansions, is one of the oldest still-active courthouses in the United States.

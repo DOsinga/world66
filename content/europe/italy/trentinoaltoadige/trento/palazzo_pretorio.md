@@ -9,6 +9,7 @@ tags:
 latitude: 46.0670
 longitude: 11.1220
 snippet: "Medieval bishop's residence on the Piazza Duomo, now the Diocesan Museum"
+score: 7.4
 ---
 
 The Palazzo Pretorio, on the east side of the Piazza Duomo, was the original 13th-century residence of the prince-bishops of Trento before they moved across town to the Castello del Buonconsiglio. The building is a long, austere block in pale Verona stone, anchored by the **Torre Civica** — the medieval clock tower that gives the square its vertical accent.

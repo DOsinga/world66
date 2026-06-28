@@ -7,6 +7,7 @@ tags:
 - museum
 title: Vakil Bathhouse
 type: poi
+score: 7.9
 ---
 
 Karim Khan's bathhouse, completed in the 1770s as part of the Zand-era complex that includes the bazaar and mosque, is one of the most atmospheric historic hammams in Iran. The vaulted brick chambers — the cold room, the warm room, and the central steam hall — are lit by small octagonal skylights and decorated with delicate stuccowork.

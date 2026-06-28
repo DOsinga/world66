@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   The Heritage Center is officially affiliated with the New Bedford Whaling National Historical Park in Massachusetts — an unlikely partnership between the country's most southerly old whaling port and its most northerly active one, recognising the Iñupiat whalers and crews who supplied much of the labour for 19th-century Yankee whaling voyages into the Beaufort Sea.
+score: 8.9
 ---
 
 The Iñupiat Heritage Center is the cultural and intellectual heart of Utqiagvik. The building houses a museum of Iñupiat life — traditional clothing, whaling implements, kayaks, baleen baskets, and detailed exhibits on the spring bowhead hunt that still structures the village calendar. Local elders sometimes sit and talk with visitors about subsistence life on the slope.

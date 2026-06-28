@@ -10,6 +10,7 @@ latitude: 42.3450
 longitude: 2.1620
 sources:
   - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria
+score: 8.2
 ---
 
 The Gorges del Freser is the deep ravine that the Freser river has cut through the rock between Ribes de Freser and Núria — the dramatic scenery visible through the windows of the rack railway. The gorge can also be walked on the Camí Vell de Núria, a marked trail from Queralbs that follows the river upstream to the sanctuary, gaining around 700 metres over about 7 kilometres and taking two to three hours.

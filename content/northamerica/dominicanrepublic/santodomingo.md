@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SantoDomingoedit.JPG
 latitude: 18.4861
 loc_type: city
 longitude: -69.9312
-score: 0.53
+score: 8.17
+snippet: Caribbean capital whose Zona Colonial preserves the oldest European city
+  streets in the Americas.
 title: Santo Domingo
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3
 longitude: -7.75
+score: 7.6
 ---
 
 The Ourika Valley runs from the plains south of Marrakech up into the High Atlas, following the Oued Ourika river through a series of Berber villages, rose gardens, and market towns. It is the most accessible part of the High Atlas from Marrakech — the road south from the city reaches the village of Setti Fatma at the valley's head in under two hours. This makes it a popular day trip, though most visitors only scratch the surface.

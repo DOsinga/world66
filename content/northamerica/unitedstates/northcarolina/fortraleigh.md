@@ -4,7 +4,12 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 35.93531
 longitude: -75.711828
+score: 8.0
 snippet: Site of America's Lost Colony mystery
+tags:
+- things_to_do
+- sight
+- historic_site
 title: Fort Raleigh
 type: poi
 ---

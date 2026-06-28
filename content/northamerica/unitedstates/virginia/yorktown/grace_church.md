@@ -7,6 +7,7 @@ tags:
   - church
 title: Grace Church
 type: poi
+score: 6.9
 ---
 
 Grace Church is one of Yorktown's most atmospheric historic buildings, with a parish history stretching back to the colonial period. The churchyard is almost as interesting as the church, with old stones and family names tied into the town's long history.

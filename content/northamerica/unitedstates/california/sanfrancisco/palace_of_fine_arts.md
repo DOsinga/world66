@@ -7,9 +7,11 @@ tags:
 - things_to_do
 - architecture
 - sight
+- marina_district
 title: Palace of Fine Arts
 type: poi
 story: "Architect Bernard Maybeck designed the Palace to look like a Roman ruin from the start -- a meditation on the grandeur and decay of empire. It was meant to be temporary, but San Franciscans loved it too much to tear it down."
+score: 8.7
 ---
 
 The Palace of Fine Arts is one of those places that makes you stop and stare. A soaring 162-foot rotunda surrounded by classical colonnades, reflected in a tranquil lagoon where swans glide past -- it looks like something transplanted from ancient Rome. It is the sole surviving structure from the 1915 Panama-Pacific International Exposition.

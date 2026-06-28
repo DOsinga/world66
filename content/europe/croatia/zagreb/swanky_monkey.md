@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - donji_grad
+score: 5.7
 ---
 
 Hidden behind a 19th-century building on Ilica, Swanky Monkey is a long courtyard garden — once part of a textile factory — converted into a hostel and bar with hammocks, mismatched chairs, ivy on the walls, and a wood-fired pizza oven. It is a young, scruffy, easy-going place; not the city's prettiest bar, but one of its most enjoyable.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.0000
 longitude: 45.6400
+score: 6.0
 ---
 
 North of Julfa town, on the lower slopes of the Daridaq range, are the Daridaq mineral springs — a cluster of natural springs long valued for their medicinal properties. The carbonated water from these springs has been drunk locally for generations as a treatment for digestive ailments, and the area has a modest spa tradition that predates Soviet interest in the region's mineral waters.

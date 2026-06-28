@@ -13,6 +13,7 @@ story: >
   medieval Kathmandu was not sophisticated, and the accumulation of tens of thousands of
   nails driven by suffering people across many centuries gives the stump an almost geological
   quality — layer upon layer of appeals and offerings to an absent tooth.
+score: 6.1
 ---
 
 In the southwestern corner of Durbar Square, next to Kasthamandap, there is a small wooden stump barely visible beneath an extraordinary growth of coins and nails. Tens of thousands of small coins have been hammered into the wood over the centuries by people seeking relief from toothache — the tradition holds that nailing a coin to the sacred stump while thinking of the pain will transfer the suffering to the wood.

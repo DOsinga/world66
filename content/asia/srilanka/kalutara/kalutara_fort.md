@@ -10,6 +10,7 @@ story: >
   The Portuguese built their fort here in 1622 to control the cinnamon trade from the interior. Cinnamon was Sri Lanka's most valuable export for centuries, and the Kalu Ganga river provided the main route for bringing it down from the hill country. The Dutch later took the fort, then the British, each using it for the same purpose. The spice that drove all this colonial competition now grows in gardens across the district and can be bought at any roadside stall.
 sources:
   - https://en.wikipedia.org/wiki/Kalutara_fort
+score: 5.2
 ---
 
 The remains of Kalutara Fort are located at the mouth of the Kalu Ganga, right beside the Gangatilaka Vihara. The Portuguese originally built a fortification here in 1622, which the Dutch took in 1659 and later strengthened. The British arrived in 1796 and used the position until they no longer needed it.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 36.7826
 longitude: -6.3488
+score: 7.6
 ---
 
 Casa Bigote is the restaurant that put the Bajo de Guía seafood strip on the map. It's been operating since the 1960s, serving the same formula of impeccably fresh fish and shellfish with manzanilla from across the road. The langostinos (large prawns) are the thing to order — they come from the estuary just outside the window, grilled whole with sea salt.

@@ -9,6 +9,7 @@ latitude: 31.1002
 longitude: -4.0092
 story: >
   The dunes of Erg Chebbi are relatively young by geological standards — this sea of sand only arrived in its current form within the last few thousand years, built from wind-blown Saharan sediment. Berber legend attributes the dunes to divine punishment: God buried a village here under the sand for refusing hospitality to a poor woman with a child. The seasonal lake Dayet Srji, visible to the south after winter rains, is said to mark where the village once stood.
+score: 9.4
 ---
 
 Erg Chebbi is one of the great natural spectacles of North Africa — a 28-kilometre sweep of towering Saharan dunes rising up to 150 metres, set against the flat stony desert of southeastern Morocco. The sand shifts from pale gold at midday to deep orange and red at sunset, and the light changes everything: what looks dusty and static at noon becomes incandescent an hour before dark.

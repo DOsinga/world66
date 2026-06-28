@@ -15,6 +15,7 @@ tags:
   - sight
   - castle
   - landmark
+score: 8.7
 ---
 
 The red-brick tower on Gediminas Hill is the most recognizable symbol of Vilnius. What remains is the western tower of the Upper Castle, originally built in the 14th century and one of the earliest Gothic structures in the city. The castle's history is inseparable from the founding of Vilnius itself — legend has it that Grand Duke Gediminas dreamed of an iron wolf howling on this hill, prompting him to build a fortress here.

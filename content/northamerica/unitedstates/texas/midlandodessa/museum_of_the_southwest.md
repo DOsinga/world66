@@ -12,6 +12,7 @@ story: >
   the museum in 1965, along with its original furnishings. Walking through rooms designed for
   oil-money entertaining in 1930s West Texas — the scale, the materials, the ambition of it — gives
   a vivid sense of what the first oil boom felt like in this improbable landscape.
+score: 7.6
 ---
 
 A cultural complex on West Missouri Avenue anchored by the 1934 Turner Mansion, the Museum of the Southwest houses an art museum, children's museum, planetarium, and sculpture garden on a single campus. The art collection focuses on American Southwest and Taos school paintings, with some strong examples of the regional tradition.

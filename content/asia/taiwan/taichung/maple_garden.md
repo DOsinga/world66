@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.1486
 longitude: 120.6553
+score: 5.9
 ---
 
 Maple Garden (Fenghua Yuan) is a small, plant-dense walking park between the National Museum of Natural Science and the Calligraphy Greenway. It is best in winter, when a stand of mature maples on the eastern side turns orange and red — one of the few stands in central Taiwan large enough to attract local photographers.

@@ -10,6 +10,7 @@ story: >
   The market tradition in St-Pons goes back to the medieval period, when the town's position in the Jaur valley made it a natural gathering point for the mountain communities of the Haut-Languedoc. Mountain honey, chestnuts, and livestock were the original currencies; the honey and charcuterie are still the best reasons to come.
 sources:
   - https://en.wikipedia.org/wiki/Saint-Pons-de-Thomi%C3%A8res
+score: 6.7
 ---
 
 The Saturday morning market fills the main square in front of the cathedral and spills along the surrounding streets. It is a genuine producers' market — mountain honey from hives in the chestnut forests, charcuterie and smoked meats from the local farms, goat and sheep cheeses from the Lacaune hills to the north, seasonal fruit and vegetables, and a reliable mushroom stall in autumn.

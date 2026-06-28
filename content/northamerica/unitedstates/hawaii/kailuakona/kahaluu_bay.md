@@ -6,6 +6,7 @@ longitude: -155.9674
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Kahaluu Bay, five miles south of Kailua-Kona along Alii Drive, is the most reliable snorkelling beach in West Hawaii. The bay is small, shallow, and partly enclosed by an ancient stone breakwater built by Native Hawaiians, which damps the ocean swell and creates a calm lagoon almost regardless of conditions outside.

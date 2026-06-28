@@ -8,6 +8,7 @@ tags:
   - lake
 latitude: 36.7305
 longitude: -97.0420
+score: 6.1
 ---
 
 Lake Ponca is an 800-acre city-owned reservoir three miles east of downtown, the main outdoor recreation area for Ponca City. The lake is stocked with bass, crappie and catfish, has launch ramps and fishing piers, a beach area, and a network of multi-use trails around the shore.

@@ -7,6 +7,7 @@ tags:
 latitude: 11.8383
 longitude: -66.6391
 story: "Los Roques sits on one of the largest coral reef systems in the Caribbean, covering about 2,231 square kilometres within the national park. The park was established in 1972, making it one of Venezuela's first, and the prohibition on commercial fishing within the park boundaries has allowed the reef and fish populations to remain significantly healthier than those in most of the Caribbean."
+score: 9.5
 ---
 
 The coral reef system surrounding Los Roques is among the most intact in the Caribbean, protected within a national park since 1972. The diving and snorkelling are excellent: healthy hard and soft coral gardens, clear water with visibility commonly exceeding 20 metres, and strong fish populations including sea turtles, rays, and large schools of tropical fish.

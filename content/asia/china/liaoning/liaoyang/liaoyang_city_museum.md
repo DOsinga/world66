@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.2667
 longitude: 123.1833
+score: 7.8
 ---
 
 The Liaoyang City Museum covers four thousand artefacts from the Neolithic period through the Qing Dynasty, drawing on the city's unusual archaeological density — Liaoyang has been continuously occupied for over two thousand four hundred years and has served as a capital or major administrative centre for much of that time.

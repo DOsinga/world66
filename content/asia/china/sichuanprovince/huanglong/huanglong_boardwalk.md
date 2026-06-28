@@ -14,6 +14,7 @@ story: >
   Park management provides oxygen bottles for sale at strategic intervals, and
   the rate at which they are purchased is a reliable indicator of a visitor's
   degree of acclimatisation.
+score: 8.1
 ---
 
 The park's main boardwalk climbs the length of the Huanglong valley, from the entrance at roughly 3,000 metres to the Five Colored Pool near the summit at 3,700 metres. The path is entirely wooden boardwalk, wide enough to accommodate the crowds that the park draws on busy days, and well-maintained throughout. The ascent passes through three distinct landscape zones: mixed forest at the lower section, then open rocky terrain as the tree line is left behind, then the mineral pool zone in the upper valley where the travertine formations dominate.

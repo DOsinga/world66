@@ -8,6 +8,7 @@ tags:
 neighbourhood: Gemmayzeh
 latitude: 33.8966
 longitude: 35.5145
+score: 5.3
 ---
 
 Paul on Gouraud Street is the French bakery chain at its most pleasant — a leafy garden terrace, an art nouveau-tiled interior, and a long all-day menu of viennoiserie, salads, and good coffee. It is the right place to write postcards, catch breakfast, or recover from the night before.

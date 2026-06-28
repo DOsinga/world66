@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Braga_Panorama.jpg
 latitude: 41.551058
 loc_type: city
 longitude: -8.428005
-score: 0.63
+score: 8.75
+snippet: Portuguese religious city packed with baroque churches, Roman traces, and
+  the hillside Bom Jesus sanctuary
 title: Braga
 type: location
 ---

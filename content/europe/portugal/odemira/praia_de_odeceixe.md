@@ -8,6 +8,7 @@ latitude: 37.4574
 longitude: -8.7875
 story: >
   Odeceixe beach sits at the mouth of the River Seixe, which also marks the boundary between the Alentejo and the Algarve. On a good day in early summer the river has cut a lagoon just behind the beach where the water is warm enough for swimming even when the Atlantic is cold. Local children float downriver on bodyboards and wade back up through the shallows.
+score: 8.8
 ---
 
 Praia de Odeceixe is consistently ranked among the finest beaches in Portugal and the visual argument is hard to dispute: a wide arc of pale sand backed by coloured cliffs, with a river estuary cutting across the beach to create sheltered swimming on one side and open Atlantic surf on the other. The access road from the village winds down a steep valley through cork oak forest — the approach is almost as good as the beach.

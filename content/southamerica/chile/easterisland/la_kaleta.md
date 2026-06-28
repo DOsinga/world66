@@ -6,6 +6,7 @@ longitude: -109.429
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 Upmarket Rapa Nui kitchen at the south end of the harbour. The food draws on Polynesian and Chilean traditions: tuna tartare with passionfruit, kana kana (ono) grilled over banana leaves, taro and sweet potato sides. The terrace looks straight down at the breakers.

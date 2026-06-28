@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wanning,_Hainan_-_01.JPG
 latitude: 18.8
 loc_type: city
 longitude: 110.4
+score: 7.1
+snippet: Hainan coastal city known for Riyue Bay surf breaks and Xinglong's transplanted
+  Southeast Asian culture.
 sources:
 - https://en.wikivoyage.org/wiki/Wanning
 title: Wanning

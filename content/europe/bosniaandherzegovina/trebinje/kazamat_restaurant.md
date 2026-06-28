@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Old-town restaurant set in the Ottoman casemates of the city walls
+score: 6.7
 ---
 
 The most atmospheric restaurant in Trebinje, occupying the vaulted brick **kazamati** (casemates) built into the inner side of the old-town walls. The dining room is half-underground; in summer the tables move out into a small adjoining courtyard. The cooking is straightforward Herzegovinian — grilled lamb, **veal under the bell** (slow-cooked under a metal lid), a respectable selection of grilled fish from the Adriatic.

@@ -8,6 +8,7 @@ latitude: -26.197
 longitude: 28.0471
 story: >
   The gallery's collection was built partly through civic donations in the early twentieth century. Johannesburg had made its fortune in a generation and its citizens were determined it would be taken seriously as a city — a place with culture, not just gold.
+score: 8.1
 ---
 
 The Johannesburg Art Gallery in Joubert Park is one of the most significant art collections in sub-Saharan Africa and one of the most consistently overlooked by visitors. The building — a large neoclassical structure designed by Edwin Lutyens and opened in 1915 — houses Old Masters, 17th-century Dutch paintings, an impressive collection of 19th-century British art, and what is widely considered the best collection of South African art in the country, covering both historical and contemporary work.

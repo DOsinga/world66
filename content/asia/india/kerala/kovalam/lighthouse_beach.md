@@ -6,6 +6,7 @@ latitude: 8.3876
 longitude: 76.9784
 story: >
   The lighthouse at the southern tip — Kerala Lighthouse, built in 1972 — is open to visitors in the afternoons. Climbing its 142 steps rewards you with the best view of all three beach crescents laid out below, a panorama that explains immediately why the colonial surveyors chose this headland as a navigation point for ships rounding the tip of India.
+score: 8.4
 ---
 
 Lighthouse Beach is the longest and liveliest of Kovalam's three beaches, stretching north from the rocky southern headland where the red-and-white striped lighthouse stands. The beach is around 400 metres long, backed by a dense strip of restaurants, massage parlours, souvenir shops, and guesthouses climbing the cliff behind. In peak season (November to February) it fills with a mix of foreign tourists and domestic visitors from Thiruvananthapuram, and the water is dotted with swimmers and the occasional kayak.

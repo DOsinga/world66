@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A limestone cave with stalactites, on the northern outskirts of Pokhara
+score: 6.5
 ---
 
 A medium-sized limestone cave on the northern edge of the city, popular with Nepali tourists for its stalactites and the small Shiva shrine at its centre. The cave was named after King Mahendra after his visit in the 1950s. The interior is well-lit and reasonably easy to walk through, though some sections require a stoop.

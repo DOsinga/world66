@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.2288
 longitude: 7.0964
+score: 5.7
 ---
 
 Sogndal is the main town of the inner Sognefjorden — a university town of about 7,000 people at the head of the Sogndalsfjord branch, with a pleasant waterfront, ferry connections, and a small airport. It is less visited than Flåm but functions better as a base for exploring the eastern fjord: the ferry to Kaupanger and the road connections to Laerdal and the Aurlandsdalen hike all start here.

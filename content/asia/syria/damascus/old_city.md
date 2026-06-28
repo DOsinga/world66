@@ -7,6 +7,7 @@ tags:
 latitude: 33.5113
 longitude: 36.3083
 snippet: The walled medieval core, UNESCO-listed, with mosques, souks and courtyard houses
+score: 9.7
 ---
 
 The walled Old City is the heart of any visit to Damascus. Roughly oval and 90 hectares in area, it is enclosed by largely Roman-era walls with seven gates and contains an extraordinary density of historic buildings — the Umayyad Mosque, the Citadel, two major souks, dozens of Ottoman khans and courtyard houses, the Christian quarter around Bab Touma, the Jewish quarter to its south, and innumerable smaller mosques, madrassas and tombs.

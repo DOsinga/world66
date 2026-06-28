@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "According to local legend, two Perast brothers found an icon of the Virgin floating on a rocky reef in 1452 and vowed to build a church there. The locals carried stones out in boats over generations, gradually building up the reef into a small artificial island. Every 22 July, the *Fašinada* ceremony — boats laden with stones rowing out at sunset and dropping them around the church — keeps the legend alive."
+score: 8.3
 ---
 
 Our Lady of the Rocks (Gospa od Škrpjela) is one of only two small islands in the Bay of Kotor, and the only one in the world built entirely by human hands. The small baroque church on the islet stands among the cargo of stones added over the centuries, with frescoes by the local 17th-century painter Tripo Kokolja covering the interior walls and ceiling.

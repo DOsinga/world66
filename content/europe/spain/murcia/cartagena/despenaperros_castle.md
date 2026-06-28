@@ -8,6 +8,7 @@ tags:
   - sight
 title: Despeñaperros Castle
 type: poi
+score: 6.9
 ---
 
 Despeñaperros Castle, also known as San José Castle, is one of the defensive remains on the hills around Cartagena's old centre. It is less visited than the theatre or the harbour museums, but it helps explain why the city was so hard to ignore militarily.

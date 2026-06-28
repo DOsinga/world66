@@ -4,6 +4,7 @@ type: poi
 latitude: 45.528594
 longitude: 13.569911
 tags: [things_to_do, sight, church]
+score: 7.6
 ---
 
 The Minorite Monastery, a few minutes east of Tartini Square, is centred on one of the loveliest cloistered courtyards on the Slovenian coast — a quiet rectangle of pale stone arches around a small garden, with a wellhead in the middle and frescoes faintly visible on the inner walls.

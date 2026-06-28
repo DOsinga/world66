@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.9342
 longitude: 81.3026
+score: 5.4
 ---
 
 The area around Yili Normal University in the northern part of Yining has a different character from the older districts of the city: broader streets, newer buildings, and the activity that a university campus brings to a neighbourhood — cafes, bookshops, student restaurants, and a generally younger and more mixed population. The university is one of the main institutions for Kazakh and Uyghur language instruction in the region, and its presence gives the neighbourhood a somewhat more cosmopolitan feel.

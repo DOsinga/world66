@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 type: poi
+score: 5.0
 ---
 
 The house at Tin Street No. 1, between the Citadel Square and the Clock Tower, is where Vlad Tepes — known as Vlad the Impaler, the historical figure behind the Dracula legend — was born around 1431. His father, Vlad II Dracul (Vlad the Dragon), lived here while serving as military governor of Transylvania. The building has been a restaurant since the 1970s, which means you can sit at a table where Dracula was born and order a plate of sarmale.

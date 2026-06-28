@@ -7,6 +7,7 @@ tags:
 - jumeirah
 title: Madinat Jumeirah
 type: poi
+score: 6.9
 ---
 
 Madinat Jumeirah is a massive luxury resort complex adjacent to the Burj Al Arab, built to resemble a traditional Arabian fort and souk. The architecture is pastiche but handsomely done — wind towers, carved wooden screens, plaster detailing — and the central feature is a network of outdoor waterways navigated by small abra boats carrying guests between the hotels, the souk, and the restaurants.

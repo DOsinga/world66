@@ -8,6 +8,7 @@ latitude: 42.7347
 longitude: 12.7383
 story: >
   Sant'Eufemia is one of the few Romanesque churches in Italy to retain its matroneum — the upper women's gallery where medieval women were required to worship separately from men. The gallery looks down into the nave through arched openings, and the light from its windows creates the dramatic vertical composition that makes the interior so memorable.
+score: 7.8
 ---
 
 Sant'Eufemia is tucked inside the Archbishop's Palace courtyard just above the Piazza del Duomo, and it is one of the finest Romanesque interiors in Umbria. The 12th-century church is built on the site of the Lombard ducal palace, incorporating earlier structures, and its interior has a clarity and simplicity that the more famous Duomo below lacks.

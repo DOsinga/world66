@@ -7,6 +7,7 @@ snippet: "Exotic botanical garden laid out by an Austrian baron returning from t
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 In the southern suburb of Pristava — locally known as Rafut — an early 20th-century park survives in surprisingly good shape. Baron Anton Lasciac, an architect who had spent decades working in Cairo for the Egyptian khedive, retired here in 1908 and built himself a villa surrounded by exotic plantings: palms, cypresses, magnolias, and a small Moorish pavilion.

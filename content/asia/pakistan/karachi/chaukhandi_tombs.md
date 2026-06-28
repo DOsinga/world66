@@ -6,6 +6,7 @@ tags:
 - sight
 title: Chaukhandi Tombs
 type: poi
+score: 9.0
 ---
 Roughly 29 kilometres east of the city centre along the Superhighway to Thatta, the Chaukhandi necropolis is one of the most atmospheric archaeological sites in Sindh. Several thousand sandstone tombs spread across a low ridge, dating from the 15th to 18th centuries. The carvings are extraordinary in their detail: warriors are marked by panels showing a horse and rider, swords and shields rendered with the same care a craftsman might lavish on fine jewellery. Women's tombs carry geometric patterns and floral motifs; the variety across adjacent graves suggests generations of competing carvers each trying to outdo the last.
 

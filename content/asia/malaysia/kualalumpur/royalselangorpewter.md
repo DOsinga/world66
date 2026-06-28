@@ -1,12 +1,15 @@
 ---
-title: "Royal Selangor Visitor Centre"
-type: poi
 latitude: 3.1953
 longitude: 101.7378
+score: 7.4
+snippet: Flagship factory of the world's largest pewterware maker, with hands-on casting
+  and engraving workshops
 tags:
-  - things_to_do
-  - shopping
-  - museum
+- things_to_do
+- shopping
+- museum
+title: Royal Selangor Visitor Centre
+type: poi
 ---
 
 The flagship factory and showroom of Royal Selangor, the world's largest pewter manufacturer. Founded in 1885 by a Chinese tinsmith newly arrived in the Selangor tin-rush, the company has been turning Selangor tin into hand-finished pewter ever since. Free guided tours every fifteen minutes walk you through the workshop floor — casting, hammering, polishing — and a small museum displays historical pieces, including the world's largest pewter tankard.

@@ -13,6 +13,7 @@ story: >
   first headquarters. From this castle on the Spanish border the new order ran
   the rump of Templar lands until the headquarters moved inland to Tomar in
   1356, where its wealth eventually helped fund the Age of Discoveries.
+score: 7.8
 ---
 
 The castle is essentially two rings of wall climbing a low hill above the town. The outer wall dates from the reign of Afonso III in the 13th century; the inner keep is older, with foundations on a Moorish predecessor. Inside the walls almost nothing of the buildings survives — the great earthquake of 1755 flattened most of what was here — but the cisterns, the chapel ruins, and the perimeter walk are all intact.

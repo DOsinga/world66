@@ -7,6 +7,7 @@ tags:
 - bar
 title: Bor Pen Yang
 type: poi
+score: 5.5
 ---
 
 Bor Pen Yang — "no problem" in Lao — is Vientiane's longest-running expat bar and still the easiest place to find a crowd at 10pm. Three floors of pool tables, sports TVs, and live music lead up to an open rooftop terrace with one of the best views over the Mekong. The food is forgettable, the cocktails are cheap, and the music gets louder as the night progresses.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wasserbillig_Luxembourg.JP
 latitude: 49.714341
 loc_type: city
 longitude: 6.50135
-score: 0.4
+score: 6.61
+snippet: Eastern Luxembourg border town at the Sûre-Moselle confluence, on the Moselle
+  cycling route.
 title: Wasserbillig
 type: location
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:G%C3%A4vle_brandstation_Ju
 latitude: 60.675013
 loc_type: city
 longitude: 17.146702
-score: 0.45
+score: 6.83
+snippet: Swedish Gulf of Bothnia port city, famous for its Advent straw goat and surviving
+  wooden quarter.
 title: Gävle
 type: location
 ---

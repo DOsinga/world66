@@ -15,6 +15,7 @@ story: >
   paintings specifically designed to remind wealthy patrons of their own mortality — including
   Valdés Leal's two extraordinary vanitas paintings showing the rotting corpses of a bishop and
   a knight, which allegedly made Murillo say they "smelled."
+score: 8.8
 ---
 
 The Hospital de la Caridad is a baroque charity hospital still in operation today, caring for the elderly poor of Seville as it has done since 1681. The church attached to the hospital contains one of the most remarkable art collections in Spain: a cycle of paintings commissioned by Miguel de Mañara to meditate on death, charity, and the futility of earthly power.

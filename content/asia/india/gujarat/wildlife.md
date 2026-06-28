@@ -1,10 +1,12 @@
 ---
-title: Wildlife
-type: location
 latitude: 21.2456
+loc_type: region
 longitude: 70.8215
 score: 0.47
-loc_type: region
+snippet: Gujarat wildlife region of teak forests, grasslands, wetlands, Asiatic lions,
+  and Indian wild ass sanctuaries.
+title: Wildlife
+type: location
 ---
 
 Gujarat offers a remarkable diversity of habitats for wildlife enthusiasts, from deep teak forests and arid grasslands to coastal wetlands and marine ecosystems. The state is home to several species found nowhere else in India in such concentrations, including the Asiatic lion, the Indian wild ass, and the four-horned antelope.

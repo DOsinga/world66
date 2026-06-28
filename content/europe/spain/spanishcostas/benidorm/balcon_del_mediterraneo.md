@@ -13,6 +13,7 @@ story: >
   demolished in the 1950s when the mayor Pedro Zaragoza Orts approved the town's
   transformation into a modern beach resort — a decision that made him internationally
   famous and extremely controversial among Spaniards.
+score: 7.7
 ---
 
 The Balcón del Mediterráneo is the rocky headland that divides Levante and Poniente beaches, topped by a small park with a lookout terrace. It offers the best panoramic view of Benidorm — both beaches visible simultaneously, the bay arching below, and the cluster of skyscrapers rising behind that gives the town its unexpected Manhattan-on-the-sea appearance.

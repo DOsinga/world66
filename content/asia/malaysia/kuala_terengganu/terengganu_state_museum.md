@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 5.3167
 longitude: 103.12
+score: 8.5
 ---
 
 The Terengganu State Museum Complex (Muzium Negeri Terengganu) is one of the largest museum complexes in Southeast Asia, set in extensive grounds about 4 kilometres south of the city centre. The main building — a traditional Malay longhouse structure elevated on stilts — houses exhibits covering Terengganu's natural history, maritime heritage, Islamic arts, and the history of the sultanate. Several separate galleries are spread across the grounds, including one dedicated to the petroleum industry that has fuelled the state's modern economy.

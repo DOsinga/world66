@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Smara,rooftopE.jpg
 latitude: 26.743583
 loc_type: city
 longitude: -11.664549
-score: 0.29
+score: 5.07
+snippet: Remote Saharan town in Western Sahara, known for Ma El Ainin's ruined religious
+  complex.
 title: Smara
 type: location
 ---

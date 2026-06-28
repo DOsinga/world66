@@ -10,8 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Entrance_into_Srinagar_Gar
 latitude: 30.2222
 loc_type: city
 longitude: 78.7708
-score: 0.36
+score: 6.53
 title: Srinagar (Pauri Garhwal)
+snippet: Garhwal foothill town on the Alaknanda River, serving the Badrinath pilgrim
+  route and university life
 type: location
 ---
 

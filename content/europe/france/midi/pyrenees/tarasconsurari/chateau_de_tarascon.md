@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8458
 longitude: 1.6068
+score: 5.8
 ---
 
 The Tour du Castella crowns the rocky outcrop above the old town. It is all that remains of the medieval castle that once controlled the Ariège valley — a single stone tower, blown up after the Wars of Religion and left as a marker on the skyline.

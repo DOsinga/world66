@@ -21,6 +21,7 @@ story: >
   continued. Sonnenstein was one of six T4 centres in Germany and Austria; the
   total number murdered across all sites is estimated at between 200,000 and
   300,000.
+score: 7.4
 ---
 
 Sonnenstein is a complex and difficult site. The castle itself has a long history: a medieval fortress that controlled the Elbe valley, then a residence, then from 1811 the home of one of the first purpose-built psychiatric hospitals in Germany — a progressive institution under its founding director, Johann Christian Reil, who believed in humane treatment of the mentally ill and was instrumental in establishing psychiatry as a medical discipline.

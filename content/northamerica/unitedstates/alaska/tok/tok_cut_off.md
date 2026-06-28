@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 63.3367
 longitude: -142.9856
+score: 8.3
 ---
 
 The Tok Cut-Off is the 125-mile stretch of road that connects Tok with Gakona Junction on the Richardson Highway, opening up the southern route toward Valdez and, via the Glenn Highway, Anchorage. It is one of the most scenic drives in interior Alaska and most people underestimate it.

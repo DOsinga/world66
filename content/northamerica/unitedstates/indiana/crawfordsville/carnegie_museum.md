@@ -8,6 +8,7 @@ tags:
 latitude: 40.0396
 longitude: -86.9011
 snippet: Indiana's first Carnegie Library, now a county history museum
+score: 7.0
 ---
 
 The Carnegie Museum occupies Indiana's first Carnegie Library building, a handsome Beaux-Arts structure built in 1901 with a grant from Andrew Carnegie. The library became a museum when the new public library was built, and it now holds the historical collections of Montgomery County — photographs, maps, documents, and objects covering local history from the early settlement period onward.

@@ -5,8 +5,10 @@ latitude: -1.274094
 longitude: -81.0708
 title: Isla de la Plata
 type: location
-score: 0.58
+score: 8.06
 loc_type: feature
+snippet: Machalilla National Park island known for seabird colonies and day trips
+  from Puerto López.
 ---
 
 Isla de la Plata is a small island off the coast of [Ecuador](/southamerica/ecuador), part of the Parque Nacional Machalilla. It has earned the nickname "the Poor Man's Galapagos" for its blue-footed and red-footed boobies, frigatebirds, sea lions, and marine iguanas — many of the same species found on the Galapagos, at a fraction of the cost and travel time.

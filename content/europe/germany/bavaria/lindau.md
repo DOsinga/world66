@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/21603648@N00/4762387227
 latitude: 47.550753
 loc_type: city
 longitude: 9.692662
-score: 0.59
+score: 8.69
+snippet: Bavarian island town on Lake Constance, with an alpine harbour guarded by
+  a lighthouse and stone lion
 title: Lindau
 type: location
 ---

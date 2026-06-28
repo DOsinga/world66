@@ -12,6 +12,7 @@ story: >
   the capital — which drinks from the Tuy River system — would face serious
   water shortages. The park is simultaneously wilderness and municipal
   infrastructure.
+score: 7.8
 ---
 
 Parque Nacional Macarao borders the western edges of the greater Caracas area and is the main natural attraction accessible from Los Teques. The park covers about 150 square kilometres of cloud forest and montane grassland in the coastal mountain range, with trails through dense vegetation and significant birdlife.

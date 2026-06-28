@@ -1,18 +1,21 @@
 ---
 done:
   location_create: '2026-06-04'
+image: trabzon.jpg
+image_attribution: Wikimedia Commons
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ayasofyatrabzon.jpg
 latitude: 41.0042
 loc_type: city
 longitude: 39.7278
+score: 7.95
+snippet: Black Sea port city with Trapezus roots, Byzantine churches, and mountain
+  monasteries above the coast.
 sources:
 - https://en.wikipedia.org/wiki/Trabzon
 - https://en.wikivoyage.org/wiki/Trabzon
 title: Trabzon
 type: location
-image: trabzon.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ayasofyatrabzon.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Wikimedia Commons
 ---
 
 *Asia > Turkey > Trabzon*

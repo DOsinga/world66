@@ -13,6 +13,7 @@ story: >
   mountain road, balanced on a narrow ridge between two ravines — you can see
   why it survived centuries of pirate raids from the coast. The gorge below was
   the pirates' approach route; the villagers watched it from above.
+score: 8.8
 ---
 
 Masca is a small village in the Teno massif in northwestern Tenerife, perched on a narrow ridge at 650 metres with ravines dropping away on both sides. The approach road from Buenavista del Norte is genuinely spectacular — a sequence of tight hairpin bends cut into vertical cliffs, with views of the Atlantic and the island of La Gomera. The village itself has a small museum, a few houses, and several restaurants.

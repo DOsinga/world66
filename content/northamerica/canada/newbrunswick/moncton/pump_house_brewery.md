@@ -10,6 +10,7 @@ tags:
 title: Pump House Brewery
 type: poi
 snippet: Moncton's flagship craft brewery, with a downtown brewpub
+score: 6.0
 ---
 
 The Pump House started in 1999 as one of Atlantic Canada's first craft breweries and remains the most reliable name in Moncton beer. The downtown brewpub on Orange Lane serves the full range of their beers (Blueberry Ale, Cadian Cream Ale, and S.O.B. Scotch Ale are the staples) alongside pizzas, salads, burgers, and wings.

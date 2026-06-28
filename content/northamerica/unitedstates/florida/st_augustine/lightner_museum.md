@@ -9,6 +9,7 @@ longitude: -81.3157
 story: "The building was originally the Alcazar Hotel, Henry Flagler's second grand hotel, opened in 1888. Its indoor pool — then the largest in the world — later became the antiques auction hall. Otto Lightner, a Chicago publisher, bought the entire hotel in 1947 purely to house his personal collection of Gilded Age objects, and the city of St. Augustine has run it as a museum ever since."
 sources:
   - https://en.wikipedia.org/wiki/Lightner_Museum
+score: 8.1
 ---
 
 The Lightner Museum occupies the former Alcazar Hotel, one of Henry Flagler's pair of grand hotels facing each other across King Street. Otto Lightner's collection is gloriously eclectic: it ranges from Tiffany glass and Victorian art nouveau furniture to mechanical musical instruments, a natural history cabinet, and a room-sized collection of cigar store figures. The cumulative effect is something between a serious museum and a loveable cabinet of curiosities.

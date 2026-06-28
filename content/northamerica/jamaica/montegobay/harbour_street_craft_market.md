@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 18.4690
 longitude: -77.9221
+score: 5.6
 ---
 
 The Harbour Street Craft Market, just west of Sam Sharpe Square, is a maze of small stalls under tin roofing selling wood carvings, T-shirts, beads, basketry, rum, Bob Marley everything, and a great deal else of varying quality. The vendors are friendly, persistent, and willing to bargain — assume the first price is twice what you should pay.

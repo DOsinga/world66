@@ -8,6 +8,7 @@ latitude: 10.8533
 longitude: 78.7056
 story: >
   The Jambukeswarar Temple is one of the Pancha Bhuta Stalas — five Shiva temples in Tamil Nadu, each representing one of the five classical elements. Jambukeswarar represents water. The primary lingam in the innermost sanctum is partially submerged in a natural spring that wells up from the ground, and the water level rises and falls with the seasons regardless of external conditions. The spring is considered never to have run dry in recorded history.
+score: 8.6
 ---
 
 The Jambukeswarar Temple in Thiruvanaikaval, about 2 kilometres east of the Srirangam bridge, is one of Tamil Nadu's most sacred Shiva temples and one of the Pancha Bhuta Stalas — temples representing the five classical elements of Hindu cosmology. This temple represents water (appu/jalam). The temple dates from at least the Chola period (around the 7th century CE) and the complex has five enclosure walls and multiple gopurams.

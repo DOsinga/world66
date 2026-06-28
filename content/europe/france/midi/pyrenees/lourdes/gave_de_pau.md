@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.0941
 longitude: -0.0558
+score: 6.4
 ---
 
 The Gave de Pau river runs through the heart of Lourdes, separating the sanctuary domain from the commercial town. It was at the bank of this river, beside the Grotte de Massabielle, that Bernadette Soubirous had her first apparition. The grotto itself is set into the cliff at the river's edge, and walking the path along the Gave is the way to understand the geography of the pilgrimage site — the river, the rock, the natural cave, the meadow where Bernadette was collecting wood.

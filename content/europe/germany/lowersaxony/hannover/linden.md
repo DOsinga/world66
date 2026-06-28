@@ -7,6 +7,7 @@ tags:
 latitude: 52.3650
 longitude: 9.7167
 snippet: Bohemian district west of the river, the city's alternative quarter
+score: 7.3
 ---
 
 The historically working-class district west of the Leine, gradually colonised by students, artists and Turkish immigrants over the past forty years. Linden is now Hanover's alternative quarter — co-operative bars, second-hand shops, Sunday flea market at the Lindener Marktplatz, and the highest density of vegan restaurants in Lower Saxony.

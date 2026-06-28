@@ -6,6 +6,7 @@ longitude: 74.0193
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Butterfly Beach is a small, isolated cove a couple of kilometres north of Palolem, accessible only by boat or by a steep jungle trail that drops down from the road behind. The name comes from the migrating butterflies that flutter in clouds over the headland in the dry months. The sand is fine, the water deep and clear, and there are usually fewer than fifty people on the beach at any time.

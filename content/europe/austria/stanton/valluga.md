@@ -12,6 +12,7 @@ story: >
   the descent into the bowl below is entirely off-piste and requires full avalanche equipment.
   The panoramic summit terrace, however, is open to anyone who buys the lift ticket, and the
   view from the top takes in some 400 Alpine peaks on a clear day.
+score: 9.3
 ---
 
 The Valluga is the high point of the St. Anton ski area, reached by a series of lifts from the village and then a small cable car to the 2,811-metre summit. The ski runs descending from the Valluga Bowl are the most demanding in the resort — ungroomed, heavily crevassed, and requiring genuine off-piste ability — and are widely regarded as some of the best big-mountain skiing in Austria.

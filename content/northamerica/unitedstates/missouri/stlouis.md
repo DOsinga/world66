@@ -11,8 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Louis_night_expblend.jp
 latitude: 38.627
 loc_type: city
 longitude: -90.1994
-score: 0.44
+score: 7.17
 title: St. Louis
+snippet: Mississippi River city where the Gateway Arch marks the eastern edge of the
+  American West.
 type: location
 ---
 

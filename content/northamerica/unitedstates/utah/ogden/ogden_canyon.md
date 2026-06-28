@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2280
 longitude: -111.9200
+score: 7.6
 ---
 
 Ogden Canyon is the dramatic gorge carved by the Ogden River through the Wasatch Range, beginning almost at the city's doorstep and climbing about eight miles to Ogden Valley. The canyon walls rise several hundred feet on either side, with the river threading through the bottom and the highway clinging to one wall. In autumn the canyon is spectacular — maples, oaks, and aspens turning orange, red, and gold against grey limestone cliffs.

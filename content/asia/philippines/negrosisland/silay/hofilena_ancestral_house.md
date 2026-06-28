@@ -8,6 +8,7 @@ tags:
 latitude: 10.801984
 longitude: 122.974268
 story: "The Hofileña collection includes works by Fernando Amorsolo, Félix Hidalgo, and Juan Luna — the three giants of nineteenth-century Philippine painting. Luna's canvases, in particular, are museum-quality works that would anchor a major gallery; finding them in a private family home in a small provincial city is a genuine surprise."
+score: 8.3
 ---
 
 The Hofileña Ancestral House on Cinco de Noviembre Street is different from the other heritage houses in Silay because it functions as much as a private art gallery as a historic home. The family has accumulated one of the most important private collections of Philippine fine art in the country, spanning the late nineteenth and early twentieth centuries.

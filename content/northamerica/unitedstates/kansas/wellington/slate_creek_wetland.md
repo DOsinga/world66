@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 37.2580
 longitude: -97.3750
+score: 5.8
 ---
 
 Slate Creek runs along the east side of Wellington and feeds into a series of wetland areas that attract birdwatchers, especially during spring and fall migration. The creek bottom and adjacent marshes draw herons, egrets, and a variety of shorebirds passing through on the Central Flyway.

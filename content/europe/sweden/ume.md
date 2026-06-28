@@ -5,8 +5,10 @@ done:
 latitude: 63.825657
 loc_type: city
 longitude: 20.263074
-score: 0.48
+score: 7.08
 title: Umeå
+snippet: Northern Swedish university city on the Ume River, with an unusually lively
+  cultural scene.
 type: location
 image: ume.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ume_alv_in_Umea.jpg

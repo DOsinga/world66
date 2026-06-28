@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 50.3598
 longitude: 7.5994
+score: 7.2
 ---
 
 A modern Rhineland kitchen on Am Plan run by the chef Mike Schwirtz, with one Michelin star. The cooking sticks tightly to the region — Eifel beef, Mosel trout, white asparagus in May, Rhineland mushrooms in autumn — but is plated with the precision that the star demands.

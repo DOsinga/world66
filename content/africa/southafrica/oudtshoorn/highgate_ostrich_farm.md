@@ -11,6 +11,7 @@ story: >
   — faster than any other bird and faster than most horses. What they cannot do is fly.
   Their wings are useless for anything except balance and thermoregulation, which makes
   the ostrich farmers' practice of jockeying them for tourists both absurd and impressive.
+score: 5.8
 ---
 
 One of three major ostrich show farms outside Oudtshoorn, Highgate has been operating since the early twentieth century. The one-hour guided tour takes you through an active farming operation — you will see ostriches at every stage from chick to adult, watch a feeding demonstration, and have the opportunity to sit on an ostrich's back for a photograph (the birds are remarkably unbothered by this).

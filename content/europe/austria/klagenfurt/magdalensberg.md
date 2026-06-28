@@ -6,6 +6,7 @@ longitude: 14.4264
 tags:
   - things_to_do
   - sight
+score: 8.9
 ---
 
 A long, steep-sided mountain rising directly out of the Klagenfurt basin to the north-east, the Magdalensberg has been a sacred and strategic spot since the Iron Age. The Celtic Norican kingdom had its capital here, and after the Roman annexation an enormous trading city was built on the southern slope to handle the iron, gold and salt of the eastern Alps.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Naruto Whirlpools
 type: poi
+score: 9.1
 ---
 
 The strait between Shikoku and Awaji Island produces some of the largest tidal whirlpools on the planet — vortices that during spring tides can stretch 20 metres in diameter and roar audibly from a kilometre away. They are at their most dramatic for an hour either side of high or low tide; check the day's schedule before you go because outside that window there is little to see.

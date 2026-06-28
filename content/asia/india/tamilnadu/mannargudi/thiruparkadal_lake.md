@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 10.6580
 longitude: 79.4600
+score: 5.8
 ---
 
 Thiruparkadal is a shallow freshwater lake on the southeastern edge of Mannargudi, fed by channels from the Cauvery Delta irrigation network. The lake is important for local fishing — you will see small boats and cast nets in use most mornings — but its main draw for visitors is the birdlife.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: Lost Coast Brewery
 type: poi
+score: 6.1
 ---
 
 Lost Coast Brewery on 4th Street is one of the older craft breweries in California, founded in 1990 by Barbara Groom and Wendy Pound — two women who opened a brewery at a time when that was genuinely unusual. The Downtown Brown and Great White are their mainstay beers; both are served fresh at the taproom attached to the production facility.

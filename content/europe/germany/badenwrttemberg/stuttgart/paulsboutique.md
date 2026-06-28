@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Pauls Boutique
 type: poi
+score: 4.8
 ---
 
 Named after the Beastie Boys album, Pauls Boutique is a bar and club on Kleiner Schlossplatz in Stuttgart's city center. The vibe is relaxed early in the evening, picking up as the night goes on with DJs spinning hip-hop, funk, and electronic music. A solid choice for a night out in the Mitte district.

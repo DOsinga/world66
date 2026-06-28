@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Eleuthera_Sunset_explored_
 latitude: 25.1
 loc_type: city
 longitude: -76.15
-score: 0.66
+score: 8.79
+snippet: Long, narrow Bahamian island known for pink-sand beaches, quiet settlements,
+  and Out Islands calm.
 title: Eleuthera
 type: location
 ---

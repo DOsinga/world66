@@ -4,13 +4,15 @@ done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-11'
 image: ananthapur.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Anantapur_Clock_tower_at_night.jpg
-image_license: CC BY-SA 3.0
 image_attribution: Maheshrig
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Anantapur_Clock_tower_at_night.jpg
 latitude: 14.6819
 loc_type: city
 longitude: 77.6006
-score: 0.3
+score: 5.51
+snippet: Rayalaseema district capital on the Deccan plateau, in one of India's driest
+  districts.
 title: Anantapur
 type: location
 ---

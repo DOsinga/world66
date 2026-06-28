@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 8.0
 ---
 
 Fort Santa Luzia is the southern counterpart to the Forte da Graça, built in the seventeenth century to cover the approaches from the Spanish frontier. It is smaller and earlier than the Graça fort, and the interior now houses the Military Museum of Elvas, with a small but well-presented collection of weapons, uniforms and siege equipment from the long Spanish-Portuguese wars.

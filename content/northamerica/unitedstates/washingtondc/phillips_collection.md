@@ -7,6 +7,7 @@ tags:
   - dupont_circle
 latitude: 38.9126
 longitude: -77.0453
+score: 8.4
 ---
 
 The Phillips Collection is America's oldest private museum of modern art, founded by Duncan Phillips in 1921 in his family's Georgian Revival mansion in Dupont Circle. It is a small museum by Smithsonian standards — around 5,000 works — but the collection is exceptional and the intimate domestic setting gives it a character that the Mall museums lack.

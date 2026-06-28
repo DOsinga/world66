@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 35.5978
 longitude: -120.6842
+score: 8.5
 ---
 
 Sensorio is a permanent outdoor art installation spread across 15 acres of Paso Robles wine country. The centerpiece is British artist Bruce Munro's "Field of Light" — 58,800 stem-mounted frosted spheres that glow at dusk in shifting waves of color across a hillside vineyard. A second installation, "Light Towers," adds illuminated structures visible from a distance.

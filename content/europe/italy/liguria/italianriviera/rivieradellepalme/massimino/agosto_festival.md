@@ -6,6 +6,7 @@ longitude: 8.0667
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Every August, Massimino holds a small festival in honour of local hospitality — an event that takes on extra significance in a village this small, where the arrival of any visitors is an occasion. The format is essentially a communal meal outdoors, with local food, local wine, and conversation between the few dozen residents and whoever has found their way up the valley. It is the kind of village festival that is disappearing from much of rural Italy but that the smaller mountain communes still manage to sustain.

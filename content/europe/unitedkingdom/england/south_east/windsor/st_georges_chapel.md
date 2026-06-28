@@ -9,6 +9,7 @@ tags:
   - church
   - architecture
 story: "Ten monarchs are buried at St George's: Henry VIII (with Jane Seymour and the headless Charles I), George III, George IV, William IV, Edward VII, George V, George VI, and most recently Elizabeth II in 2022. Henry VIII's tomb is unmarked apart from a black marble slab in the floor — the elaborate monument he commissioned was never completed."
+score: 9.1
 ---
 
 St George's Chapel is one of the great works of English Gothic — a late-medieval Perpendicular chapel begun by Edward IV in 1475 and finished in the 1520s, with a fan-vaulted ceiling, painted heraldic banners of the Knights of the Garter hanging in the choir, and the carved Garter stalls themselves crowded with the helmets, crests, and swords of the present knights.

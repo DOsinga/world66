@@ -1,21 +1,22 @@
 ---
-title: Madagascar
-type: location
-latitude: -18.92496
-longitude: 46.441642
-image: madagascar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Katta_család.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Veszprémi Állatkert
-quick_facts:
-  Population: "30 million"
-  Language: "French & Malagasy"
-  Endemic Wildlife: "90% found nowhere else"
-  Lemur Species: "100+"
 done:
   country_cleanup: 2026-03-31
-score: 0.62
+image: madagascar.jpg
+image_attribution: Veszprémi Állatkert
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Katta_család.jpg
+latitude: -18.92496
 loc_type: country
+longitude: 46.441642
+quick_facts:
+  Endemic Wildlife: 90% found nowhere else
+  Language: French & Malagasy
+  Lemur Species: 100+
+  Population: 30 million
+score: 0.76
+snippet: Indian Ocean island country where long isolation produced lemurs, baobabs, spiny forests, and hard travel.
+title: Madagascar
+type: location
 ---
 
 *Africa > Madagascar*

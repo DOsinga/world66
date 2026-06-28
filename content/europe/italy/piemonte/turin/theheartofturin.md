@@ -7,6 +7,7 @@ tags:
 - walking_tour
 title: The Heart of Turin
 type: poi
+score: 6.4
 ---
 
 This walking tour begins at Piazza Castello and follows Via Po toward the river, passing under the severe arcades where the king once walked on his way to the Po. Along the way you pass the historic Caffe Florio, the Church of San Francesco da Paola, and the Galleria dell'Accademia Albertina before reaching Piazza Carlo Emanuele II, better known as Piazza Carlina, once the site of a Napoleonic guillotine.

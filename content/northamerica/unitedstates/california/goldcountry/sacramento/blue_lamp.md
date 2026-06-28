@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 38.5751
 longitude: -121.4742
+score: 6.8
 ---
 
 Sacramento's best small music venue, a low-ceilinged bar in Midtown that has been hosting live music since the 1980s. The Blue Lamp programmes blues, soul, jazz, and R&B most nights — the bookings tend toward established regional acts rather than touring national names, which means the prices are modest and the audiences are genuinely there for the music.

@@ -9,6 +9,7 @@ longitude: -6.3971
 story: "The museum is housed in a converted 18th-century distillery warehouse — the Dundalk Distillery operated on this site from 1708 until 1926, making it one of the longest-running whiskey distilleries in Ireland. The building's industrial bones are clearly visible in the heavy stone walls and high ceilings."
 sources:
   - https://en.wikipedia.org/wiki/County_Museum_Dundalk
+score: 7.2
 ---
 
 County Museum Dundalk occupies a restored 18th-century distillery building in the town centre, documenting the history of County Louth from prehistory to the present. The permanent collection covers the region's Bronze Age archaeology, Viking and Norman history, and the industrial development of Dundalk — particularly the linen trade and the Great Northern Railway locomotive works, which made Dundalk a significant railway engineering centre in the 19th and early 20th centuries.

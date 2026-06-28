@@ -8,6 +8,8 @@ latitude: 53.406347
 loc_type: region
 longitude: 5.74825
 score: 0.54
+snippet: Quiet Dutch Wadden Island with beaches, dunes, cycling paths, four villages,
+  and guided mudflat walks.
 title: Ameland
 type: location
 ---

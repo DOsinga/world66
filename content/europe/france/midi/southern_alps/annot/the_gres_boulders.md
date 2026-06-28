@@ -10,6 +10,7 @@ story: >
   The Grès d'Annot are Eocene-age sandstone formations deposited some 35 million years ago at the bottom of a deep submarine channel. Tectonic forces lifted the whole formation and tilted it, then erosion carved away the softer rock around the harder blocks, leaving these massive rounded forms balanced on the hillside above the town. Some have been incorporated into the town's buildings — a wall here, a shelter there — since medieval times.
 sources:
   - https://en.wikipedia.org/wiki/Annot
+score: 8.6
 ---
 
 The boulders that give Annot its character are not ordinary rocks — they are Grès d'Annot, massive blocks of Eocene sandstone that litter the hillsides above and around the town like the abandoned toys of some enormous child. Some are as large as houses; many have been hollowed and shaped by centuries of wind and rain into smooth, curved surfaces. Walking among them feels genuinely strange, as if the landscape has been rearranged by some force that didn't bother to explain itself.

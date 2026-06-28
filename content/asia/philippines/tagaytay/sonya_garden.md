@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 14.0919
 longitude: 121.0021
+score: 7.3
 ---
 
 Sonya's Garden is an organic farm and restaurant spread across several hectares in the hills east of Tagaytay centre. The concept is simple and well-executed: a working organic garden where herbs, vegetables, and edible flowers grow around a series of open-air dining pavilions. The set-price menu changes daily depending on what is ready to harvest and uses almost entirely what is grown on site.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Davos_town.jpg
 latitude: 46.796198
 loc_type: city
 longitude: 9.823689
-score: 0.64
+score: 8.78
+snippet: High Alpine town in Graubünden, shaped by ski slopes, sanitarium history,
+  and mountain air.
 title: Davos
 type: location
 ---

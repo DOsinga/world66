@@ -10,6 +10,7 @@ tags:
 - albert_dock
 title: International Slavery Museum
 type: poi
+score: 8.8
 ---
 
 Housed on the third floor of the Merseyside Maritime Museum at Albert Dock, the International Slavery Museum is one of the only museums in the world dedicated to the transatlantic slave trade, its legacies, and the long history of African enslavement and resistance. The displays cover West African life before European contact, the brutal middle passage, plantation life in the Americas, and the long arc of abolition and civil rights movements.

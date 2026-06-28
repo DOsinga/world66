@@ -8,9 +8,11 @@ image_attribution: Iro Bosero
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Hospital_San_Roque_-_Jujuy_-_Argentina.jpg
 latitude: -24.1858
-loc_type: city
+loc_type: region
 longitude: -65.2995
-score: 0.57
+score: 7.97
+snippet: Northern Argentine provincial capital where Andean culture opens onto the
+  Quebrada de Humahuaca.
 title: Jujuy
 type: location
 ---

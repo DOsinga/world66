@@ -8,6 +8,7 @@ tags:
 title: Three Kings Monument
 type: poi
 story: The monument commemorates the three kings — Mangrai, Ramkhamhaeng, and Ngam Mueang — who met in 1296 to plan the founding of Chiang Mai. Their alliance is said to have brought an era of relative peace to the competing northern kingdoms.
+score: 5.7
 ---
 
 The Three Kings Monument stands at the centre of the old city, in front of the Chiang Mai City Arts and Cultural Centre. Three bronze kings — Mangrai of Chiang Mai, Ramkhamhaeng of Sukhothai, and Ngam Mueang of Phayao — stand in conference, a monument to the alliance that founded the city in 1296. Thais come here to make offerings and the base is frequently garlanded with flowers and incense.

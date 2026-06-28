@@ -7,6 +7,7 @@ tags:
 latitude: 31.2171
 longitude: -8.2333
 snippet: "The Berber heart of Amizmiz — mudbrick houses climbing the hillside"
+score: 6.8
 ---
 
 The old village climbs the slope above the market in compact mudbrick construction typical of Berber agricultural settlements in this part of the Atlas foothills — flat-roofed houses stacked against each other for mutual support and shade, the main mosque's minaret visible from the market below. There is no medina here in the tourist sense, no carpet sellers or lantern shops. This is a working town where people live, and the old quarter reflects that: worn thresholds, chickens in courtyards, the smell of wood smoke in the morning.

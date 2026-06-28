@@ -11,6 +11,7 @@ longitude: -2.2608
 snippet: "The village's only pub, also its only restaurant, also a guesthouse"
 sources:
   - https://www.undiscoveredscotland.co.uk/pennan/pennan/index.html
+score: 5.6
 ---
 
 The Pennan Inn is the village's sole pub, restaurant, and accommodation provider, and it featured prominently in *Local Hero* along with the phone box outside. That gives it a pleasant layer of film-set nostalgia on top of its role as the practical anchor of village life.

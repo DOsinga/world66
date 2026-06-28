@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Akron,_Ohio_(36449510722).
 latitude: 41.083064
 loc_type: city
 longitude: -81.518485
-score: 0.36
+score: 6.19
+snippet: Ohio rubber-era city by Cuyahoga Valley, reinvented around downtown arts,
+  university life, and parks
 title: Akron
 type: location
 ---

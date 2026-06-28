@@ -5,8 +5,8 @@ done:
 latitude: 45.444
 longitude: 12.3331
 opening_hours: Mon–Sat 17:00–23:30; closed Sun
+score: 7.3
 snippet: Natural-wine bar with cicchetti on the Cannaregio canal
-neighbourhood: Cannaregio
 tags:
 - bars_and_cafes
 - cannaregio

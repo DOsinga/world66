@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The wall of sandstone peaks behind the visitor centre, named for the Virgin Mary
+score: 7.1
 ---
 
 The Towers of the Virgin are the line of seven sandstone summits that form the western wall of Zion Canyon's mouth — the Altar of Sacrifice, the Sundial, the Witch Head, the Bee Hive, the West Temple, the Sentinel, and Meridian Tower. Named in the 19th century by Mormon settlers for the supposed resemblance of the central peak to the Virgin Mary, the wall is the first dramatic landform that travellers see on the drive in from the south.

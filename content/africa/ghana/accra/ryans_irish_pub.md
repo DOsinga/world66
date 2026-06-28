@@ -5,7 +5,12 @@ done:
 latitude: 5.560593
 longitude: -0.182439
 neighbourhood: Osu
+score: 4.6
 snippet: West Africa's first Irish pub, expat Accra hub
+tags:
+- bars_and_cafes
+- osu
+- bar
 title: Ryan's Irish Pub
 type: poi
 ---

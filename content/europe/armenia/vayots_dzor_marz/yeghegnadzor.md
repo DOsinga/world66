@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Wajoc_Dzor,
 latitude: 39.760101
 loc_type: city
 longitude: 45.330227
-score: 0.4
+score: 6.88
+snippet: Armenian provincial capital in a sun-baked Vayots Dzor valley, close to Noravank
+  and Areni wine country.
 title: Yeghegnadzor
 type: location
 ---

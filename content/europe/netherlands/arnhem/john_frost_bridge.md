@@ -8,6 +8,7 @@ tags:
 latitude: 51.9747
 longitude: 5.9119
 story: In September 1944, Lieutenant Colonel John Frost and approximately 700 British paratroopers held the northern end of this bridge for four days against the entire 9th SS Panzer Division — waiting for ground forces that never arrived. The battle became the centrepiece of "A Bridge Too Far." Frost's force was eventually overwhelmed, but his defence delayed German movements long enough to matter. The bridge was renamed in his honour in 1977.
+score: 6.6
 ---
 
 The John Frost Bridge (*John Frostbrug*) is Arnhem's main road bridge over the Lower Rhine, rebuilt after the war to replace the original structure destroyed in the fighting. The bridge itself is a modern concrete and steel span, but the history attached to it is extraordinary. In September 1944, during Operation Market Garden, British paratroopers from the 1st Airborne Division seized and held the northern end of the original bridge against fierce German counterattacks for four days, in one of the most celebrated defensive stands of the Second World War.

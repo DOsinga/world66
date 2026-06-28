@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 32.51557
 longitude: -93.73237
+score: 5.4
 ---
 
 The Municipal Building on Barksdale Boulevard has stood since 1926 — built when Bossier City was still small, ambitious, and trying to look the part. The two-storey red-brick structure has a classical revival façade with stone trim that feels disproportionate to the modest building behind it, which was the point.

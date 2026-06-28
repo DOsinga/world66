@@ -13,6 +13,7 @@ story: >
   Mozarthaus in the Rathaus is open as a small museum — but the village
   is more honest about it than Salzburg, which has seventeen Mozart-related
   attractions and counting.
+score: 7.1
 ---
 
 St. Gilgen sits at the western end of the Wolfgangsee, connected by boat to [St. Wolfgang](/europe/austria/salzkammergut/pilgrimage_church_st_wolfgang) across the lake. It is a quieter and less touristy alternative to its more famous neighbour — a pretty village of 3,500 people with a good beach, decent restaurants, and the Zwölferhorn cable car ascending to 1,520 metres with panoramic views over the lake system.

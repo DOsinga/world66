@@ -15,6 +15,7 @@ story: >
   operation organised on the principles of Roman antiquity.
 sources:
   - https://en.wikipedia.org/wiki/Villa_Emo
+score: 8.9
 ---
 
 Villa Emo, eight kilometres east of Castelfranco at Fanzolo, is one of Andrea Palladio's most influential and most copied country houses. Designed and built between 1559 and 1565 for the Emo family, it presents a beautifully balanced facade — a pedimented central block with a four-column Doric loggia, flanked by long single-storey barchesse ending in dovecote towers. The whole composition stretches over a hundred metres along the road.

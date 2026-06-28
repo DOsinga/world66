@@ -8,6 +8,7 @@ latitude: 32.0454
 longitude: 48.8562
 story: >
   The hydraulic system of Shushtar was described by UNESCO as a "masterpiece of creative genius." It diverts the Karun River through a network of tunnels, bridges, waterfalls, and millhouses built mostly in the Sassanid era (3rd–7th centuries AD). The main waterfall cascade — water tumbling over a cliff into the city's garden district — was the centrepiece of a working industrial and irrigation complex that fed the entire surrounding plain for centuries.
+score: 9.0
 ---
 
 Shushtar's hydraulic system is Iran's most underrated UNESCO World Heritage site — an extraordinary feat of ancient engineering that turned a semi-arid plain into one of the most productive agricultural regions in the ancient world. The system dates back over 2,000 years, though most of what survives is Sassanid-era construction, and includes a network of tunnels, canals, dams, and watermills still partially functioning today.

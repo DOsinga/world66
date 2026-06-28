@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 Rankoth Vehera is the largest stupa at Polonnaruwa and the fourth largest in Sri Lanka, a great white-painted dome 33 metres high commissioned by Nissanka Malla in the late twelfth century. It was deliberately modelled on the older Ruwanwelisaya at Anuradhapura — the new dynasty making its claim to the older Sinhalese tradition.

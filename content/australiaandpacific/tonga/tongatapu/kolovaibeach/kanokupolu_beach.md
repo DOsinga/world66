@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -21.0833
 longitude: -175.3333
+score: 6.6
 ---
 
 A neighbouring beach a few kilometres north of Kolovai, with a small resort cluster and a low-key local atmosphere. The water is similar — a wide reef flat protected by an outer barrier — but the swimming here is slightly easier and there are sun loungers at the resort if you want them.

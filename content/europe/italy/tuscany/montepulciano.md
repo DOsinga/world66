@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Montepulciano_San_Biagio_F
 latitude: 43.0931
 loc_type: city
 longitude: 11.7821
+score: 8.99
+snippet: Renaissance Tuscan hill town between Val di Chiana and Val d'Orcia, famed
+  for Vino Nobile
 sources:
 - https://en.wikipedia.org/wiki/Montepulciano
 - https://en.wikivoyage.org/wiki/Montepulciano

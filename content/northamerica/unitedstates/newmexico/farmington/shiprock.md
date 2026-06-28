@@ -13,6 +13,7 @@ story: >
   surrounding softer rock worn away over 30 million years. Climbers were
   banned from the peak in 1970 at the request of the Navajo Nation, and the
   ban is absolute.
+score: 8.8
 ---
 
 Shiprock rises nearly 1,800 feet above the desert plain west of Farmington, a jagged black volcanic plug visible from 30 miles away. It is one of the most dramatic landforms in New Mexico and a sacred site for the Navajo Nation. Climbing is prohibited, but you can drive close to it on the paved road off US-491 and walk around its base — the volcanic dikes that radiate outward from the main rock are visible for miles.

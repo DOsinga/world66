@@ -4,12 +4,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 30.047778
 longitude: 31.2625
+score: 7.1
 snippet: Cairo's oldest ahwa, open continuously since 1773
 tags:
 - bars_and_cafes
 - bar
 - market
 - cafe
+- islamic_cairo
 title: Fishawy Café
 type: poi
 ---

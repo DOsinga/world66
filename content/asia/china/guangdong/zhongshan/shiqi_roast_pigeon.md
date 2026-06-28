@@ -4,6 +4,7 @@ type: poi
 latitude: 22.5175
 longitude: 113.3850
 tags: [eating_out, restaurant]
+score: 6.8
 ---
 
 Roast suckling pigeon — crisp golden skin, juicy meat, a sweet-savoury soy-and-spice glaze — is the dish Zhongshan is famous for across southern China. Locals trace its origin to the 1930s, when a Shiqi chef refined a technique for roasting young pigeons over lychee-wood charcoal that quickly spread across Guangdong.

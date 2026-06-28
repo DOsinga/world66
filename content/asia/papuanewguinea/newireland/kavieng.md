@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kavieng_underwater_596.jpg
 latitude: -2.573474
 loc_type: city
 longitude: 150.795224
-score: 0.41
+score: 6.97
+snippet: New Ireland port town with a superb harbour and access to wreck diving and
+  reef walls
 title: Kavieng
 type: location
 ---

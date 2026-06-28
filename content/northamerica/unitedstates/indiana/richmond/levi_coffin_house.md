@@ -15,6 +15,7 @@ tags:
   - history
 title: Levi Coffin House
 type: poi
+score: 9.2
 ---
 
 The Levi Coffin House in Fountain City — eight miles north of Richmond on US 27 — is a National Historic Landmark and the most significant surviving Underground Railroad site in the United States. The Federal-style brick house, built in 1839, was the home of Quaker merchant Levi Coffin and his wife Catherine, who used it as a station on the Underground Railroad from 1827 to 1847. An estimated 2,000 people passed through on their way to freedom in Canada or the northern states.

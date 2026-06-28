@@ -1,7 +1,11 @@
 ---
 address: 999 Broadway (nr Fillmore Avenue) Buffalo
+latitude: 42.89304
+longitude: -78.837372
+score: 6.7
 tags:
 - shopping
+- market
 title: Broadway Market
 type: poi
 url: www.broadwaymarket.com

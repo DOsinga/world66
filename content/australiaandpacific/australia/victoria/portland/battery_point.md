@@ -14,6 +14,7 @@ tags:
 - historic_site
 title: Battery Point
 type: poi
+score: 6.3
 ---
 
 This fort and gun emplacement was constructed in 1889 and overlooks Portland Bay. You can see the old guns and cannons and visit the underground munition depots.

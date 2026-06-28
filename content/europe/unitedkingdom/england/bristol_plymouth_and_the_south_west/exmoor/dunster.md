@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunster.jpg
 latitude: 51.1844
 loc_type: city
 longitude: -3.4443
-score: 0.51
+score: 7.53
+snippet: Somerset village on Exmoor’s edge, dominated by Dunster Castle and its rare
+  medieval Yarn Market.
 title: Dunster
 type: location
 ---

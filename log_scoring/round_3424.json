@@ -1,0 +1,200 @@
+{
+  "round": 3424,
+  "timestamp": "2026-06-13T22:52:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/northernspain/santiagodecompostela",
+      "prior_score": 6.0819,
+      "prior_variance": 0.172329,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 3.7516,
+      "prior_variance": 0.144853,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 4.2456,
+      "prior_variance": 0.125161,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.4566,
+      "prior_variance": 0.114717,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 1.3866,
+      "prior_variance": 0.160556,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 2.7761,
+      "prior_variance": 0.143081,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 3.316,
+      "prior_variance": 0.12769,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 3.3858,
+      "prior_variance": 0.109989,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 2.896,
+      "prior_variance": 0.11641,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.4241,
+      "prior_variance": 0.12505,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 2.0413,
+      "prior_variance": 0.114097,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.6666,
+      "prior_variance": 0.109997,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 1.7517,
+      "prior_variance": 0.115978,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.5984,
+      "prior_variance": 0.122756,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 1.6854,
+      "prior_variance": 0.140367,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.4302,
+      "prior_variance": 0.155013,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 1.9094,
+      "prior_variance": 0.137473,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": -0.0527,
+      "prior_variance": 0.146515,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.6926,
+      "prior_variance": 0.120015,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.1979,
+      "prior_variance": 0.121086,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 0.6473,
+      "prior_variance": 0.112939,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 0.1389,
+      "prior_variance": 0.147549,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -2.1977,
+      "prior_variance": 0.129958,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -4.7751,
+      "prior_variance": 0.176031,
+      "prior_n": 10
+    }
+  ]
+}

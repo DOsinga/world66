@@ -8,6 +8,7 @@ tags:
   - museum
   - innere_stadt
 story: "Freud lived and worked at Berggasse 19 for 47 years. When the Nazis forced his exile in 1938, he took the famous couch and most of his antiquity collection to London. The Vienna apartment now displays the original waiting room, his correspondence, and the doormat — covered with the names of patients who once rang his bell."
+score: 8.5
 ---
 
 The apartment where Sigmund Freud lived and practiced from 1891 to 1938 has been preserved as a museum. Berggasse 19 is where Freud wrote 'The Interpretation of Dreams', received patients at his famous couch, and developed psychoanalysis as a discipline.

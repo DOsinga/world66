@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.3750
 longitude: -99.9700
+score: 6.6
 ---
 
 The highlands around San Juan del Río have a temperate climate that supports viticulture — one of the newer wine-producing regions in Mexico, growing in reputation over the past two decades. Several haciendas and boutique wineries in the surrounding hills produce wines from local and international grape varieties, with an emphasis on white wines that benefit from the altitude and cool nights.

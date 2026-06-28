@@ -8,6 +8,7 @@ tags:
   - restaurant
   - east_nashville
 story: "Family lore traces hot chicken to the 1930s, when Thornton Prince's girlfriend, suspicious of his philandering, tried to punish him by coating his fried chicken in the hottest spice paste she could find. He liked it so much he started serving it at his cafe, and eventually opened Prince's. Five generations later the spice paste is still made to the same closely guarded recipe."
+score: 8.1
 ---
 
 The originating hot chicken restaurant in Nashville, run by the same family since the 1930s. Spice levels run from Mild to **XXX Hot** — XXX is no joke and is served with a small pile of plain white bread to absorb the heat. The cayenne-and-lard paste used to coat the chicken is so hot at the top end of the menu that the kitchen prepares it in a separate area; staff sometimes wear gloves.

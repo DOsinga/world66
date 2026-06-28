@@ -8,6 +8,7 @@ tags:
 - transit
 title: Greater Niagara Falls Coach Terminal
 type: poi
+score: 2.0
 ---
 
 The main bus terminal in downtown Niagara Falls, at Bridge and Erie, where intercity and local services connect. Coach Canada runs services to St. Catharines, Grimsby, Hamilton, Toronto, Fort Erie, Buffalo, and New York City. Greyhound of Canada offers similar routes.

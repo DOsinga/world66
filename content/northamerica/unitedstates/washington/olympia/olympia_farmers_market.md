@@ -8,6 +8,7 @@ tags:
 title: Olympia Farmers Market
 type: poi
 snippet: One of the largest farmers markets in the Pacific Northwest
+score: 7.9
 ---
 
 A genuine year-round farmers market — open Thursday through Sunday from April to October, weekends only in winter — at the north end of downtown, just back from Percival Landing. The Olympia Farmers Market is one of the largest in the Pacific Northwest and one of the oldest continuously operating in the country.

@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 8.3247
 longitude: -13.2683
+score: 6.1
 ---
 
 The closest beach to central Freetown, Lakka is a working fishing community where wooden pirogues are pulled up on the sand and the catch is auctioned out of plastic baskets at dawn. The beach is not the prettiest on the peninsula but the proximity makes it the favourite weekend escape for Freetown residents.

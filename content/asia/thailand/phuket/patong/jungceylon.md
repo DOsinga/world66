@@ -6,6 +6,7 @@ longitude: 98.2972
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 Patong's flagship shopping mall, a large air-conditioned complex that takes up an entire block one street back from Beach Road. It is what most tourists head for when the midday heat becomes unbearable: department stores, branded fashion, a Big C supermarket on the basement level, a cinema, and food courts.

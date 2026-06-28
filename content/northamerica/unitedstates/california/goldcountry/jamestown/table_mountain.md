@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.4
 ---
 
 Table Mountain is the long, flat-topped ridge that dominates the horizon north of Jamestown — an 18-mile lava flow that filled an ancient river channel about ten million years ago. The harder volcanic rock has resisted erosion while the softer terrain around it has worn away, leaving the river upside-down in the landscape: the old streambed now sits on top of the mesa.

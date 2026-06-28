@@ -7,13 +7,14 @@ image_attribution: Tiia Monto
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:2019_Cortina_d%27Ampezzo.jpg
 latitude: 46.538333
+loc_type: city
 longitude: 12.137351
+score: 9.3
+snippet: Dolomite resort town in a broad alpine valley, host of the 1956 Winter Olympics.
+sources:
+- https://en.wikipedia.org/wiki/Cortina_d%27Ampezzo
 title: Cortina d'Ampezzo
 type: location
-score: 0.75
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Cortina_d%27Ampezzo
 ---
 
 Cortina d'Ampezzo sits in a broad alpine valley surrounded by the jagged peaks of the Dolomites, and it earns its title as the "Queen of the Dolomites." The town hosted the 1956 Winter Olympics, will co-host the 2026 Winter Olympics, and has been a playground for Italian aristocrats and European celebrities ever since. The setting is genuinely dramatic — the Tofane, Cristallo, and Faloria massifs ring the valley on all sides, and at sunset the pale rock glows pink and orange in the phenomenon the Ladins call enrosadira. Photographs never quite capture it.

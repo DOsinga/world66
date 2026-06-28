@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Treehouse Point is the work of Pete Nelson, the host of Animal Planet's 'Treehouse Masters'. Each cabin is built around a living trunk on flexible bolt-fittings that allow the host tree to keep growing — a quietly clever bit of engineering hidden behind the storybook aesthetic."
+score: 6.3
 ---
 
 A handful of architecturally striking treehouse cabins set in old-growth-feeling forest above the Raging River, about ten minutes east of Issaquah just past Preston. The site doubles as a small inn and a destination for guided tours.

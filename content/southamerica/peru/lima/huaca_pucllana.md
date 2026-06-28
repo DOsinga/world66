@@ -10,6 +10,7 @@ tags:
 neighbourhood: Miraflores
 snippet: A pre-Inca pyramid hemmed in by Miraflores apartment blocks — surreal at night
 story: "The pyramid was built by the Lima culture between 200 and 700 AD, using millions of mud bricks stood on edge like books on a shelf — a deliberate seismic design that has let the structure ride out 1,500 years of earthquakes. At night the floodlights reveal the staggered terraces in a way the daytime sun does not."
+score: 8.2
 ---
 
 In the middle of Miraflores, surrounded on all sides by apartment blocks and traffic, the **Huaca Pucllana** is a stepped adobe pyramid of the Lima culture — built between 200 and 700 AD as a ceremonial and administrative centre. The mud-brick blocks are set on edge in a "library shelf" pattern that has proven remarkably earthquake-resistant. The site was actively used after the Lima culture as a Wari burial ground, then forgotten under windblown sand until rescue archaeology began in the 1980s.

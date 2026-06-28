@@ -10,8 +10,11 @@ image_attribution: Pedro Nuno Caetano on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/12962905@N05/49438549761
 latitude: 52.090701
+loc_type: city
 longitude: 5.121563
-score: 0.65
+score: 8.36
+snippet: Dutch university city of canals, wharf cellars, and medieval churches, with
+  a calmer rhythm than Amsterdam.
 tags:
 - culture
 - museums
@@ -20,7 +23,6 @@ tags:
 - student_city
 title: Utrecht
 type: location
-loc_type: city
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Fish_market,_Mkoani,_Pemba
 latitude: -5.1691
 loc_type: city
 longitude: 39.7994
-score: 0.49
+score: 7.2
 title: Pemba
 type: location
+snippet: Quiet Tanzanian island north of Zanzibar, known for clove plantations, mangroves,
+  and wall diving.
 ---
 
 Pemba is a quiet island just north of [Zanzibar](/africa/tanzania/zanzibar), less visited and quite different in character. Mangrove forests line much of the shore, while the interior is covered by dense rainforest and clove plantations — Pemba has historically produced a large share of the world's cloves. There is little tourist infrastructure, and that is largely the point.

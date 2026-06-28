@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 latitude: 32.0540
 longitude: 34.7530
 story: 'Jaffa appears in Egyptian records 3,500 years ago and is among the oldest continuously inhabited port cities in the world. Jonah sailed from here; Saint Peter is said to have raised Tabitha from the dead in a house here; Napoleon stormed and looted the place in 1799. The Jewish settlement that became Tel Aviv was founded in 1909 as a Hebrew alternative to Arab Jaffa, just up the beach.'
+score: 9.0
 ---
 
 Old Jaffa is the historic core of the city: a small medieval Arab port wrapped around a low hill at the southern end of the Tel Aviv beachfront. The Ottoman-era streets — narrow, stone-paved, often arched — run between artists' studios, galleries, restaurants, and the occasional house museum.

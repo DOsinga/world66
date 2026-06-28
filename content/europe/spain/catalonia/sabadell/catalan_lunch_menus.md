@@ -5,6 +5,7 @@ tags:
   - eating_out
 latitude: 41.5489
 longitude: 2.1089
+score: 5.6
 ---
 
 The menú del día — a fixed-price lunch menu of three courses with wine and bread — is the standard way to eat well in Sabadell at a reasonable cost. Most restaurants near the city centre offer them on weekdays, typically from 1 pm to 3:30 pm. The dishes change daily and reflect whatever the kitchen has bought fresh that morning. Expect Catalan staples: escalivada (roasted vegetables), fideuà (pasta paella), botifarra sausage with beans, and crema catalana for dessert.

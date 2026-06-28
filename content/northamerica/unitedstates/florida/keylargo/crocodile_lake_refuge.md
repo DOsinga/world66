@@ -8,6 +8,7 @@ tags:
 latitude: 25.1236
 longitude: -80.43
 snippet: Protected habitat for the threatened American crocodile in north Key Largo
+score: 4.6
 ---
 
 Crocodile Lake National Wildlife Refuge covers 6,686 acres in north Key Largo, protecting one of only three remaining breeding populations of the American crocodile in the United States. The refuge was established in 1980 under the Endangered Species Act and is one of the reasons the American crocodile population has recovered from near-extinction; it also shelters the Key Largo woodrat, the Key Largo cotton mouse, and the Schaus swallowtail butterfly, all found nowhere else.

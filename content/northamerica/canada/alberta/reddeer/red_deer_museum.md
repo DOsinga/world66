@@ -12,6 +12,7 @@ story: >
   because it sat at the midpoint of the Calgary-Edmonton Trail. The early settlers arrived
   with deliberate plans: town lots were surveyed and sold before many buildings existed, and
   the city's character was shaped by speculation and aspiration as much as by geography.
+score: 6.8
 ---
 
 Red Deer's main cultural institution occupies a building on 45th Street in the city centre, combining a regional history museum with a well-programmed art gallery. The history collection covers Indigenous life on the plains before European contact, the homesteading era, and the city's development through the 20th century. The oil industry — which transformed central Alberta from the 1940s onward — gets particular attention.

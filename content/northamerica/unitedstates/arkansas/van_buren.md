@@ -5,7 +5,9 @@ done:
 latitude: 35.4368
 loc_type: city
 longitude: -94.3483
-score: 0.33
+score: 5.75
+snippet: Arkansas River town with a preserved Main Street district and mountain railroad
+  excursions
 title: Van Buren
 type: location
 ---

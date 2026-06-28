@@ -7,6 +7,7 @@ snippet: "Twelfth-century Benedictine abbey, now in private hands"
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 A short walk outside the village leads to the remains of the Benedictine abbey of Fornelli, founded in 1179. The community was small but its lands once stretched across much of the upper Bormida valley. Suppressed in the 18th century and converted to a farmhouse, the building still preserves Romanesque masonry in its lower courses and the bones of the original cloister layout.

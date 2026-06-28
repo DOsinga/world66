@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7726
 longitude: 72.8479
+score: 6.4
 ---
 
 The third and last city of Taxila, built by the Kushan rulers in the 1st century AD and abandoned within three hundred years when the White Huns swept down from Central Asia. Sirsukh sits a few kilometres north of Sirkap, on a flat plain enclosed by a thick rubble-and-mortar wall studded with semi-circular bastions — a defensive style borrowed wholesale from Central Asian fortifications.

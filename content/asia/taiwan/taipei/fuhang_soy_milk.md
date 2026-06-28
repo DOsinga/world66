@@ -2,10 +2,12 @@
 address: 108 Zhongxiao East Road Sec 1, 2F, Zhongzheng District, Taipei
 latitude: 25.0445
 longitude: 121.5239
+score: 7.1
 snippet: Taipei's most famous breakfast spot for soy milk and shaobing
 tags:
 - eating_out
 - restaurant
+- zhongzheng
 title: Fuhang Soy Milk
 type: poi
 ---

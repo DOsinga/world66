@@ -7,6 +7,7 @@ snippet: "Windermere's only inhabited island, with a round house from 1774 that 
 tags: [things_to_do, sight]
 story: >
   When the circular house on Belle Isle was completed in 1774, it was met with widespread ridicule. Poet William Wordsworth was among its critics, describing the building as an eyesore and objecting to the felling of trees it required. The house became something of a test case in debates about aesthetics and the proper relationship between architecture and the natural landscape — debates that helped lay the groundwork for the Romantic movement's cult of the picturesque.
+score: 5.8
 ---
 
 Belle Isle is the largest island on Windermere, about half a mile long, and sits in the main channel of the lake roughly opposite Bowness. It has been continuously inhabited since the seventeenth century and is privately owned, so you cannot land there — but it is visible from the shore and from any boat on the lake, and the unusual circular house at its centre is unmistakable once you know to look for it.

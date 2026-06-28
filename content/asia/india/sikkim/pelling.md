@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunrise_over_Kangchenjunga
 latitude: 27.3004
 loc_type: city
 longitude: 88.2357
-score: 0.58
+score: 8.13
+snippet: Western Sikkim hill town with accessible Kanchenjunga views, monasteries,
+  and trekking through cardamom farms.
 sources:
 - https://en.wikipedia.org/wiki/Pelling
 - https://en.wikipedia.org/wiki/Pemayangtse_Monastery

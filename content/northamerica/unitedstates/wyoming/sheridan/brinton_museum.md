@@ -12,6 +12,7 @@ story: >
   Western and Native American art with discriminating taste — his collection includes work by
   Frederic Remington and Charles Russell, assembled when they were undervalued. His heirs
   turned the ranch into a museum, keeping the art where he hung it, in a working ranch house.
+score: 8.0
 ---
 
 The Brinton Museum sits on a 620-acre working ranch in Big Horn, about 12 miles south of Sheridan, and is one of the best small art museums in the American West. The collection spans Western painting, Native American art and artefacts, and historical photographs — anchored by works from Remington and Russell but extending across multiple traditions.

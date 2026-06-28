@@ -9,6 +9,7 @@ latitude: -20.1667
 longitude: 28.4167
 story: >
   Khami was the capital of the Torwa dynasty, which succeeded the Great Zimbabwe kingdom in the 15th century. Unlike Great Zimbabwe's famous towers, Khami's stone construction used a distinctive terrace-and-platform technique — the walls were built in horizontal layers with decorative banding patterns that vary from site to site. The style suggests a different architectural tradition emerging from the same cultural base.
+score: 9.8
 ---
 
 Khami Ruins, about 22 km west of Bulawayo, is a UNESCO World Heritage Site and one of Zimbabwe's most important archaeological sites. The ruins are the remains of a capital city that flourished between the 15th and 17th centuries as the seat of the Torwa dynasty, successor to the Great Zimbabwe civilisation. The site covers a large area of terraced stone walls, platforms, and decorated facades that demonstrate sophisticated construction techniques.

@@ -8,6 +8,7 @@ latitude: 45.5186
 longitude: -122.6810
 story: >
   Portland's food cart model differs from most cities in that the carts are semi-permanent — they park in fixed "pods" on surface parking lots, often under long-term leases, and build regular clienteles. The model allowed aspiring restaurateurs to test concepts with low startup costs, and from the late 1990s through the 2010s, Portland had more food cart pods per capita than any other US city. Many successful Portland restaurants started as food carts.
+score: 7.8
 ---
 
 Portland's food cart pods are a defining feature of the city's eating culture. Instead of mobile trucks that move daily, Portland's carts operate from fixed lots in clusters — pods — where 10 to 30 carts offer different cuisines from a shared outdoor seating area. The coverage is global: Ethiopian, Vietnamese, Korean, Mexican, Peruvian, Japanese, Middle Eastern, and American are all represented in the major pods.

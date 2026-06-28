@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - gornji_grad
+score: 8.1
 ---
 
 Housed in the former Convent of the Clarissan Sisters at the top of Opatička Street, the City Museum walks you through eight centuries of Zagreb history in chronological galleries — from the foundation of Gradec and Kaptol in the 13th century, through the long Habsburg centuries, the slow growth of the Lower Town, the 20th-century traumas of two world wars and the Homeland War of 1991, and into the present.

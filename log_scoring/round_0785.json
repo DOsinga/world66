@@ -1,200 +1,200 @@
 {
   "round": 785,
-  "timestamp": "2026-04-12T10:48:01",
+  "timestamp": "2026-06-13T19:53:33",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Lauterbrunnen",
-      "path": "europe/switzerland/lauterbrunnen",
-      "prior_mu": 26.1871,
-      "prior_sigma": 5.4786,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 8.5649,
+      "prior_variance": 0.738074,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Jackson Hole",
-      "path": "northamerica/unitedstates/wyoming/jacksonhole",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 7.4035,
+      "prior_variance": 0.624599,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Aswan",
-      "path": "africa/egypt/aswan",
-      "prior_mu": 22.8356,
-      "prior_sigma": 5.9292,
-      "prior_n": 1
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 7.2088,
+      "prior_variance": 1.032283,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Sete Cidades",
-      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
-      "prior_mu": 24.2225,
-      "prior_sigma": 5.8848,
-      "prior_n": 1
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 5.8217,
+      "prior_variance": 0.989211,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Montserrat",
-      "path": "europe/spain/catalonia/montserrat",
-      "prior_mu": 22.9137,
-      "prior_sigma": 4.5357,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 5.3431,
+      "prior_variance": 0.85657,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Paihia",
-      "path": "australiaandpacific/newzealand/northland/paihia",
-      "prior_mu": 21.7317,
-      "prior_sigma": 4.61,
-      "prior_n": 2
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 6.1325,
+      "prior_variance": 0.610328,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Dra\u010de",
-      "path": "europe/croatia/peljesac/drace",
-      "prior_mu": 22.4615,
-      "prior_sigma": 5.3573,
-      "prior_n": 1
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 6.8395,
+      "prior_variance": 2.132312,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Collaroy",
-      "path": "australiaandpacific/australia/newsouthwales/collaroy",
-      "prior_mu": 21.745,
-      "prior_sigma": 4.4861,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 4.5981,
+      "prior_variance": 0.642134,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Puntarenas",
-      "path": "northamerica/costarica/puntarenas",
-      "prior_mu": 22.7632,
-      "prior_sigma": 5.7153,
-      "prior_n": 1
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 6.5536,
+      "prior_variance": 0.865578,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Fatima",
-      "path": "europe/portugal/fatima",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 5.4057,
+      "prior_variance": 0.686143,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Kosrae",
-      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 5.4381,
+      "prior_variance": 0.662881,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Pacific Beach",
-      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 4.6927,
+      "prior_variance": 0.644259,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Juan Griego",
-      "path": "southamerica/venezuela/margaritaisland/juangriego",
-      "prior_mu": 22.389,
-      "prior_sigma": 5.5141,
-      "prior_n": 1
+      "title": "Sesimbra",
+      "path": "europe/portugal/sesimbra",
+      "prior_score": 3.4422,
+      "prior_variance": 1.048894,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Kelantan",
-      "path": "asia/malaysia/kelantan",
-      "prior_mu": 22.471,
-      "prior_sigma": 5.9492,
-      "prior_n": 1
+      "title": "Tintagel",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/tintagel",
+      "prior_score": 6.701,
+      "prior_variance": 1.4213,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "R\u00fcgen",
-      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
-      "prior_mu": 21.8683,
-      "prior_sigma": 4.5492,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 5.5967,
+      "prior_variance": 0.807016,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Hastings",
-      "path": "europe/unitedkingdom/england/south_east/hastings",
-      "prior_mu": 21.2419,
-      "prior_sigma": 3.3346,
-      "prior_n": 4
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 7.1257,
+      "prior_variance": 0.993485,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "St. Louis",
-      "path": "northamerica/unitedstates/missouri/stlouis",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 5.1355,
+      "prior_variance": 1.037147,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Greenville",
-      "path": "northamerica/unitedstates/southcarolina/greenville",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 6.0172,
+      "prior_variance": 0.931828,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Baton Rouge",
-      "path": "northamerica/unitedstates/louisiana/batonrouge",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 4.3849,
+      "prior_variance": 1.128319,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Dundalk",
-      "path": "europe/ireland/dundalk",
-      "prior_mu": 22.7111,
-      "prior_sigma": 5.683,
-      "prior_n": 1
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_score": 7.0146,
+      "prior_variance": 1.155411,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Scrivia Valley",
-      "path": "europe/italy/liguria/scriviavalley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 5.3273,
+      "prior_variance": 0.917393,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Toritto",
-      "path": "europe/italy/puglia/toritto",
-      "prior_mu": 22.2757,
-      "prior_sigma": 5.9494,
-      "prior_n": 1
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 6.2522,
+      "prior_variance": 0.683706,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Solihull",
-      "path": "europe/unitedkingdom/england/solihull",
-      "prior_mu": 21.6508,
-      "prior_sigma": 4.4957,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 4.3113,
+      "prior_variance": 0.840712,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Novosibirsk",
-      "path": "europe/russia/novosibirsk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 5.0793,
+      "prior_variance": 1.062567,
+      "prior_n": 2
     }
   ]
 }

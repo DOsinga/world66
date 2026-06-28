@@ -9,6 +9,7 @@ tags:
 title: Viharamahadevi Park
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 6.1
 ---
 
 The largest public park in Colombo, Viharamahadevi Park (formerly Victoria Park) sits in the heart of Cinnamon Gardens, bordered by the National Museum to the south and the Town Hall to the north. It is genuinely pleasant — lawned areas shaded by large old trees, a children's playground, a small open-air theatre, and a large seated Buddha statue that replaced a statue of Queen Victoria after independence.

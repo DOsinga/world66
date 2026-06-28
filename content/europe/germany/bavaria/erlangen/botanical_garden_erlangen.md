@@ -6,6 +6,7 @@ latitude: 49.5992
 longitude: 11.0066
 sources:
   - https://en.wikipedia.org/wiki/Botanical_Garden_Erlangen
+score: 6.3
 ---
 
 The Botanical Garden of the Friedrich-Alexander University occupies about 2 hectares on the north side of the Schlossgarten. It is a working research garden as well as a public park, maintained by the university and free to enter during opening hours.

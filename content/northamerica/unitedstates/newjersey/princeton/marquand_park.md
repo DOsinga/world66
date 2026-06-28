@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 40.34150
 longitude: -74.67114
+score: 6.5
 ---
 
 Marquand Park is the prettiest piece of greenery in central Princeton — a seventeen-acre park whose original landscape plan dates to 1842 and which over the decades has been planted as an unofficial arboretum, with rare and unusual trees from around the world. The property was given to the town in 1957 by the Marquand family on condition that it remain free, open, and undeveloped.

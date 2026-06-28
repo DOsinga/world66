@@ -14,6 +14,7 @@ story: >
   White House.
 sources:
   - https://en.wikipedia.org/wiki/Taos_Plaza
+score: 7.6
 ---
 
 The central plaza of Taos has been the heart of the community since the Spanish colonial period, and it retains its traditional layout — a square surrounded by portales (covered walkways) with shops, galleries, and restaurants beneath. The American flag flies from a pole in the centre around the clock, one of only a handful of places in the country with this distinction.

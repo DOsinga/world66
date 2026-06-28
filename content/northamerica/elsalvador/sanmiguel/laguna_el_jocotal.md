@@ -11,6 +11,7 @@ latitude: 13.3167
 longitude: -88.1167
 sources:
   - https://en.wikipedia.org/wiki/Laguna_El_Jocotal
+score: 7.4
 ---
 
 Laguna El Jocotal is a freshwater lagoon and Ramsar wetland reserve about 35 km south of San Miguel, near the town of El Transito. It is one of the most important bird sanctuaries in El Salvador, sheltering over 130 recorded species including herons, egrets, jacanas, anhingas, and large flocks of migratory waterfowl in the November to February season. The lagoon is surrounded by wetland vegetation and backed by distant views of the Pacific coastal plain.

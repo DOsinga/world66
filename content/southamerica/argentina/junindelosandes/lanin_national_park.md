@@ -9,6 +9,7 @@ latitude: -39.9167
 longitude: -71.0667
 story: >
   The araucaria tree (Araucaria araucana, also called the monkey puzzle) is the dominant tree of the park's upper elevations and one of the strangest-looking organisms in Patagonia. Individual trees can live for over a thousand years; the oldest in Lanín National Park predate the Spanish conquest by centuries. The Mapuche people, who have lived in this landscape for generations, regard the araucaria as sacred and traditionally relied on its seeds (piñones) as a winter food staple. Harvesting rights in the park are still shared with Mapuche communities.
+score: 9.3
 ---
 
 Lanín National Park covers nearly 380,000 hectares of the Andean foothills in Neuquén province, stretching from the Chilean border to the pre-Cordillera. The park is named for Lanín volcano (3,776 metres), a near-perfect snow-capped cone of remarkable beauty that is visible from much of the surrounding landscape. The summit can be climbed with proper equipment and a guide in two to three days.

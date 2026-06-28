@@ -1,14 +1,16 @@
 ---
-title: Palazzo Strozzi
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - palace
-  - architecture
+address: Piazza degli Strozzi, 50123 Florence
 latitude: 43.7714
 longitude: 11.2519
-address: Piazza degli Strozzi, 50123 Florence
+score: 8.0
+tags:
+- things_to_do
+- museum
+- palace
+- architecture
+- santa_maria_novella_quarter
+title: Palazzo Strozzi
+type: poi
 url: www.palazzostrozzi.org
 ---
 

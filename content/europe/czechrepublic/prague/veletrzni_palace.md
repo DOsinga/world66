@@ -4,11 +4,14 @@ admission: 300 CZK
 latitude: 50.1008
 longitude: 14.4291
 opening_hours: Tue–Sun 10:00–18:00
-snippet: Functionalist trade fair palace housing the National Gallery's modern art collection
+score: 8.5
+snippet: Functionalist trade fair palace housing the National Gallery's modern art
+  collection
 tags:
 - things_to_do
 - museum
 - architecture
+- holesovice
 title: Veletržní Palace
 type: poi
 ---

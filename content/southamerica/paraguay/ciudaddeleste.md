@@ -6,7 +6,9 @@ done:
 latitude: -25.516901
 loc_type: city
 longitude: -54.616864
-score: 0.34
+score: 5.95
+snippet: Paraguayan frontier boomtown at the Triple Frontier, driven by border trade
+  and nearby Itaipú Dam
 title: Ciudad del Este
 type: location
 ---

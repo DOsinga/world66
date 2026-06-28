@@ -16,6 +16,7 @@ story: >
   tigers in the region.
 sources:
   - https://en.wikipedia.org/wiki/Kaeng_Krachan_National_Park
+score: 8.8
 ---
 
 Kaeng Krachan is Thailand's largest national park, covering over 2,900 square kilometres of forest on the Myanmar border. From Cha-am the park entrance is about 60 km west — an hour by car or rental motorbike — and the drive through the Phetchaburi countryside is half the pleasure. The park is justifiably famous for birdwatching: over 400 species have been recorded here, including the rare Gurney's pitta, and the forest canopy around Km 36 is one of the most productive birding sites in mainland Southeast Asia.

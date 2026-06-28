@@ -10,6 +10,7 @@ latitude: 40.2967
 longitude: -83.0667
 sources:
   - https://en.wikipedia.org/wiki/Ohio_Wesleyan_University
+score: 7.0
 ---
 
 Ohio Wesleyan University is a private liberal arts college founded in 1842, and its leafy campus occupies the heart of downtown Delaware. The grounds are pleasant to walk even if you have no connection to the institution — a mix of nineteenth-century brick and limestone buildings set among mature trees along Sandusky and University Streets.

@@ -7,6 +7,7 @@ tags:
   - shopping
   - market
   - alfama
+score: 8.4
 ---
 
 Lisbon's principal flea market has been running since at least the 13th century, now settled at Campo de Santa Clara in the Alfama — a sloping square behind the Panteão Nacional. The name translates loosely as "thieves' market," which gives you some idea of what to expect: second-hand clothing, old vinyl, vintage tiles, antique furniture, books in Portuguese, Soviet-era bric-a-brac, and occasional genuine finds.

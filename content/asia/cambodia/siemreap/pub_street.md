@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Pub Street
 type: poi
+score: 6.4
 ---
 
 **Pub Street** (officially Street 8) in the Old Market quarter is Siem Reap's most concentrated nightlife strip — a few hundred metres of bars, restaurants, and clubs that runs parallel to the Siem Reap River. It started as a handful of backpacker bars in the early 2000s and has expanded into something considerably more varied, with everything from cheap beer-bucket places and open-air cocktail bars to craft beer pubs and live-music venues. The strip is busy from around 6pm and goes until well after midnight.

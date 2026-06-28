@@ -6,6 +6,7 @@ longitude: 3.1000
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 A short drive south of Roses, the Aiguamolls de l'Empordà is one of the few remaining coastal wetlands on the western Mediterranean and a major stop on the migration routes between Europe and Africa. The 4,800-hectare park has well-laid-out trails, hides, and a visitor centre at El Cortalet near Castelló d'Empúries.

@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Santa_Cruz_Beach_Boardwalk
   - https://en.wikipedia.org/wiki/Santa_Cruz_Looff_Carousel_and_Roller_Coaster
+score: 8.9
 ---
 
 The Santa Cruz Beach Boardwalk is one of the few remaining traditional seaside amusement parks on the West Coast, and the only one in California. It runs along the main beach just south of the wharf and has been operating in various forms since 1907. The anchor rides are the Giant Dipper, a 1924 wooden roller coaster that is a National Historic Landmark, and the 1911 Looff Carousel — both still working, both still drawing lines.

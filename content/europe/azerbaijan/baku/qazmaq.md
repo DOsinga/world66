@@ -8,6 +8,7 @@ tags:
   - restaurant
   - icherisheher
 neighbourhood: Icherisheher
+score: 6.8
 ---
 
 Qazmaq is one of the better serious Azeri restaurants in the Old City, named after the crisp golden crust at the bottom of a good pot of plov. The cooking is unfussy and accurate — the namesake qazmaq served with rice and lamb is the dish to order, ideally with a glass of the local Madrasa red.

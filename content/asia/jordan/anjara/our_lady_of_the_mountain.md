@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In 2010 a wooden statue of the Virgin Mary inside the church was reported to be weeping tears of blood. A church inquiry investigated and the local Latin Patriarch eventually decided not to confirm the phenomenon as a miracle, but the report drew thousands of pilgrims from across the Middle East. The statue is still on display at the back of the nave."
+score: 7.9
 ---
 
 The Roman Catholic shrine of Our Lady of the Mountain (Sayyidat al-Jabal) is the reason almost everyone stops at Anjara. Built around a cave where, according to tradition, Jesus and his disciples rested on a journey through the region, it was designated by the Vatican in 2000 as one of the five Jubilee pilgrimage sites in the Holy Land. A modern Latin church sits above the cave, and inside is a life-size wooden statue of the Virgin holding the Christ child, dressed in embroidered robes.

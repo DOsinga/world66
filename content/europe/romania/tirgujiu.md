@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Palatul_Finan%C8%9Belor,_a
 latitude: 45.042295
 loc_type: city
 longitude: 23.272812
-score: 0.41
+score: 6.74
+snippet: Small Romanian city in the Jiu Valley, known for Constantin Brâncuși's monumental
+  sculpture ensemble.
 title: Târgu Jiu
 type: location
 ---

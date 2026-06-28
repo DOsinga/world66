@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hunchun_Yanhe_Xijie.jpg
 latitude: 42.866
 loc_type: city
 longitude: 130.366
+score: 5.91
+snippet: Chinese border city where Russia, North Korea, and Korean-Chinese trading
+  cultures meet.
 sources:
 - https://en.wikivoyage.org/wiki/Hunchun
 title: Hunchun

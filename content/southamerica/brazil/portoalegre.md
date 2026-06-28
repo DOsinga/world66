@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_Alegre_por_Cristine_
 latitude: -30.0325
 loc_type: city
 longitude: -51.230377
-score: 0.48
+score: 7.08
+snippet: Southern Brazilian state capital shaped by gaúcho culture, pampas traditions,
+  and European immigration
 title: Porto Alegre
 type: location
 ---

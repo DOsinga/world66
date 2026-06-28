@@ -11,6 +11,7 @@ story: >
   Prohibition, the Depression, and the slow decline of ranching towns across the West. Its
   collection of branding irons, saddles, and cowboy memorabilia was not assembled as decor —
   most of it was brought in by actual ranchers who had been drinking here for generations.
+score: 7.1
 ---
 
 The Mint Bar is Wyoming's most famous saloon and one of the last places in the American West where the cowboy bar is still a working institution rather than a tourist attraction. Ranchers in from the foothills sit next to university professors and out-of-state visitors; the bar makes no distinctions. The saddle bar stools and the extraordinary collection of Western artefacts on the walls set the tone.

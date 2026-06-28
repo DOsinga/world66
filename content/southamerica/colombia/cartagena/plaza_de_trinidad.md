@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Plaza de la Trinidad
 type: poi
+score: 8.3
 ---
 
 Plaza de la Trinidad is the heart of Getsemaní, the neighbourhood outside Cartagena's walled city. On weekday evenings and especially on weekends, the square fills spontaneously with locals — people sitting on the church steps, vendors selling snacks and beer from coolers, children playing football, and the steady sound of vallenato and champeta music from somewhere nearby.

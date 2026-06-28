@@ -12,6 +12,7 @@ story: >
   Cassels, who spent years documenting the species that used the lakes as a staging ground
   on their north-south migrations. Cassels was a self-taught ornithologist at a time when
   women rarely worked in natural sciences, and her records remain scientifically valuable today.
+score: 7.7
 ---
 
 Two small lakes tucked within Waskasoo Park, the Gaetz Lakes Sanctuary is one of Red Deer's quietest and most rewarding spots. The shallow, reed-fringed lakes attract an impressive variety of waterfowl and shorebirds, particularly during spring and fall migration when species from across the continent pass through. Great blue herons, white pelicans, and a range of ducks and grebes are reliably present through the warmer months.

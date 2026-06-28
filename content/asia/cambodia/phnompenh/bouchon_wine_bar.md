@@ -11,6 +11,7 @@ title: Bouchon Wine Bar
 type: poi
 neighbourhood: BKK1
 snippet: French bistro and wine bar with a small terrace on Street 246
+score: 7.3
 ---
 
 A small French wine bar and bistro tucked into a quiet street in BKK1, run by an attentive Lyon-born chef. The menu is short and changes regularly — pâté, marrow bones, steak tartare, a fish of the day — and the by-the-glass wine list is the most interesting in the city.

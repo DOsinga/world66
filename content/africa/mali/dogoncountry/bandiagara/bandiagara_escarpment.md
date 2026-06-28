@@ -14,6 +14,7 @@ story: >
   Tellem could fly; archaeologists suggest rope techniques or temporary wooden scaffolding.
   The Tellem burial goods, where they have been excavated, include fabrics, wood carvings,
   and iron objects of remarkable artisanal quality.
+score: 9.0
 ---
 
 The Bandiagara Escarpment is a 200-kilometre wall of Precambrian sandstone rising up to 500 metres from the plains of central Mali. Along its base and tucked into the cliffs above are scores of Dogon villages — some inhabited, some abandoned — along with the mud-brick granaries and cliff-face burial chambers of the Tellem people who lived here before the Dogon arrived. UNESCO inscribed the "Cliff of Bandiagara" as a World Heritage Site in 1989.

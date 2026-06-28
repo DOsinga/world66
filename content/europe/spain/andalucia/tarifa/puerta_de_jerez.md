@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Puerta de Jerez
 type: poi
+score: 6.7
 ---
 
 The northern gate of Tarifa is the only one of the original Moorish entries to survive — a thick horseshoe arch in tawny sandstone, set in a stretch of wall almost a thousand years old. The royal coat of arms above the gate dates from the reign of the Catholic Monarchs in the late fifteenth century, when the conquest of the town was formally celebrated by re-cutting the lintel.

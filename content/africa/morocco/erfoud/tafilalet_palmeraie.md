@@ -7,6 +7,7 @@ snippet: One of the largest palm groves in Morocco, stretching south of town
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 The Tafilalet palmery is one of the largest in Morocco, a vast green band of date palms running south from Erfoud to Rissani and beyond. Within the trees lies a network of mudbrick ksour — fortified villages — along with smaller kasbahs, irrigation channels (khettara), and orchards of pomegranates and almonds beneath the palms. The palmery has supported settlement here since at least the eighth century.

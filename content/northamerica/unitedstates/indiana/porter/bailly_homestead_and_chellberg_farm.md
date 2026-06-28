@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 41.6394
 longitude: -87.1019
+score: 7.6
 ---
 
 Two historic sites preserved within the national park, connected by the easy 2.5-mile Bailly-Chellberg Trail. Joseph Bailly, a French-Canadian fur trader, established the first recorded non-Native settlement in the area in 1822. His homestead — a collection of brick and log structures — gives you a sense of the trading post life that preceded the industrial era on Lake Michigan's shore. His family's cemetery is here too, quietly atmospheric beneath old oaks.

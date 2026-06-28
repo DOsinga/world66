@@ -6,6 +6,7 @@ latitude: 32.7600
 longitude: -17.0500
 story: >
   The laurisilva of Madeira is a relic of a forest type that once covered much of southern Europe and north Africa during the Tertiary period, before the climate cooled. Only fragments survive — in Madeira, the Azores, and the Canary Islands — and Madeira's is the largest and most intact. UNESCO declared it a World Heritage Site in 1999.
+score: 9.3
 ---
 
 The laurisilva is the ancient laurel-forest ecosystem that once covered most of Madeira's northern slopes. What remains today, protected by UNESCO World Heritage status, is the most intact example of this prehistoric forest type in the world. The trees are slow-growing evergreens — laurel, til, vinhático, barbusano — draped in mosses and lichens, with a permanently damp, atmospheric undergrowth.

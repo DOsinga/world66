@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:R%C3%ADo_Chimehu%C3%ADn_en
 latitude: -39.950866
 loc_type: city
 longitude: -71.070888
-score: 0.49
+score: 7.27
+snippet: Patagonian river town at the Andes foot, prized for trout fishing on the
+  Chimehuin
 title: Junín de los Andes
 type: location
 ---

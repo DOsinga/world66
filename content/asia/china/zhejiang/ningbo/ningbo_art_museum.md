@@ -8,6 +8,7 @@ latitude: 29.8900
 longitude: 121.5650
 story: >
   The Ningbo Art Museum building was converted from an old passenger ferry terminal by Wang Shu, the same architect who designed the History Museum in Yinzhou. The conversion retains the terminal's industrial bones — exposed concrete, large volumes — while transforming it into gallery spaces. The juxtaposition of the ferry terminal's function (connecting Ningbo to its maritime world) with art celebrating that same world makes the building itself part of the exhibition.
+score: 6.9
 ---
 
 The Ningbo Art Museum occupies a converted 1980s passenger ferry terminal on the Jiangbei riverfront, redesigned by architect Wang Shu into a contemporary gallery that retains the building's structural bones. The museum runs a programme of temporary exhibitions focused on contemporary Chinese art, with a particular emphasis on artists from Zhejiang and the broader Yangtze Delta region. The permanent collection includes works from the major periods of twentieth-century Chinese painting and a small but good holding of Ming and Qing dynasty literati painting.

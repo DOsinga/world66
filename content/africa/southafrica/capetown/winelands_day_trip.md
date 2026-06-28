@@ -7,10 +7,10 @@ scores:
   sightseeing: 0.6196
 snippet: Day trip to the Cape Winelands east of the city
 tags:
-- things_to_do
 - day_trips
 title: Winelands (Stellenbosch & Franschhoek)
 type: poi
+score: 8.4
 ---
 
 The Cape Winelands east of Cape Town are the country's most established wine-producing region, with Stellenbosch (50 km from the city) and Franschhoek (75 km) as the two main centres. Both towns are full of historic Cape Dutch architecture and good restaurants, and the dozens of wine estates around them are open for tastings and meals.

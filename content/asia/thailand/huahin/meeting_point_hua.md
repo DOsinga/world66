@@ -1,5 +1,8 @@
 ---
 email: info@huahin-meeting-point.com
+latitude: 12.5685
+longitude: 99.9587
+score: 3.8
 tags:
 - eating_out
 - restaurant

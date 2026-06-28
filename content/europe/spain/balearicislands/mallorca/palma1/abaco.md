@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 39.5689
 longitude: 2.6514
+score: 6.4
 ---
 
 Bar Abacо occupies a seventeenth-century mansion in the La Calatrava quarter and is probably the most theatrical bar in Palma. The interior is filled with an extraordinary accumulation of fruit, flowers, and decorative objects — enormous arrangements of pomegranates, lemons, and tropical flowers piled on every surface, gilded furniture, candelabras, and birdcages. It operates primarily as a cocktail bar and the drinks are expensive; you are paying partly for the setting and the spectacle.

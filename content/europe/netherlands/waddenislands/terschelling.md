@@ -9,6 +9,8 @@ latitude: 53.394717
 loc_type: region
 longitude: 5.28768
 score: 0.55
+snippet: Dutch Wadden island of dunes, salt marshes, cycling paths, and the Brandaris
+  lighthouse.
 title: Terschelling
 type: location
 ---

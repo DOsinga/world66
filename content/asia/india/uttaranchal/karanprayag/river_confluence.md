@@ -12,6 +12,7 @@ story: >
   are Vishnuprayag, Nandaprayag, Karanprayag, Rudraprayag, and Devprayag. Pilgrims completing the
   Char Dham yatra traditionally bathe at each one, making Karanprayag a stop on one of Hinduism's
   most important pilgrimage circuits.
+score: 8.0
 ---
 
 The confluence of the Pindar and Alaknanda rivers is the defining feature of Karanprayag — and a genuinely beautiful one. The Pindar descends from the Pindari Glacier with a pale grey-blue colouration from glacial silt, while the Alaknanda runs darker, creating a visible two-tone line where the waters meet before mingling. In the early morning, when mist sits in the valley and the ghats are busy with pilgrims, it is an atmospheric place.

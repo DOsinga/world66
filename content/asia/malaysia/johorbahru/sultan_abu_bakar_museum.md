@@ -7,6 +7,7 @@ tags:
 - museum
 title: Sultan Abu Bakar Royal Museum
 type: poi
+score: 8.0
 ---
 
 The Istana Besar (Grand Palace) was built in 1866 for Sultan Abu Bakar and served as the official royal residence for over a century. The setting is striking: a large Victorian-Moorish building surrounded by formal gardens on a hill above the Strait of Johor, with Singapore visible across the water. The interior is equally impressive — throne rooms, banquet halls, and display cases filled with the accumulated treasures of the Johor Sultanate: royal regalia, antique weaponry, Chinese porcelain, gifts from foreign dignitaries, and the first postal stamp ever issued in Johor. The palace was opened to the public in 1994 after the royal family relocated to a newer palace.

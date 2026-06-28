@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A compact stretch of late-19th and early-20th century commercial buildings in downtown Ames.
+score: 7.4
 ---
 
 Downtown Ames is concentrated on a few blocks of Main Street between Duff and Clark avenues, listed on the National Register of Historic Places as the Ames Main Street Historic District. The buildings date mostly from the 1880s to the 1920s and form a coherent streetscape of two- and three-storey brick commercial blocks, with the kind of detailing — cornices, recessed entries, decorative parapets — that has been stripped away in many other prairie-town main streets.

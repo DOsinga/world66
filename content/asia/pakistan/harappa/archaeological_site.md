@@ -8,6 +8,7 @@ tags:
   - sight
   - archaeological_site
 story: "When excavators broke open the mounds in the 1920s they found a fully planned grid city — straight streets, brick houses with private bathrooms, and a covered drainage system more sophisticated than anything in the contemporary Mediterranean. The discovery rewrote the history of South Asia at a stroke."
+score: 9.6
 ---
 
 The ruins cover several square kilometres of low brick mounds in the Punjab plain, the remains of a city that flourished from roughly 2,600 to 1,900 BC and which gave its name to the entire Indus Valley Civilization. The standard route takes you across the raised western mound, the so-called citadel, and then down into the lower city where the residential quarters and workshops once stood. Walls of standardised baked brick still rise to head height in places, and you can trace the lines of the streets and drains that gave Harappa its reputation as one of the earliest planned cities anywhere.

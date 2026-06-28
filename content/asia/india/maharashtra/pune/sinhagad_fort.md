@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In 1670 Tanaji Malusare, Shivaji's boyhood friend and general, scaled the sheer rock face at night using a domesticated monitor lizard called Yashwanti as a grappling hook. He recaptured the fort but was killed in the assault. Shivaji is said to have responded: 'Gad ala pan sinha gela' -- 'we got the fort but lost the lion' -- which gave the fort its name."
+score: 8.3
 ---
 
 A hilltop fort 25 kilometres southwest of Pune, perched on a cliff at 1,300 metres above sea level. The walls and gates are ruined but the position is spectacular: a long curving ridge with sheer drops on three sides and views that reach the next range of the Ghats on a clear day.

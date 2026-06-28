@@ -11,6 +11,7 @@ story: >
   finally surrendering in 1403. The last prince of the Jalayirid dynasty was captured here and executed,
   ending a dynasty. The fortress earned its reputation as impregnable, and Azerbaijanis still use
   Alinja as a byword for unconquerable resistance.
+score: 8.8
 ---
 
 The medieval fortress of Alinjagala crowns a steep rocky mountain on the right bank of the Alinjaçay river in Julfa district, about 12 kilometres north of the town. At over 1800 metres above sea level, the castle commands a sweeping view across the Araz valley into Iran. Defensive walls, towers, and the remnants of cisterns, storage chambers, and a royal residence still stand in reasonable condition given the site's age.

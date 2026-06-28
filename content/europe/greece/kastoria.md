@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Hour_in_Kastoria_Gr
 latitude: 40.5193
 loc_type: city
 longitude: 21.2663
+score: 7.93
+snippet: Northern Greek lake city on a narrow peninsula, rich in Byzantine churches
+  and fur-trade mansions.
 sources:
 - https://en.wikipedia.org/wiki/Kastoria
 title: Kastoria

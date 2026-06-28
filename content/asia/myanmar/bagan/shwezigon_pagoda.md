@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Shwezigon Pagoda
 type: poi
+score: 9.0
 ---
 
 The Shwezigon is the prototype for the classic Burmese stupa and the model for most of the pagodas built after it. Its solid gold bell-shaped dome is covered in gold leaf applied by devoted pilgrims. Begun by Anawrahta and completed by Kyansittha around 1102, it remains one of the holiest Buddhist sites in Myanmar.

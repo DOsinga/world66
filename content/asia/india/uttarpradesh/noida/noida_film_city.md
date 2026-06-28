@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Almost every major Hindi-language television news channel — Aaj Tak, NDTV, India Today, Zee News — broadcasts from studios within a few hundred metres of each other in Film City. The neighbourhood is sometimes called the 'media gulag' by journalists for its concentration of newsroom power."
+score: 6.1
 ---
 
 Noida Film City, in Sector 16A, is the principal hub of the Hindi-language television industry. It is not a film city in the Bollywood sense — there are no studios open to the public — but the area is densely packed with television studios, news channels, post-production houses and the offices of media production companies. Anyone who watches Indian TV will recognise the buildings from a thousand news backdrops.

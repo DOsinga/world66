@@ -3,6 +3,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.3927
 longitude: 2.154
+score: 5.8
 snippet: Grand boulevard cutting diagonally across Barcelona’s grid
 tags:
 - things_to_do

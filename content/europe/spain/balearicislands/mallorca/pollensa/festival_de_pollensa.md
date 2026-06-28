@@ -8,6 +8,7 @@ tags:
   - sight
   - music
 story: "The first edition of the Festival de Pollença in 1962 was conducted by Eugene Ormandy and the Philadelphia Orchestra, who happened to be on tour in Spain. Yehudi Menuhin, Mstislav Rostropovich and Jordi Savall have all played editions since."
+score: 7.2
 ---
 
 Pollença's summer classical music festival, founded in 1962, draws serious orchestras and soloists to perform in the cloister of Sant Domingo — an open-air venue with extraordinary acoustics. Concerts run through July and August.

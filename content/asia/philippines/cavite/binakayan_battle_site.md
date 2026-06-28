@@ -12,6 +12,7 @@ story: >
   Magdalo factions of the Katipunan held off a superior Spanish force and caused
   heavy casualties — a significant blow to Spanish morale at the outset of the
   revolution. Emilio Aguinaldo's rising prominence dates from this engagement.
+score: 5.9
 ---
 
 Binakayan in Kawit municipality is where Filipino revolutionary forces won one of their most important early victories against the Spanish in 1896. The site is close to the Aguinaldo Shrine, and visiting both together gives a coherent picture of the revolution's opening phase in Cavite, which became its stronghold and primary base of operations.

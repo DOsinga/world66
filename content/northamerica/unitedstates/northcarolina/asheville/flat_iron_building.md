@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The Flat Iron Building is a nine-storey wedge at the corner of Battery Park Avenue and Wall Street, built in 1926 to fit a triangular lot. It is a cousin of New York's better-known Flatiron, with the same exaggerated narrow prow and a similar steel-frame construction clad in brick.

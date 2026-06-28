@@ -8,6 +8,7 @@ tags:
 title: St Martin's Churchyard
 type: poi
 snippet: "Dylan Thomas's grave in a hillside churchyard"
+score: 7.5
 ---
 
 Dylan Thomas is buried in the churchyard of St Martin's, marked by a simple white wooden cross. His wife Caitlin lies beside him. The grave is a pilgrimage stop for readers from around the world, and the setting — a hillside churchyard above the estuary — is quietly beautiful.

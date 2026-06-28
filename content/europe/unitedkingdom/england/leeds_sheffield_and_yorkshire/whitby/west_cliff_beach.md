@@ -5,6 +5,7 @@ snippet: Wide sandy beach beneath the West Cliff — colourful beach huts, donke
 tags: [things_to_do, beach]
 latitude: 54.4910
 longitude: -0.6230
+score: 6.4
 ---
 
 The long sandy beach below the West Cliff is the town's main bathing beach: bright beach huts in pastel colours along the seawall, donkey rides in summer, and a paddling pool at the south end. The cliffs above are dotted with Edwardian hotels and the Royal Crescent terrace, all built when Whitby reinvented itself as a seaside resort in the 19th century.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.9983
 longitude: -7.3108
+score: 6.6
 ---
 
 Ebrington Square is on the east bank of the Foyle, accessible via the Peace Bridge. The former Ebrington Barracks — a British Army base that was handed over by the military in 2003 — has been redeveloped as a public space with a large open square, a hotel, restaurants, and a permanent concert and events venue.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Laguna_Mission_and_Village
 latitude: 35.0404
 loc_type: city
 longitude: -107.4266
-score: 0.38
+score: 6.03
+snippet: New Mexico pueblo hill settlement dominated by the 1699 San José de la Laguna
+  Mission
 title: Laguna
 type: location
 ---

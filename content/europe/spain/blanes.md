@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Blanes,_Spain_Overview.jpg
 latitude: 41.675618
 loc_type: city
 longitude: 2.793239
-score: 0.55
+score: 7.68
+snippet: Working fishing town at the southern gateway to the Costa Brava's rocky,
+  pine-backed coast.
+sources:
+- https://en.wikipedia.org/wiki/Marimurtra_Botanical_Garden
 title: Blanes
 type: location
-sources:
-  - https://en.wikipedia.org/wiki/Marimurtra_Botanical_Garden
 ---
 
 Blanes marks the southern gateway to the Costa Brava, where the rocky coastline and pine-backed coves begin in earnest. It is a working fishing town first and a resort second, which gives it a rougher, more authentic feel than the manicured spots further north.

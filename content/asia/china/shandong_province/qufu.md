@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kong_Family_Mansion_49265-
 latitude: 35.5965
 loc_type: city
 longitude: 116.982
+score: 8.07
+snippet: Shandong hometown of Confucius, centred on the Temple, Kong Family Mansion,
+  and cemetery.
 sources:
 - https://en.wikivoyage.org/wiki/Qufu
 title: Qufu

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.2698
 longitude: 10.5973
+score: 7.0
 ---
 
 The village of Bibbona perches on a limestone ridge above the coastal plain, compact and largely unchanged from its medieval form. The main street runs through a small gate past the parish church of Sant'Ilario and the remnants of the old castle walls, with views opening westward over the pine forests and the sea. In July and August the village fills with tourists staying at the beach below; outside those months you may have it to yourself.

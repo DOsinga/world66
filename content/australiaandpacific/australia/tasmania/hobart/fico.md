@@ -11,6 +11,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Chef-owned modern Italian in a converted heritage shopfront — handmade pasta, wood-fired protein, a tight Italian wine list"
+score: 7.4
 ---
 
 A neighbourhood-Italian-of-the-future kind of place: small, plain, beautifully run, in a converted heritage shopfront on Murray Street. Chef-owners Federica Andrisani and Oskar Rossi cook short, seasonal menus of handmade pasta (pappardelle with wallaby ragù; chitarra with sea urchin), wood-fired secondi, and unfussy vegetable courses. Almost everything is made in-house.

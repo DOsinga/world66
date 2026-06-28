@@ -8,6 +8,7 @@ tags:
   - sight
 neighbourhood: Bremerton
 story: "On 4 August 1964 the Turner Joy and the Maddox reported being attacked by North Vietnamese torpedo boats in the Gulf of Tonkin. The reported attack triggered the Gulf of Tonkin Resolution and the full US escalation in Vietnam — and was almost certainly the result of misread radar and sonar. The ship that helped start the war is now moored two hundred yards from the Bremerton ferry dock."
+score: 7.8
 ---
 
 A Forrest Sherman-class destroyer commissioned in 1959 and decommissioned in 1982, the Turner Joy is now a museum ship tied up at the Bremerton boardwalk, immediately next to the Washington State Ferry terminal. Self-guided tours take you through the bridge, engine room, gun mounts, mess and crew quarters; signs are good, ladders are steep, and the whole tour takes about an hour.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.9261
 longitude: 19.2056
+score: 6.0
 ---
 
 One of the best-regarded fish restaurants in Ulcinj, Bazar specialises in the fresh catch from the Bojana River delta and the open sea. Grey mullet, sea bass, and bream are typically on the menu, prepared simply and served with local vegetables. The terrace overlooks the town square and is a good place to sit for an unhurried lunch.

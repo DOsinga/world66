@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 7.6667
 longitude: 36.8400
+score: 6.8
 ---
 
 Biqilti Jimma Cafe is one of the city's better-known coffee houses, recommended for visitors who want to experience the Ethiopian coffee ceremony done properly rather than perfunctorily. The ceremony here — roasting the green beans, grinding them by hand, brewing in the clay jebena, and serving in three rounds — unfolds at its own pace and is not rushed for the benefit of anyone in a hurry.

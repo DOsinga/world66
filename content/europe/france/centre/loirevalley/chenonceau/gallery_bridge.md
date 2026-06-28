@@ -6,6 +6,7 @@ latitude: 47.3247
 longitude: 1.0704
 story: >
   When Catherine de' Medici added the two-story gallery to Diane de Poitiers' bridge in the 1570s, she was making a political statement as much as an architectural one: by building something grander than what her rival had created, she was asserting ownership and erasing Diane's mark. The irony is that the gallery — Catherine's addition — is what makes Chenonceau famous. Without it, the château would be handsome but not extraordinary.
+score: 9.1
 ---
 
 The gallery spanning the River Cher is Chenonceau's defining feature and most photographed image. Added by Catherine de' Medici in the 1570s above the bridge that Diane de Poitiers had built across the Cher, it stretches 60 meters from bank to bank with large windows on both sides looking out over the water and the surrounding countryside.

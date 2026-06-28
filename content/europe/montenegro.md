@@ -15,7 +15,8 @@ quick_facts:
   Currency: Euro (non-EU)
   Tara River Canyon: "1,300 m deep — Europe's deepest"
   Coastline: "294 km with 117 beaches"
-score: 0.7
+score: 0.68
+snippet: Compact Adriatic country where walled bays, glacial mountains, and deep river canyons sit close together.
 loc_type: country
 ---
 

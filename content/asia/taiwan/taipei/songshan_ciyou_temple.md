@@ -1,11 +1,13 @@
 ---
 address: 761 Bade Road Sec 4, Songshan District, Taipei
-latitude: 25.0510
+latitude: 25.051
 longitude: 121.5775
+score: 8.0
 snippet: Colourful, six-storey Mazu temple at the entrance to Raohe Night Market
 tags:
 - things_to_do
 - sight
+- songshan
 title: Songshan Ciyou Temple
 type: poi
 ---

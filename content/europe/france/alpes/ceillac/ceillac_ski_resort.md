@@ -7,6 +7,7 @@ tags:
 latitude: 44.685
 longitude: 6.782
 snippet: Small, unhurried ski area above the village with good cross-country trails
+score: 7.4
 ---
 
 Ceillac's ski area sits above the village at around 2,100–2,450 metres and deliberately remains small. There are around a dozen pistes ranging from gentle nursery slopes to a few satisfying red runs, served by simple drag lifts and a couple of chairlifts. The key virtue is the absence of the queues and crowds that plague more famous resorts.

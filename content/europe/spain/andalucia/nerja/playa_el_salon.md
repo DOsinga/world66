@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Playa El Salón
 type: poi
+score: 6.8
 ---
 
 A small cove of grey-gold sand on the western side of the Balcón de Europa, reached by a passage through the houses behind the Hotel Balcón de Europa. The beach is enclosed by rock outcrops and the water is calm and clear — popular with families with young children.

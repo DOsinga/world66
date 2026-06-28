@@ -15,6 +15,7 @@ story: >
   years. A major restoration completed in 2010 brought it back as a boutique
   hotel — the kind of second life that most cities of Bakersfield's size never
   manage to pull off for their historic buildings.
+score: 7.4
 ---
 
 The Padre Hotel is the most architecturally significant building in downtown Bakersfield. Built in 1928 in Spanish Colonial Revival style, the ten-storey structure dominated the Chester Avenue skyline for decades and was considered one of the finest hotels in the Central Valley during the oil boom years. After a long decline and period of vacancy, it was comprehensively restored and reopened in 2010 as a boutique hotel with a rooftop bar and restaurant.

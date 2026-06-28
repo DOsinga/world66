@@ -1,9 +1,12 @@
 ---
 latitude: 34.6912
 longitude: 135.4915
+score: 7.0
+snippet: Hands-on family science museum and planetarium on Nakanoshima
 tags:
 - things_to_do
 - museum
+- nakanoshima
 title: Osaka Science Museum
 type: poi
 ---

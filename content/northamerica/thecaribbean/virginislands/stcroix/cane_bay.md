@@ -14,6 +14,7 @@ story: >
   can reach the top of the wall from the shore in a short swim, making
   it accessible without a boat, which is unusual for wall diving of this
   quality anywhere in the world.
+score: 8.3
 ---
 
 Cane Bay is a long stretch of beach on St. Croix's north coast, and it is primarily known as the best shore diving on the island. The Cane Bay Wall begins just offshore — you swim out a few hundred yards through calm, clear water, and then the reef drops away abruptly into the deep Atlantic. The wall is covered with black coral, sea fans, and barrel sponges; turtles, eagle rays, and the occasional shark patrol the blue water off the edge. This is serious Caribbean diving, accessible with nothing more than your own fins.

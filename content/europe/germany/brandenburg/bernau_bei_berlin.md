@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bernau_Amtsgericht.jpg
 latitude: 52.678725
 loc_type: city
 longitude: 13.588111
-score: 0.37
+score: 6.38
+snippet: Historic Brandenburg town north of Berlin, with medieval gates and a landmark
+  Bauhaus trade union school
 title: Bernau bei Berlin
 type: location
 ---

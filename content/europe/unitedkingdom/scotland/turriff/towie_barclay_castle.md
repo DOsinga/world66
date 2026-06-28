@@ -8,6 +8,7 @@ tags:
 - sight
 title: Towie Barclay Castle
 type: poi
+score: 7.3
 ---
 
 Towie Barclay is a 1593 fortified tower house, three miles south of Turriff on the back road to Auchterless. The exterior is a classic late-medieval Scottish tower — five storeys of pink granite with corbelled corner turrets and gun-loops — but the interior is unusual: the first-floor great hall is covered by a single high vaulted plaster ceiling, ribbed and decorated with bosses, one of the most ambitious vaulted halls in any Scottish tower house. The castle is privately owned and lived in, but the gardens and exterior can be visited by appointment for groups.

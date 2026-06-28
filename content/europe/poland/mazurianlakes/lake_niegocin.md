@@ -8,6 +8,7 @@ latitude: 53.9833
 longitude: 21.7847
 sources:
   - https://en.wikipedia.org/wiki/Lake_Niegocin
+score: 6.4
 ---
 
 Lake Niegocin is one of the larger lakes in the Great Mazurian Lakes chain, connected to the system via Giżycko and the Luczańska Canal. The lake is about 26 square kilometres with a maximum depth of 30 metres — deep enough for good sailing even in light wind. The shores include the Giżycko beach on the northern edge and various smaller bathing spots accessible by boat.

@@ -6,6 +6,7 @@ longitude: 78.0300
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 Founded in 1935 and modelled on the English public school, Doon has educated more Indian prime ministers, journalists, and senior civil servants per square foot than perhaps any other school in Asia. Rajiv Gandhi, Vikram Seth, Karan Thapar, and Amitav Ghosh are all Old Boys.

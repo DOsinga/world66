@@ -7,6 +7,7 @@ tags:
 - sight
 title: Town Hall Tower
 type: poi
+score: 8.0
 ---
 
 The Renaissance town hall in the middle of Horní náměstí dates from the 15th century, with its current form set in the 1530s. Set into its north wall is the famous Astronomical Clock, repainted by communist-era socialist realists. The 75-metre tower is open to visitors — about 200 steps to the top.

@@ -7,6 +7,7 @@ tags:
 - performance
 title: Forest Theater
 type: poi
+score: 7.3
 ---
 
 Built in 1910 by the Carmel Arts and Crafts Club, the Forest Theater is one of the oldest outdoor theaters in the western United States. The stone seating tiers are set into a natural hollow in a Monterey pine grove near the center of the village, and performances happen under the open sky — which means fog, cold nights, and the sound of wind in the pines are all part of the experience. The Pacific Repertory Theatre uses the space for summer productions, primarily Shakespeare and other classics.

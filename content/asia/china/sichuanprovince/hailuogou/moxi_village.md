@@ -17,6 +17,7 @@ story: >
   continuously. They have practiced a form of Christianity that coexists with
   local Tibetan customs in ways that no ecclesiastical authority ever entirely
   approved of.
+score: 6.5
 ---
 
 Moxi is the gateway town for Hailuogou, a small village at around 1,800 metres that sits noticeably below the plateau altitude and enjoys a milder climate than the surrounding high country. The town itself is modest — some guesthouses, restaurants, and the usual souvenir trade — but it contains one genuinely unexpected sight: a Tibetan Catholic church dating from the late nineteenth century, built by French missionaries and still in active use.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:HahndorfSA.JPG
 latitude: -35.0286
 loc_type: city
 longitude: 138.8095
-score: 0.53
+score: 7.71
+snippet: Adelaide Hills town and Australia's oldest surviving German settlement, lined
+  with heritage pubs and bakeries.
 title: Hahndorf
 type: location
 ---

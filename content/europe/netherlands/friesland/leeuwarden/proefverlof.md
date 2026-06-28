@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.1992
 longitude: 5.7973
+score: 5.8
 ---
 
 The café-restaurant inside the [Blokhuispoort](/europe/netherlands/friesland/leeuwarden/blokhuispoort) former prison. The name puns on the Dutch word for "parole" — proefverlof — and the bare brick, high ceilings, and prison-block atmosphere give it more character than any other casual eatery in Leeuwarden.

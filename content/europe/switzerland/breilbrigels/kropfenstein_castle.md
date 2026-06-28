@@ -8,6 +8,7 @@ latitude: 46.7699
 longitude: 9.1013
 sources:
   - https://en.wikipedia.org/wiki/Kropfenstein_Castle
+score: 8.0
 ---
 
 Kropfenstein is a cave castle — a medieval fortification built inside a natural rock overhang on the cliff face above the Rhine gorge, in the neighbouring municipality of Waltensburg/Vuorz. It is one of the more unusual medieval sites in Graubünden, and the walk to reach it from Breil/Brigels passes through excellent mountain scenery.

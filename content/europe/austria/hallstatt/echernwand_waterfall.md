@@ -6,6 +6,7 @@ longitude: 13.6453
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Waldbachstrub is a 90-metre waterfall in the Echerntal, the steep glacial valley running south from the village towards the Dachstein. The flat valley-floor path leads in about an hour from the south end of the village, past several smaller cascades and through deep beech and spruce forest. The Echerntal is a Geopark with information boards explaining the glacial geology — the U-shaped profile is textbook, and the boulders strewn down the valley were dropped here as the last glacier retreated.

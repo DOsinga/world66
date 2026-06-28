@@ -6,6 +6,7 @@ latitude: 38.9681
 longitude: -89.1019
 story: >
   The house was built around 1820 for Eunice Farmer, one of Vandalia's earliest settlers, and has been a museum since 1940. It gives a rare ground-level view of middle-class life in a frontier state capital — not the grand politicians' houses but the everyday domestic world of the town that supported them.
+score: 7.0
 ---
 
 The Little Brick House is one of the oldest surviving buildings in Illinois, a small Federal-style house that has been preserved and operated as a museum by the Vandalia Historical Society. Built in the early 1820s during Vandalia's years as state capital, the house is furnished in the period style with items appropriate to an early Illinois household.

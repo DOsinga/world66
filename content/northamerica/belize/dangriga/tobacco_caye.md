@@ -7,6 +7,7 @@ tags:
   - sight
 title: Tobacco Caye
 type: poi
+score: 8.6
 ---
 
 Tobacco Caye is a tiny island — about 200 metres by 100 metres — sitting directly on the Belize Barrier Reef, 26 km from Dangriga. A few guesthouses occupy the entire island, there is no road, no airport, and the reef begins just a few fins-kicks from the beach. Snorkelling is immediate and excellent, with coral formations and reef fish visible without a boat.

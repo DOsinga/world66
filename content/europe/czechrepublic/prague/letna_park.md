@@ -1,12 +1,13 @@
 ---
 latitude: 50.0987
 longitude: 14.4196
+score: 7.9
 snippet: Clifftop park with panoramic views and the best beer garden in Prague
 tags:
 - things_to_do
 - sight
 - park
-- holešovice
+- holesovice
 title: Letná Park
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 23.4499
 longitude: 92.7577
+score: 7.0
 ---
 
 Hmuifang is a high forested hill south of Aizawl, usually visited as a day trip for its cool air, short walks, and views over the surrounding ridges. The road out is part of the pleasure, passing villages and slopes where the landscape feels much more rural than the capital.

@@ -7,6 +7,7 @@ tags:
 latitude: 6.3800
 longitude: 5.6500
 snippet: City zoo founded in 1915 with local wildlife, set in forested parkland
+score: 5.2
 ---
 
 The Ogba Zoo, established in 1915, sits about 6 kilometres from the city center in a patch of secondary forest near the Ogba River. The zoo holds a collection of Nigerian wildlife — chimpanzees, baboons, crocodiles, pythons, West African sitatungas, and various birds — in enclosures that range from adequate to cramped. It is a modest facility by international standards, but the surrounding forest is genuinely pleasant for a walk.

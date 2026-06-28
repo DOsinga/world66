@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 neighbourhood: Gonzaga
+score: 5.9
 ---
 
 A long-running seafood restaurant on the beachfront in Gonzaga, Peixaria da Praia does the classic local dishes — moqueca, grilled robalo, fried squid — at fair prices for the location. The dining room is unfussy, and the terrace looking out over the beach fills up early on weekends.

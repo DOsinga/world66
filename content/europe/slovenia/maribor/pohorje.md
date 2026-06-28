@@ -7,6 +7,7 @@ tags:
 latitude: 46.5150
 longitude: 15.6200
 snippet: "Forested plateau rising south of the city with skiing, hiking, and mountain biking"
+score: 8.4
 ---
 
 The Pohorje plateau begins almost at the edge of Maribor and offers the city's best outdoor recreation. In winter it is a ski area of reasonable size — not comparable to the big Alpine resorts, but perfectly good, and unusual in having a ski lift (the Pohorje cable car) that starts within the city boundaries. Several runs are suitable for beginners and intermediates, and the facilities are solid. The FIS World Cup slalom at Maribor, held each January, consistently draws huge crowds to the so-called Golden Fox race.

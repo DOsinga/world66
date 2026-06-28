@@ -8,6 +8,7 @@ tags:
   - religious
 latitude: 6.0140
 longitude: 80.2569
+score: 6.5
 ---
 
 The Japanese Peace Pagoda on Rumassala Hill, above Unawatuna Bay, was built in 2005 by the Nipponzan-Myōhōji Buddhist order — one of more than eighty such peace pagodas they have built around the world. A spotless white dome with gilded Buddhas in niches on each side, it is best reached on foot from Jungle Beach or by a longer winding path up from Unawatuna.

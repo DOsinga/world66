@@ -1,200 +1,200 @@
 {
   "round": 993,
-  "timestamp": "2026-04-12T22:03:42",
+  "timestamp": "2026-06-13T20:04:56",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Komodo",
-      "path": "asia/indonesia/komodo",
-      "prior_rank": 901,
-      "prior_wins": 39,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 13.0737,
+      "prior_variance": 1.005143,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Lake Nakuru National Park",
-      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
-      "prior_rank": 831,
-      "prior_wins": 20,
-      "prior_n": 1
+      "title": "Foz do Igua\u00e7u",
+      "path": "southamerica/brazil/fozdoiguacu",
+      "prior_score": 12.8609,
+      "prior_variance": 0.86467,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Baku",
-      "path": "europe/azerbaijan/baku",
-      "prior_rank": 135,
-      "prior_wins": 66,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 13.8507,
+      "prior_variance": 0.612387,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Grenada",
-      "path": "northamerica/grenada",
-      "prior_rank": 203,
-      "prior_wins": 22,
-      "prior_n": 1
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 12.336,
+      "prior_variance": 0.650657,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "White Mountains",
-      "path": "northamerica/unitedstates/newhampshire/whitemountains",
-      "prior_rank": 839,
-      "prior_wins": 20,
-      "prior_n": 1
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 10.3393,
+      "prior_variance": 1.025425,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Nantucket",
-      "path": "northamerica/unitedstates/massachusetts/nantucket",
-      "prior_rank": 314,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 13.7754,
+      "prior_variance": 0.677077,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "The Hamptons",
-      "path": "northamerica/unitedstates/newyorkstate/hamptons_on_long_i",
-      "prior_rank": 1527,
-      "prior_wins": 18,
-      "prior_n": 1
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 11.147,
+      "prior_variance": 0.741119,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Niagara-on-the-Lake",
-      "path": "northamerica/canada/ontario/niagara_on_the_lak",
-      "prior_rank": 1436,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 10.5922,
+      "prior_variance": 0.46607,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Nelson",
-      "path": "australiaandpacific/newzealand/nelson",
-      "prior_rank": 3432,
-      "prior_wins": 13,
-      "prior_n": 1
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 13.5089,
+      "prior_variance": 0.581664,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Durango",
-      "path": "northamerica/unitedstates/colorado/durangocolorado",
-      "prior_rank": 1013,
-      "prior_wins": 39,
-      "prior_n": 2
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 8.9019,
+      "prior_variance": 0.565848,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Bacharach",
-      "path": "europe/germany/rhinelandpalatinate/bacharach",
-      "prior_rank": 1366,
-      "prior_wins": 37,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 11.8893,
+      "prior_variance": 0.721949,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Vianden",
-      "path": "europe/luxembourg/vianden",
-      "prior_rank": 2647,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 10.7434,
+      "prior_variance": 0.457447,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Wernigerode",
-      "path": "europe/germany/saxonyanhalt/wernigerode",
-      "prior_rank": 2332,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Valle de la Luna",
+      "path": "southamerica/chile/atacamadesert/valledelaluna",
+      "prior_score": 11.4868,
+      "prior_variance": 1.110868,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Mono Lake",
-      "path": "northamerica/unitedstates/california/highsierra/monolake",
-      "prior_rank": 1167,
-      "prior_wins": 19,
-      "prior_n": 1
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 10.6712,
+      "prior_variance": 0.727918,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Panaji",
-      "path": "asia/india/goa/panaji",
-      "prior_rank": 499,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 10.0492,
+      "prior_variance": 1.108951,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Kutaisi",
-      "path": "europe/georgia/kutaisi",
-      "prior_rank": 2737,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 13.0867,
+      "prior_variance": 0.702473,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Lake Tanganyika",
-      "path": "africa/tanzania/laketanganyika",
-      "prior_rank": 1959,
-      "prior_wins": 17,
-      "prior_n": 1
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 10.3834,
+      "prior_variance": 0.678559,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "La Gran Sabana",
-      "path": "southamerica/venezuela/lagransabana",
-      "prior_rank": 1385,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 5.6973,
+      "prior_variance": 0.585481,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Santo Stefano di Sessanio",
-      "path": "europe/italy/abruzzo/santo_stefano_di_s",
-      "prior_rank": 324,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 9.9804,
+      "prior_variance": 0.761754,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Acireale",
-      "path": "europe/italy/sicily/acireale",
-      "prior_rank": 1517,
-      "prior_wins": 18,
-      "prior_n": 1
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 7.8234,
+      "prior_variance": 0.511213,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Khajjiar",
-      "path": "asia/india/himachalpradesh/khajjiar",
-      "prior_rank": 1622,
-      "prior_wins": 18,
-      "prior_n": 1
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_score": 10.1486,
+      "prior_variance": 0.972413,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Gojal Valley",
-      "path": "asia/pakistan/hunzavalley/gojal_valley",
-      "prior_rank": 682,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 7.9791,
+      "prior_variance": 0.478256,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Kackar",
-      "path": "asia/turkey/kackar",
-      "prior_rank": 2254,
-      "prior_wins": 16,
-      "prior_n": 1
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 8.2018,
+      "prior_variance": 0.470842,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Ingolstadt",
-      "path": "europe/germany/bavaria/ingolstadt",
-      "prior_rank": 2230,
-      "prior_wins": 16,
-      "prior_n": 1
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 5.0025,
+      "prior_variance": 0.575964,
+      "prior_n": 3
     }
   ]
 }

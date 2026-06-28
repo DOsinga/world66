@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:TejadosGrazalema.jpg
 latitude: 36.758389
 loc_type: city
 longitude: -5.366074
-score: 0.59
+score: 8.43
+snippet: White Andalusian mountain village in a rainy sierra of Spanish fir forest
+  and limestone trails
 title: Grazalema
 type: location
 ---

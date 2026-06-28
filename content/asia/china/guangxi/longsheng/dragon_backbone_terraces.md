@@ -14,6 +14,7 @@ story: >
   floor to within metres of the ridge. The highest terraces are at an altitude
   of 880 metres; the lowest at 380 metres. The entire system is still farmed by
   hand using the same methods as when it was built.
+score: 9.1
 ---
 
 The Dragon's Backbone Rice Terraces — Longji in Chinese — are the reason most people come to Longsheng, and they justify the journey. The two main terrace areas, Ping'An and Jinkeng (Dazhai), lie about 25 kilometres from Longsheng town and require a minibus from the car parks, then hiking on stone paths through the villages. The scenery from the upper viewpoints — concentric curves of paddy following the hillside contours, the valley floor invisible below, villages of dark wood perched on the lower slopes — is among the most striking agricultural landscapes in Asia.

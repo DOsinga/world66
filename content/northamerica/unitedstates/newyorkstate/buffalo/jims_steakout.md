@@ -1,8 +1,13 @@
 ---
 address: numerous locations
+latitude: 42.89936
+longitude: -78.877262
 price: less than $10.00 (most)
+score: 5.2
 tags:
 - eating_out
+- restaurant
+- sandwiches
 title: Jims Steakout
 type: poi
 url: www.jimssteakout.com

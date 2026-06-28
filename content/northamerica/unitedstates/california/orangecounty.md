@@ -11,6 +11,8 @@ score: 0.49
 title: Orange County
 type: location
 loc_type: region
+snippet: Southern California coastal county where theme-park suburbs give way to surf
+  towns and coves.
 ---
 
 Orange County sits between Los Angeles and San Diego along 42 miles of Pacific coastline, and manages to be both thoroughly suburban and genuinely enjoyable to visit. The inland cities — Anaheim and Buena Park chief among them — contain some of Southern California's most visited theme parks, including Disneyland and Knott's Berry Farm. The coast is a different proposition: a string of beach communities ranging from the surf culture of Huntington Beach to the galleries and coves of Laguna Beach.

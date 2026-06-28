@@ -11,6 +11,7 @@ tags:
 title: View Boston (Prudential Tower)
 type: poi
 url: viewboston.com
+score: 7.0
 ---
 
 For decades the Skywalk Observatory on the 50th floor of the Prudential Tower was the only place in Boston where you could see the city laid out below. In 2023 it was relaunched as "View Boston" with the addition of an outdoor terrace on the 52nd floor — the highest outdoor view in New England.

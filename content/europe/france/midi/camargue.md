@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Horses_in_the_Camargue_1.j
 latitude: 43.5
 loc_type: feature
 longitude: 4.65
+score: 8.58
+snippet: Rhône delta wilderness of salt lagoons, rice fields, white horses, black
+  bulls, and flamingos
 sources:
 - https://en.wikipedia.org/wiki/Camargue
 title: Camargue

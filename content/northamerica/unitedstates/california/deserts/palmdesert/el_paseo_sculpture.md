@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7196
 longitude: -116.3865
+score: 7.0
 ---
 
 A rotating outdoor sculpture exhibition installed along the median and side streets of El Paseo, refreshed every two years through the city's public art programme. Twenty or so large-scale works by contemporary American sculptors are sited along the boulevard, ranging from abstract steel to figurative bronze, with a printed map and audio tour available at the kiosk in front of the Gardens on El Paseo.

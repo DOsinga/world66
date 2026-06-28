@@ -7,6 +7,7 @@ tags:
   - hamam
 latitude: 36.88400
 longitude: 30.70600
+score: 6.6
 ---
 
 Several historic Turkish bath houses (hamams) operate within the old town, some in buildings dating back to the Seljuk and Ottoman periods. A Turkish bath is one of the genuine cultural experiences available in the city and worth doing at least once: the sequence moves from hot room (hararet) to warm room (ılıklık) to cold room, with scrubbing (kese) and massage available as extras.

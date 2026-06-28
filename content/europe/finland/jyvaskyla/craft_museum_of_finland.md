@@ -8,6 +8,7 @@ latitude: 62.2422
 longitude: 25.7459
 sources:
   - https://en.wikipedia.org/wiki/Craft_Museum_of_Finland
+score: 7.5
 ---
 
 The Craft Museum of Finland (Suomen käsityön museo) is the national museum dedicated to Finnish craft traditions, housed in a converted 1920s school building in central Jyväskylä. The collections span textiles, ceramics, metalwork, and woodwork from the 19th century to the present, with a particular emphasis on the way craft traditions intersect with Finnish cultural identity.

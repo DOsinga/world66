@@ -1,11 +1,13 @@
 ---
 latitude: 34.9876
 longitude: 135.7466
+score: 7.0
 snippet: Major railway museum just west of Kyoto Station, with 53 historic locomotives
 tags:
 - things_to_do
 - museum
 - sight
+- nishiki
 title: Kyoto Railway Museum
 type: poi
 ---

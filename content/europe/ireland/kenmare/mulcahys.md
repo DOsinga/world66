@@ -7,6 +7,7 @@ tags:
 - restaurant
 latitude: 51.8800
 longitude: -9.5835
+score: 6.4
 ---
 
 Mulcahy's has been a fixture of Kenmare's dining scene for more than two decades, with chef Bruce Mulcahy turning out modern Irish cooking with strong Asian and Mediterranean influences. The menu changes regularly with whatever the boats and the gardens are producing — scallops, monkfish, lamb shoulder, slow-cooked pork belly.

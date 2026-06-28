@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.5070
 longitude: 32.2620
+score: 5.9
 ---
 
 The Inhul River curves through Kropyvnytskyi's western edge, and its banks have been developed into a pleasant riverside promenade — the kind of quiet, unhurried green space that becomes the social heart of Ukrainian provincial cities. Locals walk here in the evenings, families bring children to the water's edge, and in summer the trees provide shade against the steppe heat.

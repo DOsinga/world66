@@ -7,6 +7,7 @@ tags:
 - bar
 title: Oasis Beach Bar
 type: poi
+score: 5.1
 ---
 
 The bar half of the Oasis complex, with plastic tables in the sand and an open-sided wooden deck. Cold Star and Club beer, decent cocktails, and a reggae-heavy soundtrack. On Friday and Saturday nights there is usually live music — Highlife, Hiplife or reggae bands from Cape Coast or up from Accra — and the place fills with a mixed crowd of locals, university students and travellers.

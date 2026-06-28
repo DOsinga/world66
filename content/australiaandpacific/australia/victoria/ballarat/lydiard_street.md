@@ -9,6 +9,7 @@ tags:
 snippet: "The grandest Victorian streetscape in regional Australia"
 latitude: -37.5610
 longitude: 143.8583
+score: 8.9
 ---
 
 Lydiard Street is the spine of Ballarat's gold-built downtown and the most consistently impressive Victorian streetscape outside the major capitals. The five blocks between the railway station and the old Mining Exchange are lined with banks, churches, hotels, theatres, and chambers in heavy Italianate and Second Empire styles, almost all in honey-coloured local sandstone.

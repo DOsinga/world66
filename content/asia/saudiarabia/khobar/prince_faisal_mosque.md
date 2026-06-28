@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Khobar's largest mosque, a modern landmark on the Corniche"
+score: 6.4
 ---
 
 The Prince Faisal bin Fahd Grand Mosque is the largest mosque in Khobar, opened in 1995 on a prominent site overlooking the Corniche. Built in a deliberately modern interpretation of Najdi traditional architecture, with twin slender minarets, a large central dome and a vast paved courtyard, it can hold up to 7,500 worshippers.

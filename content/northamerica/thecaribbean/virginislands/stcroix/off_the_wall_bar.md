@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 17.7769
 longitude: -64.8061
+score: 5.3
 ---
 
 Off the Wall is the beach bar at Cane Bay, sitting right on the sand between the road and the shore. It serves the dive crowd — Cane Bay is St. Croix's most popular shore diving spot — and the atmosphere in the afternoon, when the boats are back and everyone has peeled off their wetsuits, is relaxed and genuinely festive. Cold Presidente beer, rum punches, and decent bar food; the fish tacos and conch fritters are the right call.

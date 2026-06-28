@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 41.1419
 longitude: -104.8144
+score: 7.0
 ---
 
 A residential historic district of large turn-of-the-century houses east of the Capitol, listed on the National Register of Historic Places. Lakeview was Cheyenne's premier address from the 1880s to the 1920s — the era when cattle barons, railway executives, and territorial politicians built ambitious homes near the Capitol. The streetscape has changed remarkably little: Queen Anne, Shingle Style, and Colonial Revival houses sit on broad lots with mature trees.

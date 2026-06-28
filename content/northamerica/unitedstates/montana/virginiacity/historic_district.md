@@ -10,6 +10,7 @@ story: >
   When the gold petered out in the early 1870s, Virginia City didn't die — it just stopped. There was no money to tear things down and build again. The result, a century later, is one of the most intact Victorian commercial streetscapes in the American West: original storefronts, original interiors, original merchandise still on the shelves.
 sources:
   - https://en.wikipedia.org/wiki/Virginia_City_Historic_District_(Virginia_City,_Montana)
+score: 9.3
 ---
 
 The Virginia City Historic District is a National Historic Landmark encompassing the entire town centre — some 67 buildings representing the commercial and civic life of a Montana gold rush town in its prime. Unlike reconstructed frontier towns, Virginia City's buildings are original structures, many still holding period contents. The effect is genuinely eerie: walking the main street feels less like a museum visit than a time-slip.

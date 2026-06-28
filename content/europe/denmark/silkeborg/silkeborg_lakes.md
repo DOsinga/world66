@@ -11,6 +11,7 @@ story: >
   glaciers melted, gouging channels in the landscape that filled with water and connected over thousands of years.
   The Gudenå river, which runs through them, is Denmark's longest river — at just 158 kilometres, a reminder
   of how small the country is. The entire lake system can be paddled end to end in two or three days.
+score: 9.0
 ---
 
 Silkeborg sits at the heart of Denmark's largest connected lake system, and the lakes are the defining feature of the town's landscape. The Gudenå river links a series of lakes — Silkeborg Langsø, Brassø, Ørnsø, Julsø, and others — into a network that stretches east across central Jutland toward Randers Fjord.

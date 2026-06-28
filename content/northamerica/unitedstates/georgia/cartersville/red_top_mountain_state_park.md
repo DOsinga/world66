@@ -6,6 +6,7 @@ longitude: -84.7155
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A 1,776-acre state park on the shore of Lake Allatoona, fifteen minutes east of Cartersville off I-75. The lake — created in the 1950s by the Allatoona Dam on the Etowah River — is the centre of activity, with a swimming beach, boat ramps, kayak and pontoon rentals, and several miles of shoreline trail.

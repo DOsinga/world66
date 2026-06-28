@@ -9,6 +9,7 @@ latitude: 40.8522
 longitude: 14.2558
 sources:
   - https://en.wikipedia.org/wiki/Via_dei_Tribunali,_Naples
+score: 8.5
 ---
 
 The main east-west street of the ancient city, running parallel to Spaccanapoli through the densest part of the historic centre. Via dei Tribunali follows the line of the ancient Greek decumanus — the major east-west road of Neapolis — and has been a commercial street for 2,500 years. Today it is one of the most animated streets in the city, lined with churches, pizza shops, street food vendors, and the entrances to several important monuments.

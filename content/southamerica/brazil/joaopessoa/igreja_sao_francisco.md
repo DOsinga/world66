@@ -12,6 +12,7 @@ story: >
   The azulejo tile panels in the cloister courtyard — 37 panels depicting biblical scenes — 
   were brought from Portugal in the eighteenth century and are among the finest examples of 
   Portuguese tile work in the whole of Brazil.
+score: 9.0
 ---
 
 One of the finest baroque churches in Brazil, and reason enough to spend an hour in the old centre. The interior is richly gilded, but it's the ceiling that stops people — a trompe-l'œil perspective panel said to be among the largest of its kind in the world. The complex also includes a convent and a courtyard with Portuguese azulejo tiles.

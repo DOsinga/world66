@@ -1,0 +1,200 @@
+{
+  "round": 3793,
+  "timestamp": "2026-06-13T23:20:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.3822,
+      "prior_variance": 0.127753,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 3.3178,
+      "prior_variance": 0.152358,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 3.0891,
+      "prior_variance": 0.11658,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": 0.1059,
+      "prior_variance": 0.124344,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": -0.0479,
+      "prior_variance": 0.098048,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Amnye Machen",
+      "path": "asia/china/qinghai/amnye-machen",
+      "prior_score": -1.3483,
+      "prior_variance": 0.117678,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountains/vorokhta",
+      "prior_score": -1.4407,
+      "prior_variance": 0.115285,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -1.4559,
+      "prior_variance": 0.104351,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -3.9794,
+      "prior_variance": 0.150923,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.5505,
+      "prior_variance": 0.118047,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -1.217,
+      "prior_variance": 0.131936,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Carolina",
+      "path": "northamerica/thecaribbean/puertorico/carolina",
+      "prior_score": -3.293,
+      "prior_variance": 0.12677,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -2.763,
+      "prior_variance": 0.113185,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.8604,
+      "prior_variance": 0.126078,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -4.6064,
+      "prior_variance": 0.128676,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -4.8583,
+      "prior_variance": 0.152997,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -3.3079,
+      "prior_variance": 0.133362,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_score": -3.787,
+      "prior_variance": 0.111532,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.2694,
+      "prior_variance": 0.114721,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Gjilan",
+      "path": "europe/serbia/kosovoprovince/gjilan",
+      "prior_score": -5.5082,
+      "prior_variance": 0.130314,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -4.48,
+      "prior_variance": 0.10713,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.1774,
+      "prior_variance": 0.119628,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -3.8546,
+      "prior_variance": 0.126742,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -7.3099,
+      "prior_variance": 0.160985,
+      "prior_n": 12
+    }
+  ]
+}

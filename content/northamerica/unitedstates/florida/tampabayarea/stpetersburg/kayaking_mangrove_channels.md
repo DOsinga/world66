@@ -9,6 +9,7 @@ tags:
 latitude: 27.6155
 longitude: -82.7359
 snippet: "Paddle through quiet mangrove tunnels at Fort De Soto and along the Pinellas coast"
+score: 7.7
 ---
 
 The mangrove channels around Fort De Soto Park and along the Pinellas bayshore are some of the best flatwater paddling in Florida. The water is shallow, calm, and clear enough to watch manatees and rays pass beneath the kayak. Great blue herons, roseate spoonbills, and ospreys are common; in winter, manatees use the warm shallows as a refuge.

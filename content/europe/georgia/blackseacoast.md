@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 42.166
+loc_type: region
 longitude: 41.673
+score: 0.54
+snippet: Georgia's subtropical Black Sea coastline, anchored by Batumi and its seafront
+  boulevard.
 title: Black Sea Coast
 type: location
-score: 0.54
-loc_type: region
+image: blackseacoast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Black_Sea_coast_of_Georgia_(country),_with_skyline_of_Batumi_on_the_horizon.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Jagermesh
 ---
 
 Georgia's Black Sea coastline runs from Abkhazia in the north down to the Turkish border at Batumi, and the southern stretch is the part that is accessible and worth visiting. The coast has a subtropical climate, palm trees, and sandy beaches — quite different from the dry, mountainous interior of the country.

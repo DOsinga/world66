@@ -7,6 +7,7 @@ tags:
 - sight
 title: National WWI Museum Glass Walkway
 type: poi
+score: 7.4
 ---
 
 One of the most quietly powerful experiences in any American museum is the glass-floored walkway at the entrance to the National WWI Museum. Beneath the glass floor lies a field of 9,000 red poppies, each one representing 1,000 of the 9 million soldiers killed in the war. Walking across it forces a moment of reckoning with scale that no wall of statistics can achieve.

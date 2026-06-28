@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.4035
 longitude: 110.0656
+score: 7.8
 ---
 
 Xishi Temple, built into the limestone outcrops on the western face of West Mountain, is the most visually interesting of Guiping's Buddhist sites — the halls are constructed around and between natural rock formations, so that the architecture and the geology intermingle in a way that feels organic rather than imposed. The temple is active and well maintained, serving a local congregation rather than primarily tourists. Several of its historical stone inscriptions remain in place.

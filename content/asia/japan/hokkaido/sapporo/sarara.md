@@ -7,6 +7,7 @@ tags:
 latitude: 43.0571
 longitude: 141.3536
 snippet: Susukino soup curry restaurant popular with locals
+score: 6.6
 ---
 
 Sarara is one of the most consistently respected soup curry restaurants in a city that takes soup curry seriously. The broth is built over several days and has the depth of a long-cooked stock with the layered spice of a good curry — aromatic rather than simply hot, with a complexity that cheap soup curry places don't achieve. You customise the spice level when ordering, and the standard choices of chicken leg, lamb, or vegetables all come with large pieces that require a spoon rather than chopsticks. The chicken leg in soup is the classic preparation; the bone falls away cleanly.

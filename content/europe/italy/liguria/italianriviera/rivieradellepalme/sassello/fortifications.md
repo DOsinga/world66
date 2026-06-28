@@ -13,6 +13,7 @@ story: >
   that controlled the Apennine passes. What survives today is a palimpsest of
   military engineering — each occupying power leaving its modifications on top
   of the previous one's work.
+score: 6.7
 ---
 
 Two Doria-era fortifications survive from Sassello's medieval and early modern history. The Bastia Inferiore stands on a hilltop above the town and was built by the Doria family in the 14th century to control the Apennine pass below. The Bastia Superiore, closer to the town centre, dates from the 15th century and served as the main defensive stronghold.

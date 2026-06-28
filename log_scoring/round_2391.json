@@ -1,0 +1,200 @@
+{
+  "round": 2391,
+  "timestamp": "2026-06-13T21:39:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_score": 4.2182,
+      "prior_variance": 0.218855,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/whitevillages/setenil_de_las_bodegas",
+      "prior_score": 4.8882,
+      "prior_variance": 0.215048,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 4.1668,
+      "prior_variance": 0.225082,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 1.6476,
+      "prior_variance": 0.23515,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 5.7703,
+      "prior_variance": 0.233321,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_score": 3.9776,
+      "prior_variance": 0.226218,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Andorra la Vella",
+      "path": "europe/andorra/andorralavella",
+      "prior_score": 2.5765,
+      "prior_variance": 0.172576,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.2064,
+      "prior_variance": 0.161082,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.3002,
+      "prior_variance": 0.227031,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.4969,
+      "prior_variance": 0.214347,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Fazao-Malfakassa National Park",
+      "path": "africa/togo/fazao",
+      "prior_score": -3.9357,
+      "prior_variance": 0.26179,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -2.4324,
+      "prior_variance": 0.173995,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -2.4105,
+      "prior_variance": 0.205848,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/south_east/abingdon",
+      "prior_score": -0.3827,
+      "prior_variance": 0.168176,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -3.8292,
+      "prior_variance": 0.231998,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.9382,
+      "prior_variance": 0.181744,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -2.745,
+      "prior_variance": 0.216454,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Chill\u00e1n",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -2.8955,
+      "prior_variance": 0.195124,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -4.6821,
+      "prior_variance": 0.228444,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -1.8384,
+      "prior_variance": 0.164913,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.7386,
+      "prior_variance": 0.216638,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -4.8764,
+      "prior_variance": 0.17491,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_score": -6.1814,
+      "prior_variance": 0.361768,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -8.2913,
+      "prior_variance": 0.294906,
+      "prior_n": 7
+    }
+  ]
+}

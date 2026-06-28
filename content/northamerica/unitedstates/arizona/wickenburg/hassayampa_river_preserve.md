@@ -13,6 +13,7 @@ story: >
   The preserve protects one of those surface sections, where the water table
   meets the riverbed and creates a lush riparian corridor completely at odds
   with the surrounding Sonoran Desert.
+score: 7.7
 ---
 
 A 770-acre nature preserve owned by The Nature Conservancy, about 3 miles south of town on US-60. The Hassayampa River surfaces here to create a ribbon of cottonwood and willow forest through the Sonoran Desert — a striking contrast that supports over 280 bird species and makes this one of the premier birding sites in Arizona. January through April are peak months for migratory species.

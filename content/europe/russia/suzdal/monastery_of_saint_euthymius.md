@@ -13,6 +13,7 @@ tags:
   - sight
 title: Monastery of Saint Euthymius
 type: poi
+score: 9.3
 ---
 
 The Monastery of Saint Euthymius (Spaso-Yevfimyevsky) is the most imposing monument in Suzdal — a fortified complex of white stone walls, towers, and churches that dominates the northern side of the town above a bend in the Kamenka river. Founded in the 14th century as a defensive monastery, it was expanded over several centuries into the large walled complex that survives today.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.7700
 longitude: -106.0650
+score: 8.5
 ---
 
 Brown's Canyon National Monument, established in 2015, protects 21,000 acres of granite canyon, high-desert sage, and cottonwood riparian corridors along the Arkansas River south of Buena Vista. The monument encompasses some of the most dramatic scenery in the Arkansas River Valley, with canyon walls rising hundreds of feet above the whitewater below.

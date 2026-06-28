@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "There are roughly 6,000 donkeys in Lamu — more than there are cars in most Kenyan towns of comparable size. The sanctuary was set up in 1987 by the British charity The Donkey Sanctuary to provide free veterinary care for the working animals that essentially run the island's transport and construction trades."
+score: 6.6
 ---
 
 A small free clinic on the seafront where the working donkeys of Lamu are treated, watered, and given veterinary care. There is no formal entry fee and no tour — you walk in, look at the donkeys, and ask the staff if you have questions.

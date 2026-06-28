@@ -7,6 +7,7 @@ tags:
 latitude: 52.3128
 longitude: -114.0910
 snippet: "Sandy urban beach on Alberta's most popular swimming lake"
+score: 8.2
 ---
 
 Sylvan Lake Park is the heart of the town's appeal — a broad sandy beach on the south shore of the lake that fills with Albertan families in July and August. The lake is unusually warm for Alberta (surface temperatures reach 22°C in a good summer), and the beach is clean and well maintained. The provincial park designation protects the immediate shoreline.

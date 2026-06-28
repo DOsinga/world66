@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Conakry-ville2.JPG
 latitude: 9.51706
 loc_type: city
 longitude: -13.699843
-score: 0.28
+score: 5.45
+snippet: Atlantic peninsula capital of Guinea, loud with markets, traffic, and one
+  of West Africa's great music scenes.
 title: Conakry
 type: location
 ---

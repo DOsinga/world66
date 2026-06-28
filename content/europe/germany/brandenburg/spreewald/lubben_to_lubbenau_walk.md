@@ -9,6 +9,7 @@ tags:
 - sight
 title: Lübben to Lübbenau Walk
 type: poi
+score: 6.8
 ---
 
 The 13 km trail along the Hauptspree between the two main Spreewald towns is flat, well-signed, and lets you see the forest properly rather than just glimpsing it from a boat. The path passes through quiet stretches of alder and oak, crosses small bridges, and cuts through meadows that flood in spring. Allow three to four hours on foot, or half that by bike.

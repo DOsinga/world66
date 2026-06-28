@@ -1,0 +1,200 @@
+{
+  "round": 4074,
+  "timestamp": "2026-06-13T23:41:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 6.2201,
+      "prior_variance": 0.130069,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 3.9117,
+      "prior_variance": 0.094606,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_score": 1.1621,
+      "prior_variance": 0.097119,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -0.0082,
+      "prior_variance": 0.128133,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -1.0472,
+      "prior_variance": 0.101883,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -1.8304,
+      "prior_variance": 0.102189,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Changchun",
+      "path": "asia/china/jilin/changchun",
+      "prior_score": -3.5949,
+      "prior_variance": 0.109835,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": 0.0539,
+      "prior_variance": 0.117863,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.277,
+      "prior_variance": 0.1465,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -3.019,
+      "prior_variance": 0.107442,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -3.8051,
+      "prior_variance": 0.11367,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.5185,
+      "prior_variance": 0.132688,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -3.2,
+      "prior_variance": 0.138214,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -5.3936,
+      "prior_variance": 0.125815,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -3.8426,
+      "prior_variance": 0.138374,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -5.2395,
+      "prior_variance": 0.117448,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -6.5913,
+      "prior_variance": 0.142203,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.5977,
+      "prior_variance": 0.115251,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -4.6393,
+      "prior_variance": 0.127504,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -6.6703,
+      "prior_variance": 0.158646,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -7.8998,
+      "prior_variance": 0.265099,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -7.9618,
+      "prior_variance": 0.170135,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Dosso",
+      "path": "africa/niger/dosso",
+      "prior_score": -9.4091,
+      "prior_variance": 0.262849,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -7.2989,
+      "prior_variance": 0.159156,
+      "prior_n": 13
+    }
+  ]
+}

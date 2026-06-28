@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Restored 1871 steam engine on display in central Busselton
+score: 6.3
 ---
 
 The compact Ballaarat is one of the oldest surviving steam locomotives in Australia — built in 1871 by Hudswell, Clarke & Co. of Leeds and shipped out to haul timber on the Lockeville Tramway, which then ran along the line of the present jetty. It worked for nearly fifty years before retiring to display.

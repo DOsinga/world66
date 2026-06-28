@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Atlantis
 type: poi
+score: 6.4
 ---
 
 A dark little chess cafe on the Jatstraat where you can challenge a stranger to a game over a cheap beer. The regulars are welcoming and the atmosphere is unhurried — this is a place to settle in for the evening, not grab a quick drink. Boards and pieces are available at the bar.

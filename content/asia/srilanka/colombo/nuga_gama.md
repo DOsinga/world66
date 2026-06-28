@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Nuga Gama
 type: poi
+score: 6.3
 ---
 
 Nuga Gama ("Banyan Village") is built around an enormous banyan tree in the grounds of the Cinnamon Grand hotel, reconstructed as a traditional Sri Lankan village setting with clay pots, wooden furniture, and staff in period dress. The food is excellent and unexpectedly authentic: a buffet spread of traditional Sri Lankan curries, sambols, hoppers, string hoppers, and wade, plus a la carte options cooked in clay pots over wood fire.

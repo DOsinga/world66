@@ -9,6 +9,7 @@ latitude: 43.8800
 longitude: 125.3010
 story: >
   Jilin University expanded massively in the 1990s and 2000s and is now one of the largest universities in China by enrolled student population — at peak enrollment it claimed over 70,000 students. The main campus is built partly around Manchukuo-era government buildings that were repurposed after 1949, giving it an architecture that combines Chinese socialist construction with Japanese neoclassical colonial structures from three different decades.
+score: 7.2
 ---
 
 Jilin University is one of China's major research universities and one of the largest by enrollment. The main campus in Changchun occupies a significant area of the city and incorporates several former Manchukuo government buildings — distinctive colonial-era structures that sit alongside the tower blocks and modern facilities of a post-1949 university.

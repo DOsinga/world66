@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.5295
 longitude: -44.2975
+score: 7.0
 ---
 
 Fonte do Ribeiro is a historic public fountain in the heart of Praia Grande, one of the oldest surviving urban infrastructure elements in São Luís. In the colonial period, public fountains like this one were the main water supply for the neighbourhood, and their locations determined where people gathered, where commerce happened, and where social life played out.

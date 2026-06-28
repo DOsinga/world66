@@ -10,6 +10,7 @@ tags:
 - old_town
 title: Chiesa di San Francesco
 type: poi
+score: 7.4
 ---
 
 San Francesco is the most architecturally intact medieval church in Alghero. The exterior is plain trachyte stone with a small rose window; the interior, late 14th century with later Renaissance additions, is mostly unadorned with the original ribbed vaulting still visible. The bell tower is a fine octagonal Catalan Gothic structure that the cathedral tower clearly imitated.

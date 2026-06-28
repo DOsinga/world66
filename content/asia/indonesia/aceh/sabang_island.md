@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Rubiah_Island_Aceh.jpg
 latitude: 5.8833
 loc_type: city
 longitude: 95.3167
-score: 0.56
+score: 7.82
+snippet: Volcanic island town on Pulau Weh, Indonesia's western edge, with colonial
+  traces and reef diving
 title: Sabang Island
 type: location
 ---

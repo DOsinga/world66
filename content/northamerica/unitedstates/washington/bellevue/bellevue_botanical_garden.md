@@ -12,6 +12,7 @@ story: >
   joined forces to create a public garden from scratch. The 53-acre site preserves a remnant of the original
   Pacific Northwest forest alongside its cultivated beds — stand in the Yao Japanese Garden in April and the
   contrast between wild Douglas firs and raked gravel becomes suddenly and sharply beautiful.
+score: 7.8
 ---
 
 Bellevue's finest green space sprawls across 53 acres of cultivated gardens and natural wetland east of downtown. The Botanical Garden is free to visit and rewards a slow walk: the rhododendron glen is spectacular in late April, the dahlia display runs from July to October, and the Yao Japanese Garden — a gift from Bellevue's Japanese sister city — brings formal design into conversation with the surrounding Northwest forest.

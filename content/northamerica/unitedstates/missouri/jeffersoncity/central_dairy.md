@@ -7,6 +7,7 @@ tags:
 latitude: 38.5720
 longitude: -92.1740
 snippet: Jefferson City institution since 1932, famous for its ice cream
+score: 5.9
 ---
 
 Central Dairy has been making ice cream in Jefferson City since 1932, and the original shop on Madison Street is a genuine local institution. The ice cream is made on-site in a wide rotation of flavors, and the portions are generous. It's the kind of place that legislators, lobbyists, and ordinary residents all end up at — the social leveling effect of a good scoop on a hot Missouri afternoon.

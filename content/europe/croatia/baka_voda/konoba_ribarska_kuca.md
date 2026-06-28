@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.3582
 longitude: 16.9488
+score: 6.2
 ---
 
 The Ribarska Kuća ("fisherman's house") is one of the most reliable options on the waterfront, specialising in grilled fish and Dalmatian seafood classics. The fish is sourced locally and the menu changes depending on the day's catch — sea bass and sea bream are the most consistent options, but the waiter will tell you what's best. Order the buzara (mussels or shrimp cooked in white wine, olive oil, garlic and parsley) as a starter.

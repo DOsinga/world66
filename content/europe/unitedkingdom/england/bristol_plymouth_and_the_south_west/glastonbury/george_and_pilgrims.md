@@ -9,6 +9,7 @@ tags:
 title: The George and Pilgrims
 type: poi
 story: "The hotel has been welcoming pilgrims to Glastonbury Abbey since the 1450s and is reputed to be one of the oldest continuously operating inns in England. The bedrooms are said to be haunted by a monk who fled the Dissolution, and the chair in the lobby reserved for him sometimes shifts position overnight — staff insist they don't move it."
+score: 7.3
 ---
 
 The George and Pilgrims sits in the middle of the High Street and is unmissable — a stone-fronted 15th-century building with carved heraldry on the facade. It was originally built as guesthouse accommodation for pilgrims to the Abbey, on the orders of Abbot John Selwood, and has stayed in use as an inn ever since.

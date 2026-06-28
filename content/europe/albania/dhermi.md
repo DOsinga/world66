@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Dhermi
 type: poi
+score: 8.2
 ---
 
 Dhermi is one of the most popular beach destinations on the Albanian Riviera. The village itself is unremarkable, but the coastline is stunning — long stretches of white pebble beach backed by olive groves and the Ceraunian Mountains.

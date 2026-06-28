@@ -12,6 +12,7 @@ tags:
 title: Centennial Olympic Park
 type: poi
 url: www.centennialpark.com
+score: 5.8
 ---
 
 Built for the 1996 Atlanta Olympics, this 22-acre park in the heart of downtown is a pleasant place to rest between attractions. The fountain of rings puts on water shows at regular intervals throughout the day. The park is flanked by the Georgia Aquarium, the National Center for Civil and Human Rights, and World of Coca-Cola — you could easily spend a full day in this corner of downtown.

@@ -7,6 +7,7 @@ tags:
   - cultural_sight
 latitude: 14.041
 longitude: -6.007
+score: 7.5
 ---
 
 Several kilometres south of central Segou, a cluster of villages specialises in pottery — a craft tradition that has been practised here for generations. The pots are made from local clay using hand-building techniques without a wheel, fired in open kilns, and decorated with geometric patterns. The finished pieces are used throughout the region for storing water, cooking, and carrying goods.

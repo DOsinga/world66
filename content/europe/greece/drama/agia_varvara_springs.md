@@ -8,6 +8,7 @@ tags:
 latitude: 41.1518
 longitude: 24.1445
 story: "Drama's unusual abundance of water in an otherwise semi-arid region of northern Greece is fed by springs emerging at the foot of Mount Falakro. The springs at Agia Varvara have been valued since antiquity — the area around them shows evidence of ancient habitation, and the cool, rushing water made Drama one of the most comfortable cities in the Macedonian interior long before modern infrastructure arrived."
+score: 8.1
 ---
 
 The springs of Agia Varvara are the source of Drama's distinctive character as Greece's greenest city. Clear, cold water rises in the lower town and feeds a network of channels and pools set in a park around the Byzantine and Ottoman-era Church of Agia Varvara. The park is a popular gathering place for locals throughout the year.

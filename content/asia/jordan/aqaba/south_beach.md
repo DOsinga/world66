@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 7.2
 ---
 
 South Beach is the local name for the public stretch of coast along the Marine Park, between the container port and Tala Bay. The beach itself is narrow, gritty with shell and coral fragments rather than soft sand, and lined with informal palm-shaded shelters where Jordanian families picnic on Fridays. The attraction is what is in the water rather than on the beach: the fringing reef begins a few metres offshore and runs the length of the coast.

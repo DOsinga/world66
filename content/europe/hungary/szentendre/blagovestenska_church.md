@@ -6,6 +6,7 @@ tags: [things_to_do, church]
 address: "Fő tér 4"
 latitude: 47.6682
 longitude: 19.0745
+score: 8.0
 ---
 
 An 18th-century Serbian Orthodox church standing right on Fő tér, Szentendre's main square. The Baroque and Rococo facade is the most photographed building in town, its gilded icons and carved iconostasis among the finest in Hungary.

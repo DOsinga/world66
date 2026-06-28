@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 40.1730
 longitude: 22.4888
+score: 7.1
 ---
 
 The theatre at Dion dates from the Hellenistic period, making it one of the older surviving theatrical structures in Macedonia. Philip II held dramatic performances here as part of the games he established at Dion in honour of Zeus and the Muses. The games lasted nine days and combined athletic contests with musical performances and theatrical productions.

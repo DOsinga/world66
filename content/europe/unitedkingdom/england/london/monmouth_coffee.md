@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 51.5052
 longitude: -0.0918
+score: 7.1
 snippet: Pioneer of London's specialty coffee scene
 tags:
 - bars_and_cafes
+- south_bank
 title: Monmouth Coffee
 type: poi
 ---

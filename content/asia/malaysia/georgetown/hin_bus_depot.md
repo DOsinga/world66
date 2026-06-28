@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - arts
 - street_art
+score: 7.1
 ---
 
 Hin Bus Depot is a 1947 bus terminal that fell out of use in the 1990s and was converted in 2014 into one of Penang's most active contemporary arts spaces. The old garages and waiting halls now house art galleries, designer-craft shops, a vegan café, several bars, and an open central courtyard with food trucks and irregular live music.

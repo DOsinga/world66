@@ -8,6 +8,7 @@ latitude: 30.0520
 longitude: 31.2430
 story: >
   Cairo's Downtown was designed in the 1860s by the Khedive Ismail as Egypt's answer to Haussmann's Paris — a grid of wide boulevards lined with European-style apartment buildings, with the Khedivial Opera House as its cultural centrepiece. The opera house burned down in 1971; the apartment buildings survive, many still with their original wrought-iron balconies and art nouveau detailing, though now faded and subdivided. The Khedive's Paris never quite happened, but the dream is still visible in the bones of the buildings.
+score: 8.4
 ---
 
 Downtown Cairo — Wast al-Balad — is the 19th-century city built by the Khedive Ismail to look like Paris. Wide boulevards, art nouveau apartment buildings, and European-style squares give this part of the city a completely different character from the medieval lanes of Islamic Cairo or the garden suburbs of Zamalek.

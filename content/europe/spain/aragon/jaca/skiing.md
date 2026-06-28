@@ -8,6 +8,7 @@ latitude: 42.7700
 longitude: -0.5150
 sources:
   - https://www.barcelo.com/guia-turismo/en/spain/huesca/things-to-do/jaca/
+score: 6.7
 ---
 
 Two ski resorts lie about 30km north of Jaca, close to the French border, accessible via the N-330 road to Canfranc. Candanchú is the older of the two, established in 1928, with terrain that suits intermediate skiers and a loyal following. Astún, opened in 1968, is larger and offers better facilities and more challenging runs, with north-facing slopes that hold snow well. Together they give Jaca its character as a winter sports town as much as a summer hiking base.

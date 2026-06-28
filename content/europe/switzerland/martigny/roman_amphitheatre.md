@@ -9,6 +9,7 @@ longitude: 7.073
 story: "Martigny was the Roman town of Octodurus, and Julius Caesar mentions it in his Gallic Wars as the site of a battle in 57 BC — the only time a Valais town appears in a classical text. The amphitheatre was built in the 1st century AD to entertain the garrison and civilian population of what was then an important staging post on the Alpine routes to Italy."
 sources:
   - https://en.wikipedia.org/wiki/Forum_d%27Octodure
+score: 7.8
 ---
 
 The Roman amphitheatre of Martigny (part of the Forum d'Octodure archaeological complex) is one of the better-preserved Roman sites in the Swiss Alps. The oval arena dates from the 1st century AD and could seat around 5,000 spectators — a substantial capacity for a garrison town on the edge of the empire. The tiered stone seating is largely intact, and the scale of the structure conveys how seriously the Romans took their presence here.

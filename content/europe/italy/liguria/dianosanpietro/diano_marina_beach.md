@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9167
 longitude: 8.0833
+score: 6.8
 ---
 
 Diano Marina is the coastal town at the bottom of the hill from Diano San Pietro — a 3-kilometre drive or a direct descent on foot through the olive groves. The town has a long sandy beach, one of the better beaches on this stretch of the Ligurian Riviera, with calm water sheltered from westerly swells. The beach is lined with the ubiquitous Italian beach clubs (stabilimenti balneari) that charge for sunbeds and umbrellas, but there are free sections at either end.

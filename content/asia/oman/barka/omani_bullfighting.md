@@ -9,6 +9,7 @@ tags:
 - sight
 title: Omani Bullfighting
 type: poi
+score: 7.4
 ---
 
 Barka is one of the main venues for Omani bullfighting (muṣāraaah), which takes place on Friday mornings in season, roughly October to April, when the weather is cool enough for the bulls to be active. The Omani style is entirely different from Spanish bullfighting: two bulls are brought together and push against each other with their heads until one backs down and retreats. The contest is about dominance rather than harm; injuries are rare and the losing bull simply withdraws. There is no matador, no cape, and no killing.

@@ -9,6 +9,7 @@ latitude: 12.5517
 longitude: 123.7006
 story: >
   The manta rays that aggregate around Ticao Pass are oceanic mantas, the larger of the two species — they can reach seven metres across. They come to feed on the plankton-rich upwelling at the channel mouth, and to visit cleaning stations where smaller fish remove parasites from their bodies. Scientists studying manta ray populations in the Philippines have documented individual animals returning to the same cleaning stations year after year.
+score: 8.8
 ---
 
 Ticao Island, northeast of the Masbate mainland, is where the province's best diving is found. The shallow reefs around Ticao Pass attract large aggregations of oceanic manta rays that come to feed on the plankton-rich currents and visit established cleaning stations. The mantas are large and habituated to divers, making close-up encounters routine from November through June. A few small dive resorts on Ticao cater specifically to this experience.

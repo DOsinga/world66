@@ -9,6 +9,7 @@ latitude: 19.8462
 longitude: -90.5362
 story: >
   Under the Baluarte de San Carlos is a network of tunnels and dungeons that date to the colonial period. Prisoners were kept here; some accounts suggest pirates captured in battle were held in these cells before execution. The underground passages extend further than the visible footprint of the fort.
+score: 7.3
 ---
 
 The Baluarte de San Carlos is one of the eight bastions of the original hexagonal wall system and houses the Museo de la Ciudad (City Museum). The pentagon-shaped fort sits at the corner of the walls nearest the modern centre and is among the most accessible of the bastions.

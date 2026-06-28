@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.9545
 longitude: -57.9440
+score: 6.3
 ---
 
 The Railway Society of Newfoundland maintains a collection of historic narrow-gauge locomotives and rolling stock from the Newfoundland Railway, which ran across the island from Port aux Basques to St John's until 1988. The Newfoundland Railway was always a curious thing — narrow gauge (3ft 6in) where most of North America runs standard gauge — and the society does well by this distinctive heritage. The equipment on display includes steam locomotives and passenger cars that once made the famously slow trans-island run, nicknamed "the Newfie Bullet" with cheerful local irony.

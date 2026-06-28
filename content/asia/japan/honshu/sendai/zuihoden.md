@@ -9,6 +9,7 @@ latitude: 38.2528
 longitude: 140.8564
 story: >
   Date Masamune deliberately chose the site of Zuihoden on Kyogamine Hill so he could watch over Sendai for eternity. When the mausoleum was destroyed in World War II air raids, post-war excavations found his remains inside a lacquered wooden coffin, along with the bones of servants who had been killed to accompany him in death — a practice called junshi, banned by the Tokugawa government but apparently not by Masamune.
+score: 8.7
 ---
 
 The ornate mausoleum of Date Masamune, the one-eyed warlord who founded Sendai in 1601, is the city's most distinctive sight. The current structure is a 1979 reconstruction — the original was destroyed in wartime bombing — but it faithfully recreates the extravagant Momoyama style: jet-black lacquer, gold leaf, and richly carved transom panels in deep red and green.

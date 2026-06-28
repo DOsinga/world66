@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vue_de_la_montagne_%C3%A0_
 latitude: 8.7
 loc_type: feature
 longitude: 0.8
+score: 6.52
+snippet: Togolese national park of forested hills and savanna, protecting the country's
+  largest wildlife reserve.
 title: Fazao-Malfakassa National Park
 type: location
 ---

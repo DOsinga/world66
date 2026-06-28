@@ -11,6 +11,7 @@ story: >
   The building was the Union brewery's malting tower, built in 1927. When the brewery closed in 1994,
   the tower was left empty for over a decade until the city converted it into a cultural centre in 2010.
   The giant illuminated U on the roof — 9 metres tall, visible for miles — was originally a beer advertisement.
+score: 8.2
 ---
 
 The Dortmunder U is the city's most recognisable cultural landmark — a seven-storey former brewery tower that now houses three separate cultural institutions under one roof. The Museum Ostwall, which holds the city's collection of modern and contemporary art, occupies the upper floors; the Hartware Medienkunstverein presents media and digital art; the lower levels host the Dortmund University of Applied Sciences' design faculty and rotating exhibitions.

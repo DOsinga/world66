@@ -1,11 +1,13 @@
 ---
 latitude: 35.0116
 longitude: 135.7592
+score: 6.9
 snippet: Three-storey library-museum holding 300,000 manga volumes
 tags:
 - things_to_do
 - museum
 - sight
+- downtown_kyoto
 title: Kyoto International Manga Museum
 type: poi
 ---

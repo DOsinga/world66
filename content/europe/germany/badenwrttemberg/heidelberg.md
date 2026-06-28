@@ -2,15 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
-  poi_cleanup: '2026-04-19'
   location_enrich: '2026-06-03'
+  poi_cleanup: '2026-04-19'
 image: heidelberg.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:K%C3%B6nigstuhl,_Heidelberg,_U-17.jpg
 latitude: 49.4094
 loc_type: city
 longitude: 8.6947
-score: 0.7
+score: 9.17
+snippet: Neckar River university city of baroque lanes, forested slopes, and a romantic
+  ruined castle.
 title: Heidelberg
 type: location
 ---

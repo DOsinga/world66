@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.1533
 longitude: -120.1472
+score: 6.8
 ---
 
 A small outdoor chapel built in 1909 by the Episcopal community of early Tahoe City, hidden in the pines just off the West Lake Shore. The chapel is open-sided and oriented toward the lake, with rough log pews and a simple altar. Services are still held there in summer.

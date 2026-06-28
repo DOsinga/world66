@@ -1,8 +1,7 @@
 ---
-category: Park
 latitude: -33.9056
 longitude: 18.4097
-neighbourhood: Green Point
+score: 7.4
 scores:
   activities: 0.5996
   park: 0.7522

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In 1960 a local villager found a fossilised human skull cemented to the wall of the cave at Petralona. The Petralona Man, as it is now known, is one of the oldest hominid remains ever found in Europe — somewhere between 200,000 and 700,000 years old, with experts still arguing about which end of that range is right."
+score: 7.6
 ---
 
 The Petralona Cave is a long, multi-chamber limestone cavern in the inland foothills of Halkidiki, west of the main road south from Thessaloniki. Inside, an array of stalactites and stalagmites in pastel pinks, oranges, and whites runs through chambers that take about an hour to walk through with a guide.

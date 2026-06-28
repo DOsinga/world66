@@ -9,6 +9,7 @@ latitude: 46.1533
 longitude: -1.1505
 sources:
   - https://en.wikipedia.org/wiki/Aquarium_de_La_Rochelle
+score: 8.2
 ---
 
 The Aquarium de La Rochelle, on the quay between the Vieux Port and Les Minimes, is one of the best-curated aquariums in Europe and the city's most-visited attraction. The route through is more than a kilometre, organised geographically from the local Atlantic coast to the tropical reefs of the Caribbean and the Indo-Pacific. The signature tank — a vast cylindrical Atlantic basin with sharks circling — comes early and sets the tone.

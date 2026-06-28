@@ -8,6 +8,7 @@ tags:
 latitude: 54.6539
 longitude: -8.1103
 snippet: "The central market square of Donegal town, with an obelisk commemorating the Four Masters"
+score: 5.8
 ---
 
 The Diamond is the market square at the heart of Donegal town — a modest but pleasant open space surrounded by pubs, cafes, and shops, with a stone obelisk at the centre commemorating the Four Masters, the team of Franciscan scholars who compiled the Annals of the Four Masters in the 17th century. The obelisk was erected in 1937 and bears carved portraits of the four monks.

@@ -6,6 +6,7 @@ longitude: 13.1142
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The Dornbusch lighthouse stands on the highest point of Hiddensee, a 72-metre bluff at the north end of the car-free island. The tower was built in 1888 and still operates as a navigational aid. Visitors can climb the 102 steps to the gallery, where the view takes in the whole length of Hiddensee, the open Baltic, and on a clear day the Danish island of Møn.

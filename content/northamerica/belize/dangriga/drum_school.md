@@ -8,6 +8,7 @@ tags:
   - sight
 title: Dangriga Drum School
 type: poi
+score: 7.4
 ---
 
 The Garifuna drum tradition is one of the things that makes Dangriga worth visiting outside of Settlement Day. The town has produced several master drummers and a number of informal schools where visitors can learn the basics of the punta rhythm. The drums themselves — made from hardwood and animal skin — are handcrafted locally.

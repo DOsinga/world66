@@ -6,6 +6,7 @@ tags: [things_to_do, church]
 address: "Bogdányi utca 40"
 latitude: 47.6700
 longitude: 19.0760
+score: 7.7
 ---
 
 The Preobraženska, or Transfiguration Church, was built between 1741 and 1746 by the local Serbian tanners' guild — the Tabakovići — whose money paid for the unusually fine Rococo iconostasis inside. It stands at the north end of Bogdányi utca, the street that runs along the old Serbian quarter.

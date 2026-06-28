@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -39.2748
 longitude: -71.9755
+score: 5.1
 ---
 
 Café Brasil on Avenida Fresia is a reliable meeting point for travellers and a good spot to plan the next day's activities over a coffee and a slice of kuchen — the German-influenced fruit cake that is ubiquitous in the Chilean Lake District, a legacy of the nineteenth-century German immigration that shaped the entire region. The coffee is strong and the wifi works.

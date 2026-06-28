@@ -11,7 +11,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Baroda_Museum01.jpg
 latitude: 22.297314
 loc_type: city
 longitude: 73.194257
-score: 0.45
+score: 6.87
+snippet: Gujarati city of Gaekwad palaces, tree-lined avenues, and a strong arts tradition
 title: Vadodara
 type: location
 ---

@@ -7,7 +7,9 @@ done:
 latitude: 44.6486
 loc_type: city
 longitude: -63.5859
-score: 0.56
+score: 8.0
+snippet: Nova Scotia capital on a major natural harbour, long shaped by naval and
+  commercial trade.
 title: Halifax
 type: location
 ---

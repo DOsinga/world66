@@ -14,6 +14,7 @@ story: >
   road improvements finally made river freight uneconomical.
 sources:
   - https://en.wikipedia.org/wiki/SS_Klondike
+score: 8.6
 ---
 
 The S.S. Klondike is a fully restored sternwheeler beached on the banks of the Yukon River and designated a National Historic Site of Canada. It was one of the last great riverboats of the Yukon — a wood-burning paddle wheeler that carried passengers and freight between Whitehorse and Dawson City for decades before the road connections made river transport obsolete. The restoration is excellent, and the interior has been returned to its 1930s configuration.

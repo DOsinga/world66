@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.115
 longitude: -99.575
+score: 8.3
 ---
 
 Teotenango is the larger of the two Matlatzinca archaeological sites near Toluca, set on a hilltop about 25 km south of the city, near Tenango del Valle. The site is bigger and more impressive than Calixtlahuaca: stepped pyramids, plazas, an enclosed ball court, and a defensive wall on the steeper sides.

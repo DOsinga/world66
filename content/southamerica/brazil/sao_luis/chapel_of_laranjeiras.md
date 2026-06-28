@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.53095
 longitude: -44.294504
+score: 7.1
 ---
 
 The Chapel of São José das Laranjeiras, commonly called the Chapel of Laranjeiras, is a small colonial-era church in the historic centre, notable for its well-preserved facade and the quiet courtyard that surrounds it. Unlike the grander churches of the old town, this one retains an intimate, neighbourhood character — it feels like it belongs to the people who live nearby rather than to the city at large.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Two open-air thermal waterfalls along the promenade above Bathhouse Row"
+score: 7.3
 ---
 
 Two small but visually striking waterfalls of mineral-laden hot spring water, hidden in plain sight

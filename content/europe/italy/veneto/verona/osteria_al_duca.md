@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Osteria al Duca
 type: poi
+score: 6.5
 ---
 
 A reliable traditional osteria in a 13th-century building, occupying the ground floor of a palazzo claimed to be the house of the Montecchi — Romeo's family. The food is straightforwardly Veronese: pastissada de caval (horsemeat stew with polenta), gnocchi on Fridays, and pasta e fagioli. Good wine list covering the Valpolicella zone. Lunch is the best time to visit; it fills quickly with local workers and a few tourists who have wandered off Via Mazzini.

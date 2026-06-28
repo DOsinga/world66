@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Ch%C3%A2te
 latitude: 47.339044
 loc_type: city
 longitude: 0.510456
-score: 0.6
+score: 8.74
+snippet: Loire Valley village whose château is renowned for formal Renaissance gardens
+  and geometric kitchen plots.
 title: Villandry
 type: location
 ---

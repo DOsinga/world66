@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 Santa Maria Maggiore is the older of Vasto's two main churches — a Romanesque foundation rebuilt in the 14th and again in the 17th century, with a fine carved doorway and a vivid Baroque interior. The campanile, rising 65 metres above the centro storico, is the tallest in southern Abruzzo and the most visible landmark from the marina.

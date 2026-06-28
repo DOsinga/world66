@@ -11,6 +11,7 @@ address: "5 Kidder Court, Nevada City, CA"
 phone: "+1 530-470-0902"
 snippet: "Heritage museum preserving the locomotives of the Gold Country's narrow-gauge railway"
 story: "The Nevada County Narrow Gauge Railroad was one of the shortest railroads in the country — just 22 miles — but it was one of the most profitable per mile in the late 19th century. The line finally closed in 1942 when its last locomotive was donated for scrap metal to support the World War II effort."
+score: 6.7
 ---
 
 The Nevada County Narrow Gauge Railroad ran from Colfax to Nevada City and Grass Valley from 1876 until 1942, and this small museum at the old Nevada City depot keeps the memory of it alive. The collection includes vintage locomotives, rolling stock, and a good archive of photographs and artefacts from the line's operating years.

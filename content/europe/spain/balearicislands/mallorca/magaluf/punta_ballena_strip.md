@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 39.511
 longitude: 2.5375
+score: 5.9
 ---
 
 Carrer Punta Ballena is the kilometre-long strip of bars and clubs that has made Magaluf famous — or notorious, depending on your perspective. It runs parallel to the beach behind the promenade and contains dozens of bars, foam party venues, and all-inclusive drink package outlets. At night in July and August it is shoulder-to-shoulder with British and German package holidaymakers.

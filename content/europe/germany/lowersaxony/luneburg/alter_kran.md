@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 snippet: 18th-century treadwheel-driven harbour crane on the Ilmenau
+score: 8.2
 ---
 
 The dark wooden crane standing at the foot of the Lüneburger Wasserviertel is one of the very few surviving treadwheel cranes in northern Europe. The current structure dates from 1797, but a crane on this spot is documented as far back as 1346, when it was used to load barrels of salt — and later wine, herring, copper and iron — onto barges bound down the Ilmenau and the Elbe to Hamburg and the wider Hanseatic trade network.

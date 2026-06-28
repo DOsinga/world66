@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Onze Lieve Vrouwetoren
 type: poi
+score: 8.0
 ---
 
 The Lange Jan (Tall John) rises above the Lieve Vrouwekerkhof square and is the focal point of the city. The tower resembles the Dom tower in Utrecht in form and construction — both were built detached from their churches, though in Amersfoort's case the church is no longer there to be detached from. You can climb the tower for views over the old city and the surrounding countryside.

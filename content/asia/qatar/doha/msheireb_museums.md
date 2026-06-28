@@ -8,6 +8,7 @@ latitude: 25.2864
 longitude: 51.5302
 story: >
   The Msheireb district was the old commercial heart of Doha — a dense neighbourhood of coral-and-gypsum merchant houses that was bulldozed in the 1970s. Four of those original houses were restored and now serve as museums, sitting incongruously at the edge of a vast new development that is itself trying to reconstruct something of the old urbanism.
+score: 8.4
 ---
 
 Four restored merchant houses in the Msheireb neighbourhood form a cluster of small museums covering different aspects of Qatari history and identity. The Mohammed bin Jassim House covers traditional architecture and domestic life; Bin Jelmood House — one of the most compelling — deals directly with Qatar's history in the Indian Ocean slave trade. The Company House and Radwani House complete the quartet.

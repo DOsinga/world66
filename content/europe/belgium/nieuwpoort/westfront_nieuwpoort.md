@@ -7,6 +7,7 @@ tags:
 snippet: "First World War interpretation centre beneath the King Albert I monument"
 latitude: 51.1361
 longitude: 2.7556
+score: 8.6
 ---
 
 Westfront is the visitor centre and museum built into the base of the King Albert I monument. It tells the story of the flooding of the IJzer plain in October 1914 — how the lock-keeper Karel Cogge and a small group of engineers identified which sluices to open at high tide to drown the front line, and how the resulting strip of shallow water held the Germans back for four years.

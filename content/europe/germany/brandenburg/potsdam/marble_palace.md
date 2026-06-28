@@ -16,6 +16,7 @@ story: >
   the palace returned to its original appearance.
 sources:
   - https://en.wikipedia.org/wiki/Marble_Palace_(Potsdam)
+score: 8.1
 ---
 
 The Marble Palace sits on the shore of the Heiliger See in the Neuer Garten — a small, elegant neoclassical building faced in Silesian marble, designed by Carl von Gontard in the 1780s for Frederick William II. It is one of the more intimate of the Potsdam palaces, with rooms on a human scale and a lovely position directly above the water. The upper storey was added later by Schinkel, giving the building a slightly awkward but charming two-storey form.

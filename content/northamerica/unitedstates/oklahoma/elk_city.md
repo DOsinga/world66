@@ -4,13 +4,15 @@ done:
   location_enrich: '2026-05-21'
 latitude: 35.412
 longitude: -99.404
+snippet: Western Oklahoma Route 66 town with oil-boom streets and a multi-building
+  Mother Road museum.
 title: Elk City
 type: location
-score: 0.29
+score: 5.67
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Elk_City,_Oklahoma
-  - https://en.wikipedia.org/wiki/National_Route_66_Museum
+- https://en.wikipedia.org/wiki/Elk_City,_Oklahoma
+- https://en.wikipedia.org/wiki/National_Route_66_Museum
 ---
 
 Elk City is a town of about 12,000 people in western [Oklahoma](/northamerica/unitedstates/oklahoma), sitting on Historic Route 66 at the intersection of I-40 and US-283. For Route 66 travelers, it is one of the better stops along the Oklahoma stretch, thanks mainly to the [National Route 66 Museum](/northamerica/unitedstates/oklahoma/elk_city/national_route_66_museum) complex. The museum covers not just the Mother Road but also the broader history of the region, with separate buildings dedicated to Old Town life, farm and ranch culture, blacksmithing, and transportation. A giant kachina figure out front marks the spot.

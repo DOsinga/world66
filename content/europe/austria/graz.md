@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Graz_(35932179023).jpg
 latitude: 47.0709
 loc_type: city
 longitude: 15.4383
-score: 0.65
+score: 8.94
+snippet: Austrian university city with a walkable old town, Schlossberg clock tower,
+  and historic armoury.
 title: Graz
 type: location
 ---

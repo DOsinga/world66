@@ -15,6 +15,7 @@ story: >
   architecture for repelling cannon fire. The lighthouse on the northern rampart
   was added in 1788 and is one of the oldest working lighthouses in the
   Mediterranean.
+score: 7.3
 ---
 
 Forte Stella sits on the eastern promontory above the old town, its star-shaped plan still complete and walkable. The walls and bastions enclose a small parade ground and the lighthouse, all in the pale yellow plaster typical of Medici military architecture. The walk along the upper ramparts gives one of the best 360-degree views on Elba: the harbour and Cosmopoli below, the Piombino channel and the mainland to the east, and the wooded slopes of Capo Pero to the north.

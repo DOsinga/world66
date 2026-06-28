@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.4500
 longitude: -8.6500
+score: 6.8
 ---
 
 Jalay's Town is the main ranger station and visitor base for Sapo National Park, on the northern edge of the protected area. From here, FDA rangers and SCNL-trained guides lead trekking expeditions into the forest, typically of two to five days, sleeping at basic forest camps with hammocks and tarps.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 This small pavilion in the Quadrangle is one of the more enchanting buildings on the site: a tiny stone platform surrounded by eight delicately carved columns shaped like the stems of lotus plants, each one twisting up to a stylised flower-bud capital. The pavilion was built by King Nissanka Malla in the late twelfth century to chant the sacred Buddhist texts before the Tooth Relic.

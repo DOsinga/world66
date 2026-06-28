@@ -1,22 +1,24 @@
 ---
-title: Western Samoa
-type: location
-latitude: -13.76939
-longitude: -172.12005
-image: westernsamoa.jpg
-image_source: https://commons.wikimedia.org/wiki/File:View_at_Salelologa_wharf_-_Samoa_2009.jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/54205326@N00">Sarah
-  Kelemen</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "200,000"
-  Drives On: Left
-  Date Line Switch: "Jumped forward a whole day in 2011"
-  Volcanic Islands: "Only 2 of 9 are inhabited"
-score: 0.53
+image: westernsamoa.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/54205326@N00">Sarah
+  Kelemen</a>
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:View_at_Salelologa_wharf_-_Samoa_2009.jpg
+latitude: -13.76939
 loc_type: country
+longitude: -172.12005
+quick_facts:
+  Date Line Switch: Jumped forward a whole day in 2011
+  Drives On: Left
+  Population: 200,000
+  Volcanic Islands: Only 2 of 9 are inhabited
+score: 0.47
+snippet: Independent Pacific island country of forested mountains, lava fields, waterfalls,
+  blowholes, and coconut plantations.
+title: Western Samoa
+type: location
 ---
 
 The Samoa Islands are located in the Pacific Ocean. Western Samoa is an independent country. [American Samoa](/australiaandpacific/americansamoa) is part of the United States. Both groups of islands were discoverd by the same ecplorer Jacon Roggeveen and share one culture. 

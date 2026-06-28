@@ -9,6 +9,7 @@ latitude: 55.6136
 longitude: -2.4311
 sources:
   - https://en.wikipedia.org/wiki/Kelso_Racecourse
+score: 5.8
 ---
 
 Kelso Racecourse, about a mile north of the town centre, has been hosting National Hunt racing since 1823 when the Duke of Roxburghe prepared the ground at Berry Moss and laid the foundation stone himself. It is a tight, left-handed circuit — not a track for front-runners — and the racing is honest rather than glamorous. It has been voted Britain's friendliest racecourse more than once, which is both a modest claim and a true one.

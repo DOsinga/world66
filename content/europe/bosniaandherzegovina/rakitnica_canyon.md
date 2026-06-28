@@ -1,10 +1,14 @@
 ---
-title: Rakitnica Canyon
-type: location
 done:
   location_cleanup: 2026-04-06
-score: 0.49
+latitude: 43.58
 loc_type: region
+longitude: 18.08
+score: 0.49
+snippet: Wild Bosnian canyon of narrow water, steep approaches, and small-scale summer
+  canyoning trips.
+title: Rakitnica Canyon
+type: location
 ---
 
 Travel Guide

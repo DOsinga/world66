@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 42.4500
 longitude: -76.5044
+score: 5.7
 ---
 
 A hands-on science museum on First Street, built largely by volunteers and now one of the better small-city science centres in the country. The exhibits run the usual range — water tables, optical illusions, animal corner — but with a sharper edge than most, reflecting the Cornell talent pool that has helped staff it for decades.

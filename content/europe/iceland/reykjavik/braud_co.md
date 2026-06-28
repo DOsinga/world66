@@ -8,6 +8,7 @@ tags:
   - eating_out
   - bars_and_cafes
 snippet: Cult sourdough and cinnamon-bun bakery in a graffiti-covered house behind Hallgrímskirkja
+score: 7.3
 ---
 
 A small bakery in a brightly graffiti-painted house just down the hill from Hallgrímskirkja, Brauð & Co bakes everything on-site each morning using long-fermented sourdough. The cinnamon snail (snúður) is the local favourite and is usually sold out by mid-afternoon; the rye-and-treacle bread is dense and excellent.

@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_the_Bulge
   - https://www.bastognewarmuseum.be
+score: 8.9
 ---
 
 The Bastogne War Museum is one of the finest military history museums in Western Europe, opened in 2014 on the site of the old Historical Center. The building itself is architecturally striking — a star-shaped structure embedded in the hillside near the Mardasson Memorial — and the interior makes full use of immersive design. Rather than a conventional display of vehicles and artifacts, the museum builds its narrative through four parallel stories: a Belgian civilian, an American soldier, a German soldier, and a Luxembourg refugee, each experiencing the Battle of the Bulge from their own vantage point.

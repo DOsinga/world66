@@ -13,6 +13,7 @@ story: >
   the warmest on Norway's coast in summer — the shallow bays between the islands heat up faster
   than the open sea, and July water temperatures regularly reach 20°C or above, turning the
   skerries into one of the most popular summer destinations in Telemark.
+score: 9.0
 ---
 
 The archipelago surrounding Kragerø consists of hundreds of islands and skerries, ranging from large inhabited islands like Jomfruland to tiny bare rock outcrops where seabirds nest. In summer the waterways fill with boats — everything from kayaks to expensive motor yachts — and the culture of the coastal summer is deeply embedded in Norwegian life here. Families arrive by boat and spend weeks on island cabins; harbours like Portør to the south fill up entirely by mid-July.

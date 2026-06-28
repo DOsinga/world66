@@ -4,10 +4,12 @@ latitude: 41.378764
 longitude: 2.180736
 opening_hours: Mon–Fri noon–4pm, 8pm–midnight; Sat–Sun noon–midnight
 price_range: €10–20
+score: 7.4
 snippet: Galician pulpería near the port, best for pulpo and grilled seafood
 tags:
 - eating_out
 - restaurant
+- barceloneta
 title: Bar Celta Pulpería
 type: poi
 ---

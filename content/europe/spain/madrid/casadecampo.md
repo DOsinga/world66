@@ -1,11 +1,13 @@
 ---
-title: "Casa de Campo"
-type: poi
-latitude: 40.4180
+latitude: 40.418
 longitude: -3.7474
+score: 7.6
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
+- arguelles
+title: Casa de Campo
+type: poi
 ---
 
 Madrid's biggest park — 1,700 hectares of pine forest, scrub, and trails on the western edge of the city, more than five times the size of Hyde Park. The Casa de Campo was a royal hunting estate from the 16th century until 1931, when the new Republican government opened it to the public. The southern half is still semi-wild, with deer, wild boar, and good walking and cycling.

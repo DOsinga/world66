@@ -11,6 +11,7 @@ story: >
   The 22-dome Church of the Transfiguration on Kizhi Island was built in 1714 — allegedly by a carpenter named Nestor who, upon completing it, threw his axe into the lake and declared that no one would ever build its equal. The church was assembled without a single metal nail, using only interlocking logs and wooden pegs. It has stood for more than 300 years.
 sources:
   - https://en.wikipedia.org/wiki/Kizhi_Island
+score: 9.5
 ---
 
 Kizhi Island is one of the great sights of Russia, and the main reason most travellers come to Petrozavodsk. The island is an open-air museum of wooden architecture on Lake Onega, but calling it a museum undersells it — this is a genuine, extraordinary landscape of domed churches, windmills, and traditional farmhouses assembled from different parts of Karelia, set on a flat island surrounded by the vast northern lake.

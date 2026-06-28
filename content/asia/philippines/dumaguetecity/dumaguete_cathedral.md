@@ -14,6 +14,7 @@ story: >
   Visayan coastal settlements were a persistent threat for centuries, and nearly
   every significant Spanish-era church in the Philippines has a fortified tower
   that tells the same story.
+score: 6.8
 ---
 
 The Cathedral Parish of Saint Catherine of Alexandria is Dumaguete's main Catholic church, standing on the central plaza in the heart of the old town. The present building dates from the 19th century, though there has been a church on this site since the early Spanish colonial period. The Baroque-influenced facade and the detached bell tower that stands beside it are among the most photographed landmarks in the city.

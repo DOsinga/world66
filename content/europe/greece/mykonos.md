@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mykonos_(2).jpg
 latitude: 37.4454
 loc_type: city
 longitude: 25.3287
-score: 0.88
+score: 9.43
+snippet: Cycladic island of whitewashed lanes, protected architecture, beach clubs,
+  and boat trips to Delos
 title: Mykonos
 type: location
 ---

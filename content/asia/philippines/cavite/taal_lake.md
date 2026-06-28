@@ -12,6 +12,7 @@ story: >
   middle of the lake — is a much younger structure built up inside the old caldera.
   The entire system has erupted more than 30 times since 1572, making it one of the
   most historically active volcanoes in the Philippines.
+score: 7.1
 ---
 
 Taal Lake lies at the foot of the Tagaytay ridge and is accessible from the lakeshore town of Talisay, about thirty minutes below the Tagaytay viewpoints. Bancas (outrigger boats) ferry visitors across to Taal Volcano Island for the hike to the crater. The lake itself covers about 23 square kilometres and is a freshwater body despite being an ancient marine environment — a small population of freshwater sardines unique to the lake was historically fished here, though stocks have declined.

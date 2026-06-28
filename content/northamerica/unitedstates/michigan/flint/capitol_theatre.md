@@ -8,6 +8,7 @@ tags:
 latitude: 43.0153
 longitude: -83.68885
 address: "140 East 2nd Street, Flint, MI 48502"
+score: 7.1
 ---
 
 A 1928 atmospheric movie palace in downtown Flint, designed by John Eberson — the architect behind some of the great American cinema houses of the silent-film era. The Capitol's interior recreates an outdoor Italian courtyard, with twinkling stars and moving clouds painted on the ceiling above a balcony framed by stone arches and faux statuary.

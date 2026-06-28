@@ -1,13 +1,15 @@
 ---
-title: Grand Canal Shoppes
-type: poi
 address: 3377 Las Vegas Blvd South
 latitude: 36.1212
 longitude: -115.1696
-snippet: "Venice-themed mall with indoor canals and gondoliers"
+score: 5.3
+snippet: Venice-themed mall with indoor canals and gondoliers
 tags:
 - shopping
 - center_strip
+- the_strip
+title: Grand Canal Shoppes
+type: poi
 ---
 
 The Grand Canal Shoppes is the indoor mall inside the Venetian and Palazzo. The defining feature is the working canal system — gondoliers in striped shirts sing arias as they punt tourists through narrow waterways under a painted-sky ceiling. Even if you do not ride, walking the canal-side passages is one of the most surreal experiences on the Strip.

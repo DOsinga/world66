@@ -11,6 +11,7 @@ story: >
   the Shiva stands 12 metres tall, the Parvati slightly smaller. They were installed in 2001 and have since
   become one of the most photographed landmarks in Vizag, featuring on every local tourism brochure alongside
   the submarine museum and RK Beach.
+score: 7.5
 ---
 
 Kailasagiri is a hilltop park on the northern headland of Visakhapatnam, accessible by road or by a ropeway cable car that climbs from the base near the beach. At the top, the views are the thing: on a clear day you can see the entire arc of coastline from RK Beach to Rushikonda, with the Eastern Ghats rising inland and the Bay of Bengal spreading east. The giant Shiva and Parvati statues are the obvious focal point, but the hilltop garden and the viewpoints around the rim are worth walking.

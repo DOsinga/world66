@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6757
 longitude: -122.2010
+score: 6.4
 ---
 
 The Kirkland Performance Center is the main performing arts venue on the Eastside, a 400-seat theatre presenting music, theatre, comedy, and dance throughout the year. The programming mixes national touring acts with local companies and regional performers, and the intimate size means there is not a bad seat in the house.

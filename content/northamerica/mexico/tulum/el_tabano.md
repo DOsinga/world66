@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - zona_hotelera
+score: 7.2
 ---
 
 A quieter, less photographed neighbour to Hartwood and Arca, El Tábano has been on the beach road for over a decade and has built a steady reputation for thoughtful contemporary Mexican cooking without the international fanfare. The menu changes weekly: seared tuna with chiltomate, chayote with epazote, slow-cooked lamb with mole.

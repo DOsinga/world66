@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
 latitude: 43.9723
 longitude: 12.7205
+score: 5.7
 ---
 
 The Porto Verde marina at the southern edge of Misano Adriatico accommodates over a thousand pleasure boats in a well-maintained modern harbour. The marina complex includes the expected infrastructure — fuel, chandlery, repair facilities — alongside a strip of restaurants, cafes, and bars along the harbour front that are the most pleasant places to eat and drink in the area.

@@ -1,9 +1,12 @@
 ---
+latitude: 7.4256
+loc_type: country
+longitude: 150.5508
+score: 0.41
+snippet: Scattered western Pacific island country of Yap, Chuuk, Pohnpei, and Kosrae,
+  linked by reefs and deep traditions
 title: Micronesia, Federated States of
 type: location
-loc_type: country
-latitude: 7.4256
-longitude: 150.5508
 ---
 
 The Federated States of Micronesia is four very different island states scattered across an enormous stretch of the western Pacific. [Yap](/australiaandpacific/micronesiafederatedstatesof/yap), [Chuuk](/australiaandpacific/micronesiafederatedstatesof/chuuk), [Pohnpei](/australiaandpacific/micronesiafederatedstatesof/pohnpei), and [Kosrae](/australiaandpacific/micronesiafederatedstatesof/kosrae) share a federal government but little else — each has its own language, culture, and character, and each rewards a separate visit.

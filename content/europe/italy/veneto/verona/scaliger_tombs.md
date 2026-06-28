@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Scaliger Tombs (Arche Scaligere)
 type: poi
+score: 7.9
 ---
 
 Five elaborate Gothic sarcophagi built for the Scaligeri — Verona's ruling family from 1262 to 1387 — standing outside the church of Santa Maria Antica in the heart of the old city. Each tomb is a miniature fortress of carved stone: gothic pinnacles, equestrian figures, reliefs of saints and knights. The grandest is that of Cangrande I (died 1329), with a replica of his famous grinning equestrian statue on top (the original is in Castelvecchio). Together they form one of the finest examples of medieval funerary art in Italy. Viewable from the street at any time; entry into the enclosure costs a small fee.

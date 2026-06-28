@@ -9,6 +9,7 @@ latitude: 34.5418
 longitude: -112.4678
 sources:
   - https://en.wikipedia.org/wiki/Elks_Building_and_Theater
+score: 7.5
 ---
 
 The Elks Theater is a classically designed opera house from 1905, seating around 550, and still used for performances today. The building is one of the handsomest in downtown Prescott — a three-storey brick structure with ornate classical detailing on the facade and a well-preserved interior that includes the original balcony and decorative plasterwork.

@@ -1,199 +1,199 @@
 {
   "round": 645,
-  "timestamp": "2026-04-12T10:41:08",
+  "timestamp": "2026-06-13T19:46:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kreuzberg",
-      "path": "europe/germany/berlin/kreuzberg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -2.6981,
+      "prior_variance": 1.103873,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Mainz",
-      "path": "europe/germany/rhinelandpalatinate/mainz",
-      "prior_mu": 22.6369,
-      "prior_sigma": 5.7957,
-      "prior_n": 1
-    },
-    {
-      "rank": 3,
-      "title": "R\u00fcdesheim",
-      "path": "europe/germany/hesse/rudesheim",
-      "prior_mu": 21.7488,
-      "prior_sigma": 4.5377,
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -4.675,
+      "prior_variance": 0.908739,
       "prior_n": 2
     },
     {
+      "rank": 3,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": -2.8256,
+      "prior_variance": 0.632683,
+      "prior_n": 3
+    },
+    {
       "rank": 4,
-      "title": "Marburg",
-      "path": "europe/germany/hessen/marburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -3.5894,
+      "prior_variance": 1.196101,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Quedlinburg",
-      "path": "europe/germany/saxonyanhalt/quedlinburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -5.0881,
+      "prior_variance": 0.652606,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "G\u00f6rlitz",
-      "path": "europe/germany/grlitz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -4.1215,
+      "prior_variance": 0.760593,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Steingaden",
-      "path": "europe/germany/bavaria/romanticroad/steingaden",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -2.4514,
+      "prior_variance": 1.28335,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Freudenstadt",
-      "path": "europe/germany/badenwrttemberg/freudenstadt",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -3.2055,
+      "prior_variance": 1.206849,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Murnau am Staffelsee",
-      "path": "europe/germany/murnau_am_staffels",
-      "prior_mu": 22.8239,
-      "prior_sigma": 5.7141,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -2.8264,
+      "prior_variance": 1.230568,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Nurburgring",
-      "path": "europe/germany/rhinelandpalatinate/nurburgring",
-      "prior_mu": 21.4845,
-      "prior_sigma": 4.569,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -3.6232,
+      "prior_variance": 0.711878,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Naumburg",
-      "path": "europe/germany/thuringia/naumburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -4.3235,
+      "prior_variance": 1.322808,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Jena",
-      "path": "europe/germany/thuringia/jena",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -8.3909,
+      "prior_variance": 0.604777,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Halle",
-      "path": "europe/germany/saxonyanhalt/halle",
-      "prior_mu": 21.6246,
-      "prior_sigma": 4.5504,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -7.5935,
+      "prior_variance": 0.700083,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Darmstadt",
-      "path": "europe/germany/hessen/darmstadt",
-      "prior_mu": 21.545,
-      "prior_sigma": 4.0648,
-      "prior_n": 3
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -4.8268,
+      "prior_variance": 0.776913,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Oberhof",
-      "path": "europe/germany/thuringia/oberhof",
-      "prior_mu": 21.7633,
-      "prior_sigma": 4.8385,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -8.1481,
+      "prior_variance": 0.99012,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Neubrandenburg",
-      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
-      "prior_mu": 22.2722,
-      "prior_sigma": 5.9425,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -3.8315,
+      "prior_variance": 1.429766,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Eckernf?rde",
-      "path": "europe/germany/schleswigholstein/eckernfrde",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -7.9684,
+      "prior_variance": 1.494026,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Sinsheim",
-      "path": "europe/germany/badenwrttemberg/sinsheim",
-      "prior_mu": 22.8215,
-      "prior_sigma": 5.4829,
-      "prior_n": 1
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -6.961,
+      "prior_variance": 0.94194,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Marktl am Inn",
-      "path": "europe/germany/bavaria/marktl_am_inn",
-      "prior_mu": 22.2863,
-      "prior_sigma": 5.913,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -9.8762,
+      "prior_variance": 1.331588,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Sonneberg",
-      "path": "europe/germany/thuringia/sonneberg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/santaclarita",
+      "prior_score": -7.8606,
+      "prior_variance": 0.892391,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Lippstadt",
-      "path": "europe/germany/northrhinewestphalia/lippstadt",
-      "prior_mu": 22.6122,
-      "prior_sigma": 5.7252,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -9.2661,
+      "prior_variance": 1.324484,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Engelskirchen",
-      "path": "europe/germany/northrhinewestphalia/engelskirchen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -8.6899,
+      "prior_variance": 1.367588,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Lower saxony",
-      "path": "europe/germany/lowersaxony",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -8.6571,
+      "prior_variance": 1.059206,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "schallodenbach",
-      "path": "europe/germany/rhinelandpalatinate/schallodenbach",
-      "prior_mu": 13.8555,
-      "prior_sigma": 5.6545,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -7.1798,
+      "prior_variance": 1.152497,
       "prior_n": 2
     }
   ]

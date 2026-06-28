@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_NY_View.jpg
 latitude: 42.936223
 loc_type: city
 longitude: -74.190582
-score: 0.32
+score: 5.6
+snippet: Mohawk River city in upstate New York, marked by faded carpet-mill grandeur
+  and canal-era streets
 title: Amsterdam
 type: location
 ---

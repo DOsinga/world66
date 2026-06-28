@@ -5,6 +5,7 @@ latitude: 52.7401
 longitude: 6.0759
 snippet: "A restored 19th-century farmhouse museum explaining the peat-cutting origins of the village"
 tags: [things_to_do, museum]
+score: 7.3
 ---
 
 The Museumboerderij is a restored 19th-century farmhouse that tells the story of the community that built Giethoorn — the peat-cutters who dug the canals, built the islands, and shaped the landscape over several centuries. It is a small museum, but a useful one: understanding what the village originally was for makes the canal system and the architecture make much more sense.

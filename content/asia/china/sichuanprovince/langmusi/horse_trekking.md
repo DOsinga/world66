@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 34.1100
 longitude: 102.6000
+score: 8.8
 ---
 
 Horse trekking from Langmusi into the surrounding plateau is the experience that many travellers cite as their most memorable in the region. Horses and guides can be arranged through guesthouses in the village, and trips range from half-day rides into the grasslands to three-day expeditions with overnight stays in nomadic tents. The multi-day trips are the more rewarding: the grassland landscape that begins just beyond the village extends uninterrupted to the horizon, and the experience of spending a night on the open plateau with a Tibetan nomadic family has a quality that no day trip can replicate.

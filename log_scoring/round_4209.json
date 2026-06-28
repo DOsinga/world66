@@ -1,0 +1,200 @@
+{
+  "round": 4209,
+  "timestamp": "2026-06-13T23:54:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_score": 9.2413,
+      "prior_variance": 0.195112,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 5.3242,
+      "prior_variance": 0.12178,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 6.4512,
+      "prior_variance": 0.12666,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 5.4671,
+      "prior_variance": 0.110825,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 5.581,
+      "prior_variance": 0.127818,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_score": 4.3315,
+      "prior_variance": 0.128703,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.3684,
+      "prior_variance": 0.098742,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.7626,
+      "prior_variance": 0.118651,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 2.9083,
+      "prior_variance": 0.107735,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Mangawhai Heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.6066,
+      "prior_variance": 0.103192,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.5179,
+      "prior_variance": 0.098744,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.4198,
+      "prior_variance": 0.088389,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.4101,
+      "prior_variance": 0.113931,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": -1.627,
+      "prior_variance": 0.100363,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 0.1364,
+      "prior_variance": 0.109202,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -3.2599,
+      "prior_variance": 0.125533,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_score": -3.0309,
+      "prior_variance": 0.136394,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.7499,
+      "prior_variance": 0.097202,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -1.9447,
+      "prior_variance": 0.103135,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -2.1202,
+      "prior_variance": 0.105876,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.6333,
+      "prior_variance": 0.108175,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -4.6131,
+      "prior_variance": 0.112294,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -4.4226,
+      "prior_variance": 0.111273,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -6.027,
+      "prior_variance": 0.150081,
+      "prior_n": 14
+    }
+  ]
+}

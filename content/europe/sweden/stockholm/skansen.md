@@ -2,8 +2,8 @@
 address: Djurgården
 done:
   poi_cleanup: '2026-04-20'
-latitude: 59.325168
-longitude: 18.121606
+latitude: 59.3266228
+longitude: 18.1052823
 phone: +46 (0)8 442 82 80
 snippet: World's first open-air museum with Nordic wildlife and historic buildings
 tags:
@@ -15,6 +15,7 @@ tags:
 - djurgarden
 title: Skansen
 type: poi
+score: 9.1
 ---
 
 The world's first open-air museum, founded in 1891 by Artur Hazelius to preserve a vanishing rural Sweden. Over 150 historic buildings — farmsteads, workshops, a church, a school — were moved here from across the country, staffed by costumed interpreters who demonstrate traditional crafts like glassblowing, bread-baking, and printing.

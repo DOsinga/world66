@@ -5,6 +5,7 @@ tags: [things_to_do, historic, sight]
 latitude: 38.65533
 longitude: -27.221027
 story: "The cathedral took 78 years to build, begun in 1570 and only completed in 1647 — partly because an earthquake damaged the partially-built structure in 1614. King Philip II of Spain (Philip I of Portugal during the Iberian Union) contributed funds, which must have felt awkward given that Angra was the main centre of Portuguese resistance to his rule."
+score: 8.0
 ---
 
 The Sé Catedral de Angra do Heroísmo is the oldest cathedral in the Azores, built when Angra was the administrative capital of the entire archipelago and the main stopping point for the Atlantic fleets. The building reflects this moment of importance: the proportions are serious, the stonework is fine, and the interior contains accumulated centuries of ecclesiastical art and furnishings. The carved wooden choir stalls are the standout piece — intricate 17th-century work that survived the 1980 earthquake that damaged much of the city.

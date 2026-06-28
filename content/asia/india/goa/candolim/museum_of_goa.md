@@ -8,6 +8,7 @@ tags:
   - museum
   - art
 snippet: "Private contemporary art gallery a short ride inland from the beach."
+score: 7.8
 ---
 
 A 15-minute tuk-tuk ride east of Candolim, the Museum of Goa (MOG) is a privately run contemporary art space set in the rather unglamorous Pilerne Industrial Estate. Don't be put off by the location — inside it is a serious, well-curated three-storey gallery showing established and emerging Indian artists.

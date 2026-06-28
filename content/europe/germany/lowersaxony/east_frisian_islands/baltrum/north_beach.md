@@ -1,4 +1,7 @@
 ---
+latitude: 53.7331
+longitude: 7.3977
+score: 8.2
 snippet: A broad sandy beach running the full length of the island's north shore
 tags:
 - things_to_do

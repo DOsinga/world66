@@ -8,6 +8,7 @@ latitude: 38.7166
 longitude: -75.0758
 story: >
   Rehoboth Beach earned its nickname "The Nation's Summer Capital" not because of any official designation but because so many Washington politicians, staffers, and lobbyists have been coming here for generations that the social dynamics of the capital city visibly reconvene on the boardwalk. Deals have reportedly been made here that never appeared in any official record.
+score: 8.5
 ---
 
 The boardwalk at Rehoboth Beach runs for one mile along the Atlantic, and it is the heart of the town's summer life. Thrasher's french fries — served in paper cups with vinegar, never ketchup, according to local orthodoxy — have been sold here since 1929. Grotto Pizza, Dolle's saltwater taffy, and Johnson's Popcorn are the other institutions, all operating from the same positions they have occupied for decades.

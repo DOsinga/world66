@@ -5,7 +5,9 @@ done:
 latitude: 42.434234
 loc_type: city
 longitude: -71.609774
-score: 0.33
+score: 6.13
+snippet: Rural Massachusetts town in apple country, visited for orchards, farm stands,
+  and quiet hills west of Boston
 title: Bolton
 type: location
 ---

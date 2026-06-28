@@ -1,0 +1,200 @@
+{
+  "round": 4620,
+  "timestamp": "2026-06-14T00:27:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 7.7707,
+      "prior_variance": 0.168032,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 8.8631,
+      "prior_variance": 0.163982,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 4.9718,
+      "prior_variance": 0.115362,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 4.2122,
+      "prior_variance": 0.088676,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 4.0106,
+      "prior_variance": 0.106372,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 2.5277,
+      "prior_variance": 0.104849,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.4455,
+      "prior_variance": 0.093031,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 0.5875,
+      "prior_variance": 0.095776,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": -0.8622,
+      "prior_variance": 0.094807,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -1.8992,
+      "prior_variance": 0.098575,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": -0.951,
+      "prior_variance": 0.092849,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.3986,
+      "prior_variance": 0.090429,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.6592,
+      "prior_variance": 0.106306,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -2.1832,
+      "prior_variance": 0.088499,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -1.5256,
+      "prior_variance": 0.092828,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -2.1516,
+      "prior_variance": 0.092361,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -1.6047,
+      "prior_variance": 0.093909,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -3.0185,
+      "prior_variance": 0.094071,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -1.8917,
+      "prior_variance": 0.114454,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -2.9244,
+      "prior_variance": 0.103541,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -4.4236,
+      "prior_variance": 0.105059,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -4.4801,
+      "prior_variance": 0.108797,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -5.5603,
+      "prior_variance": 0.134649,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -7.0105,
+      "prior_variance": 0.156438,
+      "prior_n": 14
+    }
+  ]
+}

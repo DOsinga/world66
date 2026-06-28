@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 37.1040
 longitude: 25.3760
+score: 7.3
 ---
 
 Bourgos is the Orthodox Greek quarter that developed at the foot of the Venetian Kastro — a lower old town of narrow lanes, whitewashed houses, and small Byzantine churches that contrasts with the Latin formality of the district above. During the centuries of Venetian rule, the Greek population of Hora largely lived here, outside the castle walls, while the Catholic nobility occupied the Kastro. The boundary was social and religious as much as architectural.

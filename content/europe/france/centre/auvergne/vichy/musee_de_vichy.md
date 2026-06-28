@@ -6,6 +6,7 @@ latitude: 46.1244
 longitude: 3.4283
 sources:
   - https://en.wikipedia.org/wiki/Vichy
+score: 7.7
 ---
 
 The Musée Municipal de Vichy, housed in the Hôtel de Ville complex, covers the city's history across several distinct phases: the nineteenth-century development of the spa resort, life under the Vichy regime, and the postwar period. The permanent collection includes fine art, decorative objects from the spa era, and historical documents, but the section dealing with the Vichy government (1940–44) is the most significant part of the visit.

@@ -3,10 +3,12 @@ address: Via della Lungaretta, 76
 latitude: 41.8894
 longitude: 12.4747
 phone: 06 5894430
+score: 6.1
+snippet: Cocktail bar and tea room in the heart of Trastevere
 tags:
 - bars_and_cafes
 - bar
-snippet: Cocktail bar and tea room in the heart of Trastevere
+- trastevere
 title: Traste
 type: poi
 url: www.traste.it

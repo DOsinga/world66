@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.376
 longitude: 2.1748
+score: 5.8
 snippet: Fairy-tale themed bar inside Barcelona's wax museum
 tags:
 - bars_and_cafes
+- gothic_quarter
 title: El Bosque de Fades
 type: poi
 ---

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherchen_Man_mummy_in_XUAR
 latitude: 38.138
 loc_type: city
 longitude: 85.5287
+score: 4.8
+snippet: Southern Silk Road oasis town on the Taklamakan edge, linked to Jade Road
+  history
 sources:
 - https://en.wikivoyage.org/wiki/Cherchen
 title: Cherchen

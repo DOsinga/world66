@@ -6,15 +6,17 @@ latitude: 33.952847
 longitude: -84.549615
 title: Marietta
 type: location
+snippet: Cobb County city northwest of Atlanta, centred on a preserved historic square
+  and Glover Park.
 image: marietta.jpg
 image_source: https://www.flickr.com/photos/71428177@N00/2257174944
 image_license: CC BY-SA 2.0
 image_attribution: troutcolor on Flickr
-score: 0.39
+score: 6.39
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Kennesaw_Mountain_National_Battlefield_Park
-  - https://en.wikipedia.org/wiki/Marietta,_Georgia
+- https://en.wikipedia.org/wiki/Kennesaw_Mountain_National_Battlefield_Park
+- https://en.wikipedia.org/wiki/Marietta,_Georgia
 ---
 
 Marietta is the seat of Cobb County, about 20 miles northwest of Atlanta. The [Marietta Square](/northamerica/unitedstates/georgia/marietta/marietta_square) — antebellum buildings, boutique shops, restaurants, and Glover Park — is one of the best-preserved historic town centres in Georgia and a destination in its own right. The [Marietta Museum of History](/northamerica/unitedstates/georgia/marietta/marietta_museum_of_history) and the [Confederate Cemetery](/northamerica/unitedstates/georgia/marietta/confederate_cemetery) are a short walk from the square.

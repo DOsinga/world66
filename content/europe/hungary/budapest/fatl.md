@@ -2,11 +2,11 @@
 address: Váci utca 67
 latitude: 47.4891
 longitude: 19.0559
+score: 5.6
 snippet: Hearty Hungarian platters on Budapest's main tourist street
 tags:
 - eating_out
 - restaurant
-- gellert_hill
 title: Fatál
 type: poi
 ---

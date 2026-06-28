@@ -6,6 +6,7 @@ tags:
 - sight
 title: Jamia Mosque (Qasim Bela)
 type: poi
+score: 4.3
 ---
 
 The first mosque ever built in Multan was the **Jamia Mosque**, constructed on the orders of **Muhammad bin Qasim** after the Umayyad general's conquest of the city in 712 AD. It stood on the western edge of the old fort at **Qasim Bela** — the bank of the river Chenab — and was for centuries the symbolic anchor of Islamic Multan, one of the earliest mosques in the entire subcontinent.

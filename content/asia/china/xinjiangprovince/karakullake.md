@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gutman_Karakul_lake.jpg
 latitude: 38.43
 loc_type: feature
 longitude: 75.05
+score: 7.9
+snippet: High Pamir Plateau lake on the Karakoram Highway, ringed by snow peaks south
+  of Kashgar
 sources:
 - https://en.wikivoyage.org/wiki/Karakul_Lake
 title: Karakul Lake

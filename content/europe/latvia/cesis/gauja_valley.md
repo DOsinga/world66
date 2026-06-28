@@ -8,6 +8,7 @@ latitude: 57.3131
 longitude: 25.2747
 sources:
   - https://en.wikipedia.org/wiki/Gauja_National_Park
+score: 8.4
 ---
 
 Cesis sits at the edge of the Gauja National Park, Latvia's largest and most visited. The Gauja River has cut a steep valley through the sandstone plateau, creating a landscape of forested riverbanks, exposed sandstone cliffs, and hidden caves. Hiking trails start from the town itself and connect to longer routes through the park.

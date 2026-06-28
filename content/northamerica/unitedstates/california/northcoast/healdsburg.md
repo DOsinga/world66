@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Healdsburg_California,_201
 latitude: 38.610681
 loc_type: city
 longitude: -122.870138
-score: 0.54
+score: 7.78
+snippet: Sonoma wine town where Alexander, Dry Creek, and Russian River valleys meet
+  around a leafy plaza.
 title: Healdsburg
 type: location
 ---

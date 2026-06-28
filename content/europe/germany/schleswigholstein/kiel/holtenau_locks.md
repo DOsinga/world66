@@ -9,6 +9,7 @@ latitude: 54.3698
 longitude: 10.1529
 sources:
   - https://en.wikipedia.org/wiki/Kiel_Canal
+score: 8.1
 ---
 
 The Holtenau locks mark the Baltic entrance to the Kiel Canal, where ships are raised or lowered by about half a metre to match the different water levels of the Baltic and the canal. There are two pairs of locks — the older pair built in 1895 and a larger pair opened in 1914 — and they operate continuously around the clock, processing an average of 80 ships per day.

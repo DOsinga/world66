@@ -11,6 +11,7 @@ tags:
 - bar
 title: Footsies
 type: poi
+score: 6.0
 ---
 
 A small, unpretentious neighborhood bar in Highland Park that feels like a genuine local hangout rather than a scene. Excellent jukebox, pool table, and bartenders who actually talk to you. A good option when you need a break from the usual West Hollywood circuit. Cash only, and all the better for it.

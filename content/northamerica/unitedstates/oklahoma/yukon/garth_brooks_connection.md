@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.4986
 longitude: -97.7592
+score: 4.8
 ---
 
 Yukon is the hometown of Garth Brooks, one of the best-selling music artists in history and a defining figure of 1990s country music. Brooks grew up here and attended Yukon High School, where he played football and developed his musical interests before heading to Oklahoma State University.

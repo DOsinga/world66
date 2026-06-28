@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, seafood]
 latitude: 51.6809
 longitude: -9.4545
+score: 6.9
 ---
 
 A small upstairs dining room above the family fishmonger's shop on New Street, serving whatever was on the boats that morning. The chalkboard menu changes daily — Bantry Bay mussels, scallops from Dunmanus, hake, monkfish, the occasional crab — and the cooking is straight-up: pan-fried, grilled, or in a chowder, with potatoes and a green salad.

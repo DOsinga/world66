@@ -1,0 +1,200 @@
+{
+  "round": 3326,
+  "timestamp": "2026-06-13T22:45:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.721,
+      "prior_variance": 0.192574,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.1408,
+      "prior_variance": 0.149203,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.0474,
+      "prior_variance": 0.121414,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 1.9522,
+      "prior_variance": 0.136309,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.31,
+      "prior_variance": 0.131627,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -3.3803,
+      "prior_variance": 0.144112,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.4935,
+      "prior_variance": 0.118782,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.4382,
+      "prior_variance": 0.131437,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.4577,
+      "prior_variance": 0.13007,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.432,
+      "prior_variance": 0.14518,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.8355,
+      "prior_variance": 0.108554,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -3.0236,
+      "prior_variance": 0.127065,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -1.0941,
+      "prior_variance": 0.149328,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -2.5147,
+      "prior_variance": 0.141336,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -3.334,
+      "prior_variance": 0.155773,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -2.6848,
+      "prior_variance": 0.148559,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -3.2335,
+      "prior_variance": 0.131266,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -4.2455,
+      "prior_variance": 0.128909,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Jijel",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -3.4606,
+      "prior_variance": 0.127587,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -4.6153,
+      "prior_variance": 0.140405,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -5.8073,
+      "prior_variance": 0.16623,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -4.7576,
+      "prior_variance": 0.163848,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_score": -5.2464,
+      "prior_variance": 0.129131,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.5474,
+      "prior_variance": 0.206662,
+      "prior_n": 10
+    }
+  ]
+}

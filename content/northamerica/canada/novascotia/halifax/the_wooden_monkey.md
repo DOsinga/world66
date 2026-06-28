@@ -10,6 +10,7 @@ tags:
 title: The Wooden Monkey
 type: poi
 url: https://www.thewoodenmonkey.ca
+score: 5.4
 ---
 
 An organic restaurant sourcing from local farmers. Not strictly vegetarian, but that is their area of expertise. The menu changes with the seasons and everything tastes fresh.

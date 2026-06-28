@@ -1,199 +1,199 @@
 {
   "round": 364,
-  "timestamp": "2026-04-12T09:13:34",
+  "timestamp": "2026-06-13T19:31:45",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Belize Barrier Reef",
-      "path": "northamerica/belize/barrierreef",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon",
+      "prior_score": -5.559,
+      "prior_variance": 2.135878,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Chirrip\u00f3",
-      "path": "northamerica/costarica/chirripo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -2.2121,
+      "prior_variance": 2.842933,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Sal",
-      "path": "africa/capeverde/sal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -9.7152,
+      "prior_variance": 2.009874,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Orebi\u0107",
-      "path": "europe/croatia/peljesac/orebic",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -14.7622,
+      "prior_variance": 6.963433,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Castelsardo",
-      "path": "europe/italy/sardinia/castelsardo",
-      "prior_mu": 23.0188,
-      "prior_sigma": 5.6781,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -5.6321,
+      "prior_variance": 1.618679,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Grasmere",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/grasmere",
-      "prior_mu": 22.8026,
-      "prior_sigma": 5.9596,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -9.7592,
+      "prior_variance": 1.528123,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Sopot",
-      "path": "europe/poland/sopot",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_score": -7.8907,
+      "prior_variance": 1.349788,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "R\u00fcdesheim",
-      "path": "europe/germany/hesse/rudesheim",
-      "prior_mu": 22.4905,
-      "prior_sigma": 5.9084,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -8.5912,
+      "prior_variance": 2.670936,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Brescia",
-      "path": "europe/italy/lombardia/brescia",
-      "prior_mu": 22.4139,
-      "prior_sigma": 5.5288,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.9825,
+      "prior_variance": 1.744139,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Kenilworth",
-      "path": "europe/unitedkingdom/england/leicester_notting/kenilworth",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_score": -10.4812,
+      "prior_variance": 2.41122,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Szombathely",
-      "path": "europe/hungary/szombathely",
-      "prior_mu": 22.5066,
-      "prior_sigma": 5.911,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -7.9543,
+      "prior_variance": 1.595299,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Viipuri (Vyborg)",
-      "path": "europe/finland/viipuri",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -9.9419,
+      "prior_variance": 1.989627,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Silay",
-      "path": "asia/philippines/negrosisland/silay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -7.1473,
+      "prior_variance": 1.615882,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Warnem\u00fcnde",
-      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
-      "prior_mu": 22.1794,
-      "prior_sigma": 5.7655,
+      "title": "Ghat",
+      "path": "africa/libya/ghat",
+      "prior_score": -8.8445,
+      "prior_variance": 10.807518,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Valcea",
-      "path": "europe/romania/valcea",
-      "prior_mu": 22.2119,
-      "prior_sigma": 5.7752,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -9.9999,
+      "prior_variance": 9.740349,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Uzgen",
-      "path": "asia/kyrgyzstan/uzgen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -13.2392,
+      "prior_variance": 7.656105,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Teluk Dalam",
-      "path": "asia/indonesia/nias/teleuk_dalam",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -9.4555,
+      "prior_variance": 2.540736,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Cuttack",
-      "path": "asia/india/orissa/cuttack",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -7.651,
+      "prior_variance": 1.963314,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Sfax",
-      "path": "africa/tunisia/sfax",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -7.5407,
+      "prior_variance": 2.17457,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Altos Mirandinos",
-      "path": "southamerica/venezuela/altos_mirandinos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -11.4546,
+      "prior_variance": 3.325306,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Kuala Belait",
-      "path": "asia/brunei/kualabelait",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -14.5827,
+      "prior_variance": 7.034903,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Zufre",
-      "path": "europe/spain/andalucia/zufre",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -12.2274,
+      "prior_variance": 2.213576,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Queven",
-      "path": "europe/france/normandybrittany/queven",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -8.1342,
+      "prior_variance": 1.676071,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "lakewood",
-      "path": "northamerica/unitedstates/ohio/lakewood",
-      "prior_mu": 22.3659,
-      "prior_sigma": 5.8869,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -14.0308,
+      "prior_variance": 2.912817,
       "prior_n": 1
     }
   ]

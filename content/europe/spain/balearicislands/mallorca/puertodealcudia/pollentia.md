@@ -10,6 +10,7 @@ longitude: 3.1222
 snippet: Roman ruins of one of Mallorca's oldest cities, founded in 123 BC
 story: >
   When Roman general Quintus Caecilius Metellus conquered the Balearics in 123 BC, he founded two cities: Pollentia in the north and Palma in the south. Pollentia became the larger of the two, its theatre cut into a hillside that still stands almost intact — one of only two Roman theatres surviving in Spain. The city was sacked by the Vandals around 420 AD, after which the population retreated to higher ground and Pollentia was slowly buried. It wasn't excavated seriously until the 1920s, and work continues today.
+score: 7.9
 ---
 
 Pollentia sits just outside the walls of Alcudia, a short walk from the old town gate. The visible remains include the forum area, a residential quarter called Sa Portella, and the theatre — the theatre is the highlight, its stone seating cut directly into the natural slope of the hillside. It held around 2,000 people and was used for both performances and public assemblies. You can walk through freely and sit in the seats, which is rarer than it should be at Roman sites.

@@ -6,6 +6,7 @@ longitude: -1.075115
 tags:
   - things_to_do
   - park
+score: 5.8
 ---
 
 Eastrop Park is an attractive municipal park on the eastern edge of Basingstoke town centre, built around a winding artificial stream and a series of small lakes fed by the head of the River Loddon. The park has a paddling pool, an adventure playground, a small boating lake and a popular outdoor exercise course. On warm weekends it fills with families.

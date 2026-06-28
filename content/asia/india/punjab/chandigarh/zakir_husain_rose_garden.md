@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.8
 ---
 
 The Rose Garden in Sector 16 is the largest in Asia, a 30-acre walled park planted with 50,000 rose bushes representing some 1,600 varieties. At peak bloom in February and March the rows are saturated with colour and scent and the whole city seems to converge here in the afternoons. The annual Rose Festival, usually held in the last week of February, fills the park with displays, music and street food for three or four days.

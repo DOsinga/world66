@@ -8,6 +8,7 @@ tags:
 latitude: 52.1041
 longitude: 9.3599
 snippet: The best-preserved pair of Weser Renaissance townhouses, now a museum of the style
+score: 8.5
 ---
 
 The Leisthaus (1585) and the adjacent Stiftsherrenhaus (1558) form the finest ensemble of Weser Renaissance domestic architecture in Hameln. The two buildings now house the Museum Hameln, which presents the history of the town and the development of the Weser Renaissance architectural style with good displays and excellent examples of the original carved stonework.

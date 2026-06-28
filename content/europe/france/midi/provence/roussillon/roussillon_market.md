@@ -6,6 +6,7 @@ tags:
 - market
 title: Thursday Market
 type: poi
+score: 5.7
 ---
 
 A small farmers market runs on Thursday mornings in the village, with stalls selling local honey, lavender, goat cheese, Luberon olive oil, and seasonal produce. It is best visited early — by 10am the village starts filling with day visitors from Apt and further afield, and the market is more pleasant before the crowds arrive.

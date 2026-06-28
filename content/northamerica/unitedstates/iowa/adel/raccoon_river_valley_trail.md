@@ -8,6 +8,7 @@ latitude: 41.6160
 longitude: -94.0170
 sources:
   - https://en.wikipedia.org/wiki/Raccoon_River_Valley_Trail
+score: 7.8
 ---
 
 The Raccoon River Valley Trail is a 90-mile paved multi-use trail for cycling and walking that passes through Adel and connects a string of small towns across Dallas County. It is one of the finest rail-trail conversions in Iowa, running through farmland, river bottoms, and small-town centres in a route that feels far removed from the urban sprawl of Des Moines just 20 miles east.

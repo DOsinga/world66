@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%A1nhida,_K%C5%91hegyr
 latitude: 47.5838
 loc_type: city
 longitude: 18.398
-score: 0.37
+score: 6.24
+snippet: Northwestern Hungarian industrial city, overlooked by the huge Turul Monument
+  above the Tatabánya basin.
 title: Tatabánya
 type: location
 ---

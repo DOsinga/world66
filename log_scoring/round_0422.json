@@ -1,199 +1,199 @@
 {
   "round": 422,
-  "timestamp": "2026-04-12T09:30:11",
+  "timestamp": "2026-06-13T19:34:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Utah",
-      "path": "northamerica/unitedstates/utah",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/south_island/otago/wanaka",
+      "prior_score": 6.8496,
+      "prior_variance": 13.601811,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "New Mexico",
-      "path": "northamerica/unitedstates/newmexico",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 4.9526,
+      "prior_variance": 2.056175,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Appalachian Trail",
-      "path": "northamerica/unitedstates/apalachiantrail",
-      "prior_mu": 21.8139,
-      "prior_sigma": 4.5908,
-      "prior_n": 2
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 4.5413,
+      "prior_variance": 2.08398,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Fort Lauderdale",
-      "path": "northamerica/unitedstates/florida/fortlauderdale",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chilo\u00e9",
+      "path": "southamerica/chile/chiloe",
+      "prior_score": 3.6947,
+      "prior_variance": 1.948805,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Corning",
-      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
-      "prior_mu": 22.4975,
-      "prior_sigma": 5.9187,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 4.3771,
+      "prior_variance": 1.792927,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cape Lookout",
-      "path": "northamerica/unitedstates/northcarolina/capelookout",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 3.8975,
+      "prior_variance": 2.537616,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Woods Hole",
-      "path": "northamerica/unitedstates/massachusetts/woods_hole",
-      "prior_mu": 21.8237,
-      "prior_sigma": 4.603,
-      "prior_n": 2
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 4.0259,
+      "prior_variance": 1.808488,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Logan",
-      "path": "northamerica/unitedstates/utah/logan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": -1.2601,
+      "prior_variance": 1.392925,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Fryeburg",
-      "path": "northamerica/unitedstates/maine/fryeburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 4.5874,
+      "prior_variance": 2.467685,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Biloxi",
-      "path": "northamerica/unitedstates/mississippi/biloxi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 4.0346,
+      "prior_variance": 1.89524,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Little Rock",
-      "path": "northamerica/unitedstates/arkansas/littlerock",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_score": -0.8913,
+      "prior_variance": 1.641051,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Albany",
-      "path": "northamerica/unitedstates/newyorkstate/albany",
-      "prior_mu": 21.9023,
-      "prior_sigma": 4.8337,
-      "prior_n": 2
+      "title": "Limoges",
+      "path": "europe/france/centre/limousin/limoges",
+      "prior_score": 0.5452,
+      "prior_variance": 1.783371,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Aurora",
-      "path": "northamerica/unitedstates/colorado/aurora",
-      "prior_mu": 22.7225,
-      "prior_sigma": 5.9499,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_score": 2.0633,
+      "prior_variance": 1.680001,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Pawhuska",
-      "path": "northamerica/unitedstates/oklahoma/pawhuska",
-      "prior_mu": 22.691,
-      "prior_sigma": 5.9459,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": -2.2847,
+      "prior_variance": 2.284787,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Costa Mesa",
-      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": -0.3912,
+      "prior_variance": 1.356662,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Manchester",
-      "path": "northamerica/unitedstates/newhampshire/manchester",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 2.4565,
+      "prior_variance": 1.766417,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Sandy",
-      "path": "northamerica/unitedstates/utah/sandy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ningbo",
+      "path": "asia/china/zhejiang/ningbo",
+      "prior_score": -1.7801,
+      "prior_variance": 1.997289,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "State College",
-      "path": "northamerica/unitedstates/pennsylvania/state_college",
-      "prior_mu": 21.6739,
-      "prior_sigma": 4.7989,
-      "prior_n": 2
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": -1.4827,
+      "prior_variance": 1.58297,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Somerset",
-      "path": "northamerica/unitedstates/newjersey/somerset",
-      "prior_mu": 22.5271,
-      "prior_sigma": 5.9136,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.3463,
+      "prior_variance": 1.504257,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Salem",
-      "path": "northamerica/unitedstates/newjersey/salem",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -1.8088,
+      "prior_variance": 1.400485,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Jenks",
-      "path": "northamerica/unitedstates/oklahoma/jenks",
-      "prior_mu": 22.0729,
-      "prior_sigma": 5.749,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": 4.1634,
+      "prior_variance": 2.248052,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Winchendon",
-      "path": "northamerica/unitedstates/massachusetts/winchendon",
-      "prior_mu": 22.6904,
-      "prior_sigma": 5.9458,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -4.1694,
+      "prior_variance": 3.027223,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Willacoochee",
-      "path": "northamerica/unitedstates/georgia/willacoochee",
-      "prior_mu": 22.1023,
-      "prior_sigma": 5.7604,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -1.7705,
+      "prior_variance": 1.536055,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Fort Benning, GA",
-      "path": "northamerica/unitedstates/georgia/fort_benning_ga",
-      "prior_mu": 18.2812,
-      "prior_sigma": 6.7499,
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -1.3766,
+      "prior_variance": 2.104081,
       "prior_n": 1
     }
   ]

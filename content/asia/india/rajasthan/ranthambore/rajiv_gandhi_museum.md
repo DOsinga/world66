@@ -8,6 +8,7 @@ latitude: 26.0173
 longitude: 76.5026
 sources:
   - https://en.wikipedia.org/wiki/Rajiv_Gandhi_Regional_Museum_of_Natural_History
+score: 5.4
 ---
 
 The Rajiv Gandhi Regional Museum of Natural History is one of four regional natural history museums in India, opened in Sawai Madhopur specifically because of the town's proximity to Ranthambore. The collection covers the natural history of the Thar Desert and the Aravalli ecosystem: dioramas of wildlife in their habitats, geological specimens from the region, botanical specimens, and a specific focus on the ecology of dry deciduous forests.

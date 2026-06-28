@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
   - nature
+score: 7.5
 ---
 
 Turtle Bay is the sheltered northern end of Watamu's beach, named for the green and hawksbill turtles that feed on the seagrass beds just offshore. The bay is protected by a natural headland that keeps the water calmer than the open coast, and it is the preferred swimming spot for independent travellers staying in the village.

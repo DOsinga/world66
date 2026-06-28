@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: -25.2782
 longitude: -57.6400
+score: 6.9
 ---
 
 The Costanera is Asuncion's riverfront promenade, running along the Paraguay River at the base of the historic centre. It has been cleaned up and developed over the years and is now a pleasant place to walk in the early morning or evening, with views across the wide, brown river to the Chaco on the far bank. The promenade has benches, open-air food stalls, and occasional music in the evenings.

@@ -8,6 +8,7 @@ tags:
 latitude: 10.4833
 longitude: 104.3
 snippet: "Quiet hillside with coastal views and a small shrine, near Kep"
+score: 8.1
 ---
 
 Phnom Voar is a small hill rising above the coastal plain a short distance from the national park. A rough path leads up through the trees to a viewpoint that looks out over the Gulf of Thailand, with Rabbit Island visible on clear days. A modest Khmer shrine sits near the top, tended by local monks.

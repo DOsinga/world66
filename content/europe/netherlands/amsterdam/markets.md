@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Markets
 type: poi
+score: 6.4
 ---
 
 Amsterdam's street markets are some of the best in Northern Europe. The standout is the **Albert Cuyp Market** in De Pijp (Albert Cuypstraat, Mon-Sat 9:00-17:00), with over 300 stalls selling everything from Surinamese roti and fresh stroopwafels to vintage clothing and cheap socks. It's the city's largest and most diverse outdoor market.

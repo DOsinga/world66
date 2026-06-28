@@ -3,10 +3,12 @@ address: Sukhumvit Soi 3/1
 latitude: 13.7447
 longitude: 100.5539
 opening_hours: Daily 9 am to 2 am
+score: 5.5
 snippet: Arabic and Yemeni food on Sukhumvit's Middle Eastern strip
 tags:
 - eating_out
 - restaurant
+- sukhumvit
 title: Sarah
 type: poi
 ---

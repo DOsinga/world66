@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 13.7525
 longitude: 100.492
+score: 5.3
 snippet: Meditation retreats and daily sessions at Buddhist temples
 tags:
 - things_to_do
 - wellness
+- rattanakosin
 title: Meditation
 type: poi
 ---

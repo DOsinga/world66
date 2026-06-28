@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Kualao Restaurant
 type: poi
+score: 6.7
 ---
 
 Kualao occupies a beautifully restored French colonial mansion on Samsenthai Road and is the place to eat Lao food formally — white tablecloths, candlelight, traditional dancing in the evenings. It has hosted visiting prime ministers and presidents, and somehow still manages not to feel stuffy.

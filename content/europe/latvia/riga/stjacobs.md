@@ -8,6 +8,7 @@ tags:
   - sight
 title: St Jacob's Cathedral
 type: poi
+score: 6.2
 ---
 
 St Jacob's (Sv. Jēkaba katedrāle) is the Catholic cathedral of Riga, a Gothic brick church that dates to the 13th century. It stands at the northern edge of the Old Town, just inside the city wall, and has swapped denominations repeatedly over the centuries — Lutheran, then Catholic, now serving as the seat of the Archbishop of Riga.

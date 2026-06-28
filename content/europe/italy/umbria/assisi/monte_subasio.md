@@ -8,6 +8,7 @@ tags:
   - viewpoint
 latitude: 43.0642
 longitude: 12.6625
+score: 7.8
 ---
 
 The mountain that towers behind Assisi rises to 1,290 metres at its summit and is protected as a regional park. The upper slopes are bare grassland — used since prehistory for grazing — and offer some of the best long-distance views in central Italy: the Umbrian valley west to Perugia, the Apennine ridges east to the Marche, and the Tiber valley south toward Spoleto.

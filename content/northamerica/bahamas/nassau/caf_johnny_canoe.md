@@ -6,7 +6,12 @@ done:
 latitude: 25.0782
 longitude: -77.4081
 phone: 327 3373
+score: 5.8
 snippet: Lively Bahamian spot at Cable Beach with live music
+tags:
+- eating_out
+- restaurant
+- cable_beach_road
 title: Café Johnny Canoe
 type: poi
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterber
 latitude: -22.145794
 loc_type: city
 longitude: 22.761083
-score: 0.3
+score: 5.83
+snippet: Central Kalahari ranching town, used as a gateway to San cultural walks and
+  art centres.
 title: Ghanzi
 type: location
 ---

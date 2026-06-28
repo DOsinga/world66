@@ -7,6 +7,7 @@ tags:
 - sight
 title: Howth
 type: poi
+score: 8.1
 ---
 
 Howth is a fishing village and headland about 15 kilometres northeast of Dublin city centre, easily reached in half an hour on the DART train. The cliff walk is the main draw — a loop around the headland with views back across Dublin Bay, past rocky outcrops and heather-covered slopes. On a clear day you can see the Wicklow Mountains.

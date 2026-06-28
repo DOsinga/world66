@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Adams_The_Tetons_and_the_S
 latitude: 43.8333
 loc_type: feature
 longitude: -110.7008
+score: 9.31
+snippet: Wyoming national park where the Teton Range rises abruptly above lakes, sagebrush,
+  and the Jackson Hole valley.
 sources:
 - https://en.wikipedia.org/wiki/Grand_Teton_National_Park
 - https://en.wikipedia.org/wiki/Teton_Range

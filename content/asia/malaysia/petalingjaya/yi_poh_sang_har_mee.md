@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - ss2
+score: 7.1
 ---
 
 The Sang Har Mee specialist on the SS2 perimeter, serving the dish that PJ Chinese food obsessives most often argue about — fresh river prawns over crisp-fried egg noodles in a thick eggy broth. The prawns come whole and large; the noodles are properly browned at the edges.

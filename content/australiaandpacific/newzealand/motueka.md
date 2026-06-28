@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/88123769@N02/52801000449
 latitude: -41.112493
 loc_type: city
 longitude: 173.009488
-score: 0.55
+score: 7.89
 title: Motueka
 type: location
+snippet: Tasman Bay town of orchards and hops, sitting just south of Abel Tasman's
+  golden coast.
 ---
 
 Motueka sits at the head of Tasman Bay on New Zealand's South Island, a sun-soaked town that serves as the main gateway to [Abel Tasman National Park](/australiaandpacific/newzealand/abeltasmannationalpark). The surrounding region produces most of New Zealand's hops, apples, and kiwifruit, and the orchards and vineyards give the landscape a gentle, cultivated feel that contrasts with the wild coastline just to the north.

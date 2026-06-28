@@ -6,6 +6,7 @@ longitude: 106.9871
 tags:
   - eating_out
   - restaurant
+score: 4.4
 ---
 
 A backpacker-friendly restaurant in central Ban Lung with a wide menu of Khmer, Thai, and Western dishes — the kind of place you end up at for two or three nights in a row simply because everything works. The pizzas, surprisingly, are good; the fish *amok* arrives in a fresh banana-leaf cup.

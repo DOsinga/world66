@@ -8,6 +8,7 @@ tags:
 title: Wenhua Road Night Market
 type: poi
 snippet: Uyghur street-food market, busy from dusk to midnight
+score: 6.8
 ---
 
 A two-block stretch of Wenhua Lu in central Turpan turns into a covered food and goods market every evening from late afternoon onwards. Lamb kebabs grilled on long open coals dominate, but you can also find lagman, polo, dapanji (the big-plate chicken), naan baked in tandoor ovens, and pile after pile of mountain fruit.

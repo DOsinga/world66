@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.5760
 longitude: 68.7855
+score: 7.5
 ---
 
 Along the side streets branching off Rudaki Avenue, small family-run restaurants and chayhanas serve plov and shashlik from early morning until the food runs out. Plov is traditionally a breakfast dish — cooked in enormous kazan (iron cauldrons) starting at dawn — and the best is gone by 10 or 11am. Follow your nose or ask a local to point you to the current favorite.

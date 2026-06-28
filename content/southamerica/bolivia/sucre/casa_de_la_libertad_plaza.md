@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Equestrian monument to Antonio José de Sucre on the central plaza
+score: 6.8
 ---
 
 In the centre of Plaza 25 de Mayo stands the bronze equestrian statue of Antonio José de Sucre, the Venezuelan marshal who served as Simón Bolívar's deputy in the wars of South American independence. Sucre defeated the Spanish at Ayacucho in 1824, was elected first president of Bolivia in 1826, and gave his name to the city the following year. He was assassinated in 1830 at the age of 35.

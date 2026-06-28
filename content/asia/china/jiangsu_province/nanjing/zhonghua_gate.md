@@ -9,6 +9,7 @@ tags:
 - historic_site
 - fortress
 story: Zhonghua Gate was designed with 27 hidden soldier caves — vaulted tunnels cut into the walls to conceal troops during a siege. In theory, up to 3,000 soldiers could be hidden inside and would emerge from the concealed doors to attack an enemy that had breached the outer gate. The gate was never actually put to this defensive use, but the engineering remains intact and you can walk through the tunnels.
+score: 9.1
 ---
 
 Zhonghua Gate (中华门) is the largest and best-preserved gate complex of the Nanjing Ming city wall. Built between 1369 and 1384, it comprises four arched gateway passages set one behind the other, creating a defensive killing ground — an enemy who broke through the first gate would find themselves trapped in a courtyard with walls on all sides before reaching the second. The construction used 100 million bricks over 21 years.

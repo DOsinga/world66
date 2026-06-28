@@ -12,6 +12,7 @@ story: >
   Belgium's hundredth anniversary in 1930. It carries 57 dials and indicators showing time zones across the world,
   lunar phases, tides, the zodiac, and the local time in dozens of cities. The Astronomical Studio behind the tower
   is even more ambitious — Zimmer built it entirely for himself, with no expectation it would ever be publicly displayed.
+score: 8.4
 ---
 
 The Zimmertoren (Zimmer Tower) is a 14th-century fortified keep that was once part of Lier's medieval city walls. What makes it unforgettable is the elaborate Jubilee Clock that the local clockmaker and astronomer Louis Zimmer installed on its facade in 1930. The central clock is surrounded by 12 subsidiary clocks showing the phases of the moon, the tides, the zodiac signs, the day of the week, and local time in cities around the world — 57 dials in total, all driven by a single mechanism.

@@ -3,7 +3,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.628
 longitude: -7.987
-snippet: Historic auction square in the souks, once a slave market
+score: 6.8
+snippet: Former slave market in the souks of the northern medina, now used for informal
+  carpet auctions
 tags:
 - history
 - market

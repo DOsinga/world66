@@ -1,9 +1,12 @@
 ---
+score: 0.47
 title: Saint Vincent and the Grenadines
 type: location
 loc_type: country
 latitude: 13.25
 longitude: -61.2
+snippet: Southeastern Caribbean island nation combining volcanic Saint Vincent with
+  the sailing cays of the Grenadines.
 ---
 
 Saint Vincent and the Grenadines is an island nation in the southeastern Caribbean, made up of the volcanic main island of Saint Vincent and a chain of smaller islands and cays stretching south toward Grenada. Together they offer a combination rarely found in the Caribbean: dramatic volcanic scenery on the main island, and some of the finest sailing waters in the world threading between the Grenadines.

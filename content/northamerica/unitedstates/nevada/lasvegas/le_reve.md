@@ -1,9 +1,11 @@
 ---
 latitude: 36.126622
 longitude: -115.165404
+score: 8.0
 tags:
 - things_to_do
 - sight
+- the_strip
 title: Le Reve - The Dream
 type: poi
 ---

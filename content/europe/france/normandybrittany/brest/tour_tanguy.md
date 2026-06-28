@@ -9,6 +9,7 @@ latitude: 48.3834
 longitude: -4.4974
 story: >
   The tower is named after Bertrand de Guesclin's brother-in-law Tanguy du Chastel, who owned and fortified it in the 14th century. The Tanguy family's connection with Brest was so significant that the tower kept the name through five centuries of subsequent ownership and use as a storehouse, prison, and eventually museum.
+score: 7.0
 ---
 
 The Tour Tanguy is a 14th-century round tower on a rocky promontory beside the Penfeld, directly across the river from the château. It is one of the few medieval structures in Brest and houses a small museum of the city's history before the war — a collection of dioramas and illustrations showing what old Brest looked like before Allied bombs reduced it to rubble.

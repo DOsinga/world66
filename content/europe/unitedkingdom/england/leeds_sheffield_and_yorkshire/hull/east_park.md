@@ -8,6 +8,7 @@ tags:
 title: East Park
 type: poi
 snippet: "Hull's largest park, with a lake, an animal education centre, and a 19th-century splash boat"
+score: 7.3
 ---
 
 East Park opened in 1887 to mark Queen Victoria's Golden Jubilee and is the largest of Hull's public parks at about 53 hectares. It has a long boating lake, an animal education centre (free, with goats, donkeys, monkeys, and an aviary), formal gardens, and one of the country's only operating Victorian-era splash boats — a chute ride installed in the 1920s that still runs on weekends in summer.

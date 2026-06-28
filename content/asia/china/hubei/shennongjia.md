@@ -10,6 +10,9 @@ loc_type: feature
 longitude: 110.6765
 title: Shennongjia
 type: location
+score: 7.58
+snippet: Northwestern Hubei forest reserve and UNESCO site, known for biodiversity
+  and high mountain ridges.
 ---
 
 Shennongjia is the wildest place in central China. A high-altitude forest reserve in northwestern Hubei, it covers over 3,200 square kilometres of largely intact subtropical and temperate forest on ridges that reach nearly 3,100 metres. UNESCO inscribed it as a World Heritage Site in 2016, both for its biodiversity and for the ancient forests that somehow survived while nearly every other lowland forest in central China was cleared for agriculture.

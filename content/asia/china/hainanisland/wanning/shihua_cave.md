@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.9200
 longitude: 110.4600
+score: 6.6
 ---
 
 Shihua Cave, in the hills north of Wanning city, is one of the larger limestone cave systems in Hainan, with a series of lit chambers accessible by a short walk from the entrance. The stalactite and stalagmite formations here are relatively old and well-developed, the product of the particularly wet interior upland climate, and the cave maintains a constant cool temperature that makes it a pleasant escape on hot days.

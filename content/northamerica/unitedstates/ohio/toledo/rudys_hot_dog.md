@@ -6,6 +6,7 @@ longitude: -83.6045
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 Rudy's has been the local hot dog chain since 1920 — a tiny family business started by a Greek immigrant on Sylvania Avenue, now with branches at the original location, Reynolds Road, and Alexis Road. The dog is a small pork-and-beef frank in a soft steamed bun, topped with their chilli-meat sauce, mustard and chopped onion.

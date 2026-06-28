@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/International_Tennis_Hall_of_Fame
 story: >
   Tennis was introduced to the United States at this very site in 1874, when Mary Outerbridge brought equipment back from Bermuda and the Newport Casino hosted the first National Tennis Championship (precursor to the US Open) in 1881. The game was considered sufficiently athletic and unladylike that early female players were required to cover themselves entirely, while male players competed in shirt and tie.
+score: 7.5
 ---
 
 The International Tennis Hall of Fame occupies the Newport Casino, a rambling Victorian shingle-style complex built in 1880 by Stanford White as a private social club — then, as now, Bellevue Avenue's answer to boredom between mansion visits. The building, with its turrets, wraparound piazzas, and horseshoe court, is one of the finest examples of 19th-century resort architecture in America.

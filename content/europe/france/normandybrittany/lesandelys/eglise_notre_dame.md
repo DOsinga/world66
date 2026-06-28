@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 49.2440
 longitude: 1.4222
+score: 7.4
 ---
 
 The Collégiale Notre-Dame in Grand-Andely is a large and handsome church that blends Gothic and Renaissance styles in a characteristically Norman way. Construction began in the 13th century and continued through the 16th, so the nave is solidly Gothic while the south portal and parts of the transept show Renaissance detailing — a combination that works surprisingly well.

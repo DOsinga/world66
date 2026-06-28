@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 51.27889
 longitude: 1.08139
+score: 7.5
 ---
 
 The Roman town of Durovernum Cantiacorum lies, in pieces, under most of modern Canterbury — and a few metres below Butchery Lane sit the well-preserved remains of a Roman courtyard house with a fine mosaic floor and a hypocaust heating system. The museum is built directly around them, so you walk on glass panels above the pavement and look down into the rooms as they were laid out.

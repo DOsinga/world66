@@ -10,6 +10,7 @@ tags:
 story: "The battle lasted barely 15 minutes. Both commanding generals — British General Wolfe and French General Montcalm — died of their wounds within hours of each other. When news reached Europe, a French diplomat remarked that France had lost 'a few acres of snow.' The battle decided that North America would eventually be English-speaking."
 title: Plains of Abraham
 type: poi
+score: 8.6
 ---
 
 The site of the 1759 battle that effectively ended French rule in Canada. The British under General Wolfe defeated the French under Montcalm in a 30-minute engagement; both generals died of their wounds. The battlefield is now a large, attractive urban park — the Champs-de-Bataille national historic park — used daily by Québec City residents for jogging, cycling, picnicking and skating (the rink is flooded in winter). The interpretive centre explains the campaign and its consequences. The park also hosts outdoor summer concerts.

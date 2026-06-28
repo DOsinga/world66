@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4538
 longitude: 20.6678
+score: 6.3
 ---
 
 Frikes is the smaller of the two north-coast harbours — a single quay, a handful of houses, three or four tavernas, and that is about it. The setting is genuinely picturesque: a narrow inlet flanked by steep green hillsides, with the village clustered at the head.

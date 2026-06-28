@@ -12,6 +12,7 @@ tags:
 - things_to_do
 title: Hot Water Beach
 type: poi
+score: 7.8
 ---
 
 One of the Coromandel's defining experiences. At low tide, a section of beach near Hahei becomes thermally active — dig into the sand and hot water fills the hole. Spades are available to hire from the beach store. The optimal window is roughly two hours either side of low tide; check tide tables before you go. The beach gets crowded in summer, but the experience is hard to replicate anywhere else. Once the tide comes in, it's just a regular beach.

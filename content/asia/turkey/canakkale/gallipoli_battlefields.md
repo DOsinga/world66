@@ -9,6 +9,7 @@ tags:
 - history
 snippet: "WWI battlefields of the 1915 Allied landings — cemeteries, trenches, and ANZAC Cove"
 story: "On 25 April 1915, an Allied force largely made up of Australian and New Zealand troops landed at a beach later named ANZAC Cove. They were supposed to come ashore at a flatter stretch a mile to the north; a navigation error put them at the foot of an almost vertical scrub-covered ridge. Most of the next eight months were spent trying and failing to get off it."
+score: 8.8
 ---
 
 The Gallipoli peninsula, across the Dardanelles from Çanakkale, was the site of one of the great Allied failures of the First World War — and one of the foundational events of modern Australian, New Zealand, and Turkish national identity. The 1915 campaign cost over 250,000 lives on each side; the trenches, cemeteries, and memorials are preserved across a long stretch of coast and ridge as the Gallipoli Peninsula Historical National Park.

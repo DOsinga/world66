@@ -7,6 +7,7 @@ tags:
 latitude: 44.0590
 longitude: 12.5690
 story: "The piazza occupies the site of the Roman forum of Ariminum. Tradition holds that Julius Caesar harangued his troops here on his way north in 49 BC, just after crossing the Rubicon a few kilometres up the coast. A bronze statue and a small marker stone on the square commemorate the moment."
+score: 6.9
 ---
 
 The southern of the old town's two great squares, named for three partisans hanged here by the Germans in 1944. Today it is a quieter, more commercial space than Piazza Cavour, anchored at one end by the octagonal Tempietto di Sant'Antonio and at the other by the slim brick clock tower.

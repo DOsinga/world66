@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - eating_out
 - market
+score: 8.1
 ---
 
 The historic Mercado Central, the long-time covered marketplace in central Concepción, burned down in 2013 and never quite returned in the same form. Most of its traders moved to the Vega Monumental, a vast covered market to the east of the centre, which is now the city's main food market — fruit, fish, cheese, mote, fresh seafood, and rows of cocinerías serving plate lunches.

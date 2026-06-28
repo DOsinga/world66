@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 6.7
 longitude: -1.6285
+score: 4.8
 ---
 
 Chopsticks does what its name promises — a long Chinese menu of stir-fries, soups, and noodle dishes, cooked competently and served quickly. The kung pao chicken and the sweet-and-sour pork are reliable choices. Portions are generous and prices are reasonable.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mausoleum of Surgi Mufti
 type: poi
+score: 6.1
 ---
 
 The Mausoleum of Surgi Mufti (Kubah Surgi Mufti) is the tomb of a revered 19th-century Islamic scholar who was the grand mufti of the Banjar Sultanate. The site is a place of Islamic pilgrimage and is considered sacred by the Banjar people. The mausoleum is enclosed in a traditional compound with a distinctive roofed structure over the grave.

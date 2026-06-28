@@ -4,7 +4,8 @@ email: coquettecollection@yahoo.com
 latitude: 41.3972
 longitude: 2.1393
 phone: +34 934145106
-snippet: "Upscale boutique in Turó Park with top European designers"
+score: 4.7
+snippet: Upscale boutique in Turó Park with top European designers
 tags:
 - shopping
 title: Coquette (Turó Park)

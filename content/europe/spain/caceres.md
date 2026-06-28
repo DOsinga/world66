@@ -2,10 +2,16 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-06-03'
+image: caceres.jpg
+image_attribution: Javier Losa
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Caceres_13_1_(6624238327).jpg
 latitude: 39.4745
 loc_type: city
 longitude: -6.3717
-score: 0.6
+score: 8.5
+snippet: Cáceres is an Extremaduran city with a UNESCO-listed medieval old town of
+  towers and Renaissance palaces.
 title: Cáceres
 type: location
 ---

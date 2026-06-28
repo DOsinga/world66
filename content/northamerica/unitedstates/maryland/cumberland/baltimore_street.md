@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Pedestrianised downtown street of late-19th-century brick storefronts."
+score: 7.4
 ---
 
 The two-block stretch of Baltimore Street between Liberty and George is the architectural heart of downtown Cumberland — a pedestrianised, almost theatrical row of late-19th-century commercial buildings in brick and cast iron. The Queen City was rich in the second half of the 1800s, and the storefronts are a record of that wealth.

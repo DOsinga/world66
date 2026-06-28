@@ -8,6 +8,7 @@ latitude: 10.7943
 longitude: -0.8560
 sources:
   - https://en.wikipedia.org/wiki/Upper_East_Regional_Museum
+score: 6.8
 ---
 
 The Upper East Regional Museum in Bolgatanga covers the history, culture, and ethnography of the Upper East Region, with collections focusing on the traditional crafts, social structures, and cultural practices of the Frafra, Tallensi, Kasem, and other peoples of the north. The exhibits include traditional musical instruments, farming tools, ceremonial objects, and examples of the basket-weaving traditions that have made the region internationally known.

@@ -13,6 +13,7 @@ story: >
   survival strategy so effective that many communities maintained their
   traditional beliefs and practices long after the surrounding region converted
   to Islam.
+score: 9.0
 ---
 
 The Bandiagara Escarpment north of Bankas is one of the great trekking landscapes in West Africa. The cliff rises up to 500 metres above the sandy plain, and along its length you find Dogon villages — some still inhabited, others abandoned — built into natural cavities and overhangs in the sandstone.

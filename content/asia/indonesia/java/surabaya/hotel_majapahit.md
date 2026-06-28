@@ -12,6 +12,7 @@ story: >
   the blue strip from the Dutch tricolor flag — leaving just the red and white of the Indonesian
   flag. The Dutch colonial troops responded by opening fire. The incident is commemorated annually
   and a bronze plaque on the building marks what Indonesians call the "flag incident."
+score: 7.8
 ---
 
 Hotel Majapahit is the grandest colonial building in Surabaya — a 1910 Dutch art nouveau hotel that still operates as a luxury property under Accor management. The lobby and common areas are open to non-guests for a drink or a meal, and worth a look for the architecture alone: high ceilings, tiled floors, and a period atmosphere that has survived modernisation intact.

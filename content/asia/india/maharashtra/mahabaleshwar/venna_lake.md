@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.9224
 longitude: 73.6569
+score: 5.9
 ---
 
 Venna Lake is a small reservoir just outside the Mahabaleshwar town centre, built by the British in the 1840s and now the most popular family destination in the hill station. The atmosphere is more funfair than nature reserve — horse rides, paddle boats, and stalls selling roasted corn and fresh strawberry cream crowd the lakeside — but it is genuinely pleasant on a cool morning before the crowds arrive.

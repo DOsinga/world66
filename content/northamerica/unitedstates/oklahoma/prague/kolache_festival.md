@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 35.4867
 longitude: -96.6850
+score: 7.1
 ---
 
 Every May, Prague holds its annual Kolache Festival, a celebration of the Czech heritage that gave the town its name. Czech immigrants settled this part of Lincoln County in the late 19th century, naming their community after Bohemia's capital, and their descendants have kept the tradition alive. The festival draws thousands of visitors for kolache (the Czech pastry stuffed with fruit, poppy seed, or sweet cheese), music, dancing, and a parade through the small downtown.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Queen%27s_Park,_Bridgetown_(Barbados)
 story: >
   The enormous baobab tree at Queen's Park is estimated to be over a thousand years old, which would make it one of the oldest trees in the Western Hemisphere. Baobabs are native to Africa, and this one almost certainly arrived in Barbados long before Europeans did — possibly carried by currents, possibly by pre-Columbian African voyagers. Nobody knows for certain.
+score: 7.0
 ---
 
 Queen's Park is a pleasant public park a short walk east of the historic centre, formerly the residence of the commanding general of British forces in the West Indies. The house at its centre has been converted into a gallery and performance space; the parkland around it is where Bridgetown residents come to sit in the shade and escape the bustle of Broad Street.

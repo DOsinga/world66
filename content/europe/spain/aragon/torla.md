@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Torla,_Huesca,_Espa%C3%B1a
 latitude: 42.6276
 loc_type: city
 longitude: -0.1116
+score: 8.74
+snippet: Stone Pyrenean gateway village below Ordesa, with slate roofs and limestone
+  walls rising behind it.
 sources:
 - https://en.wikipedia.org/wiki/Torla-Ordesa
 - https://www.turismo-ordesa.com/pueblos/1/torla-ordesa

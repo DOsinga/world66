@@ -2,12 +2,13 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
-  poi_cleanup: '2026-04-19'
   location_enrich: '2026-05-31'
+  poi_cleanup: '2026-04-19'
 latitude: 60.451594
 loc_type: city
 longitude: 22.266999
-score: 0.54
+score: 8.11
+snippet: Finland's oldest city, set on the Aura River with a medieval castle and cathedral.
 title: Turku
 type: location
 ---

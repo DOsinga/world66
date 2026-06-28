@@ -6,6 +6,7 @@ latitude: 51.6154
 longitude: 7.1972
 story: >
   The collection was assembled largely by a single man — Heinrich Wenke, a Recklinghausen pharmacist who began buying icons in the 1920s when they were flooding out of post-revolutionary Russia. What started as a personal obsession became the foundation of the world's largest Orthodox icon collection outside the Eastern Orthodox world itself.
+score: 8.5
 ---
 
 The Ikonen-Museum is Recklinghausen's standout attraction and one of the most unusual museums in Germany. Housed in a converted church building on Kirchplatz, it holds over a thousand Orthodox Christian icons from Russia, Greece, the Balkans, and the Coptic world — a collection so deep and well-displayed that it attracts art historians and religious scholars as well as general visitors.

@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 47.0418
 longitude: 28.8612
+score: 7.8
 ---
 
 The Chișinău State Circus is a striking 1981 modernist building shaped like a UFO crash-landed on a hill — a low cylinder with a deep cantilevered ring of concrete shading the lobby windows. It once seated 1,900 spectators around a single ring, hosted touring Soviet circus companies, and was the proud emblem of late-Brezhnev-era Chisinau.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 37.1042
 longitude: 25.3761
+score: 6.8
 ---
 
 Metaxy Mas — the name means "between us" in Greek — is one of the better-known restaurants in Hora, occupying a corner in the backstreets of the old town that has been attracting a loyal following for years. It is a meze restaurant in the serious sense: you order many small dishes and share them across the table, working through combinations of local produce rather than one large plate each. The approach suits the Naxian larder well.

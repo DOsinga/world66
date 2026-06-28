@@ -1,13 +1,18 @@
 ---
-title: "Heli Lounge Bar"
-type: poi
 latitude: 3.1465
 longitude: 101.7081
+score: 6.9
+snippet: Rooftop bar on an active helipad with an unobstructed view of the Petronas
+  Towers at night
+story: The bar runs on the helipad of Menara KH from sunset onwards and clears all
+  furniture by midnight, in case a helicopter actually needs to land. The landing-circle
+  markings double as the dance floor.
 tags:
-  - bars_and_cafes
-  - bukit_bintang
-  - bar
-story: "The bar runs on the helipad of Menara KH from sunset onwards and clears all furniture by midnight, in case a helicopter actually needs to land. The landing-circle markings double as the dance floor."
+- bars_and_cafes
+- bar
+- bukit_bintang
+title: Heli Lounge Bar
+type: poi
 ---
 
 A working helipad on the 34th-floor roof of Menara KH that doubles as an open-air cocktail bar from late afternoon. There is no railing — the view is straight down to the city — and the panorama of the Petronas Towers, the KL Tower, and the lit-up Bukit Bintang skyline is one of the best in the city. The whole arrangement is faintly mad and entirely typical of KL.

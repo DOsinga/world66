@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Belle Époque mansion of Sucre's richest 19th-century family
+score: 7.6
 ---
 
 The Palacio de los Argandoña, on the corner of Calle España and Calle Audiencia, is an ornate Belle Époque mansion built in the 1880s by the silver-tin baron Francisco Argandoña and his wife Clotilde, the same couple who built the Castillo de la Glorieta on the city's outskirts. Where the castle is a country folly, this is a town palace — three storeys of carved stonework, balconies with French ironwork, and a vast central staircase imported in pieces from Belgium.

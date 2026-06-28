@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Kevada Masjid
 type: poi
+score: 7.9
 ---
 
 Kevada Masjid is quieter than Jami Masjid and all the better for it. The mosque stands with a ruined cenotaph and open ground around it, giving you room to understand the building's profile rather than just its facade.

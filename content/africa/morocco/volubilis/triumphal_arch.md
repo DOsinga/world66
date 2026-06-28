@@ -9,6 +9,7 @@ latitude: 34.0743
 longitude: -5.5555
 story: >
   The arch was erected in 217 AD to honour the Emperor Caracalla and his mother Julia Domna. When the French archaeologist Louis Chatelain began reconstruction work in the 1930s, he found the arch had been partially dismantled in the 18th century for use as building material in Meknes — much of what you see today uses stones recovered from nearby rubble.
+score: 8.7
 ---
 
 The Triumphal Arch is the most recognisable monument at Volubilis and one of the best-preserved Roman arches in North Africa. It stands at the northern end of the Decumanus Maximus, the city's main street, and was built in 217 AD to honour Emperor Caracalla. The arch is decorated with niches that once held bronze statues, and the flanking columns still carry elaborate carved capitals.

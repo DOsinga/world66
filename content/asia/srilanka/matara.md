@@ -8,7 +8,9 @@ image_source: https://www.flickr.com/photos/25902645@N08/2845229143
 latitude: 5.947851
 loc_type: city
 longitude: 80.546336
-score: 0.52
+score: 7.75
+snippet: Southern Sri Lankan coastal city with Dutch forts, fish markets, and beaches
+  toward Dondra Head.
 title: Matara
 type: location
 ---

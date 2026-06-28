@@ -1,10 +1,10 @@
 ---
 latitude: 37.5512
 longitude: 126.9897
+score: 7.6
 tags:
-  - things_to_do
-  - sight
-  - namsan
+- things_to_do
+- sight
 title: Namsan Park
 type: poi
 ---

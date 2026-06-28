@@ -13,6 +13,9 @@ sources:
 - https://en.wikipedia.org/wiki/Grand_Cape_Mount_County
 title: Robertsport
 type: location
+score: 5.91
+snippet: Liberian coastal town between Lake Piso and the Atlantic, known for surf
+  breaks and Cape Mount views.
 ---
 
 *Africa > [Liberia](/africa/liberia) > Robertsport*

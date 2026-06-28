@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Patty's Seafood
 type: poi
+score: 6.3
 ---
 
 Patty's is one of the better-regarded local seafood spots in Morgan City, serving the Cajun standards in portions sized for the oil-field and shrimp-boat workers who make up much of the clientele. The boiled shrimp and crabs are the things to order — fresh from the Gulf, seasoned with cayenne and crab boil, served in paper-lined trays. The fried catfish and po-boy sandwiches are also reliable.

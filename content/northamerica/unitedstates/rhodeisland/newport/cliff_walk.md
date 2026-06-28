@@ -9,6 +9,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Newport_Cliff_Walk
+score: 9.4
 ---
 
 The Cliff Walk runs 3.5 miles along the rocky Atlantic coast of Newport, between the mansions of Bellevue Avenue (whose gardens back up to the path) and the open sea. It is one of the finest coastal walks in New England: the northern section is paved and easy; the southern section beyond the Forty Steps becomes rougher, with scrambles over rock outcrops and occasional wet patches. The views of the Atlantic from the edge of the cliff, with the mansion lawns on one side and the open sea on the other, are exceptional.

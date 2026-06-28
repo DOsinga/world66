@@ -10,6 +10,7 @@ tags:
 latitude: 34.0222
 longitude: -117.1023
 story: "The adobe was built around 1842 by Diego Sepúlveda, nephew of the rancher who owned the surrounding Rancho San Bernardino — a land grant carved out of Mission San Gabriel territory after Mexican independence. The Sepúlveda family lost the building during the Anglo land rush that followed California statehood in 1850, and it passed through several owners before being preserved by the county in the 1950s."
+score: 7.1
 ---
 
 The Sepúlveda Adobe — usually just called the Yucaipa Adobe — is the oldest structure of its kind in San Bernardino County, a thick-walled, single-storey ranch house built in the early 1840s when the surrounding land was still part of a Mexican land grant. The walls are two-foot-thick adobe brick under a sloping wood-shingle roof; the small rooms inside have packed-dirt floors and the original beam ceilings.

@@ -6,6 +6,7 @@ tags: [things_to_do, sight, historic_site]
 address: "North Street"
 latitude: 56.3414
 longitude: -2.7944
+score: 8.5
 ---
 
 The University of St Andrews was founded in 1413, making it the third-oldest in the English-speaking world after Oxford and Cambridge. Unlike most British universities, it is not a discrete campus but a network of medieval and Georgian buildings threaded through the historic town centre.

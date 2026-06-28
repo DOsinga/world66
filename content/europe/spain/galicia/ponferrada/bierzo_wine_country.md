@@ -10,6 +10,7 @@ story: >
   The Mencía grape, which produces Bierzo's distinctive red wines, was for decades dismissed as a workhorse variety good only for rough local consumption. It was the work of a handful of producers in the 1990s and 2000s — most notably Álvaro Palacios with his Descendientes de J. Palacios label — that transformed perceptions of the grape and made Bierzo wines internationally sought after.
 sources:
   - https://en.wikipedia.org/wiki/Bierzo_DO
+score: 8.1
 ---
 
 The Bierzo Denominación de Origen encompasses a horseshoe of vineyards around Ponferrada, sheltered from Atlantic rain by mountains to the north and warmer than the Castilian plateau to the east. The Mencía grape dominates, producing red wines with a distinctive freshness and minerality — lighter than Ribera del Duero, more structured than Galician reds, with a character all their own.

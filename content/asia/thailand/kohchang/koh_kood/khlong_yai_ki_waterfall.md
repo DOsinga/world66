@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
   - nature
+score: 8.2
 ---
 
 Smaller, quieter and arguably more atmospheric than Klong Chao, Khlong Yai Ki is a single-drop fall into a wide, deep emerald pool. The pool is large enough to swim properly, and there are big flat rocks at the edge to lay out on.

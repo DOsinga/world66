@@ -14,6 +14,7 @@ story: >
   carved wooden piece — is said to have made the trip both ways.
 sources:
   - https://en.wikipedia.org/wiki/Whiskey_Row,_Prescott
+score: 7.8
 ---
 
 Whiskey Row is the block of Montezuma Street running along the western edge of Courthouse Plaza. In the town's mining and ranching heyday there were dozens of saloons along this strip; today a handful of bars still occupy the same buildings, rebuilt in brick after the 1900 fire.

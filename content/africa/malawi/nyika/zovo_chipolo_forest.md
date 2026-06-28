@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -10.5500
 longitude: 33.7833
+score: 7.6
 ---
 
 Zovo-Chipolo is one of the larger patches of evergreen montane forest on the plateau, tucked into a fold of hills where the climate stays moist enough to support tall trees and a dense understorey. A short circular walking trail runs through it from a clearly marked turn-off on the main park track.

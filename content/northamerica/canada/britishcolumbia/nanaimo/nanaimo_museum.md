@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.1668
 longitude: -123.9368
+score: 7.4
 ---
 
 Housed in a modern building in the city centre, the Nanaimo Museum covers the full sweep of the region's history from Coast Salish settlement through the coal-mining era that built the city. A replica coal mine shaft takes visitors underground into the working conditions of 19th-century Nanaimo miners. Exhibits on the local Snuneymuxw First Nation provide cultural context that goes beyond the usual settler narrative.

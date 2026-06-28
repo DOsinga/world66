@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Vast 1912 timber-frame luxury hotel that defines the Deauville silhouette"
+score: 7.8
 ---
 
 The Normandy is the building that defines Deauville. Designed in 1912 by Théo Petit in the deliberately exaggerated Norman timber-frame style — half-timbering, pointed turrets, gabled roofs — it set the template for the resort's architectural identity. The result is more theatre than vernacular but unmistakably Deauville.

@@ -8,6 +8,7 @@ latitude: 37.2509
 longitude: -76.6469
 snippet: A European-themed amusement park a few miles east of the historic district
 story: Busch Gardens opened in 1975 on land that was originally a Busch brewery hop farm. The park is themed around European countries — England, Scotland, France, Germany, Italy, Ireland — which sits oddly given the colonial American setting of the surrounding area, but the theming has been executed well enough that it has become one of the most praised theme parks in the country for aesthetics. It consistently tops lists for most beautiful amusement park in America.
+score: 7.0
 ---
 
 Busch Gardens Williamsburg is a large theme park on 383 acres about 3 miles east of the Colonial Williamsburg historic area. The park is built around a loose European country theme — each area represents a different country, with architecture, food, and entertainment keyed to the theme. The roller coasters include several that are considered among the best in the mid-Atlantic region.

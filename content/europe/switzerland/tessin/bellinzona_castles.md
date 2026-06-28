@@ -16,6 +16,7 @@ story: >
   and their connecting walls in 2000.
 sources:
   - https://whc.unesco.org/en/list/884/
+score: 9.4
 ---
 
 Three medieval castles rising on rocky crags above the city of [Bellinzona](/europe/switzerland/bellinzona) form one of the finest defensive ensembles in the Alps. Castelgrande is the oldest and most dramatic, its tall towers visible from the valley floor long before you reach the city. Castello di Montebello stands on the ridge to the east, and Castello di Sasso Corbaro crowns a separate spur above them both. Connecting walls once sealed the entire Ticino valley, blocking the main route to the Gotthard Pass.

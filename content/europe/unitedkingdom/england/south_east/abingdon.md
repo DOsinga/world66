@@ -9,6 +9,9 @@ image_source: https://www.flickr.com/photos/145472109@N04/51447102503
 latitude: 51.6715
 loc_type: city
 longitude: -1.278
+score: 7.13
+snippet: Thames-side Oxfordshire town with ancient settlement roots and the remains
+  of a powerful abbey
 title: Abingdon
 type: location
 ---

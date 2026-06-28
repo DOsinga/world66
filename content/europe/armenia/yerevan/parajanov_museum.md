@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Parajanov spent four years in a Soviet labour camp on trumped-up charges and made many of his late collages from scraps he scavenged behind bars — bottle caps, ribbons, and torn book pages turned into icons of saints and dreamscapes."
+score: 8.9
 ---
 
 A small but extraordinary museum devoted to the Armenian filmmaker and visual artist Sergei Parajanov (1924–1990), whose films *The Colour of Pomegranates* and *Shadows of Forgotten Ancestors* changed Soviet cinema. The house was meant to be his — he never lived to move in — and contains his collages, assemblages, hats, drawings, set designs, and the playful little objects he made obsessively from whatever was to hand: lace, dried flowers, broken porcelain, mirrors.

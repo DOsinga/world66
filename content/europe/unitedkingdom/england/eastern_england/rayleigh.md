@@ -5,7 +5,9 @@ done:
 latitude: 51.5864
 loc_type: city
 longitude: 0.6049
-score: 0.35
+score: 5.54
+snippet: Essex market town on a ridge, anchored by a Norman motte and historic high
+  street.
 sources:
 - https://en.wikipedia.org/wiki/Rayleigh,_Essex
 title: Rayleigh

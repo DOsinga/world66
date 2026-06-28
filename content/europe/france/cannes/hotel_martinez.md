@@ -8,6 +8,7 @@ latitude: 43.5475
 longitude: 7.0306
 sources:
   - https://en.wikipedia.org/wiki/H%C3%B4tel_Martinez
+score: 6.8
 ---
 
 The Martinez is one of the great Croisette hotels, an Art Deco building dating from 1929 that has remained in continuous use as a luxury hotel since opening. Its long, low, cream-coloured Art Deco facade is a reference point on the eastern Croisette, and the building holds the largest private beach on the boulevard.

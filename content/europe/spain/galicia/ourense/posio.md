@@ -1,8 +1,12 @@
 ---
+latitude: 42.3314
+longitude: -7.8644
+score: 5.8
 snippet: A garden connecting the old town to the main square, shaded by chestnut trees
 tags:
 - things_to_do
-- walk
+- sight
+- garden
 title: Jardines del Posio
 type: poi
 ---

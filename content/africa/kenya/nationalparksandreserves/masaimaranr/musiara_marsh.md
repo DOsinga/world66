@@ -11,6 +11,7 @@ story: >
   The Musiara lion prides were made famous by the naturalist Jonathan Scott, who spent years documenting them for the BBC series "Big Cat Diary." The filming brought the Mara to international attention in the 1990s and 2000s and established the reserve's reputation as the best place in Africa to see lions reliably. The same prides — or their descendants — are still resident today, which means some Mara lions are among the most observed and studied in the world.
 sources:
   - https://en.wikipedia.org/wiki/Maasai_Mara
+score: 8.5
 ---
 
 The Musiara Marsh, in the northern sector of the Masai Mara near the Oloololo Escarpment, is one of the most reliably productive wildlife areas in the reserve. A permanent water source year-round, it attracts elephants, hippos, buffalo, and a year-round population of lions and big cats. During the migration season (July to October), the Mara River crossing points near Musiara are among the best in the ecosystem.

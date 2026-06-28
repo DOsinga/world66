@@ -8,6 +8,7 @@ title: Cultural Research Centre Museum
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Cultural_Research_Centre_Museum-Jinja
+score: 7.1
 ---
 
 The Cultural Research Centre Museum in Jinja focuses on the history and culture of the Busoga kingdom, the traditional kingdom whose territory surrounds the city. Exhibits cover the Basoga people's history, royal regalia, traditional instruments, and the social customs that have shaped life in this part of Uganda for centuries.

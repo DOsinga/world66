@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: 1912 coal-fired steamship still working the lake
 story: "The Earnslaw is the only commercial passenger-carrying coal-fired steamer still operating in the southern hemisphere. The ship was assembled on the lake shore in 1912, the components having been shipped from Dunedin in pieces by rail and bullock cart."
+score: 9.1
 ---
 
 The "Lady of the Lake" is a 51-metre twin-screw steamer that has been working Lake Wakatipu since 1912, originally as a cargo and passenger ferry for the high-country sheep stations. She is still coal-fired, and you can watch the stokers heaving shovel after shovel into the boilers through an open viewing window — half the appeal of the trip.

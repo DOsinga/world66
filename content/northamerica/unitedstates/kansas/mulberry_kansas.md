@@ -1,4 +1,11 @@
 ---
+latitude: 37.5567
+longitude: -94.6252
+score: 4.2
+tags:
+- eating_out
+- restaurant
+- fried_chicken
 title: Eating Out
 type: poi
 ---

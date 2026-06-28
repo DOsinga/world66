@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - village
+score: 7.1
 ---
 
 A Batanga fishing village a short distance south of the Lobé Falls, Grand Batanga is the closest thing to an old coastal settlement near Kribi. The beach in front of the village is one of the best on this stretch of coast — wide, flat, and almost empty during the week — and the few simple restaurants under the palms grill whatever the pirogues bring in that morning.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.5580
 longitude: 68.7760
+score: 7.7
 ---
 
 The streets around the Barakat covered bazaar and the Green Bazaar (Shohi Mansur) form the most traditional neighbourhood in central Dushanbe — densely commercial, noisy, smelling of spices and grilled meat, and entirely local. This is where the city goes shopping: vegetables, meat, hardware, fabric, mobile phones, and everything in between.

@@ -15,6 +15,7 @@ story: >
   industry consolidated at the new port to the south. The name preserves
   a way of life that largely ended in the mid-20th century when motorised
   deep-sea fishing replaced the inshore tradition.
+score: 7.4
 ---
 
 Playa de los Bateles is the main town beach — a broad, gently curving bay of fine pale sand running north from the edge of the old town. It is wide enough that even at peak summer, when the beach is at its busiest, you can find space by walking a few minutes north of the lifeguard stations and beach bar clusters. The Atlantic swell here is moderate, good for bodysurfing and swimming without being intimidating.

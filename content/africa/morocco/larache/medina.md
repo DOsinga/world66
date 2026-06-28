@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.1934
 longitude: -6.1530
+score: 8.1
 ---
 
 Larache has two distinct faces. The old medina is compact and navigable — a tight grid of whitewashed lanes with a central souk, a few mosques, and the usual mixture of butchers, bakers, and hardware shops serving the local population rather than tourists. It is worth an hour on foot, especially the market area near the central square.

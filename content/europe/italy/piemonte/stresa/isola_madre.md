@@ -12,6 +12,7 @@ story: >
   The Borromeo family has owned all three main islands since the 16th century and still lives in the Palazzo Borromeo on Isola Bella. Isola Madre's 16th-century villa is the family's older residence; the gardens surrounding it were among the first English-style landscape gardens in Italy.
 sources:
   - https://en.wikipedia.org/wiki/Isola_Madre
+score: 8.0
 ---
 
 Isola Madre is the largest of the Borromean Islands and the quietest — visitors tend to concentrate on Isola Bella, so this one is more tranquil. The island is almost entirely covered by its botanical garden, a rambling park of camellias, rhododendrons, azaleas, and subtropical plants that thrive in the lake's mild microclimate. White peacocks wander freely through the grounds.

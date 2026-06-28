@@ -13,6 +13,7 @@ story: >
   endurance and a kind of anchor to the specific gravity of his birthplace.
   He spent much of his adult life away from the islands, but the cliff
   remained the fixed point he returned to in imagination.
+score: 8.8
 ---
 
 Beinisvørð (sometimes written Beinisvord) is a 469-metre sea cliff on the western side of Suðuroy, rising sheer from the North Atlantic to form one of the most dramatic coastal profiles in the Faroe Islands. From the sea it is an almost vertical wall of basalt and grass; from the village side it is a steep green mountainside scored with the lines of old paths.

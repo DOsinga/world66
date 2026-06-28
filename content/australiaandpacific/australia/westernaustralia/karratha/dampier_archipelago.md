@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
   - beach
+score: 8.7
 ---
 
 The Dampier Archipelago consists of 42 islands scattered off the Pilbara coast, many uninhabited and accessible only by boat. The islands are part of the same geological formation as the Burrup Peninsula and many carry rock art engravings; they are also significant breeding grounds for seabirds, sea turtles, and dugongs.

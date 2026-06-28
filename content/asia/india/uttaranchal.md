@@ -8,6 +8,8 @@ latitude: 30.041738
 loc_type: region
 longitude: 79.089691
 score: 0.57
+snippet: Himalayan Indian state of pilgrimage towns, high-altitude treks, and the
+  Char Dham shrines.
 title: Uttaranchal
 type: location
 ---

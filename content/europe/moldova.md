@@ -1,21 +1,23 @@
 ---
-latitude: 47.287961
-longitude: 28.567094
-title: Moldova
-type: location
-image: moldova.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kišiněv,_letiště,_AKSM-321_(2019-03-17;_02).jpg
-image_license: CC BY-SA 4.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Harold" title="User:Harold">Harold</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "2.6 million"
-  Cost Level: "Europe's cheapest — meal ~$3"
-  Mileștii Mici Wine Cellar: "200 km of tunnels"
-  Wine Per Capita: Among the highest in the world
-score: 0.37
+image: moldova.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Harold" title="User:Harold">Harold</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kišiněv,_letiště,_AKSM-321_(2019-03-17;_02).jpg
+latitude: 47.287961
 loc_type: country
+longitude: 28.567094
+quick_facts:
+  Cost Level: Europe's cheapest — meal ~$3
+  Mileștii Mici Wine Cellar: 200 km of tunnels
+  Population: 2.6 million
+  Wine Per Capita: Among the highest in the world
+score: 0.46
+snippet: Small landlocked European country of rolling vineyards, cave monasteries,
+  and a quietly hospitable countryside.
+title: Moldova
+type: location
 ---
 
 Moldova is one of Europe's least-visited countries and, for those who find their way here, one of its most rewarding surprises. Wedged between [Romania](/europe/romania) and Ukraine, this small landlocked republic has no mountains, no sea, and no famous monuments — yet it has the world's largest wine cellar, cave monasteries carved into limestone cliffs, and a capital that mixes faded Soviet grandeur with a lively café scene.

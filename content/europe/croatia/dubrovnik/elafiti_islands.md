@@ -12,6 +12,7 @@ story: >
   in the 13th century, with strict rules against the felling of trees and hunting of wildlife — an unusually
   early example of what we would now call environmental protection. The deer are long gone, but the islands
   remain largely forested.
+score: 7.9
 ---
 
 The Elafiti Islands are an archipelago of 13 islands and islets northwest of Dubrovnik, three of which are inhabited: Šipan, Lopud, and Koločep. Regular ferries run from Gruž harbour (25 minutes to Koločep, 50 minutes to Lopud, 75 minutes to Šipan), making any of them a practical day trip.

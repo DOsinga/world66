@@ -13,6 +13,7 @@ story: >
   Irish language in the 1890s and 1900s laid the cultural groundwork for the independence
   movement. The estate is now owned by Michael Flatley, the Lord of the Dance choreographer,
   who bought it in 1999 and says he is too emotionally attached to it ever to sell.
+score: 4.8
 ---
 
 A handsome Georgian manor a few kilometres west of Fermoy on the north bank of the Blackwater, Castlehyde sits within an old walled demesne. The house itself is privately owned and not open to the public, but it is visible from the road and the surrounding landscape — wooded river valley, ancient castle remains, a Gothic revival church — is attractive enough to justify a short detour.

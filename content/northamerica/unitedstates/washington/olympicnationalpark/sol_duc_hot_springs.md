@@ -7,6 +7,7 @@ tags:
   - hot_springs
 title: Sol Duc Hot Springs
 type: poi
+score: 5.9
 ---
 
 Sol Duc Hot Springs is a developed soaking area in a forested valley west of Lake Crescent. It is not a wilderness secret, but a hot pool feels very good after a wet Olympic hike.

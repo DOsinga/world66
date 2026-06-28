@@ -15,6 +15,7 @@ story: >
   go out. When she reaches puberty, or suffers any significant loss of blood (including a
   lost tooth), her divinity is considered to have departed and she returns to normal life.
   Former Kumaris report mixed experiences adjusting to civilian existence afterward.
+score: 7.8
 ---
 
 The Kumari Ghar in Durbar Square houses the living goddess Kumari — a young girl from the Shakya caste selected through a rigorous process to embody the Hindu goddess Taleju until puberty. She lives in this elaborately carved brick building, which dates from 1757, and appears at an upper window on request, or during religious festivals when she is carried through the city in procession.

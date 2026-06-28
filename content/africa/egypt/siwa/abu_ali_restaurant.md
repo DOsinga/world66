@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 29.2032
 longitude: 25.5194
+score: 5.1
 ---
 
 In the centre of town opposite the market square, Abdu has been serving Siwa for decades and is still the safest, most consistent option in the oasis. The menu is long but the things to order are the simple Siwan dishes: vegetable tagine, lamb cooked underground in a pit oven (when available), and the local flatbread.

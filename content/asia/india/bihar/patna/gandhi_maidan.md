@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The vast public ground at the centre of Patna, scene of Bihar's biggest political rallies and Republic Day parades
+score: 6.3
 ---
 
 Gandhi Maidan is a roughly square open ground, about a kilometre on each side, in the heart of Patna. Before independence it was called the Patna Lawns and was the scene of British military reviews; afterwards it became the place where Bihar's political life played out. Jayaprakash Narayan addressed his Total Revolution rally here in 1974, and most major Indian political leaders have spoken from its dais.

@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
 latitude: -6.713704
+loc_type: city
 longitude: 108.560848
+score: 6.72
+snippet: North Java harbour city where Javanese, Sundanese, Chinese, and Islamic royal
+  traditions overlap.
 title: Cirebon
 type: location
-score: 0.44
-loc_type: city
 ---
 
 Cirebon sits on the north coast of Java, a harbour city known locally as Kota Udang (Shrimp City) for the prawns that come in from its waters. The name itself comes from the local word for shrimp. It is a city where Javanese, Sundanese, and Chinese cultures overlap, giving it a character distinct from either [Bandung](/asia/indonesia/bandung) or the Javanese heartland to the east.

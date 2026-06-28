@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 55.70628
 longitude: 9.52033
+score: 6.3
 ---
 
 Vejle's main library, Biblioteket, is housed in a modern building near the town centre that has become one of the more thoughtfully designed public buildings in the region. Danish public libraries have a reputation for architectural ambition — the standard is unusually high across the country — and Vejle's is a decent example of the type: generous light, open-plan reading areas, and spaces that feel genuinely designed for use rather than display.

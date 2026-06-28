@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.1
 ---
 
 Punta Sur covers the southern tip of the island — about 1,000 hectares of mangroves, beaches, lagoons, and dunes. It is one of the more thoughtfully managed parts of Cozumel, with restricted access designed to protect nesting sea turtles in summer and the resident crocodile and bird populations year-round.

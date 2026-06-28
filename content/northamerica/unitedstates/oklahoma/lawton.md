@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldwin_Locomotive_GPM_Law
 latitude: 34.605198
 loc_type: city
 longitude: -98.395228
-score: 0.29
+score: 5.59
+snippet: Southwestern Oklahoma city and Fort Sill neighbour, gateway to the granite
+  Wichita Mountains Wildlife Refuge.
 title: Lawton
 type: location
 ---

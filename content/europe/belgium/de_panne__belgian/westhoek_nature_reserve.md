@@ -8,6 +8,7 @@ tags:
 latitude: 51.0976
 longitude: 2.5561
 story: "The Westhoek holds a third of all Belgium's coastal dunes — some 340 hectares — in a country where the coastline has been so heavily developed that natural dune landscape is genuinely rare. In the 1990s rangers reintroduced Scottish Highland cattle to graze the reserve and prevent scrub from taking over the open sand."
+score: 8.7
 ---
 
 The Westhoek is the largest and most significant dune nature reserve on the Belgian coast. It stretches from the French border west of De Panne along a dramatic ridge of parabolic dunes, with sand valleys dropping sharply on the landward side and a high exposed dune face looking toward the sea.

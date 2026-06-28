@@ -11,6 +11,7 @@ story: >
   political leader or historical figure, but an anonymous person representing the entire nation.
   The sculptor, Sunday Chilufya Jack, chose this approach to emphasise that independence was
   won collectively, not by any individual. It was unveiled on independence day, 24 October 1964.
+score: 4.0
 ---
 
 Standing on Independence Avenue near the government ministries, the Freedom Statue is Lusaka's most visible independence monument. A bronze figure raises one fist to the sky while breaking free of chains at its feet — an image that has become the symbol of Zambian independence and appears on banknotes and official documents.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.3264
 longitude: 21.9914
+score: 8.6
 ---
 
 The Kazimierz Landscape Park (Kazimierski Park Krajobrazowy) covers about 150 square kilometres of loess hills, beech forests and dramatic gorges around the town. The loess — a fine yellow sediment laid down at the end of the last ice age — has been carved by streams into deep, narrow ravines (*wąwozy*) with vertical walls and tree-arched bottoms.

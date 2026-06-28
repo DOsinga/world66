@@ -14,6 +14,7 @@ story: >
   continuously for nearly four hundred years.
 sources:
   - https://en.wikipedia.org/wiki/Inislounaght_Abbey
+score: 7.1
 ---
 
 Inislounaght Abbey stands on the bank of the River Suir about three kilometres west of Clonmel, its ruins half-hidden by trees and accessible via a quiet lane. Founded around 1147 as a Cistercian house, it was one of the earliest monasteries of that order in Ireland, and it remained active until the Henrician suppression in the sixteenth century.

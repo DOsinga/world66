@@ -3,7 +3,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.6216
 longitude: -7.9819
-snippet: 19th-century vizier's palace of lavish courtyards and painted ceilings
+score: 8.8
+snippet: 19th-century vizier's palace of carved cedar ceilings, painted plasterwork,
+  and orange-tree courtyards
 tags:
 - things_to_do
 - sight

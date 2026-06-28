@@ -11,6 +11,7 @@ story: >
   Admiral Miguel Grau is Peru's greatest naval hero. In the 1879 War of the Pacific against Chile, his ironclad Huáscar managed to hold off the entire Chilean fleet for months with a combination of daring tactics and sheer seamanship. Grau died in combat in October 1879 — the Chilean Navy, in a remarkable act of respect, returned his remains to his family and praised him as a model officer.
 sources:
   - https://en.wikipedia.org/wiki/Miguel_Grau_Seminario
+score: 7.3
 ---
 
 The Casa Museo Grau is the birthplace and childhood home of Admiral Miguel Grau Seminario, Peru's most celebrated naval commander and the national hero of the 1879 War of the Pacific. The house has been preserved as a museum and filled with period furnishings, personal objects, photographs, and documents related to Grau's life and the war against Chile.

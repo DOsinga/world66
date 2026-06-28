@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.8992
 longitude: 14.5147
+score: 7.5
 ---
 
 MUZA, the Maltese acronym for the National Community Art Museum, is housed in the Auberge d'Italie, one of the finest surviving auberges of the Knights of St John. The collection spans Maltese art from the medieval period to the 20th century, with particular strength in Baroque painting, Knights-era portraiture, and 19th-century Romantic canvases. There are also works by Mattia Preti, who painted the ceiling vault of St John's Co-Cathedral, and a selection of Caravaggio-influenced Maltese painters from the 17th century.

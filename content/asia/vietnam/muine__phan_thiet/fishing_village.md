@@ -14,6 +14,7 @@ story: >
   reportedly did not know what to classify a round woven basket as.
 sources:
   - https://vietnam.travel/things-to-do/7-ways-have-fun-mui-ne
+score: 8.0
 ---
 
 At the far northeastern end of the resort strip, past the dunes and the kite schools, the working fishing village of Mui Ne occupies a small harbour. The bay is filled with bright-painted boats — traditional Vietnamese round basket boats alongside larger motorised fishing vessels — and in the early morning, the catch is sorted and sold on the beach in a fast, chaotic market.

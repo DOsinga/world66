@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.4151
 longitude: 116.5650
+score: 6.4
 ---
 
 The refurbished canal-front district in western Jining is the city's most appealing urban area — a stretch of restored waterfront architecture, tree-lined towpath, and stone bridges above a working section of the Grand Canal. The heritage development has preserved some of the warehouses and guild halls that served the canal trade, converting them into restaurants, teahouses, and exhibition spaces.

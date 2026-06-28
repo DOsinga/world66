@@ -9,6 +9,7 @@ latitude: 36.0872
 longitude: -109.4876
 story: >
   In Navajo belief, Spider Rock is the home of Spider Woman, a central figure in Meitei creation stories who taught the Navajo the art of weaving. The bleached white top of the spire is said to be the bones of disobedient children who were carried up and eaten by Spider Woman — a piece of cosmological storytelling that also explains the peculiarly pale tip of the otherwise red rock.
+score: 8.8
 ---
 
 Spider Rock is the iconic image of Canyon de Chelly — a slender sandstone spire rising 240 metres from the canyon floor where the two canyons meet. It is visible from the Spider Rock Overlook at the end of the 20-kilometre South Rim Drive, and the view down into the canyon junction is one of the finest in the Southwest. In the right light — late afternoon is ideal — the walls glow an almost unnatural orange-red.

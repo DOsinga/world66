@@ -8,6 +8,7 @@ latitude: 40.7707
 longitude: -111.8911
 story: >
   The Salt Lake Temple, designed by Truman O. Angell and built from quartz monzonite quarried in Little Cottonwood Canyon, took 40 years to complete — from the laying of the cornerstone in 1853 to the dedication in 1893. The original plan called for a building twice as tall, but the granite proved too heavy for the available foundations and the spires had to be shortened.
+score: 9.1
 ---
 
 Temple Square is the heart of Salt Lake City and the spiritual centre of the LDS Church worldwide. The ten-acre block, bounded by North, South, West, and Main streets, holds the Salt Lake Temple, the Tabernacle, the Assembly Hall, and several visitors' centres. It is the single most-visited site in Utah, drawing several million people a year.

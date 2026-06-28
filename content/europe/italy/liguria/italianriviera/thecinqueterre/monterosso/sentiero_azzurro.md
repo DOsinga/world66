@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1449
 longitude: 9.6561
+score: 8.7
 ---
 
 The most famous footpath in the Cinque Terre links all five villages along the cliff face above the sea. The section from Monterosso to Vernazza — about 3.5km — is the most dramatic of the trail, crossing steep terraced vineyards and offering vertiginous views of the coast. Allow 90 minutes in good condition.

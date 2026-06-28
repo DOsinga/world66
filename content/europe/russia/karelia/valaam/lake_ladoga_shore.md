@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.374
 longitude: 30.961
+score: 8.0
 ---
 
 The shoreline of Valaam is one of the most dramatic in the Russian north: smooth granite slabs drop into the cold, clear water of Lake Ladoga, and the view over open water stretches further than you expect from a lake. On calm summer days the surface is glassy; in storms it churns with waves that rival a northern sea.

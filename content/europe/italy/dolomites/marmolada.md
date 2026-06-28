@@ -14,6 +14,7 @@ story: >
   Ice," capable of housing 12,000 troops. The remnants are still slowly emerging from the
   retreating glacier; in 2022, a glacial collapse killed eleven climbers, a reminder that the
   ice is moving.
+score: 8.7
 ---
 
 The highest peak in the Dolomites at 3,343 metres, the Marmolada dominates the southern horizon of the range and carries the last significant glacier in the Dolomites on its north face. The summit is reached by a three-stage cable car from Malga Ciapela — one of the most dramatic cable car rides in the Alps, rising nearly 2,000 metres — with views at the top extending across the entire range on a clear day.

@@ -6,6 +6,7 @@ latitude: 52.2869
 longitude: -1.5344
 sources:
   - https://en.wikipedia.org/wiki/Royal_Pump_Rooms
+score: 7.6
 ---
 
 Housed within the Royal Pump Rooms, Leamington's art gallery punches above its weight for a town of this size. The permanent collection includes Dutch and Flemish old masters — particularly notable for a provincial English gallery — alongside works by British artists from the eighteenth century to the present day.

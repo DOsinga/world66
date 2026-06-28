@@ -12,6 +12,7 @@ story: >
   rebuilt for tourism, Jiele has maintained genuine religious life: monks from the surrounding
   Dai villages use the complex daily, and the early morning chanting sessions that drift from
   the main hall have nothing performative about them.
+score: 8.5
 ---
 
 The Jiele Golden Pagoda sits in Jiele Village, seven kilometres from Ruili city centre along National Highway 320, and is the most significant Buddhist monument in the Dehong region. The main pagoda's gilded spire is visible across the surrounding fields from a considerable distance, and the complex includes prayer halls, a large reclining Buddha, and a series of smaller stupas arranged in the characteristic Dai Buddhist style — lower and more ornate than the Tibetan versions found further north in Yunnan.

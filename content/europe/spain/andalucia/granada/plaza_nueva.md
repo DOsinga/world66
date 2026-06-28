@@ -7,6 +7,7 @@ tags:
   - albaicin
 latitude: 37.1775
 longitude: -3.5935
+score: 6.8
 ---
 
 Plaza Nueva is the main square at the foot of the Albaicín and the de facto hub of Granada's old city. The Río Darro flows beneath it (channelled underground here) and emerges just beyond to run along the Carrera del Darro. The square is lined with cafes and the Royal Chancery building — a fine 16th-century palace that now houses the regional courthouse.

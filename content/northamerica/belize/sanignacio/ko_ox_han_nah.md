@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.1572
 longitude: -89.0697
+score: 6.0
 ---
 
 Ko-Ox Han-nah — "Let's Go Eat" in Maya — is San Ignacio's longest-running tourist-friendly restaurant and still the safest bet for first-time visitors who want a proper Belizean meal. The menu spans curries, stew chicken, conch, and the local Mayan-fusion specials; portions are generous and prices reasonable for the centre of town.

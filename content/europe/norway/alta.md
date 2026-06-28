@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alta,_porto_turistico_01.j
 latitude: 69.966605
 loc_type: city
 longitude: 23.273328
-score: 0.56
+score: 8.17
+snippet: Finnmark town on Altafjord, known for prehistoric rock carvings and dark
+  Arctic skies.
 title: Alta
 type: location
 ---

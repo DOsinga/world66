@@ -8,8 +8,10 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Amarante_(30224415431).jpg
 latitude: 41.269932
 loc_type: city
+snippet: Northern Portuguese river town on the Tâmega, known for São Gonçalo Bridge
+  and balconied houses.
 longitude: -8.080456
-score: 0.55
+score: 7.99
 title: Amarante
 type: location
 ---

@@ -1,12 +1,18 @@
 ---
-title: Denali National Park and Preserve
-type: location
-latitude: 63.734757
-longitude: -148.885135
 done:
   location_cleanup: 2026-04-07
-score: 0.74
+latitude: 63.734757
 loc_type: feature
+longitude: -148.885135
+score: 9.35
+snippet: Alaskan wilderness park around Denali, where tundra, boreal forest, and North
+  America's highest peak meet
+title: Denali National Park and Preserve
+type: location
+image: denali_national_park_and_preserve.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Every_Road-_Denali_(7945497984).jpg
+image_license: Public domain
+image_attribution: Denali National Park and Preserve
 ---
 
 Denali National Park and Preserve covers six million acres — roughly the size of Massachusetts — in the heart of Alaska, 237 miles north of Anchorage and 120 miles south of Fairbanks. No park in North America offers so complete a wilderness ecosystem accessible to the average visitor. Grizzly bears, moose, caribou, wolves, Dall sheep, and dozens of other species roam the tundra plains and boreal forests with almost no human infrastructure in the way.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "When it opened in 1907, the Grand Synagogue of Edirne was the largest synagogue in the Balkans and one of the largest in Europe, designed to serve a Jewish community of around 20,000 people — more than a third of the city's population at the time. The community had lived in Edirne continuously since at least the fifteenth century, when Ottoman Sultan Bayezid II actively encouraged Sephardic Jews expelled from Spain to settle in his empire. By the time the synagogue was built, Edirne had been a centre of Sephardic Jewish life for four hundred years."
+score: 7.9
 ---
 
 The Grand Synagogue of Edirne stands near the old city centre as a monument to what was once one of the most significant Jewish communities in Turkey. Built in 1907 in a Moorish Revival style, the building seats over 1,000 worshippers under high domed ceilings decorated with painted geometric patterns. The façade, with its rose window and arched entrance portal, is more reminiscent of a Spanish cathedral than an Ottoman building — a deliberate architectural reference to the Sephardic community's origins in medieval Spain.

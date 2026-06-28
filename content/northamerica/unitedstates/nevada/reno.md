@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2014-04-09_12_47_05_View_s
 latitude: 39.526179
 loc_type: city
 longitude: -119.812658
-score: 0.43
+score: 7.22
+snippet: Northern Nevada casino city with a scrappy arts scene and easy access to
+  the Sierra Nevada
 title: Reno
 type: location
 ---

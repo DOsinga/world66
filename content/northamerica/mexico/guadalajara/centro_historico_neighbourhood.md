@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 20.6739
 longitude: -103.3441
+score: 8.9
 ---
 
 Guadalajara's historic centre is the most coherent colonial city core in western Mexico — a dense grid of plazas, churches, government buildings, and markets that rewards extended exploration on foot. The four plazas radiating from the Cathedral — de la Liberación, de Armas, de los Laureles, and de los Hombres Ilustres — give the centre an unusual, cross-shaped open structure that makes orientation easy and walking pleasant.

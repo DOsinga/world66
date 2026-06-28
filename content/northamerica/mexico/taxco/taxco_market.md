@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 18.5563
 longitude: -99.6045
+score: 6.8
 ---
 
 The central market spreads through the streets and stairways behind the Plaza Borda, in the tightly packed block between the church and the hill. It runs every day but is most alive in the mornings, when vendors arrive with produce from the surrounding mountains and the food stalls are serving breakfast. The upper levels are dedicated to crafts and dry goods; the lower levels are food.

@@ -5,8 +5,10 @@ done:
 latitude: 40.5197
 loc_type: city
 longitude: 44.7501
-score: 0.37
+score: 6.04
 title: Hrazdan
+snippet: Kotayk Marz administrative town in the Hrazdan River gorge, shaped by Soviet-era
+  industry.
 type: location
 ---
 

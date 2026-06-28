@@ -8,6 +8,7 @@ tags:
   - market
   - sight
 snippet: A witches' market hidden inside a metro station
+score: 7.1
 ---
 
 The **Mercado de Brujas** ("Witches' Market") is hidden inside the **Estación Atocongo** of Lima's Metro line — a row of stalls under the station selling herbal remedies, amulets, *ojo turco* charms against the evil eye, dried llama foetuses for *despachos*, candles in symbolic colours, and ready-made spells for love, money, and revenge. The stallholders are Andean migrants, mostly from the southern highlands, who brought the *curandero* tradition with them when they moved to Lima.

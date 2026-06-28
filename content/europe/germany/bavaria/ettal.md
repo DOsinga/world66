@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ettal_in_March_2008.JPG
 latitude: 47.5687
 loc_type: city
 longitude: 11.0936
-score: 0.53
+score: 7.86
+snippet: Alpine village near Oberammergau, dominated by a grand Benedictine abbey
+  with an oversized baroque basilica.
 title: Ettal
 type: location
 ---

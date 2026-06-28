@@ -7,6 +7,7 @@ tags:
 - sight
 title: Godofredo P. Ramos Airport
 type: poi
+score: 3.8
 ---
 
 Also known as **Caticlan Airport** or simply **Boracay Airport** (IATA: MPH), this small airport in the Malay countryside is the closest to the famous island — only a few kilometres from the jetty port. Domestic flights connect it to Manila, Cebu and Clark. Larger long-haul travellers usually fly into Kalibo, an hour's drive south.

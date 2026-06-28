@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "The Parador Cristóbal Colón takes its name from Christopher Columbus, who set sail from the nearby port of Palos de la Frontera in August 1492. The first voyage of discovery began only a few kilometres from this beach."
+score: 7.2
 ---
 
 About six kilometres east of Mazagón on the road to Matalascañas, the Parador Cristóbal Colón sits on a low sandstone cliff overlooking what is widely regarded as one of the best stretches of beach in the area. Unusually for this coast, where the shoreline is open and unprotected, this beach is sheltered by the cliff and the pine forest behind.

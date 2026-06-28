@@ -12,6 +12,7 @@ story: >
   construction. His son Murad II completed it and added the tiled exterior, which has been restored 
   several times — the famous green tiles you see today are 19th-century replacements, though they 
   follow the original design closely.
+score: 8.3
 ---
 
 The Green Tomb (Yeşil Türbe) stands on the hill above the Green Mosque and contains the sarcophagus of Sultan Mehmed I. The exterior is clad in turquoise tiles — deep green-blue hexagonal faience that gives the building its name and makes it visible from across the valley. It was built between 1421 and 1424, shortly after the sultan's death.

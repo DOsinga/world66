@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Asos,_Kefalonia.jpg
 latitude: 38.266032
 loc_type: city
 longitude: 20.53739
-score: 0.77
+score: 9.24
+snippet: Mountainous Ionian island known for limestone landscapes, coves, and beaches
+  such as Myrtos.
 title: Kefalonia
 type: location
 ---

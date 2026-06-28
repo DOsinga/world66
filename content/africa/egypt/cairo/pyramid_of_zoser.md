@@ -1,12 +1,11 @@
 ---
 latitude: 29.871201
 longitude: 31.216566
+score: 9.0
 snippet: World's oldest pyramid at ancient Saqqara necropolis
 tags:
-- things_to_do
-- museum
-- monument
-- theatre
+- day_trips
+- giza
 title: Pyramid of Zoser (Saqqara)
 type: poi
 ---

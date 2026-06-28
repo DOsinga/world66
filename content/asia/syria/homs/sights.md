@@ -1,8 +1,9 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+score: 2.5
 title: Sights
-type: poi
+type: section
 ---
 
 Below is a selection of Homs sights

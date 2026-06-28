@@ -12,6 +12,7 @@ story: >
   for freedom across four centuries — from enslaved people who resisted bondage to civil 
   rights workers of the twentieth century. Opened in 2021, it is one of the most recently 
   completed memorials of its kind in any American state capital.
+score: 6.9
 ---
 
 North Carolina Freedom Park, opened in 2021 near the Capitol complex, honours the long history of freedom struggles in North Carolina — from the resistance of enslaved people through the civil rights movement and beyond. The memorial occupies a landscaped green space and centres on a series of granite walls inscribed with names, quotes, and an original poem by Maya Angelou commissioned for the site.

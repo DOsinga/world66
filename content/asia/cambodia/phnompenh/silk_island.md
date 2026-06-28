@@ -7,6 +7,7 @@ tags:
 title: Koh Dach (Silk Island)
 type: poi
 snippet: Mekong island of silk weavers, 30 minutes from the city by ferry
+score: 7.5
 ---
 
 A long, narrow island in the Mekong about 15 km upstream from Phnom Penh, reached by a small car ferry from the eastern bank of the river. Koh Dach has been a centre of Cambodian silk weaving for generations, and many family compounds still operate looms in their open-sided ground floors — visitors are welcome to watch and buy directly.

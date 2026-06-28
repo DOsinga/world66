@@ -11,6 +11,7 @@ story: >
   King's Gate (Königstor) was named after King Frederick William IV of Prussia, who ordered its construction. It was one of the seven major city gates built as part of Königsberg's second ring of 19th-century fortifications. The gate's three neo-Gothic niches contain statues of King Ottokar II of Bohemia (who founded the city), Margrave Albert of Brandenburg-Ansbach (who secularised the Duchy of Prussia), and Frederick I of Prussia (who crowned himself the first King of Prussia in Königsberg in 1701).
 sources:
   - https://en.wikipedia.org/wiki/King%27s_Gate,_Kaliningrad
+score: 6.4
 ---
 
 King's Gate is one of the best-preserved of Königsberg's 19th-century city gates and now houses a small museum focused on Königsberg's maritime history and the rebuilding of the city after 1945. The gate itself is a fine piece of neo-Gothic brick architecture, with three arched passages and a facade decorated with sculptural niches. The contrast between the ornate Prussian military architecture and the Soviet-era apartment blocks surrounding it is one of the city's most striking juxtapositions.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kilrush_Town_Hall_-_geogra
 latitude: 52.634
 loc_type: city
 longitude: -9.4836
-score: 0.45
+score: 6.96
+snippet: West Clare market town on the Shannon Estuary, gateway to Scattery Island
+  and Loop Head.
 title: Kilrush
 type: location
 ---

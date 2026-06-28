@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1_borgarnes_aerial_pano_20
 latitude: 64.538334
 loc_type: city
 longitude: -21.920208
-score: 0.52
+score: 7.87
+snippet: West Iceland town on Borgarfjörður where saga history meets Route 1 road-trip
+  practicality.
 title: Borgarnes
 type: location
 ---

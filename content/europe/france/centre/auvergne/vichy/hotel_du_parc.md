@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/H%C3%B4tel_du_Parc
 story: >
   Marshal Pétain occupied the top floor of the Hôtel du Parc from July 1940 until the Liberation in August 1944, running what was nominally a sovereign French government from his private suite. The hotel's ballroom served as the regime's main reception hall, and its corridors hosted negotiations with Nazi officials that resulted in the deportation of 77,000 Jews from France. The building still stands, converted to apartments, its history marked only by a modest commemorative plaque.
+score: 8.0
 ---
 
 The Hôtel du Parc is the most historically significant building in Vichy — and arguably one of the most charged addresses in modern French history. From 1940 to 1944, it served as the seat of the Vichy regime: Marshal Pétain had his private quarters here, his ministers worked from nearby hotels that had been requisitioned as ministries, and the decisions that defined France's wartime collaboration with Nazi Germany were made in these rooms. The building itself is handsome and unremarkable — a large Edwardian hotel of the kind Vichy accumulated in quantity during its spa heyday — which only deepens the unease.

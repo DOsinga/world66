@@ -11,6 +11,7 @@ latitude: 18.1474
 longitude: -65.4391
 story: >
   The fortín was the last fortification built by Spain in the Americas, completed in 1845 — just over fifty years before Spain lost Puerto Rico in the Spanish-American War. It saw no significant combat and was used variously as a barracks, a jail, and a hurricane shelter before opening as a museum.
+score: 7.4
 ---
 
 The squat little fort on the hill above Isabel Segunda is the closest thing Vieques has to a historic monument. Its small museum walks through the island's complicated past — the Taíno, the Spanish, the sugar barons, and most painfully the six decades of US Navy occupation that ended in 2003.

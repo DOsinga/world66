@@ -12,6 +12,7 @@ story: >
   California, and Pony Express. The most reliable river crossing of the North Platte was here, and
   in 1847 Brigham Young's Mormon pioneer company ran a ferry on the site to earn cash from passing
   emigrants.
+score: 8.4
 ---
 
 A federally run museum perched on a bluff above the North Platte, dedicated to the great westward

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Toru%C5%84_Cathedral
   - https://en.wikipedia.org/wiki/Tuba_Dei
 story: "The Tuba Dei bell, cast in 1500 and weighing over 7 tonnes, is the largest medieval bell in Poland. It is rung only on major religious occasions and the sound carries across the Vistula. The baptismal font below, where Copernicus was christened in 1473, makes the cathedral one of the most historically layered spaces in the city."
+score: 8.8
 ---
 
 The Cathedral Basilica of Saints John the Baptist and John the Evangelist is a massive Gothic brick structure that has dominated Toruń's skyline since the 14th century. It is one of the largest churches in Poland and one of the most important examples of Gothic brick architecture in the region.

@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: "The 12th-century turquoise-domed Seljuk mausoleum that survived the Mongols"
 story: "The 14th-century Arab traveller Ibn Battuta wrote that the dome of Sultan Sanjar's mausoleum could be seen from a full day's march away across the desert. The dome was originally clad in glazed turquoise tiles — the colour of the dome was the visual signature of medieval Merv."
+score: 8.5
 ---
 
 The Sultan Sanjar Mausoleum is the most complete monument left at Merv. It was built in 1157 for the Seljuk ruler Ahmad Sanjar, who had died after years of imprisonment by his own subjects. The structure is a 38-metre-cube of brick topped by a 30-metre dome — at the time of its completion, one of the largest brick domes in the world. The outer dome was clad in turquoise tiles that could be seen from a day's journey away; that outer skin is gone, leaving the inner dome exposed.

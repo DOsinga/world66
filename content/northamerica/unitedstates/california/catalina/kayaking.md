@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.3440
 longitude: -118.3290
+score: 8.4
 ---
 
 Kayaking around Catalina's shoreline is one of the best ways to access sea caves, secluded coves, and kelp beds that are inaccessible on foot. The water close to shore is usually calmer than the open channel, and on flat-water days you can paddle several kilometres from Avalon along the cliff coast in either direction. Sea caves north of Avalon are a popular destination.

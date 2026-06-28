@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.8561
 longitude: 0.5928
+score: 8.1
 ---
 
 Hastings Contemporary — formerly known as the Jerwood Gallery — is a modern art gallery on the Stade seafront, opened in 2012 in a purpose-built building clad in black ceramic tiles that deliberately echo the traditional tarred net shops nearby. The building won considerable praise for its sympathetic response to its surroundings while being entirely contemporary in form.

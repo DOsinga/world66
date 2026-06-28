@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.5264
 longitude: 68.5384
+score: 6.9
 ---
 
 The museum is split between the two madrasas and a small modern annex. The collection includes pottery from the surrounding archaeological sites, coins, weapons from the emirate period, and ethnographic material — embroidered robes, suzanis, traditional cradles.

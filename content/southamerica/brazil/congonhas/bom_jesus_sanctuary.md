@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sanctuary_of_Bom_Jesus_de_Matosinhos
   - https://whc.unesco.org/en/list/334/
 story: "Aleijadinho — 'the little cripple' — carved the twelve prophets in his sixties, after his hands had become so deformed by disease that he had to have his tools strapped to his wrists. He worked at dawn so that the townspeople would not see his condition."
+score: 9.5
 ---
 
 The sanctuary sits on a hill at the western edge of town, a white-and-blue church set behind a sloping forecourt and a great double staircase that leads up to it. The whole composition is striking from below, but what gives it world standing are the twelve figures arranged along the terraces of that staircase: Isaiah, Jeremiah, Baruch, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Habakkuk, and Nahum, carved by Aleijadinho in soapstone between 1800 and 1805.

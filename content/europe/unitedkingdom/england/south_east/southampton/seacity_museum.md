@@ -14,6 +14,7 @@ tags:
 - museum
 title: SeaCity Museum
 type: poi
+score: 8.3
 ---
 
 Southampton's maritime museum is built around the city's connection to the Titanic. The main gallery recreates the ship's departure and the inquiry that followed, drawing on objects, documents, and personal stories from the crew members — the majority of whom were from Southampton. There is also a strong section on the port's wider history, from the medieval wool trade to the great ocean liners of the twentieth century. Allow two hours.

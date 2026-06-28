@@ -9,6 +9,7 @@ longitude: 8.8118
 story: >
   During the Second World War, the Kunsthalle's collection was evacuated to a country house for safekeeping.
   A crate of 21 drawings — including works by Dürer, Rembrandt, and Goya — disappeared in 1945 and turned up in a St. Petersburg museum in 2010, one of the largest Nazi-looted art discoveries of recent decades.
+score: 8.3
 ---
 
 The Kunsthalle is Bremen's main art museum, a neoclassical building on Am Wall facing the old city moat. The collection is broad but particularly strong in 19th and early 20th-century European painting — Delacroix, Courbet, and a substantial group of works by Paula Modersohn-Becker, the Expressionist painter associated with the Worpswede artists' colony outside Bremen. The prints and drawings collection is one of the most comprehensive in Germany.

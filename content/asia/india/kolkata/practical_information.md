@@ -1,6 +1,6 @@
 ---
 title: Practical Information in Kolkata
-type: poi
+type: section
 url: www.indiandestination.com
 ---
 

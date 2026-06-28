@@ -8,6 +8,7 @@ tags:
   - sight
   - neustadt
 story: "Paracelsus, the 16th-century alchemist and physician who gave us the word 'bombast' and most of the foundations of toxicology, is buried in the wall on the south side. The remains of Mozart's wife Constanze and his father Leopold lie in a family vault near the centre."
+score: 7.4
 ---
 
 Just across the river behind the Linzergasse, this small Italianate cemetery, laid out in 1600 around an octagonal central chapel, is one of the most peaceful corners of Salzburg. The arcaded loggia, modelled on the Campo Santo in Pisa, shelters the tombs of generations of Salzburg burghers.

@@ -10,6 +10,7 @@ latitude: 38.9500
 longitude: 115.9600
 story: >
   During the Second World War the Baiyang Lake wetland was the operational base for a Chinese resistance network known as the Yanchou detachment, who used the reeds and shallow channels for concealment and ambush. They built boats under the cover of the reed beds, ferried weapons and intelligence through the Japanese-controlled territory, and conducted guerrilla operations from a landscape that the occupiers found effectively impenetrable. The story was later turned into a celebrated Chinese novel, "Tracks in the Snowy Forest," and a film.
+score: 6.8
 ---
 
 Baiyang Lake is the largest freshwater wetland in northern China, a broad reed-and-lotus landscape east of Baoding city covering around 360 square kilometres at full extent. The lake is best known to Chinese visitors for its summer lotus bloom, when the open-water sections fill with pink flowers and the wetland edges are dense with reeds and wading birds. Boat tours through the reed channels are the standard way to explore.

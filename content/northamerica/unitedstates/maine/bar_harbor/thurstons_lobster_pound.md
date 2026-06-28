@@ -8,6 +8,7 @@ tags:
 latitude: 44.2381
 longitude: -68.3327
 address: "9 Thurston Road, Bernard"
+score: 7.8
 ---
 
 About thirty minutes' drive from Bar Harbor on the quieter west side of Mount Desert Island, in the working harbour of Bernard. You pick your lobster from a tank, they cook it, and you carry the tray to a picnic table on a pier over the water.

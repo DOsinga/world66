@@ -13,6 +13,7 @@ story: >
   quickly crushed — gave the Spanish authorities the excuse they needed to execute
   three Filipino priests, Gomez, Burgos, and Zamora, whose deaths became a rallying
   point for the independence movement.
+score: 7.6
 ---
 
 Fort San Felipe sits on a promontory above Cavite City's old port district, and its thick stone walls still enclose a working naval installation — the headquarters of the Philippine Navy. The fort dates to the late 16th century and was the primary Spanish naval base in Asia for much of the colonial period. Ships were built and repaired here; treasure galleons loaded here for the run to Acapulco.

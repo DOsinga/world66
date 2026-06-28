@@ -12,6 +12,7 @@ story: >
   components — the islands and their reefs, but also a mainland section of coastal
   forest and savanna that is one of the few places in Mozambique where both dugong and
   African wild dog are found, in the same protected area, within a few kilometres of each other.
+score: 7.3
 ---
 
 The Quirimbas National Park was established in 2002 and covers around 7,500 square kilometres, encompassing the southern 11 islands of the archipelago (from Ibo south to just north of Pemba), a strip of the adjacent mainland coast, and the marine area between them. It is managed jointly by the Mozambican government and a conservation organisation, and entry fees go partly to community development programmes in the villages within the park boundary.

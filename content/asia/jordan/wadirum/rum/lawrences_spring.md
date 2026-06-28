@@ -11,6 +11,7 @@ story: >
   Lawrence connection is based on a passage in Seven Pillars of Wisdom where he describes bathing
   here on his way through the desert during the Arab Revolt. Whether it was actually this specific
   spring is debated, but the name has stuck since the 1920s.
+score: 7.4
 ---
 
 About two kilometres south of the village, a natural spring seeps from the rock face on the slopes of Jabal Rum. The climb up to it is short but steep, through thickets of wild mint and fig trees — a startling burst of green in a landscape that is otherwise entirely mineral.

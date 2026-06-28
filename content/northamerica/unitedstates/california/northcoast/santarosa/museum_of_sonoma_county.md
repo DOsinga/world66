@@ -9,6 +9,7 @@ longitude: -122.7169
 address: 425 7th Street, Santa Rosa, CA 95401
 phone: (707) 579-1500
 snippet: Sonoma County's main art and history museum in a restored 1909 post office
+score: 7.1
 ---
 
 The Museum of Sonoma County occupies a restored 1909 federal post office building in downtown Santa Rosa, a handsome Neoclassical structure that survived the city's earthquake and fire history. The permanent collection focuses on art created in or about Sonoma County, with a particular strength in early 20th-century California painting. The history galleries cover the county's ranching, wine, and immigrant heritage.

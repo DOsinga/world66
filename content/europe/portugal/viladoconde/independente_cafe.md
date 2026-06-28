@@ -6,6 +6,7 @@ tags:
   - bar
 title: Independente Café
 type: poi
+score: 4.3
 ---
 
 A cafe and bar in the centre of Vila do Conde with a lively atmosphere, karaoke on some nights, and a relaxed crowd. A good option for an inexpensive drink in a characterful local setting.

@@ -12,6 +12,7 @@ title: Church of Our Lady before Týn
 type: poi
 story: >
   The astronomer Tycho Brahe, who died in Prague in 1601, is buried inside the Týn Church. The slab is easy to miss. He died just eleven days after attending a state dinner where, according to contemporary accounts, he refused to leave the table to relieve himself out of etiquette, rupturing his bladder.
+score: 8.4
 ---
 
 The twin Gothic spires of the Týn Church have loomed over Old Town Square since 1385, their dark, slightly menacing silhouette one of the defining images of Prague. They rise to 80 metres, slightly asymmetrical — legend says the taller one represents Adam, the shorter Eve. The church is entered from behind, through a passage beneath the arcaded building fronting the square.

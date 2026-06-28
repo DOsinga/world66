@@ -3,9 +3,11 @@ address: Villaroel 170
 latitude: 41.389
 longitude: 2.1522
 phone: +34 93 454 6000/7000
+score: 2.2
 snippet: Major public hospital with 24-hour emergency department
 tags:
 - practical_information
+- eixample
 title: Hospital Clinic
 type: poi
 ---

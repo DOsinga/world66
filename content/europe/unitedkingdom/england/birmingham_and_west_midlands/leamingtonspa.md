@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Colourful_part_of_Jephson_
 latitude: 52.2913
 loc_type: city
 longitude: -1.5364
-score: 0.44
+score: 7.04
+snippet: Regency Warwickshire spa town known for saline springs, white-stucco terraces,
+  and riverside Pump Room gardens.
 title: Leamington Spa
 type: location
 ---

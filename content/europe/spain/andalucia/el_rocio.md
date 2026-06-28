@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Roc%C3%ADo_-_View_from_
 latitude: 37.130708
 loc_type: city
 longitude: -6.484735
-score: 0.56
+score: 7.87
+snippet: Sandy Andalusian pilgrimage village beside Doñana marshes, transformed each
+  Pentecost by the Romería de El Rocío
 sources:
 - https://en.wikipedia.org/wiki/El_Roc%C3%ADo
 - https://en.wikipedia.org/wiki/Romer%C3%ADa_de_El_Roc%C3%ADo

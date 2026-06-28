@@ -9,6 +9,7 @@ tags:
 title: Hanauma Bay
 type: poi
 story: "Hanauma Bay was formed when the sea flooded a volcanic crater about 32,000 years ago. The bay was declared Hawaii's first state underwater park in 1967, after years of snorkellers and fishermen had depleted the reef. By the 1990s, 10,000 visitors per day had caused serious coral damage. The current system — mandatory conservation video before entry, limited daily capacity, two closure days per week — has allowed the reef to partially recover, and fish populations have rebounded significantly."
+score: 8.9
 ---
 
 Hanauma Bay is one of the most visited snorkelling sites in the United States — a near-perfect natural bay sheltered by the rim of an ancient volcanic crater, with warm, clear water and a reef teeming with colourful fish just metres from the beach. The bay is a designated marine life conservation district: no fishing, no standing on coral, no touching anything.

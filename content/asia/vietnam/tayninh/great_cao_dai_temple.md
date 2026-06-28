@@ -14,6 +14,7 @@ story: >
   heavenly emissary and his portrait appears prominently in the temple. Hugo
   was chosen in part because of his championing of the oppressed and his
   spiritual writings late in life.
+score: 9.3
 ---
 
 The Great Cao Dai Temple — officially the Tây Ninh Holy See — is the Vatican of Cao Dai, the syncretic Vietnamese religion founded in 1926 that blends Buddhism, Taoism, Confucianism, Christianity and elements of Western spiritualism. The temple itself was built between 1933 and 1955 and is one of the most visually spectacular buildings in Southeast Asia: a vast and brightly coloured structure with twin towers, a blue-and-pink facade, dragon-wrapped columns, and an enormous all-seeing eye above the central portal.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "South Australia's main performing arts complex on the north bank of the Torrens"
+score: 7.9
 ---
 
 Opened in 1973 — the first purpose-built arts centre in Australia — the Festival Centre sits on the north bank of the Torrens at the western end of King William Street. The brutalist complex contains four performance spaces, including the main Festival Theatre (capacity 2,000) and the smaller Dunstan Playhouse.

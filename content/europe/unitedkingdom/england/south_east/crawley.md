@@ -1,14 +1,16 @@
 ---
 latitude: 51.110344
 longitude: -0.180109
-score: 0.32
+score: 5.32
 title: Crawley
 type: location
 loc_type: city
+snippet: West Sussex New Town beside Gatwick, with a surviving medieval High Street
+  under the airport economy
 done:
   location_enrich: '2026-05-30'
 sources:
-  - https://en.wikipedia.org/wiki/Crawley
+- https://en.wikipedia.org/wiki/Crawley
 ---
 
 Crawley is a post-war New Town in West Sussex, designated in 1947 and built over the following decades to relieve housing pressure on London. Most visitors know it only as the town next to [Gatwick Airport](/europe/unitedkingdom/england/south_east/crawley/gatwick_airport), which sits just north of the borough and dominates the local economy. If you are flying in or out of Gatwick, Crawley offers cheaper hotels and more choice in restaurants than the airport itself.

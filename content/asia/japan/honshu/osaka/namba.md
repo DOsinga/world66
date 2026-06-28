@@ -6,7 +6,12 @@ tags:
 - neighbourhood
 latitude: 34.6685
 longitude: 135.5014
-snippet: "The city's entertainment heart: neon, food stalls, theatres, and the Dotonbori canal"
+snippet: 'The city''s entertainment heart: neon, food stalls, theatres, and the Dotonbori
+  canal'
+image: namba.jpg
+image_source: https://www.flickr.com/photos/21186555@N07/35331679992
+image_license: CC BY 2.0
+image_attribution: . Ray in Manila on Flickr
 ---
 
 The southern hub of Osaka, where the city does its eating, drinking, and entertaining. The Dotonbori canal runs through the northern edge of Namba, and the streets radiating south from it are a continuous press of restaurants, street food stalls, karaoke boxes, shops, and nightlife venues. Namba Station sits at the centre, where several subway lines and private rail lines converge.

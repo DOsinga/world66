@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Le Trio Coffee
 type: poi
+score: 5.8
 ---
 
 Le Trio is one of a handful of Lao specialty coffee shops that have appeared since the mid-2010s. Beans are sourced from the Bolaven Plateau, roasted in Vientiane, and brewed with proper care — espresso, pour-over, or cold brew. The space is small, clean, and pleasantly air-conditioned, with a small selection of pastries.

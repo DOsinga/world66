@@ -8,6 +8,7 @@ tags:
 latitude: 40.7626
 longitude: -111.9000
 address: 300 South Rio Grande Street (450 West)
+score: 7.1
 ---
 
 The Rio Grande Depot, opened in 1910 as the Denver and Rio Grande Railroad's western Utah terminal, is a grand Renaissance Revival station of pale stone, vaulted ceilings, and high-arched windows. The original Pullman ticket counter and the wood-paneled waiting room are intact. It is one of the city's most photogenic interiors and a National Historic Landmark.

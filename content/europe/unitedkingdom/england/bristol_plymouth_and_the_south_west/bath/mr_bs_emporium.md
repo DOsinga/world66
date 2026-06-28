@@ -6,6 +6,7 @@ longitude: -2.3623
 tags:
   - shopping
   - market
+score: 6.9
 ---
 
 One of the best independent bookshops in England, tucked away on John Street near Queen Square. Mr B's is known for its "reading spa" — a personalised book recommendation session where a bookseller interviews you about your tastes over a glass of champagne and emerges with a stack of handpicked suggestions. It needs to be booked in advance and costs around eighty pounds, which includes the books.

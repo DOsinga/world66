@@ -1,9 +1,12 @@
 ---
+latitude: 17.0747
+loc_type: country
+longitude: -61.8175
+score: 0.48
+snippet: Twin-island Caribbean country where beach-ringed Antigua contrasts with quieter,
+  low-lying Barbuda offshore.
 title: Antigua and Barbuda
 type: location
-loc_type: country
-latitude: 17.0747
-longitude: -61.8175
 ---
 
 Antigua and Barbuda is a twin-island nation in the eastern Caribbean, about halfway along the arc of the Lesser Antilles between Puerto Rico and Trinidad. The two islands could hardly be more different. Antigua, with around 80,000 people, is the hub — busy, well-developed, and ringed by 365 beaches (one for every day of the year, so they say). Barbuda, just 40 km to the north, has fewer than 2,000 inhabitants, no traffic lights, and some of the best undisturbed beaches in the Caribbean. Both are flat, dry, and coral-ringed in the manner of the eastern Caribbean islands.

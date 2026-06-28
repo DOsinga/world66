@@ -8,6 +8,7 @@ tags:
 - sights
 title: Akagera National Park
 type: poi
+score: 9.2
 ---
 
 Head east from Kigali (about 2.5 hours) to find one of the most accessible wildlife parks in East Africa. Akagera was badly degraded after the genocide — much of it was settled by returning refugees — but has been rehabilitated since 2010 under a partnership with African Parks. Lions were reintroduced in 2015 and black rhino in 2017, completing the Big Five.

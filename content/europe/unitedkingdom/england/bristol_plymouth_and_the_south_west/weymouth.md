@@ -2,16 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+image: weymouth.jpg
+image_attribution: Chris Talbot
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Weymouth_-_Weymouth_Harbour_-_geograph.org.uk_-_2854355.jpg
 latitude: 50.609626
+loc_type: city
 longitude: -2.454342
-score: 0.49
+score: 7.61
+snippet: Dorset seaside town with a Georgian esplanade, working harbour, and easy
+  access to the Jurassic Coast.
 title: Weymouth
 type: location
-loc_type: city
-image: weymouth.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Weymouth_-_Weymouth_Harbour_-_geograph.org.uk_-_2854355.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Chris Talbot
 ---
 
 Weymouth is a seaside town on the Dorset coast with a sweeping Georgian esplanade, a working harbour, and easy access to the Jurassic Coast. King George III put it on the map when he came here to bathe in the 1780s, and the town has been drawing visitors ever since — though these days the crowd is more bucket-and-spade than royal.

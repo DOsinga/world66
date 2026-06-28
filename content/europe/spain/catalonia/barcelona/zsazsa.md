@@ -1,10 +1,12 @@
 ---
 address: Carrer del Rosselló 156, Barcelona
 latitude: 41.3893
-longitude: 2.1560
+longitude: 2.156
+score: 5.6
 snippet: Elegant Eixample cocktail bar with polished atmosphere
 tags:
 - bars_and_cafes
+- eixample
 title: Zsa-Zsa
 type: poi
 ---

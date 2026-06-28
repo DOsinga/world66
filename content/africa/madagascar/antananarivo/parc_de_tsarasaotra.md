@@ -6,6 +6,7 @@ tags:
 - sight
 title: Parc de Tsarasaotra
 type: poi
+score: 7.7
 ---
 
 Tsarasaotra is Antananarivo's best-kept secret — a private wetland reserve hidden inside the city, managed by the Malagasy Ornithological Group. The park protects a shallow lake and reed beds that have become a major urban roost for waterbirds. At dusk, hundreds of cattle egrets, black-crowned night herons, and sacred ibises fly in to roost in the eucalyptus trees above the water, creating a remarkable spectacle against the Tana skyline.

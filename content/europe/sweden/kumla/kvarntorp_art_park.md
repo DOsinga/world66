@@ -13,6 +13,7 @@ story: >
   ignited spontaneously and simply never stopped burning. Thermal cameras show the interior
   glowing red; the surface reaches 60°C in places. Engineers have concluded it will keep
   burning for at least another century.
+score: 8.6
 ---
 
 The Kvarntorp industrial area south of Kumla was a large alum-shale processing plant that operated from the 1940s through 1966, extracting oil from the rock during the wartime fuel shortage. When the plant closed it left a series of vast slag heaps — and one of them caught fire and has been burning slowly from the inside ever since. The heap now stands more than 100 metres high, smokes lightly at its vents, and is measurably warm underfoot in places.

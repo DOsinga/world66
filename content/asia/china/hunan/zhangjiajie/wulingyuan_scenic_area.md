@@ -8,6 +8,7 @@ latitude: 29.3456
 longitude: 110.4667
 story: >
   The Wulingyuan designation covers 630 square kilometres and includes four separate scenic areas under one multi-day ticket. The UNESCO citation in 1992 specifically described the sandstone columns as "a natural heritage of exceptional significance" — the language is cautious by design, but in practice the columns are unlike anything found at comparable scale anywhere else on earth. The film Avatar did not invent the comparison to floating mountains; Chinese landscape painters had been making that connection for three hundred years before James Cameron saw a photograph.
+score: 9.8
 ---
 
 The [Wulingyuan](/asia/china/hunan/wulingyuan) World Heritage area encompasses more than 3,000 quartzite sandstone columns rising from forested gorges, four major scenic areas, and a complete tourist infrastructure of cable cars, internal buses, and the extraordinary Bailong Elevator. Most visitors buy a multi-day ticket (around ¥227 for four consecutive days) and spend two or three full days working through the main areas.

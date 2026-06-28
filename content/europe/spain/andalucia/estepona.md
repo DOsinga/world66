@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-21'
 latitude: 36.426807
 loc_type: city
+snippet: Costa del Sol town with a whitewashed old quarter, beach promenade, and large-scale
+  street murals
 longitude: -5.146848
-score: 0.57
+score: 8.25
 title: Estepona
 type: location
 ---

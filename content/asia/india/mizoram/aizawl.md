@@ -9,11 +9,14 @@ sources:
 - https://en.wikipedia.org/wiki/Mizoram_State_Museum
 - https://en.wikipedia.org/wiki/Solomon%27s_Temple,_Aizawl
 title: Aizawl
+snippet: Mizo hill capital strung along steep ridges, with markets, church bells,
+  and green valley views.
 type: location
 image: aizawl.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aizawl_de_nuit.jpg
 image_license: CC BY 2.0
 image_attribution: Joe Fanai from Aizawl, India
+score: 6.36
 ---
 
 Aizawl is a hill capital in the most literal sense: the city runs along a steep ridge, with houses clinging to slopes and views opening suddenly between lanes. It is the practical base for [Mizoram](/asia/india/mizoram), but it also gives the best first taste of Mizo life: church bells, tidy markets, traffic squeezing around impossible bends, and green hills in every direction.

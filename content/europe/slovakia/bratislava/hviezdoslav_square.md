@@ -5,6 +5,7 @@ tags: [things_to_do, sight, stare_mesto]
 latitude: 48.1419
 longitude: 17.1122
 story: Hviezdoslav Square was laid out in the 1890s as a tree-lined promenade connecting the old town to the new residential districts to the east. It was named after the Slovak poet Pavol Orság Hviezdoslav, whose statue stands in the centre. The street's French-influenced design was a deliberate attempt to give the provincial city a more metropolitan character.
+score: 7.5
 ---
 
 Hviezdoslav Square (Hviezdoslavovo námestie) is the most gracious public space in central Bratislava — a wide, tree-lined boulevard running east from the old town to the Danube embankment. The square is flanked by the Slovak National Theatre, the Reduta concert hall, and a row of 19th-century hotels and apartments. In the centre stands the statue of the Slovak poet Hviezdoslav, with benches arranged around it.

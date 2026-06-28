@@ -7,6 +7,7 @@ tags:
 - beach
 title: Fort Myers Beach
 type: poi
+score: 6.8
 ---
 
 Fort Myers Beach occupies Estero Island, a long barrier island connected to the mainland by a bridge south of Fort Myers proper. The northern end, around Times Square and the pier, is the most developed stretch — outdoor bars, seafood restaurants, souvenir shops, and the full vocabulary of a busy Florida beach town. It is loud, cheerful, and unambiguous about what it is. The beach itself is wide and white, with gentle surf and warm water for most of the year.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:BELARUS_-_GRODNO_(%D0%93%D
 latitude: 53.6884
 loc_type: city
 longitude: 23.8258
-score: 0.38
+score: 6.71
+snippet: Western Belarusian river city with Polish-Lithuanian heritage, baroque churches,
+  synagogues, and twin castles.
 title: Hrodna (Grodno)
 type: location
 ---

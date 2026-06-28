@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-12'
+image: bundaberg.jpg
+image_attribution: Inas at wts wikivoyage
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Australia_bundaberg_aerial.jpg
 latitude: -24.8653
 loc_type: city
 longitude: 152.3517
-score: 0.47
+score: 6.96
+snippet: Queensland sugarcane city on the Burnett River, known for rum and nearby
+  turtle nesting beaches.
 title: Bundaberg
 type: location
-image: bundaberg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Australia_bundaberg_aerial.jpg
-image_license: Public domain
-image_attribution: Inas at wts wikivoyage
 ---
 
 Bundaberg sits on the Burnett River in southern Queensland, best known to the world for its dark rum — the [Bundaberg Rum Distillery](/australiaandpacific/australia/queensland/bundaberg/bundaberg_distillery) has been producing it here since 1888, and the famous polar bear still graces every bottle. The city itself is a working agricultural hub, surrounded by sugarcane fields and macadamia orchards, with a relaxed pace that suits a day or two of exploration. The central [Bourbong Street](/australiaandpacific/australia/queensland/bundaberg/bourbong_street), lined with late-nineteenth-century brick buildings and a row of heritage weeping figs, is the heart of the old town.

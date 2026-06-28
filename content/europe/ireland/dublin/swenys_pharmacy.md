@@ -6,11 +6,13 @@ done:
 latitude: 53.339084
 longitude: -6.251139
 opening_hours: Mon–Sat 10:00–17:00
+score: 7.4
 snippet: Victorian pharmacy unchanged since Leopold Bloom's famous lemon soap purchase
 tags:
 - things_to_do
 - James Joyce
 - Literature
+- georgian_dublin
 title: Sweny's Pharmacy
 type: poi
 url: www.sweny.ie

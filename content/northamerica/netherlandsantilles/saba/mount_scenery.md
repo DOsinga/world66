@@ -5,6 +5,7 @@ tags: [things_to_do, sight, hiking, nature]
 latitude: 17.634999999999998
 longitude: -63.23916666666667
 story: Mount Scenery is the highest point in the entire Kingdom of the Netherlands — at 877 metres above sea level, it tops anything in metropolitan Holland, and even beats the highest peak in Bonaire. The Sefton Trail from Windwardside climbs through five distinct vegetation zones, from dry scrub at sea level to a cloud forest near the summit where mosses, tree ferns, and bromeliads envelop everything in permanent green.
+score: 9.1
 ---
 
 Mount Scenery is the reason many people come to Saba — and it delivers. The trail starts at the upper end of Windwardside and climbs 1,064 steps (you will count some of them) through increasingly dramatic forest to the 877-metre summit. The lower slopes are dry and sunny; higher up the vegetation closes in and the air grows cool and damp. Near the top, elfin forest takes over: gnarled trees barely taller than you are, draped in hanging mosses and ferns, with orchids in the branches and land crabs crossing the path.

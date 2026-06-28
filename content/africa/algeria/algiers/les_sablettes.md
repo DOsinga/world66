@@ -6,6 +6,7 @@ longitude: 3.0660
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 Les Sablettes is one of the better-known traditional restaurants in Algiers, serving classic Algerian cooking in a setting that does not try too hard to be atmospheric. The couscous here is carefully made — the semolina steamed twice over the broth, served with a rich lamb and vegetable stew, and accompanied by harissa and the optional sweet raisin sauce. The bastilla (a filo pastry filled with chicken and spiced with cinnamon and almonds) is worth ordering as a starter.

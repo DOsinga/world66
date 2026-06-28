@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Claims to be the oldest continuously operating bar in West Virginia (since 1899)
+score: 5.9
 ---
 
 The North End on 7th Street has been pouring drinks since 1899 and claims, with reasonable justification, to be the oldest continuously operating bar in West Virginia. It survived Prohibition by reinventing itself as a confectionery and ice-cream parlour, and reopened as a tavern the day Prohibition ended in 1933.

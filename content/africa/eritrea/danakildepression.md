@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Danakil_Salt_Plain.jpg
 latitude: 14.2417
 loc_type: feature
 longitude: 40.3
+score: 7.0
+snippet: Eritrean lowland of salt flats, lava fields, sulphur springs, and Red Sea
+  desert approaches.
 sources:
 - https://en.wikipedia.org/wiki/Danakil_Depression
 - https://en.wikipedia.org/wiki/Danakil_Desert

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture, stare_mesto]
 latitude: 48.1441
 longitude: 17.1155
 story: The Blue Church was designed by Hungarian architect Edmund Lechner and completed in 1913. Lechner was the master of Hungarian Art Nouveau, and the church is considered his finest work — a deliberate rejection of the grey stone Gothic that dominated ecclesiastical architecture at the time. The entire surface, inside and out, is tiled in pale blue and white majolica.
+score: 8.4
 ---
 
 The Church of St Elizabeth — known universally as the Blue Church — is one of the most visually striking buildings in Bratislava and a pilgrimage site for fans of Art Nouveau architecture. The building is covered top to bottom in pale blue and white glazed tiles, from the dome and towers down to the base. Decorated with floral motifs and intricate ornamental detail, it looks more like a Fabergé egg than a church.

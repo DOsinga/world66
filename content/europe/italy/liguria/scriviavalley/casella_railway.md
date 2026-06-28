@@ -9,6 +9,7 @@ tags:
   - railway
 sources:
   - https://en.wikipedia.org/wiki/Genoa%E2%80%93Casella_railway
+score: 8.7
 ---
 
 The Ferrovia Genova–Casella is a narrow-gauge railway that climbs from Genova Piazza Manin through chestnut woods and steep hillsides to Casella, covering 24 km at a maximum speed that feels unhurried by design. The line opened in 1929 and has changed little since — the same wooden interiors, the same stops at tiny villages, the same unhurried pace through a landscape most visitors never see.

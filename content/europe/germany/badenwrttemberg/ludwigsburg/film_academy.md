@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.8936
 longitude: 9.1908
+score: 6.7
 ---
 
 The Filmakademie Baden-Württemberg, founded in 1991, is one of Germany's two leading film schools (the other is the HFF in Munich) and is a surprising presence for a small baroque town. Graduates have won Oscars, Cannes prizes, and pretty much every European film award; the academy's annual student film festival in July is open to the public and is the best way for a visitor to see what is happening here.

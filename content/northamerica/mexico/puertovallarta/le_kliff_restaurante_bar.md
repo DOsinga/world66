@@ -1,7 +1,10 @@
 ---
 address: South Coast - Puerto Vallarta, Jalisco
+latitude: 20.5186
+longitude: -105.3194
 phone: '3222280666'
 price: Expensive
+score: 6.4
 tags:
 - eating_out
 - restaurant

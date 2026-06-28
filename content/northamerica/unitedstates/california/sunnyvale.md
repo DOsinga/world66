@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Former_Sunnyvale_Theatre,_
 latitude: 37.36883
 loc_type: city
 longitude: -122.036349
-score: 0.38
+score: 5.84
+snippet: Silicon Valley city with orchard roots, tech campuses, and a walkable Murphy
+  Avenue downtown
 title: Sunnyvale
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Centro Cultural Banco do Brasil
 type: poi
+score: 7.2
 ---
 
 The CCBB Belo Horizonte is the local branch of the Banco do Brasil's national network of cultural centres, in another of the restored palaces on Praça da Liberdade. The schedule covers contemporary art, photography, design, and the occasional major touring exhibition — usually with strong production values, always with free admission.

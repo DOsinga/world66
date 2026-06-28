@@ -9,6 +9,7 @@ latitude: 12.0567
 longitude: -68.2589
 snippet: "Pink salt pans and flamingo breeding ground in the south"
 story: "The four obelisks standing on the salt flats — white, blue, red, and orange — were colour-coded markers used in the slavery era to direct anchored ships to the right loading dock. Each colour identified a different grade of salt. The slave huts beside them, tiny stone shelters where the salt workers slept, still stand on the seaward side of the road."
+score: 7.6
 ---
 
 The flat southern third of Bonaire is one vast salt pan, divided into evaporation ponds that produce sodium chloride for de-icing roads, cattle feed, and industry. Cargill operates the works today. The ponds glow pink from the brine-tolerant algae, and the colour gets stronger toward harvest in spring. Conical white salt mountains rise beside the loading pier.

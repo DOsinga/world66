@@ -10,6 +10,7 @@ tags:
   - architecture
   - old_town
 neighbourhood: Old Town
+score: 5.9
 ---
 
 The Presidential Palace on Daukanto Square is the official working residence and office of the President of Lithuania. The building dates from the 16th century but was substantially rebuilt in neoclassical style in the early 19th century. Before independence it served various functions under Russian and Soviet administration; since 1997 it has been the presidential seat.

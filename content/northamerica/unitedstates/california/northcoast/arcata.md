@@ -6,8 +6,10 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 40.866517
 loc_type: city
+snippet: Progressive Humboldt Bay university town, known for Cal Poly Humboldt, redwood
+  access, and ecological wetlands.
 longitude: -124.08284
-score: 0.45
+score: 6.73
 title: Arcata
 type: location
 image: arcata.jpg

@@ -12,6 +12,7 @@ story: >
   a "coal mine castle" — the ornate Jugendstil machine hall was deliberately designed to impress
   royal visitors as much as to house steam engines. The hall is now the best-preserved Art Nouveau
   industrial interior in the Ruhr.
+score: 8.8
 ---
 
 Zeche Zollern, in the western Dortmund suburb of Bövinghausen, is one of the most architecturally extraordinary industrial monuments in Germany. Opened in 1898 and closed for mining in 1966, the colliery complex combines functional pit buildings with an astonishingly ornate Jugendstil machine hall — all wrought iron, glazed brick, and decorative gables — that feels entirely wrong for a working coal mine and exactly right for a museum.

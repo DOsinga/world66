@@ -1,14 +1,14 @@
 ---
 address: Clarion Alley, between Mission St and Valencia St
-latitude: 37.7630
+latitude: 37.763
 longitude: -122.4206
+score: 8.2
 snippet: Mission alley packed with street art, grittier and more political than Balmy
 tags:
 - things_to_do
 - sight
 - mission_district
 title: Clarion Alley
-neighbourhood: Mission District
 type: poi
 ---
 

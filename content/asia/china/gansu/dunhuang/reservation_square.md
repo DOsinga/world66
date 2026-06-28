@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.1380
 longitude: 94.6624
+score: 7.8
 ---
 
 The geographic and social centre of Dunhuang, with a large bronze statue of a Tang-dynasty dancer playing the pipa lute thrown back over her shoulder — the figure is copied from one of the most famous murals at Mogao (Cave 112) and has become the unofficial emblem of the city. The square is busiest at night when the lights come up and the surrounding pedestrian streets fill with locals and tourists.

@@ -6,6 +6,7 @@ longitude: 18.2737
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Founded in 1897, the Ostravar brewery has been making the city's everyday beer ever since. The classic Original is a light, lightly-hopped pale lager you'll see on tap in every Stodolní bar; the darker Strong and the seasonal Kelt are easier to find at the brewery itself.

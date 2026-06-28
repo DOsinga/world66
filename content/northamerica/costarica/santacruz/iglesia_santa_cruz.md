@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The current church replaced an older one destroyed by the 1950 Guanacaste earthquake, one of the strongest to hit Costa Rica in the 20th century. The original colonial bell tower survived and still stands beside the new building — a visible reminder of how thoroughly the earthquake reorganised the town.
+score: 6.3
 ---
 
 The Iglesia de Santa Cruz faces the Parque Central and is the dominant building on the square. It was rebuilt after a major earthquake in 1950 that damaged much of the town centre, and the surviving colonial bell tower now stands as a historical monument beside the modern church building. The contrast between the old tower and the newer structure is striking.

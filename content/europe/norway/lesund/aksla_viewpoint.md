@@ -10,6 +10,7 @@ story: >
   The 418 steps up to Aksla are a local tradition — Ålesund residents run them for fitness, walk them for the view, and bring every visiting friend and relative up them at least once. At the top, a stone platform looks out over the entire archipelago: seven islands, the channels between them, and on clear days the snow-capped mountains inland.
 sources:
   - https://en.wikipedia.org/wiki/%C3%85lesund
+score: 8.6
 ---
 
 The hilltop park above the town centre is the single best place to understand Ålesund's geography. Four hundred and eighteen steps lead up from the main street, with benches at intervals for those who need to catch their breath, and at the top a panoramic view takes in the whole town spread across its islands.

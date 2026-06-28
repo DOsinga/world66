@@ -14,6 +14,7 @@ story: >
   Buddhism across China. Most were later repurposed, demolished, or rebuilt beyond recognition;
   the Chaozhou example retains considerable original Tang-period structure alongside later
   restorations.
+score: 9.0
 ---
 
 Kaiyuan Temple in the old city is one of the finest intact Buddhist complexes in Guangdong, its courtyards layered with centuries of donated objects, lacquered pillars, and hanging lanterns. The main hall houses a large bronze Buddha flanked by gilded bodhisattvas, the whole interior thick with the smoke of incense coils burning from the rafters. The temple is an active place of worship rather than a preserved monument — the distinction matters.

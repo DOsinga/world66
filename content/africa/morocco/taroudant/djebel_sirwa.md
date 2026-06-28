@@ -7,6 +7,7 @@ tags:
 latitude: 30.7000
 longitude: -8.3300
 snippet: "Remote volcanic massif with multi-day trekking routes"
+score: 8.4
 ---
 
 Djebel Sirwa is a volcanic massif rising to 3,304 metres southeast of Taroudant, offering some of the least-visited multi-day trekking in Morocco. The routes here pass through Berber villages that see far fewer outsiders than the Toubkal area, with genuine agdal (communal pasture) landscapes, wild rose and juniper, and panoramic views of the Anti-Atlas and the Draa valley beyond.

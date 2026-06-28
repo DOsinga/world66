@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 15.5416
 longitude: 73.7680
+score: 6.8
 ---
 
 The white-and-blue façade of St. Alex sits a few hundred metres back from the beach road, a Portuguese-style baroque church with twin bell towers and a sweeping flight of steps. The first chapel on the site dates from 1595; the present church was rebuilt in the late eighteenth century and renovated again in the 1930s.

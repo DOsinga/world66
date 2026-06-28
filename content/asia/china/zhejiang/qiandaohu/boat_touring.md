@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.6092
 longitude: 118.9900
+score: 8.4
 ---
 
 The 1,078 islands of Qiandao Lake are the drowned hilltops of the Xin'an River valley, and visiting them by boat gives the clearest sense of the reservoir's extraordinary landscape. The organised tour boats that run from the main Chunan terminal visit a circuit of the more accessible islands — Monkey Island, Snake Island, Bird Island, Gui Peak Island — in a half-day or full-day loop, with stops for walking and photography on each.

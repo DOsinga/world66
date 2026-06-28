@@ -14,6 +14,7 @@ story: >
   Protestant section of the municipal cemetery.
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Heracles,_Agrigento
+score: 7.9
 ---
 
 The Temple of Heracles is the oldest of the major temples in the Valley of the Temples, dating to around 500 BC, and it shows. Only eight of its original 38 columns remain upright, but they are grand — tall, slightly swollen in the Archaic style, with deep weathering that makes them look carved from the landscape itself. The temple stands between the eastern zone (Concordia, Hera) and the western zone (Zeus), making it a natural midpoint on a walk through the park.

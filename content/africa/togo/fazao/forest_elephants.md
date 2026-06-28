@@ -10,6 +10,7 @@ latitude: 8.7500
 longitude: 0.8200
 story: >
   Fazao's elephants are forest elephants, the smaller, darker, straighter-tusked cousins of the savanna elephant — and a species only formally recognised as distinct in 2010. They are deeply elusive, moving in small family groups through the gallery forest and emerging into open ground only at dawn and dusk. Population estimates vary wildly with each new survey, but most agree the park holds a few dozen at most.
+score: 6.9
 ---
 
 A small population of forest elephants survives in the park's interior, mostly in the wetter gallery forests along the Mô and Anié rivers. They are not the elephants of the East African savannas — they are shy, secretive, and rarely seen — but their tracks, dung, and broken vegetation are common enough that a few days of walking with a ranger usually turns up clear evidence.

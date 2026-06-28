@@ -11,6 +11,7 @@ story: >
   and dumps it into the Rhine here at Worms — to keep it from Kriemhild. He alone knows the
   location and refuses to reveal it even under torture. The treasure has never been found.
 snippet: "Statue of the Nibelung villain sinking the treasure into the Rhine"
+score: 5.4
 ---
 
 A heroic-scale bronze of Hagen of Tronje, the antihero of the Nibelungenlied, in the moment of

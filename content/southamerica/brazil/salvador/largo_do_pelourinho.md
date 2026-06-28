@@ -9,6 +9,7 @@ tags:
 - pelourinho
 snippet: The painted central square of the upper city
 story: "The yellow Casa de Jorge Amado at the top of the square belonged to Brazil's most-read 20th-century novelist, who used the Pelourinho as the setting for nearly all his Bahia novels. The cobbles at the foot of the square are the original 17th-century stones, polished by three centuries of bare feet."
+score: 8.8
 ---
 
 The sloping, pastel-painted square at the heart of the Pelourinho is what everyone photographs. The buildings step up the slope in pinks, blues, yellows, and whites, with the church of Nossa Senhora do Rosário dos Pretos at the foot and the Casa de Jorge Amado museum at the top.

@@ -1,7 +1,7 @@
 ---
 accessibility: Everyone
 title: Sights in San Miguel de Allende
-type: poi
+type: section
 url: www.sanmigueldeallende.com
 ---
 

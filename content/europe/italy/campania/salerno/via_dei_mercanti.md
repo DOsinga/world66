@@ -15,6 +15,7 @@ story: >
   the occasional Lombard capital embedded in a wall are physical traces of
   Salerno's role as a cosmopolitan centre where Arab, Jewish, Greek, and
   Latin scholars and merchants traded side by side.
+score: 8.4
 ---
 
 Via dei Mercanti is the main artery of the medieval old town, a narrow pedestrianised lane that has served as the commercial heart of Salerno since at least the ninth century. The street runs east–west through the historic centre, lined with medieval archways, small churches, pottery shops, pasticcerie, and occasional stretches of exposed Roman masonry that have been incorporated into later buildings. It is one of the most characterful streets in Campania — less theatrical than the Spaccanapoli in Naples but more intimate and genuinely lived-in.

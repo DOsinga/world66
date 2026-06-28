@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Croazia_-_Rovinj_-_panoram
 latitude: 45.080741
 loc_type: city
 longitude: 13.641728
-score: 0.79
+score: 9.3
+snippet: Venetian Istrian harbour town of steep cobbled lanes, crowned by St. Euphemia
+  above the Adriatic
 title: Rovinj
 type: location
 ---

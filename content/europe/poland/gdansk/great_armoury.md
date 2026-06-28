@@ -12,6 +12,7 @@ tags:
   - architecture
 title: Great Armoury
 type: poi
+score: 8.0
 ---
 
 One of the finest Renaissance buildings in Poland, the Great Armoury was built between 1600 and 1609 to a design by Anthonis Opbergen. The facade is a riot of ornament — obelisks, cartouches, stone figures, and carved friezes stacked over four storeys. The building originally stored the city's weapons and ammunition; today it houses the Academy of Fine Arts.

@@ -1,0 +1,200 @@
+{
+  "round": 2637,
+  "timestamp": "2026-06-13T21:56:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 9.9428,
+      "prior_variance": 0.341537,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_score": 11.0811,
+      "prior_variance": 0.338441,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": -0.3942,
+      "prior_variance": 0.179023,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 0.832,
+      "prior_variance": 0.146285,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -0.742,
+      "prior_variance": 0.151487,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -0.6432,
+      "prior_variance": 0.163317,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -0.8321,
+      "prior_variance": 0.154204,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -1.2463,
+      "prior_variance": 0.257446,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -1.7141,
+      "prior_variance": 0.160079,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.4885,
+      "prior_variance": 0.151545,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -3.2623,
+      "prior_variance": 0.160135,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -1.0046,
+      "prior_variance": 0.2156,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_score": -1.8443,
+      "prior_variance": 0.169487,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Cherchell",
+      "path": "africa/algeria/cherchell",
+      "prior_score": -3.1305,
+      "prior_variance": 0.145198,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -2.4118,
+      "prior_variance": 0.162541,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.9526,
+      "prior_variance": 0.159965,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.8595,
+      "prior_variance": 0.17264,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.0426,
+      "prior_variance": 0.149259,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -2.6753,
+      "prior_variance": 0.147823,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.6642,
+      "prior_variance": 0.18247,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.4922,
+      "prior_variance": 0.201539,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -4.8098,
+      "prior_variance": 0.208748,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -6.502,
+      "prior_variance": 0.320594,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -7.4558,
+      "prior_variance": 0.255102,
+      "prior_n": 8
+    }
+  ]
+}

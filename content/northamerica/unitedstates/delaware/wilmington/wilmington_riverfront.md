@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.4
 ---
 
 The Riverfront is the redeveloped industrial strip along the Christina River south of downtown — once a wasteland of abandoned shipyards and rail yards, now a mile-long district of restaurants, hotels, the Delaware Children's Museum, the DuPont Environmental Education Center, and the Riverfront Market.

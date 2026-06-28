@@ -14,6 +14,7 @@ story: >
   cisterns and tunnels carved into the soft limestone.
 sources:
   - https://en.wikipedia.org/wiki/Agrigento_Cathedral
+score: 6.6
 ---
 
 Agrigento Cathedral stands at the highest point of the old town, a Baroque and Norman structure dedicated to San Gerlando, the 11th-century Norman bishop who Christianised the region. The present building incorporates parts of several earlier churches on the site, and the nave has an unusual acoustic property — a whisper at the altar can be clearly heard at the far end of the building 45 metres away, a phenomenon known to musicians who have performed here.

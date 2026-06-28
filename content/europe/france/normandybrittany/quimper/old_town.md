@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 47.9960
 longitude: -4.1000
+score: 8.4
 ---
 
 The medieval centre of Quimper is one of the best-preserved in western France. The streets around Rue Kéréon, Rue des Boucheries, and the riverbank are lined with half-timbered houses dating from the 14th to 17th centuries — many of them leaning slightly toward the street above their ground floors, which gives the quarter its character.

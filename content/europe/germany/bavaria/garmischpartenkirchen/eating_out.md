@@ -1,10 +1,8 @@
 ---
 address: schmiedstrasse 1 82467 garmisch-partenkirchen
-latitude: 47.492691
-longitude: 11.088016
 phone: 0049-882152181
 title: Eating Out
-type: poi
+type: section
 ---
 
 **Contributors**

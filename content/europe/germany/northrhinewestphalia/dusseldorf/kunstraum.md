@@ -9,6 +9,7 @@ tags:
 - museum
 title: Kunstraum Düsseldorf
 type: poi
+score: 6.5
 ---
 
 Kunstraum Düsseldorf is a non-commercial artist-run space in the southern part of the city that has been operating since 1967. It focuses on contemporary and experimental art, with a particular interest in giving space to work that doesn't fit neatly into commercial gallery formats — installation, performance documentation, video, and process-based work.

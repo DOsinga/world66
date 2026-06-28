@@ -9,6 +9,7 @@ tags:
 latitude: 53.0334
 longitude: 5.6594
 address: "Marktstraat 15, Sneek"
+score: 7.6
 ---
 
 Sneek's town hall is one of the most decorative civic buildings in Friesland: an 18th-century Rococo facade in pale stone, with elaborate carvings and a gilded coat of arms above the door. The interior is open to visitors during office hours and contains a small collection of historic chambers and council rooms.

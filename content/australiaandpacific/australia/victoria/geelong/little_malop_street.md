@@ -10,6 +10,7 @@ tags:
 - eating_out
 - sight
 neighbourhood: Central Geelong
+score: 6.6
 ---
 
 Little Malop is the pedestrianised laneway that runs east-west through the middle of central Geelong, behind Westfield and past the Geelong Gallery. It has become the city's most concentrated cafe and small-bar strip — the result of council investment in the early 2010s that turned a tired service lane into a public space with bluestone paving and outdoor seating.

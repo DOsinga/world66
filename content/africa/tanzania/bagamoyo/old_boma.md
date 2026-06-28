@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: -6.4420
 longitude: 38.9054
+score: 7.5
 ---
 
 The Old Boma is the former German colonial headquarters of Bagamoyo, completed in 1897 when the town was briefly the capital of German East Africa. Boma is the Swahili word for fortified compound, and that is what this was — a thick-walled administrative building, originally surrounded by a high wall, with offices, courts, and a prison on the ground floor and the governor's quarters above.

@@ -9,6 +9,7 @@ longitude: -155.0883
 address: 141 Kalakaua Street, Hilo, HI 96720
 phone: (808) 961-5711
 snippet: Community gallery and theater in downtown Hilo's historic old police station
+score: 6.4
 ---
 
 The East Hawaiʻi Cultural Center occupies the 1932 Old Police Station on Kalakaua Street in downtown Hilo — a handsome old building that survived the tsunamis — and has operated since 1967 as the main community arts organisation for the east side of the Big Island. The gallery shows rotating exhibitions of local and regional artists, heavily weighted toward Hawaiian themes. The adjacent performance space hosts community theater and concerts.

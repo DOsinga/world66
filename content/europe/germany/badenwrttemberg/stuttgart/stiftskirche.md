@@ -16,6 +16,7 @@ story: >
   building are clearly readable together.
 sources:
   - https://en.wikipedia.org/wiki/Stiftskirche,_Stuttgart
+score: 7.0
 ---
 
 The Stiftskirche is Stuttgart's main Protestant church, originally a collegiate church (Stiftskirche) founded in the 12th century and rebuilt repeatedly over the centuries. The building suffered severe damage in the 1944 Allied bombing raids that destroyed much of central Stuttgart, and the current appearance is largely a postwar reconstruction completed in the 1950s and 1960s.

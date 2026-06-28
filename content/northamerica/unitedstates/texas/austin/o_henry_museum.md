@@ -10,6 +10,7 @@ latitude: 30.2664
 longitude: -97.7396
 story: >
   William Sydney Porter (pen name O. Henry) lived in Austin in the 1880s and 90s and worked as a bank teller — a job that ended badly when he was convicted of embezzlement in 1898 and sentenced to five years in federal prison. It was in prison that he began writing the short stories that would make him famous. His Austin house museum never mentions the embezzlement; the annual pun competition does not require knowledge of his legal history.
+score: 5.8
 ---
 
 The O. Henry Museum occupies the small Victorian cottage where the short story writer William Sydney Porter — known universally as O. Henry — lived with his wife and daughter from 1893 to 1895. The house has been preserved as a period interior with furniture and objects from the 1890s, and the museum tells the story of Porter's Austin years: his work at the General Land Office, his founding of a satirical newspaper, and his eventual departure under difficult circumstances.

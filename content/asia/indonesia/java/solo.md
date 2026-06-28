@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ALKULTURASI_BUDAYA.jpg
 latitude: -7.5692
 loc_type: city
 longitude: 110.8284
-score: 0.54
+score: 7.86
+snippet: Relaxed Javanese cultural city, formerly Surakarta, with royal palaces, batik
+  workshops, and gamelan traditions.
 title: Solo
 type: location
 ---

@@ -8,6 +8,7 @@ latitude: -3.3677
 longitude: 36.6965
 story: >
   The museum is housed in the old German Boma — the administrative headquarters of German East Africa — built in 1900 and one of the few substantial colonial-era structures still standing in northern Tanzania. It survived the First World War, which ended German East Africa's existence, more or less intact.
+score: 7.8
 ---
 
 The Natural History Museum occupies the German colonial Boma at the east end of Boma Road, a solid stone building surrounded by gardens where the Via Via bar and traveller hangout has taken root. The museum covers Tanzania's geological formation, its prehistoric wildlife, and — most usefully for visitors about to head on safari — its living fauna. The displays are old-fashioned but informative, and the explanatory panels on East African mammals, birds, and ecosystems are genuinely useful preparation for game-viewing.

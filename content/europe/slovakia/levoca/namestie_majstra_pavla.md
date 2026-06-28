@@ -4,11 +4,16 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 49.025
 longitude: 20.5885
+score: 8.5
 snippet: Medieval square anchored by Master Pavol's woodcarving legacy
 story: The square is named after Master Pavol of Levoča, whose identity remains partly
   mysterious — historians still debate whether he was a local Slovak or a German immigrant.
   What's certain is that no other craftsman in the region came close to matching his
   output.
+tags:
+- things_to_do
+- sight
+- architecture
 title: Námestie Majstra Pavla
 type: poi
 ---

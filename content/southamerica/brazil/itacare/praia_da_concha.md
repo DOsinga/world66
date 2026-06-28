@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -14.2756
 longitude: -38.9956
+score: 7.0
 ---
 
 The closest beach to the town centre, sitting in a small, sheltered cove just at the mouth of the Rio de Contas. Calm water, a sandy bottom, and a long stretch of barracas (beach kiosks) make it the obvious place for families and for an easy afternoon swim — no surf, no strong currents, easy parking.

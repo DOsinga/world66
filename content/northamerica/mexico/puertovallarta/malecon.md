@@ -7,6 +7,7 @@ tags:
 - landmark
 title: The Malecón
 type: poi
+score: 8.7
 ---
 
 The 1.6-kilometre beachfront promenade that runs along the bay, from the Hotel Rosita in the north to the Los Muertos pier in the south. Bronze sculptures by Mexican artists — the Friendship Fountain, the Millennium, the Seahorse — line the walk. Musicians, fire jugglers, and a nightly crowd. Go at sunset.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9000
 longitude: 35.4807
+score: 8.7
 ---
 
 Founded in 1866 by American missionaries, AUB is one of the oldest English-language universities in the world outside the United States. Its hillside campus in Ras Beirut, with stone Ottoman buildings, terraced gardens, and a sweep down to the sea, is one of the loveliest urban green spaces in the Middle East.

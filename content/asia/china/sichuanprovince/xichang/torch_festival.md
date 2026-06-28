@@ -8,6 +8,7 @@ latitude: 27.8964
 longitude: 102.2634
 story: >
   The Torch Festival marks the anniversary of a mythological Yi hero named Zhyge Alu defeating a celestial general who had been sent to destroy humanity. The torches lit on the third day of the sixth month of the Yi calendar are meant to drive away pests and evil spirits simultaneously — a conflation that makes more practical sense in an agricultural highland society than it might appear. In Xichang, the city-centre celebrations draw participants from Yi villages across the prefecture.
+score: 8.1
 ---
 
 The Yi Torch Festival, held for three days in late July or early August depending on the Yi calendar, is the most important festival in the Yi cultural calendar and the event that draws the most visitors to Xichang each year. The celebrations involve traditional Yi dress, fire — large torches carried through the streets and set along the roadsides — traditional music, wrestling, archery, and horse racing. The most visually intense part is the final night, when torches are lit simultaneously across the city.

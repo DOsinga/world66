@@ -6,6 +6,7 @@ tags:
   - activity
 latitude: 26.5117
 longitude: -78.6431
+score: 6.0
 ---
 
 Grand Bahama sits on the edge of some of the most productive fishing grounds in the Atlantic. The Gulf Stream passes close to the island's northern shore, making it a reliable location for big-game species — blue marlin, white marlin, sailfish, and wahoo are the main targets from April through autumn. Closer inshore, reef fishing produces yellowtail snapper, mutton snapper, grouper, and cobia.

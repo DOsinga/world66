@@ -14,6 +14,7 @@ tags:
 - sport
 title: Turf Moor
 type: poi
+score: 7.3
 ---
 
 Turf Moor is the home ground of Burnley FC, one of the founder members of the Football League in 1888, and the club has been playing here since 1883. For football history enthusiasts, this is a significant ground: Burnley won the First Division twice and have an outsized historical importance relative to the town's size.

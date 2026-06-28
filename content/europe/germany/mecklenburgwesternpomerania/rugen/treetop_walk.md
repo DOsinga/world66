@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The 40-metre tower spirals around a single old beech tree, growing through the centre of the structure. The walkway is designed so that you climb gradually through the forest canopy — first below the leaves, then among them, then breaking out into the open above the treetops with a 360-degree view across the island."
+score: 6.7
 ---
 
 The Baumwipfelpfad Rügen is a 1,250-metre wooden walkway through the beech canopy of the Prora forest, climbing gently to a viewing tower that spirals around a single ancient beech. From the top, at around 40 metres above the ground, the view stretches from the Jasmund cliffs to the Baltic and out across the chalk-white facades of Binz.

@@ -1,13 +1,14 @@
 ---
 address: Strada Vasile Adamache 11, Bucharest
 latitude: 44.4319
-loc_type: feature
 longitude: 26.1095
+score: 6.8
 snippet: 1846 Polish synagogue, decorated with Moorish frescoes
 tags:
 - things_to_do
 - sight
 title: Great Synagogue
+type: poi
 ---
 
 The largest active Ashkenazi synagogue in Bucharest, founded by Polish Jews in 1846 and rebuilt in 1903-1909 with extravagant interior frescoes in a Moorish-Andalusian style. The vaulted ceiling, the gilded ark, and the carved wooden women's gallery survived both the Iron Guard pogroms of 1941 and the Communist neglect that followed.

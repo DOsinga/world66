@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Mauritius,La_chemin%C3%A9e
 latitude: -20.11322
 loc_type: city
 longitude: 57.586461
-score: 0.56
+score: 8.04
 title: Pamplemousse
 type: location
+snippet: Mauritian garden town known for the historic SSR Botanical Gardens and their
+  giant water lilies.
 ---
 
 Pamplemousse is a small town in the north of the island, about 12 kilometres from Port Louis. Its main draw is the [Sir Seewoosagur Ramgoolam Botanical Gardens](/africa/mauritius/pamplemousse/ssr_botanical_garden) (SSR Gardens), one of the finest botanical gardens in the southern hemisphere. Founded by French botanist Pierre Poivre in 1770, the gardens cover 37 hectares and contain over 80 species of palms, including the iconic giant water lilies (Victoria amazonica) in their central pond, and the talipot palm that flowers only once in its lifetime then dies.

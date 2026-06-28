@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 24.4651
 longitude: 54.3219
+score: 7.8
 ---
 
 Five glass towers, completed in 2011, that define the western end of the Corniche skyline. The tallest stands 305 m and houses the Observation Deck at 300, on the 74th floor of Tower 2 — currently the highest public viewpoint in the city. You buy a ticket that includes either a drink or afternoon tea in the lounge.

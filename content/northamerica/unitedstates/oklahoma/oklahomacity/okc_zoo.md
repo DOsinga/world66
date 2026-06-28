@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5226
 longitude: -97.4716
+score: 7.8
 ---
 
 A 119-acre zoo and botanical garden in the Adventure District northeast of downtown, with around 1,800 animals organised into geographic exhibits — African plains, Asian forests, an aviary, an aquatic centre. The elephant habitat is the largest in any North American zoo and includes a herd of Asian elephants successfully bred at the zoo. The Children's Zoo and the sea-lion show are popular with families.

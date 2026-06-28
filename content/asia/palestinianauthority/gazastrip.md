@@ -5,7 +5,9 @@ done:
 latitude: 31.3547
 loc_type: city
 longitude: 34.3088
-score: 0.11
+score: 1.0
+snippet: Narrow Mediterranean territory with ancient trading roots and historic towns
+  between Egypt and the Levant.
 title: Gaza Strip
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 43.2302
 longitude: -86.2644
 snippet: High-speed ferry crossing Lake Michigan to Milwaukee in 2.5 hours
+score: 6.7
 ---
 
 The Lake Express is a high-speed passenger and car ferry that crosses Lake Michigan from Muskegon to Milwaukee, Wisconsin, in about 2.5 hours — cutting what would be a 6-hour drive around the southern end of the lake. The vessel is a catamaran capable of 40 mph and carries up to 46 vehicles and 250 passengers. The service runs from May to October.

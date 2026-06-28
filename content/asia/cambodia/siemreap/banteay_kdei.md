@@ -13,6 +13,7 @@ story: >
   central enclosure — statues that had been deliberately smashed and buried, probably
   during the anti-Buddhist purge that swept the Khmer Empire in the late 13th century
   when the state religion reverted from Mahayana Buddhism back to Hinduism.
+score: 8.1
 ---
 
 **Banteay Kdei** ("Citadel of Chambers") was built by Jayavarman VII in the late 12th century, roughly contemporary with Ta Prohm and sharing its style: lateral towers, face-bearing gopuras, and the general air of a Buddhist monastery rather than a Hindu temple-mountain. It is less visited than Ta Prohm — no trees have grown spectacularly through its walls — which means it is often pleasantly quiet and gives a more honest impression of what Angkor's sprawling monastic complexes actually felt like.

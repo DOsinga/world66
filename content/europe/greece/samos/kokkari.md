@@ -6,6 +6,7 @@ longitude: 26.8867
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Kokkari was a fishing village strung along two small bays on the north coast until tourism rolled in during the 1980s; what remains is the most attractive seaside town on Samos, with whitewashed houses, blue boats hauled up on the cobble beach, and tavernas that genuinely cook their own catch.

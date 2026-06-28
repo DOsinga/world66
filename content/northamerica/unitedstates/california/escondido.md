@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
+image: escondido.jpg
+image_attribution: Unknown
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Cupola_in_Escondido,_CA.JPG
 latitude: 33.121675
 loc_type: city
 longitude: -117.081485
-score: 0.42
+score: 6.57
+snippet: Inland San Diego County city known for the Safari Park and Queen Califia's
+  sculpture garden.
 title: Escondido
 type: location
-image: escondido.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cupola_in_Escondido,_CA.JPG
-image_license: Public domain
-image_attribution: Unknown
 ---
 
 Escondido — Spanish for "hidden" — sits inland from the San Diego coast in a broad valley between rolling hills of chaparral and avocado orchards. Thirty miles north of downtown San Diego, it is best known as the gateway to the [San Diego Zoo Safari Park](/northamerica/unitedstates/california/escondido/san_diego_zoo_safari_park), the 1,800-acre open-range wildlife preserve that is one of the most impressive animal parks in the United States. Most visitors arrive for the Safari Park and leave the same day, which is understandable but misses the point.

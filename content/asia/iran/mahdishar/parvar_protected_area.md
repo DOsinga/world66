@@ -12,6 +12,7 @@ sources:
   - https://www.tasnimnews.com/en/news/2019/01/05/1906391/parvar-protected-area-north-of-iran
 story: >
   The Parvar area sits precisely on the ecological boundary between the humid Caspian forest zone and the arid plateau — the northern slopes carry beech, oak and maple, while the southern flanks grade into semi-desert scrub. This split habitat is why the mammal list is so long: 39 species recorded, including Persian leopard and Asiatic cheetah.
+score: 8.2
 ---
 
 Parvar Protected Area lies about 35 kilometres north of Mahdishar, straddling the Semnan–Mazandaran provincial border high in the Alborz. Declared a protected zone in 1967, it covers around 62,500 hectares of some of the most ecologically diverse terrain in northern Iran. The boundary between the humid Caspian climate and the dry plateau creates sharp contrasts within a short distance — dense forest on the north-facing slopes, open steppe and rocky ridgeline on the south.

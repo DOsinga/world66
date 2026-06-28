@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.4
 ---
 
 Thornes Park is the largest of Wakefield's public parks — sixty-five acres of lawns, ornamental gardens, woodland, and a small ornamental lake on the south-west side of the city. It was opened in 1893 in what had been the private grounds of Thornes House, an Adam-period mansion that was destroyed by fire in 1951.

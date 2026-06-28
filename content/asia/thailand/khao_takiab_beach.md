@@ -2,11 +2,12 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 12.5382
+loc_type: feature
 longitude: 99.9574
+score: 8.07
+snippet: Quieter beach south of Hua Hin, anchored by a temple-topped headland.
 title: Khao Takiab Beach
 type: location
-score: 0.56
-loc_type: feature
 ---
 
 Khao Takiab Beach lies at the southern end of the Hua Hin coast on the Gulf of Thailand, named after the rocky hill (Khao Takiab, or "Chopstick Hill") that rises at its northern tip. The beach is wide — nearly 100 metres at low tide — and stretches for several kilometres of clean sand with gentle waves, making it a calmer and quieter alternative to the main Hua Hin beach just minutes to the north.

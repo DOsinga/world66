@@ -3,11 +3,13 @@ address: 3355 Las Vegas Boulevard South
 latitude: 36.121707
 longitude: -115.169335
 phone: 702-414-1000
+score: 5.1
 snippet: Venetian-style canal rides with a singing gondolier
 tags:
 - things_to_do
 - bridge
 - cafe
+- the_strip
 title: Gondola Rides at the Venetian
 type: poi
 url: www.venetian.com

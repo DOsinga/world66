@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 The Rancagua railway station sits at the western end of the central grid, the southern terminus of the TerraSur commuter line from Santiago and a stop on the longer-distance services to Chillán and beyond. The station building dates from the early 20th century and is a handsome example of Chilean railway architecture — a long single-storey block with arcaded waiting rooms.

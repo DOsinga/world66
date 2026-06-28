@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Downham_Beck_in_Downham_-_
 latitude: 53.8856
 loc_type: city
 longitude: -2.3123
-score: 0.34
+score: 6.08
 title: Downham
+snippet: Lancashire village on Pendle Hill's western slopes, preserved by estate rules
+  and witch-trial history.
 type: location
 ---
 

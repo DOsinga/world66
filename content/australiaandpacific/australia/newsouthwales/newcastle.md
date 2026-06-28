@@ -11,8 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Courthouse,_Newcastle,_Aus
 latitude: -32.9275
 loc_type: city
 longitude: 151.7817
-score: 0.49
+score: 7.25
 title: Newcastle
+snippet: Working harbour city north of Sydney, reinvented after the closure of its
+  steelworks.
 type: location
 ---
 

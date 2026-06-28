@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 27.5873
 longitude: 90.7303
 story: "The name Kurjey means 'body print': in a cave behind the oldest temple, the rock bears what is venerated as the imprint of Guru Rinpoche's body, left when he meditated here in the 8th century while curing a local king of a fatal illness."
+score: 9.8
 ---
 
 Kurjey Lhakhang is the most sacred site in Bumthang and one of the most important religious places in all of Bhutan. The complex sits on a flat terrace north of Jakar and is made up of three temples set side by side, the oldest dating from 1652 and built directly over the meditation cave of Guru Rinpoche, the Indian sage who brought Buddhism to Bhutan.

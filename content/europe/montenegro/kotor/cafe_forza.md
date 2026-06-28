@@ -6,6 +6,7 @@ longitude: 18.7699
 tags:
   - bars_and_cafes
   - cafe
+score: 5.8
 ---
 
 Cafe Forza occupies a prime corner of Trg od Oružja, with tables spilling out across the polished marble flagstones and a clear view of the Clock Tower across the square. The coffee is decent — proper espresso, well-poured cappuccino — and the people-watching at any hour of the day is the real draw.

@@ -7,6 +7,7 @@ tags:
 - historic
 title: Queen's Park
 type: poi
+score: 7.8
 ---
 
 Queen's Park is both the name of the oval park at the north end of University Avenue and the Romanesque Revival building at its centre — the Ontario Legislative Assembly, built in 1893. Free tours of the legislative chamber and the ornate interior are available when the legislature is not sitting. The building's pink sandstone exterior, copper roof, and elaborate ironwork make it one of the more architecturally ambitious 19th-century public buildings in Canada.

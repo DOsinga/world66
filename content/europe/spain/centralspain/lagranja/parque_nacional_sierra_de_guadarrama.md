@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8566
 longitude: -3.9784
+score: 7.8
 ---
 
 La Granja sits at the foot of the Sierra de Guadarrama, and the national park that covers this granite mountain range is one of the best reasons to linger in the area rather than just passing through on a day trip from Madrid. The range rises to just over 2,000 metres and offers excellent hiking in summer and skiing in winter at the nearby Navacerrada and Valdesquí resorts.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 8.7200
 longitude: 0.7800
+score: 7.2
 ---
 
 The flatter savanna country in the centre and west of the park is the easiest place to see game. A handful of vehicle tracks loop through open grassland and acacia scrub where antelope (kob, hartebeest, bushbuck, occasionally roan), warthog and baboon are reasonably common, and where it is much easier to spot animals at distance than in the forest.

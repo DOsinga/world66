@@ -7,6 +7,7 @@ latitude: 36.8614
 longitude: -76.2992
 story: >
   Walter Chrysler Jr — son of the car magnate — assembled one of the most eccentric private art collections in America, buying everything from ancient Egyptian pieces to Tiffany glass to a remarkably fine collection of Old Master paintings. He donated the whole thing to Norfolk in 1971, and the museum has been adding to it ever since. Admission has been free since 2018, which for a collection of this quality is almost absurdly generous.
+score: 8.9
 ---
 
 The Chrysler Museum of Art is the reason many people make a special trip to Norfolk. For a city of its size, the collection is remarkable: significant Old Master paintings, strong American art, ancient world galleries, and an exceptional glass collection that runs from ancient Roman pieces through Art Nouveau to contemporary studio glass. The Tiffany collection alone is worth an afternoon.

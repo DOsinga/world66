@@ -5,7 +5,9 @@ done:
 latitude: 36.0803
 loc_type: city
 longitude: 32.8312
-score: 0.48
+score: 7.25
+snippet: Small Mediterranean town at Turkey's southern point, near Mamure Castle and
+  the ruins of Anemurium.
 title: Anamur
 type: location
 ---

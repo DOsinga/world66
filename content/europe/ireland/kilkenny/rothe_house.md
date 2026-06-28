@@ -17,6 +17,7 @@ story: >
   the Rothe family — along with most of Kilkenny's Catholic merchant class — were
   dispossessed. The house passed through many hands before being rescued and restored
   by the Kilkenny Archaeological Society in the 20th century.
+score: 8.2
 ---
 
 Rothe House is one of the most complete examples of an Irish urban merchant's house from the Tudor period — a rarity in a country where so much was destroyed by warfare and neglect. Built between 1594 and 1610, the complex consists of three linked buildings around two cobbled courtyards, with a reconstructed walled garden behind. It gives a vivid sense of how a wealthy Kilkenny family lived and did business in the late 16th century.

@@ -1,5 +1,9 @@
 ---
-snippet: Mill houses, waterwheels, and views up to the cathedral from the banks of the Eure
+latitude: 48.4468
+longitude: 1.494
+score: 8.1
+snippet: Mill houses, waterwheels, and views up to the cathedral from the banks of
+  the Eure
 tags:
 - things_to_do
 - walk

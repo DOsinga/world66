@@ -9,6 +9,7 @@ latitude: 44.185
 longitude: 8.262
 sources:
   - https://en.wikipedia.org/wiki/Tovo_San_Giacomo
+score: 6.9
 ---
 
 The parish church of San Giovanni Battista in the upper hamlet of Bardino Vecchio is the most striking church in the Tovo area. Its Gothic bell tower, with two rows of double-arched windows, rises above the medieval village in a way that rewards a short detour from the main road.

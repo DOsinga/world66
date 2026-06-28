@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: A small Sri Lankan-style temple on its own island in a lotus pond.
+score: 7.7
 ---
 
 Wat Sa Si sits on a small island in the middle of a large rectangular pond called Tra Pang Trakuan, in the centre of the historical park. The composition — a bell-shaped Sri Lankan-style chedi behind a ruined vihara that still holds a serene seated Buddha, all of it reflected in the still water — is the single most photographed view of Sukhothai, and it deserves the attention.

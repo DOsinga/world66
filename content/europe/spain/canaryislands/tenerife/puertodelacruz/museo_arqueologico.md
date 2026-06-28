@@ -7,6 +7,7 @@ longitude: -16.5525
 tags:
 - things_to_do
 - museum
+score: 7.0
 ---
 
 A small but well-curated museum in the old part of town dedicated to the Guanche — the indigenous Berber-descended people who inhabited Tenerife before Spanish conquest in the 15th century. The collection includes ceramic pottery, stone tools, mummies, and burial objects recovered from the island's archaeological sites. Explanatory panels put the artefacts in context: the Guanche had a complex social structure, divided into nine clans, each with its own territory.

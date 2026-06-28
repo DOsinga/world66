@@ -8,6 +8,7 @@ tags:
 - sight
 - coast
 - island
+score: 5.8
 ---
 
 El Aouana Island sits just offshore from the El Aouana coast, a small rocky island that gives the bay much of its postcard shape. It is often called the Island of Dreams locally, which is a bit grand for its size but understandable when the sea is calm and blue.

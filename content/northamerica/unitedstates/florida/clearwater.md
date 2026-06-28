@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:ClearwaterBeachNorthFromPi
 latitude: 27.965853
 loc_type: city
 longitude: -82.800103
-score: 0.53
+score: 7.72
+snippet: Gulf Coast beach city with white sand, calm water, and a lively sunset pier.
 title: Clearwater
 type: location
 ---

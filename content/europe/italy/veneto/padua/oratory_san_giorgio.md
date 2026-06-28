@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: "Two small chapels by the basilica with frescoes by Altichiero and the young Titian"
+score: 8.2
 ---
 
 Two small buildings beside the Basilica di Sant'Antonio are almost always overlooked by visitors hurrying into the main basilica, and each is a small treasure.

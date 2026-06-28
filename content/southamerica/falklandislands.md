@@ -1,9 +1,4 @@
 ---
-quick_facts:
-  Population: "~3,400"
-  Access: "Flights from UK or Chile only"
-  Penguins: "~1 million — five species nest here"
-  Sheep-to-People Ratio: "~170 to 1"
 done:
   country_cleanup: 2026-03-29
   location_cleanup: '2026-04-08'
@@ -13,11 +8,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Sheep_on_Saunders_Island_in_the_Falkland_Islands.jpg
 latitude: -51.7963
+loc_type: country
 longitude: -59.5236
+quick_facts:
+  Access: Flights from UK or Chile only
+  Penguins: ~1 million — five species nest here
+  Population: ~3,400
+  Sheep-to-People Ratio: ~170 to 1
+score: 0.43
+snippet: South Atlantic British Overseas Territory of two main islands and hundreds
+  of smaller ones, noted for penguin colonies.
 title: Falkland Islands
 type: location
-score: 0.53
-loc_type: country
 ---
 
 Two large islands and nearly 700 smaller ones sitting in the South Atlantic, roughly 500 kilometres east of Patagonia. The Falkland Islands are a British Overseas Territory with full internal self-government, and the landscape, culture, and accent are unmistakably British — a fact that surprises many first-time visitors. Argentina calls them the Malvinas and still disputes sovereignty; the 1982 war settled the military question but not the political one.

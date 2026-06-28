@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Elephant_feeding_at_Pinnaw
 latitude: 7.296305
 loc_type: city
 longitude: 80.387062
-score: 0.57
+score: 8.19
+snippet: Kegalle District village known for the Pinnawela Elephant Orphanage and Maha
+  Oya river bathing.
 title: Pinnawela
 type: location
 ---

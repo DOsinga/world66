@@ -16,6 +16,7 @@ story: >
   their lives: loud Telecaster guitars, a driving drumbeat, and no studio
   strings. When the Beatles covered Owens's "Act Naturally" in 1965, the Sound
   had gone global while Nashville was still pretending it didn't exist.
+score: 8.6
 ---
 
 Buck Owens' Crystal Palace on Buck Owens Boulevard is the most important single site in Bakersfield's musical history. Opened in 1996 by Owens himself, the venue combines a full-scale museum of Bakersfield Sound memorabilia with a restaurant and a live performance space. The museum section displays Owens's custom guitars, costumes, tour buses, gold records, and equipment from across his career. The collection is genuinely substantial — this is not a token display, but an archive assembled by a man who knew exactly what he was doing.

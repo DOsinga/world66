@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuuk,_Greenland_skyline.jp
 latitude: 64.176705
 loc_type: city
 longitude: -51.736144
-score: 0.5
+score: 7.63
+snippet: Greenlandic capital on a southwest coast peninsula, combining national institutions
+  with fjord and mountain scenery.
 title: Nuuk
 type: location
 ---

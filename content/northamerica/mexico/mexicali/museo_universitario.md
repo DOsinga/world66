@@ -7,6 +7,7 @@ snippet: "Anthropology museum on the UABC Mexicali campus"
 tags:
 - things_to_do
 - museum
+score: 6.8
 ---
 
 The Museo Universitario, on the Universidad Autónoma de Baja California's Mexicali campus, is a small but well-presented anthropology museum focused on the indigenous peoples of Baja California — the Kumeyaay, Cocopa, Kiliwa, and Pai Pai. Exhibits cover archaeology, traditional crafts, and the contemporary status of these communities, several of which still maintain small populations in the surrounding mountains.

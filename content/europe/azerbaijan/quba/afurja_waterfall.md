@@ -8,6 +8,7 @@ latitude: 41.4300
 longitude: 48.4700
 story: >
   The waterfall drops roughly 70 metres over a basalt ledge into a narrow gorge — tall enough that spray drifts up the cliff face and keeps the rock perpetually wet. In winter, the entire fall freezes solid, creating a column of ice visible from the road below. Local guides use the frozen waterfall as an ice-climbing practice route.
+score: 7.7
 ---
 
 Afurja Waterfall, about 42km from Quba city centre, is the tallest waterfall in Azerbaijan, dropping around 70 metres into the Tengi Gorge from the slopes of Mount Tengi. The surrounding landscape is the classic Greater Caucasus scenery of steep forested ridges and fast rivers — dramatic in any season but especially so after spring snowmelt, when the water volume is at its peak.

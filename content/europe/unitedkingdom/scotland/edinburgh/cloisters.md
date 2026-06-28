@@ -5,10 +5,12 @@ done:
 latitude: 55.943897
 longitude: -3.201422
 phone: 0131 221 9997
+score: 7.5
 snippet: No-nonsense cask ale pub in a converted parsonage
 tags:
 - bars_and_cafes
 - bar
+- grassmarket_nb
 title: Cloisters
 type: poi
 ---

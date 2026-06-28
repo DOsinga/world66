@@ -14,6 +14,7 @@ story: >
   abandon the damaged old quarter below the castle and move to the new town in
   the valley. The hilltop ruins were left as they were, and the old Muslim
   quarter crumbled quietly around them.
+score: 7.4
 ---
 
 The castle sits on a low basalt hill above the old part of town, its silhouette of ruined towers and curtain walls visible from most of the surrounding valley. The Moors built it in the 10th century as part of a chain of defensive positions along the Atlantic coast, and the Portuguese have left it more or less alone since 1249 — which means there is not much to see inside beyond the walls and the cistern, but the views are the point.

@@ -7,16 +7,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Euyasik" title="Us
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Kalon-Ensemble_Buchara.jpg
 latitude: 41.377491
+loc_type: country
 longitude: 64.585262
+quick_facts:
+  Aral Sea Shrinkage: 90% lost since 1960
+  Budget Meal: ~$2–3
+  Population: 36 million
+  Silk Road UNESCO Sites: '5'
+score: 0.77
+snippet: Central Asian Silk Road country of tiled Islamic cities, desert fortresses,
+  Soviet avenues, and Fergana crafts
 title: Uzbekistan
 type: location
-quick_facts:
-  Population: "36 million"
-  Budget Meal: "~$2–3"
-  Silk Road UNESCO Sites: "5"
-  Aral Sea Shrinkage: "90% lost since 1960"
-score: 0.55
-loc_type: country
 ---
 
 Uzbekistan is the beating heart of the ancient Silk Road. Three of its cities — [Samarkand](/asia/uzbekistan/samarkand), [Bukhara](/asia/uzbekistan/bukhara), and [Khiva](/asia/uzbekistan/khiva) — contain some of the most magnificent Islamic architecture anywhere on earth, and together they justify any journey to Central Asia. This is a country where history is written in tilework and mud brick, in mosques and mausoleums that have outlasted empires.

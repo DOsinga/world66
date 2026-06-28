@@ -6,6 +6,7 @@ longitude: 21.2278
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 Marasti Square (Piata Marasti) sits at the northern edge of the historic centre, just outside the line of the old Habsburg fortifications. It is a low-rise, traffic-bordered square on the boulevard ring that replaces the old city walls. The Politehnica University's main campus opens onto it from the eastern side.

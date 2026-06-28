@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Makye Ame
 type: poi
+score: 6.2
 ---
 
 The mustard-yellow building on the southeast corner of Barkhor Square is one of Lhasa's most recognisable restaurants. Makye Ame takes its name — and its mythology — from a poem said to have been written by the sixth Dalai Lama, a famously unmonastic figure who reputedly carried on a love affair with a local girl named Makye Ame in this very building.

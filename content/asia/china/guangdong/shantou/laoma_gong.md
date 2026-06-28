@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Laoma Gong
 type: poi
+score: 7.8
 ---
 
 Laoma Gong, the Old Mother Palace, is Shantou's best-known Mazu temple and a reminder that this city has always looked seaward. Incense, carved beams, and votive plaques crowd the halls, while worshippers move through with the brisk familiarity of people visiting a working shrine, not a museum.

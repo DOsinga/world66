@@ -8,6 +8,7 @@ tags:
 latitude: 32.7168
 longitude: -117.1735
 snippet: San Diego's harbour walk — a 3-mile waterfront promenade connecting the Maritime Museum, USS Midway, and the Convention Center
+score: 7.3
 ---
 
 The Embarcadero is the waterfront promenade running along the bay from the Maritime Museum at the north end to Seaport Village and the Convention Center at the south — about three miles of continuous public waterfront with unobstructed views of the harbour, the naval station on North Island, and the Coronado Bridge.

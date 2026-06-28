@@ -6,6 +6,7 @@ latitude: 37.4667
 longitude: 24.9333
 story: >
   Ano Syros has been Catholic since the Venetian occupation in the 13th century, making Syros the most Catholic island in Greece. During the Greek War of Independence, France sent ships to protect the Catholic community here — a rare instance of French geopolitical interest protecting a small island village.
+score: 8.8
 ---
 
 Ano Syros is the older of Ermoupoli's two hills, a medieval Catholic settlement that predates the neoclassical town below by several centuries. The streets here are narrow enough that you can touch both walls simultaneously, the houses stacked on top of each other as they climb toward the Cathedral of San Giorgio at the summit. It is exactly the kind of place you want to get lost in — and exactly small enough that getting lost doesn't matter.

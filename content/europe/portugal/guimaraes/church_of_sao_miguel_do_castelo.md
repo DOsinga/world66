@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.8
 ---
 
 A small, austere Romanesque chapel of granite blocks, sitting on the slope between the castle and the ducal palace. Tradition holds that Afonso Henriques was baptised here as an infant, and there is a stone font inside that is claimed — without much evidence — to be the one used.

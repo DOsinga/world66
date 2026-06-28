@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gurudwara_of_Dhule.jpg
 latitude: 21.130522
 loc_type: city
 longitude: 74.490061
-score: 0.28
+score: 5.42
+snippet: Northern Maharashtra city at major highway crossroads, with nearby pilgrimage
+  fairs and historic forts.
 title: Dhule
 type: location
 ---

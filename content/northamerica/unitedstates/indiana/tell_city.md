@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Hall_in_Tell_City.jpg
 latitude: 37.950848
 loc_type: city
 longitude: -86.769701
-score: 0.3
+score: 5.74
+snippet: Ohio River town in southern Indiana, founded by Swiss settlers and still
+  marked by Alpine heritage.
 title: Tell City
 type: location
 ---

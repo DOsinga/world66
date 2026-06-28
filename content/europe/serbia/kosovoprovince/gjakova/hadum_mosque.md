@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3792
 longitude: 20.4273
+score: 8.0
 ---
 
 The Hadum Mosque is Gjakova's most significant historic monument, built in the last years of the 16th century (1594–95) and funded by Hadum Suleiman Effendi, a senior Ottoman official whose name the mosque still carries. It is a single-dome mosque in the classical Ottoman style, with an elegant portico and a fountain courtyard.

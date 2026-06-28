@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -7.5667
 longitude: 110.8275
+score: 6.7
 ---
 
 Bu Wongso Wijoyo is the most famous nasi liwet stall in Solo, operating from the same corner near the Mangkunegaran palace since 1950. The dish — coconut-milk rice with areh (thick coconut cream), vegetables, egg, and sometimes chicken — is served from the morning and sold out by early afternoon. Come before 11am to be sure of a plate.

@@ -9,6 +9,7 @@ latitude: 30.06277777777778
 longitude: -96.69944444444445
 story: >
   The church was built in 1866 by German immigrant settlers who had arrived in the 1840s and 1850s as part of the wave of political refugees and economic migrants from the German states. They brought with them a tradition of solid stone construction, which is why this church survives when so many Texas frontier buildings do not. Services are still held in English and German on alternating Sundays.
+score: 7.4
 ---
 
 The Bethlehem Lutheran Church is a solid stone building on South White Street, dating from 1866, and one of the more intact examples of German immigrant church architecture in central Texas. The exterior is plain and sturdy — limestone walls, round-arched windows, a simple bell tower — exactly the kind of practical beauty that characterised the German settlements of the Hill Country.

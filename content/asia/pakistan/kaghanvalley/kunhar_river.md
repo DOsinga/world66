@@ -7,6 +7,7 @@ tags:
   - fishing
 latitude: 34.9072
 longitude: 73.6509
+score: 6.5
 ---
 
 The Kunhar River runs the entire length of Kaghan Valley and holds one of the best wild trout populations in Pakistan. The stretch from Naran northwards is particularly productive, with brown trout and rainbow trout in the cold, clear water. The fishing season runs from April to September, and the river is well enough known among Pakistani anglers that it draws serious fishermen from Lahore and Islamabad who come specifically for the trout rather than the scenery.

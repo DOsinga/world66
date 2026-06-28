@@ -11,6 +11,7 @@ story: >
   The museum's most famous work is Leandro Erlich's "Swimming Pool" — a transparent pool viewed from above looks entirely full of water, with figures apparently standing at the bottom. The illusion is created by a layer of water just a few centimetres deep over a glass ceiling. Visitors can walk below it and look up at the people standing in the "water" above them.
 sources:
   - https://en.wikipedia.org/wiki/21st_Century_Museum_of_Contemporary_Art,_Kanazawa
+score: 8.5
 ---
 
 The 21st Century Museum of Contemporary Art opened in 2004 and quickly became one of Kanazawa's defining institutions. The building is a circular glass structure designed by SANAA (Kazuyo Sejima and Ryue Nishizawa) — low, open, and deliberately non-hierarchical, with multiple entrances and no clear front or back. The design reflects the museum's philosophy of accessibility.

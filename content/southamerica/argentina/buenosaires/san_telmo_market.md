@@ -8,6 +8,7 @@ tags:
 latitude: -34.6213
 longitude: -58.3737
 address: Defensa 961, San Telmo
+score: 8.0
 ---
 
 An 1897 iron-and-glass market hall occupying an entire city block in San Telmo, now one of the best food markets in Buenos Aires. The original structure — designed by Juan Antonio Buschiazzo, who also designed the Recoleta Cemetery gates — has been preserved: ornate cast-iron columns, glass roof panels, and tiled floors from the original construction.

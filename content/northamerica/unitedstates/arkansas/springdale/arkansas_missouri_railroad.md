@@ -7,6 +7,7 @@ tags:
 latitude: 36.1868
 longitude: -94.1297
 story: "The A&M Railroad's route through the Boston Mountains is one of the most engineered rail lines in the American South — the original builders had to construct dozens of trestles and blast through multiple ridges to get the line over terrain that repeatedly defeated stagecoach and early automobile travel. The Winslow Loop, where the track doubles back on itself to gain elevation, remains one of the few surviving examples of this technique in the United States."
+score: 7.8
 ---
 
 The Arkansas and Missouri Railroad runs scenic excursion trains through the Ozark countryside on vintage diesel locomotives pulling historic passenger cars. The route from Springdale heads south through the Boston Mountains to Van Buren, passing through some of the most dramatic valley and ridge scenery in the Ozarks.

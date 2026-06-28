@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Xinzhou_District,_Shangrao
 latitude: 28.4545
 loc_type: city
 longitude: 117.9685
+score: 6.55
+snippet: Northeastern Jiangxi city used as a gateway to Sanqingshan peaks and Wuyuan
+  villages.
 sources:
 - https://en.wikivoyage.org/wiki/Shangrao
 title: Shangrao

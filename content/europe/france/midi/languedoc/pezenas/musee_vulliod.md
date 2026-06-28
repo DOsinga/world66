@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.4612
 longitude: 3.4229
+score: 7.4
 ---
 
 The Musée de Vulliod Saint-Germain occupies a donated hôtel particulier at 3 rue Albert-Paul Alliés and covers the decorative arts, local history, and religion of Pézenas and the surrounding Hérault. The collections include antique furniture, Moustiers faïence porcelain, paintings, sculpture, textiles, and a small display of military arms. It is an old-fashioned regional museum in the best sense — eclectic, slightly overstuffed, and genuinely informative about the town's past wealth and civic culture.

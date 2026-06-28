@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arbon-08-Bodensee-2006-gje
 latitude: 47.514926
 loc_type: city
 longitude: 9.430403
-score: 0.47
+score: 7.42
+snippet: Swiss Lake Constance town with a medieval promontory old town and converted
+  Saurer factory buildings.
 title: Arbon
 type: location
 ---

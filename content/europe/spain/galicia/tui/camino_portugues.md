@@ -8,6 +8,7 @@ latitude: 42.048
 longitude: -8.645
 story: >
   The Portuguese Way is the second most popular route of the Camino de Santiago, after the French Way. It enters Galicia from Portugal at Tui, crossing the international bridge over the Miño. Pilgrims arrive from Lisbon or Porto, crossing the river and continuing north through the Galician countryside to Santiago de Compostela — a journey of about 120 kilometres from Tui. Tui is thus the first Spanish town that Portuguese Way pilgrims encounter, and the town has organized its pilgrim infrastructure accordingly.
+score: 6.8
 ---
 
 Tui is the entry point to Spain for pilgrims walking the Camino Portugués — the Portuguese Way to Santiago de Compostela. The old town's main square and the streets around the cathedral are on the official route, marked with the yellow arrows and scallop shells that guide pilgrims throughout the Camino network.

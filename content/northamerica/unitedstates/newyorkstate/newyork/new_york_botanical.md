@@ -1,12 +1,14 @@
 ---
 address: Bronx River Parkway at Fordham Road
-latitude: 40.862656
-longitude: -73.877969
+latitude: 40.862243
+longitude: -73.877154
 phone: 718-817-8700
+score: 8.7
 snippet: 250-acre Bronx garden with Victorian glasshouse and original forest
 tags:
 - things_to_do
 - park
+- thebronx
 title: New York Botanical Garden
 type: poi
 url: www.nybg.org

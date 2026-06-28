@@ -8,6 +8,7 @@ tags:
   - restaurant
   - cafe
 snippet: Historic café and bakery in a 400-year-old half-timbered building
+score: 5.9
 ---
 
 Café Wien is one of Wernigerode's most characteristic old-town establishments, housed in a half-timbered building at the heart of the pedestrian zone. The café serves coffee, cakes, pastries, and light lunches in a warm interior of exposed beams and traditional décor. The quality is reliable, the prices are reasonable, and the cakes — particularly the Harz specialities involving berries and cream — are the main reason to come.

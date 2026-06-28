@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.9103
 longitude: 112.5597
+score: 5.9
 ---
 
 Xinghualing District in northern Taiyuan has a more local character than the commercial centre, with residential neighbourhoods, street markets, and the apricot-blossom parks that give the district its name ("Xinghua" means apricot blossom). The Ancient Mosque and the Immaculate Conception Cathedral are both here, and the older residential streets between the mosque and the cathedral have a quiet texture that the main commercial districts lack.

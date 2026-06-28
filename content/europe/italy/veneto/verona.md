@@ -10,13 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tramonto_a_Verona.jpg
 latitude: 45.4385
 loc_type: city
 longitude: 10.9916
-score: 0.75
+score: 9.28
+snippet: Veneto city on the Adige, known for its Roman Arena and medieval Romeo-and-Juliet
+  associations.
 sources:
-  - https://en.wikipedia.org/wiki/Verona
-  - https://en.wikipedia.org/wiki/Verona_Arena
-  - https://en.wikipedia.org/wiki/Castelvecchio_(Verona)
-  - https://en.wikipedia.org/wiki/Scaliger_Tombs
-  - https://en.wikipedia.org/wiki/San_Zeno_Maggiore,_Verona
+- https://en.wikipedia.org/wiki/Verona
+- https://en.wikipedia.org/wiki/Verona_Arena
+- https://en.wikipedia.org/wiki/Castelvecchio_(Verona)
+- https://en.wikipedia.org/wiki/Scaliger_Tombs
+- https://en.wikipedia.org/wiki/San_Zeno_Maggiore,_Verona
 title: Verona
 type: location
 ---

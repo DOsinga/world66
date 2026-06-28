@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:All_Saints_Church,_The_Dri
 latitude: 50.828692
 loc_type: city
 longitude: -0.174574
-score: 0.49
+score: 7.13
+snippet: Sussex seaside city west of Brighton, defined by Regency terraces and a quieter
+  shingle seafront.
 title: Hove
 type: location
 ---

@@ -4,10 +4,12 @@ latitude: 41.380671
 longitude: 2.155042
 opening_hours: Mon–Sat 9am–midnight; closed Sun
 price_range: €8–15
+score: 7.6
 snippet: Old Eixample wine bodega serving pintxos and house wine at the counter
 tags:
 - eating_out
 - restaurant
+- eixample
 title: Bodega Sepúlveda
 type: poi
 ---

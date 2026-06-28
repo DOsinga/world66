@@ -6,6 +6,7 @@ longitude: 13.7500
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The fragmentary stone remains of a small medieval castle on a wooded hilltop just south of the village, reached by a short signposted forest walk from the village centre. Built in the 13th century to control the salt trade routes, the castle was abandoned by the late Middle Ages and has been slowly returning to the forest ever since.

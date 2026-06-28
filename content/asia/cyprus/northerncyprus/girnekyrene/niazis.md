@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Niazi's
 type: poi
+score: 5.7
 ---
 
 Niazi's has been a fixture on the Girne harbour for decades, one of the older restaurants in a row that has grown considerably more crowded since it opened. The kitchen focuses on Turkish Cypriot cooking — lamb dishes, mixed meze, and kebabs rather than tourist approximations of them. The long terrace faces the water. It is considerably cheaper than some neighbours and keeps local custom as a result.

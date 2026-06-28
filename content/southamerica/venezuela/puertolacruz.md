@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanecer_en_Puerto_la_Cruz
 latitude: 10.202862
 loc_type: city
 longitude: -64.630763
-score: 0.37
+score: 6.26
+snippet: Venezuelan beach resort city beside Mochima National Park, with ferries and
+  waterfront life along Paseo Colón.
 title: Puerto la Cruz
 type: location
 ---

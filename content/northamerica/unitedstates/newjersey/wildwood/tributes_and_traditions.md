@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Fascination is a 1930s carnival game in which players roll rubber balls into holes to light up a row on a board, a sort of mechanical bingo. Tributes and Traditions is the last place on the Jersey Shore where it can still be played, and one of only a handful of working machines left in the country."
+score: 7.2
 ---
 
 Randy Senna's Tributes and Traditions arcade on the boardwalk near Schellenger Avenue is part-arcade, part-museum of vintage amusement-pier hardware. The owner, an obsessive collector, has filled the space with restored skee-ball lanes, Wurlitzer jukeboxes, and a working **Fascination** parlour — the last on the Jersey Shore.

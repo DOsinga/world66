@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.0325
 longitude: 19.0263
+score: 5.8
 ---
 
 The town of Malbork beyond the castle is modest but not without interest. The market square (Plac Słowiański) has been rebuilt since the heavy damage of 1945 and retains a handful of period buildings. St John the Baptist Church, close to the square, is a 14th-century Gothic brick church that survived the war in better shape than much of the town. Its interior has some fine medieval stonework and Gothic vaulting.

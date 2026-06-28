@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/37804160@N00/969228103
 latitude: 27.973045
 loc_type: city
 longitude: 85.964383
-score: 0.42
+score: 6.46
+snippet: Border town in a steep Himalayan gorge, historically the last Chinese stop
+  before Nepal.
 title: Zhangmu
 type: location
 ---

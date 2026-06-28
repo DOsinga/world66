@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6220
 longitude: 101.7920
+score: 6.6
 ---
 
 Two noodle preparations that are specific to Xining and the northwest are worth seeking out. Liang pi (凉皮) — cold skin noodles — are thick sheets of wheat starch extracted and sliced, served cold with sesame paste, chilli oil, vinegar, bean sprouts, and cucumber. The result is refreshingly cold in summer, intensely flavoured, and very cheap (8 to 12 yuan). The best liang pi vendors are in the alley food markets near the railway station.

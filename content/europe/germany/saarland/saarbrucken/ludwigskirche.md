@@ -11,6 +11,7 @@ story: >
   exactly as it had stood — the restorers matched Stengel's original designs so
   precisely that the rebuilt church is considered one of the finest examples of
   postwar architectural reconstruction in Germany.
+score: 8.5
 ---
 
 The Ludwigskirche is one of the great Protestant baroque churches of Germany — a light, elegant building in white and ochre designed by Friedrich Joachim Stengel in the 1760s for the court of Nassau-Saarbrücken. It sits on its own square, the Ludwigsplatz, which Stengel designed as a unified baroque ensemble around the church.

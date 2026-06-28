@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Jakar_2021-10-24
 latitude: 27.549639
 loc_type: city
 longitude: 90.752735
-score: 0.58
+score: 8.34
+snippet: Bumthang valley town in Bhutan's apple country, surrounded by ancient temples
+  and farmhouses.
 title: Jakar
 type: location
 ---

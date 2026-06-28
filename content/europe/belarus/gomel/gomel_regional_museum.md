@@ -7,6 +7,7 @@ tags:
 - museum
 title: Gomel Regional Museum
 type: poi
+score: 6.8
 ---
 
 The Gomel Regional Museum is housed in a building near the palace complex and covers local history from prehistory through the Soviet period. The most significant section deals with the Chernobyl nuclear disaster of 1986, which affected the Gomel region more severely than almost anywhere else in Belarus. The exhibit includes dosimeters, maps of contamination zones, photographs of the evacuation, and accounts from affected residents.

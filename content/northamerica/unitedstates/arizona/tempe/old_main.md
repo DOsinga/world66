@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 6.9
 ---
 
 Old Main is the oldest building on the ASU campus, completed in 1898 when the school was the Tempe Normal School and Arizona was still a territory. It's a handsome two-storey Victorian structure of buff brick, with arched windows and a deep porch facing the palm-lined quad.

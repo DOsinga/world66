@@ -2,9 +2,11 @@
 address: 1 East 161st Street, The Bronx
 latitude: 40.829583
 longitude: -73.926521
+score: 7.6
+snippet: Iconic Bronx ballpark and quintessential New York experience
 tags:
 - things_to_do
-snippet: "Iconic Bronx ballpark and quintessential New York experience"
+- thebronx
 title: Yankee Stadium
 type: poi
 ---

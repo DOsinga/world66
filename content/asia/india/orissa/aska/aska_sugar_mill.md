@@ -7,6 +7,7 @@ tags:
 title: Aska Sugar Mill
 type: poi
 story: "The mill was established in 1824 during the British colonial period, making it one of the oldest industrial sugar operations in Asia. The local climate and the availability of sugarcane in the Ganjam plains made the location commercially attractive. The mill gave Aska its longstanding nickname: the 'Sugar City of Odisha.'"
+score: 6.6
 ---
 
 The Aska Sugar Mill, established in 1824, is one of the oldest sugar mills in Asia and the industrial landmark that has shaped the town's identity. The mill continues to operate and the sight of the factory and its chimney stack is the most distinctive feature of the town's skyline.

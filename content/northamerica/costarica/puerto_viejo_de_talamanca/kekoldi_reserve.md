@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kekoldi Indigenous Reserve
 type: poi
+score: 8.0
 ---
 
 Kekoldi is one of the four indigenous territories of the Bribri people, set in the hills above Puerto Viejo. Community-run tours explain Bribri farming traditions and crafts; some include a steep walk up to a forest-clad ridge that is one of the best raptor-migration viewing points in the Americas.

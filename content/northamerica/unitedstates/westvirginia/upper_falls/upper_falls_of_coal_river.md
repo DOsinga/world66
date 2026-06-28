@@ -8,6 +8,7 @@ latitude: 38.152
 longitude: -81.734
 story: >
   The Coal River was known to the Lenape people as Walhonde long before European settlers arrived. Explorer John Peter Salley documented the falls during his 1742 expedition — one of the earliest recorded descriptions of the interior of what is now West Virginia.
+score: 7.3
 ---
 
 The Upper Falls of Coal River are the defining feature of this small community. The falls split the town and the surrounding forest, and in summer local families come down to swim in the pools below and picnic on the banks. The sound of the water carries through the neighbourhood on quiet mornings.

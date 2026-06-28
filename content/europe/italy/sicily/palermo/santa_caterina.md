@@ -8,6 +8,7 @@ tags:
   - religion
 latitude: 38.1156
 longitude: 13.3635
+score: 8.5
 ---
 
 Santa Caterina, a 16th-century Dominican church on Piazza Bellini facing the Fontana Pretoria, has one of the most over-the-top Baroque interiors in the city — every surface coated in coloured marble inlay, gilded stucco, and 17th-century painting. The contrast between the restrained late-Renaissance exterior and the kaleidoscopic interior is a Palermo speciality.

@@ -10,6 +10,7 @@ tags:
 - museum
 title: Museo Carmen Thyssen
 type: poi
+score: 7.4
 ---
 
 A focused collection of 19th-century Spanish painting — landscapes, costumbrist scenes, society portraits — drawn from the holdings of Baroness Carmen Thyssen-Bornemisza. Strong on the Andalusian school: Sorolla, Zuloaga, Romero de Torres. The setting, a restored Renaissance palace in the old town, is half the pleasure.

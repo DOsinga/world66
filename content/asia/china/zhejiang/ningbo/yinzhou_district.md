@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.8173
 longitude: 121.5466
+score: 5.8
 ---
 
 Yinzhou, the newer southern district of Ningbo, is where the city's ambitious contemporary architecture is concentrated. Wang Shu's Ningbo History Museum is the anchor of the district's cultural zone, joined by a series of large-scale public buildings commissioned during the rapid development of the 2000s and 2010s. The contrast between the medieval pile-dwelling culture documented in the History Museum and the glass-and-steel buildings that surround it is a concentrated version of the broader Chinese urban experience.

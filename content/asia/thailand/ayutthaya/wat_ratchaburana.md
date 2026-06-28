@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Wat Ratchaburana
 type: poi
+score: 8.9
 ---
 
 Built in 1424 by King Borommarachathirat II on the spot where his two elder brothers killed each other in an elephant duel over the throne. The king won the succession and commemorated it by building one of Ayutthaya's finest temples at the site of the fight.

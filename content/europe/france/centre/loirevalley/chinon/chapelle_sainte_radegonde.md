@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "A faded 12th-century fresco inside the chapel shows a royal hunting party — long identified as Henry II Plantagenet, his sons Richard and John, and Eleanor of Aquitaine. It is one of the very few near-contemporary portraits of these figures anywhere in Europe."
+score: 7.8
 ---
 
 The Chapelle Sainte-Radegonde is carved directly into the tufa cliff east of the old town — originally a hermit's cave, then a 6th-century oratory, then a small chapel that took its present form in the medieval period. The interior is partly subterranean, with rough rock walls and the painted Plantagenet hunting fresco that is the main reason to visit.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.4940
 longitude: -10.0820
+score: 9.1
 ---
 
 The Sky Road is a 13 km looped road west of Clifden that climbs onto the Kingstown Peninsula and traces its sea-edged ridgeline before dropping back to town. It is one of the most consistently spectacular short drives in Ireland: the road rises quickly enough that you are soon level with the offshore islands, looking down at the tidal inlets and across the Atlantic with nothing between you and Newfoundland.

@@ -7,6 +7,7 @@ tags:
 latitude: 18.9270
 longitude: 102.4493
 snippet: A riverside garden bar with bamboo tables, cold Beer Lao, and the best sunset view in town
+score: 5.6
 ---
 
 Nam Song Garden sits on a raised bank above the river with direct sight lines to the karst formations that bracket the valley. At sunset those formations go from green to gold to deep orange while you sit with a cold Beer Lao and do very little. The bar has no pretensions — bamboo furniture, fairy lights, and a food menu of grilled meat and fried rice — but the location is unbeatable.

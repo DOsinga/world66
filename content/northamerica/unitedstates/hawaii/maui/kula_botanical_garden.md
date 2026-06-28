@@ -10,6 +10,7 @@ longitude: -156.3270
 snippet: "8-acre garden on the slopes of Haleakalā with proteas, bromeliads, and valley views"
 sources:
   - https://en.wikipedia.org/wiki/Kula_Botanical_Garden
+score: 6.4
 ---
 
 The Kula Botanical Garden sits at about 1,000 metres elevation on the slopes of Haleakalā, and the cooler upcountry air produces plants you would not expect on a tropical island. Proteas are the speciality — the upper slopes of Maui are one of very few places outside South Africa and Australia where they grow commercially, and the garden has the best display on the island.

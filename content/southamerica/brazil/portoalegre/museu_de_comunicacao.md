@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu de Comunicação Social Hipólito José da Costa
 type: poi
+score: 7.8
 ---
 
 The Museu de Comunicação Social Hipólito José da Costa is Porto Alegre's most underrated museum, housed in an impressive early 20th-century building that was originally the printing house for the state's largest newspaper. The museum is dedicated to the history of communication — printing, radio, television, and now digital media — and it is particularly strong on the history of Brazilian journalism, which has its own complicated and important story in a country that spent decades under military censorship.

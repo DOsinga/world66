@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Simmental_switzerland.JPG
 latitude: 46.6278
 loc_type: city
 longitude: 7.3941
-score: 0.58
+score: 7.92
+snippet: Bernese Oberland valley of wooden chalets, high pasture, and red-and-white
+  Simmental cattle
 title: Simmental
 type: location
 ---

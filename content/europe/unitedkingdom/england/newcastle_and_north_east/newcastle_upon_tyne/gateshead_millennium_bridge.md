@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The world's first tilting bridge, opened in 2001
 story: The bridge does not lift like Tower Bridge or swing like a railway bridge — it rotates as a single steel arch, the deck pivoting upwards in unison so that a 30-metre yacht can pass beneath in four minutes. Locally it is called the Blinking Eye for the way it appears to slowly open and close from a distance.
+score: 8.5
 ---
 
 The 21st-century symbol of Newcastle-Gateshead — a 105-metre pedestrian and cycle bridge that tilts open like an eyelid when boats need to pass. The mechanism opens and closes a few times a day to a published schedule (and on demand for ships); the operation takes about four minutes and is genuinely worth waiting for.

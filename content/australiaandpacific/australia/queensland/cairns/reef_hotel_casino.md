@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -16.923333
 longitude: 145.779167
+score: 4.3
 ---
 
 Cairns' only casino is a fixture of the city's nightlife and a meeting point for travellers. The gaming floor is unremarkable, but the complex includes several bars and restaurants and is one of the few places in Cairns that stays animated well past midnight. The outdoor bar areas are pleasant on warm evenings.

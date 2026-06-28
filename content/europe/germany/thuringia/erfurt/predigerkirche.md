@@ -9,6 +9,7 @@ latitude: 50.9767
 longitude: 11.0292
 sources:
   - https://en.wikipedia.org/wiki/Predigerkirche,_Erfurt
+score: 7.4
 ---
 
 A Gothic Lutheran church just east of the Krämerbrücke, the Predigerkirche (Preachers' Church) was built by the Dominican order in the 13th and 14th centuries. It is one of the best examples of Mendicant Gothic architecture in Germany — the long, single-naved form with high windows designed to flood the space with light for preaching.

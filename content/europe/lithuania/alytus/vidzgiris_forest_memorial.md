@@ -14,6 +14,7 @@ story: >
   The site was largely forgotten during the Soviet period. The memorial
   established here is part of Lithuania's ongoing, difficult reckoning with
   what happened in these forests.
+score: 6.6
 ---
 
 The Vidzgiris Forest, just west of Alytus city centre, is the site of one of Lithuania's most significant Holocaust mass graves. Thousands of Jewish residents of Alytus were killed here during the German occupation in 1941. A memorial marks the site, and the Alytus local museum addresses this history directly.

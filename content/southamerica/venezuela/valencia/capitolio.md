@@ -8,6 +8,7 @@ tags:
 - sight
 title: Capitolio de Valencia
 type: poi
+score: 6.3
 ---
 
 The Capitolio occupies the south-east corner of the historic centre, on the site of an eighteenth-century Carmelite convent that was nationalised after independence. The current building dates from the second half of the nineteenth century and was designed in a sober neoclassical style, with a colonnaded entrance, a low dome and the state coat of arms above the doorway.

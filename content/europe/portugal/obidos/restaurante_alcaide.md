@@ -6,6 +6,7 @@ longitude: -9.1573
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A long-running restaurant on Rua Direita with a small terrace and a vaulted dining room, serving classic Portuguese dishes — grilled bacalhau, suckling pig, the obligatory pera rocha pear poached in red wine. Despite its central location it is more popular with locals at lunch than with the tourist trade.

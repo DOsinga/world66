@@ -7,6 +7,7 @@ tags:
 - monastery
 title: Ani Tsankhung Nunnery
 type: poi
+score: 7.7
 ---
 
 Tucked into the alleys south of the Barkhor, Ani Tsankhung is a small, working nunnery of around a hundred Tibetan nuns. The site is old — King Songtsen Gampo is said to have meditated in the underground cell that still forms its core in the 7th century — but the present buildings are modest, an ochre-walled compound around a single courtyard.

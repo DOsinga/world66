@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 0.6056
 longitude: 97.7950
+score: 7.9
 ---
 
 About 15 kilometres from Teluk Dalam, Hilisimaetano is a working traditional village — quieter than Bawomataluo and with a less rehearsed feel. The central avenue still has around 140 surviving omo hada (traditional Nias houses) on heavy timber piles, lined up either side of a stone path.

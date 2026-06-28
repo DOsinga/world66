@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 4.8
 ---
 
 A modest stone marker in the lower town commemorates the spot where Ali Pasha of Ioannina — the most consequential Ottoman governor of the early 19th century — was born in 1740. The original house is gone, but the town has long taken its identity from him: he rebuilt the castle, transformed the town's fortunes, and made Tepelena one of the small but important centres of the late Ottoman Balkans.

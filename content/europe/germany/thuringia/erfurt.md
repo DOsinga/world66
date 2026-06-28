@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kr%C3%A4merbr%C3%BCcke,_Er
 latitude: 50.977797
 loc_type: city
 longitude: 11.028736
-score: 0.53
+score: 8.17
+snippet: Thuringian city with a largely preserved old town and the inhabited medieval
+  Krämerbrücke.
 title: Erfurt
 type: location
 ---

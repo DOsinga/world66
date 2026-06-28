@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bank_of_Tanzania_before_du
 latitude: -6.7924
 loc_type: city
 longitude: 39.2083
-score: 0.46
+score: 7.32
+snippet: Sweltering Tanzanian port city and commercial engine, staging point for Zanzibar
+  and inland safari routes.
 title: Dar es Salaam
 type: location
 ---

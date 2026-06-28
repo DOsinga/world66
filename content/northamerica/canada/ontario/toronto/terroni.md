@@ -7,8 +7,10 @@ phone: 416 504-0320
 tags:
 - eating_out
 - restaurant
+- queen_west
 title: Terroni
 type: poi
+score: 5.5
 ---
 
 If you need to know a truly great pizza-pasta restaurant in Toronto, this is it. There was a queue outside on a Friday night but it moved fast and I soon got a seat at the bar, where I ate. Nice atmosphere, good service, excellent pizza with really fresh tomato sauce on it and a selection of italian wines.
@@ -25,16 +27,3 @@ And another uptown:
 Yonge and St. Clair)
 
 416 925-4020
-
-**Contributors**
-June 23, 2007
-
-type: Italian
-
-
-
-tel: 416 504-0320
-
-address: 720 Queen Street West
-
-email: http://www.terroni.ca/locations.html

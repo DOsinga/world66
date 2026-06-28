@@ -8,6 +8,7 @@ tags:
 latitude: 50.4515
 longitude: 16.2419
 story: "The chapel was built in 1776 by a local priest who had spent years collecting bones from the surrounding fields, where soldiers killed in the Silesian wars, the Seven Years' War, and outbreaks of cholera had been hastily buried."
+score: 7.7
 ---
 
 A few kilometres into Poland from Náchod, in the Kudowa-Zdrój suburb of Czermna, is one of central Europe's strangest interiors: a small Baroque chapel whose walls and ceiling are entirely covered with human skulls and femurs. Some three thousand are on display; another twenty thousand or so lie in the crypt below.

@@ -8,6 +8,7 @@ latitude: 21.9009
 longitude: 120.8546
 story: >
   Eluanbi Lighthouse was built in 1882 by the Qing dynasty government after several foreign ships were wrecked on the cape. Unlike most lighthouses it was designed as a fortified structure, with gun emplacements and high walls — the indigenous Paiwan people had repeatedly attacked and killed shipwreck survivors, and the lighthouse keepers needed protection.
+score: 8.2
 ---
 
 Eluanbi Lighthouse stands at the southernmost tip of Taiwan and, with its powerful beam visible for 27 nautical miles, is one of the brightest lighthouses in Asia. The site marks the point where the Pacific Ocean and the Taiwan Strait meet — on a clear day you can see the topography shift as the deep blue of the Pacific meets the shallower green of the strait.

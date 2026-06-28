@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Medalta_Potteries_National
 latitude: 50.04303
 loc_type: city
 longitude: -110.679016
-score: 0.4
+score: 6.48
+snippet: Southeastern Alberta city above the South Saskatchewan River, historically
+  shaped by natural gas and ceramics.
 title: Medicine Hat
 type: location
 ---

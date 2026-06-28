@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: -8.161
 longitude: 115.024
+score: 5.4
 ---
 
 Warung Dolphin is a long-running beachfront warung in Kalibukbuk, set on the sand under a wooden roof. The cooking is straightforward Balinese — grilled snapper, nasi campur, the standard sate skewers — with a few European dishes for the squeamish.

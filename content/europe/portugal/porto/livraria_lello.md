@@ -5,6 +5,7 @@ tags: [things_to_do, sight, shopping, cedofeita]
 latitude: 41.14694444444444
 longitude: -8.614722222222222
 story: Livraria Lello opened in 1906 and has been cited as one of the world's most beautiful bookshops by everyone from the New York Times to countless Instagram posts. What most visitors overlook is that the shop was designed not by an architect but by Francisco Xavier Esteves, an engineer, whose neo-Gothic interior with its central double staircase and stained-glass skylight was innovative enough in its day to influence debates about the future of Portuguese decorative arts.
+score: 8.4
 ---
 
 Livraria Lello is famous, and it handles the fame reasonably well. The narrow neo-Gothic facade on Rua das Carmelitas gives way to an interior of carved wooden shelves, a spectacular red double staircase curving to the upper level, and a stained-glass skylight casting coloured light across the books below. It is genuinely beautiful, and the pictures do not lie — though the experience is more crowded than the pictures suggest.

@@ -14,6 +14,7 @@ story: >
   Islam in this region. The scabbards are made by women and given to men as
   gifts; the craftsmanship in metalwork and leather is some of the finest in
   Niger and far less known than the silver work of the Tuareg to the west.
+score: 7.8
 ---
 
 The camel market at N'Guigmi is the most visible manifestation of the town's role as a trading crossroads for the nomadic peoples of the eastern Sahara. Toubou and Kanuri traders bring animals in from Chad and the surrounding desert; the bargaining is noisy and theatrical, the prices serious. The market also deals in goats, cattle, and the distinctive leather and metalwork — sharp-bladed knives in coloured scabbards — that the Toubou produce.

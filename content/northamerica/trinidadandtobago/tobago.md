@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pigeon_Point_beach.jpg
 latitude: 11.25
 loc_type: city
 longitude: -60.6667
-score: 0.66
+score: 8.85
+snippet: Quiet Caribbean island of palm-fringed bays, coral reefs, and rainforest
+  hills northeast of bustling Trinidad.
 sources:
 - https://en.wikipedia.org/wiki/Tobago
 - https://en.wikipedia.org/wiki/Main_Ridge_Forest_Reserve

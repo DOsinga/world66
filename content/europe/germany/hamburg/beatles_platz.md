@@ -8,6 +8,7 @@ tags:
 - sight
 - st_pauli
 neighbourhood: St. Pauli
+score: 5.1
 ---
 
 At the junction of the Reeperbahn and Grosse Freiheit — the small side street where the Beatles played most of their formative club nights — a circular paving disc holds five abstract stainless-steel silhouettes of the band members. The fifth, narrower than the others, represents both Pete Best (the original drummer) and Stuart Sutcliffe (the original bassist who left the band in Hamburg and died there in 1962).

@@ -4,8 +4,8 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 52.363043
 longitude: 4.88286
-neighbourhood: Leidseplein
 phone: 020 553 5151
+score: 7.2
 snippet: Cultural centre with cafe, cinema, and debate space near Leidseplein
 tags:
 - bars_and_cafes

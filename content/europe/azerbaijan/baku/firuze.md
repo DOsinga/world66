@@ -8,6 +8,7 @@ tags:
   - restaurant
   - icherisheher
 neighbourhood: Icherisheher
+score: 6.8
 ---
 
 Firuze is a long-running Azerbaijani restaurant in the Old City, named after a folktale princess and decorated like a fairytale set — turquoise tiles, painted ceilings, low cushions in some of the dining rooms. The food is more serious than the decor suggests: properly cooked Azeri classics, with the saffron plov and the lamb kebabs the obvious orders.

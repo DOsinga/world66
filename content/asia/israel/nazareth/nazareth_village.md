@@ -13,6 +13,7 @@ story: >
   reconstructing a working first-century village around the finds — complete
   with period-accurate plowing techniques, olive pressing, and weaving
   demonstrations.
+score: 7.6
 ---
 
 Nazareth Village is a careful recreation of a first-century Galilean farming village, built on the site of actual Roman-period agricultural remains. Costumed guides demonstrate traditional crafts and farming methods — olive pressing, weaving on a period loom, Roman-era grape pressing — and explain what daily life looked like in the village Jesus grew up in. It is educational without being preachy, and more rigorous in its historical detail than most similar attractions.

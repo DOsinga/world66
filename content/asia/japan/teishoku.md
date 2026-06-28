@@ -6,7 +6,7 @@ tags:
 - things_to_do
 - food
 title: Teishoku
-type: poi
+type: theme
 ---
 
 The *teishoku*, or set meal, is a staple of everyday Japanese dining. Nearly every restaurant (except most *izakayas*) will have a selection, and they're almost always a good deal.

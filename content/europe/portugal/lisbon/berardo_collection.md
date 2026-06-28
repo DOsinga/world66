@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - belem
+score: 7.5
 ---
 
 One of Europe's most significant private collections of modern and contemporary art, housed in the Cultural Centre of Belém adjacent to the Jerónimos Monastery. The collection was assembled by the Madeiran billionaire José Berardo and covers major movements from Cubism, Surrealism, and Abstract Expressionism through to Pop Art, Minimalism, and contemporary work.

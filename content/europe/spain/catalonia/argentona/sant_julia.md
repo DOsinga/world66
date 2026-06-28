@@ -8,6 +8,7 @@ tags:
 latitude: 41.5552
 longitude: 2.4003
 snippet: The parish church on the central plaza
+score: 6.0
 ---
 
 The parish church of Sant Julià rises above the central square of Argentona, its tall single nave Gothic in origin but heavily rebuilt in the 16th and 19th centuries. The plain stone facade and the squat bell tower are the postcard image of the town; inside, the church holds a baroque retable and a small museum of religious silverwork.

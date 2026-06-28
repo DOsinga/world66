@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Debre_Dammo
 story: >
   The leather climbing rope is said to have been the means by which Abuna Aregawi — one of the Nine Saints who brought Christianity from Syria to Ethiopia in the 6th century — was lifted to the mountaintop by a serpent sent by God. Whether or not you accept the miracle, the rope is real, and if you want to reach the monastery, you use it.
+score: 9.2
 ---
 
 The monastery at the top of Debre Damo's flat-topped amba is one of the oldest intact Christian monasteries in the world, founded in the 6th century by Abuna Aregawi, one of the Nine Saints who brought Byzantine Christianity to Ethiopia. The summit sits some 50 metres above the surrounding plateau on sheer cliffs, and the only way up is via a 15-metre leather rope — hauled from above by monks who assess your weight and your grip and then simply hoist you.

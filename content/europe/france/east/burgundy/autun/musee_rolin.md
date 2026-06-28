@@ -7,6 +7,7 @@ tags:
 latitude: 46.9506
 longitude: 4.2990
 snippet: Fine arts museum housing Gislebertus's original Eve and Gallo-Roman treasures
+score: 8.5
 ---
 
 The Musée Rolin occupies a 15th-century mansion built for Nicolas Rolin, the Burgundian chancellor who also commissioned the famous Hôtel-Dieu at Beaune. The collection ranges from Gallo-Roman artefacts to medieval art and on to 15th-century Burgundian painting.

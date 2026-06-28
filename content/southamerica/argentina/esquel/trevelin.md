@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A Welsh-Patagonian village 25km south of Esquel, with a tea house and the Nant-y-fall waterfalls
 story: "In 1865 a group of 153 Welsh settlers landed near Puerto Madryn on the Atlantic coast, fleeing English-language education and looking for a place to preserve their language and Methodist religion. They eventually pushed inland to the Andean foothills around Trevelin (Welsh for 'town of the mill'); a century and a half later, Welsh is still spoken by a handful of families."
+score: 7.4
 ---
 
 A small farming village 25km south of Esquel, founded by Welsh settlers from the Chubut colony in the 1880s. Trevelin (literally "Town of the Mill" in Welsh) is much smaller than its Atlantic cousin Gaiman but still recognisably Welsh in places — a chapel, a couple of tea houses serving the traditional dense fruit cake, and the **Molino Andes** old flour mill that gave the village its name.

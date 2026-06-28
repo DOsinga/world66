@@ -14,6 +14,7 @@ story: >
   with a blaze of electric light so spectacular that it was filmed and widely reported. The
   pattern has barely changed since — Mysore's Sunday evening crowds gather outside the walls
   just to watch the palace light up.
+score: 9.7
 ---
 
 The Mysore Palace is the defining image of the city — an extravagant 1912 structure in the Indo-Saracenic style, its central dome flanked by identical corner towers, built for Nalwadi Krishnaraja Wadiyar after the previous wooden palace burned down. It was designed by Henry Irwin, the British architect who also built the Madras High Court, and took fifteen years to complete. Inside, the Durbar Hall is a cathedral of painted columns, stained glass, and carved teak, decorated for the Dasara ceremony with an opulence that reflects the maharaja's enormous revenues and his relationship with the colonial administration.

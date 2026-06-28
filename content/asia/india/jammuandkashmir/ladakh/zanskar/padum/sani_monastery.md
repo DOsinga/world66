@@ -12,6 +12,7 @@ story: >
   Kanishka in the 2nd century AD — making it one of the oldest Buddhist structures in
   the entire Himalayan region. The stupa's age predates the monastery by over a thousand
   years; the monastery was established around the 10th century around this far older structure.
+score: 7.9
 ---
 
 Sani Monastery sits in a flat, poplar-shaded clearing 8 kilometres west of Padum, where the Stod Valley broadens into the central plain of Zanskar. It is the only monastery in Zanskar associated with the Drugpa Kagyü school, and its most distinctive feature is the Kanishka Stupa at its centre — a squat, heavily weathered structure that scholars believe dates to the Kushan period, around the 2nd century AD. This makes it among the oldest Buddhist monuments in the Himalayan world.

@@ -9,6 +9,7 @@ tags:
   - konak
 story: >
   The monument commemorates 15 May 1919, the day Greek forces landed at Smyrna under Allied authorization, marking the beginning of the Greco-Turkish War. According to Turkish accounts, the first shot fired in resistance to the landing came from this spot near Konak Square, fired by a soldier named Hasan Tahsin. The monument sits at one of the most historically charged intersections in Turkish national memory — the point where the war that would eventually establish the Republic of Turkey began.
+score: 5.4
 ---
 
 The First Bullet Monument (İlk Kurşun Anıtı) stands near Konak Square, commemorating the Turkish resistance to the Greek occupation of Smyrna in May 1919. The occupation began on 15 May 1919, when Greek troops landed at the port and marched into the city under Allied supervision — triggering a war that lasted until 1922 and ended with the population exchanges and the great fire that destroyed the Greek and Armenian quarters of the city.

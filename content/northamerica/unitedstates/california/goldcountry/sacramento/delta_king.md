@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5831
 longitude: -121.5086
+score: 7.1
 ---
 
 A 1927 paddle-wheel riverboat permanently moored on the Sacramento waterfront in Old Sacramento, now operating as a hotel and restaurant. The Delta King was built in Stockton to serve the Sacramento River passenger route between Sacramento and San Francisco — a journey that took all night in one direction and was considered more comfortable than the rough valley roads.

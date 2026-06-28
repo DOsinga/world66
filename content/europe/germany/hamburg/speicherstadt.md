@@ -4,7 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 53.544
 longitude: 9.987
+score: 9.1
 snippet: UNESCO-listed neo-Gothic warehouse district on the canals
+tags:
+- things_to_do
+- sight
+- architecture
 title: Speicherstadt
 type: poi
 ---

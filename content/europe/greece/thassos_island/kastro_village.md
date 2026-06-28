@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.7
 ---
 
 The most remote and atmospheric settlement on Thassos, Kastro is a tiny village in the island's interior, built around and beneath the walls of a Byzantine fortress on a rocky spur. The position is defensive and dramatic: the village hangs above deep pine forest with long views in every direction. It is reached by a winding mountain road that requires patience and a car with reasonable clearance; the reward is a place that feels genuinely cut off from the tourism that occupies most of the island's coast.

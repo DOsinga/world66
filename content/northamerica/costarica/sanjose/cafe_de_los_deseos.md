@@ -9,6 +9,7 @@ tags:
   - bar
 title: Café de los Deseos
 type: poi
+score: 6.3
 ---
 
 A San José bohemian classic — part cafe, part bar, part gallery, with artwork covering every wall and a courtyard that fills with students, artists, and travelers on weekend nights. The menu covers coffee, cocktails, and a modest selection of food. The atmosphere is reliably warm and unpretentious.

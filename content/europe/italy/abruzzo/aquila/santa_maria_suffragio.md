@@ -8,6 +8,7 @@ tags:
 latitude: 42.3484
 longitude: 13.3979
 story: "Santa Maria del Suffragio, known locally as the 'church of the Holy Souls', was built in the 1700s to pray for the dead of L'Aquila — a city that had endured several catastrophic earthquakes. Its interior is lined with votive paintings brought by families whose relatives had died violently or suddenly. The 2009 earthquake collapsed the dome, the rubble falling onto the floor of the church and destroying part of the collection. The church remains partially closed during ongoing restoration."
+score: 7.4
 ---
 
 Santa Maria del Suffragio stands on Piazza del Duomo, its 18th-century Baroque facade one of the most recognisable on the square. The church was built on the site of an earlier chapel dedicated to praying for the souls of the earthquake dead — L'Aquila had been destroyed by major earthquakes in 1461 and 1703, and the church's foundation reflected the city's relationship with seismic disaster.

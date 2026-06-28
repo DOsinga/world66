@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.3097
 longitude: -123.0822
+score: 8.2
 ---
 
 The SeaBus is the passenger-only ferry that runs every 12 minutes (every 15 in off-peak) between Waterfront Station in downtown Vancouver and Lonsdale Quay in North Vancouver. The crossing takes 12 minutes; it costs a standard transit fare; and it is one of the best harbour tours in the lower mainland.

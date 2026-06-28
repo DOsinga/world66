@@ -7,6 +7,8 @@ score: 0.4
 title: West Bengal
 type: location
 loc_type: region
+snippet: Eastern Indian state stretching from Himalayan foothills to the Sundarbans,
+  shaped by Bengali culture.
 ---
 
 *Asia > India > West Bengal*
@@ -30,6 +32,8 @@ West Bengal is largely safe for independent travellers. Bengali hospitality is g
 - [Calcutta (Kolkata)](/asia/india/westbengal/calcutta) — the state capital; former imperial city, cultural powerhouse
 - [Darjeeling](/asia/india/westbengal/darjeeling) — Himalayan hill station; tea, the Toy Train, mountain views
 - [Kalimpong](/asia/india/westbengal/kalimpong) — quieter hill town near the Sikkim border; monasteries, orchids
+- [Cooch Behar](/asia/india/westbengal/cooch_behar) — North Bengal princely town with a grand palace and old tanks
+- [Bardhaman](/asia/india/westbengal/bardhaman) — Raj-era city with ceremonial gates, garden tanks, and terracotta temples
 - [Digha](/asia/india/westbengal/digha) — popular Bay of Bengal beach resort
 - [Mandarmani](/asia/india/westbengal/mandarmani) — low-key beach with cars driving on the sand at low tide
 - [Bakkhali](/asia/india/westbengal/bakkhali) — remote beach resort near the Sundarbans

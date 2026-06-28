@@ -9,6 +9,7 @@ latitude: 49.1192
 longitude: -122.9708
 story: >
   Burns Bog is the largest raised peat bog in North America, and the peat it contains has been accumulating for around 5,000 years. The vegetation here is a relic of conditions that disappeared from most of southern British Columbia after the last ice age — carnivorous sundews and bladderworts, sphagnum mosses, and stunted shore pines that are genetically almost identical to trees growing in subarctic Alaska.
+score: 7.8
 ---
 
 Burns Bog is a vast raised peat bog covering about 40 square kilometres in the heart of Delta — a quarter of the entire municipality. It is one of the largest undeveloped areas this close to a major Canadian city, and its unusual ecology has led to its designation as an Ecological Conservancy Area. The bog supports black bears, coyotes, bald eagles, short-eared owls, and a remarkable range of bog plants including carnivorous species rarely seen at these latitudes.

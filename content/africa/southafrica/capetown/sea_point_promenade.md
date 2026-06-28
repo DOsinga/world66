@@ -1,8 +1,7 @@
 ---
-category: Park
 latitude: -33.9219
 longitude: 18.3825
-neighbourhood: Sea Point
+score: 7.9
 scores:
   activities: 0.6193
   sight: 0.6483

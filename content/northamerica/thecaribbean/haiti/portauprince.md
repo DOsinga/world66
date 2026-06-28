@@ -5,7 +5,9 @@ done:
 latitude: 18.5944
 loc_type: city
 longitude: -72.3074
-score: 0.23
+score: 5.04
+snippet: Haitian capital of hillside neighborhoods, tap-taps, markets, and the cooler
+  heights of Pétion-Ville.
 title: Port-au-Prince
 type: location
 ---

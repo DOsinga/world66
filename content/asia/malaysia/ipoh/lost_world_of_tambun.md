@@ -6,6 +6,7 @@ longitude: 101.1503
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Lost World of Tambun is a strange and rather wonderful theme-park-and-water-park-and-hot-spring resort tucked between the limestone karsts on the eastern edge of Ipoh in the suburb of Tambun. It mixes a standard tropical water park (slides, lazy river, wave pool) with thermal **hot springs** fed by natural geothermal activity, a small zoo, a tin-mining heritage area and a petting zoo — all set against the dramatic backdrop of the karst hills.

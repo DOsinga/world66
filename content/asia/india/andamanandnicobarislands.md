@@ -1,9 +1,11 @@
 ---
+latitude: 11.7
+loc_type: region
+longitude: 92.73
+snippet: Remote Indian island region in the Bay of Bengal, with coral reefs, forested
+  islands, and colonial prison history
 title: Andaman and Nicobar Islands
 type: location
-loc_type: region
-latitude: 11.7
-longitude: 92.73
 ---
 
 The Andaman and Nicobar Islands are an Indian archipelago of around 550 islands in the eastern Bay of Bengal, much closer to Myanmar and Thailand than to mainland India. Most of the islands are forested, uninhabited, and off-limits. The ones that are open to visitors offer some of the finest beaches, coral reefs, and diving in Asia — still far less visited than similar destinations in Southeast Asia.

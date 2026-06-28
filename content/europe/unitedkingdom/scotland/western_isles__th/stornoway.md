@@ -1,21 +1,23 @@
 ---
-title: "Stornoway"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - neighbourhood
-latitude: 58.2090
-longitude: -6.3870
-snippet: The capital and main town of the Outer Hebrides
-story: >
-  Stornoway was a herring port of international importance in the late 19th century,
-  landing some of the largest catches in Europe. At its peak, hundreds of fishing boats
-  from Scotland, Ireland, and the Netherlands crowded the harbour, and the town's
-  gutting girls — mostly young women from the islands — followed the herring fleet from
-  port to port around Britain, working with extraordinary speed and precision.
+title: Stornoway
+type: location
+loc_type: city
+latitude: 58.209
+longitude: -6.387
+score: 7.2
+snippet: Outer Hebrides harbour town where Gaelic island life meets ferries, arts,
+  and Lews Castle.
+sources:
+- https://en.wikivoyage.org/wiki/Stornoway
+- https://en.wikipedia.org/wiki/Stornoway
+image: stornoway.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bayhead,_Stornoway_(geograph_2621877).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Colin Smith
 ---
 
-Stornoway is the only real town in the Outer Hebrides, with around 8,000 people, a functioning harbour, and enough shops and cafes to feel like a proper settlement after days of empty moorland. The ferry from Ullapool arrives here, making it most visitors' first contact with the islands. Castle Grounds, the wooded estate surrounding Lews Castle on the western edge of town, offers an unexpected pleasure — mature broadleaf woodland in a landscape otherwise treeless.
+Stornoway is the only real town in the [Outer Hebrides](/europe/unitedkingdom/scotland/western_isles__th), a working harbour that can feel almost urban after days of peat moor, machair, and single-track roads. The Ullapool ferry lands here, buses fan out across Lewis and Harris, and most visitors pass through at least twice.
 
-The town centre is compact and easy on foot. **An Lanntair**, the arts centre on South Beach, shows contemporary art exhibitions and hosts concerts and events year-round; the gallery café is good for lunch. The **Museum nan Eilean** inside Lews Castle holds the story of the islands including the Lewis Chessmen — the original pieces are in the British Museum and National Museum of Scotland, but replicas are displayed here. Stornoway is also the gateway for onward travel to the rest of the islands by bus or hired car.
+The town is not especially pretty in a postcard way. Its appeal is more useful and more interesting: fishing boats in the harbour, Gaelic in ordinary conversation, Harris Tweed in shop windows, and a town centre compact enough to cross in ten minutes. It is also the place where island culture comes indoors. [An Lanntair](/europe/unitedkingdom/scotland/western_isles__th/stornoway/an_lanntair) hosts exhibitions, film, music, and theatre; [Lews Castle](/europe/unitedkingdom/scotland/western_isles__th/stornoway/lews_castle_and_museum) holds Museum nan Eilean and the story of the islands.
+
+The surprise is the Castle Grounds, a real woodland on an island where most of the natural landscape is open and treeless. Paths run above the harbour and into Lady Lever Park, giving Stornoway a softer edge than you expect from the ferry terminal. The [Iolaire Memorial](/europe/unitedkingdom/scotland/western_isles__th/stornoway/iolaire_memorial) east of town gives the place its most sobering moment: 201 Lewis men drowned within sight of home on New Year's Day 1919, after surviving the First World War.

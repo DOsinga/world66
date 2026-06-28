@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 23.6194
 longitude: 58.5664
+score: 7.7
 ---
 
 The fish market at the western end of Muttrah corniche is a working fish market rather than a tourist attraction, which is exactly what makes it worth visiting. The trade happens early — the main business is done by 7am, when fishing boats that went out the previous night bring in their catch and the buyers sort through yellowfin tuna, kingfish, hammour grouper, cuttlefish, and the dozens of smaller reef species that characterise Omani waters. Retailers, restaurant buyers, and householders pick through the catch at long concrete tables while cats work the margins.

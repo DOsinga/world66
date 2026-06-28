@@ -9,6 +9,7 @@ latitude: -37.122
 longitude: 175.63
 sources:
   - https://en.wikipedia.org/wiki/Kauaeranga_Valley
+score: 8.1
 ---
 
 The Kauaeranga Valley east of Thames is the main access point for the Coromandel Forest Park. The valley follows the Kauaeranga River into the heart of the ranges, and the DOC camping ground and visitor centre at road's end is the starting point for several good walks including the Pinnacles Track.

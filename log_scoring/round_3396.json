@@ -1,0 +1,200 @@
+{
+  "round": 3396,
+  "timestamp": "2026-06-13T22:50:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 7.8366,
+      "prior_variance": 0.248899,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 6.161,
+      "prior_variance": 0.153601,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 7.1315,
+      "prior_variance": 0.160159,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 8.0986,
+      "prior_variance": 0.229931,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.7227,
+      "prior_variance": 0.171878,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 7.1333,
+      "prior_variance": 0.163504,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.5329,
+      "prior_variance": 0.146711,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.6922,
+      "prior_variance": 0.135771,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 4.8788,
+      "prior_variance": 0.129214,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 5.8099,
+      "prior_variance": 0.170161,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 4.7896,
+      "prior_variance": 0.125161,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.395,
+      "prior_variance": 0.123881,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 3.4381,
+      "prior_variance": 0.161197,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": 3.4011,
+      "prior_variance": 0.120263,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": 1.7134,
+      "prior_variance": 0.123082,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Chilo\u00e9",
+      "path": "southamerica/chile/chiloe",
+      "prior_score": 2.9431,
+      "prior_variance": 0.1166,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 1.0613,
+      "prior_variance": 0.133929,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": 0.1003,
+      "prior_variance": 0.126226,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.3442,
+      "prior_variance": 0.12917,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -1.8327,
+      "prior_variance": 0.129137,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -2.6819,
+      "prior_variance": 0.129588,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -2.6008,
+      "prior_variance": 0.131578,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -5.542,
+      "prior_variance": 0.145969,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -9.0245,
+      "prior_variance": 0.226176,
+      "prior_n": 10
+    }
+  ]
+}

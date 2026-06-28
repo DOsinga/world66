@@ -1,15 +1,18 @@
 ---
-title: Leadenhall Market
-type: poi
-snippet: An ornate Victorian arcade in the heart of the City, with a brief cameo as Diagon Alley
-tags:
-  - things_to_do
-  - sight
-  - market
-  - architecture
+address: Gracechurch Street, London EC3V 1LT
 latitude: 51.5128
 longitude: -0.0838
-address: Gracechurch Street, London EC3V 1LT
+score: 7.6
+snippet: An ornate Victorian arcade in the heart of the City, with a brief cameo as
+  Diagon Alley
+tags:
+- things_to_do
+- sight
+- market
+- architecture
+- the_city
+title: Leadenhall Market
+type: poi
 url: leadenhallmarket.co.uk
 ---
 

@@ -1,11 +1,13 @@
 ---
-latitude: 35.0010
+latitude: 35.001
 longitude: 135.7807
+score: 8.2
 snippet: Higashiyama temple founded by the widow of Toyotomi Hideyoshi
 tags:
 - things_to_do
 - temple
 - sight
+- gion
 title: Kōdai-ji
 type: poi
 ---

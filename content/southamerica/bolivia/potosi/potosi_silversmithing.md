@@ -12,6 +12,7 @@ story: >
   across the Spanish Empire and beyond. The tradition faded with the silver boom,
   but the Escuela Municipal de Platería has been attempting to revive it since
   the 1990s, teaching traditional techniques to local young people.
+score: 6.8
 ---
 
 The Potosí Silversmithing School (Escuela Municipal de Platería) is a civic institution devoted to reviving the silver craft traditions that made the city famous in the colonial period. At its peak, Potosí had hundreds of silversmiths producing pieces that circulated through the entire Spanish colonial world — the quality of Potosí silver work was internationally recognised, and pieces from local workshops appear in European church treasuries today.

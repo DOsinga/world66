@@ -13,6 +13,7 @@ tags:
 - church
 title: Convent of Santa Teresa
 type: poi
+score: 7.3
 ---
 
 The Iglesia-Convento de Santa Teresa stands on the site of the house where Teresa de Jesús (Teresa of Ávila) was born in 1515. The church was built over the birthplace in 1636, more than fifty years after her death. Teresa was a Carmelite nun who reformed the order, founded seventeen new convents across Spain, and wrote some of the most influential mystical texts in the Christian tradition — including the Interior Castle, still read by contemplatives worldwide.

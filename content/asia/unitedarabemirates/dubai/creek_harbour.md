@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dubai Creek Harbour
 type: poi
+score: 5.9
 ---
 
 Dubai Creek Harbour is a major development under construction east of the old city, intended to become a new downtown district around the Tower (Dubai Creek Tower) — a supertall structure designed to surpass the Burj Khalifa in height when completed. As of the mid-2020s, the area is partially built out with residential towers, the Ras Al Khor Wildlife Sanctuary just to the south, and a growing promenade and retail strip along the Creek lagoon.

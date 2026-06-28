@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Anglican cathedral in the heart of Hamilton
+score: 6.3
 ---
 
 St Peter's Cathedral is Hamilton's Anglican cathedral and one of the city's few significant heritage buildings. The current structure dates from the 1950s but incorporates earlier stonework, and the interior contains notable stained glass and woodcarving. It sits on a prominent site on the eastern riverbank and is open to visitors during daylight hours.

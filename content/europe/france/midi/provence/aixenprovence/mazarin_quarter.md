@@ -8,6 +8,7 @@ neighbourhood: Quartier Mazarin
 latitude: 43.5263
 longitude: 5.4488
 snippet: Aix's seventeenth-century grid of hotels particuliers south of the Cours
+score: 8.1
 ---
 
 The Mazarin quarter is a grid of straight, narrow streets laid out in 1646 by the brother of Cardinal Mazarin. The contrast with the medieval tangle north of the Cours Mirabeau is immediate — wide pavements, low traffic, almost no shops, and an unbroken run of dignified seventeenth- and eighteenth-century town houses.

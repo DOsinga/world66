@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Our Lady of the Rosary Cathedral
 type: poi
+score: 6.7
 ---
 
 The Catholic cathedral of the Archdiocese of Kisangani, built in the Belgian colonial era and still the most prominent religious building in the city. The architecture is a relatively restrained neo-Romanesque, with twin red-brick towers facing onto the main boulevard.

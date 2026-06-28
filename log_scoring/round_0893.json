@@ -1,199 +1,199 @@
 {
   "round": 893,
-  "timestamp": "2026-04-12T14:48:00",
+  "timestamp": "2026-06-13T19:59:20",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Interlaken",
-      "path": "europe/switzerland/interlaken",
-      "prior_score": 9.3029,
-      "prior_variance": 3.791148,
-      "prior_n": 1
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -5.7802,
+      "prior_variance": 0.64106,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Lausanne",
-      "path": "europe/switzerland/lausanne",
-      "prior_score": 6.7013,
-      "prior_variance": 1.526655,
-      "prior_n": 1
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -8.0558,
+      "prior_variance": 0.558957,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Sun Moon Lake",
-      "path": "asia/taiwan/sunmoonlake",
-      "prior_score": 5.4476,
-      "prior_variance": 1.445098,
-      "prior_n": 1
+      "title": "Tatab\u00e1nya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": -7.9525,
+      "prior_variance": 0.660823,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Orkney",
-      "path": "europe/unitedkingdom/scotland/orkneys",
-      "prior_score": 9.9825,
-      "prior_variance": 1.980912,
-      "prior_n": 1
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_score": -8.4103,
+      "prior_variance": 0.745094,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Stoupa",
-      "path": "europe/greece/stoupa",
-      "prior_score": 5.4434,
-      "prior_variance": 1.509144,
-      "prior_n": 1
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -8.7027,
+      "prior_variance": 1.314178,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Bacharach",
-      "path": "europe/germany/rhinelandpalatinate/bacharach",
-      "prior_score": 5.5203,
-      "prior_variance": 5.757707,
-      "prior_n": 1
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -8.5754,
+      "prior_variance": 0.877087,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Carloforte",
-      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
-      "prior_score": 5.9377,
-      "prior_variance": 1.522161,
-      "prior_n": 1
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -8.2366,
+      "prior_variance": 0.62578,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Kapiti Coast",
-      "path": "australiaandpacific/newzealand/kapiti_coast",
-      "prior_score": 0.1388,
-      "prior_variance": 1.245924,
-      "prior_n": 1
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_score": -9.3678,
+      "prior_variance": 0.825094,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Hastings",
-      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
-      "prior_score": 1.4014,
-      "prior_variance": 1.346164,
-      "prior_n": 1
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -8.5227,
+      "prior_variance": 0.512032,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Vlore",
-      "path": "europe/albania/vlore",
-      "prior_score": 3.3612,
-      "prior_variance": 1.347196,
-      "prior_n": 1
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -7.7182,
+      "prior_variance": 0.79249,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Recife",
-      "path": "southamerica/brazil/recife",
-      "prior_score": 7.4794,
-      "prior_variance": 2.297204,
-      "prior_n": 1
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -9.1437,
+      "prior_variance": 1.190656,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Ambon",
-      "path": "asia/indonesia/maluku/ambon",
-      "prior_score": -0.5245,
-      "prior_variance": 0.786025,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -7.7692,
+      "prior_variance": 0.689028,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Turda",
-      "path": "europe/romania/turda",
-      "prior_score": -0.9541,
-      "prior_variance": 1.175026,
-      "prior_n": 1
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -6.1154,
+      "prior_variance": 0.605679,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Sheffield",
-      "path": "europe/unitedkingdom/england/sheffield",
-      "prior_score": 1.0089,
-      "prior_variance": 1.457228,
-      "prior_n": 1
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -7.4304,
+      "prior_variance": 0.62575,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Wetzlar",
-      "path": "europe/germany/hessen/wetzlar",
-      "prior_score": -1.0169,
-      "prior_variance": 1.209835,
-      "prior_n": 1
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -7.0551,
+      "prior_variance": 0.621916,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Bad Bentheim",
-      "path": "europe/germany/lowersaxony/bad_bentheim",
-      "prior_score": -1.9284,
-      "prior_variance": 1.284366,
-      "prior_n": 1
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -7.3376,
+      "prior_variance": 0.826195,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Pittsfield",
-      "path": "northamerica/unitedstates/massachusetts/pittsfield",
-      "prior_score": -1.9299,
-      "prior_variance": 1.471602,
-      "prior_n": 1
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -9.073,
+      "prior_variance": 0.899952,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Miglionico",
-      "path": "europe/italy/basilicata/miglionico",
-      "prior_score": -1.0691,
-      "prior_variance": 1.366393,
-      "prior_n": 1
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -7.5421,
+      "prior_variance": 0.764287,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Gunungsitoli",
-      "path": "asia/indonesia/nias_selatan/gunungsitoli",
-      "prior_score": -4.8294,
-      "prior_variance": 0.678588,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -8.5786,
+      "prior_variance": 0.63428,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "oran",
-      "path": "africa/algeria/oran/oran_1",
-      "prior_score": -4.446,
-      "prior_variance": 1.334278,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -9.6065,
+      "prior_variance": 0.714474,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Naushera",
-      "path": "asia/pakistan/soon_valley/naushera",
-      "prior_score": -7.4282,
-      "prior_variance": 0.315951,
-      "prior_n": 6
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -8.8844,
+      "prior_variance": 0.970578,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Nueva Rosita",
-      "path": "northamerica/mexico/nuevarosita",
-      "prior_score": -6.3424,
-      "prior_variance": 1.585007,
-      "prior_n": 1
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -9.6805,
+      "prior_variance": 0.668147,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Loch Sheldrake",
-      "path": "northamerica/unitedstates/newyorkstate/lochsheldrake",
-      "prior_score": -7.0895,
-      "prior_variance": 1.099078,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -8.3962,
+      "prior_variance": 0.658389,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Ukraine",
-      "path": "europe/ukraine",
-      "prior_score": -4.4307,
-      "prior_variance": 0.713374,
+      "title": "Ghat",
+      "path": "africa/libya/ghat",
+      "prior_score": -10.5207,
+      "prior_variance": 7.566311,
       "prior_n": 2
     }
   ]

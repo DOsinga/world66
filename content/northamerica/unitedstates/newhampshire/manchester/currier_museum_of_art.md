@@ -12,6 +12,7 @@ story: The Frank Lloyd Wright Zimmermann House, a short drive from the museum, w
   designed in 1950 as a total domestic environment — Wright specified the furniture,
   the garden layout, and even the color of the rugs. The couple who lived there changed
   almost nothing. It remains the only Wright building in New England open to the public.
+score: 8.8
 ---
 
 The Currier is legitimately good — the kind of compact, well-curated museum that cities ten times Manchester's size would be proud of. The American paintings collection is the strongest part: significant works from the colonial period through the 20th century, with particular depth in the Hudson River School and American Impressionism. The European holdings are smaller but include worthwhile pieces from the medieval through early modern periods.

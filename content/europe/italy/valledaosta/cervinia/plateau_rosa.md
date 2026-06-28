@@ -9,6 +9,7 @@ tags:
 latitude: 45.9389
 longitude: 7.7011
 story: The Plateau Rosa cable car arrives at one of the few year-round skiing areas in the Alps — even in August, weather permitting, you can ski on the Theodul Glacier. The plateau sits on the border, and the line between Italy and Switzerland runs right across the summer ski area, sometimes marked only by a row of poles in the snow.
+score: 8.5
 ---
 
 The Plateau Rosa is a wide glacier saddle at 3,480 metres, reached by a sequence of three lifts from the centre of Cervinia. It is the high point of the lift system and the link to the Zermatt ski area on the Swiss side. In summer the snow holds well enough for limited skiing on the Theodul Glacier — one of the very few Alpine sites where this is still possible.

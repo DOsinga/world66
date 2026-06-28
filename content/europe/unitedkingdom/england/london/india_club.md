@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: India Club
 type: poi
+score: 8.0
 ---
 
 A London institution in the old sense: a first-floor canteen in a Strand hotel, opened in 1951 by the India League as a gathering place for Indian diplomats and students. The decor has barely changed. The food is homely north Indian cooking — dhal, keema, biryani — at prices that seem impossible in central London.

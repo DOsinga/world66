@@ -9,6 +9,7 @@ story: >
   villagers have walked for centuries. Until the 1990s almost no foreigners made
   this journey; today it remains one of the few trekking routes in Myanmar where
   the villages you pass through feel genuinely unchanged by tourism.
+score: 9.0
 ---
 
 The three-day walk from Kalaw to [Inle Lake](/asia/myanmar/inlelake) is the most popular trek in Shan State, and for good reason. The route drops through pine forest and terraced fields, passing through Pa-O and Danu communities where overnight stays in village monasteries or farmhouses are often arranged. Guides are essential — not just for navigation but for the introductions and translation they provide. Most guesthouses in Kalaw can set you up with a licensed guide.

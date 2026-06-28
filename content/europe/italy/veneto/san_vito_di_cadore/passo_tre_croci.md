@@ -15,6 +15,7 @@ story: >
   Comelico valleys in the era before motor roads. The stone crosses still stand
   beside the modern road, largely unnoticed by drivers who stop only for the
   panorama.
+score: 7.1
 ---
 
 Passo Tre Croci sits at 1,809 metres between San Vito di Cadore and Cortina d'Ampezzo, a short drive north of the village on the SS48 road. The pass is the main trailhead for the approach to Lago di Sorapiss — the starting point of the three-hour return walk to the vivid turquoise lake beneath the Sorapiss walls — and offers its own spectacular views across the Dolomites without leaving the car park.

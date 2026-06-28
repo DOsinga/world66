@@ -7,6 +7,7 @@ tags:
   - park
 latitude: -6.8552
 longitude: 107.9180
+score: 6.6
 ---
 
 A small wooded hill at the northern edge of the town centre, Gunung Kunci — "Key Mountain" — was fortified by the Dutch in the nineteenth century as a defensive position overlooking the surrounding valley. The old stone bunkers and earthworks are still visible, embedded in a municipal park that locals use for morning walks and weekend picnics.

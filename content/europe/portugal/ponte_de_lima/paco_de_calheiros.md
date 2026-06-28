@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "17th-century baroque manor house operating as a guesthouse, 5 km north"
+score: 7.2
 ---
 
 One of the finest examples of a Minho solar (manor house) in the Ponte de Lima municipality, the Paço de Calheiros is a 17th-century baroque palace perched on a granite hillside about 5 km north of town. The counts of Calheiros have lived here for centuries; the current generation operate it as an upscale guesthouse, but the terraced gardens, chapel, and estate vineyards are impressive whether or not you stay.

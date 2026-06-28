@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ertholmene_Christians%C3%B
 latitude: 55.3205
 loc_type: city
 longitude: 15.1892
-score: 0.53
+score: 7.8
+snippet: Tiny Baltic fortress island and Denmark's easternmost point, built as a naval
+  base in the 1680s.
 title: Christiansø
 type: location
 ---

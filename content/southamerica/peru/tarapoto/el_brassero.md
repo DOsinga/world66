@@ -1,10 +1,15 @@
 ---
 accessibility: Not wheelchair accessible.  Parking on the street.
 address: 'Jr. San Pablo de la Cruz #254'
+latitude: -6.4896
+longitude: -76.3636
 phone: (042) 52-2700
 price: Cheap
+score: 4.8
 tags:
 - eating_out
+- restaurant
+- grill
 title: El Brassero
 type: poi
 ---

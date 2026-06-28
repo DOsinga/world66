@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 33.7350
 longitude: 75.1478
+score: 5.9
 ---
 
 The main bazaar of Anantnag is a long, narrow strip of small shops selling everything a Kashmiri household needs — copperware, embroidered shawls, woollen pherans, dried fruit, walnuts, and saffron. It is a working bazaar rather than a tourist one, which makes prices fair and the experience more interesting.

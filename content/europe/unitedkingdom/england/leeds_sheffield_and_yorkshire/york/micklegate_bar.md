@@ -14,6 +14,7 @@ story: >
   claim to the throne. The heads of other Yorkist leaders went up alongside his.
   The display was intended as a humiliation and a warning; within a decade the
   Wars of the Roses had turned, and Lancastrian heads occupied the same spikes.
+score: 8.1
 ---
 
 Micklegate Bar is the most historically significant of York's four surviving medieval gateways. It stood on the main road from London and the south, which made it the ceremonial entrance for kings and queens arriving in York — a tradition that continued well into the Tudor period. The gateway itself dates mainly from the 12th and 14th centuries, though a Roman road ran through this point long before the medieval walls were built. The barbican that once extended outward has been demolished, but the gatehouse survives in good condition.

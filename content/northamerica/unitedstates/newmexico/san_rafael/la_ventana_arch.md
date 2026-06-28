@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: One of New Mexico's largest sandstone arches
+score: 7.8
 ---
 
 The free-standing sandstone arch sits in a rust-coloured cliff at the eastern edge of El Malpais, about 25 miles south of San Rafael on NM-117. The span is roughly 165 feet across and 125 feet high — large enough that the opening frames a full slice of sky and the bluffs beyond.

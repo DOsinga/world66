@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Cours Julien
 type: poi
+score: 7.3
 ---
 
 Cours Julien is a gently sloping square in the 6th arrondissement — the bohemian centre of Marseille and the gathering place for its artists, musicians, students, and anyone who finds the Vieux-Port too polished. It's not a monument or a sight; it's a place where the city goes to sit outside and stay up late.

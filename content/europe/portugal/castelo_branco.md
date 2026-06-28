@@ -6,6 +6,7 @@ longitude: -7.44606
 score: 0.46
 title: Castelo Branco
 type: location
+snippet: Eastern Portuguese district capital built around a Templar castle and a baroque episcopal garden.
 loc_type: region
 ---
 

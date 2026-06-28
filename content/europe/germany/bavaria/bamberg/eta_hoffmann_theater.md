@@ -7,6 +7,7 @@ tags:
 - landmark
 title: E.T.A. Hoffmann Theater
 type: poi
+score: 6.9
 ---
 
 A handsome theatre on Schillerplatz named for E.T.A. Hoffmann — composer, writer, lawyer, and from 1808 to 1813 the musical director and house dramaturge of the predecessor company on this same site. Three stages now; the season covers serious German and international plays and a chamber-opera programme.

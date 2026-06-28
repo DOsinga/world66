@@ -2,12 +2,12 @@
 address: 4067 18th St
 latitude: 37.7608
 longitude: -122.4343
+score: 6.3
 snippet: Castro video bar known for camp music screenings
 tags:
 - bars_and_cafes
 - bar
 - castro_district
-neighbourhood: Castro District
 title: Midnight Sun
 type: poi
 ---

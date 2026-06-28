@@ -8,6 +8,7 @@ tags:
 latitude: 42.14278
 longitude: -77.0529
 story: "The Rockwell Museum was founded by Robert F. Rockwell Jr. — no relation to Norman Rockwell — a Corning department store owner who spent decades collecting paintings and bronzes depicting the American West. The collection he assembled is now considered one of the finest of its kind outside of major institutions in the West itself, with works by Frederic Remington, Charles Russell, and Albert Bierstadt that represent the full range of the 19th-century romantic vision of the frontier."
+score: 8.0
 ---
 
 The Rockwell Museum of Western Art occupies a landmark building in downtown Corning — the old City Hall, built in 1893 — and houses an extensive collection of paintings and sculptures dedicated to the American West. The collection centres on works by Frederic Remington and Charles Russell, the two most celebrated artists of the cowboy-and-frontier genre, with additional works by Albert Bierstadt, Thomas Moran, and other 19th-century painters who shaped the popular image of the West.

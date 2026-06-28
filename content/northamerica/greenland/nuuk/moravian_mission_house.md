@@ -16,6 +16,7 @@ story: >
   Greenlandic quickly, encouraged Inuit-led worship, and generally left local customs
   more intact. This made them more popular in some communities and more threatening to
   the Danish colonial administration, who saw them as competition.
+score: 7.0
 ---
 
 The Moravian Brethren Mission House, built in 1747, is the oldest surviving wooden building in Nuuk. The timber-frame structure was prefabricated in the Netherlands and shipped to Greenland in sections — a remarkable logistical achievement for the mid-eighteenth century. The building is in the southern part of the old town, away from the more visited colonial harbour area.

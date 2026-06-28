@@ -4,6 +4,9 @@ done:
 latitude: 25.091
 loc_type: city
 longitude: 104.9011
+score: 6.67
+snippet: Southwestern Guizhou city near karst peaks, river gorges, and the Forest
+  of Ten Thousand Peaks.
 sources:
 - https://en.wikivoyage.org/wiki/Xingyi
 title: Xingyi

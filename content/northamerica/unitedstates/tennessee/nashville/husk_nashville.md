@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - the_gulch
+score: 7.5
 ---
 
 Husk, the Nashville outpost of Sean Brock's Charleston-born modern Southern restaurant, occupies a restored Victorian house on Rutledge Street between downtown and the Gulch. The kitchen sources almost everything from the South: heirloom corn, Sea Island peas, Carolina rice, country hams, regional cheeses, and seafood from the Gulf and the South Atlantic.

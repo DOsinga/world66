@@ -3,12 +3,14 @@ address: Via degli Avignonesi 22, 00187 Rome
 latitude: 41.9008
 longitude: 12.4857
 opening_hours: Tue–Sun 12:45–14:45, 19:45–22:45; closed Mon
+score: 7.6
 snippet: Family-run Emilia-Romagna cooking near the Trevi Fountain
 tags:
 - Eater Rome
 - Katie Parla Rome
 - eating_out
 - restaurant
+- pantheon_navona
 title: Colline Emiliane
 type: poi
 ---

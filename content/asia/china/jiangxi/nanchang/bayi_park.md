@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.6820
 longitude: 115.8860
+score: 6.2
 ---
 
 Bayi Park (八一公园) is a traditional Chinese garden park in the Donghu district, named for the August 1st founding date and situated just a few minutes' walk from the memorial museum and square. The park includes a lake with rowing boats, rockery formations, covered walkways, and a lotus-viewing platform. It's a useful sanctuary from the heat and the political monumentalism of the surrounding area, and its classical garden design is representative of the southern Chinese garden tradition.

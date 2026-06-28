@@ -1,12 +1,17 @@
 ---
 latitude: 34.9879
 longitude: 135.7717
+score: 9.2
 snippet: 120-metre-long hall containing 1,001 gilt statues of the bodhisattva Kannon
-story: The hall hosts the Tōshiya, an archery contest held since 1606 in which competitors fire arrows the full 120-metre length of the rear veranda. The all-time record, set in 1686, was 8,133 hits out of 13,053 shots — fired one after another, over twenty-four hours.
+story: The hall hosts the Tōshiya, an archery contest held since 1606 in which competitors
+  fire arrows the full 120-metre length of the rear veranda. The all-time record,
+  set in 1686, was 8,133 hits out of 13,053 shots — fired one after another, over
+  twenty-four hours.
 tags:
 - things_to_do
 - temple
 - sight
+- higashiyama
 title: Sanjūsangen-dō
 type: poi
 ---

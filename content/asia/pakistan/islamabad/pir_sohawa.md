@@ -6,6 +6,7 @@ longitude: 73.0667
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Pir Sohawa road climbs from Daman-e-Koh to the crest of the Margalla Hills, where it ends in a cluster of restaurants and tea houses at around 1,170 metres. The Monal Restaurant, perched on the cliff edge, is the most famous — locals come at sunset to watch the lights of Islamabad come on across the plain below.

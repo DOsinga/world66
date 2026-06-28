@@ -7,6 +7,7 @@ tags:
 latitude: -17.7842
 longitude: -63.1817
 snippet: Small religious art museum inside the cathedral
+score: 6.6
 ---
 
 Tucked into a corner of the cathedral, the Museo de Arte Sacro holds a compact but serious collection of religious silverwork, oil paintings, and vestments from the Jesuit Missions of Chiquitos. The Mission churches east of Santa Cruz were stripped of much of their treasure during the colonial-era expulsion of the Jesuits, and what survives now spends time here.

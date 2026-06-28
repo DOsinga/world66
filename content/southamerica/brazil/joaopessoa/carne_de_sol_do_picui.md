@@ -6,6 +6,7 @@ longitude: -34.8358
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 One of João Pessoa's best-known traditional restaurants, specialising in the northeast classic: carne de sol (salt-cured beef) cooked over charcoal and served with manteiga de garrafa, feijão verde, and macaxeira. The portions are generous and the quality is consistent. It draws a mix of locals and visitors and gets busy at lunch on weekends.

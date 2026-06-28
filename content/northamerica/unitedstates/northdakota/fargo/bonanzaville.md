@@ -9,6 +9,7 @@ latitude: 46.8760
 longitude: -96.9020
 story: >
   Bonanzaville takes its name from the "bonanza farms" — vast industrial wheat operations that spread across the Red River Valley in the 1870s and 1880s, some of them larger than 60,000 acres. These farms were so productive that North Dakota grain exports reshaped wheat prices on world markets. The outdoor museum preserves physical fragments of that vanished agricultural world.
+score: 7.3
 ---
 
 Bonanzaville USA in neighboring West Fargo is a sprawling outdoor village museum with more than 40 original 19th-century buildings moved from across the northern plains and reassembled on a single site. A one-room schoolhouse, a general store, a train depot, an old hotel, a church, a grain elevator, and several farmsteads give a clear picture of what settlement life on the Dakota prairie actually looked like.

@@ -15,6 +15,7 @@ story: >
   excavation began in the 1980s.
 sources:
   - https://en.wikipedia.org/wiki/Napoli_Sotterranea
+score: 8.6
 ---
 
 A labyrinth of Greek and Roman-era tunnels running beneath the streets of the Centro Storico, accessible through an entrance on Piazza San Gaetano. The tunnels were originally quarried for tufa — the soft volcanic stone used to build the city above — and later converted into cisterns for the Roman aqueduct. The network extends for about 80 km beneath the old city.

@@ -7,6 +7,7 @@ tags:
 snippet: "The lock complex whose deliberate opening flooded the German advance in 1914"
 latitude: 51.1349
 longitude: 2.7558
+score: 8.2
 ---
 
 The Ganzepoot — Flemish for "goose's foot" — is the fan of six canals and a river that all meet the sea at Nieuwpoort, controlled by a complex of sluices and locks. Standing on the bridge above them is an oddly moving experience once you know what happened here. On 28 October 1914 the gates were opened on a high spring tide and seawater flooded a strip of polder land roughly 35 kilometres long and a couple of kilometres wide, halting the German army's advance toward the Channel ports.

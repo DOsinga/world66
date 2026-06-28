@@ -1,15 +1,17 @@
 ---
 latitude: 13.7942
+loc_type: country
 longitude: -88.8965
+quick_facts:
+  Currency: US dollar (adopted 2001)
+  Population: 6.3 million
+  Smallest Central American Country: 21,041 km²
+  Volcanoes: 23, including several active ones
+score: 0.53
+snippet: Compact Central American country of coffee highlands, Pacific surf, volcanoes,
+  and a turbulent civil-war memory.
 title: El Salvador
 type: location
-quick_facts:
-  Population: "6.3 million"
-  Currency: US dollar (adopted 2001)
-  Smallest Central American Country: "21,041 km²"
-  Volcanoes: "23, including several active ones"
-score: 0.36
-loc_type: country
 ---
 
 Once known as the coffee republic, El Salvador is the smallest country of Central America, yet it is the most populous. In the 1980's it was ravaged by a bloody civil war between the American CIA installed right wing military dictators and the socialist left peasant guerillas, which tore the whole country apart in civil strife. Since then, it has made considerable progress and it is a quite stable country now. 

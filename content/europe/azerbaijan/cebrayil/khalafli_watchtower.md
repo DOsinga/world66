@@ -13,6 +13,7 @@ story: >
   The Khalafli tower's survival — while most of the surrounding village was
   destroyed — may be due to the thickness of its walls, which made it less
   worth the effort to demolish.
+score: 6.0
 ---
 
 In the village of Khalafli, a medieval watchtower survives from the pre-war era, standing over the surrounding countryside with panoramic views over the Jabrayil district and toward the Araz valley. The tower dates from the early medieval period and was part of the defensive network that dotted these foothills in the centuries when the region was contested between successive empires.

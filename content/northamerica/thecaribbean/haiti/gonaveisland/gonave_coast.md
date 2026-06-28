@@ -7,6 +7,7 @@ tags:
   - nature
 title: Gonâve Coast and Reefs
 type: poi
+score: 7.6
 ---
 
 The coastline of Gonâve Island offers some of Haiti's most undisturbed marine environment, primarily because so few people visit. The reefs around the island's western and southern shores have seen minimal diving pressure and retain good coral cover in places — a stark contrast to overfished and damaged reefs closer to Port-au-Prince.

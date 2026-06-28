@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 14.0786
 longitude: -3.5187
+score: 7.8
 ---
 
 Bankas holds a weekly market every Monday that draws traders and farmers from surrounding villages across a wide radius. It is the social and economic hub of this part of the escarpment, and for travellers it offers a vivid window into daily Dogon life that no amount of guided village tours can replicate.

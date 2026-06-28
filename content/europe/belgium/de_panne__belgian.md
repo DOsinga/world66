@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:De_Panne_Dunes_et_plage.jp
 latitude: 51.0986
 loc_type: city
 longitude: 2.5897
-score: 0.47
+score: 7.11
 title: De Panne
+snippet: Belgian coast resort on the French border, set apart by wide beaches and
+  protected dunes.
 type: location
 ---
 

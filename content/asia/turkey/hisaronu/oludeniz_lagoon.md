@@ -13,6 +13,7 @@ story: >
   the worst summer storms. It is one of the few protected blue lagoons in the
   Mediterranean and was declared a Natural Park in 1986, which is what
   prevented it being lined with hotels.
+score: 8.0
 ---
 
 The Blue Lagoon of Oludeniz, eight kilometres downhill from Hisaronu, is the headline image of the southern Turkish coast and the reason most travellers come to the area at all. A narrow sand spit closes off a sheltered inner pool of impossibly turquoise water against the open sea, with a long pebbled beach stretching east beneath the wall of Babadag mountain. Entry to the lagoon itself carries a small park fee; the public beach to either side is free.

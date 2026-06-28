@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7610
 longitude: 22.5670
+score: 8.1
 ---
 
 The waterfront is what most people remember about Gythio. A long curving quay of pastel neoclassical mansions in pinks, ochres and pale blues — much of it built in the 19th century when the town was the main commercial port of Sparta — lined on one side by fish tavernas and on the other by working caïques pulled up on the stone steps.

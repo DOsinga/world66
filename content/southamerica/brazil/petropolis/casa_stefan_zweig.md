@@ -10,6 +10,7 @@ story: >
   fleeing Nazi-occupied Europe. On 22 February 1942, he and his wife Charlotte took their
   own lives in this house. His suicide note expressed despair at the destruction of the
   European civilisation he had spent his life celebrating.
+score: 8.3
 ---
 
 Stefan Zweig, the Austrian novelist and biographer, chose Petrópolis as his place of exile after fleeing Europe in 1941. He called Brazil a "Land of the Future" and found in Petrópolis a gentle, cultivated city that reminded him of home. The small house on Rua Gonçalves Dias where he spent his final months is now preserved as a museum.

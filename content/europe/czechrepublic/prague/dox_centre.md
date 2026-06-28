@@ -4,11 +4,12 @@ admission: 180 CZK
 latitude: 50.1016
 longitude: 14.4434
 opening_hours: Mon, Wed–Fri 11:00–19:00; Thu 11:00–21:00; Sat–Sun 10:00–20:00
+score: 8.0
 snippet: Prague's leading independent contemporary art centre
 tags:
 - things_to_do
 - museum
-- holešovice
+- holesovice
 title: DOX Centre for Contemporary Art
 type: poi
 url: dox.cz

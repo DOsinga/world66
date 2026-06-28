@@ -8,6 +8,7 @@ tags:
 - nature
 title: Jardin Botanico Jose Celestino Mutis
 type: poi
+score: 7.0
 ---
 
 Bogota's botanical garden is home to over 5,000 orchid species and a peaceful escape from the city noise. The tropical greenhouse and the Andean forest section are highlights. A good half-day outing, especially if combined with the nearby Simon Bolivar park.

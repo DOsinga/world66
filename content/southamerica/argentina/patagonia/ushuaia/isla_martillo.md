@@ -9,6 +9,7 @@ latitude: -54.9033
 longitude: -67.1667
 story: >
   Magellanic penguins recognise individual calls of their mates from a distance. The noise at Isla Martillo during breeding season — a braying, honking chorus — is produced by thousands of pairs calling to each other simultaneously. The sound is unlike anything else in Patagonia.
+score: 8.7
 ---
 
 Isla Martillo, a small island in the Beagle Channel near Estancia Harberton, hosts one of the few Magellanic penguin colonies accessible from Ushuaia. A smaller and growing number of Gentoo penguins has also established itself here in recent years. Visits are run exclusively by the Harberton estancia, which holds the concession, and landing is permitted only for small groups accompanied by a naturalist guide.

@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Saraya_al-Hamra_Fortres
 latitude: 32.896672
 loc_type: city
 longitude: 13.177792
-score: 0.27
+score: 5.16
+snippet: Mediterranean Libyan capital where an old medina and Roman arch survive beside
+  oil-era concrete sprawl.
 title: Tripoli
 type: location
 ---

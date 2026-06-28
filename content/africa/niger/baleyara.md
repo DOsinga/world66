@@ -5,7 +5,9 @@ done:
 latitude: 13.7841
 loc_type: city
 longitude: 2.9515
-score: 0.21
+score: 2.4
+snippet: Western Niger market town where Djerma, Hausa, and Bella Tuareg communities
+  meet on a busy crossroads
 title: Baleyara
 type: location
 ---

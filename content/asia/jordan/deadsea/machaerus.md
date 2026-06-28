@@ -9,6 +9,7 @@ tags:
   - history
 snippet: The clifftop Herodian fortress where John the Baptist was imprisoned and beheaded
 story: "Herod Antipas held John the Baptist prisoner here after John publicly condemned his marriage to Herodias, his brother's wife. According to the Gospels of Matthew and Mark, Herod's stepdaughter Salome danced at his birthday feast and asked for John's head on a plate as her reward. The fortress where this happened sits on a hilltop above the Dead Sea, still visible but largely unexcavated — less famous than Masada but no less dramatic."
+score: 7.7
 ---
 
 Machaerus (also called Qala'at Mukawir) is a ruined hilltop fortress about 25 km south of the Dead Sea resort strip, at 700 metres above sea level with the Dead Sea visible far below. Built originally by the Hasmonean dynasty and rebuilt by Herod the Great, it served as a royal palace and military stronghold on the eastern frontier of the kingdom.

@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Surfing and Watersports Club
 type: poi
+score: 5.4
 ---
 
 The Banff surf and watersports club operates from Links beach on the western side of town, offering equipment hire, wetsuit rental, and lessons for all ages and experience levels. The Moray Firth coastline here picks up consistent North Sea swells, and the beach break at the Links works on most tides.

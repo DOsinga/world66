@@ -8,8 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:2022-10-04_03_Tugboat,_TIGRE_-_IMO_9121479,_in_Manta,_Ecuador.jpg
 latitude: -0.95
 loc_type: city
+snippet: Ecuadorian Pacific port city with Manabí beaches, Manta civilisation artefacts,
+  and a working harbour
 longitude: -80.7162
-score: 0.5
+score: 7.29
 title: Manta
 type: location
 ---

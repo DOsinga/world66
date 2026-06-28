@@ -9,7 +9,9 @@ image_attribution: Zemzina on Flickr
 latitude: 60.4673
 loc_type: city
 longitude: 26.9459
-score: 0.44
+score: 6.94
+snippet: Gulf of Finland port town shaped by shipping, Kymijoki rapids, and the imperial
+  fishing lodge.
 title: Kotka
 type: location
 ---

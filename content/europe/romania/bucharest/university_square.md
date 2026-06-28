@@ -1,14 +1,19 @@
 ---
 address: Piața Universității, Bucharest
 latitude: 44.4356
-loc_type: feature
 longitude: 26.1023
+score: 7.1
 snippet: Major central square ringed by the university, theatre, and four statues
+story: After the December 1989 revolution, University Square became Romania's Tiananmen
+  — a 53-day occupation of students and intellectuals protesting the new post-Communist
+  government. On 13-15 June 1990 the regime sent in miners armed with clubs who beat
+  the protesters off the square. The black cross paving stones in the centre mark
+  those killed.
 tags:
 - things_to_do
 - sight
 title: University Square
-story: "After the December 1989 revolution, University Square became Romania's Tiananmen — a 53-day occupation of students and intellectuals protesting the new post-Communist government. On 13-15 June 1990 the regime sent in miners armed with clubs who beat the protesters off the square. The black cross paving stones in the centre mark those killed."
+type: poi
 ---
 
 The civic centre of Bucharest, anchored by the University of Bucharest's neoclassical main building, the National Theatre, the Sutu Palace (now the Bucharest City Museum), and the InterContinental Hotel. Four statues of Romanian historical figures — Mihai Viteazul, Spiru Haret, Gheorghe Lazăr, and Ion Heliade-Rădulescu — stand in a row.

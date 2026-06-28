@@ -8,6 +8,7 @@ latitude: 11.607194
 longitude: 125.432611
 sources:
   - https://en.wikipedia.org/wiki/Borongan_Cathedral
+score: 6.6
 ---
 
 The Cathedral Parish of the Nativity of Our Lady — known as Borongan Cathedral — is the mother church of the Diocese of Borongan and the oldest significant building in the city. The cathedral sits on the central plaza, as is traditional in Philippine towns founded during the Spanish colonial period, and its stone facade is one of the few structures that gives Borongan a sense of historical depth.

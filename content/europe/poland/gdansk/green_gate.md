@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Green Gate (Zielona Brama)
 type: poi
+score: 7.1
 ---
 
 The eastern end of the Royal Way, where Dluga Street and the Long Market open onto the Motlawa River, is marked by the Green Gate. Built in 1564 as a residence for Polish kings visiting the city — though they rarely stayed here — it is a four-arched Renaissance gateway wide enough to serve as a covered passage between the Long Market and the waterfront. The scale is bigger than it looks from a distance.

@@ -16,6 +16,7 @@ story: >
   owners and environmental groups. The project stalled, but the threat revealed
   how fragile the park's protections were — and how little the remote mountain
   villages could rely on Tirana to look after them.
+score: 8.8
 ---
 
 Valbona Valley National Park was established in 1996 and covers about 8,000 hectares of the Albanian Alps. The park's core is the Valbona River valley, a glacially formed trough whose sheer limestone walls and beech forests give it the character of an Albanian Yosemite. Above the treeline, bare karst ridges and permanent snowfields stretch toward the highest peaks in the Dinaric chain.

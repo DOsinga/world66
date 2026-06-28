@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Hang Li Poh's Well
 type: poi
+score: 6.4
 ---
 
 This well at the foot of Bukit China dates back to 1459, when it was built for the Chinese princess Hang Li Poh and her entourage after her marriage to Sultan Mansur Shah. It was the primary water source for Melaka's Chinese community for centuries and was considered so strategically important that the Portuguese, Dutch, and Japanese all fought to control it during their respective occupations.

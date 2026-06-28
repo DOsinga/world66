@@ -10,6 +10,7 @@ tags:
 - hiking
 title: Mount Batur
 type: poi
+score: 9.0
 ---
 
 Mount Batur is an active stratovolcano rising from the floor of the Batur caldera, reaching 1,717 metres at its highest point. The standard climb departs at around 3am to reach the summit for sunrise, which — from the right position — shows the shadow of the volcano projected across the caldera lake as the sun comes up behind Lombok's Rinjani. The hike takes roughly two hours at a moderate pace, following a well-worn path up volcanic scree and lava fields.

@@ -17,6 +17,7 @@ tags:
 - walking
 title: Le Mura
 type: poi
+score: 8.8
 ---
 
 The massive Venetian walls encircling Città Alta were built starting in 1561 and took decades to complete. The main gate, Porta Sant'Agostino (1575), is the grand entrance at the top of Viale Vittorio Emanuele.

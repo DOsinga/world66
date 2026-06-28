@@ -6,6 +6,7 @@ tags:
   - hiking
 latitude: 24.3464
 longitude: 123.8391
+score: 7.8
 ---
 
 The most demanding hike on the island: a two-day traverse from the Urauchi River across the central mountains to Funauki on the west coast. The trail is rough, often muddy, and crosses several streams. There are no shelters and no facilities — most hikers carry a tent, although day-long shortcuts are possible.

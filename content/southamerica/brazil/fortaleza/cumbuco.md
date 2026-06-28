@@ -9,6 +9,7 @@ tags:
 latitude: -3.6167
 longitude: -38.7167
 snippet: The kitesurfing capital of Brazil, 40 km from Fortaleza, with high dunes and lagoons
+score: 7.1
 ---
 
 Cumbuco, about 40 km west of Fortaleza, is one of the best kitesurfing destinations in South America. The trade winds blow steadily from the northeast between June and February, producing perfect conditions for kite and windsurf; the broad, flat beach and shallow offshore waters make it accessible to beginners as well as experts. Several schools offer courses, and equipment rental is available all along the beach.

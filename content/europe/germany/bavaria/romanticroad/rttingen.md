@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fr%C3%A4nkisches_Fachwerk_
 latitude: 49.509684
 loc_type: city
 longitude: 9.968819
-score: 0.52
+score: 7.66
+snippet: Small Tauber valley wine town with intact medieval walls at the start of
+  the Romantic Road
 title: Röttingen
 type: location
 ---

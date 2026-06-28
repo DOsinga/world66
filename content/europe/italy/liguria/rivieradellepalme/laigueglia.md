@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Laigueglia,_veduta_dal_mol
 latitude: 43.978826
 loc_type: city
 longitude: 8.157351
-score: 0.58
+score: 8.27
+snippet: Small Riviera delle Palme seaside village preserving narrow streets, old
+  houses, and Ligurian baroque San Matteo.
 title: Laigueglia
 type: location
 ---

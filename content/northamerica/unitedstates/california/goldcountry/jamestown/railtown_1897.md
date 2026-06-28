@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Railtown's roundhouse and steam locomotives have appeared in more than 200 films and TV shows since the 1920s, including High Noon, Petticoat Junction and Back to the Future Part III — locals call it 'the movie railroad' and you can sometimes spot a director's tape mark still on the platform."
+score: 9.0
 ---
 
 This is the reason most people stop in Jamestown. Railtown 1897 preserves the original Sierra Railway shops and roundhouse, built when this stretch of the Mother Lode was still a working gold and timber economy. Six locomotives are kept in operating condition, including Sierra No. 3, the most filmed steam engine in the world. The roundhouse tour walks you through the blacksmith shop, the belt-driven machine tools, and the engine pits — all original, all still functional.

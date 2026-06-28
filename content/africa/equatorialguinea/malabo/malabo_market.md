@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.2
 ---
 
 The central market in Malabo is the best place to observe the texture of everyday life in the capital. Stalls sell fresh produce from the mainland — plantains, cassava, cocoyams, fresh fish — alongside imported goods that reflect the city's oil-boom purchasing power. The market is busiest in the early morning and draws a mix of Bioko islanders, mainland Fang traders, Nigerian and Cameroonian migrant workers, and the occasional oil-industry expatriate.

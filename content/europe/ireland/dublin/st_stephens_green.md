@@ -1,11 +1,14 @@
 ---
 latitude: 53.338052
 longitude: -6.259023
+score: 6.7
 snippet: Central city park where Dubliners have lunched and lingered for three centuries
 tags:
+- georgian_dublin
 - things_to_do
 - sight
 - park
+- st_stephens_green_area
 title: St Stephen's Green
 type: poi
 ---

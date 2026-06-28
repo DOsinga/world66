@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/53166301@N08/26463980884
 latitude: 40.558729
 loc_type: city
 longitude: 8.315321
-score: 0.68
+score: 9.05
+snippet: Walled Sardinian port with Catalan Gothic streets, sea-facing bastions, and
+  Algherese language heritage
 title: Alghero
 type: location
 ---

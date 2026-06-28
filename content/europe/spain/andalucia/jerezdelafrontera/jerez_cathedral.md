@@ -9,6 +9,7 @@ latitude: 36.6820
 longitude: -6.1411
 sources:
   - https://en.wikipedia.org/wiki/Jerez_de_la_Frontera_Cathedral
+score: 7.3
 ---
 
 The Cathedral of the Holy Saviour began as a collegiate church in the thirteenth century on the site of a former mosque and was not elevated to cathedral status until 1980, though it had been used as the principal church of Jerez for centuries before that. The building visible today is largely seventeenth and eighteenth century, a mixture of Gothic, Renaissance, and Baroque that gives it a slightly composite character — the tower is Baroque, the nave is Gothic, and the facade is almost Churrigueresque in its exuberance.

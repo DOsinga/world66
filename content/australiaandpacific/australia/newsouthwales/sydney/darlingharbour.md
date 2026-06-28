@@ -1,7 +1,12 @@
 ---
 latitude: -33.867552
 longitude: 151.199562
-snippet: "Waterfront entertainment district with museums and harbour walks"
+score: 7.1
+snippet: Waterfront entertainment district with museums and harbour walks
+tags:
+- things_to_do
+- sight
+- waterfront
 title: Darling Harbour
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kunduchi Beach
 type: poi
+score: 5.8
 ---
 
 Kunduchi stretches for several kilometres along the coast north of the city, a wide arc of white sand backed by coconut palms and a string of low-rise hotels. It is the closest place to Dar to feel as though you have left the city behind. The water is shallow and very warm; at low tide the reef shelf extends a long way out and is mostly easy walking, with sea urchins to watch out for.

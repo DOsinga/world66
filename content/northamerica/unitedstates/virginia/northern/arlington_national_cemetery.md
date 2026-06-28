@@ -13,6 +13,7 @@ story: >
   ordered soldiers buried close to the mansion house specifically to make the
   property uninhabitable for Lee after the war — a piece of calculated spite
   that succeeded completely.
+score: 8.7
 ---
 
 Arlington National Cemetery is the resting place of more than 400,000 American military veterans, spread across 253 hectares on the Virginia side of the Potomac. It is an active cemetery — funerals take place every weekday — and the scale and solemnity are difficult to prepare for.

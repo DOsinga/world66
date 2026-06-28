@@ -1,199 +1,199 @@
 {
   "round": 1799,
-  "timestamp": "2026-04-13T10:52:24",
+  "timestamp": "2026-06-13T20:53:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Do\u00f1ana National Park",
-      "path": "europe/spain/andalucia/doana_national_p",
-      "prior_score": 3.218,
-      "prior_variance": 0.332111,
-      "prior_n": 4
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/south_island/otago/queenstown",
+      "prior_score": 13.1998,
+      "prior_variance": 0.547412,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Porvoo",
-      "path": "europe/finland/porvoo",
-      "prior_score": 3.6525,
-      "prior_variance": 0.331845,
-      "prior_n": 4
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 12.9817,
+      "prior_variance": 0.659803,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Grand Gaube",
-      "path": "africa/mauritius/grand_gaube__nort",
-      "prior_score": 3.3218,
-      "prior_variance": 0.308387,
-      "prior_n": 4
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 10.7013,
+      "prior_variance": 0.404499,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Vara Valley",
-      "path": "europe/italy/liguria/varavalley",
-      "prior_score": 1.5713,
-      "prior_variance": 0.300542,
-      "prior_n": 5
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 7.2055,
+      "prior_variance": 0.336057,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Gij\u00f3n",
-      "path": "europe/spain/northernspain/gijon",
-      "prior_score": 2.2629,
-      "prior_variance": 0.313062,
-      "prior_n": 4
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 6.1398,
+      "prior_variance": 0.350268,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Biel-Bienne",
-      "path": "europe/switzerland/bielbienne",
-      "prior_score": 0.0417,
-      "prior_variance": 0.307827,
-      "prior_n": 4
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 8.1752,
+      "prior_variance": 0.362714,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Mesnil-Val",
-      "path": "europe/france/normandybrittany/mesnilval",
-      "prior_score": -0.7977,
-      "prior_variance": 0.354142,
-      "prior_n": 4
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 6.5532,
+      "prior_variance": 0.317477,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Skopje",
-      "path": "europe/macedonia/skopje",
-      "prior_score": 1.7014,
-      "prior_variance": 0.291557,
-      "prior_n": 4
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 6.2904,
+      "prior_variance": 0.279433,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Tsaghkadzor Ski Resort",
-      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
-      "prior_score": 0.0721,
-      "prior_variance": 0.360752,
-      "prior_n": 4
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 4.1808,
+      "prior_variance": 0.286739,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Bellingham",
-      "path": "northamerica/unitedstates/washington/bellingham",
-      "prior_score": 0.2329,
-      "prior_variance": 0.364371,
-      "prior_n": 4
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 4.2418,
+      "prior_variance": 0.258223,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "The Coast",
-      "path": "africa/kenya/thecoast",
-      "prior_score": 0.5504,
-      "prior_variance": 0.361848,
-      "prior_n": 5
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.7451,
+      "prior_variance": 0.33221,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Rawalakot",
-      "path": "asia/pakistan/azad_kashmir/rawala_kot",
-      "prior_score": -2.2499,
-      "prior_variance": 0.303195,
-      "prior_n": 5
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 4.2343,
+      "prior_variance": 0.3228,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Tehuacan",
-      "path": "northamerica/mexico/tehuacan",
-      "prior_score": -2.4615,
-      "prior_variance": 0.394089,
-      "prior_n": 4
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.6349,
+      "prior_variance": 0.224075,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Comodoro Rivadavia",
-      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
-      "prior_score": -2.7077,
-      "prior_variance": 0.304213,
-      "prior_n": 5
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 4.9642,
+      "prior_variance": 0.276477,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Corum",
-      "path": "asia/turkey/corum",
-      "prior_score": -2.8424,
-      "prior_variance": 0.305961,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_score": 6.3382,
+      "prior_variance": 0.334123,
       "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Maitland",
-      "path": "northamerica/unitedstates/florida/maitland",
-      "prior_score": -3.9223,
-      "prior_variance": 0.324382,
-      "prior_n": 4
-    },
-    {
-      "rank": 17,
-      "title": "Sogod",
-      "path": "asia/philippines/southern_leyte/sogod",
-      "prior_score": -4.1546,
-      "prior_variance": 0.310745,
-      "prior_n": 4
-    },
-    {
-      "rank": 18,
-      "title": "Bolgatanga",
-      "path": "africa/ghana/bolgatanga",
-      "prior_score": -4.631,
-      "prior_variance": 0.30747,
-      "prior_n": 4
-    },
-    {
-      "rank": 19,
-      "title": "Maribor",
-      "path": "europe/slovenia/maribor",
-      "prior_score": 2.1102,
-      "prior_variance": 0.261701,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 4.0002,
+      "prior_variance": 0.298926,
       "prior_n": 5
     },
     {
+      "rank": 17,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 4.3907,
+      "prior_variance": 0.357475,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 5.2721,
+      "prior_variance": 0.27887,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_score": 4.9701,
+      "prior_variance": 0.290476,
+      "prior_n": 6
+    },
+    {
       "rank": 20,
-      "title": "Touba",
-      "path": "africa/senegal/touba",
-      "prior_score": -4.2419,
-      "prior_variance": 0.478407,
-      "prior_n": 4
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 5.0256,
+      "prior_variance": 0.433484,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Chirala",
-      "path": "asia/india/andhrapradesh/chirala",
-      "prior_score": -6.2524,
-      "prior_variance": 0.436068,
-      "prior_n": 4
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 5.9865,
+      "prior_variance": 0.360531,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Pudukkottai",
-      "path": "asia/india/tamilnadu/pudukkottai",
-      "prior_score": -4.092,
-      "prior_variance": 0.303048,
-      "prior_n": 4
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 0.8268,
+      "prior_variance": 0.435725,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Modesto",
-      "path": "northamerica/unitedstates/california/centralvalley/modesto",
-      "prior_score": -5.7103,
-      "prior_variance": 0.370532,
-      "prior_n": 4
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.8747,
+      "prior_variance": 0.255967,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Rensselaer",
-      "path": "northamerica/unitedstates/indiana/rensselaer",
-      "prior_score": -5.1257,
-      "prior_variance": 0.24122,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -4.1219,
+      "prior_variance": 0.267193,
       "prior_n": 6
     }
   ]

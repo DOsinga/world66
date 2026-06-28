@@ -9,6 +9,7 @@ latitude: 31.7650
 longitude: 119.9580
 story: >
   Canal 5 occupies a former textile mill complex on the Grand Canal — a reminder that Changzhou was one of the Yangtze Delta's major industrial cities in the Republican era, with cotton mills and silk-weaving factories that exported to Shanghai markets. The conversion of industrial buildings into creative spaces has followed a pattern common across Chinese cities, but the canal setting here is particularly good.
+score: 7.3
 ---
 
 Canal 5 is a converted textile mill complex on the Grand Canal that has become Changzhou's most agreeable creative district — galleries, studios, a weekend market, and a cluster of cafes and independent shops occupying old brick buildings that retain their industrial bones. The setting on the canal makes the complex more attractive than most comparable developments in China: the waterfront walkway, the old warehouse facades, and the working-canal atmosphere give it a texture that purpose-built creative zones lack.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 41.3760
 longitude: -73.4550
+score: 6.4
 ---
 
 Hearthstone Castle is a genuine surprise: a full-scale castle in the medieval style, built in 1900 as a summer home and now sitting deep in the woods of Tarrywile Park. The structure features round towers, battlements, and solid stone construction that makes it look transplanted from the English countryside. It was built by a wealthy businessman who wanted something impressive; it ended up being abandoned and donated to the city, which has struggled to fund its restoration.

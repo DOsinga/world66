@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Café Caballero
 type: poi
+score: 5.3
 ---
 
 A traditional cafe with marble tables and dark wood that has been the local meeting place for several generations. The terrace under the plane trees of Plaza de Cervantes fills with retirees in the morning and a younger crowd at sundown. Coffee, vermouth from the barrel, simple tapas and a long list of pastries.

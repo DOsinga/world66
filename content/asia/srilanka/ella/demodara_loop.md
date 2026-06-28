@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: Engineering curiosity where the railway crosses over itself
 story: When the British engineers reached Demodara in 1921 they ran out of space to descend the steep slope at a workable gradient. Their solution was a spiral loop in which the line crosses over itself by passing through a tunnel directly beneath its own track — the only railway loop of this kind in Sri Lanka.
+score: 6.3
 ---
 
 A few stations up the line from Ella, the railway performs one of the more inventive feats of colonial engineering in South Asia. The track spirals around a hill and dives into a tunnel that emerges directly beneath its own embankment, allowing the line to lose about thirty metres of altitude in the space of a sharp bend. You can watch from a viewing point near Demodara station.

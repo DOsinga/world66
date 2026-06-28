@@ -7,6 +7,7 @@ tags:
 snippet: "Thundering waterfalls in black volcanic rock"
 latitude: -41.16660
 longitude: -72.41060
+score: 9.1
 ---
 
 The Saltos del Petrohué are a series of short, wide, immensely powerful chutes where the Río Petrohué — fed by Lago Todos los Santos — tears through narrow channels in black, glassy volcanic rock from a recent Osorno eruption. The contrast between the milky turquoise water and the black stone is the photographic draw.

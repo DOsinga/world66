@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Reggio_Calabria_-_Lungomar
 latitude: 38.1105
 loc_type: city
 longitude: 15.6467
+score: 7.69
+snippet: Southern Italian city facing Sicily, with Greek roots and the Riace Bronzes
+  at its archaeological museum
 sources:
 - https://en.wikipedia.org/wiki/Reggio_Calabria
 - https://en.wikivoyage.org/wiki/Reggio_Calabria

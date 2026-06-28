@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 22.285
 longitude: 114.1491
+score: 8.3
 snippet: Hong Kong's oldest temple, thick with incense smoke
 tags:
 - hongkongisland
+- sheung_wan
 - things_to_do
 - landmark
 title: Man Mo Temple

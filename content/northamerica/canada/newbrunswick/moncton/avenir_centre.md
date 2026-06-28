@@ -8,6 +8,7 @@ tags:
 title: Avenir Centre
 type: poi
 snippet: Downtown arena and the city's main venue for concerts and pro hockey
+score: 5.4
 ---
 
 The Avenir Centre is the city's main indoor arena, opened in 2018 and replacing the much older Moncton Coliseum out by Magnetic Hill. It seats around 8,800 for concerts and 7,500 for hockey, and is home to the Moncton Wildcats of the Quebec Maritimes Junior Hockey League — the best ticket in town if you happen to be visiting in season.

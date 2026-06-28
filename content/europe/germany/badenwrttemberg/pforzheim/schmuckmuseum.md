@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum's collection includes the personal jewellery of the actress Liz Kingsley and the dancer Anna Pavlova, but also a 2,000-year-old Etruscan granulation necklace whose technique was lost for over a millennium and only rediscovered in Pforzheim's own workshops in the 19th century."
+score: 9.1
 ---
 
 The Schmuckmuseum in the Reuchlinhaus is the most important jewellery museum in Europe and the reason most travellers stop in Pforzheim. The collection spans 5,000 years — Egyptian gold, Greek and Etruscan work, Renaissance brooches, art nouveau, Bauhaus, and a strong contemporary section.

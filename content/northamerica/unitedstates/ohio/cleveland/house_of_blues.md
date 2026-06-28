@@ -10,6 +10,7 @@ tags:
 title: House of Blues
 type: poi
 url: www.hob.com
+score: 6.4
 ---
 
 Cleveland's House of Blues sits at the heart of the East 4th Street entertainment district, in a converted furniture store building that gives it more character than most chain venues. The room is intimate enough that most shows feel close-up. A mix of up-and-coming acts and established touring artists, plus a restaurant and bar on-site. Worth checking what's on when you're in town.

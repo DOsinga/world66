@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.6010
 longitude: 16.5468
+score: 6.6
 ---
 
 The Svartån (the Black River) flows through the middle of Västerås before emptying into Lake Mälaren, and the riverside path makes for a pleasant walk through the city. The stretch from the castle down to the lake passes old mill buildings, gardens, and the backs of historic houses — a different perspective on the city than the main streets give.

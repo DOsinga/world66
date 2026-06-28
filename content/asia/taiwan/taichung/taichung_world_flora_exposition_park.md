@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.3055
 longitude: 120.7180
+score: 6.8
 ---
 
 The Houli Horse Ranch (Houli Mailiao) is a former cavalry training ground from the Japanese colonial period, now a public horse ranch and park on the northern edge of Taichung. Trail rides, pony rides for children, and a small museum on the cavalry history.

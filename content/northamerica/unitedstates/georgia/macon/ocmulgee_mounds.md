@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Ocmulgee_Mounds_National_Historical_Park
   - https://www.nps.gov/ocmu/
+score: 9.0
 ---
 
 Ocmulgee Mounds preserves one of the most significant Mississippian culture sites in the eastern United States, on a bluff overlooking the Ocmulgee River just east of downtown Macon. The site records 12,000 years of continuous human habitation — from Paleo-Indian hunters to the Creek Nation people who were displaced from here in the early 19th century — but the main structures visible today date from roughly AD 900 to 1200.

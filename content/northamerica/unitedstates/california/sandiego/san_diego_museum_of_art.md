@@ -8,6 +8,7 @@ tags:
 latitude: 32.7312
 longitude: -117.1497
 snippet: The largest art museum in San Diego, in a Spanish Renaissance building at the heart of Balboa Park
+score: 7.8
 ---
 
 The San Diego Museum of Art occupies the central building at the heart of Balboa Park's museum row — a 1926 Spanish Renaissance structure whose elaborate Plateresque facade is itself worth the walk over. The collection is encyclopaedic in ambition: European old masters, South Asian art, American art from the colonial period through the twentieth century, and a particularly strong collection of Spanish paintings.

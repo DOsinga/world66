@@ -8,6 +8,7 @@ tags:
 - museum
 snippet: "Eccentric millionaire's globe-trotting curio collection inside Rancho San Rafael Park"
 story: "Wilbur May was a department-store heir who used his money to circle the world more than forty times. The objects he brought back range from a Tang dynasty horse to a genuine shrunken head from Ecuador, and he donated them all to Reno with the only condition that they be displayed together exactly as he had collected them."
+score: 7.7
 ---
 
 The Wilbur D. May Museum, in Rancho San Rafael Regional Park north of downtown, is a small but consistently entertaining showcase of one man's globetrotting collecting habit. May, a department-store heir who spent decades on the road, brought back a Tang dynasty horse, a Chinese sedan chair, a complete African safari trophy room, a Buddhist altar, a Ming jade collection, and — yes — a genuine ceremonial shrunken head.

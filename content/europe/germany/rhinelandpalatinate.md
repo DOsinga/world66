@@ -1,9 +1,11 @@
 ---
+latitude: 49.9129
+loc_type: region
+longitude: 7.45
+snippet: German state of Rhine gorges, castle hills, Roman ruins, cathedrals, and
+  celebrated wine landscapes.
 title: Rhineland-Palatinate
 type: location
-loc_type: region
-latitude: 49.9129
-longitude: 7.4500
 ---
 
 Rhineland-Palatinate is the state where the Rhine bends dramatically through deep gorges, castle-topped hills, and vine-covered slopes. It is one of the most scenic regions in Germany and one of the least appreciated by visitors who pass through on the way to somewhere else. Slow down and you will find Roman ruins, Romanesque cathedrals, and some of the most famous wine-producing landscapes in Europe.

@@ -1,11 +1,13 @@
 ---
 latitude: 3.1446
 longitude: 101.695532
-snippet: "Restored 1930s art deco market hall selling Malaysian crafts and batik"
+score: 7.8
+snippet: Restored 1930s art deco market hall in Chinatown selling Malaysian crafts,
+  batik, and traditional souvenirs
 tags:
 - shopping
-- chinatown
 - market
+- chinatown
 title: Central Market
 type: poi
 ---

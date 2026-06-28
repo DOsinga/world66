@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:TunisAveHabibBourguiba.jpg
 latitude: 36.8065
 loc_type: city
 longitude: 10.1815
-score: 0.58
+score: 8.22
+snippet: Layered Tunisian capital where a UNESCO medina meets French-built boulevards
+  and nearby Carthage ruins
 title: Tunis
 type: location
 ---

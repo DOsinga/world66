@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6050
 longitude: -9.0744
+score: 6.9
 ---
 
 The Nazaré Funicular connects the lower town (Praia) with the upper town (Sítio), climbing 110 metres up the cliff face in about three minutes. It has been running since 1889, making it one of the oldest funiculars in Portugal. The ride is short but the views from the open cars over the beach and out to sea are excellent.

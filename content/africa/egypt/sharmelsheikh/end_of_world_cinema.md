@@ -8,6 +8,7 @@ tags:
   - sight
 story: "The project was the work of a French entrepreneur in the 1990s who imagined a luxury experience for European film stars: outdoor cinema on a desert plain, with helicopter transfers and a generator big enough to power the screen. The opening was a fiasco — the generator never worked — and the project was abandoned at once. The chairs and screen have stood untouched since."
 snippet: An abandoned open-air cinema in the Sinai desert, rows of seats facing a screen that never showed a film.
+score: 5.4
 ---
 
 The End of the World Cinema is exactly that: a sandy plain in the middle of nowhere, with several hundred theatre seats arranged in rows facing a large white screen. The screen still stands. The seats are bolted down, slowly weathering. Nothing has ever been shown here. The whole installation sits about 30 km north of the town of Nuweiba and has become an unlikely fixture on the off-road Sinai tourism circuit.

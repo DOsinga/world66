@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 62.5720
 longitude: 11.3845
+score: 7.2
 ---
 
 The Røros Museum manages several historic sites across the municipality, with the main exhibition in the old smelting works building. Beyond the industrial history, the museum covers the culture of the Sami people who have lived on the Røros plateau for centuries alongside the mining community — the relationship between the copper company and the indigenous reindeer herders who supplied the mine with transport and food is a significant part of the local history.

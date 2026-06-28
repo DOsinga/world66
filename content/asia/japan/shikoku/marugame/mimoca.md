@@ -5,6 +5,7 @@ tags: [things_to_do, museum, art]
 latitude: 34.2889
 longitude: 133.7963
 story: "MIMOCA was designed by Tange Kenzo, who also designed the Tokyo Metropolitan Government Building and the Hiroshima Peace Memorial Museum. Built directly above Marugame Station, it houses the largest collection of works by Genichiro Inokuma, a Marugame-born painter who spent three decades in New York in the 1950s–70s and left a body of work spanning Abstract Expressionism and Japanese traditional aesthetics."
+score: 8.4
 ---
 
 MIMOCA — the Marugame Genichiro-Inokuma Museum of Contemporary Art — occupies a striking building designed by the legendary Japanese architect Tange Kenzo, positioned directly above Marugame Station so that its entrance bridges the station plaza. The building is considered one of Tange's later masterpieces: a bold, geometric structure with a rooftop terrace garden and a layout that guides visitors through permanent and temporary exhibition spaces with Japanese precision.

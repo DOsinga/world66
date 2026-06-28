@@ -1,9 +1,11 @@
 ---
+latitude: 34.9225
+loc_type: region
+longitude: 32.8785
+snippet: Central Cypriot mountain range with Mount Olympus, painted Byzantine churches,
+  and wine villages.
 title: Troodos Mountains
 type: location
-loc_type: region
-latitude: 34.9225
-longitude: 32.8785
 ---
 
 The Troodos Mountains occupy the centre and west of Cyprus, rising to 1,952 metres at Mount Olympus — the island's highest peak and a skiing area in winter, which surprises most people who associate Cyprus with beaches. The range is the island's green heart: pine and cedar forests cover the higher slopes, streams run year-round in the valleys, and a cluster of painted Byzantine churches scattered through the mountain villages are collectively a UNESCO World Heritage Site.

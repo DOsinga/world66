@@ -8,6 +8,7 @@ tags:
 - sight
 title: Dolphin Discovery
 type: poi
+score: 4.2
 ---
 
 Dolphin Discovery runs one of its flagship facilities at Puerto Aventuras, in a sheltered lagoon alongside the marina. Programmes range from a shallow-water interaction — you stand chest-deep and the dolphins come to you — to a full swim where they tow you across the lagoon by the dorsal fin.

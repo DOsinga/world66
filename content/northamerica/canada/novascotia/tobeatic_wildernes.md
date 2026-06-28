@@ -9,6 +9,7 @@ tags:
 - nature
 title: Tobeatic Wilderness Area
 type: poi
+score: 7.8
 ---
 
 The largest protected wilderness area in Atlantic Canada, and part of the Southern Nova Scotia World Biosphere Reserve. Old-growth Acadian forest, hundreds of pristine lakes, eskers, upland bogs, and major river systems including the Roseway and Tusket. Access points are in East Kemptville (Yarmouth County) and along Highway 203 toward Upper Ohio (Shelburne County).

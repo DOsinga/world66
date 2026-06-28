@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Woudsend,_houtzaagmolen_de
 latitude: 52.943933
 loc_type: city
 longitude: 5.628326
-score: 0.42
+score: 6.67
+snippet: Small Frisian lake village with a steep bascule bridge and busy sailing traffic.
 title: Woudsend
 type: location
 ---

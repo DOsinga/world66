@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   Reef HQ holds a living predator exhibit where sharks and rays circle overhead through a transparent tunnel — the same water chemistry that keeps tropical fish alive also sustains the coral. It is the only aquarium in the world to replicate an actual Great Barrier Reef ecosystem at this scale, with over 100 coral species growing in tanks that replicate the reef's own water conditions.
+score: 8.1
 ---
 
 Reef HQ Aquarium, on Flinders Street East along the waterfront, is the world's largest living coral reef aquarium. The main tank holds 2.5 million litres and contains a genuine reef ecosystem — coral, fish, turtles, and sharks — maintained at precise temperatures to mimic the Great Barrier Reef. A transparent underwater tunnel lets you walk through the predator exhibit surrounded by reef sharks, rays, and large fish.

@@ -6,6 +6,7 @@ longitude: -2.3602
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 A tiny, wood-panelled pub tucked down Green Street, just off Milsom Street. The Old Green Tree has been serving since the eighteenth century and feels like it — low ceilings, dark oak everywhere, no music, and barely room to swing a cat. It serves well-kept real ales, usually including a couple of local brews, and decent pub food at lunchtime.

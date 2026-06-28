@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Mayor_Torre%C3%B3n_0
 latitude: 25.5428
 loc_type: city
 longitude: -103.4106
-score: 0.4
+score: 6.16
+snippet: Northern Mexican industrial city and railway hub in the Laguna region between
+  Coahuila and Durango.
 title: Torreón
 type: location
 ---

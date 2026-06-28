@@ -1,6 +1,12 @@
 ---
+latitude: 12.094
+longitude: 124.527
+score: 6.3
 tags:
-- sights
+- things_to_do
+- sight
+- island
+- wildlife
 title: Daraga Island
 type: poi
 ---

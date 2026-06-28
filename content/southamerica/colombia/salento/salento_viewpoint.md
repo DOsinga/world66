@@ -10,6 +10,7 @@ story: >
   The 253 steps of Salento's staircase were built from locally grown guadua bamboo, a material so structurally strong that it was used for construction during Colombia's colonial period. Guadua bamboo forests are characteristic of the Quindío department, and the Coffee Cultural Landscape of Colombia (UNESCO World Heritage) specifically recognises the traditional use of bamboo in the region's architecture.
 sources:
   - https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo
+score: 7.6
 ---
 
 The viewpoint at the top of the long staircase from the end of Calle Real is one of the most visited spots in Salento, and deservedly so. From the hilltop cross, the view encompasses the full breadth of the coffee valleys — mountain ridges stretching in all directions, farms on steep slopes, the town's colourful rooftops below, and on clear days the snowcap of Nevado del Tolima visible to the north.

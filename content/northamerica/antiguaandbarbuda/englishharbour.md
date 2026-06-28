@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_Shirley%27s_Height
 latitude: 17.0048
 loc_type: city
 longitude: -61.7649
-score: 0.64
+score: 8.78
 title: English Harbour
+snippet: Historic Antiguan port centred on Nelson's Dockyard, a working Georgian naval
+  base turned yachting harbour.
 type: location
 ---
 

@@ -14,6 +14,7 @@ story: >
   1970s devastated the Zambian economy in a single decade. The mines were privatised
   and foreign-owned by the 1990s, and production has partially recovered — but the
   cautionary tale of Zambia's resource curse is written into the Copperbelt landscape.
+score: 7.0
 ---
 
 Nkana is both the mine and the neighbourhood surrounding it — one of the oldest parts of Kitwe, developed in the 1930s to house mine workers and management in the racially segregated pattern typical of British colonial mining towns. The mine itself is the largest copper producer in Zambia and one of the largest in Africa. The headframes and processing facilities are visible from the road on the city's western side.

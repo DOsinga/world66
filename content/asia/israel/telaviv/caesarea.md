@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 32.5005
 longitude: 34.8920
+score: 8.7
 ---
 
 Caesarea is the Roman-and-Crusader coastal city about forty kilometres north of Tel Aviv, half an hour by direct train. The site has Herod the Great's harbour, a Roman amphitheatre still used for concerts, a Crusader fortress, and a long stretch of sandy beach.

@@ -1,0 +1,200 @@
+{
+  "round": 3852,
+  "timestamp": "2026-06-13T23:24:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_score": 12.8845,
+      "prior_variance": 0.45375,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_score": 12.531,
+      "prior_variance": 0.370576,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 11.5787,
+      "prior_variance": 0.682955,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Vilnius",
+      "path": "europe/lithuania/vilnius",
+      "prior_score": 5.2755,
+      "prior_variance": 0.146125,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Tianmen Mountain",
+      "path": "asia/china/hunan/tianmen_mountain",
+      "prior_score": 7.3356,
+      "prior_variance": 0.155162,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.4412,
+      "prior_variance": 0.12435,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 3.5063,
+      "prior_variance": 0.108396,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 3.6709,
+      "prior_variance": 0.127673,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 4.5517,
+      "prior_variance": 0.113433,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 2.8881,
+      "prior_variance": 0.111143,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 5.6409,
+      "prior_variance": 0.124657,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 6.9407,
+      "prior_variance": 0.234487,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 2.9127,
+      "prior_variance": 0.107293,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": 0.9157,
+      "prior_variance": 0.100378,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.3535,
+      "prior_variance": 0.098918,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.2092,
+      "prior_variance": 0.113338,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.227,
+      "prior_variance": 0.099496,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": 0.0161,
+      "prior_variance": 0.100983,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -1.8209,
+      "prior_variance": 0.112438,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 2.0736,
+      "prior_variance": 0.103392,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.3186,
+      "prior_variance": 0.101944,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -2.5838,
+      "prior_variance": 0.099894,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -3.3409,
+      "prior_variance": 0.199721,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -2.9473,
+      "prior_variance": 0.119083,
+      "prior_n": 13
+    }
+  ]
+}

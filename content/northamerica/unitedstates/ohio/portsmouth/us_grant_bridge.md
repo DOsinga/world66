@@ -7,6 +7,7 @@ tags:
 snippet: "Cable-stayed bridge spanning the Ohio River to Kentucky"
 latitude: 38.7275
 longitude: -82.9972
+score: 6.2
 ---
 
 The current U.S. Grant Bridge opened in 2006, replacing a 1927 suspension bridge of the same name. It carries US 23 across the Ohio River from Portsmouth to South Portsmouth, Kentucky, on a striking single-pylon cable-stayed design.

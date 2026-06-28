@@ -6,6 +6,7 @@ longitude: 11.9905
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Bagno Asciutto — the "dry bath" — is a natural sauna in a partially enclosed cleft in the volcanic rock on the slopes of Montagna Grande. Hot vapour rises from a fumarole in the floor of the cave, and the temperature inside hovers between 35 and 40°C. Pantesi use it for traditional cures for arthritis and respiratory complaints, and it is free and open at all hours.

@@ -10,6 +10,7 @@ latitude: 40.2987
 longitude: -83.068
 sources:
   - https://en.wikipedia.org/wiki/Delaware,_Ohio
+score: 7.4
 ---
 
 The downtown core of Delaware is compact and largely intact, with a Main Street corridor lined with nineteenth-century commercial buildings in Greek Revival and Victorian styles. Several blocks along Winter Street and Sandusky Street are on the National Register of Historic Places, preserving a townscape that has changed little in the last century and a half.

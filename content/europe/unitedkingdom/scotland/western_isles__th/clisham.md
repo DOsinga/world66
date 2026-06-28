@@ -14,6 +14,7 @@ story: >
   are standing on the roots of ancient mountains that have been eroded down to
   their stumps over unimaginable timescales. The reddish-grey banding in the
   rock is characteristic of the metamorphic processes that formed it.
+score: 6.7
 ---
 
 Clisham, at 799 metres, is the highest peak in the Outer Hebrides — technically a Corbett, the classification for Scottish mountains between 762 and 914 metres. The summit is an achievable half-day walk from the A859 road between Tarbert and Stornoway. The terrain is steep but not technical, and the views on a clear day extend across the islands in all directions: the Harris hills, the moors of Lewis, the Atlantic to the west.

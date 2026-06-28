@@ -1,12 +1,14 @@
 ---
 latitude: 35.0606
 longitude: 135.7528
+score: 8.4
 snippet: The northern of the Kamo shrines, with two iconic cones of pure sand
 tags:
 - things_to_do
 - shrine
 - unesco
 - sight
+- nijo
 title: Kamigamo Shrine
 type: poi
 ---

@@ -8,6 +8,7 @@ latitude: 44.8705
 longitude: 13.8476
 story: >
   The museum garden is as interesting as the galleries inside — it is scattered with Roman inscriptions, sarcophagi, and carved fragments that arrived here when the city's ancient buildings were demolished or excavated over the past two centuries. Some of the grave stelae preserve unusually personal Latin epitaphs, including one for a freedman who was proud of working his way up to wealth.
+score: 7.4
 ---
 
 The Archaeological Museum of Istria, housed in a 19th-century building adjacent to the Twin Gate, holds the most significant collection of Roman and pre-Roman finds from the Pula area. The highlights include floor mosaics from Roman villas, a collection of Greek and Roman ceramics, and inscribed stone monuments that document the civic and religious life of ancient Pola (the Roman name for Pula).

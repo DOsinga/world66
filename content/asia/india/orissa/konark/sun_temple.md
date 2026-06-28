@@ -11,6 +11,7 @@ story: >
   British sailors called the Sun Temple the "Black Pagoda" to distinguish it from the whitewashed Jagannath Temple at Puri — visible on their charts as the "White Pagoda." The temple was deliberately built to mislead enemy ships using its magnetic pull as a navigational hazard; whether the story is apocryphal or not, the name stuck for centuries on European navigation charts.
 sources:
   - https://en.wikipedia.org/wiki/Konark_Sun_Temple
+score: 10.0
 ---
 
 The Konark Sun Temple is one of the supreme works of medieval Indian architecture, and for most visitors it is genuinely one of the most astonishing things they encounter in the subcontinent. Built around 1250 CE by King Narasimha Deva I of the Eastern Ganga dynasty, it was conceived as a colossal stone chariot for the Sun God Surya — 24 elaborately carved wheels arranged around the base, seven horses straining at the front, and three sculptures of the sun positioned to catch the morning, midday, and evening light in turn.

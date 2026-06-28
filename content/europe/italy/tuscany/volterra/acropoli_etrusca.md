@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 7.9
 ---
 
 The flat hilltop area behind the Fortezza was the original Etruscan acropolis of Velathri, the most important city of the northern Etruscan dodecapolis. The Parco Archeologico now occupies the site; the visible remains include the foundations of two temples (4th–2nd centuries BC) and a Roman cistern, with informative panels in Italian and English.

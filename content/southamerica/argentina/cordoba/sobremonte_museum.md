@@ -8,6 +8,7 @@ tags:
 latitude: 31.4244
 longitude: -64.1811
 neighbourhood: Centro
+score: 7.6
 ---
 
 The provincial historical museum is housed in one of the few surviving 18th-century private mansions in central Córdoba, once home to the Spanish governor Rafael de Sobremonte. The thick adobe walls and two interior patios are the most complete domestic example of colonial Córdoba architecture.

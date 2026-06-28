@@ -16,6 +16,7 @@ story: >
   He died here in 1952 without ever leaving for a city again.
 sources:
   - https://en.wikipedia.org/wiki/Constant_Permeke
+score: 8.0
 ---
 
 De Vier Winden is the house and studio that Constant Permeke built in Jabbeke in 1929, now preserved as a museum devoted to his work. Permeke was the dominant figure of Belgian Expressionism — his paintings of peasants, fishermen, and the sea are massive, earthy, and almost brutally direct. The house gives you a real sense of the man: the rooms are intact, the studio still has his tools and paints, and the garden is dotted with the monumental bronze sculptures he worked on in his later years.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -8.5237
 longitude: 179.1948
+score: 5.4
 ---
 
 The Funafuti Lagoon Hotel, formerly the Vaiaku Lagi Hotel, is the only proper hotel in the country. It sits on the lagoon side in Vaiaku, a couple of minutes' walk from the airport, with a row of comfortable rooms, a restaurant, and a small bar that doubles as the social hub for visiting officials and the occasional traveller. Expect Pacific-island standards: clean, friendly, slow, and reliant on whatever the supply boat brought in last.

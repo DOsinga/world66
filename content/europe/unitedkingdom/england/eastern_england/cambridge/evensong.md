@@ -8,6 +8,7 @@ latitude: 52.2044
 longitude: 0.1165
 story: >
   The choral tradition at King's goes back to Henry VI's original statutes for the college. The choir has sung evensong in this chapel almost every day since the 15th century, with interruptions only for plague and war. When the choir sings in the chapel of the world's most perfect fan vault, under glass installed under Henry VIII, the acoustic alone justifies the visit.
+score: 8.6
 ---
 
 Attending choral evensong at King's College Chapel or St John's College Chapel is free and requires no booking — you simply join the queue at the gate about 30 minutes before the service. King's sings evensong at 5:30pm on most weekdays and 3:30pm on Sundays during term time; St John's sings at 6:30pm on weekdays. Both chapels are extraordinary acoustic spaces and their choirs are among the best in the world.

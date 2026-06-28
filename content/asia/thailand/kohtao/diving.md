@@ -7,6 +7,7 @@ tags:
 latitude: 10.092182
 longitude: 99.839536
 story: "Koh Tao became a diving centre almost by accident. In the 1990s a handful of budget travellers discovered the island's cheap accommodation and clear water, and a few enterprising dive instructors followed. Word spread slowly through the backpacker circuit. By the 2000s Koh Tao was issuing more PADI Open Water certifications annually than almost any other dive destination in the world — a title it still holds."
+score: 9.4
 ---
 
 Koh Tao is one of the best and most affordable places in the world to get a diving certification. The PADI Open Water course takes three to four days, combines pool training with four open-water dives, and costs around 9,000–10,000 baht at most shops — roughly half what you would pay in Australia or Europe. Advanced, Rescue, and Divemaster courses are also widely available.

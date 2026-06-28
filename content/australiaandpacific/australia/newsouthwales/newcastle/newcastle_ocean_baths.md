@@ -12,6 +12,7 @@ story: >
   which was considered too dangerous for non-swimmers. During the Depression in the 1930s, the baths
   were one of the few forms of free public recreation available; thousands used them daily.
   The ornate Art Deco change rooms and the seawall were heritage-listed in the 1990s.
+score: 7.7
 ---
 
 The Newcastle Ocean Baths are a set of tidal swimming pools carved into the rock platform at the southern end of Newcastle Beach, open to the sea but sheltered from the surf. They have been free to use since they were built in 1922, and the heritage-listed change rooms and pavilion — a modest but well-proportioned example of the interwar public architecture that once lined Sydney's beaches — are still intact.

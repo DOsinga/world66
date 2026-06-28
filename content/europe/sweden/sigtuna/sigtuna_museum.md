@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.6165
 longitude: 17.7236
+score: 7.9
 ---
 
 The Sigtuna Museum covers the town's history from its founding as Sweden's first urban settlement around 980 AD through the Viking and medieval periods. The collection includes finds from excavations in and around the town — coins minted in Sigtuna (Sweden's first mint), tools, personal objects, and jewellery from the Viking age — and places them in the context of Sigtuna's role as an early Christian and trading centre.

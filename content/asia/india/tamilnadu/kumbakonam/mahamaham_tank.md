@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: "Sacred bathing tank ringed by sixteen small mandapams, focus of the 12-year Mahamaham festival"
 story: "On 18 February 1992, a stampede during the Mahamaham festival killed at least 50 pilgrims at the tank's stone steps. The event led to a redesign of the access points and crowd-management plans for subsequent festivals, including the 2016 gathering of more than three million people."
+score: 8.0
 ---
 
 The Mahamaham tank is the spiritual centre of Kumbakonam — a large, roughly square stone-stepped reservoir said to be filled by the nine sacred rivers of India once every twelve years, when Jupiter enters the constellation of Leo. The accompanying **Mahamaham festival** is one of the largest religious gatherings in South India; the 2016 festival drew over three million pilgrims to a town of fewer than 150,000 residents.

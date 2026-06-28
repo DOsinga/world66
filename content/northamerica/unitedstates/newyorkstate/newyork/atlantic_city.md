@@ -1,6 +1,7 @@
 ---
 latitude: 39.3643
 longitude: -74.4229
+score: 1.8
 snippet: Boardwalk casinos and beaches two hours south of Manhattan
 tags:
 - day_trips

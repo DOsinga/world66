@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Merchants_Quay,_Newry_-_ge
 latitude: 54.177528
 loc_type: city
 longitude: -6.337506
-score: 0.45
+score: 6.85
+snippet: Borderland city between the Mournes and Slieve Gullion, built around canal,
+  trade, and crossing routes.
 title: Newry
 type: location
 ---

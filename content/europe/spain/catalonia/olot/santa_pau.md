@@ -8,6 +8,7 @@ tags:
   - sight
   - village
 story: "The fesol de Santa Pau — a small, exceptionally creamy white bean — has its own protected designation of origin and an annual festival every January. The beans are grown only on the volcanic soils around the village, and the locals will tell you that no other bean cooks down to the same texture."
+score: 8.5
 ---
 
 Santa Pau is the medieval village at the heart of the Garrotxa volcanic zone, about 9 kilometres east of Olot, and one of the most photogenic places in northern Catalonia. The whole village is built around a porticoed square — the Plaça Major — where the arcades and the rough stone houses have changed very little since the 14th century.

@@ -7,6 +7,7 @@ tags:
 latitude: 12.7544
 longitude: 100.9569
 story: "Khao Chi Chan was carved in 1996 to mark the fiftieth year of King Bhumibol Adulyadej's reign. A meditating Buddha 109 metres tall was outlined on the cliff face by laser, then inlaid into the limestone with gold leaf. The cliff had previously been threatened by a quarry; the carving was, in effect, a way of saving the rock face by making it sacred."
+score: 7.2
 ---
 
 About 15 km south of Jomtien, an enormous gold-leaf-inlaid Buddha looks out from a limestone cliff face. The figure — the largest Buddha image in Thailand — sits in the meditation pose and is visible for kilometres across the surrounding pineapple fields.

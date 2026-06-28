@@ -7,6 +7,7 @@ tags:
 - landmark
 title: City Walls
 type: poi
+score: 7.5
 ---
 
 Röttingen's medieval defences are one of the most complete examples in the region. The wall runs almost the entire perimeter of the old town and still has most of its towers and gates standing — including the lower gate on the river side, which frames the approach into town from the Tauber bridge.

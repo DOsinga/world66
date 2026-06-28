@@ -6,6 +6,7 @@ longitude: 18.4310
 tags:
   - things_to_do
   - neighbourhood
+score: 8.5
 ---
 
 Stari Grad (Old Town) is the Ottoman-period neighbourhood encompassing Baščaršija and the streets immediately surrounding it — the tightest concentration of historical buildings, mosques, hans, and craft workshops in Sarajevo. It is the most visited part of the city by a significant margin, and for good reason: nowhere else in Bosnia is the Ottoman architectural tradition this dense and this well-preserved.

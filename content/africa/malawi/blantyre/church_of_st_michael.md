@@ -17,6 +17,7 @@ story: >
   section with dry bricks before committing to mortar. The result has stood for
   over a century and is still regarded as one of the finest buildings in
   Central Africa.
+score: 9.1
 ---
 
 The Church of St Michael and All Angels is one of the most remarkable buildings in Central Africa and the spiritual heart of Blantyre's Scottish mission heritage. Built between 1888 and 1891 entirely without nails, it was designed and constructed by the Reverend David Clement Scott, a Presbyterian missionary with no architectural training, and local labourers who had never built anything like it before.

@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 26.791753
+loc_type: feature
 longitude: 37.951807
+score: 8.51
+snippet: Ancient Nabataean site in Al-Ula, known for monumental sandstone tombs and
+  Saudi Arabia's first UNESCO listing.
 title: Mada'in Salih (Hegra)
 type: location
-score: 0.6
-loc_type: feature
+image: madainsalih.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hegra,_Al-Ula,_Saudi_Arabia.png
+image_license: CC0
+image_attribution: Ali Lajami
 ---
 
 Mada'in Salih, officially known as Hegra, is Saudi Arabia's most spectacular ancient site and the country's first UNESCO World Heritage listing (2008). Located in the Al-Ula region of the northwest, it was the southern capital of the Nabataean kingdom — the same civilization that built Petra in Jordan.

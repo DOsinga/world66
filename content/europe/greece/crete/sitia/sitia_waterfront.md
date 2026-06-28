@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.2056
 longitude: 26.1023
+score: 6.4
 ---
 
 The town's seafront promenade — the paralia — runs the length of the bay and is where the life of Sitia happens. By day it is fishermen mending nets and the morning ferry from Piraeus and Rhodes loading at the pier; by evening every tavern table on the strip fills up and locals walk the volta from one end to the other.

@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bobo-Dioulasso_TownHall2.j
 latitude: 11.17658
 loc_type: city
 longitude: -4.296144
-score: 0.37
+score: 6.11
+snippet: Burkina Faso's second city, known for its Sudanese-style Grande Mosquée,
+  shaded streets, and old Kibidwé district.
 title: Bobo-dioulasso
 type: location
 ---

@@ -12,6 +12,7 @@ tags:
 - museum
 title: Sohar Fort
 type: poi
+score: 7.8
 ---
 
 The white-washed fort at the centre of Sohar, originally built in the 13th century and expanded under successive rulers including the Yarubi imams who expelled the Portuguese in the 17th century. The fort served as an administrative centre and prison before being restored and opened as a museum in 1993. The museum covers local history, the Sinbad legend, and Omani seafaring. The fort's design — five towers, thick mud-brick walls — is typical of Omani coastal fortifications.

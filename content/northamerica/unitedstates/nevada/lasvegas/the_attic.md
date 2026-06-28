@@ -1,12 +1,14 @@
 ---
 address: 1018 South Main Street
-latitude: 36.1580
+latitude: 36.158
 longitude: -115.1536
 phone: 702-388-4088
-snippet: "Massive vintage clothing emporium on Main Street"
+score: 5.1
+snippet: Massive vintage clothing emporium on Main Street
 tags:
 - shopping
 - shop
+- arts_district
 title: The Attic
 type: poi
 url: www.atticvintage.com

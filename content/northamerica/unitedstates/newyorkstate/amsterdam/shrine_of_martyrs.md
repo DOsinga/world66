@@ -16,6 +16,7 @@ story: >
   shrine includes a remarkable round wooden coliseum-style chapel built in the
   1930s, said to be the largest such structure in the world, capable of seating
   6,500 pilgrims.
+score: 7.8
 ---
 
 The National Shrine of Our Lady of Martyrs sits on a wooded hilltop above the Mohawk River about ten miles west of Amsterdam, in Auriesville. The site has been a Catholic pilgrimage destination since the 1880s, marking the village where three Jesuit missionaries — the North American Martyrs — were killed in the 1640s and where Saint Kateri Tekakwitha was born a decade later.

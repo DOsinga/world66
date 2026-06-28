@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 0.6900
 longitude: 127.4400
+score: 6.4
 ---
 
 Soasio is the seat of the Tidore sultanate and the de facto capital of the island, a modest town of low buildings strung along the eastern coast road. By Indonesian standards it is tiny — the centre takes ten minutes to walk — but it is the natural base for exploring the island. The Kadato Kie palace sits at the upper end of town, the Spanish forts are within walking distance behind it, and the harbour at the lower end is where the speedboats from Ternate now arrive.

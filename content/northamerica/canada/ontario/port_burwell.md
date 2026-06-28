@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:HMCS_Ojibwa_side.jpg
 latitude: 42.6467
 loc_type: city
 longitude: -80.8003
-score: 0.3
+score: 6.18
+snippet: Quiet Lake Erie town with sandy beaches, a historic lighthouse, and local
+  perch on summer tables.
 title: Port Burwell
 type: location
 ---

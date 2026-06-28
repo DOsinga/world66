@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Turf-roofed cultural centre showcasing Nordic art, music, and theatre
+score: 8.1
 ---
 
 The Nordic House, opened in 1983, sits in the green Gundadalur valley a short walk from the centre. It is a long, low building with a grass roof that blends into the surrounding hills — designed to look as though it had always been there. The interior is panelled in Norwegian and Swedish woods and lit by huge angled skylights.

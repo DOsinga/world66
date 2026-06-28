@@ -8,6 +8,7 @@ tags:
   - sight
   - sport
 story: "Built for the 2023 FIH Men's Hockey World Cup, the new Birsa Munda stadium is the largest fully-seated hockey venue in the world, with capacity for over 20,000 spectators. The cooperative regional government chose Rourkela, not Bhubaneswar, partly because Sundargarh district is the heartland of Odia hockey and produces more international players than any other part of India."
+score: 6.9
 ---
 
 Hockey is the unofficial sport of Sundargarh district, and Rourkela's brand-new Birsa Munda International Hockey Stadium — built on the site of the old Biju Patnaik Hockey Stadium and opened in 2023 — is one of the most modern venues for the sport anywhere in the world. The stadium has hosted Hockey India League matches, FIH Pro League games, and the 2023 World Cup, and on match days the crowds spill out into the surrounding streets.

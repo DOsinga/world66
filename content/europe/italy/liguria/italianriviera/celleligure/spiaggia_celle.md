@@ -9,6 +9,7 @@ latitude: 44.3460
 longitude: 8.5440
 story: >
   Celle's south-facing sandy beach is genuinely unusual on this stretch of coast — most Ligurian resorts make do with grey pebbles. The bay between Capo Celle and Capo Olmo creates a sheltered curve where the water stays calm even when the rest of the Riviera is choppy.
+score: 7.2
 ---
 
 The main beach runs almost the full length of the lungomare, divided between a handful of free public stretches (the *spiagge libere*) and the colour-coded *bagni* — private beach clubs that rent out sun loungers, parasols and changing rooms by the day or week. The free sections cluster at either end of town and fill up early on summer weekends; the bagni in the middle keep things more orderly but cost around €25 a day for two loungers and an umbrella.

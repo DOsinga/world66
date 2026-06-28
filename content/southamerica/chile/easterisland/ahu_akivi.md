@@ -8,6 +8,7 @@ tags:
   - sight
   - archaeology
 story: "These are the only moai on the island that face the sea. Oral tradition says they represent the seven explorers Hotu Matu'a sent ahead to find Rapa Nui before he sailed here himself. They also align exactly with the equinox sunset and the sunrise on the opposite solstice, which is probably why archaeologists are still arguing about them."
+score: 7.7
 ---
 
 Ahu Akivi is an inland platform with seven moai, restored in 1960 by the American archaeologist William Mulloy. Unlike the great coastal ahu, which face inland to watch over the village, the Akivi seven face the Pacific. The site sits on a quiet stretch of grazing land roughly in the middle of the island and rarely gets crowded.

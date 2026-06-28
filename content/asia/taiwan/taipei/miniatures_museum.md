@@ -2,10 +2,12 @@
 address: 96 Jianguo North Road Sec 1, B1, Zhongshan District, Taipei
 latitude: 25.0541
 longitude: 121.5365
+score: 6.6
 snippet: Asia's first dedicated miniatures museum
 tags:
 - things_to_do
 - museum
+- zhongshan
 title: Miniatures Museum of Taiwan
 type: poi
 url: https://www.mmot.com.tw

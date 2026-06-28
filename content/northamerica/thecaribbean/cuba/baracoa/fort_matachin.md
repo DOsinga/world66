@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.9
 ---
 
 The Matachín fort guards the eastern entrance to the town, built in 1802 as one of three Spanish coastal defences against pirate raids and slave-trader incursions. The squat stone bastion now houses the Museo Municipal, a thoroughly idiosyncratic local museum that covers the indigenous Taíno history of the region, the colonial settlement, the wars of independence, and — touchingly — the personal effects of Pelú, an eccentric local musician and folk hero who died in 1989.

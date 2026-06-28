@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 62.4718
 longitude: 6.1490
+score: 5.5
 ---
 
 Lyspunktet (The Bright Spot) is a cafe and light lunch restaurant in the town centre, known for good coffee, open-faced sandwiches, and simple hot dishes made with local produce. It is the kind of place Ålesund residents go for a working lunch or a weekend brunch — unpretentious, warm, and consistently good.

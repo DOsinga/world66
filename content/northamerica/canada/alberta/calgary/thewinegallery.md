@@ -10,6 +10,7 @@ tags:
 - bar
 title: The Wine Gallery
 type: poi
+score: 5.4
 ---
 
 A European-style wine bar in the Bankers Hall complex downtown. Wines by the glass and a short food menu that leans upscale — the duck quesadilla is a local favourite. A good spot for a civilized drink after work.

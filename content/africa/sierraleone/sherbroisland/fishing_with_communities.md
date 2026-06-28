@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 7.5121
 longitude: -12.6069
+score: 7.0
 ---
 
 Fishing is the economic lifeblood of Sherbro Island, and the offshore waters and mangrove channels support an enormous variety of fish. Barracuda, snapper, grouper, and various bream species are the main catches. The Sherbro people have been fishing these waters for centuries and have developed intricate knowledge of the tidal patterns, seasonal movements, and best spots that no outside visitor is going to replicate.

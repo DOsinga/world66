@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.5760
 longitude: -109.8920
+score: 8.8
 ---
 
 Bears Ears National Monument encompasses most of the canyon country between Blanding and the Colorado River, including Cedar Mesa, Grand Gulch, and hundreds of Ancestral Puebloan sites. The monument is named for the twin buttes — unmistakable flat-topped mesas that protrude above the plateau like a pair of ears — visible from most of the surrounding landscape. The buttes are sacred to several Native American tribes, and the monument's creation in 2016 was supported by an unusual coalition of tribal nations.

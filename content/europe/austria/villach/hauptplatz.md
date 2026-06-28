@@ -15,6 +15,7 @@ story: >
   the 17th century — Villach's version is one of the best-preserved in Carinthia,
   topped with a gilded Virgin Mary that local children still garland with flowers
   on feast days.
+score: 6.9
 ---
 
 The Hauptplatz is the broad, stone-paved heart of Villach's old town and the natural gathering point for the city. Pastel facades, cafe terraces, and the white bulk of the parish church of St Jakob frame the square, which has been a market place since medieval times. Today it hosts seasonal markets and the outdoor tables of half a dozen cafes that stay busy from late spring through autumn.

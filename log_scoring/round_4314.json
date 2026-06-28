@@ -1,0 +1,200 @@
+{
+  "round": 4314,
+  "timestamp": "2026-06-14T00:02:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 8.5624,
+      "prior_variance": 0.175704,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 3.6551,
+      "prior_variance": 0.118313,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_score": 3.8283,
+      "prior_variance": 0.102278,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 4.9758,
+      "prior_variance": 0.100998,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 4.9404,
+      "prior_variance": 0.105586,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 4.0353,
+      "prior_variance": 0.0983,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 2.8062,
+      "prior_variance": 0.10428,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island",
+      "prior_score": 2.5854,
+      "prior_variance": 0.10199,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 3.4269,
+      "prior_variance": 0.101231,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 1.7113,
+      "prior_variance": 0.130868,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.2638,
+      "prior_variance": 0.092311,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 2.2237,
+      "prior_variance": 0.103138,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.697,
+      "prior_variance": 0.090611,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -0.6375,
+      "prior_variance": 0.101791,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 1.5098,
+      "prior_variance": 0.103156,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -3.6484,
+      "prior_variance": 0.109967,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -4.2726,
+      "prior_variance": 0.113644,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -2.9783,
+      "prior_variance": 0.090979,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -3.867,
+      "prior_variance": 0.108709,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -3.8196,
+      "prior_variance": 0.102538,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -4.5245,
+      "prior_variance": 0.140721,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -5.4048,
+      "prior_variance": 0.135145,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -5.188,
+      "prior_variance": 0.133888,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -6.909,
+      "prior_variance": 0.169672,
+      "prior_n": 14
+    }
+  ]
+}

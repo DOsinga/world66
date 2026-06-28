@@ -9,6 +9,7 @@ tags:
 latitude: 51.4069
 longitude: 7.0083
 story: "Alfred Krupp, who built Villa Hügel, was so paranoid about fire after a workplace accident that the main house was constructed with as little wood as possible — iron beams, stone floors, steel window frames throughout. He was equally suspicious of servants: the house had a system of pneumatic tubes that could send orders from his study to any room, so he could run the entire household without needing to speak to anyone face to face."
+score: 8.4
 ---
 
 Villa Hügel is the former home of the Krupp dynasty — the family whose steel and armaments empire powered German industrialisation and supplied the weapons for two world wars. The house, built by Alfred Krupp in 1873, is a 269-room villa on a hillside above the Baldeneysee lake, furnished with the heavy splendour appropriate to a family that once had more employees than most European armies.

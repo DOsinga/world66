@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Bar packed wall-to-ceiling with religious statues, behind the Cathedral
+score: 6.5
 ---
 
 A small bar directly behind the cathedral, distinguished by the most chaotic collection of religious statuary in Belgium — every available wall and shelf is covered in plaster saints, virgins, crucifixes, candles, and chasubles. The name means "The Eleventh Commandment" and the joke is on the décor.

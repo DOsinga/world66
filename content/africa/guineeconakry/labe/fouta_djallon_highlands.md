@@ -8,6 +8,7 @@ latitude: 11.4000
 longitude: -12.3000
 story: >
   The Fulani (Peul) of the Fouta Djallon established one of the earliest Islamic theocracies in West Africa in the 18th century, displacing earlier animist populations and creating a state whose intellectual and religious influence extended across the Sahel. Labe was one of the key administrative centres of this federation, and the town's mosque and old quarter preserve something of that history.
+score: 8.7
 ---
 
 The Fouta Djallon is a highland plateau running through central Guinea at elevations between 900 and 1,500 metres, a landscape of rounded grassy hills, river valleys, waterfalls, and patches of gallery forest. The plateau climate is cooler and less humid than the coastal lowlands — one of the reasons Labe feels more liveable than Conakry — and the scenery is among the most beautiful in West Africa.

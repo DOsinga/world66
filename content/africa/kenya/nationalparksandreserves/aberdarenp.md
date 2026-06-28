@@ -5,8 +5,10 @@ latitude: -0.4
 longitude: 36.75
 title: Aberdare N.P.
 type: location
-score: 0.57
+score: 8.03
 loc_type: feature
+snippet: Central Kenyan mountain park with montane forest, high peaks, waterfalls,
+  and waterhole lodges.
 ---
 
 The Aberdare Park covers most of the Aberdare mountain range in central Kenya. The range holds Kenya's second and third highest peaks, extraordinary waterfalls, and some of the most scenic montane forest in the country. The Aberdare Forest is arguably the most beautiful in Kenya — dense, dripping, and full of wildlife.

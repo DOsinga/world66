@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+score: 7.6
 ---
 
 The Kapellenkirche, with its slender 70-metre tower rising above the rooftops east of Hauptstrasse, is the strangest church in town. The tower dates from the late fourteenth century and is decorated with figural sculpture that is unusually rich for a small Swabian church: prophets, apostles, and the founders of the original chapel all stand in niches up the corners.

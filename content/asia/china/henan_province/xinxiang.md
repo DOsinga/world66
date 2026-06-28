@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20241006_Dacheng_Hall_of_X
 latitude: 35.2992
 loc_type: city
 longitude: 113.8852
+score: 5.58
+snippet: Northern Henan city near the Taihang Mountains, with scenic canyons and cliff
+  roads nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Xinxiang
 title: Xinxiang

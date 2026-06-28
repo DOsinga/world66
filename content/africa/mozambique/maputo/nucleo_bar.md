@@ -10,6 +10,7 @@ tags:
   - polana
   - bar
 neighbourhood: Polana
+score: 6.5
 ---
 
 The **garden bar** at the **Núcleo de Arte** artists' co-operative is one of the most enjoyable evenings out in Maputo. The bar occupies a large walled garden with old trees, sculptures, and a cluster of mismatched tables and chairs spread under canvas awnings. The crowd is the most mixed in the city: artists, students, journalists, foreign visitors and curious locals, all drinking 2M and Laurentina at fair prices.

@@ -9,6 +9,7 @@ tags:
   - architecture
 story: "Počitelj was built in the 14th century by the Bosnian king Tvrtko I, expanded under Ottoman rule, and emptied during the 1993 war. After 2000, the houses were rebuilt and an annual international art colony was re-established — the same programme that had drawn painters here from across Yugoslavia in the 1960s."
 snippet: A beautifully preserved Ottoman hilltop village just across the Bosnian border, an easy half-day trip from the Neretva valley.
+score: 8.3
 ---
 
 Počitelj is the most photogenic settlement on the lower Neretva — an entire Ottoman village climbing a steep slope above the river, with whitewashed houses, a mosque with a slender minaret, a clock tower, and the round Gavrankapetan tower at the summit. The village sits on the Bosnian side of the border, about 25 km up the river from Metković, and is included on most cultural day trips from the delta.

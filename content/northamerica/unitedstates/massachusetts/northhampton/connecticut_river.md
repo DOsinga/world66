@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The main river of the Pioneer Valley, with cycling and kayaking accessible from town"
+score: 7.2
 ---
 
 The Connecticut River runs about 2 km east of downtown Northampton — close enough to reach by bicycle or a short drive. The Norwottuck Rail Trail crosses the river on a converted railroad bridge and continues east toward Amherst and Belchertown, making for excellent flat cycling. Canoe and kayak rentals are available at the Elwell Recreation Area near the river.

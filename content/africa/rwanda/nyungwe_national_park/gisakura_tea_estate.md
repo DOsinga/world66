@@ -7,6 +7,7 @@ tags:
 - nature
 latitude: -2.4733
 longitude: 29.1067
+score: 6.2
 ---
 
 Tea plantations form a startling green border around the western edge of Nyungwe, the manicured rows of bushes meeting the wall of native forest with no transition. Gisakura is the largest of these estates and a working factory tours can sometimes be arranged through guesthouses in the area.

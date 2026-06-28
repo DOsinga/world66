@@ -9,6 +9,7 @@ latitude: 20.6323
 longitude: -156.4969
 snippet: "Submerged volcanic crater offshore — among the best snorkelling in Hawaii"
 story: "Molokini is the eroded tip of a volcanic crater that last erupted several thousand years ago. The surrounding caldera wall, now below water, creates an enclosure of 73 hectares — enough to shelter over 250 species of marine life, including many found nowhere else in Hawaii."
+score: 8.8
 ---
 
 Molokini is a small crescent-shaped islet about 5 kilometres off the south Maui coast — the exposed rim of a partially submerged volcanic crater. Inside the crescent, the visibility can exceed 30 metres and the water is packed with fish, coral, and — on good days — eagle rays, white-tipped reef sharks, and spinner dolphins.

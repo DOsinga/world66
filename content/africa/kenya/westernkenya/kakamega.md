@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Rondo_Retreat,_Kakamega_Ra
 latitude: 0.2822
 loc_type: city
 longitude: 34.754
-score: 0.35
+score: 6.21
+snippet: Small western Kenyan town and gateway to Kakamega Forest, Kenya's remnant
+  Guineo-Congolian rainforest.
 title: Kakamega
 type: location
 ---

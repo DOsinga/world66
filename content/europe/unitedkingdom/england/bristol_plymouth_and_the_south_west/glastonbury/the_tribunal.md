@@ -8,6 +8,7 @@ tags:
 - architecture
 title: The Tribunal
 type: poi
+score: 6.7
 ---
 
 The Tribunal is one of the oldest secular buildings in Glastonbury, a stone-fronted 15th-century house on the High Street. Despite the name — it was used for many years as the abbot's court — its current contents have little to do with law. The ground floor holds the Glastonbury Tourist Information Centre and a small shop; the upper floor is a museum displaying finds from the Glastonbury Lake Village.

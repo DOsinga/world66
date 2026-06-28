@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mosque
+score: 4.8
 ---
 
 The original Sulejman Pasha Mosque, founded in 1614 by the warlord who effectively founded the city of Tirana, was destroyed by Allied bombing in 1944. The current rebuilt structure stands on the same spot off Skanderbeg Square and is best understood as a memorial to the city's Ottoman origins.

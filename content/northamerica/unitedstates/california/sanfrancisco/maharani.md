@@ -12,6 +12,7 @@ tags:
 title: Maharani
 type: poi
 url: www.maharanirestaurant.com
+score: 5.8
 ---
 
 A long-running Indian restaurant on Post Street in the Tenderloin-adjacent area, Maharani has been serving North Indian cuisine since the 1980s. The menu covers the expected range of tandoori dishes, curries, and biryanis, done with care. The private dining alcove known as the Fantasy Room — draped fabric, low lighting — is the main draw for special occasions.

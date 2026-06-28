@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.5508
 longitude: 7.0117
+score: 7.6
 ---
 
 Tucked inside the medieval castle at the top of Le Suquet, the Musée de la Castre holds a surprisingly diverse collection accumulated by a 19th-century Dutch baron, Lycklama à Nijeholt, who spent his fortune travelling the world and buying antiquities. The result is an eclectic mix: Mediterranean artifacts from Egypt, Greece, Syria, and Rome; primitive art from Africa, the Americas, and Oceania; and a large collection of musical instruments from around the world.

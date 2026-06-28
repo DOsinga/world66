@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A working Chan monastery a short walk north of Taihuai
+score: 7.2
 ---
 
 Bishan Temple — also known as Guangji Maopeng — sits in a wooded enclave just north of Taihuai, far enough from the bus park that the day-tripper crowds rarely reach it. It is a working Chan monastery, and the atmosphere is correspondingly purposeful: monks in robes carrying buckets of water, sutra chanting from the back hall, a single elderly bell-ringer up in the bell tower.

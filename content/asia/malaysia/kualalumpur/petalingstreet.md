@@ -3,11 +3,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 3.14347
 longitude: 101.6977
-snippet: KL's Chinatown market street for bargains and street food
+score: 7.4
+snippet: KL's Chinatown bazaar street with a covered market for bargains, street food,
+  and fresh fruit stalls
 tags:
 - shopping
-- chinatown
 - market
+- chinatown
 title: Petaling Street
 type: poi
 ---

@@ -3,10 +3,12 @@ address: 59 Sukhumvit Rd, Soi 8
 latitude: 13.7387
 longitude: 100.5548
 phone: +66-2-2535556
+score: 5.6
 snippet: Classic French restaurant in a colonial house off Sukhumvit
 tags:
 - eating_out
 - restaurant
+- sukhumvit
 title: Le Banyan
 type: poi
 url: www.le-banyan.com

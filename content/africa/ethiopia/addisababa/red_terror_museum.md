@@ -13,6 +13,7 @@ story: >
   An estimated 500,000 people were killed. Families were made to pay for the bullets used
   to execute their relatives before receiving the bodies. The museum was founded by
   survivors and the families of victims.
+score: 7.9
 ---
 
 One of the most important and least-visited museums in Addis Ababa, the Red Terror Museum documents the atrocities committed by the Derg military dictatorship between 1974 and 1991. The exhibits include photographs of victims, confiscated weapons, personal items of the dead, and — most confrontingly — display cases containing the bones of massacre victims found in mass graves.

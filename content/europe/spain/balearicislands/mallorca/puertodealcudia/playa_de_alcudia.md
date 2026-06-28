@@ -6,6 +6,7 @@ tags:
 latitude: 39.8460
 longitude: 3.1283
 snippet: Five miles of fine white sand, the longest beach in Mallorca
+score: 7.8
 ---
 
 Playa de Alcudia is the main beach and one of the finest in Mallorca: a long, wide, flat sweep of very fine white sand that stretches south from the marina. The sand is the real thing — soft enough to sink into, the colour of cream, and fine enough that it stays between your toes long after you've left. The sea shelves gradually and stays shallow for a good distance out, making it particularly safe for young children.

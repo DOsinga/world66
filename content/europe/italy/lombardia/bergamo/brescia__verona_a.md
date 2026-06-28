@@ -1,9 +1,10 @@
 ---
 address: Brescia or Verona
+score: 1.3
 tags:
 - getting_there
 title: Brescia & Verona Airports
-type: poi
+type: theme
 url: www.aeroportoverona.it
 ---
 

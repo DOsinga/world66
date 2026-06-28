@@ -9,6 +9,7 @@ latitude: 44.0517
 longitude: 9.8345
 sources:
   - https://en.wikipedia.org/wiki/Portovenere
+score: 7.0
 ---
 
 The parish church of Portovenere, dedicated to San Lorenzo, stands in a small square just inside the medieval gate at the northern end of the village. It is a Romanesque building from the 12th century, with a striped marble facade that echoes San Pietro's but is more restrained — a wide arched portal flanked by carved columns, the surface in the same black-and-white banding that signals Genoese patronage.

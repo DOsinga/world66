@@ -15,6 +15,7 @@ story: >
   parasites from their gills and skin — and return to the same spots on a
   predictable tidal cycle. The season runs from May to October, peaking around
   July and August.
+score: 8.7
 ---
 
 Naviti is the largest island in the Yasawa chain, and the waters around it offer some of the best snorkelling and diving in the group. The main draw is the Drawaqa Passage between Naviti and Drawaqa Island, where manta rays gather during the dry season. The mantas arrive on an incoming tide, typically in the morning, and snorkellers can enter the water to observe them at close range — the rays are accustomed to people and show no particular alarm.

@@ -9,6 +9,7 @@ tags:
   - history
 snippet: The three trapezoidal windows aligned with the rising sun on key Inca calendar dates
 story: "Hiram Bingham was searching for Vilcabamba — the last stronghold of the Inca resistance against Spain — when he found Machu Picchu in 1911. He initially thought the Temple of the Three Windows was indeed the place described in Spanish chronicles as the ultimate origin of the Inca people, the cave of Tambotoco with three windows. He was wrong about the identification, but his mistake helped publicise the site."
+score: 8.7
 ---
 
 The Temple of the Three Windows stands on the eastern side of the Sacred Plaza and is one of the defining structures at Machu Picchu. Three large trapezoidal windows — the Inca's characteristic architectural form — face east toward the rising sun. On key dates in the Inca calendar, sunlight through these windows illuminates specific points inside the temple, confirming their astronomical and ceremonial function.

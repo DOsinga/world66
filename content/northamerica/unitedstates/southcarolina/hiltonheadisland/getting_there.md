@@ -1,11 +1,9 @@
 ---
 address: 14 New Orleans Rd
 email: info@hiltonheadislander.com
-latitude: 32.157781
-longitude: -80.754368
 phone: 1-800-368-5975
 title: Getting There
-type: poi
+type: section
 url: www.hiltonheadislander.com
 ---
 

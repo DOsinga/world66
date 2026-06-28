@@ -5,8 +5,10 @@ done:
 latitude: 8.4964
 loc_type: city
 longitude: 4.548
-score: 0.3
+score: 5.54
 title: Ilorin
+snippet: Kwara State capital at Nigeria's north-south crossroads, blending Yoruba-Islamic
+  tradition with university energy
 type: location
 ---
 

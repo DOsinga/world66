@@ -1,0 +1,200 @@
+{
+  "round": 4289,
+  "timestamp": "2026-06-14T00:00:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 12.476,
+      "prior_variance": 0.297483,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 10.6426,
+      "prior_variance": 0.264938,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 8.8992,
+      "prior_variance": 0.147608,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 9.3209,
+      "prior_variance": 0.278727,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 7.3651,
+      "prior_variance": 0.174708,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 8.0259,
+      "prior_variance": 0.145835,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.1414,
+      "prior_variance": 0.099215,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 3.2978,
+      "prior_variance": 0.112185,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.1113,
+      "prior_variance": 0.102169,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.1855,
+      "prior_variance": 0.096296,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.2736,
+      "prior_variance": 0.096065,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.2625,
+      "prior_variance": 0.091944,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -2.8896,
+      "prior_variance": 0.086726,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -4.8693,
+      "prior_variance": 0.124526,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -1.3536,
+      "prior_variance": 0.124625,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -2.1912,
+      "prior_variance": 0.096801,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.5896,
+      "prior_variance": 0.098335,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Lanzhou",
+      "path": "asia/china/gansu/lanzhou",
+      "prior_score": -2.4916,
+      "prior_variance": 0.099769,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.3176,
+      "prior_variance": 0.108014,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.5874,
+      "prior_variance": 0.107434,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -3.37,
+      "prior_variance": 0.114331,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -4.3105,
+      "prior_variance": 0.094937,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -4.9339,
+      "prior_variance": 0.13207,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -5.8752,
+      "prior_variance": 0.147378,
+      "prior_n": 14
+    }
+  ]
+}

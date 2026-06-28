@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 36.1169
 longitude: -109.5025
+score: 8.6
 ---
 
 The White House Ruins are the most accessible of Canyon de Chelly's Ancestral Puebloan cliff dwellings and the destination of the only self-guided trail into the canyon interior. The ruins occupy two levels: a lower structure on the canyon floor and an upper chamber built into a high alcove in the sandstone wall, with a distinctive patch of white plaster that gives the site its name. The Ancestral Puebloans lived here from around AD 350 to 1300.

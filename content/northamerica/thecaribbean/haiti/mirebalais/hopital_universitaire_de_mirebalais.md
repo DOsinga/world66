@@ -8,6 +8,7 @@ latitude: 18.8360
 longitude: -72.1168
 story: >
   The hospital became internationally known for its solar-power system, large enough to run the facility on sunny days and send surplus electricity back to the grid. In Haiti, where power failures are part of ordinary life, that engineering choice was not cosmetic.
+score: 6.4
 ---
 
 Hôpital Universitaire de Mirebalais was built after the 2010 earthquake as a public teaching hospital developed with Partners In Health and Zanmi Lasante. It quickly became one of Haiti's most important medical facilities, serving the Central Plateau and patients from farther afield.

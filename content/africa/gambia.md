@@ -1,21 +1,23 @@
 ---
-title: Gambia
-type: location
-latitude: 13.4432
-longitude: -15.3101
-image: gambia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Tourist_Craft_Store,_Banjul,_Gambia.jpg
-image_license: CC BY-SA 4.0
-image_attribution: 'Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage'
-quick_facts:
-  Population: "2.7 million"
-  Language: "English (rare in West Africa)"
-  Bird Species: "540+"
-  Width at Widest: "48 km"
 done:
   country_cleanup: 2026-03-30
-score: 0.47
+image: gambia.jpg
+image_attribution: 'Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage'
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tourist_Craft_Store,_Banjul,_Gambia.jpg
+latitude: 13.4432
 loc_type: country
+longitude: -15.3101
+quick_facts:
+  Bird Species: 540+
+  Language: English (rare in West Africa)
+  Population: 2.7 million
+  Width at Widest: 48 km
+score: 0.43
+snippet: Small West African country following the Gambia River, known for Atlantic
+  beaches and rich birdlife.
+title: Gambia
+type: location
 ---
 
 The Gambia is Africa's smallest mainland country, a slender ribbon of land following the Gambia River for 450 kilometres inland from the Atlantic coast, entirely surrounded by [Senegal](/africa/senegal). It is known as the Smiling Coast, and the nickname is earned -- Gambians are genuinely, disarmingly friendly.

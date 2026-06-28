@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Municipal_Theatre,_Rio_de_Janeiro
 story: >
   The Teatro Municipal was inaugurated in 1909 with a performance of Salvatore Daniel's opera Hamlet. The building was explicitly modelled on the Paris Opéra Garnier — the city's belle époque ambitions writ large in gilded stone. The curtain in the main auditorium, painted by Brazilian artist Henrique Bernardelli, depicts the dawn of civilisation; it weighs 1,800 kilograms and takes four minutes to raise.
+score: 8.4
 ---
 
 The Teatro Municipal is Rio's grandest building — a belle époque opera house completed in 1909 on Cinelândia square in Centro, explicitly modelled on the Paris Opéra Garnier. The exterior is all marble, bronze, and gilded stone; the interior rises through three tiers of gilded boxes to a painted ceiling and an enormous painted curtain that depicts the dawn of civilisation.

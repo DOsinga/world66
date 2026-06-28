@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 34.0833
 longitude: 74.8333
+score: 4.7
 ---
 
 The cantonment area of Srinagar, Badami Bagh is a remnant of the colonial military and administrative quarter that contrasts sharply with the old city across town. Wide, tree-lined roads, British-era bungalows, and the kind of institutional architecture that appears in every former British Indian cantonment characterise the area. The neighbourhood is primarily a military zone — Badami Bagh Cantonment is the headquarters of the Indian Army's 15 Corps — and much of it is not accessible to civilians.

@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Baoding_Hebei_PR-China_-_C
 latitude: 38.85
 loc_type: city
 longitude: 115.48
+score: 6.15
+snippet: Historic Hebei city shaped by Qing provincial power and the preserved Viceroy
+  of Zhili Office
 sources:
 - https://en.wikivoyage.org/wiki/Baoding
 title: Baoding

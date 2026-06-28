@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Villa Olmo
 type: poi
+score: 6.9
 ---
 
 This stately neoclassical villa at the northern edge of the lakefront promenade

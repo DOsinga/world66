@@ -5,7 +5,9 @@ done:
 latitude: 41.586865
 loc_type: city
 longitude: -93.624949
-score: 0.38
+score: 6.47
+snippet: Iowa capital at the Des Moines and Raccoon rivers, with a gold-domed capitol
+  and sculpture park
 title: Des Moines
 type: location
 ---

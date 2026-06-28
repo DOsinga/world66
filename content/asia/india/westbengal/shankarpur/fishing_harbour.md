@@ -13,6 +13,7 @@ story: >
   Digha. It is now one of the two main landing centres on the Bengal coast,
   with several hundred trawlers registered and a daily catch worth crores of
   rupees in season.
+score: 7.4
 ---
 
 A working fishing harbour at the eastern edge of the village, with a long concrete jetty and a fleet of mechanised trawlers — Shankarpur is one of the largest landing centres in West Bengal. The morning auction (roughly 5–7 am) is the main event: silver pomfret, hilsa in season, prawns, crabs, mud lobster, and the heavy bhetki destined for Kolkata restaurants.

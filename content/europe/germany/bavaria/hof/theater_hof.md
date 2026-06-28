@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Three-stage municipal theatre with opera, drama, and ballet companies
+score: 7.4
 ---
 
 Theater Hof is a remarkable thing for a town of fewer than fifty thousand: a full-time municipal theatre with its own opera company, drama ensemble, and ballet. The current building, on Kulmbacher Strasse just west of the old town, dates from 1994 — modern and acoustically excellent.

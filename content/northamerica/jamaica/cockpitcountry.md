@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 18.3167
+loc_type: feature
 longitude: -77.6667
+score: 7.43
+snippet: Jamaican karst wilderness of forested sinkholes, long associated with the
+  autonomous Leeward Maroon communities.
 title: Cockpit Country
 type: location
-score: 0.5
-loc_type: feature
 ---
 
 Cockpit Country is one of the most distinctive landscapes in the Caribbean: a roughly circular area of collapsed limestone karst covering about 1,300 square kilometres in the parishes of Trelawny, St James, St Elizabeth, and Manchester. From the air it looks like a field of inverted bowls — steep forested hills separated by rounded sinkholes called "cockpits." On the ground it's a dense, disorienting maze of forest and rock.

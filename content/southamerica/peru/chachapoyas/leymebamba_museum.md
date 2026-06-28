@@ -15,6 +15,7 @@ story: >
   The museum was built in Leymebamba specifically to keep the collection close to its
   origin community rather than sending it to Lima — an unusual decision that proved
   to be the right one.
+score: 8.3
 ---
 
 The Leymebamba Museum, about 80 km south of Chachapoyas by road, holds one of the most significant collections of Chachapoyas mummies and artefacts in the world — 219 mummies retrieved from a cliffside burial site at Laguna de los Cóndores in 1997, along with hundreds of associated textiles, ceramics, and wooden objects. The museum was built to international standards with climate control and professional conservation, an unusual level of care for a rural Peruvian town.

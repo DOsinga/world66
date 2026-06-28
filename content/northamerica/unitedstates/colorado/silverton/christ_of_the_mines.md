@@ -7,6 +7,7 @@ tags:
 - sight
 title: Christ of the Mines Shrine
 type: poi
+score: 5.7
 ---
 
 Christ of the Mines Shrine fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

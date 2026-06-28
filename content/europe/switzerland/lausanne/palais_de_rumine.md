@@ -13,6 +13,7 @@ tags:
   - museum
 title: Palais de Rumine
 type: poi
+score: 8.0
 ---
 
 The Palais de Rumine is a grandiose Florentine Renaissance building on the Place de la Riponne, housing five cantonal museums under one roof: fine arts, history, archaeology, geology, and zoology. The building itself is as impressive as its contents, with a grand hall and sweeping staircase that feel slightly over-scaled for the city around them.

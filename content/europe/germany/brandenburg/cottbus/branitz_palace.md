@@ -7,6 +7,7 @@ latitude: 51.7421
 longitude: 14.3690
 story: >
   Prince Pückler-Muskau spent the last 40 years of his life reshaping the grounds around Branitz, financing the endless work by selling his first estate and eventually his art collection. He is buried beneath the water — his mausoleum is a pyramid set in the middle of an artificial lake, one of the strangest tombs in Germany.
+score: 8.8
 ---
 
 Branitz Palace and its English landscape garden are the defining sight of Cottbus and one of the most unusual designed landscapes in Germany. The palace was the home of Prince Hermann von Pückler-Muskau (1785–1871), an eccentric aristocrat, travel writer, and obsessive landscape gardener who spent four decades reshaping the flat Brandenburg plain into a rolling parkland of artificial hills, lakes, and woodland vistas.

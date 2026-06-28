@@ -8,6 +8,7 @@ latitude: 41.7167
 longitude: 124.2167
 story: >
   In 1616 Nurhachi stood within these walls and declared himself Khan of the Later Jin Dynasty — the political act that set in motion the Manchu conquest of China. The palace complex from which he administered his confederation was modest by imperial standards, a handful of timber halls on a fortified ridge, but what was decided here within a generation brought down the Ming Dynasty and installed the Qing emperors in Beijing for the next 268 years.
+score: 8.4
 ---
 
 Hetuala, also known by its Chinese name Xingjing, is the birthplace of the Qing Dynasty — the site where Nurhachi organised the Jurchen confederation and launched his challenge to Ming authority. The reconstructed palace complex in Xinbin County occupies a ridge above the Suzi River and contains the main hall where Nurhachi held court, residential quarters, and an attached museum documenting the early Jurchen military organisation.

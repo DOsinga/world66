@@ -6,6 +6,7 @@ longitude: 13.6190
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 A group of seven megalithic tombs in the woods near Lancken-Granitz, dating from around 3500 BC. The stones are arranged in chambers and short passages, with capstones still in place on several of the larger dolmens. The site is one of the best-preserved Neolithic burial complexes in northern Germany.

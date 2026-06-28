@@ -5,7 +5,9 @@ done:
 latitude: 29.140992
 loc_type: city
 longitude: 75.978714
-score: 0.34
+score: 5.59
+snippet: Small Haryana city east of Hisar, centred on Asigarh Fort and layers of north
+  Indian history.
 title: Hansi
 type: location
 ---

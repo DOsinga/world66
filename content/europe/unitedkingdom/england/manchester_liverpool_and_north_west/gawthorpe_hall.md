@@ -1,10 +1,12 @@
 ---
+latitude: 53.802752
+loc_type: feature
+longitude: -2.294802
+score: 7.02
+snippet: Elizabethan Lancashire hall near Burnley, distinguished by the Kaye-Shuttleworth
+  textile and needlework collections.
 title: Gawthorpe Hall
 type: location
-latitude: 53.802752
-longitude: -2.294802
-score: 0.44
-loc_type: feature
 ---
 
 Gawthorpe Hall sits at Padiham, near Burnley. It was home to the Kaye-Shuttleworths, a family connected to the great textile inventions, and is now owned by the National Trust.

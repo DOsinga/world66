@@ -7,6 +7,7 @@ tags:
 latitude: 30.467
 longitude: 78.069
 snippet: Three-kilometre car-free walking circuit above Mussoorie's rooftops with Himalayan views
+score: 8.1
 ---
 
 Camel's Back Road is a three-kilometre walking route above the Mall Road that runs between Library Bazaar and Picture Palace. It takes its name from a rocky outcrop that resembles a camel's hump. The road is largely free of vehicles and the views north toward the Himalayan snows, when visible, are excellent.

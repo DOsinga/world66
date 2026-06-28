@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, sachsenhausen]
 latitude: 50.1055
 longitude: 8.6850
+score: 7.4
 ---
 
 The handful of cobbled streets around Klappergasse, Wallstrasse and Schweizer Strasse in Alt-Sachsenhausen are the densest concentration of apple wine taverns in Germany — perhaps a dozen working houses within five minutes' walk of each other. A traditional Frankfurt evening means hopping between three or four of them: a stop for the first bembel at one, food at another, dessert and the last round somewhere else.

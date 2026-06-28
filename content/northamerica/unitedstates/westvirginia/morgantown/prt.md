@@ -15,6 +15,7 @@ story: >
   carrying students every day, the sole surviving example of a transport revolution that didn't happen.
 sources:
   - https://en.wikipedia.org/wiki/Morgantown_Personal_Rapid_Transit
+score: 8.5
 ---
 
 The WVU Personal Rapid Transit is one of the stranger urban transit systems on earth — a network of small automated electric pods running on elevated concrete guideways, connecting three stations between downtown and the Evansdale campus. It was built in 1975 as a demonstration project funded by the US Department of Transportation and was supposed to be the prototype for a new generation of American urban transit. That never happened, but Morgantown kept running theirs.

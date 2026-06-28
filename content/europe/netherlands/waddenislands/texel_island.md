@@ -10,6 +10,8 @@ latitude: 53.089372
 loc_type: region
 longitude: 4.821347
 score: 0.58
+snippet: Dutch Wadden island of dunes, beaches, cycling paths, bird flats, and Texel
+  lamb.
 title: Texel island
 type: location
 ---

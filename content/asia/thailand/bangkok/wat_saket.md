@@ -1,10 +1,12 @@
 ---
 latitude: 13.7538
 longitude: 100.5067
+score: 8.1
 snippet: Golden Mount temple with panoramic rooftop views over Bangkok
 tags:
 - things_to_do
 - temple
+- banglamphu
 title: Wat Saket
 type: poi
 ---

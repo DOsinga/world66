@@ -8,6 +8,7 @@ latitude: 22.5358
 longitude: 113.9703
 story: >
   The park was built in 1991, before Window of the World opened next door, and its original concept was specifically Chinese: a collection of miniature reproductions of the country's own landmarks, from the Great Wall to the Potala Palace, intended for Chinese visitors who might never travel to see the originals. Folk Culture Villages was added to the complex in 1994, bringing ethnic minority performances and village reconstructions to the site.
+score: 6.4
 ---
 
 Splendid China Folk Culture Villages sits alongside Window of the World in the Nanshan District's tourist zone and takes a different approach: instead of the world's landmarks, it miniaturises and recreates China's own. The park contains scaled-down reproductions of the Great Wall, the Potala Palace, the Forbidden City, the Li River, and dozens of other Chinese sites, all set in landscaped grounds.

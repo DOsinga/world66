@@ -6,6 +6,7 @@ tags:
 snippet: "Smartshop in the De Pijp neighborhood"
 title: Nirvana
 type: poi
+score: 3.8
 ---
 
 A smartshop in the De Pijp neighborhood selling legal herbal supplements, truffles, and related products. Like other Amsterdam smartshops, it caters to visitors curious about the Netherlands' famously relaxed approach to certain substances. Staff can explain what's on offer and dosage advice.

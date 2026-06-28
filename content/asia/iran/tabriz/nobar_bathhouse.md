@@ -7,6 +7,7 @@ tags:
 - sight
 title: Nobar Bathhouse
 type: poi
+score: 6.0
 ---
 
 The Nobar Bathhouse is one of the most architecturally elegant of Tabriz's surviving

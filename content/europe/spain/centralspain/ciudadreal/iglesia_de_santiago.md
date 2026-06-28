@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Iglesia de Santiago is the oldest church in Ciudad Real, founded in the 13th century soon after the city was established by Alfonso X. The interior preserves a fine Mudéjar wooden ceiling above the chancel — alternating stars and lozenges in dark timber — that is the single best piece of medieval craftsmanship in town.

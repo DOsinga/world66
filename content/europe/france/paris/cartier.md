@@ -10,6 +10,7 @@ tags:
 - leshalles
 title: Cartier
 type: poi
+score: 5.5
 ---
 
 The flagship Cartier boutique sits at 23 Place Vendome, the same address where Louis Cartier set up shop in 1899. Jeweller to European royalty since the 19th century, this is where you come to admire pieces you probably can't afford — though window-shopping on Place Vendome costs nothing and the displays are works of art in themselves.

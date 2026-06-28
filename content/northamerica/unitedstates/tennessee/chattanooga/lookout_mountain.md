@@ -11,6 +11,7 @@ tags:
 title: Lookout Mountain
 type: poi
 snippet: Civil War battlefield with views across seven states
+score: 7.3
 ---
 
 The defining landmark of Chattanooga. The summit offers views across seven states, and the mountain holds three of the city's most popular attractions: Rock City, Ruby Falls, and the Incline Railway. Point Park at the top preserves the Civil War battlefield. You can drive up or take the Incline Railway from St. Elmo at the base.

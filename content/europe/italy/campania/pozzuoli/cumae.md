@@ -10,6 +10,7 @@ story: >
   The Cumaean Sibyl was one of the most famous prophets of the ancient world. According to Ovid, she asked Apollo for eternal life but forgot to ask for eternal youth; she shrank with age until there was nothing left but her voice, kept in a jar, still prophesying. The cave at Cumae where she supposedly delivered her oracles — a long, trapezoidal tunnel cut through the tufa — can still be walked today.
 sources:
   - https://en.wikipedia.org/wiki/Cumae
+score: 9.0
 ---
 
 Cumae was the first Greek colony on the Italian mainland, founded in the 8th century BC by settlers from the island of Euboea, who chose this rocky promontory above the sea for its natural defenses. The city was enormously influential: the Cumaean alphabet was the ancestor of the Latin alphabet, and with it of essentially all modern European writing systems. By the time the Romans absorbed it, Cumae had been a major city for five centuries.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Baltrum_(v
 latitude: 53.728208
 loc_type: city
 longitude: 7.399482
-score: 0.49
+score: 7.38
+snippet: Tiny car-free East Frisian island of dunes, Wadden Sea flats, and a single
+  quiet village.
 title: Baltrum
 type: location
 ---

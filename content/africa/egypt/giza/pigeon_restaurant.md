@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Grilled Pigeon Restaurants
 type: poi
+score: 6.1
 ---
 
 Stuffed and grilled pigeon — hamam mashwi — is one of the quintessential dishes of Egyptian cuisine, and the restaurants near the Giza Plateau are among the best places in Cairo to eat it. The birds are stuffed with seasoned freekeh (green wheat) or rice, then grilled or fried whole and served with flatbread, salad, and tahini. The meat is darker and richer than chicken, with a slight gamey quality that Egyptian cooking counterbalances with spice and lemon.

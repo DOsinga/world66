@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.8133
 longitude: 126.1390
+score: 6.6
 ---
 
 Siargao has a well-developed surf instruction scene centred on General Luna and the breaks south of Cloud 9. The main beginner waves are at Jacking Horse and Stimpy's, about ten minutes' paddle from the Cloud 9 boardwalk. These breaks are forgiving reef breaks that produce long, rolling waves — ideal for learning on a longboard.

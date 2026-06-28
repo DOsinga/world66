@@ -7,6 +7,7 @@ tags:
 latitude: 19.5268
 longitude: -96.9249
 snippet: "Long-running casual restaurant a block from Parque Juárez serving daily Veracruz home-cooking menus"
+score: 6.4
 ---
 
 La Sopa has been a Xalapa fixture since the 1980s — a casual two-storey place on Callejón del Diamante half a block from Parque Juárez, with a daily *comida corrida* (set menu) of three or four courses for about the price of a Starbucks coffee in Mexico City.

@@ -6,7 +6,9 @@ done:
 latitude: -0.0805
 loc_type: city
 longitude: -78.416
-score: 0.34
+score: 5.8
+snippet: Quito-edge Ecuadorian town famous for hand-painted bread dough figurines
+  made in family workshops.
 title: Calderón
 type: location
 ---

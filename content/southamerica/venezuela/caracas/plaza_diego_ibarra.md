@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - el_silencio
   - sight
+score: 6.3
 ---
 
 The plaza directly between the two Centro Simón Bolívar towers, raised above an underground commercial concourse and connected to the Capitolio metro station. The plaza was conceived in the 1940s as the symbolic civic heart of mid-century Caracas — a sweeping modernist forecourt between the towers and the old colonial centre, with a long ornamental pool reflecting both.

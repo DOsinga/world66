@@ -1,4 +1,9 @@
 ---
+latitude: 38.9642
+longitude: 1.2601
+score: 6.2
+sources:
+- https://mapcarta.com/26227934
 tags:
 - beaches
 title: Port des Turrent

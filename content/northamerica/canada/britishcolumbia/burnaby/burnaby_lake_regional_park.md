@@ -8,6 +8,7 @@ latitude: 49.2425
 longitude: -122.9475
 sources:
   - https://en.wikipedia.org/wiki/Burnaby_Lake_Regional_Park
+score: 8.0
 ---
 
 Burnaby Lake is a freshwater lake in central Burnaby, and the regional park surrounding it is one of the best places in the Lower Mainland for wildlife watching. Great blue herons nest in the cottonwood forest at the lake's eastern end, beavers are active at dawn and dusk, and the reedy shoreline is excellent for birds. The rowing course on the lake's southern shore has hosted international competitions including events for the 1954 British Empire Games.

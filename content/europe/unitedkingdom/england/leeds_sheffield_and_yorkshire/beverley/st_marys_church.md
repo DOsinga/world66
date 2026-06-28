@@ -9,6 +9,7 @@ tags:
 - church
 snippet: "Medieval parish church with a painted nave ceiling and the rabbit said to have inspired Lewis Carroll"
 story: "On a column in the north choir aisle is a small fifteenth-century carving of a rabbit dressed as a pilgrim with a satchel. Local tradition claims Lewis Carroll, who visited Beverley in 1856, took it as the inspiration for the White Rabbit in Alice in Wonderland."
+score: 8.7
 ---
 
 A short walk north of the Minster, St Mary's is the kind of church that would be the headline sight in most towns. Begun in the twelfth century and largely rebuilt in the fifteenth, it has an exuberant west front, a fine central tower, and a painted nave ceiling depicting forty English kings — one of only a handful of such ceilings in the country.

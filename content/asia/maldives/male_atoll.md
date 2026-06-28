@@ -11,6 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buiobuione_Atollo_di_Kaafu
 image_license: CC BY-SA 4.0
 image_attribution: Buiobuione
 loc_type: region
+snippet: Central Maldivian atoll around Malé and the international airport, with resort islands reached by speedboat.
 ---
 
 Malé Atoll (officially North Malé Atoll, or Kaafu) is the most visited atoll in the Maldives and the natural starting point for any trip. Velana International Airport sits on Hulhulé Island within the atoll, a five-minute ferry from the capital. Most visitors pass through here at minimum, and many stay.

@@ -13,6 +13,7 @@ tags:
 - historic
 title: Cojines del Zaque
 type: poi
+score: 6.7
 ---
 
 The Cojines del Zaque are two large rounded stone slabs sitting on a small hill in the northern part of central Tunja, set in a small park. They are one of the few visible remnants of Hunza, the Muisca capital that stood here before the Spanish founded the city. Muisca astronomers used the stones to observe the sun and stars, marking solstice positions and other astronomical events on the rock surfaces.

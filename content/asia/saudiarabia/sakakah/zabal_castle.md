@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Zabal Castle was built in the 10th century on a volcanic rock outcrop that had been used as a defensive position for centuries before that. It was expanded by the Rashidi dynasty in the 19th century and was one of the last strongholds of traditional Arabian architecture in the north of the country. From its battlements you can see the date palm oases that have made the Al-Jawf region valuable since antiquity.
+score: 7.4
 ---
 
 A well-preserved mudbrick and stone castle on a rocky volcanic outcrop at the northern edge of Sakakah. Zabal Castle dates to the medieval Islamic period but was expanded and rebuilt multiple times, with the current structure largely dating from the 18th and 19th centuries. The castle dominates its hill and offers views over the surrounding oasis landscape and the city below.

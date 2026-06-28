@@ -3,12 +3,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.910748
 longitude: 12.476361
+score: 7.9
 snippet: Rome's grand northern gateway with twin churches and an Egyptian obelisk
 tags:
 - things_to_do
 - church
 - monument
 - square
+- pantheon_navona
 title: Piazza del Popolo
 type: poi
 ---

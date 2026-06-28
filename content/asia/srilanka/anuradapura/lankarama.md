@@ -7,6 +7,7 @@ tags:
   - sight
 title: Lankarama Stupa
 type: poi
+score: 7.3
 ---
 
 A modest white stupa from the 1st century BC, set within three concentric rings of stone columns that once supported a roof structure. Built by King Valagamba in a quiet wooded area west of the Abhayagiri complex, the Lankarama is smaller and quieter than the great dagobas but is one of the prettier views in the city.

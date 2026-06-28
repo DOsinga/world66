@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 56.6608
 longitude: 16.3560
+score: 6.5
 ---
 
 The Kalmar Art Museum (Kalmar Konstmuseum) occupies a purpose-built building in the old town and focuses primarily on Swedish art from the 19th century onward, with particular strength in work by artists connected to the southeast coast and the light conditions of the Baltic. The collection is manageable in size — a couple of hours at most — and the building is bright and well-designed.

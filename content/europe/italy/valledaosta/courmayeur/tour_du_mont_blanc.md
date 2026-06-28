@@ -13,6 +13,7 @@ story: >
   Italy, and Switzerland — in about seven to ten days on foot. The Italian section, passing
   through Courmayeur, is widely considered the most dramatic stretch: the path traverses the
   Grand Col Ferret at 2,537 metres with Mont Blanc towering directly overhead.
+score: 8.8
 ---
 
 The Tour du Mont Blanc is one of the great long-distance walks in Europe, and Courmayeur sits almost exactly at its halfway point on the Italian side. The trail circumnavigates the entire Mont Blanc massif over roughly 170 kilometres, passing through the French, Italian, and Swiss Alps in a loop that can be completed in seven to ten days. Courmayeur is the natural place to rest, resupply, and, if necessary, bail out or begin the circuit.

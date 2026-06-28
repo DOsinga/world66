@@ -1,6 +1,10 @@
 ---
+latitude: 25.33417
+longitude: 51.46638
+score: 3.2
 tags:
 - shopping
+- mall
 title: Landmark Plaza
 type: poi
 ---

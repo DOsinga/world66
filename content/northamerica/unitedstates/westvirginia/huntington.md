@@ -5,8 +5,10 @@ done:
 latitude: 38.41925
 loc_type: city
 longitude: -82.445154
-score: 0.33
+score: 5.78
 title: Huntington
+snippet: Ohio River city in western West Virginia, shaped by railroads, river trade,
+  and Marshall University.
 type: location
 ---
 

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 35.3553
 longitude: -119.0469
+score: 6.2
 ---
 
 The bar at Buck Owens' Crystal Palace is the most characterful place to drink in Bakersfield, and it doubles as a free look at the museum displays that line the walls. On Friday and Saturday nights, the bar fills up before the live country music starts and keeps filling. The crowd skews older and local — people who grew up with the Bakersfield Sound and treat this as their living room rather than a tourist attraction.

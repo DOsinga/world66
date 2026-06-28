@@ -14,6 +14,7 @@ story: >
   Cleopatra Selene — daughter of Cleopatra VII and Mark Antony — and together they
   turned Caesarea into a centre of Hellenistic learning. The portrait busts in the
   museum may include likenesses of both.
+score: 9.3
 ---
 
 The main reason most visitors come to Cherchell, and one of the best small archaeological museums in North Africa. The collection was assembled from excavations across the ancient city of Caesarea and includes marble statues, portrait busts, mosaic floors, coins, and funerary objects spanning several centuries of occupation.

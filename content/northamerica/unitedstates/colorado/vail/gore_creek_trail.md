@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6430
 longitude: -106.3950
+score: 7.1
 ---
 
 The Gore Creek Trail follows the creek that runs through the heart of Vail Valley, connecting the village to the surrounding wilderness. The section through town is paved and busy with strollers and cyclists; further east, the trail enters the White River National Forest and becomes a proper mountain path through stands of aspen and pine.

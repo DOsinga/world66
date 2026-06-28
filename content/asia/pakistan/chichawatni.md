@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chichawatni_railway_statio
 latitude: 30.531691
 loc_type: city
 longitude: 72.691405
-score: 0.25
+score: 4.42
+snippet: Punjabi market town beside irrigated fields and forest plantations on the
+  Lahore-Multan road.
 title: Chichawatni
 type: location
 ---

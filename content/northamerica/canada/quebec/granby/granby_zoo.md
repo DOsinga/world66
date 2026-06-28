@@ -11,6 +11,7 @@ story: >
   The Granby Zoo opened in 1953, founded by a local mayor named Horace Boivin who wanted to give the city a tourist attraction to rival the competition from larger Quebec cities. He personally imported the first animals. The zoo now has over 1,500 animals in natural-habitat enclosures — a long way from the concrete cages of its early years, though Boivin's entrepreneurial spirit is still visible in the attached water park, which opened in the 1980s and has become as big a draw as the animals themselves.
 sources:
   - https://en.wikipedia.org/wiki/Granby,_Quebec
+score: 8.6
 ---
 
 The Granby Zoo is the main reason most Quebeckers have heard of Granby. It is one of Canada's largest zoos, with more than 1,500 animals in natural-habitat enclosures spread across forested grounds on the edge of town. African savannah animals, large cats, primates, reptiles, birds of prey, and an aquatic section — there is enough here to fill a full day without rushing.

@@ -5,6 +5,7 @@ tags: [things_to_do, park]
 snippet: The grand seaside park on the southern shore, with the city observatory and embassy quarter
 latitude: 60.158056
 longitude: 24.955556
+score: 7.3
 ---
 
 The largest and most distinguished park in central Helsinki, laid out in the 1830s as a spa for visiting Russian aristocrats. The original spa building (Kaivohuone) is now a restaurant and summer club. The park slopes down to the southern shore, with views across the inner archipelago, and the embassy quarter occupies the streets immediately above.

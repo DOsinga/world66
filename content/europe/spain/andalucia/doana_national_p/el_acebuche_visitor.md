@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: El Acebuche was the location of Doñana's original captive breeding programme for the Iberian lynx, and some of the enclosures are still visible near the main building. The centre itself is named after the acebuche — the wild olive — the hardy scrubland tree that gives the surrounding landscape much of its character.
+score: 7.1
 ---
 
 El Acebuche is the main entry point to Doñana from the Matalascañas side, and the place where almost everything else starts. The guided 4x4 tours depart from here; the birdwatching hides at the adjacent lagoon are among the most productive in the park; and the visitor centre itself has clear, well-organised displays on the park's ecosystems, conservation history, and wildlife. It is free to enter, and the car park is large enough that it rarely fills, which cannot be said for El Rocío on a busy weekend.

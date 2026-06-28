@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 37.5662
 longitude: 22.7980
+score: 6.0
 ---
 
 Scattered around the old town, often built into walls or set behind iron grilles, are a dozen Ottoman public fountains, most dating from the second Turkish occupation (1715–1822). The largest is in Plapouta Square; smaller ones are tucked behind churches, on side streets, and at intersections where the slope of the rock made it easy to tap into spring water.

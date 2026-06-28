@@ -8,16 +8,18 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Diliff" class="ex
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sydney_Harbour_Bridge_night.jpg
 latitude: -24.776109
+loc_type: country
 longitude: 134.755
-score: 0.55
+quick_facts:
+  Born Overseas: 30%
+  Great Barrier Reef Length: 2,300 km
+  Indigenous Culture: 65,000+ years old
+  Population: 27 million
+score: 0.9
+snippet: Continent-nation of vast outback distances, ancient Indigenous cultures,
+  coastal cities, and extraordinary wildlife.
 title: Australia
 type: location
-quick_facts:
-  Population: "27 million"
-  Born Overseas: "30%"
-  Great Barrier Reef Length: "2,300 km"
-  Indigenous Culture: "65,000+ years old"
-loc_type: country
 ---
 
 Australia is the world's sixth-largest country and its only continent-nation — a place of extreme distances, extraordinary wildlife, and a culture that is at once deeply relaxed and quietly competitive. Most of it is empty. The population of 27 million clusters along the coastline, particularly the southeast, leaving vast interior regions to red desert, salt flats, and the occasional outback town.

@@ -1,200 +1,200 @@
 {
   "round": 1984,
-  "timestamp": "2026-04-13T16:00:13",
+  "timestamp": "2026-06-13T21:10:29",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Salt Cay",
-      "path": "northamerica/turksandcaicosislands/saltcay",
-      "prior_score": 1.9121,
-      "prior_variance": 0.309536,
-      "prior_n": 5
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 6.4756,
+      "prior_variance": 0.347237,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Tofo",
-      "path": "africa/mozambique/tofo",
-      "prior_score": -1.381,
-      "prior_variance": 0.311576,
-      "prior_n": 5
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 8.1438,
+      "prior_variance": 0.321554,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Tuoro sul Trasimeno",
-      "path": "europe/italy/umbria/tuoro_sul_trasimen",
-      "prior_score": -0.5319,
-      "prior_variance": 0.281343,
-      "prior_n": 5
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 5.1153,
+      "prior_variance": 0.309113,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Anzio",
-      "path": "europe/italy/lazio/anzio",
-      "prior_score": 0.0538,
-      "prior_variance": 0.433584,
-      "prior_n": 5
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 6.7176,
+      "prior_variance": 0.274388,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Ripoll",
-      "path": "europe/spain/catalonia/ripoll",
-      "prior_score": 0.8861,
-      "prior_variance": 0.313148,
-      "prior_n": 5
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.4662,
+      "prior_variance": 0.257739,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Azemmour",
-      "path": "africa/morocco/azemmour",
-      "prior_score": 0.2508,
-      "prior_variance": 0.253085,
-      "prior_n": 5
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 4.3126,
+      "prior_variance": 0.25409,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Nordingr\u00e5",
-      "path": "europe/sweden/the_high_coast/nordingr",
-      "prior_score": 1.203,
-      "prior_variance": 0.332666,
-      "prior_n": 5
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.7055,
+      "prior_variance": 0.2802,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Mu'a",
-      "path": "australiaandpacific/tonga/tongatapu/mua",
-      "prior_score": -3.1486,
-      "prior_variance": 0.325441,
-      "prior_n": 5
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 4.4083,
+      "prior_variance": 0.245339,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Bellingen",
-      "path": "australiaandpacific/australia/newsouthwales/bellingen",
-      "prior_score": 0.3283,
-      "prior_variance": 0.245304,
-      "prior_n": 5
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 4.4742,
+      "prior_variance": 0.206948,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Malvan",
-      "path": "asia/india/maharashtra/malvan",
-      "prior_score": -1.4069,
-      "prior_variance": 0.276279,
-      "prior_n": 5
+      "title": "Andorra la Vella",
+      "path": "europe/andorra/andorralavella",
+      "prior_score": 2.6104,
+      "prior_variance": 0.205243,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Esmeraldas",
-      "path": "southamerica/ecuador/esmeraldas",
-      "prior_score": -2.7844,
-      "prior_variance": 0.316588,
-      "prior_n": 5
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 1.2283,
+      "prior_variance": 0.26671,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "San Carlos (Sonora)",
-      "path": "northamerica/mexico/san_carlos_sonora",
-      "prior_score": -0.7698,
-      "prior_variance": 0.200546,
-      "prior_n": 6
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.6403,
+      "prior_variance": 0.235516,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "IJlst",
-      "path": "europe/netherlands/friesland/ijlst",
-      "prior_score": -2.5548,
-      "prior_variance": 0.12145,
-      "prior_n": 12
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 2.6422,
+      "prior_variance": 0.227329,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Laval",
-      "path": "europe/france/centre/loirevalley/laval",
-      "prior_score": 0.238,
-      "prior_variance": 0.253688,
-      "prior_n": 5
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 3.0884,
+      "prior_variance": 0.301065,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Rosario",
-      "path": "southamerica/argentina/rosario",
-      "prior_score": 0.779,
-      "prior_variance": 0.257865,
-      "prior_n": 6
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.97,
+      "prior_variance": 0.238919,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Goiania",
-      "path": "southamerica/brazil/goiania",
-      "prior_score": -1.9964,
-      "prior_variance": 0.275374,
-      "prior_n": 5
-    },
-    {
-      "rank": 17,
-      "title": "Armavir Marz",
-      "path": "europe/armenia/armavir_marz",
-      "prior_score": -4.0904,
-      "prior_variance": 0.275268,
-      "prior_n": 5
-    },
-    {
-      "rank": 18,
-      "title": "Thetford",
-      "path": "europe/unitedkingdom/england/thetfordnorfolk",
-      "prior_score": -3.4207,
-      "prior_variance": 0.33222,
-      "prior_n": 5
-    },
-    {
-      "rank": 19,
-      "title": "Bradford",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/bradford",
-      "prior_score": -2.454,
-      "prior_variance": 0.272411,
-      "prior_n": 5
-    },
-    {
-      "rank": 20,
-      "title": "Arcadia",
-      "path": "northamerica/unitedstates/florida/arcadia",
-      "prior_score": -5.4971,
-      "prior_variance": 0.244853,
-      "prior_n": 5
-    },
-    {
-      "rank": 21,
-      "title": "Hartford",
-      "path": "northamerica/unitedstates/connecticut/hartford",
-      "prior_score": -3.5866,
-      "prior_variance": 0.335395,
-      "prior_n": 5
-    },
-    {
-      "rank": 22,
-      "title": "Universities",
-      "path": "northamerica/canada/alberta/edmonton/universities",
-      "prior_score": -4.6556,
-      "prior_variance": 0.284521,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.1574,
+      "prior_variance": 0.23177,
       "prior_n": 6
     },
     {
+      "rank": 17,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.6796,
+      "prior_variance": 0.213922,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.8491,
+      "prior_variance": 0.23836,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 3.0466,
+      "prior_variance": 0.236684,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.4058,
+      "prior_variance": 0.217887,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.437,
+      "prior_variance": 0.247184,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 1.0737,
+      "prior_variance": 0.187114,
+      "prior_n": 8
+    },
+    {
       "rank": 23,
-      "title": "Mountain View",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/mountainvieuw",
-      "prior_score": -2.7143,
-      "prior_variance": 0.254452,
-      "prior_n": 5
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -1.3014,
+      "prior_variance": 0.250854,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Marawi City",
-      "path": "asia/philippines/marawi_city",
-      "prior_score": -6.3272,
-      "prior_variance": 0.475638,
-      "prior_n": 5
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -3.4936,
+      "prior_variance": 0.224892,
+      "prior_n": 6
     }
   ]
 }

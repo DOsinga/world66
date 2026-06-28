@@ -15,6 +15,7 @@ story: >
   queen's veil appears to flutter in stone.
 sources:
   - https://en.wikipedia.org/wiki/Pamplona_Cathedral
+score: 8.8
 ---
 
 The cathedral hides behind a stiff neoclassical facade added in the 18th century by the architect Ventura Rodríguez, but step through the entrance and the medieval interior opens up. The 14th and 15th-century Gothic cloister is the real prize: one of the finest in Europe, with delicate tracery in the arches and expressive carved figures in the corbels and keystones.

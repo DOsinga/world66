@@ -10,6 +10,7 @@ tags:
   - architecture
 story: >
   During the Nazi occupation of 1941–1945, the synagogue was looted and used as a prison for Jews, Roma, and opponents of the regime. Before the war, Sarajevo had about 14,000 Jewish residents — one of the largest Jewish communities in the Balkans. By 1945, more than 80% had been killed or had fled. The community today numbers in the hundreds.
+score: 7.2
 ---
 
 The Ashkenazi Synagogue on Marshal Tito Street is the larger of Sarajevo's two synagogues and now serves as a community centre and museum as well as a place of worship. The building, built in 1902 in a Moorish-inspired style, is one of the handsomest on the Austro-Hungarian boulevard.

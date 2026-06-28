@@ -10,8 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Foto_a%C3%A9rea_Blumenau.j
 latitude: -26.9194
 loc_type: city
 longitude: -49.0661
-score: 0.48
+score: 7.53
 title: Blumenau
+snippet: Santa Catarina city of deep German heritage, beer halls, and Itajaí-Açu valley
+  industry.
 type: location
 ---
 

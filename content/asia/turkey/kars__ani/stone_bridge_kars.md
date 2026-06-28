@@ -8,6 +8,7 @@ latitude: 40.612
 longitude: 43.089
 snippet: A medieval stone bridge over the Kars River, one of the oldest surviving structures in the city
 story: The Kars Stone Bridge predates the Russian city that now surrounds it by several centuries — it was likely built in the 14th century during the Georgian or early Ottoman period, and served as the main crossing point over the Kars River for travellers on the eastern Anatolian trade routes. Russian modernisation of the city left it largely intact, recognising its structural quality.
+score: 6.2
 ---
 
 The Stone Bridge over the Kars River is the oldest surviving structure in the modern city and a reminder that Kars existed as a significant settlement long before the Russians remade it in the 19th century. The bridge dates from approximately the 14th century and is built in the pointed-arch style common to medieval Anatolian bridge construction.

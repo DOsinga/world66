@@ -7,6 +7,7 @@ tags:
 - museum
 title: Kurdish Textile Museum
 type: poi
+score: 7.5
 ---
 
 The Kurdish Textile Museum sits inside the Erbil Citadel in a restored traditional house and displays a collection of textiles, carpets, kilims, and traditional clothing from across the Kurdish regions of Iraq, Iran, Turkey, and Syria. It is one of the better small museums in Iraqi Kurdistan — clearly curated, well-labelled in English, and genuinely informative about the regional variations in Kurdish weaving traditions.

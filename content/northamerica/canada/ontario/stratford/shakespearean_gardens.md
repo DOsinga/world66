@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 7.0
 ---
 
 A small formal garden on the south bank of the Avon, planted with the herbs and flowers mentioned in Shakespeare's plays. Each bed is labelled with the relevant quotation — rosemary for remembrance, rue, fennel, columbines — which is more charming than it sounds, especially if you have just seen a play.

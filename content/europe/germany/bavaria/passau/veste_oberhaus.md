@@ -12,6 +12,7 @@ snippet: "A medieval citadel above the old town with panoramic views of the thre
 story: >
   The Veste Oberhaus was built in 1219 by the prince bishops of Passau not as a fortress against foreign invaders but as a refuge from their own citizens — the townspeople of Passau repeatedly revolted against episcopal rule throughout the medieval period, and the bishop needed somewhere to retreat when they did.
   The castle was never taken by assault in eight centuries of its existence.
+score: 8.8
 ---
 
 The Veste Oberhaus is a large fortified complex on the wooded hill directly above Passau's old town, connected to it by a steep footpath (about 20 minutes up) or by a seasonal shuttle bus from the town centre. Built by the powerful prince bishops of Passau in the 13th century, it served as their stronghold and residence for over 500 years.

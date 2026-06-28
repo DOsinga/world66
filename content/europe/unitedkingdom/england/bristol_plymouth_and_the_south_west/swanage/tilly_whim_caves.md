@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5925
 longitude: -1.9575
+score: 6.8
 ---
 
 Tilly Whim Caves are not natural caves but a series of large square chambers cut into the cliff face below Anvil Point — the workings of a Purbeck stone quarry that operated from the 18th century into the early 19th. The stone was dressed and lowered straight out of the cliff into waiting boats below. The quarry has been closed to entry since a rockfall in 1976, but the openings and platforms in the cliff face are dramatic seen from the coast path above and from the sea.

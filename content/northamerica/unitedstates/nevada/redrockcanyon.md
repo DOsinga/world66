@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 36.1355
+loc_type: feature
 longitude: -115.4294
+score: 8.87
+snippet: Mojave Desert conservation area west of Las Vegas, known for red sandstone
+  formations and climbing routes.
 title: Red Rock Canyon
 type: location
-score: 0.68
-loc_type: feature
+image: redrockcanyon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Calico_basin_red_rock_cumulus_mediocris.jpg
+image_license: CC BY-SA 2.5
+image_attribution: Fred Morledge
 ---
 
 Red Rock Canyon National Conservation Area lies just 17 miles west of the Las Vegas Strip, a striking landscape of red and cream sandstone formations rising from the Mojave Desert. The 13-mile scenic loop drive is the easiest way to take it in, with pull-offs at viewpoints and trailheads along the way.

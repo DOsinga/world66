@@ -5,10 +5,12 @@ done:
 latitude: 41.8963
 longitude: 12.4904
 phone: +39 06 4746545
+score: 4.8
 snippet: Designer Italian fashion at up to half off
 tags:
 - shopping
 - shop
+- monti
 title: Discount System
 type: poi
 ---

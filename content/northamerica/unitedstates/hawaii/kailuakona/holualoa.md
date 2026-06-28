@@ -6,6 +6,7 @@ longitude: -155.9675
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Holualoa is a small artists' town on the slopes of Hualalai, about 1,400 feet above Kailua-Kona — close enough to the coast that the climb takes 15 minutes by car, but a different climate altogether. The temperature is 10 degrees cooler than the coast, morning clouds drift through, and the air smells of coffee blossoms and red ginger.

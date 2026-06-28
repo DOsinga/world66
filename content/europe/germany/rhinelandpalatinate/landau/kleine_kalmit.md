@@ -5,6 +5,7 @@ tags: [things_to_do, sight, outdoor, nature]
 latitude: 49.1862
 longitude: 8.0574
 story: "The Kleine Kalmit is a small hill rising from the Palatinate vineyards south of Landau, covered in the kind of dry limestone grassland that has almost disappeared from central Europe. The hill is a nature reserve because it supports plant communities — orchids, wild thyme, sun roses — that depend on the poor, warm, calcium-rich soil that vine-growing has traditionally maintained."
+score: 6.9
 ---
 
 The Kleine Kalmit is a gentle hill about four kilometres southwest of Landau, protected as a nature reserve for its exceptional dry grassland flora. The summit gives panoramic views over the southern Palatinate wine country — rolling hills covered in vine rows, with the Haardt Mountains rising to the west and the Rhine plain stretching east toward the Black Forest.

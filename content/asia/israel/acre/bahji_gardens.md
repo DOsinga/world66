@@ -13,6 +13,7 @@ story: >
   for Bahá'ís worldwide — they face the direction of Acre when they pray, much as
   Muslims face Mecca. His tomb at Bahji, just north of the city, is the holiest site
   in the Bahá'í world.
+score: 9.0
 ---
 
 A few kilometres north of Acre's old city, the Bahji estate is the holiest site in the Bahá'í faith — the shrine of Bahá'u'lláh, who was imprisoned in Acre by the Ottomans from 1868 until his death in 1892. The formal gardens surrounding the shrine are magnificent: geometric patterns of flowers, fountains, and cypress trees maintained to a standard that would impress Versailles.

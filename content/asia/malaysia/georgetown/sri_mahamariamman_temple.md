@@ -9,6 +9,7 @@ tags:
 - sight
 - temple
 - little_india
+score: 8.0
 ---
 
 The Arulmigu Sri Mahamariamman Temple is the oldest Hindu temple in Penang, founded in 1833 by Tamil immigrants and rebuilt in its present form in 1933. It sits at the heart of Little India on Queen Street and is dedicated to Mariamman, the South Indian mother goddess associated with rain, healing and protection. The 19th-century statue of Mariamman in the temple's inner sanctum is said to be encrusted with gold, silver, diamonds and emeralds.

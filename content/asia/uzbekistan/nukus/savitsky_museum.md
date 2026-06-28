@@ -10,6 +10,7 @@ story: >
   Igor Savitsky arrived in Karakalpakstan in the 1950s as an archaeologist and never really left. He began collecting Russian avant-garde paintings that had been banned and suppressed under Stalin — works that their owners kept hidden for fear of arrest. Savitsky acquired them for next to nothing, sometimes trading food for canvas. He died in 1984, having turned Nukus into the unlikely guardian of works that nowhere else in the Soviet Union would touch. Many of the artists whose paintings he saved had been executed or died in labour camps.
 sources:
   - https://en.wikipedia.org/wiki/Nukus_Museum_of_Art
+score: 9.5
 ---
 
 The Savitsky Museum — formally the State Museum of Arts of the Republic of Karakalpakstan — holds approximately 90,000 works, of which several thousand are Russian avant-garde paintings from the 1920s and 1930s. This is the world's second-largest collection of Russian avant-garde art after the Russian Museum in St. Petersburg, and a significant portion of it consists of works that exist nowhere else. The collection includes canvases by artists who were later shot or sent to the Gulag, and the paintings were considered dangerous enough that owning them could be fatal.

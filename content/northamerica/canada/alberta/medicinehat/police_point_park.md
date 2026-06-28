@@ -9,6 +9,7 @@ tags:
 snippet: A wooded river-bottom park with walking trails and a nature centre
 latitude: 50.0631
 longitude: -110.6664
+score: 8.0
 ---
 
 Police Point juts out into a meander of the South Saskatchewan River north of downtown. The bottomland here is cottonwood forest — old, gnarled trees that survive on the river's seasonal floods — with grassland on the higher benches and steep coulees climbing back up to the prairie. About fifteen kilometres of trail are laid out through the park, with maps at the trailheads.

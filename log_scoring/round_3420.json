@@ -1,0 +1,200 @@
+{
+  "round": 3420,
+  "timestamp": "2026-06-13T22:52:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.0997,
+      "prior_variance": 0.169772,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": 6.5226,
+      "prior_variance": 0.15919,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 6.2993,
+      "prior_variance": 0.143767,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_park",
+      "prior_score": 5.4269,
+      "prior_variance": 0.168971,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 1.7108,
+      "prior_variance": 0.253813,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.7975,
+      "prior_variance": 0.145388,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 5.2567,
+      "prior_variance": 0.172985,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 5.5474,
+      "prior_variance": 0.144614,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 4.8001,
+      "prior_variance": 0.128224,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 4.8282,
+      "prior_variance": 0.12491,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 2.743,
+      "prior_variance": 0.130564,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_score": 3.4701,
+      "prior_variance": 0.137349,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.7467,
+      "prior_variance": 0.109334,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -1.9108,
+      "prior_variance": 0.126112,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -1.814,
+      "prior_variance": 0.120313,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": -1.3904,
+      "prior_variance": 0.119495,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.6368,
+      "prior_variance": 0.151493,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -1.9785,
+      "prior_variance": 0.116913,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -3.243,
+      "prior_variance": 0.118631,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.0089,
+      "prior_variance": 0.140279,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -5.4173,
+      "prior_variance": 0.148223,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -4.84,
+      "prior_variance": 0.145346,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -7.8754,
+      "prior_variance": 0.204753,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -8.0358,
+      "prior_variance": 0.213759,
+      "prior_n": 10
+    }
+  ]
+}

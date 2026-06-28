@@ -12,6 +12,7 @@ story: >
   Linno Cave houses over 500,000 bats of more than 10 species — one of the largest bat colonies in Myanmar. The name means "bat cave" in Burmese. At dusk the bats emerge in a continuous stream, and local people gather both to watch and to catch bats for food using nets on long poles, a practice that has continued for generations.
 sources:
   - https://en.wikipedia.org/wiki/Linno_Cave
+score: 7.8
 ---
 
 Linno Cave, also known as the Bat Cave, is a limestone cave about 5 kilometres southwest of Hpa-an town, home to over 500,000 bats representing more than 10 species. The cave is not a pagoda — there are no Buddha images inside — but it is a significant natural site and the bat emergence each evening is spectacular.

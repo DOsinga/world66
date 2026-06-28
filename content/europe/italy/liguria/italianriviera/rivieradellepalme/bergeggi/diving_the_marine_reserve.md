@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 44.2360
 longitude: 8.4455
+score: 8.8
 ---
 
 The waters around the Isola di Bergeggi are among the best dive sites on the western Ligurian coast. The marine reserve status has been in place since 1985 and the difference is visible: rockfish, dentex, and bream are noticeably larger and less skittish here than on unprotected stretches of coast nearby.

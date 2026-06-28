@@ -7,6 +7,8 @@ done:
   location_cleanup: 2026-04-07
 score: 0.35
 loc_type: region
+snippet: Northern Plains state of Badlands, prairie emptiness, and Theodore Roosevelt
+  ranch history.
 ---
 
 North Dakota is one of the least-visited states in the United States, which is part of its appeal. The landscape ranges from the flat, fertile Red River Valley in the east to the rugged Badlands in the west, where the Missouri River cuts through eroded buttes and coulees. It is stark country, genuinely empty in places, and beautiful in a way that rewards patience.

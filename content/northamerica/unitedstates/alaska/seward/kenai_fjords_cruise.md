@@ -12,6 +12,7 @@ story: >
   glaciers. The park's Harding Icefield, which feeds more than 40 glaciers, is one of the largest 
   ice fields in the United States and the source of the tidewater glaciers that boats visit on the 
   day cruises from Seward.
+score: 9.5
 ---
 
 The day boat cruises from Seward into Kenai Fjords National Park are among the best wildlife experiences in Alaska. Full-day tours reach the outermost fjords where tidewater glaciers calve house-sized chunks of ice into the sea with a thunderous crash. En route, you will see humpback whales breaching, orca pods hunting, Steller sea lions hauled out on rocky outcrops, and colonies of puffins, kittiwakes, and murres nesting on sheer cliff faces.

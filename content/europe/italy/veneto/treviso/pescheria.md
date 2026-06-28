@@ -8,6 +8,7 @@ tags:
 latitude: 45.6671
 longitude: 12.2412
 story: "When 19th-century health regulations forced the fishmongers off the streets, the city built them an island in the middle of the Cagnan canal so the entrails could be flushed straight downstream. It still works that way today."
+score: 7.7
 ---
 
 Treviso's covered fish market sits on its own tiny island in the middle of the Cagnan canal, reached by short footbridges. Three rows of marble slabs under iron arcades fill with the morning catch — sea fish from the Adriatic and freshwater fish from the rivers around the city.

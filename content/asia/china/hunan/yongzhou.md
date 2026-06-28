@@ -4,6 +4,9 @@ done:
 latitude: 26.4515
 loc_type: city
 longitude: 111.5953
+score: 6.19
+snippet: Southern Hunan city linked to Tang writer Liu Zongyuan and the classical
+  'Eight Records of Yongzhou.'
 sources:
 - https://en.wikivoyage.org/wiki/Yongzhou
 title: Yongzhou

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.79441
 longitude: 11.31514
+score: 6.3
 ---
 
 Vincigliata stands on a wooded spur east of Fiesole, its crenellated tower visible through the trees as you approach along the Via Vincigliata. The original medieval stronghold dated from the 10th century but fell to ruin over centuries; what you see today is largely a 19th-century restoration undertaken by the English banker John Temple Leader, who bought the property in 1855 and spent decades rebuilding it as a neo-medieval fantasy complete with armour, tapestries, and period furniture. The result is eccentric and atmospheric.

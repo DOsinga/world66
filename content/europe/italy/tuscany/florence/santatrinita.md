@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 43.77
 longitude: 11.2509
+score: 7.8
 snippet: Gothic church with Ghirlandaio's Sassetti Chapel frescoes
 tags:
 - things_to_do
 - church
+- centro_storico
 title: Santa Trinita
 type: poi
 ---

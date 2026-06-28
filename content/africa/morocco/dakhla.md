@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dakhla,_Maroc.jpg
 latitude: 23.694066
 loc_type: city
 longitude: -15.943127
-score: 0.47
+score: 7.37
+snippet: Atlantic peninsula town in southern Morocco, known for Dakhla Lagoon and
+  steady kitesurfing winds.
 title: Dakhla
 type: location
 ---

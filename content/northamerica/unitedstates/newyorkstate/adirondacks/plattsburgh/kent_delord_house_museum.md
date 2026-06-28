@@ -13,6 +13,7 @@ tags:
 snippet: "1797 lakefront mansion occupied by British officers during the 1814 invasion — now a house museum"
 story: >
   When British forces occupied Plattsburgh in September 1814, General Sir George Prevost set up his headquarters in the Kent-Delord house, then owned by Hannah Delord. According to family tradition, when the British abandoned the town after losing the naval battle, they left behind a Wedgwood tea service and several pieces of military silver. The items are still on display in the upstairs parlour. The house was occupied continuously by the Delord family until 1928, when it was opened as a museum with the original furnishings intact.
+score: 8.2
 ---
 
 A handsome 1797 Federal-style lakefront mansion that has been a house museum since 1928 — and which preserves an unusually complete record of 130 years of one family's life. Henry Delord, the original owner, was a Saint-Domingue refugee from the Haitian Revolution who became a Plattsburgh merchant and was a member of the New York State Assembly. The interior is furnished as it stood in the 1820s–1850s, with the family's original silver, china, oil paintings, and library.

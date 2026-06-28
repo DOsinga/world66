@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.5181
 longitude: 35.4935
+score: 6.8
 ---
 
 A freestanding rock formation shaped, unmistakably, like a mushroom. Wind erosion has carved the softer base stone faster than the harder caprock above, leaving a broad, flat top balanced on an improbably narrow stem. It looks like it should topple at any moment, and it has looked that way for thousands of years.

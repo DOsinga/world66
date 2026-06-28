@@ -9,6 +9,7 @@ longitude: 15.6311
 snippet: "Falun's parish church, rebuilt in characteristic Swedish Baroque after the great fire of 1761"
 sources:
   - https://en.wikipedia.org/wiki/Kristine_Church,_Falun
+score: 6.3
 ---
 
 Kristine Church is the main parish church of Falun, named after Queen Christina of Sweden in whose reign it was originally built in the 1640s. The current building dates from the rebuilding after the great fire of 1761 that destroyed much of the city, and it is a fine example of Swedish Baroque church architecture, with a distinctive copper-clad tower — appropriate for a city built on copper wealth.

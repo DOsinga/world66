@@ -13,6 +13,7 @@ story: >
   birds. Historically Xingyun was a major fishery, but agricultural runoff has damaged water
   quality, and restoration efforts have been ongoing for years. The reed beds that fringe the
   southern shore are still productive migratory bird habitat.
+score: 6.2
 ---
 
 Xingyun Lake sits about 10 kilometres east of Fuxian Lake, separated by low hills, and the two make a natural pairing for a day of cycling or driving through the plateau landscape. Where Fuxian is long and narrow, Xingyun is roughly oval; where Fuxian is deep and clear, Xingyun is shallow (around 7 metres maximum) and warmer, with reedy margins that support bird life in numbers that Fuxian's open water cannot match.

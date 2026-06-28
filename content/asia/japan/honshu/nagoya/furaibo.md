@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.1648
 longitude: 136.9087
+score: 6.7
 ---
 
 Yamachan's main competition in the tebasaki contest — Furaibo opened in 1963, two years before Yamachan, and many Nagoyans will tell you their wings are better (more savoury, less sweet, drier finish). Founder Hideyoshi Wani's recipe involves a longer marinade and a higher-temperature fry, and a side of the house's chunky pickled cabbage. The chain has branches across Japan; the Sakae location is the original.

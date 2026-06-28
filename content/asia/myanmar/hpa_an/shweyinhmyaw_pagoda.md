@@ -10,6 +10,7 @@ story: >
   Shweyinhmyaw Pagoda appears to float on the Thanlwin River — it sits on a platform built over the water near the river bank, its white and gold towers reflecting in the surface below. At certain times of year when the river is high, the effect is particularly striking. The pagoda is reached by a wooden walkway from the river bank.
 sources:
   - https://en.wikipedia.org/wiki/Shweyinhmyaw_Pagoda
+score: 6.8
 ---
 
 Shweyinhmyaw Pagoda is built on a platform over the Thanlwin River at the edge of Hpa-an, its white towers rising from the water like a mirage. It is the most visually distinctive pagoda in the immediate vicinity of town — the floating-on-water effect makes it a favourite subject for photography, especially at sunrise and sunset when the colours are good.

@@ -9,6 +9,7 @@ tags:
   - nature
   - day_trip
 story: "Rugby sits inside the southern boundary of the Big South Fork National River and Recreation Area, 125,000 acres of sandstone gorge, hardwood forest, and white-water river. The Twin Arches — two enormous natural sandstone arches a few feet apart — are the largest of their kind east of the Mississippi."
+score: 8.8
 ---
 
 The Big South Fork National River and Recreation Area surrounds Rugby and gives the area its outdoor character. Day hikers head to the Honey Creek Loop or the short walk down to the Meeting of the Waters at the confluence of the Clear Fork and White Oak rivers, both reachable from trailheads within ten kilometres of the village. The Gentleman's Swimming Hole on the river was where the Rugby colonists swam.

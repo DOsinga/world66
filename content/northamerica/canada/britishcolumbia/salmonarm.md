@@ -8,7 +8,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:SalmonArmFromTappen.JPG
 latitude: 50.700506
 longitude: -119.279053
-score: 0.45
+score: 7.01
+snippet: Shuswap Lake town in British Columbia, known for houseboating and the Adams
+  River sockeye salmon run.
 title: Salmon Arm
 type: location
 loc_type: city

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.0630
 longitude: 31.2220
+score: 7.3
 ---
 
 Zamalek is an elegant residential island in the Nile — part of Gezira Island — that has been home to Cairo's expatriate community, diplomatic missions, and upper-class Cairenes for over a century. Its tree-lined streets, European-era apartment buildings, and riverside promenades feel distinctly different from the chaos of the mainland city.

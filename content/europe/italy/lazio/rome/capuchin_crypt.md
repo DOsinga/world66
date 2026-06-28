@@ -4,7 +4,9 @@ admission: €8.50
 latitude: 41.9058
 longitude: 12.4872
 opening_hours: Daily 09:00–19:00
-snippet: Five underground chapels decorated entirely with the bones of 4,000 Capuchin friars
+score: 7.0
+snippet: Five underground chapels decorated entirely with the bones of 4,000 Capuchin
+  friars
 story: The bones of approximately 4,000 Capuchin friars, collected between 1528 and
   1870, were arranged into intricate decorative patterns — arches, rosettes, and full
   skeletons in robes — by the friars themselves as a meditation on mortality. A placard
@@ -15,6 +17,7 @@ tags:
 - things_to_do
 - church
 - museum
+- pantheon_navona
 title: Capuchin Crypt
 type: poi
 ---

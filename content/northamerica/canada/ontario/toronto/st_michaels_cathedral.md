@@ -6,8 +6,10 @@ tags:
 - things_to_do
 - historic
 - church
+- garden_district
 title: St. Michael's Cathedral Basilica
 type: poi
+score: 7.4
 ---
 
 St. Michael's Cathedral Basilica, on Bond Street just east of Yonge, is Toronto's Roman Catholic cathedral and one of the best pieces of Victorian Gothic architecture in the city. Completed in 1848, it is built from Credit Valley sandstone with pointed arches, stained glass windows, and an interior that manages genuine grandeur despite its relatively modest footprint.

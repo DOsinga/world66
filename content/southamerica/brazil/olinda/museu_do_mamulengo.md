@@ -7,6 +7,7 @@ tags:
 latitude: -7.9994
 longitude: -34.8506
 snippet: Museum of Northeast Brazilian puppet theater with hundreds of folk figures
+score: 8.3
 ---
 
 Mamulengo is the traditional puppet theater of Pernambuco — a folk form with roots in both Portuguese glove puppetry and African performance traditions, developed over centuries in the rural Northeast. The Museu do Mamulengo, housed in a colonial building in the historic centre, holds one of the largest collections of mamulengo figures in Brazil: several hundred puppets representing the stock characters of the tradition, from the comic hero João Grilo to the devil, the plantation owner, and the police chief.

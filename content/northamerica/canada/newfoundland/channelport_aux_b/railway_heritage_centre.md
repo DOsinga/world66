@@ -13,6 +13,7 @@ story: >
   railway in North America to use steam locomotives in regular service. When it was shut down 
   in 1988 — replaced by a road-improvement deal with the federal government — Newfoundlanders 
   called it "the Bullet" and mourned its loss for years.
+score: 6.5
 ---
 
 The Railway Heritage Centre in Port aux Basques preserves the memory of the Newfoundland Railway, which ran along a unique narrow-gauge track (3 feet 6 inches) the entire 547 miles from St. John's to Port aux Basques until its closure in 1988. The railway was nicknamed "the Bullet" — somewhat ironically, given its leisurely speed — and its shutdown was a significant moment in Newfoundland's modern history.

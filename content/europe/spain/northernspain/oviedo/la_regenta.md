@@ -14,6 +14,7 @@ story: >
   follows Ana Ozores, trapped between a predatory priest and a cynical seducer. Clarín
   was an Oviedo university professor, and locals still debate which real buildings
   inspired which fictional ones.
+score: 6.7
 ---
 
 A bronze statue by Mauro Álvarez Fernández (1997) depicting Ana Ozores, the protagonist of Leopoldo Alas "Clarín's" novel La Regenta, standing near the cathedral that features so prominently in the book. She gazes out with the slightly melancholy expression that readers of the novel will recognise — Ana is one of the great tragic heroines of 19th-century European literature.

@@ -7,6 +7,7 @@ tags:
 latitude: -2.5125
 longitude: 140.6925
 snippet: WWII Allied landing beach, now a popular swimming spot
+score: 7.1
 ---
 
 "Base G" was the code-name for the US Sixth Army base established at this beach after the April 1944 landings, and the name has stuck — there is nothing else called Base G in town. The beach itself is a curving bay of pale sand about 5 km north of the centre, with a few warungs serving grilled fish and cold drinks at weekends.

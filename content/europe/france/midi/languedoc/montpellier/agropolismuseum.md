@@ -9,6 +9,7 @@ tags:
 - museum
 title: Agropolis Museum
 type: poi
+score: 3.8
 ---
 
 The Agropolis Museum was dedicated to the history of food and agriculture worldwide, run by the Agropolis scientific community on avenue d'Agropolis in Montpellier's northern university district. The museum permanently closed in 2010 due to funding cuts. The building still houses Agropolis International, a research association, but is no longer open to visitors.

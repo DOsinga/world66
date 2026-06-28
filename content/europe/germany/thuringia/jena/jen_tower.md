@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.9289
 longitude: 11.5846
+score: 7.6
 ---
 
 The JenTower is a 144-metre skyscraper that dominates Jena's skyline and represents a peculiarly Thuringian collision of GDR ambition with post-reunification capitalism. It was built in the 1970s as the headquarters of the VEB Carl Zeiss Jena combine — the nationalised optics giant — and at the time was the tallest building in East Germany outside of East Berlin. The cylindrical form and the oversized scale were unmistakably statements of socialist modernity.

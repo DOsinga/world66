@@ -3,10 +3,13 @@ address: 7 Old Compton Street, London W1D 5JE
 latitude: 51.512861
 longitude: -0.131572
 opening_hours: Mon–Sat 10am–11pm; Sun noon–9pm
-snippet: Tiny Soho bar modelled on Rome's Termini station bars — coffee by day, negronis by night
+score: 7.8
+snippet: Tiny Soho bar modelled on Rome's Termini station bars — coffee by day, negronis
+  by night
 tags:
 - bars_and_cafes
 - bar
+- soho
 title: Bar Termini
 type: poi
 url: www.bar-termini.com

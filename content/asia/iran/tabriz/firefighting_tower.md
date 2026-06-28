@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tabriz Firefighting Tower
 type: poi
+score: 5.8
 ---
 
 The Tabriz Firefighting Tower, locally called the Yangin Tower, was built in the early

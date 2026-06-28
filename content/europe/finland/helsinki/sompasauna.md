@@ -9,6 +9,7 @@ story: Sompasauna started in 2011 as a guerrilla project on an industrial shorel
   The city tried to demolish it more than once; it kept being rebuilt by volunteers
   and is now a tolerated, free, mixed sauna with no opening hours — bring your own
   wood for the stove.
+score: 8.0
 ---
 
 A volunteer-run, free, naked, mixed sauna on the waterfront in the Sompasaari district. Open at all hours. Bring your own firewood (or use what is on the pile), feed the stove, swim in the harbour between sessions. No staff, no booking, no door — the etiquette is to introduce yourself and to leave it cleaner than you found it.

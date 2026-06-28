@@ -6,6 +6,7 @@ longitude: -34.8452
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The Espaço Cultural José Lins do Rego is João Pessoa's main cultural complex, named after the Paraíba-born novelist José Lins do Rego, whose novels about the decline of the sugar plantation aristocracy in northeast Brazil are considered classics of Brazilian literature. The complex houses a cinema, theatre, exhibition galleries, a small planetarium, and event spaces — it's where you'll find the cultural life of the city concentrated under one roof.

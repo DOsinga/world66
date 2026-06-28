@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:CorumMuseum1.jpg
 latitude: 40.5499
 loc_type: city
 longitude: 34.9537
-score: 0.4
+score: 6.31
+snippet: North-central Turkish city known for roasted chickpeas and access to Hattusa,
+  Yazılıkaya, and Alacahöyük.
 title: Corum
 type: location
 ---

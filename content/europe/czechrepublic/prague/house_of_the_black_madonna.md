@@ -12,6 +12,7 @@ tags:
 - stare_mesto
 title: House of the Black Madonna
 type: poi
+score: 8.1
 ---
 
 The House of the Black Madonna (1912), designed by Josef Gočár, is the best surviving example of Czech Cubist architecture — a style unique to Bohemia that applied Cubist fragmentation not to paintings but to buildings. The facade is a grid of angular, crystalline surfaces that catch the light differently throughout the day.

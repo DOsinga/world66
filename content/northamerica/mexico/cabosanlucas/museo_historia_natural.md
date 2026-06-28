@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 22.8829
 longitude: -109.9146
+score: 6.4
 ---
 
 The Museum of Natural History — also known as the Museum of the Californias — is a small but earnest institution in the old town centre, housed in the building that served as Cabo's first elementary school in 1952. Its exhibits cover palaeobotany, geology, marine biodiversity, astronomy, and anthropology, with particular attention to the Pericú and Cochimí peoples who inhabited the Baja peninsula before Spanish colonisation.

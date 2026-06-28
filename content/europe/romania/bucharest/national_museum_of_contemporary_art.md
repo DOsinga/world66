@@ -1,13 +1,14 @@
 ---
 address: Strada Izvor 2-4, Bucharest
-latitude: 44.4280
-loc_type: feature
-longitude: 26.0870
+latitude: 44.428
+longitude: 26.087
+score: 7.4
 snippet: Romanian and international contemporary art in a wing of the Parliament Palace
 tags:
 - things_to_do
 - museum
 title: National Museum of Contemporary Art
+type: poi
 ---
 
 MNAC, as it is universally known, occupies the E4 wing of the Palace of the Parliament — accessed by its own entrance and a glass elevator bolted to the side of the building. The juxtaposition is deliberate: the most overbearing piece of communist architecture in the country now houses Romanian conceptual and contemporary art, much of it explicitly critical of the regime that built the place.

@@ -6,6 +6,7 @@ longitude: -3.9260
 tags:
   - bars_and_cafes
   - bar
+score: 6.3
 ---
 
 Calle Palma is the city's tapeo street: a narrow lane lined with old-school bars where ordering a small beer or vermouth gets you a free tapa, and the tradition is to bar-crawl one drink at a time. **Bar La Plata**, **Bar Pemán** and **El Resbalón** are local favourites, but pick whichever is busiest.

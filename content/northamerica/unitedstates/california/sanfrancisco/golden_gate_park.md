@@ -10,6 +10,7 @@ tags:
 - park
 title: Golden Gate Park
 type: poi
+score: 9.4
 ---
 
 Stretching over a thousand acres from the Haight to the Pacific Ocean, Golden Gate Park is San Francisco's answer to Central Park -- except bigger, wilder, and with bison. Yes, there is a buffalo paddock. The park is home to the de Young Museum, the California Academy of Sciences, the Conservatory of Flowers, the Japanese Tea Garden, and the San Francisco Botanical Garden.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "El Cedral was the first Spanish settlement on Cozumel, founded in 1847 by Maya refugees fleeing the Caste War on the mainland. The original 16th-century chapel was largely destroyed by US troops during World War II, when Cozumel served as a US air base."
+score: 5.8
 ---
 
 El Cedral is a small inland village in the south of the island, important less for what is there now than for what it represents. It was the first town established on Cozumel after centuries of abandonment, founded by refugees from the Caste War of Yucatán in 1847.

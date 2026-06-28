@@ -10,6 +10,7 @@ tags:
 - religious_sight
 title: Great Mosque of Djenné
 type: poi
+score: 9.8
 ---
 
 The Great Mosque of Djenné is the largest mud-brick structure in the world and the most famous example of Sudano-Sahelian architecture. The current building dates from 1907, but a mosque has stood on this raised platform since the 13th century, when the local ruler Koi Konboro converted to Islam and ordered the demolition of his palace to make way for it. Three tapering minarets dominate the eastern facade, each topped with an ostrich egg symbolising fertility and purity. The walls bristle with toron — palm-wood beams that serve as permanent scaffolding for the annual re-plastering.

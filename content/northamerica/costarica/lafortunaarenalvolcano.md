@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(c
 latitude: 10.4679
 loc_type: city
 longitude: -84.6427
+score: 9.27
+snippet: Costa Rican volcano town below Arenal, surrounded by hot springs, rainforest,
+  and lake views.
 title: La Fortuna & Arenal Volcano
 type: location
 ---

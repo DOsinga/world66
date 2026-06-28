@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 68.9914
 longitude: 33.0861
 snippet: "City park around a small lake, with the Cat Semyon statue and an oceanarium"
+score: 5.8
 ---
 
 A small natural lake on the northern edge of the city, Semyonovskoye is the closest thing Murmansk has to a city park. The surrounding grounds include the Oceanarium (the only one in the world inside the Arctic Circle, with performing seals), several playgrounds, a fairground, and a much-loved statue of a sailor's cat named Semyon — said to commemorate a real cat that walked home to Murmansk from Moscow.

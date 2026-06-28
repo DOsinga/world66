@@ -10,6 +10,7 @@ tags:
 neighbourhood: Dearborn
 title: Shatila Bakery
 type: poi
+score: 7.0
 ---
 
 Shatila is a Middle Eastern bakery on a scale not seen anywhere else in the country, with a long glass case of baklava in dozens of forms, knafeh, maamoul, ma'amoul, halva, French pastries, ice cream, and a full café. The Lebanese family that runs it has been at it since 1979. They ship across the United States, and a stop here is part of the standard Dearborn food day.

@@ -7,6 +7,7 @@ snippet: Chile's premier naval museum on Cerro Artillería
 tags:
 - things_to_do
 - museum
+score: 7.4
 ---
 
 Perched on Cerro Artillería with commanding views over the harbour, the Museo Naval y Marítimo is the best naval museum in Chile and one of the highlights of Valparaiso. The collection covers the Chilean Navy from its earliest days through the War of the Pacific, with detailed models, weapons, navigational instruments, uniforms, and personal effects of key figures like Arturo Prat. The building itself — a former naval school dating to 1893 — is handsome and well maintained.

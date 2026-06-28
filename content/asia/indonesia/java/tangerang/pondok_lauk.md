@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Pondok Lauk
 type: poi
+score: 4.8
 ---
 
 A clean and popular seafood restaurant right next to Tangerang Plaza, serving a good variety of Indonesian and Chinese food along with barbecue dishes.

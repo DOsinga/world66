@@ -3,10 +3,12 @@ address: 141 Bourke Street
 latitude: -37.8127
 longitude: 144.9692
 phone: +61 3 9654 7152
+score: 5.2
 snippet: Reliable Italian cafe on busy Bourke Street.
 tags:
 - eating_out
 - food_and_drink
+- cbd
 title: Centro Citta
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: 12.9993
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 One of the oldest and most atmospheric bars in Malmö, a genuine old-fashioned pub on Lilla Torg with dark wood panelling, beer steins on the wall, and the kind of lived-in patina that new bars try to fake and fail. The beer selection is decent, the prices fair, and the crowd a genuine mix of ages and types — tourists, locals, students, and regulars who have been coming since the 1980s.

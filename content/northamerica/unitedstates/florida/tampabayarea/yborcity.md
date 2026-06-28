@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_Ybor,_Ybor_City,_Ta
 latitude: 27.96
 loc_type: city
 longitude: -82.4412
-score: 0.46
+score: 7.27
+snippet: Tampa Latin quarter built on cigar factories, with brick balconies and revived
+  7th Avenue nightlife.
 title: Ybor City
 type: location
 ---

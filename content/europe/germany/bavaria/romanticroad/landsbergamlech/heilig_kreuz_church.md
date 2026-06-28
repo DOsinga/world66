@@ -8,6 +8,7 @@ tags:
 - church
 title: Heilig-Kreuz-Kirche
 type: poi
+score: 7.6
 ---
 
 The former Jesuit church of the Holy Cross sits on a small terrace above the old town, just inside the medieval walls. Built between 1752 and 1754, it is a deceptively plain barn from the outside, with a low domed crossing — but the interior carries a swirling Cosmas Damian Asam style ceiling fresco of the Glorification of the Cross.

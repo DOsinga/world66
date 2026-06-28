@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 54.023331
+loc_type: feature
 longitude: -2.145729
+score: 8.06
+snippet: Yorkshire Dales valley of limestone pavement, waterfalls, and the walking
+  village of Malham
 title: Malhamdale
 type: location
-score: 0.57
-loc_type: feature
 ---
 
 Malham itself is a delightful hamlet when it's allowed to be — which is to say, when it's not bursting at the seams with visitors. It has no church of its own; would-be worshippers and sightseers have to go to nearby Kirkby Malham. There is a National Park information centre and car park, and meals can be had at the Buck Inn or at a local café.

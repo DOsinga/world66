@@ -2,10 +2,11 @@
 title: "Museo de Arte Popular"
 type: poi
 snippet: "Folk art from across Mexico, in an Art Deco former fire station"
-tags: [things_to_do, museum]
+tags: [things_to_do, museum, centro_historico]
 address: "Revillagigedo 11"
 latitude: 19.4341
 longitude: -99.1454
+score: 7.9
 ---
 
 The Folk Art Museum opened in 2006 in a beautiful 1928 Art Deco building that had served the city as a fire station. The collection is one of the best surveys anywhere of Mexican folk and craft traditions: alebrijes (the brightly painted papier-mâché figures from Oaxaca), Talavera ceramics from Puebla, Huichol bead and yarn paintings, Catrina figures, and a constantly changing programme of temporary exhibitions devoted to single craft regions.

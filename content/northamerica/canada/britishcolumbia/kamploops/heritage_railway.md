@@ -8,6 +8,7 @@ snippet: Steam-locomotive excursion train pulling 1912 cars along the South Thom
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The **Kamloops Heritage Railway** runs short steam-train excursions out of the old CPR station on weekends from May to September, pulling a restored 1912 **CN 2141** locomotive — a 4-6-0 steam engine — and a small string of period passenger cars. The route runs along the south bank of the South Thompson River for about an hour each way.

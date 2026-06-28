@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Odd Fellows Hall
 type: poi
+score: 6.8
 ---
 
 The Odd Fellows Hall at 310–318 E Street is one of Old Town's most distinctive commercial buildings: a Second Empire structure with a classic mansard roof built in 1883, also known as the French Empire Mansard Building. It is among the best-preserved examples of the style in Northern California and sits in the heart of the historic district.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.2530
 longitude: 117.1070
 story: "The South Heavenly Gate (Nantianmen) sits at the top of the Eighteen Bends and was, in imperial cosmology, the point where mortals symbolically passed into the realm of heaven. The current gate dates from the Yuan dynasty in 1264 and was a landmark for sailors offshore in the Yellow Sea — visible on a clear day, despite being many days' travel from the coast."
+score: 8.0
 ---
 
 The South Heavenly Gate marks the top of the final great staircase and the entry to the summit ridge. The gate itself is a fortified Yuan-dynasty stone structure with three arches; passing through it brings you out onto Tianjie ("Heaven Street"), a flat paved alley lined with shops and small temples that runs along the spine of the mountain.

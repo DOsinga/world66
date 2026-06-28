@@ -8,6 +8,7 @@ tags:
 title: The White Cliffs
 type: poi
 story: The cliffs are not actually white all year round — they are exposed chalk that glows white in bright sunlight and turns grey in overcast weather, which perhaps explains why they seem most potent as a symbol to returning travellers seeing them from the sea. The seabirds nesting in the crevices include fulmars, which look like gulls from a distance but are oceanic birds more closely related to albatrosses.
+score: 9.4
 ---
 
 The chalk cliffs stretch along the coast on both sides of Dover, rising up to 110 metres and visible from across the Channel on a clear day. They have been a symbol of England — of arrival and departure, home and exile — for centuries, referenced by Shakespeare in King Lear and Vera Lynn in the song that became a wartime anthem.

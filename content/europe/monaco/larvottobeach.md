@@ -7,6 +7,7 @@ tags:
 - beach
 title: Larvotto beach
 type: poi
+score: 5.8
 ---
 
 Larvotto is Monaco's sole public beach, which means it gets crowded in high season with locals, hotel guests without private beach access, and day-trippers from France. That said, it is well maintained with showers, cabanas, restaurants, and shops along the promenade.

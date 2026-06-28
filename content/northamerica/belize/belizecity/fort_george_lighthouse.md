@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Fort George Lighthouse
 type: poi
+score: 6.1
 ---
 
 The Fort George Lighthouse stands at the northern tip of the peninsula that juts into the Caribbean, marking the entrance to Belize City's harbour. It is a photogenic white-painted structure and one of the city's most photographed landmarks, visible from the water taxi terminal and the Baron Bliss Memorial nearby.

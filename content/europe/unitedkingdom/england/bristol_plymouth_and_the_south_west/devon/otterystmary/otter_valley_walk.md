@@ -8,6 +8,7 @@ latitude: 50.7466
 longitude: -3.2724
 story: >
   The River Otter reaches the sea at Budleigh Salterton, 10 miles south of Ottery, and the final stretch of the valley from Ottery to the coast was the subject of a conservation campaign in the 1980s when a major road improvement scheme threatened to build through the flood meadows. The campaign failed initially but eventually succeeded in rerouting the road above the valley floor, preserving the stretch of river that now carries the East Devon Way long-distance footpath.
+score: 7.1
 ---
 
 The valley of the River Otter south of the town is one of the prettiest sections of the East Devon Area of Outstanding Natural Beauty. The river runs through water meadows and copses of oak and ash, with kingfishers on the river and otters (reintroduced to the Otter in the 1990s and now well established) visible in the early morning and late evening. The East Devon Way footpath follows the valley from Ottery south to the sea at Budleigh Salterton, a walk of about 10 miles.

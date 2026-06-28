@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:PT_TORREON3.jpg
 latitude: -37.997617
 loc_type: city
 longitude: -57.548208
-score: 0.54
+score: 7.79
+snippet: Argentina's Atlantic beach resort city, with long urban beaches and summer
+  crowds from Buenos Aires
 title: Mar del Plata
 type: location
 ---

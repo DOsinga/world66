@@ -4,10 +4,12 @@ latitude: 41.384259
 longitude: 2.180977
 opening_hours: Tue–Sat noon–4pm, 7–11pm; Sun noon–4pm; closed Mon
 price_range: €10–20
+score: 7.9
 snippet: Old cava bar near the Picasso Museum, unchanged since 1929
 tags:
 - eating_out
 - restaurant
+- el_born
 title: El Xampanyet
 type: poi
 ---

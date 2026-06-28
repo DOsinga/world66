@@ -4,6 +4,7 @@ type: poi
 latitude: 33.1071
 longitude: 6.0581
 tags: [things_to_do, shopping]
+score: 6.7
 ---
 
 Touggourt's covered souk is one of the liveliest places in town and a good introduction to Saharan trade goods. Dates are the headline — sacks of plump Deglet Nour, the local speciality, alongside the harder, drier varieties used for cooking. Spices, sheepskin, and rough wool blankets fill the smaller stalls.

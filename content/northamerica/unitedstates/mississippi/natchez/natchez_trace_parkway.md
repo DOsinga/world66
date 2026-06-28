@@ -9,6 +9,7 @@ tags:
 latitude: 31.5725
 longitude: -91.4005
 story: "The Natchez Trace follows a path worn by bison first, then Native Americans, then flatboat men who floated their goods downriver to Natchez and then had to walk 500 miles back to Tennessee — there was no upstream river travel before the steamboat era. The road was at its busiest in the 1800s and gradually fell out of use as river transport improved."
+score: 7.8
 ---
 
 The Natchez Trace Parkway starts just north of downtown and runs 444 miles through Mississippi, Alabama, and Tennessee to Nashville. The National Park Service manages it as a scenic corridor — no commercial traffic, 50 mph limit, frequent pull-offs at historic sites and natural areas — making it one of the most pleasant long-distance drives in the South.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.5900
 longitude: 65.7200
+score: 7.9
 ---
 
 On a ridge south of Kandahar, the Shrine of Baba Wali sits above the Arghandab River valley — one of the most fertile agricultural areas in Afghanistan, known for its pomegranate orchards, grape vines, and fruit groves. The shrine is a local pilgrimage site, but the main draw for visitors is the view: the valley stretches out below in a band of green cutting through the surrounding desert, remarkable in its contrast.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Permet_-_panoramio_(1).jpg
 latitude: 40.2335
 loc_type: city
 longitude: 20.3532
-score: 0.47
+score: 7.22
+snippet: Southern Albanian mountain town on the Vjosa, tied to nationalism and wartime
+  resistance.
 title: Permet
 type: location
 ---

@@ -14,6 +14,7 @@ story: >
   that he was a government official, not a professional physician; he took up
   medicine because a plague killed two-thirds of his clan, including two hundred
   members in less than a decade. The grief was the curriculum.
+score: 7.2
 ---
 
 The Memorial Temple of the Medical Sage honours Zhang Zhongjing (150–219 CE), the Han-dynasty physician whose systematic approach to diagnosis and treatment — based on careful observation of symptoms and a set of specific formulas — created the framework still used in traditional Chinese medicine practice. Zhang served as a local magistrate but devoted himself to medicine after plague devastated his family; his "Treatise on Cold Damage Disorders" codified approaches to fever diseases that remain in clinical use nearly two thousand years later.

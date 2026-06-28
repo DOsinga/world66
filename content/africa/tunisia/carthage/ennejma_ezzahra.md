@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Ennejma Ezzahra (D'Erlanger Palace)
 type: poi
+score: 8.3
 ---
 
 Ennejma Ezzahra — "the bright star" in Arabic — is the cliff-top villa built between 1912 and 1922 for the aristocrat and ethnomusicologist Baron Rodolphe d'Erlanger, perched at the southern end of Sidi Bou Said with sweeping views over the Bay of Tunis. The architecture is a deliberate fusion of Tunisian, Andalusian, and Italian elements — Moorish arches, Italian frescoes, blue-and-white tiling — designed by d'Erlanger himself as a setting for his art and music collections.

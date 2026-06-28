@@ -14,6 +14,7 @@ story: >
   and the Knights considered caring for the sick a religious obligation equal to
   fighting. When the Ottomans took the island in 1522, they converted it to a
   stable.
+score: 8.7
 ---
 
 The Archaeological Museum occupies the former Hospital of the Knights, a handsome Gothic building completed in 1489 around a large central courtyard. The collection covers the prehistoric, ancient, and early medieval periods on Rhodes and the surrounding Dodecanese islands, and it is one of the strongest regional collections in Greece.

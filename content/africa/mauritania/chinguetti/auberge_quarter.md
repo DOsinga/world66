@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: The lived-in side of Chinguetti, with most of the guesthouses and shops
+score: 5.8
 ---
 
 On the western side of the dry wadi that splits the town in two, the "new town" is where most of Chinguetti's 4,000 or so inhabitants live, work and run businesses. Most of the auberges are here — single-storey compounds with thatched shade structures in a courtyard, cushions on the floor, and traditional Mauritanian three-glass tea served constantly. A handful of small shops sell water, bread, mineral salts for the dehydration, and the occasional Berber rug or silver jewellery.

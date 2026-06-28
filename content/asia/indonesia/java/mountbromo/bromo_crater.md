@@ -15,6 +15,7 @@ story: >
   fruit, rice, livestock, and even money are thrown into the crater as offerings.
   Local people sometimes dive into the crater mouth to retrieve the offerings,
   which are considered lucky regardless of what they passed through to get there.
+score: 9.0
 ---
 
 The crater of Bromo is reached from the caldera floor by a concrete staircase of 250 steps cut directly into the side of the volcano. The climb from the base takes 15–20 minutes. At the top, the crater rim is a narrow path with a rope railing on the outer edge and the active caldera below — belching white sulphur smoke, occasionally roaring, sometimes quiet. The smell is intense; bring a mask or cover your nose and mouth.

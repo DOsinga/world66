@@ -12,6 +12,7 @@ tags:
   - odunpazari
 neighbourhood: Odunpazarı
 story: "The Kurşunlu complex was commissioned by the grand vizier Çoban Mustafa Pasha and designed by Acem Ali, the chief Ottoman architect who taught the young Mimar Sinan. Pieces of Sinan's later mature style — the carefully proportioned domed spaces, the integrated courtyard — are arguably in embryo here, in the work of his teacher."
+score: 8.0
 ---
 
 The Kurşunlu Mosque ("lead-roofed mosque") sits at the foot of the Odunpazarı slope and is the most important historic mosque in Eskişehir. Built in 1525 by Acem Ali — the chief Ottoman architect who taught Mimar Sinan — it is part of a small külliye (complex) that originally included a madrasa, soup kitchen, and caravansarai. Several of those secondary buildings still stand and now house museums.

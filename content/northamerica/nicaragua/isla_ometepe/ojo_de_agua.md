@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "The spring is fed from an underground network running off the slopes of Volcán Maderas, and the water is said to be mineralised enough to take ten years off your age. Locals point to elderly residents and credit Ojo de Agua, which is at minimum a more entertaining explanation than genetics."
+score: 7.3
 ---
 
 Ojo de Agua is the island's natural swimming pool — a spring-fed pond of cool, clear water set among trees on the isthmus between the two volcanoes. The water is genuinely lovely: cold enough to wake you up, clean enough to drink, and deep enough to swim properly. There are rope swings, a small zipline across the pool, hammocks strung between palms, and a simple kitchen for fish and beer.

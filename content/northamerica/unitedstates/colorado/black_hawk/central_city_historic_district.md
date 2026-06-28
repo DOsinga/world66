@@ -11,6 +11,7 @@ story: >
   When gold was first found in Gregory Gulch in 1859, Black Hawk and Central City 
   exploded from nothing into the richest square mile on earth — a phrase that 
   appeared in contemporary newspaper accounts within two years of the discovery.
+score: 8.0
 ---
 
 The Central City/Black Hawk Historic District is a National Historic Landmark covering the twin towns that grew out of the 1859 Gregory Gulch gold strike. Victorian stone and brick buildings from the 1870s and 1880s survive along the steep, narrow streets of Central City, which has preserved its character better than Black Hawk. The elaborate facades tell the story of a place that once had more opera houses per capita than anywhere else in Colorado.

@@ -8,6 +8,7 @@ tags:
 title: Hull New Theatre
 type: poi
 snippet: "Edwardian theatre on Kingston Square, the main touring venue for opera, ballet, and West End shows"
+score: 6.5
 ---
 
 Hull New Theatre opened in 1939 in a conversion of the Assembly Rooms on Kingston Square. The original auditorium is preserved behind a major modern refit, completed in 2017, that gave the building a glassy new foyer and improved technical facilities. The annual programme leans on touring productions — Opera North and the Royal Ballet are regular visitors — interspersed with West End musicals and the long-running pantomime.

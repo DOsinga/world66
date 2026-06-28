@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Kurhaus
 type: poi
+score: 8.1
 ---
 
 The Kurhaus is the grand 1885 spa hotel that anchors the centre of the Scheveningen boulevard. The exterior is in heavy Neo-Renaissance brick and stone, capped with a copper dome; the central hall, the Kurzaal, has a stunning painted ceiling and a glass cupola visible from the lobby. It still operates as a hotel (now part of the Steigenberger chain), but you do not need to be a guest to walk in, sit under the cupola for tea, or admire the ballroom.

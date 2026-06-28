@@ -5,7 +5,9 @@ done:
 latitude: 54.1509
 loc_type: city
 longitude: -4.4806
-score: 0.5
+score: 7.51
+snippet: Isle of Man capital wrapped around a bay, known for its Victorian promenade
+  and horse-drawn trams.
 title: Douglas
 type: location
 ---

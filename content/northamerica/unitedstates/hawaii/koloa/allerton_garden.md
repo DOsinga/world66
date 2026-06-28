@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.88574
 longitude: -159.49251
+score: 8.6
 ---
 
 Two adjacent botanical gardens operated by the National Tropical Botanical Garden make up one of the finest plant collections in the Pacific. McBryde Garden is the larger research garden, accessible by self-guided tour, with an enormous collection of palms, Hawaiian native species, and rare tropical plants including many endangered species. Allerton Garden, immediately to the south, was developed as a private estate garden by the Allerton family in the 1930s-70s and is only accessible on a guided tour — the tour is well worth taking.

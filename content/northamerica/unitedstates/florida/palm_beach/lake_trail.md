@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, walk, nature]
 latitude: 26.7097
 longitude: -80.0445
+score: 8.1
 ---
 
 The Lake Trail is a paved path running along the Lake Worth Lagoon side of Palm Beach for about 5 miles (8 km), from Phipps Ocean Park in the south to Inlet Drive in the north. It is one of the few genuinely egalitarian things about Palm Beach: free, open to everyone, and offering views of the town's residential architecture from the lagoon side.

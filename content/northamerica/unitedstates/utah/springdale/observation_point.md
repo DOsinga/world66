@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 700-metre climb to a viewpoint above Angels Landing
+score: 8.9
 ---
 
 Observation Point sits 200 metres higher than Angels Landing and looks straight down on it. The traditional approach was a long, steep eight-mile hike from the canyon floor at Weeping Rock — but a series of rockfalls have closed that trail indefinitely. The currently open route is a back-door approach from the East Rim via the East Mesa Trailhead, off Highway 9 outside the park: a much gentler seven-mile round trip across the plateau, with the dizzying view as a reward.

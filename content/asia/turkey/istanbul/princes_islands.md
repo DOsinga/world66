@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8730
 longitude: 29.0860
+score: 8.6
 ---
 
 Nine islands in the Sea of Marmara, 12 km from the Istanbul waterfront, reached by a 45–60 minute ferry from Kabataş or Bostancı. The four largest — Büyükada, Heybeliada, Burgazada, and Kınalıada — are the destinations. No private cars are allowed; transport is by horse-drawn carriage, bicycle, or foot, giving the islands a pace that feels nothing like the city you left an hour ago.

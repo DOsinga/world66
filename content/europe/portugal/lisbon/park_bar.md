@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bairro_alto
   - bar
+score: 6.1
 ---
 
 A rooftop bar on the top floor of a multi-storey car park in Bairro Alto, reached by taking a lift up through the car park. The terrace looks out over the rooftops toward the Tagus and is one of the best sunset spots in the city. The bar serves cocktails and cold beers; the mood is casual and the crowd young and mixed.

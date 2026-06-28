@@ -13,6 +13,7 @@ story: >
   late 19th and early 20th centuries this secluded cove was the preferred bathing spot
   for the city's professional class, who valued its privacy. It is still considerably
   less crowded than Bačvice.
+score: 7.1
 ---
 
 Kašjuni is the best beach within the city of Split — a secluded pebble cove on the south side of Marjan Hill with clear blue-green water and a pine canopy that provides natural shade. It is reached by a 20-minute walk from the western edge of the old town, following the Šetalište Ivana Meštrovića around the base of Marjan and then descending through the pine trees on the Marjan path.

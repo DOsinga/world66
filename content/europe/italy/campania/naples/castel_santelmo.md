@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.8504
 longitude: 14.2271
+score: 8.3
 ---
 
 A star-shaped fortress at the top of the Vomero hill, dominating the city's skyline. Built by the Spanish viceroys in the sixteenth century using the local yellow tufa, the castle served as the main military stronghold of the city for centuries and has been used as a prison, an administrative building, and a barracks. Today it functions as a cultural space hosting exhibitions.

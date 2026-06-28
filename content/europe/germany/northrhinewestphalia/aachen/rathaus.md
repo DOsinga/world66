@@ -13,6 +13,7 @@ story: >
   crown, orb, and sword — the originals are in Vienna. Each year the Charlemagne Prize, awarded
   to figures who advance European unity, is presented here.
 snippet: Gothic-Renaissance town hall built on foundations of Charlemagne's palace
+score: 8.4
 ---
 
 Aachen's town hall stands on the northern part of the former Carolingian palace complex, directly attached to the Dom. The building was constructed in the early 14th century and extended over the following centuries, with an imposing Gothic facade on the market square side. The first floor holds the Coronation Hall, decorated with large 19th-century frescoes by Alfred Rethel depicting scenes from Charlemagne's life — bombastic, detailed, and surprisingly gripping if you give them time.

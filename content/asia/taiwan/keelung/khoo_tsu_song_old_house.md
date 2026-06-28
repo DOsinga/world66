@@ -5,6 +5,7 @@ latitude: 25.1274
 longitude: 121.7441
 snippet: "Well-preserved Japanese colonial-era merchant mansion in the old downtown"
 tags: [things_to_do, sight, history]
+score: 7.5
 ---
 
 The Khoo Tsu-song Old House is one of the better-preserved examples of Japanese colonial architecture remaining in Keelung. Built in the early twentieth century for a prosperous merchant family of Hoklo Chinese heritage, the house blends the Japanese colonial civic style with traditional southern Chinese spatial arrangements. The exterior retains its original facade with period details largely intact, making it stand out conspicuously among the surrounding postwar buildings.

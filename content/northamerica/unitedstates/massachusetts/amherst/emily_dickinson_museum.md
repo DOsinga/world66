@@ -10,6 +10,7 @@ latitude: 42.3761
 longitude: -72.5144
 story: >
   Dickinson wrote nearly 1,800 poems in the small upstairs bedroom on the south side of the Homestead, most of them on scraps of paper later sewn together into hand-made *fascicles*. Only about ten were published in her lifetime. The room is preserved with her writing desk, the little white dress she wore daily, and a basket she used to lower notes down to children playing in the garden.
+score: 8.8
 ---
 
 The Emily Dickinson Museum is two adjacent 19th-century houses: the **Homestead**, where the poet was born in 1830 and lived for most of her life, and **the Evergreens** next door, where her brother Austin lived with his wife Susan. Both have been preserved with their original furnishings, including remarkable original wallpapers, and the gardens that Dickinson loved have been replanted with the species she grew.

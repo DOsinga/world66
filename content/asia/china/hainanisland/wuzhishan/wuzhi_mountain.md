@@ -10,6 +10,7 @@ latitude: 18.8855
 longitude: 109.6781
 story: >
   The mountain's name means "Five-Finger Mountain" — five roughly equal summits visible from the coastal plains that the Li people have given significance in their oral traditions for centuries. The highest peak at 1,867 metres is Hainan's highest point, and the cloud forest that covers the upper slopes hosts species found nowhere else on earth, including several endemic birds that were only formally described in the past two decades.
+score: 8.8
 ---
 
 Wuzhi Mountain is the highest peak in Hainan at 1,867 metres and the dominant feature of the island's central highlands. The Wuzhi Mountain National Nature Reserve that surrounds it protects one of China's most biodiverse tropical forest ecosystems — the rainforest here receives over 2,000mm of rain annually and supports an exceptional density of endemic species, including Hainan gibbons, Hainan black-crested bulbuls, and Hainan partridges.

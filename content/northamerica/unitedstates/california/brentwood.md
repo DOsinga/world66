@@ -2,16 +2,17 @@
 done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-05-23'
+image: brentwood.jpg
+image_attribution: Josh Felise jfelise
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Smith_Family_Farms,_Brentwood,_United_States_(Unsplash).jpg
 latitude: 37.9318
 loc_type: city
 longitude: -121.696
-score: 0.34
+score: 5.61
+snippet: East Bay farm town known for u-pick orchards and sweet corn near Mount Diablo.
 title: Brentwood
 type: location
-image: brentwood.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Smith_Family_Farms,_Brentwood,_United_States_(Unsplash).jpg
-image_license: CC0
-image_attribution: Josh Felise jfelise
 ---
 
 Brentwood sits at the eastern edge of Contra Costa County, about an hour's drive from San Francisco, where the Sacramento-San Joaquin Delta meets the foothills of Mount Diablo. It is, at its core, a farm town — and a good one. The surrounding flatlands produce some of the best sweet corn in the state, along with stone fruits, berries, and vegetables that most Bay Area residents only encounter in supermarkets.

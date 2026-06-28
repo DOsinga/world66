@@ -1,0 +1,200 @@
+{
+  "round": 2841,
+  "timestamp": "2026-06-13T22:11:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_score": 9.3209,
+      "prior_variance": 0.248219,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 6.9932,
+      "prior_variance": 0.178029,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 7.3562,
+      "prior_variance": 0.185324,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_score": 6.7368,
+      "prior_variance": 0.177476,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 6.4054,
+      "prior_variance": 0.182837,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 7.318,
+      "prior_variance": 0.176816,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 4.3004,
+      "prior_variance": 0.218188,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 5.458,
+      "prior_variance": 0.198567,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 3.8319,
+      "prior_variance": 0.175197,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 5.1433,
+      "prior_variance": 0.16116,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 3.6217,
+      "prior_variance": 0.19164,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 3.9323,
+      "prior_variance": 0.173579,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 4.3053,
+      "prior_variance": 0.179753,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.3917,
+      "prior_variance": 0.159102,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 3.6691,
+      "prior_variance": 0.147598,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 4.0529,
+      "prior_variance": 0.179791,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors",
+      "prior_score": 3.1588,
+      "prior_variance": 0.162851,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 3.1176,
+      "prior_variance": 0.158273,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 3.4308,
+      "prior_variance": 0.156039,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 3.9693,
+      "prior_variance": 0.150113,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 3.0476,
+      "prior_variance": 0.157197,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.061,
+      "prior_variance": 0.166627,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.9494,
+      "prior_variance": 0.154432,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": -0.0568,
+      "prior_variance": 0.156231,
+      "prior_n": 10
+    }
+  ]
+}

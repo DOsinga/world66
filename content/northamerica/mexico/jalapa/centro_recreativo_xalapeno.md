@@ -8,6 +8,7 @@ tags:
 latitude: 19.5275
 longitude: -96.9216
 snippet: "Restored 19th-century social club now housing exhibition galleries and a cinema"
+score: 7.2
 ---
 
 A short walk east of [Parque Juárez](/northamerica/mexico/jalapa/parque_juarez), the Centro Recreativo Xalapeño is one of the more handsome surviving nineteenth-century buildings in the city — a Belle Époque social club with cast-iron balconies and a long tiled hall. After decades as a private club it was acquired by the state in the 1990s and turned into a cultural centre.

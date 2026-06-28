@@ -15,6 +15,7 @@ story: >
   downtown taproom into a production brewery still headquartered in Eureka.
 sources:
   - https://en.wikipedia.org/wiki/Lost_Coast_Brewery
+score: 5.9
 ---
 
 Lost Coast Brewery on 4th Street is the best-known craft brewery in Humboldt County, with a taproom in Old Town where the full range of their beers is available alongside pub food. The flagship Great White is a light, hazy wheat beer well suited to the California summer, but the seasonal releases and the darker ales are worth exploring. The taproom has a relaxed, friendly atmosphere — not a tourist trap but a genuine neighbourhood bar that happens to be one of Eureka's most popular.

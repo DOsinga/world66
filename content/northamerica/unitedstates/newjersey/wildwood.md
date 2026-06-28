@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fantasy_Motel--Wildwood,_N
 latitude: 38.9918
 loc_type: city
 longitude: -74.8148
-score: 0.46
+score: 6.99
+snippet: Classic Jersey Shore boardwalk town with free wide beaches, amusement piers,
+  and Doo Wop motels.
 title: Wildwood
 type: location
 ---

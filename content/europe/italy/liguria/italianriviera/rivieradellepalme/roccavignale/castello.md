@@ -11,6 +11,7 @@ tags:
 - sight
 - castle
 story: The castle dominates a steep hill above the Bormida valley and once controlled the route from Savona to Ceva, the only practical road between the Ligurian coast and Piedmont in this area. It was sacked in 1796 by French forces during Napoleon's Italian campaign and never restored; the burned village below was rebuilt, but the castle was left as ruins.
+score: 6.8
 ---
 
 The Castello di Roccavignale stands on a hill above the village, a trapezoidal walled enclosure with four square towers at its corners. It was built by the Del Carretto marchesi in the 12th or 13th century, passed to the marchesi of Monferrato in the 14th, and was finally absorbed into the Kingdom of Savoy in 1714 as an imperial fief.

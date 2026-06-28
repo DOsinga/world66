@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%D5%8D%D6%87%D5%A1%D5%B6%D
 latitude: 40.5644
 loc_type: city
 longitude: 44.9389
-score: 0.55
+score: 7.93
+snippet: Armenian monastery on Lake Sevan's peninsula, once isolated on an island
+  of penitential monks
 title: Sevanavank
 type: location
 ---

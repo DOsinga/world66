@@ -5,6 +5,7 @@ snippet: Small university botanical garden on the northern edge of the city
 tags: [things_to_do, sight, garden, park]
 latitude: 42.3692
 longitude: 14.1451
+score: 5.6
 ---
 
 The Giardino dei Semplici, also called the Orto Botanico dell'Università D'Annunzio, is a modest botanical garden run by the local university on the northern edge of Chieti. It is laid out in the classic "garden of simples" style, with beds of medicinal and useful plants alongside a small arboretum.

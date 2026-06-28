@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The building is made of etched glass panels that glow from within at night, making it look like a lantern beside the lake. Architect Peter Zumthor designed it so that natural light filters through the glass facade and diffuses down through each floor — there are no windows in the conventional sense, only translucent walls.
+score: 8.4
 ---
 
 The Kunsthaus Bregenz (KUB) is one of the most architecturally striking museums in Austria. Designed by Peter Zumthor and opened in 1997, the building is a cube of etched glass and concrete that sits at the edge of the lake, glowing softly in the evening. Zumthor won the Pritzker Prize partly on the strength of this design.

@@ -1,5 +1,9 @@
 ---
-snippet: A social housing estate covered in trompe-l'oeil murals depicting Chartres through the centuries
+latitude: 48.4598
+longitude: 1.4953
+score: 6.2
+snippet: A social housing estate covered in trompe-l'oeil murals depicting Chartres
+  through the centuries
 tags:
 - things_to_do
 - sight

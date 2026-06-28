@@ -7,6 +7,7 @@ tags:
 latitude: 32.7299
 longitude: -117.1506
 snippet: Hands-on science museum with an IMAX dome, in the heart of Balboa Park
+score: 6.8
 ---
 
 The Fleet Science Center sits in Balboa Park near the Prado, in a 1973 building updated several times since. The museum is science-focused and interactive — most exhibits are hands-on, aimed at general audiences rather than specialists. The permanent collection covers physics, earth science, and technology; the temporary exhibits rotate frequently and are often stronger than the permanent galleries.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 6.3
 ---
 
 Higginson Park is Marlow's main green space, stretching from the high street down to the river between the bridge and the lock. It is named after General Sir George Higginson, a local benefactor who lived to the age of 100. The park has open lawns, mature trees, a children's playground, and a bandstand, and on summer days it fills with families and picnickers.

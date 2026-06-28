@@ -1,0 +1,200 @@
+{
+  "round": 4715,
+  "timestamp": "2026-06-14T00:35:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 4.3821,
+      "prior_variance": 0.094434,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 5.2778,
+      "prior_variance": 0.099011,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 2.8711,
+      "prior_variance": 0.099774,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.3473,
+      "prior_variance": 0.102604,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 1.2886,
+      "prior_variance": 0.103709,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderness_area",
+      "prior_score": 2.0075,
+      "prior_variance": 0.080951,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 1.5015,
+      "prior_variance": 0.097219,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_score": 5.7033,
+      "prior_variance": 0.104525,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Jericho",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": 0.0665,
+      "prior_variance": 0.095914,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_score": -1.5311,
+      "prior_variance": 0.118782,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.277,
+      "prior_variance": 0.081658,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Taranto",
+      "path": "europe/italy/puglia/taranto",
+      "prior_score": 0.5714,
+      "prior_variance": 0.088762,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.2331,
+      "prior_variance": 0.095242,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -1.9983,
+      "prior_variance": 0.117441,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 1.3479,
+      "prior_variance": 0.094484,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_score": 0.7741,
+      "prior_variance": 0.09792,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.4126,
+      "prior_variance": 0.088249,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -0.388,
+      "prior_variance": 0.092325,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 0.3118,
+      "prior_variance": 0.086364,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -0.5259,
+      "prior_variance": 0.098944,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -1.0974,
+      "prior_variance": 0.090456,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.7048,
+      "prior_variance": 0.09802,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -1.9967,
+      "prior_variance": 0.076812,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -5.5373,
+      "prior_variance": 0.100645,
+      "prior_n": 15
+    }
+  ]
+}

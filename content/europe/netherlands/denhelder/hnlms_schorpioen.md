@@ -10,6 +10,7 @@ story: >
 title: HNLMS Schorpioen
 type: poi
 snippet: 1860s iron-hulled monitor — the oldest surviving Dutch warship, moored at the Marinemuseum
+score: 8.3
 ---
 
 The HNLMS Schorpioen is the oldest surviving Dutch warship and one of the most unusual vessels in any European naval museum. Launched in France in 1868, she is a monitor-type ironclad: a low-profile armoured warship with a rotating gun turret, designed to operate in shallow coastal waters. The combination of iron armour, steam propulsion, and a sailing rig places her squarely in the experimental years of the industrial naval revolution.

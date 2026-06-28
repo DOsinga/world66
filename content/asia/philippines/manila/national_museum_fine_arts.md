@@ -13,6 +13,7 @@ story: >
   studying in Europe — it shows Roman gladiators dragging dead and dying men from the arena,
   which Filipino nationalist José Rizal famously interpreted as an allegory for Spanish colonial
   rule. The painting is enormous: seven metres wide.
+score: 8.9
 ---
 
 The National Museum of Fine Arts occupies a neoclassical legislative building on the edge of Rizal Park, built in 1918 during the American colonial period. The collection covers Philippine art from the Spanish colonial era to the contemporary period, with particular strengths in nineteenth-century academic painting and sculpture.

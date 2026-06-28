@@ -6,6 +6,7 @@ tags:
 - sight
 title: Otter Tail River Walk
 type: poi
+score: 5.9
 ---
 
 A five-block walking path follows the Otter Tail River through the heart of downtown, connecting several parks along a shaded corridor of cottonwoods and willows. The river itself is wide and slow through town, and fishing is permitted from the riverbank. In summer the path is popular with walkers, joggers, and cyclists.

@@ -1,6 +1,9 @@
 ---
 done:
   poi_cleanup: '2026-04-21'
+image: coral_gables.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Coral_Gables_-_Patio_of_Miami_Biltmore_Hotel.jpg
 latitude: 25.7215
 longitude: -80.2684
 snippet: 1920s Mediterranean Revival planned city within Miami
@@ -11,6 +14,7 @@ story: 'Developer George Merrick spent $100 million in 1920s dollars to build Co
   '
 tags:
 - things_to_do
+- neighbourhood
 title: Coral Gables
 type: neighbourhood
 ---

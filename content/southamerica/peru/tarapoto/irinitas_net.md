@@ -1,9 +1,13 @@
 ---
 accessibility: Just over one block off the Plaza de Armas.  Wheelchair accessible
 address: 'Jr. Alegria Arias de Morey #229 (Just a few doors north of Jr. Grau)'
+latitude: -6.4892
+longitude: -76.3638
 phone: 042 531380
+score: 4.6
 tags:
 - shopping
+- local_craft
 title: Irinita's Net
 type: poi
 ---

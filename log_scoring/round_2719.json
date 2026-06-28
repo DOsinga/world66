@@ -1,0 +1,200 @@
+{
+  "round": 2719,
+  "timestamp": "2026-06-13T22:02:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.3724,
+      "prior_variance": 0.414797,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 6.7252,
+      "prior_variance": 0.222586,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.8697,
+      "prior_variance": 0.220634,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.5339,
+      "prior_variance": 0.175105,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.1666,
+      "prior_variance": 0.149097,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 2.7428,
+      "prior_variance": 0.178396,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 2.6677,
+      "prior_variance": 0.166685,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.2553,
+      "prior_variance": 0.15207,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_score": 2.8175,
+      "prior_variance": 0.173346,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 0.6944,
+      "prior_variance": 0.172412,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.5888,
+      "prior_variance": 0.148522,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_score": -1.6987,
+      "prior_variance": 0.194369,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -2.5482,
+      "prior_variance": 0.182135,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.1767,
+      "prior_variance": 0.145232,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -1.0676,
+      "prior_variance": 0.138498,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/south_east/maidstone",
+      "prior_score": -3.4154,
+      "prior_variance": 0.15206,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -2.9536,
+      "prior_variance": 0.158073,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.0801,
+      "prior_variance": 0.151104,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.6475,
+      "prior_variance": 0.15328,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.1709,
+      "prior_variance": 0.172107,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -3.6455,
+      "prior_variance": 0.153489,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -4.814,
+      "prior_variance": 0.149436,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -3.4771,
+      "prior_variance": 0.189645,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -12.9025,
+      "prior_variance": 0.721121,
+      "prior_n": 8
+    }
+  ]
+}

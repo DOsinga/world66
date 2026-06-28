@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
   - downtown
+score: 7.7
 ---
 
 The Fox Tucson Theatre opened in 1930 as one of the southwest's grandest movie palaces — Art Deco with Southwest motifs, geometric ceilings, neon, and Native-American-inspired decorative panels. After decades of decline it sat empty for thirty years; a meticulous public restoration in 2005 brought it back as a working concert hall.

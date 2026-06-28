@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 47.5261
 longitude: -92.5317
+score: 8.1
 ---
 
 Virginia has its own open-pit mine viewpoint at the north edge of town, offering a look down into an active taconite mining operation. The pit is enormous — several miles across and hundreds of feet deep — and the scale is genuinely difficult to process at first. The giant trucks working the haul roads look like toys from the overlook platform. This is not a tourist attraction in the polished sense; it is simply a public viewing area above a working mine.

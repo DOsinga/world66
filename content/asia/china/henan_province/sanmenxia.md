@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20260503_Sanmenxia_Museum.
 latitude: 34.7736
 loc_type: city
 longitude: 111.195
+score: 5.82
+snippet: Yellow River gorge city tied to Yu's Three Gates legend and the strategic
+  Hangu Pass.
 sources:
 - https://en.wikivoyage.org/wiki/Sanmenxia
 title: Sanmenxia

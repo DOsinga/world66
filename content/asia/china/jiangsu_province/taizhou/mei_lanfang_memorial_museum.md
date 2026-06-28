@@ -9,6 +9,7 @@ latitude: 32.4900
 longitude: 119.9150
 story: >
   Mei Lanfang (1894–1961) spent decades perfecting the dan role — the female characters played by male actors — and his work so transformed Peking opera that he is credited with essentially codifying its performance standards. When Charlie Chaplin met him in 1930, Chaplin reportedly said Mei was a greater actor than himself.
+score: 7.7
 ---
 
 The museum occupies a handsome compound in central Hailing District, built around the birthplace of Mei Lanfang, the most celebrated Peking opera performer of the twentieth century. Several rooms re-create the domestic interiors of his family home, while the exhibition halls trace his career through costumes, photographs, props, and correspondence, including material from his overseas tours to the United States and the Soviet Union.

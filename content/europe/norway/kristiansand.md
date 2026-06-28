@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Kvadraturen-01.jpg
 latitude: 58.1467
 loc_type: city
 longitude: 7.9956
-score: 0.53
+score: 7.95
 title: Kristiansand
 type: location
+snippet: Southern Norwegian coastal city with a compact old town, harborfront, and
+  ferry links to Denmark.
 ---
 
 Kristiansand is the largest city on Norway's South Coast (*Sørlandet*) and the country's southernmost city. It was founded in 1641 by King Christian IV and still bears his mark: the old town centre, known as Kvadraturen, follows a rigid Renaissance grid that makes it unusually easy to navigate.

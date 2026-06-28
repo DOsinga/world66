@@ -11,6 +11,7 @@ tags:
 - sight
 title: Alcázar de los Reyes Cristianos
 type: poi
+score: 8.3
 ---
 
 Built in 1328 by Alfonso XI on the foundations of the earlier Moorish caliphal palace, the Alcázar served as a royal residence, the headquarters of the Spanish Inquisition for three centuries, and later a prison. The interior is sober — bare stone halls, a few good Roman mosaics — but the gardens are the real draw: long reflecting pools flanked by cypresses, fountains, and tiered flowerbeds running down to the Guadalquivir.

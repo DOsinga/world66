@@ -1,200 +1,200 @@
 {
   "round": 1342,
-  "timestamp": "2026-04-12T22:22:34",
+  "timestamp": "2026-06-13T20:24:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Consett",
-      "path": "europe/unitedkingdom/england/consett",
-      "prior_rank": 7884,
-      "prior_wins": 9,
-      "prior_n": 3
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 4.2418,
+      "prior_variance": 0.317361,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Starkville",
-      "path": "northamerica/unitedstates/mississippi/starkville",
-      "prior_rank": 6465,
-      "prior_wins": 21,
-      "prior_n": 3
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 4.9534,
+      "prior_variance": 0.312909,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "waseca",
-      "path": "northamerica/unitedstates/minnesota/waseca",
-      "prior_rank": 8149,
-      "prior_wins": 6,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 4.0696,
+      "prior_variance": 0.335472,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Wilburton",
-      "path": "northamerica/unitedstates/oklahoma/wilburton",
-      "prior_rank": 7957,
-      "prior_wins": 8,
-      "prior_n": 3
+      "title": "Rincon",
+      "path": "northamerica/thecaribbean/puertorico/rincon",
+      "prior_score": 3.305,
+      "prior_variance": 0.308897,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Aberdeen",
-      "path": "northamerica/unitedstates/southcarolina/aberdeen",
-      "prior_rank": 7793,
-      "prior_wins": 10,
-      "prior_n": 3
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 3.913,
+      "prior_variance": 0.302774,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Washita",
-      "path": "northamerica/unitedstates/oklahoma/washita",
-      "prior_rank": 7964,
-      "prior_wins": 8,
-      "prior_n": 3
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.3587,
+      "prior_variance": 0.327042,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "San Juan del Ro",
-      "path": "northamerica/mexico/yucatan/sanjuandelro",
-      "prior_rank": 7624,
-      "prior_wins": 12,
-      "prior_n": 3
-    },
-    {
-      "rank": 8,
-      "title": "Golmud",
-      "path": "asia/china/golmud",
-      "prior_rank": 7844,
-      "prior_wins": 16,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_score": 1.3055,
+      "prior_variance": 0.259177,
       "prior_n": 5
     },
     {
+      "rank": 8,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -1.62,
+      "prior_variance": 0.560984,
+      "prior_n": 4
+    },
+    {
       "rank": 9,
-      "title": "dang ghorahi",
-      "path": "asia/nepal/dang_ghorahi",
-      "prior_rank": 7759,
-      "prior_wins": 14,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -1.3674,
+      "prior_variance": 0.514441,
       "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Zielonka",
-      "path": "europe/poland/zielonka",
-      "prior_rank": 7429,
-      "prior_wins": 14,
-      "prior_n": 3
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -1.2435,
+      "prior_variance": 0.470815,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Anantapur",
-      "path": "asia/india/andhrapradesh/ananthapur",
-      "prior_rank": 7805,
-      "prior_wins": 10,
-      "prior_n": 3
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -3.8322,
+      "prior_variance": 0.303889,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Haththikuchchi",
-      "path": "asia/srilanka/haththikuchchi",
-      "prior_rank": 7880,
-      "prior_wins": 9,
-      "prior_n": 3
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 0.2672,
+      "prior_variance": 0.335401,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Gran chaco",
-      "path": "southamerica/paraguay/granchaco",
-      "prior_rank": 7406,
-      "prior_wins": 14,
-      "prior_n": 3
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 1.2716,
+      "prior_variance": 0.455001,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Lebialem",
-      "path": "africa/cameroon/lebialem",
-      "prior_rank": 8163,
-      "prior_wins": 4,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.2331,
+      "prior_variance": 0.285537,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Duhok",
-      "path": "asia/iraq/arbil/duhok",
-      "prior_rank": 7885,
-      "prior_wins": 9,
-      "prior_n": 3
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -2.4241,
+      "prior_variance": 0.354518,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Guinea",
-      "path": "africa/guineeconakry",
-      "prior_rank": 8063,
-      "prior_wins": 9,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.9412,
+      "prior_variance": 0.32238,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Zinder",
-      "path": "africa/niger/zinder",
-      "prior_rank": 8030,
-      "prior_wins": 7,
-      "prior_n": 3
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/newwestminster",
+      "prior_score": -3.2453,
+      "prior_variance": 0.330802,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Abadan",
-      "path": "asia/iran/abadan",
-      "prior_rank": 7421,
-      "prior_wins": 14,
-      "prior_n": 3
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -5.2556,
+      "prior_variance": 0.462688,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Baghdad",
-      "path": "asia/iraq/baghdad",
-      "prior_rank": 8194,
-      "prior_wins": 3,
-      "prior_n": 3
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": 0.194,
+      "prior_variance": 0.34053,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "jhang",
-      "path": "asia/pakistan/abbottabad/jhang",
-      "prior_rank": 7607,
-      "prior_wins": 12,
-      "prior_n": 3
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -2.0905,
+      "prior_variance": 0.35622,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Jacobabad",
-      "path": "asia/pakistan/jacobabad",
-      "prior_rank": 8167,
-      "prior_wins": 4,
-      "prior_n": 3
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -0.5805,
+      "prior_variance": 0.395703,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "chiniot",
-      "path": "asia/pakistan/sargodha/chiniot",
-      "prior_rank": 7627,
-      "prior_wins": 16,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -4.933,
+      "prior_variance": 0.402739,
       "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Khanpur Mahar",
-      "path": "asia/pakistan/khanpur_mahar",
-      "prior_rank": 7513,
-      "prior_wins": 13,
-      "prior_n": 3
+      "title": "Meizhou Island",
+      "path": "asia/china/fujianprovince/meizhouisland",
+      "prior_score": -2.4164,
+      "prior_variance": 0.29974,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Assab",
-      "path": "africa/eritrea/assab",
-      "prior_rank": 7851,
-      "prior_wins": 7,
-      "prior_n": 3
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -7.0495,
+      "prior_variance": 0.344866,
+      "prior_n": 4
     }
   ]
 }

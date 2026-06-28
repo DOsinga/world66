@@ -8,6 +8,7 @@ latitude: 54.5852
 longitude: -2.9487
 story: >
   Wordsworth visited Aira Force many times and it appears in several of his poems. In "The Somnambulist," he based a tale of a tragic sleepwalking lover on the waterfall pool below the main drop. The National Trust woodland path to the falls was laid out in the Victorian era as a pleasure walk for tourists from the Ullswater hotels — the idea of a purpose-built walking route to see scenery was still a novelty then, and these paths were among the earliest examples of tourist infrastructure in the Lake District.
+score: 8.0
 ---
 
 Aira Force is a 20-metre waterfall on the Aira Beck stream, emptying into Ullswater near the village of Dockray. The falls are one of the most visited natural features in the Lake District, and for good reason: the single drop plunges into a deep wooded gorge, and the National Trust has laid out well-maintained paths around both the main fall and the smaller Upper Aira Force above it.

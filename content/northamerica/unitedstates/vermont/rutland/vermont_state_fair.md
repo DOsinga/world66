@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5964
 longitude: -72.9705
+score: 7.1
 ---
 
 The Vermont State Fairgrounds on South Main Street in Rutland is the home of the Vermont State Fair, an annual event held in late August and early September since 1846. The fair is one of the oldest in New England and features livestock judging, agricultural competitions, midway rides, food vendors, and entertainment. Outside fair week the grounds host other events through the summer season.

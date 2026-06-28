@@ -9,6 +9,7 @@ latitude: -33.4644
 longitude: -70.6108
 story: >
   The Estadio Nacional was used as the main detention and interrogation centre in the weeks after the September 11, 1973 coup. Over 12,000 people were held in the stadium's stands and corridors; torture and execution took place in the dressing rooms and corridors beneath the seats. A section of the original stands — sector 8 — has been preserved as a memorial space, with the original graffiti left by prisoners still visible on the walls.
+score: 6.9
 ---
 
 The Estadio Nacional is Chile's largest sports stadium, home to the national football team and used for major concerts, but it carries a weight that no amount of sporting spectacle fully erases. In September 1973 it was the primary site of mass detention and torture in the aftermath of the coup, and the memory is built into the physical fabric of the building.

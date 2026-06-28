@@ -10,7 +10,9 @@ image_source: HP Harmsen
 latitude: -1.3312
 loc_type: city
 longitude: 31.8126
-score: 0.4
+score: 6.54
+snippet: Tanzanian town on Lake Victoria's western shore, capital of Kagera and centre
+  of Bahaya banana-and-coffee country.
 title: Bukoba
 type: location
 ---

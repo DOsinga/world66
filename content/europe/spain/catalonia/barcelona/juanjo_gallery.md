@@ -3,9 +3,11 @@ address: Elisabets 20, Barcelona 08011
 latitude: 41.383082
 longitude: 2.168099
 phone: '933928900'
+score: 5.9
 snippet: Handcrafted leather jackets and bags in El Raval
 tags:
 - shopping
+- el_raval
 title: Juan-Jo Gallery
 type: poi
 ---

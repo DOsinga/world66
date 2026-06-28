@@ -10,6 +10,7 @@ latitude: 50.87569
 longitude: 8.03
 story: >
   Peter Paul Rubens was born in Siegen in 1577, a fact the city has spent centuries celebrating. The Siegerlandmuseum holds a small but genuine collection of Rubens paintings, including his self-portrait. The Upper Castle where the museum is housed was originally a residence of the Nassau-Siegen dynasty; it passed through various uses before becoming a museum in the early 20th century. The Rubens collection brings art lovers from across Germany who might otherwise have no reason to visit Siegen.
+score: 8.0
 ---
 
 The Oberes Schloss (Upper Castle) crowns the Siegberg hill above the old town, a striking hilltop building in orange-red render that is visible from most of the city. The castle houses the Siegerlandmuseum, which covers two main subjects: the life and paintings of Peter Paul Rubens (born in Siegen in 1577) and the iron-mining and metalworking heritage of the Siegerland region. Both exhibits are well done, and together they give a good account of why this valley mattered beyond its modest current status.

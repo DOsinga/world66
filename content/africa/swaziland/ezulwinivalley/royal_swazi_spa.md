@@ -7,6 +7,7 @@ tags:
 latitude: -26.4077
 longitude: 31.1696
 snippet: "The valley's main entertainment complex, with golf, a casino, and spa facilities"
+score: 5.2
 ---
 
 The Royal Swazi Spa is an entertainment complex that has been the valley's main upmarket destination since the 1980s. It contains a casino, an 18-hole golf course, a spa, and several restaurants — a combination that made it unusual in the region when it was built, and that still draws visitors from Johannesburg looking for a weekend across the border.

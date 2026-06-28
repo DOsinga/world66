@@ -8,6 +8,7 @@ tags:
 address: "8a Avenida 8-30, Zona 1, Guatemala City"
 latitude: 14.6414
 longitude: -90.512
+score: 7.8
 ---
 
 The Mercado Central occupies a vast underground space directly behind and beneath the Metropolitan Cathedral in Zona 1. Three levels of stalls sell a comprehensive range of Guatemalan handicrafts: textiles, woven blankets, huipiles, carved jade, leather goods, ceramics, and wooden masks from every region of the country. The lower levels extend into food halls with local restaurants and stalls selling fresh produce, grains, and spices.

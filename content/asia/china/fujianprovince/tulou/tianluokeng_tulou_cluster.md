@@ -17,6 +17,7 @@ story: >
   Whether you find the metaphor apt or forced, the view from the path above
   at sunrise, with mist filling the valley and only the rooflines visible, makes
   the image irrelevant.
+score: 4.4
 ---
 
 The Tianluokeng Tulou Cluster in Nanjing County is the most photographed grouping of earthen roundhouses in China: four circular tulou built at different times between 1796 and 1936, arranged around one older square tulou from 1658, all sitting in a natural hollow on a terraced hillside. The cluster has an accidental visual harmony — no one designed the composition — that has made it an enduring image of rural China.

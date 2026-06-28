@@ -8,6 +8,7 @@ latitude: 45.407677
 longitude: 11.873476
 story: >
   The clock mechanism in the Torre dell'Orologio dates to 1344, making it one of the oldest functioning astronomical clocks in the world. It shows not only the hours but the position of the sun and moon across the zodiac, the phase of the moon, and the ascendant sign — a miniature model of the heavens designed to help physicians calculate astrological medicine. For the people of 14th-century Padova, this was the most sophisticated machine in the city.
+score: 6.8
 ---
 
 Piazza dei Signori is Padova's second major piazza after the Piazza delle Erbe complex — a long, rectangular square dominated by the Loggia della Gran Guardia on one side and the Torre dell'Orologio, the astronomical clock tower, at the far end. The tower's clock face is an extraordinary example of medieval engineering and cosmological ambition.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 28.9210
 longitude: -13.6535
+score: 5.9
 ---
 
 The Avenida de las Playas is the six-kilometre seafront promenade that defines Puerto del Carmen — a wide pedestrian boulevard running parallel to the beaches, paved in patterned tiles, lined with low whitewashed buildings, palms, restaurants and bars. It is one of the more pleasant resort promenades on the Canary Islands, in large part because of the local ordinance — pushed by César Manrique in the 1970s — that prevents any building from rising above three storeys.

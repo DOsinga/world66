@@ -7,6 +7,7 @@ tags:
 - market
 title: Giza Spice Market
 type: poi
+score: 5.8
 ---
 
 Giza's neighbourhood markets, concentrated around the older residential areas near the city centre, sell spices, herbs, and dried goods at prices far below anything in the tourist-adjacent shops. Egyptian spice culture is serious: cumin, coriander, fenugreek, dried hibiscus (karkadeh) for tea, black seed (nigella), dried chamomile, and the full range of ras el hanout-type blends for cooking. The hibiscus in particular — brewed into a tart, ruby-red tea served hot or cold — is one of the genuine flavours of Egypt and makes an excellent lightweight souvenir.

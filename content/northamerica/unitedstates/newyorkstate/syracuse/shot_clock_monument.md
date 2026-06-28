@@ -14,6 +14,7 @@ story: >
   of shots in a fast-paced game) and arrived at 24. The NBA adopted his 24-second
   shot clock for the following season, and scoring averages immediately jumped
   by 14 points per game.
+score: 5.6
 ---
 
 A monument near the site of Danny Biasone's Eastwood Sports Centre marks the invention of the 24-second shot clock, one of the most consequential rule changes in professional sports history. Biasone was the owner of the Syracuse Nationals (now the Philadelphia 76ers) and had been lobbying for years to force teams to shoot the ball rather than simply hold it.

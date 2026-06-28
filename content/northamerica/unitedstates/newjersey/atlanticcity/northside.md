@@ -7,6 +7,7 @@ tags:
 latitude: 39.36389
 longitude: -74.43222
 snippet: "Atlantic City's historically Black neighbourhood — the jazz era's hidden capital"
+score: 7.2
 ---
 
 While the boardwalk hotels catered to white visitors and enforced strict segregation through most of the 20th century, Black performers and tourists created their own parallel resort culture on Kentucky and Indiana Avenues in the Northside. From the 1920s through the 1960s, this was one of the great jazz and R&B circuits on the East Coast. Every major Black entertainer of the era — Duke Ellington, Billie Holiday, Louis Armstrong, Sammy Davis Jr, James Brown — performed here, often in the same weeks they were forbidden to stay at the hotels where they headlined on the boardwalk.

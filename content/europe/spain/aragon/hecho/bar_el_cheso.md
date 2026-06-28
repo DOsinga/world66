@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.7380
 longitude: -0.7501
+score: 5.1
 ---
 
 Named for the local Aragonese dialect spoken in the valley, Bar El Cheso is a straightforward village bar where the clientele is a mix of walkers passing through and locals for whom it is simply the village bar. The name signals something about local identity — the Cheso dialect is still a matter of pride in the valley even as it becomes rarer.

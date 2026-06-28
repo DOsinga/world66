@@ -5,7 +5,9 @@ done:
 latitude: 0.025159
 loc_type: city
 longitude: -77.988956
-score: 0.46
+score: 7.26
+snippet: Equatorial Andean city below Volcán Cayambe, known for flower farms and warm
+  bizcochos.
 title: Cayambe
 type: location
 ---

@@ -5,7 +5,9 @@ done:
 latitude: 18.9902
 loc_type: city
 longitude: 73.27
-score: 0.52
+score: 7.73
+snippet: Tiny Maharashtra hill station above Mumbai, where motor vehicles are banned
+  and viewpoints overlook the Western Ghats.
 title: Matheran
 type: location
 ---

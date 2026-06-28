@@ -10,6 +10,7 @@ story: >
   Sandy Cay was once privately owned by Laurence Rockefeller, who later donated it to the BVI National Parks Trust. The island has no fresh water and no permanent inhabitants, and the reef that encircles it has never been dredged or disturbed, making it one of the healthier coral ecosystems in the territory.
 sources:
   - https://en.wikipedia.org/wiki/Sandy_Cay_(British_Virgin_Islands)
+score: 8.1
 ---
 
 Sandy Cay is a small uninhabited island about 1.5 km east of Jost Van Dyke, protected as a national park. A trail loops around the island through dry scrub forest in about 20 minutes, and the beaches — particularly on the northwest — are excellent for snorkelling over healthy coral. The water is very clear and the reef supports good fish life.

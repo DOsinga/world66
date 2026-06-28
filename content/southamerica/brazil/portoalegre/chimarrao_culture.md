@@ -1,8 +1,12 @@
 ---
+latitude: -30.0372
+longitude: -51.2117
+score: 7.0
 snippet: The gaúcho maté ritual — understanding chimarrão is understanding Porto Alegre
 tags:
 - eating_out
-- sight
+- local_food
+- culture
 title: Chimarrão Culture
 type: poi
 ---

@@ -10,6 +10,7 @@ tags:
   - polana
   - restaurant
 neighbourhood: Polana
+score: 6.4
 ---
 
 **Galo à Zambeziana** is a small, casual restaurant in upper Polana that has spent more than two decades perfecting the same short menu: half or whole **piri-piri chicken**, charcoal-grilled, served with chips, rice and salad, and a side of *molho cru* (raw onion, garlic and vinegar sauce). Order the *picante* version with extra sauce if you can take the heat; the version cooked in coconut milk is the milder Zambezia-style preparation that gives the restaurant its name.

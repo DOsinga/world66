@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 6.0
 ---
 
 This small Shiva temple on the western fringe of Cuttack is one of the older religious sites in the city. The shrine itself is modest, but it is set in a complex with old banyan trees and a tank, and is a popular stop during Shivaratri when local pilgrims arrive in numbers.

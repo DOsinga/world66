@@ -8,6 +8,7 @@ latitude: 12.6317
 longitude: -61.355
 story: >
   The horseshoe reef surrounding the Tobago Cays — Horseshoe Reef — is one of the few remaining intact coral structures in the eastern Caribbean. It took thousands of years to build and shelters the cays from Atlantic swells, creating a lagoon of extraordinary calm. The reef is now a marine park, and fishing here has been banned since the 1990s.
+score: 9.4
 ---
 
 The Tobago Cays are a cluster of five uninhabited islands about four kilometres south of Mayreau, surrounded by one of the finest coral reefs in the Lesser Antilles. The area is a protected marine park, and the snorkelling and diving here are exceptional — visibility is often 20 metres or more, and the reef supports large populations of parrotfish, angelfish, barracuda, and hawksbill turtles.

@@ -14,6 +14,7 @@ story: >
   satirize Belgian bourgeois society, painting masked crowds as vehicles for
   malice, hypocrisy, and death. The masks are still in the shop window today.
 type: poi
+score: 8.8
 ---
 
 James Ensor is the most important Belgian painter after Rubens, and this is the house where he lived for most of his life — from 1876 until his death in 1949. The ground floor was a shell and souvenir shop run by his family; the upper floors were his studio and living quarters. Both are preserved essentially as he left them, with his paintings, personal effects, and the actual masks and shells that appear in his work.

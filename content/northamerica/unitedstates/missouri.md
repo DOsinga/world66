@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 38.760481
+loc_type: region
 longitude: -92.561787
 score: 0.37
+snippet: Midwestern state of river cities, Ozark hills, and frontier history along
+  the Mississippi and Missouri
 title: Missouri
 type: location
-loc_type: region
 ---
 
 There are many things to do and see in Missouri, so don't just visit [St. Louis](/northamerica/unitedstates/missouri/stlouis) and skip the rest.

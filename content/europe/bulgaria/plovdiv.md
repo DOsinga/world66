@@ -5,9 +5,14 @@ done:
 latitude: 42.141854
 loc_type: city
 longitude: 24.74993
-score: 0.6
+score: 8.71
+snippet: Bulgaria's second city, built across ancient hills above the Maritsa River.
 title: Plovdiv
 type: location
+image: plovdiv.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bulgaria_Bulgaria-0785_-_Roman_Theatre_of_Philippopolis_(7432772486).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Dennis G. Jarvis
 ---
 
 Plovdiv is Bulgaria's second city and, for most travelers, the more rewarding of the two. It sits in the southern Thracian Plain, built across seven ancient hills, with the Maritsa River running below. The city claims to be the oldest continuously inhabited city in Europe — settled since at least 6,000 BC — and the layering of Thracian, Macedonian, Roman, Byzantine, Ottoman, and Bulgarian history is visible in every quarter.

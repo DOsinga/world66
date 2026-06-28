@@ -7,6 +7,7 @@ tags:
 - museum
 title: Tibet Museum
 type: poi
+score: 6.7
 ---
 
 The Tibet Museum sits at the southeastern corner of Norbulingka park and provides the standard state-curated overview of Tibetan history, prehistory and material culture. The collection — bronze Buddhas, thangkas, ritual objects, costumes, agricultural tools — is genuinely strong, and the layout is clear and well lit by Chinese provincial-museum standards.

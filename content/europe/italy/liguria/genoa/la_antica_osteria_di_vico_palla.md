@@ -7,6 +7,7 @@ tags:
 - restaurant
 type: poi
 snippet: Classic old-city trattoria in a medieval lane, known for fish and farinata
+score: 6.8
 ---
 
 Down one of the caruggi near the old port, Vico Palla is the kind of osteria that Genoa used to have on every corner: red checked tablecloths, no menu beyond a handwritten daily board, house wine in ceramic pitchers, and fish that arrived at the market that morning. The *farinata* (chickpea flatbread baked in a copper pan) is excellent, and the fish soup, when available, is a meal in itself.

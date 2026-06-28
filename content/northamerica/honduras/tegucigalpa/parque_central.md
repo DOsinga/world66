@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Parque Central
 type: poi
+score: 6.1
 ---
 
 Parque Central — officially the Plaza Morazán — is the historic heart of Tegucigalpa, named for Francisco Morazán, the 19th-century Central American federalist whose statue stands at the centre. The cathedral faces onto the square from the east, and the seat of government is nearby.

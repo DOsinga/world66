@@ -8,6 +8,7 @@ latitude: 51.6177
 longitude: -3.9374
 neighbourhood: Maritime Quarter
 story: "When Dylan Thomas read 'Do Not Go Gentle Into That Good Night' aloud for the first time on stage, he is said to have done so right here in Swansea — at the Kardomah Cafe, with his circle of poet and artist friends listening."
+score: 8.0
 ---
 
 The Dylan Thomas Centre is the main archive and exhibition space for Swansea's most famous son. A permanent display, *Love the Words*, follows his life from Cwmdonkin Drive through his time in [London](/europe/unitedkingdom/england/london), Laugharne and on his American reading tours, with manuscripts, letters, photographs and audio recordings of Thomas himself.

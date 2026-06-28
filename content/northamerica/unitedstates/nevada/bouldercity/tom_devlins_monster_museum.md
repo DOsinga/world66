@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.9772
 longitude: -114.8342
+score: 5.2
 ---
 
 Tom Devlin's Monster Museum is a small, idiosyncratic collection in the historic district, run by a working Hollywood special-effects makeup artist. It is one part personal showroom and one part homage to horror cinema — life-sized recreations of the Wolfman, the Bride of Frankenstein, and the alien from *Predator* stand alongside original screen-used props from films Devlin has worked on.

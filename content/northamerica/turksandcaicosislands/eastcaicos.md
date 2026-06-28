@@ -5,7 +5,9 @@ done:
 latitude: 21.6833
 loc_type: city
 longitude: -71.5167
-score: 0.44
+score: 6.96
+snippet: Uninhabited Turks and Caicos island of mangrove swamps, limestone caves,
+  deserted sisal ruins, and empty beaches.
 title: East Caicos
 type: location
 ---

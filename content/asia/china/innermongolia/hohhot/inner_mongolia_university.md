@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.8120
 longitude: 111.7000
+score: 5.9
 ---
 
 Inner Mongolia University, founded in 1957 as the first comprehensive university in Inner Mongolia, occupies a large campus in the eastern part of Hohhot with architecture that blends Soviet academic design — the campus was built with Soviet assistance in the late 1950s — with Mongolian ornamental elements. The campus is pleasant to walk through and gives a sense of how bilingual education actually works in Inner Mongolia: courses are taught in both Mongolian and Chinese, and the university is one of the most important centres for Mongolian language scholarship and literary preservation.

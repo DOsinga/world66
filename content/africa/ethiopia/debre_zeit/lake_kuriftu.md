@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - lake
+score: 6.0
 ---
 
 A smaller crater lake on the eastern side of the lake cluster, almost entirely enclosed by the Kuriftu Resort & Spa. This is the resort lake — a day pass gives access to swimming pools, the lake itself for kayaking, a spa, and an outdoor restaurant.

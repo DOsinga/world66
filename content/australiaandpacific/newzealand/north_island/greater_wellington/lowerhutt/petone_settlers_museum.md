@@ -14,6 +14,7 @@ story: >
   1840 — fewer than three weeks after the Treaty of Waitangi was signed further
   north. The timing and the location placed Petone at the very start of organised
   British colonisation of New Zealand.
+score: 7.5
 ---
 
 The Petone Settlers Museum is housed in a handsome 1940 memorial building on the foreshore at Petone, marking the spot where the first European settlers landed in the Wellington region in 1840. The collection focuses on the immigrant experience — the journey from Britain, the difficult early years in the new colony, and the gradual development of the community.

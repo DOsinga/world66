@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 41.889
+loc_type: feature
 longitude: -8.8718
+score: 7.09
+snippet: Galician hill above the Miño River mouth, with Atlantic views and an excavated
+  Celtic castro settlement.
 title: Mount Santa Tecla
 type: location
-score: 0.45
-loc_type: feature
 ---
 
 Mount Santa Tecla rises above the mouth of the Miño River at the very southwestern tip of Galicia, just outside the town of A Guarda. The summit offers one of the most spectacular viewpoints in northwestern Spain — on a clear day you can see south into Portugal, west across the Atlantic, and up the Galician coast.

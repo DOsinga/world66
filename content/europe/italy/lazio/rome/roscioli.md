@@ -5,6 +5,7 @@ done:
 latitude: 41.8947
 longitude: 12.4731
 opening_hours: Mon–Sat 12:30–16:00, 19:30–midnight; closed Sun
+score: 8.3
 snippet: Legendary deli-restaurant for cacio e pepe and charcuterie
 tags:
 - 3 Days in Rome
@@ -12,6 +13,7 @@ tags:
 - Eater Rome
 - eating_out
 - restaurant
+- campo_de_fiori
 title: Roscioli Salumeria con Cucina
 type: poi
 url: www.salumeriaroscioli.com

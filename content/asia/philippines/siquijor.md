@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Coco_Grove_Beach_Resort,_S
 latitude: 9.18
 loc_type: island
 longitude: 123.58
+score: 8.51
+snippet: Small Visayan island province with coral reefs, forested hills, and a lingering
+  folk-healing reputation
 title: Siquijor
 type: location
 ---

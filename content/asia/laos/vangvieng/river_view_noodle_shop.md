@@ -7,6 +7,7 @@ tags:
 latitude: 18.9268
 longitude: 102.4495
 snippet: A simple noodle shop on the riverbank, good for khao piak sen and watching the river traffic
+score: 5.1
 ---
 
 Khao piak sen — Lao rice noodle soup with chicken or pork and fresh herbs — is the national comfort food, and this riverside spot does it well and cheaply. A bowl arrives with a plate of bean sprouts, basil, chilli, and lime on the side for you to adjust as you go. It is the best kind of traveller's breakfast: warming, cheap, and filling enough to carry you through a morning of cycling or cave exploration.

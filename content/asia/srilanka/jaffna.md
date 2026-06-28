@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:NallurKandaswamyKovilGopur
 latitude: 9.6615
 loc_type: city
 longitude: 80.0255
-score: 0.52
+score: 7.57
+snippet: Tamil Sri Lankan cultural capital on the northern peninsula, known for ornate
+  temples and spicy food.
 title: Jaffna
 type: location
 ---

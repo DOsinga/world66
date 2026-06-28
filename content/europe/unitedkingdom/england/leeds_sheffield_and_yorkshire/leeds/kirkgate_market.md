@@ -13,6 +13,7 @@ story: >
   the price — it's a penny." That stall grew into Marks & Spencer, one of Britain's biggest retailers.
   A blue plaque on the market commemorates the spot, though the company has long since left for larger
   premises.
+score: 8.7
 ---
 
 Kirkgate Market is the largest covered market in Europe and the beating heart of working Leeds. Spread across two halls — the 1904 Grand Market Hall and a 1970s addition — it houses hundreds of stalls selling fresh produce, meat, fish, fabrics, clothing, household goods, and street food. The Victorian hall, with its ornate ironwork ceiling and terracotta facade, is architecturally remarkable.

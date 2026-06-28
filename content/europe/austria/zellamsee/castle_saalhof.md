@@ -10,6 +10,7 @@ latitude: 47.3601
 longitude: 12.8010
 sources:
   - https://en.wikipedia.org/wiki/Castle_Saalhof
+score: 5.8
 ---
 
 Castle Saalhof stands a few kilometres north of Zell am See and is considered one of the oldest surviving fortifications in the Pinzgau region. The structure dates back to the medieval period, when the Pinzgau valley was a significant trade and salt-transport route. The castle's position on high ground gave it command of the valley road.

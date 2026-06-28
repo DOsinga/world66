@@ -10,6 +10,7 @@ tags:
 title: Restaurant La Vieille Gare
 type: poi
 url: www.lavieillegare.com
+score: 6.1
 ---
 
 Established in 1970, Restaurant La Vieille Gare is located in a renovated 1913 Canadian Northern Railroad station. The restaurant offers billingual fine dining in both the old station and in the attached railcar.

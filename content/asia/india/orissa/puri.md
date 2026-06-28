@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Road,_Puri_02.jpg
 latitude: 19.807608
 loc_type: city
 longitude: 85.825254
-score: 0.52
+score: 7.64
+snippet: Bay of Bengal pilgrimage city dominated by Jagannath Temple and the chariot-pulled
+  Rath Yatra tradition.
 title: Puri
 type: location
 ---

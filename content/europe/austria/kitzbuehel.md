@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Kitzbuehel03.JPG
 latitude: 47.4464
 loc_type: city
 longitude: 12.3911
-score: 0.69
+score: 9.0
 title: Kitzbühel
 type: location
+snippet: Tyrolean ski town with a medieval centre and the fearsome Hahnenkamm downhill
+  course.
 ---
 
 Kitzbühel is one of the most famous names in skiing, thanks to the [Hahnenkamm](/europe/austria/kitzbuehel/hahnenkamm) downhill — the most feared race on the World Cup circuit, held every January on [the Streif course](/europe/austria/kitzbuehel/streif_course) so steep and icy that it has no real equivalent anywhere. During race week the medieval town fills with athletes, celebrities, and fans, and the atmosphere is electric.

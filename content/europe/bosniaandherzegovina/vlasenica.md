@@ -5,7 +5,9 @@ done:
 latitude: 44.1833
 loc_type: city
 longitude: 18.9333
-score: 0.3
+score: 5.82
+snippet: Small town in northeastern Bosnia's hilly Birač region, with nearby Igrište
+  winter-sports terrain.
 title: Vlasenica
 type: location
 ---

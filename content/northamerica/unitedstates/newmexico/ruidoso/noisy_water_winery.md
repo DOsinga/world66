@@ -7,6 +7,7 @@ tags:
   - winery
 latitude: 33.3315
 longitude: -105.6695
+score: 5.8
 ---
 
 The Noisy Water Winery sits in the heart of Ruidoso and produces wine from New Mexico grapes — a slightly unexpected industry in this mountain corner of the state, but one with a genuine local following. The tasting room is an easy stop for an afternoon: comfortable, well-run, and the wines are better than you might expect.

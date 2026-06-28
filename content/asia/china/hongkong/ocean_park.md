@@ -11,6 +11,7 @@ tags:
 title: Ocean Park
 type: poi
 url: www.oceanpark.com.hk
+score: 7.3
 ---
 
 Ocean Park is part theme park, part marine attraction, sprawling across two levels of headland above the South China Sea south of Aberdeen. The upper section has thrill rides including the roller coaster Hair Raiser; the lower section has the Giant Panda Adventure (home to several giant pandas), a large aquarium, and a recreated 1970s Hong Kong street scene. A cable car connects the two levels and is half the fun — good views on the way across.

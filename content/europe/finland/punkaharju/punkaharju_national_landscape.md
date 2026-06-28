@@ -8,6 +8,7 @@ tags:
 snippet: One of Finland's officially designated National Landscapes
 latitude: 61.7700
 longitude: 29.3700
+score: 8.7
 ---
 
 Finland has a list of 27 National Landscapes — places considered to embody something essential about the country — and Punkaharju has been on it since the list was drawn up in 1992. The designation covers not just the ridge but the surrounding lake views: the long sight lines down Lake Pihlajavesi and Lake Puruvesi that you get from the higher points of the road.

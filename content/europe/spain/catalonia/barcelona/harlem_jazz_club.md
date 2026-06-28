@@ -7,10 +7,12 @@ done:
 latitude: 41.381149
 longitude: 2.178398
 phone: 93-310-07-55
+score: 7.3
 snippet: Nightly live jazz in the Gothic Quarter
 tags:
 - bars_and_cafes
 - nightlife
+- gothic_quarter
 title: Harlem Jazz Club
 type: poi
 url: www.harlemjazzclub.es

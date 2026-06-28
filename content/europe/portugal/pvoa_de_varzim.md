@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:P%C3%B3voa_de_Varzim_-_Por
 latitude: 41.3822
 loc_type: city
 longitude: -8.757
-score: 0.51
+score: 7.53
+snippet: Northern Portuguese fishing town and summer resort, with Bairro Sul boats,
+  long beaches, and a seafront casino
 title: Póvoa de Varzim
 type: location
 ---

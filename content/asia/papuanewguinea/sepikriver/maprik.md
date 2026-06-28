@@ -9,6 +9,7 @@ tags:
 latitude: -3.6309
 longitude: 143.0564
 story: "The Abelam grow long yams as competitive ceremonial objects — individual specimens can exceed three metres in length and are decorated with painted masks and feathered headdresses before being displayed at festivals. The largest yams have personal names and a recorded lineage going back through their growers' fathers and grandfathers."
+score: 8.2
 ---
 
 Maprik is not on the Sepik proper but in the rolling foothills north of the river, the centre of the Abelam people. The Abelam are famous for their long yam cult: a competitive horticultural and spiritual practice in which men grow extraordinarily long yams as ritual objects, decorate them with masks, and present them at clan festivals that mark the agricultural calendar.

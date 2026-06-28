@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanbawzathadi_Palace_-_Bag
 latitude: 18.2457
 loc_type: city
 longitude: 96.1005
-score: 0.38
+score: 6.54
+snippet: Ancient Mon capital near Yangon, known for enormous pagodas, reclining Buddhas,
+  and old royal monasteries.
 title: Bago
 type: location
 ---

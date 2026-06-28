@@ -14,6 +14,7 @@ story: >
   faded, it survived as a cinema before falling into disrepair. A community
   restoration campaign saved it in the 1980s, and today it hosts touring
   Broadway shows, concerts, and dance performances.
+score: 7.8
 ---
 
 A beautifully restored 1920s theatre in downtown New London, the Garde Arts Center is the cultural heart of the city. The interior is atmospheric in the best sense: Moorish Revival detailing, ornate plasterwork, and a ceiling designed to suggest an open-air sky give it a theatrical grandeur that most purpose-built modern venues can't match.

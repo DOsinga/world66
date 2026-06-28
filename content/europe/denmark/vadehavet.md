@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 55.1074
+loc_type: region
 longitude: 8.5531
+score: 0.47
+snippet: Danish Wadden Sea wetland where tidal flats draw migratory birds and guided
+  mudflat walkers.
 title: Vadehavet
 type: location
-score: 0.47
-loc_type: region
+image: vadehavet.jpg
+image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-15.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Ralf Roletschek
 ---
 
 Vadehavet is the Danish Wadden Sea — the northernmost stretch of the vast tidal flat system that runs along the coasts of the Netherlands, Germany, and Denmark. The entire Wadden Sea is a UNESCO World Heritage Site, and the Danish section was added in 2014. It is one of the most important wetlands in Europe, a critical stopover for millions of migratory birds on the East Atlantic Flyway.

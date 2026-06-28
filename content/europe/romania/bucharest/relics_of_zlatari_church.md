@@ -1,15 +1,19 @@
 ---
 address: Calea Victoriei 12, Bucharest
 latitude: 44.4325
-loc_type: feature
 longitude: 26.0974
+score: 6.3
 snippet: 18th-century church holding the preserved arm of Saint Cyprian
+story: The church preserves the silver-cased arm of Saint Cyprian, a third-century
+  Antiochene sorcerer turned bishop. Romanian Orthodox believers come from across
+  the country for special services in which the relic is touched to their foreheads,
+  in the conviction that it can lift curses and break spells cast upon them.
 tags:
 - things_to_do
 - sight
 - old_centre
 title: Zlătari Church
-story: "The church preserves the silver-cased arm of Saint Cyprian, a third-century Antiochene sorcerer turned bishop. Romanian Orthodox believers come from across the country for special services in which the relic is touched to their foreheads, in the conviction that it can lift curses and break spells cast upon them."
+type: poi
 ---
 
 A small 17th-century Orthodox church on Calea Victoriei, tucked between modern bank buildings opposite the National History Museum. It was rebuilt in 1850 in a slightly Russian Revival style. The interior is intimate, the icons gilded, and the atmosphere quietly intense — Zlătari is one of the few churches in Bucharest where you regularly encounter people in active, hushed prayer.

@@ -15,6 +15,7 @@ story: >
   amber deposits of the Cordillera Septentrional directly behind Puerto Plata became
   internationally famous when Michael Crichton used them as the fictional source of
   dinosaur DNA in Jurassic Park.
+score: 7.9
 ---
 
 The Dominican Republic holds some of the largest and most biologically rich amber deposits in the world, and this museum in a restored Victorian mansion near the central park is the best place to understand why that matters. The collection runs from polished commercial-grade pieces — the amber market on the ground floor sells these — up to scientific specimens containing insects, spiders, plant fragments, and small animals preserved in detail that no taxidermist could match. Some specimens are tens of millions of years old, older than most European amber deposits.

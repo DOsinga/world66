@@ -8,6 +8,7 @@ tags:
 latitude: 41.6786
 longitude: -8.8459
 snippet: Wide Atlantic beach on the south side of the Lima estuary, reached by ferry
+score: 7.2
 ---
 
 Praia do Cabedelo is the beach that most visitors to Viana do Castelo end up at — a long stretch of Atlantic coast on the south side of the Lima estuary, just a short ferry ride from the town centre. The crossing takes about ten minutes from the dock near the Gil Eannes ship; the ferry runs frequently in summer and the price is negligible.

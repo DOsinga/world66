@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, day_trips]
 latitude: 48.1775
 longitude: 16.9805
 story: Devín Castle stands at the confluence of the Danube and Morava rivers, at a point that was for decades the Iron Curtain. The river here was mined and patrolled by border guards; crossing it meant near-certain death. The ruins of the castle now overlook a stretch of river that is a popular cycling destination for Bratislava residents.
+score: 9.2
 ---
 
 Devín Castle is a ruined medieval fortress perched on a cliff at the confluence of the Danube and Morava rivers, about 12 km west of central Bratislava. The setting is one of the most dramatically sited in Central Europe — the castle is built into an almost vertical rock face, with the two rivers meeting directly below and Austria visible on the far bank.

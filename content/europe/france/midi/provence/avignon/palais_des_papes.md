@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Palais des Papes
 type: poi
+score: 9.5
 ---
 
 The largest Gothic building in Europe, built across the 14th century when seven successive popes ruled from Avignon rather than Rome. The vast halls — stripped of their original furnishings during the Revolution — convey the sheer scale of papal power and wealth. The frescoed private chapel of Clement VI is the most visually impressive room. Allow two hours minimum.

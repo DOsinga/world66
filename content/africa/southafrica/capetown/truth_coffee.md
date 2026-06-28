@@ -2,7 +2,7 @@
 address: 36 Buitenkant Street, City Bowl
 latitude: -33.9281
 longitude: 18.4218
-neighbourhood: City Bowl
+score: 7.8
 scores:
   activities: 0.6912
   bars_and_cafes: 0.8567

@@ -12,6 +12,7 @@ story: >
   in a mass nesting event called an "arribada" — thousands of turtles hauling themselves ashore
   in the same two or three nights. The reserve was established largely to protect these
   gatherings, which happen between July and January.
+score: 8.0
 ---
 
 The Chacocente Natural Reserve stretches along a wild stretch of Pacific coast north of Popoyo and is one of Nicaragua's most important sea turtle nesting sites. Olive ridley turtles nest here in large numbers, and with advance permission visitors can join night patrols during nesting season (July–January) to watch females come ashore.

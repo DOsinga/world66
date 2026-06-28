@@ -13,6 +13,7 @@ tags:
 - outdoors
 title: South West Coast Path
 type: poi
+score: 8.7
 ---
 
 The South West Coast Path passes through Bude and the surrounding coastline is among the most dramatic sections of this 630-mile national trail. North of Bude, the path climbs to Compass Point (a distinctive octagonal storm tower on the headland above the town) and continues to Morwenstow — about five miles along clifftops with views south toward Hartland Point. South of Bude, the path follows the cliff edge past Widemouth Bay and onward to Crackington Haven, a deep-cut cove about eight miles distant.

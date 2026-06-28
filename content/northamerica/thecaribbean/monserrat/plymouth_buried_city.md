@@ -14,6 +14,7 @@ story: >-
   the cricket ground are still partly visible — top storeys and roofs
   protruding from a sea of grey volcanic ash and pyroclastic deposit several
   metres deep.
+score: 9.5
 ---
 
 Plymouth was Montserrat's capital and the seat of government until June 1997, when a major dome collapse on Soufrière Hills sent a pyroclastic flow racing through the town. The flow buried the centre under metres of ash and superheated debris; the surrounding farms were lost; nineteen people who had refused to leave the exclusion zone died. The town was never reoccupied, and the capital was relocated north to Brades.

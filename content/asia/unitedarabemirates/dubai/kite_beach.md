@@ -7,6 +7,7 @@ tags:
 - jumeirah
 title: Kite Beach
 type: poi
+score: 6.8
 ---
 
 Kite Beach (officially Jumeirah Beach Park Area 2) is the best free public beach in Dubai. The sand is clean, there are public changing facilities and showers, food trucks and kiosks along the promenade, a well-maintained running and cycling path, and reliable lifeguards. On weekends it is popular with families and the city's kite-surfing community — the offshore breeze here is consistent enough to sustain several dedicated kite shops and schools along the waterfront.

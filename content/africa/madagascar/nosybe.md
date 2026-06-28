@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/42726874@N06/22343122966
 latitude: -13.332
 loc_type: city
 longitude: 48.2631
-score: 0.59
+score: 8.28
+snippet: Lush Malagasy island of reefs, ylang-ylang plantations, and boat trips to
+  lemur-filled islets.
 title: Nosy Be
 type: location
 ---

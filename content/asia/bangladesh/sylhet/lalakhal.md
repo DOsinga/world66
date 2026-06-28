@@ -12,6 +12,7 @@ story: >
   turquoise in places, before turning a muddy ochre in the monsoon. The
   colour comes from the limestone bed and the high silica content of the
   sand washed down from the Indian hills.
+score: 6.3
 ---
 
 A long, slow boat ride up the Sari River from a put-in north of Sylhet, Lalakhal is best in the cool months when the water is at its bluest. The boat passes tea estates, fishing villages, and the riverside customs post that marks the Indian border, with the Khasi Hills standing up on one side and flat Bangladesh on the other.

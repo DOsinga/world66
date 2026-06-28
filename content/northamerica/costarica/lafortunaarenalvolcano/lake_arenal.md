@@ -6,6 +6,7 @@ latitude: 10.4946
 longitude: -84.7168
 story: >
   Lake Arenal is not a natural lake — it was created in 1979 by damming the Arenal River to generate hydroelectric power. The reservoir now provides about 12% of Costa Rica's electricity and irrigates the Guanacaste region. When it was flooded, several towns were submerged. On very low water years, the rooftops of the old town of Tronadora are visible above the surface — a reminder of what lies underneath.
+score: 7.2
 ---
 
 Lake Arenal is a large reservoir stretching west from the volcano, visible from the main road and offering a dramatic secondary landscape to the volcano itself. Windsurfing and kitesurfing are serious business here — the consistent winds that funnel through the gap between the mountains have made the lake one of the top windsurfing destinations in the Americas, particularly in the dry season from November to April. The town of Nuevo Arenal on the lake's north shore is the windsurfing hub.

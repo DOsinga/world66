@@ -13,6 +13,7 @@ story: >
   and Sanskrit, records that Jinavallabha — brother of the Kannada literary
   giant Adikavi Pampa — installed three Tirthankara images here. The stone was
   later cited as evidence in the campaign to win classical language status for Telugu.
+score: 7.8
 ---
 
 Bommalagutta — "Hill of Figures" in Telugu — is a Jain site about 6 km southwest of Ramadugu, near Kurikyala village in Karimnagar district. The hill carries rock-cut reliefs, carved Tirthankara figures, and small cave shrines dating back at least to the 10th century. The centrepiece is a carving of Chakreshvari with eight arms, flanked by two Bahubali images; eight more Tirthankaras are carved into the hillock at various points. A small temple, the Tribhuvanatilaka Basadi, houses images of Rishabhanatha and Mahavira.

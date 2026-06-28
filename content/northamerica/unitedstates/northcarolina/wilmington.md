@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
+image: wilmington.jpg
+image_attribution: BattleshipNC at wts wikivoyage
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Battleship_NORTH_CAROLINA.jpeg
 latitude: 34.225727
 loc_type: city
 longitude: -77.94471
-score: 0.49
+score: 7.4
+snippet: Cape Fear river city with a large historic district and the moored USS North
+  Carolina.
 title: Wilmington
 type: location
-image: wilmington.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Battleship_NORTH_CAROLINA.jpeg
-image_license: Public domain
-image_attribution: BattleshipNC at wts wikivoyage
 ---
 
 Wilmington is one of the most beautiful cities on the North Carolina coast. Founded over 250 years ago on the shores of the Cape Fear River, it has a rich past that is visible in its architecture — the [Wilmington Historic District](/northamerica/unitedstates/northcarolina/wilmington/wilmington_historic_district) is one of the largest listed on the National Register of Historic Places, with street after street of intact antebellum and Victorian buildings.

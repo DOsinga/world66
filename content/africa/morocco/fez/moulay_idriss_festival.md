@@ -8,6 +8,7 @@ tags:
 title: Moussem of Moulay Idriss II
 type: poi
 snippet: "Annual week-long festival at the shrine of Fez's founding saint, held in September"
+score: 7.1
 ---
 
 The Moussem of Moulay Idriss II is Fez's most important religious festival — a week of ceremonies, music, processions, and communal prayer at the shrine of the city's patron saint every September. The *fantasia* (horsemanship display) and the Sufi music sessions that accompany the moussem attract visitors from across Morocco. The final procession through the medina, with decorated floats and costumed participants, is one of the most spectacular public events in the country.

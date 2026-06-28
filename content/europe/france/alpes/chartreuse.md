@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 45.3536
+loc_type: region
 longitude: 5.7854
+score: 0.62
+snippet: Green pre-Alpine natural park of limestone ridges, forested gorges, and the
+  Carthusian home of Chartreuse liqueur.
 title: Chartreuse
 type: location
-score: 0.62
-loc_type: region
+image: chartreuse.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_Grande_Chartreuse,_view_from_northwest_02_09a.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Хрюша
 ---
 
 The Chartreuse is a regional natural park in the pre-Alps between [Grenoble](/europe/france/alpes/grenoble) and Chambéry, straddling the border of Savoie and Isère. The landscape is intensely green: forested limestone ridges, narrow gorges with rushing streams, cliffs overhanging the roads, and mountain meadows thick with wildflowers in spring.

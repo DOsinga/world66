@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.554
 longitude: 2.387
+score: 6.8
 ---
 
 Vernet-les-Bains is a small spa town about 10 kilometres south of Prades, at the foot of the Canigou massif. It was popular with British visitors in the Belle Époque era — Rudyard Kipling came here several times — and retains some of its thermal spa infrastructure. The main reason to make the trip is the starting point it offers for walks up towards Canigou and the nearby Abbaye de Saint-Martin-du-Canigou, a dramatically situated 11th-century monastery perched on a cliff above the valley.

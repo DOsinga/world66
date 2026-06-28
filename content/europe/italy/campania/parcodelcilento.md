@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 40.345875
+loc_type: feature
 longitude: 15.237878
+score: 8.42
+snippet: Southern Campania national park of limestone mountains, Greek ruins, chestnut
+  forests, and cave-lined coast.
 title: Parco del Cilento
 type: location
-score: 0.6
-loc_type: feature
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

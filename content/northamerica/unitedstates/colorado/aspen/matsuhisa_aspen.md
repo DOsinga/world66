@@ -8,6 +8,7 @@ tags:
 - japanese
 title: Matsuhisa Aspen
 type: poi
+score: 6.8
 ---
 
 The Aspen outpost of Nobu Matsuhisa's small group of personally-run restaurants (distinct from the larger Nobu chain) occupies a beautifully restored 1880s Victorian house at 303 East Main Street. Two storeys of intimate dining rooms upstairs, a sushi bar and lounge downstairs; the kitchen sends out Matsuhisa's signature Peruvian-Japanese cooking, including the original yellowtail-jalapeño sashimi and the black cod with miso.

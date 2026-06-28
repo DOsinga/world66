@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, landmark]
 latitude: 47.3936
 longitude: 0.6833
+score: 7.2
 ---
 
 The Tour Charlemagne is a tall, austere Romanesque tower standing alone on a corner of Place de Châteauneuf, a couple of blocks west of Place Plumereau. It was the northern transept tower of the lost medieval Basilica of Saint Martin and is one of only two pieces of that great pilgrimage church to survive the Revolution.

@@ -7,6 +7,7 @@ tags:
 latitude: 28.872
 longitude: 87.183
 story: "The road from Xeger to Everest Base Camp passes through Rongbuk Monastery, at 4,980 metres the highest monastery in the world. From Rongbuk, the view of Everest's north face — framed between the monastery's whitewashed walls and prayer flags — is one of the most dramatic mountain views on earth, entirely different from the southern approach through Nepal."
+score: 7.2
 ---
 
 The turnoff from the Friendship Highway to Everest Base Camp (Chinese side) is about 10 km west of Xeger. The road climbs through the Pang La pass, crosses a plateau, and eventually reaches Rongbuk Monastery and then the base camp at 5,150 metres — a total of about 70 km of rough paved and dirt road from the highway.

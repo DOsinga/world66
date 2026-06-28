@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 37.1056
 longitude: 25.3772
 story: "The Cycladic figurines in this museum are among the most beautiful and most puzzling objects from the ancient world. They date to roughly 3000–2200 BC — a thousand years before the Mycenaeans, two thousand before classical Athens — and depict simplified human forms with folded arms, featureless faces, and an uncanny modernism that led early 20th-century collectors (and forgers) to prize them above almost anything else from antiquity. No one knows for certain what they were for: burial offerings, cult images, dolls, symbols of status? Most were found in graves, some deliberately broken. The faces that look so blank to us were originally painted with eyes, mouths, and elaborate patterns in vivid colours. The abstraction is partly an accident of time."
+score: 8.2
 ---
 
 The Archaeological Museum of Naxos sits inside the Kastro quarter in a building that was once a Jesuit school where the young Nikos Kazantzakis — author of Zorba the Greek — is said to have studied briefly. The collection covers roughly five millennia of Naxian history, from prehistoric Cycladic culture through the Archaic, Classical, and Hellenistic periods, and it is one of the finest small archaeological museums in Greece.

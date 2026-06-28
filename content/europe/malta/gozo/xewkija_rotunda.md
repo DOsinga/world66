@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 36.0337
 longitude: 14.2581
 address: Triq Beland, Xewkija, Gozo
+score: 7.3
 ---
 
 The Rotunda of Xewkija — formally the Church of St John the Baptist — is impossible to miss from anywhere on Gozo. Its enormous dome, modelled loosely on Santa Maria della Salute in Venice but bigger, dominates the island's skyline and is taller than St Paul's in London. The church was built between 1951 and 1971, almost entirely by volunteer parishioners using local limestone from the nearby quarry.

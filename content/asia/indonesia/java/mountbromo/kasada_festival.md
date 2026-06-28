@@ -14,6 +14,7 @@ story: >
   sacrificed the youngest to the volcano. When they did so, the child's voice rose from
   the crater telling them to honour the mountain with annual offerings. The festival
   has continued for centuries.
+score: 8.8
 ---
 
 Kasada is the most important ceremony of the Tengger Hindu community — an annual offering thrown into Bromo's active crater at midnight. Villagers from across the Tengger highlands descend to the caldera, making their way through the sea of sand and up the crater stairs by torchlight. Offerings include fruit, vegetables, rice, flowers, and livestock. Local people stationed below the crater catch the offerings thrown down — catching something from the volcano is considered particularly auspicious.

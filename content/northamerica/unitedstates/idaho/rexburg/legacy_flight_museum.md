@@ -5,6 +5,7 @@ latitude: 43.8346
 longitude: -111.8067
 snippet: "A small but genuine collection of WWII-era aircraft at the municipal airport."
 tags: [things_to_do, museum]
+score: 6.6
 ---
 
 The Legacy Flight Museum sits at the Rexburg-Madison County Airport on the north side of town and houses a collection of airworthy and static WWII-era aircraft alongside exhibits on Idaho aviation history. It's a modest operation — this is not the Air Force Museum in Dayton — but what's here is well-presented and enthusiastically maintained. The aircraft on display have included a P-51 Mustang and a T-6 Texan among others, and the volunteers who staff the place tend to know their material.

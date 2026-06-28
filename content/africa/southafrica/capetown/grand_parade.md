@@ -1,8 +1,7 @@
 ---
-category: Square
 latitude: -33.9258
 longitude: 18.4244
-neighbourhood: City Bowl
+score: 6.8
 scores:
   activities: 0.6214
   sight: 0.7201

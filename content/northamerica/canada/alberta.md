@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: 55.001251
+loc_type: region
 longitude: -115.002136
 score: 0.46
+snippet: Western Canadian province where Rocky Mountain parks meet prairie cities,
+  ranchland, badlands, and fossil country.
 title: Alberta
 type: location
-loc_type: region
 ---
 
 Alberta sits in western Canada between the Rockies and the prairies, and the contrast between those two landscapes defines much of what the province offers. To the west, the mountains are dramatic and close — Banff and Jasper national parks are among the most visited places in Canada for good reason. To the east, the land opens into wide agricultural plains and eventually the badlands near Drumheller, where one of the world's richest fossil records lies embedded in eroded sandstone.

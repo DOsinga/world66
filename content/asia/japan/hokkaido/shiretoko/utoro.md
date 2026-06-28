@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0700
 longitude: 144.9650
+score: 6.8
 ---
 
 Utoro is the main tourist base on the west coast of the Shiretoko Peninsula, with a cluster of hotels, restaurants, and the main ferry terminal for boat tours. The town sits on a small bay beneath dramatic coastal cliffs and is the practical starting point for most Shiretoko itineraries — the roads to Shiretoko Goko Lakes and Kamuiwakka Falls both start here.

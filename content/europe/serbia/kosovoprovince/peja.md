@@ -5,7 +5,9 @@ done:
 latitude: 42.6597
 loc_type: city
 longitude: 20.2883
-score: 0.44
+score: 6.95
+snippet: Western Balkan city at Rugova Gorge, where Ottoman bazaar streets meet the
+  Patriarchate of Peć.
 title: Peja
 type: location
 ---

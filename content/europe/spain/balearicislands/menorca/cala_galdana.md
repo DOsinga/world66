@@ -12,6 +12,7 @@ story: >
   Creek meets the sea. The gorge behind the beach — one of the deepest ravines in
   Menorca — can be walked upstream through a jungle of holm oaks, oleanders, and
   ferns, a dramatic contrast to the busy beach below.
+score: 7.8
 ---
 
 Cala Galdana is widely considered the most beautiful beach on Menorca's south coast: a semicircle of white sand at the mouth of the Algendar gorge, with calm turquoise water and cliffs on three sides. It's well developed — hotels and apartment blocks fill the surrounding hillsides — but the natural setting is so striking that the development barely registers when you're on the beach.

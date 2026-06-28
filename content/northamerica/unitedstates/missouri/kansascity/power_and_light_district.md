@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Power & Light District
 type: poi
+score: 5.5
 ---
 
 The KC Power & Light District is a pedestrianized entertainment complex of about eight blocks in downtown Kansas City, immediately east of T-Mobile Center. Developed in the mid-2000s to anchor a downtown revival, it holds a mix of chain restaurants, bars, and live music venues around a central outdoor plaza that converts to a concert venue for major events. On Chiefs and Royals game days, and on weekend evenings, the district fills with large crowds and is one of the most energetic stretches of urban Kansas City.

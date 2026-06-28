@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.0920
 longitude: 111.5200
+score: 6.6
 ---
 
 The Linfen Municipal Museum houses finds from the city's unusually significant archaeological surroundings. The Fen River valley has been the site of continuous excavation since the mid-20th century, producing Neolithic sites, early Bronze Age settlements, and Zhou-period tombs that support the long-standing argument about this region's place in the origins of Chinese civilisation. The museum's prehistoric and early historic sections are particularly strong, with jade, bone, and ceramic objects from sites that predate the Shang dynasty.

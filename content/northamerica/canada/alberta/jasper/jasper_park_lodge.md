@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Jasper Park Lodge Lounges
 type: poi
+score: 5.3
 ---
 
 The Emerald Lounge does patio BBQs in summer and sandwiches by the fireplace in winter. The Palisade Lounge is more upscale, with cocktails and views over Lac Beauvert. Tent City Sports Lounge has pub food, billiards, and darts. Worth the short drive from town.

@@ -15,6 +15,7 @@ story: >
   associated the city primarily with the oil industry rather than literature —
   a reminder that Port Harcourt has always had a strong intellectual and arts
   culture running alongside its industrial one.
+score: 6.8
 ---
 
 The Port Harcourt Book Festival is an annual literary event held in the city, organised by the Rainbow Book Club in partnership with the Rivers State Government. Founded in 2008, it has grown into one of the most significant literary festivals in West Africa, drawing writers, poets, academics, and readers from across Nigeria and beyond. Events include readings, panel discussions, book launches, and workshops, many of them free and open to the public.

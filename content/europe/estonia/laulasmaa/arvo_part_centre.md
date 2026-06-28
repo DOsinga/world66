@@ -5,6 +5,7 @@ latitude: 59.3717
 longitude: 24.2425
 tags: [things_to_do, sight, museum]
 story: The composer Arvo Pärt chose this spot in 2018 for his archive and research centre, a striking pine-and-glass building set among the trees. Visitors can listen to recordings in private booths, browse the open library, and sometimes catch concerts in the 150-seat hall hidden inside the forest.
+score: 8.2
 ---
 
 The most unexpected thing in Laulasmaa is the modernist research centre dedicated to Estonia's most internationally celebrated living composer. The building, designed by Spanish architects Nieto Sobejano, sits among the pines just back from the beach. From outside it looks like a series of wooden pavilions; inside it opens into a small museum, a library, an auditorium, and a chapel.

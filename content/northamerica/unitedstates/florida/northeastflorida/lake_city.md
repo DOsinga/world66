@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ichetucknee_Springs_State_
 latitude: 30.189425
 loc_type: city
 longitude: -82.63948
-score: 0.31
+score: 5.6
+snippet: North Florida junction town used as a base for spring-fed rivers, forests,
+  and Ichetucknee tubing
 sources:
 - https://en.wikipedia.org/wiki/Lake_City,_Florida
 - https://en.wikipedia.org/wiki/Ichetucknee_Springs_State_Park

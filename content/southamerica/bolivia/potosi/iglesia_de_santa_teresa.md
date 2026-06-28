@@ -15,6 +15,7 @@ story: >
   them back. The collection that resulted is now one of the finest museums of
   colonial religious art in Bolivia, displayed in the convent cells exactly
   as the nuns left them.
+score: 8.6
 ---
 
 The Convent of Santa Teresa was founded in 1692 as a cloistered Carmelite convent, and it continued as such until the 1970s. Since then it has operated as a museum, and it is among the most rewarding in Potosí. The building itself is beautiful — a baroque church with a fine stone facade and a sequence of interior courtyards and cells that are atmospheric in their austere simplicity.

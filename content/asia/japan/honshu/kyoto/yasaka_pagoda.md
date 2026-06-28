@@ -1,11 +1,13 @@
 ---
 latitude: 34.9998
 longitude: 135.7807
+score: 7.6
 snippet: Five-storey pagoda of Hōkan-ji, the unmistakable Higashiyama landmark
 tags:
 - things_to_do
 - pagoda
 - sight
+- higashiyama
 title: Yasaka Pagoda
 type: poi
 ---

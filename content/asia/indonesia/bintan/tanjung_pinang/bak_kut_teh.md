@@ -6,6 +6,7 @@ longitude: 104.4500
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Tanjung Pinang's Chinese-Indonesian population has brought a strong Hokkien and Teochew food tradition to the town, and bak kut teh — pork rib soup slow-cooked with garlic and a bundle of Chinese medicinal herbs — is the dish they are most proud of. The local version tends to be darker and more heavily spiced than the Singaporean style, which is itself already distinct from the Klang Valley original.

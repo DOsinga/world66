@@ -1,11 +1,14 @@
 ---
 latitude: 35.0067
 longitude: 135.7831
-snippet: Quiet, less-visited monzeki temple near Chion-in, with strolling gardens and a famous camphor tree
+score: 7.8
+snippet: Quiet, less-visited monzeki temple near Chion-in, with strolling gardens
+  and a famous camphor tree
 tags:
 - things_to_do
 - temple
 - sight
+- gion
 title: Shōren-in
 type: poi
 ---

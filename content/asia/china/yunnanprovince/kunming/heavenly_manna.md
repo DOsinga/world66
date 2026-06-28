@@ -6,6 +6,7 @@ longitude: 102.7058
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 A long-running Yunnan restaurant on the western side of Cuihu Park, Heavenly Manna does a careful set of provincial classics in a quiet, slightly upmarket setting — wooden booths, white tablecloths, and proper crockery rather than the plastic stools and tin pots of the typical noodle shop. The wild-mushroom hotpot in summer is the standout; in cooler months the steam-pot chicken and the Bai-style cold noodles are the things to order.

@@ -7,6 +7,7 @@ tags:
   - jabal_amman
 latitude: 31.9492
 longitude: 35.9270
+score: 6.6
 ---
 
 A solid mid-range restaurant on the First Circle serving the mezze-focused Levantine cooking that Amman does better than almost anywhere. The hummus is made fresh and eaten with warm flatbread; the kibbeh comes fried and raw (kibbeh nayyeh); the fattoush and tabbouleh are properly sharp with lemon. This is the reliable neighbourhood restaurant type rather than a destination in itself.

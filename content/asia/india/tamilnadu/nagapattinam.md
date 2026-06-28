@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nagore_Dargah1.JPG
 latitude: 10.60262
 loc_type: city
 longitude: 79.761935
-score: 0.34
+score: 6.15
+snippet: Cauvery Delta coastal town surrounded by major Hindu, Muslim, Christian,
+  and Jain pilgrimage sites.
 title: Nagapattinam
 type: location
 ---

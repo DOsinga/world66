@@ -13,6 +13,7 @@ tags:
   - sight
 title: Tsiranavor and Spitakavor Churches
 type: poi
+score: 7.8
 ---
 
 Two ruined medieval churches standing side by side on the edge of the Kasagh River gorge, the crumbling walls and the steep drop to the river below making for one of the more atmospheric spots in Ashtarak. Both date from the early medieval period and both have lost their roofs, but the walls and much of the carved stonework survive.

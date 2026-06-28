@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Germany in the Adelaide Hills — Australia's oldest surviving German settlement"
+score: 7.6
 ---
 
 Hahndorf, 28 km east of Adelaide in the hills, was settled in 1839 by Lutheran immigrants who came directly from Germany on a ship called the Zebra, naming the town after its captain Johann Hahn. It is the oldest surviving German settlement in Australia and looks the part: a single main street lined with stone cottages, butchers selling smoked meats, bakeries selling Stollen and Lebkuchen, and beer gardens.

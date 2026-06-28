@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Wat Phra Ram
 type: poi
+score: 7.9
 ---
 
 One of Ayutthaya's oldest temples, built in 1369 by King Ramesuan on the cremation site of King Uthong, the city's founder. The central prang has been partially restored, but original stucco garudas and nagas still cling to the stonework.

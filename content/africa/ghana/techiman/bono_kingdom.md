@@ -10,6 +10,7 @@ longitude: -1.9361
 sources:
   - https://en.wikipedia.org/wiki/Bono_people
   - https://en.wikipedia.org/wiki/Techiman
+score: 5.6
 ---
 
 Techiman is the current seat of the Bono Traditional Area, the successor to one of the oldest kingdoms in what is now Ghana. The Bono state traces its roots to around the 11th century, making it one of the earliest organised polities in the forest-savanna zone of West Africa. According to oral tradition, the Bono people emerged from a sacred cave called Amowi near Techiman — the name "Bono" itself derives from "Abono woo," meaning pioneer or firstborn of the land.

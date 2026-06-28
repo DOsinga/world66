@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: coloniadelsacramento.jpg
 image_attribution: Herbert Brant
@@ -8,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Colonia-Calle_San_Pedro-TM
 latitude: -34.4712
 loc_type: city
 longitude: -57.8511
+score: 8.46
+snippet: Río de la Plata colonial town where Portuguese and Spanish layers survive
+  in cobbled streets.
 sources:
 - https://en.wikipedia.org/wiki/Colonia_del_Sacramento
 title: Colonia del Sacramento

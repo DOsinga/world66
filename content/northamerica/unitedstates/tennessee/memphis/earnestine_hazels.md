@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - downtown
   - bar
+score: 7.4
 ---
 
 Earnestine & Hazel's has one of the more colorful histories in Memphis nightlife. The building on South Main Street operated as a pharmacy and brothel in the 1950s and 1960s, frequented by musicians from the nearby recording studios and clubs. Today it is a bar with bare floors, dim lighting, a soul food kitchen upstairs that serves into the night, and a jukebox that locals consider one of the best in the city — deep in blues, soul, and R&B, with no irony about it.

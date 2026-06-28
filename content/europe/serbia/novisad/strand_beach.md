@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2467
 longitude: 19.8531
+score: 6.8
 ---
 
 Štrand is the city beach, a long strip of imported sand on the left bank of the Danube just upstream from the bridges. From May to September it is the centre of Novi Sad summer life — sunbathing, swimming in the calm side channel, food stalls, beach volleyball, and a row of bars that stay open late.

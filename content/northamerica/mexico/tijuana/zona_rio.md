@@ -7,6 +7,7 @@ tags:
 latitude: 32.530939
 longitude: -117.017616
 snippet: "Tijuana's upscale modern neighbourhood, home to the best restaurants and CECUT."
+score: 6.6
 ---
 
 Zona Río is where Tijuana's wealth and creative energy concentrated when the city grew beyond the old Centro. Named for the channelled Tijuana River that forms its western boundary, it's a broad boulevard district of office towers, shopping centres, restaurants, and cultural institutions built mostly in the 1970s and 80s.

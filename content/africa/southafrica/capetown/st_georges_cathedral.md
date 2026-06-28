@@ -1,8 +1,7 @@
 ---
-category: Religious
 latitude: -33.9234
 longitude: 18.4198
-neighbourhood: City Bowl
+score: 8.0
 scores:
   activities: 0.6
   sight: 0.6587

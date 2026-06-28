@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_and_Mariti
 latitude: 34.693238
 loc_type: city
 longitude: 135.194376
-score: 0.66
+score: 8.99
 title: Kobe
+snippet: Kansai port city between Rokko mountains and Osaka Bay, long shaped by foreign
+  trade.
 type: location
 ---
 

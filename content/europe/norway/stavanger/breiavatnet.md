@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 58.9681
 longitude: 5.7330
+score: 5.8
 ---
 
 Breiavatnet is a small lake right in the centre of Stavanger, ringed by the city park (Stavangerpark) and surrounded by cafes, benches, and the kind of everyday urban life that makes Norwegian cities agreeable. Swans and ducks use the lake year-round. In summer the park is a gathering place; in winter the surrounding streets and the lake itself sometimes freeze, giving the centre a quieter, more Nordic character.

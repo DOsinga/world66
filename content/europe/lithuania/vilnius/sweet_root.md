@@ -9,6 +9,7 @@ tags:
   - restaurant
   - old_town
 neighbourhood: Old Town
+score: 7.1
 ---
 
 Sweet Root on Užupio Street is one of the most talked-about restaurants in Vilnius, offering what its chef calls "root cooking" — modern cuisine built around Lithuanian and Baltic ingredients: forest mushrooms, cured fish, fermented vegetables, game, and foraged herbs. The tasting menu changes with the seasons and uses techniques from Nordic cooking applied to Lithuanian produce.

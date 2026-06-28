@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 50.43993333333333
 longitude: -104.61696666666666
 story: Wascana Centre was created by damming Wascana Creek in 1883, the year after the city was founded. The resulting lake and park were designed as the civic heart of a capital city that didn't yet exist. At 930 hectares, it is one of the largest urban parks in North America — larger than Central Park and Stanley Park combined — and it sits almost entirely within the city limits.
+score: 8.9
 ---
 
 Wascana Centre is Regina's defining civic space: a 930-hectare park built around an artificial lake that occupies the centre of the city. The provincial Legislative Building, the Royal Saskatchewan Museum, the MacKenzie Art Gallery, the University of Regina, and the Conexus Arts Centre all cluster around the lake's edge, giving the park an institutional weight that makes it both the city's cultural heart and its largest green space.

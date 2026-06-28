@@ -11,8 +11,10 @@ image_source: https://www.flickr.com/photos/134037448@N03/32772680570
 latitude: 5.6037
 loc_type: city
 longitude: -0.187
-score: 0.48
+score: 7.28
 title: Accra
+snippet: Atlantic Ghanaian capital where Ga fishing roots, colonial forts, markets,
+  and modern banking towers collide.
 type: location
 ---
 

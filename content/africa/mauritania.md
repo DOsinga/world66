@@ -7,16 +7,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Finn-DE" title="Us
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Border-Senegal-from-Mauretania.JPG
 latitude: 20.254
+loc_type: country
 longitude: -10.9408
+quick_facts:
+  Population: 4.9 million
+  Religion: 99% Muslim
+  Sahara Coverage: 90%
+  Slavery Criminalised: '2007'
+score: 0.42
+snippet: Saharan West African country known for Adrar plateau towns, Atlantic wildlife,
+  and Senegal River valley cultures.
 title: Mauritania
 type: location
-quick_facts:
-  Population: "4.9 million"
-  Religion: "99% Muslim"
-  Sahara Coverage: "90%"
-  Slavery Criminalised: "2007"
-score: 0.23
-loc_type: country
 ---
 
 Mauritania is one of those countries that still rewards the genuinely curious traveller. Most of it is Sahara — vast, empty, and strikingly beautiful. The northwest is dominated by the Adrar plateau and its ancient desert towns, now UNESCO World Heritage sites. The Atlantic coast offers remarkable wildlife. The southeast holds the ruins of an empire most people have never heard of.

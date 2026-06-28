@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Siguniang_2.jpg
 latitude: 31.1067
 loc_type: feature
 longitude: 102.9017
+score: 8.09
+snippet: UNESCO-listed Sichuan mountain area west of Chengdu, named for four high
+  Qionglai peaks.
 sources:
 - https://en.wikivoyage.org/wiki/Siguniangshan_National_Parks
 title: Siguniang Mountain

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0280
 longitude: 8.0550
+score: 6.6
 ---
 
 The Passo del Ginestra is a popular cycling route that connects the upper Impero valley with the Merula and Lerrone valleys along the border between the provinces of Savona and Imperia. Casanova Lerrone sits on this circuit, which makes it a natural stop for cyclists touring inland Liguria. The roads are quiet, the scenery is of olive terraces and wooded ridgelines, and the cols are genuinely challenging without being extreme.

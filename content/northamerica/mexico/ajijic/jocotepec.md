@@ -7,6 +7,7 @@ tags:
 latitude: 20.2908
 longitude: -103.4383
 snippet: Traditional Mexican town at the western end of Lake Chapala, less touristy than Ajijic
+score: 6.9
 ---
 
 Jocotepec sits at the western end of Lake Chapala, about 20 kilometers from Ajijic along the lakeside road. It is a more authentically Mexican small town than Ajijic, with fewer expats and a more traditional market life. The town is known for its handwoven serapes — the distinctive striped blankets that are woven on back-strap looms by local artisans and sold in the market.

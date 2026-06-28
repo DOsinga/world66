@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 48.802
 longitude: -123.704
+score: 7.2
 ---
 
 Somenos Lake, just north of Duncan, is one of the best birding spots on Vancouver Island. The shallow lake and its surrounding marshes form a significant wetland that attracts waterfowl, wading birds, and raptors throughout the year, with peak numbers during winter when trumpeter swans gather in their hundreds. The Somenos Marsh Wildlife Refuge encompasses the lake and adjoining wetlands and is protected under provincial designation.

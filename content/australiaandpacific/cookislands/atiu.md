@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kopeka.jpg
 latitude: -19.916358
 loc_type: city
 longitude: -158.197198
-score: 0.55
+score: 7.75
+snippet: Raised-coral Cook Island with forested makatea, limestone caves, endemic
+  birds, and clustered inland villages.
 title: Atiu
 type: location
 ---

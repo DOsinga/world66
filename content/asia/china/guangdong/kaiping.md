@@ -1,17 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: kaiping.jpg
+image_attribution: Kevin Poh
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Kaiping_Diaolou_(3548696583).jpg
 latitude: 22.3763
 loc_type: city
 longitude: 112.6877
+score: 7.81
+snippet: Guangdong countryside city famous for diaolou watchtowers built by returned
+  overseas Chinese families
 sources:
 - https://en.wikivoyage.org/wiki/Kaiping
 title: Kaiping
 type: location
-image: kaiping.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kaiping_Diaolou_(3548696583).jpg
-image_license: CC BY 2.0
-image_attribution: Kevin Poh
 ---
 
 Kaiping is home to one of the strangest and most compelling landscapes in southern China: a countryside scattered with hundreds of fortified towers, called diaolou, built by returned emigrants in the early twentieth century. The towers are part defensive structure, part status symbol, and entirely the product of a particular historical moment — the years between 1900 and 1940 when Cantonese labourers who had built railways in North America and worked the goldfields of Australia came back with foreign money and foreign ideas. The result is an architecture like nothing else: five- and six-storey watchtowers in baroque, neoclassical, and Moorish styles, rising from rice paddies and lotus ponds, some of them abandoned for decades, their clocks stopped, their rooms still furnished. A UNESCO World Heritage designation in 2007 has formalized the obvious: this is extraordinary.

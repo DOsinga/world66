@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 7.7
 ---
 
 Lej da Staz (Lake of Staz in Romansh) is a small high-altitude lake east of the resort, surrounded by larch and Swiss pine forest. At 1,822 metres, it sits in a natural hollow that collects cold air, and the trees around it are often frosted when the resort above is sunny. A circular walking path takes about 45 minutes and passes through forest that feels genuinely wild by Alpine standards.

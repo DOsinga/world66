@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/72913900@N00/5047968735
 latitude: 56.504843
 loc_type: city
 longitude: 21.00709
-score: 0.43
+score: 7.22
 title: Liepaja
 type: location
+snippet: Latvian Baltic port city with beaches, Karosta naval history, and a remarkable
+  historic cathedral organ.
 ---
 
 Liepaja is Latvia's third-largest city, on the west coast where the Baltic Sea meets the Liepaja Lake. It's a three-hour bus ride from Riga but worth the trip — the city has a lived-in character, good beaches, and a handful of genuine sights that reward a day or two.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Makatea Coast
 type: poi
+score: 7.4
 ---
 
 Like its neighbours Atiu and Mitiaro, Mauke is ringed by makatea — ancient coral reef pushed five metres above the waterline by tectonic uplift, then weathered into a razor-edged limestone band 200-300 metres wide. The result is dramatic but inhospitable: there are very few sandy beaches, but the coral terrace is honeycombed with caves, blowholes, and tidal swimming pools.

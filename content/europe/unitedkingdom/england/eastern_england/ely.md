@@ -5,7 +5,9 @@ done:
 latitude: 52.399
 loc_type: city
 longitude: 0.262
-score: 0.51
+score: 7.47
+snippet: Fenland cathedral city defined by Ely Cathedral's octagonal lantern tower
+  and quiet riverside streets.
 sources:
 - https://en.wikipedia.org/wiki/Ely,_Cambridgeshire
 title: Ely

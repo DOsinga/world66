@@ -13,6 +13,7 @@ story: >
   quantities and outsiders often find puzzling. The Württembergers regard it as their
   regional treasure, and the Besenwirtschaften that serve it are one of the genuinely
   local experiences in the area.
+score: 6.9
 ---
 
 The Rems Valley east of Stuttgart is wine country, and the villages around Schorndorf — Winterbach, Urbach, Remshalden — are surrounded by vineyards producing Trollinger, Lemberger, and Riesling. The marked Rems Valley Weinwanderweg (wine hiking path) connects several villages and can be walked or cycled in sections.

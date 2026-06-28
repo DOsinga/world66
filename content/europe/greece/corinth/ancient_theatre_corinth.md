@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.9073
 longitude: 22.8770
+score: 6.9
 ---
 
 The ancient theatre at Corinth was built in the 5th century BC, modified by the Romans, and later used for gladiatorial combat and animal hunts by flooding the orchestra — a repurposing the Romans applied to theatres across the empire. The theatre is slightly separate from the main archaeological zone, on the northwestern slope of the city plateau.

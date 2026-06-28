@@ -6,6 +6,7 @@ longitude: -82.4333
 tags:
   - things_to_do
   - sight
+score: 4.6
 ---
 
 David is the provincial capital and Panama's third-largest city, set in the hot lowland plain about 30 km south of Boquete. Most travellers pass through it on their way to the highlands without stopping; the city is not unattractive but does not offer much that the highland towns do not do better.

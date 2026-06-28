@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ancient Congregational Mosque
 type: poi
+score: 8.1
 ---
 
 The Atigh Jameh Mosque is the oldest mosque in Shiraz, founded around 894 CE on the site of an earlier Zoroastrian fire temple. Much of what stands today is the result of later Safavid and Qajar rebuilding — the original fabric was repeatedly damaged by earthquakes — but the layout still preserves the early Islamic courtyard plan with iwans on four sides.

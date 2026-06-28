@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Another Place
 type: poi
+score: 8.5
 ---
 
 Antony Gormley's installation of 100 cast-iron figures spread along three kilometres of Crosby Beach, eight miles north of central Liverpool. All 100 are casts of Gormley's own body, all facing out to sea. The figures stand on a sloping foreshore, so at high tide many are partly or fully submerged, then re-emerge as the tide recedes.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sa'at Tower
 type: poi
+score: 6.8
 ---
 
 Sa'at Tower, also called the Tabriz Municipality Palace, dominates the central

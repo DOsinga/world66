@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:TaipingKotaRoad.jpg
 latitude: 4.8549
 loc_type: city
 longitude: 100.7378
-score: 0.51
+score: 7.45
+snippet: Rainy Perak town with colonial dignity and Malaysia's oldest public gardens
+  in a former tin-mining landscape.
 title: Taiping
 type: location
 ---

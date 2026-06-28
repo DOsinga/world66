@@ -2,10 +2,16 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-04'
+image: schladming.jpg
+image_attribution: Guessitsavis
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Schladming-aerial.jpg
 latitude: 47.394042
 loc_type: city
 longitude: 13.686788
-score: 0.61
+score: 8.33
+snippet: Styrian Alpine town between Dachstein and the Schladminger Tauern, centred
+  on skiing and old mining streets.
 title: Schladming
 type: location
 ---

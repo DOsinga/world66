@@ -9,6 +9,7 @@ tags:
   - walking
   - cycling
 snippet: River walkway running through the heart of the city
+score: 7.2
 ---
 
 The Waikato River flows through the heart of Hamilton and the riverside walkway runs for several kilometres along both banks, connecting the central city to the Hamilton Gardens in the south and Claudelands in the east. The path is flat, well-maintained, and popular with joggers, cyclists, and families at any time of day.

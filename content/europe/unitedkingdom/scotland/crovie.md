@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Crovie_by_Cabro_Aviation.j
 latitude: 57.679
 loc_type: city
 longitude: -2.3241
-score: 0.48
+score: 7.73
+snippet: Tiny Aberdeenshire fishing village of shorefront cottages wedged tightly
+  between cliff and Moray Firth
 title: Crovie
 type: location
 ---

@@ -5,7 +5,9 @@ done:
 latitude: 8.6003
 loc_type: city
 longitude: -80.1264
-score: 0.52
+score: 7.76
+snippet: Cool Panamanian valley inside an inhabited volcanic crater, with cloud forest,
+  orchids, and weekend markets.
 sources:
 - https://en.wikipedia.org/wiki/El_Valle_de_Ant%C3%B3n
 - https://www.el-valle-panama.com/what-to-do/

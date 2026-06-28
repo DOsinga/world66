@@ -11,6 +11,7 @@ longitude: 6.791944444444444
 snippet: Glacial lake with perfect reflections of surrounding peaks
 story: >
   The lake owes its name to the extraordinary stillness of its water on calm mornings, when the rock faces and snow patches of the surrounding peaks are reflected with photographic precision. Mist rising off the surface in early summer creates a scene that photographers plan entire trips around.
+score: 8.4
 ---
 
 One of the highlights of walking around Ceillac, Lac Miroir sits at just under 2,200 metres and is reached by a well-marked trail that climbs steadily through pine forest and alpine pasture. The walk from the village takes around two hours each way and is suitable for fit walkers of all ages.

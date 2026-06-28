@@ -1,21 +1,23 @@
 ---
-title: Channel Islands
-type: location
-latitude: 49.372
-longitude: -2.364
-image: channelislands.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Châté_Lîzabé_d'l'Hèrmitage_2009_c.jpg
-image_license: Public domain
-image_attribution: Man vyi
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "175,000"
-  Distance to France: "Just 14 miles"
-  Sark: "No cars allowed — last feudal state in Europe until 2008"
-  Status: "British Crown dependencies, not part of the UK"
-score: 0.59
+image: channelislands.jpg
+image_attribution: Man vyi
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Châté_Lîzabé_d'l'Hèrmitage_2009_c.jpg
+latitude: 49.372
 loc_type: country
+longitude: -2.364
+quick_facts:
+  Distance to France: Just 14 miles
+  Population: 175,000
+  Sark: No cars allowed — last feudal state in Europe until 2008
+  Status: British Crown dependencies, not part of the UK
+score: 0.45
+snippet: British Crown dependency archipelago off Normandy, with Norman character,
+  island parliaments, and unusual autonomy
+title: Channel Islands
+type: location
 ---
 
 The Channel Islands sit closer to the coast of Normandy than to England — just 14 miles from France at their nearest point — yet they are British Crown dependencies with their own parliaments, legal systems, and tax rules. They are not part of the United Kingdom and not part of the EU, which gives them an unusual autonomy that shapes everything from prices to alcohol policy.

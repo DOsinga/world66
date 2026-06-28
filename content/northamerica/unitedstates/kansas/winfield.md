@@ -8,8 +8,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cowley_County_National_Bank_Building.JPG
 latitude: 37.2397
 loc_type: city
+snippet: South-central Kansas town best known for the Walnut Valley Festival and its
+  bluegrass instrument championships
 longitude: -96.9956
-score: 0.28
+score: 5.55
 title: Winfield
 type: location
 ---

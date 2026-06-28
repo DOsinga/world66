@@ -8,6 +8,7 @@ latitude: 41.124303
 longitude: -81.497349
 story: >
   Blossom opened in 1968 as the summer home of the Cleveland Orchestra, and its opening season was so successful that the venue quickly became one of the most admired outdoor amphitheaters in the country. The shed was designed by Peter van Dijk and seats around 5,700 under the covered pavilion, with room for another 13,000 on the lawn — a setup that has barely changed since the first summer.
+score: 8.0
 ---
 
 Blossom Music Center is one of the premier outdoor concert venues in the Midwest, set in a bowl of wooded hills just south of Cuyahoga Falls. From June through September it hosts both the Cleveland Orchestra's summer season and a full slate of popular music acts — rock, country, pop, and everything in between. The schedule typically includes dozens of shows spread across the season.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.9926
 longitude: -2.1553
+score: 7.2
 ---
 
 Tewkesbury Museum is a small community museum housed in a seventeenth-century building in the town centre. The collection covers the social history of Tewkesbury from the medieval period to the twentieth century, with particular strength on the Battle of Tewkesbury, the abbey, and the town's history as a river trading port.

@@ -8,6 +8,7 @@ tags:
   - sight
   - landmark
 snippet: Iconic island village on a causeway, 15 km south of Budva — the most photographed spot on the Montenegrin coast
+score: 8.5
 ---
 
 Sveti Stefan is the image that sells Montenegro to the world: a small medieval village built on a rocky islet connected to the mainland by a narrow causeway, its terracotta rooftops rising above the Adriatic. It is about 15 km south of Budva and reachable by bus or taxi in around 15–20 minutes.

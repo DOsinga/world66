@@ -8,6 +8,7 @@ tags:
 - history
 title: Cobá
 type: poi
+score: 8.4
 ---
 
 A large Mayan city of 50,000 people at its 9th-century peak, now spread across 70 square kilometres of jungle 170 km southwest of Cancun. Most of the site remains unexcavated — bicycles or pedal-rickshaws are available at the gate to cover the distances between the main groupings. The headline structure is **Nohoch Mul**, at 42 metres the tallest Mayan pyramid in the Yucatán Peninsula. Climbing was permitted until 2020 but is now forbidden to protect the structure.

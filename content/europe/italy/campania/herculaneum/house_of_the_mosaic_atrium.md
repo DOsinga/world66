@@ -10,6 +10,7 @@ latitude: 40.8058
 longitude: 14.3487
 sources:
   - https://en.wikipedia.org/wiki/Herculaneum
+score: 8.4
 ---
 
 One of the grandest private residences in Herculaneum, the House of the Mosaic Atrium takes its name from the spectacular geometric black-and-white mosaic that covers the floor of its central atrium and side corridors. The tesserae are still in place, buckled slightly by the pyroclastic flow but otherwise intact — a remarkable survival for a floor laid in the first century AD.

@@ -8,8 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Vanadzor,_Armenia_in_spring_from_lookout_on_hill.jpg
 latitude: 40.813631
 loc_type: city
+snippet: Armenia's third city, a quiet Lori valley base for forests, gorges, and medieval
+  ruins.
 longitude: 44.482104
-score: 0.38
+score: 6.37
 title: Vanadzor
 type: location
 ---

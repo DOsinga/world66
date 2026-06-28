@@ -9,10 +9,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Drass_and_Tololing_Range.j
 latitude: 34.4293
 loc_type: city
 longitude: 75.7508
-score: 0.42
+score: 6.61
 sources:
 - https://en.wikipedia.org/wiki/Dras
 - https://en.wikipedia.org/wiki/Kargil_War_Memorial
+snippet: Himalayan frontier town in the Dras River valley, framed by bare mountains
+  and Kargil War memorials.
 title: Drass
 type: location
 ---

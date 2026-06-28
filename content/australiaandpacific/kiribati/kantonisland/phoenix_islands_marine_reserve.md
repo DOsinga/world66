@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.8
 longitude: -171.7
+score: 9.0
 ---
 
 Kanton sits within the Phoenix Islands Protected Area, a UNESCO World Heritage Site and one of the largest marine protected areas on earth, covering over 400,000 square kilometres of ocean. The designation reflects the genuinely exceptional condition of the marine ecosystems here — largely undisturbed by fishing or development, the reefs and open ocean around the Phoenix Islands support populations of reef sharks, manta rays, sea turtles, and seabirds that have been severely depleted elsewhere in the Pacific.

@@ -8,6 +8,7 @@ tags:
 latitude: 54.2510
 longitude: -6.9582
 snippet: "Vast 19th-century former lunatic asylum, now partly converted to community uses"
+score: 6.3
 ---
 
 A sprawling Victorian Gothic complex on Armagh Road, originally opened in 1869 as the Monaghan District Lunatic Asylum and renamed St Davnet's in 1916. At its peak it housed more than a thousand patients in long, severe blocks of grey limestone. Most of the working hospital functions have since moved out and parts of the site are being converted into a mix of community, educational, and heritage use.

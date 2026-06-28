@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -1.3955
 longitude: -78.4238
+score: 6.4
 ---
 
 Baños is famous throughout Ecuador for taffy-like sugar candy called melcocha (or taffy de Baños). At several shops along Calle Ambato and the surrounding streets, you can watch the candy being made — a process that involves stretching hot sugar paste on large iron hooks bolted to the wall, pulling and twisting it repeatedly until it aerates and turns white. The spectacle draws small crowds throughout the day.

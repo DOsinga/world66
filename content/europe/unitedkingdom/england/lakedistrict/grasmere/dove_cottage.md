@@ -13,6 +13,7 @@ story: >
   with extraordinary precision and became a source for some of Wordsworth's best-known poems.
   The cottage was originally an inn called the Dove and Olive Bough; when the Wordsworths
   took it they paid eight pounds a year in rent.
+score: 9.6
 ---
 
 Dove Cottage is the most visited literary site in the Lake District and one of the best-preserved Romantic-era homes in England. William Wordsworth lived here from 1799 to 1808, sharing the small whitewashed cottage first with his sister Dorothy and later with his wife Mary and their growing family. It was here that he wrote some of his finest poems, including "Resolution and Independence" and much of *The Prelude*.

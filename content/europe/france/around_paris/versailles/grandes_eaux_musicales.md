@@ -11,6 +11,7 @@ story: >
   played at Versailles — Lully, Couperin, Charpentier, Rameau. Lully staged the
   first great fountain shows here in the 1670s, composing the music to match the
   jets. The show today is in direct continuity with those original performances.
+score: 8.5
 ---
 
 The Grandes Eaux Musicales are the Musical Fountains shows that run on Saturdays, Sundays, and certain public holidays from early April to late October. All the major fountains in the gardens operate simultaneously, their jets choreographed to Baroque music played through speakers along the garden paths. It costs around €10 on top of the standard garden ticket and transforms the experience.

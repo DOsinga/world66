@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_Bol%C3%ADvar_histor
 latitude: 8.102853
 loc_type: city
 longitude: -63.546956
-score: 0.35
+score: 6.27
+snippet: Colonial Orinoco River city whose pastel historic centre faces Venezuela's
+  southern wilderness
 title: Ciudad Bolívar
 type: location
 ---

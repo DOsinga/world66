@@ -8,6 +8,7 @@ tags:
 - sight
 title: Hanamikōji
 type: poi
+score: 7.6
 ---
 
 Hanamikōji ("flower-viewing lane") is the spine of the Gion geisha quarter, running north–south for several hundred metres from Shijō-dōri down toward the Kennin-ji temple. The street is paved in dark stone and lined on both sides with the lantern-fronted wooden facades of *ochaya* (tea houses) and *okiya* (the residences where *geiko* and *maiko* live and train). Most of the buildings are private and not open to passers-by, but at dusk you can sometimes glimpse a *geiko* slipping between appointments through a curtained doorway.

@@ -12,6 +12,7 @@ story: >
   survived both World Wars intact and was converted into a visitor viewpoint
   in the 1970s — it remains the tallest structure on the island and the one
   landmark visible from almost everywhere.
+score: 6.9
 ---
 
 The red-brick water tower is Langeoog's most recognisable landmark, rising above the dune belt near the village with views across the entire island and out over the Wadden Sea. It has been a public viewpoint for decades, and on a clear day you can see all the way to the North Frisian Islands to the east.

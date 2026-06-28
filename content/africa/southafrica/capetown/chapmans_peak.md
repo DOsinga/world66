@@ -1,7 +1,7 @@
 ---
-category: Drive
 latitude: -34.0775
 longitude: 18.3589
+score: 9.2
 scores:
   activities: 0.5755
   sight: 0.6428
@@ -16,6 +16,7 @@ tags:
 - things_to_do
 - day_trips
 - sight
+- southern_peninsula
 title: Chapman's Peak Drive
 type: poi
 ---

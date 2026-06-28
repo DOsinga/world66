@@ -12,6 +12,7 @@ story: "The name Haleakalā means 'House of the Sun' in Hawaiian — the demigod
 sources:
   - https://en.wikipedia.org/wiki/Haleakal%C4%81_National_Park
   - https://en.wikipedia.org/wiki/Haleakal%C4%81
+score: 9.6
 ---
 
 Haleakalā is Maui's defining landmark: a massive shield volcano that forms more than 75 percent of the island. The summit sits at 3,055 metres, and the crater stretching away from it is one of the most extraordinary landscapes in the Pacific — a ten-mile-wide cinder bowl of ochre, rust, and black under a sky that looks like no other.

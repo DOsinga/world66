@@ -10,6 +10,7 @@ latitude: 34.0904
 longitude: -118.3872
 sources:
   - https://en.wikipedia.org/wiki/Whisky_a_Go_Go
+score: 8.6
 ---
 
 The Whisky a Go Go opened in January 1964 and within two years was hosting the Doors, Janis Joplin, and the Buffalo Springfield. In the 1970s it became a hard rock and metal venue — Van Halen played its first major show here, and Love at First Sting by the Scorpions was recorded live in the parking lot. The club is still going, still at 8901 Sunset, still booking new and established acts most nights of the week.

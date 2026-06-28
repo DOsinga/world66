@@ -12,6 +12,7 @@ story: >
   cave beneath the natural limestone bridge, flows underground, and re-emerges downstream.
   The pools above are fed by springs filtering through the rock, which is why they stay
   so clear while the river below runs brown.
+score: 9.2
 ---
 
 Semuc Champey is one of Guatemala's genuinely unmissable natural sights — a series of natural limestone terraces spanning the Cahabón River, filled with crystal-clear turquoise pools at different levels. You can swim in most of the pools, wade between terraces, and look down through gaps in the stone at the rushing river far below. The setting is in dense cloud forest, and the walk up to the El Mirador viewpoint above the site gives a perspective on the full formation.

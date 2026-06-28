@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 37.8670
 longitude: 112.5570
+score: 6.7
 ---
 
 Fen Jiu, produced in Fenyang south of Taiyuan, is one of China's most celebrated baijiu styles — a clear, light-flavoured spirit in the fen-xiang (Fen fragrance) category, distilled from sorghum and known for its relatively clean, floral character compared with the earthier styles from Sichuan and Guizhou. Fen Jiu has a history of over 1,500 years and was the dominant style in Chinese spirits culture before the more intensely flavoured Maotai tradition came to national prominence in the 20th century.

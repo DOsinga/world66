@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2244
 longitude: -80.8473
+score: 8.4
 ---
 
 The Bechtler Museum of Modern Art holds the personal art collection of Swiss industrialist Andreas Bechtler, donated to Charlotte and opened in 2009. The collection is remarkable: works by Picasso, Matisse, Miro, Calder, Giacometti, and Warhol, assembled by a European collector with genuine taste over several decades. It is one of the strongest collections of mid-20th-century European modernism in the American Southeast, and a genuine surprise in a city more associated with banking and racing.

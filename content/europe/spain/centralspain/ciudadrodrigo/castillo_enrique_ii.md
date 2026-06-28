@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.5986
 longitude: -6.5385
+score: 7.7
 ---
 
 The castle of Enrique II stands at the western edge of the old town, built in the 14th century on a site overlooking the Río Águeda. It is one of the better-preserved examples of medieval castle architecture in western Castile, with thick square towers and a commanding position on the city walls.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Drace.jpg
 latitude: 42.929683
 loc_type: city
 longitude: 17.448626
-score: 0.55
+score: 7.98
+snippet: Tiny Pelješac harbour village with clear Adriatic water, family konobas,
+  and nearby Dingač vineyards.
 title: Drače
 type: location
 ---

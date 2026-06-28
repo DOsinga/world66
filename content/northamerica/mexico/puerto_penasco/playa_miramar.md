@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, outdoor, swimming]
 latitude: 31.310
 longitude: -113.525
+score: 6.4
 ---
 
 Playa Miramar is the town beach directly adjacent to the Malecón — smaller and less developed than Sandy Beach, it sits right in front of the old port. At low tide the beach widens considerably and the shallow water is warm enough to wade far out. This is where locals swim rather than tourists, which makes it quieter and more pleasant than the resort end.

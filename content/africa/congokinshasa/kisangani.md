@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/16935515@N00/2293424781
 latitude: 0.5153
 loc_type: city
 longitude: 25.191
-score: 0.27
+score: 4.75
+snippet: Congo River city deep in equatorial forest, near Boyoma Falls and Wagenya
+  fishing traditions.
 title: Kisangani
 type: location
 ---

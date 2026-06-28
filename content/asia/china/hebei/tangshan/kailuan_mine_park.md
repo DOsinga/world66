@@ -13,6 +13,7 @@ story: >
   railway built and operated by Chinese engineers. When they ran out of foreign
   rolling stock, they built their own locomotive in 1882: the "Rocket of China,"
   a copy of the Stephenson Rocket assembled in a repair shed.
+score: 7.8
 ---
 
 The Kailuan National Mine Park occupies the site of China's first modern coal mine, established in 1878 when the Qing dynasty partnered with British capital to mechanise coal extraction. The mine operated continuously for more than a century, helping to industrialise Tangshan and fuel the factories that made it one of China's most important steel-producing cities. The park now preserves the Victorian-era administrative buildings, the engine houses, and the mining infrastructure within a heritage site that gives a vivid account of industrial history.

@@ -9,6 +9,7 @@ snippet: "Brâncuși's 29-metre cast-iron masterwork, the tallest point in the C
 latitude: 45.0392
 longitude: 23.2839
 story: "The Endless Column nearly did not survive the twentieth century. In 1951, Romanian communist authorities considered melting it down for scrap iron — a column designed to honour the heroes of World War I did not fit the new ideological programme. It survived only because a local engineer argued its metal was too brittle for practical reuse. By 1998 it had corroded severely and required a complete restoration, carried out by the World Monuments Fund."
+score: 9.6
 ---
 
 The Endless Column stands at the eastern end of the Calea Eroilor axis, 29.33 metres of stacked rhomboidal modules in cast iron — a form that seems simultaneously ancient and completely modern. Brâncuși designed it as a monument to the heroes of the First World War, but the column transcends commemoration: it is one of the defining works of twentieth-century sculpture, an object that changes depending on the light, the season, and the angle from which you approach.

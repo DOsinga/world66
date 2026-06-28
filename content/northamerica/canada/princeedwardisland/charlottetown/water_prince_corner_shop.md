@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 46.2321
 longitude: -63.1285
+score: 6.9
 ---
 
 This modest corner shop on Water Street is the best-known spot in Charlottetown for affordable lobster. The formula is simple: lobster rolls, chowder, mussels, and PEI oysters, served in an unpretentious room or at outdoor tables when the weather allows. The quality is consistent and the prices are significantly lower than you'd pay at a sit-down restaurant on the waterfront.

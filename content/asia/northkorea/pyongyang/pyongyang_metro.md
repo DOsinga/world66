@@ -12,6 +12,7 @@ story: >
   system was designed to protect the capital's population in the event of attack.
   For foreign visitors, the metro has historically only been open on a small
   number of designated stations; the extent of the network remains classified.
+score: 8.9
 ---
 
 The Pyongyang Metro is one of the deepest urban rail systems in the world and one of the most elaborately decorated. The stations open to foreign tourists — a rotating selection, typically including Puhŭng and Yŏngwang on the Chŏllima Line — are covered in mosaics, chandeliers, and ideological murals of a quality and scale that would not be out of place in the Moscow Metro of the 1950s. The trains themselves are elderly (originally supplied by East Germany) but functional.

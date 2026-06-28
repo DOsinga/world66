@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Roman house and bath complex on the headland at the western edge of town"
+score: 7.1
 ---
 
 The Insula Romana is a partially excavated 3rd-century Roman residential complex on the headland just beyond the archaeological museum. The visible remains include a sequence of rooms, a small private bath, and a long corridor mosaic showing wild animals — lions, leopards, a panther — in fine condition.

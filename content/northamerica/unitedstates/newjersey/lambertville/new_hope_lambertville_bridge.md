@@ -15,6 +15,7 @@ story: >
   The two towns it connects have historically had a friendly rivalry — Lambertville
   tends to attract dealers and serious collectors; New Hope draws a rowdier,
   more nightlife-oriented crowd.
+score: 7.2
 ---
 
 The pedestrian bridge across the Delaware is one of the most pleasant short walks in the region. The 1904 steel truss structure spans 1,053 feet of river, and from its midpoint you get views upstream and downstream that explain why artists have been painting this stretch of the Delaware for two centuries. New Hope's restaurants and bars are a two-minute walk from the far bank.

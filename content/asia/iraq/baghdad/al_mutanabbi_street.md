@@ -14,6 +14,7 @@ story: >
   had returned to the street. Poets in the United States and Britain responded with
   the "Al-Mutanabbi Street Starts Here" project, collecting broadsheets of poetry
   published in solidarity with the street and the idea it represented.
+score: 8.7
 ---
 
 Al-Mutanabbi Street is Baghdad's literary quarter — a long street of bookshops, outdoor book stalls, and print dealers that has been the centre of Baghdadi intellectual life since the 8th century. It is named after the 10th-century Arabic poet Al-Mutanabbi, one of the greatest poets of classical Arabic literature, and it remains a working book market where booksellers display titles on tables and hang them from the walls of their shops.

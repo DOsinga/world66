@@ -9,6 +9,7 @@ longitude: 106.1123
 story: >
   The trail through these valleys was bombed so heavily during the American War that Quang Binh province became one of the most heavily bombed places in history.
   UXO (unexploded ordnance) clearance is still ongoing; local guides know which paths are safe and which are not.
+score: 7.1
 ---
 
 The Ho Chi Minh Trail — the supply network that kept the North Vietnamese forces fighting through the American War — ran through the valleys of what is now the national park. The mountains here were strategic: hard to bomb effectively, close enough to the Laotian border to receive supplies, and providing natural cover. Sections of the trail are still visible, and some supply depots, vehicle shelters, and bomb craters remain in the forest.

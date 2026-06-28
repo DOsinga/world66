@@ -8,6 +8,7 @@ tags:
 latitude: 34.6419
 longitude: 50.8781
 snippet: "Great mosque adjacent to the shrine, with sweeping tile-work and minarets"
+score: 7.8
 ---
 
 The Azam Mosque sits directly adjacent to the Fatimah al-Masumah Shrine complex and is one of the largest mosques in Iran, built over several decades in the 20th century to accommodate the pilgrim overflow. The mosque's interior is covered in elaborate mirror-work and tilework in the style of Qajar-era religious architecture, taken to an almost overwhelming scale.

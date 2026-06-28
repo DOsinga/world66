@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cappadoce-Avanos.jpg
 latitude: 38.870906
 loc_type: city
 longitude: 34.853666
-score: 0.62
+score: 8.62
+snippet: Cappadocian pottery town on the Kizilirmak, where red river clay feeds centuries-old
+  workshops.
 title: Avanos
 type: location
 ---

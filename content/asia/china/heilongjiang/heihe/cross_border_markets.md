@@ -15,6 +15,7 @@ story: >
   setup — Chinese merchants selling to Russian buyers in a city that exists
   because of geography rather than planning — is a functioning model of small-
   scale cross-border capitalism at the edge of the world.
+score: 7.4
 ---
 
 The border economy defines Heihe's commercial character, and the trade markets near the waterfront make it visible. The Great Island International Trade Centre and the Russian International Trade Centre are essentially covered markets catering to Russian buyers who cross from Blagoveshchensk, as well as to Chinese traders who sell to them. The goods on offer — furs, clothing, electronics, medicines, souvenirs — are priced and packaged for the Russian market, and the negotiating atmosphere is distinctly international.

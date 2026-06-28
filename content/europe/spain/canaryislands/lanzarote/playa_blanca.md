@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Blanca_Town_Promenad
 latitude: 28.8632
 loc_type: city
 longitude: -13.8299
-score: 0.55
+score: 8.66
+snippet: Lanzarote resort town grown from a fishing port, close to the sheltered Papagayo
+  beaches.
 title: Playa Blanca
 type: location
 ---

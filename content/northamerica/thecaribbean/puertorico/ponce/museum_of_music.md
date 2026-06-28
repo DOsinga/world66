@@ -8,6 +8,7 @@ title: Museum of Puerto Rican Music
 type: poi
 story: >
   Puerto Rican music is a palimpsest of three cultures. The Taíno contributed the güiro and the maraca. Spanish colonists brought the guitar, the cuatro, and their song forms. Enslaved Africans brought the drums and the rhythmic sensibility that became bomba — a music of resistance, played at the edge of the sugar fields. The museum documents how these three traditions fused over four centuries into something genuinely new: salsa, plena, danza. Ponce, as the island's sugar capital, was at the centre of this fusion.
+score: 7.3
 ---
 
 The Museo de la Música Puertorriqueña traces the history of Puerto Rican music through instruments, memorabilia, and recordings, housed in a restored colonial building a few blocks from Plaza las Delicias. The collection covers the full arc: from pre-Columbian Taíno instruments through Spanish colonial song forms to the African-derived bomba and plena genres that are most distinctly Puerto Rican. The display of handmade cuatros — the ten-stringed guitar that is the island's national instrument — is particularly good.

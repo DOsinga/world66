@@ -13,6 +13,7 @@ tags:
   - sight
 title: Shrine of Khwaja Abu Nasr Parsa
 type: poi
+score: 7.2
 ---
 
 The Green Mosque — officially the Shrine of Khwaja Abu Nasr Parsa, a 15th-century Timurid scholar and mystic — is the most architecturally intact monument in Balkh and one of the finest examples of Timurid religious architecture in Central Asia. Its dome, covered in turquoise and blue tiles, rises over the otherwise flat landscape of the old city and can be seen from a considerable distance. The tilework, though damaged, gives a clear sense of what Balkh looked like in its last great era of prosperity before the final Uzbek and then Russian incursions reduced the city to a fraction of its former size.

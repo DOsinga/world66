@@ -10,6 +10,7 @@ story: Some of the most important late-Jurassic dinosaur fossils ever found came
   of Garden Park in the 1870s and 1880s — including the first complete Stegosaurus
   skeleton and most of the early Diplodocus specimens that filled the world's natural
   history museums.
+score: 7.8
 ---
 
 The Garden Park Fossil Area, twenty kilometres north of Cañon City along Field Avenue, is one of the most productive dinosaur fossil sites in North America. The famous Marsh-Cope "bone wars" of the 1870s tore through this hillside, sending crate after crate of complete skeletons east to Washington and New York.

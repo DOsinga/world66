@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.7575
 longitude: 8.2375
+score: 7.9
 ---
 
 The **Museum Frieder Burda** is the most important modern art collection in Baden-Baden, housed in a white minimalist building designed by Richard Meier in 2004 and set on the Lichtentaler Allee. The permanent collection of the late publishing tycoon Frieder Burda includes works by Picasso, Pollock, Rothko, Beckmann, Richter, Kirchner, and Polke.

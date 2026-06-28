@@ -8,6 +8,7 @@ tags:
 - prenzlauerberg
 title: Eckstein
 type: poi
+score: 5.4
 ---
 
 A corner café (Eckstein means cornerstone) on Pappelallee, good for daytime coffee or an early evening beer. A local regulars spot rather than a scene bar.

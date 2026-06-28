@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -11.6071
 longitude: 34.2992
+score: 7.3
 ---
 
 The small port is the working heart of Nkhata Bay — fish boats unloading at dawn, the weekly arrival and departure of the Ilala ferry, and a constant traffic of dugout canoes paddling between the headlands. The concrete pier and warehouses are functional rather than picturesque, but the activity around them is the most interesting thing to watch in town.

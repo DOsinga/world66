@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ouen Toro
 type: poi
+score: 7.6
 ---
 
 Ouen Toro is a small park on the highest point of Nouméa's southern peninsula, about a 30-minute walk from the Anse Vata beach strip. The panoramic views from the summit are the best in the city — on a clear day you can see across all of Nouméa's bays, out to the reef, and south to the Île aux Canards and beyond. It is the ideal spot for sunset.

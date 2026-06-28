@@ -9,6 +9,7 @@ latitude: -49.3029
 longitude: -72.9297
 sources:
   - https://en.wikipedia.org/wiki/El_Chalt%C3%A9n
+score: 7.9
 ---
 
 Laguna Capri is a high lake on the slopes above the Rio Fitz Roy valley, offering one of the best views of the Fitz Roy massif from a relatively accessible point. The hike is shorter than the Laguna de los Tres trail — about 11 km return with 400 metres of elevation gain — and can realistically be done in 4–5 hours. Many people combine it with the Laguna de los Tres in a single long day, since both trails share the same first section from El Chaltén.

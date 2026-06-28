@@ -11,6 +11,7 @@ story: >
   The marketplace was built in the 1980s on land reclaimed from mangroves, part of a development push that transformed the southern shore of Grand Bahama. Count Basie Square at its centre is named for the jazz bandleader, who had a connection to the island through its mid-century resort era.
 sources:
   - https://en.wikipedia.org/wiki/Lucaya,_Bahamas
+score: 6.1
 ---
 
 The commercial and social heart of the Lucaya tourist district, Port Lucaya Marketplace is a waterfront complex of shops, restaurants, bars, and a marina strung around a central square. It is where most visitors to Freeport spend their evenings — the atmosphere is lively but unhurried, with live music on the square most nights.

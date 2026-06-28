@@ -14,6 +14,7 @@ story: >
   replaced Rexall Place, where Gretzky played his greatest seasons.
 sources:
   - https://en.wikipedia.org/wiki/Rogers_Place_(Edmonton)
+score: 6.2
 ---
 
 Rogers Place is Edmonton's main indoor arena and home to the Edmonton Oilers, the NHL franchise that was home to Wayne Gretzky during the most dominant run in hockey history. The arena opened in 2016 as part of the Ice District development, bringing a modern sports and entertainment complex to what had been a quiet corner of downtown.

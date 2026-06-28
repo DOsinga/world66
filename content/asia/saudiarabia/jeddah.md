@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Rahmah_Mosque_7.jpg
 latitude: 21.550443
 loc_type: city
 longitude: 39.174236
-score: 0.47
+score: 7.69
+snippet: Red Sea port city and pilgrimage gateway, with coral-stone houses in UNESCO-listed
+  Al Balad.
 title: Jeddah
 type: location
 ---

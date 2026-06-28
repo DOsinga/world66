@@ -14,6 +14,7 @@ story: >
   grand piano, set on a rotating pedestal that plays his music at timed
   intervals. "Georgia on My Mind," which he made the state's official song,
   plays here on the banks of the Flint River.
+score: 5.8
 ---
 
 Ray Charles Plaza stands on the bank of the Flint River at Front Street, a tribute to the soul and R&B pioneer who was born in Albany in 1930. Sculptor Andy Davis created the life-size bronze of Charles seated at a baby grand piano, the pedestal shaped with piano keys underfoot and bench seats in the form of musical notes. At intervals, the music plays from the statue and lights illuminate the riverside at night.

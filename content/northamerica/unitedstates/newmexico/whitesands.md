@@ -5,8 +5,10 @@ latitude: 32.3838
 longitude: -106.4966
 title: White Sands
 type: location
-score: 0.6
+score: 8.56
 loc_type: feature
+snippet: New Mexico dune field in the Tularosa Basin, made of bright white gypsum
+  sand.
 ---
 
 At the northern end of the Chihuahuan Desert lies the Tularosa Basin, and rising from its heart is one of the world's great natural wonders -- the glistening white sands of New Mexico. Great wave-like dunes of gypsum sand have engulfed 275 square miles to create the world's largest gypsum dune field.

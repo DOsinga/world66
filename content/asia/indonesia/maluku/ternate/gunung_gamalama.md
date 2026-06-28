@@ -14,6 +14,7 @@ story: >
   it up and sending it to Charles Darwin, which prompted Darwin to finally
   publish the theory he had been sitting on for twenty years. Gamalama loomed
   over his house throughout that fevered period of thinking.
+score: 8.8
 ---
 
 Gunung Gamalama is the perfectly conical active volcano that occupies most of Ternate Island, rising to 1,715 metres from the sea. It is one of the most active volcanoes in Indonesia — there have been dozens of eruptions since records began, the most recent significant ones in 2011 and 2015. The approach roads around the island circle its base, and from anywhere on the coast it dominates the view.

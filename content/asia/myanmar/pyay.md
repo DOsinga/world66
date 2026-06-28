@@ -5,7 +5,9 @@ done:
 latitude: 18.816667
 loc_type: city
 longitude: 95.216667
-score: 0.33
+score: 6.1
+snippet: Ayeyarwady River trading town between Yangon and Bagan, also known as Prome
+  or Pyi.
 title: Pyay
 type: location
 ---

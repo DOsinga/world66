@@ -14,6 +14,7 @@ story: >
   dedicated to one of the saints Diocletian had martyred during his
   reign. The transformation of a pagan emperor's tomb into a Christian
   cathedral is one of the more pointed ironies of late antiquity.
+score: 9.0
 ---
 
 Split's octagonal cathedral was built as Diocletian's personal mausoleum in the early 4th century — and is consequently one of the oldest cathedrals in the world, its core structure almost unchanged from its original form. The eight-sided exterior is lined with Corinthian columns and topped with a dome; the interior preserves Roman sarcophagi, medieval carved choir stalls, and a fine Romanesque portal.

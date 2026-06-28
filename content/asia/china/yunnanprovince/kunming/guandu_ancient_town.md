@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - guandu
+score: 6.8
 ---
 
 Guandu — "the official ferry" — was the medieval port on the northeast shore of Dianchi Lake, the main landing for boats coming up from the lake to the city of Kunming, six kilometres further north. The lake has long since receded and the old town is now an inland district, but the core of low-rise stone houses, temples, and narrow alleyways has been preserved (and somewhat over-restored) as a tourist quarter.

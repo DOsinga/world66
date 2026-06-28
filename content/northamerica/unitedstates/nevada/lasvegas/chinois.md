@@ -3,10 +3,12 @@ address: 3500 Las Vegas Boulevard South, Caesars Palace
 latitude: 36.116708
 longitude: -115.17519
 phone: 702-737-9700
+score: 6.1
 tags:
 - eating_out
 - restaurant
 - palace
+- the_strip
 title: Chinois
 type: poi
 url: www.wolfgangpuck.com

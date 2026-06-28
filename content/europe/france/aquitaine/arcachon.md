@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: arcachon.jpg
 image_attribution: Rundvald
@@ -8,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arcachon-Jetee-Eyrac-byRun
 latitude: 44.6603781
 loc_type: city
 longitude: -1.1666548
+score: 8.46
+snippet: Arcachon is a French Atlantic resort beside a sheltered oyster lagoon and
+  the Landes pine forests.
 sources:
 - https://en.wikipedia.org/wiki/Arcachon
 - https://en.wikivoyage.org/wiki/Arcachon

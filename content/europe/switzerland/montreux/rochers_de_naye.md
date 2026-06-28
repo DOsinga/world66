@@ -8,6 +8,7 @@ latitude: 46.4403
 longitude: 6.9808
 story: >
   The rack railway to Rochers de Naye opened in 1892 and was one of the earliest mountain railways in Switzerland. At the summit, a small alpine flower garden has been maintained since 1893 — one of the highest botanical gardens in the world, specialising in alpine and subalpine plants from across the globe. In winter, the summit station has a snow groomer that doubles as a toboggan track.
+score: 8.4
 ---
 
 The Rochers de Naye rack railway climbs from Montreux station to 2,042 metres, offering progressively more dramatic views over Lake Geneva as it ascends through forest, past alpine meadows, and onto the bare limestone summit. The panorama from the top takes in the full sweep of the lake, the Bernese Alps, and on clear days Mont Blanc to the southwest.

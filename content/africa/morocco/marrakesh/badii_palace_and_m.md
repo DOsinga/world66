@@ -1,15 +1,15 @@
 ---
-category: Sight
 done:
   poi_cleanup: '2026-04-19'
 latitude: 31.618889
 longitude: -7.988056
-snippet: Ruined Saadian palace with sunken gardens and stork nests
+score: 8.9
+snippet: Ruined 16th-century Saadian palace of stripped marble with sunken gardens
+  and stork nests
 tags:
 - things_to_do
 - sight
-- mosque
-- mellah
+- kasbah
 title: El Badi Palace
 type: poi
 ---

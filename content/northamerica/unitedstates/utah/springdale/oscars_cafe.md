@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Long-running breakfast and burger spot with a shaded outdoor patio
+score: 5.6
 ---
 
 Oscar's, on the main street about halfway through Springdale, is the breakfast institution. Big plates of huevos rancheros, blueberry-stuffed French toast, breakfast burritos the size of a forearm — fuel for a hard day in the canyon. The shaded patio fills up by half past seven on summer mornings, so come early or be prepared to wait.

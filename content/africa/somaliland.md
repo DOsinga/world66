@@ -8,16 +8,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Somaliland_(6790596624)_(2).jpg
 latitude: 9.5595
+loc_type: country
 longitude: 44.0769
+quick_facts:
+  Cave Paintings at Laas Geel: ~5,000 years old
+  International Recognition: 0 countries
+  Population: 4.5 million
+  Visa: On arrival for most nationalities
+score: 0.3
+snippet: Horn of Africa region that declared independence in 1991 after Somalia's
+  central government collapsed.
 title: Somaliland
 type: location
-quick_facts:
-  Population: "4.5 million"
-  Visa: "On arrival for most nationalities"
-  International Recognition: "0 countries"
-  Cave Paintings at Laas Geel: "~5,000 years old"
-score: 0.12
-loc_type: country
 ---
 
 Somaliland declared independence from Somalia in 1991, after the collapse of the Siad Barre regime and years of brutal military repression. No country officially recognises it, but that hasn't stopped it from functioning. It has its own elected government, currency, police force, and passport — and for travellers, it behaves like an independent country in every practical way.

@@ -13,6 +13,7 @@ story: >
   shines directly along the length of the tunnel; in winter, the glass roof reveals the northern
   lights overhead. The building itself has won international architecture awards and is considered
   one of the finest examples of Finnish museum design.
+score: 8.8
 ---
 
 Arktikum is Rovaniemi's finest museum — a science centre and regional museum housed in a dramatic glass tunnel building on the banks of the Ounasjoki river. The building alone is worth visiting: the 172-metre-long glass atrium connects the two wings and creates an extraordinary space that frames the Arctic sky above. The permanent exhibitions cover Arctic nature and peoples with genuine depth and care — the science of the Aurora Borealis, the ecology of Arctic landscapes, the cultures of Sami and other northern peoples, and the geological history of the region.

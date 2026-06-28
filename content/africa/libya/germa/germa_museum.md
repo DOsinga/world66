@@ -9,6 +9,7 @@ longitude: 13.06631
 sources:
   - https://en.wikipedia.org/wiki/Germa_Museum
   - https://www.temehu.com/Cities_sites/museum-of-germa.htm
+score: 7.9
 ---
 
 Germa Museum is small but essential. It holds material from the Garamantian sites of the Fezzan, including finds from tombs, everyday objects, stone tools and material connected with the desert's long prehistoric and historic occupation.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandi
 latitude: 30.733442
 loc_type: city
 longitude: 76.779714
-score: 0.47
+score: 7.34
+snippet: Planned Indian city shaped by Le Corbusier's sectors, plazas, and monumental
+  Capitol Complex
 title: Chandigarh
 type: location
 ---

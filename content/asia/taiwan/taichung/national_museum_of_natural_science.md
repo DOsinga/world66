@@ -5,7 +5,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 24.1584
 longitude: 120.6636
+score: 8.3
 snippet: Sprawling science museum with dinosaurs, botanical garden, and IMAX
+tags:
+- things_to_do
+- museum
+- science
 title: National Museum of Natural Science
 type: poi
 ---

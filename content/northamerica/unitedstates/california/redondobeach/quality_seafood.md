@@ -10,6 +10,7 @@ tags:
 - restaurant
 - market
 - seafood
+score: 7.6
 ---
 
 A Redondo institution since 1953, occupying a prime stall on the International Boardwalk at the south end of the pier. The format is simple: walk in, choose your dinner from live tanks of Dungeness crab, Maine lobster, oysters, sea urchin and rock cod, pay by the pound, and they steam, crack and serve it on plastic trays at picnic tables on the boardwalk outside.

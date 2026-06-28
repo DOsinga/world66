@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 A handful of the historic merchant houses have been carefully restored after the earthquake and now operate as boutique hotels, restaurants, or open galleries. Maison Dufort is the most prominent example: a yellow-and-white two-story house on Rue du Commerce, with original ironwork balconies, period furniture inside, and rooms you can stay in.

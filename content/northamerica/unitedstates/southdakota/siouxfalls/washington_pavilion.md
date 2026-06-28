@@ -14,6 +14,7 @@ story: >
   from demolition. Today it houses a visual arts centre, an interactive science
   museum called the Kirby Science Discovery Center, and a performing arts venue —
   all under one roof.
+score: 7.6
 ---
 
 A converted 1908 Romanesque Revival school building now serving as Sioux Falls' main cultural hub, the Washington Pavilion has three distinct attractions under one roof. The Visual Arts Center hosts rotating and permanent exhibitions of American art, with a particular emphasis on works connected to the Great Plains. The Kirby Science Discovery Center is hands-on and well-suited to children. The Wells Fargo CineDome shows large-format films throughout the day.

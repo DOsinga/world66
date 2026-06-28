@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -32.9500
 longitude: -60.6390
+score: 7.4
 ---
 
 Pasaje Pan is a 19th-century shopping arcade in the heart of Rosario — one of those atmospheric covered passages that were fashionable across Latin America in the Belle Époque, and which have mostly been lost to modernisation. This one survives intact with its original ironwork, tiled floors, and glass ceiling.

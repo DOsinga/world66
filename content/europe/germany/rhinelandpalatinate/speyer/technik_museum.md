@@ -9,6 +9,7 @@ tags:
 - museum
 title: Technik Museum
 type: poi
+score: 8.5
 ---
 
 One of Germany's largest technology museums, the Technik Museum Speyer sprawls across a massive indoor and outdoor complex. The star attraction is a Lufthansa Boeing 747 mounted on pylons — you can climb inside and walk through the entire aircraft, then ride a slide back down from the upper deck. There is also a Buran space shuttle, a submarine you can explore, vintage locomotives, and halls full of classic cars, motorcycles, and fire engines.

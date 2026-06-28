@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2990
 longitude: 68.2720
+score: 5.9
 ---
 
 Beside the UNESCO complex, the Kazakh government has reconstructed a large caravanserai in the historic style of the Silk Road waystation that once served pilgrims and merchants passing through Turkestan. The reconstruction is ambitious — a courtyard complex with arched galleries, stalls, and craft workshops — and is part of a broader effort to turn Turkestan into a cultural destination as well as a pilgrimage site.

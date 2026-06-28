@@ -7,6 +7,7 @@ tags:
 latitude: 49.68055555555555
 longitude: 6.445555555555556
 story: "The garden keeps its greenhouse at a constant 27°C year-round, mimicking the tropical climates where most of its 40-plus species originate. On any given morning, hundreds of butterflies will land on your hands and shoulders if you stand still for a minute."
+score: 7.4
 ---
 
 The Butterfly Garden on the banks of the Moselle is one of the most visited attractions in eastern Luxembourg — and deservedly so. Inside the large tropical greenhouse, more than 40 species of butterfly fly freely in a carefully maintained environment of lush plants, pools, and carefully monitored humidity. The combination of warmth, colour, and constant movement makes it unexpectedly magical even for visitors who didn't come expecting to be charmed.

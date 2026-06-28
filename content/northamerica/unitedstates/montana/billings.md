@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Billings,_Montana_29th_and
 latitude: 45.7833
 loc_type: city
 longitude: -108.5007
-score: 0.41
+score: 6.58
+snippet: Working western Montana city on the Yellowstone River, edged by the sandstone
+  Rimrocks above the plains.
 title: Billings
 type: location
 ---

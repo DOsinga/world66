@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.4
 ---
 
 **Mamaia** is the resort strip north of Constanța — a narrow 8 km sandbar between the Black Sea on one side and **Lake Siutghiol** on the other. Developed under the communist regime from the 1950s as Romania's flagship Black Sea resort, it has since accumulated a long stripe of hotels, beach clubs, water-sports centres and nightclubs, and is now busy from June to early September.

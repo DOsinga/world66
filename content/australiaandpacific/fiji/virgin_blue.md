@@ -1,9 +1,10 @@
 ---
+score: 5.4
 snippet: Budget carrier to Nadi from several Australian cities
 tags:
 - getting_there
 title: Virgin Australia
-type: poi
+type: theme
 url: www.virginaustralia.com
 ---
 

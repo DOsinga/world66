@@ -17,6 +17,7 @@ story: >
   Jerusalem to Axum.
 sources:
   - https://en.wikipedia.org/wiki/Ras_Dashen
+score: 9.0
 ---
 
 Ras Dashen is the highest peak in Ethiopia at 4,550 metres, rising above the Chennek area of the Simien Mountains National Park. The ascent from Chennek camp takes most hikers two days — a long push to a high camp, then a pre-dawn start for the summit ridge. The terrain above the treeline is moorland and then high-altitude scrub, giving way to bare rock near the summit. The final section involves some scrambling on loose rock.

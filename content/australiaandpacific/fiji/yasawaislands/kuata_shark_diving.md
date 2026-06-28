@@ -15,6 +15,7 @@ story: >
   encounters but also alters their natural behaviour. The debate is ongoing, but
   the Kuata encounters remain one of the most visceral shark dives available
   without travelling to truly remote water.
+score: 8.4
 ---
 
 Kuata Island, at the southern tip of the Yasawa chain, is one of the best-known shark-diving destinations in Fiji. The dives here take place on relatively shallow reef at around 15 to 20 metres, where bull sharks and several species of reef shark regularly gather. This is not the kind of shark encounter where you hope to see something at a distance — the animals come close, often within a metre or two, and the dives are deliberately structured around that proximity.

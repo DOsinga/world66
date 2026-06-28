@@ -7,6 +7,7 @@ tags:
 latitude: 58.9919
 longitude: -3.0300
 snippet: "Neolithic chambered cairn with a hatch entry and torch by the door"
+score: 7.2
 ---
 
 A small Neolithic chambered cairn on the slopes of Wideford Hill, west of Kirkwall, the Wideford Cairn is entered through a hatch in its concrete reroofing — torches are kept in a box by the entrance for visitors. Inside, three side chambers branch from the central space.

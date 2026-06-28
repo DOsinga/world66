@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vuevilledeneuchatel.jpg
 latitude: 46.9896
 loc_type: city
 longitude: 6.9293
-score: 0.6
+score: 8.33
+snippet: Swiss lakeside city of golden sandstone streets, Jura slopes, and a medieval
+  château above Lake Neuchâtel.
 title: Neuchatel
 type: location
 ---

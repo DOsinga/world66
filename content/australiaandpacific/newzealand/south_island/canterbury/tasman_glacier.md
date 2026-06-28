@@ -16,6 +16,7 @@ story: >
   The rate of retreat is measurable year to year and makes the glacier one of
   the most vivid illustrations of climate change visible to visitors anywhere in
   the Southern Hemisphere.
+score: 7.9
 ---
 
 **The Tasman Glacier** is New Zealand's largest glacier, stretching 27 kilometres along the eastern side of the Main Divide above Mount Cook Village. At its widest it reaches 3 kilometres across, and its upper reaches connect to the snowfields of the Hochstetter Icefall. The glacier is accessible by guided glacier hike from the village (the only way to walk on it safely) or by glacier boat tours on Tasman Lake, where icebergs calved from the terminal face float in milky blue water — one of the more extraordinary experiences available in New Zealand without specialist equipment.

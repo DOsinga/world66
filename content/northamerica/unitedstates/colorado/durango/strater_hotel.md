@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Louis L'Amour wrote many of his Western novels in Room 222 of the Strater, with the ragtime piano of the Diamond Belle Saloon downstairs leaking up through the floor. He claimed the noise was essential to the rhythm of the prose."
+score: 8.0
 ---
 
 The Strater opened in 1887 and is one of the original Victorian hotels still operating in the American West. The red-brick four-storey building anchors the south end of Main Avenue with a corner bay window, wedding-cake brickwork, and a wraparound porch.

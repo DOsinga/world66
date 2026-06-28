@@ -13,6 +13,7 @@ story: >
   engineering. Wang Jinxi's willingness to jump into wet cement to prevent a
   blowout became one of the defining images of the Maoist era. His statue still
   stands at the oilfield entrance.
+score: 4.8
 ---
 
 The Daqing Oil Field stretches across a large area of the Songhua-Liao Plain and is still in active production, though output has declined steadily from its 1970s peak of 50 million tonnes per year. The nodding-pump oil jacks — the familiar silhouette of the petroleum industry — are visible from the road across much of the city's suburban and rural periphery, which gives Daqing its distinctive industrial character even in areas with no other visible industry.

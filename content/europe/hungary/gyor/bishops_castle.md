@@ -10,6 +10,7 @@ latitude: 47.6878
 longitude: 17.6303
 story: >
   The castle's finest hour came in 1594 when Ottoman forces under Koca Sinan Pasha captured it after a month-long siege — one of the largest Ottoman incursions into Western Hungary. The Habsburgs retook it four years later in 1598, on a night raid that became legendary across Central Europe as "The Recapture of Győr."
+score: 8.0
 ---
 
 The Bishop's Castle (Püspökvár) is the oldest surviving structure in Győr, its thick medieval walls enclosing Chapter Hill on the north side. The complex today houses the Diocesan Treasury and the Lapidarium, a collection of Roman stonework from the ancient settlement of Arrabona that once occupied this site.

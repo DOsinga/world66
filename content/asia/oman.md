@@ -1,21 +1,23 @@
 ---
-title: Oman
-type: location
-latitude: 21.000029
-longitude: 57.00369
-image: oman.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Nizwa_Fort_and_Minaret_of_Friday_Mosque.JPG
-image_license: CC BY-SA 4.0
-image_attribution: <bdi>Martin Falbisoner</bdi>
-quick_facts:
-  Population: "4.6 million"
-  Visa: "On arrival for most nationalities"
-  Frankincense Trade: "Active for 5,000+ years"
-  Coastline: "3,165 km"
 done:
   country_cleanup: 2026-03-30
-score: 0.65
+image: oman.jpg
+image_attribution: <bdi>Martin Falbisoner</bdi>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nizwa_Fort_and_Minaret_of_Friday_Mosque.JPG
+latitude: 21.000029
 loc_type: country
+longitude: 57.00369
+quick_facts:
+  Coastline: 3,165 km
+  Frankincense Trade: Active for 5,000+ years
+  Population: 4.6 million
+  Visa: On arrival for most nationalities
+score: 0.71
+snippet: Quiet Arabian Peninsula country of forts, frankincense, desert wadis, and
+  a long Indian Ocean coast.
+title: Oman
+type: location
 ---
 
 Oman is the quiet one on the Arabian Peninsula. While its neighbours have gone all-in on glass towers and mega-malls, Oman kept the forts, the frankincense, and the sense that people here aren't in a hurry. It is one of the safest, most welcoming countries in the Middle East, and one of the least visited relative to what it offers.

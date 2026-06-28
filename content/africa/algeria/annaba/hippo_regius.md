@@ -11,6 +11,7 @@ story: >
   When Augustine became bishop of Hippo Regius in 396 AD, the city was already over 500 years old. He would write most of his major works here — including The City of God and Confessions — in a city where Latin, Berber, and Punic were all still spoken. The ruins visible today date mostly from the 2nd-century Roman rebuilding; Augustine's church is gone, but the forum and baths survive.
 sources:
   - https://en.wikipedia.org/wiki/Hippo_Regius
+score: 9.0
 ---
 
 Hippo Regius is the ancient city that underlies modern Annaba — a Phoenician foundation that became one of Roman Africa's most important ports and the see of Christianity's most influential theologian. The archaeological site lies about 2 kilometres southwest of the city centre, and the ruins are substantial: a Roman forum, public baths, private villas with mosaic floors, and a Christian basilica foundation thought to be the cathedral where Augustine preached.

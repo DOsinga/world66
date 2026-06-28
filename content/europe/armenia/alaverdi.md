@@ -5,7 +5,9 @@ done:
 latitude: 41.0981
 loc_type: city
 longitude: 44.6461
-score: 0.45
+score: 6.83
+snippet: Northern Armenian copper town in Debed Gorge, used as a base for Haghpat
+  and Sanahin.
 title: Alaverdi
 type: location
 ---

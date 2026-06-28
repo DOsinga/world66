@@ -5,7 +5,9 @@ done:
 latitude: 29.648788
 loc_type: city
 longitude: -81.637211
-score: 0.3
+score: 5.99
+snippet: St. Johns River town with a walkable downtown, azalea ravines, and old steamboat-resort
+  history.
 title: Palatka
 type: location
 ---

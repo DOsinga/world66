@@ -16,6 +16,7 @@ story: >
   camp for cast and crews. Chauncey Parry, the owner, was famously skilled at persuading
   studios to film on location in Kane County, and his guest register filled with names
   including Frank Sinatra, Sammy Davis Jr., John Wayne, and Ronald Reagan.
+score: 7.5
 ---
 
 Parry Lodge is Kanab's most historically significant building — a National Register of Historic Places property that served as the home base for the Hollywood Westerns filmed in the surrounding canyon country from the 1930s through the 1970s. The property still functions as a motel and restaurant, and the walls of the restaurant are lined with photographs of the stars who stayed here during Kanab's "Little Hollywood" years.

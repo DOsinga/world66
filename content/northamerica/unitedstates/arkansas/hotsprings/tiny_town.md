@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "An entire miniature world built by hand from matchsticks and household scrap"
+score: 6.9
 ---
 
 A folk-art masterpiece on Whittington Avenue: a working miniature railroad winding through buildings,

@@ -14,6 +14,7 @@ story: >
   clean sake style known as Nada-mono. When this connection was discovered in the
   early 19th century, the Nada brewers rapidly became the dominant force in the
   Japanese sake industry, and they have remained so ever since.
+score: 8.1
 ---
 
 Nada, the eastern district of Kobe, is one of Japan's most important sake-producing areas. The combination of excellent water from the Rokko mountains, rice from the surrounding plains, and cold maritime air from Osaka Bay has made Nada-sake synonymous with quality for over two centuries. Several of the major breweries are open to visitors for tours and tastings.

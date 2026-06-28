@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Moss,_Norway.jpg
 latitude: 59.414668
 loc_type: city
 longitude: 10.659658
-score: 0.45
+score: 6.76
+snippet: Oslofjord industrial city south of Oslo, known for ferries, galleries, and
+  nearby coastal islands.
 title: Moss
 type: location
 ---

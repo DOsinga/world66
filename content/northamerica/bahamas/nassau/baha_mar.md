@@ -9,6 +9,7 @@ latitude: 25.0800
 longitude: -77.4100
 story: >
   Baha Mar opened in 2017 after a notoriously troubled construction, eight years late and through one bankruptcy. The complex includes the largest casino in the Caribbean — 9,000 square metres of gaming floor — and an art collection of more than two thousand pieces by Bahamian artists.
+score: 6.2
 ---
 
 A vast turquoise-glass resort complex dominating the western end of Cable Beach, with three luxury hotels (Grand Hyatt, SLS, Rosewood), the largest casino in the Caribbean, a championship golf course, and a substantial public art programme featuring contemporary Bahamian work.

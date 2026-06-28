@@ -9,6 +9,7 @@ longitude: 36.8165
 snippet: Kenya's premier natural history and cultural museum, with world-class hominid fossils
 story: >
   The museum holds the skull of Turkana Boy — a nearly complete Homo erectus skeleton discovered by Kamoya Kimeu near Lake Turkana in 1984 and dating back 1.6 million years. It is one of the most complete early human skeletons ever found, and examining it up close in a well-lit Nairobi gallery is a genuinely humbling experience.
+score: 8.8
 ---
 
 The Nairobi National Museum, on Museum Hill just north of the city centre, is one of the finest natural history and cultural museums in sub-Saharan Africa. Its Hominid Hall is the centrepiece: a collection of skulls and bones discovered in Kenya by the Leakey family and others, documenting the human story from Homo habilis through to Homo sapiens in a sequence of cases that is simultaneously scientific and deeply affecting.

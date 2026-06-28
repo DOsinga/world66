@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Riverside parkland and cycling path running east-west through the CBD parklands"
+score: 7.7
 ---
 
 The River Torrens threads between the CBD and North Adelaide, flanked by a generous strip of parkland that is the most pleasant part of the city for walking and cycling. The path runs for kilometres in both directions — east toward the Botanic Garden and Adelaide University, west past the Oval and into the suburbs. Paddle boats are available for hire near the Festival Centre.

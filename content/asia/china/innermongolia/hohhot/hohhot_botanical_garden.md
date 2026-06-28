@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 40.8600
 longitude: 111.7200
+score: 6.3
 ---
 
 The Hohhot Botanical Garden, in the northern part of the city, specialises in the flora of the Inner Mongolian steppe and surrounding montane zones — a collection of grasses, wildflowers, medicinal plants, and shrubs that are found across the region's varied ecosystems. The steppe grass collection is the most distinctive: several dozen species of grass native to Inner Mongolia are displayed together, from the delicate needlegrasses of the high plateau to the robust sedges of the Hulunbuir wetlands.

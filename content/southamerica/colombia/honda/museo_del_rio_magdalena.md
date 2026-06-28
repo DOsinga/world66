@@ -12,6 +12,7 @@ story: >
   news, armies — moved along it. Honda sat at the critical break-of-bulk point where the river's
   rapids made further upstream navigation impossible, forcing all cargo onto mule back. The town
   owed its entire existence to that geographical accident.
+score: 7.9
 ---
 
 The Museo del Río Magdalena is housed in a restored colonial building near the riverfront, and it tells the story of the great river and Honda's role in it with more depth than you might expect for a small-town museum. The displays cover the indigenous peoples who fished the river long before the Spanish arrived, the colonial trading economy, the era of steam navigation in the nineteenth century, and the ecological changes the river has undergone in recent decades.

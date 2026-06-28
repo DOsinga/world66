@@ -10,6 +10,7 @@ tags:
 - sight
 - family_activity
 - nyali
+score: 6.1
 ---
 
 Mamba Village in Nyali claims to be the largest crocodile farm in East Africa — about 10,000 Nile crocodiles in various stages of growth, from hatchlings to ten-metre giants. The 4pm feeding draws a crowd: the staff sling chunks of meat into the pools and the surface erupts. Beyond the crocodiles, the site has a botanical garden, an aquarium, a small reptile house, and a restaurant where (inevitably) crocodile meat is on the menu. A family-friendly half-day, and a fixture of the Mombasa beach circuit.

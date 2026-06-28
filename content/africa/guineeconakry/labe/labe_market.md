@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 11.3217
 longitude: -12.2845
+score: 7.4
 ---
 
 The grand market in the centre of Labe is one of the most important commercial hubs in the Fouta Djallon, drawing traders from across the highlands and from Guinea-Bissau across the border. Stalls are organised by type: fresh produce, butchers, grain merchants, and a section dedicated to the crafts the region is famous for — indigo-dyed cotton cloth, hand-worked leather sandals, wallets, and bags.

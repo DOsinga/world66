@@ -13,6 +13,7 @@ tags:
 - historic
 title: Byrsa Hill
 type: poi
+score: 8.9
 ---
 
 Byrsa is the low hill at the heart of ancient Carthage and the site, according to legend, of the city's foundation by the Phoenician queen Dido. The hill held the citadel of Punic Carthage and was the centre of the last desperate defence during the Third Punic War in 146 BC — when Roman troops finally took it, after months of street-fighting, they put the city to the torch and reportedly sold the surviving population into slavery.

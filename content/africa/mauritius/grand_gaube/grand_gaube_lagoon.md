@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.0033
 longitude: 57.6664
+score: 7.8
 ---
 
 The lagoon at Grand Gaube is calmer than at Grand Baie and far less developed. The reef sits close offshore and breaks the open Indian Ocean swell, leaving a band of pale turquoise water that is good for swimming, snorkelling and the slow pirogue rides that the local fishermen will arrange for a small fee.

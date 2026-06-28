@@ -14,6 +14,7 @@ story: >
   local people as a natural geological formation; archaeological study in the
   20th century confirmed they were deliberately erected, likely during the
   Neolithic period around 3000–2000 BCE.
+score: 7.5
 ---
 
 About 4 kilometres west of Nexø, near the village of Bodilsker, the megalith site at Gryet is one of the most impressive and least-visited prehistoric sites on Bornholm. Tall upright stones stand among the trees in a small wood, some several metres high, giving the site a genuinely atmospheric quality — especially in the morning mist.

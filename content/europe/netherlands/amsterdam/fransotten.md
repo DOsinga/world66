@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Frans Otten
 type: poi
+score: 4.9
 ---
 
 Frans Otten Stadion is Amsterdam's main ice rink, tucked behind the Olympic Stadium in the Stadionbuurt neighbourhood. The rink hosts figure skating, speed skating, and ice hockey, and is open to the public for recreational sessions year-round.

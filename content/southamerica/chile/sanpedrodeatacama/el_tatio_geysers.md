@@ -15,6 +15,7 @@ story: >
   their maximum height in the early morning when the temperature difference
   between the superheated water and the cold air is greatest. By mid-morning
   they have largely subsided.
+score: 9.6
 ---
 
 El Tatio is one of the defining experiences of the Atacama Desert. At 4,320 metres above sea level, it is the highest geyser field in the world, with over 80 active geysers and 60 hot springs spread across a broad volcanic plain. The standard approach is a pre-dawn departure from San Pedro — about 90 minutes of driving up a rough road in the dark — to arrive at first light when the steam columns are at their most spectacular against the cold morning sky.

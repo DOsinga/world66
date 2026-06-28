@@ -12,6 +12,7 @@ tags:
 - wildlife
 story: >
   By the early 1950s the sangai — Manipur's "dancing deer" — was thought to be extinct. A small surviving population was rediscovered on the floating phumdis of Keibul Lamjao in 1953 and the area was made a sanctuary in 1966 and a national park in 1977. Without the strange spongy meadows, which behave both like islands and like rafts, the species would not exist today.
+score: 8.8
 ---
 
 Keibul Lamjao, on the southern fringe of Loktak Lake about ten kilometres from Moirang, is the only floating national park in the world. The park occupies about 40 square kilometres of phumdi — a peat-like raft of decaying vegetation that floats on the lake's surface and is solid enough in places to support deer, wild boar, and even a small herd of buffalo. The phumdi rises and falls with the lake; in the dry season parts touch bottom, in the wet season the whole mass lifts free.

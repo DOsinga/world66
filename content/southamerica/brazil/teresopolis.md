@@ -7,8 +7,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Soberbo_Dedo_de_Deus_Teresopolis_RJ.jpg
 latitude: -22.297804
 loc_type: city
+snippet: Serra do Mar mountain town near Rio, gateway to organ-pipe peaks in Serra
+  dos Órgãos
 longitude: -42.864641
-score: 0.5
+score: 7.56
 title: Teresópolis
 type: location
 ---

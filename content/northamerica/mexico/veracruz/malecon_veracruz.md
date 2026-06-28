@@ -6,6 +6,7 @@ tags:
 - sight
 title: The Malecón
 type: poi
+score: 7.4
 ---
 
 The malecón runs for several kilometres along Veracruz's harbor and Gulf coast, connecting the old city centre to the beaches and neighborhoods to the south. The northern section, closest to the historic centre, is the most atmospheric: fishing boats and container ships move past in the same water, the fortress of San Juan de Ulúa sits on its island in the distance, and vendors sell fried seafood and coconut drinks along the promenade.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.5082
 longitude: 2.7527
+score: 4.7
 ---
 
 The Església de Sant Cristòfol — the parish church of S'Arenal — is one of the few buildings in the resort that predate the tourist era. It stands in the older core of the town on the Llucmajor side, away from the beach hotels. The church is modest in scale but typical of the simple Mallorcan church architecture of the 19th and early 20th century: whitewashed walls, a small bell tower, and an interior that is plain without being cold.

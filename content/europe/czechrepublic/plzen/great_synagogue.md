@@ -16,6 +16,7 @@ story: >
   thriving Jewish community of around 3,500 people before the Second World War; by 1945, most had
   been murdered in the Nazi camps. Today the community numbers a few hundred, and the building
   survives largely through municipal effort rather than active congregational use.
+score: 7.8
 ---
 
 The Great Synagogue (Velká synagoga) stands a few minutes west of Republic Square and is hard to miss — the Moorish towers and polychrome brick façade are startling even by the flamboyant standards of 19th-century synagogue architecture. Built in 1892 to designs by the Munich architects Fleissig and Stiassny, the building follows a pattern common across Central Europe for the period: Moorish Revival outside, neoclassical interior with two galleries.

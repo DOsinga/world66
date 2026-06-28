@@ -4,13 +4,15 @@ done:
   location_enrich: '2026-05-21'
 latitude: 39.4457
 longitude: -123.8053
+snippet: Working Mendocino Coast town known for Glass Beach, the Skunk Train, and
+  foggy Highway 1 scenery.
 title: Fort Bragg
 type: location
-score: 0.46
+score: 7.17
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Fort_Bragg,_California
-  - https://www.visitcalifornia.com/experience/glass-beach-fort-bragg/
+- https://en.wikipedia.org/wiki/Fort_Bragg,_California
+- https://www.visitcalifornia.com/experience/glass-beach-fort-bragg/
 ---
 
 Fort Bragg is a working coastal town on the Mendocino County coast — not a resort, but a real place where fishing boats still go out every morning and the fog burns off by afternoon. It sits at the northern end of the dramatic stretch of Highway 1 that makes the Mendocino coast one of the most scenic drives in California, and it makes a better base than the prettier but pricier town of [Mendocino](/northamerica/unitedstates/california/northcoast/mendocino) itself, ten miles south.

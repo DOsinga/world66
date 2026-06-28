@@ -8,6 +8,7 @@ tags:
 - bar
 title: The Ould Shebeen
 type: poi
+score: 3.2
 ---
 
 An Irish pub on Boulevard Faidherbe, a short walk from the Grand'Place. It draws a steady crowd of British and Commonwealth visitors coming to the region for the First World War battlefields. Good pints of Guinness, friendly staff, and a reliable place to decompress after a heavy day around the memorials.

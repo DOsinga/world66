@@ -5,7 +5,9 @@ done:
 latitude: 39.290964
 loc_type: city
 longitude: 44.452138
-score: 0.36
+score: 5.95
+snippet: Iranian border town in a mountain gorge, gateway to Qara Kelisa and Maku
+  Fortress
 title: Maku
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 54.4468
 longitude: 18.5730
+score: 7.3
 ---
 
 Along the beach promenade, a line of wooden stalls sells smoked Baltic fish — the best and most authentic Sopot eating experience. The smoked herring (śledź) and sprats are excellent; so are the smoked mackerel and the occasional fresh-caught cod. Prices are by weight, which means you see exactly what you're getting before you pay.

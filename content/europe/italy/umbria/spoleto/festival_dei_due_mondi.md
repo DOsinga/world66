@@ -8,6 +8,7 @@ latitude: 42.735
 longitude: 12.7394
 story: >
   Gian Carlo Menotti chose Spoleto for his festival in 1958 specifically because it was not a famous city. He wanted somewhere that had not been ruined by tourism, with a beautiful setting and enough spaces — churches, courtyards, Roman theatres — to stage performances in. The first performance, Verdi's Macbeth in the Teatro Caio Melisso, drew Luchino Visconti, Thomas Schippers, and a crowd of Italian and American arts figures who had never heard of the town.
+score: 7.2
 ---
 
 The Festival dei Due Mondi — Festival of Two Worlds — has been Spoleto's defining event since composer Gian Carlo Menotti founded it in 1958. Running for two weeks in late June and early July, it brings opera, theatre, dance, and music to venues across the old town: the Roman amphitheatre, the Piazza del Duomo, the Teatro Caio Melisso, and courtyard stages set up for the occasion.

@@ -6,6 +6,7 @@ longitude: 5.1312
 tags:
 - things_to_do
 - museum
+score: 7.9
 ---
 
 The Dutch national railway museum, housed in a beautifully restored 19th-century station — the Maliebaanstation, Utrecht's original railway terminus. The collection includes historic locomotives, royal carriages, and railway memorabilia, but what makes the Spoorwegmuseum special is how it presents them: immersive theatrical experiences, recreated station platforms from different eras, and rides that combine history with entertainment.

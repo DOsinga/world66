@@ -13,6 +13,7 @@ story: >
   since at least the 1870s; the current flat-bottomed barge with its diesel
   engine and overhead cable is a more recent replacement of a hand-cranked
   version that ran into the 1930s.
+score: 6.5
 ---
 
 Akers Ferry crosses the Current River on county road KH and is part of the working road network — locals use it, the post office uses it, and tourists tend to find it by accident. The barge takes one or two cars at a time and is winched across by a cable spanning the river. The crossing takes a couple of minutes; the ride is free.

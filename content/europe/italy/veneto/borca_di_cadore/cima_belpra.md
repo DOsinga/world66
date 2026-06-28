@@ -7,6 +7,7 @@ tags:
   - mountain
 latitude: 46.4843
 longitude: 12.2414
+score: 7.1
 ---
 
 Cima Belprà, at 2,793 metres, is one of the secondary summits of the Antelao group that rise directly above Borca to the east. It is less famous than the main peak but offers a long and serious ridge walk for experienced hikers, with views that extend across the entire eastern Dolomites.

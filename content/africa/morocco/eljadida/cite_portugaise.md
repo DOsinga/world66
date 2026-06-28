@@ -16,6 +16,7 @@ story: >
   the new city, giving the medina its unusual hybrid character.
 sources:
   - https://en.wikipedia.org/wiki/El_Jadida
+score: 8.7
 ---
 
 The Cité Portugaise is the old walled quarter of El Jadida, a UNESCO World Heritage Site since 2004 and the reason most people come to town. The Portuguese built their fortified settlement here from 1513, calling it Mazagan, and the bastions and walls they constructed still stand on three sides, with the Atlantic on the fourth. Walking the ramparts at dusk, with the sea visible through the gun embrasures and the town spread below, is one of the quieter pleasures on the Moroccan Atlantic coast.

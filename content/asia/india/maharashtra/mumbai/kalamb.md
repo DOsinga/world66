@@ -3,9 +3,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 19.4175
 longitude: 72.792
+score: 4.5
 snippet: Quiet local beach north of Mumbai for a low-key escape
 tags:
-- things_to_do
 - beach
 title: Kalamb Beach
 type: poi

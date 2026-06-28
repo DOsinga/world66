@@ -7,6 +7,7 @@ tags:
 latitude: 11.9741
 longitude: -86.0942
 snippet: Thursday evening street festival with live marimba music, food stalls, and dancing in the city centre
+score: 8.5
 ---
 
 Every Thursday evening, Masaya's central park and the streets around it come alive for the Jueves de Verbena — a weekly street festival that is one of the most genuine and local celebrations in Nicaragua. Unlike the folk shows staged for tour groups elsewhere, this one draws primarily Nicaraguans from the surrounding area: families with children, courting couples, older residents who have been coming for decades.

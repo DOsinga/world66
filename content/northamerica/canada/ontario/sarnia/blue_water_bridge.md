@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The original Blue Water Bridge opened in 1938, and was for some years the longest cantilever truss span on the Canadian side of the border. Its busy twin alongside, in a more modern tied-arch design, was added in 1997 to handle the unrelenting commercial truck traffic crossing into the US. The two together carry one of North America's busiest land border crossings."
+score: 6.9
 ---
 
 The twin spans of the Blue Water Bridge cross the St. Clair River from Point Edward, Ontario, to Port Huron, Michigan. They are an unmistakable landmark, visible from across Sarnia, and the principal reason most travellers know the town's name. The pedestrian route along Centennial Park gives the best ground-level view of the bridges and the heavy lake traffic underneath.

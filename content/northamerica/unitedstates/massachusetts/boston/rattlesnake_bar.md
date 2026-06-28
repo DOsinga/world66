@@ -9,6 +9,7 @@ tags:
 - bar
 title: Rattlesnake Bar
 type: poi
+score: 5.8
 ---
 
 A Southwestern-themed bar on Boylston Street in the Back Bay with a rooftop deck that packs out in summer. The margaritas are solid, the nachos are large enough to share, and the vibe skews young and loud on weekend nights. The roof is the main draw — one of the better spots in Boston for outdoor drinking when the weather cooperates.

@@ -14,6 +14,7 @@ story: >
   way that encouraged peat growth over them. One of the smaller circles contains over 800
   small upright stones packed tightly together, known locally as the "Dragon's Teeth."
   Their purpose remains unknown.
+score: 8.8
 ---
 
 Beaghmore Stone Circles lie about 15 kilometres northwest of Cookstown on the slopes of the Sperrin Mountains, one of the most significant prehistoric complexes in Ireland. The site consists of seven stone circles — paired in three sets of two plus one — along with twelve stone alignments and a number of round cairns. The circles and alignments date to the Bronze Age, roughly 2000–1500 BC, and were built on an axis that aligns with sunrise at midsummer.

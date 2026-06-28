@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: Edwardian patent-medicine fortune frozen in time, with a Dr. Seelye's Patent Medicine museum
 story: "Dr. Seelye made his fortune selling Wasa-Tusa, a patent medicine he insisted was a Native American formula though it contained mostly alcohol, ginger and water. The mansion he built with the proceeds came with one of the first private elevators in Kansas — and an in-house ballroom for entertaining the Topeka and Kansas City elite."
+score: 7.9
 ---
 
 A 25-room Georgian-revival mansion built in 1905 by patent-medicine magnate Dr. A.B. Seelye and lived in by his daughters until well into the late twentieth century. The house is remarkable because almost nothing has been changed: the Edison light fixtures, the Steinway grand, the original furniture, even the family photographs and dresses, are all where the Seelyes left them.

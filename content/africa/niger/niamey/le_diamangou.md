@@ -8,6 +8,7 @@ longitude: 2.1228
 tags:
 - bars_and_cafes
 - bar
+score: 5.5
 ---
 
 Le Diamangou sits right next to Les Tropiques on the Corniche de Gamkalle and draws a similar crowd: expats, NGO workers, local professionals, and anyone who wants a cold beer within sight of the Niger River. The two bars are effectively interchangeable for most purposes, though Le Diamangou tends to be slightly quieter and sometimes has live music on weekend evenings.

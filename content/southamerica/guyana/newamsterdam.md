@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
+image: newamsterdam.jpg
+image_attribution: Ian Mackenzie
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:New_Amsterdam_Guyana_houses.jpg
 latitude: 6.242641
 loc_type: city
 longitude: -57.516836
-score: 0.34
+score: 6.01
+snippet: Berbice River town with Dutch colonial origins, wooden waterfront buildings,
+  and a quieter Guyanese pace
 title: New Amsterdam
 type: location
-image: newamsterdam.jpg
-image_source: https://commons.wikimedia.org/wiki/File:New_Amsterdam_Guyana_houses.jpg
-image_license: CC BY 2.0
-image_attribution: Ian Mackenzie
 ---
 
 New Amsterdam is Guyana's second-largest town, sitting on the east bank of the [Berbice River](/southamerica/guyana/newamsterdam/berbice_river) near where it meets the Atlantic coast. Founded by the Dutch in the 18th century as the capital of the Colony of Berbice, its colonial origins still show in the layout of the streets and in surviving wooden buildings along the waterfront.

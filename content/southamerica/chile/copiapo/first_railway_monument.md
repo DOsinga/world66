@@ -10,6 +10,7 @@ story: >
   The Copiapó Railway, inaugurated on 25 December 1851, was the first railway in South America — built to carry silver ore and supplies between Copiapó and the port of Caldera. The engineer was an American, William Wheelwright, who had already built Chile's first steamship service. The locomotive was built in the United States by Norris Brothers of Philadelphia.
 sources:
   - https://en.wikipedia.org/wiki/Copiap%C3%B3
+score: 6.9
 ---
 
 Copiapó has the distinction of having been the terminus of the first railway in South America, and the city marks this with a monument near the old railway station. The line to Caldera, opened in 1851, was built to serve the silver mines — it predates the railways of Brazil and Argentina, and for that matter most of the railways of Spain. The engineering challenge of crossing the desert between the mines and the port was considerable, and the line's success inspired railways across the continent.

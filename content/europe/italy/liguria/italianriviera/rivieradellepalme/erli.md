@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Erli_(SV)_-_chiesa_di_Sant
 latitude: 44.137529
 loc_type: city
 longitude: 8.103148
-score: 0.41
+score: 6.58
+snippet: Small Ligurian Alps municipality on the old Salt Road, with medieval frescoes
+  and chestnut woods.
 title: Erli
 type: location
 ---

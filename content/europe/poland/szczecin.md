@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-29'
+image: szczecin.jpg
+image_attribution: Szczecinolog
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_Krzywoustego_Street_in_Szczecin,_April_2022.jpg
 latitude: 53.430182
 loc_type: city
 longitude: 14.550962
-score: 0.46
+score: 7.09
+snippet: Northwestern Polish port on the Oder, carrying Prussian architecture and
+  a complicated Pomeranian past.
 title: Szczecin
 type: location
-image: szczecin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:1_Krzywoustego_Street_in_Szczecin,_April_2022.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Szczecinolog
 ---
 
 Szczecin (known in German as Stettin) is a major port city in northwestern Poland, close to the German border on the Oder river. It has a complicated past: for most of its history it was a German city, the capital of Pomerania, and the birthplace of Catherine the Great. After 1945, it was transferred to Poland along with the surrounding region, the German population expelled, and the city repopulated with Poles — an exchange that left it with fine Prussian buildings and a history that is difficult to integrate.

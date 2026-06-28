@@ -3,9 +3,11 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-31'
 latitude: -41.2
-loc_type: city
+loc_type: region
 longitude: 147.5
-score: 0.54
+score: 7.87
+snippet: Sparse Tasmanian region of Tamar Valley vineyards, Ben Lomond highlands,
+  and rugged coast near St Helens.
 title: North-East Tasmania
 type: location
 ---

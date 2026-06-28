@@ -11,6 +11,7 @@ story: >
   were one of the most powerful noble clans in Liguria. Their patronage of local
   churches left a trail of fine stonework across the western Riviera, of which San
   Vincenzo is a modest but genuine example.
+score: 6.3
 ---
 
 The parish church of San Vincenzo is the main church of Stellanello, rebuilt in baroque style and given altars of polychrome marble that are the most striking feature of the interior. The facades are plain, as is typical of Ligurian village churches, but the interior rewards a look inside when it is open — usually on feast days and Sunday mornings.

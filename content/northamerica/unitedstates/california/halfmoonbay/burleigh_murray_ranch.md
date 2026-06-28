@@ -8,6 +8,7 @@ tags:
 - nature
 title: Burleigh H. Murray Ranch
 type: poi
+score: 6.7
 ---
 
 Three miles east of Half Moon Bay up the Higgins Canyon road, Burleigh H. Murray Ranch is an 1100-acre state park that protects an intact 19th-century working dairy ranch. The headline feature is the English-style bank barn — a 1889 timber barn built into a hillside, with the dairy floor below and the hay loft accessed from the slope above. It is one of the only barns of this type on the West Coast and was built by an English immigrant family who farmed the canyon for three generations.

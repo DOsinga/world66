@@ -11,6 +11,7 @@ story: >
   The oldest gravestone in the Old Burying Ground dates from 1752, just three years after Halifax was founded. The cemetery contains the graves of Loyalists who fled the American Revolution, soldiers from multiple wars, and members of Halifax's earliest merchant families. It closed to new burials in 1844, making it one of the few places in Halifax where you can walk among the city's founders.
 sources:
   - https://en.wikipedia.org/wiki/Old_Burying_Ground_(Halifax)
+score: 7.3
 ---
 
 The Old Burying Ground, beside St. Paul's Church on Grand Parade, is the oldest Protestant cemetery in Canada. It was established in 1749 when Halifax was founded and contains graves dating back to the city's first years. Mature trees, worn sandstone markers, and a generally peaceful atmosphere make it one of the more reflective corners of downtown Halifax. Several of the early stones bear military insignia — the eighteenth-century dead include soldiers from the British garrisons and local militia.

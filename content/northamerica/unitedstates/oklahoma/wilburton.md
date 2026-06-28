@@ -5,7 +5,9 @@ done:
 latitude: 34.918702
 loc_type: city
 longitude: -95.309781
-score: 0.29
+score: 4.96
+snippet: Small southeastern Oklahoma city near Robbers Cave State Park, with a campus
+  of Eastern Oklahoma State College.
 title: Wilburton
 type: location
 ---

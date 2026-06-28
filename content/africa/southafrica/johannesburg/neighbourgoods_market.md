@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -26.192
 longitude: 28.037
+score: 6.8
 ---
 
 The Neighbourgoods Market at 73 Juta Street in Braamfontein runs every Saturday from 9am to 3pm and is one of the most lively weekend destinations in the city. The covered market fills a large warehouse with artisan food producers, coffee roasters, craft beer, vinyl record vendors, handmade clothing, and ceramics, with live music running throughout. It draws a young, mixed crowd and has a genuinely good atmosphere.

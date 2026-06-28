@@ -5,12 +5,14 @@ done:
 latitude: 41.9068
 longitude: 12.4568
 opening_hours: Mon–Sat 10:00–22:00; closed Sun
+score: 8.2
 snippet: Rome's best pizza al taglio, sold by weight near the Vatican
 tags:
 - Katie Parla Rome
 - Budget Dining Rome
 - eating_out
 - restaurant
+- prati
 title: Pizzarium
 type: poi
 ---

@@ -13,6 +13,7 @@ story: >
   merchant who confused the catalogue order and received an iron building meant for a different
   climate. Historians have since found no evidence of an Eiffel connection, but the story persists,
   and the building's obvious foreignness to tropical Angola makes it feel plausible.
+score: 6.9
 ---
 
 The Palácio de Ferro (Iron Palace) is Luanda's architectural oddity: a Victorian-era pre-fabricated cast-iron building, assembled on the Angolan coast from parts manufactured in Europe. It was originally constructed in the late 19th century, relocated and restored in the 21st, and now stands near the waterfront as one of the few remaining examples of the colonial-era iron buildings that once appeared across Portuguese Africa.

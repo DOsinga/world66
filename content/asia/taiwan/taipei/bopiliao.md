@@ -2,12 +2,13 @@
 address: 173 Kangding Road, Wanhua District, Taipei
 latitude: 25.0367
 longitude: 121.5028
+score: 8.1
 snippet: Restored Qing-era and Japanese-colonial block in Wanhua
 tags:
 - things_to_do
 - sight
 - architecture
-- ximending
+- wanhua
 title: Bopiliao Historic Block
 type: poi
 ---

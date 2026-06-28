@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:First_United_Methodist_Chu
 latitude: 38.577359
 loc_type: city
 longitude: -92.172427
-score: 0.39
+score: 6.26
 title: Jefferson City
 type: location
+snippet: Missouri capital on river bluffs, anchored by a hilltop capitol and former
+  state penitentiary.
 ---
 
 Jefferson City is the capital of Missouri, a small city of about 43,000 on the bluffs above the Missouri River. It is one of the less glamorous state capitals in the country -- overshadowed by [St. Louis](/northamerica/unitedstates/missouri/stlouis) and [Kansas City](/northamerica/unitedstates/missouri/kansascity) -- but it has a handsome setting on the river and enough to fill a day if you are passing through.

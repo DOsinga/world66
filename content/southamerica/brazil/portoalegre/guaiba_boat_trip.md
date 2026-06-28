@@ -7,6 +7,7 @@ tags:
 - sight
 title: Rio Guaíba Boat Trip
 type: poi
+score: 7.9
 ---
 
 Going out on the Rio Guaíba by boat is one of those experiences that changes your understanding of Porto Alegre. From the city's streets and waterfront, the Guaíba looks vast — and it is — but being out on the water makes its scale visceral: you are in something the size of a small sea, with the city reduced to a thin line of buildings on the eastern shore and open water in almost every other direction. On a clear day the Serra Gaúcha hills are visible to the north, and the play of light on the water changes constantly.

@@ -7,6 +7,7 @@ tags:
   - uptown
 latitude: 44.94972222222222
 longitude: -93.2972
+score: 7.2
 ---
 
 The Uptown Theatre is a 1939 Art Deco cinema on Hennepin Avenue in the heart of the Uptown neighbourhood, one of the few surviving single-screen movie theatres in the Twin Cities. The building's exterior features the marquee and signage typical of the late 1930s Art Deco cinema style, and the interior, while updated, retains the wide-screen proportions and plush seating of the original.

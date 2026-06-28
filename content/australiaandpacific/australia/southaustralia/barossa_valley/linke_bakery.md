@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -34.524
 longitude: 138.957
+score: 7.8
 ---
 
 Linke's Central Meat Store in Tanunda is the best example of the valley's German smallgoods tradition. The shop has been operating since 1919 and produces its own mettwurst, leberwurst, fritz and smoked meats using old family recipes. It's not a restaurant — you take away — but picking up a stick of mettwurst and some sourdough bread is one of the essential Barossa food experiences.

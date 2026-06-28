@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Boating_in_the_morning_at_
 latitude: 22.222494
 loc_type: city
 longitude: 88.047416
-score: 0.33
+score: 5.87
+snippet: Hooghly-Rupnarayan riverside village near Kolkata, used for picnics and small
+  boat trips.
 title: Gadiara
 type: location
 ---

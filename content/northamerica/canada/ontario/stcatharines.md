@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_downtown_St
 latitude: 43.157981
 loc_type: city
 longitude: -79.2441
-score: 0.38
+score: 6.64
+snippet: Niagara region city on Lake Ontario, where Welland Canal locks meet nearby
+  wine country.
 title: St. Catharines
 type: location
 ---

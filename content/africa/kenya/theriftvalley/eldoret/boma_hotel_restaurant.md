@@ -6,6 +6,7 @@ longitude: 35.2793
 tags:
   - eating_out
   - restaurant
+score: 4.7
 ---
 
 The Boma Inn Eldoret is one of the more comfortable mid-range hotels in the city, and its restaurant is reliable for travellers who want a known quantity. The kitchen does both Kenyan and international dishes — a good nyama choma, reasonable Indian options, and Western staples for those who want them. The buffet lunch is popular with business visitors and a reasonable deal.

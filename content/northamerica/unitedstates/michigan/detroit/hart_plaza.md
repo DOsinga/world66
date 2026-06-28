@@ -9,6 +9,7 @@ tags:
 neighbourhood: Downtown
 title: Hart Plaza
 type: poi
+score: 5.4
 ---
 
 Hart Plaza is the 14-acre concrete plaza on the Detroit River at the foot of Woodward Avenue, designed by Isamu Noguchi and Shoji Sadao and finished in 1979. The space hosts most of the city's big outdoor events: the Detroit Jazz Festival, Movement (the electronic music festival in May), the Mexican-influenced Cinco de Mayo celebration, and the Ford Fireworks over the river in late June.

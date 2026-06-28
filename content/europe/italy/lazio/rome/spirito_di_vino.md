@@ -3,11 +3,13 @@ address: Via dei Genovesi 31 A/B
 latitude: 41.8882
 longitude: 12.4754
 phone: +39 06 5896689
+score: 7.7
 snippet: Inventive Trastevere restaurant in an ancient Roman cellar
 tags:
 - eating_out
 - restaurant
 - church
+- trastevere
 title: Spirito di Vino
 type: poi
 url: www.spiritodivino.com

@@ -7,6 +7,7 @@ tags:
 latitude: 43.3264
 longitude: -86.2615
 snippet: Michigan's largest amusement and waterpark, 10 km north of Muskegon
+score: 6.9
 ---
 
 Michigan's Adventure, about 10 km north of downtown Muskegon on US-31, is the largest amusement park in Michigan and includes a substantial waterpark. It operates from May to September and is primarily aimed at families and thrill-seekers — a mix of coasters, flat rides, and water slides. It is owned by Cedar Fair (the same company that runs Cedar Point in Ohio) and the roller coasters are a step above the average regional park.

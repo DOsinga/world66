@@ -10,6 +10,7 @@ longitude: -71.5679
 score: 0.54
 title: Block Island
 type: location
+snippet: "Small Rhode Island island with protected open land, sea cliffs, beaches, and an unhurried New England character."
 ---
 
 Block Island sits 13 miles off the Rhode Island coast and feels far removed from the mainland in the best possible way. The island has no traffic lights, a handful of small inns and restaurants, and miles of hiking trails along dramatic sea cliffs. The Nature Conservancy has protected about 40 percent of the island, giving it an open, unhurried character that's increasingly rare in New England.

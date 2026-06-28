@@ -9,6 +9,7 @@ longitude: 110.427
 snippet: "Semarang's old Dutch colonial quarter with 200-year-old warehouses and trading houses"
 sources:
   - https://en.wikipedia.org/wiki/Old_Town_of_Semarang
+score: 8.8
 ---
 
 Kota Lama — the Old Town — is a small grid of streets that preserves more intact Dutch colonial architecture than almost anywhere else in Indonesia. The area was the commercial heart of the VOC (Dutch East India Company) trading post established in the 17th century and retains its warehouse-lined canals, narrow cobbled lanes, and European facades in varying states of restoration and decay.

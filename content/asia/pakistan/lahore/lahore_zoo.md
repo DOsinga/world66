@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - mall
+score: 4.9
 ---
 
 Founded in 1872, Lahore Zoo is one of the oldest in South Asia and one of the largest in Pakistan. It sits in the middle of the city, just south of the Mall on a 25-acre plot. The collection includes lions, tigers, leopards, elephants, and a respectable variety of birds.

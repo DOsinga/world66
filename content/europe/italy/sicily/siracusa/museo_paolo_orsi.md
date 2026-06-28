@@ -8,6 +8,7 @@ latitude: 37.0764
 longitude: 15.2864
 story: >
   Paolo Orsi was a Trentino archaeologist who came to Syracuse in 1888 and spent the next four decades excavating every significant Greek and prehistoric site in Sicily. His systematic field notes, now kept in the museum that bears his name, transformed Sicilian archaeology from treasure hunting into a discipline. The collection he assembled remains one of the most important in the Mediterranean world.
+score: 9.2
 ---
 
 The Museo Archeologico Regionale Paolo Orsi is the finest archaeological museum in Sicily and one of the best in Italy, housing finds from ancient Syracuse and the broader Greek and prehistoric presence across Sicily. The collection ranges from the Neolithic through the Greek and Roman periods, with particular strength in Greek sculpture, terracotta votive objects, and coins.

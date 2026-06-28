@@ -1,15 +1,23 @@
 ---
-title: "Wawel Castle"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - museum
-  - stare_miasto
 latitude: 50.0543
 longitude: 19.9355
-story: >
-  Beneath the castle hill lies the Smok Wawelski — the Wawel Dragon — whose legend dates to the founding of the city. According to the story, a shoemaker named Skuba killed the dragon by stuffing a sheep with sulphur; when the beast drank from the Vistula to quench the fire, it burst. A bronze dragon sculpture at the cave entrance still breathes real fire from a gas jet, to the delight of children.
+score: 9.6
+snippet: Royal residence on Wawel Hill, seat of Polish kings from the 11th to early
+  17th century
+story: 'Beneath the castle hill lies the Smok Wawelski — the Wawel Dragon — whose
+  legend dates to the founding of the city. According to the story, a shoemaker named
+  Skuba killed the dragon by stuffing a sheep with sulphur; when the beast drank from
+  the Vistula to quench the fire, it burst. A bronze dragon sculpture at the cave
+  entrance still breathes real fire from a gas jet, to the delight of children.
+
+  '
+tags:
+- things_to_do
+- sight
+- museum
+- wawel
+title: Wawel Castle
+type: poi
 ---
 
 Wawel Castle is perched on a limestone hill above the Vistula River at the southern edge of the Old Town, and for five centuries — from 1038 to 1596 — it was the seat of Polish kings. The hilltop holds both the castle and the Wawel Cathedral, and together they form one of the most important complexes in Poland. The views from the hill over the river and the rooftops of Kazimierz are among the best in the city.

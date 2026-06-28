@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Haut-de-Cagnes_(vue_depuis
 latitude: 43.661
 loc_type: city
 longitude: 7.1513
-score: 0.58
+score: 8.12
 title: Cagnes-sur-Mer
 type: location
+snippet: French Riviera town split between a seaside resort and the medieval hill
+  village of Haut-de-Cagnes.
 ---
 
 Cagnes-sur-Mer sits between Nice and Antibes, split into two very different towns stacked on top of each other. Down by the sea is a modern beach resort, busy in summer and unremarkable. Up on the hill is Haut-de-Cagnes, a medieval village of cobbled lanes, arched passages, and flower-draped houses that genuinely rewards an afternoon.

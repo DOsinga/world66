@@ -14,6 +14,7 @@ story: >
   Hankyu Sannomiya, and Hanshin Sannomiya. The competition between three railway
   companies for passengers on the same route has kept fares low and services frequent,
   which partly explains why central Kobe is so densely commercialised.
+score: 6.3
 ---
 
 Sannomiya is the heart of central Kobe — a dense commercial district around the intersection of three railway lines, packed with department stores, restaurants, bars, and clubs. The Flower Road (Hana Michi) running south from Sannomiya station toward the waterfront is the main thoroughfare, lined with fountains and trees.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Lagoa de Cauipe
 type: poi
+score: 7.8
 ---
 
 The Lagoa de Cauipe is a freshwater lagoon about 6 kilometres downwind from Cumbuco beach, reachable on a kite in about 45 minutes or by hired buggy in around 20. The lagoon is protected from ocean swell, making it ideal for beginner kitesurfers who want flat water to practise on, and for families who want to swim in fresh, calm water without ocean currents.

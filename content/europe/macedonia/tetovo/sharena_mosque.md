@@ -12,6 +12,7 @@ story: >
   Unlike most mosques, the Sharena Mosque was built with vivid painted plasterwork covering nearly every exterior surface. The story goes that the original wooden mosque was replaced in stone in 1438 after a local wealthy woman donated her jewellery to fund the reconstruction, and the decorative scheme was intended to reflect the feminine origins of the gift. It was extended in the early 19th century, and the current paintwork mostly dates from that renovation.
 sources:
   - https://en.wikipedia.org/wiki/%C5%A0arena_Mosque
+score: 9.1
 ---
 
 The Sharena Mosque — sharena means "colourful" or "decorated" in Macedonian — sits on the bank of the Pena River and is the most immediately striking building in Tetovo. Its exterior walls are covered in intricate floral and geometric frescoes in earthy reds, ochres, and blues, an almost unique feature for an Ottoman mosque. Built in 1438, it was rebuilt and extended in the early 19th century, which accounts for much of the surviving painted surface.

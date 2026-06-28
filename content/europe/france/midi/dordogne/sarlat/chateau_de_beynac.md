@@ -13,6 +13,7 @@ story: >
   permanent conflict with the English-held Château de Castelnaud directly across the river.
   The two fortresses are still visible to each other — and still facing off, though now the
   armies have been replaced by tour buses.
+score: 8.8
 ---
 
 The Château de Beynac perches on a sheer cliff 150 metres above the Dordogne, about 12 kilometres west of Sarlat. The medieval fortress, built from the 12th century onward and expanded during the Hundred Years War, is the most dramatically sited of all the Dordogne châteaux — the view from the battlements takes in several kilometres of the river valley, other clifftop villages, and the rival Château de Castelnaud on the opposite bank.

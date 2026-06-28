@@ -16,6 +16,7 @@ story: >
   She died in 1915, the Efik calling her Obongawan Okoyong — Queen of Okoyong.
 sources:
   - https://en.wikipedia.org/wiki/Mary_Slessor
+score: 7.3
 ---
 
 Mary Slessor is buried on the hillside in Duke Town, not far from the Old Residency Museum. Her grave is a simple plot in a small cemetery, marked clearly and visited by Nigerians and foreign travellers alike — she remains genuinely revered in Calabar, not merely as a colonial figure but as someone who lived and fought for the Efik people on their own terms.

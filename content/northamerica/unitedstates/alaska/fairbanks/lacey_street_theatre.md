@@ -11,6 +11,7 @@ story: >
   Built in 1939, the Lacey Street Theatre is the only Art Deco building in Interior
   Alaska. It operated as a movie house for decades before closing and later reopening
   as the Fairbanks Ice Museum, though it has cycled through various uses over the years.
+score: 5.8
 ---
 
 The Lacey Street Theatre at 500 Second Avenue is a small but striking Art Deco building and one of the few architecturally notable structures in downtown Fairbanks. Its streamlined facade and marquee stand out on a block otherwise dominated by utilitarian commercial buildings.

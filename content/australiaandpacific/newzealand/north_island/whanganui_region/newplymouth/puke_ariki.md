@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -39.0569
 longitude: 174.0719
+score: 7.6
 ---
 
 Puke Ariki is New Plymouth's combined museum, library, and i-SITE visitor centre, opened in 2003 on a hill above the waterfront. It is an unusually good regional museum: the natural history and Māori taonga (treasures) collections are strong, and the displays on Taranaki's geological history — including the formation and activity of Mount Taranaki — are well done. A walkway connects the building directly to the coastal walkway below.

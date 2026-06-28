@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.5453
 longitude: -5.6622
+score: 8.5
 ---
 
 Cimadevilla is the original settlement of Gijón, a rocky headland that juts into the Bay of Biscay at the eastern end of Playa San Lorenzo. The Romans built here — the Campo Valdés baths are at the headland's base — and after them the medieval town occupied the promontory for the same reasons of defence and harbour access. Today it's the historic quarter of the city: a dense grid of stone streets, whitewashed houses with green shutters, cider bars, seafood restaurants, and small squares where older residents sit in the sun while the evening bar crowd fills in around them.

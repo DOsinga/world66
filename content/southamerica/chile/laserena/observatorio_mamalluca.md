@@ -8,6 +8,7 @@ tags:
   - sight
   - observatory
 story: "Mamalluca was the first public observatory in Chile when it opened in 1995. It was built largely by the people of Vicuña themselves — local farmers laid the foundation and the municipality paid for the dome and the 30-cm reflector telescope."
+score: 8.7
 ---
 
 Sixty kilometres up the Elqui Valley from La Serena, near Vicuña, Mamalluca is the most popular of the public observatories in the area. Two-hour tours run every evening: a short talk on the southern sky, a look through the telescope at planets, nebulae, the Magellanic Clouds.

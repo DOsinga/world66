@@ -7,6 +7,7 @@ tags:
   - armenian
 latitude: 40.5335
 longitude: 44.7244
+score: 5.8
 ---
 
 Aragast is one of the more dependable restaurants on the main street of Tsaghkadzor, drawing a steady crowd of skiers, day-trippers, and locals throughout the winter season. The menu is solidly Armenian: khorovats grilled over charcoal, lamb soup, stuffed grape leaves, and grilled trout from the highland lakes. Portions are generous and the food is cooked to order rather than sitting in bains-marie.

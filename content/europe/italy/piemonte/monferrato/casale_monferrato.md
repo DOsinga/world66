@@ -9,6 +9,7 @@ tags:
 latitude: 45.1349
 longitude: 8.4516
 story: Casale was the capital of the Gonzaga-ruled Marquisate of Monferrato from 1536 to 1708 — small but politically heavy, fought over by the Spanish, French and Savoyards because it controlled the Po river crossings. Its grand citadel was demolished after the War of the Spanish Succession; the brick castle by the river is what survived.
+score: 8.1
 ---
 
 Casale Monferrato sits on the right bank of the Po, an old Gonzaga capital that still feels much larger than its 34,000 inhabitants. The brick-walled Castello dei Paleologi anchors the town centre, and the Duomo of Sant'Evasio, founded in the eleventh century, has one of the most unusual narthexes in Italy — a low forest of arches and vaults rather than a single entrance hall.

@@ -9,6 +9,7 @@ tags:
 title: St. James' Church
 type: poi
 story: "The twin-spired church was built in 1969, twelve years before the apparitions on the hill above. The parish had planned for a small congregation; instead it became the centre of one of the largest pilgrimages in Europe, and the outdoor altar behind the church now seats thousands when the inside cannot hold the crowd."
+score: 8.8
 ---
 
 The twin-spired parish church at the centre of the village, the focal point of every pilgrimage to Medjugorje. Masses run several times a day in different languages -- Italian, English, Polish, Spanish, German, Korean -- and the schedule is posted outside the door.

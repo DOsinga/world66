@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fishguard_Harbour.JPG
 latitude: 51.9938
 loc_type: city
 longitude: -4.9768
+score: 7.21
+snippet: Pembrokeshire harbour town with cliff-top streets, a lower old port, and
+  Britain's last invasion story.
 title: Fishguard
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 title: Lake Nipissing Waterfront
 type: poi
 snippet: "Paved promenade, marina, beach, and carousel along the city's lakeshore"
+score: 6.7
 ---
 
 The lakefront south of downtown has been the city's reclaimed face for thirty years. The Heritage Carousel — hand-painted with northern Ontario wildlife — runs in the summer, a stretch of beach picks up swimmers on warm days, and the marina handles the floatplanes and pleasure boats that work the lake.

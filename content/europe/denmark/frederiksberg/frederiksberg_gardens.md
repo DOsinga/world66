@@ -7,6 +7,7 @@ latitude: 55.6730
 longitude: 12.5230
 story: >
   Frederiksberg Palace was built by Frederik IV as a summer residence in the early 18th century, and the gardens were laid out in the formal French and Dutch style of the time. A century later, Christian VII converted them to the English landscape style that survives today — with winding paths, canals, and strategically placed views of the palace. The royal family stopped using the palace in the early 19th century, and it has been a military academy ever since, but the gardens have been open to the public for over 200 years.
+score: 8.6
 ---
 
 Frederiksberg Have is one of the finest parks in Copenhagen — a long, winding landscape garden that stretches from the Frederiksberg Allé entrance up to the Baroque palace on the hill. The garden combines English landscape style (lakes, informal planting, rolling ground) with French formal elements nearer the palace: straight canals, clipped hedges, and classical pavilions.

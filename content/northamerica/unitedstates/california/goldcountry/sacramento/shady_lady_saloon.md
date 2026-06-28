@@ -7,6 +7,7 @@ tags:
   - midtown
 latitude: 38.5711
 longitude: -121.4839
+score: 6.9
 ---
 
 A Victorian-themed cocktail bar in Midtown, set in a late-19th-century building that captures something of the Gold Rush saloon aesthetic without being a theme park. The cocktail menu changes seasonally and emphasises California spirits — Central Valley brandy, Sacramento gin distilleries, Napa vermouth — alongside the classics. The bartenders know what they are doing.

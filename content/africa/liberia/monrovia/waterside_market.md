@@ -11,6 +11,7 @@ story: Waterside Market is built partly on reclaimed land and partly on stilts o
   the Mesurado River. During the civil wars it was destroyed twice and rebuilt twice
   by the traders themselves, who regard it as their livelihood and their neighbourhood
   simultaneously — many families live in the same stalls where they sell.
+score: 8.0
 ---
 
 Waterside Market is the commercial heart of Monrovia — a vast, dense, noisy warren of stalls on the edge of the old city, selling everything from mobile phone components to dried fish, imported fabrics to fresh produce. It spreads across the waterfront area and down toward the river, with permanent stalls, temporary tables, and wandering vendors all occupying every available space.

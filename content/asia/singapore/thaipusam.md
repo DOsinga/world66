@@ -1,9 +1,11 @@
 ---
 latitude: 1.3127
 longitude: 103.8524
+score: 7.5
 snippet: Hindu kavadi procession through Little India each January
 tags:
 - festivals
+- little_india
 title: Thaipusam
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Arg of Karim Khan
 type: poi
+score: 8.3
 ---
 
 This brick fortress in the centre of town was built in the 1760s by Karim Khan Zand, the founder of the short-lived Zand dynasty that briefly made Shiraz the capital of Iran. The Arg is rectangular, with massive round towers at each corner — one of which leans noticeably, the result of subsidence under the old bathhouse foundations beneath it.

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mainzer_Dom_Blaue_Stunde_(
 latitude: 49.9995
 loc_type: city
 longitude: 8.2736
-score: 0.58
+score: 8.24
+snippet: Rhine city of Roman roots, archbishops, wine taverns, and Gutenberg's printing
+  legacy.
 title: Mainz
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.1781
 longitude: -89.0803
+score: 7.2
 ---
 
 The Macal River flows out of the Maya Mountains and joins the Mopan just north of San Ignacio to form the Belize River. Where it passes the town it is wide, slow, and brown — perfect for canoeing, tubing, and gentle paddling, and the easiest way to experience the Cayo forest is to drift down it.

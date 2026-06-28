@@ -10,6 +10,7 @@ tags:
   - grandi
 neighbourhood: Grandi
 snippet: Life-size models of every whale species in Icelandic waters, in a converted Grandi warehouse
+score: 6.9
 ---
 
 In a high-ceilinged warehouse on Grandi, Whales of Iceland displays twenty-three life-size whale models — every cetacean species found in Icelandic waters, from the harbour porpoise to a 25-metre blue whale that fills the long hall. The models are accurate down to the scarring, and the lighting and recorded whale-song give the space the feel of an underwater chapel.

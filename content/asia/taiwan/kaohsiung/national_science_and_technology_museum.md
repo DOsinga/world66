@@ -7,6 +7,7 @@ tags:
 latitude: 22.6404
 longitude: 120.3496
 snippet: Large hands-on science museum aimed at families
+score: 6.7
 ---
 
 The largest science museum in southern Taiwan, with eighteen permanent halls covering everything from energy and electricity to aerospace, civil engineering, and the history of Chinese science. The displays are hands-on and pitched at older children; an IMAX 3D theatre runs feature films.

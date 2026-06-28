@@ -11,6 +11,7 @@ snippet: "An extraordinary private villa whose entire facade is covered in colou
 story: >
   The villa was created over several decades by a Passau merchant named Franz Xaver Gruber in the late 19th century, who covered every available surface with broken coloured glass, ceramic tiles, sea shells, and religious imagery as an act of personal devotion. 
   He spent most of his fortune on the project, which he considered a votive offering, and left the house to the Church upon his death.
+score: 6.6
 ---
 
 The Glasscherbenhaus (Broken Glass House) is one of the stranger sights in Bavaria — a private villa in the residential quarter above the old town that its owner covered entirely in mosaics of broken glass, ceramic shards, shells, and religious statues. The facade shimmers with sea-green, blue, and gold fragments arranged around figures of Christ, the Virgin, and various saints.

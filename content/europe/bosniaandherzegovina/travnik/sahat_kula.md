@@ -8,6 +8,7 @@ latitude: 44.2265
 longitude: 17.6650
 story: >
   The tower was built in the 18th century when mechanical clocks were a mark of Ottoman modernity — each major town aspired to one. The Travnik tower still functions, its mechanism replaced over the years, and chimes the hours over the bazaar as it has for over two centuries.
+score: 6.6
 ---
 
 The Sahat Kula is an 18th-century clock tower standing 20 metres above the bazaar quarter — one of the Ottoman landmarks that gives Travnik's old town its distinctive skyline alongside the mosque minarets. Stone-built and well-preserved, it is visible from much of the old town and serves as a useful orientation point.

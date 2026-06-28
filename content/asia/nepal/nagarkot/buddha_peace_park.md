@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7173
 longitude: 85.5214
+score: 6.4
 ---
 
 Carved into the forested hillside just below the ridge at Nagarkot, the Buddha Peace Park is a landscaped garden surrounding a large white Buddha statue with views down into the valley below. The park offers a quieter alternative to the main view tower — the same dramatic setting but fewer crowds, and a pleasant place to walk through terraced gardens planted with marigolds and prayer flags.

@@ -9,6 +9,7 @@ latitude: 41.788889
 longitude: -74.118056
 sources:
   - https://en.wikipedia.org/wiki/Bonticou_Crag
+score: 8.0
 ---
 
 Bonticou Crag is a rocky outcrop in the Mohonk Preserve north of Lake Mohonk, reached by a moderate hike of about two miles round-trip from the Spring Farm trailhead. The crag itself is a scramble to the top — the final approach involves squeezing through a narrow rock chimney and climbing over exposed boulders, which rules it out for those who dislike heights or uneven terrain, but rewards everyone else with a panoramic view across the Hudson Valley.

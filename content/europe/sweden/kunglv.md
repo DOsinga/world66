@@ -4,16 +4,18 @@ done:
   location_cleanup: '2026-04-05'
   location_enrich: 2026-05-29
   poi_cleanup: '2026-04-19'
+image: kunglv.jpg
+image_attribution: Harri Blomberg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kung%C3%A4lv,_sedd_fr%C3%A5n_Fars_hatt,_den_4_juli_2006.JPG
 latitude: 57.870795
+loc_type: city
 longitude: 11.979962
-score: 0.47
+score: 7.27
+snippet: Swedish river town north of Gothenburg, overlooked by the ruins of Bohus
+  Fästning.
 title: Kungälv
 type: location
-loc_type: city
-image: kunglv.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kung%C3%A4lv,_sedd_fr%C3%A5n_Fars_hatt,_den_4_juli_2006.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Harri Blomberg
 ---
 
 Kungälv sits on the Nordre Älv river, just 20 kilometres north of Gothenburg — close enough for a day trip, substantial enough to deserve one. The town's history goes back a thousand years, and it shows: the ruins of Bohus Fästning loom over the river from a rocky island, and the old town centre around Gamla Torget still has its cobbled streets and wooden houses painted in warm colours.

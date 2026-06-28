@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Fort Frederick fired its cannons exactly once. Built in 1799 to defend the harbour against a French invasion that never came, the fort sat mostly idle through its entire military life. Its single recorded discharge was a ceremonial royal salute — the guns were never aimed at an enemy. It is almost certainly the most expensive and elaborate precaution ever taken against something that didn't happen on this coast.
+score: 7.6
 ---
 
 Fort Frederick is the oldest British structure in South Africa still standing in its original form — a small stone fort built in 1799 on the hill above the Baakens River, about three years before the first permanent settlement at what would become Port Elizabeth. It was built in a hurry during the brief first British occupation of the Cape Colony, to guard the anchorage against a possible French naval attack in the Napoleonic Wars. The attack never came.

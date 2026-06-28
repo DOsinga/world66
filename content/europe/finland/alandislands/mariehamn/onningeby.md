@@ -14,6 +14,7 @@ story: >
   Victor Westerholm, the most prominent artist associated with the colony, spent forty
   summers in Önningeby and produced hundreds of paintings of the Åland landscape that
   largely created the visual idea of what Åland looks like in the collective imagination.
+score: 7.4
 ---
 
 Önningeby, a village about 6 km northeast of Mariehamn, was the site of a significant artists' colony in the late nineteenth and early twentieth century. The village and its surroundings — meadows, birch forests, and the particular flat light of the Baltic landscape — attracted Finnish and Swedish painters for decades from the 1880s onward. Today the village is quiet and agricultural, with the old studio of Victor Westerholm preserved as a small heritage site.

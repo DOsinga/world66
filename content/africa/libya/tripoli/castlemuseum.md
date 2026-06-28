@@ -15,6 +15,7 @@ story: >
   forces captured Tripoli in 1911 it became their military command centre. After independence
   in 1951 it was converted into a museum — the artefacts inside span three thousand years of
   Libyan history.
+score: 9.1
 ---
 
 Tripoli's massive Red Castle — Assaraya Alhamra — overlooks the old city and the harbour. The fortress complex dates back to Roman times, though most of what stands today was built and rebuilt during the Byzantine, Arab, Ottoman, and Italian colonial periods. From the ramparts you get one of the best views in the city: the medina's rooftops below, the harbour beyond, and the Mediterranean stretching to the horizon.

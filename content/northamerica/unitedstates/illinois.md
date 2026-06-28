@@ -4,6 +4,7 @@ done:
 latitude: 40.079661
 longitude: -89.433729
 score: 0.35
+snippet: "Midwestern state anchored by Chicago, Lincoln sites, and the sandstone bluffs of Shawnee country."
 title: Illinois
 type: location
 loc_type: region

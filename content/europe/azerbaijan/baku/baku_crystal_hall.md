@@ -6,6 +6,7 @@ longitude: 49.8554
 tags:
   - things_to_do
   - architecture
+score: 4.8
 ---
 
 The Crystal Hall is a 25,000-seat arena at the southern end of the Baku Boulevard, built in eight months in 2011-12 to host the Eurovision Song Contest. Its faceted glass and steel facade lights up at night, and it now serves mainly as a concert venue for international touring acts.

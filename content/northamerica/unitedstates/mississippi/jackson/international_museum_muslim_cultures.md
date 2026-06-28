@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.2975
 longitude: -90.1862
+score: 6.5
 ---
 
 Founded in 2001, this is — somewhat improbably — America's first Muslim museum, sitting on the second floor of the Mississippi Arts Center. It covers the history of Islamic civilisations, from the gold-rich West African empires of Mali and Songhai to the scientific contributions of the medieval Islamic world.

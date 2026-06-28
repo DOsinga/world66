@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Phra_Nakhon_Khiri_Historic
 latitude: 13.1095
 loc_type: city
 longitude: 99.9397
-score: 0.51
+score: 7.71
+snippet: Old Thai city of hilltop palaces, cave temples, monastery murals, and palm-sugar
+  sweets
 sources:
 - https://en.wikipedia.org/wiki/Phetchaburi
 - https://en.wikivoyage.org/wiki/Phetchaburi

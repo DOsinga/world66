@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.85
 longitude: 8.0
+score: 7.8
 ---
 
 The Rothaarsteig is a long-distance hiking trail running through the Rothaargebirge, the densely forested mountain range that surrounds Siegen. The main trail stretches 154 kilometres from Brilon in the north to Dillenburg in the south, passing directly through the Siegerland and offering access to some of the most attractive and undervisited forest landscapes in western Germany. The highest point on the route, the Kahle Asten at 841 metres, is in the northern section; the terrain around Siegen is lower but still rewarding.

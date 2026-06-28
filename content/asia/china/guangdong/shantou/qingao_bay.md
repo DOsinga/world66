@@ -7,6 +7,7 @@ tags:
 - sight
 title: Qing'ao Bay
 type: poi
+score: 7.4
 ---
 
 Qing'ao Bay is Nan'ao's best-known beach, a crescent of pale sand facing clear water on the island's eastern side. It is the obvious place for swimming, sunrise, and an unhurried seafood lunch.

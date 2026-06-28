@@ -17,6 +17,7 @@ story: >
   controlling talisman.
 sources:
   - https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza
+score: 9.3
 ---
 
 Carved from a single outcrop of limestone, the Sphinx has the body of a lion and, traditionally, the face of pharaoh Khafre — though arguments still rage over whether the head was re-carved from an older, larger original. At 73 metres long and 20 metres high, it is the largest monolithic statue in the world. The missing nose and missing royal beard (fragments of which are in the British Museum) give it its distinctive battered look.

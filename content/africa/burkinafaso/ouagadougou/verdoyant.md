@@ -6,6 +6,7 @@ longitude: -1.5186
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 A pizza and Italian restaurant on Avenue Kwame Nkrumah that has been a fixture of the Ouaga expat scene for decades. The pizzas come from a wood-fired oven and are properly thin and blistered; pasta dishes are decent if a little under-seasoned. The terrace is shaded and pleasant in the evenings.

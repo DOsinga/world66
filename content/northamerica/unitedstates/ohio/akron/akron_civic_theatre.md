@@ -16,6 +16,7 @@ story: >-
   clouds. Eberson built around 200 of these atmospheric houses in the 1920s,
   but Akron's is one of the few that has been continuously restored and is
   still in use as a working theatre.
+score: 8.0
 ---
 
 Opened in 1929 as a Loew's vaudeville and movie house, the Civic is one of John Eberson's atmospheric theatres — a Moorish-Mediterranean fantasy of arches, columns, statuary, and a "starry sky" ceiling with drifting cloud projections. After decades of decline and a near-demolition in the 1960s, it was saved by a public restoration drive and now serves as Akron's main downtown live venue: touring Broadway shows, classic film series, comedians, the Akron Symphony, and an annual programme of holiday concerts.

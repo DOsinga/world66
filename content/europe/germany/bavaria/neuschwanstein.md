@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: neuschwanstein.jpg
+image_attribution: Softeis
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg
 latitude: 47.5576
+loc_type: feature
 longitude: 10.7497
+score: 9.42
+snippet: Bavarian Alps castle above Hohenschwangau, built for King Ludwig II and later
+  echoed by Disney.
 title: Neuschwanstein
 type: location
-score: 0.79
-image: neuschwanstein.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Softeis
-loc_type: feature
 ---
 
 Neuschwanstein is the fairytale castle perched above the village of Hohenschwangau in the Bavarian Alps, about 120 km southwest of Munich. King Ludwig II ordered its construction in 1869, intending it as a private refuge — it was never finished in his lifetime, and he lived in it for only 172 days before his mysterious death in 1886. Walt Disney later used it as the model for Sleeping Beauty's castle, which tells you something about the impression it makes.

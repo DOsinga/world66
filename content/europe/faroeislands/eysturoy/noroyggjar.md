@@ -5,6 +5,8 @@ latitude: 62.269355
 loc_type: region
 longitude: -6.370266
 score: 0.57
+snippet: Remote Faroese island group of steep northern mountains, tiny villages, seabird
+  cliffs, and Klaksvík.
 title: Norðoyggjar
 type: location
 ---

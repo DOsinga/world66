@@ -11,6 +11,7 @@ story: >
   When it opened in 2018, the Sheikh Abdullah Al-Salem Cultural Centre claimed to be the largest museum complex in the world by exhibition space — a deliberately ambitious national project by a country that had more money than heritage attractions. The complex includes eight separate museums covering natural history, science, space, fine art, and Arabic Islamic science, all under one roof designed by a British architectural firm.
 sources:
   - https://en.wikipedia.org/wiki/Sheikh_Abdullah_Al-Salem_Cultural_Centre
+score: 8.4
 ---
 
 The Sheikh Abdullah Al-Salem Cultural Centre is one of the largest museum complexes in the world, a sprawling campus of interconnected buildings in the Nuzha area near Salmiya. Eight separate museums are housed within it, covering natural history, science, technology, space, fine arts, and the history of Kuwait and the Arabian Peninsula. The exhibits lean toward the spectacular — large-scale dioramas, interactive technology, dramatic lighting — and the sheer size of the complex makes it a half-day commitment at minimum.

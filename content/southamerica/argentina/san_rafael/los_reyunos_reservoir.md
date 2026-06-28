@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.5
 ---
 
 Los Reyunos is the lower of the two reservoirs on the Atuel — a long, narrow lake squeezed between sandstone cliffs about 35 kilometres west of San Rafael. It is smaller and quieter than Valle Grande and most local trippers come here for the swimming, fishing, and waterskiing rather than the scenery.

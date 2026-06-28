@@ -15,6 +15,7 @@ story: >
   Others claim it refers to the sighs of young women watching soldiers pass.
   Neither story is firmly documented, which is probably fine: the name fits
   the atmosphere so well that the truth would be a disappointment.
+score: 8.4
 ---
 
 The Calle de los Suspiros is a single short block of the Barrio Histórico that has become the most photographed street in Uruguay. The cobblestones are laid from rounded river pebbles, the colonial houses on either side are single-storey and painted in warm earth tones, and a tangle of bougainvillea and other flowering plants trails from the walls and over the rooftops.

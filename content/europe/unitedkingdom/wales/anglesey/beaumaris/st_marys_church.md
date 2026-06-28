@@ -9,6 +9,7 @@ tags:
   - church
 sources:
   - https://en.wikipedia.org/wiki/St_Mary%27s_and_St_Nicholas%27s_Church,_Beaumaris
+score: 7.8
 ---
 
 The parish church of Beaumaris is a fourteenth-century Grade I listed building, founded at the same time as the town itself. It is a plain rectangular nave-and-chancel structure typical of Edwardian church-building, distinguished by its excellent fittings: a complete set of fifteenth-century misericords carved with figures and beasts, and an unusually fine alabaster effigy in the chancel.

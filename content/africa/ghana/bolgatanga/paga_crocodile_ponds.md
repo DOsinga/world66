@@ -14,6 +14,7 @@ story: >
   deceased person from the community. Killing one is considered an act of murder, and the
   community mourns a crocodile's death with the same rituals as a human funeral. The belief
   has protected the population for generations — the crocodiles have never been hunted here.
+score: 8.3
 ---
 
 Paga is a town on the Ghana-Burkina Faso border, about 50 km north of Bolgatanga, and its sacred crocodile ponds are one of northern Ghana's most visited attractions. The crocodiles in the ponds are regarded as sacred — believed to be inhabited by the souls of deceased community members — and as a result they are remarkably docile around humans. Visitors can, with a guide, sit beside the crocodiles and even briefly touch them, an experience that feels improbable given the size of the animals.

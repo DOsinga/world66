@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 38.5200
 longitude: 68.5500
+score: 6.6
 ---
 
 The Hissar Valley stretches west of Dushanbe, a broad agricultural valley backed by the northern face of the Hissar Range. The road west from the city passes through this valley, running past orchards, cotton fields, and the villages that have existed here since the Sogdian period. The light in the valley in the late afternoon, with the mountains behind, is extraordinary.

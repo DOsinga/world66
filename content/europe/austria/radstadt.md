@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Radstadt_pongau.jpg
 latitude: 47.3839
 loc_type: city
 longitude: 13.4618
-score: 0.52
+score: 7.84
+snippet: Medieval Salzburg mountain town with intact walls, Tauern views, and access
+  to Ski Amadé slopes.
 title: Radstadt
 type: location
 ---

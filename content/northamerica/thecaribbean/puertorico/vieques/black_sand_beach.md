@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 18.103
 longitude: -65.515
+score: 6.8
 ---
 
 Reached by a fifteen-minute walk along a streambed from a pull-off west of Esperanza, Playa Negra is one of the few black-sand beaches in Puerto Rico. The dark sand comes from volcanic and mineral deposits washed down from the hills behind, and the contrast against turquoise water and white surf is striking.

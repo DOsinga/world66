@@ -12,6 +12,7 @@ story: >
   illusion on clear days that the asphalt road ahead is dissolving into the
   horizon. In midsummer the grassland on either side turns an intense yellow-
   green that photographers specifically time their visits to catch.
+score: 6.7
 ---
 
 The Grassland Sky Road is a scenic driving route west of Zhangjiakou that crosses the rolling uplands of the inner Mongolian-Hebei borderlands, offering panoramic views over open grassland that feel a world away from the industrial city below. The road climbs through the mountains and emerges onto a plateau where the horizon stretches in all directions and the sky genuinely seems larger.

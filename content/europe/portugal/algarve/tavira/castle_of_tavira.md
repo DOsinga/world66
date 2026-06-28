@@ -14,6 +14,7 @@ story: >
   walls were partially restored in the twentieth century; the earthquake-era ruins that
   were not restored remain visible inside the perimeter and give the site an atmospheric
   incompleteness.
+score: 7.3
 ---
 
 The medieval castle sits on the highest point of the old town, surrounded by well-tended gardens that have been planted within the surviving walls. The ramparts can be walked for views over the rooftops and the distinctive four-sided telhado de tesoura rooflines that are Tavira's most recognisable architectural feature. Entry is free and the gardens are a pleasant place to rest.

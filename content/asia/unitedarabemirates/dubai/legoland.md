@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Dubai Parks and Resorts
 type: poi
+score: 5.6
 ---
 
 Dubai Parks and Resorts on Sheikh Zayed Road near Jebel Ali is the largest theme park complex in the Middle East, comprising three parks: Motiongate (Hollywood-themed rides), Bollywood Parks (Bollywood films and music), and LEGOLAND Dubai. A fourth park, Six Flags Dubai, was added later on the same site.

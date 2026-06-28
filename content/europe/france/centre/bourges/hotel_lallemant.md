@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.0838
 longitude: 2.3994
+score: 7.8
 ---
 
 A small Renaissance mansion built in the early 16th century for a family of Italian merchants who had settled in Bourges. The building is one of the earliest Renaissance houses in central France and is itself worth the visit — the interior staircase, the chapel ceiling carved with a flock of mysterious symbols, and the secluded courtyard.

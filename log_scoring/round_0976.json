@@ -1,200 +1,200 @@
 {
   "round": 976,
-  "timestamp": "2026-04-12T16:10:15",
+  "timestamp": "2026-06-13T20:04:01",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Varanasi",
-      "path": "asia/india/uttarpradesh/varanasi",
-      "prior_rank": 902,
-      "prior_wins": 60,
+      "title": "George Town",
+      "path": "northamerica/thecaribbean/caymanislands/grandcayman/george_town",
+      "prior_score": 8.1586,
+      "prior_variance": 0.430113,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Montego Bay",
-      "path": "northamerica/jamaica/montegobay",
-      "prior_rank": 362,
-      "prior_wins": 67,
-      "prior_n": 4
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 4.5596,
+      "prior_variance": 0.707295,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Cebu",
-      "path": "asia/philippines/cebu",
-      "prior_rank": 1114,
-      "prior_wins": 58,
+      "title": "Watamu",
+      "path": "africa/kenya/thecoast/watamu",
+      "prior_score": 1.9885,
+      "prior_variance": 0.490887,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Kos",
-      "path": "europe/greece/kos",
-      "prior_rank": 859,
-      "prior_wins": 80,
-      "prior_n": 4
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.0207,
+      "prior_variance": 0.895465,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Bristol",
-      "path": "europe/unitedkingdom/england/bristol",
-      "prior_rank": 537,
-      "prior_wins": 63,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 2.4583,
+      "prior_variance": 0.609481,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Rainbow Beach",
-      "path": "australiaandpacific/australia/queensland/rainbow_beach",
-      "prior_rank": 2648,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": -0.1521,
+      "prior_variance": 0.487036,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Urbino",
-      "path": "europe/italy/marche/urbino",
-      "prior_rank": 1220,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -1.5,
+      "prior_variance": 0.44721,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Moray",
-      "path": "southamerica/peru/moray",
-      "prior_rank": 2441,
-      "prior_wins": 47,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 1.8387,
+      "prior_variance": 0.461174,
       "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Norwich",
-      "path": "europe/unitedkingdom/norfolk/norwich",
-      "prior_rank": 4290,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": 0.3439,
+      "prior_variance": 0.609743,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Ribe",
-      "path": "europe/denmark/ribe",
-      "prior_rank": 4277,
-      "prior_wins": 11,
-      "prior_n": 1
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 2.0185,
+      "prior_variance": 0.42435,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Mont Choisi",
-      "path": "africa/mauritius/montchoisi",
-      "prior_rank": 2756,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -3.021,
+      "prior_variance": 0.436348,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Tabarka",
-      "path": "africa/tunisia/tabarka",
-      "prior_rank": 1956,
-      "prior_wins": 34,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -0.011,
+      "prior_variance": 0.617621,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Dordrecht",
-      "path": "europe/netherlands/dordrecht",
-      "prior_rank": 3222,
-      "prior_wins": 96,
-      "prior_n": 7
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": 0.2174,
+      "prior_variance": 0.493542,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Ajmer",
-      "path": "asia/india/rajasthan/ajmer",
-      "prior_rank": 2956,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": 0.3685,
+      "prior_variance": 0.487108,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Sumbawa",
-      "path": "asia/indonesia/sumbawa",
-      "prior_rank": 3775,
-      "prior_wins": 73,
-      "prior_n": 6
+      "title": "Chishui",
+      "path": "asia/china/guizhou/chishui",
+      "prior_score": -2.2992,
+      "prior_variance": 0.526629,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "My homepage",
-      "path": "europe/france/val_disere/my_homepage_2",
-      "prior_rank": 8195,
-      "prior_wins": 1,
-      "prior_n": 2
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": -1.1697,
+      "prior_variance": 0.608438,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Schonwald im Schwarzwald",
-      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
-      "prior_rank": 2514,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": 0.1284,
+      "prior_variance": 0.496274,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Campina Grande",
-      "path": "southamerica/brazil/campinagrande",
-      "prior_rank": 6459,
-      "prior_wins": 16,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.4341,
+      "prior_variance": 0.526382,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Chalkis",
-      "path": "europe/greece/chalkis",
-      "prior_rank": 6131,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -1.1638,
+      "prior_variance": 0.478954,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Grand erg",
-      "path": "africa/algeria/granderg",
-      "prior_rank": 6621,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": 0.8591,
+      "prior_variance": 0.527334,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Moron",
-      "path": "asia/mongolia/moron",
-      "prior_rank": 6866,
-      "prior_wins": 13,
-      "prior_n": 4
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -1.4513,
+      "prior_variance": 0.455769,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Vialar",
-      "path": "africa/algeria/vialar",
-      "prior_rank": 7516,
-      "prior_wins": 5,
-      "prior_n": 2
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -0.0726,
+      "prior_variance": 0.462194,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Shusha",
-      "path": "europe/azerbaijan/nagornokarabakh/shusha",
-      "prior_rank": 147,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -6.8155,
+      "prior_variance": 0.632867,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Wour",
-      "path": "africa/chad/wour",
-      "prior_rank": 8205,
-      "prior_wins": 3,
-      "prior_n": 8
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -1.3747,
+      "prior_variance": 0.600624,
+      "prior_n": 2
     }
   ]
 }

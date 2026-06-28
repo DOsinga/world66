@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-05-23'
+image: kragero.jpg
+image_attribution: Ståle Kristoffersen
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Krager%C3%B801.jpg
 latitude: 58.869622
-longitude: 9.414214
-score: 0.54
-title: Kragero
-type: location
 loc_type: city
+longitude: 9.414214
+score: 7.73
+snippet: Southern Norwegian coastal town where white wooden houses overlook an island-filled
+  harbour.
 sources:
 - https://en.wikipedia.org/wiki/Krager%C3%B8_(town)
-image: kragero.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Krager%C3%B801.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Ståle Kristoffersen
+title: Kragero
+type: location
 ---
 
 Kragerø is a small coastal town on Norway's southern shore, tucked into a maze of islands, skerries, and sheltered inlets. Edvard Munch called it "the pearl of the coastal towns," and in summer it is easy to see why — white wooden houses climb the hillsides above a harbour full of boats, and the surrounding [archipelago](/europe/norway/kragero/kragero_archipelago) offers some of the warmest swimming water in Norway.

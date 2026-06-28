@@ -15,6 +15,7 @@ story: >
   thought. The "Owl Rhapsody," written after an owl (a death omen) flew into
   his room, meditates on fate and mortality with an urgency that still comes
   through in translation. He died at 33, still in political exile.
+score: 7.1
 ---
 
 The Former Residence of Jia Yi preserves the site of the house where the Han dynasty scholar and statesman Jia Yi lived during his political exile in Changsha in the 170s BC. The Qing-dynasty building that stands on the site today is a reconstruction rather than Jia Yi's actual dwelling — his residence was approximately two thousand years earlier — but the courtyard compound has been sensitively furnished as a memorial to one of the Han dynasty's most influential and tragic intellectual figures.

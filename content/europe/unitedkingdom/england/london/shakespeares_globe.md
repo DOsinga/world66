@@ -1,20 +1,29 @@
 ---
-title: Shakespeare's Globe
-type: poi
-snippet: An open-air reconstruction of the 1599 theatre where most of Shakespeare's plays were first performed
-tags:
-  - things_to_do
-  - sight
-  - theatre
-  - architecture
-  - south_bank
-neighbourhood: South Bank
+address: 21 New Globe Walk, London SE1 9DT
 latitude: 51.5081
 longitude: -0.0972
-address: 21 New Globe Walk, London SE1 9DT
+score: 8.9
+snippet: An open-air reconstruction of the 1599 theatre where most of Shakespeare's
+  plays were first performed
+story: 'The reconstruction is the work of one stubborn American actor — Sam Wanamaker
+  — who first visited the original Globe site in 1949 expecting to find a memorial
+  and instead found nothing more than a small plaque on a brewery wall. He spent the
+  next 44 years raising money, lobbying, and chivvying authorities into the project.
+  The new Globe opened in 1997, four years after Wanamaker''s death. The original
+  theatre, also called the Globe, was 230 metres from the current site; the new building
+  had to move because the original ground is now under a listed terrace of Georgian
+  houses.
+
+  '
+tags:
+- things_to_do
+- sight
+- theatre
+- architecture
+- south_bank
+title: Shakespeare's Globe
+type: poi
 url: www.shakespearesglobe.com
-story: >
-  The reconstruction is the work of one stubborn American actor — Sam Wanamaker — who first visited the original Globe site in 1949 expecting to find a memorial and instead found nothing more than a small plaque on a brewery wall. He spent the next 44 years raising money, lobbying, and chivvying authorities into the project. The new Globe opened in 1997, four years after Wanamaker's death. The original theatre, also called the Globe, was 230 metres from the current site; the new building had to move because the original ground is now under a listed terrace of Georgian houses.
 ---
 
 A meticulous reconstruction of the open-air playhouse that Shakespeare's company opened in 1599 — thatched roof, plaster-and-timber walls, raised stage, and a circular standing yard for the "groundlings". The original burned down in 1613 when a stage cannon set the thatch alight during Henry VIII; this 1997 rebuild was the first thatched building permitted in the City of London since the Great Fire of 1666.

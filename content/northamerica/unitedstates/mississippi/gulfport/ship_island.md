@@ -1,8 +1,20 @@
 ---
+latitude: 30.2128
+longitude: -88.9723
+score: 8.8
+story: Ship Island was actually two islands for much of the 20th century — Hurricane
+  Camille split it in 2 in 1969, creating East Ship and West Ship. The two pieces
+  gradually drifted apart, then Hurricane Katrina reconnected them in 2005, depositing
+  so much sand between the halves that the island became whole again. Fort Massachusetts
+  survived both storms largely intact, which says something about 19th-century military
+  construction.
+tags:
+- things_to_do
+- sight
+- beach
+- hiking
 title: Ship Island
 type: poi
-tags: [things_to_do, sight, beach, hiking]
-story: Ship Island was actually two islands for much of the 20th century — Hurricane Camille split it in 2 in 1969, creating East Ship and West Ship. The two pieces gradually drifted apart, then Hurricane Katrina reconnected them in 2005, depositing so much sand between the halves that the island became whole again. Fort Massachusetts survived both storms largely intact, which says something about 19th-century military construction.
 ---
 
 Ship Island is a barrier island about 12 miles offshore from Gulfport, accessible by passenger ferry from the Gulfport Small Craft Harbor. It is part of the Gulf Islands National Seashore and offers some of the best undeveloped beach on the Gulf Coast: white sand, clear green water, and a long stretch of shoreline with no development behind it. The contrast with the built-up coast of Gulfport and Biloxi is immediate and striking.

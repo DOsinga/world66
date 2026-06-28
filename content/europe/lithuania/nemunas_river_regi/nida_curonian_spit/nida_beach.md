@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 55.3050
 longitude: 20.9692
+score: 7.5
 ---
 
 The Nida beach faces the open Baltic on the western side of the spit, a fifteen-minute walk through the pine forest from the village. The sand is fine, white, and almost limitless — the beach runs unbroken for tens of kilometres in either direction. The water is cold even in August (around 18–20°C at best), but the swimming is fine on calm days.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Chile_by
 latitude: -50.9423
 loc_type: city
 longitude: -73.4068
-score: 0.73
+score: 9.44
+snippet: Patagonian national park of granite towers, turquoise lakes, wind-bent steppe,
+  and multi-day treks.
 title: Torres del Paine
 type: location
 ---

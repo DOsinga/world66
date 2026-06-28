@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nkhata_Bay,_Malawi.jpg
 latitude: -11.6047
 loc_type: city
 longitude: 34.2972
+score: 7.33
+snippet: Lake Malawi port town of forested coves, clear water, and long-standing backpacker
+  guesthouses.
 sources:
 - https://en.wikipedia.org/wiki/Nkhata_Bay
 title: Nkhata Bay

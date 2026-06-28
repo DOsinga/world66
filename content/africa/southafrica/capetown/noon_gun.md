@@ -1,8 +1,7 @@
 ---
-category: Curiosity
 latitude: -33.9183
 longitude: 18.4033
-neighbourhood: Bo-Kaap
+score: 7.1
 snippet: Cannon fired daily at midday from Signal Hill since 1806
 story: 'The Noon Gun is the oldest continuously running daily time signal in the world.
   Its origins are practical: Cape Town''s harbour was full of ships whose chronometers
@@ -14,7 +13,7 @@ tags:
 - things_to_do
 - sight
 - history
-- bo_kaap
+- bokaap
 title: Noon Gun
 type: poi
 ---

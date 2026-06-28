@@ -10,6 +10,7 @@ tags:
 - neighbourhood
 title: Canal Grande
 type: poi
+score: 8.1
 ---
 
 The Canal Grande cuts into the heart of the Borgo Teresiano district, running inland from the harbour for about 200 metres and flanked by neoclassical palaces built during the 18th and 19th centuries. It is nothing like Venice's canals in scale or drama, but it is a genuinely attractive urban space — the water reflecting the facades, a row of boats moored at the Ponterosso end, and the Church of Sant'Antonio Taumaturgo closing the vista at the far end.

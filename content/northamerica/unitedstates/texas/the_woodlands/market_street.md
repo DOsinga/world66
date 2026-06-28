@@ -8,6 +8,7 @@ tags:
 latitude: 30.1807
 longitude: -95.5018
 story: "Market Street was designed to feel like a traditional main street, with open-air storefronts and regular events. It works reasonably well — the layout encourages walking in a way that most Texas commercial strips don't."
+score: 5.9
 ---
 
 An open-air shopping and dining district in the northern part of The Woodlands, designed to mimic a traditional town center with pedestrian-friendly streets and a mix of independent and chain retailers. It's pleasant by Texas suburban standards: walkable, shaded in spots, with outdoor seating at many restaurants.

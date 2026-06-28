@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 36.6193
 longitude: -4.5087
+score: 6.5
 ---
 
 El Roqueo is one of the most reliably good seafood restaurants in La Carihuela, the old fishermen's quarter. It has been operating for decades, and the menu concentrates on the fried fish and grilled shellfish that the area is known for — gamba blanca (local white prawn), dorada a la sal (sea bream baked in salt), and fritura malagueña (the mixed fried fish that is the signature dish of the Costa del Sol).

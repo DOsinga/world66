@@ -6,6 +6,7 @@ longitude: 14.5760
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Riva — the harbour-front promenade — runs along the southern edge of the old town between the small marina and the public beach. Fishing boats and a few yachts tie up here, the cafes start at the cathedral end and run for a few hundred metres, and the view stretches across the bay to the mainland mountains.

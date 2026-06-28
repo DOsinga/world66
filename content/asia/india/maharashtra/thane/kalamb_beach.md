@@ -7,6 +7,7 @@ tags:
 - beach
 title: Kalamb Beach
 type: poi
+score: 5.3
 ---
 
 A quiet, relatively uncrowded stretch of coast near Nallasopara. The beach itself is nothing spectacular, but it sees far fewer visitors than Mumbai's famous beaches and has a genuinely peaceful atmosphere. The shack Sheetal Samudra is a local favourite — hammocks, sea views, and a relaxed pace. The nearby Matoshree Chinese Centre is known for its soup.

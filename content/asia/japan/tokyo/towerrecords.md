@@ -10,6 +10,7 @@ longitude: 139.69825
 tags:
 - shibuya
 - things_to_do
+score: 7.5
 ---
 
 While Tower Records closed everywhere else in the world, in Japan it thrived. The Shibuya flagship store is the largest music shop in the country, spread across nine floors in a building just off the main scramble crossing. The selection is enormous — J-pop, indie, classical, jazz, a deep vinyl section, and an entire floor of K-pop that draws fans from across Asia.

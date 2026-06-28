@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -31.3890
 longitude: -57.9600
+score: 6.8
 ---
 
 Plaza Artigas is the civic heart of Salto, a shaded square lined with palm trees and benches where the cathedral, municipal buildings and the Larrañaga Theatre all face each other. The statue of General José Gervasio Artigas at the centre is standard for Uruguayan plazas, but the square itself has more life than most — old men playing cards, students on lunch breaks, and the general traffic of city life flowing through.

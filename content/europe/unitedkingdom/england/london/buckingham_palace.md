@@ -1,19 +1,28 @@
 ---
-title: Buckingham Palace
-type: poi
-snippet: The monarch's London residence, with the Changing of the Guard out front and a brief summer opening of the State Rooms
-tags:
-  - things_to_do
-  - sight
-  - palace
-  - historic_site
-latitude: 51.5014
-longitude: -0.1419
 address: London SW1A 1AA
 admission: Free to view exterior; State Rooms ticketed (open July to September)
+latitude: 51.5014
+longitude: -0.1419
+score: 7.4
+snippet: The monarch's London residence, with the Changing of the Guard out front
+  and a brief summer opening of the State Rooms
+story: 'The flag flying above the palace tells you whether the monarch is home — the
+  Royal Standard if they are in residence, the Union flag if they are not. Queen Victoria
+  was the first monarch to actually live in the building, moving in three weeks after
+  her accession in 1837. Until then, kings and queens had used St James''s Palace,
+  which is technically still the official sovereign''s residence — which is why foreign
+  ambassadors are still appointed to "the Court of St James''s".
+
+  '
+tags:
+- things_to_do
+- sight
+- palace
+- historic_site
+- westminster
+title: Buckingham Palace
+type: poi
 url: www.rct.uk
-story: >
-  The flag flying above the palace tells you whether the monarch is home — the Royal Standard if they are in residence, the Union flag if they are not. Queen Victoria was the first monarch to actually live in the building, moving in three weeks after her accession in 1837. Until then, kings and queens had used St James's Palace, which is technically still the official sovereign's residence — which is why foreign ambassadors are still appointed to "the Court of St James's".
 ---
 
 The London home of the British monarch is more impressive from the front, viewed across the gold-tipped fences and the Victoria Memorial roundabout, than at close quarters — Buckingham Palace's facade was redesigned in plain Portland stone in 1913 and is deliberately reserved. The Royal Standard above the building tells you when the monarch is in residence.

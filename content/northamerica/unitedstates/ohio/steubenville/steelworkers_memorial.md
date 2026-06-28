@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.3585
 longitude: -80.6180
+score: 6.2
 ---
 
 A larger-than-life bronze statue of a steelworker — hard hat, gloves, the tools of the trade — stands watch over the site of what was once one of the most productive steel-making stretches in America. Steubenville and the surrounding Ohio Valley were major steel producers from the late 19th century until the industry's collapse in the 1970s and 80s, when the mills closed and tens of thousands of jobs disappeared within a decade.

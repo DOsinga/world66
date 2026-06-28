@@ -7,6 +7,7 @@ tags:
 latitude: 15.8354
 longitude: -87.9437
 snippet: "The town's central plaza, ringed by the church and municipal buildings"
+score: 6.2
 ---
 
 The Parque Central is the practical centre of Puerto Cortés — a tree-shaded square where the church, the municipal palace and the busiest stretch of restaurants and shops face one another across patches of well-kept grass. Locals gather on the benches in the late afternoon when the heat eases, shoe shiners work the corners, and street vendors sell fresh coconut water and tajadas.

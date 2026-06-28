@@ -8,6 +8,7 @@ tags:
   - sight
   - music_venue
   - downtown
+score: 7.1
 ---
 
 The 6,800-seat outdoor amphitheatre on the Cumberland riverbank south of Broadway opened in 2015. The fixed seating slopes down to a steel-and-fabric canopied stage that frames the city skyline behind it — one of the most attractive concert venues in the city, and one of the very few major outdoor stages within walking distance of downtown.

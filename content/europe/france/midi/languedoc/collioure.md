@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:150607-Collioure-01.jpg
 latitude: 42.52648054826969
 loc_type: city
 longitude: 3.0848461
+score: 8.71
+snippet: Catalan fishing town on the Côte Vermeille, closely associated with Matisse,
+  Derain, and Fauvism.
 sources:
 - https://en.wikipedia.org/wiki/Collioure
 - https://en.wikivoyage.org/wiki/Collioure

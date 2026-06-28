@@ -7,6 +7,7 @@ tags:
 latitude: 6.8092
 longitude: -58.1521
 snippet: "Sprawling produce market east of central Georgetown"
+score: 8.3
 ---
 
 If Stabroek is the photogenic market, Bourda is the working one. The fresh produce market spreads out along Regent Street and Orange Walk, with stalls selling fruit, vegetables, fish, meat, spices, and everything a Georgetown household actually buys. The variety of tropical produce is the draw — soursop, custard apples, dragon fruit, half a dozen varieties of mango, and the chillies that make Guyanese cooking what it is.

@@ -6,11 +6,13 @@ latitude: 41.4145
 longitude: 2.1527
 opening_hours: 'Daily: 10:00–14:00 and 16:00–19:00'
 phone: 93 219 3811
+score: 6.8
 snippet: Gaudí's own home inside Park Güell, now a museum
 tags:
 - things_to_do
 - museum
 - sight
+- gracia
 title: Gaudí Museum
 type: poi
 ---

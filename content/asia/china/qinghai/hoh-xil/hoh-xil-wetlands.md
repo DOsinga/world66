@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 35.4000
 longitude: 91.8000
+score: 8.4
 ---
 
 Hoh Xil contains over 100 lakes of various sizes, many of them unnamed, formed in depressions across the plateau by glacial melt and permafrost dynamics. The lakes range from small, shallow seasonal ponds to the considerable Hoh Xil Lake itself — a brackish body of several hundred square kilometres in the plateau's interior. The lake district is largely inaccessible to the public and requires special permits, but parts of the wetland system are visible from the highway and the reserve station area.

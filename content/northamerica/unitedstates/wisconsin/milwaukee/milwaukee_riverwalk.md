@@ -8,6 +8,7 @@ latitude: 43.0405
 longitude: -87.9111
 sources:
   - https://en.wikipedia.org/wiki/Milwaukee_Riverwalk
+score: 6.9
 ---
 
 The Milwaukee Riverwalk is a continuous pedestrian and cycling path following both banks of the Milwaukee River through the heart of downtown. Developed from the late 1980s onward, it now runs for more than 3 miles through the city and is the best way to get a feel for Milwaukee on foot. The path passes through the Third Ward — Milwaukee's most design-conscious neighbourhood, with galleries, restaurants and converted warehouses — and along the bars and restaurants of Water Street before heading north into the residential Riverwest district.

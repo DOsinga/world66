@@ -5,10 +5,12 @@ done:
 latitude: 41.8945
 longitude: 12.5004
 phone: +39 06 4874415
+score: 6.3
 snippet: Middle Eastern and Asian art away from the Renaissance crowds
 tags:
 - things_to_do
 - museum
+- monti
 title: National Museum of Eastern Art
 type: poi
 ---

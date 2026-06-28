@@ -14,6 +14,7 @@ story: >
   converted to Christianity and were executed in 297 AD. The Ehden church
   is one of the oldest places of continuous Christian worship in Lebanon,
   with foundations that archaeologists date to the late Byzantine period.
+score: 7.8
 ---
 
 The Church of Mar Sarkis and Bakhos is the most important historic building in Ehden, and one of the most significant Maronite sites in northern Lebanon. The present structure incorporates very old stonework — parts of the building date back to the Byzantine era — though it has been rebuilt and expanded several times over the centuries. The church sits at the heart of the old village on a terrace overlooking the valley.

@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 25.206505
 longitude: 55.243892
+score: 3.6
 snippet: Small zoo with Arabian wolves and Socotra cormorants
 tags:
 - things_to_do
+- jumeirah
 title: The Dubai Zoo
 type: poi
 ---

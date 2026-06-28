@@ -7,6 +7,7 @@ tags:
 latitude: 6.81091
 longitude: -58.14586
 snippet: "Small museum on the African contribution to Guyanese culture"
+score: 7.4
 ---
 
 A small but worthwhile museum dedicated to the history and culture of Guyanese of African descent — slavery, emancipation, religion, music, and the role of the African-Guyanese in shaping modern Guyana. The collection includes traditional masks, drums, textiles, and documents from the post-emancipation village movement when freed slaves pooled resources to buy entire plantations.

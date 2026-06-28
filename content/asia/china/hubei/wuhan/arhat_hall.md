@@ -9,6 +9,7 @@ tags:
 - sight
 title: Arhat Hall
 type: poi
+score: 8.6
 ---
 
 The Arhat Hall sits within Guiyuan Temple, one of the great Chan Buddhist monasteries of central China. First built in 1850 during the reign of Emperor Daoguang, the hall follows a distinctive four-courtyard-square layout that sets it apart architecturally.

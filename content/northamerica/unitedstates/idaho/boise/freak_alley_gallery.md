@@ -8,6 +8,7 @@ latitude: 43.6163
 longitude: -116.2042
 story: >
   Freak Alley began in 2002 when a handful of local artists were given permission to paint the back walls of a block of buildings in the downtown core. It has since grown into the largest outdoor mural gallery in the Pacific Northwest, repainted entirely by different artists each summer so the work never grows stale.
+score: 6.7
 ---
 
 Tucked in the alley that runs between 9th and 8th Streets off Bannock, Freak Alley is one of the most dynamic public art spaces in the Mountain West. Every summer, the back walls of a full city block are repainted from scratch by invited muralists — local, regional, and national — creating a constantly shifting gallery that rewards multiple visits across different years.

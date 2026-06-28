@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: La Dolce Vita
 type: poi
+score: 4.8
 ---
 
 A cosy Italian restaurant close to the railway station, with a reliably good menu of pizza and pasta. The tagliatelle is the thing to order. Prices are reasonable and the atmosphere is relaxed — a good option after arriving by train or before catching one.

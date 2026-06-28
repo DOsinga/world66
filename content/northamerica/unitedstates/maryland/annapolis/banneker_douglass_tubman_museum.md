@@ -8,6 +8,7 @@ tags:
 - history
 title: Banneker-Douglass-Tubman Museum
 type: poi
+score: 7.5
 ---
 
 Maryland's official African American history museum occupies the former Mount Moriah African Methodist Episcopal Church, built by free Black congregants in 1875. The collection covers Maryland figures including astronomer and surveyor Benjamin Banneker, abolitionist Frederick Douglass, and Underground Railroad conductor Harriet Tubman — all three with deep Maryland roots — alongside rotating exhibitions on the wider African American experience.

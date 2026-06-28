@@ -9,6 +9,7 @@ latitude: 38.363866
 longitude: -0.438928
 story: >
   Lucentum was mentioned by the Roman geographer Strabo in the first century BCE, and recent excavations have confirmed occupation going back to the Iberian period, centuries before Roman conquest. The name — meaning "city of light" — may be the origin of modern Alicante, though the etymological link is disputed.
+score: 7.3
 ---
 
 Lucentum is the Roman predecessor to modern Alicante, a well-excavated site on a hill called Tossal de Manises about four kilometres from the city centre. The ruins include streets, forum foundations, house floors with mosaic remnants, and sections of the defensive wall. The site is small enough to explore in an hour and well-labelled in Spanish and English.

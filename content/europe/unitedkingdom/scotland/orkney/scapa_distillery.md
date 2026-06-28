@@ -7,6 +7,7 @@ tags:
 latitude: 58.9636
 longitude: -2.9850
 snippet: "Quieter single malt distillery overlooking Scapa Flow"
+score: 7.5
 ---
 
 The smaller and less famous of Orkney's two distilleries, Scapa sits on the shore of Scapa Flow a couple of miles south of Kirkwall. The whisky is unpeated and lighter in style than Highland Park, with a soft maritime character that suits its setting. The distillery was mothballed for parts of the 1990s and 2000s but is now back in regular production.

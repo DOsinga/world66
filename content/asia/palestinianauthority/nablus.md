@@ -5,9 +5,11 @@ done:
 latitude: 32.2211
 loc_type: city
 longitude: 35.2544
-score: 0.25
+score: 5.86
 title: Nablus
 type: location
+snippet: Northern West Bank city between Mount Gerizim and Mount Ebal, known for its
+  old souq.
 ---
 
 Nablus is one of the most interesting cities in the northern West Bank, set in a valley between Mount Gerizim and Mount Ebal 63 kilometres north of [Jerusalem](/asia/israel/jerusalem). Founded in 72 AD by the Roman Emperor Titus as Flavia Neapolis, it remained under that name until the Arab conquest in 636 AD.

@@ -17,6 +17,7 @@ story: >
   and wine; Zwingli did not. The meeting ended without agreement, and
   Protestantism split into its Reformed and Lutheran branches — a division that
   survives to this day.
+score: 8.6
 ---
 
 The Landgraviate castle crowns the hill above Marburg, visible from almost anywhere in the old town and reached by a long climb up through the tightly packed lanes of the upper Altstadt. The complex dates mainly from the 13th to the 15th centuries, with a great hall that served as the seat of the Landgraves of Hesse for several generations.

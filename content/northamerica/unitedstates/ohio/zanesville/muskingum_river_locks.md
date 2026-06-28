@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: "Historic hand-operated canal locks on the Muskingum River"
 story: "Lock 10 on the Muskingum River is one of the last hand-operated canal locks in the United States still in active use. The Muskingum River Improvement, completed in 1841, was one of Ohio's major canal-era engineering projects, making the river navigable for 164 km from Zanesville to the Ohio River. While most of Ohio's canal system has long since been abandoned, the Muskingum locks were handed over to the state for recreational use and several remain operational."
+score: 7.5
 ---
 
 The Muskingum River Improvements, completed in 1841, were a significant piece of 19th-century civil engineering — a series of locks and dams that made the Muskingum River navigable for more than 160 km. Several of the original locks survive and remain operational, making them some of the oldest functioning navigation locks in the United States.

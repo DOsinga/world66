@@ -5,8 +5,14 @@ latitude: 45.0522
 loc_type: region
 longitude: 7.5155
 score: 0.7
+snippet: Alpine Italian region of Barolo hills, Turin arcades, and truffle-rich towns
+  below the mountains.
 title: Piemonte
 type: location
+image: piemonte.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Borromean_Islands_(Isole_Borromee,_Lago_Maggiore)_(6731216343).jpg
+image_license: CC BY 2.0
+image_attribution: Archangel12
 ---
 
 Piedmont is the region where Italy meets the Alps, a land of snow-capped mountains, rolling vineyard hills, and one of the country's most sophisticated cities. Tucked into the northwest corner of the peninsula, bordering France and Switzerland, it feels distinctly different from the Italy of popular imagination -- quieter, more refined, and seriously devoted to the pleasures of eating and drinking well.

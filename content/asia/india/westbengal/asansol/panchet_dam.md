@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.6694
 longitude: 86.7278
+score: 6.8
 ---
 
 Panchet is the other big Damodar Valley dam within striking distance of Asansol — about an hour to the west, on the main Damodar river. It is slightly larger than Maithon and the surroundings are more wooded, with Panchet Hill rising on the south side and a Shiva temple part way up.

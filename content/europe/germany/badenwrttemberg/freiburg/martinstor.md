@@ -8,6 +8,7 @@ snippet: "The older of Freiburg's two surviving medieval gate towers"
 latitude: 47.99371
 longitude: 7.84892
 story: "The upper levels of the tower bear a plaque memorialising the women burned as witches outside this gate in the sixteenth and seventeenth centuries. The gate itself was almost demolished in the late nineteenth century to make way for the tram, but locals saved it."
+score: 7.6
 ---
 
 The Martinstor stands at the southern end of Kaiser-Joseph-Strasse, the city's main shopping street, where trams now squeeze through its narrow arch. It is the older of Freiburg's two surviving city gates, first mentioned in 1238, and was raised to its current 60-metre height by the architect Carl Schäfer in 1900.

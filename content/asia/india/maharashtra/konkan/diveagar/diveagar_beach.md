@@ -8,6 +8,7 @@ tags:
 latitude: 18.1753
 longitude: 72.9843
 snippet: "Six-kilometre stretch of white sand backed by casuarina trees."
+score: 8.3
 ---
 
 Diveagar's beach is the reason almost everyone makes the drive from Mumbai or Pune. It runs for roughly six kilometres in a slow curve from a fishing settlement at the south end to a tidal creek at the north, where migratory gulls and waders gather in the cooler months. The sand is fine and pale, the slope into the water is gentle, and the rows of casuarina trees behind the beach throw enough shade to flop down for an afternoon.

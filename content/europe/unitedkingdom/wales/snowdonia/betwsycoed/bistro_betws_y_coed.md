@@ -8,6 +8,7 @@ longitude: -3.8015
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 A confident, traveller-friendly bistro on the main road through the village, with a menu that gives the local landscape — Welsh lamb, Conwy mussels, Snowdonia cheeses — a fair shake without descending into gimmickry. The room is warm and informal and bookings are wise at weekends.

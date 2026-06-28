@@ -6,6 +6,7 @@ longitude: 127.3544
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Tokashiku Beach on the island's west coast is the less-visited alternative to Aharen, accessible by road but with no village and no facilities. That's the point: Tokashiku is a long, quiet stretch of sand and reef with no shops, no crowds, and nothing to do but swim. The coral garden just offshore is in particularly good shape.

@@ -12,6 +12,7 @@ story: >
   Hardangervidda plateau, and connecting Oslo to Bergen in a single dramatic
   ride. The construction took 30 years and required some of the boldest
   engineering of the late 19th century, including over 180 tunnels.
+score: 7.2
 ---
 
 Geilo Station sits at the centre of the village and is one of the most pleasant stops on what is widely considered Europe's most scenic mainline rail journey. The station building is a low wooden structure in the standard Norwegian railway style, and several express trains a day in each direction connect Geilo to Oslo (about 3 1/2 hours) and Bergen (about 4 hours).

@@ -10,6 +10,7 @@ tags:
 snippet: The Plateau's beloved park with a pond, open-air theatre, and Sunday afternoon crowds
 sources:
   - https://en.wikipedia.org/wiki/La_Fontaine_Park
+score: 6.8
 ---
 
 Parc La Fontaine is the neighbourhood park of the Plateau-Mont-Royal — the place where locals go for their daily run, their Sunday picnic, and their summer evening. The park is about 36 hectares, centred on two ponds (one used for paddleboats in summer, ice skating in winter), with winding paths, a bandstand, and the Théâtre de Verdure, an open-air theatre that hosts free summer performances.

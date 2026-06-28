@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ilha_Grande,_Brazil_(17212
 latitude: -23.15
 loc_type: island
 longitude: -44.2333
+score: 8.96
+snippet: Car-free Atlantic Forest island on Brazil's Green Coast, known for trails
+  and beaches.
 sources:
 - https://en.wikipedia.org/wiki/Ilha_Grande
 - https://en.wikipedia.org/wiki/Ilha_Grande_State_Park

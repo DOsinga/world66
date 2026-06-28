@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-05'
+image: muskegon.jpg
+image_attribution: rossograph
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hackley_House.jpg
 latitude: 43.2342
 loc_type: city
 longitude: -86.2484
-score: 0.39
+score: 6.45
+snippet: Lake Michigan waterfront city with lumber-era history, Victorian homes, and
+  naval museum ships.
 title: Muskegon
 type: location
-image: muskegon.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Hackley_House.jpg
-image_license: CC BY-SA 3.0
-image_attribution: rossograph
 ---
 
 Muskegon is a waterfront city on the eastern shore of Lake Michigan, where the Muskegon River flows through Muskegon Lake before emptying into Lake Michigan through a wide channel. It was once called the "Lumber Queen of the World" — in 1887 alone, 47 sawmills surrounding Muskegon Lake cut 665 million board feet of timber — and the grand Victorian homes built during that era are still visible throughout the city.

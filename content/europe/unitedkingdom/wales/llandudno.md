@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-08'
   location_create: '2026-06-04'
 image: llandudno.jpg
 image_attribution: Photograph by Mike Peel (www.mikepeel.net).
@@ -10,15 +11,19 @@ loc_type: city
 longitude: -3.825
 sources:
 - https://en.wikipedia.org/wiki/Llandudno
-- https://en.wikivoyage.org/wiki/Llandudno
 title: Llandudno
 type: location
+score: 7.8
+snippet: Victorian seaside resort between two limestone headlands, laid out with rare
+  architectural discipline.
 ---
 
-Llandudno is the largest seaside resort in Wales, and one of the best-preserved Victorian holiday towns in Britain. It sits on the Creuddyn Peninsula, squeezed between two sweeping bays — the North Shore faces the Irish Sea with its elegant promenade and the famous Victorian pier, while the West Shore looks across the Conwy Estuary to the mountains of Snowdonia. The town was planned from scratch in the 1850s by the Mostyn family, who owned the land, and the result is a coherent grid of wide streets, ornate hotels, and seafront arcades that gives Llandudno a grandeur unusual for a Welsh resort.
+Llandudno is the most complete Victorian seaside resort in Britain. It was laid out from scratch in the 1850s on what had been a tract of sand and dune between two limestone headlands — the Great Orme and the Little Orme — and the original developers, the Mostyn family, were strict about keeping the new town orderly. The main streets follow a tight grid, the buildings are uniformly three and four storeys high, the seafront promenade is unbroken from one headland to the other, and there are almost no modern intrusions to spoil the effect. Walking the [North Shore](/europe/unitedkingdom/wales/llandudno/north_shore_promenade) on a clear evening is to step into a perfectly preserved 1880s holiday postcard.
 
-The dominant feature of the town is the [Great Orme](/europe/unitedkingdom/wales/llandudno/great_orme) — a massive limestone headland that rises 207 metres above the North Shore. Getting up it by the [Great Orme Tramway](/europe/unitedkingdom/wales/llandudno/great_orme_tramway), one of the last cable-hauled street tramways in the world, is half the fun. Up top, Bronze Age copper mines honeycomb the headland — they are among the largest prehistoric mines ever found, and the [Bronze Age Copper Mines](/europe/unitedkingdom/wales/llandudno/bronze_age_copper_mines) tour takes visitors through tunnels dug four thousand years ago. The views from the summit on a clear day extend to Ireland, the Isle of Man, and the mountains of Snowdonia all at once.
+The grand sweep of Llandudno Bay is its heart. The two-mile promenade runs along a single curve of beach, with the [Llandudno Pier](/europe/unitedkingdom/wales/llandudno/llandudno_pier) — a Grade II* listed Victorian survival, fully open with shops and ice-cream concessions — projecting from its northern end. The [Mostyn](/europe/unitedkingdom/wales/llandudno/mostyn_gallery) on Vaughan Street is one of the most interesting contemporary art galleries in Wales, with a serious international exhibition programme behind a striking modern facade. The tidy 1902 [Town Hall](/europe/unitedkingdom/wales/llandudno/town_hall) and the curved Victorian shopping streets between Mostyn Street and the seafront are worth wandering.
 
-Down in town, [Llandudno Pier](/europe/unitedkingdom/wales/llandudno/llandudno_pier) is a Grade II* listed structure stretching 700 metres out to sea — one of the longest piers in Wales. The [Mostyn gallery](/europe/unitedkingdom/wales/llandudno/mostyn) is the other cultural draw: an excellent contemporary art space in a handsome building on Vaughan Street. Llandudno also has a surprisingly strong Alice in Wonderland connection — the real Alice Liddell, the girl who inspired Lewis Carroll's stories, spent childhood holidays here, and there is a trail around town tracing the Wonderland characters.
+The [Great Orme](/europe/unitedkingdom/wales/llandudno/great_orme) is the dominant feature, a limestone headland rising 207 metres straight out of the sea at the northern end of the town. You can reach the summit by the [Great Orme Tramway](/europe/unitedkingdom/wales/llandudno/great_orme_tramway) (Britain's only cable-hauled street tramway, in operation since 1902), by the [Llandudno Cable Car](/europe/unitedkingdom/wales/llandudno/cable_car) (the longest passenger cable car in Britain), by car along the Marine Drive toll road, or on foot. At the top are the [Great Orme Mines](/europe/unitedkingdom/wales/llandudno/great_orme_mines), an extraordinary Bronze Age copper-working complex you can walk through, and a herd of feral Kashmir goats descended from a Victorian gift to Queen Victoria.
 
-The town is a comfortable base for the whole of North Wales. [Conwy Castle](/europe/unitedkingdom/wales/conwy) is fifteen minutes away by road, and the mountains of Snowdonia are within easy reach. The North Wales coast railway line links Llandudno to Chester and beyond. For the Welsh-speaking heartlands of Gwynedd, [Caernarfon](/europe/unitedkingdom/wales/caernarfon) and [Bangor](/europe/unitedkingdom/wales/bangor_wales) are under an hour to the west.
+Beyond the obvious headline sights, Llandudno is a comfortable base for [Conwy](/europe/unitedkingdom/wales/conwy) (10 minutes by train), [Snowdonia](/europe/unitedkingdom/wales/snowdonia) (Betws-y-Coed is 40 minutes by car), [Bodnant Garden](/europe/unitedkingdom/wales/llandudno/bodnant_garden), and the smaller seaside resorts along the coast east to [Colwyn Bay](/europe/unitedkingdom/wales/colwyn_bay). The town is well-served by hotels and guesthouses, has a healthy restaurant scene by Welsh seaside standards, and is on the main coast railway line for easy access from Chester, Manchester and beyond.
+
+*Europe > United Kingdom > Wales > Llandudno*

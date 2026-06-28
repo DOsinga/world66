@@ -7,6 +7,7 @@ tags:
 latitude: 45.0712
 longitude: 7.6853
 story: "Mulassano invented the tramezzino — the soft white-bread triangle that has filled Italian station cafes ever since — in 1925. The owners' wife Angela was Italian-American and missed the sandwich bread of New York; the bakery next door agreed to bake her a softer loaf, and the staff put it on the menu."
+score: 7.4
 ---
 
 A tiny gilded room on Piazza Castello, twenty square metres of marble and mahogany under a coffered Art Nouveau ceiling. Most customers stand at the bar for an espresso; the cafe is most famous for its tramezzini, the small white-bread triangles invented here in 1925.

@@ -8,6 +8,7 @@ tags:
   - sport
 title: Siam Park
 type: poi
+score: 8.4
 ---
 
 Siam Park is the south coast's blockbuster water park, built on a Thai theme with slides, wave pools, lazy rivers, and a level of polish that explains why so many families plan a whole day around it. It is technically in Costa Adeje, but from Las Américas it is close enough to count as local.

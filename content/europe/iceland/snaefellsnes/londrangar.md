@@ -16,6 +16,7 @@ story: >
   metres of scrambling before becoming a technical climbing objective.
 sources:
   - https://en.wikipedia.org/wiki/L%C3%B3ndrangar
+score: 8.2
 ---
 
 Lóndrangar are a pair of striking basalt sea stacks rising from a platform of flat lava on the south coast of Snæfellsnes, west of the Hellnar area. The two dark pinnacles — one 61 metres, one 52 metres — are the most dramatic coastal formations on the peninsula, rising sharply from the wave-cut platform with vertical walls that drop directly to the sea. Puffins, fulmars, and ravens nest on the ledges.

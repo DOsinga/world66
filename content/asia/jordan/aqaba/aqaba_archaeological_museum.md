@@ -7,6 +7,7 @@ snippet: "Compact museum of Red Sea trade, next to the castle"
 tags:
 - things_to_do
 - museum
+score: 7.1
 ---
 
 A single-storey purpose-built museum tucked next to the Mamluk fortress, the Archaeological Museum tells the long story of Aqaba as a Red Sea port — from the Bronze Age site of Tell el-Kheleifeh (sometimes identified with Biblical Ezion-Geber) through the Nabataean and Roman commercial settlement of Aila, the early Islamic city of Ayla, and the medieval and Ottoman castle.

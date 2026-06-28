@@ -14,6 +14,7 @@ story: >
   Krasnodar supporting the local team, and his founding of FC Krasnodar and construction
   of its ground is one of the more unusual examples in European football of a club built
   from scratch by a single benefactor in their hometown.
+score: 6.8
 ---
 
 The Krasnodar Stadium is one of the most architecturally impressive football grounds in Russia — a 35,000-seat arena with a distinctive bowl shape, a natural grass pitch lit by a retractable roof system, and standards of finish that compare favourably with top European venues. It opened in 2016 as the home of FC Krasnodar, a club founded by the same billionaire in 2008.

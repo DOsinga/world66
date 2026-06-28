@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.4
 ---
 
 The Orthodox Cathedral, finished in 1933 in a Brâncovenesc-Byzantine style, anchors Piața Avram Iancu opposite the Romanian Opera. The vast central dome and four corner towers were designed to assert the new Romanian presence in Cluj after the 1918 unification.

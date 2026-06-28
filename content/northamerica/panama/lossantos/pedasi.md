@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.5313
 longitude: -80.0219
+score: 7.5
 ---
 
 A small colonial town on the Pacific coast at the southern tip of the Azuero Peninsula, Pedasí is the most visited destination in Los Santos for independent travellers. It has a pretty main square, a church that dates from the colonial period, and good surf at nearby Playa Venao — which has a point break that works consistently from November through April.

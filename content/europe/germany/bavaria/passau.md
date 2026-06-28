@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Passau.jpg
 latitude: 48.574823
 loc_type: city
 longitude: 13.460974
-score: 0.62
+score: 8.61
+snippet: Bavarian river city where the Danube, Inn, and Ilz meet below a Baroque old
+  town
 title: Passau
 type: location
 ---

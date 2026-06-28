@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Baroque main square of the old town, dominated by the cathedral"
+score: 7.6
 ---
 
 The Piazza della Repubblica is the heart of old Marsala — a small, harmonious square paved in pale stone and closed at the north end by the cathedral. On the west side stands the **Palazzo VII Aprile**, a 17th-century town hall whose name commemorates a riot of 1860 that helped pave the way for Garibaldi's landing.

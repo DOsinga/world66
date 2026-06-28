@@ -5,12 +5,14 @@ done:
 latitude: 36.447366
 loc_type: city
 longitude: -95.692735
-score: 0.31
+score: 5.69
 sources:
 - https://en.wikipedia.org/wiki/Oologah,_Oklahoma
 - https://www.travelok.com/Oologah
 title: Oologah
 type: location
+snippet: Small Oklahoma town tied to Will Rogers's birthplace, anchored by his restored
+  ranch.
 ---
 
 Oologah is a small town in northeast Oklahoma, best known as the birthplace of Will Rogers — humorist, actor, and one of the most beloved Americans of the early twentieth century. The [Will Rogers Birthplace Ranch](/northamerica/unitedstates/oklahoma/oolagah/will_rogers_birthplace_ranch) sits just west of town: a beautifully restored Greek Revival house, working longhorn ranch, and museum covering his life from Cherokee Nation cowboy to Hollywood star and newspaper columnist.

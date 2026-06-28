@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 11.4079
 longitude: -69.6763
+score: 8.3
 ---
 
 The Casa de Oración Hebrea — the Coro Synagogue — was built in 1869 by the Sephardic community that had settled the city a generation earlier. It is one of the oldest synagogues still standing in South America and the only colonial-era synagogue in Venezuela. The building is small and externally indistinguishable from the neighbouring houses on Calle Talavera — a feature of Sephardic synagogue design in a region where conspicuous Jewish identity was discouraged.

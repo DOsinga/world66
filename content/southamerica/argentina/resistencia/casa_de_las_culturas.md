@@ -8,6 +8,7 @@ tags:
 latitude: -27.4538
 longitude: -58.9866
 address: "Marcelo T. de Alvear 161, Resistencia"
+score: 7.0
 ---
 
 The Casa de las Culturas is the main provincial cultural centre, a couple of blocks south of Plaza 25 de Mayo. The building is a converted early-20th-century townhouse with a sequence of high-ceilinged exhibition rooms running off a central courtyard.

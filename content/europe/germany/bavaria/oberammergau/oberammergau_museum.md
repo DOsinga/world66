@@ -6,6 +6,7 @@ longitude: 11.0663
 tags:
   - things_to_do
   - museum
+score: 7.7
 ---
 
 The Oberammergau Museum on Dorfstrasse traces the village's two great traditions — woodcarving and the Passion Play — from the Gothic period to the present. The carving collection is the strongest part, with pieces from local workshops dating back to the 16th century, alongside one of the largest collections of nativity cribs in Germany.

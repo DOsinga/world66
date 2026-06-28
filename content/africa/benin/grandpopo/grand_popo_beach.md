@@ -7,6 +7,7 @@ tags:
 latitude: 6.276375
 longitude: 1.80672
 snippet: "Long Atlantic beach with powerful surf and almost nobody on it"
+score: 7.4
 ---
 
 Grand-Popo's beach is one of the finest stretches of coast in West Africa and one of the least visited. The Atlantic crashes in with real force here — the undertow is strong enough to make swimming dangerous, and locals will tell you so — but the atmosphere is wonderful: kilometres of coarse sand, coconut palms leaning over the water, and nothing built for tourism beyond a few small bars. Walk ten minutes in either direction from the town and you will likely have the beach to yourself.

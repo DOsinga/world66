@@ -8,6 +8,7 @@ tags:
   - sight
 story: "When Eleanor of Castile died in November 1290, her grief-stricken husband Edward I had her body taken in procession from Harby in Nottinghamshire to Westminster Abbey, and ordered an elaborate stone cross built at every overnight stopping place. Twelve were erected; only Waltham, Hardingstone and Geddington survive."
 snippet: "One of only three surviving 1290s Eleanor Crosses, marking the queen's funeral procession"
+score: 8.0
 ---
 
 The Waltham Cross — actually the Waltham Eleanor Cross — is a tall, slender stone monument that stands in a small precinct at the centre of the town's high street. Built between 1291 and 1294 to mark the eighth overnight resting place of Queen Eleanor of Castile's funeral cortege on its way from Lincoln to Westminster, it is one of only three of the original twelve Eleanor Crosses to survive (Hardingstone and Geddington being the others).

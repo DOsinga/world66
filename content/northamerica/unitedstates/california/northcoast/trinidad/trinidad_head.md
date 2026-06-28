@@ -10,6 +10,7 @@ type: poi
 snippet: "Rocky promontory sheltering the harbour, with a trail to the summit and whale-watching views"
 story: >
   Trinidad Head was the northernmost point reached by the Portolá expedition in 1775, when Spanish naval officers claimed it for the Crown on Trinity Sunday — giving both the head and the town their name. A large cross was erected on the summit. The current cross visible on the headland is a 1913 replica of the original, placed there by local residents to mark the occasion. California Historical Landmark No. 146.
+score: 8.8
 ---
 
 Trinidad Head is the massive rocky promontory that shelters Trinidad Bay from the north, and the walk to its summit is the essential Trinidad activity. The trail begins at the harbour and climbs steeply through coastal scrub to the top, where a large cross marks the summit and a 360-degree panorama takes in the bay, the town, the sea stacks, and — in season — the backs of grey whales working the nearshore waters.

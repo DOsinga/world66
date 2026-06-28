@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.0225
 longitude: 28.8281
+score: 8.1
 ---
 
 The National History Museum occupies a Neoclassical 1970s building two blocks south of the central park. Its strength is the Bessarabian and Soviet-period material — banknotes, propaganda posters, partisan-era weapons, and a permanent exhibit on the famines of 1946–47, which the museum was one of the first institutions to openly document after independence.

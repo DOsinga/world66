@@ -10,6 +10,7 @@ latitude: 38.4022
 longitude: -96.5483
 sources:
   - https://en.wikipedia.org/wiki/Fox_Creek_Stone_Arch_Bridge
+score: 6.1
 ---
 
 The Fox Creek Stone Arch Bridge is a small but handsome piece of Flint Hills road history northwest of Strong City. Built from local stone, it fits the landscape in the way older rural infrastructure often does: practical first, beautiful almost by accident.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -3.4283
 longitude: 29.925
+score: 7.0
 ---
 
 Gitega's central market is the most active part of the town and gives the clearest picture of everyday life in Burundi's capital. The market sells vegetables, fruit, dry goods, textiles, and household items across a dense warren of stalls. The range of produce reflects Gitega's position in the fertile central highlands: sweet potatoes, cassava, plantains, and the highland beans that are a Burundian staple.

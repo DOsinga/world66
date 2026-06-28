@@ -6,6 +6,7 @@ longitude: 54.3652
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Khan Bazaar is the main covered market of Yazd, extending from the Jameh Mosque entrance through a series of vaulted corridors. The entrance portal near the mosque rivals the mosque itself in grandeur: glazed tiles and plaster stalactite vaulting frame the passage into the market interior. Inside, the bazaar is quieter and less touristy than the great covered markets of Isfahan or Shiraz.

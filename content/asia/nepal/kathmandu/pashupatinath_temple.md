@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 27.7102
 longitude: 85.3480
+score: 9.4
 ---
 
 The broader Pashupatinath temple complex — beyond the main pagoda that non-Hindus cannot enter — includes a long riverfront of subsidiary shrines, ashramas housing sadhus from across the subcontinent, and the Bagmati River ghats where cremations take place continuously throughout the day. The eastern bank of the river gives views across the water to the main temple and the cremation ghats; you can watch from here without intruding.

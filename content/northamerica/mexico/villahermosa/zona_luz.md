@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 17.9890
 longitude: -92.9281
+score: 6.5
 ---
 
 The Zona Luz is Villahermosa's pedestrianised historic centre, a compact area of streets along the Río Grijalva with restaurants, shops, the cathedral, and a pleasant riverside promenade. It's not as handsome as colonial centres in drier parts of Mexico — Tabasco's humidity has not been kind to 19th-century architecture — but it's lively and walkable, especially in the evenings when the river breeze makes the heat bearable.

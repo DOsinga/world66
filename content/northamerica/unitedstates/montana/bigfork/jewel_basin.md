@@ -8,6 +8,7 @@ tags:
 latitude: 48.1700
 longitude: -113.9700
 snippet: "Non-motorised wilderness area above Bigfork with 35 lakes and sweeping views of Flathead Lake"
+score: 8.5
 ---
 
 The Jewel Basin Hiking Area sits in the Swan Range above Bigfork, about 15 miles from the village by road, and it is one of the best hiking destinations in northwest Montana. The area contains 35 named lakes strung through a high-country basin between 4,500 and 7,600 feet of elevation, with trails that range from short walks to lake-hopping multi-day routes.

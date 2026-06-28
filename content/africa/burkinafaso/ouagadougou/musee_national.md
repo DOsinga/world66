@@ -6,6 +6,7 @@ longitude: -1.4940
 tags:
   - things_to_do
   - museum
+score: 8.2
 ---
 
 The national museum sits on a large open campus on the eastern side of the city, with several pavilions arranged around a central courtyard. The collections are arranged by ethnic group — Mossi, Bobo, Lobi, Gourmantché, Bissa, Peul — with masks, fetishes, textiles, agricultural tools and pottery from each.

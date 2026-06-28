@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wroclaw-_Most_Grunwaldzki.
 latitude: 51.109
 loc_type: city
 longitude: 17.0327
-score: 0.6
+score: 8.74
+snippet: Lower Silesian city of Odra islands, bridges, Gothic churches, and a large
+  market square.
 title: Wroclaw
 type: location
 ---

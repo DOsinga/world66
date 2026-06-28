@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Roque-Gageac_-_01.jpg
 latitude: 44.825544
 loc_type: city
 longitude: 1.183499
-score: 0.64
+score: 8.7
+snippet: Dordogne riverside village wedged between limestone cliffs, golden houses,
+  and troglodyte dwellings.
 title: La Roque-Gageac
 type: location
 ---

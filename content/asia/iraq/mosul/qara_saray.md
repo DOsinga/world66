@@ -10,6 +10,7 @@ story: >
   bank of the Tigris gave it commanding views across the river. The name
   "Qara Saray" — black palace — comes from the dark stone used in its
   construction, quarried from the basalt-rich hills north of the city.
+score: 6.1
 ---
 
 Qara Saray, "The Black Palace," was a palace complex on the west bank of the Tigris that served as the seat of Mosul's governors during the Ottoman period. The structure dates to the medieval period and was expanded and modified over the centuries as the city changed hands between different rulers. Its prominent position on the riverbank made it the visual centrepiece of the city's waterfront.

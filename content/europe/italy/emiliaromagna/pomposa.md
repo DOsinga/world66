@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/33425911@N06/5913928833
 latitude: 44.840606
 loc_type: city
 longitude: 12.176448
-score: 0.49
+score: 7.11
+snippet: Po Delta abbey complex where Guido d'Arezzo developed modern musical notation
+  in the Middle Ages.
 title: Pomposa
 type: location
 ---

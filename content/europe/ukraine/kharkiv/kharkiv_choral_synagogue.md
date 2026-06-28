@@ -15,6 +15,7 @@ story: >
   war only to be converted into a workers' club and later a sports
   hall during the Soviet period. It was returned to the Jewish
   community in 1990 and has been gradually restored since then.
+score: 7.5
 ---
 
 The Kharkiv Choral Synagogue on Pushkinska Street is one of the few remaining physical traces of what was once a substantial Jewish community in the city. Built in the early 20th century in an eclectic Moorish Revival style — typical of central European synagogue architecture of the period — the building has a distinctive facade of horseshoe arches and decorative brickwork that stands out from the surrounding Soviet-era streetscape.

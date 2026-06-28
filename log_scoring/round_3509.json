@@ -1,0 +1,200 @@
+{
+  "round": 3509,
+  "timestamp": "2026-06-13T22:59:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 2.7121,
+      "prior_variance": 0.109964,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 3.149,
+      "prior_variance": 0.138362,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 0.8046,
+      "prior_variance": 0.116795,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 2.5288,
+      "prior_variance": 0.135536,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Songpan",
+      "path": "asia/china/sichuanprovince/songpan",
+      "prior_score": 2.2977,
+      "prior_variance": 0.113753,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 1.8555,
+      "prior_variance": 0.120286,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 0.8968,
+      "prior_variance": 0.130072,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 0.9523,
+      "prior_variance": 0.119765,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 1.0041,
+      "prior_variance": 0.114848,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.2325,
+      "prior_variance": 0.114431,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": -1.0292,
+      "prior_variance": 0.130545,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Kaiping",
+      "path": "asia/china/guangdong/kaiping",
+      "prior_score": 0.8849,
+      "prior_variance": 0.134531,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 1.8821,
+      "prior_variance": 0.110068,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 0.4944,
+      "prior_variance": 0.147561,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_score": 1.5837,
+      "prior_variance": 0.112861,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 3.9143,
+      "prior_variance": 0.116268,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 1.4497,
+      "prior_variance": 0.131169,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.3206,
+      "prior_variance": 0.123337,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.0499,
+      "prior_variance": 0.122403,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 0.2949,
+      "prior_variance": 0.109285,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -1.9284,
+      "prior_variance": 0.131633,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/wairoa",
+      "prior_score": -3.3846,
+      "prior_variance": 0.117886,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -2.468,
+      "prior_variance": 0.123208,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_score": -2.8576,
+      "prior_variance": 0.181202,
+      "prior_n": 12
+    }
+  ]
+}

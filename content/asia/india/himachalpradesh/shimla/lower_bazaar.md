@@ -8,6 +8,7 @@ latitude: 31.1038
 longitude: 77.1735
 story: >
   The Lower Bazaar is the commercial reality that sustained the British summer capital — the market where servants shopped, where provisions arrived from the plains, and where the actual Indian life of Shimla happened below the Mall's genteel promenade. The British built Shimla in socially stratified layers: the Mall and its surroundings for Europeans, the bazaar below for "natives." The physical separation is still visible in the town's topography.
+score: 8.0
 ---
 
 The Lower Bazaar runs below Mall Road along a parallel ridge, reached by steep flights of steps from the Mall or from the Shimla bus stand. It is the most authentically Indian part of central Shimla — dense, loud, and practical, selling everything from spices and vegetables to hardware, Tibetan jewellery, and warm mountain clothing.

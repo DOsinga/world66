@@ -8,6 +8,7 @@ tags:
 latitude: 43.3840
 longitude: -8.4098
 story: "The name — Aquarium of the End of the World — refers to La Coruña's position as one of the westernmost points of continental Europe, where ancient maps used to write 'Here be dragons' and medieval pilgrims believed they were looking at the edge of the known world. The Finisterre coast nearby was considered the furthest west you could travel before falling off."
+score: 7.2
 ---
 
 Aquarium Finisterrae sits on the waterfront between the Torre de Hércules and the Domus museum. Its focus is the marine life of the Galician coast and the Atlantic — the richest fishing waters in Spain — with particular attention to the ecosystems of the local rias (the drowned valleys that give Galicia its convoluted coastline).

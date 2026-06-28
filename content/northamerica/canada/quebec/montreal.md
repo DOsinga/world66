@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Notre-Dam
 latitude: 45.503182
 loc_type: city
 longitude: -73.569806
-score: 0.7
+score: 9.02
+snippet: French-speaking island city on the St. Lawrence, mixing old stone streets
+  with terrasses and winter underground life.
 title: Montreal
 type: location
 ---

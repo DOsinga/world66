@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
   - architecture
+score: 7.3
 ---
 
 A small Rationalist-Futurist building in central Asmara, originally a bar and shop opened in the late 1930s. The streamlined facade with its curved corner window and horizontal banding is a textbook example of how the colonial architects translated Italian design into the African capital.

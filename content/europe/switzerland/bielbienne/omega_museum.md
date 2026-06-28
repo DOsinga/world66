@@ -10,6 +10,7 @@ story: >
   Omega is based in Biel because of a historical accident of Swiss geography: in the 1870s, watchmakers began clustering in the Jura region partly because the limestone terrain was useless for farming, and the precision skills required for watchmaking suited a population that had spent generations making lacework and wooden toys in long winters. Louis Brandt founded what became Omega here in 1848, and the company has been in Biel ever since, through moon landings, world records, and every James Bond film since 1995.
 sources:
   - https://en.wikipedia.org/wiki/Omega_SA
+score: 7.3
 ---
 
 The Omega Museum on Nicolas-Hayek-Strasse (named after the Swatch Group founder) traces the full history of the company from its 19th-century origins through the iconic Speedmaster selected by NASA for the Apollo missions to the current collections. The collection includes rare historical pieces, prototype watches, and the full line of current production. Admission is free, which makes it an easy half-hour stop.

@@ -8,6 +8,7 @@ tags:
 latitude: 35.6292
 longitude: -82.1814
 snippet: Restored 1890s train depot with railroad history exhibits
+score: 7.6
 ---
 
 The Old Fort train depot is one of the most complete surviving examples of a Western North Carolina Railroad depot from the late 19th century. The station was the terminus of the line for years before the Swannanoa Gap tunnel was completed — every passenger and every freight car had to stop here while goods were transferred over the mountain. The building has been restored and now houses a small museum dedicated to the history of the railroad and its role in opening the southern Appalachians to settlement and commerce.

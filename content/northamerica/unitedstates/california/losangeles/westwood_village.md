@@ -10,6 +10,7 @@ tags:
 title: Westwood Village
 type: poi
 url: https://www.westwoodblvd.com
+score: 6.6
 ---
 
 Westwood Village is a compact, walkable shopping and dining district tucked between Beverly Hills and Brentwood, right on the edge of the UCLA campus. It has a genuine neighbourhood feel unusual for Los Angeles — you can actually park once and walk between shops.

@@ -8,6 +8,7 @@ tags:
   - sight
   - industrial
 story: "El Teniente has been mined continuously since 1819 and now has more than 4,500 km of internal tunnels — enough to reach from Rancagua to the coast of Brazil. Codelco extracts around 450,000 tonnes of copper a year from the mountain, making this the world's largest underground copper mine by output."
+score: 8.6
 ---
 
 El Teniente is the world's largest underground copper mine — a vast network of tunnels and chambers honeycombing a single mountain in the Andes east of Rancagua. The mine has been worked, in one form or another, for more than two hundred years, and is the reason Rancagua exists at its modern scale.

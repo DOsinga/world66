@@ -6,6 +6,7 @@ longitude: -66.1683
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 Bayamón is famous across Puerto Rico for chicharrón — deep-fried pork rind, eaten as a snack with a squeeze of lemon and a cold beer. The road traditionally associated with chicharrón is the Carretera La Cuchilla south of town, where roadside stalls and small lechoneras sell slabs of crisp pork by weight, alongside morcilla blood sausage, fried pasteles, and yuca.

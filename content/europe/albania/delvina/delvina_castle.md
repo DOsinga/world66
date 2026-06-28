@@ -7,6 +7,7 @@ tags:
 - sight
 title: Delvina Castle
 type: poi
+score: 6.5
 ---
 
 The castle that gives Delvina its strategic importance stands on the high ridge above the modern town. The first fortifications were probably Byzantine, expanded and refortified by the Despotate of Epirus in the 13th century, and rebuilt again by the Ottomans, who used it as a regional administrative centre for several hundred years.

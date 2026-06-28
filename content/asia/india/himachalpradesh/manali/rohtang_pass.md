@@ -10,6 +10,7 @@ longitude: 77.2494
 snippet: "High mountain pass at 3,978m on the road to Leh, open June to October"
 story: >
   The name Rohtang means "pile of corpses" in Tibetan — a reference to the travellers who died crossing it in harsh weather through the centuries. Despite the grim etymology, it has become one of the most popular day-trip destinations from Manali, drawing thousands of visitors annually for the experience of standing on snow even in midsummer.
+score: 8.8
 ---
 
 Rohtang Pass sits at 3,978 metres on the road north from Manali towards Lahaul and Ladakh, roughly 51 kilometres by road from town. It is the point where you cross from the green Kullu Valley into the dry, austere landscape of the Himalayan rain shadow. On the Manali side: dense forest and summer meadows. On the far side: bare scree, cold winds, and the beginning of a landscape that gradually opens into the great high-altitude valleys of Lahaul, Spiti, and Ladakh.

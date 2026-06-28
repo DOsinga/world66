@@ -13,6 +13,7 @@ story: >
   location was slightly fictionalised — in the film, Jodie Foster's character sits among
   the dishes wearing headphones, which is not how radio astronomy actually works.
   The dishes collect electromagnetic radiation, not audible sound.
+score: 8.8
 ---
 
 The Very Large Array is one of the world's most powerful and visually dramatic radio telescope facilities, consisting of 27 parabolic dishes each 25 metres in diameter, arranged in a Y-configuration across the flat Plains of San Agustin about 50 miles east of Quemado. The dishes are moved along railway tracks to change the configuration of the array, depending on what the astronomers are studying.

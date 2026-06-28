@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - mall
+score: 7.6
 ---
 
 Alhamra is Lahore's main performing-arts complex — a striking red-brick brutalist building designed by Nayyar Ali Dada and completed in 1992, with three theatres, an open-air auditorium, and exhibition galleries. The Mall-facing facade, with its geometric cut-outs, is one of the more interesting pieces of post-independence Lahore architecture.

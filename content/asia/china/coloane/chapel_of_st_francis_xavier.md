@@ -14,6 +14,7 @@ story: >
   small island off southern China is a remarkable thread in the history of Asian Christianity.
 sources:
   - https://en.wikipedia.org/wiki/Chapel_of_St._Francis_Xavier
+score: 4.9
 ---
 
 The Chapel of St. Francis Xavier is one of the most charming buildings in Macau — a small, pastel-yellow Catholic chapel built in 1928 on the southwestern tip of Coloane, facing a small square shaded by old trees. It sits next to a monument commemorating the Portuguese defeat of pirate raiders in 1910, which brought to an end Coloane's long history as a pirate stronghold.

@@ -9,6 +9,7 @@ latitude: 33.95583
 longitude: -83.37361
 sources:
   - https://en.wikipedia.org/wiki/Jackson_Street_Cemetery
+score: 6.6
 ---
 
 The Jackson Street Cemetery, also called Old Athens Cemetery, is the oldest burial ground in Athens and one of the more atmospheric spots in town. It's listed on the National Register of Historic Places and contains graves from the earliest years of the city's existence, including several notable Georgians from the antebellum era.

@@ -7,6 +7,7 @@ tags:
   - jacksonville_beach
 latitude: 30.2779
 longitude: -81.3991
+score: 6.5
 ---
 
 The Jacksonville Beach Pier extends 800 feet into the Atlantic from the foot of Beach Boulevard, offering fishing access and a perspective on the beach and surf from above. The pier has been rebuilt several times after hurricane damage and is a working fishing pier — anglers cast for sheepshead, flounder, and redfish from its rails in all weathers.

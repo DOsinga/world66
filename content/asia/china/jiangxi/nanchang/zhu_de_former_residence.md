@@ -8,6 +8,7 @@ tags:
   - museum
 latitude: 28.6775
 longitude: 115.8995
+score: 6.4
 ---
 
 The former residence of Zhu De (朱德旧居) within the August 1st Memorial complex preserves the rooms where the commander of the Communist forces lived in the days before the 1927 uprising. Zhu De was one of the most important military figures of the revolution — as much as Mao was its political architect, Zhu De was its military builder — and the preserved residence provides a companion to the Mao rooms in the same complex.

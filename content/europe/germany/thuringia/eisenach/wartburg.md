@@ -10,6 +10,7 @@ tags:
 latitude: 50.9659
 longitude: 10.3058
 story: "In May 1521, Martin Luther arrived at the Wartburg in disguise, passing himself off as 'Junker Jörg' — the Knight George. Over the next ten months he translated the entire New Testament into German, a feat he accomplished in just eleven weeks of intensive work. The translation standardised the German language as much as it spread the Reformation — Luther's idioms are still quoted today."
+score: 9.6
 ---
 
 The Wartburg dominates the wooded hill above Eisenach and is one of the best-preserved medieval castles in Germany — and one of the most historically loaded. It was here that Martin Luther took refuge in 1521 after his excommunication and translated the New Testament into German. It was here that Elisabeth of Thuringia performed her famous acts of charity in the 13th century, and where German student fraternities gathered in 1817 to demand national unity. The castle is a UNESCO World Heritage Site.

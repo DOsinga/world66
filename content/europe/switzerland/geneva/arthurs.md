@@ -7,6 +7,7 @@ tags:
 - nightlife
 title: Arthur's Club
 type: poi
+score: 1.5
 ---
 
 Arthur's Club was for years the largest nightclub in Switzerland, a sprawling venue near Geneva's airport with three dance floors and a reputation for pulling crowds from across the region. It closed and was replaced by Casino du Lac on the same site.

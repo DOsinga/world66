@@ -15,6 +15,7 @@ story: >
   same meeting.
 sources:
   - https://en.wikipedia.org/wiki/Pro_Football_Hall_of_Fame
+score: 8.5
 ---
 
 The Pro Football Hall of Fame is Canton's dominant attraction and one of the most visited sports museums in the United States. The facility holds the official records, memorabilia, and stories of professional American football from its 19th-century origins to the present. The centrepiece is the enshrinement gallery, where bronze busts of inducted players, coaches, and contributors line the walls.

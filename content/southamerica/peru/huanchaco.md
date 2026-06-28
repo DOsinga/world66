@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:PhotomontageHuanchaco.jpg
 latitude: -8.0795
 loc_type: city
 longitude: -79.1203
-score: 0.54
+score: 8.16
+snippet: Small fishing village and beach resort known for caballitos de totora on
+  Peru's northern coast
 title: Huanchaco
 type: location
 ---

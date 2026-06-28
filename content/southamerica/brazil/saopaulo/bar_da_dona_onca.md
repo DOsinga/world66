@@ -1,14 +1,14 @@
 ---
-title: "Bar da Dona Onça"
-type: poi
 latitude: -23.5466
 longitude: -46.6451
+score: 7.9
+snippet: Chef Janaina Rueda's working-class Brazilian comfort food in the Copan building
 tags:
-  - eating_out
-  - restaurant
-  - centro
-neighbourhood: Centro
-snippet: "Chef Janaina Rueda's working-class Brazilian comfort food in the Copan building"
+- eating_out
+- restaurant
+- centro
+title: Bar da Dona Onça
+type: poi
 ---
 
 The Bar da Dona Onça occupies a ground-floor space on the long curving arcade of Niemeyer's Copan building and is the closest thing modern São Paulo has to a great working bar-restaurant. Chef Janaina Rueda — who, with her ex-husband Jefferson Rueda, founded the institution — cooks Brazilian comfort food at the upper end: the city's most-talked-about feijoada (Saturdays), a coxinha at the bar that arrives wrapped in proper paper, slow-cooked pork shoulder with farofa, and a long pudim list.

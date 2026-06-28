@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Flathead_County_Courthouse
 latitude: 48.202158
 loc_type: city
 longitude: -114.315321
-score: 0.5
+score: 7.6
+snippet: Flathead Valley town between Glacier National Park and Flathead Lake, framed
+  by northern Rocky peaks.
 title: Kalispell
 type: location
 ---

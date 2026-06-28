@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5722
 longitude: 68.7883
+score: 6.5
 ---
 
 The National Library of Tajikistan, facing Dousti Square, is one of the largest buildings in Dushanbe and a prominent feature of the governmental ensemble around the square. The architecture is post-Soviet monumental — a massive white structure that attempts to blend traditional Tajik decorative motifs with the scale of Soviet state architecture.

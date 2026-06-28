@@ -5,8 +5,14 @@ latitude: 49.458
 loc_type: region
 longitude: -2.535
 score: 0.6
+snippet: Channel Island of granite harbours, Norman place names, wartime fortifications,
+  and rich local dairy culture.
 title: Guernsey
 type: location
+image: guernsey.jpg
+image_source: https://commons.wikimedia.org/wiki/File:J79159_Yul_cdg_20140624-045846.42_Guernsey.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Emdx
 ---
 
 Guernsey is the second largest of the Channel Islands, with around 63,000 people and a capital, St Peter Port, that ranks among the more attractive harbour towns in the British Isles. The town rises steeply from the waterfront, its granite buildings and winding lanes giving it something of a Cornish feel overlaid with Norman names and French signage.

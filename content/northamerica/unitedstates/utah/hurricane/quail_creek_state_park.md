@@ -7,6 +7,7 @@ tags:
 latitude: 37.1925
 longitude: -113.3853
 snippet: "Reservoir in the red sandstone hills west of Hurricane, with boating, fishing, and a surviving 1920s airmail navigation arrow on the hillside above."
+score: 6.9
 ---
 
 Quail Creek Reservoir sits in the red sandstone hills between Hurricane and St. George, a quieter and cheaper alternative to Sand Hollow with similarly striking scenery. The park is popular for bass and trout fishing and for boating; swimming is permitted. It tends to be less crowded than Sand Hollow on summer weekends, and the entry fee is lower.

@@ -10,6 +10,7 @@ tags:
   - swimming
 snippet: Slovenia's largest natural lake, ringed by Triglav National Park
 story: "Bohinj sits inside the Triglav National Park, so the lake's foreshore is publicly owned by law — no hotel or restaurant can build on the water's edge. That is why Bohinj still looks like the wild Alpine lake it was a hundred years ago, while [Lake Bled](/europe/slovenia/bled) up the road has been ringed with resorts."
+score: 9.3
 ---
 
 The largest permanent lake in Slovenia, four kilometres long and a kilometre wide, held in a glacial basin at the southern foot of the Julian Alps. The water is cold even in midsummer — a steady 18 to 22 degrees in July and August — and so clear that you can see the bottom in many places near the shore. A flat, easy footpath circles the entire lake; the full loop is about twelve kilometres and takes three to four hours at a relaxed pace.

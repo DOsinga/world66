@@ -13,6 +13,7 @@ tags:
 - sight
 title: SS President Coolidge
 type: poi
+score: 9.7
 ---
 
 The SS President Coolidge is the world's most accessible large wreck and the reason many divers make the journey to Vanuatu. The 200-metre ocean liner lies on its side at depths of 21 to 65 metres, putting most of the ship within reach of recreational divers. The wreck is intact enough to be genuinely eerie: artillery shells, jeeps, rifles, gas masks, and personal effects are still in place after more than eighty years on the seabed. The "Lady and the Unicorn" mosaic near the first-class dining room is the most-photographed underwater feature on the island.

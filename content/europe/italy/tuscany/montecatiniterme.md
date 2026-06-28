@@ -1,9 +1,16 @@
 ---
+latitude: 43.8847
+loc_type: city
+longitude: 10.7736
+score: 8.28
+snippet: Tuscan spa town between Pistoia and Lucca, known for Belle Époque thermal
+  pavilions and Montecatini Alto.
 title: Montecatini Terme
 type: location
-loc_type: city
-latitude: 43.8847
-longitude: 10.7736
+image: montecatiniterme.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tempio_termale.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Elisa Salvicchi
 ---
 
 Montecatini Terme is Tuscany's famous spa town, sitting on the plain between [Pistoia](/europe/italy/tuscany/pistoia) and [Lucca](/europe/italy/tuscany/lucca) at the foot of the Apennine foothills. It became fashionable in the late nineteenth century, and the Belle Époque thermal establishments — grand, ornate, and unhurried — are still the reason most people come. The grande dame of the batch is the Terme Tettuccio, a neoclassical pavilion of marble colonnades and painted ceilings where taking the waters remains a pleasantly theatrical ritual.

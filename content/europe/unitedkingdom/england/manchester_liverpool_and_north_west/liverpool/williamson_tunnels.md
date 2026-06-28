@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Williamson Tunnels
 type: poi
+score: 8.5
 ---
 
 A bizarre network of brick-arched tunnels burrowed under the Edge Hill area in the early 1800s by an eccentric tobacco merchant named Joseph Williamson, ostensibly to provide work for soldiers returning from the Napoleonic wars. The full extent of the tunnels is still unknown — the centre is gradually clearing and stabilising more of them.

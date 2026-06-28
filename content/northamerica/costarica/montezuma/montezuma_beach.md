@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.6556
 longitude: -85.0688
+score: 7.0
 ---
 
 Montezuma's beach is rocky at the centre of town but broadens to sandier stretches north and south. The village itself sits on a point where the coastline turns, giving different exposure at different states of tide and swell. Sunsets are spectacular when the sky is clear. The beach is good for walking and birdwatching — brown pelicans, magnificent frigatebirds, and yellow-crowned night herons are commonly seen from the shore.

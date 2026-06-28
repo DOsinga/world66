@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bab_Bhar_Mahdia_1.jpg
 latitude: 35.5036
 loc_type: city
 longitude: 11.0682
-score: 0.48
+score: 7.47
+snippet: Tunisian seaside town on a narrow peninsula, with Fatimid history, a walled
+  medina, and quiet beaches
 title: Mahdia
 type: location
 ---

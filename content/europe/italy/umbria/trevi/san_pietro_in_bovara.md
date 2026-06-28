@@ -8,6 +8,7 @@ latitude: 42.8597
 longitude: 12.7472
 sources:
   - https://en.wikipedia.org/wiki/San_Pietro_in_Bovara
+score: 7.8
 ---
 
 At the foot of the Trevi hill, in the hamlet of Bovara, this Romanesque abbey church sits beside the road to Spoleto in a state of preserved austerity. Founded in the 11th century, it is considered one of the finest Romanesque buildings in Umbria — and one of the least visited, since it sits several kilometres below the hilltop town and requires a deliberate detour.

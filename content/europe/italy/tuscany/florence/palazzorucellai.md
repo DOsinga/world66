@@ -2,11 +2,13 @@
 address: Via della Vigna Nuova 18, 50123 Florence
 latitude: 43.771372
 longitude: 11.24951
+score: 7.0
 snippet: Pioneering Renaissance palazzo with Alberti-designed facade
 tags:
 - things_to_do
 - museum
 - palace
+- santa_maria_novella_quarter
 title: Palazzo Rucellai
 type: poi
 ---

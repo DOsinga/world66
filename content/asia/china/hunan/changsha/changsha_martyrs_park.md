@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 28.2210
 longitude: 112.9960
+score: 6.3
 ---
 
 Changsha Martyrs Park is a large public park in the northern part of the city, built around a lake and dedicated to the memory of the Communist martyrs who died in Hunan during the political struggles of the 1920s and 1930s. Yang Kaihui — Mao Zedong's first wife, executed by the Nationalist government in 1930 — is among those commemorated here, along with thousands of others killed during the anti-communist campaigns. The central memorial is on a hill above the lake; the surrounding park is used by locals for morning exercise, kite-flying, and evening recreation.

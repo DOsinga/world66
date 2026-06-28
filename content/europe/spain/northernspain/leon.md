@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Botines._Le%C3%B3n_60
 latitude: 42.5987
 loc_type: city
 longitude: -5.5671
-score: 0.64
+score: 8.5
+snippet: Castilian city on the Camino de Santiago, known for its cathedral, Roman
+  walls, and tapas quarter.
 title: León
 type: location
 ---

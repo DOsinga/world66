@@ -12,6 +12,7 @@ story: >
   geology as though the eruption was recent. The lava that poured from this cone dammed the Bai River, 
   creating all five of the linked lakes below — meaning the entire Wudalianchi landscape visible from 
   the rim is a direct consequence of this single event.
+score: 8.8
 ---
 
 Laohei Shan — Old Black Mountain — is the main volcanic cone at Wudalianchi and the most rewarding climb in the area. The ascent from the base takes about 40 minutes on a well-marked trail through the black lava field, and the crater rim provides the defining view of the whole site: a perfect bowl crater below you, and beyond it the five linked lakes stretching across the flat terrain, the lava fields spreading in every direction. On a clear day the scale of the 1719–1720 eruption becomes fully legible from up here.

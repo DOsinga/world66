@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_Volleyball_2,_Delray
 latitude: 26.461462
 loc_type: city
 longitude: -80.07282
-score: 0.47
+score: 7.72
+snippet: Palm Beach County beach city with a walkable Atlantic Avenue linking downtown
+  to the ocean.
 title: Delray Beach
 type: location
 ---

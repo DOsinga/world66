@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dzongsar_Monastery_02.jpg
 latitude: 31.83
 loc_type: city
 longitude: 98.67
+score: 7.01
+snippet: Remote Tibetan town in Sichuan, set near the upper Jinsha River at 3,100
+  metres.
 sources:
 - https://en.wikivoyage.org/wiki/Dege
 title: Dege

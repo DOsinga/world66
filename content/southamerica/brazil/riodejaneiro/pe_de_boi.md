@@ -3,9 +3,11 @@ address: Rua Ipiranga 55, Laranjeiras
 latitude: -22.933192
 longitude: -43.183321
 phone: (21)2285-4395
+score: 5.7
 snippet: Brazilian folk art gallery in leafy Laranjeiras
 tags:
 - shopping
+- flamengo
 title: Pé de Boi
 type: poi
 url: www.pedeboi.com.br

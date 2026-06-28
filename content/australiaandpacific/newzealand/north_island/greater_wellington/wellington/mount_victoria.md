@@ -15,6 +15,7 @@ story: >
   companions. The filming took place in the pine woodland on the southern
   slope. The rock on which the hobbits crouched has been visited by fans of
   the films ever since, and is signposted from the car park.
+score: 8.0
 ---
 
 Mount Victoria at 196 metres is the closest significant summit to Wellington's city centre — a ten-minute bus ride or 30-minute walk from Courtenay Place takes you to the car park near the top, from which it is a two-minute walk to the lookout. The panorama is remarkable: the CBD, the harbour, the Rimutaka Range to the northeast, and on clear days the South Island across Cook Strait.

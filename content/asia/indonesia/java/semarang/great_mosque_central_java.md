@@ -16,6 +16,7 @@ story: >
   worshippers from the tropical sun.
 sources:
   - https://en.wikipedia.org/wiki/Great_Mosque_of_Central_Java
+score: 7.1
 ---
 
 The Great Mosque of Central Java (Masjid Agung Jawa Tengah) is one of the largest mosques in Indonesia and one of the most architecturally ambitious. Completed in 2006, the complex blends Javanese architectural elements — a tiered joglo-style roof — with a large dome and minarets drawn from broader Islamic tradition. The result is distinctive and confident, neither derivative nor confused.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 28.6776
 longitude: 115.9005
+score: 7.3
 ---
 
 Banged noodles (拌粉, bànfěn) are Nanchang's signature dish and the first thing most residents eat in the morning. The name refers to the technique of mixing — the cook tosses rice noodles with chilli paste, sesame paste, peanuts, pickled radish, and sometimes a slick of lard or a fried egg, combining ingredients by banging them together in the bowl. The result is intensely flavored, spicy, and chewy, and costs between 5 and 10 yuan depending on the shop and size.

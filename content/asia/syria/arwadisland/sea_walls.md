@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.8589
 longitude: 35.8558
+score: 8.2
 ---
 
 The old sea walls that ring the western edge of the island are among the most evocative parts of Arwad. Built in layers over millennia — Phoenician stone foundations, Hellenistic additions, Crusader rebuilds — they now serve as a walkway with views out to the open Mediterranean. In the afternoon light, when the stones warm and the sea turns blue-green, the setting is memorable.

@@ -9,6 +9,7 @@ longitude: 11.667
 address: Elbauenpark, Tessenowstraße, Magdeburg
 opening_hours: Tue-Sun 10:00-18:00 (Apr-Oct)
 snippet: One of the world's highest wooden towers, filled with hands-on science history exhibits
+score: 7.9
 ---
 
 The Jahrtausendturm (Millennium Tower) was built for the Federal Garden Show of 1999 in the Elbauenpark on the Elbe meadows. At 60 meters, it is one of the tallest wooden structures in the world, built from 1,000 oak trunks without metal fastenings in a technique inspired by medieval timber construction.

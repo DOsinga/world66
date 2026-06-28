@@ -9,6 +9,7 @@ tags:
 story: At Thompson's funeral in 2005 his ashes were fired from a 50-metre-tall cannon shaped like a clenched fist gripping a peyote button — a memorial designed by his friend Johnny Depp, who paid the estimated three million dollars to build it. The cannon was assembled on the property and is still visible from the Woody Creek road on a clear day, though the ranch itself remains private.
 title: Owl Farm (Hunter S. Thompson Ranch)
 type: poi
+score: 3.2
 ---
 
 The gonzo journalist Hunter S. Thompson lived at Owl Farm, his "fortified compound" in Woody Creek 16 km north of Aspen, from 1967 until his suicide there in 2005. He ran for sheriff of Pitkin County from the property in 1970 on the Freak Power ticket (and very nearly won), wrote most of Fear and Loathing on the Campaign Trail '72 there, and made the place a hub for visiting writers, musicians, and political figures from George McGovern to Bill Murray.

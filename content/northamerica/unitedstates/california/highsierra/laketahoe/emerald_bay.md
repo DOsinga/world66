@@ -8,6 +8,7 @@ latitude: 38.9538
 longitude: -120.1003
 story: >
   Vikingsholm was built in 1929 by Lora Josephine Knight, a Chicago heiress who hired architect Lennart Palme to design a 38-room Scandinavian-style mansion — the finest example of Norse architecture in the Western Hemisphere, according to some architectural historians. She also built a small teahouse on Fannette Island, accessible only by rowboat, where she took morning tea.
+score: 9.5
 ---
 
 Emerald Bay is a mile-long glacially carved inlet on the southwest shore of Lake Tahoe, framed by granite walls and named for the extraordinary blue-green colour of its water — deeper and more saturated than the already-striking turquoise of the main lake. It is one of the most photographed spots in California, and it earns the attention.

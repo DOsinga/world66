@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Beverley_IMG_8292_-_panora
 latitude: 53.842549
 loc_type: city
 longitude: -0.431568
-score: 0.49
+score: 7.45
 title: Beverley
+snippet: East Yorkshire market town anchored by Beverley Minster and a medieval street
+  plan of unusual grace.
 type: location
 ---
 

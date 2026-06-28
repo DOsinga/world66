@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.2355
 longitude: -122.6348
+score: 8.3
 ---
 
 The old warehouse district along the Petaluma River is the most atmospheric part of town — a stretch of 19th-century brick warehouses that once handled the agricultural produce flowing in from the surrounding farms. The river, really a tidal slough navigable for small boats all the way from San Pablo Bay, brought Petaluma its wealth and its cosmopolitan air: in the 1870s and 1880s, steamboats from San Francisco docked here regularly, and the warehouses filled with eggs, butter, wool, and grain.

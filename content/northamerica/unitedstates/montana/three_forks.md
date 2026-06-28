@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-30'
 latitude: 45.892606
+loc_type: city
 longitude: -111.551448
+score: 6.24
+snippet: Montana river town beside the headwaters where three forks join to form the
+  Missouri.
+sources:
+- https://en.wikipedia.org/wiki/Three_Forks,_Montana
+- https://en.wikipedia.org/wiki/Missouri_Headwaters_State_Park
 title: Three Forks
 type: location
-score: 0.35
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Three_Forks,_Montana
-  - https://en.wikipedia.org/wiki/Missouri_Headwaters_State_Park
 ---
 
 Three Forks is a small town in Gallatin County, [Montana](/northamerica/unitedstates/montana), named for its location near the point where the Jefferson, Madison, and Gallatin rivers converge to form the Missouri River. Meriwether Lewis named the three rivers in July 1805 for President Jefferson, Secretary of State Madison, and Treasury Secretary Gallatin.

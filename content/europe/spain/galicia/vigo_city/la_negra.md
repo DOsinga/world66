@@ -9,6 +9,7 @@ tags:
 neighbourhood: Berbés Quarter
 title: La Negra
 type: poi
+score: 6.3
 ---
 
 One of the most beloved old-fashioned tascas in Vigo, tucked into a narrow street in the Berbés quarter. The menu is built around daily specials and whatever came off the boats: caldo gallego on cold days, grilled fish, polbo á feira, and the empanada of the day. The wine list runs to basic Galician whites and the rough reds that locals drink without apology.

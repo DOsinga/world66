@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "From 1282, when King Dinis gifted Óbidos to his young wife Queen Isabel after she admired it on their wedding journey, the town and castle were the traditional bridal gift of the Portuguese crown — passed from king to queen at every royal wedding for the next five centuries."
+score: 8.7
 ---
 
 The castle anchors the top of the hill and the northern end of the walled town. Its keep and walls date mainly from the late 13th century — built on Moorish and earlier Roman foundations — and the structure was given a Manueline overlay in the 16th century, especially the windows and arches of the inner courtyard.

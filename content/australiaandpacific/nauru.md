@@ -1,22 +1,24 @@
 ---
-title: Nauru
-type: location
-latitude: -0.525231
-longitude: 166.932443
-image: nauru.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Island_Ring_Road_-_Nauru.jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/11331051@N00">Hadi
-  Zaher</a> from Melbourne, Australia
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "11,000"
-  Area: "21 km² — world's 3rd smallest country"
-  Interior Landscape: Moonscape from phosphate mining
-  Tourists Per Year: A few hundred
-score: 0.36
+image: nauru.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/11331051@N00">Hadi
+  Zaher</a> from Melbourne, Australia
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Island_Ring_Road_-_Nauru.jpg
+latitude: -0.525231
 loc_type: country
+longitude: 166.932443
+quick_facts:
+  Area: 21 km² — world's 3rd smallest country
+  Interior Landscape: Moonscape from phosphate mining
+  Population: 11,000
+  Tourists Per Year: A few hundred
+score: 0.18
+snippet: Tiny Central Pacific island country shaped by a narrow coast and a phosphate-mined
+  limestone interior.
+title: Nauru
+type: location
 ---
 
 Nauru is one of the strangest places on Earth. The world's third-smallest country — only Monaco and the Vatican are smaller — sits just south of the Equator in the Central Pacific, a raised coral island barely 21 square kilometres in area. Its 11,000 or so residents live almost entirely on a narrow coastal strip, because the interior is largely uninhabitable: stripped bare by a century of phosphate mining, it looks like a moonscape of jagged limestone pinnacles and abandoned machinery.

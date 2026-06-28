@@ -8,6 +8,7 @@ latitude: 29.9500
 longitude: 120.6000
 story: >
   Kuaiji Mountain is where the great flood-controller Yu the Great is buried, according to tradition. Yu (ca. 2200 BCE) is credited with taming the Yellow River floods that threatened early Chinese civilisation — not by damming the rivers but by dredging and channelling them, a hydraulic engineering achievement considered the founding act of Chinese civilisation. The Mausoleum of Yu has been a pilgrimage site for over two thousand years.
+score: 7.5
 ---
 
 Kuaiji Mountain rises about two hundred metres above the southern edge of Shaoxing, and its forested slopes contain several important historical sites: the Mausoleum of Yu the Great (*Dayu Ling*), a Bronze Age and early Iron Age archaeological complex, and the terraced vineyards of the Kuaiji Mountain wine company that continues the two-thousand-year-old Shaoxing wine tradition.

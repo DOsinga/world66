@@ -9,6 +9,7 @@ latitude: 41.1833
 longitude: 0.8500
 sources:
   - https://en.wikipedia.org/wiki/Porrera
+score: 7.4
 ---
 
 Porrera is one of Priorat's most handsome wine villages, folded into a narrow valley with old stone houses and vineyard slopes pressing in around it. It feels quieter than Gratallops, which can be a blessing if you want the landscape without too much tasting-room bustle.

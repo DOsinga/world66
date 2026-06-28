@@ -15,6 +15,7 @@ story: >
   to impress, this temple was designed for esoteric tantric rituals conducted at night.
   The 64 niches were not decorative — each housed a specific deity in a specific position
   for specific ceremonies that we no longer fully understand.
+score: 8.5
 ---
 
 The Chausath Yogini temple sits on a hilltop above the Marble Rocks gorge at Bhedaghat, about 25 km from Jabalpur. Built in the 10th century during the Kalachuri period, it is a circular open-air temple with 64 niches arranged around a central Shiva shrine — each niche once holding a different yogini figure, representing feminine divine energies associated with tantric practice.

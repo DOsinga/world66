@@ -8,6 +8,7 @@ tags:
   - hiking
   - historic_site
 snippet: The 8.5-mile carrying place that named the region
+score: 8.2
 ---
 
 The original portage — the "Great Carrying Place" — runs 8.5 miles from the stockade at the National Monument up over the high ground and down to Fort Charlotte on the Pigeon River, bypassing the unnavigable lower river and the High Falls. Ojibwe travellers used it long before the voyageurs, who in their turn carried 90-pound packs of furs and trade goods across it eight times a season.

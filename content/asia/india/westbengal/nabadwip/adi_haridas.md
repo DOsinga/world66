@@ -6,6 +6,7 @@ tags:
   - sweets
 latitude: 23.4095
 longitude: 88.3658
+score: 6.3
 ---
 
 The most famous of the Nabadwip *lal doi* shops, near the Poramatala temple. The deep-red sweetened yoghurt — its colour from caramelised sugar, its taste a perfect balance of sweet and tart — is set overnight in earthenware pots and sold in the morning, often gone by mid-afternoon.

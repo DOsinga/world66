@@ -10,6 +10,7 @@ longitude: 115.8573
 story: "Perth's Chinese community dates to the gold rushes of the 1890s, when thousands of Chinese migrants came to work the Goldfields. Northbridge's Chinatown is a reminder of that history, though the current concentration of Chinese and Southeast Asian restaurants owes more to post-1970s immigration than to the gold rush era. The area is one of the most genuinely multicultural pockets of a city that can seem remarkably homogeneous."
 sources:
   - https://en.wikipedia.org/wiki/Chinatown,_Perth
+score: 7.4
 ---
 
 Chinatown in Northbridge occupies a compact cluster of streets around Roe Street and James Street, and it is the best place in Perth for cheap, authentic East and Southeast Asian cooking. The concentration of Vietnamese, Chinese, Malaysian, and Korean restaurants makes it a go-to for late-night noodles and dumplings — many places stay open well past midnight on weekends when the surrounding bars are still full.

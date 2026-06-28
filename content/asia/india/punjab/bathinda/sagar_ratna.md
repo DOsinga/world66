@@ -6,6 +6,7 @@ longitude: 74.9489
 tags:
   - eating_out
   - restaurant
+score: 4.6
 ---
 
 A reliable South Indian chain outpost on the Mall Road area, **Sagar Ratna** is where Bathinda's middle class comes for crisp dosas, idli-sambar, and good filter coffee — a welcome change from the heavy Punjabi rotation. Clean, air-conditioned, family-friendly, and consistent in quality.

@@ -10,6 +10,7 @@ address: Museum Rd, Ram Niwas Garden, Jaipur
 opening_hours: 9:00-17:00, 19:00-22:00 (closed Mondays)
 snippet: Rajasthan's oldest museum, housed in an ornate Indo-Saracenic palace
 story: "The building was designed in 1876 for the Prince of Wales's visit to Jaipur, but sat incomplete for over a decade — it only opened as a museum in 1887, by which point the prince had become King Edward VII."
+score: 7.9
 ---
 
 Rajasthan's oldest museum, housed in a spectacular yellow-ochre building in the Ram Niwas Garden south of the old walled city. The architecture is an elaborate Indo-Saracenic blend — arches, domes, and carved columns in the Bombay Government style — and the building itself is often the most memorable part of the visit.

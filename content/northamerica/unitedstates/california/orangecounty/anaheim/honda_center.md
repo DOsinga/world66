@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 33.8078
 longitude: -117.8767
+score: 6.9
 ---
 
 Honda Center is a 19,000-seat arena adjacent to Angel Stadium, home to the Anaheim Ducks NHL hockey team and a major concert venue. The Ducks, named after the Disney film when the franchise was founded in 1993, won the Stanley Cup in 2007 and remain competitive in the Pacific Division.

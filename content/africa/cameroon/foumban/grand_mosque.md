@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 A short walk from the Royal Palace stands the Grand Mosque, a reminder that the Bamoun court converted to Islam under Sultan Njoya in the early 20th century. The current mosque is a modern white-and-green structure, but it sits on the site where Njoya led the first Bamoun Muslim prayers.

@@ -11,7 +11,9 @@ image_source: https://www.flickr.com/photos/60057960@N06/22476980837
 latitude: 43.1896
 loc_type: city
 longitude: 17.6758
-score: 0.48
+score: 7.38
+snippet: Herzegovinian pilgrimage village centred on Marian apparition sites, St.
+  James Church, and surrounding hills
 title: Medjugorje
 type: location
 ---

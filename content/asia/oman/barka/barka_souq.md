@@ -8,6 +8,7 @@ latitude: 23.6970
 longitude: 57.8850
 sources:
   - https://en.wikipedia.org/wiki/Barka,_Oman
+score: 7.1
 ---
 
 The Barka souq is a working market rather than a heritage attraction — the kind of place where local farmers, fishermen, and traders buy and sell, and visitors are a secondary consideration. Produce from the surrounding Batinah plain fills the stalls: mangoes, limes, bananas, dates, and fresh fish from the Gulf coast.

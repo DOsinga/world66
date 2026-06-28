@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Huaibei_easterly_view.jpg
 latitude: 33.97
 loc_type: city
 longitude: 116.8
+score: 5.52
+snippet: Northern Anhui city where coal-mining history meets Han tombs and the old
+  Sui-Tang Grand Canal.
 sources:
 - https://en.wikivoyage.org/wiki/Huaibei
 title: Huaibei

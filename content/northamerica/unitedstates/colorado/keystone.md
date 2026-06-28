@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-30'
 latitude: 39.6069
+loc_type: city
 longitude: -105.9497
+score: 7.88
+snippet: Colorado ski resort town spread across three mountains, with extensive night
+  skiing near the Continental Divide
 title: Keystone
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Keystone is a ski resort town in Summit County, Colorado, about 90 miles west of Denver along Interstate 70. [Keystone Resort](/northamerica/unitedstates/colorado/keystone/keystone_resort) spreads across three interconnected mountains — Dercum, North Peak, and the Outpost — covering over 3,000 acres, and it stands out among Colorado ski areas for its extensive night skiing: nearly 1,700 lit acres skiable until 8 pm. The season runs from mid-November through mid-April, one of the longer runs in the state.

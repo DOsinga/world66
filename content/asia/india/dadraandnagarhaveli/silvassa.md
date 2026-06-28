@@ -5,7 +5,9 @@ done:
 latitude: 20.2766
 loc_type: city
 longitude: 73.0169
-score: 0.3
+score: 5.82
+snippet: Western Ghats foothill capital with Portuguese traces, tribal culture, and
+  forested lakes around Dadra and Nagar Haveli
 title: Silvassa
 type: location
 ---

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 47.549025
+loc_type: region
 longitude: 1.732406
 score: 0.44
+snippet: French region south of Paris, combining Loire châteaux, Gothic cathedrals,
+  farmland, and old forests.
 title: Centre
 type: location
-loc_type: region
 ---
 
 The Centre region of France — sometimes known as Centre-Val de Loire — lies just south of Paris and is one of the most rewarding parts of the country for a traveller who wants a slower pace. It combines the densest concentration of châteaux in the world, two of France's greatest Gothic cathedrals, and quiet countryside of rolling farmland, ancient forests, and lazy rivers that shaped much of the French Renaissance.

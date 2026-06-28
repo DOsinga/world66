@@ -13,6 +13,7 @@ story: >
   prevent him from claiming the prize he had been promised. Greeks regarded
   this as the foundational crime at Olympia, and Pelops' heroic cult persisted
   there for over a thousand years.
+score: 6.5
 ---
 
 A small sacred enclosure — a temenos — at the heart of the Altis, built around the supposed tomb of Pelops, the mythological hero who gave the Peloponnese its name. The cult of Pelops was among the oldest at Olympia, predating the great temples, and his hero shrine continued to receive offerings even as Zeus came to dominate the sanctuary.

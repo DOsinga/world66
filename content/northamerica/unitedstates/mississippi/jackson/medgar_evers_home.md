@@ -7,6 +7,7 @@ tags:
 latitude: 32.3464
 longitude: -90.2376
 story: "Evers was shot in his driveway on 12 June 1963, returning home shortly after midnight carrying a stack of T-shirts that read 'Jim Crow Must Go'. His killer, white supremacist Byron De La Beckwith, was tried twice in 1964 — both trials ended in hung juries — and only convicted in 1994, after a third trial reopened the case."
+score: 8.1
 ---
 
 A modest single-storey ranch house in the Elraine subdivision, this is where the NAACP's Mississippi field secretary Medgar Evers lived with his wife Myrlie and their three children. It became a national monument in 2017 and is open by appointment as a small museum.

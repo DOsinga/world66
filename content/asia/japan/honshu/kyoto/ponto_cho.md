@@ -1,12 +1,16 @@
 ---
-latitude: 35.0080
+latitude: 35.008
 longitude: 135.7711
-snippet: Narrow geisha-quarter alley along the Kamo River, lined with restaurants and tea houses
+score: 7.7
+snippet: Narrow geisha-quarter alley along the Kamo River, lined with restaurants
+  and tea houses
 tags:
 - things_to_do
 - gion
 - nightlife
 - sight
+- eating_out
+- bars_and_cafes
 title: Pontochō
 type: poi
 ---

@@ -4,6 +4,9 @@ done:
 latitude: 34.82
 loc_type: city
 longitude: 117.33
+score: 5.86
+snippet: Southern Shandong coal city turning toward canal heritage, wetlands, and
+  Taierzhuang battle memory.
 sources:
 - https://en.wikivoyage.org/wiki/Zaozhuang
 title: Zaozhuang

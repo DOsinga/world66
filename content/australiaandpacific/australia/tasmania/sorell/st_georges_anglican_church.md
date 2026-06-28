@@ -7,6 +7,7 @@ tags:
 - sight
 title: St George's Anglican Church
 type: poi
+score: 6.4
 ---
 
 A small stone Gothic Revival church on Gordon Street, built in 1826 and substantially rebuilt in 1883. It's one of three National Estate-listed churches in Sorell and the most distinctive, with a modest cemetery containing the graves of some of the town's earliest European settlers. The church is still active and is usually open during daylight hours.

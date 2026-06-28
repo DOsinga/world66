@@ -8,6 +8,7 @@ tags:
 - sight
 title: Schepenhuis
 type: poi
+score: 7.7
 ---
 
 The Schepenhuis (Aldermen's House) on the Grote Markt is the oldest surviving town hall in the Low Countries, with roots in the 13th century. The Belfry attached to it is a UNESCO World Heritage site as part of the broader "Belfries of Belgium and France" listing.

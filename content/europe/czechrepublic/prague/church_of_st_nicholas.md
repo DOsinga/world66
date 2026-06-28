@@ -12,6 +12,7 @@ title: Church of St Nicholas (Malá Strana)
 type: poi
 story: >
   During the Communist period the church was used as a concert hall rather than a religious space. It was also fitted with a surveillance post in the tower, from which the secret police monitored the West German embassy nearby and recorded the movements of people seeking refuge there. The tower is still used as an observation deck.
+score: 8.9
 ---
 
 The Church of St Nicholas in Malá Strana, completed in 1755, is one of the finest Baroque buildings in Central Europe. The green dome and bell tower dominate the roofline of Malá Strana and are part of the classic Prague silhouette. Designed by the Dientzenhofer family over several generations, the interior is a controlled explosion of gilded stucco, marble, and ceiling frescoes — the nave fresco, depicting scenes from the life of St Nicholas, covers nearly 1,500 square metres.

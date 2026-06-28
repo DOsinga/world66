@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Qavam Traditional Restaurant
 type: poi
+score: 6.0
 ---
 
 A restored Qajar-era house in the alleys near the Pink Mosque, Qavam serves a focused menu of Shirazi classics in a small open courtyard. The kalam polo is the dish to try here — herb-heavy, slightly sweet, served with a saffron yoghurt — and the lamb stew with quince is reliable.

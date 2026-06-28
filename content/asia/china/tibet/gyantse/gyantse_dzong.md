@@ -14,6 +14,7 @@ story: >
   with antiquated matchlock guns. The episode ended with the Lhasa Convention, which
   gave Britain commercial concessions but solved nothing — and still sits awkwardly in
   the history of both countries.
+score: 8.5
 ---
 
 The Gyantse Dzong is a commanding 14th-century fortress perched on a great spur of grey-brown rock above the town. It is one of the best-preserved dzongs (fortress-palaces) in all of Tibet, and from the top, on a clear day, you can see across the barley fields to the monastery walls and, if lucky, glimpse the snowy peaks of the Himalayas to the south.

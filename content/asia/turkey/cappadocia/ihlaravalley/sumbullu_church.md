@@ -6,6 +6,7 @@ longitude: 34.2880
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The two-storey facade of the Hyacinth Church is one of the most distinctive sights of the valley — carved directly into the cliff, with arches and niches that look like a small Romanesque chapel until you realise the whole thing is solid tufa.

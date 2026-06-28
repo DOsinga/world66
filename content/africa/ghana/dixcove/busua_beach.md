@@ -8,6 +8,7 @@ longitude: -1.9333
 story: Busua is one of the few places on the Ghanaian coast where the surf is consistent
   enough — and the sea calm enough between sets — to support a small surf school.
   Boards and lessons are available from local instructors on the beach.
+score: 7.2
 ---
 
 The long sweep of white sand a fifteen-minute walk through the bush from Dixcove. Busua faces the open Gulf of Guinea, but a rock reef offshore breaks the worst of the swell — the result is one of the calmer swimming beaches in Ghana, and one of the few places on the coast where surf instructors operate.

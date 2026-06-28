@@ -8,6 +8,7 @@ tags:
 - sight
 - square
 snippet: The cathedral square with three museums and two Bernini fountains
+score: 6.6
 ---
 
 The longer of Ascoli's two central squares, sitting east of Piazza del Popolo and closed at one end by the cathedral, at the other by the Palazzo dell'Arengo. Three of the city's museums open onto the square — the Pinacoteca, the Diocesan Museum, and the Archaeological Museum — making this the obvious base for a half-day of culture.

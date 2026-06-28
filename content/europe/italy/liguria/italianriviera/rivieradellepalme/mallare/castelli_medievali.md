@@ -6,6 +6,7 @@ longitude: 8.3080
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Two ruined medieval castles guard the approaches to the San Giacomo pass toward Finale Ligure: the Castello del Carruggio and the Castello del Miele. Both were strongholds of the Del Carretto family, lords of Mallare from the 12th century until the territory passed to the Monferrato marquisate in 1393.

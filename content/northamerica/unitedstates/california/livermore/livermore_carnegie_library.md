@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Livermore Carnegie Library and Park
 type: poi
+score: 6.7
 ---
 
 A handsome Carnegie-funded library building from 1911, used as the public library until 1966 and now home to the Livermore Heritage Guild museum. The neoclassical brick building sits in Carnegie Park, a small grassy square in the older part of downtown.

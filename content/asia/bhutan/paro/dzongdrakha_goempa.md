@@ -8,6 +8,7 @@ tags:
 - temple
 - monastery
 snippet: Cliffside temple complex sometimes called "the mini Tiger's Nest", on the road north of Paro
+score: 7.9
 ---
 
 A small cluster of four temples on a cliff above the road between Paro and Drukgyel Dzong, often called the "mini Taktsang" because of its setting. The walk up from the road is short — twenty minutes or so on a stone-stepped path through prayer flags — and the buildings are simpler than the Tiger's Nest, but the cliffside position is similar and the view back down the valley is striking. The four temples are dedicated respectively to Guru Rinpoche, Tara, Maitreya, and Drolma.

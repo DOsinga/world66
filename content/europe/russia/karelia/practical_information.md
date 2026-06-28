@@ -3,7 +3,7 @@ address: 185000, Russia, Karelia, Petrozavodsk, Kuibysheva street, 5
 email: tic@ticrk.ru
 phone: '(814-2) 76-48-35, 78-61-91, fax: +7 (814-2) 76-48-35'
 title: Practical Information in Karelia
-type: poi
+type: section
 url: www.ticrk.ru
 ---
 

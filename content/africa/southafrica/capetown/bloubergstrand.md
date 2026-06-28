@@ -14,6 +14,7 @@ tags:
 - sight
 title: Bloubergstrand
 type: poi
+score: 7.5
 ---
 
 Bloubergstrand is a flat, windswept beach about 20 kilometres north of the city centre on the shore of Table Bay. It is not Cape Town's prettiest or most comfortable beach — the water is cold, the south-easter can be brutal, and the beach itself is exposed and wide rather than sheltered. What it does offer is an unobstructed view straight across the bay to Table Mountain, which rises in its full width from this angle, and this is almost certainly where most of the iconic Table Mountain photographs have been taken.

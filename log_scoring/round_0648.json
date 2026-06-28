@@ -1,199 +1,199 @@
 {
   "round": 648,
-  "timestamp": "2026-04-12T10:41:14",
+  "timestamp": "2026-06-13T19:46:44",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mackinac Island",
-      "path": "northamerica/unitedstates/michigan/mackinac_island",
-      "prior_mu": 21.7625,
-      "prior_sigma": 4.5655,
-      "prior_n": 2
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 5.5713,
+      "prior_variance": 0.504202,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Inside Passage",
-      "path": "northamerica/unitedstates/alaska/inside_passage",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 6.8252,
+      "prior_variance": 1.65811,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "St. Augustine",
-      "path": "northamerica/unitedstates/florida/st_augustine",
-      "prior_mu": 22.3952,
-      "prior_sigma": 5.9503,
-      "prior_n": 1
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 5.4285,
+      "prior_variance": 0.530993,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Saratoga Springs",
-      "path": "northamerica/unitedstates/newyorkstate/saratoga",
-      "prior_mu": 22.7741,
-      "prior_sigma": 5.676,
-      "prior_n": 1
-    },
-    {
-      "rank": 5,
-      "title": "Scottsdale",
-      "path": "northamerica/unitedstates/arizona/scottsdale",
-      "prior_mu": 24.8079,
-      "prior_sigma": 5.1671,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 3.1261,
+      "prior_variance": 0.864072,
       "prior_n": 2
     },
     {
-      "rank": 6,
-      "title": "Pacific Grove",
-      "path": "northamerica/unitedstates/california/pacific_groove",
-      "prior_mu": 22.5035,
-      "prior_sigma": 5.9509,
+      "rank": 5,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 6.0625,
+      "prior_variance": 1.621956,
       "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 4.9638,
+      "prior_variance": 0.794546,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Mariposa",
-      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
-      "prior_mu": 22.0226,
-      "prior_sigma": 5.4945,
-      "prior_n": 1
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 5.2685,
+      "prior_variance": 0.792393,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Sonora",
-      "path": "northamerica/unitedstates/california/goldcountry/sonora",
-      "prior_mu": 22.2081,
-      "prior_sigma": 5.8765,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 6.2148,
+      "prior_variance": 1.511595,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Lexington",
-      "path": "northamerica/unitedstates/kentucky/lexington",
-      "prior_mu": 22.8859,
-      "prior_sigma": 5.6676,
-      "prior_n": 1
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 4.7761,
+      "prior_variance": 0.800573,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Port Aransas",
-      "path": "northamerica/unitedstates/texas/port_aransas",
-      "prior_mu": 22.5712,
-      "prior_sigma": 5.6774,
-      "prior_n": 1
-    },
-    {
-      "rank": 11,
-      "title": "Helena",
-      "path": "northamerica/unitedstates/montana/helena",
-      "prior_mu": 21.3431,
-      "prior_sigma": 4.1426,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 4.7512,
+      "prior_variance": 0.857451,
       "prior_n": 3
     },
     {
-      "rank": 12,
-      "title": "Jacksonville",
-      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
-      "prior_mu": 22.4196,
-      "prior_sigma": 5.3818,
+      "rank": 11,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 5.6276,
+      "prior_variance": 1.455867,
       "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 4.7807,
+      "prior_variance": 0.691771,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Boynton Beach",
-      "path": "northamerica/unitedstates/florida/boyntonbeach",
-      "prior_mu": 22.3761,
-      "prior_sigma": 5.7173,
-      "prior_n": 1
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 3.1024,
+      "prior_variance": 0.802401,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "San Jose",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
-      "prior_mu": 21.8343,
-      "prior_sigma": 5.6082,
-      "prior_n": 1
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 2.4774,
+      "prior_variance": 1.437533,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "San Rafael",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
-      "prior_mu": 22.0913,
-      "prior_sigma": 5.3096,
-      "prior_n": 1
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 2.0287,
+      "prior_variance": 1.201235,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Yuma",
-      "path": "northamerica/unitedstates/arizona/yuma",
-      "prior_mu": 21.6485,
-      "prior_sigma": 4.5275,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 4.7352,
+      "prior_variance": 1.265731,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Wausau",
-      "path": "northamerica/unitedstates/wisconsin/wausau",
-      "prior_mu": 22.5305,
-      "prior_sigma": 5.7261,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": 2.6325,
+      "prior_variance": 1.4103,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Valdosta",
-      "path": "northamerica/unitedstates/georgia/valdosta",
-      "prior_mu": 21.4386,
-      "prior_sigma": 5.6095,
-      "prior_n": 1
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 2.601,
+      "prior_variance": 1.235224,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Paramus",
-      "path": "northamerica/unitedstates/newjersey/paramus",
-      "prior_mu": 22.5262,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 3.1391,
+      "prior_variance": 0.675634,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Price",
-      "path": "northamerica/unitedstates/utah/price",
-      "prior_mu": 18.2012,
-      "prior_sigma": 6.7099,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/banyoles",
+      "prior_score": 5.0597,
+      "prior_variance": 1.424796,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Espanola",
-      "path": "northamerica/unitedstates/newmexico/espanola",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 22,
-      "title": "Miami",
-      "path": "northamerica/unitedstates/arizona/miami",
-      "prior_mu": 22.2123,
-      "prior_sigma": 5.8442,
-      "prior_n": 1
-    },
-    {
-      "rank": 23,
-      "title": "waseca",
-      "path": "northamerica/unitedstates/minnesota/waseca",
-      "prior_mu": 21.5976,
-      "prior_sigma": 4.5164,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 3.8236,
+      "prior_variance": 0.888669,
       "prior_n": 2
     },
     {
+      "rank": 22,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": 3.2156,
+      "prior_variance": 0.711178,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": 3.325,
+      "prior_variance": 1.440614,
+      "prior_n": 1
+    },
+    {
       "rank": 24,
-      "title": "Fountain Valley",
-      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
-      "prior_mu": 21.8393,
-      "prior_sigma": 5.699,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": 2.8424,
+      "prior_variance": 1.363575,
       "prior_n": 1
     }
   ]

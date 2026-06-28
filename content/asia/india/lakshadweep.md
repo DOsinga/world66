@@ -1,9 +1,11 @@
 ---
+latitude: 10.5667
+loc_type: region
+longitude: 72.6333
+snippet: Remote Indian Ocean archipelago of coral atolls, palm-fringed islands, and
+  tightly protected reefs off Kerala.
 title: Lakshadweep
 type: location
-loc_type: region
-latitude: 10.5667
-longitude: 72.6333
 ---
 
 Lakshadweep is India's smallest union territory — a scattering of 36 coral atolls, islands, and reefs in the Arabian Sea, roughly 200 to 400 km off the Kerala coast. Of the 36 islands, only 10 are inhabited, and most visitors never hear of the place. This is partly by design: the territory has historically restricted access to protect both its ecology and the culture of its predominantly Muslim population.

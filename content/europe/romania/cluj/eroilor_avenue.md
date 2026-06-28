@@ -7,6 +7,7 @@ snippet: The wide pedestrian-friendly avenue linking Piața Unirii and Piața Av
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 Eroilor Avenue ("Heroes' Avenue") connects Cluj's two great squares — Piața Unirii at the west end and Piața Avram Iancu at the east — and concentrates most of the central shopping and cafes between them. The avenue has been progressively pedestrianised and now bustles with terraces in summer.

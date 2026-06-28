@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Consistorial_de_la_Ci
 latitude: 43.0121
 loc_type: city
 longitude: -7.556
-score: 0.54
+score: 8.11
+snippet: Galician city enclosed by an unbroken Roman wall, recognised by UNESCO as
+  a World Heritage Site.
 title: Lugo
 type: location
 ---

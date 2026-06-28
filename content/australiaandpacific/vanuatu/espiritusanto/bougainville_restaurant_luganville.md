@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Bougainville Restaurant
 type: poi
+score: 5.0
 ---
 
 The most reliable restaurant in Luganville, the Bougainville serves grilled fish, lobster when in season, and a menu that mixes French colonial cooking with local ingredients — a combination that reflects Espiritu Santo's history. The terrace looks out over the harbour, making it a good spot in the evenings when the heat has eased.

@@ -5,8 +5,10 @@ done:
 latitude: 32.9919
 loc_type: city
 longitude: -117.2678
-score: 0.5
+score: 7.46
 title: Solana Beach
+snippet: Small north San Diego coastal city known for bluff-top beaches and laid-back
+  surf culture.
 type: location
 image: solanabeach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Solana_Beach_bluffs.jpg

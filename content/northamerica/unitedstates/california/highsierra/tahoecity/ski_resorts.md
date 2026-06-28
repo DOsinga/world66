@@ -12,6 +12,7 @@ story: >
   that transformed the north shore from a summer retreat for San Francisco elites
   into a year-round resort. The original Olympic Games venue infrastructure is
   still identifiable in the resort's older base area.
+score: 5.8
 ---
 
 Tahoe City's position on the north shore puts it within close reach of some of the best skiing in the United States. Palisades Tahoe (formerly Squaw Valley, host of the 1960 Winter Olympics) is about 15 minutes south of town. Alpine Meadows, one of the most respected intermediate and expert resorts in the region, is directly adjacent. Northstar California is 20 minutes east. Sugar Bowl and Granlibakken — Tahoe's oldest ski resort, dating to the 1930s — are also within easy range.

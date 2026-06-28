@@ -14,6 +14,7 @@ story: >
   kilometres away. The Adnyamathanha people of the region have a name for this view; the
   German colonists who established Wilhelmstal knew it too, which is partly why they built
   their hill station here.
+score: 8.1
 ---
 
 The Irente Viewpoint is the most dramatic outlook in the Western Usambara Mountains, reached by a two to three hour walk from Lushoto through cultivated farmland and patches of remnant forest. The escarpment edge drops abruptly to the plains 900 metres below, and on clear days the views extend to Mount Kilimanjaro on the horizon.

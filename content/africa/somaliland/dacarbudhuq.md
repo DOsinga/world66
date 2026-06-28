@@ -5,7 +5,9 @@ done:
 latitude: 9.85644
 loc_type: city
 longitude: 44.5272
-score: 0.16
+score: 2.77
+snippet: Somaliland highway town between Hargeisa and Berbera, marked by an Omar Kujoog
+  monument.
 title: Dacarbudhuq
 type: location
 ---

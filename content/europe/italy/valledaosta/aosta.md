@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Augustus_in_Aosta_
 latitude: 45.737088
 loc_type: city
 longitude: 7.319665
-score: 0.63
+score: 8.58
 title: Aosta
 type: location
+snippet: Alpine Italian city ringed by passes, with unusually complete Roman gates,
+  walls, and theatre remains.
 ---
 
 Aosta sits at the confluence of the Dora Baltea and Buthier rivers, ringed by mountains and guarded by the passes to [France](/europe/france) through the Mont Blanc tunnel and to [Switzerland](/europe/switzerland) through the Gran San Bernardo. The Romans recognised the strategic value immediately: in 25 BC they founded Augusta Praetoria on a previous Salassi tribal settlement, and what they built has survived remarkably well.

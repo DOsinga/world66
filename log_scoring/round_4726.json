@@ -1,0 +1,200 @@
+{
+  "round": 4726,
+  "timestamp": "2026-06-14T00:36:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 8.5308,
+      "prior_variance": 0.219742,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 5.0505,
+      "prior_variance": 0.102885,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 4.3571,
+      "prior_variance": 0.088101,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.171,
+      "prior_variance": 0.093118,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.5485,
+      "prior_variance": 0.082431,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 0.0267,
+      "prior_variance": 0.098582,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 1.0401,
+      "prior_variance": 0.088601,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": -0.052,
+      "prior_variance": 0.084362,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -0.5862,
+      "prior_variance": 0.105446,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 0.9289,
+      "prior_variance": 0.082727,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 0.5501,
+      "prior_variance": 0.091682,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": 0.3472,
+      "prior_variance": 0.105827,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": -0.7958,
+      "prior_variance": 0.098143,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": 0.6222,
+      "prior_variance": 0.082948,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_score": -0.7215,
+      "prior_variance": 0.082644,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.1464,
+      "prior_variance": 0.096802,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Jiaxing",
+      "path": "asia/china/zhejiang/jiaxing",
+      "prior_score": -3.1466,
+      "prior_variance": 0.099472,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.3605,
+      "prior_variance": 0.084776,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_score": -3.5234,
+      "prior_variance": 0.104399,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.2075,
+      "prior_variance": 0.094603,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.1481,
+      "prior_variance": 0.091128,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -6.6469,
+      "prior_variance": 0.143229,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -5.5013,
+      "prior_variance": 0.104556,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -6.2587,
+      "prior_variance": 0.121223,
+      "prior_n": 15
+    }
+  ]
+}

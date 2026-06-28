@@ -6,6 +6,7 @@ tags:
 - sight
 title: Ceillac
 type: poi
+score: 8.6
 ---
 
 Ceillac sits in its own side valley south of the Guil, more remote and less visited than the main villages. The setting is one of the most photogenic in the park — meadows, a small lake, and three valleys radiating up into the high peaks.

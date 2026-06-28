@@ -10,6 +10,7 @@ tags:
   - seafood
 sources:
   - https://en.wikipedia.org/wiki/Porto_Seguro
+score: 6.6
 ---
 
 One of the most reliable places in the centre of Porto Seguro for traditional Bahian cooking. The *moqueca* here is made in the correct Bahian style — a clay pot, coconut milk, *dendê* palm oil, coriander, and fresh reef fish from the day's catch, served with rice, *pirão* (fish-stock porridge), and *farofa*. The dining room is open-sided and catches the sea breeze; you eat at plastic tables under a thatched roof, which is the right setting for this kind of meal.

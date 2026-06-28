@@ -4,9 +4,14 @@ address: 'Manila Sales Office: 3003C East Tower, Phil Stock Exchange Center, Exc
   Rd Ortigas Metro Manila, Philippines 1605'
 closing_time: 10pm
 email: Wine@Yats-International.com
+latitude: 14.5839
+longitude: 121.0614
 phone: (632) 637-5019   0917-520-4393
+score: 2.5
 tags:
 - bars_and_cafes
+- bar
+- wine
 title: Yats Wine Cellars Champagne Brunch Philippines
 type: poi
 url: www.YatsWineCellars.com

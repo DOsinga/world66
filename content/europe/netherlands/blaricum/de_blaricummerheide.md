@@ -7,6 +7,7 @@ tags:
 - nature
 title: De Blaricummerheide
 type: poi
+score: 8.0
 ---
 
 De Blaricummerheide is a heathland nature reserve immediately west and south of Blaricum, part of the broader Goois Natuurreservaat. The landscape is classic Dutch Gooi heathland — open expanses of heather, scattered birch woodland, and sandy paths — with views across the polders toward the Eemmeer.

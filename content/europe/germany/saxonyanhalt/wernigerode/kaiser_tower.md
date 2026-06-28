@@ -8,6 +8,7 @@ tags:
   - sight
   - walking
 snippet: Observation tower on the Armeleuteberg hill south of town
+score: 6.8
 ---
 
 The Kaiserturm (Kaiser Tower) is an observation tower built in 1902 on the Armeleuteberg hill, about 2 km south of the Wernigerode town centre. The tower stands on a 478-metre summit and was erected to mark the completion of the Brocken railway. From the top, on clear days, you can see the Brocken to the south-west and the flatlands of Saxony-Anhalt stretching north.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Douz,_Tunisia_-_panoramio_
 latitude: 33.45711
 loc_type: city
 longitude: 9.024983
-score: 0.46
+score: 7.57
+snippet: Saharan-edge Tunisian town used as the base for camel treks into the Grand
+  Erg Oriental
 title: Douz
 type: location
 ---

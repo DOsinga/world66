@@ -7,6 +7,7 @@ tags:
 - sight
 title: Domvorhalle
 type: poi
+score: 7.2
 ---
 
 A small Romanesque vestibule on the lawn opposite the Kaiserpfalz is all that survives of the great imperial cathedral founded by Henry III in 1051. The building rivalled Speyer in scale for several centuries, then fell into structural ruin and was pulled down between 1820 and 1822 by a city council short of money. Engravings of the lost building hang in the porch today.

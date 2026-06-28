@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 35.5175
+loc_type: region
 longitude: -86.5804
 score: 0.45
+snippet: Long Appalachian-to-Mississippi state where Nashville country, Memphis blues,
+  and Smoky Mountain landscapes define the trip.
 title: Tennessee
 type: location
-loc_type: region
 ---
 
 Tennessee stretches from the Great Smoky Mountains in the east to the Mississippi River in the west, and its three grand divisions feel like different states entirely. Each has its own city, its own music, and its own character.

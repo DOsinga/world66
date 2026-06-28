@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "England's longest lake, 17 km of fjord-like water through the central Lakes"
 story: "Windermere is the only English lake to have had a Bill of Parliament passed specifically to limit speedboats. After decades of complaints about noise and waterskiing accidents, a 10-knot (about 11 mph) speed limit was imposed in 2005 — a fight that pitted local Quakers and the National Trust against the powerboat lobby for nearly twenty years."
+score: 9.5
 ---
 
 Windermere — a ribbon lake gouged out by Ice Age glaciers — is the longest natural body of water in England, stretching about 17 kilometres from Ambleside in the north to Newby Bridge at the southern end. At its widest it is just under 1.5 kilometres across, and at its deepest around 65 metres. Eighteen islands dot the lake, the largest being **Belle Isle**, the only one in England with a house actually inhabited on it.

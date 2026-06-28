@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gilgit_Northern_Pakistan.j
 latitude: 35.92081
 loc_type: city
 longitude: 74.314044
-score: 0.46
+score: 7.17
+snippet: Northern Pakistan transport hub in a dry mountain valley where Karakoram
+  caravan routes met.
 title: Gilgit
 type: location
 ---

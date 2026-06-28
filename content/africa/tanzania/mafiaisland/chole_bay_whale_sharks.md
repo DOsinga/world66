@@ -9,6 +9,7 @@ latitude: -7.8699
 longitude: 39.7550
 story: >
   Mafia Island's whale sharks are unusual in that they are resident, not migratory — the same individuals return to Chole Bay year after year and have been identified and catalogued by researchers using their spot patterns. Diving next to an animal that is 10 metres long and feeds entirely on plankton is an experience that overturns every instinct you have about the ocean.
+score: 9.3
 ---
 
 Chole Bay, the deep-water anchorage on Mafia's eastern side, is one of the best places in the Indian Ocean to swim with whale sharks. The sharks are present in the bay from roughly October to March, feeding on the dense plankton that concentrates in the sheltered water. Unlike many whale shark destinations, Mafia's population includes some large adults — 10 metres and more — and the snorkelling is often in remarkably clear, calm conditions.

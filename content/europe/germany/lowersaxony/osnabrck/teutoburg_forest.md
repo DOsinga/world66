@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 52.1500
 longitude: 8.2000
+score: 6.7
 ---
 
 The Teutoburg Forest — Teutoburger Wald — is the ridge of wooded sandstone hills that runs southeast of Osnabrück, reaching up to four hundred metres and offering good walking and cycling through well-maintained trails and varied landscape. The forest is criss-crossed with marked paths, and the high ridge of the Hermannsweg provides a long-distance trail with views north over the North German Plain. It is an easy escape from the city for an afternoon or a full day.

@@ -13,6 +13,7 @@ story: >
   Playa de la Tejita are rated among the best windsurfing beaches in Europe,
   with reliable trade winds that blow 300 days a year from the northeast.
   The volcanic plug of the Montana Roja rises directly behind the beach.
+score: 7.2
 ---
 
 El Médano is a small town on Tenerife's southeast coast with a character very different from the resort strip further west. The wind that makes it uncomfortable to sit under an umbrella on the beach makes it perfect for windsurfing and kitesurfing: the constant Saharan trade winds and the broad sandy beach draw practitioners from across Europe and beyond. The town itself is low-rise and relaxed, with a good selection of seafood restaurants and a younger, more active crowd than the resort towns.

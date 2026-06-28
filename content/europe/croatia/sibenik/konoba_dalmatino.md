@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.2
 ---
 
 A small konoba in a stepped lane off the cathedral square, with stone walls inside and a few outdoor tables on the steps. The menu is straight Dalmatian — black risotto with cuttlefish, octopus salad, grilled sea bass, lamb under the bell — done well and at fair prices for the location.

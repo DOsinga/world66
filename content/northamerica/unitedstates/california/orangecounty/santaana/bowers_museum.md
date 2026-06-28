@@ -9,6 +9,7 @@ tags:
 - museum
 title: Bowers Museum
 type: poi
+score: 8.4
 ---
 
 Quietly one of the best museums in Orange County, founded in 1936 on land left to the city by the Bowers family. Permanent collections of Native American, Pacific Islander, pre-Columbian and Asian art; an ongoing record of major travelling exhibitions that have included the Terracotta Warriors, Silk Road treasures and Warhol. The adjacent **Kidseum** runs hands-on workshops for children.

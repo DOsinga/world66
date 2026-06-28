@@ -8,6 +8,7 @@ latitude: 26.5106
 longitude: -78.6405
 story: >
   The programme launched in 1987 and was among the first of its kind anywhere in the world to allow non-divers to interact with dolphins in near-natural open-water conditions rather than a pool. The dolphins are Atlantic bottlenose dolphins that live in the open waters offshore but return voluntarily to the facility — they are not kept in tanks.
+score: 6.3
 ---
 
 The Dolphin Experience at UNEXSO is the most popular single attraction in Freeport, and for many visitors the reason they came. Atlantic bottlenose dolphins that range freely in the open sea around Grand Bahama are trained to interact with humans at the UNEXSO facility on the Port Lucaya waterfront.

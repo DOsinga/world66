@@ -8,6 +8,7 @@ tags:
   - restaurant
   - seafood
 address: Near Himeji Station
+score: 6.2
 ---
 
 Anago — saltwater eel, distinct from the more famous unagi — is the dish you eat in Himeji. Takeda is one of the long-standing specialists near the station, grilling eel over charcoal and serving it over rice with a sweet soy glaze that is rather lighter than its unagi cousin.

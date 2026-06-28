@@ -1,11 +1,13 @@
 ---
 latitude: 1.2836
 longitude: 103.8444
+score: 6.9
 snippet: Annual Chinese New Year light display along festive streets
 tags:
 - things_to_do
 - sight
 - sights
+- chinatown
 title: Chinatown Light-Up
 type: poi
 ---

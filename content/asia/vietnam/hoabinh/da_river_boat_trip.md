@@ -9,6 +9,7 @@ longitude: 105.3239
 sources:
   - https://rentabikevn.com/hoa-binh-lake-loop/
   - https://north-vietnam.com/hoa-binh-lake-in-the-north-of-vietnam/
+score: 7.4
 ---
 
 The Da River (Sông Đà), known in older sources as the Black River, is the principal waterway of northwestern Vietnam and the river that the Hoa Binh Dam harnesses. Below the dam it runs fast and clear through limestone gorges; above it, it has been converted into a 200-kilometre reservoir of remarkable beauty. Boat trips from near the dam let you travel through the drowned landscape of the old valley, past forested karst islands and stilted fishing villages.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.0318
 longitude: -43.4898
+score: 8.7
 ---
 
 Prainha — "little beach" — is one of the most beautiful and protected beaches near Rio de Janeiro, sitting in a small cove flanked by Atlantic forest and accessible only by a single road through a nature reserve. The combination of controlled access and natural surroundings makes it one of the few beaches near the city that still feels genuinely wild.

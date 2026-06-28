@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 24.1714
 longitude: -76.4419
+score: 6.4
 ---
 
 The yacht club is the social heart of Staniel: a wooden dock-side restaurant with a bar that fills at sunset, fed by visiting yachties, pilots in for the weekend, and locals on a Friday night. The menu does conch (cracked, fried, salad), grouper fingers, lobster in season, and the obligatory burger.

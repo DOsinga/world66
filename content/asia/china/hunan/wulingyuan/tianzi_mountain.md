@@ -8,6 +8,7 @@ latitude: 29.3869
 longitude: 110.4883
 story: >
   Tianzi Mountain is named for Xiang Dakun, a Tujia leader who led a rebellion against the Ming dynasty in the 15th century. After the rebellion was suppressed, Xiang retreated to this mountain, where he died. The Tujia minority still venerate him as a hero; Tianzi means "Son of Heaven," a title his followers gave him in defiance of the dynasty that crushed the uprising.
+score: 8.9
 ---
 
 Tianzi Mountain occupies the northern section of the Wulingyuan World Heritage area, reached by cable car from the valley or via internal park buses from Wulingyuan. At an elevation of around 1,250 metres it provides some of the highest viewpoints in the park, and the particular formation of columns here is denser than at Yuanjiajie — the effect from the main viewpoints is of an ocean of stone peaks stretching to every horizon.

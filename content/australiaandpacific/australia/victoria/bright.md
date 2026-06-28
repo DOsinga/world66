@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bright,_Vic_autumn.jpg
 latitude: -36.7285
 loc_type: city
 longitude: 146.9608
-score: 0.54
+score: 8.0
+snippet: Alpine Victorian town in the Ovens Valley, famous for autumn colour and mountain
+  access.
 title: Bright
 type: location
 ---

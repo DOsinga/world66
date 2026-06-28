@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alkazar_Park_(lake)_-_Lari
 latitude: 39.638309
 loc_type: city
 longitude: 22.416071
-score: 0.44
+score: 6.94
+snippet: Inland Thessalian capital with ancient theatres, Ottoman traces, and a lively
+  working-city university rhythm.
 title: Larissa
 type: location
 ---

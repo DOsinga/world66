@@ -1,20 +1,22 @@
 ---
-title: Cape Verde
-type: location
-latitude: 15.94
-longitude: -23.96
 image: capeverde.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg
-image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:HenriqueRosaFotografia"
   title="User:HenriqueRosaFotografia">HenriqueRosaFotografia</a>
-quick_facts:
-  Population: "600,000"
-  Language: "Portuguese (Creole spoken)"
-  Islands: "10"
-  Diaspora: Larger than population
-score: 0.62
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg
+latitude: 15.94
 loc_type: country
+longitude: -23.96
+quick_facts:
+  Diaspora: Larger than population
+  Islands: '10'
+  Language: Portuguese (Creole spoken)
+  Population: 600,000
+score: 0.59
+snippet: Atlantic archipelago of volcanic Cape Verdean islands, where morna music
+  and sodade carry Portuguese-African history.
+title: Cape Verde
+type: location
 ---
 
 Cape Verde is an archipelago of ten volcanic islands scattered in the Atlantic Ocean, 500 kilometers off the west coast of Africa. It is a place where African warmth meets Portuguese colonial history, where music drifts out of every bar, and where the landscape shifts from Saharan desert to lush green valleys in the space of a short ferry ride. The Cape Verdeans call their particular brand of longing *sodade* -- a cousin of Portuguese *saudade* -- and you will hear it in every note of the morna music that Cesaria Evora made famous.

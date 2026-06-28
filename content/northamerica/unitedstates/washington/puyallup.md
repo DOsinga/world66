@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-22'
 latitude: 47.184901
 loc_type: city
+snippet: Washington valley city below Mount Rainier, known for its state fair and
+  agricultural roots
 longitude: -122.29214
-score: 0.33
+score: 6.25
 title: Puyallup
 type: location
 ---

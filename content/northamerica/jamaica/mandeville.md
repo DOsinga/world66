@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Mandeville-courthouse.jpg
 latitude: 18.0418
 loc_type: city
 longitude: -77.5044
-score: 0.47
+score: 6.99
 title: Mandeville
+snippet: Cool highland town in Manchester parish, known for its English character
+  and central green.
 type: location
 ---
 

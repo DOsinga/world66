@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 snippet: Ramsar-listed estuary with tens of thousands of waterbirds
+score: 7.8
 ---
 
 The shallow estuary just east of Busselton is one of the most important waterbird sites in Western Australia and a Ramsar-listed wetland of international significance. In good years over 30,000 birds gather here — black swans, hardheads, banded stilts, sharp-tailed sandpipers fresh in from Siberia.

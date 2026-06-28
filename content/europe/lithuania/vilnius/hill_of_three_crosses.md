@@ -13,6 +13,7 @@ tags:
   - things_to_do
   - sight
   - landmark
+score: 7.8
 ---
 
 The Hill of Three Crosses stands just east of Gediminas Hill and is the most recognisable viewpoint in Vilnius. Three white concrete crosses rise from the hilltop, visible from much of the old town. The legend behind them is not firmly established — one version says seven Franciscan monks were martyred here by pagan Lithuanians in the 14th century; another places the number at fourteen — but the site has been a memorial since at least the 17th century.

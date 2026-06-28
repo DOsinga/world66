@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.1
 ---
 
 Deichstrasse is the only intact 17th- and 18th-century merchants' street left in central Hamburg — a single line of narrow gabled houses backing onto the Nikolaifleet canal, the original waterway of the medieval port. The Great Fire of Hamburg started here on the night of 5 May 1842 in a tobacco-roller's workshop and went on to consume a third of the inner city; the Deichstrasse itself, ironically, survived the fire largely intact.

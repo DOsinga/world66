@@ -11,6 +11,7 @@ tags:
 - road
 title: Million Dollar Highway
 type: poi
+score: 9.0
 ---
 
 Million Dollar Highway fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

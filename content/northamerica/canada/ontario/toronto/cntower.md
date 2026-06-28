@@ -11,6 +11,7 @@ tags:
 title: CN Tower
 type: poi
 url: https://www.cntower.ca
+score: 7.6
 ---
 
 The CN Tower rises 553 metres above downtown Toronto, impossible to miss from just about anywhere in the city. For decades it held the title of world's tallest free-standing structure, and it remains Toronto's most recognizable landmark.

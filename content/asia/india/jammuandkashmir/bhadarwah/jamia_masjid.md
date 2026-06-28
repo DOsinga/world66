@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The Markazi Jamia Masjid is the principal Friday mosque of Bhadarwah, located in the old part of town near the main bazaar. The mosque has served as the religious and social centre of the town's Muslim community for generations and continues to do so, with congregations that fill the courtyard on Fridays.

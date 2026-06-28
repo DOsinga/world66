@@ -6,6 +6,7 @@ tags:
 - museum
 title: Indo-Portuguese Museum
 type: poi
+score: 7.2
 ---
 
 The Indo-Portuguese Museum, housed in the Bishop's House compound near Fort Kochi, covers the Catholic heritage of the region with a collection of processional crosses, vestments, silver religious objects, and documents spanning four centuries. It's a specialist museum but well-presented, and it illuminates an aspect of Kochi's history — the deep interweaving of Portuguese colonial ambition and Kerala Christian culture — that is easy to miss if you only visit the obvious sights.

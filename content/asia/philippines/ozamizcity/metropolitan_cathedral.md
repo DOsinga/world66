@@ -15,6 +15,7 @@ story: >
   behind the Cultural Center of the Philippines in Manila — to design the replacement.
   Locsin's trademark floating mass aesthetic, rare to see outside Manila, makes this
   cathedral one of the more architecturally significant buildings in all of Mindanao.
+score: 7.4
 ---
 
 The Metropolitan Cathedral of the Immaculate Conception is the seat of the Archdiocese of Ozamis and one of the most architecturally distinguished religious buildings in northern Mindanao. The current structure was designed by Leandro Locsin, the National Artist for Architecture best known for his Brutalist masterworks in Manila, and it shows the same boldness and spatial confidence that characterises his other commissions.

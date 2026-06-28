@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Kizuna Bridge
 type: poi
+score: 5.8
 ---
 
 The Kizuna Bridge — kizuna means "bonds" or "friendship" in Japanese — was when it opened in December 2001 the first permanent bridge anywhere across the Mekong in Cambodia, and at 1,360 metres remains one of the longer river crossings in the country. It was built with a $56-million grant from Japan in what was, after the long isolation of the Khmer Rouge years, a hugely symbolic gesture of post-conflict reconstruction.

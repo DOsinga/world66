@@ -9,6 +9,7 @@ tags:
   - theatre
 sources:
   - https://en.wikipedia.org/wiki/Caesarea_in_Mauretania
+score: 7.6
 ---
 
 One of the more substantial Roman remains visible in the town itself. The theatre was carved into the hillside in the Roman fashion and could accommodate a large audience. Much of the seating has been lost or buried beneath later construction, but the curved outline of the cavea is still legible, and some of the stage structure survives.

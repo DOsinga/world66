@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 62.0274
 longitude: 129.7287
+score: 5.6
 ---
 
 Mahtal is a more casual sister to the high-end Yakut places: a friendly room serving classic Sakha cooking and Russian comfort food at gentler prices. The menu has the standard line-up of stroganina, horse dishes, and reindeer broth, but also Russian pelmeni, blini, and salads for those who need a break.

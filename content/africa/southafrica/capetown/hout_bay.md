@@ -2,6 +2,7 @@
 category: Town
 latitude: -34.05
 longitude: 18.3489
+score: 7.5
 scores:
   activities: 0.6003
   sightseeing: 0.6079
@@ -9,6 +10,7 @@ snippet: Fishing village suburb with a working harbour and seal-watching trips
 tags:
 - things_to_do
 - day_trips
+- southern_peninsula
 title: Hout Bay
 type: poi
 ---

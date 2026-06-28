@@ -8,6 +8,7 @@ latitude: 9.3105
 longitude: 42.128
 sources:
   - https://en.wikipedia.org/wiki/Nur_ibn_Mujahid
+score: 6.4
 ---
 
 The bright green-painted tomb of Emir Nur ibn Mujahid stands inside the walled city and marks the burial place of the 16th-century ruler who built Harar's famous walls. Nur was also known for defeating the Abyssinian Emperor Galawdewos in battle — a victory that consolidated Harar as an Islamic power in the Horn of Africa.

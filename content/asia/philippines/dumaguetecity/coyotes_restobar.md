@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Coyotes Resto-Bar
 type: poi
+score: 4.3
 ---
 
 A restobar about 3 km south of Rizal Boulevard along the South Highway in Banilad. Live bands play on Friday and Saturday evenings, followed by a DJ set that keeps things going late. The menu covers Filipino staples and a few international options — nothing fancy, but solid enough after a few San Miguels. Happy hour runs 2--6 pm, and they open daily from 10 am. Worth the tricycle ride if you want something livelier than the Boulevard bars.

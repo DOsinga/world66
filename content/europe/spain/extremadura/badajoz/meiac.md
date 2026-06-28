@@ -10,6 +10,7 @@ tags:
 - museum
 title: MEIAC
 type: poi
+score: 7.6
 ---
 
 The Museo Extremeño e Iberoamericano de Arte Contemporáneo was built into the shell of a prison used during the Franco regime and opened in 1995. The collection focuses on Spanish, Portuguese, and Latin American contemporary art from the 1980s onward, displayed across four floors and a semi-basement. Major works by Juan Muñoz, Cristina Iglesias and the Portuguese painter Júlio Pomar sit alongside changing exhibitions of younger artists from across the Iberoamerican world.

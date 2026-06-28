@@ -1,10 +1,6 @@
 ---
-address: Süderfischer Straße 3/ 24937 Flensburg
-latitude: 54.783915
-longitude: 9.440038
-phone: 0461-22539
 title: Eating Out
-type: poi
+type: section
 ---
 
 Flensburg offers a variety of restaurants - regional as well as international. You won't find anything really exotic though. If it's not German, it's probably Italian, Greek or Yugoslavian.

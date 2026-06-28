@@ -8,6 +8,7 @@ latitude: 35.2153
 longitude: -111.6671
 story: >
   The Museum of Northern Arizona was founded in 1928 by Harold Colton and Mary-Russell Ferrell Colton, a scientist and an artist who moved west from Philadelphia and became the most important chroniclers of Hopi and Navajo culture in the 20th century. Mary-Russell's friendship with Hopi artists helped establish the Hopi Arts and Crafts Guild and the now-famous Hopi Market held at the museum every summer.
+score: 8.5
 ---
 
 The Museum of Northern Arizona, set in a handsome stone building north of downtown on the road toward Humphreys Peak, is one of the finest regional natural history and anthropology museums in the American West. Its permanent collections cover geology, biology, and the indigenous cultures of the Colorado Plateau — Hopi, Navajo, Pai, and Zuni — with genuine depth and care.

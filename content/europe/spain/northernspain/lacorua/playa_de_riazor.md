@@ -8,6 +8,7 @@ tags:
   - surfing
 latitude: 43.3720
 longitude: -8.4175
+score: 7.1
 ---
 
 Playa de Riazor and its continuation Playa del Orzán form a long urban beach right in the centre of La Coruña, backed by apartment buildings on the Ensanche seafront. The two beaches together stretch about a kilometre and are popular with swimmers in summer and surfers year-round when the Atlantic swell comes in.

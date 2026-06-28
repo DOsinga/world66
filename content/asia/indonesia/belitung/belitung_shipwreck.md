@@ -11,6 +11,7 @@ story: >
   The dhow that sank here around 830 AD had sailed from Guangzhou loaded with over 60,000 pieces of Tang dynasty ceramics — bowls, ewers, and jars packed in tight bundles of straw. Among the cargo were four extraordinarily rare gold and silver pieces, including a gold cup decorated with flying geese. The ship's crew would have set off on a journey of around 6,000km across open ocean, navigating by stars. We know almost nothing about them individually.
 sources:
   - https://en.wikipedia.org/wiki/Belitung_shipwreck
+score: 7.8
 ---
 
 In 1998, fishermen off the coast of Belitung accidentally discovered the wreck of a 9th-century Arab dhow at a depth of about 17 metres. The ship had been sailing from China to Arabia around 830 AD when it sank, carrying the largest cache of Tang dynasty cargo ever found at sea: over 60,000 ceramic pieces, along with gold and silver objects, bronze mirrors, and a stone mould for making lead ingots.

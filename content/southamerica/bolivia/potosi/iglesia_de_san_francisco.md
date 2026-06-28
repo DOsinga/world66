@@ -14,6 +14,7 @@ story: >
   immediately after the miners, understanding that wherever silver went, the Church
   followed. The convent library still holds colonial manuscripts that have barely
   been studied.
+score: 8.2
 ---
 
 The Iglesia de San Francisco is among the oldest churches in Potosí, founded by Franciscan friars in the mid-16th century and rebuilt in its current form in the 18th century. The stone facade blends baroque ornamentation with indigenous artistic elements — the hybrid style known as mestizo or Andean baroque — and the interior is particularly rich, with elaborately carved wooden choir stalls and a collection of colonial paintings and silver objects.

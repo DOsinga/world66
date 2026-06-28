@@ -7,6 +7,7 @@ tags:
 snippet: "Southern Hemisphere's leading motorcycle museum, adjacent to Transport World"
 latitude: -46.4098
 longitude: 168.3462
+score: 8.3
 ---
 
 Classic Motorcycle Mecca sits next to Bill Richardson Transport World and is included on the combined museum ticket. The collection covers motorcycle history from the pioneering era through to the modern day, with particular strength in British marques — Triumph, BSA, Norton, Vincent — and racing machines.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Tower Hill
 latitude: 8.4867
 longitude: -13.2339
+score: 4.7
 ---
 
 The State House is the official residence and office of the President of Sierra Leone and sits on State Avenue at the top of Tower Hill. The earliest parts of the building were colonial fortifications protecting the harbour below; the modern complex includes ceremonial halls, the cabinet room, and the president's offices.

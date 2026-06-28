@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/16782093@N03/9467833224
 latitude: 52.2241
 loc_type: city
 longitude: 5.1719
-score: 0.42
+score: 6.73
+snippet: Dutch media city in the Gooi, with Dudok modernism set between heathland
+  and forest.
 title: Hilversum
 type: location
 ---

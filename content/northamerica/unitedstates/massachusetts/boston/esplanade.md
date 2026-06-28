@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Esplanade
 type: poi
+score: 8.5
 ---
 
 A three-mile parkland along the Charles River between the Longfellow and Harvard bridges, the Esplanade is one of Boston's best open spaces. Joggers, cyclists, and stroller-pushers share the tree-lined paths year-round, but the park really comes alive in summer when the Hatch Shell hosts free outdoor concerts — most famously the Boston Pops Fourth of July show, which draws half a million people.

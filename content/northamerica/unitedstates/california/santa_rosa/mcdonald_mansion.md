@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A grand 1879 mansion on McDonald Avenue, the city's most photographed Victorian street.
+score: 5.6
 ---
 
 The McDonald Mansion, also known as Mableton, was built in 1879 for Colonel Mark McDonald, the Santa Rosa businessman who created the wealthy residential district that now bears his name. It is a private home and is not open to visitors, but the house and the avenue of palm trees in front of it are visible from the street and worth the short walk from downtown.

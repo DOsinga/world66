@@ -8,6 +8,7 @@ snippet: The Carmelite convent where Thérèse lived and died — she is buried 
 latitude: 49.1478
 longitude: 0.2258
 story: "Thérèse entered the Carmel at fifteen and died there of tuberculosis at twenty-four. In the last eighteen months of her life, while seriously ill, she wrote the autobiography that became 'Story of a Soul' — one of the most widely translated books of the 20th century. The manuscript was found after her death and published by her sister; within decades it had been printed in over 50 languages."
+score: 7.2
 ---
 
 The Carmelite convent in Lisieux is where Thérèse Martin lived from 1888 until her death in 1897 at age twenty-four. The chapel attached to the convent is open to visitors and contains her tomb, along with the tombs of her father Louis Martin and her sisters who also entered religious life here. The convent building itself is still an active community and is not generally open.

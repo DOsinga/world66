@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 35.6060
 longitude: 103.2170
+score: 8.4
 ---
 
 The old bazaar streets around the central mosque are the living heart of Linxia's commercial and cultural identity. Stalls sell everything from prayer beads and Qurans to spices, dried fruits, handmade knives, and the elaborately embroidered caps worn by Hui men. The smell of lamb roasting on skewers and flatbreads baking in clay ovens fills the air. Walking here in the late afternoon, when traders are closing up and families are out in numbers, gives a strong sense of why this city has been described as a piece of Central Asia dropped into the Chinese northwest.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The unusual 1980 Catholic basilica with a soaring tent-shaped concrete roof.
+score: 6.6
 ---
 
 The basilica is impossible to miss: a concrete A-frame the height of a small church spire, sloping down on both sides almost to the ground, in the centre of Nuku'alofa just north of the Royal Tombs. The design was meant to echo a traditional Tongan thatched roof; opinions on whether it succeeds vary. Inside the space is single, lofty, and unusually quiet.

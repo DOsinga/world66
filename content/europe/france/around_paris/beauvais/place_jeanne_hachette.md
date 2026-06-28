@@ -17,6 +17,7 @@ story: >
   The siege failed. Charles lifted it after a month. Louis XI, grateful, granted
   Beauvais women the right to walk ahead of men in processions — a privilege
   still observed in the annual Fête de Jeanne Hachette each June.
+score: 5.8
 ---
 
 The main square of Beauvais is named after the city's most celebrated figure: Jeanne Hachette, the 15th-century heroine who helped defend the city against the Burgundian siege of 1472. Her bronze statue, hatchet raised, stands at the centre of the square and is the focus of the city's annual festival each June.

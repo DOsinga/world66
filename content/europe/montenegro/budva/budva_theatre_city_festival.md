@@ -8,6 +8,7 @@ tags:
   - sight
   - theatre
 snippet: Open-air theatre festival running since the 1980s, staged within the old town walls
+score: 6.8
 ---
 
 The Budva Theatre City Festival (Grad Teatar Budva) has been running every summer since 1987 and is one of the more significant cultural events on the Adriatic coast. The festival uses the old town itself as its stage — performances take place in the citadel courtyard, against the town walls, and in the squares between the old stone buildings. The setting alone makes it worth attending even if your knowledge of Montenegrin theatre is limited.

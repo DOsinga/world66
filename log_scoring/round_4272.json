@@ -1,0 +1,200 @@
+{
+  "round": 4272,
+  "timestamp": "2026-06-13T23:59:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 11.0977,
+      "prior_variance": 0.255347,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 5.5946,
+      "prior_variance": 0.101657,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.0476,
+      "prior_variance": 0.106088,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 1.6979,
+      "prior_variance": 0.102961,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 5.036,
+      "prior_variance": 0.125632,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 4.5088,
+      "prior_variance": 0.110276,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 3.7727,
+      "prior_variance": 0.115653,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 3.9652,
+      "prior_variance": 0.119245,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 2.5258,
+      "prior_variance": 0.106385,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 2.3994,
+      "prior_variance": 0.100634,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 2.6071,
+      "prior_variance": 0.11781,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 2.2466,
+      "prior_variance": 0.110664,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_score": 1.3517,
+      "prior_variance": 0.104181,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.99,
+      "prior_variance": 0.097598,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": 0.0591,
+      "prior_variance": 0.103337,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -0.6018,
+      "prior_variance": 0.097682,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -1.2157,
+      "prior_variance": 0.104027,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.801,
+      "prior_variance": 0.107226,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -1.5397,
+      "prior_variance": 0.101497,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -2.1881,
+      "prior_variance": 0.098834,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.039,
+      "prior_variance": 0.110621,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -2.3693,
+      "prior_variance": 0.096245,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -7.6961,
+      "prior_variance": 0.182532,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -7.6145,
+      "prior_variance": 0.209078,
+      "prior_n": 13
+    }
+  ]
+}

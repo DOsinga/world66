@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.9096
 longitude: -77.0434
+score: 7.8
 ---
 
 Dupont Circle is the neighbourhood that Washington's intellectuals, diplomats, and gay community have claimed as their own for half a century. The circular park at its centre — one of the few genuinely sociable public spaces in a city full of grand but empty plazas — is surrounded by bars, restaurants, bookshops, and embassies. The chess players who occupy the park's tables are a fixture.

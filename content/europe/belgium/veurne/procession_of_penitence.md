@@ -9,6 +9,7 @@ latitude: 51.0724
 longitude: 2.6618
 snippet: Annual penitents' procession through the old town, held since 1644
 story: "The procession was founded in 1644 as a vow during a plague outbreak. The penitents — known as 'boetelingen' — walk barefoot in dark hooded robes, dragging crosses, and accompany a series of biblical tableaux through the town. Many are local; others come back year after year to participate, sometimes for generations within a single family."
+score: 8.0
 ---
 
 On the last Sunday of July, Veurne stages the Boeteprocessie — a sombre procession of hooded penitents, often in their hundreds, carrying wooden crosses through the streets of the old town. It is one of the oldest continuous Catholic processions in the Low Countries, in unbroken observance since 1644, and is held in conjunction with tableaux vivants depicting the Passion.

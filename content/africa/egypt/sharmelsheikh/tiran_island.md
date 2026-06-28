@@ -8,6 +8,7 @@ tags:
   - sight
   - diving
 snippet: Four major reefs sit in the narrow strait between Sinai and Tiran Island, world-class drift dives.
+score: 8.7
 ---
 
 The Strait of Tiran is a narrow channel of deep water between the Sinai mainland and Tiran Island, only about 5 km wide. Through this gap pours a constant current that feeds the four big reefs — Jackson, Woodhouse, Thomas, and Gordon — that rise from the seabed in a line down the middle of the strait. The combination of clear water, current, and steep wall produces some of the most reliable drift diving in the Red Sea, with regular sightings of large pelagics including hammerhead sharks and the occasional whale shark.

@@ -1,6 +1,7 @@
 ---
+score: 2.8
 title: Things to do in Peterhead
-type: poi
+type: section
 url: www.peterheadgolfclub.co.uk
 ---
 

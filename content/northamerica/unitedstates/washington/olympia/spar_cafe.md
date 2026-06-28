@@ -8,6 +8,7 @@ tags:
 title: The Spar Cafe
 type: poi
 snippet: 1935 diner and saloon, an Olympia institution
+score: 7.1
 ---
 
 The Spar opened in 1935 as a loggers' diner and saloon, and has continued in roughly the same form ever since. The interior — long wooden bar, leather booths, original signage, cigar humidor — is largely unchanged. The crowd mixes state employees, lumber workers, university students and tourists.

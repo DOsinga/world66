@@ -7,6 +7,7 @@ tags:
   - family
 latitude: 39.4598
 longitude: -0.3580
+score: 6.1
 ---
 
 A 70-metre-long fiberglass statue of Gulliver, lying on his back in the Turia gardens, with his clothes, hair, and ropes recast as slides, ladders, and ramps so that children climbing on him become Lilliputians. Built in 1990 and somehow still in service, it is one of the great playgrounds of Europe and one of those Valencian things that feels like it shouldn't exist and is wonderful that it does.

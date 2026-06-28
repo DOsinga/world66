@@ -4,16 +4,17 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 56.1231
-longitude: -3.9170
-sources:
-  - https://en.wikipedia.org/wiki/Cambuskenneth_Abbey
+  - architecture
+latitude: 56.1232
+longitude: -3.9177
+snippet: The ruins of an Augustinian abbey in a meadow across the Forth, burial place of James III
 story: >
-  Cambuskenneth Abbey is the burial place of James III of Scotland and his queen, Margaret of Denmark, killed at the Battle of Sauchieburn in 1488. James was deposed in a rebellion led by his own son — who became James IV — and died fleeing the battlefield, reportedly killed by an unknown assailant posing as a priest. His burial here was largely forgotten until the nineteenth century, when Queen Victoria ordered a proper memorial be placed over the tomb.
+  James III was killed in 1488 at the nearby Battle of Sauchieburn, fighting against rebel nobles led by his own teenage son, the future James IV. The new king is supposed to have spent the rest of his life in mortified guilt, wearing an iron belt that he tightened by one link each year as penance. He buried his father at Cambuskenneth, which had been the king's favoured monastery, and built a tomb beside the high altar. The original tomb was destroyed at the Reformation; the present monument was put up by Queen Victoria in 1865 when the medieval graves were rediscovered during excavation.
+score: 7.3
 ---
 
-Cambuskenneth Abbey stands in a loop of the River Forth a short walk northeast of Stirling, its solitary bell tower — the only substantial remnant of the original complex — a distinctive landmark in the flat haugh. The abbey was founded in 1147 by David I and served as an Augustinian house of some importance; Scottish parliaments were held here, and Robert the Bruce called an assembly here after Bannockburn. The main buildings were largely destroyed during the Reformation, but the detached bell tower of the fourteenth century has survived remarkably intact.
+Cambuskenneth Abbey was founded in 1140 by David I as an Augustinian house, and grew into one of the wealthiest religious foundations in Scotland thanks to a string of royal grants and the agricultural land in the loop of the River Forth on which it sits. Robert the Bruce held a parliament here in 1326, and the abbey was a regular halt for the medieval Scottish court travelling between Edinburgh and Perth.
 
-The tower can be climbed via a steep interior staircase, and the views from the top take in the meander of the Forth, the Wallace Monument on its crag, and the castle hill. The abbey grounds are managed by Historic Environment Scotland and are open throughout the year; admission to the tower is charged in season.
+Almost nothing of the abbey church survives above foundation level, but the freestanding 13th-century campanile — the only detached medieval bell tower in Scotland — is intact and atmospheric. The tomb of James III and his queen Margaret of Denmark sits in the open air beside the foundations of the choir.
 
-The site is about a kilometre from the town centre, accessible by a pleasant walk along the riverside path that follows the Forth. An interesting addition to a Stirling day that combines well with the Wallace Monument on the same side of the river.
+The site is across the Forth on the east bank, reached by a 25-minute walk from the Stirling Old Bridge or a short drive via Causewayhead. It is free to visit and almost always quiet. Allow an hour, or longer if you bring a picnic.

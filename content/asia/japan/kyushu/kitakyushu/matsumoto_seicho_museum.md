@@ -12,6 +12,7 @@ story: Matsumoto Seicho (1909–1992) was one of Japan's most prolific crime wri
   literature. His novel "Points and Lines" (Ten to Sen), in which an alibi involving
   train timetables is central to the plot, is considered the work that made train
   schedules a standard element of Japanese mystery fiction.
+score: 7.0
 ---
 
 The Matsumoto Seicho Memorial Museum in the castle park commemorates Kokura's most famous literary son — the crime novelist who sold over 500 million books in Japan and is still widely read today. The museum covers his life, working methods, manuscripts, and the social themes he explored in his fiction, which often focused on corruption, class, and the dark side of postwar Japan's rapid economic growth.

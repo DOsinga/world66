@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - rafting
+score: 8.7
 ---
 
 A flat-water canyon stretch of the Green River that runs 68 miles from the boat ramp in town to Mineral Bottom near Moab. Powell named it for its serpentine bends and sheer Wingate sandstone walls. There are no rapids — this is a paddle-and-drift trip, ideal for canoes — but the campsites on sandbars and the silence between the walls are why people come back.

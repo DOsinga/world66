@@ -9,6 +9,7 @@ tags:
   - hiking
 story: "The cog railway up the mountain — opened in 1875 — is the highest-running railway in the canton and still mostly the same line, though now electrified. The Swiss equivalent of climbing your own backyard hill: every Zurich schoolchild has done the walk to the top with their class at least once."
 snippet: "Zurich's 870-metre house mountain with views over the city and lake"
+score: 8.7
 ---
 
 The Uetliberg, the 871-metre forested ridge that rises immediately west of Zurich, is the most popular short escape from the city. The summit is reachable by the Sihltal-Zürich-Uetliberg-Bahn (SZU), a cog railway that climbs from the main station in about 25 minutes. From the upper station a ten-minute walk uphill leads to the **Uto Kulm** restaurant, terrace and viewing platform, with a 360-degree panorama of the city, the lake, and — on a clear day — the high Alps to the south.

@@ -1,11 +1,15 @@
 ---
-title: "KL City Gallery"
-type: poi
 latitude: 3.1472
 longitude: 101.6933
+score: 6.5
+snippet: Orientation museum in the 1899 Government Printing Office on Merdeka Square,
+  with a large KL model
 tags:
-  - things_to_do
-  - museum
+- things_to_do
+- museum
+- chinatown
+title: KL City Gallery
+type: poi
 ---
 
 A small museum on the south side of Merdeka Square, housed in the 1899 former Government Printing Office. The headline exhibit is an enormous illuminated wooden scale model of central KL — every notable building picked out, the streets lit from below. Worth ten minutes for the orientation alone, especially if you arrive jet-lagged and want to understand the city's geography.

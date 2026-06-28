@@ -8,6 +8,7 @@ latitude: 39.7435
 longitude: 20.0165
 story: >
   The castle sits on an island at the point where the Vivari Channel meets Lake Butrint — a strategically perfect position that the Venetians exploited to control all maritime traffic between the lake and the sea. They held Butrint intermittently between 1386 and 1797, their longest continuous presence in Albanian territory, and the castle was the hinge of their control over this stretch of the Adriatic coast.
+score: 7.2
 ---
 
 The Venetian castle stands on a small wooded island just across the Vivari Channel from the main archaeological site, reached by a short ferry crossing. Its triangular plan — unusual even by Venetian standards — was dictated by the triangular shape of the island itself, and the towers at each corner give it an immediately distinctive silhouette.

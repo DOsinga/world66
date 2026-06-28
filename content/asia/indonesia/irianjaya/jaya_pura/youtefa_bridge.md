@@ -8,6 +8,7 @@ tags:
 latitude: -2.595
 longitude: 140.7133
 snippet: Striking red steel-arch bridge across Youtefa Bay, opened 2019
+score: 5.9
 ---
 
 The Youtefa Bridge — known locally as Holtekamp Bridge — was built for the 2020 Indonesian National Games and inaugurated by President Joko Widodo in 2019. It is a 732-metre red steel arch span across the mouth of Youtefa Bay, the only large modern piece of infrastructure in Jayapura and an obvious landmark from anywhere on the surrounding coast.

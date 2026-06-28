@@ -7,6 +7,7 @@ tags:
 latitude: 45.9035
 longitude: 6.1437
 snippet: "Lakeside swimming complex with diving boards, beach volleyball, and the Belle Époque Impérial Palace as backdrop"
+score: 6.8
 ---
 
 The Impérial is Annecy's main paying beach, on the north shore beyond the Pâquier, named for the grand Belle Époque Impérial Palace hotel above it. The complex includes a long grass-and-pebble swimming beach, an Olympic outdoor pool, diving boards, beach volleyball courts, a snack bar and rental sunbeds.

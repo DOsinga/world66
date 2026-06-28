@@ -6,6 +6,7 @@ longitude: 18.4320
 tags:
   - bars_and_cafes
   - bar
+score: 7.8
 ---
 
 Bosnian coffee (bosanska kafa) is not Turkish coffee, and Sarajevans will gently but firmly explain this distinction to anyone who conflates the two. The grounds are not boiled with the water — instead, hot water is poured over finely ground coffee in the džezva and allowed to steep. The result is served with a small glass of cold water (drunk before the coffee, to clear the palate) and a cube of sugar (placed in the mouth, not stirred in). A piece of rahat lokum comes on the side.

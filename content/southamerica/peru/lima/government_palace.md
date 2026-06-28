@@ -10,6 +10,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: The presidential palace, built on the spot where Pizarro had his house
+score: 6.4
 ---
 
 The **Government Palace** occupies the north side of the Plaza Mayor on the site of Pizarro's own residence — the conquistador was assassinated here by rivals in 1541. The current building, in a heavy French neocolonial style, was completed in 1938 after the previous palace burned down. It is both the office of the President of Peru and a working ceremonial palace.

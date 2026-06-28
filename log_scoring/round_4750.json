@@ -1,0 +1,200 @@
+{
+  "round": 4750,
+  "timestamp": "2026-06-14T00:38:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 4.8298,
+      "prior_variance": 0.10489,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.4097,
+      "prior_variance": 0.105335,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 7.0615,
+      "prior_variance": 0.139716,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.3778,
+      "prior_variance": 0.09711,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 5.9903,
+      "prior_variance": 0.107185,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 3.7956,
+      "prior_variance": 0.104459,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 3.1987,
+      "prior_variance": 0.103047,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 3.7953,
+      "prior_variance": 0.090767,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 2.9611,
+      "prior_variance": 0.098098,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_score": 2.5367,
+      "prior_variance": 0.085647,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 2.3195,
+      "prior_variance": 0.083691,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": 0.1367,
+      "prior_variance": 0.096024,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.6702,
+      "prior_variance": 0.082935,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.3903,
+      "prior_variance": 0.098747,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": -0.1195,
+      "prior_variance": 0.089336,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -1.013,
+      "prior_variance": 0.089782,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_score": -1.7847,
+      "prior_variance": 0.093255,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -1.0237,
+      "prior_variance": 0.076465,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.6325,
+      "prior_variance": 0.100616,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -2.1183,
+      "prior_variance": 0.102921,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.2824,
+      "prior_variance": 0.092062,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Valka",
+      "path": "europe/latvia/valka",
+      "prior_score": -3.0838,
+      "prior_variance": 0.090971,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Senafe",
+      "path": "africa/eritrea/senafe",
+      "prior_score": -7.277,
+      "prior_variance": 0.1284,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -11.1698,
+      "prior_variance": 0.302791,
+      "prior_n": 15
+    }
+  ]
+}

@@ -10,7 +10,9 @@ image_source: https://www.flickr.com/photos/7156765@N05/51050270688
 latitude: 33.8703
 loc_type: city
 longitude: -117.9962
-score: 0.4
+score: 6.45
+snippet: North Orange County city built around Knott's Berry Farm and Beach Boulevard
+  family entertainment.
 title: Buena Park
 type: location
 ---

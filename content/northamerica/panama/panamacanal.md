@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 9.08
+loc_type: feature
 longitude: -79.68
+score: 8.97
+snippet: Transcontinental waterway of locks and cuts linking the Atlantic and Pacific
+  through central Panama
 title: Panama Canal
 type: location
-score: 0.62
-loc_type: feature
+image: panamacanal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Agua_Clara_Locks_09_2019_0822.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Mariordo (Mario Roberto Durán Ortiz)
 ---
 
 The Panama Canal is one of the great engineering achievements of the modern world — a 77-kilometre waterway cut through a continent, connecting the Atlantic and Pacific oceans and reshaping global trade. Watching a massive container ship or cruise vessel squeeze through the narrow locks, rising and falling with the churning water, is genuinely awe-inspiring. It never quite looks real.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Portrush_East_Strand_Beach
 latitude: 55.206032
 loc_type: city
 longitude: -6.654049
-score: 0.6
+score: 8.39
+snippet: Northern Ireland seaside resort on an Atlantic headland, close to Dunluce
+  Castle and the Causeway Coast.
 title: Portrush
 type: location
 ---

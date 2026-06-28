@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Draper_Street_in_Kingsburg
 latitude: 36.5138
 loc_type: city
 longitude: -119.5539
-score: 0.33
+score: 5.84
+snippet: San Joaquin Valley farm city with Swedish-American heritage visible in Draper
+  Street and its coffee-pot water tower.
 sources:
 - https://en.wikipedia.org/wiki/Kingsburg,_California
 title: Kingsburg

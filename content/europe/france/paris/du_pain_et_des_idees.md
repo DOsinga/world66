@@ -10,6 +10,7 @@ tags:
 title: Du Pain et des Idées
 type: poi
 url: www.dupainetdesidees.com
+score: 7.1
 ---
 
 The most celebrated bakery in Paris occupies a gorgeous 19th-century premises near Canal Saint-Martin, with painted ceilings and wooden display cases unchanged from its original life as an épicerie. Baker Christophe Vasseur's croissants and pain des amis (a country loaf) regularly appear on best-in-Paris lists, and the escargot pastries — spirals filled with pistachios or chocolate — are extraordinary.

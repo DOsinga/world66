@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.4143
 longitude: -119.6798
+score: 6.2
 ---
 
 East Beach is the broad, sandy crescent stretching east from Stearns Wharf for about a mile, backed by palms, the Cabrillo Boulevard cycling path, and a strip of parkland with picnic tables and a playground. It is the most active of the city beaches: volleyball nets line the sand (this is one of the best beach volleyball venues in the country and a major tournament destination), and the bathhouse hires umbrellas, boogie boards, and kayaks.

@@ -15,6 +15,7 @@ story: >
   a thousand years old and are still in daily use.
 sources:
   - https://en.wikipedia.org/wiki/Tinghir
+score: 8.4
 ---
 
 The Tineghir palmery is the largest oasis in the Moroccan south — a lush corridor of date palms, fig trees, vegetable gardens, and traditional mud-brick villages stretching for about 30 kilometres along the Todra River. It is one of the most beautiful stretches of green in the entire pre-Saharan zone.

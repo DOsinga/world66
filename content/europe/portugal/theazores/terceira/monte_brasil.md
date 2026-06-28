@@ -7,6 +7,7 @@ tags:
 latitude: 38.6482
 longitude: -27.2196
 story: "Monte Brasil is an extinct volcanic tuff cone — formed not by lava but by explosive eruptions of steam and ash when magma met seawater. The peninsula it forms was originally an island; sediment and harbour works eventually connected it to the mainland of Angra. The São João Baptista fortress built across its neck was once the largest military fortification in the Portuguese Atlantic empire."
+score: 8.4
 ---
 
 Monte Brasil is a dormant volcanic promontory that juts into the Atlantic south of Angra do Heroísmo, forming a protected bay on one side and an exposed sea cliff on the other. The entire headland is a protected landscape reserve — forested, largely road-free, and criss-crossed with walking trails that give some of the best panoramic views in the Azores.

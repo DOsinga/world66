@@ -9,6 +9,7 @@ latitude: 4.3690
 longitude: 102.3950
 story: >
   The park maintains several bumbun — raised wooden hides overlooking salt licks and forest clearings. Staying the night in one is an exercise in patience: you sit quietly in the dark, listening to the forest, waiting. The salt licks draw tapir, barking deer, and sambar. Elephants pass through occasionally. Nothing is guaranteed, but on a still night the sounds alone — cicadas, nightjars, the distant whoop of gibbons — are worth it.
+score: 7.9
 ---
 
 Taman Negara maintains a series of wildlife hides, known locally as bumbun, overlooking salt licks and riverside clearings where animals come to drink and feed. Staying overnight in one is one of the park's most atmospheric experiences. The hides are basic wooden structures raised off the ground, equipped with sleeping platforms and a viewing window overlooking the clearing below.

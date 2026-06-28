@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.8908
 longitude: 35.5375
+score: 7.7
 ---
 
 Onno is one of the great Armenian restaurants of Bourj Hammoud, the dense Armenian district just east of central Beirut. The menu runs through the classics — manti, kebabs, sou borek, basterma, mante in yoghurt — served in big plates at long shared tables.

@@ -10,6 +10,7 @@ latitude: 41.3886
 longitude: -73.4467
 story: >
   Hatters in Danbury used mercury nitrate to cure felt, which caused a neurological condition that produced tremors, mood swings, and hallucinations. The term "mad as a hatter" comes directly from this occupational hazard — the phrase predates Lewis Carroll and was a widely understood reference to the hat trade's most visible victims.
+score: 6.9
 ---
 
 The Danbury Museum and Historical Society occupies a complex of historic buildings on Main Street including the 1785 John Rider House and a Victorian-era carriage house. The museum's primary focus is Danbury's extraordinary hat industry, which at its peak in the early 20th century employed a third of the city's workforce and produced around 25 percent of all hats made in the United States.

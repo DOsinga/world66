@@ -11,6 +11,7 @@ title: Ben Lomond National Park
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Ben_Lomond_(Tasmania)
+score: 8.4
 ---
 
 Ben Lomond is a flat-topped dolerite plateau rising to 1,572 metres above sea level, about 50 kilometres east of [Launceston](/australiaandpacific/australia/tasmania/launceston). Tasmania's main ski resort sits here, operating from July to September when snow covers the alpine heath. Outside the ski season the plateau is extraordinary walking country — the ascent via the Jacob's Ladder road is a series of tight switchbacks cut into the escarpment, and the views from the top extend across much of northern Tasmania.

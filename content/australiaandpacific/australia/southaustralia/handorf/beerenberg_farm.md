@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Beerenberg Farm
 type: poi
+score: 6.8
 ---
 
 Beerenberg Farm has been producing strawberries and small-batch jams, sauces, and relishes in the Adelaide Hills since 1971, and the farm shop is now a mandatory stop on the Hahndorf circuit. From November through April the farm opens its strawberry fields for pick-your-own, which draws families from Adelaide most weekends. The strawberries grown in the cool Hills microclimate are noticeably sweeter and firmer than commercial varieties.

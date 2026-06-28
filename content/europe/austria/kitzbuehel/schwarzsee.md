@@ -9,6 +9,7 @@ latitude: 47.4572
 longitude: 12.3689
 sources:
   - https://en.wikipedia.org/wiki/Kitzbühel
+score: 6.7
 ---
 
 The Schwarzsee — Black Lake — is a shallow moor lake about two kilometres west of Kitzbühel, reachable on foot or by bike along the valley path from the town centre. At an elevation of just 762 metres, it is one of the warmest natural swimming lakes in Tyrol, reaching 24°C in a good summer, and it is the main summer attraction for people who come to Kitzbühel outside the ski season.

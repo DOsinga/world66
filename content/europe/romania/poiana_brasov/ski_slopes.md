@@ -8,6 +8,7 @@ tags:
   - sport
 latitude: 45.5963
 longitude: 25.5559
+score: 8.3
 ---
 
 Poiana Brașov has around 25 km of ski runs spread across 12 pisted slopes, served by a mix of chair lifts, gondolas, and drag lifts. The skiing is not extensive by Alpine standards, but the variety is good: easy nursery slopes at resort level, comfortable intermediate runs through the forest, and the Wolf Run (Lupului piste) — a nearly 3 km black run that drops 600 metres in vertical and tests even experienced skiers.

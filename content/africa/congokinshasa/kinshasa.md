@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Congo_River_from
 latitude: -4.325
 loc_type: city
 longitude: 15.3222
-score: 0.35
+score: 5.48
+snippet: Vast Congolese capital on the Congo River, driven by street life, music,
+  markets, and administrative Gombe.
 title: Kinshasa
 type: location
 ---

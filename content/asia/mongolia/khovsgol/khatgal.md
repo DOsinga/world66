@@ -5,7 +5,9 @@ done:
 latitude: 50.444229
 loc_type: city
 longitude: 100.157935
-score: 0.47
+score: 7.49
+snippet: Mongolian lakeside settlement at the southern gateway to Lake Khövsgöl's
+  pine forests and clear blue water
 title: Khatgal
 type: location
 ---

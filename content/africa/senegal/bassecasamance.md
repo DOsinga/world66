@@ -5,7 +5,9 @@ done:
 latitude: 12.388451
 loc_type: city
 longitude: -16.238502
-score: 0.4
+score: 6.81
+snippet: Lush lower Casamance region of forests, rice paddies, mangroves, and distinct
+  Diola culture.
 title: Basse Casamance
 type: location
 ---

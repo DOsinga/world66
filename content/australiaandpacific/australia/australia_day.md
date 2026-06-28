@@ -2,13 +2,14 @@
 date: 26 January
 email: info@australiaday.gov.au
 phone: 02 6120 0600
+score: 6.8
 snippet: National public holiday marking the 1788 British landing, celebrated nationwide
 tags:
 - things_to_do
 - festival
 - festivals
 title: Australia Day
-type: poi
+type: theme
 url: www.australiaday.gov.au
 ---
 

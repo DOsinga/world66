@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.328
 longitude: 14.444
+score: 7.3
 ---
 
 The Rijeka Tunnel — known locally as TunelRi — is a 350-metre underground passage built by the Italian Royal Army between 1939 and 1942 as a civilian air-raid shelter. During the Second World War it sheltered thousands of residents from Allied bombing raids. After decades of closure it was opened to the public and now serves as a cultural venue and exhibition space.

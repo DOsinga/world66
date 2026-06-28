@@ -7,6 +7,7 @@ tags:
 latitude: 24.7843
 longitude: 121.2411
 snippet: Large reservoir south of Taoyuan with dam overlooks and scenic gorge country
+score: 7.8
 ---
 
 The Shihmen Reservoir (石門水庫) is a major dam and reservoir about 30 kilometers south of central Taoyuan, set in dramatic gorge country where the Dahan River cuts through the foothills of the Central Mountain Range. The dam itself is an impressive piece of mid-20th century engineering — completed in 1964, it was one of Taiwan's major infrastructure projects — and the views from the dam crest over the green water below are genuinely striking.

@@ -10,8 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Tram_et_h%C3%B4tel_de_vill
 latitude: 47.390047
 loc_type: city
 longitude: 0.688927
-score: 0.67
+score: 8.89
 title: Tours
+snippet: Loire Valley city at the Cher confluence, with half-timbered lanes and château-country
+  access.
 type: location
 ---
 

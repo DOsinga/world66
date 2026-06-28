@@ -7,6 +7,7 @@ snippet: "Quiet surf beach on Guanacaste's coast, still largely undeveloped"
 tags:
 - things_to_do
 - beach
+score: 7.4
 ---
 
 Playa Junquillal is one of the quieter stretches of Guanacaste's Pacific coast, a long grey-sand beach backed by dry tropical forest rather than high-rise resorts. The surf is consistent and manageable — good for intermediate surfers, though beginners should watch for rip currents at the northern end.

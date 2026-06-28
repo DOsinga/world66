@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
   - market
+score: 8.2
 ---
 
 Kazandžiluk is the most famous single street in Baščaršija — a narrow lane lined with coppersmiths' workshops that has been dedicated to the craft since the 16th century. The coppersmiths still work here today, hammering out džezva coffee pots, trays, and decorative items from sheet copper with the same hand techniques that have been used for 500 years. The sound of hammering drifts across the square.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -26.6557
 longitude: 153.0947
+score: 6.4
 ---
 
 Ocean Street has become Maroochydore's main dining and social strip over the past decade, with an outdoor dining precinct that feels more like a pedestrian lane than a suburban main road. The street has been landscaped with market stalls, outdoor seating, and a mix of restaurants ranging from Japanese and Thai to wood-fired pizza and modern Australian.

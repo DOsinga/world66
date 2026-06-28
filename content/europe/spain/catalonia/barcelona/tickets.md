@@ -4,10 +4,12 @@ latitude: 41.375892
 longitude: 2.162104
 opening_hours: Tue–Fri 7–11:30pm; Sat from 1pm and 7–11:30pm; closed Sun–Mon
 price_range: €3–8 per tapa; budget €50–70 per person with drinks
+score: 8.2
 snippet: Albert Adrià's theatrical tapas bar, the most fun restaurant in Barcelona
 tags:
 - eating_out
 - restaurant
+- poble_sec
 title: Tickets
 type: poi
 url: www.ticketsbar.es

@@ -9,6 +9,7 @@ tags:
   - restaurant
 neighbourhood: Ville Haute
 address: 9 Place de Clairefontaine
+score: 6.4
 ---
 
 A long-running Michelin-starred restaurant on the small square behind the cathedral, run for decades by chef Arnaud Magnier. The cooking is French haute cuisine, prepared with rigour and served in dining rooms that have all the formality you would expect at this level — white linen, attentive service, no music.

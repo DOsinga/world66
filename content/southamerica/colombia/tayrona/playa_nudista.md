@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 11.3617
 longitude: -73.8550
+score: 6.8
 ---
 
 Playa del Muerto — renamed by visitors as Playa Nudista — is a remote beach at the eastern edge of Tayrona, reachable by a two-hour boat ride from Taganga or a long hike over the hills east of Cabo San Juan. It is one of the least accessible and least visited beaches in the park, which means it is also one of the most beautiful. The water is calm, the sand is white, and the jungle behind it is undisturbed.

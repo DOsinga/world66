@@ -1,6 +1,10 @@
 ---
+latitude: 12.0931
+longitude: 124.5364
+score: 5.6
 tags:
-- sights
+- things_to_do
+- beach
 title: Malajog (Looc) Beach
 type: poi
 ---

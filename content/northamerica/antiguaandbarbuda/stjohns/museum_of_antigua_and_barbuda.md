@@ -14,6 +14,7 @@ story: >
   much reverence as any colonial-era artefact.
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Antigua_and_Barbuda
+score: 7.5
 ---
 
 The Museum of Antigua and Barbuda occupies the old Court House on Long Street, a Georgian-era building dating to 1750. It is the island's main repository of history, covering everything from pre-Columbian Arawak and Carib culture through the sugar plantation era to independence in 1981.

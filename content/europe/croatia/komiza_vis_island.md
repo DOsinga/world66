@@ -2,10 +2,16 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-04'
+image: komiza_vis_island.jpg
+image_attribution: dronepicr
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Hafen_Komiza_auf_der_Insel_Vis_in_Kroatien_(48693530638).jpg
 latitude: 43.05
 loc_type: city
 longitude: 16.0869
-score: 0.65
+score: 8.69
+snippet: Vis island fishing port framed by mountains, vineyards, lobster boats, and
+  a 16th-century harbour fortress.
 title: Komiza, Vis island
 type: location
 ---

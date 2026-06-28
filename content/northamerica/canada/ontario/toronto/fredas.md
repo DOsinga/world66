@@ -10,6 +10,7 @@ tags:
 title: Freda's
 type: poi
 url: www.fredas.com
+score: 2.0
 ---
 
 Freda's offers a unique shopping experience unlike any other boutique.
@@ -28,20 +29,3 @@ lines from Europe including Cambio, Kasper, Jean Paul, Sinequaone from
 France and many more.
 
 Worth the trip!
-
-**Contributors**
-November 13, 2005
-
-type: Speciality shops
-
-
-
-
-
-tel: (416) 703-0304
-
-url: [www.fredas.com](http://www.fredas.com)
-
-address: 86 Bathurst Street
-
-email: paulina@fredas.com

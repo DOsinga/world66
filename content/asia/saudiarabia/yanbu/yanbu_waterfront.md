@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.0890
 longitude: 38.0686
+score: 5.9
 ---
 
 The Yanbu waterfront has been developed as a public promenade along the Red Sea, with walking and cycling paths, a marina, and gardens that provide a cooler alternative to the city centre in the evenings. The seafront is one of the more pleasant public spaces in the city — the Red Sea views are striking, particularly at sunset, and the evening breeze off the water makes it comfortable even in summer.

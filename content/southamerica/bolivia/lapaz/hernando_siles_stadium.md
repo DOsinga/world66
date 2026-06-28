@@ -8,6 +8,7 @@ tags:
 - sight
 title: Estadio Hernando Siles
 type: poi
+score: 6.8
 ---
 
 Estadio Hernando Siles is the most contentious football venue on the planet, and the controversy has nothing to do with the fans or the pitch. Visiting teams from Brazil, Argentina, and Colombia have all complained publicly that playing here is physically dangerous — their players get headaches, cramp up, and lose pace within twenty minutes. FIFA agreed and in 2007 banned international matches above 2,500 metres, a rule that would have disqualified La Paz, Quito, and Bogotá. Bolivia protested loudest, and the ban was lifted in 2008 after a complicated compromise. The altitude is still very much the home team's twelfth man.

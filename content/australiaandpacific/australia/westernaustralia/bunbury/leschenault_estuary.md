@@ -9,6 +9,7 @@ longitude: 115.6332
 story: "The mangrove colony at the southern end of the estuary is believed to be 2,500 years old — the most southerly mangroves in Western Australia. A boardwalk threads through the white mangroves at water level, and an interpretive trail explains how these trees survive in brackish water at the edge of their climatic range."
 sources:
   - https://en.wikipedia.org/wiki/Leschenault_Estuary
+score: 7.1
 ---
 
 Leschenault Estuary, known to the Noongar people as Derbal Eelap, is a 25 km lagoon lying just north of Bunbury, separated from the Indian Ocean by a long sand dune peninsula. The estuary covers 25 square kilometres and functions as a major fish nursery and waterbird habitat, supporting up to 62 species of waterbird in its tidal salt marshes.

@@ -1,0 +1,200 @@
+{
+  "round": 4801,
+  "timestamp": "2026-06-14T00:42:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 10.3954,
+      "prior_variance": 0.235324,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.9935,
+      "prior_variance": 0.118454,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 4.6082,
+      "prior_variance": 0.11073,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_score": 1.6369,
+      "prior_variance": 0.087908,
+      "prior_n": 17
+    },
+    {
+      "rank": 5,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 1.0078,
+      "prior_variance": 0.102667,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 1.7266,
+      "prior_variance": 0.078369,
+      "prior_n": 17
+    },
+    {
+      "rank": 7,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.4624,
+      "prior_variance": 0.079646,
+      "prior_n": 17
+    },
+    {
+      "rank": 8,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 1.6075,
+      "prior_variance": 0.111898,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 1.0243,
+      "prior_variance": 0.084878,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -0.6007,
+      "prior_variance": 0.082972,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 1.0107,
+      "prior_variance": 0.085971,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 0.9109,
+      "prior_variance": 0.084858,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -0.7983,
+      "prior_variance": 0.08909,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.0757,
+      "prior_variance": 0.091896,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": 1.0606,
+      "prior_variance": 0.078805,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": -0.339,
+      "prior_variance": 0.08602,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 0.716,
+      "prior_variance": 0.085016,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.8396,
+      "prior_variance": 0.082544,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -0.5323,
+      "prior_variance": 0.089961,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 0.2666,
+      "prior_variance": 0.085706,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -0.242,
+      "prior_variance": 0.090224,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -0.2305,
+      "prior_variance": 0.082241,
+      "prior_n": 17
+    },
+    {
+      "rank": 23,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -0.7917,
+      "prior_variance": 0.090891,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.0817,
+      "prior_variance": 0.077323,
+      "prior_n": 16
+    }
+  ]
+}

@@ -8,6 +8,7 @@ snippet: The postcard beach — calm turquoise water, white sand, palm trees
 latitude: 18.6833
 longitude: -68.4500
 story: "The offshore coral reef acts as a natural breakwater, keeping the waters inside glassy calm even when the Atlantic is rough beyond — the same reef system that protects Bávaro also covers about 700 square km and supports more fish species than most Caribbean reefs."
+score: 8.0
 ---
 
 Bávaro is the northern end of Punta Cana's 50-km beach strip and the stretch that shows up in every travel brochure. The sand is fine, bright white, and the water is exactly the shade of turquoise the photos suggest — calm, shallow close to shore, and warm year-round. The reef offshore blocks the Atlantic swell, which is why you can wade in without being knocked over even in winter.

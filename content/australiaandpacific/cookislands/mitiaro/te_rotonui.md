@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -19.8700
 longitude: -157.7050
+score: 8.2
 ---
 
 Mitiaro's interior is dominated by two freshwater lakes: Te Rotonui (Big Lake) and Te Rotoiti (Small Lake), which together cover a substantial portion of the island's total area. The lakes are bracketed by the encircling makatea and the central taro swamp plateau, giving Mitiaro a geography found nowhere else in the Cook Islands.

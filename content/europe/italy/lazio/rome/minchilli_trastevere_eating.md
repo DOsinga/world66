@@ -1,12 +1,14 @@
 ---
 latitude: 41.8893
 longitude: 12.47
+score: 6.9
 snippet: Food writer's personal guide to eating in Trastevere
 tags:
 - Eating in Trastevere
 - day_guides
 - restaurant
 - bar
+- trastevere
 title: Eating & Walking in Trastevere — Elizabeth Minchilli
 type: poi
 url: elizabethminchilli.com/2015/09/eating-walking-in-trastevere-rome/

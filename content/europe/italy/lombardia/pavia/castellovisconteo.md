@@ -13,6 +13,7 @@ story: "The castle was built by Gian Galeazzo Visconti beginning in 1360, the sa
   a collection eventually looted by the French after the Battle of Pavia in 1525."
 snippet: Visconti ducal castle housing the city's archaeological and art museum
 type: poi
+score: 7.4
 ---
 
 The Castello Visconteo is a large brick fortress at the northern edge of the old city, now housing the Musei Civici — Pavia's main civic museum. The archaeological collections include Roman inscriptions and mosaics from the ancient city of Ticinum; the medieval galleries have Lombard-era artifacts and carved capitals from demolished churches. The pinacoteca upstairs holds paintings from the 14th to 18th centuries, with some good Flemish work acquired by the Viscontis and Sforzas.

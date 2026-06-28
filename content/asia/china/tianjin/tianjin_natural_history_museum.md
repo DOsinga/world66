@@ -7,6 +7,7 @@ tags:
 latitude: 39.0906
 longitude: 117.2021
 snippet: "Large natural history museum with impressive dinosaur skeletons from northern China"
+score: 7.0
 ---
 
 Tianjin's Natural History Museum holds one of the better dinosaur collections in northern China, with full skeletal mounts including specimens excavated from the surrounding region. The paleontology galleries are the highlight: the region around Tianjin and Hebei has been surprisingly productive ground for fossil hunters, and several specimens here are not replicated elsewhere.

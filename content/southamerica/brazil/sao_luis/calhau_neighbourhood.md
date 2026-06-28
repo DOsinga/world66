@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -2.485
 longitude: -44.26
+score: 6.2
 ---
 
 Calhau is the beach neighbourhood of São Luís, stretched along the northern coast of the island around its eponymous beach. The district has a more modern character than the historic centre — apartments, restaurants, beach bars — and it's where much of the city's middle class comes to relax on weekends. The nightlife here runs parallel to the reggae scene of Praia Grande, leaning more toward MPB, forró, and axé.

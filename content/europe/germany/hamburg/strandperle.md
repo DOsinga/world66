@@ -9,6 +9,7 @@ tags:
 - altona
 neighbourhood: Altona
 address: Övelgönne 60
+score: 6.8
 ---
 
 The Strandperle, on the Elbe beach at the eastern end of Övelgönne, is a small wooden kiosk and the closest Hamburg gets to a proper riverside sundowner. There are no chairs — beach-goers sprawl on the sand with plastic glasses of Astra (the local St. Pauli pilsner) — and the kiosk turns out Fischbrötchen and sausages until early evening.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Magaliesberg range is older than almost any other mountain chain on earth — between 1.8 and 2.4 billion years old, formed when the African continent was still being assembled. That makes them roughly four times the age of the Himalayas and twice the age of the Rocky Mountains. The range is named after the Tswana chief Mohale, whose people lived in its valleys until they were driven out by the Ndebele in the 1820s."
+score: 8.4
 ---
 
 The Magaliesberg is a quartzite ridge that runs for about 120 kilometres from Pretoria to Rustenburg, with Magaliesburg town tucked at its eastern foot. The range is not high — the peaks reach about 1,800 metres, only a few hundred above the surrounding highveld — but the ridges are steep, the cliffs are red, and the kloofs that cut into them harbour pockets of indigenous forest, baboons, eland, and over 250 bird species.

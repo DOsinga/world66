@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cinema_Hengelo_gebouw.jpg
 latitude: 52.265873
 loc_type: city
 longitude: 6.792405
+score: 6.16
+snippet: Industrial city in eastern Overijssel, shaped by textiles, metalworking,
+  and postwar rebuilding near Germany.
 title: Hengelo
 type: location
 ---

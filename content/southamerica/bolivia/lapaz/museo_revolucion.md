@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo de la Revolución Nacional
 type: poi
+score: 7.3
 ---
 
 The National Revolution Museum near El Prado covers the 1952 Bolivian National Revolution — one of the most significant political events in 20th-century Latin American history — and the subsequent decades of coup, counter-coup, and democratic consolidation. The 1952 revolution nationalised the tin mines, gave women the vote, and enacted the most sweeping land reform in Bolivian history; the museum places this in a broader context of indigenous rights and political struggle that still resonates.

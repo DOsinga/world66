@@ -14,6 +14,7 @@ story: >
   "a woman of great parts and wit" — what he meant was that she was politically
   ruthless, socially brilliant, and extremely ambitious. The house is a monument
   to their wealth and their influence.
+score: 8.7
 ---
 
 Ham House, directly across the Thames from Twickenham (accessible by a seasonal foot ferry from Orleans House, or a longer walk via Richmond Bridge), is one of the most remarkable Stuart mansions in England. Built in 1610 and expanded in the 1670s, it has one of the most intact 17th-century interiors in the country — dark oak panelling, original textiles, and furniture that has barely moved in 350 years. The National Trust manages the house and has done minimal restoration, preserving its authentically gloomy, intimate character.

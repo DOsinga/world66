@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Taxila Museum
 type: poi
+score: 9.2
 ---
 
 The logical starting point for any visit, the Taxila Museum houses almost everything excavated from Taxila's many sites. Sir John Marshall designed it during his two decades of digging here, and the six galleries walk you through the story chronologically. The centrepiece of the main hall is a complete stupa reassembled from the Mohra Muradu monastery, flanked by exquisite Gandhara schist sculptures depicting scenes from the Buddha's life.

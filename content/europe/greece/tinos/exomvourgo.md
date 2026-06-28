@@ -12,6 +12,7 @@ story: >
   fortress being in a strong defensive position. Tinos fell to the Ottomans — the last
   Venetian island to do so — not because of military defeat but because the commander
   decided resistance was futile. His decision is still debated.
+score: 8.5
 ---
 
 Exomvourgo is a 641-metre mountain in the centre of Tinos that served as the island's fortified capital under Venetian rule from 1207 until 1715. The Venetians called it Castello di Santa Elena and built a substantial town on its slopes — at its peak, over a thousand people lived within the walls, in 677 houses with five churches and storage facilities.

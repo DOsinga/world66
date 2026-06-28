@@ -1,13 +1,14 @@
 ---
 address: Strada Ion Câmpineanu 28, Bucharest
 latitude: 44.4391
-loc_type: feature
-longitude: 26.0950
+longitude: 26.095
+score: 5.8
 snippet: Socialist-era congress hall used for major concerts
 tags:
 - things_to_do
 - architecture
 title: Sala Palatului
+type: poi
 ---
 
 A 1960s congress hall built on the site of the demolished Royal Palace stables, used for Communist Party congresses and now repurposed as Bucharest's main large-scale concert venue. The building is a textbook example of late-modernist Romanian state architecture — a curving glass façade, a vast lobby, and a 4,000-seat hall with shallow tiered seating.

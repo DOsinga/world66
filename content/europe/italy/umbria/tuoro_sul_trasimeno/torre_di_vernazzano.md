@@ -8,6 +8,7 @@ tags:
 latitude: 43.2150
 longitude: 12.0700
 story: "The Vernazzano tower leans at roughly 5 degrees from vertical — comparable to the Leaning Tower of Pisa in relative terms, though far less famous. The lean developed as the foundations settled unevenly on the hillside over centuries. Unlike Pisa's tower, which has been stabilised by engineering intervention, Vernazzano's lean continues slowly, which is perhaps why it has not become a tourist attraction: it is a monument in progress."
+score: 5.6
 ---
 
 The Torre di Vernazzano stands on a hill above the Tuoro countryside, the only surviving remnant of the medieval castle of Vernazzano. The square tower leans noticeably — a few degrees off vertical — and this detail, rather than its historical significance, is what brings the few visitors who know about it. It is a less-known counterpart to more famous leaning towers in Italy.

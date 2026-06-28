@@ -6,6 +6,7 @@ tags:
 - beaches
 title: S'Aigua Blanca
 type: poi
+score: 7.8
 ---
 
 S'Aigua Blanca is one of the longest stretches of sand on Ibiza's east coast, backed by low cliffs rather than hotels. The beach faces the open Mediterranean and catches good waves by Ibiza standards, though the water stays shallow enough to wade out a fair distance.

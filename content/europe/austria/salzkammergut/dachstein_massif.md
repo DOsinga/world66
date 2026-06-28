@@ -12,6 +12,7 @@ story: >
   disguised himself as a plain mountaineer and hired local guides, refusing to
   let anyone announce his arrival at mountain villages — an eccentricity
   in an age when royal progress normally involved a great deal of ceremony.
+score: 8.6
 ---
 
 The Dachstein is the highest massif in the Northern Limestone Alps, with the main summit at 2,995 metres and a permanent ice cap that covers about 20 square kilometres. It is the southern wall of the Salzkammergut — visible from the lakes on clear days as a white band above the forest line. Several cable cars ascend from different sides; the most dramatic is from Ramsau am Dachstein, rising to the Hunerkogel station at 2,700 metres, where the Skywalk suspension bridge extends over the cliff edge and the Five Fingers viewing platform has sections of glass floor over 250-metre drops.

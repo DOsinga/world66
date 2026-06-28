@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.1853
 longitude: -67.7264
+score: 8.2
 ---
 
 A short, steep climb above the town leads to the Calvary chapel and the best viewpoint in Coroico. The path is paved with concrete steps and Stations of the Cross, and takes around 25 minutes from the plaza. The reward at the top is an enormous panorama: the Coroico river snaking through the valley below, the cloudforested ridges stretching east into the Amazon, and on a clear day, the snowcapped Cordillera Real in the distance.

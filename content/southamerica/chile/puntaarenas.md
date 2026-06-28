@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:00_2521_Punta_Arenas_-_Chi
 latitude: -53.162569
 loc_type: city
 longitude: -70.907822
-score: 0.54
+score: 7.84
+snippet: Windy Chilean port city on the Strait of Magellan, long a gateway to Patagonia
 title: Punta Arenas
 type: location
 ---

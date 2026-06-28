@@ -8,6 +8,7 @@ latitude: 48.1270
 longitude: 21.4080
 story: >
   Royal Tokaji was founded in 1990 by a group of investors including British wine writer Hugh Johnson, making it the first foreign-owned winery to operate in post-communist Hungary. The company deliberately sought out the finest first-growth vineyards — Mézes Mály, Nyulászó, Betsek — and its founding coincided with Hungary's first genuinely free harvest in four decades.
+score: 8.6
 ---
 
 Royal Tokaji is headquartered in Mád, about 12 km from the town of Tokaj, in a cellar system that dates back to the 17th century. The company was instrumental in reviving the classification system of Tokaj's first-growth vineyards — the "dűlős" — which had been abandoned during the communist era when all wine was blended into undifferentiated state product.

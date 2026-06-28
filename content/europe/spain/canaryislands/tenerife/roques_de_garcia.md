@@ -14,6 +14,7 @@ story: >
   that was in circulation until the euro replaced it, and has become the unofficial
   emblem of the Canary Islands. The formation survives because the rock below has
   eroded faster than the more resistant cap on top.
+score: 8.3
 ---
 
 The Roques de García are a group of volcanic rock formations inside the Las Cañadas caldera, about three kilometres south of the Teide cable car station. They are the most dramatic of the many strange landforms in the national park: jagged lava pinnacles, some towering 100 metres, rising from the flat floor of the caldera with Teide as backdrop. The most famous is the Roque Cinchado, a balancing rock that looks like it should have fallen centuries ago.

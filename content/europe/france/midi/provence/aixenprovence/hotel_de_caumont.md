@@ -9,6 +9,7 @@ address: "3 Rue Joseph Cabassol, 13100 Aix-en-Provence"
 latitude: 43.5256
 longitude: 5.4474
 snippet: Restored eighteenth-century town house used for major art exhibitions
+score: 7.9
 ---
 
 The Hotel de Caumont is one of the most spectacular hotels particuliers of the Mazarin quarter, an early-eighteenth-century mansion restored in 2015 as an exhibition centre. The interiors — frescoed ceilings, gilded boiseries, a formal staircase — were brought back with serious care, and they make a beautiful setting for the rotating programme of art shows that has covered Botticelli, Hiroshige, Turner, and Chagall in recent years.

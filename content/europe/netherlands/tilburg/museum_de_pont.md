@@ -14,6 +14,7 @@ story: >
   the derelict spinning mill at Wilhelminapark, the quality of the existing light convinced them
   to touch the industrial structure as little as possible. Artists including Richard Serra and
   Marlene Dumas felt the same.
+score: 9.1
 ---
 
 One of the finest contemporary art museums in the Netherlands, housed in a former wool-spinning factory from 1902 that was left largely untouched after closure — the long nave-like halls and high clerestory windows were kept exactly as they were. The permanent collection is serious and substantial: Richard Serra's large-scale steel sculptures fill the former machine room, and the upper galleries hold paintings by Marlene Dumas, Sigmar Polke, and On Kawara among others.

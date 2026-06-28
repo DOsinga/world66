@@ -13,6 +13,7 @@ tags:
 - landmark
 title: California Institute of Technology
 type: poi
+score: 7.9
 ---
 
 The campus is compact, beautifully landscaped, and open to visitors. The Mediterranean Revival architecture looks particularly good in Southern California light. Wander through the olive walk, peek into the open courtyards, and look for the turtle pond near the Beckman Institute. On weekdays you will see students crossing between labs that have contributed to everything from the discovery of quarks to the first images from Mars.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -2.7833
 longitude: -40.5667
+score: 7.4
 ---
 
 Lagoa Azul — the Blue Lagoon — is a smaller freshwater lagoon northwest of the village, accessible on foot or by buggy through the dunes. It's closer than Lagoa do Paraíso and less visited, with a wilder and more intimate atmosphere. The colour is a deep, bright turquoise in direct sun, fading to green toward the reedy margins. The water is clear enough to read a book through; the bottom is white sand.

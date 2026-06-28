@@ -1,9 +1,14 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+latitude: 1.2905
+longitude: 103.8465
+score: 6.0
 snippet: Bumboat cruises along the historic Singapore River
 tags:
 - getting_around
+- boat
+- clarke_quay
 title: Singapore River Cruises
 type: poi
 ---

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, waterfall]
 latitude: 42.5992
 longitude: -114.4319
+score: 7.6
 ---
 
 Pillar Falls sits in the Snake River Canyon between the Perrine Bridge and Shoshone Falls, but far fewer visitors find it because there's no road to the overlook — you have to walk to get there. The falls aren't a single dramatic drop like Shoshone; instead the river pushes through a series of basalt pillars and columns, creating a churning, fractured cascade that has an almost architectural quality.

@@ -15,6 +15,7 @@ story: >
   double-track operation.
 sources:
   - https://en.wikipedia.org/wiki/Great_Central_Railway_(heritage_railway)
+score: 9.1
 ---
 
 The Great Central Railway runs steam and diesel heritage services between Loughborough Central and Leicester North along 8.25 miles of preserved double-track main line — the only heritage railway in the UK with two tracks, which allows realistic train operations including passing trains at speed. The restored Loughborough Central station is itself a handsome example of Edwardian railway architecture, with platform canopies, period signage, and a small museum of railway memorabilia.

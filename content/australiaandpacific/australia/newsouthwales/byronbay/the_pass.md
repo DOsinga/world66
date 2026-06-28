@@ -10,6 +10,7 @@ latitude: -28.6310
 longitude: 153.6355
 sources:
   - https://en.wikipedia.org/wiki/Byron_Bay,_New_South_Wales
+score: 7.9
 ---
 
 The Pass is the surf spot at the northeastern end of the cape, where a rock shelf creates a right-hand point break that peels for up to 200 metres on a good swell. It is one of the most beginner-friendly quality waves in Australia: the break is predictable, the water clear, and the bottom is sand rather than reef for most of the ride. On small days it is ideal for longboarding; when a decent north-easterly swell arrives it holds shape and gets more serious.

@@ -6,6 +6,7 @@ tags:
 - bar
 title: Social, Church Street
 type: poi
+score: 5.8
 ---
 
 Social on Church Street operates as a co-working space through the day and a bar by night, a combination that works better in Bangalore than it might sound. The space is large and flexible, with enough room that the laptop crowd and the evening drinkers can coexist without getting in each other's way. The cocktail menu is inventive and changes regularly; the food menu is long and competent.

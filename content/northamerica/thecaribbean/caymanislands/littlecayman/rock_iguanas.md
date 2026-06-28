@@ -9,6 +9,7 @@ latitude: 19.6833
 longitude: -80.05
 story: >
   The Little Cayman rock iguana — Cyclura nubila caymanensis — is one of the rarest large lizards in the world. Estimates put the wild population in the high hundreds; on Little Cayman they thrive, partly because there are no roads with serious traffic and partly because there are no introduced predators. Speed limits on the island's single road were dropped to 25 mph specifically to protect the iguanas.
+score: 7.3
 ---
 
 Little Cayman has one of the densest populations of large rock iguanas anywhere in the world. They sun themselves on the road in the morning, wander into gardens, and lumber along the airfield perimeter unbothered by aircraft. Many are tagged for monitoring by the National Trust — coloured beads woven onto their crests identify individuals. Some are over a metre long from nose to tail tip.

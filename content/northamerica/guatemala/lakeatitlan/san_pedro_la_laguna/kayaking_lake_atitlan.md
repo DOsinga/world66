@@ -8,6 +8,7 @@ tags:
 latitude: 14.694
 longitude: -91.272
 snippet: Paddle between lakeside villages on clear volcanic water
+score: 7.6
 ---
 
 Several operators in San Pedro rent sit-on-top kayaks and stand-up paddleboards by the hour or the day. The lake's volcanic water is remarkably clear, and paddling gives you access to quiet stretches of shore that are impossible to reach on foot or by lancha. The most popular route is the short crossing to San Juan La Laguna to the north — close enough for a half-day, with good swimming spots along the way.

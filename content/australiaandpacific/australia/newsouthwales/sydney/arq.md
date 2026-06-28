@@ -7,8 +7,10 @@ tags:
 - bars_and_cafes
 - bar
 - club
+- darlinghurst
 title: ARQ
 type: poi
+score: 6.1
 ---
 
 One of Sydney's most popular gay clubs. The unassuming entrance opens into a multi-level venue with a serious sound system, dance floors ranging from pop to hardcore, and a reliably good crowd every weekend.

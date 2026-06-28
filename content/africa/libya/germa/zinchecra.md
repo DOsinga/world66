@@ -11,6 +11,7 @@ longitude: 13.087511
 story: "Zinchecra may have been an earlier stronghold before Garama became the main capital. Its rock art and defensive position make it feel like a preface to the Garamantian city below."
 sources:
   - https://slsgazetteer.org/1855/
+score: 8.2
 ---
 
 Zinchecra is a fortified and rock-art site north of Germa, on higher ground above the oasis corridor. It is often discussed as part of the Garamantian landscape and may represent an earlier centre of power.

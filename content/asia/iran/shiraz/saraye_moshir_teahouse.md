@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Saraye Moshir Teahouse
 type: poi
+score: 6.3
 ---
 
 The teahouse in the courtyard of the Saray Moshir caravanserai is one of the most pleasant places in the bazaar quarter to sit. Low platforms with carpets and cushions, a small pool with goldfish in the centre, orange trees overhead. Order black tea with a saucer of dates and rock sugar and watch the bazaar life come and go through the open arches.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20201019_Alte_Br%C3%BCcke_
 latitude: 49.234362
 loc_type: city
 longitude: 6.996379
-score: 0.42
+score: 6.85
+snippet: Saarland capital on the River Saar, known for French influences and Stengel's
+  baroque architecture.
 title: Saarbrücken
 type: location
 ---

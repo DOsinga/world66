@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:(Jerez_de_la_Frontera)_DSC
 latitude: 36.6817
 loc_type: city
 longitude: -6.1378
+score: 8.44
+snippet: Andalusian city of sherry bodegas, flamenco tradition, and the famed horses
+  of Jerez
 sources:
 - https://en.wikipedia.org/wiki/Jerez_de_la_Frontera
 title: Jerez de la Frontera

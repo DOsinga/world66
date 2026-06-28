@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -27.3365
 longitude: -55.8733
+score: 7.3
 ---
 
 Playa San José is the main beach on the Paraná River in Encarnación, a broad sandy strand that has been developed into a popular recreational area for local families. The Paraná here is wide and calm, and the water quality is generally good. The beach fills up on summer weekends with Paraguayan and Argentine visitors, and kiosks and food vendors set up along the waterfront.

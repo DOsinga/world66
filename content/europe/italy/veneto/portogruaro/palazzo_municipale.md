@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.7757
 longitude: 12.8380
+score: 6.8
 ---
 
 The town hall sits at the heart of the Corso Martiri, a Venetian Gothic palace of red brick begun in the late thirteenth century and finished in the late fifteenth. The facade has a double order of pointed arches, the upper ones forming a continuous loggia, and a strongly crenellated roofline of swallowtail merlons of the kind common to Ghibelline buildings of the period.

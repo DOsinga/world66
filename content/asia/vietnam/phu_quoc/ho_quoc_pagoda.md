@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2590
 longitude: 104.0160
+score: 6.8
 ---
 
 The largest Buddhist temple on Phu Quoc, built in 2012 on a hillside overlooking the sea on the east coast. The complex is built entirely of lim wood and features multiple pavilions, a large Buddha statue at the top of the hill, and well-maintained terraced gardens with ocean views. The style is traditional Vietnamese Buddhist architecture on an ambitious scale.

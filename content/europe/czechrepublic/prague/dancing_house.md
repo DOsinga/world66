@@ -2,15 +2,20 @@
 address: Jiráskovo náměstí 6, Prague 2
 latitude: 50.0754
 longitude: 14.4141
+score: 7.0
 snippet: Deconstructivist office building designed by Gehry and Milunić
+story: 'The building''s original Czech nickname was "Fred and Ginger" after Fred Astaire
+  and Ginger Rogers — the two curving towers suggesting a couple mid-dance. Frank
+  Gehry initially hated the name but eventually embraced it.
+
+  '
 tags:
 - things_to_do
 - sight
 - architecture
+- nove_mesto
 title: Dancing House
 type: poi
-story: >
-  The building's original Czech nickname was "Fred and Ginger" after Fred Astaire and Ginger Rogers — the two curving towers suggesting a couple mid-dance. Frank Gehry initially hated the name but eventually embraced it.
 ---
 
 Built in 1996 on a prominent corner beside the Vltava, the Dancing House — designed by Frank Gehry and Václav Milunić — is Prague's most provocative piece of modern architecture. Its two towers twist around each other: a solid cylindrical glass-and-steel structure paired with an undulating concrete "skirt," the whole composition suggesting two figures in mid-dance.

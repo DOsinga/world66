@@ -13,6 +13,7 @@ story: >
   1987 for the 120th anniversary of the opening of Kobe Port, and the entire
   structure was designed so as not to obstruct the view of the Port Tower behind it
   from most angles.
+score: 6.4
 ---
 
 The Kobe Maritime Museum charts the history of one of Japan's great port cities through ship models, navigational charts, historical photographs, and maritime instruments. The collection covers the port's development from its opening to foreign trade in 1868 through to the modern container terminal era. Particularly strong on the Meiji-era shipping companies and the foreign influence on Japanese maritime culture.

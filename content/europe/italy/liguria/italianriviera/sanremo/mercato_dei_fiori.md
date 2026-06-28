@@ -11,6 +11,7 @@ story: >
   Sanremo's flower market is one of the largest cut-flower exchanges in Europe, handling millions of stems a night. The industry grew out of the discovery in the late 19th century that the sheltered microclimate behind the coastal hills allowed carnations and roses to be grown year-round — something impossible further north. By 1900, Ligurian flowers were being shipped to Paris, London, and Vienna by train, packed in ice.
 sources:
   - https://en.wikipedia.org/wiki/Sanremo
+score: 6.8
 ---
 
 The Mercato dei Fiori is a wholesale flower market that operates in the early hours of the morning, when buyers come from across Europe to bid on the cut flowers grown in the greenhouses that cover the hillsides behind Sanremo. The scale is extraordinary: on peak nights in February (when mimosa and carnations are in full production) the market handles several million stems.

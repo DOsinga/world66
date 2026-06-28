@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_Armerina_-_Italy_20
 latitude: 37.3859
 loc_type: city
 longitude: 14.3672
-score: 0.61
+score: 8.52
+snippet: Central Sicilian town known for Villa Romana del Casale and its extraordinary
+  late Roman mosaics.
 title: Piazza Armerina
 type: location
 ---

@@ -10,6 +10,7 @@ tags:
 snippet: A vast circular depression in the Andes, much debated by geologists
 story: >
   Geologists still debate whether Maragua is a meteor impact crater or a giant erosion feature where a salt dome collapsed. Either way, the result is a near-perfect 8-km bowl ringed by mountains, with a small Jalq'a community farming the floor. Local lore prefers the meteor story.
+score: 8.5
 ---
 
 The Crater of Maragua is one of Bolivia's most extraordinary landscapes — a near-perfectly circular depression eight kilometres across, ringed by steep mountains and floored with green fields, scattered villages, and a snaking river. Geologists have argued for decades over whether it is a true impact crater or the result of a collapsed anticline; either way, the view from the rim is unforgettable.

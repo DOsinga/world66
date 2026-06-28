@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The shrine is said to hold the tomb of Ali ibn Abi Talib, cousin and son-in-law of the Prophet Muhammad, the first imam of Shia Islam. Tradition holds that Ali asked to be buried on a white camel and left to wander, and that the camel collapsed where the shrine now stands. The dome was first plated with gold in 1742 on the orders of Nadir Shah of Persia."
+score: 9.8
 ---
 
 The golden dome of the Imam Ali Shrine is the heart of Najaf and the symbol of the city. On a clear day the gold can be seen from 40 km out across the desert. For Shia Muslims this is one of the holiest places on earth, and many wish to be buried within sight of it — which is how Wadi al-Salaam, the great cemetery next door, grew to its present size.

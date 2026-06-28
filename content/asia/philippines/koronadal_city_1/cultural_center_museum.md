@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 6.500404
 longitude: 124.843544
+score: 6.2
 ---
 
 The small museum at the Koronadal Cultural Center is the city's main cultural institution, covering the pre-colonial and colonial history of South Cotabato and the traditions of the region's Indigenous communities. The T'boli people, who live in the highlands around Lake Sebu, are the primary focus: their weaving traditions, musical instruments (particularly the *kubing*, a jaw harp), oral literature, and ceremonial objects are documented here through a modest but earnest collection.

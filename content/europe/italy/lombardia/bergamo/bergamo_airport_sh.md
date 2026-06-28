@@ -1,10 +1,11 @@
 ---
 address: Orio al Serio Airport, Milano Centrale Train Station
 email: ticket@orioshuttle.com Information
+score: 2.0
 tags:
 - getting_there
 title: Bergamo Airport Shuttle Bus
-type: poi
+type: theme
 url: www.orioshuttle.com
 ---
 

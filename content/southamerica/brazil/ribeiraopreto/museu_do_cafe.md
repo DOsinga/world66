@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -21.1776
 longitude: -47.8075
+score: 8.0
 ---
 
 The coffee museum occupies a historic building from the late 19th century, when Ribeirão Preto was the heart of Brazil's coffee empire. The region was known as the "Sea of Coffee" — an ocean of plantation stretching to the horizon in every direction — and the city grew fat on the export revenues. The museum explains the economics and social history of this period through maps, equipment, photographs, and documents.

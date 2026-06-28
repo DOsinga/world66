@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
 snippet: "Twin waterfall in the south of Coorg, with a temple at the trailhead."
+score: 7.5
 ---
 
 Iruppu Falls is in the far south of Coorg near the Kerala border, set within the Brahmagiri Wildlife Sanctuary. The Lakshmana Tirtha river drops in two stages from around 170 feet, the upper plunge tucked behind a rocky shelf so you only really see it on the climb up.

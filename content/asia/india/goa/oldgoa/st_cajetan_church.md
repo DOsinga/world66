@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 St Cajetan Church, built by Italian Theatine missionaries between 1655 and 1661, is modelled on St Peter's Basilica in Rome — the missionaries had wanted to convert the kingdom of Golconda but were expelled, and built this church instead using plans they had drawn up for the Indian interior. The result is the most Baroque church in Goa: a round dome over a Greek cross plan, with an elaborate facade.

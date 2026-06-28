@@ -6,6 +6,7 @@ longitude: 12.9823
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 One of the most talked-about lunch spots in Malmö: a canteen in the Western Harbour serving a single changing daily menu to a large open room of workers, architects, and students from the nearby university. The food is simple, well-sourced, and genuinely good — typically a salad, a main, and bread, often built around vegetables and grains in the New Nordic style without the expense.

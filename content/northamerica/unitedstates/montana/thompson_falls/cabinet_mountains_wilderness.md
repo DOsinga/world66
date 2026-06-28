@@ -9,6 +9,7 @@ tags:
   - hiking
   - wilderness
   - fishing
+score: 8.7
 ---
 
 The Cabinet Mountains Wilderness covers nearly 95,000 acres of roadless terrain in the Kootenai and Lolo national forests, beginning roughly fifteen miles north of Thompson Falls. This is serious backcountry — the Cabinet Mountains are steep and densely forested, with elevations rising above 8,700 feet at Snowshoe Peak, the highest point. Access trails leave from trailheads along State Highway 200 and Bull River Road, making Thompson Falls a practical base for day hikes or overnight trips into the lower wilderness.

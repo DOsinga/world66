@@ -9,6 +9,7 @@ latitude: 40.7406
 longitude: -74.1723
 address: "1 Center St, Newark, NJ 07102"
 story: "The NJPAC was the first major building constructed in downtown Newark in thirty years when it opened in 1997. Its arrival was a deliberate bet that the city could sustain major-league arts programming — a bet that, by any measure, paid off."
+score: 7.8
 ---
 
 The New Jersey Performing Arts Center is the state's premier performing arts venue and one of the ten largest performing arts centres in the United States. It opened in 1997 on a redeveloped parcel near the Passaic River waterfront, and its presence has been credited with anchoring the wider revival of downtown Newark.

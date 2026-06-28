@@ -7,6 +7,7 @@ tags:
 snippet: "Terrace bars on the square in front of the blue-domed church"
 latitude: 38.5997
 longitude: -0.0505
+score: 5.8
 ---
 
 The square in front of the Iglesia de Nuestra Señora del Consuelo is ringed by terrace bars that come alive from late afternoon. The setting is hard to beat: whitewashed walls, the famous blue domes overhead, and views over the bay when the evening light turns the sea orange and pink.

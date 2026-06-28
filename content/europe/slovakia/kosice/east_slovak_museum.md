@@ -17,6 +17,7 @@ story: >
   across Slovakia.
 sources:
   - https://en.wikipedia.org/wiki/East_Slovak_Museum
+score: 7.8
 ---
 
 The East Slovak Museum is the principal museum of the Košice region, occupying a handsome Historicist building on Hlavná ulica. The collections cover the natural history, archaeology, and cultural history of eastern Slovakia from the Neolithic through to the modern period. The permanent exhibits include prehistoric artefacts, Roman-era finds, and a significant collection of Slovak folk art and craft.

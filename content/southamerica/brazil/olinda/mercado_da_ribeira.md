@@ -7,6 +7,7 @@ tags:
 latitude: -7.9997
 longitude: -34.8508
 snippet: A 16th-century trading market converted into an arts and crafts centre with galleries and bars
+score: 7.6
 ---
 
 The Mercado da Ribeira is one of the oldest commercial buildings in Olinda, dating to the 16th century when it served as a trading post for goods passing through the port. The long stone building with its arched facade has been repurposed over the centuries; it is now home to a collection of workshops, galleries, craft stalls, and small bars spread across its interior and spilling out onto the surrounding square.

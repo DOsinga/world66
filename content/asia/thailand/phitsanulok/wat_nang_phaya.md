@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.8224
 longitude: 100.2621
+score: 7.6
 ---
 
 Wat Nang Phaya sits in the shadow of Wat Yai but is worth a visit in its own right. The temple dates from the Sukhothai period and is notable for its stucco reliefs — considered among the finest surviving examples of 15th-century Thai decorative work. The name translates roughly as "Temple of the Queen," though the historical basis for the name is uncertain.

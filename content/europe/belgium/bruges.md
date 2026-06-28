@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belf
 latitude: 51.208553
 loc_type: city
 longitude: 3.226772
-score: 0.74
+score: 9.45
+snippet: Canal city in Flanders whose medieval trading wealth left bridges, guild
+  houses, and market squares.
 title: Bruges
 type: location
 ---

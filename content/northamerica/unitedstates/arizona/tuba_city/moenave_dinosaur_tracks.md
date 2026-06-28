@@ -10,6 +10,7 @@ tags:
 - geology
 snippet: Hundreds of preserved dinosaur footprints in 200-million-year-old mud, free to visit
 story: "The tracks are real, and old — early Jurassic, around 200 million years ago, made by therapod dinosaurs walking across what was then a soft mudflat in a coastal floodplain. Local Navajo guides are required by the Tribe to escort visitors to the site (a small tip is expected), and they will sometimes pour water on the tracks to make them stand out, or point out tracks that aren't real and were carved later by enterprising children. Look for both."
+score: 6.8
 ---
 
 About ten kilometres west of Tuba City, just off Highway 160, an unsigned dirt turnoff leads to one of the more accessible dinosaur trackways in North America. Hundreds of three-toed footprints of early Jurassic theropods — small, agile, bipedal hunters — are preserved in slabs of reddish Kayenta Formation sandstone, exposed across a flat area of perhaps a hectare.

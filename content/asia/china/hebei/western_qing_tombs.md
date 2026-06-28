@@ -10,8 +10,11 @@ loc_type: feature
 longitude: 115.3453
 sources:
 - https://en.wikipedia.org/wiki/Western_Qing_tombs
+snippet: Imperial tomb complex southwest of Beijing, where four Qing emperors lie
+  in a forested mountain valley.
 title: Western Qing Tombs
 type: location
+score: 7.36
 ---
 
 The Western Qing Tombs in Yi County, about 140 kilometres southwest of Beijing, hold four emperors: Yongzheng, Jiaqing, Daoguang, and Guangxu, along with 74 other royal family members. The complex exists because the Yongzheng Emperor chose not to be buried beside his father Kangxi at the Eastern Qing Tombs — the reasons remain a matter of scholarly speculation, with theories ranging from a guilty conscience about how he came to power to simple aesthetic preference. Whatever the cause, the break established a second imperial necropolis that his successors alternated between.

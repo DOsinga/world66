@@ -7,6 +7,7 @@ tags:
 latitude: 35.8561
 longitude: 12.8617
 snippet: "Linosa's extinct main crater — easy climb, dramatic views, wild interior"
+score: 8.3
 ---
 
 The dominant feature of Linosa's landscape is its volcanic crater, Monte Vulcano, which rises to 195 metres and can be climbed in about 45 minutes from the village. The path is unmaintained but obvious, winding up through native vegetation — euphorbia, wild capers, prickly pear — to the crater rim. Inside the caldera, which is ancient enough to have a dense covering of scrub, feral rabbits are sometimes visible.

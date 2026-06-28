@@ -9,6 +9,7 @@ latitude: 32.900873
 longitude: 21.965833
 sources:
   - https://slsgazetteer.org/935/
+score: 7.0
 ---
 
 The West Gate marks one of the clearest surviving points in Apollonia's city wall. The gate was refurbished in Byzantine times, when a building was added around it, so it works as a compact lesson in the site's long reuse.

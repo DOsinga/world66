@@ -5,10 +5,12 @@ done:
 latitude: 13.7592
 longitude: 100.494
 opening_hours: Wed-Sun 9 am - 4 pm
+score: 7.1
 snippet: Thai and international art in a colonial-era building
 tags:
 - things_to_do
 - museum
+- banglamphu
 title: National Gallery
 type: poi
 ---

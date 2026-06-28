@@ -10,6 +10,7 @@ latitude: 5.8252
 longitude: -55.1530
 story: >
   The Waterkant was the commercial spine of the colony from the 17th century onward. Ships unloaded their cargo here — sugar, cotton, enslaved people — along a quay lined with warehouses and counting houses. Many of the original Dutch wooden buildings still stand, making this one of the best-preserved colonial waterfronts in the Americas.
+score: 8.5
 ---
 
 The Waterkant is the oldest street in Paramaribo, running along the western bank of the Suriname River through the heart of the UNESCO-listed historic centre. The street is lined with restored colonial wooden buildings — most of them a creamy white, with shuttered windows and deep verandas — that give a clear sense of what the Dutch colonial town looked like at its peak.

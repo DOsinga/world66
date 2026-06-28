@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Barco_desde_Cangas._R%C3%A
 latitude: 42.2028
 loc_type: city
 longitude: -8.7207
-score: 0.59
+score: 8.13
+snippet: Galician sea inlet guarded by the Cíes Islands, with fishing ports and mussel
+  platforms along its shores.
 title: Ría de Vigo
 type: location
 ---

@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bodendenkmal_Schloss_Hohen
 latitude: 51.358294
 loc_type: city
 longitude: 7.473296
-score: 0.37
+score: 6.21
 title: Hagen
+snippet: Southeastern Ruhr city where Karl Ernst Osthaus left an unexpected legacy
+  of Jugendstil and modern art
 type: location
 ---
 

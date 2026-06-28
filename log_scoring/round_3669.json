@@ -1,0 +1,200 @@
+{
+  "round": 3669,
+  "timestamp": "2026-06-13T23:11:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 8.3853,
+      "prior_variance": 0.374292,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 4.1532,
+      "prior_variance": 0.141701,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_score": 3.3335,
+      "prior_variance": 0.116615,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 1.8952,
+      "prior_variance": 0.113769,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.4453,
+      "prior_variance": 0.106843,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.5108,
+      "prior_variance": 0.129331,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.1515,
+      "prior_variance": 0.101086,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -1.9281,
+      "prior_variance": 0.119607,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.4137,
+      "prior_variance": 0.120964,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -2.9184,
+      "prior_variance": 0.112911,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -3.5493,
+      "prior_variance": 0.112271,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -2.1194,
+      "prior_variance": 0.111187,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -3.0502,
+      "prior_variance": 0.130162,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_score": -3.3262,
+      "prior_variance": 0.119059,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -3.5301,
+      "prior_variance": 0.140193,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -1.8217,
+      "prior_variance": 0.115982,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -5.9555,
+      "prior_variance": 0.140493,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -4.0389,
+      "prior_variance": 0.132958,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -4.9723,
+      "prior_variance": 0.142472,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.9086,
+      "prior_variance": 0.16166,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -4.6378,
+      "prior_variance": 0.136716,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -9.4462,
+      "prior_variance": 0.344648,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_score": -7.3495,
+      "prior_variance": 0.213144,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -8.8045,
+      "prior_variance": 0.478784,
+      "prior_n": 11
+    }
+  ]
+}

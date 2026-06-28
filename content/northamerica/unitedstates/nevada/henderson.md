@@ -6,7 +6,9 @@ done:
 latitude: 36.0397
 loc_type: city
 longitude: -114.9819
-score: 0.36
+score: 5.91
+snippet: Suburban city southeast of Las Vegas, with parks, trails, and a World War
+  II magnesium-plant origin.
 title: Henderson
 type: location
 ---

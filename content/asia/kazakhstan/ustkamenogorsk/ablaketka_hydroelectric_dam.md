@@ -12,6 +12,7 @@ story: >
   the famous locks of the Three Gorges Dam in China. It was built to allow river
   traffic to pass the hydroelectric dam on the Irtysh, though commercial river traffic
   here is now minimal.
+score: 6.4
 ---
 
 About 40 minutes east of the city centre, the Ust-Kamenogorsk hydroelectric dam and its associated navigation lock sit on the Irtysh River in the village of Ablaketka. The dam was built in the Soviet era to supply power for the city's smelting and mining industries, and the reservoir behind it stretches upstream through birch forest and low hills.

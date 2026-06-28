@@ -7,6 +7,7 @@ tags:
 title: DIG — An Archaeological Adventure
 type: poi
 snippet: "A hands-on archaeology experience in a medieval church, operated by the York Archaeological Trust"
+score: 6.1
 ---
 
 DIG is a hands-on museum in the former church of St Saviour on St Saviourgate, operated by the York Archaeological Trust — the same organisation responsible for the Jorvik Viking Centre excavations. Visitors work through four archaeological dig pits representing different periods of York's history: Roman, Viking, medieval, and Victorian. The emphasis is participatory rather than display-based: you sift soil, identify finds, and handle reproduction artefacts alongside guides.

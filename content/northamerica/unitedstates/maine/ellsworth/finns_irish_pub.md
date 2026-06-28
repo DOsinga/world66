@@ -7,6 +7,7 @@ tags:
 snippet: "Irish pub built around a 1930s O'Mahony dining car"
 latitude: 44.5422
 longitude: -68.4222
+score: 5.7
 ---
 
 Finn's is built around the polished aluminium shell of a 1930s Jerry O'Mahony dining car — one of the classic American diner builders of the era. Additions have been grafted on around the original car, but the diner counter is still there, now serving pints rather than coffee.

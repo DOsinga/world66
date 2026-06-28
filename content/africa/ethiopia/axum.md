@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aksum-107529.jpg
 latitude: 14.122098
 loc_type: city
 longitude: 38.732175
-score: 0.55
+score: 8.13
+snippet: Ancient Ethiopian city of Aksumite stelae, royal legends, and the Ark of
+  the Covenant tradition.
 title: Axum
 type: location
 ---

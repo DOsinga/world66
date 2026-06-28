@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6650
 longitude: 116.9960
+score: 7.5
 ---
 
 After the Boxer Rebellion settlement of 1901, Jinan became one of two treaty ports in Shandong, and Germany established a commercial settlement around the old railway station. The resulting buildings — modest by the standards of Qingdao's colonial quarter but genuine — cluster in the blocks around the former German postal building and the old Jinan railway station. Red-brick facades, Germanic gabled rooflines, and stone-dressed windows survive among the modern development.

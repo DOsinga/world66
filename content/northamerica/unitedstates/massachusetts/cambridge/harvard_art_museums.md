@@ -9,6 +9,7 @@ latitude: 42.3742
 longitude: -71.1147
 story: >
   The Harvard Art Museums building was redesigned by Renzo Piano, who placed a striking glass lantern roof over the central courtyard. The renovation revealed the original 1927 Fogg Museum courtyard, which had been hidden inside the building for decades. The atrium now functions as a kind of archaeological cross-section of the institution's own history.
+score: 8.6
 ---
 
 The Harvard Art Museums bring three previously separate collections — the Fogg Museum of Western art, the Busch-Reisinger Museum of Germanic art, and the Arthur M. Sackler Museum of ancient and Asian art — under one Renzo Piano–designed roof. The collection ranges from ancient Greek pottery to Picasso, with particular strength in German Expressionism and Impressionist painting. The building's interior courtyard, with its glass ceiling, is one of the more beautiful art-viewing spaces in New England.

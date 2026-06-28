@@ -1,200 +1,200 @@
 {
   "round": 323,
-  "timestamp": "2026-04-12T09:11:44",
+  "timestamp": "2026-06-13T19:29:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Aitutaki",
-      "path": "australiaandpacific/cookislands/aitutaki",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 13.3345,
+      "prior_variance": 7.963399,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Tulum",
-      "path": "northamerica/mexico/yucatan/tulum",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_score": 11.5822,
+      "prior_variance": 3.59896,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Isla Mujeres",
-      "path": "northamerica/mexico/yucatan/islamujeres",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656174,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Chianti Region",
-      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_score": 9.8512,
+      "prior_variance": 2.239427,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Courchevel",
-      "path": "europe/france/alpes/courchevel",
-      "prior_mu": 23.032,
-      "prior_sigma": 4.7738,
-      "prior_n": 2
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 7.348,
+      "prior_variance": 2.453077,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Niagara Falls",
-      "path": "northamerica/canada/ontario/niagrafalls",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cayo Largo",
+      "path": "northamerica/thecaribbean/cuba/cayolargo",
+      "prior_score": 3.0822,
+      "prior_variance": 1.765523,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Riga",
-      "path": "europe/latvia/riga",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 5.2812,
+      "prior_variance": 1.782246,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Hill of Crosses",
-      "path": "europe/lithuania/hill_of_crosses",
-      "prior_mu": 22.0751,
-      "prior_sigma": 4.6895,
-      "prior_n": 2
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 7.0529,
+      "prior_variance": 1.724108,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Sidi bou said",
-      "path": "africa/tunisia/sidibousaid",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": 1.2215,
+      "prior_variance": 2.459375,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Armenia",
-      "path": "europe/armenia",
-      "prior_mu": 22.2953,
-      "prior_sigma": 5.7862,
+      "title": "Nzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -1.9454,
+      "prior_variance": 1.60027,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Jeddah",
-      "path": "asia/saudiarabia/jeddah",
-      "prior_mu": 21.9483,
-      "prior_sigma": 4.8385,
-      "prior_n": 2
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 1.8645,
+      "prior_variance": 1.841697,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Mand\u00f8",
-      "path": "europe/denmark/mand",
-      "prior_mu": 22.6899,
-      "prior_sigma": 5.9458,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.9143,
+      "prior_variance": 1.763788,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Irkutsk",
-      "path": "europe/russia/irkutsk",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -1.5746,
+      "prior_variance": 1.486518,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Campobello Island",
-      "path": "northamerica/canada/newbrunswick/campobello_island",
-      "prior_mu": 22.6976,
-      "prior_sigma": 5.9467,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sthelena",
+      "prior_score": 9.1022,
+      "prior_variance": 2.007316,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Laigueglia",
-      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
-      "prior_mu": 22.8449,
-      "prior_sigma": 5.8584,
+      "title": "Amnye Machen",
+      "path": "asia/china/qinghai/amnye-machen",
+      "prior_score": 2.8808,
+      "prior_variance": 1.505304,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "kolhapur",
-      "path": "asia/india/maharashtra/konkan/kolhapur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 5.7793,
+      "prior_variance": 2.00654,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Ciudad Quesada",
-      "path": "northamerica/costarica/ciudadquesada",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -1.2139,
+      "prior_variance": 1.757989,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Lombardia",
-      "path": "europe/italy/lombardia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_score": -2.3958,
+      "prior_variance": 1.921306,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Jupiter",
-      "path": "northamerica/unitedstates/florida/jupiter",
-      "prior_mu": 22.5277,
-      "prior_sigma": 5.9136,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -3.6082,
+      "prior_variance": 1.649667,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Clontarf",
-      "path": "australiaandpacific/australia/queensland/clontarf",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -3.7965,
+      "prior_variance": 1.8432,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Auburn",
-      "path": "northamerica/unitedstates/newyorkstate/auburn",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hami",
+      "path": "asia/china/xinjiangprovince/hami",
+      "prior_score": -7.4868,
+      "prior_variance": 2.693869,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Occhiobello",
-      "path": "europe/italy/veneto/occhiobello",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -6.1254,
+      "prior_variance": 1.788154,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Plodio",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -4.1459,
+      "prior_variance": 1.73152,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Hounslow",
-      "path": "europe/unitedkingdom/england/hounslow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -13.6962,
+      "prior_variance": 7.431285,
+      "prior_n": 1
     }
   ]
 }

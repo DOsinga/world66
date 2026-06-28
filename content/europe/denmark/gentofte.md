@@ -2,16 +2,22 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
+image: gentofte.jpg
+image_attribution: PaigePhault
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Gentofte_Hotel.jpg
 latitude: 55.753595
+loc_type: city
 longitude: 12.541436
+score: 6.53
+snippet: Leafy Copenhagen suburb along the Øresund, home to Bakken and the Jægersborg
+  Dyrehave deer park.
+sources:
+- https://en.wikipedia.org/wiki/Gentofte_Municipality
+- https://en.wikipedia.org/wiki/Ordrupgaard
+- https://en.wikipedia.org/wiki/Charlottenlund_Palace
 title: Gentofte
 type: location
-score: 0.44
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Gentofte_Municipality
-  - https://en.wikipedia.org/wiki/Ordrupgaard
-  - https://en.wikipedia.org/wiki/Charlottenlund_Palace
 ---
 
 Gentofte is Copenhagen's wealthiest neighbour — an arc of leafy suburbs stretching north along the Øresund coast, home to embassies, old money, and a handful of attractions that genuinely warrant the short S-tog ride from the city centre.

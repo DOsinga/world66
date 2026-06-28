@@ -14,6 +14,7 @@ story: >
   the Rothschilds. He moved to Lisbon during World War II to avoid the fighting,
   liked it, and never left. When he died in 1955 he left his entire collection
   to Portugal.
+score: 9.1
 ---
 
 One of the great private art collections in the world, assembled over a lifetime by the Armenian oil magnate Calouste Gulbenkian and given to Portugal on his death in 1955. The collection spans 5,000 years and six continents, and unlike many large museum collections it was selected by a single eye — every piece was chosen because Gulbenkian personally loved it.

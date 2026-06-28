@@ -13,6 +13,7 @@ story: >
   pressure — it was squeezed upward rather than crushed. It worked: the Fram survived three
   major polar expeditions and reached both the furthest north and furthest south latitudes
   ever achieved by a ship.
+score: 9.0
 ---
 
 The Fram Museum at Bygdøy houses the world's strongest wooden ship, the polar vessel Fram, which made three historic expeditions between 1893 and 1912. You can board the ship and walk through the living quarters where Nansen, Amundsen, and their crews spent months locked in Arctic and Antarctic ice. The museum building is designed around the ship, so the Fram sits inside it.

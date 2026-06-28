@@ -14,6 +14,7 @@ story: >
   pointed it skyward. When the city converted to electricity, the jet was
   preserved as a monument, repurposed from industrial accident into civic
   icon.
+score: 6.6
 ---
 
 The Jet d'Eau shoots 500 litres of water per second to a height of 140 metres above Lake Geneva, the plume visible from much of the city and from the air on the approach to the airport. The fountain operates daily from March to mid-October and on selected dates in winter; at full pressure the water reaches a speed of 200 kilometres per hour at the nozzle.

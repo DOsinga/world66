@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.3896
 longitude: 79.4508
+score: 7.8
 ---
 
 St. John in the Wilderness Church was built in 1846, just five years after the British "founded" Nainital as a hill station, making it one of the oldest buildings in the town. It is an Anglican church dedicated to John the Baptist, built in Gothic Revival style with local stone and set in a churchyard full of British-era graves — many of the inscriptions tell quiet stories of the colonial period: soldiers, administrators, and wives who came to the hills for the cool air and stayed permanently.

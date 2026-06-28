@@ -7,6 +7,7 @@ tags:
 - historic_site
 title: Wat Athvea
 type: poi
+score: 8.3
 ---
 
 **Wat Athvea** is a 12th-century Angkor-era temple standing about 8 kilometres south of Siem Reap on the road towards Tonlé Sap, and it is one of the most accessible Angkor temples to visit with almost no crowds. The ancient stone structure is enclosed within an active Buddhist pagoda with a working vihara and a community of monks; the combination of crumbling Angkorian stonework and daily contemporary religious life makes it feel quite different from the heavily managed archaeological sites of the main park.

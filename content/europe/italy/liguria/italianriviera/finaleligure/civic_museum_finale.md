@@ -7,6 +7,7 @@ tags:
 latitude: 44.1738
 longitude: 8.3411
 address: "Chiostro di Santa Caterina, Finalborgo"
+score: 8.8
 ---
 
 The Civic Museum of Finale occupies the former convent of Santa Caterina in Finalborgo, a beautiful 14th-century cloister that provides an atmospheric setting for one of the most important prehistoric collections in Italy. The museum is built around finds from the cave sites in the limestone cliffs above Finale — above all Arene Candide, but also Caverna delle Fate and other sites — which together document human occupation of this area from the Lower Paleolithic to the Bronze Age.

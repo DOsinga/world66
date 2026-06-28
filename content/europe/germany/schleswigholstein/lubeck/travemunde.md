@@ -7,6 +7,7 @@ snippet: Lübeck's Baltic resort, with a four-masted barque, lighthouse, and bro
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 Travemünde is Lübeck's Baltic seaside resort, twenty minutes north on the local S-Bahn at the mouth of the Trave. The town has the standard nineteenth-century Baltic spa apparatus — promenade, kursaal, beach with wicker *Strandkörbe* (covered beach chairs that you rent by the day) — and a strong working-harbour character thanks to the Scandinavian ferries that dock at the Skandinavienkai.

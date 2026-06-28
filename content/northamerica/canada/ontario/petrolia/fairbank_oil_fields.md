@@ -7,6 +7,7 @@ tags:
 - sight
 title: Fairbank Oil Fields
 type: poi
+score: 7.2
 ---
 
 Just south of Petrolia, the Fairbank Oil Fields are still producing — small amounts of crude, but enough to keep the historic jerker-line pump systems running. The fields are private but visible from public roads, and the slow nodding of the wooden pumps is one of the strangest sights in rural Ontario.

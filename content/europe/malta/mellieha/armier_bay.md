@@ -6,6 +6,7 @@ tags:
   - beaches
 latitude: 35.9917
 longitude: 14.3583
+score: 5.8
 ---
 
 Armier sits at the very northern tip of Malta, a small sandy bay framed by low cliffs and beach-shack restaurants. It is informal — boatshacks and weekenders' cabins crowd the back of the beach in a way that horrifies architectural purists — but it has a relaxed local feel that the bigger beaches lack.

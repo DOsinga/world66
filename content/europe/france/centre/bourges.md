@@ -11,7 +11,9 @@ image_source: https://www.flickr.com/photos/60057960@N06/53913073861
 latitude: 47.081166
 loc_type: city
 longitude: 2.399125
-score: 0.55
+score: 7.98
+snippet: Historic Berry city with a Gothic cathedral and canal-laced kitchen gardens
+  behind its compact old town.
 title: Bourges
 type: location
 ---

@@ -6,6 +6,7 @@ longitude: 12.0511
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 A pair of small coves on either side of the headland that ends in the Arco dell'Elefante. Cala Levante faces east and is sheltered from the prevailing north-west wind; Cala Tramontana faces north and catches the same wind head-on. Together they cover both halves of the weather, which means there is almost always a calm side to swim from.

@@ -8,6 +8,7 @@ tags:
   - outdoor
   - sight
 snippet: The "Tajik Sea" — a vast Soviet-era reservoir popular for summer swimming
+score: 6.4
 ---
 
 The Kayrakkum reservoir, completed in 1956 on the Syr Darya river east of Khujand, is large enough that locals call it the "Tajik Sea." At 520 square kilometres, it is the largest body of water in Tajikistan, created to support irrigation across the Fergana Valley. Its sandy beaches and calm warm water have made it a popular summer destination for the whole of northern Tajikistan.

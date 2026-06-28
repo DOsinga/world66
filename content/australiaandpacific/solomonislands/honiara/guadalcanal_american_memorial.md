@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -9.4500
 longitude: 159.9400
 story: "The American memorial records 36 separate engagements fought on Guadalcanal and in the waters around it between August 1942 and February 1943. More Americans died in the naval engagements alone than in the land fighting — the supply convoys that ran down The Slot from the north were intercepted repeatedly, and the sailors who died have no graves except the floor of Iron Bottom Sound."
+score: 7.8
 ---
 
 The Guadalcanal American Memorial stands on Skyline Ridge, south of the city centre, commemorating the approximately 7,100 American servicemen killed during the six-month Guadalcanal campaign. The memorial is a simple, dignified structure — an open colonnade with inscribed walls listing the major operations and formations involved.

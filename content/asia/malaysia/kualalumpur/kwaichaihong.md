@@ -1,12 +1,15 @@
 ---
-title: "Kwai Chai Hong"
-type: poi
 latitude: 3.1437
-longitude: 101.6970
+longitude: 101.697
+score: 6.7
+snippet: Restored Chinatown alley depicting 1950s KL life through murals, lanterns,
+  and heritage shophouse installations
 tags:
-  - things_to_do
-  - chinatown
-  - sight
+- things_to_do
+- sight
+- chinatown
+title: Kwai Chai Hong
+type: poi
 ---
 
 A formerly derelict back alley in Chinatown — Lorong Panggung — restored in 2019 with a series of immersive murals depicting Cantonese street life in 1960s KL: gangsters, mahjong players, schoolchildren, a fruit seller, a fortune teller. The name means "Little Demon Alley", supposedly a reference to the small boys who used to scamper through the lane making mischief.

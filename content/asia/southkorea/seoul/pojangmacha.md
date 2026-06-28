@@ -1,14 +1,16 @@
 ---
-latitude: 37.5798
-longitude: 126.9884
-tags:
-  - eating_out
-  - bar
-  - insadong
-title: Pojangmacha Street Food Tents
+title: Jongno Pojangmacha Street
 type: poi
+score: 7.0
+snippet: After-dark cluster of orange-tented street-food carts along Jongno, Seoul's most atmospheric pojangmacha row
+latitude: 37.5709
+longitude: 126.9890
+tags:
+- bars_and_cafes
+- insadong
+- street_food
 ---
 
-Pojangmacha are the orange-tented street food stalls that appear across Seoul from late afternoon until the early hours, serving a rotating cast of food and alcohol to workers, students, and late-night drinkers. The classic pojangmacha sells tteokbokki (spicy rice cakes), eomuk (fish cake on skewers), odeng (fish cake soup), tornado potatoes, and soondae (blood sausage stuffed with glass noodles and vegetables). Beer, soju, and makgeolli flow freely.
+Pojangmacha are the orange-tented street stalls that appear across Seoul from late afternoon until the early hours, serving food and alcohol to workers, students, and late-night drinkers. The strip along Jongno, a short walk from Insadong, is the city's most atmospheric concentration of them — a line of carts that fold out into tarpaulin-walled rooms with plastic stools, where strangers end up shoulder to shoulder over the same dishes.
 
-The area around Insadong and Jongno has some of the most atmospheric pojangmacha tent clusters in the city. They are at their best on cold evenings, when the combination of hot food, warm alcohol, and the glow of orange canvas creates an extremely convivial atmosphere. Pojangmacha culture is one of Seoul's most egalitarian social institutions — white-collar workers, artists, and factory workers share the same stools under the same canvas.
+The standards are tteokbokki (spicy rice cakes), eomuk and odeng (fish cake on skewers and in broth), tornado potatoes, and soondae (blood sausage), washed down with soju, beer, and makgeolli. They are at their best on cold evenings, when hot food, warm drink, and the glow of orange canvas make for one of Seoul's most egalitarian social rituals — office workers, artists, and labourers all sharing the same stools under the same tent.

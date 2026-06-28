@@ -17,6 +17,7 @@ story: >
   craftsmanship. The painted ceramic panels on the exterior, the carved and
   gilded columns, and the painted ceiling inside were all produced using
   traditional Central Asian techniques that have barely changed in centuries.
+score: 8.1
 ---
 
 The Boulder Dushanbe Teahouse is one of the most beautiful small buildings in Colorado — a hand-crafted gift from Boulder's sister city of Dushanbe, Tajikistan, installed on Boulder Creek in 1998. The building was designed and built by Tajik master craftsmen, featuring hand-painted and hand-carved ceramic columns, a carved wooden ceiling, and intricate tilework throughout. Walking inside feels like walking into Central Asia.

@@ -13,6 +13,7 @@ story: >
   government guest house. The collection focuses on Aruba's Arawak inhabitants, who lived on
   the island for thousands of years before European contact — their ceramics, tools, and
   petroglyphs tell a story that is largely absent from the island's tourist-facing image.
+score: 8.1
 ---
 
 The National Archaeological Museum Aruba (NAMA) is the most comprehensive place on the island to understand the pre-Columbian past. The collection covers the Arawak people who inhabited Aruba from around 1000 BCE, with displays of ceramics, shell tools, stone implements, and skeletal remains found at excavation sites across the island. Explanatory panels in English, Dutch, Spanish, and Papiamento make it accessible to most visitors.

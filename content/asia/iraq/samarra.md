@@ -5,7 +5,9 @@ done:
 latitude: 34.198
 loc_type: city
 longitude: 43.876
-score: 0.35
+score: 6.5
+snippet: Tigris city of Abbasid monuments, dominated by Samarra's spiralling Malwiya
+  Minaret and mosque ruins.
 title: Samarra
 type: location
 ---

@@ -14,6 +14,7 @@ story: >
   This arrangement — trading beneath, council chamber above — was standard practice in
   Elizabethan market towns and has largely vanished elsewhere. In Shrewsbury it has been
   in continuous use in various forms since construction.
+score: 8.1
 ---
 
 The Old Market Hall is the Elizabethan building that dominates The Square at the heart of Shrewsbury. Built in 1596 of local sandstone with open arcades on the ground floor, it is one of the best-preserved market halls in England. The ground floor originally housed market stalls protected from the weather; the upper floors served as council chambers, a court, and later a grammar school.

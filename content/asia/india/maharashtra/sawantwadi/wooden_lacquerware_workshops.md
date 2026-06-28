@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.908
 longitude: 73.8202
+score: 7.4
 ---
 
 Alongside the ganjifa tradition, Sawantwadi is famous across India for its bright lacquered wooden toys and decorative objects. The craft involves turning pieces of soft wood on a traditional foot-powered lathe, then applying lacquer — a shellac-based compound — while the piece spins, building up layers of vivid colour. The finished objects range from simple spinning tops and dolls to elaborate decorative boxes, fruit bowls, and temple figurines.

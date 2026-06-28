@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Canon_City_CO_-_Main_Stree
 latitude: 38.442251
 loc_type: city
 longitude: -105.23488
-score: 0.5
+score: 7.53
+snippet: Rocky Mountain foothills town on the Arkansas River, gateway to the Royal
+  Gorge
 title: Cañon City
 type: location
 ---

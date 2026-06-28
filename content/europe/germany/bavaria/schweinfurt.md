@@ -5,7 +5,9 @@ done:
 latitude: 50.049932
 loc_type: city
 longitude: 10.233509
-score: 0.39
+score: 6.78
+snippet: Franconian Main River town with market squares, riverside walks, and the
+  Georg Schäfer art museum.
 title: Schweinfurt
 type: location
 ---

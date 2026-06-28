@@ -1,12 +1,14 @@
 ---
 address: 1922 Oak Park Blvd
 email: daniel@nibblerseatery.com
-latitude: 30.203305
-longitude: -93.194516
+latitude: 37.947978
+loc_type: city
+longitude: -122.060797
 phone: 944-0402
 price: $2-12
-title: Eating Out in Pleasant Hill
-type: poi
+score: 5.8
+title: Pleasant Hill
+type: location
 url: www.nibblerseatery.com
 ---
 

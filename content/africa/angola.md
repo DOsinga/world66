@@ -1,4 +1,5 @@
 ---
+snippet: "Large southwestern African country of Atlantic beaches, high plateaus, and Portuguese colonial traces."
 title: Angola
 type: location
 latitude: -11.2027
@@ -12,7 +13,7 @@ quick_facts:
   Cost Level: "Very expensive"
   Coastline: "1,650 km"
   Oil Producer: "2nd in Africa"
-score: 0.27
+score: 0.40
 loc_type: country
 ---
 

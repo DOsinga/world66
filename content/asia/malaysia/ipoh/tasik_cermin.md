@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The lake sits inside a near-perfect karst basin — limestone cliffs on all sides, water in the middle, sky directly overhead. Reaching it requires walking through a narrow natural tunnel cut through the cliff at the south end of the Tasek limestone hills. Few visitors take the trouble; most days the lake is empty of people."
+score: 7.8
 ---
 
 A small, surreal limestone-rimmed lake on the southern outskirts of Ipoh in the Tasek hills, reached by a five-minute walk through a low natural cave-tunnel that opens into a perfectly round basin of cliff and water. The water is glassy still on a windless morning — hence *Tasik Cermin*, "Mirror Lake".

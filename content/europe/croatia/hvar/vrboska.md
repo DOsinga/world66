@@ -6,6 +6,7 @@ longitude: 16.6667
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Vrboska is the smallest and the prettiest of Hvar's coastal villages — a 16th-century fishing settlement built along both sides of a long, narrow inlet, linked by stone bridges. It is sometimes called "little Venice", which oversells it slightly but captures the canalside feel.

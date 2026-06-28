@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Lamu Old Town has been continuously inhabited for more than seven hundred years and was inscribed as a UNESCO World Heritage Site in 2001. The waterfront stone houses, the labyrinth of alleys behind, and the carved Zanzibari doors are the best-surviving example of Swahili coastal architecture anywhere in East Africa."
+score: 9.6
 ---
 
 Lamu Old Town occupies the eastern shore of Lamu Island, a small, dense grid of two- and three-storey coral-stone houses pressed against the seafront. The streets behind are too narrow for any vehicle wider than a donkey, and most of them are too narrow for a donkey with a load — daily life happens at walking pace, on foot, in the shade.

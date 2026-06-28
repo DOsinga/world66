@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_St._Donat_-_Zada
 latitude: 44.116859
 loc_type: city
 longitude: 15.235326
-score: 0.71
+score: 9.0
+snippet: Ancient Dalmatian coastal city where Roman streets meet wave-powered waterfront
+  art.
 title: Zadar
 type: location
 ---

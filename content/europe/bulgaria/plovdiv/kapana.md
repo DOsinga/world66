@@ -8,6 +8,7 @@ story: >
   The name Kapana means "The Trap" in Bulgarian — a reference to the labyrinthine street plan that was deliberately confusing to prevent attackers from navigating the artisans' quarter. The warren of narrow lanes that confused medieval raiders now confuses tourists trying to find their way out after one too many craft beers, which seems fitting.
 sources:
   - https://en.wikipedia.org/wiki/Kapana_(Plovdiv)
+score: 8.3
 ---
 
 Kapana is Plovdiv's creative quarter — a grid of narrow streets just west of the old town that has been transformed over the past decade from a neglected artisans' neighbourhood into the most lively part of the city. Independent galleries, design studios, craft breweries, coffee shops, and small restaurants fill the ground floors of what were once workshops.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 31.8068
 longitude: 98.5790
+score: 7.2
 ---
 
 The old town of Dege is compact enough to walk thoroughly in an hour but rewarding enough to deserve longer. The streets immediately surrounding the printing house are lined with traditional Tibetan stone buildings, small temples, and the kind of modest commerce — butter, barley flour, religious objects, secondhand goods — that suggests the town has not yet fully oriented itself toward the tourist trade. Tibetan pilgrims arrive regularly to circuit the printing house and the monastery, their pace and attention providing a useful counterpoint to the approach of most foreign visitors.

@@ -10,6 +10,7 @@ title: Museu das Rendas de Bilros
 type: poi
 story: >
   Bobbin lace — rendas de bilros — has been made in Vila do Conde since at least the 17th century, when the convents provided the workforce and the market. The craft survived industrialisation because the patterns were too complex to mechanise: each piece requires dozens of bobbins worked simultaneously by hand to build up the interlocking geometric designs. Today it is one of the few traditional crafts in Portugal that is still genuinely practiced rather than merely demonstrated for tourists.
+score: 8.1
 ---
 
 The Museu das Rendas de Bilros is the only bobbin lace museum in Portugal and one of the best in the world for this particular craft. Housed in an 18th-century manor house on Rua de São Bento, it displays the tools, patterns, and finished work that represent centuries of a very specific local tradition.

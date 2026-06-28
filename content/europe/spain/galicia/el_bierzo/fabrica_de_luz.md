@@ -6,6 +6,7 @@ longitude: -6.5996
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 La Fábrica de Luz is the former coal-fired power station that supplied Ponferrada with electricity from 1920 to 1980, now converted into a museum of energy and a centre for contemporary art. The building itself — a vast brick hall with cast-iron stairways, oil-stained turbine pits, and rows of original control panels — is half the attraction; the rest is exhibits on the region's coal-mining past, which shaped the modern economy of El Bierzo more than anything else after Roman gold.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:La_bellezza_del_Rione_Diru
 latitude: 40.390527
 loc_type: city
 longitude: 16.556732
-score: 0.43
+score: 6.87
+snippet: Basilicata hill town of whitewashed houses perched above the eroded clay
+  ravines of the calanchi
 title: Pisticci
 type: location
 ---

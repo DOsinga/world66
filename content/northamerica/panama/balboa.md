@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Balboa,_Panama_City,_Panam
 latitude: 8.9524
 loc_type: city
 longitude: -79.5617
-score: 0.47
+score: 7.23
 title: Balboa
 type: location
+snippet: Former Canal Zone town at the Panama Canal's Pacific entrance, shaped by
+  early American administration.
 ---
 
 Balboa is a former US Canal Zone town sitting at the Pacific entrance to the Panama Canal, about 8 kilometres from central Panama City. It was built in the early 20th century to house the American administrators who ran the Canal and retains a distinct character — orderly bungalows, wide boulevards, and a tropical government-town feel quite unlike the rest of Panama. The Canal was handed back to Panama in 1999, and Balboa is now an administrative district.

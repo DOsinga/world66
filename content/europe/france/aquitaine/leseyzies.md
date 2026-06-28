@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Les_Eyzies-de-Tayac_-_2009
 latitude: 44.9397
 loc_type: city
 longitude: 1.0299
-score: 0.58
+score: 8.27
+snippet: Dordogne village in the Vézère valley, surrounded by caves and rock shelters
+  of prehistoric Europe.
 title: Les Eyzies
 type: location
 ---

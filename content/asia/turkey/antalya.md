@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaa
 latitude: 36.886573
 loc_type: city
 longitude: 30.703024
-score: 0.7
+score: 9.14
+snippet: Large Turkish Mediterranean city and Turquoise Coast gateway, with Kaleiçi
+  at its historic core.
 title: Antalya
 type: location
 ---

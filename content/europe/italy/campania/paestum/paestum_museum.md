@@ -8,6 +8,7 @@ latitude: 40.4234
 longitude: 15.0075
 story: >
   The Tomb of the Diver shows a naked man mid-leap above a column of water, arms out, looking down. Scholars spent years debating what this meant. The most widely accepted reading now is that it is the soul of the deceased at the moment of death, diving from the mortal world into the unknown beyond — a rare glimpse of how a Greek colonist in 480 BC actually imagined what happened next.
+score: 9.2
 ---
 
 The museum sits across the road from the main archaeological area and is essential, not optional. The ground floor holds the metopes from the Sanctuary of Hera at the mouth of the Sele river — carved marble relief panels showing the Labours of Hercules and scenes from the Trojan cycle, brightly original even after 2,500 years. Upstairs is the room everyone comes for: the Tomb of the Diver.

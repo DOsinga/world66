@@ -13,6 +13,7 @@ story: >
   accomplices. They have been kneeling since the 13th century. Visitors
   regularly spit on them. The statues have been replaced multiple times when
   the accumulated contempt of eight hundred years has worn them away.
+score: 7.9
 ---
 
 The Yue Fei Temple preserves the tomb and temple of the Song dynasty general Yue Fei, one of China's greatest military heroes and most celebrated martyrs. Yue Fei held back Jin dynasty invaders for years before being recalled to court by the treacherous chancellor Qin Hui, who had him falsely charged with treason and executed in 1141. He was posthumously exonerated and became a symbol of loyalty and patriotic sacrifice that persists to this day.

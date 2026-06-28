@@ -1,8 +1,12 @@
 ---
+latitude: -29.3793
+longitude: -50.8737
+score: 6.6
 snippet: The Serra Gaúcha mountain resort — hydrangeas, chocolate, and alpine pretension
 tags:
 - day_trips
 - sight
+- mountain_town
 title: Gramado Day Trip
 type: poi
 ---

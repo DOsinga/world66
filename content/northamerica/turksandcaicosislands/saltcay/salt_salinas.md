@@ -15,6 +15,7 @@ story: >
   rock salt from other sources made Salt Cay's hand-raked product uncompetitive by the 1960s.
 sources:
   - https://en.wikipedia.org/wiki/Salt_Cay,_Turks_Islands
+score: 8.2
 ---
 
 Much of Salt Cay's interior is taken up by the shallow saline ponds that formed the basis of its economy for nearly three centuries. The network of low stone walls, channels, sluice gates, and canal earthworks that controlled the water flow between the ponds and the sea is still largely intact, giving the island an engineered, patchwork quality from above. Nine windmills once pumped water through the system; the stone foundations and partial structures of several still stand.

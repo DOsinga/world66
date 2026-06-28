@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Fort William Lighthouse
 type: poi
+score: 7.4
 ---
 
 A working lighthouse perched on Dawson's Hill above the old town, on the site of the small Fort William built by the British in 1820 as a satellite of Cape Coast Castle. The current iron-framed lighthouse dates from 1923 and is one of the oldest still-active aids to navigation on the Gold Coast.

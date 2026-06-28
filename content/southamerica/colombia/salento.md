@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Calle_5,_Salento_02.jpg
 latitude: 4.6378
 loc_type: city
 longitude: -75.5703
+score: 8.91
+snippet: Colourful coffee-country town in the western Andes, gateway to the wax palms
+  of Valle de Cocora.
 sources:
 - https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo
 - https://en.wikipedia.org/wiki/Cocora_Valley

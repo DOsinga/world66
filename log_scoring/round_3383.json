@@ -1,0 +1,200 @@
+{
+  "round": 3383,
+  "timestamp": "2026-06-13T22:49:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 2.5705,
+      "prior_variance": 0.133147,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 0.6468,
+      "prior_variance": 0.125394,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_score": 0.9653,
+      "prior_variance": 0.134466,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 0.4214,
+      "prior_variance": 0.119014,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 0.8723,
+      "prior_variance": 0.129913,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": 0.193,
+      "prior_variance": 0.130554,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 1.1742,
+      "prior_variance": 0.115835,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": -0.1873,
+      "prior_variance": 0.122592,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.3204,
+      "prior_variance": 0.116189,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -0.344,
+      "prior_variance": 0.138647,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": -0.3007,
+      "prior_variance": 0.120374,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.7459,
+      "prior_variance": 0.136044,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.4631,
+      "prior_variance": 0.106996,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 0.4596,
+      "prior_variance": 0.138961,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -0.8053,
+      "prior_variance": 0.11272,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -1.8348,
+      "prior_variance": 0.14462,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 0.6028,
+      "prior_variance": 0.141556,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -1.8714,
+      "prior_variance": 0.10705,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -1.0716,
+      "prior_variance": 0.137267,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.0216,
+      "prior_variance": 0.115734,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.7134,
+      "prior_variance": 0.180093,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -5.7164,
+      "prior_variance": 0.133717,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.0918,
+      "prior_variance": 0.17445,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -8.536,
+      "prior_variance": 0.295129,
+      "prior_n": 10
+    }
+  ]
+}

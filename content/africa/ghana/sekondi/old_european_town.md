@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Crumbling colonial merchant quarter below the forts
+score: 7.8
 ---
 
 The streets that drop from Fort Orange to the harbour are lined with the houses that European merchants, mainly Dutch and English, built for themselves in the 18th and 19th centuries. Stuccoed facades, deep verandahs, louvred shutters, and the occasional date stone — the architecture is recognisable from old Cape Town or Paramaribo, transplanted to the equatorial coast.

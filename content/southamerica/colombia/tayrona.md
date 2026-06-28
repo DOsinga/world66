@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:122_Cabo_San_Juan_Tayrona.
 latitude: 11.3213
 loc_type: feature
 longitude: -73.9078
+score: 9.26
+snippet: Caribbean national park where Sierra Nevada forest drops to boulder-strewn
+  beaches and turquoise coves
 sources:
 - https://en.wikipedia.org/wiki/Tayrona_National_Natural_Park
 title: Tayrona National Park

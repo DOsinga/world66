@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 58.5887
 longitude: 16.1845
+score: 6.5
 ---
 
 Holmens Restaurang occupies one of the finest spots in the Industrilandskapet, a glassed-in space overlooking the falls of the Motala Ström river. The menu is modern Swedish with a seasonal focus — cured fish, game, root vegetables, and local dairy products prepared in a Nordic style that is assured without being precious. The lunch menu is good value; the evening menu steps up in ambition and price.

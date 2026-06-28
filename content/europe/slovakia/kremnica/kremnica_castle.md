@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The castle complex was built to protect not kings but gold. Kremnica's wealth made it a target, and the double ring of Gothic walls, watchtowers, and fortified gatehouses were constructed specifically to defend the mint and the town's bullion stores from Hungarian nobles and later Ottoman raids.
+score: 8.8
 ---
 
 The walled castle enclosure sits above the main square and is the visual heart of Kremnica. You enter through the Lower Gatehouse and climb into a fortified hilltop precinct that has changed little since the 15th century. The Gothic walls, towers, and the church of St. Catherine all remain largely intact.

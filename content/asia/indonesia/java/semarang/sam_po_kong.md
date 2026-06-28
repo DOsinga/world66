@@ -17,6 +17,7 @@ story: >
   celebrations each lunar year.
 sources:
   - https://en.wikipedia.org/wiki/Sam_Poo_Kong
+score: 8.1
 ---
 
 Sam Po Kong is the largest Chinese temple complex in Central Java and one of the most important Chinese religious sites in Indonesia. It was built to commemorate Zheng He, the great 15th-century Chinese Muslim admiral who led massive trading and diplomatic fleets across Southeast Asia. According to local tradition, Zheng He anchored near this spot and a cave on the hillside became a site of veneration.

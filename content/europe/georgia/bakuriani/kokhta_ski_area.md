@@ -11,6 +11,7 @@ story: >
   crumbling while the resort faded from memory. When a new gondola finally opened in 2016,
   it more than doubled the vertical rise and brought Bakuriani back into serious contention
   as a real ski destination — not just a nostalgic Soviet relic.
+score: 7.5
 ---
 
 Kokhta is the main ski mountain at Bakuriani, with a gondola rising from the village at 1,725 metres to a top station at 2,157 metres. The vertical drop is modest compared to Alpine resorts, but the runs are well laid out for intermediate skiers, and the piste conditions can be excellent after fresh snowfall on the Trialeti Range.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 14.1034
 longitude: 120.9591
+score: 6.6
 ---
 
 The stretch of restaurants along Aguinaldo Highway near the Rotonda is informally known as Bulalo Row, and it is the place to eat the dish most associated with Tagaytay. Bulalo is a clear, long-simmered broth made from beef shank and bone marrow, served with bone-in short ribs and a pile of cabbage, corn, and other vegetables that cook in the hot liquid at the table. The altitude — Tagaytay is cool enough to make a bowl of steaming soup genuinely welcome — makes it taste better here than anywhere in Manila.

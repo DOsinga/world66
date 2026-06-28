@@ -15,6 +15,7 @@ story: >
   shipping. The fort's submerged outer sea wall — visible at low tide —
   was an early-warning trap for European warships, which would ground
   on it within range of the fort's guns.
+score: 8.8
 ---
 
 Thirty kilometres north of Deogad, on a triangular headland between two creeks, Vijaydurg is one of the finest surviving Maratha sea forts. Shivaji Maharaj rebuilt and expanded it in 1664; for the next century it was the headquarters of the Maratha navy.

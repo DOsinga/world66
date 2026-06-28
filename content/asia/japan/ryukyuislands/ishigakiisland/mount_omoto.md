@@ -13,6 +13,7 @@ story: >
   which makes it notable given that the Okinawa archipelago is thought of as entirely
   flat. The mountain is covered in subtropical forest rare enough that large sections
   are protected as part of Iriomote-Ishigaki National Park.
+score: 7.4
 ---
 
 The highest point in all of Okinawa Prefecture, Mount Omoto rises from the densely forested northern part of Ishigaki. The summit is reached via a trail from the village of Omoto, passing through subtropical rainforest thick with ferns, tree ferns, and the occasional Ryukyu fruit bat overhead. The hike takes about two hours return from the trailhead and is moderately strenuous.

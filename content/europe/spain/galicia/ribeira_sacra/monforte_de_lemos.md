@@ -8,6 +8,7 @@ tags:
 latitude: 42.5186
 longitude: -7.5170
 snippet: The main town in the Ribeira Sacra, with a hilltop castle, a parador in a converted monastery, and a long history as a trading hub
+score: 6.8
 ---
 
 Monforte de Lemos is the natural base for exploring the Ribeira Sacra. The town sits at the confluence of the Cabe and Sil rivers and has been a significant settlement since Roman times. On the hill above town stands the Torre del Homenaje, all that remains of a medieval castle belonging to the Counts of Lemos; below it is the monastery of San Vicente do Pino, converted to a parador and the most comfortable place to stay in the region.

@@ -10,6 +10,7 @@ tags:
 - albaicin
 title: Arabic Bath Al Andalus
 type: poi
+score: 6.3
 ---
 
 A hammam tucked into the Albaicin quarter, just below the Alhambra. The restored bathhouse has hot, warm, and cold pools beneath brick arches and star-shaped skylights, with the sound of water echoing off tiled walls. Sessions last about ninety minutes and include a massage option. Book ahead — it fills up quickly, especially on weekends. The atmosphere after dark, with candlelight reflecting off the water, is particularly good.

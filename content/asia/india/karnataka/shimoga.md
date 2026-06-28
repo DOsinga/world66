@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Coffee_seeds_green_Shimoga
 latitude: 14.0557
 loc_type: city
 longitude: 75.2381
-score: 0.4
+score: 6.61
+snippet: Malnad city in green Western Ghats country, surrounded by rivers, forests,
+  and waterfall landscapes.
 title: Shimoga
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Restored 1930 movie palace in the centre of downtown"
+score: 7.4
 ---
 
 The Michigan Theatre opened in 1930 as a 1,600-seat vaudeville and movie house, with a Spanish Revival auditorium of plaster grotesques, a starry blue ceiling, and a Barton organ. After decades of decline it was rescued from demolition in the 1970s and is now a non-profit performing arts venue.

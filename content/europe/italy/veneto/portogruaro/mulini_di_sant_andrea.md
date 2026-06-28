@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.7763
 longitude: 12.8385
+score: 7.1
 ---
 
 A pair of medieval water mills sits on the Lemene directly opposite the cathedral, their wheels still turning in the current. They date originally to the eleventh or twelfth century, with the current buildings largely rebuilt in the fifteenth, and they functioned commercially well into the twentieth century — grinding grain brought down by barge from the Friulan hills.

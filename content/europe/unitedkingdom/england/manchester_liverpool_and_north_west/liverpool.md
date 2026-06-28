@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Liverpool_Football_Club_Mu
 latitude: 53.4084
 loc_type: city
 longitude: -2.9916
-score: 0.58
+score: 8.52
 title: Liverpool
 type: location
+snippet: Mersey port city shaped by maritime history, music, sharp humour, and a revived
+  waterfront.
 ---
 
 Liverpool is one of the liveliest cities in England, shaped by its port, its people, and its music. The Mersey waterfront was a UNESCO World Heritage Site until 2021 and remains the city's calling card, but the real draw is the energy of the place: irreverent, creative, and fiercely proud of where it comes from.

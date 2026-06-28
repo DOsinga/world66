@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Manuae_(Cook_Islands)_Aeri
 latitude: -19.2748
 loc_type: city
 longitude: -158.962403
-score: 0.42
+score: 6.47
+snippet: Uninhabited Cook Islands atoll of two islets encircling a shallow turquoise
+  lagoon.
 title: Manuae
 type: location
 ---

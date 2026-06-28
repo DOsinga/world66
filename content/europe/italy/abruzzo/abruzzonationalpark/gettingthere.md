@@ -8,6 +8,7 @@ tags:
 - getting_there
 title: By Train
 type: poi
+score: 4.5
 ---
 
 The main rail approach is from Rome Termini to Avezzano (about two hours), where local buses continue into the park. The minor line running from Terni through Rieti, L'Aquila, and Sulmona to Naples skirts the park's eastern edge and can be useful depending on which valley you're heading for.

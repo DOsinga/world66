@@ -1,0 +1,200 @@
+{
+  "round": 2788,
+  "timestamp": "2026-06-13T22:07:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 5.0911,
+      "prior_variance": 0.191181,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": 0.065,
+      "prior_variance": 0.160648,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.7482,
+      "prior_variance": 0.196646,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -2.9951,
+      "prior_variance": 0.1424,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -3.1409,
+      "prior_variance": 0.151234,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.6889,
+      "prior_variance": 0.193325,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -1.0815,
+      "prior_variance": 0.143434,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -4.3036,
+      "prior_variance": 0.159176,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -9.0466,
+      "prior_variance": 0.311397,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -5.5713,
+      "prior_variance": 0.150797,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/consett",
+      "prior_score": -5.7264,
+      "prior_variance": 0.194965,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -5.7474,
+      "prior_variance": 0.198654,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -6.1859,
+      "prior_variance": 0.242022,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -4.8965,
+      "prior_variance": 0.17677,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -5.839,
+      "prior_variance": 0.224524,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -6.0423,
+      "prior_variance": 0.187046,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -6.3213,
+      "prior_variance": 0.223028,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.2418,
+      "prior_variance": 0.181575,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -6.8931,
+      "prior_variance": 0.206601,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -6.1067,
+      "prior_variance": 0.207486,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -6.7266,
+      "prior_variance": 0.178278,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -7.3143,
+      "prior_variance": 0.233726,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_score": -6.5424,
+      "prior_variance": 0.279544,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -7.8429,
+      "prior_variance": 0.306745,
+      "prior_n": 8
+    }
+  ]
+}

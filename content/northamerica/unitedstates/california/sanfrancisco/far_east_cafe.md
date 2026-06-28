@@ -3,11 +3,12 @@ address: 631 Grant Ave
 latitude: 37.793
 longitude: -122.4062
 phone: (415) 982-3245
+score: 7.2
 snippet: Cantonese institution with curtained booths since 1920
 tags:
 - eating_out
 - cafe
-neighbourhood: Chinatown
+- chinatown
 title: Far East Cafe
 type: poi
 ---

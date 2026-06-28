@@ -14,6 +14,7 @@ tags:
 - religious
 title: Nanshan Temple and Guanyin Statue
 type: poi
+score: 7.7
 ---
 
 The Nanshan Cultural Tourism Zone covers a large stretch of the southern Hainan coast about 40 kilometres west of central Sanya, built up in the late 1990s as a major Buddhist pilgrimage site. The complex includes a modern reconstruction of a Tang-style temple, gardens, a vegetarian restaurant, and the headline attraction — a 108-metre statue of Guanyin, the bodhisattva of compassion, standing offshore on an artificial island. At the time of its completion in 2005 it was the tallest statue in the world.

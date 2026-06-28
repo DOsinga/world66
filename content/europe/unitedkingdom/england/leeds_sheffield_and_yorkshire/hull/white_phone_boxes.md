@@ -14,6 +14,7 @@ story: >
   most of the city today. As a result, Hull's boxes were painted cream rather
   than the GPO's red — the cream livery is now one of the city's most
   distinctive small details, especially to visitors used to the British red.
+score: 6.8
 ---
 
 Cream-coloured K6 phone boxes still stand at intersections around Hull, and a handful are listed buildings. They are a quirk of the city's independent telecoms history — Hull was the only place in the UK to keep its phone network out of national hands when the GPO took over in 1912, and the cream livery is the visible legacy.

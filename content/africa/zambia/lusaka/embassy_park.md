@@ -12,6 +12,7 @@ story: >
   peaceful democratic transitions in sub-Saharan Africa. Chiluba was later convicted of
   corruption, but his role in ending one-party rule remains a defining moment in the country's
   political history.
+score: 8.4
 ---
 
 Embassy Park, in the Cathedral Hill district near the National Museum, serves as the official burial ground for Zambia's former presidents. The site is well maintained with gardens and inscribed stone markers, and provides an unusual window into the country's post-independence political history — from Kenneth Kaunda, who led Zambia from 1964 to 1991, through the democratic transitions that followed.

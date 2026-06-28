@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Tiananmen Square
 type: poi
+score: 8.4
 ---
 
 The vast ceremonial plaza at the centre of Beijing, flanked by the Great Hall of the People to the west, the National Museum to the east, Mao's Mausoleum to the south, and the Gate of Heavenly Peace (Tiananmen itself) to the north — the southern entrance of the Forbidden City. One of the largest public squares in the world, and the political symbolic heart of modern China.

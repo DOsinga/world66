@@ -2,14 +2,16 @@
 category: Architecture
 latitude: 51.5138
 longitude: -0.0984
+score: 9.4
+snippet: Wren's iconic dome with Whispering Gallery and panoramic views
 story: During the Blitz in December 1940, the dome of St Paul's was photographed rising
   above the smoke of burning buildings all around it — a symbol of resistance that
   Churchill reportedly insisted be preserved at all costs. The surrounding area was
   devastated; St Paul's survived almost unscathed.
-snippet: Wren's iconic dome with Whispering Gallery and panoramic views
 tags:
 - things_to_do
 - architecture
+- the_city
 title: St Paul's Cathedral
 type: poi
 ---

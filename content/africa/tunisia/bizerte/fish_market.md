@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.2766
 longitude: 9.8746
+score: 7.6
 ---
 
 The covered fish market on the north quay of the old port is one of the genuinely interesting morning visits in northern Tunisia. Bizerte is one of the country's main fishing centres — its lake gives onto the Mediterranean through a deep natural channel — and the day's catch from the local fleet is laid out on the tiled slabs by about 7:30.

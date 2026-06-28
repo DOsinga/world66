@@ -1,12 +1,18 @@
 ---
-title: Mani
-type: location
-latitude: 36.599502
-longitude: 22.423934
 done:
   location_cleanup: 2026-04-07
-score: 0.66
+latitude: 36.599502
 loc_type: region
+longitude: 22.423934
+score: 0.66
+snippet: Rugged Peloponnese peninsula of stone tower houses, Byzantine chapels, olive
+  hills, and wild beaches.
+title: Mani
+type: location
+image: mani.jpg
+image_source: https://commons.wikimedia.org/wiki/File:GR-itylo-bucht.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Bgabel
 ---
 
 The Mani peninsula is Greece at its most untamed. Jutting south from the Peloponnese into the Mediterranean, this rugged finger of land spent centuries as a place apart — settled by descendants of Sparta, never fully conquered by the Ottomans, and connected to the rest of Greece by road only in the 1960s. Stone tower houses rise from bare hillsides, Byzantine chapels hide in olive groves, and the beaches are among the best in southern Greece.

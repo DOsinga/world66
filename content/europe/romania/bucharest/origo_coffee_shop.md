@@ -1,14 +1,15 @@
 ---
 address: Strada Lipscani 9, Bucharest
 latitude: 44.4322
-loc_type: feature
 longitude: 26.1005
+score: 7.0
 snippet: Specialty coffee roaster and bar in the Old Centre
 tags:
 - bars_and_cafes
 - cafe
 - old_centre
 title: Origo Coffee Shop
+type: poi
 ---
 
 Bucharest's most serious specialty coffee bar, with their own roastery supplying single-origin beans to baristas in lab coats. The day's pour-over selection is chalked on the wall; the espresso is consistently among the best in the city. The interior is small, industrial, and usually full.

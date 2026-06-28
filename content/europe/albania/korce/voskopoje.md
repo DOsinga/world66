@@ -8,6 +8,7 @@ tags:
   - sight
   - village
 story: "At its peak in the mid-18th century, Voskopojë (Moscopole) had a population of 30,000 — larger than Athens at the time — a printing press (one of the first in the Balkans), an academy, and 24 churches. It was sacked by Ottoman irregulars in 1769 and never recovered."
+score: 8.8
 ---
 
 Voskopojë sits at 1,160 metres in the hills 20 km west of Korçë and is the most rewarding excursion from the city. Today it is a small mountain village of a few hundred people, but in the 18th century it was one of the largest and richest towns in the Balkans — an Aromanian (Vlach) cultural and trading centre.

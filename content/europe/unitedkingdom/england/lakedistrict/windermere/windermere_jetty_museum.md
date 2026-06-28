@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Restored steam launches and traditional boats in a modern lakeside museum"
+score: 8.9
 ---
 
 The Windermere Jetty Museum, reopened in 2019 in a striking purpose-built lakeside complex of dark-wood pavilions, holds the world's most important collection of historic boats associated with a single lake. The stars are the Victorian and Edwardian **steam launches** — beautiful slender craft built for the wealthy mill owners and gentry who built houses around Windermere in the 19th century — and they are kept in working order: several can be taken out on the lake on summer weekends.

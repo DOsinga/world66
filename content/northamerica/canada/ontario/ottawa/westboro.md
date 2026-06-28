@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 45.3940
 longitude: -75.7570
+score: 6.6
 ---
 
 Westboro is a riverside neighbourhood west of downtown Ottawa, along Richmond Road and the Ottawa River. It has evolved in the last twenty years from a quiet residential area into one of the city's most active eating and shopping strips — full of independent outdoor gear shops, coffee roasters, brunch spots, and the kind of relaxed bars that close at a sensible hour. The vibe is outdoorsy and slightly affluent; the residents look like they've just come back from kayaking on the river, which many of them have.

@@ -1,0 +1,200 @@
+{
+  "round": 2610,
+  "timestamp": "2026-06-13T21:54:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 9.7414,
+      "prior_variance": 0.298573,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 1.8382,
+      "prior_variance": 0.184605,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 1.5726,
+      "prior_variance": 0.151004,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola_beach",
+      "prior_score": 1.7788,
+      "prior_variance": 0.19835,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.8208,
+      "prior_variance": 0.180365,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 3.5034,
+      "prior_variance": 0.193241,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 0.3412,
+      "prior_variance": 0.187136,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.4842,
+      "prior_variance": 0.188963,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.6822,
+      "prior_variance": 0.157827,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 0.5547,
+      "prior_variance": 0.145227,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.8816,
+      "prior_variance": 0.177751,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": -0.9256,
+      "prior_variance": 0.183649,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury",
+      "prior_score": 0.6595,
+      "prior_variance": 0.193368,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.2983,
+      "prior_variance": 0.171831,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 2.1019,
+      "prior_variance": 0.149878,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 0.8313,
+      "prior_variance": 0.177757,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 0.1882,
+      "prior_variance": 0.17543,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 0.2285,
+      "prior_variance": 0.183604,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.4633,
+      "prior_variance": 0.195502,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 1.5283,
+      "prior_variance": 0.180693,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.7885,
+      "prior_variance": 0.174571,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -2.2419,
+      "prior_variance": 0.179327,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bochum",
+      "path": "europe/germany/northrhinewestphalia/bochum",
+      "prior_score": -3.2496,
+      "prior_variance": 0.162736,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.8511,
+      "prior_variance": 0.213924,
+      "prior_n": 8
+    }
+  ]
+}

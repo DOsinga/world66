@@ -12,6 +12,7 @@ story: The name "Telluride" probably comes from the ore telluride, a gold-bearin
   isolated, lawless reputation) is more entertaining and almost certainly not true.
   What is true is that in 1889, before roads reached the valley, the only way in was
   over a 10,000-foot pass, and the town had a reputation for getting away with things.
+score: 8.4
 ---
 
 Colorado Avenue runs the entire length of the historic district, lined with Victorian-era commercial buildings in brick and sandstone that survived the bust years after the mines closed in the early 20th century. The scale is right: two and three storeys, ornate facades, wide wooden boardwalks. At the east end of the street the mountains close in with a directness that is almost theatrical.

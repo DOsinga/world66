@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9898
 longitude: 29.0274
+score: 8.2
 ---
 
 Çiya Sofrası is one of the most interesting restaurants in Istanbul — a small group of eating places in the Kadıköy market quarter run by chef-owner Musa Dağdeviren, who has spent decades travelling Turkey to document and recreate regional dishes from Anatolian culinary traditions that are rapidly disappearing. The result is a menu that changes daily and includes dishes from Kurdish, Armenian, Syriac, and Ottoman cooking that appear nowhere else.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 19.9082
 longitude: 99.8316
+score: 6.4
 ---
 
 Chiang Rai's night bazaar runs along the main market street in the centre of town, and it is a more relaxed version of what you find in Chiang Mai. The pace is slower, the vendors are less aggressive, and there is space to browse without being pressed on all sides. Hill tribe textiles, silver jewellery, lacquerware, and clothing share space with the usual tourist goods. Prices are negotiable and there is no shame in walking away.

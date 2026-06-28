@@ -8,6 +8,7 @@ tags:
 - museum
 - pelourinho
 snippet: Museum and former home of Brazil's most-read novelist
+score: 7.1
 ---
 
 At the top of the Largo do Pelourinho, a yellow townhouse where Jorge Amado lived and worked. Amado is the writer who put Bahia on the world map — Dona Flor and Her Two Husbands, Gabriela Cravo e Canela, The Violent Land — and the museum preserves his manuscripts, photographs, and personal library in atmospheric rooms.

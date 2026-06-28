@@ -5,7 +5,9 @@ done:
 latitude: 26.960937
 loc_type: city
 longitude: -80.089205
-score: 0.31
+score: 6.24
+snippet: Quiet Palm Beach County village by the Loxahatchee River and Jupiter Inlet
+  waterways.
 sources:
 - https://en.wikipedia.org/wiki/Tequesta,_Florida
 title: Tequesta

@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-21'
 latitude: 39.1527
 loc_type: city
+snippet: North Korean east-coast port city with beaches, harbour views, and a coastal
+  break from monument-heavy itineraries.
 longitude: 127.4435
-score: 0.19
+score: 1.75
 title: Wonsan
 type: location
 ---

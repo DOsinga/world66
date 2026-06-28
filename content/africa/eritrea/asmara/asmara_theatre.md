@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The Teatro di Asmara — usually just called the Asmara Opera House — was completed in 1918 and is the oldest large public building of the Italian period still in regular use. It mixes Italian neoclassicism with subtle local detailing in the columned portico that fronts Harnet Avenue. The interior horseshoe auditorium seats around 700 on three tiers.

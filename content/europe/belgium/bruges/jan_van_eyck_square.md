@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.2116
 longitude: 3.2259
+score: 7.5
 ---
 
 Jan van Eyckplein is the principal square of the northern part of Bruges's old centre, a few minutes' walk from the Markt along the canal. It is one of the less-visited squares in the city, which makes it all the more pleasant — the atmosphere is genuinely local rather than touristic, with a regular produce market and café terraces that fill with residents rather than visitors. The statue in the centre depicts Jan van Eyck himself, the Flemish master painter who lived and worked in Bruges for much of his life and died here in 1441.

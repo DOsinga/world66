@@ -5,6 +5,9 @@ done:
 latitude: 53.5229
 loc_type: city
 longitude: -7.3457
+score: 6.85
+snippet: Westmeath market town in Ireland's lakeland midlands, used as a base for
+  Lough Owel and Lough Ennell.
 title: Mullingar
 type: location
 ---

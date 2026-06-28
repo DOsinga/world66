@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lausitzer_Platz_HY_2.JPG
 latitude: 51.43331
 loc_type: city
 longitude: 14.250083
-score: 0.3
+score: 5.89
+snippet: Upper Lusatian city split between Sorbian old town heritage and a shrinking
+  Communist-era Neustadt.
 title: Hoyerswerda
 type: location
 ---

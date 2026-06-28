@@ -14,6 +14,7 @@ tags:
 - museum
 title: Decembrist Museums
 type: poi
+score: 8.6
 ---
 
 Two houses once belonging to exiled Decembrist nobles — Volkonsky House and Trubetskoy House — have been preserved as house-museums. The interiors are largely intact: pianos, French clocks, and carefully catalogued libraries all survive, painting a vivid picture of aristocratic exile in 19th-century Siberia.

@@ -9,6 +9,7 @@ latitude: 50.6792
 longitude: 4.4053
 story: >
   The circular panoramic painting measures 110 metres in circumference and 12 metres in height — one of the largest paintings in the world. It was created in 1912 by the French artist Louis Dumoulin. Visitors stand on a central platform and are completely surrounded by the painted scene, with a foreground of real soil, weapons, and debris blending into the canvas to create an illusion of depth. The technique, popular in the 19th century, was the Victorian equivalent of virtual reality.
+score: 7.9
 ---
 
 The Panorama of the Battle of Waterloo is a circular rotunda housing a monumental panoramic painting depicting the moment of Napoleon's final cavalry charge. Painted in 1912, the work wraps 360 degrees around the viewing platform and creates a remarkably convincing illusion of standing in the middle of the battle.

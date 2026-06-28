@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.6352
 longitude: -70.9270
+score: 6.8
 ---
 
 The New Bedford Art Museum at 608 Pleasant Street focuses on regional and contemporary art, with a particular emphasis on the marine and maritime traditions that shaped this city. The permanent collection includes works associated with the Luminism and Hudson River School traditions alongside newer acquisitions, and rotating exhibitions change every two to three months. The museum has expanded and renovated in recent years, with doubled gallery space and improved accessibility.

@@ -9,6 +9,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Alby_g%C3%A5rd
   - https://en.wikipedia.org/wiki/Punkt_%C3%98
+score: 7.8
 ---
 
 Gallery F15, housed in the old Alby estate on the Jeløya peninsula, is the main contemporary art institution in the Moss region. The gallery occupies a handsome nineteenth-century farm complex overlooking the Oslofjord, with a changing programme of exhibitions that draws artists from across Norway and internationally.

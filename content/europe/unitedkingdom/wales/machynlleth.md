@@ -5,7 +5,9 @@ done:
 latitude: 52.5905
 loc_type: city
 longitude: -3.8518
-score: 0.48
+score: 7.42
+snippet: Mid-Wales market town in the Dyfi valley, where Owain Glyndŵr held parliament
+  in 1404.
 sources:
 - https://en.wikipedia.org/wiki/Machynlleth
 title: Machynlleth

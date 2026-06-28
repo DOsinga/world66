@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 Agra's Jama Masjid, built by Shah Jahan in 1648 and dedicated to his favourite daughter Jahanara, stands directly opposite the Agra Fort. The mosque has a striking façade of red sandstone faced with white marble in zigzag courses, three large domes, and a wide open courtyard that can hold ten thousand worshippers.

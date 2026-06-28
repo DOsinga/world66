@@ -9,6 +9,7 @@ tags:
   - downtown
   - restaurant
   - southern
+score: 7.2
 ---
 
 Alcenia's on North Main Street is a downtown soul food restaurant with a particular reputation: owner BJ Chester-Tamayo greets every guest who comes through the door with a genuine hug. It has been that way since she opened the place, and it sets the tone for an experience that is the opposite of transactional. The dining room is small, colorfully decorated, and feels like eating at someone's house — specifically, someone's house where the cooking is exceptional.

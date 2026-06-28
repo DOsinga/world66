@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:AndawThein.jpg
 latitude: 20.590127
 loc_type: city
 longitude: 93.191577
-score: 0.49
+score: 7.51
+snippet: Former Rakhine capital in western Myanmar, where fortress-like Buddhist temples
+  rise around a small market town.
 title: Mrauk-U
 type: location
 ---

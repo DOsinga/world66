@@ -10,6 +10,7 @@ tags:
 title: Taipei Confucius Temple
 type: poi
 url: https://www.tctcc.taipei
+score: 7.7
 ---
 
 A few minutes' walk north of Baoan Temple is the Taipei Confucius Temple, a serene single-courtyard Confucian shrine rebuilt in 1925-30 after the original was demolished during the Japanese colonial period. The architecture follows the Quanzhou Min-nan tradition — yellow walls, swallow-tail roofs, dragons curling around the columns — but the space is deliberately austere, in contrast to the riot of colour at most Taiwanese temples.

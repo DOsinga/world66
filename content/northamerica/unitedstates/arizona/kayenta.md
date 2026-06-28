@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-04'
 latitude: 36.715
+loc_type: city
 longitude: -110.2461
+score: 7.55
+snippet: Navajo Nation town in northeastern Arizona, serving as the practical base
+  for Monument Valley.
 title: Kayenta
 type: location
-score: 0.47
-loc_type: city
 ---
 
 Kayenta is a small Navajo Nation town on US-163, deep in the red-rock country of northeastern Arizona. It's the main base for Monument Valley Navajo Tribal Park, about 25 miles to the north — those sandstone mittens you've seen in a hundred Westerns. Without Kayenta, most visitors would have nowhere sensible to sleep before or after the park.

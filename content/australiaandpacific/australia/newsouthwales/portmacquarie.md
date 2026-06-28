@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Light_House_Beach,_Port_Ma
 latitude: -31.42995
 loc_type: city
 longitude: 152.910352
-score: 0.51
+score: 7.58
+snippet: New South Wales coastal town at the Hastings River mouth, known for beaches
+  and its Koala Hospital.
 title: Port Macquarie
 type: location
 ---

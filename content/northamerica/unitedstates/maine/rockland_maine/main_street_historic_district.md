@@ -9,6 +9,7 @@ latitude: 44.1039
 longitude: -69.1094
 sources:
   - https://en.wikipedia.org/wiki/Main_Street_Historic_District_(Rockland,_Maine)
+score: 7.2
 ---
 
 Rockland's main commercial street is lined with well-preserved nineteenth-century commercial buildings — Italianate brick storefronts, granite facades, and Victorian commercial architecture at a scale that reflects Rockland's mid-century prosperity as a major lime-quarrying and coastal shipping center.

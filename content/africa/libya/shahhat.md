@@ -4,6 +4,9 @@ done:
 latitude: 32.8043
 loc_type: city
 longitude: 21.8661
+score: 5.92
+snippet: Jebel Akhdar town beside ancient Cyrene, with Greek and Roman ruins above
+  Cyrenaica's green hills
 sources:
 - https://en.wikipedia.org/wiki/Shahhat
 - https://en.wikipedia.org/wiki/Cyrene,_Libya

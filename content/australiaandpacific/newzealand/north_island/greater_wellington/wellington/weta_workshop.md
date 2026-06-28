@@ -15,6 +15,7 @@ story: >
   effects studio in New Zealand. They built 48,000 props, 10,000 arrows, and
   1,800 Hobbit feet for the trilogy — and still operate from the same
   Wellington suburb.
+score: 7.6
 ---
 
 Weta Workshop in the suburb of Miramar is where the physical effects for Peter Jackson's Lord of the Rings, King Kong, Avatar, and dozens of other films were created. The workshop offers guided tours of the studio floor, showing you the actual workbenches where prosthetics, armour, weaponry, and creatures are still being made for current productions. The guides are typically working artists at the studio, which gives the tour real substance.

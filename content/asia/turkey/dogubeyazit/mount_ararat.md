@@ -13,6 +13,7 @@ story: >
   Cold War, the mountain was completely off-limits — it sits in a military zone
   and overlooks three countries simultaneously. Permits must be arranged in
   advance through a licensed tour operator, typically in Dogubeyazit or Ankara.
+score: 8.7
 ---
 
 Mount Ararat is the highest peak in Turkey at 5,137 metres and one of the most symbolically loaded mountains in the world — Noah's Ark, according to the Book of Genesis, came to rest on its slopes after the flood receded. Expeditions have been searching for the Ark for centuries without finding anything convincing, but the mountain retains its mythic status regardless. For Armenians, Ararat is the national symbol, visible on the coat of arms, even though the mountain itself has been inside Turkey since 1921.

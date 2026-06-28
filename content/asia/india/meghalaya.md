@@ -10,6 +10,7 @@ loc_type: region
 longitude: 91.29991
 score: 0.59
 title: Meghalaya
+snippet: Northeastern Indian hill state shaped by monsoon rains, waterfalls, and living-root bridges.
 type: location
 ---
 

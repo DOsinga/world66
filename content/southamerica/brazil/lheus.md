@@ -5,7 +5,9 @@ done:
 latitude: -14.7926
 loc_type: city
 longitude: -39.0454
-score: 0.49
+score: 7.4
+snippet: Bahian cacao-coast city tied to Jorge Amado, Art Nouveau mansions, and old
+  fazendas.
 title: Ilhéus
 type: location
 image: lheus.jpg

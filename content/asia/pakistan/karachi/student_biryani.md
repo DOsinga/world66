@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Student Biryani
 type: poi
+score: 7.0
 ---
 Karachi biryani is a distinct thing — spicier, more fragrant, and generally more aggressively seasoned than its counterparts elsewhere in Pakistan — and Student Biryani is the chain that has done most to define what people mean when they say it. The original outlet opened in the 1970s and the brand has since expanded across the city and beyond, but the core product — rice cooked with heavily spiced meat, topped with fried onions and served with raita and salad — remains unchanged and consistently good.
 

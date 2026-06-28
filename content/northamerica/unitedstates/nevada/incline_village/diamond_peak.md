@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Diamond Peak is one of the few ski resorts in the United States owned entirely by the local community. It is operated by the Incline Village General Improvement District, which means profits flow back into community amenities rather than to a corporate parent. This arrangement keeps prices lower than at neighbouring resorts and gives the place a noticeably local, un-marketed feel.
+score: 7.8
 ---
 
 Diamond Peak sits directly above Incline Village, with its base lodge at the end of Ski Way just minutes from the town centre. The resort is small by Lake Tahoe standards — 30 runs on 655 acres — but the views across the lake from the upper lifts are among the best of any ski area in the region, a wide blue panorama framed by pines and granite.

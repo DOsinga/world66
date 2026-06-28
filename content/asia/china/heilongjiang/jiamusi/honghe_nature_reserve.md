@@ -14,6 +14,7 @@ story: >
   Standing in silence at the edge of the reserve in early summer, watching a
   bird that appears in 2,000 years of Chinese art, is an experience that resists
   easy description.
+score: 8.4
 ---
 
 The Honghe National Nature Reserve, about 80 kilometres northeast of Jiamusi, protects over 16,000 hectares of marshy floodplain in the heart of the Sanjiang wetlands. It is one of the most important breeding sites in China for red-crowned cranes and Oriental white storks, and a major staging post on the East Asian Flyway for migrating waterbirds. The reserve was established in 1980, extended and upgraded to national status over subsequent decades, and is now a Ramsar-listed wetland of international importance.

@@ -1,8 +1,12 @@
 ---
-snippet: The main square of the old town, flanked by arcaded buildings and a baroque town hall
+latitude: 42.3357
+longitude: -7.8639
+score: 7.1
+snippet: The main square of the old town, flanked by arcaded buildings and a baroque
+  town hall
 tags:
 - things_to_do
-- landmark
+- sight
 title: Praza Maior
 type: poi
 ---

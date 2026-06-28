@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 52.1911
 longitude: -2.2228
+score: 6.4
 ---
 
 Glover's Needle — properly the tower and spire of the former St Andrew's Church — is the most distinctive silhouette on the Worcester skyline after the Cathedral. The church itself was demolished in the 1940s after bomb damage, but the 55-metre spire was preserved as a listed structure and now stands alone in a small public garden, an elegant pointed finger of medieval stonework rising from the street level.

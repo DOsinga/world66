@@ -6,6 +6,7 @@ latitude: 31.4500
 longitude: 35.3850
 story: >
   The name Arugot means "flower beds" in Hebrew — a reference to the ancient cultivation terraces that once lined the wadi walls, where balsam and other aromatics were grown during the Roman period. The terraces are still faintly visible.
+score: 8.4
 ---
 
 Wadi Arugot is the second of Ein Gedi's two main wadis, reached from a separate entrance gate about a kilometre south of the Wadi David entrance. The trail is longer and somewhat harder than the Wadi David route — the upper waterfall is about 3.5 km from the gate — but it sees fewer visitors and the canyon is narrower and more dramatic.

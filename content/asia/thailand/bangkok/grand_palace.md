@@ -1,10 +1,12 @@
 ---
 latitude: 13.7494
 longitude: 100.4919
-snippet: "Bangkok's most famous landmark, dazzling royal complex"
+score: 9.3
+snippet: Bangkok's most famous landmark, dazzling royal complex
 tags:
 - things_to_do
 - palace
+- rattanakosin
 title: Grand Palace
 type: poi
 ---

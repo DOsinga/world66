@@ -2,10 +2,12 @@
 address: 1 Sheikh Mohammed bin Rashid Blvd, Downtown Dubai
 latitude: 25.1972
 longitude: 55.2744
+score: 8.9
 snippet: World's tallest building with observation decks over the desert and sea
 tags:
 - things_to_do
 - landmark
+- downtown_dubai
 title: Burj Khalifa
 type: poi
 ---

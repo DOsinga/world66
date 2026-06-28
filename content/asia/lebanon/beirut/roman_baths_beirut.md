@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8970
 longitude: 35.5023
+score: 7.8
 ---
 
 Tucked into a sunken garden behind the Grand Serail, the Roman baths are one of the most evocative remnants of Berytus, the ancient city that lay beneath modern Beirut. Excavated and consolidated after the civil war, the brick hypocausts, fragments of mosaic and the outlines of cold and hot rooms are all clearly visible.

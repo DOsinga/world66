@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Indian_Rhino_in_Pobitora.j
 latitude: 26.259401
 loc_type: city
 longitude: 91.984768
-score: 0.41
+score: 7.05
+snippet: Compact Assam wildlife sanctuary on Brahmaputra floodplains, noted for dense
+  one-horned rhinoceros habitat.
 title: Pobitora
 type: location
 ---

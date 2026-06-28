@@ -4,11 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.377969
 longitude: 4.912886
-neighbourhood: Plantage
 phone: 020 788 2188
+score: 8.7
 snippet: World-class jazz venue in a glass box over the IJ
 tags:
 - nightlife
+- plantage
 title: Bimhuis
 type: poi
 url: bimhuis.nl

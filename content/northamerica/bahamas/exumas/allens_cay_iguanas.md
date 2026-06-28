@@ -4,7 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 24.7433
 longitude: -76.8383
+score: 7.5
 snippet: Endangered rock iguanas on an uninhabited cay
+tags:
+- things_to_do
+- sight
+- wildlife
 title: Allen's Cay Rock Iguanas
 type: poi
 ---

@@ -8,6 +8,7 @@ longitude: 75.7754
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 The Tali Temple, built around 1300 by the Zamorin Swamy Tirumulpad, was the royal temple of the Kozhikode kings and is still the great Shiva sanctuary of the city. It is built in the typical Kerala temple style: low tiled roofs, wooden carvings, copper-clad gables and a small enclosed compound.

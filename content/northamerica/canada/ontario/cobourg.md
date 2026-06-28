@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Cobourg_Aerial_Vi
 latitude: 43.9596
 loc_type: city
 longitude: -78.1678
-score: 0.42
+score: 6.89
+snippet: Lake Ontario town east of Toronto, with a Victorian downtown, sandy beach,
+  and restored Victoria Hall.
 title: Cobourg
 type: location
 ---

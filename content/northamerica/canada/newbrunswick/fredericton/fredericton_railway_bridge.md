@@ -13,6 +13,7 @@ story: >
   riverfront trail system.
 sources:
   - https://en.wikipedia.org/wiki/Fredericton_Railway_Bridge
+score: 6.3
 ---
 
 The Fredericton Railway Bridge is a converted former railway bridge that now serves as a pedestrian and cycling crossing over the Saint John River. Walking across it offers good views up and down the river, and on a clear day you can see the city's Victorian skyline — the cathedral spire, the old legislative building, the waterfront park — from a perspective that you can't get from the riverbank.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_Simata
 latitude: 40.6703
 loc_type: feature
 longitude: 117.2411
-score: 0.57
+score: 8.19
+snippet: Steep, largely unrestored Great Wall section northeast of Beijing, with watchtowers
+  on narrow ridges.
 title: Simatai
 type: location
 ---

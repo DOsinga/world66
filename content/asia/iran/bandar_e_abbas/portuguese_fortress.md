@@ -17,6 +17,7 @@ story: >
   and English East India Company troops expelled the Portuguese — the English
   received trading rights in exchange for their naval support, a deal that would
   shape the region's history for centuries.
+score: 6.4
 ---
 
 The ruins of the Portuguese fortress stand near the harbour, a red-brick reminder that Bandar Abbas was once a strategic prize in the contest for control of the Strait of Hormuz. The Portuguese built here in the 16th century to secure their dominance of Gulf trade, and the fortress was one of several mainland installations supporting their island stronghold on Hormuz.

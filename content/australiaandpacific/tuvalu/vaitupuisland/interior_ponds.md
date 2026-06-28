@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -7.48
 longitude: 178.685
+score: 6.3
 ---
 
 Vaitupu has two small, shallow brackish ponds in its interior, ringed by pulaka pits and pandanus. They are not impressive in any conventional sense — neither is more than a few hundred metres across — but they are the only freshwater-ish bodies of water in the country apart from the similar ponds on Nanumanga and Niutao.

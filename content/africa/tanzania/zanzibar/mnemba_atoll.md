@@ -11,6 +11,7 @@ tags:
   - snorkelling
 snippet: Marine protected area with the best diving and snorkelling off Zanzibar
 story: "Mnemba island itself — the tiny private island at the centre of the atoll — is leased by a luxury resort and completely off limits to non-guests. But the atoll's reef that encircles it is a marine protected area open to all, and the boats that bring day-trippers anchor just outside the no-entry zone while snorkellers drift over walls of coral and through schools of a thousand fish."
+score: 9.0
 ---
 
 Mnemba Atoll, off the northeast tip of Zanzibar, is the finest snorkelling and diving site in the archipelago — and consistently ranks among the best in East Africa. The atoll is a shallow ring of reef encircling a private island, declared a marine conservation area that strictly controls fishing and visitor numbers. The result is an underwater world of unusual richness: enormous schools of fish, healthy hard and soft corals, green turtles grazing on sea grass, reef sharks moving through the blue, and occasional whale sharks passing in season (November to February).

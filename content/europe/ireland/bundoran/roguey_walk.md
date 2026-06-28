@@ -5,6 +5,7 @@ tags: [things_to_do, sight, outdoor]
 latitude: 54.4760
 longitude: -8.2920
 story: "The Roguey Walk takes its name from the Irish Roc Aoidhe (Aoidhe's Rock). The blow-holes here, locally called Fairy Bridges, form where the sea has eroded caves into the base of the cliffs and the roof has collapsed or thinned — when large waves arrive, compressed air and water shoot upward through the gaps with a sound like a cannon. They have been a tourist attraction since Victorian times."
+score: 8.0
 ---
 
 The Roguey Walk is Bundoran's best coastal path — a 2.5-kilometre loop along the cliff edge southwest of the town centre, passing sea arches, blow-holes, and sculpted sandstone formations. The views across Donegal Bay to the Sligo mountains are excellent, and the path is well-maintained and accessible for most walkers.

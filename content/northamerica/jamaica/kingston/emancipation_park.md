@@ -8,6 +8,7 @@ latitude: 18.0025
 longitude: -76.79
 story: >
   The park's entrance sculptures, "Redemption Song" by Laura Facey, caused a fierce controversy on their unveiling in 2003. The two nude figures — a man and a woman, larger than life — were condemned by church groups as indecent. The artist's intention was to depict the moment of liberation from slavery. The debate became a national conversation about the body, religion, and what emancipation means two centuries on.
+score: 5.8
 ---
 
 Emancipation Park in New Kingston is a well-maintained green space opened in 2002, commemorating the 170th anniversary of the abolition of slavery in Jamaica. At 7.5 acres, it provides an unusual amenity in the heart of New Kingston's commercial district — a place to walk or sit that isn't a shopping mall car park.

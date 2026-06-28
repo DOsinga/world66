@@ -1,0 +1,200 @@
+{
+  "round": 2866,
+  "timestamp": "2026-06-13T22:12:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.439,
+      "prior_variance": 0.154814,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -4.2974,
+      "prior_variance": 0.218339,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.6293,
+      "prior_variance": 0.150197,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -3.0489,
+      "prior_variance": 0.15074,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_score": -4.5841,
+      "prior_variance": 0.186664,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Neum\u00fcnster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_score": -3.8124,
+      "prior_variance": 0.147334,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -3.7892,
+      "prior_variance": 0.159858,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_score": -3.6441,
+      "prior_variance": 0.148489,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/delta",
+      "prior_score": -4.2898,
+      "prior_variance": 0.159572,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -3.794,
+      "prior_variance": 0.139589,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -4.9325,
+      "prior_variance": 0.202187,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_score": -4.4532,
+      "prior_variance": 0.16359,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -5.8712,
+      "prior_variance": 0.215977,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.3019,
+      "prior_variance": 0.188317,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -1.5525,
+      "prior_variance": 0.157649,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -5.3013,
+      "prior_variance": 0.213311,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -5.4205,
+      "prior_variance": 0.193251,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -6.2927,
+      "prior_variance": 0.218207,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -6.4096,
+      "prior_variance": 0.206968,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.6562,
+      "prior_variance": 0.17795,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -4.0722,
+      "prior_variance": 0.149674,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -5.2091,
+      "prior_variance": 0.186703,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -5.7608,
+      "prior_variance": 0.200529,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -4.4561,
+      "prior_variance": 0.130396,
+      "prior_n": 10
+    }
+  ]
+}

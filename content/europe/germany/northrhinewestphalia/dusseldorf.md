@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Rheinkniebr%C3%BCcke_at_ni
 latitude: 51.225402
 loc_type: city
 longitude: 6.776314
-score: 0.55
+score: 7.85
+snippet: Rhine financial and fashion city, with Königsallee polish, Altstadt beer
+  halls, and modern Medienhafen architecture.
 title: Dusseldorf
 type: location
 ---

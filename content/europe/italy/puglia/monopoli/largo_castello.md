@@ -7,6 +7,7 @@ tags:
 latitude: 40.9517
 longitude: 17.2987
 snippet: Sea-facing piazza below the castle walls
+score: 6.2
 ---
 
 The small piazza wrapped around the seaward side of the Castello di Carlo V is the prettiest spot in Monopoli for an aperitivo. The square sits a few metres above the water with a low stone parapet and views straight out into the Adriatic; the rocks at the foot of the castle wall are a favourite jumping-in spot for local teenagers in summer.

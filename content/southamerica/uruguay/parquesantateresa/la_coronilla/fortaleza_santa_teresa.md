@@ -8,6 +8,7 @@ tags:
 title: Fortaleza de Santa Teresa
 type: poi
 story: "The fortress was begun by the Portuguese in 1762, captured by the Spanish before it was finished, and completed by them instead. It was then taken and retaken several times during the wars of the late colonial period. By the time Uruguay achieved independence in 1828, the fortress had been attacked more times than most comparable structures and had never been successfully defended."
+score: 8.8
 ---
 
 The Fortaleza de Santa Teresa sits at the centre of Parque Nacional Santa Teresa, about 10 kilometres south of La Coronilla, and is one of the best-preserved colonial military fortifications in Uruguay. Construction was begun by the Portuguese in 1762 and completed by the Spanish after they captured it; the result is a sturdy star-shaped fortress with thick stone walls and corner bastions that commands views over the surrounding coast and the edge of the national park.

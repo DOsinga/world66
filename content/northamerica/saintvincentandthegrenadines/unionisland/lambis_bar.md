@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 12.5978
 longitude: -61.4212
+score: 6.4
 ---
 
 Lambi's is Union Island's best-known watering hole, a sun-bleached wooden bar on the Clifton waterfront that serves cold Hairoun beer, rum punches, and grilled fish to a crowd that mixes sailors, locals, and travellers who have found the place and decided to stay another day. The kitchen is straightforward — fresh catch, rice and peas, fried plantain — but the quality is reliable and the portions generous.

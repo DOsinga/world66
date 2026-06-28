@@ -9,6 +9,7 @@ latitude: 44.4212
 longitude: 12.1949
 story: >
   The mausoleum is named for Galla Placidia, the daughter of the Roman emperor Theodosius and one of the most remarkable women of Late Antiquity — regent of the Western Roman Empire, captive of the Visigoths, empress of a disintegrating empire. But she probably was not actually buried here. The three sarcophagi inside are almost certainly not hers. The mausoleum carries her name despite being, in all likelihood, empty of its supposed occupant.
+score: 9.7
 ---
 
 The Mausoleum of Galla Placidia is the oldest of Ravenna's UNESCO monuments, built in the first half of the 5th century, and it contains the most beautiful mosaics in the city — which is saying something. From outside, the building is small, dark, and unpromising: a plain brick cross-shaped structure on the edge of the San Vitale complex. Inside, you step into a different world.

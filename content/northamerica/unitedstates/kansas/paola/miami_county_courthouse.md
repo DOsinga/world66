@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Striking 1898 Romanesque-revival courthouse with a tall clock tower
+score: 8.0
 ---
 
 The Miami County Courthouse, completed in 1898, anchors the south side of Park Square. It is a fine example of Romanesque Revival, with rough-cut limestone walls, rounded arches over the windows, and a tall central tower carrying a four-faced clock. The architect was George P. Washburn of Ottawa, Kansas, who designed a string of similar Kansas county courthouses in the 1890s; this is among the best preserved.

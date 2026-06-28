@@ -8,6 +8,7 @@ tags:
 - sight
 - market
 snippet: Weekly market under the Tyne Bridge, every Sunday since the 18th century
+score: 6.9
 ---
 
 Newcastle's Sunday market has been running on the Quayside cobbles in some form since at least the 18th century. The contemporary version stretches between the Tyne Bridge and the Millennium Bridge with food stalls, vintage clothing, art, vinyl, and bric-a-brac. It is best in the morning before the crowds; many stalls pack up around 3pm.

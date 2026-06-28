@@ -1,10 +1,9 @@
 ---
 address: 72 Roeland Street City
-category: Archive
 latitude: -33.931791
 longitude: 18.423252
-neighbourhood: City Bowl
 phone: ++27 (0)21 462 4050.
+score: 6.9
 scores:
   activities: 0.5649
   museum: 0.6605

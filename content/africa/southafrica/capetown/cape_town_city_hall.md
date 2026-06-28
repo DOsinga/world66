@@ -1,8 +1,7 @@
 ---
-category: Architecture
 latitude: -33.9258
 longitude: 18.424
-neighbourhood: City Bowl
+score: 7.6
 scores:
   activities: 0.583
   sight: 0.6766

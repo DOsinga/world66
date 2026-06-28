@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 34.1500
 longitude: -94.6700
+score: 8.8
 ---
 
 Broken Bow Lake is a 14,000-acre reservoir formed by damming the Mountain Fork in 1969, with 180 miles of shoreline that mostly remain undeveloped forest. The water is unusually clear for an Oklahoma lake — visibility of 15 feet or more in summer — which makes it popular for swimming, scuba diving, and bass fishing.

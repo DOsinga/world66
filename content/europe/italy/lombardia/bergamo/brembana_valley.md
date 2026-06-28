@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Brembana Valley
 type: poi
+score: 7.8
 ---
 
 Val Brembana stretches north from Bergamo into the Orobie Alps, following the Brembo river through a succession of small towns, gorges, and high pastures. In winter the valley offers affordable skiing at Foppolo and cross-country trails around Piazzatorre. In summer the same slopes become hiking country, with paths climbing to mountain lakes and rifugi above the treeline.

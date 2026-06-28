@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.4383
 longitude: 118.0932
+score: 6.8
 ---
 
 Xiamen University is not on Gulangyu but sits immediately opposite, a five-minute walk from the South Ferry Terminal. Founded in 1921 by Tan Kah Kee, an overseas Chinese businessman who made his fortune in rubber and returned to Fujian to invest in education, the campus combines traditional southern Chinese architectural elements with a beachfront setting that most universities would envy. The main library and administration buildings use tiered roof structures in the Fujian style over modern construction, and the ensemble facing the sea has been photographed enough times to be genuinely famous.

@@ -7,6 +7,7 @@ tags:
 latitude: 46.9165
 longitude: 9.85372
 story: The Prättigau — literally "meadow district" in the Romansh-rooted dialect — runs about 35 kilometres from Landquart up to the Davos plateau, lined with small villages that have retained their traditional Walser architecture. The valley was settled in the 13th and 14th centuries by Walser migrants from Valais, who brought distinctive construction techniques that you can still see in the older buildings around Klosters and Saas im Prättigau.
+score: 7.1
 ---
 
 The Prättigau is the Alpine valley in which Klosters sits, running from the Rhine plain near Landquart up to the high plateau of Davos. It is one of the more traditional valley landscapes in Graubünden, with a string of small farming villages alongside the Landquart river, many of them architecturally intact and little visited.

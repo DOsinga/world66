@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/West_End_Historic_District_(Waxahachie,_Texas)
+score: 7.7
 ---
 
 A short walk west of the courthouse square, the West End Historic District is where Waxahachie's cotton-era prosperity is most visible in residential form. The streets are lined with Queen Anne, Greek Revival, Colonial Revival, and Craftsman houses built between roughly 1880 and 1930, with broad porches, ornamental gables, and the kind of mature shade trees that small Texas towns rarely manage to keep.

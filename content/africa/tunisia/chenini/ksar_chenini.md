@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ksar_Chenini
 story: >
   In January 2020, Tunisia submitted Ksar Chenini for UNESCO World Heritage consideration — recognition that this crumbling honeycomb of vaulted chambers, perched 150 metres above the valley floor, is something genuinely rare. The National Heritage Institute began restoration work in the 2000s after decades of abandonment, but much of what you see is still as the last residents left it.
+score: 8.5
 ---
 
 Ksar Chenini is the fortified granary that crowns the ridge above the village, and it is one of the most imposing ksour in southern Tunisia. From a distance it reads as a natural extension of the rock face — stacked rows of vaulted chambers called ghorfas, their arched doorways dark against the pale stone, climbing the crest of the peak in two rough levels. At its height the complex held over 200 individual storage rooms, where oil and grain were kept by families from the valley below.

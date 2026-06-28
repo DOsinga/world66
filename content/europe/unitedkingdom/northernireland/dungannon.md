@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Georges_Street,_Dungannon_
 latitude: 54.503909
 loc_type: city
 longitude: -6.770362
-score: 0.38
+score: 5.97
+snippet: County Tyrone market town and old O'Neill stronghold, set on a hill in central
+  Ulster.
 title: Dungannon
 type: location
 ---

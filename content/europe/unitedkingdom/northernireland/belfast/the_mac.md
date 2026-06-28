@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 54.6017
 longitude: -5.9221
+score: 7.1
 ---
 
 The MAC (Metropolitan Arts Centre) is Belfast's main contemporary arts venue, a purpose-built building in the Cathedral Quarter that opened in 2012 and houses two theatres, three gallery spaces, artists' studios, and a café. The building itself — by the architects Hackett Hall McKnight — is an interesting exercise in spatial generosity: the gallery spaces feel large and the circulation through the building is pleasant.

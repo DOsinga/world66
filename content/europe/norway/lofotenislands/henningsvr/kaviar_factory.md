@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 68.1529
 longitude: 14.2008
+score: 7.6
 ---
 
 One of Norway's more unexpected contemporary art venues, the Kaviarfabrikken (Caviar Factory) occupies a converted fish-processing building on the harbour. The space hosts exhibitions of contemporary and modern art, typically with a rotating program of Norwegian and international artists. The building itself — industrial, utilitarian, converted with care — is part of the attraction.

@@ -13,6 +13,7 @@ story: >
   yellow. Archaeologists working here in the 1990s found a platform covered in
   the skeletons of young men ritually sacrificed, almost certainly to appease Ai
   Apaec during times of El Niño drought.
+score: 9.5
 ---
 
 A massive Moche pyramid about 8 km south of Trujillo, dating from roughly 100 to 800 AD. The site consists of two main structures: the Huaca de la Luna and the smaller Huaca del Sol across an open plain. The Huaca de la Luna is the better preserved and the one open to visitors.

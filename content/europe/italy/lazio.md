@@ -5,8 +5,14 @@ latitude: 41.980165
 loc_type: region
 longitude: 12.766797
 score: 0.55
+snippet: Central Italian region around Rome, layered with Roman ruins, hill towns,
+  volcanic lakes, and summer retreats.
 title: Lazio
 type: location
+image: lazio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Circeo.JPG
+image_license: Public domain
+image_attribution: Egnoka
 ---
 
 Lazio (Latium in those days) was the heart of the Roman Empire. It still is very much the province of the perennial city of Rome. Although there are other interesting sights, most tourists will head for [Rome](/europe/italy/lazio/rome) immediately. And who can blame them? Rome is one of the most beautiful cities on the planet and a must see for everyone. 

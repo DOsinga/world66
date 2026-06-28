@@ -5,6 +5,7 @@ latitude: 52.7411
 longitude: 6.0774
 snippet: "Flat polder roads through peatland and farmland — ideal cycling from the village"
 tags: [things_to_do, activity, nature]
+score: 6.8
 ---
 
 The flat polder landscape around Giethoorn is excellent cycling territory. Bikes are available to rent from several places near the village entrance, and the Dutch numbered-node cycle network (knooppunten) makes it easy to plan routes of any length without a detailed map. The landscape is immediately rewarding: dyke paths, reed beds, and working farmland alternate with views across open water.

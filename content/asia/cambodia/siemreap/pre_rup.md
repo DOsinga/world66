@@ -16,6 +16,7 @@ story: >
   it was more likely a water basin or ablution tank. Pre Rup was built as the
   state temple and likely intended mausoleum of King Rajendravarman II,
   who died in 968 AD.
+score: 9.1
 ---
 
 **Pre Rup** is a late 10th-century Hindu temple-mountain in the south of the Angkor complex, built by King Rajendravarman II in 961 AD. It is a three-tiered pyramid of laterite and brick with five sandstone towers at the summit, and it offers one of the better sunset views at Angkor — the western face of the upper terrace looks directly toward the setting sun, and the warm light on the red brick is beautiful. Because it is on the "large circuit" east of the main group, it sees somewhat fewer visitors than Angkor Wat or the Bayon, though it has become increasingly popular as a sunset spot.

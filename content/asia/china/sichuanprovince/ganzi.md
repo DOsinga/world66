@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Seda_facing_south.jpg
 latitude: 31.6228
 loc_type: city
 longitude: 100.0006
+score: 7.49
+snippet: Tibetan plateau town in western Sichuan, a rough transport hub for routes
+  through Kham.
 sources:
 - https://en.wikivoyage.org/wiki/Ganzi
 title: Ganzi

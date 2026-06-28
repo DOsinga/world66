@@ -13,6 +13,7 @@ story: >
   of low rocky islands that characterise this stretch of the Skagerrak coast.
   The national park was established in 2016 specifically to protect this
   landscape, making it one of Norway's newest.
+score: 8.8
 ---
 
 Raet National Park extends along the coastline north and south of Grimstad, covering 607 square kilometres of coastal nature and sea. The park protects the distinctive ra landscape — the underwater ridge and associated islands formed by glacial activity at the end of the last ice age. The result is a sheltered inner archipelago of small islands, skerries, and protected bays that provide some of the best swimming and small-boat sailing on the Norwegian south coast.

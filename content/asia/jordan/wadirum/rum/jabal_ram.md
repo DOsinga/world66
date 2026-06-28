@@ -11,6 +11,7 @@ story: >
   The mountain was first climbed by Westerners in the early 20th century, but Bedouin had been
   ascending it long before — they used the high ground to spot approaching caravans and monitor
   their goat herds across multiple valleys.
+score: 8.8
 ---
 
 The massive flat-topped mountain that dominates the skyline directly above Rum village is Jabal Ram, and it looms over everything. From the village, it looks sheer and unclimbable, but a route exists up the back side that experienced hikers can manage with a Bedouin guide.

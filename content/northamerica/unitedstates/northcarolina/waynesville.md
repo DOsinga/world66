@@ -5,13 +5,15 @@ done:
 latitude: 35.488748
 loc_type: city
 longitude: -82.988872
-score: 0.45
+score: 7.01
 title: Waynesville
 type: location
 image: waynesville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Waynesville_NC.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Daniel Hass
+snippet: Waynesville is a Southern Appalachian mountain town with an intact Main Street
+  and Blue Ridge setting.
 ---
 
 Waynesville is a mountain town just west of [Asheville](/northamerica/unitedstates/northcarolina/asheville), sitting at 2,700 feet in the Southern Appalachians where the Blue Ridge meets the Great Smokies. The [downtown Main Street](/northamerica/unitedstates/northcarolina/waynesville/main_street_downtown) is lined with independent shops, galleries, and restaurants that reward a slow afternoon of browsing — one of the more intact small-town commercial streets in the region.

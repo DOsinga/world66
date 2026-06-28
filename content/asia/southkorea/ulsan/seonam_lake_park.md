@@ -10,6 +10,7 @@ title: Seonam Lake Park
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Seonam_Lake_Park
+score: 6.2
 ---
 
 Seonam Lake Park sits in the south of the city, nestled beside Hamwolsan mountain in Seonam-dong. It is a quieter alternative to the more central Ulsan Grand Park — a genuine neighbourhood park rather than a civic showpiece, and better for it. The lake is pleasant at any time of year but particularly so in autumn, when the surrounding hillsides turn amber and the reflections on the water are good.

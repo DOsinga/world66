@@ -4,11 +4,13 @@ done:
 latitude: 27.065985
 loc_type: city
 longitude: 88.467995
-score: 0.55
+score: 7.94
 sources:
 - https://en.wikipedia.org/wiki/Kalimpong
 title: Kalimpong
 type: location
+snippet: Kalimpong is a Teesta Valley hill town with Tibetan, Nepali, Bengali, and
+  Bhutia influences.
 ---
 
 *Asia > India > West Bengal > Kalimpong*

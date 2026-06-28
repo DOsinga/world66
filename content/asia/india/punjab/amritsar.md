@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Temple_Amritsar_Gur
 latitude: 31.634
 loc_type: city
 longitude: 74.8723
-score: 0.61
+score: 9.04
+snippet: Major Punjab city and Sikh spiritual centre, built around the Harmandir Sahib,
+  or Golden Temple.
 sources:
 - https://en.wikipedia.org/wiki/Amritsar
 title: Amritsar

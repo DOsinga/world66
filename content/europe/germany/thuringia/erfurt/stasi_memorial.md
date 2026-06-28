@@ -9,6 +9,7 @@ latitude: 50.9786
 longitude: 11.0233
 sources:
   - https://en.wikipedia.org/wiki/Memorial_and_Education_Centre_Andreasstra%C3%9Fe
+score: 6.9
 ---
 
 A former Stasi prison and remand centre, converted into a museum and memorial after German reunification. During the GDR period, this building on Andreasstrasse held political prisoners, dissidents, and anyone deemed an enemy of the state by the Ministry for State Security. Cells, interrogation rooms, and administrative spaces have been preserved and interpreted.

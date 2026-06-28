@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.4068
 longitude: -1.4438
+score: 6.9
 ---
 
 The Iglesia de Santiago sits on a small plaza just below the cathedral and is the second of Albarracín's medieval churches. The current building is mostly 16th-century Gothic, with a tall belfry that is the second landmark of the upper-town skyline after the cathedral.

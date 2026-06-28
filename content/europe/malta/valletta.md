@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Sebastian_Curtain_(crop
 latitude: 35.899
 loc_type: city
 longitude: 14.5137
-score: 0.69
+score: 9.32
+snippet: Tiny Maltese capital of Baroque streets, Knights of St John fortifications,
+  and Grand Harbour views.
 title: Valletta
 type: location
 ---

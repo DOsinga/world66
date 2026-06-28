@@ -7,10 +7,12 @@ done:
 latitude: 41.388062
 longitude: 2.197744
 phone: 93-225-78-78
+score: 6.0
 snippet: Casino and nightclub in Port Olympic, open until 5am
 tags:
 - bars_and_cafes
 - nightlife
+- sant_marti
 title: Gran Casino de Barcelona
 type: poi
 url: www.casino-barcelona.com

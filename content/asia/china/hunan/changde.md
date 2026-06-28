@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Changde_Poetry_Wall.jpg
 latitude: 29.0397
 loc_type: city
 longitude: 111.6839
+score: 6.15
+snippet: Yuan River city in northern Hunan known for its three-kilometre Poem Wall
+  of carved calligraphy.
 sources:
 - https://en.wikivoyage.org/wiki/Changde
 title: Changde

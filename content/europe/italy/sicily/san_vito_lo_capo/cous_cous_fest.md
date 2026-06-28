@@ -6,6 +6,7 @@ tags:
   - festival
 latitude: 38.1750
 longitude: 12.7405
+score: 7.4
 ---
 
 Every September, San Vito Lo Capo hosts the Cous Cous Fest, an international couscous cooking competition that has grown into one of Sicily's most celebrated food events. Chefs from a dozen or more countries compete in an open-air arena on the beach, each preparing their national version of couscous to be judged by a panel of food critics and by public tasting.

@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:2019-06_Anzio_(7).jpg
 latitude: 41.4471
 loc_type: city
 longitude: 12.6286
-score: 0.5
+score: 7.69
 title: Anzio
+snippet: Lazio seaside town south of Rome, remembered for wartime landings and still
+  centred on its fishing harbour.
 type: location
 ---
 

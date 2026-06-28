@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 6.6
 ---
 
 Vihara Dharma Sasana is the largest Chinese Buddhist temple in Tanjung Pinang and the one most visitors end up at, partly because it sits close to the waterfront and partly because it is simply hard to miss — a building decorated with elaborate dragon sculptures, brightly painted pavilions, and incense braziers the size of small cars.

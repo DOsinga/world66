@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Gasthof Pulvermanns Grab
 type: poi
+score: 4.8
 ---
 
 A traditional Gasthof on the northern edge of Halle, a short way from the old town. The menu runs to solid German standards — roasts, schnitzel, dumplings — made without fuss and served in a wood-panelled dining room that looks much as it did decades ago. The location puts off casual visitors, which is part of the appeal.

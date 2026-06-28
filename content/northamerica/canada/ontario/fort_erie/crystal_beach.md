@@ -10,6 +10,7 @@ tags:
 - sight
 title: Crystal Beach
 type: poi
+score: 7.7
 ---
 
 The finest beach on the Canadian side of Lake Erie, a wide crescent of sand in the Crystal Beach neighbourhood at the southern tip of Fort Erie. The water is warmer than Lake Ontario and the shallow approach makes it popular with families. On clear days the Buffalo skyline is visible across the lake.

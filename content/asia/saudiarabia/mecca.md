@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Mecca1.jpg
 latitude: 21.420847
 loc_type: city
 longitude: 39.826869
-score: 0.31
+score: 6.62
+snippet: Holiest city in Islam, centred on the Grand Mosque and the Kaaba circled
+  by pilgrims.
 title: Mecca
 type: location
 ---

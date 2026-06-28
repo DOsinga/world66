@@ -1,15 +1,17 @@
 ---
 address: Dame Street, Dublin 2
-admission: "Great Courtyard: free. State Apartments & Undercroft: €12 adults"
+admission: 'Great Courtyard: free. State Apartments & Undercroft: €12 adults'
 latitude: 53.342662
 longitude: -6.267004
 opening_hours: Mon–Sat 09:45–17:45, Sun 12:00–17:45
 phone: +353 1 645 8813
+score: 8.5
 snippet: Former seat of British rule in Ireland for seven centuries
 tags:
 - things_to_do
 - sight
 - architecture
+- medieval_quarter
 title: Dublin Castle
 type: poi
 url: https://www.dublincastle.ie

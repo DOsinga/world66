@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7351
 longitude: 75.1525
+score: 6.1
 ---
 
 The Jamia Masjid is the main congregational mosque of Anantnag town, an old timber-and-brick structure typical of Kashmiri religious architecture — pyramidal roof, deep eaves, and a slim minaret. It sits in the old bazaar at the heart of town and fills with worshippers on Fridays.

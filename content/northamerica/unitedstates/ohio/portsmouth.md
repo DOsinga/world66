@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Portsmouth,_Ohio.jpg
 latitude: 38.7318
 loc_type: city
 longitude: -82.9977
-score: 0.29
+score: 5.1
+snippet: Southern Ohio river city known for floodwall murals at the Scioto and Ohio
+  confluence.
 title: Portsmouth
 type: location
 ---

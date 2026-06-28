@@ -2,7 +2,12 @@
 category: Sight
 latitude: 42.334
 longitude: -8.073
+score: 8.5
 snippet: Impressive Celtic hill-fort with double ring of fortifications
+tags:
+- things_to_do
+- sight
+- archaeology
 title: Castro San Cibrán de Lás
 type: poi
 ---

@@ -8,6 +8,7 @@ tags:
 - grand_center
 latitude: 38.6385
 longitude: -90.2354
+score: 7.6
 ---
 
 The Sheldon is a small, beautifully proportioned concert hall in the Grand Center arts district, built in 1912 and noted nationally for the quality of its acoustics. The 700-seat hall has been compared to the chamber music rooms of Vienna; performers consistently rate it among the best small venues in the country to play.

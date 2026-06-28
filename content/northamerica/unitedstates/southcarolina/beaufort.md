@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bay_Street_Downtown_Beaufo
 latitude: 32.4316
 loc_type: city
 longitude: -80.6698
-score: 0.52
+score: 7.67
+snippet: Lowcountry town on Port Royal Island, with antebellum streets, Gullah heritage,
+  and a waterfront historic district.
 title: Beaufort
 type: location
 ---

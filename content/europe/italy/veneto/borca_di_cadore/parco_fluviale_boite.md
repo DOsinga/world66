@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 46.4310
 longitude: 12.2200
+score: 5.7
 ---
 
 A small riverside park follows the Boite where it runs through the lower part of Borca. Paths along both banks make for an easy walk in summer, with picnic tables, fishing spots, and access to the cold clean water of the river. In high summer the meltwater turns turquoise from rock flour washed down from the Antelao glaciers.

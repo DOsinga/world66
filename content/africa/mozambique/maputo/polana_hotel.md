@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Polana
+score: 8.1
 ---
 
 The **Polana Hotel** (now branded *Polana Serena*) is the grand old hotel of southern Africa. Designed by the British architect **Sir Herbert Baker** — better known for his work on New Delhi and the Union Buildings in Pretoria — and opened in 1922, it sits on a bluff above the bay in the heart of Polana, surrounded by lawns, palms and pool decks. The hotel has hosted every kind of important visitor from Portuguese colonial governors to Nelson Mandela and Bono, and its terrace was a meeting place for foreign correspondents throughout the wars.

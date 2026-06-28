@@ -8,6 +8,7 @@ tags:
 - sight
 title: Dochu La Pass
 type: poi
+score: 7.5
 ---
 
 A mountain pass at 3100 metres on the road between Thimphu and Punakha, about 30 km from the capital. The 108 chortens arranged in concentric circles at the pass summit are a striking sight in any weather, and in clear conditions (best in winter) the panorama of high Himalayan peaks to the north is extraordinary. A small café sells butter tea and noodles. The pass is a worthwhile stop even on a cloudy day for the atmosphere — prayer flags, mist, and the silence of a Bhutanese mountain road.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - neighbourhood
+score: 6.2
 ---
 
 Canneto is a small village a few kilometres north of Lipari town, reached by a 15-minute bus ride along the coast road. The main reason to come is the beach: a long curve of grey pebble that catches the afternoon sun and gives easy access to clear blue water with sea-bed visibility unusual for the Mediterranean.

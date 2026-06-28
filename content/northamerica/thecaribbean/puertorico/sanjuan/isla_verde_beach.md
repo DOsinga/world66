@@ -8,6 +8,7 @@ tags:
   - sight
   - isla_verde
 neighbourhood: Isla Verde
+score: 7.6
 ---
 
 Isla Verde Beach is the longest, widest, and generally best beach in the San Juan metropolitan area — over two kilometres of soft white sand with low dunes, palm trees, and a steady offshore breeze. The bigger resort hotels (El San Juan, Ritz-Carlton, Marriott) line the back of the beach but the sand itself is public.

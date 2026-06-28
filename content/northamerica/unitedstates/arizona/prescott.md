@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Prescott,_Arizona_(1013093
 latitude: 34.539984
 loc_type: city
 longitude: -112.468812
-score: 0.49
+score: 7.5
+snippet: Former Arizona territorial capital in pine-covered high country, centred
+  on Courthouse Plaza and Whiskey Row.
 title: Prescott
 type: location
 ---

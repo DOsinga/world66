@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood_area
   - history
+score: 8.4
 ---
 
 The historic district covers most of old Lewes — roughly the few blocks bounded by the canal, Savannah Road, and the church plot at Kings Highway. Walking it is the point: 18th- and 19th-century houses in cypress shingle and brick, the small green opposite the Zwaanendael Museum, the cluster of colonial-era buildings along Pilottown Road. It is a National Historic District and signed accordingly, but no one in town treats it as a museum; people still live in most of the houses.

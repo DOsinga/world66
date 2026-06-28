@@ -10,6 +10,7 @@ tags:
 snippet: The largest casino in Canada, housed in the French pavilion from Expo '67
 sources:
   - https://en.wikipedia.org/wiki/Casino_de_Montr%C3%A9al
+score: 5.7
 ---
 
 The Casino de Montréal occupies the former French and Québec pavilions from Expo '67 on Île Notre-Dame, making it one of the most architecturally interesting casinos in North America. The mirrored, geometric French pavilion — designed by Jean Faugeron — houses the main gaming floor, with 3,000 slot machines and over 100 table games. A skywalk connects it to the former Québec pavilion, which houses more gaming and several restaurants.

@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
+image: burnley.jpg
+image_attribution: Boerkevitz at Dutch Wikipedia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:LeedsLiverpoolCanalBurnley2.JPG
 latitude: 53.790726
 loc_type: city
 longitude: -2.24392
-score: 0.32
+score: 5.69
+snippet: Pennine Lancashire town of textile mills, canal engineering, and the dramatic
+  Burnley Embankment.
 title: Burnley
 type: location
-image: burnley.jpg
-image_source: https://commons.wikimedia.org/wiki/File:LeedsLiverpoolCanalBurnley2.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Boerkevitz at Dutch Wikipedia
 ---
 
 Burnley is a post-industrial town in Lancashire, set among the Pennine hills about 25 miles north of Manchester. Its Victorian textile and coal heritage is still very much visible in the built environment — mill buildings, canal infrastructure, and the handsome [Burnley Embankment](/europe/unitedkingdom/england/lancashire/burnley/burnley_embankment), which carries the Leeds and Liverpool Canal on a dramatic causeway above the town centre.

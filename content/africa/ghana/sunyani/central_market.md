@@ -7,6 +7,7 @@ tags:
 - market
 title: Sunyani Central Market
 type: poi
+score: 5.9
 ---
 
 Sunyani's central market is a colourful, busy market serving the city and surrounding villages. It sells the full range of Ghanaian market goods — yams, plantains, cassava, tomatoes, pepper, palm oil, dried fish, kente cloth, second-hand clothing, and household items. The atmosphere is friendly; Sunyani is repeatedly cited as one of Ghana's cleanest and most orderly cities, and the market reflects this.

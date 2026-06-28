@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.8891
 longitude: -85.519
+score: 7.0
 ---
 
 A small airfield a few kilometres north of Samara on the road to Nosara that offers ultralight aircraft flights over the Nicoya coast. The views from the air give a proper sense of the peninsula's geography — the patchwork of cattle ranches and dry forest, the coastline of coves and headlands, and the open Pacific running south toward the Osa. Sunrise and sunset flights are the most popular.

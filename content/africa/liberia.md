@@ -1,21 +1,23 @@
 ---
-title: Liberia
-type: location
-latitude: 6.428055
-longitude: -9.429499
-image: liberia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Andrew_Cartwright_A.M.E._Zion_Minsionary_American_Colonization_Society.jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/65193799@N00">dbking</a>
-quick_facts:
-  Capital: Monrovia
-  Currency: "Liberian Dollar (USD widely used)"
-  Founded: "1822 by freed American slaves"
-  First African Republic: "independence in 1847"
 done:
   country_cleanup: 2026-03-31
-score: 0.22
+image: liberia.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/65193799@N00">dbking</a>
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Andrew_Cartwright_A.M.E._Zion_Minsionary_American_Colonization_Society.jpg
+latitude: 6.428055
 loc_type: country
+longitude: -9.429499
+quick_facts:
+  Capital: Monrovia
+  Currency: Liberian Dollar (USD widely used)
+  First African Republic: independence in 1847
+  Founded: 1822 by freed American slaves
+score: 0.3
+snippet: West African republic with Americo-Liberian history, Atlantic surfing beaches,
+  and dense rainforest around Sapo.
+title: Liberia
+type: location
 ---
 
 *Africa > Liberia*

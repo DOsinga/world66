@@ -11,6 +11,7 @@ tags:
   - bar
 title: Hallo Club Gay Bar
 type: poi
+score: 4.2
 ---
 
 A gay bar on Ramon Chavez Street, beside Vacation Hotel. Open Monday to Sunday, 9pm to 3am.

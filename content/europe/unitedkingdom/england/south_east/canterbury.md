@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Canterbury-cathedral-wyrdl
 latitude: 51.280028
 loc_type: city
 longitude: 1.080253
-score: 0.63
+score: 8.66
+snippet: Medieval cathedral city of pilgrimage lanes, timber-framed streets, and Chaucer’s
+  enduring Canterbury Tales associations.
 title: Canterbury
 type: location
 ---

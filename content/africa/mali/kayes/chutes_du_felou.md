@@ -14,6 +14,7 @@ story: >
   interior, and explains why the French chose it as their first colonial capital
   of what became French Sudan. A small hydroelectric plant built here by the
   French in the 1920s still generates power for the region.
+score: 8.8
 ---
 
 The Félou Falls are the main reason to make the journey to the Kayes region. Fifteen kilometres upstream from town, the Sénégal River drops 13 metres down a wide, irregular set of rocky steps over a width of nearly a kilometre. In the wet season (July–October) the falls are in full flow and genuinely impressive; in the dry season the water splits into multiple channels through the black rock formations, creating pools where it is possible to swim or wade. The spectacle is different at each season.

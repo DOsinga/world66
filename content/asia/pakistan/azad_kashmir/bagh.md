@@ -5,7 +5,9 @@ done:
 latitude: 33.980008
 loc_type: city
 longitude: 73.773788
-score: 0.31
+score: 5.53
+snippet: Azad Kashmir district town surrounded by high valleys, mountain viewpoints,
+  and small farming communities.
 sources:
 - https://en.wikipedia.org/wiki/Bagh_District
 title: Bagh

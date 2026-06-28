@@ -7,6 +7,7 @@ tags:
 latitude: 22.1976
 longitude: 113.5423
 snippet: The city's history museum, built into Monte Fort's battlements
+score: 8.7
 ---
 
 The Macau Museum is built into the ramparts of Monte Fort, the 17th-century Jesuit fortress on the hill above the Ruins of São Paulo. The entrance is from the fort's upper level, and the three floors of the museum tell the story of Macau from its founding as a Portuguese trading post through the centuries of co-existence between Portuguese and Chinese cultures to the 1999 handover to China.

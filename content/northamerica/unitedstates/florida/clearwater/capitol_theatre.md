@@ -10,6 +10,7 @@ tags:
   - theatre
 story: >
   The Capitol Theatre opened in 1921 as a silent film house and vaudeville venue. By the 2000s it had fallen into disrepair, but a $6.5 million restoration in 2014 brought the 733-seat theater back to life, preserving its Mediterranean Revival facade while adding modern sound and lighting. It is now managed by Ruth Eckerd Hall and hosts more than 200 performances a year.
+score: 8.1
 ---
 
 The Bilheimer Capitol Theatre sits on Cleveland Street in the heart of downtown Clearwater and is one of the most atmospheric live music venues on the Gulf Coast. The restored 1921 building has an intimate 733-seat layout where no seat is more than 75 feet from the stage, and the programming leans toward rock, blues, jazz, and Americana acts — the kind of mid-size shows that feel personal rather than corporate.

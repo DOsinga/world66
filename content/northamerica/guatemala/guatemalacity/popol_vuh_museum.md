@@ -5,7 +5,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 14.606
 longitude: -90.4921
+score: 8.4
 snippet: Outstanding Maya ceramics and a Dresden Codex facsimile
+tags:
+- things_to_do
+- museum
+- archaeology
 title: Museo Popol Vuh
 type: poi
 ---

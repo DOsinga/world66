@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Flamingo,_Costa_Rica
 latitude: 10.4394
 loc_type: city
 longitude: -85.7893
-score: 0.59
+score: 8.54
+snippet: Guanacaste beach town on a white-sand crescent, known for marina-based sportfishing.
 title: Playa Flamingo
 type: location
 ---

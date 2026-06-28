@@ -8,6 +8,7 @@ tags:
 story: The park's popular name, Redenção — Redemption — dates from 1884, when Porto Alegre held the first public celebration of slave emancipation in Brazil here, three years before abolition became law nationally. The name stuck even as the official name changed and changed again. On Sunday mornings a quarter of the city seems to converge on it, for the Brique market, the chimarrão circles, the football, and no particular reason at all.
 title: Parque Farroupilha (Redenção)
 type: poi
+score: 8.2
 ---
 
 Parque Farroupilha — always called Redenção by everyone who actually lives in Porto Alegre — is the city's central park and its most democratic public space. The 37-hectare park sits between Bom Fim and Azenha, and on any given weekend it contains an improbable range of simultaneous activities: groups passing chimarrão in circles on the grass, families with children on the playground equipment, joggers and cyclists on the perimeter paths, dogs of every conceivable breed being walked, evangelical preachers with portable sound systems, and the whole organised chaos of the **Brique da Redenção** market along the northern edge every Sunday morning.

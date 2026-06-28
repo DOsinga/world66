@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 7.0000
 longitude: -9.4750
+score: 7.4
 ---
 
 The central market in Gbarnga is the busiest in the Liberian interior — a dense sprawl of stalls along the main road and spilling into the side streets. Vendors come in from the surrounding Kpelle and Mano villages with cassava, plantains, palm oil, smoked fish, peanuts and the produce of the rubber and coffee plantations.

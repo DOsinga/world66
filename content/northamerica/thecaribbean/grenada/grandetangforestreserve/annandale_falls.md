@@ -7,6 +7,7 @@ tags:
   - waterfall
 latitude: 12.1297
 longitude: -61.7264
+score: 6.4
 ---
 
 Annandale Falls is the closest waterfall to St George's — 15 minutes by road on the western edge of the Grand Etang reserve — and consequently the busiest. A short walk from the visitor centre leads to a 10-metre cascade dropping into a clear pool surrounded by ferns and a small landscaped garden.

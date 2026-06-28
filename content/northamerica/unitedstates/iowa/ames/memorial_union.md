@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The grand 1928 student union at Iowa State, dedicated to the university's war dead.
+score: 7.7
 ---
 
 The Memorial Union sits on Lincoln Way at the south edge of the Iowa State central campus, fronting Lake LaVerne. Opened in 1928 and expanded several times since, it is the social and ceremonial heart of the university — dedicated to ISU students and graduates killed in war, with a Gold Star Hall whose walls are inscribed with their names.

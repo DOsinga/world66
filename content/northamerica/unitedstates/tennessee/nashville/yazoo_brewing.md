@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - the_gulch
+score: 6.3
 ---
 
 Yazoo opened in 2003 as the first major craft brewery in Nashville and is still the city's flagship. The taproom in the Gulch (also home to the main production facility) opens onto a covered courtyard with picnic tables, a permanent line of beers (the **Pale Ale**, the **Dos Perros** dark Mexican lager, and the seasonal **Sue** smoked porter are the long-running flagships), and rotating special releases.

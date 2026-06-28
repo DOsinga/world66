@@ -8,6 +8,7 @@ tags:
 latitude: 44.0667
 longitude: 9.9500
 snippet: "Small coastal botanical garden in the Montemarcello-Magra Natural Park"
+score: 6.2
 ---
 
 The Orto Botanico di Montemarcello sits inside the natural park, just below the hill village of Montemarcello, and serves as a living catalogue of the plants of the Ligurian coast. The collection is organised by habitat — Mediterranean *macchia*, holm-oak forest, coastal cliffs, and freshwater stream — so a slow walk through is also a quick lesson in the surrounding landscape.

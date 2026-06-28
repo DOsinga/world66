@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 25.5817
 longitude: 91.9067
+score: 6.4
 ---
 
 One of the oldest golf courses in Asia, laid out by Captain Jackson in 1898 in a natural amphitheatre of pines. The 18-hole course rolls over the valley floor with stands of long-needle Khasi pine forming the rough; old hands say it is the closest thing to a Scottish links you will find this side of the Bay of Bengal.

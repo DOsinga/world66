@@ -10,6 +10,8 @@ latitude: 3.969066
 loc_type: region
 longitude: 73.431127
 score: 0.83
+snippet: Atoll south of Malé with resort islands, local villages, and easy speedboat
+  access from the airport.
 title: South Malé Atoll
 type: location
 ---

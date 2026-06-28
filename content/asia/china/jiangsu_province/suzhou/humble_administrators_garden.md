@@ -12,6 +12,7 @@ longitude: 120.6268
 snippet: "The largest and most celebrated of Suzhou's classical gardens"
 story: >
   The garden takes its ironic name from a line in a poem by Pan Yue, a Jin dynasty official who wrote that watering a garden was the occupation of a humble man. The man who built it, Wang Xianchen, had been dismissed from the imperial court after years of service and turned to gardening in retirement — a common refuge for officials who fell out of favour.
+score: 9.8
 ---
 
 The Humble Administrator's Garden is the largest and most famous of Suzhou's classical gardens, and one of the four greatest gardens in all of China. Spread over four hectares, it is divided into three sections — east, central, and west — each with its own character. The central section is the most celebrated: a series of pavilions, covered walkways, and islands connected by zigzagging bridges, arranged around a large central lake so that water seems to be everywhere at once.

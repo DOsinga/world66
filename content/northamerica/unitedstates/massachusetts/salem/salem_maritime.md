@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Salem_Maritime_National_Historic_Site
 story: >
   Derby Wharf was once the busiest wharf in colonial America, and at its peak in the 1790s the Derby family fortune — built on the East Indies and China trade — made Elias Hasket Derby the first American millionaire. The Custom House on Derby Street is where Nathaniel Hawthorne worked as surveyor of the port from 1846 to 1849, and his introduction to The Scarlet Letter is largely a meditation on his unhappy time there.
+score: 8.5
 ---
 
 The Salem Maritime National Historic Site encompasses nine historic structures and three wharves along Derby Street, preserving the commercial heart of what was once one of America's most important seaports. The centrepiece is Derby Wharf, which stretches 2,000 feet into Salem Harbor, flanked by the Derby House (1762), the Custom House (1819), and the Bonded Warehouse.

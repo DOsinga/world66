@@ -11,6 +11,7 @@ tags:
 - nature
 title: Breckenridge Ski Resort
 type: poi
+score: 9.2
 ---
 
 Breckenridge Ski Resort gives Breckenridge some of its range beyond the usual resort-town formula. It is close enough to town to fit into a short visit, but it rewards a little patience, especially when weather, altitude, or ski-season crowds slow things down.

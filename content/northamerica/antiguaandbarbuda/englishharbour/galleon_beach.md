@@ -7,6 +7,7 @@ tags:
   - nature
 title: Galleon Beach
 type: poi
+score: 6.5
 ---
 
 Galleon Beach is a sheltered crescent of sand on the south side of English Harbour, separated from the dockyard by a narrow headland and reachable by a short water taxi ride from the dockyard jetty or a 15-minute walk. The water is calm and clear, with good snorkelling over the reef at the eastern end of the bay. Several colourful fish species are visible even from shallow water.

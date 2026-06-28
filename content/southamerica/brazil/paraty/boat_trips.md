@@ -11,6 +11,7 @@ story: >
   The bay around Paraty holds some 65 islands, most of them uninhabited and protected as part of a state park. The largest, Ilha de Araújo, has a small fishing community; the others are pure Atlantic Forest descending to beaches of white sand and clear water that would be internationally famous if they were anywhere more accessible.
 sources:
   - https://en.wikipedia.org/wiki/Paraty
+score: 8.9
 ---
 
 Schooner trips out into the Bay of Paraty are the most popular excursion from town. The standard "schooner tour" visits three or four beaches and islands over a full day, with stops for swimming, snorkelling, and occasionally a caipirinha or two on deck. The boats depart from the waterfront in front of the historic centre, and the trip is relaxed enough to suit all ages.

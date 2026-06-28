@@ -10,6 +10,7 @@ address: "Warner Avenue and Pacific Coast Highway"
 latitude: 33.6997
 longitude: -118.0389
 story: "The wetlands were nearly lost in the 1970s to a planned marina development. Decades of activism by the Amigos de Bolsa Chica eventually forced a restoration project; in 2006 the ocean was reconnected to the inland basin for the first time in over a century."
+score: 8.4
 ---
 
 A 1,400-acre restored saltwater marsh squeezed between Pacific Coast Highway and the Bolsa Chica Mesa, immediately north of central Huntington Beach. The reserve is the largest saltwater marsh between Monterey Bay and the Tijuana Estuary and one of the most accessible birding spots in Southern California.

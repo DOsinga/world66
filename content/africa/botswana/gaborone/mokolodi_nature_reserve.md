@@ -11,6 +11,7 @@ story: >
   Mokolodi is home to one of Botswana's most important white rhinoceros breeding programmes. Southern white rhinos were once extinct in Botswana — the animals here are descended from populations reintroduced from South Africa, and the foundation's breeding work contributes to the national recovery effort. Guided rhino tracking on foot is available and puts you at close quarters with animals that weigh more than a car.
 sources:
   - https://en.wikipedia.org/wiki/Mokolodi_Nature_Reserve
+score: 7.7
 ---
 
 Mokolodi Nature Reserve lies 10 kilometres south of central Gaborone and offers the best wildlife experience within easy reach of the capital. The reserve covers 30 square kilometres and is run by the not-for-profit Mokolodi Wildlife Foundation, established in 1994.

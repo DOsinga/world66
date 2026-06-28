@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Ames_Iowa_Main_Street_(ban
 latitude: 42.026757
 loc_type: city
 longitude: -93.617045
-score: 0.32
+score: 6.17
 title: Ames
 type: location
+snippet: Ames is a central Iowa university town, home to Iowa State University and
+  a walkable downtown.
 ---
 
 Ames is a university town in central Iowa, home to Iowa State University of Science and Technology. With around 50,000 residents, roughly half of whom are students, the city has the energy and amenities you'd expect — good restaurants, live music, and a pedestrian-friendly downtown centred on Main Street and the nearby campus.

@@ -4,11 +4,14 @@ latitude: 53.340795
 longitude: -6.258428
 opening_hours: Mon–Thu 10:30–23:30, Fri–Sat 10:30–00:30, Sun 12:00–23:00
 phone: +353 1 677 8312
+score: 7.0
 snippet: Victorian pub interior unchanged since the 1880s — one of Dublin's best
 tags:
+- georgian_dublin
 - bars_and_cafes
 - bar
 - pub
+- st_stephens_green_area
 title: Kehoe's
 type: poi
 ---

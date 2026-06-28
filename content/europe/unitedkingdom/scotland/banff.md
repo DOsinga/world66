@@ -7,7 +7,9 @@ done:
 latitude: 57.6645
 loc_type: city
 longitude: -2.5218
-score: 0.49
+score: 7.0
+snippet: Historic Moray Firth town with Georgian streets, Duff House, and walks along
+  the River Deveron.
 title: Banff
 type: location
 ---

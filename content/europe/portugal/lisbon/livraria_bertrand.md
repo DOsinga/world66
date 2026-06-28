@@ -15,6 +15,7 @@ story: >
   to the grandchildren of the grandchildren of its original customers. The
   original location was nearby; the current Rua Garrett address dates to after
   the earthquake.
+score: 7.6
 ---
 
 The world's oldest operating bookshop, certified by Guinness since 2011, on Rua Garrett in Chiado. Founded in 1732, Livraria Bertrand has been a gathering point for Lisbon's literary life for nearly three centuries. The 18th-century interior — blue and white Azulejo panels, dark wood shelves, narrow rooms leading to further narrow rooms — is the atmosphere that other bookshops spend money trying to recreate.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 11.95
 longitude: 2.55
+score: 8.5
 ---
 
 The Mekrou River forms the eastern boundary of the park on the Niger side before joining the Niger River near the famous W bend. Driving along the Mekrou circuit in the dry season — when the gallery forest is stripped back and animals are forced to drink — offers some of the most productive wildlife watching in the park.

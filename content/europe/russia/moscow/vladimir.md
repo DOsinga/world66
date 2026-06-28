@@ -3,7 +3,10 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 56.12889
 longitude: 40.40752
+score: 7.6
 snippet: Ancient golden-ring city with 12th-century cathedrals, 200km from Moscow
+tags:
+- day_trips
 title: Vladimir
 type: poi
 ---

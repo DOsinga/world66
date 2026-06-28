@@ -2,7 +2,7 @@
 email: info@guachipelin.com
 phone: (506) 2256 8195 / (506) 2256 3600
 title: Sights in Liberia
-type: poi
+type: section
 url: www.guachipelin.com
 ---
 

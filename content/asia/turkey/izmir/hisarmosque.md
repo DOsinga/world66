@@ -9,6 +9,7 @@ latitude: 38.4215
 longitude: 27.1336
 story: >
   The Hisar Mosque was built in 1592 during the reign of Sultan Murad III, making it the oldest surviving mosque in İzmir. It is unusual among Ottoman mosques for its low, horizontal profile — the single dome sits close to the ground, giving it an almost Byzantine silhouette — and for the flower market that has operated in the courtyard for centuries. The combination of prayer house and flower market is entirely informal and entirely Turkish.
+score: 7.5
 ---
 
 The Hisar Mosque — meaning "fortress mosque," a reference to the Byzantine castle that once stood nearby — is both the oldest and the most atmospheric mosque in İzmir. It sits within the Kemeraltı bazaar, surrounded by narrow lanes of small shops, and its courtyard has been occupied by flower sellers for as long as anyone can remember.

@@ -17,6 +17,7 @@ story: >
   forest, and cloud forest.
 sources:
   - https://en.wikipedia.org/wiki/Barva_Volcano
+score: 8.1
 ---
 
 The Barva Volcano is a dormant shield volcano rising behind Heredia, and the hike to its cloud-forest crater lake is one of the best half-day walks accessible from the Central Valley. The trail begins at the Porrosatí ranger station, reached by car from Heredia via the town of Sacramento — the road is rough in places and a 4WD is useful after rain.

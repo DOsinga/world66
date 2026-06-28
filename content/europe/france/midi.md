@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 43.809907
+loc_type: region
 longitude: 1.434493
 score: 0.51
+snippet: Southern French region of Roman towns, Riviera beaches, thyme-scented hills,
+  and Dordogne valleys.
 title: Midi
 type: location
-loc_type: region
+image: midi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Champ_de_lavande,France.jpg
+image_license: CC BY 2.0
+image_attribution: François  Philipp from Munich, Germany
 ---
 
 A justifiably popular destination the region of Provence combines historic sites a warm climate striking scenery and some of the best restaurants in France.

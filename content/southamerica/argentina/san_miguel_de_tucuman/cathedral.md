@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.9
 ---
 
 The cathedral on the western side of Plaza Independencia is a striking neoclassical building completed in 1856, its two distinctive towers rising above the square. The interior is restrained and elegant, with marble floors, gilded altarpieces, and a domed ceiling painted with religious scenes. The remains of General Gregorio Aráoz de La Madrid, a hero of the Argentine War of Independence, are kept in a side chapel.

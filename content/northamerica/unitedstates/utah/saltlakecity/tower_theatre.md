@@ -8,6 +8,7 @@ latitude: 40.7461
 longitude: -111.8702
 address: 876 East 900 South
 neighbourhood: 9th & 9th
+score: 6.7
 ---
 
 The Tower Theatre, a small Art-Deco cinema built in 1928 on the corner of 9th & 9th, is Salt Lake's flagship art-house movie theatre. Run by the Salt Lake Film Society as a non-profit, it shows independent films, documentaries, foreign-language releases, and the better midnight programming.

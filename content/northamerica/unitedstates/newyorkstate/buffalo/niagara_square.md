@@ -13,6 +13,7 @@ story: >
   and Theodore Roosevelt was sworn in at a friend's house a few blocks away — the 
   youngest man ever to become president. Buffalo had planned to bury McKinley here at 
   Niagara Square, but his wife insisted on Canton, Ohio. The 30-metre obelisk opened in 1907.
+score: 6.9
 ---
 
 Niagara Square is the hub of Joseph Ellicott's 1804 radial street plan for Buffalo, with six avenues radiating outward from the central plaza. At its centre stands a 30-metre granite obelisk commemorating President William McKinley, who was assassinated at Buffalo's Pan-American Exposition in 1901. The Exposition was one of the great world's fairs of the era, drawing eight million visitors to the city.

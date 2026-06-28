@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 10.8289
 longitude: 78.6232
+score: 6.9
 ---
 
 Vayalur Murugan Temple lies west of Trichy in a greener, more rural setting than the city centre. The shrine is associated with Murugan and with the Tamil saint-poet Arunagirinathar, which gives it a strong place in local devotional life.

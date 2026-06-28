@@ -7,6 +7,7 @@ tags:
 latitude: 43.6577
 longitude: -70.2547
 story: "After the great fire of 1866 reduced most of the wooden city to ash, Portland rebuilt the wharf district almost entirely in brick and granite within a decade. By the 1960s the area had decayed into vacant warehouses and was nearly cleared for an interstate spur. A grassroots preservation campaign in the 1970s saved it — and what was salvaged is the densest concentration of intact post-Civil-War commercial architecture in the United States."
+score: 8.9
 ---
 
 The Old Port is the heart of Portland: ten blocks of red-brick Victorian warehouses, cobbled side streets, and ground-floor bars, oyster bars, and shops between Commercial and Middle Streets. The waterfront end is still a working harbour with lobster boats tied up at the wharves; the upper end melts into the office and theatre district.

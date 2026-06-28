@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 28.3280
 longitude: 121.0620
+score: 7.7
 ---
 
 The Xiansheng (Immortal Mountain) area is the least-visited of the main Yandang scenic areas and the one that rewards independent hikers most. A trail winds through a sequence of gorges and boulder-strewn valleys, with rock formations that are less dramatic than Lingfeng's but encountered without the crowds. The path passes several small temples in cave hollows and a natural stone arch, and eventually climbs to a ridge with long views across the outer valleys of the park.

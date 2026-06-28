@@ -16,6 +16,7 @@ story: >
   those who did not return.
 sources:
   - https://en.wikipedia.org/wiki/St_John_the_Evangelist%27s_Church,_Greenock
+score: 7.1
 ---
 
 The Free French Memorial Cross stands on Lyle Hill, the high ground above the western end of Greenock, and is one of the more moving Second World War memorials in Scotland. Erected in 1966 to commemorate the French sailors of the Free French Naval Forces who were based in Greenock during the war, it takes the form of the Cross of Lorraine — the symbol of the Free French — set against a backdrop of the Firth of Clyde stretching towards the open Atlantic.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:5854_Bergen,_Netherlands_-
 latitude: 52.670228
 loc_type: city
 longitude: 4.701162
-score: 0.45
+score: 6.56
+snippet: North Holland artist village near dunes and polders, shaped by the Bergen
+  School and a century of creative life.
 title: Bergen
 type: location
 ---

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, wildlife]
 latitude: 9.7375
 longitude: -82.8387
+score: 8.6
 ---
 
 Leatherback turtles nest on the beaches around Cahuita and along the wider Caribbean coast between March and October, with the peak activity running from April through July. The leatherback is the largest of all sea turtles — adults can reach two metres in length and weigh over 900 kg — and watching one emerge from the water, drag herself up the beach, and excavate a nest with her rear flippers is an experience that is genuinely hard to forget. Females return to the beach where they were born to nest, sometimes after decades at sea.

@@ -8,6 +8,7 @@ tags:
   - old_town_quarter
 latitude: 40.8040
 longitude: 111.6410
+score: 7.2
 ---
 
 Baiyun Temple is a Taoist monastery in the old town area, unusual in a city where Buddhist temples dominate the religious landscape. The complex is smaller than the major lamaseries but well-maintained, with a series of halls dedicated to the Taoist pantheon — celestial officials, the Eight Immortals, and the jade emperor — rendered in the colourful, exuberant style of Chinese popular Taoism. The contrast with the austere Tibetan Buddhist interiors of the nearby lamaseries is instructive.

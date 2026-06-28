@@ -9,6 +9,7 @@ latitude: 30.0567
 longitude: 31.2592
 story: >
   The towers of Bab al-Futuh were used as prisons during the Crusades — the Crusader knight held here longest was a minor Frankish noble who spent seven years in the tower before being ransomed. His name has been lost, but his graffiti survives on the walls: crosses and the names of his companions carved into the stone, still visible in the inner chambers more than 800 years later.
+score: 8.4
 ---
 
 Bab al-Futuh (Gate of Conquests) and Bab al-Nasr (Gate of Victory) are the two surviving northern gates of Fatimid Cairo, built in 1087 by the Armenian general Badr al-Jamali from stones quarried at Heliopolis. They are among the finest examples of medieval military architecture in the Arab world.

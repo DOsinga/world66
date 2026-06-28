@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SHYAMAKALI_MANDIR_BARGARH_
 latitude: 21.3347
 loc_type: city
 longitude: 83.6198
-score: 0.29
+score: 5.53
+snippet: Western Odisha town associated with Sambalpuri handloom weaving and the vast
+  open-air Dhanu Jatra festival
 title: Bargarh
 type: location
 ---

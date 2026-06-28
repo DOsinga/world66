@@ -8,6 +8,7 @@ tags:
 - sight
 - park
 snippet: "Common grazing land on the edge of town, with the racecourse and Black Mill"
+score: 7.6
 ---
 
 Westwood is the large common to the west of the town — open grazing land where cattle still roam in summer, criss-crossed by paths, and dotted with a few landmarks: the **Black Mill** of 1803, a tower windmill stripped of its sails and used as a navigation marker for shipping in the Humber; **Beverley Racecourse**, which has held flat racing on the common since the eighteenth century; and several Iron Age earthworks visible in the turf.

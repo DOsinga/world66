@@ -1,12 +1,17 @@
 ---
 latitude: 35.0419
 longitude: 135.6627
+score: 7.8
 snippet: Out-of-the-way temple with 1,200 expressive stone rakan figures
-story: The current statues were carved between 1981 and 1991, not in antiquity. The head priest invited amateur sculptors to come and carve their own *rakan* under his guidance. The result is a forest of grinning, sleeping, drinking, hammer-wielding, cat-cradling Buddhist disciples — anything but solemn.
+story: The current statues were carved between 1981 and 1991, not in antiquity. The
+  head priest invited amateur sculptors to come and carve their own *rakan* under
+  his guidance. The result is a forest of grinning, sleeping, drinking, hammer-wielding,
+  cat-cradling Buddhist disciples — anything but solemn.
 tags:
 - things_to_do
 - temple
 - sight
+- arashiyama
 title: Otagi Nenbutsu-ji
 type: poi
 ---

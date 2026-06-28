@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Puente_en_Wuyuan,_China_(1
 latitude: 29.248026
 loc_type: city
 longitude: 117.861824
+score: 8.13
+snippet: Ancient Jiangxi village cluster of Huizhou houses, tea fields, and spring
+  rapeseed valleys.
 title: Wuyuan
 type: location
 ---

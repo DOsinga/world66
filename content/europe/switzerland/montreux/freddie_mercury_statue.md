@@ -8,6 +8,7 @@ latitude: 46.4295
 longitude: 6.9117
 story: >
   Freddie Mercury moved to Montreux in the late 1980s partly because the town offered him privacy that London no longer could. He recorded several albums at Mountain Studios and spent his final months in the town. When he died in November 1991, the local community was genuinely bereft — he had become a quiet part of the town's life. The statue was unveiled in 1996, five years after his death, by his former bandmates and by the Casino that had been his second home.
+score: 5.9
 ---
 
 A bronze statue of Freddie Mercury stands on the lakefront promenade in central Montreux, arm outstretched toward the lake and the Alps beyond. It has become one of the most photographed spots in Switzerland. Mercury lived in Montreux for the last years of his life, and the town has embraced its connection to him with genuine warmth rather than tourist-trap cynicism.

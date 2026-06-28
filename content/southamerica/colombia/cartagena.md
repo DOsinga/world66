@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bater%C3%ADa_de_Castillito
 latitude: 10.426557
 loc_type: city
 longitude: -75.544167
-score: 0.73
+score: 9.36
+snippet: Caribbean port city with a walled colonial old town, UNESCO status, and the
+  Getsemaní district.
 title: Cartagena
 type: location
 ---

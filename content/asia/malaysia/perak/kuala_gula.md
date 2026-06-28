@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 The **Kuala Gula Bird Sanctuary** sits on the Perak coast at the mouth of the Sungai Kerian, a quiet expanse of mangrove forest, mudflat and aquaculture ponds about 90 km north of Ipoh. It is one of the most important sites in peninsular Malaysia for migratory shorebirds — between September and March the mudflats fill with thousands of plovers, sandpipers, godwits and curlews on their way down the East Asian flyway.

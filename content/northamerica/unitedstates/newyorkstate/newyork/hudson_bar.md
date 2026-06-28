@@ -2,13 +2,15 @@
 address: 356 West 58th Street
 done:
   poi_cleanup: '2026-04-21'
-latitude: 40.768134
-longitude: -73.984347
+latitude: 40.768075
+longitude: -73.984992
 phone: 212 554 6000
+score: 4.9
 snippet: Theatrical hotel bar near Columbus Circle and Lincoln Center
 tags:
 - bars_and_cafes
 - bar
+- midtown
 title: Hudson Bar
 type: poi
 url: www.hudsonhotel.com

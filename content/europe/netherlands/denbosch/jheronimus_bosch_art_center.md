@@ -9,6 +9,7 @@ latitude: 51.6875
 longitude: 5.3097
 story: >
   Hieronymus Bosch — his actual name was Jheronimus van Aken — was born in Den Bosch around 1450 and lived there all his life. He took his professional name from the city: Bosch is the colloquial short form of 's-Hertogenbosch. Almost nothing is known about his personal life, his workshop, or how he came to develop the extraordinary imagery that has baffled and fascinated viewers for five centuries.
+score: 7.4
 ---
 
 Housed in a beautifully restored Gothic church, the Jheronimus Bosch Art Center is dedicated entirely to the life and work of Den Bosch's most famous son. The museum doesn't hold original paintings — the originals are scattered across museums in Madrid, Vienna, Lisbon, and elsewhere — but it has assembled high-resolution reproductions of every known work, displayed at original scale, which is its own kind of revelation.

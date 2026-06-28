@@ -1,7 +1,12 @@
 ---
 address: about 8 km south of Chiang mai
+latitude: 18.6898
+longitude: 98.9217
+score: 6.7
 tags:
 - shopping
+- market
+- crafts
 title: Baan Tawai more than a wood carving village
 type: poi
 ---

@@ -8,6 +8,7 @@ latitude: 42.7244
 longitude: -74.9786
 sources:
   - https://en.wikipedia.org/wiki/Fly_Creek_Cider_Mill_%26_Orchard
+score: 6.5
 ---
 
 The Fly Creek Cider Mill is a working cider mill about 4 kilometers northwest of Cooperstown, operating on the same site since 1856. The original water-powered press and machinery are still in use, and visitors can watch the pressing process in season — usually from September through November, when the apple harvest is underway.

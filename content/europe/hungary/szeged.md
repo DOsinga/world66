@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferenc_M%C3%B3ra_Museum_20
 latitude: 46.254631
 loc_type: city
 longitude: 20.148602
-score: 0.52
+score: 7.66
+snippet: Great Southern Plain university city on the Tisza, rebuilt with grand boulevards
+  after the 1879 flood.
 title: Szeged
 type: location
 ---

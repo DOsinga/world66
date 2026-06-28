@@ -15,6 +15,7 @@ story: >
   management as the crowds erode the sides faster than the wind can rebuild them.
 sources:
   - https://en.wikipedia.org/wiki/Dune_of_Pilat
+score: 9.8
 ---
 
 The Dune du Pilat is an extraordinary geological spectacle — 110 metres of pure Atlantic sand piled up at the southern end of the Arcachon bay, where the forest meets the sea. Climbing it takes about ten minutes, and the view from the top is worth the effort: the Arcachon bay on one side, the endless pine forests of the Landes on the other, and the Atlantic coast curving away to the horizon. On a clear day you can make out the Île aux Oiseaux in the bay below.

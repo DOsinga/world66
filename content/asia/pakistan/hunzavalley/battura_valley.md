@@ -5,7 +5,9 @@ done:
 latitude: 36.6
 loc_type: city
 longitude: 74.55
-score: 0.49
+score: 7.23
+snippet: Upper Hunza mountain valley dominated by Batura Glacier, with Wakhi and Brushuski
+  pasture names
 sources:
 - https://en.wikipedia.org/wiki/Batura_Glacier
 - https://en.wikipedia.org/wiki/Batura_Muztagh

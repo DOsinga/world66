@@ -1,15 +1,22 @@
 ---
-title: "Warsaw Zoo"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 52.2619
 longitude: 21.0205
-snippet: "Historic zoo in Praga that sheltered Jewish families in its buildings and underground during the occupation"
-story: "During the occupation, the Warsaw Zoo director Jan Żabiński and his wife Antonina hid more than 300 Jewish families in the empty animal cages, enclosures, and their villa — after the animals had been taken by the Germans. The zoo's underground passages provided escape routes. The Żabińskis were later recognised as Righteous Among the Nations. The story was told in the 2017 film The Zookeeper's Wife."
+score: 6.6
+snippet: Historic zoo in Praga that sheltered Jewish families in its buildings and
+  underground during the occupation
 sources:
-  - https://en.wikipedia.org/wiki/Warsaw_Zoo
+- https://en.wikipedia.org/wiki/Warsaw_Zoo
+story: During the occupation, the Warsaw Zoo director Jan Żabiński and his wife Antonina
+  hid more than 300 Jewish families in the empty animal cages, enclosures, and their
+  villa — after the animals had been taken by the Germans. The zoo's underground passages
+  provided escape routes. The Żabińskis were later recognised as Righteous Among the
+  Nations. The story was told in the 2017 film The Zookeeper's Wife.
+tags:
+- things_to_do
+- praga_district
+- sight
+title: Warsaw Zoo
+type: poi
 ---
 
 The Warsaw Zoo in Praga has operated since 1928 and is one of the more pleasant zoos in Central Europe, with a good collection including big cats, elephants, and a large collection of European wildlife. The grounds are extensive and well-maintained. But the zoo's most extraordinary history is from the occupation: director Jan Żabiński and his wife Antonina hid over 300 Jewish people in the zoo's buildings and animal enclosures after the Germans requisitioned the animals.

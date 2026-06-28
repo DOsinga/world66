@@ -1,0 +1,200 @@
+{
+  "round": 4734,
+  "timestamp": "2026-06-14T00:37:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 3.1542,
+      "prior_variance": 0.108579,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 3.8733,
+      "prior_variance": 0.097147,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 2.4271,
+      "prior_variance": 0.089754,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 1.4404,
+      "prior_variance": 0.096297,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.4179,
+      "prior_variance": 0.101632,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.5992,
+      "prior_variance": 0.083488,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -0.4805,
+      "prior_variance": 0.086337,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 1.6734,
+      "prior_variance": 0.080535,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.4947,
+      "prior_variance": 0.091938,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 1.1234,
+      "prior_variance": 0.081801,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_score": 2.8344,
+      "prior_variance": 0.084007,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 2.1614,
+      "prior_variance": 0.087412,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 1.8203,
+      "prior_variance": 0.092575,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 0.8731,
+      "prior_variance": 0.085031,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.5174,
+      "prior_variance": 0.104007,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -1.5265,
+      "prior_variance": 0.087058,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.4926,
+      "prior_variance": 0.085853,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -0.5336,
+      "prior_variance": 0.078975,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -2.3767,
+      "prior_variance": 0.108306,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Yantai",
+      "path": "asia/china/shandong_province/yantai",
+      "prior_score": -1.6751,
+      "prior_variance": 0.09464,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "P\u00f5lva",
+      "path": "europe/estonia/plva",
+      "prior_score": -2.6856,
+      "prior_variance": 0.083811,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.9078,
+      "prior_variance": 0.08901,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -2.9702,
+      "prior_variance": 0.085542,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.3836,
+      "prior_variance": 0.151357,
+      "prior_n": 15
+    }
+  ]
+}

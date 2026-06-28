@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.7
 ---
 
 The surviving city gate of the medieval circuit, Porta Sant'Angelo marks the eastern entrance to the centro storico. The arched stone gateway has been rebuilt and patched many times since the 13th century but still gives a clear sense of how the town was once walled and defensible — a useful thing for a hilltop settlement so close to the old border between the Kingdom of Naples and the Republic of Venice.

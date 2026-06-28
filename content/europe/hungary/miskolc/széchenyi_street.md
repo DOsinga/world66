@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 48.1026
 longitude: 20.7888
+score: 5.9
 ---
 
 Széchenyi Street is the main pedestrian artery of central Miskolc, a broad promenade lined with 19th and early 20th-century buildings, cafes, and shops. It is the most pleasant stretch of the city to walk, particularly in the evening when the street fills up and the cafes put their tables outside.

@@ -1,10 +1,11 @@
 ---
-title: "The Periodic Table"
-type: poi
+author: Primo Levi
+isbn: 978-0241953389
+score: 5.8
 tags:
-  - books
-author: "Primo Levi"
-isbn: "978-0241953389"
+- books
+title: The Periodic Table
+type: theme
 ---
 
 Levi was born in Turin, lived there almost all his life, and wrote most of his work in an apartment off Corso Re Umberto — the building he was deported from in 1943 and returned to in 1945 after Auschwitz.

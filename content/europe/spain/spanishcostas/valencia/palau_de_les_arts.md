@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.4578
 longitude: -0.3556
+score: 7.3
 ---
 
 Calatrava's opera house at the northern end of the City of Arts and Sciences — a 75-metre-tall white shell wrapped in a metallic-finned sail, half spaceship and half breaching whale. Inside are four halls of varying sizes, with the main auditorium seating 1,500 for opera, ballet, and orchestral concerts.

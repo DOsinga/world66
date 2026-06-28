@@ -8,6 +8,7 @@ latitude: -34.60375
 longitude: 138.886624
 sources:
   - https://en.wikipedia.org/wiki/Lyndoch,_South_Australia
+score: 6.8
 ---
 
 Lyndoch is the first town you reach when driving into the Barossa Valley from Adelaide, sitting in the southern end of the valley where the gorge opens out. It's smaller and quieter than Tanunda, with a handful of cellar doors, a bakery, and the Sandy Creek Conservation Park nearby. The Barossa Reservoir and the Whispering Wall are a short drive away.

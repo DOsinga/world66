@@ -5,6 +5,7 @@ latitude: 38.0117
 longitude: -0.7139
 tags: [things_to_do, sight]
 snippet: "The broadest and longest beach on Torrevieja's coastline, at the northern end of town near the La Mata lagoon — more space and a quieter feel than the central beaches."
+score: 6.5
 ---
 
 La Mata beach stretches for over a kilometre at the northern end of Torrevieja's coastline, between the small settlement of La Mata and the Laguna de La Mata behind it. It is the widest of the town's six main beaches, which means it handles summer crowds better than its neighbours — there is simply more room. The sand here is coarser than at El Cura, the sea slightly more open, and the strip of dune vegetation and low scrub behind the beach gives it a more natural, less built-up edge.

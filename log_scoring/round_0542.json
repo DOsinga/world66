@@ -1,80 +1,200 @@
 {
   "round": 542,
-  "timestamp": "2026-04-12T10:36:47",
+  "timestamp": "2026-06-13T19:41:24",
   "model": "claude-sonnet-4-6",
-  "batch_size": 9,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Minsk",
-      "path": "europe/belarus/minsk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 2,
-      "title": "Brest",
-      "path": "europe/belarus/brest",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 3,
-      "title": "Hrodna (Grodno)",
-      "path": "europe/belarus/hrodna_grodno",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 4,
-      "title": "Vitebsk",
-      "path": "europe/belarus/vitebsk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 5,
-      "title": "Gomel",
-      "path": "europe/belarus/gomel",
-      "prior_mu": 19.9858,
-      "prior_sigma": 3.8389,
-      "prior_n": 3
-    },
-    {
-      "rank": 6,
-      "title": "Belarus",
-      "path": "europe/belarus",
-      "prior_mu": 18.8883,
-      "prior_sigma": 5.2052,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 5.7568,
+      "prior_variance": 2.623475,
       "prior_n": 2
     },
     {
+      "rank": 2,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 2.2166,
+      "prior_variance": 1.416556,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": 2.6991,
+      "prior_variance": 1.382417,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 4.4326,
+      "prior_variance": 0.741629,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 4.0374,
+      "prior_variance": 0.746868,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 2.4643,
+      "prior_variance": 1.5819,
+      "prior_n": 1
+    },
+    {
       "rank": 7,
-      "title": "Kamianiec",
-      "path": "europe/belarus/kamianiec_litosk",
-      "prior_mu": 19.3528,
-      "prior_sigma": 3.089,
-      "prior_n": 5
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": -0.7964,
+      "prior_variance": 1.620668,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Baranovichi",
-      "path": "europe/belarus/baranovichi",
-      "prior_mu": 22.4088,
-      "prior_sigma": 5.7206,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury",
+      "prior_score": 1.8421,
+      "prior_variance": 1.411067,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Slutsk",
-      "path": "europe/belarus/slutsk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 2.5281,
+      "prior_variance": 1.556752,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.2121,
+      "prior_variance": 1.127144,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 5.5176,
+      "prior_variance": 1.257133,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.6338,
+      "prior_variance": 0.6617,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": 1.6997,
+      "prior_variance": 1.932129,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_score": 4.6075,
+      "prior_variance": 1.589047,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 3.9282,
+      "prior_variance": 0.855396,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": 2.2851,
+      "prior_variance": 1.487565,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.3621,
+      "prior_variance": 0.737193,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": 0.5484,
+      "prior_variance": 1.533638,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 1.2457,
+      "prior_variance": 0.812677,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": 0.5282,
+      "prior_variance": 1.670215,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -0.7529,
+      "prior_variance": 1.368068,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -0.7967,
+      "prior_variance": 1.247294,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_score": -0.8268,
+      "prior_variance": 0.775715,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": 0.6495,
+      "prior_variance": 1.428137,
+      "prior_n": 1
     }
   ]
 }

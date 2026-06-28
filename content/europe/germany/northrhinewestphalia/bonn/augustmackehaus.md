@@ -12,6 +12,7 @@ tags:
 - museum
 title: August-Macke-Haus
 type: poi
+score: 7.2
 ---
 
 Home of the Expressionist painter August Macke from 1911 until his death in 1914 at just 27 years old. The small museum shows rotating exhibitions of his colourful, light-filled work alongside pieces by fellow Rhenish Expressionists. Guided tours on Sundays at 11:30.

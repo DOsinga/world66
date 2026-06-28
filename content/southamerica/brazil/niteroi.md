@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Boa_Viagem_Niter%C3%B3i.JP
 latitude: -22.8884
 loc_type: city
 longitude: -43.1147
-score: 0.49
+score: 7.34
+snippet: Guanabara Bay city facing Rio, with Niemeyer architecture, wild beaches,
+  and skyline views.
 sources:
 - https://en.wikipedia.org/wiki/Niter%C3%B3i
 - https://en.wikipedia.org/wiki/Niter%C3%B3i_Contemporary_Art_Museum

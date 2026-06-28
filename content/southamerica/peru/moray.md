@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Peru_-_Sacred_Valley_%26_I
 latitude: -13.3292
 loc_type: city
 longitude: -72.1956
-score: 0.59
+score: 8.29
+snippet: Sacred Valley archaeological site known for Inca concentric terraces that
+  created varied agricultural microclimates.
 sources:
 - https://en.wikipedia.org/wiki/Moray_(Inca_ruin)
 - https://en.wikipedia.org/wiki/Maras,_Peru

@@ -5,10 +5,13 @@ latitude: 53.343883
 longitude: -6.296987
 opening_hours: Tue–Fri 11:30–17:30, Sat 10:00–17:30, Sun 12:00–17:30, closed Mon
 phone: +353 1 612 9900
-snippet: Ireland's national museum for modern and contemporary art, in a 17th-century building
+score: 7.7
+snippet: Ireland's national museum for modern and contemporary art, in a 17th-century
+  building
 tags:
 - things_to_do
 - museum
+- kilmainham
 title: Irish Museum of Modern Art
 type: poi
 url: https://www.modernart.ie

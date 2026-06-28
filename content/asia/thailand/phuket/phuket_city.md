@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Post_Office_of_Phuket.
 latitude: 7.8848
 loc_type: city
 longitude: 98.3892
-score: 0.72
+score: 8.91
+snippet: Phuket's island capital, with Sino-Portuguese shophouses, Chinese shrines,
+  and a formidable food scene.
 title: Phuket City
 type: location
 ---

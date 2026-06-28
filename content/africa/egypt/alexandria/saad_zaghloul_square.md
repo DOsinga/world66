@@ -7,6 +7,7 @@ tags:
 latitude: 31.2008
 longitude: 29.8961
 story: "The square was the original site of Cleopatra's Caesareum — the temple complex built by Cleopatra VII in honour of Mark Antony and later rededicated by Augustus to himself. The two great obelisks that flanked the Caesareum (the so-called 'Cleopatra's Needles') were removed in the 19th century: one to London's Embankment in 1877, one to New York's Central Park in 1881. The square is named after the founder of Egypt's Wafd Party — the bronze figure with one hand raised in the centre of the square is his memorial."
+score: 7.4
 ---
 
 The central square of downtown Alexandria, where the corniche meets the historic European quarter. Flanked by the Cecil Hotel, the Metropole Hotel, and a string of cafes, the square has been the city's main public meeting point for the better part of a century.

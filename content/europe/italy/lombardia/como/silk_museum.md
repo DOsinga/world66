@@ -7,6 +7,7 @@ tags:
 latitude: 45.9090
 longitude: 9.1542
 snippet: The full story of Como's silk industry, with original weaving and dyeing machinery
+score: 7.6
 ---
 
 Como has been the silk capital of Europe since the 15th century, and the mills in the valleys around the lake still supply fabric to the major fashion houses of Paris and Milan. This small museum, housed in a former technical textile school, tells the industry's story through original machinery and clear explanations of the full production process: sericulture, reeling, throwing, weaving, printing, dyeing.

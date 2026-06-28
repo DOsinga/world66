@@ -9,6 +9,7 @@ latitude: 51.3
 longitude: -116.9833
 story: >
   The Kicking Horse River was named after an incident in 1858 when expedition geologist James Hector was kicked unconscious by a packhorse while crossing the river. His companions thought him dead and nearly buried him alive — he woke up at the last moment. The nearby mountain pass still bears the name.
+score: 8.3
 ---
 
 The Kicking Horse River offers some of the best whitewater rafting in British Columbia, with a combination of accessible Class III stretches and technical Class IV rapids that attract paddlers from across Canada. The river drops through the canyon below Golden, providing a dramatic backdrop of limestone walls and old-growth forest.

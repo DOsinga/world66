@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.8628
 longitude: 80.9486
+score: 6.6
 ---
 
 Sikandar Bagh was Wajid Ali Shah's pleasure garden, walled and laid out around a central pavilion, and is best known for what happened to it on 16 November 1857: a force of around 2,000 rebel sepoys had occupied the walled enclosure; when General Colin Campbell's relieving army arrived, the resulting assault left almost all the defenders dead in what was one of the bloodiest single actions of the entire Indian Rebellion.

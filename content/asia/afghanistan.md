@@ -8,14 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Herat_in_2009.jpg
 image_license: Public domain
 image_attribution: Employee of the U.S. State Department
 quick_facts:
-  Population: "42 million"
+  Population: 42 million
   Languages: Dari & Pashto
-  Hindu Kush: "Reaches 7,708 m — higher than any peak in Europe or the Americas"
+  Hindu Kush: Reaches 7,708 m — higher than any peak in Europe or the Americas
   Rumi's Birthplace: Balkh
 done:
   country_cleanup: 2026-03-30
-score: 0.1
+score: 0.25
 loc_type: country
+snippet: Mountainous Central Asian country crossed by the Hindu Kush and historic
+  Silk Road routes.
 ---
 
 Afghanistan is one of the most beautiful and least accessible countries on earth. The Hindu Kush mountains cut through its heart, rising above 7,000 meters. The landscape ranges from high alpine valleys to scorching deserts, and the history runs deeper than almost anywhere in Central Asia. Alexander the Great marched through here. The Silk Road crossed it. Genghis Khan destroyed its greatest cities, and they were rebuilt, and destroyed again.

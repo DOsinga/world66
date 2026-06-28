@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6856
 longitude: 17.6338
+score: 8.6
 ---
 
 The main square of Győr's historic centre is surrounded by fine Baroque facades on three sides, with the Benedictine church of St. Ignatius (formerly Jesuit) and the former Carmelite monastery flanking the long axis. It's the hub of city life — café tables spread across the cobblestones in summer, and the Christmas market here in December is one of the better ones in western Hungary.

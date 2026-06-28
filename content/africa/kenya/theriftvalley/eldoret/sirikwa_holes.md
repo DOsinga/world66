@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Sirikwa people who built these pit structures disappeared from the historical record sometime around the 17th century, their fate unknown. The most convincing theory links them to the ancestors of the present-day Kalenjin peoples, but who exactly the Sirikwa were and why they vanished remains one of the more intriguing unsolved questions in East African archaeology.
+score: 7.4
 ---
 
 Scattered across the Uasin Gishu plateau and the surrounding highlands are the remains of Sirikwa holes — unusual pit structures dug by a pre-colonial people who inhabited this area before the expansion of pastoral groups into the region. The pits, often ringed with stone and with entrance tunnels, were used to shelter cattle and possibly as dwelling sites.

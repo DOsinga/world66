@@ -14,6 +14,7 @@ story: >
   wall's highest corner — became the last stronghold. The city never fell.
   A cannonball embedded in the wall near the pavilion has been preserved as
   a monument to the siege.
+score: 7.5
 ---
 
 Tianxin Pavilion sits atop a surviving section of Changsha's ancient city walls, the tallest point on the wall circuit at about fifteen metres above street level. The pavilion itself — a three-storey wooden structure in Ming-dynasty style — dates from the original city fortifications and has been rebuilt multiple times, most recently after damage in World War II. The views from the top extend over the old city centre and give the best sense of Changsha's original urban footprint.

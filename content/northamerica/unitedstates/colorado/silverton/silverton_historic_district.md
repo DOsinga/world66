@@ -8,6 +8,7 @@ tags:
 - sight
 title: Silverton Historic District
 type: poi
+score: 7.4
 ---
 
 Silverton Historic District fits Silverton's blunt mountain character: high, weathered, and tied to the mining roads that cut through the San Juans. It is not a place to rush, especially when altitude, snow, or rough roads are involved.

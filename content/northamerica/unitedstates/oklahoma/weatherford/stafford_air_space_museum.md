@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 story: Thomas P. Stafford grew up in Weatherford, flew on Gemini 6A, Gemini 9A, Apollo 10, and the Apollo-Soyuz Test Project, and donated the core of his personal collection to his home town's museum. The result is a remarkably substantial aerospace collection for a town of 12,000, including an actual Titan II rocket engine, a flown Apollo command module hatch, and one of the few full-size Soviet Soyuz spacecraft on display in the United States.
+score: 8.8
 ---
 
 The Stafford Air and Space Museum is the unexpected star of Route 66 in western Oklahoma. It centres on the career of local boy Thomas P. Stafford, who flew four space missions including Apollo 10 — the rehearsal flight that descended within nine miles of the Moon's surface — and the 1975 Apollo-Soyuz handshake mission that ended the space race.

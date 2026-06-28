@@ -5,10 +5,12 @@ done:
 latitude: 36.103164
 longitude: -115.172377
 phone: 702-736-7611
+score: 3.6
 snippet: Four-story candy store and entertainment venue on the Strip
 tags:
 - things_to_do
 - shop
+- the_strip
 title: M&M's World Las Vegas
 type: poi
 url: www.mymms.com

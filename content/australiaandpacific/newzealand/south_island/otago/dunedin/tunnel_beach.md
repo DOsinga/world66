@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tunnel Beach
 type: poi
+score: 8.4
 ---
 
 Tunnel Beach is one of Dunedin's most atmospheric spots — a wild cove at the base of dramatic sandstone cliffs, reached by a 30-minute walk across farmland and then through a hand-cut stone tunnel. The tunnel was cut by a wealthy 19th-century family who owned the cliff-top land and wanted private beach access. It is barely wide enough for two people abreast and lit only by daylight from either end.

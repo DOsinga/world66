@@ -4,10 +4,12 @@ latitude: 41.398874
 longitude: 2.160891
 opening_hours: Mon–Sat 1–4pm, 8–11:30pm; closed Sun
 price_range: €15–25
+score: 7.5
 snippet: Creative Catalan sandwich bar in Gràcia, a neighbourhood institution
 tags:
 - eating_out
 - restaurant
+- gracia
 title: La Pepita
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 title: Place Centrale
 type: poi
 snippet: The village square, with the Verbier tourist office and main shops
+score: 5.8
 ---
 
 The cobbled square at the heart of Verbier is the village's main meeting point — shops, bakeries, the tourist office, and the bus stop for Le Châble all open onto it. In winter it fills with après-skiers from late afternoon; in summer it is the start point for most of the village's walking trails.

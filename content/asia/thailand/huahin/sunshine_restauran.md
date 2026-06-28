@@ -1,7 +1,10 @@
 ---
 address: 130/5 Naresdamri Road - opposite Hilton Hotel
 email: mailbox@sunshine-restaurant.com
+latitude: 12.5706
+longitude: 99.9597
 phone: 032 532 475
+score: 4.2
 tags:
 - eating_out
 - cafe

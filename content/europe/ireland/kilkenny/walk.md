@@ -1,7 +1,12 @@
 ---
 latitude: 52.6541
 longitude: -7.2448
+score: 7.2
 snippet: Compact medieval city easily explored on foot in an hour
+tags:
+- things_to_do
+- sight
+- walking_tour
 title: Walk
 type: poi
 ---

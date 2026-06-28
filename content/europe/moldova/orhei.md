@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Biserica_Romano-Catolica_A
 latitude: 47.378229
 loc_type: city
 longitude: 28.824675
-score: 0.4
+score: 6.54
+snippet: Moldovan market town on the Răut River, often used as the gateway to Orheiul
+  Vechi.
 title: Orhei
 type: location
 ---

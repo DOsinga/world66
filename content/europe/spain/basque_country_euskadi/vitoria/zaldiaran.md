@@ -8,6 +8,7 @@ tags:
   - restaurant
   - ensanche
 neighbourhood: Ensanche
+score: 7.3
 ---
 
 The city's most ambitious restaurant, holding a Michelin star and a long-running reputation for elegant Basque cooking. Chef Patxi Eceiza works with seasonal local ingredients — game, mushrooms, the Bay of Biscay's best fish — in two tasting menus and a short à la carte.

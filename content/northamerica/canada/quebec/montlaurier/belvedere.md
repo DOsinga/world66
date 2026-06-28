@@ -7,6 +7,7 @@ tags:
 - walk
 snippet: Hilltop viewpoint with panoramic views over the Laurentian forest and Lac Matagami
 type: poi
+score: 6.6
 ---
 
 A trail leads from the edge of town to a viewpoint above Mont-Laurier, with a broad panorama over Lac Matagami and the boreal forest stretching north towards the Abitibi. The walk up is gentle and takes about 30 minutes from the trailhead — well-suited to families. The view is most striking in autumn when the maple and birch forest colours the hillsides in orange and yellow, and at dusk when the lake below reflects the fading light.

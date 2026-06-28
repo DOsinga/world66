@@ -8,6 +8,7 @@ tags:
 latitude: 35.6794
 longitude: -105.9469
 story: "The railway is co-owned by George R.R. Martin, who took it over in 2021 and reimagined it as a kind of moving theatrical experience — themed dinner trips, mystery rides, and starlight tours timed around the desert sky."
+score: 6.5
 ---
 
 A passenger train running between Santa Fe and Lamy, an 18-mile route through the piñon-juniper desert south of the city. The trains run a series of themed experiences — sunset rides with cocktails, themed dinners, family rides, occasional murder-mystery runs — rather than straightforward transport.

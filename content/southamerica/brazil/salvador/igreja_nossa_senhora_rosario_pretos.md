@@ -9,6 +9,7 @@ tags:
 - pelourinho
 snippet: The black brotherhood's blue-painted baroque church
 story: "Built between 1704 and 1796 by a brotherhood of enslaved and freed Africans, working at night because they were not allowed to labour during their own time. They had no money for gold leaf, so they painted the wooden altars blue — the colour of Mary and of Iemanjá."
+score: 8.7
 ---
 
 The blue baroque church at the foot of the Largo do Pelourinho was built by a brotherhood of enslaved and freed Africans over almost a century, financed by the small sums they were allowed to earn for themselves. The interior is restrained by Salvador standards — pale blue walls, gilded but not gold-encrusted altars — and feels visibly different from the Jesuit and Carmelite churches uphill.

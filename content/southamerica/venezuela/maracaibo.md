@@ -5,12 +5,14 @@ done:
 latitude: 10.649809
 loc_type: city
 longitude: -71.64436
-score: 0.25
+score: 5.49
 title: Maracaibo
 type: location
+snippet: Venezuelan oil city on Lake Maracaibo, with restored waterfront streets and
+  a strong regional identity.
 ---
 
-Maracaibo is Venezuela's second city and its oil capital — a hot, flat, industrial place on the northwestern shore of [Lake Maracaibo](/southamerica/venezuela/maracaibo/maracaibolake). It is not the most picturesque city in the country, but it has its own energy and a few genuinely worthwhile corners.
+Maracaibo is Venezuela's second city and its oil capital — a hot, flat, industrial place on the northwestern shore of [Lake Maracaibo](/southamerica/venezuela/maracaibolake). It is not the most picturesque city in the country, but it has its own energy and a few genuinely worthwhile corners.
 
 The [Santa Bárbara historic district](/southamerica/venezuela/maracaibo/santa_barbara_district) near the waterfront has been restored with care, and the streets of 19th-century colonial houses are the most characterful part of the city. The [Basilica de la Chinita](/southamerica/venezuela/maracaibo/basilica_chinita), the city's main church, is the spiritual centre of Maracaibo — the November Feria de la Chinita is the city's defining celebration. The [General Rafael Urdaneta Bridge](/southamerica/venezuela/maracaibo/urdaneta_bridge), one of the longest concrete bridges in Latin America, crosses the strait where the lake meets the Gulf of Venezuela.
 

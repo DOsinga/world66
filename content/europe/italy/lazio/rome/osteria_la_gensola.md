@@ -6,10 +6,12 @@ latitude: 41.8883
 longitude: 12.4694
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun
 phone: 06 581 6312
+score: 7.6
 snippet: Sicilian-inflected fish restaurant on a quiet Trastevere square
 tags:
 - eating_out
 - restaurant
+- trastevere
 title: Osteria La Gensola
 type: poi
 ---

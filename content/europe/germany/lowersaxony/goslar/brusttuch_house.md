@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Brusttuch House
 type: poi
+score: 7.0
 ---
 
 A four-storey wedge of a building on the Hoher Weg, near the market square — half-timbered above a stone ground floor, with one of the most elaborate carved fronts in Goslar. The name comes from the "bib" shape of the gable, and the house has stood on this awkward triangular plot since 1521.

@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: City Süd
 type: poi
+score: 5.2
 ---
 
 The City Süd stretches south from the Königsallee along Graf-Adolf-Straße and Friedrichstraße. It is a slightly more relaxed alternative to the Kö, with a mix of mainstream fashion chains, bookshops, electronics stores, and a good number of cafés and restaurants.

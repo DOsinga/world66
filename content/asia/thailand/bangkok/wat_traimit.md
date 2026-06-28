@@ -1,10 +1,12 @@
 ---
 latitude: 13.738
 longitude: 100.5137
-snippet: "Five-ton solid gold Buddha discovered hidden beneath plaster"
+score: 8.0
+snippet: Five-ton solid gold Buddha discovered hidden beneath plaster
 tags:
 - things_to_do
 - temple
+- chinatown
 title: Wat Traimit
 type: poi
 ---

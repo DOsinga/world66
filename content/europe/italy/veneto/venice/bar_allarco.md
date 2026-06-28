@@ -5,8 +5,8 @@ done:
 latitude: 45.439
 longitude: 12.3348
 opening_hours: Mon–Sat 08:00–14:30; closed Sun
+score: 7.4
 snippet: Tiny Rialto bacaro famous for its baccalà mantecato cicchetti
-neighbourhood: San Polo
 tags:
 - bars_and_cafes
 - san_polo

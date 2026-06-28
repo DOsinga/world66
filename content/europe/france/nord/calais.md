@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%C3%89glise_Notre-Dame_de_
 latitude: 50.9582
 loc_type: city
 longitude: 1.8503
+score: 6.72
+snippet: Channel port city shaped by ferries, English history, siege warfare, and
+  the lace-making trade
 sources:
 - https://en.wikipedia.org/wiki/Calais
 - https://en.wikivoyage.org/wiki/Calais

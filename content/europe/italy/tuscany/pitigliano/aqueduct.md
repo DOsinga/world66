@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.6360
 longitude: 11.6690
+score: 6.8
 ---
 
 The medieval aqueduct running along the northern approach to Pitigliano is one of the most striking features of the town's skyline. Built for the Orsini in the 16th century to bring water to the hilltop settlement from springs in the valley below, its arches march toward the rock on which the town sits and are best seen from the road arriving from the north.

@@ -14,6 +14,7 @@ story: >
   government finally demolished it in 1993, residents received generous compensation. What they
   found beneath the building, after decades of anarchic construction, was the original Qing dynasty
   fort: a wall, a courtyard, and a yamen that had been entirely engulfed.
+score: 7.8
 ---
 
 The Kowloon Walled City was, for most of the twentieth century, one of the most extraordinary urban environments on earth: a densely packed settlement of some 33,000 people occupying a tiny enclave that fell through the cracks of British-Chinese sovereignty disputes. For decades it operated outside Hong Kong law — no police, no building codes, no government — with its own internal economy of dentists, unlicensed doctors, drug dens, and factories.

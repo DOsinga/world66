@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Point St. George
 type: poi
+score: 7.5
 ---
 
 The westernmost point of the Crescent City area, Point St. George juts into the Pacific north of the harbor and offers exposed, dramatic coastal walking with sea stacks, tidepools, and seasonal wildlife including gray whales during migration (December to March and March to May). The offshore rocks near Point St. George are where the paddle steamer Brother Jonathan wrecked in 1865.

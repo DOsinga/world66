@@ -10,13 +10,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Iskander-kul,_Tajikistan.J
 latitude: 38.861034
 longitude: 71.276093
 title: Tajikistan
+snippet: Mountainous Central Asian country dominated by the Pamirs, with most of its land above 3,000 metres.
 type: location
 quick_facts:
   Population: "10 million"
   Visa: "E-visa available for most nationalities"
   Mountains Above 3,000m: "93% of the country"
   Pamir Highway Elevation: "Up to 4,655m"
-score: 0.45
+score: 0.56
 loc_type: country
 ---
 

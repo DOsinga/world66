@@ -13,6 +13,7 @@ story: >
   arches over the gorge just upstream — and in summer, locals use it as a diving platform.
 sources:
   - https://en.wikipedia.org/wiki/Benja_thermal_baths
+score: 8.9
 ---
 
 The Benja thermal baths are tucked into the Lengarica canyon about 10 kilometres from Përmet, and the approach is half the experience: the road winds through increasingly dramatic rock scenery before dropping to the gorge floor. The thermal springs emerge at natural pools alongside the cold Lengarica river — you can move between warm and cold water, which locals swear by for circulation. The setting, with cliffs rising steeply on both sides and forest above, is striking.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.5189
 longitude: -48.5093
+score: 7.6
 ---
 
 The small whitewashed Church of São Benedito was built in the late 18th century by Paranaguá's enslaved Afro-Brazilian community, who were forbidden from worshipping in the larger churches in the centre. São Benedito (Saint Benedict the Moor) is the patron saint of Black Catholics in Brazil, and the church became the focus of religious life for the city's African population.

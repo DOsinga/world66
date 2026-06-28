@@ -16,6 +16,7 @@ tags:
 title: Puffin Sea Cruises
 type: poi
 url: www.puffincruises.com
+score: 8.3
 ---
 
 Two- to three-hour trips leaving Macduff harbour, usually at 10am and 2pm in summer. The eastern route heads to the gannet colony at Troup Head — the only mainland gannet colony in Scotland — and past the film-set village of Pennan with its famous red telephone box. The western route passes Findlater Castle and the beach at Sandend. Both routes offer a good chance of seeing bottlenose dolphins, which are resident in the Moray Firth year-round; minke whales pass through in summer; puffins and guillemots are reliable from April to July.

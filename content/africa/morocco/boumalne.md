@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Boumalne_du_Dad%C3%A8s.JPG
 latitude: 31.3509
 loc_type: city
 longitude: -5.9801
-score: 0.54
+score: 7.99
+snippet: Small Dadès Valley town at the mouth of Morocco's red-rock gorge country.
 title: Boumalne Dadès
 type: location
 ---

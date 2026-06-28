@@ -5,6 +5,7 @@ latitude: 19.243056
 longitude: -103.727778
 tags: [things_to_do, sight, church]
 story: The cathedral has been rebuilt repeatedly after Colima's frequent earthquakes — the current neoclassical version dates from the late nineteenth century. In 1998 Pope John Paul II elevated it to a minor basilica, recognising it as the first church in Latin America consecrated to the Virgin of Guadalupe.
+score: 6.3
 ---
 
 The Cathedral Basilica of Our Lady of Guadalupe sits on the north side of the Plaza Principal, its yellow-and-white facade and twin towers visible from most of the colonial centre. The interior is bright and surprisingly spare — pale walls, a coffered ceiling, and a high altar topped by an image of the Virgin of Guadalupe under a gilded canopy.

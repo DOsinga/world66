@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Billionth_Barrel_Monument_
 latitude: 4.614159
 loc_type: city
 longitude: 114.330183
-score: 0.31
+score: 5.78
+snippet: Brunei oil town on the coast, built around the petroleum fields that transformed
+  the country
 title: Seria
 type: location
 ---

@@ -8,6 +8,7 @@ latitude: 7.8100
 longitude: 98.7580
 story: >
   Bamboo Island is named for the bamboo that grows in its interior — not for bamboo in the reef sense. It sits about 30 minutes north of Phi Phi Don by longtail and receives far fewer visitors than the Phi Phi Leh circuit, which makes it one of the more pleasant half-day escapes on an island that can feel overwhelmingly crowded.
+score: 7.9
 ---
 
 Bamboo Island (Ko Pai) is a small uninhabited island about 9 kilometres north of Phi Phi Don, ringed by a fringe of white sand beach and surrounded by shallow, clear water with good snorkelling. Unlike the Phi Phi Leh circuit, which attracts enormous numbers of day-trippers from Phuket, Bamboo Island gets mostly independent travellers based on Phi Phi Don itself, and the beach can sometimes feel almost empty.

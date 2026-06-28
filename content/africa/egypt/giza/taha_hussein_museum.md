@@ -9,6 +9,7 @@ title: Taha Hussein Museum
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Taha_Hussein_Museum
+score: 7.1
 ---
 
 Taha Hussein (1889–1973) was perhaps the most important Arab literary figure of the twentieth century: a novelist, intellectual, and educator who championed secularism, women's rights, and universal education. Blind from childhood as a result of an eye infection, he rose from a poor village in Upper Egypt to become Dean of Cairo University and Minister of Education. His museum occupies the house he built in Giza in the 1930s, overlooking the Nile.

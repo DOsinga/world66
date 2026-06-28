@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Dominican_Monastery_(České_Budějovice)
+score: 7.7
 ---
 
 The Dominican Monastery is the oldest gothic building in České Budějovice, founded in the 13th century not long after the town itself. The original monastery was built for the Dominican order who arrived here in 1265, the same year the town was founded. The complex survived the Hussite wars and various fires better than most medieval buildings in the region.

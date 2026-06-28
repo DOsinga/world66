@@ -4,13 +4,15 @@ admission: Free
 latitude: 41.8992
 longitude: 12.4803
 opening_hours: Daily 07:30–19:00
+score: 8.5
+snippet: Baroque church with stunning trompe l'oeil dome
 tags:
 - things_to_do
 - church
 - square
+- campo_de_fiori
 title: Sant'Ignazio
 type: poi
-snippet: "Baroque church with stunning trompe l'oeil dome"
 ---
 
 A Baroque Jesuit church from 1722 with one of the most remarkable painted ceilings in Rome. The local residents refused to fund a dome, so the painter Andrea Pozzo instead painted a trompe l'oeil ceiling fresco that creates the illusion of a dome and soaring architecture. Stand on the yellow disc marked on the nave floor for the full effect — from anywhere else the perspective collapses.

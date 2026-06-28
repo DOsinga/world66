@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, stare_mesto]
 latitude: 48.1419
 longitude: 17.1005
+score: 6.8
 ---
 
 The Slovak National Museum's Natural History branch occupies part of Bratislava Castle and covers the natural history of Slovakia from the prehistoric period to the present. The collections include an extensive mineralogy section, palaeontology displays with dinosaur fossils found in Slovakia, and natural history dioramas covering the Carpathian ecosystems.

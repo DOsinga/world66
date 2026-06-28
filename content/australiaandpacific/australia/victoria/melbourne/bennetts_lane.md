@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -37.8107
 longitude: 144.9639
+score: 2.5
 snippet: Melbourne's legendary jazz club, closed 2015 but fondly remembered
 tags:
 - bars_and_cafes
+- cbd
 title: Bennett's Lane
 type: poi
 ---

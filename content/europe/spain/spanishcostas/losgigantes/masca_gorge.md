@@ -9,6 +9,7 @@ tags:
   - nature
 title: Masca Gorge
 type: poi
+score: 8.4
 ---
 
 Masca Gorge is the classic mountain excursion from Los Gigantes, a deep ravine cutting through the Teno massif north of the resort. The village of Masca sits above it on a road that twists through some of Tenerife's most dramatic scenery.

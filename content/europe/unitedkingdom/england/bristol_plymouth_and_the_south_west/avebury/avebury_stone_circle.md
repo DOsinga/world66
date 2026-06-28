@@ -9,6 +9,7 @@ latitude: 51.4286
 longitude: -1.8542
 story: >
   Unlike Stonehenge, Avebury has no fence. Visitors walk directly among the sarsen stones, some weighing 40 tonnes, and are free to touch them. The circle is so enormous — nearly 420 metres in diameter — that medieval villagers built their homes, church, and inn inside it, apparently without sensing any contradiction between the Christian present and the Neolithic past. Several of the buried stones were rediscovered when buildings collapsed on top of them.
+score: 9.8
 ---
 
 The Avebury henge is the largest stone circle in Europe and one of the most significant Neolithic monuments in the world, designated a UNESCO World Heritage Site alongside Stonehenge. The outer circle consists of up to 100 sarsen stones — large sandstone boulders quarried from the Marlborough Downs — arranged within a massive earthwork ditch and bank that was itself an enormous undertaking, dug using antler picks around 2850 BC.

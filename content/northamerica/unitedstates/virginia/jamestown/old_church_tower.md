@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - historic
+score: 7.8
 ---
 
 The Old Church Tower at Historic Jamestowne is the only above-ground structure surviving from the 17th century — a stout brick bell tower built around 1680 as part of the fifth church on the site. The church itself was rebuilt around the tower in 1907 as a memorial for the 300th anniversary of the founding.

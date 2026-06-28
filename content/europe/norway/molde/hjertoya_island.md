@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, history, nature]
 latitude: 62.5897
 longitude: 8.1086
+score: 7.7
 ---
 
 Hjertøya is a small island in the Romsdalsfjorden, a 10-minute boat ride from Molde's quayside. The island is home to a fishing museum that focuses not just on the history of fishing techniques but on what it actually meant to live and work as a fisherman in western Norway — the housing, the diet, the seasonal rhythms, the social organisation.

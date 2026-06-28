@@ -7,6 +7,7 @@ tags:
 latitude: 68.1529
 longitude: 14.2008
 story: "The Henningsvær football pitch — squeezed onto a flat shelf of rock between the harbour and the open sea, with goal posts almost in the water — has become one of the most photographed sports grounds in the world. The actual local team plays only friendlies on it because the sea spray destroys the ball within fifteen minutes of kickoff."
+score: 9.0
 ---
 
 The most photogenic village in Lofoten — a tight cluster of red and yellow wooden warehouses, painted houses, and fishing rorbuer clustered on a handful of small islets and connected to the rest of Austvågøya by a dramatic causeway crossing a kilometre of open sea. The drive in from the main road is half the point: low sun, bare rock skerries, the village appearing across the water.

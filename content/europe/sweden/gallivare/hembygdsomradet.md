@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Open-air museum of old Lapland buildings on the Vassara lake shore"
+score: 6.6
 ---
 
 A small but charming open-air museum on the shore of Vassara Lake, just west of the centre. About a dozen old buildings have been moved here from around Lapland and reassembled — a Sami goahti tent, a smoke sauna, a farmhouse and barn, a settler's cabin, a fishing hut — to show how people lived here before the railway and the mines.

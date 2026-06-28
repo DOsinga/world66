@@ -8,6 +8,7 @@ tags:
   - museum
   - old_san_juan
 neighbourhood: Old San Juan
+score: 8.0
 ---
 
 The Museum of the Americas occupies the upper floors of the Cuartel de Ballajá, the last big Spanish military barracks built before independence — a vast neoclassical block finished in 1864 and capable of housing a thousand troops. The museum's permanent collections cover Caribbean popular art, African heritage in the Americas, and Indian art of the New World; the rotating shows are strong on contemporary Puerto Rican artists.

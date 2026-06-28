@@ -4,10 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 55.948056
 longitude: -3.193889
+score: 6.4
 snippet: Lively Irish pub with nightly live music
 tags:
 - bars_and_cafes
-- old_town
+- oldtown
 - bar
 title: Finnegan's Wake
 type: poi

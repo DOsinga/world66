@@ -12,6 +12,7 @@ story: >
   properties for skin conditions and respiratory ailments — the same properties the Romans
   valued. The current bathing establishment is thoroughly twentieth century, but it sits
   on the same volcanic geography.
+score: 5.6
 ---
 
 Acireale has been famous for its thermal baths since antiquity. The Terme di Santa Venera, a few minutes south of the town centre, taps the sulphurous waters that rise through the volcanic rock of the Etna coast and has been in operation in its current form since the nineteenth century.

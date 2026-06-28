@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Spring_Park_2023.jpg
 latitude: 34.7304
 loc_type: city
 longitude: -86.5861
-score: 0.46
+score: 6.78
+snippet: North Alabama city nicknamed Rocket City, anchored by NASA history and the
+  Saturn V legacy.
 title: Huntsville
 type: location
 ---

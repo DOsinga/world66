@@ -1,11 +1,12 @@
 ---
 latitude: 31.6175
 longitude: -7.9907
+score: 7.8
 tags:
 - things_to_do
 - mosque
 - sight
-- mellah
+- kasbah
 title: Bab Agnaou
 type: poi
 ---

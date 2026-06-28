@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.5139
 longitude: -119.5539
+score: 6.6
 ---
 
 Draper Street is Kingsburg's main commercial strip and the centre of its Swedish heritage identity. The buildings along the street have been given Swedish architectural styling — half-timbered facades, steeply pitched roofs, and Scandinavian colour schemes in red, white, and blue. Some of the detailing is historically approximate, but the overall effect gives the street a distinctive character unlike anything else in the San Joaquin Valley.

@@ -7,6 +7,7 @@ tags:
 latitude: 43.1105
 longitude: 141.4139
 snippet: Vast sculpture park designed by Isamu Noguchi on reclaimed landfill
+score: 8.1
 ---
 
 Moerenuma Park is one of the more unusual public spaces in Japan — a large park northeast of central Sapporo built on a reclaimed rubbish landfill and designed entirely by the Japanese-American sculptor Isamu Noguchi as his final major work. Noguchi died in 1988 before construction began; the park finally opened in 2005, following his plans closely. What he designed is not a park in the conventional sense but a landscape you move through as though through a piece of sculpture: conical earth hills, a glass pyramid that serves as an event space, a water feature that looks like a frozen wave, lawns shaped by shallow curves that make the flat ground behave unexpectedly.

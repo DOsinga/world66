@@ -9,6 +9,7 @@ title: Palazzo del Provveditore
 type: poi
 story: >
   Originally built as the royal palace of the Lusignan Kings of Cyprus, the Palazzo del Provveditore was remodelled by the Venetians in the 16th century as the residence of their governor (the Provveditore). Four granite columns from the ancient site of Salamis were incorporated into the Renaissance facade — you can still see them framing the main entrance arch. After the Ottoman conquest, the building was damaged and gradually fell into ruin.
+score: 6.8
 ---
 
 The Palazzo del Provveditore — the Venetian Governor's Palace — stands directly across the square from the Lala Mustafa Pasha Mosque, and its ruined facade frames the square's western side. What remains is a partial Renaissance facade: three arched bays supported by four ancient granite columns brought from Salamis, behind which the interior has largely collapsed into rubble.

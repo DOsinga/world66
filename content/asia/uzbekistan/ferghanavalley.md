@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 40.85
+loc_type: feature
 longitude: 71.7
+score: 7.31
+snippet: Fertile Central Asian valley shared by three countries, known in Uzbekistan
+  for silk, ceramics, and orchards.
 title: Ferghana Valley
 type: location
-score: 0.49
-loc_type: feature
 ---
 
 The Ferghana Valley is a large fertile depression in the heart of Central Asia, shared between Uzbekistan, Tajikistan, and Kyrgyzstan. Enclosed by the Tian Shan and Pamir-Alay mountain ranges, it is the most densely populated region in Central Asia and has been an agricultural and commercial heartland for centuries, famous for silk, horses, and dried fruit.

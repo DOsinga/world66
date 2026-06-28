@@ -15,6 +15,7 @@ story: >
   Valentino Rossi — who grew up nearby — was the dominant force in the sport. 
   Rossi's local popularity turned the Misano round into one of the most 
   passionate crowd events on the entire MotoGP calendar.
+score: 8.2
 ---
 
 The Misano World Circuit Marco Simoncelli — renamed in 2012 for the Italian rider who died at the Malaysian Grand Prix in 2011 — is a permanent racing facility that hosts rounds of MotoGP, Superbike, and various other national and international series throughout the year. The circuit runs to 4.226 km and has undergone extensive upgrades since its return to international competition.

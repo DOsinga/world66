@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.8680
 longitude: -111.7600
+score: 6.5
 ---
 
 Elote Cafe is consistently rated one of the best restaurants in Sedona, serving elevated Mexican food with a strong focus on local ingredients and scratch cooking. The namesake dish — roasted corn dressed with chile, lime, cotija cheese, and cream — appears in various forms throughout the menu. The chile-braised short rib and the mole dishes are particularly good.

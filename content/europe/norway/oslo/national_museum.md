@@ -11,6 +11,7 @@ story: >
   images in the world: Edvard Munch's "The Scream" (1893 version). It moved here from the
   old National Gallery in 2022, displayed in a dedicated room with a single bench and indirect
   lighting. The room is quiet. People sit for longer than they expect.
+score: 8.9
 ---
 
 Norway's National Museum opened in 2022 in a new building on the Aker Brygge waterfront, consolidating four previously separate collections into a single institution. It holds Norway's national art collection — from medieval wooden altarpieces through the 19th-century Romantic painters who defined Norwegian national identity, to contemporary work — alongside design, craft, and architecture.

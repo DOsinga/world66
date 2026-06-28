@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 22.5
 longitude: 58.5
+score: 8.8
 ---
 
 The Wahiba Sands — officially the Sharqiya Sands — are the easiest serious desert accessible from Muscat, about two and a half hours south by car. The dunes are tall, red, and classic in the way that Arabian desert tends to look in dreams: long parallel ridges of rust-coloured sand rising 100 metres or more, with corridors of harder ground between them. The Bedu communities that have lived in the sands for generations still maintain seasonal camps and date farms at the desert fringes.

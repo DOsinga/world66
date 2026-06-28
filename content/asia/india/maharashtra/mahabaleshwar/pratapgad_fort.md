@@ -15,6 +15,7 @@ story: >
   in the meeting, and the Maratha force that had been waiting in the forest routed the 
   Bijapur army. The fort's bronze statue of Shivaji, installed in 1957 and visible from 
   the approach road, celebrates this as the founding moment of the Maratha Empire.
+score: 8.3
 ---
 
 Pratapgad Fort is a hilltop Maratha fortress 24 km from Mahabaleshwar, built in 1656 on the orders of Chhatrapati Shivaji as part of his campaign to push the Bijapur Sultanate back from the Konkan passes. It is one of the best-preserved Maratha forts in Maharashtra and ranks among the most historically significant — the site of one of the most celebrated incidents in Maratha history (see story above).

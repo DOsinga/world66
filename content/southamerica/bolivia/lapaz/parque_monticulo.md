@@ -9,6 +9,7 @@ tags:
 - nature
 title: Parque El Montículo
 type: poi
+score: 7.7
 ---
 
 A small hilltop park in the Sopocachi neighbourhood that offers one of the best panoramic views of La Paz. From the summit, the city spreads below in its canyon, with the altiplano visible to the west and Illimani's white peak to the southeast on clear days. The park is compact and pleasant, popular with local families in the morning and courting couples in the evening.

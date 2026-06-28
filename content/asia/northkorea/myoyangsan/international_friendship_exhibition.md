@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: "Hillside vault holding more than 200,000 state gifts to North Korea's leaders"
 story: "Visitors must change into felt slippers and pass through metre-thick blast-proof doors before entering, and white-gloved guides bow before each cabinet. The exhibition was built in 1978 specifically to display gifts presented to Kim Il-sung."
+score: 8.8
 ---
 
 The International Friendship Exhibition is two enormous palace-style buildings tunnelled into the side of Mount Myohyang, holding the gifts that foreign heads of state, parties, and organisations have given to the Kim family since the 1940s. The official tally now runs to well over 200,000 items, displayed in around 150 rooms arranged by country.

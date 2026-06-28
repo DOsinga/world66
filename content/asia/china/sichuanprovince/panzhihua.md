@@ -5,11 +5,13 @@ done:
 latitude: 26.5822
 loc_type: city
 longitude: 101.7187
-score: 0.33
+score: 5.94
 sources:
 - https://en.wikipedia.org/wiki/Panzhihua
 title: Panzhihua
 type: location
+snippet: Industrial Sichuan river city built around vast vanadium-titanium iron deposits
+  near the Yunnan border.
 ---
 
 Panzhihua is an industrial city in the far south of Sichuan province, on the border with Yunnan, built from nothing in the 1960s to exploit one of the largest deposits of vanadium-bearing titanium-magnetite iron ore in the world. For many years it was literally a secret city — marked on no public maps, protected by the mountains that rise on all sides, and focused entirely on the Pangang steel works and the surrounding mines. It is now a provincial-level city of over a million people and one of the more curious destinations in southwestern China: an industrial outpost in otherwise pastoral country, where the Yalong and Jinsha rivers meet.

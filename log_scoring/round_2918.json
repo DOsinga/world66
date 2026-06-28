@@ -1,0 +1,200 @@
+{
+  "round": 2918,
+  "timestamp": "2026-06-13T22:16:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.7353,
+      "prior_variance": 0.186826,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 7.8414,
+      "prior_variance": 0.168562,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 4.0585,
+      "prior_variance": 0.199549,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 5.332,
+      "prior_variance": 0.189133,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 5.4193,
+      "prior_variance": 0.148492,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 6.1713,
+      "prior_variance": 0.167118,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 6.1032,
+      "prior_variance": 0.241588,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.1191,
+      "prior_variance": 0.138672,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.5277,
+      "prior_variance": 0.157356,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 4.9411,
+      "prior_variance": 0.140324,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 5.3724,
+      "prior_variance": 0.182502,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 4.1551,
+      "prior_variance": 0.147755,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 6.3327,
+      "prior_variance": 0.196944,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 5.1623,
+      "prior_variance": 0.17826,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 4.2287,
+      "prior_variance": 0.147229,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 5.1601,
+      "prior_variance": 0.165953,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 2.1698,
+      "prior_variance": 0.162028,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 4.3184,
+      "prior_variance": 0.154781,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.576,
+      "prior_variance": 0.193492,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 3.5375,
+      "prior_variance": 0.158959,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.2691,
+      "prior_variance": 0.152955,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 1.5452,
+      "prior_variance": 0.138642,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -0.9029,
+      "prior_variance": 0.154352,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_score": -1.0936,
+      "prior_variance": 0.18346,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,200 +1,200 @@
 {
   "round": 2094,
-  "timestamp": "2026-04-13T16:10:24",
+  "timestamp": "2026-06-13T21:18:15",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hydra",
-      "path": "europe/greece/hydra",
-      "prior_score": 8.7255,
-      "prior_variance": 0.337487,
-      "prior_n": 5
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 15.7085,
+      "prior_variance": 0.779248,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Kuelap",
-      "path": "southamerica/peru/chachapoyas/kuelap",
-      "prior_score": 4.5503,
-      "prior_variance": 0.26688,
-      "prior_n": 5
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 11.2542,
+      "prior_variance": 0.527331,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Benevento",
-      "path": "europe/italy/campania/benevento",
-      "prior_score": 0.2594,
-      "prior_variance": 0.280053,
-      "prior_n": 5
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 9.5295,
+      "prior_variance": 0.474703,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Viseu",
-      "path": "europe/portugal/viseu",
-      "prior_score": 1.5524,
-      "prior_variance": 0.245976,
-      "prior_n": 5
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 3.0712,
+      "prior_variance": 0.226058,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Shenzhen",
-      "path": "asia/china/shenzhen",
-      "prior_score": -0.73,
-      "prior_variance": 0.330975,
-      "prior_n": 5
+      "title": "Mount Kailash",
+      "path": "asia/china/tibet/mount_kailash",
+      "prior_score": 5.5847,
+      "prior_variance": 0.272999,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Tarawa",
-      "path": "australiaandpacific/kiribati/tarawa",
-      "prior_score": -1.5713,
-      "prior_variance": 0.225087,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -2.0378,
+      "prior_variance": 0.23279,
       "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Bhandardhara",
-      "path": "asia/india/maharashtra/bhandardhara",
-      "prior_score": -0.7762,
-      "prior_variance": 0.226253,
-      "prior_n": 6
-    },
-    {
-      "rank": 8,
-      "title": "Sturbridge",
-      "path": "northamerica/unitedstates/massachusetts/sturbridge",
-      "prior_score": -1.4038,
-      "prior_variance": 0.270758,
-      "prior_n": 5
-    },
-    {
-      "rank": 9,
-      "title": "Tilghman Island",
-      "path": "northamerica/unitedstates/maryland/tilghman_island",
-      "prior_score": -1.239,
-      "prior_variance": 0.260556,
-      "prior_n": 5
-    },
-    {
-      "rank": 10,
-      "title": "Spiekeroog",
-      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
-      "prior_score": 0.5821,
-      "prior_variance": 0.24404,
-      "prior_n": 5
-    },
-    {
-      "rank": 11,
-      "title": "Bognor Regis",
-      "path": "europe/unitedkingdom/england/bognorregis",
-      "prior_score": -3.884,
-      "prior_variance": 0.245823,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": 0.2317,
+      "prior_variance": 0.181225,
       "prior_n": 7
     },
     {
+      "rank": 8,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -4.3977,
+      "prior_variance": 0.250845,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.7128,
+      "prior_variance": 0.199642,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -3.2019,
+      "prior_variance": 0.235459,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -5.336,
+      "prior_variance": 0.227239,
+      "prior_n": 6
+    },
+    {
       "rank": 12,
-      "title": "Astoria",
-      "path": "northamerica/unitedstates/newyorkstate/astoria",
-      "prior_score": -1.7002,
-      "prior_variance": 0.258575,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_score": -5.9299,
+      "prior_variance": 0.343449,
       "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Maasmechelen",
-      "path": "europe/belgium/maasmechelen",
-      "prior_score": -2.5489,
-      "prior_variance": 0.179432,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -3.5893,
+      "prior_variance": 0.208705,
       "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Oberhausen",
-      "path": "europe/germany/northrhinewestphalia/oberhausen",
-      "prior_score": -3.7258,
-      "prior_variance": 0.259657,
+      "title": "Khorramabad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -4.4569,
+      "prior_variance": 0.215095,
       "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Northbridge",
-      "path": "australiaandpacific/australia/westernaustralia/northbridge",
-      "prior_score": -3.7897,
-      "prior_variance": 0.287114,
-      "prior_n": 5
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -5.6616,
+      "prior_variance": 0.303327,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "North Shore City",
-      "path": "australiaandpacific/newzealand/auckland_region/northshorecity",
-      "prior_score": -0.3045,
-      "prior_variance": 0.250348,
-      "prior_n": 6
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.7962,
+      "prior_variance": 0.337503,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Kaitaia",
-      "path": "australiaandpacific/newzealand/kaitaia",
-      "prior_score": -0.8724,
-      "prior_variance": 0.257719,
-      "prior_n": 5
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -10.5439,
+      "prior_variance": 0.981527,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Valdepe\u00f1as",
-      "path": "europe/spain/la_mancha/valdepeas",
-      "prior_score": -0.4883,
-      "prior_variance": 0.258771,
-      "prior_n": 5
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_score": -4.3921,
+      "prior_variance": 0.284957,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Tarancon",
-      "path": "europe/spain/la_mancha/tarancon",
-      "prior_score": -2.797,
-      "prior_variance": 0.313503,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -5.6865,
+      "prior_variance": 0.239467,
       "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "100 Mile House",
-      "path": "northamerica/canada/britishcolumbia/100milehouse",
-      "prior_score": -4.723,
-      "prior_variance": 0.251668,
-      "prior_n": 5
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -6.1218,
+      "prior_variance": 0.381513,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Wytheville",
-      "path": "northamerica/unitedstates/virginia/wytheville",
-      "prior_score": -3.7767,
-      "prior_variance": 0.329085,
-      "prior_n": 5
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -6.3583,
+      "prior_variance": 0.276281,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Wayne",
-      "path": "northamerica/unitedstates/newjersey/wayne",
-      "prior_score": -5.8523,
-      "prior_variance": 0.372562,
-      "prior_n": 5
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -8.0097,
+      "prior_variance": 0.335286,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Gadiara",
-      "path": "asia/india/westbengal/mandarmani/gadiara",
-      "prior_score": -4.4943,
-      "prior_variance": 0.321185,
-      "prior_n": 5
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -4.8068,
+      "prior_variance": 0.234496,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Tangerang",
-      "path": "asia/indonesia/java/tangerang",
-      "prior_score": -5.0875,
-      "prior_variance": 0.329569,
-      "prior_n": 5
+      "title": "Madhegaon Kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -10.6895,
+      "prior_variance": 0.410983,
+      "prior_n": 6
     }
   ]
 }

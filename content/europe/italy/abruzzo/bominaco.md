@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Bominaco_AQ_-_Castello_29.
 latitude: 42.243811
 loc_type: city
 longitude: 13.65779
-score: 0.46
+score: 7.17
 title: Bominaco
 type: location
+snippet: Tiny Abruzzo hill village with exceptional medieval frescoes in the Oratorio
+  di San Pellegrino.
 ---
 
 Bominaco is a tiny village in the Abruzzo hills, about 30 km from [L'Aquila](/europe/italy/abruzzo/aquila) and most easily reached by car. There is not much to the village itself — a handful of houses and a castle ruin on the hill above — but it holds two churches that are among the finest in central Italy.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrer
 latitude: 52.923301
 loc_type: city
 longitude: -1.476549
-score: 0.42
+score: 6.92
+snippet: Derwent Valley city with early factory history, Rolls-Royce engineering,
+  and a strong Industrial Revolution claim
 sources:
 - https://en.wikipedia.org/wiki/Derby
 - https://en.wikipedia.org/wiki/Derwent_Valley_Mills

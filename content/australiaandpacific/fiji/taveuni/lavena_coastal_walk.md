@@ -6,6 +6,7 @@ tags:
   - sight
 title: Lavena Coastal Walk
 type: poi
+score: 8.1
 ---
 
 The Lavena Coastal Walk runs along the southeast coast of Taveuni from Lavena village, passing through coastal forest, along beaches, and through traditional Fijian villages before reaching a waterfall at the end of the trail. The walk takes about two to three hours each way and offers a different perspective on the island than the interior forest trails — here you are on the coast, with sea views and a sense of the villages strung along the shore.

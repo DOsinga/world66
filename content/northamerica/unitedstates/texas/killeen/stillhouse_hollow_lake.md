@@ -6,6 +6,7 @@ tags:
 - sight
 title: Stillhouse Hollow Lake
 type: poi
+score: 7.0
 ---
 
 Stillhouse Hollow Lake lies south of Killeen on the Lampasas River, a quieter and arguably more scenic alternative to Belton Lake. The surrounding terrain is hillier and more wooded, and the lake has a reputation for cleaner water and better wind conditions for sailing.

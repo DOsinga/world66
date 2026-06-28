@@ -6,7 +6,9 @@ done:
 latitude: 43.342656
 loc_type: city
 longitude: 3.213131
-score: 0.5
+score: 7.79
+snippet: Languedoc hill city above the Orb, with Roman roots, rugby pride, and Canal
+  du Midi engineering.
 title: Beziers
 type: location
 ---

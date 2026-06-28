@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The world's second-largest arts festival, held every March across the whole city"
+score: 8.2
 ---
 
 The Adelaide Fringe runs for most of February and March and is the second-largest fringe festival in the world after Edinburgh, with over a thousand shows across hundreds of venues. Unlike Edinburgh, the Adelaide Fringe is free to register for — any performer can put on a show — which means the quality ranges from international stars to genuinely rough work, and finding the gems requires some research.

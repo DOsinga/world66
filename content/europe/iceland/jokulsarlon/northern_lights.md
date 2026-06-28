@@ -14,6 +14,7 @@ story: >
   it's dark enough for the aurora but not yet Arctic cold, offer the best conditions.
   Winter visits require serious cold-weather gear — temperatures can drop to -15°C
   — but the auroras are visible from October through March.
+score: 8.2
 ---
 
 Jökulsárlón is one of the finest northern lights viewing sites in Iceland, combining a guaranteed dark sky (there is no settlement for many kilometres) with the lagoon's reflective surface and photogenic ice. On clear autumn and winter nights the aurora can appear as a curtain of green light reflected in the lagoon water, with the silhouettes of icebergs in the foreground. The location is remote enough to be genuinely dark and the flat lagoon surface magnifies whatever sky activity is occurring.

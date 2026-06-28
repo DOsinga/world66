@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:CCAP_Church_Zomba.jpg
 latitude: -15.3869
 loc_type: city
 longitude: 35.3192
+score: 6.48
+snippet: Former Malawian capital below the Zomba Plateau, with colonial avenues and
+  green mountain air.
 sources:
 - https://en.wikipedia.org/wiki/Zomba,_Malawi
 title: Zomba

@@ -6,6 +6,7 @@ longitude: 9.748
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The parish church of St Gallus is the main church of the lower town, a large baroque building that replaced an earlier medieval structure. The current building dates substantially from the 17th and 18th centuries, with a tall tower that serves as a local landmark. The interior has the characteristic warmth of Austrian provincial baroque — gilded altars, painted vaults, and an overall confidence that the decoration earns rather than overwhelms.

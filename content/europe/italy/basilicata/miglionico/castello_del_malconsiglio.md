@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Miglionico
 story: >
   On 24 February 1481, a group of Neapolitan barons gathered here and swore an oath against King Ferdinand I of Aragon. The conspiracy — known as the Congiura dei Baroni — was eventually crushed, the ringleaders executed, and their estates confiscated. The castle earned the name "Malconsiglio" (bad counsel) as a result, a name it has carried for over five centuries.
+score: 8.4
 ---
 
 The Castello del Malconsiglio is one of the most evocative small castles in Basilicata. Built in the Norman period and modified under Swabian rule, it sits at the highest point of the town with six towers intact — a remarkable survival for a structure that has stood since the eleventh century.

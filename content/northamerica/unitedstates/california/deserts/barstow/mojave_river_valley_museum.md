@@ -8,6 +8,7 @@ latitude: 34.8897
 longitude: -117.0229
 address: "270 E Virginia Way, Barstow, CA"
 snippet: "The best introduction to the Mojave Desert's natural history and its Route 66-era past"
+score: 6.9
 ---
 
 The Mojave River Valley Museum, run by volunteers in a converted building downtown, punches above its weight for a small-city local museum. The collections cover the full sweep of the region: Native American artifacts from the Serrano and Chemehuevi peoples, fossil specimens from Rainbow Basin, exhibits on the old Spanish Trail and the role of the Mojave River as the only reliable water source in hundreds of miles of desert, and a section on the Route 66 era when Barstow was a genuine highway stop with motels, diners, and car culture.

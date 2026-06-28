@@ -8,6 +8,7 @@ tags:
 latitude: 68.4214
 longitude: 27.4177
 story: "Working sled dogs in Finland are usually Alaskan huskies rather than Siberian, bred more for speed and endurance than for the fluffy looks of the show breed. They pull all winter and spend the brief summer mostly sleeping."
+score: 7.8
 ---
 
 Half a dozen kennels operate around Saariselkä, offering anything from a 30-minute taster ride to multi-day expeditions where you camp in the wilderness and drive your own team. The standard introductory tour is around two hours: you get a briefing, a team of four to six dogs, and the chance to actually drive the sled yourself rather than just sitting in one.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gy%C3%B6r_Ufer_der_Raab_3.
 latitude: 47.6835
 loc_type: city
 longitude: 17.6343
-score: 0.55
+score: 7.66
+snippet: Baroque Hungarian city at three rivers, with a compact old town between Budapest
+  and Vienna.
 title: Győr
 type: location
 ---

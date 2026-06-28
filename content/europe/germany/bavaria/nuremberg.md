@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_
 latitude: 49.453872
 loc_type: city
 longitude: 11.077298
-score: 0.65
+score: 8.89
+snippet: Franconian city of imperial walls and Nazi rally grounds, rebuilt around
+  a medieval Altstadt
 title: Nuremberg
 type: location
 ---

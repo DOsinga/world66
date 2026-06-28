@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kansas City Art Institute
 type: poi
+score: 7.0
 ---
 
 The Kansas City Art Institute is one of the oldest and most respected art schools in the United States, founded in 1885. Its alumni roster includes filmmaker Robert Altman, illustrators who shaped American visual culture, and generations of designers who went to work for nearby Hallmark Cards. The campus is in the Midtown arts district, adjacent to the Nelson-Atkins Museum of Art.

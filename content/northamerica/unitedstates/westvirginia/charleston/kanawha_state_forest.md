@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.2876
 longitude: -81.6548
+score: 7.8
 ---
 
 A 9,300-acre state forest a few miles south of downtown, Kanawha State Forest offers a real escape from the city — wooded ridgelines, the rocky bed of Davis Creek, a network of hiking and mountain biking trails ranging from easy stream-side walks to steep half-day climbs. Campsites, picnic shelters, and a small public swimming pool make it popular with Charleston families on summer weekends.

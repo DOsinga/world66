@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 33.7898
 longitude: -84.3717
+score: 7.9
 ---
 
 A 30-acre garden adjoining Piedmont Park in Midtown, anchored by a glass conservatory (the Fuqua Orchid Center) with one of the country's biggest collections of tropical and desert plants. The Canopy Walk — a 600-foot suspended walkway through the treetops — is the standout exterior feature.

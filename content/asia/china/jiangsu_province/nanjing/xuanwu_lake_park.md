@@ -8,6 +8,7 @@ tags:
 - park
 - lake
 story: The lake was drained on imperial order in 1402 by the Yongle Emperor, who was angry that fishermen had made it their domain rather than contributing tax revenue. It sat dry for decades before being reflooded. In the 20th century it served as a venue for the storming of Nanjing's gates during successive Chinese civil conflicts — the lake's shores have witnessed some of the most violent episodes in the city's history while somehow retaining a mood of quiet pleasure.
+score: 8.2
 ---
 
 Xuanwu Lake (玄武湖) is the large urban lake that lies against the northern face of the Ming city wall. The park around it — now a popular place for morning exercise, afternoon walking, and evening strolls — covers about 10 square kilometres, with several small islands connected by causeways. The view from the far shore across the water to the city wall and the forested hills of Purple Mountain beyond is one of Nanjing's classic vistas.

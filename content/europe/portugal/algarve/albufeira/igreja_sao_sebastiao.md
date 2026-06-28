@@ -8,6 +8,7 @@ tags:
 latitude: 37.0887
 longitude: -8.2524
 snippet: 14th-century church in the old town with a gilded altar and a statue of Our Lady of Orada
+score: 6.5
 ---
 
 The Igreja de São Sebastião stands in the heart of Albufeira's old town, its plain whitewashed exterior giving no hint of what's inside. The interior is dominated by a baroque gilded altar — all tortured columns and gilded foliage — behind which stands a 14th-century stone statue of Our Lady of Orada, one of the oldest religious images on the Algarve coast. The contrast between the exterior simplicity and the theatrical interior is characteristic of Portuguese Manueline and baroque church design.

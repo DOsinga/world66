@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:235_meters_of_single_drop_
 latitude: -8.597
 loc_type: feature
 longitude: 31.234
+score: 7.25
+snippet: Remote Zambian waterfall dropping from a sheer cliff beside major prehistoric
+  archaeological sites.
 sources:
 - https://en.wikipedia.org/wiki/Kalambo_Falls
 - https://en.wikipedia.org/wiki/Kalambo_Falls_Prehistoric_Site

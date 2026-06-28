@@ -8,6 +8,7 @@ latitude: 37.3500
 longitude: 79.9800
 story: >
   When Aurel Stein excavated Rawak in 1901, he found the outer walls of the stupa courtyard lined with over a hundred large clay sculptures of Buddhas and bodhisattvas, many still standing or only partly buried. Unable to transport them, he photographed them and reburied them for their protection. Most were found damaged by later looters. The photographs remain the primary record of what was there.
+score: 8.4
 ---
 
 The Rawak Stupa stands about 90 kilometres northeast of Hotan in the desert, a large Buddhist monument that was one of the most important religious sites in the ancient kingdom of Khotan. Built in approximately the 4th or 5th century AD, it consists of a central stupa surrounded by a walled courtyard, the whole structure now half-buried in the dunes that have been advancing across it for a thousand years.

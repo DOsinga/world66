@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Asti_-_Cattedrale_0562.jpg
 latitude: 44.9007
 loc_type: city
 longitude: 8.2064
+score: 8.29
+snippet: Compact Piedmont wine city of brick towers, porticoed streets, and Barbera
+  d'Asti hills.
 sources:
 - https://en.wikipedia.org/wiki/Asti
 - https://www.comune.asti.it/vivere-comune/luoghi/torre-troyana

@@ -2,6 +2,7 @@
 address: 17 Lane 31 Jinshan South Road Sec 2, Da'an District, Taipei
 latitude: 25.0314
 longitude: 121.5293
+score: 6.7
 snippet: Long-running spot for Taiwan's unofficial national dish, beef noodle soup
 tags:
 - eating_out

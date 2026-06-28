@@ -8,6 +8,7 @@ longitude: 130.8456
 snippet: "Casual cafe on Darwin's pedestrian mall"
 tags:
 - eating_out
+score: 4.8
 ---
 
 A casual cafe on Darwin's main pedestrian mall. Good for a coffee or a light lunch while exploring the city centre. The Mall location makes it a convenient stop between sights.

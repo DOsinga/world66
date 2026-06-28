@@ -14,6 +14,7 @@ story: >
   Japanese forces that resulted in the massacre of hundreds of Murut people at
   Rundum, near Nabawan. The pillboxes outside Keningau are among the few visible
   reminders of this occupation.
+score: 5.8
 ---
 
 A handful of concrete Japanese military pillboxes and fortifications survive on the edge of Keningau, remnants of the wartime occupation of British North Borneo (1941–1945). They are not grand monuments — just squat, mossy concrete emplacements gradually being consumed by tropical vegetation — but they serve as tangible reminders of a brutal period that is not widely commemorated elsewhere in town.

@@ -10,6 +10,7 @@ longitude: -81.3100
 story: "The house was built around 1723 on foundations that may date to the First Spanish Period. Unlike the grand colonial showpieces on St. George Street, it was an ordinary domestic dwelling — owned by a succession of Spanish, British, and American families who all left traces in the architecture. That layered history of everyday life is what makes it genuinely unusual among historic sites."
 sources:
   - https://en.wikipedia.org/wiki/Gonz%C3%A1lez%E2%80%93%C3%81lvarez_House
+score: 7.7
 ---
 
 The González-Álvarez House, known locally as the Oldest House, is the oldest surviving European-built structure in the United States, with construction dating to around 1723 on the site of an even earlier building. It stands just south of the plaza on St. Francis Street, a short walk from the main tourist circuit but often bypassed in favor of more prominent sights — which makes it one of the more pleasantly uncrowded experiences in the city.

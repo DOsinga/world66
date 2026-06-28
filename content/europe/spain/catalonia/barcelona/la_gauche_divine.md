@@ -6,9 +6,11 @@ email: info@lagauchedivine.com
 latitude: 41.377904
 longitude: 2.177787
 phone: +34 933 016 125
-snippet: Concept store mixing fashion, art, and music in the Gothic Quarter.
+score: 4.8
+snippet: Concept store mixing fashion, art, and music in the Gothic Quarter
 tags:
 - shopping
+- gothic_quarter
 title: La Gauche Divine
 type: poi
 url: www.lagauchedivine.com

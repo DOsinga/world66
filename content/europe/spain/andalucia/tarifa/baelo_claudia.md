@@ -9,6 +9,7 @@ tags:
 - museum
 title: Baelo Claudia
 type: poi
+score: 9.2
 ---
 
 About twenty kilometres north-west of Tarifa, at the foot of a long dune above the beach of Bolonia, lie the remains of one of the best-preserved Roman cities on the Atlantic coast. Baelo Claudia was a small but wealthy town of the first and second centuries AD, with a forum, basilica, theatre, temples to Isis and the Capitoline Triad, and an extensive fish-salting industry. An earthquake in the third century shut it down, and the site stayed buried until the 1920s.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Barrio_Viejo,_Vigo_(croppe
 latitude: 42.2377
 loc_type: city
 longitude: -8.7247
-score: 0.55
+score: 7.81
+snippet: Galician port city on the Ría de Vigo, known for seafood, granite old streets,
+  and the Islas Cíes.
 title: Vigo
 type: location
 ---

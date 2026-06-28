@@ -1,9 +1,7 @@
 ---
 snippet: Vast rail network — the best way to meet India and cross the country
-tags:
-- getting_there
 title: By Rail
-type: poi
+type: theme
 ---
 
 India has one of the world's largest rail networks, and the system is surprisingly efficient given its scale. Luxurious it is not, but the railways are arguably the best way to get to know the country and its people.

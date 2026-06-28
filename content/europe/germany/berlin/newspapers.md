@@ -6,6 +6,7 @@ tags:
 - practical_information
 title: Newspapers
 type: poi
+score: 1.4
 ---
 
 North American and British newspapers are available at kiosks in the city centre, at both airports, inside the Europa Center on Breitscheidplatz, and at specialist bookshops such as the British Bookshop near Checkpoint Charlie.

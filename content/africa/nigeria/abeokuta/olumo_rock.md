@@ -9,6 +9,7 @@ tags:
 snippet: The sacred granite outcrop that gives Abeokuta its name
 story: >
   In the 19th century the Egba people retreated into the caves at the foot of Olumo Rock to escape slave raiders from neighbouring Dahomey. The Egba prophet who led them is said to have prophesied that the rock would shelter them safely, and they emerged to found Abeokuta — "under the rock" — around it in 1830.
+score: 8.9
 ---
 
 Olumo Rock is a 137-metre-high granite outcrop rising directly out of the centre of Abeokuta, and the defining sight of the city. It is sacred to the Egba people, who took refuge in its caves during the inter-tribal wars of the early 19th century and built the city around it. The rock has been developed for visitors with concrete steps, handrails, and a modern lift up the lower section; the upper climb is a scramble up the bare granite with knotted ropes for handholds.

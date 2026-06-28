@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Meta_di_Sorren
 latitude: 40.621538
 loc_type: city
 longitude: 14.422194
-score: 0.6
+score: 8.64
+snippet: Quieter Sorrentine Peninsula town with rail links to Sorrento and one of
+  the area's few sandy beaches.
 title: Meta di Sorrento
 type: location
 ---

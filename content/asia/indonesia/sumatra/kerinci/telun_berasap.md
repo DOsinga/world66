@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - waterfall
+score: 7.1
 ---
 
 A wide, powerful waterfall on the road between Kersik Tuo and Pelompek, easy to visit on the way to or from Lake Gunung Tujuh. The water drops around 50 metres into a narrow gorge and the constant spray gives the falls their name — "Telun Berasap" means smoking cascade.

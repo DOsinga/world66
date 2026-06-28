@@ -1,12 +1,16 @@
 ---
-title: "Bar Mleczny Tomasza"
-type: poi
-tags:
-  - eating_out
-  - kazimierz
-  - restaurant
 latitude: 50.0614
 longitude: 19.9425
+score: 6.9
+snippet: Surviving communist-era milk bar on Tomasza Street serving cheap traditional
+  Polish meals
+tags:
+- eating_out
+- kazimierz
+- restaurant
+- stare_miasto
+title: Bar Mleczny Tomasza
+type: poi
 ---
 
 The milk bars (bar mleczny) of Poland are communist-era canteens that served subsidized, cheap, meatless food to the urban working class — and several in Krakow have survived into the present day, preserved partly by nostalgia and partly by the fact that the food is genuinely good. Bar Mleczny Tomasza is one of the better-known examples: a no-frills lunchroom with a counter, a handwritten menu, and a regular clientele of students, office workers, and budget travellers.

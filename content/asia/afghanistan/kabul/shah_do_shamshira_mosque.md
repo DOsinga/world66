@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mosque
+score: 7.4
 ---
 
 A small, unusually un-mosque-like building on the north bank of the Kabul river — pale-yellow stucco, ornate window frames, and an Italianate roofline that looks transplanted from a European spa town. It was built in the 1920s on the site of an older shrine commemorating a seventh-century Arab commander who reputedly kept fighting after losing both his hands (the name means "King of Two Swords"), and the older shrine and graves are inside.

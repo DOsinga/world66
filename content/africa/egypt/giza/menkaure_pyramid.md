@@ -17,6 +17,7 @@ story: >
   all they managed.
 sources:
   - https://en.wikipedia.org/wiki/Pyramid_of_Menkaure
+score: 8.6
 ---
 
 The smallest of the three Great Pyramids — just 65 metres high, less than half Khufu's original height — built around 2510 BC for pharaoh Menkaure. Despite its modest size it has an unusually elaborate valley complex: three subsidiary queens' pyramids line its south side, and the mortuary temple yielded some of the finest sculpture of the Old Kingdom, including a series of magnificent slate triads now in the Egyptian Museum in Cairo.

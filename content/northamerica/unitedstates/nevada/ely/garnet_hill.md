@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.2675
 longitude: -114.9750
+score: 6.0
 ---
 
 A free BLM-managed rockhounding area about 6 miles west of Ely on US-50, in the volcanic hills near the Robinson Mine. Garnet Hill is one of the best places in Nevada to dig your own garnets — almandine crystals weathering out of an old rhyolite tuff, visible loose in the surface gravel and recoverable by simple hand-digging in the larger outcrops.

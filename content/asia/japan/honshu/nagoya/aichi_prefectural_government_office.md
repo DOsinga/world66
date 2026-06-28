@@ -9,6 +9,7 @@ tags:
 latitude: 35.1802
 longitude: 136.9067
 neighbourhood: Meijo
+score: 6.9
 ---
 
 The Aichi Prefectural Government Office, completed in 1938, is one of Japan's most distinctive examples of "imperial crown style" architecture — a steel-and-concrete western office building topped with a sweeping traditional Japanese castle roof, a deliberate design to harmonise with the neighbouring Nagoya Castle. It was designated an Important Cultural Property in 2014.

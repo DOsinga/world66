@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.028333
 longitude: 80.217222
+score: 7.9
 ---
 
 The original Dutch governor's residence on Church Street dates from 1684. After the British took Galle in 1796 it was extended and turned into the New Oriental Hotel, one of the oldest continuously operating hotels in Asia. The Aman group restored it in the 2000s as Amangalla, retaining the antique furniture, four-poster beds, polished teak floors and broad colonial verandahs.

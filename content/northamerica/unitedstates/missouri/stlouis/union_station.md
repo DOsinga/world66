@@ -9,6 +9,7 @@ tags:
 latitude: 38.6280
 longitude: -90.2099
 story: When it opened in 1894, St Louis Union Station was the largest and busiest railway station in the world — designed to handle 100,000 passengers a day across 32 tracks. Whispering Arch, in the Grand Hall, focuses sound across the curved ceiling so a whisper at one end can be heard 70 feet away at the other.
+score: 6.0
 ---
 
 Union Station was the great railway terminus of the Midwest, opened in 1894 and at its peak the busiest passenger station in the world. The Romanesque headhouse with its 65-metre clock tower and the gilded Grand Hall barrel-vault are still spectacular. Passenger trains stopped in 1978; the building was redeveloped as a hotel, festival marketplace, and most recently an aquarium and observation wheel.

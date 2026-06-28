@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kirche_Kaundorf_04.jpg
 latitude: 49.9201
 loc_type: city
 longitude: 5.9013
-score: 0.37
+score: 6.32
+snippet: Tiny Éislek village in wooded northern Luxembourg, close to the Upper Sûre
+  Lake
 title: Kaundorf
 type: location
 ---

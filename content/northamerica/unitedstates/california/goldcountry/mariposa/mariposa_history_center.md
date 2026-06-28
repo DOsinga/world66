@@ -8,6 +8,7 @@ latitude: 37.5680
 longitude: -119.9667
 sources:
   - https://www.parksandpoints.com/make-time-for-mariposa-gold-rush-gateway-to-yosemite
+score: 8.1
 ---
 
 The Mariposa Museum and History Center occupies a complex of buildings on Jessie Street in the centre of town and does a good job of covering the full sweep of local history — from the Miwok people who lived here before the Gold Rush, through the mining era, and into the ranching and timber economy that followed. The collection includes mining equipment, period photographs, original documents, and a reconstructed miner's cabin set up as it would have looked in the 1850s.

@@ -1,0 +1,200 @@
+{
+  "round": 2418,
+  "timestamp": "2026-06-13T21:41:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 10.1467,
+      "prior_variance": 0.281861,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.0804,
+      "prior_variance": 0.195112,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.4455,
+      "prior_variance": 0.17446,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_score": -2.6429,
+      "prior_variance": 0.168411,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.8657,
+      "prior_variance": 0.164893,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_score": -3.6479,
+      "prior_variance": 0.198605,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -3.5491,
+      "prior_variance": 0.162629,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -5.391,
+      "prior_variance": 0.213858,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -2.9696,
+      "prior_variance": 0.183557,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -5.063,
+      "prior_variance": 0.253207,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_score": -3.5608,
+      "prior_variance": 0.214462,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -3.6885,
+      "prior_variance": 0.213975,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.7931,
+      "prior_variance": 0.185837,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -3.3188,
+      "prior_variance": 0.176043,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -2.6488,
+      "prior_variance": 0.186424,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -3.3581,
+      "prior_variance": 0.224856,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_score": 0.1198,
+      "prior_variance": 0.177442,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -1.7569,
+      "prior_variance": 0.170372,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -3.0979,
+      "prior_variance": 0.190467,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -4.7719,
+      "prior_variance": 0.260277,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.5931,
+      "prior_variance": 0.23897,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -5.811,
+      "prior_variance": 0.240035,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -4.9289,
+      "prior_variance": 0.201402,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.4248,
+      "prior_variance": 0.200465,
+      "prior_n": 7
+    }
+  ]
+}

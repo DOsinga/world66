@@ -8,6 +8,7 @@ latitude: 46.047
 longitude: 14.5041
 sources:
   - https://en.wikipedia.org/wiki/City_Museum_of_Ljubljana
+score: 7.5
 ---
 
 The City Museum of Ljubljana occupies a former Auersperg palace in the old town, a short walk south of the Town Hall. The permanent collection traces the history of Ljubljana from the Roman city of Emona (established 14 AD) through the medieval, Habsburg, and modern periods. The Roman period is well documented: excavations under the courtyard have revealed the original Roman street level, visible through a glass floor.

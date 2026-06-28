@@ -1,0 +1,200 @@
+{
+  "round": 2762,
+  "timestamp": "2026-06-13T22:05:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_score": 7.4999,
+      "prior_variance": 0.23101,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Jost Van Dyke",
+      "path": "northamerica/britishvirginislands/jostvandyke",
+      "prior_score": 5.7605,
+      "prior_variance": 0.213376,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_score": 4.4621,
+      "prior_variance": 0.250377,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.4436,
+      "prior_variance": 0.145677,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.9233,
+      "prior_variance": 0.143779,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -2.0894,
+      "prior_variance": 0.206611,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -0.8275,
+      "prior_variance": 0.144793,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -2.5431,
+      "prior_variance": 0.144886,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.3687,
+      "prior_variance": 0.167027,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.9137,
+      "prior_variance": 0.142385,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -2.4459,
+      "prior_variance": 0.194898,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -2.7731,
+      "prior_variance": 0.187693,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -1.0724,
+      "prior_variance": 0.152841,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -2.1441,
+      "prior_variance": 0.160443,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -2.7746,
+      "prior_variance": 0.252357,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -2.1469,
+      "prior_variance": 0.185173,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -3.4053,
+      "prior_variance": 0.169385,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": -4.0136,
+      "prior_variance": 0.152069,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -1.8596,
+      "prior_variance": 0.147303,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -2.3161,
+      "prior_variance": 0.159453,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.2976,
+      "prior_variance": 0.159259,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -6.383,
+      "prior_variance": 0.225576,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -7.7966,
+      "prior_variance": 0.223715,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Baoding",
+      "path": "asia/china/hebei/baoding",
+      "prior_score": -3.3965,
+      "prior_variance": 0.151413,
+      "prior_n": 9
+    }
+  ]
+}

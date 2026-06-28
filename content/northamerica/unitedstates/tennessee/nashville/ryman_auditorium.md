@@ -18,6 +18,7 @@ tags:
 - landmark
 title: Ryman Auditorium
 type: poi
+score: 9.8
 ---
 
 The Mother Church of Country Music, as it is known, is the most storied stage in American music. Built as a gospel tabernacle in 1892, it served as the home of the Grand Ole Opry from 1943 to 1974, and nearly every significant country artist of the 20th century has performed here. The curved pews are original, the stained glass windows intact, and the acoustics as good as ever.

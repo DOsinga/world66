@@ -10,6 +10,7 @@ latitude: 50.8211
 longitude: -0.1428
 story: >
   Brighton's Jewish community has been here since the late 18th century, when it arrived with the fashionable crowds following the Prince Regent. The Middle Street Synagogue was built in 1875 and its Moorish architecture was deliberately chosen to signal the congregation's presence and permanence. The architect Thomas Lainson designed the building in the same year he was working on several of Brighton's Regency-revival terraces, which makes the Moorish interior feel like a deliberate statement of difference.
+score: 8.0
 ---
 
 The Middle Street Synagogue is one of the finest Victorian synagogues in England, with an interior that mixes Moorish arches, gilded decoration, and stained glass into something between a medieval palace and a Regency fantasia. It is still an active Orthodox congregation and holds regular services.

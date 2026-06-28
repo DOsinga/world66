@@ -8,6 +8,7 @@ tags:
 - beach
 title: Punta Mita
 type: poi
+score: 5.5
 ---
 
 The narrow peninsula at the northern tip of Banderas Bay, about 45 minutes north of central Puerto Vallarta. The point itself was a humble fishing village called Corral del Risco until the 1990s, when most of the surrounding land was sold off to luxury resorts (the Four Seasons, the St Regis) and gated golf communities. The original village still exists at the eastern edge, with palapa restaurants serving the fishermen's catch.

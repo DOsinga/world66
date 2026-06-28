@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%2BDie_Kathedrale_Metropol
 latitude: 43.3186
 loc_type: city
 longitude: 11.3306
-score: 0.75
+score: 9.44
+snippet: Medieval Tuscan city of brick palaces, contrade rivalries, and the shell-shaped
+  Piazza del Campo.
 title: Siena
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 44.1068
 longitude: 9.8245
 snippet: "Redeveloped yacht harbour and waterfront promenade"
+score: 5.4
 ---
 
 Porto Mirabello is La Spezia's modern marina and waterfront area, carved out of the naval base edge and developed in the 2000s. It's not historic and it won't win any architecture prizes, but it's a pleasant place to walk along the water in the evening, with the Gulf of La Spezia opening up ahead and the forested hills of the Cinque Terre visible in the distance to the right.

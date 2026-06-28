@@ -9,6 +9,7 @@ tags:
   - beaches
   - sight
   - beach
+score: 6.0
 ---
 
 A few miles north of central Seaside, Sunset Beach is a state recreation site with beach access but none of the commercial infrastructure of the main town. The sand here is the same wide flat beach that defines this part of the Oregon coast, but without the Prom, the arcades, or the crowd. The access road runs through the Del Rey Beach area, and there is a small parking area and a path through the dunes to the water.

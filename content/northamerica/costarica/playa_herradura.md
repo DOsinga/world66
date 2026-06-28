@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
+image: playa_herradura.jpg
+image_attribution: J. Brett Swindell (Bswindell)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Los-suenos-costa-rica-sunset.jpg
 latitude: 9.6358
 loc_type: city
 longitude: -84.6531
-score: 0.55
+score: 7.73
+snippet: Pacific dark-sand beach north of Jacó, with a protected bay and Los Sueños
+  marina
 title: Playa Herradura
 type: location
-image: playa_herradura.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Los-suenos-costa-rica-sunset.jpg
-image_license: CC BY-SA 3.0
-image_attribution: J. Brett Swindell (Bswindell)
 ---
 
 Playa Herradura is a dark-sand beach 6 km north of Jacó on the Pacific coast. The bay is calm and well-protected, making it better for swimming than many nearby beaches. The [Los Sueños marina](/northamerica/costarica/playa_herradura/los_suenos_marina) development dominates the north end of the bay; the marina is the largest on Costa Rica's Pacific coast and a major hub for sport fishing charters.

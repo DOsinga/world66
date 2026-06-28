@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beaune_-_H%C3%B4tel-Dieu_-
 latitude: 47.023906
 loc_type: city
 longitude: 4.838043
-score: 0.65
+score: 9.0
+snippet: Burgundy wine town inside medieval ramparts, surrounded by Côte de Beaune
+  vineyards and anchored by the Hospices
 title: Beaune
 type: location
 ---

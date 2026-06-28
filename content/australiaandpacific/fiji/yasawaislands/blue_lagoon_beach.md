@@ -14,6 +14,7 @@ story: >
   other Pacific candidates because the colour gradations in the water — from pale
   turquoise to deep blue — were more photogenic than anywhere else they scouted.
   The beach looked largely the same when the film was made as it does today.
+score: 8.9
 ---
 
 Blue Lagoon Beach on Nanuya Lailai Island is the Yasawas' most famous stretch of sand, and it earns the reputation. The lagoon is sheltered by two headlands of volcanic rock and a reef that runs across the mouth, producing water that graduates from pale green over the sand to a deep turquoise further out. The beach itself is white, fine, and backed by palm trees in the way beaches in travel brochures are supposed to be but rarely are.

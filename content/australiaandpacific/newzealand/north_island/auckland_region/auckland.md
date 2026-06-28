@@ -9,12 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Auckland_skyline_-_May_202
 latitude: -36.8521
 loc_type: city
 longitude: 174.7632
-score: 0.66
+score: 8.91
+snippet: New Zealand harbour city spread across volcanic cones between the Waitemata
+  and Manukau harbours.
 sources:
-  - https://en.wikipedia.org/wiki/Auckland
-  - https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)
-  - https://en.wikipedia.org/wiki/Auckland_Art_Gallery
-  - https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum
+- https://en.wikipedia.org/wiki/Auckland
+- https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)
+- https://en.wikipedia.org/wiki/Auckland_Art_Gallery
+- https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum
 title: Auckland
 type: location
 ---

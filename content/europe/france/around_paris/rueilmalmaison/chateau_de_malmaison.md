@@ -10,6 +10,7 @@ tags:
 snippet: 'Napoleon and Joséphine''s country retreat, now a museum of First Empire life with original furnishings and a famous rose garden.'
 story: >
   Joséphine was so obsessed with her rose garden that she commissioned the painter Pierre-Joseph Redouté to document every variety. His watercolours, published as Les Roses, became one of the most celebrated botanical works ever produced. The garden she built from nothing eventually held over 250 rose varieties — many of them new to Europe, smuggled through the British naval blockade during the Napoleonic Wars with the tacit cooperation of both sides.
+score: 9.1
 ---
 
 The main event in Rueil-Malmaison and one of the best-preserved Napoleonic sites in France. Bonaparte and Joséphine bought the estate in 1799 while he was away on the Egyptian campaign; after the coup of 18 Brumaire, it effectively served as the seat of government alongside the Tuileries. The house is modest by palace standards — Napoleon preferred it precisely because it felt more like a country home than a state building.

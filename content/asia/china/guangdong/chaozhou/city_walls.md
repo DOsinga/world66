@@ -14,6 +14,7 @@ story: >
   the wall were maintained by different guilds of merchants — the silk merchants' section, the
   salt merchants' section — each responsible for upkeep in exchange for use rights. Some of the
   guild inscriptions are still visible in the stonework.
+score: 8.2
 ---
 
 The remaining 2.6-kilometre stretch of Chaozhou's city walls dates to the Song dynasty and forms one of the best-preserved examples of medieval urban fortification in southern China. The walk along the top of the walls, above the old city, gives good views over the rooftops of the historic quarter and down to the Han River. Several original gate towers and watch towers survive along the circuit.

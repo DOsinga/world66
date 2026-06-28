@@ -1,0 +1,200 @@
+{
+  "round": 4201,
+  "timestamp": "2026-06-13T23:53:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 7.6306,
+      "prior_variance": 0.14032,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 8.8959,
+      "prior_variance": 0.224545,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 8.4469,
+      "prior_variance": 0.184722,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 8.2452,
+      "prior_variance": 0.167106,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 5.4203,
+      "prior_variance": 0.121274,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_score": 3.6677,
+      "prior_variance": 0.097297,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.605,
+      "prior_variance": 0.093095,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.3398,
+      "prior_variance": 0.100116,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 3.0081,
+      "prior_variance": 0.117409,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 1.0775,
+      "prior_variance": 0.100855,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -2.0504,
+      "prior_variance": 0.094666,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.0971,
+      "prior_variance": 0.083605,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -2.7562,
+      "prior_variance": 0.100077,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -3.7373,
+      "prior_variance": 0.121918,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -2.4505,
+      "prior_variance": 0.102071,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.5895,
+      "prior_variance": 0.141087,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -2.5528,
+      "prior_variance": 0.104912,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -4.6117,
+      "prior_variance": 0.144623,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.264,
+      "prior_variance": 0.119567,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -1.8861,
+      "prior_variance": 0.092984,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -4.1001,
+      "prior_variance": 0.102677,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -4.6871,
+      "prior_variance": 0.1273,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Songyuan",
+      "path": "asia/china/jilin/songyuan",
+      "prior_score": -5.7702,
+      "prior_variance": 0.10947,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -8.6697,
+      "prior_variance": 0.246547,
+      "prior_n": 13
+    }
+  ]
+}

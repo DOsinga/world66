@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.5
 ---
 
 The Kshi-Kaindy valley combines waterfalls, juniper forest, and Bronze Age petroglyphs in a one- to three-day trek east of Zhabagly. The first day reaches the lower waterfalls through walnut and apple groves — these are wild ancestors of the cultivated apple, which evolved in this exact stretch of the Tien Shan.

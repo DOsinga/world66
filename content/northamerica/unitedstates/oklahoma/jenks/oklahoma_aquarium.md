@@ -9,6 +9,7 @@ longitude: -95.9572
 snippet: "One of the south-central US's best aquariums, anchored by a 500,000-gallon bull shark tank"
 story: >
   The aquarium's bull shark exhibit is the most unusual thing about it: bull sharks are notoriously difficult to keep in captivity because they tolerate both salt and fresh water and tend to be aggressive. The Oklahoma Aquarium has one of the largest collections of bull sharks on display in the United States — an unlikely distinction for a landlocked state that sits roughly a thousand miles from the nearest ocean.
+score: 8.3
 ---
 
 The Oklahoma Aquarium opened in 2003 and has become the main reason visitors make the detour to Jenks. The centerpiece is a 500,000-gallon shark tunnel, where you walk through a curved acrylic tube while bull sharks, sandbar sharks, and smaller reef fish circle overhead. It's a well-executed exhibit, and the scale is genuinely impressive for a regional aquarium.

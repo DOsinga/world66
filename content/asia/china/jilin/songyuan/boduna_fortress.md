@@ -9,6 +9,7 @@ latitude: 45.1419
 longitude: 124.8253
 story: >
   The Qing imperial court established Boduna Fortress in 1693 as a military post to control the northern frontier and manage relations with the Mongolian and Manchu tribes of the region. By the early nineteenth century the settlement around it had grown into one of the most important trading towns in northern Manchuria, with a population estimated at thirty thousand — larger than many European cities of the same period. Its present obscurity makes that earlier prominence easy to forget.
+score: 7.0
 ---
 
 Boduna Fortress was constructed in 1693 as a Qing-dynasty military installation on the northern frontier of Manchuria, and it served for two centuries as an important administrative and commercial centre in what is now northern Jilin Province. The original fortress site and some remnants of the historical settlement are preserved in what is now the Qian Gorlos area near Songyuan.

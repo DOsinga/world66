@@ -13,6 +13,7 @@ story: >
   explicitly recognising that the history of industrial labour deserved the same preservation
   status as battlefields and wilderness areas. It was a controversial decision at the time —
   and still a bold one.
+score: 9.1
 ---
 
 Lowell National Historical Park encompasses the historic mill district at the heart of the city — a network of five canals, dozens of 19th-century mill buildings, worker housing, and commercial blocks that together constitute the most intact example of early American industrial urbanism in the country. The park is not a single building or site but an entire district you walk through.

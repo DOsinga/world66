@@ -8,6 +8,7 @@ tags:
 - sights
 title: San Andrés Church
 type: poi
+score: 6.7
 ---
 
 One of Murcia's oldest parish churches, San Andrés was built in baroque style between 1630 and 1732 on a site of worship that dates back to the Reconquista. Its interior holds sculptural works by Francisco Salzillo, the 18th-century Murcian master whose polychrome figures are among the finest in Spanish religious art. The church also enshrines the image of the Virgen de la Arrixaca, a devotional figure associated with the city since the 12th century and one of the most venerated in the region.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.1104
 longitude: 17.03
 address: "Św. Mikołaja, Wrocław"
+score: 6.8
 ---
 
 Two of the most-photographed buildings in Wrocław: a pair of tall narrow medieval houses — one bourgeois, one a former church gatehouse — joined at the top by a tiny stone arch over the lane. The houses were originally part of the cemetery wall of St Elizabeth's Church and the arch led into the burial ground.

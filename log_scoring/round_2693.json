@@ -1,0 +1,200 @@
+{
+  "round": 2693,
+  "timestamp": "2026-06-13T22:00:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 11.191,
+      "prior_variance": 0.480771,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 8.004,
+      "prior_variance": 0.234047,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 8.5538,
+      "prior_variance": 0.290332,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 6.023,
+      "prior_variance": 0.176625,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_score": 4.9897,
+      "prior_variance": 0.161898,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_score": 7.1094,
+      "prior_variance": 0.22344,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 5.0056,
+      "prior_variance": 0.170614,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 4.6058,
+      "prior_variance": 0.17465,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 1.7834,
+      "prior_variance": 0.21223,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 3.256,
+      "prior_variance": 0.176838,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 4.3309,
+      "prior_variance": 0.200173,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Suwon",
+      "path": "asia/southkorea/suwon",
+      "prior_score": 2.117,
+      "prior_variance": 0.146113,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 2.6192,
+      "prior_variance": 0.15635,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 1.8197,
+      "prior_variance": 0.149993,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 1.9875,
+      "prior_variance": 0.163722,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.4299,
+      "prior_variance": 0.150715,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 1.4463,
+      "prior_variance": 0.160599,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 2.7169,
+      "prior_variance": 0.151881,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 1.9387,
+      "prior_variance": 0.185686,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.6321,
+      "prior_variance": 0.160002,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": 1.05,
+      "prior_variance": 0.1475,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 1.2932,
+      "prior_variance": 0.169072,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.8554,
+      "prior_variance": 0.168499,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -1.8431,
+      "prior_variance": 0.170784,
+      "prior_n": 10
+    }
+  ]
+}

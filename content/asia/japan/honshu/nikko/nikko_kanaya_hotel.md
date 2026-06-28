@@ -6,6 +6,7 @@ tags:
 - sight
 title: Nikkō Kanaya Hotel
 type: poi
+score: 7.1
 ---
 
 The Nikkō Kanaya Hotel, opened in 1873, is one of Japan's oldest Western-style hotels and a surviving piece of Meiji-era history. Built to accommodate foreign dignitaries visiting the shrine complex — this was the era when Japan was opening rapidly to the West — it hosted Queen Elizabeth II, Albert Einstein, and a long list of heads of state over its 150 years. The dining room, with original wooden panelling and period furniture, still serves Western-style meals.

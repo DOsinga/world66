@@ -1,8 +1,14 @@
 ---
 address: Kalaja Lekursit
 email: kalajalekursit@gmail.com
+latitude: 39.8636
+longitude: 20.0222
+score: 2.7
+sources:
+- https://en.wikipedia.org/wiki/L%C3%ABkur%C3%ABsi_Castle
 tags:
 - eating_out
+- restaurant
 title: Lekursi Castle
 type: poi
 ---

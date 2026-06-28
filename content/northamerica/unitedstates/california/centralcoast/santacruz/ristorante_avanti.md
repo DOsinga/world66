@@ -12,6 +12,7 @@ tags:
 title: Ristorante Avanti
 type: poi
 url: www.ristoranteavanti.com
+score: 5.5
 ---
 
 Farm-fresh California-Italian cooking on Mission Street. The menu leans heavily on local produce and changes with the seasons. The best seat is at the wine bar, where they pour distinctive wine flights. A good choice for a proper dinner out.

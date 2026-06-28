@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3089
 longitude: 75.5780
+score: 5.9
 ---
 
 The main gurudwara of the Model Town residential neighbourhood, a quiet white-marble building set in a small park. The congregation is large enough that the kitchen serves langar (free community meal) every day, and the building has been recently extended. It is not a major pilgrimage site but it is one of the most peaceful spots in central Jalandhar and a good place to experience an ordinary working gurudwara — far quieter than the Golden Temple or the major historical sites in Anandpur Sahib.

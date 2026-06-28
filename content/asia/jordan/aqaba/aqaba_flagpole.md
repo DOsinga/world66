@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 4.9
 ---
 
 The Aqaba Flagpole, immediately next to the castle, rises 132 metres above the harbour, with a flag measuring 60 by 30 metres at its top. The flag is a deliberate recreation of the banner carried by the Arab Revolt forces that captured Aqaba from the Ottomans in 1917 — green, white, black, and red, the same colour scheme that became the basis for the modern Jordanian flag.

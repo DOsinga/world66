@@ -6,6 +6,7 @@ longitude: -66.9080
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 Jesús Soto's *Esfera Caracas* — a giant orange sphere built of suspended steel rods that, from certain angles, shimmers as if floating — is one of the most beloved public sculptures in the city. Soto, born in Ciudad Bolívar and one of the founders of the international kinetic art movement, made several spheres over his career; this one, installed in 1998 on a traffic island of the Francisco Fajardo motorway, is the largest and the most photographed.

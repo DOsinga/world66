@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E5%BC%A0%E8%B0%B7%E8%8B%B
 latitude: 29.0063
 loc_type: feature
 longitude: 113.4815
+score: 7.52
+snippet: Hunan clan village of Ming and Qing courtyards, covered lanes, and more than
+  1,700 rooms.
 sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Zhangguying Village

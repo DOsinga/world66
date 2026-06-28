@@ -11,6 +11,7 @@ story: >
   The temple was built so that on the summer and winter solstices, the first rays of the rising sun pass through the successive doorways and fall directly on the image of Surya in the sanctuary. On the equinoxes, the sun illuminates the entire inner chamber. The Solanki architects who designed it in 1026 AD had no instruments beyond observation, and they got it exactly right. The last prayers at this temple were probably offered in the thirteenth century, after the Solanki dynasty fell — but the astronomical precision remains, undisturbed.
 sources:
   - https://en.wikipedia.org/wiki/Sun_Temple,_Modhera
+score: 9.5
 ---
 
 The Sun Temple at Modhera is one of the great monuments of medieval India, built in 1026 AD by the Solanki king Bhimdev I at the height of the dynasty's power and ambition. It is dedicated to Surya, the solar deity, and every element of its design reflects a deep understanding of solar movement. The temple faces east so that the rising sun enters the inner sanctum; on the solstices and equinoxes the alignment is exact.

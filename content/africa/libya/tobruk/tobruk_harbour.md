@@ -7,6 +7,7 @@ tags:
   - harbour
 latitude: 32.0790
 longitude: 23.9690
+score: 6.2
 ---
 
 Tobruk's harbour is the reason the city mattered. It is deep, naturally sheltered, and hard to neutralise completely, which made it strategically vital during the Second World War and useful long before that.

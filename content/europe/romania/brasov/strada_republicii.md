@@ -7,6 +7,7 @@ snippet: Pedestrianised main street where the evening passeggiata happens
 tags:
 - things_to_do
 - sight
+score: 7.0
 ---
 
 Strada Republicii runs north from Piata Sfatului — pedestrianised, paved in stone, lined with 19th-century facades in pinks, yellows and greens. By day it is shops and pavement cafes; by evening it fills with families, students and visitors strolling the length and back. It is one of the more enjoyable Romanian streets to people-watch.

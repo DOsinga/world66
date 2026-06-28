@@ -15,6 +15,7 @@ story: >
   for much of the 20th century. After it closed, rather than demolishing it,
   the city converted it into a museum — a decision that has turned one of
   Quito's most notorious buildings into one of its most compelling.
+score: 7.9
 ---
 
 The García Moreno Prison, a massive stone fortress built by the 19th-century president of the same name just south of the Historic Centre, operated as a prison from 1875 until 2014. After its closure, it was converted into a museum that offers guided tours through the cells, corridors, and courtyards of what was one of the most overcrowded prisons in South America.

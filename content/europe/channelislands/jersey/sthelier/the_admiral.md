@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 49.1845
 longitude: -2.1065
+score: 5.8
 ---
 
 The Admiral is one of the few proper traditional pubs in the town centre — low beams, bare floorboards, and a bar that stocks a reasonable selection of local ales alongside the standard lagers. It is a reliably unpretentious place for a pint and simple pub food, the kind of bar where you end up staying longer than planned because the atmosphere is genuinely comfortable rather than manufactured.

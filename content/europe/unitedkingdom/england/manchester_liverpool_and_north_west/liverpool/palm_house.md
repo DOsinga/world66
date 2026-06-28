@@ -9,6 +9,7 @@ tags:
 - sefton_park
 title: Sefton Park Palm House
 type: poi
+score: 7.4
 ---
 
 A three-tier octagonal glasshouse, 17 metres high, gifted to the city in 1896 by Henry Yates Thompson and restored to full glory in 2001 after decades of dereliction. Inside is a small collection of palms and tropical plants gathered round a central fountain; the space is also a working concert venue and event hall.

@@ -1,0 +1,200 @@
+{
+  "round": 3097,
+  "timestamp": "2026-06-13T22:28:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -0.7342,
+      "prior_variance": 0.133712,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.214,
+      "prior_variance": 0.130874,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -2.3444,
+      "prior_variance": 0.128018,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": -0.148,
+      "prior_variance": 0.124293,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.17,
+      "prior_variance": 0.155097,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -2.3439,
+      "prior_variance": 0.13669,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.7751,
+      "prior_variance": 0.183204,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -2.2468,
+      "prior_variance": 0.14036,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/south_east/maidstone",
+      "prior_score": -3.1826,
+      "prior_variance": 0.135246,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -1.1126,
+      "prior_variance": 0.130475,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -2.5175,
+      "prior_variance": 0.135971,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.2399,
+      "prior_variance": 0.129778,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -2.1962,
+      "prior_variance": 0.123545,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -1.8807,
+      "prior_variance": 0.132867,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -2.7902,
+      "prior_variance": 0.126538,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -4.2153,
+      "prior_variance": 0.164818,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -1.9202,
+      "prior_variance": 0.143072,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -3.0689,
+      "prior_variance": 0.175389,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -4.9435,
+      "prior_variance": 0.177916,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -5.1007,
+      "prior_variance": 0.160778,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -5.8725,
+      "prior_variance": 0.163139,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.2958,
+      "prior_variance": 0.16504,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -8.5908,
+      "prior_variance": 0.282161,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.6597,
+      "prior_variance": 0.216744,
+      "prior_n": 10
+    }
+  ]
+}

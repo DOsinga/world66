@@ -14,6 +14,7 @@ tags:
   - monastery
 title: Monastery of the Holy Trinity
 type: poi
+score: 8.8
 ---
 
 The most dramatically isolated monastery in Meteora sits atop a tall, thin pinnacle that stands apart from the main cluster of rocks. To reach it you must descend a long staircase into the ravine between the rocks, cross a small bridge, and then climb 140 steep steps cut directly into the cliff face. The effort is significant, but the views from the top — across the Thessaly plain and back toward the other monasteries — are unmatched.

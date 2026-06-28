@@ -8,6 +8,8 @@ latitude: 60.273755
 loc_type: region
 longitude: -138.901269
 score: 0.54
+snippet: Vast northwest Canadian territory of mountains, boreal forest, Klondike history,
+  and near-endless summer daylight.
 title: The Yukon Territory
 type: location
 ---

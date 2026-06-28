@@ -1,199 +1,199 @@
 {
   "round": 558,
-  "timestamp": "2026-04-12T10:37:23",
+  "timestamp": "2026-06-13T19:42:08",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Dublin",
-      "path": "europe/ireland/dublin",
-      "prior_mu": 22.8917,
-      "prior_sigma": 5.9453,
-      "prior_n": 1
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.8523,
+      "prior_variance": 0.885454,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Ring of Kerry",
-      "path": "europe/ireland/ringofkerry",
-      "prior_mu": 29.1092,
-      "prior_sigma": 6.9935,
-      "prior_n": 1
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 5.9059,
+      "prior_variance": 1.039638,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Kilkenny",
-      "path": "europe/ireland/kilkenny",
-      "prior_mu": 23.943,
-      "prior_sigma": 4.4235,
-      "prior_n": 3
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 2.8692,
+      "prior_variance": 0.865421,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Inis M\u00f3r",
-      "path": "europe/ireland/aranislands/inismor",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 3.4572,
+      "prior_variance": 2.077645,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Aran islands",
-      "path": "europe/ireland/aranislands",
-      "prior_mu": 22.9499,
-      "prior_sigma": 5.7275,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 0.8168,
+      "prior_variance": 1.766879,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cashel",
-      "path": "europe/ireland/cashel",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": 1.7242,
+      "prior_variance": 0.857522,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Cork",
-      "path": "europe/ireland/cork",
-      "prior_mu": 22.3351,
-      "prior_sigma": 4.838,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 3.7803,
+      "prior_variance": 0.751691,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Lough Derg",
-      "path": "europe/ireland/clare/lough_derg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 9,
-      "title": "Clare",
-      "path": "europe/ireland/clare",
-      "prior_mu": 23.055,
-      "prior_sigma": 4.7172,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 2.1367,
+      "prior_variance": 0.855454,
       "prior_n": 2
     },
     {
+      "rank": 9,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 2.1141,
+      "prior_variance": 1.571648,
+      "prior_n": 1
+    },
+    {
       "rank": 10,
-      "title": "Avoca",
-      "path": "europe/ireland/avoca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_score": 4.2706,
+      "prior_variance": 0.875914,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Bray",
-      "path": "europe/ireland/bray",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 0.5512,
+      "prior_variance": 1.438269,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Waterford",
-      "path": "europe/ireland/waterford",
-      "prior_mu": 22.2418,
-      "prior_sigma": 5.749,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_score": 2.9266,
+      "prior_variance": 1.643876,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Sligo",
-      "path": "europe/ireland/sligo",
-      "prior_mu": 22.613,
-      "prior_sigma": 5.7075,
-      "prior_n": 1
-    },
-    {
-      "rank": 14,
-      "title": "Bundoran",
-      "path": "europe/ireland/bundoran",
-      "prior_mu": 21.7727,
-      "prior_sigma": 4.7173,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_score": 2.5118,
+      "prior_variance": 1.057168,
       "prior_n": 2
     },
     {
+      "rank": 14,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": 1.081,
+      "prior_variance": 1.976649,
+      "prior_n": 1
+    },
+    {
       "rank": 15,
-      "title": "Rosses Point",
-      "path": "europe/ireland/sligo/rossespoint",
-      "prior_mu": 21.5357,
-      "prior_sigma": 3.7623,
-      "prior_n": 3
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 1.2586,
+      "prior_variance": 0.725297,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Athlone",
-      "path": "europe/ireland/athlone",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 1.3701,
+      "prior_variance": 1.38011,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Skerries",
-      "path": "europe/ireland/dublin/skerries",
-      "prior_mu": 21.8671,
-      "prior_sigma": 4.3935,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 1.612,
+      "prior_variance": 0.859216,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Monaghan",
-      "path": "europe/ireland/monaghan",
-      "prior_mu": 21.788,
-      "prior_sigma": 4.555,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": 2.3801,
+      "prior_variance": 1.014126,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Cavan",
-      "path": "europe/ireland/cavan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 3.1697,
+      "prior_variance": 1.561877,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Newbridge",
-      "path": "europe/ireland/newbridge",
-      "prior_mu": 21.5878,
-      "prior_sigma": 5.427,
-      "prior_n": 1
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_park",
+      "prior_score": 0.6344,
+      "prior_variance": 0.980088,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Carrigaline",
-      "path": "europe/ireland/cork/carrigaline",
-      "prior_mu": 22.3967,
-      "prior_sigma": 5.4907,
-      "prior_n": 1
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": 1.7346,
+      "prior_variance": 1.297126,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Mahon",
-      "path": "europe/ireland/cork/mahon",
-      "prior_mu": 22.4607,
-      "prior_sigma": 5.5363,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": 2.5377,
+      "prior_variance": 1.929626,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Portlaoise",
-      "path": "europe/ireland/carlow/portlaoise",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": 0.8031,
+      "prior_variance": 0.791875,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Arva",
-      "path": "europe/ireland/arva",
-      "prior_mu": 22.2539,
-      "prior_sigma": 5.6486,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.2324,
+      "prior_variance": 1.259687,
       "prior_n": 1
     }
   ]

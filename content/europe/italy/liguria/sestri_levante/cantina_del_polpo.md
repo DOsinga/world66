@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 44.2715
 longitude: 9.3959
+score: 6.7
 ---
 
 Cantina del Polpo, on Piazza Cavour in the old town, has been feeding people here since 1989. The kitchen specialises in the obvious: polpo (octopus), squid, and cuttlefish prepared simply and well, with local Ligurian wines. The menu follows the season and the catch, so it changes regularly. No credit cards, and booking ahead for dinner is a good idea in summer.

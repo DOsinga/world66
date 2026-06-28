@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.1495
 longitude: 120.6453
+score: 6.1
 ---
 
 Carton King is a paper-themed restaurant and attraction park in the Daken district, where most of the furniture, lamps, decorative animals, and even some of the serving dishes are made from corrugated cardboard. It started in 2008 as a single restaurant and has expanded into a small theme park with cardboard installations, a ride, and shops.

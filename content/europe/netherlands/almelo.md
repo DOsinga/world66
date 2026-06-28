@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/56985677@N00/4558920262
 latitude: 52.356358
 loc_type: city
 longitude: 6.663622
-score: 0.37
+score: 6.32
+snippet: Low-key Twente textile city with estate lanes, canals, and a compact eastern
+  Dutch centre
 sources:
 - https://en.wikipedia.org/wiki/Almelo
 - https://en.wikivoyage.org/wiki/Almelo

@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Factory_near_Tulcea,_Roman
 latitude: 45.1775
 loc_type: city
 longitude: 28.8016
-score: 0.48
+score: 7.41
 title: Tulcea
 type: location
+snippet: Danube port city and practical gateway to the pelicans, reed islands, and
+  villages of the delta.
 ---
 
 Tulcea is the gateway to the Danube Delta, Europe's largest wetland and a UNESCO Biosphere Reserve. The city itself is functional rather than beautiful — a mid-sized Romanian port on the right bank of the Danube — but almost everyone who visits the delta passes through here.

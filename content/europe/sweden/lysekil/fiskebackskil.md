@@ -8,6 +8,7 @@ tags:
 - village
 title: Fiskebäckskil
 type: poi
+score: 8.2
 ---
 
 Fiskebäckskil is the pretty white-and-red wooden fishing village on the south shore of the Gullmar fjord, directly across the water from Lysekil. Carl Wilhelmson, one of the country's most loved coast painters, lived here at the end of the nineteenth century — his house is now a small museum and gallery, and many of the scenes he painted are still recognisable in the lanes around the harbour.

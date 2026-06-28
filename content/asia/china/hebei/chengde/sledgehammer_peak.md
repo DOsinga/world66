@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Sledgehammer Peak
 type: poi
+score: 7.2
 ---
 
 East of the city centre, a narrow column of rock some 59 metres tall rises from a hillside in the unmistakable shape of an inverted sledgehammer (磬锤峰). It is an odd and memorable sight. A cable car runs to the upper area for views back over Chengde and the Mountain Resort — on a clear day the layout of the imperial park makes obvious sense from above.

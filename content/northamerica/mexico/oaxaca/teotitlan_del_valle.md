@@ -9,6 +9,7 @@ tags:
 latitude: 17.0383
 longitude: -96.5233
 snippet: Zapotec weaving village, the source of Oaxaca's finest wool rugs
+score: 7.6
 ---
 
 Teotitlán del Valle, about 30 km east of Oaxaca on the road to Mitla, is a Zapotec village that has been producing textiles for at least 2,000 years. Today it is Oaxaca's weaving capital: virtually every family here makes and sells wool rugs, and the quality is extraordinary compared to the mass-produced versions sold in city markets. The finest pieces use natural dyes — cochineal for reds, indigo for blues, huizache bark for yellows — and can take weeks to complete a single rug.

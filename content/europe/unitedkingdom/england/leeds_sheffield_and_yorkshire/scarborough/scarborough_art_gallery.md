@@ -8,6 +8,7 @@ tags:
   - museum
   - art
 snippet: Yorkshire coast landscapes and maritime paintings in an Italianate villa
+score: 6.8
 ---
 
 The Scarborough Art Gallery occupies a handsome Italianate villa on the Crescent, a short walk from the South Bay. The collection focuses on artists who painted the Yorkshire coast and the North Sea — landscapes, seascapes, and harbour scenes that document the area's light and character from the 18th century to the present.

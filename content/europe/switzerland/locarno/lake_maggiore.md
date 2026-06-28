@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.1530
 longitude: 8.8033
+score: 7.4
 ---
 
 Lake Maggiore stretches 65 kilometres from Locarno in the north to Arona in the south, with the Swiss-Italian border running across it roughly a third of the way down. From Locarno the lake opens southward in a broad panorama, with the Brissago Islands visible just offshore to the southwest. The lake promenade (Lungolago) runs along the town's southern edge, lined with palms and plane trees.

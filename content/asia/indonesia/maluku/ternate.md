@@ -5,7 +5,9 @@ done:
 latitude: 0.785204
 loc_type: city
 longitude: 127.383234
-score: 0.49
+score: 7.82
+snippet: Volcanic North Maluku island once central to the clove trade, beneath Gunung
+  Gamalama.
 title: Ternate
 type: location
 ---

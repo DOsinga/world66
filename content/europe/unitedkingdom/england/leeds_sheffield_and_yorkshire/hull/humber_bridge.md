@@ -15,6 +15,7 @@ story: >
   world's top 15 by span length. The bridge was financed by tolls and a
   controversial loan that took until 2012 to clear. Tolls were halved that
   year as a result.
+score: 7.8
 ---
 
 The Humber Bridge crosses the estuary just outside the city, linking East Yorkshire to North Lincolnshire. It is breathtaking up close — the towers rise 155 metres above water level — and the long approach roads give it an almost airport-like sense of scale. The bridge carries a footway and cycle path on both sides; walking across takes about 25 minutes and is one of the best things to do near Hull on a clear day.

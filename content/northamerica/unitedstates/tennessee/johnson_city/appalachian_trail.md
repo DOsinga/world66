@@ -8,6 +8,7 @@ latitude: 36.3168
 longitude: -81.4833
 story: >
   The section of the Appalachian Trail nearest Johnson City passes through Roan Mountain, which in June becomes one of the most spectacular sights on the entire 2,190-mile trail: the Catawba rhododendron blooms in massive purple drifts across the high balds, a phenomenon that draws hikers from across the eastern United States.
+score: 8.0
 ---
 
 The Appalachian Trail passes through the mountains about an hour from Johnson City, giving the city easy access to one of America's great long-distance hiking routes. The most popular local access points are at **Roan Mountain State Park** and the **Carvers Gap** trailhead on the Tennessee–North Carolina border, where the trail crosses some of the most open and dramatic high-country terrain in the southern Appalachians.

@@ -8,6 +8,7 @@ tags:
 snippet: Contemporary art museum punching above its city's weight
 latitude: 52.4186
 longitude: 10.7854
+score: 7.6
 ---
 
 The Kunstmuseum Wolfsburg opened in 1994 and has become one of the more interesting contemporary art venues in northern Germany. The building is a tall glass-and-stone hall with a 16-metre-high central gallery space that suits very large-scale installations — Rebecca Horn, James Turrell, Olafur Eliasson have all worked here.

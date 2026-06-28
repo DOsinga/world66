@@ -5,6 +5,7 @@ latitude: 24.17608
 longitude: 55.73849
 snippet: "One of the finest zoos in the Middle East, with a strong focus on Arabian and African wildlife conservation."
 tags: [things_to_do, nature, sight]
+score: 7.6
 ---
 
 Al Ain Zoo is substantially better than its regional competitors, a fact that becomes clear within the first ten minutes. Founded in 1968, it has had decades to develop its grounds and refine its approach, and it shows: the enclosures are large, the landscaping is mature, and the overall atmosphere is closer to a wildlife park than a traditional zoo. It covers around 900 hectares, making it one of the largest zoos in the world by area.

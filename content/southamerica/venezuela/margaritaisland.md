@@ -11,6 +11,8 @@ latitude: 11.0206
 loc_type: region
 longitude: -63.9074
 score: 0.54
+snippet: Mountainous Caribbean island off Venezuela, known for beaches, kitesurfing,
+  and colonial Pampatar.
 title: Margarita Island
 type: location
 ---

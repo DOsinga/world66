@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -22.957246
 longitude: -43.176255
+score: 3.4
 snippet: Major Botafogo shopping mall near Copacabana tunnel
 tags:
 - shopping
 - shop
+- botafogo
 title: Rio Sul
 type: poi
 ---

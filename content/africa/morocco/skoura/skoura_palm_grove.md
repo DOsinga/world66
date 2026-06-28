@@ -12,6 +12,7 @@ story: >
   receives almost no rainfall.
 sources:
   - https://en.wikipedia.org/wiki/Skoura
+score: 8.5
 ---
 
 The palm grove that surrounds Skoura covers several thousand hectares and contains an estimated 300,000 palm trees, along with olive groves, rose gardens (the Draa Valley roses are harvested for rosewater and essential oils), pomegranates, and small kitchen gardens. It is threaded with a network of ancient irrigation channels fed by the Dades River, and the paths between the trees, the walls, and the channels form a maze that rewards unhurried exploration.

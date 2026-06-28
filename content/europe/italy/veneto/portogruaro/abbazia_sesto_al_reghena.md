@@ -9,6 +9,7 @@ latitude: 45.8483
 longitude: 12.8158
 sources:
   - https://en.wikipedia.org/wiki/Abbey_of_Santa_Maria_in_Sylvis
+score: 8.6
 ---
 
 At Sesto al Reghena, eight kilometres north of Portogruaro across the regional border in Friuli, stands one of the most important Benedictine abbey complexes in northeastern Italy. Founded in the eighth century in what was then dense forest (silvis = woods), it became a centre of Carolingian learning before being largely destroyed by Hungarian raids in the tenth century and slowly rebuilt over the following centuries.

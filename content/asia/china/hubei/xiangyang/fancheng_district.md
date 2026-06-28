@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.0450
 longitude: 112.1360
+score: 6.2
 ---
 
 Fancheng sits on the north bank of the Han River, directly across from the historic walled city, and the two banks have always had different characters. Where Xiangyang-side has the ancient walls, the monuments, and the tourist infrastructure, Fancheng is more workaday: markets, street food, ordinary commerce, and the texture of a Chinese city that hasn't been tidied up for visitors. The distinction between them has persisted for more than two thousand years — Fancheng and Xiangyang were historically separate settlements that eventually merged into a single city.

@@ -8,6 +8,7 @@ tags:
   - beaches
 latitude: 40.1857
 longitude: 18.4798
+score: 7.7
 ---
 
 A few kilometres north of Otranto, Baia dei Turchi is the long stretch of pine-backed sand where, according to tradition, the Ottoman fleet under Gedik Ahmed Pasha came ashore on 28 July 1480, launching the siege that ended in the massacre of the 800 martyrs.

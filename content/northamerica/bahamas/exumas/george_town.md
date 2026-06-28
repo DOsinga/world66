@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: George Town
 type: poi
+score: 7.6
 ---
 
 The capital of the Exumas is a small, friendly town built around Elizabeth Harbour. Pink government buildings overlook the water, and St Andrew's Anglican Church — built around 1802 — sits on a hill above town. Behind the church, Lake Victoria is a saltwater lake once used for soaking sisal.

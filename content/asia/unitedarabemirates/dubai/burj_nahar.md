@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 25.27
 longitude: 55.31
+score: 5.2
 snippet: Restored 1870 watchtower in Deira's old quarter
 tags:
 - things_to_do
 - landmark
+- deira
 title: Burj Nahar
 type: poi
 ---

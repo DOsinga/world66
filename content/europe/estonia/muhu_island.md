@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dharma_Resort_-_Summer_Pho
 latitude: 58.595904
 loc_type: city
 longitude: 23.219646
-score: 0.52
+score: 7.64
+snippet: Quiet Estonian island between the mainland and Saaremaa, with windmills,
+  juniper meadows, and old limestone villages.
 title: Muhu Island
 type: location
 ---

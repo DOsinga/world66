@@ -7,6 +7,7 @@ tags:
   - nature
 title: Pigeon Point Beach
 type: poi
+score: 6.3
 ---
 
 Pigeon Point Beach is on the far side of the Middle Ground headland from Nelson's Dockyard, a stretch of calm Caribbean water with fine sand and views back toward the harbour entrance. The Middle Ground hiking trail from the dockyard reaches Pigeon Point in about 30 minutes along a scenic ridge path, combining a walk with a swim. The beach is less visited than Galleon Beach and quieter on most days.

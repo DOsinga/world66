@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - music
+score: 6.4
 ---
 
 Isaac Hayes — the Memphis-born composer, arranger, singer, and performer who recorded landmark albums for Stax Records and won an Academy Award for the "Shaft" theme — is honored in a museum in South Memphis not far from the original Stax site. The collection focuses on Hayes's recording career, his role in shaping the sound of Stax in the late 1960s, and his broader cultural significance. Personal artifacts, instruments, and memorabilia fill the exhibits, including the gold-plated car that became a symbol of his outsized persona.

@@ -7,6 +7,7 @@ tags:
 - historic_site
 title: Phimeanakas
 type: poi
+score: 7.6
 ---
 
 **Phimeanakas** ("Heavenly Palace") is a small Hindu pyramid temple inside the walled compound of the Angkor Thom Royal Palace. Built primarily in the late 10th and early 11th centuries, it predates the construction of Angkor Thom itself and was incorporated into the palace enclosure when Jayavarman VII rebuilt the capital. The pyramid has three tiers of sandstone and laterite, and the steep stairways on each of its four sides are still climbable.

@@ -4,16 +4,18 @@ done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
+image: novgorod.jpg
+image_attribution: A.Savin
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Novgorod_-_View_on_Yuriev_Monastery_from_Volkhov_02.jpg
 latitude: 58.521
 loc_type: city
 longitude: 31.2756
-score: 0.46
+score: 7.43
+snippet: Ancient Russian city on the Volkhov River, preserving medieval churches around
+  its fortified Detinets.
 title: Novgorod
 type: location
-image: novgorod.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Novgorod_-_View_on_Yuriev_Monastery_from_Volkhov_02.jpg
-image_license: CC BY-SA 3.0
-image_attribution: A.Savin
 ---
 
 Veliky Novgorod (Great Novgorod) is one of Russia's oldest and most historically significant cities, situated about 160 km southeast of St Petersburg on the Volkhov River. Unlike Moscow and St Petersburg, it was never destroyed by the Mongols, which means it preserves an extraordinary collection of medieval architecture: the Kremlin walls date from the 15th century, and the city is full of churches and monasteries stretching back to the 11th and 12th centuries.

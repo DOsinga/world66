@@ -2,7 +2,7 @@
 address: 103 Main Road, Green Point
 latitude: -33.9086
 longitude: 18.4116
-neighbourhood: Green Point
+score: 6.9
 scores:
   activities: 0.6123
   bars_and_cafes: 0.7678

@@ -8,6 +8,7 @@ latitude: 24.9200
 longitude: 110.5260
 story: >
   The view from the Huangbu Shoal riverbank outside Xingping was selected for the reverse of China's twenty-yuan note in 1999, chosen during a design competition to represent the country's most distinctive natural scenery. The specific angle — four karst towers reflected in still water, with a bamboo grove in the foreground — was identified precisely enough that photographers can stand on the marked spot and recreate the banknote composition. It is one of the few places in the world where you can hold up a banknote and match it to the landscape in front of you.
+score: 8.3
 ---
 
 The viewpoint outside Xingping that matches the back of the twenty-yuan renminbi note is a straightforward hike or bicycle ride from the town centre. The spot on the Huangbu Shoal stretch of riverbank gives you the karst peaks, the river bend, and — in the right conditions — the mirror reflection that made the composition famous. Early morning, before the tour boats come through and disturb the water surface, is the time to be here.

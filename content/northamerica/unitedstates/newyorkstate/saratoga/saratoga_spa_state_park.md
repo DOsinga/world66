@@ -8,6 +8,7 @@ latitude: 43.0500
 longitude: -73.7950
 story: >
   The mineral springs that made Saratoga famous are still flowing in the state park. At least a dozen public springs are accessible, each with slightly different mineral compositions — some carbonated, some sulfurous, some strongly iron-rich. Locals fill jugs; visitors drink from spigots and immediately regret underestimating the sulfur content of the wrong spring.
+score: 8.9
 ---
 
 A 2,800-acre state park built around the natural mineral springs that gave Saratoga its fame. The park is beautifully maintained, with a mix of open lawns, mature forest, formal gardens, and a collection of Beaux-Arts bathhouses from the 1930s that are listed on the National Register of Historic Places.

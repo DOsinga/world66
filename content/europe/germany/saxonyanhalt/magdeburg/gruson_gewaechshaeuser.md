@@ -9,6 +9,7 @@ longitude: 11.6316
 address: Schönebecker Str. 129b, 39104 Magdeburg
 opening_hours: Tue-Sun 10:00-18:00 (summer), 10:00-16:00 (winter)
 snippet: Victorian glasshouse complex with tropical plants, housed in historic cast-iron greenhouses from 1895
+score: 7.0
 ---
 
 The Gruson-Gewächshäuser are a series of Victorian cast-iron and glass greenhouses dating to 1895, commissioned by the industrialist Hermann Gruson and now managed by the city as a botanical garden. The greenhouses house tropical and subtropical plants: palms, cacti, succulents, orchids, and aquatic plants in a series of climate-controlled houses ranging from humid tropical to arid desert.

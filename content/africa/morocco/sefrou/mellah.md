@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 33.8252
 longitude: -4.8320
+score: 8.4
 ---
 
 The Mellah — the Jewish quarter — is Sefrou's most historically distinctive area. It survives largely intact, characterised by tall houses with overhanging upper floors, covered alleyways, and distinctive woodwork. At its height, Sefrou's Jewish population numbered around 8,000 people; one estimate puts Jews at a third of the total population in the early twentieth century.

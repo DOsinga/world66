@@ -1,21 +1,22 @@
 ---
+latitude: 23.122
+longitude: -82.399
+score: 9.1
+story: 'The cemetery contains the tomb of Amelia Goyri, known as "La Milagrosa" (The
+  Miraculous One) — a woman who died in childbirth in 1901 and was buried with her
+  stillborn infant at her feet. When the grave was opened for inspection, the baby
+  was found cradled in her arms. Havana took this as a miracle. Her tomb has been
+  visited by supplicants ever since; you approach it, make your request, knock on
+  the marble, and leave walking backwards so as not to turn your back on her. The
+  queue is longest on Tuesdays, her feast day.
+
+  '
+tags:
+- things_to_do
+- sight
+- vedado
 title: Cementerio de Cristóbal Colón
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - vedado
-latitude: 23.1300
-longitude: -82.3856
-story: >
-  The cemetery contains the tomb of Amelia Goyri, known as "La Milagrosa"
-  (The Miraculous One) — a woman who died in childbirth in 1901 and was buried
-  with her stillborn infant at her feet. When the grave was opened for
-  inspection, the baby was found cradled in her arms. Havana took this as a
-  miracle. Her tomb has been visited by supplicants ever since; you approach
-  it, make your request, knock on the marble, and leave walking backwards so
-  as not to turn your back on her. The queue is longest on Tuesdays, her
-  feast day.
 ---
 
 The Cementerio de Cristóbal Colón, opened in 1876 and covering 57 hectares in the Vedado district, is one of the most beautiful and architecturally significant cemeteries in the Americas — a planned city of the dead laid out on a grid with neoclassical tombs, Modernist mausoleums, Art Deco chapels, and Baroque funeral monuments filling every street.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_de_silgar_Sanxenxo.j
 latitude: 42.400356
 loc_type: city
 longitude: -8.806595
-score: 0.55
+score: 7.85
+snippet: Galician beach resort on the Ría de Pontevedra, centred on Silgar and nearby
+  A Lanzada.
 title: Sanxenxo
 type: location
 ---

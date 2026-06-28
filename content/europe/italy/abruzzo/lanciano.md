@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lanciano_-_Madonna_del_Pon
 latitude: 42.233333
 loc_type: city
 longitude: 14.383333
+score: 7.57
+snippet: Abruzzo market town known for the Eucharistic Miracle and brick churches
+  above the Sangro valley
 sources:
 - https://en.wikipedia.org/wiki/Lanciano
 - https://en.wikipedia.org/wiki/Eucharistic_miracle_of_Lanciano

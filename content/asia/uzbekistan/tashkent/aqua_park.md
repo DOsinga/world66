@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3122
 longitude: 69.2419
+score: 4.3
 ---
 
 A 12-hectare themed park opened in 2019, set around an artificial lake with European fairy-tale castles, a Ferris wheel, fountain shows, and a children's amusement section. The architecture is unapologetically theatrical and parts of the place light up at night in a way that feels like a small Disney pastiche.

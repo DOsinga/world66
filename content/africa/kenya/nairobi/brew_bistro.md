@@ -8,6 +8,7 @@ tags:
 latitude: -1.2617
 longitude: 36.8022
 snippet: Nairobi's flagship craft beer bar, with a rooftop terrace overlooking Westlands and rotating local brews on tap
+score: 6.0
 ---
 
 Brew Bistro is the best place in Nairobi to drink craft beer — a rooftop bar and restaurant in the heart of Westlands with a wide selection of locally brewed ales, lagers, and stouts alongside international bottles. The rooftop terrace has a view over the Westlands neighbourhood and the hills beyond, and is particularly good at sunset.

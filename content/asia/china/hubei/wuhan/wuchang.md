@@ -6,6 +6,7 @@ longitude: 114.3147
 tags:
   - things_to_do
   - neighbourhood
+score: 7.3
 ---
 
 Wuchang is the oldest of the three towns that merged to form modern Wuhan and the historic capital of Hubei province. It sits on the south bank of the Yangtze, anchored by Snake Hill and the Yellow Crane Tower above it, with the campuses of Wuhan University spreading east toward East Lake. This is the cultural and academic side of the city.

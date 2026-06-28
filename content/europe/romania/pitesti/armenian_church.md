@@ -8,6 +8,7 @@ latitude: 44.8529
 longitude: 24.8768
 sources:
   - https://en.wikipedia.org/wiki/Armenian_Church,_Pite%C8%99ti
+score: 6.2
 ---
 
 The Armenian Apostolic Church on Egalității Street is one of Pitești's most unexpected architectural gems — a reminder of the substantial Armenian merchant community that settled in Wallachia and Moldavia centuries ago. The building is modest but well-maintained, and its presence in an otherwise unremarkable Romanian city street feels like a small historical surprise.

@@ -1,0 +1,200 @@
+{
+  "round": 3285,
+  "timestamp": "2026-06-13T22:42:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 7.4239,
+      "prior_variance": 0.220564,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 3.7734,
+      "prior_variance": 0.145348,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 4.018,
+      "prior_variance": 0.174366,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 3.5761,
+      "prior_variance": 0.147458,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 1.9704,
+      "prior_variance": 0.127249,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 2.486,
+      "prior_variance": 0.127621,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.2109,
+      "prior_variance": 0.122307,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 1.2191,
+      "prior_variance": 0.145989,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.1141,
+      "prior_variance": 0.121242,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 1.1297,
+      "prior_variance": 0.122675,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 1.4203,
+      "prior_variance": 0.136962,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.2038,
+      "prior_variance": 0.117711,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 1.6578,
+      "prior_variance": 0.127592,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 1.7132,
+      "prior_variance": 0.184152,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.8187,
+      "prior_variance": 0.124868,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.1706,
+      "prior_variance": 0.124593,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.2617,
+      "prior_variance": 0.132239,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.7623,
+      "prior_variance": 0.135238,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": -0.3113,
+      "prior_variance": 0.124348,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": 0.1943,
+      "prior_variance": 0.122789,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -0.9458,
+      "prior_variance": 0.13858,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -4.6376,
+      "prior_variance": 0.124568,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -8.7574,
+      "prior_variance": 0.196218,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -7.6302,
+      "prior_variance": 0.204406,
+      "prior_n": 10
+    }
+  ]
+}

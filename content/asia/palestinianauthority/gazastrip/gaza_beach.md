@@ -7,6 +7,7 @@ tags:
   - sight
 title: Gaza Beach
 type: poi
+score: 6.9
 ---
 
 The Gaza Strip is almost entirely coastline — a forty-kilometre band of dunes and sandy beach running from the Egyptian border at Rafah to the boundary with Israel at the north. The beach has historically been Gaza's main recreational space: an evening promenade, a Friday picnic spot, and a working harbour for the small wooden fishing fleet that worked the inshore waters.

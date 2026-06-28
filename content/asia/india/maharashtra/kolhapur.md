@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-02'
+image: kolhapur.jpg
+image_attribution: Bharat patil
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Jotiba_temple_kolhapur,maharashtra.jpg
 latitude: 16.702841
 loc_type: city
 longitude: 74.240533
-score: 0.44
+score: 6.85
+snippet: Southern Maharashtra city known for Mahalakshmi Temple, wrestling traditions,
+  and distinctive leather footwear.
 title: Kolhapur
 type: location
-image: kolhapur.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Jotiba_temple_kolhapur,maharashtra.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Bharat patil
 ---
 
 Kolhapur is a city in the southern reaches of Maharashtra, near the Karnataka border, known throughout India for two things: its wrestling tradition and its leather footwear. The [Mahalakshmi Temple](/asia/india/maharashtra/kolhapur/mahalakshmi_temple) in the old part of the city is one of the shakti peethas — sites of the goddess Mahalakshmi — and draws pilgrims from across the country. The temple complex, with its distinctive Hemadpanthi architecture, is the spiritual centre of the city.

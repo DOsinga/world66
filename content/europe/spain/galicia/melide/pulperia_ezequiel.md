@@ -14,6 +14,7 @@ story: >-
 tags:
   - eating_out
   - restaurant
+score: 8.4
 ---
 
 Pulpería Ezequiel is the dining destination that makes Melide a stop on any serious Galician food itinerary. The kitchen does essentially one thing — pulpo á feira, octopus cooked in vast copper cauldrons, served on wooden plates with sweet Galician paprika and coarse salt — and does it as well as it has ever been done.

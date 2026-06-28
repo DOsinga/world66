@@ -14,6 +14,7 @@ story: >
   investigated by scientists without definitive explanation. Whether or not you believe the stories,
   the tree is extraordinary: a gnarled survivor of a thousand years on a hillside, wider than a
   man can embrace and still producing foliage.
+score: 8.4
 ---
 
 Lingguang Temple sits on the hillside above Meizhou in the Yinna Mountains, a Buddhist monastery that has occupied this site since the Tang dynasty. The climb to the main hall is steep enough to feel like an effort and rewarding enough to justify it: the views from the upper terrace back over the Mei River valley and the surrounding forested hills are the best vantage point accessible from the city.

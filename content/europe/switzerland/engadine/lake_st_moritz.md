@@ -14,6 +14,7 @@ story: >
   was introduced in 1988 by British and Australian visitors and has been played
   annually since on a specially prepared ice pitch. White flannel looks
   remarkably good against snow.
+score: 6.8
 ---
 
 Lake St. Moritz (Lej da San Murezzan) is the small, brilliantly blue lake that sits below the town at 1,768 metres. In summer it is used for sailing and windsurfing; in winter it freezes solid enough for the Engadine's famous frozen-lake events — horse racing, polo on ice, kite-skiing. The polo tournament, held each January, is one of the most visually absurd and wonderful sporting events in the world: thoroughbreds cantering on a white surface with the Bernina group behind them.

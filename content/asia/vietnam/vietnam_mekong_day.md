@@ -7,6 +7,7 @@ tags:
 - day_trips
 title: Mekong Delta Day Trip
 type: poi
+score: 7.1
 ---
 
 The Mekong Delta starts about two hours southwest of Ho Chi Minh City and feels like a different country — flat, green, crisscrossed by canals, and oriented entirely around water. Most day trips head to either My Tho or Cai Be, both reachable in a morning.

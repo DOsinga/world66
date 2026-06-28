@@ -8,6 +8,7 @@ tags:
 - museum
 title: Gernika Peace Museum
 type: poi
+score: 8.7
 ---
 
 What started in 1998 as a memorial to the 1937 bombing has grown into one of Europe's most thoughtful peace museums. The ground floor focuses specifically on the Condor Legion raid of 26 April 1937 — the immersive bombing-reconstruction room is genuinely disorienting — while the upper floor broadens out into the wider questions of post-conflict reconciliation, with rotating exhibitions on Hiroshima, Sarajevo, Rwanda, and Northern Ireland.

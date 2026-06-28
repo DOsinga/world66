@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/60179488@N07/31782773158
 latitude: 35.213312
 loc_type: city
 longitude: 4.18097
-score: 0.4
+score: 6.52
 title: Bou Saâda
 type: location
+snippet: Saharan-edge oasis town known for its clear desert light and painter Étienne
+  Dinet's long residence.
 ---
 
 Bou Saâda is an oasis town at the edge of the Sahara, about 250 km south of Algiers. It sits in a valley where the Tell Atlas gives way to the desert, and the light here is famous — Étienne Dinet, the French Orientalist painter, spent decades in Bou Saâda and is buried in the local cemetery after converting to Islam. A small museum dedicated to his work, the [Musée Nasreddine Dinet](/africa/algeria/bousaada/musee_dinet), sits in the old town.

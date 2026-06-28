@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hannibal,_Missouri_(366689
 latitude: 39.70825
 loc_type: city
 longitude: -91.358741
-score: 0.43
+score: 7.14
+snippet: Mississippi River town best known as Mark Twain's boyhood home and the setting
+  behind his fiction.
 title: Hannibal
 type: location
 ---

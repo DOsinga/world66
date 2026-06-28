@@ -1,21 +1,23 @@
 ---
-title: Mauritius
-type: location
-latitude: -20.275945
-longitude: 57.570357
-image: mauritius.jpg
-image_source: https://commons.wikimedia.org/wiki/File:'Mon_Choisy'_approaching_rwy_14_at_Plaisance.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Arjun Sarup
-quick_facts:
-  Population: "1.3 million"
-  Drives On: "Left"
-  Languages Spoken: "3 (English, French, Creole)"
-  Dodo: "endemic, extinct since 1681"
 done:
   country_cleanup: 2026-03-29
-score: 0.76
+image: mauritius.jpg
+image_attribution: Arjun Sarup
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:'Mon_Choisy'_approaching_rwy_14_at_Plaisance.jpg
+latitude: -20.275945
 loc_type: country
+longitude: 57.570357
+quick_facts:
+  Dodo: endemic, extinct since 1681
+  Drives On: Left
+  Languages Spoken: 3 (English, French, Creole)
+  Population: 1.3 million
+score: 0.61
+snippet: Indian Ocean island country of volcanic mountains, coral beaches, and Creole,
+  Indian, French, and British layers.
+title: Mauritius
+type: location
 ---
 
 God created Mauritius and then Heaven, at least according to Mark Twain and if you are looking for what brochures call a tropical paradise, Mauritius is there for you.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Skara_centrum.jpeg
 latitude: 58.384608
 loc_type: city
 longitude: 13.439768
-score: 0.41
+score: 6.91
+snippet: Ancient Swedish cathedral town on the Västgöta plain, surrounded by rune
+  stones and abbey ruins.
 title: Skara
 type: location
 ---

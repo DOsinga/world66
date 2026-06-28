@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Purmerend,_de_Melkwegbrug_
 latitude: 52.5025
 loc_type: city
 longitude: 4.9615
-score: 0.37
+score: 6.59
+snippet: North Holland market town near Amsterdam, set among flat polder cycling routes
+  and old trading squares
 title: Purmerend
 type: location
 ---

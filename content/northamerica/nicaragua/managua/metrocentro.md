@@ -9,6 +9,7 @@ latitude: 12.1281
 longitude: -86.2647
 sources:
   - https://en.wikipedia.org/wiki/Metrocentro_Managua
+score: 5.2
 ---
 
 Metrocentro is Managua's original large shopping mall, developed by the Salvadoran Grupo Roble in the late 1990s and still one of the main commercial centres in the city. It occupies a key junction on the way from the old centre toward the Carretera Masaya and has multiple floors of chain stores, a large supermarket, restaurants, a food court, and a cinema.

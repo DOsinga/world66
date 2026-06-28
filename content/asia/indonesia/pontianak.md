@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Equator_Pontianak_Monument
 latitude: -0.02269
 loc_type: city
 longitude: 109.344749
-score: 0.41
+score: 6.68
+snippet: Equatorial Borneo river city where Kapuas waterfront kampungs meet West Kalimantan's
+  sultanate past.
 title: Pontianak
 type: location
 ---

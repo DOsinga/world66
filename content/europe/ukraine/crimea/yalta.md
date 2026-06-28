@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Widok_na_Ja%C5%82t%C4%99_z
 latitude: 44.498787
 loc_type: city
 longitude: 34.168936
-score: 0.51
+score: 7.76
+snippet: Crimean seaside resort backed by mountains, with Chekhov’s house and Livadia
+  Palace linked to the 1945 conference.
 title: Yalta
 type: location
 ---

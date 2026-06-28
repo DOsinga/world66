@@ -12,6 +12,7 @@ story: >
   the rock face to reach it. The monastery's monks were reportedly unenthusiastic
   about the production. The actual approach for visitors is 140 steps cut through
   a rock tunnel rather than a cliff face, but the effect is almost as dramatic.
+score: 8.9
 ---
 
 The Monastery of the Holy Trinity (Agia Triada) stands alone on a pinnacle separate from the main cluster of Meteora rocks, reached by 140 steps cut through a tunnel in the stone. Founded in the 14th or 15th century, the monastery has a small church, an ossuary, and a museum of manuscripts and portable icons. The isolation is total: on three sides the rock drops away to nothing.

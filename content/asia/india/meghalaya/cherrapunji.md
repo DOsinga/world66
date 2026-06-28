@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherrapunji_waterfalls_(In
 latitude: 25.277734
 loc_type: city
 longitude: 91.729242
-score: 0.55
+score: 7.84
+snippet: Khasi Hills town also known as Sohra, famous for heavy rainfall and living
+  root bridges.
 sources:
 - https://en.wikipedia.org/wiki/Cherrapunji
 title: Cherrapunji

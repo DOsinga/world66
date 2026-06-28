@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 23.634
 longitude: 86.947
+score: 4.5
 ---
 
 Nehru Park sits on the bank of the Damodar river at Burnpur, a green strip of lawns, paths, and a children's playground that is essentially the public garden of the steelworks township. On a Sunday afternoon it fills with families from the surrounding company quarters and from central Asansol.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.3
 ---
 
 Palazzo Mazzetti is Asti’s main civic museum, housed in an elegant noble palace rather than a purpose-built gallery. The rooms are part of the attraction: staircases, salons, and decoration give context to the paintings and local collections.

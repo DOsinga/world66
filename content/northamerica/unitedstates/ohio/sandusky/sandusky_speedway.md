@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 41.4269
 longitude: -82.7092
+score: 6.8
 ---
 
 A half-mile paved oval that has been hosting stock-car racing since 1948 — one of the oldest continuously operating short tracks in the United States. Friday-night racing through the summer brings classes from late-model stock cars to four-cylinder enduros, all on a small intimate oval where you can see the whole circuit from any seat.

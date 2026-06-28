@@ -12,6 +12,7 @@ story: >
   at noon on the equinoxes. It is the only major equatorial monument in the
   world guaranteed to be exactly at 0°00'00" latitude, something the more
   famous Mitad del Mundo monument outside Quito cannot claim.
+score: 7.3
 ---
 
 The Quitsato Sundial sits about seven kilometres south of Cayambe on the highway and marks the exact equatorial line with a giant circular platform 54 metres across. At its centre stands a ten-metre-high cylinder — the gnomon — placed precisely at 0°00'00" latitude, verified by GPS and GNSS equipment to within a millimetre. The monument was built in 2006 and opened in 2007, designed by local researcher Cristóbal Cobo.

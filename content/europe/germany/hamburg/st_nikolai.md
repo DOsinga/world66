@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 story: "When St. Nikolai was completed in 1874 its 147-metre spire made it the tallest building in the world. Seven decades later, Operation Gomorrah — the British and American firebombing of Hamburg in July 1943 — gutted the nave and killed an estimated 37,000 people in a single week. The blackened spire was left standing as a memorial; the rest of the church was never rebuilt."
+score: 8.1
 ---
 
 A bombed-out shell in the middle of the inner city, St. Nikolai is the most affecting memorial to the destruction of Hamburg in the Second World War. Only the great Neo-Gothic spire and a corner of one wall survive; the rest of the nave is an empty footprint scattered with sculptures and a small documentation centre underneath.

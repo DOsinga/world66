@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Bishop's Palace
 type: poi
+score: 7.8
 ---
 
 The Püspöki Palota — the Bishop's Palace — is the grandest secular building on Castle Hill, a long baroque façade facing onto the main square at the southern end of the ridge. It was built in the 1760s by Bishop Ignác Koller as a residence in the style then common to Habsburg episcopal courts: long sequence of state rooms, decorative ceilings, formal reception spaces.

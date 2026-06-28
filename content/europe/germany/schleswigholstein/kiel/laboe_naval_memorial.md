@@ -13,6 +13,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Laboe_Naval_Memorial
   - https://en.wikipedia.org/wiki/German_submarine_U-995
+score: 8.5
 ---
 
 On a spit of land at the mouth of the Kieler Förde, the Laboe Naval Memorial rises 85 metres above the shoreline — a curved, ship-bow-shaped tower of reinforced concrete completed in 1936. It serves as a memorial to German sailors killed at sea and contains a chamber of remembrance below the tower, with walls inscribed with the names of lost vessels. The view from the top over the fjord entrance, the Baltic, and the Kiel skyline is worth the climb.

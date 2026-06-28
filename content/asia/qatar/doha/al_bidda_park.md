@@ -9,6 +9,7 @@ latitude: 25.3008
 longitude: 51.5174
 sources:
   - https://en.wikipedia.org/wiki/Al_Bidda_Park
+score: 6.3
 ---
 
 Al Bidda Park is a large green space along the Corniche, adjacent to the Qatar National Theatre. It was renovated for the 2022 World Cup and is now one of the more pleasant parks in central Doha, with mature trees, walking paths, a small lake, and views across the bay. During the World Cup it served as a Fan Festival venue; in ordinary times it is a popular spot for evening walks and family picnics.

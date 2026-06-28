@@ -10,6 +10,7 @@ story: >
   The Battle of Kursk in July–August 1943 involved roughly 6,000 tanks and two million soldiers on a 700-kilometre front.
   The German offensive — Operation Citadel — was intended to pinch off a Soviet salient, but the Soviets had learned the attack was coming through intelligence and prepared the most extensive defensive system of the war.
   When the panzers rolled in, they drove straight into a layered trap of minefields, anti-tank guns, and prepared artillery that bled the German armoured force dry before the Soviet counterattack swept them back.
+score: 8.0
 ---
 
 The Kursk Military History Museum holds the most complete local collection of Battle of Kursk artefacts: weapons, uniforms, documents, maps, and personal effects from both Soviet and German forces. The exhibits trace the full arc of the battle — the German preparation, the Soviet intelligence breakthrough, the failed armoured offensive, and the counterattack that marked the end of German strategic initiative on the Eastern Front.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.9
 ---
 
 Harmanite, the long sandy beach south of the Old Town, is the main beach of Sozopol. It is wide, gently shelving, family-friendly, and well-equipped: umbrellas and loungers for hire, beach bars, a paved promenade behind the dunes. In July and August it fills up; in May, June, and September it is half-empty and pleasant.

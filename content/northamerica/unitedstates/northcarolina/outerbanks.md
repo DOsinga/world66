@@ -6,8 +6,14 @@ latitude: 35.566904
 loc_type: region
 longitude: -75.468837
 score: 0.62
+snippet: North Carolina barrier-island chain of lighthouses, wild beaches, flight
+  history, and ferry-linked villages
 title: Outer Banks
 type: location
+image: outerbanks.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Jockeys_ridge_state_park.jpg
+image_license: Public domain
+image_attribution: Aaronm86
 ---
 
 The Outer Banks is a chain of narrow barrier islands stretching along the North Carolina coast, connected to the mainland by bridges and ferries. These windswept islands are where the Wright Brothers first flew at Kitty Hawk, where Blackbeard prowled the inlets, and where the mysterious Lost Colony of Roanoke vanished without a trace.

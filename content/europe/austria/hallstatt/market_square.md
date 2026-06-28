@@ -6,6 +6,7 @@ longitude: 13.6489
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Marktplatz is the small triangular square at the heart of the village, lined with pastel-coloured 16th- and 17th-century merchants' houses, the Protestant parish church (with its slim spire and bright white walls) and the Hallstatt Museum. A statue of the Holy Trinity, erected after the plague of 1746, stands at the centre.

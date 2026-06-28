@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - town
+score: 6.8
 ---
 
 Road Town is the capital of the British Virgin Islands and the practical centre of Tortola — a modest harbour town along a deep natural inlet, with a single main commercial street, a busy waterfront, and a constant traffic of ferries, yachts, and the occasional cruise ship. It is not pretty in the picture-postcard sense, but the harbour and the surrounding hills are striking, and a couple of hours on foot covers the worthwhile sights.

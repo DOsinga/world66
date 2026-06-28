@@ -5,7 +5,9 @@ done:
 latitude: 5.3296
 loc_type: city
 longitude: 103.1383
-score: 0.54
+score: 7.68
+snippet: Traditional Malay state capital on the Terengganu River, gateway to Redang
+  and Perhentian islands.
 title: Kuala Terengganu
 type: location
 ---

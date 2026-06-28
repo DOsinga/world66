@@ -16,6 +16,7 @@ story: >
   working in shifts around the clock to meet demand across the continent.
 sources:
   - https://en.wikipedia.org/wiki/Italian_Court_(Kutn%C3%A1_Hora)
+score: 7.5
 ---
 
 The Italian Court is the fortified royal palace and mint at the heart of Kutná Hora, built in the late 13th century when the Bohemian king took control of the silver mines and established his own coin production here. The complex contains the mint workshop, royal apartments, the Chapel of St. Wenceslas and St. Ladislaus, and a museum tracing the history of the town from its silver boom to its long decline.

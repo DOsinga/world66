@@ -1,15 +1,16 @@
 ---
 address: Nybroplan, Stockholm
-latitude: 59.3311
-longitude: 18.0789
+latitude: 59.3322955
+longitude: 18.0746940
 snippet: Small central park beside Nybroplan and Berns
 tags:
 - things_to_do
 - park
 - sight
-- gamla_stan
+- norrmalm
 title: Berzelii Park
 type: poi
+score: 5.7
 ---
 
 A compact, leafy square tucked between Nybroplan and the waterfront, named after the chemist Jons Jacob Berzelius whose statue stands at its centre. The park is best known for what surrounds it: Berns Salonger, Stockholm's grand 19th-century entertainment palace, sits on one side, and the Royal Dramatic Theatre is just steps away.

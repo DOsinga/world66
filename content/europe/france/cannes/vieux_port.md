@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.5508
 longitude: 7.0109
+score: 7.0
 ---
 
 The Vieux Port is the historic harbour of Cannes, directly below Le Suquet, where the city's fishing identity is still visible alongside the tourist economy. Fishing boats tie up here in the morning after the overnight catch; the ferry pontoons for the Lérins Islands are on the north quay; and the fish market on the adjacent square does its best trade before 9am.

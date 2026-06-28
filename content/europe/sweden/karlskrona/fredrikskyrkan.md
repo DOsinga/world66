@@ -12,6 +12,7 @@ tags:
   - sight
 title: Fredrikskyrkan
 type: poi
+score: 7.8
 ---
 
 Fredrikskyrkan is the Swedish national church of Karlskrona, one of the two baroque churches that flank [Stortorget](/europe/sweden/karlskrona/stortorget). Designed by Nicodemus Tessin the Younger, architect of the Royal Palace in Stockholm, and consecrated in 1744, it is a large, austere building with a grand interior fitted out in the understated Swedish baroque style. The church is named for King Frederick I and serves as the main church for the city.

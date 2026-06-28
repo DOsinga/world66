@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 1901 Edwardian amusement palace with a distinctive copper dome — one of the oldest purpose-built funfair buildings in the world.
+score: 6.8
 ---
 
 The Kursaal sits at the east end of the Southend seafront and is one of the oldest purpose-built amusement buildings in the world. It opened in 1901 as a "people's palace" of arcades, gardens and entertainment — the name comes from the German for "cure hall", but here meant something closer to an indoor seaside resort under one roof. The Baroque-revival main building, with its distinctive copper-clad dome and lantern, was once flanked by a 26-acre amusement park.

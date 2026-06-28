@@ -15,6 +15,7 @@ story: >
   is something between a murmur and a roar, unlike anything else in nature.
 sources:
   - https://en.wikipedia.org/wiki/European_storm_petrel
+score: 8.9
 ---
 
 The eastern cliffs and hillsides of Nólsoy are home to the largest European storm petrel colony on earth, with around 50,000 pairs nesting in burrows among the rocks and grass. The birds spend their days out at sea and return only after dark to avoid the great skuas that hunt them relentlessly in daylight. This means seeing them requires an overnight stay on the island — day visitors from Tórshavn will miss the spectacle entirely.

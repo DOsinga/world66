@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Adelboden_schutzwald3.jpg
 latitude: 46.4927
 loc_type: city
 longitude: 7.5588
-score: 0.59
+score: 8.77
+snippet: Bernese Oberland alpine village with wooden chalets, Engstlige valley views,
+  and Chuenisbärgli ski racing.
 title: Adelboden
 type: location
 ---

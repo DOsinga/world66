@@ -9,6 +9,7 @@ tags:
   - castle
 title: "Chateau d'Epinal"
 type: poi
+score: 7.1
 ---
 
 The ruined Chateau d'Epinal stands above the old town in a broad public park. There is not a polished chateau interior to tour; the pleasure is the climb, the fragments of wall, and the view over the Moselle valley.

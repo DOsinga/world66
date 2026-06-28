@@ -1,11 +1,13 @@
 ---
 latitude: 55.6635
 longitude: 12.5362
+score: 7.6
+snippet: Original 1847 brewery site housing the world's largest collection of beer
+  bottles
 tags:
 - things_to_do
 - landmark
 title: Carlsberg
-snippet: "Historic 1847 brewery with world's largest bottle collection"
 type: poi
 ---
 

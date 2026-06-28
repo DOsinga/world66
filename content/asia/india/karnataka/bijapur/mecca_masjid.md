@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Small, ornamented mosque traditionally reserved for the royal women
+score: 6.2
 ---
 
 A small, finely detailed mosque inside the citadel, traditionally said to have been used exclusively by the women of the royal household. The proportions are tighter than the Jama Masjid — a single domed prayer hall with three arches at the front — but the stone carving is some of the most refined in the city, particularly the screens that would have shielded the worshippers from view.

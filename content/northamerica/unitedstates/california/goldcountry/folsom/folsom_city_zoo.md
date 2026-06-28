@@ -9,6 +9,7 @@ tags:
 - zoo
 title: Folsom City Zoo Sanctuary
 type: poi
+score: 6.4
 ---
 
 A small zoo in Folsom City Park that specialises in animals that cannot be returned to the wild — rescued or injured wildlife rather than animals bred in captivity. It is modest in size but genuine in purpose, and makes for a relaxed hour, particularly with children.

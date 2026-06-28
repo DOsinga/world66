@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museum of Visual Arts
 type: poi
+score: 8.0
 ---
 
 The Muzeul de Artă Vizuală is the surprise of Galați. Housed in a 19th-century building on Domnească Street, it holds one of the best collections of modern Romanian art outside Bucharest — works by Theodor Pallady, Nicolae Tonitza, Corneliu Baba and many of the country's other 20th-century painters, alongside a contemporary section.

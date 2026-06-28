@@ -5,6 +5,7 @@ snippet: Adventure park with the area's longest network of hanging bridges and o
 tags: [things_to_do, activity, canopy]
 latitude: 10.3389
 longitude: -84.8112
+score: 7.6
 ---
 
 Selvatura, near the Santa Elena reserve, is one of the biggest of the Monteverde adventure operations. It runs a 3-kilometre loop of suspension bridges that lets you walk through the canopy at its own level, eye to eye with epiphytes and bromeliads.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 32.3795
 longitude: -86.3125
+score: 6.5
 ---
 
 The downtown loft restaurant in a renovated warehouse on Coosa Street has been Montgomery's go-to date-night room since opening in 2010 — modern Southern menu (think shrimp and grits with chorizo, redfish over field peas), local farm sourcing, decent cocktails.

@@ -7,6 +7,7 @@ tags:
 latitude: 40.9247
 longitude: 9.4986
 snippet: The end of the line from Cagliari, and a starting point for the Sardinian rail network
+score: 2.6
 ---
 
 Olbia's railway station sits at the southern end of Corso Umberto and handles trains on the mainline from Cagliari and Sassari. Services are run by Trenitalia on standard gauge track; the journey from Cagliari takes around three and a half hours. Connections to the north of the island are limited, making the station more useful for arrivals from the south and for onward travel to Sassari.

@@ -9,6 +9,7 @@ tags:
 latitude: -34.5884
 longitude: -58.3940
 url: centroculturalrecoleta.gob.ar
+score: 7.9
 ---
 
 The city's main free contemporary arts centre, housed in a converted 18th-century Franciscan convent adjacent to the Recoleta Cemetery. The conversion retained the cloister, the chapel, and the courtyard structure while adding modern exhibition galleries at multiple levels. The result is one of the better art spaces in Buenos Aires — a mix of permanent collections and rotating exhibitions covering visual art, design, performance, and new media.

@@ -15,6 +15,7 @@ story: >
   catastrophic landslide in the 16th century that destroyed much of the
   lower town. The ruins of the town are still visible on the slopes below
   the castle.
+score: 7.9
 ---
 
 Perched on a volcanic plug above the Kura River gorge, about 4 kilometres downstream (north) of Vardzia, Tmogvi is a ruined medieval fortress that most visitors miss entirely. The approach involves a steep scramble up loose rock — there is no formal path — and the climb takes about 30 minutes from the valley floor.

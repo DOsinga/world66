@@ -8,6 +8,7 @@ latitude: 32.2600
 longitude: 96.6500
 story: >
   This is the monastery that gave the Trungpa lineage to the world. Chögyam Trungpa, the 11th Trungpa Tulku and founder of Shambhala Buddhism in the West, was enthroned here as a child in the 1940s before fleeing Tibet in 1959. His books and teaching centres later spread Tibetan Buddhist ideas across Europe and North America.
+score: 8.2
 ---
 
 Zurmang Namgyaltse is one of the most historically significant Kagyu monasteries in the Nangqen area, located about 60 kilometres east of the county town in the Tsichu valley. The monastery was founded in the 15th century when Trungpa Ma-se, a disciple of the Fifth Karmapa, built a meditation retreat here — the name means "many-cornered," describing the shape of that original structure.

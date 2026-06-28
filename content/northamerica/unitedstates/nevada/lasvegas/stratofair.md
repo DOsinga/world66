@@ -2,11 +2,13 @@
 address: The Stratosphere, 2000 Las Vegas Blvd. South
 latitude: 36.1475
 longitude: -115.1566
+score: 5.8
 snippet: Thrill rides atop the Stratosphere tower
 tags:
 - things_to_do
 - park
 - tower
+- the_strip
 title: Strat-O-Fair
 type: poi
 ---

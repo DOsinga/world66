@@ -1,0 +1,200 @@
+{
+  "round": 2544,
+  "timestamp": "2026-06-13T21:50:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 7.7655,
+      "prior_variance": 0.259458,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 7.7664,
+      "prior_variance": 0.269976,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 8.3585,
+      "prior_variance": 0.236578,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 7.8138,
+      "prior_variance": 0.270178,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 8.275,
+      "prior_variance": 0.267357,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 5.8503,
+      "prior_variance": 0.226285,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 4.8494,
+      "prior_variance": 0.206991,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 1.7803,
+      "prior_variance": 0.19503,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 5.2363,
+      "prior_variance": 0.215192,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 2.6897,
+      "prior_variance": 0.167745,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 1.4697,
+      "prior_variance": 0.162401,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 1.8601,
+      "prior_variance": 0.168591,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 0.5086,
+      "prior_variance": 0.182396,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.6126,
+      "prior_variance": 0.175788,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -0.1571,
+      "prior_variance": 0.165705,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": 0.1903,
+      "prior_variance": 0.247143,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": -0.4143,
+      "prior_variance": 0.233962,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -1.429,
+      "prior_variance": 0.160706,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -0.4032,
+      "prior_variance": 0.165483,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -1.6596,
+      "prior_variance": 0.165439,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": -0.5384,
+      "prior_variance": 0.149263,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Xingyi",
+      "path": "asia/china/guizhou/xingyi",
+      "prior_score": -1.7356,
+      "prior_variance": 0.172665,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -1.2591,
+      "prior_variance": 0.202002,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -0.9255,
+      "prior_variance": 0.182602,
+      "prior_n": 8
+    }
+  ]
+}

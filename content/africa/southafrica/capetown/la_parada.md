@@ -2,7 +2,7 @@
 address: Shop 153B, V&A Waterfront, Cape Town
 latitude: -33.9039
 longitude: 18.4204
-neighbourhood: V&A Waterfront
+score: 5.6
 scores:
   activities: 0.6456
   eating_out: 0.7891
@@ -11,6 +11,7 @@ tags:
 - eating_out
 - restaurant
 - waterfront
+- victoria__alfred
 title: La Parada
 type: poi
 ---

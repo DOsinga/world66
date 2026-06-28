@@ -9,6 +9,7 @@ tags:
 - nature
 title: Mekong River Cruise
 type: poi
+score: 7.4
 ---
 
 A river cruise through the Mekong Delta is one of the best day trips from Ho Chi Minh City, and noticeably cooler than the city itself. The delta's maze of channels and tributaries is dense with mangroves — paddle far enough in and the fronds close overhead, turning the waterway into a green tunnel.

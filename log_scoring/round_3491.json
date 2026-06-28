@@ -1,0 +1,200 @@
+{
+  "round": 3491,
+  "timestamp": "2026-06-13T22:57:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.5424,
+      "prior_variance": 0.11581,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": 0.2881,
+      "prior_variance": 0.111827,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 0.8495,
+      "prior_variance": 0.108467,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.18,
+      "prior_variance": 0.123403,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ingleton",
+      "prior_score": 0.2294,
+      "prior_variance": 0.118634,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.0386,
+      "prior_variance": 0.128165,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.0789,
+      "prior_variance": 0.125439,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": 0.34,
+      "prior_variance": 0.115783,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.7316,
+      "prior_variance": 0.118733,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Yining",
+      "path": "asia/china/xinjiangprovince/yining",
+      "prior_score": -3.2605,
+      "prior_variance": 0.130877,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -4.6047,
+      "prior_variance": 0.11933,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -3.2862,
+      "prior_variance": 0.140497,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.5835,
+      "prior_variance": 0.135993,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.4109,
+      "prior_variance": 0.115642,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -5.5125,
+      "prior_variance": 0.188794,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -3.9185,
+      "prior_variance": 0.126689,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -5.2343,
+      "prior_variance": 0.157381,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.892,
+      "prior_variance": 0.164827,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/south_east/croydon",
+      "prior_score": -7.1643,
+      "prior_variance": 0.219426,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -9.1186,
+      "prior_variance": 0.245897,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -10.4373,
+      "prior_variance": 0.561475,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -9.8469,
+      "prior_variance": 0.304904,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -8.4369,
+      "prior_variance": 0.215136,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -10.739,
+      "prior_variance": 0.611784,
+      "prior_n": 11
+    }
+  ]
+}

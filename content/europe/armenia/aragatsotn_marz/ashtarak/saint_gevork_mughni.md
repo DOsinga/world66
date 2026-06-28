@@ -13,6 +13,7 @@ tags:
   - sight
 title: Saint Gevork Monastery of Mughni
 type: poi
+score: 7.7
 ---
 
 A well-preserved 17th-century monastery in the village of Mughni, about 3 kilometres north of Ashtarak. The monastery is built around an older church and features a distinctive gavit (narthex) with elaborate carved stone decoration. The setting, above the Kasagh gorge with Mount Aragats in the distance on a clear day, is outstanding.

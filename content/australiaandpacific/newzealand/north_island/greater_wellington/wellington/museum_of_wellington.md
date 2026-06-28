@@ -8,6 +8,7 @@ tags:
 latitude: -41.2866
 longitude: 174.7782
 snippet: "Free waterfront museum covering Wellington's maritime and Maori history"
+score: 7.9
 ---
 
 The Museum of Wellington City and Sea occupies a 1892 Victorian bond store on the waterfront, just along from Te Papa. The museum is free and its scale is right — focussed enough to be genuinely engaging, small enough to see in an hour. The Wahine exhibition covers the 1968 ferry disaster in which 51 people died when the inter-island ferry capsized in Cook Strait in a cyclone — still the worst maritime disaster in New Zealand waters, and told here with real documentary material and survivor testimony.

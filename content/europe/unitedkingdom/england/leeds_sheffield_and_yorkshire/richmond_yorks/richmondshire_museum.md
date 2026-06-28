@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Local history museum with the original set from All Creatures Great and Small
+score: 7.5
 ---
 
 A small, well-curated local history museum tucked down a side alley off the market square. The collection covers the social history of Swaledale and Wensleydale — lead mining, cheese-making, the rise and fall of the textile industry — through reconstructed shopfronts, period interiors and a pleasingly eclectic gallery of farming and domestic objects.

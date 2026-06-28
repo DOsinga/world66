@@ -8,6 +8,7 @@ tags:
 title: Ye Olde Black Boy
 type: poi
 snippet: "Old Town pub on High Street with 18th-century interiors and a long association with the city's coffee-shop history"
+score: 7.7
 ---
 
 Ye Olde Black Boy on High Street is one of Hull's oldest pubs, with a building stretching back to the 17th century and a continuous record of use as a coffee house, tavern, and later pub. The interior is a labyrinth of small panelled rooms — including a snug behind a half-door — and the bar offers a rotating range of Yorkshire cask ales.

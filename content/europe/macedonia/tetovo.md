@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharena_Mosque_Tetovo_2.jp
 latitude: 42.00683
 loc_type: city
 longitude: 20.972856
-score: 0.37
+score: 6.5
+snippet: North Macedonian city below the Shar Mountains, known for the Painted Mosque
+  and Albanian-speaking bazaar life.
 title: Tetovo
 type: location
 ---

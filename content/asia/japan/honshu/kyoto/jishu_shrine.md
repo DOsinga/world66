@@ -1,11 +1,13 @@
 ---
 latitude: 34.9954
 longitude: 135.7848
+score: 6.1
 snippet: Love shrine inside the Kiyomizu-dera precinct with a pair of "love stones"
 tags:
 - things_to_do
 - shrine
 - sight
+- higashiyama
 title: Jishu Shrine
 type: poi
 ---

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Shangrila_resort_skardu.jp
 latitude: 35.286372
 loc_type: city
 longitude: 75.640075
-score: 0.54
+score: 8.08
+snippet: Baltistan mountain town on the Indus, gateway to K2, Baltoro Glacier, and
+  Karakoram valleys
 title: Skardu
 type: location
 ---

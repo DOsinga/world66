@@ -3,6 +3,11 @@ address: 270 23 Křivoklát
 email: krivoklat@stc.npu.cz
 latitude: 50.026917
 longitude: 13.860344
+score: 7.8
+tags:
+- things_to_do
+- sight
+- castle
 title: Sights in Krivoklat
 type: poi
 url: www.krivoklat.cz

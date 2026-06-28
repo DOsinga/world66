@@ -5,8 +5,10 @@ done:
 latitude: 48.6208
 loc_type: city
 longitude: 22.2879
-score: 0.44
+score: 7.13
 title: Uzhhorod
+snippet: Carpathian border city on the Uzh River, layered with Rusyn, Hungarian, Czechoslovak,
+  Soviet, and Ukrainian history.
 type: location
 ---
 

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Churdhar_peak,_pano_from_w
 latitude: 30.5592
 loc_type: city
 longitude: 77.2983
-score: 0.4
+score: 6.28
+snippet: Southern Himachal district where Shivalik hill towns and pilgrimage sites
+  meet the plains
 title: Sirmour
 type: location
 ---

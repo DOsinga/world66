@@ -1,0 +1,200 @@
+{
+  "round": 4121,
+  "timestamp": "2026-06-13T23:45:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 6.6463,
+      "prior_variance": 0.195494,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 4.9167,
+      "prior_variance": 0.106905,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 10.9077,
+      "prior_variance": 0.284723,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 8.5809,
+      "prior_variance": 0.198905,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "San Pedro de Atacama",
+      "path": "southamerica/chile/sanpedrodeatacama",
+      "prior_score": 7.0571,
+      "prior_variance": 0.156035,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_score": 4.1283,
+      "prior_variance": 0.111039,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 3.9364,
+      "prior_variance": 0.10335,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.0216,
+      "prior_variance": 0.123497,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 1.8696,
+      "prior_variance": 0.099055,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national_monument",
+      "prior_score": 3.6025,
+      "prior_variance": 0.111677,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.6051,
+      "prior_variance": 0.094627,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.8632,
+      "prior_variance": 0.109222,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 3.9351,
+      "prior_variance": 0.107948,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 4.3644,
+      "prior_variance": 0.115061,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 1.2893,
+      "prior_variance": 0.08947,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": 0.0463,
+      "prior_variance": 0.118184,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 1.4266,
+      "prior_variance": 0.098856,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 0.6322,
+      "prior_variance": 0.112699,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 0.3524,
+      "prior_variance": 0.101897,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 1.3027,
+      "prior_variance": 0.106731,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Gurabo",
+      "path": "northamerica/thecaribbean/puertorico/gurabo",
+      "prior_score": -3.7732,
+      "prior_variance": 0.097537,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -1.2389,
+      "prior_variance": 0.112417,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_score": -4.9654,
+      "prior_variance": 0.11242,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -8.2981,
+      "prior_variance": 0.245749,
+      "prior_n": 13
+    }
+  ]
+}

@@ -10,6 +10,7 @@ latitude: 5.8260
 longitude: -55.1530
 story: >
   The name Keti Koti means "the chains are broken" in Sranan Tongo. When slavery was abolished in Suriname on 1 July 1863, formerly enslaved people were required to continue working under government supervision for a further ten years — a period of "apprenticeship" that delayed true freedom until 1873. The Keti Koti celebrations on 1 July are therefore both a commemoration and an assertion of identity that has only grown in importance over the decades since independence.
+score: 6.2
 ---
 
 The Keti Koti Monument commemorates the abolition of slavery in Suriname on 1 July 1863 — one of the most significant dates in the country's history. The monument stands in the city centre as a permanent reminder of the centrality of slavery to Suriname's colonial economy and of the long struggle for freedom by the enslaved population.

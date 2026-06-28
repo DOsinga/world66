@@ -13,6 +13,7 @@ story: >
   was confiscated by France during World War I as enemy property, becoming
   the only major champagne house to have been nationalized and then returned
   to private ownership.
+score: 7.6
 ---
 
 G.H. Mumm is the largest champagne producer in Reims and one of the most accessible for visitors. Its cellars on the Rue du Champ de Mars offer guided tours that are less formal than some of the grander houses and well-suited to those new to champagne. The 25 kilometres of cellars house around 25 million bottles at any one time.

@@ -8,11 +8,13 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:St_George's,_Grenada_-_panoramio_(8).jpg
 latitude: 12.1165
+loc_type: region
 longitude: -61.679
 score: 0.66
+snippet: Spice-scented Caribbean island nation of beaches, rainforest hills, nutmeg
+  estates, and quieter sister islands.
 title: Grenada
 type: location
-loc_type: region
 ---
 
 Grenada is the southernmost of the Windward Islands, a three-island nation that includes Carriacou and Petit Martinique. It is small — the main island is about 34km long — fragrant with nutmeg and cinnamon, and genuinely beautiful in a way that doesn't require much effort to appreciate. The terrain is lush and mountainous at the centre, ringed by beaches and fishing villages, and the capital [St. George's](/northamerica/thecaribbean/grenada/stgeorges) sits around one of the prettiest harbours in the Caribbean.

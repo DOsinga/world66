@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - medieval_quarter
+score: 8.7
 ---
 
 The longest of the old town's trade streets, running the full length of the upper hill town from the cathedral end to the gate of Portal del Rey. "Cuchillería" means cutlery — this was the street of the knife-makers in the Middle Ages.

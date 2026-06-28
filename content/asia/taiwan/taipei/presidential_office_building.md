@@ -2,11 +2,13 @@
 address: 122 Chongqing South Road Sec 1, Taipei
 latitude: 25.0399
 longitude: 121.5118
+score: 8.0
 snippet: Japanese-era red-brick palace, still the seat of the Republic of China government
 tags:
 - things_to_do
 - sight
 - architecture
+- zhongzheng
 title: Presidential Office Building
 type: poi
 url: https://www.president.gov.tw

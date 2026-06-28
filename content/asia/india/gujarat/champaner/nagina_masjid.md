@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Nagina Masjid
 type: poi
+score: 7.8
 ---
 
 Nagina Masjid, the Jewel Mosque, is one of Champaner's most graceful smaller monuments. Its raised plinth, airy prayer hall, and carved ornament make it feel almost pavilion-like.

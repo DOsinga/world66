@@ -13,6 +13,7 @@ story: >
   current structure is the third to stand on the spot — the first two were destroyed,
   once by fire and once during the Second World War, when Davao was occupied by Japanese
   forces from 1942 to 1945.
+score: 6.9
 ---
 
 San Pedro Cathedral is the heart of Catholic Davao, a significant colonial-era church standing in the downtown district near the waterfront. The current building dates from the post-war reconstruction period and has been modified and expanded several times, but the site itself has been sacred to the city since the mid-19th century.

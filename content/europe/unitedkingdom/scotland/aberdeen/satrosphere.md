@@ -9,6 +9,7 @@ tags:
 - museum
 title: Satrosphere
 type: poi
+score: 5.6
 ---
 
 Aberdeen's interactive science and discovery centre, with hands-on exhibits aimed at children and families. Rotating exhibitions cover everything from space to the human body, with plenty of buttons to press and experiments to try. A reliable rainy-day option in a city that has no shortage of rainy days.

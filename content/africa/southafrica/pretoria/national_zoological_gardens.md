@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.7434
 longitude: 28.1841
+score: 7.2
 ---
 
 The National Zoological Gardens of South Africa (commonly the Pretoria Zoo) is one of the largest and best-regarded zoos in Africa, occupying 85 hectares on the banks of the Apies River in the city centre. Established in 1899, it holds over 9,000 animals across more than 700 species, with particularly strong collections of African large mammals, reptiles, and bird life.

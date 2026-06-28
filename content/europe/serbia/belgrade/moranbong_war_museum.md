@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - history
+score: 7.4
 ---
 
 The Military Museum inside Kalemegdan fortress covers Serbian and Yugoslav military history from the Roman period to the 1990s conflicts, with an emphasis on the First and Second World Wars. The collection includes weapons, uniforms, medals, artillery pieces, and maps documenting the campaigns in which Serbia played an outsized role — including the Serbian retreat through Albania in 1915-16, one of the most catastrophic and least known episodes of the First World War.

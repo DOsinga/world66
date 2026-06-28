@@ -5,10 +5,12 @@ done:
 latitude: 39.0194
 loc_type: city
 longitude: 125.7381
-score: 0.15
+score: 2.54
 sources:
 - https://en.wikipedia.org/wiki/Pyongyang
 title: Pyongyang
+snippet: Monumental North Korean capital rebuilt along the Taedong River as a showcase
+  of socialist state design
 type: location
 ---
 

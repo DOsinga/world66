@@ -11,6 +11,7 @@ story: >
   and contains several trees that are among the oldest in the Ruhr. A sequoia planted in 1860 has
   reached a height of over 40 metres. The estate's manor house was bombed flat in 1944; the gardens
   survived almost undamaged.
+score: 7.4
 ---
 
 Rombergpark, in the Brünninghausen district south of the city, is one of the largest botanical gardens in northwest Germany, covering around 65 hectares. The grounds include a landscaped English garden, a formal arboretum with some 4,000 species, extensive rose beds, and a tropical greenhouse complex.

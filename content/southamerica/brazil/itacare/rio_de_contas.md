@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -14.2842
 longitude: -39.0086
+score: 7.9
 ---
 
 The Rio de Contas is one of Bahia's major rivers, and its broad, mangrove-fringed estuary right at the south edge of Itacaré is worth a half-day on the water. Small wooden boats make the trip upriver from the town waterfront, through stands of mangrove rich in birdlife — frigatebirds, ibises, kingfishers, and the occasional caiman lying still on the banks.

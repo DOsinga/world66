@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.3200
 longitude: 24.2800
+score: 7.0
 ---
 
 The two main lakes of the Pälkäne area — Pälkänevesi to the north and Mallasvesi to the south — are connected by the Kostianvirta channel. Together they form a significant lake system in the Tampere region, popular for swimming, rowing, canoeing, and fishing. The water is clean enough for swimming from June through August, when temperatures reach around 20°C on warm summer days.

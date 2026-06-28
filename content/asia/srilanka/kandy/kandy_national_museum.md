@@ -12,6 +12,7 @@ story: >
   a residence and later converted it into a museum in 1942. The room-sized collection of
   ivory-handled weapons, royal regalia, and jeweled artifacts occupies the same chambers
   where Kandyan queens once lived.
+score: 7.7
 ---
 
 The Kandy National Museum occupies the former Queen's Palace, directly adjacent to the Temple of the Tooth complex. The collection focuses on the Kandyan period: royal regalia, ornate costumes, ivory carvings, weapons, and everyday objects from the court. The craftsmanship on display — particularly the lacquerwork, silverwork, and carved ivory — is exceptional.

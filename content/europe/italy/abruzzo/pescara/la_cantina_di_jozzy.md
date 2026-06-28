@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.4621
 longitude: 14.2138
+score: 5.8
 ---
 
 A wine bar and osteria in the old quarter of Pescara, La Cantina di Jozzy is the kind of place that does not try too hard and succeeds because of it. The food is simple — cold cuts, cheeses, bruschette, a daily pasta — but it is sourced carefully and served with genuine Abruzzese wines that you will not find in many other places. The owner is knowledgeable and happy to talk about producers.

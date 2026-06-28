@@ -7,6 +7,7 @@ tags:
 latitude: 44.2348
 longitude: 8.3260
 snippet: "12th–14th-century stone church with a slender campanile on the ridge near Orco"
+score: 7.3
 ---
 
 San Lorenzino is the older of Orco Feglino's two parish churches, perched on the ridge just below the castle. The fabric is twelfth to fourteenth century, in the simple Ligurian Romanesque manner — squared stone, a single nave, a low pitched roof, and a square campanile with two tiers of paired arched windows.

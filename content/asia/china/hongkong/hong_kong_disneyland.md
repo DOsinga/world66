@@ -2,9 +2,11 @@
 address: Lantau Island
 latitude: 22.3131
 longitude: 114.041
+score: 6.8
 snippet: Compact Disney park with distinct Asian touches
 tags:
 - things_to_do
+- lantau
 title: Hong Kong Disneyland
 type: poi
 url: www.hongkongdisneyland.com

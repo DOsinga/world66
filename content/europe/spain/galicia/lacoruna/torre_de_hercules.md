@@ -8,6 +8,7 @@ tags:
 - story
 title: Torre de Hércules
 type: poi
+score: 9.5
 ---
 
 The Torre de Hércules is the oldest working Roman lighthouse in the world. Built in the 1st century AD and encased in its current neoclassical shell in 1791, it still guides ships through the Atlantic approaches to the Ría de A Coruña. It stands on the rocky northern tip of the peninsula, surrounded by a small park with prehistoric rock carvings and a rose garden.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5639
 longitude: -79.6481
+score: 6.7
 ---
 
 Erindale Park is Mississauga's largest open park — over 70 hectares of meadow and trail along the Credit River. The river broadens here below the old Erindale Dam and is wide enough to kayak in summer. The Culham Trail runs along the west bank under the canopy.

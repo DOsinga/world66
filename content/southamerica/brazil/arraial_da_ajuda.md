@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_da_Praia_do_Mucug%C3
 latitude: -16.4896
 loc_type: city
 longitude: -39.0688
-score: 0.6
+score: 8.46
+snippet: Bahian beach village across from Porto Seguro, with colourful lanes above
+  low-cliff Atlantic beaches.
 title: Arraial da Ajuda
 type: location
 ---

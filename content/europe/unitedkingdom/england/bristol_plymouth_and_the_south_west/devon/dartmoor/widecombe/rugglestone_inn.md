@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 50.5729
 longitude: -3.8113
+score: 6.4
 ---
 
 About half a mile south of the village centre, the Rugglestone Inn is one of those pubs that has not changed much in a very long time, and for which you should be grateful. It is tiny — a single main room with a fireplace, a servery, and maybe 20 people's worth of seating before things get cosy. Real ales from local Devon breweries, proper cider, no frills.

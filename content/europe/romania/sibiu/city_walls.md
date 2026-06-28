@@ -12,6 +12,7 @@ story: >
   the Harquebusiers' Bastion — the names still survive on the surviving
   structures today, a record of the city's medieval social organisation carved
   in stone.
+score: 8.1
 ---
 
 Sibiu retains more of its medieval defensive circuit than almost any other city in Transylvania. Three rings of fortifications were built between the 13th and 15th centuries, and significant portions of the inner and outer walls, along with several bastions and towers, survive in good condition. The most impressive are the Carpenters' Tower, the Potters' Tower, and the Harquebusiers' Bastion, which have been restored and are visible from the streets below the old city.

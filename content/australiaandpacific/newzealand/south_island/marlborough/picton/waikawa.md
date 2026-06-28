@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: -41.27
 longitude: 174.041
+score: 6.0
 ---
 
 Waikawa is a small settlement four kilometres north-east of Picton on the next bay around, home to the largest Maori-owned marina in the South Island and the marae of the Te Atiawa iwi. The bay is sheltered, the water is calm, and the marina hosts a couple of hundred yachts owned by Wellington and Christchurch families who keep them there year-round.

@@ -5,7 +5,9 @@ done:
 latitude: 49.97067
 loc_type: city
 longitude: 9.138486
-score: 0.47
+score: 7.22
+snippet: Main River city near Frankfurt, dominated by red sandstone Johannisburg Palace
+  and Schönbusch Park.
 title: Aschaffenburg
 type: location
 ---

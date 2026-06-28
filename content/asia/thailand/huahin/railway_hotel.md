@@ -16,6 +16,7 @@ story: >
   scenes immediately.
 sources:
   - https://en.wikipedia.org/wiki/The_Railway_Hotel,_Hua_Hin
+score: 8.4
 ---
 
 The Centara Grand Beach Resort, still known locally as the Railway Hotel, is one of the most atmospheric hotels in Thailand. Built in 1922 by the State Railways of Thailand to encourage domestic tourism to the new royal resort, it remains a masterpiece of colonial-era tropical architecture — white-painted teak pavilions, wide verandahs, manicured topiary gardens, and a beachfront pool that was there before anyone used the word resort.

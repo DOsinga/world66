@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Exterior_Winter_2016_17_Fo
 latitude: 46.4979
 loc_type: city
 longitude: 9.8392
-score: 0.73
+score: 9.38
+snippet: Upper Engadin alpine resort at 1,800 metres, twice host of the Winter Olympics.
 title: St. Moritz
 type: location
 ---

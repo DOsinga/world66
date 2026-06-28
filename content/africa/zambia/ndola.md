@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ndola01.jpg
 latitude: -12.9693
 loc_type: city
 longitude: 28.6366
-score: 0.31
+score: 5.67
+snippet: Copperbelt capital near the Congolese border, shaped by mining, railways,
+  and regional commerce.
 title: Ndola
 type: location
 ---

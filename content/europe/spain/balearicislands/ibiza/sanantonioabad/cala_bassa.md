@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9569
 longitude: 1.2569
+score: 8.5
 ---
 
 Cala Bassa is one of the finest beaches on Ibiza — a broad arc of white sand backed by pines, about 10 km southwest of San Antonio by road (or accessible by boat from the port, which is the better option in summer when the road is clogged). The water is an almost improbable shade of turquoise, sheltered from the open sea by rocky headlands on either side.

@@ -1,0 +1,200 @@
+{
+  "round": 3115,
+  "timestamp": "2026-06-13T22:30:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 10.738,
+      "prior_variance": 0.251097,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 6.6766,
+      "prior_variance": 0.185644,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 3.3902,
+      "prior_variance": 0.192117,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Jerez de la Frontera",
+      "path": "europe/spain/andalucia/jerezdelafrontera",
+      "prior_score": 3.375,
+      "prior_variance": 0.151571,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Les Saintes",
+      "path": "northamerica/thecaribbean/guadeloupe/lessaintes",
+      "prior_score": 5.4668,
+      "prior_variance": 0.147795,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 5.8796,
+      "prior_variance": 0.192436,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 1.7714,
+      "prior_variance": 0.13283,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 4.0369,
+      "prior_variance": 0.147734,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 1.9012,
+      "prior_variance": 0.150091,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 4.828,
+      "prior_variance": 0.17887,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.8637,
+      "prior_variance": 0.117223,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.5492,
+      "prior_variance": 0.146477,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 3.0038,
+      "prior_variance": 0.137513,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 1.1773,
+      "prior_variance": 0.126112,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.3454,
+      "prior_variance": 0.133787,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.7269,
+      "prior_variance": 0.14944,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 2.2983,
+      "prior_variance": 0.145033,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 0.132,
+      "prior_variance": 0.135141,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.0707,
+      "prior_variance": 0.150023,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -3.6403,
+      "prior_variance": 0.143577,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -6.0399,
+      "prior_variance": 0.172965,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.8657,
+      "prior_variance": 0.18887,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -4.5616,
+      "prior_variance": 0.160065,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -5.9312,
+      "prior_variance": 0.16391,
+      "prior_n": 9
+    }
+  ]
+}

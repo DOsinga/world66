@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.7928
 longitude: -1.7556
+score: 7.0
 ---
 
 Impressions is one of the longest-running dedicated photography galleries in Britain — founded in York in 1972 and relocated to Bradford's Centenary Square in 2007. The programme runs four or five major exhibitions a year, normally focused on contemporary documentary, conceptual and political photography, and the gallery acts as a regional hub for the broader UK photography scene.

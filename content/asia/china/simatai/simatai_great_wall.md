@@ -12,6 +12,7 @@ story: >
   watchtowers glow against the black mountain ridges, it is one of the more
   genuinely spectacular things you can see in the country — and one that
   almost no visitor to China knows about.
+score: 9.1
 ---
 
 The Simatai section of the Great Wall is steep, dramatic, and largely original — not the polished reconstruction that tourists see at Badaling. The wall here clings to knife-edge ridges, with some watchtowers tilting at precarious angles after centuries of neglect and earthquake damage. The climb from the entrance is demanding: the stone steps are uneven and the grade on the upper sections is genuinely steep, with some passages requiring hands as well as feet.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.7784
 longitude: -78.6352
+score: 6.4
 ---
 
 Marbles Kids Museum, in the heart of downtown Raleigh near Moore Square, is one of the best children's museums in the Southeast. The exhibits are genuinely interactive rather than merely hands-on: children can run a grocery store, work as a firefighter or construction worker, tend a garden, work in a veterinary clinic, and operate a television studio. The eco lab teaches recycling and environmental science through play.

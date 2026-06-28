@@ -8,6 +8,7 @@ tags:
 title: Hull Marina
 type: poi
 snippet: "270-berth marina in the former Humber Dock and Railway Dock, ringed by restaurants and bars"
+score: 7.0
 ---
 
 Hull Marina occupies the basins of the old Humber Dock and Railway Dock, both built in the early 19th century to serve the booming Baltic trade. When containerisation killed the small docks in the 1970s, the city kept the basins, filled them with pleasure craft, and built bars and restaurants around the edge. The result is the busiest social patch in the city outside the Old Town.

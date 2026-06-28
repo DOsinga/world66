@@ -8,6 +8,7 @@ tags:
 latitude: 32.1716
 longitude: 13.021
 story: The Nafusa Mountains form a limestone escarpment that runs east-west for nearly 200 kilometres, rising abruptly from the flat Jefara plain. At Gharyan the escarpment reaches about 900 metres, and on clear days the view from the town's edge extends northward all the way to the coastal haze near Tripoli.
+score: 6.9
 ---
 
 The hills around Gharyan offer the most accessible mountain scenery in western Libya. The town sits at the eastern end of the Nafusa escarpment, and the roads leading out of town wind through terraced olive groves, fig orchards, and rocky outcrops with views over the plain below.

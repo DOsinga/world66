@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - monument
+score: 6.8
 ---
 
 The bronze equestrian statue of Gjergj Kastrioti, better known as Skanderbeg, stands at the heart of the square that bears his name. Skanderbeg led an Albanian resistance against Ottoman expansion for twenty-five years in the fifteenth century and remains the most revered figure in Albanian national identity.

@@ -8,6 +8,7 @@ title: Giant Springs State Park
 type: poi
 snippet: "One of the largest freshwater springs in the country, flowing into the Missouri at 156 million gallons a day"
 story: "The Roe River, which leaves the springs and runs 201 feet into the Missouri, was once entered in the Guinness records as the world's shortest river — Great Falls schoolchildren campaigned for the title."
+score: 7.7
 ---
 
 The spring discharges nearly 156 million gallons of water a day at a constant 54°F, welling up through limestone right at the edge of the Missouri. Lewis and Clark stopped here on 18 June 1805 and Clark sketched it in his journal. Today the spring is the centrepiece of a state park with a fish hatchery, picnic area, and easy paved paths along the river.

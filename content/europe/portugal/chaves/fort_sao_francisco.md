@@ -8,6 +8,7 @@ tags:
 latitude: 41.7431
 longitude: -7.4692
 story: "The fort was constructed in the 17th century after the Restoration War, when Portugal reclaimed independence from Spain. Its star-shaped Vauban-style design was a deliberate response to developments in artillery — the angled bastions were engineered to eliminate blind spots and deflect cannon fire. Chaves's position 12 km from Spain made such fortifications urgent."
+score: 6.2
 ---
 
 Fort São Francisco — properly known as the Forte Nossa Senhora do Rosário — is a 17th-century star fort built to defend Chaves after Portugal regained independence from Spain in 1640. The fort's angular bastion design is a good example of the military architecture that was transforming European fortification theory at the time.

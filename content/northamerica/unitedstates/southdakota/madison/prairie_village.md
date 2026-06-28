@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 44.0222
 longitude: -97.1350
+score: 7.8
 ---
 
 Prairie Village is an open-air museum on the north shore of Lake Herman that preserves more than 40 historic buildings from the Dakota Territory era, relocated from across the region and reassembled into a walkable "village." The collection includes a country church, a general store, a schoolhouse, a railroad depot, and assorted farm buildings, all furnished with period equipment and artifacts.

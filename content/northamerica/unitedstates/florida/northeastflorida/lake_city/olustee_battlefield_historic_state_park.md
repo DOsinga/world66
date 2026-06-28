@@ -10,6 +10,7 @@ latitude: 30.1938
 longitude: -82.3696
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Olustee
+score: 7.0
 ---
 
 The Battle of Olustee, fought on February 20, 1864, was the largest Civil War engagement in Florida. Union forces pushed inland from Jacksonville hoping to cut Confederate supply lines and recruit freed Black soldiers; the Confederate army met them here and drove them back in a fight that left nearly 3,000 men killed, wounded, or captured. The Union advance into Florida never recovered.

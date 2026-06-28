@@ -8,6 +8,7 @@ longitude: -0.5445
 tags:
 - things_to_do
 - park
+score: 6.5
 ---
 
 Angers' botanical garden sits within easy walking distance of the city centre and is one of the better-maintained public gardens in the Loire Valley. The four hectares include formal flower beds, a rockery, greenhouses with tropical plants, and a section of rare and medicinal plants maintained in association with the University of Angers pharmacy faculty.

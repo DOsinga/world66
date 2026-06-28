@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.3331
 longitude: 69.2789
+score: 6.4
 ---
 
 A distinctive 1976 Soviet circus building, shaped like a flying saucer set on a low plinth. The architecture is genuinely striking — concrete arches radiating from a central dome — and the place still hosts traditional circus performances, with acrobats, clowns, and trained animals.

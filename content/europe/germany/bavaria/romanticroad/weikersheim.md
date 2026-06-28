@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Weiker
 latitude: 49.480646
 loc_type: city
 longitude: 9.897678
-score: 0.51
+score: 7.93
+snippet: Small Tauber River town on the Romantic Road, centred on Schloss Weikersheim
+  and its baroque garden.
 title: Weikersheim
 type: location
 ---

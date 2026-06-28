@@ -5,7 +5,9 @@ done:
 latitude: 42.409632
 loc_type: city
 longitude: -4.6161
-score: 0.5
+score: 7.21
+snippet: Quiet Castilian provincial capital, known for La Bella Desconocida cathedral
+  and Romanesque countryside nearby
 title: Palencia
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.9425
 longitude: 77.1058
+score: 7.9
 ---
 
 In the village of Bajaura on the southern edge of Kullu town stands one of the finest stone temples in the Western Himalayas. Built sometime between the 8th and 10th centuries in the North Indian Nagara style, the Basheshwar Mahadev temple is dedicated to Shiva and is covered in detailed sculpture: dancing figures, river goddesses, scenes from Hindu mythology.

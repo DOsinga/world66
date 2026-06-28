@@ -6,6 +6,7 @@ longitude: 40.5225
 tags:
   - things_to_do
   - sight
+score: 2.8
 ---
 
 Pemba International Airport (POL) sits about six kilometres south of the city centre, a small terminal that handles a handful of flights a day. LAM Mozambique runs the main domestic services from Maputo and Nampula; in calm years there have also been regional flights to Dar es Salaam and Johannesburg.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6975
 longitude: 117.0297
+score: 5.6
 ---
 
 The Shandong Museum of Science and Technology in the northern civic district is Jinan's main interactive science museum, with hands-on exhibits covering physics, chemistry, natural science, and space exploration. The exhibits are aimed primarily at school-age children but are engaging enough for adults who haven't seen good science education displays. The space section has reproductions of Chinese rocket hardware and exploration milestones.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.825
 longitude: -111.1797
+score: 5.6
 ---
 
 About a mile northwest of Tetonia lies what is left of Haden, a Mormon farming settlement founded in the 1890s and gradually abandoned through the twentieth century as families consolidated into the larger towns of the valley. There is not much to see — a collapsed barn or two, the foundations of a schoolhouse, scattered fence posts — but the setting, with the Tetons rising behind the ruins, has a melancholy beauty.

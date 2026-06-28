@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 34.6757
 longitude: 135.8300
+score: 8.4
 ---
 
 Naramachi is the old merchant quarter of Nara, south of Kofuku-ji, where the narrow streets and machiya townhouses of the Edo period survive largely intact. The machiya are the traditional wooden merchant houses with deep, narrow facades and long interior spaces stretching back from the street; many have been converted into cafes, craft shops, and small museums without losing their original character.

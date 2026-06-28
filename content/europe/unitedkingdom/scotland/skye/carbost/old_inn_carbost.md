@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 57.3015
 longitude: -6.3525
+score: 6.9
 ---
 
 The pub in Carbost — the only one. A converted old building facing the loch, with Talisker on the bar alongside a good selection of other island and mainland malts. Basic pub food, fire in the hearth in the evenings, and a crowd of walkers, climbers, and distillery visitors. No pretension, strong pours, and the Black Cuillin visible from the beer garden on clear days.

@@ -10,6 +10,7 @@ tags:
   - sommerschield
   - bar
 neighbourhood: Sommerschield
+score: 5.8
 ---
 
 The **Gin House** is the city's most serious cocktail bar — a converted villa in upper Polana / lower Sommerschield with a long list of gins, a knowledgeable bar team and a quiet outdoor patio for cooler evenings. The menu favours a botanical, low-fuss style; the Negronis are particularly well made and the bar imports a couple of South African gins that are hard to find elsewhere in the city.

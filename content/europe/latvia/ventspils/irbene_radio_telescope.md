@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "RT-32 was built in the 1960s as a Soviet space-intelligence post — its job was to intercept American satellite signals from a remote forest near the Latvian coast. When the Russian troops left in 1994 they reportedly tried to pour acid into the bearings to disable it; Latvian astronomers got there in time, restored it, and turned it into a working radio observatory."
+score: 8.0
 ---
 
 A 32-metre-diameter parabolic radio telescope hidden deep in the pine forest about 30 km north of Ventspils — one of the largest in northern Europe and a piece of pure Cold War legacy. Built secretly in the 1960s as a Soviet electronic-intelligence facility, it was abandoned in 1994 and rescued by the Latvian academic community, which converted it into the Ventspils International Radio Astronomy Centre (VIRAC).

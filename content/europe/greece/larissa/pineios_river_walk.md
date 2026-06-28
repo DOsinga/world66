@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6383
 longitude: 22.4161
+score: 6.0
 ---
 
 The Pineios River forms the northern boundary of central Larissa and its banks have been developed into an attractive park and promenade. The riverside walk stretches several kilometres along shaded paths beneath plane trees and willows, with the pale limestone bluffs of the city rising on one side and the flat agricultural plain on the other. Early mornings and evenings it fills with joggers, dog walkers, and families.

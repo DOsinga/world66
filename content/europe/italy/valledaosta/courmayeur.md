@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:CourmayeurAug052024_01.jpg
 latitude: 45.787425
 loc_type: city
 longitude: 6.973062
-score: 0.67
+score: 8.81
+snippet: Italian Alpine resort below Mont Blanc, prized for glacier descents and Skyway
+  Monte Bianco views.
 sources:
 - https://en.wikipedia.org/wiki/Courmayeur
 title: Courmayeur

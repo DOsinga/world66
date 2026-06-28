@@ -8,6 +8,7 @@ title: Alappuzha Backwater Cruise
 type: poi
 story: >
   The public ferry between Kollam and Alappuzha has run for generations. Unlike the private houseboats that clog parts of the upper backwaters, this state ferry carries locals with their baskets and bags alongside tourists, stopping at small jetties where women board with fish and children wave from the banks.
+score: 9.0
 ---
 
 The eight-hour public ferry from Kollam to [Alappuzha](/asia/india/kerala/alappuzha) is the most celebrated boat journey in Kerala, and one of the most beautiful in India. The ferry leaves the KSWTD terminal at 10:30am daily, winding north through an intricate network of canals, palm-shaded waterways, and open lakes.

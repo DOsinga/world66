@@ -14,6 +14,7 @@ story: >
   orientation — running east-west rather than north-south — allows cold Pacific
   air to funnel in from the ocean every afternoon, creating growing conditions
   that produce Pinot Noir and Chardonnay with a distinctive minerality.
+score: 7.8
 ---
 
 The Foxen Canyon Wine Trail winds through rolling hills north of Santa Maria, passing dozens of small wineries and tasting rooms in one of California's most distinctive wine-growing regions. The valley floor is planted predominantly with Pinot Noir and Chardonnay, with some Syrah on the hillsides — the cool maritime climate and marine sedimentary soils produce wines unlike anything grown in warmer California regions.

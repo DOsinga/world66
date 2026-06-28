@@ -7,6 +7,7 @@ tags:
 latitude: 9.595
 longitude: 76.42
 story: "The snake boats — chundan vallam — descend from war boats developed in the sixteenth century by the Raja of Chembakassery to fight Portuguese expeditions on the backwaters. They can be over 30 metres long, with crews of more than a hundred rowers, and are still owned by individual villages that race them with fierce competitive pride."
+score: 6.8
 ---
 
 The vallam kali — snake boat races — are the great event of the Kerala backwater year. The boats are enormous, narrow, low-prowed war canoes, paddled by crews of around a hundred men in unison to a chanted song. Kumarakom hosts its own race in August or September around the Onam festival; the nearby Nehru Trophy race at Punnamada Lake (Alappuzha) on the second Saturday of August is the most famous.

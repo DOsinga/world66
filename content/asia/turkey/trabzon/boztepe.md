@@ -10,6 +10,7 @@ story: >
   Boztepe's tea gardens were established in the early 20th century when the Ottoman government began experimenting with tea cultivation on the Black Sea coast. The region had exactly the right combination of rainfall, humidity, and mild winters, and the experiment succeeded beyond all expectations. Today Turkey is one of the world's largest tea consumers and producers, and the hillsides above Trabzon are the heart of the industry.
 sources:
   - https://en.wikipedia.org/wiki/Boztepe
+score: 7.8
 ---
 
 Boztepe is a hilltop district above the city centre, reached by a short cable car ride or a steep walk, that provides the best panoramic views over Trabzon and the Black Sea. Tea gardens scatter across the hillside — simple places with plastic chairs and a spectacular view where Trabzon residents come in the evenings to drink tea, eat roasted corn, and watch the sun set over the water.

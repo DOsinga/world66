@@ -11,6 +11,7 @@ tags:
 - nature
 title: Playa Rincón
 type: poi
+score: 8.7
 ---
 
 The headline beach of the peninsula stretches for three kilometres in a wide curve beneath green cliffs at the far eastern end of the Samaná Peninsula. Coconut palms line the back of the sand, the water is shallow and a bright Caribbean blue, and at the western end a small river runs down across the beach to the sea.

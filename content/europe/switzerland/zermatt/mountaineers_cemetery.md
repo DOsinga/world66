@@ -13,6 +13,7 @@ story: >
   the glacier." The most visited grave is that of Michel Croz, the French guide
   who died in the first ascent of the Matterhorn in 1865. Whymper, the
   surviving British climber, tended his grave until Whymper's own death in 1911.
+score: 7.8
 ---
 
 The Mountaineers' Cemetery is tucked behind the Catholic Church of St. Mauritius in the centre of Zermatt — a small walled enclosure containing the graves of climbers who have died on the surrounding peaks over 150 years. Each headstone tells a short story of an alpine ambition that ended badly.

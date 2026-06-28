@@ -11,6 +11,7 @@ tags:
 - museum
 title: Musikmuseum
 type: poi
+score: 7.5
 ---
 
 Part of the Historisches Museum Basel, displaying the largest collection of historic musical instruments in Switzerland in a restored 13th-century monastery in the old town. The collection ranges from Renaissance lutes to 20th-century mechanical music machines. Audio guides let you hear many of the instruments played.

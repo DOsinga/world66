@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.4733
 longitude: 100.2402
+score: 5.6
 ---
 
 Maqin is the county seat of Maqin County in Golog Prefecture and the practical gateway to Amnye Machen, about 20 kilometres from the mountain's base. It is a small town on a wide plateau valley, a mixture of Tibetan and Han populations, with the characteristic low concrete buildings of a modern county seat offset by the prayer flags and monastery walls that give it a distinctly Amdo character.

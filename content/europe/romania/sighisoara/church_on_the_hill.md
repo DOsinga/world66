@@ -15,6 +15,7 @@ story: >
   families appear generation after generation, right up until they were expelled
   or fled in the late 20th century.
 type: poi
+score: 8.5
 ---
 
 The Church on the Hill (Bergkirche in German, Biserica din Deal in Romanian) is a 14th-century Gothic church at the top of the citadel, reached by the covered wooden staircase of 175 steps that climbs the hillside from the lower town. The church belongs to the German Lutheran community that built much of Sighisoara, and the interior is simple and austere in the Protestant manner — Gothic vaulting above, plain whitewashed walls, old wooden pews.

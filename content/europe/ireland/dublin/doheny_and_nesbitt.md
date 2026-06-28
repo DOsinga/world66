@@ -4,11 +4,13 @@ latitude: 53.334228
 longitude: -6.248673
 opening_hours: Mon–Thu 10:30–23:30, Fri–Sat 10:30–00:30, Sun 12:00–23:00
 phone: +353 1 676 2945
+score: 6.5
 snippet: Old-school Baggot Street pub beloved by politicians and civil servants
 tags:
 - bars_and_cafes
 - bar
 - pub
+- georgian_dublin
 title: Doheny & Nesbitt
 type: poi
 ---

@@ -12,6 +12,7 @@ story: >
   to perform in the city's outdoor venues and theatres. It has been credited with
   transforming Kalamata's international profile and putting it on the cultural map well
   beyond its role as a regional transport hub.
+score: 7.8
 ---
 
 The Kalamata International Dance Festival runs for about 10 days every July and attracts some of the most interesting contemporary dance companies working anywhere in the world. Performances take place in the castle, in outdoor squares, and in the dedicated Dance Megaron venue on the seafront, which opened in 2009. The Megaron is a striking piece of modern architecture on the waterfront, designed specifically for dance performances and film screenings related to the festival.

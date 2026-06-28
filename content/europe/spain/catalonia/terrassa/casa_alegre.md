@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.7
 ---
 
 Casa Alegre de Sagrera is one of Terrassa's most rewarding modernisme interiors, a former textile-magnate's townhouse turned into a small but excellent museum. The building was designed by Lluís Muncunill in 1911 and the family that lived here filled it with an extraordinary mix of late-19th and early-20th-century decorative arts — silver, ceramics, glass, oriental objects, period furniture and Catalan modernista lighting.

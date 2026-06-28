@@ -5,7 +5,9 @@ done:
 latitude: 27.000697
 loc_type: city
 longitude: 49.653216
-score: 0.25
+score: 4.67
+snippet: Planned Arabian Gulf industrial city built from a fishing village into a
+  vast petrochemical hub
 sources:
 - https://en.wikipedia.org/wiki/Jubail
 - https://en.wikipedia.org/wiki/Jubail_Church

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6600
 longitude: 116.9950
+score: 6.9
 ---
 
 The stretch of Laojin Road near the old city wall has developed into one of Jinan's most reliable concentrations of cheap and good local eating, with restaurants serving the full range of Shandong home-cooking styles: braised fish, steamed buns, congee, noodle dishes, and grilled meats. Most of the establishments are small, family-run, and open until late.

@@ -9,6 +9,7 @@ tags:
 - bar
 title: Bear Pond Espresso
 type: poi
+score: 6.9
 ---
 
 Bear Pond Espresso in Shimokitazawa is one of the most talked-about coffee bars in Japan — a tiny, idiosyncratic shop where the owner Katsuyuki Tanaka serves his Angel Stain espresso with a precision and devotion that verges on the religious. The espresso is extraordinary: dense, sweet, with no bitterness. The shop closes when the supply runs out (usually mid-afternoon).

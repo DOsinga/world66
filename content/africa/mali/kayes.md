@@ -4,7 +4,9 @@ done:
 latitude: 14.4469
 loc_type: city
 longitude: -11.4445
-score: 0.23
+score: 4.93
+snippet: Western Malian river city known for fierce dry-season heat and French Sudan
+  railway history.
 title: Kayes
 type: location
 ---

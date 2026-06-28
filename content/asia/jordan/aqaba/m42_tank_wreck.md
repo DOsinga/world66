@@ -7,6 +7,7 @@ snippet: "American anti-aircraft tank deliberately sunk as a dive attraction"
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 An American-made M42 Duster — a Cold-War-era self-propelled anti-aircraft gun — sits upright on the sand in 7 metres of water off the Marine Park coast, deliberately sunk by the Jordanian armed forces in 1999 as a dive attraction and artificial reef. The tank is intact: turret, twin barrels, and tracks are all in place; the hull has been encrusted with hard corals and small fish over the years.

@@ -1,200 +1,200 @@
 {
   "round": 968,
-  "timestamp": "2026-04-12T16:09:46",
+  "timestamp": "2026-06-13T20:03:39",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bora Bora",
-      "path": "australiaandpacific/frenchpolynesia/borabora",
-      "prior_rank": 233,
-      "prior_wins": 95,
-      "prior_n": 5
+      "title": "Les Saintes",
+      "path": "northamerica/thecaribbean/guadeloupe/lessaintes",
+      "prior_score": 8.2489,
+      "prior_variance": 0.449013,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 644,
-      "prior_n": 28
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/north_island/northland/te_paki_stream",
+      "prior_score": 3.4332,
+      "prior_variance": 0.639822,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Fiordland",
-      "path": "australiaandpacific/newzealand/otago/fiordland",
-      "prior_rank": 239,
-      "prior_wins": 87,
-      "prior_n": 4
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 4.0372,
+      "prior_variance": 0.535327,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Cappadocia",
-      "path": "asia/turkey/cappadocia",
-      "prior_rank": 462,
-      "prior_wins": 84,
-      "prior_n": 4
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.0646,
+      "prior_variance": 0.345311,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Kabelv\u00e5g",
-      "path": "europe/norway/lofotenislands/kabelvg",
-      "prior_rank": 1238,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Andasibe",
+      "path": "africa/madagascar/andasibe",
+      "prior_score": 1.5113,
+      "prior_variance": 0.72822,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Smoky Mountains",
-      "path": "northamerica/unitedstates/tennessee/smokymountains",
-      "prior_rank": 616,
-      "prior_wins": 62,
-      "prior_n": 3
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 4.5366,
+      "prior_variance": 0.638194,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Otavalo Imbabura",
-      "path": "southamerica/ecuador/otavaloimbabura",
-      "prior_rank": 1362,
-      "prior_wins": 55,
+      "title": "San Felice Circeo",
+      "path": "europe/italy/lazio/san_felice_circeo",
+      "prior_score": 3.7977,
+      "prior_variance": 0.421238,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Kaohsiung",
-      "path": "asia/taiwan/kaohsiung",
-      "prior_rank": 3072,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 1.2283,
+      "prior_variance": 0.566322,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Bregenz",
-      "path": "europe/austria/bregenz",
-      "prior_rank": 3080,
-      "prior_wins": 28,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 6.4354,
+      "prior_variance": 0.649619,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Ipoh",
-      "path": "asia/malaysia/ipoh",
-      "prior_rank": 3359,
-      "prior_wins": 40,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 2.0583,
+      "prior_variance": 0.419852,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Niagara Frontier",
-      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
-      "prior_rank": 348,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.2325,
+      "prior_variance": 0.519098,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Oudeschild",
-      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
-      "prior_rank": 3650,
-      "prior_wins": 87,
-      "prior_n": 7
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 2.3162,
+      "prior_variance": 0.702516,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "The Coast",
-      "path": "northamerica/unitedstates/newhampshire/thecoast",
-      "prior_rank": 4441,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 2.9591,
+      "prior_variance": 0.430449,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Sudbury",
-      "path": "northamerica/canada/ontario/sudbury",
-      "prior_rank": 6696,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.7141,
+      "prior_variance": 0.755813,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Petrozavodsk",
-      "path": "europe/russia/karelia/petrozavodsk",
-      "prior_rank": 4115,
-      "prior_wins": 34,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.7277,
+      "prior_variance": 0.510435,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Chico",
-      "path": "northamerica/unitedstates/california/chico",
-      "prior_rank": 5260,
-      "prior_wins": 25,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": -2.0454,
+      "prior_variance": 1.085324,
       "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Soroca",
-      "path": "europe/moldova/soroca",
-      "prior_rank": 6265,
-      "prior_wins": 37,
-      "prior_n": 7
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 0.4118,
+      "prior_variance": 0.519154,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Damak",
-      "path": "asia/nepal/birtamode/damak",
-      "prior_rank": 7260,
-      "prior_wins": 3,
-      "prior_n": 1
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": -0.2076,
+      "prior_variance": 0.52629,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Depok",
-      "path": "asia/indonesia/java/depok",
-      "prior_rank": 6786,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.1306,
+      "prior_variance": 0.479378,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Anantapur",
-      "path": "asia/india/andhrapradesh/ananthapur",
-      "prior_rank": 7358,
-      "prior_wins": 6,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": 0.2086,
+      "prior_variance": 0.592738,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Delaware County",
-      "path": "northamerica/unitedstates/pennsylvania/delawarecounty",
-      "prior_rank": 6028,
-      "prior_wins": 13,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -2.6642,
+      "prior_variance": 0.827421,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Melville",
-      "path": "africa/southafrica/johannesburg/melville",
-      "prior_rank": 6461,
-      "prior_wins": 16,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": 0.2877,
+      "prior_variance": 0.421317,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "m sila",
-      "path": "africa/algeria/m_sila",
-      "prior_rank": 7741,
-      "prior_wins": 4,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -3.5295,
+      "prior_variance": 0.612454,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Santan\u00ed",
-      "path": "southamerica/paraguay/santan",
-      "prior_rank": 7863,
-      "prior_wins": 3,
-      "prior_n": 2
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -1.5816,
+      "prior_variance": 0.454041,
+      "prior_n": 3
     }
   ]
 }

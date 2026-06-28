@@ -13,6 +13,7 @@ story: >
   Engineers solved this by building the road out over the water instead, anchoring it
   to the rock face with a cantilevered structure. The solution has become more famous
   than the problem it solved.
+score: 8.2
 ---
 
 The Sea Cliff Bridge is one of Australia's most scenic drives and walks — a 665-metre cantilevered structure that hugs the Pacific coastline between Clifton and Coalcliff, about 20 kilometres north of Wollongong. The bridge was completed in 2005 and replaced a stretch of coastal road that repeatedly succumbed to cliff erosion.

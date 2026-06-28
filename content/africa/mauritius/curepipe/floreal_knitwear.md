@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: -20.308
 longitude: 57.5107
+score: 5.7
 ---
 
 Floreal Knitwear, based in the suburb of Floreal just west of Curepipe, is one of Mauritius's best-known manufacturing brands. The factory outlet sells quality wool and cotton knitwear — sweaters, cardigans, pullovers, scarves — at prices considerably lower than the same items fetch in resort boutiques around the island. The brand has been operating since 1949 and its products are exported across Europe and the Indian Ocean region.

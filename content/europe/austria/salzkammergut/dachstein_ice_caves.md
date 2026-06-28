@@ -13,6 +13,7 @@ story: >
   the longest in Austria. The name refers not to frozen mammoths but to the
   cave's enormous scale; the early explorers were given to Viennese theatrical
   naming.
+score: 7.7
 ---
 
 The Dachstein Ice Caves are a network of chambers on the northeast side of the Dachstein massif, accessible from the cable car station at Schönbergalm (1,350 m) above Obertraun on the Hallstätter See. The ice formations inside — stalactites, columns, and great frozen lakes that have built up over centuries — are the result of cold air flowing in from the mountain above and trapping moisture that freezes and accumulates year by year.

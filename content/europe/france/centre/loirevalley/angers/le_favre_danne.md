@@ -10,6 +10,7 @@ tags:
 - restaurant
 - fine_dining
 - french
+score: 5.8
 ---
 
 Pascal Favre d'Anne's two-starred restaurant sits on the quai overlooking the Maine River, a short walk from the château. The cooking is rooted in Loire Valley products — local fish, game, foie gras, and the cheeses and wines of Anjou — presented with precision and without the self-consciousness that often accompanies restaurants at this level.

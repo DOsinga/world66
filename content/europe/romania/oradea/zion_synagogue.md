@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: Restored 19th-century Moorish-style synagogue on the riverbank
+score: 8.1
 ---
 
 The Sinagoga Sion is the largest of Oradea's former synagogues and a reminder that, before the Holocaust, around a third of the city's population was Jewish. Built in 1878 in the then-fashionable Moorish Revival style, with a central dome flanked by twin minarets, it served the Neolog (reformed) community that dominated Oradea's professional and commercial life.

@@ -9,6 +9,7 @@ tags:
 latitude: -9.4281
 longitude: 160.0547
 story: "The airfield was named for Major Lofton Henderson, the first Marine aviator killed at the Battle of Midway. The Japanese had nearly finished building it when the US Marines landed on 7 August 1942 and seized the half-completed runway the next day — and the entire campaign for the next six months became a fight over who would hold it."
+score: 8.7
 ---
 
 Now Honiara International Airport, Henderson Field is the single most important piece of ground on the island. The Japanese began the airstrip in mid-1942 to threaten Allied supply lines to Australia. The Marines who landed at nearby Red Beach took it intact two days later, and the runway became the magnet around which the whole Guadalcanal campaign turned: every land battle, naval engagement, and air raid for half a year happened because one side or the other wanted Henderson Field.

@@ -12,6 +12,7 @@ story: >
   predictable winds, and dramatic terrain made it one of the best places
   in the world to fly. On busy mornings now, more than a hundred balloons
   lift off in a single hour.
+score: 8.2
 ---
 
 The hot air balloon flights over Cappadocia are most often launched from the Göreme valley but pass directly over Uçhisar in the right wind. Booking from your Uçhisar cave hotel is straightforward and the ride is undeniably spectacular: a slow drift at dawn over fairy chimneys, ancient churches carved into rock, and orchards beginning to glow gold.

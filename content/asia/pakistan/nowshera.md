@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-28'
+image: nowshera.jpg
+image_attribution: franek2
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:British_era_building_in_Nowshera_-_panoramio.jpg
 latitude: 34.015561
 loc_type: city
 longitude: 71.981283
-score: 0.23
+score: 4.88
+snippet: Khyber Pakhtunkhwa garrison town on the Kabul River, shaped by cantonment
+  history and Sufi shrines
 title: Nowshera
 type: location
-image: nowshera.jpg
-image_source: https://commons.wikimedia.org/wiki/File:British_era_building_in_Nowshera_-_panoramio.jpg
-image_license: CC BY-SA 3.0
-image_attribution: franek2
 ---
 
 Nowshera is a garrison town on the Kabul river in Khyber Pakhtunkhwa, about 40 km east of Peshawar. It was established by the British in the 19th century as a cantonment along the strategic road to the Khyber Pass, and it still functions primarily as the headquarters of a Pakistan Army division. For most travellers it is a place passed through on the N-5 highway between Peshawar and Islamabad rather than a destination in its own right.

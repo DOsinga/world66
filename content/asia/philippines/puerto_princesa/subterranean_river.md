@@ -15,6 +15,7 @@ tags:
 - nature
 title: Puerto Princesa Subterranean River National Park
 type: poi
+score: 9.7
 ---
 
 The Puerto Princesa Subterranean River is the longest navigable underground river in the world, running 8.2 km beneath the karst limestone mountains of the Saint Paul Mountain Range before emptying directly into the South China Sea. The river has been a UNESCO World Heritage Site since 1999 and was named one of the New Seven Wonders of Nature in 2011.

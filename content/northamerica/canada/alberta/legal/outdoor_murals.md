@@ -12,6 +12,7 @@ tags:
 - sight
 title: Outdoor Mural Program
 type: poi
+score: 8.3
 ---
 
 Legal's outdoor murals are the reason most visitors stop here. More than thirty large-scale paintings cover the exterior walls of buildings throughout the small downtown, depicting the area's French-Canadian and Métis heritage. The subjects range from early settler families arriving by wagon to scenes of fur-trade-era life to portraits of the community founders. The art ranges in quality but the sheer density — almost every commercial building has one — makes the whole town feel like an open-air gallery.

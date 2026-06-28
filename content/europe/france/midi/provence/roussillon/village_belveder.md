@@ -6,6 +6,7 @@ tags:
 - sight
 title: Village and Belvédère
 type: poi
+score: 8.1
 ---
 
 The village of Roussillon is itself worth exploring beyond the ochre trail. The buildings are constructed from and coloured by the local ochre — the effect of an entire village glowing in shades of gold, orange, and deep rust is genuinely striking, and it shifts through the day as the light changes. The streets climb steeply through the village to a belvédère viewpoint at the top, which gives a wide view over the Luberon plateau and the surrounding landscape of lavender fields, vineyards, and forest.

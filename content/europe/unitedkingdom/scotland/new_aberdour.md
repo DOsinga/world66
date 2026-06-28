@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:New_Aberdour_Beach_-_geogr
 latitude: 57.658793
 loc_type: city
 longitude: -2.195062
-score: 0.33
+score: 6.13
+snippet: Aberdeenshire coastal village with a sheltered beach, red sandstone cliffs,
+  and Dundarg Castle ruins.
 title: New Aberdour
 type: location
 ---

@@ -13,6 +13,7 @@ story: >
   Bengal tiger cub named Mohan here — the ancestor of most white tigers
   in captivity around the world today. White tigers no longer occur
   naturally in the park.
+score: 9.4
 ---
 
 The safaris at Bandhavgarh run in open jeeps into three core zones: Tala, Magadhi, and Khitauli. Morning drives start before dawn and run for about three hours; afternoon drives follow in the cooler part of the day. The Tala zone, where the Bandhavgarh fort rises above the tree line, has historically been the most productive for tiger sightings — particularly at the meadows of Chakradhara and Rajbhera, where tigers often rest in the open in the early morning.

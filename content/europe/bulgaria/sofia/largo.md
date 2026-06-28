@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The architectural ensemble of three Socialist Classicism buildings around Independence Square, built in the early 1950s when Sofia's centre was rebuilt after wartime bombing. The buildings — formerly the Party House, the Council of Ministers, and the Ministry of Education — were designed to project Communist authority and now house the National Assembly, the Presidency, and Sofia Hotel Balkan.

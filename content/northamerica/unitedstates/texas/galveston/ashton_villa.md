@@ -14,6 +14,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ashton_Villa
 story: >
   Ashton Villa's Gold Room — an Italianate parlour with gilded mirrors, silk wallpaper, and ornate furnishings — was where Juneteenth was first officially announced. On June 19, 1865, Union General Gordon Granger stood on the steps and read General Order No. 3, informing the enslaved people of Texas that they were free. The date became the national holiday Juneteenth, and Galveston's role in the announcement is a cornerstone of that history.
+score: 7.0
 ---
 
 Ashton Villa, at the corner of Broadway and 24th Street, is an 1859 Italianate mansion built for hardware merchant James Moreau Brown — one of the oldest surviving brick structures in Texas and the first to have been built on Broadway. It survived both the Civil War (as a Union headquarters) and the 1900 hurricane and has been restored as a house museum by the Galveston Historical Foundation.

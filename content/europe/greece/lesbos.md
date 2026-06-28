@@ -8,6 +8,8 @@ latitude: 39.175842
 loc_type: region
 longitude: 25.998914
 score: 0.62
+snippet: Large Greek island near Turkey, with volcanic landscapes, olive groves, thermal
+  springs, and links to Sappho.
 title: Lesbos
 type: location
 ---

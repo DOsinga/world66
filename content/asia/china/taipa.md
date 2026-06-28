@@ -5,7 +5,9 @@ done:
 latitude: 22.152726
 loc_type: city
 longitude: 113.558394
-score: 0.57
+score: 7.2
+snippet: Macau island district where Portuguese village lanes sit near the casino
+  towers of Cotai.
 title: Taipa
 type: location
 ---

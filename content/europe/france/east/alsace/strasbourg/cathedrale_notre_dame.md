@@ -9,6 +9,7 @@ longitude: 7.7508
 snippet: "Gothic cathedral with the world's oldest astronomical clock and 142m sandstone spire"
 story: >
   From its completion in 1439 until 1874, the Strasbourg cathedral was the tallest building in the world — 142 metres of pink Vosges sandstone that held this record for 435 years. The single spire was never joined by a second one because money ran out, an asymmetry that makes the cathedral even more striking.
+score: 9.5
 ---
 
 The Notre-Dame de Strasbourg is one of the great Gothic cathedrals of Europe, built over three centuries in pink Vosges sandstone that glows a distinctive rose colour in the afternoon sun. Construction began in 1015 and the famous spire was finally completed in 1439, making it the world's tallest structure for over four centuries.

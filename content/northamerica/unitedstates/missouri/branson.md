@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Branson_Missouri.
 latitude: 36.6123
 loc_type: city
 longitude: -93.2918
+score: 6.99
+snippet: Ozarks resort town of live shows, lake weekends, and neon along Highway 76.
 sources:
 - https://www.bransonmo.gov/316/Tourism-Activities-Attractions
 - https://en.wikipedia.org/wiki/Branson,_Missouri

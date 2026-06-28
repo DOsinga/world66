@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.9355
 longitude: 121.0573
+score: 7.8
 ---
 
 The official Banaue Viewpoint sits four kilometres north of the town centre, at the top of a switchback road at about 1,360 metres. From here you see the classic curve of the Banaue terraces sweeping up the opposite mountainside — the view that appears on Filipino banknotes and tourism posters. It is on most coach tours, which means it can get crowded between 9 a.m. and 11 a.m.; come early or late.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.9
 ---
 
 Sofia's biggest and oldest produce market — a long open-air street of stalls running for several blocks north of the centre. Tomatoes, peppers, peaches, cucumbers, walnuts, cheese, honey, herbs, and the year's preserves; in winter, mountains of pickled cabbages and barrels of sauerkraut.

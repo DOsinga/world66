@@ -8,6 +8,7 @@ tags:
 latitude: 23.4087
 longitude: 88.3658
 story: "The traditional Parikrama is a 90-kilometre circumambulation of the *nava-dwipa* — the nine sacred islands — said to have been laid out by Chaitanya himself. Pilgrims walking the route during Gaura Purnima carry brass *jhulas* (rocking cradles) and rest in temporary tent camps along the way."
+score: 8.1
 ---
 
 The traditional pilgrim circuit around the nine islands of Nabadwip is walked formally only at Gaura Purnima in February or March, when thousands of devotees set out in groups led by *kirtan* parties. Most of the year, individual pilgrims walk shorter segments — the inner town parikrama is a comfortable half-day on foot.

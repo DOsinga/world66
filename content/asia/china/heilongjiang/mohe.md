@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Overlook_of_Mohe,_Aug_2019
 latitude: 53.4772
 loc_type: city
 longitude: 122.5247
+score: 6.82
+snippet: China's northernmost city, defined by Arctic winters, long summer light,
+  and the Russian border.
 title: Mohe
 type: location
 ---

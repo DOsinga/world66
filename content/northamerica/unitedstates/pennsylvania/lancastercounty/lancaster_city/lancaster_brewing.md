@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.0420
 longitude: -76.2974
+score: 5.4
 ---
 
 Lancaster Brewing has been making beer in the city since the early 1990s, and the brewery taproom is a 10-minute walk northeast of Penn Square on Plum Street. The lineup runs from a soft Milk Stout — their flagship — to seasonal IPAs and lagers. Pub food is straightforward and decent.

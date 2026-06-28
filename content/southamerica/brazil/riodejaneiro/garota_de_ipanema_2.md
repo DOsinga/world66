@@ -3,10 +3,12 @@ address: Rua Vinicius de Moraes 53, Ipanema
 latitude: -22.98514
 longitude: -43.202975
 phone: (21)2521-3168
-snippet: "Brazilian beachwear and bikinis in the heart of Ipanema"
+score: 4.2
+snippet: Brazilian beachwear and bikinis in the heart of Ipanema
 tags:
 - shopping
 - shop
+- ipanema
 title: Garota de Ipanema
 type: poi
 url: www.lojagarotadeipanema.com.br

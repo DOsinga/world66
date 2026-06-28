@@ -7,6 +7,7 @@ tags:
 latitude: 41.8057
 longitude: -6.7573
 story: "The masks in this museum belong to the Carnival tradition of Trás-os-Montes, where villages elect a 'careto' — a young man who dons a frightening mask of hammered tin or leather — to represent the chaos of the wild world. The tradition is ancient, pre-Christian in origin, and still practiced in villages like Podence and Lazarim every February."
+score: 7.6
 ---
 
 The Iberian Museum of Masks and Costumes occupies a handsome building in Bragança and holds a genuinely unusual collection: hundreds of masks and festival costumes from Portugal, Spain, and other parts of the Iberian Peninsula and beyond. Many of the masks are the terrifying carved-wood or metal faces used in the midwinter Carnival festivals of Trás-os-Montes — grotesque, colourful, and very old in spirit.

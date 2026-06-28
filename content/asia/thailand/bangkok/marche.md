@@ -6,11 +6,13 @@ latitude: 13.7256
 longitude: 100.5649
 opening_hours: 4 pm - midnight
 phone: +66-2-6611111
+score: 5.7
 snippet: Microbrewery and multi-cuisine bistro on Sukhumvit 24
 tags:
 - eating_out
 - restaurant
 - bar
+- sukhumvit
 title: Marche
 type: poi
 ---

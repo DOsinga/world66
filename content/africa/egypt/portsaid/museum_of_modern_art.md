@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.26
 longitude: 32.29
+score: 6.1
 ---
 
 The Museum of Modern Art in Port Said is located on Shohada Square and holds a collection of Egyptian modern and contemporary painting, sculpture, and graphic work. It is one of the more active cultural institutions in the city, hosting temporary exhibitions alongside the permanent collection.

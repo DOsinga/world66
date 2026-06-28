@@ -6,11 +6,13 @@ done:
 latitude: 41.8944
 longitude: 12.4709
 opening_hours: Tue–Sun 08:30–19:30; closed Mon
+score: 7.8
 snippet: Borromini's trick-perspective colonnade in a quiet palazzo
 tags:
 - things_to_do
 - museum
 - palace
+- campo_de_fiori
 title: Galleria Spada
 type: poi
 ---

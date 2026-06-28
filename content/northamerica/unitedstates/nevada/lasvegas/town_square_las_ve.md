@@ -5,10 +5,12 @@ done:
 latitude: 36.067547
 longitude: -115.177939
 phone: 702-269-5005
+score: 3.9
 snippet: Open-air mall at the south end of the Strip with cinema and dining.
 tags:
 - shopping
 - restaurant
+- the_strip
 title: Town Square Las Vegas
 type: poi
 url: www.townsquarelasvegas.com

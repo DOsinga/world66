@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.9794356
 longitude: -93.260322
+score: 6.4
 ---
 
 MacPhail Center for Music is a community music school and performance venue that has been part of the Minneapolis music ecosystem since 1907 — one of the oldest community music schools in the United States. The centre moved to its current building near the riverfront in 2010, a purpose-built facility designed by James Dayton Design with good acoustics and an active performance calendar.

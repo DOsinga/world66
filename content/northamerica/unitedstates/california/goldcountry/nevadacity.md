@@ -5,13 +5,15 @@ done:
   location_enrich: '2026-05-29'
   poi_cleanup: '2026-04-21'
 image: nevadacity.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Broad_Street_Downtown_Area_in_Nevada_City,_California.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Frank Schulenburg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Broad_Street_Downtown_Area_in_Nevada_City,_California.jpg
 latitude: 39.2626
 loc_type: city
 longitude: -121.0187
-score: 0.5
+score: 7.5
+snippet: California Gold Rush town of Victorian storefronts, brick buildings, galleries,
+  and Deer Creek hills.
 title: Nevada City
 type: location
 ---

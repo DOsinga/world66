@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 29.9500
 longitude: 78.1600
+score: 6.6
 ---
 
 The lanes of Chandi Chowk near the main bazaar fill up with food stalls by mid-morning and remain busy until late evening. This is the place to try kachori — flaky fried pastry stuffed with spiced lentils — along with samosas, chaat, and the local favourite, choley bhature. Everything is vegetarian and usually very fresh.

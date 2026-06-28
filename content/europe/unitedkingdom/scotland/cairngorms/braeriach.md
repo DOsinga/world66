@@ -14,6 +14,7 @@ story: >
   micro-ecosystems of cold-adapted invertebrates found nowhere else in Britain.
 sources:
   - https://en.wikipedia.org/wiki/Braeriach
+score: 8.9
 ---
 
 Braeriach (1,296m) is the third-highest mountain in Britain and the highest summit in the western Cairngorms, separated from Ben Macdui by the great gash of the Lairig Ghru. The mountain forms an arc of cliffs above a series of corries — deep, glacially carved hollows — that hold the upper tributaries of the Dee and the Avon. The Wells of Dee, tiny springs that are among the highest sources of any Scottish river, rise near the summit plateau.

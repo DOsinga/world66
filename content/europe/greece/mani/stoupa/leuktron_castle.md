@@ -10,6 +10,7 @@ tags:
   - castle
 story: >
   The castle was built around 1250 by the French Crusader prince William II of Villehardouin as part of a string of fortresses across the Peloponnese. He held it for barely a decade before losing it to the Byzantines after his defeat at the Battle of Pelagonia in 1259, when he was captured and forced to hand back his Moreote castles in exchange for his freedom.
+score: 6.8
 ---
 
 The ruins of Leuktron Castle sit on a low coastal hill just south of Stoupa, the partly preserved walls and towers of a Frankish fortress built in the mid-13th century. The site overlies the ancient Greek town of Leuctra and offers a long view across the Mani coast to the south.

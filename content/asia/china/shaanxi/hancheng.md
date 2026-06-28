@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dangjiacun.JPG
 latitude: 35.4769
 loc_type: city
 longitude: 110.4419
+score: 6.93
+snippet: Small Yellow River city in eastern Shaanxi, birthplace of Han historian Sima
+  Qian.
 sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Hancheng

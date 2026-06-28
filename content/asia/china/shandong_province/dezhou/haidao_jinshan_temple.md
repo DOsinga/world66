@@ -6,6 +6,7 @@ latitude: 37.7500
 longitude: 116.8200
 story: >
   Haidao Jinshan Temple takes its name from a legend that the site was once an island (haidao, "sea island") visible across a vast ancient lake that covered the northern Shandong plain. The lake, a backwater of the Yellow River's ancient course, has long since drained, but the temple's position on slightly elevated ground — surrounded by flat agricultural land — still gives it an island-like quality in spring when the fields flood.
+score: 7.2
 ---
 
 Haidao Jinshan Temple, in Qingyun County in the eastern part of Dezhou prefecture, is one of the larger Buddhist temple complexes in northern China and a significant pilgrimage destination for Shandong and Hebei devotees. The temple's origins are traditionally dated to the Tang Dynasty, though most of the surviving architecture is Ming and Qing. The main complex contains a sequence of courtyards and halls culminating in a large main worship hall, with a pagoda and subsidiary halls arranged to the sides.

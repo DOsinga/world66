@@ -6,6 +6,7 @@ longitude: -83.7708
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Fred Hamilton Rhododendron Garden is the only public botanical garden in the Blue Ridge Mountains of north Georgia specialising in rhododendrons and native azaleas. It spreads across a sloping hillside above Lake Chatuge on the Georgia Mountain Fairgrounds, with over 3,000 plants including native mountain laurels, magnolias, tulips, dogwoods, and the rarest specimen of all: a yellow azalea hybridised by Fred Hamilton himself, the only one of its kind in existence.

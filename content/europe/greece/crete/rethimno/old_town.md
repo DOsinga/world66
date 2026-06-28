@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.369166666666665
 longitude: 24.474444444444444
+score: 9.0
 ---
 
 The old town of Rethimno is the most intact of any Cretan city, a layered accretion of Venetian loggia, Ottoman wooden balconies, narrow alleyways, and minarets that escaped the damage that reduced parts of Heraklion and Chania to rubble in the Second World War. The architecture is a direct record of the city's successive rulers — the Venetians who built the stone foundations, the Ottomans who added the projecting wooden upper storeys, and the Greek residents who have painted and repaired it all in the decades since.

@@ -11,6 +11,7 @@ snippet: The rationalist heart of Latina's planned city centre
 story: "Latina was founded on 30 June 1932 and named Littoria — after the lictor, a Roman symbol adopted by Mussolini's Fascist regime. The city was renamed Latina after the war. The piazza and its buildings were designed to project Fascist power through architecture; today they are studied by architects as a remarkably intact example of Italian rationalism."
 sources:
   - https://en.wikipedia.org/wiki/Latina,_Lazio
+score: 8.4
 ---
 
 The central piazza of Latina is one of the most coherent examples of Italian rationalist architecture in existence — an almost entirely intact ensemble of government buildings, a tower, a cathedral, and flanking arcades built in the early 1930s to give the new settlement civic dignity. The architecture is clean-lined and monumental without the bombast of much Fascist-era building; the effect is more composed than oppressive.

@@ -2,8 +2,8 @@
 admission: Free
 latitude: 45.438
 longitude: 12.3359
+score: 9.2
 snippet: Venice's most iconic bridge with a lively fish and produce market below
-neighbourhood: San Polo
 tags:
 - things_to_do
 - san_polo

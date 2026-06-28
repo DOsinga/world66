@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Lake Yojoa Day Trip
 type: poi
+score: 6.7
 ---
 
 Lake Yojoa, Honduras's largest natural lake, lies about 60 kilometers north of Comayagua and is one of the most scenic spots in the country. The lake is surrounded by mountains, including Cerro Azul Meámbar National Park to the east and Santa Bárbara National Park to the west. Birding is exceptional — over 400 species have been recorded around the lake.

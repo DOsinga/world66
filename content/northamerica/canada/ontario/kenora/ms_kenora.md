@@ -7,6 +7,7 @@ tags:
 - sight
 title: M.S. Kenora Cruise
 type: poi
+score: 7.5
 ---
 
 The M.S. Kenora is an 80-foot double-decker excursion boat that has been running scheduled cruises on Lake of the Woods from the downtown harbour for decades. The standard run is a two-hour tour through the islands and narrows north of town, with commentary on the geography, the cottages, and the history of the lake. Sunset and dinner cruises are also offered in summer.

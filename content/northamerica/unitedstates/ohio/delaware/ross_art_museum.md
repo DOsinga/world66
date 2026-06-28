@@ -9,6 +9,7 @@ latitude: 40.2969
 longitude: -83.0683
 sources:
   - https://en.wikipedia.org/wiki/Richard_Ross_Museum_of_Art
+score: 6.4
 ---
 
 The Richard M. Ross Art Museum is the art museum of Ohio Wesleyan University, located on Sandusky Street on the eastern edge of campus. The collection focuses on American art and includes works spanning the nineteenth and twentieth centuries, alongside rotating temporary exhibitions that draw on the university's holdings and outside loans.

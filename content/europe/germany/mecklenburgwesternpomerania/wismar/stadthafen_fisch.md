@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.8967
 longitude: 11.459
+score: 6.3
 ---
 
 Along the quayside of Wismar's old harbour, small stalls and simple harbour-side eateries serve the Baltic coast's essential street food: the Fischbrötchen, a crusty bread roll filled with smoked or pickled fish. Herring in various preparations — bismarck herring, matjes, smoked — is the staple, but you will also find smoked eel, shrimp, and whatever the local catch happens to be. It is cheap, quick, and local in a way that no restaurant in the old town quite manages.

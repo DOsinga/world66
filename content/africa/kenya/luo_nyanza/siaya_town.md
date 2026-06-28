@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cycle_taxi-Siaya.JPG
 latitude: 0.0593
 loc_type: city
 longitude: 34.2835
-score: 0.3
+score: 5.27
+snippet: Luo Nyanza market town near Kogelo, the Obama family's ancestral village
+  in rural western Kenya.
 title: Siaya Town
 type: location
 ---

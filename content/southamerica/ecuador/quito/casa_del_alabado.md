@@ -14,6 +14,7 @@ story: >
   dating to 3500 BCE), Chorrera, Tolita, Manteña, and many others. Many of
   the pieces would be major acquisitions in any world museum; here they are
   displayed in an intimate colonial house with unusually thoughtful curation.
+score: 9.2
 ---
 
 Casa del Alabado is the finest pre-Columbian art museum in Ecuador — a beautifully renovated colonial house in the southern part of the Historic Centre that displays around 500 pieces from cultures that inhabited what is now Ecuador from 4000 BCE to the Inca period. The collection is exceptional by any standard: gold work, ceramics, textiles, and stone carving from the Andean, coastal, and Amazonian traditions of pre-Columbian Ecuador.

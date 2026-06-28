@@ -9,6 +9,7 @@ tags:
 latitude: 31.2950
 longitude: 30.0250
 neighbourhood: Montazah
+score: 6.0
 ---
 
 A well-managed private beach club inside the Montazah complex, on a wide curving bay with notably cleaner sand and water than most of the public beaches. Maamoura has been a favourite of middle-class Alexandrians for decades and is among the safest swimming beaches in the city.

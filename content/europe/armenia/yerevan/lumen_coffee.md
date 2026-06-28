@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 12 Toumanian Street
+score: 5.9
 ---
 
 A bright third-wave coffee shop in central Yerevan that helped pull the city's coffee culture out of its long Soviet espresso-and-Nescafé hangover. Beans are roasted in-house and there is a small but well-judged selection of pour-overs alongside the espresso menu. The pastry counter is good for breakfast or a mid-morning stop.

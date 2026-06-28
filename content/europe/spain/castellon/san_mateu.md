@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_Major_de_Sant_M
 latitude: 40.465033
 loc_type: city
 longitude: 0.179319
-score: 0.42
+score: 6.61
+snippet: Medieval Valencian town whose Gothic church and arcaded Plaça Major recall
+  the Order of Montesa.
 title: Sant Mateu
 type: location
 ---

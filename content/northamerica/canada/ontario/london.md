@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Blackfriars_Bridge_from_So
 latitude: 42.983675
 loc_type: city
 longitude: -81.249607
-score: 0.37
+score: 6.43
 title: London, Ontario
 type: location
+snippet: Southwestern Ontario university city called the Forest City for its parks
+  and tree-lined streets.
 ---
 
 London is a city of about 400,000 in southwestern [Ontario](/northamerica/canada/ontario), known as the "Forest City" for its large parks and extensive tree cover. Settled in 1826 and named after its English namesake, it grew into the commercial heart of the region between Kitchener and Chatham that Ontarians call Western Ontario.

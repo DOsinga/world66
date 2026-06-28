@@ -6,6 +6,7 @@ longitude: 5.7111
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Lemstersluis is the lock complex that links the IJsselmeer to the Frisian inland waterways — for many sailors heading north into the lakes and canals it is the gateway. Two parallel chambers handle pleasure craft, with a separate sluice for the freight that still uses the route up to Heerenveen.

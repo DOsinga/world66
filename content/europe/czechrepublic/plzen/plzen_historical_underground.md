@@ -14,6 +14,7 @@ story: >
   until they formed a city-beneath-the-city stretching for kilometres. During the Thirty Years' War,
   they were used as escape routes and shelters; in the 20th century, some sections served as air-raid
   shelters. Only a fraction of the network is open to visitors today.
+score: 8.3
 ---
 
 Beneath the old town of Plzeň runs one of the most extensive medieval underground systems in Central Europe. The network of tunnels, cellars, and chambers was dug from the 14th century onward — originally for food storage and beer aging, later expanded for escape routes and defence. The oldest sections are cut through natural sandstone; later extensions used brick. In total, the known passages run for about 17 kilometres under the city centre, though the full extent has never been precisely mapped.

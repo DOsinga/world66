@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cortejo_do_imperador_da_Fe
 latitude: -15.8501
 loc_type: city
 longitude: -49.0297
-score: 0.52
+score: 7.48
+snippet: Colonial mining town in Goiás, known for cobblestone streets, whitewashed
+  churches, and nearby waterfalls
 title: Pirenópolis
 type: location
 ---

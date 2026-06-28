@@ -13,6 +13,7 @@ story: >
   1942. The synagogue complex survived largely intact — a rare example of a
   complete 18th-century Jewish quarter — and now functions as a museum that
   commemorates both the community and its destruction.
+score: 8.4
 ---
 
 Just outside the old town's southern walls, Bardejov's Jewish quarter survives in unusually complete form. The Great Synagogue, built between 1725 and 1747, anchors a group of connected buildings that once made up the full apparatus of Jewish communal life: the synagogue itself, a bet midrash (study house), a mikveh (ritual bath), and a kosher slaughterhouse. This is one of the few places in Central Europe where the full complex of buildings can still be seen together.

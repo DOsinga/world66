@@ -1,13 +1,15 @@
 ---
 accessibility: open 7 days a week from 9:00am-midnight
 address: 1600 Broadway
-latitude: 40.758
-longitude: -73.9856
+latitude: 40.760091
+longitude: -73.984417
 phone: (212) 295-3850
+score: 3.2
 tags:
 - shopping
 - shop
 - square
+- midtown
 title: M&M's World New York
 type: poi
 url: www.mmsworld.com

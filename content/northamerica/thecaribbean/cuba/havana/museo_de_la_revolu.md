@@ -1,10 +1,12 @@
 ---
 latitude: 23.1411
 longitude: -82.3589
+score: 7.9
 snippet: Cuban revolution history in the former Presidential Palace
 tags:
 - things_to_do
 - museum
+- habana_vieja
 title: Museo de la Revolución
 type: poi
 ---

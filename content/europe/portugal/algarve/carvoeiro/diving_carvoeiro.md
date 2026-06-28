@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.0890
 longitude: -8.4700
+score: 7.3
 ---
 
 The coast around Carvoeiro has some of the best diving in the Algarve, driven by the underwater rock formations — the same limestone arches and sea caves that make the coastline spectacular from above continue beneath the surface. Several dive centres operate from the town, offering reef dives, cave dives, and night dives.

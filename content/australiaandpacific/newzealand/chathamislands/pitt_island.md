@@ -11,6 +11,7 @@ tags:
 - sight
 title: Pitt Island
 type: poi
+score: 8.3
 ---
 
 Pitt Island, about 20 km south of Chatham, is home to roughly 30 people and a

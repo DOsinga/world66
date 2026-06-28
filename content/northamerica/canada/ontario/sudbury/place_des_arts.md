@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.4911
 longitude: -80.9953
+score: 7.1
 ---
 
 Place des Arts, opened in 2022, is the cultural hub of Sudbury's francophone community — a striking modern building of concrete, glass, and steel containing a 300-seat theatre, a black-box performance space, an art gallery, a bistro, and the offices of seven different francophone arts organisations.

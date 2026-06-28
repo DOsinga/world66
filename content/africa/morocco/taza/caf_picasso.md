@@ -1,8 +1,13 @@
 ---
 address: Immeuble Aarab Angle,Avenue Mohammed V,35000 Taza
+latitude: 34.2246
+longitude: -4.0068
 phone: 00212-3538-2691
+score: 5.2
 tags:
 - eating_out
+- restaurant
+- cafe
 title: Café Picasso
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 21.0335
 longitude: 105.8373
 snippet: "Best collection of Vietnamese art, including exceptional propaganda posters"
+score: 8.5
 ---
 
 The Vietnam Fine Arts Museum occupies a rambling colonial compound on Nguyen Thai Hoc Street, a short walk from the Temple of Literature. Three interconnected buildings hold a permanent collection spanning from prehistoric art through the contemporary period, with particular depth in Vietnamese lacquerware, silk painting, and the folk art tradition of Dong Ho woodblock prints from the Red River Delta villages. The sculpture collection includes Cham pieces and Buddhist figures in stone and bronze that would be major attractions in any museum in the world.

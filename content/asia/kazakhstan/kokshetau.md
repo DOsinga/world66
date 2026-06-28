@@ -5,7 +5,9 @@ done:
 latitude: 53.2852
 loc_type: city
 longitude: 69.3815
-score: 0.34
+score: 5.86
+snippet: Northern Kazakhstan provincial capital on the steppe edge, gateway to Burabay's
+  lakes and granite hills.
 title: Kokshetau
 type: location
 ---

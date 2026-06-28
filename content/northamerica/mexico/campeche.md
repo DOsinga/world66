@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:15-07-15-Centro_hist%C3%B3
 latitude: 19.8482
 loc_type: city
 longitude: -90.5259
-score: 0.63
+score: 8.71
+snippet: Fortified Gulf of Mexico city with pastel colonial streets, pirate history,
+  and surviving Spanish walls.
 title: Campeche
 type: location
 ---

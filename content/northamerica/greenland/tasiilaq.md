@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Tasiilaq_-_Greenland_summe
 latitude: 65.614075
 loc_type: city
 longitude: -37.63922
-score: 0.51
+score: 8.01
+snippet: East Greenland town in a sheltered fjord, ringed by steep mountains and bright
+  houses.
 title: Tasiilaq
 type: location
 ---

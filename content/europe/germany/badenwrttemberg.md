@@ -9,6 +9,8 @@ latitude: 48.53775
 loc_type: region
 longitude: 9.041169
 score: 0.51
+snippet: Southwestern German state of the Black Forest, Rhine borderlands, Lake Constance,
+  and Swabian highlands.
 title: Baden-Württemberg
 type: location
 ---

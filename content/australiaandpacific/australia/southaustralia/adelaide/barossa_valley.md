@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Australia's most famous wine region, 70 km north of Adelaide"
+score: 8.0
 ---
 
 The Barossa Valley is 70 km northeast of Adelaide and produces some of the most respected wine in the world, particularly Shiraz from very old dry-grown vines — some dating from the 1840s when Lutheran settlers from Silesia planted the first vineyards. The region's German heritage is still evident in the village names (Tanunda, Nuriootpa, Angaston) and in the butchers' shops selling Mettwurst and smoked meats.

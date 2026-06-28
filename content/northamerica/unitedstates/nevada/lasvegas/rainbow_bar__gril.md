@@ -3,10 +3,12 @@ address: 4480 Paradise Road
 latitude: 36.108926
 longitude: -115.151047
 phone: 702-898-3525
+score: 4.7
 tags:
 - eating_out
 - restaurant
 - bar
+- the_strip
 title: Rainbow Bar & Grill
 type: poi
 url: www.rainbowbarandgrillv.com

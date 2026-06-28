@@ -14,6 +14,7 @@ story: >
   organised crime network. The half-built industrial infrastructure was eventually repurposed
   as a container terminal, which opened in 1995 and grew into one of Europe's busiest transshipment 
   hubs, handling cargo for dozens of countries without it ever touching Italian roads.
+score: 6.3
 ---
 
 The Port of Gioia Tauro is one of the largest container transshipment terminals in the Mediterranean, sitting on the Tyrrhenian coast just below the city. Container ships from Asia, the Americas, and Northern Europe exchange cargo here before it continues to its final destinations, making it one of the most strategically important ports in southern Europe.

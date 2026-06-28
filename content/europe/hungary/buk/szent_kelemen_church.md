@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.3845
 longitude: 16.7497
+score: 5.8
 ---
 
 The Roman Catholic parish church of Bük, a small late-Gothic structure with eighteenth-century Baroque overlays. The interior is plain but quietly handsome — wooden pews, a painted ceiling, and an altar dedicated to Saint Kelemen (Clement). The churchyard contains a number of older tombstones, including those of the Felsőbüki Nagy family.

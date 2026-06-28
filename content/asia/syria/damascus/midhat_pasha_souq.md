@@ -8,6 +8,7 @@ tags:
 latitude: 33.5103
 longitude: 36.3057
 snippet: Long covered market along the line of the Roman Via Recta
+score: 7.8
 ---
 
 Named for the Ottoman governor Midhat Pasha, who reformed the Damascus markets in the 1870s, this is the long covered souq that runs east along the line of the Roman Via Recta. It begins at Bab al-Jabiyah and continues east through covered and open sections to reach the Christian quarter, becoming Straight Street near its eastern end.

@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-21'
 latitude: 61.506936
 loc_type: city
+snippet: Tiny Suðuroy village with Viking-age chieftain history on the east coast
+  of the Faroe Islands
 longitude: -6.755742
-score: 0.44
+score: 6.37
 title: Hov
 type: location
 ---

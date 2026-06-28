@@ -13,6 +13,7 @@ story: >
   valley in the 1850s and never let them go, creating a craft beer scene decades
   before the rest of Brazil caught on. Several of the brewery brands featured
   in the museum are still operating in the city today.
+score: 7.6
 ---
 
 The Beer Museum on Rua XV de Novembro tells the history of brewing in Blumenau from the first German settlers through the industrial era and into the current craft beer renaissance. The exhibits are compact and well-designed, covering the technology of brewing, the social history of beer halls in immigrant communities, and the story of how Oktoberfest grew from a small local celebration into an international event.

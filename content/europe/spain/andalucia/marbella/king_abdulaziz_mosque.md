@@ -9,6 +9,7 @@ latitude: 36.5043
 longitude: -4.9276
 story: >
   The King Abdul Aziz Mosque was built in the 1980s with Saudi funding, part of a wave of mosque construction along the Costa del Sol in response to the large Muslim population — both resident North Africans and Gulf tourists — who were spending time in Marbella during the resort's peak years. It is one of the largest mosques in Spain and the only major Islamic religious building on the Costa del Sol.
+score: 6.2
 ---
 
 A large modern mosque at the western end of Marbella, between the town and Puerto Banús, built in the 1980s with Saudi funding. The exterior combines modern construction with Andalusian Islamic decorative motifs — arches, tilework, and a minaret — in a relatively successful attempt to blend the building into its Mediterranean setting. The prayer hall can accommodate several hundred worshippers.

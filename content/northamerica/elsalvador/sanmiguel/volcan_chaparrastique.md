@@ -10,6 +10,7 @@ latitude: 13.4326
 longitude: -88.2698
 sources:
   - https://en.wikipedia.org/wiki/San_Miguel_volcano
+score: 8.5
 ---
 
 Volcán Chaparrastique — officially the San Miguel Volcano — rises to 2,130 m west of the city and is one of the most active volcanoes in El Salvador. The near-perfect cone is visible from virtually everywhere in San Miguel and gives the city its most distinctive feature. It last erupted in December 2013, sending an ash plume over the city, and remains closely monitored.

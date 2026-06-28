@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.6800
 longitude: -122.4850
+score: 8.9
 ---
 
 Chuckanut Drive (State Highway 11) is a 35-km scenic road that winds along the face of the Chuckanut Mountains between Bellingham and Burlington, with cliffs on one side and Samish Bay on the other. It was the first paved scenic highway in Washington State and remains one of the most beautiful drives in the Pacific Northwest — all mossy rock walls, bay views, and old-growth fir overhanging the road.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cave
+score: 6.7
 ---
 
 The name translates as "Cave Where Men Eat," which has fuelled the cannibalism theories that the islanders themselves dismiss as a mistranslation. The cave is a wave-cut hollow at the base of a sea cliff just south of Hanga Roa, reached down a short rocky path from the road below the airport. The Pacific crashes into the entrance and the spray drifts back to the rear wall.

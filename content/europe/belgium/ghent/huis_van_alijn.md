@@ -17,6 +17,7 @@ title: Huis van Alijn
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Huis_van_Alijn
+score: 7.6
 ---
 
 The Huis van Alijn occupies a medieval almshouse on the Kraanlei — a beautiful canal-side street running parallel to the Graslei — and functions as a museum of everyday Flemish life over the past century. The collection covers domestic objects, toys, cinema, radio, fashion, and the rituals of ordinary life in a way that is more engaging than many history museums because of its intimacy.

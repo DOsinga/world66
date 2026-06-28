@@ -9,6 +9,7 @@ snippet: Twin-minareted mosque at the heart of Alun-Alun, with city views from t
 latitude: -6.9217
 longitude: 107.6063
 story: "The mosque has been rebuilt and expanded more than a dozen times since it was first built of bamboo and thatch in 1810. The current two-tone minarets, 81 metres tall, date from a 2003 renovation and have an open-air observation deck visitors can climb for the best free view of central Bandung."
+score: 7.6
 ---
 
 The Grand Mosque (Masjid Raya Bandung) fronts the open square of Alun-Alun, the traditional heart of the city. The minarets are the most prominent landmarks in central Bandung, and the elevators inside are open to non-Muslim visitors during daylight hours — the upper platforms give a 360-degree view over the city basin, with the volcanoes ringing the horizon.

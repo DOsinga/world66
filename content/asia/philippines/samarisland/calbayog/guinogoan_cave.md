@@ -1,6 +1,11 @@
 ---
+latitude: 12.1583
+longitude: 124.5141
+score: 6.0
 tags:
-- sights
+- things_to_do
+- sight
+- cave
 title: Guinogo-An Cave
 type: poi
 ---

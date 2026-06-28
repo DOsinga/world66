@@ -6,6 +6,7 @@ longitude: 18.4070
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The Szabadtéri Bányászati Múzeum (Open-Air Mining Museum) is built on the site of one of the original Tatabánya coal pits. Visitors can walk through a section of preserved underground gallery, look at heavy machinery left where it was when the mines closed, and follow the story of the workers — many of them Slovak, German, and Polish — who came to dig coal here from the 1890s onward.

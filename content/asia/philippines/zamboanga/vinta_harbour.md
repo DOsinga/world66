@@ -7,6 +7,7 @@ tags:
 latitude: 6.9085
 longitude: 122.0810
 story: "The annual Hermosa Festival in October includes a vinta regatta — dozens of the brightly painted boats racing along the strait in front of Fort Pilar. The festival commemorates the 1734 apparition of Our Lady of the Pillar and is the city's biggest week of the year."
+score: 7.1
 ---
 
 The **vinta** — the traditional outrigger sailboat of the Tausug and Sama-Bajau, with brightly painted sails of triangular cloth in stripes of red, yellow, blue and orange — is the symbol of Zamboanga. They are not just for tourists: vintas remain working boats on the strait, used for fishing and for short-haul cargo between the city and the islands of the Sulu Sea.

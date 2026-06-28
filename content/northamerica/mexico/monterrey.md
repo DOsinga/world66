@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Antiguo_Palacio_Federal,_M
 latitude: 25.6802
 loc_type: city
 longitude: -100.3153
-score: 0.47
+score: 6.91
+snippet: Northern Mexican industrial city beneath the Sierra Madre, with museums and
+  public plazas around the Macroplaza.
 title: Monterrey
 type: location
 ---

@@ -14,6 +14,7 @@ story: >
   as a sacrifice to the ocean. The king of Kelaniya in Ruhuna province took her in, and she later became
   the mother of King Dutugamunu. The temple commemorates her landing, making it a site of genuine
   dynastic significance.
+score: 7.6
 ---
 
 Muhudu Maha Vihara is an ancient Buddhist temple complex at Pottuvil, a few kilometres north of Arugam Bay, sitting right on the beach where the sea meets an ancient dagoba. It's one of the oldest Buddhist sites in Sri Lanka's eastern province — some ruins date back over 2,000 years.

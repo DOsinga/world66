@@ -16,6 +16,7 @@ story: >
   gardens, public art, and an amphitheatre for summer concerts. It won an
   American Council of Engineering Companies grand award and immediately
   became the most photographed structure in the city.
+score: 6.8
 ---
 
 The Mohawk Valley Gateway Overlook is a pedestrian-only bridge that links Riverlink Park on the north shore of the Mohawk River to the Bridge Street area on the south side. Designed by architect George Bain and opened in 2016, it is part bridge, part linear park: 500 feet of decking with seating, viewing platforms, an amphitheatre, raised planters, and bronze panels narrating the history of the Mohawk Valley.

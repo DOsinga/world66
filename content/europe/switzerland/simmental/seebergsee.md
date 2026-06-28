@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Seebergsee
 story: >
   The Seebergsee sits at 1,837 metres above a pass road that was once a significant trade route between the Bernese Oberland and the canton of Fribourg. For most of its history the lake had no name in common use — shepherds used the high pastures around it seasonally and the pass was too modest to attract famous visitors.
+score: 7.9
 ---
 
 Seebergsee is a small alpine lake at 1,837 metres on the Seeberg pass above Zweisimmen, reached by road or trail from the valley. The lake is about 600 metres long and sits in open terrain, with the flanks of the Niderhorn and Männlifluh rising around it. The water is clear and, in summer, genuinely inviting for a swim — though cold even in August.

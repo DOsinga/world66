@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Meran,_Panorama_(Blick_vom
 latitude: 46.6704
 loc_type: city
 longitude: 11.1623
+score: 8.63
+snippet: South Tyrolean spa town with Alpine peaks, palm-lined promenades, and Belle
+  Époque resort history.
 sources:
 - https://en.wikipedia.org/wiki/Merano
 - https://en.wikivoyage.org/wiki/Merano

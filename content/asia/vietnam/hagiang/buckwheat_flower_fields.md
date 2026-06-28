@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 23.2600
 longitude: 105.3500
+score: 7.6
 ---
 
 Each October and early November, the Dong Van Karst Plateau turns pink and white with buckwheat flowers — the crop that the H'mong grow between the limestone rocks as a secondary food source. The blooms last for three to four weeks and transform a landscape that is austere for most of the year into something unexpectedly soft and photogenic. The flowers appear across the plateau from Yen Minh through Dong Van and along the road to Meo Vac, dense in some areas, scattered in others.

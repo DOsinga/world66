@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2233
 longitude: -80.8481
+score: 7.7
 ---
 
 The Harvey B. Gantt Center for African-American Arts + Culture is the only institution of its kind in the Carolinas, dedicated to collecting, preserving, and presenting works by African-American artists and the broader cultural story of Black America. Named for Charlotte's first Black mayor, who broke the color barrier at Clemson University in 1963, the center opened in 2009 and is an anchor of the cultural Levine Center complex in Uptown.

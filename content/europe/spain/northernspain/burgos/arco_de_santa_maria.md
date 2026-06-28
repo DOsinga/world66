@@ -12,6 +12,7 @@ story: >
   Charles V, the Cid, Diego Porcelos (founder of Burgos), and other Castilian
   worthies, a stone act of political loyalty that worked: Charles granted
   Burgos its status as a royal city.
+score: 7.6
 ---
 
 The Arco de Santa María stands at the point where the old city walls met the river, and it was the most elaborate of Burgos's twelve medieval gateways. The sixteenth-century renovation transformed it from a functional fortification into a display of civic and imperial prestige, with tiers of statues set in ornate niches rising to a battlemented top.

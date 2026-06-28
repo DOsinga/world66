@@ -6,7 +6,9 @@ done:
 latitude: 14.3837
 loc_type: city
 longitude: 120.5656
-score: 0.53
+score: 7.61
+snippet: Tadpole-shaped Manila Bay island, remembered for its tunnels, batteries,
+  and World War II siege.
 title: Corregidor
 type: location
 ---

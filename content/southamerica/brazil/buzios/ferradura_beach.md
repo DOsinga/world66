@@ -8,6 +8,7 @@ tags:
   - families
 latitude: -22.7685
 longitude: -41.9138
+score: 7.6
 ---
 
 Ferradura — "horseshoe" in Portuguese — is exactly the shape its name implies: a crescent of pale sand enclosed by rocky headlands that shelter it from the Atlantic swell. The result is unusually calm, flat water even when the rest of the coast is rough, which makes it the best beach in Búzios for families with young children.

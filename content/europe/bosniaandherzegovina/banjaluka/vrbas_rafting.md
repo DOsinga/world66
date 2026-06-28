@@ -10,6 +10,7 @@ latitude: 44.73
 longitude: 17.15
 story: >
   The Vrbas canyon south of Banja Luka is narrow enough that you can nearly touch both walls from the middle of the river. The rapids here are class III–IV, serious enough to demand attention but manageable for fit beginners on a guided trip. Several Olympians have trained here, including whitewater kayakers who regard the Vrbas as one of the best competition rivers in the Balkans.
+score: 8.0
 ---
 
 The Vrbas River above Banja Luka runs through a dramatic limestone canyon with rapids that have made this stretch a respected whitewater destination. Several rafting operators based in the city offer guided trips on the canyon, ranging from half-day excursions to full-day adventures with picnic stops.

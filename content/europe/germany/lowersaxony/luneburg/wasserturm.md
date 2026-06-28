@@ -9,6 +9,7 @@ tags:
 - architecture
 - viewpoint
 snippet: 1907 brick water tower, climbable for the best view in town
+score: 7.1
 ---
 
 Lüneburg's distinctive water tower, an Art Nouveau brick monolith finished in 1907, served the city's pressurised water supply until 1986 and was reopened to the public in 2000 as a viewing platform and small science museum. The exterior, with its reddish brick and decorative tile bands, is unmistakable from across the old town.

@@ -9,6 +9,7 @@ latitude: 31.1681
 longitude: 112.5808
 story: >
   The Xianling Tomb exists because of a bitter succession dispute known as the "Great Rites Controversy." When the Jiajing Emperor came to power in 1521, he insisted on posthumously naming his own father as emperor, against fierce Confucian opposition from court officials. Hundreds of officials who resisted were flogged; dozens died. The elaborate tomb and ritual complex at Zhongxiang was the physical expression of that victory.
+score: 8.8
 ---
 
 The Xianling Tomb at Zhongxiang is one of the finest and least-visited of China's imperial mausoleums — a UNESCO World Heritage Site (inscribed together with the Ming Tombs near Beijing and the Eastern Qing Tombs in 2000) that sees a fraction of the crowds of its more famous counterparts. The complex is the mausoleum of Zhu Youjian, father of the Jiajing Emperor, who was elevated posthumously to imperial status in one of the most contentious political episodes of the Ming dynasty.

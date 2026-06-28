@@ -1,12 +1,12 @@
 ---
-done:
-  poi_cleanup: '2026-04-19'
 latitude: 50.0542
 longitude: 19.9368
+score: 7.5
 snippet: Medieval Polish and Orthodox art in a bishop's palace
 tags:
 - things_to_do
 - museum
+- wawel
 title: Palace of Bishop Erasmus Ciolek
 type: poi
 ---

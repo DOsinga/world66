@@ -9,6 +9,7 @@ latitude: 41.1375
 longitude: -100.7603
 sources:
   - https://en.wikipedia.org/wiki/Hotel_Yancey_(North_Platte,_Nebraska)
+score: 5.3
 ---
 
 The Hotel Yancey — also listed as Hotel Pawnee — is the most prominent historic building in downtown North Platte. Built in the early twentieth century, it anchored the commercial centre of the city during the railroad boom years and is listed on the National Register of Historic Places.

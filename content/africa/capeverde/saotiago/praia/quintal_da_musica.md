@@ -7,6 +7,7 @@ tags:
   - plato
 latitude: 14.9125
 longitude: -23.5071
+score: 7.6
 ---
 
 Quintal da Música is the best-known live music venue on the Platô and one of the most reliable places in Praia to hear Cape Verdean music on any given night. The format is simple: an open courtyard, plastic chairs, cold beer, and musicians who play morna, funaná, or coladeira depending on the evening. It gets going late, as most Cape Verdean music venues do — arrive before 10pm and you may find it empty, arrive at midnight and it will be full.

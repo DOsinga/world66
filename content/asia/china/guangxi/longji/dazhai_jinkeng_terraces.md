@@ -14,6 +14,7 @@ story: >
   common sight in the villages. The practice is vanishingly rare elsewhere;
   here it remains a genuine cultural tradition, though the women have learned
   to charge photographers for the privilege of documenting it.
+score: 8.9
 ---
 
 The Jinkeng terrace area around Dazhai village is generally considered the more dramatic of the two main Longji viewing zones — the terraces here are steeper, more densely layered, and more remote, and the walk from the car park to the upper viewpoints takes 45 minutes to an hour on stone paths that climb seriously. The higher hamlet of Tiantouzhai offers the best vantage point, and the views looking back down over the curved terraces toward the valley far below justify every step.

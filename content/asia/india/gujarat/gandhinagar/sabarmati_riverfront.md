@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 23.2232
 longitude: 72.6350
+score: 6.1
 ---
 
 The Sabarmati river forms the western edge of Gandhinagar, and the riverfront here is quieter and more natural than its more developed counterpart in Ahmedabad. The banks are wooded and the river's seasonal character — full and fast during the monsoon, slow and clear in winter — is easy to observe from the paths along the water. The stretch near Sector 9 is particularly pleasant for an evening walk.

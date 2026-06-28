@@ -11,6 +11,7 @@ story: >
   The Arkansas Derby, run at Oaklawn each spring, is one of the major Kentucky Derby prep races.
   American Pharoah won it on his way to the 2015 Triple Crown, the first horse in 37 years to take
   all three Triple Crown races.
+score: 7.4
 ---
 
 Arkansas's only Thoroughbred track, drawing serious horsemen and weekend crowds from across the

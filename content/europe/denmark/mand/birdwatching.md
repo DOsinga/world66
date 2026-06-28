@@ -13,6 +13,7 @@ story: >
   middle of this superhighway. The dunlin and red knot that feed on the flats
   around the island may have flown from the Taymyr Peninsula; in a few weeks
   they will be in Mauritania.
+score: 8.7
 ---
 
 Mandø sits within the Wadden Sea National Park, a UNESCO World Heritage Site and one of the most important bird habitats in Europe. The tidal flats surrounding the island support enormous concentrations of wading birds during the spring and autumn migrations, when species including dunlin, red knot, curlew sandpiper, grey plover, and bar-tailed godwit gather in numbers that can be counted in the tens of thousands.

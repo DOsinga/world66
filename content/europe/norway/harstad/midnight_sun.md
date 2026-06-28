@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 68.7999
 longitude: 16.5440
+score: 7.4
 ---
 
 Harstad sits at 68°N, well above the Arctic Circle, which means the sun does not set from around 22 May to 22 July each year. The midnight sun is not just a curiosity — it transforms daily life completely. Locals are out walking, cycling, and socialising at midnight in full sunlight, and the light has a quality at 1am that you will not have seen before: low, golden, and coming from the north.

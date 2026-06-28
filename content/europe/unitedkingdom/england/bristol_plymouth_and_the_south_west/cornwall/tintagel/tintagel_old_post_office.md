@@ -11,6 +11,7 @@ story: >
   The Old Post Office was used as a postal receiving house in the 19th century — mail riders would stop here to collect and deliver letters in this remote part of Cornwall. By the 1890s it had fallen into disrepair, and in 1895 local artists and preservationists fought a campaign to save it from demolition. The National Trust acquired it in 1903, making it one of the earliest buildings the Trust ever purchased. At the time, the idea that a medieval stone cottage was worth preserving for posterity was genuinely controversial.
 sources:
   - https://en.wikipedia.org/wiki/Tintagel_Old_Post_Office
+score: 7.6
 ---
 
 The Tintagel Old Post Office is a 14th-century stone building of extraordinary character — a small medieval manor house with a wavy, organic roofline that looks as if the slate tiles have been poured over the structure like a liquid. The proportions are irregular in a way that feels almost intentional: the walls bulge, the windows are uneven, the chimneys lean. Inside, it has been furnished as it appeared when it operated as a Victorian postal receiving house, complete with the post office room where letters were held for collection.

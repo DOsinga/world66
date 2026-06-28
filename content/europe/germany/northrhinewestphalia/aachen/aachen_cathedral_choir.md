@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Concerts and organ recitals in one of the great Carolingian buildings of Europe
+score: 7.1
 ---
 
 The Aachener Dom hosts a regular programme of concerts and organ recitals throughout the year, taking advantage of the remarkable acoustics of the Carolingian octagon and Gothic choir. The Domchor Aachen, which traces its origins to a choir founded by Charlemagne, performs major choral works several times a year. Organ recitals are held on the historic instrument — a large four-manual instrument incorporating pipes from across several centuries.

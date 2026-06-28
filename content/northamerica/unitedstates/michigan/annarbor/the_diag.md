@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   A brass block-M is embedded in the concrete at the center of the Diag. Campus legend holds that any freshman who steps on it will fail their first exam. Most students walk around it, just in case.
+score: 8.2
 ---
 
 The oldest part of the University of Michigan campus and its social heart. The Diag is a large open quadrangle crossed by diagonal paths — hence the name — surrounded by some of the university's most handsome buildings, including Angell Hall with its classical columns and the Graduate Library. On a warm day it fills with students, food carts, and impromptu performances.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.4585
 longitude: 5.0366
+score: 8.3
 ---
 
 The small harbour on the Gouwzee inlet is the most photogenic corner of Monnickendam, lined with traditional Dutch wooden fishing boats — botters and lemsteraaken — that are still maintained and sailed by enthusiasts. In the summer months the harbour is particularly lively, with boats coming and going and the old smoke house beside the water still operating as a working smoked-eel business.

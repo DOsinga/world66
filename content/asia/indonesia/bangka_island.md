@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hariyadin_bangka_belitung.
 latitude: -2.308124
 loc_type: city
 longitude: 106.028152
-score: 0.47
+score: 7.24
+snippet: Sumatran island known for tin history, quiet beaches, and a relaxed pace
+  beyond Pangkalpinang
 title: Bangka Island
 type: location
 ---

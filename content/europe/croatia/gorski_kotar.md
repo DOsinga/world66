@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:LokvarskoJezero1.jpg
 latitude: 44.958411
 loc_type: city
 longitude: 14.409484
-score: 0.52
+score: 7.74
+snippet: Forested Croatian highland between Kvarner and Karlovac, known for karst
+  caves, cool summers, and Risnjak.
 title: Gorski Kotar
 type: location
 ---

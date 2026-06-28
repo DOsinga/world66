@@ -7,6 +7,7 @@ tags:
 - sight
 title: St Peter's Church
 type: poi
+score: 7.7
 ---
 
 The current St Peter's Church dates from 1725 and replaces an earlier building lost in the 1692 earthquake. It is a low, sturdy stone building, plain on the outside but with a surprisingly elegant interior featuring a wooden organ loft and a silver communion plate said to have been donated by the buccaneer Henry Morgan.

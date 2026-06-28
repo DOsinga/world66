@@ -5,10 +5,11 @@ done:
 latitude: 55.948533
 longitude: -3.186397
 phone: 0131 557 5114
+score: 6.8
 snippet: Late-night cellar bar with live music every night until 3am
 tags:
 - bars_and_cafes
-- old_town
+- oldtown
 - bar
 title: Whistle Binkies
 type: poi

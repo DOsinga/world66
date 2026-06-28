@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Buddha_Statue_Narayani_Riv
 latitude: 27.700683
 loc_type: city
 longitude: 84.427353
-score: 0.38
+score: 6.18
+snippet: Terai crossroads town near Chitwan, where Nepal's east-west highway meets
+  the road south to India.
 title: Narayangarh
 type: location
 ---

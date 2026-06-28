@@ -9,6 +9,7 @@ tags:
 latitude: -35.7117
 longitude: 174.3717
 story: The caves are essentially unmanaged — no guides, no lights, no railings. The only way to see the glow-worms properly is to wade through the cave streams with a torch, then switch the torch off and let the false sky overhead resolve itself into hundreds of tiny blue-green points of light.
+score: 8.1
 ---
 
 Abbey Caves Reserve protects three limestone caves — Organ Cave, Middle Cave, and Ivy Cave — about 10 kilometres east of Whangarei. Unusually for New Zealand, they are completely undeveloped: no guided tours, no electric lights, no concrete paths. You climb down on your own with a torch.

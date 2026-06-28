@@ -6,6 +6,7 @@ tags:
   - eating_out
 latitude: 43.7800
 longitude: 5.3000
+score: 6.8
 ---
 
 The Luberon AOC produces wines across the full spectrum — rosé, white, and red — and the quality has risen steadily since the appellation was granted full AOC status in 1988. The rosés are the most famous, drunk young and cold on the terrace with exactly the food you'd expect from this landscape: charcuterie, tapenade, ratatouille.

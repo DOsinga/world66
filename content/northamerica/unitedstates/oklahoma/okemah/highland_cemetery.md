@@ -7,6 +7,7 @@ tags:
 - sight
 title: Highland Cemetery
 type: poi
+score: 6.7
 ---
 
 Okemah's small town cemetery on the east edge of town holds two graves worth seeking out. The first is Nora Belle Guthrie, Woody's mother, who died of Huntington's disease in 1930 — the same disease that would eventually kill Woody. Her stone is simple and easy to miss; ask at the funeral home next door for directions.

@@ -8,6 +8,7 @@ tags:
   - restaurant
   - seafood
 snippet: Well-regarded seafood restaurant on the Malecón with direct ocean views
+score: 6.2
 ---
 
 Coco by the Sea sits on the Malecón with tables positioned to look out over the Atlantic — on a breezy evening with the sun going down, it is one of the more pleasant settings for dinner in the city. The menu centres on seafood: grilled mahi-mahi, shrimp in garlic sauce, whole red snapper, and the standard Dominican fish preparations that involve sofrito, tomato, and onion. The portions are large and the fish is fresh from the port a few minutes away.

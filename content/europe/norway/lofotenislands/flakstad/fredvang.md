@@ -8,6 +8,7 @@ tags:
 title: Fredvang
 type: poi
 snippet: "Small village on the northern part of Moskenesøy, the start of hikes to the wild outer coast at Yttersida"
+score: 7.8
 ---
 
 Fredvang sits on the northern part of Moskenesøy, connected to Flakstadøya by the two-span Fredvang bridges that cross the strait. The village itself is small but is the most popular starting point for hikes to the dramatic outer coast known as Yttersida — Kvalvika Beach, Ryten, and Selfjord are all reached from here.

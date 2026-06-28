@@ -7,6 +7,7 @@ tags:
 latitude: 28.9614
 longitude: -13.5478
 story: "The Charco — literally 'the pond' — is a natural tidal lagoon at the heart of the old town. It was the original fishing harbour of Arrecife, with low whitewashed houses on its banks where the fishermen lived. César Manrique's hand is visible in its restoration: he insisted the surroundings stay low-rise and traditional rather than yielding to hotel development."
+score: 7.8
 ---
 
 The Charco de San Ginés is the photogenic heart of Arrecife — a small tidal saltwater lagoon ringed by whitewashed fisherman's houses, with brightly painted small boats tied along its banks. The lagoon fills and empties with the Atlantic tides through a narrow channel under a road bridge to the sea.

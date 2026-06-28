@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Luftbild_vom_Diokletianpal
 latitude: 43.511638
 loc_type: city
 longitude: 16.439966
-score: 0.76
+score: 9.46
+snippet: Dalmatian port city grown through the inhabited Roman walls of Diocletian's
+  Palace.
 title: Split
 type: location
 ---

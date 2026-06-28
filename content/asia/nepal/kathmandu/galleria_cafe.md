@@ -8,6 +8,7 @@ tags:
   - thamel
 title: Galleria Cafe
 type: poi
+score: 4.8
 ---
 
 A well-established cafe on the Thamel main strip, Galleria does good coffee and has reliable wifi — both useful requirements in the neighbourhood's backpacker ecosystem. The food is straightforward: sandwiches, pasta, apple pie, the kind of menu designed for people who have been on the trail and want something familiar.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Iglesia de San Pedro is a 14th-century Gothic church with three naves and an unusual brick belltower. The most striking single feature is the **Capilla de los Coca**, a richly decorated chapel containing a beautifully carved alabaster tomb of the canon Fernando de Coca, attributed to the workshop of Vasco de la Zarza.

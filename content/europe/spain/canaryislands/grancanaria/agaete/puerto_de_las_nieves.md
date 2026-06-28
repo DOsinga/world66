@@ -8,6 +8,7 @@ tags:
 latitude: 28.1
 longitude: -15.71
 story: "The little harbour chapel, the Ermita de las Nieves, gave the port its name — Our Lady of the Snows. The original chapel held a Flemish triptych, the 'Virgin of the Snows', painted around 1530 and now kept in the Agaete parish church. Local fishermen believed the painting had miraculous protective powers, and they paid for it themselves."
+score: 7.4
 ---
 
 Puerto de las Nieves is Agaete's fishing harbour, a small rocky cove with a pier, a scattering of fish restaurants, and excellent views of the sea stack El Dedo de Dios. Fast ferries to Tenerife (around one hour) depart from here, making it the main access point for anyone travelling between the two islands without flying.

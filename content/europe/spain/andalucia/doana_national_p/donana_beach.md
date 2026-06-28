@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: The 30-kilometer beach inside the park has no road access and no buildings — the nearest structure is Matalascañas to the north, and from there the coast is legally protected and entirely wild. On a still morning, with wet sand reflecting the sky and a line of sanderlings running ahead of the waves, it is one of the most quietly astonishing stretches of coast in western Europe.
+score: 7.8
 ---
 
 Most visitors to Doñana come for the birds and the marshes, and overlook the fact that the park also protects one of Europe's longest uninterrupted stretches of Atlantic coastline. For around 30 kilometers, from the edge of Matalascañas southward to the Guadalquivir mouth, the beach inside the park has no road access and no development. The dunes behind it reach impressive heights — some over 30 meters — and are in constant slow migration inland, burying and re-exposing pine trees as they move.

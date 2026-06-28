@@ -9,6 +9,7 @@ latitude: 51.9289
 longitude: -8.5708
 snippet: "15th-century tower house with the famous Blarney Stone, set in extensive gardens."
 story: "The Blarney Stone is set into the battlements of the castle's tower, just below the parapet. To kiss it, you lie on your back, grip a pair of iron railings, and lean backwards and downwards over the sheer outer wall — a guide holds your legs, and there's ironwork to prevent an actual fall, but it doesn't feel that way. The legend that the stone confers the gift of eloquent speech dates to the 16th century, when the Lord of Blarney repeatedly delayed and deflected Queen Elizabeth I's demands with charming, non-committal replies. The queen reportedly called his explanations 'a lot of Blarney'."
+score: 8.8
 ---
 
 Blarney Castle is a 15th-century tower house, built in 1446 by Dermot McCarthy, King of Munster, and one of Ireland's best-preserved medieval fortifications. The keep stands about 26 metres tall and the climb to the top — up worn spiral stairs — is steep enough to require some care.

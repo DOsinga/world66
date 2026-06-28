@@ -16,6 +16,7 @@ story: >
   was abandoned for over fifteen centuries and has never been
   systematically excavated. From the top of La Danta the only sound is
   the rainforest.
+score: 9.4
 ---
 
 The largest Maya city of the Preclassic period, buried deep in the Peten jungle near the Mexican border, and famous for the colossal pyramid of La Danta — by volume one of the largest pyramids on earth. The site has no road. Reaching it means a five-day round-trip trek on foot or by mule from the village of Carmelita, through swamp, jungle, and a string of smaller ruins.

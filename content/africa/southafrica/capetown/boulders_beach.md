@@ -2,6 +2,7 @@
 category: Beach
 latitude: -34.1965
 longitude: 18.4502
+score: 9.1
 scores:
   activities: 0.6162
   landmark: 0.7108
@@ -11,6 +12,7 @@ tags:
 - things_to_do
 - beach
 - wildlife
+- southern_peninsula
 title: Boulders Beach
 type: poi
 ---

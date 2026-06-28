@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Johannesburg_Summers_Day
 latitude: -26.205
 loc_type: city
 longitude: 28.049722
-score: 0.48
+score: 7.14
+snippet: South African economic capital built on Witwatersrand gold, with mine dumps,
+  politics, and apartheid history.
 title: Johannesburg
 type: location
 ---

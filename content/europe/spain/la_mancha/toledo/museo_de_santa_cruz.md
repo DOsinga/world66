@@ -8,6 +8,7 @@ latitude: 39.8589
 longitude: -4.0213
 story: >
   The building that houses this museum was commissioned by Cardinal Cisneros in 1504 as a foundling hospital — a place for abandoned children. The architect Enrique Egas designed the Plateresque facade that still greets visitors today, a riot of carved stone detail around the doorway. The hospital served its original purpose for over three centuries before becoming a museum in the 19th century.
+score: 8.4
 ---
 
 The Museo de Santa Cruz occupies a stunning 16th-century hospital building just off Plaza de Zocodover, the main square. The Plateresque facade — covered in carved stone ornament so delicate it looks like metalwork — is one of the finest in Spain. Inside, the museum's collection spans Roman mosaics, Visigothic stonework, medieval ceramics, tapestries, and paintings, with a particular strength in El Greco.

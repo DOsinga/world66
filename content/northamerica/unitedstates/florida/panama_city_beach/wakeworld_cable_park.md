@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 30.2152
 longitude: -85.8617
+score: 6.2
 ---
 
 WakeWorld is a cable wakeboarding park on a freshwater lake on the northern edge of the resort area, out past the main beach development. Rather than using a boat, riders are pulled by an overhead cable system that runs a circuit around the lake — this makes it more affordable and easier to learn than traditional wakeboarding, since you can fall without worrying about the boat circling back.

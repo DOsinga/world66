@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.3092
 longitude: 25.3865
+score: 6.5
 ---
 
 Koutouloufari is the second of the three hill villages above Hersonissos (between Piskopiano below and Old Hersonissos above), and is the one most cleanly turned over to evening dining. Its single car-free spine of cobbled lane is lined with maybe twenty small tavernas and bars sharing tables on the street under bougainvillea — locally grilled meat, Cretan dakos and snails, decent house wine in copper jugs.

@@ -5,6 +5,7 @@ tags: [things_to_do]
 snippet: The southern shore walk, the best sunset stroll in town
 latitude: 60.154444
 longitude: 24.946944
+score: 6.7
 ---
 
 The shoreline path along the southern edge of the peninsula, from the Kaivopuisto park west around past Löyly and Hernesaari. On a clear evening, with the sun setting over the Gulf of Finland and the skyline of central Helsinki rising to the north, it is the city's most reliable beauty spot.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20091128_Xanthi_Greece_1.j
 latitude: 41.1381
 loc_type: city
 longitude: 24.8864
-score: 0.5
+score: 7.69
+snippet: Thracian university town with Ottoman mansions, tobacco-boom lanes, and a
+  strong Muslim minority.
 title: Xanthi
 type: location
 ---

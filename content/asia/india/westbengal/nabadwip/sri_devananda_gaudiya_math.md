@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 23.3977
 longitude: 88.3630
+score: 6.8
 ---
 
 The Nabadwip headquarters of the Sri Chaitanya Gaudiya Math, one of the more scholarly branches of modern Gaudiya Vaishnavism. Founded in 1949 by Bhakti Dayita Madhava Goswami, it occupies an elegant red-and-cream temple compound on the southern edge of town.

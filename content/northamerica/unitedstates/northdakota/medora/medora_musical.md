@@ -12,6 +12,7 @@ story: >
   has run every summer since. Schafer's profits from the show, and from
   cleaning products like Mr. Bubble, funded the restoration of Medora's
   historic buildings.
+score: 7.1
 ---
 
 The Medora Musical is a Western-themed musical revue staged nightly through summer at the open-air Burning Hills Amphitheatre, a natural bowl cut into the bluff west of town. The show celebrates Roosevelt, cowboys, patriotism, and North Dakota in roughly equal measure, with horses on stage, a live band, and the painted Badlands forming the literal backdrop behind the performers.

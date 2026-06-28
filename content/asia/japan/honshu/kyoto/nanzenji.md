@@ -1,11 +1,14 @@
 ---
 latitude: 35.0114
 longitude: 135.7937
-snippet: Major Zen monastery at the foot of the eastern hills, with a brick aqueduct on its grounds
+score: 9.1
+snippet: Major Zen monastery at the foot of the eastern hills, with a brick aqueduct
+  on its grounds
 tags:
 - things_to_do
 - temple
 - sight
+- philosophers_walk
 title: Nanzen-ji
 type: poi
 ---

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 25.0780
 longitude: -77.3411
+score: 8.5
 ---
 
 The historic core of Nassau, packed into the half-kilometre stretch between Bay Street and the rise behind it. This is the Loyalist-era Nassau of pink Georgian buildings, narrow tree-lined side streets, and small squares. The cruise dock is at its western edge; everything worth seeing on foot is within fifteen minutes' walk.

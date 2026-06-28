@@ -5,6 +5,7 @@ tags:
   - eating_out
 latitude: 32.0355
 longitude: 35.7290
+score: 7.4
 ---
 
 Salt's coffee houses are not tourist cafes — they are working institutions where men have been gathering for conversation, cards, and news since the Ottoman period. The ones near the old souq, particularly along the lanes branching off Al-Hammam Street, are the most atmospheric. Expect simple wooden chairs, a cloud of cigarette smoke, and coffee or tea brought without much prompting.

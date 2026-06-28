@@ -8,6 +8,7 @@ tags:
 - sight
 title: Place de la Comédie
 type: poi
+score: 7.1
 ---
 
 Montpellier's main square — vast, oval, paved in white stone, and lined with belle époque cafés and the grand façade of the Opéra Comédie at one end. The square has been pedestrianised since the 1980s and now functions as the city's outdoor living room, where students, tourists, and skateboarders share the same space all day.

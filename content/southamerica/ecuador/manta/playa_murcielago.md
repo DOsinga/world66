@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.5
 ---
 
 The main city beach, a wide arc of pale sand on the western side of the bay. The name (Bat Beach) refers to the bat-like shape of the bay rather than any wildlife you might see. The Malecón Escénico runs along the back, lined with seafood restaurants, bars, and craft stalls, and the beach is busy with locals, surfers, and the occasional cruise-ship visitor.

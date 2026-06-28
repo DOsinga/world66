@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 55.5500
 longitude: 9.7250
+score: 7.7
 ---
 
 A few kilometres south of the centre, the narrow Lillebælt (Little Belt) strait separates Jutland from the island of Funen, crossed by two long bridges. The **Old Little Belt Bridge** (Den Gamle Lillebæltsbro), opened in 1935, is a graceful steel cantilever bridge once used by both road and rail, now reserved for slow local traffic and pedestrians.

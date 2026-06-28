@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: hoorn.jpg
 image_attribution: Ben Bender
@@ -8,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Binnenstad_Hoorn,_1621_Hoo
 latitude: 52.6411
 loc_type: city
 longitude: 5.0586
+score: 8.1
+snippet: Dutch Golden Age harbour city on the Markermeer, lined with gabled merchant
+  houses from VOC days
 sources:
 - https://en.wikipedia.org/wiki/Hoorn
 - https://en.wikivoyage.org/wiki/Hoorn

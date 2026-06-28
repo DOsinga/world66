@@ -15,6 +15,7 @@ story: >
   Inside is a 4,600-pipe organ built in Germany in the 1900s, considered one of
   the finest in Mexico. Evening organ concerts are held regularly and the sound
   fills every corner of the nave.
+score: 9.0
 ---
 
 The twin-towered Metropolitan Cathedral dominates the Plaza de Armas and is Morelia's most recognisable landmark. Built in warm pink cantera stone, the baroque facade rises in a series of columns and decorative pilasters to two elegant towers that you can see from all over the city. The interior is equally impressive: a long nave with carved stone detailing, gilt altarpieces, and that extraordinary German organ that seems almost too large for the space.

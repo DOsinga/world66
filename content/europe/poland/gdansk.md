@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Calle_Dlugie_Pobrzeze,_Gda
 latitude: 54.352
 loc_type: city
 longitude: 18.6466
-score: 0.65
+score: 8.92
+snippet: Baltic port city where the Second World War began and the Solidarity movement
+  later took shape.
 title: Gdansk
 type: location
 ---

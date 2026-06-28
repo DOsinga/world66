@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 6.6
 ---
 
 The southern edge of the town drops away sharply, and a series of small terraces along Via Roma and the adjoining lanes act as informal viewpoints. From here the eye runs out over the Bradano valley, the patchwork of olive groves and wheat fields below, and on a clear morning the Ionian coast some 30 km to the southeast.

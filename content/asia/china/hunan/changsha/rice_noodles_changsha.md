@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.1960
 longitude: 112.9750
+score: 7.6
 ---
 
 Rice flour noodles — mifen — are the foundation of Changsha breakfast culture. The noodles come in several preparations: mala (spiced broth with beef), assorted (mixed toppings), or dry-mixed with oil and condiments. The best shops open at five or six in the morning and may run out of broth by mid-morning. A bowl costs ¥8–15.

@@ -5,7 +5,9 @@ done:
 latitude: 45.832683
 loc_type: city
 longitude: 2.851766
-score: 0.41
+score: 6.63
+snippet: Auvergne village on the Sioule river, watched over by the medieval towers
+  of Château Dauphin
 title: Pontgibaud
 type: location
 ---

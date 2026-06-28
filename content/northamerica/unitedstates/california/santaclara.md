@@ -5,7 +5,9 @@ done:
 latitude: 37.354113
 loc_type: city
 longitude: -121.955174
-score: 0.37
+score: 6.42
+snippet: Silicon Valley city with mission history, technology campuses, and Levi's
+  Stadium near San Jose
 title: Santa Clara
 type: location
 ---

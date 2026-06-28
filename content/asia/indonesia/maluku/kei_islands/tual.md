@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -5.6537
 longitude: 132.7506
 story: "Tual and the adjacent town of Langgur sit on opposite sides of a narrow strait between Kei Kecil and the small island of Dullah. In 2008 Tual became a separate municipality from Maluku Tenggara Regency — a political manoeuvre that split the regional capital in two and left both towns competing for administrative functions. Visitors rarely notice or care: the two urban areas function as one, connected by a bridge, and are collectively the commercial hub of the southeastern Maluku islands."
+score: 5.8
 ---
 
 Tual is the main town and transport hub of the Kei Islands, spread across the narrow strait between Kei Kecil and Dullah Island. It has hotels, restaurants, a market, and connections by air and sea to Ambon and beyond. It is not a destination in itself but a necessary base for exploring the islands.

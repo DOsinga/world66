@@ -1,11 +1,12 @@
 ---
 latitude: 31.6241
 longitude: -7.9935
+score: 8.8
 tags:
 - things_to_do
 - mosque
 - sight
-- mellah
+- medina
 title: Koutoubia Mosque
 type: poi
 ---

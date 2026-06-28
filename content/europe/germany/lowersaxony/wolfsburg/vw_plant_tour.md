@@ -8,6 +8,7 @@ snippet: Guided tour of Volkswagen's vast main factory beside the Mittelland Can
 latitude: 52.4389
 longitude: 10.7655
 story: "The plant covers more than 6.5 square kilometres — bigger than the Principality of Monaco — and employs around 60,000 people. It is the largest car factory in Europe, fed by a private railway and its own port on the Mittelland Canal."
+score: 8.8
 ---
 
 Volkswagen runs scheduled guided tours of the main plant, including the press shop, the body assembly hall, and the final line where Golfs, Tiguans, and Touareg ID.3s come together. The tour lasts about two hours and is conducted on foot and by electric bus through the gigantic halls.

@@ -10,6 +10,7 @@ longitude: -92.1694
 snippet: Elegant 1871 Second Empire mansion open for public tours
 sources:
   - https://en.wikipedia.org/wiki/Missouri_Governor%27s_Mansion
+score: 7.4
 ---
 
 The Missouri Governor's Mansion is a handsome Second Empire structure built in 1871, set on a terrace above the Missouri River near the Capitol. With its mansard roof and elaborate Victorian interiors, it is one of the more impressive governor's residences in the country, and public tours are available on Tuesday and Thursday mornings when the governor isn't in residence.

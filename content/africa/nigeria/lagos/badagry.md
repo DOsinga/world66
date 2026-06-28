@@ -8,6 +8,7 @@ story: "The Point of No Return on the beach at Badagry is the spot from which an
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 Badagry is a former Atlantic slave-trade port two hours west of Lagos, almost on the Benin border. It was one of the busiest slaving ports in West Africa for three centuries, and the small town museums document the trade with chilling specificity: the **Mobee Family Slave Relics Museum** displays leg irons, neck chains, and a slave trader's family photographs; the **Brazilian Barracoon**, the warehouse where the captured were held, has been preserved; and the **Point of No Return** on the beach is the spot from which the marched-out people boarded the waiting ships. A confronting, important day trip from Lagos.

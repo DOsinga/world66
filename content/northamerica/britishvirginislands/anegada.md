@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/23953244@N00/334638116
 latitude: 18.7275
 loc_type: city
 longitude: -64.3472
-score: 0.57
+score: 8.4
+snippet: Flat coral island in the British Virgin Islands, ringed by Horseshoe Reef
+  and long white beaches
 title: Anegada
 type: location
 ---

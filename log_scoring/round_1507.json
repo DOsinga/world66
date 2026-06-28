@@ -1,200 +1,200 @@
 {
   "round": 1507,
-  "timestamp": "2026-04-13T10:26:55",
+  "timestamp": "2026-06-13T20:34:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Massimino",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
-      "prior_score": -3.4433,
-      "prior_variance": 0.498967,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 7.6707,
+      "prior_variance": 0.353621,
       "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Almonaster La Real",
-      "path": "europe/spain/andalucia/almonaster_la_real",
-      "prior_score": 1.579,
-      "prior_variance": 0.393567,
-      "prior_n": 3
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.8601,
+      "prior_variance": 0.337091,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Monkstown",
-      "path": "europe/ireland/cork/monkstown",
-      "prior_score": -2.5114,
-      "prior_variance": 0.395693,
-      "prior_n": 3
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 4.6882,
+      "prior_variance": 0.330909,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Omagh",
-      "path": "europe/unitedkingdom/northernireland/omagh",
-      "prior_score": -3.0151,
-      "prior_variance": 0.395015,
-      "prior_n": 4
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 4.2015,
+      "prior_variance": 0.263652,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Odder",
-      "path": "europe/denmark/odder",
-      "prior_score": -2.4225,
-      "prior_variance": 0.413216,
-      "prior_n": 3
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.7884,
+      "prior_variance": 0.293934,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Vernal",
-      "path": "northamerica/unitedstates/utah/vernal",
-      "prior_score": -1.9527,
-      "prior_variance": 0.402832,
-      "prior_n": 3
-    },
-    {
-      "rank": 7,
-      "title": "York",
-      "path": "northamerica/unitedstates/pennsylvania/york",
-      "prior_score": -3.7077,
-      "prior_variance": 0.449524,
-      "prior_n": 3
-    },
-    {
-      "rank": 8,
-      "title": "Kerrville",
-      "path": "northamerica/unitedstates/texas/kerrville",
-      "prior_score": -3.375,
-      "prior_variance": 0.390407,
-      "prior_n": 3
-    },
-    {
-      "rank": 9,
-      "title": "North Bend",
-      "path": "northamerica/unitedstates/oregon/north_bend",
-      "prior_score": -2.756,
-      "prior_variance": 0.419825,
-      "prior_n": 3
-    },
-    {
-      "rank": 10,
-      "title": "Carbondale",
-      "path": "northamerica/unitedstates/illinois/carbondale",
-      "prior_score": -4.4273,
-      "prior_variance": 0.46511,
-      "prior_n": 3
-    },
-    {
-      "rank": 11,
-      "title": "Jermuk",
-      "path": "europe/armenia/vayots_dzor_marz/jermuk",
-      "prior_score": -4.5612,
-      "prior_variance": 0.811641,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": -0.3257,
+      "prior_variance": 0.29079,
       "prior_n": 4
     },
     {
+      "rank": 7,
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": -1.0499,
+      "prior_variance": 0.262987,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 4.0599,
+      "prior_variance": 0.295687,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": -1.2063,
+      "prior_variance": 0.298704,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": -1.2508,
+      "prior_variance": 0.298411,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -2.7848,
+      "prior_variance": 0.262091,
+      "prior_n": 5
+    },
+    {
       "rank": 12,
-      "title": "San Pedro de Macor\u00eds",
-      "path": "northamerica/dominicanrepublic/san_pedro",
-      "prior_score": -1.9801,
-      "prior_variance": 0.396534,
-      "prior_n": 3
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -6.7195,
+      "prior_variance": 0.430849,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Trujillo",
-      "path": "northamerica/honduras/trujillo",
-      "prior_score": -2.5502,
-      "prior_variance": 0.309696,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.5059,
+      "prior_variance": 0.342598,
       "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Tully",
-      "path": "australiaandpacific/australia/queensland/tully",
-      "prior_score": -4.422,
-      "prior_variance": 0.385711,
-      "prior_n": 3
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -3.3271,
+      "prior_variance": 0.420579,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "West Bengal",
-      "path": "asia/india/westbengal",
-      "prior_score": -3.3403,
-      "prior_variance": 0.739425,
-      "prior_n": 3
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -4.8643,
+      "prior_variance": 0.442954,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Indore",
-      "path": "asia/india/madhyapradesh/indore",
-      "prior_score": -2.9016,
-      "prior_variance": 0.37097,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -4.2453,
+      "prior_variance": 0.344475,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Shimoga",
-      "path": "asia/india/karnataka/shimoga",
-      "prior_score": -2.6075,
-      "prior_variance": 0.440194,
-      "prior_n": 3
-    },
-    {
-      "rank": 18,
-      "title": "Jambi",
-      "path": "asia/indonesia/sumatra/jambi",
-      "prior_score": -3.9226,
-      "prior_variance": 0.396247,
-      "prior_n": 3
-    },
-    {
-      "rank": 19,
-      "title": "Tarlac",
-      "path": "asia/philippines/tarlac",
-      "prior_score": -3.9225,
-      "prior_variance": 0.435726,
-      "prior_n": 3
-    },
-    {
-      "rank": 20,
-      "title": "Narayangarh",
-      "path": "asia/nepal/narayangarh",
-      "prior_score": -2.9108,
-      "prior_variance": 0.361585,
-      "prior_n": 4
-    },
-    {
-      "rank": 21,
-      "title": "Sogod",
-      "path": "asia/philippines/southern_leyte/sogod",
-      "prior_score": -4.4561,
-      "prior_variance": 0.441798,
-      "prior_n": 3
-    },
-    {
-      "rank": 22,
-      "title": "Pointe-Noire",
-      "path": "africa/congobrazzaville/pointenoire",
-      "prior_score": -3.7189,
-      "prior_variance": 0.369031,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.9692,
+      "prior_variance": 0.360788,
       "prior_n": 5
     },
     {
+      "rank": 18,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -5.0872,
+      "prior_variance": 0.372359,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -6.7435,
+      "prior_variance": 0.405055,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -7.4125,
+      "prior_variance": 0.348369,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -6.2562,
+      "prior_variance": 0.289872,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.4904,
+      "prior_variance": 0.385985,
+      "prior_n": 4
+    },
+    {
       "rank": 23,
-      "title": "Sikasso",
-      "path": "africa/mali/sikasso",
-      "prior_score": -5.9413,
-      "prior_variance": 0.598256,
-      "prior_n": 3
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -13.1364,
+      "prior_variance": 0.902897,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Clarksburg",
-      "path": "northamerica/unitedstates/westvirginia/clarksburg",
-      "prior_score": -4.7137,
-      "prior_variance": 0.40245,
-      "prior_n": 3
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -12.9438,
+      "prior_variance": 0.654954,
+      "prior_n": 5
     }
   ]
 }

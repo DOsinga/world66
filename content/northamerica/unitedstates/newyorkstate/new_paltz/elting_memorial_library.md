@@ -8,6 +8,7 @@ latitude: 41.748333
 longitude: -74.084722
 sources:
   - https://en.wikipedia.org/wiki/Elting_Memorial_Library
+score: 5.1
 ---
 
 The Elting Memorial Library has served New Paltz since 1909 and occupies a handsome brick building on Main Street. It is named for the Elting family, one of the original Huguenot families of New Paltz, whose descendants provided the land and funding for the original building. The library has been expanded and updated over the years while maintaining its central role in village life.

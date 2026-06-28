@@ -1,7 +1,7 @@
 ---
-category: Monument
 latitude: -33.954
 longitude: 18.4571
+score: 7.0
 scores:
   activities: 0.5343
   sight: 0.668
@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - sight
 - history
+- observatory
 title: Rhodes Memorial
 type: poi
 ---

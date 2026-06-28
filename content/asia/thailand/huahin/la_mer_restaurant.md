@@ -1,5 +1,8 @@
 ---
 address: Nebkahad Road
+latitude: 12.5802
+longitude: 99.9606
+score: 4.7
 tags:
 - eating_out
 - restaurant

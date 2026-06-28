@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.7482
 longitude: -74.0861
+score: 6.1
 ---
 
 The Village Tea Room is a long-standing New Paltz institution occupying a Victorian house on Wall Street, a block off the main drag. The focus is on local, seasonal food: salads from nearby farms, hearty soups, and sandwiches made with real care. The dining room is small and cozy, with mismatched furniture and a warmth that feels genuinely domestic rather than contrived.

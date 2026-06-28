@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.5974
 longitude: -6.5335
+score: 7.0
 ---
 
 Ciudad Rodrigo has an unexpected claim to fame: a museum dedicated entirely to chamber pots, holding over 1,300 examples. The collection was assembled over decades by a local enthusiast and covers objects from across Europe and several centuries, ranging from plain earthenware to elaborately decorated porcelain.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The **Wang Family Courtyard** (*Wang Jia Dayuan*) is a late-Qing merchant's compound — a sequence of four small courtyards, three halls and a private garden, occupying half a city block in the eastern quarter of the old town. The Wangs were a successful trading family active in the salt and silk trades; the house has been preserved much as it was at the end of the 19th century, with original furniture, wooden screens, decorated beams and stone-carved gateposts.

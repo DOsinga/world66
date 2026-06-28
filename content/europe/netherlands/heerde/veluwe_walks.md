@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 52.4056
 longitude: 6.0000
+score: 7.8
 ---
 
 The Veluwe is one of the largest nature reserves and heath landscapes in the Netherlands, and the Heerde municipality sits at its western edge where the forest meets the IJssel river valley. The contrast between the dense woods and heathlands of the Veluwe proper and the flat, open IJssel polder is a distinctive feature of the area.

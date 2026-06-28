@@ -7,6 +7,7 @@ tags:
 latitude: -16.5100
 longitude: 145.4700
 story: "Four Mile Beach is actually four miles long — unusual among beaches named after a measurement. The northern end, closest to the town, is patrolled and has a stinger enclosure for safe swimming in jellyfish season. The southern end, largely empty, is where you go to walk without seeing another person."
+score: 8.0
 ---
 
 Four Mile Beach is Port Douglas's front yard: a long, gently curving sweep of pale sand with the forested headland of Flagstaff Hill at the north end and the Coral Sea running east. The beach is wide, the sand is white, and on clear mornings the water is startlingly blue. By Cairns standards it is quiet; by anywhere-else standards it is a very good beach.

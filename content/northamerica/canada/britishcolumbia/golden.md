@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-06-02'
+image: golden.jpg
+image_attribution: The High Fin Sperm Whale
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Golden_Ears_mountain.jpg
 latitude: 51.299222
 loc_type: city
 longitude: -116.964296
-score: 0.58
+score: 7.94
+snippet: British Columbia mountain town between the Rockies and Purcells, built for
+  Kicking Horse adventures.
 title: Golden
 type: location
-image: golden.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Golden_Ears_mountain.jpg
-image_license: CC BY-SA 3.0
-image_attribution: The High Fin Sperm Whale
 ---
 
 Golden is a small mountain town in southeastern British Columbia, wedged between the Rocky and Purcell ranges at the confluence of the Kicking Horse and Columbia rivers. It is surrounded by six national parks — [Yoho](/northamerica/canada/britishcolumbia/golden/yoho_national_park), [Glacier](/northamerica/canada/britishcolumbia/golden/glacier_national_park), Banff, [Kootenay](/northamerica/canada/britishcolumbia/golden/kootenay_national_park), Jasper, and Mount Revelstoke — making it one of the best-positioned adventure bases in the Canadian Rockies.

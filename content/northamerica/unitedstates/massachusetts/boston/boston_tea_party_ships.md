@@ -10,6 +10,7 @@ tags:
 title: Boston Tea Party Ships and Museum
 type: poi
 url: www.bostonteapartyship.com
+score: 7.0
 ---
 
 A floating museum on the Fort Point Channel built around two replicas of the Boston Tea Party ships, the Beaver and the Eleanor, with a smaller replica of the Dartmouth alongside. Actors in colonial costume run the visit: you join a town meeting in a recreation of Old South Meeting House, vote on dumping the tea, then march out to the ships and chuck a balsa-wood crate of tea over the side.

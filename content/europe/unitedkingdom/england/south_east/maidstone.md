@@ -10,6 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Maidstone0115.JPG
 latitude: 51.2748
 loc_type: city
 longitude: 0.5217
+score: 6.54
+snippet: Kent county town in the Medway valley, with a working market centre and riverside
+  countryside nearby
 title: Maidstone
 type: location
 ---

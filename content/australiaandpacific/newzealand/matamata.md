@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Matamata_i-SITE.jpg
 latitude: -37.8167
 loc_type: city
 longitude: 175.7667
+score: 8.36
+snippet: Small Waikato dairy town at the Kaimai Range, known worldwide as the gateway
+  to Hobbiton.
 sources:
 - https://en.wikipedia.org/wiki/Matamata
 - https://en.wikipedia.org/wiki/Hobbiton_Movie_Set

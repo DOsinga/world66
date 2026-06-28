@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
   - park
+score: 8.3
 ---
 
 Cheekwood is a 1929 Georgian-revival mansion and 55 acres of formal gardens nine miles south-west of downtown, built by the family that founded the Maxwell House coffee company. The house, set high in the West Meade hills, is now an art museum with strong collections of American art, English silver, and 20th-century studio glass; the gardens around it range from sculpture trails through to a meticulous Japanese garden and a children's discovery garden.

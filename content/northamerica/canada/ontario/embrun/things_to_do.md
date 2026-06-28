@@ -1,11 +1,9 @@
 ---
 accessibility: Accessible from the Central Part of Embrun
 email: none
-latitude: 43.660139
-longitude: -79.417114
 phone: none
 title: Things to do
-type: poi
+type: section
 url: none
 ---
 

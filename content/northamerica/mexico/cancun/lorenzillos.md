@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Lorenzillo's
 type: poi
+score: 5.6
 ---
 
 A pirate-themed lagoon-side fish house that has been one of the Hotel Zone's anchor restaurants since 1988. The setting — a giant palapa-roofed dining room jutting out into the Nichupté Lagoon — is half the appeal, especially at sunset. The signature is live Caribbean lobster from the on-premises tanks, grilled, baked, or prepared a dozen ways; the tableside Cherry Jubilee is the equally theatrical dessert.

@@ -7,6 +7,7 @@ tags:
 latitude: -30.033055
 longitude: 30.907222
 snippet: "Coastal vegetation reserve linking the beach with the suburbs"
+score: 6.0
 ---
 
 A long, narrow strip of protected coastal vegetation running parallel to the beach north of Amanzimtoti towards Athlone Park. The park preserves dune forest, grassland, and milkwood thickets — the natural cover of the KwaZulu-Natal coast before development took most of it. A network of footpaths and a paved walking trail along the old water pipeline give the park its name.

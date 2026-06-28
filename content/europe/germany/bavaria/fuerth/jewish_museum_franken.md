@@ -15,6 +15,7 @@ story: >
   ten percent of the city's population. The community produced scholars, merchants, and politicians going back
   centuries; the city was known as the "Franconian Jerusalem." Almost all of it was destroyed. Henry Kissinger's
   family fled in 1938. Most who stayed did not survive.
+score: 8.0
 ---
 
 The Jewish Museum Franken occupies a former Jewish merchant's house in the Altstadt and traces four centuries of Jewish life in Franconia — from the thriving communities of the 17th and 18th centuries through the catastrophic collapse under National Socialism. The collection is thoughtful and specific, drawing on local documents, photographs, and everyday objects rather than abstracted statistics.

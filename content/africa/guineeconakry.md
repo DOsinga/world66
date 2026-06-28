@@ -8,16 +8,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Fouta_Djallon_(14582291826).jpg
 latitude: 9.9456
+loc_type: country
 longitude: -9.6966
+quick_facts:
+  Bauxite Reserves: largest in the world
+  Language: French
+  Population: 14 million
+  Source of Niger River: Fouta Djallon highlands
+score: 0.37
+snippet: West African country of Fouta Djallon waterfalls, rainforest, Atlantic coast,
+  and demanding overland travel
 title: Guinea
 type: location
-quick_facts:
-  Population: "14 million"
-  Language: French
-  Bauxite Reserves: largest in the world
-  Source of Niger River: Fouta Djallon highlands
-score: 0.22
-loc_type: country
 ---
 
 Guinea is one of West Africa's most rewarding and least visited countries. It has staggering natural beauty -- the sandstone plateaus and waterfalls of the Fouta Djallon highlands, the dense rainforests of the south, and a long Atlantic coastline -- but almost no tourist infrastructure. You come here for adventure, not comfort.

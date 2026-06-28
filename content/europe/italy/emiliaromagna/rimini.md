@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arco_d%27Augusto,_Rimini_I
 latitude: 44.0594
 loc_type: city
 longitude: 12.5683
-score: 0.61
+score: 8.52
+snippet: Adriatic resort city with Roman landmarks, sandy beaches, and a historic
+  centre behind the waterfront.
 title: Rimini
 type: location
 ---

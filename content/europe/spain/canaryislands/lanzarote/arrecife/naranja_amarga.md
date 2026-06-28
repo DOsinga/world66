@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.9617
 longitude: -13.5470
+score: 6.2
 ---
 
 A small, much-loved seafood-and-tapas restaurant on the streets behind the Charco de San Ginés. The menu changes with the catch — grilled *vieja*, octopus carpaccio, fried fresh anchovies, tuna belly with mojo — served in modest portions at fair prices.

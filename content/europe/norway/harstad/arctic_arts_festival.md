@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 68.7979
 longitude: 16.5404
+score: 8.5
 ---
 
 The Arctic Arts Festival (Festspillene i Nord-Norge) is Norway's largest festival outside the Bergen International Festival, and the biggest cultural event in the north of the country. It runs for about ten days in June and brings together theatre, music, dance, visual art, and outdoor performances across venues throughout Harstad and the surrounding area.

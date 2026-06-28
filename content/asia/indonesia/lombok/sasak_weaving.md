@@ -9,6 +9,7 @@ title: Sasak Weaving Villages (Sukarara)
 type: poi
 story: >
   Sasak weaving is not simply a craft but a cultural institution: traditionally, a young Sasak woman was not considered marriageable until she had demonstrated weaving proficiency. The patterns in the cloth — geometric, intricate, some requiring months to complete — are passed down from mothers to daughters and carry specific meaning within the community. The most complex pieces use as many as fifteen threads simultaneously on a backstrap loom.
+score: 6.7
 ---
 
 Sukarara, about 25 km south of Mataram, is the main weaving village on Lombok, where traditional Sasak handloom cloth has been produced for centuries. The village has dozens of small weaving workshops where women work at backstrap looms producing the distinctive Lombok songket — silk or cotton cloth with gold or silver thread woven through in geometric patterns.

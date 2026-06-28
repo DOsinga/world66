@@ -8,6 +8,7 @@ latitude: 25.4540
 longitude: 78.5760
 story: >
   The temple's shikhara was damaged during the 1857 bombardment and later repaired under the authority of the post-revolt colonial administration. The repairs are visible if you know what to look for — a slight change in the stone colour in the upper section. The temple was used as a landmark by British artillery officers during the siege; a fact the priests are aware of and do not especially celebrate.
+score: 6.5
 ---
 
 The Lakshmi Narayan Temple is one of Jhansi's most active Hindu pilgrimage sites, a Vaishnava temple with an ornate shikhara that stands out against the flat roofscape of the old city below the fort. The main shrine is dedicated to Vishnu and Lakshmi; subsidiary shrines hold Hanuman and Shiva images. The temple precinct is busy through most of the day and genuinely crowded at dawn and dusk puja.

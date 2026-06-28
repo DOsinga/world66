@@ -8,6 +8,7 @@ latitude: 27.8969
 longitude: 78.0764
 story: >
   The fort changed hands repeatedly — from the Jats to the Marathas to the British, who fought a fierce battle for it in September 1803. The Battle of Aligarh was one of the decisive engagements of the Second Anglo-Maratha War, and the British victory here opened the road to Delhi. The fort today is used partly by the university's botanical gardens, which has rather softened its military character.
+score: 6.9
 ---
 
 The Aligarh Fort, also known as Ramgarh Quila, stands on a slight rise to the northwest of the city centre, surrounded by a wide moat. Built and rebuilt by a succession of rulers from the 16th century onward, its current form owes much to the Maratha general Mahadji Shinde, who fortified it in the late 18th century. The British captured it in 1803 and held it until independence.

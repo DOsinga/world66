@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Barra_de_Navidad_-_panoram
 latitude: 19.205644
 loc_type: city
 longitude: -104.68209
-score: 0.56
+score: 7.82
+snippet: Pacific fishing town on a sandbar between surf beach and mangrove lagoon
+  on the Costalegre
 sources:
 - https://en.wikipedia.org/wiki/Barra_de_Navidad
 - https://en.wikipedia.org/wiki/Miguel_L%C3%B3pez_de_Legazpi

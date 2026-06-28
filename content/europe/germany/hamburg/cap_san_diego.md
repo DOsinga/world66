@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 7.7
 ---
 
 The Cap San Diego, moored at the Überseebrücke a short walk east of the Landungsbrücken, is the largest seaworthy cargo museum ship in the world. Built in 1961 for the Hamburg-South America Line, she made 120 round trips to Buenos Aires before retiring in 1986 and being preserved by the city.

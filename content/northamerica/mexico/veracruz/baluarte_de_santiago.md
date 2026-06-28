@@ -12,6 +12,7 @@ story: >
   colonial city. Built in 1635, it held 16 cannons and was known locally as the "Bastion of
   Gunpowder." When the wall was demolished in the 19th century, this single bastion was left
   standing — possibly because it was too solid to bother tearing down.
+score: 7.2
 ---
 
 The Baluarte de Santiago is the sole remaining section of the fortified wall that once enclosed the colonial city of Veracruz. Built in 1635, it was one of nine bastions that formed the city's defences against the pirate attacks that plagued the Gulf port throughout the 17th century. The wall itself was demolished in the 19th century as the city expanded, but this single thick-walled bastion survived.

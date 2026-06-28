@@ -7,6 +7,7 @@ tags:
 latitude: 43.2305
 longitude: -86.2642
 snippet: Waterfront bar with views over Muskegon Lake, cold beer, and straightforward food
+score: 5.2
 ---
 
 The Lake House sits on the water's edge with good views over Muskegon Lake and a relaxed outdoor deck that fills up on summer evenings. It is primarily a bar with food rather than a restaurant — cold beer, cocktails, and a menu of burgers, baskets, and bar snacks. The setting does most of the work.

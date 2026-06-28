@@ -8,6 +8,7 @@ tags:
 - museum
 title: Museo Archeologico Nazionale
 type: poi
+score: 8.0
 ---
 
 The National Archaeological Museum of Metaponto holds the finds from over a century of excavation at Metapontum and the surrounding chora. Red-figure pottery, votive bronzes, coins, and grave goods are laid out clearly by period; the labels are in Italian and English.

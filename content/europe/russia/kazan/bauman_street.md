@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - centre
+score: 6.9
 ---
 
 Bauman Street is Kazan's main pedestrian boulevard, running roughly a kilometre from the foot of the Kremlin south to Tukay Square. Cobbled, traffic-free, and lined with 19th-century merchant houses, restored Soviet-era buildings, fountains, and statues, it is the city's main daytime promenade.

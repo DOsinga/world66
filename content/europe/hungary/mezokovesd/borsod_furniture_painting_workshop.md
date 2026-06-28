@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.8128
 longitude: 20.5720
+score: 6.7
 ---
 
 One of several workshops in the Hadas district, the furniture painting workshop traditionally associated with the Bori Néni school keeps alive the bright, floral painted-chest tradition. Painted dowry chests, beds, and cupboards were the standard furnishings of a Matyó home in the nineteenth century — the patterns mirror the embroidery, all tulips and roses on a dark ground.

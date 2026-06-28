@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Espoo Cathedral
 type: poi
+score: 7.7
 ---
 
 The Espoo Cathedral is the oldest standing building in the city, dating from the late 1480s. It is built in the regional grey-stone style — whitewashed walls, stepped gables, and a roof of red tile — and is small and severe inside, more parish kirk than grand cathedral despite its rank. Frescoes of biblical scenes survive on the walls and ceiling vaults, painted around 1510 and rediscovered under whitewash in 1923.

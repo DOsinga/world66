@@ -7,6 +7,7 @@ tags:
 latitude: 41.0148
 longitude: 117.9214
 snippet: Hillside temple dedicated to Manjushri, north of the Mountain Resort
+score: 6.7
 ---
 
 Shuxiang Temple (殊像寺) was built in 1774 as a Han-Chinese-style temple dedicated to Manjushri, the bodhisattva of wisdom. The Qianlong Emperor identified personally with Manjushri — Chinese imperial propaganda routinely referred to him as a manifestation of the bodhisattva — and the temple was a private rather than diplomatic project.

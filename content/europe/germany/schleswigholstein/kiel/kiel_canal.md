@@ -11,6 +11,7 @@ story: >
   The Nord-Ostsee-Kanal was opened in 1895 by Kaiser Wilhelm II, who saw it primarily as a strategic military route that would allow the Imperial Navy to move between the North Sea and the Baltic without passing through Danish waters. At 98.6km it was, at the time of its opening, the longest ship canal in the world. Today it handles more ship traffic than the Suez and Panama Canals combined — around 30,000 vessels a year — and has become the world's busiest artificial waterway by vessel count.
 sources:
   - https://en.wikipedia.org/wiki/Kiel_Canal
+score: 8.3
 ---
 
 The Nord-Ostsee-Kanal — the Kiel Canal — connects the North Sea to the Baltic at its eastern end in Kiel, and is the world's busiest artificial waterway by vessel count. Some 30,000 ships pass through each year, cutting 460km off the voyage around the Jutland peninsula.

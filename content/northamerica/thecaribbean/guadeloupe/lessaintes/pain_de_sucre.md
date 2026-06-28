@@ -8,6 +8,7 @@ latitude: 15.8611
 longitude: -61.5983
 story: >
   Pain de Sucre — Sugarloaf — takes its name from the distinctive rocky mound that closes off one end of the bay, giving the cove its protected, almost lagoon-like character. The rock's profile, seen from the beach at low tide, looks remarkably like the famous Sugarloaf in Rio de Janeiro. The water here is so clear and the sea so calm that snorkellers regularly see sea turtles without leaving the cove.
+score: 8.8
 ---
 
 Pain de Sucre is frequently cited as one of the most beautiful beaches in the Caribbean — a small cove of white sand enclosed by rocky headlands, with a distinctive sugarloaf rock closing off one end and calm, intensely turquoise water filling the bay. It lives up to the reputation.

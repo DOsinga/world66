@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Valencay_20050726.
 latitude: 47.1615
 loc_type: city
 longitude: 1.5666
-score: 0.54
+score: 7.82
+snippet: Loire Valley town dominated by Talleyrand’s grand Château de Valençay and
+  its formal gardens.
 title: Valençay
 type: location
 ---

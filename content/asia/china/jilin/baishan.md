@@ -1,17 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: baishan.jpg
+image_attribution: Windmemories
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20240710_Baishan_Pagoda_01.jpg
 latitude: 41.9377
 loc_type: city
 longitude: 126.4179
+score: 6.03
+snippet: Mountain city in southern Jilin near the Yalu River and Changbai Mountain
+  landscapes.
 sources:
 - https://en.wikivoyage.org/wiki/Baishan
 title: Baishan
 type: location
-image: baishan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:20240710_Baishan_Pagoda_01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Windmemories
 ---
 
 Baishan sits in the mountainous southern part of Jilin Province, close enough to the North Korean border to make the Yalu River visible from the city's edge. The terrain around it is the defining fact of the place: mountains, valleys, and rivers with a topography that produces some of China's most severe winters and some of its more striking seasonal landscapes. Spring wildflowers, autumn foliage in the birch and pine forests, winter ice and snow — the city has built small festivals around each of these, which is a practical acknowledgement that the landscape is the attraction and the city itself is the frame for it.

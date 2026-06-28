@@ -7,6 +7,7 @@ tags:
 latitude: -20.1119
 longitude: 16.1547
 snippet: "Famous Namibian bakery serving German-style bread, strudel, and pastries since the colonial era"
+score: 6.4
 ---
 
 Töpfers Konditorei is one of the most famous bakeries in Namibia — a colonial-era institution that has been baking German-style bread, strudel, and cakes in Outjo for generations. Namibia's German heritage is strongest in the food: Konditorei, Bäckerei, and Metzgerei (delicatessen) culture survived the end of German colonial rule and still operates in towns like Outjo, Swakopmund, and Lüderitz.

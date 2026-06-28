@@ -13,6 +13,7 @@ story: >
   by West Texas wind and weather. You would drive straight past without knowing it was there.
   A small concrete ramp lets you stand at the bottom of a hole in the earth left by something
   falling from space.
+score: 6.4
 ---
 
 About 16 kilometres southwest of Odessa off Interstate 20 lies one of the largest and best-preserved meteor craters in the United States — though "best-preserved" is relative, since thousands of years of erosion have reduced what was once a dramatic bowl to a subtle depression in the flat Permian Basin landscape. The crater is around 168 metres in diameter, formed when a metallic meteorite struck roughly 63,000 years ago and scattered fragments across the surrounding terrain.

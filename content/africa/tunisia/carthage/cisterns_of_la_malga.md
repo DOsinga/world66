@@ -13,6 +13,7 @@ tags:
 - historic
 title: Cisterns of La Malga
 type: poi
+score: 7.9
 ---
 
 The Cisterns of La Malga, on the western edge of ancient Carthage, are the largest Roman hydraulic complex surviving in Africa — a vast set of parallel barrel-vaulted chambers built to store water delivered from the mountains by the Zaghouan aqueduct. At their peak they held something like 50,000 cubic metres, supplying both the public baths and the wealthier private houses of the imperial city.

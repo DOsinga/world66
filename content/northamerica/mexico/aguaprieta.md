@@ -5,7 +5,9 @@ done:
 latitude: 31.326749
 loc_type: city
 longitude: -109.546346
-score: 0.3
+score: 5.24
+snippet: Sonoran border city opposite Douglas, Arizona, shaped by mining, railroads,
+  and everyday cross-border commerce.
 title: Agua Prieta
 type: location
 ---

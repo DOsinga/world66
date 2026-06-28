@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 47.7333
 longitude: 16.8167
+score: 8.4
 ---
 
 Fertő Lake (known in Austria as the Neusiedlersee) is a shallow, reedy steppe lake on the Hungarian-Austrian border, about 15 kilometres from Sopron. At its widest it is about 35 kilometres long and 8 kilometres wide, but nowhere deeper than about 1.8 metres. The entire lake and its surrounding reed beds are a UNESCO World Heritage Site and a Ramsar Wetland of International Importance.

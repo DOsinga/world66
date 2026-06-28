@@ -14,6 +14,7 @@ story: >
   sponges that have accumulated over decades. Visibility on the good days
   runs to 60 feet or more, and the fish life around the structures is denser
   than anything you'll find on the natural bottom.
+score: 7.8
 ---
 
 Panama City Beach has a surprisingly active diving scene for a Gulf resort. The Navy and state have deployed dozens of artificial reefs offshore — decommissioned vessels, concrete structures, and limestone boulders — that have become some of the most productive dive sites in the eastern Gulf. Dive charter operators run multiple trips daily from the marina on Grand Lagoon.

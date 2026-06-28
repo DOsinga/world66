@@ -7,6 +7,7 @@ tags:
   - sport
   - sight
 type: poi
+score: 8.5
 ---
 
 Diavolezza — "little devil" in Romansh — is the glacier ski area of the St. Moritz ski domain, reached by cable car from the Bernina valley about 15 kilometres from the resort. At 3,000 metres, it offers high-altitude skiing with views of the Piz Bernina, the Morteratsch glacier, and a sweep of peaks along the Swiss-Italian border. The terrain is more challenging than Corviglia, with off-piste routes descending to Morteratsch that require a guide and reasonable ski competence.

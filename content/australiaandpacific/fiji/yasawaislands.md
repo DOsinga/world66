@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_on_Naviti_island,_Ya
 latitude: -17.290947
 loc_type: city
 longitude: 177.125786
-score: 0.75
+score: 9.32
+snippet: Volcanic Fijian island chain north of Viti Levu, with white beaches, clear
+  lagoons, and slow village life
 sources:
 - https://en.wikipedia.org/wiki/Yasawa
 - https://en.wikipedia.org/wiki/Yasawa_Islands

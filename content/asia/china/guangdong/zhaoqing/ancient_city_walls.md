@@ -14,6 +14,7 @@ story: >
   world map the Chinese had seen — and spent six years learning Classical
   Chinese well enough to debate philosophy with Confucian scholars before
   his influence at court secured his eventual transfer to Beijing.
+score: 7.1
 ---
 
 Zhaoqing's ancient city walls date to the Song dynasty and remain partially intact on the northern side of the old city. The wall circuit, now accessible by foot along the preserved sections, gives views over the city and connects several historic structures including the Yuejianglou mansion, which houses the local history museum. The walk is best in the late afternoon when the light falls across the old stone and the city spreads out below.

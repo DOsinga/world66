@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.3273
 longitude: 14.1699
+score: 6.2
 ---
 
 Lipnica Castle stands on a limestone bluff about 2 km south of Radovljica, above the confluence of the Sava Dolinka and Sava Bohinjka rivers. The ruins date from the 12th century and the castle changed hands repeatedly through the medieval period. It was largely destroyed in the 17th century and has been a ruin ever since, though the remaining walls are still substantial enough to give a sense of the original fortification.

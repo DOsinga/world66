@@ -8,6 +8,7 @@ latitude: -0.3630
 longitude: -78.1420
 story: >
   The geothermal system under Papallacta is part of the volcanic arc that runs along Ecuador's Andes, fed by the same forces that built Antisana and the other volcanoes visible on clear days from the village. The water temperature in the springs reaches around 70°C at source — it must be cooled before entering the pools. The Cañar people, who lived here before the Spanish conquest, knew the springs and used them; the site has been a place of healing for longer than written records go.
+score: 9.0
 ---
 
 The Termas de Papallacta resort is the main attraction in the village and one of the best-run thermal complexes in Ecuador. A series of pools — eight in the main bathing area — range from comfortably warm to almost too hot to bear, with cold river-water plunge pools for contrast. The water is clear and lightly mineralised, with sulphur notes that remind you it is geothermal rather than merely heated.

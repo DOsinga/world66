@@ -9,6 +9,7 @@ tags:
 latitude: 38.5990
 longitude: -90.2095
 story: The Brewmaster's Tour walks past 19th-century brewhouses with stained glass, hop chandeliers cast in bronze, and the original lager cellars cut into the limestone bedrock — once cooled by ice barged down from Wisconsin before refrigeration. Free beer samples follow.
+score: 7.7
 ---
 
 Anheuser-Busch's flagship brewery in Soulard has been on the same site since 1860 and is now the largest brewery in the United States. Free tours run daily through the historic brewhouse — a Romanesque pile with stained-glass windows and hops cast in bronze on the brass railings. You see the bottling line, the lager cellars, and the home of the Budweiser Clydesdales, the brewery's iconic draft horses.

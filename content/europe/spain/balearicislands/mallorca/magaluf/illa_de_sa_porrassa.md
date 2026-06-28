@@ -8,6 +8,7 @@ latitude: 39.50361111111111
 longitude: 2.545
 story: >
   The island's name comes from the Catalan word for leek — probably a reference to its elongated, narrow shape when seen from the shore. It has never been inhabited and remains entirely undeveloped, which makes it something of an anomaly in a bay otherwise lined with resort hotels. Fishing boats occasionally anchor in its lee for shelter.
+score: 5.7
 ---
 
 Illa de sa Porrassa is a small, rocky, uninhabited island lying just off the southern end of Magaluf Bay. From the beach it looks like a simple lump of limestone, but the underwater terrain around it is interesting for snorkellers — clear water, rocky reef, and good visibility most of the year. Paddle boards and sea kayaks can reach it from the beach in about fifteen minutes.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Palmeraie_gab%C3%A8s2.jpg
 latitude: 33.8833
 loc_type: city
 longitude: 10.1167
+score: 6.2
+snippet: Working port city on Tunisia’s east coast, distinguished by its rare Mediterranean
+  seaside oasis.
 title: Gabès
 type: location
 ---

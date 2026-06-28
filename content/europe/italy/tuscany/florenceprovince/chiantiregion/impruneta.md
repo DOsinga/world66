@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Basilica_di_Impruneta.jpg
 latitude: 43.685345
 loc_type: city
 longitude: 11.254664
-score: 0.57
+score: 7.9
+snippet: Chianti hill town south of Florence, long known for red terracotta tiles,
+  pots, and kilns.
 title: Impruneta
 type: location
 ---

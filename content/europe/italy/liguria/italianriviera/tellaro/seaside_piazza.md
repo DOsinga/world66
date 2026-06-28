@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0585
 longitude: 9.9300
+score: 7.9
 ---
 
 The piazza at the bottom of the village is barely a square — more a wide bend in the alley with a stone parapet over the water. It is also the heart of Tellaro: the place where everyone passing through ends up sitting for a while.

@@ -11,6 +11,7 @@ story: >
   its first since 1996 — which Lewis Hamilton used to break Michael Schumacher's
   record for most wins in Formula 1 history. The race was the first international
   sporting event in Portugal since the country emerged from its first COVID lockdown.
+score: 7.5
 ---
 
 The Autódromo Internacional do Algarve, about fifteen kilometres north of Portimão, is a purpose-built motor racing circuit that hosts MotoGP, WSBK, and various touring car championships throughout the year. The track design, with its significant changes in elevation, has made it popular with drivers and riders who consider it one of the more technically interesting circuits on the European calendar.

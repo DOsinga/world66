@@ -6,6 +6,7 @@ longitude: 55.9477
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Awafi dunes spread inland from the desert town of the same name and are the best easily-reached sand-dune landscape in the northern emirates. Iron-rich sand gives the dunes a deep rust-orange colour that is most intense in the first and last hours of daylight. They are popular with off-roaders, sandboarders, and campers from Dubai, who pitch tents along the firm gravel margins on weekends.

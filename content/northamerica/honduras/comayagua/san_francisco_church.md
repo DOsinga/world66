@@ -7,6 +7,7 @@ tags:
 - church
 title: San Francisco Church
 type: poi
+score: 7.0
 ---
 
 Another colonial-era church in Comayagua's historic center, San Francisco was built by Franciscan missionaries in the 16th century. The church is smaller and less ornate than the cathedral but has a quiet, contemplative quality. The Franciscan monastery that once adjoined it is gone, but the church interior retains original colonial woodwork and sculpture.

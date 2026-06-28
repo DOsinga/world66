@@ -11,6 +11,7 @@ tags:
 - sight
 title: Rogue River
 type: poi
+score: 9.0
 ---
 
 The Rogue is one of the great whitewater rivers of the American West. From Grants Pass it cuts west into the Klamath Mountains and runs eighty-four miles through a roadless canyon to the Pacific at Gold Beach. The most famous stretch is a thirty-four-mile Wild and Scenic section that can only be accessed by raft or on foot via the Rogue River Trail.

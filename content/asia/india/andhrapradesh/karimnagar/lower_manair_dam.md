@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.3997
 longitude: 79.1311
+score: 5.1
 ---
 
 Lower Manair Dam sits on the Manair River about 15 kilometres from Karimnagar city. Built between 1974 and 1985 by the government of Andhra Pradesh, the dam is 41 metres high and over 10 kilometres long — one of the larger earthen dams in the region. The reservoir covers 81 square kilometres and provides irrigation to some 163,000 hectares of agricultural land across Karimnagar and surrounding districts.

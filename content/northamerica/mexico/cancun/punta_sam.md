@@ -7,6 +7,7 @@ tags:
 - beach
 title: Punta Sam
 type: poi
+score: 5.3
 ---
 
 The northernmost point of mainland Cancun, where the car ferry to Isla Mujeres departs (the faster passenger ferries leave from Puerto Juárez, two kilometres south). The beach here is much quieter than anywhere in the Hotel Zone — locals come on weekends, but most weekdays you can have long stretches of pale sand essentially to yourself.

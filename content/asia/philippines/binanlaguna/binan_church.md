@@ -10,6 +10,7 @@ longitude: 121.084444
 snippet: "Colonial church complex with a stone steeple, meditation garden, and Spanish-era hacienda"
 story: >
   The Kampanaryong Bato — the Stone Steeple — was first built from pure stone in 1840, a feat of construction that must have seemed permanent. The 1870 earthquake reduced it to rubble. Rather than abandon the design, the Binanenos rebuilt it in cement, keeping the same form. The steeple that stands today is an act of stubborn architectural memory, a copy made in grief and determination.
+score: 7.6
 ---
 
 The heart of Binan's colonial heritage clusters around the town plaza in an area you can cover on foot in a couple of hours. The Roman Catholic Church anchors everything, flanked by the Alberto Mansion — one of the oldest structures in the province, dating to 1575 — and the rebuilt Kampanaryong Bato. Beside the church, the Meditation Garden lays out the 14 Stations of the Cross along a shaded path that fills with worshippers and quiet walkers throughout the day, and draws real crowds during Holy Week. All of it is free to visit, and all of it is within a short walk.

@@ -8,6 +8,7 @@ tags:
   - sight
   - sport
   - architecture
+score: 5.7
 ---
 
 The Kazan Arena, on the north bank of the Kazanka about three kilometres from the centre, was built for the 2013 Summer Universiade and used as a venue for the 2018 FIFA World Cup. The 45,000-seat stadium has a wave-shaped roof and one of the world's largest digital screens wrapped around its facade — visible from the river at night.

@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-08'
 image: smokymountains.jpg
 image_license: Public domain
@@ -8,6 +9,8 @@ latitude: 35.6343
 loc_type: region
 longitude: -83.4024
 score: 0.68
+snippet: Appalachian national park straddling Tennessee and North Carolina, known
+  for misty peaks and biodiversity.
 title: Smoky Mountains
 type: location
 ---

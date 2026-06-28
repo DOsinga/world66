@@ -7,6 +7,7 @@ tags:
 latitude: 22.6164
 longitude: 120.2742
 snippet: Long narrow sandbar across the harbour, with beach, seafood and lighthouse
+score: 8.5
 ---
 
 The long, narrow sandbar that protects Kaohsiung harbour from the open sea, reached by a five-minute ferry from Gushan Pier. Cijin feels like a different world from the city centre — a single main street of seafood restaurants and trinket shops opens onto the **Cijin Beach** on one side, and a short walk past a small temple takes you to the 19th-century **Cijin Lighthouse** and the **Old Fort** with their views over the harbour entrance.

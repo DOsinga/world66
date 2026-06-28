@@ -9,6 +9,7 @@ longitude: -3.781
 sources:
   - https://en.wikipedia.org/wiki/Fingle_Bridge
 story: "Fingle Bridge was built in the early seventeenth century to carry packhorses across the Teign. At roughly the same time, Cranbrook Castle — the Iron Age hillfort visible on the ridge above — was already two thousand years old. The juxtaposition of eras is typical of the Teign Gorge, where the landscape seems to compress time."
+score: 8.0
 ---
 
 Fingle Bridge is a seventeenth-century packhorse bridge crossing the River Teign at the bottom of the gorge about four miles from Chagford. The setting is some of the most beautiful river scenery in Devon: steep oak woodland rising from the water's edge, the granite bridge reflected in the clear river, and the sounds of the water drowning out everything else.

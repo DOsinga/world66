@@ -1,199 +1,199 @@
 {
   "round": 377,
-  "timestamp": "2026-04-12T09:14:12",
+  "timestamp": "2026-06-13T19:32:24",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Avignon",
-      "path": "europe/france/midi/provence/avignon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 8.7252,
+      "prior_variance": 2.181508,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Arles",
-      "path": "europe/france/midi/provence/arles",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 9.9744,
+      "prior_variance": 3.654711,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Bordeaux",
-      "path": "europe/france/midi/aquitaine/bordeaux",
-      "prior_mu": 25.6963,
-      "prior_sigma": 2.8323,
-      "prior_n": 6
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 1.0277,
+      "prior_variance": 1.569914,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Korcula",
-      "path": "europe/croatia/korcula",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 7.1746,
+      "prior_variance": 2.142994,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Lausanne",
-      "path": "europe/switzerland/lausanne",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 6.9355,
+      "prior_variance": 3.18995,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Glencoe",
-      "path": "europe/unitedkingdom/scotland/glencoe",
-      "prior_mu": 23.1557,
-      "prior_sigma": 5.7529,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 5.0695,
+      "prior_variance": 1.692856,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Stoupa",
-      "path": "europe/greece/stoupa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.9605,
+      "prior_variance": 1.467471,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Cork",
-      "path": "europe/ireland/cork",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 5.7313,
+      "prior_variance": 1.680664,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Morbihan",
-      "path": "europe/france/normandybrittany/morbihan",
-      "prior_mu": 21.7516,
-      "prior_sigma": 4.4784,
-      "prior_n": 2
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 0.9516,
+      "prior_variance": 2.269339,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Monts de l'Espinouse",
-      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
-      "prior_mu": 22.7512,
-      "prior_sigma": 5.9531,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 4.1684,
+      "prior_variance": 2.795021,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Simmental",
-      "path": "europe/switzerland/simmental",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 6.0468,
+      "prior_variance": 1.987719,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Trang",
-      "path": "asia/thailand/trang",
-      "prior_mu": 22.7239,
-      "prior_sigma": 5.95,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 4.1139,
+      "prior_variance": 2.077566,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Rosses Point",
-      "path": "europe/ireland/sligo/rossespoint",
-      "prior_mu": 22.594,
-      "prior_sigma": 5.9327,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": -1.386,
+      "prior_variance": 1.594317,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Manama",
-      "path": "asia/bahrain/manama",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": 0.9917,
+      "prior_variance": 1.672861,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Lesotho",
-      "path": "africa/lesotho",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": -0.7846,
+      "prior_variance": 1.618145,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Sheridan",
-      "path": "northamerica/unitedstates/wyoming/sheridan",
-      "prior_mu": 22.726,
-      "prior_sigma": 5.9503,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": 2.5285,
+      "prior_variance": 2.723882,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Ru\u017eomberok",
-      "path": "europe/slovakia/ruomberok",
-      "prior_mu": 22.7227,
-      "prior_sigma": 5.9499,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.8701,
+      "prior_variance": 1.398819,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Malay",
-      "path": "asia/philippines/aklan/malay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -0.6307,
+      "prior_variance": 1.365571,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Indore",
-      "path": "asia/india/madhyapradesh/indore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -1.8389,
+      "prior_variance": 1.605189,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Samara",
-      "path": "europe/russia/samara",
-      "prior_mu": 22.2412,
-      "prior_sigma": 5.8643,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -4.8895,
+      "prior_variance": 2.293229,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Las Cruces",
-      "path": "northamerica/unitedstates/newmexico/lascruces",
-      "prior_mu": 22.9021,
-      "prior_sigma": 5.7258,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -1.4567,
+      "prior_variance": 2.038068,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Dover",
-      "path": "northamerica/unitedstates/newhampshire/dover",
-      "prior_mu": 22.7225,
-      "prior_sigma": 5.9499,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -1.147,
+      "prior_variance": 1.413775,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Caracas",
-      "path": "southamerica/venezuela/caracas",
-      "prior_mu": 18.3441,
-      "prior_sigma": 6.7588,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -3.1167,
+      "prior_variance": 1.803421,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Reedsville",
-      "path": "northamerica/unitedstates/westvirginia/reedsville",
-      "prior_mu": 18.344,
-      "prior_sigma": 6.7587,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -3.411,
+      "prior_variance": 1.934429,
       "prior_n": 1
     }
   ]

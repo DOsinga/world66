@@ -8,6 +8,7 @@ tags:
 - sight
 title: Mystic River Bascule Bridge
 type: poi
+score: 7.6
 ---
 
 Mystic River Bascule Bridge is one of the reasons Mystic works as more than a quick highway stop. The village is small, so even the major attractions feel tied to the river, the bridge, and the working-waterfront history around them.

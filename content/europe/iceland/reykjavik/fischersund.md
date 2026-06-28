@@ -7,6 +7,7 @@ address: Fischersund 3
 tags:
   - shopping
 snippet: A "perfume museum and tea bar" run by the Sigur Rós frontman and family
+score: 6.8
 ---
 
 In an old wooden house tucked off Aðalstræti, Fischersund is part shop, part exhibition, part workshop, run by Jónsi (the Sigur Rós frontman) and his sisters. The family-made perfumes are based on Icelandic landscapes — birch buds, sea spray, moss, smoked fish — and the tiny back room is set up as an exhibition space for whichever artist is currently in residence.

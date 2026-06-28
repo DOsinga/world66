@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-02'
+image: quba.jpg
+image_attribution: Ymblanter
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bridge_between_Quba_and_Krasnaya_Sloboda.jpg
 latitude: 41.188089
 loc_type: city
 longitude: 48.372145
-score: 0.48
+score: 7.36
+snippet: Caucasus foothill town known for apple orchards, carpet weaving, and a riverside
+  old quarter
 title: Quba
 type: location
-image: quba.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bridge_between_Quba_and_Krasnaya_Sloboda.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Ymblanter
 ---
 
 Quba is a pleasant town of around 22,000 people on the north-eastern slopes of the Shahdag range in the Greater Caucasus, sitting at 600m on the right bank of the Kudyal river. It is best known for its apple orchards — hundreds of them, filling the surrounding valley, fragrant with blossom in spring — and for its carpet weaving, which Azerbaijanis claim is the finest in the region. Tour a carpet plant or browse the [carpet bazaar](/europe/azerbaijan/quba/carpet_bazaar) near the bus station.

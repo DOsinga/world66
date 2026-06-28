@@ -9,6 +9,7 @@ loc_type: region
 longitude: 1.0
 score: 0.52
 title: Norfolk
+snippet: Flat East Anglian county of big skies, medieval churches, Broads waterways, and North Sea beaches
 type: location
 ---
 
@@ -19,3 +20,7 @@ The county's only city is Norwich, a compact medieval centre with a Norman castl
 Norfolk is best known for two natural areas. The Norfolk Broads — a network of rivers, lakes, and marshes in the east — is England's largest protected wetland and a magnet for boating holidays. The North Norfolk Coast, designated an Area of Outstanding Natural Beauty, offers seal colonies, RSPB reserves, and some of the finest walking in the east of England.
 
 Food is taken seriously here. Cromer crabs, samphire from the salt marshes, mussels from Brancaster Staithe, and game from the great estates all appear on local menus. Norfolk is also famous as the home county of the Sandringham Estate, the Royal Family's country retreat near King's Lynn.
+
+## Destinations in Norfolk
+
+- [Diss](/europe/unitedkingdom/england/norfolk/diss) — south Norfolk market town centred on a deep mere near the Suffolk border

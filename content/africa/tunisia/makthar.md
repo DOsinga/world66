@@ -5,8 +5,10 @@ done:
 latitude: 35.8559
 loc_type: city
 longitude: 9.2057
-score: 0.43
+score: 7.2
 title: Makthar
+snippet: Mountain town in central Tunisia built over Mactaris, with extensive Numidian
+  and Roman ruins.
 type: location
 ---
 

@@ -9,6 +9,7 @@ tags:
   - mosque
   - old_tatar_quarter
   - architecture
+score: 7.3
 ---
 
 The Azimov Mosque, in the southern part of the Old Tatar Quarter, is one of the city's most architecturally striking mosques — a small late-19th-century building with elaborate carved stone window frames, a stepped roof, and a tall green minaret. It was built in 1890 by the merchant Mustafa Azimov and survived the Soviet era as a warehouse.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_San_Estanislao_st
 latitude: -24.665743
 loc_type: city
 longitude: -56.44168
-score: 0.29
+score: 5.33
+snippet: Small Paraguayan market town, officially San Estanislao, showing rural San
+  Pedro life around its central plaza
 title: Santaní
 type: location
 ---

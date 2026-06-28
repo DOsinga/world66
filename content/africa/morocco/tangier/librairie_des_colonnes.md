@@ -14,6 +14,7 @@ story: >
   picked up his mail here for forty years; Jean Genet, Samuel Beckett,
   Marguerite Yourcenar, Tennessee Williams, and Mohamed Choukri were all
   regulars. Yourcenar dedicated her novel L'Œuvre au Noir partly to the shop.
+score: 8.0
 ---
 
 A literary institution since 1949, the Librairie des Colonnes occupies a corner of Boulevard Pasteur in the ville nouvelle. The cream-and-blue Art Deco interior holds floor-to-ceiling stacks of French, Arabic, and English books — strong on North African literature, history, and the foreign writers who made Tangier their home. The shop was rescued from closure in 2010 by a consortium led by Pierre Bergé and reopened with the original fittings intact.

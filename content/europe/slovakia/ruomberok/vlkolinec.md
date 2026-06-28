@@ -10,6 +10,7 @@ story: >
   Vlkolínec has been continuously inhabited since the 14th century and has changed remarkably little. Most of its 45 houses are still owned and lived in by local families — it is not an open-air museum but a functioning village. The UNESCO inscription in 1993 recognised it as the best-preserved cluster of traditional wooden folk architecture in central Europe.
 sources:
   - https://en.wikipedia.org/wiki/Vlkol%C3%ADnec
+score: 9.1
 ---
 
 Vlkolínec is a perfectly preserved village of traditional Slovak log houses perched on a hillside about 5 km south of Ružomberok town centre. Inscribed as a UNESCO World Heritage Site in 1993, it contains 45 wooden houses, a Roman Catholic church from 1875, a log belfry, and a communal well — the entire ensemble essentially unchanged since the 18th and 19th centuries.

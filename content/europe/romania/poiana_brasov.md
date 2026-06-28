@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:PoianaBV.JPG
 latitude: 45.59671
 loc_type: city
 longitude: 25.556189
-score: 0.54
+score: 7.92
+snippet: Carpathian ski resort village above Brașov, founded as a mountain resort
+  in 1895.
 title: Poiana Brașov
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 67.9600
 longitude: 12.9400
+score: 8.1
 ---
 
 Horseid is the wilder neighbour of Bunes, equally remote and slightly harder to reach. The beach faces northwest into the open ocean and catches long Atlantic rollers that make it a rare surfing spot in the Arctic. The surrounding landscape is pure Lofoten drama: dark rock walls, scattered boulders, and the sea.

@@ -9,6 +9,7 @@ tags:
 - sight
 title: Former Shantou Customs House
 type: poi
+score: 7.6
 ---
 
 The former Customs House is one of the clearest architectural traces of Shantou's treaty-port era. Its formal lines and waterfront position say a lot about the city's nineteenth- and early twentieth-century role as a controlled gateway for foreign trade.

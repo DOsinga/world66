@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.0764
 longitude: 14.2073
 address: Wied il-Mielaħ, Għarb, Gozo
+score: 7.2
 ---
 
 After the Azure Window fell in 2017, the Wied il-Mielaħ arch on Gozo's northwest coast inherited its claim — a smaller but still impressive natural limestone arch where a steep wadi meets the sea. The drive ends near the village of Għarb and a short walk along the cliff edge brings you to the viewpoint above the window.

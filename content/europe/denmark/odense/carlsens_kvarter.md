@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Long-established beer pub with one of Denmark's best taps lists
+score: 6.1
 ---
 
 Carlsens Kvarter, just off the central square, has been pouring beer in this exact spot since 1972. It is unflashy from outside but inside you find a long wooden bar, low lighting, and a chalk board of 20-something rotating taps that lean heavily on Belgian and Danish craft. The bottle list runs to several hundred.

@@ -8,6 +8,7 @@ tags:
 latitude: 10.800045
 longitude: 122.973156
 story: "The house was built in 1897 by Victor Fernandez Gaston, a sugar baron whose family owned vast haciendas across Negros. During the American colonial period, it became a symbol of the ilustrado class — Filipino landowners who embraced Western education while maintaining Spanish colonial architecture and Catholic devotion."
+score: 8.6
 ---
 
 The Balay Negrense is the finest ancestral house museum in Silay and one of the best-preserved examples of late nineteenth-century Filipino domestic architecture in the Visayas. Built in 1897 for sugar baron Victor Fernandez Gaston, the two-storey house combines native hardwoods (molave, narra) with capiz shell windows that diffuse the tropical light in a warm, amber glow.

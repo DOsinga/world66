@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Georgian State Art Museum
 type: poi
+score: 7.4
 ---
 
 A grand if slightly rundown building on Gudiashvili Street that houses one of Georgia's finest collections of religious art. The main halls are filled with Georgian Christian icons, many centuries old, alongside ecclesiastical silverwork and medieval manuscripts — the kind of thing you come all the way to Tbilisi to see.

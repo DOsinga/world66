@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 25.2629
 longitude: 51.4481
+score: 7.7
 ---
 
 The 3-2-1 Qatar Olympic and Sports Museum opened in 2022 ahead of the FIFA World Cup and occupies a glass pavilion at the edge of Aspire Zone. Seven floors trace the history of the Olympic and Paralympic games and of Qatari sport, with a substantial collection of artifacts, memorabilia, and interactive displays.

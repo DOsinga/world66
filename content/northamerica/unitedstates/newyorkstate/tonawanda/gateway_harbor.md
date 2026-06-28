@@ -6,6 +6,7 @@ longitude: -78.8810
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The waterfront promenade where the Erie Canal meets the Niagara River is the social centre of both Tonawandas in the warmer months. The park has a small amphitheatre, a footbridge that crosses the canal to North Tonawanda, and floating docks for pleasure boats.

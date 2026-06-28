@@ -7,6 +7,7 @@ tags:
 latitude: 38.8982
 longitude: -77.0231
 story: "The building that houses both museums served as the US Patent Office until 1932, and Clara Barton (founder of the American Red Cross) used part of it as a hospital during the Civil War. Walt Whitman, who nursed the wounded here, described the rows of cots filling the great hall in his wartime writings."
+score: 8.5
 ---
 
 The National Portrait Gallery and the Smithsonian American Art Museum share a magnificent Greek Revival building in Penn Quarter, one of the most handsome federal buildings in Washington. Both are free and together they make an excellent half-day.

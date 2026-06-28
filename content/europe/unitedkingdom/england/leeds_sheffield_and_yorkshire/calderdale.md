@@ -5,6 +5,8 @@ latitude: 53.7205
 loc_type: region
 longitude: -1.9623
 score: 0.52
+snippet: Metropolitan borough around Halifax, known for Calder Valley mill towns and
+  the 18th-century Piece Hall.
 title: Calderdale
 type: location
 ---

@@ -9,7 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Harbour_of_S%C3%B8nderborg
 latitude: 54.908919
 loc_type: city
 longitude: 9.7898
-score: 0.5
+score: 7.36
+snippet: Danish town on Als island, centered on Sønderborg Castle and the Flensburg
+  Fjord waterfront.
+tags:
+- things_to_do
+- sight
+- town
+- als
 title: Sønderborg
 type: location
 ---

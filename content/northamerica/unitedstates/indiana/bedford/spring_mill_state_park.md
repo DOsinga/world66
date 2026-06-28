@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The Pioneer Village mill was restored in the 1930s by the Civilian Conservation Corps. They located the original millstones, rebuilt the wooden flume, and trained a miller — meal ground here has been sold continuously ever since."
+score: 8.9
 ---
 
 Spring Mill State Park is about twenty minutes east of Bedford and one of the most rewarding excursions in southern Indiana. The centrepiece is a reconstructed pioneer village from the early nineteenth century, built around a working grist mill that still grinds corn meal on a creaking wooden wheel.

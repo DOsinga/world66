@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 4.3820
 longitude: 18.6050
+score: 7.1
 ---
 
 KM5 — named for its distance along Avenue Boganda from the city centre — is the liveliest neighbourhood in Bangui: the place for cheap restaurants, music bars, street food, and the concentrated urban energy that the more formal city centre lacks. The neighbourhood has historically been predominantly Muslim and is the commercial heart of Bangui's Sudanese and Chadian trading community.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 27.6300
 longitude: 113.8700
+score: 6.2
 ---
 
 The cooking in Pingxiang reflects the city's position on the Jiangxi-Hunan border. You'll find dishes that wouldn't look out of place in Changsha — the signature Hunan dry-fried pork (干锅猪肉), fresh chilli scrambled eggs, and braised pork belly with Mao's eponymous red sauce — alongside Jiangxi staples of dried and smoked meats and the local rice noodle variants. The hybrid character of the food is one of the more interesting things about the city, though it takes some deliberate exploration to find it.

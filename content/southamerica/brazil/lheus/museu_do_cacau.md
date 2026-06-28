@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -14.7910
 longitude: -39.0458
+score: 7.6
 ---
 
 The Museu do Cacau traces the history of cacao cultivation in the Bahian south coast, from the original Theobroma cacao trees of the Atlantic Forest through the plantation boom of the 19th and early 20th centuries, the catastrophic collapse caused by witches' broom fungus (*Moniliophthora perniciosa*) in the 1980s, and the slow recovery that followed. The museum makes the economic history of the region tangible — Ilhéus and the surrounding towns are incomprehensible without understanding cacao.

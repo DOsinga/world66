@@ -6,6 +6,7 @@ longitude: 21.2303
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 St. George Cathedral on the eastern edge of Union Square is the smaller Catholic church for the central district — distinct from the larger Catholic Dome on the same square. The current church was built in 1763 on the site of a much older medieval Catholic foundation that was destroyed during the Ottoman occupation; the medieval crypt is preserved beneath the nave.

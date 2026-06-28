@@ -6,6 +6,7 @@ tags:
 - bar
 title: Café Biyaz
 type: poi
+score: 4.6
 ---
 
 **Café Biyaz** is a small local cafe on Avenue Mohammed V in Taza-Bas, the kind of no-frills Moroccan cafe that serves espresso, mint tea, and sodas to a clientele of local men watching football. Coffee runs to around 6 dirhams, tea to 4. The atmosphere is relaxed and informal.

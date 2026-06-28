@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Virunga_Mountains
 story: >
   The Virunga chain sits on the western rift valley — the boundary between two tectonic plates slowly pulling East Africa apart. The volcanoes are relatively young in geological terms; Nyiragongo in the DRC, the chain's most active member, had a major eruption in 2021 that sent lava flows through the streets of Goma. The Rwandan volcanoes — Karisimbi, Bisoke, Muhabura, Gahinga, Sabyinyo — are considered dormant but not extinct.
+score: 6.2
 ---
 
 The Virunga Mountains are a chain of eight volcanoes running roughly north-south along the borders of Rwanda, the Democratic Republic of Congo, and Uganda. From the Kinigi park headquarters, the Rwandan peaks form a continuous green skyline to the north and west — Karisimbi (4,507m), Bisoke (3,711m), Muhabura (4,127m), Gahinga (3,474m), and Sabyinyo (3,634m) are all accessible via climbing permits from the park.

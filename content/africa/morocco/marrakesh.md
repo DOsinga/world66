@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-28'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: marrakesh.jpg
 image_attribution: Petar Milošević
@@ -10,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arabian_shepherd_selling_s
 latitude: 31.625826
 loc_type: city
 longitude: -7.989161
-score: 0.77
+score: 9.47
+snippet: Moroccan imperial city of ochre medina walls, Jemaa el-Fna theatre, and Atlas
+  Mountain backdrops.
 title: Marrakesh
 type: location
 ---

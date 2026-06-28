@@ -14,6 +14,7 @@ story: >
   is thought to be Mehmet Pasha's own. The mosque is named "bajrakli" — meaning "flag mosque"
   — because its minaret was used to signal the start of Friday prayers for the whole city,
   since its elevated position made it visible across the old town.
+score: 7.8
 ---
 
 The Bajrakli Gazi Mehmet Pasha Mosque, built in 1561, is the oldest surviving Islamic monument in Prizren and one of the most important Ottoman buildings in Kosovo. It stands at the heart of the old bazaar quarter, and its modest exterior conceals an elegant interior decorated with calligraphy and geometric tilework.

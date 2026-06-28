@@ -9,6 +9,7 @@ title: Khema La Poste
 type: poi
 neighbourhood: BKK1
 snippet: French bistro in a colonial townhouse near Post Office Square
+score: 6.1
 ---
 
 Khema is a small group of French-Cambodian bistros across the city; the original branch on Street 240 in BKK1 is the most atmospheric, in a renovated townhouse with a shaded terrace. Charcuterie, rillettes and pâtés are made in-house and sold at the counter, and the menu runs to steak frites, duck confit and the day's catch from the Gulf of Thailand.

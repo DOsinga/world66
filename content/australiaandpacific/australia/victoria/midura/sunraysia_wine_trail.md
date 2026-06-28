@@ -8,6 +8,7 @@ tags:
 latitude: -34.1834
 longitude: 142.1628
 snippet: Cellar doors, olive groves, and fruit farms around the Mildura district
+score: 7.7
 ---
 
 The Sunraysia district produces a substantial share of Australia's wine grapes, table grapes, citrus, dried fruit, and olives. Most of that produce comes from large commercial operations, but around Mildura there are also smaller cellar doors and farm gates where you can taste and buy direct. The region's wines are not fashionable — the hot climate produces big, full-bodied reds and fortified wines rather than delicate cool-climate styles — but they are honest and often very good value.

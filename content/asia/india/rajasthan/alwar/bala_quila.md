@@ -13,6 +13,7 @@ story: >
   than most of the famous Rajputana forts. The Mughals used it as a prison, and
   the Maratha leader Daulat Rao Scindia briefly held Alwar from it in the early
   19th century before the British took control of the region.
+score: 7.2
 ---
 
 Bala Quila is the ancient fort that dominates the ridge above Alwar city, rising to 595 metres above sea level and accessible via a steep road or on foot. The fort's walls stretch for some 5 km along the ridge, enclosing six gates and a series of towers, palaces, and temples within. The forest on the slopes is inhabited by leopards, sloth bears, and sambar deer — you may hear langurs alarm-calling as you approach.

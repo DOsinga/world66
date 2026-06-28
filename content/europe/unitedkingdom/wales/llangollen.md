@@ -13,6 +13,9 @@ image: llangollen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beside_the_Llangollen_Canal_in_Llangollen_-_geograph.org.uk_-_7277396.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Gareth James
+score: 8.11
+snippet: Welsh Dee Valley town with canal aqueducts, a ruined hilltop castle, and
+  riverside abbey ruins.
 ---
 
 *Europe > United Kingdom > Wales > Llangollen*

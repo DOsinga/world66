@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Three towering sandstone peaks named for Abraham, Isaac and Jacob
+score: 6.3
 ---
 
 A short walk from a shuttle stop on the canyon road, a small viewing platform looks across the river at three vast sandstone peaks rising in a row above the western canyon wall: the Three Patriarchs of Abraham, Isaac and Jacob, named in 1916 by a Methodist minister visiting the canyon. A fourth peak, Mount Moroni (after the angel of Mormon scripture), sits in front of Jacob.

@@ -2,7 +2,7 @@
 address: Heritage Square, Shortmarket Street, City Bowl
 latitude: -33.9247
 longitude: 18.4182
-neighbourhood: City Bowl
+score: 7.0
 scores:
   activities: 0.6543
   eating_out: 0.8234

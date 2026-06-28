@@ -1,9 +1,14 @@
 ---
 address: Rizal 2,Oquindo Dist.Calbayog City Samar 6710
 email: zeny_ed@yahoo.com
+latitude: 12.1406
+longitude: 124.5272
 opening_hours: 6:am
+score: 6.5
 tags:
-- sights
+- things_to_do
+- sight
+- hot_spring
 title: Mapaso Hot Spring
 type: poi
 ---

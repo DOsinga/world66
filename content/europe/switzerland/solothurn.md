@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Solothurn_-_St._Ursen_von_
 latitude: 47.2073
 loc_type: city
 longitude: 7.5367
+score: 8.41
+snippet: Swiss Baroque city on the Aare, famous for eleven-themed landmarks and French
+  ambassadorial history
 sources:
 - https://en.wikipedia.org/wiki/Solothurn
 - https://en.wikivoyage.org/wiki/Solothurn

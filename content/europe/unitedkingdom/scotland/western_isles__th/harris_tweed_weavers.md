@@ -13,6 +13,7 @@ story: >
   dyed and spun in the Outer Hebrides. The orb trademark that certifies genuine Harris
   Tweed was introduced in 1911. Around 150 weavers remain active on the islands;
   the loom clatter from a weaver's shed is a distinct Hebridean sound.
+score: 7.9
 ---
 
 Harris Tweed is one of the few products in Britain with a legal definition tied to its place of origin and its method of production. Every length of cloth carries the orb certification mark and must be woven by hand at the weaver's own home. On Harris and Lewis you can visit working weavers and watch the process — the hand-operated looms are loud, intricate, and not much changed from a century ago. Several crofters combine weaving with farming, and will show you around if you arrive at the right moment.

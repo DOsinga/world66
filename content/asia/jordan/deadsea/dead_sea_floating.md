@@ -9,6 +9,7 @@ tags:
   - nature
 snippet: The main attraction — float effortlessly in water nearly ten times saltier than the ocean
 story: "The water at the Dead Sea is so dense that swimming face-down is essentially impossible — you will flip onto your back. Experienced swimmers find this deeply disorienting; the water provides no purchase, and any attempt to 'swim' produces barely any forward motion. The only natural posture is to lie back and float. This is what happens when you remove the wave motion from the sea and replace it with geology."
+score: 9.1
 ---
 
 Floating in the Dead Sea is not a metaphor. You cannot sink. The water's density — roughly 1.24 kg/litre compared to ocean water's 1.025 kg/litre — is high enough that a human body simply sits on the surface. Lean back, lift your feet off the bottom, and you are instantly, completely supported. No effort required.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Merlin%27s_Cave_and_Tintag
 latitude: 50.663
 loc_type: city
 longitude: -4.752
+score: 8.31
+snippet: North Cornwall village tied to King Arthur legends and a cliff-edge castle
+  above the Atlantic.
 sources:
 - https://en.wikipedia.org/wiki/Tintagel
 - https://en.wikivoyage.org/wiki/Tintagel

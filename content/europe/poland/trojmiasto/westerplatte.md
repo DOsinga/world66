@@ -6,6 +6,7 @@ latitude: 54.4040
 longitude: 18.6628
 story: >
   On 1 September 1939, the German battleship Schleswig-Holstein opened fire on the small Polish garrison at Westerplatte at 4:45 in the morning — the first shots of the Second World War. The 182 Polish soldiers held out for seven days against a German force that outnumbered them more than ten to one, expecting relief that never came. The garrison commander, Major Henryk Sucharski, became a national hero. He gave the surrender order on September 7th; the men were taken prisoner and survived the war.
+score: 7.5
 ---
 
 Westerplatte is a wooded peninsula at the mouth of the Dead Vistula, five kilometres from Gdansk's Old Town. Here, on 1 September 1939, the German navy opened fire on a small Polish military transit depot in what is generally taken to be the opening engagement of the Second World War. The seven-day defence of Westerplatte, hopelessly outnumbered, became one of the defining symbols of Polish resistance.

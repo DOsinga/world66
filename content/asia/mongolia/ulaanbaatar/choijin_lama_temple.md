@@ -14,6 +14,7 @@ story: >
   accidental act of preservation (probably intended as anti-religious propaganda) left the temple's entire
   contents intact: statues, thangkas, ceremonial objects, masks. It is now the finest collection of
   traditional Buddhist art in Mongolia, kept largely as it was when the monks were expelled.
+score: 8.9
 ---
 
 The Choijin Lama Temple stands in the middle of the city — surrounded now by glass office towers — as a remarkably complete snapshot of early 20th-century Mongolian Buddhist art and architecture. Five separate temple buildings house the collection: main hall, prayer room, and three smaller chapels, each filled with statues, ceremonial masks (tsam), thangka paintings, and ritual objects that would have been destroyed at any other monastery.

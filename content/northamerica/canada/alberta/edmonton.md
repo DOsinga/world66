@@ -3,16 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-21'
+image: edmonton.jpg
+image_attribution: Johntwrl (talk)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2008-06-19_North_Saskatchewan_River_3.jpg
 latitude: 53.546205
 loc_type: city
 longitude: -113.491241
-score: 0.44
+score: 7.21
+snippet: Northern Alberta capital built around the North Saskatchewan River Valley's
+  vast urban parkland.
 title: Edmonton
 type: location
-image: edmonton.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2008-06-19_North_Saskatchewan_River_3.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Johntwrl (talk)
 ---
 
 Edmonton is the capital city of Alberta and sits further north than Moscow — a fact that shapes everything about it, from the design of its buildings to the particular intensity of its summer festival season. It is a city of about one million people, built on both banks of a deep river valley, with a cultural life that repeatedly surprises visitors who arrive expecting a resource industry town and nothing more.

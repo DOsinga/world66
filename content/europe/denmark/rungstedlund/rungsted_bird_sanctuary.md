@@ -8,6 +8,7 @@ latitude: 55.884
 longitude: 12.542
 sources:
   - https://en.wikipedia.org/wiki/Rungstedlund
+score: 6.8
 ---
 
 The coastal park surrounding Rungstedlund was donated by Karen Blixen to be maintained as a bird sanctuary and public green space. The park runs along the Øresund shore and is a genuinely pleasant place for a walk, with views across the sound towards Sweden on clear days.

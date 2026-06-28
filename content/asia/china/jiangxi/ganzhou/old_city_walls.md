@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 25.8265
 longitude: 114.9290
+score: 8.4
 ---
 
 Ganzhou's city walls were constructed during the Song dynasty and survive in several intact sections along the southern and western edges of the old city. The walls stand about seven metres high and are built from large grey bricks laid without mortar in the traditional Song manner. Several of the original watchtowers remain, including the well-preserved Bajing Tower at the southern tip of the peninsula, which commands long views up both rivers.

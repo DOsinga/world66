@@ -1,8 +1,13 @@
 ---
 address: many locations
+latitude: 42.905035
+longitude: -78.877509
 price: variable, depending on what you order
+score: 4.8
 tags:
 - eating_out
+- restaurant
+- pizza
 title: Just Pizza
 type: poi
 url: artvoice.com

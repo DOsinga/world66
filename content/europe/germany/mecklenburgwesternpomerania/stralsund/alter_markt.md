@@ -7,6 +7,7 @@ tags:
 latitude: 54.3119
 longitude: 13.0842
 snippet: "The magnificent medieval market square at the heart of the old town, flanked by the Town Hall and St. Nikolai"
+score: 8.3
 ---
 
 The Alter Markt is the heart of Stralsund's old town — a large, roughly rectangular medieval market square flanked by the Town Hall to the south and St. Nikolai Church to the north, with merchant townhouses completing the enclosure. It is one of the finest market squares in northern Germany, and the view of the Town Hall's Gothic tracery facade from the square's centre is as good as anything in the Hanseatic world.

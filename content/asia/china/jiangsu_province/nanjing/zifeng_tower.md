@@ -8,6 +8,7 @@ tags:
 - sight
 - tower
 - architecture
+score: 6.4
 ---
 
 Zifeng Tower (紫峰大厦) is a 450-metre supertall skyscraper in the Gulou district, completed in 2010 and for some years the tallest building in China outside Shanghai and Hong Kong. The tower has an observation deck on the upper floors with views across the city — on clear days you can see the Yangtze River, Purple Mountain, and the old city wall from above.

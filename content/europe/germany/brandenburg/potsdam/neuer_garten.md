@@ -9,6 +9,7 @@ latitude: 52.4142
 longitude: 13.0732
 sources:
   - https://en.wikipedia.org/wiki/Neuer_Garten_(Potsdam)
+score: 8.7
 ---
 
 The Neuer Garten (New Garden) is Potsdam's second great royal park after Sanssouci, occupying a peninsula between the Heiliger See and the Jungfernsee on the northern edge of the city. It was laid out by Frederick William II in the English landscape style in the 1780s — deliberately informal in reaction to the geometric rigidity of Sanssouci's Baroque garden. The Marble Palace, built beside the Heiliger See, was Frederick William II's summer residence, and the Cecilienhof at the northern end of the park was built for his great-great-grandson in 1917.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5831
 longitude: -121.5018
+score: 6.5
 ---
 
 A residential and studio complex in the R Street Corridor, housed in a converted 19th-century warehouse that once served the railroad. The Warehouse Artist Lofts opened in 2012 as affordable live-work space for Sacramento artists, and they anchor the R Street neighbourhood's reputation as Sacramento's creative quarter.

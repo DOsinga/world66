@@ -6,6 +6,7 @@ longitude: 92.4000
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Khar Us Nuur — Black Water Lake — is the second largest freshwater lake in Mongolia, a vast shallow body of water about 50 km east of Khovd in a national park of reed beds and marshes. It is a critical stopover on the Central Asian migratory flyway: pelicans, swans, ducks, and the endangered Dalmatian pelican all use the lake in summer.

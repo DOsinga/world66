@@ -8,6 +8,7 @@ latitude: 23.7100
 longitude: 57.8850
 sources:
   - https://en.wikipedia.org/wiki/Barka,_Oman
+score: 6.4
 ---
 
 The coastline near Barka offers stretches of beach that are far less visited than those near Muscat. The beach is used mainly by local families and fishermen, and the fishing boats drawn up on the sand give it an honest, working-coast character that the more developed beaches near the capital have largely lost.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.0050
 longitude: 16.6500
+score: 6.8
 ---
 
 The land around Toritto is classic high Murgia — a limestone plateau rolling gently south from the coast, scattered with drystone walls, almond and olive trees, and the occasional trullo or masseria. The country roads make for an easy half-day cycle or drive, with little traffic and plenty of places to stop.

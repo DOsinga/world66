@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Brela_BW_2024-10-01_17-46-
 latitude: 43.3697
 loc_type: city
 longitude: 16.9225
+score: 8.71
+snippet: Makarska Riviera village between Biokovo and the Adriatic, known for pine-backed
+  white pebble beaches.
 title: Brela
 type: location
 ---

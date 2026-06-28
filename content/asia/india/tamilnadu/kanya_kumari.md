@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vivekananda_Rock_Memorial,
 latitude: 8.077516
 loc_type: city
 longitude: 77.552346
-score: 0.56
+score: 7.89
+snippet: Southern tip of India where three seas meet beside temples, memorial rocks,
+  and multicoloured sand.
 title: Kanyakumari
 type: location
 ---

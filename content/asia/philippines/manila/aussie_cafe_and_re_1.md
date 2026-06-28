@@ -1,10 +1,15 @@
 ---
 address: BCGroup Center Filinvest Ave. Filinvest Corporate City Alabang Muntinlupa
 email: celine.choa@gmail.com
+latitude: 14.4214
+longitude: 121.0386
 phone: '6592658'
 price: P395
+score: 3.8
 tags:
 - eating_out
+- restaurant
+- cafe
 title: Aussie Cafe and Resto
 type: poi
 url: aussiecafe.multiply.com

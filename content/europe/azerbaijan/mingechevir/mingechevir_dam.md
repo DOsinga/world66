@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Soviet-era hydroelectric dam that created the reservoir and powered a generation"
+score: 6.8
 ---
 
 Built between 1945 and 1953, the Mingechevir Dam on the Kura River was one of the largest engineering projects in Soviet Azerbaijan. The dam is 80 metres high and the reservoir it created — at 605 square kilometres — remains the largest in Azerbaijan. It provides both electricity generation and irrigation for the agricultural land of the Kura-Araz lowlands.

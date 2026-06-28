@@ -10,6 +10,7 @@ tags:
   - museum
   - history
 story: "Karlovac sat directly on the front line of the Homeland War from 1991 to 1995. The Turanj suburb was held by Croatian forces while the heights immediately east were Serb-held. Some of the tanks on display here were knocked out within sight of the spot where they now stand."
+score: 7.7
 ---
 
 In the Turanj district, where the front line of the 1991-95 Homeland War actually ran, an open-air museum lines a stretch of the main road with armoured vehicles, artillery pieces and a MiG-21 jet. Panels explain how Karlovac, only 55 km from the capital, became one of the most heavily contested towns of the conflict.

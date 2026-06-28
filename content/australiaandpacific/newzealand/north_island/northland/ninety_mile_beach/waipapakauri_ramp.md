@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.9800
 longitude: 173.0100
+score: 4.9
 ---
 
 Waipapakauri Ramp is the main southern access point for Ninety Mile Beach, and where most self-drive visitors enter the sand. There is a small car park, a basic toilet block, and a noticeboard with tide and condition information that is worth reading before you commit.

@@ -15,6 +15,7 @@ story: >
   long enough for the campaign to recover.
 sources:
   - https://en.wikipedia.org/wiki/Yanbu_Commercial_Port
+score: 6.5
 ---
 
 Yanbu Commercial Port is one of the oldest operating ports on the Red Sea — a history that spans the ancient spice trade, Ottoman naval operations, the Arab Revolt, and the modern Saudi petrochemical export industry. The port today handles container traffic, bulk commodities, and the products of the industrial city that has grown around it, making it one of the busiest ports on the western Saudi coast.

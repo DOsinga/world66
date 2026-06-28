@@ -5,7 +5,9 @@ done:
 latitude: 45.373343
 loc_type: city
 longitude: -84.95533
-score: 0.49
+score: 7.18
+snippet: Lake Michigan resort city in northern Michigan, known for Little Traverse
+  Bay and fossilized Petoskey stones.
 title: Petoskey
 type: location
 ---

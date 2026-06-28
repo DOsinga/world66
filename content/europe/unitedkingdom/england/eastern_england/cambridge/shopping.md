@@ -1,8 +1,6 @@
 ---
-latitude: 55.085311
-longitude: -1.589597
 title: Shopping
-type: poi
+type: section
 ---
 
 ### Cambridge Art, Craft and Antique Market - Sundays

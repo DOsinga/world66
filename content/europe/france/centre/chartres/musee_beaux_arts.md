@@ -1,5 +1,9 @@
 ---
-snippet: The old Bishop's Palace beside the cathedral, now a fine arts museum with a strong collection of French painting
+latitude: 48.4475
+longitude: 1.4883
+score: 7.1
+snippet: The old Bishop's Palace beside the cathedral, now a fine arts museum with
+  a strong collection of French painting
 tags:
 - things_to_do
 - museum

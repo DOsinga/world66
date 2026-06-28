@@ -13,6 +13,7 @@ story: >
   was declared the patron of miners, and the shrine was built over the shaft
   where the vision occurred. The entire Carnaval de Oruro — the Diablada, the
   thousands of dancers — is an act of devotion to this one image.
+score: 8.2
 ---
 
 The Santuario del Socavón is Oruro's most important religious site, built into the hillside above the city and entered through a facade that rises from a former mine entrance. The shrine houses the miraculous image of the Virgen del Socavón, patron of Bolivian miners and the reason Carnaval de Oruro exists.

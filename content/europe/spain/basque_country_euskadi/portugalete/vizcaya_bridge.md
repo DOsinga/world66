@@ -13,6 +13,7 @@ story: >
   also needed to pass through. The solution — a gondola hanging from a high iron framework 45
   metres above the water — was so novel that it took years to find a willing constructor. When it
   opened in 1893 it was the world's first transporter bridge, and it still runs today.
+score: 9.3
 ---
 
 The Vizcaya Bridge (Puente Colgante, or Hanging Bridge) is the star attraction of Portugalete and one of the most singular structures in Spain. Built in 1893 by engineer Alberto de Palacio, it stretches across the mouth of the Nervión River at a height of 45 metres, carrying a suspended gondola platform between Portugalete on the west bank and Las Arenas (Getxo) on the east. It is the world's oldest transporter bridge still in operation and was declared a UNESCO World Heritage Site in 2006.

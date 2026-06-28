@@ -7,6 +7,7 @@ tags:
 latitude: 52.1038
 longitude: 9.3601
 snippet: The central square flanked by Renaissance buildings and the scene of the Sunday Pied Piper play
+score: 7.9
 ---
 
 Hameln's Market Square is the heart of the old town, flanked by the Hochzeitshaus and surrounded by other Weser Renaissance buildings. The square comes alive on Sunday mornings from May to September when the outdoor Pied Piper play draws visitors to the Hochzeitshaus terrace. On other days it functions as a regular market square with a weekly farmers' market and a pleasant cafe and restaurant scene.

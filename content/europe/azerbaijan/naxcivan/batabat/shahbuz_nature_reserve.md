@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.483
 longitude: 45.666
+score: 6.8
 ---
 
 The Shahbuz State Nature Reserve protects a sliver of oak, birch, and juniper forest on the slopes around the Batabat plateau — a small but significant patch of greenery in an otherwise dry mountain region. It was established in 2003 to safeguard the alpine meadows, the rare endemic plants of the Zangezur foothills, and the populations of brown bear, wolf, and chamois that still live here.

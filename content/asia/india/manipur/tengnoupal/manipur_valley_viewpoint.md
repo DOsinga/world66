@@ -12,6 +12,7 @@ story: >
   during the Second World War as the Allies struggled to supply and retake
   Burma. The road through Tengnoupal saw intense activity during the 1944
   Imphal-Kohima campaign, one of the pivotal battles of the war in Asia.
+score: 6.2
 ---
 
 The road through Tengnoupal crests at around 1,450 metres, and just before or just after the town — depending on which way you are travelling — there are open stretches where the forest gives way and the Manipur valley unrolls below you. On a clear morning the view extends far north toward Imphal, a wide green basin enclosed by folded ridges.

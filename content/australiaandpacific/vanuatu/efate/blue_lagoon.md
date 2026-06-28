@@ -6,6 +6,7 @@ longitude: 168.5631
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 Eton, on the east coast about a 45-minute drive from Port Vila, is the better-known of Efate's two blue holes — a small but vivid swimming spot where a freshwater spring meets the river estuary. The water is cool, glass-clear, and ringed by jungle, with a rope swing on a banyan branch.

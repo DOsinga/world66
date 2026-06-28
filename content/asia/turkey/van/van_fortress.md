@@ -9,6 +9,7 @@ tags:
 title: Van Fortress
 type: poi
 story: "Cut into the face of the rock are trilingual cuneiform inscriptions left by Xerxes the Great around 480 BC — the same king who invaded Greece. He had them carved while passing through, in Old Persian, Elamite, and Akkadian, simply to mark that he had been here."
+score: 9.0
 ---
 
 The Van Fortress (Van Kalesi) is a long, narrow citadel sitting on a sheer ridge of limestone west of the modern city. The Urartians began building it in the 9th century BC; the kingdom they ruled from here, Tushpa, was for two centuries the great rival of Assyria. After Urartu fell, the fortress was held in turn by Medes, Persians, Armenians, Romans, Arabs, Byzantines, Seljuks, Mongols, and Ottomans — each leaving traces.

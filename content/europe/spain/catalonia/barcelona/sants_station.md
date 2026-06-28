@@ -1,9 +1,11 @@
 ---
 latitude: 41.381469
 longitude: 2.141114
+score: 5.5
 snippet: Barcelona main train station and transport hub
 tags:
 - practical_information
+- les_corts
 title: Sants Station
 type: poi
 ---

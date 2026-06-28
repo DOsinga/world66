@@ -9,6 +9,7 @@ latitude: 20.7594
 longitude: -75.5208
 sources:
   - https://en.wikipedia.org/wiki/Cayo_Saet%C3%ADa
+score: 7.9
 ---
 
 Cayo Saetía is a forested cay of 42 square kilometres in the Bahía de Nipe on the eastern edge of Holguín province. During the Soviet era it served as an exclusive hunting reserve for Communist Party officials; the animals introduced for that purpose — buffalo, antelope, zebra, deer, and wild boar — still roam freely through the island's forest and scrub, making for one of the stranger wildlife encounters in Cuba.

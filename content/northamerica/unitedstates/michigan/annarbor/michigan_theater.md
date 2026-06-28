@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Michigan Theater opened in 1928 on the site where Henry Ford built his first automobile in 1896. The original workshop was a small brick shed behind 58 Bagley Avenue in Detroit, but Ford's family lived in Ann Arbor at the time, and the connection is commemorated with a plaque inside the lobby.
+score: 8.3
 ---
 
 A beautifully restored 1928 movie palace in the heart of downtown, designed by Maurice Finkel in a lavish mix of French Renaissance and Classical Revival styles. The Michigan Theater serves as Ann Arbor's main venue for independent and art-house films, as well as live concerts, lectures, and special events. The interior is stunning — ornate plasterwork, a grand chandelier, and a functioning Barton pipe organ that is still played before select screenings.

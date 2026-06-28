@@ -24,7 +24,11 @@ python3 manage.py runserver 8066
 
 ## Content structure
 
-`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file. The hierarchy nests as deep as it needs to: continents contain countries, countries contain regions and cities, cities contain sections, sections contain individual points of interest.
+`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file.
+
+The content hierarchy is documented in LOCATIONS.md. In short: continents contain countries; large countries may contain one region level; regions and smaller countries contain cities and features. Features are named areas or attractions that are destinations in themselves but not settlements.
+
+**POIs always live flat in the city or feature directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same folder, not inside an `eating_out/` subfolder.
 
 ### Images
 
@@ -59,10 +63,6 @@ todo/
   country_cleanup/     # Clean up country pages per COUNTRIES.md
     TASK.md            # What to do for each item
     batch_NNN.txt      # ~5 countries to process
-    ...
-  location_cleanup/    # Structural cleanup of locations per LOCATIONS.md
-    TASK.md
-    batch_NNN.txt      # 50 locations per batch, sorted largest-first
     ...
   location_enrich/     # Add new content (itineraries, books, stories) to cleaned-up locations
     TASK.md
@@ -100,7 +100,10 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 ## Working with Git
 
 - Don't work on main — create a branch for your work. Always branch off `origin/main`, not wherever you happen to be.
-- Use worktrees if you are doing multiple things at the same time.
+- Use a worktree unless the user explicitly tells you otherwise.
+- Don't start working on a dirty branch or when there are clearly other changes in progress; create a fresh worktree from `origin/main` or coordinate first.
+- If working on an existing branch or PR, create a worktree for that branch and push follow-up work to the same branch in the spirit of collaborating.
+- When opening a PR, include a preview link that uses the commit hash in the URL: `https://world66.ai/<short-commit-hash>/<content-path>` (for example, `https://world66.ai/abc123def0/europe/france/paris`). When pushing updates to an existing PR, update that preview link to the latest commit hash. The hash URL reads content from GitHub for that commit, so the commit does not need to exist in the server's local checkout. `staging.world66.ai` follows GitHub `main` and is not the right host for PR-specific previews.
 - Try to separate changes to the code from changes to the content from changes to the instruction markdowns — open multiple PRs if needed.
 - We squash PRs when they are ready to merge.
 - Do not force push. Do not ammend commits

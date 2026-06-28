@@ -6,6 +6,7 @@ longitude: -86.9550
 tags:
   - eating_out
   - restaurant
+score: 7.5
 ---
 
 The Loveless, on the Natchez Trace Parkway about twenty miles south-west of downtown, has been serving Tennessee country breakfasts since 1951 — and the same biscuits-and-jam plate that built its reputation. The biscuits come hot from a wood-burning oven, the country ham is house-cured, and the preserves are made on-site from local fruit.

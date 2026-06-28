@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2008-0621-Bakersfield-pan_
 latitude: 35.373871
 loc_type: city
 longitude: -119.019463
-score: 0.28
+score: 5.6
+snippet: Central Valley city shaped by oil fields, Basque sheepherders, and the Bakersfield
+  country sound.
 title: Bakersfield
 type: location
 ---

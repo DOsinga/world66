@@ -9,6 +9,7 @@ latitude: 6.7833
 longitude: 158.0667
 sources:
   - https://en.wikipedia.org/wiki/Ant_Atoll
+score: 9.0
 ---
 
 Ant Atoll lies roughly 15 kilometres southwest of Pohnpei, about 90 minutes by boat from Kolonia. It is an uninhabited ring of reef enclosing a shallow lagoon of exceptional clarity, and most divers rank it among the best sites in Micronesia. The passes through the atoll's rim funnel currents that attract schools of grey reef sharks, eagle rays, turtles and large pelagics. Outside the passes, the walls drop steeply into deep water and are thick with gorgonians and soft corals.

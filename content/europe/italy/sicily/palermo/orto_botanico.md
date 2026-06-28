@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 38.111
 longitude: 13.372
+score: 8.0
 ---
 
 The botanical garden, founded in 1789 and run by the University of Palermo, is one of the most important in Europe for the introduction of subtropical species to Mediterranean climates. The 10-hectare site is divided into an Italianate parterre, a tropical glasshouse, an aquarium of pond ecosystems, and a long succession of palm-lined avenues.

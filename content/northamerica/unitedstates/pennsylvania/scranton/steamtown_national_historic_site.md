@@ -8,6 +8,7 @@ tags:
 latitude: 41.4083
 longitude: -75.6634
 story: "The locomotive collection at Steamtown was assembled by F. Nelson Blount, a wealthy New England seafood merchant who began buying retired steam engines in the 1950s when railroads were scrapping them en masse. After his death in 1967 the collection was eventually moved to Scranton; in 1986 Congress made it a National Historic Site, controversially, since some critics noted it was largely a private hobby preserved at public expense."
+score: 9.4
 ---
 
 Steamtown National Historic Site occupies a 62-acre working railyard around the former Delaware, Lackawanna and Western Railroad roundhouse — the original turntable still rotates, and several of the locomotives still steam. It is one of the most ambitious railroad museums in the United States and the only US site dedicated specifically to mainline steam railroading.

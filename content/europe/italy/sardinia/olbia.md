@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Olbia.jpg
 latitude: 40.9233
 loc_type: city
 longitude: 9.5027
-score: 0.64
+score: 8.35
 title: Olbia
 type: location
+snippet: Northeastern Sardinian port city with Romanesque granite, Roman harbour history,
+  and Costa Smeralda links.
 ---
 
 Olbia is the main ferry port and commercial gateway to northeastern Sardinia. Ferries from Civitavecchia, Genoa, and Livorno arrive here, and the Olbia Costa Smeralda Airport handles most flights into this part of the island. The town itself is workmanlike rather than beautiful, but it has a genuine character and a pleasant old centre with some worthwhile sights.

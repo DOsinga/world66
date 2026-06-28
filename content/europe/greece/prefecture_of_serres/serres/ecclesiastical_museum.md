@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Byzantine and post-Byzantine icons, manuscripts, and liturgical objects collected from the diocese
+score: 6.8
 ---
 
 The Ecclesiastical Museum -- formally the "Soul's Cure" Museum -- occupies the upper floor of the diocesan headquarters next to the Cathedral. The collection was assembled in the late twentieth century from churches and monasteries across the prefecture, particularly those that had fallen out of regular use.

@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:BOCHNIA_zabudowa,_fot._J._
 latitude: 49.969356
 loc_type: city
 longitude: 20.430541
-score: 0.43
+score: 6.92
 title: Bochnia
+snippet: Southern Polish town near Kraków, known for one of Europe's oldest salt mines.
 type: location
 ---
 

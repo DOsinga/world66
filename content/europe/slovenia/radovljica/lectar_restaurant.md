@@ -7,6 +7,7 @@ tags:
 address: Linharjev trg 2, 4240 Radovljica
 latitude: 46.3424
 longitude: 14.1718
+score: 5.7
 ---
 
 Lectar's restaurant occupies the ground floor of the old gingerbread inn on the main square, serving traditional Slovenian dishes in a room with beamed ceilings and tiled stoves. The menu runs to roast pork, buckwheat dumplings, bean soups, and locally sourced game in season. It is a proper sit-down lunch rather than a quick bite, and the quality is consistent.

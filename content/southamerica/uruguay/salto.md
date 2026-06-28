@@ -4,8 +4,10 @@ done:
 latitude: -31.3889
 loc_type: city
 longitude: -57.9609
-score: 0.39
+score: 6.71
 title: Salto
+snippet: Uruguay River city in citrus country, with thermal baths and the Salto Grande
+  Dam nearby.
 todo_location_cleanup: done
 type: location
 ---

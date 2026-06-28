@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.8
 ---
 
 The Aegidienkirche is the southernmost and smallest of Lübeck's five great parish churches, in the calm Aegidien quarter where craftsmen and labourers traditionally lived. The exterior is a simple brick hall; the interior holds a magnificent Renaissance rood screen of 1586 and a finely painted Baroque organ loft.

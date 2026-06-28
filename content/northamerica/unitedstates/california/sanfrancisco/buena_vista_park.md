@@ -2,13 +2,13 @@
 address: Buena Vista Ave E and Haight St
 latitude: 37.7683
 longitude: -122.4408
+score: 7.1
 snippet: San Francisco's oldest park, a steep hilltop with panoramic views
 tags:
 - things_to_do
 - park
 - haight_ashbury
 title: Buena Vista Park
-neighbourhood: Haight-Ashbury
 type: poi
 ---
 

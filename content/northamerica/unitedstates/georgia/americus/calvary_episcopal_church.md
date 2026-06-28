@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 32.0670
 longitude: -84.2300
+score: 6.4
 ---
 
 Calvary Episcopal Church is one of the handsomest buildings in Americus, a Gothic Revival structure that anchors the southern end of the historic district. Built in the late 19th century, it reflects the prosperity of Americus at its cotton-trading peak, when the city could afford to build in stone and stained glass.

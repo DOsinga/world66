@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -15.4708
 longitude: 168.1522
+score: 3.1
 ---
 
 Sara is the northern of Pentecost's two airstrips, on the north coast about halfway between the two ends of the island. It is smaller and less frequently used than Lonorore, but is the practical entry point for the northern villages and the trail across the central ridge.

@@ -6,6 +6,7 @@ title: Thai Yai
 type: poi
 latitude: 21.9823
 longitude: 96.0921
+score: 5.5
 ---
 
 A long-running local favourite on 84th Street South at 23rd Street, Thai Yai serves simple Shan and Thai-influenced dishes at very low prices. The grilled chicken, fresh salads, and noodle soups are consistently good and the portions generous.

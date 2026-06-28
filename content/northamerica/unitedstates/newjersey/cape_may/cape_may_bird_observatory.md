@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Cape May's hawk count began in 1976 and has been running continuously ever since. The single-day record of more than 21,000 raptors was set in 1977. The data set is one of the most important long-term migration records in North America."
+score: 9.2
 ---
 
 Cape May sits on a major Atlantic flyway, and the bird observatory at the point — run by New Jersey Audubon — is one of the top birding sites in North America. In autumn, hawk watchers crowd the platform near the lighthouse to count thousands of broad-winged hawks, sharp-shinned hawks, kestrels, and the occasional bald eagle riding the thermals south. Spring brings songbirds, and shorebird and butterfly migrations layer through the seasons.

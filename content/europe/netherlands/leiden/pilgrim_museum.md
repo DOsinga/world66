@@ -5,6 +5,7 @@ latitude: 52.1574
 longitude: 4.4883
 tags: [things_to_do, museum]
 story: The museum is housed in a 14th-century building on the Beschuitsteeg — possibly the oldest privately-owned house in Leiden. The Pilgrims would have walked past it daily on their way to the Pieterskerk, and the period-furnished rooms inside give an idea of how they actually lived.
+score: 7.5
 ---
 
 A tiny one-man museum dedicated to the Pilgrim Fathers' decade in Leiden before they sailed for Plymouth in 1620. The curator Jeremy Bangs, an American Pilgrim scholar, has filled three small rooms with 17th-century furniture, books, and household objects that the Pilgrims would have known.

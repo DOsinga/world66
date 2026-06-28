@@ -8,6 +8,7 @@ tags:
 latitude: -41.1100
 longitude: -71.4800
 snippet: "Classic 60 km lake-and-mountain loop from town"
+score: 8.9
 ---
 
 The Circuito Chico is the standard introduction to the landscape around Bariloche: a 60 kilometre loop that leaves the city on Avenida Bustillo, follows the southern shore of Nahuel Huapi out to Llao Llao, then returns over the back roads through Lago Moreno and Punto Panoramico. It can be driven in two hours with stops, or cycled in a day if you are reasonably fit — there are several rises that bite.

@@ -4,9 +4,15 @@ done:
 latitude: 43.961
 longitude: 15.383
 title: Pašman Island
+snippet: Slender Zadar archipelago island of pine woods, olive groves, and clear currents
+  in the Pašman Channel.
 type: location
 score: 0.56
 loc_type: region
+image: pasman_island.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kornati_islands_from_Pasman.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Kurt37
 ---
 
 Pašman is a long, slender island in the Zadar archipelago — 63 square kilometres of pine forest, olive groves, and aromatic herbs, fringed by 65 km of irregular coastline. A bridge at the Ždrelac straits connects it to the neighbouring island of Ugljan, and ferries run to both Zadar and Biograd on the mainland.

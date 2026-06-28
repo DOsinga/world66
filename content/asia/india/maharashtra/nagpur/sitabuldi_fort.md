@@ -10,6 +10,7 @@ story: >
   The Battle of Sitabuldi in November 1817 was a turning point in the Third Anglo-Maratha War. A small British force of around 1,400 men held the fort against a Maratha army many times their size over two days of intense fighting. The British victory effectively ended the Bhonsle kingdom of Nagpur and brought the region under Company rule.
 sources:
   - https://en.wikipedia.org/wiki/Sitabuldi_Fort
+score: 6.9
 ---
 
 Sitabuldi Fort occupies the two prominent hills at the very centre of Nagpur, visible from most of the city. Built by the Nagpur Bhonsle dynasty and substantially modified by the British after they took it in 1817, the fort is now an active Indian Army installation. Public access is restricted to Sundays and national holidays, when visitors can explore the outer ramparts and enjoy panoramic views across the city.

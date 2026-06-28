@@ -10,6 +10,7 @@ tags:
   - architecture
 neighbourhood: La Cité
 story: "After the Albigensian Crusade the Trencavel viscounts of Carcassonne were stripped of the castle, which became a French royal fortress in 1247. The Château was then walled off from the rest of the town and operated as a second line of defence — a citadel inside a citadel — for the next four centuries."
+score: 8.9
 ---
 
 The Château Comtal is the inner castle at the heart of the Cité, a twelfth-century fortress that itself sits within the larger wall circuit. Its own ditch, drawbridge, and ring of towers make it the strongest single point on the site and the place that most repaid a determined siege.

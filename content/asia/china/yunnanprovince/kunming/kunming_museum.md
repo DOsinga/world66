@@ -6,6 +6,7 @@ longitude: 102.7269
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The Kunming City Museum is a smaller, less polished counterpart to the new Provincial Museum, and its collection is more local in focus. The signature object is a 7-metre fossilised tooth of a Tibetan mastodon excavated in the city's southern suburbs in the 1990s — set out in a hall built around it — and a Yuan-dynasty stone pillar from a vanished Buddhist temple inscribed in a now-unreadable hybrid Chinese-Sanskrit script.

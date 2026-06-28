@@ -8,6 +8,7 @@ latitude: 35.4259
 longitude: -116.8898
 snippet: "NASA's giant dish antennas in the Mojave — the ears pointed at our deep-space probes"
 story: "The 70-meter antenna at Goldstone was one of the stations that received the first images from Mars and the Moon, and it maintains contact with Voyager 1 and Voyager 2 — now the most distant human-made objects ever, launched in 1977 and still transmitting from beyond the solar system. The signals take over 22 hours to travel one way at the speed of light."
+score: 7.1
 ---
 
 The Goldstone Deep Space Communications Complex is a NASA facility in the Mojave Desert about 40 miles north of Barstow, operating as part of the Deep Space Network that maintains contact with spacecraft across the solar system and beyond. The complex has multiple large dish antennas, the biggest a 70-meter dish that has been communicating with deep-space probes since the 1960s.

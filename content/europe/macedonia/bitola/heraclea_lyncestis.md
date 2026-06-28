@@ -9,6 +9,7 @@ latitude: 41.0108
 longitude: 21.3425
 story: >
   When American archaeologists excavated the site in the 1970s, they found the floor mosaics almost completely intact beneath centuries of soil — an extraordinary piece of luck. The mosaics had been covered early enough that early medieval looters never found them. The two large floor panels, featuring hunting scenes and elaborate geometric borders, are considered among the best-preserved Roman floor mosaics anywhere in the Balkans.
+score: 9.1
 ---
 
 Heraclea Lyncestis is the most important archaeological site in North Macedonia outside Skopje, and it is unreasonably overlooked by visitors who pass through Bitola. Founded by Philip II of Macedon in the 4th century BC, the city became a significant Roman administrative centre after 167 BC, and the ruins that survive — particularly the mosaics — date mostly to this Roman and early Byzantine period.

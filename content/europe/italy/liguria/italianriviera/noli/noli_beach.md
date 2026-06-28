@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 44.2050
 longitude: 8.4220
+score: 7.6
 ---
 
 Noli's beach is a curved strip of mixed sand and fine gravel that runs along the front of the old town, framed by the medieval towers on one side and the open sea on the other. It is not large — about a kilometre of shoreline — but it is well maintained and has received the European Blue Flag award consistently, meaning the water quality and facilities meet strict standards. The backdrop of the medieval town makes it one of the more picturesque beaches on the Riviera.

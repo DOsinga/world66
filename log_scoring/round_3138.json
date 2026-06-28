@@ -1,0 +1,200 @@
+{
+  "round": 3138,
+  "timestamp": "2026-06-13T22:31:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_score": 10.8599,
+      "prior_variance": 0.420477,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -1.6452,
+      "prior_variance": 0.14618,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -1.5074,
+      "prior_variance": 0.177473,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/gloucestershire/forestofdean",
+      "prior_score": 0.9204,
+      "prior_variance": 0.133742,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -0.943,
+      "prior_variance": 0.150591,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.2908,
+      "prior_variance": 0.121112,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.6146,
+      "prior_variance": 0.132899,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.6006,
+      "prior_variance": 0.120008,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -2.5019,
+      "prior_variance": 0.138134,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -1.6741,
+      "prior_variance": 0.133579,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_score": -4.0216,
+      "prior_variance": 0.182553,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -1.9995,
+      "prior_variance": 0.124628,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.7733,
+      "prior_variance": 0.172425,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.2759,
+      "prior_variance": 0.147413,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -2.7944,
+      "prior_variance": 0.144585,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Bayam\u00f3n",
+      "path": "northamerica/thecaribbean/puertorico/bayamon",
+      "prior_score": -2.9678,
+      "prior_variance": 0.138832,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.6562,
+      "prior_variance": 0.133231,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -3.1018,
+      "prior_variance": 0.149368,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": -2.9551,
+      "prior_variance": 0.151461,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.5889,
+      "prior_variance": 0.15888,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -2.777,
+      "prior_variance": 0.15022,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -1.7479,
+      "prior_variance": 0.123935,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -3.3747,
+      "prior_variance": 0.157164,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Erlian",
+      "path": "asia/china/innermongolia/erlian",
+      "prior_score": -5.5901,
+      "prior_variance": 0.20229,
+      "prior_n": 9
+    }
+  ]
+}

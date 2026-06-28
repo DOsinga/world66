@@ -7,6 +7,7 @@ tags:
 - sight
 title: Roman Arena
 type: poi
+score: 9.2
 ---
 
 One of the best-preserved Roman amphitheatres anywhere. Built in 90 AD to seat 20,000 spectators, it is still in use today for Provencal-style bullfights and summer performances. The two-tiered arcade of 120 arches dominates the centre of Arles.

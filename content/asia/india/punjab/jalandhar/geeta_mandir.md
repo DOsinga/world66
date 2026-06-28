@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3069
 longitude: 75.5804
+score: 5.6
 ---
 
 A 20th-century Hindu temple in the Model Town area, distinguished by its white marble construction and the verses of the Bhagavad Gita inscribed in Sanskrit on the inner walls. The main shrine is to Krishna and Radha. The complex is small but well kept and has a peaceful courtyard that is a welcome break from the surrounding traffic.

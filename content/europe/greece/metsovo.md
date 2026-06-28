@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Metsovo,Greece_-_panoramio
 latitude: 39.7693
 loc_type: city
 longitude: 21.183
-score: 0.55
+score: 8.14
 title: Metsovo
+snippet: Stone-built Pindos mountain town where Vlach traditions, benefactor museums,
+  and Alpine streets meet.
 type: location
 ---
 

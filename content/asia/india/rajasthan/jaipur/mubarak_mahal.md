@@ -10,6 +10,7 @@ longitude: 75.8237
 address: City Palace Complex, Jaipur
 opening_hours: 9:30-17:00 daily
 snippet: Indo-Saracenic palace within the City Palace complex, now housing the textile and costume museum
+score: 6.5
 ---
 
 The Mubarak Mahal ("Auspicious Palace") was built in the 1890s in an Indo-Saracenic style — a Victorian-era blend of Rajput, Mughal, and European architectural elements that was fashionable for official buildings across British India. It sits in the outer courtyard of the City Palace complex and now houses one wing of the royal textile and costume collection.

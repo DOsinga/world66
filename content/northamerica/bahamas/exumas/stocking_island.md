@@ -4,7 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 23.5522
 longitude: -75.7822
+score: 8.7
 snippet: Pristine beaches and snorkelling across Elizabeth Harbour
+tags:
+- things_to_do
+- beach
+- snorkelling
 title: Stocking Island
 type: poi
 ---

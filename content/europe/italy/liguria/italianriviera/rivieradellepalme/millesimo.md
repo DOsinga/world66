@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Millesimo-IMG_0907.JPG
 latitude: 44.367536
 loc_type: city
 longitude: 8.201746
-score: 0.41
+score: 7.07
+snippet: Medieval Val Bormida town dominated by hilltop castle ruins and old fortified
+  streets
 title: Millesimo
 type: location
 ---

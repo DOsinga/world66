@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bizerte2020.jpg
 latitude: 37.27209
 loc_type: city
 longitude: 9.870857
-score: 0.51
+score: 7.3
+snippet: Northern Tunisian port city with an old harbour, Ottoman kasbah, medina,
+  and nearby beaches.
 title: Bizerte
 type: location
 ---

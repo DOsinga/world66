@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 11.3175
 longitude: -5.6669
+score: 7.4
 ---
 
 Sikasso's grand market is the busiest in southern Mali, drawing traders from Burkina Faso and Côte d'Ivoire as well as from the surrounding mango country. Thursday and Sunday are the big days; expect mangoes by the basketload in season, dried fish from the Niger, indigo cloth, shea butter, and the cooking peppers and bissap leaves that define southern Malian cuisine.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.8540
 longitude: 72.1171
+score: 7.9
 ---
 
 The most active of Patan's many Jain temples, Panchasara Parshvanath sits at the heart of the old town in the Jain quarter and is dedicated to the 23rd Tirthankara. The current structure dates mostly from the 19th century, but the temple's origins go back to the founding of the city in 745 CE — Vanraj Chavda is said to have built the original shrine here after returning from exile. The main image, a black marble Parshvanath, is believed to be the original brought from the older settlement at Panchasar.

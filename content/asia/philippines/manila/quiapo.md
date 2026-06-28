@@ -13,6 +13,7 @@ story: >
   religious processions in the world. An estimated nine million people join the barefoot procession,
   many desperately trying to touch the statue in the belief that it grants miracles. The streets
   simply disappear under the crowd.
+score: 8.7
 ---
 
 Quiapo is the commercial and religious heart of old Manila, centred on the Minor Basilica of the Black Nazarene on Plaza Miranda. The church houses the most venerated religious image in the Philippines — a dark wood statue brought from Mexico in 1606 — and draws constant pilgrims. The plaza and surrounding streets are packed at almost all hours with vendors, jeepneys, and commerce of every variety.

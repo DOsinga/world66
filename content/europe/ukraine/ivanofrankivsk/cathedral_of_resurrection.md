@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.9260
 longitude: 24.7056
+score: 7.2
 ---
 
 The Greek Catholic cathedral, a few hundred metres north-west of the Rynok, is the main religious building of Ivano-Frankivsk — a yellow neoclassical block with twin bell towers, built between 1729 and 1763 for the Jesuits and reassigned to the Greek Catholic church after the Soviet collapse.

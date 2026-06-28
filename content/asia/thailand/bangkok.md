@@ -2,18 +2,20 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
-  poi_cleanup: '2026-04-20'
   location_enrich: '2026-05-09'
+  poi_cleanup: '2026-04-20'
 image: bangkok.jpg
 image_attribution: Dominic Nelson
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg
 latitude: 13.7563
+loc_type: city
 longitude: 100.5018
-score: 0.85
+score: 9.73
+snippet: Thai capital on the Chao Phraya River, where royal temples, street food,
+  and canal life crowd together
 title: Bangkok
 type: location
-loc_type: city
 ---
 
 Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm of the place.

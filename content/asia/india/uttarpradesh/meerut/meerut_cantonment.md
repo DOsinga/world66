@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 28.9900
 longitude: 77.7100
+score: 7.1
 ---
 
 The British military cantonment established in Meerut in the early 19th century is one of the largest and best-preserved colonial cantonments in India. Wide tree-lined roads, bungalows with large compounds, and parade grounds laid out on a grid give the cantonment a very different character from the dense, organic old city nearby. The contrast is part of what makes Meerut an interesting place to walk: colonial order and Mughal-era bazaar exist within kilometres of each other.

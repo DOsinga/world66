@@ -9,6 +9,8 @@ latitude: 37.7855
 loc_type: region
 longitude: 20.8992
 score: 0.72
+snippet: Ionian island of cliffs, green valleys, and beaches, known in Italian as
+  Zante
 title: Zakinthos
 type: location
 ---
@@ -25,7 +27,6 @@ The main sight on the island is the Venetian fortress. It situated in the place 
 
 ## Destinations in Zakinthos
 
-[Agios sostis/lithakia](/europe/greece/zakinthos/agiossostislithakia)
 [Zakynthos City](/europe/greece/zakinthos/zakynthoscity)
 [Tsilivi](/europe/greece/zakinthos/tsilivi)
 [Argassi](/europe/greece/zakinthos/argassi)

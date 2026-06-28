@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 snippet: Three waterfalls in a lush valley on Tahiti's north coast, a short walk from the road
+score: 7.6
 ---
 
 The Faarumai Waterfalls are on the north coast of Tahiti, just beyond the Arahoho Blowhole, reached by a short uphill path from a parking area on the coastal road. Three separate falls drop from the dense rainforest above: the main fall, **Vaimahuta**, descends about 40 metres into a pool that is possible to swim in when the water level is right. The two smaller falls — Haamarere Iti and Haamarere Rahi — require a longer walk (20–30 minutes) up steeper, slippery trails.

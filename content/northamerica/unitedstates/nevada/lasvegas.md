@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-11'
+  major_city_neighborhoods: '2026-06-14'
   poi_cleanup: '2026-04-21'
 image: lasvegas.jpg
 image_attribution: King of Hearts
@@ -11,8 +12,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_Decembe
 latitude: 36.167426
 loc_type: city
 longitude: -115.148413
-score: 0.69
+score: 9.39
 title: Las Vegas
+snippet: Mojave Desert city built on casino spectacle, neon fantasy, and outsized
+  entertainment along the Strip.
 type: location
 ---
 

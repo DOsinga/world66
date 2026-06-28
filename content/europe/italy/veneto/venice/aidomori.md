@@ -1,10 +1,10 @@
 ---
 address: Calle dei Do Mori, San Polo
-latitude: 45.4390
-longitude: 12.3340
+latitude: 45.439
+longitude: 12.334
 phone: 00 39 041 522 5401
+score: 7.2
 snippet: Tiny old-school bacaro by the Rialto market
-neighbourhood: San Polo
 tags:
 - bars_and_cafes
 - san_polo

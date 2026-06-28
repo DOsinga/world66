@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.7571
 longitude: 72.3622
+score: 7.1
 ---
 
 The Saidu Sharif Stupa is a 3rd-century Buddhist monument that sits on a low spur above the modern town. Excavated by the Italian Archaeological Mission, it consists of a main stupa, a monastery complex, and a series of rock-cut shrines. The Italian team produced detailed publications on the site and its Gandhara reliefs.

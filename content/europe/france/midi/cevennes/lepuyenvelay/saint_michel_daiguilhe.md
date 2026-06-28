@@ -12,6 +12,7 @@ story: >
   rock. The building itself is barely larger than a small room.
 sources:
   - https://en.wikipedia.org/wiki/Saint_Michel_d%27Aiguilhe
+score: 8.9
 ---
 
 Saint-Michel d'Aiguilhe stands on the most dramatic of Le Puy's volcanic needles — an 82-metre column of basalt that shoots straight up from the plain. The chapel at its summit was built in 962 and enlarged in the eleventh and twelfth centuries; it is a Romanesque building of extraordinary ingenuity, constructed to fit the irregular summit of a rock spike with no flat ground. The interior is tiny but contains some important medieval frescoes.

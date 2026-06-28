@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Bab Zitouna
 type: poi
+score: 6.8
 ---
 
 **Bab Zitouna** ("Gate of the Olive Tree") is one of the secondary gates in the medina walls of Taza, offering a different perspective on the valley below than the better-known Bab Er Rih. Like the other wall gates, it dates primarily from Almohade construction in the 12th century, with later reinforcements added by the Merinid and Saadid dynasties.

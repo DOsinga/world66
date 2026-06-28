@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhangye_Dafo_Si_2014.01.02
 latitude: 38.9354
 loc_type: city
 longitude: 100.4553
+score: 8.68
+snippet: Hexi Corridor city with Silk Road history and rainbow-striped Danxia landforms
+  nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Zhangye
 title: Zhangye

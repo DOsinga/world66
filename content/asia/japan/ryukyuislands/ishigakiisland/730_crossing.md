@@ -15,6 +15,7 @@ story: >
   town a focal point for the event. No serious accidents were recorded during the
   transition, which given the complexity of the operation was considered something
   of a miracle.
+score: 4.8
 ---
 
 At the main crossroads in central Ishigaki town stands a small monument marking one of the odder logistical events in postwar Japan. When Okinawa reverted from American to Japanese administration in 1972, traffic still ran on the right as per US rules. It took six more years to safely plan and execute the island-wide switch to left-hand driving. The monument — a stone marker with the date "7.30" carved into it — commemorates the changeover that took effect across all of Okinawa simultaneously at dawn on 30 July 1978.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.4360
 longitude: 24.5350
+score: 7.4
 ---
 
 A short interpretive forest trail starting near Probiy Waterfall and looping for about two kilometres through old beech forest above the gorge. The path is named for Oleksa Dovbush, the eighteenth-century outlaw who according to local tradition used these woods as a hideout, and is marked by carved wooden sculptures of Dovbush and his band along the way.

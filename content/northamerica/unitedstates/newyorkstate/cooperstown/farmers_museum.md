@@ -16,6 +16,7 @@ story: >
   Giants in existence — the original fake, and Barnum's fake fake.
 sources:
   - https://en.wikipedia.org/wiki/The_Farmers%27_Museum
+score: 8.0
 ---
 
 The Farmers' Museum is a living history complex on the north side of Cooperstown, adjacent to the Fenimore Art Museum, that presents rural life in central New York in the early 19th century. The campus includes around twenty historic buildings — some original, some reconstructed — arranged as a working farm and small village, including a blacksmith shop, a printing office, a doctor's surgery, a tavern, and a church.

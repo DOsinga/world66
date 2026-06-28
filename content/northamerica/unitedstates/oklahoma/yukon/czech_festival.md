@@ -15,6 +15,7 @@ story: >
   costumes that few families had worn since their grandparents' time.
 sources:
   - https://en.wikipedia.org/wiki/Czech_Hall
+score: 7.4
 ---
 
 The Yukon Czech Festival, held each October, celebrates the Czech and Bohemian heritage that shaped the town in its founding decades. Kolache baking contests are the centrepiece — these sweet pastries filled with fruit, cheese, or poppy seeds were brought from Bohemia and Moravia and are taken very seriously in Yukon. There is also polka dancing, folk costumes, craft booths, and Czech food vendors.

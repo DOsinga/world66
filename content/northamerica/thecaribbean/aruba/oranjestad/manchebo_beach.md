@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beaches
   - swimming
+score: 7.5
 ---
 
 Manchebo Beach runs south from Eagle Beach and is arguably the wider and quieter of the two, with a broad expanse of white sand that can look almost empty on weekday mornings. It sits in front of a handful of low-rise hotels and no large resort developments, which keeps the atmosphere relaxed. The water is shallow and calm, with the same reliable west-coast conditions that make Aruba a reliably good swimming destination.

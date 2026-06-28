@@ -12,6 +12,7 @@ story: >
   resettled the population from the hillside villages into the valley floor towns
   that still exist today — leaving the older hilltop settlements empty. Uskallaqta
   is one of the best preserved of these abandoned villages.
+score: 7.0
 ---
 
 Uskallaqta is an archaeological complex about four kilometres south of Chivay, containing stone tombs (chullpas) and the ruins of pre-Inca stone structures. The site sits on a hillside above the valley floor, with views across the Colca Canyon and the snow-capped Mismi volcano — one of the source mountains of the Amazon River.

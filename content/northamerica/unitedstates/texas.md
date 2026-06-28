@@ -11,6 +11,7 @@ score: 0.54
 title: Texas
 type: location
 loc_type: region
+snippet: "Huge US state spanning pine forests, Gulf beaches, desert canyons, high plains, and outsized city cultures."
 ---
 
 Texas is enormous, and it knows it. The second-largest state in the US stretches from the pine forests of East Texas to the desert canyons of Big Bend, from the Gulf Coast beaches of South Padre Island to the high plains of the Panhandle. It would take twelve hours to drive from one end to the other, and you would pass through landscapes that look nothing alike.
@@ -29,12 +30,15 @@ Summers are brutally hot across most of the state, with temperatures routinely h
 [Houston](/northamerica/unitedstates/texas/houston) |
 [San Antonio](/northamerica/unitedstates/texas/sanantonio) |
 [Arlington](/northamerica/unitedstates/texas/arlington) |
+[Bastrop](/northamerica/unitedstates/texas/bastrop) |
 [Big Bend National Park](/northamerica/unitedstates/texas/big_bend_national_park) |
 [Brenham](/northamerica/unitedstates/texas/brenham) |
+[Brownsville](/northamerica/unitedstates/texas/brownsville) |
 [Buffalo Gap](/northamerica/unitedstates/texas/buffalo_gap) |
-[Galveston](/northamerica/unitedstates/texas/houston/galvestonisland) |
+[Galveston](/northamerica/unitedstates/texas/galveston) |
 [Kerrville](/northamerica/unitedstates/texas/kerrville) |
 [Killeen](/northamerica/unitedstates/texas/killeen) |
+[Kilgore](/northamerica/unitedstates/texas/kilgore) |
 Matagorda County |
 [McKinney](/northamerica/unitedstates/texas/mckinney) |
 [Midland](/northamerica/unitedstates/texas/midland) |

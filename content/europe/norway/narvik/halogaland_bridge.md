@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 snippet: A 1,533-metre suspension bridge across the Rombaksfjord, one of the longest in the world above the Arctic Circle
+score: 6.4
 ---
 
 Opened in 2018, the **Hålogalandsbrua** carries the E6 across the Rombaksfjord just east of Narvik, replacing a long detour around the head of the fjord. Its main span of 1,145 metres makes it among the longest suspension bridges in the world, and certainly the longest at this latitude. The slim white twin towers and the pale cable curve are an unexpectedly elegant addition to a landscape of dark fjord water and steep slate slopes.

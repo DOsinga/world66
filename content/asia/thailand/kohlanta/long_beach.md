@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 7.5872
 longitude: 99.0305
+score: 7.2
 ---
 
 Long Beach — locally called Phra Ae — is the busiest of the island's mid-section beaches, a 2.5 km stretch of golden sand that attracts a mix of backpackers and independent travellers. The beach road running behind it has the highest concentration of budget guesthouses, restaurants, and bars on the island, making it the social hub for a certain type of traveller.

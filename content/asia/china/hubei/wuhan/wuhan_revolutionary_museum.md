@@ -9,6 +9,7 @@ tags:
   - architecture
   - wuchang
 neighbourhood: Wuchang
+score: 7.7
 ---
 
 The Red House, formally the former site of the Hubei Military Government, is a red-brick neo-classical building that briefly served as the seat of the Republic of China between October 1911 and early 1912 — between the Wuchang Uprising and Sun Yat-sen's inauguration in Nanjing. Today it is the principal museum of the 1911 Revolution.

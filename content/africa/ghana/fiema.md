@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cercopithecus_mona,_Boaben
 latitude: 7.719088
 loc_type: city
 longitude: -1.693715
-score: 0.36
+score: 5.7
+snippet: Ghanaian village sanctuary where sacred colobus and mona monkeys live freely
+  among houses and forest.
 sources:
 - https://en.wikipedia.org/wiki/Boabeng-Fiema_Monkey_Sanctuary
 title: Fiema

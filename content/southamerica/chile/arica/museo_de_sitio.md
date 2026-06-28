@@ -8,6 +8,7 @@ story: "When workers began excavating to build a hotel at Colón 10 in 2004, the
 tags:
 - things_to_do
 - museum
+score: 9.0
 ---
 
 A small specialist museum in central Arica preserves a Chinchorro cemetery exactly as the diggers found it — a glass floor laid over the dig allows you to walk above bundled figures, infant burials and grave goods just as they have been for thousands of years. It is one of the more unusual museums on the continent.

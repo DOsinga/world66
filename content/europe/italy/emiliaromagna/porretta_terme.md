@@ -5,7 +5,9 @@ done:
 latitude: 44.15916
 loc_type: city
 longitude: 10.972301
-score: 0.48
+score: 7.26
+snippet: Thermal spa town in the Apennines, set on the Reno River between Bologna
+  and Florence.
 sources:
 - https://en.wikipedia.org/wiki/Porretta_Terme
 title: Porretta Terme

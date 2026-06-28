@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: -1.2263
 longitude: -78.6217
+score: 7.5
 ---
 
 The Atocha-La Liria botanical garden in the northern suburbs of Ambato is one of the better green spaces in the Ecuadorian highlands. The gardens cover several hectares and are planted with native and exotic species from across Ecuador's altitudinal zones, from the páramo to the cloud forest.

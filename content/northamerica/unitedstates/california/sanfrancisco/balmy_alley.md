@@ -2,13 +2,13 @@
 address: Balmy Alley, between 24th St and 25th St
 latitude: 37.7518
 longitude: -122.4124
+score: 8.4
 snippet: Mission District alley covered in vibrant murals since the 1970s
 tags:
 - things_to_do
 - sight
 - mission_district
 title: Balmy Alley
-neighbourhood: Mission District
 type: poi
 ---
 

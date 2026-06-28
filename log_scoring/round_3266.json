@@ -1,0 +1,200 @@
+{
+  "round": 3266,
+  "timestamp": "2026-06-13T22:41:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 5.2387,
+      "prior_variance": 0.164565,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 3.9019,
+      "prior_variance": 0.134199,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 2.3752,
+      "prior_variance": 0.201465,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 4.3811,
+      "prior_variance": 0.151943,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 1.6568,
+      "prior_variance": 0.139378,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 4.7369,
+      "prior_variance": 0.139138,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_score": 6.5191,
+      "prior_variance": 0.163737,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.7023,
+      "prior_variance": 0.132801,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 5.3392,
+      "prior_variance": 0.162926,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -1.007,
+      "prior_variance": 0.14287,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.6149,
+      "prior_variance": 0.120257,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.5819,
+      "prior_variance": 0.148568,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 2.8084,
+      "prior_variance": 0.138056,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 4.1472,
+      "prior_variance": 0.128773,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 0.9737,
+      "prior_variance": 0.131309,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 2.4389,
+      "prior_variance": 0.135954,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.4844,
+      "prior_variance": 0.117495,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.3604,
+      "prior_variance": 0.133408,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.5032,
+      "prior_variance": 0.128562,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.3869,
+      "prior_variance": 0.160313,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 0.7635,
+      "prior_variance": 0.128146,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.6673,
+      "prior_variance": 0.160423,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden",
+      "prior_score": -4.4904,
+      "prior_variance": 0.139434,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -6.9358,
+      "prior_variance": 0.19202,
+      "prior_n": 10
+    }
+  ]
+}

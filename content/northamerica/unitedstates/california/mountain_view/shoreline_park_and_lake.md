@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.4302
 longitude: -122.0870
+score: 7.7
 ---
 
 Shoreline Park occupies a long strip of reclaimed baylands at the northern edge of Mountain View, with views across San Francisco Bay toward the East Bay hills. The park has twelve kilometres of paved and unpaved trails, a golf course, and Shoreline Lake — a 50-acre freshwater lake surrounded by wildlife habitat where windsurfing, kiteboarding, kayaking, and paddleboarding are all available for rent.

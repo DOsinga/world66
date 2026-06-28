@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
+score: 5.5
 ---
 
 An all-day spot just behind Central Station, good for everything from an early breakfast coffee to late-night tapas and pizza from the stone oven. Convenient location for a meeting point.

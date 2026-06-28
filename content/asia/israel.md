@@ -7,16 +7,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Neukoln" title="Us
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:WikiAir_IL-13-06_035_-_Old_City_(Jerusalem).JPG
 latitude: 30.812425
+loc_type: country
 longitude: 34.859476
 quick_facts:
-  Population: "9.8 million"
-  Shabbat: "Fri sunset–Sat: most transport stops"
-  Dead Sea: "430 m below sea level"
-  Holy Sites: "3 major religions"
-score: 0.58
+  Dead Sea: 430 m below sea level
+  Holy Sites: 3 major religions
+  Population: 9.8 million
+  Shabbat: 'Fri sunset–Sat: most transport stops'
+score: 0.75
+snippet: Eastern Mediterranean country with ancient cities, major holy sites, beaches,
+  the Negev, and the Dead Sea.
 title: Israel
 type: location
-loc_type: country
 ---
 
 Israel is a treat for travelers. The country has beautiful old cities, good beaches and more culture, history and holy places than any other country.

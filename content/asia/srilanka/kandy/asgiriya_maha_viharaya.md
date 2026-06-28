@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.3060
 longitude: 80.6380
+score: 7.8
 ---
 
 Asgiriya is one of the two great chapter houses of Kandyan Buddhism (the other is Malwathu Viharaya adjacent to the Temple of the Tooth), and one of the most important monastic institutions in Sri Lanka. The temple complex on the northern hill above Kandy contains an eighteenth-century image house with a large reclining Buddha and well-preserved murals depicting the life of the Buddha.

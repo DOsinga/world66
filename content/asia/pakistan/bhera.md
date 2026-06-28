@@ -5,9 +5,11 @@ done:
 latitude: 32.482001
 loc_type: city
 longitude: 72.911052
-score: 0.24
+score: 4.88
 title: Bhera
 type: location
+snippet: Old Punjabi town on the Jhelum River, with a walled core and Sher Shah Suri
+  mosque.
 ---
 
 Bhera is one of the oldest continuously inhabited towns in Pakistan's Punjab, sitting on the left bank of the Jhelum River near the southern Salt Range, roughly midway along the Lahore-Islamabad motorway. It claims more than 5,000 years of history and was known in ancient times as Vihara — the same root that gives us the state of Bihar in India — a name suggesting it was once a major Buddhist centre. Alexander the Great is said to have passed near here during his Indian campaign in 326 BCE.

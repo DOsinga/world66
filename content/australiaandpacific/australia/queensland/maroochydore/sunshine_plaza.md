@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.6544
 longitude: 153.0883
+score: 4.8
 ---
 
 Sunshine Plaza is the largest shopping centre on the Sunshine Coast and the practical hub for the whole region. It contains the major Australian department stores, a supermarket, a cinema complex, and hundreds of specialty shops spread across two levels. For visitors, it is less of an attraction in itself and more of a useful stop for anything you forgot to pack.

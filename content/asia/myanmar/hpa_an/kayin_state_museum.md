@@ -10,6 +10,7 @@ story: >
   The Karen people have one of the longest histories of armed resistance in Myanmar, having been in conflict with the central government since independence in 1948. The Kayin State Cultural Museum focuses on the cultural heritage of the Karen rather than the political history, but the context of a separate Karen cultural identity gives the exhibits a particular significance.
 sources:
   - https://en.wikipedia.org/wiki/Kayin_State_Cultural_Museum
+score: 5.8
 ---
 
 The Kayin State Cultural Museum in Hpa-an documents the traditions, textiles, musical instruments, and ceremonial objects of the Karen people and related ethnic groups in Kayin State. The collection includes traditional clothing of S'gaw Karen, Pwo Karen, and Pa-O ethnic groups, alongside agricultural tools, lacquerware, religious objects, and historical photographs.

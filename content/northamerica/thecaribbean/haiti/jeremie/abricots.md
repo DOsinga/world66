@@ -7,6 +7,7 @@ tags:
 - village
 title: Abricots
 type: poi
+score: 6.5
 ---
 
 A small fishing village near the western tip of the Grand'Anse peninsula, named for the local apricot-coloured mangoes that ripen here in summer. The drive from Jérémie is the attraction as much as the destination — a curving road through cocoa farms, banana groves, and a string of beach coves with views back across the Gulf of Gonâve.

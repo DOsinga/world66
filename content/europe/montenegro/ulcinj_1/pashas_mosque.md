@@ -8,6 +8,7 @@ latitude: 41.9259
 longitude: 19.2037
 sources:
   - https://en.wikipedia.org/wiki/Pasha%27s_Mosque
+score: 6.2
 ---
 
 The Pasha's Mosque is one of six mosques in Ulcinj and one of the most visible landmarks in the town centre. Its minaret rises above the rooftops and can be seen from the sea. The mosque dates from the Ottoman period and remains an active place of worship, reflecting Ulcinj's majority-Albanian Muslim population.

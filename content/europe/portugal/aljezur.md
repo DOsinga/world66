@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/84292292@N00/38805177232
 latitude: 37.315155
 loc_type: city
 longitude: -8.804053
-score: 0.54
+score: 8.01
 title: Aljezur
 type: location
+snippet: Western Algarve town split between a Moorish hill quarter and wild Atlantic
+  surf beaches.
 ---
 
 Aljezur is a small town on the western Algarve coast, inside the Parque Natural do Sudoeste Alentejano e Costa Vicentina — a protected stretch of wild Atlantic coastline that has escaped the resort development further east. The town itself is split in two: the old Moorish quarter climbs a hillside topped by a ruined 10th-century castle, and the newer part sits in the valley below.

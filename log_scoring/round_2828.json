@@ -1,0 +1,200 @@
+{
+  "round": 2828,
+  "timestamp": "2026-06-13T22:10:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 7.5936,
+      "prior_variance": 0.263088,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 5.1403,
+      "prior_variance": 0.162616,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 4.4935,
+      "prior_variance": 0.168905,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 3.6569,
+      "prior_variance": 0.162444,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.7927,
+      "prior_variance": 0.167604,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 2.5178,
+      "prior_variance": 0.141083,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 2.6417,
+      "prior_variance": 0.169762,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.9099,
+      "prior_variance": 0.130133,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 1.3026,
+      "prior_variance": 0.153364,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.8583,
+      "prior_variance": 0.154324,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -1.8351,
+      "prior_variance": 0.167449,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 0.8356,
+      "prior_variance": 0.172582,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 1.8134,
+      "prior_variance": 0.129535,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 0.9295,
+      "prior_variance": 0.154505,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.2821,
+      "prior_variance": 0.137727,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.6967,
+      "prior_variance": 0.171823,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.2408,
+      "prior_variance": 0.15169,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -2.135,
+      "prior_variance": 0.171784,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -2.8167,
+      "prior_variance": 0.181785,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -3.556,
+      "prior_variance": 0.161501,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -2.8429,
+      "prior_variance": 0.178785,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.4841,
+      "prior_variance": 0.175788,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -10.367,
+      "prior_variance": 0.454026,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.2187,
+      "prior_variance": 0.233783,
+      "prior_n": 9
+    }
+  ]
+}

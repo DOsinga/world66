@@ -15,6 +15,7 @@ story: >
   decoration technique: complex wax-resist patterns in the regional
   style, which differs from village to village and is passed down
   within families.
+score: 6.5
 ---
 
 The historic core of Hoyerswerda is dominated by a 14th-century Renaissance castle, which now houses the town hall and a local history museum. The castle is small and unpretentious, with a moat and a courtyard; the museum inside focuses on the Sorbian cultural heritage of Upper Lusatia, including displays on the Sorbian language, traditional costumes, and the characteristic Easter egg decoration that is the most widely known expression of Sorbian folk art.

@@ -1,0 +1,200 @@
+{
+  "round": 4526,
+  "timestamp": "2026-06-14T00:19:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 8.3751,
+      "prior_variance": 0.165794,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 4.5934,
+      "prior_variance": 0.100792,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 1.2908,
+      "prior_variance": 0.091958,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 2.728,
+      "prior_variance": 0.102266,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 2.485,
+      "prior_variance": 0.102116,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 3.253,
+      "prior_variance": 0.090019,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 1.9796,
+      "prior_variance": 0.08808,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 1.9057,
+      "prior_variance": 0.089664,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 1.8214,
+      "prior_variance": 0.09376,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 0.8336,
+      "prior_variance": 0.089233,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -0.3046,
+      "prior_variance": 0.08733,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.0914,
+      "prior_variance": 0.094533,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.7544,
+      "prior_variance": 0.086251,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": 0.3798,
+      "prior_variance": 0.088674,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_score": 0.7603,
+      "prior_variance": 0.083562,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Aba (Ngawa)",
+      "path": "asia/china/sichuanprovince/aba",
+      "prior_score": -1.1718,
+      "prior_variance": 0.101848,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -3.0531,
+      "prior_variance": 0.093048,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -3.4042,
+      "prior_variance": 0.10232,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -4.1044,
+      "prior_variance": 0.101051,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.9753,
+      "prior_variance": 0.101662,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.6266,
+      "prior_variance": 0.093397,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -4.283,
+      "prior_variance": 0.112879,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.6604,
+      "prior_variance": 0.090721,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -3.0021,
+      "prior_variance": 0.115926,
+      "prior_n": 15
+    }
+  ]
+}

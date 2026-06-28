@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 38.5548
 longitude: -121.4672
+score: 6.4
 ---
 
 Sacramento's professional soccer team, playing in the United Soccer League Championship (the second tier of American soccer) at Bonney Field near the Sacramento State campus. Sacramento Republic was founded in 2014 and has been one of the more successful lower-division clubs in American soccer, drawing loyal crowds and generating serious discussion about a future MLS bid.

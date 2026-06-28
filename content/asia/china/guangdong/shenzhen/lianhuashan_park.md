@@ -11,6 +11,7 @@ story: >
   The park's large bronze statue of Deng Xiaoping, unveiled in 2000, shows him striding forward with his jacket open — a pose designed to suggest confidence and forward motion. Every year on his birthday, city officials lay wreaths at the base. The hill below the statue is the highest point in central Shenzhen and was chosen for the park specifically so the statue could be visible across the entire CBD.
 sources:
   - https://en.wikipedia.org/wiki/Lianhuashan_Park
+score: 7.8
 ---
 
 Lianhuashan Park is Shenzhen's central green space — a large urban park spread across a low hill in Futian District, overlooking the CBD from the north. The hilltop affords one of the best free views in the city: looking south, you see the Futian Central Business District with the Ping An Finance Centre dominating the skyline, and beyond it the hills of Hong Kong's New Territories.

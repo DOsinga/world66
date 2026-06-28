@@ -5,7 +5,9 @@ done:
 latitude: 10.072844
 loc_type: city
 longitude: 78.779519
-score: 0.42
+score: 6.54
+snippet: Tamil Nadu town and Chettiar cultural centre, known for mansions built with
+  imported luxury materials.
 title: Karaikudi
 type: location
 ---

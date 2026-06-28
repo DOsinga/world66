@@ -8,6 +8,7 @@ tags:
   - sight
   - market
 snippet: The main market street, full of cross-border goods and Baloch craft
+score: 6.5
 ---
 
 The main bazaar runs along the highway through town and is the place where Nushki's identity as a border crossroads is clearest. The goods reflect the geography: Iranian saffron and tea, Afghan dried fruit, Chinese plastics that have come up by road from Karachi, locally made Baloch embroidery and rough hand-knotted rugs.

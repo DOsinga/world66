@@ -5,7 +5,9 @@ done:
 latitude: -5.2183
 loc_type: city
 longitude: 145.7961
-score: 0.43
+score: 7.06
+snippet: Papua New Guinea coastal town of lagoons, wartime wrecks, coral reefs, and
+  offshore volcanic islands.
 title: Madang
 type: location
 ---

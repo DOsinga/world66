@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jiuquan-06.JPG
 latitude: 39.737
 loc_type: city
 longitude: 98.5049
+score: 6.42
+snippet: Gansu city tied to a Han wine-spring legend and China's nearby satellite
+  launch centre.
 sources:
 - https://en.wikivoyage.org/wiki/Jiuquan
 title: Jiuquan

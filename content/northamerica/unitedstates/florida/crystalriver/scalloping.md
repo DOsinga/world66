@@ -9,6 +9,7 @@ latitude: 28.8800
 longitude: -82.7200
 story: >
   Crystal River sits within one of the few remaining bay scallop fisheries on Florida's Gulf Coast. The warm, clear waters and extensive seagrass beds around the Nature Coast provide ideal habitat, and scalloping here has been a summer tradition for local families for generations.
+score: 8.1
 ---
 
 Scalloping season runs from late June through September, and the waters around Crystal River are one of the best places in Florida to do it. The technique is simple: snorkel over the shallow seagrass flats of the Gulf in three to six feet of water, spot the small iridescent bay scallops resting on the grass (they have a ring of brilliant blue eyes along the shell edge), and pick them up by hand. Each adult licence holder can keep up to two gallons of whole scallops per day.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 48.3989
 longitude: 11.7464
+score: 8.3
 ---
 
 The Domberg is the long ridge above the Freising old town where the cathedral complex stands, and it deserves to be approached as a destination in its own right, not just as the platform the cathedral happens to sit on. The hill was the seat of Bavarian ecclesiastical power for over a millennium: the bishops of Freising ruled from here before Munich existed, and the buildings accumulated over that time — cathedral, collegiate church, bishop's residence, museum — give the Domberg an atmosphere of compressed history unusual even for a region rich in it.

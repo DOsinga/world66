@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "On the summer solstice at Fajada Butte, a dagger of light slides down between two stone slabs and bisects a spiral petroglyph chiselled on the cliff behind them. The discovery in 1977 of this 'sun dagger' — and its similar markings of the equinoxes and major lunar standstills — transformed our understanding of Chacoan astronomy."
+score: 6.6
 ---
 
 Fajada Butte is the great isolated mesa that dominates the southern entrance to the park, visible from twenty miles off. The butte itself is closed to climbing — the sun dagger petroglyph site is protected — but the view of it changes character through the day, glowing orange at sunset, and the road in passes close enough that you can stop for photographs.

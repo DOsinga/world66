@@ -8,8 +8,10 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_McAlester.jpg
 latitude: 34.933498
 loc_type: city
+snippet: Southeastern Oklahoma hub with coal-mining roots, Italian heritage, and a
+  crossroads setting in wooded hills
 longitude: -95.769793
-score: 0.31
+score: 5.73
 title: McAlester
 type: location
 ---

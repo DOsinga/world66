@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Holliwell Bridge
 type: poi
+score: 8.1
 ---
 
 The longest of the six surviving covered bridges at 122 feet, built in 1880 over the Middle River about three miles east of Winterset. Substantially restored in 1995 and again in 2019 after flood damage. The setting along a gravel river road is one of the more atmospheric — willows along the bank, cattle in the fields.

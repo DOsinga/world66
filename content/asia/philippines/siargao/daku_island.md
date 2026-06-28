@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 9.7833
 longitude: 126.1556
+score: 7.8
 ---
 
 Daku means "big" in the local dialect, and compared to the other two islands in the trio — Guyam and Naked — Daku lives up to its name. It's a real island with a small fishing community, coconut palms, and long stretches of quiet beach on its northern side. The residents set up simple bamboo tables and serve grilled fish and fresh coconut, making it the natural lunch stop on island-hopping tours.

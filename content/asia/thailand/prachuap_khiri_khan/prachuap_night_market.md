@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 11.8090
 longitude: 99.7990
+score: 6.5
 ---
 
 The evening market near the main clock tower fills with vendors each night from around five o'clock until ten. It is a small, local market — nothing like the tourist-facing night bazaars of Hua Hin — and that is precisely the point. Stalls sell grilled seafood, pad Thai, noodle soups, fresh fruit, and Thai sweets, all at the kinds of prices you pay when tourists are not the primary customer.

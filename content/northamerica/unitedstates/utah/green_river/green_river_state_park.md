@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.6
 ---
 
 A strip of cottonwood-shaded grass on the west bank of the river, with a campground, a boat ramp, and a nine-hole golf course that is improbably green against the surrounding desert. This is where most Labyrinth Canyon rafting trips put in.

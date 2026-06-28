@@ -9,6 +9,7 @@ tags:
 address: Charter St, Salem, MA
 sources:
   - https://en.wikipedia.org/wiki/Charter_Street_Historic_District
+score: 7.8
 ---
 
 The Old Burying Point, established around 1637, is the oldest cemetery in Salem and one of the oldest in the United States. Its weathered slate headstones, carved with winged skulls and hourglasses, document three centuries of Salem families — sea captains, merchants, judges, and ordinary citizens. The inscriptions are still legible on many stones, and the symbolism carved into them tells a story of Puritan attitudes toward death and the afterlife.

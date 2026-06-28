@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In February 2016 a strange high-pitched noise -- described by The Oregonian as a 'mechanical scream' and by NBC as 'a bad one-note violin solo broadcast over a microphone with feedback' -- was heard intermittently across Forest Grove. Around 200 calls were made to the police; theories ranged from gas leaks to Bigfoot. A Pacific University physicist mapped the locations where it had been heard but the source was never identified. The fire marshal's best guess was a faulty attic fan. The noise stopped in late February and was never heard again."
+score: 3.6
 ---
 
 A place rather than a thing -- the intersection of Gales Creek Road and the surrounding blocks where, for a few weeks in early 2016, residents heard the unexplained noise that briefly made Forest Grove internationally famous. There is nothing to see at the spot itself, but the story has become a small piece of Forest Grove folklore.

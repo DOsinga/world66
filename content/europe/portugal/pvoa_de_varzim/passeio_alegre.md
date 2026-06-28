@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.3793
 longitude: -8.7675
+score: 7.1
 ---
 
 Passeio Alegre is the main seafront square and the social centre of summer Póvoa. The square sits at the inland end of the boardwalk between the casino and the southern beaches, surrounded by Belle Époque hotels and outdoor cafes. In the evenings the entire town seems to flow through here.

@@ -10,6 +10,7 @@ latitude: 29.2897
 longitude: -81.0450
 story: >
   The museum was founded in 1946 as a memorial to those lost in World War II — an unusual purpose for an art museum. The building itself is a Spanish Mission Revival structure dating to 1912, originally built as a private winter cottage. The art collection includes a noted series of paintings by Malcolm Fraser depicting Florida's natural history, which were commissioned as works of scientific record as well as art. The combination of botanical garden and museum in a single small property makes it one of the quieter pleasures of Ormond Beach.
+score: 6.5
 ---
 
 The Ormond Memorial Art Museum and Gardens occupies a 1912 cottage on West Granada Boulevard, surrounded by botanical gardens that have been maintained since the 1940s. The museum holds a permanent collection of 20th-century American art with a particular strength in Florida-themed landscape and nature paintings. The grounds include shaded paths through tropical and semi-tropical plantings with interpretive labels — a gentle walk even in summer, when the tree canopy provides real shade.

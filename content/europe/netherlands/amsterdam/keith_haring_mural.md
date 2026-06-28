@@ -12,6 +12,7 @@ story: >
   local youth. When the building was converted into apartments, the mural was covered
   with metal sheeting. It remained hidden for nearly 30 years until its rediscovery
   and restoration in 2018.
+score: 7.4
 ---
 
 A massive mural by American pop artist Keith Haring, painted in 1986 and hidden behind metal sheeting for almost three decades before being rediscovered and restored in 2018. The mural covers the side of a building near the Stedelijk Museum and features Haring's characteristic bold lines and dancing figures in orange and black.

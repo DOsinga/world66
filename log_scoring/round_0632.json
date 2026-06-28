@@ -1,199 +1,199 @@
 {
   "round": 632,
-  "timestamp": "2026-04-12T10:40:41",
+  "timestamp": "2026-06-13T19:45:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Saint Malo",
-      "path": "europe/france/normandybrittany/saintmalo",
-      "prior_mu": 22.4464,
-      "prior_sigma": 5.7237,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_score": 4.7266,
+      "prior_variance": 1.606938,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Chenonceau",
-      "path": "europe/france/centre/loirevalley/chenonceau",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 4.8841,
+      "prior_variance": 0.832894,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Honfleur",
-      "path": "europe/france/normandybrittany/honfleur",
-      "prior_mu": 22.309,
-      "prior_sigma": 4.7839,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 4.7074,
+      "prior_variance": 0.914472,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Rouen",
-      "path": "europe/france/normandybrittany/rouen",
-      "prior_mu": 22.6244,
-      "prior_sigma": 5.3257,
-      "prior_n": 1
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_score": 4.817,
+      "prior_variance": 1.417517,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "N\u00eemes",
-      "path": "europe/france/midi/languedoc/nmes",
-      "prior_mu": 22.8487,
-      "prior_sigma": 5.823,
-      "prior_n": 1
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 2.4577,
+      "prior_variance": 0.650045,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Pic du Midi",
-      "path": "europe/france/midi/pyrenees/picdumidi",
-      "prior_mu": 22.976,
-      "prior_sigma": 5.6172,
-      "prior_n": 1
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 5.6753,
+      "prior_variance": 0.831091,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Villandry",
-      "path": "europe/france/centre/loirevalley/villandry",
-      "prior_mu": 22.7333,
-      "prior_sigma": 5.9142,
-      "prior_n": 1
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 3.1215,
+      "prior_variance": 0.639843,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Domme",
-      "path": "europe/france/midi/dordogne/domme",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Woodstock",
+      "path": "northamerica/unitedstates/vermont/woodstock",
+      "prior_score": 2.5991,
+      "prior_variance": 0.684884,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Roussillon",
-      "path": "europe/france/midi/provence/roussillon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay",
+      "prior_score": 4.2591,
+      "prior_variance": 0.812431,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "1",
-      "path": "europe/france/val_disere/1_1",
-      "prior_mu": 21.9927,
-      "prior_sigma": 4.5755,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bournemouth",
+      "prior_score": 0.8862,
+      "prior_variance": 1.01261,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "P\u00e9rigueux",
-      "path": "europe/france/midi/dordogne/perigueux",
-      "prior_mu": 22.9853,
-      "prior_sigma": 5.4781,
-      "prior_n": 1
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 2.9403,
+      "prior_variance": 0.64482,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Bayonne",
-      "path": "europe/france/midi/basqueregion/bayonne",
-      "prior_mu": 22.7784,
-      "prior_sigma": 5.6592,
-      "prior_n": 1
+      "title": "Holgu\u00edn",
+      "path": "northamerica/thecaribbean/cuba/holguin",
+      "prior_score": 0.5705,
+      "prior_variance": 1.212472,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Uz\u00e8s",
-      "path": "europe/france/midi/ardeche/uzes",
-      "prior_mu": 22.788,
-      "prior_sigma": 5.9504,
-      "prior_n": 1
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 2.8988,
+      "prior_variance": 0.685844,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Perpignan",
-      "path": "europe/france/midi/pyrenees/perpignan",
-      "prior_mu": 21.567,
-      "prior_sigma": 4.6543,
-      "prior_n": 2
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 3.6618,
+      "prior_variance": 1.462164,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Rivers of the Doubs",
-      "path": "europe/france/east/franchecomte/fabulous_rivers",
-      "prior_mu": 22.4981,
-      "prior_sigma": 5.8906,
-      "prior_n": 1
-    },
-    {
-      "rank": 16,
-      "title": "Roscoff",
-      "path": "europe/france/normandybrittany/roscoff",
-      "prior_mu": 22.9227,
-      "prior_sigma": 5.4387,
-      "prior_n": 1
-    },
-    {
-      "rank": 17,
-      "title": "La Baule",
-      "path": "europe/france/centre/loirevalley/labaule",
-      "prior_mu": 22.6801,
-      "prior_sigma": 5.9588,
-      "prior_n": 1
-    },
-    {
-      "rank": 18,
-      "title": "Train des Pignes",
-      "path": "europe/france/midi/southern_alps/train_des_pignes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 19,
-      "title": "Draginuan",
-      "path": "europe/france/midi/draginuan",
-      "prior_mu": 21.9077,
-      "prior_sigma": 4.6985,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 3.5814,
+      "prior_variance": 0.917767,
       "prior_n": 2
     },
     {
+      "rank": 16,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 4.485,
+      "prior_variance": 0.742423,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 3.138,
+      "prior_variance": 0.686171,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 2.4939,
+      "prior_variance": 1.121146,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 2.4384,
+      "prior_variance": 1.394726,
+      "prior_n": 1
+    },
+    {
       "rank": 20,
-      "title": "Dieppe",
-      "path": "europe/france/normandybrittany/dieppe",
-      "prior_mu": 21.6494,
-      "prior_sigma": 4.5679,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 2.9479,
+      "prior_variance": 0.708733,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Rueil-Malmaison",
-      "path": "europe/france/around_paris/rueilmalmaison",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.613,
+      "prior_variance": 1.160163,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Limousin",
-      "path": "europe/france/centre/limousin",
-      "prior_mu": 22.8015,
-      "prior_sigma": 5.6872,
-      "prior_n": 1
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 2.2857,
+      "prior_variance": 0.677726,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Beauvais",
-      "path": "europe/france/around_paris/beauvais",
-      "prior_mu": 21.6681,
-      "prior_sigma": 4.6396,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 1.3816,
+      "prior_variance": 0.745459,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Queven",
-      "path": "europe/france/normandybrittany/queven",
-      "prior_mu": 22.7985,
-      "prior_sigma": 5.7257,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 3.4179,
+      "prior_variance": 1.497318,
       "prior_n": 1
     }
   ]

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Traku_pilis_by_Augustas_Di
 latitude: 54.6522
 loc_type: city
 longitude: 24.934
-score: 0.62
+score: 8.63
+snippet: Lithuanian lake town known for its island castle and the Karaim community's
+  wooden houses.
 title: Trakai
 type: location
 ---

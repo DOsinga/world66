@@ -7,6 +7,7 @@ tags:
 - bar
 type: poi
 snippet: Wine bar in the old city serving Ligurian wines by the glass
+score: 6.3
 ---
 
 A good wine bar in the old city, Cantine del Doge focuses on Ligurian wines — Vermentino, Pigato, Rossese di Dolceacqua — that rarely appear outside the region. The selection is well chosen and the staff know their producers. Snacks and small plates are available to go with the wine.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Queyras_abries.jpg
 latitude: 44.729805
 loc_type: city
 longitude: 6.844817
-score: 0.63
+score: 8.04
+snippet: High Alpine natural park on France's Italian border, known for sunny valleys
+  and flower-rich meadows.
 title: Queyras
 type: location
 ---

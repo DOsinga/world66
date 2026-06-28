@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Einsiedeln
 type: poi
+score: 8.4
 ---
 
 An easy day trip from Zurich (about an hour by train), Einsiedeln is home to one of Switzerland's most spectacular Baroque abbeys — and one of the most important pilgrimage destinations in the entire Catholic world. Around 800,000 pilgrims and tourists make the journey each year to see the **Black Madonna**, a medieval statue of Mary housed in an ornate Chapel of Grace at the centre of the enormous abbey church.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: Sheltered swimming beach running for kilometres in either direction
+score: 6.8
 ---
 
 Geographe Bay is shallow, north-facing, and protected by Cape Naturaliste — which makes the Busselton foreshore one of the calmest swimming beaches on the west coast. The water shelves out so gently you can walk a hundred metres before it reaches your shoulders, and there is rarely a wave bigger than a ripple.

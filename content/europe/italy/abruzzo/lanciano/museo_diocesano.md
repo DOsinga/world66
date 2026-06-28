@@ -6,6 +6,7 @@ tags:
 - museum
 title: Museo Diocesano
 type: poi
+score: 5.8
 ---
 
 The Museo Diocesano di Lanciano collects religious art and objects from the local diocese. It is not a large museum, but it gives useful context to a town where churches are the main sights and faith has shaped the visitor route for centuries.

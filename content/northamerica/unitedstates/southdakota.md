@@ -5,8 +5,14 @@ latitude: 44.647176
 loc_type: region
 longitude: -100.348761
 score: 0.54
+snippet: Great Plains state split by the Missouri, with prairie east and Black Hills
+  landmarks west.
 title: South Dakota
 type: location
+image: southdakota.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Badlands_panorama1.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Philberts
 ---
 
 South Dakota is the most unassuming of the Great Plains states — a flat, sparsely populated rectangle of wheat and buffalo grass on the upper Missouri River — but it contains an extraordinary amount of what makes the American West famous. The state is split in half by the **Missouri River**, which flows north to south down its middle. Everything east of the river is prairie farming country, small towns, and the state's economic capital **Sioux Falls**. Everything west of the river is what most visitors actually come for: the **Black Hills**, the **Badlands**, the **Pine Ridge** and **Rosebud** Lakota reservations, and the ghost-town gold rush settlements of the late 19th century.

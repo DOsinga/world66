@@ -1,8 +1,9 @@
 ---
 address: 6 de Diciembre y el Telegrafo, Edif. Garcia Ayala, 2do piso Suite 402
 email: editor@southamericatour.net
+score: 1.0
 title: Practical Information
-type: poi
+type: section
 url: Venezuela Travel Directory' rel='nofollow'>
 ---
 

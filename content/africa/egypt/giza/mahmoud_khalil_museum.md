@@ -7,6 +7,7 @@ tags:
 - museum
 title: Mohamed Mahmoud Khalil Museum
 type: poi
+score: 7.8
 ---
 
 One of the least-expected museums in Africa: a Belle Epoque villa on the Giza side of the Nile containing a remarkable collection of French Impressionist and Post-Impressionist paintings. Mohamed Mahmoud Khalil Bey (1877–1953) was an Egyptian politician and art collector who assembled what is probably the finest collection of Western art in the Arab world: Monets, Renoirs, a Gauguin, Corot landscapes, Rodin bronzes, and Ingres drawings, among others.

@@ -13,6 +13,7 @@ story: >
   of cattle per year qualify. Outside Japan, "Kobe beef" is often used loosely for
   any Wagyu, but in Japan the label is strictly controlled and restaurants serving
   certified Kobe beef display a certificate and the animal's registration number.
+score: 6.8
 ---
 
 Kobe beef is the most famous product associated with the city — a Wagyu beef produced from Tajima cattle raised in Hyogo Prefecture to exacting standards. The meat is characterised by extraordinary marbling: the fat is distributed throughout the muscle in fine threads rather than gathered in seams, giving it a texture that is often described as melting. The fat itself has a lower melting point than ordinary beef fat, contributing to the sensation.

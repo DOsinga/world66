@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.4583
 longitude: -82.7080
+score: 5.3
 ---
 
 A casual waterfront restaurant on the south side of Sandusky Bay, with outdoor decks looking across to Cedar Point. The menu leans seafood — Lake Erie perch fillets, walleye sandwiches, peel-and-eat shrimp — alongside the usual burgers and salads.

@@ -14,6 +14,7 @@ story: >
   in North America. What started as a curiosity — dinner while watching horses
   and jousting in an 11th-century style arena — became a chain of nine castles
   across the continent. The Buena Park location remains the flagship.
+score: 7.0
 ---
 
 Medieval Times seats 1,300 guests in tiered stands around a dirt arena where sword-fighting, jousting, and horsemanship unfold over two hours. You eat with your hands — a four-course medieval feast including tomato bisque, roasted chicken, and garlic bread — while cheering for your colour-coded knight. It is unabashedly theatrical and entirely enjoyable for what it is.

@@ -15,6 +15,7 @@ story: >
   Moroccan Atlantic coast between Safi and El Jadida. The protected
   anchorage was important enough that the seventeenth-century Portuguese
   mapped it in detail.
+score: 6.2
 ---
 
 The Saadian kasbah sits on the headland above the town and is partly ruined, partly absorbed into more recent buildings. There is no entry fee, no curator, and no signage of any consequence — you wander among the surviving walls and look down over the lagoon. The remains are modest but the view is excellent and the sense of how the fortress controlled the entrance to the natural harbour is immediately clear from up here.

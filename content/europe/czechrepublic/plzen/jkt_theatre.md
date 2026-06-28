@@ -15,6 +15,7 @@ story: >
   part of his career in Plzeň, which is why the city has a particular claim on his legacy. The
   building was designed in a neo-Baroque style by the Vienna architects Helmer and Fellner, the
   prolific duo responsible for dozens of Central European opera houses in the late 19th century.
+score: 6.8
 ---
 
 The Josef Kajetán Tyl Theatre (Divadlo Josefa Kajetána Tyla) is Plzeň's main opera and drama theatre, housed in one of the finest theatre buildings in the Czech Republic. The neo-Baroque façade, with its ornate stone figures and grand arched windows, gives the surrounding streets a weight and grandeur unusual in a city of Plzeň's size.

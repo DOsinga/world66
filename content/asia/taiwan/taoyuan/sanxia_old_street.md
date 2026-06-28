@@ -10,6 +10,7 @@ longitude: 121.3728
 snippet: The best-preserved Japanese-era old street in the greater Taoyuan/New Taipei area
 sources:
   - https://en.wikipedia.org/wiki/Sanxia_District
+score: 8.2
 ---
 
 Sanxia Old Street, technically just over the border into New Taipei City, is often paired with a Taoyuan day trip because it is easily reached and arguably has the finest Japanese-era commercial streetscape in northern Taiwan. The redbrick arcade architecture is consistently well preserved, and the street is less overrun with souvenir shops than Jiufen or some other heritage towns.

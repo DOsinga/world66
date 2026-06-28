@@ -6,6 +6,7 @@ longitude: 60.6190
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 A large 100-hectare park of pinewoods, ponds and Soviet-era pavilions on the south side of the city. There is a small Ferris wheel, a children's railway and a few fairground rides; the rest is quiet woodland walks. In winter, the park hosts cross-country ski trails and skating; in summer, outdoor concerts and a beer garden.

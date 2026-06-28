@@ -7,6 +7,7 @@ tags:
 latitude: 31.4638
 longitude: -100.4376
 snippet: "10 miles of riverside parks, public art, and trails through downtown"
+score: 7.4
 ---
 
 The Concho River Walk is the city's best public space — a system of riverside parks and paved trails that threads roughly ten miles along the Concho River through the heart of San Angelo. Unlike the famous River Walk in San Antonio, this one is quiet, flat, and genuinely local: joggers, cyclists, dog-walkers, and families with children rather than tourist crowds. Public art is scattered throughout, and several plazas along the route make good picnic spots.

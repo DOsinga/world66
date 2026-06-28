@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:MJK50197_Cathedral_of_the_
 latitude: 37.538509
 loc_type: city
 longitude: -77.43428
-score: 0.47
+score: 7.5
+snippet: Virginia capital on the James River, layered with revolutionary, Confederate,
+  and tobacco-era history.
 title: Richmond
 type: location
 ---

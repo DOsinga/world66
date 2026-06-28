@@ -13,6 +13,7 @@ story: >
   Tower — and completed in 1899, making it one of the earliest iron bridges in Vietnam.
   It was destroyed three times: in 1946, during the 1968 Tet Offensive, and by Typhoon
   Cecil in 1985. The current version opened in 1991.
+score: 5.8
 ---
 
 The Truong Tien Bridge crosses the Perfume River in central Hue, linking the French colonial quarter on the south bank with the Citadel side to the north. Built in 1899 by the Eiffel Company, it has six arched iron spans and was considered an engineering marvel in its day. It is one of the most photographed bridges in Vietnam, particularly at dusk when the street lights come on and the river traffic passes beneath.

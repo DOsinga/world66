@@ -1,0 +1,200 @@
+{
+  "round": 4142,
+  "timestamp": "2026-06-13T23:46:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 5.7956,
+      "prior_variance": 0.124064,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 2.836,
+      "prior_variance": 0.106835,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 3.8787,
+      "prior_variance": 0.102561,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_score": 4.1983,
+      "prior_variance": 0.138169,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 3.2311,
+      "prior_variance": 0.107658,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.2583,
+      "prior_variance": 0.110356,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 4.1876,
+      "prior_variance": 0.112555,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_score": 2.926,
+      "prior_variance": 0.119316,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 2.0027,
+      "prior_variance": 0.106614,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -3.0875,
+      "prior_variance": 0.133506,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": -1.8513,
+      "prior_variance": 0.098877,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.7516,
+      "prior_variance": 0.138289,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -4.088,
+      "prior_variance": 0.130921,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.2618,
+      "prior_variance": 0.131289,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.6262,
+      "prior_variance": 0.136609,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -3.9064,
+      "prior_variance": 0.11045,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -4.6867,
+      "prior_variance": 0.113319,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -4.6503,
+      "prior_variance": 0.116181,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.2789,
+      "prior_variance": 0.151762,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -6.2126,
+      "prior_variance": 0.1779,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -5.7984,
+      "prior_variance": 0.116237,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -5.809,
+      "prior_variance": 0.112916,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -4.5176,
+      "prior_variance": 0.118131,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -7.7948,
+      "prior_variance": 0.187272,
+      "prior_n": 13
+    }
+  ]
+}

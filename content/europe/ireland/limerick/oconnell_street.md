@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 O'Connell Street is Limerick's main thoroughfare, a long straight axis through Newtown Pery — the 18th-century Georgian quarter laid out by Edmund Sexton Pery from the 1760s. The Georgian terraces are still mostly intact, with red brick fa**ç**ades and fanlight doorways, and the street is lined with banks, restaurants, the Belltable arts centre, and the city's grandest hotel (the Savoy on Henry Street, a block west).

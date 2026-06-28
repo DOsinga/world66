@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pripyat01.jpg
 latitude: 51.4064
 loc_type: city
 longitude: 30.0548
-score: 0.47
+score: 6.87
+snippet: Abandoned Soviet city beside Chernobyl, evacuated in 1986 and slowly overtaken
+  by trees and silence.
 title: Pripyat
 type: location
 ---

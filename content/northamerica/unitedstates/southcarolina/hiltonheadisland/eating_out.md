@@ -1,11 +1,9 @@
 ---
 address: Shelter Cove
 email: info@kingfisherseafood.com
-latitude: 40.038019
-longitude: -124.055745
 phone: (843)785-4442
 title: Eating Out
-type: poi
+type: section
 url: www.kingfisherseafood.com
 ---
 

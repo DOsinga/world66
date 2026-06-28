@@ -5,7 +5,9 @@ done:
 latitude: 36.8221
 loc_type: city
 longitude: -107.9929
-score: 0.41
+score: 6.91
+snippet: Ancestral Pueblo site in northwestern New Mexico, preserving Chacoan ruins
+  and a reconstructed Great Kiva
 title: Aztec
 type: location
 ---

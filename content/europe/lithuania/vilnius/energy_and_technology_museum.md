@@ -7,6 +7,7 @@ snippet: Industrial heritage museum in a former power plant on the Neris River
 tags:
   - things_to_do
   - museum
+score: 7.6
 ---
 
 The Energy and Technology Museum occupies a former electricity generating station on the north bank of the Neris River, a short walk from the old town. The building itself — a massive red-brick industrial hall from the early 20th century — is the main draw, but the museum inside also covers the history of energy technology in Lithuania with actual machinery from the power generation era.

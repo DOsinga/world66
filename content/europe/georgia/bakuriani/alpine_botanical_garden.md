@@ -11,6 +11,7 @@ story: >
   alpine flora — plants that grow at elevations where ordinary gardens cannot survive. Today it
   holds over 1,500 species of alpine and sub-alpine plants from across the Caucasus, making
   it one of the highest-altitude botanical collections in the world.
+score: 6.3
 ---
 
 The Bakuriani Alpine Botanical Garden, founded in 1910, sits at around 1,650 metres on a 35-hectare site on the edge of the resort. It is a calm and rewarding place to walk in spring and summer, when the collections of Caucasian rhododendrons, gentians, and alpine wildflowers are at their best.

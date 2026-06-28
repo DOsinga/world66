@@ -11,6 +11,7 @@ story: >
   principal successor. It is one of the largest satras on Majuli in terms of land and monastic population.
   The annual Raas Leela festival here — held in mid-November — draws visitors from across Assam and
   features all-night Bhaona performances in elaborate costumes and masks.
+score: 8.1
 ---
 
 Dakhinpat Satra sits on the southern part of Majuli near the Brahmaputra's main channel, surrounded by paddy fields. Founded in 1584, it is one of the island's four raj satras and has maintained the largest monastic community of any satra on the island. The compound is extensive: a prayer hall (namghar), residential quarters for the monks, agricultural land, ponds, and a small library of manuscripts.

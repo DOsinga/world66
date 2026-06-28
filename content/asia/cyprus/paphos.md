@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Paphos_Marine,_Cyprus_-_pa
 latitude: 34.774399
 loc_type: city
 longitude: 32.423159
-score: 0.66
+score: 8.9
+snippet: Cypriot coastal town where harbour resorts sit beside Roman mosaics and Aphrodite
+  legends.
 title: Paphos
 type: location
 ---

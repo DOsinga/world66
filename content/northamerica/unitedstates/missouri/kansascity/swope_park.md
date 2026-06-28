@@ -8,6 +8,7 @@ tags:
 - outdoors
 title: Swope Park
 type: poi
+score: 5.7
 ---
 
 At 1,805 acres, Swope Park is one of the largest urban parks in the United States — larger than Central Park in New York. It sits in the southeast quadrant of the city and holds the Kansas City Zoo, a public golf course, the Starlight Theatre (an outdoor amphitheater with summer concerts), a lagoon for fishing and boating, and extensive trails through second-growth woodland. The park was donated to the city by Thomas Swope in 1896 on the condition that it remain free and public forever.

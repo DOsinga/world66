@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Cape Reinga Lighthouse
 type: poi
+score: 9.0
 ---
 
 The squat white cast-iron lighthouse on the cliff at the tip of the cape is the headline image of every brochure of the New Zealand far north. It marks the meeting point of the Tasman Sea and the Pacific Ocean — and on most days the seam where they meet is clearly visible as a white line of choppy water curving out to sea.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 47.1736
 longitude: 18.4153
+score: 6.0
 ---
 
 Sóstó (Salt Lake) is a small wetland nature reserve on the southern edge of the city, an easy fifteen-minute drive or local bus from the centre. The reserve protects a shallow lake and surrounding marsh that supports a good variety of waterbirds — herons, egrets, marsh harriers — and a boardwalk loop with a couple of hides lets you walk the perimeter.

@@ -8,6 +8,7 @@ tags:
 story: "The Cidade Administrativa was Niemeyer's last major built project, completed in 2010 when the architect was 102 years old. The main palace block — supported on just six enormous concrete columns and stretching 145 metres without any internal supports — is one of the most ambitious cantilevered structures in the world."
 title: Cidade Administrativa
 type: poi
+score: 6.2
 ---
 
 The Cidade Administrativa Presidente Tancredo Neves is Oscar Niemeyer's last major architectural project — a vast state government complex on the northern edge of the metropolitan area, completed in 2010. The central building, the Palácio Tiradentes, is a long horizontal slab raised on six massive concrete pillars, hovering more than 145 metres clear of the ground from one end to the other.

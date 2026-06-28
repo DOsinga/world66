@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 22.1498
 longitude: -100.9757
+score: 6.5
 ---
 
 La Corriente is one of the most popular restaurants in the city centre — deservedly so — and regularly has queues at peak mealtimes. The menu centres on very good fish and seafood tacos (the ceviche tostadas are excellent), plus the full range of local enchiladas potosinas, which here are done properly: masa tinted with ancho chile and filled with fresh cheese, served with cream and crumbled queso.

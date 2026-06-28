@@ -15,6 +15,7 @@ story: >
   began the decades-long process of restoration, guided by Edo-period drawings.
 sources:
   - https://en.wikipedia.org/wiki/Shukkei-en
+score: 7.5
 ---
 
 A classical Japanese garden created in 1620 by Asano Nagaakira, lord of Hiroshima. The name means "shrunken scenery" — the garden compresses a miniature landscape of hills, ponds, bridges, and islands into a compact space, so that strolling its paths creates the impression of moving through a much larger terrain. The central pond reflects a series of teahouses and pavilions.

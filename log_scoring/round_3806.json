@@ -1,0 +1,200 @@
+{
+  "round": 3806,
+  "timestamp": "2026-06-13T23:21:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 10.8344,
+      "prior_variance": 0.314661,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 2.9136,
+      "prior_variance": 0.14724,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 5.0434,
+      "prior_variance": 0.111123,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 3.4714,
+      "prior_variance": 0.104567,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.5711,
+      "prior_variance": 0.11184,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.818,
+      "prior_variance": 0.097923,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 3.3323,
+      "prior_variance": 0.132507,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 3.9524,
+      "prior_variance": 0.120704,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.8847,
+      "prior_variance": 0.109191,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -0.3102,
+      "prior_variance": 0.150107,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 3.1475,
+      "prior_variance": 0.10433,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.3868,
+      "prior_variance": 0.114136,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 1.9779,
+      "prior_variance": 0.113037,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 1.0448,
+      "prior_variance": 0.124317,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 2.8253,
+      "prior_variance": 0.133817,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 0.5784,
+      "prior_variance": 0.106736,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.2599,
+      "prior_variance": 0.115153,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.2175,
+      "prior_variance": 0.113052,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.7819,
+      "prior_variance": 0.099579,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.6168,
+      "prior_variance": 0.138096,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -4.1748,
+      "prior_variance": 0.12758,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -4.7858,
+      "prior_variance": 0.175046,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Goi\u00e2nia",
+      "path": "southamerica/brazil/goiania",
+      "prior_score": -2.5618,
+      "prior_variance": 0.117091,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -4.1334,
+      "prior_variance": 0.10482,
+      "prior_n": 13
+    }
+  ]
+}

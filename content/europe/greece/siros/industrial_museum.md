@@ -6,6 +6,7 @@ latitude: 37.4430
 longitude: 24.9450
 story: >
   Syros was the first Greek city to industrialise. Its shipyards in the 19th century were the most productive in the eastern Mediterranean, and the Neorion shipyard — still operating today — is one of the oldest continuously working shipyards in Greece. The museum documents this period when a Cycladic island briefly outpaced Athens in commercial importance.
+score: 7.9
 ---
 
 The Industrial Museum of Ermoupoli occupies a restored 19th-century building on the harbour waterfront and documents the astonishing industrial history of the island — the shipyards, the textile mills, the tanneries, and the trading houses that made Ermoupoli, for a few decades in the mid-1800s, the commercial capital of Greece.

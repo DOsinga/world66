@@ -16,6 +16,7 @@ story: >
   her something of an ordeal.
 sources:
   - https://en.wikipedia.org/wiki/Mary_Washington_House
+score: 6.7
 ---
 
 The Mary Washington House is the modest frame dwelling on Charles Street where George Washington's mother Mary Ball Washington lived from 1772 until her death in 1789. George purchased it for her when she moved from Ferry Farm, and he visited her here on his way to and from Yorktown and, later, to his presidential inauguration.

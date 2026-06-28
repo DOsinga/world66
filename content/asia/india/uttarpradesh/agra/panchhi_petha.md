@@ -6,6 +6,7 @@ longitude: 78.0058
 tags:
   - eating_out
   - shopping
+score: 6.1
 ---
 
 If there is a single edible souvenir from Agra, it is *petha* — a translucent, slightly chewy sweet made from ash-gourd boiled in sugar syrup. Panchhi is the oldest and most famous petha house, founded in the 1930s, with branches across the city. The original on Hari Parbat Road is where most locals buy.

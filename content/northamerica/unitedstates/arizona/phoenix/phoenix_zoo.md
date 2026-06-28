@@ -10,6 +10,7 @@ tags:
 title: Phoenix Zoo
 type: poi
 url: phoenixzoo.org
+score: 7.3
 ---
 
 The Phoenix Zoo is the largest privately owned non-profit zoo in the United States, set in the red-rock landscape of Papago Park. The collection runs to around 1,400 animals across themed trails — Africa, Tropics, Arizona, and a children's trail. The Arizona Trail is the one that justifies the trip: native mountain lions, Mexican gray wolves, ocelots, and bighorn sheep in settings that closely resemble the surrounding Sonoran landscape.

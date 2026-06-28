@@ -9,6 +9,7 @@ latitude: 30.0431
 longitude: 31.2575
 story: >
   Sultan al-Muayyad Sheikh was imprisoned in the jail that stood on this site before he became sultan. While a prisoner, he vowed that if he ever came to power, he would tear down the jail and build a mosque in its place. He became sultan in 1412 and kept his vow. The minarets of the mosque rise from the towers of the medieval Bab Zuweila gate — so high above the street that the calls to prayer from this spot could be heard across a large part of the old city.
+score: 8.0
 ---
 
 The Mosque of Sultan al-Muayyad stands at the Bab Zuweila city gate, its minarets rising from the gate's two towers in an arrangement unique in Cairo's mosque architecture. The complex was built between 1415 and 1422 and includes the mosque, a madrasa, and the sultan's mausoleum.

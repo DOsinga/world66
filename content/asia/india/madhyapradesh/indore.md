@@ -5,9 +5,11 @@ done:
 latitude: 22.720362
 loc_type: city
 longitude: 75.8682
-score: 0.4
+score: 6.52
 title: Indore
 type: location
+snippet: Madhya Pradesh commercial capital famous for night food markets, Holkar palaces,
+  and restless street energy.
 ---
 
 Indore is the largest city in Madhya Pradesh and its commercial capital, a sprawling, energetic place that most travellers pass through rather than linger in. That is a mistake if you like street food — Indore is consistently rated among India's best cities for eating, and the night food markets at [Sarafa Bazaar](/asia/india/madhyapradesh/indore/sarafa_bazaar) and [Chappan Dukan](/asia/india/madhyapradesh/indore/chappan_dukan) are reason enough to stop.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Duomo_Livorno.JPG
 latitude: 43.5505
 loc_type: city
 longitude: 10.3111
-score: 0.55
+score: 7.73
+snippet: Tuscan port city built by the Medici, with canals and a cosmopolitan free-port
+  past.
 sources:
 - https://en.wikipedia.org/wiki/Livorno
 - https://en.wikipedia.org/wiki/Monument_of_the_Four_Moors,_Livorno

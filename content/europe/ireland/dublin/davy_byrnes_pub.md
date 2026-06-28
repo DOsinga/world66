@@ -6,11 +6,14 @@ latitude: 53.340259
 longitude: -6.257357
 opening_hours: Mon–Thu 11:00–23:30, Fri–Sat 11:00–00:30, Sun 12:00–23:00
 phone: +353 1 677 5217
+score: 6.6
 snippet: Leopold Bloom's pub from Ulysses, still serving on Bloomsday
 tags:
+- georgian_dublin
 - things_to_do
 - bar
 - story
+- st_stephens_green_area
 title: Davy Byrne's Pub
 type: poi
 url: www.davybyrnes.com

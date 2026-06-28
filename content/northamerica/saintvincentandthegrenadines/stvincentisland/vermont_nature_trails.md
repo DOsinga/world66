@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 13.2
 longitude: -61.2167
+score: 7.7
 ---
 
 The Vermont Nature Trails climb through wet upland forest in the Buccament Valley, about 30 minutes by road from Kingstown. The main loop is a well-graded 3 km circuit that takes about 90 minutes at a relaxed pace, gaining 300 metres of elevation through mahogany, palmiste and ferns dense with epiphytes. The forest is one of the most reliable places in the country to see the St Vincent parrot — Amazona guildingii — which uses these slopes as part of its protected range.

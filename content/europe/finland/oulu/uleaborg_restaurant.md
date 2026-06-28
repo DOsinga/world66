@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 65.0135
 longitude: 25.4690
+score: 6.2
 ---
 
 An upmarket restaurant in a 19th-century townhouse near Rotuaari, named for the year of the building's construction and the Swedish form of the city's name. The menu sits between Nordic fine dining and traditional Finnish — short, seasonal, with serious wine pairings.

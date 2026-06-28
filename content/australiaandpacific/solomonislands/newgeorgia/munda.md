@@ -8,6 +8,7 @@ latitude: -8.3281
 longitude: 157.2708
 sources:
   - https://en.wikipedia.org/wiki/Munda,_Solomon_Islands
+score: 6.2
 ---
 
 Munda is the main settlement on New Georgia — the administrative centre, the market hub, and the base for most travellers exploring the western Solomons. It is a small, spread-out town of a few thousand people clustered around the airport and the waterfront at Munda Point. There is a hospital, a market, a handful of trade stores, and several guesthouses and lodges.

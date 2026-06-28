@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20200805_22_Maumee_River,_
 latitude: 41.652914
 loc_type: city
 longitude: -83.537817
-score: 0.33
+score: 5.91
+snippet: Northwest Ohio industrial city on the Maumee River, strongly associated with
+  glassmaking and art.
 title: Toledo
 type: location
 ---

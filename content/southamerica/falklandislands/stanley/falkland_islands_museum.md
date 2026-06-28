@@ -8,6 +8,7 @@ tags:
 - museum
 title: Falkland Islands Museum and National Trust
 type: poi
+score: 8.6
 ---
 
 The islands' main museum, located in the historic dockyard at the western end of Stanley waterfront. The collections cover everything from natural history (penguins, seabirds, the marine environment) and the islands' early settlement to the South Atlantic whaling industry and a substantial gallery on the 1982 Falklands War, with personal accounts from both sides.

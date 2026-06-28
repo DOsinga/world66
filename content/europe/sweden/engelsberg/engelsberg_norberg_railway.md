@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.9573
 longitude: 16.0097
+score: 6.8
 ---
 
 The Engelsberg–Norberg Railway is a heritage line that follows the route once used to carry iron ore through the Bergslagen mining country. Run by enthusiasts of the Engelsbergs Norberg Järnvägshistoriska Förening (ENJ), the railway offers occasional steam and diesel-hauled excursions, typically in summer.

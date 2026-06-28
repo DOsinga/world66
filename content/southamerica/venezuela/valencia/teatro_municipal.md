@@ -8,6 +8,7 @@ tags:
 - sight
 title: Teatro Municipal
 type: poi
+score: 8.0
 ---
 
 The Teatro Municipal de Valencia was inaugurated in 1894 during the coffee-and-cocoa boom that gave the city much of its nineteenth-century character. The architect Antonio Malaussena designed a small Italianate auditorium in a stripped neoclassical building with a portico, classical pediment and tiered loggia inside — a Caracas-scale theatre dropped into a provincial capital.

@@ -7,6 +7,7 @@ tags:
 latitude: -22.284
 longitude: -48.130
 story: "Brotas sits in the transition zone between Atlantic Forest remnants and open cerrado, and horse trekking is one of the few ways to move slowly enough through this landscape to notice it properly — the grass-covered hills, the gallery forest that lines the river, and the red laterite soil of the old cattle tracks."
+score: 5.8
 ---
 
 Horse trekking through the hills and valleys around Brotas is a gentler way to see the landscape when you've had your fill of adrenaline. Several farms and outfitters offer guided rides ranging from one hour to a full day, crossing cerrado scrubland, river valleys, and the edges of the forest that lines the Jacaré-Pepira. The horses are used to mixed-experience riders, so you do not need to have ridden much before.

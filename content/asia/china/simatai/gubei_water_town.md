@@ -13,6 +13,7 @@ story: >
   tolerance for constructed heritage. Either way, it is where you stay if you
   want to do the night wall visit, and the setting with the lit-up wall rising
   above is genuinely dramatic.
+score: 6.2
 ---
 
 Gubei Water Town sits at the foot of the Simatai Great Wall, built along the Baihe River in the style of a traditional Ming-era settlement. The project, which opened in 2014, is an upscale resort development with hotels, restaurants, and a pedestrian street of shops — all constructed to look antique. As heritage experiences go it is self-consciously artificial, but it is also very well done, and the views of the floodlit Simatai wall from the water channels at night are spectacular.

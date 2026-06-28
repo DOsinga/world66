@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fushun_Railway_Station_2.j
 latitude: 41.8667
 loc_type: city
 longitude: 123.9
+score: 5.44
+snippet: Liaoning coal city tied to Qing origins, Hetuala Old City, and China's last
+  emperor's detention.
 sources:
 - https://en.wikivoyage.org/wiki/Fushun
 title: Fushun

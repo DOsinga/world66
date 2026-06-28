@@ -7,6 +7,7 @@ tags:
 - restaurant
 type: poi
 snippet: The best focacceria on Via San Vincenzo, Genoa's best food street
+score: 6.4
 ---
 
 Via San Vincenzo, running south from the Brignole station area, is Genoa's finest food street: a concentrated row of focaccerias, pastry shops, cheesemakers, and delicatessens. Luigi is among the oldest and best of the focaccerie, selling *focaccia genovese* (thin, crispy, oil-soaked, dimpled) and *focaccia col formaggio* (the soft, cheese-filled variant from nearby Recco) by the slice from the morning onwards.

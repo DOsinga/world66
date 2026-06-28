@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -21.3550
 longitude: -174.9400
+score: 7.4
 ---
 
 A spectacular banyan ('ovava in Tongan) growing out of a deep limestone sinkhole near the centre of the island, its aerial roots dropping fifteen metres down the cliff walls to reach the soil at the bottom. You descend into the sinkhole on a wooden ladder built against one wall — the descent itself is mildly hair-raising, the tree at the bottom unforgettable.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.6911
 longitude: -105.9347
+score: 7.5
 ---
 
 A 7.5-metre cross set on a low hill just north of the Plaza, commemorating the 21 Franciscan friars killed in the 1680 Pueblo Revolt. The walk up is short — maybe ten minutes from Paseo de Peralta — and the view is the best free vantage point over old Santa Fe.

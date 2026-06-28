@@ -9,6 +9,7 @@ tags:
 title: The Beach
 type: poi
 story: "Daytona's hard sand made it the cradle of American motor racing. Between 1903 and 1935, fourteen world land-speed records were set on this beach, the last by Sir Malcolm Campbell's Bluebird at 276 mph. When the cars outgrew the sand, NASCAR was born just up the road."
+score: 8.2
 ---
 
 Daytona Beach is the city's defining feature: a flat, hard-packed expanse of sand stretching 23 miles from Ormond Beach in the north to Ponce Inlet in the south, wide enough at low tide to support automobile traffic. Cars are allowed on most stretches for a daily fee (currently $20), driving at a 10-mph crawl among sunbathers and surfers. It is one of very few beaches in the world where this is still legal, and it gives Daytona a distinctive, slightly anarchic atmosphere.

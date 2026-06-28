@@ -7,6 +7,7 @@ tags:
 - sight
 title: Huanchaco Wetlands
 type: poi
+score: 6.6
 ---
 
 A small reserve of coastal wetlands and totora reed beds north of the village, where the raw material for the caballitos de totora grows. This is where local craftsmen harvest the reeds to build and repair the traditional fishing boats — a process that requires replacing the reeds regularly as they become waterlogged.

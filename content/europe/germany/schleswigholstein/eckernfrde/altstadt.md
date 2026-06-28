@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 54.4738
 longitude: 9.8355
+score: 6.8
 ---
 
 Eckernförde's old town is small enough to walk through in half an hour without really trying, but rewards a slower approach. The streets between the harbor and the market square (Rathaus Markt) are lined with brick merchant houses and half-timbered buildings in relatively good condition — the town escaped serious World War II damage, which is part of why this stretch of the Baltic coast still feels genuinely old rather than reconstructed.

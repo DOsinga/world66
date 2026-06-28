@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.2280
 longitude: 146.3880
+score: 6.2
 ---
 
 The Morwell Wetlands Walk is a flat, easy loop trail of around three kilometres that skirts the wetlands and creek corridors at the northern edge of town. The area attracts a good variety of waterbirds — purple swamphens, herons, black swans, and various duck species are regular visitors — making it a pleasant early morning walk with binoculars.

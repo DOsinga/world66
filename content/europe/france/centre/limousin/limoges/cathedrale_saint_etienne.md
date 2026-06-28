@@ -9,6 +9,7 @@ latitude: 45.8289
 longitude: 1.2667
 story: >
   Construction of the cathedral began in 1273 and was not completed until 1888 — a process of 615 years. The long interruption between the 15th and 19th centuries means that the choir is pure High Gothic while the nave was completed by the neo-Gothic architects of the Third Republic. Despite this, the two sections read as a coherent whole inside, which is a minor architectural miracle.
+score: 8.4
 ---
 
 The Cathédrale Saint-Étienne is the most impressive building in Limoges, a Gothic structure of considerable height and elegance that occupies the high ground of the Cité quarter above the Vienne river. The construction history spans over six centuries, giving the building an unusual layering: the choir and north portal from the 14th and 15th centuries are the work of the Limousin architect Mathieu Verdier, while the nave was completed only in 1888.

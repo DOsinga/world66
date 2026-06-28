@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Cruz del Tercer Milenio
 type: poi
+score: 7.5
 ---
 
 Cruz del Tercer Milenio is the giant concrete cross that dominates Coquimbo's skyline. Inside are religious displays and viewpoints, but the building's main impact is from outside, where it turns the hill into a navigational marker.

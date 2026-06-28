@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 Governor's Beach, a kilometre south of central Cockburn Town in front of the official residence, is the best swimming beach within walking distance. Powder-fine sand, shallow turquoise water, casuarina trees for shade — the unfussy Caribbean ideal.

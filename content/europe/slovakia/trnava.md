@@ -5,7 +5,9 @@ done:
 latitude: 48.3768
 loc_type: city
 longitude: 17.5858
-score: 0.49
+score: 7.79
+snippet: Compact Slovak city of medieval walls and baroque churches, nicknamed the
+  Slovak Rome.
 title: Trnava
 type: location
 ---

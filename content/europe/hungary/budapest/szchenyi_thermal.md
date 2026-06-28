@@ -5,12 +5,12 @@ done:
 latitude: 47.5189
 longitude: 19.0823
 opening_hours: 6:00-22:00 daily
+score: 8.5
 snippet: Europe's largest thermal bath complex in City Park
 tags:
 - things_to_do
 - bath
 - architecture
-- andrassy_avenue
 title: Szechenyi Thermal Bath
 type: poi
 url: www.szechenyifurdo.hu

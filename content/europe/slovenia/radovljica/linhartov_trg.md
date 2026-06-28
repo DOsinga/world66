@@ -8,6 +8,7 @@ latitude: 46.3425
 longitude: 14.1721
 story: >
   The square is named after Anton Tomaž Linhart, an 18th-century playwright and historian born in Radovljica who wrote the first history of Slovenia in the Enlightenment period. His statue stands at the top of the square, though locals tend to treat him more as a bench landmark than a monument.
+score: 8.4
 ---
 
 Linhartov trg is the heart of Radovljica and one of the best-preserved medieval squares in Slovenia. A row of Gothic and Renaissance townhouses lines both sides, their painted facades and wrought-iron details largely intact — an unusually complete picture of how a prosperous Slovenian market town looked in the 16th and 17th centuries.

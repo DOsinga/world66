@@ -5,7 +5,9 @@ done:
 latitude: 26.0908
 loc_type: city
 longitude: -98.2788
-score: 0.26
+score: 5.23
+snippet: Tamaulipas border city across from McAllen, driven by maquiladoras, trade,
+  and Rio Grande crossing culture.
 sources:
 - https://en.wikipedia.org/wiki/Reynosa
 - https://en.wikipedia.org/wiki/McAllen%E2%80%93Hidalgo%E2%80%93Reynosa_International_Bridge

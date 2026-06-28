@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 1.001169
+loc_type: region
 longitude: 9.518176
+score: 0.27
+snippet: Mainland Equatorial Guinea region where Bata beaches lead inland to rainforest
+  and the Gabon border.
 title: Rio Muni
 type: location
-score: 0.27
-loc_type: region
 ---
 
 Rio Muni is the mainland portion of Equatorial Guinea, and one of the least-visited corners of Africa. Getting here takes a bit of an explorer's spirit — infrastructure is sparse, roads are rough, and tourist facilities are almost nonexistent. But that is precisely the appeal for those who do make the trip.

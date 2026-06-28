@@ -8,6 +8,7 @@ tags:
   - restaurant
   - icherisheher
 neighbourhood: Icherisheher
+score: 6.4
 ---
 
 A relatively upmarket Azeri restaurant in the Old City, Sumakh aims at a more polished version of the regional cuisine — slightly smaller portions, more careful presentation, an extensive Azeri wine list. The signature dish is the lamb plov served at the table from a copper qazan; the dolma and kutabs are also very good.

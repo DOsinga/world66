@@ -8,6 +8,7 @@ tags:
 - wildlife
 title: Loru Conservation Area
 type: poi
+score: 7.4
 ---
 
 The Loru Conservation Area protects a tract of primary rainforest on the coast north of Luganville, managed jointly by local communities and conservation organisations. Walking trails lead through lowland forest where flying foxes roost in the canopy and green palm cockatoos — one of Vanuatu's most distinctive birds — move through the trees. Several other endemic bird species are found here that are difficult to see elsewhere on the island.

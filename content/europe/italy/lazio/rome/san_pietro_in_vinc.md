@@ -6,11 +6,13 @@ done:
 latitude: 41.894
 longitude: 12.4979
 opening_hours: Daily 08:00–12:30, 15:00–19:00
+score: 7.7
 snippet: Michelangelo's Moses and St. Peter's chains
 tags:
 - 3 Days in Rome
 - things_to_do
 - church
+- monti
 title: San Pietro in Vincoli
 type: poi
 ---

@@ -1,200 +1,200 @@
 {
   "round": 529,
-  "timestamp": "2026-04-12T09:45:42",
+  "timestamp": "2026-06-13T19:40:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Amsterdam",
-      "path": "europe/netherlands/amsterdam",
-      "prior_mu": 38.0864,
-      "prior_sigma": 3.9271,
-      "prior_n": 9
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -14.1462,
+      "prior_variance": 1.689491,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "De Hoge Veluwe",
-      "path": "europe/netherlands/dehogeveluwe",
-      "prior_mu": 22.458,
-      "prior_sigma": 2.3137,
-      "prior_n": 8
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -12.0722,
+      "prior_variance": 8.047868,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Keukenhof",
-      "path": "europe/netherlands/keukenhof",
-      "prior_mu": 29.5635,
-      "prior_sigma": 3.1927,
-      "prior_n": 7
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_score": -11.1679,
+      "prior_variance": 7.875706,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Alkmaar",
-      "path": "europe/netherlands/alkmaar",
-      "prior_mu": 21.1478,
-      "prior_sigma": 3.1677,
-      "prior_n": 4
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -17.1036,
+      "prior_variance": 6.178766,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Middelburg",
-      "path": "europe/netherlands/middelburg",
-      "prior_mu": 21.212,
-      "prior_sigma": 2.3762,
-      "prior_n": 8
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -15.494,
+      "prior_variance": 6.666872,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Enkhuizen",
-      "path": "europe/netherlands/enkhuizen",
-      "prior_mu": 20.7712,
-      "prior_sigma": 2.485,
-      "prior_n": 7
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -11.7522,
+      "prior_variance": 8.172928,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Valkenburg",
-      "path": "europe/netherlands/valkenburg",
-      "prior_mu": 21.133,
-      "prior_sigma": 2.5879,
-      "prior_n": 6
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -17.3168,
+      "prior_variance": 6.068476,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Naarden",
-      "path": "europe/netherlands/naarden",
-      "prior_mu": 20.7883,
-      "prior_sigma": 2.362,
-      "prior_n": 7
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -12.0083,
+      "prior_variance": 8.269422,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Breda",
-      "path": "europe/netherlands/breda",
-      "prior_mu": 21.0048,
-      "prior_sigma": 2.7802,
-      "prior_n": 5
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -14.3471,
+      "prior_variance": 2.872331,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Formerum",
-      "path": "europe/netherlands/waddenislands/terschelling_islan/formerum",
-      "prior_mu": 21.2635,
-      "prior_sigma": 3.2237,
-      "prior_n": 4
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -14.2606,
+      "prior_variance": 2.435668,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Domburg",
-      "path": "europe/netherlands/domburg",
-      "prior_mu": 21.0482,
-      "prior_sigma": 2.6323,
-      "prior_n": 5
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_score": -13.0046,
+      "prior_variance": 7.459179,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Heerlen",
-      "path": "europe/netherlands/heerlen",
-      "prior_mu": 20.5638,
-      "prior_sigma": 2.5833,
-      "prior_n": 6
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -14.4928,
+      "prior_variance": 7.306944,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Bolsward",
-      "path": "europe/netherlands/friesland/bolsward",
-      "prior_mu": 20.5944,
-      "prior_sigma": 2.348,
-      "prior_n": 7
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -14.5267,
+      "prior_variance": 7.391883,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Dokkum",
-      "path": "europe/netherlands/friesland/dokkum",
-      "prior_mu": 20.7181,
-      "prior_sigma": 2.6683,
-      "prior_n": 5
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -13.6213,
+      "prior_variance": 3.328276,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Stavoren",
-      "path": "europe/netherlands/friesland/stavoren",
-      "prior_mu": 20.6422,
-      "prior_sigma": 2.5705,
-      "prior_n": 6
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -19.6412,
+      "prior_variance": 5.421396,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Laren",
-      "path": "europe/netherlands/laren",
-      "prior_mu": 20.6787,
-      "prior_sigma": 2.9463,
-      "prior_n": 4
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -16.2451,
+      "prior_variance": 6.399326,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Blaricum",
-      "path": "europe/netherlands/blaricum",
-      "prior_mu": 20.3494,
-      "prior_sigma": 2.6,
-      "prior_n": 6
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -14.4082,
+      "prior_variance": 4.723843,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Almelo",
-      "path": "europe/netherlands/almelo",
-      "prior_mu": 20.3823,
-      "prior_sigma": 2.5215,
-      "prior_n": 7
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -12.3234,
+      "prior_variance": 2.312728,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Amstelveen",
-      "path": "europe/netherlands/amstelveen",
-      "prior_mu": 20.5957,
-      "prior_sigma": 2.6035,
-      "prior_n": 6
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -15.2826,
+      "prior_variance": 6.64808,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Voorburg",
-      "path": "europe/netherlands/voorburg",
-      "prior_mu": 21.068,
-      "prior_sigma": 3.3469,
-      "prior_n": 4
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -14.2614,
+      "prior_variance": 7.172855,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Beek",
-      "path": "europe/netherlands/beek",
-      "prior_mu": 18.383,
-      "prior_sigma": 2.9037,
-      "prior_n": 5
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -17.6482,
+      "prior_variance": 5.948489,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Ossendrecht",
-      "path": "europe/netherlands/ossendrecht",
-      "prior_mu": 20.4977,
-      "prior_sigma": 2.9214,
-      "prior_n": 5
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -16.5486,
+      "prior_variance": 6.298437,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Brunsumm",
-      "path": "europe/netherlands/brunsumm",
-      "prior_mu": 16.1112,
-      "prior_sigma": 2.8196,
-      "prior_n": 6
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -16.4311,
+      "prior_variance": 6.697349,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Nieuwerkerk aan den IJssel",
-      "path": "europe/netherlands/nieuwerkerk_aan_de",
-      "prior_mu": 16.7211,
-      "prior_sigma": 2.5059,
-      "prior_n": 8
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -19.3555,
+      "prior_variance": 5.583018,
+      "prior_n": 1
     }
   ]
 }

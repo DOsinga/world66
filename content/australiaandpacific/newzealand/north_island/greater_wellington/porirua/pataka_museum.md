@@ -8,6 +8,7 @@ tags:
 latitude: -41.1316
 longitude: 174.8396
 story: The building opened in 1998 as part of a deliberate strategy to put a major cultural institution in the heart of a working-class city — a counter to the assumption that good museums belonged in Wellington. The name means "storehouse" in Maori, the kind built on stilts to keep food and treasures safe.
+score: 8.3
 ---
 
 Pataka Art + Museum is the cultural anchor of central Porirua and one of the best small public galleries in the country. It focuses on contemporary Maori, Pacific and Asian art, and rotates through changing exhibitions plus a permanent collection that includes major Maori carving and Pacific tapa work. Admission is free.

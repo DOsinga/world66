@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.0
 ---
 
 Fort Carré is the squat, four-pointed star fort that watches over Port Vauban from a rocky knoll just north of the harbour. It was begun in 1550 and completed by Vauban himself in the late 17th century — for two hundred years it was the southeasternmost French frontier post against Savoy. The shape, a square with four arrowhead bastions, is one of the cleanest examples of bastioned fortification on the coast.

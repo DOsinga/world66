@@ -8,6 +8,7 @@ latitude: 5.2850
 longitude: -2.6133
 story: >
   Ankasa Conservation Area holds over 639 butterfly species — more than the entire United Kingdom. Researchers believe this extraordinary density is partly because the forest has remained largely undisturbed since selective logging ended in 1976, allowing species that need old-growth canopy to survive.
+score: 8.8
 ---
 
 The forest walks at Ankasa are among the most rewarding wildlife experiences in Ghana, precisely because so few people make it out here. The forest is dense and genuinely wild — tall canopy trees draped in epiphytes, bamboo groves, swampy clearings, and the sound of unseen things moving in the undergrowth.

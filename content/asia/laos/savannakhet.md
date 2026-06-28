@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Laos,_Savannakhet_(5323923
 latitude: 16.557
 loc_type: city
 longitude: 104.749
-score: 0.41
+score: 6.9
+snippet: Sleepy Mekong city opposite Thailand, marked by French colonial buildings
+  and cross-border transit.
 title: Savannakhet
 type: location
 ---

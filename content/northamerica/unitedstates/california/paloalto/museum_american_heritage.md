@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Free museum of vintage technology from the 1750s to 1950s"
+score: 7.0
 ---
 
 A small free museum in a craftsman house just off University Avenue, given over to mechanical

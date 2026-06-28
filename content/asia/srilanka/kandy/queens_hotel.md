@@ -14,6 +14,7 @@ story: >
   The bar has served everyone from colonial governors to heads of state. It weathered
   two world wars, independence, and the civil war without closing, which is more than
   can be said for most things in Kandy.
+score: 7.1
 ---
 
 The Queen's Hotel occupies a commanding position on the main square beside the lake, directly opposite the Temple of the Tooth entrance. The colonial-era building has been operating as a hotel since 1841 and retains its verandah, high ceilings, and ceiling fans. The bar is one of the most atmospheric places in Kandy for a cold beer or a Lion whisky — the colonial furniture, slow fans, and view of the temple courtyard make it a genuine period experience.

@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Dickinson_College
   - https://en.wikipedia.org/wiki/Old_West,_Dickinson_College
+score: 7.2
 ---
 
 Dickinson College gives Carlisle much of its intellectual character. The campus is handsome and compact, centred on Old West — the original college building, a Federal-style structure completed in 1803 that was designed by Benjamin Henry Latrobe, the architect of the US Capitol. It is a National Historic Landmark and well worth a look even if you have no other reason to be on campus.

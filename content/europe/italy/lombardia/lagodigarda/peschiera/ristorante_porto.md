@@ -7,6 +7,7 @@ tags:
 latitude: 45.4400
 longitude: 10.6892
 sources: []
+score: 5.9
 ---
 
 Ristorante Porto Vecchio sits on the canal beside the lake ferry pier, with a small terrace that catches the evening light. The menu leans toward seafood as well as lake fish, with a reliable spaghetti alle vongole and a good grilled coregone. The wine list runs to several pages of Veneto and Lombard bottles.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 7.9
 ---
 
 The National Ornamental Metal Museum is a genuine oddity — the only museum in the United States dedicated exclusively to metal art and craft in all its forms, from fine jewelry and silversmithing to large architectural ironwork and blacksmithing. The collection spans centuries and includes historic pieces alongside contemporary work from living artists. The working smithy on the grounds produces actual pieces, and visiting artists often work in residence.

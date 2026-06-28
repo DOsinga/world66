@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Church of Saint Luke
 type: poi
+score: 7.7
 ---
 
 The Church of Saint Luke, built in 1195, is one of the oldest surviving buildings in Kotor and a rare example of Romanesque-Byzantine architecture. It stands in the square of the same name in the northern part of the old town. For centuries it was shared between Catholic and Orthodox congregations — an unusual arrangement that reflects the mixed character of medieval Kotor.

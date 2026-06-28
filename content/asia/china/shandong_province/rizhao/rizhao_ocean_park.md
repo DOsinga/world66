@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.3950
 longitude: 119.5450
+score: 5.8
 ---
 
 Rizhao Ocean Park is the city's main marine attraction, housing aquariums, marine mammal shows, and exhibits on the ecology of the Yellow Sea. The facility is pitched at family visitors and covers the marine life of the region with more specificity than most generic aquariums, since the Yellow Sea has a distinct ecology shaped by the mix of cold and warm currents and the shallow continental shelf.

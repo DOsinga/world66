@@ -13,6 +13,7 @@ story: >
   buried here are men from Britain, India, Malaya, and Australia, many of whom died
   not in battle but in the brutal conditions of the Taiping internment camp that the
   Japanese established in the town during the occupation.
+score: 7.1
 ---
 
 The Taiping War Cemetery lies east of the town centre and is maintained by the Commonwealth War Graves Commission. The graves are arranged in long quiet rows under tall trees, and the site is kept in immaculate condition — green, orderly, and very still. It holds 865 graves, the majority of men who died during the Malayan Campaign of 1941-42, when Japanese forces swept down the peninsula and captured Taiping in December 1941.

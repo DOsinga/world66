@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nantong_2.jpg
 latitude: 31.9833
 loc_type: city
 longitude: 120.9
+score: 6.01
+snippet: Yangtze port and textile city north of Shanghai, anchored by early public
+  museums and riverfront streets.
 sources:
 - https://en.wikivoyage.org/wiki/Nantong
 title: Nantong

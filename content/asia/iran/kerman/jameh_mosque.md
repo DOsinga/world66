@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.0
 ---
 
 The Jameh Mosque, or Friday Mosque, was founded in 1349 by the Muzaffarid ruler Mubariz al-Din Mohammad, and although it has been rebuilt and embellished many times, the core layout of four iwans around a central courtyard is original. The eastern iwan is the highlight: an enormous arch of muqarnas — honeycomb vaulting — entirely covered in lapis-blue and turquoise tiles, framed by Kufic and Thuluth inscriptions in white and yellow.

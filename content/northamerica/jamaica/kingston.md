@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Devonhouse.jpg
 latitude: 17.997
 loc_type: city
 longitude: -76.7936
-score: 0.54
+score: 7.91
+snippet: Jamaican capital and cultural engine, where reggae, dancehall, museums, and
+  rough-edged city life converge.
 title: Kingston
 type: location
 ---

@@ -8,6 +8,7 @@ latitude: -5.0892
 longitude: -81.1144
 story: >
   Manuela Sáenz, Simón Bolívar's lover and political collaborator, spent the last twenty-four years of her life in exile in Paita, supporting herself by selling sweets and writing letters to South American revolutionaries until a diphtheria epidemic killed her in 1856. Her small house, near the waterfront, is now a modest museum.
+score: 6.1
 ---
 
 Paita is Peru's main northern port, about 55 kilometres west of Piura, sitting in a wide sheltered bay backed by sand cliffs. Once one of the most important harbours on the Pacific coast, it was raided and burned by the English privateer Thomas Cavendish in 1587 and never fully recovered its colonial-era prominence.

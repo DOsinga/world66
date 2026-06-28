@@ -6,6 +6,7 @@ longitude: 35.7396
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 Our Lady of Africa Cathedral is the seat of the Roman Catholic Archdiocese of Dodoma. The diocese was established as a vicariate by the White Fathers in the 1930s, raised to a diocese in 1953, and elevated to an archdiocese in 2019 — a reflection of the growing weight of the central plateau in the Tanzanian church. Catholics are a strong presence in the surrounding Gogo country and the cathedral is a focal point for the wider Catholic community.

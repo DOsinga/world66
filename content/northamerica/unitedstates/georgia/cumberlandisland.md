@@ -4,7 +4,9 @@ done:
 latitude: 30.855
 loc_type: city
 longitude: -81.471
-score: 0.5
+score: 7.86
+snippet: Georgia barrier island of undeveloped beaches, maritime forest, wild horses,
+  and Dungeness ruins
 title: Cumberland Island
 type: location
 ---

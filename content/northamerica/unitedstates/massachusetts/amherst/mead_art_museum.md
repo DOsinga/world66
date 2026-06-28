@@ -7,6 +7,7 @@ tags:
 snippet: "Amherst College's accredited art museum, strong on American and Mexican modernism"
 latitude: 42.3709
 longitude: -72.5155
+score: 7.3
 ---
 
 The Mead is the art museum of Amherst College and holds about 19,000 works ranging from antiquities to contemporary photography. The American and Mexican collections are particularly strong — there is fine work by Diego Rivera, Frida Kahlo, Thomas Eakins, and Winslow Homer — and the museum is small enough that you can see it properly in an hour or two.

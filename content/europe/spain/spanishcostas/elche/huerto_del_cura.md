@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 7.8
 ---
 
 The Huerto del Cura is a formal garden within the Palmeral, originally laid out by a local priest in the 19th century and now managed as a botanical garden. It is the most accessible and ornamental section of the Palmeral, with labelled specimens, flower beds, a small pond, and a collection of succulents alongside the palms. The garden also has a Parador hotel inside it — one of the few Spanish Paradores built within a UNESCO World Heritage Site — making it a particularly pleasant place to stay if you can afford it.

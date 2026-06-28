@@ -13,6 +13,7 @@ story: >
   He escaped before the sentence could be carried out — but his time in
   Mesilla ended here, in a courtroom on this very square. The building is gone
   but the square looks much as it did in 1881.
+score: 8.7
 ---
 
 Old Mesilla is a Spanish colonial plaza town a few kilometres south of downtown Las Cruces, and it is the finest thing in the area. The central square — the Plaza de Mesilla — is surrounded by low adobe buildings housing galleries, restaurants, craft shops, and a basilica. It looks like Mexico, which is partly historical fact: before the Gadsden Purchase of 1853, this was part of Mexico, and the town voted against annexation to the United States.

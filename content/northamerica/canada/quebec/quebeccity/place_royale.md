@@ -9,6 +9,7 @@ longitude: -71.2039
 snippet: The square where New France began, with the oldest stone church in Canada
 sources:
   - https://en.wikipedia.org/wiki/Place-Royale_(Quebec_City)
+score: 9.3
 ---
 
 The stone-paved square at the foot of the cliff in the Lower Town marks the spot where Samuel de Champlain built his habitation in 1608 — the origin point of New France. The square is surrounded by 17th and 18th-century stone buildings in better condition than anything comparable in North America, largely because the French crown invested heavily in the area's prestige.

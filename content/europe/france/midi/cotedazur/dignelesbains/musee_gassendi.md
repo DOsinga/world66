@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 44.0930
 longitude: 6.2350
+score: 7.6
 ---
 
 The Musée Gassendi is Digne's main museum and a surprisingly good one — named after the 17th-century philosopher and astronomer Pierre Gassendi, who was born in the nearby village of Champtercier, it mixes local natural history, geology, and archaeology in the lower galleries with a collection of contemporary art that would not be out of place in a major city.

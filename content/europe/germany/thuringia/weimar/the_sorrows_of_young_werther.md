@@ -1,9 +1,10 @@
 ---
-title: "The Sorrows of Young Werther"
-type: poi
-author: "Johann Wolfgang von Goethe"
+author: Johann Wolfgang von Goethe
+score: 6.4
 tags:
-  - books
+- books
+title: The Sorrows of Young Werther
+type: theme
 ---
 
 Goethe's 1774 epistolary novel made him famous across Europe almost overnight. The story of a young man driven to suicide by unrequited love caused a sensation — and allegedly a wave of copycat suicides — that is hard to imagine a novel provoking today. Goethe wrote it at twenty-four, drawing on his own infatuation with Charlotte Buff in nearby Wetzlar.

@@ -8,6 +8,7 @@ tags:
 title: Dolphin House Museum
 type: poi
 story: "Ashley Saunders, a Bimini schoolteacher and historian, started building the Dolphin House by hand in 1993 with shells, beach glass, broken tile, and rubbish washed up on the Bimini shore. More than thirty years on it remains unfinished, and he gives the tours himself."
+score: 7.0
 ---
 
 The Dolphin House on Alice Town's King's Highway is a working folk-art project: a two-storey house entirely encrusted with mosaic dolphins, shell patterns, and beach finds, built single-handed by the local historian Ashley Saunders over more than three decades.

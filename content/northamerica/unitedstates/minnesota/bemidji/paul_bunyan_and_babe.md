@@ -11,6 +11,7 @@ story: "Paul Bunyan is a fictional lumberjack of American tall-tale tradition â€
   of superhuman strength who supposedly logged the upper Midwest single-handedly. Bemidji
   built these statues in 1937 to plant a flag on the legend, declaring itself the Home
   of Paul Bunyan. The claim stuck, and the statues have been a roadside landmark ever since."
+score: 7.6
 ---
 
 Paul stands 18 feet tall in his lumberjack clothes, axe in hand, staring across the lake with an expression of vague contentment. Babe the Blue Ox stands beside him at 10 feet, painted in an improbable shade of blue. They have occupied this spot on the Lake Bemidji shoreline for nearly ninety years, and they remain one of the more satisfying examples of American roadside sculpture â€” oversized, earnest, and completely committed to the bit.

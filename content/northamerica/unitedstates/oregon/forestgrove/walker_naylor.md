@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 A small residential district just west of Pacific University with a dense concentration of Victorian, Queen Anne, and Craftsman houses built between the 1880s and the 1920s. The houses face onto wide tree-lined streets -- College Way, A Street, and the cross streets -- and most are still in private use.

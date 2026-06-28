@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - kayaking
   - nature
+score: 9.4
 ---
 
 Sea kayaking is arguably the best way to see the park — and at peak times, the most pleasant, since paddling avoids the busiest sections of the Coast Track entirely. The protected water inside the islands, the constant supply of beaches to land on for lunch, and the reliable presence of fur seals on Tonga Island make this one of the best coastal kayaking environments in the country.

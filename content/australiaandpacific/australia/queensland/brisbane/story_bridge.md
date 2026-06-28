@@ -14,6 +14,7 @@ story: >
   cuts. When it finally opened in 1940, it was the longest cantilever bridge
   in Australia. The design was based on the Sydney Harbour Bridge, though at
   half the width and built for a fraction of the budget.
+score: 7.8
 ---
 
 The Story Bridge is Brisbane's most recognisable landmark, a cantilever steel bridge completed in 1940 that spans the river between Fortitude Valley and Kangaroo Point. Unlike Sydney's Harbour Bridge, this one is properly walkable — there are pedestrian and cycle paths on both sides, and the walk across and back takes about twenty minutes, with fine views of the city centre to the west and the industrial reaches of the river to the east.

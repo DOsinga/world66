@@ -13,6 +13,7 @@ story: >
   route has barely changed — the Belgian coast is narrow enough that a single
   line serves the whole thing.
 type: poi
+score: 7.8
 ---
 
 The Kusttram is the easiest way to explore the Belgian coast beyond Ostend, and also one of the best tram rides in Europe. Running the full 67 kilometres of Belgian coastline from De Panne to Knokke-Heist, it passes through beach resorts, nature reserves, and fishing harbours, stopping in front of dunes and beside villas that haven't changed since the 1920s.

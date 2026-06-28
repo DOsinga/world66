@@ -8,6 +8,7 @@ tags:
   - downtown
 latitude: 25.0759
 longitude: -77.3481
+score: 7.3
 ---
 
 The seat of the Catholic Archdiocese of Nassau, built in 1885–1887 in a yellow-painted Romanesque style. The interior is austere — barrel-vaulted, with stained glass and a marble high altar — and a welcome cool escape from the heat of Bay Street, two blocks away.

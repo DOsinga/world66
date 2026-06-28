@@ -2,11 +2,11 @@
 address: 9 Ximen Street, Banqiao District, New Taipei
 latitude: 25.0103
 longitude: 121.4584
+score: 7.8
 snippet: Largest surviving classical Chinese garden in Taiwan, just over the river
 tags:
-- things_to_do
-- sight
 - architecture
+- day_trips
 title: Lin Family Mansion and Garden
 type: poi
 url: https://www.linfamily.ntpc.gov.tw

@@ -9,6 +9,7 @@ latitude: 42.8238
 longitude: -1.6486
 sources:
   - https://en.wikipedia.org/wiki/Walls_of_Pamplona
+score: 8.9
 ---
 
 The walls that encircle Pamplona's old town are among the best-preserved Renaissance defensive works in Spain. Built and expanded between the 16th and 19th centuries, they form a continuous circuit of star-shaped bastions, curtain walls, and earthworks running for roughly five kilometres. The whole circuit is walkable, most of it on a promenade above the city with views across the Arga valley and north toward the Pyrenees.

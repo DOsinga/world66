@@ -14,6 +14,7 @@ tags:
 - theatre
 title: Museo Donizetti
 type: poi
+score: 6.6
 ---
 
 Gaetano Donizetti was born in Bergamo and the city is proud of it. This small museum in the Palazzo della Misericordia holds autographs, personal belongings and scores. Nearby, his birth house is also open on weekends — a characteristic early-19th-century home that gives a real sense of the man behind the operas. Both are free.

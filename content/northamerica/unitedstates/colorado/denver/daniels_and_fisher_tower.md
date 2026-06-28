@@ -4,6 +4,7 @@ type: poi
 tags: [sight]
 latitude: 39.748333333333335
 longitude: -104.99527777777777
+score: 7.6
 ---
 
 The 1911 Daniels & Fisher Tower is a 325-foot campanile loosely modelled on St Mark's in Venice — for two decades after it opened it was the tallest building between the Mississippi and the Pacific. The department store it advertised was demolished long ago, but the tower itself was preserved and converted into apartments and event space.

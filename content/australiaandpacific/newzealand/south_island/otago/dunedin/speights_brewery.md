@@ -7,6 +7,7 @@ tags:
 - bar
 title: Speight's Brewery
 type: poi
+score: 6.8
 ---
 
 Speight's has been brewing beer in Dunedin since 1876, making it one of New Zealand's oldest operating breweries. The stone building on Rattray Street is a heritage landmark, and the brewery runs guided tours that take you through the historic malting floors, fermentation tanks, and bottling line, ending with a tasting of their range. The Speight's Ale House restaurant attached to the brewery serves hearty pub food alongside the full range of beers.

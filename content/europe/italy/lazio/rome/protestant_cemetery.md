@@ -4,11 +4,13 @@ admission: €3 donation suggested
 latitude: 41.876
 longitude: 12.4804
 opening_hours: Mon–Sat 09:00–17:00, Sun 09:00–13:00
+score: 8.4
 snippet: Keats and Shelley's resting place in Rome's most beautiful cemetery
 tags:
 - things_to_do
 - sight
 - park
+- testaccio
 title: Protestant Cemetery
 type: poi
 ---

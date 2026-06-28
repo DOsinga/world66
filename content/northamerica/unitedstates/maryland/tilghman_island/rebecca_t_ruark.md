@@ -8,6 +8,7 @@ latitude: 38.71278
 longitude: -76.33139
 sources:
   - https://en.wikipedia.org/wiki/Rebecca_T._Ruark
+score: 8.5
 ---
 
 Built in 1886 at Taylor's Island, Maryland, the *Rebecca T. Ruark* is the oldest working skipjack on the Chesapeake Bay and one of the oldest working sailing vessels in the United States. She still dredges oysters under sail in winter, and offers public sailing trips in the warmer months — the best way to understand what life on the bay was like for generations of watermen.

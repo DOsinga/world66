@@ -1,22 +1,24 @@
 ---
-title: South Sudan
-type: location
-latitude: 6.877
-longitude: 31.307
-image: southsudan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cattle_of_the_Dinka_people,_Juba,_South_Sudan_-_20101230-06.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Ranjit Bhaskar, <i>via</i> <a rel="nofollow" class="external text"
-  href="https://www.flickr.com/people/32834977@N03">Al Jazeera English</a>.
-quick_facts:
-  Population: "11 million"
-  Independence: "2011 (world's youngest country)"
-  Paved Roads: "Less than 2%"
-  White Nile: "Flows through the country north to south"
 done:
   country_cleanup: 2026-03-31
-score: 0.18
+image: southsudan.jpg
+image_attribution: Ranjit Bhaskar, <i>via</i> <a rel="nofollow" class="external text"
+  href="https://www.flickr.com/people/32834977@N03">Al Jazeera English</a>.
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cattle_of_the_Dinka_people,_Juba,_South_Sudan_-_20101230-06.jpg
+latitude: 6.877
 loc_type: country
+longitude: 31.307
+quick_facts:
+  Independence: 2011 (world's youngest country)
+  Paved Roads: Less than 2%
+  Population: 11 million
+  White Nile: Flows through the country north to south
+score: 0.13
+snippet: Young East African country on the White Nile, shaped by pastoral cultures
+  and wetland landscapes
+title: South Sudan
+type: location
 ---
 
 South Sudan is the world's youngest country, gaining independence from [Sudan](/africa/sudan) in 2011 after decades of brutal civil war. It is also one of the most dangerous and difficult countries on earth for travelers. A new civil war broke out in 2013 and conflict has continued in various forms ever since. As of 2025–2026, armed fighting has intensified in Upper Nile State, with airstrikes killing civilians and mass displacement ongoing. Every major government travel advisory — US, UK, Australia, Canada — rates South Sudan at the highest possible risk level and advises against all travel.

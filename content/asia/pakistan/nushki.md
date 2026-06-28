@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Camel_in_the_Nushki_Desert
 latitude: 29.544279
 loc_type: city
 longitude: 66.050969
-score: 0.22
+score: 4.39
+snippet: Balochistan border town on the old RCD Road, between arid mountains and desert
+  plains
 title: Nushki
 type: location
 ---

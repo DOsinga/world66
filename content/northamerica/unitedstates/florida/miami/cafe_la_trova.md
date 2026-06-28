@@ -11,6 +11,7 @@ tags:
 - cuban
 title: Café La Trova
 type: poi
+score: 8.0
 ---
 
 Part Cuban cantina, part craft cocktail bar, Café La Trova is the creation of Julio Cabrera, one of Miami's most respected bartenders. The front room is a classic ventanita-style café serving cafecitos and croquetas. Walk through to the back and you are in a 1950s Havana-style supper club with live bolero music, bartenders in guayaberas, and cocktails that draw on both Cuban and modern American traditions. The daiquiris are exceptional.

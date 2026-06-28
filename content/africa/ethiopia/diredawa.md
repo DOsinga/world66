@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Dire_Dawa_Station.jpg
 latitude: 9.6
 loc_type: city
 longitude: 41.8667
-score: 0.32
+score: 5.94
 title: Dire dawa
 type: location
+snippet: Eastern Ethiopian railway city with contrasting Kezira boulevards and the
+  Somali-influenced Megala market quarter.
 ---
 
 Dire Dawa is Ethiopia's second city, a railway town built in the early 1900s when the French-built Djibouti–Addis Ababa line reached this spot in the Rift Valley lowlands. The [Kezira](/africa/ethiopia/diredawa/kezira) district, the old European quarter, has wide boulevards, art deco buildings, and a relaxed, almost Mediterranean feel that is completely different from the highland cities — helped by the hot, dry climate.

@@ -8,6 +8,7 @@ latitude: 24.8873
 longitude: 74.6445
 story: >
   The Samadhishvara Temple is believed to have been built in the eleventh century during the reign of the Paramara king Munja and later restored by Rana Mokal of Mewar in the early fifteenth century. The temple's name — "Lord of Equanimity" — refers to a form of Shiva depicted in a rare meditating posture that is specific to this part of Rajasthan. The three-storey shikhara that once crowned the temple has largely collapsed, but the lower structure and its sculptures remain intact.
+score: 7.8
 ---
 
 The Samadhishvara Temple is a fine example of eleventh-century Hindu temple architecture within Chittorgarh Fort, dedicated to Shiva in the form of Samadhishvara. The carved exterior panels depict attendant deities, celestial nymphs, and the standard iconographic program of Shaiva temples of the period. The main shrine still receives devotion, and marigold offerings and incense smoke are a constant presence.

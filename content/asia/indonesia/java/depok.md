@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Depok_Skyline.jpg
 latitude: -6.4072
 loc_type: city
 longitude: 106.8158
-score: 0.3
+score: 5.8
+snippet: Jakarta-Bogor satellite city anchored by the leafy University of Indonesia
+  campus and Margonda student life
 title: Depok
 type: location
 ---

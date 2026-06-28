@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5379
 longitude: 10.8599
+score: 6.8
 ---
 
 Castelfalfi is a medieval hamlet perched on a hilltop about six kilometres west of Montaione, centred on a fortified tower and castle visible from across the surrounding valleys. The hamlet fell into near-abandonment by the late twentieth century before being purchased and restored by a German development company, which turned it into a luxury resort while preserving the medieval core and the parish church. The result is somewhat sanitised, but the setting and the restoration quality are genuine.

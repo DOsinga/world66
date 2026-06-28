@@ -7,6 +7,7 @@ tags:
 snippet: Civic auditorium and arts venue on the edge of downtown
 latitude: 34.9331
 longitude: -95.7664
+score: 5.8
 ---
 
 The Puterbaugh Center, originally the Garrard Ardeneum, is McAlester's main civic performance venue. It hosts the McAlester Community Concert Series, the local Little Theatre, and a steady programme of touring shows aimed at southeastern Oklahoma. The brick-and-stone building dates from the early twentieth century and has been repeatedly renovated.

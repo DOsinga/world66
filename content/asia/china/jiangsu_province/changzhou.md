@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ChangzhouOldCityDistrict.j
 latitude: 31.7742
 loc_type: city
 longitude: 119.9602
+score: 6.53
+snippet: Jiangsu canal city between Shanghai and Nanjing, with old lanes surviving
+  beside modern industry
 title: Changzhou
 type: location
 ---

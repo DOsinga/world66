@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kyauk_Ka_Lat-3.jpg
 latitude: 16.8832
 loc_type: city
 longitude: 97.6333
+score: 7.75
+snippet: Kayin State river city framed by limestone karst hills, cave pagodas, and
+  Mount Zwegabin.
 sources:
 - https://en.wikipedia.org/wiki/Hpa-an
 title: Hpa-an

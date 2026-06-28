@@ -5,6 +5,7 @@ tags: [things_to_do, sight, church]
 latitude: 42.6925
 longitude: 9.4522
 story: "The Église Sainte-Croix is a confraternity oratory rather than a parish church — it belongs to the Confraternité de la Sainte-Croix, one of Bastia's oldest brotherhoods, founded in 1428. Inside it holds the Cristo Nero (Black Christ), a dark-stained crucifix found floating in the sea in 1428 by fishermen who took it as a miraculous sign, and which has been venerated in Bastia ever since. The confraternity still conducts its Good Friday procession through the city carrying the Cristo Nero, a tradition maintained without interruption for nearly six centuries."
+score: 7.5
 ---
 
 The Église Sainte-Croix, tucked into the lower streets of the Terra Vecchia quarter near the Vieux Port, is one of the most atmospheric small churches in Bastia. It is the oratory of the Confraternité de la Sainte-Croix, a lay religious brotherhood that has maintained this building since the 15th century. The interior is furnished in an elaborate baroque style with gilded woodwork, painted panels, and the distinctive decorative character of Genoese religious art.

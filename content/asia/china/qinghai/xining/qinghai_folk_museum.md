@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6177
 longitude: 101.8041
+score: 6.3
 ---
 
 The Qinghai Folk Customs Museum documents the material culture of the province's main ethnic groups — Tibetan, Hui, Han, Tu, and Salar — with collections of traditional clothing, household objects, tools, and ceremonial items. It is a less glamorous institution than the Provincial Museum or the Tibetan Medicine Museum, but it covers ground those museums miss: the everyday life of farming and herding families in a region too often represented only through monasteries and high-altitude landscapes.

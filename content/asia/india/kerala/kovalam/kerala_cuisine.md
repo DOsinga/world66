@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out]
 latitude: 8.3905
 longitude: 76.9785
+score: 6.1
 ---
 
 Kerala cooking is among the most distinctive in India, and eating in Kovalam offers both the tourist-adapted version and, if you seek it out, the real thing. The cuisine is built around coconut — coconut oil, coconut milk, grated coconut — combined with black pepper, cardamom, mustard seeds, and curry leaves. Fish and seafood are central; Kerala is a maritime state and the daily catch drives what is cooked.

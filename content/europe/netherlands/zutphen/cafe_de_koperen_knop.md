@@ -6,6 +6,7 @@ longitude: 6.1964
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 A classic Dutch bruine kroeg in the heart of the old town, with dark-panelled walls, a long bar, and the kind of lived-in atmosphere that takes decades to accumulate. A good place for a jenever or a local beer in the afternoon, when the light through the small windows gives the room a particularly amber quality. The regulars are friendly to visitors in that reserved Dutch way.

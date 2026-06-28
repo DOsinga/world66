@@ -8,6 +8,7 @@ tags:
 - sight
 title: Florence American Cemetery and Memorial
 type: poi
+score: 7.4
 ---
 
 The Florence American Cemetery lies on the slope of a hill about four kilometres west of Impruneta, between the autostrada and the small road to San Casciano. It holds the graves of 4,392 American servicemen who died in the Italian campaign of the Second World War — most of them killed in the slow, brutal advance up the peninsula after the breakout from Anzio in 1944.

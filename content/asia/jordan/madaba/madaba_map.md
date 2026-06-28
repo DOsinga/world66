@@ -7,6 +7,7 @@ tags:
 latitude: 31.71765
 longitude: 35.7942
 story: "The map was discovered by accident in 1884 during the construction of a new Greek Orthodox church on top of a Byzantine ruin. The builders found a mosaic floor and the local schoolteacher recognised what it might be. Of the original mosaic — roughly 21 by 7 metres, with around two million tesserae — only about a quarter survives, including the famous depiction of Jerusalem with the colonnaded Cardo running through the city."
+score: 8.8
 ---
 
 The Madaba Mosaic Map is set into the floor of the modest nineteenth-century Greek Orthodox Church of Saint George in the centre of town, and is the single thing that puts Madaba on the world map. Made around 560 AD, it is the oldest cartographic representation of the Holy Land in existence, showing 157 named places stretching from the Nile delta to the Lebanese coast.

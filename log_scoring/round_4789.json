@@ -1,0 +1,200 @@
+{
+  "round": 4789,
+  "timestamp": "2026-06-14T00:41:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 10.5549,
+      "prior_variance": 0.317023,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 6.4414,
+      "prior_variance": 0.105496,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 3.4847,
+      "prior_variance": 0.124293,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_score": 4.6502,
+      "prior_variance": 0.103422,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.4199,
+      "prior_variance": 0.079093,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Porto Colom",
+      "path": "europe/spain/balearicislands/mallorca/porto_colom",
+      "prior_score": 3.0766,
+      "prior_variance": 0.080749,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 0.8002,
+      "prior_variance": 0.090048,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 3.1425,
+      "prior_variance": 0.094178,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.2493,
+      "prior_variance": 0.087159,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.6644,
+      "prior_variance": 0.095532,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 2.0349,
+      "prior_variance": 0.083767,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.401,
+      "prior_variance": 0.107481,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.565,
+      "prior_variance": 0.082486,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.1645,
+      "prior_variance": 0.091239,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -3.2122,
+      "prior_variance": 0.094761,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -3.2935,
+      "prior_variance": 0.092453,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -4.9235,
+      "prior_variance": 0.092473,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.0264,
+      "prior_variance": 0.09138,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.4634,
+      "prior_variance": 0.107883,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_score": -4.8855,
+      "prior_variance": 0.102164,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.0515,
+      "prior_variance": 0.11565,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -4.3566,
+      "prior_variance": 0.089964,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -5.0559,
+      "prior_variance": 0.09574,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -4.6446,
+      "prior_variance": 0.104472,
+      "prior_n": 15
+    }
+  ]
+}

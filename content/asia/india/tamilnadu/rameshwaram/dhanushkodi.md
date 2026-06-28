@@ -7,6 +7,7 @@ tags:
 title: Dhanushkodi
 type: poi
 story: "On the night of 22 December 1964, Cyclone Rameswaram made landfall with almost no warning. A passenger train carrying around 200 people was crossing near Dhanushkodi when a wave estimated at over six metres struck it, killing everyone on board. The town of roughly 4,000 people was submerged. The Indian government declared the site unfit for habitation and it was never rebuilt. The ruined railway station, where the train was supposed to stop, still stands at the end of the sand spit."
+score: 8.8
 ---
 
 Dhanushkodi is a ghost town on a narrow sand spit at the easternmost point of Pamban Island, roughly 20 kilometres from Rameshwaram. The 1964 cyclone destroyed the town completely — the railway station, the church, the post office, and a few hundred houses — and the ruins have been left largely as they fell. The site sits where the Bay of Bengal meets the Palk Strait, with Sri Lanka's coast visible on clear days about 30 kilometres across the water.

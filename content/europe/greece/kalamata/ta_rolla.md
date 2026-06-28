@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Ta Rolla
 type: poi
+score: 5.8
 ---
 
 One of Kalamata's oldest tavernas, founded in 1924 and still in the same family. It sits in the historical centre near the main food market and the bus station. The menu sticks to traditional Greek dishes made from fresh local ingredients — the kind of cooking that has kept the place going for a century.

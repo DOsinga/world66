@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.3424
 longitude: 14.1718
+score: 7.5
 ---
 
 Lectar is an old inn and gingerbread workshop on Linhartov trg that has been making decorated honey-bread hearts — lectarji — for generations. The tradition of painting and decorating these gingerbread shapes in bright colours is a distinctly Slovenian folk craft, and the Lectar workshop keeps it alive in a building that has served as an inn since the 18th century.

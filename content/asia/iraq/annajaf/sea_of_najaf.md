@@ -6,6 +6,7 @@ longitude: 44.2
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Bahr al-Najaf — the Sea of Najaf — is a shallow seasonal lake and salt depression southwest of the city. In wet years water spreads across the basin and supports flocks of migrating birds; in dry years it shrinks to mudflats and saltpans. Local legend has it that the depression marks the spot where the floodwaters of Noah finally drained away.

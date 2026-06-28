@@ -7,6 +7,7 @@ tags:
 - sight
 title: Riverside Park
 type: poi
+score: 6.8
 ---
 
 Riverside Park runs along the south bank of the Rogue immediately east of downtown. It is a long, narrow strip of lawns, ornamental gardens, picnic tables, and a paved path that doubles as a popular jogging route. The park has a small swimming area where the city's children spend summer afternoons.

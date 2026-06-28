@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Colonial_Williamsburg_(320
 latitude: 37.270879
 loc_type: city
 longitude: -76.707404
-score: 0.62
+score: 8.39
+snippet: Virginia college town where Colonial Williamsburg turns an 18th-century capital
+  into living history.
 title: Williamsburg
 type: location
 ---

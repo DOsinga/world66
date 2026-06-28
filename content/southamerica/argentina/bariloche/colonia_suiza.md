@@ -8,6 +8,7 @@ tags:
 latitude: -41.1090
 longitude: -71.4900
 snippet: "Old Swiss settlement with a weekend craft fair"
+score: 7.6
 ---
 
 Colonia Suiza is the original European settlement in the Bariloche area, founded by Swiss colonists in 1895. It sits at the back of the Circuito Chico, a small cluster of wooden houses, gardens, and farm plots above the Goye lake. The settlers brought the cattle, the carpentry, and the chocolate traditions that became the city's identity.

@@ -11,6 +11,7 @@ story: >
   The cathedral took over 30 years to build, from 1905 to 1938, which is why the style is a mixture of late Romanesque at the base and more elaborate neo-Gothic in the upper levels and towers. One bell tower was completed in the 1930s; the second wasn't finished until the 1970s. From the outside, the asymmetry is still faintly visible to an attentive eye.
 sources:
   - https://en.wikipedia.org/wiki/Mar_del_Plata_Cathedral
+score: 6.2
 ---
 
 The Cathedral Basilica of Saints Peter and Cecilia stands in the pedestrianised centre of Mar del Plata, two blocks from the main square. The building is in neo-Romanesque style, with twin towers and a rose window over the main entrance. Inside, the nave is long and well-proportioned, with good stained glass and a calm that contrasts pleasantly with the busy city outside.

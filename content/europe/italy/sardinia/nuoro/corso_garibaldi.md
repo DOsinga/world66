@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.3225
 longitude: 9.3295
+score: 7.1
 ---
 
 The Corso Garibaldi is the main pedestrian street of Nuoro's old quarter, a broad avenue of stone-paved elegance lined with palazzi, small bars, and the occasional well-stocked deli. It runs through the heart of the historic centre and connects the main piazzas. In the evening, particularly in summer, it becomes the main venue for the passeggiata.

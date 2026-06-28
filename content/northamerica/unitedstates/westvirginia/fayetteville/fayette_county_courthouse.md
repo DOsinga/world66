@@ -9,6 +9,7 @@ tags:
 address: "100 Court St, Fayetteville, WV"
 latitude: 38.0536
 longitude: -81.1036
+score: 6.0
 ---
 
 The handsome Romanesque Revival courthouse from 1895 anchors the small town square, faced in rough-cut sandstone with a square central tower. It replaced an earlier courthouse burned during the Civil War — Fayetteville switched hands repeatedly during 1862-63 fighting.

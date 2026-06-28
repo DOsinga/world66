@@ -9,6 +9,7 @@ latitude: 37.9700
 longitude: 106.0950
 story: >
   The number 108 is not arbitrary. In Buddhist cosmology it represents the precise count of human afflictions — the vices, attachments, and delusions that bind souls to the cycle of rebirth. By circumambulating all 108 stupas, a pilgrim theoretically confronts and releases each of these obstacles in turn. The arrangement in diminishing rows from base to apex (19 at the bottom, 17, 15, down to 1 at the top) mirrors the Buddhist conception of the path narrowing as enlightenment approaches.
+score: 8.4
 ---
 
 The 108 Dagobas — Yibailing Ta in Chinese — occupy a terraced hillside above the Yellow River gorge a few kilometres south of Qingtongxia, arranged in a vast triangular formation that covers the slope in concentric rows. The stupas vary in form: the lower ranks are broad and vase-shaped, those in the middle rows are more pyramidal, and the upper ranks are smaller and more elongated. Each is whitewashed and rises between two and four metres tall. From a distance, especially in low raking light, the effect is extraordinary — less like a religious site than a piece of large-scale earthwork art.

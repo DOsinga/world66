@@ -1,6 +1,7 @@
 ---
 title: Paraguay
 type: location
+snippet: Landlocked South American country divided by the Paraguay River into the Gran Chaco and eastern heartland.
 latitude: -23.316593
 longitude: -58.169345
 image: paraguay.jpg
@@ -14,7 +15,7 @@ quick_facts:
   Budget Meal: "~$2–3"
   Bilingual Nation: Spanish and Guaraní both official
   Largest Hydroelectric Dam: Itaipú supplies 86% of electricity
-score: 0.42
+score: 0.46
 loc_type: country
 ---
 

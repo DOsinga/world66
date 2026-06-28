@@ -1,14 +1,15 @@
 ---
+image: copacabana.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Copacabana,_Rio_de_Janeiro.jpg
 latitude: -22.971974
 longitude: -43.1843
+snippet: Rio's iconic four-kilometre beach and vibrant neighbourhood
 tags:
-- beaches
-- beach
-- church
-- palace
+- things_to_do
+- neighbourhood
 title: Copacabana
-type: poi
-snippet: "Rio's iconic four-kilometre beach and vibrant neighbourhood"
+type: neighbourhood
 ---
 
 Perhaps the most famous beach in the world, Copacabana stretches four kilometres in a wide arc along Rio's Zona Sul. The distinctive Portuguese wave-pattern pavement along Avenida Atlantica is an icon in its own right. The beach is divided into *postos* (sections marked by lifeguard stations), each known for a different crowd -- families, athletes, artists.

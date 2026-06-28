@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 51.4994
 longitude: -0.1273
+score: 9.7
 snippet: Coronation church of British monarchs since 1066
 story: The Coronation Chair in the Abbey has been used at almost every coronation
   since 1308. It was originally built to enclose the Stone of Destiny, seized from
@@ -12,6 +13,7 @@ story: The Coronation Chair in the Abbey has been used at almost every coronatio
 tags:
 - things_to_do
 - architecture
+- westminster
 title: Westminster Abbey
 type: poi
 ---

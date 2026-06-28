@@ -7,6 +7,7 @@ tags:
 latitude: 38.0430
 longitude: 14.0210
 story: "The top of La Rocca holds the remains of a small Greek-Norman settlement and a massive medieval cistern still used for rainwater collection in the 1950s. But the most curious feature is the so-called Temple of Diana: a megalithic structure at the base of the climbing path whose stones were later worked by Greek hands, meaning the site has been in continuous use since at least the 5th century BC."
+score: 8.7
 ---
 
 La Rocca — the great limestone headland that drops sheer into the sea on Cefalù's eastern side — is the physical fact that defines the town. The rock rises about 280 metres above sea level, and the climb to the top takes around 45 minutes on a stepped stone path that is steep but well-maintained. The views from the summit across the old town, the cathedral towers, the beach, and the sweep of the Tyrrhenian coast are extraordinary.

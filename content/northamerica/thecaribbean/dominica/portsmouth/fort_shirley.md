@@ -8,6 +8,7 @@ tags:
 - history
 title: Fort Shirley
 type: poi
+score: 8.5
 ---
 
 Fort Shirley was built by the British from the 1770s onwards to guard Prince Rupert Bay — then one of the most strategically important anchorages in the eastern Caribbean, capable of sheltering an entire fleet. At its peak the complex included barracks, magazines, officers' quarters, a hospital, and gun batteries covering the approaches from sea. The garrison was abandoned in 1854 when the British found the site too unhealthy to maintain, and the jungle claimed most of it within a generation.

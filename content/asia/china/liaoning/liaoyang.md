@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E8%BE%BD%E9%98%B3%E7%99%B
 latitude: 41.2667
 loc_type: city
 longitude: 123.1833
+score: 5.7
+snippet: Ancient Liaoning city with over two millennia of history and a landmark Liao
+  Dynasty White Pagoda.
 sources:
 - https://en.wikivoyage.org/wiki/Liaoyang
 title: Liaoyang

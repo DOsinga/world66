@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -0.7090
 longitude: -80.0938
+score: 7.1
 ---
 
 Corviche — a fried ball of green plantain dough filled with fish and peanut-spiced filling — is one of Manabí's most distinctive snacks, and Chone has several street stalls and small lunch counters that do it well. The best ones are found around the market and along the main commercial streets near the central square, where vendors set up in the mornings and run until the food is gone, usually by early afternoon.

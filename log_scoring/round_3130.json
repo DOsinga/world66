@@ -1,0 +1,200 @@
+{
+  "round": 3130,
+  "timestamp": "2026-06-13T22:30:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.6429,
+      "prior_variance": 0.155242,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 2.2777,
+      "prior_variance": 0.152982,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_score": 2.579,
+      "prior_variance": 0.129324,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 2.0355,
+      "prior_variance": 0.139812,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 0.2415,
+      "prior_variance": 0.203116,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.4306,
+      "prior_variance": 0.130565,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": 0.0797,
+      "prior_variance": 0.134595,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -1.9316,
+      "prior_variance": 0.160582,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 0.4448,
+      "prior_variance": 0.14283,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.5291,
+      "prior_variance": 0.123363,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_score": 0.2274,
+      "prior_variance": 0.121644,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": -0.0765,
+      "prior_variance": 0.132009,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -1.9116,
+      "prior_variance": 0.151068,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -1.6975,
+      "prior_variance": 0.133369,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_score": -3.3782,
+      "prior_variance": 0.165177,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -2.4695,
+      "prior_variance": 0.126354,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_score": -3.7241,
+      "prior_variance": 0.1364,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -2.0031,
+      "prior_variance": 0.128846,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.7281,
+      "prior_variance": 0.133171,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -4.0421,
+      "prior_variance": 0.166787,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_score": -2.8592,
+      "prior_variance": 0.142351,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -4.0571,
+      "prior_variance": 0.178643,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_score": -5.4047,
+      "prior_variance": 0.143982,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -6.7849,
+      "prior_variance": 0.167868,
+      "prior_n": 9
+    }
+  ]
+}

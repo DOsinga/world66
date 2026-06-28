@@ -9,6 +9,7 @@ latitude: -37.6831
 longitude: 176.1691
 sources:
   - https://en.wikipedia.org/wiki/Tauranga_Art_Gallery
+score: 6.2
 ---
 
 Tauranga's public art gallery occupies a purpose-built space in the city centre and focuses on contemporary New Zealand and Pacific art. The permanent collection is modest, but the changing exhibition programme is ambitious for a city of this size — solo shows by major New Zealand artists appear regularly, and the gallery has a reputation for taking risks with new work.

@@ -15,6 +15,7 @@ story: >
   not sleeping, because the outer walls had no windows on the ground level
   — a defensive design feature that made the buildings essentially
   self-sufficient fortresses.
+score: 8.1
 ---
 
 The Nanjing Tulou are a cluster of Fujian's famous rammed-earth communal buildings in Nanjing County, about 80 kilometres northwest of Zhangzhou city. Less visited than the Yongding Tulou further northwest but inscribed under the same UNESCO World Heritage designation, they are architecturally comparable and considerably less crowded. The Tianluokeng cluster — five Tulou arranged on a hillside in a formation that became the image used for the UNESCO inscription — is the most photographed, but the individual buildings in Shuyang and Shufeng are more atmospheric for exploring.

@@ -5,7 +5,9 @@ done:
 latitude: 35.339
 loc_type: city
 longitude: -97.487
-score: 0.3
+score: 4.9
+snippet: Oklahoma City suburb in Tornado Alley, defined by storm history and steady
+  rebuilding
 title: Moore
 type: location
 ---

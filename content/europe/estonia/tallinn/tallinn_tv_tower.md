@@ -12,6 +12,7 @@ story: >
   The tower was built for the 1980 Moscow Olympics, when Tallinn hosted the sailing events. On the night of August 20, 1991, during the failed Soviet coup against Gorbachev, Soviet special forces were sent to seize the tower and shut down Estonian broadcasting. The tower's workers and Estonian civilian volunteers barricaded the base and refused to let them in. The soldiers stood down. Tallinn declared the restoration of full independence the following day.
 sources:
   - https://en.wikipedia.org/wiki/Tallinn_TV_Tower
+score: 7.8
 ---
 
 The Tallinn TV Tower is a 314-metre concrete tower in the Pirita suburb, built for the 1980 Moscow Olympics and now open to visitors with an observation deck at 170 metres and a renovated interactive exhibition on Estonian science and technology. On a clear day you can see Helsinki, 80 kilometres across the Gulf of Finland.

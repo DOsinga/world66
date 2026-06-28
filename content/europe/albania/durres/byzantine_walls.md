@@ -11,6 +11,7 @@ story: >
   The Venetian tower was built in the early 15th century when Durrës (then called Durazzo) was a Venetian possession. Venice held the city from 1392 to 1501, when the Ottomans took it — and the tower is one of the few physical reminders of that century of Venetian rule. During the communist period it was used as a prison.
 sources:
   - https://en.wikipedia.org/wiki/Durr%C3%ABs
+score: 7.3
 ---
 
 The old city walls of Durrës preserve sections from the Byzantine period, built in the 5th and 6th centuries on the foundations of even older Hellenistic and Roman fortifications. Stretches of the wall walk through the modern city in a slightly surreal way — a fragment of ancient masonry rising between apartment blocks and car parks.

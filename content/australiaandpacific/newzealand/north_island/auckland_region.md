@@ -5,8 +5,14 @@ latitude: -36.8667
 loc_type: region
 longitude: 174.7624
 score: 0.69
+snippet: North Island region spanning harbours, Auckland city, Waitakere bushland,
+  and the islands of the Hauraki Gulf.
 title: Auckland Region
 type: location
+image: auckland_region.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Auckland_skyline_-_May_2024.jpg
+image_license: CC BY-SA 2.0
+image_attribution: elpinto007
 ---
 
 The Auckland Region stretches across the narrowest part of New Zealand's North Island, bounded by the Waitemata Harbour to the east and the Manukau Harbour to the west. Home to over a third of New Zealand's population, it encompasses the sprawling city of Auckland, the beaches and suburbs of North Shore City, the forested Waitakere Ranges to the west, and the ferry-linked village of Devonport across the harbour.

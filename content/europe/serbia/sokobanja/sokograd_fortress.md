@@ -13,6 +13,7 @@ story: >
   impregnable. Serbian rulers used it as a key defensive position in the 14th century;
   when the Ottomans finally took it, they found little reason to maintain it and let
   it fall into ruin.
+score: 7.5
 ---
 
 The medieval fortress perched on a steep rocky crag above Sokobanja is the town's most dramatic feature and the main reason to look upward rather than downward at the valley floor. The ruins are those of a Serbian fortress from the 14th century, significantly older than the Ottoman occupation that followed, and the site commands views over the entire Moravica valley.

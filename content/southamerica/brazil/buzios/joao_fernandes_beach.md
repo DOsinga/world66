@@ -13,6 +13,7 @@ story: >
   Local fishermen have maintained their operations here despite the resort
   development around them, and much of the seafood sold in Búzios's restaurants
   was caught just offshore from this beach.
+score: 8.2
 ---
 
 João Fernandes is Búzios's social beach — the one with the most activity, the most people, and the best infrastructure. The water is calm, clear, and sheltered from the open Atlantic swell, making it reliable for swimming and decent for snorkelling around the rocks at each end.

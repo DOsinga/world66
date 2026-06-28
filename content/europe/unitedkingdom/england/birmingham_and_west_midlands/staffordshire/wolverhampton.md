@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wolverhampton_Art_Gallery_
 latitude: 52.584765
 loc_type: city
 longitude: -2.127567
-score: 0.36
+score: 6.15
+snippet: Black Country city with deep industrial roots, diverse communities, and a
+  strong free art gallery.
 title: Wolverhampton
 type: location
 ---

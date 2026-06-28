@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Steyr_Stadtplatz-6623.jpg
 latitude: 48.0392
 loc_type: city
 longitude: 14.4212
-score: 0.52
+score: 8.06
+snippet: Upper Austrian river city with a preserved old centre clustered around one
+  of Central Europe’s notable town squares.
 title: Steyr
 type: location
 ---

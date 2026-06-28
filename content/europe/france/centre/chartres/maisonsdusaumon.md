@@ -3,7 +3,12 @@ address: 10, Place de la Poissonnerie
 category: Architecture
 latitude: 48.4487
 longitude: 1.4886
+score: 5.7
 snippet: Carved 16th-century house on the old fish market square
+tags:
+- things_to_do
+- sight
+- architecture
 title: Maison du Saumon
 type: poi
 ---

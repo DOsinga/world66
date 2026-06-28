@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Knox_Presbyterian_Church_(Oakville,_Ontario)
 story: >
   The congregation at Knox traces its origins to 1834, just seven years after Oakville was founded. The current stone church dates to 1914 and replaced an earlier wooden building. It stands at the corner of Dunn Street and Lakeshore Road, where it has anchored the downtown streetscape for over a century.
+score: 6.6
 ---
 
 Knox Presbyterian Church is one of the oldest congregations in Oakville, and its current building — a solid Gothic revival structure in local fieldstone — is one of the most handsome in the downtown area. The church sits at the corner of Dunn Street and Lakeshore Road East, close to the harbour and the Oakville Museum.

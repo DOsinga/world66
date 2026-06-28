@@ -6,6 +6,7 @@ tags:
 snippet: "Key emergency numbers and medical help in Berlin"
 title: Emergencies
 type: poi
+score: 1.0
 ---
 
 In Germany, dial 112 for ambulance and fire, and 110 for police. These work from any phone, including mobiles without a SIM card. Most operators speak some English.

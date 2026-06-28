@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, landmark]
 latitude: 47.3933
 longitude: 0.6839
+score: 6.5
 ---
 
 The clock tower is the other surviving fragment of the medieval Basilica of Saint Martin — the south-western tower of the lost church. It sits embedded in a block of later buildings on Rue des Halles, easily missed if you don't know what you're looking for.

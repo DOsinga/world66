@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 A 12th-century Romanesque church on a quiet rise south-west of the city, in the village of Armentia (now within the city limits). The carved tympanum and the figures around the portal — apostles, biblical scenes — are some of the finest Romanesque sculpture in the Basque Country.

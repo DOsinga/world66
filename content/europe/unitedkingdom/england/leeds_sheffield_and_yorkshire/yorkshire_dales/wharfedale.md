@@ -8,6 +8,8 @@ latitude: 54.0042
 loc_type: region
 longitude: -1.9033
 score: 0.56
+snippet: Yorkshire Dales valley of limestone villages, river bends, and Bolton Abbey
+  ruins.
 title: Wharfedale
 type: location
 ---

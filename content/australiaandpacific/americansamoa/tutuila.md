@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Afono_Village_NPS.jpg
 latitude: -14.306479
 loc_type: city
 longitude: -170.759739
-score: 0.53
+score: 7.94
+snippet: Main American Samoa island with Pago Pago's caldera harbour and rainforest
+  protected by the national park.
 title: Tutuila
 type: location
 ---

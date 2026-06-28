@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Mercado 28
 type: poi
+score: 6.0
 ---
 
 Cancun's largest and oldest tourist-oriented market, a few blocks west of Avenida Tulum in downtown. Hundreds of stalls under one big covered roof sell silver jewellery, hammocks, leather goods, painted ceramics, lucha libre masks, embroidered textiles, T-shirts, and every imaginable souvenir. Haggling is expected — opening prices are usually two to three times what you should pay.

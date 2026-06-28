@@ -10,6 +10,7 @@ tags:
 - football
 title: Anfield
 type: poi
+score: 7.9
 ---
 
 The home of Liverpool Football Club since 1892, and one of the most atmospheric stadiums in world football. The Kop end — once a vast standing terrace, now an all-seater stand — is the spiritual home of the club's support, and on European nights the singing genuinely raises the hair on the back of your neck.

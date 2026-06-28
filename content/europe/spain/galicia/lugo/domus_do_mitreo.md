@@ -15,6 +15,7 @@ story: >
   museum.
 sources:
   - https://en.wikipedia.org/wiki/University_Museum_A_Domus_do_Mitreo
+score: 8.0
 ---
 
 Opened in 2018 and managed by the University of Santiago de Compostela, the Domus do Mitreo museum occupies a building constructed around an extraordinary archaeological find: a Roman town house that was later adapted as a Mithraeum, one of the underground sanctuaries used by followers of the secretive Mithraic mystery cult during the late Empire. These are rare finds anywhere; in Galicia, it's unique.

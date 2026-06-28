@@ -2,19 +2,23 @@
 admission: Free
 latitude: 53.360041
 longitude: -6.326579
-snippet: One of Europe's largest enclosed city parks — 1,750 acres with a wild deer herd
+score: 7.9
+snippet: One of Europe's largest enclosed city parks — 1,750 acres with a wild deer
+  herd
+story: 'The park''s name has nothing to do with the mythical bird. It derives from
+  the Irish *fionn uisce* — "clear water" — after a spring that once rose on the site.
+  The anglicised pronunciation became "Phoenix," and an 18th-century landscape architect
+  cemented the error by adding the Phoenix Column with its bronze bird in 1747.
+
+  '
 tags:
 - things_to_do
 - sight
 - park
+- phoenix_park_area
 title: Phoenix Park
 type: poi
 url: https://phoenixpark.ie
-story: >
-  The park's name has nothing to do with the mythical bird. It derives from the Irish
-  *fionn uisce* — "clear water" — after a spring that once rose on the site. The
-  anglicised pronunciation became "Phoenix," and an 18th-century landscape architect
-  cemented the error by adding the Phoenix Column with its bronze bird in 1747.
 ---
 
 Phoenix Park is one of the largest enclosed public parks in any European capital — 1,750 acres of meadows, woodland, and formal gardens, far bigger than Hyde Park or the Bois de Boulogne. It lies a short bus ride west of the city centre.

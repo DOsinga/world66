@@ -8,6 +8,7 @@ latitude: 26.8273
 longitude: 75.8395
 address: Sanganer, Jaipur (15 km south of city center)
 snippet: Village famous for handmade paper and block-printed textiles, with workshops open to visitors
+score: 7.4
 ---
 
 Sanganer, 15 km south of Jaipur on the Tonk Road, is where much of the handmade paper and block-printed textile production for Jaipur's shops actually takes place. The village has been a center for both crafts since at least the 17th century, and its workshops (karkhanas) are still the primary production sites for the block-printed fabrics sold in Jaipur's bazaars.

@@ -13,6 +13,7 @@ story: >
   aerodynamically efficient, with a two-stroke engine that could run on most available
   fuels. The result looked like nothing else on the road in 1947 and drove the same way.
   The original prototype is in the museum.
+score: 8.3
 ---
 
 The Saab Car Museum occupies one of the old NOHAB locomotive factory buildings in the Innovatum area of Trollhättan, a kilometre from the town centre. It holds around 120 cars spanning the full history of Saab production from 1947 to 2011, of which about 70 are on permanent display — the original Ursaaben prototype, standard production models, limited editions, rally cars, and concept vehicles that were never built.

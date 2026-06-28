@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 32.3520
 longitude: -90.8790
+score: 7.1
 ---
 
 Vicksburg's downtown district occupies the bluffs above the Mississippi, with Washington Street as its commercial spine. The renovation of the past twenty years has brought antique shops, local restaurants, art galleries, and independent businesses into the 19th-century storefronts. It is a pleasant place to walk and browse, and the setting — high above the river with views across to Louisiana — is genuinely dramatic.

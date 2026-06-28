@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.2930
 longitude: 144.6611
+score: 7.9
 ---
 
 Umatac Bay is the most scenic on Guam's western coast — a sheltered crescent of water backed by steep green hills and framed by the low silhouette of Fort Nuestra Señora de la Soledad on one side. Ferdinand Magellan sailed into this bay on 6 March 1521, making it the site of the first documented European contact with Guam and one of the first stops of his circumnavigation of the globe. A concrete monument near the shore marks the landing.

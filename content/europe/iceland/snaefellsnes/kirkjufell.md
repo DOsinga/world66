@@ -16,6 +16,7 @@ story: >
   Snæfellsnes multiplied several times over, and the small waterfall of
   Kirkjufellsfoss at the mountain's base became one of Iceland's most
   photographed spots.
+score: 8.8
 ---
 
 Kirkjufell rises 463 metres from the northern shore of the Snæfellsnes peninsula beside the town of Grundarfjörður — a steep, symmetrical pyramid of rock with a distinctive flat-topped summit that makes it one of Iceland's most recognisable mountains. In front of the mountain, the small braided Kirkjufellsfoss waterfall flows into the fjord, and the combination of waterfall and mountain in a single composition has become one of the most frequently photographed views in Iceland.

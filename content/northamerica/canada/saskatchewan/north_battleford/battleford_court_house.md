@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 52.7369
 longitude: -108.3114
+score: 6.3
 ---
 
 The Battleford Court House, completed in 1908, is one of the oldest still-functioning judicial buildings in Saskatchewan. The two-storey brick structure with its central pediment and clock tower belongs to a generation of small-town prairie civic buildings built when the territory was new and ambitious.

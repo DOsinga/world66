@@ -8,6 +8,7 @@ tags:
   - beach
 title: Playa de Las Vistas
 type: poi
+score: 7.0
 ---
 
 Playa de Las Vistas is the big sandy beach between Los Cristianos and Las Américas. It is artificial, broad, accessible, and built for heavy use, with calm water, lifeguards, showers, sunbeds, and a continuous promenade behind it.

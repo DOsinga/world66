@@ -9,6 +9,7 @@ latitude: 47.3881
 longitude: 16.5417
 sources:
   - https://en.wikipedia.org/wiki/Jurisics_Castle
+score: 9.1
 ---
 
 Jurisics Castle is the reason Kőszeg is on the map. In August 1532, Nikola Jurišić commanded a garrison of around 700–800 soldiers here — many of them civilians pressed into service — against the 120,000-strong Ottoman army of Suleiman the Magnificent. The defenders held out for 25 days, long enough for the campaigning season to end and Suleiman to abandon his march on Vienna. It is one of the most consequential small battles in European history.

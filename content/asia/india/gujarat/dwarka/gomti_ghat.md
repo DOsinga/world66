@@ -6,6 +6,7 @@ tags:
 - sight
 title: Gomti Ghat
 type: poi
+score: 8.1
 ---
 
 Gomti Ghat steps down to the water just below the main temple, where pilgrims bathe, feed fish, and make offerings before entering Dwarkadhish. Boats, priests, flags, and temple bells all crowd into a small, vivid space.

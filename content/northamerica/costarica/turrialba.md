@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Turrialba_Volcano,_Costa_R
 latitude: 9.9013
 loc_type: city
 longitude: -83.6817
-score: 0.56
+score: 7.64
+snippet: Costa Rican valley town east of San José, gateway to Río Pacuare rafting
+  and Guayabo ruins.
 title: Turrialba
 type: location
 ---

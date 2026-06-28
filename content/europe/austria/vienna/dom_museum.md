@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - innere_stadt
+score: 7.5
 ---
 
 The Dom Museum, next to the Stephansdom, has the cathedral's treasury and a surprisingly serious art collection. The medieval and baroque religious art is the foundation, but the museum also collects modern Austrian work (with pieces by Kokoschka and others) and uses contemporary pieces in dialogue with the older holdings.

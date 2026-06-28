@@ -9,6 +9,7 @@ longitude: -121.3171
 snippet: "Local history museum in a 1914 schoolhouse with pioneer and timber era exhibits"
 sources:
   - https://en.wikipedia.org/wiki/Deschutes_Historical_Museum
+score: 7.0
 ---
 
 The Deschutes Historical Museum occupies the Reid School, a 1914 brick schoolhouse that is one of the oldest surviving buildings in Bend. The museum covers the history of central Oregon from the first Native American inhabitants through the pioneer period, the timber era, and the city's more recent transformation into an outdoor recreation hub.

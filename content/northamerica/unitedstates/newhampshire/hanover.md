@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
 latitude: 43.702354
+loc_type: city
 longitude: -72.289216
+score: 7.03
+snippet: Connecticut River college town shaped by Dartmouth, Georgian brick, and an
+  outsized cultural calendar.
+sources:
+- https://en.wikipedia.org/wiki/Hanover_(CDP),_New_Hampshire
+- https://en.wikipedia.org/wiki/Dartmouth_College
 title: Hanover
 type: location
-score: 0.42
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Hanover_(CDP),_New_Hampshire
-  - https://en.wikipedia.org/wiki/Dartmouth_College
 ---
 
 Hanover is a small college town on the Connecticut River in western [New Hampshire](/northamerica/unitedstates/newhampshire), shaped in every meaningful way by Dartmouth College. The Ivy League campus sits right at the heart of town, its wide green flanked by Georgian brick buildings and easily walkable from Main Street. The combination gives Hanover an intellectual energy and cultural calendar well out of proportion to its population of around eleven thousand.

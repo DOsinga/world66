@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - swimming
+score: 6.2
 ---
 
 A heated saltwater swimming lagoon tucked between King Harbor and the inner edge of the marina, popular with families because the water is calm, the depth is gentle, and lifeguards are on duty all season. There is a sand beach around the lagoon, picnic areas, two slides, and a small concession stand.

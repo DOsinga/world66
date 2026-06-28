@@ -7,6 +7,7 @@ snippet: "A serious collection of historic boats housed in a striking lakeside b
 tags: [things_to_do, museum]
 story: >
   The museum's centrepiece is the steam launch Dolly, built around 1850 and recovered from the bed of Ullswater in 1962 after lying submerged for over a century. When she was raised, her original fittings were largely intact. After decades of restoration she ran under steam again — she is thought to be the oldest surviving mechanically powered boat in the world.
+score: 8.7
 ---
 
 The Windermere Jetty Museum replaced the old Steamboat Museum on the same site in 2019, with a purpose-built building designed by Carmody Groarke that steps down to the water's edge in a series of interlocking volumes clad in weathered timber. The architecture has divided opinion locally but it works: the galleries feel connected to the lake rather than just adjacent to it, and the covered wet dock lets you see the boats in the water rather than on stands.

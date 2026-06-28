@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.9782
 longitude: 7.9212
+score: 5.3
 ---
 
 Spread over 1,000 square metres on the Oberstrasse, this museum presents an extensive collection of torture and execution instruments from the medieval period: thumbscrews, knee-splitters, iron maidens, stocks, and worse. Alongside the physical objects are drawings, engravings, and documents that contextualise the instruments within medieval legal practice, witchcraft trials, and the Inquisition.

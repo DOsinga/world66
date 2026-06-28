@@ -15,6 +15,7 @@ tags:
 - landmark
 title: Gates of Dawn
 type: poi
+score: 8.9
 ---
 
 The Gates of Dawn (Aušros Vartai) are the only surviving gateway of the original city fortification wall, and one of the most important pilgrimage sites in Lithuania and Poland. The Renaissance gateway dates from the 16th century. A century later, a chapel was built above it to house a silver-clad icon of the Virgin Mary — the Our Lady of the Gate of Dawn, credited with miraculous powers and venerated by both Catholics and Eastern Orthodox believers.

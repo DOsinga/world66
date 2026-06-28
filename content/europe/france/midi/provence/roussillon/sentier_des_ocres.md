@@ -12,6 +12,7 @@ story: >
   when synthetic pigments made mining uneconomical. At their peak, the quarries supplied
   pigment to artists and dye houses across Europe — Roussillon ochre colored buildings from
   Paris to Philadelphia.
+score: 8.8
 ---
 
 The Sentier des Ocres is a walking trail through the former ochre quarries just outside the village, and it is the main reason to come to Roussillon. Two circuits are available — 35 minutes and 50 minutes — both leading through sculpted ochre cliffs and formations that shift through every shade from pale lemon yellow to burnt sienna to deep burgundy. The scale of the old quarries gives the walk a slightly surreal quality: you are walking through industrial history that has been entirely reclaimed by colour and light.

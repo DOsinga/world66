@@ -12,6 +12,7 @@ longitude: -150.1133
 sources:
   - https://en.wikipedia.org/wiki/Fairview_Inn
 snippet: Historic 1923 bar and hotel anchoring Main Street
+score: 7.2
 ---
 
 Built between 1920 and 1923 after the Alaska Railroad arrived, the Fairview Inn is the social center of Talkeetna. The two-story frame building with its hip roof has changed remarkably little since construction -- the interior floor plan is essentially original. It was added to the National Register of Historic Places in 1982.

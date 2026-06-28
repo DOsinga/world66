@@ -8,6 +8,7 @@ tags:
   - church
 latitude: 45.1448
 longitude: 13.9085
+score: 6.6
 ---
 
 The parish church of Sveti Mihovil stands on the central square of Žminj, a 17th-century baroque building paired with a freestanding bell tower from a much older medieval church on the same site. Inside there is a heavy carved-wood altar and a small organ; the doors are usually open during the day.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.6627
 longitude: 21.1600
+score: 6.5
 ---
 
 Dit' e Nat' — "Day and Night" in Albanian — is one of Pristina's best-known cafes, a lively spot on and off Mother Teresa Boulevard that has become a favourite meeting place for the city's intellectuals, artists, and younger professional crowd. The name is appropriate: it is busy throughout the day with coffee drinkers and stays open well into the night.

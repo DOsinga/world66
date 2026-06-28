@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 14.8648
+loc_type: city
 longitude: -24.6942
+score: 7.09
+snippet: Brava hill town with mild mountain air, island-paced squares, and the literary
+  memory of Eugénio Tavares.
 title: Vila Nova Sintra
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Vila Nova Sintra is the only real town on Brava, perched at about 500 metres in the island's interior. It is a quiet place of around 1,500 people, reached in about fifteen minutes from the port at Furna.

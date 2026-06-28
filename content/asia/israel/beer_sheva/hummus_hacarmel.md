@@ -7,6 +7,7 @@ tags:
   - israeli
 latitude: 31.2438
 longitude: 34.7882
+score: 5.3
 ---
 
 Hummus HaCarmel is one of the Old City's most reliable spots for a serious bowl of hummus — the kind served warm, with a pool of good olive oil, a handful of whole chickpeas, and little else. This is eating as the locals do it: a ceramic bowl, a stack of fresh pita, a side of raw onion and pickle, and nothing on the table to distract from the food.

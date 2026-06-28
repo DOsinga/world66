@@ -1,200 +1,200 @@
 {
   "round": 1612,
-  "timestamp": "2026-04-13T10:35:55",
+  "timestamp": "2026-06-13T20:41:23",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Luxembourg City",
-      "path": "europe/luxembourg/luxembourgcity",
-      "prior_score": 5.1627,
-      "prior_variance": 0.333461,
-      "prior_n": 4
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 8.669,
+      "prior_variance": 0.363152,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Orta San Giulio",
-      "path": "europe/italy/piemonte/orta",
-      "prior_score": 5.0007,
-      "prior_variance": 0.415005,
-      "prior_n": 3
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 4.612,
+      "prior_variance": 0.284174,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Breil/Brigels",
-      "path": "europe/switzerland/breilbrigels",
-      "prior_score": 0.1933,
-      "prior_variance": 0.43191,
-      "prior_n": 4
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 6.0019,
+      "prior_variance": 0.275398,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Lamu",
-      "path": "africa/kenya/thecoast/lamu",
-      "prior_score": 5.1763,
-      "prior_variance": 0.529469,
-      "prior_n": 3
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 7.7701,
+      "prior_variance": 0.33461,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Cayambe",
-      "path": "southamerica/ecuador/cayambe",
-      "prior_score": -0.9777,
-      "prior_variance": 0.308861,
-      "prior_n": 4
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": -0.8007,
+      "prior_variance": 0.375597,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Altay Prefecture",
-      "path": "asia/china/xinjiangprovince/altayprefecture",
-      "prior_score": 0.2728,
-      "prior_variance": 0.431314,
-      "prior_n": 3
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": -0.092,
+      "prior_variance": 0.303574,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Omo River",
-      "path": "africa/ethiopia/omoriver",
-      "prior_score": -3.2185,
-      "prior_variance": 0.426115,
-      "prior_n": 4
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 1.3546,
+      "prior_variance": 0.257594,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Cowichan Bay",
-      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
-      "prior_score": -0.4064,
-      "prior_variance": 0.379955,
-      "prior_n": 4
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_score": 7.4939,
+      "prior_variance": 0.287032,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Mulhouse",
-      "path": "europe/france/east/alsace/mulhouse",
-      "prior_score": 0.0365,
-      "prior_variance": 0.392248,
-      "prior_n": 4
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 4.8767,
+      "prior_variance": 0.248682,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Le Havre",
-      "path": "europe/france/normandybrittany/lehavre",
-      "prior_score": 0.0395,
-      "prior_variance": 0.313772,
-      "prior_n": 4
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 2.8704,
+      "prior_variance": 0.409663,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Fredericia",
-      "path": "europe/denmark/fredericia",
-      "prior_score": -1.6045,
-      "prior_variance": 0.48591,
-      "prior_n": 3
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.9318,
+      "prior_variance": 0.247401,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Belgrade Lakes",
-      "path": "northamerica/unitedstates/maine/belgrade_lakes",
-      "prior_score": -1.7044,
-      "prior_variance": 0.31947,
-      "prior_n": 4
+      "title": "Taierzhuang",
+      "path": "asia/china/shandong_province/taierzhuang",
+      "prior_score": 0.0672,
+      "prior_variance": 0.240604,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Sleman",
-      "path": "asia/indonesia/sleman",
-      "prior_score": -2.8141,
-      "prior_variance": 0.320118,
-      "prior_n": 4
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.8673,
+      "prior_variance": 0.244233,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "kolhapur",
-      "path": "asia/india/maharashtra/konkan/kolhapur",
-      "prior_score": -1.3513,
-      "prior_variance": 0.341373,
-      "prior_n": 4
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -3.0674,
+      "prior_variance": 0.2754,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Imphal",
-      "path": "asia/india/manipur/imphal",
-      "prior_score": -2.109,
-      "prior_variance": 0.312291,
-      "prior_n": 4
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": -1.0968,
+      "prior_variance": 0.408097,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Hull",
-      "path": "europe/unitedkingdom/england/hull",
-      "prior_score": -2.2618,
-      "prior_variance": 0.311938,
-      "prior_n": 4
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.6559,
+      "prior_variance": 0.248644,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Hitchin",
-      "path": "europe/unitedkingdom/england/hitchin",
-      "prior_score": -2.695,
-      "prior_variance": 0.390433,
-      "prior_n": 4
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": -2.3665,
+      "prior_variance": 0.251887,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Wolverhampton",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton",
-      "prior_score": -4.6894,
-      "prior_variance": 0.323093,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -2.0114,
+      "prior_variance": 0.24615,
       "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Viersen",
-      "path": "europe/germany/northrhinewestphalia/viersen",
-      "prior_score": -3.3744,
-      "prior_variance": 0.490906,
-      "prior_n": 4
-    },
-    {
-      "rank": 20,
-      "title": "Mozambique",
-      "path": "africa/mozambique",
-      "prior_score": -1.9698,
-      "prior_variance": 0.413888,
-      "prior_n": 4
-    },
-    {
-      "rank": 21,
-      "title": "Lubon",
-      "path": "europe/poland/lubon",
-      "prior_score": -6.7787,
-      "prior_variance": 0.419243,
-      "prior_n": 4
-    },
-    {
-      "rank": 22,
-      "title": "Manteca",
-      "path": "northamerica/unitedstates/california/centralvalley/manteca",
-      "prior_score": -6.4833,
-      "prior_variance": 0.537851,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": -2.1896,
+      "prior_variance": 0.334044,
       "prior_n": 5
     },
     {
+      "rank": 20,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.4126,
+      "prior_variance": 0.246401,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.6247,
+      "prior_variance": 0.243331,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -2.6115,
+      "prior_variance": 0.283022,
+      "prior_n": 6
+    },
+    {
       "rank": 23,
-      "title": "Waynoka",
-      "path": "northamerica/unitedstates/oklahoma/waynoka",
-      "prior_score": -5.9155,
-      "prior_variance": 0.425307,
-      "prior_n": 3
+      "title": "Yarkand",
+      "path": "asia/china/xinjiangprovince/yarkand",
+      "prior_score": -5.2725,
+      "prior_variance": 0.250589,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Resolute",
-      "path": "northamerica/canada/nunavut/resolute",
-      "prior_score": -6.5174,
-      "prior_variance": 0.618168,
-      "prior_n": 4
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -5.465,
+      "prior_variance": 0.36519,
+      "prior_n": 5
     }
   ]
 }

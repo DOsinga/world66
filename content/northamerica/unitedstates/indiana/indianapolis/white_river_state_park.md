@@ -6,6 +6,7 @@ longitude: -86.1747
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The 250-acre downtown park that holds the State Museum, the Eiteljorg, the Indianapolis Zoo, the Victory Field minor-league ballpark, and the TCU Amphitheater. The cohesive cluster — connected by the canal walk on one side and the riverside path on the other — is the most successful urban park complex in the Midwest.

@@ -6,6 +6,7 @@ longitude: 5.6875
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 One of Maastricht's most celebrated restaurants, housed in a 17th-century building on the Kleine Staat. The kitchen leans toward French-influenced Dutch cooking with strong Burgundian overtones — seasonal menus, serious wine list, the kind of cooking that takes the produce of Limburg as seriously as any kitchen in Belgium or France.

@@ -9,6 +9,7 @@ latitude: 40.1719
 longitude: 22.4868
 story: >
   The museum's showpiece is a near-complete hydraulis — a water organ invented by Ctesibius of Alexandria around 250 BC. The Dion example, dating from the 1st century BC, is the best-preserved ancient water organ in the world. It was found in pieces in a cistern and painstakingly restored; a working replica demonstrates how the instrument produced sound by forcing air through pipes using water pressure.
+score: 8.3
 ---
 
 The Archaeological Museum of Dion is one of the best regional museums in northern Greece. The collection is large, well displayed, and includes finds from over five decades of systematic excavation. You will need at least ninety minutes to do it justice.

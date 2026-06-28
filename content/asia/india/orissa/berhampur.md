@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ramalingeswar_,_Brahmapur,
 latitude: 19.315
 loc_type: city
 longitude: 84.7941
-score: 0.34
+score: 5.81
+snippet: Southern Odisha commercial city known for Berhampuri Patta silk and the Thakurani
+  Yatra.
 title: Berhampur
 type: location
 ---

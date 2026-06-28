@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -14.2417
 longitude: -39.0833
+score: 6.8
 ---
 
 A 12-metre waterfall in the Atlantic Forest about 18 km from Itacaré, on a tributary of the Rio de Contas. The fall drops into a deep, dark plunge pool that is good enough for a real swim — the water is cold, clear, and tinted brown by tannins from the forest above.

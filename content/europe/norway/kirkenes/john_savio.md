@@ -5,6 +5,7 @@ snippet: Woodcuts and paintings by the Sami artist who documented Arctic life in
 tags: [things_to_do, museum]
 latitude: 69.7245
 longitude: 30.0422
+score: 6.9
 ---
 
 John Andreas Savio (1902–1938) is the most important Sami visual artist of the twentieth century. Born in Sør-Varanger of mixed Sami and Norwegian heritage, he worked mainly as a printmaker, producing stark woodcuts of reindeer herding, Arctic landscapes, fishing, and the daily life of Sami communities in Finnmark. He died of tuberculosis at 36, but left behind a body of work of extraordinary clarity and power.

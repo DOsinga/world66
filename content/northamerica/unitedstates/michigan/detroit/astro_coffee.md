@@ -10,6 +10,7 @@ tags:
 neighbourhood: Corktown
 title: Astro Coffee
 type: poi
+score: 6.3
 ---
 
 Astro is a small, light-filled coffee bar on Michigan Avenue in Corktown, serving carefully made espresso, pour-over, and a short menu of sandwiches and pastries. The space is intentionally minimal — a few tables, the bar, a wall of records — and the place is busy from morning till close. The pastry programme draws on local Avalon bread; the sandwiches change with the season.

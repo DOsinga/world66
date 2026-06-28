@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-31'
 latitude: 7.584971
+loc_type: city
 longitude: -1.936401
+score: 5.87
+snippet: Bono East market town whose six-day trade cycle draws food wholesalers from
+  across Ghana.
+sources:
+- https://en.wikipedia.org/wiki/Techiman
+- https://en.wikipedia.org/wiki/Bono_people
+- https://en.wikipedia.org/wiki/Tano_River
 title: Techiman
 type: location
-score: 0.34
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Techiman
-  - https://en.wikipedia.org/wiki/Bono_people
-  - https://en.wikipedia.org/wiki/Tano_River
 ---
 
 Techiman is a market town in the Bono East region of [Ghana](/africa/ghana) and one of the most important commercial centres in the country. Its [six-day market](/africa/ghana/techiman/techiman_market) is among the largest in West Africa, drawing wholesale traders in yams, cassava, plantains, and grain from across Ghana and neighbouring countries. On a major market day the noise and scale of it is genuinely impressive.

@@ -6,6 +6,7 @@ longitude: -3.1167
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Quiberon peninsula is a long, thin spit of land that runs fourteen kilometres south into the Atlantic from the mainland coast at Plouharnel. The west coast — the Côte Sauvage — is a wind-battered shoreline of rocky coves and dramatic cliffs, with footpaths along the entire length. The east coast is sheltered and lined with sandy beaches.

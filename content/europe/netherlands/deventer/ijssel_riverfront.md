@@ -4,6 +4,7 @@ type: poi
 latitude: 52.2536
 longitude: 6.1530
 tags: [things_to_do, sight, river, walking]
+score: 7.8
 ---
 
 Deventer's western edge runs along the IJssel, the eastern distributary of the Rhine that gives the city most of its medieval reason to exist. The riverside boulevard, the Welle, was widened and reorganised in the 2010s into one of the most pleasant urban riverfronts in the country: a wide promenade for walking and cycling, cafes spilling onto the embankment, and several small jetties used by passenger boats and rowing clubs.

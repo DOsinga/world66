@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:PXL_20240126_Puerto_de_Alm
 latitude: 36.707867
 loc_type: city
 longitude: -2.807456
-score: 0.49
+score: 7.07
+snippet: Purpose-built Costa de Almería beach resort arranged around a marina, golf
+  courses, and wind-sport beaches
 title: Almerimar
 type: location
 ---

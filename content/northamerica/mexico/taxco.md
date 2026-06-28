@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Taxco,_Guerrero,_Mexico_(N
 latitude: 18.5566
 loc_type: city
 longitude: -99.6053
-score: 0.61
+score: 8.62
+snippet: Steep Guerrero silver town of whitewashed lanes, terracotta roofs, and Santa
+  Prisca's baroque church.
 title: Taxco
 type: location
 ---

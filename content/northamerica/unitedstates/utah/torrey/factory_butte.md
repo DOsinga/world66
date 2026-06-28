@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3927
 longitude: -110.9198
+score: 7.5
 ---
 
 Factory Butte is a striking sandstone mesa rising 300 metres above an almost completely barren plain about 30 miles north-east of Torrey, accessible via a dirt road off Highway 24. The terrain surrounding it looks like a lunar surface — grey-white badlands without a blade of vegetation — with the butte rising from the centre in layered horizontal bands. It is one of the more otherworldly landscapes in a region full of otherworldly landscapes.

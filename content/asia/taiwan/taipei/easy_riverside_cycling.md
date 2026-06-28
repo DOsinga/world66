@@ -1,10 +1,12 @@
 ---
-latitude: 25.0810
-longitude: 121.5180
+latitude: 25.081
+longitude: 121.518
+score: 7.2
 snippet: Continuous riverside bike path network around the Taipei basin
 tags:
 - things_to_do
 - sight
+- shilin
 title: Riverside Bike Paths
 type: poi
 ---

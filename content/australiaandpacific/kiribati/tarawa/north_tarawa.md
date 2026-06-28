@@ -9,6 +9,7 @@ tags:
 - nature
 snippet: "Quieter, less developed half of the atoll — traditional villages and healthier reef"
 story: "The causeways stop at Buota. Beyond that you cross between islets at low tide by wading or by chartered boat, which means the population thins to a few thousand spread across a long string of villages with no electricity grid and almost no cars."
+score: 8.6
 ---
 
 North Tarawa is the long, thin northern half of the atoll, separated from crowded South Tarawa by tidal channels and a very different way of life. The villages are small and traditional, the reef is healthier and the lagoon water clearer, and the few visitor lodges run quiet bungalow operations on stilts over the water.

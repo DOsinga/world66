@@ -16,6 +16,7 @@ story: >
   is one of the few places where it still occurs in a form accessible (with appropriate
   respect) to outsiders. Griffon vultures, which know the schedule and gather in
   advance, are a distinctive presence in the skies around the village.
+score: 8.5
 ---
 
 Sertri Gompa on the Gansu side of the provincial border is the site of Langmusi's sky burial platform, located on a high rock above the monastery. Sky burial still takes place here and is one of the most significant aspects of the village's religious culture. It is not a spectacle and should not be treated as one: visitors are permitted to be present but are expected to observe with silence and respect, to follow any instructions from the officiants, and to understand that they are witnessing a private family ceremony, not a public performance. Photography is inappropriate.

@@ -8,6 +8,7 @@ latitude: 40.5953
 longitude: 49.6791
 story: >
   The park is named after Imadeddin Nasimi, the 14th-century Azerbaijani poet and mystic, who was flayed alive in Aleppo in 1417 for his Hurufi beliefs. The choice of this radical, suffering intellectual as the namesake of a Soviet-era park in an industrial city has an unlikely poetry to it.
+score: 6.8
 ---
 
 Nasimi Park is a large public green space in the centre of Sumgait, covering around 100 hectares. The park was laid out in the Soviet era when the city was designed from scratch, and the scale reflects that ambition — broad alleys of trees, a central fountain, and enough space that even on busy evenings it doesn't feel crowded.

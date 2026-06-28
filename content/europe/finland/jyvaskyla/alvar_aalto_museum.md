@@ -11,6 +11,7 @@ story: >
   Alvar Aalto designed the museum building itself in 1971 — one of his last completed works — and it exemplifies the principles he spent a career developing: natural materials, careful daylighting through skylights and clerestory windows, and spaces that feel human and unhurried. The building is as much an exhibit as anything inside it.
 sources:
   - https://en.wikipedia.org/wiki/Alvar_Aalto_Museum
+score: 8.8
 ---
 
 The Alvar Aalto Museum is the definitive destination for anyone interested in one of the 20th century's great architects. Aalto grew up near Jyväskylä and returned to the city repeatedly over his career, leaving it with more examples of his work than anywhere else in the world. The museum holds the archive of his office — drawings, models, furniture, glassware, and personal objects — and the permanent exhibition traces his development from the classical formalism of his early buildings to the mature organic modernism for which he is famous.

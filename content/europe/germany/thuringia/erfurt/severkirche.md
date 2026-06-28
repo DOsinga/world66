@@ -9,6 +9,7 @@ latitude: 50.9761
 longitude: 11.0226
 sources:
   - https://en.wikipedia.org/wiki/St_Severus%27_Church,_Erfurt
+score: 7.9
 ---
 
 The Severikirche stands immediately beside the Cathedral on the Domberg, the two buildings forming the most distinctive skyline in Thuringia. This Catholic church dates from the 13th and 14th centuries and is a fine example of the German hall church form — three naves of equal height, giving the interior a wide, light-filled feel quite different from the cathedral's more vertical Gothic.

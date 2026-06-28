@@ -8,6 +8,7 @@ latitude: 41.7119
 longitude: 82.9578
 story: >
   The Wei-Jin period tombs found near Kuqa (3rd–4th centuries AD) contain painted murals and burial goods that reflect a Silk Road mixture of Chinese, Central Asian, and Hellenistic influences — the result of centuries of trade and cultural contact. Some of the faces in the tomb paintings are clearly non-Chinese, suggesting a mixed population in ancient Kucha that the later sources confirm.
+score: 7.5
 ---
 
 The Kucha Wei-Jin Tomb Museum preserves and displays underground tomb complexes from the Wei and Jin dynasties (roughly 220–420 AD), excavated from the desert terrain east of the modern city. The tombs contain painted walls with scenes of daily life, hunting, and ritual, as well as Chinese and Central Asian burial goods: lacquerware, bronze vessels, silk fabrics, and ceramic figures. The painting style is distinctively Chinese but incorporates Central Asian elements that reflect the cultural mixing of the Silk Road.

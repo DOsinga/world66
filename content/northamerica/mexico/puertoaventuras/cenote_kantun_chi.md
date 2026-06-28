@@ -10,6 +10,7 @@ tags:
 - nature
 title: Cenote Kantun-Chi
 type: poi
+score: 7.8
 ---
 
 Kantun-Chi is a complex of four cenotes set in a patch of jungle about 5 km south of Puerto Aventuras, operated as a small eco-park. Three of the cenotes are open-water sinkholes with platforms for swimming and snorkelling; the fourth is a semi-submerged cave with stalactites descending to the water's surface. The water is clear and cool year-round — a reliable 24°C — and visibility in the cave section is striking when the light is right.

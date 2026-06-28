@@ -14,6 +14,7 @@ story: >
   a threat against the Ottomans. He died in Naples in 1495, and his body was eventually returned 
   and buried here. His tomb has no windows — a deliberate slight, some say, from the brother who 
   never forgave him for surviving.
+score: 8.8
 ---
 
 The Muradiye Complex (Muradiye Külliyesi) is one of the last great Ottoman building projects in Bursa, constructed from 1424 onward for Sultan Murad II. It includes a mosque, medrese (theological school), baths, and twelve tombs — making it the royal burial ground for the generation after Mehmed I. The complex sits in a quiet residential neighbourhood in Tophane and feels removed from the tourist circuit despite being well worth the walk.

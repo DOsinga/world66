@@ -11,6 +11,7 @@ story: >
   as an approach to the higher peaks was one of the finest ridge
   walks in the country. Within a few years it was being voted onto
   national "best hike" lists.
+score: 9.4
 ---
 
 The Romsdalseggen is regularly named among Norway's finest day hikes. The route runs along a narrow ridge above the Romsdalen valley, with the Trolltindene peaks to one side and the fjord to the other. It is about 10 km, takes seven to nine hours, and involves real exposure in places — there is a short chain-assisted section and a fair amount of scrambling. It is not a route for vertigo sufferers or for bad weather.

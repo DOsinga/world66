@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Jerash hippodrome is the only chariot-racing venue in Jordan and hosts daily demonstrations where riders in Roman costume race chariots around the original circuit. The demonstrations are staged for tourists but the setting is entirely authentic — the original racing surface, the turning posts, and the starting gates are all in their original positions.
+score: 7.0
 ---
 
 The hippodrome at Jerash is one of the few surviving Roman chariot-racing tracks in the world, large enough to seat 15,000 spectators when it was in full operation during the city's heyday in the second and third centuries AD. The track is 245 metres long and the central spine (spina) around which chariots raced is partially reconstructed.

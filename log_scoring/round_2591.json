@@ -1,0 +1,200 @@
+{
+  "round": 2591,
+  "timestamp": "2026-06-13T21:53:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abel Tasman National Park",
+      "path": "australiaandpacific/newzealand/abeltasmannationalpark",
+      "prior_score": 8.4412,
+      "prior_variance": 0.233005,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 8.1316,
+      "prior_variance": 0.222067,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 8.9546,
+      "prior_variance": 0.278064,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.0761,
+      "prior_variance": 0.242898,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 6.8417,
+      "prior_variance": 0.24282,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 8.1951,
+      "prior_variance": 0.211093,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "St. Thomas",
+      "path": "northamerica/thecaribbean/virginislands/stthomas",
+      "prior_score": 6.4746,
+      "prior_variance": 0.193061,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.945,
+      "prior_variance": 0.158976,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 6.368,
+      "prior_variance": 0.243389,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 2.4155,
+      "prior_variance": 0.188261,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 1.7818,
+      "prior_variance": 0.15107,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.3804,
+      "prior_variance": 0.153197,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 1.8265,
+      "prior_variance": 0.200151,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 3.0246,
+      "prior_variance": 0.16173,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 3.5987,
+      "prior_variance": 0.171236,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_score": 1.1411,
+      "prior_variance": 0.181741,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 2.4229,
+      "prior_variance": 0.19245,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.4135,
+      "prior_variance": 0.154689,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": -0.1848,
+      "prior_variance": 0.143931,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -2.3202,
+      "prior_variance": 0.164705,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 0.7302,
+      "prior_variance": 0.151454,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": -2.2635,
+      "prior_variance": 0.136848,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -2.9863,
+      "prior_variance": 0.256673,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -4.2835,
+      "prior_variance": 0.223899,
+      "prior_n": 8
+    }
+  ]
+}

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 21.954
 longitude: -71.962
+score: 8.4
 ---
 
 Whitby Beach on the north coast of North Caicos is one of the finest and emptiest beaches in the Turks and Caicos — a long stretch of white sand with clear turquoise water, no development, and typically no other visitors. The Three Mary Cays just offshore provide good snorkelling over healthy coral; the cays are also a nesting site for frigatebirds and other seabirds, and you can sometimes see them from the beach without getting in the water.

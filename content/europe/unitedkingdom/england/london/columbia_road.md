@@ -10,6 +10,7 @@ tags:
 - shoreditch
 title: Columbia Road Flower Market
 type: poi
+score: 7.5
 ---
 
 Columbia Road in Shoreditch operates as a flower market on Sunday mornings — a single street lined with stalls selling cut flowers, plants, shrubs, and bulbs, impossibly crowded and completely atmospheric. The market operates since the 1860s and the Victorian shopfronts along the street now house independent boutiques, galleries, and cafes that open only on market days.

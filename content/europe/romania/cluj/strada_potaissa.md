@@ -7,6 +7,7 @@ snippet: Cluj's most photogenic medieval street, with surviving city wall
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 Strada Potaissa is a short cobbled lane south of Piața Muzeului that preserves the most visible stretch of Cluj's medieval city wall. The lane runs against the wall, with stone buttresses and arched openings on one side and old houses on the other.

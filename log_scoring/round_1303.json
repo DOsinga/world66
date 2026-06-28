@@ -1,200 +1,200 @@
 {
   "round": 1303,
-  "timestamp": "2026-04-12T22:20:25",
+  "timestamp": "2026-06-13T20:22:32",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Baden-W\u00fcrttemberg",
-      "path": "europe/germany/badenwrttemberg",
-      "prior_rank": 4060,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 5.6056,
+      "prior_variance": 0.349062,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Sonora",
-      "path": "northamerica/mexico/sonora",
-      "prior_rank": 6105,
-      "prior_wins": 15,
-      "prior_n": 2
+      "title": "Tarragona",
+      "path": "europe/spain/catalonia/tarragona",
+      "prior_score": 6.4525,
+      "prior_variance": 0.329932,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Wollongong",
-      "path": "australiaandpacific/australia/newsouthwales/wollongong",
-      "prior_rank": 5849,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 4.6322,
+      "prior_variance": 0.340367,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Palo Alto",
-      "path": "northamerica/unitedstates/california/palo_alto",
-      "prior_rank": 6421,
-      "prior_wins": 21,
-      "prior_n": 3
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.6286,
+      "prior_variance": 0.319062,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Thunder Bay",
-      "path": "northamerica/canada/ontario/thunder_bay",
-      "prior_rank": 5334,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 2.9851,
+      "prior_variance": 0.468591,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Hainaut",
-      "path": "europe/belgium/hainaut",
-      "prior_rank": 6449,
-      "prior_wins": 34,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 3.8797,
+      "prior_variance": 0.311852,
       "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "wuppertal",
-      "path": "europe/germany/northrhinewestphalia/wuppertal",
-      "prior_rank": 7172,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_score": 5.8889,
+      "prior_variance": 0.382786,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Brandenburg",
-      "path": "europe/germany/brandenburg",
-      "prior_rank": 6312,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_score": 4.8194,
+      "prior_variance": 0.275038,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Kotka",
-      "path": "europe/finland/kotka",
-      "prior_rank": 6152,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 5.8885,
+      "prior_variance": 0.396568,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Cavan",
-      "path": "europe/ireland/cavan",
-      "prior_rank": 7063,
-      "prior_wins": 16,
-      "prior_n": 3
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 5.7857,
+      "prior_variance": 0.382069,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Port Adelaide",
-      "path": "australiaandpacific/australia/southaustralia/portadelaide",
-      "prior_rank": 6285,
-      "prior_wins": 21,
-      "prior_n": 3
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 4.6991,
+      "prior_variance": 0.648917,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Amarillo",
-      "path": "northamerica/unitedstates/texas/amarillo",
-      "prior_rank": 4699,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 3.1038,
+      "prior_variance": 0.310122,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Syracuse",
-      "path": "northamerica/unitedstates/newyorkstate/syracuse",
-      "prior_rank": 5892,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 5.4199,
+      "prior_variance": 0.412735,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Bar-le-Duc",
-      "path": "europe/france/east/lorraine/barleduc",
-      "prior_rank": 6465,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 3.301,
+      "prior_variance": 0.381338,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Bad Bentheim",
-      "path": "europe/germany/lowersaxony/bad_bentheim",
-      "prior_rank": 4504,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": -0.3846,
+      "prior_variance": 0.33941,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Coventry",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
-      "prior_rank": 1968,
-      "prior_wins": 47,
-      "prior_n": 3
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 2.9558,
+      "prior_variance": 0.442002,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Crewkerne",
-      "path": "europe/unitedkingdom/england/crewkerne",
-      "prior_rank": 7228,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -2.2425,
+      "prior_variance": 0.301635,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Cottbus",
-      "path": "europe/germany/brandenburg/cottbus",
-      "prior_rank": 6642,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+      "prior_score": -4.2133,
+      "prior_variance": 0.300187,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Tacloban City",
-      "path": "asia/philippines/taclobancity",
-      "prior_rank": 4117,
-      "prior_wins": 34,
-      "prior_n": 3
+      "title": "P\u00f5lva",
+      "path": "europe/estonia/plva",
+      "prior_score": -3.3465,
+      "prior_variance": 0.311731,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Coimbatore",
-      "path": "asia/india/tamilnadu/coimbatore",
-      "prior_rank": 2992,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -3.7919,
+      "prior_variance": 0.318729,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Jiangxi",
-      "path": "asia/china/jiangxi",
-      "prior_rank": 7666,
-      "prior_wins": 11,
-      "prior_n": 3
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_score": -4.466,
+      "prior_variance": 0.327453,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Savannakhet",
-      "path": "asia/laos/savannakhet",
-      "prior_rank": 7074,
-      "prior_wins": 16,
-      "prior_n": 3
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -6.5152,
+      "prior_variance": 0.476872,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Ganca",
-      "path": "europe/azerbaijan/ganca",
-      "prior_rank": 1662,
-      "prior_wins": 49,
-      "prior_n": 3
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -5.5723,
+      "prior_variance": 0.326129,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Tiraspol",
-      "path": "europe/moldova/tiraspol",
-      "prior_rank": 4352,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -6.7033,
+      "prior_variance": 0.310538,
+      "prior_n": 4
     }
   ]
 }

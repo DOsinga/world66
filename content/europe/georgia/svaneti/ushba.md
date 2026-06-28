@@ -14,6 +14,7 @@ story: >
   attempted the south face in 1888 and turned back; he described it as "the
   most difficult of all the Caucasian peaks." This assessment has not changed
   significantly.
+score: 8.5
 ---
 
 Ushba is the most dramatic peak in the Caucasus — two sheer granite towers rising above the Mazeri valley near Mestia, with near-vertical faces on all sides. The mountain's profile, visible from parts of the valley on clear days, is immediately distinctive: the twin peaks look almost impossible. This is not illusion; Ushba is one of the hardest technical climbs in the range and has claimed many lives.

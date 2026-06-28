@@ -10,6 +10,7 @@ tags:
 story: La Molina opened the first ski lift in Spain — a rope tow — in 1943. The resort
   has been continuously skiing the same slopes since the 1920s, longer than any other
   in the country.
+score: 6.4
 ---
 
 La Molina is Catalonia's oldest ski resort and one of the largest in the Pyrenees, sitting at the head of a side valley about fifteen kilometres south of Puigcerdà. It joins with neighbouring Masella to form Alp 2500, with 145 kilometres of pistes and lifts up to nearly 2,500 metres. The skiing is varied, with long mid-mountain cruisers and steeper terrain off the upper lifts.

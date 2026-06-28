@@ -9,6 +9,7 @@ title: Kabbas
 type: poi
 neighbourhood: BKK1
 snippet: Tiny BKK1 spot for honest Cambodian home cooking
+score: 6.1
 ---
 
 A husband-and-wife operation in a narrow shophouse off Street 51, serving the kind of food a Khmer grandmother might make on a Sunday — fish soup with sour fruits, beef lok lak, stir-fried morning glory, a daily curry. Tables are wooden, the menu is a single laminated sheet, and a full meal with rice and an iced tea comes to about four dollars.

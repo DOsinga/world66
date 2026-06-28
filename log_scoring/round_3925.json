@@ -1,0 +1,200 @@
+{
+  "round": 3925,
+  "timestamp": "2026-06-13T23:30:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 7.5498,
+      "prior_variance": 0.154797,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 5.803,
+      "prior_variance": 0.155193,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 4.8383,
+      "prior_variance": 0.139022,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 3.5089,
+      "prior_variance": 0.110331,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 4.5429,
+      "prior_variance": 0.096681,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ranthambore National Park",
+      "path": "asia/india/rajasthan/ranthambore",
+      "prior_score": 4.0931,
+      "prior_variance": 0.156263,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate",
+      "prior_score": 3.122,
+      "prior_variance": 0.101821,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_score": 2.1782,
+      "prior_variance": 0.131232,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/thecaribbean/cuba/santiagodecuba",
+      "prior_score": 2.187,
+      "prior_variance": 0.101829,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.4469,
+      "prior_variance": 0.107022,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.5468,
+      "prior_variance": 0.089218,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -0.0996,
+      "prior_variance": 0.114493,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.562,
+      "prior_variance": 0.107921,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -0.8857,
+      "prior_variance": 0.111762,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.5895,
+      "prior_variance": 0.109978,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": 0.4563,
+      "prior_variance": 0.114847,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 0.23,
+      "prior_variance": 0.156521,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -2.7243,
+      "prior_variance": 0.11009,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 0.9809,
+      "prior_variance": 0.119284,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.4151,
+      "prior_variance": 0.096179,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -2.8949,
+      "prior_variance": 0.101357,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -2.4458,
+      "prior_variance": 0.122514,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -1.0257,
+      "prior_variance": 0.109871,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Jefren",
+      "path": "africa/libya/jefren",
+      "prior_score": -8.124,
+      "prior_variance": 0.169301,
+      "prior_n": 12
+    }
+  ]
+}

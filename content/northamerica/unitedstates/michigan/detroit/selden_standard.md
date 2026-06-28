@@ -10,6 +10,7 @@ tags:
 neighbourhood: Midtown
 title: Selden Standard
 type: poi
+score: 6.8
 ---
 
 Selden Standard opened in 2014 in a Midtown corner space and was an immediate fixture of the city's new fine-dining wave. The menu is built around a wood-fired oven and changes constantly with whatever the farms are bringing in. The kitchen consistently shows up on James Beard semifinalist lists; Andy Hollyday, who has since opened Marrow, was the founding chef.

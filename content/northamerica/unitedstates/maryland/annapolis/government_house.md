@@ -8,6 +8,7 @@ tags:
 - historic_house
 title: Government House
 type: poi
+score: 6.1
 ---
 
 The Maryland governor's mansion has stood on State Circle directly across from the State House since 1870. The original Victorian design was extensively remodelled in 1936 to give it the Georgian Revival look it has today, harmonising it with the colonial buildings around the circle. The interior contains a notable collection of Maryland decorative arts including silver, glassware, and portraits.

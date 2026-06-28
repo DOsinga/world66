@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bicycle_Capital_of_the_Nor
 latitude: 47.669414
 loc_type: city
 longitude: -122.123877
-score: 0.36
+score: 6.19
+snippet: Seattle suburb on Lake Sammamish, shaped by Microsoft, Nintendo, and broad
+  riverside trails.
 title: Redmond
 type: location
 ---

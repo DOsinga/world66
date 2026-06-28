@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-01'
+image: goreme.jpg
+image_attribution: Aytazeynep
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Goreme_fairy_chimneys-2.jpg
 latitude: 38.642089
+loc_type: city
 longitude: 34.829623
+score: 9.53
+snippet: Cappadocian village surrounded by fairy chimneys and the rock-cut churches
+  of Göreme Open-Air Museum.
+sources:
+- https://en.wikipedia.org/wiki/G%C3%B6reme
+- https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park
 title: Göreme
 type: location
-score: 0.87
-image: goreme.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Goreme_fairy_chimneys-2.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Aytazeynep
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/G%C3%B6reme
-  - https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park
 ---
 
 Göreme sits in the heart of [Cappadocia](/asia/turkey/cappadocia), surrounded by a moonscape of volcanic tuff carved by millions of years of wind and water into cones, pillars, and the tall phallic columns that Turks politely call peri bacaları — fairy chimneys. The town itself is small and easy to navigate, with most guesthouses and tour agencies clustered along a few streets above the bus station, but the landscape that rings it on every side is extraordinary.

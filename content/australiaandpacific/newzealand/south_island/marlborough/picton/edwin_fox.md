@@ -8,6 +8,7 @@ tags:
 latitude: -41.285
 longitude: 174.0067
 story: The Edwin Fox carried convicts to Australia, troops to the Crimean War, and immigrants to New Zealand, and was finally used as a freezer hulk in Picton harbour to store frozen meat for export. By the time she was retired in 1950 she was over a century old. The salvage operation that hauled her out of the mud in 1986 found the original hand-cut teak frames intact.
+score: 7.6
 ---
 
 The Edwin Fox is the ninth-oldest surviving ship in the world and one of the very few remaining Crimean-era timber merchantmen anywhere. She is half-rebuilt in a covered dry dock at the Picton wharf, presented as a working preservation project rather than a polished museum — most of the hull is still rotten, the frames are exposed, and you walk around her on scaffolding while the conservation team works.

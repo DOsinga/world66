@@ -3,13 +3,14 @@ address: Kelenhegyi ut 4
 latitude: 47.4834
 longitude: 19.0531
 opening_hours: 6:00-20:00 daily
+score: 8.8
 snippet: Budapest's most beautiful Art Nouveau thermal bath, opened in 1918
 tags:
 - things_to_do
+- ujbuda
 - bath
 - museum
 - architecture
-- gellert_hill
 title: Gellert Thermal Bath
 type: poi
 url: www.gellertbath.hu

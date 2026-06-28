@@ -6,6 +6,7 @@ longitude: 125.5761
 tags:
   - things_to_do
   - architecture
+score: 6.3
 ---
 
 The old Banco Nacional Ultramarino building in the centre of Dili is an oddity — a clean, modernist concrete structure put up in the early 1960s for the Portuguese overseas bank, surrounded by older colonial buildings of an entirely different idiom. The horizontal louvred sunscreens and the flat slab roof read more like São Paulo than Lisbon.

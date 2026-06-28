@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.1609
 longitude: 123.7294
+score: 8.2
 ---
 
 Lignon Hill is a forested volcanic hill about 3 kilometres west of the Legazpi city centre, managed as a nature park and the best viewpoint for panoramic views of both Mayon Volcano and the Albay Gulf. The hill is small enough to climb in 20 minutes on the concrete path that winds through the forest to the summit, where a network of viewing decks and zip lines occupy the upper slopes.

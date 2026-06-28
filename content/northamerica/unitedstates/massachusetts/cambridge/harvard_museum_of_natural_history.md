@@ -9,6 +9,7 @@ latitude: 42.3785
 longitude: -71.1153
 story: >
   The museum's Glass Flowers — officially the Ware Collection of Blaschka Glass Models of Plants — are among the most astonishing objects in Cambridge. Between 1887 and 1936, Leopold Blaschka and his son Rudolf created 4,300 botanically accurate glass models of 847 plant species. The models are so precise that botanists still use them as reference specimens, and no one has successfully replicated the technique.
+score: 8.0
 ---
 
 The Harvard Museum of Natural History houses three collections in one building: zoology, paleontology, and mineralogy. The great Victorian display halls contain more curiosities per square metre than almost any other museum in New England — glass-topped cases of beetles, whale skeletons hanging from the ceiling, meteorites, and an enormous collection of gem-quality minerals.

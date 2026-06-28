@@ -8,6 +8,7 @@ tags:
 - activities
 title: GR 1
 type: poi
+score: 6.7
 ---
 
 The GR 1, known as the Tour de l'Île-de-France, makes a great loop of roughly 570 kilometres around the Paris region. Starting from Porte Maillot, the trail passes through the forests of Rambouillet and Fontainebleau, agricultural plains, medieval villages, and châteaux that once formed the royal domain around the capital. It is one of the longest and oldest long-distance routes in France.

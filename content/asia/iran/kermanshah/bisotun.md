@@ -12,6 +12,7 @@ story: >
   When Henry Rawlinson climbed the cliff at Bisotun in the 1840s and copied the Darius inscription at great personal risk — dangling from ropes on a sheer rock face — he was essentially cracking the code of cuneiform script for the entire Western world. The inscription, written in Old Persian, Elamite, and Babylonian simultaneously, gave scholars the key to all three languages, much as the Rosetta Stone did for Egyptian hieroglyphics.
 sources:
   - https://en.wikipedia.org/wiki/Behistun_Inscription
+score: 9.2
 ---
 
 About 30 kilometres east of Kermanshah on the Tehran highway, the Bisotun complex is one of the most extraordinary historical sites in Iran. High on a sheer cliff face, the Persian emperor Darius I (the Great) had a massive relief and trilingual inscription carved around 520 BC to record his accession to power and military victories. The text, in Old Persian, Elamite, and Babylonian cuneiform, was the key that unlocked the reading of these ancient scripts in the 19th century, making Bisotun as significant to the study of ancient languages as the Rosetta Stone.

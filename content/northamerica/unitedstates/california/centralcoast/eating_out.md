@@ -2,8 +2,9 @@
 address: 9217 Hiway 9, Ben Lomond, CA
 phone: 831-336-9221
 price: entries run from $9-23
+score: 1.5
 title: Eating Out in Central Coast
-type: poi
+type: section
 url: www.ciaobellabenlomond.com
 ---
 

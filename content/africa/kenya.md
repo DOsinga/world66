@@ -14,10 +14,11 @@ quick_facts:
   Languages: "English & Swahili"
   Ethnic Groups: "40+"
   Great Rift Valley: runs the full length of the country
-score: 0.44
+score: 0.81
 title: Kenya
 type: location
 loc_type: country
+snippet: "East African country of savanna wildlife, Rift Valley lakes, volcanic highlands, Indian Ocean beaches, and Nairobi energy."
 ---
 
 *Africa > Kenya*

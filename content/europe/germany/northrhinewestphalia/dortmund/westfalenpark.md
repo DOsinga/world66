@@ -11,6 +11,7 @@ story: >
   expanded for a second Bundesgartenschau in 1969. The television tower (Florianturm) built for the
   1959 show still stands at the park's centre, one of the first TV towers built in West Germany after
   the war. Its observation deck is still open to visitors.
+score: 7.6
 ---
 
 Westfalenpark is a 70-hectare public park immediately south of the city centre, adjacent to Signal Iduna Park. It was designed as a showcase of postwar urban planning and horticulture and remains one of the best-kept public parks in the Ruhr. The grounds contain rose gardens, a Japanese garden, several small lakes, and a miniature railway that loops through the park's quieter corners.

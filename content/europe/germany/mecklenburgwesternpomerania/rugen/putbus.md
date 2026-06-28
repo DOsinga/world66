@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 Putbus is the planned residential town of the Putbus princes, laid out from 1810 around a circular paved plaza — the Circus — fringed with neoclassical white-rendered houses. It is one of the few examples in northern Germany of an aristocratic ideal town built more or less from scratch, and the white-painted, columned facades survive almost intact.

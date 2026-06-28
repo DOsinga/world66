@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 14.4955
 longitude: -4.1975
+score: 8.0
 ---
 
 The Grand Marché of Mopti is the largest market in the region and the commercial heart of the inland Niger delta. Thursday is market day, when traders come in from the surrounding countryside and the covered stalls and open ground fill to overflowing. The variety of goods is extraordinary: dried fish from the delta, Saharan salt, leather goods from Djenné, hand-dyed bogolan (mud-cloth) fabric, Dogon wooden masks and figurines, Fulani silver jewellery, amber beads, bronze castings, and the elaborate woven wedding blankets for which Mopti's Fulani craftspeople are known.

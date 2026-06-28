@@ -12,6 +12,7 @@ tags:
 - bar
 title: Le Chat Noir
 type: poi
+score: 5.9
 ---
 
 Nice small arty bar in the Carouge neighbourhood where you can still hear one another. Sometimes live music downstairs.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 23.8167
 longitude: 113.0333
+score: 7.7
 ---
 
 Qingyuan chicken is to this city what Peking duck is to Beijing — not just the local speciality but the defining reason people come. The birds are raised free-range on the hills around the city, fed on grain and foraged plants rather than industrial feed, and slaughtered later than commercial chickens to develop firmer, more flavourful meat. The result is a noticeably different texture and taste from supermarket poultry, and Guangzhou residents make specific trips to eat it.

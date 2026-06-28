@@ -1,200 +1,200 @@
 {
   "round": 1746,
-  "timestamp": "2026-04-13T10:47:36",
+  "timestamp": "2026-06-13T20:49:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Taroko Gorge",
-      "path": "asia/taiwan/torokogorge",
-      "prior_score": 10.5008,
-      "prior_variance": 0.605056,
-      "prior_n": 4
-    },
-    {
-      "rank": 2,
-      "title": "Sete Cidades",
-      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
-      "prior_score": 7.7854,
-      "prior_variance": 0.475175,
-      "prior_n": 4
-    },
-    {
-      "rank": 3,
-      "title": "Taupo",
-      "path": "australiaandpacific/newzealand/taupo",
-      "prior_score": 6.0887,
-      "prior_variance": 0.342093,
-      "prior_n": 4
-    },
-    {
-      "rank": 4,
-      "title": "Karimunjawa",
-      "path": "asia/indonesia/java/karimunjawa",
-      "prior_score": 3.4185,
-      "prior_variance": 0.323852,
-      "prior_n": 4
-    },
-    {
-      "rank": 5,
-      "title": "Benidorm",
-      "path": "europe/spain/spanishcostas/benidorm",
-      "prior_score": 2.9992,
-      "prior_variance": 0.317259,
-      "prior_n": 4
-    },
-    {
-      "rank": 6,
-      "title": "Niagara Frontier",
-      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
-      "prior_score": 3.6383,
-      "prior_variance": 0.437053,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 7.8622,
+      "prior_variance": 0.4995,
       "prior_n": 5
     },
     {
+      "rank": 2,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_score": 8.764,
+      "prior_variance": 0.393367,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 5.9255,
+      "prior_variance": 0.298491,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/alesund",
+      "prior_score": 6.8366,
+      "prior_variance": 0.27381,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Abel Tasman National Park",
+      "path": "australiaandpacific/newzealand/abeltasmannationalpark",
+      "prior_score": 9.8113,
+      "prior_variance": 0.351537,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 5.2919,
+      "prior_variance": 0.269604,
+      "prior_n": 6
+    },
+    {
       "rank": 7,
-      "title": "Napier",
-      "path": "australiaandpacific/newzealand/napier",
-      "prior_score": 4.2291,
-      "prior_variance": 0.313579,
-      "prior_n": 4
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 8.1712,
+      "prior_variance": 0.359699,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Waikato",
-      "path": "australiaandpacific/newzealand/waikato",
-      "prior_score": 2.5826,
-      "prior_variance": 0.324408,
-      "prior_n": 4
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.714,
+      "prior_variance": 0.285156,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Foyers",
-      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
-      "prior_score": 2.121,
-      "prior_variance": 0.360306,
-      "prior_n": 4
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 3.5034,
+      "prior_variance": 0.264679,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Auvergne",
-      "path": "europe/france/centre/auvergne",
-      "prior_score": 2.9041,
-      "prior_variance": 0.251405,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 3.5134,
+      "prior_variance": 0.282689,
       "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Portugalete",
-      "path": "europe/spain/basque_country_eus/portugalete",
-      "prior_score": 1.8154,
-      "prior_variance": 0.246907,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.4049,
+      "prior_variance": 0.315085,
       "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Leba",
-      "path": "europe/poland/leba",
-      "prior_score": -0.4922,
-      "prior_variance": 0.327826,
-      "prior_n": 4
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 1.898,
+      "prior_variance": 0.319485,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Lake Kariba",
-      "path": "africa/zimbabwe/lakekariba",
-      "prior_score": 1.307,
-      "prior_variance": 0.350624,
-      "prior_n": 4
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.9946,
+      "prior_variance": 0.269897,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Lake Assal",
-      "path": "africa/djibouti/lakeassal",
-      "prior_score": -2.4903,
-      "prior_variance": 0.415074,
-      "prior_n": 4
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": -0.8509,
+      "prior_variance": 0.290411,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Clairvaux",
-      "path": "europe/france/east/champagne/clairvaux",
-      "prior_score": -1.9271,
-      "prior_variance": 0.394437,
-      "prior_n": 4
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.8873,
+      "prior_variance": 0.216644,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Umatac",
-      "path": "australiaandpacific/guam/umatac",
-      "prior_score": -1.1608,
-      "prior_variance": 0.297613,
-      "prior_n": 4
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -1.4232,
+      "prior_variance": 0.263185,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Cosseria",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
-      "prior_score": -5.2341,
-      "prior_variance": 0.458707,
-      "prior_n": 4
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.9039,
+      "prior_variance": 0.312031,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Saskatchewan",
-      "path": "northamerica/canada/saskatchewan",
-      "prior_score": -2.9738,
-      "prior_variance": 0.307022,
-      "prior_n": 6
+      "title": "Paldiski",
+      "path": "europe/estonia/paldiski",
+      "prior_score": -4.6384,
+      "prior_variance": 0.310032,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Alton",
-      "path": "northamerica/unitedstates/illinois/alton",
-      "prior_score": -4.0023,
-      "prior_variance": 0.325863,
-      "prior_n": 4
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -1.9861,
+      "prior_variance": 0.248189,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Cuiaba",
-      "path": "southamerica/brazil/cuiaba",
-      "prior_score": -1.9667,
-      "prior_variance": 0.304797,
-      "prior_n": 4
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -5.3257,
+      "prior_variance": 0.406228,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Santiago",
-      "path": "northamerica/dominicanrepublic/santiago",
-      "prior_score": -2.0848,
-      "prior_variance": 0.452392,
-      "prior_n": 4
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.4085,
+      "prior_variance": 0.259955,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Sheikhupura",
-      "path": "asia/pakistan/sheikhu_pura",
-      "prior_score": -7.2526,
-      "prior_variance": 0.389682,
-      "prior_n": 4
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.8529,
+      "prior_variance": 0.313337,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Village-Khergaon",
-      "path": "asia/india/uttaranchal/srinagar_pauri_ga/pauri_garhwal/villagekhergaon",
-      "prior_score": -7.5487,
-      "prior_variance": 0.395202,
-      "prior_n": 4
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -4.7734,
+      "prior_variance": 0.253049,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Ainaba",
-      "path": "africa/somaliland/ainaba",
-      "prior_score": -10.797,
-      "prior_variance": 0.247709,
-      "prior_n": 6
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -11.2859,
+      "prior_variance": 0.378556,
+      "prior_n": 5
     }
   ]
 }

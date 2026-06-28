@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.399322
 longitude: -3.692149
+score: 7.7
 snippet: Historic locomotives and carriages in a grand 19th-century station
 tags:
 - things_to_do

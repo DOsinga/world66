@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/St_Gertrude%27s_Abbey,_Leuven
+score: 6.7
 ---
 
 Sint-Geertruiabdij (St Gertrude's Abbey) is a medieval monastic complex on the north side of the old town, a short walk from the Grote Markt. The abbey was founded in the 11th century and became an important centre of the Augustinian Canons; the Gothic church, built mainly in the 15th century, survives in good condition and is one of the less-visited historic buildings in Leuven.

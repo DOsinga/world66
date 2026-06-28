@@ -5,6 +5,7 @@ tags: [things_to_do, sight, wildlife]
 latitude: 48.9333
 longitude: 5.7333
 snippet: "Large reservoir popular for sailing, fishing and birdwatching"
+score: 6.5
 ---
 
 The 1,100-hectare Lac de Madine, in the southern Meuse near the village of Heudicourt, is the largest body of water in Lorraine. Created in 1971 as a reservoir, it is now a regional leisure park with two sandy beaches, sailing schools, bicycle paths around the entire perimeter, and a campsite favoured by French families.

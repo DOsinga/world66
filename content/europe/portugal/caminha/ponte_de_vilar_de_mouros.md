@@ -8,6 +8,7 @@ tags:
 latitude: 41.8875
 longitude: -8.7894
 snippet: Medieval stone bridge over the Coura river, a few kilometres inland
+score: 6.7
 ---
 
 A few kilometres inland of Caminha, in the small village of Vilar de Mouros, a medieval stone bridge crosses the Coura river. Five low arches in granite, no parapets to speak of, a single track of paving stones — the bridge has been carrying foot and cart traffic since at least the thirteenth century and possibly earlier. Locals will tell you Roman, which is plausible at the foundations.

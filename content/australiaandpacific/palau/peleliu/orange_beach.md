@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.7
 ---
 
 The southern of the two main American landing beaches on 15 September 1944, where most of the 1st Marine Regiment came ashore. A simple monument at the back of the beach lists the units that landed here. The beach itself is a long, curving stretch of white coral sand with calm shallow water — beautiful in its own right and easy to imagine packed with landing craft, mortar smoke, and corpses.

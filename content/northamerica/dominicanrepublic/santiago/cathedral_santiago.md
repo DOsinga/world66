@@ -9,6 +9,7 @@ tags:
 title: Cathedral of Santiago Apóstol
 type: poi
 snippet: Late 19th-century neoclassical cathedral on the Parque Duarte
+score: 7.3
 ---
 
 The Catedral de Santiago Apóstol stands on the south side of the Parque Duarte, the main square of the old town. The current building dates from the late 19th century, rebuilt after the original 16th-century church was destroyed by an earthquake. The neoclassical façade in pale stone is more restrained than the colonial cathedrals of Santo Domingo, but the interior — with its tall nave, dark woodwork, and good stained glass — repays a quiet visit.

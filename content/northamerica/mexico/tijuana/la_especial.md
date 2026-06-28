@@ -7,6 +7,7 @@ tags:
 latitude: 32.5298
 longitude: -117.0388
 snippet: "A Tijuana institution for traditional Mexican food since 1952."
+score: 6.5
 ---
 
 La Especial has been feeding Tijuana since 1952. The subterranean restaurant, reached by a staircase descending from Avenida Revolución, is a deliberate antidote to the tourist trap restaurants above ground. The decor is unchanged from mid-century: wooden booths, old photographs of Tijuana on the walls, a reliable bustle.

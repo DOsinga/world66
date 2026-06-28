@@ -1,0 +1,200 @@
+{
+  "round": 3351,
+  "timestamp": "2026-06-13T22:47:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.7564,
+      "prior_variance": 0.137341,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.5466,
+      "prior_variance": 0.125346,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "P\u00f5lva",
+      "path": "europe/estonia/plva",
+      "prior_score": -2.8278,
+      "prior_variance": 0.123905,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -2.5755,
+      "prior_variance": 0.122443,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -1.2516,
+      "prior_variance": 0.132543,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -1.7955,
+      "prior_variance": 0.119703,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Danzhou",
+      "path": "asia/china/hainanisland/danzhou",
+      "prior_score": -2.4977,
+      "prior_variance": 0.134707,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -3.0841,
+      "prior_variance": 0.148176,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.693,
+      "prior_variance": 0.135182,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.5193,
+      "prior_variance": 0.159655,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -3.9793,
+      "prior_variance": 0.152627,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_score": -3.6071,
+      "prior_variance": 0.123735,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -3.9367,
+      "prior_variance": 0.12194,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.2962,
+      "prior_variance": 0.140803,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -5.452,
+      "prior_variance": 0.141937,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -5.1295,
+      "prior_variance": 0.175632,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -5.1932,
+      "prior_variance": 0.146552,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -5.172,
+      "prior_variance": 0.140344,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich",
+      "prior_score": -6.3021,
+      "prior_variance": 0.28907,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -6.0746,
+      "prior_variance": 0.159269,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -5.965,
+      "prior_variance": 0.230004,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Dingzhou",
+      "path": "asia/china/hebei/dingzhou",
+      "prior_score": -5.5932,
+      "prior_variance": 0.141087,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.0471,
+      "prior_variance": 0.15603,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -5.78,
+      "prior_variance": 0.150398,
+      "prior_n": 10
+    }
+  ]
+}

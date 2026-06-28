@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_central_Maradi
 latitude: 13.5
 loc_type: city
 longitude: 7.1017
+score: 4.51
+snippet: Hausa trading city near Nigeria, driven by markets, livestock, grain, and
+  cross-border commerce.
 sources:
 - https://en.wikipedia.org/wiki/Maradi,_Niger
 - https://www.geodatos.net/en/coordinates/niger/maradi

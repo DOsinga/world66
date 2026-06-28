@@ -16,8 +16,9 @@ quick_facts:
   Karakoram Highway: "World's highest paved international road"
 title: Pakistan
 type: location
-score: 0.27
+score: 0.64
 loc_type: country
+snippet: "Mountainous South Asian country where Karakoram peaks, Indus ruins, and Arabian Sea coast shape a long history."
 ---
 
 *Asia > Pakistan*
@@ -44,3 +45,4 @@ Traveling here requires some preparation and awareness of the security situation
 - [Chitral](/asia/pakistan/chitral) — isolated valley near Hindu Kush, home of the Kalash people
 - [Taxila](/asia/pakistan/taxila) — UNESCO-listed Buddhist archaeological site
 - [Hyderabad](/asia/pakistan/hyderabad) — second city of Sindh
+- [Larkana](/asia/pakistan/larkana) — northern Sindh city tied to the Bhutto family and Indus Valley ruins

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramica_de_Playa_de_Cor
 latitude: 15.7803
 loc_type: city
 longitude: -86.6714
-score: 0.26
+score: 5.23
+snippet: Garifuna village on Honduras' Caribbean coast, east of La Ceiba along the
+  beach road.
 title: Corozal
 type: location
 ---

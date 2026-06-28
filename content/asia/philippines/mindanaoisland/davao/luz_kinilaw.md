@@ -1,9 +1,13 @@
 ---
 address: Salmonan, Quezon Blvd., Davao City
+latitude: 7.073
+longitude: 125.6237
 phone: +63 82 221-8377
+score: 6.3
 tags:
 - eating_out
 - restaurant
+- seafood
 title: Luz Kinilaw
 type: poi
 ---

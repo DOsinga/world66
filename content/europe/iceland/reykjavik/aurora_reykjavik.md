@@ -10,6 +10,7 @@ tags:
   - grandi
 neighbourhood: Grandi
 snippet: Small museum on the science, mythology and photography of the Northern Lights
+score: 5.8
 ---
 
 A small exhibition space on Grandi devoted entirely to the aurora borealis: the physics of solar wind hitting the magnetic field, the folklore (Vikings thought the lights were the reflections of dead warriors on their armour), and a darkened cinema room with a thirty-minute film of professionally shot displays projected wraparound on a high-definition screen.

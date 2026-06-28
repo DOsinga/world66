@@ -8,6 +8,8 @@ sources:
 - https://en.wikivoyage.org/wiki/Henan
 title: Yuntaishan
 type: location
+score: 8.09
+snippet: Henan mountain scenic area of red-rock gorges cut through quartzite and limestone.
 ---
 
 Yuntaishan — Cloud Terrace Mountain — rises to 1,308 metres on the southern edge of the Taihang range in Xiuwu County, near Jiaozuo in northern Henan. It is one of China's AAAAA-rated scenic areas, the highest classification given by the national tourism administration, and it earns that designation on the basis of its geological formations: a series of spectacular gorges, carved by water through layered Precambrian quartzite and limestone, producing the kind of deep slot canyons and sheer red-rock faces that make central Henan's mountain scenery so different from anything in the flat river plains to the south.

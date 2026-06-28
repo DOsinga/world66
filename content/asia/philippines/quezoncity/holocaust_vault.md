@@ -14,6 +14,7 @@ story: >
   Jews fleeing Nazi persecution, in defiance of US State Department pressure.
   Around 1,300 refugees were saved. The documents in this vault are the paper
   record of that quiet act of moral courage.
+score: 7.8
 ---
 
 At the Jewish Association of the Philippines, a vault preserves the documents that allowed around 1,300 Jewish refugees to enter the Philippines in the late 1930s and early 1940s, when almost every other country in the world had closed its doors. The Philippine government under President Manuel Quezon issued visas and offered settlement in Mindanao to refugees fleeing Nazi Germany and occupied Europe.

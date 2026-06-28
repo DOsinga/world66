@@ -15,6 +15,7 @@ story: >
   are sometimes confused in older literature.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Bwahit
+score: 8.1
 ---
 
 Mount Bwahit is the second highest peak in Ethiopia at 4,430 metres, rising above the Chennek area and offering a demanding but achievable alternative to the longer Ras Dashen ascent. From Chennek camp, the hike to Bwahit takes about four to five hours return — a steep climb through high-altitude moorland to the rocky summit ridge. The views from the top are comparable to Ras Dashen's: a vast highland panorama with the escarpment walls dropping away below.

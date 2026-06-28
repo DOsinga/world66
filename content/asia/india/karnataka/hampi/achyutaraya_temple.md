@@ -13,6 +13,7 @@ story: >
   sack occurred. As a result, some of the carving was never finished
   and the decorative programme breaks off abruptly mid-panel — you can
   see exactly where the sculptors stopped work.
+score: 8.8
 ---
 
 One of the least-visited but most atmospheric temple complexes in Hampi, built between 1534 and 1540 by King Achyutadevaraya and dedicated to Tiruvengalanatha, a form of Vishnu. It sits between Matanga Hill and the Tungabhadra River, set apart from the main monumental clusters, and sees fewer visitors as a result.

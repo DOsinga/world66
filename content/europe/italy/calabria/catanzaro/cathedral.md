@@ -8,6 +8,7 @@ tags:
 latitude: 38.9078
 longitude: 16.5864
 snippet: Catanzaro's cathedral, rebuilt in the 1950s after the 1783 earthquake destroyed the original
+score: 6.2
 ---
 
 Catanzaro's cathedral stands in Piazza Duomo at the heart of the historic upper city. The current building dates primarily from 1951 — rebuilt after the great 1783 earthquake that devastated much of the original medieval city, followed by further reconstructions after a 1832 quake, and the World War II bombing. What you see today is mid-century Italian ecclesiastical architecture rather than the medieval original.

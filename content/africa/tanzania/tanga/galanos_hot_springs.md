@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -4.9450
 longitude: 39.0250
+score: 5.4
 ---
 
 The Galanos Sulphur Springs lie about 18 km north-west of Tanga, on the road towards the Kenyan border — a clutch of small natural pools where warm sulphurous water bubbles up out of the ground. The name comes from a Greek planter who developed the springs as a small spa in the 1930s; a few crumbling buildings from that era still stand among the palms.

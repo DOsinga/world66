@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 story: "The Pnyx is the place where Athenian democracy was conducted. Citizens gathered here for the *ekklesia* — the assembly that debated and voted on every major decision of the city — and from this stone platform Pericles, Demosthenes, and Themistocles delivered speeches still studied today. As many as 13,500 people could be assembled at one time."
+score: 8.3
 ---
 
 The Pnyx is a small hill west of the Acropolis whose summit was levelled in the 6th century BCE to serve as the meeting place of the Athenian Assembly. The stone speaker's platform — the **bema** — is still visible, cut into the bedrock and facing a curved auditorium that could hold thousands of citizens.

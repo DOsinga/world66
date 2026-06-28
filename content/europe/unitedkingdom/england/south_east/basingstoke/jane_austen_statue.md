@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Austen lived at Steventon, a few miles outside Basingstoke, until she was 25. She walked into town for shopping, balls at the Assembly Rooms and meetings of the local literary set. Much of Pride and Prejudice and Sense and Sensibility was drafted while she lived in the area."
+score: 5.6
 ---
 
 A life-sized bronze of Jane Austen stands on Market Place outside the Willis Museum, unveiled in 2017 to mark the bicentenary of her death. Sculptor Adam Roud captured her in her early thirties, walking purposefully with a notebook in hand. It is unfussy and unhagiographic — Austen looks like she is on her way somewhere.

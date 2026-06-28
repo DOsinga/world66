@@ -9,6 +9,7 @@ tags:
 latitude: 35.8816
 longitude: 76.5135
 story: "The Baltoro Glacier is one of the longest glaciers outside the polar regions at 63 kilometres, and the basin at its head — Concordia — is surrounded by more 8,000-metre peaks than any comparable area on earth: K2 (8,611m), Broad Peak (8,051m), Gasherbrum I (8,080m), and Gasherbrum II (8,035m) are all visible from the glacier. Mountaineers call Concordia 'the throne room of the mountain gods.' The approach from Skardu takes two days of driving and four to six days of walking."
+score: 9.8
 ---
 
 The Baltoro Glacier trek is the defining expedition route of Baltistan, leading from Skardu through the town of Askole and up the glacier to Concordia, the junction point where the world's highest concentration of 8,000-metre peaks comes into view. From Concordia, a further camp brings you to Base Camp of K2 (8,611m), the second highest mountain on earth.

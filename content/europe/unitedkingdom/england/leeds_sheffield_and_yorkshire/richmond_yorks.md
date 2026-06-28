@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Richmond_Castle_from_Bridg
 latitude: 54.4049
 loc_type: city
 longitude: -1.738
-score: 0.52
+score: 7.27
+snippet: Historic Swaledale market town above the River Swale, dominated by an 11th-century
+  Norman castle.
 title: Richmond
 type: location
 ---

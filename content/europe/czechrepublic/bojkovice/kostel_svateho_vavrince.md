@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Baroque parish church of St. Lawrence on the town square"
+score: 5.9
 ---
 
 The parish church on Masaryk Square in the town centre. Built in the early 18th century in a sober Moravian baroque style — single nave, plain whitewashed exterior, a single bell tower. The interior holds a few good period altarpieces and a small organ that is still used for the occasional concert.

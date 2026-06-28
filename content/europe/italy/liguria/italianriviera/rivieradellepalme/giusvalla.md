@@ -5,7 +5,9 @@ done:
 latitude: 44.447939
 loc_type: city
 longitude: 8.394149
-score: 0.35
+score: 6.21
+snippet: Small Ligurian Apennine village set among chestnut and oak woods above the
+  Giusvalletta valley.
 sources:
 - https://en.wikipedia.org/wiki/Giusvalla
 title: Giusvalla

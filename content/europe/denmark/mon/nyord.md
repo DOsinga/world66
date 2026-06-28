@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Tiny island linked by causeway, famous for birdlife and a single 18th-century village"
+score: 7.7
 ---
 
 Nyord is a flat, marshy island connected to the north tip of Møn by a low bridge that opened in 1968. Before that, it was reached only by rowing boat. The single village — also called Nyord — is a beautifully preserved cluster of 18th-century farmhouses laid out around a central green, with an unusual octagonal church from 1846 at its centre.

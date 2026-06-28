@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 5.3303
 longitude: 103.1327
+score: 8.1
 ---
 
 Kuala Terengganu's Chinatown is one of the oldest surviving Chinese merchant quarters in Malaysia, dating from the 15th century when Chinese traders arrived after Admiral Zheng He's voyages opened the east coast of the Malay peninsula to sustained commerce. The neighbourhood occupies a narrow strip between the Terengganu River and the main road, and its shophouse architecture — two-storey with covered walkways, painted in faded blues and greens — is well preserved by Malaysian standards.

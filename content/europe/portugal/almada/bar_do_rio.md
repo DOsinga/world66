@@ -7,6 +7,7 @@ tags:
   - cacilhas
 latitude: 38.6857
 longitude: -9.1507
+score: 5.8
 ---
 
 Bar do Rio is a simple waterfront bar near the Cacilhas ferry terminal — the kind of place where locals stop for a beer or a coffee while waiting for the ferry, or where day-trippers settle in for longer once they realise there is nowhere better to sit with a drink and watch the Tagus. The terrace faces the river and Lisbon directly.

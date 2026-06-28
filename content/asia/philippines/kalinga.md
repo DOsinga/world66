@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:BUSCALAN_RICE_TERRACES.jpg
 latitude: 17.46
 loc_type: city
 longitude: 121.31
-score: 0.48
+score: 6.87
+snippet: Mountainous Cordillera province of river gorges, rice terraces, and living
+  Kalinga tattoo traditions.
 title: Kalinga
 type: location
 ---

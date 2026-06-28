@@ -1,9 +1,11 @@
 ---
+latitude: 51.4332
+loc_type: region
+longitude: 7.6616
+snippet: Germany's populous industrial state, packed with Rhine-Ruhr cities between
+  the Low Countries and Sauerland hills.
 title: North Rhine-Westphalia
 type: location
-loc_type: region
-latitude: 51.4332
-longitude: 7.6616
 ---
 
 North Rhine-Westphalia — Nordrhein-Westfalen in German, universally abbreviated NRW — is Germany's most populous state and its industrial heartland. It stretches from the Dutch and Belgian borders in the west to the hills of the Sauerland in the east, and holds more major cities in close proximity than anywhere else in the country: Cologne, Düsseldorf, Dortmund, Essen, Bochum, and Wuppertal all lie within a roughly 80 km arc.

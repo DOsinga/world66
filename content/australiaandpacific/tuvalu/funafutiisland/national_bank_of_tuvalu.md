@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -8.5244
 longitude: 179.1954
+score: 4.8
 ---
 
 The National Bank of Tuvalu is the country's only bank, the only place to change foreign currency, and one of two ATMs in the country. It is housed in a low concrete building in Vaiaku and keeps short, irregular hours. Bring cash — Australian dollars are the currency, US dollars are sometimes accepted at the bank, and card facilities barely exist outside this building.

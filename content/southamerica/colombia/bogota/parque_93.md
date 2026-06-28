@@ -8,6 +8,7 @@ tags:
 latitude: 4.6763
 longitude: -74.0488
 snippet: "Leafy northern park surrounded by restaurants and bars — Bogota's outdoor living room"
+score: 6.5
 ---
 
 Parque de la 93 — simply "la 93" to locals — is a well-maintained park in the El Chicó neighbourhood surrounded on all sides by restaurants, bars, and cafes. It is the closest thing Bogota has to a European outdoor plaza: well-dressed locals eat and drink at tables spilling onto the pavement, and the park itself fills with joggers, dog-walkers, and people watching on weekend afternoons.

@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gabon_Mining_Logistics_au_
 latitude: 0.4087
 loc_type: city
 longitude: 9.4419
-score: 0.35
+score: 6.0
+snippet: Atlantic capital of Gabon, polished and cosmopolitan along the estuary, with
+  beaches and forest nearby.
 title: Libreville
 type: location
 ---

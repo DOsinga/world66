@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alassio_from_Capo_Mele.jpg
 latitude: 44.008011
 loc_type: city
 longitude: 8.173027
-score: 0.6
+score: 8.3
+snippet: Western Ligurian resort town with a long sandy beach, pastel houses, and
+  Il Budello promenade
 title: Alassio
 type: location
 ---

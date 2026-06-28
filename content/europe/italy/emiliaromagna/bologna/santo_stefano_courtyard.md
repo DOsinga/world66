@@ -7,6 +7,7 @@ snippet: The triangular cobbled piazza in front of the Seven Churches
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 The triangular piazza in front of the Sette Chiese is one of the most photographed corners of Bologna and one of the few open squares in the medieval centre. The cobbled funnel widens out from the narrow Via Santo Stefano, framed on both sides by the long porticoes of patrician houses.

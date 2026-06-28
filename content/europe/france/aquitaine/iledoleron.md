@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Claires_de_Fort_Royer,_Ile
 latitude: 45.9167
 loc_type: city
 longitude: -1.3167
-score: 0.58
+score: 8.13
+snippet: Atlantic French island of dunes, oyster beds, surf beaches, and fishing ports
+  linked by bridge to Charente.
 title: Ile d'Oleron
 type: location
 ---

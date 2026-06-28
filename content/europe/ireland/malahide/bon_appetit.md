@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.4516
 longitude: -6.1517
+score: 5.9
 ---
 
 Bon Appétit on James Terrace is Malahide's most serious restaurant, a fine dining room with a French-influenced menu that draws from Irish produce — west coast seafood, dry-aged Irish beef, seasonal vegetables from small suppliers. The cooking is technically accomplished without being showy, and the room is comfortable rather than formal.

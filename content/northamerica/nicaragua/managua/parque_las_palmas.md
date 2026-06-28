@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 12.1350
 longitude: -86.2850
+score: 5.9
 ---
 
 Parque Las Palmas is one of the older surviving green spaces in Managua, a broad public park in the western part of the city with tall palm trees, football pitches, and a small outdoor theatre. On weekends it fills with families, vendors, and neighbourhood life in a way that gives a genuine sense of how Managuans use their city.

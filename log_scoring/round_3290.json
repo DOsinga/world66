@@ -1,0 +1,200 @@
+{
+  "round": 3290,
+  "timestamp": "2026-06-13T22:42:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 11.3169,
+      "prior_variance": 0.375232,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 7.9829,
+      "prior_variance": 0.216832,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 9.9041,
+      "prior_variance": 0.242525,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 6.1798,
+      "prior_variance": 0.147555,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.9638,
+      "prior_variance": 0.154956,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 4.3649,
+      "prior_variance": 0.143715,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 5.0568,
+      "prior_variance": 0.14148,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 2.7043,
+      "prior_variance": 0.12562,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 5.8939,
+      "prior_variance": 0.170591,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.2489,
+      "prior_variance": 0.12074,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 1.9206,
+      "prior_variance": 0.135223,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.7671,
+      "prior_variance": 0.141473,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 1.002,
+      "prior_variance": 0.159347,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 2.0661,
+      "prior_variance": 0.114039,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.1244,
+      "prior_variance": 0.120336,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.3321,
+      "prior_variance": 0.106274,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.3558,
+      "prior_variance": 0.117998,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": -0.5787,
+      "prior_variance": 0.128735,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 0.3235,
+      "prior_variance": 0.133937,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 1.1994,
+      "prior_variance": 0.128415,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -0.5992,
+      "prior_variance": 0.123395,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.112,
+      "prior_variance": 0.118412,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_score": -6.4369,
+      "prior_variance": 0.18266,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -5.0269,
+      "prior_variance": 0.147733,
+      "prior_n": 10
+    }
+  ]
+}

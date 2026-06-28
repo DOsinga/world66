@@ -7,6 +7,7 @@ tags:
 - nature
 title: Kaba River Valley
 type: poi
+score: 6.3
 ---
 
 The Kaba River valley northwest of Burqin leads toward another stretch of Altay border country, with grasslands, forested slopes, and scattered Kazakh settlements. It is less famous than Kanas, which is part of its appeal.

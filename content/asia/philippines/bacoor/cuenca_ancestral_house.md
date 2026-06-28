@@ -17,6 +17,7 @@ story: >
   deeply formed by Spanish culture.
 sources:
   - https://en.wikipedia.org/wiki/Cuenca_Ancestral_House
+score: 6.7
 ---
 
 The Cuenca Ancestral House (Bahay na Tisa) is a well-preserved example of the bahay na bato — the "house of stone" style that characterized elite Filipino architecture during the Spanish colonial period. The structure combines a masonry ground floor (used for storage and sometimes stabling) with a wooden upper floor where the family lived, surrounded by wide windows with shell panes.

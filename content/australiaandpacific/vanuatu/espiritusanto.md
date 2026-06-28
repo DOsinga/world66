@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Champagne_Beach.jpg
 latitude: -15.156341
 loc_type: city
 longitude: 167.051071
-score: 0.6
+score: 8.01
+snippet: Largest Vanuatu island, with rainforest mountains, blue holes, and World
+  War II wreck-diving history
 title: Espiritu Santo
 type: location
 ---

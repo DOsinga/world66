@@ -9,6 +9,7 @@ latitude: 41.0
 longitude: 20.7
 story: >
   Lake Ohrid is between one and three million years old — one of the few "ancient" lakes in Europe along with Lake Baikal in Siberia and Lake Tanganyika in Africa. That continuous habitat has produced over 200 endemic species, including the Ohrid trout (Salmo letnica), found nowhere else. The lake is shared between North Macedonia and Albania, with the border running roughly down the middle.
+score: 9.6
 ---
 
 Lake Ohrid is 358 m deep at its lowest point, 30 km long, and far quieter than its surface suggests — the inflow is mostly from underground karst springs along the southern shore, not from rivers. The water is clear to depths of 20 m and the lake holds the largest population of any of its endemic species, including pelicans and the Ohrid trout.

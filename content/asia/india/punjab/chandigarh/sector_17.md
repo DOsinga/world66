@@ -8,6 +8,7 @@ tags:
   - shopping
   - sight
   - neighbourhood
+score: 6.9
 ---
 
 Sector 17 is the commercial heart that Le Corbusier designed as the pedestrianised centre of his grid — a four-block plaza of low concrete arcades, planters and fountains where the entire city used to come to shop, eat and meet. It still functions as such, although the malls in the outer sectors have stolen some of its trade.

@@ -5,6 +5,7 @@ latitude: 52.2519
 longitude: 6.1631
 tags: [things_to_do, sight, church, viewpoint]
 story: The Bergkerk's two towers lean slightly inward at the top — a deliberate medieval optical trick to make them appear taller from the street below, which only really works if you stand directly between them on the Bergstraat.
+score: 8.3
 ---
 
 The Bergkerk — properly the Sint-Nicolaaskerk — is the church on the hill, a Romanesque-Gothic building with twin towers rising above the eastern edge of the old town. The hill it sits on (the Bergkwartier, literally "mountain quarter") is barely a hill at all by international standards, but in the flat Dutch landscape it counts.

@@ -7,6 +7,7 @@ tags:
 - nature
 title: Fara San Martino
 type: poi
+score: 7.6
 ---
 
 Fara San Martino sits at the foot of the eastern Majella and is famous in Italy for pasta as much as scenery. The cold mountain water and local pasta factories make the village a pleasingly practical base: you can hike a gorge and eat very well afterwards.

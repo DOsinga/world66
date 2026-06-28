@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 54.597
 longitude: -5.9375
+score: 7.6
 ---
 
 The Sunflower on Union Street is the best live music pub in Belfast, a scruffy, friendly bar that hosts traditional Irish music, folk, and occasional rock and jazz in its small back room. The cage at the entrance — a security measure from the Troubles era that the pub has kept as historical detail — is one of the most striking entryways of any bar in Ireland.

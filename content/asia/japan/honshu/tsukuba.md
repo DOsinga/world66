@@ -7,7 +7,9 @@ done:
 latitude: 36.0835
 loc_type: city
 longitude: 140.0777
-score: 0.43
+score: 7.3
+snippet: Purpose-built Japanese science city on the Kanto Plain, packed with national
+  research institutes and JAXA facilities
 sources:
 - https://en.wikipedia.org/wiki/Tsukuba,_Ibaraki
 title: Tsukuba

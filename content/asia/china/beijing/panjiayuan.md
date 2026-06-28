@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 39.8862
 longitude: 116.4682
+score: 6.6
 ---
 
 Beijing's largest and most famous flea and antique market, operating in a large outdoor compound in the southeast of the city. On weekend mornings, over three thousand vendors spread goods across covered stalls, outdoor tables, and bare ground — ceramics, Mao-era memorabilia, Cultural Revolution posters, bronze figures, minority textiles, jade, old furniture, calligraphy, and the full range of tourist souvenirs. Most of the antiques are reproductions; genuine pieces are expensive and mixed in with the fakes.

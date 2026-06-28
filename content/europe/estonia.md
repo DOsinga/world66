@@ -7,16 +7,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Abrget47j" title="
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg
 latitude: 58.752378
+loc_type: country
 longitude: 25.331908
 quick_facts:
-  Population: "1.3 million"
   Currency: Euro (€)
-  Forest Cover: "Over 50% of the country"
-  E-Residency: "First country to offer digital citizenship to non-residents"
-score: 0.39
+  E-Residency: First country to offer digital citizenship to non-residents
+  Forest Cover: Over 50% of the country
+  Population: 1.3 million
+score: 0.65
+snippet: Northern Baltic country of medieval Tallinn, forested national parks, western
+  islands, and a strong digital culture
 title: Estonia
 type: location
-loc_type: country
 ---
 
 The most northern of the three Baltic states, Estonia punches well above its weight. It's small — 1.3 million people, roughly the size of the Netherlands — but it packs in a medieval capital, unspoilt national parks, hundreds of islands, and a tech culture that pioneered e-governance and gave the world Skype.

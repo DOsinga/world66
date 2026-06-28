@@ -2,10 +2,15 @@
 accessibility: Not wheelchair accessible.  Easy access from commercial district and
   only 2 blocks off the Plaza de Armas
 address: 'Jr. Alegria Arias de Morey #298'
+latitude: -6.4894
+longitude: -76.3638
 phone: (042) 52 2104
 price: Inexpensive
+score: 4.7
 tags:
 - eating_out
+- restaurant
+- italian
 title: Restaurant Chalet Venicia
 type: poi
 ---

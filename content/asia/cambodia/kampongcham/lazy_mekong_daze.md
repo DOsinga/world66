@@ -10,6 +10,7 @@ tags:
 - bar
 title: Lazy Mekong Daze
 type: poi
+score: 4.4
 ---
 
 The Mekong's most reliable travellers' bar in central Cambodia, Lazy Mekong Daze has been on the Kampong Cham riverfront under one owner or another since the mid-2000s. The menu is the usual short list of Cambodian standards and Western comfort dishes — pizza, pasta, burgers, fish amok, chicken curry — but the cold beer and Mekong view are the real reason to settle in.

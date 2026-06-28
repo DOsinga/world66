@@ -10,7 +10,9 @@ image_source: https://www.flickr.com/photos/51035566865@N01/298786631
 latitude: -21.1343
 loc_type: city
 longitude: -175.2018
-score: 0.49
+score: 7.46
+snippet: Tongan capital on Tongatapu's north shore, centred on the royal palace, tombs,
+  and waterfront.
 title: Nuku'alofa
 type: location
 ---

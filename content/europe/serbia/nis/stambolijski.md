@@ -6,6 +6,7 @@ tags:
   - restaurant
 title: Stambolijski
 type: poi
+score: 5.9
 ---
 
 Stambolijski is housed in a beautifully maintained 19th-century Ottoman building near the city centre, which immediately sets it apart from the usual Serbian restaurant. The interior has wooden ceilings, low arched doorways, and a courtyard garden for summer dining.

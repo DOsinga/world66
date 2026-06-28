@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Trajan_(Timgad).jp
 latitude: 35.483633
 loc_type: city
 longitude: 6.466812
-score: 0.56
+score: 7.96
+snippet: Roman ruin city in Algeria, laid out on Trajan's grid at the edge of the
+  Aurès Mountains.
 title: Timgad
 type: location
 ---

@@ -5,9 +5,11 @@ done:
 latitude: 41.387336
 longitude: 2.160535
 phone: 932 154 592
+score: 5.8
 snippet: Long-established Barcelona gallery showing contemporary Spanish painters
 tags:
 - shopping
+- eixample
 title: Sala Dalmau
 type: poi
 url: https://www.saladalmau.com

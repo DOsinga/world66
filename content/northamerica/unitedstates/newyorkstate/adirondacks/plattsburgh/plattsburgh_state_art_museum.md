@@ -12,6 +12,7 @@ tags:
 snippet: "Surprisingly serious university art museum — the world's largest Rockwell Kent collection plus Tiffany glass and 19th-century paintings"
 story: >
   Rockwell Kent — early-20th-century American painter, illustrator, and dedicated socialist — lived on Asgaard Farm in nearby Au Sable Forks from 1928 until his death in 1971. He left his collection of his own work to SUNY Plattsburgh out of long-standing local affection (and because Kent's leftist politics had made his work less welcome in larger institutions during the Cold War). The collection has grown to become the world's largest holding of Kent's paintings, prints, and illustrations.
+score: 7.8
 ---
 
 A genuinely good art museum tucked into the SUNY Plattsburgh campus, a 10-minute drive from downtown. The permanent collection is built around the **Rockwell Kent** estate — paintings, prints, illustrations, and ephemera from one of the great early-20th-century American artists — and includes substantial holdings of **Louis Comfort Tiffany glass**, 19th-century American paintings, and a fine collection of Asian decorative arts.

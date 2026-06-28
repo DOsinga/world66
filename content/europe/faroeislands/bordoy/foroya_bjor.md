@@ -8,6 +8,7 @@ tags:
 - brewery
 title: Föroya Bjór
 type: poi
+score: 6.8
 ---
 
 Föroya Bjór, on the harbour at Klaksvík, is the Faroes' oldest brewery — founded in 1888 by the local merchant Símun í Vági. It has been the dominant Faroese beer brand ever since; Klassic, Black Sheep, and Gull are the standard range, and the Christmas seasonal beers are eagerly waited for each winter. The brewery still uses water drawn from a stream on the mountain behind the town.

@@ -1,0 +1,200 @@
+{
+  "round": 3756,
+  "timestamp": "2026-06-13T23:17:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 3.64,
+      "prior_variance": 0.119572,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 3.287,
+      "prior_variance": 0.119451,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_score": 4.418,
+      "prior_variance": 0.126938,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.5854,
+      "prior_variance": 0.118201,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.4019,
+      "prior_variance": 0.122041,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 3.7238,
+      "prior_variance": 0.11061,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 3.1351,
+      "prior_variance": 0.113431,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.5483,
+      "prior_variance": 0.128805,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 1.1912,
+      "prior_variance": 0.134624,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/gloucestershire/severn_bore",
+      "prior_score": -1.4282,
+      "prior_variance": 0.111944,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -2.0135,
+      "prior_variance": 0.11168,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -3.0214,
+      "prior_variance": 0.141624,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_score": -1.5532,
+      "prior_variance": 0.133287,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -1.9239,
+      "prior_variance": 0.121823,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_score": -3.0972,
+      "prior_variance": 0.12773,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -1.4699,
+      "prior_variance": 0.115525,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": -0.08,
+      "prior_variance": 0.117322,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_score": -1.8432,
+      "prior_variance": 0.110308,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -1.4072,
+      "prior_variance": 0.115517,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -5.6327,
+      "prior_variance": 0.148738,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -6.3539,
+      "prior_variance": 0.203678,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -6.4409,
+      "prior_variance": 0.171866,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -5.8137,
+      "prior_variance": 0.113081,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -7.3665,
+      "prior_variance": 0.151378,
+      "prior_n": 11
+    }
+  ]
+}

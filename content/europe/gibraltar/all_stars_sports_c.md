@@ -10,6 +10,7 @@ tags:
 - bar
 title: All Stars Sports Cafe
 type: poi
+score: 4.2
 ---
 
 A big, boisterous sports bar in Ocean Village with 18 screens and a menu of American-style BBQ and grilled food. Portions are generous, the beer list covers the basics, and the harbour views from the terrace make it a decent spot to watch a match. Open late most nights.

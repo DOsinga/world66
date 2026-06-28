@@ -8,6 +8,7 @@ tags:
   - cycling
 title: "Lac de Bouzey"
 type: poi
+score: 5.8
 ---
 
 Lac de Bouzey lies just west of Epinal and works as the city's easy outdoor escape. Locals come for walking, cycling, sailing, and summer swimming, and the loop around the water is gentle enough for families.

@@ -6,7 +6,9 @@ done:
 latitude: 8.8267
 loc_type: city
 longitude: -82.9735
-score: 0.49
+score: 7.44
+snippet: Southern Costa Rican highland town with Italian coffee roots and access to
+  Wilson Botanical Gardens
 sources:
 - https://en.wikipedia.org/wiki/San_Vito,_Costa_Rica
 title: San Vito

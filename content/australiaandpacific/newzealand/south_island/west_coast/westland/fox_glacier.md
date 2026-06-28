@@ -12,6 +12,7 @@ story: >
   in the Southern Alps — Fox drains west to the Tasman Sea, Franz Josef drains
   northeast. Both have retreated dramatically since the 19th century; the
   terminal moraine from 1750 is now over 3km from the current ice face.
+score: 9.2
 ---
 
 Fox Glacier is a rare temperate glacier that descends almost to sea level through dense rainforest — an improbable sight of blue ice framed by tree ferns and rata. The terminal face is about a 1-hour return walk from the Fox Glacier village, along a valley floor that the glacier occupied within living memory. The scale of the retreat is visible in the raw grey moraine walls on either side.

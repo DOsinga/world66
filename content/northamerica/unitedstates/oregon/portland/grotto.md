@@ -9,6 +9,7 @@ latitude: 45.5603
 longitude: -122.5812
 story: >
   The Grotto was established in 1924 by the Servite Order — the Order of Friar Servants of Mary — after a priest named Father Ambrose Mayer petitioned the Portland Catholic Archdiocese for permission to build a shrine. The main grotto is carved into a 110-foot basalt cliff face; a marble replica of Michelangelo's Pietà sits at the back of the cave, framed by the rock. The cliff was formed by ancient Columbia River basalt flows.
+score: 7.3
 ---
 
 The Grotto (formally the National Sanctuary of Our Sorrowful Mother) is a 62-acre Catholic shrine and botanical garden in the Northeast Portland neighbourhood of Parkrose, near the airport. The lower level, accessible free of charge, centres on a cave carved into a basalt cliff and contains the marble Pietà replica. Paths wind through rhododendron gardens and meditation chapels among the basalt outcroppings.

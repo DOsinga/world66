@@ -9,6 +9,7 @@ tags:
 - museum
 title: Zwinger
 type: poi
+score: 9.7
 ---
 
 Dresden's most celebrated building, a festive Baroque palace built between 1709 and 1732 by Daniel Pöppelmann for Augustus the Strong. The name means "outer ward" — the complex sits between the old inner and outer city walls. Originally designed for tournaments and court festivities, the Zwinger is a series of pavilions linked by richly decorated arcades around a central courtyard. The gilded Crown Gate is one of the most recognizable landmarks in Germany.

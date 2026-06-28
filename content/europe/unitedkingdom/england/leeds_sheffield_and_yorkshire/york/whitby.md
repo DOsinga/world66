@@ -7,6 +7,7 @@ tags:
 title: Whitby
 type: poi
 snippet: "A dramatic fishing harbour on the northeast coast with a ruined clifftop abbey and strong Dracula connections, 45 miles from York"
+score: 8.7
 ---
 
 Whitby is one of the most compelling day trips from York, 45 miles to the northeast on the North Sea coast. The town sits at the mouth of the River Esk, with the old fishing harbour and the newer West Cliff facing each other across the water. Above the old town, reached by 199 steps, stand the ruins of Whitby Abbey — a 13th-century Benedictine church dissolved by Henry VIII, whose exposed clifftop position has given it a photographic familiarity out of proportion to its actual dimensions. The combination of the abbey ruins, the gothic graveyard, and the harbour below is quite distinctive.

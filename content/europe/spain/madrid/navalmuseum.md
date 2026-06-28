@@ -2,10 +2,13 @@
 address: Paseo del Prado 5
 latitude: 40.417526
 longitude: -3.692381
+score: 8.0
 snippet: Spain's maritime history from Columbus to Trafalgar
 tags:
 - things_to_do
 - museum
+- retiro
+- huertas
 title: Naval Museum
 type: poi
 ---

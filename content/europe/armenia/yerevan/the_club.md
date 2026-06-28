@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 40 Tumanyan Street
+score: 6.2
 ---
 
 A long-running expat and creative-class restaurant-bar in a basement off Tumanyan Street, going since 2002. The menu blends Armenian and international cooking — grilled trout, lavash wraps, hummus, pasta — and the upstairs bar is one of the longer-established places to drink cocktails in the city.

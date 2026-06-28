@@ -12,6 +12,7 @@ story: >
   trunk — appropriate for a museum dedicated to a country whose national
   identity, economy and architecture are all rooted in the boreal forest
   that covers three-quarters of its land area.
+score: 7.8
 ---
 
 Lusto is the Finnish word for an annual growth ring, and the museum lives up to it: this is a place that takes the country's relationship with its forests seriously, from Stone Age tar-burners to modern paper mills. The permanent exhibition runs through the practical, technical, and cultural side of forestry — old logging tools, a sauna built into the gallery, a wall of tree species, photographs of the men who floated logs down the rivers — and rotating exhibitions cover everything from forest art to indigenous Sami land use.

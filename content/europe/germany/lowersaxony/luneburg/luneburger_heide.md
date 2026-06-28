@@ -12,6 +12,7 @@ tags:
 - hiking
 snippet: 7,000 km² of pink-purple heather, juniper and rare Heidschnucke sheep
 story: "The Heide is not a natural wilderness but a thousand-year-old cultural landscape — the result of medieval shepherds clearing the original oak forest to graze the hardy local Heidschnucke sheep. Without the sheep (and the few hundred remaining shepherds who still walk them across the heath), the woods would grow back within a generation. The heather only flowers in August, but it is the floral spectacle of northern Germany when it does."
+score: 7.9
 ---
 
 The Lüneburger Heide is the great heath landscape that gives the city its surrounding identity — a rolling expanse of low pink-purple heather, juniper, sandy hillocks and birch woods, stretching south from Lüneburg almost to Hannover. The core nature reserve, around the Wilseder Berg (the highest point at 169 metres), is car-free and crossed by a network of marked walking and horse-drawn-carriage routes from the village of Undeloh.

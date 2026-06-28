@@ -1,12 +1,14 @@
 ---
-title: Ventura County
-type: location
-latitude: 34.3705
-longitude: -119.1391
 done:
   location_cleanup: 2026-04-06
-score: 0.49
+latitude: 34.3705
 loc_type: region
+longitude: -119.1391
+score: 0.49
+snippet: Southern California county of Pacific beaches, Channel Islands access, agricultural
+  valleys, and Ojai sunsets.
+title: Ventura County
+type: location
 ---
 
 Ventura County sits between Los Angeles and Santa Barbara, and that is precisely why most people drive straight through it. There is no Disneyland, no Sea World, no professional sports team. What there is: sixty miles of coastline, the Channel Islands just offshore, mountains rising behind quiet agricultural valleys, and towns that still feel like themselves rather than extensions of the LA sprawl.

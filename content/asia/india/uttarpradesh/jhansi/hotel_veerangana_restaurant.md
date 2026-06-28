@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.4456
 longitude: 78.5700
+score: 4.8
 ---
 
 Hotel Veerangana's restaurant is one of the more reliable options in the city for travellers who want a proper sit-down meal rather than a dhaba. The kitchen covers North Indian standards well — dal makhani, paneer dishes, breads from the tandoor — and the thali at lunch is good value and gives a solid introduction to Bundeli cooking. Service is attentive without being intrusive.

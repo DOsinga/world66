@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 Graylyn is a sprawling 87-room Norman-revival mansion built between 1927 and 1932 by Bowman Gray, then president of R. J. Reynolds Tobacco. It looks transplanted from rural France — stone turrets, slate roofs, oak-panelled halls, a complete English pub shipped over and reassembled inside.

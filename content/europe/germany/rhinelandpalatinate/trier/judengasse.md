@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Judengasse
 type: poi
+score: 6.8
 ---
 
 Just off the Hauptmarkt, the Judengasse is the remnant of Trier's medieval Jewish quarter — one of the oldest documented Jewish communities in Germany, with records going back to the first or second century. The narrow lane runs between old houses with original medieval cellars; in the pub "Abwärts" you can still see the walled-up entrance to a flight tunnel leading to the Cathedral Close, used as an escape route during pogroms.

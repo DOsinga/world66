@@ -10,6 +10,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Bellevue_Avenue_Historic_District
+score: 9.1
 ---
 
 Bellevue Avenue is the mansion mile of Newport — a two-mile stretch of Gilded Age architecture unmatched anywhere in the United States. The Preservation Society of Newport County manages the most significant properties (The Breakers, Marble House, The Elms, Rosecliff, Chateau-sur-Mer, Kingscote, and others), most of which are open to visitors. Walking south from the town center, the scale of the houses increases as you go: by the time you reach The Breakers at the far end, the cottages have become palaces.

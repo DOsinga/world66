@@ -1,6 +1,7 @@
 ---
+score: 5.6
 title: Sights
-type: poi
+type: section
 url: www.praiadoforte.com
 ---
 

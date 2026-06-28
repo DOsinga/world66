@@ -1,30 +1,16 @@
 ---
-address: Kralja Aleksandra I 131
-email: info@balkanika.rs
-latitude: 44.323634
-longitude: 21.073992
-phone: +381 34 364 737
-title: Nightlife and Entertainment
-type: poi
-url: www.balkanika.rs
+latitude: 44.0128
+loc_type: city
+longitude: 20.9114
+score: 6.8
+snippet: Central Serbian city with princely-era landmarks, industrial history, and
+  the powerful Sumarice memorial park.
+title: Kragujevac
+type: location
 ---
 
-Nightlife, entrainment, bars, pubs...
+Kragujevac is the main city of central Serbia's Sumadija region, a university and industrial city with a heavy place in modern Serbian history. It served as the capital of the Principality of Serbia in the 1810s and 1820s, when the young state was still forming its schools, theatre, and civic institutions.
 
-### BALKANIKA rakija bar
+The city is best understood through that mix of firsts and scars. The old court complex around [Amidza Konak](/europe/serbia/kragujevac/amidza_konak) recalls the early princely capital, while the [First Kragujevac Gymnasium](/europe/serbia/kragujevac/first_kragujevac_gymnasium) and [Princely Serbian Theatre](/europe/serbia/kragujevac/princely_serbian_theatre) point to its cultural role. On the edge of town, [Sumarice Memorial Park](/europe/serbia/kragujevac/sumarice_memorial_park) marks the 1941 massacre of civilians and schoolchildren by German forces, and is the essential visit.
 
-Unique rakija bar in town...
-
-type: Clubs and dancing
-
-
-
-[[rate it]](/europe/serbia/kragujevac/nightlife_and_ente/balkanika_rakija_b)
-
-tel: +381 34 364 737
-
-url: [www.balkanika.rs](http://www.balkanika.rs)
-
-address: Kralja Aleksandra I 131
-
-email: info@balkanika.rs
+Kragujevac is not polished in the way Belgrade or Novi Sad can be, but it rewards travellers interested in Serbia beyond the capital. The centre is walkable, the museum circuit is compact, and the city makes a useful base for exploring Sumadija's monasteries, villages, and wooded hills.

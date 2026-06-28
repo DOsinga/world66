@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 3.5259
+loc_type: feature
 longitude: 36.0743
+score: 7.35
+snippet: Northern Kenyan desert lake, a jade-green alkaline basin edged by volcanoes
+  and fossil beds.
 title: Lake Turkana
 type: location
-score: 0.45
-loc_type: feature
 ---
 
 Lake Turkana is the world's largest permanent desert lake, a 250-kilometre ribbon of jade-green water stretching through the arid volcanic landscape of northern [Kenya](/africa/kenya). The lake has no outlet — it loses water only to evaporation — and its alkaline waters support enormous Nile crocodile and Nile perch populations. The surrounding terrain is some of the most dramatic and desolate in East Africa: black lava fields, extinct volcanoes, and shores littered with petrified wood.

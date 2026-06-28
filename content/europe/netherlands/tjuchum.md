@@ -4,7 +4,9 @@ done:
 latitude: 53.309
 loc_type: city
 longitude: 6.905
-score: 0.25
+score: 4.63
+snippet: Tiny Groningen village known for an incongruous Lenin statue standing in
+  a private garden.
 title: Tjuchem
 type: location
 ---

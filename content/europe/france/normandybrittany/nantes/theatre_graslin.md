@@ -9,6 +9,7 @@ latitude: 47.21361
 longitude: -1.5622
 sources:
   - https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_Graslin
+score: 7.2
 ---
 
 The Théâtre Graslin is an elegant neoclassical opera house from 1788 that anchors the Graslin quarter of the city, facing a handsome square lined with cafés and restaurants. It was one of the first purpose-built opera houses in France and its façade, with eight Corinthian columns, is one of the best examples of late 18th-century civic architecture in Nantes.

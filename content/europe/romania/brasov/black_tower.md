@@ -7,6 +7,7 @@ snippet: Squat watchtower below Mount Warthe, named for a 1559 lightning strike
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 The Turnul Negru is the smaller cousin of the White Tower — a chunky stone watchtower on a rocky outcrop just above the city walls. It was built in 1494 and acquired its name in 1559 when a lightning strike set it ablaze and blackened the masonry. A glass pyramid roof was added in 2001.

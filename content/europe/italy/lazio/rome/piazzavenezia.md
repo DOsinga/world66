@@ -5,12 +5,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.8963
 longitude: 12.4823
+score: 7.3
 snippet: Rome's monumental crossroads with panoramic rooftop views
 tags:
 - things_to_do
 - palace
 - monument
 - square
+- pantheon_navona
 title: Piazza Venezia & the Vittoriano
 type: poi
 ---

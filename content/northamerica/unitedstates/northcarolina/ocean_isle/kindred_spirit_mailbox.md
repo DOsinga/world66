@@ -8,6 +8,7 @@ latitude: 33.8839
 longitude: -78.4710
 sources:
   - https://en.wikipedia.org/wiki/Bird_Island_Reserve
+score: 7.8
 ---
 
 The Kindred Spirit Mailbox is a wooden mailbox mounted on a post near the western end of Bird Island, reachable only after a 1.5-mile walk along the beach from the Ocean Isle Beach access. Inside are notebooks, pens, and decades of entries from visitors — poems, confessions, love letters, grief, and gratitude written by strangers who made the walk.

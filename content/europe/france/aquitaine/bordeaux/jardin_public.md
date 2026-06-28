@@ -7,6 +7,7 @@ tags:
 latitude: 44.8490
 longitude: -0.5743
 snippet: 18th-century public garden in the Chartrons quarter, with a natural history museum and a bandstand
+score: 7.8
 ---
 
 The Jardin Public is Bordeaux's main public park, laid out in the 1750s and redesigned in the English landscape style in the 19th century. It covers ten hectares in the Chartrons quarter with formal allées, a lake, a puppet theatre, a botanical garden with over 3,000 species, and the Natural History Museum in a neoclassical building at the edge of the park.

@@ -6,11 +6,13 @@ done:
 latitude: 41.8892
 longitude: 12.4875
 opening_hours: Daily from 09:00; closing varies by season (17:00–19:30)
+score: 9.0
 snippet: Legendary founding hill of Rome with imperial palace ruins
 tags:
 - 3 Days in Rome
 - things_to_do
 - palace
+- campo_de_fiori
 title: Palatine Hill
 type: poi
 ---

@@ -13,6 +13,7 @@ story: >
   surrounded by guards at all times. The position rotated continuously among the noble families of Ragusa — it
   was more of a civic obligation than an honour, and the ceremonies of office were deliberately humbling to
   prevent any individual from accumulating too much power.
+score: 8.8
 ---
 
 The Rector's Palace served as the seat of government for the Republic of Ragusa from the 14th century until Napoleon abolished the republic in 1808. The building blends Gothic, Renaissance, and Baroque elements — the result of multiple reconstructions after gunpowder explosions in 1463 and 1435 and earthquake damage in 1667. The carved capitals on the external loggia are particularly fine.

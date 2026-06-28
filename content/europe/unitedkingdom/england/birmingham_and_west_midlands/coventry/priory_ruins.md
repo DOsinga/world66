@@ -7,6 +7,7 @@ tags:
 - landmark
 title: St Mary's Priory Ruins
 type: poi
+score: 7.5
 ---
 
 Tucked behind the cathedral on Priory Row, the ruins of the Benedictine priory of St Mary are easy to miss and worth finding. The priory was founded in 1043, predating the Norman Conquest, and grew into one of the wealthiest monasteries in England before Henry VIII dissolved it in 1539. What remains are fragments of walls, some with their original stonework intact, set around a garden where the cloister once stood.

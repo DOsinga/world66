@@ -7,6 +7,7 @@ tags:
 - museum
 title: Te Manawa Museum
 type: poi
+score: 7.3
 ---
 
 Te Manawa is Palmerston North's main cultural institution, combining an art gallery, a regional history museum, and a science centre under one roof. The building was purpose-designed in the 1990s and sits in the centre of the city, a short walk from The Square.

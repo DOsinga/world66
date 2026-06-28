@@ -11,6 +11,7 @@ tags:
 title: Osteria della Brughiera
 type: poi
 url: www.acena.it
+score: 6.6
 ---
 
 Omly a few minutes out of town for this beautiful restaurant with Tuscan/Parma style food. Reservations are necessary and there is plenty of time for you to enjoy your meal. Indoor and outdoor eating and each table has an individual flower arrangement. Closed from 1 to 7 January, 10 to 31 August, Monday and Tuesday at noon.

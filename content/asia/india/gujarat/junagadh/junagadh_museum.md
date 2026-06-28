@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 21.5155
 longitude: 70.4626
+score: 6.7
 ---
 
 The Junagadh Museum is housed inside the zoo grounds — an unusual arrangement that means you enter past animal enclosures to reach the collection. The museum has sections on natural history (including stuffed specimens of local wildlife), local archaeology, and the Nawabi era: furniture, weapons, paintings, and an impressive collection of Persian and Sanskrit inscriptions from the Saurashtra region.

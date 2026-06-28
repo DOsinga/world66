@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 49.9450
 longitude: 82.6280
+score: 5.8
 ---
 
 The city was established as a Russian military fort in 1720, one of a chain of fortifications built along the Irtysh to mark and defend the southern frontier of the Russian Empire. Little of the original structure survives — the city grew over and around it — but a monument and some reconstructed sections of the old palisade near the city centre mark the site of the original fortress.

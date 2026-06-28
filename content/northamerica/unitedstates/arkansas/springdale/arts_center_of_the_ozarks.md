@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.1870
 longitude: -94.1294
+score: 6.4
 ---
 
 The Arts Center of the Ozarks is Springdale's main venue for theatre productions, gallery exhibitions, and performing arts events. The centre hosts a busy season of community and professional theatre, visual arts exhibitions from regional artists, and occasional touring productions.

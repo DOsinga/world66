@@ -5,7 +5,9 @@ done:
 latitude: 34.8589
 loc_type: city
 longitude: 35.8564
-score: 0.45
+score: 6.18
+snippet: Inhabited Syrian island off Tartus, layered with Phoenician, Roman, and Crusader
+  traces
 title: Arwad Island
 type: location
 ---

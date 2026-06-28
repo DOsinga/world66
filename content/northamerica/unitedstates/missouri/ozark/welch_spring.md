@@ -14,6 +14,7 @@ story: >
   came, the doctor died, the building was abandoned, and the cave reverted
   to bats and roof drips. Most of his medical thinking has not aged well, but
   the air inside the cave is, in fact, unusually clean.
+score: 7.6
 ---
 
 The Welch Spring ruins are reached on foot — about a mile and a half from the parking area at Akers Ferry, on a flat trail that follows the Current River. The hospital is a roofless rectangle of stone with its window openings still intact, standing on a flat above the spring. Behind the building, the spring runs out of a cave mouth that disappears into the bluff.

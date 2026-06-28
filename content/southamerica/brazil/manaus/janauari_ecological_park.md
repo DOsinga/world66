@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: -3.2244
 longitude: -59.9344
+score: 8.1
 ---
 
 The Parque Ecológico do Janauari is the closest piece of proper igapó (flooded forest) to the city — a 9,000-hectare reserve about 15 km south of the centre, on the southern bank of the Rio Negro near the Meeting of the Waters. Most jungle day-tours include a stop here, either by motorised canoe through narrow channels at high water or on a wooden boardwalk over the flood plain.

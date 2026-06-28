@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 65.6804
 longitude: -18.0919
+score: 7.3
 ---
 
 Listasafnið á Akureyri — the Akureyri Art Museum — occupies a building on Kaupvangsstræti in the centre of town and focuses on contemporary Icelandic art with an emphasis on artists from the north of the country. Founded in 1993, it runs a programme of temporary exhibitions rather than maintaining a permanent collection, so what you see depends entirely on when you visit.

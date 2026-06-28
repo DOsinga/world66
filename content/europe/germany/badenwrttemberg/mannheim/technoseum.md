@@ -14,6 +14,7 @@ tags:
 - museum
 title: TECHNOSEUM
 type: poi
+score: 8.3
 ---
 
 The state museum for technology and labour in Baden-Württemberg, housed in a former tram depot. The permanent exhibition covers the industrial history of the Rhine-Neckar region with actual machines — steam engines, printing presses, early automobiles — in working condition. A replica of Karl Benz's 1885 Patent Motorwagen sits here; the original is in the Deutsche Museum in Munich, but this gives a sense of how modest the first petrol car actually was.

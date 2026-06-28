@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 21.5520
 longitude: 39.1680
+score: 4.8
 ---
 
 A long-established Lebanese restaurant off Tahliah Street, with a comfortable interior and a sequence of cold and hot mezze that does justice to the country it comes from. The hummus, the tabbouleh, the fattoush, and the kibbeh are all worth ordering; the mixed grill that follows is excellent.

@@ -1,7 +1,11 @@
 ---
+latitude: 50.929389
+longitude: 6.889389
+score: 5.8
 tags:
 - things_to_do
-- landmark
+- sight
+- park
 title: Nature Rambles
 type: poi
 ---

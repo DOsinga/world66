@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Troja Chateau
 type: poi
+score: 7.7
 ---
 
 The Troja Chateau, built between 1679 and 1691 for the Šternberk family as a summer residence outside Prague, is the finest baroque country house in the city's surroundings. The exterior staircase, flanked by Titans wrestling with giants, is remarkable; the main hall inside is covered from floor to ceiling with frescoes glorifying the Habsburg dynasty.

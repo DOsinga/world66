@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Anand_Bhawan,_Cuttack.jpg
 latitude: 20.4686
 loc_type: city
 longitude: 85.8792
-score: 0.37
+score: 6.34
+snippet: Historic Odisha city in the Mahanadi delta, known for silver filigree, street
+  food, and Barabati Fort.
 title: Cuttack
 type: location
 ---

@@ -10,6 +10,7 @@ longitude: 73.5135
 snippet: "Memorial to the 2004 Indian Ocean tsunami, on the east waterfront"
 story: >
   Eighty-two Maldivians were killed by the 2004 tsunami and a third of the country's inhabited islands suffered serious damage. The monument's stainless-steel spheres represent the 20 atolls of the Maldives, and the curving steel columns the surge of the wave itself.
+score: 5.1
 ---
 
 The Tsunami Monument stands on the seafront near the Artificial Beach, commemorating the 82 Maldivians killed and the tens of thousands left homeless by the December 2004 Indian Ocean tsunami. The Maldives, with no point of land more than two and a half metres above sea level, lost a third of its national income that morning. The monument is a cluster of stainless-steel rods rising from a low platform, with name plates set into the surrounding paving.

@@ -1,9 +1,7 @@
 ---
 address: India
-latitude: 22.351115
-longitude: 78.667743
 title: Practical Information
-type: poi
+type: section
 url: www.theincredibleindiatravel.com
 ---
 

@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 31.1372
 longitude: 97.1775
+score: 5.3
 ---
 
 In October 1950, Chamdo was the site of the decisive military action that ended Tibet's brief period of independence. A PLA force of some 40,000 soldiers crossed the Drichu River at multiple points and overwhelmed the Tibetan garrison of around 8,500 men in less than two weeks of fighting. The battle effectively ended organized Tibetan military resistance and forced Lhasa into the negotiations that produced the Seventeen Point Agreement the following year.

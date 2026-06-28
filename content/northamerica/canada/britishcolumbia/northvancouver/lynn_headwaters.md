@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 49.3733
 longitude: -123.0297
+score: 8.1
 ---
 
 Lynn Headwaters is the 4,685-hectare regional park immediately upstream of Lynn Canyon, covering the upper Lynn Creek watershed and the lower slopes of Lynn Peak, Coliseum Mountain, and the Cathedral massif. It is significantly wilder than Lynn Canyon or Capilano: no admission, no bridges over the creek, very limited cell signal, and bears are routinely sighted on the trails.

@@ -1,11 +1,12 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+score: 5.0
 snippet: Hop-on hop-off backpacker bus with a reputation as New Zealand's party network
 tags:
 - getting_around
 title: Kiwi Experience
-type: poi
+type: theme
 url: https://www.kiwiexperience.co.nz
 ---
 

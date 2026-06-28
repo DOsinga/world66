@@ -1,17 +1,20 @@
 ---
-title: Science Museum
-type: poi
-snippet: From Stephenson's Rocket to Apollo 10's command module, the history of how we built the modern world
-tags:
-  - things_to_do
-  - museum
-  - sight
-  - free
-latitude: 51.4978
-longitude: -0.1745
 address: Exhibition Road, South Kensington, London SW7 2DD
 admission: Free (some special exhibitions and IMAX charged)
+latitude: 51.4978
+longitude: -0.1745
 opening_hours: Daily 10am-6pm
+score: 8.8
+snippet: From Stephenson's Rocket to Apollo 10's command module, the history of how
+  we built the modern world
+tags:
+- things_to_do
+- museum
+- sight
+- free
+- south_kensington
+title: Science Museum
+type: poi
 url: www.sciencemuseum.org.uk
 ---
 

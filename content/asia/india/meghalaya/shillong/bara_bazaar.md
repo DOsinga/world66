@@ -14,6 +14,7 @@ story: >
   women. Stalls pass from mother to daughter under the matrilineal
   inheritance system, and the senior traders — called Kongs — still
   hold informal court at the entrance to the meat hall.
+score: 8.6
 ---
 
 Known officially as Iewduh and to everyone as Bara Bazaar, this is the heart of indigenous commerce in Shillong: a sprawling, mostly women-run market that has been operating in roughly its present form since the 1800s. Stalls sell betel nut wrapped in pan leaves, smoked pork and dried fish from the Khasi Hills, baskets, hand-woven jainsem cloth, and great mounds of orange chillies.

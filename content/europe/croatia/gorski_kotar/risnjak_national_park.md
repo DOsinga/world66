@@ -8,6 +8,7 @@ latitude: 45.4283
 longitude: 14.7450
 story: >
   The park takes its name from the ris — the lynx — which still lives in these forests. Lynx were hunted to extinction in Croatia by the 1900s, and the population here was only re-established in 1974 when three pairs were reintroduced from Slovakia. Their descendants now range across the entire Dinaric Arc. You are extremely unlikely to see one, but knowing they are there changes a walk in these forests.
+score: 8.7
 ---
 
 Risnjak National Park covers 64 square kilometres of primeval beech and fir forest in the heart of Gorski Kotar. The central summit, Veliki Risnjak, rises to 1528 metres and offers panoramic views that stretch on clear days to the Adriatic in one direction and the Julian Alps in the other.

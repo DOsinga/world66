@@ -6,6 +6,7 @@ longitude: 3.0756
 tags:
   - things_to_do
   - museum
+score: 7.9
 ---
 
 The National Museum of Fine Arts (Musée National des Beaux-Arts) is the largest art museum in Algeria and one of the most important in North Africa. The collection includes French academic paintings from the colonial period alongside Orientalist works, Algerian modern art, and a good section of European old masters — the latter reflecting the French-administered accumulation of artworks during the colonial era.

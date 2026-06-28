@@ -6,6 +6,7 @@ tags:
 - sight
 title: Brancaster Beach
 type: poi
+score: 9.0
 ---
 
 Brancaster Beach is one of the great Norfolk beaches — wide, flat, backed by dunes, and at low tide almost impossibly expansive. The sand stretches for miles in either direction with nothing much to interrupt it, and the sky above the North Sea is huge in a way that rewards simply standing and looking.

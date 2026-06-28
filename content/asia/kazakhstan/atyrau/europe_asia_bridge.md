@@ -14,6 +14,7 @@ story: >
   mountains and their river as the continental divide. In Atyrau, a sign on the
   bridge marks the exact point where you cross from one continent to the other
   — a fact that many visitors find more meaningful than they expect.
+score: 6.4
 ---
 
 Atyrau's main bridge over the Ural River marks the official boundary between Europe and Asia. The city sits on both sides of this continental divide — the old settlement (formerly called Guriev) on the European bank, the newer development on the Asian side. Walking across the bridge is the most straightforward way to stand in two continents at once.

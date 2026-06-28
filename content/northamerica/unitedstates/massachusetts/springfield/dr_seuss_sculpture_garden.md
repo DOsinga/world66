@@ -13,6 +13,7 @@ story: >
   the outlandish creatures that populate his books. The zoo still operates in
   Forest Park, and the connection to his childhood imagination is unexpectedly
   believable when you see the animals there.
+score: 6.4
 ---
 
 The Dr. Seuss National Memorial Sculpture Garden in the Quadrangle district honours Springfield's most beloved son — Theodor Seuss Geisel, who grew up here and went on to create some of the most influential children's books ever written. The garden contains five bronze sculptures by Lark Grey Dimond-Cappa depicting the most famous Seuss characters: the Cat in the Hat, Horton, the Lorax, the Grinch, and the author himself, shown reading to the Cat.

@@ -6,6 +6,7 @@ longitude: 8.2456
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The Bowling Green is the great formal lawn that fronts the Kurhaus, a long rectangular plaza framed by two colonnaded buildings and ending at the casino's grand portico. It was laid out in the early 19th century to imitate the English aristocratic landscape style — though no one ever actually played bowls here. Today it is the city's main outdoor venue, used for concerts, the Christmas market, the Wine Festival, and Sunday afternoon strolls.

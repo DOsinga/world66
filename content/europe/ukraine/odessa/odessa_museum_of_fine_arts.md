@@ -7,6 +7,7 @@ tags:
 - museum
 title: Odessa Museum of Fine Arts
 type: poi
+score: 8.0
 ---
 
 The Odessa Museum of Fine Arts occupies the Pototsky Palace on Sofiyivska Street, one of the finest 19th-century buildings in the city. Founded in 1899, it is the oldest art museum in Ukraine and holds a significant collection of Russian and Ukrainian paintings from the 18th to 20th centuries, including works by Aivazovsky, Repin, and several Odessa-born painters of the late Soviet period.

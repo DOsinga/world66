@@ -11,6 +11,7 @@ story: >
   the few traditional salt operations still functioning in Portugal, producing sea salt by solar
   evaporation in low flat pans — the same method used two thousand years ago. The salt crystals
   that form on the surface in summer are harvested by hand using wooden rakes, just as they always were.
+score: 7.5
 ---
 
 The Reserva Natural do Sapal de Castro Marim is a protected wetland that covers the salt pans, marshes, and mudflats behind the coast near Praia Verde and Castro Marim. It is one of the most important bird habitats in the eastern Algarve, hosting significant populations of flamingos, spoonbills, herons, egrets, and various wading birds year-round. During spring and autumn migration, the numbers swell considerably.

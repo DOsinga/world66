@@ -14,6 +14,7 @@ story: >
   terrain was too rugged to build on. The city's best accident.
 sources:
   - https://en.wikipedia.org/wiki/Edmonton_river_valley
+score: 8.7
 ---
 
 The North Saskatchewan River Valley is North America's largest urban parkland — a continuous ribbon of green space, trails, and ravines cutting through the heart of Edmonton. The valley is roughly 7,400 hectares, containing over 160 kilometres of trails for walking, cycling, and cross-country skiing in winter.

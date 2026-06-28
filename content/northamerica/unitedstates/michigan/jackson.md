@@ -5,7 +5,9 @@ done:
 latitude: 42.2458
 loc_type: city
 longitude: -84.4013
-score: 0.35
+score: 5.49
+snippet: Central Michigan city with railroad heritage, Republican Party history, and
+  a preserved 19th-century depot.
 title: Jackson
 type: location
 ---

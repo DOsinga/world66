@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Riyue.jpg
 latitude: 18.2911
 loc_type: feature
 longitude: 109.3472
+score: 7.56
+snippet: Rocky Hainan beach of exile-era poetry, marked by cliff inscriptions at China's
+  imagined edge.
 sources:
 - https://en.wikipedia.org/wiki/Tianya_Haijiao
 title: Tianyahaijiao

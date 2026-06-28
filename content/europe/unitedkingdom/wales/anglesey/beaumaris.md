@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beaumaris_Castle_(80742432
 latitude: 53.2648
 loc_type: city
 longitude: -4.0898
-score: 0.55
+score: 8.1
+snippet: Welsh seaside town on the Menai Strait, anchored by Edward I's unfinished
+  concentric castle.
 title: Beaumaris
 type: location
 ---

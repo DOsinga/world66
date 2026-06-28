@@ -7,12 +7,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Galleria_borghese_facade.j
 latitude: 41.9138
 longitude: 12.4921
 opening_hours: Tue–Sun 09:00–19:00; closed Mon
+score: 9.4
+snippet: Bernini sculptures and Caravaggio paintings in a park villa
 tags:
 - 3 Days in Rome
 - things_to_do
 - museum
 - park
-snippet: "Bernini sculptures and Caravaggio paintings in a park villa"
+- parioli
 title: Galleria Borghese
 type: poi
 url: www.galleriaborghese.it

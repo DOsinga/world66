@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.8925
 longitude: 121.5608
+score: 7.1
 ---
 
 The Jiangbei district on the north bank of the Yong River was Ningbo's foreign concession area from 1844 and preserves a compact cluster of late nineteenth and early twentieth century commercial buildings — a customs house, trading firms, warehouses, and the residences of foreign merchants. The neighbourhood is Ningbo's equivalent of Shanghai's Bund but on a more human scale, and the streets behind the main riverfront have a layer of subsequent Chinese commercial development that gives the area more texture than a purely colonial preservation exercise.

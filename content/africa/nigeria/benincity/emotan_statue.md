@@ -8,6 +8,7 @@ latitude: 6.3360
 longitude: 5.6218
 snippet: Public statue honoring Benin's revered 15th-century market woman and royal protector
 story: "By tradition, anyone conducting a public ceremony in Benin City — including the Oba himself — must first pay homage at the Emotan statue before proceeding. This custom has been observed continuously for over five centuries."
+score: 6.3
 ---
 
 The Emotan Statue stands at the heart of the old market area, on the spot where the real Emotan is said to have sold her goods in the 15th century. Emotan was a market trader who repeatedly warned the Edo king, Oba Ewuare the Great, of plots against his life and safety. She became a figure of loyalty, courage, and protection — the city's patron saint in all but name.

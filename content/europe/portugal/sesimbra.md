@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Sesimbra,_Port
 latitude: 38.4437
 loc_type: city
 longitude: -9.0996
+score: 8.49
+snippet: Atlantic fishing town south of Lisbon, set below Serra da Arrábida cliffs
+  around a half-moon beach and working harbour.
 sources:
 - https://en.wikipedia.org/wiki/Sesimbra
 title: Sesimbra

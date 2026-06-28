@@ -8,6 +8,7 @@ title: Lake Tagimaucia
 type: poi
 story: >
   The tagimaucia flower (Medinilla waterhousei) grows wild only here and nowhere else on earth. It is a deep red and white flowering vine that drapes from the trees and floats on the lake surface on tangled mats. Local legend says it grew from the tears of a princess. It is Fiji's national flower.
+score: 8.4
 ---
 
 Lake Tagimaucia sits in a volcanic crater at about 800 metres elevation in the heart of Taveuni, surrounded by dense cloud forest. The lake is the habitat of the tagimaucia flower — Fiji's national flower and a plant found nowhere else in the world. The flowering season is typically from October through December, when the red and white blooms hang over the water in spectacular masses.

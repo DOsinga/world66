@@ -5,6 +5,7 @@ snippet: Long-running central restaurant with reliable casados, soups and Costa 
 tags: [eating_out, restaurant, costa_rican]
 latitude: 10.3145
 longitude: -84.8210
+score: 5.5
 ---
 
 A long-standing favourite right on the main road through Santa Elena, Morpho's serves the kind of straightforward Costa Rican food the area does well. Casados — the standard plate of rice, beans, salad, fried plantain and a protein — are large and good. The black bean soup and tortilla soup are reliably warming on a cool, misty evening.

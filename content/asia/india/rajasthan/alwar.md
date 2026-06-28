@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Oasis_near_Alwar_2.jpg
 latitude: 27.553
 loc_type: city
 longitude: 76.6346
-score: 0.49
+score: 7.54
+snippet: Old Rajasthani city beneath Bala Quila, used as the base for Sariska Tiger
+  Reserve
 title: Alwar
 type: location
 ---

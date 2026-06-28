@@ -15,6 +15,7 @@ story: >
   yo-yoing between the Premier League and the Championship through the 2000s
   and 2010s entirely intact, resisting the pressure to relocate that displaced
   many of their rivals.
+score: 6.3
 ---
 
 The Hawthorns is the home ground of West Bromwich Albion Football Club, known as the Baggies, and it holds a particular distinction: it is the highest football ground above sea level in the entire Football League, sitting at 168 metres. The ground has occupied the same site since 1900 and has seen various redevelopments while retaining its position in a residential area between West Bromwich and Handsworth.

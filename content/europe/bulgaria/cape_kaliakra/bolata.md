@@ -7,6 +7,7 @@ tags:
 latitude: 43.3819
 longitude: 28.4708
 story: "Bolata Cove is the only place along this stretch of cliff where the rock gives way to a beach. The Romans cut a small harbour into the side of the gorge here, and the foundations of an early Christian basilica are still visible above the sand."
+score: 7.8
 ---
 
 Bolata is a small, dramatic cove tucked into the cliffs about 3 km north of Cape Kaliakra. A narrow river runs down a steep ravine to a crescent of sand at the head of the bay — protected as a nature reserve for both its archaeological remains and its rare seabird colonies.

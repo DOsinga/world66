@@ -1,16 +1,22 @@
 ---
+latitude: 45.433
+longitude: 12.349
+score: 7.7
+snippet: Venice's medieval shipyard — the largest industrial complex in the pre-modern
+  world
+story: 'At its peak in the 15th and 16th centuries, the Arsenale could produce a complete
+  warship in a day. The operation was essentially an industrial assembly line — one
+  of the earliest in the world — with galleys moving through a sequence of workshops,
+  each adding a component. When Henry III of France visited in 1574, the shipwrights
+  built and launched a galley during the banquet held in his honour.
+
+  '
+tags:
+- things_to_do
+- castello
+- sight
 title: Arsenale di Venezia
 type: poi
-tags:
-  - things_to_do
-  - castello
-  - sight
-latitude: 45.4330
-longitude: 12.3490
-snippet: "Venice's medieval shipyard — the largest industrial complex in the pre-modern world"
-neighbourhood: Castello
-story: >
-  At its peak in the 15th and 16th centuries, the Arsenale could produce a complete warship in a day. The operation was essentially an industrial assembly line — one of the earliest in the world — with galleys moving through a sequence of workshops, each adding a component. When Henry III of France visited in 1574, the shipwrights built and launched a galley during the banquet held in his honour.
 ---
 
 The Arsenale was the great engine of Venetian power — a shipyard and military complex covering 46 hectares that built and maintained the fleet that made Venice a Mediterranean superpower for three centuries. At its height it employed 16,000 workers (the arsenalotti) and was the largest industrial complex in the pre-modern world.

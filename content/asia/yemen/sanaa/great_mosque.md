@@ -13,6 +13,7 @@ story: >
   manuscripts hidden between the inner and outer ceilings — including parchment fragments
   dated by radiocarbon to the seventh century, among the oldest known. The find has
   reshaped scholarship on the early textual history of the Quran.
+score: 8.4
 ---
 
 One of the oldest mosques in the world, said to have been founded in the lifetime of the Prophet Muhammad. Non-Muslims are not permitted inside, but the exterior — and the sight of the minarets rising above the old city roofscape — is part of any walk through the old quarter. The Friday market held nearby draws traders from across the region.

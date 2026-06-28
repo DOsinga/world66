@@ -10,6 +10,7 @@ story: >
   orange colour comes from iron oxide in the sand, and it deepens at sunrise
   and sunset to something approaching red. At over 150 metres, the highest
   dunes here are among the tallest in North Africa.
+score: 9.1
 ---
 
 The dunes begin almost at the edge of Khamlia, which gives the village an advantage over the busier resort strip around Merzouga: you can walk straight in from the village rather than having to negotiate quad bikes and camel touts. The dunes are enormous — walking from the base to the crest of the main ridge takes a fit person around 45 minutes, and the view from the top extends to Algeria on a clear day. Go at dawn if you can manage it; the light is extraordinary, the air is cool, and the footprints from the previous day have already been erased by overnight wind.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chambal-river-gorge.jpg
 latitude: 25.2138
 loc_type: city
 longitude: 75.8648
-score: 0.38
+score: 6.26
+snippet: Chambal River industrial city known for coaching schools, palace sights,
+  and nearby gharial waters.
 title: Kota
 type: location
 ---

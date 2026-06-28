@@ -6,11 +6,12 @@ done:
 latitude: 45.4371
 longitude: 12.3269
 opening_hours: Mon–Sat 09:00–18:00; Sun 13:00–18:00
+score: 9.4
 snippet: Gothic church with Titian's Assumption and Bellini triptych
-neighbourhood: San Polo
 tags:
 - things_to_do
 - church
+- san_polo
 title: Basilica dei Frari
 type: poi
 ---

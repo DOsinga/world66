@@ -9,6 +9,7 @@ latitude: 33.95889
 longitude: -83.38111
 sources:
   - https://en.wikipedia.org/wiki/Creature_Comforts_Brewing_Co.
+score: 7.0
 ---
 
 Creature Comforts is the brewery that put Athens on the craft beer map beyond its own city limits. Their Tropicalia IPA became a regional sensation and is now distributed well outside Georgia. The taproom on Broad Street is one of the better places in town to drink — comfortable, unpretentious, and with a solid selection of year-round and seasonal beers on tap.

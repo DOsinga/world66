@@ -8,6 +8,7 @@ latitude: 45.5547
 longitude: 18.6958
 snippet: "Monument to a defiant act during the 1991 siege — a Fiat 600 on a pedestal in the city centre"
 story: "During the Yugoslav siege of Osijek in 1991, a young man named Krešimir Buntić drove his red Fiat 600 (a Fićo) through the city streets every day despite the shelling, defiantly treating normal life as normal. The car became a symbol of resistance; after the war it was mounted on a pedestal and became one of Osijek's most distinctive monuments."
+score: 6.4
 ---
 
 The Red Fićo is one of the strangest and most touching war monuments in Croatia. A red Fiat 600 — the ubiquitous Yugoslav compact car known as a Fićo — sits on a pedestal near the city centre, a tribute to a small but famous act of defiance during the 1991–92 Yugoslav siege of Osijek.

@@ -1,17 +1,25 @@
 ---
-title: "Royal Castle"
-type: poi
-tags:
-  - things_to_do
-  - old_town
-  - sight
-  - museum
 latitude: 52.2478
 longitude: 21.0142
-snippet: "Magnificent royal residence overlooking Castle Square, rebuilt after wartime destruction"
-story: "The Royal Castle was deliberately blown up by German engineers in December 1944 after the Warsaw Uprising. Polish citizens risked their lives to hide artworks and architectural elements in the rubble before the demolition — a decision that made the post-war reconstruction possible. The rebuilt castle, completed in 1984, contains the original Canaletto Room paintings that served as blueprints for restoring the entire city."
+score: 9.0
+snippet: Magnificent royal residence overlooking Castle Square, rebuilt after wartime
+  destruction
 sources:
-  - https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw
+- https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw
+story: The Royal Castle was deliberately blown up by German engineers in December
+  1944 after the Warsaw Uprising. Polish citizens risked their lives to hide artworks
+  and architectural elements in the rubble before the demolition — a decision that
+  made the post-war reconstruction possible. The rebuilt castle, completed in 1984,
+  contains the original Canaletto Room paintings that served as blueprints for restoring
+  the entire city.
+tags:
+- things_to_do
+- old_town_district
+- old_town
+- sight
+- museum
+title: Royal Castle
+type: poi
 ---
 
 The Royal Castle on Castle Square was the official residence of the Polish monarchs and seat of the Polish parliament for centuries. Completely destroyed by the Nazis after the 1944 Uprising, it was rebuilt between 1971 and 1984 using private donations from Polish citizens. The reconstruction is a remarkable achievement: the interior contains original furnishings, paintings, and decorative elements that were saved and hidden before the Germans demolished the building.

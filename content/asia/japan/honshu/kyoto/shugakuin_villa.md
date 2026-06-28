@@ -1,12 +1,15 @@
 ---
 latitude: 35.0526
 longitude: 135.7991
-snippet: 17th-century imperial mountain villa in the north-east hills, with three terraced gardens
+score: 8.6
+snippet: 17th-century imperial mountain villa in the north-east hills, with three
+  terraced gardens
 tags:
 - things_to_do
 - villa
 - garden
 - sight
+- philosophers_walk
 title: Shūgakuin Imperial Villa
 type: poi
 ---

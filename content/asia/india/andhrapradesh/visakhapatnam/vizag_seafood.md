@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.7200
 longitude: 83.3100
+score: 7.2
 ---
 
 Vizag's cuisine is Andhra coastal — spicier and more tamarind-forward than any other regional cuisine in India. The local fish curry uses a paste of dried red chilies, tamarind, and coriander that is particular to the coast; the prawn fry with curry leaves and green chilies is the dish locals recommend to first-time visitors.

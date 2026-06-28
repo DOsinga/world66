@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The lake at the edge of downtown Warsaw, busy with boats in summer"
+score: 6.4
 ---
 
 Center Lake lies directly alongside the western edge of downtown Warsaw and is the most accessible of the town's hundred-plus lakes. In summer it is busy with motorboats, paddleboards, and canoes, and the lakeside park hosts outdoor concerts and community events. The park has a beach and picnic areas, and the setting — water right at the edge of an active small-city downtown — is genuinely pleasant.

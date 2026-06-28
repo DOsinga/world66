@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.9244
 longitude: 24.7134
+score: 7.4
 ---
 
 The seat of the Potocki family who founded Stanisławów in 1662 — a long, single-storey, two-winged baroque palace north of the Market Square. The Potockis lost it in the partitions of Poland; under the Habsburgs it served as a barracks, then as a military hospital under the Russians, the Austrians, the Soviets and the independent Ukrainian army in turn.

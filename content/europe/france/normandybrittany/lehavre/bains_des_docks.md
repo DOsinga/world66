@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Les Bains des Docks
 type: poi
+score: 5.9
 ---
 
 Les Bains des Docks is an indoor aquatic complex designed by the architect Jean Nouvel and opened in 2008 in the regenerated dock area of Le Havre. The building is a sequence of white-tiled cubes and pools of varying depths, including a competition-standard 50-metre pool, a leisure pool, and a wellness area with saunas and steam rooms. The architecture is part of the attraction: the interior feels somewhere between a Roman bath and a contemporary art installation.

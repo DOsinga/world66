@@ -9,6 +9,7 @@ latitude: 36.2672
 longitude: -6.0820
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 6.2
 ---
 
 Fuente del Gallo lies south of the old town, about 1 km from the centre along the cliff road, backed by low sandstone cliffs that provide a natural windbreak. The beach itself is wide and the sand is slightly finer here than at Bateles. It is popular with families and slightly calmer in atmosphere than the main town beach.

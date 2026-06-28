@@ -1,8 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+latitude: 42.95191
 loc_type: region
+longitude: -5.48402
 score: 0.59
+snippet: Green Atlantic Spanish region of Camino cities, mountain coasts, Basque culture,
+  and serious food
 title: Northern Spain
 type: location
 ---

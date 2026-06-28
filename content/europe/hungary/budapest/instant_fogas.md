@@ -1,12 +1,13 @@
 ---
 address: Akácfa utca 49-51
 latitude: 47.5031
-longitude: 19.0620
+longitude: 19.062
+score: 7.0
 tags:
 - bars_and_cafes
 - bar
 - club
-- erzsebetvaros
+- jewish_quarter
 title: Instant-Fogas
 type: poi
 ---

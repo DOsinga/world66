@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - gornji_grad
+score: 5.7
 ---
 
 A single-room bar on Tkalčićeva specialising in *rakija* — the fruit brandy that is the standard Croatian aperitif and digestif. The shelves hold around seventy bottles, from the standard *šljivovica* (plum) and *travarica* (herb) to the more obscure: walnut, fig, rose, blueberry, even bay leaf. The staff will steer you through small tasters before you commit.

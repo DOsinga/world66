@@ -9,6 +9,7 @@ title: Pharaonic Village
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Pharaonic_Village
+score: 4.9
 ---
 
 The Pharaonic Village occupies a small island in the Nile in southern Giza and bills itself as a living museum of ancient Egyptian life. Visitors take boat tours past tableaux of costumed actors demonstrating ancient crafts, farming, religious rituals, and trades — papyrus-making, pottery, bread-baking, mummification. The presentation is theatrical and aimed mainly at families and school groups.

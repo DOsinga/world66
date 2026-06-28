@@ -10,6 +10,7 @@ story: >
   Sarmishsay contains more than 4,000 individual rock carvings spanning roughly 10,000 years — from Stone Age hunters scratching animals onto cliff faces to medieval Islamic inscriptions. The oldest images, showing aurochs and wild boar now extinct in the region, are among the most direct records of the ancient steppe ecosystem that once covered this part of Central Asia.
 sources:
   - https://en.wikipedia.org/wiki/Sarmishsay
+score: 8.8
 ---
 
 Sarmishsay is a desert gorge about 40 kilometres north of Navoi that contains one of the largest collections of petroglyphs in Central Asia — more than 4,000 rock carvings cut into the cliffs and boulders over roughly 10,000 years. The oldest date to the Neolithic period, showing hunting scenes, animals, and human figures. Later carvings include Bronze Age symbols, Iron Age warriors, and medieval Islamic calligraphy.

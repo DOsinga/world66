@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: 1925 cathedral built partly from stones of the 16th-century Portuguese fort of Sofala
 story: "Some of the stone in the cathedral walls dates from 1505 — quarried for the Portuguese fort of São Caetano at Sofala, just down the coast, one of the earliest European structures in southern Africa. When the fort was finally abandoned, the stones were brought up the river and re-used here."
+score: 7.0
 ---
 
 Beira's neo-Manueline cathedral was completed in 1925 and dedicated to Our Lady of the Rosary. The walls incorporate stones quarried for the early sixteenth-century Portuguese fort of São Caetano at Sofala, sixty kilometres down the coast — making the building, in a strange way, four centuries older than its façade.

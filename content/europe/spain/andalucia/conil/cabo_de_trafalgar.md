@@ -16,6 +16,7 @@ story: >
   of the Redoutable and died before the action ended. His last signal to
   the fleet — "England expects that every man will do his duty" — was made
   before the battle began.
+score: 8.8
 ---
 
 Cape Trafalgar is a flat, windswept headland at the western end of the Strait of Gibraltar, marked by a 19th-century lighthouse and not much else. From the parking area near the lighthouse you can walk out to the end of the cape in a few minutes. The sea view is open in all directions: to the south you are looking towards the Strait, and the African coast can sometimes be made out in clear weather.

@@ -9,6 +9,7 @@ latitude: 39.46335
 longitude: 75.98988
 sources:
   - https://en.wikipedia.org/wiki/People%27s_Park_(Kashgar)
+score: 6.9
 ---
 
 People's Park sits a short walk south of the Id Kah Mosque and offers a genuine slice of local Kashgar life. In the mornings, older residents do tai chi on the paths or sit playing chess. In the evenings, groups gather for impromptu music sessions — the Uyghur dutar and rawap are the instruments you are likely to hear. The park is relaxed, unhurried, and a good place to sit quietly after a morning of sightseeing.

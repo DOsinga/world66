@@ -8,8 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Floors_Castle_from_Kelso,_Scottish_Borders.jpg
 latitude: 55.598379
 loc_type: city
+snippet: Scottish Borders market town at the Tweed and Teviot confluence, with a grand
+  square and ruined abbey.
 longitude: -2.433837
-score: 0.52
+score: 7.49
 sources:
 - https://en.wikipedia.org/wiki/Kelso,_Scottish_Borders
 title: Kelso

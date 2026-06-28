@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0780
 longitude: -77.3433
+score: 6.4
 ---
 
 A small, popular Bahamian-cuisine restaurant on Trinity Place a few steps off Bay Street. The menu is the local-classics list — stewed conch, cracked conch, peas and rice, steamed grouper, plantains. The cooking is solid and a step or two more polished than the Fish Fry shacks.

@@ -18,6 +18,7 @@ tags:
 title: Gateway Arch
 type: poi
 url: www.gatewayarch.com
+score: 8.4
 ---
 
 The Gateway Arch is 630 feet of stainless steel rising from the west bank of the Mississippi — the tallest monument in the United States. It marks St. Louis as the gateway to the American West, commissioned to commemorate the Louisiana Purchase. You can ride a small tram up inside either leg to a cramped observation room at the top, with views over downtown and the river. The underground visitor centre holds the Museum of Westward Expansion, which traces the Lewis and Clark expedition and the settlement of the West. Book tram tickets in advance in summer; the queues for security can be long.

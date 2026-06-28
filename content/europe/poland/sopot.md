@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sopot_Molo_and_main_square
 latitude: 54.4448
 loc_type: city
 longitude: 18.5685
-score: 0.56
+score: 8.13
+snippet: Baltic resort town in Poland's Trójmiasto, centred on a sandy beach and long
+  wooden pier.
 title: Sopot
 type: location
 ---

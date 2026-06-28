@@ -3,11 +3,13 @@ address: 3600 Las Vegas Boulevard South
 latitude: 36.113115
 longitude: -115.177007
 phone: 866-259-7111 or 702-693-7223
+score: 5.8
 tags:
 - eating_out
 - restaurant
 - tower
 - theatre
+- the_strip
 title: Sensi
 type: poi
 url: www.bellagio.com

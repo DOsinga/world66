@@ -13,6 +13,7 @@ tags:
 - museum
 title: Vulcania
 type: poi
+score: 6.9
 ---
 
 Vulcania is a science and adventure park dedicated to volcanoes and earth sciences, located on the volcanic plateau west of Clermont-Ferrand, at the foot of the Chaîne des Puys. It was designed by architect Hans Hollein with the main structure largely below ground, and focuses on making volcanology accessible and exciting for families. The exhibits combine scientific content with simulations and rides — a volcanic eruption simulator, a 4D cinema, and demonstrations of geological processes.

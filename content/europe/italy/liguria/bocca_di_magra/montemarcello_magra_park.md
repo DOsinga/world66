@@ -8,6 +8,7 @@ tags:
 latitude: 44.0500
 longitude: 9.9800
 snippet: "Regional park covering the headland and the lower Magra river"
+score: 8.0
 ---
 
 The Parco Naturale Regionale di Montemarcello-Magra protects the wooded headland across the river from Bocca di Magra and the lower wetlands of the Magra itself. The park is small as Italian parks go — about 26 square kilometres — but it packs in a surprising variety of landscapes, from coastal cliffs and Mediterranean *macchia* on the seaward side to riverine reed beds and farmland in the valley.

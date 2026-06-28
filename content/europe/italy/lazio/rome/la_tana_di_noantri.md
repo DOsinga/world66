@@ -5,10 +5,12 @@ done:
 latitude: 41.8892
 longitude: 12.4695
 phone: +39 06 5806404
+score: 6.8
 snippet: Classic Trastevere trattoria with outdoor seating
 tags:
 - eating_out
 - restaurant
+- trastevere
 title: La Tana di Noantri
 type: poi
 ---

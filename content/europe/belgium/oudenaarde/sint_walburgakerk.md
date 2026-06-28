@@ -10,6 +10,7 @@ latitude: 50.8441
 longitude: 3.6053
 story: >
   The Sint-Walburgakerk houses a painting of The Capture of Samson attributed to Anthony van Dyck, acquired when the church was at the height of its wealth in the early 17th century. The church's carillon — 52 bells dating from the 17th and 18th centuries — still plays twice weekly in summer, and the tower commands a view over the entire Scheldt valley.
+score: 6.9
 ---
 
 The Collegiate Church of Sint-Walburga stands just off the Markt and is the oldest and largest church in Oudenaarde. Construction began in the thirteenth century and continued across several phases, producing a mix of Romanesque origins and Gothic elaboration that is typical of the region's larger churches. The interior is spacious and relatively austere, which makes the few significant artworks — including Flemish Baroque paintings — stand out clearly.

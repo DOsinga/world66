@@ -14,6 +14,7 @@ story: >
   modelled on the Paris Opéra and seating 800 people. The night before the disaster, 8 May 1902,
   a performance was scheduled. It never took place. The ruins still hold the curved stone seating
   tiers and part of the facade — open to the sky and surrounded by ferns.
+score: 8.7
 ---
 
 The ruins of the Théâtre de Saint-Pierre are among the most evocative in the old town. Before the 1902 eruption, this was the cultural centrepiece of the "Paris of the Antilles" — a grand 800-seat theatre modelled after the Paris Opéra, hosting opera companies and performers from France. The superheated blast stripped the interior completely but left much of the stonework standing, and today the curved seating tiers and arched facade are draped in tropical vegetation, partly excavated and open to visitors.

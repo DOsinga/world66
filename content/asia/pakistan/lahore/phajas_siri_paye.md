@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - walled_city
+score: 7.8
 ---
 
 Phaja Shah Sahib's Siri Paye stall, just inside Bhati Gate, is the most famous early-morning eating place in Lahore. The shop opens around 4 a.m. and is usually sold out by 9 — Lahori men come from across the city for the slow-cooked head and trotters, eaten with naan dipped into the rich orange-yellow gravy.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.7457
 longitude: -3.8730
 snippet: "Dramatic clifftop town with famous caves 20km east — the best day trip from Torre del Mar"
+score: 8.4
 ---
 
 Nerja, 20 kilometres east along the coast from Torre del Mar, is the most rewarding day trip from the area. The town itself is built on dramatic limestone cliffs above a series of small cove beaches (the Burriana and Calahonda beaches are the best), and the old town has retained more character than most Costa del Sol resorts.

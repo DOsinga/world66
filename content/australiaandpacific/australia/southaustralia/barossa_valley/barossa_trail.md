@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: -34.600905
 longitude: 138.890809
+score: 7.5
 ---
 
 The Barossa Trail is a 26-kilometre multi-use path running between Gawler and Angaston through the heart of the wine region. It passes through Lyndoch, Tanunda and Nuriootpa, linking several major cellar doors and giving cyclists a genuinely car-free way to explore the valley. The trail is mostly flat to gently rolling and is suitable for families and beginners.

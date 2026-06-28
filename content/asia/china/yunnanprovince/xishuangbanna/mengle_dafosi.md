@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 6.7
 ---
 
 The Mengle Dafosi — the Mengle Grand Buddha Temple — sits on a hill overlooking the south side of Jinghong, a vast modern Theravada complex completed in 2005. Whether you like it or not depends on your tolerance for new-build religious architecture: it is enormous, gilded, and decidedly tourist-aware, with a 49-metre standing Buddha visible from across the city. The compound includes a working monastery, a museum of Dai Buddhism, and a series of viewing terraces.

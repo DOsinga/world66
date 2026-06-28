@@ -3,10 +3,12 @@ address: Via del Conservatorio 58, 00186 Rome
 latitude: 41.895203
 longitude: 12.471892
 opening_hours: Mon–Sat 5pm–midnight; closed Sun
+score: 7.8
 snippet: Wine bar and osteria from the legendary Roscioli family, near Campo de' Fiori
 tags:
 - bars_and_cafes
 - bar
+- campo_de_fiori
 title: Rimessa Roscioli
 type: poi
 url: www.salumeriaroscioli.com

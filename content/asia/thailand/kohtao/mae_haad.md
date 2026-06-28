@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 10.0914
 longitude: 99.8316
+score: 5.8
 ---
 
 Mae Haad is the island's main town and ferry pier — the first thing most visitors see as they step off the boat. The streets closest to the pier are lined with the businesses you would expect: ATMs, motorbike rental, pharmacies, tour operators, and restaurants aimed at the newly arrived. It is functional rather than charming, but the convenience makes it a reasonable base.

@@ -7,6 +7,7 @@ tags:
 latitude: 62.0322
 longitude: 129.7295
 story: "Sakha produces around a quarter of the world's diamonds, and the Treasury exhibits some of the largest and finest stones found in the republic's mines, along with gold and platinum nuggets. Cameras are not allowed, security is tight, and a guide takes you through in groups."
+score: 8.4
 ---
 
 The Treasury, run by the regional government, displays the spectacular gemstones and gold dredged out of the Sakha Republic's mines. The diamond collection is the heart of it, but the gold and mammoth-ivory items are also remarkable.

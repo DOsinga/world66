@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.8
 ---
 
 Sidi Frej is the small concentration of hotels and the closest thing the Kerkennah Islands have to a tourist resort. It sits on the northern shore of Chergui, the eastern island, and consists of a long sandy beach, a handful of low-rise hotels mostly built in the 1970s and 80s, and a few small restaurants serving grilled fish.

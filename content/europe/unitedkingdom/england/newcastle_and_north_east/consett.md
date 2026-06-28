@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Consett_Christ_Church_towe
 latitude: 54.851878
 loc_type: city
 longitude: -1.833374
-score: 0.32
+score: 5.62
+snippet: County Durham market town on a North Pennines ridge, built around its former
+  steelworks.
 title: Consett
 type: location
 ---

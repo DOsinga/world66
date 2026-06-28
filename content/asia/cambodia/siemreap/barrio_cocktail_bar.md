@@ -8,6 +8,7 @@ tags:
 title: Barrio Cocktail Bar
 type: poi
 neighbourhood: Wat Bo
+score: 5.9
 ---
 
 **Barrio** on Hap Guan Street in the Kandal Village area has established itself as one of the best cocktail bars in Siem Reap for visitors who want well-made drinks without the Pub Street environment. The menu focuses on classic cocktails executed properly — Negronis, Daiquiris, Whisky Sours — alongside a few house creations using local ingredients such as palm sugar, Kampot pepper, and local spirits. The bar team knows what they are doing.

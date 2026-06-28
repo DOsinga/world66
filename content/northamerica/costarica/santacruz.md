@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_photo_of_the_town_o
 latitude: 10.2636
 loc_type: city
 longitude: -85.585
-score: 0.5
+score: 7.32
+snippet: Guanacaste service town near Costa Rica's Pacific beaches, with local artists
+  and regional traditions.
 title: Santa Cruz
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: -43.494176
 loc_type: region
 longitude: 171.809845
 score: 0.51
+snippet: South Island region stretching from Pacific beaches across plains to Aoraki
+  / Mount Cook
 title: Canterbury
 type: location
 ---

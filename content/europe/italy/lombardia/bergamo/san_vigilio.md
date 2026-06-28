@@ -8,6 +8,7 @@ tags:
   - restaurant
 title: San Vigilio Restaurant and Pizzeria
 type: poi
+score: 5.2
 ---
 
 At the top of the funicular from Città Alta, this straightforward Italian restaurant has an outdoor terrace with one of the better views in the upper city. The food is honest — pizza, pasta, grilled meat — and the setting makes it worth the funicular ride. Closed Wednesdays.

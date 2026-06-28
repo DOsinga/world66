@@ -2,7 +2,7 @@
 address: 30 Kloof Street, Gardens
 latitude: -33.9303
 longitude: 18.4107
-neighbourhood: City Bowl
+score: 7.7
 scores:
   activities: 0.6312
   eating_out: 0.7956

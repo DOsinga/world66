@@ -12,6 +12,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Tongren_(Qinghai)
 title: Tongren
 type: location
+score: 6.4
+snippet: Qinghai city known as Rebkong, a long-standing centre of Tibetan religious
+  art.
 ---
 
 Tongren — Rebkong in Tibetan — is a small city in Huangnan Prefecture in southeastern Qinghai, long renowned as the centre of a living tradition of Tibetan religious art. The region has been producing thangka painters, butter sculptors, and muralists for centuries; many of the best-known examples of Amdo Buddhist art were made by artists from the villages around Tongren. The tradition continues: the monastery towns of Wutun and Gomar, within a few kilometres of the city, are still full of working artists.

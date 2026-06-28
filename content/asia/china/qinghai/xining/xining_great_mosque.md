@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6200
 longitude: 101.7870
+score: 6.1
 ---
 
 The Nan Guan (South Gate) Mosque is one of several historical mosques in Xining beyond the famous Dongguan. Established during the Ming dynasty, it serves a specific residential quarter and operates on a neighbourhood scale that gives a better sense of how Islamic practice integrates into everyday Xining life than the overwhelmingly large Dongguan Mosque. The architecture is traditional Chinese Islamic — green glazed tiles, carved wooden screens, a minaret that uses a pagoda form with Islamic calligraphy.

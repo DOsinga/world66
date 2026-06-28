@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sinnamary.jpg
 latitude: 5.377056
 loc_type: city
 longitude: -52.957159
-score: 0.39
+score: 6.0
+snippet: Small Creole river town on French Guiana's coast, used for pirogue trips
+  into the interior.
 title: Sinnamary
 type: location
 ---

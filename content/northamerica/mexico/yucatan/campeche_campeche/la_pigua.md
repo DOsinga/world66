@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 19.8503
 longitude: -90.5302
+score: 6.6
 ---
 
 La Pigua is the restaurant in Campeche for Gulf seafood, and has been for decades. The speciality is pan de cazón — the layered tortilla dish with dogfish shark, black beans, and tomato sauce that defines Campeche cuisine — along with shrimp in various preparations and crab dishes. The kitchen doesn't stray from the regional tradition and doesn't need to.

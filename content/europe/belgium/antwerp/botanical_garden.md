@@ -1,8 +1,14 @@
 ---
+latitude: 51.21417
+longitude: 4.40611
+score: 5.1
+sources:
+- https://en.wikipedia.org/wiki/Den_Botaniek
 tags:
 - things_to_do
-- church
+- sight
 - park
+- garden
 title: Botanical Garden
 type: poi
 ---

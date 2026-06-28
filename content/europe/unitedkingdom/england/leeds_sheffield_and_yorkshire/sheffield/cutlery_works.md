@@ -1,14 +1,15 @@
 ---
 address: 73-101 Neepsend Lane, Sheffield S3 8AT
 latitude: 53.3918
-loc_type: feature
 longitude: -1.4727
+score: 6.9
 snippet: Independent food hall in a converted cutlery factory
 tags:
 - eating_out
 - restaurant
 - kelham_island
 title: Cutlery Works
+type: poi
 ---
 
 A 700-cover independent food hall opened in 2018 in a former cutlery factory on Neepsend Lane, just across the canal from Kelham Island Museum. A dozen kitchens line the walls — Lebanese, Japanese-style ramen, wood-fired pizza, smash burgers, Korean fried chicken, Sicilian gelato — and a central bar serves local craft beer, cocktails, and wine.

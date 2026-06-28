@@ -9,6 +9,7 @@ snippet: From-scratch Mexican food with giant burritos and all-day breakfast
 tags:
 - eating_out
 - restaurant
+score: 5.8
 ---
 
 Authentic Mexican cuisine where everything is made from scratch. Giant burritos, crispy tostadas, and delicious gorditas. Serves Mexican breakfast all day.

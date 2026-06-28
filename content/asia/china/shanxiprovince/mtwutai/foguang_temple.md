@@ -15,6 +15,7 @@ story: >
   donkey-back, days from the nearest road, and confirmed the date from inscriptions
   on a roof beam. It was the first Tang wooden building ever scientifically
   dated, and it transformed Chinese architectural history.
+score: 9.4
 ---
 
 Foguang Temple sits in a side valley twenty kilometres south of Taihuai, well outside the main concentration of Wutaishan monasteries and accordingly much quieter. Its East Hall, built in 857 CE, is one of the two oldest surviving wooden buildings in China — the other is the slightly older Nanchan Temple, a few hours away in the foothills. The hall is a single-storey timber structure of seven bays, with the deeply overhanging eaves and powerful bracket sets that characterise mature Tang architecture.

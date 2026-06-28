@@ -15,6 +15,7 @@ story: >
   once had proper movie palaces.
 sources:
   - https://en.wikipedia.org/wiki/Arcata_Theatre
+score: 7.3
 ---
 
 The Arcata Theatre Lounge, on H Street a block north of the Plaza, is one of the best small venues on the North Coast. The 1938 Art Deco building has been repurposed as a live-music hall and repertory film space — you might catch a touring indie band, a touring DJ night, or a screening of a cult classic on the same weekend. The interior retains its original balcony and painted ceiling, and there's a full bar.

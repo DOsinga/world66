@@ -8,6 +8,7 @@ address: "28 Place des Martyrs de la Resistance, 13100 Aix-en-Provence"
 latitude: 43.5317
 longitude: 5.4481
 snippet: Open-air theatre in the archbishop's courtyard, home of the Aix opera festival
+score: 7.6
 ---
 
 The Theatre de l'Archeveche is an outdoor stage tucked into the courtyard of the old archbishop's palace, beside the cathedral. For most of the year it sits quiet, but every July it becomes the centrepiece of the Festival d'Aix-en-Provence — one of the great opera festivals in Europe, founded in 1948, with productions that regularly tour to La Scala and the Met.

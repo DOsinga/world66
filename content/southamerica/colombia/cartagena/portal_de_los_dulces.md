@@ -7,6 +7,7 @@ tags:
 - market
 title: Portal de los Dulces
 type: poi
+score: 7.0
 ---
 
 The Portal de los Dulces is an arcade on the south side of Plaza de los Coches, just inside the Torre del Reloj gate. Women in traditional dress sit behind tables piled with sweets — cocadas (coconut candy), caballitos (sweet rolls), alegrías (rice sweets with sesame), dulce de papaya, and various sugar confections made from tropical fruits. The tradition has been here for generations and the sweets are made to old recipes.

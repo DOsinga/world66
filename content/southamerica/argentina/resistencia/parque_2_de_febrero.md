@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -27.4400
 longitude: -59.0050
+score: 6.1
 ---
 
 The Parque 2 de Febrero is Resistencia's biggest green space, on the western edge of the city. The park surrounds a sizeable lagoon — the **Laguna Argüello** — and contains a rowing club, sports fields, picnic areas and the open-air space used by the international sculpture biennial.

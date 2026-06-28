@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 27.7205
 longitude: 85.3562
+score: 6.7
 ---
 
 The Taragaon Museum is housed in the circular Hyatt Regency building adjacent to Bodnath, a landmark piece of modernist architecture designed by the German architect Carl Pruscha in the 1970s. The building was originally a hostel for researchers and architects working on the UNESCO project to document and preserve the Kathmandu Valley's historic monuments.

@@ -5,7 +5,9 @@ latitude: 50.5706
 longitude: 8.5312
 title: Wetzlar
 type: location
-score: 0.44
+snippet: Central Hesse city with a preserved Altstadt and strong connections to Goethe's
+  early literary life.
+score: 7.12
 loc_type: city
 ---
 

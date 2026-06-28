@@ -1,10 +1,11 @@
 ---
-title: "A Place of My Own"
-type: poi
-author: "Michael Pollan"
-isbn: "978-0143114512"
+author: Michael Pollan
+isbn: 978-0143114512
+score: 6.3
 tags:
-  - books
+- books
+title: A Place of My Own
+type: theme
 ---
 
 Before he became famous for writing about food, Michael Pollan was teaching at the University of Michigan and decided to build a small writing cabin on his Connecticut property. The resulting book is a meditation on architecture, craftsmanship, and the act of making something with your hands. It is deeply informed by his years in Ann Arbor's academic culture — the way intellectuals think about practical work, and the gap between theory and doing.

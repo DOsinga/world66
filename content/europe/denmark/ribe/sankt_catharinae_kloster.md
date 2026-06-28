@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.8
 ---
 
 The **Priory of St. Catherine**, on the eastern edge of the old town, is the best-preserved monastic complex in Denmark and the only one with its cloister intact. Founded by the Dominicans in 1228 and rebuilt after a fire in 1517, it survived the Reformation by being converted to a hospital — a function it kept until the early twentieth century.

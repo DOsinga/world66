@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kurokabe_Square_Nagahama_C
 latitude: 35.380862
 loc_type: city
 longitude: 136.278507
-score: 0.58
+score: 8.0
+snippet: Lake Biwa city with machiya streets, glass workshops, and a reconstructed
+  castle above the shore
 title: Nagahama
 type: location
 ---

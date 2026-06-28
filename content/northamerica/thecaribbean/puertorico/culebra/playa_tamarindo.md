@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - snorkelling
+score: 8.8
 ---
 
 A small, narrow beach on the west side of Culebra, just south of Flamenco, that locals call the best snorkelling on the island. The reef begins a few feet from the sand and stretches several hundred metres out. Green sea turtles graze on the seagrass beds in the bay and are seen almost every day.

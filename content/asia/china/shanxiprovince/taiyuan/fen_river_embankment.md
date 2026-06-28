@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.8650
 longitude: 112.5300
+score: 6.8
 ---
 
 The Fen River runs through the centre of Taiyuan from north to south, and the landscaped embankment on both banks has been developed into a continuous riverside park stretching several kilometres through the city. In the evening the embankment lights up with LED installations, food vendors, and the general foot traffic of a Chinese city enjoying its outdoor space — the atmosphere is lively and the views across the illuminated water are better than the city's industrial reputation might suggest.

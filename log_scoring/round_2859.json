@@ -1,0 +1,200 @@
+{
+  "round": 2859,
+  "timestamp": "2026-06-13T22:12:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 2.1067,
+      "prior_variance": 0.164748,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Sayram Lake",
+      "path": "asia/china/xinjiangprovince/sayramlake",
+      "prior_score": 1.3427,
+      "prior_variance": 0.138507,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.4081,
+      "prior_variance": 0.156691,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.8374,
+      "prior_variance": 0.162915,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 3.4643,
+      "prior_variance": 0.145746,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 2.0801,
+      "prior_variance": 0.138418,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 2.0148,
+      "prior_variance": 0.142784,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 0.6734,
+      "prior_variance": 0.150264,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 0.688,
+      "prior_variance": 0.181102,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 1.8333,
+      "prior_variance": 0.151497,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 1.9433,
+      "prior_variance": 0.133073,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -1.0116,
+      "prior_variance": 0.145598,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": 0.085,
+      "prior_variance": 0.155118,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.6444,
+      "prior_variance": 0.140848,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 0.8438,
+      "prior_variance": 0.147527,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 1.7225,
+      "prior_variance": 0.158729,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.2192,
+      "prior_variance": 0.133085,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.4354,
+      "prior_variance": 0.135229,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": -0.589,
+      "prior_variance": 0.179491,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -0.1153,
+      "prior_variance": 0.159498,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -1.2334,
+      "prior_variance": 0.171941,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -4.387,
+      "prior_variance": 0.137186,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -2.5593,
+      "prior_variance": 0.151634,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_score": 1.0641,
+      "prior_variance": 0.153589,
+      "prior_n": 9
+    }
+  ]
+}

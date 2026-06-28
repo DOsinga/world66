@@ -8,6 +8,7 @@ tags:
   - museum
   - sight
 snippet: Downtown arts centre at the meeting point of the Chippewa and Eau Claire rivers
+score: 7.1
 ---
 
 Opened in 2018, the Pablo Center is the anchor of Eau Claire's downtown reinvention — a striking glass and steel building sitting directly at the confluence of the Chippewa and Eau Claire rivers. It holds two performance halls (the largest seats 1,200), gallery spaces, and a cafe that opens to the riverwalk. The programming ranges from touring Broadway productions to local theatre, classical concerts, and the Eau Claire Jazz Festival.

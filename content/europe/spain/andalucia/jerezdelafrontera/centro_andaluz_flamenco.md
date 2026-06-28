@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Centro_Andaluz_de_Flamenco
 story: >
   Jerez's claim on flamenco is ancient and specific: the Santiago neighbourhood here is one of the three towns (with Seville and Cádiz) considered the cradles of the art form. The Gypsy community of the barrio still maintains traditions of singing and dance that predate flamenco's commercialisation, and occasional private performances in family settings remain inaccessible to most tourists — the genuine article, preserved by practice rather than performance.
+score: 7.4
 ---
 
 The Centro Andaluz del Flamenco occupies a beautiful seventeenth-century palace in the Santiago neighbourhood — the traditional Gypsy quarter of Jerez and one of the places where flamenco was born. The centre is both a research institution and a museum, holding an archive of recordings, photographs, and documents related to flamenco history, and it offers a permanent exhibition tracing the art form's origins and development.

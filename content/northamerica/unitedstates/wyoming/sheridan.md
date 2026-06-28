@@ -5,7 +5,9 @@ done:
 latitude: 44.7972
 loc_type: city
 longitude: -106.9562
-score: 0.47
+score: 6.95
+snippet: Northern Wyoming ranching town at the Bighorn foothills, with Western saloons
+  and mountain access.
 title: Sheridan
 type: location
 ---

@@ -13,6 +13,7 @@ story: >
   shifted to larger vessels operated out of mainland ports, and the men who
   would have captained small sailing ships found no work here. The church
   outlasted the community it was built for.
+score: 6.8
 ---
 
 Mandø Church is a simple whitewashed building dating from 1639, built on the island's highest dune point and visible from across the tidal flats. It was restored in 1727 and has remained largely unchanged since. The four-nave structure uses large medieval bricks and has the practical plainness typical of Danish rural churches built during the Reformation era.

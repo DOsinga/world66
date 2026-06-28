@@ -5,7 +5,9 @@ done:
 latitude: 45.7954
 loc_type: city
 longitude: 22.9452
-score: 0.48
+score: 7.35
+snippet: Transylvanian industrial city best known for Corvin Castle, a Gothic fortress
+  above the river.
 sources:
 - https://en.wikipedia.org/wiki/Hunedoara
 - https://en.wikipedia.org/wiki/Corvin_Castle

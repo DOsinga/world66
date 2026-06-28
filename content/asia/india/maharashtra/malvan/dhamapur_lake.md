@@ -4,6 +4,7 @@ type: poi
 latitude: 16.0735
 longitude: 73.5743
 tags: [things_to_do, sight, nature]
+score: 7.0
 ---
 
 Dhamapur Lake, fifteen kilometres east of Malvan town, is a man-made tank built in 1530 by the local ruler Nagesh Desai. It sits at the foot of a wooded hill, ringed by Bhagavati temples and lotus beds, and is unusually picturesque for a working reservoir. The lake is recognised by the FAO as an Agricultural Heritage Site for its centuries of continuous use for irrigation and aquaculture.

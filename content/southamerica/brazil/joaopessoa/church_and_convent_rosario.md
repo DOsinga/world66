@@ -6,6 +6,7 @@ longitude: -34.8796
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 In the Jaguaribe neighbourhood at the southern edge of the historic centre, the Church and Convent of Our Lady of the Rosary (Igreja e Convento de Nossa Senhora do Rosário) is one of the older religious complexes in João Pessoa. The church has origins in the seventeenth century and was connected to the Brotherhood of Our Lady of the Rosary — a lay confraternity that historically provided a religious and social space for Africans and Afro-Brazilians in colonial Brazil.

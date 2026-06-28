@@ -1,0 +1,200 @@
+{
+  "round": 2351,
+  "timestamp": "2026-06-13T21:36:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 8.0409,
+      "prior_variance": 0.323889,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 6.1284,
+      "prior_variance": 0.288907,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 6.8706,
+      "prior_variance": 0.311008,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 5.3832,
+      "prior_variance": 0.335986,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.4811,
+      "prior_variance": 0.186886,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 6.7158,
+      "prior_variance": 0.230015,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 5.9196,
+      "prior_variance": 0.21727,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Leukerbad",
+      "path": "europe/switzerland/leukerbad",
+      "prior_score": 2.89,
+      "prior_variance": 0.174007,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_score": 4.9745,
+      "prior_variance": 0.2051,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_score": 4.4357,
+      "prior_variance": 0.2289,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 1.3424,
+      "prior_variance": 0.190091,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_score": 4.5282,
+      "prior_variance": 0.188263,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 5.2519,
+      "prior_variance": 0.247966,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 5.1197,
+      "prior_variance": 0.27262,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_score": 2.4343,
+      "prior_variance": 0.202172,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.0374,
+      "prior_variance": 0.170894,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.5498,
+      "prior_variance": 0.19957,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 6.1415,
+      "prior_variance": 0.256287,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.2384,
+      "prior_variance": 0.203361,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -1.4545,
+      "prior_variance": 0.223697,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -1.0797,
+      "prior_variance": 0.193163,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -3.2636,
+      "prior_variance": 0.214854,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.9903,
+      "prior_variance": 0.184127,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -9.5,
+      "prior_variance": 0.326993,
+      "prior_n": 7
+    }
+  ]
+}

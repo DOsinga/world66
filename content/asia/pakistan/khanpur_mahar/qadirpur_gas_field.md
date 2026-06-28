@@ -7,6 +7,7 @@ tags:
 - sight
 title: Qadirpur Gas Field
 type: poi
+score: 4.0
 ---
 
 A short way west of Khanpur Mahar, the Qadirpur gas field has been one of Pakistan's largest onshore producers since it came on stream in 1995. The gas plant and its flare stack are visible across the flat farmland for miles, and the field has shaped the local economy as much as the older sugarcane and cotton trades.

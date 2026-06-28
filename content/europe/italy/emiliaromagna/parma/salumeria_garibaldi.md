@@ -6,6 +6,7 @@ longitude: 10.3286
 tags:
   - eating_out
   - market
+score: 6.8
 ---
 
 A neighbourhood salumeria on the main shopping street, perfect for assembling a picnic of Prosciutto di Parma sliced to order, culatello, salame felino, fresh Parmigiano-Reggiano of various ages, and bread from a nearby bakery. The staff are happy to talk through the prosciutto vintages — 24 months, 30 months, 36 — and tear off the rind for a taste before you decide.

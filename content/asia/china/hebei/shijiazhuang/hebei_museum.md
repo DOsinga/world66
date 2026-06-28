@@ -13,6 +13,7 @@ story: >
   container was sealed perfectly, the person inside might be preserved forever.
   The suits did not work. When the tombs were opened in 1968, the bodies had
   long since dissolved, leaving only the jade shells and the gold thread.
+score: 8.3
 ---
 
 The Hebei Museum on South Zhongshan Street is the best single reason to come to Shijiazhuang. Its collection of bronzes from the ancient Zhongshan Kingdom and Han dynasty jade burial suits ranks with anything in China, and the quality of the displays — spacious, well-lit, labelled in English — makes the material accessible to non-specialist visitors.

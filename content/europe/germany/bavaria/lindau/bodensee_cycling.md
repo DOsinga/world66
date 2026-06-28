@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 47.5500
 longitude: 9.6900
+score: 7.4
 ---
 
 The Bodensee-Radweg is a 273-kilometre cycle route that circles Lake Constance, passing through Germany, Austria, and Switzerland. Lindau sits on the eastern end of the lake and is a natural starting or finishing point. The route is well signposted, mostly flat, and runs through vineyard country, orchards, and lakeside villages — it is one of the more popular cycle routes in German-speaking Europe and has been drawing cycling tourists since the 1980s.

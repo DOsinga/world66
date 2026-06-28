@@ -5,7 +5,9 @@ done:
 latitude: 50.673136
 loc_type: city
 longitude: -3.840229
-score: 0.49
+score: 7.73
+snippet: Dartmoor stannary town ringed by moorland, Bronze Age remains, and the granite
+  mass of Castle Drogo
 title: Chagford
 type: location
 ---

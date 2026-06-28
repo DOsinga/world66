@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "1906 Carnegie library still in everyday use"
+score: 7.0
 ---
 
 The Jackson Carnegie Library is one of the better-preserved of Andrew Carnegie's Michigan grants: a classical-revival building in pale limestone with a columned entrance and a large arched window over the door, completed in 1906. It is still the main branch of the Jackson District Library and is heavily used.

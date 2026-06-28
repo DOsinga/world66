@@ -15,6 +15,7 @@ story: >
   itself in the British Empire in 1833 — the Slavery Abolition Act passed three
   days before his death. The house opened as a museum in 1906, one of the first
   in Britain to be dedicated to social reform.
+score: 8.5
 ---
 
 Wilberforce House occupies a fine red-brick Jacobean merchant's house on High Street, opposite the Streetlife Museum. The displays trace the transatlantic slave trade in detail — including objects from the ships, the plantations, and the resistance — and then follow the long campaign that Wilberforce and the Clapham Sect led to end it. Upstairs, several rooms are furnished to suggest the family's domestic life in the 18th century, and there is a small permanent display on slavery in the present day.

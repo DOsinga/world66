@@ -1,200 +1,200 @@
 {
   "round": 1292,
-  "timestamp": "2026-04-12T22:19:49",
+  "timestamp": "2026-06-13T20:21:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Solomon Islands",
-      "path": "australiaandpacific/solomonislands",
-      "prior_rank": 5561,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.6081,
+      "prior_variance": 0.414028,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Torrevieja",
-      "path": "europe/spain/spanishcostas/torrevieja",
-      "prior_rank": 6196,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 3.8082,
+      "prior_variance": 0.417443,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Bethany Beach",
-      "path": "northamerica/unitedstates/delaware/bethanybeach",
-      "prior_rank": 7007,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.1941,
+      "prior_variance": 0.366256,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Berck sur Mer",
-      "path": "europe/france/nord/bercksurmer",
-      "prior_rank": 4544,
-      "prior_wins": 42,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 2.2132,
+      "prior_variance": 0.33023,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Geelong",
-      "path": "australiaandpacific/australia/victoria/geelong",
-      "prior_rank": 5519,
-      "prior_wins": 26,
-      "prior_n": 3
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/lincoln",
+      "prior_score": 1.1615,
+      "prior_variance": 0.433328,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Fraisse-sur-Agout",
-      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
-      "prior_rank": 6155,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_score": 1.2087,
+      "prior_variance": 0.316034,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Kuwait",
-      "path": "asia/kuwait",
-      "prior_rank": 2175,
-      "prior_wins": 46,
-      "prior_n": 3
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 1.6275,
+      "prior_variance": 0.367806,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Volgograd",
-      "path": "europe/russia/volgograd",
-      "prior_rank": 4872,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_score": 2.4245,
+      "prior_variance": 0.468659,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Ningxia",
-      "path": "asia/china/ningxia",
-      "prior_rank": 5317,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 0.9472,
+      "prior_variance": 0.392352,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Greymouth",
-      "path": "australiaandpacific/newzealand/greymouth",
-      "prior_rank": 3840,
-      "prior_wins": 36,
-      "prior_n": 3
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 1.8493,
+      "prior_variance": 0.325248,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Santa Cruz",
-      "path": "southamerica/bolivia/santacruz",
-      "prior_rank": 6100,
-      "prior_wins": 15,
-      "prior_n": 2
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 1.1194,
+      "prior_variance": 0.338364,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Augusta",
-      "path": "northamerica/unitedstates/georgia/augusta",
-      "prior_rank": 5158,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -1.4646,
+      "prior_variance": 0.336533,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Uzhhorod",
-      "path": "europe/ukraine/uzhgorod",
-      "prior_rank": 5140,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.5454,
+      "prior_variance": 0.338004,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Lafayette, LA",
-      "path": "northamerica/unitedstates/louisiana/lafayette_la",
-      "prior_rank": 4155,
-      "prior_wins": 34,
-      "prior_n": 3
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -2.8607,
+      "prior_variance": 0.314238,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Altena",
-      "path": "europe/germany/northrhinewestphalia/altena",
-      "prior_rank": 5795,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.4265,
+      "prior_variance": 0.389442,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Charleston",
-      "path": "northamerica/unitedstates/westvirginia/charleston",
-      "prior_rank": 5211,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.9072,
+      "prior_variance": 0.370675,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Ait Ourir",
-      "path": "africa/morocco/aitourir",
-      "prior_rank": 4668,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.9402,
+      "prior_variance": 0.44881,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Huancabamba",
-      "path": "southamerica/peru/huancabamba",
-      "prior_rank": 6757,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -4.431,
+      "prior_variance": 0.45642,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Woerden",
-      "path": "europe/netherlands/woerden",
-      "prior_rank": 7157,
-      "prior_wins": 31,
-      "prior_n": 6
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.9941,
+      "prior_variance": 0.379224,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Trinity",
-      "path": "northamerica/unitedstates/california/shastacascade/trinity",
-      "prior_rank": 2999,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Eastern Qing Tombs",
+      "path": "asia/china/hebei/eastern_qing_tombs",
+      "prior_score": 0.0412,
+      "prior_variance": 0.323507,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Chillicothe",
-      "path": "northamerica/unitedstates/ohio/chillicothe",
-      "prior_rank": 6349,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": -0.5409,
+      "prior_variance": 0.382366,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Buckingham",
-      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
-      "prior_rank": 6586,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -0.3594,
+      "prior_variance": 0.372815,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Swift Current",
-      "path": "northamerica/canada/saskatchewan/swift_current",
-      "prior_rank": 7466,
-      "prior_wins": 15,
+      "title": "Zhanjiang",
+      "path": "asia/china/guangdong/zhanjiang",
+      "prior_score": -4.0783,
+      "prior_variance": 0.282858,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "sarainkhet sarson",
-      "path": "asia/india/uttaranchal/sarainkhet_sarson",
-      "prior_rank": 6579,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": 1.5509,
+      "prior_variance": 0.553975,
+      "prior_n": 4
     }
   ]
 }

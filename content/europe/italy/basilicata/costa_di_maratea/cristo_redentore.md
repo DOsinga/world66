@@ -13,6 +13,7 @@ story: >
   Monte San Biagio. The statue's head is not attached: the sculptor left it
   detached so it could be transported up the mountain more easily, and it was
   only fixed in place after the rest of the figure was installed.
+score: 8.9
 ---
 
 The Cristo Redentore on the summit of Monte San Biagio is Maratea's most recognisable landmark — a 22-metre white marble statue of Christ with arms outstretched, visible for kilometres along the coast and from the sea below. It stands at around 630 metres above sea level, and the panoramic views from the summit are the equal of the statue itself: on clear days you can see across the Gulf of Policastro to Calabria in the south and deep into the Campanian hills to the north.

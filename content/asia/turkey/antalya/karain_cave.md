@@ -10,6 +10,7 @@ latitude: 37.06430
 longitude: 30.55900
 story: >
   Karain Cave shows evidence of continuous human habitation spanning 150,000 years — from Palaeolithic Neanderthals through to the Copper Age. When excavations began in 1946, the finds included the remains of cave bears, wolves, deer, and early human tools. The cave was used so continuously that layers of human and animal bone, ash, and worked stone accumulated to a depth of over 11 metres.
+score: 7.9
 ---
 
 Karain Cave, 27 km northwest of Antalya, is the most important prehistoric site in Turkey — a large natural cavern that served as a shelter, then a cult site, then a place of burial, for an unbroken stretch of human occupation spanning over 100,000 years. The bones of Neanderthal humans have been found here, making it one of the westernmost Neanderthal sites yet discovered.

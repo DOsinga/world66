@@ -8,6 +8,7 @@ tags:
 latitude: -34.9069
 longitude: -56.2045
 snippet: Historic bar in the Ciudad Vieja, famous for tango performances
+score: 7.3
 ---
 
 Bar Fun Fun in the Ciudad Vieja is one of Montevideo's oldest bars, with a long association with tango — both Uruguayan and Argentine artists have performed here, and the walls are covered in photographs of musicians who passed through. It has the dark wood panelling, the mirrored shelves, and the general air of a place that has seen better days and is comfortable with that fact.

@@ -8,6 +8,7 @@ latitude: 46.1904
 longitude: -123.8316
 sources:
   - https://en.wikipedia.org/wiki/Astoria_Riverfront_Trolley
+score: 7.3
 ---
 
 The Astoria Riverfront Trolley is a restored 1913 streetcar that runs about 5km along the Columbia River waterfront on former freight railroad tracks. It operates from May through September on weekends and some weekdays, running between the 17th Street Dock and the East Mooring Basin. The fare is a dollar each way.

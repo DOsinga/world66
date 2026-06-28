@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Qionghai_03.jpg
 latitude: 19.2431
 loc_type: city
 longitude: 110.4642
+score: 6.75
+snippet: East Hainan river city known for Jiaji duck and the Red Detachment of Women
+  memorial.
 sources:
 - https://en.wikivoyage.org/wiki/Qionghai
 title: Qionghai

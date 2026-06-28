@@ -1,9 +1,11 @@
 ---
+latitude: 1.0
+loc_type: region
+longitude: 97.5
+snippet: West Sumatran island of Niha megalithic villages, stone-jumping ceremonies,
+  and powerful surf
 title: Nias Island
 type: location
-loc_type: region
-latitude: 1.0
-longitude: 97.5
 ---
 
 Nias is a large island off the west coast of Sumatra, separated from the mainland by a deep channel and culturally distinct from anywhere else in Indonesia. The Niha people developed in relative isolation for millennia, and the traces of that isolation are everywhere: the megalithic villages with their massive stone pavements and carved ancestor figures, the ceremonial stone-jumping tradition (fahombo), and the extraordinary chief's houses that can be 20 meters long with curved roofs rising like upturned boats.

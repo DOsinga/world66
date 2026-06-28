@@ -9,6 +9,7 @@ tags:
   - sport
 title: Costa Rica National Stadium
 type: poi
+score: 5.5
 ---
 
 The Estadio Nacional is a striking 35,000-seat venue in La Sabana Metropolitan Park, opened in 2011 as a gift from the People's Republic of China to Costa Rica — one of the conditions of the diplomatic relationship established between the two countries. The design is modern and the facilities are among the best in Central America.

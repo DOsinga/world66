@@ -1,6 +1,7 @@
 ---
 country: Botswana
 done:
+  link_coverage: '2026-06-26'
   wikitravel_coverage: '2026-06-05'
 image: chobenationalpark.jpg
 image_attribution: Diego Delso
@@ -9,6 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Elefantes_africanos_de_sab
 latitude: -17.85
 loc_type: feature
 longitude: 24.75
+score: 9.05
+snippet: Northern Botswana wildlife park of river floodplains and marshes, famous
+  for immense elephant gatherings along the Chobe.
 sources:
 - https://en.wikipedia.org/wiki/Chobe_National_Park
 - https://en.wikipedia.org/wiki/Kasane

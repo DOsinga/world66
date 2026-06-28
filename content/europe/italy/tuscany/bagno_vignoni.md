@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_bagno_vignoni.jpg
 latitude: 43.028123
 loc_type: city
 longitude: 11.618679
-score: 0.63
+score: 8.55
+snippet: Tiny Val d'Orcia hamlet whose central piazza is a steaming Roman thermal
+  pool.
 sources:
 - https://en.wikipedia.org/wiki/Bagno_Vignoni
 title: Bagno Vignoni

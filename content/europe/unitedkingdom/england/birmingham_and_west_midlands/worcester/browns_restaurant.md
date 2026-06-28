@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 52.1877
 longitude: -2.2213
+score: 5.8
 ---
 
 Brown's Restaurant, set in a converted boathouse by the river south of the cathedral, is the most atmospheric dining option in Worcester. The building sits at the water's edge and the view of the Cathedral from the terrace is as good as any in the city — especially on summer evenings when the light catches the stonework. The cooking is reliable modern British with local Worcestershire produce well represented.

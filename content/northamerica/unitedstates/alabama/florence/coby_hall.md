@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 34.8045
 longitude: -87.6794
+score: 5.4
 ---
 
 Coby Hall is a stately white Greek Revival house built in 1843 by James Sample, one of the early settlers of Florence. It stands on the south edge of the University of North Alabama campus, fronted by tall white columns and surrounded by old magnolias.

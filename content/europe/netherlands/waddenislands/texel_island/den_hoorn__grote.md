@@ -1,8 +1,9 @@
 ---
+score: 7.3
 tags:
 - day_trips
 title: Den Hoorn > Grote Vlak - De Geul - De Hors > Ferry terminal
-type: poi
+type: theme
 url: images.google.com
 ---
 

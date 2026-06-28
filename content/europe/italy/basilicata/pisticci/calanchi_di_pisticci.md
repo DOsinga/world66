@@ -8,6 +8,7 @@ latitude: 40.383
 longitude: 16.55
 story: >
   The calanchi of Basilicata were caused by centuries of deforestation and subsequent erosion of the grey clay subsoil, a process accelerated by the region's dry summers and intense winter rains. The same landscape that looks barren and hostile from a distance turns out, on foot, to be inhabited by lizards, falcons, and a surprising range of plants that have adapted to the mineral-rich clay.
+score: 8.7
 ---
 
 The calanchi are deeply eroded grey clay ravines that surround Pisticci on three sides, giving the landscape a quality that is genuinely unlike anything else in Italy. The formations — narrow ridges, pointed peaks, and gullies cut dozens of metres deep — have been compared to the Badlands of South Dakota, and while the scale is smaller, the visual effect is similarly disorienting.

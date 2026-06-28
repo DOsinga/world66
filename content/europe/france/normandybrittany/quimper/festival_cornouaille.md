@@ -8,6 +8,7 @@ latitude: 47.9967
 longitude: -4.0964
 sources:
   - https://en.wikipedia.org/wiki/Festival_de_Cornouaille
+score: 7.9
 ---
 
 Held every July, the Festival de Cornouaille is one of the largest Celtic music and culture festivals in Europe, drawing participants and performers from Brittany, Ireland, Scotland, Wales, Cornwall, Galicia, and Asturias. For a week, Quimper fills with bagpipe bands, traditional dancers in Breton costume, and concerts ranging from folk sessions to large outdoor stages.

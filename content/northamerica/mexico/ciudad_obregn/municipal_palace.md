@@ -9,6 +9,7 @@ latitude: 27.4860
 longitude: -109.9344
 story: >
   The murals inside were painted by Sonoran artist Guillermo Arteche, who trained under Diego Rivera in Mexico City before returning to his home state. The works depict the history of the Yaqui people, the conquest, and the agricultural transformation of the valley — a regional history that receives little attention elsewhere in Mexico.
+score: 6.2
 ---
 
 The city's main government building on the central plaza, notable for the large murals by Guillermo Arteche that line its interior corridors and stairwells. The works are a serious piece of regional Mexican muralism — politically engaged, technically accomplished, and almost entirely ignored by visitors who don't know to look for them.

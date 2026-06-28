@@ -15,6 +15,7 @@ story: >
   or rebuilt — its roofless Gothic nave was left open to the sky and has remained
   so for 270 years. Walking into the ruined church is one of the most powerful
   architectural experiences in Lisbon.
+score: 8.9
 ---
 
 The Carmo Convent was the largest Gothic church in Lisbon when the 1755 earthquake flattened its roof and left the nave open to the sky. Rather than rebuild, the city preserved the ruin, and today the roofless Gothic arches frame a view of the sky that is genuinely moving — nature reclaiming a great stone building, slowly, for centuries.

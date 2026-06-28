@@ -9,6 +9,7 @@ tags:
   - sight
   - lake
 story: "Kivu is one of three lakes in the world to undergo periodic limnic eruptions — sudden releases of dissolved gas trapped in the deep water. The lake holds an estimated 250 cubic kilometres of methane and 60 cubic kilometres of carbon dioxide at depth. A future eruption could be catastrophic for the millions of people living on its shores, and Rwanda has already begun extracting the methane commercially for power generation."
+score: 8.2
 ---
 
 Lake Kivu fills the gap between Bukavu and Cyangugu (in Rwanda) and stretches some 90 km north to Goma, a glittering rift-valley lake hemmed in by green hills. The water is clear, warm, and — unlike most African lakes — almost entirely free of bilharzia, which means you can swim in it. Local kids do, off the rocky points at every opportunity.

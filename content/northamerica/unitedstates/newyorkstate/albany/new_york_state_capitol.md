@@ -9,6 +9,7 @@ latitude: 42.6526
 longitude: -73.7573
 story: >
   The Capitol took 32 years to build, from 1869 to 1899, and involved five different architects — each of whom had a different vision. The result is a building that shifts styles as you move through it, from Italian Renaissance on the exterior to Romanesque on the upper floors. The "Million Dollar Staircase" inside took 14 years alone to carve, and includes over 300 faces of famous and ordinary New Yorkers among its stone carvings.
+score: 9.0
 ---
 
 The New York State Capitol dominates the Albany skyline and is one of the most impressive public buildings in the United States. The massive granite structure — it cost about $25 million to build, an extraordinary sum in the late 19th century — sits at the top of State Street on a bluff above the Hudson River. Free guided tours run throughout the week and are the best way to see the interior.

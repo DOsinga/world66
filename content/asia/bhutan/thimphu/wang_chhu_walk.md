@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wang Chhu River Walk
 type: poi
+score: 9.1
 ---
 
 A footpath following the Wang Chhu river through the centre of Thimphu, passing the weekend market area and Tashicho Dzong. The walk from the weekend market bridge to the dzong takes about 20 minutes at an easy pace. The river bank is lined with willow trees and the path is used heavily by locals for morning exercise. Prayer flags strung across the river flutter overhead for much of the route. One of the best free activities in Thimphu, and a good way to link the main northern sights on foot.

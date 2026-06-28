@@ -15,6 +15,7 @@ story: >
   Amtrak discontinued service in 1979.
 sources:
   - https://en.wikipedia.org/wiki/Billings_station
+score: 6.3
 ---
 
 The handsome 1909 Northern Pacific Railway depot is now a popular events venue and one of the best-preserved railroad stations in Montana. The building combines Italian Renaissance and Mission Revival elements in a way that was fashionable for large American railroad stations of its era — arched windows, terracotta ornament, and a broad covered platform that once sheltered travellers arriving on transcontinental trains.

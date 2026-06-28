@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Sher Shah built Rohtas Fort specifically to contain the Mughal threat — but the Mughals never had to besiege it. When Humayun returned from exile in Persia in 1555 with a Persian army at his back, he marched on the fort. The garrison, facing a force they could not hope to defeat, simply surrendered. The great fortress that had been designed to stop a Mughal reconquest fell without a single shot. Humayun spent a night inside, noted the quality of the construction, and moved on to reclaim Delhi.
+score: 9.4
 ---
 
 Rohtas Fort is the main reason to come to Jhelum, and it delivers. Built by Sher Shah Suri between 1541 and 1548 on a strategic ridge overlooking the old Shahi Road — the main artery between Kabul and Delhi — the fort was intended to intimidate and control the route through the Salt Range. It succeeded on both counts. The walls run for more than 4 km around the perimeter, broken by 68 bastions and pierced by 12 monumental gateways. It is one of the largest and best-preserved examples of early Mughal-era military architecture anywhere in South Asia, and the UNESCO inscription in 1997 was entirely deserved.

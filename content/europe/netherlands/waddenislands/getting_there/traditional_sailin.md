@@ -1,6 +1,7 @@
 ---
+score: 1.2
 title: Traditional Sailing ship crossings
-type: poi
+type: theme
 url: www.natuurzeiltochten.nl
 ---
 

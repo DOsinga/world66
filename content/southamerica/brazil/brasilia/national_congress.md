@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 9.3
 ---
 
 The National Congress complex is the most recognisable image of Brasília — a saucer-and-dome composition with twin office towers, anchoring the east end of the Esplanada. The dome (Senate) and the inverted bowl (Chamber of Deputies) face the great open Square of the Three Powers; the white twin towers between them rise from a low base of meeting rooms.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:In_Carrigaline_-_geograph.
 latitude: 51.814956
 loc_type: city
 longitude: -8.392268
-score: 0.38
+score: 6.29
+snippet: Cork commuter town on the Owenboy estuary, useful for Crosshaven and Cork
+  Harbour beaches.
 title: Carrigaline
 type: location
 ---

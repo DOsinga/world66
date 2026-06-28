@@ -6,6 +6,7 @@ longitude: 120.2700
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 Mango's is the bay-front grill of choice for the Sunday-lunch Manila crowd — a casual open-sided pavilion right at the water's edge serving fresh-catch fish (sinigang, grilled with calamansi, or sizzling on a hot plate) along with the standard Filipino classics.

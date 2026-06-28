@@ -1,0 +1,200 @@
+{
+  "round": 4045,
+  "timestamp": "2026-06-13T23:39:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 2.9794,
+      "prior_variance": 0.097437,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 3.8364,
+      "prior_variance": 0.13232,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 1.7475,
+      "prior_variance": 0.126916,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 1.7815,
+      "prior_variance": 0.11048,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.4511,
+      "prior_variance": 0.100933,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.7056,
+      "prior_variance": 0.112946,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.0113,
+      "prior_variance": 0.103873,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.3995,
+      "prior_variance": 0.107324,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": -1.0434,
+      "prior_variance": 0.095533,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -2.3949,
+      "prior_variance": 0.116949,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -4.7185,
+      "prior_variance": 0.102794,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -5.7013,
+      "prior_variance": 0.117637,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -4.5858,
+      "prior_variance": 0.128761,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -6.0107,
+      "prior_variance": 0.150091,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -4.7883,
+      "prior_variance": 0.112411,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -4.9845,
+      "prior_variance": 0.115549,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -5.0216,
+      "prior_variance": 0.143606,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -5.6643,
+      "prior_variance": 0.145905,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -7.0513,
+      "prior_variance": 0.163557,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_score": -7.7163,
+      "prior_variance": 0.280231,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -6.5372,
+      "prior_variance": 0.155834,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -7.9546,
+      "prior_variance": 0.302956,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -8.2433,
+      "prior_variance": 0.28265,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -9.0942,
+      "prior_variance": 0.202949,
+      "prior_n": 13
+    }
+  ]
+}

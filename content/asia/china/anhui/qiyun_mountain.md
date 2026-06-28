@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Xiuning_Qiyun_Shan_2015.06
 latitude: 29.8083
 loc_type: feature
 longitude: 118.033
+score: 8.02
+snippet: Taoist mountain in Anhui where red sandstone cliffs hold temples, shrines,
+  and ancient inscriptions.
 sources:
 - https://en.wikipedia.org/wiki/Mount_Qiyun
 title: Qiyun Mountain

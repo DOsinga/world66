@@ -8,6 +8,7 @@ tags:
 latitude: 41.0236
 longitude: 28.9775
 address: "Kemankeş Caddesi 37, Karaköy"
+score: 6.9
 ---
 
 Karaköy Lokantası is the best straightforward Turkish restaurant in the Karaköy neighbourhood — a smart, reliable place serving well-executed versions of Turkish classics: meze platters, grilled fish, slow-cooked lamb dishes. The decor is pleasant without being fussy; the service is professional. It draws a mixed crowd of locals and visitors who have done their research.

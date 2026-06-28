@@ -3,12 +3,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 31.625668
 longitude: -7.989246
-snippet: Marrakesh's legendary square of food stalls and storytellers
+score: 9.7
+snippet: Marrakesh's great square of storytellers, snake charmers, and nightly food
+  stalls open until midnight
 tags:
 - things_to_do
 - sight
 - market
-- mellah
+- medina
 title: Jemaa el-Fna
 type: poi
 ---

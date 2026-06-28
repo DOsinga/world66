@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarnia_Chemical_Valley.JPG
 latitude: 42.974382
 loc_type: city
 longitude: -82.403533
-score: 0.34
+score: 6.17
+snippet: Lake Huron border city where petrochemical industry sits beside freshwater
+  beaches and a busy river crossing
 title: Sarnia
 type: location
 ---

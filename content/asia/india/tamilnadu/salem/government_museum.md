@@ -8,6 +8,7 @@ latitude: 11.677156
 longitude: 78.144522
 story: >
   The museum's collection includes stone sculptures from the early Pallava and later Chola periods found during excavations across Salem district, as well as a natural history section with geological samples from the Eastern Ghats. The geology wing is unexpectedly interesting given that Salem sits in one of India's more significant mineral belts.
+score: 6.4
 ---
 
 The Government Museum in Salem occupies a colonial-era building and covers the district's archaeological finds, natural history, and crafts. The sculpture gallery holds pieces from nearby temple sites, some dating to the 9th and 10th centuries — the quality is uneven but the best pieces are genuinely fine. The natural history section includes local fauna and mineral samples from the surrounding hills.

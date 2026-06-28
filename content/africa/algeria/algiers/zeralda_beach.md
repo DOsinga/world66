@@ -6,6 +6,7 @@ longitude: 2.8370
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 Zeralda is the most popular beach resort in the Algiers area, about 30km west of the city along the coastal motorway. The beach is sandy and long, with good swimming in calm conditions. The seafront has a cluster of hotels, beach clubs, and restaurants that are well used by Algerois throughout the summer.

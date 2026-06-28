@@ -8,6 +8,7 @@ tags:
 title: Roppongi Pit Inn
 type: poi
 snippet: "Serious jazz venue with a history of notable performers"
+score: 6.8
 ---
 
 An established jazz venue that has hosted many well-known musicians over the years. One of the more serious jazz spots in the neighbourhood.

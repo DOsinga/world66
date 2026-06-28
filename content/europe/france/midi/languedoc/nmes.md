@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arenes_de_Nimes_(18).jpg
 latitude: 43.8374
 loc_type: city
 longitude: 4.3601
-score: 0.63
+score: 8.75
+snippet: Roman city in Languedoc, defined by an intact amphitheatre, Maison Carrée,
+  and warm southern street life.
 title: Nîmes
 type: location
 ---

@@ -16,6 +16,7 @@ sources:
 - https://en.wikipedia.org/wiki/Hiraizumi
 title: Iwate
 type: location
+snippet: "Iwate is a northern Honshu prefecture of mountains, Pacific coast, and historic Morioka."
 ---
 
 Iwate is the second largest prefecture in Japan by area and one of the least densely populated, covering a wide stretch of northern Honshu between the Kitakami Mountains and the Pacific coast. It sits at the heart of the [Tohoku](/asia/japan/tohoku) region — remote, mountainous, culturally distinct, and largely overlooked by foreign tourists.

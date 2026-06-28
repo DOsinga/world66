@@ -8,6 +8,7 @@ tags:
 - sight
 - wildlife
 snippet: Guided walks on the outlets of Europe's largest ice cap, departing from Höfn
+score: 8.8
 ---
 
 Vatnajökull covers over eight percent of Iceland's land area, making it the largest ice cap in Europe. From Höfn, several operators run guided glacier hikes onto its outlet tongues, with Heinabergsjökull and Fláajökull — both within an hour of town — the most popular starting points. A standard guided hike runs three to four hours and involves crampons, ice axes, and a qualified guide who knows the glacier's changing crevasse patterns. You do not need prior experience, but reasonable fitness helps.

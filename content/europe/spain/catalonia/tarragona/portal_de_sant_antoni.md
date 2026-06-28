@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 snippet: "Monumental 1737 baroque gateway into the old town — the grandest of Tarragona's surviving city gates"
+score: 5.8
 ---
 
 A handsome 1737 Baroque gateway through the city walls on the eastern side of the old town, named for the small chapel of Sant Antoni once attached to it. The gate has two storeys: a rusticated stone ground-floor arch large enough for carts, and an ornamented upper level with carved stone urns, a coat of arms of the city, and a small sculptured figure of Saint Anthony.

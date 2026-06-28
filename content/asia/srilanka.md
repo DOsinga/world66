@@ -1,21 +1,23 @@
 ---
-title: Sri Lanka
-type: location
-latitude: 7.555494
-longitude: 80.713785
-image: srilanka.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_2013_01.JPG
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Cherubino" title="User:Cherubino">Cherubino</a>
-quick_facts:
-  Population: "22 million"
-  Drives On: Left
-  Leopard Density at Yala: Highest of any national park in the world
-  Country Size: "About the size of Ireland"
 done:
   country_cleanup: 2026-03-30
-score: 0.69
+image: srilanka.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Cherubino" title="User:Cherubino">Cherubino</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_2013_01.JPG
+latitude: 7.555494
 loc_type: country
+longitude: 80.713785
+quick_facts:
+  Country Size: About the size of Ireland
+  Drives On: Left
+  Leopard Density at Yala: Highest of any national park in the world
+  Population: 22 million
+score: 0.8
+snippet: South Asian island country of ancient cities, tea highlands, wildlife parks,
+  and long beaches
+title: Sri Lanka
+type: location
 ---
 
 Sri Lanka is an island of extraordinary variety. In the space of a few hours you can move from the frenetic energy of [Colombo](/asia/srilanka/colombo) to the cool mist of the Hill Country, from ancient ruined cities to beaches that go on for miles. It is a small country — about the size of Ireland — but it packs in more history, wildlife, and landscape than many places ten times its size.

@@ -8,6 +8,7 @@ longitude: 3.266111
 tags:
 - things_to_do
 - sport
+score: 6.4
 ---
 
 AS Béziers Hérault rugby club plays at the Stade Raoul-Barrière, a stadium named after the coach who led the club through its golden era. Between 1961 and 1984, AS Béziers was the dominant force in French rugby, winning the national championship fourteen times. For a mid-sized provincial city, this is an extraordinary record, and the club's identity is wrapped into the city's sense of itself in ways that go well beyond sport.

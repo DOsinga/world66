@@ -7,6 +7,7 @@ tags:
 - historic_house
 title: Gardner Village
 type: poi
+score: 4.7
 ---
 
 Gardner Village is a collection of historic pioneer homes relocated to the site of the original Gardner Flour Mill, built in 1877 along Little Cottonwood Creek in West Jordan (about 15 minutes south of downtown Salt Lake City). The mill itself has been restored and converted into a shop selling country furniture and home accessories, while Archibald's Restaurant operates in the adjacent building.

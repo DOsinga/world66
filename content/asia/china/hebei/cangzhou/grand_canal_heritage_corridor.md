@@ -9,6 +9,7 @@ latitude: 38.3117
 longitude: 116.8500
 story: >
   The section of the Grand Canal at Cangzhou was not always the quiet heritage corridor it is today. During the height of the canal system's operation in the Ming and Qing dynasties, this stretch handled an estimated four million piculs of grain per year in the northbound imperial grain shipments alone — the logistical operation that fed Beijing and funded the imperial military. The towpath was crowded with barge trackers pulling loads upriver through hundreds of kilometres of flat water.
+score: 6.3
 ---
 
 The Grand Canal passes through Cangzhou on its 1,800-kilometre route between Beijing and Hangzhou, and the section here has been developed as a heritage corridor with restored towpaths, period architecture, and interpretive panels along a several-kilometre riverside walk. The canal is still partially active for freight — working barges occasionally pass the heritage sections — which gives it a living quality that some fully museumified waterways lack.

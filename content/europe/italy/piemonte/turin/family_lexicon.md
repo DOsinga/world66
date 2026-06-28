@@ -1,10 +1,11 @@
 ---
-title: "Family Lexicon"
-type: poi
+author: Natalia Ginzburg
+isbn: 978-1681371979
+score: 5.2
 tags:
-  - books
-author: "Natalia Ginzburg"
-isbn: "978-1681371979"
+- books
+title: Family Lexicon
+type: theme
 ---
 
 Ginzburg grew up in a Jewish intellectual family in Turin in the 1920s and 1930s; her husband Leone Ginzburg was tortured to death by the Fascists. *Family Lexicon* is her great memoir of that family, told through the catchphrases and tics of her parents and siblings.

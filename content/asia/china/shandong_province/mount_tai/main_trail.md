@@ -8,6 +8,7 @@ latitude: 36.2558
 longitude: 117.1075
 story: >
   The stone-paved trail from the Red Gate at the mountain base to the South Gate of Heaven near the summit runs 7.5 kilometres and rises about 1,400 metres. At the Red Gate, you pass through the first ceremonial arch; the Zhong Tianmen (Middle Heaven Gate) marks the halfway point where most tourists take the cable car. The Shiba Pan — the Eighteen Bends — is the final brutal section of nearly vertical stone stairs before the South Gate. Confucius climbed this trail; so did 72 emperors.
+score: 9.4
 ---
 
 The main ascending trail is the reason to come to Mount Tai. The path is continuous stone steps from the Red Gate palace at the mountain base to the South Gate of Heaven near the summit — 7,500 steps, 7.5 kilometres, 1,400 metres of ascent. Along the way: the Red Gate Palace, the Wan Xian Tower (Ten Thousand Immortals Pavilion), the Middle Heaven Gate at the halfway point, and the Zhong Tianmen cable car station for those who prefer to let machinery do the upper section.

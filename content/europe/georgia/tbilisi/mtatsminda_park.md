@@ -9,6 +9,7 @@ title: Mtatsminda Park
 type: poi
 story: >
   The funicular that climbs Mtatsminda was first built in 1905, making it one of the oldest funicular railways in the former Soviet Union. It was rebuilt and extended several times; the current cars date from 2012. The Pantheon of Georgian Writers on the mountain slope — where famous Georgians including the poet Akaki Tsereteli are buried — has been a place of national pilgrimage since the 19th century.
+score: 6.2
 ---
 
 Mtatsminda — "Holy Mountain" — rises above the city's western edge and is reached by a funicular from the foot of the hill near Rustaveli Avenue. At the top, a Soviet-era amusement park with a Ferris wheel and other rides sits beside a television tower. The views from the summit over the whole city are the main draw: on a clear day you can see the Greater Caucasus mountains to the north.

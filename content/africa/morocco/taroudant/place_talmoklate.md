@@ -7,6 +7,7 @@ tags:
 latitude: 30.4698
 longitude: -8.8802
 snippet: "The quieter of Taroudant's two main squares"
+score: 6.2
 ---
 
 Place Talmoklate is the second of Taroudant's central squares, slightly smaller and quieter than Place Assarag but equally important as an orientation point. It sits near the main arched gateway into the old town and acts as a small transport hub — grand taxis and local buses gather on its edges, and bicycle rentals are available nearby.

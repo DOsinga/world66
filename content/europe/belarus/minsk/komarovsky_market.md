@@ -8,6 +8,7 @@ tags:
 latitude: 53.9178
 longitude: 27.5669
 snippet: The largest and most atmospheric food market in Minsk, under a spectacular Soviet-era dome
+score: 7.7
 ---
 
 Komarovsky Market is Minsk's most important traditional food market, housed under a large circular dome that is one of the more striking pieces of Soviet commercial architecture in the city. The market sells fresh produce, meat, fish, dairy, and preserved foods, much of it brought in from Belarusian farms. The quality is high and the selection is far better than any supermarket.

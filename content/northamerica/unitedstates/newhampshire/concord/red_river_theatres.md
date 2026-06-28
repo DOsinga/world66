@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2034
 longitude: -71.5378
+score: 6.2
 ---
 
 Red River Theatres is the nonprofit independent cinema that opened on South Main Street in 2007 and has been the cultural backbone of downtown Concord ever since. Three small screening rooms show a curated mix of art-house, foreign, documentary and limited-release films, with regular Q&As, film festivals, and a steady program of classic-film matinees. Beer and wine are sold; the popcorn is real.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -33.0218
 longitude: -71.5621
+score: 6.0
 ---
 
 Castillo Brunet, also known as Palacio Yarur, is one of several aristocratic mansions built along the Marga Marga estuary during Viña del Mar's Belle Époque boom years. The building is a fine example of the eclectic European style that wealthy Chilean families favoured at the turn of the twentieth century — turrets, ornamental ironwork, and wide verandas that look out over the river.

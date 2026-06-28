@@ -7,6 +7,7 @@ tags:
 latitude: 14.341
 longitude: 121.084
 snippet: "Local Filipino restaurant with made-to-order seafood and the best pancit Malabon in town"
+score: 6.2
 ---
 
 Pancit Malabon is a different beast from the thinner noodle dishes you get elsewhere in the Philippines. The noodles are thick and starchy, the sauce is rich with shrimp and smoked fish, and the toppings — hard-boiled eggs, chicharron, tinapa flakes, spring onions — go on in layers. Nanay's has built its reputation on this dish, and the version here is made to order rather than sitting in a bain-marie waiting for customers. It is the kind of cooking that takes its time and shows it.

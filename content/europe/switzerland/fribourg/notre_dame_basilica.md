@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.8069
 longitude: 7.1617
+score: 5.6
 ---
 
 The Basilica of Notre-Dame stands in the upper town of Fribourg and is the main parish church for the upper city, distinct from the cathedral of Saint-Nicolas a short walk away. The current church dates from the 19th century but occupies a site of earlier religious buildings, and the interior has been renovated and decorated with care over the centuries.

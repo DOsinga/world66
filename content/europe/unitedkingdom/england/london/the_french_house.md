@@ -3,10 +3,12 @@ address: 49 Dean Street, London W1D 5BG
 latitude: 51.513362
 longitude: -0.131574
 opening_hours: Mon–Sat noon–11pm; Sun noon–10:30pm
+score: 8.0
 snippet: Soho's legendary bohemian pub, where Dylan Thomas lost his manuscript
 tags:
 - bars_and_cafes
 - bar
+- soho
 title: The French House
 type: poi
 ---

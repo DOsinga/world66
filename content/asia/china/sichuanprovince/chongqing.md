@@ -7,9 +7,11 @@ image: chongqing.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Chongqing_Nightscape.jpg
 latitude: 30.05518
-loc_type: city
+loc_type: region
 longitude: 107.874871
-score: 0.57
+score: 7.87
+snippet: Vast hilly Chinese municipality at the Yangtze-Jialing confluence, known
+  for fog, hotpot, and river cruises.
 title: Chongqing
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Disused 19th-century granite quarry, now a public park and Ireland's top rock-climbing crag
+score: 7.2
 ---
 
 The grey granite that built much of nineteenth-century Dublin — including the great harbour walls at Dún Laoghaire — was cut out of the side of Dalkey Hill here. After the quarry closed it filled with scrub and became a public park; the long flat-bottomed pits, the spoil heaps, and the funicular incline that once carried stone down to the harbour are all still recognisable in the landscape.

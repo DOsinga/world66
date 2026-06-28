@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.4800
 longitude: -12.7200
+score: 7.4
 ---
 
 The ocean-facing side of Sherbro Island has stretches of undeveloped beach that see almost no visitors. The sand is long and dark, and the Atlantic surf here can be rough — this is not a sheltered bathing beach but open ocean shoreline. The beaches are entirely undeveloped: no sunbeds, no vendors, no facilities of any kind. What you get is an empty beach on the edge of West Africa with nothing but the sound of the waves.

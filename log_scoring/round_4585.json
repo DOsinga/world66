@@ -1,0 +1,200 @@
+{
+  "round": 4585,
+  "timestamp": "2026-06-14T00:24:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 6.5185,
+      "prior_variance": 0.123047,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.9191,
+      "prior_variance": 0.090297,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 2.7749,
+      "prior_variance": 0.095725,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": 0.2302,
+      "prior_variance": 0.239069,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.0617,
+      "prior_variance": 0.118574,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.5401,
+      "prior_variance": 0.103901,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Gaziantep",
+      "path": "asia/turkey/gaziantep",
+      "prior_score": 3.2216,
+      "prior_variance": 0.100444,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.2321,
+      "prior_variance": 0.090032,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.4069,
+      "prior_variance": 0.089122,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.2125,
+      "prior_variance": 0.086208,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.5733,
+      "prior_variance": 0.086233,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 1.5851,
+      "prior_variance": 0.092741,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 1.3701,
+      "prior_variance": 0.093864,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 1.5449,
+      "prior_variance": 0.094675,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -1.2335,
+      "prior_variance": 0.112444,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.0054,
+      "prior_variance": 0.085538,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": -0.1932,
+      "prior_variance": 0.108278,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_score": 0.0256,
+      "prior_variance": 0.082972,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -1.4543,
+      "prior_variance": 0.100056,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -0.6808,
+      "prior_variance": 0.086963,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -2.013,
+      "prior_variance": 0.103948,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Guiyang",
+      "path": "asia/china/guizhou/guiyang",
+      "prior_score": -1.2856,
+      "prior_variance": 0.09019,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 3.0101,
+      "prior_variance": 0.098463,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -5.7313,
+      "prior_variance": 0.150825,
+      "prior_n": 15
+    }
+  ]
+}

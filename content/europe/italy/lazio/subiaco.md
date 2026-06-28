@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Subiaco_-_Sacro_Speco_(Mon
 latitude: 41.926715
 loc_type: city
 longitude: 13.094432
-score: 0.52
+score: 7.64
+snippet: Simbruini Mountains town near Rome, shaped by Nero's retreat and Saint Benedict's
+  cliffside monasteries.
 title: Subiaco
 type: location
 ---

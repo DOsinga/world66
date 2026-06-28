@@ -6,6 +6,7 @@ longitude: 106.8051
 tags:
   - things_to_do
   - sight
+score: 5.1
 ---
 
 The Kujang Monument is a 25-metre obelisk in the Sempur area of Bogor, topped with a replica of the kujang — a traditional Sundanese ceremonial blade with a distinctive hooked shape. The monument was built in 1982 as a symbol of Bogor's Sundanese cultural identity and is one of the city's most recognisable landmarks.

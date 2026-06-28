@@ -8,6 +8,7 @@ story: >
   The City Forest was established in 1969 on land that had been city-owned since the
   1890s, when it was used as a watershed protection area. It remains one of the largest
   urban forests in the eastern United States — over 680 acres within the city limits.
+score: 7.3
 ---
 
 The Bangor City Forest is a 680-acre urban woodland with 17 miles of maintained trails, sitting within the city limits just east of downtown. The forest offers walking, running, mountain biking, cross-country skiing, and snowshoeing depending on the season. The trail network ranges from easy flat loops to more demanding terrain, all well-marked.

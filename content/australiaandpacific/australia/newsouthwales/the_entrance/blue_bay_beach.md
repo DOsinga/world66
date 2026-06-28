@@ -8,6 +8,7 @@ latitude: -33.3531
 longitude: 151.5011
 sources:
   - https://en.wikipedia.org/wiki/Blue_Bay,_New_South_Wales
+score: 6.5
 ---
 
 Blue Bay is a small, sheltered beach on the southern edge of The Entrance district, tucked between the headland and the lake edge. It is quieter than the main beach at The Entrance and popular with local families precisely because it is less discovered. The water is generally calmer here too, making it a good swimming beach for children.

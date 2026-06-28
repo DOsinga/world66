@@ -2,13 +2,15 @@
 address: 6 Pennyfield Ave, Throggs Neck, Bronx
 done:
   poi_cleanup: '2026-04-19'
-latitude: 40.814
-longitude: -73.793
+latitude: 40.805276
+longitude: -73.792054
 phone: +1 718 409 7218
+score: 5.4
 snippet: 1830s granite fort turned maritime museum on Throggs Neck
 tags:
 - things_to_do
 - museum
+- thebronx
 title: Fort Schuyler Maritime Museum
 type: poi
 ---

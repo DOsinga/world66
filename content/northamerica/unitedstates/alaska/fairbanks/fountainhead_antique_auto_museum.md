@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 64.8143
 longitude: -147.8694
+score: 8.0
 ---
 
 The Fountainhead Antique Auto Museum houses one of the finest collections of pre-World War II automobiles in North America, and it is not the kind of place you would expect to find in Interior Alaska. The collection includes seven one-of-a-kind vehicles, along with dozens of meticulously restored cars from the early 1900s through the 1930s.

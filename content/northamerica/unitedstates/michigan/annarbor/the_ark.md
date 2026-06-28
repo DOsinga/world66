@@ -9,6 +9,7 @@ tags:
   - theatre
 story: >
   The Ark started in 1965 as a student-run coffeehouse above a campus store. Over six decades it has hosted virtually every significant name in folk and acoustic music, from Doc Watson and Joni Mitchell to newer acts on their way up. It remains a nonprofit, volunteer-supported organization.
+score: 8.0
 ---
 
 A nationally respected acoustic and folk music venue that punches far above what you would expect from a 400-seat room in a Midwestern college town. The Ark books an impressive range of acts — folk, bluegrass, jazz, world music, singer-songwriters — and the intimate setting means there is not a bad seat in the house. The sound is excellent and the audience genuinely listens.

@@ -5,7 +5,9 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 51.9446
 longitude: 1.2899
-score: 0.41
+score: 6.72
+snippet: Historic Essex port where the Mayflower's captain lived, with ferry traffic
+  and naval relics.
 title: Harwich
 type: location
 loc_type: city

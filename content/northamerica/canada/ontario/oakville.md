@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-28'
+image: oakville.jpg
+image_attribution: Canmenwalker
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Oakville_2023.jpg
 latitude: 43.447436
 loc_type: city
 longitude: -79.666672
-score: 0.39
+score: 6.52
+snippet: Prosperous Lake Ontario town with a historic harbour, Georgian buildings,
+  and easy links to Toronto.
 sources:
 - https://en.wikipedia.org/wiki/Oakville,_Ontario
 title: Oakville
 type: location
-image: oakville.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Oakville_2023.jpg
-image_license: CC BY 4.0
-image_attribution: Canmenwalker
 ---
 
 Oakville is a prosperous lakeside town on the western shore of Lake Ontario, about 30 km southwest of Toronto. It has a handsome harbour area and a well-preserved historic downtown, and is large enough (population around 210,000) to have a distinct character of its own, separate from the sprawl of the Greater Toronto suburbs nearby.

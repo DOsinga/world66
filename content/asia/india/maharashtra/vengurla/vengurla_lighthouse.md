@@ -12,6 +12,7 @@ story: The Vengurla lighthouse was built by the British in 1869, making it one o
   to warn sailors about the Vengurla Rocks, a string of small islands offshore that
   were a serious navigational hazard for ships using this coast before GPS. Vessels
   still give the rocks a wide berth.
+score: 7.2
 ---
 
 The Vengurla lighthouse stands on a headland above the fishing jetty, giving views north along the Konkan coast and south toward the Goa border. On a clear day you can see the Vengurla Rocks (the Burnt Islands) offshore and trace the curve of the coast toward Redi Point and beyond.

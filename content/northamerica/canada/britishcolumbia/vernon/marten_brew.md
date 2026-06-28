@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 50.2677
 longitude: -119.2713
+score: 6.1
 ---
 
 Marten Brewing is one of Vernon's best-regarded craft breweries, operating a downtown taproom on 30th Avenue with a rotating selection of ales, lagers, and seasonal beers made on site. The setup is unpretentious — long communal tables, friendly staff, and a good selection of food to go with the pints. Local hops appear in some of the house beers.

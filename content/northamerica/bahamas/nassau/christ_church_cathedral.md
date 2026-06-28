@@ -8,6 +8,7 @@ tags:
   - downtown
 latitude: 25.0775
 longitude: -77.3450
+score: 7.7
 ---
 
 The Anglican cathedral, three blocks west of Parliament Square. It is the fifth church on this site since 1670, the previous ones having been variously burnt, blown over by hurricanes, or sacked by Spanish raiders. The current building dates from 1837–1841 and is built in a robust English neo-Gothic.

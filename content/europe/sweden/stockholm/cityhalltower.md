@@ -7,9 +7,10 @@ tags:
 - things_to_do
 - tower
 - sight
-- norrmalm
+- kungsholmen
 title: City Hall Tower
 type: poi
+score: 7.8
 ---
 
 The tower of Stockholm's City Hall rises 106 metres above Kungsholmen, topped by the Three Crowns — the heraldic symbol of Sweden. You can climb to the top by guided tour during summer months, and the views over Lake Mälaren, Gamla Stan, and the rooftops of the city are worth every step of the 365 stairs.

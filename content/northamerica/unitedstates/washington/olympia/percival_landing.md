@@ -7,6 +7,7 @@ tags:
 title: Percival Landing
 type: poi
 snippet: Waterfront park and boardwalk along Budd Inlet
+score: 7.2
 ---
 
 Percival Landing is the working harbourfront-turned-park at the northern end of downtown — a 30-acre site of boardwalks, viewing platforms, public sculpture and grassy berms running along Budd Inlet. The 70-foot observation tower at the south end gives the best view of the harbour, the surrounding hills and the State Capitol dome to the south.

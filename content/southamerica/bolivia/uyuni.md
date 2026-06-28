@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyu
 latitude: -20.4628
 loc_type: city
 longitude: -66.8239
+score: 9.2
+snippet: Dusty Bolivian Altiplano railway town on the edge of the Salar de Uyuni.
 sources:
 - https://en.wikipedia.org/wiki/Uyuni
 title: Uyuni

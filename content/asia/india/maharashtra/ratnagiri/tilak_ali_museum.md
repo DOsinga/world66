@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 17.0036
 longitude: 73.2990
+score: 6.6
 ---
 
 Lokmanya Bal Gangadhar Tilak — freedom fighter, journalist, and one of the early architects of Indian nationalism — was born in Ratnagiri in 1856. The Tilak Ali Museum in the town celebrates his life and legacy with photographs, writings, letters, and personal artefacts.

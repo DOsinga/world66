@@ -7,6 +7,7 @@ tags:
 - bar
 title: The Bar Strip near Ost Station
 type: poi
+score: 5.2
 ---
 
 Interlaken's nightlife divides cleanly between the staid hotel bars of the Hoheweg and the rowdy, international backpacker scene around the Ost station. The latter is dominated by the adventure tourism crowd: people who have spent the day jumping off things, flying from mountains, or abseiling into gorges, and who require beer, loud music, and other people in a similar state.

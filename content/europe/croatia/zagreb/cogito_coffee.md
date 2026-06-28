@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - cafe
 - gornji_grad
+score: 6.3
 ---
 
 Cogito was the first serious specialty coffee roaster in Zagreb and remains the standard reference. The flagship branch is a small bright room near the funicular, with a counter, a few stools, and a small queue most mornings. Espresso, V60, AeroPress, batch brew — the staff are obsessive and well-trained.

@@ -9,6 +9,7 @@ tags:
 - square
 snippet: Renaissance travertine square, one of Italy's most harmonious
 story: The Piazza del Popolo is paved entirely in travertine, every block locally quarried, and the design — by Cola dell'Amatrice in the 1500s — was conceived as a single architectural composition rather than the accretion of centuries that you get in most Italian squares. Ascolani still refer to it as "the salotto" — the drawing room.
+score: 9.4
 ---
 
 The pivot of the entire centre and the showcase of what travertine architecture can do. The long rectangular space is closed at the south end by the late-Gothic façade of San Francesco, on the east by the loggia of the Mercanti, and on the west by the colonnaded Palazzo dei Capitani del Popolo. The whole composition was rebuilt in the 16th century with deliberate harmony — uniform stone, uniform porticoes, uniform proportions — and the result is one of the most coherent urban squares in Italy.

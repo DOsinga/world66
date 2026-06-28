@@ -8,6 +8,7 @@ tags:
   - family
 latitude: 52.3981
 longitude: 13.0963
+score: 5.7
 ---
 
 The Biosphäre Potsdam is a large tropical greenhouse complex near the Volkspark, housing a climate-controlled rainforest environment with free-roaming birds, butterflies, and reptiles among a dense collection of tropical plants. The combination of lush vegetation, warm humid air, and the spectacle of macaws and Amazon parrots flying overhead makes it popular with families and a useful refuge on cold or wet days. The building is a former exhibition hall from a GDR-era trade fair, substantially converted for its current use.

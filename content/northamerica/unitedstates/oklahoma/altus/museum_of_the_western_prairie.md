@@ -13,6 +13,7 @@ tags:
 - museum
 title: Museum of the Western Prairie
 type: poi
+score: 7.3
 ---
 
 The Museum of the Western Prairie tells the story of southwestern Oklahoma — from the Kiowa and Comanche era through the Land Run, the cotton and wheat economy, the Dust Bowl, and the founding of Altus Air Force Base. It is the kind of well-funded county museum that small American towns produce when they take their history seriously, and the curation is good: clear chronology, real artefacts (Native American tools, settler farm equipment, military uniforms), and a reconstructed half-dugout house on the grounds showing how the first homesteaders actually lived.

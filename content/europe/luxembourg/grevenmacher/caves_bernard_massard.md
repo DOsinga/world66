@@ -7,6 +7,7 @@ tags:
 latitude: 49.6806
 longitude: 6.4417
 story: "Bernard-Massard has been producing Crémant de Luxembourg in these caves since 1921, using the traditional method that also produces Champagne. The cellars run for around 200 metres under the town and maintain a constant temperature of 12°C regardless of season."
+score: 8.0
 ---
 
 The caves of Bernard-Massard are the obvious starting point for any visit to Grevenmacher. This long-established sparkling wine producer offers guided tours of its underground cellars, explaining how Crémant de Luxembourg — the country's answer to Champagne — is made using the traditional method of secondary fermentation in the bottle. The caves themselves are atmospheric: low tunnels lined with thousands of bottles in various stages of ageing, all at a steady 12°C.

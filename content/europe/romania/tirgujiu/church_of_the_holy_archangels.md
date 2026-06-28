@@ -8,6 +8,7 @@ tags:
 snippet: "Romanian Orthodox church on Piața Victoriei, notable for its frescoes and traditional Oltenian style"
 latitude: 45.041
 longitude: 23.2723
+score: 5.9
 ---
 
 The Church of the Holy Archangels (Sfinții Voievozi) stands on Piața Victoriei in the centre of Târgu Jiu, a traditional Romanian Orthodox church with an interior covered in frescoes. The church dates from the nineteenth century and follows the Oltenian church-building tradition — a tall, narrow nave under a high drum, with exterior painted decoration.

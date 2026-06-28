@@ -5,7 +5,9 @@ done:
 latitude: 15.8833
 loc_type: city
 longitude: 44.0167
-score: 0.16
+score: 1.47
+snippet: Fortified Yemeni highland town on a mountain perch, with rock-cut cisterns
+  and an old castle.
 title: Thola
 type: location
 ---

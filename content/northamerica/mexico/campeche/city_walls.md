@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The walls were built after pirates sacked Campeche in 1663, killing more than 300 people and looting the city for days. Spain, which had long ignored requests for fortifications, finally acted. Construction began in 1686 and took over 60 years. By the time the walls were complete, the pirate threat had largely passed — but Campeche never forgot the lesson.
+score: 9.3
 ---
 
 Campeche is one of the only fortified cities in the Americas whose colonial-era walls survive nearly intact. The hexagonal rampart enclosing the historic centre was built between 1686 and 1704 in response to a devastating pirate raid, and today it forms one of the most complete examples of Spanish colonial military engineering in existence.

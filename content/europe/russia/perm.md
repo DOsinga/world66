@@ -5,7 +5,9 @@ done:
 latitude: 58.010853
 loc_type: city
 longitude: 56.231853
-score: 0.34
+score: 6.15
+snippet: Ural city on the Kama River, historically a Eurasian frontier between European
+  Russia and Siberia.
 title: Perm
 type: location
 ---

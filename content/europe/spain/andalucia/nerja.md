@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:View_from_Balc%C3%B3n_de_E
 latitude: 36.746856
 loc_type: city
 longitude: -3.879016
-score: 0.66
+score: 8.7
+snippet: Clifftop Costa del Sol town with whitewashed lanes, small coves, and a vast
+  cave system nearby.
 title: Nerja
 type: location
 ---

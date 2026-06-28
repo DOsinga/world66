@@ -6,6 +6,7 @@ longitude: -88.2055
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Calzada de los Frailes — Friars' Walk — links the main plaza to the Convento de San Bernardino at the western edge of the colonial centre. It is the prettiest street in Valladolid: a cobblestoned, slightly curved avenue lined with single-storey colonial houses painted in pinks, blues, ochres, and limewash whites, each with tall wooden doors and wrought-iron grilles over the windows.

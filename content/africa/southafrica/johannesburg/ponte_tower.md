@@ -9,6 +9,7 @@ latitude: -26.1968
 longitude: 28.0601
 story: >
   At the nadir of its decline in the 1990s, the rubbish pile accumulating in the cylindrical light well reached the 14th floor. Clearance reportedly took weeks.
+score: 7.3
 ---
 
 Ponte City is a 54-storey cylindrical residential skyscraper, completed in 1975, that has become one of the most iconic images of Johannesburg. The hollow central shaft — visible from large parts of the city as a distinctive circular silhouette — was designed to bring light into the building's interior. From the outside, it is simply remarkable: a Brutalist monolith that dominates the Hillbrow skyline with absolute confidence.

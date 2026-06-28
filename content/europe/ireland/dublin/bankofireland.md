@@ -4,11 +4,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 53.3445
 longitude: -6.2592
+score: 7.1
 snippet: Former Irish Parliament now housing a grand banking hall
 tags:
 - things_to_do
 - sight
 - architecture
+- trinity_college_area
 title: Bank of Ireland
 type: poi
 ---

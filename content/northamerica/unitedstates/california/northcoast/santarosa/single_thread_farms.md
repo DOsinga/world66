@@ -9,6 +9,7 @@ longitude: -122.8688
 address: 131 North Street, Healdsburg, CA 95448
 phone: (707) 723-4646
 snippet: Three Michelin-star farm-to-table restaurant in nearby Healdsburg, among California's best
+score: 6.7
 ---
 
 SingleThread is technically in Healdsburg (30 minutes north of Santa Rosa), but it merits mention as the most exceptional restaurant accessible from the city. The chefs Kyle and Katina Connaughton grow most of their produce on their farm in Sonoma County, and the kaiseki-influenced tasting menu changes with the seasons in a way that makes the agricultural setting tangible. Three Michelin stars since 2018.

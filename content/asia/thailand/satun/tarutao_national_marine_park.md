@@ -8,6 +8,7 @@ latitude: 6.5508
 longitude: 99.6625
 story: >
   During World War II, Ko Tarutao served as a prison island. When supply ships stopped coming due to the Japanese occupation, the prisoners and their guards — about 3,000 people in total — were left to fend for themselves. They eventually turned to piracy to survive, raiding passing ships for food and supplies. The pirates were only suppressed when British forces from Malaya arrived in 1946.
+score: 8.8
 ---
 
 The Tarutao National Marine Park, 22 km off the Satun coast, is one of Thailand's most pristine protected areas — less famous than the Similan or Surin Islands but equally beautiful and far less crowded. The park covers 51 islands and a vast stretch of the Andaman Sea between Thailand and Malaysia.

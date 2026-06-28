@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida
 latitude: 30.176591
 loc_type: city
 longitude: -85.805386
-score: 0.52
+score: 7.85
 title: Panama City Beach
+snippet: Florida Panhandle beach resort known for white quartz sand and clear Gulf
+  water.
 type: location
 ---
 

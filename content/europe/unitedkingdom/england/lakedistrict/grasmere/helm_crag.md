@@ -11,6 +11,7 @@ story: >
   from the south the largest outcrop resembles a crouching lion, and from the northwest a different
   arrangement of rocks looks like a reclining lamb. Neither figure disappears into abstract rock
   when you look for it, which is unusual among such named formations.
+score: 8.5
 ---
 
 Helm Crag is the fell that dominates the view north from Grasmere village, its summit rocks distinctive against the skyline. At 405 metres it is not high by Lake District standards, but the path from the village gains height quickly and the views from the top — over Grasmere, Rydal Water, and Easedale Tarn — are disproportionate to the effort involved.

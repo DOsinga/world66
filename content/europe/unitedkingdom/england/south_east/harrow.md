@@ -3,8 +3,10 @@ done:
   location_enrich: '2026-05-29'
 latitude: 51.596827
 loc_type: city
+snippet: Outer London borough with a hilltop village, historic school, and long views
+  across the capital
 longitude: -0.337305
-score: 0.35
+score: 5.9
 title: Harrow
 type: location
 ---

@@ -8,6 +8,7 @@ latitude: 46.6583
 longitude: 8.6667
 snippet: Alpine pass at 2044m linking Andermatt to Graubünden, crossed by the Glacier Express
 story: "The Oberalp Pass is the highest point on the Glacier Express route — the famous slow train that runs between Zermatt and St. Moritz crosses it at 2033 metres. In winter the road is closed but the railway keeps running, making the crossing available year-round to rail passengers."
+score: 7.9
 ---
 
 The Oberalp Pass (2044m) connects the Uri valley around Andermatt to the Graubünden canton and the headwaters of the Rhine. It is less dramatic than the Furka but the crossing is historically significant — traders and armies have been using this route for centuries, and the Rhine Glacier at the top is one of the sources of Europe's longest river.

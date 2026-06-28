@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "El Mansoura SC, the city's football club, were once one of Egypt's top sides — the stadium was built to reflect that ambition. Egyptian football culture brings a particular intensity to away fixtures, and watching a game here is an experience that belongs to the city rather than to tourists."
+score: 5.8
 ---
 
 El Mansoura Stadium is the home ground of El Mansoura SC, the city's professional football club. The stadium holds several thousand spectators and is the main sports venue in the city. Egyptian football is a serious business in the Delta, and Mansoura's club has a loyal following that makes match days a genuine local event.

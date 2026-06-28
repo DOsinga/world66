@@ -15,6 +15,7 @@ tags:
 - museum
 title: Beethoven-Haus
 type: poi
+score: 8.7
 ---
 
 Birthplace of Ludwig van Beethoven, now a museum housing the world's largest Beethoven collection. You will find original manuscripts, his last grand piano, ear trumpets, and personal letters spread across twelve rooms. The attached Kammermusiksaal hosts intimate chamber concerts.

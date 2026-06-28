@@ -13,6 +13,7 @@ story: >
   and time that feels entirely at home in a seafarers' temple.
 sources:
   - https://en.wikipedia.org/wiki/Tam_Kung_Temple_(Macau)
+score: 6.7
 ---
 
 The Tam Kung Temple, built in 1862 on the southern shore of Coloane, is dedicated to a Taoist deity venerated by seafarers throughout Guangdong and Macau. The temple is modest in scale but rich in atmosphere — incense smoke, red lanterns, and the particular quiet of a working place of worship that has been here for over 160 years.

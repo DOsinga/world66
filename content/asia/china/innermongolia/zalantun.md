@@ -4,6 +4,9 @@ done:
 latitude: 48.027
 loc_type: city
 longitude: 122.7083
+score: 6.43
+snippet: Green Inner Mongolian foothill city where Greater Khingan forests replace
+  the open steppe.
 sources:
 - https://en.wikivoyage.org/wiki/Inner_Mongolia
 title: Zalantun

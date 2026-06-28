@@ -14,6 +14,7 @@ story: >
   in the Moscow Kremlin, built a century later, and it remained the spiritual centre of medieval
   Rus until Moscow eclipsed Vladimir. Andrei Rublev's frescoes inside, painted in 1408, are among
   the finest surviving examples of medieval Russian religious art.
+score: 9.6
 ---
 
 The Assumption Cathedral is Vladimir's masterpiece and one of the finest white-stone churches in Russia. Built in 1158 by Prince Andrei Bogolyubsky and enlarged in 1189, it served as the principal cathedral of the Vladimir-Suzdal principality — the dominant power in medieval Rus before the Mongol invasion of 1237–38. The building is a UNESCO World Heritage Site.

@@ -1,200 +1,200 @@
 {
   "round": 950,
-  "timestamp": "2026-04-12T16:08:56",
+  "timestamp": "2026-06-13T20:02:38",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 184,
-      "prior_n": 8
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": -2.387,
+      "prior_variance": 0.484075,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Henningsv\u00e6r",
-      "path": "europe/norway/lofotenislands/henningsvr",
-      "prior_rank": 66,
-      "prior_wins": 45,
-      "prior_n": 2
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.2649,
+      "prior_variance": 0.426679,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Gaiole in Chianti",
-      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
-      "prior_rank": 3651,
-      "prior_wins": 25,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 2.3204,
+      "prior_variance": 0.6007,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Domme",
-      "path": "europe/france/midi/dordogne/domme",
-      "prior_rank": 2137,
-      "prior_wins": 33,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 3.2704,
+      "prior_variance": 0.786979,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Sulawesi",
-      "path": "asia/indonesia/sulawesi",
-      "prior_rank": 2668,
-      "prior_wins": 30,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 1.3384,
+      "prior_variance": 0.59051,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Maun",
-      "path": "africa/botswana/maun",
-      "prior_rank": 3206,
-      "prior_wins": 27,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 4.1527,
+      "prior_variance": 0.764505,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Cha-am",
-      "path": "asia/thailand/chaam",
-      "prior_rank": 3428,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": 1.0246,
+      "prior_variance": 0.416661,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "San Vito",
-      "path": "northamerica/costarica/san_vito",
-      "prior_rank": 4152,
-      "prior_wins": 56,
-      "prior_n": 5
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -4.6759,
+      "prior_variance": 0.449799,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Astorga",
-      "path": "europe/spain/astorga",
-      "prior_rank": 2427,
-      "prior_wins": 102,
-      "prior_n": 7
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 2.5372,
+      "prior_variance": 0.732833,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "North Shore City",
-      "path": "australiaandpacific/newzealand/auckland_region/northshorecity",
-      "prior_rank": 4438,
-      "prior_wins": 21,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -1.8746,
+      "prior_variance": 0.567055,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Barranquilla",
-      "path": "southamerica/colombia/barranquilla",
-      "prior_rank": 4459,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": 0.0876,
+      "prior_variance": 0.407952,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Lahore",
-      "path": "asia/pakistan/lahore",
-      "prior_rank": 2702,
-      "prior_wins": 30,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.2408,
+      "prior_variance": 0.580323,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Santiago",
-      "path": "africa/capeverde/saotiago",
-      "prior_rank": 3884,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -1.12,
+      "prior_variance": 0.392123,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Frederikshavn",
-      "path": "europe/denmark/fredrikshavn",
-      "prior_rank": 4874,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Xingyi",
+      "path": "asia/china/guizhou/xingyi",
+      "prior_score": -5.0491,
+      "prior_variance": 0.581951,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "El Ejido",
-      "path": "europe/spain/andalucia/elejido",
-      "prior_rank": 7184,
-      "prior_wins": 10,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -0.7785,
+      "prior_variance": 0.46103,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "New Jersey",
-      "path": "northamerica/unitedstates/newjersey",
-      "prior_rank": 6931,
-      "prior_wins": 4,
-      "prior_n": 1
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -1.3811,
+      "prior_variance": 0.6284,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Setif",
-      "path": "africa/algeria/setif",
-      "prior_rank": 5936,
-      "prior_wins": 20,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -3.0234,
+      "prior_variance": 0.469808,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Grayslake",
-      "path": "northamerica/unitedstates/illinois/grayslake",
-      "prior_rank": 7692,
-      "prior_wins": 6,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -0.9365,
+      "prior_variance": 0.453535,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Port harcourt",
-      "path": "africa/nigeria/portharcourt",
-      "prior_rank": 6453,
-      "prior_wins": 16,
-      "prior_n": 3
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": -0.7938,
+      "prior_variance": 0.628623,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Maykop",
-      "path": "europe/russia/krasnodar/maykop",
-      "prior_rank": 7065,
-      "prior_wins": 7,
-      "prior_n": 2
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -0.3188,
+      "prior_variance": 0.686622,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Guinea",
-      "path": "africa/guineeconakry",
-      "prior_rank": 8208,
-      "prior_wins": 5,
-      "prior_n": 2
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -0.7273,
+      "prior_variance": 0.476822,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Eritrea",
-      "path": "africa/eritrea",
-      "prior_rank": 8075,
-      "prior_wins": 2,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -5.2591,
+      "prior_variance": 0.466103,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Nagorno-Karabakh",
-      "path": "europe/armenia/nagornokarabakh",
-      "prior_rank": 7996,
-      "prior_wins": 1,
-      "prior_n": 1
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -5.7964,
+      "prior_variance": 0.642726,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
-      "prior_rank": 8211,
-      "prior_wins": 6,
-      "prior_n": 3
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -0.6027,
+      "prior_variance": 0.698053,
+      "prior_n": 2
     }
   ]
 }

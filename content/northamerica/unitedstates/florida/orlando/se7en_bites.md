@@ -10,6 +10,7 @@ tags:
 title: Se7en Bites
 type: poi
 url: https://www.se7enbites.com
+score: 6.7
 ---
 
 A beloved bakery-cafe in the Mills 50 district, serving Southern comfort food from breakfast through early afternoon. The biscuits are the draw — tall, buttery, and layered, served with gravy or made into sandwiches. The showcase counter is stacked with quiches, pies, and cakes baked on-site. Brunch queues develop quickly on weekends. Cash and cards both accepted; parking along Mills Avenue is street-level and usually available.

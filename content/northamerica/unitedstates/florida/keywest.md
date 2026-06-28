@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Southernmost_point_buoy,_N
 latitude: 24.5551
 loc_type: city
 longitude: -81.78
-score: 0.69
+score: 9.15
+snippet: End-of-the-road Florida island city of Old Town porches, Duval Street bars,
+  and Caribbean light.
 title: Key West
 type: location
 ---

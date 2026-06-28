@@ -7,6 +7,7 @@ tags:
 - museum
 title: Innovatum Science Center
 type: poi
+score: 7.1
 ---
 
 Innovatum Science Center sits next to the Saab Car Museum on the former NOHAB industrial estate — the same complex where Trollhättan's manufacturing history was made. The museum covers the engineering and scientific history of the Göta River region, from the canal locks and hydroelectric power generation to the aeronautical industry that gave rise to Saab.

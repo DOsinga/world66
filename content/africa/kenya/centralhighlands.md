@@ -1,9 +1,11 @@
 ---
+latitude: 0.1
+loc_type: region
+longitude: 37.5
+snippet: Green Kenyan highland region around Mount Kenya, dense with tea, coffee,
+  farms, and trekking towns
 title: Central Highlands
 type: location
-loc_type: region
-latitude: 0.1
-longitude: 37.5
 ---
 
 The Central Highlands of Kenya rise dramatically north of Nairobi, forming the green spine of the country between the Great Rift Valley to the west and the drier lowlands to the east. Mount Kenya, Africa's second-highest peak, dominates the landscape — its snow-capped summits visible on clear mornings from as far away as Nairobi. The region is densely populated and heavily cultivated, the highland soils being among the most fertile in East Africa: you drive through an almost continuous patchwork of small farms growing tea, coffee, maize, and pyrethrum.

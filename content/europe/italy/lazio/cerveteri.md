@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cerveteri,_necropoli_della
 latitude: 41.9983
 loc_type: city
 longitude: 12.0992
-score: 0.54
+score: 7.81
+snippet: Etruscan town near Rome, known for the Banditaccia necropolis carved like
+  a city of the dead.
 title: Cerveteri
 type: location
 ---

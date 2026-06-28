@@ -6,6 +6,7 @@ longitude: 27.5013
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Setsoto is Lesotho's national football and athletics stadium, used for matches of the **Likuena** national team and the country's biggest annual football derby between Bantu and Matlama. The stadium also hosts royal celebrations and the country's biggest public concerts.

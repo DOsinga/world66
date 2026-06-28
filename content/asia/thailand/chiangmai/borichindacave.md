@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Borichinda Cave
 type: poi
+score: 5.8
 ---
 
 Borichinda Cave sits in the forested hills southwest of Chiang Mai, accessible via a roughly two-hour hike from Mae Klang Waterfall in Doi Inthanon National Park. The cave itself is modest -- stalactites and a few chambers -- but the walk through dense tropical forest is the real draw. Bring a flashlight and sturdy shoes; the trail can be slippery in the wet season.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.8000
 longitude: -4.1500
 snippet: "Subtropical hillside villages, avocado groves, and Moorish walking routes behind the coast"
+score: 8.2
 ---
 
 The Axarquía comarca — the hinterland behind Torre del Mar — is one of the least-visited and most rewarding parts of Málaga province. The hills rise steeply from the coast and the climate supports a subtropical agriculture unusual in Europe: avocados, mangoes, chirimoyas (custard apples), and tropical fruits grow on terraced hillsides that look more like Central America than southern Spain.

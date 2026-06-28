@@ -9,6 +9,7 @@ latitude: 43.6975
 longitude: 7.2742
 story: >
   Martin Luther attended Mass at the original church on this site in 1510 during his walk from Germany to Rome — one of the few documented stops of his pre-Reformation pilgrimage. A century later, Garibaldi was baptised in the replacement church built by the Augustinians. The church has thus witnessed two of the most consequential biographical moments of 16th and 19th-century European history without particularly advertising the fact.
+score: 6.4
 ---
 
 The Église Saint-Martin-Saint-Augustin is the oldest parish church in Nice still in active use, its current building dating to the 17th century on foundations that are considerably older. The austere stone facade on Place Saint-Augustin in Vieux Nice gives no hint of the ornate baroque interior, which contains a Pietà attributed (with varying degrees of confidence) to Louis Bréa, the master of the Nice School of painting.

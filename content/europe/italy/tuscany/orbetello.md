@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:OrbetelloWindmill.jpg
 latitude: 42.438094
 loc_type: city
 longitude: 11.210743
-score: 0.58
+score: 8.26
 title: Orbetello
 type: location
+snippet: Tuscan lagoon town on a narrow causeway, surrounded by flamingo wetlands
+  and Spanish fortifications.
 ---
 
 Orbetello sits on a narrow causeway in the middle of a lagoon on the southern Tuscan coast, connected to the [Monte Argentario](/europe/italy/tuscany/orbetello/monte_argentario) peninsula by two sand tomboli that enclose the water on either side. The setting is extraordinary — a town floating between sea and lagoon, with flamingos wading in the shallows.

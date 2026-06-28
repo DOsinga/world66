@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The name 'Petitenget' means 'mysterious box' in Balinese — a reference to a magic chest said to have been left behind by the 16th-century Hindu sage Dang Hyang Nirartha when he passed through. The box is supposedly still kept somewhere in the temple, though nobody outside the priesthood has seen it in centuries."
+score: 7.3
 ---
 
 Pura Petitenget is a coastal temple set just back from the beach at the north end of Seminyak — one of the chain of sea temples built by the priest Nirartha along Bali's south-west coast. It is much smaller than Tanah Lot or Uluwatu, but it has the same low-walled compound, stepped gates, and clusters of moss-darkened shrines.

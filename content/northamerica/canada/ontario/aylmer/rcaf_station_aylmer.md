@@ -9,6 +9,7 @@ latitude: 42.8064
 longitude: -80.9443
 story: >
   RCAF Station Aylmer was built in 1940-41 as a training airfield under the British Commonwealth Air Training Plan, an enormous programme that trained over 130,000 aircrew across Canada during the Second World War. Aylmer trained thousands of pilots, navigators, and air gunners who went on to fly in combat over Europe. The station closed in 1945, and the airfield was converted to agricultural and civilian use; traces of the old runways and hangar foundations are still visible from the air.
+score: 5.4
 ---
 
 The site of the former Royal Canadian Air Force training station northeast of Aylmer is largely returned to farmland today, but the history is significant: this was one of dozens of stations built across rural Canada under the British Commonwealth Air Training Plan, the massive Allied programme that made Canada the training ground for much of the Commonwealth's wartime aircrew.

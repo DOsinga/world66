@@ -6,6 +6,7 @@ longitude: 73.6781
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 One of the most active Hindu temples in Udaipur, dedicated to the goddess Amba (a form of Durga) and traditionally believed to date back to the 16th century, though the present structure is largely modern. The shrine is set in a courtyard reached through a low arched gateway, with smaller shrines to Shiva, Hanuman, and Ganesh ranged around the perimeter.

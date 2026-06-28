@@ -4,12 +4,13 @@ latitude: 55.951478
 longitude: -3.179947
 opening_hours: Mon-Sat 10am-5pm
 phone: 0131 529 4057
+score: 7.1
+snippet: Free museum of working-class Edinburgh in the Canongate Tolbooth
 tags:
 - things_to_do
-- old_town
+- oldtown
 - museum
 - palace
-snippet: "Free museum of working-class Edinburgh in the Canongate Tolbooth"
 title: The People's Story Museum
 type: poi
 ---

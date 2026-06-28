@@ -1,10 +1,12 @@
 ---
 latitude: 41.3915
-longitude: 2.1650
-snippet: "Barcelona's grandest boulevard lined with Modernista masterpieces"
+longitude: 2.165
+score: 9.0
+snippet: Barcelona's grandest boulevard lined with Modernista masterpieces
 tags:
 - things_to_do
 - sight
+- eixample
 title: Passeig de Gràcia
 type: poi
 ---

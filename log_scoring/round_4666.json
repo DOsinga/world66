@@ -1,0 +1,200 @@
+{
+  "round": 4666,
+  "timestamp": "2026-06-14T00:31:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gili Trawangan",
+      "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+      "prior_score": 5.2201,
+      "prior_variance": 0.097216,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 1.7975,
+      "prior_variance": 0.088765,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 4.6954,
+      "prior_variance": 0.107767,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.4678,
+      "prior_variance": 0.104715,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 3.6483,
+      "prior_variance": 0.089928,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby",
+      "prior_score": 3.9266,
+      "prior_variance": 0.096781,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 2.9724,
+      "prior_variance": 0.107562,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 0.3611,
+      "prior_variance": 0.112086,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Mount Longhu",
+      "path": "asia/china/jiangxi/mount_longhu",
+      "prior_score": 1.6985,
+      "prior_variance": 0.098262,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 3.4928,
+      "prior_variance": 0.095274,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 2.1789,
+      "prior_variance": 0.106093,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.9294,
+      "prior_variance": 0.094525,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_score": 3.6377,
+      "prior_variance": 0.092467,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 1.7502,
+      "prior_variance": 0.088676,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 1.2833,
+      "prior_variance": 0.081106,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.218,
+      "prior_variance": 0.098227,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": 0.334,
+      "prior_variance": 0.093029,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 0.8386,
+      "prior_variance": 0.092048,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.3599,
+      "prior_variance": 0.093687,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -0.4871,
+      "prior_variance": 0.083831,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -2.9242,
+      "prior_variance": 0.10528,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -2.731,
+      "prior_variance": 0.097658,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -4.3079,
+      "prior_variance": 0.09639,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.0185,
+      "prior_variance": 0.106045,
+      "prior_n": 15
+    }
+  ]
+}

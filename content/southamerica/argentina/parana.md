@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Paran%C3%A1,_Entre_R%C3%AD
 latitude: -31.733014
 loc_type: city
 longitude: -60.529851
-score: 0.45
+score: 7.01
+snippet: Entre Ríos capital on a river bluff, with leafy parks, a costanera, and 19th-century
+  architecture
 title: Paraná
 type: location
 ---

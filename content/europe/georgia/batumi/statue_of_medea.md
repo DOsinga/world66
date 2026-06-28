@@ -8,6 +8,7 @@ tags:
 title: Statue of Medea
 type: poi
 story: "The myth of Jason and the Argonauts is set in Colchis, the kingdom that occupied roughly the area of modern western Georgia — making Medea, the Colchian princess who helped Jason steal the Golden Fleece, a kind of local hero. Batumi unveiled the statue in 2007, with then-president Saakashvili declaring that the Fleece had always been Georgian."
+score: 7.1
 ---
 
 The Statue of Medea stands at the centre of Europe Square in old Batumi, a tall bronze figure on a high stone column. Medea holds the Golden Fleece aloft in one hand, looking out over the square with an expression somewhere between defiance and grief. She is dressed in classical robes, but the work itself — by the Georgian sculptor David Khmaladze — is unmistakably modern.

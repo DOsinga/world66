@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.7633
 longitude: 83.3790
+score: 4.7
 ---
 
 Jungle Korner is one of Gorakhpur's better-known restaurants, popular with local families and travellers who want a proper sit-down meal. The menu covers north Indian standards alongside some grilled and tandoor dishes, and the environment is considerably more comfortable than the railway-area dhabas.

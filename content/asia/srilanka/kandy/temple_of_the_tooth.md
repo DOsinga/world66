@@ -14,6 +14,7 @@ story: >
   tooth in Goa, the Sinhalese court insisted the real relic had never left the temple.
   The tooth's political significance was so great that the question of whether the burned
   relic was genuine was, quite literally, a matter of state.
+score: 9.2
 ---
 
 The Temple of the Tooth is Kandy's defining sight and one of the most sacred Buddhist temples in the world. The golden roof of the relic chamber is visible from across the lake, and the surrounding moat and fortified walls give the complex an appropriately royal weight — this was part of the Kandyan royal palace until the British took the city in 1815.

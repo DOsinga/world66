@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cala_Azzurra.jpg
 latitude: 37.9298
 loc_type: island
 longitude: 12.3295
+score: 8.85
+snippet: Egadi island off western Sicily, where limestone coves and an old tuna fishery
+  shape the visit
 sources:
 - https://en.wikipedia.org/wiki/Favignana
 - https://www.visitsicily.info/en/attrazione/ex-stabilimento-tonnara-florio-di-favignana-e-formica/

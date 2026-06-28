@@ -11,6 +11,7 @@ story: >
   The cathedral was built as a living memorial to all sailors of the Russian Navy who died at sea. The names of fallen officers were inscribed on black marble plaques around the walls; the lower plaques bore the names of common sailors in smaller lettering. After the Bolshevik revolution, the cathedral was stripped, the plaques destroyed, and the interior converted to a cinema. The restoration after 2004 recreated the plaques from archival records — thousands of names re-lettered, though some are now forever lost.
 sources:
   - https://en.wikipedia.org/wiki/Kronstadt_Naval_Cathedral
+score: 9.3
 ---
 
 The Kronstadt Naval Cathedral is one of the most impressive religious buildings in the St Petersburg region — a vast neo-Byzantine domed church that served as the memorial church of the entire Russian Imperial Navy. Built between 1903 and 1913 to designs by Vasily Kosyakov, it was modelled on the Hagia Sophia in Constantinople and built on a scale appropriate to the ambition: the dome rises to 70 metres and dominates the skyline of Kotlin Island.

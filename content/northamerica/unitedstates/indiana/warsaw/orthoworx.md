@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: "Why Warsaw became the orthopedic device capital of the world"
 story: "The global orthopedic industry traces its roots to one man in Warsaw: Revra DePuy, who founded the DePuy Manufacturing Company here in 1895 to make fiber splints. His decision to locate in a small Indiana lake town set off a chain of events that eventually made Warsaw home to Zimmer Biomet, DePuy Synthes, and dozens of other medical device companies — employing more orthopedic workers per capita than anywhere else on earth."
+score: 7.1
 ---
 
 Warsaw's claim to fame beyond its lakes is a peculiar one: it is the orthopedic manufacturing capital of the world. Nearly a third of all artificial hips, knees, and other orthopedic implants used globally are designed and manufactured in and around Warsaw. Companies including Zimmer Biomet, DePuy Synthes, Biomet, and dozens of smaller manufacturers are headquartered here.

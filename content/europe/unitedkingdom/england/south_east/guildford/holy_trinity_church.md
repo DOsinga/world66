@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: 18th-century parish church at the top of the High Street
+score: 6.7
 ---
 
 The square brick Georgian church at the top of the High Street, rebuilt in 1763 after the medieval church on the same site collapsed. It served as the pro-cathedral of the Diocese of Guildford from 1927 until the new cathedral was consecrated in 1961, which explains its disproportionately civic scale.

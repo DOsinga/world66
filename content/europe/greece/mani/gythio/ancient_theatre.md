@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7625
 longitude: 22.5667
+score: 6.5
 ---
 
 The small Roman-era theatre is the most substantial visible relic of ancient Gythium, the port that once served Sparta. It sits on the hillside above the town, partly cut into the rock face, with seven complete rows of stone seating still in place and the foundations of the stage building below. The structure dates to the 1st or 2nd century AD, and was probably destroyed in the same 4th-century earthquake that submerged most of the ancient city.

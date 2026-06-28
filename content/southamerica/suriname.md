@@ -1,15 +1,17 @@
 ---
-title: Suriname
-type: location
 latitude: 4.141303
+loc_type: country
 longitude: -56.077119
 quick_facts:
-  Population: "620,000"
-  Language: "Dutch official — English and Sranan Tongo widely spoken"
-  Forest Cover: "93% tropical rainforest"
+  Forest Cover: 93% tropical rainforest
+  Language: Dutch official — English and Sranan Tongo widely spoken
   Official Language: Dutch — unique in South America
-score: 0.47
-loc_type: country
+  Population: 620,000
+score: 0.45
+snippet: Small South American country of Dutch-Caribbean Paramaribo, mangrove coast,
+  and rainforest interior
+title: Suriname
+type: location
 ---
 
 Suriname is a small country in South America that borders on [French Guiana](/southamerica/frenchguiana), [Guyana](/southamerica/guyana) and [Brazil](/southamerica/brazil).

@@ -8,6 +8,7 @@ latitude: 52.9233
 longitude: -1.4795
 sources:
   - https://en.wikipedia.org/wiki/Whitehurst_%26_Son_sundial
+score: 6.4
 ---
 
 A horizontal sundial produced in 1812 by the Derby clockmaking firm Whitehurst & Son stands outside what was the Derby Philosophical Society rooms in the city centre. John Whitehurst, founder of the family business, was a prominent member of the Lunar Society — the informal network of industrialists, scientists, and thinkers that included James Watt, Erasmus Darwin, and Josiah Wedgwood — and he designed clocks for the royal household.

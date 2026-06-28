@@ -7,6 +7,7 @@ snippet: "Bowness's oldest pub, dating to 1612, with low beams, real ale, and a 
 tags: [bars_and_cafes, bar, historic]
 story: >
   The pub's name comes from a hatch that was cut through the wall of the adjacent smithy in the eighteenth century, through which the blacksmith could pass tankards of ale to his workers without leaving his post. The hatch is no longer in use, but it is still visible in the interior wall, and the story has survived long enough to be repeated on every menu and beer mat in the place.
+score: 7.2
 ---
 
 The Hole in t'Wall sits on Lowside, a short walk uphill from the main promenade, and is the oldest licensed premises in Bowness. The building dates to 1612 and has the low ceilings and uneven floors to prove it. It is a proper pub rather than a gastropub — the emphasis is on beer, and the changing selection of Cumbrian ales from breweries including Hawkshead, Tirril, and Jennings tends to be well kept. Food is straightforward bar meals.

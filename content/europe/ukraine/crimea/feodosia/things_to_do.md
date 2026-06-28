@@ -2,10 +2,8 @@
 accessibility: 24/7
 address: Poltava
 email: fragov@gmail.com
-latitude: 49.860781
-longitude: 33.749879
 title: Things to do
-type: poi
+type: section
 url: www.poltavaforum.com
 ---
 

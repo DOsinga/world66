@@ -13,6 +13,7 @@ story: >
   but because when a weapon broke in the field, a Darra craftsman could repair it instantly
   from parts he had made himself. A Soviet-issue AK74 with a cracked receiver needed
   a spare from the other side of the Khyber Pass.
+score: 8.0
 ---
 
 Darra Adam Khel is a small town in the Kohat Pass area, historically part of the tribal Federally Administered Tribal Areas, where the dominant industry for well over a century has been the manufacture of firearms. The craftsmen of Darra — mostly from the Adam Khel Afridi tribe — learned to copy weapons by hand, without factory machinery, producing everything from bolt-action rifles to pistols to shotguns and, at the trade's peak, credible copies of Kalashnikovs, Uzis, and anti-aircraft guns. The main street of the bazaar was once lined with workshops where you could watch a weapon being assembled from scratch and buy it on the spot.

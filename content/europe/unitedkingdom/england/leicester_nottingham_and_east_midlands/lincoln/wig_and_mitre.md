@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - uphill
+score: 6.0
 ---
 
 The Wig and Mitre — a pun on legal and clerical Lincoln, two of the city's biggest historical professions — has been one of the city's better-known dining pubs for decades. The setup is unusually flexible: it opens at 8am for breakfast, runs through morning coffee, lunch, afternoon tea, dinner, and on into late drinks. The menu is broadly British and Mediterranean, the cooking dependable rather than thrilling.

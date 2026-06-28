@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.9440
 longitude: 117.8150
+score: 7.9
 ---
 
 The Tongling Museum takes a more scholarly approach to the city's copper heritage than the Copper Culture Park's monumental scale. The ancient bronzes collection covers ritual vessels, weapons, and tools from the Shang and Zhou dynasties, with provenance traced to the Tongguanshan and surrounding mine sites. The quality of the pieces reflects the extraordinary richness of the local ore bodies that made this region a center of Bronze Age production.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Brick_Row,_National_City,_
 latitude: 32.678109
 loc_type: city
 longitude: -117.099197
-score: 0.34
+score: 5.87
+snippet: Historic San Diego County city with Victorian heritage and a rare surviving
+  transcontinental railroad terminus.
 title: National City
 type: location
 ---

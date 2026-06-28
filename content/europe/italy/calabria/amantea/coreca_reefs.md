@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.0948
 longitude: 16.0802
+score: 6.8
 ---
 
 A small cluster of jagged rocks just offshore from the village of Coreca, about five kilometres south of Amantea. The reefs are a popular snorkel and dive spot — the water clarity here is some of the best on the lower Tyrrhenian coast, and you can swim around the rocks looking down at sea urchins, octopus, and the occasional small grouper.

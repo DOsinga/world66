@@ -1,4 +1,7 @@
 ---
+image: nove_mesto.jpg
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:Prague_07-2016_Wenceslas_Square_img1.jpg
 latitude: 50.078
 longitude: 14.43
 tags:

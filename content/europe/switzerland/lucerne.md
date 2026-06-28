@@ -6,12 +6,15 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Lionmonumentlucerne.jpg
 latitude: 47.0517
 loc_type: city
+snippet: Lakeside Swiss city where medieval bridges, painted old-town gables, and
+  nearby Pilatus frame the Reuss.
 longitude: 8.3085
 sources:
 - https://en.wikipedia.org/wiki/Lucerne
 - https://en.wikivoyage.org/wiki/Lucerne
 title: Lucerne
 type: location
+score: 9.47
 ---
 
 Lucerne sits at the point where the Reuss river flows out of Lake Lucerne, backed by a ring of green hills with the glacier-capped peaks of Pilatus and Rigi rising beyond them. For over a century it has been one of Switzerland's most visited cities, and it is easy to see why: the medieval [Kapellbrücke](/europe/switzerland/lucerne/kapellbrucke) still stands across the river, the painted gables of the old town line the lakefront, and the mountains are close enough to fill the horizon. Lucerne is unashamedly scenic, and it knows it.

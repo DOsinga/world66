@@ -9,6 +9,7 @@ tags:
 latitude: 39.1493
 longitude: 20.2317
 story: "Almost the entire island is given over to a single grape variety — antipaxiotiko — which produces a robust, slightly sweet red wine sold mostly in the island's tavernas. The few resident families bottle it themselves; you will rarely find it on the mainland."
+score: 8.5
 ---
 
 The miniature island a few miles south of Paxi, with a permanent population in single figures and two beaches whose water is the colour of glass. Voutoumi is the larger and more famous — a stretch of bone-white shingle backed by olives and cypresses; Vrika to the north is smaller and quieter.

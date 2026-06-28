@@ -10,10 +10,12 @@ latitude: 9.462799
 longitude: 77.789101
 title: Sivakasi
 type: location
-score: 0.35
+score: 5.54
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Sivakasi
+- https://en.wikipedia.org/wiki/Sivakasi
+snippet: Tamil Nadu industrial town known for fireworks, safety matches, and offset
+  printing.
 ---
 
 Sivakasi is an industrial town in the Virudhunagar district of southern Tamil Nadu, about 60 kilometres north of Tirunelveli. It has one of the most unlikely specialisations in India: the town and its surrounding villages produce roughly 90% of the country's fireworks and safety matches, and are also a major centre for offset printing. The combination has given Sivakasi the nickname "Mini Japan" — not for any resemblance to Japan, but because it earned that tag as a tribute to its industrial ambition.

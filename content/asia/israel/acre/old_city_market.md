@@ -8,6 +8,7 @@ tags:
 - market
 type: poi
 snippet: Working Arab market in the covered streets of the old city
+score: 7.5
 ---
 
 Acre's covered market is a genuine working market, not a tourist reconstruction. The vaulted passages of the old city — some going back to the Ottoman period, some built on Crusader foundations — house butchers, bakers, spice sellers, and vegetable stalls alongside the cafes and falafel shops.

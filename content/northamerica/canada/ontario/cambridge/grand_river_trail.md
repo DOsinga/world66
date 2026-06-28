@@ -5,6 +5,7 @@ tags: [things_to_do, sight, park]
 latitude: 43.3601
 longitude: -80.3123
 story: "The Grand River is one of the few Canadian Heritage Rivers in Ontario — a designation recognising its natural, cultural, and recreational values. The section through Cambridge passes the sites of the original grist and textile mills that built the city."
+score: 7.3
 ---
 
 The Grand River trail runs through the heart of Cambridge, connecting the former communities of Galt, Preston, and Hespeler along the riverbank. The paths are flat, well-maintained, and largely uninterrupted — a good way to see the city on foot or by bike without dealing with traffic.

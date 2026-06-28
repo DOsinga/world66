@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
 story: "The conservatory was shipped from England in pieces in 1879, originally bought by a wealthy speculator who died before it could be assembled on his estate. The City of San Francisco bought it from his widow and put it up in Golden Gate Park, making it the oldest surviving public conservatory of its kind in the western hemisphere."
+score: 8.1
 ---
 
 A white Victorian glasshouse in Golden Gate Park, modeled on Kew Gardens' Palm House and built in 1879. It survives as the oldest of its kind in the American west, restored after a 1995 windstorm threatened to bring it down. Inside, five gallery rooms cover lowland tropics, highland tropics, aquatic plants, potted plants, and a rotating special exhibit.

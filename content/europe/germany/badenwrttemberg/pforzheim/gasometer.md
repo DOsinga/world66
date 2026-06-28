@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Yadegar Asisi's giant 360° panoramas of Rome at the time of Constantine, of the Great Barrier Reef, and of the Amazon rainforest, each over 100 metres around and 30 metres high, are installed inside a converted 1912 gas-holder — the largest cylindrical panorama gallery in the world."
+score: 8.4
 ---
 
 The Gasometer is a 1912 gas-holder on the eastern edge of the city, converted into an exhibition space for the monumental 360° panoramas of the artist Yadegar Asisi. The displays rotate every couple of years — past shows have included Rome 312, the Great Barrier Reef, the Amazon rainforest, and a panorama of bombed-out Pforzheim itself.

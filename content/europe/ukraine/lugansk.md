@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Spire_House.jpg
 latitude: 48.5717
 loc_type: city
 longitude: 39.2973
-score: 0.19
+score: 2.58
+snippet: Eastern Ukrainian industrial city in the Donets Basin, founded as a cannon-foundry
+  settlement in 1795.
 title: Lugansk
 type: location
 ---

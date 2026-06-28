@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.2672
 longitude: 4.7550
+score: 7.4
 ---
 
 The Historische Tuin (Historic Garden) of Aalsmeer is an open-air museum dedicated to the history of horticulture in the region — the greenhouses, tools, cultivation techniques, and plant varieties that made Aalsmeer one of the most important flower-growing areas in the world. The museum occupies a working historical greenhouse complex in the centre of the village, with demonstration plots showing traditional growing methods alongside historical photographs and artefacts.

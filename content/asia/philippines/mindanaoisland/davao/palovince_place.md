@@ -1,11 +1,14 @@
 ---
 address: Lacson St., Bo. Obrero, Davao City
 email: jeanne.sato@yahoo.com
+latitude: 7.081
+longitude: 125.6109
 phone: 082-2254019
+score: 5.0
 tags:
 - eating_out
 - restaurant
-- square
+- local_food
 title: PALOVINCE PLACE
 type: poi
 ---

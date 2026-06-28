@@ -7,6 +7,7 @@ tags:
 - sight
 title: Aït Oudinar
 type: poi
+score: 6.6
 ---
 
 A small Berber village strung along the river about 30 km up the Dadès Gorge, Aït Oudinar is where the wider valley narrows into the dramatic upper canyon. The village has a handful of small auberges and restaurants, all with terraces over the river — a natural lunch stop on the gorge drive from Boumalne. The Hôtel Chez Pierre, run by a French expatriate, is the long-established option for a proper sit-down lunch.

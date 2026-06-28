@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 14.3814
+loc_type: feature
 longitude: -90.6014
+score: 8.49
+snippet: Guatemalan volcano near Antigua, climbed for lava fields, ash slopes, and
+  broad highland views.
 title: Pacaya Volcano
 type: location
-score: 0.65
-loc_type: feature
+image: pacaya_volcano.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pacaya-08.jpg
+image_license: CC BY-SA 2.5
+image_attribution: Rolfcosar
 ---
 
 Standing at 8,371 feet (2,552 meters), the highly active Pacaya Volcano is perhaps the most climbed volcano in Guatemala.

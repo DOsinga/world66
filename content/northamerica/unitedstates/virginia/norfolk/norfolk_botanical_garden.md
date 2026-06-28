@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "175-acre garden beside the airport, exceptional for camellias and azaleas"
 latitude: 36.9042
 longitude: -76.2206
+score: 8.2
 ---
 
 The Norfolk Botanical Garden is 175 acres of formal gardens, woodland paths, and lakeside walks at the edge of the city near the airport. The collection is particularly strong on camellias, azaleas, roses, and flowering trees — spring is spectacular. The garden also has a world-class Japanese garden and a good collection of sculpture spread throughout the grounds.

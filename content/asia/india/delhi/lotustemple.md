@@ -1,10 +1,12 @@
 ---
-title: "Lotus Temple"
-type: poi
 category: Sight
-snippet: "Stunning Bahá'í house of worship open to all faiths for meditation"
 latitude: 28.553359
 longitude: 77.258601
+score: 7.9
+tags:
+- hauz_khas_village
+title: Lotus Temple
+type: poi
 ---
 
 One of the most architecturally striking buildings in Delhi. The Lotus Temple is the mother temple of the Bahá'í Faith in India — a series of 27 white marble petals arranged to form a giant lotus flower. Completed in 1986 and designed by Iranian-Canadian architect Fariborz Sahba, it has won multiple architecture awards and receives millions of visitors a year.

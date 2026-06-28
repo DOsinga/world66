@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.1
 ---
 
 The Peel-Harvey Estuary is the dominant geographic feature of Mandurah and the largest estuary in southwestern Australia — roughly twice the size of Sydney Harbour. The water is calm, shallow, and brackish, and the catchment supports a large population of black swans, pelicans, ibis, and migratory wading birds, along with the resident dolphins.

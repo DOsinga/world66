@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-06-02'
 latitude: 38.0831
 loc_type: city
+snippet: Small Mississippi bottomland village tied to Fort de Chartres and French
+  colonial Illinois history
 longitude: -90.0959
-score: 0.35
+score: 6.04
 title: Prairie du Rocher
 type: location
 image: prairie_du_rocher.jpg

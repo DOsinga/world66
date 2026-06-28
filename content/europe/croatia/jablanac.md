@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jablanac.jpg
 latitude: 44.7063
 loc_type: city
 longitude: 14.8978
-score: 0.55
+score: 7.87
+snippet: Small Adriatic village below the Velebit mountains, near ferries to Rab and
+  Zavratnica inlet.
 title: Jablanac
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 42.28200
 longitude: -73.31500
 story: "Arlo Guthrie's 18-minute 1967 song 'Alice's Restaurant Massacree' is based on a real Thanksgiving arrest in Stockbridge in 1965. Guthrie was arrested by the local sheriff for illegally dumping garbage — because the town dump was closed for the holiday — and the absurdist legal proceedings that followed became the song. The officer who arrested him, Officer Obie, became a Berkshires legend."
+score: 4.9
 ---
 
 Alice's Restaurant — the eating establishment made famous by Arlo Guthrie's 1967 talking blues song — was located in a deconsecrated church on Van Deusenville Road in Stockbridge. The song, a comic epic about a Thanksgiving garbage-dumping arrest and its consequences for Guthrie's Vietnam draft status, became an anthem of the counterculture era and is still played on Thanksgiving on radio stations across the United States.

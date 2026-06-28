@@ -11,6 +11,7 @@ tags:
 - day_trip
 snippet: More pyramids than Giza, almost always empty, in the dunes east of the Nile
 story: "There are more pyramids in Sudan than in all of Egypt — somewhere between two and three hundred, against Egypt's hundred-odd. The steep angles you see at Meroë are not original: in the 1830s the Italian treasure hunter Giuseppe Ferlini, looking for gold, dynamited the tops off some forty pyramids. He found one cache in the tomb of Queen Amanishakheto and went home rich. The damage is still visible across the cemeteries."
+score: 9.5
 ---
 
 The royal cemeteries of Meroë, on the east bank of the Nile about 50 km north of Shendi, are the largest concentration of pyramids on earth. Three groups — the North Cemetery, the South Cemetery, and the West Cemetery — together hold the tombs of around forty kings, queens, and high officials of the Kushite kingdom that ruled here from roughly 300 BC to AD 350. The pyramids are smaller than the Egyptian ones — most under thirty metres — but steeper, sharper, and far more atmospheric, half-buried in golden Sahara dunes.

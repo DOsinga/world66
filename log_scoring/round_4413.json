@@ -1,0 +1,200 @@
+{
+  "round": 4413,
+  "timestamp": "2026-06-14T00:10:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 10.4004,
+      "prior_variance": 0.238825,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.4513,
+      "prior_variance": 0.122292,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 6.0114,
+      "prior_variance": 0.1097,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Gudauri",
+      "path": "europe/georgia/gudauri",
+      "prior_score": 3.0952,
+      "prior_variance": 0.099599,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 2.9463,
+      "prior_variance": 0.103187,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 5.3944,
+      "prior_variance": 0.15525,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol",
+      "prior_score": 3.0682,
+      "prior_variance": 0.094293,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 1.9557,
+      "prior_variance": 0.21699,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 3.1747,
+      "prior_variance": 0.104466,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Provincetown",
+      "path": "northamerica/unitedstates/massachusetts/provincetown",
+      "prior_score": 3.8355,
+      "prior_variance": 0.096133,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 1.048,
+      "prior_variance": 0.105123,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_score": 0.6365,
+      "prior_variance": 0.098545,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": 0.4686,
+      "prior_variance": 0.095148,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -1.26,
+      "prior_variance": 0.095302,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": -0.7702,
+      "prior_variance": 0.079249,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -1.2297,
+      "prior_variance": 0.092054,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -1.796,
+      "prior_variance": 0.102724,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -5.5761,
+      "prior_variance": 0.158563,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -3.2852,
+      "prior_variance": 0.094913,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -4.1681,
+      "prior_variance": 0.111744,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.0702,
+      "prior_variance": 0.178408,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -7.4806,
+      "prior_variance": 0.195641,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -9.644,
+      "prior_variance": 0.22666,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -6.6296,
+      "prior_variance": 0.146046,
+      "prior_n": 14
+    }
+  ]
+}

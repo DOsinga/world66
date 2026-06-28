@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/World_Heritage_Rock_Art_Centre_-_Alta_Museum
   - https://en.wikipedia.org/wiki/Rock_carvings_at_Alta
+score: 9.2
 ---
 
 The Alta Museum at Hjemmeluft houses the largest collection of prehistoric rock carvings in northern Europe, dating back some 6,000 to 7,000 years. The outdoor trail along the shoreline of the Altafjord follows a 3-kilometre path past thousands of individual carvings depicting reindeer, bears, fishing boats, humans, and hunting scenes — all etched into the smooth rock faces at the water's edge by Stone Age and later Bronze Age peoples.

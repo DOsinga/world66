@@ -9,6 +9,7 @@ latitude: 41.2455
 longitude: 32.6928
 sources:
   - https://en.wikipedia.org/wiki/Kazda%C4%9Fl%C4%B1_Mosque
+score: 6.6
 ---
 
 The Kazdağlı Mosque sits in the lower part of Safranbolu near the Bağlar neighbourhood and dates from the late 17th or early 18th century. It is a smaller, simpler structure than the İzzet Mehmet Pasha Mosque — a single-domed prayer hall with a porch of three arches — but the interior contains some notable painted decoration and is worth entering if the doors are open.

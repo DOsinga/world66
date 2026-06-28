@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Pearl Alley Bistro
 type: poi
+score: 4.8
 ---
 
 A downtown bistro tucked into Pearl Alley with a menu that draws from several cuisines. The Mongolian BBQ is a standout — think Asian fajitas with rice paper instead of tortillas. Reservations recommended, especially on weekends.

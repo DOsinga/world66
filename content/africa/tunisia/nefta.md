@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Corbeille_de_Nefta_-_Tozeu
 latitude: 33.820495
 loc_type: city
 longitude: 7.872451
-score: 0.48
+score: 7.47
+snippet: Southwestern Tunisian oasis town beside Chott el-Jerid, with Sufi traditions
+  and the palm-filled Corbeille.
 sources:
 - https://en.wikipedia.org/wiki/Nefta,_Tunisia
 - https://www.atlasobscura.com/places/corbeille-of-nefta

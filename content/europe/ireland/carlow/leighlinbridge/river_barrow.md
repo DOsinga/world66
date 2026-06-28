@@ -7,6 +7,7 @@ tags:
   - sight
 title: River Barrow
 type: poi
+score: 7.4
 ---
 
 The Barrow is the second-longest river in Ireland and one of the most navigable: a slow, broad stream lined with reeds and willow, with the disused towpath of the Barrow Navigation running along its bank. At Leighlinbridge the river is wide enough for kayakers and the occasional narrowboat, and the towpath here is a particularly pleasant short walk — flat, scenic, and easy to follow north toward Bagenalstown or south toward Goresbridge.

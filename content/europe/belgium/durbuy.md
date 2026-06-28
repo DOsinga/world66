@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Durbuy_vu_du_jardin_de_l%2
 latitude: 50.352412
 loc_type: city
 longitude: 5.456248
-score: 0.56
+score: 8.07
+snippet: Tiny Ardennes city on the Ourthe, with a medieval core and forested hills
+  for kayaking
 title: Durbuy
 type: location
 ---

@@ -3,9 +3,11 @@ address: 3500 Las Vegas Boulevard South, Caesars Palace
 latitude: 36.116708
 longitude: -115.17519
 phone: 702-369-6300
+score: 6.9
 tags:
 - eating_out
 - restaurant
+- the_strip
 title: Spago
 type: poi
 url: www.wolfgangpuck.com

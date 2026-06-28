@@ -8,6 +8,7 @@ latitude: -33.6987
 longitude: 18.9866
 sources:
   - https://en.wikipedia.org/wiki/Nederburg_winery
+score: 7.6
 ---
 
 Nederburg is one of South Africa's most famous wine estates, established in 1791 and now producing wine across a wide range of styles and price points. The estate is best known for its annual auction, which has been held since 1975 and is the most prestigious wine auction on the African continent, drawing buyers from around the world.

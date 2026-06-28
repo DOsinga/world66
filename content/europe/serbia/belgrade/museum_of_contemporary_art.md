@@ -14,6 +14,7 @@ story: >
   new permanent display of Yugoslav and Serbian art from 1900 to the present,
   covering both the socialist realism period and the experimental work that pushed
   against its constraints.
+score: 8.3
 ---
 
 The Museum of Contemporary Art in New Belgrade — on the Sava riverbank, near the spot where the river meets the Danube — holds the most important collection of modern and contemporary Serbian art. The collection includes over 35,000 works, from early 20th-century painting through the Yugoslav-era socialist art to the experimental and conceptual work of the 1960s and 70s. The EXAT 51 group's geometric abstraction and the OHO movement's conceptual work are particularly well-represented.

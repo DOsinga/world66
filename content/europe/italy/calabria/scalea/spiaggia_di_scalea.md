@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.8082
 longitude: 15.8015
+score: 7.1
 ---
 
 The beach at Scalea Marina stretches for several kilometres along the Tyrrhenian coast, a mix of free public sections and equipped lidos where you can rent sunbeds and umbrellas by the day. The water is clear and a particularly intense shade of blue, sheltered from strong winds by the headlands to the north and south.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 45.6794
 longitude: -111.0372
+score: 7.6
 ---
 
 Bozeman's Main Street is the most functional and genuinely pleasant downtown of any Montana city. A compact stretch of ten or twelve blocks holds independent bookshops, outdoor gear stores, coffee shops, breweries, and restaurants without the gimmickry that overtakes many Western tourist towns. The mix of old brick commercial buildings and new infill gives it a density and life that is unusual for a city of this size.

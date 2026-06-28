@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.3008
 longitude: 76.6671
+score: 6.7
 ---
 
 Karanji Lake is a 90-hectare urban lake on the southeastern edge of the zoo grounds, managed as a bird sanctuary. It is home to painted storks, purple herons, cormorants, egrets, and — in winter — migratory species including bar-headed geese, which fly directly over the Himalayas on their migration from Central Asia. A walkway runs along the bund (embankment) and a butterfly park occupies the southern end.

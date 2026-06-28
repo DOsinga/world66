@@ -8,6 +8,7 @@ tags:
 title: Feira de Arte e Artesanato de Afonso Pena
 type: poi
 story: "The Sunday market on Afonso Pena is one of the largest of its kind in Latin America — around 3,000 stalls stretching for roughly three kilometres along the avenue. It started informally in 1969 and has run every Sunday since, becoming part of the city's weekly rhythm."
+score: 7.3
 ---
 
 Every Sunday between 8am and 2pm, Avenida Afonso Pena closes to traffic for two and a half kilometres and fills up with around 3,000 craft and food stalls — handmade leather goods, paintings, ceramics, carved-wood toys, embroidery, jewellery, second-hand books, vinyl records, and a long parade of food vendors at the end nearest Parque Municipal.

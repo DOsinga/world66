@@ -9,6 +9,7 @@ tags:
 snippet: Tomb of a legendary queen, associated by some with the Queen of Sheba
 story: >
   Local tradition identifies Birikisu Sungbo with Bilqis, the Queen of Sheba — the Arabic name Bilqis becomes Birikisu in Yoruba. Whether or not the connection is genuine, the surrounding earthwork enclosure of Sungbo's Eredo is a 160-km-long defensive ditch and rampart system from around the 10th century, one of the largest pre-colonial earthworks in Africa.
+score: 8.3
 ---
 
 The Birikisu Sungbo shrine at Oke-Eri, about an hour's drive east of Abeokuta, is one of the most intriguing pilgrimage sites in southwestern Nigeria. A simple tomb under a small open-sided pavilion, it is dedicated to a legendary queen called Birikisu Sungbo who is identified in local tradition — by both Yoruba and Muslim pilgrims — with Bilqis, the Queen of Sheba. The shrine attracts a constant stream of visitors who tie white cloth to the surrounding trees, light incense, and ask for healing or fertility.

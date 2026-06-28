@@ -14,6 +14,7 @@ story: >
   by hand. Louis XIV called it "the queen of citadels." It has never been taken by assault.
   The French army still occupies it, and access is restricted to the outer ramparts and
   Sunday guided tours.
+score: 8.3
 ---
 
 The Citadelle is one of the finest examples of Vauban's military architecture in France — a perfectly symmetrical star-shaped fortress surrounded by deep moats, designed by the great military engineer Sébastien Le Prestre de Vauban and completed in 1671 on Louis XIV's orders, just four years after France took Lille from Spain. The fortress has five bastions, five demi-lunes, and walls several metres thick, all oriented to allow defensive fire in every direction with no blind spots — the classic Vauban system that transformed European military architecture.

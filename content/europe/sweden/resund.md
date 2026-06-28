@@ -5,8 +5,10 @@ done:
 latitude: 55.95
 loc_type: city
 longitude: 12.8
-score: 0.45
+score: 7.17
 title: Öresund
+snippet: Cross-border Nordic strait region linking Malmö and Copenhagen by the Öresund
+  Bridge.
 type: location
 ---
 

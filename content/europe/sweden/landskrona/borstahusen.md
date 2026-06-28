@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 55.8605
 longitude: 12.8067
+score: 7.8
 ---
 
 Borstahusen is the old fishing village that sits south of Landskrona's harbour, and it is the most charming corner of the municipality. The fishermen's cottages are painted in the traditional ochre, red, and mustard colours of Swedish coastal vernacular architecture; the narrow lanes wind down to a small harbour that still sees a handful of working boats.

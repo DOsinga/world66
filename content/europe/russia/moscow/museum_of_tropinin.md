@@ -11,6 +11,7 @@ tags:
 - museum
 title: Museum of Tropinin and Moscow Artists of His Time
 type: poi
+score: 6.9
 ---
 
 Small but worthwhile art museum focused on Russian portraiture from the 18th and 19th centuries. The collection centers on Vasily Tropinin, known for his warm, naturalistic portraits, and includes works by Rokotov, Borovikovsky, and Levitsky. The building itself, a quiet mansion in the Zamoskvorechye district, adds to the atmosphere.

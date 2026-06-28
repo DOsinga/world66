@@ -8,6 +8,7 @@ tags:
 - sight
 title: Perama Cave
 type: poi
+score: 7.6
 ---
 
 The Cave of Perama, about 5 km north of central Ioannina, is one of the largest and most heavily decorated stalactite caves in Greece. The 1,100-metre developed route takes about 45 minutes and passes through 19 separate chambers — narrow corridors, vast halls, columns, curtains, and oddly shaped speleothems lit by the cave's own colour scheme.

@@ -7,6 +7,7 @@ tags:
 latitude: 33.5099
 longitude: 36.3094
 snippet: 19th-century Damascene house turned heritage museum
+score: 8.3
 ---
 
 A grand 19th-century courtyard house in the centre of the Old City, built by the wealthy merchant Yusuf Effendi al-Anbari and used in the late Ottoman period as a school (*maktab*) for boys. The building is one of the largest surviving Damascene houses, with three interconnected courtyards, painted wooden ceilings, marble fountains and stained-glass windows.

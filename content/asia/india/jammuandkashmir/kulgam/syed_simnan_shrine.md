@@ -7,6 +7,7 @@ tags:
 - sight
 title: Shrine of Syed Simnan Sahib
 type: poi
+score: 6.8
 ---
 
 The shrine of Syed Simnan Sahib stands on a rise above the Veshaw river in Kulgam town. Syed Simnan, a 14th-century Sufi mystic who travelled from Simnan in Iran to spread Islam in the Kashmir Valley, lived and died here; the shrine grew up around his grave. The current structure of carved deodar wood with a pyramidal roof is typical of Kashmiri Sufi architecture and probably dates from later rebuildings.

@@ -13,6 +13,7 @@ story: >
   castle-palace of the Álvarez de Toledo family. Holy Roman Emperor
   Charles V stayed here on his way through Castile, making it a stopping
   point for the most powerful man in the world.
+score: 8.8
 ---
 
 The fortified complex that crowns Oropesa's hill is in fact two castles and two Renaissance palaces built by successive generations of the same noble family — the counts of Oropesa — between the 14th and 16th centuries. The whole ensemble was converted into Spain's first historic-building parador in 1930, and it is still a working hotel today.

@@ -14,6 +14,7 @@ story: >
   Loos. The combination of exceptional mountain scenery and a tradition of
   intellectual company made it what one Viennese writer called "the last
   place in Austria where a conversation is still possible."
+score: 7.6
 ---
 
 The Ausseerland is the Styrian portion of the Salzkammergut, centred on the small town of Bad Aussee and three lakes — the Grundlsee, the Toplitzsee, and the Kammersee. It is the most remote and least touristy corner of the Salzkammergut, reached by road over the Pötschenpass from Bad Ischl or by the narrow-gauge Salzkammergut railway, which terminates at Bad Aussee.

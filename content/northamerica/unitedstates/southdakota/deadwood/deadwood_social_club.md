@@ -6,6 +6,7 @@ longitude: -103.7287
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 The Deadwood Social Club, upstairs at Saloon No. 10, is the most reliable serious restaurant in town. The menu leans Italian-American — pasta, veal, chicken parmesan, hand-tossed pizzas — with a few South Dakotan signatures (pheasant, buffalo strip steak, walleye when in season).

@@ -11,6 +11,7 @@ tags:
   - sight
 neighbourhood: Baixa
 story: The bronze statue at the centre of the square is **Samora Machel**, Mozambique's first president and FRELIMO commander, killed in a 1986 plane crash near the South African border that an Apartheid-era investigation found suspicious. The statue was unveiled in 2011, twenty-five years after his death; a Soviet-era statue of Lenin in the same spot was quietly removed in 1990.
+score: 8.6
 ---
 
 The **Praça da Independência** is Maputo's main civic square — a wide open plaza framed by the white Art Deco facade of the **Cathedral of Our Lady of the Immaculate Conception**, the pale Maputo **City Hall** with its neoclassical portico, and the pink-and-white **Iron House** on the corner. On weekends it fills with families, ice-cream sellers and skateboarders.

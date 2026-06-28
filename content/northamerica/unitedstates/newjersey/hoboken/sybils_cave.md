@@ -12,6 +12,7 @@ story: >
   the city for months. Edgar Allan Poe used the case as the inspiration
   for his story "The Mystery of Marie Rogêt", transposing the murder to
   Paris and presenting his own theory of who did it.
+score: 7.1
 ---
 
 Sybil's Cave is a small stone arch tucked into the waterfront cliff at the north end of Frank Sinatra Drive — the rebuilt entrance of a 19th-century spring that once made Hoboken a summer resort for New Yorkers escaping Manhattan's heat and water-borne disease. Closed and largely forgotten through the 20th century, the cave was rebuilt in 2008 with a new iron gate and an interpretive plaque.

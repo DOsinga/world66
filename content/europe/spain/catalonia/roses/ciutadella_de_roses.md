@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Built in the 1540s under Charles V to defend the bay against Ottoman and French raids, the citadel encloses, in addition to its own bastions, the ruins of a Greek colony founded by traders from Rhodes around 776 BC. Excavations have turned up the original grid of streets and the foundations of houses, kilns, and a small theatre.
+score: 8.7
 ---
 
 The star-shaped Renaissance citadel that gives the town its silhouette covers about 12 hectares on the slope above the bay. Inside the walls you can walk through the layered history of the site: the Greek settlement of Rhode, the Roman town that succeeded it, the medieval Lombard monastery of Santa Maria, and the sixteenth-century military complex itself.

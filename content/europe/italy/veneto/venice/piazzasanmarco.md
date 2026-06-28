@@ -1,8 +1,9 @@
 ---
 latitude: 45.4343
 longitude: 12.3387
-snippet: "Venice's grand square — basilica, campanile, Doge's Palace, and Napoleon's ceiling"
-neighbourhood: San Marco
+score: 9.3
+snippet: Venice's grand square — basilica, campanile, Doge's Palace, and Napoleon's
+  ceiling
 tags:
 - things_to_do
 - san_marco

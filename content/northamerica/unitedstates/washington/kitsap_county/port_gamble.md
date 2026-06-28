@@ -8,6 +8,7 @@ tags:
   - sight
 neighbourhood: Port Gamble
 story: "Port Gamble was founded in 1853 by Maine timbermen and patterned on East Machias, their hometown — the streets, the white clapboard houses and the elm-lined main street were all deliberately copied from New England. It was a working company town with a single timber employer until the mill finally closed in 1995."
+score: 8.3
 ---
 
 A perfectly preserved 19th-century company town on the bluffs at the north tip of the Kitsap Peninsula, looking across Hood Canal toward the Olympic Mountains. The mill is gone but the white New England houses, the Victorian church and the company store all remain in use — now as galleries, antique shops, a sea-and-shell museum, and one of the prettiest small-town coffee stops on the peninsula.

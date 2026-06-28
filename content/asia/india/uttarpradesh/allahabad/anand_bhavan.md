@@ -6,6 +6,7 @@ latitude: 25.4556
 longitude: 81.8489
 story: >
   Jawaharlal Nehru was born in this house in 1889. His father Motilal Nehru, a prominent lawyer and Indian National Congress president, bought the property in 1900 and named it Anand Bhavan — "Abode of Happiness." The family donated it to the nation after independence. Indira Gandhi grew up here, and her childhood bedroom, complete with her books and toys, has been preserved as it was. The house witnessed the planning of much of India's independence movement.
+score: 8.3
 ---
 
 Anand Bhavan, the former home of the Nehru-Gandhi family, is now a museum of the independence movement and one of the most significant heritage houses in India. The Nehru family lived here through the crucial decades of the freedom struggle — Motilal Nehru, Jawaharlal Nehru, and Indira Gandhi all inhabited these rooms at different times, and many of the key decisions and meetings of the Indian National Congress were held here.

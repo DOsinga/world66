@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sveti_Stefan_(06).jpg
 latitude: 42.255651
 loc_type: city
 longitude: 18.89695
-score: 0.68
+score: 8.78
+snippet: Montenegrin coastal village facing a fortified island joined to shore by
+  a narrow sandy causeway
 title: Sveti Stefan
 type: location
 ---

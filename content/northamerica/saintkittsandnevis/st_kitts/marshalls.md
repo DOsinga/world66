@@ -8,6 +8,7 @@ tags:
   - restaurant
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 5.1
 ---
 
 A long-running fine-dining restaurant set on a terrace beside a pool at the Horizons Villas resort above Frigate Bay, with the lights of Basseterre and the silhouette of Nevis below. Chef Verral Marshall, Jamaican-born and Caribbean-trained, has been turning out the same short, ambitious menu for over twenty years.

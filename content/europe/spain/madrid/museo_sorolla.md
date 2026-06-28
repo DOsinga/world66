@@ -4,13 +4,15 @@ latitude: 40.435393
 longitude: -3.692512
 opening_hours: Tu-Sat 0930-2000 Sun 1000-1500
 phone: +34 91 310 1584
-snippet: "Painter's own home filled with luminous Mediterranean canvases"
+snippet: Painter's own home filled with luminous Mediterranean canvases
 tags:
 - things_to_do
 - museum
+- chamberi_barrio
 title: Museo Sorolla
 type: poi
 url: museosorolla.mcu.es
+score: 9.0
 ---
 
 Joaquín Sorolla may be less well known outside Spain than Picasso or Dalí, but among Spanish painters he commands fierce loyalty. His large canvases capture Mediterranean light with an intensity that photographs cannot reproduce -- brilliant whites, sun on wet sand, children playing in the surf.

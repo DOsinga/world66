@@ -6,6 +6,7 @@ longitude: 55.785
 snippet: "Five-thousand-year-old Bronze Age burial mounds clustered on the flanks of Jebel Hafeet — the oldest monumental structures in the UAE."
 tags: [things_to_do, sight, history]
 story: "These tombs were built between roughly 3200 and 2600 BC, making them contemporary with the early Egyptian dynasties and several centuries older than Stonehenge. Each one is a dry-stone dome about two metres high, constructed without mortar, with a small entrance passage aligned to catch the rising sun. They were used communally for multiple burials over generations, and the copper and ceramics found inside them show that Al Ain was already connected to trade networks reaching from Mesopotamia to the Indus Valley."
+score: 8.8
 ---
 
 The Jebel Hafeet Beehive Tombs are one of the most significant archaeological sites in the Arabian Peninsula and, somehow, also one of the most overlooked. Around 500 of these domed burial structures are scattered across the rocky lower slopes of Jebel Hafeet, clustered in loose groups that suggest the organised use of specific burial grounds over long periods. The site is inscribed as part of the Al Ain UNESCO World Heritage group.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: -27.4505
 longitude: -58.9869
+score: 5.7
 ---
 
 The Casa de Gobierno faces the Plaza 25 de Mayo and is the working seat of the Chaco provincial government. The building dates from the early 20th century and is a typical Argentine provincial palace — a long pale facade with arched windows and a central pediment.

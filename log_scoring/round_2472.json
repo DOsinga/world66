@@ -1,0 +1,200 @@
+{
+  "round": 2472,
+  "timestamp": "2026-06-13T21:45:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 10.8377,
+      "prior_variance": 0.361382,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 8.3125,
+      "prior_variance": 0.247417,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_score": 9.3375,
+      "prior_variance": 0.317201,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 7.7833,
+      "prior_variance": 0.29673,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 10.0557,
+      "prior_variance": 0.329157,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.8732,
+      "prior_variance": 0.184216,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 0.9628,
+      "prior_variance": 0.164247,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 0.0373,
+      "prior_variance": 0.177847,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 0.7659,
+      "prior_variance": 0.218525,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 1.3285,
+      "prior_variance": 0.172473,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 3.5248,
+      "prior_variance": 0.206276,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 1.1022,
+      "prior_variance": 0.214416,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.5041,
+      "prior_variance": 0.15095,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.4442,
+      "prior_variance": 0.312516,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": -0.1366,
+      "prior_variance": 0.149097,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_score": -1.0396,
+      "prior_variance": 0.150375,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -1.0251,
+      "prior_variance": 0.16445,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -1.1338,
+      "prior_variance": 0.156577,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -1.6362,
+      "prior_variance": 0.248711,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -0.7762,
+      "prior_variance": 0.168956,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.9346,
+      "prior_variance": 0.164959,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_score": -1.6291,
+      "prior_variance": 0.155224,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -3.0071,
+      "prior_variance": 0.16094,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -5.6448,
+      "prior_variance": 0.209027,
+      "prior_n": 7
+    }
+  ]
+}

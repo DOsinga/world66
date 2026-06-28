@@ -6,6 +6,7 @@ tags:
   - sight
 title: The Sacred Way
 type: poi
+score: 9.1
 ---
 
 The Sacred Way is the processional path that runs from the entrance of the sanctuary up to the Temple of Apollo, and walking it is the central experience of Delphi. In antiquity it was lined on both sides with treasuries, votive statues, tripods, and monuments erected by city-states and wealthy individuals to display their piety and their power — a competitive landscape of political architecture. Most of these are now reduced to foundations and inscribed bases, but enough remains to read the logic of the original layout.

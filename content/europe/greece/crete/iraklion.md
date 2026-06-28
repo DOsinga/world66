@@ -12,7 +12,9 @@ image_source: https://www.flickr.com/photos/59081381@N03/53535686658
 latitude: 35.3387
 loc_type: city
 longitude: 25.1442
-score: 0.65
+score: 8.77
+snippet: Cretan port capital with Minoan treasures, Venetian walls, and the palace
+  of Knossos nearby
 title: Iraklion
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
 latitude: 9.0120
 longitude: 38.7799
 snippet: "Ethiopia's homegrown specialty coffee chain, named after the legendary goat herder"
+score: 6.2
 ---
 
 Kaldi's is Ethiopia's own specialty coffee chain, named after the legendary 9th-century goat herder who supposedly discovered coffee when he noticed his goats became energetic after eating certain berries. Several locations are spread around Addis, with the Bole Road branches being the most convenient for visitors.

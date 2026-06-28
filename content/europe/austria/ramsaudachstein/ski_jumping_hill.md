@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.4175
 longitude: 13.6553
+score: 5.9
 ---
 
 Ramsau has its own ski jumping hill on the south edge of the village, used by Austrian national team trainees and visiting Nordic combined squads. There are two jumps — a 90-metre normal hill and a smaller training hill — both with matting that allows summer jumping.

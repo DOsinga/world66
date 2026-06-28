@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The original Queenstown ski field, 25 minutes from town
+score: 8.1
 ---
 
 Coronet Peak is the older of Queenstown's two main ski fields — operating since 1947 — and the one closest to town, about 25 minutes by car. The runs face mostly north and south off a high ridge at around 1,650 m, with a strong intermediate selection and night skiing on Friday and Saturday evenings.

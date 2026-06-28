@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7300
 longitude: 91.2200
+score: 7.8
 ---
 
 Dungkar is the ancestral home of Bhutan's Wangchuck royal family. The hilltop naktshang (manor) above the village belonged to Jigme Namgyal, the father of the first king, who consolidated power from this remote valley before his son was crowned in 1907.

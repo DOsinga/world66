@@ -8,6 +8,7 @@ latitude: 47.7317
 longitude: -122.1414
 sources:
   - https://en.wikipedia.org/wiki/DeLille_Cellars
+score: 7.7
 ---
 
 DeLille Cellars is one of Washington's most celebrated small wineries, known for its Bordeaux-style blends made from Columbia Valley fruit. Founded in 1992, DeLille was among the first Washington wineries to prove that the state could produce world-class red blends on par with the best of Napa or Bordeaux.

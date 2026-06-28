@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aarti_at_Triveni_Ghat_Rish
 latitude: 30.1087
 loc_type: city
 longitude: 78.2968
+score: 8.77
+snippet: Ganges pilgrimage town below the Himalayas, where ashrams, bridges, and yoga
+  line the riverbanks.
 title: Rishikesh
 type: location
 ---

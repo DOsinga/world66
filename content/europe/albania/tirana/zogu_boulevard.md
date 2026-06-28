@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Running north from Skanderbeg Square, Zogu I Boulevard is the spine of pre-communist Tirana — laid out in the 1920s during the reign of King Zog, when Italian architects were brought in to give the new capital a monumental axis. The buildings are the best surviving examples of Italian rationalist architecture in the Balkans.

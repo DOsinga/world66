@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 61.5017
 longitude: 23.7590
+score: 7.9
 ---
 
 Tampella, the former linen and cotton mill complex immediately north of the Tammerkoski rapids, is now the home of Vapriikki museum centre and a residential and commercial district built within the restored factory buildings. The conversion is one of the most successful industrial redevelopments in Finland — the original brick structures have been preserved and extended with contemporary additions that are deliberate rather than apologetic.

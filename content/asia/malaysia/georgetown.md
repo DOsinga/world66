@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:George_Town_panorama.jpg
 latitude: 5.402553
 loc_type: city
 longitude: 100.303551
-score: 0.66
+score: 9.06
+snippet: Penang capital of shophouses, clan jetties, and layered Straits of Malacca
+  trading history
 title: Georgetown
 type: location
 ---

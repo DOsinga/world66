@@ -10,6 +10,7 @@ tags:
 story: The garden holds more than 50,000 plants from arid regions worldwide. In winter
   it hosts Las Noches de las Luminarias, when over 8,000 hand-lit paper bag lanterns
   glow along the paths after dark.
+score: 8.7
 ---
 
 The Desert Botanical Garden, in Papago Park, is one of the world's best collections of desert plants. Founded in 1939, it covers 140 acres and shows just how surprisingly varied desert flora can be — from the tall saguaros of the Sonoran Desert to fat baobabs and spiny Madagascar succulents.

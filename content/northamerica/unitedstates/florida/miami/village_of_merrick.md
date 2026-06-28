@@ -9,6 +9,7 @@ tags:
 - mall
 title: Village of Merrick Park
 type: poi
+score: 4.8
 ---
 
 An upscale open-air shopping centre in Coral Gables with Neiman Marcus, Nordstrom, and a curated mix of designer boutiques. The landscaping and architecture are pleasant — more garden promenade than strip mall — and there are several good restaurants on site.

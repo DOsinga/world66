@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.0480
 longitude: -2.8010
+score: 4.8
 ---
 
 The Great Fourstone is one of Lancaster's more obscure curiosities: a large glacial erratic — a boulder carried here by ice sheets during the last glacial maximum — that sits in the city with a stone staircase carved into one side so that people can climb to the top. The carving is not ancient; it was added in the 19th century when the boulder became a curiosity worth visiting in its own right rather than simply an obstacle.

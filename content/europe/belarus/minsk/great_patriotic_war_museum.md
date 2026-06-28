@@ -11,6 +11,7 @@ tags:
 - museum
 title: Great Patriotic War Museum
 type: poi
+score: 7.9
 ---
 
 One of the first World War II museums anywhere, originally opened in 1944 before the war had even ended. Belarus lost roughly a quarter of its population during the conflict -- the highest per capita loss of any country -- and the museum does not shy away from that scale of suffering. The exhibits cover partisan resistance, the occupation, and the liberation, including a detailed section on the Maly Trostenets death camp.

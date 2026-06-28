@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Workshops along Carapungo where the figurines are shaped and painted"
+score: 8.0
 ---
 
 The workshops cluster on **Calle Carapungo** and the streets feeding into the main square. Most are small family operations — a back room or a courtyard — and the front of the house doubles as the shop. The artisans are happy to be watched at work, and many will show you the stages from dough to painted figure if you take an interest.

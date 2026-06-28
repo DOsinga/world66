@@ -14,6 +14,7 @@ story: >
   when Cyclone Martin struck in November 1997 — waves washed entirely across the islet, and
   the community lost people, homes, and pearl farm infrastructure in a single night. The
   rebuilding took years and changed the layout of the village considerably.
+score: 6.0
 ---
 
 Tukao is the larger of Manihiki's two inhabited villages, sitting on the northern rim of the atoll. It is the administrative centre of the island and the arrival point for Air Rarotonga flights — the airstrip runs along the islet just outside the village. Most visitors who stay on Manihiki sleep here.

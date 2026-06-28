@@ -16,6 +16,7 @@ story: >
   from Innsbruck — the wedding procession left the Hofburg and did not return.
 url: https://www.hofburg-innsbruck.at
 address: Rennweg 1, 6020 Innsbruck
+score: 8.4
 ---
 
 The Hofburg at Innsbruck is one of the three most significant Habsburg palaces in Austria, alongside the Vienna Hofburg and Schönbrunn. It began as a medieval castle and was transformed into a Baroque residence by Empress Maria Theresa in the 1760s. The exterior, with its pink stucco facade and giant order of pilasters, is the defining image of Innsbruck's Old Town.

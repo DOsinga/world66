@@ -1,16 +1,21 @@
 ---
-title: Sphere
-type: poi
 address: 255 Sands Avenue
 latitude: 36.1215
 longitude: -115.1623
-snippet: "366-foot LED orb on Sands Avenue, opened 2023"
+score: 8.2
+snippet: 366-foot LED orb on Sands Avenue, opened 2023
+story: 'The exterior LED display covers 580,000 square feet — the largest in the world
+  — and the building cost over $2.3 billion to construct. Its first U2 residency in
+  2023 sold out before the venue had hosted a single rehearsal.
+
+  '
 tags:
 - things_to_do
 - sight
 - architecture
-story: >
-  The exterior LED display covers 580,000 square feet — the largest in the world — and the building cost over $2.3 billion to construct. Its first U2 residency in 2023 sold out before the venue had hosted a single rehearsal.
+- the_strip
+title: Sphere
+type: poi
 ---
 
 The Sphere opened just east of the Strip in 2023 and instantly became the most recognisable building in the city. The exterior is a fully programmable 366-foot LED orb; you can watch it from anywhere in the eastern Strip — pink jellyfish one minute, a giant blinking eye the next, the Earth seen from space the third. Outside, the show is free and goes 24/7.

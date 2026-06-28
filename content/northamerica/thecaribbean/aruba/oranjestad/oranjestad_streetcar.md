@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Trams_in_Oranjestad
+score: 5.4
 ---
 
 Oranjestad's heritage streetcar — the Tranvia di Oranjestad — runs a short single-track route through the city centre, connecting the cruise terminal with the main shopping street. It was introduced in 1999 partly as a tourist attraction and partly to ease pedestrian congestion along L.G. Smith Boulevard. The trams are modern replicas of early 20th-century Caribbean streetcars, painted in bright colours.

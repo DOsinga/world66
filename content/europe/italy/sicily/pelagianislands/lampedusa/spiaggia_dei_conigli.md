@@ -12,6 +12,7 @@ story: >
   sea turtle. Female turtles return every year between May and August to lay eggs in the sand at night.
   The beach is managed with extraordinary care for the turtles: sections are cordoned off around nests,
   and wardens count the eggs and protect them from predators. The hatchlings emerge in September.
+score: 9.6
 ---
 
 Spiaggia dei Conigli — Rabbit Beach — regularly appears on lists of the world's best beaches, and the reputation is deserved. A curved arc of white sand backed by low dunes, the water shifts from pale turquoise in the shallows to a deep cobalt offshore. The sand is fine and light, the water is calm and exceptionally clear, and a small lagoon separates the beach from the tiny island of Isola dei Conigli opposite.

@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kings_County_Courthouse_09
 latitude: 36.3278
 loc_type: city
 longitude: -119.6462
-score: 0.27
+score: 5.28
+snippet: Central Valley town with a preserved China Alley, historic courthouse square,
+  and restored Fox Theater.
 title: Hanford
 type: location
 ---

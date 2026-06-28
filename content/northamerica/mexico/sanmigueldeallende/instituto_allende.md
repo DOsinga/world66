@@ -13,6 +13,7 @@ story: >
   accredited courses — attracting American GIs using the G.I. Bill to fund their
   studies in Mexico. The influx of American art students in the 1950s established
   the artist colony that made San Miguel internationally known.
+score: 7.4
 ---
 
 The Instituto Allende occupies an 18th-century colonial mansion in the south of the historic centre. Founded in 1951 as an art school, it drew generations of American artists and writers who came to study painting, ceramics, and Spanish in a beautiful and affordable city. The school is still operating, offering courses in fine arts and Spanish language, and its lush gardens and courtyard are among the most attractive spaces in San Miguel.

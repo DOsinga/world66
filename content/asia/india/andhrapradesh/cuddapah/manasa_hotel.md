@@ -6,6 +6,7 @@ longitude: 78.8295
 tags:
   - eating_out
   - restaurant
+score: 6.2
 ---
 
 Manasa Hotel on Madras Road, near YV Street, is the city's go-to for non-vegetarian cooking and one of the better places in the Rayalaseema region. The menu is broad — Andhra meals with mutton and chicken, a wide tandoori section, Chinese, even prawns and other seafood from the coast. Prices are reasonable.

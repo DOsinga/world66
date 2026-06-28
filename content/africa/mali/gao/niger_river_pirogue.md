@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.2700
 longitude: -0.0500
+score: 8.1
 ---
 
 The Niger River at Gao is wide, slow, and deeply atmospheric in the early morning. A pirogue ride across to the far bank — where a red sand dune rises directly from the water's edge — is one of the most memorable experiences in town. The crossing takes about 20 minutes each way and can be arranged through the boatmen at the river landing.

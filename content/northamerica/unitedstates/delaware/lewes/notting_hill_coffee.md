@@ -6,6 +6,7 @@ longitude: -75.1407
 tags:
   - bars_and_cafes
   - cafe
+score: 5.6
 ---
 
 The Lewes branch of Notting Hill is a small, well-lit coffee bar on Second Street that roasts its own beans. The espresso is decent — pulled short, served European-style — and the drip coffee is some of the best on the Delaware coast. There is enough seating for ten and Wi-Fi that mostly works.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4655
 longitude: 21.4648
+score: 6.2
 ---
 
 The Gjilan City Park is the main green space in the city centre — a welcome stretch of shade and quiet a short walk from the main square and the bazaar. Walking paths wind through the park, benches line the routes, and a small café serves coffee and soft drinks to people who have stopped to sit for a while.

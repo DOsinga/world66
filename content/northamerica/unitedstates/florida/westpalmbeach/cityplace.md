@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Rosemary Square (CityPlace)
 type: poi
+score: 4.9
 ---
 
 Rosemary Square — until 2019 called CityPlace — is a 72-acre development of Mediterranean-revival arcades, fountains, and chain shops built in 2000 over the former 1920s railway yards south of downtown. The visual centrepiece is a restored 1926 Methodist church reused as an event hall, surrounded by hibiscus-pink stucco and a long plaza with a programmed fountain.

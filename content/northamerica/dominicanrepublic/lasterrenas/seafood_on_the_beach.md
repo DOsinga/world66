@@ -1,7 +1,10 @@
 ---
+score: 5.9
+tags:
+- eating_out
+- restaurant
 title: Beach Seafood Restaurants
-type: poi
-tags: [eating_out, restaurant]
+type: theme
 ---
 
 The strip of seafood restaurants along Playa Las Terrenas is the simplest and most reliable eating experience in town: tables on or immediately above the sand, fishing boats visible at the eastern end of the beach, and a menu built entirely around what came in that morning. Dorado, lobster, red snapper, and shrimp appear in various preparations — grilled, fried, in a creole sauce, or simply with lime and tostones. The setting at sunset, with the water turning orange and the first stars appearing over the palm trees, is the Las Terrenas version of a formal dining experience.

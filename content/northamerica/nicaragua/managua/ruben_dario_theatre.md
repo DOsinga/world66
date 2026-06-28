@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo_National_Theatre
 story: >
   The theatre is named for Rubén Darío, the Nicaraguan poet born in 1867 who is considered the father of the Spanish-language literary movement Modernismo. His influence on Spanish poetry was comparable to Walt Whitman's on American verse. Nicaraguans commemorate him everywhere — on banknotes, in street names, in the national library — but the theatre bearing his name is the most prestigious cultural venue in the country.
+score: 7.9
 ---
 
 The Rubén Darío National Theatre is Nicaragua's premier performing arts venue, a large, imposing modernist building on the northern edge of the old city centre near the lakefront. Built in 1969, it survived the 1972 earthquake and has been in continuous use since, hosting opera, theatre, ballet, and national festivals.

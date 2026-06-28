@@ -8,6 +8,7 @@ latitude: 44.1338
 longitude: 8.2074
 story: >
   When the caves were systematically explored in the 1950s, speleologists found the footprints of Neanderthals preserved in mud — adults and a child — alongside clay handprints pressed against the walls. Carbon dating put the prints at around 12,000 years old, among the oldest direct traces of Palaeolithic life in Italy. The mud floor of the Sala dei Misteri still bears their shapes today, fenced off but visible from the walkway.
+score: 9.2
 ---
 
 The Grotte di Toirano are the headline attraction of the entire Val Varatella — a 1,300-metre tour through three interconnected caves carved out of the limestone by underground rivers over millions of years. The Grotta della Bàsura ("Witch's Cave" in Ligurian) is the most spectacular: vast chambers hung with stalactites and stalagmites, mud floors imprinted with the footprints of Neanderthals and cave bears, and the remarkable "Cemetery of Bears" where dozens of complete cave bear skeletons lie where the animals died during the last Ice Age.

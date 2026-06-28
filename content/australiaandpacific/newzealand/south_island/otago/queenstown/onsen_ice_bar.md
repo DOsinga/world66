@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - bar
 snippet: A bar kept at -5°C with everything carved from ice
+score: 4.8
 ---
 
 A novelty bar on Shotover Street where the walls, the seats, the glasses, and the bar top are all carved from ice and the temperature is held at -5°C. Entry includes a parka, gloves, and a cocktail in an ice glass; you have 30 minutes before they shoo you out, which is more than enough.

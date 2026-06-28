@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Asolo-Nov-2021jpg_(3).jpg
 latitude: 45.786
 loc_type: city
 longitude: 11.913
-score: 0.63
+score: 8.56
+snippet: Veneto hill town of cypress-framed horizons, artistic exiles, and Queen Caterina
+  Cornaro's court.
 title: Asolo
 type: location
 ---

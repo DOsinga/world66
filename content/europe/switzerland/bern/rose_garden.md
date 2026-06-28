@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.9510
 longitude: 7.4603
+score: 7.7
 ---
 
 The Rosengarten sits on a terrace above the Bear Park, looking west across the Aare to the Old Town peninsula. The garden has around 200 varieties of rose and 200 varieties of iris, blooming from May to October. But the roses are almost secondary to the view: the panorama of the Old Town with the Minster tower rising above the cluster of sandstone rooflines is one of the classic Bern perspectives.

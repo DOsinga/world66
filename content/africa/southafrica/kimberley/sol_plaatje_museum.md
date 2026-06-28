@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -28.7460
 longitude: 24.7635
+score: 7.3
 ---
 
 Sol Plaatje was one of the most remarkable South Africans of the early twentieth century: journalist, novelist, linguist, political activist, and first Secretary-General of what became the ANC. The museum occupies the house in the Malay Camp neighbourhood where he lived during his final years, and it tells a story that gets little space in the more prominent Kimberley heritage sites.

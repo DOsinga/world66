@@ -6,6 +6,7 @@ latitude: 29.5680
 longitude: 115.9780
 story: >
   The 1959 Lushan Conference was the meeting where Defence Minister Peng Dehuai wrote a private letter to Mao Zedong questioning the Great Leap Forward, noting that millions were going hungry. Mao had the letter distributed to all participants and accused Peng of leading a "military club" against the party. Peng was purged, and critics of the Great Leap Forward were silenced for the next two years — during which an estimated 15–45 million people died in the subsequent famine. The conference hall where this happened stands unchanged.
+score: 7.8
 ---
 
 Lushan became entangled in twentieth-century Chinese political history through a series of high-level conferences held in its colonial-era buildings. Chiang Kai-shek used his summer villa on the mountain as a retreat and governing base in the 1930s and 1940s; the villa is now open as a museum. Mao Zedong's villa — a converted foreign residence — is also open to visitors, with original furnishings and photographs.

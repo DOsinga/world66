@@ -9,6 +9,7 @@ tags:
 - market
 title: Burao Livestock Market
 type: poi
+score: 8.2
 ---
 
 The livestock market is the reason Burao matters. Camels, goats, and sheep are driven in from across central Somaliland and traded by Somali herders and exporters in a dusty, noisy open ground on the edge of town. Most of the animals are bound onward to the port of Berbera and then by ship to the Arabian Peninsula, where demand is highest in the weeks before the Hajj.

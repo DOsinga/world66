@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 29.1600
 longitude: 121.0300
+score: 8.0
 ---
 
 Huading Peak is the summit of Tiantai Mountain at 1,098 metres, and the place where the monk Zhiyi is said to have meditated for years before founding the Tiantai school of Buddhism. A small temple complex marks the summit plateau, and on clear days the views extend southeast across the Zhejiang hills to where the coastal plain flattens toward the sea.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Gandoca-Manzanillo Wildlife Refuge
 type: poi
+score: 8.7
 ---
 
 The Refugio Nacional de Vida Silvestre Gandoca-Manzanillo covers the coastline south of Puerto Viejo as far as the Panamanian border — over 9,000 hectares of coastal forest, mangroves, coral reefs and turtle-nesting beaches. The trailheads are at **Manzanillo**, the small village at the end of the coast road.

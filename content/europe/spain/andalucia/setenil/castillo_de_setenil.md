@@ -9,6 +9,7 @@ latitude: 36.8632
 longitude: -5.1802
 story: >
   Ferdinand and Isabella besieged this fortress seven times before finally taking it in 1484 — one of the last Moorish strongholds in Andalucia to fall during the Reconquista. The defenders held out so long partly because the gorge made direct assault almost impossible; the final surrender came through a combination of artillery bombardment and starvation.
+score: 7.2
 ---
 
 The Castillo de Setenil occupies the high ground at the top of the village, its square tower visible from most of the lower streets. The structure is largely Moorish in origin, built by the Nasrid dynasty that held Granada, though it was heavily modified after the Christian conquest. What remains today is mainly the keep — the walls and towers have been reduced over the centuries — but the position above the gorge is superb.

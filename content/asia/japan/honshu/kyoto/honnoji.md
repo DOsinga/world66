@@ -1,13 +1,18 @@
 ---
 latitude: 35.0103
 longitude: 135.7683
+score: 6.4
 snippet: Nichiren temple famous as the site where Oda Nobunaga met his end in 1582
-story: On 21 June 1582 the warlord Oda Nobunaga, on the verge of unifying Japan, was attacked at Honnō-ji by his own general Akechi Mitsuhide and committed seppuku as the temple burned around him. The current building is on a different site to the original; the *honden* of that earlier temple stood about a kilometre west.
+story: On 21 June 1582 the warlord Oda Nobunaga, on the verge of unifying Japan, was
+  attacked at Honnō-ji by his own general Akechi Mitsuhide and committed seppuku as
+  the temple burned around him. The current building is on a different site to the
+  original; the *honden* of that earlier temple stood about a kilometre west.
 tags:
 - things_to_do
 - temple
 - historic_site
 - sight
+- downtown_kyoto
 title: Honnō-ji
 type: poi
 ---

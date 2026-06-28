@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Amberes;_vistas_MAS_2.jpg
 latitude: 51.22111
 loc_type: city
 longitude: 4.399708
-score: 0.66
+score: 9.06
 title: Antwerp
 type: location
+snippet: Flemish port city of Rubens, diamonds, fashion, and guildhouse squares with
+  a working-harbour edge.
 ---
 
 Antwerp is the place where you can sit on the [Grote Markt](/europe/belgium/antwerp/grotemarkt) with a Bolleke glass of De Koninck beer in front of the old guildhouses and feel for a moment like a wealthy sixteenth-century merchant. Belgium's second city, and the biggest in Flanders, is a working harbour, a centre of the global diamond trade, the home town of Pieter Paul Rubens, and — quietly, since the 1980s — one of the most important cities in international fashion. It is also a city with a slight inferiority complex about Brussels and Bruges, and a sharper edge than either.

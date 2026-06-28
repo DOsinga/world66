@@ -5,11 +5,13 @@ done:
 latitude: 52.4069
 loc_type: city
 longitude: 23.8156
-score: 0.28
+score: 4.88
 sources:
 - https://en.wikipedia.org/wiki/Kamyanyets
 - https://en.wikipedia.org/wiki/Tower_of_Kamyenyets
 title: Kamianiec
+snippet: Western Belarusian town best known for its nearly complete 13th-century brick
+  Kamianiec Tower.
 type: location
 ---
 

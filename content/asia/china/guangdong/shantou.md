@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Shantou,_Guangdong,_China_
 latitude: 23.3541
 loc_type: city
 longitude: 116.6822
+score: 6.57
+snippet: Coastal Teochew city and former treaty port, known for arcaded lanes and
+  seafood-rich cooking.
 sources:
 - https://en.wikivoyage.org/wiki/Shantou
 - https://en.wikipedia.org/wiki/Shantou

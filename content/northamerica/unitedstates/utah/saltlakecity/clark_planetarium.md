@@ -6,6 +6,7 @@ tags:
 - museum
 title: Clark Planetarium
 type: poi
+score: 5.7
 ---
 
 Clark Planetarium is a free-admission science museum and full-dome theatre in the Gateway shopping district. The permanent exhibits explain astronomy, space exploration, and Earth science, with interactive displays for all ages. The IMAX and dome theatres charge separately for shows.

@@ -9,6 +9,7 @@ latitude: 39.3760
 longitude: 115.3700
 story: >
   The Yongzheng emperor chose to be buried here rather than beside his father Kangxi at the Eastern Qing Tombs, and the decision sparked a controversy that lasted for centuries. The official explanation was that the western site had better feng shui. The private explanation was that Yongzheng had come to power under suspicious circumstances — possibly by altering his father's will — and preferred not to be buried where the comparison would be immediate and unfavourable. The Qing alternated between east and west sites ever after to maintain dynastic balance.
+score: 8.0
 ---
 
 The Western Qing Tombs, 75 kilometres southwest of Baoding in the hills of Yi County, contain the mausoleums of four Qing emperors: Yongzheng, Jiaqing, Daoguang, and Guangxu. The complex earned UNESCO World Heritage status in 2000 as part of the Imperial Tombs of the Ming and Qing Dynasties listing. It is quieter and more atmospheric than its eastern counterpart, partly because it receives fewer visitors and partly because the surrounding hills and the spirit ways lined with stone animals and officials have been better preserved.

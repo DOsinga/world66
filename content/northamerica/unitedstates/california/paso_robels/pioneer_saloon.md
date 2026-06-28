@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 35.5485
 longitude: -120.7035
+score: 6.9
 ---
 
 The Pioneer Saloon in Templeton has been a local institution since the 1800s, and it shows in the best possible way — worn wooden bar, good local beers on tap, and a clientele that mixes wine industry workers with ranchers and tourists who wandered in off US-101. It is unpretentious in a way that the newer Paso Robles bars sometimes struggle to be.

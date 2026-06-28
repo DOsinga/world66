@@ -5,7 +5,9 @@ done:
 latitude: 38.9429
 loc_type: city
 longitude: 34.5609
-score: 0.52
+score: 7.59
+snippet: Anatolian pilgrimage town centred on the Hacı Bektaş Veli Complex and the
+  Alevi-Bektaşi tradition.
 title: Hacıbektaş
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 title: Agate Beachcombing
 type: poi
 snippet: "The Yachats River mouth and nearby beaches yield agates after winter storms"
+score: 6.0
 ---
 
 The beaches around Yachats — particularly the gravel bars at the river mouth and the low-tide zones below the basalt shelves — are among the better agate-hunting spots on the central Oregon coast. The local agates are small, milky-to-translucent, and sometimes colour-banded: the product of silica-rich volcanic processes in the basalt. They show best when wet, which is why beachcombers work after winter storms when fresh material has been tumbled onto the beach by heavy surf.

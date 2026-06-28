@@ -8,6 +8,7 @@ tags:
   - view
 latitude: 8.4708
 longitude: -13.2493
+score: 6.7
 ---
 
 The Country Lodge, on a hillside above Hill Station, has one of the most striking views in Freetown — across the city and the harbour to the Atlantic. The restaurant cooks an ambitious menu of Sierra Leonean and international dishes and is the most-recommended fine-dining option in the city.

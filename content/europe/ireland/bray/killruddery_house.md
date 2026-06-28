@@ -9,6 +9,7 @@ latitude: 53.1816
 longitude: -6.102
 story: >
   The formal gardens at Killruddery date from around 1682 and are the oldest surviving gardens of their kind in Ireland. They were laid out in the French and Dutch Baroque style, with long canals, beech hedges trimmed to cathedral height, and a twin pond arrangement that has remained largely unchanged for over three hundred years. Almost every other formal garden of the period in Ireland was subsequently dug up or landscaped — Killruddery's survived because the Brabazon family never had the money or inclination to change it.
+score: 8.1
 ---
 
 Killruddery House stands about two kilometres south of Bray town centre, seat of the Earls of Meath and home to the Brabazon family for over four hundred years. The house itself is a Tudor Revival mansion dating largely from an 1820 rebuild, with a Victorian orangery added later. It is handsome rather than spectacular, but the gardens surrounding it are something else entirely — a rare, largely intact example of seventeenth-century Baroque garden design in Ireland.

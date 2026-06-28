@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 address: Seaway Road, Sarnia
+score: 6.5
 ---
 
 Centennial Park stretches along the St. Clair River north of the Blue Water Bridge, with a waterfront boardwalk that gives the best views of the bridge, the river traffic, and the American shore at Port Huron. The Bluewater Trail running through the park is the local walking and cycling spine; the path continues north toward Point Edward and south to Sarnia Harbour.

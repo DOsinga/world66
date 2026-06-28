@@ -2,7 +2,7 @@
 address: Upper Wale Street, Bo-Kaap
 latitude: -33.9195
 longitude: 18.413
-neighbourhood: Bo-Kaap
+score: 7.7
 scores:
   activities: 0.6234
   eating_out: 0.8123
@@ -10,7 +10,7 @@ snippet: Legendary Cape Malay home cooking in the Bo-Kaap, open since 1965
 tags:
 - eating_out
 - restaurant
-- bo_kaap
+- bokaap
 title: Biesmiellah
 type: poi
 ---

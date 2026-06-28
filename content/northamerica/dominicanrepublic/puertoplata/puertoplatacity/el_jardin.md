@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Garden restaurant near the central park serving Dominican staples to a local crowd
+score: 6.7
 ---
 
 El Jardín is set in the courtyard of an old house near the central park, with tables under a canopy of trees and a kitchen that does exactly what Dominican home cooking is supposed to do: sancocho (a thick stew of root vegetables and meat), mangu (mashed plantain, always served with pickled red onions and fried cheese), pollo guisado, and whatever fresh fish came in that morning. The menu is written on a board, changes with availability, and is entirely in Spanish — bring a translation app or point at what a neighbouring table has ordered.

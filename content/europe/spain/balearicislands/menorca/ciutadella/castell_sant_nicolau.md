@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9957
 longitude: 3.8258
+score: 6.1
 ---
 
 The Castell de Sant Nicolau is a small 17th-century cylindrical fortification at the mouth of Ciutadella harbour, built to defend the narrow channel entrance from pirate raids and Ottoman incursions. Its position at the tip of the rocky headland gives it a good view out to sea and back along the harbour to the town; it is a popular spot for watching the sunset over the water.

@@ -6,6 +6,7 @@ longitude: -2.4177
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The landscape around Ouahigouya is characteristic Sahel: flat laterite plains broken by isolated rocky outcrops (inselbergs), dotted with baobabs, acacias, and the occasional sacred grove. During the dry season (November to May), the land is dusty and ochre-coloured; the brief rainy season (June–September) brings a flush of green that transforms the region.

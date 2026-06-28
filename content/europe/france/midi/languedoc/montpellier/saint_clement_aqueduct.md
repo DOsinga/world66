@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Saint-Clément Aqueduct
 type: poi
+score: 7.2
 ---
 
 The graceful two-tier stone arches that stretch westward from the Promenade du Peyrou are the **Aqueduc Saint-Clément**, a deliberate 18th-century homage to the Pont du Gard near Nîmes. Built between 1753 and 1766 by the engineer Henri Pitot, the aqueduct carries water 14 km from the spring of Saint-Clément and was central Montpellier's drinking supply until well into the 20th century.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Castle Hill is a pink granite monolith that rises 286 metres above sea level. When Townsville was founded in 1864, the hill was described as a navigational landmark visible from 40 kilometres out to sea. Today it is a park — and the city that grew around it is now the largest in tropical Australia.
+score: 8.6
 ---
 
 Castle Hill is the most recognisable feature of Townsville — a great pink granite dome that dominates the skyline and can be seen from almost everywhere in the city. The summit is about a 30-minute walk from the CBD, and the views from the top take in Magnetic Island, the Coral Sea, and the endless dry savanna stretching inland. It is one of the best viewpoints in Queensland.

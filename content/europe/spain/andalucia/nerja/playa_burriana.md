@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Playa Burriana
 type: poi
+score: 6.9
 ---
 
 The longest and most developed of Nerja's beaches, a 20-minute walk east of the Balcón de Europa around a rocky headland. About 800 metres of sand and pebble shoreline backed by a paved paseo of restaurants, ice cream parlours, water sports rentals and the small white houses of Burriana.

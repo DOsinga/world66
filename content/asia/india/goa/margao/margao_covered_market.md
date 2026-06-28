@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - market
+score: 8.0
 ---
 
 The Mercado de Afonso de Albuquerque is a two-storey covered market hall at the centre of Margao's commercial district — the kind of place where the real workings of Goa become visible outside the beach-resort economy. The ground floor is divided into fish, meat, and vegetable stalls: Goan mackerel and kingfish laid out on ice, rows of dried fish and kokum, mounds of fresh green chillies and ginger. The upper floor has textile merchants, tailors, and shops selling everything from saris to plastic buckets.

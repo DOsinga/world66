@@ -13,6 +13,7 @@ story: >
   Lübeck fleet at bay in 1525, though by then the Hanseatic era was already over
   and the city inside had begun its long, slow decline into a backwater that
   preserved it perfectly.
+score: 9.5
 ---
 
 The ring wall around Visby is the best-preserved medieval city wall in Scandinavia and one of the finest in Europe. It runs for 3.4 kilometres, reaches up to 11 metres in height in places, and is punctuated by 44 towers. The wall was built in stages between the 13th and 15th centuries, and the UNESCO designation covers both the wall and the medieval town centre it encloses.

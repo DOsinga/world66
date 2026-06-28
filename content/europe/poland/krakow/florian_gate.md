@@ -1,14 +1,24 @@
 ---
-title: "Florian Gate and City Walls"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - stare_miasto
 latitude: 50.0648
 longitude: 19.9393
-story: >
-  The Barbican outside the Florian Gate was built between 1498 and 1499, when news reached Krakow that a Turkish army had raided as far west as Hungary. It was the most advanced fortification of its type in Poland — a circular barbican with seven turrets and an entrance designed so that attackers who forced the outer gate would be trapped in an enclosed killing ground before reaching the inner gate. The Turkish army never came, and within a century gunpowder artillery had made such fortifications obsolete.
+score: 8.2
+snippet: Only surviving medieval city gate in Kraków, part of the 14th-century fortifications
+story: 'The Barbican outside the Florian Gate was built between 1498 and 1499, when
+  news reached Krakow that a Turkish army had raided as far west as Hungary. It was
+  the most advanced fortification of its type in Poland — a circular barbican with
+  seven turrets and an entrance designed so that attackers who forced the outer gate
+  would be trapped in an enclosed killing ground before reaching the inner gate. The
+  Turkish army never came, and within a century gunpowder artillery had made such
+  fortifications obsolete.
+
+  '
+tags:
+- things_to_do
+- sight
+- stare_miasto
+- kleparz
+title: Florian Gate and City Walls
+type: poi
 ---
 
 The Florian Gate is the only surviving city gate from Krakow's medieval fortifications, a 14th-century Gothic tower that stands at the northern end of the Royal Road leading into the Old Town. The white-walled gate is connected to a short stretch of the original defensive walls, preserved as a linear park between the gate and the round Barbican fortress to the north. The walls are decorated with student art exhibitions in summer — an old Krakow tradition — and the spaces between the towers have become a venue for portrait painters and folk craft sellers.

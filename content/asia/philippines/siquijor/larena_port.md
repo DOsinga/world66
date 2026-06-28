@@ -6,6 +6,7 @@ longitude: 123.591
 tags:
   - things_to_do
   - sight
+score: 3.8
 ---
 
 Larena is the main ferry port of Siquijor and the point of arrival for boats from Cebu City and Tagbilaran (Bohol). It is a small, functional town without much to detain you beyond logistics — most travellers take a tricycle or habal-habal (motorcycle taxi) onward to San Juan or elsewhere on the island within an hour of arriving. The port area has a few eateries and basic provisions.

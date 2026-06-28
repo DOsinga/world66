@@ -6,6 +6,7 @@ longitude: -75.5469
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Rodney Square is the central public space of downtown Wilmington, named for Caesar Rodney — the Delaware delegate to the Continental Congress who rode through the night on 1 July 1776 to break the colonial tie and vote for independence. His equestrian statue stands at the centre of the square.

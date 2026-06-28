@@ -5,7 +5,9 @@ done:
 latitude: 53.495682
 loc_type: city
 longitude: 13.309706
-score: 0.39
+score: 6.49
+snippet: Small Mecklenburg town dominated by northern Germany's highest medieval hilltop
+  castle.
 title: Burg Stargard
 type: location
 ---

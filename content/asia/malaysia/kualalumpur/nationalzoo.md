@@ -1,7 +1,9 @@
 ---
 latitude: 3.210663
 longitude: 101.757762
-snippet: Large zoo with Malaysian wildlife and aquarium
+score: 5.9
+snippet: National zoo on KL's eastern outskirts with Malaysian wildlife, a petting
+  farm, and a freshwater aquarium
 tags:
 - things_to_do
 - landmark

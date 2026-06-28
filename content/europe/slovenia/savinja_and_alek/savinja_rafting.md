@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 46.3333
 longitude: 14.8333
+score: 6.8
 ---
 
 The upper Savinja River is one of the best whitewater rivers in Slovenia, especially in the section between Solčava and Ljubno ob Savinji. The river runs clear and cold from the alpine valleys and drops through a series of rapids that are challenging enough to be exciting but manageable for beginners with a guide.

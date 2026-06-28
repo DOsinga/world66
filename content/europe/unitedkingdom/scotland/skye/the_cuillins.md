@@ -4,7 +4,13 @@ done:
   location_cleanup: '2026-04-15'
 latitude: 57.2423
 longitude: -6.2286
+score: 9.7
 snippet: Britain's most dramatic mountain range, twelve Munros on Skye
+tags:
+- things_to_do
+- sight
+- hiking
+- mountain
 title: The Cuillins
 type: poi
 ---

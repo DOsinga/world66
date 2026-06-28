@@ -9,6 +9,7 @@ longitude: 32.603500
 snippet: "Double tomb with astronomical ceilings and one of the most complete collections of funerary texts in the Valley of the Kings"
 story: >
   The tomb accidentally preserved Tutankhamun's for thousands of years. When Ramses VI had this tomb cut through the limestone, the rubble was dumped directly over the entrance to Tutankhamun's smaller tomb below. Robbers, not knowing the smaller tomb existed, left it untouched, and later villagers built huts on top of the spoil heap without ever finding what lay beneath. It was only cleared in 1922 when Howard Carter meticulously searched the entire valley floor.
+score: 8.6
 ---
 
 The Tomb of Ramses VI is one of the most spectacular in the Valley of the Kings, known particularly for its astronomical ceiling — a double image of the sky goddess Nut, arched over both the upper and lower corridors, swallowing the sun at sunset and giving birth to it again at dawn. The sequence of images is one of the most complete representations of ancient Egyptian cosmological thinking in existence.

@@ -1,0 +1,200 @@
+{
+  "round": 4572,
+  "timestamp": "2026-06-14T00:23:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 11.7476,
+      "prior_variance": 0.356706,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 9.6288,
+      "prior_variance": 0.197677,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_score": 6.9416,
+      "prior_variance": 0.126839,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 3.8261,
+      "prior_variance": 0.143555,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 4.5746,
+      "prior_variance": 0.113321,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 7.2194,
+      "prior_variance": 0.135277,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 4.6574,
+      "prior_variance": 0.106051,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 2.506,
+      "prior_variance": 0.09434,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.9827,
+      "prior_variance": 0.09694,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 3.2741,
+      "prior_variance": 0.09559,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 3.225,
+      "prior_variance": 0.12509,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -1.3857,
+      "prior_variance": 0.111991,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": -0.3538,
+      "prior_variance": 0.1045,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.6305,
+      "prior_variance": 0.083785,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -1.8795,
+      "prior_variance": 0.080959,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds",
+      "prior_score": -0.2796,
+      "prior_variance": 0.101592,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.7211,
+      "prior_variance": 0.112147,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.5696,
+      "prior_variance": 0.088746,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -1.1951,
+      "prior_variance": 0.101136,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": -3.4475,
+      "prior_variance": 0.10007,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -3.6106,
+      "prior_variance": 0.11347,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_score": -7.8955,
+      "prior_variance": 0.213182,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -8.7995,
+      "prior_variance": 0.206396,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -9.7611,
+      "prior_variance": 0.203795,
+      "prior_n": 14
+    }
+  ]
+}

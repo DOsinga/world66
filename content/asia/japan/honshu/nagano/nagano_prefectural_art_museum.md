@@ -8,6 +8,7 @@ latitude: 36.6616
 longitude: 138.1907
 sources:
   - https://en.wikipedia.org/wiki/Nagano_Prefectural_Art_Museum
+score: 7.1
 ---
 
 The Nagano Prefectural Art Museum sits in Jōyama Park adjacent to Zenkō-ji and forms one of the major cultural anchors of the city. The museum has a strong collection of works by artists connected to Nagano and the surrounding region, particularly the landscape painters and printmakers who worked in the mountains of Nagano Prefecture during the twentieth century. The permanent collection gives particular emphasis to Higashiyama Kaii, a celebrated landscape painter whose work draws heavily on the forests and light of central Japan; his large-scale forest paintings have a calming, almost meditative quality.

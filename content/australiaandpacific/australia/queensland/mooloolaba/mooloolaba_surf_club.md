@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - eating_out
   - bar
+score: 5.8
 ---
 
 The Mooloolaba Surf Life Saving Club sits squarely on the beach in the middle of the Esplanade. Like most Queensland surf clubs, it doubles as a community bar and restaurant — schooners, $20 surf-and-turf, and one of the best beach-view balconies on the Sunshine Coast.

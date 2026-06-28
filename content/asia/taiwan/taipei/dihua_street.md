@@ -10,6 +10,7 @@ tags:
 - datong
 title: Dihua Street
 type: poi
+score: 8.7
 ---
 
 Dihua Street is the architectural and commercial heart of old Taipei: a kilometre-long stretch of two- and three-storey shophouses, mostly red-brick and stuccoed in Baroque-revival style, dating from the late 19th and early 20th centuries. The street has been a wholesale market for as long as anyone can remember — Chinese medicinal herbs, dried mushrooms, dried fish, tea, fabric — and the trade carries on in the same shops today.

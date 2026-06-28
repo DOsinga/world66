@@ -10,6 +10,7 @@ tags:
   - eating_out
   - restaurant
 story: "El Güero Canelo won the James Beard America's Classics Award in 2018 specifically for its Sonoran hot dog — a Sonora-born sausage that crossed the border with Mexican workers in the early twentieth century and has been turned by Tucson cooks into one of the great American street foods."
+score: 7.1
 ---
 
 El Güero Canelo, a no-frills Mexican joint on 12th Avenue, is widely considered the place to eat a Sonoran hot dog. The 'Sammy' (named after the founder Sammy Mejía) is a bacon-wrapped hot dog in a fluffy bolillo bun, loaded with pinto beans, fresh tomatoes, onions, mayo, mustard, jalapeño salsa and a green chili.

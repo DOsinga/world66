@@ -4,7 +4,9 @@ done:
 latitude: 36.594
 loc_type: city
 longitude: -94.769
-score: 0.31
+score: 5.94
+snippet: Northeastern Oklahoma lake town with pioneer museums, gardens, and Grand
+  Lake boating
 title: Grove
 type: location
 ---

@@ -1,22 +1,24 @@
 ---
-title: Libya
-type: location
-latitude: 26.823447
-longitude: 18.123672
-image: libya.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Oasis_in_Lybia.JPG
-image_license: Public domain
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Sfivat&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Sfivat (page does not exist)">Sfivat</a>
-quick_facts:
-  Population: "7 million"
-  Access: "Visa extremely difficult to obtain"
-  Desert Coverage: "90% Sahara"
-  Coastline: "1,770 km on the Mediterranean"
 done:
   country_cleanup: 2026-03-31
-score: 0.14
+image: libya.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Sfivat&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Sfivat (page does not exist)">Sfivat</a>
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Oasis_in_Lybia.JPG
+latitude: 26.823447
 loc_type: country
+longitude: 18.123672
+quick_facts:
+  Access: Visa extremely difficult to obtain
+  Coastline: 1,770 km on the Mediterranean
+  Desert Coverage: 90% Sahara
+  Population: 7 million
+score: 0.34
+snippet: North African country with Mediterranean coastline, Sahara landscapes, and
+  major Greek and Roman archaeological sites.
+title: Libya
+type: location
 ---
 
 Libya does not sound like an every day tourist destination, and it's not. That doesn't mean that that you shouldn't go. Quite on the contrary. Libya has marvellous monuments dating [Al Qatrun](/africa/libya/alqatrun)

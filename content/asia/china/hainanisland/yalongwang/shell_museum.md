@@ -6,6 +6,7 @@ longitude: 109.6862
 tags:
   - things_to_do
   - museum
+score: 5.8
 ---
 
 The Yalong Bay Shell Museum, near the central Yalong Bay Plaza, holds one of the larger private collections of marine shells in China — several thousand specimens from the Indo-Pacific, with displays that emphasise the variety of cone shells, cowries, and gastropods found around Hainan.

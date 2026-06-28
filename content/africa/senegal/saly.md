@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Barques_de_p%C3%A8ches_%C3
 latitude: 14.441115
 loc_type: city
 longitude: -17.01483
-score: 0.48
+score: 7.29
+snippet: Petite Côte resort town south of Dakar, built around a long sandy beach and
+  package-holiday hotels.
 title: Saly
 type: location
 ---

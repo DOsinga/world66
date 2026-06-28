@@ -9,6 +9,7 @@ longitude: -8.4289
 snippet: "12th-century monastery with the tombs of Portugal's first two kings"
 story: >
   Afonso Henriques, Portugal's first king, chose to be buried here in 1185, in a monastery he himself had founded. His tomb and that of his son Sancho I were moved to their current ornate Renaissance sarcophagi in the 16th century by King Manuel I, who remodelled the church in the Manueline style.
+score: 8.5
 ---
 
 The Church of Santa Cruz, at the foot of the old town, contains the tombs of Portugal's first two kings: Afonso Henriques, who founded the country in the 12th century, and his son Sancho I. The church has been heavily remodelled over the centuries — the Manueline façade and the interior stonework date mostly from the early 16th century — but it remains one of the most historically charged buildings in Portugal.

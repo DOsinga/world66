@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dezhou-Dajiawa_Railway_Yel
 latitude: 37.4513
 loc_type: city
 longitude: 118.4669
+score: 5.65
+snippet: Modern Shandong oil city at the Yellow River Delta, where wetlands meet the
+  Bohai Sea
 sources:
 - https://en.wikivoyage.org/wiki/Dongying
 title: Dongying

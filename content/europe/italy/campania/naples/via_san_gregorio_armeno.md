@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 40.8509
 longitude: 14.2561
+score: 7.7
 ---
 
 A short street in the heart of the Centro Storico that has been the centre of Naples's presepe — nativity scene — craftsmanship for over four centuries. The workshops on Via San Gregorio Armeno produce everything from traditional terracotta shepherd figures to satirical contemporary characters: politicians, footballers, and celebrities routinely appear alongside the Holy Family.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.4
 ---
 
 The Oratory of Santa Caterina dei Disciplinati sits on the corner of Largo Taragio and is the smaller, more intimate of Corniglia's two religious buildings. It was built in the 18th century as the chapel of the local lay confraternity — a brotherhood of villagers who performed funeral rites and looked after the poor — and the simple pale-yellow façade still carries the confraternity's stone emblem above the door.

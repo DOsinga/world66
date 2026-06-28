@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dawukou_Coach_Station.jpg
 latitude: 39.0099
 loc_type: city
 longitude: 106.3694
+score: 5.3
+snippet: Northern Ningxia industrial city used as a base for Shahu Lake’s wetlands
+  and desert dunes.
 sources:
 - https://en.wikivoyage.org/wiki/Shizuishan
 title: Shizuishan

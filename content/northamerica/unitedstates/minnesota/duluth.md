@@ -5,7 +5,9 @@ done:
 latitude: 46.7838
 loc_type: city
 longitude: -92.1053
-score: 0.48
+score: 7.4
+snippet: Lake Superior port city climbing from a ship canal toward hillside views
+  and North Shore drives.
 sources:
 - https://en.wikipedia.org/wiki/Duluth,_Minnesota
 - https://en.wikipedia.org/wiki/Duluth_Depot

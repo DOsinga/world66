@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: The legendary Griffintown restaurant that put Montreal's food scene on the global map
+score: 8.0
 ---
 
 Joe Beef is the restaurant that made the world pay attention to Montreal's food scene. Opened in 2005 by David McMillan and Frédéric Morin in a tiny space in the then-gritty Little Burgundy neighbourhood, it became within a few years one of the most talked-about restaurants in North America — celebrated for its unapologetically rich, indulgent Québécois-French cooking and its exceptional wine list.

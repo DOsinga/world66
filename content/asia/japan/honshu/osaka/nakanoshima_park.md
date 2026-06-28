@@ -1,9 +1,12 @@
 ---
 latitude: 34.692
 longitude: 135.502
+score: 7.2
+snippet: Riverside park between two rivers, famed for its rose garden
 tags:
 - things_to_do
 - sight
+- nakanoshima
 title: Nakanoshima Park
 type: poi
 ---

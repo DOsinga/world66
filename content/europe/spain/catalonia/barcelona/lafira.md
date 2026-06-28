@@ -2,9 +2,11 @@
 address: C/ Provença 171, Barcelona
 latitude: 41.3904
 longitude: 2.1556
+score: 8.0
 snippet: Funfair-themed bar with warped mirrors and house music
 tags:
 - bars_and_cafes
+- eixample
 title: La Fira
 type: poi
 ---

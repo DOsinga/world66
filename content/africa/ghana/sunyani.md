@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
+image: sunyani.jpg
+image_attribution: Gyanford
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cocoa_House_in_Sunyani.jpg
 latitude: 7.3384
 loc_type: city
 longitude: -2.3309
-score: 0.33
+score: 5.79
+snippet: Bono Region capital in central Ghana, with a compact market centre and useful
+  day-trip access.
 title: Sunyani
 type: location
-image: sunyani.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cocoa_House_in_Sunyani.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Gyanford
 ---
 
 Sunyani is the capital of the Bono Region (formerly Brong Ahafo) in central Ghana, a quiet, clean city that sits between [Kumasi](/africa/ghana/kumasi) and the border with Ivory Coast. It is not a tourist destination in itself, but it is a pleasant place to stop and a good base for some excellent day trips in the surrounding area.

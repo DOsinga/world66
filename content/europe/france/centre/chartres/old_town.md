@@ -1,5 +1,9 @@
 ---
-snippet: The medieval street grid between the cathedral and the Eure, with half-timbered houses and stone facades
+latitude: 48.4481
+longitude: 1.4881
+score: 8.3
+snippet: The medieval street grid between the cathedral and the Eure, with half-timbered
+  houses and stone facades
 tags:
 - things_to_do
 - walk

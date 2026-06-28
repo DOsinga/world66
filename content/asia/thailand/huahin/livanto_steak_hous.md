@@ -1,7 +1,10 @@
 ---
 address: 19 Damnernkasem Rd
 email: info@livantohuahin.com
+latitude: 12.5678
+longitude: 99.9583
 phone: +66 32 514448 For reservation please call 032-514448 or 085-290-3444
+score: 4.6
 tags:
 - eating_out
 - cafe

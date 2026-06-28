@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Medora,_North_Dakota_01.jp
 latitude: 46.9144
 loc_type: city
 longitude: -103.5291
-score: 0.42
+score: 7.07
+snippet: Tiny Badlands gateway town beside Theodore Roosevelt National Park, rich
+  in frontier history and walkable streets.
 title: Medora
 type: location
 ---

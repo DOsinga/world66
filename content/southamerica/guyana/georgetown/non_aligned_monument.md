@@ -7,6 +7,7 @@ tags:
 latitude: 6.8136
 longitude: -58.1551
 snippet: "Cold War-era monument honouring leaders of the Non-Aligned Movement"
+score: 6.2
 ---
 
 A small but historically interesting monument on Company Path Avenue, the Non-Aligned Monument was erected by the Forbes Burnham government to honour the founders of the Non-Aligned Movement — Tito of Yugoslavia, Nehru of India, Nasser of Egypt, and Nkrumah of Ghana. Their busts stand on a low concrete plinth, slightly weathered, beneath a plane tree.

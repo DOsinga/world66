@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.5570
 longitude: 106.5460
+score: 8.6
 ---
 
 Yuzhong is the historic peninsula at the heart of Chongqing, enclosed by the Jialing River to the north and the Yangtze to the south. This is where the original city developed, where the wartime capital was concentrated, and where most of the major museums, monuments, and commercial districts are found today.

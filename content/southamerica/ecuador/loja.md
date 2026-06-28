@@ -5,7 +5,9 @@ done:
 latitude: -4.0529
 loc_type: city
 longitude: -79.8053
-score: 0.46
+score: 7.27
+snippet: Southern Ecuadorian highland city known for music, cloud forests, and a fertile
+  valley near Peru.
 title: Loja
 type: location
 ---

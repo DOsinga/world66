@@ -8,6 +8,7 @@ tags:
 - museum
 title: Museo de Arte Moderno (MAMM)
 type: poi
+score: 7.7
 ---
 
 The city's modern art museum, set in a converted twentieth-century steel mill in the Ciudad del Río district — an example of the city's habit of recycling industrial buildings into cultural spaces. Permanent collection light on big names but strong on contemporary Colombian work; the temporary exhibitions are often the better reason to come.

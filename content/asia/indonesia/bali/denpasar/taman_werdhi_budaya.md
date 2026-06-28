@@ -8,6 +8,7 @@ tags:
 latitude: -8.654624
 longitude: 115.233957
 story: "The Bali Arts Festival, held here each June and July since 1979, was deliberately created by Governor Soekarno Mantra as a response to what many Balinese feared: that commercialised tourist performances were degrading the island's performing arts. The festival restricted performances to traditional contexts and non-tourist venues, and helped revive several dance and music forms that had begun to disappear."
+score: 6.9
 ---
 
 The Taman Werdhi Budaya (Art Centre) is Denpasar's main cultural venue, a large complex of pavilions, stages, and galleries used for performances, exhibitions, and cultural events throughout the year. The complex itself is worth visiting even outside performance season for its traditional Balinese architecture and the permanent collection of paintings and sculpture in the gallery buildings.

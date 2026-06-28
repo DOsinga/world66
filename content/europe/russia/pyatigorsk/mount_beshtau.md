@@ -11,6 +11,7 @@ story: >
   The name Beshtau comes from the Turkic "besh" (five) and "tau" (mountain) — the same etymology that gives Pyatigorsk its Russian name ("pyati" = five, "gora" = mountain). The five domes are the eroded remnants of a single volcanic complex. A half-ruined monastery on the southern slopes, founded in the 5th century and restored in 2000, is one of the oldest Christian communities in Russia.
 sources:
   - https://en.wikipedia.org/wiki/Beshtau
+score: 8.6
 ---
 
 Mount Beshtau (1,401 m) is the highest point in the Caucasian Mineral Waters region, its distinctive five-peaked silhouette visible from across the steppe. An extinct volcanic plug northwest of Pyatigorsk, it gives both the Russian and Turkic names to the region — Pyatigorsk means "five mountains town," and Beshtau means "five mountains" in Turkic.

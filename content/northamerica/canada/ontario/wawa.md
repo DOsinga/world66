@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Canada_Goose_at_Wawa_Ontar
 latitude: 47.9929
 loc_type: city
 longitude: -84.774
-score: 0.38
+score: 6.34
+snippet: Northern Ontario lakefront town marked by its giant goose and Canadian Shield
+  wilderness.
 title: Wawa
 type: location
 ---

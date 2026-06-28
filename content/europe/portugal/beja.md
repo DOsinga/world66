@@ -5,7 +5,9 @@ done:
 latitude: 38.015448
 loc_type: city
 longitude: -7.865037
-score: 0.45
+score: 6.97
+snippet: Baixo Alentejo city with Roman walls, a Moorish castle, and a convent-based
+  regional museum.
 sources:
 - https://en.wikipedia.org/wiki/Beja,_Portugal
 - https://en.wikipedia.org/wiki/Pax_Julia

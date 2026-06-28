@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Haterumajima_Island_Aerial
 latitude: 24.058746
 loc_type: city
 longitude: 123.782155
-score: 0.57
+score: 8.26
+snippet: Japan’s southernmost inhabited island, known for Nishihama Beach and rare
+  domestic views of the Southern Cross.
 title: Hateruma Island
 type: location
 ---

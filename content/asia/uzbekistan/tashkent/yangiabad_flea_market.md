@@ -8,6 +8,7 @@ tags:
   - shopping
 latitude: 41.2614
 longitude: 69.2925
+score: 7.9
 ---
 
 The biggest flea market in the city, busiest on Saturdays and Sundays. Acres of tarp-covered stalls sell Soviet-era ceramics, military medals, samovars, suzani textiles, books, vinyl, propaganda posters, and oddments dragged out of family attics.

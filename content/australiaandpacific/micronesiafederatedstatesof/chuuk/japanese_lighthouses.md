@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 snippet: Wartime lighthouses and fortifications atop the lagoon's highest hills
+score: 7.6
 ---
 
 The high islands of Chuuk's central lagoon are studded with Japanese fortifications from the Second World War. Wartime lighthouses, gun emplacements, cave networks, command bunkers, and the remnants of airfields can all be found with the help of a local guide, and many are accessible on foot via the island trails.

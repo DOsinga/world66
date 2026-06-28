@@ -14,6 +14,7 @@ story: Zrće's transformation from an empty pebble beach into one of Europe's mo
   tens of thousands of visitors. The island's bora winds and the relative isolation
   of the Adriatic beach — combined with Croatian licensing laws that allowed longer
   opening hours than most of the rest of Europe — created the conditions for it.
+score: 6.8
 ---
 
 **Novalja** is the main town in the northern part of Pag island, a compact place that functions as a service hub for the northern beaches and, during summer, as the logistical base for visitors to Zrće. The town itself has a pleasant waterfront, reasonable restaurants, and a small archaeological collection including finds from the ancient Roman settlement of Cissa, which was partially submerged when sea levels rose. The **Roman aqueduct**, parts of which survive underground beneath the old town, is a curiosity worth seeking out.

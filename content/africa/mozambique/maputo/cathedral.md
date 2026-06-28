@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Baixa
+score: 7.4
 ---
 
 The **Cathedral of Our Lady of the Immaculate Conception** (*Catedral de Nossa Senhora da Conceição*) was consecrated in 1944, replacing a smaller 19th-century church on the same site. It is unusually plain for a Catholic cathedral — concrete-white, almost cubist, with a single sharp spire rising above the centre. The architect, Marcial Simões de Freitas e Costa, was a Portuguese modernist working in the late-Art-Deco mode that defines so much of central Maputo.

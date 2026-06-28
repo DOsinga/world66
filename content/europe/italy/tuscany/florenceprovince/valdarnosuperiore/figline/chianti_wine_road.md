@@ -6,6 +6,7 @@ latitude: 43.6800
 longitude: 11.4200
 story: >
   The Chianti Classico zone was formally delimited in 1716 by the Grand Duke of Tuscany — one of the first wine appellation boundaries in the world. Figline sits at the southern edge of it, making the drive north toward Greve a progression through some of the most historically significant wine country in Italy.
+score: 7.4
 ---
 
 The SP 16 road from Figline north toward Greve in Chianti is one of the classic Tuscan drives — narrow roads through vineyards and olive groves, past hilltop farmhouses and the occasional medieval tower. The route climbs out of the Arno valley into the Chianti hills within a few kilometres of Figline and stays in that world all the way to Greve, about 15 km north.

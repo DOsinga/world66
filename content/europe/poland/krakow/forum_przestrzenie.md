@@ -1,11 +1,14 @@
 ---
-title: "Forum Przestrzenie"
-type: poi
-tags:
-  - bars_and_cafes
-  - bar
 latitude: 50.0509
 longitude: 19.9379
+score: 6.8
+snippet: Riverside bar and cultural venue in the brutalist Hotel Forum building from
+  1989
+tags:
+- bars_and_cafes
+- bar
+title: Forum Przestrzenie
+type: poi
 ---
 
 The Forum Przestrzenie bar occupies the brutalist bulk of the Hotel Forum, a 1988 communist-era tower on the Vistula riverbank opposite Wawel Castle that sat derelict for many years and has now been partially repurposed into a bar, cultural space, and creative hub. The rooftop terrace is the point: on summer evenings, it offers one of the best views in Krakow — Wawel Castle directly across the river, the Old Town stretched out on one side and Kazimierz on the other, with the Vistula below.

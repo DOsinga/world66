@@ -9,6 +9,7 @@ latitude: 37.97833
 longitude: -87.57417
 story: >
   Willard Carpenter, who founded the library in 1882, was so furious that his children contested his will — which left a large bequest to the library rather than to them — that he is said to have haunted the building ever since. The "Grey Lady" ghost has been reported by library staff and visitors for over a century, and the library installed webcams in 2009 to allow the public to search for her online. The webcams have logged thousands of ghost-spotter hours and remain a popular feature of the library's website.
+score: 8.4
 ---
 
 Willard Library is a Victorian Gothic public library on First Avenue in downtown Evansville, built in 1885 and the oldest public library building in Indiana still operating in its original structure. The building was a private gift from Willard Carpenter, a local businessman, who endowed it specifically to serve the citizens of Evansville. The exterior is a striking exercise in Victorian institutional Gothic — polychrome brickwork, pointed arches, and decorative ironwork — in a city not known for architectural extravagance.

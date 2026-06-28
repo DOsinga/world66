@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Three-generation McQuesten family home preserved as a National Historic Site"
+score: 8.0
 ---
 
 Whitehern is a Georgian-style stone house in the centre of downtown Hamilton, built in 1848 and continuously occupied by the McQuesten family until 1968. The last family members left the house and gardens to the city on the condition that nothing be changed — so the rooms, furniture, books, paintings, and personal possessions remain almost exactly as they were when the family lived there.

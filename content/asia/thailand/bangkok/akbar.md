@@ -5,10 +5,12 @@ done:
 latitude: 13.7448
 longitude: 100.5539
 phone: 255-6935
+score: 5.6
 snippet: Long-running North Indian restaurant on Sukhumvit
 tags:
 - eating_out
 - restaurant
+- sukhumvit
 title: Akbar
 type: poi
 ---

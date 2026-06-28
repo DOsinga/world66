@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gotland,_Sweden_(663971132
 latitude: 57.41748
 loc_type: city
 longitude: 18.536958
-score: 0.63
+score: 8.62
+snippet: Baltic limestone island of raukar sea stacks, farmland, and Visby's walled
+  medieval streets.
 title: Gotland
 type: location
 ---

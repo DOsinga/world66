@@ -6,6 +6,7 @@ tags:
   - sight
 title: Temple Groups E and F
 type: poi
+score: 7.4
 ---
 
 Groups E and F are among the earlier structures at My Son, dating from the 8th century onwards. They represent a different phase of Cham architectural development from the later Groups B and C, with a more experimental quality to the stonework and ornamentation. Several structures in these groups show the influence of Hoa Lai architectural style, which was evolving in parallel at the same period.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 5.8
 ---
 
 Niemeyer designed this 182-metre digital television tower late in his life — it was inaugurated in 2012, the year of his death at 104. Two side "flowers" attached to the main shaft house a viewing platform and a cultural space. The architect once said he wanted "to give Brasília a new tower, but not one that looks like the old one".

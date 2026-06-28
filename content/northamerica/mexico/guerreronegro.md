@@ -7,14 +7,16 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Salt_production_in_Guerrero_Negro.jpg
 latitude: 27.971
 longitude: -114.0364
-score: 0.42
+score: 6.58
 title: Guerrero Negro
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Guerrero_Negro
-  - https://en.wikipedia.org/wiki/Ojo_de_Liebre_Lagoon
-  - https://en.wikipedia.org/wiki/El_Vizca%C3%ADno_Biosphere_Reserve
+- https://en.wikipedia.org/wiki/Guerrero_Negro
+- https://en.wikipedia.org/wiki/Ojo_de_Liebre_Lagoon
+- https://en.wikipedia.org/wiki/El_Vizca%C3%ADno_Biosphere_Reserve
+snippet: Windswept Baja California Sur town beside vast saltworks and the gray-whale
+  lagoons of Ojo de Liebre.
 ---
 
 Guerrero Negro is a small, windswept town on the Pacific coast of Baja California Sur, right at the border between the two Baja states. It is not much to look at — a flat grid of dusty streets centred around the world's largest salt-evaporation operation, run by [Exportadora de Sal](/northamerica/mexico/guerreronegro/exportadora_de_sal) — but between January and April, it becomes one of the best places on Earth to see gray whales. The whales migrate from Alaska to the warm, shallow lagoons here to breed and nurse their calves, and [Laguna Ojo de Liebre](/northamerica/mexico/guerreronegro/laguna_ojo_de_liebre) just south of town is the main event.

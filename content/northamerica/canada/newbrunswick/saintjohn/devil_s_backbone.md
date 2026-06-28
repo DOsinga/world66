@@ -8,6 +8,7 @@ tags:
 latitude: 45.2741
 longitude: -66.0594
 snippet: Uptown gastropub with a strong local craft beer selection and solid food
+score: 5.7
 ---
 
 Devil's Backbone occupies a heritage building in the uptown core and does a good job of being several things at once: a craft beer bar with a serious tap list weighted toward New Brunswick and Nova Scotia breweries, a kitchen that produces reliable pub food from local ingredients, and a lively room that works equally well for a solo drink at the bar or dinner with a group.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The aqueduct was built between 1610 and 1614 under Grand Master Alof de Wignacourt, who paid for much of it from his personal funds. It solved Valletta's chronic water shortage by carrying spring water 15 km from the high ground near Rabat to fountains in the new capital."
+score: 6.6
 ---
 
 The Wignacourt Aqueduct still runs along the edge of Attard, a 17th-century engineering work that brought the first reliable supply of fresh water to Valletta. The most visible surviving section is a row of pointed arches along the Birkirkara road just east of the village.

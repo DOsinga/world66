@@ -8,6 +8,7 @@ story: "The Hollywood-style BRASOV sign on the slope of Tampa was installed in 2
 tags:
 - things_to_do
 - sight
+score: 8.9
 ---
 
 Mount Tampa rises straight out of the back of the old town, forested up to its summit at 960 metres. A cable car runs to the top from a station behind Strada Castelului — three minutes up, every quarter hour. Or you can walk: the most popular route is the zigzag path from behind the Black Church, an hour each way through beech and oak forest.

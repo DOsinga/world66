@@ -8,6 +8,7 @@ latitude: 49.0667
 longitude: 19.2833
 story: >
   Malinô Brdo translates roughly as "Raspberry Hill," and the resort sits at around 1,200 metres above sea level on the lower slopes of the Greater Fatra range. On a clear day the summit lift gives views across the entire Liptov basin — the flat valley floor enclosed by four mountain ranges — a panorama that makes the scale of the landscape immediately legible.
+score: 6.1
 ---
 
 Malinô Brdo is the ski resort serving Ružomberok, sitting on the slopes above the town to the southwest. In winter it offers 8 km of downhill runs across several levels — nothing extreme by Alpine standards but well-maintained and uncrowded by comparison with better-known Slovak resorts. The gondola and chair lifts run from December through March.

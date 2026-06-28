@@ -15,6 +15,7 @@ story: >
   elephant-headed Ganesha figure inside. When Dutch archaeologists first documented it 
   in 1923 they found it almost entirely engulfed in vegetation; the bathing pools outside 
   were not excavated until 1954.
+score: 8.3
 ---
 
 Goa Gajah is a Hindu-Buddhist sanctuary about 3 km east of Ubud on the road toward Gianyar. The entrance to the cave is the face of a fanged demon carved into a rocky hillside — you step through the gaping mouth into a small T-shaped cave used for meditation, containing niches with Hindu and Buddhist icons. Outside, excavated bathing pools with carved water-spouting figures line a terrace above a forested ravine.

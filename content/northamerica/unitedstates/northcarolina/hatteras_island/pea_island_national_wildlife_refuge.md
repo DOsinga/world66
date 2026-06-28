@@ -13,6 +13,7 @@ story: >
   refuges established specifically to protect migratory birds — today more than
   365 species have been recorded here, making it one of the best birdwatching
   sites on the entire Atlantic coast.
+score: 8.6
 ---
 
 Pea Island National Wildlife Refuge covers nearly 6,000 acres at the northern end of Hatteras Island, a critical stopover on the Atlantic Flyway — the main migration corridor for birds moving up and down the East Coast. The refuge encompasses ocean beach, dunes, salt marshes, and freshwater impoundments managed specifically for waterfowl.

@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Rauheneck_Castle_(Baden)
   - https://en.wikipedia.org/wiki/Burgruine_Rauhenstein
+score: 8.4
 ---
 
 The Helenental is a wooded gorge running west from Baden through the Vienna Woods, carved by the Schwechat river. The valley path — partly along the river, partly through forest — is one of the most rewarding walks in the region, passing two ruined medieval castles (Rauheneck and Rauhenstein) perched dramatically on limestone cliffs above the valley floor.

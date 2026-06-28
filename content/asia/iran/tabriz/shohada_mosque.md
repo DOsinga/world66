@@ -7,6 +7,7 @@ tags:
 - sight
 title: Shohada Mosque
 type: poi
+score: 5.9
 ---
 
 The Shohada Mosque ("Mosque of the Martyrs") stands on Shohada Square in the city

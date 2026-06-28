@@ -5,7 +5,9 @@ done:
 latitude: 44.893
 loc_type: city
 longitude: -81.1175
-score: 0.4
+score: 6.82
+snippet: First Nations reserve on the Bruce Peninsula, overlooking Georgian Bay from
+  limestone bluffs and cold clear water.
 title: Cape Croker
 type: location
 ---

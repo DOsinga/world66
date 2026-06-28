@@ -15,6 +15,7 @@ story: >
   1721, learned Greenlandic in order to preach directly; this tradition of conducting
   church affairs in the indigenous language rather than the colonial one has been
   maintained for three centuries.
+score: 6.9
 ---
 
 Nuuk Cathedral — officially the Church of Our Saviour — is a distinctive red wooden church built in 1849 that sits in the colonial quarter above the old harbour. The building is modest in scale but occupies a prominent position in the landscape of old Nuuk. Services are conducted in Greenlandic, reflecting the Lutheran church's historical role as an Inuit-language institution.

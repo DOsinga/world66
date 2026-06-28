@@ -9,6 +9,7 @@ longitude: 174.051295
 snippet: Horseshoe-shaped waterfall 3km west of Paihia, accessible by boardwalk through mangroves
 sources:
   - https://en.wikipedia.org/wiki/Haruru_Falls
+score: 6.5
 ---
 
 Haruru Falls is a five-metre-high horseshoe-shaped waterfall on the Waitangi River, about 3km west of Paihia. The falls are not dramatic by New Zealand standards, but the walk to reach them — along a boardwalk through a mangrove estuary — is genuinely lovely. The boardwalk starts near the Waitangi Treaty Grounds and follows the river upstream through thick mangrove forest, arriving at the falls after about 45 minutes on foot.

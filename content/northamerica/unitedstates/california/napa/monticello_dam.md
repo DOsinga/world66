@@ -10,6 +10,7 @@ tags:
 - day_trips
 - sight
 story: The morning glory spillway at Monticello Dam is 22 metres in diameter at the top, tapering down to about 9 metres — the largest such drain-hole spillway in the world. When Lake Berryessa is full enough to overtop the spillway lip (a rare event, last triggered in 2019 after years of drought), water cascades into the funnel and disappears like a giant drain.
+score: 6.5
 ---
 
 The Monticello Dam at the southern end of Lake Berryessa is famous for its giant morning glory spillway, a vast concrete funnel that swallows excess water like a bathtub drain when the reservoir overtops. It is one of the largest such spillways in the world, and the rare overflow events draw photographers from across the state.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_Grande,_Arezzo.JPG
 latitude: 43.517144
 loc_type: city
 longitude: 11.763928
-score: 0.61
+score: 8.71
+snippet: Eastern Tuscan hill city with Etruscan roots and Piero della Francesca's
+  great fresco cycle.
 title: Arezzo
 type: location
 ---

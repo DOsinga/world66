@@ -4,7 +4,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 5.5481
 longitude: -0.2068
+score: 7.8
 snippet: Ghana's founding president entombed where independence was declared
+tags:
+- things_to_do
+- sight
+- museum
+- monument
 title: Kwame Nkrumah Memorial Park and Mausoleum
 type: poi
 ---

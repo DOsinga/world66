@@ -11,6 +11,7 @@ tags:
 - religious
 title: La Cartuja
 type: poi
+score: 8.4
 ---
 
 La Cartuja — the Royal Monastery of Nuestra Señora de la Asunción — is one of the most extravagant examples of Spanish Baroque architecture in existence. Founded in 1506, construction continued for nearly three centuries, which explains why the exterior reads as plain and austere while the interior spaces build to an almost overwhelming crescendo of gilded ornament.

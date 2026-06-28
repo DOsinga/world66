@@ -14,6 +14,7 @@ story: >
   Luperón is buried in the city's old cemetery a few blocks away, and locals are fond of
   pointing out that the man who liberated the country twice never left this stretch of the
   north coast for long.
+score: 7.4
 ---
 
 Parque Central is the hinge around which Puerto Plata's daily life turns. In the mornings it fills with school groups and commuters cutting through; by mid-morning, vendors selling coconut water and fried snacks set up around the perimeter; in the evenings, families come out to sit under the trees and listen to whatever is happening on or near the painted iron bandstand at the centre. It is neither grand nor dramatic, but it is genuine — the kind of park where people actually use it.

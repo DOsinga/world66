@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:68-104-9007_Kamianets-Podi
 latitude: 48.6774
 loc_type: city
 longitude: 26.5797
+score: 7.85
+snippet: Fortified Ukrainian old town on a Smotrych River island, dominated by a many-towered
+  medieval castle.
 sources:
 - https://en.wikipedia.org/wiki/Kamianets-Podilskyi
 - https://en.wikivoyage.org/wiki/Kamianets-Podilskyi

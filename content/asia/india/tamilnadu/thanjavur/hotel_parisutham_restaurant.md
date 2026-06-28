@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 10.7790
 longitude: 79.1315
+score: 5.3
 ---
 
 The restaurant at Hotel Parisutham is the most reliable option in Thanjavur for both South Indian and North Indian dishes in a proper dining room rather than a canteen setting. The hotel has been one of the city's main business hotels for decades and the restaurant reflects this — a step above the temple-area dhabas in terms of comfort and menu range, with attentive service and air conditioning.

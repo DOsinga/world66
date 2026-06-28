@@ -11,6 +11,7 @@ tags:
 - insadong
 title: Changdeokgung Palace
 type: poi
+score: 9.4
 ---
 
 Changdeokgung is the best preserved of Seoul's five grand Joseon-dynasty palaces and a UNESCO World Heritage Site since 1997. Built in 1405, it served as the primary royal residence for about 270 years. The palace is notable for the way its buildings follow the natural contours of the landscape rather than imposing a rigid grid — a contrast to the more formal Gyeongbokgung nearby.

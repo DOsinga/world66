@@ -5,7 +5,9 @@ done:
 latitude: 44.404721
 loc_type: city
 longitude: 8.501565
-score: 0.44
+score: 6.82
+snippet: Inland Ligurian comune of wooded Apennine hamlets above the busy Riviera
+  delle Palme.
 title: Stella
 type: location
 ---

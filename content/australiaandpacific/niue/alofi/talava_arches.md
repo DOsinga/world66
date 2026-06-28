@@ -12,6 +12,7 @@ story: >
   atolls — the entire island is a single mass of ancient reef lifted above the ocean
   by tectonic forces. The hollowed-out limestone along the coast, full of caves, arches,
   and chasms, is what Niue looks like from the shoreline.
+score: 8.8
 ---
 
 The Talava Arches are a series of natural sea arches on Niue's north coast, carved by wave erosion through the island's coral limestone cliffs. The main arch is substantial — wide enough to swim through at high tide — and the surrounding coastline is riddled with pools, overhangs, and lava tubes that make for extraordinary exploring.

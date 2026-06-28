@@ -1,0 +1,200 @@
+{
+  "round": 2811,
+  "timestamp": "2026-06-13T22:08:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 1.5365,
+      "prior_variance": 0.152384,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/south_east/chiswick",
+      "prior_score": -1.1747,
+      "prior_variance": 0.142402,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -1.0765,
+      "prior_variance": 0.149122,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 1.3628,
+      "prior_variance": 0.172181,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": -0.2627,
+      "prior_variance": 0.17247,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.8047,
+      "prior_variance": 0.162498,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -1.273,
+      "prior_variance": 0.201253,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -1.3117,
+      "prior_variance": 0.188458,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.874,
+      "prior_variance": 0.140078,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Rzeszow",
+      "path": "europe/poland/rzeszow",
+      "prior_score": -1.5529,
+      "prior_variance": 0.153405,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.0657,
+      "prior_variance": 0.144159,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.0228,
+      "prior_variance": 0.153369,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.3533,
+      "prior_variance": 0.157458,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.5695,
+      "prior_variance": 0.143334,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -1.4831,
+      "prior_variance": 0.150123,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -3.0078,
+      "prior_variance": 0.204745,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.689,
+      "prior_variance": 0.167404,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -1.929,
+      "prior_variance": 0.166592,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.7261,
+      "prior_variance": 0.14149,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -3.7046,
+      "prior_variance": 0.162262,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -4.6139,
+      "prior_variance": 0.20218,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_score": -5.6975,
+      "prior_variance": 0.198267,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -7.9185,
+      "prior_variance": 0.248862,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -6.2119,
+      "prior_variance": 0.228573,
+      "prior_n": 9
+    }
+  ]
+}

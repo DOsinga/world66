@@ -9,6 +9,7 @@ latitude: 44.0667
 longitude: 8.05
 story: >
   The castle changed hands repeatedly over several centuries — from the Marchesi di Clavesana to the Republic of Genoa to the Marquisate of Finale — before Onzo was finally absorbed into Genoese territory in 1581. The polygonal plan with two remaining towers is unusual for Ligurian fortifications of this period and suggests the castle was built to command multiple approach routes through the valley.
+score: 7.0
 ---
 
 The ruined castle of Onzo sits on a promontory above the village, its ring of medieval walls and two partially surviving towers standing out against the terraced hillsides below Monte Peso Grande. The structure is modest but the setting is evocative — the position was clearly chosen to control the Arroscia valley, and the views from the walls down to the river and across to the surrounding ridges explain why successive lords bothered to hold it.

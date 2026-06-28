@@ -19,6 +19,7 @@ story: >
   improve upon.
 sources:
   - https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza
+score: 10.0
 ---
 
 The oldest and largest of the three Giza pyramids, built for pharaoh Khufu (Cheops) around 2560 BC. It stood 146 metres tall when new — for nearly four millennia the tallest structure on earth — and still tops 138 metres with its original casing stones long since pillaged for mosques and palaces. More than 2.3 million limestone blocks were used in its construction, the largest weighing up to 80 tonnes each.

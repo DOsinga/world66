@@ -6,11 +6,13 @@ image_attribution: sikeliakali
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:20101207-etna-full_(14213006863).jpg
 latitude: 37.5994
+loc_type: region
 longitude: 14.0154
 score: 0.77
+snippet: Mediterranean island region where Greek temples, Arab domes, Norman castles,
+  and Baroque towns overlap.
 title: Sicily
 type: location
-loc_type: region
 ---
 
 Sicily is not just another Italian region. The largest island in the Mediterranean has been invaded and reinvented so many times that it feels like its own country, one where Greek temples, Arab domes, Norman castles, and Baroque palaces share the same skyline. The food is different, the light is different, and the pace is slower.

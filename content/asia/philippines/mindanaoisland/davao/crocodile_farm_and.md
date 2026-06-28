@@ -1,7 +1,13 @@
 ---
 address: Davao Crocodile Park, River Front, Corporate City Diversion Highway
+latitude: 7.096
+longitude: 125.5978
+score: 5.5
 tags:
 - things_to_do
+- sight
+- wildlife
+- adventure
 title: Crocodile Farm and Davao Wild Water Adventure
 type: poi
 ---

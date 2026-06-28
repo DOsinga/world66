@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Provins_-_Le_centre_hist
 latitude: 48.560296
 loc_type: city
 longitude: 3.298809
-score: 0.6
+score: 8.57
+snippet: Medieval market town southeast of Paris, preserved with ramparts, towers,
+  and underground vaults.
 title: Provins
 type: location
 ---

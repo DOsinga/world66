@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.7014
 longitude: -62.2694
+score: 5.8
 ---
 
 The National University of the South is the largest university in southern Argentina, with around 30,000 students. Its presence gives Bahía Blanca a noticeably younger, more active energy than most provincial Argentine cities of similar size — the streets around the campus fill with students in term time, and the city has a reasonable café and bar culture as a result.

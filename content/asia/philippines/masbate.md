@@ -5,7 +5,9 @@ done:
 latitude: 12.3739
 loc_type: city
 longitude: 123.6247
-score: 0.42
+score: 6.53
+snippet: Philippine island province of cattle ranches, rolling pastures, and long
+  empty beaches in Bicol.
 sources:
 - https://en.wikipedia.org/wiki/Masbate_City
 - https://en.wikipedia.org/wiki/Masbate_(province)

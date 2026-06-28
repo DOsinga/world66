@@ -1,11 +1,14 @@
 ---
 latitude: 35.0428
-longitude: 135.7460
-snippet: Walled-village Zen complex in north Kyoto, with two dozen sub-temples and quiet rock gardens
+longitude: 135.746
+score: 8.9
+snippet: Walled-village Zen complex in north Kyoto, with two dozen sub-temples and
+  quiet rock gardens
 tags:
 - things_to_do
 - temple
 - sight
+- nijo
 title: Daitoku-ji
 type: poi
 ---

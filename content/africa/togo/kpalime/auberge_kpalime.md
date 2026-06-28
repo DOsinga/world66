@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 6.9100
 longitude: 0.6330
+score: 4.8
 ---
 
 A long-running auberge in the centre of Kpalimé whose restaurant terrace is reliably the best place in town for a meal. The menu mixes French-Togolese classics — grilled tilapia, brochettes, riz sauce, omelettes — with cold Pils beer from the brewery in Lomé.

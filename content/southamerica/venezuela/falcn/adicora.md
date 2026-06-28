@@ -6,6 +6,7 @@ longitude: -69.8000
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Adicora is a small colonial village on the eastern shore of the Paraguaná Peninsula, about an hour north of Coro, that has become one of the best kitesurfing and windsurfing destinations in the Caribbean. The trade winds here are among the most consistent in the region — averaging 25–35 knots for much of the year — and the shallow, warm water of the bay is well-suited to beginners and experienced riders alike. Several surf schools and equipment rental shops operate in the village.

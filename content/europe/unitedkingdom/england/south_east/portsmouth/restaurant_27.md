@@ -8,6 +8,7 @@ tags:
   - restaurant
   - southsea
 neighbourhood: Southsea
+score: 5.8
 ---
 
 The closest thing Portsmouth has to a destination restaurant — small, white-walled, with around 30 covers, on Burgoyne Road off the Southsea seafront. Chef Kevin Bingham's tasting menus draw from southern British produce with modern technique.

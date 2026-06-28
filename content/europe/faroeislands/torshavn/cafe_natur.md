@@ -8,6 +8,7 @@ tags:
   - bar
   - cafe
 snippet: Long-running pub and café on the harbourfront, the most reliable spot in town
+score: 6.5
 ---
 
 Café Natúr is the closest thing Tórshavn has to a default meeting place. It sits in an old wooden warehouse on the harbour, with a small terrace for when the weather allows. Coffee and food during the day, beer and live music many evenings — Faroese musicians often play here, and the place can get genuinely crowded on weekends.

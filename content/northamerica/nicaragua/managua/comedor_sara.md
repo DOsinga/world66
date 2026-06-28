@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.1420
 longitude: -86.2560
+score: 6.5
 ---
 
 Comedores are the backbone of eating in Managua — small, informal eateries, often a single room with a few plastic tables and a handwritten menu on a chalk board, serving the standard Nicaraguan working lunch: gallo pinto (rice and beans fried together with onion and sweet pepper), grilled chicken or pork, salad, plantains, and a cup of fresh fruit juice. A full plate costs $2–4.

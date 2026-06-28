@@ -8,6 +8,7 @@ tags:
 - temple
 - sight
 - vegetarian_food
+score: 7.8
 ---
 
 Jiming Temple (鸡鸣寺) perches on a steep hill overlooking Xuanwu Lake, making it one of the most scenically located temples in the city. The current buildings date from the early 20th century but the site has been a Buddhist temple for over 1,600 years. The main complex is compact and easily climbed in under half an hour.

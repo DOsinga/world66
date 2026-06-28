@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Victorian-era natural history museum inside the Botanic Garden, with beautiful old cabinetry"
+score: 8.0
 ---
 
 Inside the Botanic Garden stands one of the most charming museums in Australia — a Victorian-era collection of plant specimens, seeds, resins, dyes, fibres, and botanical products displayed in the original 1881 Museum of Economic Botany building. The room itself is a long, galleried space with polished timber floors and glass cases that have barely changed since they were installed.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.9
 ---
 
 Built in 1928 as a vaudeville and movie palace, the Capitol Theatre on South Main Street is the most ornate single building downtown. The Spanish Revival facade and the original interior plasterwork survived almost intact through decades of decline, and it now hosts the Aberdeen Community Theatre's productions plus occasional touring acts.

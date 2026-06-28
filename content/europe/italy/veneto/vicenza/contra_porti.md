@@ -8,6 +8,7 @@ tags:
 latitude: 45.5480
 longitude: 11.5480
 story: "Contra Porti concentrates more Palladian and pre-Palladian palaces per metre than almost any other street in Europe. Walking its length — it takes about five minutes — you pass Palazzo Thiene (one of Palladio's earliest major commissions), Palazzo Porto, Palazzo Iseppo da Porto, and a sequence of Gothic and Baroque palaces that predate and postdate him. The street is essentially a history of Vicentine architecture compressed into 200 metres."
+score: 8.2
 ---
 
 Contra Porti is the single most important street for understanding what Vicenza actually is: a city whose wealthy families, across several centuries, built palaces that express their ambitions in stone. The street runs through the historic centre between the Corso and the Piazza del Castello, and it holds a remarkable concentration of Renaissance and Gothic architecture.

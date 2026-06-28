@@ -6,6 +6,7 @@ longitude: 13.0502
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Reisszug is the world's oldest operating funicular, hauling supplies up the back of the Festung Hohensalzburg from a yard near Nonnberg. It was first mentioned in 1515 — originally hand-powered, then water-driven, now electric — and is still used daily by the fortress.

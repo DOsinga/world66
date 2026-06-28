@@ -7,6 +7,7 @@ tags:
   - gallery
 latitude: 50.4408
 longitude: 30.5180
+score: 7.9
 ---
 
 Ukraine's most significant contemporary art space, founded by the steel oligarch Victor Pinchuk and free to the public. Four floors of changing exhibitions on Velyka Vasylkivska Street regularly bring in international artists — Jeff Koons, Damien Hirst, Marlene Dumas — alongside Future Generation Art Prize shows that introduce young Ukrainian and international talent.

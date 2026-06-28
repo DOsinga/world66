@@ -8,6 +8,7 @@ tags:
 snippet: "Quintessential New England liberal arts college, set around a long green lawn"
 latitude: 42.3708
 longitude: -72.5169
+score: 7.7
 ---
 
 Amherst College, founded in 1821, is consistently rated one of the top liberal arts colleges in the United States. Its campus is the model of the type: a long sweep of lawn flanked by brick and white-clapboard academic buildings, with a stone library and the steepled Johnson Chapel at the head. The view south from the chapel steps, over the Pelham Hills, is one of the best in the Pioneer Valley.

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 43.892762
+loc_type: feature
 longitude: 3.509978
+score: 8.3
+snippet: Cévennes limestone amphitheatre carved by the Vis River, with Navacelles
+  village stranded below sheer plateau rims.
 title: Cirque des Navacelles
 type: location
-score: 0.56
-loc_type: feature
 ---
 
 The Cirque des Navacelles is a dramatic natural amphitheatre carved by the Vis River into the limestone plateaus of the Cévennes, on the border between the Hérault and Gard departments. The river once made a complete meander loop here; over thousands of years it cut through the narrow neck, abandoning the loop and leaving the village of Navacelles stranded at the bottom of a near-circular cliff bowl.

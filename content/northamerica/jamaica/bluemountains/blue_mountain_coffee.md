@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.0500
 longitude: -76.5800
+score: 8.0
 ---
 
 Blue Mountain coffee is grown on small farms between roughly 900 m and 1,800 m altitude, in the narrow band of land where the combination of volcanic soil, high rainfall, cool temperatures, and misty cloud cover slows the maturation of the beans. The result is a cup that is notably smooth, with low acidity and a clean, mild flavour. It commands some of the highest prices of any coffee in the world, and the majority of the certified crop is exported to Japan.

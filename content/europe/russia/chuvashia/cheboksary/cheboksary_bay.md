@@ -9,6 +9,7 @@ latitude: 56.1484
 longitude: 47.2421
 story: >
   The bay was created in the 1980s when the Cheboksarskaya hydroelectric dam raised the Volga's water level. The city's old lower town — including several streets of historic wooden houses — was deliberately flooded in the process. What was lost in heritage was replaced by the broad artificial inlet that now gives the city its distinctive waterfront character.
+score: 7.8
 ---
 
 Cheboksary Bay is an artificial inlet created in the 1980s when the Cheboksarskaya hydroelectric plant on the Volga raised water levels. The bay now forms the most attractive part of the city — a sheltered stretch of water surrounded by the embankment on three sides, with the old town on the bluff above and a view across to the Volga.

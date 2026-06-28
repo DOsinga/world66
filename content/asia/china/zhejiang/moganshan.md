@@ -4,6 +4,9 @@ done:
 latitude: 30.6298
 loc_type: feature
 longitude: 119.8253
+score: 7.6
+snippet: Forested Zhejiang hill retreat where bamboo trails wind past stone villas
+  built by Shanghai expatriates.
 sources:
 - https://en.wikivoyage.org/wiki/Moganshan
 title: Moganshan

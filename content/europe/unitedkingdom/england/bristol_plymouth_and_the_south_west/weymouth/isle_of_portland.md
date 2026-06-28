@@ -8,6 +8,7 @@ tags:
 latitude: 50.5396
 longitude: -2.4341
 story: "Portland stone was used to build St Paul's Cathedral in London, the United Nations headquarters in New York, and Buckingham Palace. The quarries have been worked since medieval times; some are still active today, while others have been converted into sculpture parks and wildlife reserves."
+score: 8.5
 ---
 
 A stark limestone peninsula jutting south into the English Channel, connected to Weymouth by the narrow neck of Chesil Beach. Portland is unlike anywhere else in Dorset: flat-topped, windswept, quarried down to bare rock in places, with a fierce sense of its own identity. Portlanders have traditionally regarded themselves as separate from the mainland.

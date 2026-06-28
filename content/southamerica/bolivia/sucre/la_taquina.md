@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Honest Bolivian cooking, popular with locals
+score: 6.2
 ---
 
 La Taquiña is a small, plainly furnished restaurant on a side street near Plaza 25 de Mayo, named for the famous Cochabamba beer brewed in the valley. The menu is uncomplicated Bolivian: pique macho (a mountain of beef, sausage, eggs, chips and chilli — a sharing plate in theory but ordered for one at your own risk), milanesa, asado, silpancho. Most mains are around 35–50 bolivianos and portions are huge.

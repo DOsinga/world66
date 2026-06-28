@@ -17,6 +17,7 @@ story: >
   country's history.
 sources:
   - https://en.wikipedia.org/wiki/Heredia,_Costa_Rica
+score: 6.1
 ---
 
 El Fortín is Heredia's most distinctive landmark — a cylindrical stone tower rising just north of the Parque Central, the remains of a military headquarters that was abandoned before completion. The tower is modest in scale but unmistakable in silhouette, and its story is part of the local identity: built with the rifle loopholes facing the wrong way, it was useless as a defensive structure from the moment the walls went up.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 7.4
 ---
 
 The Karolinenviertel, wedged between the Schanze and the Heiligengeistfeld, is one of the most distinctive small districts in central Hamburg — a couple of streets of late-19th-century tenements that survived the war, gentrified slowly and now hold an unusual concentration of independent designers, second-hand bookshops, vegan cafés, hat-makers and political bookshops.

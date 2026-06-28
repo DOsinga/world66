@@ -8,6 +8,7 @@ tags:
   - restaurant
   - medieval_quarter
 neighbourhood: Casco Medieval
+score: 6.8
 ---
 
 A traditional asador (grill restaurant) in the heart of the old town, specialising in chuletón — a thick rib-eye on the bone grilled over coals and served sliced with a sprinkling of coarse salt. Side dishes are unfussy (peppers, beans, salad) and pointless, frankly: the steak is the point.

@@ -5,12 +5,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.8979
 longitude: 12.4766
+score: 6.8
 snippet: Charming marble elephant carrying an Egyptian obelisk
 tags:
 - things_to_do
 - church
 - monument
 - square
+- campo_de_fiori
 title: Bernini's Elephant & Obelisk
 type: poi
 ---

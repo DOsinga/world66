@@ -9,6 +9,7 @@ title: Teatro La Perla
 type: poi
 story: >
   Teatro La Perla opened in 1864 and was, at the time, one of the finest theaters in the Caribbean — evidence of the extraordinary wealth that the sugar economy had brought to Ponce. The building was designed in a Greco-Roman neoclassical style by Juan Bertoli Calderoni, an Italian architect working in Puerto Rico. It has survived earthquakes, hurricanes, and decades of neglect, and after major restorations in the twentieth century it continues to function as Ponce's main performance venue.
+score: 7.9
 ---
 
 Teatro La Perla, built in 1864, is one of the oldest operating theaters in the Caribbean and one of the finest examples of neoclassical architecture in Puerto Rico. The white columned facade, just a block from Plaza las Delicias, speaks to the ambitions of nineteenth-century Ponce, which modelled itself on the great cities of Europe and expected its cultural institutions to match. The interior, restored to something close to its original glory, seats nearly a thousand people.

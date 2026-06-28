@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E5%8D%A1%E7%93%A6%E6%A0%B
 latitude: 28.395
 loc_type: feature
 longitude: 98.792
+score: 8.1
+snippet: Remote Tibetan village in Yunnan's Meili Snow Mountains, reached by trail
+  below Kawa Karpo.
 sources:
 - https://en.wikivoyage.org/wiki/Yubeng
 title: Yubeng

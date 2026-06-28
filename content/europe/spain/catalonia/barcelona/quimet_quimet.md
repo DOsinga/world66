@@ -4,10 +4,12 @@ latitude: 41.373698
 longitude: 2.163217
 opening_hours: Mon–Fri noon–4pm, 7–10pm; Sat noon–4pm; closed Sun
 price_range: €3–6 per montadito
+score: 8.0
 snippet: Standing-room tapas bar famous for its tinned fish montaditos
 tags:
 - eating_out
 - restaurant
+- poble_sec
 title: Quimet & Quimet
 type: poi
 ---

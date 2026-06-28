@@ -1,6 +1,7 @@
 ---
-latitude: 38.944264
-longitude: -74.882013
+latitude: 38.933431
+longitude: -74.921423
+score: 2.4
 snippet: Victorian seaside town with beaches and whale-watching, 2 hours from NYC
 tags:
 - day_trips

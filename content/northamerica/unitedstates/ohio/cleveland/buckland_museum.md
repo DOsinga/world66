@@ -8,6 +8,7 @@ snippet: A small museum of witchcraft, occult, and ritual artefacts
 tags:
   - things_to_do
   - museum
+score: 6.5
 ---
 
 The Buckland Museum holds the collection of Raymond Buckland, the English-born Wiccan author who emigrated to Long Island in the 1960s and brought the British witchcraft tradition to North America. The artefacts — ritual swords, athames, books, founder's gowns, scrying mirrors — were gradually donated to the museum's current curator and are now displayed in a tiny storefront on Broadview Road in the Old Brooklyn neighbourhood.

@@ -10,6 +10,7 @@ longitude: -156.3763
 snippet: "Funky north shore surf town — the gateway to the Road to Hāna and Hoʻokipa Beach"
 sources:
   - https://en.wikipedia.org/wiki/P%C4%81%CA%BBia,_Hawaii
+score: 7.3
 ---
 
 Pāʻia is Maui's most characterful small town — a former sugar plantation settlement that reinvented itself as a hub for windsurfers, artists, and alternative-lifestyle types. It sits at the junction of the Hāna Highway and the Baldwin Avenue road up to Makawao, making it an inevitable stop before or after the Road to Hāna.

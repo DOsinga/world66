@@ -10,6 +10,7 @@ tags:
 - st_pauli
 neighbourhood: St. Pauli
 story: "The Feldstrasse Flakturm was one of eight giant anti-aircraft fortresses built by Hitler's architect-engineer Friedrich Tamms across Germany and Austria during the Second World War. It is too massive to demolish — the walls are three metres of reinforced concrete — so since 1990 it has slowly been colonised by music studios, advertising agencies, the Übel & Gefährlich club on the top floor, and most recently a green-walled rooftop hotel."
+score: 7.5
 ---
 
 The Feldstrasse Bunker, also called the Medienbunker, is one of the most extraordinary surviving buildings of the Third Reich. The 38-metre concrete cube was built in 1942 as an anti-aircraft tower and shelter for up to 25,000 civilians, completed in eight months by forced labour. Its walls were intended to survive direct bomb hits and have proved so resilient that demolishing it has never been seriously attempted.

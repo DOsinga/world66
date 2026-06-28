@@ -1,16 +1,18 @@
 ---
-title: Hokkaido
-type: location
-latitude: 43.451983
-longitude: 142.819783
 done:
   location_cleanup: 2026-04-06
-score: 0.76
 image: hokkaido.jpg
-image_source: https://commons.wikimedia.org/wiki/File:140829_Ichiko_of_Shiretoko_Goko_Lakes_Hokkaido_Japan04s3.jpg
-image_license: CC BY 2.5
 image_attribution: 663highland
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:140829_Ichiko_of_Shiretoko_Goko_Lakes_Hokkaido_Japan04s3.jpg
+latitude: 43.451983
 loc_type: region
+longitude: 142.819783
+score: 0.76
+snippet: Northern Japanese island of national parks, ski slopes, and remote landscapes,
+  anchored by lively Sapporo.
+title: Hokkaido
+type: location
 ---
 
 Hokkaido is the northernmost of the four big islands that make up Japan. It is really a great place if you are an outdoor enthusiast. There are many many hiking possibilities in the great national parks such as [Daisetsuzan](/asia/japan/hokkaido/daisetsuzan) and there are some good skiing slopes (Sapporo hosted the winter olympics once).
@@ -21,5 +23,6 @@ Hokkaido is the northernmost of the four big islands that make up Japan. It is r
 ## Destinations in Hokkaido
 
 [Sapporo](/asia/japan/hokkaido/sapporo)
+[Otaru](/asia/japan/hokkaido/otaru)
 [Daisetsuzan](/asia/japan/hokkaido/daisetsuzan)
 [Shiretoko](/asia/japan/hokkaido/shiretoko)

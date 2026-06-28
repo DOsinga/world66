@@ -10,6 +10,7 @@ address: "17 Lydiard Street South"
 latitude: -37.5631
 longitude: 143.8576
 story: "Dame Nellie Melba sang here in 1908 to a sold-out hall and reportedly refused to leave the stage between encores. The Italianate façade hides a cast-iron and timber auditorium that has been continuously used since the gas-lamp era."
+score: 8.1
 ---
 
 Her Majesty's, opened in 1875, is the oldest purpose-built theatre still operating in Australia. The Italianate façade with its giant columns is one of the great Lydiard Street buildings; the interior is a horseshoe of three tiered galleries decorated in plaster, gilt, and ruby velvet.

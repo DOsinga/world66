@@ -1,11 +1,14 @@
 ---
 latitude: 35.0314
 longitude: 135.7351
-snippet: Major Shintō shrine in north Kyoto, dedicated to the deified ninth-century scholar Sugawara no Michizane
+score: 7.5
+snippet: Major Shintō shrine in north Kyoto, dedicated to the deified ninth-century
+  scholar Sugawara no Michizane
 tags:
 - things_to_do
 - shrine
 - sight
+- nijo
 title: Kitano Tenmangū
 type: poi
 ---

@@ -8,6 +8,7 @@ tags:
   - sight
 story: "The race commemorates a 1717 military expedition in which a flotilla of Neretva boatmen rowed up the river to lift an Ottoman siege of the Vrgorac fort. The modern marathon began in 1998 and is now the largest sporting event in Dalmatia, with crews coming from across the former Yugoslavia."
 snippet: A 22-kilometre race in narrow flat-bottomed boats through the delta, held every August.
+score: 7.4
 ---
 
 The Neretva Marathon is a race for lađa — narrow wooden boats with shallow draft, originally used for fishing and moving produce through the delta channels. Each lađa carries up to 18 rowers and a helmsman. The course runs 22 kilometres along the river from Metković to Ploče, threading the orchards and reed beds of the lower valley.

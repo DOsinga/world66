@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6160
 longitude: 101.7990
+score: 7.4
 ---
 
 The eastern commercial district around Dongguan Street is Xining's most culturally distinct neighbourhood: a dense Hui Muslim commercial and residential quarter where the food, the language (though Mandarin-speaking, locals use Arabic-influenced vocabulary for religious and food-related terms), the architecture of the mosques and madrases, and the rhythm of daily life around prayer times all differ noticeably from the Han Chinese parts of the city.

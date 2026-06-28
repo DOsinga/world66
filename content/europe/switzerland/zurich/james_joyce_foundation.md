@@ -16,6 +16,7 @@ tags:
 title: James Joyce Foundation
 type: poi
 url: www.jamesjoyce.ch
+score: 8.0
 ---
 
 The James Joyce Foundation in Zurich's Old Town is one of the foremost Joyce research centres in the world. Housed in a building close to where Joyce lived during his wartime years in the city, it holds an extensive archive of Joycean scholarship, a specialist library, and runs an annual Bloomsday celebration on 16 June that is among the best outside Dublin.

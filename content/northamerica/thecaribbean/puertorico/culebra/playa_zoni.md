@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.4
 ---
 
 On the far eastern side of the island, Playa Zoni is the quiet alternative to Flamenco. A mile of pale sand facing east, with views across the channel to Culebrita and, on a clear day, the British Virgin Islands. The water is usually calmer than at Flamenco and the snorkelling at the rocky points is excellent for spotting turtles.

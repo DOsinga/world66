@@ -8,6 +8,7 @@ latitude: 47.4833
 longitude: 12.4167
 story: >
   The Horn's south-facing slopes have one of the most diverse alpine wildflower populations in Tyrol — over 700 species have been recorded, and in June the meadows below the summit turn spectacular shades of pink, yellow, and blue. The Alpine Flower Garden near the top cable car station protects the rarest species and is one of the highest botanical gardens in Austria.
+score: 8.4
 ---
 
 The Kitzbüheler Horn rises to 1,996 metres directly above [Kitzbühel](/europe/austria/kitzbuehel), but it is easily accessible from St. Johann as well. A cable car from Kitzbühel town ascends to the summit ridge, where the views take in the Wilder Kaiser to the north and the Hohe Tauern to the south — on a clear day, the distant glaciers of the Großglockner are visible.

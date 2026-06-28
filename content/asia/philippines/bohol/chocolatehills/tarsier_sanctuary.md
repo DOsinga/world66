@@ -15,6 +15,7 @@ story: >
   ultrasound frequencies far beyond human hearing, which it uses to hunt insects in complete darkness.
   The name comes from the unusually elongated tarsus bones in its hind legs, which allow it to leap
   distances many times its body length.
+score: 8.5
 ---
 
 The Philippine Tarsier and Wildlife Sanctuary near Corella is one of the better places in Southeast Asia to see the extraordinary Philippine tarsier in semi-wild conditions. The sanctuary protects a patch of secondary forest where tarsiers live free-ranging, with guides who know where individual animals are resting during the day.

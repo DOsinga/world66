@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Joginder_Nagar_Valley.jpg
 latitude: 31.988
 loc_type: city
 longitude: 76.783
-score: 0.4
+score: 6.72
+snippet: Himachal Pradesh valley town known for the Shanan hydroelectric scheme and
+  Kangra Valley Railway terminus.
 title: Joginder Nagar
 type: location
 ---

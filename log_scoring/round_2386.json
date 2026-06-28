@@ -1,0 +1,200 @@
+{
+  "round": 2386,
+  "timestamp": "2026-06-13T21:38:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 4.7268,
+      "prior_variance": 0.229166,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 6.3452,
+      "prior_variance": 0.222685,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 5.1556,
+      "prior_variance": 0.19318,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 5.4259,
+      "prior_variance": 0.196121,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_score": 2.3471,
+      "prior_variance": 0.173492,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 2.3384,
+      "prior_variance": 0.205631,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 1.6568,
+      "prior_variance": 0.212371,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Luang Namtha",
+      "path": "asia/laos/luangnamtha",
+      "prior_score": 1.4255,
+      "prior_variance": 0.182429,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 2.7069,
+      "prior_variance": 0.205823,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 2.024,
+      "prior_variance": 0.182105,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": -0.1732,
+      "prior_variance": 0.242817,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.7415,
+      "prior_variance": 0.203845,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 1.0941,
+      "prior_variance": 0.171257,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.7796,
+      "prior_variance": 0.187203,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": 0.0727,
+      "prior_variance": 0.163472,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 0.817,
+      "prior_variance": 0.192891,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -0.2542,
+      "prior_variance": 0.19529,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.8832,
+      "prior_variance": 0.159245,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -2.5154,
+      "prior_variance": 0.226033,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 0.8294,
+      "prior_variance": 0.184224,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -2.7523,
+      "prior_variance": 0.214911,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": -1.4787,
+      "prior_variance": 0.186434,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -0.8281,
+      "prior_variance": 0.174374,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -4.771,
+      "prior_variance": 0.247773,
+      "prior_n": 7
+    }
+  ]
+}

@@ -6,6 +6,7 @@ longitude: 73.7364
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Victoria Bridge carries the railway across the Jhelum River on a series of latticed iron spans that have been doing this job since the late 19th century, when it was built as part of the North Western Railway's main line between Lahore and Peshawar. It is still in active use — trains pass over it several times a day — and the ironwork, though well over a century old, retains the confident over-engineering of the Victorian railway builders. From the river's edge below the bridge you can see the full length of the spans and appreciate the scale of the crossing: the Jhelum runs wide here after descending from the mountains of Kashmir.

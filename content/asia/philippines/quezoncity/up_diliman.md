@@ -14,6 +14,7 @@ story: >
   During the Marcos years, student activists draped it in protest banners. Today
   replica Oblations stand at every UP campus in the country, but the original at
   Diliman remains the most powerful.
+score: 8.7
 ---
 
 The University of the Philippines Diliman campus is one of the finest examples of mid-century institutional architecture in Southeast Asia. Designed in the 1940s and 50s, the campus plan has a distinctly American land-grant character — wide central lawns, long colonnaded buildings in the Modernist-Philippine style, and old acacia trees lining the main avenues.

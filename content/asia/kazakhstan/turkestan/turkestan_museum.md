@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.2982
 longitude: 68.2695
+score: 6.8
 ---
 
 The Turkestan History Museum, near the main complex, covers the archaeology and history of the region from the Bronze Age through the Kazakh Khanate. The collection includes artefacts recovered from the ancient city of Yasa — the original name of Turkestan — and from the surrounding steppe, including jewellery, ceramics, and weapons from various nomadic cultures that passed through the region.

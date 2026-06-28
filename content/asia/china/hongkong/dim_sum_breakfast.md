@@ -7,6 +7,7 @@ tags:
 latitude: 22.3149
 longitude: 114.1694
 snippet: The definitive Hong Kong culinary experience — order from carts at a neighbourhood yum cha restaurant
+score: 9.3
 ---
 
 Yum cha — literally "drink tea" — is the Hong Kong institution of gathering at a teahouse for dim sum, the parade of small dishes pushed past on trolleys or ticked off on order sheets. The ritual matters as much as the food: the clatter of bamboo steamers, the sound of families arguing over orders, the three-finger tap on the table as thanks when tea is poured (a gesture that began as a substitute for the full bow which would require setting down the teapot).

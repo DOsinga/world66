@@ -1,0 +1,200 @@
+{
+  "round": 2530,
+  "timestamp": "2026-06-13T21:49:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_score": 6.3708,
+      "prior_variance": 0.185904,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 2.0122,
+      "prior_variance": 0.19067,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.7702,
+      "prior_variance": 0.163941,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -0.8078,
+      "prior_variance": 0.161935,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -0.5334,
+      "prior_variance": 0.270184,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.2118,
+      "prior_variance": 0.168933,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -2.0977,
+      "prior_variance": 0.245934,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -2.5269,
+      "prior_variance": 0.187443,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.6237,
+      "prior_variance": 0.144691,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": 0.4383,
+      "prior_variance": 0.157943,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -4.5767,
+      "prior_variance": 0.23619,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -5.3796,
+      "prior_variance": 0.181643,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -5.5999,
+      "prior_variance": 0.197625,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -5.3548,
+      "prior_variance": 0.199217,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Khorramabad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -4.7757,
+      "prior_variance": 0.170903,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -7.1229,
+      "prior_variance": 0.301149,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.8346,
+      "prior_variance": 0.217257,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.4236,
+      "prior_variance": 0.251065,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Shizuishan",
+      "path": "asia/china/ningxia/shizuishan",
+      "prior_score": -6.9719,
+      "prior_variance": 0.245628,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -7.0274,
+      "prior_variance": 0.228466,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.7886,
+      "prior_variance": 0.284885,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -9.0218,
+      "prior_variance": 0.33591,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -6.375,
+      "prior_variance": 0.250498,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -7.1323,
+      "prior_variance": 0.217446,
+      "prior_n": 8
+    }
+  ]
+}

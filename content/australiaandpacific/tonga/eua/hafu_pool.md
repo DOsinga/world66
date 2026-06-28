@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -21.3500
 longitude: -174.9450
+score: 6.5
 ---
 
 A natural freshwater pool on the western coast of 'Eua, fed by a spring that emerges from the limestone and runs straight into the sea. The pool is large enough to swim in, clear, and ringed by limestone outcrops and tropical trees.

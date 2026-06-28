@@ -6,6 +6,7 @@ longitude: -68.3308
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 The main square is the heart of San Rafael, a leafy block of plane and palo borracho trees centred on a fountain and a bronze equestrian statue of San Martín. It is the gathering place in the evenings — families out for an ice cream, teenagers on the benches, vendors selling tortas fritas.

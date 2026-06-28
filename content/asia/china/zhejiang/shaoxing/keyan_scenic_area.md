@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.0333
 longitude: 120.6500
+score: 8.0
 ---
 
 The Keyan scenic area in the eastern suburbs of Shaoxing preserves the ancient stone quarries that supplied the grey-green *Qingshi* (bluestone) used in every bridge, canal wall, gate pillar, and floor flag in the old city. The quarries, worked from the Han dynasty until the twentieth century, have left a landscape of deep water-filled pits, sheer rock faces carved into geometric patterns, and cave temples cut directly into the quarry walls. The combination of industrial archaeology and natural scenery is unusual and specific to Shaoxing.

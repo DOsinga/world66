@@ -8,6 +8,7 @@ latitude: -2.525
 longitude: -44.296
 story: >
   The Tambor de Mina tradition in Maranhão is one of the oldest and most intact African religious practices in Brazil. Unlike the more nationally known Candomblé of Bahia, the Maranhão tradition maintained much closer ties to its West African (specifically Fon and Yoruba) origins. The city has dozens of active terreiros where ceremonies are held regularly, though visits by outsiders require an introduction and appropriate respect.
+score: 7.0
 ---
 
 Tambor de Mina is the Afro-Maranhão religious tradition — the local variant of the broader Afro-Brazilian spiritual complex that includes Candomblé, Umbanda, and related practices. São Luís has been its spiritual centre since the 19th century, when enslaved Africans from the Fon and Yoruba peoples established the first terreiros here.

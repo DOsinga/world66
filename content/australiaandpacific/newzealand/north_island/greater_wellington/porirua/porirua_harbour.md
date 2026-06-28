@@ -7,6 +7,7 @@ tags:
 - nature
 latitude: -41.0833
 longitude: 174.85
+score: 5.9
 ---
 
 Porirua Harbour is a deeply indented natural inlet on the south-western coast of the North Island, split into two long arms — the Pauatahanui Inlet to the east and the Onepoto Arm to the west. The city of Porirua wraps around the southern end where the two meet.

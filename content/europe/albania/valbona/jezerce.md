@@ -16,6 +16,7 @@ story: >
   straightforward by alpine standards, but its remoteness and the state of
   Albanian roads made it one of the least-visited high peaks in Europe
   for most of the 20th century.
+score: 7.6
 ---
 
 Maja e Jezercës (2,694 m) is the highest point of the Dinaric Alps and visible from much of the Valbona Valley on clear days — a massive limestone massif with pale grey cliffs dropping from its upper ridges. It sits at the junction of Albania, Kosovo, and Montenegro, making it politically as well as physically prominent.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2297
 longitude: 13.0900
+score: 5.7
 ---
 
 A historic villa in the upper part of San Felice Circeo, built in the early 20th century during the period when the Pontine coast began to attract wealthy Romans as a summer retreat. The villa's gardens, partially open to the public, are planted with Mediterranean species suited to the coastal microclimate — rosemary, myrtle, cistus — and the upper terraces give a good view down to the Porto di Circeo and the sea.

@@ -14,6 +14,7 @@ story: >
   park was established in 1974. The legal anomaly means private development was permitted
   on Lipe when it was banned everywhere else in the park, which is why Lipe alone is full
   of bungalows, bars, and dive shops.
+score: 8.4
 ---
 
 Ko Lipe is the busy heart of the archipelago and the island most travellers actually visit. Three kilometres long and shaped like a butterfly, it has three main beaches: **Pattaya Beach** on the south coast (the busiest, with most of the bars and dive shops), **Sunrise Beach** on the east (longer, quieter, with the famous view across the channel to Ko Adang), and **Sunset Beach** on the north-west (the most laid-back, watch-the-sunset spot).

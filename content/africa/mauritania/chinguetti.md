@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chinguetti-Vue_Goblale_Vie
 latitude: 20.463434
 loc_type: city
 longitude: -12.366484
-score: 0.45
+score: 7.02
+snippet: Saharan learning town of mud-brick lanes, manuscript libraries, and a 13th-century
+  mosque tower.
 title: Chinguetti
 type: location
 ---

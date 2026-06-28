@@ -5,6 +5,7 @@ latitude: 35.2700
 longitude: -77.5742
 snippet: "Historic minor-league ballpark, home of the Down East Wood Ducks"
 tags: [things_to_do, sight, sport]
+score: 6.8
 ---
 
 Grainger Stadium is a small minor-league baseball park that has been hosting professional baseball in Kinston, on and off, since 1949. It is now home to the Down East Wood Ducks, the Texas Rangers' Single-A affiliate, with a season that runs April through September. The ballpark seats around 4,100 and retains a deeply old-school feel — covered grandstand, bleacher seats, hand-operated scoreboard.

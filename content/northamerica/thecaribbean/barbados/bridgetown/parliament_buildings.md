@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Parliament_Buildings_(Barbados)
 story: >
   The Barbados Parliament is one of the oldest in the Western Hemisphere, having met continuously since 1639 — older than the US Congress by 150 years. The current neo-Gothic buildings date from 1874, built from local coral stone that glows golden in afternoon light.
+score: 7.5
 ---
 
 The Parliament Buildings stand on the north side of National Heroes Square in two matching coral-stone structures: the East Wing for the Senate, the West Wing for the House of Assembly. They were completed in 1874 in a restrained Gothic Revival style, and the clock tower of the West Wing has become an informal symbol of Bridgetown.

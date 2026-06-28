@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E6%A6%86%E6%9E%97%E5%8F%A
 latitude: 38.2655
 loc_type: city
 longitude: 109.7388
+score: 6.55
+snippet: Northern Shaanxi garrison city where the Loess Plateau meets desert and Ming
+  Great Wall remains
 sources:
 - https://en.wikivoyage.org/wiki/Yulin_(Shaanxi)
 title: Yulin

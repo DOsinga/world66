@@ -7,6 +7,7 @@ tags:
 - museum
 title: Princess Maha Chakri Sirindhorn Natural History Museum
 type: poi
+score: 6.8
 ---
 
 A genuinely good modern museum on the eastern edge of Hat Yai, on the campus of Prince of Songkla University. The collections cover the geology, flora, and especially the fauna of southern Thailand and the Malay Peninsula — strong sections on marine biodiversity, the gibbons of the Songkhla rainforests, and the megafauna fossils from the region's limestone caves.

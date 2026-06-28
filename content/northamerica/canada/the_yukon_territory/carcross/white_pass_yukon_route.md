@@ -14,6 +14,7 @@ story: >
   silver ore; at its low point in 1982, with the silver market collapsed, it shut
   down entirely. Reopened as a tourist attraction in 1988, it now carries more
   passengers annually than it did at the height of the rush.
+score: 8.2
 ---
 
 The White Pass & Yukon Route is a narrow-gauge railway connecting Skagway, Alaska to Whitehorse, built through the Coast Mountains during the Klondike Gold Rush of the late 1890s. Carcross sits roughly in the middle of the historic route, and the beautifully preserved wooden station — built in 1910 — is one of the more evocative buildings in the Yukon.

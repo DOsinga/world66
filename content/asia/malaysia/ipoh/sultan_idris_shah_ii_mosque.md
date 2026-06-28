@@ -9,6 +9,7 @@ tags:
   - architecture
   - old_town
 neighbourhood: Old Town
+score: 5.9
 ---
 
 The state mosque of Perak, completed in 1968 and visible from much of central Ipoh: a great gold dome with four slender minarets, set in a wide grassy compound off Jalan Sultan Iskandar in the Old Town. The architectural style is Mughal-influenced, the interior gleaming white marble; non-Muslims may visit at quiet times outside prayer hours.

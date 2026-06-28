@@ -13,6 +13,7 @@ story: >
   The site is now dated to the IV–III millennium BC, placing it several thousand years before
   Stonehenge, yet displaying a comparable mastery of astronomical alignment that has led some
   scholars to call it the world's oldest observatory.
+score: 8.9
 ---
 
 Scattered across a wind-swept hilltop above the Vorotan River gorge, Carahunge — also known as Zorats Karer, meaning "army stones" — is one of the most remarkable prehistoric sites in the world. Some 223 basalt stones stand or lean across roughly seven hectares, arranged in circles, rows, and a central avenue that aligns with key solar and stellar events. The scale surprises visitors: the main concentration alone stretches over two hundred metres, dwarfing the mental image most people carry from pictures.

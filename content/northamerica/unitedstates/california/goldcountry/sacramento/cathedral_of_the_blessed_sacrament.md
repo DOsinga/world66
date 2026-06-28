@@ -9,6 +9,7 @@ latitude: 38.579
 longitude: -121.492
 story: >
   The cathedral was consecrated in 1889, at a cost of $300,000, and its construction nearly bankrupted the Diocese. The interior features a series of stained-glass windows commissioned from the Munich Royal Institute of Stained Glass — the same workshop that supplied windows to the Munich Cathedral and the Royal Palace.
+score: 7.8
 ---
 
 Sacramento's Roman Catholic cathedral, completed in 1889, is one of the finest examples of Victorian Baroque architecture in California. The facade follows the Italian Renaissance pattern of a wide nave flanked by towers, in a warm yellow brick; the interior is dramatically tall, with gilded columns, imported marble, and Munich-made stained glass.

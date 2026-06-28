@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.7850
 longitude: 112.9600
+score: 6.7
 ---
 
 Qinghua is a small market town in northern Jincheng prefecture that preserves a largely intact Ming-dynasty street grid and a scattering of old commercial buildings along its main lane. It is considerably less visited than the more prominent fortified village sites, which works in its favour — you can walk through without the organised tour groups, and some of the residents still use the ground-floor shopfronts in the way they were originally intended. The old bridge at the entrance to the town is a well-proportioned Ming structure over a small river.

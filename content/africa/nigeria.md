@@ -7,16 +7,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Zumarock.jpg
 latitude: 9.0765
+loc_type: country
 longitude: 7.3986
 quick_facts:
-  Population: "220 million"
-  Language: "English (lingua franca)"
-  Languages: "500+"
-  Nollywood Films per Year: "~2,500"
+  Language: English (lingua franca)
+  Languages: 500+
+  Nollywood Films per Year: ~2,500
+  Population: 220 million
+score: 0.48
+snippet: Vast West African country of extraordinary ethnic diversity, creative energy,
+  tropical coast, savanna, and megacities.
 title: Nigeria
 type: location
-score: 0.25
-loc_type: country
 ---
 
 *Africa > Nigeria*

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 28.299618
+loc_type: region
 longitude: -82.45227
+score: 0.34
+snippet: Central Florida Gulf county of quiet rivers, flatwoods, small towns, and
+  pre-resort coastline.
 title: Pasco County
 type: location
-score: 0.34
-loc_type: region
 ---
 
 Pasco County occupies the Gulf coast of central Florida, north of Tampa. It is one of the quieter stretches of the state's west coast, offering a glimpse of Florida before the theme parks and resort towers took over. The landscape is flat and green, dotted with lakes and laced with rivers that wind out to the Gulf of Mexico.

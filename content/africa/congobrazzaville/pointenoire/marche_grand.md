@@ -7,6 +7,7 @@ snippet: Sprawling central market and the most concentrated slice of city life
 tags:
 - things_to_do
 - market
+score: 6.6
 ---
 
 The central market spreads through several blocks in the middle of the city, with an inner cluster of permanent stalls and an outer ring of mobile vendors that grows and shrinks through the day. Everything is here — saka-saka (cassava leaves) and chikwangue (fermented cassava bread) in the food halls, secondhand clothing, brass cookware, batteries, plumbing parts, charcoal — and the soundtrack is permanent radio rumba.

@@ -8,6 +8,7 @@ tags:
 - prenzlauerberg
 title: Schwarzauer
 type: poi
+score: 5.8
 ---
 
 A neighbourhood bar on Kastanienallee — nicknamed "Casting Allee" by locals for the stream of media and fashion types who parade along it. Schwarzauer is a reliable spot for a beer or glass of wine, with a relaxed crowd and no pretensions. The street itself is one of Prenzlauer Berg's main social arteries, lined with cafés, boutiques, and bars, and the outside tables make for good people-watching when the weather allows.

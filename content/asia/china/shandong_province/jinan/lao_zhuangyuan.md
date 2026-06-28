@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6558
 longitude: 116.9960
+score: 6.9
 ---
 
 Lao Zhuangyuan is a well-established local restaurant specializing in the home-cooking end of Shandong cuisine — straightforward, honest, and good. The congee (gruel made with mixed grains including millet) is cooked over many hours until it reaches a thick, nutty consistency; the braised pork belly is slow-cooked in soy and spice until it falls apart. The cucumber in garlic dressing and the stuffed eggplant are reliable cold starters.

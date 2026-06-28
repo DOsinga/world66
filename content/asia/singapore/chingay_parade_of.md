@@ -1,10 +1,14 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+latitude: 1.2916
+longitude: 103.864
+score: 7.0
 snippet: Singapore's annual street parade celebrating multicultural diversity
 tags:
-- festivals
 - things_to_do
+- festival
+- festivals
 title: Chingay Parade
 type: poi
 url: https://www.chingay.org.sg

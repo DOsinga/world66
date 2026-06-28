@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.0192
 longitude: 40.5175
+score: 6.9
 ---
 
 Several small restaurants near the city centre specialise in muhlama, the Black Sea dish of cornmeal cooked with butter and local cheese (a mild, stretched variety similar to mozzarella) until it becomes a bubbling, stringy mass. It is served in the copper pot it was cooked in, with bread for dipping. On a cold mountain morning before a hike into the Kaçkar, there is nothing better.

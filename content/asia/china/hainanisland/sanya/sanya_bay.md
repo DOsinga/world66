@@ -12,6 +12,7 @@ tags:
 - beach
 title: Sanya Bay
 type: poi
+score: 7.0
 ---
 
 Sanya Bay is the longest of the city's beaches, a 22-kilometre crescent of sand running along the western edge of the city centre. It is the most accessible of the major beaches — you can walk to it from many hotels in town — and the least developed in terms of resort infrastructure, which gives it more of a local feel than the manicured strips at Yalong Bay or Haitang Bay further east. The water is calmer here than on the open-ocean side, and the offshore islands break the horizon attractively.

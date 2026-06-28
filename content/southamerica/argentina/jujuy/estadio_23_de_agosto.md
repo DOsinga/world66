@@ -7,6 +7,7 @@ tags:
 - sports
 title: Estadio 23 de Agosto
 type: poi
+score: 4.8
 ---
 
 Home to Gimnasia y Esgrima de Jujuy, the 23 de Agosto stadium sits south of the city centre and holds around 24,000 spectators. The nickname — La Tacita de Plata, the little silver cup — refers to its compact shape and the silver-grey tones of the stands. The club has bounced between the top tiers of Argentine football; a match here on a derby weekend is genuinely loud.

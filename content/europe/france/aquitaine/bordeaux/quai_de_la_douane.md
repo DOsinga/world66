@@ -7,6 +7,7 @@ tags:
 latitude: 44.8413
 longitude: -0.5695
 snippet: The restored 18th-century waterfront — the defining walk in Bordeaux
+score: 7.6
 ---
 
 The Quai de la Douane is the central section of the Bordeaux waterfront, directly in front of Place de la Bourse, and the kilometre of river frontage that has been most transformed by the city's regeneration since the 1990s. The old Customs House quay has been converted into a pedestrian promenade with no through traffic, flanked by the golden limestone facades to the west and the Garonne to the east.

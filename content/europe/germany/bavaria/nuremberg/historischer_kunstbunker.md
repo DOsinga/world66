@@ -15,6 +15,7 @@ story: >
   decision saved irreplaceable works. The tunnels themselves were part of the
   old brewery caves that had been cut into the sandstone below the Kaiserburg
   since the Middle Ages.
+score: 7.5
 ---
 
 The Historischer Kunstbunker is a network of tunnels cut into the sandstone beneath the Kaiserburg, expanded and climate-controlled in 1940 to protect Nuremberg's greatest art treasures from Allied air raids. The works stored here included paintings by Dürer, the stained glass from St. Lorenz, and objects from the Germanisches Nationalmuseum. All survived the bombing that destroyed most of the city in January 1945.

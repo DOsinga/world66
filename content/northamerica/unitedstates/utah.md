@@ -8,6 +8,8 @@ latitude: 39.422519
 loc_type: region
 longitude: -111.714358
 score: 0.78
+snippet: Western U.S. state of red-rock national parks and a history shaped by Mormon
+  settlement.
 title: Utah
 type: location
 ---
@@ -26,6 +28,7 @@ The classic Utah trip is a southern loop from Las Vegas: Zion → Bryce → Capi
 - [Moab](/northamerica/unitedstates/utah/moab) (Arches, Canyonlands)
 - [Springdale](/northamerica/unitedstates/utah/springdale) (Zion)
 - [Park City](/northamerica/unitedstates/utah/parkcity)
+- [Cedar City](/northamerica/unitedstates/utah/cedar_city)
 - [Ogden](/northamerica/unitedstates/utah/ogden)
 - [Kanab](/northamerica/unitedstates/utah/kanab)
 - [Bryce Canyon](/northamerica/unitedstates/utah/bryce_canyon)

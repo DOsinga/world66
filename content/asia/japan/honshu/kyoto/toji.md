@@ -1,12 +1,15 @@
 ---
-latitude: 34.9810
+latitude: 34.981
 longitude: 135.7475
-snippet: Esoteric Buddhist temple south of Kyoto Station, with the tallest wooden pagoda in Japan
+score: 8.0
+snippet: Esoteric Buddhist temple south of Kyoto Station, with the tallest wooden
+  pagoda in Japan
 tags:
 - things_to_do
 - temple
 - unesco
 - sight
+- nishiki
 title: Tō-ji
 type: poi
 ---

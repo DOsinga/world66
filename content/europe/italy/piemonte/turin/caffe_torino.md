@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 45.0676
 longitude: 7.6826
+score: 7.4
 ---
 
 The grand cafe on Piazza San Carlo, with chandeliers, mirrored walls, and the brass-inlaid bull set into the pavement outside that everyone rubs with their foot for luck. Opened in 1903 and still one of the city's best aperitivo addresses.

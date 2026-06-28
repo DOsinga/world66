@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_bird%27s_eye_view_of_the
 latitude: 36.5684
 loc_type: city
 longitude: 128.7294
+score: 8.19
+snippet: Confucian Korean city on the Nakdong River, rooted in lineage rites and Hahoe
+  Folk Village
 sources:
 - https://en.wikipedia.org/wiki/Andong
 title: Andong

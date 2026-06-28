@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Iran_7744_Kermanshah,_Iran
 latitude: 34.378974
 loc_type: city
 longitude: 46.701012
-score: 0.44
+score: 6.52
+snippet: Zagros valley city near Iraq, gateway to Sassanid rock reliefs and the Bisotun
+  inscription.
 title: Kermanshah
 type: location
 ---

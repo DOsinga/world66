@@ -1,0 +1,200 @@
+{
+  "round": 3153,
+  "timestamp": "2026-06-13T22:32:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 5.2819,
+      "prior_variance": 0.176301,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 3.9294,
+      "prior_variance": 0.15775,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 4.8911,
+      "prior_variance": 0.170417,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 4.7622,
+      "prior_variance": 0.168415,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": -0.0309,
+      "prior_variance": 0.121609,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.5792,
+      "prior_variance": 0.141046,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 0.2599,
+      "prior_variance": 0.123568,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.5298,
+      "prior_variance": 0.142495,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.5436,
+      "prior_variance": 0.115431,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.6264,
+      "prior_variance": 0.131781,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": 0.0894,
+      "prior_variance": 0.162001,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.2291,
+      "prior_variance": 0.127478,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.4604,
+      "prior_variance": 0.134648,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -2.7889,
+      "prior_variance": 0.151828,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.7177,
+      "prior_variance": 0.125166,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -4.2741,
+      "prior_variance": 0.256138,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -1.709,
+      "prior_variance": 0.129353,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -2.9825,
+      "prior_variance": 0.132326,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_score": -1.7183,
+      "prior_variance": 0.143263,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.3245,
+      "prior_variance": 0.153385,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.5634,
+      "prior_variance": 0.143413,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -3.9398,
+      "prior_variance": 0.163869,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -4.0896,
+      "prior_variance": 0.180719,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -2.5237,
+      "prior_variance": 0.138578,
+      "prior_n": 10
+    }
+  ]
+}

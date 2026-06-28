@@ -6,7 +6,9 @@ done:
 latitude: 33.0198
 loc_type: city
 longitude: -96.6989
-score: 0.32
+score: 5.9
+snippet: Dallas suburb turned corporate city, with a rebuilt historic downtown and
+  strong international dining.
 title: Plano
 type: location
 ---

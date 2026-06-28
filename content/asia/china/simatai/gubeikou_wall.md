@@ -12,6 +12,7 @@ story: >
   other across the same ridge. This layering of different dynasties' defensive
   works in a single landscape is rare, and gives the site a depth that the
   more famous sections lack.
+score: 8.7
 ---
 
 Gubeikou is a Great Wall section that most Beijing visitors walk straight past on their way to Simatai. That is their loss. The wall here is genuinely ancient in places — much of it predates the Ming rebuilding that produced the sections everyone photographs — and the restoration is minimal. You walk on actual centuries-old stone, through actual centuries-old towers, with almost nobody else around.

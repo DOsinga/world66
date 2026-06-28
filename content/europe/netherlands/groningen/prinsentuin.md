@@ -7,6 +7,7 @@ snippet: Hidden Renaissance garden behind the old Prinsenhof
 tags:
 - things_to_do
 - park
+score: 8.1
 ---
 
 A quiet Renaissance garden behind the Prinsenhof, the former residence of the Stadtholder, on the edge of the historic centre. The garden was laid out in 1626 in the style of the formal Dutch garden: low box hedges, symmetrical beds, a rose garden, and a herb garden, with a sundial bearing a Latin motto that translates as "I count only the sunny hours."

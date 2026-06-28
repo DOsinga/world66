@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -34.608445
 longitude: -58.372179
+score: 9.3
 snippet: Argentina's political heart, flanked by the pink Casa Rosada
 tags:
 - things_to_do
 - landmark
+- microcentro
 title: Plaza de Mayo
 type: poi
 ---

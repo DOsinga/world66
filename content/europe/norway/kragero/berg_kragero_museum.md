@@ -8,6 +8,7 @@ latitude: 58.8693
 longitude: 9.4149
 sources:
   - https://en.wikipedia.org/wiki/Krager%C3%B8_(town)
+score: 5.9
 ---
 
 The Berg-Kragerø Museum is the local history and art museum for the Kragerø area, housed in a 19th-century merchant villa a short walk from the harbour. The collection focuses on the town's seafaring and shipping history — Kragerø was once an important timber exporting port and the exhibition tells that story through ship models, navigation instruments, and portraits of local captains and merchants.

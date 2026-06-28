@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.4583
 longitude: 5.1066
+score: 8.0
 ---
 
 The former island of Marken, now connected to the mainland by a causeway, lies about 7 km east of Monnickendam across the Gouwzee. It is one of the most distinctive villages in North Holland — the houses are painted in black and green, many are built on wooden piles as protection against flooding, and the local population maintained its own dialect and traditional dress well into the 20th century.

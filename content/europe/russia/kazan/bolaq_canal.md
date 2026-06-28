@@ -6,6 +6,7 @@ longitude: 49.1101
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Bolaq is a narrow canalised stream that runs north-south through the centre of Kazan, dividing the old Russian upper town from the Tatar lower town. Once a major waterway connecting the Volga to Lake Kaban, it was reduced over the 19th and 20th centuries to its present form — a stone-banked channel just wide enough for a footbridge to span in a couple of strides.

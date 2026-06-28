@@ -12,6 +12,7 @@ story: >
   the senses lose their anchoring to the surface world. Dahab's canyon adds to this by being narrow enough
   in places that you can touch both walls simultaneously — a profoundly alien environment that is difficult
   to describe to non-divers.
+score: 8.7
 ---
 
 The Canyon is a dramatic underwater cut in the reef just north of Dahab town, accessed via a short walk north along the coast from the Lighthouse. A narrow crack in the seabed opens into a descending cleft that drops to about 53 metres. The walls are encrusted with soft corals and home to sleeping nurse sharks, moray eels, and shoals of glassfish that part like curtains as you pass through.

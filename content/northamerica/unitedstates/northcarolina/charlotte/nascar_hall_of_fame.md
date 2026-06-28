@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2216
 longitude: -80.8433
+score: 8.0
 ---
 
 The NASCAR Hall of Fame in Uptown Charlotte is the definitive museum for anyone interested in American motorsport, and worth visiting even for those who think they are not. The building itself is striking — a swooping glass structure next to the convention center — and inside, the exhibits cover the full sweep of stock car racing from its moonshining roots in the Carolina hills to its present status as one of the most popular spectator sports in the United States.

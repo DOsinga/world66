@@ -6,6 +6,7 @@ longitude: 18.4352
 tags:
   - eating_out
   - restaurant
+score: 7.4
 ---
 
 Burek at its best is made under a sač — a round iron lid covered with hot coals — a technique that produces a particularly crisp, flaky pastry that is different from the oven-baked version most people know. Buregdžinica Sač near the market in Baščaršija is one of the few places in Sarajevo still using this traditional method, and the results justify the approach.

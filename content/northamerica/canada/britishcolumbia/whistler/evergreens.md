@@ -9,6 +9,7 @@ tags:
 - restaurants
 title: Evergreens
 type: poi
+score: 5.3
 ---
 
 A quick-service spot in Whistler Village focused on salads, grain bowls, wraps, and smoothies. Handy when you want something lighter after days of après-ski poutine. The build-your-own format means you can customize freely, and portions are generous enough to refuel after a morning on the mountain.

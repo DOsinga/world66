@@ -9,6 +9,7 @@ latitude: 46.2272
 longitude: 15.2648
 sources:
   - https://en.wikipedia.org/wiki/Celje_Cathedral
+score: 6.7
 ---
 
 The Cathedral of St. Daniel is the main Catholic church in Celje and the seat of the Diocese of Celje. The building dates from the 14th century, constructed in Gothic style, though it has been modified and extended several times over the centuries. The interior contains notable Gothic choir stalls and a Baroque altar, with fragments of original medieval decoration surviving in the side chapels.

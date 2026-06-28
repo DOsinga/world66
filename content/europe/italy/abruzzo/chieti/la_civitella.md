@@ -5,6 +5,7 @@ snippet: Roman amphitheatre and museum on the western edge of the old town
 tags: [things_to_do, sight, archaeology, museum, historic_site]
 latitude: 42.3496
 longitude: 14.1602
+score: 8.1
 ---
 
 On a low hill west of the cathedral lie the partial remains of Chieti's Roman amphitheatre — built in the first century AD, large enough for ten thousand spectators, and now framed by an attractive park. The site was excavated in the late twentieth century and is now part of an open-air **archaeological park** known as La Civitella.

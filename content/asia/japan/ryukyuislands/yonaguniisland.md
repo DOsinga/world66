@@ -5,13 +5,15 @@ done:
 latitude: 24.455595
 loc_type: city
 longitude: 122.987606
-score: 0.55
+score: 8.06
 title: Yonaguni Island
 type: location
 image: yonaguniisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gunkan-iwa_Sanninudai_Yonaguni.jpg
 image_license: CC0
 image_attribution: Melkov
+snippet: Japan's westernmost inhabited island, with sea cliffs, wild ponies, hammerhead
+  dives, and Taiwan on the horizon.
 ---
 
 Yonaguni is the westernmost inhabited island in Japan — on a clear day you can see Taiwan, just 111 kilometres away. It is a remote, wind-battered place with dramatic cliffs, wild horses roaming the grasslands, and a population of fewer than 2,000.

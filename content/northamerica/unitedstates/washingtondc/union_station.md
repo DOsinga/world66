@@ -8,6 +8,7 @@ tags:
 latitude: 38.8977
 longitude: -77.0063
 story: "Union Station's main hall was modelled on the Baths of Diocletian in Rome. When it opened in 1907, the barrel-vaulted waiting room was one of the largest interior spaces in the United States. The station served as an air-raid shelter drill location during World War II, when 100,000 people a day passed through it at peak wartime traffic."
+score: 7.6
 ---
 
 Washington's Union Station is a Beaux-Arts terminal completed in 1907 and still the primary intercity rail hub for the mid-Atlantic region. Amtrak trains to New York, Boston, Philadelphia, and destinations across the country depart from here, and the station is the terminus of the Metro's Red Line.

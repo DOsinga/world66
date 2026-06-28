@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kronstadt_Saint_Petersburg
 latitude: 59.992
 loc_type: city
 longitude: 29.7681
+score: 6.89
+snippet: Gulf of Finland naval city on Kotlin Island, ringed by forts and crowned
+  by its cathedral.
 sources:
 - https://en.wikipedia.org/wiki/Kronstadt
 - https://en.wikivoyage.org/wiki/Kronstadt

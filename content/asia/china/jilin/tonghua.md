@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Views_from_Yuhuang_Mountai
 latitude: 41.7302
 loc_type: city
 longitude: 125.9471
+score: 6.14
+snippet: Jilin river city used as a base for Ji'an's Koguryo tombs and Changbaishan
+  approaches.
 sources:
 - https://en.wikivoyage.org/wiki/Tonghua
 title: Tonghua

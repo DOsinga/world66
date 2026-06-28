@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 neighbourhood: La Cité
+score: 7.4
 ---
 
 The Porte Narbonnaise is the great eastern gate of the Cité, the main public entrance and the most heavily defended point on the wall. Two massive round towers flank the gate, with a deep machicolated passage between them and a portcullis slot still visible overhead.

@@ -8,6 +8,7 @@ latitude: -42.4800
 longitude: -73.7650
 story: >
   The Caleuche is a ghost ship in Chiloé mythology — a phantom vessel that sails the channels at night, crewed by the drowned dead who are forced to work the ship forever. Unlike ghost ships in European tradition, the Caleuche is brightly lit and the sounds of music and revelry come from within. Seeing it is an omen of death. Chilean fishermen still avoid certain channels on certain nights, even if they would not admit to believing why.
+score: 7.8
 ---
 
 Chiloé has one of the richest and most coherent mythological traditions in South America, a body of supernatural beliefs developed during centuries of isolation that remains genuinely alive in the culture. The creatures and spirits are specific, local, and not particularly reassuring.

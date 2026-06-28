@@ -5,7 +5,9 @@ done:
 latitude: 4.3947
 loc_type: city
 longitude: 18.5582
-score: 0.15
+score: 4.37
+snippet: Central African capital on the Oubangui River, with hills, broad avenues,
+  and a riverside market core.
 title: Bangui
 type: location
 ---

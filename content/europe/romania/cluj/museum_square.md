@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - square
+score: 8.3
 ---
 
 A short walk north of Piața Unirii, the smaller Piața Muzeului is the medieval heart of Cluj — cobbled, ringed by old houses, and dominated by the Franciscan Church and the National History Museum. A 19th-century column with a statue of the Virgin stands in the middle.

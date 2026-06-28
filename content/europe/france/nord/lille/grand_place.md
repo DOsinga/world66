@@ -14,6 +14,7 @@ story: >
   thousands of buildings. The Austrians eventually withdrew, and the city erected this
   monument in 1845. The statue at the top represents Lille as a defiant woman; locals
   call her simply "the Goddess."
+score: 7.8
 ---
 
 The Grand'Place is the formal name locals never use for what everyone calls the Grand'Place — officially Place du Général de Gaulle, after the city's most famous son, born on Rue Princesse nearby in 1890. It is the living room of Vieux-Lille: a broad cobbled square lined with handsome 17th- and 18th-century Flemish townhouses, cafés with heated terraces, the Art Deco Voix du Nord building on the south side, and the Vieille Bourse on the north.

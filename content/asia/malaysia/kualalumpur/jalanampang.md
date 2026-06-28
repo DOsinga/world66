@@ -1,7 +1,9 @@
 ---
 latitude: 3.147718
 longitude: 101.765734
-snippet: Embassy row turned shopping and dining boulevard
+score: 6.0
+snippet: Historic embassy row that transitions into a restaurant and hotel boulevard
+  heading east from KLCC
 tags:
 - shopping
 title: Jalan Ampang

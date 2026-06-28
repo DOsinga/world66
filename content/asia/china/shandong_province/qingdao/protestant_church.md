@@ -6,6 +6,7 @@ tags:
   - sight
 title: Protestant Church (Evangelical Church)
 type: poi
+score: 7.8
 ---
 
 The Evangelical Church on Jiangsu Lu, completed in 1910, is one of the most recognisable buildings in Qingdao — a red-brick Gothic structure with a clock tower visible from much of the old German quarter. It was built to serve the German Protestant community and remains an active congregation today.

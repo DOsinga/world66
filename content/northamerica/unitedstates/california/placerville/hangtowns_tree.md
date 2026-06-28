@@ -9,6 +9,7 @@ latitude: 38.7282
 longitude: -120.8025
 sources:
   - https://en.wikipedia.org/wiki/Hangman%27s_Tree
+score: 6.5
 ---
 
 The site of Placerville's original hanging tree — California Historical Landmark No. 141 — is on Main Street, marked by a wooden effigy of a hanged man swinging above what is now a saloon. The original oak tree, used for summary executions during the Gold Rush when Placerville was known as "Hangtown," was cut down long ago, but the tradition of the hanging dummy has continued across multiple buildings on the same spot.

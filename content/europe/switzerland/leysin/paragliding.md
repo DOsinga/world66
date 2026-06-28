@@ -6,6 +6,7 @@ longitude: 7.0022
 tags:
   - things_to_do
   - sport
+score: 7.7
 ---
 
 Leysin is one of the better-known tandem paragliding spots in the Alpes Vaudoises. The standard flight takes off from La Berneuse, ride the thermals across the upper Rhône valley, and lands about 1,300 metres below in the meadows beside the village. The view in flight — Mont Blanc on one side, Lake Geneva on the other — is the chief reason to come.

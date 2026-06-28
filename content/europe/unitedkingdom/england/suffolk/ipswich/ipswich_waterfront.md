@@ -14,6 +14,7 @@ story: >
   converted warehouses now hold flats, bars, and restaurants, but the Victorian
   hydraulic machinery that once operated the lock gates is still preserved in
   place.
+score: 6.9
 ---
 
 The regenerated docklands area sits about ten minutes' walk south of the town centre and is the liveliest part of modern Ipswich. The Old Custom House on the quayside is one of the most elegant buildings in the city, a late 17th-century structure with a perfect pedimented front overlooking the water. The converted Victorian warehouses around it — Neptune Quay and Wherry Quay — now house restaurants, bars, and a marina.

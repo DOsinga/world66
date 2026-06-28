@@ -7,7 +7,9 @@ done:
 latitude: 14.0653
 loc_type: city
 longitude: 121.3208
-score: 0.39
+score: 6.33
+snippet: Laguna city of seven volcanic crater lakes, with Sampaloc, Pandin, and Yambo
+  shaping its landscape.
 title: San Pablo City
 type: location
 ---

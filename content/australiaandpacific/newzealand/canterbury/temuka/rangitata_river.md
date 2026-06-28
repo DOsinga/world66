@@ -1,14 +1,15 @@
 ---
 address: Rangitata River, near Temuka
 latitude: -44.1167
-loc_type: feature
-longitude: 171.5500
+longitude: 171.55
+score: 7.4
 snippet: Major braided river north of Temuka, famous for jet boating and salmon
 tags:
 - things_to_do
 - sight
 - fishing
 title: Rangitata River
+type: poi
 ---
 
 One of New Zealand's great braided rivers, draining the Southern Alps west of Temuka and running 121 km to the Pacific. The Rangitata is famous for two things: chinook (quinnat) salmon, which run from November to April and draw anglers from across the country, and white-water jet-boat tours through the spectacular Rangitata Gorge upstream.

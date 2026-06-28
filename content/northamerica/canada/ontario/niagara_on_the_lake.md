@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:12-20_Queen_Street,_Niagar
 latitude: 43.255612
 loc_type: city
 longitude: -79.072326
-score: 0.6
+score: 8.4
+snippet: Immaculate Ontario wine town at the Niagara River mouth, with Loyalist streets
+  and Shaw Festival theatres.
 title: Niagara-on-the-Lake
 type: location
 ---

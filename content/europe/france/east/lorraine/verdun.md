@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porte_Verdun.JPG
 latitude: 49.1589
 loc_type: city
 longitude: 5.3867
-score: 0.51
+score: 7.95
+snippet: Meuse River city defined by First World War battlefields, memorials, and
+  an older treaty-making history.
 title: Verdun
 type: location
 ---

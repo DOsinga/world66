@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mirissa-Plage_(3).jpg
 latitude: 5.9483
 loc_type: city
 longitude: 80.4547
+score: 8.92
+snippet: Small Sri Lankan beach town with a curved south-coast bay and whale-watching
+  harbour nearby.
 title: Mirissa
 type: location
 ---

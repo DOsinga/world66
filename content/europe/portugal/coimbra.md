@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Coimbra_e_o_rio_Mondego_(6
 latitude: 40.2112
 loc_type: city
 longitude: -8.4295
-score: 0.67
+score: 8.84
+snippet: Old Portuguese university city on the Mondego River, shaped by students,
+  hills, and Baroque libraries
 title: Coimbra
 type: location
 ---

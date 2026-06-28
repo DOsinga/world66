@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.915
 longitude: -95.3292
+score: 5.4
 ---
 
 Eastern Oklahoma State College is a public community college founded in 1908, occupying a pleasant campus on the west side of Wilburton. The college offers two-year degrees and is a major employer in the area, giving Wilburton more of a college-town feel than most towns its size. The campus grounds are open to visitors and worth a quick walk.

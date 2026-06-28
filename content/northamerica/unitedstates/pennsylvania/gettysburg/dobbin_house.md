@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The 1776 fieldstone house at 89 Steinwehr Avenue is the oldest building in Gettysburg, built two decades before the town was incorporated. The house served as a stop on the Underground Railroad — a small crawl space behind a false fireplace hid escaped enslaved people moving north — and as a field hospital during the battle.

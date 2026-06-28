@@ -9,6 +9,7 @@ longitude: -89.3847
 snippet: "Free outdoor classical music series on Capitol Square every Wednesday evening in summer"
 sources:
   - https://en.wikipedia.org/wiki/Concerts_on_the_Square
+score: 7.7
 ---
 
 Every Wednesday evening from late June through August, the Wisconsin Chamber Orchestra performs a free outdoor concert on the lawn of the Wisconsin State Capitol. Concerts on the Square has been a Madison summer tradition since 1984, and on a good evening several thousand people spread blankets and folding chairs across Capitol Square to listen.

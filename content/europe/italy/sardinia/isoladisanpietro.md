@@ -6,6 +6,8 @@ latitude: 39.148
 loc_type: region
 longitude: 8.296
 score: 0.61
+snippet: Small island off southwest Sardinia, centred on Carloforte and its Ligurian-speaking
+  Tabarchino community.
 title: Isola di San Pietro
 type: location
 ---

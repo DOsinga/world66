@@ -7,6 +7,7 @@ tags:
 - sight
 title: Canoa Beach
 type: poi
+score: 8.4
 ---
 
 Canoa's beach is the reason people come — a long, wide stretch of dark volcanic sand that runs for several kilometres in each direction with almost no development behind it beyond the small town at its centre. The waves are gentle and rolling, ideal for beginner surfers and bodyboarders, and the water is warm year-round. Several shops in town rent boards by the hour or day, and lessons are available.

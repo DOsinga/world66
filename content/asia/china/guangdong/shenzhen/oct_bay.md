@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 22.5220
 longitude: 113.9710
+score: 5.5
 ---
 
 OCT Bay is one of Shenzhen's most dramatic recent developments — a waterfront mixed-use district in Nanshan that has been built out over reclaimed land in the decade since 2010. The area combines luxury residential towers, a shopping strip, a beach, and a marina, and has attracted a cluster of upscale restaurants and bars along the waterfront promenade.

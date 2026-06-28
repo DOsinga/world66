@@ -9,6 +9,7 @@ tags:
 latitude: 45.0730
 longitude: 7.6864
 story: "Until Italy united in 1861, the Savoys reigned from this palace for nearly three centuries — making Turin briefly the first capital of the new country before Florence and Rome stole the title in quick succession."
+score: 8.8
 ---
 
 The Royal Palace of the House of Savoy is the centrepiece of Turin's UNESCO World Heritage circuit. Its dignified seventeenth-century facade onto Piazza Castello hides a sequence of state apartments that runs through gilded throne rooms, an extraordinary Scala delle Forbici staircase by Filippo Juvarra, and chambers hung with portraits of the family that eventually unified Italy.

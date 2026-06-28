@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cuiwei_Garden_85264-Guiyan
 latitude: 26.5794
 loc_type: city
 longitude: 106.7079
+score: 7.01
+snippet: Guizhou capital at 1,100 metres, known for cool weather and as the province's
+  transit hub.
 sources:
 - https://en.wikivoyage.org/wiki/Guiyang
 title: Guiyang

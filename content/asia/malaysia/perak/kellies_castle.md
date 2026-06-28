@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 story: William Kellie Smith began building the mansion in 1915 as a present for his wife, importing Tamil labourers from India for the construction. When seventy of them died of Spanish flu in 1918, he built a Hindu temple in the grounds to placate the spirits. He himself died of pneumonia in Lisbon in 1926 while travelling to buy a lift for the mansion; his widow returned to Scotland and the building was never finished.
+score: 8.2
 ---
 
 **Kellie's Castle** is the unfinished mansion of **William Kellie Smith**, a Scottish rubber and tin baron who arrived in Perak in the 1890s and made a fortune. The building sits on a low hill above the Kinta River at Batu Gajah, 20 km south of Ipoh, and combines Moorish, Indian and Roman elements in an exuberant pink sandstone — turrets, arches, a planned six-storey central tower and a long arcaded gallery.

@@ -3,9 +3,11 @@ done:
   location_cleanup: '2026-04-10'
 latitude: -5.31567
 longitude: 123.585044
+snippet: Remote Southeast Sulawesi marine national park protecting exceptionally biodiverse
+  coral reefs around four main islands.
 title: Wakatobi
 type: location
-score: 0.64
+score: 8.18
 loc_type: feature
 ---
 

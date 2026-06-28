@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Soekarno_bridge_sunset.jpg
 latitude: 1.4748
 loc_type: city
 longitude: 124.8421
-score: 0.55
+score: 8.0
+snippet: North Sulawesi capital and gateway to Bunaken's coral walls and the Minahasa
+  highlands.
 title: Manado
 type: location
 ---

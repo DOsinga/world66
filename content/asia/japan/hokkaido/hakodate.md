@@ -11,7 +11,10 @@ longitude: 140.7202
 sources:
 - https://en.wikipedia.org/wiki/Hakodate
 title: Hakodate
+snippet: Southern Hokkaido port city opened to foreign trade in 1854, with historic
+  Motomachi streets.
 type: location
+score: 8.96
 ---
 
 Hakodate sits at the southern tip of Hokkaido on a narrow peninsula, with the sea on three sides and the volcanic cone of Mount Hakodate rising to 334 metres at its western end. It is one of the most historically interesting cities in northern Japan — the first Japanese port opened to international trade in 1854 under pressure from Commodore Perry's expedition, and the legacy of that early foreign presence shows in the sloping streets of Motomachi, where Russian Orthodox churches, a former British consulate, and Western-style merchant houses survive in good condition.

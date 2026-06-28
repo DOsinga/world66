@@ -9,6 +9,7 @@ tags:
   - neighbourhood
 story: >
   The Shin-Jang district developed specifically to serve the economic needs of American servicemembers stationed at Osan Air Base — a pattern repeated at many bases across South Korea. Over decades, it became genuinely multicultural: Filipino, Thai, and American businesses set up alongside Korean shops, creating a commercial strip unlike anything else in the Gyeonggi region.
+score: 6.8
 ---
 
 The Shin-Jang Economic Zone is the commercial heart of Songtan and its most interesting feature. Running through several blocks near the base's main gate, it has a density of tailors, leather goods shops, and clothing stores that cater to servicemembers looking for custom-made uniforms, suits, and leather jackets at prices far below what they would pay stateside.

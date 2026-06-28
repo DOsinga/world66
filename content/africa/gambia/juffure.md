@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Juffure_(4382825705).jpg
 latitude: 13.4137
 loc_type: city
 longitude: -16.365
-score: 0.42
+score: 6.67
+snippet: Gambia River village associated with Alex Haley's Roots and the Kunta Kinte
+  story.
 title: Juffure
 type: location
 ---

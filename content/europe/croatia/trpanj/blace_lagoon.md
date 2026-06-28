@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The peloid mud at Blace is naturally enriched with sulphur and minerals from the marine environment, and has been used by locals for rheumatic and skin conditions for generations. Bathers in summer can be seen wading out into the shallows, coating themselves head to toe in dark grey mud, and walking back through the shallows to rinse off."
+score: 7.3
 ---
 
 A sheltered, almost-enclosed marine inlet a short walk east of Trpanj, separated from the open sea by a long shingle bar. The shallow water is unusually warm even by Adriatic standards, and the bottom is lined with the fine grey medicinal mud (*peloid*) that has drawn rheumatic and arthritic visitors here for over a century.

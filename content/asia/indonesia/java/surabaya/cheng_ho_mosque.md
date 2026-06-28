@@ -12,6 +12,7 @@ story: >
   Vasco da Gama's rounding of the Cape by nearly a century, and his ships were four times
   larger than anything Europe was building at the time. The mosque honours the long presence
   of Chinese Muslims in the Indonesian archipelago.
+score: 6.9
 ---
 
 The Cheng Ho Mosque is one of the most distinctive buildings in Surabaya — a Chinese-style mosque with an octagonal pagoda design, red and green tiled roofs, and dragon decorations that make it look like a temple at first glance. It was built in 2002 to honour Admiral Zheng He and the historic role of Chinese Muslims in bringing Islam to Java.

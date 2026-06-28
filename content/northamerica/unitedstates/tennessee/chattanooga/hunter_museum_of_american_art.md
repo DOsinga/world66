@@ -8,6 +8,7 @@ title: Hunter Museum of American Art
 type: poi
 snippet: "Major American art collection in a 1904 mansion fused with a modernist addition on the Bluff View"
 story: "The original Beaux-Arts Faxon mansion is glued to a sharply angular 2005 addition by Randall Stout — the two halves stand on the bluff like an architectural argument."
+score: 8.3
 ---
 
 The Hunter holds one of the strongest collections of American art in the South, spanning Hudson River School landscapes to twentieth-century modernism and contemporary work. The collection is hung across a 1904 limestone mansion, a 1975 brutalist block, and a 2005 zinc-and-glass addition that hangs out over the bluff above the Tennessee River.

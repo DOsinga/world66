@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -8.207
 longitude: 114.961
 story: Eight carved naga heads spit hot sulphur water into a series of stone pools, hidden in jungle a few kilometres inland. It is touristy in the middle of the day and almost empty if you arrive at opening time.
+score: 6.8
 ---
 
 Air Panas Banjar — the Banjar hot springs — sit in a small valley behind the same hillside as Brahma Vihara Arama. The water comes out at around 37°C, hot enough to relax in but not painfully so, and is channelled through stone naga (serpent) carvings into three pools at different levels. The lower pool gets a heavy spout from above that doubles as a back massage.

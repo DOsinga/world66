@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Patriata_Charlift.JPG
 latitude: 33.856674
 loc_type: city
 longitude: 73.482003
-score: 0.43
+score: 7.02
+snippet: Galyat hill resort near Murree, reached by chairlift and cable car above
+  forested valleys
 title: Patriata
 type: location
 ---

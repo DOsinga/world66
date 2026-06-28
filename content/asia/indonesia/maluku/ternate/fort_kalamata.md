@@ -7,6 +7,7 @@ tags:
 latitude: 0.7623
 longitude: 127.3731
 snippet: Portuguese star fort on the southern tip of Ternate Island
+score: 7.2
 ---
 
 Fort Kalamata is a coastal star fort built by the Portuguese in the sixteenth century on the southern end of Ternate Island, about 4 kilometres from the town centre. It is a classic example of the bastion-style military architecture that the Portuguese introduced across their empire — designed to withstand cannon fire rather than just archers and scaling ladders.

@@ -6,6 +6,7 @@ longitude: -88.2900
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 The Boulevard Bahía is the long waterfront walk along the edge of Chetumal Bay, stretching for several kilometres from the city centre out toward the Calderitas suburb. Locals come here in the evenings to escape the heat; the breeze off the bay is the main reason you'd walk it.

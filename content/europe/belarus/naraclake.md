@@ -9,6 +9,7 @@ tags:
 - sights
 title: Narach Lake
 type: poi
+score: 7.2
 ---
 
 Narach (also spelled Narac) is the largest lake in Belarus, stretching about 80 square kilometres in the Minsk Region. The area around it has been a resort destination since Soviet times, and several sanatoria still operate on the shores — you can book a stay for a proper rest cure, or just visit for the day. The lake is calm and set among pine forests, making it an easy escape from Minsk.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Tarutao,_Thailand,_Roc
 latitude: 6.486906
 loc_type: city
 longitude: 99.304808
-score: 0.63
+score: 8.33
+snippet: Andaman marine park of jungle islands, mangrove creeks, prison ruins, and
+  lightly developed beaches
 title: Tarutao
 type: location
 ---

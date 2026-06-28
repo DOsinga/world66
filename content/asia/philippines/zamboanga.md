@@ -8,8 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Fort_Pilar_Shrine,_Zamboanga_City,_Mar_2026_(1).jpg
 latitude: 6.9135
 loc_type: city
+snippet: Mindanao port city where Spanish fortifications, Muslim tradition, and Chavacano
+  culture meet near Basilan Strait
 longitude: 122.0739
-score: 0.41
+score: 6.45
 title: Zamboanga
 type: location
 ---

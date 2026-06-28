@@ -1,6 +1,9 @@
 ---
 address: Corner Suikerrui and Kaaien
+latitude: 51.2215
+longitude: 4.3975
 opening_hours: noon till ...
+score: 4.8
 tags:
 - bars_and_cafes
 - bar

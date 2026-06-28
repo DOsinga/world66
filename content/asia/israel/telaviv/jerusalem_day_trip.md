@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 31.7784
 longitude: 35.2354
+score: 8.0
 ---
 
 Jerusalem is fifty kilometres from Tel Aviv and reachable by direct train from Tel Aviv Savidor in about forty-five minutes. As a day trip from Tel Aviv it is by definition compressed, but worth it.

@@ -1,12 +1,14 @@
 ---
-latitude: 35.0500
+latitude: 35.05
 longitude: 135.7647
+score: 6.7
 snippet: Japan's oldest public botanical garden, with 12,000 species
 tags:
 - things_to_do
 - garden
 - park
 - sight
+- downtown_kyoto
 title: Kyoto Botanical Garden
 type: poi
 ---

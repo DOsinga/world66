@@ -9,6 +9,7 @@ tags:
   - basseterre
 neighbourhood: Basseterre
 story: "The square was laid out in 1790 as Pall Mall Square and used as a slave market. After emancipation it was renamed Georgian Square, and only in 1983, when St. Kitts and Nevis gained independence, did it receive its current name."
+score: 6.8
 ---
 
 A Georgian square at the heart of Basseterre, ringed by colonial townhouses and centred on an ornamental fountain. It is the most pleasant green space in town: shaded by tall trees, lined with benches, and bordered by some of the prettiest old buildings on the island, including the Co-Cathedral of the Immaculate Conception on its eastern side.

@@ -7,9 +7,11 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Ferry_in_Mombasa,_Kenya.jpg
 latitude: -4.2833
 longitude: 39.5667
+snippet: Kenyan coast south of Mombasa, linking Shelly, Tiwi, and Diani beaches behind
+  the coral reef.
 title: South of Mombasa
 type: location
-score: 0.54
+score: 7.62
 loc_type: city
 ---
 

@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Panama.jpg
 latitude: 9.3403
 loc_type: city
 longitude: -82.242
-score: 0.61
+score: 8.67
+snippet: Panamanian Caribbean island archipelago of stilt-house towns, coral reefs,
+  and jungle-backed beaches.
 title: Bocas del Toro
 type: location
 ---

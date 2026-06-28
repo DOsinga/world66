@@ -14,6 +14,7 @@ story: >
   its striking elliptical dome, was left deliberately plain on the outside so
   that the ornamented tile panels donated by Catholic communities around the
   world would draw the eye on every wall.
+score: 9.3
 ---
 
 The Basilica of the Annunciation is the largest church in the Middle East and one of the most important Catholic pilgrimage sites anywhere. The current building dates from 1969, but the site has been venerated since the Byzantine period — it stands over the grotto traditionally identified as the home of Mary, where the angel Gabriel appeared to her. The lower church preserves the grotto and remnants of the Byzantine and Crusader-era churches that preceded the current building.

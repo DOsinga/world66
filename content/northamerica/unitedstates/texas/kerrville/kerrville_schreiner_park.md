@@ -11,6 +11,7 @@ address: "2385 Bandera Hwy, Kerrville, TX 78028"
 latitude: 30.0108
 longitude: -99.1206
 snippet: 517 acres of Hill Country on the Guadalupe River, good for camping, hiking, and swimming
+score: 8.0
 ---
 
 Kerrville-Schreiner Park sits on the Guadalupe River about two miles south of downtown, covering 517 acres of typical Hill Country terrain — limestone bluffs, cedar and live oak woodland, and clear river frontage. The park has a good network of hiking trails through the hills, several miles of river access for swimming and wading, and a campground that fills up on summer weekends and during the Folk Festival.

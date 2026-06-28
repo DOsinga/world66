@@ -14,6 +14,7 @@ story: >
   campaigned to clean the river and reduce disturbance. A handful of cranes
   returned in 2014, and now a small but stable wintering flock arrives each
   November.
+score: 8.8
 ---
 
 Sangti is a broad, flat-bottomed valley about ten kilometres from Dirang, reached by a steep road that drops down through pine forest into wide terraced fields. The Sangti river runs through the middle of it, bordered by rice paddies and apple orchards. The villages along the road are Monpa, with whitewashed houses and prayer flags strung between rooftops.

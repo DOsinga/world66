@@ -5,8 +5,10 @@ done:
 latitude: 33.887278
 loc_type: city
 longitude: -118.410432
-score: 0.53
+score: 7.7
 title: Manhattan Beach
+snippet: South Bay beach town with a broad Pacific beach, surf pier, and affluent
+  low-key centre.
 type: location
 ---
 

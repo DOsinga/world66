@@ -7,6 +7,7 @@ tags:
 neighbourhood: Yas Island
 latitude: 24.4919
 longitude: 54.6009
+score: 7.6
 ---
 
 The Abu Dhabi outpost of SeaWorld, opened in 2023, with the deliberate decision not to feature orcas or cetacean shows — a break with the brand's history. Instead the focus is on a vast central aquarium and themed marine habitats from the polar regions to the tropics, presented across multiple levels.

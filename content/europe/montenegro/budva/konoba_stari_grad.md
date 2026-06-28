@@ -8,6 +8,7 @@ tags:
   - restaurant
   - seafood
 snippet: Traditional Montenegrin seafood konoba inside the old town walls
+score: 6.1
 ---
 
 Among the restaurants packed into the old town, Konoba Stari Grad is one of the more reliably good choices for Montenegrin seafood. The menu follows the coast: grilled fish sold by weight, black risotto, mussels from the Bay of Kotor, and the local platter of mixed seafood that most coastal konobi offer in summer. The setting — stone walls, wooden tables, a terrace wedged between old buildings — is exactly what you'd hope for inside the old town.

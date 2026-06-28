@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 5.8
 ---
 
 The retractable-roof home of the NFL Indianapolis Colts, opened in 2008. The stadium has hosted a Super Bowl (XLVI), multiple NCAA Final Fours, and during the 2021 NCAA tournament served as the central hub for the entire pandemic-bubble March Madness.

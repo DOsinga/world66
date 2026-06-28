@@ -1,16 +1,21 @@
 ---
-title: The Venetian
-type: poi
 address: 3355 South Las Vegas Blvd
 latitude: 36.1214
 longitude: -115.1689
-snippet: "Italian-themed mega-resort with indoor canals and replica St Mark's Square"
+score: 7.2
+snippet: Italian-themed mega-resort with indoor canals and replica St Mark's Square
+story: 'The Venetian''s replica Campanile is two-thirds the height of the real one
+  in St Mark''s Square. When the resort opened in 1999, it imploded the historic Sands
+  hotel — Frank Sinatra''s old Rat Pack haunt — to clear the site.
+
+  '
 tags:
 - things_to_do
 - sight
 - center_strip
-story: >
-  The Venetian's replica Campanile is two-thirds the height of the real one in St Mark's Square. When the resort opened in 1999, it imploded the historic Sands hotel — Frank Sinatra's old Rat Pack haunt — to clear the site.
+- the_strip
+title: The Venetian
+type: poi
 ---
 
 The Venetian opened in 1999 on the site of the demolished Sands and went all-in on a Venice theme: indoor canals with singing gondoliers, a recreated St Mark's Square under a painted ceiling, hand-painted frescoes, and a replica of the Rialto Bridge. The Grand Canal Shoppes mall connects directly through the canal-side passages, all bathed in artificial dusk light.

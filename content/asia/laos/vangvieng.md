@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Colorful_sky_with_orange_c
 latitude: 18.953896
 loc_type: city
 longitude: 102.456391
-score: 0.63
+score: 8.42
 title: Vang Vieng
 type: location
+snippet: Nam Song river town in Laos, surrounded by limestone karst mountains and
+  caves.
 ---
 
 Vang Vieng sits on the Nam Song river between [Vientiane](/asia/laos/vientiane) and [Luang Prabang](/asia/laos/luangprabang), surrounded by dramatic limestone karst mountains honeycombed with caves. Once notorious as a backpacker party town, it has reinvented itself as an outdoor adventure destination -- though the riverside bars have not entirely disappeared.

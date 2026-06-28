@@ -7,6 +7,7 @@ snippet: Workaday Ottoman-era streets and souk below the castle
 tags:
   - things_to_do
   - neighbourhood
+score: 7.3
 ---
 
 The old town spreads downhill from the castle gate in a tangle of narrow streets and Ottoman houses, many of them built from the same honey-coloured limestone as the fortress above. It is not a manicured tourist zone — this is a real Jordanian town with a daily souk, a couple of mosques, several pastry shops, and the usual confusion of taxis and pickup trucks.

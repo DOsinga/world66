@@ -8,6 +8,7 @@ latitude: 49.7480
 longitude: -125.3050
 story: >
   Mount Washington receives more snow than almost anywhere else in western Canada — the mountain sits at the convergence of Pacific storm systems and the Vancouver Island Ranges, and averages well over seven metres of snowfall in a good season. For an island resort, the snowpack is remarkable, and conditions can rival interior resorts that visitors might normally think of as in a different league.
+score: 8.6
 ---
 
 Mount Washington Alpine Resort is the dominant skiing destination on Vancouver Island, located about thirty kilometres west of Courtenay in the Vancouver Island Mountains. In winter it offers downhill skiing, snowboarding, and extensive cross-country trails; in summer the lifts run for hikers and mountain bikers exploring the alpine terrain above the treeline.

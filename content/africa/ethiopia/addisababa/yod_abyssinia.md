@@ -7,6 +7,7 @@ tags:
 latitude: 9.0195
 longitude: 38.7578
 snippet: "Long-running cultural restaurant with traditional food and regional dances"
+score: 6.8
 ---
 
 One of the city's most established cultural restaurants, Yod Abyssinia has been hosting travellers and locals for decades in a large compound near Bole. The format is familiar: a selection of injera-based dishes served on a shared mesob (woven table), followed by traditional music and dance performances representing Ethiopia's different regions and ethnic groups.

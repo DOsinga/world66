@@ -8,10 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Savognin03.JPG
 latitude: 46.5969
 loc_type: city
 longitude: 9.598
-score: 0.55
+score: 7.74
+snippet: Graubünden mountain village in the Surses valley, a low-key family ski and
+  hiking base.
 sources:
-  - https://en.wikipedia.org/wiki/Savognin
-  - https://en.wikipedia.org/wiki/Parc_Ela
+- https://en.wikipedia.org/wiki/Savognin
+- https://en.wikipedia.org/wiki/Parc_Ela
 title: Savognin
 type: location
 ---

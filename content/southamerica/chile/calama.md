@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mina_de_Chuquicamata,_Cala
 latitude: -22.462392
 loc_type: city
 longitude: -68.927218
-score: 0.4
+score: 6.59
+snippet: Atacama mining city and high-desert transit hub for Chuquicamata and San
+  Pedro de Atacama.
 title: Calama
 type: location
 ---

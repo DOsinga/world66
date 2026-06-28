@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.4849
 longitude: -80.1427
+score: 6.4
 ---
 
 The Mon River Rail-Trail follows the Monongahela River through Fairmont on a former B&O Railroad rail corridor, offering flat, paved cycling and walking along the riverbank. The trail is part of a larger network of rail-trails following the Monongahela and its tributaries, which eventually connects to the Allegheny Highlands Trail and the larger Mon/Ohio River Trail system. For cyclists, Fairmont is a useful waypoint on a longer river trail journey.

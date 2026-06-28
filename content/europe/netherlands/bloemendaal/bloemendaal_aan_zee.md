@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 7.3
 ---
 
 Bloemendaal aan Zee is the small beach settlement at the western end of the municipality — a single street of restaurants, surf shops, and rental cabins running down to the wide North Sea beach. From late spring to early autumn the beach itself is transformed by a row of *strandtenten*: temporary pavilion-restaurants that pop up on the sand, with DJs, deck chairs, cocktails, and a famously party-prone crowd.

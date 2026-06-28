@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - albanian
+score: 7.2
 ---
 
 Bledar Kola, the chef-owner, trained at Noma in Copenhagen before opening Mullixhiu on the edge of the Grand Park in 2016. It is the most ambitious restaurant in Tirana — a serious tasting-menu kitchen built entirely from Albanian mountain ingredients: wild herbs, grains from small upland farms, sheep's cheese, foraged greens.

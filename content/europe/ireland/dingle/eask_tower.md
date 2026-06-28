@@ -6,6 +6,7 @@ longitude: -10.2812
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Eask Tower is a 12-metre stone signal tower on Carhoo Hill above the entrance to Dingle harbour, built as a famine relief project in 1847 and topped with a wooden hand pointing seaward to guide ships into port. The hand is long gone but the tower itself stands undisturbed, and the climb up is the easiest panoramic view of Dingle Bay and the town.

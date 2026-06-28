@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Asansol_Junction_Railway_S
 latitude: 23.68713
 loc_type: city
 longitude: 86.974659
-score: 0.3
+score: 5.47
+snippet: West Bengal coalfield city and railway junction, long shaped by its black
+  diamond industry.
 title: Asansol
 type: location
 ---

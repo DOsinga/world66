@@ -8,6 +8,7 @@ latitude: 4.3761
 longitude: -7.7169
 story: >
   Cape Palmas marks one of the great turning points of the African coastline — the precise spot where the West African coast swings definitively eastward to begin the Gulf of Guinea. The International Hydrographic Organization treats this headland as the formal western boundary of the Gulf of Guinea, a navigational milestone that mariners have reckoned with for centuries.
+score: 8.6
 ---
 
 Cape Palmas is the rocky headland that forms Harper's southern tip and gives it its commanding setting. A lighthouse warns ships off the shoals in the surrounding waters, and the view from the cape — ocean on three sides, the Hoffman River estuary behind — is spectacular. The cape sits on a peninsula connected to the mainland by a sandy isthmus, and the contrast between the pounding Atlantic surf on the exposed sides and the calmer waters of the estuary is striking.

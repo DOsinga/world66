@@ -7,6 +7,7 @@ tags:
 latitude: 31.6177
 longitude: -2.2240
 snippet: "Regional market with goods from the Saoura oases and across the Sahara"
+score: 7.4
 ---
 
 The morning souk in central Béchar is one of the more interesting markets in southwestern Algeria, drawing traders from the Saoura oases and as far as the Mauritanian border. The stalls run heavy on dates from the surrounding palm groves, dried desert herbs and spices, Saharan textiles and rugs, and the leatherwork — saddles, bags, sandals — that has long been a speciality of the region.

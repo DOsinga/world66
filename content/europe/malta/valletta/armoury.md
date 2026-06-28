@@ -13,6 +13,7 @@ story: >
   The collection also includes armour captured from Ottoman soldiers at the siege — some of
   it still bearing damage from the battle — making it a rare surviving artefact of one of
   the defining military confrontations of the 16th century.
+score: 8.1
 ---
 
 The Palace Armoury occupies the southern wing of the Grand Masters' Palace on Republic Street and holds one of Europe's most significant collections of medieval and Renaissance arms and armour. The 5,000-piece collection includes complete suits of armour for individual Grand Masters, Ottoman weapons captured at the Great Siege of 1565, and a remarkable range of period firearms, pikes, and swords. The armour is displayed largely as it would have been in the original armoury — ranked in rows, as if a standing army had just removed their equipment.

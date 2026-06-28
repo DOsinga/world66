@@ -12,6 +12,7 @@ story: >
   beneath eroded away over millennia, leaving the harder volcanic capstone perched
   like a lid above the city. The Crow people called the cliffs Áakbaaliia — "the high
   cliffs" — and used them as hunting grounds for driving bison herds over the edge.
+score: 7.8
 ---
 
 The defining geographical feature of Billings, a continuous band of sandstone and volcanic rock cliffs that runs along the northern edge of the city for several miles. From the top — accessible by car or by several hiking trails — the view takes in the entire Yellowstone Valley, the city below, and on clear days the snow-capped Beartooth Mountains to the southwest.

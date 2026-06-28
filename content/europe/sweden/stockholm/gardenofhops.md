@@ -10,6 +10,7 @@ tags:
 - ostermalm
 title: Garden of Hops
 type: poi
+score: 5.0
 ---
 
 A craft beer bar in Östermalm with a strong rotating selection of Swedish and international brews on tap. The atmosphere is relaxed and knowledgeable without being pretentious, and the staff are happy to guide you through the menu. A good spot to sample what Sweden's growing craft scene has to offer.

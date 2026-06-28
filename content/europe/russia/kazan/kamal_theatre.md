@@ -9,6 +9,7 @@ tags:
   - architecture
   - theatre
   - old_tatar_quarter
+score: 7.0
 ---
 
 The Kamal Tatar Academic Theatre is the leading Tatar-language theatre in Russia, performing classical and modern drama in Tatar with Russian and sometimes English headphone translation. The building, finished in 1986 on the shore of Lake Kaban at the edge of the Old Tatar Quarter, is a large concrete fan-shape often cited as one of the finest pieces of late-Soviet architecture in Russia.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 19.6912
 longitude: -98.8455
+score: 7.6
 ---
 
 A small but rewarding museum displaying detached murals from the site, including pieces that would otherwise be impossible to see — fragments from Tetitla and Tepantitla that were lifted off the walls during excavation campaigns in the twentieth century to protect them from weather and looting. The display is dimly lit (which is correct for the surviving pigment) and is the only place to see some of the city's finest paintings up close.

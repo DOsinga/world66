@@ -8,6 +8,7 @@ latitude: -5.7933
 longitude: -35.2008
 sources:
   - https://en.wikipedia.org/wiki/Luís_da_Câmara_Cascudo
+score: 7.8
 ---
 
 The Museu Câmara Cascudo is named for Luís da Câmara Cascudo, Rio Grande do Norte's most celebrated intellectual — a prolific folklorist, historian, and ethnographer who spent most of his life in Natal. The museum covers the natural history, archaeology, and popular culture of the northeastern Brazil, with collections that reflect Câmara Cascudo's lifelong obsession with understanding the people and landscapes of the region.

@@ -8,6 +8,7 @@ latitude: 50.0042
 longitude: 5.7200
 sources:
   - https://en.wikipedia.org/wiki/Bastogne
+score: 5.8
 ---
 
 The central square of Bastogne is named for General Anthony McAuliffe, the American commander whose one-word reply — "Nuts!" — to a German surrender demand became one of the most celebrated moments of the Battle of the Bulge. A Sherman tank stands at the centre of the square as a permanent monument, and a statue of McAuliffe himself looks over the space. The square is ringed with cafes and restaurants and is the social heart of the town.

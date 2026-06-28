@@ -1,200 +1,200 @@
 {
   "round": 930,
-  "timestamp": "2026-04-12T16:08:03",
+  "timestamp": "2026-06-13T20:01:30",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Machu Picchu",
-      "path": "southamerica/peru/machupicchu",
-      "prior_rank": 117,
-      "prior_wins": 69,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.5757,
+      "prior_variance": 1.030937,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Petra",
-      "path": "asia/jordan/petra",
-      "prior_rank": 23,
-      "prior_wins": 65,
-      "prior_n": 3
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 6.0167,
+      "prior_variance": 0.973348,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "San Crist\u00f3bal Island",
-      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
-      "prior_rank": 147,
-      "prior_wins": 22,
-      "prior_n": 1
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 6.6109,
+      "prior_variance": 0.90005,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Rarotonga",
-      "path": "australiaandpacific/cookislands/rarotonga",
-      "prior_rank": 34,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "Torla-Ordesa",
+      "path": "europe/spain/aragon/torla",
+      "prior_score": 9.6882,
+      "prior_variance": 0.78201,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Seville",
-      "path": "europe/spain/andalucia/seville",
-      "prior_rank": 80,
-      "prior_wins": 46,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 6.3682,
+      "prior_variance": 0.697585,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Rhodes",
-      "path": "europe/greece/rhodes",
-      "prior_rank": 134,
-      "prior_wins": 22,
-      "prior_n": 1
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 5.3849,
+      "prior_variance": 0.458162,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Bangkok",
-      "path": "asia/thailand/bangkok",
-      "prior_rank": 31,
-      "prior_wins": 46,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 7.0634,
+      "prior_variance": 0.659631,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Hong Kong",
-      "path": "asia/china/hongkong",
-      "prior_rank": 189,
-      "prior_wins": 89,
-      "prior_n": 4
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 6.5498,
+      "prior_variance": 0.666363,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Amsterdam",
-      "path": "europe/netherlands/amsterdam",
-      "prior_rank": 72,
-      "prior_wins": 230,
-      "prior_n": 10
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 8.42,
+      "prior_variance": 0.799456,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Yosemite",
-      "path": "northamerica/unitedstates/california/highsierra/yosemite",
-      "prior_rank": 99,
-      "prior_wins": 23,
-      "prior_n": 1
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 4.0544,
+      "prior_variance": 0.72899,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Big Sur",
-      "path": "northamerica/unitedstates/california/big_sur",
-      "prior_rank": 137,
-      "prior_wins": 45,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 8.492,
+      "prior_variance": 0.835013,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Krakow",
-      "path": "europe/poland/krakow",
-      "prior_rank": 239,
-      "prior_wins": 68,
-      "prior_n": 3
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 6.6924,
+      "prior_variance": 1.053218,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Pamplona",
-      "path": "europe/spain/navarre/pamplona",
-      "prior_rank": 197,
-      "prior_wins": 66,
-      "prior_n": 3
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 4.3732,
+      "prior_variance": 0.670255,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Kazbegi",
-      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
-      "prior_rank": 249,
-      "prior_wins": 45,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 6.0906,
+      "prior_variance": 1.285825,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Los Angeles",
-      "path": "northamerica/unitedstates/california/losangeles",
-      "prior_rank": 208,
-      "prior_wins": 22,
-      "prior_n": 1
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 8.0797,
+      "prior_variance": 0.746917,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Dingli",
-      "path": "europe/malta/dingli",
-      "prior_rank": 6259,
-      "prior_wins": 4,
-      "prior_n": 1
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 6.1015,
+      "prior_variance": 0.382772,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Marawi City",
-      "path": "asia/philippines/marawi_city",
-      "prior_rank": 8085,
-      "prior_wins": 0,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 8.5514,
+      "prior_variance": 1.046177,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Guinea-Bissau",
-      "path": "africa/guineabissau",
-      "prior_rank": 8154,
-      "prior_wins": 0,
-      "prior_n": 1
-    },
-    {
-      "rank": 19,
-      "title": "Hong",
-      "path": "africa/nigeria/yola/hong",
-      "prior_rank": 8226,
-      "prior_wins": 0,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 5.8318,
+      "prior_variance": 0.548511,
       "prior_n": 3
     },
     {
+      "rank": 19,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 7.4073,
+      "prior_variance": 0.926698,
+      "prior_n": 2
+    },
+    {
       "rank": 20,
-      "title": "Zinga",
-      "path": "africa/centralafricanrepublic/zinga",
-      "prior_rank": 8202,
-      "prior_wins": 0,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 7.2722,
+      "prior_variance": 0.724607,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Libya",
-      "path": "africa/libya",
-      "prior_rank": 8177,
-      "prior_wins": 2,
-      "prior_n": 3
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 6.6355,
+      "prior_variance": 0.670311,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Las Anod",
-      "path": "africa/somalia/lasanod",
-      "prior_rank": 8094,
-      "prior_wins": 0,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 2.2662,
+      "prior_variance": 0.727032,
       "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "J-1 On-line Internet Cafe",
-      "path": "asia/philippines/manila/j1_online_intern",
-      "prior_rank": 8153,
-      "prior_wins": 0,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 3.0527,
+      "prior_variance": 0.820515,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Starbucks Coffee",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/starbuckscoffee",
-      "prior_rank": 8227,
-      "prior_wins": 0,
-      "prior_n": 3
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -2.9288,
+      "prior_variance": 0.60426,
+      "prior_n": 2
     }
   ]
 }

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Robert Maillart designed the Salginatobel in 1929 because his firm submitted the cheapest bid — a Swiss village outsourcing engineering for a remote farmhouse access road. The American Society of Civil Engineers named it the first International Historic Civil Engineering Landmark in 1991. It is still in everyday use."
+score: 8.8
 ---
 
 The Salginatobel Bridge is the world's most celebrated thin-shell concrete arch — Robert Maillart's 1930 masterpiece, leaping a 90-metre alpine gorge in a single, impossibly slender curve. It is regarded as one of the most important works of 20th-century engineering and was the first concrete bridge designated an international historic civil engineering landmark.

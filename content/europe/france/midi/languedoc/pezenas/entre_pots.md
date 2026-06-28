@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.4612
 longitude: 3.4230
+score: 6.2
 ---
 
 L'Entre Pots is consistently the best table in Pézenas — the kind of place that gets serious about local produce without making it feel like a statement. The wine list is strong and regional, and if you are undecided ask for the "Elixir" from Domaine Condamine Bertrand, a Coteaux du Languedoc estate that reliably delivers. The kitchen does excellent things with sweetbreads and chanterelles when the season allows.

@@ -6,6 +6,7 @@ tags:
   - hiking
 latitude: 13.2833
 longitude: 122.0167
+score: 7.7
 ---
 
 Mount Malindig is Marinduque's highest point at 1,157 metres, a dormant volcano in the island's southern interior. The ascent through forest takes most hikers five to eight hours return, depending on the trail used and fitness level. The upper slopes are cool and the forest is intact; the summit gives views across the whole island and, on clear days, to Mindoro to the west and the Bondoc Peninsula of Quezon Province to the north.

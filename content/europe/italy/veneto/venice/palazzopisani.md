@@ -6,11 +6,13 @@ email: info@pisanimoretta.com
 latitude: 45.43726
 longitude: 12.32772
 phone: +39 041 5285343
+score: 7.2
 snippet: Gothic palace on the Grand Canal with Tiepolo frescoes
 tags:
 - things_to_do
 - architecture
 - sight
+- san_polo
 title: Palazzo Pisani Moretta
 type: poi
 url: www.pisanimoretta.com

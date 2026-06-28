@@ -5,7 +5,9 @@ done:
 latitude: 42.876142
 loc_type: city
 longitude: 74.603672
-score: 0.46
+score: 7.28
+snippet: Spacious Kyrgyz capital of Soviet boulevards and leafy parks beneath the
+  Kyrgyz Ala-Too mountains.
 title: Bishkek
 type: location
 ---

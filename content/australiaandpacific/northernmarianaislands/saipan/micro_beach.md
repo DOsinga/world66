@@ -5,6 +5,7 @@ latitude: 15.209
 longitude: 145.716
 snippet: "The main beach of the Garapan area — calm lagoon water, white sand, popular with Japanese visitors and locals alike."
 tags: [beaches, beach]
+score: 6.5
 ---
 
 Micro Beach runs along the western edge of Garapan, sheltered by the reef that encloses the lagoon. The water is genuinely calm — flat enough most days for young children — and stays warm year-round. The bottom is sand and very shallow for a long way out, which makes it good for wading. Sunrise catches the water here when the light is still low and orange; it is also one of the few beaches on the island with enough infrastructure (hotels, restaurants, rental shops) within walking distance to make a full day here practical.

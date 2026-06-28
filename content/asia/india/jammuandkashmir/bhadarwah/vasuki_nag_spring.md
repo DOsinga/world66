@@ -6,6 +6,7 @@ longitude: 75.7250
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Vasuki Nag is a natural spring named for the serpent deity Vasuki — the naga gods associated with water and healing are venerated throughout the Himalayan foothills, and spring sites like this one are among the oldest sacred places in the region. The spring feeds a small tank or pool and is considered holy by local Hindus.

@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 47.6000
 longitude: 9.2000
+score: 7.6
 ---
 
 The Bodensee-Radweg is a 260 km cycling route that loops around Lake Constance through three countries — Switzerland, Germany, and Austria. The Thurgau section runs along the entire south shore from Kreuzlingen through Romanshorn and Arbon to Rorschach, mostly on a dedicated path or quiet farm road, paralleling the lake within sight of the water for most of the distance.

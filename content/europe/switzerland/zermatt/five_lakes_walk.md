@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 46.0165
 longitude: 7.7610
+score: 9.2
 ---
 
 The Five Lakes Walk is the most popular hiking route near Zermatt — a circular trail of about 9 kilometres that passes five alpine lakes at different altitudes, each offering a different view of the Matterhorn. The walk is accessible from the Sunnegga Paradise cable car (take it up, walk back to Zermatt) and takes three to four hours at a moderate pace.

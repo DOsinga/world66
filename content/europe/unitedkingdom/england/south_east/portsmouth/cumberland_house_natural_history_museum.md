@@ -8,6 +8,7 @@ tags:
   - museum
   - southsea
 neighbourhood: Southsea
+score: 5.9
 ---
 
 A small but well-presented natural history museum facing Canoe Lake in Southsea. Displays cover the geology and wildlife of the Hampshire coast — birds, fossils, reptiles, freshwater and marine fish — and a free-flying butterfly house operates from spring to autumn in a glasshouse at the back.

@@ -8,6 +8,7 @@ tags:
 latitude: 30.3768
 longitude: 35.4475
 story: "A small upper chamber in the so-called Painted Biclinium retains the only surviving Nabataean wall paintings — vines, putti, masks, and birds in Hellenistic style, miraculously preserved by soot from later Bedouin cooking fires."
+score: 8.4
 ---
 
 A miniature version of Petra eight kilometres north, in a slot canyon a fraction of the size of the main Siq. It served as a caravanserai for the trade caravans arriving from the north — temples, dining rooms, water cisterns, and storage chambers all carved into the rock.

@@ -5,10 +5,12 @@ done:
 latitude: 41.8321
 longitude: 12.4781
 phone: +39 06 5926041
+score: 6.0
 snippet: Massive scale model of Imperial Rome in the EUR district
 tags:
 - things_to_do
 - museum
+- testaccio
 title: Museum of Roman Civilization
 type: poi
 ---

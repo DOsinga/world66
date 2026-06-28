@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 54.1758
 longitude: -6.3392
+score: 4.9
 ---
 
 The Brass Monkey on Trevor Hill is the long-established gastropub of central Newry, a busy two-storey place that handles everything from a quick lunch to a long dinner. The kitchen is honest pub food done a step above average — steaks, fish, a decent pint of Guinness, and a reliable Sunday roast.

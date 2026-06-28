@@ -6,6 +6,7 @@ longitude: -1.0950
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 Britain's second-busiest cross-Channel ferry port after Dover. Brittany Ferries runs services to Caen, St-Malo, Cherbourg, Le Havre, Santander and Bilbao; Condor Ferries serves Jersey, Guernsey and St-Malo; DFDS connects to Cherbourg.

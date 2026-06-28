@@ -1,0 +1,200 @@
+{
+  "round": 3687,
+  "timestamp": "2026-06-13T23:12:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 8.1937,
+      "prior_variance": 0.162285,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 3.7085,
+      "prior_variance": 0.138835,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 2.5685,
+      "prior_variance": 0.132494,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.6382,
+      "prior_variance": 0.16037,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": 0.1087,
+      "prior_variance": 0.117979,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": -1.5036,
+      "prior_variance": 0.123957,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.2555,
+      "prior_variance": 0.109345,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Lanciano",
+      "path": "europe/italy/abruzzo/lanciano",
+      "prior_score": 0.2632,
+      "prior_variance": 0.12078,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": -0.9003,
+      "prior_variance": 0.108588,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": -1.355,
+      "prior_variance": 0.134525,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -1.3103,
+      "prior_variance": 0.106562,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.9366,
+      "prior_variance": 0.125806,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -1.4328,
+      "prior_variance": 0.107362,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": -1.4184,
+      "prior_variance": 0.107482,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -0.5749,
+      "prior_variance": 0.104118,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -5.4575,
+      "prior_variance": 0.141262,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -0.772,
+      "prior_variance": 0.136348,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -2.6404,
+      "prior_variance": 0.122013,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.0951,
+      "prior_variance": 0.11308,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.1426,
+      "prior_variance": 0.114104,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.0779,
+      "prior_variance": 0.16801,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.238,
+      "prior_variance": 0.13481,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Danzhou",
+      "path": "asia/china/hainanisland/danzhou",
+      "prior_score": -2.4447,
+      "prior_variance": 0.12187,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -6.7098,
+      "prior_variance": 0.184688,
+      "prior_n": 11
+    }
+  ]
+}

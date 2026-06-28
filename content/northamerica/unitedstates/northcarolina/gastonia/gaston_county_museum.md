@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2625
 longitude: -81.1644
+score: 7.0
 ---
 
 The Gaston County Museum of Art and History in Dallas — the county seat that predates Gastonia — focuses on the textile industry that defined this region for nearly a century. The museum documents life in the mill villages that once housed thousands of workers in company-owned houses, schools, and churches in a paternalistic system unique to the Piedmont South. Photographs, machinery, and personal artifacts bring the mills to life in a way that no historic building quite can.

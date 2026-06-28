@@ -1,6 +1,7 @@
 ---
+score: 4.8
 title: Things to do in Gardenstown
-type: poi
+type: section
 ---
 
 This is a very scenic part of Scotland with cliffs eastwards to Rosehearty and westwards to Macduff, there are many secluded beaches between the cliffs, a special area for people looking for peace and quiet, great for painters and photographers, bird watching is becoming more popular with RSPB opening a sanctuary at nearby Troup Head. (Stan Bruce 21 Jan 2006)

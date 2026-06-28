@@ -15,6 +15,7 @@ story: >
   wooden pagoda on this site burned down in 1044; the replacement you see
   today was built in 1049 and has survived eight centuries of Yellow River
   floods, earthquakes, and war.
+score: 9.1
 ---
 
 The Iron Pagoda of Youguo Temple is the most visually striking monument in Kaifeng — thirteen octagonal stories, 54 metres tall, its exterior faced with glazed bricks in an interlocking pattern that gives the whole surface a lustrous, almost metallic appearance. Built in 1049 during the Northern Song dynasty, it is one of the finest examples of Song-dynasty ceramic architecture, and its extraordinary state of preservation after nearly a thousand years of Yellow River floods and seismic events is testament to the quality of its original construction.

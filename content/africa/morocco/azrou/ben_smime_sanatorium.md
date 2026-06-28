@@ -6,6 +6,7 @@ longitude: -5.1700
 tags:
   - sight
   - ruin
+score: 7.3
 ---
 
 The abandoned tuberculosis sanatorium at Ben Smime, twenty kilometres north of Azrou on the road to Meknes, is one of the more eerie places in the Middle Atlas. Built by the French in the 1930s to take advantage of the cool, dry mountain air, it operated until the 1970s and has stood empty ever since.

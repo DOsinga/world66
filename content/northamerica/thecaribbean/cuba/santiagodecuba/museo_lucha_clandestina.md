@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.0230
 longitude: -75.8260
+score: 7.3
 ---
 
 A small but effective museum set in a hilltop colonial building that was once the headquarters of the Batista regime's police in Santiago. The museum covers the urban underground movement that supported Castro's guerrillas in the Sierra Maestra during the late 1950s — the sabotage campaigns, the safe houses, the student networks, and the women who ran much of the logistics.

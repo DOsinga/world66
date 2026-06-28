@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Cathédrale Saint-Bénigne sits on the site of a Benedictine abbey founded over the tomb of Saint Benignus, a 2nd-century martyr. The present Gothic church was completed around 1325; the steeply pointed coloured-tile roof — Burgundy's signature material — was rebuilt in the 19th century.

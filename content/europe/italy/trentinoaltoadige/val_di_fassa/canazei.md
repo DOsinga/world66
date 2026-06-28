@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Canazei1.JPG
 latitude: 46.476881
 loc_type: city
 longitude: 11.771075
-score: 0.65
+score: 8.71
+snippet: Dolomite village in Val di Fassa, beneath Marmolada and linked to the Sella
+  Ronda
 title: Canazei
 type: location
 ---

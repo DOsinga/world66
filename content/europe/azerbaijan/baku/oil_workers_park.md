@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.2
 ---
 
 The Sabir Garden, a small public park immediately outside the western wall of the Old City, has at its centre a bronze statue of the satirical poet Mirza Alakbar Sabir, who wrote in the early twentieth century. The sculpture itself dates from 1922 and is one of the oldest pieces of public statuary in the city.

@@ -8,6 +8,7 @@ tags:
   - sight
   - basseterre
 neighbourhood: Basseterre
+score: 6.1
 ---
 
 The closest thing Basseterre has to a centre, The Circus is a small traffic roundabout where four streets meet, vaguely inspired by London's Piccadilly Circus. In its middle stands the green cast-iron Berkeley Memorial clock tower, erected in 1883 in memory of a popular local statesman.

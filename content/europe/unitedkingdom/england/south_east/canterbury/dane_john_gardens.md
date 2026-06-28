@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 51.27492
 longitude: 1.07783
+score: 6.6
 ---
 
 Tucked inside the southern city walls, the Dane John Gardens are an unexpected pocket of green in the middle of the old town. The mound at the centre — known locally as "the Dungeon" — is at least Iron Age and was probably a burial mound, later reused as a Norman motte. It was landscaped into a public garden in the 1790s and has been a city park ever since.

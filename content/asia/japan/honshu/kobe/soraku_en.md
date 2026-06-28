@@ -13,6 +13,7 @@ story: >
   pond. This style was developed in the Edo period for the gardens of feudal lords,
   and Nishimura was self-consciously claiming samurai aesthetic status through his
   garden design.
+score: 7.3
 ---
 
 Sōraku-en is a traditional Japanese garden near Sannomiya, designed in the early 20th century around a central pond with carefully composed views of stone lanterns, stepping stones, and seasonal plantings. It is one of the finest gardens in the Kobe area, relatively small by the standards of great Japanese gardens but beautifully maintained.

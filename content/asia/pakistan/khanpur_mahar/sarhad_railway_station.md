@@ -11,6 +11,7 @@ tags:
 - sight
 title: Sarhad Railway Station
 type: poi
+score: 5.1
 ---
 
 Sarhad is the local railway station on the main Karachi to Peshawar line, the artery that has carried passengers and goods up and down the Indus plains since the British built it in the 19th century. It is a small station, not much more than a long platform and a low building, but it is the main connection to the rest of Pakistan for villages around Khanpur Mahar.

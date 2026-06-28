@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Court_House_in_Landau.JPG
 latitude: 49.198282
 loc_type: city
 longitude: 8.112344
-score: 0.43
+score: 7.19
+snippet: Palatinate wine-route town with Vauban traces, vineyard hills, and a compact
+  cafe-lined centre.
 title: Landau
 type: location
 ---

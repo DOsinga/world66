@@ -14,6 +14,7 @@ story: >
   of sustained sophistication that lasted over two thousand years. Some of the pieces
   here come from sites within the city limits, meaning the same ground on which Tianshui
   stands today was occupied by neolithic potters of the first rank.
+score: 7.5
 ---
 
 Tianshui City Museum holds a well-regarded collection of painted pottery from the Yangshao and Majiayao neolithic cultures, along with bronzeware and other artefacts spanning the Zhou and Han periods. The neolithic material is the highlight — the range and quality of the painted vessels is considerable, and the museum's presentation contextualises the different cultural phases clearly enough to make sense of them even without specialist knowledge.

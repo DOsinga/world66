@@ -9,6 +9,7 @@ longitude: -111.9936
 story: "Kino Bay is named after the Jesuit missionary Eusebio Kino, who arrived in the Sonoran Desert in the 1680s and spent decades travelling the region on horseback, mapping it and establishing missions. He was the first European to demonstrate that Baja California was a peninsula and not an island — a geographical question that had vexed cartographers for a century."
 sources:
   - https://en.wikipedia.org/wiki/Kino_Bay
+score: 6.7
 ---
 
 Bahía Kino is a coastal town on the Sea of Cortez, about 110 km west of Hermosillo, with two distinct sides: Kino Viejo, the traditional fishing village where Seri indigenous people still fish from the same beach, and Kino Nuevo, a strip of beach houses and retirement developments popular with Americans from Arizona. The beach — long, clean, and looking out across the calm turquoise water to Isla Tiburón — is genuinely beautiful.

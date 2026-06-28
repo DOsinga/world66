@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Noli_-_View_from_Capo_Noli
 latitude: 44.2059
 loc_type: city
 longitude: 8.4164
-score: 0.61
+score: 8.36
 title: Noli
 type: location
+snippet: Medieval Ligurian fishing village on the Italian Riviera, once a small maritime
+  republic.
 ---
 
 Noli is one of the Italian Riviera's best-kept secrets — a medieval fishing village tucked east of the dramatic [Capo Noli](/europe/italy/liguria/italianriviera/noli/capo_noli), where the Ligurian coastline is at its most rugged. Once a powerful maritime republic (one of only five in Italian history, alongside Venice, Genoa, Amalfi, and Pisa), it still carries that history in its towers, narrow lanes, and the remarkable [Church of San Paragorio](/europe/italy/liguria/italianriviera/noli/san_paragorio).

@@ -14,6 +14,7 @@ story: >
   different construction methods and remains structurally sound, but its association with Morandi
   gained new weight after Genoa. It remains the most visible structure in the city and one of
   the tallest concrete viaducts in southern Italy.
+score: 7.8
 ---
 
 The Viadotto Morandi is the most dramatic physical feature of modern Catanzaro: a massive prestressed concrete viaduct that bridges the deep Fiumarella gorge and connects the upper city hill with the lower areas to the west. Standing 134 metres above the gorge floor, it was completed in 1960 to the designs of Riccardo Morandi and remains a striking piece of mid-century engineering.

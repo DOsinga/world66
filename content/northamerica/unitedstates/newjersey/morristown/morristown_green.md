@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.797
 longitude: -74.4811
+score: 7.5
 ---
 
 The Green at the heart of downtown Morristown is one of the oldest public squares in New Jersey, laid out in the 18th century and still the focal point of the town. The First Presbyterian Church on the east side of the Green dates to 1791 and its cemetery holds many of the early town's prominent residents, including several Revolutionary War figures. The adjacent Morris County Courthouse, a solid neoclassical structure, fronts the Green on the north.

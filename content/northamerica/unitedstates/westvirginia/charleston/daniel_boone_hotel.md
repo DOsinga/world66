@@ -9,6 +9,7 @@ latitude: 38.35138888888889
 longitude: -81.63222222222221
 story: >
   When the Daniel Boone Hotel opened in 1929 it was the tallest building in West Virginia — a 10-storey hotel designed to accommodate legislators and the lobbyists who followed them. It was converted to offices in 1968 after the city's central hotel trade collapsed, but the lobby and exterior are largely original.
+score: 6.8
 ---
 
 The Daniel Boone Hotel, on the corner of Virginia and Hale Streets, was Charleston's grandest hotel for forty years and is now one of downtown's most distinctive office buildings. The neo-Georgian brick facade, terracotta detailing, and recessed ground-floor arches make it stand out among the more functional buildings around it.

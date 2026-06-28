@@ -8,6 +8,7 @@ snippet: Restored Tomis-era municipal building with a strong collection of Dobru
 tags:
   - things_to_do
   - museum
+score: 7.6
 ---
 
 The **Muzeul de Artă Populară** ("Folk Art Museum") occupies a late 19th-century townhouse on Bulevardul Tomis and holds one of the country's best collections of folk material from the **Dobruja region** — the historically multi-ethnic plain between the Danube and the sea, home to Romanians, Bulgarians, Turks, Tatars, Lipovan Russians and others.

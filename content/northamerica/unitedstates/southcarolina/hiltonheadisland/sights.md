@@ -1,12 +1,10 @@
 ---
 address: 14 New Orleans Road
 email: contact@hiltonheadrentals.com
-latitude: 32.157781
-longitude: -80.754368
 opening_hours: 9 AM - 5 PM
 phone: 843-671-4700
 title: Sights
-type: poi
+type: section
 url: www.hiltonheadrentals.com
 ---
 

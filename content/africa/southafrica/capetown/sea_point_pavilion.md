@@ -1,8 +1,7 @@
 ---
-category: Pool
 latitude: -33.9152
 longitude: 18.388
-neighbourhood: Sea Point
+score: 7.4
 scores:
   activities: 0.578
   sight: 0.6216

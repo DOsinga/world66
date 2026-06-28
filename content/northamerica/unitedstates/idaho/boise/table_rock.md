@@ -9,6 +9,7 @@ latitude: 43.5932
 longitude: -116.1474
 story: >
   The large illuminated cross on top of Table Rock was erected in 1956 and has been controversial ever since — public land, religious symbol, legal battles. The cross was eventually sold to a private entity that maintains a lease on the land, resolving the immediate constitutional challenge. It is visible from much of Boise on clear nights.
+score: 7.3
 ---
 
 Table Rock is the sandstone mesa that defines Boise's eastern skyline. At 760 meters above sea level and about 450 feet above the valley floor, it offers the best panoramic view of the city, the Snake River Plain, and the mountains to the north and east. The summit is accessible by a 3-mile trail from the Table Rock Trailhead off Warm Springs Avenue.

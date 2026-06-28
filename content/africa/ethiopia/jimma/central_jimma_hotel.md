@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 7.6686
 longitude: 36.8400
+score: 5.1
 ---
 
 The restaurant at the Central Jimma Hotel is consistently recommended as one of the better places in the city for Ethiopian food. The menu covers the standard range — various meat and vegetable wats served on injera, kitfo (minced raw beef, a local speciality), and tibs — prepared with the care that comes from cooking for both Ethiopian guests and occasional foreign visitors who know what to expect.

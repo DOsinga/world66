@@ -9,6 +9,7 @@ tags:
   - historic_site
 sources:
   - https://en.wikipedia.org/wiki/North_Field_(Tinian)
+score: 9.1
 ---
 
 North Field was the largest bomber base in the world at the time of its construction, built by US forces in 1944 after they captured Tinian from Japan. Four parallel runways stretched nearly two and a half kilometres each — a feat of military engineering achieved in a matter of months. From these runways the Enola Gay and Bockscar flew the two atomic bomb missions that ended the Second World War in the Pacific.

@@ -9,6 +9,7 @@ latitude: 41.0748
 longitude: 27.4172
 story: >
   The museum's most striking exhibit is a Thracian chariot burial discovered nearby — a warrior interred with his horse and a two-wheeled chariot, a burial practice that connects this part of Thrace with the wider steppe world of the ancient Black Sea region. Such finds are rare and the Tekirdağ example is one of the best-preserved in the area.
+score: 6.7
 ---
 
 The Tekirdağ Archaeological Museum holds finds from the surrounding region covering the Thracian, Greek, Roman, and Byzantine periods. Thrace has been inhabited continuously since prehistoric times and the museum reflects that layering: Thracian bronze vessels, Greek amphorae, Roman coins, Byzantine jewellery. The collection is modest in scale but locally significant.

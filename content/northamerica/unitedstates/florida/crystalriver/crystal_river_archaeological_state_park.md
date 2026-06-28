@@ -10,6 +10,7 @@ latitude: 28.90925
 longitude: -82.62856
 story: >
   The mound complex at Crystal River was used continuously for over 1,600 years, from around 200 BC to AD 1400. Unusually, the site shows evidence of trade and cultural contact stretching all the way to the Ohio Valley Hopewell culture — a remarkable long-distance connection for a small coastal settlement.
+score: 8.3
 ---
 
 Crystal River Archaeological State Park preserves one of Florida's most significant pre-Columbian sites: a ceremonial mound complex built and used by Indigenous people over sixteen centuries. The site contains six mounds, including a temple mound, burial mounds, a refuse midden, and a pair of stone stelae — upright stone markers that are extremely rare in Florida. The stelae, carved from limestone, were likely used in astronomical observations or as part of ceremonial rites.

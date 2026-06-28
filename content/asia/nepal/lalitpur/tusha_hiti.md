@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tusha Hiti (Royal Bath)
 type: poi
+score: 7.8
 ---
 
 Tucked inside the Sundari Chowk courtyard of the old royal palace, the Tusha Hiti is a small sunken stone basin where the Malla kings bathed before performing rituals. It is shaped like a yoni, lined with figures of deities, and fed by a brass spout that catches the eye even when the water has stopped.

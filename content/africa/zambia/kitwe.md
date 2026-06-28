@@ -5,8 +5,10 @@ done:
 latitude: -12.8204
 loc_type: city
 longitude: 28.2156
-score: 0.31
+score: 5.63
 title: Kitwe
+snippet: Copperbelt city and commercial hub, shaped by Zambia's mining industry and
+  its working urban energy.
 type: location
 ---
 

@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Cafe Het Feest
 type: poi
+score: 5.5
 ---
 
 A lively bar on Peperstraat with one of the more unusual features in Groningen: one of the bars inside actually spins. Music ranges widely, from rock to electronic, and the dancefloor fills up properly as the night goes on. A reliable spot for a late evening out.

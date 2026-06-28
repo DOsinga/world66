@@ -9,6 +9,7 @@ tags:
 - sight
 - historic
 story: "The 1608 'tryal of glasse' at Jamestown was America's first English manufacturing venture. Eight Polish and German glassblowers brought specifically for the purpose set up the furnaces only to abandon them within a year. The brick foundations they left were still in the ground when archaeologists rediscovered them in the 1930s."
+score: 7.2
 ---
 
 The Glasshouse, just inside the entrance to Historic Jamestowne, recreates the 1608 glassworks the Virginia Company set up here in an early attempt to produce something the colony could export. Trained glassblowers demonstrate the techniques daily, producing pieces sold in the gift shop.

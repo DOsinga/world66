@@ -10,6 +10,7 @@ latitude: 35.3268
 longitude: -97.4818
 snippet: Art Deco-styled multiplex with luxury balcony auditorium
 story: "The Warren chain was founded in Wichita and opened the Moore location in 2008 specifically to bring premium cinema to the Oklahoma City suburbs. Its trademark gold-trimmed Art Deco lobby was designed to evoke Hollywood movie palaces of the 1920s — a deliberate counter to the strip-mall blandness of suburban multiplexes."
+score: 7.3
 ---
 
 The Warren is the most distinctive building in Moore by some distance — a 20-screen multiplex done up like a 1920s movie palace, with gilded plasterwork, marble floors, and a balcony level reserved for adults that offers reserved leather recliners and full table service from a kitchen and bar.

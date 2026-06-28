@@ -1,23 +1,25 @@
 ---
-title: Switzerland
-type: location
-latitude: 46.798562
-longitude: 8.231974
+done:
+  country_cleanup: 2026-03-29
 image: switzerland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domhütte_-_2.jpg
-image_license: CC BY-SA 3.0
 image_attribution: '<ul><li>Photo: chil, on Camptocamp.org</li> <li>Derivative work:<a
   href="//commons.wikimedia.org/wiki/User:Zacharie_Grossen" title="User:Zacharie Grossen">Zacharie
   Grossen</a></li></ul>'
-done:
-  country_cleanup: 2026-03-29
-quick_facts:
-  Population: "8.9 million"
-  Official Languages: "4 (German, French, Italian, Romansh)"
-  Rail Tunnels: Gotthard Base is world's longest at 57 km
-  Direct Democracy: Citizens vote on policy ~4 times a year
-score: 0.63
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domhütte_-_2.jpg
+latitude: 46.798562
 loc_type: country
+longitude: 8.231974
+quick_facts:
+  Direct Democracy: Citizens vote on policy ~4 times a year
+  Official Languages: 4 (German, French, Italian, Romansh)
+  Population: 8.9 million
+  Rail Tunnels: Gotthard Base is world's longest at 57 km
+score: 0.87
+snippet: Alpine European country of multilingual cities, neutral history, lakes, watches,
+  cheese, and snow-capped passes.
+title: Switzerland
+type: location
 ---
 
 Located in central Europe, Switzerland is bordered by [France](/europe/france) , [Germany](/europe/germany) , [Austria](/europe/austria) , [Liechtenstein](/europe/liechtenstein) , [Italy](/europe/italy) , and [France](/europe/france) . A small country, Switzerland's very name conjures up images of chocolates, cheese, watches, bankers, and snow-capped mountains. 

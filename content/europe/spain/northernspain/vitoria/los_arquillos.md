@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Los Arquillos
 type: poi
+score: 7.8
 ---
 
 Los Arquillos is a neo-classical arcaded street built in the early 19th century to solve an urban problem: the medieval hill on which the old town sat was too steep for carriages to navigate, and the two levels of the city — upper medieval and lower modern — were poorly connected. The architect Justo Antonio de Olaguíbel designed this curved arcade in 1787, building residential apartments on top of an open walkway that bridges the level change between the Plaza de la Virgen Blanca and the Cathedral quarter above.

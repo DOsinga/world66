@@ -1,0 +1,200 @@
+{
+  "round": 2559,
+  "timestamp": "2026-06-13T21:51:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 11.719,
+      "prior_variance": 0.356043,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 4.6017,
+      "prior_variance": 0.218458,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 5.4834,
+      "prior_variance": 0.19177,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 4.9245,
+      "prior_variance": 0.214925,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.41,
+      "prior_variance": 0.176266,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 1.4712,
+      "prior_variance": 0.162571,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": 0.5105,
+      "prior_variance": 0.195678,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.6332,
+      "prior_variance": 0.198426,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 0.8007,
+      "prior_variance": 0.171547,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 1.2061,
+      "prior_variance": 0.142661,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 0.8835,
+      "prior_variance": 0.160209,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_score": 0.3359,
+      "prior_variance": 0.168034,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": -0.0787,
+      "prior_variance": 0.153887,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Jinja",
+      "path": "africa/uganda/jinja",
+      "prior_score": -1.2372,
+      "prior_variance": 0.165478,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -0.6781,
+      "prior_variance": 0.187669,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.4876,
+      "prior_variance": 0.175894,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -1.6566,
+      "prior_variance": 0.153163,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.2501,
+      "prior_variance": 0.186944,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -2.8614,
+      "prior_variance": 0.152096,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -1.9139,
+      "prior_variance": 0.182613,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -2.1783,
+      "prior_variance": 0.160668,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": 0.1001,
+      "prior_variance": 0.173674,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/burbank",
+      "prior_score": -3.4705,
+      "prior_variance": 0.27131,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -1.2869,
+      "prior_variance": 0.200528,
+      "prior_n": 8
+    }
+  ]
+}

@@ -15,6 +15,7 @@ story: >
   space, their grief rendered with an intensity that makes most later paintings on the subject look tepid by 
   comparison. The original is now in the Prado in Madrid — Leuven has a faithful early copy — but the museum 
   makes a compelling case for how central the city was to 15th-century Flemish art.
+score: 7.2
 ---
 
 M Museum Leuven occupies a striking building on Vanderkelenstraat, opened in 2009, that wraps a contemporary glass and steel structure around a neoclassical 19th-century core. The result is one of the better recent museum renovations in Belgium: the new wing doesn't overwhelm the old, and the rooftop terrace offers good views over the city centre.

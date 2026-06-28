@@ -9,11 +9,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Cotta_Fort_(Baybay_Triunfo
 latitude: 8.147018
 loc_type: city
 longitude: 123.845979
-score: 0.37
+score: 6.19
 sources:
 - https://en.wikipedia.org/wiki/Ozamiz
 - https://en.wikipedia.org/wiki/Fuerte_de_la_Concepcion_y_del_Triunfo
 title: Ozamiz City
+snippet: Northern Mindanao bay city with Spanish Misamis roots and a coral-stone fort
+  on the waterfront.
 type: location
 ---
 

@@ -1,14 +1,15 @@
 ---
 address: Route de Philippeville 142, 5500 Dinant
-latitude: 50.2540
-loc_type: feature
-longitude: 4.9090
+latitude: 50.254
+longitude: 4.909
+score: 6.3
 snippet: Second show cave, with concretions and an audio-visual presentation
 tags:
 - things_to_do
 - cave
 - sight
 title: Grotte de Dinant La Merveilleuse
+type: poi
 ---
 
 A second show cave a short walk from La Merveilleuse, sometimes called La Grotte de Dinant. The galleries here are smaller but the formations are particularly white and crystalline; the highlight is a single chamber filled with thousands of needle-like stalactites that look like a frozen explosion. A modest audio-visual presentation at the start of the tour explains the geology of the limestone Ardennes.

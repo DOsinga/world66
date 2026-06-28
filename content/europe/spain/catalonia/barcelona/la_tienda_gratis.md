@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.3882
 longitude: 2.1813
+score: 5.0
 snippet: Free shop in a squatted social center near Arc de Triomf
 tags:
 - shopping
+- el_born
 title: La Tienda Gratis
 type: poi
 ---

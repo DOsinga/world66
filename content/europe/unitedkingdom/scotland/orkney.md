@@ -7,9 +7,11 @@ image_attribution: Matthew Prior
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Sands_of_Evie,_a_beach_near_Stenso,_Mainland,_Orkney.jpg
 latitude: 58.852057
-loc_type: city
+loc_type: region
 longitude: -3.28694
-score: 0.65
+score: 8.78
+snippet: Scottish archipelago of wind-scoured islands, Neolithic monuments, Viking
+  traces, and red sandstone Kirkwall
 title: Orkney
 type: location
 ---

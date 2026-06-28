@@ -5,7 +5,9 @@ done:
 latitude: 25.4052
 loc_type: city
 longitude: 55.5136
-score: 0.4
+score: 6.75
+snippet: Smallest UAE emirate, a quieter Gulf base with a public corniche, old fort,
+  and working dhow yard.
 sources:
 - https://en.wikipedia.org/wiki/Emirate_of_Ajman
 title: Ajman

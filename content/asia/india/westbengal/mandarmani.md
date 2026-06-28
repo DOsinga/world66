@@ -5,6 +5,7 @@ latitude: 21.666693
 longitude: 87.697716
 score: 0.41
 loc_type: region
+snippet: "Bay of Bengal beach village known for its long, low-tide driveable sand near Kolkata."
 ---
 
 *Asia > India > West Bengal > Mandarmani*

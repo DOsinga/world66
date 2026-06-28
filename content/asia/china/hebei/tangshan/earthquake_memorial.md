@@ -14,6 +14,7 @@ story: >
   of self-reliance. The official death toll was published as 242,419; independent
   estimates put the real figure at 300,000 or more. The names of the dead are
   inscribed on the memorial walls. The full list took years to compile.
+score: 7.3
 ---
 
 The Tangshan Earthquake Memorial Museum and associated ruins park in the northern part of the city are dedicated to the earthquake of 28 July 1976, which struck at 3:42 in the morning and killed somewhere between 242,000 and 300,000 people — the deadliest earthquake of the twentieth century. The museum, opened in 2009, treats the subject with appropriate gravity and considerable detail.

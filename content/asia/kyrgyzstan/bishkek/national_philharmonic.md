@@ -8,6 +8,7 @@ tags:
 latitude: 42.8783
 longitude: 74.5875
 address: "Chuy Avenue 253, Bishkek"
+score: 7.4
 ---
 
 A Brutalist concert hall complex built in 1980, fronted by a sweeping concrete portico and topped with a tall stylised komuz (a three-stringed Kyrgyz lute). The building is one of the more impressive late-Soviet pieces of architecture in the city and still functions as the country's main classical music venue, with regular concerts by the philharmonic orchestra and visiting soloists.

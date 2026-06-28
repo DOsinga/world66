@@ -1,8 +1,12 @@
 ---
 address: Shrine Hill, Matina, Davao City
+latitude: 7.0708
+longitude: 125.5779
+score: 5.7
 tags:
 - eating_out
 - restaurant
+- viewpoint
 title: Davao Hilltop Restaurant
 type: poi
 ---

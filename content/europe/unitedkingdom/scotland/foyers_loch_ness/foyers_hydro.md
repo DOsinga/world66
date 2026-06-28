@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.2621
 longitude: -4.4836
+score: 6.4
 ---
 
 The Foyers hydro scheme on the loch shore has the unusual claim of being the first commercial hydroelectric station in Britain — opened in 1896 to power an aluminium smelter, the works pulled water from the River Foyers and dropped it through turbines on the loch. The smelter is long closed; today's plant is a pumped-storage scheme, using off-peak grid electricity to pump water up to Loch Mhòr and releasing it back through the turbines at peak demand.

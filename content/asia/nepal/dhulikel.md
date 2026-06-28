@@ -5,7 +5,9 @@ done:
 latitude: 27.6206
 loc_type: city
 longitude: 85.5561
-score: 0.57
+score: 8.08
+snippet: Ancient Newar town on the Kathmandu Valley rim, known for broad Himalayan
+  views.
 sources:
 - https://en.wikipedia.org/wiki/Dhulikhel
 title: Dhulikhel

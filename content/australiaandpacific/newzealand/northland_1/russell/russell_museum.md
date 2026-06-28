@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -35.2630
 longitude: 174.1213
+score: 6.7
 ---
 
 The Russell Museum is a small but well-curated community museum that provides the historical context for everything you see in the town. The centrepiece is a one-fifth scale model of HMS Endeavour — Captain Cook's vessel, which called into the Bay of Islands on his first voyage — built by local craftspeople over many years.

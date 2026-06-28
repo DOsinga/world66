@@ -10,6 +10,7 @@ tags:
 - gion
 title: Gion Matsuri
 type: poi
+score: 9.0
 ---
 
 Gion Matsuri, sponsored by Yasaka Shrine, is the largest of the three great annual festivals of Kyoto and one of the most famous festivals in Japan. It runs through the whole of July, with the climactic *yamaboko junkō* float processions on the 17th and 24th. Thirty-three enormous wheeled wooden floats — some two storeys high, some weighing twelve tonnes — are assembled in the streets in the days before, draped in centuries-old imported textiles, and hauled through the central streets by teams of local men in traditional dress.

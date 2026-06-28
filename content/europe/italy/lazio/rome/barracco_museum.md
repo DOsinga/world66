@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.8966
 longitude: 12.4718
+score: 6.2
 snippet: Intimate collection of ancient sculpture in a Renaissance palazzo
 tags:
 - things_to_do
 - museum
+- prati
 title: Barracco Museum
 type: poi
 ---

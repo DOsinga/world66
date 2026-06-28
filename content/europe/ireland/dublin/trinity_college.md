@@ -5,10 +5,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 53.344416
 longitude: -6.258956
+score: 9.0
 snippet: Ireland's oldest university, home to the Book of Kells
 tags:
 - things_to_do
 - sight
+- trinity_college_area
 title: Trinity College
 type: poi
 url: www.tcd.ie

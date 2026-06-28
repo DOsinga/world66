@@ -8,6 +8,7 @@ tags:
 title: Paradesi Synagogue
 type: poi
 story: "Kochi's Jewish community dates back at least 1,000 years — some accounts say longer. At its peak in the 19th century, there were around 2,500 Jews in Kochi. Most emigrated to Israel after 1948; today fewer than ten remain. The synagogue continues to hold services on Saturdays, tended by those who stayed."
+score: 8.9
 ---
 
 The Paradesi Synagogue, built in 1568, is one of the oldest active synagogues in the Commonwealth and the oldest in India. It stands at the end of the lane known as Jew Town in the Mattancherry quarter, surrounded by antique and spice shops. The blue-and-white hand-painted Chinese tiles covering the floor — no two identical — were a gift from a wealthy merchant in the 18th century.

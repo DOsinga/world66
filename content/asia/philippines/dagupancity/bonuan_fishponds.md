@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 16.0331
 longitude: 120.3334
+score: 8.0
 ---
 
 The brackish-water ponds that surround Dagupan are where the milkfish is actually farmed — a vast grid of dykes and floodgates between the river and the gulf, threaded with small *banca* canoes. Several operators in Bonuan and Bolosan run informal boat tours through the ponds, including a stop to harvest bangus from a pen and a meal of grilled fish cooked on the boat.

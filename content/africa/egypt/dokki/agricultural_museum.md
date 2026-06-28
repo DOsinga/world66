@@ -14,6 +14,7 @@ story: >
   second half of the 20th century, and the current state is a mixture of
   genuinely well-maintained galleries and abandoned wings where the dioramas
   have slowly decayed into surreal tableaux.
+score: 6.8
 ---
 
 The Agricultural Museum, occupying a former royal palace in the northern part of Dokki, is one of Cairo's more eccentric attractions. It covers the history of Egyptian farming from Pharaonic times to the 20th century, with sections on irrigation, crop cultivation, animal husbandry, and the Delta ecosystem. The ancient Egyptian farming exhibits are genuinely informative, and some of the dioramas of rural life are vivid.

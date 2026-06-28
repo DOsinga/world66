@@ -1,10 +1,12 @@
 ---
 latitude: 41.380881
 longitude: 2.122818
+score: 7.8
 snippet: FC Barcelona's massive home ground with stadium tours
 tags:
 - things_to_do
 - sight
+- les_corts
 title: Camp Nou
 type: poi
 ---

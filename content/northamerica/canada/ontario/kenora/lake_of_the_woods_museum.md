@@ -8,6 +8,7 @@ tags:
 - museum
 title: Lake of the Woods Museum
 type: poi
+score: 7.8
 ---
 
 The Lake of the Woods Museum occupies the old post office in downtown Kenora and tells the story of the area from Anishinaabe history through fur trade, the gold rushes around Rat Portage (Kenora's former name), the railway, and the cottage era. Collections include indigenous artefacts, mining equipment, and an extensive photographic archive of the lake's logging and tourism past.

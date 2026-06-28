@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -22.4623
 longitude: -68.9276
+score: 5.4
 ---
 
 The Cathedral of St John the Baptist anchors the north side of the Plaza 23 de Marzo. Built in the early 20th century and remodelled several times since the major 1950s earthquake, it is a simple, twin-towered church in white-painted stucco — modest by Chilean cathedral standards but the visual heart of central Calama.

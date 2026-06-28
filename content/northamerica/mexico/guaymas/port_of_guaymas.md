@@ -10,6 +10,7 @@ story: >
   Spanish navigator Francisco de Ulloa discovered Guaymas Bay in 1539, making it one of the oldest-known harbours on the Mexican Pacific coast. 
   The Spanish later used it as a base for expeditions into the Sonoran interior, and in the nineteenth century it became the principal port for the entire state. 
   During the French Intervention, French naval forces bombarded the city from the bay in 1865, an incident still commemorated locally.
+score: 5.9
 ---
 
 The Port of Guaymas is one of the most important commercial ports on Mexico's Pacific coast, handling mineral exports from Sonora's mines and agricultural goods from the Sonoran desert. The ferry terminal here is where most travellers encounter the port — the crossing to Santa Rosalia on the Baja California peninsula takes about six hours and offers views of the Sea of Cortez that are spectacular in clear weather.

@@ -1,200 +1,200 @@
 {
   "round": 925,
-  "timestamp": "2026-04-12T14:50:26",
+  "timestamp": "2026-06-13T20:01:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Scuba Diving",
-      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
-      "prior_score": 11.5427,
-      "prior_variance": 8.923068,
-      "prior_n": 1
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -11.0288,
+      "prior_variance": 0.723308,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Bahamas",
-      "path": "northamerica/bahamas",
-      "prior_score": 12.5485,
-      "prior_variance": 8.233277,
-      "prior_n": 2
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -11.9404,
+      "prior_variance": 0.703993,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Marigot Bay",
-      "path": "northamerica/saintlucia/marigotbay",
-      "prior_score": 10.3972,
-      "prior_variance": 3.505388,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -11.4919,
+      "prior_variance": 1.075459,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "High Sierra",
-      "path": "northamerica/unitedstates/california/highsierra",
-      "prior_score": 10.6136,
-      "prior_variance": 1.983149,
-      "prior_n": 1
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -9.657,
+      "prior_variance": 0.588556,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Perast",
-      "path": "europe/montenegro/perast",
-      "prior_score": 6.644,
-      "prior_variance": 2.56143,
-      "prior_n": 1
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -11.6672,
+      "prior_variance": 1.048463,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Buljarica",
-      "path": "europe/montenegro/buljarica",
-      "prior_score": 2.6682,
-      "prior_variance": 0.803442,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -9.5498,
+      "prior_variance": 1.137071,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "East Coast",
-      "path": "australiaandpacific/australia/tasmania/eastcoast",
-      "prior_score": 7.4643,
-      "prior_variance": 3.235396,
-      "prior_n": 1
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -16.2474,
+      "prior_variance": 1.077796,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Sulawesi",
-      "path": "asia/indonesia/sulawesi",
-      "prior_score": 2.1486,
-      "prior_variance": 2.963329,
-      "prior_n": 1
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -15.6585,
+      "prior_variance": 1.045483,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Taxco",
-      "path": "northamerica/mexico/taxco",
-      "prior_score": 4.8296,
-      "prior_variance": 1.716161,
-      "prior_n": 1
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -15.8522,
+      "prior_variance": 1.061247,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Lindau",
-      "path": "europe/germany/bavaria/lindau",
-      "prior_score": 3.4694,
-      "prior_variance": 1.491737,
-      "prior_n": 1
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -15.7761,
+      "prior_variance": 1.082711,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Caceres",
-      "path": "europe/spain/caceres",
-      "prior_score": 5.3076,
-      "prior_variance": 1.25541,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -17.0986,
+      "prior_variance": 1.154923,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Maramures Land",
-      "path": "europe/romania/transylvania/maramures_land",
-      "prior_score": 5.5477,
-      "prior_variance": 1.40777,
-      "prior_n": 1
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -14.0865,
+      "prior_variance": 0.445626,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Assam",
-      "path": "asia/india/assam",
-      "prior_score": 1.0248,
-      "prior_variance": 1.40672,
-      "prior_n": 1
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -15.2089,
+      "prior_variance": 0.974628,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "West Bengal",
-      "path": "asia/india/westbengal",
-      "prior_score": -4.4648,
-      "prior_variance": 1.177549,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -14.149,
+      "prior_variance": 1.539269,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Prescott",
-      "path": "northamerica/unitedstates/arizona/prescott",
-      "prior_score": -0.8496,
-      "prior_variance": 1.209163,
-      "prior_n": 1
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -14.4758,
+      "prior_variance": 0.645439,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Kawartha Lakes",
-      "path": "northamerica/canada/ontario/kawartha_lakes",
-      "prior_score": -0.5577,
-      "prior_variance": 0.538631,
-      "prior_n": 3
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -17.6456,
+      "prior_variance": 1.196457,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Ashburton",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/ashburton",
-      "prior_score": -2.4762,
-      "prior_variance": 1.421273,
-      "prior_n": 1
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -12.8971,
+      "prior_variance": 0.791164,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Norfolk",
-      "path": "northamerica/unitedstates/virginia/norfolk",
-      "prior_score": -1.1588,
-      "prior_variance": 1.346834,
-      "prior_n": 1
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -15.3684,
+      "prior_variance": 1.253638,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Casper",
-      "path": "northamerica/unitedstates/wyoming/casper",
-      "prior_score": -4.4408,
-      "prior_variance": 1.252584,
-      "prior_n": 1
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -14.6856,
+      "prior_variance": 1.231432,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Haiti",
-      "path": "northamerica/thecaribbean/haiti",
-      "prior_score": -14.5301,
-      "prior_variance": 7.444684,
-      "prior_n": 1
-    },
-    {
-      "rank": 21,
-      "title": "Tadjoura",
-      "path": "africa/djibouti/tadjoura",
-      "prior_score": -6.2414,
-      "prior_variance": 1.330584,
-      "prior_n": 1
-    },
-    {
-      "rank": 22,
-      "title": "Somaliland",
-      "path": "africa/somaliland",
-      "prior_score": -18.8439,
-      "prior_variance": 5.153871,
+      "title": "Madhegaon Kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -15.9938,
+      "prior_variance": 1.100245,
       "prior_n": 4
     },
     {
+      "rank": 21,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -16.7539,
+      "prior_variance": 1.033775,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -15.5963,
+      "prior_variance": 0.992195,
+      "prior_n": 2
+    },
+    {
       "rank": 23,
-      "title": "Birnin Konni",
-      "path": "africa/niger/birninkonni",
-      "prior_score": -11.0862,
-      "prior_variance": 8.668642,
-      "prior_n": 1
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -17.5804,
+      "prior_variance": 0.736467,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Hoyerswerda",
-      "path": "europe/germany/saxony/hoyerswerda",
-      "prior_score": -8.5817,
-      "prior_variance": 10.925777,
-      "prior_n": 1
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -14.8627,
+      "prior_variance": 1.302785,
+      "prior_n": 2
     }
   ]
 }

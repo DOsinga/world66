@@ -9,6 +9,7 @@ tags:
 - sight
 title: Funiculaire du Havre
 type: poi
+score: 6.6
 ---
 
 Le Havre is built on two levels: the Perret-designed lower city at sea level, and the plateau above the chalk cliffs, where much of the residential city spreads out. The funicular connects them in about three minutes, rising some 70 metres between the lower terminus at Rue Gustave-Flaubert and the upper station at Côte.

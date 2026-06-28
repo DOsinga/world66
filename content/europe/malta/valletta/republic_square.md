@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.8985
 longitude: 14.5135
+score: 7.1
 ---
 
 Republic Square — Misraħ ir-Repubblika — is a small but perfectly composed piazza off Republic Street, anchored by a white marble statue of Queen Victoria. The square is enclosed by the National Library on one side and shaded by trees, with cafe tables filling most of the space. It is one of the pleasantest spots in Valletta to sit and take stock between sightseeing.

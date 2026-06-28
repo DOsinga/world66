@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20160729_-_Taungthaman_Lak
 latitude: 21.903139
 loc_type: city
 longitude: 96.049483
-score: 0.51
+score: 7.53
+snippet: Former Burmese royal capital near Mandalay, known for weaving workshops and
+  U Bein Bridge over Taungthaman Lake.
 title: “Amarapura”
 type: location
 ---

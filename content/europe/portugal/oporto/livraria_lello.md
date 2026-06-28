@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Livraria Lello
 type: poi
+score: 7.9
 ---
 
 One of the most beautiful bookshops in the world. Neo-gothic, carved wood, with a twisting red staircase at the centre of the shop. Go early — by late morning the queue snakes around the block. You buy a timed ticket from the booth around the corner.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Masaya_Market,_Nicaragua.j
 latitude: 11.9744
 loc_type: city
 longitude: -86.0942
-score: 0.49
+score: 7.1
+snippet: Nicaraguan crafts city beside an active volcano, known for hammocks, pottery,
+  and the Mercado de Artesanías.
 title: Masaya
 type: location
 ---

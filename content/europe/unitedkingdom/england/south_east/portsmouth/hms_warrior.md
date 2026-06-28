@@ -9,6 +9,7 @@ tags:
   - historic_dockyard
 story: "When Warrior was completed in 1861, the French Emperor Napoleon III is supposed to have called her 'a black snake among the rabbits' — comparing her to the wooden-hulled French navy she rendered obsolete overnight. She was so dominant that she never had to fire her guns in anger."
 neighbourhood: Historic Dockyard
+score: 8.9
 ---
 
 The world's first iron-hulled, armoured warship — when she was launched in 1861, every wooden capital ship in the world was instantly out of date. Warrior is moored just outside the dockyard gate at Victory Gate and you walk straight across the gangway onto her decks.

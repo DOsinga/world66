@@ -7,6 +7,7 @@ tags:
 latitude: 38.6782
 longitude: -121.1738
 snippet: Long-running Gold Country saloon with craft beer and live music on weekends
+score: 5.2
 ---
 
 The Sutter Street Grill is one of the oldest continuously operating drinking establishments in Folsom's historic district. The bar occupies a narrow stone building dating from the 1860s and has kept much of the original architecture — high ceilings, rough plaster walls, and a long wooden bar that has probably seen a few disputes in its time.

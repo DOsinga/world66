@@ -10,6 +10,7 @@ latitude: 62.4452
 longitude: 13.8628
 story: >
   The church's unusual octagonal shape was a deliberate choice — the design allowed the congregation to gather closer to the pulpit and hear the sermon more clearly, a priority for Lutheran reformers in 18th-century Sweden. The carved pulpit was made by Jöns Ljungberg, and Jonas Granberg painted the altarpiece between 1770 and 1773.
+score: 7.0
 ---
 
 The octagonal timber church at the centre of Vemdalen is widely considered one of the most beautiful churches in Sweden. The original building dates from 1624 and was moved to its current location in 1755, when the rococo interior — with its carved pulpit, painted altarpiece, and elegantly proportioned wooden gallery — was added. An independent bell tower stands nearby on a natural stone foundation.

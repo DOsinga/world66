@@ -9,6 +9,7 @@ latitude: 36.0859
 longitude: 28.0878
 story: >
   The bay is named for the apostle Paul, who is said to have sheltered here during a storm on his way to preach on Rhodes, probably around 51 AD. Whether the story is historically accurate is uncertain — Paul's missionary journeys through the Aegean are documented in Acts, and Rhodes is in the right geography — but the chapel of St Paul on the bay's headland has been here since the Byzantine era, and local tradition treats the landing as fact.
+score: 7.9
 ---
 
 A small, sheltered harbour south of the Acropolis, enclosed almost entirely by rock with a narrow entrance through which boats pass. The water is unusually clear even by Aegean standards — turquoise over white sand — and the setting, with the Acropolis cliffs behind and the chapel of St Paul on the headland, is one of the most photographed in Rhodes.

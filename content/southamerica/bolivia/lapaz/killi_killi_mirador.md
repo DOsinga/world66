@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mirador Killi Killi
 type: poi
+score: 8.0
 ---
 
 The Mirador Killi Killi is in the Villa Pabón neighbourhood, a twenty-minute walk east of the city centre, and it offers one of the better unobstructed views of the La Paz canyon. From here you can see both directions at once: down into the bowl where the historic centre sits, with its compressed grid of streets and the colonial towers of the Cathedral and San Francisco, and up to El Alto on the plateau above, which from this vantage appears as a continuous wall of brick construction stretching across the rim. The sheer vertical drop between the two cities — El Alto sits at over 4,000 metres, La Paz at around 3,600 in the centre — becomes physical and understandable from this spot in a way it does not when you are inside it.

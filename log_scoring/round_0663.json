@@ -1,199 +1,199 @@
 {
   "round": 663,
-  "timestamp": "2026-04-12T10:41:52",
+  "timestamp": "2026-06-13T19:47:28",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Machu Picchu",
-      "path": "southamerica/peru/machupicchu",
-      "prior_mu": 29.2252,
-      "prior_sigma": 6.958,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": -4.1423,
+      "prior_variance": 1.392134,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Cuzco",
-      "path": "southamerica/peru/cuzco",
-      "prior_mu": 27.9042,
-      "prior_sigma": 5.7205,
-      "prior_n": 2
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -2.8952,
+      "prior_variance": 1.413229,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Lima",
-      "path": "southamerica/peru/lima",
-      "prior_mu": 28.0878,
-      "prior_sigma": 5.6062,
-      "prior_n": 2
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -3.5116,
+      "prior_variance": 1.391762,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Chan Chan",
-      "path": "southamerica/peru/chanchan",
-      "prior_mu": 21.7333,
-      "prior_sigma": 3.7615,
-      "prior_n": 3
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": -2.6152,
+      "prior_variance": 0.953786,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Huaraz",
-      "path": "southamerica/peru/huaraz",
-      "prior_mu": 22.5803,
-      "prior_sigma": 4.6235,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -4.4411,
+      "prior_variance": 0.616198,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Iquitos",
-      "path": "southamerica/peru/iquitos",
-      "prior_mu": 22.4996,
-      "prior_sigma": 5.5447,
-      "prior_n": 1
-    },
-    {
-      "rank": 7,
-      "title": "Tambopata",
-      "path": "southamerica/peru/tambopata",
-      "prior_mu": 21.6414,
-      "prior_sigma": 4.4748,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_score": -3.9707,
+      "prior_variance": 0.678491,
       "prior_n": 2
     },
     {
+      "rank": 7,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -4.1837,
+      "prior_variance": 0.714343,
+      "prior_n": 3
+    },
+    {
       "rank": 8,
-      "title": "Kuelap",
-      "path": "southamerica/peru/chachapoyas/kuelap",
-      "prior_mu": 22.9391,
-      "prior_sigma": 5.7377,
-      "prior_n": 1
+      "title": "Wanning",
+      "path": "asia/china/hainanisland/wanning",
+      "prior_score": -4.0838,
+      "prior_variance": 0.591573,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Chachapoyas",
-      "path": "southamerica/peru/chachapoyas",
-      "prior_mu": 21.6907,
-      "prior_sigma": 4.5885,
+      "title": "Enshi",
+      "path": "asia/china/hubei/enshi",
+      "prior_score": -3.3686,
+      "prior_variance": 0.990626,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Trujillo",
-      "path": "southamerica/peru/trujillo_1",
-      "prior_mu": 21.5456,
-      "prior_sigma": 4.4329,
-      "prior_n": 2
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": -3.6702,
+      "prior_variance": 0.539932,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Trujillo",
-      "path": "southamerica/peru/huanchaco/trujillo",
-      "prior_mu": 22.5292,
-      "prior_sigma": 5.6892,
-      "prior_n": 1
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -4.743,
+      "prior_variance": 0.594824,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Ancash",
-      "path": "southamerica/peru/ancash",
-      "prior_mu": 22.5134,
-      "prior_sigma": 4.7583,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -3.9683,
+      "prior_variance": 0.918864,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Moray",
-      "path": "southamerica/peru/moray",
-      "prior_mu": 22.0503,
-      "prior_sigma": 4.428,
-      "prior_n": 2
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -5.1773,
+      "prior_variance": 0.845405,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Huanchaco",
-      "path": "southamerica/peru/huanchaco",
-      "prior_mu": 21.5885,
-      "prior_sigma": 4.434,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -3.6484,
+      "prior_variance": 0.828171,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Chiclayo",
-      "path": "southamerica/peru/chiclayo",
-      "prior_mu": 21.561,
-      "prior_sigma": 4.8155,
-      "prior_n": 2
-    },
-    {
-      "rank": 16,
-      "title": "Huancayo",
-      "path": "southamerica/peru/huancayo",
-      "prior_mu": 21.3206,
-      "prior_sigma": 4.5165,
-      "prior_n": 2
-    },
-    {
-      "rank": 17,
-      "title": "Lambayeque",
-      "path": "southamerica/peru/lambayeque",
-      "prior_mu": 22.2675,
-      "prior_sigma": 5.5202,
+      "title": "Falkirk",
+      "path": "europe/unitedkingdom/scotland/falkirk",
+      "prior_score": -2.29,
+      "prior_variance": 1.506317,
       "prior_n": 1
     },
     {
+      "rank": 16,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -4.2712,
+      "prior_variance": 0.783885,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -6.8185,
+      "prior_variance": 0.685552,
+      "prior_n": 3
+    },
+    {
       "rank": 18,
-      "title": "Piura",
-      "path": "southamerica/peru/piura",
-      "prior_mu": 22.8681,
-      "prior_sigma": 4.6008,
-      "prior_n": 2
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -5.4024,
+      "prior_variance": 0.563274,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Pacasmayo",
-      "path": "southamerica/peru/pacasmayo",
-      "prior_mu": 21.4703,
-      "prior_sigma": 4.7061,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -4.8289,
+      "prior_variance": 1.185174,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Santuario Nacional Tabaconas Namballe",
-      "path": "southamerica/peru/san_ignacio/santuario_nacional",
-      "prior_mu": 20.4253,
-      "prior_sigma": 4.5784,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -2.5843,
+      "prior_variance": 0.802361,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Peru",
-      "path": "southamerica/peru",
-      "prior_mu": 25.163,
-      "prior_sigma": 5.223,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -3.3882,
+      "prior_variance": 0.80263,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "San Jos\u00e9 de Lourdes",
-      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
-      "prior_mu": 18.5895,
-      "prior_sigma": 5.2444,
-      "prior_n": 2
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_score": -4.7733,
+      "prior_variance": 1.621154,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Santa Rosa",
-      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
-      "prior_mu": 12.5893,
-      "prior_sigma": 5.2934,
-      "prior_n": 3
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -5.5421,
+      "prior_variance": 1.547982,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Surco",
-      "path": "southamerica/peru/surco",
-      "prior_mu": 22.4415,
-      "prior_sigma": 5.879,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -6.8085,
+      "prior_variance": 1.271421,
       "prior_n": 1
     }
   ]

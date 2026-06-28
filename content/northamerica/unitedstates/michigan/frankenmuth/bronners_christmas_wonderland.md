@@ -8,6 +8,7 @@ tags:
   - sight
   - shopping
 story: "Wally Bronner started selling Christmas decorations in 1945 from a sign-painting shop in town. By the time he died in 2008 his store was bigger than a Walmart, sold 50,000 different ornaments, and a section of the parking lot played 'Silent Night' through speakers in 30 languages."
+score: 7.7
 ---
 
 Bronner's is genuinely the largest Christmas store in the world — over 7 acres under one roof, with 50,000-plus separate items for sale, an entire warehouse-sized hall devoted to artificial trees, and a soundtrack that plays carols continuously, 364 days a year. (It closes on Christmas Day.)

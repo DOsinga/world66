@@ -4,6 +4,7 @@ type: poi
 latitude: -14.0681
 longitude: -75.7286
 tags: [things_to_do, sight]
+score: 5.0
 ---
 
 Ica's main square has the usual cathedral, palm trees, and ornamental fountains. The cathedral itself was badly damaged in the 2007 earthquake — which destroyed much of central Ica — and has been rebuilt, though it lacks the colonial character of older Peruvian cathedrals.

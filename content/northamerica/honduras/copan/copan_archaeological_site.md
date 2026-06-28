@@ -9,6 +9,7 @@ latitude: 14.8375
 longitude: -89.14250000000001
 story: >
   Copán was the capital of a major Classic Maya kingdom from roughly the 5th through 9th centuries AD. At its peak it may have held 20,000 people. The dynasty's founding king is recorded as K'inich Yax K'uk' Mo', who arrived from the west — possibly from Teotihuacan — around AD 426. The last known dated monument was erected in 822 AD, after which the political system collapsed. The collapse was probably linked to agricultural exhaustion of the narrow valley combined with political stress, but the population continued living in the area for centuries after the kings stopped building.
+score: 9.5
 ---
 
 The Copán Archaeological Site, run by the Honduras Institute of Anthropology and History, is one of the most intensively excavated Mayan sites in the world. The Principal Group covers the core of the ancient city: the Acropolis (a massive complex of superimposed temples on an artificial platform), the Great Plaza (surrounded by intricate stelae), the East and West Courts, and the Hieroglyphic Stairway.

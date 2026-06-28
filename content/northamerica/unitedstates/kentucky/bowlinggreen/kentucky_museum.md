@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.9889
 longitude: -86.4543
+score: 6.8
 ---
 
 Located on the WKU campus, the Kentucky Museum is a solid regional history and folk arts museum covering Kentucky life from pre-settlement through the 20th century. The permanent collection includes quilts, pottery, furniture, and everyday objects from Kentucky households across three centuries, plus rotating exhibits on local history and art. There is also a dedicated gallery on the Civil War in Kentucky — which was a border state with deep divisions, and whose history is more complex than either North or South usually acknowledges.

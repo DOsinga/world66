@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, waterfall]
 latitude: 6.9890
 longitude: 0.5800
+score: 6.8
 ---
 
 A less-visited waterfall north of Klouto, near the Ghanaian border. The walk in takes about an hour from the village of Yikpa, through cocoa farms and forest. The falls drop into a small natural pool that is safe for swimming.

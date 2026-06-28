@@ -9,6 +9,7 @@ longitude: 17.2382
 snippet: "Steep Adriatic-facing vineyards producing one of Croatia's most respected red wines"
 story: >
   The Postup appellation was established in 1961, making it one of the earliest protected wine designations in Yugoslavia. The steep, rocky slopes create conditions of intense reflected heat and low water retention — the vines struggle, which concentrates the flavour in the small clusters of Plavac Mali grapes.
+score: 7.8
 ---
 
 The vineyards of Postup cover the steep, south-facing slopes above the Adriatic, growing the Plavac Mali grape that produces one of Croatia's most admired red wines. The terrain is dramatic: terraced rows of old vines on rocky ground, dropping toward the sea with views across to the islands of Korčula and Mljet.

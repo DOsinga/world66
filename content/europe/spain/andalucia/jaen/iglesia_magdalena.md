@@ -9,6 +9,7 @@ tags:
   - church
   - historic
 snippet: "The oldest church in Jaén, built over a Moorish mosque."
+score: 8.0
 ---
 
 La Magdalena is the oldest of the city's churches, raised in the 13th century on the site of the principal mosque of Moorish Jaén — and incorporating the mosque's minaret as its bell tower. The tower has the unmistakable proportions of an Almohad-period minaret, complete with the brick decoration and the small arched windows.

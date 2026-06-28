@@ -1,200 +1,200 @@
 {
   "round": 845,
-  "timestamp": "2026-04-12T14:44:13",
+  "timestamp": "2026-06-13T19:56:48",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Colombia",
-      "path": "southamerica/colombia",
-      "prior_score": -7.4242,
-      "prior_variance": 12.357306,
-      "prior_n": 1
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -7.4197,
+      "prior_variance": 0.605342,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Ireland",
-      "path": "europe/ireland",
-      "prior_score": -7.188,
-      "prior_variance": 12.51499,
-      "prior_n": 1
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -7.2244,
+      "prior_variance": 0.760482,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Bay of Plenty",
-      "path": "australiaandpacific/newzealand/bay_of_plenty",
-      "prior_score": 2.4485,
-      "prior_variance": 1.875815,
-      "prior_n": 1
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_score": -7.6696,
+      "prior_variance": 0.748681,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Bonito",
-      "path": "southamerica/brazil/bonito",
-      "prior_score": 6.0932,
-      "prior_variance": 1.58697,
-      "prior_n": 1
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_score": -6.0435,
+      "prior_variance": 0.597584,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Devil's Tower",
-      "path": "northamerica/unitedstates/wyoming/devilstower",
-      "prior_score": 1.0813,
-      "prior_variance": 1.540404,
-      "prior_n": 1
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -8.0557,
+      "prior_variance": 0.85026,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Westport",
-      "path": "europe/ireland/westport",
-      "prior_score": 6.3608,
-      "prior_variance": 1.528674,
-      "prior_n": 1
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -5.2867,
+      "prior_variance": 0.638864,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Hallingdal",
-      "path": "europe/norway/hallingdal",
-      "prior_score": 1.5567,
-      "prior_variance": 1.616392,
-      "prior_n": 1
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_score": -7.5415,
+      "prior_variance": 1.321358,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Maribor",
-      "path": "europe/slovenia/maribor",
-      "prior_score": 2.5207,
-      "prior_variance": 0.833162,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_score": -5.2881,
+      "prior_variance": 0.646775,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Portoroz",
-      "path": "europe/slovenia/portoroz",
-      "prior_score": 5.6388,
-      "prior_variance": 0.982962,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_score": -6.1706,
+      "prior_variance": 0.652948,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Kalahari Desert",
-      "path": "africa/botswana/kalaharidesert",
-      "prior_score": -0.6517,
-      "prior_variance": 1.300208,
-      "prior_n": 1
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -7.333,
+      "prior_variance": 0.567089,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Schiltach",
-      "path": "europe/germany/badenwrttemberg/schiltach",
-      "prior_score": 2.3587,
-      "prior_variance": 1.657726,
-      "prior_n": 1
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -7.1437,
+      "prior_variance": 0.604561,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Matara",
-      "path": "asia/srilanka/matara",
-      "prior_score": 0.5814,
-      "prior_variance": 1.585926,
-      "prior_n": 1
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -8.4208,
+      "prior_variance": 0.626364,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Loja",
-      "path": "southamerica/ecuador/loja",
-      "prior_score": -0.174,
-      "prior_variance": 1.325709,
-      "prior_n": 1
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -7.1441,
+      "prior_variance": 0.950717,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Bijagos Islands",
-      "path": "africa/guineabissau/bijagosislands",
-      "prior_score": -3.552,
-      "prior_variance": 1.300685,
-      "prior_n": 1
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -11.0297,
+      "prior_variance": 1.366649,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Warrnambool",
-      "path": "australiaandpacific/australia/victoria/warrnambool",
-      "prior_score": 2.2381,
-      "prior_variance": 1.296601,
-      "prior_n": 1
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": -7.3454,
+      "prior_variance": 0.606464,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Mount Gambier",
-      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
-      "prior_score": 1.0116,
-      "prior_variance": 1.167459,
-      "prior_n": 1
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -8.573,
+      "prior_variance": 0.944004,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Quang Tri",
-      "path": "asia/vietnam/quang_tri",
-      "prior_score": -3.0222,
-      "prior_variance": 1.293785,
-      "prior_n": 1
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -6.9974,
+      "prior_variance": 0.89231,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "'Uoleva",
-      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
-      "prior_score": 2.5894,
-      "prior_variance": 1.355589,
-      "prior_n": 1
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -8.1045,
+      "prior_variance": 1.326958,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Sherbro island",
-      "path": "africa/sierraleone/sherbroisland",
-      "prior_score": -4.6225,
-      "prior_variance": 1.268046,
-      "prior_n": 1
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -8.7461,
+      "prior_variance": 0.469568,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Bankas",
-      "path": "africa/mali/dogoncountry/bankas",
-      "prior_score": -1.6127,
-      "prior_variance": 1.400398,
-      "prior_n": 1
+      "title": "Handan",
+      "path": "asia/china/hebei/handan",
+      "prior_score": -6.9921,
+      "prior_variance": 0.808685,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Dayton",
-      "path": "northamerica/unitedstates/ohio/dayton",
-      "prior_score": -4.7605,
-      "prior_variance": 1.528838,
-      "prior_n": 1
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -5.1096,
+      "prior_variance": 1.200317,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Upper Montclair",
-      "path": "northamerica/unitedstates/newjersey/uppermontclair",
-      "prior_score": -6.9686,
-      "prior_variance": 1.204629,
-      "prior_n": 1
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -8.7411,
+      "prior_variance": 0.657059,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Santa Rita",
-      "path": "southamerica/brazil/santa_rita",
-      "prior_score": -5.2985,
-      "prior_variance": 2.199708,
-      "prior_n": 1
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -8.6743,
+      "prior_variance": 1.304043,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Las Anod",
-      "path": "africa/somalia/lasanod",
-      "prior_score": -13.3702,
-      "prior_variance": 7.462349,
-      "prior_n": 1
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_score": -7.417,
+      "prior_variance": 0.717393,
+      "prior_n": 2
     }
   ]
 }

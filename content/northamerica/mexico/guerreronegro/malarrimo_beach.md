@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.0500
 longitude: -114.3500
+score: 7.0
 ---
 
 Malarrimo Beach, about 60km north of Guerrero Negro on a rough dirt road, is one of the strangest beaches in the world. Converging Pacific currents deposit debris from across the ocean onto this single stretch of coast — glass fishing floats from Japan, lumber from Canada, plastic from everywhere — creating a layered accumulation of flotsam that is part natural curiosity, part environmental document, part treasure hunt. A few decades ago the beach yielded genuinely unusual finds: pre-war Japanese glass floats, old ship timbers, bottles and ceramics. The haul is more plastic these days, but the beach retains its bizarre atmosphere.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a,_Veje
 latitude: 36.2521
 loc_type: city
 longitude: -5.9636
+score: 8.45
+snippet: White hilltop town in Cádiz province, where Moorish walls overlook La Janda
+  and the Atlantic plain.
 sources:
 - https://en.wikipedia.org/wiki/Vejer_de_la_Frontera
 - https://www.guiadecadiz.com/turismo-cultural-detalle/iglesia-del-divino-salvador-vejer

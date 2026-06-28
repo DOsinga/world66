@@ -11,6 +11,7 @@ tags:
 - nature
 title: Iruya
 type: poi
+score: 8.4
 ---
 
 Iruya is one of those places that exists on a different rhythm. The village clings to a steep slope above the confluence of two rivers, its narrow streets following the contours of the cliff, its low whitewashed houses giving onto stone-walled terraces below. The drive in — three hours from Humahuaca on rough mountain road — is part of the appeal: the views from the high pass alone justify the trip.

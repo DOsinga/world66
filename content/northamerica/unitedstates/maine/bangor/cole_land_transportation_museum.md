@@ -9,6 +9,7 @@ story: >
   Depression and wanted to preserve the vehicles that had shaped Maine's working economy.
   It holds the largest collection of historic snow-clearing equipment in North America —
   a tribute to Maine's winters.
+score: 7.1
 ---
 
 The Cole Land Transportation Museum is an enthusiast's delight — three acres of Maine transportation history spanning more than 200 years. The collection runs from horse-drawn carriages through early automobiles to military vehicles, but the standouts are the working trucks, snowplows, and logging equipment that define Maine's industrial past. The museum also holds a significant collection of World War II vehicles, including several rare pieces not seen elsewhere.

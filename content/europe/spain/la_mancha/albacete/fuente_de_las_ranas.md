@@ -6,6 +6,7 @@ longitude: -1.8523
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 The "Fountain of the Frogs" sits at the centre of a small leafy square on Calle Mayor, north of the cathedral. A 19th-century cast-iron fountain — the basin perched with four bronze frogs spitting water — it is the most beloved bit of street furniture in the city centre and the unofficial meeting-point of central Albacete.

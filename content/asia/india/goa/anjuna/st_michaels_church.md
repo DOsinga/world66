@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The whitewashed baroque church on the inland edge of Anjuna village is one of the older Portuguese churches in Bardez taluka, founded in 1595 and rebuilt in its present form in 1810. The interior is decorated with gilt woodwork and a fine altarpiece.

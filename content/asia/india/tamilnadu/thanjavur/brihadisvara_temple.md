@@ -14,6 +14,7 @@ story: >
   80 tonnes — was hauled to the top of the 66-metre tower along a ramp said to
   have started 6 km away, during a period when no crane or mechanical device of
   comparable capacity existed. Modern engineers still debate exactly how it was done.
+score: 9.8
 ---
 
 The Brihadisvara Temple — known locally as the Big Temple, or Thanjai Periya Kovil — is one of the great architectural achievements of medieval India. Built by Raja Raja Chola I and consecrated around 1010 CE, it was the largest temple in the world at the time of its completion. The vertical scale is extraordinary: the central vimana (tower over the sanctum) rises 66 metres above the courtyard in 13 tapering tiers, topped by an octagonal cupola carved from a single block of stone.

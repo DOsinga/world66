@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - history
+score: 7.8
 ---
 
 The Roman theatre is the most visible remnant of Teramo's Roman past — the ancient Interamnia Praetuttiorum, founded in the early third century BC. The theatre dates from the first century AD and could seat around 3,000 people; the curved retaining wall of the cavea is still standing, embedded in the medieval and modern buildings around it.

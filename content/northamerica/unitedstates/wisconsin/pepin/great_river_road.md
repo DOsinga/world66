@@ -9,6 +9,7 @@ latitude: 44.4406
 longitude: -92.1288
 sources:
   - https://en.wikipedia.org/wiki/Great_River_Road
+score: 7.9
 ---
 
 Wisconsin Highway 35 follows the eastern bluff of the Mississippi for hundreds of miles through western Wisconsin, and Pepin sits at one of its most scenic stretches. The road hugs the shore of Lake Pepin here, with the bluffs rising steeply on one side and the lake spreading wide on the other.

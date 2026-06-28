@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.9911
 longitude: -2.1611
+score: 7.6
 ---
 
 The Abbey Gatehouse stands at the entrance to the abbey precinct on Church Street and is the most substantial surviving element of the monastic buildings that once surrounded the abbey church. It dates from the fourteenth century and was the main entrance through which monks, visitors, and tradesmen entered the monastic enclosure.

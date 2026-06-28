@@ -13,6 +13,7 @@ story: >
   from the 10th to 13th centuries, when this remote corner of Macedonia was a
   significant centre of Byzantine monastic life, with dozens of hermitages and
   small monasteries scattered through the lakeside rocks and forests.
+score: 8.4
 ---
 
 The rocky shores of Macro Prespa are scattered with Byzantine frescoes painted directly onto cliff faces — images of saints, Christ, and the Virgin painted by the hermit monks who lived in caves and rock-cut chapels around the lake from the 10th century onwards. The paintings survive in varying condition, some remarkably intact given their age and outdoor exposure.

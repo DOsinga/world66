@@ -9,6 +9,7 @@ latitude: 39.0553
 longitude: -108.5614
 sources:
   - https://en.wikipedia.org/wiki/Western_Colorado_Botanical_Gardens
+score: 5.9
 ---
 
 A 15-acre botanical garden and butterfly house on the bank of the Colorado River at the south end of 7th Street. The garden focuses on high-desert and Colorado Plateau plants — native cacti, ornamental grasses, wildflowers — with a greenhouse and an enclosed butterfly pavilion. It's a calm, well-maintained space that provides some welcome green in an otherwise dry landscape.

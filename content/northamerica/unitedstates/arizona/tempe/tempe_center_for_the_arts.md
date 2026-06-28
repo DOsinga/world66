@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - theatre
+score: 6.0
 ---
 
 The Tempe Center for the Arts is a striking modern arts venue on the south shore of Tempe Town Lake, opened in 2007. The building's swooping roofline is meant to echo the sails on the water. Inside there's a 600-seat theatre, a more intimate studio space, and a gallery showing rotating exhibitions by Arizona artists.

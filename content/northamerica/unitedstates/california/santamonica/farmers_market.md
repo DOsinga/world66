@@ -7,6 +7,7 @@ tags:
 latitude: 34.0153
 longitude: -118.4964
 snippet: "One of the best farmers markets in California — Wednesday and Saturday on Arizona Avenue"
+score: 8.6
 ---
 
 The Santa Monica Farmers Market on Wednesday mornings at Arizona and 2nd Street is widely considered one of the best in California. Chefs from restaurants across Los Angeles come here to shop, which is generally a reliable signal of quality. The produce is seasonal and genuinely local — stone fruits in summer, citrus in winter, strawberries seemingly always — alongside vendors selling olives, cheese, herbs, nuts, and prepared food.

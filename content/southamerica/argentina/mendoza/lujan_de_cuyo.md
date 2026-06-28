@@ -18,6 +18,7 @@ story: >
   from less distinguished production elsewhere.
 sources:
   - https://en.wikipedia.org/wiki/Lujan_de_Cuyo
+score: 8.6
 ---
 
 Luján de Cuyo, about 25 kilometres south of Mendoza city, is the heartland of Argentine Malbec. The vineyards sit at around 1,000 metres above sea level on alluvial soils at the foot of the Andes, and the altitude — combined with the intense sun and cold nights — produces wines with concentration and structure that lower-altitude production cannot easily replicate. The region was the first demarcated wine appellation in Argentina and remains the benchmark against which other Malbec regions measure themselves.

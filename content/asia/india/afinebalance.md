@@ -1,10 +1,8 @@
 ---
 author: Rohinton Mistry
 snippet: Sweeping novel of four lives in 1970s India
-tags:
-- books
 title: A Fine Balance
-type: poi
+type: theme
 ---
 
 Rohinton Mistry's 1995 novel follows four characters — two tailors from an untouchable village, a student, and a widowed seamstress — whose lives converge in a Bombay apartment during the Emergency of 1975–77. It is a devastating portrait of what happens when a government suspends civil liberties and the poor bear the brunt.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ll%C5%B7n_Peninsula_near_N
 latitude: 52.8712
 loc_type: city
 longitude: -4.4788
-score: 0.54
+score: 7.78
+snippet: Narrow Welsh peninsula of National Trust beaches, exposed headlands, and
+  two contrasting Irish Sea coasts.
 sources:
 - https://en.wikipedia.org/wiki/Ll%C5%B7n_Peninsula
 - https://en.wikipedia.org/wiki/Bardsey_Island

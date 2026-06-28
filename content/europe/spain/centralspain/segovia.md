@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcazar_de_segovia_-_vistr
 latitude: 40.9481
 loc_type: city
 longitude: -4.1172
-score: 0.67
+score: 8.98
+snippet: Walled Castilian city where a Roman aqueduct strides into the old centre
+  below the Alcázar
 title: Segovia
 type: location
 ---

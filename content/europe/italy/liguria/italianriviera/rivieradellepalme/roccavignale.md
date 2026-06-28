@@ -4,7 +4,9 @@ done:
 latitude: 44.3472
 loc_type: city
 longitude: 8.1647
-score: 0.42
+score: 6.9
+snippet: Agricultural Bormida valley commune with vineyard origins, a feudal castle,
+  and Savoy-era history.
 title: Roccavignale
 todo_location_cleanup: done
 type: location

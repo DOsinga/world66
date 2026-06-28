@@ -16,6 +16,7 @@ tags:
   - history
   - old_town
 neighbourhood: Old Town
+score: 8.1
 ---
 
 The area between Vokiečių, Žydų, and Gaono streets in the old town was once the Jewish quarter of Vilna, one of the most important centres of Jewish life in Europe. Before the Holocaust, Vilnius had a Jewish population of around 75,000; the community supported dozens of synagogues, hundreds of charitable organisations, publishers, theatres, and schools in multiple languages. The Great Synagogue of Vilna, one of the most celebrated in Europe, stood here.

@@ -7,7 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Universidad-Alcala-180819_
 latitude: 40.482
 loc_type: city
 longitude: -3.364
-score: 0.57
+score: 8.28
+snippet: University city east of Madrid, birthplace of Cervantes and a UNESCO-listed
+  planned academic centre.
 title: Alcalá de Henares
 type: location
 ---

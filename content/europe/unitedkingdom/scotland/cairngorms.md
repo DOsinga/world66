@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cairngorms-national-park-1
 latitude: 57.0833
 loc_type: feature
 longitude: -3.6667
+score: 8.6
+snippet: United Kingdom’s largest national park, covering high plateau, Caledonian
+  forest, and eastern Highland rivers.
 sources:
 - https://en.wikipedia.org/wiki/Cairngorms_National_Park
 - https://en.wikipedia.org/wiki/Cairngorms

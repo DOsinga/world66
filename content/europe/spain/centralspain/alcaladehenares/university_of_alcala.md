@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.4825
 longitude: -3.3612
+score: 9.2
 ---
 
 The University of Alcalá is the central monument of the city — a magnificent Renaissance complex founded by Cardinal Cisneros in 1499, making it one of the world's first planned university cities. The main building, the Colegio Mayor de San Ildefonso, faces the Plaza de San Diego with a spectacular Plateresque facade completed in 1553, a dense tapestry of medallions, coats of arms, and classical ornament that represents the high point of this distinctly Spanish architectural style.

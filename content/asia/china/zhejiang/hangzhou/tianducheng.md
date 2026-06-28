@@ -14,6 +14,7 @@ story: >
   Haussmann-style apartment blocks — and discovered that Chinese buyers weren't
   keen on living an hour from the nearest city. It has slowly filled in since,
   but the uncanny emptiness made it internationally famous.
+score: 6.8
 ---
 
 Tianducheng is a residential development north of Hangzhou built as a replica of Paris — complete with a one-third-scale Eiffel Tower, broad Haussmann-style boulevards, and a central garden modelled on the Champs-Élysées. It was intended as an upscale gated community and has become one of the most photographed examples of China's appetite for European architectural mimicry.

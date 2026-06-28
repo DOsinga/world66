@@ -9,6 +9,7 @@ tags:
 - art
 title: Norton Museum of Art
 type: poi
+score: 8.5
 ---
 
 The Norton is the only serious art museum between Miami and Orlando, and a genuine surprise for a city of West Palm Beach's size. The collection has three clear strengths: Chinese ceramics and jades from the Han dynasty onward, early 20th-century American painting (O'Keeffe, Hopper, Davis), and a growing photographic and contemporary holdings including Warhol, Lichtenstein and Sherman.

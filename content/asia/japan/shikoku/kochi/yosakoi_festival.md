@@ -11,6 +11,7 @@ story: >
   Yosakoi was created in 1954 by Kōchi merchants who wanted to lift the city's spirits after postwar hardship. They combined traditional Bon dance movements with samba-style energy and a thumping drumbeat. The festival was a local event for decades; then a Sapporo version took off in the 1990s, and Yosakoi became a national craze. Kōchi-style remains the original and, many aficionados think, the best.
 sources:
   - https://en.wikipedia.org/wiki/Yosakoi
+score: 9.0
 ---
 
 The Yosakoi Festival takes place each year on August 9–12 and transforms Kōchi into one of the great spectacles of Japanese summer. Around 200 dance teams — companies, university clubs, and community groups — compete over four days in multiple venues across the city, each performing a choreographed routine set to a version of the traditional Yosakoi melody remixed in their own style. The costumes range from historical to outlandish.

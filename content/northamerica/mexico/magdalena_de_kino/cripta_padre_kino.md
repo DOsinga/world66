@@ -8,6 +8,7 @@ tags:
 latitude: 30.6280
 longitude: -110.9594
 story: "Padre Eusebio Kino died in Magdalena on 15 March 1711 while consecrating a chapel to St Francis Xavier. His grave was lost for two and a half centuries. An archaeological team, led by Mexico's Jorge Olvera and the United States historian Charles Polzer, located the skeleton in 1966 under the floor of a vanished chapel. Mexico, the United States, and the Vatican together funded the construction of the present mausoleum, which opened in 1971."
+score: 7.8
 ---
 
 The open-air mausoleum on the Plaza Monumental holds the skeleton of Padre Eusebio Francisco Kino, the Tyrolean-born Jesuit missionary who founded more than twenty missions across the Pimería Alta — what is now northern Sonora and southern Arizona — between 1687 and his death here in 1711. The remains lie under glass; visitors can walk right up.

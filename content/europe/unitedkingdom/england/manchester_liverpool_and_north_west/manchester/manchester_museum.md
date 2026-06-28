@@ -11,6 +11,7 @@ type: poi
 snippet: University museum with Egyptian mummies, dinosaurs, and a live bee colony
 sources:
   - https://en.wikipedia.org/wiki/Manchester_Museum
+score: 8.7
 ---
 
 The Manchester Museum is the University of Manchester's natural history and cultural collection, housed in a Victorian Gothic building on Oxford Road. Its breadth is genuinely impressive: Egyptian mummies (one of the largest such collections in the UK), dinosaur skeletons, a vivarium housing live reptiles, archaeological finds from across the world, and a working beehive built into the exterior wall. Free entry.

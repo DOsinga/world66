@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Siracusa_-_Panorama_da_For
 latitude: 37.0646
 loc_type: city
 longitude: 15.2907
-score: 0.75
+score: 9.28
 title: Siracusa
+snippet: Ancient Sicilian city where Greek temples, Baroque Ortigia, and Mediterranean
+  harbour life overlap.
 type: location
 ---
 

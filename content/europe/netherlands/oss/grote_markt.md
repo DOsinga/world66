@@ -8,6 +8,7 @@ latitude: 51.7670
 longitude: 5.5197
 sources:
   - https://en.wikipedia.org/wiki/Oss
+score: 6.2
 ---
 
 The Grote Markt is the heart of Oss, a broad market square lined with cafes and flanked by the town hall. It is a pleasant enough space by day — busy on market days, quieter on weekdays — and the main focus of street life in the evenings.

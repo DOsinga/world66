@@ -9,6 +9,7 @@ latitude: 12.6075
 longitude: 37.4700
 sources:
   - https://en.wikipedia.org/wiki/Fasil_Ghebbi
+score: 9.5
 ---
 
 The Royal Enclosure is Gondar's defining monument — a walled compound of about 70,000 square metres enclosing six castles, palaces, and ceremonial buildings constructed by successive emperors between 1636 and the early 18th century. The complex is a UNESCO World Heritage Site and one of the most striking sights in sub-Saharan Africa.

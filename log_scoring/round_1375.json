@@ -1,200 +1,200 @@
 {
   "round": 1375,
-  "timestamp": "2026-04-12T22:24:20",
+  "timestamp": "2026-06-13T20:26:52",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Torres del Paine",
-      "path": "southamerica/argentina/patagonia/torresdelpaine",
-      "prior_rank": 261,
-      "prior_wins": 61,
-      "prior_n": 3
+      "title": "Zhangye Danxia Geological Park",
+      "path": "asia/china/gansu/zhangye_danxia",
+      "prior_score": 8.0202,
+      "prior_variance": 0.462849,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Kailua-Kona",
-      "path": "northamerica/unitedstates/hawaii/kailuakona",
-      "prior_rank": 738,
-      "prior_wins": 111,
-      "prior_n": 6
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 3.5351,
+      "prior_variance": 0.428043,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Lombok",
-      "path": "asia/indonesia/lombok",
-      "prior_rank": 219,
-      "prior_wins": 123,
-      "prior_n": 6
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 6.0274,
+      "prior_variance": 0.341175,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Skogar",
-      "path": "europe/iceland/skogar",
-      "prior_rank": 1415,
-      "prior_wins": 50,
-      "prior_n": 3
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 6.2704,
+      "prior_variance": 0.401872,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Culebra",
-      "path": "northamerica/puertorico/culebra",
-      "prior_rank": 895,
-      "prior_wins": 54,
-      "prior_n": 3
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 6.9917,
+      "prior_variance": 0.323925,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Tobago",
-      "path": "northamerica/trinidadandtobago/tobago",
-      "prior_rank": 1672,
-      "prior_wins": 56,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 5.4915,
+      "prior_variance": 0.386792,
       "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Vanuatu",
-      "path": "australiaandpacific/vanuatu",
-      "prior_rank": 508,
-      "prior_wins": 58,
-      "prior_n": 3
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 4.0244,
+      "prior_variance": 0.335096,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Oregon",
-      "path": "northamerica/unitedstates/oregon",
-      "prior_rank": 270,
-      "prior_wins": 120,
-      "prior_n": 6
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 3.7701,
+      "prior_variance": 0.325472,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Mammoth Lakes",
-      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
-      "prior_rank": 805,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 1.5884,
+      "prior_variance": 0.389553,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Maine",
-      "path": "northamerica/unitedstates/maine",
-      "prior_rank": 786,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.7498,
+      "prior_variance": 0.351324,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Villarrica",
-      "path": "southamerica/chile/villarrica",
-      "prior_rank": 903,
-      "prior_wins": 72,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.6869,
+      "prior_variance": 0.315,
       "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Alpe d'Huez",
-      "path": "europe/france/alpes/alpdhuez",
-      "prior_rank": 618,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.4653,
+      "prior_variance": 0.322949,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Erice",
-      "path": "europe/italy/sicily/erice",
-      "prior_rank": 493,
-      "prior_wins": 58,
-      "prior_n": 3
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.8645,
+      "prior_variance": 0.332993,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Ibiza Town",
-      "path": "europe/spain/balearicislands/ibiza/ibizatown",
-      "prior_rank": 2763,
-      "prior_wins": 42,
-      "prior_n": 3
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -1.2455,
+      "prior_variance": 0.419964,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Maspalomas",
-      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
-      "prior_rank": 5580,
-      "prior_wins": 26,
-      "prior_n": 3
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": -0.2113,
+      "prior_variance": 0.475626,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Puerto Aventuras",
-      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
-      "prior_rank": 449,
-      "prior_wins": 78,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -2.8326,
+      "prior_variance": 0.463071,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Palm Cove",
-      "path": "australiaandpacific/australia/queensland/palmcove",
-      "prior_rank": 454,
-      "prior_wins": 78,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.7625,
+      "prior_variance": 0.454386,
       "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Medellin",
-      "path": "southamerica/colombia/medellin",
-      "prior_rank": 170,
-      "prior_wins": 63,
-      "prior_n": 3
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.8043,
+      "prior_variance": 0.323165,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Nanjing",
-      "path": "asia/china/jiangsu_province/nanjing",
-      "prior_rank": 864,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -5.7354,
+      "prior_variance": 0.313411,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Caserta",
-      "path": "europe/italy/campania/caserta",
-      "prior_rank": 1031,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -3.6589,
+      "prior_variance": 0.381807,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Sanremo",
-      "path": "europe/italy/liguria/sanremo",
-      "prior_rank": 2022,
-      "prior_wins": 46,
-      "prior_n": 3
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -4.1498,
+      "prior_variance": 0.299148,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Western Isles (Outer Hebrides)",
-      "path": "europe/unitedkingdom/scotland/western_isles__th",
-      "prior_rank": 1248,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -7.9964,
+      "prior_variance": 0.609069,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Dorset",
-      "path": "europe/unitedkingdom/dorset",
-      "prior_rank": 1979,
-      "prior_wins": 62,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -5.9948,
+      "prior_variance": 0.389118,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "St Peter Port",
-      "path": "europe/channelislands/guernsey/st_peter_port",
-      "prior_rank": 2270,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -0.4797,
+      "prior_variance": 0.328111,
+      "prior_n": 4
     }
   ]
 }

@@ -6,6 +6,7 @@ longitude: -1.2153
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 Plaza de la Villa is the main square of Sos del Rey Católico, arcaded on its lower sides with the town hall — a handsome Renaissance building — closing one end. The square functions as the social centre of the village and in summer becomes a terrace for the few bars and restaurants that keep the town fed.

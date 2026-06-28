@@ -10,6 +10,7 @@ story: >
 sources:
   - https://gonarezhou.org/
   - https://conservationmag.org/en/places/gonarezhou-national-park-zimbabwe-a-park-reborn
+score: 6.6
 ---
 
 Gonarezhou takes its name from the place of many elephants, and the park lives up to it. Estimates put the population at 10,000 to 11,000 animals — a figure that represents one of the largest concentrations in Zimbabwe and one of the most significant elephant populations in all of southern Africa. During the dry season, when the Runde and Save rivers are the main water sources, herds converge on the riverbanks in numbers that can be genuinely overwhelming. Fifty animals at a waterhole is unremarkable; a hundred is not unusual.

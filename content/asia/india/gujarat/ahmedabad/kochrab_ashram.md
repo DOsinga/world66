@@ -8,6 +8,7 @@ tags:
 latitude: 23.0158
 longitude: 72.5667
 snippet: "Gandhi's first Indian ashram, 1915-1917"
+score: 7.6
 ---
 
 Kochrab Ashram, in a quiet residential lane in Paldi, was Mohandas Gandhi's first ashram in India — he founded it on 25 May 1915, less than a year after returning from South Africa, in a bungalow lent to him by a Gujarati lawyer. The ashram operated for two and a half years before Gandhi moved the experiment to the larger riverbank site at [Sabarmati](/asia/india/gujarat/ahmedabad/sabarmati_ashram) in June 1917.

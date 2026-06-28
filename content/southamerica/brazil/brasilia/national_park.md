@@ -7,6 +7,7 @@ snippet: 425 km² of protected cerrado, with natural pools to swim in
 tags:
 - things_to_do
 - park
+score: 8.4
 ---
 
 A surprisingly large slice of protected wilderness just north of the city — 425 km² of Cerrado savannah, gallery forest, and clear sandy-bottomed streams. The signature attraction is the **Piscinas Velhas** and **Piscinas Pedreiras**, two sets of natural rock pools fed by spring water, where you can swim with small fish.

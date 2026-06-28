@@ -8,6 +8,7 @@ tags:
   - onsen
 latitude: 36.2600
 longitude: 137.9900
+score: 6.7
 ---
 
 Asama Onsen is the closest hot spring district to central Matsumoto — about 15 minutes by bus from the station. The springs were noted in the eighth-century Manyōshū and have been a bathing resort since at least the Edo period. The water is mildly alkaline and the bath houses range from very basic public baths to upscale ryokan with rooms.

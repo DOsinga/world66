@@ -1,0 +1,200 @@
+{
+  "round": 4265,
+  "timestamp": "2026-06-13T23:58:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 9.6308,
+      "prior_variance": 0.239694,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_score": 7.5442,
+      "prior_variance": 0.171257,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 3.7431,
+      "prior_variance": 0.099344,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 4.8147,
+      "prior_variance": 0.113796,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.5438,
+      "prior_variance": 0.084652,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.6957,
+      "prior_variance": 0.096493,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 3.7874,
+      "prior_variance": 0.108127,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.5663,
+      "prior_variance": 0.107059,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 4.0567,
+      "prior_variance": 0.109473,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 3.2253,
+      "prior_variance": 0.121958,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 2.408,
+      "prior_variance": 0.095558,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "San Crist\u00f3bal de La Laguna",
+      "path": "europe/spain/canaryislands/tenerife/lalaguna",
+      "prior_score": 3.3222,
+      "prior_variance": 0.090129,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 1.2621,
+      "prior_variance": 0.09737,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 3.2581,
+      "prior_variance": 0.137304,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.3458,
+      "prior_variance": 0.100977,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.5969,
+      "prior_variance": 0.089561,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": -0.0584,
+      "prior_variance": 0.093606,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -5.3761,
+      "prior_variance": 0.115135,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Andasibe",
+      "path": "africa/madagascar/andasibe",
+      "prior_score": 2.3863,
+      "prior_variance": 0.104092,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -3.787,
+      "prior_variance": 0.106422,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.4125,
+      "prior_variance": 0.109273,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -4.1677,
+      "prior_variance": 0.115342,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.5175,
+      "prior_variance": 0.199403,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -5.8517,
+      "prior_variance": 0.125802,
+      "prior_n": 14
+    }
+  ]
+}

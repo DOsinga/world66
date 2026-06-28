@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Sharbat Khaneh
 type: poi
+score: 6.1
 ---
 
 Sharbat Khaneh occupies a restored Qajar-era house in the old quarter and is one of

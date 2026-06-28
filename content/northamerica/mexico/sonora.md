@@ -3,9 +3,11 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
 latitude: 29.333333
-loc_type: city
+loc_type: region
 longitude: -110.666667
-score: 0.42
+score: 6.64
+snippet: Northwestern Mexican frontier state of Sonoran Desert, Sierra Madre foothills,
+  and Sea of Cortez beaches.
 title: Sonora
 type: location
 ---

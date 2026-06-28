@@ -11,6 +11,7 @@ latitude: 52.5478
 longitude: -2.8389
 sources:
   - https://en.wikipedia.org/wiki/Long_Mynd
+score: 9.1
 ---
 
 The Long Mynd is a broad moorland plateau running for about 10 miles north to south, rising to 516 metres at Pole Bank. In Welsh, "mynd" means mountain or moorland, and the Long Mynd lives up to the name — the plateau is open, treeless, and genuinely exposed, with views in clear conditions stretching to Snowdonia, the Brecon Beacons, and the Malverns. The eastern escarpment drops steeply into Church Stretton; the western flanks roll more gently towards Bishop's Castle.

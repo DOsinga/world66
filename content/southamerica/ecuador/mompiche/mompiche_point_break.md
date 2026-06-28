@@ -6,6 +6,7 @@ tags:
 - sport
 title: Mompiche Point Break
 type: poi
+score: 8.5
 ---
 
 The wave that put Mompiche on the map is a long left-hand point break at the northern end of the bay. On a good day it offers rides of 200 metres or more, peeling consistently along a rocky headland. The break works best from December to April when the north swells are running, though smaller waves arrive year-round. It is not a beginner wave — the rocks at the takeoff zone demand confidence — but intermediate surfers will find it rewarding.

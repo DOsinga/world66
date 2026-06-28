@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The most monumental of the four surviving gates into the walled old town, the Land Gate was built by the Venetian architect Michele Sanmicheli in 1543. A central triumphal arch is flanked by two smaller pedestrian arches, with the Venetian lion of St Mark above and an equestrian relief of the city's patron St Chrysogonus on horseback.

@@ -6,6 +6,7 @@ longitude: 44.3155
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 Najaf's hawza — the network of Shia seminaries clustered around the Imam Ali Shrine — is one of the great centres of religious learning in the Muslim world, and the Al-Yazdi Madrasa is among its more atmospheric corners. Built in the late nineteenth century by Sayyid Muhammad Kazim al-Yazdi, the school has some seventy student cells around an inner courtyard, deep cellars to escape the summer heat, and brick-lined wells that drop nearly thirty metres down to the water table.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.8
 ---
 
 Trikora is the most accessible of Bintan's east coast beaches from Tanjung Pinang — about 50 kilometres along the coastal road, easily reached by hired motorbike or taxi in under an hour. The beach itself is a long, gently curving stretch of white sand backed by coconut palms, with calm water sheltered from ocean swells that makes it suitable for swimming even with children.

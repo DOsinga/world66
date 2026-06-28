@@ -15,6 +15,7 @@ story: >
   the windows.
 sources:
   - https://en.wikipedia.org/wiki/Chatham_Manor
+score: 8.1
 ---
 
 Chatham Manor is a handsome Georgian plantation house built between 1768 and 1771 on a bluff overlooking the Rappahannock River, directly across from downtown Fredericksburg. The views from the formal gardens across the river to the old town are among the finest in the region, and the house itself has been meticulously restored by the National Park Service, which operates it as part of the Fredericksburg and Spotsylvania National Military Park.

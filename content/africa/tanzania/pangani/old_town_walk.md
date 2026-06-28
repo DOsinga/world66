@@ -6,6 +6,7 @@ longitude: 38.5667
 snippet: "Carved doors, Arab merchant houses, and the architectural memory of a slave port."
 tags: [things_to_do, sight, history]
 story: "Pangani's old town is a compact quarter where the stone-and-coral architecture tells the story of centuries of Indian Ocean trade. The carved wooden doors are the most immediate attraction — each is different, some with geometric patterns, others with brass studs and elaborate frames that were a mark of a merchant's wealth. Behind them stand the old Arab trading houses, many still inhabited, their inner courtyards shaded and cool."
+score: 8.1
 ---
 
 The old town is best walked slowly, ideally with one of the local elders who act as informal guides. They know which crumbling wall was once a slave depot, which doorway belongs to a family that traces its roots to Oman, and which overgrown corner hides a forgotten grave. Without that context it is easy to walk through and see only picturesque decay.

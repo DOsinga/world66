@@ -14,6 +14,7 @@ story: >
   history of Africa from colonialism to independence. At 150 square metres, it is
   one of the largest stained glass works on the continent. Tekle refused any outside
   assistance and completed the entire work alone.
+score: 8.3
 ---
 
 Africa Hall was built in 1961 to house the United Nations Economic Commission for Africa and served as the founding headquarters of the Organisation of African Unity (now the African Union) in 1963. The building is one of the most architecturally significant in Addis, a modernist structure designed to embody African ambitions at the height of the independence era.

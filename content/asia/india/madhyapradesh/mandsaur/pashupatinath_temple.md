@@ -13,6 +13,7 @@ story: >
   the Gupta period and depicts Shiva with each of his eight faces representing
   a different aspect of the god. Scholars believe the two temples may have been
   linked by ancient pilgrimage routes across the subcontinent.
+score: 7.1
 ---
 
 The Pashupatinath Temple stands on the bank of the Shivna River at the heart of Mandsaur's religious life. Its central idol — a rare eight-faced (ashtamukhi) Shiva — makes it one of only two such shrines in the world, the other being in Kathmandu. The temple complex is active throughout the day with ritual bathing, puja, and the constant movement of pilgrims.

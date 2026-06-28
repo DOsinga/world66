@@ -1,0 +1,200 @@
+{
+  "round": 3574,
+  "timestamp": "2026-06-13T23:04:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kamakura",
+      "path": "asia/japan/honshu/kamakura",
+      "prior_score": 9.6199,
+      "prior_variance": 0.250169,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.2532,
+      "prior_variance": 0.133293,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 2.5598,
+      "prior_variance": 0.146326,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 5.2167,
+      "prior_variance": 0.131455,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.4902,
+      "prior_variance": 0.107111,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -2.0524,
+      "prior_variance": 0.137846,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 3.1197,
+      "prior_variance": 0.124407,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.6155,
+      "prior_variance": 0.113128,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": -0.1916,
+      "prior_variance": 0.115,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": 0.1168,
+      "prior_variance": 0.12778,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 0.6118,
+      "prior_variance": 0.121059,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.1763,
+      "prior_variance": 0.092176,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.456,
+      "prior_variance": 0.114978,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -0.8624,
+      "prior_variance": 0.126592,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -0.8763,
+      "prior_variance": 0.121799,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.4411,
+      "prior_variance": 0.108087,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Meizhou Island",
+      "path": "asia/china/fujianprovince/meizhouisland",
+      "prior_score": -2.0118,
+      "prior_variance": 0.129546,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -1.5318,
+      "prior_variance": 0.13575,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Grenville",
+      "path": "northamerica/thecaribbean/grenada/grenville",
+      "prior_score": -0.0076,
+      "prior_variance": 0.121143,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.0701,
+      "prior_variance": 0.114107,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Sukarara",
+      "path": "asia/indonesia/lombok/sukarara",
+      "prior_score": -1.3177,
+      "prior_variance": 0.106607,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -2.873,
+      "prior_variance": 0.110981,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -2.1348,
+      "prior_variance": 0.117372,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -2.0798,
+      "prior_variance": 0.112584,
+      "prior_n": 12
+    }
+  ]
+}

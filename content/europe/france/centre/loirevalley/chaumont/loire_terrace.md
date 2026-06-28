@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.4789
 longitude: 1.1825
+score: 6.8
 ---
 
 The terrace runs along the south side of the château, perched above the river. From here you look down on the sandbars and willow islets of the Loire — Europe's last great wild river, mostly unembanked and prone to shifting course — and across to the village of Veuzain-sur-Loire on the far bank.

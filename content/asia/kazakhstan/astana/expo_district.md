@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 51.0902
 longitude: 71.4078
+score: 7.4
 ---
 
 The Expo District grew around the 2017 World's Fair site south of the centre. The central feature is the Nur Alem glass sphere; around it are the former national pavilions, now repurposed as the Astana International Financial Centre, with a growing cluster of bars, cafes, and small art galleries occupying the remodelled pavilion buildings.

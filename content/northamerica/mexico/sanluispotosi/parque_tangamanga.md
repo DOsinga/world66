@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.1283
 longitude: -100.9886
+score: 6.8
 ---
 
 Parque Tangamanga I is one of the largest urban parks in Mexico — over 420 hectares of woodland, sports facilities, artificial lakes, and open space a couple of kilometres southwest of the historic centre. It is where the city breathes: joggers, cyclists, picnicking families, and football games fill the park on weekend mornings, and the artificial lakes attract wading birds and rent rowboats.

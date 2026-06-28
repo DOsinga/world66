@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 17.4178
 longitude: 102.7849
+score: 7.0
 ---
 
 Housed in a colonial-style building that was once the Ratchinuthit Girls' School, the Udon Thani Museum tells the story of the province from prehistory through the Vietnam War years. The Ban Chiang section is necessarily a small introduction — the proper collection is at the Ban Chiang National Museum — but it is a good preview for anyone heading out there.

@@ -8,6 +8,7 @@ tags:
 story: Geographers long debated whether the Rio Guaíba is a river or a lake. It looks like a river — it flows in one direction and has clearly defined banks — but it is technically formed by the confluence of four rivers (the Jacuí, Caí, Sinos, and Gravataí) into a single broad body of water that then drains into the Lagoa dos Patos. The dispute was settled legally in 2015 when Rio Grande do Sul officially declared it a river. Porto Alegre largely ignored this ruling and continues to call it a lake when it suits them.
 title: Guaíba Sunset
 type: poi
+score: 8.4
 ---
 
 The sunset over the Rio Guaíba is Porto Alegre's most famous natural spectacle and one of the genuinely great urban sunsets in South America. The city sits on the east bank of a vast body of water — 50 kilometres long and up to 22 kilometres wide — and when the sun sets in the west, it sets over open water with the Serra Gaúcha hills dimly visible on clear days. The light on the water, turning from silver to gold to deep orange to purple as the sun drops, is dramatic enough that the whole city has made a ritual of watching it.

@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Plattsburgh,_New_York.jpg
 latitude: 44.696086
 loc_type: city
 longitude: -73.454291
-score: 0.42
+score: 6.67
 title: Plattsburgh
+snippet: Lake Champlain city near the Canadian border, remembered for a decisive War
+  of 1812 naval battle.
 type: location
 ---
 

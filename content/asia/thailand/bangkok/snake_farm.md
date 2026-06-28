@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 13.7321
 longitude: 100.5348
+score: 7.4
 snippet: Thai Red Cross venom centre with live cobra-milking shows.
 tags:
 - things_to_do
+- silom
 title: Snake Farm
 type: poi
 ---

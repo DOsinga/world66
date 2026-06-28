@@ -9,6 +9,7 @@ title: David Gareja Monastery
 type: poi
 story: >
   David Gareja sits on the border between Georgia and Azerbaijan, and the exact boundary has been disputed since both countries became independent in 1991. The more lavishly decorated Udabno cave monastery, with its 8th–13th century frescoes, sits on the Azerbaijan side of the hill; visitors walk up to the ridge and descend to the frescoes, crossing the unmarked border and back in the course of an hour. The political complications periodically affect access — check the current status before visiting.
+score: 8.9
 ---
 
 David Gareja is a monastery complex built into a series of cliffs and caves in a remote semi-desert landscape about 65 km southeast of Tbilisi. Founded in the 6th century by the monk David, one of the Thirteen Assyrian Fathers who brought monasticism to Georgia, the complex includes the main Lavra monastery and the cave churches of Udabno across the ridge.

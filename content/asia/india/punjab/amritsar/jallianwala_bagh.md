@@ -16,6 +16,7 @@ tags:
 - sight
 title: Jallianwala Bagh
 type: poi
+score: 8.2
 ---
 
 A walled public garden five minutes' walk from the Golden Temple. On 13 April 1919, British troops under Brigadier-General Dyer opened fire on a crowd of unarmed civilians here, killing hundreds. The bullet holes are still visible in the walls — the authorities have left them that way deliberately.

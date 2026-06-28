@@ -8,6 +8,7 @@ tags:
 - outdoors
 title: Loose Park
 type: poi
+score: 6.6
 ---
 
 Loose Park is a 75-acre park in the heart of Kansas City's Country Club district, best known for its large rose garden — one of the finest in the Midwest, with over 4,500 plants in bloom from late spring through autumn. The park is also the site of the Battle of Westport (October 1864), the largest Civil War battle west of the Mississippi River, which effectively ended Confederate operations in Missouri. Historical markers throughout the park explain the battle; the engagement took place largely on the gently rolling terrain that is now the park's lawn and paths.

@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - mountain
+score: 8.8
 ---
 
 Point Lenana, at 4,985 metres, is the third-highest summit on Mount Kenya and the highest point reachable without technical climbing. For most trekkers, it is the goal: a pre-dawn ascent on scree and broken rock, arriving at the cross on the summit just as the sun rises over the eastern flank of the mountain.

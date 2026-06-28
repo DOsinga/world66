@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5485
 longitude: 11.0423
+score: 6.8
 ---
 
 The church of Santi Jacopo e Filippo, in the heart of Certaldo Alto, holds the tomb of Giovanni Boccaccio. The building dates to the 13th century, though it has been modified and restored at various points since. It is a working church rather than a museum, which gives it a different atmosphere from the Palazzo Pretorio and Casa Boccaccio nearby.

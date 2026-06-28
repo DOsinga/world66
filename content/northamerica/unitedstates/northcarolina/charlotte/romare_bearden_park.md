@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.227
 longitude: -80.8473
+score: 6.2
 ---
 
 Romare Bearden Park is a five-acre green space in Uptown Charlotte, named for the abstract artist who was born in the city in 1911 and went on to become one of the most celebrated African-American visual artists of the twentieth century. The park opened in 2013 and its design draws on Bearden's signature collage style — geometric forms, water features, and planting that together create a dynamic rather than static space.

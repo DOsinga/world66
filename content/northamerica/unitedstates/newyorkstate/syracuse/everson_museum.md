@@ -12,6 +12,7 @@ story: >
   geometric exterior in raw concrete that frames interior spaces designed to let
   art breathe. The Everson is widely considered one of Pei's finest early works,
   and it remains architecturally remarkable for a mid-sized American city.
+score: 8.3
 ---
 
 The Everson Museum of Art is downtown Syracuse's most important cultural institution, housed in a striking 1968 I.M. Pei building whose four interlocking cubes of poured concrete have aged into an architectural landmark. The collection focuses on American art from the colonial period to the present, with particular depth in studio ceramics — the Everson holds one of the finest collections of American art pottery in the country.

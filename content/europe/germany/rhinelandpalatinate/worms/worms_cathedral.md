@@ -13,6 +13,7 @@ story: >
   met in the bishop's palace just north of the cathedral; the spot is now marked by the foundations
   visible behind the Lutherdenkmal.
 snippet: "Romanesque imperial cathedral consecrated in 1181"
+score: 9.2
 ---
 
 The Dom St. Peter is one of the three Romanesque "Imperial Cathedrals" of the Rhineland (with

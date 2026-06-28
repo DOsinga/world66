@@ -9,6 +9,7 @@ tags:
 latitude: 47.58778
 longitude: 1.33194
 snippet: "Early Renaissance courtyard in a private mansion off Rue Saint-Honoré"
+score: 7.3
 ---
 
 Hidden behind an unremarkable street facade on Rue Saint-Honoré, the Hôtel d'Alluye is one of the finest early Renaissance courtyards in France — built around 1500 for Florimond Robertet, treasurer to three French kings. The inner courtyard is a two-storey loggia with medallions, fluted pilasters, and a refined Italian sensibility that predates the better-known Renaissance work at the château by a decade.

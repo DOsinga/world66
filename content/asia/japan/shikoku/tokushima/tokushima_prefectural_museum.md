@@ -7,6 +7,7 @@ tags:
 - museum
 title: Tokushima Prefectural Museum
 type: poi
+score: 7.0
 ---
 
 Part of the Bunka-no-Mori (Cultural Forest) complex south of the city centre, this is the prefecture's flagship museum, covering the natural and human history of Tokushima from prehistoric fossils through the indigo dye trade that made the Hachisuka domain rich in the Edo period.

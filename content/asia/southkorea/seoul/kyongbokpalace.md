@@ -12,6 +12,7 @@ tags:
 - insadong
 title: Gyeongbokgung Palace
 type: poi
+score: 9.3
 ---
 
 Gyeongbokgung (also romanized as Kyongbok) is the largest and most important of Seoul's five grand palaces, originally built in 1395 by King Taejo, founder of the Joseon Dynasty. The palace was destroyed during the Japanese invasions of the 1590s, left in ruins for nearly three centuries, then lavishly rebuilt in the 1860s under the regent Heungseon Daewongun. Much of it was demolished again during the Japanese colonial period, and restoration work has been ongoing since the 1990s.

@@ -11,6 +11,7 @@ tags:
 neighbourhood: Aberdeen
 latitude: 8.4853
 longitude: -13.2790
+score: 5.8
 ---
 
 A Freetown institution in Aberdeen, run by the same family for decades and known for its grilled barracuda, lobster, and the full sweep of Lebanese mezze — hummus, tabbouleh, kibbeh, mashawi. The dining room is plain, the air-conditioning fierce, and the portions large.

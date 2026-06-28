@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 41.6667
 longitude: -87.0333
+score: 8.7
 ---
 
 Sitting inside the national park but managed separately by the state, Indiana Dunes State Park covers 2,182 acres and contains the most dramatic dunes terrain in the region. The three highest dunes — Mt. Tom (192 feet), Mt. Holden (184 feet), and Mt. Jackson (176 feet) — can all be reached on Trail 8, a strenuous but rewarding hike that rewards you with sweeping views over the lake.

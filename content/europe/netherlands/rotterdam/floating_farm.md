@@ -6,6 +6,7 @@ latitude: 51.9118
 longitude: 4.4717
 snippet: "Working dairy farm on a pontoon in the Merwehaven"
 story: "The world's first floating farm opened in 2019 on a pontoon in the old Merwehaven, with thirty-odd Meuse-Rhine-Issel cows producing yoghurt and cheese sold directly from the dock. The cows actually like it — climate-controlled stalls, robot milking, and a surprisingly stable platform — but the point is the demonstration: agriculture that can adapt to flooded cities."
+score: 6.7
 ---
 
 A working dairy farm on a pontoon in the Merwehaven, opened in 2019. The Floating Farm is half a working business — roughly thirty cows, robot milking, yoghurt and cheese made on board and sold from a shop on the quay — and half a demonstration project: agriculture that can adapt to flooded cities and rising seas.

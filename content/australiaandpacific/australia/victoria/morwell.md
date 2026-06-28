@@ -5,7 +5,9 @@ done:
 latitude: -38.2363
 loc_type: city
 longitude: 146.3978
-score: 0.3
+score: 5.52
+snippet: Latrobe Valley coal town in Gippsland, with koala habitat in nearby Morwell
+  National Park
 title: Morwell
 type: location
 ---

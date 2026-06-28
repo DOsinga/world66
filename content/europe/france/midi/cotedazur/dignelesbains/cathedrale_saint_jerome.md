@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 44.0919
 longitude: 6.2361
+score: 6.3
 ---
 
 The Cathédrale Saint-Jérôme is the oldest building still standing in Digne, its foundations reaching back to the 13th century though the structure was heavily rebuilt in the following two centuries. The Gothic nave is tall and plain in the Provençal manner — less ornate than the churches of the coast, more austere than those of the Alps. The bell tower is a local landmark.

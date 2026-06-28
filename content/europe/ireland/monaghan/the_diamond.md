@@ -7,6 +7,7 @@ tags:
 latitude: 54.2480
 longitude: -6.9700
 snippet: "The town's diamond-shaped market square, with the Rossmore Memorial fountain at its centre"
+score: 6.6
 ---
 
 The historic heart of Monaghan. The Diamond is the wide, lozenge-shaped market square that gives Ulster plantation towns their characteristic plan — a Scottish layout transplanted to Ireland in the 17th century. At its centre is the Rossmore Memorial, a Victorian Gothic stone fountain raised in 1875 in memory of the 4th Baron Rossmore.

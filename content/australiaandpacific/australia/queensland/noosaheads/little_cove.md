@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.0
 ---
 
 Little Cove is the small, almost circular bay tucked just east of Main Beach, between the surf club and the entrance to Noosa National Park. The cove is sheltered by the same headland that protects Main Beach, but it is smaller, quieter, and feels a step removed from the busiest part of town.

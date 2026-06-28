@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, historic, museum]
 latitude: 36.950555
 longitude: -81.084444
+score: 6.9
 ---
 
 The Rock House is the oldest surviving structure in Wytheville, built in 1827 of local limestone by Dr. John Haller, a German immigrant who became one of the first physicians in this part of the Virginia frontier. The construction technique — rough-cut limestone blocks, thick walls, small windows — reflects both the available materials and the practical needs of a house in a still-unsettled region. The house has been preserved in better condition than most structures of its age in the area.

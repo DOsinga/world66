@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.8
 ---
 
 Halls Head is the ocean-side suburb opposite Mandurah's centre, on the western side of the inlet entrance. Its long curve of white sand stretches for kilometres, with reasonable swimming, light surf, and good views back toward town. The water is colder than the estuary side — this is the open Indian Ocean — but the beach is clean, the parking is easy, and a small cafe at the lookout serves coffee with a view.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:GharyanCity.jpg
 latitude: 32.171587
 loc_type: city
 longitude: 13.021145
-score: 0.25
+score: 4.82
+snippet: Nafusa Mountains town south of Tripoli, known for cool air and underground
+  troglodyte dwellings.
 sources:
 - https://en.wikipedia.org/wiki/Gharyan
 title: Gharyan

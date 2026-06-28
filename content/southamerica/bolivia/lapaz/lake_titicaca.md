@@ -8,6 +8,7 @@ tags:
 - nature
 title: Lake Titicaca
 type: poi
+score: 8.4
 ---
 
 Lake Titicaca sits at 3,812 metres above sea level, making it the highest navigable lake in the world — a claim that sounds like tourism copy until you're standing on its shore and the water stretches to the horizon under a sky that feels closer than it should. The Bolivian side of the lake is accessed through Copacabana, a small town on a peninsula about 155 kilometres from La Paz and 3.5 hours by bus on a good day. Buses depart from near the Cemetery district throughout the morning; the journey includes a short ferry crossing of the Strait of Tiquina, where you board a small boat while the bus drives onto a separate barge.

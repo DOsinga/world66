@@ -9,6 +9,7 @@ latitude: 17.996
 longitude: -76.8045
 story: >
   Channel One was the studio where Joseph Hoo Kim and his brothers pioneered the "rockers" drum style in the mid-1970s — a heavier, more prominent drum and bass sound that redefined reggae and directly influenced everything from British post-punk to the emergence of dancehall. Sly Dunbar, who developed much of this style behind the drum kit at Channel One, became the most recorded drummer in reggae history.
+score: 7.4
 ---
 
 Channel One Studios on Maxfield Avenue in West Kingston is one of the most historically significant recording facilities in Jamaican music — the place where, in the 1970s, the Mighty Diamonds, Leroy Smart, Johnnie Clarke, and dozens of other artists recorded the work that defined mid-period reggae. The Hoo Kim brothers built their studio in 1973 and ran it as an operation that gave artists unusual creative freedom by the standards of the time.

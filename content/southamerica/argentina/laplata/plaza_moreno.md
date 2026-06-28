@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.9213
 longitude: -57.9548
+score: 6.8
 ---
 
 The main square of La Plata is the heart of the city's geometric plan: four blocks square (twice the size of a normal La Plata block), it was laid out in 1882 as the symbolic centre of the new provincial capital. The Cathedral of the Immaculate Conception dominates one end; the Palacio Municipal, an eclectic French-style city hall, faces it from the other.

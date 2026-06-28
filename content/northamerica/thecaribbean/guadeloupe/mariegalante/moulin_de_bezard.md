@@ -16,6 +16,7 @@ story: >
   restored as heritage monuments.
 sources:
   - https://en.wikipedia.org/wiki/Marie-Galante
+score: 7.1
 ---
 
 The most accessible and well-preserved of Marie-Galante's surviving sugar windmill towers, Moulin de Bézard stands near the centre of the island and has been partially restored. The cylindrical stone tower, open at the top where the wooden sails once turned, gives a vivid sense of scale — these were substantial industrial structures, not romantic follies. The surrounding plantation ruins include the base of the old factory building and the remains of an animal-powered mill that operated alongside the wind-powered one.

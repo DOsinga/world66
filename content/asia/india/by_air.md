@@ -6,6 +6,7 @@ tags:
 - getting_there
 title: By Air
 type: poi
+score: 6.0
 ---
 
 Almost every big city in India has an airport. The major international points of entry are Delhi, Mumbai, Chennai, Hyderabad, Bengaluru, and Kochi.

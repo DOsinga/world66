@@ -8,6 +8,7 @@ latitude: 30.6463
 longitude: 104.0489
 story: >
   Sichuan peppercorn is not actually pepper — it is the dried husk of the Chinese prickly ash berry (Zanthoxylum simulans), and its active chemical (hydroxy-alpha-sanshool) binds to receptors in the mouth that respond to touch rather than pain, creating the distinctive numbing, buzzing sensation called mala. Banning it in the US for 40 years (as a potential carrier of citrus canker disease) meant that Americans discovered it late. The freshest peppercorn, sold in open sacks at Chengdu's Jinli and wholesale markets, is more fragrant and more electric than anything imported.
+score: 5.8
 ---
 
 Sichuan peppercorn is the ingredient that most distinguishes Sichuan cooking and is well worth buying in quantity in Chengdu, where fresh supplies come from the producing regions of Hanyuan and Jiangjin. The difference between freshly dried Sichuan pepper and the powdery, flavourless stuff sold overseas is profound.

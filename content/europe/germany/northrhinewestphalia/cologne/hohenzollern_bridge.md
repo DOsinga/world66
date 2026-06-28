@@ -12,6 +12,7 @@ story: >
   Cologne around 2008 and has spread to bridges across the world, but the Hohenzollernbrücke
   remains one of the densest concentrations. The locks now weigh an estimated 40 tonnes.
   The city periodically debates removing them; the debate never quite concludes.
+score: 7.2
 ---
 
 The Hohenzollernbrücke is the railway bridge crossing the Rhine directly beside the cathedral, and with its pedestrian walkways it is one of the best viewpoints in the city. Walking across it gives you the classic view: the twin spires of the Dom rising above the left bank, the river wide and grey below, and on the far side the triangular Cologne Triangle tower offering a different angle on the skyline.

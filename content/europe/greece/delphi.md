@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Delphi,_Greece_-_panoramio
 latitude: 38.481154
 loc_type: city
 longitude: 22.500549
-score: 0.74
+score: 9.28
 title: Delphi
+snippet: Ancient Greek sanctuary on Mount Parnassus, where Apollo's oracle looked
+  over the Phocis olive plain.
 type: location
 ---
 

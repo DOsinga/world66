@@ -11,6 +11,7 @@ story: >
   Gedi was a prosperous Swahili town of perhaps 2,500 people that simply vanished sometime in the 17th century. No one knows exactly why — Portuguese aggression, the arrival of Oromo raiders from the north, and a drying water table have all been proposed. When archaeologists first excavated the site in the 1940s, they found imported Chinese porcelain and Venetian glass among the ruins, evidence of trade networks that reached halfway around the world.
 sources:
   - https://en.wikipedia.org/wiki/Gede,_Kenya
+score: 8.8
 ---
 
 The Gedi Ruins are the remains of a 14th-century Swahili trading town hidden in coastal forest about 16 km south of Malindi near the village of Gede. The ruins include a palace, several mosques, and the stone houses of merchants who traded with Arabia, India, and as far as China — a remarkable reach for a town that European maps largely ignored. The site is now a national monument managed as the Gede National Monument.

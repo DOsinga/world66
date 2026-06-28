@@ -1,7 +1,12 @@
 ---
 address: Wualai street outside the Chaing Mai Gate
+latitude: 18.7812
+longitude: 98.9846
+score: 7.3
 tags:
 - shopping
+- market
+- crafts
 title: Wualai Walking Street
 type: poi
 url: northernthailand.com

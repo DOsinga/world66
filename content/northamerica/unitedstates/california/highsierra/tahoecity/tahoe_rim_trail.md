@@ -12,6 +12,7 @@ story: >
   (California and Nevada) and offers consistent above-treeline views of the lake below.
   Tahoe City is one of the best access points: the western shore trail segment passes
   through town, making it easy to day-hike without a car shuttle.
+score: 8.6
 ---
 
 The Tahoe Rim Trail is a 165-mile route encircling Lake Tahoe at high elevation, maintained by a dedicated volunteer organisation and open to hikers, mountain bikers (on most sections), and equestrians. Tahoe City sits on the western shore segment, with trailhead access a short drive or bike ride from the town centre.

@@ -7,6 +7,7 @@ tags:
   - culture
 latitude: 31.2511
 longitude: 34.7868
+score: 7.4
 ---
 
 The Bedouin market in Be'er Sheva runs on Thursday mornings and is one of the oldest continuing traditions in the city. At its peak in the mid-20th century it was a major commercial event that drew Bedouin tribes from across the Negev to trade livestock, produce, crafts, and textiles. The market is smaller now than it once was, but it remains an authentic gathering point where you can find spices, traditional clothing, embroidered fabrics, and household goods.

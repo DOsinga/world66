@@ -10,6 +10,7 @@ longitude: -4.1164
 snippet: "Early Phoenician trading post from the 8th century BCE at the mouth of the Vélez"
 sources:
   - https://en.wikipedia.org/wiki/Los_Toscanos
+score: 7.4
 ---
 
 Los Toscanos is the site of one of the earliest Phoenician settlements in Spain — a trading post established in the 8th century BCE at what was then the mouth of the Vélez river, just west of Torre del Mar. The Phoenicians came from the Levant to trade silver from the Spanish interior, and Los Toscanos was part of a network of coastal stations supporting the mines of Tartessos. Excavations have revealed warehouses, pottery from across the Mediterranean, and evidence of metalworking.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.8876
 longitude: 86.0945
+score: 6.9
 ---
 
 Just outside the Sun Temple's main enclosure stands a separate small shrine housing a colossal chlorite slab carved with the nine planetary deities of Hindu astrology — Surya the sun, Chandra the moon, Mangala (Mars), Budha (Mercury), Brihaspati (Jupiter), Shukra (Venus), Shani (Saturn), Rahu and Ketu.

@@ -7,6 +7,7 @@ tags:
 latitude: 4.6676
 longitude: -74.0528
 snippet: "Bogota's upscale nightlife and restaurant district in the north"
+score: 6.6
 ---
 
 The Zona Rosa, centred on Carrera 11–15 and Calles 80–86 in the Chapinero locality, is where affluent Bogotanos go out. The streets are lined with restaurants, cocktail bars, and clubs, and the area feels noticeably safer and better-maintained than the historic centre. It is also noticeably more expensive.

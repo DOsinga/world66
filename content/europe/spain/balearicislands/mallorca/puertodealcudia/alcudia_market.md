@@ -7,6 +7,7 @@ tags:
 latitude: 39.8525
 longitude: 3.1191
 snippet: Tuesday and Sunday market in Alcudia old town, one of the larger markets in northern Mallorca
+score: 6.5
 ---
 
 The Alcudia market runs on Tuesdays and Sundays, spreading through the streets of the old town and spilling out beyond the walls. It's one of the larger markets in the north of the island, drawing visitors from a wide area and functioning as much as a social event for locals as a shopping destination for tourists.

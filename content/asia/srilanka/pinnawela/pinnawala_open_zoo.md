@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.3006
 longitude: 80.3883
+score: 4.7
 ---
 
 Opened in 2015 on a hillside above the village, the Pinnawala Open Zoo is the younger and quieter sibling of the elephant orphanage. The 44-acre site is laid out as a series of open paddocks linked by a winding loop road, with animals — sambar deer, mouflon, zebra, antelope, ostriches, water buffalo, and a few big cats in larger enclosures — visible from a small electric tram or from your own vehicle.

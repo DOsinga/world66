@@ -11,6 +11,7 @@ latitude: 38.0572
 longitude: -92.6367
 sources:
   - https://en.wikipedia.org/wiki/Lake_of_the_Ozarks_State_Park
+score: 7.2
 ---
 
 Missouri's largest state park, with over 17,000 acres stretching along the Grand Glaize Arm of the lake. It has two public beaches — Grand Glaize Beach and Patterson Beach — as well as more than 100 miles of trails for hiking and mountain biking. Equestrian trails run through the wooded interior. Ozark Caverns, a natural cave system within the park, offers guided tours.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Historic secondary school named for the Egba folk hero
+score: 4.8
 ---
 
 Lisabi Grammar School in central Abeokuta is one of the oldest and best-known secondary schools in Ogun State, founded in 1953 and named for the Egba folk hero Lisabi, who unified the Egba people in the late 18th century against the dominance of the Oyo empire. The school's alumni include several Nigerian writers, judges, and politicians, and the campus is a familiar landmark in the city.

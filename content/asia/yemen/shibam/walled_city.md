@@ -15,6 +15,7 @@ story: >
   defensive, raising the family above raiders from the desert and from rival clans.
   The houses lean slightly inward toward the top, both for visual effect and to shed
   the weight away from the load-bearing lower walls.
+score: 9.8
 ---
 
 The walled city of Shibam is one of the most extraordinary urban sights in the world: a tight grid of mud-brick towers, five to eleven storeys tall, packed inside a rectangular defensive wall on the flat floor of the Wadi Hadramawt. UNESCO inscribed it as a World Heritage Site in 1982. Most of the houses date from the sixteenth century onward — earlier buildings have washed away in periodic floods — but the city itself is far older, mentioned as the seat of the Hadrami sultanate in the second century and probably occupied since pre-Islamic times.

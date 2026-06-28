@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Otter Tail County Courthouse
 type: poi
+score: 8.4
 ---
 
 The Otter Tail County Courthouse is one of the finest Beaux-Arts public buildings in rural Minnesota, completed in 1905 in pink Sioux quartzite and buff limestone. The building sits at the south end of the downtown core and anchors the town's Victorian streetscape. The interior retains original woodwork, ornate plasterwork ceilings, and a central staircase that remains largely unchanged from 1905.

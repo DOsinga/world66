@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8033
 longitude: -118.3953
+score: 7.0
 ---
 
 Torrance Beach is the southernmost end of the long South Bay sand crescent that runs from Santa Monica through Manhattan and Hermosa down to the cliffs of Palos Verdes. It is wider than the Hermosa beaches further north, less crowded, and edged by a low bluff with picnic tables rather than the strand of beachfront houses you get up the coast.

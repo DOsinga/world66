@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - museum
 - horse
+score: 7.7
 ---
 
 The Living Horse Museum occupies the largest hall of the Grandes Écuries and is organised as a working stables rather than a static display. Roughly thirty horses of different breeds live on site — some are demonstration animals used in the equestrian shows, others are retired thoroughbreds, and a few are rare breeds (the Camargue grey, the Boulonnais draft) kept as part of an active conservation programme.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - windmill
+score: 7.6
 ---
 
 De Jager ("The Hunter") sits on the south bank of the Ee, directly across from 't Lam, and is the second of Woudsend's two surviving smock mills. It was built in 1719 as a poldermill — pumping water out of the surrounding meadows back into the lake system — and operated in that role for over two and a half centuries before being restored in the late 20th century.

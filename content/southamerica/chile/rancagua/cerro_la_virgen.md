@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 6.8
 ---
 
 Cerro La Virgen is the small hill on the northern edge of central Rancagua, topped by a statue of the Virgin Mary visible across the city. A path winds up from the base — about thirty minutes of brisk walking — and reaches a terrace with views across the Cachapoal Valley to the Andes on a clear day.

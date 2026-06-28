@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Trogir_(20611290808).jpg
 latitude: 43.516414
 loc_type: city
 longitude: 16.249716
-score: 0.71
+score: 9.1
+snippet: UNESCO-listed Adriatic town with a preserved Romanesque-Gothic core on a
+  small island near Split.
 title: Trogir
 type: location
 ---

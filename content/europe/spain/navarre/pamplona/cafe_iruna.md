@@ -9,6 +9,7 @@ latitude: 42.8190
 longitude: -1.6439
 sources:
   - https://en.wikipedia.org/wiki/Caf%C3%A9_Iru%C3%B1a
+score: 7.2
 ---
 
 The Café Iruña has occupied the eastern arcade of Plaza del Castillo since 1888. The interior is unchanged in its essentials: ornate ironwork, painted mirrors, mahogany counters, and a high coffered ceiling. It is not cheap, but it is an institution, and the coffee is good.

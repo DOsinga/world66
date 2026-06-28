@@ -15,6 +15,7 @@ story: >
   through to completion.
 sources:
   - https://en.wikipedia.org/wiki/Carlo_Scarpa
+score: 8.2
 ---
 
 The church at the centre of the Villaggio ENI is a small concrete chapel designed by Carlo Scarpa and completed by Gellner after Scarpa's resignation from the project. Set into the slope above the bungalows, it is approached by a curving ramp and a low entry porch that frame the dolomite peaks beyond.

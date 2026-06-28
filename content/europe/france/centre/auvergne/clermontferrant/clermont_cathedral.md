@@ -14,6 +14,7 @@ tags:
 - church
 title: Clermont-Ferrand Cathedral
 type: poi
+score: 8.7
 ---
 
 The Cathedral of Notre-Dame de l'Assomption is Clermont-Ferrand's most striking building and one of the most unusual Gothic cathedrals in France. Built almost entirely from dark Volvic lava stone quarried from the volcanic plateau to the north, its black stone has a saturated depth that feels almost aggressive compared to the pale limestone of most French Gothic churches. The effect is particularly strong in bright sunlight, when the contrast between the black exterior and the blue sky becomes very sharp.

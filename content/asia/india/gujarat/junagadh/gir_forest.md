@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.1243
 longitude: 70.8022
+score: 9.3
 ---
 
 Gir Forest National Park, about 60 km south of Junagadh, is the only place in the world where you can see the Asiatic lion in the wild. The subspecies, once widespread across the Middle East and Central Asia, now survives only here — the population has recovered from around 20 lions at the start of the 20th century to over 600 today. The park also supports leopards, hyenas, wild boar, sambar deer, and over 300 species of birds.

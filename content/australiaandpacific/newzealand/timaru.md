@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Caroline_Bay_Timaru.jpg
 latitude: -44.393025
 loc_type: city
 longitude: 171.250979
-score: 0.41
+score: 6.84
+snippet: Canterbury port town between Christchurch and Dunedin, centred on sheltered
+  Caroline Bay.
 title: Timaru
 type: location
 ---

@@ -12,6 +12,7 @@ tags:
   - sight
 title: Basilica of St Nicholas
 type: poi
+score: 8.7
 ---
 
 Every church in Gdansk's old town was destroyed or gutted in 1945 and painstakingly rebuilt afterwards — except St Nicholas. This Dominican church, the oldest in Gdansk (founded in the 13th century), survived through a combination of circumstance and Soviet occupation, emerging with its baroque interior largely intact. Walking in from the outside is a genuine shock: instead of the bare reconstructed Gothic of St Mary's, you find darkened altars, gilded pulpits, and centuries of devotional accumulation.

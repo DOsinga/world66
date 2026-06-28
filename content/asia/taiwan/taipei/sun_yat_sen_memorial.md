@@ -9,6 +9,7 @@ tags:
 - xinyi
 title: Sun Yat-sen Memorial Hall
 type: poi
+score: 6.8
 ---
 
 The Sun Yat-sen Memorial Hall sits in a broad public park a few blocks north of Taipei 101 — a sweeping yellow-tiled roof on a heavy modernist concrete base, designed by the Taipei architect Wang Da-hong and opened in 1972. It commemorates **Sun Yat-sen**, the founding father of the Republic of China, with a giant bronze statue in the main hall.

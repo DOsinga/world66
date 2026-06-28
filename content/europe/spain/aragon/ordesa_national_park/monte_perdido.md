@@ -4,7 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 42.6706
 longitude: 0.0344
+score: 8.8
 snippet: Third-highest Pyrenean peak with a rewarding two-day ascent
+tags:
+- things_to_do
+- hiking
+- nature
 title: Monte Perdido Summit
 type: poi
 ---

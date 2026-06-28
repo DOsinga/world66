@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Yorkshire regimental museum housed in a deconsecrated 12th-century church
+score: 7.9
 ---
 
 The Green Howards Museum tells three centuries of the Yorkshire Regiment's history, from its founding in 1688 through the Napoleonic Wars, the Crimea, both World Wars, and on into modern peacekeeping deployments. The displays are dense — uniforms, medals, weapons, regimental silver, paintings of forgotten battles — but the curators do a good job of pinning each object to a specific soldier's story.

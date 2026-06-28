@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 48.5158
 longitude: 32.2667
+score: 4.9
 ---
 
 Zirka Stadium is the home ground of FC Zirka Kropyvnytskyi, the local football club. The stadium holds around 14,000 spectators and is one of the larger sports venues in the central Ukrainian steppe region. Football is the dominant spectator sport in the city, and a match day brings genuine atmosphere to a city that can otherwise feel quiet.

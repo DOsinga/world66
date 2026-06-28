@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.8
 ---
 
 A 20,000-hectare forest reserve in the hills immediately west of Punta Arenas, known to locals simply as **"la Reserva"**. The lenga and coihue forest here is the southernmost mainland temperate woodland in the world, and the reserve has marked walking trails, a small ski centre that operates briefly in winter, and the **Mirador Las Lengas**, which gives you a view back over the city and the strait.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo de la Ciudad Luis de Morales
 type: poi
+score: 6.5
 ---
 
 A small but well-presented city history museum housed in a restored 16th-century mansion just inside the old walls. The exhibits walk through Badajoz from prehistory to the present, with strong sections on the Moorish period, the Portuguese Restoration War, and the catastrophic 1812 siege during the Peninsular War.

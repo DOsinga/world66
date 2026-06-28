@@ -1,0 +1,200 @@
+{
+  "round": 3962,
+  "timestamp": "2026-06-13T23:32:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 10.5128,
+      "prior_variance": 0.289749,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 4.5159,
+      "prior_variance": 0.12168,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 5.407,
+      "prior_variance": 0.168719,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 5.012,
+      "prior_variance": 0.1313,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_score": 6.7969,
+      "prior_variance": 0.175822,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Zhangye",
+      "path": "asia/china/gansu/zhangye",
+      "prior_score": 4.4667,
+      "prior_variance": 0.126493,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/thecaribbean/cuba/pinardelrio",
+      "prior_score": -0.0005,
+      "prior_variance": 0.093926,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.8669,
+      "prior_variance": 0.104246,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": 0.4457,
+      "prior_variance": 0.107677,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.0823,
+      "prior_variance": 0.11167,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -3.2542,
+      "prior_variance": 0.09557,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -1.9482,
+      "prior_variance": 0.101863,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -2.3801,
+      "prior_variance": 0.111611,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_score": -2.9665,
+      "prior_variance": 0.118888,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -5.7193,
+      "prior_variance": 0.146608,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -5.7708,
+      "prior_variance": 0.162887,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Lauro M\u00fcller",
+      "path": "southamerica/brazil/lauro_mller",
+      "prior_score": -5.8959,
+      "prior_variance": 0.148965,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -5.7519,
+      "prior_variance": 0.122362,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_score": -5.5079,
+      "prior_variance": 0.149552,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -6.1598,
+      "prior_variance": 0.155522,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -7.5661,
+      "prior_variance": 0.200615,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -6.7721,
+      "prior_variance": 0.148458,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.1676,
+      "prior_variance": 0.154827,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -7.01,
+      "prior_variance": 0.196588,
+      "prior_n": 12
+    }
+  ]
+}

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.5665
 longitude: 22.7986
+score: 5.9
 ---
 
 A single-subject museum dedicated to the worry bead — the komboloi — that Greek men flick endlessly between thumb and forefinger. The collection is arranged on the first floor of a narrow old town house and ranges from Tibetan prayer beads and Muslim tasbih through to the amber, coral and silver kombolois of nineteenth-century Greece.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.1960
 longitude: 102.5090
+score: 7.4
 ---
 
 The Gongtang Chorten stands at the eastern entrance to Labrang Monastery, a white multi-storey reliquary tower capped with a gilded upper section that catches the light in the afternoon. It was built to house sacred relics and serves as a focal point for pilgrims completing the kora, many of whom stop here to pray before continuing around the circuit.

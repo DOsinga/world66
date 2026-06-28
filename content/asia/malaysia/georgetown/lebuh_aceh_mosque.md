@@ -9,6 +9,7 @@ tags:
 - sight
 - mosque
 - architecture
+score: 7.3
 ---
 
 The Lebuh Acheh Mosque (Acheen Street Mosque) was built in 1808 by the Acehnese tunku (prince) Syed Hussain Aidid, who settled in Penang at the start of the British period and led a small community of Sumatran Muslim merchants. The mosque is the oldest in central Georgetown and one of the most architecturally distinctive: the minaret is a square Egyptian-style tower with a domed top, a form rare in Southeast Asia, while the prayer hall has carved teak doors and a sober green-and-white colour scheme.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The colonnaded walk was originally paved with pantiles — square clay tiles laid by Queen Anne's order after she slipped on the muddy ground in 1697 while visiting with her son Prince William. The original tiles are long gone; today's stones date from a Georgian relaying."
+score: 8.8
 ---
 
 The Pantiles is the heart of historic Tunbridge Wells and the reason the town exists. The colonnaded promenade was laid out in the seventeenth century alongside the chalybeate spring that drew aristocratic visitors down from London to take the waters. The raised walkway under its long line of porticos was where they paraded between treatments — and where they were watched, judged, gossiped about and occasionally proposed to.

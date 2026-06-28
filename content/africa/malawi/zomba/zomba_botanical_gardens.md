@@ -8,6 +8,7 @@ tags:
   - garden
 latitude: -15.3800
 longitude: 35.3175
+score: 6.8
 ---
 
 The botanical gardens on the northern edge of the city occupy a sloping site planted from the late nineteenth century onwards with trees, shrubs, and flowers from across the British Empire and southern Africa. The collection is no longer maintained to its original standard, but the mature trees — jacarandas, flamboyants, monkey-puzzles, indigenous fig species — remain impressive.

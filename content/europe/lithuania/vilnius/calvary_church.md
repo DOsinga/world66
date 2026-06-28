@@ -10,6 +10,7 @@ tags:
   - church
   - old_town
 neighbourhood: Old Town
+score: 8.6
 ---
 
 The Church of the Holy Spirit on Domininkų Street is the most complete Baroque interior in Vilnius. The Dominican church was rebuilt in high Baroque style in the 18th century, and the interior — a single nave dripping with gilded altarpieces, polychrome marble columns, and painted vault — is one of the most lavish religious interiors in the Baltic states.

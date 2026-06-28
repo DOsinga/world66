@@ -7,6 +7,7 @@ tags:
 snippet: "Belgium's largest pleasure-boat harbour, with around 2,000 berths"
 latitude: 51.1467
 longitude: 2.7244
+score: 5.9
 ---
 
 The marina stretches along both banks of the IJzer and is the biggest of its kind in northern Europe — somewhere around 2,000 berths, depending on the season. Even if you have no interest in boats, a walk along the pontoons gives you a sense of how seriously Belgium takes its weekend sailing.

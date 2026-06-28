@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 4.4500
 longitude: -61.6167
+score: 7.9
 ---
 
 El Abismo — "The Abyss" — is a viewpoint a short walk from El Paují where the high Gran Sabana plateau falls away in a single dramatic step. From the rim you look down hundreds of metres onto unbroken Amazon rainforest stretching south toward the Brazilian border, with mist sitting in the valleys most mornings.

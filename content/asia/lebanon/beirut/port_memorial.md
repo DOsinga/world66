@@ -11,6 +11,7 @@ story: >
   history. Around 2,750 tonnes of ammonium nitrate, stored unsafely at the port
   for six years, detonated and killed more than 200 people. No senior official
   has been prosecuted.
+score: 8.3
 ---
 
 The skeletal ruin of the port grain silos still stands at the north edge of Beirut, partially collapsed and visible from across the city. It is now the city's de facto memorial to the 2020 explosion that devastated entire neighbourhoods. A small commemorative plaza sits along the highway at the edge of the port; portraits and names of the victims have been mounted on nearby walls.

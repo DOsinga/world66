@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, outdoor, trekking]
 latitude: 21.291804
 longitude: 99.602865
+score: 9.2
 ---
 
 The hills around Kengtung are home to a remarkable concentration of ethnic minority groups — Akha, Lahu, Ann, Wa, and several smaller communities — living in villages that have changed little over generations. Day treks to nearby villages and multi-day routes through more remote terrain are the main reason many travellers come to Kengtung at all.

@@ -9,6 +9,7 @@ tags:
 - day_trips
 title: Area 51 & Rachel Nevada
 type: poi
+score: 8.4
 ---
 
 About 150 km north of Las Vegas along the Extraterrestrial Highway (State Route 375), the tiny town of Rachel sits at the edge of the Nevada Test and Training Range -- home to the classified facility commonly known as Area 51 or Groom Lake. The base itself is off-limits and heavily guarded, but the surrounding desert has become a pilgrimage site for UFO enthusiasts and the simply curious.

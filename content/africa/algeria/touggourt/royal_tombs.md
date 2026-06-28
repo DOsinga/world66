@@ -4,6 +4,7 @@ type: poi
 latitude: 33.1054
 longitude: 6.0625
 tags: [things_to_do, sight]
+score: 7.0
 ---
 
 The royal necropolis of the Beni Djellab dynasty stands on the edge of the old ksar — a cluster of domed mausolea built in sand-coloured brick, each marking the grave of one of the sultans who ruled this corner of the Sahara before the French conquest. The largest dome belongs to Sultan Salim, who built the great mosque next to the tombs.

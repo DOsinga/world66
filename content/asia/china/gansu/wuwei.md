@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:20060423063512.jpg
 latitude: 37.9278
 loc_type: city
 longitude: 102.6329
+score: 6.51
+snippet: Hexi Corridor city with Han garrison roots and the Flying Horse tomb at Leitai.
 sources:
 - https://en.wikivoyage.org/wiki/Wuwei
 title: Wuwei

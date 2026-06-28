@@ -8,6 +8,7 @@ latitude: 22.0506
 longitude: -159.4022
 sources:
   - https://en.wikipedia.org/wiki/Wailua_Falls,_Hawaii
+score: 6.9
 ---
 
 Wailua Falls drops 26 metres (or two distinct drops totalling that height, depending on the season) into a pool at the edge of the Wailua River plain, and is one of the most accessible and photographed waterfalls on Kauaʻi. Unlike the island's more remote falls, Wailua is visible directly from a roadside pullout on Maalo Road — you can be looking at it within 5 minutes of leaving the main highway. The viewing platform is usually crowded, but the falls are genuinely beautiful, especially in the morning light before the clouds build.

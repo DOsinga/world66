@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.4765
 longitude: 108.0655
+score: 6.3
 ---
 
 Lang De performs a traditional welcome ceremony for visitor groups — a reception at the village gate where musicians play lusheng bamboo pipes and community members offer rice wine in ox-horn cups to arriving guests. The ceremony is a real Miao custom, not invented for tourism: the welcoming ritual and the wine offering are traditional forms of hospitality that predate the village's appearance on travel itineraries.

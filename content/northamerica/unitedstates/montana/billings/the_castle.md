@@ -10,6 +10,7 @@ latitude: 45.7863
 longitude: -108.5122
 sources:
   - https://en.wikipedia.org/wiki/Austin_North_House
+score: 6.6
 ---
 
 A turreted Victorian mansion on the north end of downtown known locally as "The Castle," built in 1901 for Austin North, a prosperous Billings businessman. The building is a rarity in this part of Montana — a genuine High Victorian pile with stone construction, corner towers, and elaborate carved stonework, standing somewhat incongruously in a low-rise western city.

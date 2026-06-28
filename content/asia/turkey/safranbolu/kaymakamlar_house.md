@@ -9,6 +9,7 @@ tags:
 latitude: 41.2497
 longitude: 32.6872
 story: "The house belonged to the family of a district governor (kaymakam) and has been lived in continuously for over 200 years. When it was taken over as a museum, archaeologists found the building had been divided horizontally between family members in successive generations, with each generation adding walls and partitions — a physical archive of Ottoman domestic inheritance customs."
+score: 8.4
 ---
 
 The Kaymakamlar House is the most accessible of Safranbolu's historic Ottoman mansions, restored and opened as a museum with interiors that demonstrate exactly how wealthy families of the 18th and 19th centuries arranged their domestic lives. The house follows the classic Safranbolu layout: ground floor for servants and storage, first floor for men's reception rooms, second floor for the women's quarters (harem), with intricate carved wooden ceilings, built-in cupboards, and sitting alcoves at every level.

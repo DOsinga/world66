@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:From_Cottonwood_Cove_looki
 latitude: 36.9861
 loc_type: city
 longitude: -112.0064
-score: 0.54
+score: 7.87
+snippet: Remote Vermilion Cliffs sandstone area of eroded teepees, fins, and desert
+  flats near the Utah-Arizona border.
 title: Coyote Buttes South
 type: location
 ---

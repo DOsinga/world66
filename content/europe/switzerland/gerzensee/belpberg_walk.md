@@ -6,6 +6,7 @@ longitude: 7.5300
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The Belpberg is a broad forested ridge rising immediately south of Gerzensee to around 880 metres. A network of footpaths from the village leads up through farmland and mixed woodland to the ridge, which gives excellent views in both directions: north over the Mittelland plateau towards Bern, south across the Aaretal and the Gürbetal to the full line of the Bernese Alps.

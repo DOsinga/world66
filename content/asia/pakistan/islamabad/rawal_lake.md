@@ -6,6 +6,7 @@ longitude: 73.1167
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Rawal Lake is a small artificial reservoir on the eastern edge of Islamabad, built in the 1960s by damming the Kurang River. It supplies drinking water to the capital and to Rawalpindi, and the surrounding watershed is a protected forest reserve. The lakeside park is a popular weekend picnic spot.

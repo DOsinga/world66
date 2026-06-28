@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.0015
 longitude: 3.8389
+score: 6.9
 ---
 
 The Museu Diocesà de Menorca occupies a former convent adjacent to the cathedral and holds one of the most varied collections on the island. Its range is genuinely eclectic — religious art from the diocese, prehistoric artefacts including Talayotic bronzes and ceramics, natural history specimens, and a collection of historical documents and maps. The building itself, with its cloister, is one of the more pleasant museum spaces in Menorca.

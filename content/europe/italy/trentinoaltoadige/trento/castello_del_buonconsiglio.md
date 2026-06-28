@@ -16,6 +16,7 @@ story: >
   surviving secular Gothic painting of its kind. Each month shows the peasants and the
   nobles at their seasonal occupations, with extraordinary observation of dress, tools,
   and snow.
+score: 9.4
 ---
 
 The Castello del Buonconsiglio was the residence of the prince-bishops of Trento from the 13th century until Napoleon abolished the principality in 1802 — an unbroken span of nearly six hundred years that left every century's taste recorded in the stonework. The earliest part is the squat Castelvecchio with its drum tower; the most lavish is the Renaissance Magno Palazzo built by Bernardo Cles in the 1530s to host the great church council.

@@ -13,6 +13,7 @@ story: >
   dates to 1648. Beneath the grass and limestone slabs lie thousands of bodies
   stacked in layers, many with no marker above them. A colonial city's entire
   first century is buried here, a block from the modern downtown.
+score: 7.9
 ---
 
 Hartford's Ancient Burying Ground was established in 1640 and is the oldest surviving historic site in the city. It sits tucked behind the First Church of Christ on Gold Street, easily missed amid the surrounding downtown buildings. The oldest legible gravestone dates to 1648, and the limestone slabs that remain are carved with the winged skulls, hourglasses, and allegorical figures typical of colonial New England burial art.

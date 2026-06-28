@@ -6,6 +6,7 @@ tags:
   - sight
 title: Mire Aware Stadium
 type: poi
+score: 6.3
 ---
 
 The Mire Aware Stadium is Garowe's main sports facility, with a capacity of around 15,000. It hosted Somalia's first nationwide football tournament in 2010 — an event that had considerable symbolic weight in a country where organized football had been largely absent during the worst years of the civil war. The stadium is one of the more substantial pieces of public infrastructure in Garowe.

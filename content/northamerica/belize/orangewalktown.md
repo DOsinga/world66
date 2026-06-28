@@ -5,7 +5,9 @@ done:
 latitude: 18.0833
 loc_type: city
 longitude: -88.55
-score: 0.42
+score: 6.58
+snippet: Northern Belize sugar-country town used as the river gateway to the Maya
+  ruins of Lamanai.
 title: Orange Walk Town
 type: location
 ---

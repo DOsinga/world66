@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 40.8793
+loc_type: region
 longitude: 45.149
+score: 0.47
+snippet: Green Armenian border region of forested ridges, river valleys, and monasteries
+  around Dilijan and Ijevan.
 title: Tavush Marz
 type: location
-score: 0.47
-loc_type: region
 ---
 
 Tavush is Armenia's greenest corner — a tangle of forested ridges, river valleys, and ancient monasteries tucked into the northeast of the country. Where much of Armenia is dry and stony, Tavush is lush, with a mild climate and landscapes that genuinely justify the well-worn comparison to Switzerland.

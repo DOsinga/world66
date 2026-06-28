@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Lenin enrolled at Kazan University in 1887 at the age of seventeen, was expelled within months for taking part in a student protest, and was sent into internal exile at his grandfather's estate. The mathematician Lobachevsky, founder of non-Euclidean geometry, was a graduate, professor, and rector of the same university — his statue stands in the small park across the road.
+score: 7.6
 ---
 
 Kazan Federal University, founded in 1804, is the third oldest university in Russia after Moscow and St Petersburg. The main building on Kremlyovskaya Street is a long yellow-and-white neoclassical block with a colonnade, designed in the 1820s. Inside, the assembly hall and the original library reading room are sometimes shown on guided tours.

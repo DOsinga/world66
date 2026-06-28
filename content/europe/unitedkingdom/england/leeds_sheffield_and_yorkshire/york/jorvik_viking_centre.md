@@ -11,6 +11,7 @@ tags:
 - museum
 title: JORVIK Viking Centre
 type: poi
+score: 9.1
 ---
 
 Built over the site of the Coppergate Viking dig, where archaeologists found an extraordinarily well-preserved 10th-century street. Visitors ride through a reconstruction of Viking-age Jorvik in small cars, past wax figures going about daily life. The reconstructions are based directly on the archaeological evidence and the detail is impressive. Crowded in summer — book in advance.

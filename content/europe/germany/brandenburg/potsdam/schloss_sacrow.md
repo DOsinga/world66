@@ -17,6 +17,7 @@ story: >
   Potsdam landscape.
 sources:
   - https://en.wikipedia.org/wiki/Heilandskirche_at_Sacrow
+score: 8.0
 ---
 
 The Heilandskirche at Sacrow is one of the most beautiful and historically resonant churches in the Potsdam area — an Italianate lakeside church with a separate campanile, designed by Ludwig Persius in 1844 and set directly on the shore of the Havel north of Potsdam. The church and its colonnaded portico are reflected in the water, and the approach by boat (from the Havel or from Potsdam) is the most atmospheric way to arrive.

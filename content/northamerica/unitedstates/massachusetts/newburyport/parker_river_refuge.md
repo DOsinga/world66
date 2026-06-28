@@ -14,6 +14,7 @@ story: >
   sky over the salt marshes near lot 1 fills with funnels of swirling birds. It is
   one of the great wildlife spectacles of the East Coast and the refuge keeps no
   fence around it.
+score: 8.6
 ---
 
 The southern two-thirds of Plum Island make up one of the most important migratory bird refuges on the Atlantic flyway — over 300 species recorded, including snowy owls in winter, godwits and dowitchers in the salt-pannes, and the swallow roosts in late summer. Hawk migration peaks in September.

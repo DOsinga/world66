@@ -12,6 +12,7 @@ story: >
   earlier chapel, using lava rock from Mayon's eruptions as building material — 
   meaning the church was literally constructed from the same volcanic flows that 
   periodically threatened to destroy it.
+score: 8.5
 ---
 
 Daraga Church, formally known as the Parish of Our Lady of the Gate, stands on a hill in the adjacent municipality of Daraga, about 5 kilometres from central Legazpi. The church's Baroque volcanic-stone facade is one of the most beautiful in the Philippines — an elaborate composition of saints, cherubs, and ornamental reliefs carved in the same dark grey basalt that Mayon periodically ejected from its crater.

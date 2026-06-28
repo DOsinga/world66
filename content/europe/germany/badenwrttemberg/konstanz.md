@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Rheintorturm_in_Konstanz.j
 latitude: 47.659216
 loc_type: city
 longitude: 9.175072
-score: 0.54
+score: 8.22
+snippet: Lake Constance border city with an intact medieval old town and Council-era
+  waterfront landmarks.
 sources:
 - https://en.wikipedia.org/wiki/Konstanz
 title: Konstanz

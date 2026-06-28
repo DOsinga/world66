@@ -8,6 +8,7 @@ latitude: 30.6597
 longitude: 104.0612
 story: >
   The Chengdu Museum's collection includes several remarkable bronze masks from the Sanxingdui culture, a mysterious Bronze Age civilization that flourished in the Chengdu Plain around 1200 BC. These large-eyed, alien-looking bronze faces — unlike anything else in ancient Chinese art — were buried in ritual pits and rediscovered by accident in 1986. They upended the assumption that Chinese civilization developed exclusively along the Yellow River, revealing a parallel world that had traded with, but remained distinct from, the Shang dynasty.
+score: 8.2
 ---
 
 The Chengdu Museum, opened in 2016, is one of China's best-designed regional museums and a strong introduction to Sichuan's history, culture, and art. The building faces Tianfu Square and houses a permanent collection covering Sichuan from Neolithic times through the twentieth century, with particular depth in Han dynasty burial art, Tang ceramic figures, and Sichuan opera costumes.

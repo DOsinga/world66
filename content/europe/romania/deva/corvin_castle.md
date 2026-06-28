@@ -10,6 +10,7 @@ tags:
   - architecture
   - day_trip
 story: "Vlad the Impaler — the historical inspiration for Dracula — was reputedly held prisoner here for seven years in the fifteenth century in a tower he is said to have decorated with frescoes that survived until the nineteenth century. The castle's silhouette, with its long timber bridge and pointed conical towers, is the single most recognisable medieval building in Romania."
+score: 9.4
 ---
 
 Corvin Castle (Castelul Corvinilor), 18 km south of Deva in the steel town of Hunedoara, is the most spectacular Gothic castle in Romania and the principal reason most travellers come to this part of Transylvania at all. The fortress was built in the fifteenth century by John Hunyadi (Iancu de Hunedoara), the Hungarian regent and father of King Matthias Corvinus, on the foundations of an earlier keep.

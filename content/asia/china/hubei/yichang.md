@@ -9,7 +9,9 @@ latitude: 30.6942
 loc_type: city
 longitude: 111.2861
 title: Yichang
+snippet: Yangtze River city at the gates of the Three Gorges and Three Gorges Dam.
 type: location
+score: 6.98
 ---
 
 Yichang is the city that sits at the gates of the Three Gorges. The dam is upstream, the gorges are upstream, and all the river cruise ships heading between Chongqing and the east pass through here. As a destination in its own right it is a functional, mid-sized Chinese city without great charm, but as a base for some of central China's most dramatic scenery it is indispensable.

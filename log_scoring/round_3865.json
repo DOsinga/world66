@@ -1,0 +1,200 @@
+{
+  "round": 3865,
+  "timestamp": "2026-06-13T23:25:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_score": -0.5903,
+      "prior_variance": 0.102201,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.2434,
+      "prior_variance": 0.111326,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -1.9736,
+      "prior_variance": 0.166947,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Orheiul Vechi",
+      "path": "europe/moldova/orheiul_vechi_2",
+      "prior_score": 0.1141,
+      "prior_variance": 0.11319,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.1195,
+      "prior_variance": 0.099739,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.4827,
+      "prior_variance": 0.107112,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.393,
+      "prior_variance": 0.102768,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Ambalavao",
+      "path": "africa/madagascar/ambalavao",
+      "prior_score": -2.7795,
+      "prior_variance": 0.128694,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 0.9166,
+      "prior_variance": 0.106455,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": 0.0113,
+      "prior_variance": 0.102029,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.0735,
+      "prior_variance": 0.100745,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Wanning",
+      "path": "asia/china/hainanisland/wanning",
+      "prior_score": -0.9868,
+      "prior_variance": 0.094097,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Sisaket",
+      "path": "asia/thailand/sisaket",
+      "prior_score": -2.5287,
+      "prior_variance": 0.104147,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_score": -2.3091,
+      "prior_variance": 0.110626,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -1.6714,
+      "prior_variance": 0.108853,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -1.7055,
+      "prior_variance": 0.132133,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -3.7654,
+      "prior_variance": 0.11176,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.1369,
+      "prior_variance": 0.109378,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Irvine",
+      "path": "northamerica/unitedstates/california/orangecounty/irvine",
+      "prior_score": -4.1045,
+      "prior_variance": 0.145079,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -4.4217,
+      "prior_variance": 0.131713,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -2.9778,
+      "prior_variance": 0.130865,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.4472,
+      "prior_variance": 0.145569,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Huaibei",
+      "path": "asia/china/anhui/huaibei",
+      "prior_score": -5.5283,
+      "prior_variance": 0.135672,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -10.9868,
+      "prior_variance": 0.375415,
+      "prior_n": 12
+    }
+  ]
+}

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - niemeyer
+score: 8.0
 ---
 
 Niemeyer designed this memorial to the president who built the city, opening it in 1981. A 28-metre concrete plinth, topped with a sweeping curved shell holding a bronze statue of JK by Honório Peçanha, dominates the entrance to the Eixo Monumental at its western end.

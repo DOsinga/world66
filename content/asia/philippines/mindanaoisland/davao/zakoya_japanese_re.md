@@ -1,11 +1,14 @@
 ---
 address: 'Door #3 Davcon Autoville bldg. F. Torres St. Davao City'
 email: zakoyadvo@gmail.com
+latitude: 7.071
+longitude: 125.612
 phone: (+63)(82) 227.7760
+score: 4.9
 tags:
 - eating_out
 - restaurant
-- tower
+- japanese
 title: Zakoya Japanese Restaurant
 type: poi
 url: www.zakoya.co.nr

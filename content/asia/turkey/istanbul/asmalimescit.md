@@ -7,6 +7,7 @@ tags:
   - beyoglu
 latitude: 41.0310
 longitude: 28.9762
+score: 7.4
 ---
 
 Asmalımescit is the densest meyhane district in Istanbul — a few streets in Beyoğlu packed with traditional rakı-and-meze taverns that fill up after 9pm and stay busy until well past midnight. The format is the same everywhere: arrive, order the meze spread (dozens of small cold dishes), then hot dishes as they come, and drink rakı (the anise-flavoured national spirit, mixed with water) throughout. The better meyhanes have live music — fasıl, the Ottoman-influenced folk music style.

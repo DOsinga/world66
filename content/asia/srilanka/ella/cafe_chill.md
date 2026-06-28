@@ -7,6 +7,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Long-running main-street favourite for Sri Lankan curries and cocktails
+score: 5.9
 ---
 
 The longest-running of the Main Street places, and still the safest bet for a proper Sri Lankan rice and curry done well. The kothu roti — chopped flatbread tossed on a hot iron plate with vegetables, egg, or meat — is what most people come for. Service is friendly, portions are generous, and the cocktails are stronger than expected.

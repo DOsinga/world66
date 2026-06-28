@@ -13,6 +13,7 @@ story: >
   Gafà to design the replacement, and Gafà produced one of the finest Baroque
   churches in the Mediterranean. The floor is paved with the tombstones of the
   Knights of Malta — 300 of them, each a miniature portrait in inlaid marble.
+score: 9.0
 ---
 
 St Paul's Cathedral stands at the heart of Mdina and has dominated the city's skyline since its rebuilding in Baroque style between 1697 and 1703. The architect Lorenzo Gafà chose a Latin cross plan with a high central dome, and the warm limestone exterior glows amber in the afternoon sun. The facade is relatively restrained for the period, which makes the interior's richness all the more striking.

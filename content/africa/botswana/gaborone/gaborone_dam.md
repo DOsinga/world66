@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -24.7000
 longitude: 25.9000
+score: 5.9
 ---
 
 Gaborone Dam, situated south of the city centre, provides the capital's water supply and has developed into a popular recreational area. The dam attracts good birdlife, particularly waterbirds and raptors, and the surrounding greenery offers a respite from the dust of the city.

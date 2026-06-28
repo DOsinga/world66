@@ -5,6 +5,7 @@ latitude: 50.36192
 longitude: 4.125217
 score: 0.4
 title: Hainaut
+snippet: Southwestern Walloon province of old coal and steel towns, anchored by Mons and Tournai.
 type: location
 loc_type: region
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.5000
 longitude: 107.9500
+score: 8.4
 ---
 
 The Maolan National Nature Reserve covers 21,285 hectares of karst forest in the hills surrounding the Libo scenic zones, and together with the Libo karst landscape it forms the UNESCO World Heritage Site designated in 2007. The forest here is the largest intact karst forest in Asia — subtropical broadleaf woodland growing on and between limestone towers, with species diversity that includes over 1,600 vascular plant species, 300 vertebrates, and numerous endemic invertebrates that have evolved in isolation within the karst systems.

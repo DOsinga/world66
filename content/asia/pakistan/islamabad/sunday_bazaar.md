@@ -7,6 +7,7 @@ address: H-9, Islamabad
 tags:
   - shopping
   - market
+score: 8.1
 ---
 
 The Sunday Bazaar in H-9 is a long-running open-air weekly market that fills a few hectares of empty lot every Sunday morning. Hundreds of stalls sell second-hand clothes (much of it imported in bales from Europe and the Gulf), shoes, household goods, kitchen equipment, books, fresh fruit and vegetables.

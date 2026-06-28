@@ -1,11 +1,14 @@
 ---
-title: "Village Park Restaurant"
-type: poi
 latitude: 3.2118
-longitude: 101.6280
+longitude: 101.628
+score: 7.1
+snippet: Damansara Uptown institution famous for nasi lemak with crispy fried chicken
+  and long weekend morning queues
 tags:
-  - eating_out
-  - restaurant
+- eating_out
+- restaurant
+title: Village Park Restaurant
+type: poi
 ---
 
 A KL institution for **nasi lemak ayam goreng** — coconut rice with crispy fried chicken — set in a busy open-air restaurant in the leafy northern suburb of Damansara Uptown. The combination is simple but the execution is famous: fluffy coconut rice, fragrant from pandan leaf, served with anchovies, peanuts, a slice of cucumber, a hard-boiled egg, a dark mound of sweet-spicy sambal, and a piece of fried chicken with a brown, crackling, deeply seasoned crust.

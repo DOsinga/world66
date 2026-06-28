@@ -8,6 +8,7 @@ latitude: 48.5760
 longitude: 7.7450
 snippet: "14th-century hospital wine cellar with world's oldest barrel-stored wine"
 story: "A 1472 barrel of Alsatian wine still sits in these vaults — the oldest wine in the world stored in its original barrel. It was placed here during the reign of Louis XI and has been topped up with wine from the same vineyards every year since. No one has ever tasted it."
+score: 7.6
 ---
 
 The Hospices Civils de Strasbourg, one of France's oldest hospitals (founded in the 14th century), maintains an extraordinary wine cellar beneath the main hospital building on Place de l'Hôpital. The cellar has been in continuous operation since 1395 and contains what is believed to be the oldest wine in the world stored in its original barrel — a 1472 vintage that has been maintained ever since.

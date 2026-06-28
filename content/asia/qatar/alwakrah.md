@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Wakra.jpg
 latitude: 25.003745
 loc_type: city
 longitude: 51.410334
-score: 0.36
+score: 5.88
+snippet: Restored Qatari fishing town south of Doha, with a quieter souq and working
+  dhow harbour.
 title: Al Wakrah
 type: location
 ---

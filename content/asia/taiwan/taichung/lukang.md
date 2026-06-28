@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 24.0577
 longitude: 120.4341
+score: 8.8
 ---
 
 Lukang, an hour south-west of Taichung in Changhua County, is one of the best preserved old towns on the island. It was Taiwan's second-largest port in the late eighteenth century and the original wealth shows in the temples and merchant houses on Bantian Old Street.

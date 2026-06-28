@@ -5,10 +5,12 @@ done:
 latitude: 41.37533
 longitude: 2.175866
 phone: 93 342 99 20
+score: 8.7
 snippet: Maritime museum housed in medieval royal shipyards
 tags:
 - things_to_do
 - sight
+- el_raval
 title: Maritime Museum
 type: poi
 ---

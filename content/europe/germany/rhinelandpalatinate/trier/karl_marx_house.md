@@ -13,6 +13,7 @@ story: >
   was sold when Marx was an infant, and he grew up nearby. When the SPD bought it in
   1928, they found it had been subdivided into flats; the restoration revealed the
   original early 19th-century Baroque townhouse architecture underneath.
+score: 7.1
 ---
 
 Karl Marx was born in this modest Baroque townhouse on Brückenstrasse on 5 May 1818, the son of a successful lawyer. The house was owned by the Friedrich Ebert Foundation and run as a museum since 1947. It is the most-visited museum in Trier.

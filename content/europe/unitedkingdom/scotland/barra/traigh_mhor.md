@@ -6,6 +6,7 @@ latitude: 57.0244
 longitude: -7.4344
 snippet: Vast tidal beach that doubles as Barra's airport runway
 story: "Flight times are set by the tides, not the clock — the runway disappears under the sea twice a day, and BA Connect flights from Glasgow are rescheduled with each shift in the Atlantic moon-pull."
+score: 8.8
 ---
 
 Tràigh Mhòr — Gaelic for "big beach" — is a three-mile expanse of flat tidal sand at the north end of Barra that doubles as the runway for Barra Airport. It is the only scheduled airport in the world to operate from a beach. When the tide is out, the windsock goes up, the fire trucks roll into position, and a small Twin Otter from Glasgow taxis along the wet sand.

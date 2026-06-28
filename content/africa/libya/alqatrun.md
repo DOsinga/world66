@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Gatrun02.jpg
 latitude: 24.935154
 loc_type: city
 longitude: 14.617331
-score: 0.18
+score: 3.28
+snippet: Fezzan oasis near Libya's southern borders, historically a desert transit
+  point toward Niger and Chad
 title: Al Qatrun
 type: location
 ---

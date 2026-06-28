@@ -10,6 +10,7 @@ story: >
   Chuao cacao has been recognised as among the finest in the world since at least the seventeenth century. The village was owned by the Church for most of its history, which may have contributed to the preservation of traditional growing and fermentation practices. The cacao cooperatives that operate there today still use techniques — including fermenting in wooden boxes and sun-drying in the village square — that are centuries old.
 sources:
   - https://en.wikipedia.org/wiki/Chuao
+score: 8.6
 ---
 
 Chuao is a small village about 15 kilometres east of Choroni along the coast, accessible only by boat or on foot through the national park. It is famous in the chocolate world for producing what many consider the finest cacao beans in Venezuela — possibly in the world. The village square is used as a cacao drying floor during harvest season (roughly October to January), when the beans are spread in the sun and turned by hand. The smell, the colour, and the quiet ceremony of it are worth the boat ride from Puerto Colombia.

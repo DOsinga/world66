@@ -5,7 +5,9 @@ done:
 latitude: 49.490791
 loc_type: city
 longitude: 9.77317
-score: 0.51
+score: 7.49
+snippet: Romantic Road spa town dominated by the Teutonic Order's palace and half-timbered
+  old streets
 sources:
 - https://en.wikipedia.org/wiki/Bad_Mergentheim
 - https://en.wikipedia.org/wiki/Mergentheim_Palace

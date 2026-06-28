@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "Pierre S. du Pont bought the property in 1906 to prevent a stand of old hardwoods from being logged. The estate grew steadily over the next forty years into one of the most ambitious horticultural projects in America — three acres of glasshouses, an open-air theatre, a 10,000-pipe organ, and a fountain garden with computer-controlled water shows."
+score: 9.1
 ---
 
 Longwood Gardens is just over the Pennsylvania border, 30 minutes from Wilmington, and is the most spectacular of the Brandywine Valley du Pont estates. Pierre S. du Pont bought the property in 1906 and spent four decades building it into the present 1,100-acre garden — formal terraces, the famous fountain garden with its choreographed water shows, three acres of conservatories, a topiary garden, and a meadow garden through the open hills.

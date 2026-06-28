@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.2760
 longitude: -0.7080
+score: 7.8
 ---
 
 The Memorial Museum of the Battle of Normandy in Bayeux provides the most accessible overview of the D-Day landings and the subsequent Normandy campaign of summer 1944. It covers the strategic context (why Normandy, why June 1944), the planning of Operation Overlord, the six Allied landing beaches, and the grinding 77-day campaign that followed before the German breakout and liberation of Paris.

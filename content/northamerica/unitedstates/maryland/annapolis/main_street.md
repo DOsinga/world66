@@ -8,6 +8,7 @@ tags:
 - sight
 title: Main Street
 type: poi
+score: 7.8
 ---
 
 The short brick-paved spine of historic Annapolis, running four blocks downhill from St. Anne's Church to the City Dock. Despite the name, it has never been wider than two lanes — its narrowness is part of the colonial-era charm. The street is lined with independent shops, art galleries, taverns, and several of the most photographed Federal-period storefronts in the country.

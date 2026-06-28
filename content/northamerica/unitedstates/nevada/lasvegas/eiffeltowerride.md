@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 36.112162
 longitude: -115.170638
+score: 6.9
 snippet: Half-scale Eiffel Tower replica with panoramic Strip views
 tags:
 - things_to_do
 - tower
+- the_strip
 title: Eiffel Tower Observation Deck
 type: poi
 ---

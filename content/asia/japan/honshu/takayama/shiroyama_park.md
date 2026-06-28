@@ -5,6 +5,7 @@ tags: [things_to_do, sight, park]
 latitude: 36.1370
 longitude: 137.2638
 snippet: "Wooded hill above the old town with the ruins of Takayama Castle"
+score: 6.7
 ---
 
 Shiroyama Park covers the wooded hill east of the old town, formerly the site of Takayama Castle. The castle was demolished in 1695, and only stone foundations and earthworks remain — overgrown with cedars and reachable by paths from several directions.

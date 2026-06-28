@@ -7,6 +7,7 @@ tags:
 latitude: 37.4453
 longitude: 25.3284
 story: The museum's prize exhibit is the only surviving reconstruction of a historic Cycladic trading ship — built using ancient techniques and materials, it sits in the garden outside and has never been to sea, but it was constructed by the same craftsmen who once built the real thing.
+score: 7.0
 ---
 
 A small but absorbing museum in the heart of Mykonos Town dedicated to the seafaring history of the Aegean. The collection includes navigation instruments, maps, model ships, figureheads, and paintings tracing the history of Greek merchant shipping from ancient times through the 19th century. The Cyclades were once home to one of the most powerful merchant fleets in the Mediterranean, and Mykonos was a major base for traders and — in less regulated times — pirates.

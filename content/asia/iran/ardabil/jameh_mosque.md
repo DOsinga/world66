@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, mosque]
 latitude: 38.2532
 longitude: 48.2950
+score: 7.2
 ---
 
 The Jameh Mosque sits a few minutes' walk north of the Sheikh Safi shrine and is much older than the Safavid complex it stands beside. Excavations have shown that the site was a place of worship long before the present brick structure was built — possibly a Zoroastrian fire temple, later a Sasanian-era religious building, then converted to a mosque after the Arab conquest.

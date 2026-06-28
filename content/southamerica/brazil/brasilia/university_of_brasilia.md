@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 7.5
 ---
 
 The Universidade de Brasília (UnB) was conceived as a complement to the city itself — a model university for a model capital. The main campus in Asa Norte was largely designed by Niemeyer, with the iconic two-storey Minhocão ("Big Worm") classroom block running 720 metres straight across the campus, raised on long parallel columns.

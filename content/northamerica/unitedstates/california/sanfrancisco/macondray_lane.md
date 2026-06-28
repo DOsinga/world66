@@ -2,13 +2,13 @@
 address: Macondray Lane, between Leavenworth and Taylor Sts
 latitude: 37.7992
 longitude: -122.4151
+score: 8.0
 snippet: Hidden garden lane that inspired Barbary Lane in Tales of the City
 tags:
 - things_to_do
 - sight
 - russian_hill
 title: Macondray Lane
-neighbourhood: Russian Hill
 type: poi
 ---
 

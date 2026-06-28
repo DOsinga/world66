@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.188007
 longitude: 129.225082
+score: 8.0
 ---
 
 One of the few Buddhist temples in Korea built directly on the sea. The complex extends along rocky cliffs and a narrow beach — shrines, stone statues, and pagodas crammed between the rocks with waves breaking below. Best visited on a weekday; it draws large crowds at weekends and on Buddhist holidays.

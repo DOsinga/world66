@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Odeon is a single-screen Art Deco movie house from 1936, still operating as a cinema seven decades after most of its peers were demolished or converted. The facade has been restored, with the original vertical neon "ODEON" sign cared for as a town landmark.

@@ -7,6 +7,7 @@ tags:
 - bar
 title: Rockstore
 type: poi
+score: 6.3
 ---
 
 Half a Cadillac sticks out of the wall above the entrance of the Rockstore on Rue de Verdun, which tells you most of what you need to know. Open since 1986 in a former cinema, it is the city's longest-running live-music venue and a fixture of student night life. The downstairs concert room has hosted countless touring rock, indie, electronic and hip-hop acts on the way up and on the way down.

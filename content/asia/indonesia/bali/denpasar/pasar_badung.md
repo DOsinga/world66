@@ -8,6 +8,7 @@ tags:
 latitude: -8.6575
 longitude: 115.2185
 story: "Pasar Badung caught fire in 2016, burning for two days and destroying most of the building. The market was rebuilt quickly on the same site, but the 2016 fire was the second in two decades — the 1999 fire that burned the original building was allegedly started by market traders themselves, as a protest against the economic crisis following the fall of Suharto."
+score: 7.9
 ---
 
 Bali's largest traditional market sprawls across four floors of a covered building in central Denpasar, selling fruit and vegetables, flowers, spices, textiles, temple offerings, and household goods to local Balinese shoppers rather than tourists. The market is most alive between 4am and 10am, when flower sellers arrive with enormous arrangements destined for daily Hindu offerings at temples and households across the island.

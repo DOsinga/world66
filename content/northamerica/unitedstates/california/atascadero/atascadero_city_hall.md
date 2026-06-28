@@ -9,6 +9,7 @@ tags:
   - architecture
   - historic
 story: "Founder Edward Gardner Lewis intended Atascadero to be a utopian colony, and the City Hall was meant as its centrepiece — a domed Italianate civic building anchoring his planned city. Damaged badly by the 2003 San Simeon earthquake, it sat closed for over a decade before reopening in 2013 after a $50 million restoration."
+score: 8.0
 ---
 
 The Atascadero Administration Building, generally called the City Hall, is the most prominent thing in town and the reason most travellers stop. A four-storey Italian Renaissance Revival pile in red brick, faced with terracotta, finished in 1918. The interior rotunda is open during business hours and worth a look for the marble floor, the dome, and the historical displays on Lewis's original colony plan.

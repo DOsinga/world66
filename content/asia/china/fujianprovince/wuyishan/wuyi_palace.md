@@ -12,6 +12,7 @@ story: >
   facilities in Chinese history dedicated to scenic appreciation. The current
   structures date from later dynasties but the site has been in continuous use
   for over 2,100 years.
+score: 9.7
 ---
 
 Wuyi Palace (武夷宫) sits at the foot of the Nine-Bend River near the midpoint of the scenic area. It is one of the oldest Taoist temple complexes in Fujian, originally established as an imperial ritual site during the Han Dynasty. The current buildings date largely from the Song and Ming periods, and the complex includes the Chongyou Temple, several ancestral halls, and a small museum of Wuyi Mountain cultural history.

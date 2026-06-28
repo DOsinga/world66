@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alibaug_Beach.jpg
 latitude: 18.649843
 loc_type: city
 longitude: 72.876547
-score: 0.44
+score: 7.08
+snippet: Konkan beach town near Mumbai, with palm-lined sand, seafood villages, and
+  an offshore Maratha fort
 title: Alibaug
 type: location
 ---

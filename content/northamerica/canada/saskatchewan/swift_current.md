@@ -5,7 +5,9 @@ done:
 latitude: 50.284914
 loc_type: city
 longitude: -107.79845
-score: 0.34
+score: 6.06
+snippet: Prairie highway city on the Trans-Canada, known for Speedy Creek, Frontier
+  Days, and Cypress Hills detours.
 title: Swift Current
 type: location
 ---

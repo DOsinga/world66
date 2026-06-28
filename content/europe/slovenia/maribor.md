@@ -5,7 +5,9 @@ done:
 latitude: 46.557644
 loc_type: city
 longitude: 15.645585
-score: 0.45
+score: 7.98
+snippet: Slovenian university city on the Drava, with riverside Lent and wine-growing
+  hills close by.
 title: Maribor
 type: location
 ---

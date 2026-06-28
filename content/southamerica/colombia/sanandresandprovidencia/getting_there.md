@@ -4,8 +4,9 @@ email: kwagamalakelodge@yahoo.com
 latitude: 42.459873
 longitude: -85.693999
 phone: 269-694-6571
+score: 1.0
 title: Getting There
-type: poi
+type: section
 ---
 
 There are regular flights in low season to San Andres from

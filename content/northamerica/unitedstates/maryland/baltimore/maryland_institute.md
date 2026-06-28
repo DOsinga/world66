@@ -14,6 +14,7 @@ story: >
   terminus. Trains once ran through where student exhibitions are now held, and the
   vaulted waiting room has been repurposed as one of the more unusual gallery spaces
   in the country.
+score: 6.7
 ---
 
 The Maryland Institute College of Art is one of the top art schools in the United States, and its campus in the Bolton Hill and Station North neighbourhoods is worth seeking out for its architecture and its galleries. The Beaux-Arts station building is the centrepiece, but the surrounding buildings include several significant early 20th-century industrial conversions.

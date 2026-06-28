@@ -1,200 +1,200 @@
 {
   "round": 912,
-  "timestamp": "2026-04-12T14:49:29",
+  "timestamp": "2026-06-13T20:00:25",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kaua'i",
-      "path": "northamerica/unitedstates/hawaii/kauai",
-      "prior_score": 16.2371,
-      "prior_variance": 6.860681,
-      "prior_n": 1
-    },
-    {
-      "rank": 2,
-      "title": "Nosy Be",
-      "path": "africa/madagascar/nosybe",
-      "prior_score": 4.1024,
-      "prior_variance": 0.412026,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": -0.885,
+      "prior_variance": 1.266222,
       "prior_n": 4
     },
     {
+      "rank": 2,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": -0.327,
+      "prior_variance": 0.831005,
+      "prior_n": 2
+    },
+    {
       "rank": 3,
-      "title": "Etretat",
-      "path": "europe/france/normandybrittany/etretat",
-      "prior_score": 8.8959,
-      "prior_variance": 1.777375,
-      "prior_n": 1
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -2.224,
+      "prior_variance": 1.080193,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Pitigliano",
-      "path": "europe/italy/tuscany/pitigliano",
-      "prior_score": 4.4796,
-      "prior_variance": 0.907445,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -2.1969,
+      "prior_variance": 0.468561,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Toraja Highland",
-      "path": "asia/indonesia/sulawesi/toraja_highland",
-      "prior_score": 4.4166,
-      "prior_variance": 1.347121,
-      "prior_n": 1
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -5.9351,
+      "prior_variance": 0.622894,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Castellana Grotte",
-      "path": "europe/italy/puglia/castellana_grotte",
-      "prior_score": 0.8414,
-      "prior_variance": 1.349542,
-      "prior_n": 1
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.9592,
+      "prior_variance": 0.434232,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Taos",
-      "path": "northamerica/unitedstates/newmexico/taos",
-      "prior_score": 6.6508,
-      "prior_variance": 1.640601,
-      "prior_n": 1
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -3.1578,
+      "prior_variance": 0.685821,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Dunedin",
-      "path": "australiaandpacific/newzealand/otago/dunedin",
-      "prior_score": 8.5061,
-      "prior_variance": 9.784,
-      "prior_n": 1
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -1.2,
+      "prior_variance": 0.435623,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Kuroshima",
-      "path": "asia/japan/ryukyuislands/kuroshima",
-      "prior_score": 6.5459,
-      "prior_variance": 1.366765,
-      "prior_n": 1
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -1.5437,
+      "prior_variance": 0.542279,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Ternate",
-      "path": "asia/indonesia/maluku/ternate",
-      "prior_score": -0.0793,
-      "prior_variance": 0.722599,
-      "prior_n": 2
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": -0.6363,
+      "prior_variance": 0.433073,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Whanganui Region",
-      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
-      "prior_score": 2.122,
-      "prior_variance": 0.713459,
-      "prior_n": 2
+      "title": "Shantou",
+      "path": "asia/china/guangdong/shantou",
+      "prior_score": -5.2954,
+      "prior_variance": 0.683769,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Hameln",
-      "path": "europe/germany/lowersaxony/hameln",
-      "prior_score": 3.4702,
-      "prior_variance": 1.693429,
-      "prior_n": 1
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -4.1079,
+      "prior_variance": 0.586646,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Black Sea Coast",
-      "path": "europe/romania/blackseacoast",
-      "prior_score": 2.6265,
-      "prior_variance": 1.66908,
-      "prior_n": 1
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.4326,
+      "prior_variance": 0.553147,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Amizmiz",
-      "path": "africa/morocco/amizmiz",
-      "prior_score": -1.0213,
-      "prior_variance": 1.331253,
-      "prior_n": 1
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -4.8824,
+      "prior_variance": 0.475953,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Bellingham",
-      "path": "northamerica/unitedstates/washington/bellingham",
-      "prior_score": -0.9159,
-      "prior_variance": 1.739166,
-      "prior_n": 1
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -2.609,
+      "prior_variance": 0.516634,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Yellowknife",
-      "path": "northamerica/canada/northwestterritories/yellowknife",
-      "prior_score": 5.1861,
-      "prior_variance": 16.80408,
-      "prior_n": 1
-    },
-    {
-      "rank": 17,
-      "title": "Greenville",
-      "path": "northamerica/unitedstates/southcarolina/greenville",
-      "prior_score": -1.1031,
-      "prior_variance": 1.440832,
-      "prior_n": 1
-    },
-    {
-      "rank": 18,
-      "title": "Scrivia Valley",
-      "path": "europe/italy/liguria/scriviavalley",
-      "prior_score": -3.0808,
-      "prior_variance": 1.541801,
-      "prior_n": 1
-    },
-    {
-      "rank": 19,
-      "title": "Baltimore",
-      "path": "northamerica/unitedstates/maryland/baltimore",
-      "prior_score": 1.4634,
-      "prior_variance": 1.735639,
-      "prior_n": 1
-    },
-    {
-      "rank": 20,
-      "title": "Saudi Arabia",
-      "path": "asia/saudiarabia",
-      "prior_score": -16.8338,
-      "prior_variance": 6.07033,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -2.6442,
+      "prior_variance": 0.796958,
       "prior_n": 2
     },
     {
+      "rank": 17,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -2.6493,
+      "prior_variance": 0.843308,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -0.9014,
+      "prior_variance": 0.453825,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.6975,
+      "prior_variance": 0.727938,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": -1.4047,
+      "prior_variance": 0.363218,
+      "prior_n": 4
+    },
+    {
       "rank": 21,
-      "title": "Novosibirsk",
-      "path": "europe/russia/novosibirsk",
-      "prior_score": -8.4275,
-      "prior_variance": 11.242904,
-      "prior_n": 1
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -5.3538,
+      "prior_variance": 0.961293,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Boghni",
-      "path": "africa/algeria/boghni",
-      "prior_score": -9.6517,
-      "prior_variance": 3.734642,
-      "prior_n": 1
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": -0.3348,
+      "prior_variance": 0.679876,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Kitwe",
-      "path": "africa/zambia/kitwe",
-      "prior_score": -6.2807,
-      "prior_variance": 1.334856,
-      "prior_n": 1
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -4.2999,
+      "prior_variance": 0.466334,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Tieni-Siabli",
-      "path": "africa/ivorycoast/tienisiabli",
-      "prior_score": -11.0566,
-      "prior_variance": 7.970859,
-      "prior_n": 1
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -8.4281,
+      "prior_variance": 1.231143,
+      "prior_n": 2
     }
   ]
 }

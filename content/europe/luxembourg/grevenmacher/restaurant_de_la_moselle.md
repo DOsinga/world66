@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.6806
 longitude: 6.4417
+score: 5.5
 ---
 
 Grevenmacher's restaurant scene is modest in size but consistent in quality. The local standard is Moselle fish — pike-perch (sandre) is the regional speciality, typically served with a light Riesling sauce and boiled potatoes — and the better restaurants along the river esplanade do it well. Most places have outdoor terraces facing the water in summer, which is the main reason to choose one over another.

@@ -7,6 +7,7 @@ tags:
 snippet: "Ancient pottery village in the south of the island, working in the old way since antiquity"
 latitude: 33.7263
 longitude: 10.8556
+score: 8.0
 ---
 
 Guellala, on the southern coast of Jerba, has been producing pottery for at least two thousand years — ancient writers referred to its kilns, and the tradition has continued uninterrupted. The village sits on a slope above the sea, and the potters work in underground workshops dug into the soft rock, where the temperature stays constant and the clay keeps moist. You can watch them throwing pots, firing kilns, and painting the distinctive red and white geometric designs that characterise Jerba ceramics.

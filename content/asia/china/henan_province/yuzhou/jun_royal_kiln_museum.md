@@ -8,6 +8,7 @@ latitude: 34.1420
 longitude: 113.4890
 story: >
   Song dynasty emperors were so particular about Jun porcelain that pieces produced for the imperial household were graded and those that failed the standard were buried rather than sold or given away. Excavations at the Yuzhou kiln sites have turned up thousands of buried pieces — seconds discarded to prevent inferior goods from circulating under the imperial name. The museum's collection includes many such pieces, intact enough to show why they were deemed substandard and vivid enough to show how high the standard was.
+score: 8.5
 ---
 
 The Jun Royal Kiln Site Museum is the best place in China to understand Jun ware — both as an aesthetic tradition and as a technical achievement. The three-floor building combines a conventional museum survey of Yuzhou's ceramic history with the actual excavated kiln ruins that supplied the Song, Jin, and subsequent dynasties. The bottom level preserves the kiln ruins in situ: the brick firing chambers, the stacking kiln furniture, and the layers of ash and broken ware that accumulated over centuries of production.

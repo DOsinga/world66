@@ -6,6 +6,7 @@ longitude: 21.6253
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Kossuth tér is Debrecen's central square and the obvious place to start any wander. The Great Church anchors the northern end; the rest of the square is given over to fountains, cafes, and a tall column commemorating the 1849 declaration of independence. In summer the fountain jets are programmed to music in the evenings, and the city's biggest events — the August Flower Carnival, the New Year's market, the Whitsun festivals — all set up here.

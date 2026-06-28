@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bellver_Castle_Palma_de_Ma
 latitude: 39.569582
 loc_type: city
 longitude: 2.650075
-score: 0.73
+score: 9.08
+snippet: Mallorcan capital where a vast Gothic cathedral rises above the harbour and
+  old city walls.
 title: Palma
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3434,
+  "timestamp": "2026-06-13T22:53:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 13.0903,
+      "prior_variance": 0.390471,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 4.8948,
+      "prior_variance": 0.148696,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 5.1593,
+      "prior_variance": 0.139147,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 4.4819,
+      "prior_variance": 0.127329,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 4.7252,
+      "prior_variance": 0.132065,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.8251,
+      "prior_variance": 0.117853,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -0.784,
+      "prior_variance": 0.115026,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 0.8532,
+      "prior_variance": 0.122928,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": 0.0118,
+      "prior_variance": 0.117474,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.6446,
+      "prior_variance": 0.124531,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.0679,
+      "prior_variance": 0.109332,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.43,
+      "prior_variance": 0.12857,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -1.5288,
+      "prior_variance": 0.123558,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -0.9576,
+      "prior_variance": 0.118113,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.1281,
+      "prior_variance": 0.133638,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": -0.495,
+      "prior_variance": 0.144748,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.7828,
+      "prior_variance": 0.118322,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -3.4886,
+      "prior_variance": 0.134491,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury",
+      "prior_score": 0.9587,
+      "prior_variance": 0.134254,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": -0.0903,
+      "prior_variance": 0.131687,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -2.413,
+      "prior_variance": 0.124047,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -1.8311,
+      "prior_variance": 0.12537,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -5.8004,
+      "prior_variance": 0.181338,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -9.0216,
+      "prior_variance": 0.225622,
+      "prior_n": 11
+    }
+  ]
+}

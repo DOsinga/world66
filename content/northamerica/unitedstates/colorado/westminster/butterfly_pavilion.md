@@ -9,6 +9,7 @@ tags:
   - museum
 story: >
   The Butterfly Pavilion was the first stand-alone invertebrate zoo in the United States when it opened in 1995. Its resident ambassador tarantula — a Chilean rose-haired spider named Rosie — is reportedly one of the most-handled tarantulas in the world; willing visitors can have her placed on their hand by a handler.
+score: 7.7
 ---
 
 The Butterfly Pavilion is a non-profit zoological attraction dedicated to invertebrates, and it is far more interesting than that description suggests. The centrepiece is a tropical conservatory housing over 1,200 free-flying butterflies from around the world. You walk through a warm, humid jungle environment as blue morphos and swallowtails settle on your arms and camera lens — the effect is genuinely enchanting for adults as well as children.

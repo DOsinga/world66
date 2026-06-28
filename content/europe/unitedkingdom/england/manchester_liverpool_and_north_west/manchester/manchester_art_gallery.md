@@ -9,6 +9,7 @@ tags:
 - museum
 title: Manchester Art Gallery
 type: poi
+score: 8.1
 ---
 
 A strong collection of Pre-Raphaelite paintings, decorative arts, and contemporary work in a handsome neoclassical building. The Pre-Raphaelite holdings are particularly good — works by Millais, Rossetti, and Holman Hunt that rival what you'd find in London. The gallery hosts regular temporary exhibitions alongside its permanent collection. Free entrance.

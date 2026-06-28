@@ -6,6 +6,7 @@ longitude: 21.2273
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Liberty Square (Piata Libertatii) is the smallest and quietest of Timisoara's three connected central squares, sitting between Union Square to the north and Victory Square to the south. It was the original civic centre of the Habsburg garrison town, and the square is anchored on its eastern side by the Old Town Hall — a 1734 Baroque building now used by the city's music conservatory.

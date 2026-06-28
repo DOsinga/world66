@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -16.4895
 longitude: -39.0683
+score: 7.8
 ---
 
 The Rua do Mucugê is the main artery of Arraial — a long, gently curving street of dirt and cobble that runs from the village centre down toward the beach of the same name. Both sides are lined with restaurants, boutiques, ice cream parlours, and craft shops, almost all housed in low whitewashed buildings hung with bougainvillea.

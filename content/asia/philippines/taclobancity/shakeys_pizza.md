@@ -10,6 +10,7 @@ tags:
 title: Shakey's Pizza
 type: poi
 url: www.shakeyspizza.ph
+score: 2.9
 ---
 
 The Tacloban branch of the Philippines' long-running American-style pizza chain, sitting on Zamora Street in the heart of downtown. Clean, air-conditioned, and reliable: thick or thin crust pizzas, fried chicken, pasta, and combo meals. Useful when you have had enough sinigang and just want a familiar lunch.

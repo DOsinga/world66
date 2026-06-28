@@ -11,6 +11,7 @@ tags:
 - charlottenburg
 title: Kaufhaus Schrill
 type: poi
+score: 5.9
 ---
 
 A Charlottenburg institution on Bleibtreustrasse, near S-Bahn Savignyplatz. Kaufhaus Schrill stocks loud accessories, jewellery, and body decoration — the kind of things you'd wear on stage or to a party, not to the office. A fun browse even if you're not buying.

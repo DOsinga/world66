@@ -7,6 +7,7 @@ tags:
 latitude: 42.9469
 longitude: -74.2100
 snippet: 1774 Georgian stone house, an old loyalist mansion
+score: 6.2
 ---
 
 Guy Park is a substantial Georgian stone mansion built in 1774 on the north bank of the Mohawk for Guy Johnson, the Irish-born nephew and son-in-law of Sir William Johnson, the British Superintendent of Indian Affairs in colonial New York. Johnson was a loyalist who fled to Canada at the outbreak of the Revolution; the house was confiscated and went on to serve as a tavern, a post office, and a museum.

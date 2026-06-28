@@ -9,6 +9,7 @@ snippet: Krebs Italian restaurant known for hearty family-style portions
 latitude: 34.9321
 longitude: -95.7170
 neighbourhood: Krebs
+score: 7.4
 ---
 
 Roseanna's is the third of the famous Krebs Italian restaurants, smaller and a little less photographed than Pete's or Isle of Capri but firmly in the same tradition. The menu sticks to the local classics: ravioli, spaghetti, lamb fries, hand-cut steaks, Choctaw beer.

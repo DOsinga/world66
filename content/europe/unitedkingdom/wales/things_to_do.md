@@ -4,8 +4,9 @@ done:
   poi_cleanup: '2026-04-19'
 email: info@northwalesbutterflies.org.uk
 phone: 01352 711198
+score: 4.7
 title: Things to do
-type: poi
+type: section
 url: www.northwalesbutterflies.org.uk
 ---
 

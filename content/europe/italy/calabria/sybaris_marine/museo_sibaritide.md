@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.7243
 longitude: 16.4882
+score: 8.4
 ---
 
 The Museo Nazionale della Sibaritide is the main repository for objects found during decades of excavations at the Sybaris site. The collection spans all three periods of occupation — from Sybarite Greek pottery and bronze work (7th–6th centuries BC), through Hellenistic Thurii, to Roman Copia — and gives a real sense of how wealthy and sophisticated this corner of Magna Graecia was.

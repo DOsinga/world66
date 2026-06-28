@@ -1,10 +1,12 @@
 ---
 latitude: 40.4239
 longitude: -3.6898
-snippet: "Over 450 wax figures from Spanish and world history"
+score: 4.9
+snippet: Over 450 wax figures from Spanish and world history
 tags:
 - things_to_do
 - museum
+- chueca
 title: Wax Museum
 type: poi
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.7
 longitude: 13.58
+score: 7.0
 ---
 
 The main cycling routes through the Salzkammergut follow the river valleys between the lakes, connecting the towns on generally flat terrain with occasional moderate climbs over low passes. The core route runs from Salzburg east along the Salzach and then the Traun valley, passing through Bad Ischl and continuing south to Hallstatt — a distance of about 85 kilometres that can comfortably be cycled in two days with a night in Bad Ischl.

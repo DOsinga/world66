@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sierra de la Tercia
 type: poi
+score: 6.7
 ---
 
 The Sierra de la Tercia rises north of Lorca, a long limestone ridge reaching

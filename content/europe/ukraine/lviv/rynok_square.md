@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Market_Square_(Lviv)
 story: >
   The square's four fountain statues — Neptune, Amphitrite, Diana, and Adonis — were installed in the 18th century and survived wars, occupations, and Soviet rule. During the Nazi occupation, the German administration cleared the market stalls and used the square for military parades; local legend has it that some residents threw rubbish from their windows onto the parading columns.
+score: 9.2
 ---
 
 Rynok Square — Market Square — is the heart of Lviv's old town, a handsome Renaissance enclosure surrounded by merchant townhouses built by the city's Italian, German, Armenian, and Jewish communities over several centuries. The town hall tower in the centre is the obvious landmark, and you can climb it for views over the surrounding roofscape. The square itself is lined with outdoor cafes in summer and rarely feels empty at any hour.

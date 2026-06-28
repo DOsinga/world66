@@ -1,12 +1,15 @@
 ---
 latitude: 35.0237
 longitude: 135.7634
-snippet: Retired-emperors' palace inside Kyoto Gyoen, with a celebrated dual pond garden
+score: 7.8
+snippet: Retired-emperors' palace inside Kyoto Gyoen, with a celebrated dual pond
+  garden
 tags:
 - things_to_do
 - palace
 - garden
 - sight
+- downtown_kyoto
 title: Sentō Imperial Palace
 type: poi
 ---

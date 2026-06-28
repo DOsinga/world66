@@ -1,0 +1,200 @@
+{
+  "round": 3320,
+  "timestamp": "2026-06-13T22:45:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 3.0281,
+      "prior_variance": 0.128167,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 2.9088,
+      "prior_variance": 0.12189,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.0895,
+      "prior_variance": 0.125975,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.3491,
+      "prior_variance": 0.110061,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -4.0117,
+      "prior_variance": 0.140166,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.5657,
+      "prior_variance": 0.169997,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_score": -1.6828,
+      "prior_variance": 0.143685,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/lakedistrict/ravenglass",
+      "prior_score": 0.0756,
+      "prior_variance": 0.122095,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.6679,
+      "prior_variance": 0.11205,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -1.5005,
+      "prior_variance": 0.15755,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -3.143,
+      "prior_variance": 0.156061,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -1.4388,
+      "prior_variance": 0.115726,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -1.0497,
+      "prior_variance": 0.113628,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -1.5146,
+      "prior_variance": 0.116172,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": -3.5803,
+      "prior_variance": 0.139397,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -2.2574,
+      "prior_variance": 0.13928,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -2.0145,
+      "prior_variance": 0.115621,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Ratnagiri, Lalitgiri and Udayagiri",
+      "path": "asia/india/orissa/ratnagirilalitgiri",
+      "prior_score": -1.6561,
+      "prior_variance": 0.134328,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -6.5635,
+      "prior_variance": 0.181644,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -5.9058,
+      "prior_variance": 0.155406,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -6.854,
+      "prior_variance": 0.17596,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -6.9161,
+      "prior_variance": 0.160933,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -8.9566,
+      "prior_variance": 0.375811,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -10.9812,
+      "prior_variance": 0.389432,
+      "prior_n": 10
+    }
+  ]
+}

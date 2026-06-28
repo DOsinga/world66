@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "Rundle Street East and its laneway bars — Adelaide's main eating and drinking district"
+score: 7.5
 ---
 
 The East End loosely describes the area around the eastern portion of Rundle Street and its surrounding laneways. This is where Adelaide goes out — a dense strip of restaurants, bars, cafes, and small arts venues that stretches from Frome Street to Pulteney Street and spills into the adjacent lanes.

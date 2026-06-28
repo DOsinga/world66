@@ -14,6 +14,7 @@ story: >
   advertise loudly enough.
 sources:
   - https://en.wikipedia.org/wiki/Hofbr%C3%A4uhaus_Traunstein
+score: 7.3
 ---
 
 The Hofbräuhaus Traunstein was founded in 1612 by Duke Maximilian I of Bavaria as a Weißes Bräuhaus — a white brewery specialising in wheat beer, a court-controlled product in Wittelsbach Bavaria. The building stands close to the Stadtplatz and has been brewing on this site for more than four centuries. It is a family-owned business, not the Munich tourist machine of the same dynasty, and considerably more serious about its beer.

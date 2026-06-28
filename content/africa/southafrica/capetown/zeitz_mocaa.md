@@ -1,8 +1,7 @@
 ---
-category: Museum
 latitude: -33.9082
 longitude: 18.4225
-neighbourhood: V&A Waterfront
+score: 8.8
 scores:
   activities: 0.6052
   museum: 0.7291

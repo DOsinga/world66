@@ -8,6 +8,7 @@ latitude: 30.6809
 longitude: 104.0223
 story: >
   In 2001, construction workers building a housing development in the western suburbs of Chengdu hit a cache of gold, bronze, jade, and ivory objects dating to approximately 1200-650 BC — the same period and culture as Sanxingdui. The site turned out to be a major ritual centre of the ancient Shu kingdom, apparently succeeding Sanxingdui when that city was abandoned. Among the finds: a circular gold foil disc cut into the shape of a sun with birds around it, now the emblem of the city of Chengdu.
+score: 8.7
 ---
 
 The Jinsha Site Museum in the western suburbs of Chengdu occupies the actual excavation site where one of China's most significant archaeological discoveries was made in 2001. The main building straddles the live excavation pits, allowing visitors to look down at ongoing work through glass floors while exhibits explain the finds and their context.

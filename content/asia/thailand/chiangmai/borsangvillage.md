@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Bor Sang Village
 type: poi
+score: 6.6
 ---
 
 Bor Sang is best known as the umbrella village — families here have been making hand-painted paper and silk parasols for generations, and you can watch the whole process from bamboo-frame assembly to the final brushstrokes. The village sits along Highway 1006 (the San Kamphaeng road), about 9 km east of central Chiang Mai.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Pro-Cathedral of Our Lady of the Light, one block south of the Praca Nova, is the principal Catholic church of the diocese of Mindelo and the city's main religious landmark. The current building is a substantial mid-nineteenth-century neoclassical structure, with a pale facade, twin bell towers, and a high single nave inside.

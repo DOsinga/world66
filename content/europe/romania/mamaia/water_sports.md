@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.2480
 longitude: 28.6250
+score: 6.8
 ---
 
 Mamaia has a good range of water sports available from rental stands along the beach. Jet skis, parasailing, banana boats, and windsurfing equipment are all available from May through September. Scuba diving is also possible — the Black Sea has unusual conditions, including very low salinity and poor visibility compared to the Mediterranean, but there are wrecks offshore worth exploring for experienced divers.

@@ -8,6 +8,7 @@ snippet: "Cliff-top promenade with continuous ocean views"
 tags:
 - things_to_do
 - sight
+score: 7.9
 ---
 
 The Esplanade is the cliff-top road and walking path that runs along the bluff above Redondo Beach from Veterans Park south to the Torrance border. The drop to the beach is roughly 25 metres of vegetated coastal cliff, with a few zigzag pedestrian staircases providing access to the sand below.

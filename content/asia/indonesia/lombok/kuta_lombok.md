@@ -9,6 +9,7 @@ title: Kuta Lombok
 type: poi
 story: >
   Kuta in Lombok has nothing to do with Kuta in Bali except the name, which causes occasional booking confusion. The Lombok Kuta was a quiet fishing village until the 1990s and remains far less developed than its Balinese namesake. The Mandalika resort development nearby — including an international racing circuit that hosted the MotoGP in 2022 — has transformed the surrounding area dramatically, but Kuta town itself retains more of its original character than might be expected.
+score: 8.1
 ---
 
 Kuta Lombok is a small town on the south coast with an exceptional setting: it sits on a crescent bay flanked by headlands, with more bays of similar beauty accessible by scooter or boat to the east and west. Selong Belanak, Mawun, and Tanjung Aan are among the finest beaches in Indonesia — long, clean, and (outside July and August) relatively uncrowded.

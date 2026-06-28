@@ -2,10 +2,12 @@
 address: Calle San Pedro No. 262 e/ Sol y Muralla
 latitude: 23.1373
 longitude: -82.3509
+score: 6.7
 snippet: Havana Club museum tracing Cuban rum-making from cane to glass
 tags:
 - things_to_do
 - museum
+- habana_vieja
 title: Museo del Ron, Fundación Havana Club
 type: poi
 ---

@@ -9,6 +9,7 @@ tags:
   - restaurant
 neighbourhood: Grund
 address: 4 Bisserwee
+score: 6.1
 ---
 
 A Grund stalwart since the 1990s, occupying a riverside building with a heated outdoor terrace that runs along the Alzette. Scott's serves a pub-style menu — burgers, ribs, pasta, salads — that won't win awards but reliably feeds you well into the evening. The terrace is one of the best places in the city for a long lunch in summer.

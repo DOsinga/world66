@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/110608682@N04/31087469701
 latitude: 32.265078
 loc_type: city
 longitude: -9.230554
-score: 0.46
+score: 7.05
+snippet: Atlantic port city in Morocco, famed for blue-and-white pottery from the
+  Colline des Potiers.
 title: Safi
 type: location
 ---

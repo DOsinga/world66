@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 Kiri Vehera — the "Milk Stupa" — was built by Queen Subhadra, principal consort of Parakramabahu I, in the twelfth century. The stupa is 24 metres high and retains a remarkable amount of its original white-lime plaster, which gave it its name. Set on a wide open terrace inside the so-called Alahana Pirivena monastic complex, it is one of the best-preserved stupas of the medieval Sinhalese period.

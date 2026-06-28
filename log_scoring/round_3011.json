@@ -1,0 +1,200 @@
+{
+  "round": 3011,
+  "timestamp": "2026-06-13T22:22:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 2.567,
+      "prior_variance": 0.145447,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 4.6209,
+      "prior_variance": 0.147127,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 4.0826,
+      "prior_variance": 0.165449,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -0.9668,
+      "prior_variance": 0.176795,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/widecombe",
+      "prior_score": 0.8749,
+      "prior_variance": 0.14242,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": -0.5064,
+      "prior_variance": 0.146086,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": -0.1769,
+      "prior_variance": 0.16982,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 0.9633,
+      "prior_variance": 0.15566,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 0.4772,
+      "prior_variance": 0.161824,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.9696,
+      "prior_variance": 0.131099,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -2.7948,
+      "prior_variance": 0.148781,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": -0.45,
+      "prior_variance": 0.143971,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -2.1501,
+      "prior_variance": 0.22107,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.4317,
+      "prior_variance": 0.123793,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.6268,
+      "prior_variance": 0.124729,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -2.2494,
+      "prior_variance": 0.142285,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.6894,
+      "prior_variance": 0.158844,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -1.9653,
+      "prior_variance": 0.189969,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -4.5227,
+      "prior_variance": 0.19773,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Touggourt",
+      "path": "africa/algeria/touggourt",
+      "prior_score": -5.428,
+      "prior_variance": 0.182032,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -4.3469,
+      "prior_variance": 0.15258,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -6.1504,
+      "prior_variance": 0.22494,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_score": -6.5144,
+      "prior_variance": 0.219994,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisco",
+      "prior_score": -5.5586,
+      "prior_variance": 0.17722,
+      "prior_n": 10
+    }
+  ]
+}

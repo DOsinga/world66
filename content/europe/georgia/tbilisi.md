@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Tbilisi_from_Tabor
 latitude: 41.693459
 loc_type: city
 longitude: 44.801449
-score: 0.7
+score: 9.04
+snippet: Georgian capital on the Mtkvari River, where warm springs, balconies, and
+  layered empires meet
 sources:
 - https://en.wikipedia.org/wiki/Tbilisi
 - https://en.wikivoyage.org/wiki/Tbilisi

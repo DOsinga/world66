@@ -7,6 +7,7 @@ tags:
 latitude: 48.1250
 longitude: 11.5831
 story: "The Auer Dult runs three times a year — in late April/early May, late July, and late October — each for nine days. It's been held continuously since 1796, minus the war years. The antiques and secondhand goods market is the real draw; the fairground rides are for the kids."
+score: 7.7
 ---
 
 A traditional open-air fair on Mariahilfplatz in Au, held three times a year (Maidult, Jakobidult, and Kirchweihdult), combining a fairground with a large market for antiques, secondhand kitchenware, pottery, and bric-a-brac. Munich residents take it seriously as a source of cheap crockery, old books, vintage objects, and the occasional genuine antique.

@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Üç Şerefeli Mosque
 type: poi
+score: 8.3
 ---
 
 The Üç Şerefeli Mosque — its name means "three-balconied," after the three balconies on its tallest minaret — was completed in 1447 and represents a pivotal experiment in Ottoman architecture. It stands between the earlier multi-domed mosques like the Eski Cami and the grand single-domed imperial mosques that would come later. Here the architects attempted to cover a much wider space with a single central dome, flanked by two semi-domes — an approach that had not been tried at this scale before. The result was imperfect by the standards of what Sinan would later achieve, but the ambition was entirely new.

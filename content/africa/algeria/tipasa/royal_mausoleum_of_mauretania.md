@@ -14,6 +14,7 @@ story: >
   Cleopatra VII and Mark Antony. After her parents' defeat and death, she was raised
   in Rome and married to King Juba II of Mauretania — making this the final resting
   place of one of antiquity's most dramatic family lines.
+score: 8.4
 ---
 
 A massive circular stone tomb standing alone on a hill about 15 kilometres east of Tipasa, visible from the main highway. The Romans called it the "Tombeau de la Chretienne" — the Tomb of the Christian Woman — though it predates Christianity by centuries. It was built in the 3rd century BC as a royal burial monument for the kings of Mauretania, the Berber kingdom that once controlled much of North Africa.

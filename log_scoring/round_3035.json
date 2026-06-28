@@ -1,0 +1,200 @@
+{
+  "round": 3035,
+  "timestamp": "2026-06-13T22:24:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 14.6721,
+      "prior_variance": 0.757811,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 10.9635,
+      "prior_variance": 0.495195,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 8.9237,
+      "prior_variance": 0.306328,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_score": 7.4681,
+      "prior_variance": 0.347104,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 6.1346,
+      "prior_variance": 0.183907,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.576,
+      "prior_variance": 0.173684,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 4.8696,
+      "prior_variance": 0.183568,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 5.7883,
+      "prior_variance": 0.168179,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 4.2169,
+      "prior_variance": 0.174636,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_score": 6.2742,
+      "prior_variance": 0.170227,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 6.0883,
+      "prior_variance": 0.183009,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 7.2406,
+      "prior_variance": 0.184458,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 5.7813,
+      "prior_variance": 0.168819,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 3.9337,
+      "prior_variance": 0.165833,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 4.0549,
+      "prior_variance": 0.160703,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 4.5733,
+      "prior_variance": 0.146088,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 4.4066,
+      "prior_variance": 0.135634,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 4.6403,
+      "prior_variance": 0.145462,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 2.4873,
+      "prior_variance": 0.14386,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 3.6499,
+      "prior_variance": 0.138362,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 3.9273,
+      "prior_variance": 0.160956,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.5077,
+      "prior_variance": 0.131143,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 2.9839,
+      "prior_variance": 0.138593,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Rzeszow",
+      "path": "europe/poland/rzeszow",
+      "prior_score": -1.4339,
+      "prior_variance": 0.136153,
+      "prior_n": 10
+    }
+  ]
+}

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A karst river that emerges from the rock and reaches the sea after only a few hundred metres
+score: 6.8
 ---
 
 At the southern end of Živogošće a small but powerful river — the Vruja — bursts from the foot of the Biokovo cliff and runs to the sea only a few hundred metres later. The freshwater is icy cold even in August, and the mixing of the spring water with the warmer salt water in the small cove creates a clearly visible thermocline.

@@ -1,200 +1,200 @@
 {
   "round": 1849,
-  "timestamp": "2026-04-13T10:57:28",
+  "timestamp": "2026-06-13T20:56:39",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cortina d'Ampezzo",
-      "path": "europe/italy/veneto/cortina_dampezzo",
-      "prior_score": 8.7229,
-      "prior_variance": 0.470731,
-      "prior_n": 4
-    },
-    {
-      "rank": 2,
-      "title": "Skelligs",
-      "path": "europe/ireland/skelligs",
-      "prior_score": 6.6815,
-      "prior_variance": 0.424313,
-      "prior_n": 4
-    },
-    {
-      "rank": 3,
-      "title": "Chambord",
-      "path": "europe/france/centre/loirevalley/chambord",
-      "prior_score": 6.8453,
-      "prior_variance": 0.505437,
-      "prior_n": 4
-    },
-    {
-      "rank": 4,
-      "title": "Bergen",
-      "path": "europe/norway/bergen",
-      "prior_score": 8.9049,
-      "prior_variance": 0.443561,
+      "title": "Zhangye Danxia Geological Park",
+      "path": "asia/china/gansu/zhangye_danxia",
+      "prior_score": 7.3373,
+      "prior_variance": 0.386401,
       "prior_n": 5
     },
     {
+      "rank": 2,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 9.9356,
+      "prior_variance": 0.339631,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 9.0861,
+      "prior_variance": 0.393888,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 4.2076,
+      "prior_variance": 0.261351,
+      "prior_n": 6
+    },
+    {
       "rank": 5,
-      "title": "Postup",
-      "path": "europe/croatia/postup_the_villag",
-      "prior_score": 1.9578,
-      "prior_variance": 0.229887,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 3.4781,
+      "prior_variance": 0.252469,
       "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Petit St. Vincent",
-      "path": "northamerica/saintvincentandthegrenadines/petitst",
-      "prior_score": 4.9223,
-      "prior_variance": 0.484325,
-      "prior_n": 5
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.4618,
+      "prior_variance": 0.299915,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "The Palouse",
-      "path": "northamerica/unitedstates/washington/the_palouse",
-      "prior_score": 0.8757,
-      "prior_variance": 0.287065,
-      "prior_n": 5
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 1.8718,
+      "prior_variance": 0.250936,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Rabat",
-      "path": "africa/morocco/rabat",
-      "prior_score": 4.2032,
-      "prior_variance": 0.330665,
-      "prior_n": 4
+      "title": "Mount Heng",
+      "path": "asia/china/hunan/mount_heng",
+      "prior_score": 1.6841,
+      "prior_variance": 0.274188,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Matmata",
-      "path": "africa/tunisia/matmata",
-      "prior_score": 1.2122,
-      "prior_variance": 0.227483,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.3741,
+      "prior_variance": 0.2083,
       "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Tyre",
-      "path": "asia/lebanon/tyre",
-      "prior_score": 1.3654,
-      "prior_variance": 0.375274,
-      "prior_n": 5
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 2.1667,
+      "prior_variance": 0.266976,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Ashgabat",
-      "path": "asia/turkmenistan/ashgabat",
-      "prior_score": -1.2741,
-      "prior_variance": 0.260816,
-      "prior_n": 5
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": -0.0522,
+      "prior_variance": 0.334135,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Tajikistan",
-      "path": "asia/tajikistan",
-      "prior_score": -1.3891,
-      "prior_variance": 0.439318,
-      "prior_n": 5
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.8354,
+      "prior_variance": 0.212086,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Kimberley",
-      "path": "africa/southafrica/kimberley",
-      "prior_score": -2.4101,
-      "prior_variance": 0.390919,
-      "prior_n": 5
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.79,
+      "prior_variance": 0.223218,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Puigcerd\u00e0",
-      "path": "europe/spain/puigcerd",
-      "prior_score": 1.9202,
-      "prior_variance": 0.310773,
-      "prior_n": 4
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 0.4676,
+      "prior_variance": 0.21232,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Worms",
-      "path": "europe/germany/rhinelandpalatinate/worms",
-      "prior_score": 1.3056,
-      "prior_variance": 0.25129,
-      "prior_n": 5
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.4566,
+      "prior_variance": 0.223978,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Fort Bragg",
-      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
-      "prior_score": -0.1766,
-      "prior_variance": 0.303868,
-      "prior_n": 4
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.5346,
+      "prior_variance": 0.21399,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Semarang",
-      "path": "asia/indonesia/java/semarang",
-      "prior_score": 0.7305,
-      "prior_variance": 0.304212,
-      "prior_n": 4
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -2.1467,
+      "prior_variance": 0.262573,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Katerini",
-      "path": "europe/greece/katerini",
-      "prior_score": 1.2751,
-      "prior_variance": 0.248117,
-      "prior_n": 5
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -0.7861,
+      "prior_variance": 0.229901,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Jamnagar",
-      "path": "asia/india/gujarat/jamnagar",
-      "prior_score": -1.9062,
-      "prior_variance": 0.336857,
-      "prior_n": 4
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -2.8237,
+      "prior_variance": 0.203668,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Kapurthala",
-      "path": "asia/india/punjab/kapurthala",
-      "prior_score": -4.0333,
-      "prior_variance": 0.335222,
-      "prior_n": 4
-    },
-    {
-      "rank": 21,
-      "title": "Calamba",
-      "path": "asia/philippines/calamba",
-      "prior_score": -1.9757,
-      "prior_variance": 0.39069,
-      "prior_n": 4
-    },
-    {
-      "rank": 22,
-      "title": "Bingerville",
-      "path": "africa/ivorycoast/bingerville",
-      "prior_score": -4.7553,
-      "prior_variance": 0.281305,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -2.0724,
+      "prior_variance": 0.241269,
       "prior_n": 5
     },
     {
+      "rank": 21,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -4.3976,
+      "prior_variance": 0.290835,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.5497,
+      "prior_variance": 0.333993,
+      "prior_n": 6
+    },
+    {
       "rank": 23,
-      "title": "New Brunswick",
-      "path": "northamerica/unitedstates/newjersey/newbrunswick",
-      "prior_score": -4.2752,
-      "prior_variance": 0.333419,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -4.0993,
+      "prior_variance": 0.265881,
       "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Tyumen",
-      "path": "europe/russia/tyumen",
-      "prior_score": -8.46,
-      "prior_variance": 0.663916,
-      "prior_n": 4
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/livermore",
+      "prior_score": -2.9653,
+      "prior_variance": 0.248371,
+      "prior_n": 6
     }
   ]
 }

@@ -1,0 +1,200 @@
+{
+  "round": 3588,
+  "timestamp": "2026-06-13T23:05:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 8.2676,
+      "prior_variance": 0.207049,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": 6.5827,
+      "prior_variance": 0.145895,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 5.1355,
+      "prior_variance": 0.167721,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.761,
+      "prior_variance": 0.152711,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 6.5992,
+      "prior_variance": 0.156761,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 5.3633,
+      "prior_variance": 0.131204,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 3.6335,
+      "prior_variance": 0.137594,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_score": 4.4388,
+      "prior_variance": 0.132358,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 5.2725,
+      "prior_variance": 0.15298,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 6.2597,
+      "prior_variance": 0.170116,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 6.1814,
+      "prior_variance": 0.145152,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_score": 4.0919,
+      "prior_variance": 0.129526,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 3.6068,
+      "prior_variance": 0.143975,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.0922,
+      "prior_variance": 0.113193,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.4761,
+      "prior_variance": 0.125869,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 0.7685,
+      "prior_variance": 0.129833,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 0.6442,
+      "prior_variance": 0.107114,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 1.2686,
+      "prior_variance": 0.117057,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 1.6035,
+      "prior_variance": 0.123127,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 1.1914,
+      "prior_variance": 0.118308,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 2.3202,
+      "prior_variance": 0.113362,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.193,
+      "prior_variance": 0.112873,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -1.0121,
+      "prior_variance": 0.104794,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 1.9083,
+      "prior_variance": 0.120434,
+      "prior_n": 11
+    }
+  ]
+}

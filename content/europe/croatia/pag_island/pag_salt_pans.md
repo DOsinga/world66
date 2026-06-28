@@ -17,6 +17,7 @@ story: >
   from Pag for centuries, and wars were fought over the resource. The salt pans
   visible south of Pag Town today occupy essentially the same ground as in
   medieval times.
+score: 7.4
 ---
 
 **The Pag Salt Pans** (*Paška solana*) lie south of Pag Town in the shallow lagoon between the island and the mainland. Working salt pans have been here since at least the medieval period, when Pag salt was one of the Adriatic's most valued commercial products. The evaporation ponds — flat rectangles of shallow water that shade from turquoise to pink to white as salt concentration increases — are clearly visible from the main road and from the bridge approach, and they are managed as an active commercial salt operation.

@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Pantai_Tanjung_Tinggi_Beli
 latitude: -2.884281
 loc_type: city
 longitude: 107.66316
-score: 0.56
+score: 8.18
 title: Belitung
 type: location
+snippet: Java Sea island known for tin heritage, granite boulder beaches, and turquoise
+  water.
 ---
 
 Belitung (in English, Billiton) is an island in the Java Sea off the eastern coast of Sumatra, about 400 kilometres northeast of Jakarta. Long known for tin and pepper, it has more recently gained attention as a beach destination — its granite boulders, crystal-clear turquoise water, and relative lack of development make for a compelling combination.

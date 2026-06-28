@@ -5,6 +5,7 @@ snippet: One of the most distinctive markets in Sudan, with Rashaida silver, Bej
 tags: [things_to_do, sight, market]
 latitude: 15.4530
 longitude: 36.4000
+score: 8.2
 ---
 
 The Kassala souq draws people from across eastern Sudan and across the Eritrean border for goods you will not see in this combination anywhere else: clay jebbana coffee pots, Rashaida silver jewellery, Beja straight swords, Eritrean spices, and stack after stack of the famous local fruit — particularly the small sweet bananas, mangoes, and grapefruit grown along the Gash river.

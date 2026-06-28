@@ -7,6 +7,7 @@ tags:
 latitude: 46.6333
 longitude: 8.5333
 snippet: High alpine valley floor around Andermatt, ideal for summer hiking and cycling
+score: 7.4
 ---
 
 The Urseren Valley is the flat-bottomed alpine basin at about 1440 metres in which Andermatt sits. The valley floor runs roughly southwest to northeast, ringed by peaks that rise steeply on all sides, and gives the village its characteristic boxed-in quality — you are at the center of things, with passes going out in three directions.

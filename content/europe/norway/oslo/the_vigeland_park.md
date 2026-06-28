@@ -14,6 +14,7 @@ story: >
   Monolith at the park's centre — 17 metres of writhing human bodies carved from a single block
   of granite by three stone carvers working from Vigeland's model for 14 years — is either
   magnificent or disturbing, depending on your tolerance for raw ambition.
+score: 9.2
 ---
 
 Vigeland Park (set within the larger Frognerparken) is the most visited site in Norway and one of the most extraordinary public art installations in the world. Gustav Vigeland spent the last 22 years of his life creating the 212 sculptures in bronze, granite, and wrought iron that fill the park — a sweeping series of installations along a central axis including the famous bridge with its bronze figures, the Fountain, and the Monolith plateau.

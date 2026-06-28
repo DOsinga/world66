@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 12.1120
 longitude: -86.2640
+score: 6.3
 ---
 
 Pan y Paz is a Managua bakery and cafe institution that has operated in the Altamira area for years, drawing a loyal crowd of professionals, students, and NGO workers for breakfast and lunch. The specialty is fresh-baked bread — the rosquillas (corn flour rings), semitas (dense sweet rolls), and pan dulce (sweet bread) are all made daily and disappear fast.

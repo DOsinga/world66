@@ -11,6 +11,7 @@ tags:
 - nature
 title: Muelle de las Almas
 type: poi
+score: 7.8
 ---
 
 Muelle de las Almas is a wooden pier-like artwork on a cliff near Cucao, pointing out toward the Pacific. The walk to reach it crosses open, windy ground and gives broad views over Chiloé's west coast.

@@ -15,6 +15,7 @@ story: >
   was evidence of Guayota struggling against his chains. The story was collected
   by Spanish missionaries in the 16th century and is one of the best-preserved
   examples of Guanche mythology.
+score: 9.6
 ---
 
 The Teide National Park covers the entire central massif of Tenerife, centred on the volcanic caldera Las Cañadas and the summit of Mount Teide at 3,718 metres — Spain's highest point and the world's third-largest volcano by height from its base on the ocean floor. The national park is a UNESCO World Heritage Site for its extraordinary volcanic landscape: twisted lava formations, fields of black pumice, strange rock pillars called Roques de García, and an almost complete absence of vegetation at altitude that gives it a genuinely lunar quality.

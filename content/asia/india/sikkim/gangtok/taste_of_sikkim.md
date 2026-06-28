@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 27.329
 longitude: 88.6115
+score: 6.1
 ---
 
 Taste of Sikkim is one of the few restaurants in Gangtok where you can eat genuinely Sikkimese food rather than generic North Indian or Chinese fare. The menu features traditional dishes such as gundruk ko achar (pickled fermented leafy greens), tama (fermented bamboo shoot curry), and chhurpi soup made with dried yak cheese. It is humble cooking, but flavourful and utterly regional.

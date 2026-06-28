@@ -1,7 +1,13 @@
 ---
-title: "The Millwald Theatre and Thomas J. Boyd Museum"
+latitude: 36.951001
+longitude: -81.085024
+score: 6.5
+tags:
+- things_to_do
+- museum
+- historic
+title: The Millwald Theatre and Thomas J. Boyd Museum
 type: poi
-tags: [things_to_do, museum, historic]
 ---
 
 The Thomas J. Boyd Museum occupies the historic Millwald Theatre building on Monroe Street — a 1928 picture palace with an intact façade that is itself one of the more handsome structures in Wytheville. The theatre's interior has been adapted for museum use, but enough of the original character remains to make the building worth visiting on its own terms. The marquee still stands.

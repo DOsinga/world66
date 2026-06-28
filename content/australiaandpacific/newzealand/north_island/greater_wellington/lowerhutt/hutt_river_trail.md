@@ -6,6 +6,7 @@ longitude: 174.9058
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Hutt River Trail follows the Te Awa Kairangi / Hutt River for around 40 kilometres from Wellington Harbour north through Lower Hutt and Upper Hutt to the Kaitoke Regional Park. Most of the trail is on sealed or gravel paths, making it accessible for cyclists, walkers, and runners. The section through Lower Hutt is flat, pleasant, and easy, with the river on one side and the city's parks and residential areas on the other.

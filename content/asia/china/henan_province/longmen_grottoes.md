@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:27381-Luoyang,_Longmen_Gro
 latitude: 34.5556
 loc_type: feature
 longitude: 112.4697
+score: 8.74
+snippet: Yi River cave-temple complex near Luoyang, with thousands of Chinese Buddhist
+  stone sculptures.
 sources:
 - https://en.wikivoyage.org/wiki/Longmen_Grottoes
 title: Longmen Grottoes

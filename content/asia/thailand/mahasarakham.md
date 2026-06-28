@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Borom_MSU.jpg
 latitude: 16.247
 loc_type: city
 longitude: 103.2506
-score: 0.41
+score: 6.33
+snippet: Isan college town whose universities give a young energy to otherwise untouristed
+  central Thailand.
 title: Mahasarakham
 type: location
 ---

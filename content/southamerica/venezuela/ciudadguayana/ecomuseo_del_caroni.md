@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 8.3510
 longitude: -62.6645
+score: 7.6
 ---
 
 The Ecomuseo del Caroní is a cultural center built into the infrastructure of the Macagua hydroelectric dam, combining a natural history museum with art galleries and exhibits on the Caroní River ecosystem and the indigenous Pemón people who have lived along it for centuries. The building itself is architecturally unusual — set into the dam structure, with the river visible through large windows.

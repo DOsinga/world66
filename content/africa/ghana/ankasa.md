@@ -5,7 +5,9 @@ done:
 latitude: 5.3
 loc_type: city
 longitude: -2.6133
-score: 0.4
+score: 6.41
+snippet: Remote rainforest national park in southwest Ghana, protecting swamp forest,
+  bamboo groves, and dense canopy.
 title: Ankasa
 type: location
 ---

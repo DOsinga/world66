@@ -9,6 +9,7 @@ latitude: 38.4870
 longitude: 106.0310
 story: >
   The Western Xia kingdom created its own script — the Tangut script — in 1036 CE, modelling it on Chinese characters but making it entirely unreadable to Chinese speakers. The script was used for Buddhist texts, imperial records, and literature for almost two centuries. After the Mongol destruction of 1227, knowledge of the script was lost so completely that scholars could not read a single character until the 20th century. The museum displays Tangut manuscripts alongside the painstaking detective work that finally cracked them.
+score: 7.9
 ---
 
 The on-site museum at the Western Xia Mausoleum is one of the best-designed regional history museums in the northwest, presenting the story of the Tangut Western Xia kingdom with clarity and genuine depth. The Western Xia are one of Chinese history's great unknowns outside China itself: a sophisticated Buddhist state that controlled the strategic Hexi Corridor — the gateway to Central Asia — for nearly two centuries, yet was so thoroughly destroyed by the Mongols that even its name was largely forgotten until the 20th century.

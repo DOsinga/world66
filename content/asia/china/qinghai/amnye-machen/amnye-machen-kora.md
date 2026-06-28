@@ -9,6 +9,7 @@ latitude: 34.9200
 longitude: 99.1800
 story: >
   The kora of Amnye Machen is considered so meritorious that completing it is believed to cancel the sins of a lifetime. Some Tibetan pilgrims prostrate the entire circuit — measuring their body length against the earth with every step — a process that takes weeks. During times of crisis, the mountain draws pilgrims from across the Amdo plateau who walk day and night without stopping.
+score: 9.2
 ---
 
 The kora around Amnye Machen is an 80 to 100 kilometre circuit of the sacred massif, taking four to six days on foot. The route crosses several high passes above 4,500 metres, traverses yak pastures and glacial moraine, and passes small nomad camps where Tibetan herders occasionally offer shelter and the thick, salted butter tea that is as much fuel as drink at this altitude.

@@ -15,6 +15,7 @@ story: >
   death, most chose to die: they set fire to the tower and took their own lives.
   Those who surrendered were killed anyway. The wooden tower was destroyed in the
   fire; the stone shell keep visible today was built on the same mound a century later.
+score: 8.0
 ---
 
 Clifford's Tower sits on a steep artificial mound above the city centre, the most dramatic surviving element of the medieval royal castle complex. The current shell keep dates from the 13th century and was built by Henry III to replace the wooden tower lost in 1190. The name comes from Roger de Clifford, a nobleman hanged here in 1322 — his body was left on display in chains as a warning. The views from the top of the mound reach across the city to the Minster and the walls.

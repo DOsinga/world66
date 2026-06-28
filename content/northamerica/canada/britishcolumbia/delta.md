@@ -6,7 +6,9 @@ done:
 latitude: 49.084626
 loc_type: city
 longitude: -123.057938
-score: 0.35
+score: 6.17
+snippet: Fraser River delta municipality of Ladner, Tsawwassen, and North Delta, noted
+  for ferries and birdwatching.
 title: Delta
 type: location
 ---

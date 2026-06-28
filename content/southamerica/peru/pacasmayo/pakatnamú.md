@@ -10,6 +10,7 @@ latitude: -7.3984
 longitude: -79.4198
 sources:
   - https://en.wikipedia.org/wiki/Pacatnam%C3%BA
+score: 7.8
 ---
 
 Pakatnamú is a large pre-Columbian archaeological site about five kilometres north of Pacasmayo, on a bluff above the mouth of the Jequetepeque River. It was first settled by the Moche culture around 500 CE and later expanded by the Chimú, and the site contains over fifty adobe pyramids (huacas) spread across a large area of desert terrain. The scale is impressive, though the site is poorly signed and receives few visitors — you will likely have it almost to yourself.

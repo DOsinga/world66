@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sacajawea_Hotel
 story: >
   The hotel was built in 1910 to serve passengers on the Chicago, Milwaukee, St. Paul and Pacific Railroad — the Milwaukee Road — which had just completed its transcontinental line through Three Forks. The railroad's bankruptcy and eventual closure in 1980 hit the town hard, but the hotel survived several ownership changes and periods of neglect before being restored and reopened in the 2000s.
+score: 6.7
 ---
 
 The Sacagawea Hotel is a handsome three-story brick building on Main Street, built in 1910 as a railroad hotel and listed on the National Register of Historic Places. After decades of decline following the collapse of the Milwaukee Road, it was restored in the 2000s and is now the best place to stay in Three Forks — and one of the better historic hotels in rural Montana.

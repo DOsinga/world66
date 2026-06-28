@@ -10,6 +10,7 @@ tags:
 - beaches
 title: Playa Municipal
 type: poi
+score: 8.4
 ---
 
 Playa Municipal, also known as Playa Principal, stretches along the downtown waterfront of Zihuatanejo from the Municipal Pier to the canal. It's the town's working beach and its social heart.

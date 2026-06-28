@@ -2,11 +2,20 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 37.3379
+loc_type: feature
 longitude: -80.7566
+score: 8.66
+snippet: Long-distance Appalachian footpath linking Katahdin and Springer Mountain
+  across fourteen eastern states.
 title: Appalachian Trail
 type: location
-score: 0.59
-loc_type: feature
+image: apalachiantrail.jpg
+image_source: https://commons.wikimedia.org/wiki/File:AT_-_Franconia_Ridge.JPG
+image_license: CC BY-SA 3.0
+image_attribution: 'Paulba.
+
+
+  Original uploader was Paulbalegend at en.wikipedia'
 ---
 
 The Appalachian National Scenic Trail is a 2,175-mile (3,500 km) footpath threading along the ridge crests and across the major valleys of the Appalachian Mountains, from [Katahdin](/northamerica/unitedstates/maine/katahdin) in northern Maine to Springer Mountain in north Georgia. The trail passes through fourteen states — Maine, New Hampshire, Vermont, Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, Maryland, West Virginia, Virginia, Tennessee, North Carolina, and Georgia — and is one of the longest continuously marked footpaths in the world.

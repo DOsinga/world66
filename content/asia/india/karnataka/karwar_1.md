@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Karwar,_Karnataka
 latitude: 14.812093
 loc_type: city
 longitude: 74.131923
-score: 0.5
+score: 7.37
+snippet: Konkan port town where the Kali River meets the Arabian Sea, linked to Rabindranath
+  Tagore.
 title: Karwar
 type: location
 ---

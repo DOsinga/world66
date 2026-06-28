@@ -10,6 +10,7 @@ snippet: "Sandstone mesa rising 200m from the surrounding plains — white rhino
 story: "The Battle of Waterberg in August 1904 was the decisive engagement of the German-Herero War. German General von Trotha surrounded a large Herero force on the plateau and drove them into the Omaheke Desert with a deliberate policy of denying water. The resulting deaths of tens of thousands of Herero people was later recognised as genocide — the first of the 20th century."
 sources:
   - https://en.wikipedia.org/wiki/Waterberg_Plateau_Park
+score: 8.2
 ---
 
 Waterberg Plateau National Park protects a sandstone mesa rising 200 metres above the surrounding thornveld. The plateau's ecology is distinct from the plains below — denser vegetation supports populations of white rhino, sable antelope, roan antelope, and various rare bird species that don't exist on the Etosha plain. Access to the plateau top is by guided walk only.

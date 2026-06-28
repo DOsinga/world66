@@ -5,7 +5,9 @@ done:
 latitude: 41.238102
 loc_type: city
 longitude: -85.853054
-score: 0.32
+score: 5.68
+snippet: Northern Indiana lake city where summer boating meets the world's orthopaedic
+  manufacturing industry
 title: Warsaw
 type: location
 ---

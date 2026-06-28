@@ -14,6 +14,7 @@ tags:
   - sight
 title: Bicaz Gorge
 type: poi
+score: 8.6
 ---
 
 The Cheile Bicazului (Bicaz Gorge) is one of the most dramatic mountain road journeys in Romania, 35 km west of Piatra Neamț on the road to Transylvania. The gorge cuts through a massive limestone massif, and in the narrowest section — called "Gâtul Iadului" (the Neck of Hell) — the walls close to within a few metres of each other while the road squeezes through below. Rock climbers use the walls on both sides.

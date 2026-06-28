@@ -13,6 +13,7 @@ story: >
   Sassello produced them for sale. The town's several competing pastry shops
   each guard their own version of the recipe, and locals have strong opinions
   about which is best.
+score: 8.0
 ---
 
 Sassello's most famous product is its amaretti — soft macaroons made from sweet almonds, sugar, and egg whites. These are quite different from the crunchy amaretti di Saronno familiar from Italian restaurants elsewhere; the Sassello version is moist, chewy, and fragrant with almond.

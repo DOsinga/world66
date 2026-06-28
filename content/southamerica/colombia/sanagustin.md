@@ -5,7 +5,9 @@ done:
 latitude: 1.927308
 loc_type: city
 longitude: -76.449284
-score: 0.54
+score: 8.01
+snippet: Colombian highland town surrounded by pre-Columbian stone statues and tombs
+  above the Río Magdalena.
 sources:
 - https://en.wikipedia.org/wiki/San_Agust%C3%ADn,_Huila
 - https://en.wikipedia.org/wiki/San_Agust%C3%ADn_Archaeological_Park

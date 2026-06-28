@@ -2,7 +2,7 @@
 address: 82 Waterkant Street, De Waterkant
 latitude: -33.9175
 longitude: 18.4192
-neighbourhood: De Waterkant
+score: 6.9
 scores:
   activities: 0.6789
   bars_and_cafes: 0.8345

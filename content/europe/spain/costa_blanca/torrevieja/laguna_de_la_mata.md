@@ -5,6 +5,7 @@ latitude: 38.0111
 longitude: -0.7028
 tags: [things_to_do, sight]
 snippet: "The green-tinged companion lake north of town, less salty than Laguna de Torrevieja, with a longer walking circuit, flamingos, and rich birdlife through the year."
+score: 7.3
 ---
 
 The Laguna de La Mata sits at the northern edge of Torrevieja and reads as the quieter, more purely natural counterpart to the pink southern lake. Where Laguna de Torrevieja is actively harvested and vividly coloured, La Mata is greener and more conventionally lakeland in character — though still a hypersaline environment, and still home to the flamingos that are one of the twin lakes' signature attractions. The two lagoons together form the Parque Natural de las Lagunas de La Mata y Torrevieja, protected for the quality of their bird habitat and the unusual ecology of their hypersaline waters.

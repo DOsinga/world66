@@ -8,6 +8,7 @@ latitude: 18.467
 longitude: 78.883
 story: >
   The sacred tank here, called Dharma Gundam, is believed to have medicinal properties. Devotees take a ritual bath before entering the main shrine, and the water has been used in religious ceremonies since at least the 8th century, when the Vemulawada Chalukyas built the first substantial structure around the existing shrine.
+score: 8.4
 ---
 
 Vemulawada is about 38 kilometres west of Karimnagar — close enough for a half-day trip but important enough that it is a destination in its own right. The Raja Rajeshwara Temple is dedicated to Lord Shiva, known here as Rajanna, and ranks among the most visited temples in Telangana. The main deity is the Raja Rajeshwara Swamy, flanked by Goddess Raja Rajeshwari Devi and Siddi Vinayaka.

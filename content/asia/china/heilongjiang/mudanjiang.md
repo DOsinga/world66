@@ -1,15 +1,18 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: mudanjiang.jpg
+image_attribution: Bosiota BOSIOTA
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:MDI_via_principale.jpg
 latitude: 44.5833
 loc_type: city
 longitude: 129.5983
+score: 6.16
+snippet: Eastern Heilongjiang city in the Mudan River valley, used as the gateway
+  to volcanic Jingpo Lake.
 title: Mudanjiang
 type: location
-image: mudanjiang.jpg
-image_source: https://commons.wikimedia.org/wiki/File:MDI_via_principale.jpg
-image_license: Public domain
-image_attribution: Bosiota BOSIOTA
 ---
 
 Mudanjiang is the gateway to eastern Heilongjiang, a mid-sized city in the Mudan River valley that most visitors treat as a base for the surrounding landscapes rather than as a destination itself. That is fair: the city is pleasant but not remarkable. What lies around it, however, is excellent.

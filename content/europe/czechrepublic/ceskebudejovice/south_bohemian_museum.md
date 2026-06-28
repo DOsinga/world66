@@ -6,6 +6,7 @@ longitude: 14.4705
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The South Bohemian Museum (Jihočeské muzeum) occupies a substantial late 19th-century building near the main square. The permanent collections cover the natural history, prehistory and cultural history of South Bohemia, with some strong sections on the medieval history of the region including the Rosenberg family who dominated these lands before the Habsburg period.

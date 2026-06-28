@@ -13,6 +13,7 @@ story: >
   building to the public — a remarkable act of cultural preservation at a time
   when very few institutions in Bengal cared about pre-Islamic antiquities.
   When the building opened in 1916, it was the first museum in East Bengal.
+score: 9.8
 ---
 
 The Varendra Research Museum is the oldest museum in Bangladesh and one of the most important collections of early medieval South Asian art anywhere in the world. Its central strength is sculpture from the Pala and Sena dynasties — the kingdoms that dominated Bengal and Bihar between the 8th and 12th centuries, when this region was a centre of Buddhist and Hindu artistic production. The collection includes hundreds of stone and bronze images of Buddha, Vishnu, Shiva, and lesser deities, many of extraordinary quality, as well as terracotta plaques, coins, inscriptions, and manuscripts.

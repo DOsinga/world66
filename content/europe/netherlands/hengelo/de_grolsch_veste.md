@@ -8,6 +8,7 @@ latitude: 52.236667
 longitude: 6.837500
 story: >
   FC Twente won the Dutch Eredivisie title in 2010, their only championship, in a season that still resonates in the region. The stadium is named after the local Grolsch brewery — a corporate naming deal that nonetheless feels appropriate given that Grolsch has been brewed in the Twente region since 1615.
+score: 6.6
 ---
 
 De Grolsch Veste is the home of FC Twente, one of the better-supported football clubs outside the big Dutch cities. The 30,000-capacity stadium is just over the border in Enschede but easily reached from Hengelo by train or bike.

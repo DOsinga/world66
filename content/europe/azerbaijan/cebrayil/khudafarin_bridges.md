@@ -13,6 +13,7 @@ story: >
   oldest surviving bridges in the region. During the years when the surrounding
   territory was held by Armenian forces, the bridges were inaccessible to
   Azerbaijanis for nearly three decades.
+score: 8.1
 ---
 
 The two medieval bridges at Khudafarin are the most significant historical monuments in the Jabrayil district, spanning the Araz River at the point where it forms the Azerbaijan-Iran border. The fifteen-arch bridge and the smaller eleven-arch bridge stand within a few hundred metres of each other, both built in dark basalt and now weathered to a colour that blends almost entirely with the riverbank.

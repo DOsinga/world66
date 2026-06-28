@@ -12,6 +12,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Suifenhe
 title: Suifenhe
 type: location
+score: 5.85
+snippet: Heilongjiang border town and rail gateway near Russia, linked historically
+  to Vladivostok trade.
 ---
 
 Suifenhe occupies a strategic gap in the hills near Heilongjiang's southeastern corner, just a few kilometres from Russia, and it has functioned as a border crossing since the Chinese Eastern Railway pushed through here in the early 1900s. The town bills itself as China's gateway to Vladivostok, which is roughly true: trains cross into Russia twice a week, and the border is close enough that Russian is a working language in the hotels, taxi ranks, and street restaurants. Shopkeepers price things in both yuan and rubles without being asked.

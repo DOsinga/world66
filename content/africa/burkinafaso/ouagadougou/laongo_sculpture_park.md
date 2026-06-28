@@ -6,6 +6,7 @@ longitude: -1.2500
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Thirty kilometres east of Ouagadougou, on an exposed granite shelf near the village of Laongo, an open-air sculpture park has grown over thirty years of biennial sculpture symposia. International and Burkinabé artists are invited to carve into the bare rock — figures, faces, abstract forms — and the results are left in place.

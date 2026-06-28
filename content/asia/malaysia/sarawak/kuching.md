@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Unda
 latitude: 1.5598
 loc_type: city
 longitude: 110.3453
+score: 8.59
+snippet: Sarawak's riverside capital, shaped by Brooke-era history and Malay, Chinese,
+  and Dayak cultures.
 title: Kuching
 type: location
 ---

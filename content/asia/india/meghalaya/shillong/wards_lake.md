@@ -14,6 +14,7 @@ story: >
   A man named "Pohlong Pied" — Old Pohlong, in Khasi — supposedly
   designed the horseshoe shape, and the lake has carried his nickname
   ever since.
+score: 7.2
 ---
 
 A horseshoe-shaped artificial lake in the centre of Shillong, ringed by a paved walking path with footbridges and flowerbeds. It dates from 1894 and is the closest thing the city has to a central park. Locals come here for evening walks; you can hire a paddleboat for half an hour or feed the fish from the wooden bridge.

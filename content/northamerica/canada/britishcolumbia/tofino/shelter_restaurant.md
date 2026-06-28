@@ -6,6 +6,7 @@ longitude: -125.9057
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 One of Tofino's most reliable restaurants, serving Pacific Northwest coastal cuisine in a warm, wood-panelled room. The menu focuses on locally sourced seafood — Dungeness crab, wild salmon, spot prawns in season — prepared simply and well. The wine list is good, the service friendly, and the atmosphere relaxed without being casual. A better choice for a solid dinner than many of the flashier lodge restaurants.

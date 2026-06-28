@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.4075
 longitude: -1.4438
+score: 7.3
 ---
 
 The Casa de la Julianeta is the most photographed building in Albarracín — a tall, narrow medieval house with timbered upper storeys that lean improbably out over the cobbled lane, painted in the town's characteristic rose-pink stucco. It sits on a corner of the Calle de la Catedral and has appeared on more Spanish tourist posters than most national monuments.

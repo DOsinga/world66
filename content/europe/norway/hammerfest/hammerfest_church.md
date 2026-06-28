@@ -9,6 +9,7 @@ latitude: 70.6617
 longitude: 23.6752
 story: >
   The original Hammerfest church was destroyed in the German scorched-earth campaign of 1944, along with every other building in the town. The current church was completed in 1961 as part of the reconstruction, and its triangular form — deliberately abstract, with a roof line like a jagged mountain — was intended to symbolise resurrection and the act of rebuilding from ruins. The architect, Magnus Poulsson, designed the building as both a place of worship and a memorial to everything that was lost.
+score: 6.6
 ---
 
 Hammerfest Church, completed in 1961, is an arresting piece of postwar Norwegian architecture — a stark triangular structure of concrete and glass that stands in deliberate contrast to the traditional timber churches it replaced. The triangular form is the building's central statement: each face represents one point of the Holy Trinity, and the overall effect is of something sharp and new rising from the Arctic landscape.

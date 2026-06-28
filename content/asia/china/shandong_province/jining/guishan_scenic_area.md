@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5800
 longitude: 116.7200
+score: 5.5
 ---
 
 Guishan (Tortoise Mountain) National Park north of Jining offers a modest range of hills with walking paths, a reservoir, and sections of the ancient Qi State wall from the Spring and Autumn period (771–476 BCE) threading through the landscape. The park is popular with local hikers and is a reasonable escape from the flat canal plain that characterises most of the Jining area.

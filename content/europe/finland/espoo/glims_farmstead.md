@@ -10,6 +10,7 @@ tags:
 title: Glims Farmstead Museum
 type: poi
 url: espoonkaupunginmuseo.fi/glims
+score: 6.9
 ---
 
 Glims is a wooden farmstead that has stood on this site since the 1750s and was donated, as is, to the Espoo City Museum in 1958. Unlike most open-air folk museums, the buildings here were not relocated — you are walking through an actual working farm that the family handed over rather than into a curated reconstruction. The result is unusually atmospheric, with the original main house, barn, smoke sauna, granary, and several outbuildings still in place.

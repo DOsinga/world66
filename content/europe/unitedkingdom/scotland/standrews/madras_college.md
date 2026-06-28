@@ -6,6 +6,7 @@ tags: [things_to_do, sight, architecture]
 address: "South Street"
 latitude: 56.3380
 longitude: -2.7980
+score: 5.8
 ---
 
 Madras College is the senior secondary school in St Andrews, established in 1832 by Andrew Bell — the Scottish clergyman whose 'Madras system' of pupil teaching had spread across British India. The original 1834 schoolhouse, fronting South Street between two Doric columns, is one of the finer pieces of Greek Revival architecture in Scotland.

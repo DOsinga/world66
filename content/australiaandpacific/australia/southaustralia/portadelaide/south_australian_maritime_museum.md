@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: -34.8431
 longitude: 138.5063
 story: "The museum's collection includes an 1869 lighthouse keeper's cottage moved from Cape Willoughby on Kangaroo Island — its last keeper left in 1975 when the lighthouse was automated, ending 153 years of continuous human occupation. The cottage arrived in Port Adelaide as a complete structure."
+score: 8.6
 ---
 
 The South Australian Maritime Museum occupies a beautifully restored 19th-century bond store on Lipson Street, with exhibits tracing the stories of the ships, migrants, and dock workers who passed through Port Adelaide from its founding in 1836. The museum's strength is its social history — individual stories of the hundreds of thousands of immigrants who arrived at this wharf, often after a three-month voyage from Britain, many of whom went on to found South Australia's farming and pastoral industries.

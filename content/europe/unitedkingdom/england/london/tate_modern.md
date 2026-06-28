@@ -5,9 +5,11 @@ latitude: 51.508176
 longitude: -0.099134
 opening_hours: Sun-Thu 10am-6pm, Fri-Sat 10am-10pm
 phone: +44 20 7887 8888
-snippet: "Free modern art in a converted power station on the Thames"
+score: 9.3
+snippet: Free modern art in a converted power station on the Thames
 tags:
 - things_to_do
+- south_bank
 title: Tate Modern
 type: poi
 url: www.tate.org.uk/visit/tate-modern

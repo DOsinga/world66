@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - windmill
+score: 6.7
 ---
 
 Lonjé Molen, also known as Tadema's Molen, is a smock mill on the west side of Bolsward, restored to working order. It was originally built as a grain mill rather than a drainage mill, and the surviving milling machinery is intact and operated on open days.

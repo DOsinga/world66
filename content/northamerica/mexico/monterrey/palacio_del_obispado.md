@@ -12,6 +12,7 @@ story: >
   During the Mexican-American War in 1846, the Obispado served as a fortress for Mexican defenders. American troops under General William Worth stormed the hill and captured it in fierce fighting on 21 September 1846. The battle gave the Americans control of the city and marked a turning point in the war. The building still bears visible damage from the assault, and the museum inside covers this episode in detail.
 sources:
   - https://en.wikipedia.org/wiki/Obispado_Hill
+score: 7.8
 ---
 
 The Palacio del Obispado (Bishop's Palace) is one of the oldest buildings in Monterrey and one of its most dramatic, perched on a hill to the west of the city centre with sweeping views over the entire metropolitan area. Construction began in 1787 but was never fully completed; it has served variously as a bishop's residence, a military fortress, a customs house, and a hospital before its current incarnation as a regional history museum.

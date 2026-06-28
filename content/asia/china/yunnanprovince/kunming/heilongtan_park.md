@@ -9,6 +9,7 @@ tags:
   - park
   - temple
 story: "The pool is fed by two springs, one clear and one dark, that flow together without mixing — the result, locals say, of the two dragons that live in them refusing to share a bath. The phenomenon is real (a difference in temperature and dissolved minerals keeps the two streams separate for a remarkable distance) and the temple beside the pool has been a sacred site to both since the Han dynasty."
+score: 7.4
 ---
 
 Twelve kilometres north of central Kunming, at the foot of Longquan Hill, the Black Dragon Pool is a Daoist temple complex built around a deep limestone spring. The temple is one of the oldest religious sites in the province — a Han-dynasty foundation, repeatedly rebuilt — and is famous for its ancient trees: a Tang-dynasty plum, a Song cypress, and a Ming camellia, all still living and prominently labelled.

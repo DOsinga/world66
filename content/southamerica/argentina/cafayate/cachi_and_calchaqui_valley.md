@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -25.11
 longitude: -66.158
+score: 8.1
 ---
 
 The Calchaquí Valley north of Cafayate is one of the great scenic routes of northwestern Argentina. The road runs through a sequence of small towns — San Carlos, Angastaco, Molinos, Seclantás, and ultimately Cachi — each with its adobe church, whitewashed square, and deeply provincial quiet. The valley walls are covered in cacti and scrub, the light is crystalline at altitude, and the entire route feels genuinely remote despite being paved.

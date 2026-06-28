@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 50.0319
 longitude: 22.0050
+score: 5.6
 ---
 
 Olszynki Park, on the southern bank of the Wisłok river, is the central green space of Rzeszów — a long stretch of mature lime and alder trees laid out as a public park in the nineteenth century. The river frontage was redesigned in the 2010s with a wooden boardwalk, a small beach, and outdoor exercise stations.

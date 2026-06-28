@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mafraq-Umm_el_Jimal.jpg
 latitude: 32.328503
 loc_type: city
 longitude: 36.365952
-score: 0.43
+score: 6.89
+snippet: Basalt-built ruined city in northeastern Jordan, preserving Nabataean, Byzantine,
+  and early Islamic remains.
 title: Umm el Jimal
 type: location
 ---

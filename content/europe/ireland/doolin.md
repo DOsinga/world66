@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:095_Fisher_Street_in_Dooli
 latitude: 53.016329
 loc_type: city
 longitude: -9.37761
-score: 0.62
+score: 8.41
+snippet: Tiny Clare coast village where the Burren meets the Atlantic near the Cliffs
+  of Moher.
 title: Doolin
 type: location
 ---

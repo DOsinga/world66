@@ -5,6 +5,7 @@ latitude: 49.3812
 longitude: -121.4420
 snippet: "A no-nonsense diner on Hope's main street doing breakfast and lunch for locals and highway travellers since the 1970s"
 tags: [eating_out, restaurant]
+score: 4.9
 ---
 
 Home Restaurant on Wallace Street is a straightforward diner: vinyl booths, laminate tables, a counter with stools, and a menu that covers the basics without complication. Breakfast runs until early afternoon and is the main reason to go — eggs done properly, thick-cut toast, and a reasonable cup of coffee at prices that make you remember small-town BC exists. The lunch menu adds sandwiches and burgers.

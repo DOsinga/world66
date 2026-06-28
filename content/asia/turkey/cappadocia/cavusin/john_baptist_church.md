@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Church of St John the Baptist is one of the very oldest surviving churches in Cappadocia, with construction dating back to the fifth century — possibly the original cathedral of the Byzantine bishopric that once existed at Çavuşin."
+score: 8.0
 ---
 
 At the top of the abandoned village cliff sits the Church of St John the Baptist, one of the largest and earliest rock-cut churches in Cappadocia. The interior is a single high vaulted hall hewn from the tuff, with traces of red ochre paintings from successive periods of use.

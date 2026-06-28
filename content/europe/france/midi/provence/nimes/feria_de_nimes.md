@@ -9,6 +9,7 @@ longitude: 4.3593
 snippet: Major Spanish-style bullfighting festival held twice yearly, transforming the city
 sources:
   - https://en.wikipedia.org/wiki/Feria_de_N%C3%AEmes
+score: 6.7
 ---
 
 The Feria de Nîmes is one of the largest bullfighting festivals in Europe, a five-day event held twice each year: once over Pentecost (late May or early June) and once in September. During the feria, the city transforms utterly — the Arena fills for afternoon *corridas*, the streets run with wine and music until dawn, and a temporary town of *peñas* (music and drinking clubs) springs up in the open areas around the arena.

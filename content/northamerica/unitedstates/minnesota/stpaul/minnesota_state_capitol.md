@@ -11,6 +11,7 @@ longitude: -93.1022
 story: >
   When Cass Gilbert designed the Capitol in 1896, he specified a self-supported marble dome larger than any other in the United States at the time — a deliberate statement that Minnesota, the newest and largest state in the upper Midwest, intended to be taken seriously.
   The dome is clad in Georgia white marble, and the gold-leaf horses and chariot above the entrance are among the largest gilded sculptures in America.
+score: 9.1
 ---
 
 The Minnesota State Capitol is one of the finest beaux-arts public buildings in America, completed in 1905 to a design by Cass Gilbert — who later designed the US Supreme Court building and New York's Woolworth Building. The dome, larger than the US Capitol's, rises above St. Paul's skyline and is visible from miles away. Free guided tours cover the legislative chambers, the restored governor's reception room, and the extraordinary rotunda beneath the dome.

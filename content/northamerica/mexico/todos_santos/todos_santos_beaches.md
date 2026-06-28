@@ -6,6 +6,7 @@ tags:
   - sight
 title: Pacific Beaches
 type: poi
+score: 8.4
 ---
 
 The beaches outside Todos Santos are among the most unspoiled on the Baja peninsula. Unlike the sheltered Sea of Cortez beaches further north, these face the open Pacific and carry powerful swells that make them some of the best surf breaks in Mexico. La Pastora, San Pedrito, and Cerritos are the main surf spots, each with its own character and difficulty level.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - roman
+score: 7.7
 ---
 
 The so-called Temple of Diana — actually a Roman building of disputed function, possibly part of a library or imperial cult complex — stands in the lower section of the Jardins de la Fontaine, half-collapsed and roofless. The barrel-vaulted central hall survives; the rest is ruin.

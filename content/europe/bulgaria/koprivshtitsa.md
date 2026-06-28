@@ -7,7 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgaria_Koprivshtica_10.J
 latitude: 42.637532
 loc_type: city
 longitude: 24.357799
-score: 0.53
+score: 7.78
+snippet: Preserved Bulgarian National Revival town in the Sredna Gora mountains, birthplace
+  of the April Uprising.
 title: Koprivshtitsa
 type: location
 ---

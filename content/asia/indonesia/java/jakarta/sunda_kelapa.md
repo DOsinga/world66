@@ -10,6 +10,7 @@ title: Sunda Kelapa
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Sunda_Kelapa
+score: 8.8
 ---
 
 The old harbour of Jakarta, at the mouth of the Ciliwung River, has been a trading port since at least the 12th century. Today it is one of the few places in the world where you can still watch traditional Bugis pinisi schooners — hand-built wooden sailing vessels from Sulawesi — being loaded and unloaded by hand. The ships bring timber, rattan, and other goods from across the archipelago and leave with manufactured goods for the outer islands.

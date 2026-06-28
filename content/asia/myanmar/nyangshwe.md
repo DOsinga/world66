@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Inle_Lake,_Fisherman,_Myan
 latitude: 20.632
 loc_type: city
 longitude: 96.901
-score: 0.41
+score: 6.59
+snippet: Inle Lake gateway town of guesthouses and tea shops beside floating gardens
+  and Intha villages.
 title: Nyangshwe
 type: location
 ---

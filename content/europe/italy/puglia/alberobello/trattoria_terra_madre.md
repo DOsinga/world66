@@ -6,6 +6,7 @@ tags:
 - restaurant
 latitude: 40.7828
 longitude: 17.2375
+score: 6.8
 ---
 
 Terra Madre is the kind of place that takes its vegetables seriously: the menu changes with what is in season, and the kitchen does more interesting things with fave, chicory, and wild greens than most trattorias manage. Orecchiette are made by hand, and the pasta courses are reliably the best things on the table.

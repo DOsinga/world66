@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-05-25_Lake_Tsunda,_Tm
 latitude: 41.409431
 loc_type: city
 longitude: 43.329159
-score: 0.3
+score: 4.86
+snippet: Kura valley hamlet near Vardzia, known for family-run hot mineral baths below
+  the cave cliffs.
 title: Tsunda
 type: location
 ---

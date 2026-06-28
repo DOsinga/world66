@@ -1,18 +1,21 @@
 ---
 done:
   location_create: '2026-06-04'
+image: dartmouth.jpg
+image_attribution: Lewis Clarke
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dartmouth_,_Dartmouth_Harbour_-_geograph.org.uk_-_4479160.jpg
 latitude: 50.3511
 loc_type: city
 longitude: -3.5783
+score: 8.15
+snippet: Steep Devon harbour town at the mouth of the River Dart, crossed by ferry
+  rather than bridge.
 sources:
 - https://en.wikipedia.org/wiki/Dartmouth,_Devon
 - https://en.wikivoyage.org/wiki/Dartmouth_(Devon)
 title: Dartmouth
 type: location
-image: dartmouth.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Dartmouth_,_Dartmouth_Harbour_-_geograph.org.uk_-_4479160.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Lewis Clarke
 ---
 
 *Europe > United Kingdom > England > Bristol, Plymouth and the South West > Devon > Dartmouth*

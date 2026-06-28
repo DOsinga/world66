@@ -10,6 +10,7 @@ story: >
   straight up to the mouth of the cave.
 latitude: 42.8714
 longitude: 1.5706
+score: 8.0
 ---
 
 Bédeilhac is the third of the great decorated caves around Tarascon. Its enormous entrance — visible from the road — opens into a series of galleries with engravings and paintings of bison, horses, and ibex from the same Magdalenian culture that decorated Niaux. The art is harder to read than at Niaux, but the sheer scale of the cavern is unforgettable.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Castrelos Park and Quiñones de León Mansion
 type: poi
+score: 7.4
 ---
 
 Castrelos Park, set around the 17th-century Quiñones de León mansion, is the most beautiful public park in Vigo and one of the best in Galicia. The grounds include formal French gardens, a woodland area, and a small lake, all well maintained and open for free. The park has a particular lushness thanks to the Atlantic climate — hydrangeas, camellias, and rhododendrons bloom in season, and the stone walls are draped in moss.

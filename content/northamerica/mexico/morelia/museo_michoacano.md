@@ -13,6 +13,7 @@ story: >
   summed up the continuity of foreign intervention that Mexican nationalists were
   fighting against — and which was ultimately ended at Maximilian's execution
   in Queretaro in 1867.
+score: 8.0
 ---
 
 The Museo Regional Michoacano is one of Mexico's oldest regional museums, housed in an elegant colonial palace just off the Plaza de Armas. The collection spans the full arc of Michoacan history from pre-Columbian times through the colonial and independence periods. The Purepecha galleries are particularly strong — gold and copper objects, ceramics, and stone carvings from the empire that ruled this region before the Spanish arrived. The colonial period rooms cover the imposition of Spanish culture and religion with well-selected paintings, furniture, and documents.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In antiquity this was the Munychia harbour — one of the three war harbours of classical Athens, where the Athenians kept their triremes. Today the only fleet is yachts and small fishing boats, but the curve of the bay is unchanged from the time of Themistocles."
+score: 7.0
 ---
 
 A small circular yacht harbour on the eastern side of the Piraeus peninsula, Mikrolimano is the most pleasant corner of the city. The horseshoe of water is ringed with seafood restaurants whose tables spread out to the waterfront, and the fishing boats that supply them tie up alongside.

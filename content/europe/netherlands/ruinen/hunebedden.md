@@ -15,6 +15,7 @@ story: >
   moving boulders this size.
 sources:
   - https://en.wikipedia.org/wiki/Megaliths_in_the_Netherlands
+score: 8.3
 ---
 
 Drenthe contains 54 of the Netherlands' 55 surviving hunebedden — prehistoric megalithic tombs built from boulders deposited by glaciers during the last ice age, constructed around 3000 BCE. Several lie within cycling distance of Ruinen, scattered across heathland and woodland in the typically understated Drenthe way: you find them at the end of a path, often without fencing or interpretation, just enormous stones arranged with quiet purpose.

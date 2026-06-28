@@ -7,6 +7,7 @@ tags:
   - museum
 title: Inverness Museum and Art Gallery
 type: poi
+score: 6.9
 ---
 
 The museum on Castle Wynd covers the natural and human history of the Highlands with more depth than you might expect from a city this size. Exhibits range from Pictish stones and Jacobite relics to displays on Highland wildlife and the history of the Gaelic language. The art gallery upstairs shows a mix of Scottish and Highland artists, with changing exhibitions throughout the year.

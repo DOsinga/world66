@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0109
 longitude: -117.7676
+score: 7.2
 ---
 
 The 2,000-metre peak immediately north of town, easily visible from the main street as a flat-topped basalt shoulder. A graded road climbs to a former radar installation near the summit; the views across the Humboldt Valley, the Santa Rosa Range to the north, and the Sonoma Range to the south are some of the broadest in this part of Nevada.

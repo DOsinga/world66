@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 6.8
 ---
 
 Cavancha is Iquique's most popular city beach: a long curve of pale sand backed by a palm-lined promenade, with calm water and lifeguards through the busy months. It is genuinely good for swimming and bodyboarding, and the broad walkway behind the beach fills with joggers, skaters and food carts in the evenings.

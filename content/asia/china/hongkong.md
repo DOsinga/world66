@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-04'
+  major_city_neighborhoods: '2026-06-23'
   poi_cleanup: '2026-04-21'
 image: hongkong.jpg
 image_attribution: Benh LIEU SONG (Flickr)
@@ -11,7 +12,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_20
 latitude: 22.3193
 loc_type: city
 longitude: 114.1694
-score: 0.8
+score: 9.5
+snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong
+  Kong Island and Kowloon
 sources:
 - https://en.wikivoyage.org/wiki/Hong_Kong
 title: Hong Kong

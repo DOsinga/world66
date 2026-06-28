@@ -8,6 +8,7 @@ tags:
 - historic_house
 title: Lion House
 type: poi
+score: 6.1
 ---
 
 The Lion House, named for the stone lion on the front porch, was built in 1856 as part of Brigham Young's residential compound on South Temple Street. The multi-gabled building originally served as housing for several of Young's wives and their children; its long row of upstairs windows reflects the practical arrangement required by polygamous family life on the frontier.

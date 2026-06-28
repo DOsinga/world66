@@ -7,6 +7,7 @@ snippet: "Legendary Sunday morning market since 1703, dawn to 9:30am"
 tags:
 - sights
 - market
+score: 7.6
 ---
 
 Hamburg's Sunday morning institution, going since 1703. From 5am in summer (7am in winter) until 9.30am, the waterfront in Altona fills with stallholders shouting through megaphones, hawking everything from live eels to giant fruit baskets to potted palms. Inside the Fischauktionshalle a brass band plays and people who have been out all night drink beer and eat fish sandwiches alongside grandparents doing their weekly shop. Catch the S-Bahn to Reeperbahn or Königstrasse.

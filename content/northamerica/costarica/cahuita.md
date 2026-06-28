@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2006_cahuita_3.jpg
 latitude: 9.7375
 loc_type: city
 longitude: -82.8387
-score: 0.61
+score: 8.45
+snippet: Afro-Caribbean village on Costa Rica's southern coast, beside rainforest
+  trails and an offshore reef.
 title: Cahuita
 type: location
 ---

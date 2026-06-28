@@ -8,6 +8,7 @@ latitude: 52.3958
 longitude: 13.0605
 sources:
   - https://en.wikipedia.org/wiki/Filmmuseum_Potsdam
+score: 7.1
 ---
 
 The Filmmuseum Potsdam occupies the former royal stables (Marstall), an elegant Baroque building from 1685 near the old city centre. The museum documents the history of the nearby Babelsberg Film Studios — the oldest large-scale film studios in the world, founded in 1912 and still active today — and German cinema more broadly.

@@ -5,11 +5,13 @@ done:
 isbn: 0385264704
 latitude: 30.0444
 longitude: 31.2357
+score: 5.5
 snippet: Final volume of Mahfouz's Cairo Trilogy, set in the old city
 subject: Literature
 tags:
 - books
 - book
+- downtown
 title: Sugar Street
 type: poi
 ---

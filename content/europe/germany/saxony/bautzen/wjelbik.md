@@ -8,6 +8,7 @@ tags:
 title: Wjelbik
 type: poi
 snippet: Bautzen's main Sorbian restaurant, in a 17th-century house off the Hauptmarkt
+score: 6.0
 ---
 
 Wjelbik is the place to try Sorbian food in Bautzen — a small restaurant in a vaulted 17th-century cellar near the Hauptmarkt, serving the dishes that are the speciality of the region. The "Sorbian wedding feast" — hochzeitssuppe, beef with horseradish sauce, sweet poppyseed cake — is the signature menu and is unironically good.

@@ -2,10 +2,12 @@
 done:
   location_cleanup: '2026-04-05'
   location_enrich: '2026-05-29'
-lat: 43.45
+latitude: 43.45
 loc_type: city
-long: 17.5833
-score: 0.45
+longitude: 17.5833
+score: 7.25
+snippet: Upper Rakitnica Canyon village near the Neretva headwaters in the Dinaric
+  Alps.
 sources:
 - https://en.wikipedia.org/wiki/Gornji_Crna%C4%8D
 title: Neretva

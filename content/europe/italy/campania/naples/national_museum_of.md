@@ -15,6 +15,7 @@ tags:
 title: Museo Archeologico Nazionale (MANN)
 type: poi
 url: www.museoarcheologiconapoli.it
+score: 9.7
 ---
 
 One of the greatest archaeology museums in the world, holding two collections of extraordinary depth: the Farnese collection of ancient Roman sculpture (the Farnese Bull and Farnese Hercules are the set-pieces) and the Pompeii collection — the finest mosaics, bronzes, and frescoes rescued from the buried city, including the Alexander Mosaic (80 BC) and the contents of the Secret Cabinet (erotic art from Pompeii, now accessible).

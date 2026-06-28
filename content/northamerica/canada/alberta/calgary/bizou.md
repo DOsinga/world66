@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Bizou
 type: poi
+score: 6.3
 ---
 
 A French-influenced bistro on 4th Street in Calgary's Mission district. The lamb burger is a standout, and the flambée — a thin baked crust loaded with toppings, essentially a tarte flambée — is worth trying. The atmosphere leans casual, and the weekend brunch draws a steady crowd from the neighbourhood.

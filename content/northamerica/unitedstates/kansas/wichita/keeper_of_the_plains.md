@@ -8,6 +8,7 @@ latitude: 37.6913
 longitude: -97.3497
 story: >
   The sculptor Blackbear Bosin was a Kiowa-Comanche artist born in 1921 in Anadarko, Oklahoma. He designed the Keeper of the Plains in 1974 as a gift to the city of Wichita, where he had lived and worked for decades. He never saw the fire basins lit — they were added after his death — but the raised arms and the flame columns at the confluence of two rivers match the spiritual significance he intended for the figure.
+score: 8.0
 ---
 
 The Keeper of the Plains is a 44-foot Cor-Ten steel sculpture standing at the exact point where the Big Arkansas and Little Arkansas rivers meet in Wichita's riverfront park. Kiowa-Comanche artist Blackbear Bosin created the figure in 1974 as a tribute to the Native American heritage of the Great Plains, and it has become the city's most recognisable landmark by some distance.

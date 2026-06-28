@@ -7,6 +7,7 @@ tags:
   - river
 latitude: 14.0509
 longitude: 101.3717
+score: 5.8
 ---
 
 The Prachinburi River — a tributary of the Bang Pakong, itself part of the Pa Sak drainage — runs through the centre of the provincial capital, giving the town its most attractive feature. The riverside strip retains a handful of colonial-era shophouses and administrative buildings from the late 19th century, when Prachinburi was a trading post of some significance on the route east from Bangkok.

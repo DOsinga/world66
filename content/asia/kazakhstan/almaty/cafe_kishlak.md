@@ -6,6 +6,7 @@ longitude: 76.9420
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 Kishlak is a popular lunch spot in the city centre, specialising in Uzbek food — plov (the fragrant rice dish cooked in a massive kazan over open flame), non flatbread fresh from the oven, and Uzbek-style kebabs. The plov here is cooked the traditional way: rice and meat in a single pot, the fat of the lamb rendering into the rice as it cooks. It is straightforward, filling, and very good.

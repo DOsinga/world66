@@ -10,6 +10,7 @@ tags:
   - architecture
   - innere_stadt
 story: "The State Hall of the Austrian National Library — the Prunksaal — was completed in 1726 for Emperor Karl VI and is widely regarded as the most beautiful baroque library hall in the world. Its 200,000 leather-bound volumes are arranged behind walnut shelves under a 30-metre frescoed dome by Daniel Gran."
+score: 9.4
 ---
 
 The Prunksaal is the imperial state hall of the Austrian National Library, built for Emperor Karl VI by Fischer von Erlach in the 1720s. It is one of the most magnificent baroque library interiors in existence — a single barrel-vaulted hall 80 metres long, lined with walnut bookcases and ringed by an upper gallery, crowned by a frescoed cupola.

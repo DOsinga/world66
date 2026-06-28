@@ -7,6 +7,7 @@ tags:
 latitude: 37.9762
 longitude: -87.5742
 story: Haynie's Corner developed as Evansville's arts district around a cluster of Victorian commercial buildings that survived the 20th-century redevelopment of the downtown core. The neighbourhood is named for George Haynie, an early settler, but the current character is mostly a product of the last 20 years — artist studios, galleries, restaurants, and craft breweries have moved into the restored buildings since the early 2000s.
+score: 7.0
 ---
 
 Haynie's Corner is Evansville's arts and dining district, centred on a few blocks near Riverside Drive and Haynie Avenue. The area preserves a pocket of late 19th-century commercial architecture that was unfashionable enough to escape demolition during the urban renewal era, and which has since attracted independent restaurants, galleries, and small creative businesses. Bosse Field is at the edge of the district.

@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Wat Phanan Choeng
 type: poi
+score: 8.1
 ---
 
 One of the most venerated temples in the Ayutthaya area, and one of the oldest, predating the kingdom itself by 26 years. The temple sits on the Chao Phraya River just south of the island, near the point where Chinese and Japanese merchants once had their trading settlements.

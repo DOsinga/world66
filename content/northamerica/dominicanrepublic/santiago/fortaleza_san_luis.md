@@ -9,6 +9,7 @@ tags:
 title: Fortaleza San Luis
 type: poi
 snippet: 18th-century Spanish fort, now Santiago's main history museum
+score: 6.8
 ---
 
 The Fortaleza San Luis is a low stone Spanish colonial fort that overlooks the Yaque del Norte river west of the centre. Built in the 18th century to defend the city against French and English incursions, it later served as a Dominican army base and a prison. Since 2002 it has been a public history museum.

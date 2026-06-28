@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.7385
 longitude: -0.7500
+score: 7.2
 ---
 
 Casa Mazo is a preserved traditional Pyrenean farmhouse that serves as an ethnographic museum documenting the daily life of the valley's inhabitants before modern times. The rooms show the tools, textiles, and domestic arrangements of families who lived here in the eighteenth and nineteenth centuries — the kind of material that gets thrown away everywhere else but survives here because the valley remained largely cut off from the rest of Spain until well into the twentieth century.

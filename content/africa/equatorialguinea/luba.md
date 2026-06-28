@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:View_on_Luba,_Bioko,_2013.
 latitude: 3.4598
 loc_type: city
 longitude: 8.5544
-score: 0.22
+score: 4.86
+snippet: Quiet Bioko port near Malabo, with white-sand beaches and forest trails along
+  the island’s southern coast.
 title: Luba
 type: location
 ---

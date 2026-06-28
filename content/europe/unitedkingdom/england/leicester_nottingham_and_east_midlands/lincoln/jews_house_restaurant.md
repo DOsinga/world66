@@ -7,6 +7,7 @@ snippet: "Fine dining in one of the oldest domestic buildings in Britain"
 tags:
 - eating_out
 - restaurant
+score: 6.2
 ---
 
 The Jew's House Restaurant occupies the famous 12th-century Norman house halfway up Steep Hill and is one of the most distinctive dining rooms in eastern England — a small downstairs room with thick stone walls, an upstairs room with low beams, candles after dark. The kitchen runs a modern British menu drawing on Lincolnshire produce: Lincoln Red beef, locally smoked haddock, seasonal vegetables, an excellent cheeseboard.

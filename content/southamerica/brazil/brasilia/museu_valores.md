@@ -7,6 +7,7 @@ snippet: Money museum inside the Central Bank, with the largest gold nugget in B
 tags:
 - things_to_do
 - museum
+score: 6.8
 ---
 
 A modest but unexpectedly interesting numismatic museum on the ground floor of the Banco Central do Brasil. The collection covers the history of Brazilian money — colonial Portuguese coins, slave-trade tokens, Empire-era cruzeiros, the hyperinflation notes of the 1980s — alongside foreign coins and notes from around the world.

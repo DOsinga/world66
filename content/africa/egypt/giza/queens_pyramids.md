@@ -9,6 +9,7 @@ tags:
 - giza_plateau
 title: Queens' Pyramids of Khufu
 type: poi
+score: 8.1
 ---
 
 Three smaller pyramids line the east face of the Great Pyramid, built for the royal women of Khufu's court — most likely his mother Hetepheres and two of his queens. They are not small in absolute terms: the largest (G1-a) would tower over any medieval building. Compared to the 146-metre Great Pyramid behind them, they appear modest.

@@ -13,6 +13,7 @@ story: >
   B.R. Ambedkar led a satyagraha here demanding entry for Dalits, who were traditionally
   barred from the temple. The march was one of the first organised campaigns for Dalit
   rights in India and shaped Ambedkar's eventual decision to convert to Buddhism.
+score: 7.4
 ---
 
 The Kalaram Temple is the most important temple in Nashik's Panchavati quarter, dedicated to Lord Rama and believed to stand on the site where Rama, Sita, and Lakshmana lived during their forest exile. The temple is built from black basalt and is notable for its finely carved exterior and its position at the centre of the holy Panchavati area.

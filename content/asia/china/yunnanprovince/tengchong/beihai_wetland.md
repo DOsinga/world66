@@ -13,6 +13,7 @@ story: >
   called "floating islands" and is caused by centuries of plant matter accumulating over
   what was once an open lake. Poke a stick down through the mat anywhere and it goes through
   water within a few centimetres.
+score: 7.8
 ---
 
 Beihai Wetland, 12 kilometres north of Tengchong, occupies a natural depression formed by a volcanic lava dam around 600,000 years ago. The result is the only lava barrier marsh in southwest China, and it functions as an important migratory bird staging area in winter, attracting cranes, ducks, and waders in numbers that make the wetland genuinely worth visiting between November and March.

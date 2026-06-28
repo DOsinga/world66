@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -22.985613
 longitude: -43.2
+score: 4.8
 snippet: Lively craft-beer bar with house-brewed draughts in Ipanema
 tags:
 - nightlife
 - food
+- ipanema
 title: Devassa Ipanema
 type: poi
 ---

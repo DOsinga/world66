@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1909
 longitude: 91.7652
+score: 7.1
 ---
 
 The Navagraha — "nine planets" — Temple sits atop Chitrachal Hill in eastern Guwahati and is dedicated to the nine celestial bodies of Hindu astronomy: Surya (Sun), Chandra (Moon), Mangala (Mars), Budha (Mercury), Brihaspati (Jupiter), Shukra (Venus), Shani (Saturn), and the lunar nodes Rahu and Ketu. Inside the circular brick chamber, nine lingams are arranged in a ring, with Surya at the centre.

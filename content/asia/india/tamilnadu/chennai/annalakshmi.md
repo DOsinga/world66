@@ -7,6 +7,7 @@ tags:
 latitude: 13.0602
 longitude: 80.2554
 snippet: "Vegetarian restaurant where the cooks are volunteers and you pay what you wish."
+score: 7.4
 ---
 
 Annalakshmi is run on an unusual model: it's a vegetarian restaurant operated by volunteers under the philosophy that food is an expression of devotion. The cooks are unpaid members of the Temple of Fine Arts charitable trust. The prices follow a pay-what-you-can principle, though most visitors pay the suggested amount.

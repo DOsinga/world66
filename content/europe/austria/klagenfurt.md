@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_vom_ehemaligen_Aussi
 latitude: 46.623943
 loc_type: city
 longitude: 14.307598
-score: 0.59
+score: 8.0
+snippet: Carinthian capital of Renaissance courtyards, Lindwurm legend, and an old
+  town with Italian proportions
 title: Klagenfurt
 type: location
 ---

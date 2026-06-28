@@ -12,6 +12,7 @@ story: >
   Stanford was founded in 1885 by railroad baron Leland Stanford and his wife Jane in memory of their
   only child, who died of typhoid at fifteen. The endowment was the largest charitable gift in
   American history at that point; the campus opened in 1891 with David Starr Jordan as president.
+score: 9.4
 ---
 
 The Stanford campus is the most beautiful in America by some distance — a Frederick Law Olmsted plan

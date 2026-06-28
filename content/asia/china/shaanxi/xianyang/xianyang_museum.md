@@ -6,6 +6,7 @@ latitude: 34.3617
 longitude: 108.7072
 story: >
   The museum's most unusual objects are the Qin terracotta cavalry — a group of armoured horsemen and their mounts, smaller than the Xi'an Terracotta Warriors but discovered under the city of Xianyang itself, suggesting that the Qin buried military figures not only around the First Emperor's tomb but throughout the capital. The figures were found during construction work in 1965 and represent an army positioned to defend the city rather than accompany an emperor.
+score: 7.4
 ---
 
 The Xianyang Museum occupies a former Confucian temple in the old city, its courtyards and halls adapted to house the city's main archaeological collection. The core displays cover the Qin Dynasty and the Western Han, the two periods when Xianyang was either the imperial capital or closely tied to it. The Qin section includes bronze vessels, weapons, and ceramic figures recovered from Qin-period sites within the city, including a group of small terracotta cavalrymen found under the city streets.

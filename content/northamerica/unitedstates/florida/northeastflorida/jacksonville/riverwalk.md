@@ -8,6 +8,7 @@ latitude: 30.3228
 longitude: -81.6586
 story: >
   The St. Johns is one of the few rivers in North America that flows north — from its headwaters in central Florida toward its mouth at Jacksonville, where it enters the Atlantic. This northward flow made it useful for 19th-century travellers who wanted to move upstream by steamboat rather than fight the current. Mark Twain wrote about a steamboat trip up the St. Johns in his 1883 book Life on the Mississippi, calling the river the finest in the world for steamboating.
+score: 6.8
 ---
 
 The St. Johns Riverwalk runs along both banks of the river through downtown, covering about 4.5 kilometres in total. The Northbank walk (from the sports stadium to the Main Street Bridge area) and the Southbank walk (from San Marco north to the Friendship Fountain) can be connected via the water taxi that crosses the river at several points.

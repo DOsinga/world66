@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Borda_Garden
 story: >
   Emperor Maximilian I and his wife Carlota used the garden as their summer retreat during Mexico's brief imperial period from 1864 to 1867. Maximilian was said to have conducted a romance with the gardener's wife here — a liaison that inspired several Mexican novels and one operetta. After the liberal forces executed Maximilian in Querétaro, the gardens fell into neglect. The story of the garden is in some ways a capsule history of Mexico's turbulent 19th century.
+score: 7.7
 ---
 
 The Jardín Borda is one of the finest colonial-era gardens in Mexico, laid out in the 18th century for the wealthy silver magnate José de la Borda. The gardens occupy a steep hillside on Avenida Morelos, arranged in a series of terraced levels with fountains, paths, and viewing platforms. The property includes a substantial mansion that operated at different times as the residence of Borda, of Mexican bishops, and of Emperor Maximilian.

@@ -10,6 +10,7 @@ tags:
   - spa
 story: >
   The cave was found by accident in 1849 when workmen quarrying for limestone broke through into a hidden chamber full of mineral steam. The poet Giuseppe Giusti, whose family owned the land, sent word to Giuseppe Verdi, who came to bathe and pronounced the place "the eighth wonder of the world." The label has stuck on the spa's letterhead ever since.
+score: 8.5
 ---
 
 The Grotta Giusti is the reason most visitors come to Monsummano. A natural limestone cave was discovered in the nineteenth century with mineral-rich steam at 34–36°C rising through its three connected chambers — named Paradise, Purgatory and Hell, in increasing order of warmth. You wear a robe, drink water, and walk slowly through the chambers for forty-five minutes to an hour before stepping out into the outdoor thermal pool.

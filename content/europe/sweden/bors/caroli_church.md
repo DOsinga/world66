@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.7
 ---
 
 Caroli Church (Caroli kyrka) is the city's main parish church, a brick-built basilica in the central square. The current building dates from 1669 — the original wooden church was destroyed in one of the recurrent fires that swept through Borås in its early years — and the interior has been rebuilt and altered several times since. The result is a calm, well-proportioned space with a tall white-painted nave and a notable Baroque pulpit.

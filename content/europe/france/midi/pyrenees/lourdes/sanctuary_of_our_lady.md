@@ -15,6 +15,7 @@ story: >
   The interior, packed with votive offerings of crutches, plaques, and silver objects 
   left by pilgrims who believe they were cured at Lourdes, is one of the most visually 
   extraordinary spaces in France.
+score: 8.4
 ---
 
 The Sanctuary of Our Lady of Lourdes is the sprawling religious complex built around the grotto following the Church's official recognition of the apparitions in 1862. It encompasses three basilicas stacked on and around the rocky promontory: the Basilica of the Immaculate Conception at the top, the Rosary Basilica at the base with its distinctive neo-Byzantine dome and mosaics, and the underground Basilica of St. Pius X capable of holding 25,000 people — one of the largest churches ever built.

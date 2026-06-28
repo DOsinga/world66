@@ -9,6 +9,7 @@ tags:
   - historic_sight
   - architecture
 snippet: Former royal Latin school, now a handsome 19th-century landmark on the market square
+score: 5.4
 ---
 
 The Frederiksborg Latin School stands on the central market square in Hillerod, a handsome neo-Renaissance building from 1875 that until 1986 housed one of Denmark's oldest schools. The school itself goes back to 1630, founded by King Christian IV to educate boys for the royal court. Today the building serves as a community arts centre, but it remains one of the best examples of historicist architecture in north Zealand and an integral part of the old market square.

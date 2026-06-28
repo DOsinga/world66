@@ -9,6 +9,7 @@ title: Alter Friedhof
 type: poi
 story: >
   Among the famous names buried here are the mathematician and physicist Ernst Julius Clausius, the composer Robert Schumann (whose remains were later moved to the Schumann memorial in Endenich), and Ernst Moritz Arndt, the poet who became a symbol of German nationalism during the Napoleonic wars.
+score: 7.9
 ---
 
 Bonn's old cemetery, established in 1715, is one of the most beautiful in the Rhineland — a park-like expanse of ancient trees, ivy-covered chapels, and ornate 19th-century monuments. It lies just west of the city centre between the university quarter and the Altstadt.

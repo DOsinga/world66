@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Deschutes_River_at_Sunrive
 latitude: 43.884
 loc_type: city
 longitude: -121.4385
-score: 0.47
+score: 7.32
+snippet: Planned Oregon resort community on the Deschutes River, laced with car-free
+  paths below Mount Bachelor.
 title: Sunriver
 type: location
 ---

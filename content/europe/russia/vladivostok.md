@@ -5,7 +5,9 @@ done:
 latitude: 43.1151
 loc_type: city
 longitude: 131.8856
-score: 0.49
+score: 7.37
+snippet: Russian Pacific port and Trans-Siberian Railway terminus, set on steep hills
+  above Golden Horn Bay.
 title: Vladivostok
 type: location
 ---

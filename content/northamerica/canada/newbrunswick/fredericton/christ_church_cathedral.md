@@ -14,6 +14,7 @@ story: >
   a point of considerable pride in a young colonial city.
 sources:
   - https://en.wikipedia.org/wiki/Christ_Church_Cathedral_(Fredericton)
+score: 8.8
 ---
 
 Christ Church Cathedral is an Anglican cathedral built in the Gothic Revival style and widely regarded as one of the finest examples of Gothic Revival architecture in North America. The building was modelled closely on St Mary's Church in Snettisham, Norfolk, and the attention to medieval detail is striking — flying buttresses, a tall stone spire, ornate stonework, and elaborate interior woodwork all combine to create something that feels genuinely transplanted from England rather than merely inspired by it.

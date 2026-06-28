@@ -8,6 +8,7 @@ tags:
 snippet: "Victorian-era water tower built in 1889, the most recognisable historic structure in the city"
 latitude: -46.4126
 longitude: 168.3594
+score: 5.9
 ---
 
 The Invercargill Water Tower was built in 1889 to supply water pressure to the expanding city. It stands 37 metres tall in red brick with a distinctive tapered form — a piece of Victorian engineering that outlasted its function and became an accidental monument. The tower was decommissioned in the twentieth century but has been preserved as a heritage structure.

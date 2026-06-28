@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn
 story: >
   Sørvágsvatn sits at about 30 metres above sea level, but because the cliffs drop sharply between the lake and the water below, and the lake extends out over them when seen from the right angle, photographs make it look as though the lake is suspended in mid-air above the Atlantic. The effect is not a camera trick — it is a genuine quirk of the landscape, and seeing it in person is as startling as the photograph suggests.
+score: 9.2
 ---
 
 Sørvágsvatn — also called Leitisvatn — is the largest lake in the Faroe Islands, stretching about 6 km along the southern coast of Vágar. It drains over the cliff edge via the Bøsdalafossur waterfall, which plunges directly into the sea below. The combination of the lake, the cliff, and the angle of the headland creates an optical illusion: from the hiking viewpoint, the lake appears to sit well above the ocean surface, hovering over it like a raised basin.

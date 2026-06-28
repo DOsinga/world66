@@ -12,6 +12,7 @@ story: >
   power of the tidal bore that pushes freshwater far inland. In the wet season, the river floods
   vast areas of forest and rice paddies, turning the delta into a labyrinth of green channels
   that the Diola have navigated by pirogue for centuries.
+score: 8.4
 ---
 
 The port at Ziguinchor is the starting point for pirogue excursions on the Casamance River — one of the best ways to see the Casamance landscape and get beyond the town. Narrow wooden pirogues carry passengers and cargo to villages along both banks, through channels fringed with mangroves, oil palms, and bamboo. The birding is exceptional: herons, egrets, kingfishers, and waders are everywhere, and the mangrove channels south of the city are among the most important bird habitats in West Africa.

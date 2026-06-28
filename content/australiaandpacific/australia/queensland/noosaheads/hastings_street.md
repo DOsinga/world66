@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
   - sight
+score: 7.5
 ---
 
 Hastings Street is Noosa's spine — a single, short, palm-lined street that runs parallel to Main Beach and concentrates almost all of the town's restaurants, fashion boutiques, gelaterias, and high-end accommodation. The buildings are deliberately low (a long-standing local height limit caps anything above three storeys), and the planting on the central median is intentionally tropical.

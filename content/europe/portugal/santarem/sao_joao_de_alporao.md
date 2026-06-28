@@ -15,6 +15,7 @@ story: >
   His family commissioned a magnificent Gothic tomb for the church — displayed inside —
   and placed the tooth in a small golden reliquary that fits in the palm of a hand.
   The tomb is one of the finest pieces of Gothic funerary art in Portugal.
+score: 7.8
 ---
 
 The Igreja de São João de Alporão is a 12th-century Romanesque-Gothic church that now serves as Santarém's archaeology and sacred art museum. The building itself is a fine example of the transition from Romanesque to Gothic architecture, with carved capitals and pointed arches in the nave.

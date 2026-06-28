@@ -5,8 +5,14 @@ latitude: -22.164678
 loc_type: region
 longitude: 144.58449
 score: 0.57
+snippet: Tropical Australian state linking Brisbane, surf coasts, the Great Barrier
+  Reef, and Daintree rainforest.
 title: Queensland
 type: location
+image: queensland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gold_Coast_skyline.jpg
+image_license: CC BY 2.0
+image_attribution: Petra
 ---
 
 Queensland is Australia's second-largest state by area and the one most visitors picture when they think of tropical Australia. The state runs from the Gold Coast and Sunshine Coast in the southeast — relatively built-up, beach-and-surf territory — through Brisbane up to the tropics, where the Great Barrier Reef and the Daintree rainforest are the main draws.
@@ -27,6 +33,8 @@ Queensland's interior — the Channel Country, the outback — is less visited b
 
 [Brisbane](/australiaandpacific/australia/queensland/brisbane)
 [Cairns](/australiaandpacific/australia/queensland/cairns)
+[Chinchilla](/australiaandpacific/australia/queensland/chinchilla)
+[Cooktown](/australiaandpacific/australia/queensland/cooktown)
 [Gold Coast](/australiaandpacific/australia/queensland/goldcoast)
 [Great Barrier Reef](/australiaandpacific/australia/queensland/greatbarrierreef)
 [Whitsundays](/australiaandpacific/australia/queensland/whitsundays)

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.1555
 longitude: 1.1074
+score: 8.3
 ---
 
 Reus has one of the most concentrated collections of Modernista architecture outside Barcelona, a legacy of the town's commercial prosperity in the late 19th and early 20th centuries and its connections to the leading architects of the movement. The Modernista Route is a signposted walking trail through the old centre linking the main buildings.

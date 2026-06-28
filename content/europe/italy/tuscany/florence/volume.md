@@ -5,6 +5,7 @@ done:
 latitude: 43.7673
 longitude: 11.2426
 opening_hours: Daily 09:00–02:00
+score: 6.5
 snippet: Bookshop-bar with Negronis on Piazza Santo Spirito
 tags:
 - 24 Hours in Florence
@@ -12,6 +13,7 @@ tags:
 - bars_and_cafes
 - bar
 - square
+- oltrarno
 title: Volume
 type: poi
 ---

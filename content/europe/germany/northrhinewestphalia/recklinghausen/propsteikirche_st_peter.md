@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 51.6148
 longitude: 7.1960
+score: 7.1
 ---
 
 The Propsteikirche St. Peter is the main Catholic church of Recklinghausen and the oldest significant building in the city, with origins in the medieval period. It stands on Kirchplatz directly across from the Ikonen-Museum — the juxtaposition of Orthodox icons and a Gothic Catholic church is one of those happy accidents that makes visiting both feel like a meditation on Christianity's divergent paths.

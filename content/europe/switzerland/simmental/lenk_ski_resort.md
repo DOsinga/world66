@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Lenk_im_Simmental
 story: >
   Lenk and the neighbouring Adelboden ski area were connected by a cross-valley lift link in 2009, doubling the skiable terrain overnight. The two resorts had been rivals for decades; the merger was partly brokered by Swiss Tourism as a condition for regional marketing support.
+score: 7.5
 ---
 
 Lenk-Simmental is the valley's main winter resort, sitting at the head of the valley at around 1,068 metres. Connected since 2009 to Adelboden via the Hahnenmoos Pass, the combined ski area offers about 210 kilometres of marked runs. The skiing is best suited to intermediates — there are long blue and red cruisers across both sides of the pass, and the piste-grooming is reliable. Expert skiers will find less to push them than at Verbier or Saas-Fee, but at a fraction of the price.

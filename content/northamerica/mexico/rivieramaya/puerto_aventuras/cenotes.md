@@ -8,6 +8,7 @@ latitude: 20.4300
 longitude: -87.3800
 story: >
   The Yucatan Peninsula has no surface rivers. All the freshwater drains underground through sinkholes in the limestone — the cenotes — and flows in vast subterranean rivers to the sea. The Maya considered them sacred: Chichen Itza's Sacred Cenote received offerings and human sacrifices for centuries, and the practice was still ongoing when the Spanish arrived.
+score: 8.8
 ---
 
 The cenotes are the single best reason to base yourself in Puerto Aventuras. Within 30–45 minutes of the resort, a scattering of freshwater sinkholes gives access to one of the world's great cave-diving systems — clear water, cathedral-like chambers, stalactites and stalagmites formed before sea levels rose at the end of the last ice age. Gran Cenote and Cenote Azul on the road between Tulum and Cobá are the most accessible for snorkellers. Dos Ojos, further toward Tulum, is one of the premier cave-diving sites in the world.

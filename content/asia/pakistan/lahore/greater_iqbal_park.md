@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - walled_city
+score: 7.1
 ---
 
 A 125-acre public park stretching north from the Walled City around the Minar-e-Pakistan. The park was extensively redeveloped between 2014 and 2017 — fountains, an artificial lake with paddleboats, walking paths, and a large open-air amphitheatre.

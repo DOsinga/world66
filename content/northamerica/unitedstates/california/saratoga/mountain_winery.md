@@ -14,6 +14,7 @@ story: >
   Romanesque church destroyed in the 1906 San Francisco earthquake. He
   founded the property in 1852 and produced what he insisted was California's
   first true champagne, marketing it across the United States.
+score: 7.8
 ---
 
 Paul Masson's original 1905 hilltop winery, perched on Pierce Road above Saratoga, is now best known for its 2,500-seat outdoor concert amphitheatre — one of the most scenic summer venues in the Bay Area. The chateau-style stone winery building has hosted concerts since 1958, when the Paul Masson Mountain Winery Summer Series began with jazz and classical performances; today's lineup runs to mainstream pop, rock and comedy from June through October.

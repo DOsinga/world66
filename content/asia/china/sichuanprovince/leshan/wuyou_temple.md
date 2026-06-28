@@ -8,6 +8,7 @@ latitude: 29.543089
 longitude: 103.77809
 story: >
   Wuyou Temple contains a hall of 1,000 luohan — disciples of the Buddha rendered in painted clay, each with an individual face. The tradition holds that if you count the figures from the entrance and reach a figure that corresponds to your age, its expression will tell your fortune. Generations of visitors have worn smooth the fingers of whichever figures they stop beside, having found their age in the count.
+score: 8.1
 ---
 
 Wuyou Temple sits on top of Wuyou Hill, directly across the river from the Giant Buddha, connected to Lingyun Mountain by a bridge. The temple complex has been on this site since the Tang Dynasty, though the present buildings are later reconstructions. It is a working Buddhist monastery, not just a tourist attraction — monks live and practice here, and the smell of incense is constant.

@@ -8,6 +8,7 @@ latitude: 54.9940
 longitude: -7.3260
 story: >
   The original Free Derry — an area of the Bogside that police and army could not enter — was declared by residents in 1969 and lasted until 1972. The famous gable wall at Free Derry Corner, painted "YOU ARE NOW ENTERING FREE DERRY," remains standing today as the centrepiece of the neighbourhood.
+score: 8.5
 ---
 
 The Museum of Free Derry, at 55 Glenfada Park in the Bogside, documents the civil rights movement in Derry and the events of Bloody Sunday on 30 January 1972, when British paratroopers shot 26 unarmed civilians during a civil rights march. Fourteen died immediately; two more died later from their wounds.

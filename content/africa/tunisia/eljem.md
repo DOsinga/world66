@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphith%C3%A9%C3%A2tre_d%E
 latitude: 35.296644
 loc_type: city
 longitude: 10.71284
-score: 0.54
+score: 8.17
+snippet: Small Tunisian town dominated by the Amphitheatre of Thysdrus, a vast Roman
+  arena rising above modern streets
 title: El Jem
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Main central square with the Hôtel de Ville and weekly market"
+score: 5.8
 ---
 
 The Place Maréchal Foch is the principal civic square of Verdun, fronting the Hôtel de Ville (the former Abbaye Saint-Paul) at one end and looking down the Avenue de la Victoire to the Monument à la Victoire on its high step. The Saturday morning market here is one of the better produce markets in Meuse.

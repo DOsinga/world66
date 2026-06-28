@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.4408
 longitude: 24.5414
+score: 7.6
 ---
 
 A landmark wooden building above the Probiy gorge, built in 1965 in a heavily stylised Hutsul vernacular — log walls, steep shingled roof, carved gables and beams. It opened as a restaurant for high-ranking Soviet officials and tourists, with a cast-iron chandelier of forged sheep horns, ceiling beams hung with horse harness, and views from the dining room straight down the rapids of the Prut.

@@ -5,9 +5,11 @@ done:
 latitude: 18.9879
 loc_type: city
 longitude: -69.0472
-score: 0.53
+score: 7.41
 title: Miches
 type: location
+snippet: Miches is a Dominican northeast-coast fishing town near long beaches, lagoons,
+  and coconut groves.
 ---
 
 Miches is a small fishing town on the Dominican Republic's northeast coast, sitting roughly halfway between Punta Cana and Samaná. It has stayed well outside the resort circuit, which is exactly the point. The beaches here stretch for more than 50 kilometres, bordered by coconut palms, and you will rarely share them with more than a handful of people.

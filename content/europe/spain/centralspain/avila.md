@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Avila_001.jpg
 latitude: 40.6565
 loc_type: city
 longitude: -4.7002
-score: 0.66
+score: 8.57
+snippet: High Castilian city encircled by intact medieval walls with 88 towers and
+  nine gates.
 title: Ávila
 type: location
 ---

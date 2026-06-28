@@ -4,11 +4,17 @@ done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-01'
 latitude: 11.940242
+loc_type: city
 longitude: 108.437576
-score: 0.63
+score: 8.64
+snippet: Cool Central Highlands city of pine forests, flower farms, French villas,
+  and lake-centred streets.
 title: Dalat
 type: location
-loc_type: city
+image: dalat.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dalat_market,_Vietnam.jpg
+image_license: CC BY 2.0
+image_attribution: Roy Kim
 ---
 
 Dalat is Vietnam's mountain retreat — a city of pine forests, flower farms, and French colonial villas perched at 1500m in the Central Highlands of Lam Dong province. While the rest of southern Vietnam sweats, Dalat stays cool and misty, which is why the French built it as a hill station in the early 20th century and why Vietnamese couples still come here for honeymoons.

@@ -14,6 +14,7 @@ story: >
   vineyards. After decades as a private residence, it was converted into a luxury
   hotel — the first in the Mosel valley to operate at that level — and the surrounding
   park and vineyards remain intact.
+score: 7.4
 ---
 
 Schloss Lieser is the most prominent building in the village — a grand neo-Gothic wine castle sitting in a landscaped park at the edge of the Mosel, with towers and turrets visible from the river road. Built in 1884 by the Puricelli family, it has been a hotel since the 1990s and its setting, with terraced vineyards rising above and the river below, captures the quintessential character of the Mosel valley.

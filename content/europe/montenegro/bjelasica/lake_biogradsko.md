@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8979
 longitude: 19.5972
+score: 8.5
 ---
 
 The largest of Bjelasica's six glacial lakes — about a kilometre long, 200 metres wide, and never deeper than 12 metres. The lake sits at 1,094 metres, ringed by old-growth beech, fir and maple, and is the focal point of Biogradska Gora National Park. The water is bracing in summer and frozen for much of the winter; the colour shifts from deep emerald in clear weather to slate grey under cloud.

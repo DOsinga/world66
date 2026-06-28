@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: -16.4894
 longitude: -39.0682
+score: 6.8
 ---
 
 Paulinho Pescador is one of the oldest restaurants in Arraial and the place locals send you when you ask where to eat fish. The room is plain — wooden tables, a tiled floor, a small bar — and the menu is short: grilled fish of the day, *moqueca* (a Bahian fish stew with coconut milk and palm oil), prawns in garlic, and a handful of side dishes.

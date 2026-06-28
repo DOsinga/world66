@@ -5,7 +5,8 @@ done:
 latitude: 33.446675
 loc_type: city
 longitude: -94.077148
-score: 0.33
+score: 5.52
+snippet: Twin-state border city where Texas and Arkansas meet along State Line Avenue.
 title: Texarkana
 type: location
 ---

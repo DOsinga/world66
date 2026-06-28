@@ -7,6 +7,7 @@ tags:
 snippet: Military history museum with exhibits from Lithuania's wars of independence
 latitude: 54.9000
 longitude: 23.9119
+score: 7.2
 ---
 
 This military museum, named after medieval Lithuania's greatest ruler, traces the country's military history with particular emphasis on the wars of independence fought between 1918 and 1923, when Lithuania defended its newly declared sovereignty against Bolshevik, Bermondtian, and Polish forces. The collection includes weapons, uniforms, military vehicles, and archival material.

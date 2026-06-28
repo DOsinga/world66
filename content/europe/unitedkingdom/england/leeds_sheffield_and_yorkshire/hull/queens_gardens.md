@@ -8,6 +8,7 @@ tags:
 title: Queen's Gardens
 type: poi
 snippet: "Long civic park built over the filled-in Queen's Dock, between Hull College and the Maritime Museum"
+score: 6.9
 ---
 
 Queen's Dock was filled in during the 1930s and laid out as gardens, then redesigned in the 1950s as a civic square framed by the new Hull College building. The result is an unusual long, narrow park running east-west across the centre of the city, with formal beds, a few sculptures, and the Wilberforce Monument standing as a pillar at the eastern end.

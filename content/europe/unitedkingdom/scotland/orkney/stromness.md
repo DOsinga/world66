@@ -8,6 +8,7 @@ latitude: 58.9608
 longitude: -3.2986
 snippet: "Picturesque ferry port with narrow flagstone main street"
 story: "Stromness was a major staging post for Hudson's Bay Company ships from the seventeenth century — sailors collected fresh water at Login's Well before the Atlantic crossing. Many of the men who manned the early Canadian fur trade were recruited from this small Orkney town."
+score: 8.4
 ---
 
 Orkney's second town and the main ferry port from mainland Scotland, Stromness is one of the most attractive small ports in Scotland. The narrow flagstone main street (variously named Victoria Street, Graham Place, Dundas Street, and Alfred Street as it winds along the harbour) is barely wide enough for a single car, and the stone houses crowd it on both sides. Many of the houses have their own piers reaching into the harbour at the back.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.8997
 longitude: 91.9311
+score: 6.3
 ---
 
 Shah Paran was the nephew and one of the 360 disciples of Shah Jalal, and his shrine, about 7 km east of the city centre, is the second major dargah of Sylhet. The complex is smaller and quieter than the main dargah, set against a backdrop of paddy fields and palm trees, with a sense of calm largely absent from its more famous cousin.

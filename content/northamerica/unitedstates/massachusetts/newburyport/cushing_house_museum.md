@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 snippet: 1808 Federal mansion on High Street, with original interiors
+score: 7.0
 ---
 
 A four-storey brick Federal mansion built in 1808 for William Hunt and later occupied by three generations of the Cushing family, including diplomat Caleb Cushing. Home of the Historical Society of Old Newbury since 1955, and one of the few High Street houses open to the public.

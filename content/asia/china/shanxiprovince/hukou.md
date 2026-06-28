@@ -4,6 +4,9 @@ done:
 latitude: 36.1314
 loc_type: feature
 longitude: 110.4508
+score: 7.89
+snippet: Yellow River waterfall on the Shanxi-Shaanxi border, where the river narrows
+  into a loess gorge.
 sources:
 - https://en.wikivoyage.org/wiki/Hukou_Waterfall
 title: Hukou Waterfall

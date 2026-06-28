@@ -15,6 +15,7 @@ story: >
   and reportedly called it "organic" — which Mendelsohn took as the highest praise.
 sources:
   - https://en.wikipedia.org/wiki/Einstein_Tower
+score: 8.2
 ---
 
 The Einsteinturm (Einstein Tower) on the Telegrafenberg south of Potsdam city centre is one of the most important buildings of 20th-century Expressionist architecture — a solar observatory designed by Erich Mendelsohn in 1920 to test aspects of Einstein's theory of relativity. The building's curved, flowing form looks sculptural rather than functional, with organic shapes that seem to anticipate the Bauhaus and mid-century modernism simultaneously.

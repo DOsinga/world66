@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.2478
 longitude: 120.1656
+score: 8.1
 ---
 
 The Phoenix Mosque is one of the oldest mosques in China, its origins traced to the Tang dynasty when Arab merchants arrived along the maritime silk road. The current building dates largely from the 14th century and blends Chinese and Islamic architectural traditions: the roofline curves like a temple pagoda, but the interior faces Mecca and the decorative calligraphy is purely Islamic. It remains an active place of worship for Hangzhou's Muslim community.

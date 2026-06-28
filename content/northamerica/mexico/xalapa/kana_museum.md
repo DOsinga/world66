@@ -9,6 +9,7 @@ latitude: 19.518
 longitude: -96.8942
 sources:
   - https://en.wikipedia.org/wiki/Kan%C3%A1,_Museo_de_Ciencia_y_Tecnolog%C3%ADa
+score: 5.6
 ---
 
 The Kaná (formerly the Museo Interactivo de Xalapa) is Veracruz's main interactive science museum, with hands-on exhibits covering physics, biology, earth sciences, and technology. The museum is designed primarily for students and families, and the interactive exhibits — wind tunnels, electricity demonstrations, model ecosystems — are genuinely engaging rather than purely educational. It sits on the southern outskirts of the city, a taxi ride from the centre.

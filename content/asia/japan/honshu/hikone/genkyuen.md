@@ -9,6 +9,7 @@ latitude: 35.2757
 longitude: 136.2637
 story: >
   Genkyu-en was built in 1677 by the fourth lord of Hikone, Ii Naotaka, as a private garden for entertaining guests. The design deliberately echoes the Kenroku-en in Kanazawa and the famous gardens of Kyoto — a compliment to the cultural ambitions of the Ii clan, who were among the most powerful feudal lords of the Edo period.
+score: 7.6
 ---
 
 A traditional Japanese stroll garden laid out in the early Edo period on the northeastern slope of the castle grounds. The design draws on the Chinese landscape gardens of Lake Dongting — the name itself, Genkyu, is the Japanese reading of Xuanpu, a mythical garden in ancient Chinese poetry. A central pond with islands, a teahouse, stone lanterns, and carefully shaped trees create a space of controlled elegance.

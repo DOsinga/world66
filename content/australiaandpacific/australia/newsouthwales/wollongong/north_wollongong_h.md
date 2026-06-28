@@ -12,6 +12,7 @@ tags:
 - bar
 title: North Wollongong Hotel
 type: poi
+score: 5.4
 ---
 
 Known locally as "North Gong" or simply "The Gong", the North Wollongong Hotel is a pub popular with young and old. It has an expansive back patio, cheap food nights, and regular happy hours. A reliable spot to unwind after a day at the beach.

@@ -9,6 +9,7 @@ tags:
   - indian
   - suva_central
 neighbourhood: Suva Central
+score: 5.8
 ---
 
 A bright, busy Indian restaurant on Victoria Parade, popular with Suva's Indo-Fijian middle class and a steady stream of foreign workers. The menu is north and south Indian — biryanis, butter chicken, masala dosa, several thali options — and easily the best value sit-down meal in the centre.

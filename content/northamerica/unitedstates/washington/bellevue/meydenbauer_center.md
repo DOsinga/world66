@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.616
 longitude: -122.1916
+score: 6.0
 ---
 
 Bellevue's convention centre occupies a modern building in the heart of downtown and hosts events ranging from trade shows to concerts and community gatherings. For the independent visitor it is more relevant as an indicator of Bellevue's development as a self-sufficient business city — it no longer exports all its conferences to Seattle.

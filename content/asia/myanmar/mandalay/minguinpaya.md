@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Mingun Pahtodawgyi
 type: poi
+score: 8.3
 ---
 
 The Mingun Pahtodawgyi is one of Myanmar's most striking ruins — an enormous unfinished stupa that would have been the largest in the world had King Bodawpaya completed it. Construction began in 1790 but was abandoned after the king's death in 1819, leaving only the massive brick base standing about 50 metres high.

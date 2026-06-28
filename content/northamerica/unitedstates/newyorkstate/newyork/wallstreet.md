@@ -1,11 +1,13 @@
 ---
 address: Wall Street, Lower Manhattan
-latitude: 40.707493
-longitude: -74.011276
-snippet: "Canyon-like street home to the Stock Exchange and the Charging Bull"
+latitude: 40.706771
+longitude: -74.010122
+score: 7.4
+snippet: Canyon-like street home to the Stock Exchange and the Charging Bull
 tags:
 - things_to_do
 - monument
+- financial_district
 title: Wall Street
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 37.8197
 longitude: -120.6644
 story: "The current covered bridge dates from 1864, replacing an earlier crossing washed away in the great flood of 1862. At 330 feet it is the longest covered bridge west of the Mississippi, and the engineer who designed it — David Tulloch — had a half-share in the mill on the riverbank that the bridge connected to the town."
+score: 8.5
 ---
 
 About 18 km upstream from Oakdale, the historic Gold Rush settlement of Knights Ferry is the most rewarding short trip you can make from town. The covered wooden bridge over the Stanislaus River is the centrepiece — long, dark inside, with the river audible through the timbers — and the stone ruins of an old flour mill and woollen mill sit beside it.

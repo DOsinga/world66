@@ -13,6 +13,7 @@ story: "The 200-kilometre cycling route from Saint-Jérôme to Mont-Laurier foll
   through increasingly remote boreal forest."
 snippet: The northern terminus of Quebec's famous 200km converted railway trail from Saint-Jérôme
 type: poi
+score: 7.0
 ---
 
 Mont-Laurier is the northern terminus of one of Quebec's iconic cycling routes: the 200-kilometre linear park that follows the old CP railway bed from Saint-Jérôme, at the edge of the Montreal suburbs, through the Laurentian Mountains to the northern edge of the settled zone. Arriving in Mont-Laurier by bicycle after two to four days of riding gives the town a particular satisfaction for cycle tourists who have earned their way here.

@@ -15,6 +15,7 @@ story: >
   be a legend, but the ruins are undeniably real.
 sources:
   - https://en.wikipedia.org/wiki/Valle_dei_Templi
+score: 9.7
 ---
 
 The Valley of the Temples is a UNESCO World Heritage Site and one of the finest collections of ancient Greek architecture outside Greece itself. The name is slightly misleading — it is not a valley but a long ridge south of modern Agrigento, where the ancient city of Akragas spread across the limestone plateau overlooking the sea. Seven major temples survive in various states of preservation, along with an extensive network of ancient streets, sanctuaries, a necropolis, and a garden of ancient olive trees.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - chacao
   - market
+score: 7.2
 ---
 
 The municipal market of Chacao — three floors of fresh produce, fish, butcher shops, dry goods, and small cooked-food counters, on the southern edge of the Plaza Chacao. The building dates from the 1950s and the layout has not changed much since: ground floor for fish and meat, upper floors for fruit, vegetables, and prepared food. It is one of the few traditional markets still functioning properly in middle-class Caracas.

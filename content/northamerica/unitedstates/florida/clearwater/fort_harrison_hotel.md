@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Fort Harrison Hotel opened in 1926 as a luxury resort during the Florida land boom. It went through several owners before the Church of Scientology purchased it in 1975 for $2.3 million, making it the spiritual headquarters of what they call the Flag Land Base. The church's presence in Clearwater has been controversial for decades, with the organization now owning more than 100 properties in the downtown area.
+score: 5.8
 ---
 
 The Fort Harrison Hotel is a 1926 Mediterranean Revival building on Fort Harrison Avenue in downtown Clearwater. Originally built as a luxury hotel during the Florida land boom, it has served as the main building of the Church of Scientology's Flag Land Base since 1975. The church restored the exterior in 2009, and the pale yellow facade with its arched windows and clay tile roof is one of the more striking buildings in the downtown core.

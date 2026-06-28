@@ -9,6 +9,7 @@ latitude: 45.4078
 longitude: 11.8772
 story: >
   Caffè Pedrocchi was built in 1831 by Giuseppe Jappelli in an Egyptian Revival and Neoclassical style that caused a sensation when it opened. For decades it was the only café in Europe that never closed — no doors on the street entrance, open 24 hours, which earned it the nickname "the doorless coffee house." Students from the university organised a failed uprising against Austrian rule here in 1848, and the bullet holes in one of the rooms were preserved as a memorial.
+score: 7.6
 ---
 
 Caffè Pedrocchi is one of Italy's most important historic cafés — not just a place to drink coffee but an architectural monument and a piece of Padovan identity. The 19th-century building presents a neoclassical facade to the piazza with two flanking towers, while the interior is divided into rooms decorated in different historical styles: Egyptian, Roman, Greek, Renaissance.

@@ -1,6 +1,7 @@
 ---
 title: Venezuela
 type: location
+snippet: Northern South American country of Andes, Caribbean islands, Orinoco plains, tepui highlands, and Angel Falls.
 latitude: 8.001871
 longitude: -66.110932
 image: venezuela.jpg
@@ -14,7 +15,7 @@ quick_facts:
   Travel Advisory: "Most governments advise against travel"
   Angel Falls: "979 m — world's highest waterfall"
   Bird Species: "1,400+ recorded"
-score: 0.34
+score: 0.53
 loc_type: country
 ---
 

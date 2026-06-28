@@ -7,6 +7,7 @@ tags:
 - al_fahidi
 title: XVA Art Hotel and Gallery
 type: poi
+score: 7.6
 ---
 
 XVA is a small boutique hotel and contemporary art gallery occupying a restored courtyard house in the Al Fahidi neighbourhood. The gallery shows works by UAE-based and regional artists in a thoughtful programme that avoids the Gulf's tendency toward decorative ambiguity. The hotel has 13 rooms around the traditional courtyard, making it the most atmospheric place to stay in old Dubai.

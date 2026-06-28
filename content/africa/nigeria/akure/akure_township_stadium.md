@@ -9,6 +9,7 @@ latitude: 7.2586
 longitude: 5.1897
 sources:
   - https://en.wikipedia.org/wiki/Akure_Township_Stadium
+score: 5.3
 ---
 
 Akure Township Stadium is the main sports venue in Ondo State, seating around 15,000 spectators. It serves as the home ground for local football clubs and hosts state-level athletics competitions. If you happen to be in Akure during a match day, the atmosphere in and around the ground — street vendors, supporters in club colours, kerosene-scented suya smoke — is a good introduction to how Nigerians experience football at the grassroots level.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.40528
 longitude: -13.11111
+score: 7.6
 ---
 
 Azougui is the ruined site of one of the founding settlements of the Almoravid movement — the 11th-century Islamic reform movement that swept from this region north across Morocco, into Spain, and south through West Africa, reshaping the religious and political landscape of a vast territory. The Almoravids emerged here in the Adrar, among the Sanhaja Berber pastoralists of what is now Mauritania, and Azougui was among their earliest fixed settlements, a staging point as the movement gathered force in the 1040s.

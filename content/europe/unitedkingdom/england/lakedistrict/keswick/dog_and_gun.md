@@ -7,6 +7,7 @@ tags:
   - pub
 latitude: 54.6005
 longitude: -3.1369
+score: 6.5
 ---
 
 A proper old town-centre pub on Lake Road — low ceilings, flagstone floors, slate-walled snug, fire in winter. The kitchen is famous for Hungarian goulash, an unlikely Keswick specialty introduced by a former landlord that has somehow stuck for decades.

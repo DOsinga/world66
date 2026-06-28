@@ -9,6 +9,7 @@ story: >
   Harbor and the Japanese bombing of Darwin. They were intended to protect Townsville —
   then a key Allied base — from naval attack. The guns were never fired in combat. The
   Forts were decommissioned in 1945 without having engaged a single enemy vessel.
+score: 9.2
 ---
 
 The Forts Walk is the essential hike on Magnetic Island — a 4 km return trail through dense eucalyptus woodland that winds past World War II gun emplacements and observation posts to a headland with sweeping 360-degree views over the island and the Coral Sea. It is the best walk on the island and one of the better short hikes in north Queensland.

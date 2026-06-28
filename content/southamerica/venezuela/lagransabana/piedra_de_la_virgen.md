@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.9667
 longitude: -61.4500
+score: 4.8
 ---
 
 Piedra de la Virgen is a huge isolated boulder beside the Troncal 10 between Las Claritas and Luepa, with a small chapel built into a niche at its base. Drivers traditionally stop to say a prayer or leave a candle before continuing into the Gran Sabana — the road north of here climbs steeply onto the plateau through a stretch known for fog, rain, and the occasional landslide.

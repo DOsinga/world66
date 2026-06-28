@@ -7,6 +7,7 @@ tags:
 latitude: 39.3587
 longitude: -74.4198
 snippet: "The former Trump Taj Mahal, now Atlantic City's biggest entertainment complex"
+score: 5.4
 ---
 
 The building that was opened as Trump's Taj Mahal in 1990 — then the largest casino in the world — is now the Hard Rock Hotel & Casino, rebranded after Trump's successive bankruptcies and the casino's eventual closure and reopening in 2018. The exterior remains the same improbable exercise in Indo-Islamic architectural pastiche: onion domes, minarets, and coloured tile work on a boardwalk in New Jersey. Inside, the Hard Rock's decor of music memorabilia has replaced the original gold-and-crystal excess.

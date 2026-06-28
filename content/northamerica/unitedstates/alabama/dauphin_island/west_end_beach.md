@@ -8,6 +8,7 @@ latitude: 30.2470
 longitude: -88.1420
 sources:
   - https://en.wikipedia.org/wiki/Dauphin_Island,_Alabama
+score: 7.4
 ---
 
 The West End Beach park on the island's western shore offers the most developed beach experience on Dauphin Island. Two hundred palm trees line the entrance road, and a collection of Balinese-style structures houses food vendors, souvenir shops, and rental equipment for kayaks and paddleboards. Canvas shade structures with misting systems line the sand, and lifeguards are on duty during the summer season.

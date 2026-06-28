@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Utö
 type: poi
+score: 7.9
 ---
 
 A small island in the southern Stockholm archipelago, about two and a half hours from the city by a combination of commuter train and ferry. Utö has been inhabited since the Middle Ages, when iron ore was mined here — you can still explore the old mine shafts.

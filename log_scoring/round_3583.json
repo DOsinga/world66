@@ -1,0 +1,200 @@
+{
+  "round": 3583,
+  "timestamp": "2026-06-13T23:04:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 5.6571,
+      "prior_variance": 0.129116,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/lakedistrict/bowness",
+      "prior_score": 2.7573,
+      "prior_variance": 0.140991,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 2.9904,
+      "prior_variance": 0.120238,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.3417,
+      "prior_variance": 0.109509,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.4419,
+      "prior_variance": 0.103036,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 2.9746,
+      "prior_variance": 0.110754,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -0.0982,
+      "prior_variance": 0.12,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -1.031,
+      "prior_variance": 0.130727,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 1.2463,
+      "prior_variance": 0.102641,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.7978,
+      "prior_variance": 0.117793,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 1.1151,
+      "prior_variance": 0.124571,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.313,
+      "prior_variance": 0.106175,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.7944,
+      "prior_variance": 0.118183,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -1.9267,
+      "prior_variance": 0.115456,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -2.182,
+      "prior_variance": 0.102014,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.2451,
+      "prior_variance": 0.100926,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Yantai",
+      "path": "asia/china/shandong_province/yantai",
+      "prior_score": -1.7983,
+      "prior_variance": 0.125271,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -4.4166,
+      "prior_variance": 0.128422,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -6.5497,
+      "prior_variance": 0.241127,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Songyuan",
+      "path": "asia/china/jilin/songyuan",
+      "prior_score": -5.7191,
+      "prior_variance": 0.13679,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -5.5076,
+      "prior_variance": 0.149227,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -7.4931,
+      "prior_variance": 0.167977,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -6.8543,
+      "prior_variance": 0.219398,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -9.2788,
+      "prior_variance": 0.271112,
+      "prior_n": 11
+    }
+  ]
+}

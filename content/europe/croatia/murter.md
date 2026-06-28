@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Murter_city_(Croatia)-mari
 latitude: 43.799601
 loc_type: city
 longitude: 15.608578
-score: 0.61
+score: 8.29
+snippet: Dalmatian island settlement linked by bridge to the mainland, with boats
+  running toward Kornati National Park.
 title: Murter
 type: location
 ---

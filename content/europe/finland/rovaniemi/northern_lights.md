@@ -14,6 +14,7 @@ story: >
   The Sami people have many names for the aurora; in Finnish folklore the lights were called
   "fox fires," said to be a great fox running across the sky and brushing the hills with its
   tail, sending sparks flying upward.
+score: 9.3
 ---
 
 Rovaniemi lies within the auroral oval, the zone around the magnetic pole where the northern lights appear most frequently and most intensely. From late August through April, on clear nights with sufficient solar activity, the lights can appear overhead in waves of green, occasionally violet or red. The show ranges from a faint greenish smear to curtains of colour that fill the entire sky and move fast enough to track in real time.

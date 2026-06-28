@@ -9,6 +9,7 @@ tags:
   - park
   - hiking
 snippet: Coastal rainforest park behind Airlie Beach with several walking tracks
+score: 7.2
 ---
 
 Conway National Park covers the peninsula behind Airlie Beach — 23,800 hectares of coastal lowland rainforest, mangroves, and eucalypt woodland running down to the Whitsunday Passage. From town, the most accessible walks start at the **Mt Rooper trailhead** near Shute Harbour: a one-hour return climb leads to the Mt Rooper Lookout, with views across the islands.

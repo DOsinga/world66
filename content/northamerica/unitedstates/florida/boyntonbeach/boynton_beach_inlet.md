@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.5358
 longitude: -80.0474
+score: 7.4
 ---
 
 The Boynton Beach Inlet cuts through the barrier island at the northern end of town, connecting the Intracoastal Waterway to the Atlantic. The inlet jetties are among the most productive shore-fishing spots on the Palm Beach County coast — snook, tarpon, jacks, and bluefish move through the channel on tidal changes, and the north jetty has a well-worn path to the rock tips where local anglers have been fishing for decades.

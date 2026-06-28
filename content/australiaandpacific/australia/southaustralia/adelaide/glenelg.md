@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "Adelaideans' favourite seaside suburb, 11 km from the CBD by tram"
+score: 7.4
 ---
 
 Glenelg is the seaside suburb that Adelaideans have been taking the tram to since 1873. The Bay Tram departs from Victoria Square, runs 11 km through the western suburbs, and deposits you at Moseley Square, thirty metres from the beach. The beach itself is wide, sandy, and patrolled — perfectly good for swimming from October through April.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.9664
 longitude: -117.7364
+score: 6.8
 ---
 
 A striking 1921 Beaux-Arts courthouse with a tall white classical portico, two storeys of arched windows, and a small green park in front. It is the most architecturally serious building in town and is still the working county courthouse.

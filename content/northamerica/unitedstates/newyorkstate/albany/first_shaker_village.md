@@ -10,6 +10,7 @@ latitude: 42.6878
 longitude: -73.8014
 story: >
   The Shakers arrived in Albany in 1776 after being brought from England by their founder, Mother Ann Lee. This was the first community they established in America, predating all the other Shaker villages in New England and the Midwest. Lee was imprisoned for preaching on the streets of Albany before the community found its feet — her cell is now a parking garage.
+score: 7.2
 ---
 
 The Shaker Heritage Society at Watervliet occupies the site of the first Shaker settlement in America, founded in 1776 on what was then farmland northwest of Albany. The Shakers — the United Society of Believers in Christ's Second Appearing — were a communal religious sect who practised celibacy, pacifism, gender equality, and an extraordinary devotion to craftsmanship. Their furniture is still prized for its spare elegance and precision.

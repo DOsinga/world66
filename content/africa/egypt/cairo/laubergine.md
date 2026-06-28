@@ -1,10 +1,12 @@
 ---
 latitude: 30.060415
 longitude: 31.222838
-snippet: "Rare vegetarian restaurant on Zamalek island"
+score: 6.5
+snippet: Rare vegetarian restaurant on Zamalek island
 tags:
 - eating_out
 - restaurant
+- zamalek
 title: L'Aubergine
 type: poi
 ---

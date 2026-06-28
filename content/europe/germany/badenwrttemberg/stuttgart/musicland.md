@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Musicland
 type: poi
+score: 4.2
 ---
 
 An independent music shop on Reinsburgstrasse in Stuttgart's city centre. A good place to browse vinyl and CDs if you're in the neighbourhood.

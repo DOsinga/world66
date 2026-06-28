@@ -8,6 +8,7 @@ tags:
   - restaurant
   - deccan_gymkhana
 neighbourhood: Deccan Gymkhana
+score: 7.0
 ---
 
 A Pune institution on Fergusson College Road since 1950. Pure-vegetarian, South Indian and Maharashtrian, always full, and absurdly cheap for the quality. The masala dosa, idli sambar, sabudana vada, and SPDP (sev potato dahi puri) are the staples; the filter coffee is excellent.

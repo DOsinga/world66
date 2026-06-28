@@ -1,8 +1,14 @@
 ---
-snippet: Wild beaches and wildlife reserve on the Lagoa dos Patos — the best beach day from Porto Alegre
+latitude: -30.367
+longitude: -51.026
+score: 8.0
+snippet: Wild beaches and wildlife reserve on the Lagoa dos Patos — the best beach
+  day from Porto Alegre
 tags:
 - day_trips
 - park
+- nature
+- beach
 title: Parque Estadual de Itapuã
 type: poi
 ---

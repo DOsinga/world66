@@ -5,7 +5,9 @@ done:
 latitude: 0.8281
 loc_type: city
 longitude: -77.6414
-score: 0.48
+score: 7.22
+snippet: Southern Colombian border town near Ecuador, chiefly visited for the canyon-spanning
+  Las Lajas Sanctuary.
 title: Ipiales
 type: location
 ---

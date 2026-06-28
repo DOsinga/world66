@@ -5,8 +5,10 @@ done:
 latitude: 4.5845
 loc_type: city
 longitude: 114.1932
-score: 0.35
+score: 6.03
 title: Kuala Belait
+snippet: Quiet Bruneian river-mouth town near Sarawak, shaped by oil wealth and Belait
+  district life.
 type: location
 ---
 

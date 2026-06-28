@@ -8,6 +8,7 @@ tags:
 snippet: "Small private island off Coxen Hole with an animal sanctuary and snorkel beach"
 latitude: 16.3326
 longitude: -86.5429
+score: 6.4
 ---
 
 Maya Key is a small private islet a five-minute boat ride off Coxen Hole, run as a day-trip destination with an unusual selling point: a small **animal rescue sanctuary** holding monkeys, jaguars, ocelots, parrots, and other Central American wildlife confiscated from the illegal pet trade.

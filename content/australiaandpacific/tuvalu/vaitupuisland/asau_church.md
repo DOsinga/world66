@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -7.5
 longitude: 178.6667
+score: 5.9
 ---
 
 The Catholic church in Asau is a low white-walled building near the centre of the village, modest in scale but well kept and one of the more prominent structures on the island. Catholics are a minority on Vaitupu as in the rest of Tuvalu — most of the population belongs to the Protestant Ekalesia Kelisiano Tuvalu — but the Catholic community here has been stable for generations.

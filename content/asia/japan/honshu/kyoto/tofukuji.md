@@ -1,11 +1,14 @@
 ---
 latitude: 34.9764
 longitude: 135.7741
-snippet: Major Zen temple in south-east Kyoto, famous for its autumn-leaf views from a covered bridge
+score: 8.6
+snippet: Major Zen temple in south-east Kyoto, famous for its autumn-leaf views from
+  a covered bridge
 tags:
 - things_to_do
 - temple
 - sight
+- higashiyama
 title: Tōfuku-ji
 type: poi
 ---

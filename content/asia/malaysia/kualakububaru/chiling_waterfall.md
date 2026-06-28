@@ -14,6 +14,7 @@ story: >
   cool pool fed by the Titiwangsa highlands above.
 sources:
   - https://en.wikipedia.org/wiki/Kuala_Kubu_Bharu
+score: 7.9
 ---
 
 The Chiling Waterfall is the most popular day trip from Kuala Kubu Baru, a roughly two-kilometre jungle trek that crosses and recrosses the Sungai Chiling river. The walk is through primary lowland rainforest — tall canopy, dense understorey, and plenty of birdsong if you set out early. The five river crossings keep things interesting; wear shoes you don't mind soaking. The final payoff is a wide, shallow pool beneath a tall cascade, cold enough to take your breath away after the humidity of the walk.

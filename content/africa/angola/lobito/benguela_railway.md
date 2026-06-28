@@ -17,6 +17,7 @@ story: >
   into operation, and the dream of a trans-African corridor lives on.
 sources:
   - https://en.wikipedia.org/wiki/Benguela_railway
+score: 7.9
 ---
 
 The Benguela Railway is one of Africa's great engineering stories, and Lobito's station — the western terminus — is where it begins. The line was conceived by Scottish financier Sir Robert Williams in the 1890s as a way to bring the copper of the Katanga (now in the DRC) to the Atlantic. Construction started in 1903 from Lobito and proceeded eastward through some extremely difficult terrain, reaching the Congo border by 1929.

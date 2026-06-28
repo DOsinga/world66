@@ -6,6 +6,7 @@ latitude: -35.6528
 longitude: 174.5445
 story: >
   The Waikato was a Leander-class frigate that served the Royal New Zealand Navy from 1966 to 1998. Two years after decommissioning she was scuttled here as an artificial reef, with hatches and bulkheads cut open for safer diving, and she now sits upright on the seabed about 30 metres down.
+score: 7.5
 ---
 
 The wreck of HMNZS Waikato lies just south of Tutukaka harbour and has become a major dive site in its own right, often combined with a Poor Knights trip when the offshore conditions are too rough. The hull is mostly intact, draped in soft corals and sponges, with kingfish and large schools of trevally circling the superstructure.

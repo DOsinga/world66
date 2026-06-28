@@ -1,12 +1,14 @@
 ---
-title: "Limmatquai"
-type: poi
 latitude: 47.3718
-longitude: 8.5430
+longitude: 8.543
+score: 8.1
+snippet: Riverside promenade of medieval guild houses on the right bank of the Limmat
 tags:
-  - things_to_do
-  - sight
-snippet: "Riverside promenade of medieval guild houses on the right bank of the Limmat"
+- things_to_do
+- niederdorf
+- sight
+title: Limmatquai
+type: poi
 ---
 
 The Limmatquai is the broad promenade that runs along the right bank of the Limmat between the Grossmünster and the railway station bridge — about 700 metres of medieval and early-modern facades looking across the water to the old town. The lower stretch holds Zurich's grandest **Zunfthäuser** (guild houses) — the Saffran, Zimmerleuten, Rüden, Haue — built and rebuilt in the 13th–17th centuries by the merchant and craft guilds that ran the city. Several still operate restaurants you can eat in.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 55.4650
 longitude: 8.4558
+score: 7.8
 ---
 
 A small but absorbing volunteer-run museum a few minutes east of the central square, the Bogtrykmuseet preserves a complete provincial printing works from the early twentieth century. Linotype machines, cast-iron flatbed presses, drawer after drawer of metal type — much of it still in working order, and the volunteers who staff the museum demonstrate the larger pieces on request.

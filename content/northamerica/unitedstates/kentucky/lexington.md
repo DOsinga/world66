@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Horses_with_tall_building_
 latitude: 38.046407
 loc_type: city
 longitude: -84.497039
-score: 0.46
+score: 7.15
 title: Lexington
+snippet: Bluegrass university city surrounded by white-fenced horse farms and Kentucky
+  thoroughbred country.
 type: location
 ---
 

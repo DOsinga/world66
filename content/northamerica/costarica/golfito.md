@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:DirkvdM_sunset_golfito.jpg
 latitude: 8.6033
 loc_type: city
 longitude: -83.1134
-score: 0.53
+score: 7.54
+snippet: Rough-edged Pacific port town squeezed between Golfo Dulce and a steep jungle
+  ridge.
 title: Golfito
 type: location
 ---

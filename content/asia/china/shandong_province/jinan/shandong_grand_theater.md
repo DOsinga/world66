@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6800
 longitude: 117.1200
+score: 6.4
 ---
 
 The Shandong Grand Theatre is Jinan's main concert hall and performing arts center, a striking piece of contemporary architecture in the eastern New City district. The building was designed by Arata Isozaki and opens in a form inspired by musical notation — a smooth curved exterior of aluminum and glass that reads as a continuous surface from any angle. It is one of the more interesting contemporary buildings in the city.

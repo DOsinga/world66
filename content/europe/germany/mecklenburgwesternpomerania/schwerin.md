@@ -10,11 +10,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Schwerin_Schloss3.JPG
 latitude: 53.6288
 loc_type: city
 longitude: 11.4148
-score: 0.52
+score: 7.76
+snippet: Lake-ringed Mecklenburg capital centred on Schweriner Schloss, a castle island
+  in the Schweriner See.
+sources:
+- https://en.wikipedia.org/wiki/Schwerin
 title: Schwerin
 type: location
-sources:
-  - https://en.wikipedia.org/wiki/Schwerin
 ---
 
 Schwerin is the smallest state capital in Germany and one of the most beautiful. The city spreads across a landscape of seven lakes and dense forests in the heart of Mecklenburg-Vorpommern, and its centrepiece is the [Schweriner Schloss](/europe/germany/mecklenburgwesternpomerania/schwerin/schweriner_schloss) — a fairy-tale castle on its own island in the [Schweriner See](/europe/germany/mecklenburgwesternpomerania/schwerin/schweriner_see) that is one of the most photographed buildings in Germany. Despite this, the city is barely known outside Germany, which means you can visit one of the country's great monuments without the crowds.

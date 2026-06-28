@@ -10,6 +10,7 @@ story: >
   In 2017, a father, mother and their young son fell into a fumarole vent at Solfatara and died. The crater has been closed to the public since then while safety measures are redesigned. Check current status before visiting — the site is likely to reopen in revised form, but some areas of the crater remain permanently off-limits.
 sources:
   - https://en.wikipedia.org/wiki/Solfatara_(volcano)
+score: 5.8
 ---
 
 The Solfatara is a shallow volcanic crater about 2 kilometres from central Pozzuoli, part of the Campi Flegrei volcanic system. It has been continuously active for at least 2,000 years: sulphurous gases vent from dozens of fumaroles in the crater floor, the ground is unnervingly warm underfoot, and the air smells of rotten eggs. The Romans knew it as the entrance to Vulcan's forge and built temples nearby; the name "Solfatara" comes from the Latin for sulphur land.

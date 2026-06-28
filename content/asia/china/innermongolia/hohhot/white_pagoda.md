@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.8070
 longitude: 111.8330
+score: 8.3
 ---
 
 The White Pagoda (白塔), officially called the Wanbu Huayan Sutra Pagoda, is a seven-storey octagonal brick tower built during the Liao dynasty (907–1125 CE), making it one of the oldest surviving structures in Inner Mongolia. It stands about 13 kilometres east of central Hohhot and is visible from a considerable distance across the flat farmland — a lone brick column on the open plain, which is where the Liao-period monastery it originally served used to stand before it disappeared. Only the pagoda survives, which gives it an isolated, atmospheric quality.

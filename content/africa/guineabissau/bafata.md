@@ -9,11 +9,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Bafat%C3%A1_cathedral,_Baf
 latitude: 12.17234
 loc_type: city
 longitude: -14.655503
-score: 0.26
+score: 4.84
+snippet: Geba River town remembered as Amílcar Cabral's birthplace and a faded Portuguese
+  colonial centre.
 sources:
-  - https://en.wikipedia.org/wiki/Bafat%C3%A1
-  - https://en.wikipedia.org/wiki/Our_Lady_of_Grace_Cathedral,_Bafat%C3%A1
-  - https://en.wikipedia.org/wiki/Bafat%C3%A1_Airport
+- https://en.wikipedia.org/wiki/Bafat%C3%A1
+- https://en.wikipedia.org/wiki/Our_Lady_of_Grace_Cathedral,_Bafat%C3%A1
+- https://en.wikipedia.org/wiki/Bafat%C3%A1_Airport
 title: Bafata
 type: location
 ---

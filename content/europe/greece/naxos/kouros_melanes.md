@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.0833
 longitude: 25.4322
+score: 7.9
 ---
 
 The Melanes kouros — or more precisely the two related kouros statues in the Flerio area near Melanes village — are the most accessible of Naxos's abandoned ancient sculptures and, in some ways, the most evocative. Where the Apollonas kouros lies in an obvious quarry setting, the Melanes figures rest in a small garden of olive trees and ferns, tended by a local family, with water running nearby from an ancient spring. The setting is deeply peaceful and slightly unreal: enormous ancient marble men lying under gnarled olive trees, birds singing, a stream threading past.

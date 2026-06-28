@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: "Unusual 19th-century Shiva temple in Madikeri with Islamic-influenced architecture."
+score: 6.8
 ---
 
 Built by Lingarajendra II in 1820 to atone for a political assassination, the Omkareshwara Temple is striking for its hybrid look: a Hindu shrine to Shiva housed in a building that owes as much to Indo-Islamic architecture as it does to South Indian temple tradition. There is a central dome flanked by four corner minarets and a small tank with fish in the courtyard.

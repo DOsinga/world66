@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.9833
 longitude: -114.4500
+score: 6.6
 ---
 
 Martinez Lake sits in the Colorado River floodplain northeast of Yuma, part of a network of backwater lakes and channels that survived the damming of the river. It is a significant birding site — great blue herons, egrets, cormorants, and various duck species winter here in numbers, and the endangered Yuma clapper rail breeds in the surrounding marsh. The lake is also popular for fishing (largemouth bass, channel catfish) and small-boat exploration of the channels.

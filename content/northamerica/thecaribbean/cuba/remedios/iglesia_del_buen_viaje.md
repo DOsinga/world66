@@ -6,6 +6,7 @@ longitude: -79.5462
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Iglesia del Buen Viaje is the smaller of Remedios's two Plaza Mayor churches, facing the Iglesia de San Juan Bautista across the square. While the San Juan church gets the attention for its gilded altar, the Buen Viaje church has its own quiet dignity — a simpler interior, a bell tower that's good for orientation, and a distinctly less-visited atmosphere even by Remedios's already uncrowded standards.

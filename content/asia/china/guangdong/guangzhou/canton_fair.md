@@ -9,6 +9,7 @@ type: poi
 snippet: "World's largest trade fair, held twice yearly at the Pazhou Exhibition Centre"
 story: >
   The Canton Fair has been running since 1957, surviving the Cultural Revolution and all subsequent upheavals. At its peak it accounted for nearly half of China's total export earnings — every major Chinese manufacturer eventually passed through Guangzhou in April or October to meet international buyers. Even in the age of Alibaba, the fair remains the world's largest, with over 25,000 exhibitors and 180,000 international buyers attending each session.
+score: 6.5
 ---
 
 The China Import and Export Fair — universally known as the Canton Fair — has been held in Guangzhou twice a year since 1957. It takes place across three consecutive phases in April and October, each lasting five days, at the enormous Pazhou Exhibition Complex on Pazhou Island in the southeast of the city.

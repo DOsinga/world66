@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
+image: viipuri.jpg
+image_attribution: Ninaras
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:New_Espil%C3%A4_restaurant_in_Viipuri_-_Vyborg.jpg
 latitude: 60.71
 loc_type: city
 longitude: 28.75
-score: 0.45
+score: 7.37
+snippet: Historically Finnish Baltic city around Vyborg Castle, Alvar Aalto's library,
+  and Monrepos Park.
 title: Viipuri (Vyborg)
 type: location
-image: viipuri.jpg
-image_source: https://commons.wikimedia.org/wiki/File:New_Espil%C3%A4_restaurant_in_Viipuri_-_Vyborg.jpg
-image_license: CC BY 4.0
-image_attribution: Ninaras
 ---
 
 Vyborg — *Viipuri* in Finnish — was Finland's second-largest city until it was ceded to the Soviet Union in 1944 at the end of the Continuation War. Today it is part of Russia's Leningrad Oblast, about 70 km west of St Petersburg. For Finns it remains a city of profound loss and memory; for travellers arriving from Russia, it is one of the most historically layered small towns in northern Europe.

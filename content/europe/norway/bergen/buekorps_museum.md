@@ -6,6 +6,7 @@ latitude: 60.3948
 longitude: 5.3199
 sources:
   - https://en.wikipedia.org/wiki/Buekorps_Museum
+score: 6.5
 ---
 
 The Buekorps (archery corps) are one of Bergen's most idiosyncratic traditions: companies of boys, organised by neighbourhood, who march with drums and bugles in military formation through the city streets every spring. The custom dates to the 1850s and has no real parallel anywhere else in Norway. This small museum tells their story with photographs, uniforms, and instruments.

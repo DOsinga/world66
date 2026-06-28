@@ -8,6 +8,7 @@ tags:
   - sight
   - cycling
 snippet: "Long-distance riverside cycling route along the Elbe through Pirna, Dresden, and Saxon Switzerland"
+score: 6.9
 ---
 
 The Elberadweg — the Elbe Cycle Path — is one of Germany's most popular long-distance cycling routes, running 1260km from the river's source in the Czech Giant Mountains to its mouth in Hamburg. The stretch that passes through Pirna is among the best of it: flat, well-surfaced, and running directly beside the river with views of the sandstone hills rising on both banks.

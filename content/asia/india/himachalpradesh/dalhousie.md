@@ -1,9 +1,12 @@
 ---
+latitude: 32.535
+loc_type: city
+longitude: 75.9697
+score: 7.85
+snippet: Himachal hill station spread across forested ridges, founded as a British
+  summer retreat.
 title: Dalhousie
 type: location
-loc_type: city
-latitude: 32.535
-longitude: 75.9697
 ---
 
 Dalhousie is a small hill station in the Chamba district of Himachal Pradesh, set on five hills at elevations between 1,525 and 2,036 metres. The British established it in the 1850s as a summer retreat, and the name commemorates Lord Dalhousie, the Governor-General of India. It still has the feel of a colonial hill station: old churches, steep lanes, and views across the Ravi River valley to the snow-covered Dhauladhar range.

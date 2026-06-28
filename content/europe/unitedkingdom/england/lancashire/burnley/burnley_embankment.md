@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Burnley Embankment
 type: poi
+score: 7.8
 ---
 
 The Burnley Embankment carries the Leeds and Liverpool Canal through the heart of Burnley on a dramatic Victorian causeway, rising up to 18 metres above street level. Walking the towpath gives you an unusual elevated perspective over the town's rooftops and the surrounding hills.

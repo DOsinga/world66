@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Tai Lee
 type: poi
+score: 3.9
 ---
 
 A reliable spot for Chinese and some Indonesian dishes in central Kungälv. Nothing flashy, but the food is dependable and the prices are low. There's a pleasant outdoor veranda for summer dining.

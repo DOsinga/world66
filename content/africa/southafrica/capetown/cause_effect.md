@@ -2,7 +2,7 @@
 address: 70 Loop Street, City Bowl
 latitude: -33.9252
 longitude: 18.4187
-neighbourhood: City Bowl
+score: 6.9
 scores:
   activities: 0.6534
   bars_and_cafes: 0.8012

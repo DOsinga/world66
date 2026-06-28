@@ -7,6 +7,7 @@ tags:
 latitude: 18.4967
 longitude: -67.1286
 story: "Ramey was a Strategic Air Command base during the Cold War, home to B-52 bombers on nuclear alert rotation. At its peak in the 1960s it housed thousands of US military personnel and their families, making it effectively a small American city grafted onto Puerto Rico's northwest tip. The base closed in 1973 and was handed over to the Puerto Rican government."
+score: 7.5
 ---
 
 The former Ramey Air Force Base occupies a substantial headland north of Aguadilla and has had an interesting second life since closing in 1973. The infrastructure the US military built — streets, housing, hangars, an 11,000-foot runway — was simply too large to demolish or ignore, so the site evolved into a mixed-use community. Today it contains residential neighbourhoods, a golf course, a university campus, commercial areas, and Rafael Hernández Airport, which uses the original military runway.

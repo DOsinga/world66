@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The Cathedral of the Divine Saviour is the second-largest Catholic cathedral in Moravia and Silesia, after the basilica at Velehrad. Completed in 1889, it is a neo-Renaissance pile in red brick and sandstone, with two towers and a long arched nave that fits 4,000 people. The cathedral sits behind Masaryk Square in the city centre and forms the main vertical accent of the old town.

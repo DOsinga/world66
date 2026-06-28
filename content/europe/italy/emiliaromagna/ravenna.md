@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ravenna_Cattedrale_Metropo
 latitude: 44.364061
 loc_type: city
 longitude: 12.05901
-score: 0.68
+score: 8.79
+snippet: Adriatic city of Byzantine churches and vivid early Christian mosaics unmatched
+  in Western Europe
 title: Ravenna
 type: location
 ---

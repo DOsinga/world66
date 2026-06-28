@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 33.8748
 longitude: 35.5083
+score: 7.0
 ---
 
 The Hippodrome of Beirut has been hosting horse racing since 1885 and is one of the oldest active racetracks in the Middle East. Sunday afternoon meetings draw a small, dedicated crowd of bettors, owners, and the curious.

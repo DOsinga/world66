@@ -7,6 +7,7 @@ tags:
 - shopping
 - market
 snippet: "Year-round indoor market trading since 1837"
+score: 7.4
 ---
 
 Hamilton's Farmers' Market has operated continuously since 1837, making it one of the oldest in Canada. The current home — a covered indoor space at York Boulevard and James Street North, next to the Hamilton Public Library — hosts about 65 vendors selling fresh produce, meat, cheese, baked goods, flowers, and a strong international mix that reflects the city's Portuguese, Italian, and Vietnamese communities.

@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Altes Rathaus
 type: poi
+score: 6.2
 ---
 
 The baroque Old Town Hall anchors the southeastern corner of the Marktplatz. Built in 1737-38, its pastel-pink facade and grand exterior staircase have served as a backdrop for visiting heads of state, including Charles de Gaulle and John F. Kennedy. The building is still in use by the city administration.

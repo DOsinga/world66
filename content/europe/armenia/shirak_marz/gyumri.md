@@ -7,7 +7,9 @@ done:
 latitude: 40.7852
 loc_type: city
 longitude: 43.8416
-score: 0.49
+score: 7.23
+snippet: Armenia's second city, a proud high-plateau cultural centre rebuilt around
+  black and orange tufa streets
 title: Gyumri
 type: location
 ---

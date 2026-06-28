@@ -12,6 +12,7 @@ story: >
   who arrived from Bihar as part of the first wave of Indian migration to
   Mauritius. It predates the abolition of slavery on the island by sixteen
   years and was for decades the only stone Hindu temple south of the equator.
+score: 7.6
 ---
 
 About 5 km south of Grand Baie in the village of Triolet, this is the oldest and largest Hindu temple in Mauritius. The compound holds five separate shrines around a central tank, dedicated to Shiva, Krishna, Hanuman, Ganesh, and Surya. The colour scheme — sky blue and white, then jolted by gold and saffron statuary — is unmistakable.

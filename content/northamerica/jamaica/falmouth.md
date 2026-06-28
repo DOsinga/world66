@@ -5,7 +5,9 @@ done:
 latitude: 18.4974
 loc_type: city
 longitude: -77.6558
-score: 0.54
+score: 7.89
+snippet: Jamaican north-coast port town with unusually intact Georgian streets from
+  the sugar-boom era
 title: Falmouth
 type: location
 ---

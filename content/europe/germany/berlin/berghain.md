@@ -10,6 +10,7 @@ title: Berghain
 type: poi
 story: >
   The club occupies a former GDR heating plant operated by the Berliner Kraftwerk — the industrial turbine hall that became the main floor still has the steel rigging overhead used to lower heavy machinery. The founders, Michael Teufele and Markus Haw, chose the building partly because its thick concrete walls meant neighbours would never complain about the noise. When the club opened in 2004, Teufele handled the door himself; Sven Marquardt, the tattooed face of the current door policy, only started working the queue years later.
+score: 9.2
 ---
 
 Berghain is housed in a former East German power plant on the border between Friedrichshain and Kreuzberg — a massive brutalist block of poured concrete and industrial steel on a desolate stretch near the Ostbahnhof. The main floor, the Berghain proper, is a vast turbine hall with ceilings high enough to lose the sound in, where the music runs from Friday midnight through Sunday evening without interruption. Panorama Bar, on the floor above, is airier and lighter, with huge windows overlooking the industrial yard and a slightly less punishing playlist. The sound system is the obsession of the management and it shows: bass frequencies you feel in your chest, a clarity at high volume that most clubs never achieve.

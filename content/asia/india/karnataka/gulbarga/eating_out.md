@@ -1,6 +1,6 @@
 ---
 title: Eating Out
-type: poi
+type: section
 ---
 
 **saradagi**

@@ -4,6 +4,9 @@ done:
 latitude: 43.6482
 loc_type: city
 longitude: 111.9729
+score: 5.74
+snippet: Inner Mongolian rail border town, known for Cretaceous fossils and the Trans-Mongolian
+  bogie change
 sources:
 - https://en.wikivoyage.org/wiki/Erlian
 title: Erlian

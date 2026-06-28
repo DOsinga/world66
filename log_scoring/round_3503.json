@@ -1,0 +1,200 @@
+{
+  "round": 3503,
+  "timestamp": "2026-06-13T22:58:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 7.863,
+      "prior_variance": 0.16112,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 7.7283,
+      "prior_variance": 0.218481,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.6963,
+      "prior_variance": 0.164536,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.3184,
+      "prior_variance": 0.159436,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 4.8076,
+      "prior_variance": 0.124084,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 3.6028,
+      "prior_variance": 0.140687,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 3.86,
+      "prior_variance": 0.132919,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.3923,
+      "prior_variance": 0.119587,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Vieques",
+      "path": "northamerica/thecaribbean/puertorico/vieques",
+      "prior_score": 4.1982,
+      "prior_variance": 0.157259,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 4.1365,
+      "prior_variance": 0.12707,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 3.6767,
+      "prior_variance": 0.125697,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 2.9051,
+      "prior_variance": 0.122555,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 3.8726,
+      "prior_variance": 0.135294,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 4.0071,
+      "prior_variance": 0.126665,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 1.5047,
+      "prior_variance": 0.137756,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 2.7891,
+      "prior_variance": 0.127475,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 2.8756,
+      "prior_variance": 0.116064,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_score": 2.0563,
+      "prior_variance": 0.125411,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 3.549,
+      "prior_variance": 0.130262,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.1214,
+      "prior_variance": 0.141673,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.2097,
+      "prior_variance": 0.117579,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 1.4482,
+      "prior_variance": 0.11221,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.7823,
+      "prior_variance": 0.127315,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Taranto",
+      "path": "europe/italy/puglia/taranto",
+      "prior_score": 0.4693,
+      "prior_variance": 0.113019,
+      "prior_n": 12
+    }
+  ]
+}

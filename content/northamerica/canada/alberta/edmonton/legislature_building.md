@@ -16,6 +16,7 @@ story: >
   province in 1905.
 sources:
   - https://en.wikipedia.org/wiki/Alberta_Legislature_Building
+score: 7.8
 ---
 
 The Alberta Legislature Building is one of Edmonton's finest pieces of Beaux-Arts architecture — a domed sandstone structure completed in 1913 and set in ornamental grounds above the north bank of the North Saskatchewan River. The building houses the Legislative Assembly of Alberta and is open to the public for free guided tours year-round.

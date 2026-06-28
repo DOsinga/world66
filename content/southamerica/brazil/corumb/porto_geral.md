@@ -12,6 +12,7 @@ story: >
   inland. Steamers from Europe and Argentina unloaded goods here before the
   railroad made overland routes viable. The waterfront buildings are a direct
   legacy of that improbable prosperity.
+score: 7.6
 ---
 
 The Porto Geral waterfront is the social heart of Corumbá and the most atmospheric part of the city. A row of 19th-century buildings — warehouses, trading houses, and river port offices — lines the bluff above the Paraguay River, their faded facades looking out over the wide brown water and the flat Pantanal stretching into Bolivia. At sunset, half the city seems to gather here.

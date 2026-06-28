@@ -1,0 +1,200 @@
+{
+  "round": 2953,
+  "timestamp": "2026-06-13T22:18:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 6.4258,
+      "prior_variance": 0.178477,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_score": 2.7429,
+      "prior_variance": 0.143165,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 1.9427,
+      "prior_variance": 0.146428,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 1.5898,
+      "prior_variance": 0.150862,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.6778,
+      "prior_variance": 0.138312,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 3.9703,
+      "prior_variance": 0.194397,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 2.5958,
+      "prior_variance": 0.180295,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 2.9469,
+      "prior_variance": 0.154155,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 2.8949,
+      "prior_variance": 0.14065,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 1.0544,
+      "prior_variance": 0.173364,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 2.8246,
+      "prior_variance": 0.136806,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.3797,
+      "prior_variance": 0.200526,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 2.0901,
+      "prior_variance": 0.151986,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 1.1567,
+      "prior_variance": 0.133037,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.2694,
+      "prior_variance": 0.146401,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.3354,
+      "prior_variance": 0.137069,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.8501,
+      "prior_variance": 0.130471,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": 0.0737,
+      "prior_variance": 0.159103,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Nyika National Park",
+      "path": "africa/malawi/nyika",
+      "prior_score": 0.6281,
+      "prior_variance": 0.146868,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 1.0833,
+      "prior_variance": 0.139628,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -1.627,
+      "prior_variance": 0.141772,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_score": -3.5412,
+      "prior_variance": 0.18703,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -5.552,
+      "prior_variance": 0.163037,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -4.4712,
+      "prior_variance": 0.154102,
+      "prior_n": 9
+    }
+  ]
+}

@@ -6,6 +6,7 @@ longitude: -1.5290
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 A long-running open-air bar in a leafy garden near the central district, with cold beer (try the local Brakina lager), grilled chicken and brochettes from a charcoal grill at the back. It is popular with NGO workers and middle-class Burkinabés, and the music is loud enough to discourage serious conversation but not so loud that you have to shout.

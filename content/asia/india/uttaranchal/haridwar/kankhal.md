@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.93
 longitude: 78.15
+score: 6.9
 ---
 
 Kankhal is a district folded into the southern edge of Haridwar, separated from the main city by a stretch of open land but accessible by auto-rickshaw in ten minutes. It has a completely different character from the busy pilgrim ghats of central Haridwar — quieter, more residential, with narrow lanes lined with ashrams and smaller temples.

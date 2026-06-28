@@ -7,6 +7,7 @@ tags:
 - sight
 title: Galapaguera Tortoise Reserve
 type: poi
+score: 8.4
 ---
 
 The Galapaguera de Cerro Colorado is a breeding and rearing centre for San Cristóbal's endemic giant tortoise (*Chelonoidis chathamensis*). Unlike the research station on Santa Cruz, this reserve lets you walk among adult tortoises moving freely through their natural habitat — a quieter, more natural encounter than a captive facility.

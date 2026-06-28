@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: BOA
 type: poi
+score: 4.6
 ---
 
 BOA is one of Stuttgart's longest-running nightlife venues, occupying a former cinema on Tübingerstrasse in the city centre. The programme mixes club nights with live concerts and occasional cultural events. The space has a main hall and a smaller bar area, and the booking policy leans toward electronic music, hip-hop, and indie acts. It draws a younger crowd, especially on weekends.

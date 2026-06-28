@@ -5,9 +5,11 @@ done:
 latitude: 45.274132
 loc_type: city
 longitude: 14.568874
-score: 0.49
+score: 7.26
 title: Kraljevica
 type: location
+snippet: Kvarner Gulf coastal town south of Rijeka, marked by Frankopan castles and
+  a long shipbuilding tradition.
 ---
 
 Kraljevica is a small coastal town on the Kvarner Gulf, just south of [Rijeka](/europe/croatia/rijeka) where the mainland meets the bridge to the island of Krk. Two Frankopan castles — the early 17th-century [Zrinski Castle](/europe/croatia/kraljevica/zrinski_castle) and the older, partially ruined [Old Castle](/europe/croatia/kraljevica/old_castle) — sit above the harbor and are the town's most visible landmarks. The Frankopan dynasty once controlled much of this coastline, and Kraljevica was where they built their ships.

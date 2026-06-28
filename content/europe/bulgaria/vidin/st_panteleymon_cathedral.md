@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.9925
 longitude: 22.8814
+score: 6.1
 ---
 
 The largest cathedral in northwestern Bulgaria, completed in 1926 after more than 30 years of construction. The neo-Byzantine design, with five domes and a tall central tower, makes the building a landmark visible from across the river. The interior is decorated with frescoes in the post-Liberation Bulgarian style — earthier and more folk-flavoured than the official Russian Orthodox patterns of the same period.

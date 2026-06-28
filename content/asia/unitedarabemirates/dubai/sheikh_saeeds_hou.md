@@ -2,12 +2,14 @@
 address: Al Shindagha Area, facing end of Dubai Creek
 latitude: 25.2697
 longitude: 55.2923
-opening_hours: "Sat-Thu 8:30am-8:30pm, Fri 3pm-8:30pm"
-phone: "04-393-7139"
+opening_hours: Sat-Thu 8:30am-8:30pm, Fri 3pm-8:30pm
+phone: 04-393-7139
+score: 7.5
 snippet: Grand 1896 residence now housing Dubai's historical collection
 tags:
 - things_to_do
 - landmark
+- al_fahidi
 title: Sheikh Saeed's House
 type: poi
 ---

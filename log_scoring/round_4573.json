@@ -1,0 +1,200 @@
+{
+  "round": 4573,
+  "timestamp": "2026-06-14T00:23:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 7.6134,
+      "prior_variance": 0.223631,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 7.3378,
+      "prior_variance": 0.136302,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 4.3737,
+      "prior_variance": 0.106326,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_score": 6.2928,
+      "prior_variance": 0.115872,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_score": 4.0197,
+      "prior_variance": 0.110718,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 5.4398,
+      "prior_variance": 0.102416,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 3.9906,
+      "prior_variance": 0.098196,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 3.8007,
+      "prior_variance": 0.09364,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 5.6736,
+      "prior_variance": 0.125857,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.0677,
+      "prior_variance": 0.105124,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 4.2458,
+      "prior_variance": 0.089405,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.8471,
+      "prior_variance": 0.115979,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.0203,
+      "prior_variance": 0.101618,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": 0.0769,
+      "prior_variance": 0.092233,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 0.8643,
+      "prior_variance": 0.098003,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": 0.0265,
+      "prior_variance": 0.094206,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.6082,
+      "prior_variance": 0.098738,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -1.2143,
+      "prior_variance": 0.089432,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.2163,
+      "prior_variance": 0.091072,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Borca di Cadore",
+      "path": "europe/italy/veneto/borca_di_cadore",
+      "prior_score": 0.9406,
+      "prior_variance": 0.102812,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -3.7622,
+      "prior_variance": 0.096765,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.8515,
+      "prior_variance": 0.098833,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -4.275,
+      "prior_variance": 0.098903,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Nangqen",
+      "path": "asia/china/qinghai/nangqen",
+      "prior_score": -2.4447,
+      "prior_variance": 0.105363,
+      "prior_n": 15
+    }
+  ]
+}

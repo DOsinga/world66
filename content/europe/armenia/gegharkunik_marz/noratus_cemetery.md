@@ -11,6 +11,7 @@ story: >
   rival any decorative stonework in the medieval world. Noratus escaped the
   destruction of Julfa's famous khachkar cemetery in Azerbaijan, making it
   the largest surviving collection in existence.
+score: 8.5
 ---
 
 The village of Noratus, on the western shore of Lake Sevan, holds the largest collection of medieval khachkars in Armenia — around nine hundred of the ornate carved cross-stones standing in open fields beside the village church. They span nearly a thousand years of Armenian craftsmanship, ranging from simple early crosses to extraordinary examples with intricate lacework patterns covering every centimetre of the stone surface.

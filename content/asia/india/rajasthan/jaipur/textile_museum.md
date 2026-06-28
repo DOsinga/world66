@@ -10,6 +10,7 @@ longitude: 75.8237
 address: City Palace Complex, Jaleb Chowk, Jaipur
 opening_hours: 9:30-17:00 daily
 snippet: Royal textile collection inside the City Palace, with extraordinary silk and hand-embroidered pieces
+score: 7.1
 ---
 
 Part of the City Palace complex, the textile museum houses the former maharajas' collection of royal garments and fabrics — items that were actually worn by the rulers of Jaipur across four centuries. The collection includes hand-embroidered ceremonial robes, palanquin covers, tent walls, and miniature paintings depicting court dress, all in the intricate zardozi, ari, and phulkari embroidery traditions of Rajasthan.

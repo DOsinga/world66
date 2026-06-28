@@ -6,6 +6,7 @@ latitude: 52.2887
 longitude: -1.5317
 sources:
   - https://en.wikipedia.org/wiki/Royal_Spa_Centre
+score: 5.2
 ---
 
 The Royal Spa Centre is the main arts venue in Leamington Spa, hosting touring theatre, dance, comedy, and music throughout the year. The building is a functional 1970s design that lacks the elegance of the town's Regency architecture, but the programming is ambitious for a town of this size.

@@ -2,10 +2,15 @@
 accessibility: Not wheelchair accessible.  Parking off the street for motorcycles
   only.  Street parking on Jr. Morey for cars.
 address: 'Jr. Camilla Morey #250 at the intersection of Jr. Grau'
+latitude: -6.4892
+longitude: -76.3639
 phone: 53-0257
 price: Cheap to Reasonable
+score: 4.8
 tags:
 - eating_out
+- restaurant
+- seafood
 title: La Concha de sus Mares
 type: poi
 ---

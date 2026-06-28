@@ -8,6 +8,7 @@ latitude: 44.3077
 longitude: 8.4826
 sources:
   - https://en.wikipedia.org/wiki/Savona_Cathedral
+score: 7.7
 ---
 
 Savona Cathedral — the Cattedrale dell'Assunta — was built in the late sixteenth century on a new site after the Genoese demolished the original medieval cathedral on the Priamar headland in 1528. The current building has a Baroque interior of considerable richness, with a marble high altar and a series of paintings and frescoes accumulated over four centuries of embellishment.

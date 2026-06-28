@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.9107
 longitude: 121.1268
+score: 8.5
 ---
 
 Bangaan is a small Ifugao village about 12 kilometres east of Banaue town, beautifully positioned in a cluster of rice terraces with traditional thatch-roof houses still in use. It is one of the five UNESCO-listed terrace clusters, and unlike Banaue town itself it has been spared most modern building so the view is uncluttered.

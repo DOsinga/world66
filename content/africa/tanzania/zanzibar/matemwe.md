@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Matemwe.jpg
 latitude: -5.8667
 loc_type: city
 longitude: 39.35
+score: 8.48
+snippet: Northeast Zanzibar fishing-village coast, closest to Mnemba Atoll's reef
+  and shaped by tides and fringing lagoon
 title: Matemwe
 type: location
 ---

@@ -4,6 +4,9 @@ done:
 latitude: 37.78
 loc_type: feature
 longitude: 111.34
+score: 7.15
+snippet: Shanxi Taoist mountain above the Yellow River valley, with cliff temples
+  and Tang-dynasty cave murals.
 sources:
 - https://en.wikivoyage.org/wiki/Shanxi
 title: Beiwudang Mountain

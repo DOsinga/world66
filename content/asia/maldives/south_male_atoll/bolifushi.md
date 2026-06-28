@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bolifushi.jpg
 latitude: 4.097216
 loc_type: island
 longitude: 73.400108
+score: 8.56
+snippet: Private South Malé Atoll island resort set in a shallow reef lagoon near
+  the airport
 sources:
 - https://www.ozenreserve-bolifushi.com/
 - https://www.openstreetmap.org/

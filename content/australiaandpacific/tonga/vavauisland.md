@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Leaving_Vava%27u_airport,_
 latitude: -18.623147
 loc_type: city
 longitude: -174.002138
-score: 0.57
+score: 8.66
+snippet: Hilly Tongan island with a deeply indented harbour, whale-swimming departures,
+  and sheltered sailing waters.
 title: Vava'u Island
 type: location
 ---

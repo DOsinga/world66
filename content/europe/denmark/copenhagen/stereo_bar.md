@@ -1,10 +1,12 @@
 ---
 address: Linnésgade 16A, Copenhagen
-latitude: 55.6835
-longitude: 12.5703
-snippet: Retro cocktail bar with lava lamps and Latin jazz
+latitude: 55.6818
+longitude: 12.5847
+score: 6.4
+snippet: Retro cocktail bar with lava lamps, velvet booths, and a Latin jazz soundtrack
 tags:
 - bars_and_cafes
+- indre_by
 title: Stereo Bar
 type: poi
 ---

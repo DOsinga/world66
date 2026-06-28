@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.8
 ---
 
 A few hundred metres below Somoskő Castle, on the Slovak side of the border, the basalt waterfall is a frozen cascade of hexagonal columns flowing down the hillside in a fan twenty metres wide. It is a textbook example of columnar jointing — basalt lava cooling slowly enough to crack into regular six-sided prisms — and one of the more striking geological sights in this part of central Europe.

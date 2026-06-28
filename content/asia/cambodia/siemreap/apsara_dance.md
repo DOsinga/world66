@@ -8,6 +8,7 @@ tags:
 - culture
 title: Apsara Dance Performances
 type: poi
+score: 7.5
 ---
 
 **Apsara dance** (Robam Tep Apsara in Khmer) is the classical court dance form of Cambodia, performed for centuries in the royal palaces of the Khmer Empire. Dancers wear elaborate gilded costumes and headdresses, and the choreography is defined by extremely precise hand gestures (called *mudras*) and body postures — the fingers bent back at angles that require years of daily training from childhood. The art form was listed by UNESCO as Intangible Cultural Heritage in 2003, in part because it came close to extinction during the Khmer Rouge years, when the vast majority of classical dancers and teachers were killed.

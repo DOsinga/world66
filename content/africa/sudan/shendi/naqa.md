@@ -10,6 +10,7 @@ tags:
 - unesco
 - day_trip
 snippet: Kushite ruined city with a small pyramid and the famous "Roman kiosk"
+score: 9.0
 ---
 
 About 120 km southeast of Shendi, Naqa is the more compact and more photogenic of the two desert sites. The ruins of a small Meroitic city stand in open sand: a pyramid, a temple to Amun with its avenue of stone rams, the Lion Temple of Apedemak with its reliefs of the king and queen smiting their enemies, and the curious "Roman kiosk" — a small chapel where Meroitic, Pharaonic and Greco-Roman elements all blend on a single building.

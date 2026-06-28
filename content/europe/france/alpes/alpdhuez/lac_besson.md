@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.7
 ---
 
 A small alpine lake above the resort at 2,061 metres, reached by a 45-minute walk from the top of the Lac Blanc lift in summer or by a longer hike from the village. The water is cold enough to make the brief swims that count as a French summer ritual feel like a real achievement.

@@ -9,6 +9,7 @@ tags:
 latitude: 4.1798
 longitude: 73.5069
 snippet: "Bundles of betel, palm sugar and dried fish from the outer atolls"
+score: 7.5
 ---
 
 A few steps inland from the fish market, the Malé Local Market is where the produce coming in from the outer islands lands — coconuts in green and brown stages, bunches of bananas, breadfruit, jackfruit, pumpkins, sweet potato, plus the long bundles of dried tuna called rihaakuru and valhomas that flavour most Maldivian curries.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bintulu_-_Pasar_Tamu.JPG
 latitude: 3.187426
 loc_type: city
 longitude: 113.04728
-score: 0.36
+score: 6.18
+snippet: Industrial Sarawak coastal town built on LNG, used as the jump-off for Similajau
+  National Park.
 title: Bintulu
 type: location
 ---

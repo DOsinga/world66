@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Archway.JPG
 latitude: 41.511
 loc_type: city
 longitude: -112.0155
-score: 0.37
+score: 6.24
+snippet: Wasatch Front county seat near Great Salt Lake wetlands and the Bear River
+  Migratory Bird Refuge
 title: Brigham City
 type: location
 ---

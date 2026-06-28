@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.8
 ---
 
 A few kilometres west of Karlovasi a small road ends at a pebble beach, with a footpath up a wooded ravine that leads to a series of waterfalls and pools. Some you reach by walking; the deeper ones require swimming through cold, clear water in canyon-like stretches between rock walls. The water is icy even in August.

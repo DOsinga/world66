@@ -10,6 +10,7 @@ longitude: -81.3131
 story: "The plaza was laid out in 1573 according to the Laws of the Indies, the Spanish colonial planning code that specified exactly how new settlements in the Americas should be organized — the main plaza, flanked by the church, the government house, and the market, with a grid of streets radiating outward. St. Augustine's plaza is one of the oldest surviving examples of this planning system in North America."
 sources:
   - https://en.wikipedia.org/wiki/St._Augustine_Town_Plan_Historic_District
+score: 7.1
 ---
 
 The Plaza de la Constitución is the geographic and historical center of St. Augustine, laid out in 1573 as part of the original colonial town plan. It is flanked on its west side by the Cathedral Basilica, on its north by Government House, and on its east by an 1824 market building whose open arcade still hosts occasional markets. The obelisk in the center commemorates the Spanish constitution of 1812.

@@ -9,6 +9,7 @@ tags:
 latitude: 51.1144
 longitude: 17.0408
 address: "Piaskowa 17, 50-156 Wrocław"
+score: 8.0
 ---
 
 A 1908 covered market hall in red brick with a soaring vaulted reinforced-concrete roof — one of the earliest large public buildings in Europe to use the technique. Inside, two floors of stalls sell fresh fruit and vegetables, cheeses, meats, baked goods and inexpensive household and clothing.

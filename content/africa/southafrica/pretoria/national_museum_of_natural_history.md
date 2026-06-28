@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -25.7465
 longitude: 28.1908
+score: 7.5
 ---
 
 The Ditsong National Museum of Natural History (formerly the Transvaal Museum) is one of the most important natural history collections in Africa. The building on Paul Kruger Street, a short walk from Church Square, houses collections of African vertebrates, invertebrates, geology, and palaeontology assembled since 1892.

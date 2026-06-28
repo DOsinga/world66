@@ -9,6 +9,7 @@ tags:
 - sight
 title: Nataliya Sats Children's Musical Theatre
 type: poi
+score: 7.2
 ---
 
 The Nataliya Sats Children's Musical Theatre on Prospekt Vernadskogo is one of the world's oldest and most respected theatres dedicated to young audiences. Nataliya Sats founded it in 1965 after decades of work staging productions specifically for children — she was a pioneer of the form, and the theatre still carries her name and mission.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - niemeyer
+score: 7.8
 ---
 
 The Supremo Tribunal Federal sits opposite the Palácio do Planalto across the Three Powers Plaza, a deliberate mirror image: same low horizontal slab, same delicate columns. Niemeyer designed both palaces as a paired composition, expressing the constitutional balance between executive and judicial powers.

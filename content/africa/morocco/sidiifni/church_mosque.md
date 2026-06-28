@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.3815
 longitude: -10.1718
+score: 7.1
 ---
 
 One of the more striking monuments in Sidi Ifni is the former Spanish church, now serving as a mosque. The conversion is visible in the architecture: the nave, the round-arched windows, and the bell tower — now a minaret — all declare a Spanish Catholic origin that the building's current purpose does not attempt to disguise. The juxtaposition is honest and interesting rather than incongruous.

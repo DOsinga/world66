@@ -15,6 +15,7 @@ story: >
   the most productive shorebird habitats remaining on the Pacific Coast, which is why the
   federal government established the refuge in 1971 to protect what the cities around the
   bay had not yet consumed.
+score: 8.0
 ---
 
 The Humboldt Bay National Wildlife Refuge covers 3,000 acres of salt marsh, mudflat, and wetland at the southern end of Humboldt Bay, about eight miles south of Eureka on Highway 101. It is one of the premier shorebird and waterfowl areas in California, with observation platforms, interpretive trails, and a visitor centre that explains the ecology of the Pacific Flyway. Peak birding is in autumn (September to November), when the migration is at its height, but the refuge holds resident populations year-round.

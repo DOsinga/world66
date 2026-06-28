@@ -12,6 +12,7 @@ story: >
   to Houston to start Zapata Offshore Company. George W. Bush returned to Midland in the 1970s
   to try his hand at the oil business, living just a few miles from his childhood home. Both
   presidents came out of this flat, oil-soaked landscape.
+score: 6.8
 ---
 
 A modest 1939 clapboard house on West Ohio Avenue, preserved and interpreted as a state historic site since 2006, now operated by the Texas Historical Commission. The Bush family lived here from 1951 to 1955, when George W. Bush was a young child and his father was working in the Permian Basin oil business. The house has been restored to its 1950s appearance and furnished with period pieces.

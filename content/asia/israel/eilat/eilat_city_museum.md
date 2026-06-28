@@ -14,6 +14,7 @@ story: >
   Ink Flag) from a bedsheet, marking the end of the war.
 sources:
   - https://en.wikipedia.org/wiki/Eilat_City_Museum
+score: 5.7
 ---
 
 A small but well-organized local history museum tracing Eilat's history from the biblical port of Ezion-Geber through the Nabataean and Roman periods, the Ottoman era, and the founding of the modern city after 1948. The permanent collection includes artifacts from archaeological sites in the surrounding desert, photographs from the early years of the Israeli state, and exhibits on the city's development from a tiny frontier settlement into a major resort.

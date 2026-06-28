@@ -9,6 +9,7 @@ tags:
   - bars_and_cafes
   - kentron
 neighbourhood: Kentron
+score: 7.3
 ---
 
 The block-long strip of Saryan Street north of Toumanian — known unofficially as Yerevan's "Wine Street" — is the city's most active small-bar district. A succession of wine bars opened from around 2015 onwards (Saryan Wine District, In Vino, Wine Republic, and others) and turned a quiet residential street into one of the better Tuesday-night spots in the Caucasus.

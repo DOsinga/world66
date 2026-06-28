@@ -6,6 +6,7 @@ longitude: 152.6585
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 Gympie's main street is the spine of its heritage centre. It bends and dips along the contour of the original goldfield rather than running on a grid, and the result is a streetscape of two- and three-storey 1880s and 1890s shopfronts following the lay of the land. Verandahs on cast-iron columns shade the footpaths, and many buildings still carry their original signage.

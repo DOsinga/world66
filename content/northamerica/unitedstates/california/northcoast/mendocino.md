@@ -6,14 +6,16 @@ done:
   location_enrich: '2026-06-02'
 latitude: 39.3077
 longitude: -123.7993
-score: 0.57
+score: 8.07
 title: Mendocino
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Mendocino,_California
-  - https://en.wikipedia.org/wiki/Mendocino_Headlands_State_Park
-  - https://en.wikipedia.org/wiki/Mendocino_and_Headlands_Historic_District
+- https://en.wikipedia.org/wiki/Mendocino,_California
+- https://en.wikipedia.org/wiki/Mendocino_Headlands_State_Park
+- https://en.wikipedia.org/wiki/Mendocino_and_Headlands_Historic_District
+snippet: Mendocino is a North Coast village on Pacific bluffs, noted for New England-style
+  architecture.
 ---
 
 Mendocino sits on a dramatic headland where the coastal bluffs drop straight into the Pacific, and the town looks like it was airlifted from Cape Cod and set down on the California coast — which is essentially what happened. New England whalers settled here in the 1850s and built the saltbox houses, white-steepled church, and water towers that still define the skyline. The entire village is on the National Register of Historic Places.

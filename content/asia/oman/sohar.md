@@ -6,7 +6,9 @@ done:
 latitude: 24.341988
 loc_type: city
 longitude: 56.729838
-score: 0.41
+score: 6.74
+snippet: Omani Batinah coast city mixing Sinbad legend, a restored fort, and modern
+  industrial port life
 title: Sohar
 type: location
 ---

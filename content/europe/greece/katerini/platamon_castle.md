@@ -5,6 +5,7 @@ tags: [things_to_do, sight, castle, historic]
 latitude: 39.9901
 longitude: 22.6227
 story: "Platamon Castle was built by Crusaders between 1204 and 1222, on a rocky promontory where Mount Olympus meets the sea and where the main road between Macedonia and southern Greece has always been forced to pass through a narrow coastal corridor. Alexander the Great would have marched this road on his way south, and the castle's position makes it one of the most strategically obvious fortifications in Greece."
+score: 7.7
 ---
 
 Platamon Castle sits on a rock above the beach town of Platamonas, about 40 km south of Katerini on the main Athens–Thessaloniki road. It was built by the Crusaders after 1204, following the sack of Constantinople and the establishment of the Latin Empire. The castle controlled the Tempe Pass — the narrow coastal corridor between Olympus and the sea where the only viable road south from Macedonia runs — and has changed hands between Crusaders, Byzantines, and Ottomans over its history.

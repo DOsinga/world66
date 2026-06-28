@@ -11,6 +11,7 @@ story: >
   Morocco for over a thousand years. Caravans of hundreds of camels loaded with salt, gold,
   and slaves crossed here on the journey north. Rock inscriptions in the pass walls record
   the passage of caravans and include some of the earliest Tifinagh script found in the region.
+score: 8.2
 ---
 
 The Amogjar Pass is the dramatic gorge where the main track drops from the Adrar plateau down towards the town of Atar. The rock walls rise steeply on both sides, and ancient rock carvings and inscriptions can be found throughout the gorge — some dating back thousands of years. This was one of the main crossing points of the Saharan trade routes.

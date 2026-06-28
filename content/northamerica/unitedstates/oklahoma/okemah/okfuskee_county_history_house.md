@@ -1,5 +1,9 @@
 ---
-snippet: "Local history museum covering Okfuskee County from the Creek Nation to the oil boom"
+latitude: 35.431361
+longitude: -96.305149
+score: 6.9
+snippet: Local history museum covering Okfuskee County from the Creek Nation to the
+  oil boom
 tags:
 - things_to_do
 - sight

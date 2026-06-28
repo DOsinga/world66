@@ -6,6 +6,7 @@ longitude: 18.7691
 tags:
   - shopping
   - market
+score: 6.6
 ---
 
 The old town market runs along the seafront promenade just outside the Sea Gate, a long row of trestle tables and stalls selling produce from the inland villages. Most stalls are open from sunrise to early afternoon; on Saturdays it is at its biggest and busiest.

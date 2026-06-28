@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - castle
+score: 5.8
 ---
 
 The Lower Castle is the second residence of the Reuss family, built down in the old town when the cramped Upper Castle stopped being comfortable enough to live in. The present complex is largely 18th and 19th century, with a long four-winged plan around two courtyards.

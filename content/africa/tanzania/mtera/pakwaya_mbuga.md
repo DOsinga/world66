@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: -7.175
 longitude: 35.74
+score: 6.6
 ---
 
 A seasonal wetland right along the main Iringa–Dodoma highway between Mtera and Chipogoro, making it the one productive birding site at Mtera that requires no detour at all. Pull over anywhere along this stretch and scan the marshy ground on either side of the road — in the right season you will see open-billed storks, saddle-billed storks, herons, and waders working the wet ground.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 23.6139
 longitude: 58.5939
+score: 8.2
 ---
 
 Old Muscat is the original walled city, a small and remarkably intact quarter built around the deep natural harbour that made the city its fortune. Today it contains the Sultan's palace (Al Alam), the twin Portuguese forts that guard the harbour entrance (Al Jalali and Al Mirani), a handful of museums, and the restored Muscat Gate. The entire area is compact enough to walk in an hour, though the individual sights reward more time. Outside working hours the streets are quiet to the point of being deserted — most residents have moved to newer parts of the city.

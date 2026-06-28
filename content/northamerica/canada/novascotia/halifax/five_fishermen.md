@@ -8,6 +8,7 @@ tags:
 address: "1740 Argyle Street"
 latitude: 44.6468
 longitude: -63.5745
+score: 5.5
 ---
 
 The Five Fishermen is one of Halifax's best-known seafood restaurants, operating for decades in a building with a particularly Halifax backstory: it originally served as the Nova Scotia School of Art, then as a mortuary used to embalm victims of both the 1912 Titanic disaster and the 1917 Halifax Explosion. The dining room is now warm and atmospheric, all dark wood and candlelight, with nothing to suggest its grim past except the servers who like to mention it.

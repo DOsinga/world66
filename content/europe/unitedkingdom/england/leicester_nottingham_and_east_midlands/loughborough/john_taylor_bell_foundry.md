@@ -15,6 +15,7 @@ story: >
   hand using a tuning lathe, a process unchanged in centuries.
 sources:
   - https://en.wikipedia.org/wiki/John_Taylor_%26_Co
+score: 8.6
 ---
 
 John Taylor & Co has been casting bells in Loughborough since 1839, and the foundry is the last of its kind in the UK. Tours give a rare look at a manufacturing process that has remained essentially unchanged for six hundred years: molten bronze poured into clay and loam moulds, the bells cooling slowly, then tuned individually by removing metal from the inside until each note is perfect.

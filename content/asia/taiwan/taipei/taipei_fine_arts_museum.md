@@ -3,10 +3,12 @@ address: 181 Zhongshan North Road, Section 3, Taipei
 latitude: 25.0724
 longitude: 121.5247
 phone: +886 2 2595 7656
+score: 7.8
 snippet: Taiwan's leading modern art museum with striking modernist architecture
 tags:
 - things_to_do
 - museum
+- zhongshan
 title: Taipei Fine Arts Museum
 type: poi
 url: www.tfam.museum

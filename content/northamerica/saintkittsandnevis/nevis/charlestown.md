@@ -7,6 +7,7 @@ tags:
 latitude: 17.1431
 longitude: -62.6281
 snippet: Nevis's small capital with Georgian-era stone buildings, a waterfront, and the island's main market
+score: 8.1
 ---
 
 Charlestown, the capital of Nevis, is a compact West Indian town of around 1,500 people. Its centre has a good number of well-preserved Georgian stone buildings — the courthouse, the treasury, and various merchant houses — giving it more architectural character than most Caribbean island capitals of its size. The streets are laid out on a simple grid and can be walked in under an hour.

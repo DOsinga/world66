@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.7183
 longitude: 90.4178
+score: 7.5
 ---
 
 A small botanical garden in the Wari district of old Dhaka, created in the early 20th century by the zamindar Narendra Narayan Roy, who amassed a collection of rare plants from across Asia, Africa, and the Americas. The garden is divided into two sections — the Psyche garden (flowers and ornamentals) and the Cybele garden (economic and medicinal plants) — and contains some remarkable specimens including orchids, cacti, and tropical trees not found elsewhere in Dhaka.

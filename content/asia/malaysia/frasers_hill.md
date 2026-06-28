@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cycling_in_Fraser's_Hill_J
 latitude: 3.713048
 loc_type: city
 longitude: 101.736557
-score: 0.53
+score: 7.79
+snippet: Quiet Pahang hill station with cool montane forest and some of Peninsular
+  Malaysia's richest birdlife.
 title: Fraser's Hill
 type: location
 ---

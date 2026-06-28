@@ -1,10 +1,12 @@
 ---
 latitude: 13.7247
 longitude: 100.5208
+score: 6.9
 snippet: Flower and orchid market on New Road, specialising in jasmine garlands
 tags:
 - shopping
 - market
+- silom
 title: Bangrak Market
 type: poi
 ---

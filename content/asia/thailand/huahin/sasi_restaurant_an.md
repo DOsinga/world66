@@ -1,9 +1,12 @@
 ---
 address: 83/159 Nhongkae Hua Hin
 email: sasi@sasi-restaurant.com
+latitude: 12.5376
+longitude: 99.967
 phone: 'Tel:032-512-488 Fax: 032-536-987 Mobile for English 01-880-4004 Closed to
   Hyatt Regency Resort'
 price: THB 750 with Thai Set Menu and Transfer if you stay within Hua Hin area.
+score: 5.5
 tags:
 - eating_out
 - restaurant

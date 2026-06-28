@@ -9,6 +9,7 @@ tags:
   - hiking
   - skiing
 story: "The Stone River on Vitosha is a kilometre-long stream of granite boulders, the largest in southeastern Europe, deposited by Pleistocene freeze-thaw cycles. Locals will tell you it is the resting place of a giant; the rocks are still moving downhill at a few centimetres a century."
+score: 8.9
 ---
 
 Sofia is the only European capital with a 2,000-metre mountain inside its administrative boundary. Vitosha rises directly south of the centre — the cone of Cherni Vruh, the second-highest peak in the country at 2,290 metres, is visible from almost everywhere in the city.

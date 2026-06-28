@@ -15,6 +15,7 @@ story: >
   for the sea breezes, ordering the building expanded into a small palace within
   weeks. He left it on 26 February 1815 to begin the Hundred Days that would end
   at Waterloo. He lived here for nine and a half months.
+score: 8.2
 ---
 
 The Palazzina dei Mulini — the "little palace of the mills" — sits on the highest ground between Forte Falcone and Forte Stella, where the city's windmills had stood. Napoleon had it converted into his official residence almost as soon as he arrived in May 1814, doubling its size and adding the **Italian garden** that still runs along the seaward side. The result is more substantial than the name suggests: two storeys, a central salon, his small library, a bedroom, a billiard room, and a long terrace looking out to the mainland.

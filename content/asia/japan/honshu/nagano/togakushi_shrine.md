@@ -11,6 +11,7 @@ story: >
   Togakushi means "hiding the door" — a reference to the Shinto creation myth in which the sun goddess Amaterasu hid in a cave, plunging the world into darkness. The cave door she had been barricaded behind was hurled to Nagano's mountains by the gods who lured her out. The three shrine precincts here represent episodes in that cosmic drama.
 sources:
   - https://en.wikipedia.org/wiki/Togakushi_Shrine
+score: 8.8
 ---
 
 Togakushi Shrine is not a single building but a complex of three shrines spread across the lower, middle, and upper precincts of a forested mountain about twenty kilometres northwest of Nagano city. The journey through the shrines is the point: a three-kilometre path through ancient cedar forest connects them, the trees reaching forty metres and over, their root systems carpeting the path. The upper shrine, Okusha, is the most dramatic — reached by a final approach lined with giant cryptomeria cedars and a stone torii gate. The area around the upper shrine holds several sub-shrines and the mountain views are excellent.

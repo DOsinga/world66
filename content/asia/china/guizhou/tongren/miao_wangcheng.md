@@ -9,6 +9,7 @@ latitude: 27.8528
 longitude: 109.3917
 story: >
   Miao Wangcheng was the seat of the Tusi system in northeastern Guizhou — the arrangement by which the Ming and Qing dynasties delegated control of frontier regions to hereditary local chieftains. The site covers over four square kilometres of walled compound, making it one of the largest tusi complexes in China. The family who controlled it, the She clan, governed an effectively autonomous territory for over 700 years. When the Qing finally abolished the tusi system in this region in the 18th century, the She refused to yield and were militarily suppressed — the walls still show the breach points from that siege.
+score: 8.6
 ---
 
 Miao Wangcheng, 25 kilometres northeast of Tongren, is the largest surviving tusi complex in Guizhou — a fortified compound of over four square kilometres that served as the administrative centre of the She Miao chieftainship for centuries. The walls are built from dressed stone in the style of Han Chinese defensive architecture, enclosing a grid of courtyards, halls, and residences that followed a plan modelled on a Chinese county seat.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Parish Church of Sant'Antonio
 type: poi
+score: 5.8
 ---
 
 The parish church of Sant'Antonio is Osiglia's main building, a baroque reconstruction of an older medieval church that stood on the same spot. The interior is plain by the standards of Ligurian churches — most of the more elaborate decoration was lost when the church was rebuilt — but the bell tower remains an unmissable landmark in the centre of the village.

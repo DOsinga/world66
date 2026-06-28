@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Super Paradise Beach
 type: poi
+score: 5.9
 ---
 
 About 9 km southeast of Mykonos Town, Super Paradise is the island's most free-spirited beach — nudism is common, particularly at the far left end, and the crowd skews young and uninhibited. The water is a clear deep blue, the setting backed by dry hills.

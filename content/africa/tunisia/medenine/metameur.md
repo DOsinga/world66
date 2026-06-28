@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The village of Metameur was the seat of one of the major confederations of the Werghemma tribes, who controlled much of the southeast Tunisian steppe. The ksar served both as their granary and as a meeting place — the upper level housed a small mosque where tribal disputes were settled. The same families have used the ghorfas continuously for centuries, and the building still functions as a working granary in addition to whatever tourists pass through.
+score: 8.6
 ---
 
 Metameur lies about 6 km west of Medenine, just off the road to Tataouine. Its **ksar** is one of the best surviving in Tunisia — three storeys of ghorfas wrapped around a central courtyard, much of it in active use as storage by the families who own the cells. Unlike the partly demolished ksar in Medenine, Metameur is largely intact and gives a clear sense of how these fortified granaries functioned.

@@ -5,7 +5,9 @@ done:
 latitude: 50.520008
 loc_type: city
 longitude: 1.586453
-score: 0.51
+score: 7.64
+snippet: Elegant resort town on the Opal Coast, known for dunes, villas, and a long
+  sandy beach.
 title: Le Touquet
 type: location
 ---

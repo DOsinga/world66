@@ -5,7 +5,9 @@ done:
 latitude: 41.617412
 loc_type: city
 longitude: -94.018518
-score: 0.23
+score: 5.31
+snippet: Raccoon River county seat near Des Moines, anchored by a courthouse square
+  and sweet corn festival
 title: Adel
 type: location
 ---

@@ -12,6 +12,7 @@ tags:
 title: Kampa Museum
 type: poi
 url: museumkampa.cz
+score: 7.7
 ---
 
 The Kampa Museum occupies a converted Renaissance watermill on the island's riverside, with windows looking out onto the old millrace and the towers of Charles Bridge. The permanent collection focuses on Central European modernism from the mid-20th century onwards — works by Czech artists who worked during the Communist period, when much of their output was suppressed or unseen.

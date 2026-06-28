@@ -9,6 +9,7 @@ tags:
 - park
 title: Bernal Hill Park
 type: poi
+score: 7.8
 ---
 
 Just south of the Mission, Bernal Hill offers one of the best 360-degree panoramas in the city -- and unlike Twin Peaks, it is not overrun with tour buses. The grassy hilltop is closed to car traffic, making it a peaceful spot for walking, dog watching, and taking in views that stretch from downtown to the Bay and beyond.

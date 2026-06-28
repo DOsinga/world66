@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.9922
 longitude: 116.3884
+score: 6.9
 ---
 
 The National Aquatics Centre built for the 2008 Olympics — its exterior covered in ETFE cushions inflated like soap bubbles, glowing blue at night — is one of the most visually striking buildings in Beijing. It hosted the swimming events of 2008 (where Michael Phelps won eight gold medals) and the curling events of the 2022 Winter Olympics. The interior has been converted to a water park, with slides and pools open to the public.

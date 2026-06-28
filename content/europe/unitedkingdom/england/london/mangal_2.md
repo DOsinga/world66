@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Mangal 2
 type: poi
+score: 7.7
 ---
 
 Mangal 2 is a Dalston institution — a Turkish ocakbasi (charcoal grill) restaurant that has been cooking lamb chops, kebabs, and flatbreads over open coals on Stoke Newington Road since 1994. The current generation, run by the Kutlu brothers, has added an extraordinary natural wine list (one of the best in London) while keeping the core of what made the original great: proper fire, good meat, bread baked to order.

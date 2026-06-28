@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cantavieja_(Teruel,_Arag%C
 latitude: 40.525272
 loc_type: city
 longitude: -0.406213
-score: 0.5
+score: 7.37
+snippet: Fortified Maestrazgo hill village in Teruel, perched on a windy rocky spur
+  above mountain country
 title: Cantavieja
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 - wildlife
 latitude: -41.1
 longitude: 174.25
+score: 6.9
 ---
 
 Several Picton-based operators run dolphin swim and watch trips out into Queen Charlotte Sound and beyond into Cook Strait. The most commonly encountered species is the dusky dolphin, which forms huge pods in the strait, with occasional sightings of bottlenose, common, and very rarely the world's smallest dolphin — the threatened Hector's dolphin.

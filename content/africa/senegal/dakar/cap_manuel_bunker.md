@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Abandoned French wartime bunker on a clifftop above the Atlantic"
+score: 7.6
 ---
 
 Built by the French navy during the Second World War to defend Dakar's port from possible Allied attack — the Vichy authorities did successfully repel a Free French and British force at the 1940 Battle of Dakar — the Cap Manuel bunker now sits empty on the cliffs at the southern tip of the peninsula. Concrete corridors and gun emplacements open onto vertiginous Atlantic views.

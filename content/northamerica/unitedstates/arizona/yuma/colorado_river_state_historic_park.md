@@ -12,6 +12,7 @@ story: >
   shipping goods upriver by steamboat to forts as far as Nevada. At its peak in the 1870s, Yuma was one 
   of the most strategically important crossings in the American West. The depot was decommissioned in 1883 
   when the Southern Pacific railroad made river shipping obsolete overnight.
+score: 8.0
 ---
 
 The Colorado River State Historic Park preserves the Yuma Quartermaster Depot, the US Army supply depot that kept frontier forts stocked from 1865 to 1883. Five original adobe buildings survive from the depot's operational period, making this one of the best-preserved frontier-era military sites in the Southwest. The quartermaster's office, warehouse, and steam-powered machinery are all on display.

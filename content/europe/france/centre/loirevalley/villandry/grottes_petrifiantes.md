@@ -7,6 +7,7 @@ snippet: Calcite caves where dripping water turns objects to stone
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 The petrifying caves at Savonnières, three kilometres east of Villandry, are a former quarry where mineral-rich water drips slowly enough to coat anything left in it with a thin shell of calcite. The cave operators have used the process to "petrify" objects for over a century — eggs, hats, gloves, small statuettes — which are displayed at the end of the tour. The mineralised objects look exactly like themselves, only turned to stone.

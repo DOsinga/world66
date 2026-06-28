@@ -7,6 +7,7 @@ tags:
 title: Mont Gelé
 type: poi
 snippet: 3,023-metre summit with cable car access and no marked pistes
+score: 8.4
 ---
 
 The Mont Gelé cable car rises to 3,023 metres from Attelas, ending at a peak with no marked pistes — every descent is off-piste, ungroomed and serious. The summit terrace is justifiably famous, and even non-skiers can ride up for the view and a coffee.

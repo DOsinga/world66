@@ -10,6 +10,7 @@ tags:
   - historic
 title: Burial Hill
 type: poi
+score: 8.3
 ---
 
 A short, steep walk from the center of town takes you to the top of Burial Hill, a glacial drumlin that served as the site of Plymouth's first fort and now holds the oldest cemetery in Plymouth. Governor William Bradford is buried here, along with dozens of other first-generation colonists.

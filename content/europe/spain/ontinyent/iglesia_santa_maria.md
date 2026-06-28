@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.8218
 longitude: -0.6082
+score: 7.4
 ---
 
 The Collegiate Church of Santa Maria, built in the 16th and 17th centuries in Gothic-Renaissance transitional style, is the principal church of Ontinyent and the most significant architectural monument in the town. The façade combines pointed Gothic arches with Renaissance ornamental detail; the interior has a single nave of considerable height and several altarpieces from the 17th century.

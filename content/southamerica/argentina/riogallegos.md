@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_en_R%C3%ADo_Gall
 latitude: -51.6215
 loc_type: city
 longitude: -69.215
+score: 5.89
+snippet: Windy Patagonian port city near the Strait of Magellan, gateway to southern
+  Santa Cruz province.
 sources:
 - https://en.wikipedia.org/wiki/R%C3%ADo_Gallegos,_Santa_Cruz
 title: Rio Gallegos

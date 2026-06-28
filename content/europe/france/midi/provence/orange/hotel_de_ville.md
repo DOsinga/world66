@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 17th-century city hall with belfry on Place Georges Clemenceau
+score: 5.9
 ---
 
 Orange's **Hôtel de Ville** sits on Place Georges Clemenceau, the small central square of the old town. The current building dates from 1671 and replaced an earlier town hall destroyed during the Wars of Religion. The square belfry, with its wrought-iron campanile and Provençal-style clock, is the building's most distinctive feature.

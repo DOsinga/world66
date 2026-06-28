@@ -5,7 +5,9 @@ done:
 latitude: 3.5894
 loc_type: city
 longitude: 98.6742
-score: 0.41
+score: 6.92
+snippet: Northern Sumatra gateway city of Malay palaces, colonial mansions, and chaotic
+  routes toward Lake Toba
 title: Medan
 type: location
 ---

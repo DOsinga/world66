@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_at_Cape_Macclear_(M
 latitude: -14.0264
 loc_type: city
 longitude: 34.8382
-score: 0.46
+score: 7.32
+snippet: Lake Malawi beach village backed by granite hills and protected waters rich
+  with cichlid fish.
 title: Cape Maclear
 type: location
 ---

@@ -13,6 +13,7 @@ story: >
   disconnected hotel access points and quickly became the most popular pedestrian space 
   in the city. The SkyWheel at its north end was added in 2011 and has become the city's 
   most recognizable landmark.
+score: 6.1
 ---
 
 The Myrtle Beach Boardwalk stretches for about a mile along the oceanfront through the heart of the resort district, connecting the Family Kingdom amusement park to the south with the SkyWheel and the oceanfront hotels to the north. The boardwalk is the closest Myrtle Beach comes to a genuine public promenade: wide, pedestrian-only, with the beach and ocean immediately accessible via beach access ramps along its length.

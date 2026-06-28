@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Port_of_Brindisi
 story: >
   The Aragonese built the fort on a tiny island at the harbour mouth in the late fifteenth century, and it served its purpose well — Brindisi was one of the few ports in the region never taken by the Ottomans, despite repeated attempts. The castle's circular towers, designed specifically to deflect cannon fire, were an innovation in Italian military architecture at the time.
+score: 7.4
 ---
 
 Castello Alfonsino — also called the Forte a Mare — sits on a small island directly at the mouth of the inner harbour, reachable by boat from the waterfront. The Aragonese castle was built in the 1480s as a direct response to the Ottoman threat after the fall of Constantinople, and its squat, circular towers and thick walls represent an early attempt to design fortifications that could withstand artillery.

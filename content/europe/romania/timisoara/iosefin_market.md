@@ -8,6 +8,7 @@ tags:
   - sight
   - market
   - iosefin
+score: 7.4
 ---
 
 Iosefin Market (Piata Iosefin) is Timisoara's main daily farmers' market and the central hub of the Iosefin district. The covered hall, built in the 1880s and modernised in the 1990s, sits on King Carol I Boulevard about ten minutes' walk west of the centre across the Iron Bridge.

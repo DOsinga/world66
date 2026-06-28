@@ -15,6 +15,7 @@ story: >
   formations for roughly 10,000 years since the last glacial period, and it
   continues at a measurable rate: park managers periodically adjust drainage to
   keep new sections forming while protecting older ones.
+score: 8.9
 ---
 
 The Five Colored Pool at the top of the Huanglong valley is the climax of the boardwalk walk, a cluster of shallow pools whose colours range through turquoise, jade, gold, and vivid white depending on the depth and angle of light. At 3,700 metres, this is the highest point accessible to most visitors in the park, and the altitude — together with the fact that you have just spent two hours walking uphill — gives the arrival some earned quality that cable car arrivals do not quite replicate.

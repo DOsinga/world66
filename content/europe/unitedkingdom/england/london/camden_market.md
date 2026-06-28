@@ -5,11 +5,13 @@ done:
 latitude: 51.543611
 longitude: -0.147222
 opening_hours: Daily 10am-6pm
+score: 6.8
 snippet: London's iconic canal-side market for street food and subculture
 tags:
 - shopping
 - shop
 - market
+- camden_town
 title: Camden Market
 type: poi
 url: www.camdenmarket.com

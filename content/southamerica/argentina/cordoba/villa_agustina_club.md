@@ -8,6 +8,7 @@ tags:
 latitude: 31.4150
 longitude: -64.1830
 neighbourhood: Centro
+score: 5.6
 ---
 
 A cumbia and cuarteto nightclub a few blocks north of the centre, popular with the local crowd rather than tourists. Cuarteto is Córdoba's signature dance music — fast, repetitive, derived from northern Italian polka via the Italo-Argentine migrants of the early 20th century — and the city is fiercely proud of it.

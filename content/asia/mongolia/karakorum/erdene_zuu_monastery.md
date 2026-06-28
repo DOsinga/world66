@@ -8,6 +8,7 @@ tags:
 title: Erdene Zuu Monastery
 type: poi
 story: "When Abtai Sain Khan founded Erdene Zuu in 1586, he had a ready supply of building material at hand: the ruins of Karakorum itself. Stones quarried from the palaces and temples of the Mongol capital were carted to the site and incorporated into the new monastery's walls and shrines. The empire's physical legacy was literally reused by the civilisation that outlasted it — a cycle of destruction and reinvention written into the very masonry."
+score: 9.4
 ---
 Erdene Zuu is the oldest surviving Buddhist monastery in Mongolia and the reason most travellers make the long journey out to the steppe. Founded in 1586 on the site of ancient Karakorum, it is enclosed by a remarkable outer wall studded with 108 white stupas — the number sacred in Buddhist tradition. Three main temples survive from the original complex, their interiors dense with gilded statues, silk thangkas, and murals depicting tantric deities. The monastery is a UNESCO World Heritage site as part of the Orkhon Valley Cultural Landscape.
 

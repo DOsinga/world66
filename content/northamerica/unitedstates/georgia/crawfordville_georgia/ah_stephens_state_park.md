@@ -9,6 +9,7 @@ tags:
 - park
 - museum
 story: Alexander Stephens opposed Georgia's secession in a speech in 1861, warning that secession was "precipitate and dangerous." Within months, he was Vice President of the Confederacy. His home, Liberty Hall, survives essentially as he left it, and the museum attached to the park does not flinch from the contradictions of his career.
+score: 7.2
 ---
 
 A.H. Stephens State Park preserves Liberty Hall, the Greek Revival home of Alexander H. Stephens, who served as Vice President of the Confederate States of America. The house is open for guided tours and gives a remarkably intact picture of antebellum Georgia life — the furnishings are original, the rooms are small, and the effect is intimate rather than grandiose.

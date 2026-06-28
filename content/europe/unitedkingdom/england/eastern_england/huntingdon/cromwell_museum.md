@@ -10,6 +10,7 @@ story: >
   Oliver Cromwell and Samuel Pepys, the diarist, were both pupils at the grammar school that now houses the Cromwell Museum. The schoolroom they attended in the 1620s still stands. When Cromwell later assumed the title of Lord Protector and effectively ruled England as a monarch, his former schoolmate Pepys was recording everything he could in his famous diary.
 sources:
   - https://en.wikipedia.org/wiki/Cromwell_Museum
+score: 8.0
 ---
 
 The Cromwell Museum, housed in the former grammar school where Oliver Cromwell studied as a boy, tells the story of the man who commanded Parliament's army during the English Civil War, ordered the execution of King Charles I, and ruled England as Lord Protector from 1653 until his death in 1658. The building itself dates to the 12th century and has served as a school, a court, and a prison before becoming a museum.

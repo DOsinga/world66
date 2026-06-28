@@ -3,10 +3,10 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 19.224946
 longitude: 72.883257
+score: 8.7
 snippet: ancient Buddhist caves carved into a national park cliff
 tags:
-- things_to_do
-- park
+- day_trips
 title: Kanheri Caves
 type: poi
 ---

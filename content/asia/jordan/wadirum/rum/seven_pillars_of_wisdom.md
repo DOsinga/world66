@@ -11,6 +11,7 @@ story: >
   Lawrence's book title actually comes from a biblical passage in Proverbs, and the mountain had no
   particular name before tourists started arriving. The connection stuck anyway, and now you cannot
   visit Wadi Rum without someone pointing at this cliff face and invoking Lawrence of Arabia.
+score: 8.3
 ---
 
 The massive sandstone formation that greets you at the entrance to Wadi Rum is impossible to miss. Seven distinct pillars of weathered rock rise side by side, glowing orange and red in the afternoon light. The visitor centre sits directly below, so every arrival to the desert begins with this view.

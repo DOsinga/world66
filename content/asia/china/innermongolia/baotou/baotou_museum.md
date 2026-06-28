@@ -8,6 +8,7 @@ latitude: 40.6407
 longitude: 109.8350
 story: >
   Among the museum's most significant holdings are artifacts from the Ordos Bronze Age culture, which flourished in the grasslands south of the Yellow River from around 900 to 200 BC. The Ordos bronzes — animal-form plaques, belt fittings, and horse harness ornaments — are among the finest examples of the steppe art tradition, showing the influence of both Chinese and Central Asian cultures on a population that occupied the strategic intersection between them.
+score: 6.9
 ---
 
 The Baotou Museum presents regional history, natural history, and the industrial development of Inner Mongolia's most productive city. Admission is free. The permanent collection spans from Paleolithic artifacts found in the Yellow River valley through the Ordos Bronze Age culture to the development of the steelworks and rare earth industry that defines modern Baotou.

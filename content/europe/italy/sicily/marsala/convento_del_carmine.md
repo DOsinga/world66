@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Former convent housing the city museum and the Garibaldi collection"
+score: 6.8
 ---
 
 The Complesso Monumentale San Pietro is a 16th-century convent on the east side of the old town that now serves as the **Civico Museo** of Marsala. Its core collection covers two stories the city likes to tell about itself: the Garibaldian campaign of 1860 (uniforms, letters, weapons, the flag the Thousand carried ashore) and the Marsala wine trade.

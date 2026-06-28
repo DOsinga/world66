@@ -5,8 +5,14 @@ latitude: -39.5
 loc_type: region
 longitude: 176.9
 score: 0.59
+snippet: New Zealand wine region of Art Deco towns, sunny orchards, and long Pacific
+  coastline
 title: Hawke's Bay
 type: location
+image: hawkes_bay.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cape_Kidnappers,_New_Zealand.jpg
+image_license: CC BY 2.0
+image_attribution: Nicolas Aub
 ---
 
 **Hawke's Bay** is one of New Zealand's premier wine regions, a long curve of coastline on the east side of the North Island stretching from the Māhia Peninsula in the north to Cape Turnagain in the south. The climate is the driest and sunniest on the North Island — classically Mediterranean in feel — which is why the area has become the country's second-largest wine-producing region after Marlborough, and which explains the relaxed, orchard-and-vineyard pace of life that makes it one of the most rewarding parts of the island to wander for a few days.

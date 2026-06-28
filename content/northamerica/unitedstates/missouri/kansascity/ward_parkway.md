@@ -8,6 +8,7 @@ tags:
 - walking
 title: Ward Parkway Boulevard
 type: poi
+score: 6.7
 ---
 
 Ward Parkway is a 9-mile landscaped boulevard running south from the Country Club Plaza through Kansas City's most affluent residential neighborhoods toward the Missouri-Kansas state line. Designed in the early 20th century by George Kessler — the landscape architect who also designed the city's park and boulevard system — Ward Parkway is lined with mature trees, large private estates, and a series of decorative traffic circles with fountains and sculpture. It is one of the finest examples of early-20th-century American urban boulevard design remaining in the country.

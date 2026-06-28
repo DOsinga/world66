@@ -7,6 +7,7 @@ tags:
 - nature
 title: Irtysh River
 type: poi
+score: 5.9
 ---
 
 The Irtysh River is the quiet geographical fact behind Burqin's existence. It is one of the few rivers in China that ultimately flows toward the Arctic Ocean, running west into Kazakhstan before joining the Ob system.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2294
 longitude: -80.8408
+score: 7.7
 ---
 
 Discovery Place Science is one of the strongest hands-on science museums in the Southeast, a genuinely absorbing place for adults as well as children. Located in Uptown Charlotte, the museum covers physics, biology, technology, and environmental science through interactive exhibits designed for engagement rather than passive reading. The IMAX dome theatre shows both science documentaries and commercial films, and the planetarium runs regular shows.

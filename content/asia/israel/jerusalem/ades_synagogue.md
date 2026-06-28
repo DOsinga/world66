@@ -15,6 +15,7 @@ story: >
   a dedicated restoration effort has been working since 2010 to recreate what was
   destroyed — making it one of the few synagogues in the world being actively reconstructed
   from photographic evidence.
+score: 8.3
 ---
 
 One of the most beautiful synagogues in the world, tucked into the Nachlaot neighbourhood of West Jerusalem. Built in 1901 by the Aleppo Syrian Jewish community, the Ades Synagogue is decorated with murals in the Damascene style — floral patterns, geometric borders, biblical scenes — that cover the walls and ceiling in an explosion of colour that justifies the comparison to the Sistine Chapel. The interior is intimate by synagogue standards, with a carved wooden Tevah (reader's platform) and ornate Torah ark.

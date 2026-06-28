@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cycling
+score: 6.1
 ---
 
 Lôn Eifion is a 19-kilometre traffic-free cycle and walking path that runs south from Caernarfon along the trackbed of the old Caernarfon-to-Afon-Wen railway. It is part of National Cycle Route 8, the Lôn Las Cymru, the spine route running the length of Wales.

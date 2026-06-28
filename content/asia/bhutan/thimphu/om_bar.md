@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: OM Bar
 type: poi
+score: 6.1
 ---
 
 The main expat bar in Thimphu, in the Jojos Building on Changlam. Comes to life after 9pm, closed Tuesdays. A mix of expats and locals; busy on Friday and Saturday evenings. Snacks available; outside food is permitted. One of the few places in Thimphu with a late-night atmosphere.

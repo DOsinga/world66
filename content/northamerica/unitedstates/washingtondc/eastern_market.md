@@ -7,6 +7,7 @@ tags:
   - capitol_hill
 latitude: 38.8842
 longitude: -77.0023
+score: 7.9
 ---
 
 Eastern Market is Washington's oldest surviving market building, operating since 1873 on 7th Street SE in the Capitol Hill neighbourhood. The Victorian brick structure holds food vendors on the ground floor — produce, butchers, bakers, flower sellers — with a flea market and arts-and-crafts market in the surrounding streets on weekend mornings.

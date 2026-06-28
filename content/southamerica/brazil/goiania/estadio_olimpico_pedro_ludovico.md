@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.6708
 longitude: -49.2625
+score: 6.0
 ---
 
 The Estádio Olímpico Pedro Ludovico is Goiânia's main football stadium, home to Atlético Goianiense and the scene of many of the city's most passionate public gatherings. The stadium holds around 13,000 spectators and has a covered stand that makes attending a match a good deal more comfortable than the open-air grounds common across Brazil.

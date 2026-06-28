@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.8770
 longitude: -84.2730
+score: 8.5
 ---
 
 A long, ugly commercial strip northeast of the city that is also Atlanta's most concentrated international food zone. Korean barbecue, Vietnamese pho houses, Mexican taquerias, Chinese hot pot, Salvadoran pupuserias, Ethiopian bunna bets — all in strip malls along about six miles of Buford Highway.

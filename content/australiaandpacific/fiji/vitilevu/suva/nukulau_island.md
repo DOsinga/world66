@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Nukulau served as a leper colony in the late 19th century and, more notoriously, as the prison island for the 2000 coup leader George Speight from 2001 to 2014."
+score: 6.6
 ---
 
 A small coral cay about ten kilometres east of Suva, reached by a thirty-minute boat ride from the seafront. Nukulau has a white sand beach, clear water, and a few picnic shelters — for a Suva resident it is the closest thing to a proper tropical beach day without leaving the capital.

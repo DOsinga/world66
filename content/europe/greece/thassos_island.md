@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_C
 latitude: 40.684448
 loc_type: city
 longitude: 24.651206
-score: 0.7
+score: 8.93
+snippet: Green northern Aegean island of pine mountains, marble quarries, and beaches
+  reached by ferry from Kavala.
 title: Thassos
 type: location
 ---

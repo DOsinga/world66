@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Boca_del_R%C3%ADo,_VER..jp
 latitude: 19.1129
 loc_type: city
 longitude: -96.1118
+score: 6.65
+snippet: Beachside municipality beside Veracruz, known for Gulf seafood, weekend promenades,
+  and the Jamapa River.
 title: Boca del Rio
 type: location
 ---

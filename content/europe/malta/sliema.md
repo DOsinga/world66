@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Il-Fortizza,_Sliema,_isla_
 latitude: 35.912761
 loc_type: city
 longitude: 14.502071
-score: 0.59
+score: 8.31
+snippet: Northeast Malta resort and shopping district with a long waterfront promenade
+  facing Valletta.
 title: Sliema
 type: location
 ---

@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: kosice.jpg
 image_attribution: Ville Miettinen
@@ -8,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_of_St._Elizabeth
 latitude: 48.721
 loc_type: city
 longitude: 21.2572
+score: 8.02
+snippet: Eastern Slovak city with a broad historic promenade and the Gothic St. Elisabeth
+  Cathedral.
 sources:
 - https://en.wikipedia.org/wiki/Ko%C5%A1ice
 - https://en.wikivoyage.org/wiki/Ko%C5%A1ice
@@ -19,4 +23,4 @@ Košice is Slovakia's second city, a substantial regional capital of about 240,0
 
 The heart of the city is [Hlavná ulica](/europe/slovakia/kosice/hlavna_ulica), the main street — actually a long, broad pedestrian promenade roughly 1.5 kilometres long and lined with churches, palaces, theatres, and cafés that give it the feel of a small Viennese boulevard. At the centre stands [St. Elisabeth Cathedral](/europe/slovakia/kosice/st_elisabeth_cathedral), the easternmost Gothic cathedral in Europe and the largest in Slovakia, an extraordinary building whose scale still comes as a surprise to first-time visitors. The nearby [St. Michael Chapel](/europe/slovakia/kosice/st_michael_chapel) and the [State Theatre Košice](/europe/slovakia/kosice/state_theatre) complete a grouping of buildings that makes the central part of Hlavná ulica one of the finest civic spaces in Slovakia.
 
-The [East Slovak Museum](/europe/slovakia/kosice/east_slovak_museum) is the most historically significant museum in the region, holding the famous Košice Gold Treasure — a hoard of over 3,000 gold coins found in 1935 during construction work, representing one of the largest medieval gold finds in European history. Outside the centre, the [Košice Zoo](/europe/slovakia/kosice/kosice_zoo) and the [Museum of Aviation](/europe/slovakia/kosice/museum_of_aviation) at the airport attract visitors with families. Košice served as European Capital of Culture in 2013, and several cultural institutions expanded or built during that period remain active.
+The [East Slovak Museum](/europe/slovakia/kosice/east_slovak_museum) is the most historically significant museum in the region, holding the famous Košice Gold Treasure — a hoard of over 3,000 gold coins found in 1935 during construction work, representing one of the largest medieval gold finds in European history. Outside the centre, the Košice Zoo and the Museum of Aviation at the airport attract visitors with families. Košice served as European Capital of Culture in 2013, and several cultural institutions expanded or built during that period remain active.

@@ -11,6 +11,7 @@ tags:
 - eating_out_1
 title: Vanessa
 type: poi
+score: 5.8
 ---
 
 A rooftop seafood restaurant perched on top of the Sydney Hotel in the city centre. The menu focuses on grilled and sizzling seafood — whole fish, prawns, squid — cooked simply and served with rice. Portions are generous and prices are local. The open-air setting makes it a pleasant spot in the evening when the heat drops.

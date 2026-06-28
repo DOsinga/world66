@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Medicinal and culinary plant garden tucked behind the ramparts"
+score: 6.2
 ---
 
 The Herbarium is a small garden set into the slope below the ramparts, planted with several hundred species of medicinal, culinary, and dye plants used in northern France since the Middle Ages. The garden is organised into beds by theme — kitchen herbs, fragrant plants, plants used in textile dyeing, plants traditionally believed to have healing properties — each labelled with name and use.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -26.7358
 longitude: -49.1752
+score: 8.3
 ---
 
 The Museu Pomerano is the principal museum in Pomerode, covering the history of German immigration to Santa Catarina from the mid-19th century onwards. The collection includes tools, furniture, clothing, photographs, and documents brought by settlers from the Pomerania region of northern Germany and Poland, much of it donated by local families.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:China_Jinan_5197011_01.jpg
 latitude: 36.6459
 loc_type: city
 longitude: 117.0128
+score: 7.11
+snippet: Shandong capital famed as the City of Springs, where artesian wells feed
+  parks and Daming Lake.
 sources:
 - https://en.wikivoyage.org/wiki/Jinan
 title: Jinan

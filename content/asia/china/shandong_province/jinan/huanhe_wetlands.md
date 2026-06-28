@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 36.7700
 longitude: 116.9700
+score: 6.5
 ---
 
 The Yellow River runs along the northern edge of Jinan, separated from the city by dykes, and the wetland zone between the dykes and the city has been developed into a park with boardwalks, birdwatching platforms, and stretches of preserved reed bed and riparian forest. The river itself, running brown with silt, is visible from the northern embankment — a reminder that the Yellow River still sits above the surrounding plain on a levee built up over centuries of flood management.

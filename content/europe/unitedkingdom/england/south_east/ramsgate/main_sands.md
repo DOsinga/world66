@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 51.3290
 longitude: 1.4180
+score: 6.4
 ---
 
 Ramsgate's main beach sits below the western cliff, reached by a broad ramp from the harbour or by steps from the clifftop above. It is a decent town beach — wide enough at low tide, sheltered by the harbour arm from the worst of the North Sea swell, and with clean sand suitable for children. The water here is cooler than southern English resorts but swimmable from June to September.

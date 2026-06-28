@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - el_silencio
   - museum
+score: 7.7
 ---
 
 The headquarters of the Banco Central de Venezuela on Avenida Urdaneta — a 16-storey 1960s tower — houses a surprisingly good **numismatic museum**. The collection traces the history of Venezuelan currency from pre-Columbian shell money and Spanish *macuquina* coins through the chaos of nineteenth-century paper money to the modern bolívar. A separate gallery of Bolívar's personal effects, including jewellery and silverware, occasionally rotates onto display.

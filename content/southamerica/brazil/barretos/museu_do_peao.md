@@ -7,6 +7,7 @@ tags:
 latitude: -20.5600
 longitude: -48.5720
 story: "The Festa do Peão de Boiadeiro began in 1955 as a small local event. By the 1990s it had grown into one of the largest rodeo festivals on earth, regularly attracting over 800,000 visitors in ten days. The permanent museum was built to explain the culture that made it possible."
+score: 7.1
 ---
 
 Inside the Parque do Peão on the edge of town, this museum covers the history of Brazilian cowboy culture — the boiadeiros who drove cattle across the cerrado for centuries. The collection includes saddles, spurs, lassos, traditional clothing, and a photographic archive tracing the Festa do Peão from its modest origins in 1955 to the enormous international event it has become.

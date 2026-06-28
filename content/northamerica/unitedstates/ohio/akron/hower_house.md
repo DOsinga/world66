@@ -8,6 +8,7 @@ tags:
 latitude: 41.0750
 longitude: -81.5106
 address: 60 Fir Hill
+score: 7.5
 ---
 
 The Hower House is the 1871 Second Empire-style mansion built by John Henry Hower, an Akron industrialist who made his money in oats, milling, and later rubber. It survives almost entirely original — the cherry and walnut woodwork, the Italian marble fireplaces, the Tiffany glass, the gas chandeliers, and a full third floor of family possessions, all kept as they were when the last Hower daughter donated the house to the University of Akron in the 1970s.

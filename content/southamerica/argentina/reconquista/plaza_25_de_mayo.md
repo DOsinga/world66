@@ -6,6 +6,7 @@ longitude: -59.6436
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The main square is the social engine of Reconquista. By day it is shaded by tall palms and a ring of benches, by evening it fills with families, teenagers, and the slow tide of *vueltas* — circuits of the surrounding streets done on foot, by bicycle, and by car. On feriados, when the students come home, the noise and traffic around the plaza is unmistakable.

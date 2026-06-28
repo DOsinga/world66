@@ -10,6 +10,7 @@ tags:
   - architecture
   - barrio_viejo
 story: "Carmen Soto Vásquez built the theatre in 1915 to serve Tucson's Spanish-speaking population, which at the time was the majority of the city. The grand opening featured a touring Spanish opera company. Within a decade silent film and Anglo migration ended the Spanish-language touring circuit and the theatre closed; the building somehow survived."
+score: 6.6
 ---
 
 Teatro Carmen, on Meyer Avenue in Barrio Viejo, is the surviving early-twentieth-century Spanish-language theatre of Tucson — a single-storey adobe with a slightly grander brick façade and decorative cornice. It was the cultural heart of the city's Mexican community when it opened in 1915.

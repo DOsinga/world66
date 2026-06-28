@@ -10,6 +10,7 @@ longitude: -81.3151
 story: "The cemetery takes its name from a Guale indigenous mission that stood here before the city expanded northward. It holds the graves of some of the most significant figures in St. Augustine's history, including Bishop Augustin Verot, the first Bishop of St. Augustine, and Fr. Felix Varela, an influential Cuban priest and intellectual who is a candidate for Catholic sainthood."
 sources:
   - https://en.wikipedia.org/wiki/Tolomato_Cemetery
+score: 7.5
 ---
 
 Tolomato Cemetery, on Cordova Street at the edge of the old town, is one of the oldest Catholic cemeteries in the United States and one of the most atmospheric in Florida. The graves date from the First Spanish Period through the mid-19th century, and the mix of Spanish, French, and Anglo-American names on the headstones tells the story of St. Augustine's complicated cultural history.

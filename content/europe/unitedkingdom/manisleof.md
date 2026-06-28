@@ -5,8 +5,14 @@ latitude: 54.2361
 loc_type: region
 longitude: -4.5481
 score: 0.58
+snippet: Self-governing Irish Sea island with Tynwald, rugged moorland, wooded glens,
+  castles, and Celtic crosses
 title: Isle of Man
 type: location
+image: manisleof.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isle_of_Man_Peel_Castle.jpg
+image_license: Public domain
+image_attribution: Finn Bjorklid
 ---
 
 The Isle of Man sits in the Irish Sea, roughly equidistant from England, Ireland, Scotland and Wales. It is a self-governing Crown dependency with its own parliament, Tynwald, which has been running continuously since 979 AD -- one of the oldest legislative bodies in the world.

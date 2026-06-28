@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -24.6750
 longitude: -56.4350
+score: 6.5
 ---
 
 The Jejuí river and its tributaries provide the best outdoor recreation within reach of Santaní. On weekends and through the summer months, local families descend on the sandy stretches known collectively as "la playa" for swimming, barbecues, and the quintessentially Paraguayan pastime of drinking tereré — cold yerba mate — in large groups under whatever shade is available.

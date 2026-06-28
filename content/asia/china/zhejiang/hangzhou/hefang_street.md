@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 30.2393
 longitude: 120.1661
+score: 7.3
 ---
 
 Qinghefang Old Street is the most atmospheric part of old Hangzhou — a pedestrian lane of Ming and Qing dynasty buildings that once formed the commercial heart of the imperial capital. The street runs for just over a kilometre and is lined with teahouses, traditional pharmacies, craft workshops, and snack stalls. It is genuinely historic, though the tourist overlay is heavy on weekends.

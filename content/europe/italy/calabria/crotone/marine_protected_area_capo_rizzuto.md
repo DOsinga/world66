@@ -16,6 +16,7 @@ story: >
   the colonies of Magna Graecia.
 sources:
   - https://en.wikipedia.org/wiki/Marine_Protected_Area_Capo_Rizzuto
+score: 8.2
 ---
 
 The Marine Protected Area of Capo Rizzuto stretches along the coast south of Crotone, taking in the headlands of Capo Colonna and Capo Rizzuto and the sea between them. The water here is exceptionally clear and the seabed is varied — rocky outcrops, sandy floors, and extensive Posidonia meadows that support abundant marine life. Grouper, sea bream, octopus, and eels are all common, and the posidonia beds shelter numerous species that have disappeared from other parts of the Mediterranean.

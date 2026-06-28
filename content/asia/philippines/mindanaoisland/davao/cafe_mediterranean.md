@@ -1,8 +1,12 @@
 ---
 address: G/F Chimes Specialty Store, Governor Sales St. Davao City
+latitude: 7.0761
+longitude: 125.6192
 phone: (082) 225-8997
+score: 5.6
 tags:
 - eating_out
+- restaurant
 - cafe
 title: Cafe Mediterranean
 type: poi

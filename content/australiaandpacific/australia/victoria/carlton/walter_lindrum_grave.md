@@ -9,6 +9,7 @@ longitude: 144.9682
 snippet: "The world billiards champion's tombstone, shaped like a billiards table"
 story: >
   Walter Lindrum held the world professional billiards championship from 1933 until his death in 1960, with a peak break of 4,137 points — a record never beaten. His Melbourne General Cemetery grave is carved as a full-size billiards table in white granite, with the balls, pockets and cue picked out in marble. Visitors leave coins on the cushions.
+score: 6.2
 ---
 
 Walter Lindrum was the dominant figure of world professional billiards from the late 1920s until his death — his break of 4,137 made in Sydney in 1932 has never been beaten and effectively killed the professional game by demonstrating that nobody else could compete. His funeral in Melbourne in 1960 was attended by tens of thousands.

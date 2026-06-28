@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9800
 longitude: 15.7307
+score: 6.5
 ---
 
 Maratea Porto is the small harbour at the foot of the coastal hills, the base for the fishing boats, the ferries, and the summer boat-trip operators who run excursions to the coast's best coves. The harbour front has a handful of seafood restaurants, a few bars with tables overlooking the water, and the practicalities of buying tickets for boat trips along the 30-kilometre coast.

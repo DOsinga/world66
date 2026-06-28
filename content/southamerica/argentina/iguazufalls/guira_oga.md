@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Wildlife rehabilitation centre for injured Misiones forest animals
+score: 6.3
 ---
 
 Güirá Oga — Guaraní for "house of birds" — is a wildlife rehabilitation centre on a 25-hectare plot of forest just outside Puerto Iguazú. It takes in injured and confiscated animals from the Misiones region, treats them, and returns to the wild whichever can survive. Those that can't — usually birds with permanent wing injuries, or mammals raised in captivity — stay on as residents.

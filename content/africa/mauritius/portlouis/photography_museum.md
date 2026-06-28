@@ -6,6 +6,7 @@ longitude: 57.5005
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 A small private museum tucked into an old colonial house on Rue du Vieux Conseil, near Place d'Armes. The collection covers the history of photography on the island from the 1840s — daguerreotypes, glass plates, vintage cameras, and a particularly good archive of street and portrait photography from the late colonial period.

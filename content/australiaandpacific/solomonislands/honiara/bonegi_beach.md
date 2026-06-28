@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -9.4700
 longitude: 159.8800
+score: 7.7
 ---
 
 About 12 kilometres west of Honiara, Bonegi Beach is one of the best easily accessible dive and snorkel sites near the capital. Just offshore lie two Japanese transport ships sunk during the Guadalcanal campaign — the Hirokawa Maru and the Kinugawa Maru — in shallow enough water to be partly visible from the surface.

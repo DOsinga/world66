@@ -6,6 +6,7 @@ tags:
 - sight
 title: Aalst Beguinage
 type: poi
+score: 6.6
 ---
 
 A short walk north of the Grote Markt, the former Beguinage (Begijnhof) is a small cluster of whitewashed houses around a central garden — typical of the Beguine communities that thrived across Flanders from the 13th century onward.

@@ -8,6 +8,7 @@ latitude: 29.0400
 longitude: 110.4850
 story: >
   The Tianmen Mountain Road was built specifically for a 2006 edition of the Tianmen Mountain Road Race, in which racing cars drove the 99-hairpin circuit at speed. The spectacle of modern cars navigating this mountain road — which reaches gradients of up to 60 degrees in places — was broadcast internationally and made the road famous. It is now marketed as a scenic bus route, which is a different experience but still a memorable one.
+score: 8.2
 ---
 
 The Tianmen Mountain Road winds up the mountain face in exactly 99 hairpin bends — a deliberate design choice, the number nine having auspicious resonance in Chinese culture. The road reaches from the lower approaches to near the mountain's rim, climbing through successive bands of forest, cliff, and cloud with views that open and close with each turn.

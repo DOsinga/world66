@@ -14,6 +14,7 @@ story: >
   forty-two years before English settlers reached Jamestown. The present
   building dates to 1797 under Spanish rule, making it one of the oldest
   Catholic churches in the country.
+score: 7.9
 ---
 
 The Cathedral Basilica of St. Augustine stands on Cathedral Place in the heart of the old city. Its origins reach back to the Spanish founding of the colony in 1565, and the current coquina stone building was constructed between 1793 and 1797, then rebuilt after a fire in 1887. Pope Paul VI elevated it to the status of minor basilica in 1976.

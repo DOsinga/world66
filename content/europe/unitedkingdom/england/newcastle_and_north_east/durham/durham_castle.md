@@ -9,6 +9,7 @@ latitude: 54.7749
 longitude: -1.5756
 story: >
   Durham Castle was built by William the Conqueror in 1072 as part of the Norman subjugation of the north. Since 1840 it has been entirely occupied by University College, Durham — the oldest college in the university — making it the longest continuously occupied castle in England. The students sleep in what was once the Bishop's Great Hall.
+score: 9.2
 ---
 
 Durham Castle faces the cathedral across Palace Green, forming part of the UNESCO World Heritage Site. It is a working university building — students live and eat here — which gives guided tours an unusual intimacy: you see the medieval keep, the 14th-century great hall, the Norman chapel, and the impressively carved Black Staircase alongside students' bicycles and notice boards. Tours run daily and are the only way to see inside.

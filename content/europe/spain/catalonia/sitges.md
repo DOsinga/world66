@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sitges_-_Ansicht_4.jpg
 latitude: 41.2371
 loc_type: city
 longitude: 1.8118
-score: 0.67
+score: 8.88
+snippet: Catalan seaside resort near Barcelona, shaped by modernista artists, whitewashed
+  lanes, and long sandy beaches.
 title: Sitges
 type: location
 ---

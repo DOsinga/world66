@@ -8,6 +8,7 @@ latitude: 50.5841
 longitude: 8.6773
 sources:
   - https://en.wikipedia.org/wiki/Theater_Gie%C3%9Fen
+score: 6.7
 ---
 
 The Theater Gießen is the main municipal theatre of the city, offering opera, drama, and dance productions in a purpose-built house that serves as a cultural anchor for both the city and the surrounding Middle Hessian region. The theatre has a reputation for adventurous programming relative to its size — it punches above its weight and regularly attracts productions of national interest.

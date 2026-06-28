@@ -4,16 +4,18 @@ done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: ventimiglia.jpg
+image_attribution: Alexkom000
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2024-09-22_Ventimiglia_Cathedral.jpg
 latitude: 43.791762
 loc_type: city
 longitude: 7.603313
-score: 0.53
+score: 7.88
+snippet: Westernmost Italian Riviera town at the French border, split between riverfront
+  flats and a medieval hill.
 title: Ventimiglia
 type: location
-image: ventimiglia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2024-09-22_Ventimiglia_Cathedral.jpg
-image_license: CC BY 4.0
-image_attribution: Alexkom000
 ---
 
 **Ventimiglia** is the westernmost town on the Italian Riviera — so close to France that its train station is the last stop before the border, and the cross-border French influence is felt everywhere, from the shops selling to French day-trippers to the bilingual street signs and the boulangeries on the main street. It sits at the mouth of the **Roja** river, between the limestone cliffs of the coast and the steep inland valleys that climb up into the Ligurian Alps.

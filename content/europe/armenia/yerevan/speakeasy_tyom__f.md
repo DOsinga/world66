@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Speakeasy Tyom & Friends
 type: poi
+score: 5.8
 ---
 
 A prohibition-era themed cocktail bar on Yerevan’s Northern Avenue, one of the city’s main promenades. The interior leans into 1920s Americana with vintage decor and jazz-age music. The cocktail list is extensive — classics done well alongside Armenian-inflected creations. Head bartender Tyom Khanchunts is a competition veteran who puts on a good show behind the bar.

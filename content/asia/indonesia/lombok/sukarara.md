@@ -4,6 +4,9 @@ done:
 latitude: -8.7333
 loc_type: city
 longitude: 116.2833
+score: 7.01
+snippet: Central Lombok weaving village where Sasak handloom cloth is still made in
+  household workshops.
 title: Sukarara
 type: location
 ---

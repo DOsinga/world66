@@ -8,6 +8,7 @@ latitude: -6.141
 longitude: 12.372
 sources:
   - https://en.wikipedia.org/wiki/Soyo_Airport
+score: 3.2
 ---
 
 Soyo Airport (IATA: SZA) handles regular flights on TAAG Angola Airlines connecting the city to Luanda. For most visitors, it is the most practical way to reach Soyo — the overland road from Luanda via Caxito involves roughly 360 kilometres of unpaved track that can become nearly impassable in the rainy season. The airport is basic but functional, and scheduled services run several times a week.

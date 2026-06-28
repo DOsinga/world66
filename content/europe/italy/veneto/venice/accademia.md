@@ -6,8 +6,8 @@ done:
 latitude: 45.4315
 longitude: 12.3281
 opening_hours: Mon 08:15–14:00; Tue–Sun 08:15–19:15
+score: 9.5
 snippet: Five centuries of Venetian painting, from Bellini to Canaletto
-neighbourhood: Dorsoduro
 tags:
 - things_to_do
 - dorsoduro

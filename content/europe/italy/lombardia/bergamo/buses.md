@@ -1,8 +1,9 @@
 ---
+score: 2.3
 tags:
 - getting_there
 title: Intercity Buses
-type: poi
+type: theme
 url: www.autostradale.it
 ---
 

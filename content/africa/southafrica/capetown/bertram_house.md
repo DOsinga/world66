@@ -1,8 +1,7 @@
 ---
-category: Museum
 latitude: -33.9314
 longitude: 18.4129
-neighbourhood: City Bowl
+score: 7.3
 scores:
   museum: 0.6307
 snippet: Last surviving Georgian-style brick house in central Cape Town

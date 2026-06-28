@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Business_at_Marikiti_Marke
 latitude: -0.6839
 loc_type: city
 longitude: 34.766
-score: 0.33
+score: 5.82
+snippet: Gusii Highlands market town in cool tea-and-coffee country, known for nearby
+  Tabaka soapstone carving.
 title: Kisii
 type: location
 ---

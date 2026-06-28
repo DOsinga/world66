@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.801491
 longitude: 122.974821
+score: 7.2
 ---
 
 The Angel Araneta Ledesma Ancestral House is one of the better-preserved examples of the late nineteenth-century sugar-boom mansions that line the streets of the heritage district. The two-storey structure uses narra and molave hardwood for its interior, while the facade combines European-influenced masonry on the ground floor with a traditional Filipino wood-and-capiz upper storey.

@@ -16,6 +16,7 @@ tags:
   - fort
 title: Bhatner Fort
 type: poi
+score: 6.8
 ---
 
 Bhatner Fort is one of the oldest forts in India, believed to date to the 3rd century AD, though the current structure reflects centuries of rebuilding and repair. It stands on a slight elevation above the Ghaggar river at the edge of Hanumangarh town, its brick walls and bastions still largely intact. The fort was a significant stronghold on the medieval trade and invasion routes between Multan and Delhi, and its strategic position on the Ghaggar explains why it was fought over so persistently.

@@ -9,6 +9,7 @@ tags:
 title: Old Dutch Hospital
 type: poi
 neighbourhood: Fort
+score: 7.5
 ---
 
 The Old Dutch Hospital in the Fort district is the oldest colonial building in Colombo still standing, built around 1681 when this was the Dutch East India Company's headquarters. The long arcaded building with thick whitewashed walls and a central courtyard has been beautifully restored and now houses restaurants, boutiques, and a jewellery market. It is the most pleasant shopping and dining environment in the Fort area.

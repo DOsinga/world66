@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, slovak_cuisine, stare_mesto]
 latitude: 48.1427
 longitude: 17.1045
+score: 6.6
 ---
 
 Modrá Hviezda (Blue Star) is one of the best traditional Slovak restaurants in Bratislava, located in a cellar on Bebravská Street below the castle hill. The menu focuses on Slovak cuisine: bryndzové halušky (potato dumplings with sheep cheese), kapustnica soup, roast duck with red cabbage and knedlíky, and a selection of Slovak wines and beers. The setting — vaulted stone cellar, candlelit tables, unhurried service — is appropriate for the food.

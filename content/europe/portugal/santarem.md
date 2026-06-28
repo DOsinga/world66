@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Santarem1.jpg
 latitude: 39.2364
 loc_type: city
 longitude: -8.6867
-score: 0.5
+score: 7.55
+snippet: Central Portuguese city above the Tagus River, known for Gothic churches
+  and royal history.
 title: Santarém
 type: location
 ---

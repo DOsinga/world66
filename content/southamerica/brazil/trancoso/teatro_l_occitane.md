@@ -7,6 +7,7 @@ tags:
 - theatre
 title: Teatro L'Occitane
 type: poi
+score: 6.4
 ---
 
 Teatro L'Occitane is the surprise in the countryside south of Trancoso: a striking open-sided performance space built for concerts and cultural events. It feels far more ambitious than you expect from a beach village.

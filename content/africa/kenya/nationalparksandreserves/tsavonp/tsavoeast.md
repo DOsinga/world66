@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -2.842033
+loc_type: feature
 longitude: 38.818984
+score: 8.62
+snippet: Kenyan savanna park of red plains, elephant herds, and wide skies along the
+  Galana River.
 title: Tsavo East
 type: location
-score: 0.64
-loc_type: feature
+image: tsavoeast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mudanda_Rock_in_Tsavo_East_National_Park_(edited).jpg
+image_license: CC BY 3.0
+image_attribution: CT Cooper
 ---
 
 Tsavo East is the open, elemental half of Kenya's largest national park — flat red plains stretching in every direction, enormous herds of elephant, and skies that seem twice as wide as anywhere else in Africa. Where [Tsavo West](/africa/kenya/nationalparksandreserves/tsavonp/tsavowest) has drama and topography, the East has scale and silence.

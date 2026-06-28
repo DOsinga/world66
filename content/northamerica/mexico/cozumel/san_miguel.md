@@ -6,6 +6,7 @@ longitude: -86.9493
 tags:
   - things_to_do
   - neighbourhood
+score: 7.2
 ---
 
 San Miguel is the only town on the island and where almost everything happens — the cruise piers, the dive shops, the restaurants, the central plaza. The waterfront promenade (the Malecón) runs for several kilometres along the western shore, lined with restaurants and souvenir shops aimed squarely at day-trippers from the ships.

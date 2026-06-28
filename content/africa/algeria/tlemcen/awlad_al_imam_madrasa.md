@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.8814
 longitude: -1.3133
+score: 7.6
 ---
 
 In the heart of the medina, the Awlad al-Imam complex is a Zayyanid madrasa founded in the early fourteenth century by Sultan Abu Hammu Musa I for the sons of an esteemed scholar (the imam of the title). It is a small, intimate building organised around a central courtyard with student cells on two levels, faced with carved plaster panels and zellij dado tiles.

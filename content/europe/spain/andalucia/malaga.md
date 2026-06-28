@@ -11,8 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Malaga_ist_eine_lebendi
 latitude: 36.7213
 loc_type: city
 longitude: -4.4214
-score: 0.73
+score: 8.99
 title: Malaga
+snippet: Costa del Sol port city with Moorish fortresses, Picasso roots, and a revived
+  Mediterranean waterfront.
 type: location
 ---
 

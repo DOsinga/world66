@@ -9,6 +9,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.8
 ---
 
 **On Plonge** ("we dive") is a Constanța classic — a no-frills fish restaurant in the harbour area where the daily catch comes off the boats and onto the grill within a few hours. The menu is short, scribbled on a board, and reads roughly: whatever was caught this morning, plus a salad and a glass of Tămâioasă Românească.

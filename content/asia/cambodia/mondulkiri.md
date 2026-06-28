@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Chrey_Thom_Waterfall_Mondu
 latitude: 12.4558
 loc_type: region
 longitude: 107.1881
+snippet: Northeastern Cambodian highland province of rolling hills, waterfalls, pine
+  forests, and Bunong elephant traditions.
 sources:
 - https://en.wikipedia.org/wiki/Mondulkiri_Province
 title: Mondulkiri

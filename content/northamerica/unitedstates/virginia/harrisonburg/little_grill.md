@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Little Grill Collective
 type: poi
+score: 6.8
 ---
 
 The Little Grill Collective is a worker-owned cooperative restaurant that has operated in Harrisonburg since the 1940s (under various names and ownership). The current co-op model dates from the 1990s and the restaurant has become one of the city's most beloved institutions — a vinyl-booth diner with a counter, good coffee, and a menu that leans vegetarian and vegan while satisfying the unreconstructed meat-eater contingent.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cruceiro_Ourense_Galiza.jp
 latitude: 41.9468
 loc_type: city
 longitude: -7.4491
-score: 0.49
+score: 7.02
+snippet: Galician wine comarca on the Portuguese border, centred on Verín and the
+  Tamega valley
 title: Monterrei
 type: location
 ---

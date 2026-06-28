@@ -8,6 +8,7 @@ tags:
   - museum
 latitude: 35.9005
 longitude: 14.5128
+score: 7.1
 ---
 
 The Auberge de Provence is one of the best-preserved of the eight auberges built in Valletta for the various national langues of the Knights of St John. Completed in 1571, it now houses the National Museum of Archaeology, which is the most practical reason to visit — but the building itself is worth attention. The facade on Republic Street is an accomplished piece of Baroque architecture, with a well-proportioned entrance and carved stone detailing, and the main Great Hall inside, with its 17th-century painted wooden ceiling, is impressive even stripped of its original furnishings.

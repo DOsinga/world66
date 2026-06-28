@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A waterfall that disappears into an underground cave system
 story: "Local legend says the falls are named after a Swiss woman, 'Devi' or 'Davis', who was swept away while bathing in 1961, only emerging downstream as a body. The Pardi Khola here vanishes underground at the foot of the falls and re-emerges over a kilometre away, making the cave system a karst hydrologist's delight."
+score: 6.7
 ---
 
 The Pardi Khola, a small river draining Phewa Lake, plunges 30 metres into a sinkhole and disappears into a limestone cave system on the southern edge of Pokhara — one of the more dramatic geological oddities in the city. The viewing platforms get you close to the lip; in the monsoon (June to September) the volume is impressive, in the dry season it's a more modest trickle.

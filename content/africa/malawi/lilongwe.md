@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lilongwe,_Malawi_-_Flickr.
 latitude: -13.9626
 loc_type: city
 longitude: 33.7741
-score: 0.37
+score: 6.27
+snippet: Malawian capital split between planned government avenues and the busy markets
+  of Old Town.
 title: Lilongwe
 type: location
 ---

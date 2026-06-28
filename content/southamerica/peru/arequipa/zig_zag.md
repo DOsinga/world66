@@ -10,6 +10,7 @@ tags:
 title: Zig Zag
 type: poi
 url: zigzagrestaurant.com
+score: 6.4
 ---
 
 Zig Zag has occupied a beautifully restored two-storey colonial house just behind San Francisco for over twenty years. The interior is all whitewashed sillar vaults, exposed stone walls, and dim candlelight. The kitchen specialises in meats grilled tableside on slabs of volcanic stone heated to a furious temperature — alpaca, beef, ostrich, chicken, even ostrich-and-alpaca combos. The crackling presentation lives up to the gimmick.

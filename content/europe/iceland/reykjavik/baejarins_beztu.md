@@ -9,6 +9,7 @@ tags:
   - restaurant
 snippet: The famous hot-dog stand by the harbour, open since 1937
 story: "Bill Clinton bought a hot dog here in 2004 with only mustard, which the locals found so under-equipped that 'a Clinton' became Reykjavik shorthand for a plain pylsa for years afterward."
+score: 6.9
 ---
 
 A small white cabin by the harbour that has been serving lamb-and-pork hot dogs since 1937. The standing order — "eina með öllu" (one with everything) — comes with crispy fried onions, raw white onions, sweet brown mustard, ketchup, and remoulade, all on a steamed bun, for around 700 ISK.

@@ -8,6 +8,7 @@ tags:
 latitude: 61.4808
 longitude: -6.7463
 story: "Porkeri Church was built in 1847, replacing an older turf church on the same site. The wooden construction with turf roof follows a pattern found across the Faroe Islands — a style maintained not for nostalgia but because wood was scarce and local turf was free, warm, and waterproof. Most such churches were built by the same small pool of Faroese craftsmen."
+score: 6.8
 ---
 
 The church at Porkeri is a fine example of traditional Faroese church architecture: a small wooden building with a turf roof, painted dark and set against the green hillside in the way these buildings always are — modest but unmistakably deliberate. Built in 1847, it is well maintained and still used for services.

@@ -2,9 +2,11 @@
 address: 88 Queensway, Admiralty
 latitude: 22.278
 longitude: 114.1653
+score: 4.9
 snippet: Upscale mall connected to Admiralty MTR with Lane Crawford
 tags:
 - hongkongisland
+- central
 - shopping
 title: Pacific Place
 type: poi

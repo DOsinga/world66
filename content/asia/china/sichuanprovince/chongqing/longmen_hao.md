@@ -9,6 +9,7 @@ latitude: 29.5625
 longitude: 106.5285
 story: >
   Longmen Hao is a surviving stretch of the stone-paved alleys and stilted wooden houses that once covered the hillsides of Chongqing before concrete took over. Most of the city's traditional architecture was demolished during the rapid development of the 1990s and 2000s; Longmen Hao is one of the few areas where the old urban fabric survives in a form that gives some sense of what pre-modern Chongqing looked like.
+score: 8.3
 ---
 
 Longmen Hao is a preserved neighbourhood of traditional Chongqing wooden architecture clinging to the hillside below Jiefangbei. The narrow stone alleys, stilted houses (吊脚楼, diào jiǎo lóu), and old city walls date to the Ming and Qing dynasties, and have survived largely because the steep terrain made redevelopment difficult.

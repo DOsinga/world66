@@ -8,6 +8,7 @@ tags:
 - sight
 - railway
 - transport
+score: 6.3
 ---
 
 Bibala Railway Station is the reason the town exists in its modern form. The settlement grew with the Mocamedes railway, which pushed inland from the coast and made this dry plateau town part of a wider southern transport corridor.

@@ -3,11 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 30.0362
 longitude: 31.2604
+score: 6.4
 snippet: tiled Ottoman mosque in the atmospheric medieval quarter of Bab Zuweila
 tags:
 - things_to_do
 - sight
 - architecture
+- islamic_cairo
 title: Blue Mosque
 type: poi
 ---

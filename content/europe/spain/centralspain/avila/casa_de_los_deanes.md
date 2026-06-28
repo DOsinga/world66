@@ -17,6 +17,7 @@ tags:
 - sight
 title: Ávila Renaissance Palaces
 type: poi
+score: 7.7
 ---
 
 The streets inside the walls of Ávila contain a concentration of 15th and 16th-century noble palaces that are among the finest secular Renaissance architecture in Castile. The most notable are the Palacio de los Dávila, the Casa de los Guzmanes, and the Palacio de Polentinos — each featuring the characteristic Castilian combination of a defensive corner tower (inherited from the medieval tradition) and an elegant Renaissance courtyard within. The carved stone detailing on the portals and window surrounds shows the influence of Plateresque decoration, the distinctively Spanish style that emerged when Italian Renaissance forms were filtered through the local tradition of intricate stonework.

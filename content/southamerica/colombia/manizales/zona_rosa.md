@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - bars_and_cafes
   - neighbourhood
+score: 6.2
 ---
 
 The Zona Rosa, locally known as 'Cable' after the surviving cableway tower at its centre, is Manizales' main nightlife and dining district. The streets around Avenida Santander host the city's busiest concentration of bars, clubs, and restaurants, with a student-driven energy thanks to the proximity of the National University and the University of Caldas.

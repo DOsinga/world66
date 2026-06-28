@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.1039
 longitude: -84.1188
+score: 8.8
 ---
 
 The Museum of Appalachia sits about 16 miles north of downtown Knoxville in the town of Norris, and the drive is worth making. Founded by John Rice Irwin and opened in 1969, it is one of the most remarkable folk museums in America — a 35-acre open-air complex of authentic log cabins, barns, and outbuildings moved from across Appalachia, furnished with thousands of original artefacts.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Durham,_United_States_(Uns
 latitude: 35.996653
 loc_type: city
 longitude: -78.901805
-score: 0.45
+score: 6.96
+snippet: Research Triangle city remade from tobacco warehouses by Duke University,
+  food culture, and downtown revival.
 title: Durham
 type: location
 ---

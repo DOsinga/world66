@@ -8,6 +8,7 @@ latitude: 32.9
 longitude: 21.963
 sources:
   - https://slsgazetteer.org/932/
+score: 6.6
 ---
 
 The Apollonia Museum in Susa is small but useful, especially if you are trying to make sense of the site before walking through the ruins. It has displayed finds from the excavations, including architectural pieces and material from the ancient city.

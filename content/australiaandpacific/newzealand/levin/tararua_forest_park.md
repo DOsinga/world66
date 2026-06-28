@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - hiking
   - nature
+score: 7.7
 ---
 
 The Tararua Forest Park covers most of the steep, beech-clad range east of Levin and extends south to Wellington. The Levin side of the range has a couple of good day-walk entry points — most usefully Poads Road, about 15 kilometres east of town, where short tracks lead to swimming holes on the Ohau River and the start of the longer climbs to Yeates Track Hut and beyond.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.224
 longitude: -3.73
+score: 8.8
 ---
 
 The East Lyn River cuts a steep, wooded gorge through northern Exmoor from Malmsmead to Watersmeet and on to Lynmouth at the coast. Walking the valley from Brendon is one of the finest half-day walks in southwest England: the path follows the river through ancient oak woodland, past waterfalls, and over stone footbridges, with views up to open moorland above.

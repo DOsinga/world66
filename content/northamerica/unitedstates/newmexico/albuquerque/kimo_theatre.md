@@ -16,6 +16,7 @@ story: >
   elements to create an entirely new architectural style. When it opened in 1927, local
   newspaper reviews marvelled at the decorative skulls on the balcony — a deliberately
   American Southwest take on the typical Art Deco motifs.
+score: 8.0
 ---
 
 The KiMo Theatre is Albuquerque's most distinctive building, a 1927 movie palace in a style that could only exist in New Mexico: Pueblo Deco, blending Art Deco geometry with Native American and Pueblo Revival imagery. The facade is a riot of terracotta tiles, Pueblo geometric patterns, and decorative bison skulls. Inside, the auditorium ceiling is painted with Native American motifs, and the walls incorporate traditional design elements throughout.

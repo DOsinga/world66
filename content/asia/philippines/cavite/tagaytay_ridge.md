@@ -13,6 +13,7 @@ story: >
   volcano caldera. When Taal erupted in January 2020, sending ash across Metro
   Manila and triggering mass evacuations, it was a reminder that the beautiful
   landscape has a violent underpinning.
+score: 7.9
 ---
 
 Tagaytay is a ridge city at about 700 metres elevation on the rim of the ancient Taal Caldera, about an hour's drive south of Manila. From the ridge you look down into Taal Lake, and in the middle of the lake sits Taal Volcano island, which still smokes and is active. The view is one of the most striking in the Philippines: a volcano in a lake in a crater, layered against the sky.

@@ -14,6 +14,7 @@ tags:
 - museum
 title: Museum Speelklok
 type: poi
+score: 8.0
 ---
 
 Dedicated to self-playing musical instruments — music boxes, street organs, pianolas, carillons. Staff demonstrate the machines throughout the day, and the sound of an antique dance organ cranking into life in the main hall is unlike anything else in the city. Housed in a former church just off the Oude Gracht.

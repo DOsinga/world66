@@ -5,10 +5,12 @@ done:
 latitude: 43.7752
 longitude: 11.2528
 phone: +39 055 2388602
+score: 8.6
 snippet: Michelangelo's tomb sculptures and a chapel dripping in marble
 tags:
 - things_to_do
 - church
+- san_lorenzo_quarter
 title: Cappelle Medicee
 type: poi
 ---

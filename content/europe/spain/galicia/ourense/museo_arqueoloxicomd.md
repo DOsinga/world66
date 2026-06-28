@@ -1,4 +1,7 @@
 ---
+latitude: 42.3355
+longitude: -7.8637
+score: 7.3
 snippet: The provincial archaeological museum, with Galician-Roman and medieval collections
 tags:
 - things_to_do

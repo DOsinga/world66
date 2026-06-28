@@ -1,0 +1,200 @@
+{
+  "round": 2931,
+  "timestamp": "2026-06-13T22:17:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 8.3659,
+      "prior_variance": 0.272072,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Yangshuo",
+      "path": "asia/china/guangxi/yangshuo",
+      "prior_score": 8.622,
+      "prior_variance": 0.250491,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_score": 8.62,
+      "prior_variance": 0.288171,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Volcanoes National Park",
+      "path": "africa/rwanda/volcanoesnationalpark",
+      "prior_score": 6.6385,
+      "prior_variance": 0.242823,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 8.8431,
+      "prior_variance": 0.253002,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 8.2196,
+      "prior_variance": 0.256961,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 4.8558,
+      "prior_variance": 0.147233,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 7.0479,
+      "prior_variance": 0.174534,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 5.331,
+      "prior_variance": 0.152532,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 5.4739,
+      "prior_variance": 0.224208,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 4.8099,
+      "prior_variance": 0.180616,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 4.5013,
+      "prior_variance": 0.166784,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 3.8798,
+      "prior_variance": 0.161117,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 5.7261,
+      "prior_variance": 0.160559,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_score": 4.5354,
+      "prior_variance": 0.151223,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 4.5425,
+      "prior_variance": 0.163611,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 3.1079,
+      "prior_variance": 0.214552,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": -0.5985,
+      "prior_variance": 0.142699,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 2.2456,
+      "prior_variance": 0.33119,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.3526,
+      "prior_variance": 0.138502,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": 0.0993,
+      "prior_variance": 0.141194,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": -0.6688,
+      "prior_variance": 0.149333,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -1.4108,
+      "prior_variance": 0.135297,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -9.2112,
+      "prior_variance": 0.322563,
+      "prior_n": 9
+    }
+  ]
+}

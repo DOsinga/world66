@@ -8,6 +8,7 @@ tags:
 - sight
 - historic_site
 - temple
+score: 6.8
 ---
 
 The Ganesha Ratha is a small monolithic temple in the town centre of Mahabalipuram, separate from the main monument complex. Unlike the Pancha Rathas at the southern end of town, this ratha is still actively used as a place of worship — the Ganesha image inside receives daily puja, and the structure feels more alive than its archaeologically managed counterparts nearby.

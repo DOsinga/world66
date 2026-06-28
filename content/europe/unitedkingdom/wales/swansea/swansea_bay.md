@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.5994
 longitude: -3.9700
+score: 8.7
 ---
 
 The five-mile sweep of Swansea Bay, from the docks at the east to the headland at Mumbles in the west, is one of the great urban beaches of Britain. The sand is firm and flat at low tide, the water shallow and (when the sun cooperates) inviting for a swim.

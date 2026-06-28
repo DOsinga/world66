@@ -14,6 +14,7 @@ story: >
   Roman seating banks without realising it. Today the theatre hosts the annual
   Nuits de Fourvière festival, meaning Roman audiences and 21st-century concert-goers
   have sat in essentially the same spot for 2,000 years.
+score: 8.9
 ---
 
 On the slopes of Fourvière, just below the basilica, lie two remarkably intact ancient Roman theatres: the Grand Théâtre, built around 15 BCE and one of the oldest in France, and the smaller Odéon beside it, used for music and poetry recitals. Both were part of the Roman colony of Lugdunum and could together seat around 13,000 people.

@@ -8,6 +8,7 @@ latitude: 53.1370
 longitude: -3.7950
 sources:
   - https://en.wikipedia.org/wiki/Conwy_Valley_line
+score: 7.7
 ---
 
 The Conwy Valley line runs south from Llandudno Junction through Conwy and up the river valley to Betws-y-Coed and Blaenau Ffestiniog — a 27-mile route through some of the most scenic countryside in Wales. The railway was built in stages between 1863 and 1879 and has somehow survived every rail rationalisation since.

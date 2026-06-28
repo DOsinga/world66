@@ -16,6 +16,7 @@ story: >
   works. For an Irish provincial city, the collection is extraordinary.
 sources:
   - https://en.wikipedia.org/wiki/Armagh_Robinson_Library
+score: 8.6
 ---
 
 The Robinson Library was founded in 1771 by Archbishop Richard Robinson — sensing a theme — making it Ireland's oldest public library in continuous use. The building, a quiet Georgian structure near the Church of Ireland cathedral, houses a remarkable collection of manuscripts, early printed books, and maps accumulated over 250 years.

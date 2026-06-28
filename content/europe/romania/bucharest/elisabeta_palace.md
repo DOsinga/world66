@@ -1,13 +1,14 @@
 ---
 address: Șoseaua Kiseleff 28, Bucharest
 latitude: 44.4708
-loc_type: feature
 longitude: 26.0797
+score: 5.5
 snippet: 1930s royal residence on the edge of Herăstrău Park
 tags:
 - things_to_do
 - sight
 title: Elisabeta Palace
+type: poi
 ---
 
 A modest 1930s royal residence on Șoseaua Kiseleff, built for Princess Elisabeta of Romania, sister of King Carol II. Set in its own enclosed park immediately south of Herăstrău, the white neoromanian villa is more domestic than monumental — by the standards of European royal palaces it almost looks suburban.

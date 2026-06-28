@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.887
 longitude: -109.906
+score: 6.1
 ---
 
 Medano Beach is the main swimming beach in Cabo San Lucas, a curving arc of sand along the Gulf side of the marina that is the only beach in town with calm, swimmable water. The Pacific-facing beaches are too rough for safe swimming, so this two-kilometre stretch carries all the beach-resort business: sun loungers, jet skis, banana boats, cold-beer vendors, and beach bars that crank up the music from midmorning.

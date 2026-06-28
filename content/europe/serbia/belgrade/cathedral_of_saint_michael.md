@@ -13,6 +13,7 @@ story: >
   national pantheon for the Serbian royal dynasty. Prince Miloš Obrenović and
   his descendants are buried within, alongside relics of medieval princes and
   the remains of several Karadjordjevic rulers.
+score: 7.7
 ---
 
 The Cathedral Church of Saint Archangel Michael — known simply as the Saborna Crkva — is the most important Orthodox church in Belgrade and the seat of the Serbian Patriarch. The neoclassical building on Knez Mihailova was constructed between 1837 and 1840, designed to serve the newly autonomous Serbian Principality's need for a dignified national church. The interior is richly decorated with frescoes and gilded iconostasis.

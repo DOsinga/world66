@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 63.3372
 longitude: -142.9700
+score: 4.8
 ---
 
 A small park beside the Alaska Highway dedicated to long-distance motorcyclists, with picnic tables, a roofed shelter, and walls covered in stickers and signatures from riders who have made it this far north. It is a self-service tradition: pull in, leave your mark, take a photo with your bike, and keep going.

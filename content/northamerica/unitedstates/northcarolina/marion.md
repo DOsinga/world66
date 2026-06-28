@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-28'
 latitude: 35.684167
 loc_type: city
+snippet: North Carolina mountain town near Pisgah National Forest, with a small Main
+  Street and local arts scene.
 longitude: -82.009167
-score: 0.34
+score: 5.96
 title: Marion
 type: location
 ---

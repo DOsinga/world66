@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Snowmass_Village.JPG
 latitude: 39.213042
 loc_type: city
 longitude: -106.937821
-score: 0.59
+score: 8.35
+snippet: Elk Mountains resort village near Aspen, built around big ski terrain and
+  summer alpine trails.
 title: Snowmass Village
 type: location
 ---

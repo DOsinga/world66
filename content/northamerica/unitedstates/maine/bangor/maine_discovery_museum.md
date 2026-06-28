@@ -8,6 +8,7 @@ story: >
   The museum occupies a former department store building in downtown Bangor — fitting,
   since the founders wanted a children's attraction that would bring families back to
   the downtown core rather than out to suburban malls.
+score: 5.5
 ---
 
 The Maine Discovery Museum is Maine's largest children's museum, filling three floors of a downtown building with hands-on exhibits designed for children up to about 12 years old. The exhibits cover science, natural history, Maine culture, and creative play — there are climbing structures, a nature exhibit featuring Maine animals and ecosystems, and rotating temporary exhibits.

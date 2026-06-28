@@ -9,6 +9,7 @@ tags:
   - church
 snippet: The town's main church on the south side of the plaza
 story: "The original 1545 church was demolished and rebuilt in 1706 after a notorious episode the Yucatecans still call the *Crimen de los Alcaldes* — a political murder committed inside the sanctuary that the bishop ruled had so polluted the building that only complete reconstruction would do. As penance, the new cathedral was rotated to face north instead of west, which is why it sits oddly against the plaza grid today."
+score: 6.7
 ---
 
 The cathedral dominates the south side of Valladolid's main plaza. Its plain, fortress-like white facade is typical of early Yucatecan colonial churches — built to double as a stronghold in the unsettled decades after the Spanish conquest. Two squat bell towers flank a simple pediment; inside, the nave is high, cool, and almost bare except for a Baroque retablo above the main altar.

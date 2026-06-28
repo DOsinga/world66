@@ -5,10 +5,11 @@ done:
 latitude: 45.4801
 longitude: 9.1797
 opening_hours: Mon–Sat 09:00–14:00, 17:00–21:00; closed Sun
+score: 7.3
 snippet: Family-run wine bar in Chinatown with superb Lombard wines by the glass
 tags:
-  - bars_and_cafes
-  - bar
+- bars_and_cafes
+- bar
 title: Cantine Isola
 type: poi
 ---

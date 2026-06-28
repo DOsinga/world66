@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, square]
 latitude: 32.0729
 longitude: 34.7805
+score: 7.3
 ---
 
 Habima Square is the cultural anchor at the northern end of Rothschild Boulevard, occupied on three sides by the Habima Theatre (Israel's national theatre), the Charles Bronfman Auditorium (home of the Israel Philharmonic), and the Helena Rubinstein Pavilion of the Tel Aviv Museum of Art.

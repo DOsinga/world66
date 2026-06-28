@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.8875
 longitude: 14.5208
+score: 8.1
 ---
 
 The Malta Maritime Museum occupies the old naval bakery building at the waterfront — a vast, elegant structure built by the Knights in the eighteenth century to supply bread to the fleet. The collection inside is one of the more engaging in Malta: ship models, navigational instruments, figureheads, cannons, and an extraordinary display of decorated rowing galleys that gives a vivid sense of the naval power that the Knights of St. John wielded at the height of their influence.

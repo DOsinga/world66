@@ -10,6 +10,7 @@ type: poi
 story: "Santa Tereza is the birthplace of the Clube da Esquina ('Corner Club') — the loose musical movement of the late 1960s and 70s around Milton Nascimento, Lô Borges, and the Borges brothers that reshaped Brazilian popular music. The exact street corner, on Rua Divinópolis, is now marked with a small monument."
 title: Santa Tereza
 type: poi
+score: 8.1
 ---
 
 Santa Tereza is a hilly older neighbourhood on the northern edge of the centre, built up in the 1920s and 30s as a streetcar suburb and quietly preserved ever since. The houses are low, the streets are narrow, and the corner bars — botecos — open onto the pavement with cheap beer, salt cod fritters, and people sitting around on white plastic chairs.

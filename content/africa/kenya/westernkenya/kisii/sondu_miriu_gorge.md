@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.0
 ---
 
 The Sondu Miriu river drops off the western edge of the Gusii Highlands in a steep gorge that has been partly tamed by a hydroelectric scheme but still offers some of the best river scenery in this part of Kenya. The dam, completed in 2008, supplies a sizeable share of western Kenya's electricity.

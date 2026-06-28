@@ -8,6 +8,7 @@ story: >
   Among the petroglyphs is a Latin inscription left by soldiers of the XII Fulminata Legion during Trajan's Caucasian campaigns around 96–98 AD. The inscription was discovered in 1948 and records the name of the Roman emperor and the legion's commander. It is one of the easternmost pieces of Roman epigraphy ever found, and its presence here — on a stone in what is now Azerbaijan — is a vivid reminder of how far Rome's reach extended.
 sources:
   - https://en.wikipedia.org/wiki/Gobustan_State_Historical_and_Cultural_Reserve
+score: 9.1
 ---
 
 The Gobustan State Historical and Cultural Reserve protects over 6,000 rock engravings spread across three sites in a landscape of sandstone boulders and ravines. The petroglyphs span an enormous period — from the Upper Palaeolithic (around 12,000 BC) to the medieval era — and depict hunting scenes, ritual dances, boats, bulls, humans, and constellations. The oldest engravings are among the earliest evidence of human artistic activity in the South Caucasus.

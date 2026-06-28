@@ -12,6 +12,7 @@ story: >
   a Blackfoot camp in the valley; the Blackfoot, though outnumbered, were armed with rifles obtained 
   from Fort Whoop-Up traders, and they routed the attack. Estimates of the dead range from 200 to 
   600 — a catastrophic loss that permanently ended Cree expansion into Blackfoot territory.
+score: 7.9
 ---
 
 Indian Battle Park occupies the floor of the Oldman River valley below downtown Lethbridge, a 150-acre green space that combines walking trails with one of the more significant historical sites on the Canadian prairies. The valley walls rise steeply on both sides, the river winds through cottonwoods and willows, and the High Level Bridge towers overhead — the contrast between the industrial scale of the bridge and the quiet valley floor is one of the more striking things about Lethbridge.

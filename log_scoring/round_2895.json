@@ -1,0 +1,200 @@
+{
+  "round": 2895,
+  "timestamp": "2026-06-13T22:14:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.2836,
+      "prior_variance": 0.164593,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_score": -4.1213,
+      "prior_variance": 0.307245,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -4.608,
+      "prior_variance": 0.187878,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 1.037,
+      "prior_variance": 0.170328,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -2.1827,
+      "prior_variance": 0.145089,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -3.2468,
+      "prior_variance": 0.154244,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -5.2264,
+      "prior_variance": 0.167303,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -6.2368,
+      "prior_variance": 0.190605,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -3.6345,
+      "prior_variance": 0.139808,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.8637,
+      "prior_variance": 0.223611,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Dingzhou",
+      "path": "asia/china/hebei/dingzhou",
+      "prior_score": -5.792,
+      "prior_variance": 0.180604,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -8.0859,
+      "prior_variance": 0.271907,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -6.9258,
+      "prior_variance": 0.211682,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -6.151,
+      "prior_variance": 0.168093,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -6.2399,
+      "prior_variance": 0.209079,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -5.7384,
+      "prior_variance": 0.151168,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -8.2498,
+      "prior_variance": 0.480816,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -6.0293,
+      "prior_variance": 0.171055,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -7.7881,
+      "prior_variance": 0.243913,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -6.0066,
+      "prior_variance": 0.171141,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -6.2506,
+      "prior_variance": 0.183135,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -7.2379,
+      "prior_variance": 0.226059,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.2073,
+      "prior_variance": 0.248853,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -4.4919,
+      "prior_variance": 0.140295,
+      "prior_n": 9
+    }
+  ]
+}

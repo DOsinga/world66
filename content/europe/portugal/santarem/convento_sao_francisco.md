@@ -15,6 +15,7 @@ story: >
   religious orders, the convent buildings were converted to various secular uses. Part of the
   complex became Santarém's bullring — an incongruous but distinctly Portuguese outcome for
   a medieval royal mausoleum.
+score: 7.5
 ---
 
 The Convento de São Francisco is one of the oldest and historically most significant buildings in Santarém. Founded in 1242 by King Sancho II, it served as a royal pantheon for several generations of Portuguese kings and contained many important medieval tombs, several of which were later moved to Lisbon's Mosteiro dos Jerónimos.

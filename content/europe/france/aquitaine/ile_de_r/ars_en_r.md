@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ars-en-Re-chenal-avant-por
 latitude: 46.208056
 loc_type: city
 longitude: -1.515833
-score: 0.61
+score: 8.48
+snippet: Île de Ré harbour village marked by a black-and-white church steeple above
+  salt marshes.
 title: Ars-en-Ré
 type: location
 ---

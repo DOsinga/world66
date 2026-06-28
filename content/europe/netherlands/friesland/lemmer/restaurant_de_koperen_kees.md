@@ -6,6 +6,7 @@ longitude: 5.7100
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 De Koperen Kees occupies an old warehouse on the Schulpen with a terrace that runs along the harbour. The kitchen does updated Dutch — local fish, including smoked eel and pan-fried zander, alongside good steaks and a daily three-course menu (around €40).

@@ -11,6 +11,7 @@ tags:
 - archaeology
 title: Tauriana
 type: poi
+score: 6.5
 ---
 
 Tauriana, also called Taureana, is the ancient site north of modern Palmi. It is not a polished archaeological park on the scale of southern Italy's famous Greek ruins, but it adds historical depth to a coast better known for views and beaches.

@@ -1,14 +1,17 @@
 ---
-title: "PGE Narodowy (National Stadium)"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 52.2394
 longitude: 21.0456
-snippet: "Poland's national football stadium, built on the site of the legendary 10th-Anniversary Stadium"
+score: 6.0
+snippet: Poland's national football stadium, built on the site of the legendary 10th-Anniversary
+  Stadium
 sources:
-  - https://en.wikipedia.org/wiki/Stadion_Narodowy
+- https://en.wikipedia.org/wiki/Stadion_Narodowy
+tags:
+- things_to_do
+- praga_district
+- sight
+title: PGE Narodowy (National Stadium)
+type: poi
 ---
 
 The PGE Narodowy is Poland's national football stadium, opened in 2012 for the UEFA European Championships co-hosted by Poland and Ukraine. It holds 58,580 spectators and sits on the east bank of the Vistula, near the Poniatowski Bridge. Its wavy red-and-white exterior references the colours of the Polish flag. The site was previously occupied by the legendary 10th-Anniversary Stadium — a huge earth mound stadium built in 1955 from the rubble of the destroyed city.

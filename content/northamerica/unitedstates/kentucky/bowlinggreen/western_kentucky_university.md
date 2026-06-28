@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.9836
 longitude: -86.4575
+score: 7.1
 ---
 
 WKU occupies a dramatic hilltop above downtown Bowling Green, and the campus itself is worth a walk. The Hill — as WKU is universally known — rises about 230 feet above the city, with the original 1910s red-brick buildings at its crown and views extending over the surrounding countryside. Henry Hardin Cherry Hall, the domed centrepiece, is the university's most recognisable landmark and one of the few neo-Georgian buildings in Kentucky on this scale.

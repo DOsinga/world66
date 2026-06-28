@@ -9,6 +9,7 @@ latitude: 38.9911
 longitude: 125.66
 story: >
   The farmhouse has been preserved exactly as it allegedly looked in 1912, down to the clay pots and sleeping mats. North Korean guides explain that the simplicity of the setting proves the Great Leader shared the hardships of ordinary people — a deliberate contrast with the grandeur of central Pyongyang built in his name.
+score: 6.2
 ---
 
 The birthplace is the centerpiece of any visit to Mangyongdae. The site presents a cluster of traditional thatched-roof farmhouses on the bank of the Taedong River, maintained to an almost theatrical standard of tidiness. A low fence marks the boundary; beyond it, the original dwelling where Kim Il-sung was born on April 15, 1912, is preserved with clay jars, wooden furniture, and woven mats in place.

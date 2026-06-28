@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Bear_Lake1.jpg
 latitude: 34.2439
 loc_type: city
 longitude: -116.9114
-score: 0.54
+score: 7.95
+snippet: Southern California mountain resort town around an alpine lake, with winter
+  skiing, summer paddling, and a solar observatory.
 title: Big Bear Lake
 type: location
 ---

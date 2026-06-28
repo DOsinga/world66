@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
 latitude: 34.7696
+loc_type: city
 longitude: -96.6783
+score: 5.47
+snippet: South-central Oklahoma city in Cross Timbers country, serving as the seat
+  of the Chickasaw Nation.
+sources:
+- https://en.wikipedia.org/wiki/Ada,_Oklahoma
+- https://en.wikipedia.org/wiki/Wintersmith_Park_Historic_District
+- https://en.wikipedia.org/wiki/McSwain_Theatre
 title: Ada
 type: location
-score: 0.31
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Ada,_Oklahoma
-  - https://en.wikipedia.org/wiki/Wintersmith_Park_Historic_District
-  - https://en.wikipedia.org/wiki/McSwain_Theatre
 ---
 
 Ada is a city of around 17,000 people and the county seat of Pontotoc County, sitting in the rolling Cross Timbers country of south-central Oklahoma, roughly equidistant between Oklahoma City and Dallas. The Cross Timbers landscape — post oaks and blackjacks giving way to tallgrass meadows — gives the area a character distinct from the Great Plains flatlands to the west.

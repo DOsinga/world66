@@ -6,6 +6,7 @@ longitude: 12.3579
 tags:
   - things_to_do
   - beach
+score: 7.7
 ---
 
 Cala Azzurra is a gentler cove than Cala Rossa, with clear shallow water that lives up to its name on a bright day. It is one of the easier choices if you want a proper swim without scrambling too much over rock.

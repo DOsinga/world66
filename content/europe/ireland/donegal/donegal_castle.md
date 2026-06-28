@@ -10,6 +10,7 @@ longitude: -8.111
 snippet: "15th-century O'Donnell stronghold rebuilt by an English planter after the Flight of the Earls"
 story: >
   After the Flight of the Earls in 1607, when the last Gaelic lords of Ulster left Ireland for the Continent, the castle was granted to Sir Basil Brooke, an English planter who demolished parts of the O'Donnell tower and rebuilt the structure in Jacobean style. The combination of Gaelic tower and English manor house in a single building makes Donegal Castle an unusually legible monument to the transition between Gaelic Ireland and the Plantation.
+score: 8.1
 ---
 
 Donegal Castle stands on a rocky outcrop above the River Eske in the centre of Donegal town, a few steps from the Diamond. It is the former stronghold of the O'Donnell clan, who ruled this territory for centuries as one of the most powerful Gaelic dynasties in Ulster. The castle was burned by the O'Donnells themselves before the Flight of the Earls in 1607 to prevent it falling into English hands, then rebuilt by the planter Basil Brooke in the early 17th century.

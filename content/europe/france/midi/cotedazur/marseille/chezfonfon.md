@@ -10,6 +10,7 @@ tags:
 - eating_out
 - restaurant
 - seafood
+score: 6.7
 ---
 
 Chez Fonfon has been serving bouillabaisse on the edge of the Vallon des Auffes for over 70 years. The Vallon is a tiny working fishing harbour tucked into a notch in the cliffs below the Corniche Kennedy; you reach Fonfon by walking down narrow steps from the road, past the moored fishing boats and the brightly painted houses crowding the quay.

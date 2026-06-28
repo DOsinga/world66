@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.8998
 longitude: 116.3817
+score: 5.8
 ---
 
 Chinese acrobatics is one of the performing arts that needs no translation. The Chaoyang Theatre in east Beijing and the Tiandi Theatre near Tianqiao in the south are the two most reliable venues, running nightly shows of tumbling, contortion, plate-spinning, and the motorcycle globe of death. The productions are unapologetically spectacular — the technical standard of Chinese acrobatics training is exceptionally high — and the shows run about 90 minutes.

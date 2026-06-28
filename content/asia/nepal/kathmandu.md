@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Basantapur_Durbar_Square-K
 latitude: 27.708317
 loc_type: city
 longitude: 85.320582
-score: 0.72
+score: 9.26
+snippet: High valley capital of Nepal, dense with living temple neighbourhoods beneath
+  the Himalayan rim.
 title: Kathmandu
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
   - downtown
 latitude: 25.0760
 longitude: -77.3434
+score: 7.1
 ---
 
 A small, white, almost severe Presbyterian church on Princes Street, built in 1810 — making it one of the oldest standing churches in Nassau. The Scottish stone-mason aesthetic feels out of place in the tropics, which is precisely its charm. It is known locally as "the Kirk".

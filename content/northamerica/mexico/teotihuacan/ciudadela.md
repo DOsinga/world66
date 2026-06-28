@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.68
 longitude: -98.8466
+score: 8.2
 ---
 
 La Ciudadela — the 'citadel', a name given by sixteenth-century Spanish chroniclers who mistook it for a fortress — is the great walled enclosure at the southern end of the Avenue of the Dead. It is laid out as a vast sunken plaza four hundred metres on a side, with the Temple of the Feathered Serpent rising from its centre. The platforms around the perimeter are crowned by small temples; the whole space could hold one hundred thousand people, which is roughly the population of the city at its peak.

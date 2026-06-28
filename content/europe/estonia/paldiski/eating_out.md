@@ -5,8 +5,9 @@ latitude: 59.350352
 longitude: 24.058812
 phone: +372 6742095
 price: 100 EEK
+score: 1.5
 title: Eating Out
-type: poi
+type: section
 url: www.valgelaev.ee
 zipcode: '76805'
 ---

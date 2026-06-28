@@ -14,6 +14,7 @@ story: >
   original bell hangs in the National Palace in Mexico City, where every
   president on the eve of Independence Day rings it from the central
   balcony in a re-enactment of Hidalgo's call.
+score: 8.4
 ---
 
 The Parroquia is a robust eighteenth-century Churrigueresque parish church facing the Jardín, with two heavily ornamented stone retablos either side of the entrance — they were never gilded, which is part of why they survive so well. Inside, the high altar and side chapels show the same dense baroque carving, blackened in places by centuries of candle smoke. The pulpit from which Hidalgo addressed his congregation is preserved at the front of the nave.

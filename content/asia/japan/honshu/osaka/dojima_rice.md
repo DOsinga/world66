@@ -7,6 +7,7 @@ tags:
 latitude: 34.6952
 longitude: 135.4987
 story: "The Dojima Rice Exchange, founded in 1697 in the Nakanoshima area, was the world's first commodity futures market — preceding Chicago's Board of Trade by nearly two centuries. Rice merchants developed a system of trading futures contracts (empty rice warehouse receipts) that became so sophisticated the government repeatedly tried and failed to ban it. Modern financial derivatives have their conceptual origins in this Osaka riverbank."
+score: 4.9
 ---
 
 The site of the Dojima Rice Exchange, which operated from 1697 to 1939 and is historically significant as the world's first organised futures market. The original building no longer exists, but a plaque marks the site near the Nakanoshima waterfront, and the Osaka Prefectural Nakanoshima Library nearby has extensive records of the exchange's operations.

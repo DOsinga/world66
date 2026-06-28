@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.2928
 longitude: -65.4991
+score: 6.4
 ---
 
 The Bethel Chapel is one of several Welsh nonconformist chapels that dot Gaiman and the surrounding valley. Built in the late 19th century in the austere style of Welsh Methodist chapels, it sits incongruously amid the brown Patagonian landscape. The interior is plain — whitewashed walls, plain wooden pews, a small organ — which is exactly as it should be.

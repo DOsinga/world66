@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 snippet: "Brewery museum in a 17th-century brewhouse, with a tasting at the end"
 latitude: 52.6330
 longitude: 4.7493
+score: 6.8
 ---
 
 The Nationaal Biermuseum occupies the former De Boom brewery, a working brewhouse from the 17th century that brewed beer continuously into the 20th. The exhibits run from the medieval guild system through the great Dutch brewing dynasties and on to the present-day craft scene. Old copper kettles, mash tuns, malt mills, and a coopers' workshop are preserved in situ.

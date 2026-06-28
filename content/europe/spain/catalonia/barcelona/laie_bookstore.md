@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.389894
 longitude: 2.170688
+score: 6.8
 snippet: Independent bookstore-cafe with readings and cultural events
 tags:
 - things_to_do
 - shopping
+- eixample
 title: Laie Bookstore
 type: poi
 ---

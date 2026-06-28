@@ -9,6 +9,7 @@ address: 3501 SE 4th St, Moore, OK 73160
 latitude: 35.3267
 longitude: -97.4513
 snippet: Sprawling regional park with lake, trails, and ballfields
+score: 5.8
 ---
 
 The largest park in Moore, Little River sits at the southeast corner of the city around a small reservoir and offers the kind of all-purpose suburban green space the area is short of: paved walking paths around the lake, fishing piers stocked with bass and catfish, picnic shelters, and an extensive complex of softball and soccer fields.

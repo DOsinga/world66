@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Congonhas_do_Campo_Bom_Jes
 latitude: -20.5
 loc_type: city
 longitude: -43.8581
+score: 7.54
+snippet: Minas Gerais mining town defined by Aleijadinho's soapstone prophets at Bom
+  Jesus de Matosinhos.
 sources:
 - https://en.wikipedia.org/wiki/Sanctuary_of_Bom_Jesus_de_Matosinhos
 - https://whc.unesco.org/en/list/334/

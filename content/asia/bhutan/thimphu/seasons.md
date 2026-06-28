@@ -1,7 +1,12 @@
 ---
 address: One block north and one block west of the traffic circle.
+latitude: 27.473
+longitude: 89.6374
+score: 6.7
 tags:
 - eating_out
+- restaurant
+- pizza
 title: Seasons
 type: poi
 ---

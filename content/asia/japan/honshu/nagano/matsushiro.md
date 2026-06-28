@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.5660
 longitude: 138.1960
+score: 8.0
 ---
 
 Matsushiro is a former castle town about 13 kilometres south of central Nagano, preserved well enough to give a genuine sense of what a mid-sized Japanese feudal town looked like. The town served as the domain headquarters of the Sanada clan through the Edo period, and the grid of samurai residences, merchant streets, and temple grounds survives largely intact. The [Sanada residence](/asia/japan/honshu/nagano/matsushiro_underground_hq) and several other samurai villas are open to visitors, and the old walls and garden of Matsushiro Castle remain as a park.

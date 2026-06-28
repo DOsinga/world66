@@ -13,6 +13,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Halles de Bracieux are the visual centre of the village — a long, open-sided market hall built in the second half of the 16th century, with massive chestnut beams and a tile roof descending almost to head height. The market still operates underneath them on Thursday mornings, with stalls selling Sologne game pâté, goat's cheeses, asparagus in the spring, and forest mushrooms in the autumn.

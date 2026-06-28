@@ -9,6 +9,7 @@ latitude: 5.4
 longitude: 10.02
 story: >
   The Menoua highlands sit at the same altitude as the Kenyan highlands that produce tea for the global market — and the conditions are similar. Cameroon tea has been grown here since the colonial era, and the rolling hillsides of ordered tea bushes stretching across the steep terrain are one of the most striking agricultural landscapes in central Africa.
+score: 8.3
 ---
 
 The highlands around Dschang offer some of the best walking in western Cameroon — a landscape of steep green hills, small farming villages, tea plantations, coffee groves, and the occasional waterfall dropping into the narrow valleys between ridges. At 1,400 metres, the temperature is cool enough to make sustained walking comfortable even at midday, and the views from the higher ridges extend across a corrugated landscape of remarkable visual complexity.

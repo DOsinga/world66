@@ -8,6 +8,7 @@ tags:
   - shopping
   - eating_out
   - market
+score: 6.9
 ---
 
 Kohsar Market in F-6 is the most upmarket of the sector markets — the area immediately around the British and American embassies — and where you go for imported groceries, organic vegetables, good wine of the non-alcoholic kind, and a small cluster of cafes and bakeries used by the diplomatic crowd. The Hyperstar supermarket here is the easiest place to find European brands.

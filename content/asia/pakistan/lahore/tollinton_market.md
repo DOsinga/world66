@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - mall
+score: 7.0
 ---
 
 Tollinton Market is a long timber-and-brick covered market hall on the Mall, built in 1864 as the central produce market of British Lahore. After a fire and decades of decline it has been restored and now houses temporary art and craft exhibitions rather than a working market.

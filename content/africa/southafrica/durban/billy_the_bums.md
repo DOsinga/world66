@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Billy the BUM's
 type: poi
+score: 6.1
 ---
 
 A long-running cocktail bar on Windermere Road, where the acronym stands for Basic Upmarket Socialites — make of that what you will. Some of the best cocktails in Durban, a Tuesday ladies' night that draws a crowd, and the kind of place people start their evening before drifting elsewhere. Service and atmosphere both consistently good.

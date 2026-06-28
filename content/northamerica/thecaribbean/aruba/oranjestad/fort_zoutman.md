@@ -14,6 +14,7 @@ story: >
   to defend the harbour against pirates and Venezuelan privateers. The adjacent Willem III Tower
   was added in 1868 as a lighthouse and clock tower — its clock was the first public timepiece
   on the island, and ships navigating the coast used it to set their chronometers.
+score: 7.8
 ---
 
 Fort Zoutman is Oranjestad's oldest structure, a small Dutch colonial fort built in 1798 to guard the harbour from pirates and privateers. It has been restored several times over the years and now houses the Historical Museum of Aruba, which traces the island's history from pre-Columbian Arawak settlement through the colonial era and the 19th-century gold rush to the present. The exhibits are modest but well organized, and the building itself is the real draw.

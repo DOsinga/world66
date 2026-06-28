@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ceret-Grand_Cafe.jpg
 latitude: 42.485
 loc_type: city
 longitude: 2.748
+score: 7.89
+snippet: Small Catalan Pyrenees town with plane-shaded streets and a modern art legacy
+  shaped by Picasso and Braque.
 sources:
 - https://en.wikipedia.org/wiki/C%C3%A9ret
 - https://www.musee-ceret.com/

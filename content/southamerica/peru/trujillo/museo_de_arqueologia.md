@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -8.1140
 longitude: -79.0268
+score: 7.7
 ---
 
 The archaeology museum run by the Universidad Nacional de Trujillo is the best place to understand the chronological sequence of cultures that occupied this stretch of the Peruvian coast — from the earliest Cupisnique and Salinar traditions through the Moche, Wari, and Chimú to the Inca. The collection spans ceramics, textiles, metalwork, and bone tools.

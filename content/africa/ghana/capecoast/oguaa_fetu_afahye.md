@@ -8,6 +8,7 @@ tags:
 - sight
 title: Oguaa Fetu Afahye
 type: poi
+score: 8.2
 ---
 
 The Fante harvest and purification festival held in Cape Coast on the first Saturday of September each year, marking the end of the traditional 77-day ban on fishing in the Fosu Lagoon. The festival lasts a week and culminates in a grand durbar — the chiefs of the seven Fante 'asafo' companies, carried in palanquins under huge ceremonial umbrellas, parade through town accompanied by drumming, gunfire, and the asafo flags.

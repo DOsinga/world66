@@ -8,6 +8,7 @@ tags:
   - sight
 title: "Fountain of the Idol"
 type: poi
+score: 6.7
 ---
 
 One of the strangest survivals from Roman Bracara Augusta, the Fountain of the Idol is a carved rock face set into the corner of a modern building on Rua do Raio — easy to miss if you do not know to look for it. The carving, probably from the first century AD, depicts a local deity, and the Latin inscription below it records a dedication. A small channel carved into the rock once directed a spring into the public space.

@@ -8,6 +8,8 @@ latitude: 43.2355
 loc_type: region
 longitude: 17.0907
 score: 0.69
+snippet: Dalmatian coastal strip beneath Mount Biokovo, lined with pebble beaches
+  and Adriatic villages
 title: Makarska Riviera
 type: location
 ---

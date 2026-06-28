@@ -7,6 +7,7 @@ tags:
 latitude: 43.0733
 longitude: -89.3925
 snippet: "The pedestrianised mile linking the Capitol to the University, lined with bookshops, cafes, bars, and galleries"
+score: 8.6
 ---
 
 State Street is the spine of Madison's downtown — a pedestrianised street (closed to private cars, open to buses and delivery vehicles) that runs for almost exactly one mile from the foot of the Wisconsin State Capitol to the edge of the University of Wisconsin campus. It is one of the most distinctive commercial streets in the American Midwest, and most of what makes Madison feel like Madison is concentrated along it.

@@ -1,9 +1,12 @@
 ---
+latitude: 17.3
+loc_type: country
+longitude: -62.73
+score: 0.43
+snippet: Two-island Caribbean federation of volcanic peaks, sugar history, and Brimstone
+  Hill fortifications.
 title: Saint Kitts and Nevis
 type: location
-loc_type: country
-latitude: 17.3
-longitude: -62.73
 ---
 
 Saint Kitts and Nevis is a two-island federation at the northern end of the Leeward Islands in the eastern Caribbean. St. Kitts is the larger and more populated, with the capital Basseterre on its western shore; Nevis sits three kilometres to the south-east, separated by a channel known as The Narrows. Together they make up one of the smallest sovereign states in the Western Hemisphere, with a combined population of around 55,000 people.

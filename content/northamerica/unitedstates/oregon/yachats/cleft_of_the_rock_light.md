@@ -7,6 +7,7 @@ tags:
 title: Cleft of the Rock Light
 type: poi
 snippet: "Oregon's only privately owned lighthouse, visible from the Cape Perpetua highway"
+score: 4.8
 ---
 
 The Cleft of the Rock Light is a privately owned lighthouse on the Cape Perpetua headland, about 1.8 miles south of Yachats. Built in 1976 by a private owner on their property, it was officially recognised by the Coast Guard as an active aid to navigation in 1979 — making it one of the few private lighthouses in the United States with official status. The tower is a distinctive octagonal wooden structure visible from the highway.

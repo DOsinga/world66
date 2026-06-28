@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.6758
 longitude: 15.8948
+score: 6.5
 ---
 
 La Lamia is one of the most atmospheric places to eat in Tropea, occupying an old palazzo in the clifftop old town with terrace seating that looks directly out over the sea toward the Aeolian Islands. The menu leans heavily on the local catch — swordfish, tuna, and red mullet all appear regularly — with Tropea's celebrated red onion working its way into starters and pasta sauces.

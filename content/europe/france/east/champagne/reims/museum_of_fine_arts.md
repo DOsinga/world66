@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.2533
 longitude: 4.0308
+score: 7.8
 ---
 
 Housed in a former 18th-century abbey, the Museum of Fine Arts in Reims holds a collection that goes well beyond what you'd expect from a provincial French city. There are paintings by Corot, Pissarro, Monet, and Gauguin, a substantial collection of 16th and 17th century Flemish and Dutch masters, and a remarkable series of twenty-seven portraits of German rulers by Lucas Cranach the Elder. The latter arrived in Reims as war reparations after 1918.

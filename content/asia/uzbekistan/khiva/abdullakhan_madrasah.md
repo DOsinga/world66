@@ -8,6 +8,7 @@ tags:
 title: Abdullah Khan Madrasah
 type: poi
 snippet: "Small 19th-century madrasah inside Itchan Kala, opposite Allakuli Khan Madrasah"
+score: 5.8
 ---
 
 The Abdullah Khan Madrasah is one of the smaller madrassas of Itchan Kala, built in 1865 in memory of a young son of Muhammad Rahim Khan. The building is single-storey, with a modest courtyard surrounded by twelve student cells and a small lecture hall. The tilework on the portal is restrained but elegant.

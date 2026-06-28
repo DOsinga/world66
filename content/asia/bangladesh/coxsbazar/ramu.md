@@ -9,6 +9,7 @@ story: >
   In 2012, the village of Ramu was the target of communal attacks that destroyed several Buddhist temples and monasteries and burned dozens of homes. The attacks were sparked by a fabricated Facebook post falsely attributed to a local Buddhist man. The rebuilt temples are now largely complete, and the event has faded from international attention, but it remains a significant moment in Bangladesh's communal history and is worth knowing about when you visit.
 title: Ramu
 type: poi
+score: 6.9
 ---
 
 A Buddhist village 10 kilometres east of Cox's Bazar, the most accessible example of the Buddhist heritage that runs through this part of Bangladesh. The village has several monasteries and pagodas, a large bronze Buddha statue, and woodcarving workshops where craftsmen work in the street. The local cigar-making tradition is a cottage industry — handmade cheroots are sold at small roadside stalls throughout the village.

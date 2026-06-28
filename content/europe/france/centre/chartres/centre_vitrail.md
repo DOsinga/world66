@@ -1,5 +1,9 @@
 ---
-snippet: An international centre for stained glass art with workshops and a changing exhibition space
+latitude: 48.4478
+longitude: 1.4872
+score: 7.4
+snippet: An international centre for stained glass art with workshops and a changing
+  exhibition space
 tags:
 - things_to_do
 - museum

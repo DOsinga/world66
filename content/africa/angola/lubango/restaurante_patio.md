@@ -6,6 +6,7 @@ longitude: 13.4942
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 Restaurante Pátio is one of the most reliable places to eat in Lubango, with a menu that covers the range of what you would want after a day of driving the plateau roads. Grilled meat is the backbone — beef and goat done simply and well — alongside fresh fish brought up from [Namibe](/africa/angola/namibe) on the coast. The kitchen also turns out proper Angolan comfort food: muamba de galinha, the national chicken stew cooked in palm oil with okra and garlic, is exactly what it should be here.

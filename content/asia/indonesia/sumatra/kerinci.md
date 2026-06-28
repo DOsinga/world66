@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kerinci_mountain.jpg
 latitude: -2.063338
 loc_type: city
 longitude: 101.600105
-score: 0.49
+score: 7.24
+snippet: Central Sumatran upland valley below Gunung Kerinci, surrounded by tea, coffee,
+  rainforest, and tiger habitat
 title: Kerinci
 type: location
 ---

@@ -11,6 +11,7 @@ story: >
   military road connecting central China to the non-Han territories of what is now Yunnan.
   At various points in the Ming and Qing dynasties the walls enclosed a garrison town rather
   than a civilian settlement, and the watchtowers were functional, not decorative.
+score: 7.6
 ---
 
 Zhenyuan's city walls are Ming and Qing construction, built around a town that existed primarily as a military checkpoint on the road southwest into the frontier. Substantial sections survive along the north bank of the Wuyang River, and the upper sections afford views across the rooftiles of the old town, down to the river, and across to the Qinglongdong complex on the opposite cliff. The walls connect several watchtowers, some of which can be climbed for panoramic views of the gorge.

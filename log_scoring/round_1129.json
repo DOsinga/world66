@@ -1,200 +1,200 @@
 {
   "round": 1129,
-  "timestamp": "2026-04-12T22:11:05",
+  "timestamp": "2026-06-13T20:12:43",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hawke's Bay",
-      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
-      "prior_rank": 3509,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 6.1526,
+      "prior_variance": 0.499011,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Salt Lake City",
-      "path": "northamerica/unitedstates/utah/saltlakecity",
-      "prior_rank": 1417,
-      "prior_wins": 53,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": 0.008,
+      "prior_variance": 0.567032,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Myrtle Beach",
-      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
-      "prior_rank": 2912,
-      "prior_wins": 56,
-      "prior_n": 4
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": -0.5743,
+      "prior_variance": 0.494697,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Molde",
-      "path": "europe/norway/molde",
-      "prior_rank": 3298,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -0.1362,
+      "prior_variance": 0.610878,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Lake Kariba",
-      "path": "africa/zimbabwe/lakekariba",
-      "prior_rank": 5624,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.0404,
+      "prior_variance": 0.456174,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Lake Elmenteita",
-      "path": "africa/kenya/lakes/lakeelmenteita",
-      "prior_rank": 3187,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 2.4616,
+      "prior_variance": 0.300438,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Cuyahoga Valley",
-      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
-      "prior_rank": 3604,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_score": -0.4409,
+      "prior_variance": 0.44313,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Broads",
-      "path": "europe/unitedkingdom/england/eastern_england/broads",
-      "prior_rank": 2302,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 0.1985,
+      "prior_variance": 0.59419,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Incline Village",
-      "path": "northamerica/unitedstates/nevada/incline_village",
-      "prior_rank": 2139,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 0.1076,
+      "prior_variance": 0.475812,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Newburyport",
-      "path": "northamerica/unitedstates/massachusetts/newburyport",
-      "prior_rank": 2994,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": 0.6767,
+      "prior_variance": 0.446358,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Vlore",
-      "path": "europe/albania/vlore",
-      "prior_rank": 2747,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -2.141,
+      "prior_variance": 0.328422,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Holgu\u00edn",
-      "path": "northamerica/cuba/holguin",
-      "prior_rank": 6667,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 1.051,
+      "prior_variance": 0.456102,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Hiengh\u00e8ne",
-      "path": "australiaandpacific/newcaledonia/hienghene",
-      "prior_rank": 4507,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Limoges",
+      "path": "europe/france/centre/limousin/limoges",
+      "prior_score": 0.7638,
+      "prior_variance": 0.497444,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Nanaimo",
-      "path": "northamerica/canada/britishcolumbia/nanaimo",
-      "prior_rank": 1887,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 0.34,
+      "prior_variance": 0.511412,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Fort Collins",
-      "path": "northamerica/unitedstates/colorado/fortcollins",
-      "prior_rank": 3181,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -1.3693,
+      "prior_variance": 0.390294,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Tuoro sul Trasimeno",
-      "path": "europe/italy/umbria/tuoro_sul_trasimen",
-      "prior_rank": 3745,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 2.7637,
+      "prior_variance": 0.42376,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Morgantina",
-      "path": "europe/italy/sicily/piazza_armerina/morgantina",
-      "prior_rank": 2276,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.7652,
+      "prior_variance": 0.404234,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Abingdon",
-      "path": "europe/unitedkingdom/england/abingdon",
-      "prior_rank": 3439,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": -2.6167,
+      "prior_variance": 0.859965,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Vama Veche",
-      "path": "europe/romania/vama_veche",
-      "prior_rank": 2043,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -0.152,
+      "prior_variance": 0.436234,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "St-Val\u00e9ry-sur-Somme",
-      "path": "europe/france/nord/st_valery_sur_som",
-      "prior_rank": 3372,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 1.5486,
+      "prior_variance": 0.440519,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Travnik",
-      "path": "europe/bosniaandherzegovina/travnik",
-      "prior_rank": 2600,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -0.6314,
+      "prior_variance": 0.34042,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Cavaillon",
-      "path": "europe/france/midi/provence/cavaillon",
-      "prior_rank": 6110,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -3.6614,
+      "prior_variance": 0.468677,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Natchez",
-      "path": "northamerica/unitedstates/mississippi/natchez",
-      "prior_rank": 3508,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -2.6138,
+      "prior_variance": 0.469978,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Ankara",
-      "path": "asia/turkey/ankara",
-      "prior_rank": 3410,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/south_east/maidstone",
+      "prior_score": -4.4015,
+      "prior_variance": 0.396559,
+      "prior_n": 3
     }
   ]
 }

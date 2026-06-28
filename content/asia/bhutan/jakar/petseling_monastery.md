@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 27.5806
 longitude: 90.7750
+score: 6.6
 ---
 
 Petseling Monastery sits on a wooded hillside north-east of Jakar, about a 30 to 40 minute hike up from the valley floor along a track that climbs through pine and rhododendron. It is a small Nyingma monastery dating from the late 18th century and serves as a meditation retreat for monks.

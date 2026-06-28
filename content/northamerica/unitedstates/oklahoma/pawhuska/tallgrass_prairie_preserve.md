@@ -9,6 +9,7 @@ longitude: -96.40
 story: "The tallgrass prairie once covered 170 million acres of North America, stretching from Manitoba to Texas. Less than 4 percent remains — most of it converted to crops in the 19th century. The Tallgrass Prairie Preserve north of Pawhuska is the largest protected remnant of this ecosystem in the world, and the bison reintroduced here in 1993 have grown to a herd of nearly 2,500 animals."
 sources:
   - https://en.wikipedia.org/wiki/Tallgrass_Prairie_Preserve
+score: 9.1
 ---
 
 About 15 miles north of Pawhuska, managed by the Nature Conservancy, the Tallgrass Prairie Preserve protects nearly 40,000 acres of native grassland that has never been ploughed. Driving or walking through it in spring, when the grasses are just coming up and the wildflowers are thick, is one of the finest landscape experiences in the American interior.

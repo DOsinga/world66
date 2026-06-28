@@ -7,6 +7,7 @@ tags:
 snippet: "Protestant memorial church built where the word 'Protestant' was coined"
 latitude: 49.3147
 longitude: 8.4300
+score: 7.5
 ---
 
 The Gedächtniskirche — Memorial Church of the Protestation — was built between 1893 and 1904 to mark a specific moment in 1529 when history turned. At the Diet of Speyer that year, the Holy Roman Emperor's Catholic majority voted to roll back earlier concessions to Lutheran worship. A group of Lutheran princes formally objected — they protested — and in doing so gave an entire religious movement the word it still uses. The church stands on the approximate site of that confrontation.

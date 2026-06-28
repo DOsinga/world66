@@ -14,6 +14,7 @@ story: >
   has capacity for about 9,000 spectators.
 sources:
   - https://en.wikipedia.org/wiki/Doubleday_Field
+score: 6.3
 ---
 
 Doubleday Field is a small working baseball stadium a block from the Baseball Hall of Fame, used for amateur and collegiate games throughout the summer and for the annual Hall of Fame Classic — an exhibition game featuring Hall of Famers and former major league players that traditionally accompanies induction weekend.

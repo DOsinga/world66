@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chengxian,_Longnan,_Gansu,
 latitude: 33.535
 loc_type: city
 longitude: 105.349
+score: 6.03
+snippet: Southern Gansu mountain prefecture where loess country gives way to forests,
+  rivers, and ancient ginkgo villages
 sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Longnan

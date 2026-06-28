@@ -8,6 +8,7 @@ address: "Kerrville, TX 78028"
 latitude: 30.0490
 longitude: -99.1380
 snippet: Wine bar and small plates in the evening, focused on Texas wines
+score: 5.8
 ---
 
 The Grape Juice serves as Kerrville's wine-bar option — a relaxed evening spot with a list focused on Texas Hill Country producers alongside a broader selection of American and imported bottles. The food is small plates and boards: cheese, charcuterie, flatbreads, and seasonal items that change more often than a typical Hill Country menu. It is geared toward grazing and conversation rather than a full dinner.

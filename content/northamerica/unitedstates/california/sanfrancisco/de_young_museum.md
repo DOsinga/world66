@@ -10,6 +10,7 @@ tags:
 - architecture
 title: de Young Museum
 type: poi
+score: 8.4
 ---
 
 The de Young is San Francisco's premier fine arts museum, with collections spanning American painting from the colonial era to the present, plus strong holdings in African, Oceanic, and textile art. The building itself, designed by Herzog and de Meuron and opened in 2005, is clad in copper panels that are slowly oxidizing to match the green of the surrounding park.

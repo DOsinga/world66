@@ -5,6 +5,7 @@ snippet: Late-seventeenth-century church marking another martyrdom site of Hrips
 tags: [things_to_do, sight, church]
 latitude: 40.168044
 longitude: 44.304936
+score: 7.0
 ---
 
 Shoghakat — "drop of light" — was built in 1694 by Prince Aghamal Sorotetsi on the spot where, according to tradition, a ray of light fell on the bodies of Hripsime's martyred companions. It is younger than the famous trio of seventh-century churches but follows the same architectural language, on a more modest scale.

@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Franklin_House_(Launceston)
 story: >
   Franklin House was built in 1838 for Britton Jones, a Launceston brewer and innkeeper, who reportedly modelled it on the Georgian houses he had known in England. All the interior joinery is New South Wales red cedar — Tasmania had no suitable timber for fine woodwork at the time — shipped from the mainland at considerable cost. The house was later used as a boys' school before the National Trust acquired and restored it.
+score: 7.1
 ---
 
 Franklin House stands on the Hobart Road about eight kilometres south of central Launceston, in the suburb of Youngtown. It is a two-storey Georgian mansion built in 1838, all red brick and symmetry, with a verandah, sash windows, and the restrained elegance that characterised Regency-era domestic architecture in the British colonies. The interior is furnished as it would have appeared in the mid-19th century, with New South Wales cedar woodwork throughout.

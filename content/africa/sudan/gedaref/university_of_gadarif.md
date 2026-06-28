@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.0661
 longitude: 35.3329
+score: 5.7
 ---
 
 Founded in 1994, the University of Gadarif sits on the north-western edge of town and has grown into one of the most important institutions in eastern Sudan. Its faculties of agriculture, veterinary science, and natural resources reflect the city's economy — the university trains the engineers, agronomists, and animal-health specialists who keep the farms and herds of the Butana running.

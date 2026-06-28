@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
   - park
+score: 8.4
 ---
 
 The eastern third of Juist is a strict nature reserve — the Kalfamer — that protects nesting and roosting sites for sea birds and migrating waders. The reserve is closed completely from April to August during the breeding season; in autumn and winter you can walk a marked sand track along the southern edge as far as the eastern tip of the island.

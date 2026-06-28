@@ -15,6 +15,7 @@ story: >
   adequate sleep — advice that the physicians of Salerno codified in the eleventh
   century and that modern doctors still broadly endorse. It was one of the most
   widely printed books in Europe after Gutenberg invented movable type.
+score: 6.4
 ---
 
 The Schola Medica Salernitana was the first systematic medical school in the Western world, founded in the ninth century and reaching its peak between the tenth and thirteenth centuries. At a time when much of Europe had lost contact with Greek and Roman learning, the Schola assembled scholars from Arab, Jewish, Greek, and Latin traditions who translated ancient medical texts and developed an empirical approach to medicine centuries before universities existed elsewhere. The school produced treatments, surgical techniques, and anatomical knowledge that spread across Europe through its graduates and manuscripts.

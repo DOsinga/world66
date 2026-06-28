@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dajingmen_04_July_2,2010.j
 latitude: 40.769
 loc_type: city
 longitude: 114.886
+score: 6.34
+snippet: Hebei gateway city where the Great Wall meets historic trade routes to the
+  Mongolian Plateau.
 sources:
 - https://en.wikivoyage.org/wiki/Zhangjiakou
 title: Zhangjiakou

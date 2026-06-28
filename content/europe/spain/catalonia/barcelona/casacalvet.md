@@ -2,10 +2,12 @@
 address: Carrer de Casp, 48, 08010 Barcelona
 latitude: 41.390939
 longitude: 2.172997
-snippet: "Early Gaudí apartment building with Baroque-inspired facade"
+score: 7.7
+snippet: Early Gaudí apartment building with Baroque-inspired facade
 tags:
 - things_to_do
 - architecture
+- eixample
 title: Casa Calvet
 type: poi
 ---

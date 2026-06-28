@@ -1,17 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: kangding.jpg
+image_attribution: NoGhost
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kangding_from_above.jpg
 latitude: 30.0553
 loc_type: city
 longitude: 101.9647
+score: 8.01
+snippet: Western Sichuan trading city where Han China meets the Tibetan plateau beneath
+  Paoma Mountain.
 sources:
 - https://en.wikivoyage.org/wiki/Kangding
 title: Kangding
 type: location
-image: kangding.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kangding_from_above.jpg
-image_license: CC BY-SA 4.0
-image_attribution: NoGhost
 ---
 
 Kangding sits at 2,600 metres where the Sichuan plain abruptly ends and the Tibetan plateau begins. It is the largest city in western Sichuan and has served for centuries as the principal trading post between Han China and Tibet — a role you can still sense in its streets, where Tibetan monks, Yi minorities, and Han shopkeepers share the same narrow lanes. The air is noticeably thinner than Chengdu and the relief from that city's haze and density is almost physical.

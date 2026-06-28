@@ -16,6 +16,7 @@ story: >
   about fifteen years and then simply left in place as tastes moved on. The result
   is an extraordinary time-capsule of bourgeois Swiss life across several decorative
   periods, none of which has been curated or modernised.
+score: 8.2
 ---
 
 Hünegg Castle stands on the south shore of Lake Thun at Hilterfingen, about four kilometres east of Thun town. It is a neo-Renaissance pile from the 1860s, and its extraordinary quality is that everything inside — furniture, wallpapers, curtains, crockery — is original. The castle passed from one wealthy owner to another through the late 19th and early 20th centuries, each leaving their mark in successive layers of decoration, and then simply closed up in 1944.

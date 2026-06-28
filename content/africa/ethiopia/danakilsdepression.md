@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ET_Afar_asv2018-01_img37_D
 latitude: 14.2417
 loc_type: feature
 longitude: 40.3
+score: 7.42
+snippet: Afar desert depression of salt flats, acid springs, and active volcanoes
+  below sea level
 sources:
 - https://en.wikipedia.org/wiki/Danakil_Depression
 - https://en.wikipedia.org/wiki/Danakil_Desert

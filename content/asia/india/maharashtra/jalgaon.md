@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jalgaon_skyline.jpg
 latitude: 20.842883
 loc_type: city
 longitude: 75.526125
-score: 0.33
+score: 5.88
+snippet: Khandesh market town in northern Maharashtra, used as the rail base for the
+  Ajanta Caves.
 title: Jalgaon
 type: location
 ---

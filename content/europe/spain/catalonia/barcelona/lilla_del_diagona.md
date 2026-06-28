@@ -1,9 +1,11 @@
 ---
 latitude: 41.3933
 longitude: 2.1326
+score: 5.5
 snippet: Upscale shopping mall anchoring the upper Diagonal boulevard
 tags:
 - shopping
+- les_corts
 title: L'Illa del Diagonal
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: 9.14
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The coastal footpath south from Recco to [Camogli](/europe/italy/liguria/italianriviera/paradisegulf/camogli) is one of the best short walks in the Paradise Gulf. About four kilometres each way, it threads along the cliffs above the sea, through pine and oleander, with constant views back to the Portofino headland. Most of the route is level; a short steep stretch climbs from Mulinetti Beach.

@@ -8,6 +8,7 @@ latitude: -2.7833
 longitude: 115.4833
 story: >
   The Dayak Meratus people of these mountains practise Hindu Kaharingan, an indigenous animist religion that absorbed elements of Hinduism over centuries of contact. One of its most striking ceremonies is the Aruh — a harvest ritual held in communal longhouses, featuring all-night chanting, dancing, and trance states. Visitors who happen to arrive at the right time and are welcomed by a family may witness something genuinely rare: a living ceremonial tradition that has survived very far from any tourist circuit.
+score: 8.2
 ---
 
 The trek from Loksado to the villages of Malaris and Haratai is the classic route into the Meratus Mountains, and it is one of the more rewarding multi-day walks in Indonesian Borneo. The path crosses rivers on wooden bridges, climbs through primary and secondary forest, and passes through villages where logging and modern infrastructure are still largely absent.

@@ -8,6 +8,7 @@ tags:
 - waterfall
 title: Sankenbach Waterfalls
 type: poi
+score: 7.7
 ---
 
 The Sankenbach Waterfalls are a pair of cascades — the larger one drops about 40 metres over two stages — set in a steep, mossy ravine above the village of Baiersbronn. The water comes off the Stöckerkopf ridge and joins the Murg in the valley below. It is one of the finer waterfalls in the Northern Black Forest and far less visited than the more famous Triberg cascade further south.

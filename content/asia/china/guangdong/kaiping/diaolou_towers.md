@@ -16,6 +16,7 @@ story: >
   The builders had seen photographs of foreign buildings in North America and reproduced what they
   found impressive, without always understanding the structural logic. Some of the most extravagant
   are architecturally incoherent, and all the more interesting for it.
+score: 9.5
 ---
 
 The Kaiping diaolou are fortified residential towers built by returned emigrants between roughly 1900 and 1940, scattered through the countryside in baroque, neoclassical, and Moorish styles that look entirely improbable rising from rice paddies and lotus ponds. There are over 1,800 of them in Kaiping County, of which a few dozen are in serious repair and accessible to visitors. The UNESCO World Heritage designation in 2007 covers four main village clusters, each with a joint ticket.

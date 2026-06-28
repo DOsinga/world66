@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Herceg_Novi_-_Crkva_Svetog
 latitude: 42.451762
 loc_type: city
 longitude: 18.536752
-score: 0.63
+score: 8.22
+snippet: Bay of Kotor town near Croatia, with layered fortresses and a steep Ottoman-Baroque
+  old centre.
 title: Herceg Novi
 type: location
 ---

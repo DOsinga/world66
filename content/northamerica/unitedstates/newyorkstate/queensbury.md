@@ -9,8 +9,10 @@ image_source: https://www.flickr.com/photos/28242319@N03/29937460566
 latitude: 43.361853
 loc_type: city
 longitude: -73.665245
-score: 0.35
+score: 6.16
 title: Queensbury
+snippet: Adirondack foothills town at the southern end of Lake George, known for its
+  balloon festival.
 type: location
 ---
 

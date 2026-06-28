@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Wihan Phra Mongkhon Bophit
 type: poi
+score: 7.5
 ---
 
 A large, gold-roofed viharn housing one of the biggest bronze Buddha images in Thailand. The seated statue is over 12 metres tall and covered in gold lacquer, its eyes cast from gold. It sits just south of the royal palace ruins, visible from Wat Phra Sri Sanphet.

@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-12'
   location_enrich: '2026-06-03'
+image: luton.jpg
+image_attribution: M J Richardson
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Luton_from_the_air_-_geograph.org.uk_-_4547656.jpg
 latitude: 51.891073
+loc_type: city
 longitude: -0.42303
+score: 5.47
+snippet: Bedfordshire transit town north of London, with a major airport and overlooked
+  hat-making heritage
 title: Luton
 type: location
-image: luton.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Luton_from_the_air_-_geograph.org.uk_-_4547656.jpg
-image_license: CC BY-SA 2.0
-image_attribution: M J Richardson
-score: 0.29
-loc_type: city
 ---
 
 Luton is a large town of about 220,000 people in Bedfordshire, 30 miles north of London. It is primarily a transit hub — Luton Airport handles around 18 million passengers a year, serving many budget carriers — but the town itself has more to it than its reputation suggests.

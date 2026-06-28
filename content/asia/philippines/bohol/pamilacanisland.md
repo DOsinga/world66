@@ -5,7 +5,9 @@ done:
 latitude: 9.4903
 loc_type: city
 longitude: 123.9164
-score: 0.56
+score: 7.95
+snippet: Small Bohol Sea coral island with protected dolphin waters and a village
+  history tied to manta-ray hunting.
 title: Pamilacan Island
 type: location
 ---

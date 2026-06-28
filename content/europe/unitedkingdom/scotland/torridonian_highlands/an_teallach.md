@@ -3,7 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 57.802346
 longitude: -5.254253
+score: 9.2
 snippet: Dramatic Torridon ridge walk with famous pinnacle traverse
+tags:
+- things_to_do
+- sight
+- hiking
+- mountain
 title: An Teallach
 type: poi
 ---

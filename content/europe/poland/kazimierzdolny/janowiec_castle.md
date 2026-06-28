@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.3244
 longitude: 21.8922
+score: 7.7
 ---
 
 On the far bank of the Vistula stands Janowiec Castle, a partly ruined Renaissance castle built between 1508 and 1526. From a distance — say from Three Crosses Hill — it makes a striking silhouette on the bluff above the river. Up close, the walls are red-and-white striped sandstone, half restored and half left as romantic ruin.

@@ -8,6 +8,7 @@ latitude: 58.9408
 longitude: 23.5375
 sources:
   - https://en.wikipedia.org/wiki/Alexander_Nevsky_church,_Haapsalu
+score: 6.2
 ---
 
 The Alexander Nevsky Church is a nineteenth-century Russian Orthodox church standing in the old cemetery on the edge of the town centre. Built in 1876, it served Haapsalu's Russian-speaking population during the era when the Baltic provinces were firmly within the Russian Empire. The church is a small but dignified building with the onion domes characteristic of Orthodox architecture.

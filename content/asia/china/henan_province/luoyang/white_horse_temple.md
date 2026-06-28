@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: White Horse Temple
 type: poi
+score: 8.5
 ---
 
 Traditionally regarded as the first Buddhist temple built in China, founded in 68 AD during the Eastern Han Dynasty when two Indian monks arrived at the imperial court. The story goes that the monks' sutras were carried to Luoyang on a white horse, hence the name. The existing buildings are mostly Ming and Qing Dynasty, but the site has been in continuous use for nearly 2,000 years.

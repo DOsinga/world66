@@ -9,6 +9,7 @@ tags:
 title: Golden Gate Bridge
 type: poi
 story: "The bridge's International Orange colour was originally just the primer paint. The architect liked it so much against the fog and the hills that he made it permanent -- over the Navy's objection that the bridge should be painted black with yellow stripes for visibility."
+score: 9.8
 ---
 
 The Golden Gate Bridge needs no introduction, but it deserves one anyway. The 1.7-mile suspension bridge spanning the mouth of San Francisco Bay is one of the most beautiful structures ever built -- its International Orange towers rising out of the fog are the defining image of the city.

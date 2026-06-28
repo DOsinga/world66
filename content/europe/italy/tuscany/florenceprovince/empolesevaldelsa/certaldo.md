@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1_certaldo_aerial_2024.jpg
 latitude: 43.547704
 loc_type: city
 longitude: 11.040954
-score: 0.53
+score: 7.75
+snippet: Tuscan Val d'Elsa town split between a lower centre and Boccaccio's medieval
+  Certaldo Alto
 title: Certaldo
 type: location
 ---

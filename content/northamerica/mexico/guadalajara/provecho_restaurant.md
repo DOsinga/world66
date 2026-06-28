@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 20.6720
 longitude: -103.3720
+score: 6.6
 ---
 
 One of the better upscale restaurants in Colonia Americana — a contemporary Mexican kitchen with a strong focus on Jaliscan ingredients done in modern preparations. The tasting menu format is offered alongside à la carte, and the wine list has good representation from Mexican producers alongside Spanish and South American bottles.

@@ -4,6 +4,8 @@ admission: €20–€25 depending on season; booking essential
 latitude: 43.7678
 longitude: 11.2553
 opening_hours: Tue–Sun 08:15–18:30; closed Mon
+score: 10.0
+snippet: World's finest Renaissance collection with Botticelli, Leonardo, and Michelangelo
 tags:
 - One Day in Florence
 - 24 Hours in Florence
@@ -11,8 +13,8 @@ tags:
 - things_to_do
 - museum
 - palace
+- centro_storico
 title: Uffizi Gallery
-snippet: World's finest Renaissance collection with Botticelli, Leonardo, and Michelangelo
 type: poi
 url: www.uffizi.it
 ---

@@ -10,6 +10,7 @@ story: >
   The jade colour of Lake Turkana comes from algae — specifically blue-green cyanobacteria that thrive in the alkaline water. The lake has no outlet: all the water that flows in (mostly from the Omo River in Ethiopia) evaporates. It has been shrinking over the past century as upstream dams and irrigation reduce the inflow from the Omo, raising serious concerns about its long-term future.
 sources:
   - https://en.wikipedia.org/wiki/Lake_Turkana
+score: 8.9
 ---
 
 The world's largest permanent desert lake — 290 km long and intensely alkaline, with a distinctive jade-green colour visible from the air. Lake Turkana sits in the East African Rift Valley, surrounded by lava fields and semi-arid scrub, with the Jade Sea appearing suddenly after hours of empty landscape. The effect is startling.

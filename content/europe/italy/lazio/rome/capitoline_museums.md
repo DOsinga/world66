@@ -4,6 +4,7 @@ admission: €15 full, €13 reduced
 latitude: 41.8933
 longitude: 12.4828
 opening_hours: Daily 09:30–19:30
+score: 9.1
 snippet: World's oldest public museums with the original Marcus Aurelius bronze
 tags:
 - 48 Hours in Rome
@@ -12,6 +13,7 @@ tags:
 - museum
 - square
 - cafe
+- campo_de_fiori
 title: Capitoline Museums
 type: poi
 url: www.museicapitolini.org

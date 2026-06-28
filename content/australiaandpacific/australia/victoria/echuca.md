@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-31'
 latitude: -36.1281
 loc_type: city
+snippet: Murray River port town with restored paddlesteamer wharves from Australia's
+  19th-century inland trade
 longitude: 144.7517
-score: 0.48
+score: 7.54
 title: Echuca
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.8450
 longitude: 114.0750
+score: 6.1
 ---
 
 The lake at the centre of the Jigongshan scenic area is the natural gathering point of the mountain. Surrounded by forested hills and older villas, it's a peaceful spot for a walk along the shoreline path or a slow boat ride on the water. The reflections of the surrounding trees — pine, bamboo, and the occasional flowering magnolia — make it attractive for photography, and the benches along the bank are usually occupied by older visitors who have come for a morning of unhurried sitting rather than active hiking.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Tiny six-seat cevichería in Surquillo, run by chef Tomás Matsufuji
+score: 8.2
 ---
 
 **Al Toke Pez** is a tiny counter-seat *cevichería* in Surquillo — six stools at a bar, no tables, no decoration, run by **Tomás Matsufuji**, a former PhD chemist turned cevichero. The menu is six or seven dishes chalked on a board, all under 30 soles: ceviche, *arroz con mariscos*, *jalea*, *chicharrón de pescado*. The fish is dispatched straight off the morning market.

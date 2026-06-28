@@ -13,6 +13,7 @@ tags:
 title: Bar Le Drague
 type: poi
 url: www.ledrague.com
+score: 6.3
 ---
 
 The main LGBTQ+ venue in Québec City, a multi-level bar with a main bar area, solarium, leather bar and underground disco. Busy on weekends, relaxed during the week. Pick up a copy of *Fugues* magazine here for a full listing of queer venues and events across Québec City and beyond.

@@ -14,6 +14,7 @@ story: >
   be identical and joined by a curved colonnade, a deliberate architectural symbol of 
   reconciliation. Nelson Mandela was inaugurated as South Africa's first democratically 
   elected president on the amphitheatre lawns on 10 May 1994.
+score: 8.9
 ---
 
 The Union Buildings are South Africa's seat of executive government, and the most architecturally significant building in Pretoria. Designed by Herbert Baker in a sandstone neo-classical style influenced by Cape Dutch and Edwardian architecture, they sit on Meintjieskop hill above the city, commanding panoramic views over Pretoria. The symmetrical complex of colonnades, domed towers, and terraced gardens is most impressive at distance.

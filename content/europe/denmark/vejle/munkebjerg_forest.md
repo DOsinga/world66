@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.6933
 longitude: 9.5750
+score: 7.1
 ---
 
 Munkebjerg is the wooded ridge on the south side of Vejle Fjord, accessible by road or by a steep footpath from the water's edge. The forest covers the hillside above the fjord in a dense mix of beech and oak, with several marked walking trails that cut through the trees and emerge at viewpoints looking north across the water to the town.

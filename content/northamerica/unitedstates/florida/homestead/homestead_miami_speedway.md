@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 25.4525
 longitude: -80.4100
+score: 5.6
 ---
 
 A 1.5-mile oval superspeedway that hosts NASCAR Cup Series races (until recently the season championship finale) and IndyCar weekends. Built in the early 1990s as part of the post-Hurricane Andrew economic recovery push, the track has become one of the more spectator-friendly venues on the calendar: tight banking, good sightlines, Florida winter weather.

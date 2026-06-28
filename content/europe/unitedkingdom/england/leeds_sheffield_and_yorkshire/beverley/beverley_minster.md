@@ -9,6 +9,7 @@ tags:
 - church
 snippet: "Gothic parish church on the scale of a cathedral, with extraordinary medieval misericords"
 story: "Although the Minster has the scale and ambition of a cathedral, it has never been one. After the Reformation it was technically demoted to a parish church but kept its size, its towers, and its name — making it arguably the largest parish church in England."
+score: 9.8
 ---
 
 Beverley Minster is the headline act of the town and one of the great Gothic churches of England — it rivals many English cathedrals in scale, ambition, and quality of carving. The current building was begun around 1220 and took two centuries to complete, mostly in the Early English and Decorated Gothic styles, with the famous twin western towers added in the fifteenth century. The west front is among the finest in the country.

@@ -10,6 +10,7 @@ story: >
   The naming was deliberate and somewhat grandiose: when Russian naval officers selected this sheltered inlet for the Pacific fleet's base in 1860, they named it Zolotoy Rog — Golden Horn — after the famous inlet in Istanbul that had sheltered the Byzantine and Ottoman fleets. The parallel seemed fitting for a new imperial outpost designed to project Russian power across the Pacific.
 sources:
   - https://en.wikipedia.org/wiki/Zolotoy_Rog
+score: 7.7
 ---
 
 The Golden Horn Bay is the sheltered inlet at the heart of Vladivostok — the city's working harbour, naval anchorage, and scenic centrepiece all at once. Two enormous cable-stayed bridges now span the bay: the Golden Bridge near the centre, and the Russky Bridge at the southern end. On a clear day, with warships at anchor in the middle distance and forested hills rising above the far shore, the bay looks almost implausibly dramatic for a working port.

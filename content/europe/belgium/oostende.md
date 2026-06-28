@@ -5,7 +5,9 @@ done:
 latitude: 51.225856
 loc_type: city
 longitude: 2.919496
-score: 0.51
+score: 7.67
+snippet: Belgian seaside harbour town with a grand North Sea front and James Ensor's
+  artistic legacy.
 title: Oostende
 type: location
 ---

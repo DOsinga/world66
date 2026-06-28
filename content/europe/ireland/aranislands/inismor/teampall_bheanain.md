@@ -8,6 +8,7 @@ latitude: 53.1025
 longitude: -9.6661
 story: >
   Teampall Bheanáin is believed to be one of the smallest churches in the world still standing, measuring just 3.5 by 2 metres internally. It is oriented north-south rather than the usual east-west of Christian churches, which has led some scholars to suggest it predates the standardisation of church orientation in Ireland, possibly dating to the fifth or sixth century.
+score: 7.8
 ---
 
 Teampall Bheanáin (Benan's Temple) is a tiny early Christian oratory perched on the highest point of the southern part of Inis Mór, looking out over Killeany Bay and the open Atlantic. It is one of the oldest surviving religious structures on the island, dating from at least the seventh century, and it is remarkably complete given its age and exposure.

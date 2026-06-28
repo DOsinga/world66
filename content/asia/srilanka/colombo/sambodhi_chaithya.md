@@ -15,6 +15,7 @@ tags:
 title: Sambodhi Chaithya
 type: poi
 neighbourhood: Fort
+score: 6.3
 ---
 
 One of Colombo's more unusual religious structures, the Sambodhi Chaithya is a white Buddhist stupa built on two massive concrete arches that span a road leading to the harbour. The stupa sits about 10 metres above ground level, accessible by steps from the street, with views over the Fort area and the sea. It is an active place of worship, visited daily by devotees who climb the stairs to make offerings.

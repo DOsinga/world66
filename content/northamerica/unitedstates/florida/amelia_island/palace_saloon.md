@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.6699
 longitude: -81.4623
+score: 7.4
 ---
 
 The Palace Saloon at 117 Centre Street bills itself as Florida's oldest continuously operating bar, having survived Prohibition by operating as a pool hall and soda fountain before returning to its original purpose. The building was constructed in 1878 as a haberdashery and converted to a saloon in 1903, and the interior — pressed-tin ceiling, long mahogany bar, murals of nymphs and satyrs — has the comfortable patina of a place that has seen several centuries of use.

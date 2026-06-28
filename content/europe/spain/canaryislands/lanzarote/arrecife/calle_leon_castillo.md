@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 28.9621
 longitude: -13.5494
+score: 5.9
 ---
 
 The pedestrianized Calle León y Castillo is Arrecife's commercial spine, running for about half a kilometre from the seafront inland through the old town. Small shops, family-run pastelerías, jewellers, and bars line the street.

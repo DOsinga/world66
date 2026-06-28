@@ -6,7 +6,13 @@ loc_type: region
 longitude: -4.087838
 score: 0.61
 title: Cantabria
+snippet: Green northern Spanish region where Atlantic beaches, Picos de Europa foothills,
+  and prehistoric cave art meet
 type: location
+image: cantabria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Desfiladero_de_La_Hermida_4.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Frobles
 ---
 
 Cantabria is one of Spain's best-kept secrets. Tucked along the northern coast between Asturias and the Basque Country, it offers dramatic coastline, green mountains, and a refreshing absence of crowds. The Picos de Europa spill into its western edge, prehistoric cave art dots the hillsides, and the beaches rival anything on the Mediterranean — minus the package tourists.

@@ -9,6 +9,7 @@ latitude: 37.4749
 longitude: -5.6320
 sources:
   - https://en.wikipedia.org/wiki/Carmona,_Spain
+score: 7.1
 ---
 
 At the highest point of Carmona's ridge stands the upper alcázar, rebuilt in the 14th century by Pedro I of Castile on the remains of an earlier Moorish fortress. In 1976 it was converted into a Parador — Spain's state-run chain of upmarket hotels in historic buildings — and it remains one. Even if you are not staying, the bar terrace is accessible and worth visiting: the view from here, across the Corbones plain and the olive groves stretching towards Seville, is the best in town.

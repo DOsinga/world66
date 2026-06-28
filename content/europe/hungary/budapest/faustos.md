@@ -9,6 +9,7 @@ tags:
 - jewish_quarter
 title: Fausto's
 type: poi
+score: 7.1
 ---
 
 One of Budapest's best Italian restaurants. The Venetian decor is kitsch, but the food is outstanding and the atmosphere unpretentious. Expensive by Budapest standards, but frequented by people who take their eating seriously. Worth the splurge.

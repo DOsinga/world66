@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 51.7461
 longitude: -1.2381
+score: 7.4
 ---
 
 Cowley Road is the antidote to dreaming-spires Oxford — a long, busy, multicultural street running east from the city centre through the Cowley district, lined with independent restaurants, charity shops, music venues, and Polish delicatessens. It is where Oxford's students actually hang out when they're not in the university precinct, and where many of the city's immigrant communities have established themselves.

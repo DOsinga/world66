@@ -9,6 +9,7 @@ latitude: 32.8250
 longitude: 21.8530
 story: >
   The sanctuary grew around a spring sacred to Apollo and Cyra. In a dry region, the presence of water helped make the place religiously powerful as well as practically valuable.
+score: 9.1
 ---
 
 The Sanctuary of Apollo lies below the main ridge, where springs emerge from the rock and the city seems to step down into a more sheltered world. Temples, terraces, baths, and theatre remains are gathered around the sacred water.

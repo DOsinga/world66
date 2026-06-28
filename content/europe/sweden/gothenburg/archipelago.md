@@ -9,6 +9,7 @@ tags:
 - boat
 title: West Coast Archipelago
 type: poi
+score: 9.1
 ---
 
 Gothenburg's West Coast Archipelago is one of the highlights of the Swedish coast — thousands of islands, skerries, and rocky outcroppings extending into the North Sea, all accessible by public ferry from the city. The southern archipelago (Styrsö, Donsö, Brännö, Vrångö, and others) is the most visited, with car-free islands that can be reached in 25 to 45 minutes from the Saltholmen ferry terminal at the western end of Gothenburg's tram line.

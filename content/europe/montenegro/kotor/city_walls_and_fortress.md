@@ -7,6 +7,7 @@ tags:
 - landmark
 title: City Walls and Fortress of San Giovanni
 type: poi
+score: 9.4
 ---
 
 Kotor's 4.5km of walls are the defining feature of the town — they run from the waterfront, climb the rocky hillside behind the old town, and reach the Fortress of San Giovanni at 260 metres above sea level. The climb takes 45 minutes to an hour via the stepped path that begins near the Church of Our Lady of Remedy. At the top, the views over the bay and the surrounding mountains are exceptional.

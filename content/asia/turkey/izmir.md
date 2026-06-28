@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:A_panoramic_view_of_the_Al
 latitude: 38.419254
 loc_type: city
 longitude: 27.128469
-score: 0.64
+score: 8.26
 title: Izmir
 type: location
+snippet: Aegean Turkish city on a broad bay, carrying ancient Smyrna's cosmopolitan
+  trade into seafront urban life.
 ---
 
 İzmir — "Beautiful Izmir," the Pearl of the Aegean — is Turkey's third largest city and arguably its most liveable. A city of palm-lined promenades, seafront cafés, and centuries of cosmopolitan history, it sits on a circular bay with the blue Aegean visible from the end of almost every street. İzmiris will tell you, with some justification, that their city is simply more pleasant than Istanbul: better weather, shorter distances, a more relaxed pace, and a secular culture that is unusually liberal even by Turkish standards.

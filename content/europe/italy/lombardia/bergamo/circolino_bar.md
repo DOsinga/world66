@@ -9,6 +9,7 @@ tags:
 - bar
 title: Circolino Bar - Cooperativa Città Alta
 type: poi
+score: 6.2
 ---
 
 Tucked into a narrow lane in Città Alta, the Circolino is a cooperativa-run bar with one of the best beer gardens in Bergamo's upper town. The vibe is firmly local and unpretentious - students, families, and old-timers sharing long tables under the trees. Draft beers, wine by the glass, and simple snacks at cooperative prices.

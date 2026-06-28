@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Rusty Anchor
 type: poi
+score: 5.7
 ---
 
 At February Point, south of George Town, this is the upscale option — a proper restaurant with a pool, an airy patio, and ocean views. The conch chowder is excellent and the cocktails are well-made. Reservations recommended. Closed Monday and Tuesday.

@@ -10,6 +10,7 @@ story: >
   Andreyev was one of the most popular writers in Russia around 1910 — his dark, expressionistic short stories sold in enormous print runs. After the Revolution, he went into exile in Finland, where he died in 1919, his work largely forgotten in the Soviet Union for decades. The museum is one of the few places where his life is commemorated seriously.
 sources:
   - https://en.wikipedia.org/wiki/Leonid_Andreyev
+score: 6.8
 ---
 
 Leonid Andreyev — the third of Oryol's literary trinity — was born here in 1871 and is remembered in a small house-museum in the city. Andreyev was one of the most widely-read Russian authors of the early 20th century, writing psychological fiction and plays that blended realism with expressionism and symbolism. His story *The Seven Who Were Hanged* and the novella *The Life of Vasily Fiveysky* are among his best-known works.

@@ -6,6 +6,7 @@ tags:
   - museum
 title: Okada Museum of Art
 type: poi
+score: 7.8
 ---
 
 The Okada Museum of Art opened in 2013 and immediately set a high standard for Japanese private museums — its collection of East Asian art, particularly Japanese, Chinese, and Korean ceramics and painting, is exceptional in both quality and presentation. The building itself is architecturally ambitious: a large modern structure with high ceilings designed to display monumental-scale works properly.

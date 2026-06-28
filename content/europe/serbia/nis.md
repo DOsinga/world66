@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ni%C5%A1_Fortress,_Ni%C5%A
 latitude: 43.3199
 loc_type: city
 longitude: 21.8959
+score: 7.51
+snippet: Ancient Serbian city on the Nisava River, birthplace of Constantine and home
+  to an Ottoman fortress.
 sources:
 - https://en.wikipedia.org/wiki/Ni%C5%A1
 title: Niš

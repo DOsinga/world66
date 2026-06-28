@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -4.27034
 longitude: 15.27399
+score: 6.9
 ---
 
 Brazzaville's Sacred Heart Cathedral is the seat of the city's Catholic archdiocese — a substantial brick church built during the colonial period that remains one of the landmarks of the central city. The interior is cooler and quieter than the streets outside, with painted stations of the cross and a choir loft that gives the nave an unexpectedly spacious feel.

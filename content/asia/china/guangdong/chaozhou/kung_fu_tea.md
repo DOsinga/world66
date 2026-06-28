@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 23.6580
 longitude: 116.6220
+score: 8.0
 ---
 
 Kung fu tea (工夫茶) is the Teochew ceremony of brewing and serving strong oolong in tiny cups — a practice so embedded in local identity that it is performed on construction sites, at market stalls, and in every home in Chaozhou, not just in tea houses. The name refers to the skill (kung fu, in its literal sense of acquired mastery) required to brew properly: the water temperature, the pouring angle, the precise timing of each short infusion, and the sequence in which guests are served all have their protocols.

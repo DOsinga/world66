@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3585
 longitude: 16.9485
+score: 6.8
 ---
 
 The Riva — the seafront promenade — is the social spine of Baška Voda, lined with cafes, restaurants, and palm trees. In the evenings it fills with a gentle drift of people doing the korzo, the Croatian tradition of the evening walk along the seafront that serves as both social ritual and entertainment. Children race around on bikes, couples walk, and everyone sits and watches everyone else.

@@ -13,6 +13,7 @@ story: >
   defined international humanitarian law still take place in the same room where
   Goering, Hess, Ribbentrop, and 21 others faced judgment. When the court is
   not in session, visitors walk through the same dock where the defendants sat.
+score: 8.4
 ---
 
 The Memorium Nürnberger Prozesse documents the International Military Tribunal of 1945–46, in which the Allied powers tried 24 senior Nazi officials for crimes against peace, war crimes, and crimes against humanity. The trials established the legal framework under which genocide and crimes against humanity are prosecuted to this day. The museum occupies the top floor of the Palace of Justice, directly above Courtroom 600, which visitors can enter when the court is not sitting.

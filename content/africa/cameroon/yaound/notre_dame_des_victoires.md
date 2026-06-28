@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.8629
 longitude: 11.521
+score: 7.1
 ---
 
 Notre-Dame des Victoires is the main Catholic cathedral of Yaoundé, a large white structure in the city centre that serves as the seat of the Archdiocese of Yaoundé. The building is a visible landmark and one of the most important Catholic churches in Central Africa — Cameroon is a majority-Christian country and the cathedral is the centre of Catholic religious life in the capital.

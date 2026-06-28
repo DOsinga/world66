@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.3700
 longitude: 92.2310
+score: 5.8
 ---
 
 NIMAS, the National Institute of Mountaineering and Adventure Sports, was set up in 2013 on a hillside above Dirang. It runs courses in mountaineering, white-water rafting, paragliding, and aero-sports — drawing on the surrounding Himalayan terrain — and is one of the most active adventure training institutes in India.

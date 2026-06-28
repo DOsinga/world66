@@ -8,6 +8,7 @@ tags:
   - boat_trip
 latitude: 66.0433
 longitude: -17.341
+score: 9.2
 ---
 
 Húsavík is the whale watching capital of Iceland — a claim that stands up to scrutiny. The cold, nutrient-rich waters of Skjálfandi Bay attract feeding humpbacks from May through October in remarkable numbers, and sightings of humpbacks on a typical summer trip run close to 100%. Minke whales are common year-round, blue whales appear in summer, and white-beaked dolphins are frequently spotted. On a lucky day you might see several species in a single outing.

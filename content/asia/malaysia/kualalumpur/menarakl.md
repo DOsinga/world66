@@ -1,12 +1,15 @@
 ---
-title: "Petronas Skybridge"
-type: poi
 latitude: 3.1579
 longitude: 101.7114
+score: 6.7
+snippet: Double-decker glass bridge linking the Petronas Towers at the 41st floor,
+  170 metres above ground
 tags:
-  - things_to_do
-  - klcc
-  - sight
+- things_to_do
+- sight
+- klcc
+title: Petronas Skybridge
+type: poi
 ---
 
 The double-decker bridge linking the Petronas Twin Towers at the 41st and 42nd floors, 170 metres above the street. It is the visit most tour groups come for: a 45-minute timed-ticket tour that takes you up Tower 2, across the Skybridge with five minutes to photograph the city, and then up to the 86th-floor observation deck for a second view from much higher up.

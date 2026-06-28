@@ -9,6 +9,7 @@ latitude: 33.8249
 longitude: -4.8333
 story: >
   Sefrou was home to one of the largest Jewish communities in Morocco — at its peak, Jews made up roughly a third of the population. When most of the community departed for Israel in 1967, they left behind a well-preserved Mellah and a medina that has remained largely unchanged, since there was never enough tourist money to "restore" it into something it wasn't.
+score: 7.9
 ---
 
 The medina at Sefrou is one of the least-touristed in Morocco, and it shows — in the best possible way. There are no stalls selling carpets to foreigners, no persistent guides, no cafes with English menus. Instead there is a working town going about its business: butchers, spice sellers, a few modest cafes, and the ordinary daily life of a medium-sized Moroccan city.

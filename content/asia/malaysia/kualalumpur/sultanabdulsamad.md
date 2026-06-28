@@ -1,13 +1,20 @@
 ---
-title: "Sultan Abdul Samad Building"
-type: poi
 latitude: 3.1486
 longitude: 101.6944
+score: 7.8
+snippet: Landmark 1897 Moorish-Gothic government building facing Merdeka Square, with
+  its signature copper domed clock tower
+story: The architect Arthur Norman gave the building a style called Mughal Revival
+  — a British attempt to imagine what a Muslim-Indian government building should look
+  like, even though Malaysia's Muslim heritage owed nothing to Mughal architecture.
+  The result became the city's most recognisable colonial landmark.
 tags:
-  - things_to_do
-  - architecture
-  - sight
-story: "The architect Arthur Norman gave the building a style called Mughal Revival — a British attempt to imagine what a Muslim-Indian government building should look like, even though Malaysia's Muslim heritage owed nothing to Mughal architecture. The result became the city's most recognisable colonial landmark."
+- things_to_do
+- architecture
+- sight
+- chinatown
+title: Sultan Abdul Samad Building
+type: poi
 ---
 
 The most ornate of KL's colonial buildings, the Sultan Abdul Samad Building stretches along the east side of Merdeka Square in a 137-metre run of red-and-cream brick, horseshoe arches, copper domes, and a 41-metre clock tower. Completed in 1897, it originally housed the colonial Secretariat for the Federated Malay States and is now the office of the Ministry of Information.

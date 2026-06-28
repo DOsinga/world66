@@ -9,6 +9,7 @@ longitude: -2.1307
 story: "The Civic Hall has hosted many of British rock and pop history's landmark gigs. Led Zeppelin played here in 1969, a year before they headlined festivals worldwide. The Clash, the Ramones, Siouxsie and the Banshees, and Joy Division all played the Civic Hall during the punk and post-punk era — its position between Birmingham and Manchester put it on the touring circuit for nearly every major act of the 1970s and 80s."
 sources:
   - https://en.wikipedia.org/wiki/Wolverhampton_Civic_Hall
+score: 6.5
 ---
 
 The Wolverhampton Civic Hall is a 3,000-capacity mid-twentieth century venue that has been at the heart of British live music for decades. Now operated as University of Wolverhampton at The Halls, it continues to host major touring acts across rock, indie, and electronic music. The programme sits above most regional venues in scope and frequency.

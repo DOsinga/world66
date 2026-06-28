@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hershey,_Pennsylvania.JPG
 latitude: 40.285029
 loc_type: city
 longitude: -76.653466
-score: 0.47
+score: 7.46
+snippet: Pennsylvania chocolate town built by Milton Hershey, with cocoa-scented streets
+  and lampposts shaped like Kisses.
 title: Hershey
 type: location
 ---

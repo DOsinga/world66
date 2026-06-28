@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The official title of the piece is The Wote Street People. The artist's intent was to suggest a mother lifting up her child. Most locals immediately decided otherwise, and the nickname has stuck for more than three decades."
+score: 4.7
 ---
 
 In a small paved area at the top of Wote Street stands a bronze sculpture officially called The Wote Street People, by Barry Mason. Erected in 1992 to celebrate Basingstoke's people and their working life, the abstract piece consists of two figures and a smaller object lifted between them. The nickname locals immediately gave it — Wote Street Willy — refers to the rather obvious phallic shape of the central form.

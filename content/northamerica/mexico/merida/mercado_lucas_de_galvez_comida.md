@@ -9,6 +9,7 @@ tags:
 latitude: 20.9641
 longitude: -89.6218
 snippet: The cheapest and most authentic Yucatecan food in the city, at market stalls
+score: 7.5
 ---
 
 The food section of the Mercado Lucas de Gálvez, on the upper floor and in the surrounding arcades, has the cheapest and most honest Yucatecan cooking in the city. This is where market vendors, bus drivers, office workers, and anyone else eating on a budget has lunch. The standard dishes — sopa de lima, papadzules, panuchos with cochinita, poc chuc — cost a fraction of what a tourist restaurant charges. The quality is consistent and the portions are large.

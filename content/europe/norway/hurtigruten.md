@@ -4,10 +4,16 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 68.429137
 longitude: 17.425708
-score: 0.69
+score: 8.84
 title: Hurtigruten
+snippet: Norwegian coastal voyage route linking Bergen and Kirkenes through fjords,
+  islands, and North Cape waters.
 type: location
 loc_type: feature
+image: hurtigruten.jpg
+image_source: https://commons.wikimedia.org/wiki/File:0612_Polarlys_departing_from_Geiranger_-_starboard_bow_detailed_-_V-P.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Virtual-Pano
 ---
 
 This is the Coastal Voyage from Bergen to Kirkenes via North Cape and back. The full voyage lasts 12 days but you can get half voyages or port-to-port tickets. **This is not an advertisement **but a message for information from somebody who has done most of the voyage.

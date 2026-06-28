@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Whitewashed central square ringed by Teguise's most important historic buildings"
+score: 7.1
 ---
 
 The Plaza de la Constitución is the heart of Teguise and where almost every visit to the village begins. The square is broad, paved in dark volcanic stone, and ringed by the most important buildings in town: the parish church on the north side, the Palacio Spínola opposite, and the seventeenth-century **Caja General de Ahorros** building, once the island's tithe-collection point. Cafés put out tables along the south edge for as much shade as the Canary sun allows.

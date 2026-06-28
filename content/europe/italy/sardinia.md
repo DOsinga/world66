@@ -7,6 +7,23 @@ longitude: 9.030577
 score: 0.72
 title: Sardinia
 type: location
+snippet: Mediterranean island region of rugged coast, nuraghi ruins, autonomous identity,
+  and fiercely distinct culture.
+image: sardinia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:-_Fordongianus_Thermes%2B.JPG
+image_license: CC BY-SA 3.0
+image_attribution: 'This illustration was made by (User:Royonx) and released under
+  the license(s) stated above. You are free to use it for any purpose as long as you
+  credit me and follow the terms of the license.
+
+  Example :  © Michel Royon / Wikimedia Commons
+
+  If you use this image outside of the Wikimedia projects, I would be happy to hear
+  from you par courriel ( royonx  gmail.com). Thanks !
+
+
+
+  Ce message en français'
 ---
 
 Sardinia is the second largest island in the Mediterranean and one of the most beautiful. Approaching by boat, the colours of the coastline are extraordinary — black basalt, silver granite, red porphyry, then the sudden turquoise of the sea. The island has been fought over by every Mediterranean power (Phoenicians, Romans, Aragonese, Spanish, Piedmontese) and the traces of all of them are still visible in the architecture, the food, and the people. Today it operates as an autonomous region of Italy, with its own government and a fiercely maintained cultural identity.

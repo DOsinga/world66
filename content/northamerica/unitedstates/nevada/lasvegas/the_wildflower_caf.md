@@ -3,9 +3,11 @@ address: 3818 Meadows Lane, Las Vegas, NV 89107
 latitude: 36.1719
 longitude: -115.2099
 phone: 702 258-1554
+score: 4.8
 tags:
 - eating_out
 - cafe
+- chinatown
 title: The Wildflower Cafe & Florist
 type: poi
 ---

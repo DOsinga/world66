@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.8
 ---
 
 The Catholic cathedral of Pemba sits on a low rise above the western edge of the city, a modest 20th-century building that serves as the seat of the Diocese of Pemba. Its white facade and twin towers make a useful landmark, and the steps in front give a wide view over the Baixa down to the harbour.

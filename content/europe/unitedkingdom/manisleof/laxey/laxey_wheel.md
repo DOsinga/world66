@@ -9,6 +9,7 @@ latitude: 54.2385
 longitude: -4.4074
 story: >
   The Laxey Wheel was named Lady Isabella after the wife of Lieutenant Governor Hope — a Victorian nicety that masked its unglamorous purpose. What's stranger still: the emblem of the Isle of Man painted on the side of the wheel's housing was installed as a mirror image of the real coat of arms. Nobody noticed for years.
+score: 8.9
 ---
 
 The Lady Isabella is the largest working waterwheel in the world — 22 metres in diameter, turning at a stately three revolutions per minute. It was built in 1854 to pump water from the depths of the Great Laxey Mine, which extended hundreds of metres underground through layers of lead and zinc ore. The Isle of Man had no coal, so waterpower was the only practical alternative to steam.

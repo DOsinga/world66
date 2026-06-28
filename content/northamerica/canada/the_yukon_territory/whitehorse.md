@@ -13,6 +13,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Whitehorse
 title: Whitehorse
 type: location
+score: 7.8
+snippet: Yukon capital on the Alaska Highway, serving as the main hub for northern
+  wilderness trips.
 ---
 
 *North America > Canada > The Yukon Territory > Whitehorse*

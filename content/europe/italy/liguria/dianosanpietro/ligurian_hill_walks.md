@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9314
 longitude: 8.0717
+score: 7.5
 ---
 
 The hills behind Diano San Pietro are covered in a network of old mule tracks and footpaths that connect the scattered villages of the Ligurian hinterland. The terrain is typical of inland Liguria: terraced olive groves, dry stone walls, Mediterranean scrub, and occasional views down to the coast. The walking is easy to moderate and rarely crowded.

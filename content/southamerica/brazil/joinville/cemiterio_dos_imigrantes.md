@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.3017
 longitude: -48.8439
+score: 7.4
 ---
 
 The Cemitério dos Imigrantes — the Immigrants' Cemetery — is the small, walled burial ground of the first wave of European settlers who arrived in Joinville from 1851 onwards. Many of the gravestones still carry inscriptions in German Gothic script, with the names, professions and dates that map the founding of the colony.

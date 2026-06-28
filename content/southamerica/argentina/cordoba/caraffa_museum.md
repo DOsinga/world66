@@ -8,6 +8,7 @@ tags:
 latitude: 31.4283
 longitude: -64.1839
 neighbourhood: Nueva Córdoba
+score: 7.7
 ---
 
 The provincial fine arts museum, named after the painter Emilio Caraffa, occupies a 1916 building on the eastern edge of Sarmiento Park. The collection focuses on Argentine art from the late 19th century onwards and on contemporary work by Córdoba artists.

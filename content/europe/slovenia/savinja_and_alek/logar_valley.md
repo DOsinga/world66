@@ -8,6 +8,7 @@ tags:
 latitude: 46.3858
 longitude: 14.6278
 story: "The valley was shaped by glaciers during the last Ice Age and is a near-perfect glacial cirque, stretching 7 km into the Kamnik-Savinja Alps. It has been a protected landscape park since 1987 — one of the first protected areas in Slovenia."
+score: 9.4
 ---
 
 Logarska Dolina is one of the most spectacular alpine valleys in Europe, a glacial cirque rimmed by peaks that rise steeply on three sides and open to the east toward Solčava village. The valley floor is dotted with farms that have been here for centuries — many now run tourist accommodation — and the meadows bloom with wildflowers in summer.

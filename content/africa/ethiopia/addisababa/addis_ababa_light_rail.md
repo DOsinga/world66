@@ -7,6 +7,7 @@ tags:
 latitude: 9.0289
 longitude: 38.7505
 snippet: "Africa's first urban light rail, linking the city centre to its neighbourhoods"
+score: 6.8
 ---
 
 Opened in 2015, the Addis Ababa Light Rail Transit is the first urban light rail system in sub-Saharan Africa — a distinction the city takes some pride in. Two lines cross the city: the east-west line runs from Ayat to Torhayloch, and the north-south line connects Menelik Square to Kaliti. The two lines intersect at the city centre.

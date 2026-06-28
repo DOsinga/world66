@@ -5,7 +5,9 @@ done:
 latitude: -44.243959
 loc_type: city
 longitude: 171.279735
-score: 0.35
+score: 6.37
+snippet: Small South Canterbury town between two rivers, associated with aviation
+  pioneer Richard Pearse.
 title: Temuka
 type: location
 ---

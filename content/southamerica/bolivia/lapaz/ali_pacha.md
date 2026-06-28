@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Ali Pacha
 type: poi
+score: 7.6
 ---
 
 Ali Pacha is La Paz's most ambitious vegan restaurant, housed in a converted building in the Sopocachi district. The menu is built entirely around Bolivian plant-based ingredients — native tubers, Andean grains, fermented chuño, Amazonian fruits and herbs — composed with the kind of technical precision more common to European fine dining. It's a surprising place: genuinely good food that takes its local context seriously rather than importing technique and dropping it on familiar ingredients.

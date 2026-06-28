@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 55.6250
 longitude: -5.1900
 story: "The name Goat Fell has nothing to do with goats. It derives from the Norse 'Gauta Fjall' — Mountain of the Wind — a reminder that Arran was part of the Norse kingdom for three centuries. The summit has been a destination for Victorian tourists since the late 1800s; Brodick pier would fill with summer visitors heading up in long skirts and frock coats, a practice that would baffle modern hillwalkers."
+score: 9.1
 ---
 
 Goat Fell, at 874 metres, is the highest point on Arran and the most popular hill walk on the island. The standard route starts from Brodick Castle and climbs steadily through woodland and open moorland to the granite summit ridge, a round trip of about 8 kilometres taking three to four hours for a reasonably fit walker.

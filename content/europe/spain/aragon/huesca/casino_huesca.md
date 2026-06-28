@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Casino de Huesca
 type: poi
+score: 6.9
 ---
 
 The Casino de Huesca is the most elegant building in the city centre, a Modernista social club built in 1905 with an elaborately decorated facade and a well-preserved interior of carved wood, painted ceilings, and ceramic tilework. It was the gathering place of Huesca's professional classes in the early 20th century and retains some of that atmosphere.

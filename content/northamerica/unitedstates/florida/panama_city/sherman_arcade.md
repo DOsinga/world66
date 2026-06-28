@@ -6,6 +6,7 @@ longitude: -85.6608
 tags:
   - things_to_do
   - architecture
+score: 5.6
 ---
 
 The Sherman Arcade is a small two-storey commercial building at 228 Harrison Avenue, built in 1929 in the Spanish Mission Revival style — the only example of the genre in downtown Panama City. The pale stucco walls, red tile parapet, and arched entrance feel transplanted from St. Augustine. It is on the National Register of Historic Places.

@@ -9,13 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pamukkale_30.jpg
 latitude: 37.924169
 loc_type: feature
 longitude: 29.123707
-score: 0.76
+score: 9.39
 sources:
 - https://en.wikipedia.org/wiki/Pamukkale
 - https://en.wikipedia.org/wiki/Hierapolis
 - https://en.wikipedia.org/wiki/Ploutonion_at_Hierapolis
 title: Pamukkale
 type: location
+snippet: Turkish thermal site where white travertine terraces rise below the ruins
+  of Hierapolis.
 ---
 
 **Pamukkale** — literally "Cotton Castle" in Turkish — is one of the most distinctive natural sites in the world: a 2,700-metre-long white limestone escarpment cascading down a hillside in south-western Turkey, with hot mineral-rich spring water flowing over a series of gleaming [travertine terraces](/asia/turkey/pamukale/travertine_terraces) and shallow pools. From a distance the whole thing looks exactly like a frozen waterfall or, as the name suggests, a huge fluffy cotton castle. It has been a tourist destination for at least 2,000 years — the Romans built a spa city on top of it — and is now a UNESCO World Heritage Site.

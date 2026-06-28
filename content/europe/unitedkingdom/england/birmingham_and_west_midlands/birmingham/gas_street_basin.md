@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.476
 longitude: -1.9095
+score: 7.5
 ---
 
 The historic canal junction at the heart of the Birmingham canal network, where narrowboats from different canal companies once had to unload and transfer goods because rival companies refused to let their waterways connect. Today it is the best place in the city to appreciate Birmingham's extraordinary canal heritage — the city has more miles of canal than Venice, most of them dug in the late 18th century to feed the Industrial Revolution.

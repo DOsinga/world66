@@ -5,10 +5,12 @@ done:
 latitude: 30.052778
 longitude: 31.232222
 phone: +20 2 579 6511
+score: 5.5
 snippet: French dining with Nile views for a special occasion
 tags:
 - eating_out
 - restaurant
+- downtown
 title: Les Trefles
 type: poi
 ---

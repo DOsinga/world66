@@ -8,6 +8,7 @@ tags:
 - historic_site
 - house_museum
 story: Stephens named the house "Liberty Hall" in 1845, a decade before the secession crisis — the name was an expression of his personal political philosophy, not a Confederate statement. He returned to it after the war and died here in 1883, shortly after becoming Georgia's governor for a single term.
+score: 6.7
 ---
 
 Liberty Hall is the antebellum home of Alexander H. Stephens, now preserved inside A.H. Stephens State Park. The house is a relatively modest two-storey structure, expanded several times from a simple cottage that Stephens first purchased in 1834. Tours take you through the ground-floor rooms, which include a parlour, dining room, and Stephens' personal library.

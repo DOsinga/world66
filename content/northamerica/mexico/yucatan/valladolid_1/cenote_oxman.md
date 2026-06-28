@@ -8,6 +8,7 @@ tags:
   - sight
   - cenote
   - swimming
+score: 7.4
 ---
 
 Cenote Oxman sits inside the grounds of an 18th-century hacienda about four kilometres south-west of Valladolid, down a long, sandy track. The cenote is open at the top, a deep, almost perfectly round well of stone hung with long, thin tree roots that fall ten or fifteen metres to the dark water. A wooden staircase descends to a swimming platform; there is also a rope swing, which young Mexicans use with much more enthusiasm than caution.

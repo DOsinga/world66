@@ -7,6 +7,7 @@ tags:
 latitude: 6.8023
 longitude: -58.1564
 snippet: "Iconic roti shop on Camp Street, going since the 1960s"
+score: 7.8
 ---
 
 A Georgetown institution. Shanta's has been making roti and curry on Camp Street since the 1960s, and the formula has not changed: dhalpuri or paratha roti served with curried chicken, duck, goat, shrimp, beef, or vegetables, plus an essential side of pepper sauce. Order at the counter, pay, take a seat at one of the basic tables.

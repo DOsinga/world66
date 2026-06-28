@@ -8,6 +8,7 @@ latitude: 34.1989
 longitude: 43.8735
 story: >
   In February 2006, a bomb planted by Sunni extremists destroyed the golden dome of the Al-Askari Shrine, one of the holiest sites in Shia Islam. The explosion triggered weeks of sectarian reprisal killings across Iraq that many historians regard as the beginning of the country's civil war. The dome was rebuilt and reopened in 2009.
+score: 8.9
 ---
 
 The Al-Askari Shrine is one of the most important pilgrimage sites in the Shia Muslim world, containing the tombs of Ali al-Hadi and Hasan al-Askari — the 10th and 11th Imams in the Twelver Shia tradition. The shrine's golden dome and minarets are visible from much of the city, and the surrounding streets fill with pilgrims from Iraq, Iran, and beyond, particularly during Shia religious festivals.

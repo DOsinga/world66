@@ -1,9 +1,10 @@
 ---
+score: 5.8
 tags:
 - 3 Days in Naples
 - day_guides
 title: 3 Days in Naples — Untold Italy
-type: poi
+type: theme
 url: untolditaly.com/3-day-naples-itinerary/
 ---
 

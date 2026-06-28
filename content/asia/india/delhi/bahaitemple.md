@@ -8,8 +8,10 @@ tags:
 - things_to_do
 - landmark
 - sights
+- hauz_khas_village
 title: Bahai Temple
 type: poi
+score: 7.8
 ---
 
 The Lotus Temple is one of Delhi's most striking modern buildings — 27 marble-clad petals arranged to form a giant lotus flower rising from shallow pools. Completed in 1986 and designed by Iranian architect Fariborz Sahba, it serves as the Bahai House of Worship for the Indian subcontinent.

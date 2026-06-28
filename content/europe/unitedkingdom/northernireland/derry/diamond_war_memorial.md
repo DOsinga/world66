@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.9956
 longitude: -7.3219
+score: 6.0
 ---
 
 The Diamond is the central square of the walled city, a few metres up from Ferryquay Gate at the top of Shipquay Street. It has been the commercial and civic heart of the city since the Plantation era. The war memorial at its centre, erected in 1927, commemorates the dead of both World Wars and serves as the focal point for Remembrance Day ceremonies.

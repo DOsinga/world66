@@ -8,6 +8,7 @@ tags:
   - beach
   - sight
 snippet: Protected bay near the state border with calm water and views of Snapper Rocks
+score: 7.8
 ---
 
 Rainbow Bay sits at the very southern tip of Queensland, tucked behind the headland at Greenmount Point and within walking distance of the New South Wales border. The bay is protected from the prevailing south-easterly swell that powers the surf breaks around the headland, which makes it one of the calmest and most consistent swimming spots on the entire Gold Coast.

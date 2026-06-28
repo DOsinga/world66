@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Broken_Bow_(fresh)_Water_T
 latitude: 34.029
 loc_type: city
 longitude: -94.739
-score: 0.4
+score: 6.64
+snippet: Ouachita Mountains town beside Beavers Bend, known for forest cabins and
+  cold trout streams.
 title: Broken Bow
 type: location
 ---

@@ -10,6 +10,7 @@ latitude: 42.4395
 longitude: -76.4972
 story: >
   The Commons was created in 1974 as one of the first pedestrian malls in the United States, when downtown Ithaca closed two blocks of State Street to traffic to fight off competition from the new suburban malls. After a full redesign completed in 2015, it remains one of the few American pedestrian malls that actually worked, with shops still independent and the sidewalks busy through long winter evenings.
+score: 7.6
 ---
 
 The Ithaca Commons is the heart of downtown — a two-block pedestrian zone of restored nineteenth-century buildings, independent shops, restaurants with patios, and a small open-air stage for buskers. On summer evenings the lights come on along the trees and the place feels like a slow, contented small city centre.

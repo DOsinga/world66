@@ -9,6 +9,7 @@ tags:
   - old_city
 latitude: 34.0919
 longitude: 74.8058
+score: 7.1
 ---
 
 The Stone Mosque (Pathar Masjid) is a departure from Kashmir's tradition of wooden mosque architecture: built of grey limestone in 1623 by Nur Jahan, the powerful wife of Emperor Jahangir, it looks more like a Lahori Mughal mosque than anything else in Srinagar. The long, narrow façade with its row of arches and the restrained use of carved stone decoration reflect mainstream Mughal court style rather than the local deodar wood tradition.

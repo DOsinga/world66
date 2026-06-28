@@ -7,6 +7,7 @@ tags:
 latitude: 51.5559
 longitude: 5.0901
 snippet: Tilburg's student quarter, liveliest at weekends
+score: 5.9
 ---
 
 The Piusplein is Tilburg's student quarter — a compact square flanked by bars and cafes, a short walk west of the Heuvel. Tilburg University draws students from across Europe, and the Piusplein is where many of them end up on Thursday and Friday evenings. The square has a younger, louder feel than the Heuvel and the bars stay busy until late.

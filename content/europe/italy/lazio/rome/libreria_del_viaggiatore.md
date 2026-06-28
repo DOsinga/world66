@@ -3,9 +3,11 @@ address: Via del Pellegrino 78, 00186 Rome
 latitude: 41.896832
 longitude: 12.469811
 opening_hours: Mon–Sat 10am–1:30pm, 3:30–7:30pm; closed Sun
+score: 6.2
 snippet: Rome's specialist travel bookshop, near Campo de' Fiori
 tags:
 - shopping
+- prati
 title: Libreria del Viaggiatore
 type: poi
 ---

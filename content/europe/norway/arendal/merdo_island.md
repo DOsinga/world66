@@ -8,6 +8,7 @@ latitude: 58.4430
 longitude: 8.8370
 story: >
   The Merdø Museum is housed in a sea captain's home that has been preserved almost exactly as it was in the 18th century. The captain's family accumulated a remarkable collection of objects from the trading voyages that sustained the town — faience from Delft, textiles from the Baltic, curiosities from further afield. The house is one of the best-preserved examples of its kind in Norway.
+score: 8.0
 ---
 
 Merdø is a small island a short ferry ride from Arendal harbour. It has a car-free, time-slowed quality that makes it a popular destination for Arendal residents on warm summer days, and a genuinely interesting place to visit at any time of year.

@@ -6,6 +6,7 @@ tags:
   - sight
 title: Kollam Beach
 type: poi
+score: 6.3
 ---
 
 A long crescent of sand at the southern end of town, backed by casuarina trees and a working fishing harbour. The beach is more local than touristic — fishermen mend nets, children play cricket, and vendors sell fried fish and cut coconuts in the late afternoon.

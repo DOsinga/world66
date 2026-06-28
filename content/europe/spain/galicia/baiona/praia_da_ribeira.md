@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.1178
 longitude: -8.8492
+score: 5.6
 ---
 
 The town beach at Baiona sits right at the edge of the old quarter, a compact strip of sand sheltered by the headland from the worst Atlantic swells. The water is cold — this is Galicia, not Andalusia — but the beach is swimmable in summer and has a pleasant backdrop of old stone buildings.

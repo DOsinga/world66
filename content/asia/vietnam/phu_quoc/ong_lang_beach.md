@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.2830
 longitude: 103.9440
+score: 7.3
 ---
 
 A less developed stretch of west coast beach north of Duong Dong, roughly 7 km from town. Ong Lang is calmer and quieter than Long Beach, with rocky outcrops breaking up the sand and a handful of small resorts and guesthouses rather than the big developments to the south. The water is calm, the beach is rarely crowded, and the sunset views are equally good.

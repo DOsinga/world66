@@ -10,6 +10,7 @@ longitude: -79.5094
 snippet: "Moche pyramid complex where the Lord of Sipán was discovered — the actual excavation site"
 sources:
   - https://en.wikipedia.org/wiki/Lord_of_Sip%C3%A1n
+score: 7.8
 ---
 
 Huaca Rajada is the archaeological site where Walter Alva uncovered the Lord of Sipán in 1987. It is about 35 km southeast of Chiclayo near the village of Sipán — a straightforward journey by taxi or tour. The site consists of two large Moche adobe pyramid mounds from around the 3rd century AD, partially excavated and partially eroded by centuries of looting and weather.

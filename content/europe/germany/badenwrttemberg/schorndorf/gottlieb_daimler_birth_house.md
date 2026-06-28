@@ -15,6 +15,7 @@ story: >
   preserved and opened as a museum in 1952.
 sources:
   - https://en.wikipedia.org/wiki/Schorndorf
+score: 7.2
 ---
 
 The Gottlieb Daimler Birth House on Höllgasse in the old town centre is a small but well-presented museum devoted to the life and work of the man who, with Wilhelm Maybach, developed the high-speed internal combustion engine that made the modern automobile possible. Daimler was born in this house in 1834, and the building has been a museum since 1952.

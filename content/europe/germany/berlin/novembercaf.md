@@ -12,6 +12,7 @@ tags:
 - cafe
 title: November Café
 type: poi
+score: 6.0
 ---
 
 A Prenzlauer Berg institution on the pretty Husemannstrasse, November Café has been drawing locals for years with its generous breakfasts, strong coffee, and stacks of newspapers. The vibe is relaxed and unpretentious — grab a table by the window and settle in for a slow morning. Friendly staff and a reliable menu make it the kind of place you keep coming back to.

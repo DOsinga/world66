@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "The macaques were introduced by German phosphate miners around 1909 and survived the Japanese and American periods, the war, and the closure of the mines. Angaur is the only place in Micronesia where wild monkeys live, and they remain a curiosity — and a nuisance to local farmers — to this day."
+score: 7.3
 ---
 
 Angaur is the only place in Micronesia where you can see wild monkeys. A small troop of long-tailed macaques, descended from animals brought by German phosphate miners more than a century ago, lives in the forest around the old mine workings and the abandoned settlements in the north of the island.

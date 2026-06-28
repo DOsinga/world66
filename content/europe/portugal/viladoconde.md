@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vila_do_Conde_2021_(17).jp
 latitude: 41.35404
 loc_type: city
 longitude: -8.74354
-score: 0.51
+score: 7.89
+snippet: Atlantic town north of Porto, shaped by shipbuilding history at the mouth
+  of the River Ave.
 title: Vila do Conde
 type: location
 ---

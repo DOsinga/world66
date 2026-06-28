@@ -6,6 +6,7 @@ tags:
 - market
 title: Hong Qiao Pearl Market
 type: poi
+score: 9.8
 ---
 
 An indoor market near the Temple of Heaven known for pearls, jewellery, clothing, bags, and general souvenirs across five floors. The pearl section on the upper floors is the main draw — both freshwater and saltwater pearls at prices well below retail, with quality ranging from cheap costume jewellery to genuinely fine strands. Bargaining is essential; know what you want to pay before starting.

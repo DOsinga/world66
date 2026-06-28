@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 38.8428
 longitude: -106.1308
+score: 6.4
 ---
 
 Eddyline Brewing sits in a converted building on the edge of downtown and is one of Buena Vista's most reliably good options for food and beer. The brewery produces a range of ales and lagers on-site — the Shotgun Betty Hefeweizen and River Runner Pale Ale are the perennial favorites — and the kitchen pairs them with a menu that goes beyond the usual pub-food defaults: flatbreads, smoked meats, and seasonal salads that use local produce.

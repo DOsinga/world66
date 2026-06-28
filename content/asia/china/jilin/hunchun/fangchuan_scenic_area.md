@@ -8,6 +8,7 @@ latitude: 42.4200
 longitude: 130.6500
 story: >
   At the Fangchuan viewpoint, you can see three countries from a single platform: China below, North Korea to the southwest, Russia to the east, and the Tumen River threading between them. Nowhere else in the world do China, Russia, and North Korea share a border — the Tumen River delta is uniquely compressed at this point, and the viewing tower was built precisely to make the geopolitical cartography visible to the naked eye.
+score: 8.9
 ---
 
 The Fangchuan National Scenic Area southeast of Hunchun city is the primary tourist destination in the Yanbian region for visitors interested in Hunchun's extraordinary geographic position. A viewing tower at the end of the main access road overlooks the Tumen River delta where China, Russia, and North Korea converge — on a clear day, all three countries are simultaneously visible.

@@ -14,6 +14,7 @@ story: >
   Zayachy (Hare) Island on 27 May 1703, and the date is still observed as the city's birthday. The
   cathedral inside became the burial place of nearly every Romanov ruler from Peter himself to
   Nicholas II, whose remains were reinterred here in 1998, eighty years after his murder.
+score: 9.4
 ---
 
 The Peter and Paul Fortress sits on a small island in the Neva opposite the Winter Palace and was the original founding settlement of St Petersburg. Inside the star-shaped curtain walls stand the gilded-spired Saints Peter and Paul Cathedral — burial place of the Romanovs — the old mint, the Trubetskoy Bastion prison where Dostoevsky, Trotsky, Gorky and Lenin's older brother were all held, and a string of smaller museums covering city history, space exploration, and the cosmonaut Yuri Gagarin.

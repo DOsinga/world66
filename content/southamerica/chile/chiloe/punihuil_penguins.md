@@ -11,6 +11,7 @@ tags:
 - nature
 title: Puñihuil Penguins
 type: poi
+score: 8.1
 ---
 
 The Islotes de Puñihuil, off the north-west coast near Ancud, are famous for penguin-watching boat trips. Small boats circle the islets while guides point out penguins, seabirds, and sometimes sea otters.

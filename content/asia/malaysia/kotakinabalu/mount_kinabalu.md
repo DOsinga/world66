@@ -14,6 +14,7 @@ story: >
   to climbers several months later, with new safety protocols and mandatory
   guide ratios, but the disaster remains a sober reminder that Kinabalu's
   altitude and terrain demand real respect.
+score: 9.7
 ---
 
 At 4,095 metres, Mount Kinabalu is the highest peak in Southeast Asia and one of the most accessible high-altitude climbs on the continent. The standard two-day route departs from the park headquarters at Kinabalu Park — about two hours by bus from KK — and follows a well-maintained trail to the overnight rest stop at Laban Rata. From there a pre-dawn ascent reaches the summit plateau at Low's Peak in time for sunrise.

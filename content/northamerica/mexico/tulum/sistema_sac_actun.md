@@ -12,6 +12,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 Sac Actun — "white cave" in Yucatec Maya — is not a single cenote but a vast labyrinth of flooded limestone passages that runs beneath the jungle between Tulum and Akumal. Surveyed at more than 370 kilometres, it is the longest underwater cave system in the world, and many of the more famous cenotes near Tulum — Gran Cenote, Dos Ojos, Casa Cenote, Cenote Calavera — are entrances into it.

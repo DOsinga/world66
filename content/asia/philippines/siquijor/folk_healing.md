@@ -12,6 +12,7 @@ story: >
   ingredients that vary by practitioner. The ritual has continued for generations despite
   — or perhaps because of — the church's ambivalent attitude toward it. Many of the
   healers are devout Catholics.
+score: 7.5
 ---
 
 Siquijor's reputation as an island of sorcery and healing is both genuine and sometimes overdone. The island does have a living tradition of folk healers — called mananambal or mangkukulam — who use herbal remedies, prayers, and ritual to treat ailments ranging from physical illness to bad luck and lovesickness. This tradition has deep roots in pre-colonial animist practices that survived the Spanish conversion period by merging with Catholic forms.

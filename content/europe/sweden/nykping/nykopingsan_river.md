@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Nyk%C3%B6pings%C3%A5n
+score: 7.1
 ---
 
 The Nyköpingsån river runs through the centre of town before opening into a small harbour at the Baltic coast, and the walking paths along both banks are the most pleasant way to move between Nyköping's sights. The waterfront around the castle is particularly good in summer — the old wooden warehouses that line the south bank have been converted into restaurants and bars, and the harbour mouth draws yachts from across the archipelago.

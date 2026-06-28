@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The Csokonai Theatre is a Romantic-style opera house built in 1865 and named for the eighteenth-century poet Mihály Csokonai Vitéz, a Debrecen native. The pale ochre exterior with its arched portico and the gilt-and-red interior are both worth seeing — guided tours run during the day when there is no rehearsal, and tickets for opera or theatre performances are remarkably cheap by Western European standards.

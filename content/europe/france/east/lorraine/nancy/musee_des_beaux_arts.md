@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 48.6935
 longitude: 6.1824
+score: 8.0
 ---
 
 One of the oldest museums in France, the Museum of Fine Arts occupies a grand pavilion at the corner of Place Stanislas. The collection covers European painting from the 14th century onward, with particular strength in Italian Renaissance and Flemish masters, and a dedicated gallery to the industrial designer Jean Prouvé, who was from Nancy.

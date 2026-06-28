@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Frauenkirche_Munich_March_
 latitude: 48.137108
 loc_type: city
 longitude: 11.575382
-score: 0.76
+score: 9.03
+snippet: Bavarian capital near the Alps, famous for beer festivals, grand museums,
+  and village-like charm.
 title: Munich
 type: location
 ---

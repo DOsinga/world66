@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Avlabari (Sameba) District
 type: poi
+score: 7.1
 ---
 
 Avlabari is the neighbourhood on the hill east of the old town, around the Tsminda Sameba Cathedral. It was historically an Armenian quarter and retains some of its village-like character despite the cathedral complex built at its heart. The narrow streets and old stone houses here feel genuinely residential rather than tourist-oriented.

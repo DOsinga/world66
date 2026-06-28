@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - monastery
 snippet: Cliffside nunnery at 3,500m on the road to Chele La, one of Bhutan's oldest active nunneries
+score: 8.0
 ---
 
 A small Drukpa Kagyu nunnery clinging to a steep slope below Chele La Pass, at about 3,500 metres elevation. Founded in the 9th century, it is one of the oldest continuously active nunneries in Bhutan. Around 30–70 nuns are normally in residence; they live a strict practice life with limited contact with the outside world, and visiting is appreciated to be quiet and brief.

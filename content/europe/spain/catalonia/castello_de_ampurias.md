@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Maria_de_Castell%C3%
 latitude: 42.2583
 loc_type: city
 longitude: 3.075
+score: 7.69
+snippet: Medieval Catalan town inland from the Bay of Roses, centred on the Basilica
+  of Santa Maria
 sources:
 - https://en.wikipedia.org/wiki/Castell%C3%B3_d%27Emp%C3%BAries
 title: Castello d'Empuries

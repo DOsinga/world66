@@ -5,8 +5,14 @@ latitude: -42.035067
 loc_type: region
 longitude: 146.636689
 score: 0.66
+snippet: Australian island state of World Heritage wilderness, convict history, and
+  compact journeys between mountains and sea
 title: Tasmania
 type: location
+image: tasmania.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cradle_Mountain_from_the_shore_of_Dove_Lake,_Tasmania,_Australia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Mousehammer
 ---
 
 Tasmania is Australia's island state — separated from the mainland by the Bass Strait — and the most easily overlooked by international visitors, which is their loss. It's a compact, wild, and distinctive place that offers a different Australia from the beach-and-reef circuit most people follow.
@@ -24,5 +30,5 @@ Winters are cold and wet; summers are warm with long evenings. The best time to 
 ## Destinations in Tasmania
 
 [Hobart](/australiaandpacific/australia/tasmania/hobart)
-[Cradle Mountain](/australiaandpacific/australia/tasmania/cradlemountain)
+[Cradle Mountain](/australiaandpacific/australia/tasmania/northwest/cradlemountain)
 [Launceston](/australiaandpacific/australia/tasmania/launceston)

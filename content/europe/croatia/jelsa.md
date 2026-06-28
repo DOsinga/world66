@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Jelsa_(vie
 latitude: 43.16081
 loc_type: city
 longitude: 16.693143
-score: 0.62
+score: 8.38
+snippet: Quiet Hvar harbour town with stone houses, pine promenades, konobas, and
+  pebbly coves nearby.
 title: Jelsa
 type: location
 ---

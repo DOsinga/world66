@@ -1,22 +1,24 @@
 ---
-title: Mexico
-type: location
-latitude: 23.6345
-longitude: -102.5528
-quick_facts:
-  Population: "129 million"
-  Spanish: "Essential outside tourist zones"
-  UNESCO World Heritage Sites: "35 — most in the Americas"
-  Cenotes in the Yucatan: "~6,000 natural sinkholes"
 done:
   country_cleanup: 2026-03-29
   poi_cleanup: '2026-04-21'
 latitude: 23.6345
+loc_type: country
 longitude: -102.5528
-score: 0.36
+quick_facts:
+  Cenotes in the Yucatan: ~6,000 natural sinkholes
+  Population: 129 million
+  Spanish: Essential outside tourist zones
+  UNESCO World Heritage Sites: 35 — most in the Americas
+score: 0.93
+snippet: Large North American country of deserts, jungles, two coasts, and deep Mesoamerican
+  and Spanish colonial layers.
 title: Mexico
 type: location
-loc_type: country
+image: mexico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Xavier Quetzalcoatl Contreras Castillo
 ---
 
 Mexico rewards travelers who look beyond the all-inclusive resorts. It is the 14th largest country in the world, spanning deserts, jungles, mountains, and two coastlines, with a history that runs from ancient Mesoamerican civilizations through Spanish colonialism to a thriving contemporary culture. The food alone justifies the trip.

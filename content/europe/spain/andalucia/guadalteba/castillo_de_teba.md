@@ -11,6 +11,7 @@ story: >
   Teba's castle has a Scottish connection few visitors expect: it was here in 1330 that James Douglas, carrying the embalmed heart of Robert the Bruce toward the Holy Land, was killed in a skirmish against the Moors. The heart he carried was returned to Melrose Abbey in Scotland, where it is buried. The castle hosts a small museum devoted to this episode.
 sources:
   - https://en.wikipedia.org/wiki/Teba
+score: 6.8
 ---
 
 Perched on a rocky outcrop above the whitewashed village of Teba, this ruined Nasrid-era fortress commands wide views across the olive groves and reservoir landscape of the Guadalteba comarca. The walls and several towers remain largely intact, and the approach from the village square is a pleasant uphill walk of about 20 minutes along a marked path.

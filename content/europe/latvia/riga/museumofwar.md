@@ -10,6 +10,7 @@ tags:
   - museum
 title: Museum of War
 type: poi
+score: 7.4
 ---
 
 The Latvian War Museum, housed in the historic Powder Tower at the edge of the Old Town, covers eight centuries of conflict on Latvian soil — from medieval battles to the two World Wars and the Soviet occupation. The Powder Tower itself, a 14th-century round bastion that still has cannonballs embedded in its walls, is part of the exhibit.

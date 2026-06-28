@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Antwerp's own brewery — the home of Bolleke beer, with tours and a tasting room
 story: "Open since 1833, De Koninck makes the city's traditional drink. A 'bolleke' is a specific glass shape — a small round goblet — and ordering one always means a De Koninck. In Antwerp it is as much a piece of civic identity as the Brabo fountain."
+score: 7.1
 ---
 
 The city's own brewery, in continuous operation since 1833 on the same site in the south of the city. De Koninck Antoon, the brewery's signature beer, is the everyday drink of Antwerp and is served in nearly every café in town in its characteristic round "bolleke" glass.

@@ -11,6 +11,7 @@ story: "Roman writers treated the Garamantes as desert raiders beyond the fronti
 sources:
   - https://en.wikipedia.org/wiki/Germa
   - https://slsgazetteer.org/1728/
+score: 8.8
 ---
 
 The ruins of Garama are the core of Germa's importance. This was the capital of the Garamantian Kingdom, a Saharan power whose wealth rested on oasis agriculture, caravan trade and control of routes through the Fezzan.

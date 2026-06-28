@@ -13,6 +13,7 @@ story: >
   in 1992 at the age of 96 — the village had been declared a museum two years earlier with the
   community's blessing. Twenty-five original Shaker buildings survive on the site, including the
   1792 Meeting House.
+score: 9.1
 ---
 
 About 25 kilometres north of Concord, Canterbury Shaker Village preserves one of the largest and most complete Shaker communities in the United States. Twenty-five original buildings, dating from 1792 onward, sit in a quiet pastoral setting on a hill above the Merrimack Valley. The white clapboard meeting house, dwelling houses, schoolhouse, laundry, and infirmary all survive intact, set among the kitchen gardens and orchards that fed the community.

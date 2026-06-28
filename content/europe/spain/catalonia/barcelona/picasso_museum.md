@@ -1,9 +1,11 @@
 ---
 latitude: 41.385104
 longitude: 2.181201
+score: 8.6
 snippet: Major collection of Picasso's early and formative works
 tags:
 - things_to_do
+- el_born
 title: Picasso Museum
 type: poi
 url: www.museupicasso.bcn.es

@@ -7,6 +7,7 @@ tags:
 snippet: Thundering 23-metre falls through a narrow quartz sandstone canyon
 title: Athabasca Falls
 type: poi
+score: 8.8
 ---
 
 The Athabasca River funnels through a narrow canyon of hard quartz sandstone, dropping 23 metres in a thundering curtain of spray. Several viewpoints and a short loop trail let you see the falls from different angles. Located 30 km south of Jasper townsite along the Icefields Parkway.

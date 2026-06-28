@@ -7,6 +7,7 @@ tags:
 latitude: 34.3909
 longitude: -118.5434
 snippet: Regional history museum with a deep archive of photographs and documents
+score: 6.4
 ---
 
 The Santa Clarita Valley History in Pictures collection, housed in Newhall, maintains one of the best photographic archives of the valley's history, documenting everything from the early rancho period through the oil boom, the railroad era, and the birth of the film industry. The archive includes thousands of photographs, maps, documents, and artefacts related to the Newhall, Saugus, and Castaic communities.

@@ -4,14 +4,16 @@ done:
   location_enrich: '2026-05-21'
 latitude: 47.3073
 longitude: -122.2285
+snippet: Green River Valley city between Seattle and Tacoma, known for Emerald Downs
+  and Cascade foothill access.
 title: Auburn
 type: location
-score: 0.34
+score: 5.71
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Auburn,_Washington
-  - https://en.wikipedia.org/wiki/White_River_Valley_Museum
-  - https://en.wikipedia.org/wiki/Emerald_Downs
+- https://en.wikipedia.org/wiki/Auburn,_Washington
+- https://en.wikipedia.org/wiki/White_River_Valley_Museum
+- https://en.wikipedia.org/wiki/Emerald_Downs
 ---
 
 Auburn is a city of around 80,000 in the Green River Valley, roughly halfway between Seattle and Tacoma. It sits at the edge of the Cascade foothills, which puts outdoor activities — hiking, skiing, and river sports — within easy reach. Crystal Mountain and The Summit at Snoqualmie are under an hour away, and Mount Rainier National Park is about 60 miles southeast.

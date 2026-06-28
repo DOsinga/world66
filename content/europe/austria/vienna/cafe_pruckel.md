@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
   - innere_stadt
+score: 8.0
 ---
 
 A 1950s-styled coffeehouse on Stubenring opposite the MAK, with original mid-century interior — green leather banquettes, marble tables, Formica counters. Café Prückel has resisted modernisation more than most and retains the character of post-war Vienna better than the older, grander cafés.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - wildlife
+score: 8.4
 ---
 
 Campo Ma'an is a 2,700-square-kilometre block of lowland equatorial rainforest stretching from the coast south of Kribi down to the Equatorial Guinea border. It is one of the most biodiverse forests in Africa, home to forest elephants, western lowland gorillas, chimpanzees, mandrills, and a remarkable density of primate species — eighteen at last count.

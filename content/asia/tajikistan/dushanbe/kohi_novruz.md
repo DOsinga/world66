@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5800
 longitude: 68.7850
+score: 7.2
 ---
 
 The Kohi Novruz — Palace of Navruz — is a large ceremonial building that functions as an exhibition and events venue, most prominently during the spring festival of Navruz (Persian New Year, around March 21). The building itself is an example of post-independence Tajik monumental architecture: large, ornate, blending traditional decorative motifs with the scale of Soviet state architecture.

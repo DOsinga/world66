@@ -10,6 +10,7 @@ longitude: -86.0953
 snippet: Nicaragua's largest crafts market, in a gothic market building at the heart of the city
 story: >
   The market building was constructed in the 19th century as a multi-purpose commercial hall and has the imposing proportions and arched stonework of a small cathedral. When the market was revived as a dedicated crafts centre in the 1990s, the building was restored and the architectural grandeur — completely out of scale with the wares on sale inside — gives the whole experience an odd, wonderful quality.
+score: 8.1
 ---
 
 The Mercado de Artesanías de Masaya occupies a large gothic-style stone building in the heart of the city and is the single best place in Nicaragua to buy traditional crafts. The market is organised in a series of covered corridors and courtyards with stalls selling hammocks, rocking chairs, leather goods, pottery, wooden carvings, embroidered clothing, painted gourds, and wickerwork.

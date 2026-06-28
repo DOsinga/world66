@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 32.35434
 longitude: -90.87748
+score: 6.7
 ---
 
 Anchuca is one of the grandest antebellum mansions in Vicksburg, a Greek Revival house built in 1830 with a later addition that doubled its size. The name comes from a Choctaw word meaning "happy home." Jefferson Davis's brother Joseph Davis lived here briefly after the Civil War when Confederate leaders were barred from their own properties, and Jefferson Davis himself spoke to a crowd from the balcony during a post-war visit.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - hiking
+score: 8.2
 ---
 
 A 7-kilometre return trail along the wooded banks of the Touw River, starting from the Ebb and Flow rest camp and ending at a small waterfall. The path is well marked and crosses several wooden boardwalks where the ground is boggy. The forest is full of yellowwoods, stinkwoods and milkwoods, and on a quiet morning you may spot the kingfisher the trail is named for, perching on overhanging branches.

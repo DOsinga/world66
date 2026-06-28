@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - architecture
+score: 6.9
 ---
 
 The Penang State Museum and Art Gallery is the official state museum, occupying a fine colonial-era building (the old Penang Free School) on Farquhar Street. The collection traces the island's history from its 18th-century British founding through its diverse communities and 20th-century transition, with displays on Malay, Chinese, Indian and Eurasian customs, weddings, ceremonies and crafts.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Paved 10-mile rail-trail running west from Jackson"
+score: 6.6
 ---
 
 The Falling Waters Trail is a paved 10.5-mile former rail line that runs from the western edge of Jackson out to Concord, crossing farmland and several small lakes. It is essentially flat — old railroad grades — and popular with cyclists, runners, and roller-skiers.

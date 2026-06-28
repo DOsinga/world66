@@ -1,0 +1,200 @@
+{
+  "round": 4569,
+  "timestamp": "2026-06-14T00:23:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 4.6168,
+      "prior_variance": 0.097519,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 4.5746,
+      "prior_variance": 0.113321,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_score": 4.9838,
+      "prior_variance": 0.106239,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 4.4056,
+      "prior_variance": 0.110402,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.7636,
+      "prior_variance": 0.09668,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 2.0096,
+      "prior_variance": 0.094409,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 1.9343,
+      "prior_variance": 0.08994,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 2.5423,
+      "prior_variance": 0.108753,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 1.3053,
+      "prior_variance": 0.085384,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 2.0098,
+      "prior_variance": 0.1049,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.1163,
+      "prior_variance": 0.087829,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.289,
+      "prior_variance": 0.088151,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_score": -1.8465,
+      "prior_variance": 0.091164,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -0.8249,
+      "prior_variance": 0.086059,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -2.5283,
+      "prior_variance": 0.098967,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.2037,
+      "prior_variance": 0.103236,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.4413,
+      "prior_variance": 0.102993,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.7673,
+      "prior_variance": 0.121401,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -1.0469,
+      "prior_variance": 0.090789,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -3.5577,
+      "prior_variance": 0.12844,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -2.521,
+      "prior_variance": 0.106457,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/suffolk/sudbury",
+      "prior_score": -3.3446,
+      "prior_variance": 0.114258,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Ha'il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -6.0862,
+      "prior_variance": 0.1237,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -5.3098,
+      "prior_variance": 0.105732,
+      "prior_n": 15
+    }
+  ]
+}

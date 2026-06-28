@@ -8,6 +8,7 @@ tags:
 title: Camp David Ranch
 type: poi
 snippet: Hilltop steakhouse on Trujillo's old country estate, with the best views over the Cibao
+score: 6.4
 ---
 
 Camp David is a steakhouse perched on a ridge in the hills above Santiago, in what was once a country retreat used by the dictator Rafael Trujillo (the name was an in-joke, a reference to the American presidential getaway). It still belongs to the Bonetti family, with one of Trujillo's old Cadillacs parked at the entrance as a curiosity.

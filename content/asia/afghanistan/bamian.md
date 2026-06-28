@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bamiyan_Valley2.jpg
 latitude: 34.8206
 loc_type: city
 longitude: 67.8278
-score: 0.34
+score: 7.0
+snippet: High Hindu Kush valley where cliff niches and Band-e Amir lakes frame Bamiyan's
+  history
 title: Bamiyan
 type: location
 ---

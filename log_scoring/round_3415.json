@@ -1,0 +1,200 @@
+{
+  "round": 3415,
+  "timestamp": "2026-06-13T22:52:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 10.1398,
+      "prior_variance": 0.28305,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 4.2915,
+      "prior_variance": 0.153644,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 6.0189,
+      "prior_variance": 0.144072,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 5.0243,
+      "prior_variance": 0.131251,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 5.5481,
+      "prior_variance": 0.136153,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 6.0411,
+      "prior_variance": 0.144602,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 3.548,
+      "prior_variance": 0.136465,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 3.9702,
+      "prior_variance": 0.118072,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Sesimbra",
+      "path": "europe/portugal/sesimbra",
+      "prior_score": 3.7089,
+      "prior_variance": 0.147811,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 2.7412,
+      "prior_variance": 0.177207,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 2.9777,
+      "prior_variance": 0.129398,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 3.7038,
+      "prior_variance": 0.149529,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 2.2967,
+      "prior_variance": 0.125013,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.6005,
+      "prior_variance": 0.134214,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 1.0341,
+      "prior_variance": 0.144288,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -0.3659,
+      "prior_variance": 0.128323,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -0.269,
+      "prior_variance": 0.118778,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.4583,
+      "prior_variance": 0.136583,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.9529,
+      "prior_variance": 0.129122,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -1.1825,
+      "prior_variance": 0.102453,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.1657,
+      "prior_variance": 0.123738,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -1.3968,
+      "prior_variance": 0.12953,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_score": -1.414,
+      "prior_variance": 0.116525,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -3.0944,
+      "prior_variance": 0.119971,
+      "prior_n": 11
+    }
+  ]
+}

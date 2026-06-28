@@ -8,6 +8,7 @@ tags:
   - beach
 title: Playa del Camisón
 type: poi
+score: 6.8
 ---
 
 Playa del Camisón is a sheltered sandy beach near the border between Las Américas and Los Cristianos. It feels a little less frantic than Playa de Troya, partly because the bay is smaller and partly because the promenade here has a more relaxed rhythm.

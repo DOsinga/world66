@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Annapurna_Circuit
 story: >
   When David Stirling and Richard Tresidder first completed the full circuit in 1977, the trails were unsignposted footpaths between villages that had never seen foreign tourists. Today the route is one of the world's most famous treks — yet the northern section through Manang and Mustang remains genuinely remote, with Tibetan-influenced villages where yaks outnumber trekkers.
+score: 9.6
 ---
 
 The Annapurna Circuit is one of the world's great long-distance treks: a 160–230km walk that circumnavigates the entire Annapurna massif through an astonishing variety of landscapes, cultures, and altitudes. Starting from Besisahar (820m), the trail climbs through terraced rice paddies and subtropical forest, passes through the deep gorge of the Marsyangdi River, ascends into the arid Tibetan plateau around Manang, crosses Thorong La Pass (5,416m), and descends into the Kali Gandaki valley — one of the deepest gorges on earth — before looping back via Tatopani and Poon Hill to the Pokhara Valley.

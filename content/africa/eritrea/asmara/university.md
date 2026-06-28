@@ -6,6 +6,7 @@ longitude: 38.9275
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The former University of Asmara, now mostly closed as a teaching institution and split into specialised colleges, occupies a pleasant campus of Italian-era buildings on the western edge of the city. The original main building was the Convento dei Padri Cappuccini; the chapel attached to it dates from 1894 and is one of the oldest surviving Italian structures in Asmara.

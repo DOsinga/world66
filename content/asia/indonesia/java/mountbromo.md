@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bromo,_Java,_Indonesia,_20
 latitude: -7.9425
 loc_type: feature
 longitude: 112.953
+score: 9.13
+snippet: East Java volcano rising from the Tengger caldera's broad sea of volcanic
+  sand
 title: Mount Bromo
 type: location
 ---

@@ -12,6 +12,7 @@ tags:
 - sight
 title: National Library of Bhutan
 type: poi
+score: 7.1
 ---
 
 The national library on Gongphel Lam holds a significant collection of ancient Dzongkha and Chhokey manuscripts alongside modern publications. The reading rooms are quiet and functional. What draws most visitors is the building itself — a fine example of Bhutanese ecclesiastical architecture with detailed wood carvings and painted eaves — and the attached collection of traditional block printing equipment. The library also sells reprints of rare texts and high-quality books on Bhutanese culture and history.

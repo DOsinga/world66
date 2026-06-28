@@ -9,6 +9,7 @@ tags:
   - tatar
   - old_tatar_quarter
 address: Marjani Street 8
+score: 6.3
 ---
 
 Tatarskaya Usadba (Tatar Manor) is the best-known sit-down Tatar restaurant in the Old Tatar Quarter, occupying a restored 19th-century merchant's house a few steps from the Märcani Mosque. The dining rooms are decorated in carved wood and embroidered textiles; the menu covers the full Tatar canon — *azu* stewed beef, *kystyby* folded flatbread, slow-cooked horse meat sausage, layered *gubadiya*, and the obligatory honeycomb of *chak-chak*.

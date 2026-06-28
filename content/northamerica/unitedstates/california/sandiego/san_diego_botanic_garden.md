@@ -7,6 +7,7 @@ tags:
 latitude: 33.0830
 longitude: -117.2850
 snippet: A 37-acre garden in Encinitas showcasing plants from the world's Mediterranean climates — especially California and Australia
+score: 7.4
 ---
 
 The San Diego Botanic Garden in Encinitas covers 37 acres on a coastal canyon, with collections focused on plants from the world's five Mediterranean climate zones: California, Chile, South Africa, the Mediterranean Basin, and Australia. The Australasian collection is among the best on the West Coast — banksias, grevilleas, and eucalypts in a context that shows how closely the California and Australian floras parallel each other.

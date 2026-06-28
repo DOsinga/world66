@@ -14,6 +14,7 @@ story: >
   crises, saying that if only they could see the quality of cabbages he
   had grown, they would understand. The palace was purpose-built for his
   retirement and was ready just in time.
+score: 9.8
 ---
 
 One of the best-preserved Roman monuments in the world, and uniquely, one that is still fully inhabited. Diocletian commissioned this enormous fortified palace on the Dalmatian coast in the late 3rd century AD, and it was completed in time for his retirement in 305. After the fall of the Western Roman Empire, refugees from the nearby city of Salona moved inside the walls, converting the mausoleum into a cathedral and the temples into churches. Today some 3,000 people live within the palace precinct.

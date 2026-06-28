@@ -9,6 +9,7 @@ latitude: 22.3350
 longitude: 91.8325
 snippet: Old Portuguese quarter on the river, with crumbling colonial houses
 story: "Firingi Bazar — literally 'foreigner market' — was the area where 16th-century Portuguese traders, missionaries and pirates settled along the Karnaphuli. Their descendants, the Firingi Bengalis, are mostly Catholic and still live in this part of Chittagong. The name 'firingi' lives on in many Bengali words for foreigner."
+score: 6.9
 ---
 
 The historic Portuguese settlement along the Karnaphuli River, dating from the 16th century. The lanes are still narrow, the buildings low and weathered, and some of the old Catholic Bengali families still live in houses here. The area is now mixed with newer Muslim residential blocks but retains a distinct character.

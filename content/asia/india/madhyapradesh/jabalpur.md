@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:0010322_Chausath_Yogini_Te
 latitude: 23.170152
 loc_type: city
 longitude: 79.932451
-score: 0.42
+score: 6.63
+snippet: Central Indian city on the Narmada, used for Marble Rocks, Dhuandhar Falls,
+  and unusual tantric temples.
 title: Jabalpur
 type: location
 ---

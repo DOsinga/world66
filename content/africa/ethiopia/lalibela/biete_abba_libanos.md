@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Abba_Libanos
 story: >
   According to Ethiopian tradition, Biete Abba Libanos was built in a single night by angels assisting King Lalibela's wife, Queen Meskel Kibra. She is said to have started work while her husband slept and completed the church by dawn. The story neatly explains why this church — unlike the others — is attached at the back and top to the parent cliff face rather than being fully free-standing: angels, apparently, were in a hurry.
+score: 7.4
 ---
 
 Biete Abba Libanos — the House of Abbot Libanos — is unusual within the Lalibela complex in that it is not fully free-standing: the rear wall and the ceiling merge into the cliff face behind it. This semi-monolithic construction gives it a different feel from the fully isolated Biete Giorgis or Biete Medhane Alem, and it is classified separately as a cave church rather than a true monolith. The facade is still carved with considerable care, featuring blind windows and decorative Axumite friezes.

@@ -1,5 +1,9 @@
 ---
-snippet: A network of cycling and walking paths covering most of the island's five-kilometre length
+latitude: 53.7277
+longitude: 7.392
+score: 7.3
+snippet: A network of cycling and walking paths covering most of the island's five-kilometre
+  length
 tags:
 - things_to_do
 - nature

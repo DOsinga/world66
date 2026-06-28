@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.1
 ---
 
 The Vertical Bog is the section of the Naro Moru route between the Met Station and the alpine plain — a steep, saturated moorland of tussock grass and giant heather on the western flank of Mount Kenya. Its reputation among trekkers is legendary, and it has been the source of many wet socks and ruined boots.

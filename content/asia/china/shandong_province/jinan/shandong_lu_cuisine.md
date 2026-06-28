@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6608
 longitude: 117.0000
+score: 6.6
 ---
 
 Several cooking schools and restaurant kitchens in Jinan offer half-day and full-day courses in traditional Shandong Lu cuisine — China's oldest and most historically influential culinary tradition. Classes typically cover knife skills, stock-making, and three or four classic dishes including the nine-turn pork intestine and sweet-and-sour Yellow River carp. Most courses are conducted in Chinese with English-speaking assistants available on request.

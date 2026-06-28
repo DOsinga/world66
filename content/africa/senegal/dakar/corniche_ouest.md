@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Coastal road and walkway along the Atlantic side of the peninsula"
+score: 8.1
 ---
 
 The Corniche Ouest is the long oceanfront drive that runs from the southern tip of the Plateau up the west side of the peninsula, ending near Les Mamelles. The view from a car is one thing, but the better experience is on foot or by bicycle along the wide pedestrian and cycle paths that line most of it.

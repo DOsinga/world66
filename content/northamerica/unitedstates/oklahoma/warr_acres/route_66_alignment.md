@@ -12,6 +12,7 @@ story: >
   patchwork of the American Midwest. The Route 66 alignment running through the city
   predates its incorporation by two decades — the highway was established in 1926
   when this was still open farmland on the edge of the city.
+score: 4.6
 ---
 
 The original alignment of Route 66 passes through Warr Acres along NW 39th Street and NW 10th Street, heading west toward Yukon and El Reno before continuing across Oklahoma. This stretch is not one of the more scenic sections of the Mother Road — it runs through a built-up suburban corridor — but for Route 66 completists, it is part of the historic alignment.

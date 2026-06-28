@@ -11,6 +11,7 @@ tags:
 story: "Construction of the Minster was funded entirely by Ulm's citizens, not by the Church or any noble patron — an extraordinary act of civic ambition for a medieval city. Building began in 1377 and the citizens kept paying for centuries, but the spire was still unfinished when the Reformation arrived and money dried up. The final 50 metres were only completed in 1890, more than 500 years after the foundation stone was laid."
 title: Ulm Minster
 type: poi
+score: 9.6
 ---
 
 The Ulmer Münster is the second largest Gothic church in Germany — surpassed only by Cologne Cathedral. At 161.5 metres, its spire is the tallest church tower in the world. Climbing the 768 steps rewards you with a panoramic view over Baden-Württemberg's Ulm and Bavaria's Neu-Ulm, and on clear days a vista of the Alps from Säntis to the Zugspitze.

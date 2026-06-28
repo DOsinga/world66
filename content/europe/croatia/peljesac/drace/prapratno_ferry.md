@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 42.9167
 longitude: 17.4333
+score: 7.5
 ---
 
 Prapratno, about 5 km from Drače, is the departure point for ferries to Korčula — one of Croatia's most beautiful islands, with a walled medieval old town often compared to a smaller Dubrovnik. The crossing takes about 45 minutes and runs several times daily in summer, less frequently in winter. There is a small beach at Prapratno itself, used by locals and often quieter than the main Drače bay.

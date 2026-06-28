@@ -7,6 +7,7 @@ tags:
 snippet: "Part of the Ruhr's industrial heritage network, in a former ironworks in central Oberhausen"
 latitude: 51.4744
 longitude: 6.8489
+score: 7.8
 ---
 
 The LVR Industrial Museum's Oberhausen branch occupies the St. Antony ironworks site — one of the oldest iron-smelting operations in the Ruhr, dating back to 1758. The museum is part of a network of industrial heritage sites across North Rhine-Westphalia administered by the Landschaftsverband Rheinland, and it covers the social and technical history of iron and steel production in the region.

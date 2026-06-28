@@ -2,10 +2,16 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-31'
+image: bluemountains.jpg
+image_attribution: Diego Tirira from Quito, Ecuador
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:JM_Blue_Mountain_Peak_1010_(78)_(17049629637).jpg
 latitude: 18.0558
 loc_type: city
 longitude: -76.5813
-score: 0.62
+score: 8.44
+snippet: Eastern Jamaican mountain range where misty high slopes produce the island's
+  famous Blue Mountain coffee.
 title: Blue Mountains
 type: location
 ---

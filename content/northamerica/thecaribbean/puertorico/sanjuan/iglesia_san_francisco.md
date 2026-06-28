@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.5
 ---
 
 A 1756 Franciscan church on Calle San Francisco — a single-nave building with a baroque façade and three altars inside, the central one of polished mahogany. It is the parish church most actively used by the residents of the old city, which gives it a livelier feel than the cathedral.

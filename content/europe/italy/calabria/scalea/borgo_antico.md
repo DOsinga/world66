@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.8152
 longitude: 15.7898
+score: 8.2
 ---
 
 Scalea's old town occupies the rocky hill rising steeply above the modern marina. There are no major set-piece monuments here beyond the tower — the appeal is in the fabric itself: whitewashed houses stacked on top of each other, external staircases connecting different levels, arched passages cutting through thick walls, and small churches tucked into corners. Several sections of the original medieval defensive walls survive.

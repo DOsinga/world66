@@ -4,9 +4,11 @@ email: casabar1150@gmail.com
 latitude: -34.5963
 longitude: -58.393
 phone: (+5411) 4816-2712
+score: 4.7
 snippet: Recoleta bar in a three-story house, open until the small hours.
 tags:
 - bars_and_cafes
+- recoleta
 title: Casa Bar
 type: poi
 ---

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Daming_temple.JPG
 latitude: 32.3947
 loc_type: city
 longitude: 119.4123
+score: 7.82
+snippet: Historic Jiangsu city once enriched by salt trade, canals, gardens, and Silk
+  Road merchants.
 title: Yangzhou
 type: location
 ---

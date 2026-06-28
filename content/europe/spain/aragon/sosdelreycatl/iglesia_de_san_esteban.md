@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   In the crypt beneath the church is the room where Ferdinand II of Aragon was born on 10 March 1452. The king who would unite Spain, expel the Jews, fund Columbus, and set the Inquisition loose on heretics began his life in this narrow stone chamber, in a town so remote that it barely appears on modern maps.
+score: 8.3
 ---
 
 The parish church of San Esteban is the architectural centrepiece of Sos del Rey Católico, built in a late Romanesque style over the eleventh and twelfth centuries with Gothic additions made as the town grew in importance. The building rises above the town's rooflines and its tower is visible from the surrounding countryside.

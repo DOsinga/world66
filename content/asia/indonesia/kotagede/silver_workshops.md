@@ -8,6 +8,7 @@ tags:
 - sight
 - shopping
 story: "The Mataram court attracted silversmiths to Kotagede in the 17th century to make ceremonial regalia and tableware. The trade then collapsed for two centuries — until a Dutch entrepreneur, Mrs. Hendrikus de Munninghe, revived it in the 1930s by training local artisans in repousse work for the export market. Almost every silver workshop in Kotagede today can trace its lineage back to that revival."
+score: 6.7
 ---
 
 The main shopping street of old Kotagede is Jalan Kemasan, lined with silver showrooms and small workshops where you can often watch the work in progress. Two techniques are distinctive: filigree, in which fine silver wire is woven into delicate lace-like settings, and repousse, in which sheet silver is hammered from the back to raise patterns in relief.

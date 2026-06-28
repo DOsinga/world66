@@ -10,6 +10,8 @@ longitude: -2.79999
 score: 0.54
 title: La Mancha
 type: location
+snippet: Dry Castilian plateau region of windmills, old towns, and the Don Quixote
+  imagination.
 ---
 
 La Mancha is part of Castille. It is formed by five provinces: [Toledo](/europe/spain/la_mancha/toledo), [Ciudad Real](/europe/spain/centralspain/ciudadreal), [Albacete](/europe/spain/la_mancha/albacete), Cuenca and Guadalajara.

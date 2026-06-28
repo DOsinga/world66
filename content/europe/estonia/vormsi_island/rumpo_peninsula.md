@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.9667
 longitude: 23.2667
+score: 8.0
 ---
 
 The Rumpo peninsula juts south from Vormsi into the shallow Voosi Strait, a quiet finger of juniper meadow, salt marsh and stony shore. The marked nature trail loops for a few kilometres through the reserve, with bird hides at the head of the bay.

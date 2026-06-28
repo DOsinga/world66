@@ -6,6 +6,7 @@ longitude: 18.2867
 tags:
   - things_to_do
   - museum
+score: 6.0
 ---
 
 The Cabinet of Architecture is a small, sharp gallery inside the Ostrava House of Arts, founded in 2009 to focus on Central European architecture and design. Its exhibitions rotate every few months and cover everything from Czech functionalism to the new generation of Polish and Slovak architects.

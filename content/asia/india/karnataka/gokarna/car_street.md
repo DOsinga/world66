@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Car Street
 type: poi
+score: 8.1
 ---
 
 The main street running through Gokarna's old town, Car Street gets its name from the temple car (rath) that is drawn along it during the annual chariot festival. It is lined with traditional two-storey wooden houses belonging to the Brahmin priestly community, painted in warm ochres and greens, with carved wooden pillars and deep verandas. The street feels largely unchanged from a century ago.

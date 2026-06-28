@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.3593
 longitude: 30.4868
+score: 8.6
 ---
 
 A vast outdoor museum on the southern edge of Kyiv with around 300 rural buildings — peasant houses, churches, windmills, farmsteads — relocated from across Ukraine and arranged by region. It works as an introduction to Ukrainian rural architecture and folk culture, and as a day-out park: 150 hectares of orchards and meadows, with traditional crafts demonstrated on weekends.

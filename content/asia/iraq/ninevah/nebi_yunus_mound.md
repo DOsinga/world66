@@ -9,6 +9,7 @@ latitude: 36.3481
 longitude: 43.1594
 story: >
   The mound is named for the prophet Jonah (Yunus in Arabic), whose tomb was said to be located here. A mosque was built over the site — and before that, a Christian church. ISIS dynamited the mosque in 2014, claiming the veneration of tombs was idolatrous. When Iraqi forces retook the area in 2017, they discovered that ISIS had been secretly tunnelling beneath the mosque, uncovering and looting a vast palace of the Assyrian king Esarhaddon that no archaeologist had ever properly excavated.
+score: 8.2
 ---
 
 The southern of Nineveh's two main mounds, Nebi Yunus (Hill of the Prophet Jonah) was long inaccessible to archaeologists because a mosque and a dense residential neighbourhood occupied its summit. The mosque, built over what tradition held to be the tomb of the prophet Jonah, was one of the oldest and most venerated in Iraq.

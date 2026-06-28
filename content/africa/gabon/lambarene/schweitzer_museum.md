@@ -8,6 +8,7 @@ tags:
   - museum
   - historic_sight
 snippet: Schweitzer's house and original hospital buildings preserved as museum
+score: 8.0
 ---
 
 The original Schweitzer hospital is preserved as a small museum, run inside the wooden buildings he and his wife Helene set up in the 1920s. Schweitzer's own quarters — the bed he slept in, his desk, the foot-pedal organ on which he kept up his Bach practice between operations — are laid out as he left them. Photographs and yellowed letters cover the walls, and the doctor's library, philosophy books and medical texts side by side, is still on its original shelves.

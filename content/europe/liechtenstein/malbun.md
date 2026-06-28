@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:FriedenskapelleMalbun_Roma
 latitude: 47.102619
 loc_type: city
 longitude: 9.608307
-score: 0.46
+score: 7.74
 title: Malbun
 type: location
+snippet: Liechtenstein alpine village built around the country's only ski resort and
+  summer ridge walks.
 ---
 
 Malbun sits at around 1,600 metres in the Liechtenstein Alps, reached by a winding road from Triesenberg. It is the [country's only ski resort](/europe/liechtenstein/malbun/ski_area), and its scale matches the country: a handful of chairlifts and drag lifts, a ski school, and a cluster of hotels and restaurants. The skiing is suited to beginners and intermediates, and lift queues are rarely a problem.

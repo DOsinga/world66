@@ -7,6 +7,7 @@ address: F-7 Markaz
 tags:
   - shopping
   - market
+score: 7.1
 ---
 
 Jinnah Super is the principal commercial centre of the F-7 sector and one of the oldest markets in Islamabad. The grid of streets contains everything from carpet shops and tailors to bookshops, electronics, cafes, banks and a long row of mid-range restaurants. It is the place to come for handicrafts and gifts at fairer prices than the malls.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Algar_do_Carvao,_isla_de_T
 latitude: 38.7207
 loc_type: city
 longitude: -27.22
-score: 0.65
+score: 8.76
+snippet: Azorean volcanic island anchored by Angra do Heroísmo, with lava caves, pastures,
+  and Atlantic history
 sources:
 - https://en.wikipedia.org/wiki/Terceira_Island
 - https://en.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo

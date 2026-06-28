@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 7.1
 ---
 
 Cala Rotonda lies on the western side of Favignana, farther from the busiest east-coast coves and often a little calmer in mood. The bay is sheltered, rocky, and good for a pause if you are circling the island by bike or scooter.

@@ -8,6 +8,7 @@ tags:
   - bar
   - medieval_quarter
 neighbourhood: Casco Medieval
+score: 6.1
 ---
 
 A long-running rock-and-roll bar near the top of Cuchillería: dim lights, loud guitars, cheap drinks, and a faithful crowd. Live bands once or twice a week, a strong line in 1970s and 80s American and Spanish rock.

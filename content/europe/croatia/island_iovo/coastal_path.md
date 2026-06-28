@@ -8,6 +8,7 @@ tags:
 latitude: 43.497
 longitude: 16.255
 story: "The path along the south coast was originally used by fishermen to reach coves inaccessible by road. Many of the coves still have no official names and appear on no maps — locals know them by nicknames passed down through families."
+score: 8.2
 ---
 
 The south coast of Čiovo has a rough coastal path that runs between coves and headlands from Okrug Gornji west toward the tip of the island. It is not a maintained trail in any formal sense — more a worn track used by locals and visitors for decades — but it is one of the most rewarding walks on the island, passing hidden coves that are unreachable by road and offering views south toward Šolta and Brač.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 6.8
 ---
 
 From the western ramparts of Kerak Castle and from several points along the spine of the old town, the ground falls away in a series of dry, stepped wadis towards the Dead Sea rift. On a clear winter morning you can pick out the salt flats and the shimmering line of the lake itself, with the hills of the West Bank rising behind. The drop is roughly 1,400 metres in 30 kilometres — one of the steepest gradients in the country.

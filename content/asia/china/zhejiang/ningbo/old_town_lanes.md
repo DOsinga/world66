@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.8720
 longitude: 121.5430
+score: 8.4
 ---
 
 The old town neighbourhood between TianYi Pavilion, Moon Lake, and the Drum Tower is the most historically coherent part of central Ningbo, with surviving traditional architecture, stone-paved lanes, and a street pattern that follows the Tang and Song dynasty city grid. The area is not a formal museum or tourist zone but a functioning residential and commercial district, and its interest lies precisely in that mixture: old courtyard houses next to convenience stores, stone gateway arches leading to apartment blocks, carved door surrounds on houses whose upper floors were added in the 1980s.

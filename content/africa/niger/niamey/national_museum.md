@@ -9,6 +9,7 @@ tags:
 - museum
 - culture
 story: Named after Boubou Hama, a Nigerien politician and prolific author, the national museum was founded in 1959 and is laid out across a large shaded campus rather than in a single building. The artisans' cooperative at the museum gates produces some of the finest Tuareg silver jewellery in the Sahel, with leatherwork and indigo textiles from other communities alongside it. Prices are firm but the quality is genuine — no airport-grade souvenirs.
+score: 8.7
 ---
 
 The Musée National Boubou Hama is the cultural centrepiece of Niamey and one of the most rewarding museums in the region. It is not a conventional building-and-gallery museum: exhibits are spread across a large outdoor campus, with traditional houses from different Nigerien ethnic groups reconstructed full-scale, alongside exhibits on local history, geology, and crafts. The display of Tuareg and Saharan artefacts is particularly strong.

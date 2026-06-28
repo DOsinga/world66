@@ -3,10 +3,16 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
   lp_coverage: '2026-06-05'
+image: chejuisland.jpg
+image_attribution: song songroov
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Goseong-ri,_Seongsan-eup,_Seogwipo-si,_Jeju-do,_South_Korea_-_panoramio_-_song_songroov_(51).jpg
 latitude: 33.489
-loc_type: city
+loc_type: island
 longitude: 126.4983
-score: 0.71
+score: 9.38
+snippet: Volcanic Korean island around Hallasan, set apart by its dialect, stone architecture,
+  and lava landscapes.
 title: Jeju Island
 type: location
 ---

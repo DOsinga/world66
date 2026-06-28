@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.17
 longitude: 32.07
+score: 7.3
 ---
 
 Lake Manzala is a large shallow lagoon that forms the western boundary of Port Said's narrow strip of land. Separated from the Mediterranean by a thin barrier beach, it covers roughly 1,400 square kilometres and is one of the most important waterbird habitats in the eastern Mediterranean. Flamingos, pelicans, herons, and dozens of species of migrating waders use the lake's reed beds and mudflats on their passage between Europe and Africa.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - river
+score: 7.0
 ---
 
 The Yangtze night cruise is one of the easy pleasures of a Wuhan visit. Tour boats leave from the Hankou Wuhan Pier near the riverfront most evenings between April and October. The route runs upstream past the Yellow Crane Tower, under the great Wuhan Yangtze River Bridge, around to Hanyang, and back — about 90 minutes of lit-up skylines and the kind of slow, smooth river travel that big rivers reward.

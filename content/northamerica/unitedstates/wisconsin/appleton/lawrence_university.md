@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 44.261
 longitude: -88.4
+score: 7.2
 ---
 
 Lawrence University is one of the best small liberal arts colleges in the Midwest, and its Conservatory of Music gives Appleton a cultural life well beyond what you'd expect from a city this size. The campus sits on the south bank of the Fox River, and its pleasant mixture of Victorian and mid-century buildings is worth a wander.

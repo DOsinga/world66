@@ -7,6 +7,7 @@ tags:
 latitude: 55.45200
 longitude: 12.16500
 story: "Køge Bay was the site of two significant naval battles — one in 1677, when the Danish admiral Niels Juel destroyed a Swedish fleet here in one of the most decisive engagements in Scandinavian naval history, and another in 1710. The bay is calm now, popular with windsurfers and families with children, but the water still has that slightly martial history underneath it."
+score: 6.4
 ---
 
 The beach stretches south from the harbour for several kilometres, backed by a quiet coastal path and — further south — low dunes. It is a sandy, shallow-water beach of the kind that is genuinely good for swimming, with Blue Flag status most years. In summer it draws families from across the region; outside July and August you can have long stretches of it almost to yourself.

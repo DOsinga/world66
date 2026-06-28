@@ -5,6 +5,7 @@ latitude: 43.82667
 longitude: -111.7775
 snippet: "A well-preserved early 20th-century courthouse on the National Register of Historic Places."
 tags: [things_to_do, sight, history]
+score: 6.0
 ---
 
 The Madison County Courthouse stands in the centre of Rexburg and is one of the better examples of early 20th-century civic architecture in eastern Idaho. The building is on the National Register of Historic Places and has been maintained in good condition — it still functions as the county courthouse, which gives it a working dignity that restored-but-empty historic buildings often lack. The exterior stonework and classical detailing are worth a look if you are walking through the town centre.

@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Albenga.JPG
 latitude: 44.0493
 loc_type: city
 longitude: 8.2131
-score: 0.49
+score: 7.83
 title: Albenga
 type: location
+snippet: Ligurian coastal town with a compact medieval centre and one of Italy's oldest
+  baptisteries.
 ---
 
 Albenga has one of the best-preserved medieval centres on the Ligurian coast. Founded as a Roman town on the [Via Julia Augusta](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga/viajuliaaugusta), it retains its compact layout of narrow streets and towers — a miniature version of the kind of urban fabric you find in [Genoa](/europe/italy/liguria/genoa), but quieter and easier to explore.

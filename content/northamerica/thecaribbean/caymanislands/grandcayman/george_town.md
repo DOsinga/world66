@@ -8,10 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Waterfront,_George_Town,_G
 latitude: 19.2866
 loc_type: city
 longitude: -81.3744
-score: 0.7
+score: 8.78
 sources:
 - https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands
 title: George Town
+snippet: Cayman Islands capital and Grand Cayman cruise port, centred on banking and
+  duty-free waterfront commerce.
 type: location
 ---
 

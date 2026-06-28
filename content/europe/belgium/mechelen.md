@@ -7,8 +7,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Mechelen_van_hoog.jpg
 latitude: 51.028138
 loc_type: city
 longitude: 4.480345
-score: 0.59
+score: 8.16
 title: Mechelen
+snippet: Flemish small city between Brussels and Antwerp, with St. Rumbold's Cathedral
+  above guild-house streets.
 type: location
 ---
 

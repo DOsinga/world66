@@ -6,6 +6,7 @@ longitude: 23.4347
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Cape Drepano is the southwestern tip of the Kassandra peninsula, a wedge of low cliff with a lighthouse and a famous shallow strip of sand that runs out into the sea at low tide. The cape is the southernmost point of Kassandra, and the views east towards Sithonia and south across the open Aegean are wide and uninterrupted.

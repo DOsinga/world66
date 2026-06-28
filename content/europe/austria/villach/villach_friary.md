@@ -16,6 +16,7 @@ story: >
   Carinthian churches of their Catholic character — partly because the Franciscans
   maintained strong ties with the local guilds and trade community that depended
   on the river crossing here.
+score: 6.1
 ---
 
 The Villach Friary (Franziskanerkloster Villach) is a Franciscan complex situated just off the main pedestrian area, responsible for the parish of St. Nikolaus. The friary church is less visited than the Stadtpfarrkirche but contains some fine baroque altar work and a calm cloister garden that is accessible during opening hours.

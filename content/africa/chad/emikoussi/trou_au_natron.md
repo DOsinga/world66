@@ -9,6 +9,7 @@ longitude: 18.5167
 snippet: "A vast caldera within the caldera — white and orange mineral deposits in a 1,000m deep volcanic depression"
 sources:
   - https://en.wikipedia.org/wiki/Trou_au_Natron
+score: 9.3
 ---
 
 The Trou au Natron (Soda Hole) is a secondary caldera within the main Emi Koussi caldera, roughly 8 kilometres wide and nearly 1,000 metres deep. Its floor is crusted white and orange with natron (sodium carbonate) and other evaporite minerals deposited by ancient lake beds and hydrothermal activity. The colour contrast between the dark volcanic walls and the pale floor makes it one of the most striking geological sights in Africa.

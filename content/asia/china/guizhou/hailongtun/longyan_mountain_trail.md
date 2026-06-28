@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.8100
 longitude: 106.8150
+score: 7.0
 ---
 
 The approach to Hailongtun is a stone-paved path up Longyan Mountain from the base reception area, gaining roughly 400 metres of elevation over about 3 kilometres. The path was originally the fortress's supply road, engineered into the hillside with drainage channels cut into the stone — you can see them clearly in dry weather as parallel grooves on either side of the main track. The climb takes about an hour at a moderate pace, through mixed forest that thickens as you gain altitude.

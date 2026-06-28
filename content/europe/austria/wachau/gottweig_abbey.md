@@ -15,6 +15,7 @@ story: >
   completed in the Baroque style; the rest of the monastery is a mixture of
   periods that somehow works better than Hildebrandt's grand unified plan
   would have.
+score: 8.6
 ---
 
 Göttweig Abbey stands on a wooded hill above the eastern end of the Wachau, visible from the valley for kilometres. A Benedictine monastery has occupied this site since 1083; the current Baroque buildings mostly date from the 18th century, when Johann Lucas von Hildebrandt rebuilt much of the complex after a devastating fire. The Imperial Staircase, with its ceiling fresco by Paul Troger depicting the apotheosis of Emperor Karl VI, is one of the great Baroque interior spaces in Austria.

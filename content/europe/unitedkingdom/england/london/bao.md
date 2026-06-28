@@ -2,12 +2,15 @@
 address: 53 Lexington Street, London W1F 9AS (Soho); also in Fitzrovia, Shoreditch
 latitude: 51.513672
 longitude: -0.136982
-opening_hours: Mon–Sat noon–10pm; Sun noon–9pm; no reservations, queue forms before opening
+opening_hours: Mon–Sat noon–10pm; Sun noon–9pm; no reservations, queue forms before
+  opening
 price_range: £5–8 per bao; £20–30 per person
+score: 6.9
 snippet: Taiwan's steamed bao buns done with exceptional care in Soho
 tags:
 - eating_out
 - restaurant
+- soho
 title: BAO
 type: poi
 url: www.baolondon.com

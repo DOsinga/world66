@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "British Rail closed the line in 1971, and a group of local volunteers reopened it three years later — section by section, using bought-back stock and a small army of unpaid signalmen, engineers and station staff. Today it is the longest steam-operated heritage railway in England, run almost entirely by volunteers."
+score: 7.0
 ---
 
 Minehead is the terminus of the West Somerset Railway, a beautifully preserved heritage steam line that runs 20 miles inland through Watchet and Bishops Lydeard to a connection with the national network near Taunton. Trains run most days from spring to autumn, plus Santa specials in December.

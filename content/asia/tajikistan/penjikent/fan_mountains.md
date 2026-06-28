@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 story: "The lakes — Mijgon, Soya, Hushyor, Nofin, Khurdak, Marguzor and Hazor Chashma — are arranged in a chain along the Shing valley south of Penjikent, each one a different shade of turquoise, jade or emerald. Locals say each colour represents a different mood of the unfortunate Princess Nofin, who turned each into stone over a series of grievances."
+score: 9.4
 ---
 
 The Fan Mountains begin a few kilometres south of Penjikent and offer the most accessible serious trekking in Tajikistan — high enough to feel proper Pamir-quality but reachable by ordinary 4WD taxi from town. The Seven Lakes (Haftkul) in the Shing Valley are the classic three-day walk, working up from village to village past a sequence of jewel-coloured lakes.

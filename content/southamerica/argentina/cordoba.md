@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:J31_223_C%C3%B3rdoba,_Wand
 latitude: -31.416687
 loc_type: city
 longitude: -64.183419
-score: 0.56
+score: 7.81
+snippet: Argentine university city and mountain province, with Jesuit blocks and the
+  Sierras de Córdoba nearby.
 title: Cordoba
 type: location
 ---

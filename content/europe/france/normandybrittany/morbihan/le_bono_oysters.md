@@ -6,6 +6,7 @@ longitude: -2.9494
 tags:
   - eating_out
   - sight
+score: 5.8
 ---
 
 The small village of Le Bono, on the river Auray a few kilometres upstream from the gulf, is the centre of the Morbihan oyster industry. The river runs through extensive beds; a fleet of flat-bottomed work boats — chalands — services the cages from sunrise.

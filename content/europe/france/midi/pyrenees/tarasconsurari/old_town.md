@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8458
 longitude: 1.6068
+score: 6.1
 ---
 
 The medieval heart of Tarascon stretches along the right bank of the Ariège below the Castella tower. Narrow lanes wind between stone houses with overhanging upper storeys, leading to the Place Garrigou and the church of Notre-Dame-de-la-Daurade with its octagonal tower.

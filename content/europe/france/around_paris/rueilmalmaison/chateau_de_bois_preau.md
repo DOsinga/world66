@@ -10,6 +10,7 @@ tags:
 snippet: 'Small château near Malmaison holding Napoleonic memorabilia from the exile on Saint Helena.'
 story: >
   The museum''s most poignant exhibit is Napoleon''s camp bed from Saint Helena — the same one he died on in 1821. It arrived in France along with his death mask and personal effects, assembled here as a kind of shrine to the emperor''s final years.
+score: 7.5
 ---
 
 A short walk from the main Château de Malmaison through the park, this smaller estate houses the Napoleonic memorabilia that didn't fit the domestic narrative of the main house. The focus here is on Napoleon's exile and death on Saint Helena: personal effects, letters, the camp bed he died on, and his death mask.

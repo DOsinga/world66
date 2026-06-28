@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-22'
+image: fresno.jpg
+image_attribution: Bobak Ha'Eri
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2009-0725-CA-FresnoSantaFeStation_(cropped).jpg
 latitude: 36.7394
 loc_type: city
 longitude: -119.7848
-score: 0.33
+score: 5.71
+snippet: San Joaquin Valley city and agricultural hub, with Yosemite and Sierra Nevada
+  foothills within reach
 title: Fresno
 type: location
-image: fresno.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2009-0725-CA-FresnoSantaFeStation_(cropped).jpg
-image_license: CC BY 3.0
-image_attribution: Bobak Ha'Eri
 ---
 
 Fresno sits in the heart of California's San Joaquin Valley, surrounded by some of the most productive farmland on earth. It's not a glamorous city, but it has real character — a working agricultural hub that also happens to be the gateway to the Sierra Nevada and [Yosemite National Park](/northamerica/unitedstates/california/centralvalley/fresno/yosemite_day_trip), just 60 miles to the north on Highway 41.

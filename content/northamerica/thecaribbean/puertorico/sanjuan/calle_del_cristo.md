@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 7.7
 ---
 
 Calle del Cristo is the spine of Old San Juan's small-shop economy — three blocks of art galleries, jewellery shops, cigar specialists, rum stores, and outlets for US designer brands (Coach, Ralph Lauren, and a few others), all in restored colonial townhouses. The street starts at the Capilla del Cristo at the southern wall and runs up to the Cathedral.

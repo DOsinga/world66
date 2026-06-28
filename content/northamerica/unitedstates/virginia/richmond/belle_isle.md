@@ -8,6 +8,7 @@ tags:
   - james_river_park
 latitude: 37.5229
 longitude: -77.4617
+score: 7.6
 ---
 
 A 54-acre island in the James River accessed by a pedestrian suspension bridge from Tredegar Street, Belle Isle is one of the most popular spots in Richmond. The island has granite outcrops with pools suitable for sunbathing and swimming, forested trails, and views of the whitewater rapids on either side. In summer, the flat rocks along the river fill with sunbathers and swimmers; in winter, the island belongs to dog walkers and joggers.

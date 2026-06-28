@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8750
 longitude: 121.5500
+score: 7.5
 ---
 
 Ningbo has a strong tradition of Yue opera (*Yue ju*), the regional opera form that originated in Zhejiang and became the second most popular form of Chinese opera after Beijing opera in the twentieth century. Yue opera is softer and more lyrical than Beijing opera, with all-female casts in its classical form and stories drawn from the romantic and historical literature of the Jiangnan tradition. Ningbo opera troupes perform regularly at the city's main performance venues and at temple festivals.

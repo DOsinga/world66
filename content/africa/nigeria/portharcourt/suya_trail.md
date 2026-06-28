@@ -7,6 +7,7 @@ tags:
   - eating_out
   - trans_amadi
   - restaurant
+score: 7.3
 ---
 
 Port Harcourt has a strong suya culture — the spiced, skewered meat that is the quintessential Nigerian street food. The best suya spots are informal roadsides where charcoal fires are lit around sunset and crowds gather to eat standing up with sliced onions and tomatoes on the side. Trans Amadi and the roads around Rumuola are the best areas to find suya spots with a serious following among locals.

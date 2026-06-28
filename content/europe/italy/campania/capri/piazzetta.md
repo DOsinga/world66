@@ -8,6 +8,7 @@ snippet: Capri's famous café-lined square — the world's most glamorous outdoo
 latitude: 40.5509
 longitude: 14.2230
 story: "Federico Fellini called the Piazzetta 'the most beautiful open-air drawing room in the world'. In the 1950s and 1960s, it was a reliable place to see Sophia Loren, Brigitte Bardot, Grace Kelly, and Aristotle Onassis on the same afternoon — all having discovered it independently."
+score: 7.3
 ---
 
 La Piazzetta is tiny — four cafés, a clock tower, and a church facade surround a terrace barely larger than a living room — but it carries a disproportionate sense of occasion. Sitting here with an overpriced coffee while the world passes through is one of the pleasures of Capri, regardless of how self-conscious it sounds. The terrace faces south across the rooftops toward the sea.

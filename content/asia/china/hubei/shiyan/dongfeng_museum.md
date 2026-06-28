@@ -8,6 +8,7 @@ latitude: 32.6500
 longitude: 110.7700
 story: >
   Shiyan barely existed before the Dongfeng Motor Corporation arrived in the 1960s. The "Third Front" — Mao's programme of relocating strategic industries deep into China's interior to protect them from potential invasion — brought tens of thousands of workers from Shanghai, Beijing, and coastal cities into a remote Hubei valley to build a car factory from nothing. They brought their cooking, their accents, and their urban culture, and Shiyan absorbed all of it.
+score: 7.1
 ---
 
 The Dongfeng Museum occupies part of the original factory complex in the Zhangwan district, the heart of the "automobile city" that Shiyan was built to be. The exhibits cover the full arc of Dongfeng's history: the initial Third Front programme that established the factory in this remote valley in 1969, the Soviet-influenced industrial design of the early vehicles, the expansion into joint ventures with Nissan, PSA, and Honda in the reform era, and the current position of Dongfeng as one of China's largest automotive groups.

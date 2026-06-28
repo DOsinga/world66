@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:WLM_-_2020_-_Stralsund_-_S
 latitude: 54.309631
 loc_type: city
 longitude: 13.082085
-score: 0.56
+score: 7.95
 title: Stralsund
 type: location
+snippet: Hanseatic Baltic port and UNESCO old town facing Rügen across the Strelasund.
 ---
 
 Stralsund is an old Hanseatic town on Germany's Baltic coast, a UNESCO World Heritage Site dating back more than 750 years. It sits on the Strelasund strait, connected to [Rügen](/europe/germany/mecklenburgwesternpomerania/rugen) — Germany's largest island — by a bridge, making it an ideal base for exploring both the island and the surrounding coastline. It is also the departure point for ferries to [Hiddensee](/europe/germany/mecklenburgwesternpomerania/stralsund/hiddensee_ferry), the beautiful car-free island to the west.

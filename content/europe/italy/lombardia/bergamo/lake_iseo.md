@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Lake Iseo
 type: poi
+score: 7.7
 ---
 
 Lake Iseo, also known as Lake Sebino, is the fourth-largest lake in Lombardy. Formed by the Valcamonica Glacier, it stretches 24 kilometres north to south and up to 5 kilometres wide — though the full width is rarely visible because Monte Isola, the largest inhabited lake island in Europe, sits squarely in the middle. No cars are allowed on Monte Isola, making it an ideal destination for walking or cycling; ferries cross regularly from Iseo and other lakeside towns.

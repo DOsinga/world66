@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Romanian Orthodox church with a working lunar mechanism on its tower
 story: "The black sphere on the tower is a working clock of the moon. A six-metre wooden globe, half black and half gilded, rotates once every 28 days to show the lunar phase to anyone in the square — installed in 1793 by a local clockmaker named Georg Rueppe, and still keeping time more than two centuries later."
+score: 7.6
 ---
 
 The Biserica cu Lună is the church that gives Union Square its peculiar landmark. Built between 1784 and 1790 in a blend of late Baroque and neoclassical styles, it served the city's Romanian Orthodox community at a time when Oradea was still firmly under Habsburg control. The interior is restrained for the period — gilded iconostasis, painted vault, a few large icons in the Romanian tradition — but the real attraction is on the outside.

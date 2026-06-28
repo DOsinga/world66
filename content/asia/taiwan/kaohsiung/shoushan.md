@@ -7,6 +7,7 @@ tags:
 latitude: 22.6306
 longitude: 120.2603
 snippet: Coral-limestone hill rising over the city, with monkeys and panoramic views
+score: 8.4
 ---
 
 The 356-metre limestone hill that rises directly behind the city centre, also known as Monkey Mountain for its troops of Formosan rock macaques. Several walking trails climb the wooded slopes: the most popular leaves from the Yuanheng Temple at the southern foot and reaches the **Stone Forest** and a series of viewpoints over the harbour and the city.

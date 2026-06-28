@@ -2,6 +2,7 @@
 category: Nature Reserve
 latitude: -34.3568
 longitude: 18.4972
+score: 9.4
 scores:
   activities: 0.5854
   sightseeing: 0.6495
@@ -14,6 +15,7 @@ tags:
 - things_to_do
 - day_trips
 - outdoor
+- southern_peninsula
 title: Cape Point and Cape of Good Hope
 type: poi
 ---

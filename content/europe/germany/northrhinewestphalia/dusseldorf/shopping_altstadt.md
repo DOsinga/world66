@@ -6,6 +6,7 @@ tags:
 - altstadt
 title: Altstadt Shopping
 type: poi
+score: 5.6
 ---
 
 The Altstadt — best known for its pubs — also hides good shopping in its narrow lanes. The emphasis here is on independent boutiques, vintage clothing shops, record stores, and specialist food shops rather than department stores.

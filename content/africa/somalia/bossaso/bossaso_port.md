@@ -7,6 +7,7 @@ tags:
 latitude: 11.2759
 longitude: 49.1861
 story: Bossaso's port is the economic engine of Puntland, handling trade goods destined for the entire northeast of Somalia. Dhows from Yemen and the Arabian Peninsula dock here alongside modern cargo vessels, continuing a maritime trade pattern that has connected this stretch of coast to the Gulf states for centuries.
+score: 7.4
 ---
 
 Bossaso port is the commercial heart of the city and the main gateway for goods entering Puntland. The harbour is sheltered by a natural bay, and trade activity peaks in the early morning and late afternoon when vessels arrive from and depart for Yemen, Djibouti, and ports along the Somali coast.

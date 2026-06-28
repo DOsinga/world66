@@ -5,6 +5,7 @@ latitude: 31.0443
 longitude: 31.3770
 snippet: "One of Egypt's largest universities, with a liver transplant centre that leads the continent."
 tags: [things_to_do, sight]
+score: 6.2
 ---
 
 Mansoura University was founded in 1972 and now enrolls over 100,000 students, making it one of the largest universities in Egypt and the Arab world. The campus spreads across a substantial slice of the city centre and gives Mansoura much of its character — the streets around it are full of bookshops, cheap cafés, and the particular energy of a university city that takes itself seriously.

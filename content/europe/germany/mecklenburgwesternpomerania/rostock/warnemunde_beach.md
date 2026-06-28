@@ -7,6 +7,7 @@ tags:
 latitude: 54.1778
 longitude: 12.0794
 address: "Alter Strom, 18119 Warnemünde, Rostock"
+score: 8.8
 ---
 
 Warnemünde is Rostock's seaside district at the mouth of the Warnow river, about 12 kilometres north of the city centre and reachable by S-Bahn in 20 minutes. It has one of the finest beaches on the German Baltic coast — a broad, clean stretch of white sand backed by characteristic German Baltic resort architecture, with the usual complement of beach chairs (Strandkörbe) for rent.

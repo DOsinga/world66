@@ -9,6 +9,7 @@ tags:
 - temple
 title: Trimbakeshwar
 type: poi
+score: 8.3
 ---
 
 Trimbakeshwar lies 28 km from Nashik and is one of the twelve Jyotirlingas, the most sacred Shiva shrines in India. What makes this one unusual is that its lingam has three faces representing Brahma, Vishnu, and Shiva — all other Jyotirlingas have Shiva alone as the main deity.

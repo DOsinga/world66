@@ -12,6 +12,7 @@ story: >
   maintained strict daily routines here — rising early, eating simple food, spending hours
   in silent prayer — the same austerity that would define his military command. The house
   is preserved exactly as it looked in his time, down to the garden he cultivated.
+score: 7.4
 ---
 
 The Stonewall Jackson House on Washington Street is the only home Thomas "Stonewall" Jackson ever owned. He lived here from 1858 to 1861, teaching at VMI across town, before leaving to lead Confederate forces in the Shenandoah Valley campaign. The house has been carefully preserved and restored: the rooms are furnished as they were in Jackson's time, and the guides are knowledgeable about both the man and the context.

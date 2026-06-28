@@ -5,7 +5,9 @@ done:
 latitude: 57.3904
 loc_type: city
 longitude: 21.5636
-score: 0.45
+score: 7.07
+snippet: Latvian port city on the Venta, with a medieval castle, promenade, and carefully
+  kept parks
 title: Ventspils
 type: location
 ---

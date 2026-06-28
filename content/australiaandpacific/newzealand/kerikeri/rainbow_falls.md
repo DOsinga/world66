@@ -18,6 +18,7 @@ story: >
   Northland had no power at all.
 sources:
   - https://en.wikipedia.org/wiki/Kerikeri_River
+score: 7.8
 ---
 
 Rainbow Falls, known in Maori as Waianiwaniwa, drops 27 metres over a basalt ledge into a deep pool on the Kerikeri River. The falls are reached by a walking track that begins at the Kerikeri Basin, following the river upstream through regenerating bush for about five kilometres. The track is well-maintained and can be walked in either direction; most people do it as an out-and-back from the basin, though a loop via the road is also possible.

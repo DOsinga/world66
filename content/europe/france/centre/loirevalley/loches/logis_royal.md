@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: The 14th-15th century royal residence within the citadel, with Joan of Arc's audience hall and the tomb of Agnès Sorel
 story: "It was in the great hall of the Logis Royal in June 1429 that Joan of Arc met the Dauphin and persuaded him to march on Reims for his coronation. Within months he was Charles VII, crowned king, and the French had begun their recovery from the English. The hall is preserved much as it was."
+score: 8.6
 ---
 
 The Logis Royal stretches along the western wall of the citadel above the river Indre. The older south wing is a tall 14th-century block with a square tower and walkways; the newer north wing, late 15th-century, is in early Flamboyant Gothic, with two tall stair-towers and decorated dormer windows. Together they form one of the most complete late-medieval royal residences in France.

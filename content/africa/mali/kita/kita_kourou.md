@@ -8,6 +8,7 @@ tags:
   - sight
   - mountain
 story: "The Malinké believe Kita-Kourou is the home of protective spirits, and the founders of Kita are said to have settled at its base on the advice of a hunter who heard voices from the rock. The annual Catholic pilgrimage to the Sacred Heart Cathedral at the foot of the mountain has folded these older beliefs into a syncretic local Christianity."
+score: 8.7
 ---
 
 The granite massif of Kita-Kourou rises abruptly from the plain just west of town, a smooth grey dome about 600 metres high that dominates every view in Kita. It is one of the great inselbergs of western Mali, geologically related to the more famous Mandinka Mountains further south, and has been a sacred place to the local Malinké people for centuries.

@@ -17,6 +17,7 @@ story: >
   and restored only after reunification.
 sources:
   - https://en.wikipedia.org/wiki/St._Nicholas_Church,_Potsdam
+score: 7.7
 ---
 
 St. Nicholas Church on the Old Market Square is the dominant landmark of Potsdam's city centre — a neoclassical church with a massive copper dome designed by Karl Friedrich Schinkel and completed in 1850. The scale is deliberately monumental; Frederick William IV wanted a church that would anchor the square as firmly as a Roman pantheon anchors a Roman piazza. The result is one of the finest examples of neoclassical religious architecture in Germany.

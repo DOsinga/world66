@@ -1,0 +1,200 @@
+{
+  "round": 2549,
+  "timestamp": "2026-06-13T21:50:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 16.8688,
+      "prior_variance": 1.450701,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 10.922,
+      "prior_variance": 0.321236,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 7.5393,
+      "prior_variance": 0.376853,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.7978,
+      "prior_variance": 0.269989,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 7.9158,
+      "prior_variance": 0.311338,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 4.4765,
+      "prior_variance": 0.196493,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 6.6884,
+      "prior_variance": 0.191528,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 6.4276,
+      "prior_variance": 0.266717,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 6.0833,
+      "prior_variance": 0.189284,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 5.8709,
+      "prior_variance": 0.220025,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 6.3063,
+      "prior_variance": 0.211566,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 5.7676,
+      "prior_variance": 0.279858,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 4.0347,
+      "prior_variance": 0.227951,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 5.6038,
+      "prior_variance": 0.234439,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 4.9427,
+      "prior_variance": 0.239725,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 5.4207,
+      "prior_variance": 0.202472,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 2.8683,
+      "prior_variance": 0.225125,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 4.1408,
+      "prior_variance": 0.249952,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Hoorn",
+      "path": "europe/netherlands/hoorn",
+      "prior_score": 1.9331,
+      "prior_variance": 0.174177,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 3.0011,
+      "prior_variance": 0.191244,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.6459,
+      "prior_variance": 0.158063,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.8973,
+      "prior_variance": 0.186675,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -1.9942,
+      "prior_variance": 0.154485,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Daman",
+      "path": "asia/india/daman",
+      "prior_score": -3.1339,
+      "prior_variance": 0.158818,
+      "prior_n": 8
+    }
+  ]
+}

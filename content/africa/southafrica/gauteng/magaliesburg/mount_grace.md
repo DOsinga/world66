@@ -6,6 +6,7 @@ longitude: 27.5050
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 Mount Grace is the grandest of the country-house hotels in the Magaliesburg valley — a thatched estate of cottages and gardens spread across the foothills, four kilometres west of the town. The restaurant is open to non-guests for the long Sunday lunch, which is the appropriate Magaliesburg meal.

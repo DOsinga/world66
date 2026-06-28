@@ -9,6 +9,7 @@ tags:
 - sight
 - temple
 story: "The 36.5-metre bronze statue of Guanyin, built between 1976 and 2002, originally stood unsheltered. A vast pavilion was added in 2009 to protect it from the elements — sixteen massive concrete columns supporting an open canopy that has become almost as photographed as the statue itself."
+score: 9.5
 ---
 
 Kek Lok Si — the Temple of Supreme Bliss — is the largest Buddhist temple complex in Malaysia and one of the most impressive in Southeast Asia. It clings to a hillside in Air Itam, about 7 km west of central Georgetown, and has grown continuously since work began in 1890 under the abbot Beow Lean, a Chinese monk who chose the site after a long search for a hill of auspicious feng shui.

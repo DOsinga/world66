@@ -8,6 +8,7 @@ tags:
 - downtown_dubai
 title: Dubai Opera
 type: poi
+score: 7.0
 ---
 
 The Dubai Opera opened in 2016 in the heart of Downtown Dubai, and is the emirate's first purpose-built performing arts centre. The building is designed by Janus Rostock and modelled on a traditional dhow — the hull-shaped roof is the most distinctive element in the otherwise glass-and-steel Downtown skyline.

@@ -10,8 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Anosy,_Central_Antana
 latitude: -18.910012
 loc_type: city
 longitude: 47.525581
-score: 0.46
+score: 6.94
 title: Antananarivo
+snippet: Hillside capital of Madagascar, ringed by rice paddies and crowned by the
+  old Rova palace.
 type: location
 ---
 

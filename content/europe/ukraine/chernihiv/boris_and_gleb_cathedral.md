@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Boris and Gleb were the first saints canonised by the Russian Orthodox Church — two sons of Vladimir the Great killed by their brother Sviatopolk in 1015 in a fratricidal succession struggle. Because they submitted to death without resistance, they were venerated as martyrs who preferred death to fratricide. The church built in their honour here in 1120s was one of dozens dedicated to them across Rus, but this is among the most ancient surviving.
+score: 8.1
 ---
 
 The Boris and Gleb Cathedral stands beside the Transfiguration Cathedral on Val Hill and was built in the 1120s as part of the ensemble of princely churches on the Chernihiv citadel. It is smaller than the Transfiguration Cathedral but architecturally more sophisticated — a six-pillared church with refined limestone carving in the window surrounds and doorways that shows the influence of Romanesque masons who were working in Rus during this period.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 7.5000
 longitude: -8.5000
+score: 8.0
 ---
 
 The Nimba National Forest covers a stretch of the lower slopes and foothills of the Nimba mountains in northern Nimba County, protecting one of the larger remnants of Upper Guinea rainforest in the country. It is contiguous with the broader Mount Nimba protected-area complex and is home to a remarkable concentration of West African forest species: chimpanzees, several species of monkeys, pygmy hippopotamus in the wetter drainages, forest elephants (rare), duikers, and an exceptional bird list.

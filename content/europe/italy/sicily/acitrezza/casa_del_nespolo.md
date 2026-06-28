@@ -11,6 +11,7 @@ story: >
   actors and no professional cast, was considered uncommercial and a failure on release. It has since
   been recognised as one of the masterpieces of Italian neorealism. The fishermen who played themselves
   continued to work from the same harbour for the rest of their lives.
+score: 6.3
 ---
 
 Near the harbour stands the Casa del Nespolo, a small museum dedicated to two works that made Acitrezza famous beyond Sicily. Giovanni Verga set his 1881 novel *I Malavoglia* — considered one of the great works of Italian realism, later translated as *The House by the Medlar Tree* — in this village, following a fishing family's struggles with poverty, debt, and misfortune. The medlar tree of the title still grows outside.

@@ -11,6 +11,7 @@ story: >
   meaning "heart lake" — is said never to dry up even in the harshest summers. The shape
   is unmistakable from the rim; looking down into the hollow of green water enclosed by
   the curved hillsides is one of those geographical surprises that stays with you.
+score: 8.3
 ---
 
 Chembra Peak, at 2100m, is the highest point in Wayanad and one of the better day treks in northern Kerala. The trail starts from Meppadi and climbs through grassland and shola forest to a heart-shaped lake at around 1800m — the most photographed feature of the trek — and then continues steeply to the summit with panoramic views over the Wayanad plateau and into Karnataka on clear days.

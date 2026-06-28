@@ -1,12 +1,16 @@
 ---
 title: Downtown
 type: neighbourhood
-latitude: 36.1700
-longitude: -115.1410
-snippet: "The historic gambling district around Fremont Street"
+latitude: 36.17
+longitude: -115.141
+snippet: The historic gambling district around Fremont Street
 tags:
 - things_to_do
 - neighbourhood
+image: downtown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_Fremont_Street_Experience.jpg
+image_license: CC0
+image_attribution: Dicklyon
 ---
 
 Downtown Las Vegas is where the city actually started, decades before the Strip existed. The hub is Fremont Street, the five-block pedestrian-only stretch covered by an enormous LED canopy that runs hourly light shows. The casinos here are smaller, older, and several of them — the Golden Nugget, the El Cortez, the Plaza — have been operating in some form since the 1940s or 1950s.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.1200
 longitude: -61.8455
+score: 5.9
 ---
 
 Commissioner Grill is one of the most reliable restaurants in St. John's, situated in the Redcliffe Quay complex. The menu leans into Caribbean Creole cooking — lobster, shrimp, grilled fish with mango salsa, rice and peas, and rotating specials depending on the day's catch. The setting, in a restored colonial warehouse with tables spilling into the courtyard, is among the most pleasant in town.

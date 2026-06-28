@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Masjid_Ubudiah.jpg
 latitude: 4.812181
 loc_type: city
 longitude: 100.979791
-score: 0.52
+score: 7.56
+snippet: Malaysian state shaped by tin mining, Ipoh shophouses, royal Kuala Kangsar,
+  and mountain rainforest.
 sources:
 - https://en.wikipedia.org/wiki/Perak
 - https://en.wikivoyage.org/wiki/Perak

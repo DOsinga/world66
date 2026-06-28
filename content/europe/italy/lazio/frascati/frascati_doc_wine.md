@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "One of Italy's most famous whites — crisp, dry, best drunk here from the source"
+score: 7.3
 ---
 
 Frascati Superiore DOC is one of Italy's best-known white wines and has been the unofficial house wine of Rome for centuries. Made primarily from Malvasia and Trebbiano grapes grown on the volcanic soils of the Alban Hills, it is a crisp, dry white with a slightly mineral finish — best drunk young and cold. The proximity to Rome made it the city's default table wine for generations; you will still find it listed simply as "vino bianco" in Roman trattorias.

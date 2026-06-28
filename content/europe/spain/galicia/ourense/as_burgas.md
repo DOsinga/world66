@@ -1,8 +1,13 @@
 ---
-snippet: Natural thermal springs that have been flowing since Roman times, right in the city centre
+latitude: 42.3341
+longitude: -7.8646
+score: 7.8
+snippet: Natural thermal springs that have been flowing since Roman times, right in
+  the city centre
 tags:
 - things_to_do
-- nature
+- sight
+- thermal_baths
 title: As Burgas
 type: poi
 ---

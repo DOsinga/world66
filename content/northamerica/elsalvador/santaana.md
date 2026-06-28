@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ES_Santa_Ana_06_2011_2543.
 latitude: 13.9942
 loc_type: city
 longitude: -89.5597
-score: 0.39
+score: 6.52
+snippet: Salvadoran highland city below Santa Ana Volcano, with coffee country, theatres,
+  and Maya ruins nearby
 title: Santa Ana
 type: location
 ---

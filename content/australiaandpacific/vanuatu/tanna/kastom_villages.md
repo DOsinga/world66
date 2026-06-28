@@ -7,6 +7,7 @@ tags:
   - culture
 latitude: -19.4800
 longitude: 169.3200
+score: 8.4
 ---
 
 The kastom (traditional) culture of Tanna is unusually strong compared to much of Vanuatu, which has seen significant Christianisation and westernisation elsewhere in the archipelago. Several villages on the island maintain traditional dress, practices, and belief systems, largely rejecting outside religious and cultural influence. Nagriamel and Yakel are among the villages that maintain traditional ways most visibly.

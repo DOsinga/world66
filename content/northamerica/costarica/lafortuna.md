@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arenal-Vukan_und_der_Ort_L
 latitude: 10.4679
 loc_type: city
 longitude: -84.6427
-score: 0.67
+score: 9.17
+snippet: Northern Costa Rican adventure town at the foot of Arenal Volcano's near-perfect
+  cone.
 title: La Fortuna
 type: location
 ---

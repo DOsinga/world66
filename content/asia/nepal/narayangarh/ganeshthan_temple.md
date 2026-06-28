@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7061
 longitude: 84.4486
+score: 5.7
 ---
 
 The Ganeshthan Temple is a Hindu temple dedicated to Ganesh, the elephant-headed god who removes obstacles and brings good fortune to new ventures. The temple is active and well-maintained, and the surrounding neighbourhood retains some of the feel of a traditional Terai market town.

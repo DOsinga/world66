@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ZunyiMeeting.jpg
 latitude: 27.705
 loc_type: city
 longitude: 106.9336
+score: 6.22
+snippet: Guizhou city where the 1935 Zunyi Conference changed the course of the Chinese
+  Communist Party.
 sources:
 - https://en.wikivoyage.org/wiki/Zunyi
 title: Zunyi

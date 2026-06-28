@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - cafe
 - gornji_grad
+score: 5.8
 ---
 
 Amelie is the place to break a long Upper Town walk for cake and coffee. The patisserie counter is the main draw — towers of macarons in twenty colours, fruit tarts, gâteaux, éclairs — but the kitchen also turns out respectable savoury quiches and a short brunch menu. The pale pink interior is unapologetically Parisian.

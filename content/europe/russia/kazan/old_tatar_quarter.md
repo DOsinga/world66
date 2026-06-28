@@ -6,6 +6,7 @@ longitude: 49.1095
 tags:
   - things_to_do
   - neighbourhood
+score: 9.0
 ---
 
 The Old Tatar Quarter — known as Staro-Tatarskaya Sloboda — is the lower-town district on the far side of the Bolaq canal where Tatars were resettled after the Russian conquest. Today it is the best-preserved Tatar neighbourhood in the city: narrow streets of 19th-century wooden and stone houses painted in turquoise, red, and ochre, several small mosques tucked among them, and the city's best Tatar cooking in family-run restaurants.

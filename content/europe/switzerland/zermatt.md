@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:3802_-_Zermatt_-_Matterhor
 latitude: 46.0207
 loc_type: city
 longitude: 7.7491
-score: 0.88
+score: 9.72
+snippet: Car-free Valais mountain village at the foot of the Matterhorn, with skiing
+  shared across the Italian border.
 sources:
 - https://en.wikipedia.org/wiki/Zermatt
 - https://en.wikipedia.org/wiki/Matterhorn_Museum

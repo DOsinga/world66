@@ -1,0 +1,200 @@
+{
+  "round": 2993,
+  "timestamp": "2026-06-13T22:21:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 3.5231,
+      "prior_variance": 0.148647,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Gili Air",
+      "path": "asia/indonesia/lombok/giliislands/gili_air",
+      "prior_score": 4.9496,
+      "prior_variance": 0.170568,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 5.111,
+      "prior_variance": 0.178878,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Redang",
+      "path": "asia/malaysia/redang",
+      "prior_score": 3.2575,
+      "prior_variance": 0.143404,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 4.075,
+      "prior_variance": 0.158654,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 3.8961,
+      "prior_variance": 0.152527,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 3.3785,
+      "prior_variance": 0.143317,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 2.9802,
+      "prior_variance": 0.143175,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.6641,
+      "prior_variance": 0.141426,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.2325,
+      "prior_variance": 0.156672,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 3.0362,
+      "prior_variance": 0.144597,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.4488,
+      "prior_variance": 0.159734,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Jerez de la Frontera",
+      "path": "europe/spain/andalucia/jerezdelafrontera",
+      "prior_score": 3.9041,
+      "prior_variance": 0.154328,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -1.8193,
+      "prior_variance": 0.128314,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -1.4494,
+      "prior_variance": 0.191234,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -1.2037,
+      "prior_variance": 0.144189,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.8529,
+      "prior_variance": 0.147401,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -1.8375,
+      "prior_variance": 0.137585,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -4.2408,
+      "prior_variance": 0.173081,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -3.2138,
+      "prior_variance": 0.152866,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -4.0656,
+      "prior_variance": 0.130795,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.5683,
+      "prior_variance": 0.163983,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.0838,
+      "prior_variance": 0.230125,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.5524,
+      "prior_variance": 0.138539,
+      "prior_n": 9
+    }
+  ]
+}

@@ -8,6 +8,7 @@ tags:
 - swimming
 title: Wrightsville Beach
 type: poi
+score: 7.3
 ---
 
 Wrightsville Beach is the closest Atlantic Ocean beach to downtown Wilmington, about 10 miles east via US-74. It's a classic barrier island beach town — a long, narrow strip of sand backed by surf shops, restaurants, and beach houses, with the Atlantic on one side and a tidal channel on the other. The beach itself is wide and clean, the surf is moderate, and the water is warm from June through September.

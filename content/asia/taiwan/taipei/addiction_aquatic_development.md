@@ -2,11 +2,13 @@
 address: 18 Alley 2 Lane 410 Minzu East Road, Zhongshan District, Taipei
 latitude: 25.0807
 longitude: 121.5379
+score: 6.8
 snippet: Stylish sashimi market, sushi bar and izakaya in Taipei's seafood market
 tags:
 - eating_out
 - restaurant
 - seafood
+- zhongshan
 title: Addiction Aquatic Development
 type: poi
 url: https://www.addiction.com.tw

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Masterton,_New_Zealand_(16
 latitude: -40.95
 loc_type: city
 longitude: 175.66
+score: 6.76
+snippet: Wairarapa service town for sheep country, wine trips, and the Golden Shears
+  shearing championships.
 sources:
 - https://en.wikipedia.org/wiki/Masterton
 - https://en.wikipedia.org/wiki/P%C5%ABkaha_National_Wildlife_Centre

@@ -1,14 +1,14 @@
 ---
+latitude: 45.434
+longitude: 12.3403
+score: 7.9
+snippet: Quiet church a minute from San Marco with one of Bellini's greatest altarpieces
+tags:
+- things_to_do
+- castello
+- sight
 title: San Zaccaria
 type: poi
-tags:
-  - things_to_do
-  - castello
-  - sight
-latitude: 45.4340
-longitude: 12.3403
-snippet: "Quiet church a minute from San Marco with one of Bellini's greatest altarpieces"
-neighbourhood: Castello
 ---
 
 San Zaccaria is a church a short walk from Piazza San Marco that most visitors walk past without entering, which means most visitors miss one of the finest Renaissance altarpieces in Venice. Giovanni Bellini's Madonna Enthroned with Saints (1505), on the left wall of the nave, is considered one of his greatest works — a large, luminous, serene painting that rewards prolonged looking.

@@ -13,6 +13,7 @@ story: >
   Mexican history from pre-Columbian civilization through the Revolution, with
   Morelos, Hidalgo, and other heroes of the independence movement given
   prominent positions. Zalce was 85 when he finished the last section.
+score: 8.1
 ---
 
 The Palacio de Gobierno occupies the entire east side of the Plaza de Armas, its long baroque facade of pink cantera stone providing a stately backdrop to the main square. Built in the 18th century as the residence of the bishop of Michoacan, it became the state government building after independence. The building is open to visitors, and the real reason to enter is the remarkable series of murals by Alfredo Zalce that line the staircase and upper galleries.

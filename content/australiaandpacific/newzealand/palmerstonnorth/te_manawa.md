@@ -7,6 +7,7 @@ tags:
 - museum
 title: Te Manawa
 type: poi
+score: 8.1
 ---
 
 Te Manawa — "the heart" in te reo Māori — is the city's flagship cultural institution, combining a regional museum, an art gallery, and an interactive science centre under a single roof. The museum collection focuses on the Manawatū region: Rangitāne taonga, colonial-era farming, the railway, and the history of the city itself.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.3950
 longitude: 9.7580
+score: 8.5
 ---
 
 The Fex Valley (Val Fex) is a hanging valley above Sils Maria, accessible by horse-drawn carriage or on foot, that takes you away from the busy main valley into quieter, more traditional Alpine scenery. The valley floor is car-free — a rarity in Switzerland — and is crossed by a path leading to the hamlet of Crasta and then up to the high alp at the valley's head. The combination of the larch forests, the meadows, and the silence makes it the most peaceful walking in the Upper Engadine.

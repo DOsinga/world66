@@ -8,6 +8,7 @@ latitude: -37.6678
 longitude: 176.1977
 sources:
   - https://en.wikipedia.org/wiki/Classic_Flyers_Museum
+score: 6.8
 ---
 
 Located at Tauranga Airport, this aviation museum houses a collection of restored and airworthy vintage aircraft spanning the 1930s through the 1960s, with particular strength in World War Two types. Several of the aircraft are maintained in flying condition and occasionally perform at local airshows.

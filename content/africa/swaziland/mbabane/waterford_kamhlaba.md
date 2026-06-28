@@ -14,6 +14,7 @@ story: >
   legally exist across the border. It was established partly with support from
   King Sobhuza II of Swaziland, who wanted his kingdom to stand as a model of
   racial equality. Nelson Mandela's daughter Zenani was among its alumni.
+score: 7.3
 ---
 
 Waterford Kamhlaba United World College is one of the 18 United World Colleges worldwide and one of the most historically significant schools in southern Africa. Located on a hillside about 5 km from the Mbabane city centre, the campus overlooks the surrounding Dlangeni Hills with views across the highveld.

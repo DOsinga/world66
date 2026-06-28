@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1974
 longitude: 50.0938
+score: 6.2
 ---
 
 Samara's oldest public park, established in the 19th century on a hill above the Volga with views over the river and across to the far bank. The garden is compact but well-maintained, with shaded walks, a small amphitheatre used for summer concerts, and a ferris wheel that remains a city landmark. It sits between the old merchant quarter and the embankment, making it a natural stopping point on a walk through the historic centre.

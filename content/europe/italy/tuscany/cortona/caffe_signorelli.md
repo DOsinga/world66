@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 43.2755
 longitude: 11.9849
+score: 5.2
 ---
 
 A long-running cafe on Piazza Signorelli with outdoor tables under the arches of the old theatre. Coffee, pastries, light lunches; gelato in the afternoons; aperitivi from around 6pm.

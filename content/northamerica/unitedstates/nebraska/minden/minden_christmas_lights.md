@@ -6,6 +6,7 @@ longitude: -98.9481
 tags:
   - things_to_do
   - event
+score: 7.9
 ---
 
 Minden has called itself the "Christmas City" of the Great Plains for decades, and the holiday light display that covers the courthouse square and the surrounding blocks from Thanksgiving through New Year's Day is the reason. The displays are elaborate by small-town standards — thousands of lights decorating the courthouse, the historic commercial buildings, and the trees along the main streets — and the tradition draws visitors from across Kearney County and the wider south-central Nebraska region.

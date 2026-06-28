@@ -6,6 +6,7 @@ longitude: -22.9039
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Santa Maria Beach is the centrepiece of Sal's tourist industry — a long, white sand beach on the island's south coast with warm, clear Atlantic water and consistent surf. The village of Santa Maria behind it has grown considerably in recent years to accommodate European package tourism, with hotels, restaurants, and beach bars strung along the front.

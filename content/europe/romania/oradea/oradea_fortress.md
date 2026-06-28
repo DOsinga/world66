@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 story: "The fortress was rebuilt in the 16th century in the new Italian pentagonal star pattern, with five corner bastions designed to enfilade attackers. It is one of only a handful of true bastion fortresses surviving east of Vienna, and the design held off the Ottomans for more than fifty years before falling in 1660."
+score: 8.2
 ---
 
 Cetatea Oradea is a five-pointed star fortress on the east bank of the Crișul Repede, just across the river from the centre. The original wooden castle on this site dated back to the 11th century, but what you see today is the 16th-century Italian bastion design — five corner bastions, broad earthen ramparts faced with brick, and a parade ground in the middle.

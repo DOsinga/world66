@@ -5,13 +5,15 @@ latitude: 41.9065
 longitude: 12.4536
 opening_hours: Mon–Sat 09:00–18:00 (last entry 16:00); closed Sun except last Sunday
   of month
+score: 9.7
+snippet: Papal art collection culminating in the Sistine Chapel
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
 - museum
 - church
-snippet: "Papal art collection culminating in the Sistine Chapel"
+- prati
 title: Vatican Museums & Sistine Chapel
 type: poi
 url: www.museivaticani.va

@@ -15,6 +15,7 @@ story: >
   monks and visitors would walk over him for eternity as an act of humility.
 sources:
   - https://en.wikipedia.org/wiki/Gelati_Monastery
+score: 9.2
 ---
 
 The Gelati Monastery complex, about 11 km northeast of Kutaisi, is the finest expression of the Georgian medieval golden age. Founded in 1106 by King David the Builder, it served as the royal monastery and burial place of the Georgian kings, and its surviving mosaics and frescoes are among the most remarkable in the Caucasus.

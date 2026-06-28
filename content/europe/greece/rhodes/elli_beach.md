@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4540
 longitude: 28.2262
+score: 6.2
 ---
 
 Elli Beach curves along the northern tip of Rhodes City just outside the Old Town walls, with a long stretch of sand and shingle facing the Aegean. It is the city's main urban beach, easily walkable from the Old Town, and popular from late spring through early autumn. The water is generally clear and the beach is organised, with loungers and umbrellas for hire, showers, and a line of beach bars along the promenade.

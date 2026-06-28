@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%C3%84gina_Hafenblick.jpg
 latitude: 37.724369
 loc_type: city
 longitude: 23.493811
-score: 0.63
+score: 8.71
+snippet: Saronic island near Athens, with pistachio groves, fishing villages, beaches,
+  and the Temple of Aphaia.
 title: Aegina
 type: location
 ---

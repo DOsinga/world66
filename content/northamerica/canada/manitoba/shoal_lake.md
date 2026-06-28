@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Shoal_lake_fountains.jpg
 latitude: 50.4379
 loc_type: city
 longitude: -100.591171
-score: 0.31
+score: 5.85
+snippet: Small western Manitoba farming town beside Shoal Lake, with fishing, lakeside
+  camping, and an RCMP museum.
 title: Shoal Lake
 type: location
 ---

@@ -9,6 +9,7 @@ title: Juma Mosque
 type: poi
 story: >
   The Juma Mosque in Tbilisi is one of the very few mosques in the world where Sunni and Shia Muslims regularly pray together in the same space. The arrangement reflects the demographics of Tbilisi's historically mixed Muslim community — Azerbaijani Shia and Persian Sunni traders who settled here and built their religious life around shared rather than separate spaces. The practice has continued for over two centuries without significant friction.
+score: 7.8
 ---
 
 The Juma Mosque in Tbilisi's old town is an 18th-century building that serves both Sunni and Shia Muslim communities — a rare arrangement anywhere in the world, and a reflection of Tbilisi's historically cosmopolitan character. The congregation is mainly Azerbaijani and Iranian in origin, reflecting the city's centuries-long position on the trade routes between the Middle East and the Caucasus.

@@ -1,0 +1,200 @@
+{
+  "round": 3748,
+  "timestamp": "2026-06-13T23:17:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 7.0604,
+      "prior_variance": 0.138328,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.787,
+      "prior_variance": 0.113641,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 1.7801,
+      "prior_variance": 0.108365,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 1.0174,
+      "prior_variance": 0.113641,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": -0.0281,
+      "prior_variance": 0.105265,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 0.6182,
+      "prior_variance": 0.110389,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.7277,
+      "prior_variance": 0.116809,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -2.312,
+      "prior_variance": 0.105402,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -2.5523,
+      "prior_variance": 0.104443,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -2.9447,
+      "prior_variance": 0.107757,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.2301,
+      "prior_variance": 0.115692,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -4.5817,
+      "prior_variance": 0.138901,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -2.7647,
+      "prior_variance": 0.12479,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Yan'an",
+      "path": "asia/china/shaanxi/yan_an",
+      "prior_score": -2.7693,
+      "prior_variance": 0.10864,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -3.2223,
+      "prior_variance": 0.127005,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.2599,
+      "prior_variance": 0.105541,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -3.3087,
+      "prior_variance": 0.125185,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -1.8972,
+      "prior_variance": 0.131931,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -3.5971,
+      "prior_variance": 0.122605,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -3.0799,
+      "prior_variance": 0.128393,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -4.0825,
+      "prior_variance": 0.110664,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -4.5328,
+      "prior_variance": 0.163852,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.4096,
+      "prior_variance": 0.131365,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -5.2454,
+      "prior_variance": 0.177019,
+      "prior_n": 12
+    }
+  ]
+}

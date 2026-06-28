@@ -11,6 +11,7 @@ story: >
   The Crusader church on this site was built in the 12th century on the traditional location of Simon Peter's house. After the Crusader period, it was converted into a mosque and later a caravanserai. Napoleon's army used it as a headquarters during the Sinai campaign in 1799, and a plaque inside commemorates the visit. The current building incorporates the remains of these earlier structures under its Franciscan reconstruction.
 sources:
   - https://en.wikipedia.org/wiki/Saint_Peter%27s_Church,_Tiberias
+score: 6.5
 ---
 
 St. Peter's Church stands on the promenade facing the Sea of Galilee, marking the traditional site of the home of Simon Peter, the fisherman who became the apostle. The current church is a Franciscan building constructed in the late 19th century incorporating elements of the earlier Crusader structure that stood here from the 12th century.

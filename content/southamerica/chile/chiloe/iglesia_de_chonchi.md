@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Iglesia de Chonchi
 type: poi
+score: 7.4
 ---
 
 Chonchi's church anchors one of the island's most attractive small towns, set above the water south of Castro. The building belongs to the UNESCO church tradition, with timber construction and a bright, simple presence on the square.

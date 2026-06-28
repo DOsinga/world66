@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -26.8303
 longitude: -65.2053
+score: 8.0
 ---
 
 A grand Beaux-Arts palace on the north side of Plaza Independencia, built between 1908 and 1912 in the eclectic French style favoured by Argentina's wealthy elite at the height of the sugar boom. The interior contains marble staircases, period reception rooms, and a small ground-floor museum.

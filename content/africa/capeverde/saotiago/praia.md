@@ -5,7 +5,9 @@ done:
 latitude: 14.916281
 loc_type: city
 longitude: -23.50951
-score: 0.49
+score: 7.37
+snippet: Cape Verdean capital on Santiago, with a compact plateau old quarter above
+  the harbour.
 title: Praia
 type: location
 ---

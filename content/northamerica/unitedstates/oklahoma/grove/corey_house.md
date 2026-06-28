@@ -9,6 +9,7 @@ snippet: "Restored 1907 hotel on Main Street, listed on the National Register"
 address: "N Main St at 2nd St, Grove, OK"
 latitude: 36.5942
 longitude: -94.7692
+score: 5.2
 ---
 
 The Corey House is a two-storey brick building from 1907, built as a hotel for travellers arriving on the Kansas City Southern Railway and listed on the National Register of Historic Places. It sits at the corner of Main and 2nd, in what remains of Grove's small original downtown.

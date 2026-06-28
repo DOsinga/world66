@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 6.500404
 longitude: 124.843544
+score: 6.6
 ---
 
 The Koronadal Public Market is one of the more orderly and navigable public markets in Mindanao. The fresh produce section reflects the agricultural wealth of South Cotabato — a province that produces some of the best asparagus, cut flowers, pineapples, and vegetables in the Philippines. The fish section, particularly in the mornings, carries local varieties from inland rivers and from the Gulf coast at General Santos.

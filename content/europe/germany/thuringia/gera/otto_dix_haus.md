@@ -8,6 +8,7 @@ latitude: 50.8824
 longitude: 12.0642
 sources:
   - https://en.wikipedia.org/wiki/Otto-Dix-Haus
+score: 7.3
 ---
 
 The Otto-Dix-Haus is a museum in the actual birth house of the painter at Mohrenplatz 4 in Gera's Untermhaus district. The building has been preserved as a biographical museum, with displays on Dix's early life, his education, and the social and artistic context of his career. It complements the Kunstmuseum's art-focused collection with a more personal and historical perspective.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.8000
 longitude: -132.9700
+score: 7.1
 ---
 
 The Raven Trail is a moderate hike through Tongass National Forest that climbs from near sea level to a ridge with panoramic views of the surrounding islands, channels, and mainland peaks. The trail passes through the dense Sitka spruce and western hemlock forest typical of the Inside Passage — mossy, dripping, and alive with birds. Muskeg bogs, small alpine lakes, and occasional bear tracks remind you that the backcountry begins immediately where the road ends.

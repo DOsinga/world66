@@ -6,6 +6,7 @@ longitude: -79.9410
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Lucky is a modern American restaurant in a restored Campbell Avenue storefront in the heart of downtown. The kitchen turns out an inventive menu of small plates and shareable mains — Korean fried chicken, charred octopus, scallops with grits — that draws on regional ingredients without descending into Southern-comfort cliché. It is consistently among the highest-rated restaurants in the Roanoke Valley.

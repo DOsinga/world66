@@ -9,6 +9,7 @@ latitude: 34.54
 longitude: -112.4692
 sources:
   - https://en.wikipedia.org/wiki/United_States_Post_Office_and_Courthouse%E2%80%93Prescott_Main
+score: 6.1
 ---
 
 The Prescott Federal Building — combining the U.S. Post Office and Courthouse — was completed in 1931 and is one of the finer examples of Depression-era civic architecture in Arizona. The building is constructed of local granite in a stripped classical style, with restrained detailing that gives it a certain dignity without the heaviness of earlier federal architecture.

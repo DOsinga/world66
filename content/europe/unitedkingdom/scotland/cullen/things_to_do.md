@@ -1,7 +1,8 @@
 ---
 phone: 01542 840685
+score: 3.5
 title: Things to do
-type: poi
+type: section
 url: www.cullengolfclub.co.uk
 ---
 

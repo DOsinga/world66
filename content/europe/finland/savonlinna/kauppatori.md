@@ -9,6 +9,7 @@ tags:
 title: Kauppatori (Market Square)
 type: poi
 snippet: The harbourside market square at the heart of Savonlinna, with summer steamboat departures
+score: 6.8
 ---
 
 The Kauppatori is the central market square of Savonlinna and the main meeting point in the town — a small open space on the waterfront where the morning market sets up daily in summer with fresh fish (smoked vendace from Lake Saimaa is the speciality), berries, and savoury pastries.

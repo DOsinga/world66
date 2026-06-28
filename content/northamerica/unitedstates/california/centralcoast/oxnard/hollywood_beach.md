@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 34.1630
 longitude: -119.2270
+score: 7.4
 ---
 
 Hollywood Beach and Silver Strand form a broad peninsula of sand between Channel Islands Harbor and the open Pacific — one of the finest stretches of uncrowded beach in Southern California. The wide, flat sand extends for miles, and the absence of major hotel development behind it means you get a proper beach without the resort atmosphere that has overtaken much of the LA County coast.

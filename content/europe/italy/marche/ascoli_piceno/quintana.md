@@ -9,6 +9,7 @@ tags:
 - festival
 snippet: Renaissance jousting tournament with a full medieval-costume parade
 story: The Quintana is a jousting tournament between Ascoli's six sestieri, in which a knight from each rides at a wooden Saracen target that pivots when struck. The format dates to 1377 and has been continuously revived since 1955. The accompanying parade, with around 1,400 locals in commissioned 15th-century costumes, takes three hours to pass a given point.
+score: 8.4
 ---
 
 Ascoli's signature event. Twice a year — the first Sunday in August and another in July — the city stages a full-blown medieval pageant culminating in a jousting tournament between six mounted knights, one from each historic sestiere. Around 1,400 locals march in commissioned 15th-century costumes; the parade alone takes three hours.

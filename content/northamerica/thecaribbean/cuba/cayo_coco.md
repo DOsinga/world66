@@ -8,6 +8,8 @@ latitude: 22.506
 loc_type: region
 longitude: -78.464
 score: 0.62
+snippet: Cuban resort island of white beaches, mangrove lagoons, flamingos, and a
+  causeway to the mainland.
 title: Cayo Coco
 type: location
 ---

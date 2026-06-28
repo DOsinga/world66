@@ -12,6 +12,7 @@ url: https://www.skycityauckland.co.nz/sky-tower
 opening_hours: Sun–Thu 08:30–22:00, Fri–Sat 08:30–23:00
 sources:
   - https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)
+score: 6.4
 ---
 
 At 328 metres, the Sky Tower is the tallest structure in the Southern Hemisphere — you can see it from almost anywhere in Auckland, and from the observation decks you can see from the Hauraki Gulf islands to the Waitakere Ranges. Take the lift to the Sky Deck for the highest open-air platform, or look straight down through the glass floor panels on the Main Observation Level.

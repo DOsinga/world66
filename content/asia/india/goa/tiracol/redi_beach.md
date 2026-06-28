@@ -14,6 +14,7 @@ story: >
   centuries earlier to keep it safe from Portuguese raids across the river,
   and that the modern temple — rebuilt in the 1980s — sits on the original
   pre-Portuguese shrine.
+score: 7.1
 ---
 
 Redi is the first village across the Tiracol River in Maharashtra, reached by the small ferry from Tiracol jetty or by driving over the road bridge a couple of kilometres upstream. Its long red-sand beach is even quieter than Querim, often almost empty even in peak season, and the rust-red colour of the sand — from the iron-ore mining that was once the village's main industry — is unlike anything else on this stretch of coast.

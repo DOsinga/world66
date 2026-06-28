@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Pic_du_Paradis
+score: 8.2
 ---
 
 Pic du Paradis is the highest point on the island at 424 metres (1,391 ft), in the forested interior of the French side. A rough track leads most of the way up; the final section is a short walk through tropical forest. The views from the summit take in both the French and Dutch sides simultaneously, the surrounding sea, and on clear days Anguilla, Saint-Barthélemy, and other neighbouring islands. The forest on the upper slopes is among the most intact vegetation remaining on the island.

@@ -9,6 +9,7 @@ latitude: 19.7798
 longitude: -70.5352
 story: >
   Encuentro is unusual among Dominican surf breaks in that it works year-round rather than just in one season. The bottom is a mix of sand and reef, producing waves that barrel predictably enough for beginners to learn on the inside section while experienced surfers take the outer reef. Local surf schools have been based here since the early 2000s.
+score: 8.4
 ---
 
 Encuentro Beach, about 3 kilometres west of Cabarete, is the best surf spot on the north coast — a consistent reef break that works with the same trade winds that drive kiting conditions further east. Several distinct peaks break over the reef: the inside section has mellow, long waves suitable for beginners, while the outside offers faster, hollower rides for more experienced surfers.

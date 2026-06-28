@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.8
 ---
 
 The valley park follows the Pétrusse stream beneath the great viaducts of the old town. Below: gentle paths, lawns, footbridges, and the small Saint-Quirin Chapel cut directly into the cliff (the oldest place of worship in Luxembourg). Above: the cliffs and ramparts you have been walking on at street level.

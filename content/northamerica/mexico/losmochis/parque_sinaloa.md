@@ -6,6 +6,7 @@ longitude: -108.9850
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 Parque Sinaloa is the main public park of Los Mochis, a broad green space in the north of the city with mature trees, a small lake, and the kind of quiet that is otherwise in short supply in this busy agricultural city. Families gather on weekend mornings; children feed ducks in the lake; vendors sell elotes and aguas frescas from carts along the paths.

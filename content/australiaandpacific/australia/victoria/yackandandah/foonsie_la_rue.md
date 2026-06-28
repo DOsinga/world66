@@ -6,6 +6,7 @@ phone: 0408 568 856
 tags: [shopping]
 title: Foonsie la Rue
 type: poi
+score: 5.8
 ---
 
 A gift and homewares store on High Street specialising in quilts, cushions, French-inspired furniture, handbags, and jewellery. The stock changes regularly and the range is well curated — this is not a tourist souvenir shop but a proper independent retailer with a loyal local following.

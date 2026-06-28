@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Old City Walls and Gates
 type: poi
+score: 7.0
 ---
 
 Tripoli's old medina retains substantial sections of its city walls, dating from Ottoman reconstruction in the 16th and 17th centuries on earlier Byzantine and Arab foundations. The walls enclosed the city until the Italian colonial period, when sections were demolished to ease traffic flow. What remains gives a good sense of the medina's former extent.

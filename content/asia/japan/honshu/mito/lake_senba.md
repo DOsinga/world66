@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 36.3774
 longitude: 140.4606
+score: 6.5
 ---
 
 Lake Senba is a shallow freshwater lake on the western edge of central Mito, bordered on one side by the plateau on which Kairakuen garden sits. The lake has a walking path around its perimeter, swan boats for rent, and good views up toward the garden and Kobuntei villa from the water's edge.

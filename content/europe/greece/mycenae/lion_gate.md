@@ -2,6 +2,7 @@
 category: Sight
 latitude: 37.7308
 longitude: 22.7563
+score: 9.2
 snippet: Oldest monumental sculpture in Europe, carved 1250 BC
 story: 'The two lions above the gate are headless — the heads, which were probably
   made of separate stone or metal, have never been found. The relief was carved around
@@ -10,6 +11,10 @@ story: 'The two lions above the gate are headless — the heads, which were prob
   of Atreus" — they had always known something important was buried on this hill.
 
   '
+tags:
+- things_to_do
+- sight
+- archaeology
 title: Lion Gate
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 - beach
 title: La Boquilla
 type: poi
+score: 7.4
 ---
 
 La Boquilla is a small fishing village about 8km north of Cartagena, built on a narrow strip of land between the Caribbean and the Ciénaga de la Virgen lagoon. It's a working village, not a resort, and the beach here is quieter and more local-feeling than anything in Bocagrande. The fish restaurants along the shore cook whatever came in that morning and are consistently good value.

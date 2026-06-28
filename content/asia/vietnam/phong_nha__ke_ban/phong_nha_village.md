@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 17.5932
 longitude: 106.2819
+score: 5.9
 ---
 
 Phong Nha village is the gateway to the national park — a single main road running alongside the Son River with guesthouses, cafés, restaurants, and tour operators filling the strip. It is small enough to walk end to end in twenty minutes, but it has accumulated a pleasant infrastructure for travellers, and the riverside setting, with karst hills rising behind the opposite bank, is genuinely attractive.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -7.5652
 longitude: 110.8225
+score: 7.5
 ---
 
 Pasar Triwindu is Solo's antiques market, a warren of stalls selling everything from Javanese kris and wayang puppets to Dutch colonial bric-a-brac, old ceramics, traditional tools, and reproduction batik pieces. The market is near the Mangkunegaran palace and has been operating since the 1930s.

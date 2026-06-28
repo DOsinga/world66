@@ -8,6 +8,7 @@ tags:
 - bar
 title: Cafe del Cambio
 type: poi
+score: 5.5
 ---
 
 Central bar on the corso with a lively aperitivo crowd. Snacks and light meals available throughout the day.

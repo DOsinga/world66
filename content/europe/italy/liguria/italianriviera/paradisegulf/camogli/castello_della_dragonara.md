@@ -10,6 +10,7 @@ title: Castello della Dragonara
 type: poi
 story: >
   The castle takes its name from the Ligurian word for dragon — local legend held that a dragon lived in the sea caves beneath the promontory. The structure was rebuilt in the 19th century as a neo-medieval summer residence by a Genoese nobleman, and then served as a German defensive position during the Second World War before falling into neglect. The Municipio of Camogli took it over in the 1990s and restored it for exhibitions.
+score: 7.3
 ---
 
 The Castello della Dragonara occupies the rocky promontory above Camogli's harbour, commanding views along the Ligurian coast in both directions. The current structure is a 19th-century reconstruction on much older foundations — a defensive tower existed here from at least the 12th century, built to watch for Saracen raids. The battlemented silhouette against the painted houses below is the classic Camogli postcard view.

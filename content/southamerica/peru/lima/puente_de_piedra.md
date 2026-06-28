@@ -10,6 +10,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: 1610 stone bridge over the Rímac river
+score: 6.8
 ---
 
 The **Puente de Piedra** ("Bridge of Stone") was completed in 1610 to span the Rímac river behind the Government Palace and connect central Lima with the Rímac district. It is the oldest surviving bridge in the city — six low stone arches, allegedly mortared with egg-white instead of lime to make them more durable, and the central axis of every colonial royal procession.

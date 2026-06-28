@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 10.5707
 longitude: 103.5277
+score: 4.5
 ---
 
 Otres is the long beach south of town that has historically been Sihanoukville's most attractive — a curve of pale sand backed by casuarina trees, with shallow water that stays warm year-round. It is divided into Otres 1 (the older, livelier strip with beach bars) and Otres 2 (further south, quieter, with low-key bungalow places).

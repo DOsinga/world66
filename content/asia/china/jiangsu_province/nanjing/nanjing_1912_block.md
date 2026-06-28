@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 - entertainment
 - nightlife
+score: 5.5
 ---
 
 The 1912 Block (1912街区) is a pedestrianised complex of bars, restaurants, and entertainment venues in the Xuanwu district, near the Presidential Palace. The development takes its name from the year the Republic of China was founded in Nanjing. The architecture is a blend of Republican-era brick buildings and newer construction styled to match.

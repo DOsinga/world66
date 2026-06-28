@@ -18,6 +18,7 @@ story: >
   considered one of the most exciting wine regions in South America.
 sources:
   - https://en.wikipedia.org/wiki/Uco_Valley
+score: 8.8
 ---
 
 The Uco Valley, around 100 kilometres south of Mendoza city, is a wine region at 900 to 1,200 metres above sea level in the Andean foothills. The combination of altitude, intense mountain sun, and the sharp temperature swings between day and night (often 20 degrees Celsius or more) produces wines with distinctive concentration and freshness — qualities that have attracted considerable international investment since the late 1990s.

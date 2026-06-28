@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/87603889@N00/28260936627
 latitude: 58.2772
 loc_type: city
 longitude: 11.4431
-score: 0.49
+score: 7.61
+snippet: Bohuslän coastal resort on the Stångenäset peninsula, where granite skerries
+  meet the open Skagerrak
 title: Lysekil
 type: location
 ---

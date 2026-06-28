@@ -9,6 +9,7 @@ tags:
 - sight
 title: Ole Bull Statue
 type: poi
+score: 4.8
 ---
 
 Ole Bull (1810–1880) was Norway's first international musical superstar — a violinist who drew comparisons to Paganini and sold out concert halls across Europe and America. This bronze statue stands at Torgallmenningen, Bergen's main square, a short walk from the fish market. He was born in Bergen, and the city has never quite got over the pride.

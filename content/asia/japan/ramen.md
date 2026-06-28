@@ -3,7 +3,7 @@ snippet: Japan's obsession — noodle soup elevated to an art form
 tags:
 - food
 title: Ramen
-type: poi
+type: theme
 ---
 
 Ramen is quite simply Japan's premiere fast food. It is something of a national obsession. Yearly guides to the best *ramen-ya* are published in all of Japan's major regions. Famous *ramen-ya* are promoted in tourist brochures right next to cultural and historic landmarks. Outside these local legends, crowds gather at lunch and dinnertime, willing to line up regardless of the weather, sometimes for as long as an hour. Ramen stadiums, featuring five to ten *ramen-ya* from all over the country, are a common feature on the upper floors of department stores.

@@ -6,6 +6,7 @@ longitude: 10.5358
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 Bangsbo Fort is the German Wehrmacht artillery battery and bunker complex built into the hills south of Frederikshavn during the 1940s occupation. The site is one of the best-preserved sections of the Atlantic Wall in Denmark, with seven 15 cm guns, bunkers connected by underground tunnels, range-finders, anti-aircraft positions, and an observation post still in place.

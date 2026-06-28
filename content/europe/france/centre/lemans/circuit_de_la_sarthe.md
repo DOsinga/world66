@@ -17,6 +17,7 @@ story: >
   crash is marked by a memorial on the straight now known as the Ford Chicanes.
   Several countries withdrew their entries and the Swiss government banned
   circuit racing in Switzerland for 58 years afterwards.
+score: 8.0
 ---
 
 The Circuit de la Sarthe is one of the most famous racing circuits in the world, hosting the 24 Hours of Le Mans — the oldest active endurance sports car race, run continuously since 1923. The circuit is unusual in using a combination of purpose-built track and closed public roads, meaning that for most of the year it functions as an ordinary highway. During race weekend each June, around 250,000 spectators descend on the circuit, making it one of the largest sporting events in the world.

@@ -6,6 +6,7 @@ tags:
   - cafe
 title: Gásadalsgarður Café
 type: poi
+score: 5.9
 ---
 
 The only café in Gásadalur occupies one of the village's traditional Faroese houses and serves a small, carefully chosen menu of local food and drink — lamb, fish soup, Faroese bread, and coffee. It is not a place for a long lunch with choices; it is a place to sit by the window after the walk to the waterfall and warm up. The menu changes based on what is available, which in a village this remote means the kitchen has strong opinions about seasonality.

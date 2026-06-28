@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Takwa was a prosperous Swahili town from around 1500 to 1700, then abandoned almost overnight. Local tradition blames a shortage of fresh water; archaeologists also point to a long-running war with neighbouring Pate. Whatever the cause, the inhabitants moved across the channel to Shela and Lamu and left a fully built town to the bush."
+score: 8.5
 ---
 
 The Takwa Ruins lie on the eastern shore of Manda Island, an hour by dhow from Lamu town. The site is a 15th- to 17th-century Swahili settlement complete with the standing walls of a large pillar tomb, the outline of a Friday mosque with its mihrab still intact, and several merchant houses overgrown with mangrove and acacia.

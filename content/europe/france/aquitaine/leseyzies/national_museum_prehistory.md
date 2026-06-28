@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.9360
 longitude: 1.0135
+score: 8.7
 ---
 
 The National Museum of Prehistory occupies a dramatic position in Les Eyzies: built into the base of a limestone cliff, with a natural overhang forming part of its structure. The cliff was itself a prehistoric shelter — the overhanging rock and the caves in the cliff face were occupied by humans during the Paleolithic, and you enter the museum beneath the same rock that sheltered them.

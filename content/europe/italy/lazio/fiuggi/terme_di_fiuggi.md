@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 41.8010
 longitude: 13.2170
+score: 7.1
 ---
 
 The Terme di Fiuggi is the main spa establishment in the town, offering formal cures, massages, and a range of wellness treatments beyond the simple act of drinking the water at the springs. The facility has undergone various renovations over the decades and today operates as a full-service thermal spa with pools, treatment rooms, and medical consultations for those who want a proper cura — the Italian term for a multi-day course of hydrological treatment.

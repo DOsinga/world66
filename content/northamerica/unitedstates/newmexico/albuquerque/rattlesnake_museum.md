@@ -9,6 +9,7 @@ longitude: -106.6680
 address: 202 San Felipe Street NW, Albuquerque, NM 87104
 phone: (505) 242-6569
 snippet: The world's largest public collection of live rattlesnakes, right in Old Town
+score: 6.8
 ---
 
 Tucked into a small building on Old Town's San Felipe Street, the American International Rattlesnake Museum houses the world's largest collection of live rattlesnake species in a public display — over 30 different species from across North and South America. The place is small, intimate, and genuinely educational rather than lurid. The snakes are kept in climate-controlled terrariums, and staff are knowledgeable about the ecological role rattlesnakes play in desert ecosystems.

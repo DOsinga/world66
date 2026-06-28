@@ -7,6 +7,7 @@ tags:
 latitude: 37.26993
 longitude: -97.39857
 story: "The museum occupies the former Hatcher Hospital, a three-storey brick building from the early 1900s. When the hospital closed, locals filled its 40 rooms with artefacts rather than let the building be demolished — making it one of the most unusual museum layouts in Kansas, where you wander through former patient rooms now packed with pioneer tools, cattle-drive memorabilia, and old photographs."
+score: 7.6
 ---
 
 The Chisholm Trail Museum at 502 N. Washington is the best reason to stop in Wellington. Housed in a former hospital building across from the Sumner County Courthouse, the museum fills three floors and 40 rooms with local history — everything from Native American artefacts and Chisholm Trail cattle-drive relics to early 20th-century household items and farm equipment.

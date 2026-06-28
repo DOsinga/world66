@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.0312
 longitude: 25.4081
+score: 8.0
 ---
 
 A long sand beach on the Hietasaari island 4 km from the centre, with shallow warm water in summer and one of the few "Riviera" feels at this latitude. A boardwalk runs the length of the beach, with cafés, kayak rental, and a spa hotel at one end.

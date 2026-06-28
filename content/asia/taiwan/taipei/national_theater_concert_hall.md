@@ -1,11 +1,13 @@
 ---
 latitude: 25.0349
-longitude: 121.5210
+longitude: 121.521
+score: 8.1
 snippet: Twin classical Chinese performance halls in the CKS Memorial plaza
 tags:
 - things_to_do
 - sight
 - architecture
+- zhongzheng
 title: National Theater and National Concert Hall
 type: poi
 url: https://npac-ntch.org

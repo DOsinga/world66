@@ -5,7 +5,9 @@ done:
 latitude: 15.603183
 loc_type: city
 longitude: 39.463697
-score: 0.43
+score: 6.62
+snippet: Eritrean Red Sea port spread across islands and causeways, with Ottoman-Egyptian
+  and Italian colonial architecture.
 title: Massawa
 type: location
 ---

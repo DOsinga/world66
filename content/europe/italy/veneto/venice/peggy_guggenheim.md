@@ -3,11 +3,11 @@ address: Palazzo Venier dei Leoni 701, Dorsoduro, 30123 Venice
 admission: €18 full, €10 reduced
 done:
   poi_cleanup: '2026-04-20'
-latitude: 45.425
-longitude: 12.3253
+latitude: 45.4308025
+longitude: 12.3315406
 opening_hours: Wed–Mon 10:00–18:00; closed Tue
+score: 8.6
 snippet: Venice's premier modern art collection on the Grand Canal
-neighbourhood: Dorsoduro
 tags:
 - things_to_do
 - dorsoduro

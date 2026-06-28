@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Norfolk_Skyline.jpg
 latitude: 36.84937
 loc_type: city
 longitude: -76.289954
-score: 0.44
+score: 7.06
+snippet: Hampton Roads naval city with a downtown waterfront and Naval Station Norfolk
+  shaping its northern edge.
 title: Norfolk
 type: location
 ---

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "Marshall died penniless in 1885 — having spent decades trying and failing to capitalise on his discovery, including a stint selling his autograph at small fairs. The bronze statue was put up in 1890; one of its hands points down the hill toward the spot where he found the first gold flake."
+score: 7.2
 ---
 
 Up the hill above Coloma, a 10-foot bronze statue of James W. Marshall stands on a granite pedestal — one of California's earliest state monuments. The figure points down the slope to the discovery site beside the river. Marshall is buried beneath the monument.

@@ -12,6 +12,7 @@ tags:
 - sight
 title: Motithang Takin Preserve
 type: poi
+score: 6.1
 ---
 
 A forested hillside reserve in the Motithang district of Thimphu, holding a small herd of takins — the strange, large bovids that serve as Bhutan's national animal. You can observe them from paths along the perimeter fence; they often graze close enough to photograph clearly. The reserve is a short uphill walk from the Motithang area. Entry fee is modest. Allow 30 minutes. Go early in the morning when the animals are more active.

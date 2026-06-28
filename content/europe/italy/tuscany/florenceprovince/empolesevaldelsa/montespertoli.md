@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:MontespertoliPanorama2.jpg
 latitude: 43.643672
 loc_type: city
 longitude: 11.075252
-score: 0.48
+score: 7.5
+snippet: Tuscan hill town southwest of Florence, set among Chianti vineyards between
+  Florence and Val d'Elsa.
 title: Montespertoli
 type: location
 ---

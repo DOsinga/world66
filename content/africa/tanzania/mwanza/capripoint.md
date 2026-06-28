@@ -7,6 +7,7 @@ tags:
 latitude: -2.5325
 longitude: 32.9090
 snippet: "The upmarket residential peninsula south of the city centre, with the best lakeshore walks and the Yacht Club."
+score: 6.4
 ---
 
 Capripoint is the rounded peninsula that pokes out into Lake Victoria immediately south of central Mwanza. The peninsula has long been the city's most desirable residential address — Indian-owned houses, German colonial bungalows under the trees, and a few discreet hotels. The lakeshore road around the peninsula is the most pleasant walk in the city, particularly in the late afternoon when the heat eases.

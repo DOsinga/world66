@@ -9,6 +9,7 @@ longitude: -71.8161
 story: >
   The limestone arch at Mudjin Harbour was formed by wave erosion over thousands of years as the sea level fluctuated — the same process that created the caves inland.
   The beach inside the cove is sheltered from the open Atlantic swell by the surrounding headlands, creating a pool of calm water despite the dramatic scenery.
+score: 9.0
 ---
 
 Mudjin Harbour is the most spectacular landscape feature on Middle Caicos — a large cove on the north coast where the sea crashes against dramatic limestone cliffs and a natural rock arch stands guard over a small protected beach. The contrast between the turquoise calm of the inner cove and the white Atlantic surf breaking on the headlands is striking.

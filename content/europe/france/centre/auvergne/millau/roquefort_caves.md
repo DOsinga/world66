@@ -6,6 +6,7 @@ longitude: 2.9858
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Roquefort-sur-Soulzon, half an hour south of Millau, is the only place where genuine Roquefort cheese is made. Sheep's milk curd is brought from across the surrounding causses and ripened in natural cellars inside the Combalou cliff, where fissures called fleurines drive a steady draft of damp, cool air across the wheels. The penicillium roqueforti mould that gives the cheese its blue veins grows naturally on the limestone.

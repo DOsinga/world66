@@ -6,6 +6,7 @@ longitude: 14.4147
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The former Benedictine abbey of Gleink, on a low ridge north of Steyr, was founded in 1125 and like Garsten dissolved by Joseph II. The Romanesque-Gothic core survived later Baroque remodelling; the abbey church is open for visits, and the conventual buildings are now a school.

@@ -8,6 +8,7 @@ tags:
 latitude: 52.4521
 longitude: 5.3560
 story: "When the polder was drained in the 1960s, the corner closest to the IJmeer turned out to be too wet to farm. Rather than drain it further, ecologists set it aside and introduced Konik horses, Heck cattle and red deer to graze it. The resulting marshland became Europe's most famous and most controversial rewilding experiment."
+score: 8.8
 ---
 
 The **Oostvaardersplassen** is a 56-square-kilometre wetland and grassland reserve on the northeastern edge of Almere — accidentally created when the Flevoland polder was drained in 1968 and a low corner of it stayed too wet to farm. Today it is one of the most important wetland reserves in Western Europe, with greylag geese, white-tailed eagles, spoonbills, bitterns and large free-ranging herds of Konik ponies, Heck cattle and red deer.

@@ -10,6 +10,7 @@ latitude: 52.8030
 longitude: 6.3990
 sources:
   - https://en.wikipedia.org/wiki/Dwingelderveld_National_Park
+score: 8.7
 ---
 
 Dwingelderveld is the largest continuous heathland in the Netherlands, a national park of about 3,700 hectares lying just north of Ruinen. In late summer — roughly August to September — the heather blooms purple across the whole expanse, one of the most dramatic seasonal landscapes in the country. Outside the bloom, the park has a quiet, open beauty: sandy paths through pine and birch forest, pools and wetlands, and extensive views across flat heath where only the sound of wind and birds interrupts.

@@ -14,6 +14,7 @@ story: >
   warrant. His reputation was so formidable that corrupt officials would
   reportedly resign from their posts rather than serve in any district where
   Hairui was inspector.
+score: 7.6
 ---
 
 Hairui Tomb (海瑞墓) is the burial site of Hainan's most celebrated official — a Ming dynasty administrator whose reputation for honesty was so extreme it became legendary across China. Hairui served in various posts across the empire, consistently refusing bribes, cutting through bureaucratic corruption, and siding with ordinary people against powerful interests, at enormous personal cost.

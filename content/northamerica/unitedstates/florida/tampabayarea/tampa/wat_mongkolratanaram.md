@@ -7,6 +7,7 @@ tags:
 latitude: 27.9895
 longitude: -82.4398
 snippet: A Thai Buddhist temple that hosts a popular Sunday outdoor market with authentic Thai food and goods
+score: 7.4
 ---
 
 Wat Mongkolratanaram, known locally as "Wat Tampa" or simply "the Thai temple," is a Thai Buddhist temple in north Tampa that has been running an outdoor food market on Sunday mornings since the late 1980s. The market is one of the most unusual and authentic food experiences in the city — dozens of vendors serving fresh Thai dishes, from pad thai and green papaya salad to grilled meats and Thai desserts, prepared by members of the temple community.

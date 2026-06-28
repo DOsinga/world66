@@ -7,6 +7,7 @@ tags:
 latitude: 51.0779
 longitude: -4.0590
 snippet: "Local history and natural history museum in The Square"
+score: 7.4
 ---
 
 The Museum of Barnstaple and North Devon occupies a purpose-built building in The Square, near the Guildhall, and covers the archaeology, natural history, and social history of the North Devon region. It is a well-kept local museum of the kind that rewards visitors who want to understand where they are before heading out into the surrounding countryside.

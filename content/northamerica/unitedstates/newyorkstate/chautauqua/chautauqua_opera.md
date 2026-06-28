@@ -9,6 +9,7 @@ tags:
   - theatre
 story: >
   Chautauqua Opera is one of the oldest professional opera companies in the United States, having been in continuous operation since 1929. For young American singers, a summer residency at Chautauqua has long been considered a significant career stepping stone — a place where they perform in fully staged productions before an engaged, knowledgeable audience without the pressure of New York or Chicago. Several singers who went on to major international careers began their professional lives on this stage.
+score: 7.6
 ---
 
 The Chautauqua Opera Company runs a summer season of fully staged productions alongside the main Institution program, drawing young professional singers from around the country for a residential summer program. The productions are staged in the Amphitheater and in the more intimate Norton Memorial Hall, with a program that typically includes three or four operas across the nine-week season — a mix of standard repertoire and occasionally more adventurous choices.

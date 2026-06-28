@@ -6,6 +6,7 @@ latitude: 23.2553
 longitude: 69.6688
 snippet: "18th-century 'Palace of Mirrors' with Venetian-Indian fusion interiors"
 story: "The palace was the masterwork of Ram Singh Malam, a Kutchi craftsman shipwrecked off Africa as a young man. Rescued by the Dutch, he spent 17 years in Holland learning glass-blowing, enamelling, tile-making and clockwork. On his return Rao Lakhpatji gave him free rein — and the Aina Mahal is the result."
+score: 8.9
 ---
 
 The 'Palace of Mirrors' was built by Maharao Lakhpatji in the 1750s as the public hall of the Kutch royal household. Inside the unassuming whitewashed exterior, the main hall is covered floor to ceiling in mirrored panels, gilded niches, blue-and-white tiles, and chandeliers — a startling fusion of Mughal, European and Kutchi styles all designed by Ram Singh Malam.

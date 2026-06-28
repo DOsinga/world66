@@ -3,10 +3,12 @@ address: Tri Thong and Bam Rung Muang Roads
 latitude: 13.7502
 longitude: 100.5003
 opening_hours: Daily 9 am - 5 pm
-snippet: "Grand 19th-century temple with the famous Giant Swing outside"
+score: 7.9
+snippet: Grand 19th-century temple with the famous Giant Swing outside
 tags:
 - things_to_do
 - temple
+- rattanakosin
 title: Wat Suthat
 type: poi
 ---

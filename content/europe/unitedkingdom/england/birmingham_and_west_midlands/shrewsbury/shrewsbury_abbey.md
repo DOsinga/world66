@@ -14,6 +14,7 @@ story: >
   the most popular detective fiction characters in Britain after the novels were adapted for
   television with Derek Jacobi in the title role. Visitors still come specifically to see the
   abbey from the books.
+score: 7.8
 ---
 
 Shrewsbury Abbey, founded in 1083 by Roger de Montgomery, stands just across the English Bridge from the town centre. It was dissolved by Henry VIII in 1540 but the nave of the church survived as a parish church and remains in use today. The interior contains some remarkable medieval carved stone, including the shrine of Saint Winifred, whose relics were brought here in 1138 and made the abbey a place of pilgrimage.

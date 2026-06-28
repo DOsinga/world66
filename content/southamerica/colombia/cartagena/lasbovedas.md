@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Las Bóvedas
 type: poi
+score: 6.1
 ---
 
 Twenty-three barrel-vaulted chambers built into Cartagena’s thick colonial walls in the late 18th century — originally used as military storerooms and, grimly, as dungeons. Today they house a long arcade of shops selling handicrafts, hammocks, emeralds, and Colombian souvenirs. The goods are standard tourist fare and prices run high, but the setting is the real draw: the massive stone arches, cool interiors, and the sense of being inside the fortifications themselves. Walk along the top of the walls afterwards for views over the Caribbean.

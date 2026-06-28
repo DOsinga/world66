@@ -2,6 +2,7 @@
 address: Main Road, Kalk Bay
 latitude: -34.1312
 longitude: 18.4465
+score: 6.6
 scores:
   activities: 0.5987
   bars_and_cafes: 0.7456
@@ -10,6 +11,7 @@ snippet: Compact craft beer pub in the fishing village of Kalk Bay, with rotatin
 tags:
 - bars_and_cafes
 - bar
+- southern_peninsula
 title: Kalk Bay Craft Beer
 type: poi
 ---

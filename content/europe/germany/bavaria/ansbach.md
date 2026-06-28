@@ -5,13 +5,15 @@ done:
 latitude: 49.288874
 loc_type: city
 longitude: 10.559769
-score: 0.46
+score: 7.24
 title: Ansbach
 type: location
 image: ansbach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ansbach,_Martin-Luther-Platz-001.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Tilman2007
+snippet: Franconian town shaped by margravial baroque, with a lavish Residenz and
+  formal Hofgarten at its centre.
 ---
 
 Ansbach is a quiet Franconian town best known for its baroque [Residenz](/europe/germany/bavaria/ansbach/ansbach_residenz), the former palace of the Margraves of Brandenburg-Ansbach. The palace's 27 state rooms are lavishly decorated and the [Hofgarten](/europe/germany/bavaria/ansbach/hofgarten) behind it is one of the finest baroque garden ensembles in Bavaria.

@@ -10,6 +10,7 @@ tags:
 - park
 title: La Magalone
 type: poi
+score: 5.7
 ---
 
 La Magalone is a handsome bastide — a Provençal country house — built in the late 17th century for wealthy Marseille merchants. The house was substantially reworked in the 20th century and now serves as a music school, but it is the surrounding park that draws visitors.

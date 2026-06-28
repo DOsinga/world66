@@ -8,6 +8,7 @@ tags:
   - restaurant
 address: 216 Central Avenue
 snippet: "Bathhouse Row breakfast spot, unchanged since 1940"
+score: 6.4
 ---
 
 A genuine downtown breakfast institution on Central Avenue, opposite Bathhouse Row. Open since 1940

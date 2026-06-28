@@ -13,6 +13,7 @@ story: >
   whose costume can weigh hundreds of kilograms and takes a year to construct.
   The Santa Cruz carnival is listed as a Fiesta of International Tourist Interest
   and regularly draws over a million visitors.
+score: 7.8
 ---
 
 Santa Cruz de Tenerife is the island's capital and its most urban experience, a working city of 200,000 people that most beach tourists skip entirely. This is a mistake. The Plaza de España, recently redesigned around an artificial lake, faces the harbour where Atlantic liners and cargo ships pass. The Auditorio de Tenerife — Santiago Calatrava's extraordinary wave-shaped concert hall — stands at the waterfront like a piece of sculpture. The Mercado Nuestra Señora de África, a covered market, has some of the best fresh produce in the Canaries.

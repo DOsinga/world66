@@ -9,6 +9,7 @@ tags:
   - festival
 snippet: France's oldest music festival, held in the Roman theatre each summer
 story: "Founded in 1869, the Chorégies is the oldest festival in France. The acoustics of the ancient stage wall, designed for the unamplified speech and song of Roman theatre, still carry the human voice perfectly — singers perform unamplified to nearly 9,000 spectators."
+score: 7.6
 ---
 
 Every July and August, the Roman theatre comes back to life as the venue for the **Chorégies d'Orange**, the oldest opera and classical music festival in France. Founded in 1869 as a Roman-revival "Fêtes Romaines," the festival now stages two or three major opera productions and a handful of orchestral concerts each summer, with the great stage wall as the natural backdrop.

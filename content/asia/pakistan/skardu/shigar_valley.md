@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - day_trips
 - outdoor
+score: 8.2
 ---
 
 The Shigar Valley extends northeast from Skardu, a long, fertile river valley lined with apricot and apple orchards and dotted with old Balti villages. It is the historical gateway to the great Karakoram peaks — from the top of the valley, trekkers head into the Baltoro glacier system and ultimately to K2 base camp.

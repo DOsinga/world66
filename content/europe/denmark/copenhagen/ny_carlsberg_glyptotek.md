@@ -4,11 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 55.673
 longitude: 12.5725
-snippet: Carl Jacobsen's art collection with the largest Rodin collection outside
-  France
+score: 9.5
+snippet: 'Carl Jacobsen''s 1897 bequest: the largest Rodin collection outside France
+  plus ancient art'
 tags:
 - things_to_do
 - museum
+- indre_by
 title: Ny Carlsberg Glyptotek
 type: poi
 ---

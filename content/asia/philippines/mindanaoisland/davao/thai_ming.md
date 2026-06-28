@@ -1,8 +1,12 @@
 ---
 address: The Venue Compound, Davao City
+latitude: 7.0713
+longitude: 125.613
+score: 5.4
 tags:
 - eating_out
 - restaurant
+- thai
 title: Thai Ming
 type: poi
 ---

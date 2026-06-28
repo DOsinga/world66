@@ -17,6 +17,7 @@ story: >
   taken by anthropologists and amateur photographers who visited the Bakgatla
   territory, and show a world that was already changing rapidly when they were
   shot.
+score: 7.3
 ---
 
 The Phuthadikobo Museum sits at the top of Phuthadikobo Hill, reached by a short but steep climb from the village below. Vervet monkeys are a reliable part of the walk up. The museum occupies a distinctive old school building and covers the history of the Bakgatla ba Kgafela people — their migration from South Africa under pressure from Boer encroachment in 1871, their settlement at Mochudi, and their experience through the colonial period and independence.

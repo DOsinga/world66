@@ -6,6 +6,7 @@ longitude: 20.2558
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Szentes thermal bath sits at the northern edge of town and draws on hot mineral water from a deep aquifer under the Great Plain. There are several pools at different temperatures — an outdoor swimming pool, a hotter therapeutic pool, a covered medicinal pool — and the prices are extremely low by Western standards.

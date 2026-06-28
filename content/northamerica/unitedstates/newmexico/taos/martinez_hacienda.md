@@ -9,6 +9,7 @@ latitude: 36.4003
 longitude: -105.6089
 sources:
   - https://en.wikipedia.org/wiki/Martinez_Hacienda
+score: 8.4
 ---
 
 The Martinez Hacienda is the best-preserved Spanish colonial hacienda in the United States, and one of the most interesting historical sites in the Taos area. The thick-walled adobe compound was built around 1804 as both home and trading post for the prominent Martinez family, who were key figures in the trade along the Camino Real between Taos and Chihuahua.

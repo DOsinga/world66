@@ -11,6 +11,7 @@ story: >
   espresso, then tap your glass with a spoon when you want the waiter to pour hot frothy milk
   from a height. The waiters respond to the musical tapping by navigating the busy floor with
   steaming pitchers.
+score: 7.5
 ---
 
 The Gran Café de La Parroquia has been open since 1808 and is the most famous cafe in Veracruz. The main branch on the malecón is a long, high-ceilinged room that fills from early morning with a democratic mix of dock workers, businesspeople, tourists, and old men who appear to have been occupying the same table since the café opened. It is loud, cheerful, and almost always busy.

@@ -12,6 +12,7 @@ story: >
   become fashionable enough to attract Empress Elisabeth of Austria (Sisi)
   and Tsar Alexander I of Russia — a combination that gives Bardejovské Kúpele
   an unusually cosmopolitan pedigree for such a small Slovak valley.
+score: 7.2
 ---
 
 About 5 kilometres north of Bardejov, up a forested valley, Bardejovské Kúpele is a small spa resort that has been in continuous use since the Middle Ages. The mineral springs here contain carbonate, iron and other minerals, and have long been prescribed for digestive complaints and cardiac conditions. The architecture of the spa district — a collection of 19th and early 20th-century treatment pavilions, hotels and public gardens — gives the place a slightly faded but pleasant Mitteleuropean character.

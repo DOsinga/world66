@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 41.5847
 longitude: -93.6328
+score: 6.7
 ---
 
 El Bait Shop is a craft-beer bar in the historic Western Gateway district with one of the largest tap lists in the United States — 250-plus rotating draught lines on most nights — and a national reputation that pulls in beer-pilgrim road-trippers. The decor is fishing-shack kitsch and the kitchen turns out reliable bar food, including a respected breakfast served on weekend mornings.

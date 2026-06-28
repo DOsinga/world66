@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kutaisi_%26_White
 latitude: 42.271608
 loc_type: city
 longitude: 42.705447
-score: 0.57
+score: 8.33
+snippet: Western Georgian river city, once capital of Colchis and gateway to Imereti's
+  gorges and monasteries.
 title: Kutaisi
 type: location
 ---

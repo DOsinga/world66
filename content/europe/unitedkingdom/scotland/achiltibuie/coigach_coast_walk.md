@@ -5,6 +5,7 @@ tags: [things_to_do, walk, coast]
 latitude: 58.02
 longitude: -5.34
 story: The Coigach peninsula is one of the last significant areas of Scotland where the land is still managed as crofts — small-scale agricultural tenancies whose tenure rights were fought for and won in the 1886 Crofters' Holdings Act after generations of forced clearances.
+score: 8.2
 ---
 
 The coastline around Achiltibuie offers walking that rivals anything in Scotland for scenery, with very few people on the paths. The western shore of the Coigach peninsula — which Achiltibuie faces — is broken into a series of small bays and rocky headlands, with the Summer Isles always in view across the water.

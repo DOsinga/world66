@@ -1,10 +1,12 @@
 ---
 latitude: 25.0732
 longitude: 121.5247
+score: 6.9
 snippet: Park, museum and stage area along Zhongshan North Road
 tags:
 - things_to_do
 - sight
+- zhongshan
 title: Taipei Fine Arts Park
 type: poi
 ---

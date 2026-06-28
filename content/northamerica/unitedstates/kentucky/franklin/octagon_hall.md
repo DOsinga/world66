@@ -8,6 +8,7 @@ tags:
   - museum
   - historic
 story: "More than 12,000 Confederate troops camped on the surrounding fields during the Civil War, and the house served briefly as a hospital. Owner Andrew Jackson Caldwell built the eight-sided house in the 1840s, drawing on the brief mid-century craze for octagonal architecture sparked by Orson Squire Fowler's 1848 book A Home for All."
+score: 7.6
 ---
 
 Octagon Hall sits about five miles north of downtown Franklin, set back from US 31W in a stand of trees. It is one of the only eight-sided brick houses ever built in Kentucky and one of a handful in the United States. The design — popularised by phrenologist and amateur architect Orson Squire Fowler — was supposed to admit more light and air than a conventional square plan. In practice it created some genuinely peculiar interior spaces, which is part of the appeal.

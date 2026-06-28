@@ -12,6 +12,7 @@ story: >
   be temporary. It became permanent in 1974 when Turkish forces moved south to a new
   ceasefire line following the Greek Cypriot coup against Makarios. More than 50 years
   later, the green pencil mark still defines where one part of Europe ends and another begins.
+score: 8.8
 ---
 
 The Green Line is the UN buffer zone that divides Cyprus from east to west, cutting through Nicosia's old city in a strip 20–300 metres wide. On the Nicosia crossing, the division is at its most intimate and strange: buildings on either side are close enough to read the signs. The buffer zone itself — occupied only by UN peacekeepers and the occasional feral cat — is one of the last places in Europe where time stopped in the 1970s. Bullet holes remain in walls, sandbags are still in place, and some buildings have been frozen in whatever state they were in the day the war ended.

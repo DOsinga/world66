@@ -14,6 +14,7 @@ story: >
   hospitals, and healers were expected to treat the body as well as the mind.
   Several prescriptions use ingredients that modern pharmacology has confirmed
   as effective; others are based on sympathetic magic that has not aged so well.
+score: 7.9
 ---
 
 The Yaofang Cave stands apart from every other grotto at Longmen because its walls are covered not with Buddhas but with text: 140 prescriptions for diseases ranging from malaria, diabetes, and rabies to ear infections and mental disorders, inscribed here during the Tang dynasty. The cave functions as a remarkable document of Tang-dynasty medicine — a practical manual cut into the walls of a devotional space, representing the Buddhist tradition of treating bodily and spiritual suffering as equally worthy of attention.

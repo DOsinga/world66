@@ -6,6 +6,7 @@ longitude: 26.8800
 tags:
   - beaches
   - sight
+score: 6.6
 ---
 
 A pebble cove a few minutes west of Kokkari, reached by a steep path down from a small parking area off the coast road. The west end of the beach is nudist-friendly and quiet; the east end has a single beach bar and a tamer crowd. The water is clear, deep, and turquoise.

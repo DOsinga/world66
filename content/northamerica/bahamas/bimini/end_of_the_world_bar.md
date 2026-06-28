@@ -8,6 +8,7 @@ tags:
 title: End of the World Bar
 type: poi
 story: "Martin Luther King Jr. spent time at this bar (then called Hancock's) while on Bimini in 1968 working on his Nobel Peace Prize acceptance speech and on plans for the Poor People's Campaign. He returned to the island the day before flying to Memphis, where he was assassinated."
+score: 6.5
 ---
 
 The End of the World Bar — sometimes called the Sand Bar after its sand floor — is the iconic Bimini drinking spot, a rough wooden shed at the south tip of Alice Town with thousands of dollar bills and signed business cards tacked to every surface. Bacardi rum drinks, Kalik beer, and a permanent reggae soundtrack.

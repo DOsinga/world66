@@ -13,6 +13,7 @@ story: >
   it was literally born on its country's birthday. Each year on the anniversary, the letters are repainted
   with a new theme: sometimes flags of recognising nations, sometimes protest art, sometimes collaborative
   murals. More than 100 countries have been represented on its surface over the years.
+score: 6.9
 ---
 
 The Newborn monument is a typographic sculpture — the word NEWBORN in enormous yellow letters, each about three metres tall — that stands outside the Palace of Youth and Sports on the edge of Pristina's city centre. It was unveiled on 17 February 2008 at the exact moment Kosovo declared independence, and it has become the country's most recognisable symbol.

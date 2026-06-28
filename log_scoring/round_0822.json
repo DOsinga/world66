@@ -1,200 +1,200 @@
 {
   "round": 822,
-  "timestamp": "2026-04-12T14:35:30",
+  "timestamp": "2026-06-13T19:55:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Grand Cayman",
-      "path": "northamerica/caymanislands/grandcayman",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 8.892,
+      "prior_variance": 0.793958,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Pamplona",
-      "path": "europe/spain/navarre/pamplona",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
-    },
-    {
-      "rank": 3,
-      "title": "Agadir",
-      "path": "africa/morocco/agadir",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
-    },
-    {
-      "rank": 4,
-      "title": "Puerto Escondido",
-      "path": "northamerica/mexico/puertoescondido",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
-    },
-    {
-      "rank": 5,
-      "title": "Les eyzies",
-      "path": "europe/france/midi/aquitaine/leseyzies",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
-    },
-    {
-      "rank": 6,
-      "title": "Deauville",
-      "path": "europe/france/normandybrittany/deauville",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
-    },
-    {
-      "rank": 7,
-      "title": "Izumo",
-      "path": "asia/japan/honshu/izumo",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
-    },
-    {
-      "rank": 8,
-      "title": "Brno",
-      "path": "europe/czechrepublic/brno",
-      "prior_score": 1.9213,
-      "prior_variance": 0.760029,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_score": 6.0642,
+      "prior_variance": 0.789132,
       "prior_n": 2
     },
     {
+      "rank": 3,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 7.8419,
+      "prior_variance": 0.579088,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 6.195,
+      "prior_variance": 0.745381,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 5.4801,
+      "prior_variance": 0.468868,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 5.6323,
+      "prior_variance": 0.533735,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 7.4504,
+      "prior_variance": 0.712574,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 4.9345,
+      "prior_variance": 0.658045,
+      "prior_n": 3
+    },
+    {
       "rank": 9,
-      "title": "Whanganui Region",
-      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 8.5725,
+      "prior_variance": 0.722885,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Macedonia",
-      "path": "europe/macedonia",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 5.254,
+      "prior_variance": 0.712658,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Fogo",
-      "path": "africa/capeverde/fogo",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 8.0553,
+      "prior_variance": 0.771078,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Ancenis",
-      "path": "europe/france/centre/loirevalley/ancenis",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 6.1002,
+      "prior_variance": 0.810006,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Mosfellsbaer",
-      "path": "europe/iceland/mosfellsbaer",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 4.9693,
+      "prior_variance": 0.70824,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Wilmington",
-      "path": "northamerica/unitedstates/vermont/wilmington",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 6.4051,
+      "prior_variance": 0.684129,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Mindoro Island",
-      "path": "asia/philippines/mindoroisland",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 6.5471,
+      "prior_variance": 0.468289,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Sudak",
-      "path": "europe/ukraine/crimea/sudak",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 4.7968,
+      "prior_variance": 0.94481,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Huntingdon",
-      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 6.7714,
+      "prior_variance": 0.66847,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Chihuahua",
-      "path": "northamerica/mexico/chihuahua",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 6.3706,
+      "prior_variance": 0.8386,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Brentwood",
-      "path": "northamerica/unitedstates/california/brentwood",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 4.1153,
+      "prior_variance": 0.636297,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "J\u00e9r\u00e9mie",
-      "path": "northamerica/haiti/jeremie",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 5.4351,
+      "prior_variance": 0.810135,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Galkayo",
-      "path": "africa/somalia/galkayo",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_score": 1.888,
+      "prior_variance": 0.845098,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Bahadur Garh",
-      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 6.5603,
+      "prior_variance": 0.579874,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Bouar",
-      "path": "africa/centralafricanrepublic/bouar",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouses",
+      "prior_score": 6.8444,
+      "prior_variance": 0.640648,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Massoulo",
-      "path": "africa/angola/massoulo",
-      "prior_score": 0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Padum",
+      "path": "asia/india/jammuandkashmir/ladakh/zanskar/padum",
+      "prior_score": 3.8104,
+      "prior_variance": 0.827031,
+      "prior_n": 2
     }
   ]
 }

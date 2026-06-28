@@ -13,6 +13,7 @@ story: The Chalukyas of Kalyani, who built this temple in the 11th century, deve
   decorative foliage called kirtimukha that is almost a signature of Chalukyan work.
   It is a style that influenced temple architecture across the Deccan for centuries
   after the dynasty fell.
+score: 8.2
 ---
 
 In the Unkal neighbourhood on the northern edge of Hubli, the Chandramauleshwara Temple is an 11th-century Shiva temple built in the Western Chalukya style. The exterior stonework is detailed and well-preserved, with the sculptural bands and layered shikhara tower that characterise Chalukyan craftsmanship at its best.

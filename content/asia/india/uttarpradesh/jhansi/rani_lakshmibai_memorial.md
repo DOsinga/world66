@@ -8,6 +8,7 @@ latitude: 25.4480
 longitude: 78.5880
 story: >
   Lakshmibai was born Manikarnika Tambe in Varanasi in 1828. She was married into the Jhansi royal family at age fourteen and widowed at twenty-two. When the revolt broke out in 1857, she was twenty-eight. She died in battle at Gwalior at twenty-nine. The British general Hugh Rose, who defeated her, called her "the most dangerous of all the rebel leaders" — a backhanded tribute that has lasted longer than his own reputation.
+score: 7.0
 ---
 
 The Rani Lakshmibai Memorial in Phool Bagh is the city's most visited monument after the fort. A large equestrian statue depicts Lakshmibai on horseback with her son tied to her back — the pose referencing her escape from Jhansi Fort. The memorial park is where Jhansi gathers for national holidays; the atmosphere around Independence Day and Republic Day is worth catching if you are in town.

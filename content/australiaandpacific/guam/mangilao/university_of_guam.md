@@ -8,6 +8,7 @@ latitude: 13.4333
 longitude: 144.8000
 story: >
   When the university was founded in 1952 as the Territorial College of Guam, it shared its first classrooms with a Quonset hut left over from the Pacific War. Today it has around 4,000 students and is the only land-grant institution between Hawaii and the Philippines. The campus has its own marine laboratory at Pago Bay, where coral-reef research has continued unbroken for over fifty years.
+score: 6.6
 ---
 
 The University of Guam (UOG) — Unibetsedåt Guåhan in Chamorro — sits on a hillside in southern Mangilao, the largest higher-education institution in Micronesia and the cultural anchor of the village. The campus is open and easy to wander: low concrete buildings under flame trees, a small open theatre, and views down to Pago Bay from the eastern edge.

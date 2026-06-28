@@ -9,6 +9,7 @@ latitude: 50.9286
 longitude: 11.5969
 story: >
   In 1815, the Grüne Tanne was the meeting place of the Urburschenschaft — the first German student fraternity, founded by veterans of the Napoleonic Wars with liberal-nationalist ideals. The organization they founded here went on to play a significant role in the German nationalist movement of the nineteenth century. A commemorative plaque marks the spot.
+score: 6.9
 ---
 
 The Grüne Tanne (Green Fir) is Jena's most historic inn, a Gasthaus at the east end of the Camsdorf Bridge that has been serving food and drink since at least the eighteenth century. The building has survived wars, floods, and reunification, and retains the feel of a genuine old inn rather than a themed recreation.

@@ -10,10 +10,12 @@ image_source: https://commons.wikimedia.org/wiki/File:HaarlemGroteMarkt1.JPG
 latitude: 52.388532
 loc_type: city
 longitude: 4.638805
-score: 0.61
+score: 8.41
 sources:
 - https://en.wikipedia.org/wiki/Haarlem
 title: Haarlem
+snippet: Compact Dutch city of medieval lanes, courtyard almshouses, and museums a
+  short train ride from Amsterdam.
 type: location
 ---
 

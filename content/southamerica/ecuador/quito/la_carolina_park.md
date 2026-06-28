@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.1763
 longitude: -78.4825
+score: 6.5
 ---
 
 La Carolina is Quito's largest urban park — a 64-hectare green space in the northern part of the city that serves as the lungs of the modern residential and commercial districts. On weekend mornings it fills with Quiteños running, cycling, playing football and volleyball, picnicking, flying kites, and rollerblading. There is a small lake where paddleboats can be hired, a botanical garden, a vivarium (for reptiles and amphibians), and children's play areas throughout.

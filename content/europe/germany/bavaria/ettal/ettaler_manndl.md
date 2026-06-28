@@ -11,6 +11,7 @@ story: >
   The Ettaler Manndl is a distinctive rocky peak above the village that served as a navigation point for travellers on the medieval trading route through the Alps. The route from Augsburg to Venice passed through this valley, and the unusual rock formation — visible from miles away — told merchants and pilgrims they were approaching the monastery and the pass ahead.
 sources:
   - https://en.wikipedia.org/wiki/Ettaler_Manndl
+score: 7.5
 ---
 
 The Ettaler Manndl is a rocky summit directly above the village, reachable in about two hours on foot from Ettal. It's not a demanding climb by Alpine standards, but it rises steeply from the valley floor and the views from the top — down to the monastery dome, along the valley to Oberammergau, and south toward the higher peaks — are genuinely rewarding.

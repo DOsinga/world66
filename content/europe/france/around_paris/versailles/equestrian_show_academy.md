@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80389
 longitude: 2.12833
+score: 7.1
 ---
 
 The Académie du Spectacle Équestre is based in the Grande Écurie, the king's former stables facing the palace across the Place d'Armes. Under director Bartabas, it presents regular performances of classical equestrian art — haute école dressage combined with theatrical spectacle — that are unlike anything else you will see at Versailles.

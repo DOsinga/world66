@@ -5,6 +5,7 @@ tags: [things_to_do, sight, garden]
 latitude: 48.9005
 longitude: 9.1928
 story: "The gardens around the palace were laid out in 1704 with classic French formality, then redesigned in the English landscape style in the 19th century. In 1954 the city restored both layers and added a fairy-tale garden with mechanical scenes from the Brothers Grimm — a quirky 1950s touch that proved enduringly popular."
+score: 8.5
 ---
 
 The Blühendes Barock (Blooming Baroque) is the 30-hectare garden complex surrounding the Residenzschloss. It combines a strictly formal baroque parterre on the north terrace, an English-style landscape park, themed flower gardens, and the unusual Märchengarten (Fairy-Tale Garden) at the far end. The combination shouldn't quite work and somehow does, especially in May and June when the floral plantings are at their peak.

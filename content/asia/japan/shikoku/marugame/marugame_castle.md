@@ -5,6 +5,7 @@ tags: [things_to_do, sight, castle, historic]
 latitude: 34.2877
 longitude: 133.7972
 story: "Marugame Castle's keep was completed in 1660 and has never been destroyed or rebuilt — it is one of only 12 original wooden castle towers surviving in Japan. What makes it unusual even among those twelve is the stone foundation: the layered walls below the keep are among the most dramatic castle-stone constructions in Japan, rising in a sweeping fan shape that took 17 years to complete and required tens of thousands of stones quarried from the local hills."
+score: 9.0
 ---
 
 Marugame-jo is one of Shikoku's four original castles and the smallest surviving castle tower in Japan. The three-storey keep was completed in 1660 under the Kyogoku clan and has remained standing — unburned, undemolished, unrestored — ever since, which puts it in rare company. The castle is listed as a National Treasure.

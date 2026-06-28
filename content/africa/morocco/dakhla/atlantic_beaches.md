@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.6800
 longitude: -15.9700
+score: 7.1
 ---
 
 The Atlantic-facing western shore of the Río de Oro Peninsula has empty beaches for kilometres. The ocean here is cold — the Canary Current brings cold water south along the African coast — and the surf is rough and unprotected. This is not swimming territory, but for walking on a completely empty beach with no one in sight for miles, it is hard to match.

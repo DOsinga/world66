@@ -6,6 +6,7 @@ longitude: 3.1900
 tags:
   - eating_out
   - restaurant
+score: 6.9
 ---
 
 Els Brancs is the Michelin-starred restaurant of the Hotel Vistabella, set on a terrace right above the sea on the eastern side of Roses. The kitchen, under chef Paco Pérez (also of Miramar in Llançà), works the local catch hard: gamba de Roses served raw or just barely warmed, suquet of monkfish, langoustine with sea-water risotto.

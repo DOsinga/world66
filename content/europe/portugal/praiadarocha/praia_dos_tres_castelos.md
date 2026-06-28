@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.2
 ---
 
 Praia dos Três Castelos — the Beach of Three Castles — takes its name from a cluster of three eroded sandstone stacks rising from the sand at the eastern end. At low tide a series of arches and a tunnel open between the small connected coves, making it possible to walk between several of the bays along the beach itself.

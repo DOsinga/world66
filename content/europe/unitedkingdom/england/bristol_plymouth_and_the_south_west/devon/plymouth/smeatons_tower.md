@@ -15,6 +15,7 @@ story: >
   than demolish the tower, the engineer John Smeaton's innovative interlocking
   granite structure was dismantled block by block and reassembled on the Hoe —
   a tribute to a building that had outlasted its foundations.
+score: 7.6
 ---
 
 Smeaton's Tower is the upper section of the third Eddystone lighthouse, built by John Smeaton in 1759 and reassembled on Plymouth Hoe in 1884. It stands on the Hoe as a distinctive red-and-white striped beacon — not as a working lighthouse, but as a monument to one of the great engineering achievements of the 18th century.

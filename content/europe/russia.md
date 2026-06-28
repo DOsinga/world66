@@ -1,4 +1,5 @@
 ---
+snippet: "Vast Eurasian country spanning eleven time zones, with imperial cities, Siberian wilderness, and Golden Ring towns."
 title: Russia
 type: location
 latitude: 64.686314
@@ -15,7 +16,7 @@ quick_facts:
   Time Zones: "11"
   Lake Baikal: "20% of the world's fresh water"
   Trans-Siberian Railway: "9,289 km — world's longest"
-score: 0.25
+score: 0.74
 loc_type: country
 ---
 
@@ -27,4 +28,4 @@ The country's geography is staggering. The Ural Mountains divide Europe from Asi
 
 Travel in Russia requires planning. Visas, language barriers, and long distances are all part of the experience. But Russians themselves are warm and generous hosts once you get past the initial reserve, and the country's art, architecture, food, and landscapes make it one of the most rewarding destinations in the world.
 
-**Destinations:** [Moscow](/europe/russia/moscow), [St. Petersburg](/europe/russia/stpetersburg), [Irkutsk](/europe/russia/irkutsk), [Kazan](/europe/russia/kazan), [Vladivostok](/europe/russia/vladivostok), [Novgorod](/europe/russia/novgorod), [Vladimir](/europe/russia/vladimir), [Suzdal](/europe/russia/suzdal), [Volgograd](/europe/russia/volgograd), [Novosibirsk](/europe/russia/novosibirsk), [Murmansk](/europe/russia/murmansk), [Yaroslavl](/europe/russia/yaroslavl), [Ulan-Ude](/europe/russia/ulan_ude), [Yakutsk](/europe/russia/yakutsk), [Pyatigorsk](/europe/russia/pyatigorsk), [Krasnodar](/europe/russia/krasnodar), [Samara](/europe/russia/samara), [Perm](/europe/russia/perm), [Tula](/europe/russia/tula), [Pskov](/europe/russia/pskov), [Tver](/europe/russia/tver)
+**Destinations:** [Moscow](/europe/russia/moscow), [St. Petersburg](/europe/russia/stpetersburg), [Irkutsk](/europe/russia/irkutsk), [Kazan](/europe/russia/kazan), [Vladivostok](/europe/russia/vladivostok), [Kamchatka](/europe/russia/kamchatka), [Novgorod](/europe/russia/novgorod), [Vladimir](/europe/russia/vladimir), [Suzdal](/europe/russia/suzdal), [Volgograd](/europe/russia/volgograd), [Novosibirsk](/europe/russia/novosibirsk), [Murmansk](/europe/russia/murmansk), [Yaroslavl](/europe/russia/yaroslavl), [Ulan-Ude](/europe/russia/ulan_ude), [Yakutsk](/europe/russia/yakutsk), [Pyatigorsk](/europe/russia/pyatigorsk), [Krasnodar](/europe/russia/krasnodar), [Sochi](/europe/russia/sochi), [Samara](/europe/russia/samara), [Perm](/europe/russia/perm), [Tula](/europe/russia/tula), [Pskov](/europe/russia/pskov), [Tver](/europe/russia/tver)

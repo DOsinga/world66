@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:CasaCulturalMexicali_(crop
 latitude: 32.624531
 loc_type: city
 longitude: -115.452604
-score: 0.36
+score: 5.9
+snippet: Baja California border capital known for Chinese food rooted in early irrigation-era
+  migration
 title: Mexicali
 type: location
 ---

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04
 latitude: 55.861155
 loc_type: city
 longitude: -4.250169
-score: 0.53
+score: 8.54
+snippet: Scottish city defined by Victorian architecture, shipbuilding history, and
+  a sharp independent culture
 title: Glasgow
 type: location
 ---

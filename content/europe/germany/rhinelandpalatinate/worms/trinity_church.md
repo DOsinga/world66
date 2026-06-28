@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Worms's principal Protestant church, baroque facade and modernist interior"
+score: 5.8
 ---
 
 The main Lutheran parish church of Worms, finished in 1725 in a sober baroque idiom — pilasters,

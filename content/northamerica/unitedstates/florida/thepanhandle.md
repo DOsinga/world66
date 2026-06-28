@@ -1,12 +1,14 @@
 ---
-title: The Panhandle
-type: location
-latitude: 30.44052
-longitude: -84.228067
 done:
   location_cleanup: 2026-04-05
-score: 0.49
+latitude: 30.44052
 loc_type: region
+longitude: -84.228067
+score: 0.49
+snippet: Northwest Florida region of white Gulf beaches and Southern-border towns
+  anchored by Pensacola and Panama City
+title: The Panhandle
+type: location
 ---
 
 Anchored by the towns of Pensacola and Panama City, the Panhandle is perhaps the most Southern part of Florida. Residents occasionally refer to the area as LA, for Lower Alabama (don't try this yourself, though), while others have called it the "Redneck Riviera," for the high proportion of Southerners who vacation there (I wouldn't use that phrase, either).

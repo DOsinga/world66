@@ -9,6 +9,7 @@ tags:
 title: Desert de les Palmes Natural Park
 type: poi
 story: "The 'desert' has nothing to do with sand or aridity — it is the name the Discalced Carmelites gave to the wild retreat they founded here in 1697, after their tradition of contemplative monasteries in remote 'deserted' places. The original Carmelite monastery still stands at the top of the pass, with a small museum of liturgical objects and a working hermit community in its hillside cells."
+score: 8.3
 ---
 
 The Desert de les Palmes (Spanish: Desierto de las Palmas) is the 19-kilometre limestone range that rises sharply behind Benicàssim — a low but very rugged mountain ridge covered in pines, holm oak, dwarf palm and aromatic shrubs, with bare rock peaks above the tree line. The entire range is a protected natural park crossed by well-marked walking trails, and is the area's main hiking and panorama destination.

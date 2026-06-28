@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 41.829769
 longitude: -103.711992
+score: 8.3
 ---
 
 Mitchell Pass is the narrow gap through the bluffs that gave the Oregon Trail its route west of the river. Before 1850, emigrants had to detour around Scotts Bluff via Robidoux Pass to the south — a longer, rougher route. When a new path through Mitchell Pass was surveyed and opened, it quickly became the preferred route, and the ruts worn by thousands of wagons are still visible today.

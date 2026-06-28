@@ -7,6 +7,7 @@ address: Garden Avenue, Shakarparian
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The Islamabad Museum is the federal state museum, housed in a low modernist building on Garden Avenue on the south side of Shakarparian. The collection follows the deep history of the region from prehistoric stone tools and Indus Valley artefacts through the Gandhara Buddhist period — the highlight, with several rooms of standing Buddhas, friezes from Taxila, and a famous gilded fasting Siddhartha — into Mughal painting and Islamic calligraphy.

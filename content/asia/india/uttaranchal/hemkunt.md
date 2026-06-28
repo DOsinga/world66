@@ -4,8 +4,10 @@ done:
 latitude: 30.6968
 longitude: 79.6096
 title: Hemkund
+snippet: High Garhwal Sikh pilgrimage site beside a glacial lake ringed by seven Himalayan
+  peaks
 type: location
-score: 0.53
+score: 7.74
 loc_type: feature
 ---
 

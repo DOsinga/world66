@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Goddelau_Geburtshaus_B%C3%
 latitude: 49.8425
 loc_type: city
 longitude: 8.4829
-score: 0.31
+score: 5.16
+snippet: Hessian Ried town federation near the Rhine, beside floodplain forest and
+  oxbow lakes.
 title: Riedstadt
 type: location
 ---

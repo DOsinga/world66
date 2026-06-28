@@ -9,12 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_si
 latitude: 41.8986
 longitude: 12.4769
 opening_hours: Mon–Sat 09:00–19:00; Sun 09:00–18:00; closed public holidays
+score: 10.0
 snippet: Best-preserved ancient building in the world, with Rome's most perfect dome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
 - church
+- campo_de_fiori
 title: Pantheon
 type: poi
 url: www.pantheonroma.com

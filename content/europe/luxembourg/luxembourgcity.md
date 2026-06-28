@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Abad%C3%ADa_Neum%C3%BCnste
 latitude: 49.599833
 loc_type: city
 longitude: 6.13572
-score: 0.64
+score: 8.87
+snippet: Luxembourg capital on Alzette and Pétrusse gorges, with fortress cliffs and
+  European institutions
 title: Luxembourg City
 type: location
 ---

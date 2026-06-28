@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - altstadt
+score: 7.6
 ---
 
 The city museum, housed in the New Residence on Mozartplatz, is the best place to make sense of Salzburg before exploring it. The Kunsthalle on the second floor traces 1,300 years of prince-archbishopric history through paintings, charters, and the famous panorama of 19th-century Salzburg by Johann Michael Sattler.

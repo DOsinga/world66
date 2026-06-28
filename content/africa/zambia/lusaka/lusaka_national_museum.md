@@ -12,6 +12,7 @@ story: >
   Objects confiscated by police are displayed alongside explanations of how they were used,
   treating the subject as cultural history rather than superstition. Many visitors find it the
   most memorable room in the building.
+score: 8.2
 ---
 
 The Lusaka National Museum sits on Independence Avenue in the Cathedral Hill district and covers the history and culture of Zambia across four linked sections: ethnography, witchcraft, political history, and contemporary art. It is one of the better-presented museums in sub-Saharan Africa, housed in a striking building opened in 1996.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.8450
 longitude: 111.7300
+score: 5.8
 ---
 
 The Inner Mongolia Science and Technology Museum is the regional science museum — interactive exhibits on physics, engineering, space exploration, and the natural sciences, presented in a format aimed primarily at school-age children but engaging for adults who are patient with the crowds of school groups. The astronomy section is strong, reflecting Inner Mongolia's clear-sky advantage for stargazing; the exhibits on renewable energy cover the wind and solar power resources that have made the region one of China's largest clean energy producers.

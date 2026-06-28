@@ -6,6 +6,7 @@ latitude: 42.4380
 longitude: 11.2123
 snippet: "16th-century Spanish fortifications around the old town"
 story: "Orbetello was the capital of the Stato dei Presidi, a small Spanish coastal state strung along the Tuscan coast from 1557 to 1707 — a strategic outpost meant to keep the Tyrrhenian shipping lanes safe from the Ottomans and the French."
+score: 6.9
 ---
 
 The old town is still ringed on three sides by the heavy bastioned walls the Spanish put up in the 16th century, when Orbetello became the capital of the Stato dei Presidi. The fortifications follow the shoreline and are best appreciated from the lungomare on the lagoon side, where the curtain wall drops straight into the water.

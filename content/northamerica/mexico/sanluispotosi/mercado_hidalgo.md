@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 22.1494
 longitude: -100.9741
+score: 7.9
 ---
 
 The Mercado Hidalgo is the city's main traditional market, spread across a large 19th-century iron-and-brick building and spilling into the surrounding streets. It is a working market first and a tourist attraction second, which is part of what makes it worth visiting: the produce, meat, and cheese sections are as busy as the craft stalls, and you get a sense of the city's actual daily life.

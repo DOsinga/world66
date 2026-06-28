@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6962
 longitude: 8.6338
+score: 7.1
 ---
 
 The House of the Golden Ox has the finest oriel window in Schaffhausen — which is saying something in a city with over 170 Erker on its facades. The bay window is carved with reliefs depicting the five human senses: an elaborate late Gothic programme that required a sculptor of real ambition to execute. Smell, taste, sight, hearing, and touch are each given their own figure and symbols, worked into the stonework with the kind of specificity that rewards close looking.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.0
 ---
 
 The medina of Gabès is small compared to those of Tunis or Sfax but it has its own character. The covered souk — the **Jara souk** — is the heart of the old town, and it is unusual for its specialisation in henna, basketwork, and items made from the products of the oasis. The smell of henna, drying in bunches in the shops, is everywhere.

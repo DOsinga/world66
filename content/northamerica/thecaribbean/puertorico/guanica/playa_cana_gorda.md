@@ -5,6 +5,7 @@ tags: [things_to_do, beach, swimming]
 latitude: 17.9420
 longitude: -66.8830
 snippet: Family-friendly beach with calm water and shaded picnic areas
+score: 6.8
 ---
 
 Caña Gorda is the most accessible and most popular beach in Guanica, a long arc of pale sand backed by sea grape trees and palms. The water is calm and shallow well out from shore, which makes it the obvious choice with small children. There are lifeguards on duty, picnic tables under thatched shelters, showers, and bathrooms, plus a small fee to use the parking lot.

@@ -1,8 +1,8 @@
 ---
 address: Calea Victoriei 36, Bucharest
 latitude: 44.4355
-loc_type: feature
 longitude: 26.0981
+score: 7.0
 snippet: 1852 hotel and café, the literary heart of Belle Époque Bucharest
 tags:
 - eating_out
@@ -10,6 +10,7 @@ tags:
 - restaurant
 - cafe
 title: Casa Capșa
+type: poi
 ---
 
 Founded in 1852 by Grigore Capșa, this hotel-restaurant-café complex on Calea Victoriei was the unofficial parliament of Romanian literary and political life from the late 19th century to the Second World War. Caragiale wrote there, Iorga argued there, and royalty held private dinners in its upstairs rooms. The pastry shop, established by Grigore's brother Anton, supplied the royal court and is still going.

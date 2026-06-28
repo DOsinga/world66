@@ -8,6 +8,7 @@ latitude: -27.7645
 longitude: 114.1624
 story: >
   The coastal section of Kalbarri National Park contains some of the best-preserved Tumblagooda sandstone in Western Australia. This rock, some 400-450 million years old, contains the oldest known evidence of land animals in Australia — fossilised trackways of early arthropods (ancient invertebrates related to crabs and insects) preserved in what were once tidal mudflats. The fossils are protected and are not marked for visitors, but the age of the stone underfoot is worth contemplating as you walk the cliff tops.
+score: 9.4
 ---
 
 The coastal section of Kalbarri National Park extends along the Indian Ocean cliff line south of town, with a series of lookouts accessible by sealed road and short walks. Red Bluff, the most dramatic, sits on a headland of deep red sandstone dropping 30 metres straight into the ocean — the waves visible from the top are a consistent swell hitting an unobstructed fetch from thousands of kilometres of open Indian Ocean.

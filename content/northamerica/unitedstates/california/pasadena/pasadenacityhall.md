@@ -14,6 +14,7 @@ story: "Pasadena City Hall was completed in 1927 and is one of the finest exampl
   unusual for a municipal building."
 snippet: One of California's finest Mediterranean Revival civic buildings, completed 1927
 type: poi
+score: 8.1
 ---
 
 Pasadena City Hall is an architectural standout in a city that takes its architecture seriously. The building combines a Spanish tile dome, colonnaded courtyard, and formal gardens in a composition that has aged well and continues to draw visitors who come specifically to see it. The rotunda interior is well-preserved and open during business hours.

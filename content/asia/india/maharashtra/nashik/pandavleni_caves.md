@@ -13,6 +13,7 @@ story: >
   sculptors depicted the Dharma Chakra (wheel of the law) and the Bodhi tree as
   symbols. The shift to Mahayana Buddhism, with its more elaborate iconography,
   happened elsewhere; these caves preserve the earlier, more austere tradition intact.
+score: 8.5
 ---
 
 The Pandavleni Caves are a group of 24 rock-cut Buddhist caves carved into a hillside about 8 km south of Nashik, dating from the 2nd century BC to the 6th century AD. Despite the misleading name — which local legend attributes to the Pandavas of the Mahabharata — these are unambiguously Buddhist monuments, with viharas (monastery halls), stupas, and prayer halls (chaityas) with horseshoe-arch facades characteristic of early Buddhist architecture.

@@ -8,6 +8,7 @@ tags:
 address: "1579 Dresden Row"
 latitude: 44.6450
 longitude: -63.5783
+score: 5.7
 ---
 
 The Stubborn Goat Gastropub is one of Halifax's favourite craft beer destinations, with a rotating selection of Nova Scotia and Atlantic Canadian microbrews on tap alongside an above-average pub food menu. The building is a converted historic space in the South End near the Public Gardens, with exposed brick and a comfortable split-level layout. It fills up in the evenings with a mix of students, young professionals, and visiting beer tourists.

@@ -8,6 +8,7 @@ latitude: 41.636
 longitude: -70.9249
 story: >
   The Ernestina-Morrissey made twelve scientific expeditions into the Arctic — more than almost any vessel of her era — under the command of Captain Robert Bartlett between 1926 and 1945. She also carried generations of Cape Verdean immigrants to New Bedford, and is now recognised as a symbol of both scientific exploration and the Cape Verdean-American community that shaped this city.
+score: 7.7
 ---
 
 The Schooner Ernestina-Morrissey is a 156-foot vessel that has led one of the most varied careers in American maritime history. Built in 1894 as a fishing schooner, she served as an Arctic exploration vessel, a packet boat carrying Cape Verdean immigrants to New Bedford, and a training ship before being donated to the Commonwealth of Massachusetts by the government of Cape Verde in 1982.

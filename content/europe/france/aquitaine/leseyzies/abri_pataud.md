@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.9369
 longitude: 1.0125
+score: 7.8
 ---
 
 Abri Pataud is a prehistoric rock shelter in the centre of Les Eyzies village, literally beneath the houses. Where other sites in the valley require a drive or a cycle, this one is a few steps from the café. The shelter was occupied continuously for some 15,000 years — from about 35,000 to 20,000 BC — by successive populations of Cro-Magnon humans, and the excavations here in the 1950s and 60s produced stratified deposits that became a reference sequence for understanding the European Upper Paleolithic.

@@ -5,12 +5,14 @@ done:
 latitude: 41.899
 longitude: 12.4769
 opening_hours: Mon–Sat 07:00–20:00; Sun 10:30–19:30
+score: 7.8
 snippet: Iconic Roman coffee bar famous for its granita di caffè
 tags:
 - 3 Days in Rome
 - bars_and_cafes
 - bar
 - cafe
+- campo_de_fiori
 title: La Casa del Caffè Tazza d'Oro
 type: poi
 ---

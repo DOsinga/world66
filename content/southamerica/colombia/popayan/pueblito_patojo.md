@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Open-air miniature of Popayán's monuments next to the Chapel of Belén"
+score: 5.8
 ---
 
 A small park near the foot of the Chapel of Belén containing scaled-down replicas of Popayán's most famous buildings — the cathedral, San Francisco, the Humilladero bridge, the Clock Tower. Kitsch by international standards, but charming in person and free to wander.

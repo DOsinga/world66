@@ -1,0 +1,200 @@
+{
+  "round": 3956,
+  "timestamp": "2026-06-13T23:32:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 5.8777,
+      "prior_variance": 0.154402,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds",
+      "prior_score": -0.1718,
+      "prior_variance": 0.111188,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.5914,
+      "prior_variance": 0.104241,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -0.7409,
+      "prior_variance": 0.141651,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -0.5619,
+      "prior_variance": 0.102365,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -1.8747,
+      "prior_variance": 0.108069,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -2.0226,
+      "prior_variance": 0.103893,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -2.3786,
+      "prior_variance": 0.108884,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -0.7375,
+      "prior_variance": 0.120235,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.2599,
+      "prior_variance": 0.095131,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -2.6054,
+      "prior_variance": 0.118645,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Wuwei",
+      "path": "asia/china/gansu/wuwei",
+      "prior_score": -2.8946,
+      "prior_variance": 0.114665,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.1757,
+      "prior_variance": 0.092535,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -4.1725,
+      "prior_variance": 0.123633,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -1.5511,
+      "prior_variance": 0.102438,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -3.0523,
+      "prior_variance": 0.121703,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -2.0027,
+      "prior_variance": 0.109755,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -1.2625,
+      "prior_variance": 0.100494,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -3.6774,
+      "prior_variance": 0.117136,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -5.3832,
+      "prior_variance": 0.125621,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.5821,
+      "prior_variance": 0.141541,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -3.939,
+      "prior_variance": 0.119011,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -8.0803,
+      "prior_variance": 0.279722,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -5.8851,
+      "prior_variance": 0.165399,
+      "prior_n": 13
+    }
+  ]
+}

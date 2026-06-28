@@ -5,10 +5,12 @@ done:
 latitude: 41.8956
 longitude: 12.4722
 phone: +39 06 6864783
+score: 7.2
 snippet: Traditional Roman trattoria on Campo de' Fiori
 tags:
 - eating_out
 - restaurant
+- campo_de_fiori
 title: La Carbonara
 type: poi
 ---

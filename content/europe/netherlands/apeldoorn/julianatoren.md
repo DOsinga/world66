@@ -12,6 +12,7 @@ tags:
 title: Koningin Julianatoren
 type: poi
 url: https://www.julianatoren.nl
+score: 5.6
 ---
 
 A family amusement park built around a watchtower from 1910. It is firmly aimed at younger children -- think giant slides, flying elephants, and a small roller coaster rather than thrill rides. A solid half-day out if you are travelling with kids.

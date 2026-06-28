@@ -5,7 +5,9 @@ done:
 latitude: 12.4878
 loc_type: city
 longitude: -61.4417
-score: 0.52
+score: 7.3
+snippet: Carriacou village with Scottish boatbuilding roots and a surviving tradition
+  of wooden sloop construction.
 title: Windward
 type: location
 ---

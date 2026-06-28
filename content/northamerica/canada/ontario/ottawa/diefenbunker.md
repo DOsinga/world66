@@ -13,6 +13,7 @@ story: >
   Ottawa. It was never used for that purpose, but it was activated once during
   the Cuban Missile Crisis in October 1962, when government officials were
   quietly put on standby to evacuate here.
+score: 8.6
 ---
 
 The Diefenbunker is a four-storey underground bunker built in the late 1950s under Prime Minister John Diefenbaker to shelter the Canadian government from nuclear attack. Located at Carp, about 35 kilometres west of Ottawa, it was designed to house 535 people for a month following a nuclear strike and contains a complete parallel government infrastructure: Cabinet War Room, Bank of Canada vault, CBC broadcast studio, and a decontamination chamber at the entrance.

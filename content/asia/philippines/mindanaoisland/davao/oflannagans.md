@@ -1,6 +1,9 @@
 ---
 address: Ilustre St, Davao City (near Gaisano South Mall)
+latitude: 7.0696
+longitude: 125.606
 phone: 300-1850
+score: 5.1
 tags:
 - eating_out
 - restaurant

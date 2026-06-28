@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, architecture]
 latitude: 50.2653
 longitude: 19.0272
+score: 7.4
 ---
 
 The International Congress Centre (ICC) opened in 2015 immediately adjacent to the Spodek arena, and the two buildings together form the most dramatic architectural ensemble in the city. Where the Spodek is round and retro-futurist, the ICC is angular and aggressive — a faceted dark-glass structure that has been compared to a stealth aircraft. It was designed by Medusa Group and can host up to 15,000 people across its various conference halls and event spaces.

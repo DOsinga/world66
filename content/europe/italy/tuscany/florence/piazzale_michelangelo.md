@@ -4,12 +4,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 43.7628
 longitude: 11.2651
+score: 7.6
 snippet: Hilltop terrace with the most iconic panoramic view of Florence
 tags:
 - One Day in Florence
 - 3 Days in Florence
 - things_to_do
 - square
+- oltrarno
 title: Piazzale Michelangelo
 type: poi
 ---

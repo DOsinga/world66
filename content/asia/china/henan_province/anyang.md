@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20250831_Tianning_Temple_P
 latitude: 36.0956
 loc_type: city
 longitude: 114.3461
+score: 6.51
+snippet: Northern Henan city where Shang dynasty ruins and oracle bones anchor early
+  Chinese history
 sources:
 - https://en.wikivoyage.org/wiki/Anyang
 title: Anyang

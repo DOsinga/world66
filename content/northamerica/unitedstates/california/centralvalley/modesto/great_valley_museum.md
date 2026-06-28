@@ -8,6 +8,7 @@ snippet: "Central Valley ecosystems brought to life in Modesto"
 tags:
   - things_to_do
   - museum
+score: 6.4
 ---
 
 A natural history museum focused on the ecosystems of California's Central Valley — one of the most biodiverse regions in the state, despite its reputation as an agricultural flatland. Exhibits cover local geology, wildlife, and native plant communities. Good for families and anyone curious about the natural world beneath the farmland.

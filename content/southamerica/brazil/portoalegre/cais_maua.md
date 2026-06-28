@@ -8,6 +8,7 @@ tags:
 story: The Cais Mauá docklands were Porto Alegre's working port for most of the 20th century, handling grain, livestock, and general cargo from the Guaíba waterway. When commercial shipping declined, the warehouses fell derelict for years while the city argued about what to do with them. The current revitalisation — mixed results but a genuine improvement — opened in phases from 2015 onward and has given the city its first proper waterfront promenade.
 title: Cais Mauá (Mauá Wharf)
 type: poi
+score: 6.3
 ---
 
 The Cais Mauá is Porto Alegre's waterfront precinct, a long strip of converted early 20th-century port warehouses along the Guaíba shore north of the Usina do Gasômetro. The revitalisation project has been controversial — some of the historic warehouses were demolished, the commercial mix is uneven, and the whole thing felt underused for years after opening. But the waterfront promenade itself is undeniably good: a wide esplanade facing the Guaíba, with views across the water, a constant breeze, and enough space to feel genuinely open in a city that is otherwise fairly dense.

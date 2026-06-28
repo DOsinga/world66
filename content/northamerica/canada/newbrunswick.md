@@ -7,6 +7,8 @@ done:
   location_cleanup: 2026-04-05
 score: 0.46
 loc_type: region
+snippet: Atlantic Canadian province known for Fundy tides, forested interior, and
+  a mix of coastal cultures.
 ---
 
 Known as the "Picture Province", New Brunswick has a variety of attractions that contribute to this reputation.
@@ -26,4 +28,5 @@ To the north of the province is Mount Carleton Provincial Park which is particul
 [Moncton](/northamerica/canada/newbrunswick/moncton)
 [Saint John](/northamerica/canada/newbrunswick/saintjohn)
 [St. Andrews](/northamerica/canada/newbrunswick/standrews)
+[Gagetown](/northamerica/canada/newbrunswick/gagetown)
 Fredericton

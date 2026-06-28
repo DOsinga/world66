@@ -7,6 +7,7 @@ tags:
   - eating_out
   - baixa
   - restaurant
+score: 6.8
 ---
 
 One of the best traditional Portuguese restaurants in Lisbon, at Rua das Portas de Santo Antão 150 — the restaurant street that runs north from Rossio. Solar dos Presuntos has been serving straightforward, excellent Portuguese food since 1976: bacalhau in multiple preparations, roast suckling pig, cozido à portuguesa (the national stew of meats and vegetables), and regional wines from across the country.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Il_porto_di_Ancona_(242641
 latitude: 43.480119
 loc_type: city
 longitude: 13.218728
-score: 0.55
+score: 7.84
+snippet: Marche port city on an Adriatic promontory, with a hilltop cathedral and
+  the Conero Riviera nearby.
 title: Ancona
 type: location
 ---

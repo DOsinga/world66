@@ -11,6 +11,7 @@ url: "www.surveyhistory.org"
 tags:
 - things_to_do
 - museum
+score: 6.6
 ---
 
 The only museum of its kind in the United States. The collection focuses on historical surveying instruments and artifacts, with particular emphasis on Michigan's growth to statehood and early settlement.

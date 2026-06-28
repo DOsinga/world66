@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kamoto_Mine_-_panoramio.jp
 latitude: -10.717
 loc_type: city
 longitude: 25.467
-score: 0.21
+score: 4.59
+snippet: Katanga mining city in southern DR Congo, built around major cobalt and copper
+  deposits.
 title: Kolwezi
 type: location
 ---

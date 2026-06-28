@@ -10,6 +10,7 @@ tags:
   - sport
 sources:
   - https://en.wikipedia.org/wiki/Novi_Ligure
+score: 7.4
 ---
 
 Novi Ligure, at the northern end of the valley where the Scrivia emerges onto the Po Plain, was the birthplace of two of cycling's greatest champions: Costante Girardengo, who dominated Italian racing in the 1910s and 20s, and Fausto Coppi, the campionissimo who won the Tour de France and Giro d'Italia multiple times and became the most celebrated Italian athlete of the 20th century.

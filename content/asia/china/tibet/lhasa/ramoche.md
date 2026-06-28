@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: Ramoche Temple
 type: poi
+score: 8.1
 ---
 
 Ramoche is the quieter sister of the Jokhang, half a kilometre north and a great deal less visited. It was built at the same time, in the 7th century, to house the Jowo Mikyo Dorje — a Buddha image brought to Tibet from Nepal as the dowry of King Songtsen Gampo's Nepalese queen, while the Jokhang's Jowo Shakyamuni came from China with his Chinese queen. The two images were swapped between the temples in the 8th century and the smaller image has lived at Ramoche ever since.

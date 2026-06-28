@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -44.8833
 longitude: 168.9667
+score: 8.2
 ---
 
 Cardrona, 35 km south of Wanaka over the Crown Range road, is the more accessible and family-friendly alternative to Treble Cone. It has a broader spread of intermediate terrain, good snowboard parks, and a reliable snowmaking system that extends the season when natural snow is thin. The halfpipe here is one of the best in New Zealand and has hosted international competition.

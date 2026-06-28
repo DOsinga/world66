@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - historic
+score: 6.8
 ---
 
 The Carlton, opened in 1929, is the historic luxury hotel on El Camino Real in downtown Atascadero. It closed for decades in the second half of the 20th century and was restored and reopened in 2004; the lobby, ballroom, and exterior detailing are essentially as built. The hotel's clock tower is, after the City Hall dome, the most recognisable thing on the downtown skyline.

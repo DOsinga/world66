@@ -6,6 +6,7 @@ longitude: -78.5460
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 An open-air museum at the edge of Bobcaygeon, with twenty restored 19th-century buildings moved here from sites around the Kawarthas. The collection includes a pioneer log cabin, a one-room schoolhouse, a blacksmith's forge, a Methodist chapel, and a working print shop.

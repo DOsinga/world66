@@ -8,6 +8,7 @@ tags:
 - hiking
 title: Kirk Fell
 type: poi
+score: 6.6
 ---
 
 Kirk Fell sits between Great Gable and Pillar — both of which are higher, more dramatic, and better known — which means it rarely gets climbed on its own. That's not entirely unfair: it's a broad, slightly featureless summit compared to its neighbours. But it earns its place as part of a longer round.

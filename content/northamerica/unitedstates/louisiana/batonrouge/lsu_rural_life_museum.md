@@ -8,6 +8,7 @@ tags:
 latitude: 30.3965
 longitude: -91.1478
 story: The Rural Life Museum occupies what was once a working plantation. The main plantation house, the slave quarters, the sugar mill, and the outbuildings are all still standing on the grounds. Unlike many plantation tours that focus on the main house, the Rural Life Museum centres its narrative explicitly on the lives of enslaved people and the agricultural labour that made Louisiana wealthy.
+score: 7.9
 ---
 
 The LSU Rural Life Museum is an outdoor museum on the grounds of the old Burden Research Plantation, south of the main campus. The complex preserves a collection of structures representing Louisiana's pre-industrial agricultural world: a working plantation with overseer's house, slave cabins, a commissary, a sugar-processing barn, and a grist mill.

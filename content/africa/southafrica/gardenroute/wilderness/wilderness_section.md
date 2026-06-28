@@ -9,6 +9,7 @@ tags:
 - sight
 - park
 story: "The five connected lakes — Eilandvlei, Langvlei, Rondevlei, Swartvlei and Groenvlei — form one of South Africa's most important wetland systems and are listed under the Ramsar Convention. They host over 250 bird species, including ospreys, fish eagles and the elusive African finfoot."
+score: 8.8
 ---
 
 The southern half of the Garden Route National Park wraps around Wilderness village. It protects a 30-kilometre coastal strip of indigenous Afromontane forest, a chain of five interconnected freshwater lakes, the Touw and Serpentine river estuaries, and the dune fynbos behind the beach.

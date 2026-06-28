@@ -6,6 +6,7 @@ longitude: -84.700
 tags:
   - things_to_do
   - museum
+score: 7.0
 ---
 
 The Schoolhouse building, just inside the entry to the village, is the starting point for any visit: tickets to the guided tour, a small museum on the rise and fall of the colony, and a gift shop that doubles as Rugby's only bookshop. The friendly volunteers running it are the colony's institutional memory.

@@ -10,6 +10,7 @@ latitude: 42.4483
 longitude: -73.2533
 sources:
   - https://en.wikipedia.org/wiki/Park_Square_Historic_District_(Pittsfield,_Massachusetts)
+score: 7.1
 ---
 
 Park Square is the old heart of Pittsfield, a downtown cluster of civic, commercial, and church buildings that still gives the city its centre of gravity. It is not manicured into a museum piece, which makes it more interesting.

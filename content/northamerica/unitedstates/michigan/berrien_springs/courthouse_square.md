@@ -6,6 +6,7 @@ longitude: -86.3411
 tags:
   - things_to_do
   - museum
+score: 7.2
 ---
 
 The History Center at Courthouse Square gathers the 1839 courthouse, the 1870 sheriff's residence and jail, and the 1840s county clerk's office into a single small museum site, billed as the oldest town square in the Midwest. Indoor exhibits cover Berrien County life from the Potawatomi era through the orchard boom of the early 1900s.

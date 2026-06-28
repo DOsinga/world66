@@ -16,6 +16,7 @@ story: >
   marooned on its own peninsula. Below it, narrow stone steps drop straight
   down to the beach — the photogenic transition from sacred to secular that
   defines the town.
+score: 7.5
 ---
 
 The parish church of Sant Bartomeu i Santa Tecla sits on the rocky promontory that divides the old town from the long sweep of Sitges beach. Built in the baroque style in the late 17th century, with two later bell towers and a coloured-tile dome, it is the dominant landmark of the seafront and lit up after dark.

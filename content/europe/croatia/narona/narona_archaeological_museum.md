@@ -9,6 +9,7 @@ latitude: 43.0804
 longitude: 17.6259
 story: >
   When archaeologists excavating the site in 1995 came across a cache of marble imperial statues buried beneath the floor of a Roman temple, they realised the temple had been systematically stripped and the statues deliberately smashed — almost certainly by early Christians destroying pagan idols in the fourth or fifth century. Several of the statues were reassembled from hundreds of fragments. One of them, a colossal head of Augustus, is among the finest surviving portraits of the emperor.
+score: 9.0
 ---
 
 The Archaeological Museum of Narona, opened in 2007, is built directly over and around the excavated remains of a Roman imperial cult temple — the Augusteum — so that visitors walk through the museum while looking down at the actual ruins through glass floors. This is one of the most effectively designed archaeological museums in Croatia: the building is purpose-built to house and display the site in situ, rather than moving everything to a distant urban museum.

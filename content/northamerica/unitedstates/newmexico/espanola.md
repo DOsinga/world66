@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Espanola_-_Industr
 latitude: 36.0028
 loc_type: city
 longitude: -106.0578
-score: 0.32
+score: 5.96
+snippet: Northern New Mexico valley town layered with Pueblo, Spanish colonial, and
+  Rio Grande history.
 sources:
 - https://en.wikipedia.org/wiki/Espa%C3%B1ola,_New_Mexico
 title: Española

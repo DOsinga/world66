@@ -7,6 +7,7 @@ tags:
 snippet: "Baroque Lutheran church with elaborately painted gallery interior"
 latitude: 49.3178
 longitude: 8.4394
+score: 7.9
 ---
 
 The Trinity Church was built between 1701 and 1717, in the years after French troops burned much of Speyer to the ground in 1689. That destruction — part of Louis XIV's deliberate policy of devastating the Rhineland — left the city with the unusual opportunity to rebuild a Protestant church in the then-current style, which meant Baroque. The result is one of the best examples of German Baroque Protestant church architecture in the region.

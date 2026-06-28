@@ -12,6 +12,7 @@ tags:
 - museum
 title: Deutsches Bergbaumuseum
 type: poi
+score: 9.4
 ---
 
 The German Mining Museum is the largest mining museum in the world and one of the best industrial museums anywhere in Europe. The collection covers over 10,000 years of mining history, from stone-age flint extraction to modern mechanised coalfaces. The headframe above the building — 71 metres tall — is a Bochum landmark and the observation platform at the top gives a clear view across the Ruhr.

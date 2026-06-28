@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 34.1017
 longitude: 74.8783
+score: 5.4
 ---
 
 One of the highest golf courses in India, Royal Springs occupies a spectacular site on the lower slopes of the Zabarwan Hills above Dal Lake, at an elevation of about 1,700 metres. The 18-hole course was designed by Robert Trent Jones II and opened in the 1990s. The combination of mountain air, the views over the lake, and the surrounding chinar trees makes this one of the more atmospherically interesting golf courses in the country.

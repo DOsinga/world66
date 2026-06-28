@@ -7,6 +7,7 @@ tags:
 - food
 title: Roquefort
 type: poi
+score: 8.2
 ---
 
 Roquefort is one of the world's oldest blue cheeses, made exclusively from the raw milk of Lacaune ewes raised on the limestone plateaux of the Aveyron in southern France. What makes it distinct is where it matures: the natural caves of Combalou, near the village of Roquefort-sur-Soulzon, where a fungus called Penicillium roqueforti thrives in the cool, damp air and creates the characteristic blue-green veins.

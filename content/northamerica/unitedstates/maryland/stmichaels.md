@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Saint_Michaels,_M
 latitude: 38.7851
 loc_type: city
 longitude: -76.2244
-score: 0.47
+score: 7.35
+snippet: Preserved Chesapeake harbour town with crab boats, colonial streets, and
+  a major maritime museum.
 title: St. Michaels
 type: location
 ---

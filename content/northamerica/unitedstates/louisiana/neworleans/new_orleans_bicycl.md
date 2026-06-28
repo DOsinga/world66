@@ -1,8 +1,13 @@
 ---
 email: info@confederacyofcruisers.com
+latitude: 29.9637
+longitude: -90.0569
 phone: 504 400 5468
+score: 6.9
 tags:
 - things_to_do
+- cycling
+- tour
 title: New Orleans Bicycle Tour
 type: poi
 url: confederacyofcruisers.com

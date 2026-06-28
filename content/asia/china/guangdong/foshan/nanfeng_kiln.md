@@ -14,6 +14,7 @@ story: >
   using wood rather than gas. The firing schedule is unpredictable, but if you are there on a
   firing day the experience of watching the temperature build over twelve to fourteen hours
   through the night is one of the more unusual things you can see in China.
+score: 8.4
 ---
 
 Nanfeng Ancient Kiln in the Shiwan district is both a working pottery and an open-air museum of ceramic production. The kiln itself is a wood-fired dragon kiln of early Ming vintage, still used for ceremonial firings and for producing the glazed tiles and figurines that characterise Shiwan ware. You can walk through the kiln chambers when they're not firing, and potters work in the surrounding workshops throughout the day.

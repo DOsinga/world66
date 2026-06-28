@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: sancristobaldelascasas.jpg
 image_attribution: AlejandroLinaresGarcia
@@ -8,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:InsideRosaliaSanCris.JPG
 latitude: 16.7383
 loc_type: city
 longitude: -92.6368
+score: 8.66
+snippet: Cool Chiapas highland city of colonial streets, indigenous villages, and
+  enduring Zapatista political memory
 sources:
 - https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas
 title: San Cristóbal de las Casas

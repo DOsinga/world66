@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -23.699846
 longitude: 133.882684
+score: 6.6
 ---
 
 Todd Mall is the pedestrianised main street of Alice Springs — a broad shaded mall with Aboriginal art galleries, cafes, tourist shops, and the town's essential services arranged along several blocks in the town centre. It is the hub of town life, and the best place to browse Aboriginal art from the Western Desert and Arrernte traditions, though the quality and provenance of galleries varies considerably.

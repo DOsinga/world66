@@ -12,6 +12,7 @@ story: >
   Schladming was fortified in the 15th century not to defend against foreign armies but against its own citizens.
   After the town converted to Protestantism during the Reformation, Habsburg forces put down a miners' revolt in 1525 with considerable violence —
   the town was partially destroyed as punishment. The walls and gates were subsequently rebuilt, partly as a reminder of who held power.
+score: 5.6
 ---
 
 The Stadttor is the main surviving gate of Schladming's medieval fortifications, at the eastern end of the pedestrian zone. The gate is a relatively modest piece of late-medieval architecture, but it is one of the few tangible reminders that Schladming was a substantial town long before the first skis arrived. The inscription above the arch dates the current structure to the 16th century, after the town was rebuilt following the miners' revolt of 1525.

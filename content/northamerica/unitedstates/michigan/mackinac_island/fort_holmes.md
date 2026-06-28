@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.858336
 longitude: -84.616442
+score: 7.0
 ---
 
 Fort Holmes occupies the highest point of Mackinac Island at 320 feet above sea level — a significant tactical advantage that the British understood immediately after capturing the island in 1812. They built an earthen redoubt here, positioning it to command both the harbour approaches and any counterattack from the north. The American attempt to retake the island in 1814 failed partly because they landed on the wrong beach and then faced this uphill fortification; Major Andrew Hunter Holmes was killed in that failed assault and the fort was later renamed in his honour.

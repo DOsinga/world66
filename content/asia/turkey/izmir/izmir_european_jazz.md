@@ -8,6 +8,7 @@ latitude: 38.4364
 longitude: 27.1402
 story: >
   İzmir's jazz tradition is rooted in the city's cosmopolitan past — the Levantine merchants who dominated the city in the nineteenth century brought European musical culture with them, and the city's Jewish community produced several musicians who became prominent in Mediterranean and American jazz. The festival has been running since 1989 and has hosted musicians including Wayne Shorter, Chick Corea, and Herbie Hancock at outdoor venues around the city.
+score: 6.7
 ---
 
 The İzmir European Jazz Festival takes place each March, typically using outdoor and indoor venues across the city — the Kordon, the Culture Park amphitheatre, and several concert halls. It is one of Turkey's most respected jazz events, drawing international acts alongside Turkish musicians and maintaining a genuinely varied programme.

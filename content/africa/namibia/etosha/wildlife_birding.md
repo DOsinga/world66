@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -18.8500
 longitude: 16.5000
+score: 7.6
 ---
 
 Etosha is an excellent birding destination, recording over 340 species. The variety comes from the diversity of habitats: the pan edges attract waders and flamingos, the mopane woodland supports raptors and rollers, and the scrub around the rest camps is full of smaller species. Kori bustard — the world's heaviest flying bird — is common in the open grasslands, along with ostrich, secretary bird, and various hornbills.

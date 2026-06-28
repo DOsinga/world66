@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9169
 longitude: 100.8675
+score: 6.5
 ---
 
 The low headland that separates Jomtien from Pattaya is called Khao Phra Tamnak, or Pattaya Hill. At the top sit two related sights worth a 20-minute detour: a giant gilded **seated Buddha**, *Phra Yai*, with the city skyline behind, and a small viewpoint at the southern end with a view down over Jomtien Beach and out to Koh Larn.

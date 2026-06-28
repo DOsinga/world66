@@ -9,6 +9,7 @@ latitude: 29.3632
 longitude: -98.4803
 story: >
   Mission San José was known in its heyday as the "Queen of the Missions," and its Rose Window — a single ornate baroque carving above the sacristy door — is the finest example of Spanish colonial decorative stone carving in North America. Local legend says it was carved by a Spanish sculptor named Pedro Huizar in memory of his sweetheart Rosa, who died at sea on the voyage to join him. Historians find no record of Rosa; the legend persists anyway.
+score: 9.4
 ---
 
 The grandest of San Antonio's five missions and a UNESCO World Heritage Site alongside its four companions. Founded in 1720, Mission San José grew into a self-sufficient community of several hundred converted Coahuiltecan people, with granaries, a mill, soldiers' quarters, and a large circular compound wall. The stone church with its baroque facade and the famous Rose Window have been restored to something close to their original splendour.

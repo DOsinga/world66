@@ -8,6 +8,7 @@ latitude: 42.2819
 longitude: 42.7592
 sources:
   - https://en.wikipedia.org/wiki/Motsameta_Monastery
+score: 7.8
 ---
 
 Motsameta sits on a narrow rocky promontory above the gorge of the Tskaltsitela River, about 6 km northeast of Kutaisi. The monastery's name means "place of martyrs" in Georgian — it was built over the tombs of two Abkhazian princes, David and Constantine, who were captured by Arab invaders in the 8th century and thrown into the gorge rather than renounce their Christian faith. Their remains were retrieved and enshrined here, and the site became a pilgrimage destination.

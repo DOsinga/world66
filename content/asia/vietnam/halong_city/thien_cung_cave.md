@@ -7,6 +7,7 @@ tags:
 latitude: 20.8994
 longitude: 107.1047
 story: "Thien Cung translates roughly as 'Heavenly Palace,' which gives you a sense of the Vietnamese approach to naming caves. The interior has a large main chamber and several side passages, all lit in coloured lights that are either magical or kitschy depending on your tolerance. The formations are genuinely impressive; the lighting does them mixed favours."
+score: 6.5
 ---
 
 One of the most visited caves in Halong Bay, accessible from a dock about 6 km from Bai Chay. The cave extends about 250 metres into the limestone and contains impressive stalactite and stalagmite formations — columns, cascades, and shapes that Vietnamese guides interpret as dragons, phoenixes, and celestial dancers. The coloured lighting is a Vietnamese cave standard that some visitors find overwhelming.

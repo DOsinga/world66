@@ -8,10 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Umag,_Platz_Trg._Slobode,_
 latitude: 45.432359
 loc_type: city
 longitude: 13.52241
-score: 0.58
+score: 8.25
+snippet: Istrian harbour town near Slovenia, with a Venetian old promontory and Croatia's
+  long-running clay-court tennis tournament
 sources:
-  - https://en.wikipedia.org/wiki/Umag
-  - https://en.wikipedia.org/wiki/Croatia_Open
+- https://en.wikipedia.org/wiki/Umag
+- https://en.wikipedia.org/wiki/Croatia_Open
 title: Umag
 type: location
 ---

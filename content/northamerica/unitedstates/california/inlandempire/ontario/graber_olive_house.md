@@ -14,6 +14,7 @@ story: >
   Graber's are left on the tree until brown-purple and then cured for
   months in salt brine, which is why they taste nothing like the canned
   black olives you get elsewhere.
+score: 7.7
 ---
 
 The longest continuously operating olive cannery in the United States, the Graber Olive House is a small compound of wooden curing-house buildings on a quiet residential street north of downtown Ontario. The free self-guided tour walks you past the original grading and packing machinery and explains the slow tree-ripened curing process. October and November, during harvest, is the most interesting time to visit.

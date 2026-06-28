@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - shopping
+score: 7.3
 ---
 
 The Miller Arcade is Preston's last surviving Victorian shopping arcade — a triangular block of small independent shops behind a striking terracotta and faience facade, opened in 1899 in the same Edwardian Baroque style as the Bridge Tea Rooms in nearby Liverpool. The interior is tile-lined, with a central rotunda under a glass dome and an iron-railed gallery running around the upper floor.

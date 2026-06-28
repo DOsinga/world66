@@ -7,6 +7,7 @@ tags:
 - sight
 title: Veshaw River
 type: poi
+score: 6.6
 ---
 
 The Veshaw rises from Konsarnag glacier high in the Pir Panjal, plunges over Aharbal Falls, and then meanders through Kulgam town on its way to join the Jhelum near Sangam. The lower stretches around Kulgam are slow, clear, and stocked with brown and rainbow trout introduced by the British in the late 19th century — the angling is some of the best in the Kashmir Valley.

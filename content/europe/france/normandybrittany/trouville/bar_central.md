@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 49.3673
 longitude: 0.0832
+score: 5.4
 ---
 
 A small, well-loved bar on a corner of the old town, attracting locals year-round rather than the summer crowd of the boardwalk. Decent wines by the glass, simple platters of charcuterie, and a small terrace make it a good before-dinner stop.

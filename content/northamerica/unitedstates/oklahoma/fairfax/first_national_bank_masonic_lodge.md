@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 A handsome two-storey 1908 commercial block on Main Street, built with banking on the ground floor and the Fairfax Masonic Lodge No. 414 above. The classical façade is dressed in stone pilasters and a heavy pressed-tin cornice, an oil-boom-era confidence statement that the town would grow much larger than it ever did. The building is on the National Register of Historic Places.

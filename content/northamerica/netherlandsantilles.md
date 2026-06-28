@@ -1,9 +1,12 @@
 ---
-title: "Netherlands Antilles"
-type: location
+latitude: 12.2
 loc_type: country
-latitude: 12.2000
-longitude: -69.0000
+longitude: -69.0
+score: 0.49
+snippet: Former Dutch Caribbean territory grouping six islands, from dry ABC beaches
+  to volcanic SSS hills.
+title: Netherlands Antilles
+type: location
 ---
 
 The Netherlands Antilles was a Caribbean territory of the Netherlands comprising six islands in two groups, dissolved in 2010 when the islands gained different constitutional statuses. The name persists in travel writing and in the memory of travellers who visited before the political changes. The islands — [Curaçao](/northamerica/netherlandsantilles/curacao), [Bonaire](/northamerica/netherlandsantilles/bonaire), [Aruba](/northamerica/netherlandsantilles/aruba), [Sint Maarten](/northamerica/netherlandsantilles/stmaarten), [Sint Eustatius](/northamerica/netherlandsantilles/steustatius), and [Saba](/northamerica/netherlandsantilles/saba) — are spread across a wide arc, the ABC islands lying just off the Venezuelan coast and the SSS islands sitting in the northeastern Caribbean near Anguilla and Saint-Barthélemy.

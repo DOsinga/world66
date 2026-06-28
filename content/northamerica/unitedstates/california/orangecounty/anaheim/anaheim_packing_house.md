@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 33.8315
 longitude: -117.9121
+score: 7.6
 ---
 
 The Anaheim Packing House is the city's best reason to venture away from the resort area. Built in 1919 as a citrus-packing facility during Anaheim's fruit-growing era — before the orange groves gave way to Disneyland's parking lots — it was converted in 2014 into one of Southern California's more successful food halls.

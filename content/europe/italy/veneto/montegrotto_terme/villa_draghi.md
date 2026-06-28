@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 7.1
 ---
 
 Villa Draghi sits on a wooded ridge on the western edge of town, a fifteen-minute walk up from the centre through the Parco Mineraio. The neo-Gothic villa was built in the 1860s by a Paduan industrialist and is now owned by the municipality; the ground floor houses the Museum of Thermalism, with finds from the Roman baths in town — bronze ex-votos, mosaic fragments, coins, and oil lamps.

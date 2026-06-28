@@ -12,6 +12,7 @@ tags:
 title: Frenchie
 type: poi
 url: www.frenchie-restaurant.com
+score: 7.4
 ---
 
 Frenchie is the restaurant that launched the neo-bistro movement in Paris — Greg Marchand's small, intensely focused room on Rue du Nil has trained a generation of Paris cooks and spawned a whole ecosystem: Frenchie Bar à Vins (wine bar, no reservation), Frenchie To Go (sandwich shop), and Frenchie Épicerie around the corner.

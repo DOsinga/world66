@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Giethoorn,_Netherlands.jpg
 latitude: 52.7411
 loc_type: city
 longitude: 6.0774
-score: 0.63
+score: 8.56
+snippet: Overijssel canal village of thatched farmhouses and car-free lanes in the
+  Weerribben-Wieden peatlands.
 title: Giethoorn
 type: location
 ---

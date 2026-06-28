@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Marburg_Schloss.jpg
 latitude: 50.809
 loc_type: city
 longitude: 8.7704
-score: 0.55
+score: 7.97
+snippet: Hessian university town of steep half-timbered lanes climbing from the Lahn
+  to a castle.
 title: Marburg
 type: location
 ---

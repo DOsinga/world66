@@ -8,6 +8,7 @@ address: "1801 E Chestnut Ave, Santa Ana, CA 92701"
 latitude: 33.7397
 longitude: -117.8388
 story: "The zoo was founded after a donation stipulating that at least 50 monkeys must live there at all times — a condition the city has honoured ever since. The monkey collection remains the zoo's centrepiece."
+score: 6.5
 ---
 
 A compact 20-acre zoo focusing on the animals and plants of Central and South America, operated by the City of Santa Ana within the pleasant surroundings of Prentice Park. The collection leans heavily on primates — spider monkeys, squirrel monkeys, and a collection of Amazon species — but also includes jaguars, tapirs, and a small farm animal area for younger children.

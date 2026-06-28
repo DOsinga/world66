@@ -8,6 +8,7 @@ latitude: 44.8272
 longitude: 1.1833
 story: >
   The gabare was the workhorse of the Dordogne for centuries: a flat-bottomed wooden barge designed to carry wine, walnut oil, and timber downriver to Bordeaux and the Atlantic coast. The boats could not travel back upstream against the current, so after delivering their cargo in Bordeaux they were broken up and the wood sold — the boatmen had to walk home.
+score: 8.2
 ---
 
 The traditional flat-bottomed boats called gabares have been carrying goods and people along the Dordogne since the Middle Ages. Today they depart from a landing stage right in La Roque-Gageac for peaceful cruises of 50 minutes to an hour, drifting along the river with the limestone cliffs, walnut groves, and medieval châteaux passing slowly on either bank. It is the best way to see the village and the wider valley from the water.

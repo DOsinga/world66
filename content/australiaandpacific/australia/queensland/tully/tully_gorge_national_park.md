@@ -12,6 +12,7 @@ story: >
   to the coastal plain. The entire watershed sits within the Wet Tropics of Queensland World Heritage Area —
   a refuge for species that survived here while much of Australia dried out over the past few million years,
   including several frog species found nowhere else on earth.
+score: 8.0
 ---
 
 Tully Gorge National Park encompasses the river canyon and the surrounding wet tropical rainforest that makes the Tully River rafting experience possible. The gorge walls are cloaked in vegetation down to the waterline, with enormous ferns, strangler figs, and the buttressed trunks of rainforest giants. Cassowaries move through the lower areas of the park — unmistakeable, ungainly, and best kept at a distance.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Regensburger_Altstadt_von_
 latitude: 49.0195
 loc_type: city
 longitude: 12.0975
-score: 0.66
+score: 8.66
 sources:
 - https://en.wikipedia.org/wiki/Regensburg
 - https://en.wikipedia.org/wiki/Stone_Bridge_(Regensburg)
@@ -18,6 +18,8 @@ sources:
 - https://en.wikipedia.org/wiki/Scots_Monastery,_Regensburg
 - https://en.wikipedia.org/wiki/Historische_Wurstkuchl
 title: Regensburg
+snippet: Danube city in eastern Bavaria, with an intact medieval centre spared from
+  wartime destruction.
 type: location
 ---
 

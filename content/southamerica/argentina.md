@@ -1,22 +1,24 @@
 ---
-title: Argentina
-type: location
-latitude: -34.996496
-longitude: -64.967282
-quick_facts:
-  Population: "46 million"
-  Blue Dollar: "Parallel exchange rate — bring USD cash"
-  Beef Consumption: "~50 kg per person per year"
-  Highest Peak Outside Asia: "Aconcagua, 6,961 m"
-image: argentina.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG
-image_license: CC BY-SA 2.5
-image_attribution: Luca Galuzzi (<a href="//commons.wikimedia.org/wiki/User:Lucag"
-  title="User:Lucag">Lucag</a>)
 done:
   country_cleanup: 2026-03-29
-score: 0.49
+image: argentina.jpg
+image_attribution: Luca Galuzzi (<a href="//commons.wikimedia.org/wiki/User:Lucag"
+  title="User:Lucag">Lucag</a>)
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG
+latitude: -34.996496
 loc_type: country
+longitude: -64.967282
+quick_facts:
+  Beef Consumption: ~50 kg per person per year
+  Blue Dollar: Parallel exchange rate — bring USD cash
+  Highest Peak Outside Asia: Aconcagua, 6,961 m
+  Population: 46 million
+score: 0.88
+snippet: Vast South American country of pampas, tango, beef, Andean peaks, and glacier-cut
+  Patagonia.
+title: Argentina
+type: location
 ---
 
 Argentina takes up most of the southern half of South America. with which it has a very long border going all the way from the north of the country to the south, Argentina also borders on [Paraguay](/southamerica/paraguay), [Uruguay](/southamerica/uruguay) and [Brazil](/southamerica/brazil).

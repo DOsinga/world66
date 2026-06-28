@@ -5,7 +5,9 @@ done:
 latitude: 1.618
 loc_type: city
 longitude: 18.0597
-score: 0.22
+score: 4.51
+snippet: Remote Ubangi River town in northern Congo, capital of the forested Likouala
+  department.
 title: Impfondo
 type: location
 ---

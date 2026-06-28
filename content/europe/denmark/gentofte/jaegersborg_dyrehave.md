@@ -11,6 +11,7 @@ latitude: 55.7771
 longitude: 12.5423
 sources:
   - https://en.wikipedia.org/wiki/J%C3%A6gersborg_Dyrehave
+score: 9.2
 ---
 
 Dyrehaven — the Deer Park — is a royal hunting ground turned public park covering nearly 10 square kilometres of ancient beech forest immediately north of Gentofte. Around 2,000 red and fallow deer roam freely through the trees; encountering a large stag at close range on a forest path is entirely normal and one of the more unexpectedly wild experiences available within 20 kilometres of a Scandinavian capital.

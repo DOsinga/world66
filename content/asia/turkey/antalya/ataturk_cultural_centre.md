@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.88590
 longitude: 30.66846
+score: 4.7
 ---
 
 The Atatürk Cultural Centre is Antalya's main venue for theatre, opera, ballet, and concert performances. Built in the 1970s, it hosts the Antalya International Film Festival (one of Turkey's most prestigious, held in October) and the Antalya International Opera and Ballet Festival (summer performances at Aspendos as well as in the city). It also houses the city's main municipal theatre company.

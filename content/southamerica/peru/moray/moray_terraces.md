@@ -11,6 +11,7 @@ story: >
   The temperature difference between the top and bottom terraces is approximately 15°C — a range that mimics the climate variation across a significant stretch of altitude in the Andes. The Incas appear to have cultivated over 250 different plant species here, essentially running controlled experiments on the same crops at different microclimates simultaneously.
 sources:
   - https://en.wikipedia.org/wiki/Moray_(Inca_ruin)
+score: 8.6
 ---
 
 The Moray terraces are one of the most visually striking and intellectually compelling Inca sites in the Sacred Valley. Three large natural sinkholes have been transformed into concentric amphitheatres of agricultural terracing, each ring a little lower and a little warmer than the one above it. The engineering is quietly astonishing: the terraces are precisely graded, connected by internal drainage channels that prevent waterlogging, and lined with retaining walls of fitted stone.

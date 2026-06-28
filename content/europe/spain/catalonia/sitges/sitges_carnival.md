@@ -15,6 +15,7 @@ story: >
   for two main parades — the Rua de la Disbauxa ("debauchery") on Sunday and
   the Rua de l'Extermini on Tuesday — plus continuous street parties along
   the seafront.
+score: 8.0
 ---
 
 The Sitges Carnival is the highlight of the town's calendar — a six-day extravaganza of parades, costumes, drag queens, samba bands, and round-the-clock street parties that runs from Fat Thursday through to Ash Wednesday. The two main night parades, Sunday and Tuesday, see dozens of floats and thousands of performers in extravagant costume snaking along the seafront.

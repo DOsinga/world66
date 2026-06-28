@@ -1,8 +1,7 @@
 ---
-category: Viewpoint
 latitude: -33.9162
 longitude: 18.4019
-neighbourhood: Bo-Kaap
+score: 7.4
 scores:
   activities: 0.5319
   sight: 0.6712
@@ -17,7 +16,7 @@ tags:
 - things_to_do
 - sight
 - outdoor
-- bo_kaap
+- bokaap
 title: Signal Hill
 type: poi
 ---

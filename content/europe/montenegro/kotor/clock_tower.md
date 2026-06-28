@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The 17th-century Clock Tower stands at the southern end of Trg od Oružja, the first thing many visitors see after passing through the Sea Gate. The square plan, the pyramidal stone roof, and the small balcony above the clock face are characteristic of Venetian provincial public architecture — comparable structures stand on Trogir and Korčula.

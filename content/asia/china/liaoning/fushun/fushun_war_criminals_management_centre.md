@@ -9,6 +9,7 @@ latitude: 41.8839
 longitude: 123.9014
 story: >
   Emperor Puyi arrived at this facility in 1950 as prisoner number 981. After nine years of "thought reform" — daily study sessions, self-criticism, and agricultural labour — he was released in 1959 and spent his remaining years as an ordinary citizen working in a botanical garden. His autobiography, written with considerable candour about his collaboration with the Japanese occupation, became one of the most revealing accounts of the Qing Dynasty's final generation.
+score: 8.0
 ---
 
 The Fushun War Criminals Management Centre held Emperor Puyi, the last Qing emperor, along with Japanese war criminals and Nationalist officers after the Communist victory in 1949. The facility operated as a re-education centre until 1975 and is now a museum that traces the unusual trajectory of its most famous resident with considerable directness.

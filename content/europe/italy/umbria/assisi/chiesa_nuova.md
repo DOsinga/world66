@@ -7,6 +7,7 @@ tags:
   - church
 latitude: 43.0704
 longitude: 12.6153
+score: 6.4
 ---
 
 Built in 1615 on what is believed to be the site of St. Francis's family home, the Chiesa Nuova is a small domed church just off the Piazza del Comune. The "new" in its name reflects its position as a 17th-century building among the medieval churches; otherwise it is very much in the tradition of Counter-Reformation Italian church-building.

@@ -9,6 +9,7 @@ tags:
 - mala_strana
 title: Kampa Island
 type: poi
+score: 7.4
 ---
 
 Kampa Island is separated from the mainland of Malá Strana by the Čertovka canal — a narrow mill stream the width of a small river. The island is largely parkland, with long views upriver to Charles Bridge from the waterfront meadow. It is one of the most peaceful spots in central Prague, especially early morning before the river walks get crowded.

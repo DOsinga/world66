@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - library
 - cultural_site
+score: 7.7
 ---
 
 The Nanjing Library is the third-largest library in China, with over 10 million items. It occupies a modern complex near Xinjiekou and is open to the public with a reader's card (available at the front desk). The collection spans Chinese literature, history, and culture, with strong holdings in rare books and local history materials relating to Nanjing and Jiangsu.

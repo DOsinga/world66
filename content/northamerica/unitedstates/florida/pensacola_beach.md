@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pensacola_Beach,_United_St
 latitude: 30.334235
 loc_type: city
 longitude: -87.135098
-score: 0.54
+score: 7.84
+snippet: Florida barrier-island beach community with white quartz sand and protected
+  Gulf Islands National Seashore stretches.
 title: Pensacola Beach
 type: location
 ---

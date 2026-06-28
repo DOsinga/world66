@@ -14,6 +14,7 @@ story: >
   tower on an Arcachon hillside is one of his earliest surviving works.
 sources:
   - https://en.wikipedia.org/wiki/Arcachon
+score: 7.3
 ---
 
 The Observatoire Sainte-Cécile stands at the western edge of the Ville d'Hiver, a thin iron tower that offers one of the best views in Arcachon over the bay and the town below. The tower is modest in scale compared to Eiffel's later works, but the engineering — slender wrought-iron legs spreading to a small viewing platform — already shows the approach that would characterise his more famous structures.

@@ -8,6 +8,7 @@ title: Hill Aerospace Museum
 type: poi
 story: >
   The SR-71 Blackbird on display here flew at altitudes above 85,000 feet and at speeds exceeding Mach 3.2 — fast enough to cross the continental United States in about 70 minutes. It was built in the 1960s from titanium because no aluminium alloy could withstand the aerodynamic heat generated at those speeds. The airframe was so stressed by thermal expansion that it was actually designed to leak fuel while sitting on the ground.
+score: 7.8
 ---
 
 Located at Hill Air Force Base south of Ogden near Roy, this free museum has one of the best collections of American military aircraft in the country. Two enormous hangars showcase over 90 aircraft, from canvas-covered World War I biplanes to the SR-71 Blackbird, the fastest air-breathing aircraft ever built. The Cold War collection is particularly strong: a full lineup of the "century series" fighters (F-100, F-101, F-102, F-104, F-105, F-106) in various states of preservation fills one hangar.

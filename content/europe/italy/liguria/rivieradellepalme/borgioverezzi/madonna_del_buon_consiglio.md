@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1655
 longitude: 8.3080
+score: 6.8
 ---
 
 Perched above Borgio on the slope that connects the coastal town to the hilltop hamlets, the Santuario della Madonna del Buon Consiglio is a 12th-century Romanesque shrine that retains fragments of medieval frescoes inside its walls. The Gothic bell tower is the most visible landmark in the lower part of the municipality and a useful orientation point when walking between the coast and Verezzi.

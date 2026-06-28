@@ -8,6 +8,7 @@ latitude: 35.1719
 longitude: 33.3615
 sources:
   - https://en.wikipedia.org/wiki/Shacolas_Tower
+score: 6.5
 ---
 
 The Shacolas Tower is the tallest building in Nicosia's old city, a 1990s high-rise whose upper floors house a small museum and a rooftop observation deck with a panoramic view of the divided city. From here, the line of the Green Line (UN buffer zone) is clearly visible as a strip of abandoned buildings cutting across the urban fabric — a geography that is almost impossible to read at street level becomes instantly legible from above.

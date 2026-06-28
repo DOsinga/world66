@@ -8,6 +8,7 @@ title: Niš Fortress
 type: poi
 story: >
   The fortress was built by the Ottomans in the early 18th century on the site of earlier Roman and Byzantine fortifications. When the Austrians briefly occupied Niš in 1689, they blew up the old structure. The Ottomans rebuilt it between 1719 and 1723, and it's this version that stands today — one of the best-preserved Ottoman fortresses in Serbia.
+score: 8.1
 ---
 
 The Niš Fortress sits on the right bank of the Nišava river, a short walk from the central square, and it's the most pleasant place in the city to spend a sunny hour. The walls are thick enough to stroll along, the gates are intact, and inside the complex you'll find a mix of Ottoman-era structures, a small archaeology museum, and a large open park where locals jog and walk their dogs.

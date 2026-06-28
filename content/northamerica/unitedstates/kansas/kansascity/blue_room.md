@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.0989
 longitude: -94.5522
+score: 7.8
 ---
 
 The Blue Room is the jazz club attached to the American Jazz Museum on 18th and Vine, and it's the most historically grounded live music venue in Kansas City. The room is modelled on the original jazz clubs of the 1930s, and the programming focuses on jazz and blues played by local musicians. Weekend performances are the main draw.

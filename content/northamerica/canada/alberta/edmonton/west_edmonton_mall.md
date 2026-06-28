@@ -15,6 +15,7 @@ story: >
   800 stores. It is, by any measure, a monument to excess.
 sources:
   - https://en.wikipedia.org/wiki/West_Edmonton_Mall
+score: 6.9
 ---
 
 West Edmonton Mall is not just a shopping centre — it is an experience that needs to be understood on its own terms. Covering more than 490,000 square metres, it houses over 800 shops, more than 100 restaurants, a full amusement park, a water park, a casino, a hotel, a skating rink, and a replica of Columbus's Santa Maria floating in an indoor lagoon.

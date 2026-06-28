@@ -12,6 +12,7 @@ address: Avenida de Mayo 825, Microcentro
 url: cafetortoni.com.ar
 story: >
   Jorge Luis Borges was a regular at the Tortoni for decades. So were the tango singer Carlos Gardel, the artist Quinquela Martín, and virtually every significant Argentine cultural figure of the 20th century. The back room hosts tango shows several nights a week — more tourist-oriented than the performances at milongas, but in a setting of genuine historical weight.
+score: 8.6
 ---
 
 The oldest café in Buenos Aires, opened in 1858, and still one of the most atmospheric. The interior is intact 19th-century: ornate plasterwork, bronze fixtures, marble tables, and wood-panelled booths where Argentine presidents and poets have sat since the place opened. A national historic monument.

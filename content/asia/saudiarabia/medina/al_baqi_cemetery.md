@@ -13,6 +13,7 @@ story: >
   the graves of the Prophet's family and companions. The destruction caused profound grief in the
   Shia world and remains a source of theological controversy. Where ornate domed mausoleums
   once stood, there are now only simple flat markers.
+score: 8.9
 ---
 
 Jannat al-Baqi — the Garden of Baqi — is the oldest Islamic cemetery in existence, lying immediately east of the Prophet's Mosque. Muslims have been buried here since the earliest years of Islam, and the list of those interred is remarkable: members of Muhammad's family including his wife Khadijah's grave in Mecca and his daughter Fatimah al-Zahra here, many of his companions, and generations of Islamic scholars who lived and taught in Medina.

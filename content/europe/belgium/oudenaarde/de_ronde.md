@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 50.8435
 longitude: 3.6042
+score: 5.4
 ---
 
 Any café on the Markt in Oudenaarde serves as a de facto cycling bar during the Tour of Flanders weekend, but in the weeks around the race the whole square takes on a particular atmosphere. The local Liefmans beers — oud bruin on tap, Goudenband from the bottle — are available everywhere, and the conversation at any table is likely to involve cobblestones, gradients, and who is riding well this season.

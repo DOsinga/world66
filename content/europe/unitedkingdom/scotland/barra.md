@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Approaching_Castlebay_-_ge
 latitude: 57.001775
 loc_type: city
 longitude: -7.469685
-score: 0.52
+score: 8.09
+snippet: Outer Hebrides island with Kisimul Castle, Atlantic beaches, and a tidal
+  beach airport runway.
 tags:
 - things_to_do
 title: Barra

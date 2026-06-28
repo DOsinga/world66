@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8950
 longitude: 125.1333
+score: 6.8
 ---
 
 Longshou Mountain — Dragon Head Mountain — rises at the edge of the city centre and offers a straightforward climb with views over the Dongliao River valley and the urban spread below. The mountain is not large by the standards of the region, but it is accessible without transport and provides welcome elevation for anyone who wants a physical anchor to their visit.

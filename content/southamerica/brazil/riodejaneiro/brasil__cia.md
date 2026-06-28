@@ -5,10 +5,12 @@ done:
 latitude: -22.9839
 longitude: -43.2033
 phone: +55 (21) 2267-4603
+score: 5.0
 snippet: Carefully curated Brazilian crafts and folk art shop in Ipanema
 tags:
 - shopping
 - shop
+- ipanema
 title: Brasil & Cia
 type: poi
 url: www.brasilecia.com.br

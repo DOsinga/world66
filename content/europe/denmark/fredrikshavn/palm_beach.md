@@ -8,6 +8,7 @@ tags:
   - beaches
   - sight
 story: "Palm Beach took its name from a stunt: in 2004 the municipality planted around 70 imported palm trees along the strand, partly as a joke about the local weather and partly as a serious marketing gesture for the resort town. Most of the original palms have been replaced over the years, but the planted line has remained, making Palm Beach the only stretch of palm trees on the Danish North Sea coast."
+score: 6.3
 ---
 
 Palm Beach is the main bathing beach for Frederikshavn, a long sweep of fine white sand stretching north of the town centre toward the suburb of Bangsbostrand. It is shallow, family-friendly, and lifeguarded in summer. The Kattegat here is colder than the North Sea further south, but on a sunny July day the water is perfectly swimmable.

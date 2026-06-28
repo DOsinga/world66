@@ -12,6 +12,7 @@ story: >
   During the Civil War, Fort Zachary Taylor remained in Union hands despite Florida's secession — one of only four Southern forts that did. The Union garrison used the fort to blockade Confederate shipping throughout the war, a strategically significant role that historians credit with helping prevent European recognition of the Confederacy. Twelve thousand Confederate artillery shells discovered in the 1960s are now displayed inside.
 sources:
   - https://en.wikipedia.org/wiki/Fort_Zachary_Taylor
+score: 8.6
 ---
 
 Fort Zachary Taylor is a mid-19th-century masonry fort at the island's western tip, now part of a state park that includes Key West's best beach. The fort itself is substantial and partly preserved; guided tours run daily and explain its Civil War history. The beach attached to the park is where most locals swim — cleaner water than Smathers, with Australian pines providing shade and decent snorkeling directly off shore.

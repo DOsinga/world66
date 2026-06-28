@@ -12,6 +12,7 @@ story: >
   victims from among those sheltering inside. Thousands were killed on the
   church grounds. The priest was later convicted of crimes against humanity
   by the International Criminal Tribunal for Rwanda.
+score: 6.8
 ---
 
 Sainte-Famille (Holy Family Church) is an active Catholic church in Muhima, downtown Kigali, and one of the genocide's most painfully documented sites. The building itself is unremarkable, but its history during April and May 1994 is devastating — a place of supposed sanctuary that became a killing ground. Visiting gives a different kind of understanding than the Genocide Memorial: a specific location where individual betrayal played out at scale.

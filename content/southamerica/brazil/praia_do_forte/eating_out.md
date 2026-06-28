@@ -1,8 +1,9 @@
 ---
 address: Kasato – al. do Linguado, s/n; cep 48280-000
 phone: 71-3676-0174
+score: 3.9
 title: Eating Out
-type: poi
+type: section
 url: www.kasato.com.br
 ---
 

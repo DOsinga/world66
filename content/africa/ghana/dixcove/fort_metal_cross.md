@@ -9,6 +9,7 @@ story: The fort was built by the English Royal African Company in 1691 and chang
   hands repeatedly between English, Dutch, and African forces over the following
   two centuries. The triangular mark cut into the gateway lintel is the company's
   cross — and the source of the fort's odd modern name.
+score: 8.4
 ---
 
 The white-washed fort sits on the rocky headland above the harbour, the largest building in Dixcove and visible from almost everywhere in the village. It was built by the English in 1691 as part of the network of forts and trading posts along the Gold Coast, used first for the gold trade and later as a transit point for enslaved people sent across the Atlantic.

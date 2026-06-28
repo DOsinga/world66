@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 31.135
 longitude: -81.393
+score: 5.2
 ---
 
 The island's small craft brewery occupies a courtyard space in the village, with picnic tables outside and an unhurried atmosphere. A rotating handful of beers — usually a coastal-style lager, a hazy IPA, and a porter or stout — are made on site. The blackboard tells you what's pouring this week.

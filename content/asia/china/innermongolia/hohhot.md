@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Hohhot_202
 latitude: 40.8151
 loc_type: city
 longitude: 111.6623
+score: 7.11
+snippet: Inner Mongolia's capital, where Mongolian, Hui, and Han cultures meet around
+  temples and grassland gateways.
 sources:
 - https://en.wikivoyage.org/wiki/Hohhot
 title: Hohhot

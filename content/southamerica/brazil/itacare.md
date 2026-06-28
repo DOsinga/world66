@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Itacar%C3%A9,_Brazil_(5134
 latitude: -14.2781
 loc_type: city
 longitude: -38.9961
+score: 8.26
+snippet: Bahian surf town where cacao-coast beaches are divided by Atlantic Forest
+  headlands.
 sources:
 - https://en.wikipedia.org/wiki/Itacar%C3%A9
 title: Itacaré

@@ -13,6 +13,7 @@ story: >
   modern India, reproduced on every rupee coin and government document.
 sources:
   - https://en.wikipedia.org/wiki/Sarnath
+score: 8.8
 ---
 
 Sarnath, 10 km northeast of central Varanasi, is one of the four most sacred sites in Buddhism. The Gautama Buddha came here after his enlightenment at Bodh Gaya and delivered his first sermon in the Deer Park — a teaching that set the doctrine of Buddhism in motion. The site remained a major Buddhist centre until it was sacked and largely destroyed in the 12th century.

@@ -13,6 +13,7 @@ tags:
   - sight
 title: Tharaba Gate
 type: poi
+score: 6.6
 ---
 
 The Tharaba Gate is the only surviving remnant of the old city wall that once enclosed the heart of Bagan. It dates from the 9th century and is built from brick, flanked by two guardian shrines containing the Min Mahagiri nat spirits — protective deities who, by tradition, were installed here when the city was founded.

@@ -2,6 +2,13 @@
 address: Aju day Sam Geori
 done:
   location_cleanup: '2026-04-10'
+latitude: 37.279
+longitude: 127.043
+score: 3.8
+tags:
+- bars_and_cafes
+- bar
+- ajou_university
 title: Janbeers
 type: poi
 ---

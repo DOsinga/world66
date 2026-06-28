@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 39.4811
 longitude: -86.1302
+score: 6.1
 ---
 
 The blocks around the courthouse square hold a concentration of antique and vintage dealers that draw shoppers from across southern Indiana and the Indianapolis suburbs. The mix runs from serious American furniture and glassware dealers to more casual resellers, and the prices tend to be noticeably lower than comparable shops in Indianapolis.

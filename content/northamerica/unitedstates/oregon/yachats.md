@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-11'
 image: yachats.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Yachats,_OR_-_looking_toward_Cape_Perpetua_01.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Joe Mabel
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Yachats,_OR_-_looking_toward_Cape_Perpetua_01.jpg
 latitude: 44.312756
 loc_type: city
 longitude: -124.104999
-score: 0.49
+score: 7.75
+snippet: Tiny Oregon Coast town between surf and forested headlands, with tidepools
+  at the edge of town
 title: Yachats
 type: location
 ---

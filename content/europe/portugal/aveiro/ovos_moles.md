@@ -13,6 +13,7 @@ story: >
   used large quantities of egg whites to starch their habits, leaving a surplus of egg yolks — which they combined
   with sugar and wrapped in wafers to give to sailors heading to sea. The sweet is a Protected Geographical Indication
   under EU law, meaning only producers in the Aveiro region can call it ovos moles de Aveiro.
+score: 7.4
 ---
 
 Ovos moles — "soft eggs" — are Aveiro's signature food and one of the most distinctive sweets in Portugal. The filling is a thick paste of egg yolks and sugar, cooked to a consistency that is halfway between custard and marzipan. It comes wrapped in thin wafer shells pressed into the shape of fish, seashells, barrels, and other nautical motifs, a reference to the city's maritime past.

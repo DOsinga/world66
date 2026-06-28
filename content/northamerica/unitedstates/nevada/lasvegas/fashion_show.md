@@ -5,10 +5,12 @@ done:
 latitude: 36.127228
 longitude: -115.1718
 phone: 702-784-7000
+score: 4.2
 snippet: Strip mega-mall with six department stores and 250 shops
 tags:
 - shopping
 - restaurant
+- the_strip
 title: Fashion Show Mall
 type: poi
 url: www.thefashionshow.com

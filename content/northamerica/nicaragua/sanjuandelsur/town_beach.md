@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 11.2530
 longitude: -85.8720
+score: 7.2
 ---
 
 The main town beach curves around the bay directly in front of San Juan del Sur's waterfront strip. It is a classic Central American crescent: coarse dark sand, calm water, fishing boats anchored in the middle of the bay, and a row of restaurants and bars at the back. The swimming is sheltered and safe — the bay blocks the open-Pacific swell so even children can paddle here comfortably.

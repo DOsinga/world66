@@ -12,6 +12,7 @@ story: >
   The ornate Baroque facades of Daxi's old street were added during the Japanese colonial period (1895–1945), when property owners were encouraged — sometimes required — to add Western-style decorative fronts to their buildings. Behind these European-looking facades are entirely traditional Taiwanese courtyard homes. The result is an architectural illusion unique to Taiwan's colonial history.
 sources:
   - https://en.wikipedia.org/wiki/Daxi_District
+score: 8.0
 ---
 
 Daxi Old Street (大溪老街) is the best-preserved example of Japanese colonial Baroque architecture in the Taoyuan area. The two main streets, Heping Road and Zhongshan Road, are lined with elaborately decorated shophouse facades — arched colonnades, floral relief work, and Chinese decorative motifs mixed into the Western Baroque vocabulary. The buildings date mostly from the 1910s and 1920s.

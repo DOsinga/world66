@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Parihaka_te_Maunga.jpg
 latitude: -35.727527
 loc_type: city
 longitude: 174.31942
-score: 0.51
+score: 7.61
+snippet: Northland port city at a long harbour, with waterfalls, galleries, and Whangārei
+  Heads nearby
 title: Whangarei
 type: location
 ---

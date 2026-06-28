@@ -13,6 +13,7 @@ story: >
   the sultanate. An earthquake toppled it in 1867, and the Dutch rebuilt it in 1889 as a squat European-style
   column just 15 meters high. The redesign was widely read as a deliberate colonial slight, diminishing the
   sacred marker that anchored Javanese royal authority.
+score: 6.7
 ---
 
 The Tugu is the white cylindrical pillar with a pointed top that marks the northern end of Yogyakarta's ceremonial axis — the invisible line running from Merapi through the Kraton to Parangtritis Beach on the Indian Ocean. This axis is one of the defining ideas of Javanese cosmology, and Hamengkubuwono I built the original monument in 1755, the year he founded Yogyakarta, to mark the line's northern boundary.

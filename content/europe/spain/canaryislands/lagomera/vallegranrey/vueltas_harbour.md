@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.0852
 longitude: -17.3401
+score: 7.2
 ---
 
 The fishing harbour of Vueltas is the working heart of the Valle Gran Rey community. In the mornings, the small fleet returns with the night's catch — vieja, cherne, sama, and various smaller species — and the fish is sold directly from the boats or at the simple fish stalls beside the quay. It is a modest operation, nothing like the big commercial ports of Tenerife, and the scale gives it an immediacy that larger fishing ports lack.

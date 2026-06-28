@@ -5,6 +5,7 @@ latitude: 54.687595
 longitude: 25.29046
 snippet: Flamboyant Gothic masterpiece Napoleon allegedly wanted to steal
 tags: [things_to_do, sight, church]
+score: 9.1
 ---
 
 The most celebrated Gothic church in Lithuania, and one of the finest in northern Europe. It is small — leading into the presbytery of the adjacent Church of the Bernardines — but its elaborately ornamented facade is extraordinary. Thirty-three types of profiled bricks rise skyward and curve into decorative motifs that look more like lacework than masonry.

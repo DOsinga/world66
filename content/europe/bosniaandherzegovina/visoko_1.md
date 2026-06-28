@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:VisokoPolje.jpg
 latitude: 43.9886
 loc_type: city
 longitude: 18.1781
-score: 0.41
+score: 6.81
+snippet: Bosnian valley town below Visoki fortress, known for medieval royal history
+  and pyramid claims
 title: Visoko
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.8003
 longitude: 2.1358
+score: 6.8
 ---
 
 The Musée Lambinet occupies an elegant mid-18th-century mansion in the town of Versailles, about 15 minutes' walk from the palace. It is the local history museum of Versailles as a town — not the palace, but the community that grew up to serve it. The building itself, with its original panelling and staircases, is a considerable pleasure.

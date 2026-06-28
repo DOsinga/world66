@@ -1,200 +1,200 @@
 {
   "round": 376,
-  "timestamp": "2026-04-12T09:14:10",
+  "timestamp": "2026-06-13T19:32:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Barcelona",
-      "path": "europe/spain/catalonia/barcelona",
-      "prior_mu": 31.6787,
-      "prior_sigma": 6.4963,
-      "prior_n": 2
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -8.2237,
+      "prior_variance": 1.670186,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Visby",
-      "path": "europe/sweden/visby",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -2.2815,
+      "prior_variance": 1.616473,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Swahili Coast",
-      "path": "africa/tanzania/swahilicoast",
-      "prior_mu": 23.1368,
-      "prior_sigma": 5.4709,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -5.7135,
+      "prior_variance": 1.458588,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Tunisia",
-      "path": "africa/tunisia",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -5.3652,
+      "prior_variance": 3.3517,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Brisbane",
-      "path": "australiaandpacific/australia/queensland/brisbane",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -9.3691,
+      "prior_variance": 2.066833,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Nevada",
-      "path": "northamerica/unitedstates/nevada",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -7.7214,
+      "prior_variance": 1.914251,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Long Beach",
-      "path": "northamerica/unitedstates/california/long_beach",
-      "prior_mu": 22.9013,
-      "prior_sigma": 5.7257,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -2.893,
+      "prior_variance": 1.989193,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "The Norfolk Broads",
-      "path": "europe/unitedkingdom/norfolk/the_norfolk_broads",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -9.4303,
+      "prior_variance": 2.273472,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Vitoria-Gasteiz",
-      "path": "europe/spain/basque_country_eus/vitoria",
-      "prior_mu": 22.6465,
-      "prior_sigma": 5.9392,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -10.7184,
+      "prior_variance": 2.377246,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Brandenburg",
-      "path": "europe/germany/brandenburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -12.2384,
+      "prior_variance": 8.329569,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Spotorno",
-      "path": "europe/italy/liguria/spotorno",
-      "prior_mu": 21.604,
-      "prior_sigma": 3.0532,
-      "prior_n": 4
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -9.7232,
+      "prior_variance": 2.50504,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Bellaria",
-      "path": "europe/italy/emiliaromagna/bellaria",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -10.7917,
+      "prior_variance": 2.339925,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Czestochowa",
-      "path": "europe/poland/czestochowa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -4.5451,
+      "prior_variance": 2.151972,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Skaneateles",
-      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -4.4607,
+      "prior_variance": 1.672895,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Richmond",
-      "path": "australiaandpacific/australia/tasmania/richmond",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -9.3104,
+      "prior_variance": 2.48067,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Tucuman",
-      "path": "southamerica/argentina/tucuman",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_score": -9.1138,
+      "prior_variance": 2.068791,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Homosassa",
-      "path": "northamerica/unitedstates/florida/homosassa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -11.3238,
+      "prior_variance": 3.306604,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Ulan Ude",
-      "path": "europe/russia/ulan_ude",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -13.392,
+      "prior_variance": 7.582177,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Zagouhan",
-      "path": "africa/tunisia/zagouhan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -14.2187,
+      "prior_variance": 3.045215,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Kpalim\u00e9",
-      "path": "africa/togo/kpalime",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -6.8024,
+      "prior_variance": 1.717623,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Keelung",
-      "path": "asia/taiwan/keelung",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_score": -13.2786,
+      "prior_variance": 2.692789,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Grand Forks",
-      "path": "northamerica/canada/britishcolumbia/grandforks",
-      "prior_mu": 18.0615,
-      "prior_sigma": 3.3201,
-      "prior_n": 4
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -9.1298,
+      "prior_variance": 1.614938,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Libreville",
-      "path": "africa/gabon/libreville",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -12.8468,
+      "prior_variance": 7.547669,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "BuBRrsLK",
-      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -9.2799,
+      "prior_variance": 3.81477,
+      "prior_n": 1
     }
   ]
 }

@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-21'
 latitude: 41.2598
 loc_type: city
+snippet: Small Ogden Valley town ringed by mountains, ski resorts, Pineview Reservoir,
+  and Trappist history.
 longitude: -111.7691
-score: 0.33
+score: 6.42
 title: Huntsville
 type: location
 ---

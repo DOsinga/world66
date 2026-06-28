@@ -10,6 +10,7 @@ longitude: -66.0581
 snippet: Loyalist-era public square at the heart of uptown Saint John
 story: >
   King's Square was laid out in 1785 in a deliberate Union Jack pattern — the pathways from corner to corner and side to side trace the lines of the British flag when viewed from above. This was a loyalty declaration in landscape form, made by a community that had literally walked away from the American republic to remain British subjects. The pattern is still legible today if you climb to the upper floors of a surrounding building.
+score: 7.3
 ---
 
 King's Square is the central public space of uptown Saint John, a tree-lined green square surrounded by Victorian commercial buildings, churches, and civic architecture. It has been the civic heart of the city since the Loyalist founding in 1785, and it shows: the square has a bandstand, war memorials, benches, and mature trees that make it a pleasant place to sit.

@@ -7,6 +7,7 @@ snippet: 5,000 hectares of Cerrado vegetation on the south shore of Lake Parano�
 tags:
 - things_to_do
 - park
+score: 6.8
 ---
 
 A botanical garden focused almost entirely on the *Cerrado* — the dry savannah biome that surrounds Brasília and covers a fifth of Brazil. Trails wind through 4 km² of native vegetation: gnarled trees with thick fire-resistant bark, orchids, palms, and bromeliads. The visitor centre has a small museum on Cerrado flora and fauna and a Japanese garden.

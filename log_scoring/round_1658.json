@@ -1,200 +1,200 @@
 {
   "round": 1658,
-  "timestamp": "2026-04-13T10:39:42",
+  "timestamp": "2026-06-13T20:44:23",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Manila",
-      "path": "asia/philippines/manila",
-      "prior_score": -1.9068,
-      "prior_variance": 0.32457,
-      "prior_n": 4
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 5.1102,
+      "prior_variance": 0.316339,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Newfoundland",
-      "path": "northamerica/canada/newfoundland",
-      "prior_score": 3.9043,
-      "prior_variance": 0.298373,
-      "prior_n": 4
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 4.9019,
+      "prior_variance": 0.310854,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Port Royal",
-      "path": "northamerica/jamaica/portroyal",
-      "prior_score": -0.2432,
-      "prior_variance": 0.458115,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 6.6447,
+      "prior_variance": 0.38256,
       "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Banjul",
-      "path": "africa/gambia/banjul",
-      "prior_score": -1.9872,
-      "prior_variance": 0.315017,
-      "prior_n": 4
+      "title": "Fujian Tulou",
+      "path": "asia/china/fujianprovince/tulou",
+      "prior_score": 3.7855,
+      "prior_variance": 0.276926,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Bukittinggi",
-      "path": "asia/indonesia/sumatra/bukittinggi",
-      "prior_score": 1.2065,
-      "prior_variance": 0.334439,
-      "prior_n": 4
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.3132,
+      "prior_variance": 0.296363,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Darmstadt",
-      "path": "europe/germany/hesse/darmstadt",
-      "prior_score": -0.0646,
-      "prior_variance": 0.315959,
-      "prior_n": 4
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.9084,
+      "prior_variance": 0.34267,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Chandigarh",
-      "path": "asia/india/punjab/chandigarh",
-      "prior_score": 0.3007,
-      "prior_variance": 0.297129,
-      "prior_n": 4
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.5789,
+      "prior_variance": 0.302039,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Albacete",
-      "path": "europe/spain/la_mancha/albacete",
-      "prior_score": -1.7898,
-      "prior_variance": 0.343963,
-      "prior_n": 4
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.5557,
+      "prior_variance": 0.293574,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Beja",
-      "path": "europe/portugal/beja",
-      "prior_score": -1.4461,
-      "prior_variance": 0.364127,
-      "prior_n": 4
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.38,
+      "prior_variance": 0.307429,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Kavieng",
-      "path": "asia/papuanewguinea/newireland/kavieng",
-      "prior_score": -2.3735,
-      "prior_variance": 0.305856,
-      "prior_n": 4
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": -0.1478,
+      "prior_variance": 0.386205,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Guaratuba",
-      "path": "southamerica/brazil/guratuba",
-      "prior_score": -1.6951,
-      "prior_variance": 0.368737,
-      "prior_n": 4
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -4.6377,
+      "prior_variance": 0.503112,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Coche Island",
-      "path": "southamerica/venezuela/coche_island",
-      "prior_score": -1.5668,
-      "prior_variance": 0.365247,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.285,
+      "prior_variance": 0.254695,
       "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Vila Real",
-      "path": "europe/portugal/algarve/vilareal",
-      "prior_score": -0.8785,
-      "prior_variance": 0.308242,
-      "prior_n": 4
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": 0.3877,
+      "prior_variance": 0.246183,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Bowen",
-      "path": "australiaandpacific/australia/newsouthwales/bowen",
-      "prior_score": -2.4501,
-      "prior_variance": 0.352858,
-      "prior_n": 4
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 0.8573,
+      "prior_variance": 0.266255,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Xai-Xai",
-      "path": "africa/mozambique/xaixai",
-      "prior_score": -4.3893,
-      "prior_variance": 0.529676,
-      "prior_n": 4
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": 0.0263,
+      "prior_variance": 0.259409,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Carunchio",
-      "path": "europe/italy/abruzzo/carunchio",
-      "prior_score": -2.5272,
-      "prior_variance": 0.350481,
-      "prior_n": 4
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -2.8545,
+      "prior_variance": 0.37801,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Trabuco Canyon",
-      "path": "northamerica/unitedstates/california/orangecounty/trabucocanyon",
-      "prior_score": -2.925,
-      "prior_variance": 0.364629,
-      "prior_n": 4
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -2.3074,
+      "prior_variance": 0.315211,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Montgomery",
-      "path": "northamerica/unitedstates/alabama/montgomery",
-      "prior_score": -2.4355,
-      "prior_variance": 0.376823,
-      "prior_n": 4
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_score": -1.2177,
+      "prior_variance": 0.24292,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Zuni",
-      "path": "northamerica/unitedstates/newmexico/zuni",
-      "prior_score": -1.4849,
-      "prior_variance": 0.303381,
-      "prior_n": 4
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.6418,
+      "prior_variance": 0.28624,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Norman",
-      "path": "northamerica/unitedstates/oklahoma/norman",
-      "prior_score": -3.8362,
-      "prior_variance": 0.445044,
-      "prior_n": 4
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_score": -4.035,
+      "prior_variance": 0.318363,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "BAYAMON",
-      "path": "northamerica/puertorico/bayamon_1",
-      "prior_score": -3.0503,
-      "prior_variance": 0.318645,
-      "prior_n": 4
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -5.2292,
+      "prior_variance": 0.365106,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Villa Florida",
-      "path": "southamerica/paraguay/villaflorida",
-      "prior_score": -5.4097,
-      "prior_variance": 0.406209,
-      "prior_n": 4
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -4.8451,
+      "prior_variance": 0.331443,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Nukufetau Atoll",
-      "path": "australiaandpacific/tuvalu/nukufetauatoll",
-      "prior_score": -3.6261,
-      "prior_variance": 0.51455,
-      "prior_n": 4
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -7.6494,
+      "prior_variance": 0.309788,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Hanksville",
-      "path": "northamerica/unitedstates/utah/hanksville",
-      "prior_score": -3.4896,
-      "prior_variance": 0.415788,
-      "prior_n": 4
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -8.6432,
+      "prior_variance": 0.405097,
+      "prior_n": 5
     }
   ]
 }

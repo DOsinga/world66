@@ -11,6 +11,7 @@ story: >
   The Khon Phapheng Falls were the reason French colonial engineers never completed their grand project of a navigable Mekong route from Saigon to Yunnan. The falls — a series of massive rapids and cataracts dropping over a rocky ledge — were simply impassable. The French built a narrow-gauge railway around them from Don Khone to Ban Khon as a workaround, but the great trans-Indochina transport dream ended here.
 sources:
   - https://en.wikipedia.org/wiki/Khone_Falls
+score: 8.7
 ---
 
 Khon Phapheng Falls on the eastern branch of the Mekong near Don Khone is the most powerful waterfall in Southeast Asia by volume — not the most dramatic by height, but the sheer tonnage of water pouring over the rocky ledge is overwhelming. The falls extend across a wide stretch of the river, with the water fragmented into multiple channels by rocky outcrops.

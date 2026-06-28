@@ -1,200 +1,200 @@
 {
   "round": 352,
-  "timestamp": "2026-04-12T09:13:00",
+  "timestamp": "2026-06-13T19:31:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Stonehenge",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 6.1987,
+      "prior_variance": 2.511184,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Honshu",
-      "path": "asia/japan/honshu",
-      "prior_mu": 25.0949,
-      "prior_sigma": 3.0099,
-      "prior_n": 6
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 0.9927,
+      "prior_variance": 2.05848,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Polonnaruwa",
-      "path": "asia/srilanka/polannaruwa",
-      "prior_mu": 21.9436,
-      "prior_sigma": 4.7511,
-      "prior_n": 2
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": -3.1901,
+      "prior_variance": 1.682796,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Mecca",
-      "path": "asia/saudiarabia/mecca",
-      "prior_mu": 21.9433,
-      "prior_sigma": 5.6759,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": -2.9781,
+      "prior_variance": 1.738389,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Maramures Land",
-      "path": "europe/romania/transylvania/maramures_land",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -1.819,
+      "prior_variance": 1.453596,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Lake Turkana",
-      "path": "africa/kenya/lakes/laketurkana",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -2.3694,
+      "prior_variance": 1.873906,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "\u00d3bidos",
-      "path": "europe/portugal/obidos",
-      "prior_mu": 22.8991,
-      "prior_sigma": 5.9716,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -6.4758,
+      "prior_variance": 2.392052,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Marina di Campo",
-      "path": "europe/italy/tuscany/elba/marinadicampo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.2261,
+      "prior_variance": 1.710774,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Forte dei Marmi",
-      "path": "europe/italy/tuscany/forte_dei_marmi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": 0.8047,
+      "prior_variance": 1.867124,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Morgins",
-      "path": "europe/switzerland/morgins",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -3.9653,
+      "prior_variance": 1.546462,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Negev",
-      "path": "asia/israel/negev",
-      "prior_mu": 22.6493,
-      "prior_sigma": 5.9396,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_llavaneres",
+      "prior_score": -5.3037,
+      "prior_variance": 1.633522,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Recco",
-      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -8.9781,
+      "prior_variance": 3.897129,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Exeter",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_score": -2.0935,
+      "prior_variance": 1.553566,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Nijmegen",
-      "path": "europe/netherlands/nijmegen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -0.7061,
+      "prior_variance": 1.712989,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Schleswig",
-      "path": "europe/germany/schleswigholstein/schleswig",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -2.0332,
+      "prior_variance": 1.637043,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Regina",
-      "path": "northamerica/canada/saskatchewan/regina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -6.3819,
+      "prior_variance": 2.130277,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "New Bedford",
-      "path": "northamerica/unitedstates/massachusetts/newbedford",
-      "prior_mu": 22.5443,
-      "prior_sigma": 5.9139,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -8.5271,
+      "prior_variance": 2.677645,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Fermoy",
-      "path": "europe/ireland/fermoy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -8.3595,
+      "prior_variance": 2.148448,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "McKinney",
-      "path": "northamerica/unitedstates/texas/mckinney",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Handan",
+      "path": "asia/china/hebei/handan",
+      "prior_score": -9.0826,
+      "prior_variance": 2.071541,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Iroquois Falls",
-      "path": "northamerica/canada/ontario/iroquoisfalls",
-      "prior_mu": 22.2742,
-      "prior_sigma": 5.7836,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -4.7889,
+      "prior_variance": 1.56512,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "LaGrange",
-      "path": "northamerica/unitedstates/indiana/lagrange",
-      "prior_mu": 21.6915,
-      "prior_sigma": 4.7973,
-      "prior_n": 2
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": -0.895,
+      "prior_variance": 1.447745,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Teaneck",
-      "path": "northamerica/unitedstates/newjersey/teaneck",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -9.9895,
+      "prior_variance": 9.76091,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Crawfordville, Georgia",
-      "path": "northamerica/unitedstates/georgia/crawfordville_geo",
-      "prior_mu": 22.682,
-      "prior_sigma": 5.9448,
+      "title": "Guazhou",
+      "path": "asia/china/gansu/guazhou",
+      "prior_score": -10.3307,
+      "prior_variance": 1.955589,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Ponca",
-      "path": "northamerica/unitedstates/nebraska/ponca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -8.8135,
+      "prior_variance": 2.09883,
+      "prior_n": 1
     }
   ]
 }

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.9
 ---
 
 The lakeside promenade runs from the harbour along the edge of Lake Constance, with the Festspielhaus at one end and the Mehrerau Abbey direction at the other. It is the social spine of Bregenz: in summer the lakeside fills with swimmers, cyclists, and people eating ice cream; in winter the empty promenade and the vast grey lake have their own austere appeal.

@@ -7,6 +7,7 @@ tags:
   - devonport
 latitude: -36.831
 longitude: 174.795
+score: 6.9
 ---
 
 The main street of Devonport village has a compact but reliable selection of cafes and restaurants. The setting — Victorian shopfronts, a slow pace, the sea a block away in either direction — makes eating here more enjoyable than anywhere the food alone would justify. Most places are unpretentious and aimed squarely at the local clientele and day-tripping Aucklanders who come over on the Devonport ferry.

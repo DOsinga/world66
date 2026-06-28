@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Be One
 type: poi
+score: 5.9
 ---
 
 Korean barbecue on Portage Avenue. The experience centres on tableside cooking — a gas burner arrives with marinated beef, and the idea is to wrap pieces in lettuce leaves with kimchee, bean sprout salad, and other sides. Staff are welcoming and patient with first-timers. Reasonably priced for the experience.

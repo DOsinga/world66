@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 0.8450
 longitude: -79.8740
+score: 6.6
 ---
 
 The Atacames river meets the sea at the eastern end of the main beach, and the estuary — a tangle of mangrove roots and shallow channels accessible by small boat — is worth a couple of hours if you have any interest in birds or mangrove ecosystems. Herons, egrets, kingfishers, and wading shorebirds work the edges of the channels. In the rainy season (December to May) the estuary fills with water and the birdlife is most active.

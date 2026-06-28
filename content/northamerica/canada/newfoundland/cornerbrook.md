@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Autumn_in_Corner_Brook_(J)
 latitude: 48.95317
 loc_type: city
 longitude: -57.947388
-score: 0.42
+score: 6.95
+snippet: Industrial Newfoundland city on the Bay of Islands, backed by Long Range
+  Mountains and Cook-surveyed waters
 title: Corner Brook
 type: location
 ---

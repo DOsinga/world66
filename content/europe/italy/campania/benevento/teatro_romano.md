@@ -6,6 +6,7 @@ tags:
 - sight
 title: Roman Theatre
 type: poi
+score: 7.8
 ---
 
 Benevento's Roman theatre was built under Hadrian in the 2nd century AD and could seat around 10,000 spectators. Unlike many Roman theatres that survive as scattered ruins, this one preserves substantial sections of its original seating tiers (cavea), carved into the hillside and still largely intact after two millennia. At the top of the cavea, modern walkways allow you to look down over the curved seating and out across the city toward the Apennines.

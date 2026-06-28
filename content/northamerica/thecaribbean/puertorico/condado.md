@@ -7,7 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Juan,_Condado_beach,_P
 latitude: 18.4559
 loc_type: city
 longitude: -66.071
-score: 0.57
+score: 8.1
+snippet: San Juan beachfront neighbourhood of high-rise hotels, Ashford Avenue restaurants,
+  and Atlantic surf.
 title: Condado
 type: location
 ---

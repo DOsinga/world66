@@ -9,6 +9,7 @@ latitude: 49.6986
 longitude: 4.9489
 sources:
   - https://en.wikipedia.org/wiki/Sedan_Synagogue
+score: 7.0
 ---
 
 Sedan's former synagogue is a handsome 1878 building in Romanesque and Byzantine Revival styles, designed by architect Alfred Mazuel. It was built for the town's growing Jewish community — predominantly Ashkenazi textile workers who had settled here in the 19th century, when Sedan's cloth industry was at its height.

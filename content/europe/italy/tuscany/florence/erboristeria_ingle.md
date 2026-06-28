@@ -1,12 +1,14 @@
 ---
+address: Via Tornabuoni 19, 50123 Florence
+latitude: 43.771
+longitude: 11.249
+score: 5.8
+tags:
+- shopping
+- shop
+- santa_maria_novella_quarter
 title: Officina dei Tornabuoni
 type: poi
-tags:
-  - shopping
-  - shop
-latitude: 43.7710
-longitude: 11.2490
-address: Via Tornabuoni 19, 50123 Florence
 url: www.officinadetornabuoni.com
 ---
 

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3266_Stavanger_-_Norweg
 latitude: 58.969968
 loc_type: city
 longitude: 5.73181
-score: 0.61
+score: 8.59
+snippet: Southern Norwegian oil city where white timber lanes overlook a modern North
+  Sea energy capital.
 title: Stavanger
 type: location
 ---

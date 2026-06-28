@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Portoferra
 latitude: 42.8141
 loc_type: city
 longitude: 10.331
-score: 0.65
+score: 8.62
+snippet: Elba's fortified harbour capital, ringed by Medici ramparts and stepped old-town
+  lanes above the ferry port.
 title: Portoferraio
 type: location
 ---

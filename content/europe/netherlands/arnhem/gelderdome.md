@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 51.9628
 longitude: 5.8928
+score: 5.5
 ---
 
 GelreDome is the home stadium of Vitesse Arnhem, the city's Eredivisie football club, and one of the most technically innovative stadiums in the Netherlands. Built in 1998, it was among the first stadiums in the world to have a retractable roof and a sliding pitch — the grass field rolls out of the stadium on tracks to get natural sunlight between matches, then rolls back inside for game day.

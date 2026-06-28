@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "City museum housed in a 1180 Romanesque cloister"
+score: 7.8
 ---
 
 The municipal museum, housed in the surviving 12th-century cloister of the Andreasstift — itself

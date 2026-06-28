@@ -4,6 +4,7 @@ type: poi
 latitude: -8.067155
 longitude: -34.879125
 tags: [things_to_do, sight, church, santo_antonio]
+score: 7.3
 ---
 
 Often called simply the Co-Cathedral of Recife, this 18th-century church sits behind a small plaza of restored colonial townhouses in the São José district. The facade is a textbook example of Brazilian baroque — twin towers, curved pediment, and a richly carved stone portal.

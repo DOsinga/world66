@@ -1,0 +1,200 @@
+{
+  "round": 2956,
+  "timestamp": "2026-06-13T22:18:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 8.0357,
+      "prior_variance": 0.201409,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 4.6502,
+      "prior_variance": 0.147448,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 4.5964,
+      "prior_variance": 0.170118,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 3.4982,
+      "prior_variance": 0.166408,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 3.7523,
+      "prior_variance": 0.156127,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 4.7673,
+      "prior_variance": 0.161368,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 6.6583,
+      "prior_variance": 0.203682,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.7272,
+      "prior_variance": 0.144278,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 4.9044,
+      "prior_variance": 0.144861,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate",
+      "prior_score": 3.3693,
+      "prior_variance": 0.139641,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 1.7941,
+      "prior_variance": 0.16293,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 3.9714,
+      "prior_variance": 0.171227,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 2.0482,
+      "prior_variance": 0.174358,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_score": 3.5001,
+      "prior_variance": 0.14999,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 3.2839,
+      "prior_variance": 0.176151,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 1.1123,
+      "prior_variance": 0.120067,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 1.7286,
+      "prior_variance": 0.154845,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 2.8456,
+      "prior_variance": 0.159404,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.1867,
+      "prior_variance": 0.150786,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 2.4276,
+      "prior_variance": 0.179006,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 0.4831,
+      "prior_variance": 0.124182,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.3935,
+      "prior_variance": 0.166526,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.7544,
+      "prior_variance": 0.17974,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.6325,
+      "prior_variance": 0.229173,
+      "prior_n": 9
+    }
+  ]
+}

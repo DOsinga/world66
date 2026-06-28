@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Tshopo Falls
 type: poi
+score: 7.2
 ---
 
 A series of small falls on the Tshopo River, a tributary of the Congo that joins the main river just upstream of Kisangani. The falls drive the small hydroelectric station that supplies (intermittent) power to the city, and the surrounding area has been a popular Sunday afternoon excursion for Kisangani residents for generations.

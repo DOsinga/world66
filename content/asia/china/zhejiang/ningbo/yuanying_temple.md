@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8700
 longitude: 121.5500
+score: 6.8
 ---
 
 Yuanying Temple in central Ningbo is a city-centre Buddhist temple that serves as the main active worship site for Ningbo's urban Buddhist community, distinct from the more architecturally prestigious outlying temples. The temple's scale is modest and its buildings are mostly Qing-era reconstructions, but it maintains a full programme of daily services, festival celebrations, and lay Buddhist activities that give it a lived-in quality rare in Chinese temples that have been heavily developed for tourism.

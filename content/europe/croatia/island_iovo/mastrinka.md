@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.5119
 longitude: 16.2869
+score: 6.5
 ---
 
 Mastrinka is a small fishing village on the northern coast of Čiovo, facing the passage toward Trogir. It is calmer than Okrug Gornji and attracts fewer package tourists, which makes it one of the better places on the island to get a sense of everyday Dalmatian life: boats tied up along the waterfront, nets drying in the sun, a handful of locals sitting outside in the evening.

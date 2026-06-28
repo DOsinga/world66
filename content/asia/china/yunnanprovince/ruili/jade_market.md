@@ -13,6 +13,7 @@ story: >
   the absence of internal fractures. A single stone might be worth a factory worker's annual
   salary or be almost worthless; only experience tells the difference. Watching serious buyers
   at work is a quietly fascinating spectacle even if you have no intention of buying.
+score: 8.3
 ---
 
 Ruili's jade market is not one place but a concentration of streets and trading halls where jade and jadeite — ranging from uncut rough stones to finished jewellery — are bought and sold in quantities that dwarf any other jade market in China. The Jiegao area, a Special Economic Zone on the border with Myanmar, has the highest concentration of wholesale dealers. The city centre streets around Nan Mao and the Treasure Street have more retail options aimed at tourists, though "tourist" here means Chinese domestic buyers rather than foreigners, and the prices reflect genuine commercial stakes.

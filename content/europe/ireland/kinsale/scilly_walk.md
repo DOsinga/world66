@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.7000
 longitude: -8.5000
+score: 8.3
 ---
 
 The Scilly Walk is the best free thing to do in Kinsale: a 6-kilometre round trip along the water's edge from the town quay to Charles Fort, passing through the village of Scilly (pronounced "skilly") with its colourful houses, a working boatyard, and continuous views across the harbour. The path is flat and well-maintained, suitable for all abilities.

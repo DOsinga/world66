@@ -6,6 +6,7 @@ longitude: 85.8966
 tags:
   - things_to_do
   - architecture
+score: 8.2
 ---
 
 Ravenshaw began as a college in 1868 and is one of the oldest institutions of higher learning in eastern India. The main building is a long red-brick block in the Indo-Saracenic manner, set back from the road behind lawns and old trees, and is the finest piece of colonial architecture in Cuttack.

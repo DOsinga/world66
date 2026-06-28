@@ -4,12 +4,10 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.013611
 longitude: 28.954167
+score: 8.8
 snippet: Istanbul's historic European side, from Sultanahmet to Beyoglu
 tags:
 - things_to_do
-- mosque
-- sight
-- balat
 title: European Part
 type: poi
 ---

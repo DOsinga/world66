@@ -9,6 +9,7 @@ tags:
 - archaeology
 title: Green Mound
 type: poi
+score: 7.9
 ---
 
 Just inland from the lighthouse at Ponce Inlet, Green Mound is one of the largest pre-Columbian shell middens left in North America: a 30-foot-high mound built up over more than two thousand years by the Timucua people from the discarded shells of oysters, clams, and conches. It is several hundred feet across and was once even larger before nineteenth-century shell-road builders quarried it for paving material.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Waitomo_Cave_Entrance_n.jp
 latitude: -38.2611
 loc_type: city
 longitude: 175.1103
-score: 0.65
+score: 8.97
+snippet: Rural Waikato cave area famed for limestone systems and glowworm-lit underground
+  boat rides.
 title: Waitomo
 type: location
 ---

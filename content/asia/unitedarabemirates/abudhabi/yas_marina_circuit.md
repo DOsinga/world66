@@ -10,6 +10,7 @@ neighbourhood: Yas Island
 latitude: 24.4672
 longitude: 54.6031
 story: "The Abu Dhabi Grand Prix is the only Formula 1 race scheduled to start in daylight and finish under floodlights. The Yas Hotel that arcs across the main straight changes colour through the race in synchronised lighting."
+score: 7.4
 ---
 
 The Hermann Tilke-designed Formula 1 circuit that hosts the season-closing Abu Dhabi Grand Prix every November. The 5.3 km track loops around a marina and under the curved roof of the Yas Hotel, lit at night for the final phase of the race.

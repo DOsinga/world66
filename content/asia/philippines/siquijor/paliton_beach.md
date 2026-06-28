@@ -12,6 +12,7 @@ story: >
   shore is reliably possible on dark nights — the mangrove trees at the creek mouth
   fill with synchronised blinking lights visible from the sand. No boat required;
   just wait until after dark.
+score: 7.9
 ---
 
 Paliton Beach, on the northwest coast of Siquijor near San Juan, is widely considered the most beautiful beach on the island — a sweep of white sand lined with ancient acacia trees that provide natural shade, with calm, clear water good for swimming. The beach is broader and more natural than many Philippine resort beaches, and the trees give it a character that palm-fringed strips often lack.

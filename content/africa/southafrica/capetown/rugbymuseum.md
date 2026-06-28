@@ -1,10 +1,9 @@
 ---
 address: Boundary Road, Newlands
-category: Museum
 latitude: -33.971331
 longitude: 18.466182
-neighbourhood: Newlands
 phone: ++27 (0)21 686 4532
+score: 6.2
 scores:
   activities: 0.5922
   museum: 0.7517
@@ -13,6 +12,7 @@ snippet: Large rugby museum in Newlands tracing the history of South African rug
 tags:
 - things_to_do
 - museum
+- newlands
 title: South African Rugby Museum
 type: poi
 ---

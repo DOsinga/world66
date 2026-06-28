@@ -10,6 +10,7 @@ tags:
 title: Baguio Cathedral
 type: poi
 url: baguiocathedral.org
+score: 7.3
 ---
 
 The Baguio Cathedral — officially Our Lady of the Atonement — stands on a hilltop at the top of Session Road, reached by a long staircase that climbs from the street. The cream-and-pink twin spires, modeled vaguely on Rouen Cathedral, are the city's most recognisable landmark and appear on every souvenir mug in the public market.

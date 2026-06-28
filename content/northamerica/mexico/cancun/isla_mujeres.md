@@ -7,6 +7,7 @@ tags:
 - day_trips
 title: Isla Mujeres
 type: poi
+score: 8.5
 ---
 
 A small island 13 km off Cancun, 8 km long and a few hundred metres wide. The vibe is the opposite of the Hotel Zone — slow, low-rise, more Mexican, mostly without cars (golf carts and scooters do the work). The northern tip has the best beach — **Playa Norte**, white sand and shallow turquoise water sheltered by the lagoon. The southern tip has **Punta Sur**, a small Mayan temple to the goddess Ixchel on the cliffs above where the sun first hits Mexico each day.

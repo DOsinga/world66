@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ooty_lake.jpg
 latitude: 11.412677
 loc_type: city
 longitude: 76.70305
-score: 0.57
+score: 8.04
+snippet: Nilgiri hill station in Tamil Nadu, known for cool air, colonial gardens,
+  and the mountain railway.
 title: Ooty
 type: location
 ---

@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.3685
 longitude: 2.1484
+score: 7.3
 snippet: Open-air architectural museum built for the 1929 Exposition
 tags:
 - things_to_do
 - sights
+- montjuic
 title: Poble Espanyol
 type: poi
 ---

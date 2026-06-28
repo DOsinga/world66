@@ -1,21 +1,23 @@
 ---
-latitude: 46.825039
-longitude: 103.849974
-title: Mongolia
-type: location
-image: mongolia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg
-image_license: Public domain
-image_attribution: Corporal Brandon Rodriguez
-quick_facts:
-  Population: "3.4 million"
-  Best Season: "Jun–Sep (harsh winters reach -40°C)"
-  Horses per Capita: "13 horses per 10 people"
-  Land Area: "4× the size of Germany, 99% empty"
 done:
   country_cleanup: 2026-03-29
-score: 0.58
+image: mongolia.jpg
+image_attribution: Corporal Brandon Rodriguez
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:USMC-100903-M-1294R-001.jpg
+latitude: 46.825039
 loc_type: country
+longitude: 103.849974
+quick_facts:
+  Best Season: Jun–Sep (harsh winters reach -40°C)
+  Horses per Capita: 13 horses per 10 people
+  Land Area: 4× the size of Germany, 99% empty
+  Population: 3.4 million
+score: 0.71
+snippet: Vast steppe country of nomadic herders, empty grasslands, and the long shadow
+  of Genghis Khan
+title: Mongolia
+type: location
 ---
 
 Mongolia is one of the last places on earth where the land still feels genuinely empty. Twice the size of France but with fewer people than Sydney, it is a country of vast grasslands, crumbling desert and bone-white mountains — and a culture shaped entirely by the demands of that landscape.
@@ -35,6 +37,7 @@ Mongolia is not an easy destination. Infrastructure outside the capital is minim
 - [Lake Khovsgol](/asia/mongolia/lakekhovsgol) — vast alpine lake near the Russian border
 - [Terelj](/asia/mongolia/terelj) — dramatic granite landscape an hour from the capital
 - [Gobi Desert](/asia/mongolia/gobidesert) — flaming cliffs, sand dunes, dinosaur fossils
+- [Sainshand](/asia/mongolia/sainshand) — Gobi railway town and base for Hamriin Hiid
 - [Arkhangai](/asia/mongolia/arkhangai) — central highlands, volcanic lakes, good horse trekking
 - [Khentii](/asia/mongolia/khentii) — birthplace of Genghis Khan, wild eastern steppe
 - [Darkhan](/asia/mongolia/darkhan) — Mongolia's second city, industrial but useful

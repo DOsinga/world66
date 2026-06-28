@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Traditional palace of the Alake, paramount ruler of the Egba
+score: 7.3
 ---
 
 The Ake Palace is the traditional residence of the Alake of Egbaland, the paramount ruler of the Egba people who make up most of Abeokuta's population. The current palace is a low compound of red-painted stucco buildings around a central courtyard, parts dating to the late 19th century, with a colonial Victorian touch superimposed on the underlying Yoruba royal architecture. The Alake remains an important figure in Yoruba traditional politics and Nigerian public life.

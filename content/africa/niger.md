@@ -1,22 +1,22 @@
 ---
-title: Niger
-type: location
-latitude: 17.735621
-longitude: 9.323843
-image: niger.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Niamey_from_the_sky.jpg
-image_license: CC BY 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jeanot" title="User:Jeanot">Jean
-  Rebiffé</a>
-quick_facts:
-  Population: "27 million"
-  Language: French (official)
-  Sahara Coverage: "80% of territory"
-  Median Age: "15 years"
 done:
   country_cleanup: 2026-03-29
-score: 0.29
+image: niger.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jeanot" title="User:Jeanot">Jean Rebiffé</a>
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Niamey_from_the_sky.jpg
+latitude: 17.735621
 loc_type: country
+longitude: 9.323843
+quick_facts:
+  Language: French (official)
+  Median Age: 15 years
+  Population: 27 million
+  Sahara Coverage: 80% of territory
+score: 0.28
+snippet: Sahelian country at the Sahara's southern edge, shaped by desert routes, Hausa towns, and French rule.
+title: Niger
+type: location
 ---
 
 Niger is a landlocked country in the heart of Africa, at the south end of the Sahara. It borders on [Chad](/africa/chad), [Nigeria](/africa/nigeria), [Algeria](/africa/algeria), [Burkina Faso](/africa/burkinafaso), [Libya](/africa/libya), [Benin](/africa/benin) and [Mali](/africa/mali). Most people of Niger are muslims, although there are quite some differences in their practice depending on the region where they are from. People of Arab descent tend to be a bit stricter than the Haussa from the south.However, these differences seem to be slowly disappearing.

@@ -1,0 +1,200 @@
+{
+  "round": 3002,
+  "timestamp": "2026-06-13T22:22:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 3.9223,
+      "prior_variance": 0.167353,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 1.9547,
+      "prior_variance": 0.149925,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 0.4543,
+      "prior_variance": 0.152733,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.3539,
+      "prior_variance": 0.122669,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 1.2622,
+      "prior_variance": 0.15251,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.6572,
+      "prior_variance": 0.169163,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -1.2395,
+      "prior_variance": 0.136564,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Bo'ao",
+      "path": "asia/china/hainanisland/boao",
+      "prior_score": -1.7943,
+      "prior_variance": 0.149231,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.7656,
+      "prior_variance": 0.12869,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.0601,
+      "prior_variance": 0.140189,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": -1.1237,
+      "prior_variance": 0.166952,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": -3.1722,
+      "prior_variance": 0.160603,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.9329,
+      "prior_variance": 0.1374,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -2.5112,
+      "prior_variance": 0.137721,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -5.459,
+      "prior_variance": 0.19717,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Espa\u00f1ola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -4.9779,
+      "prior_variance": 0.152993,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -5.2303,
+      "prior_variance": 0.168134,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.2579,
+      "prior_variance": 0.143574,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -4.6826,
+      "prior_variance": 0.14262,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -5.8529,
+      "prior_variance": 0.175781,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Huaibei",
+      "path": "asia/china/anhui/huaibei",
+      "prior_score": -5.4927,
+      "prior_variance": 0.164808,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Linyi",
+      "path": "asia/china/shandong_province/linyi",
+      "prior_score": -5.7266,
+      "prior_variance": 0.201294,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -8.4533,
+      "prior_variance": 0.277613,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -9.8892,
+      "prior_variance": 0.413871,
+      "prior_n": 9
+    }
+  ]
+}

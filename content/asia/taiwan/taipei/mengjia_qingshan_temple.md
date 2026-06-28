@@ -2,10 +2,12 @@
 address: 218 Guiyang Street Sec 2, Wanhua District, Taipei
 latitude: 25.0364
 longitude: 121.5024
+score: 7.8
 snippet: 1854 Taoist temple in Wanhua, one of the oldest in the city
 tags:
 - things_to_do
 - sight
+- wanhua
 title: Mengjia Qingshan Temple
 type: poi
 ---

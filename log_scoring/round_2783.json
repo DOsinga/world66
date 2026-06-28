@@ -1,0 +1,200 @@
+{
+  "round": 2783,
+  "timestamp": "2026-06-13T22:07:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -6.2942,
+      "prior_variance": 0.280133,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -5.554,
+      "prior_variance": 0.186953,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -5.5767,
+      "prior_variance": 0.208283,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -5.9269,
+      "prior_variance": 0.206327,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -5.4565,
+      "prior_variance": 0.160995,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.9885,
+      "prior_variance": 0.191995,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -5.9395,
+      "prior_variance": 0.207493,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -6.1683,
+      "prior_variance": 0.191145,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -5.9096,
+      "prior_variance": 0.196158,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -5.3414,
+      "prior_variance": 0.166041,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.3788,
+      "prior_variance": 0.200984,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -5.8031,
+      "prior_variance": 0.164959,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -4.9293,
+      "prior_variance": 0.170736,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -6.964,
+      "prior_variance": 0.242584,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -9.0286,
+      "prior_variance": 0.297724,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Mirebalais",
+      "path": "northamerica/thecaribbean/haiti/mirebalais",
+      "prior_score": -7.8285,
+      "prior_variance": 0.229662,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.1751,
+      "prior_variance": 0.207164,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -7.1011,
+      "prior_variance": 0.196575,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -6.7546,
+      "prior_variance": 0.21116,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -7.6726,
+      "prior_variance": 0.253304,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.7052,
+      "prior_variance": 0.371461,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -7.553,
+      "prior_variance": 0.27323,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Berb\u00e9rati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -9.9714,
+      "prior_variance": 0.322119,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -9.6642,
+      "prior_variance": 0.437516,
+      "prior_n": 9
+    }
+  ]
+}

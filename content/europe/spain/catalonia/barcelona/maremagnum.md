@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.375143
 longitude: 2.182835
+score: 5.5
 snippet: Waterfront shopping mall at the end of Port Vell
 tags:
 - shopping
+- barceloneta
 title: Maremagnum
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Fuling Tomb (East Tomb)
 type: poi
+score: 8.5
 ---
 
 Fuling is the mausoleum of Nurhaci, the founder of the Manchu state who began construction of Shenyang's imperial palace in 1625. He died in 1626 before seeing his project completed, and the tomb was built by his son. The complex lies about 11 kilometres east of central Shenyang, set against a forested hillside in a way that contrasts with the urban setting of Zhaoling.

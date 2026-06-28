@@ -5,13 +5,13 @@ done:
 latitude: 37.7689
 longitude: -122.4526
 phone: (415) 831-1200
+score: 7.6
 snippet: Massive independent record store in a converted bowling alley
 tags:
 - shopping
 - shop
 - haight_ashbury
 - things_to_do
-neighbourhood: Haight-Ashbury
 title: Amoeba Music
 type: poi
 url: www.amoebamusic.com

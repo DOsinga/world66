@@ -15,6 +15,7 @@ tags:
   - sight
 title: Almonaster la Real Mosque
 type: poi
+score: 8.8
 ---
 
 The mosque stands on a hilltop above the village, reached by a path from the main square that winds up through terraced gardens. It is a small building — five aisles, horseshoe arches on reused Roman columns — but it is among the best-preserved Moorish mosques in Spain outside of Córdoba. The mihrab (prayer niche) faces Mecca, the original minaret is still intact, and the courtyard has a fountain for ritual ablutions. The scale is intimate rather than monumental, which makes it easier to imagine as a working building.

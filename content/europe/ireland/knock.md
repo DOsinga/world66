@@ -1,6 +1,11 @@
 ---
+latitude: 53.7903
+loc_type: city
+longitude: -8.9171
+score: 5.5
+snippet: Irish pilgrimage town centred on the Marian shrine at Knock.
 title: Sights in Knock
-type: poi
+type: location
 ---
 
 Sights in Knock around Ireland's National Marian Shrine.

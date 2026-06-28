@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:La_cit%C3%A9_des_Batamarib
 latitude: 10.0833
 loc_type: city
 longitude: 1.1333
-score: 0.4
+score: 6.57
+snippet: Batammariba cultural landscape in northern Togo, known for fortified mud
+  takienta houses.
 sources:
 - https://en.wikipedia.org/wiki/Koutammakou
 - https://whc.unesco.org/en/list/1140/

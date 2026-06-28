@@ -9,6 +9,7 @@ latitude: 34.0106
 longitude: -95.5131
 story: >
   Hugo is one of only a handful of American towns that can claim multiple circus families as year-round residents. The Ring of Fame was created partly to acknowledge this unusual concentration of circus culture in rural Oklahoma — a reminder that the travelling circus, which once employed tens of thousands of Americans and visited nearly every town in the country, put down roots somewhere.
+score: 6.6
 ---
 
 The Circus Ring of Fame is a monument on the Hugo town square that honours the performers, owners, and workers who made this small Oklahoma city the unofficial winter capital of American circus culture. Bronze plaques recognise individuals who contributed significantly to the circus world, including figures from Carson & Barnes, Kelly Miller, and other circuses that traditionally wintered in southeast Oklahoma.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.2
 ---
 
 The town's mother church sits at the heart of the centro storico, a few minutes' walk downhill from the abbey. The current building is largely 16th-century, replacing an older medieval church on the same site, and it is dedicated jointly to Saints Peter and Paul — patrons whose feast day in late June is one of the town's quieter celebrations.

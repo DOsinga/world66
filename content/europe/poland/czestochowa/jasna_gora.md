@@ -17,6 +17,7 @@ story: >
   for Polish schoolchildren for over a century. The siege didn't actually end
   the Swedish invasion, but it did shift the war's momentum and gave Poles
   a story of miraculous resistance that they have drawn on ever since.
+score: 9.4
 ---
 
 Jasna Góra — Luminous Mountain — is Poland's most important pilgrimage site and one of the most visited religious destinations in the world. The Pauline monks established the monastery here in 1382, and it has been continuously occupied ever since. The fortified hilltop complex includes a basilica, a chapel housing the Black Madonna, a treasury, a library, a system of baroque bastions, and a bell tower visible from across the city.

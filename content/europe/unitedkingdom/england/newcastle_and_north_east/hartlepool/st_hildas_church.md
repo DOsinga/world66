@@ -8,6 +8,7 @@ tags:
 - religious
 - landmark
 snippet: "12th-century parish church on the Hartlepool Headland"
+score: 8.3
 ---
 
 St Hilda's stands on the high point of the Hartlepool Headland, the medieval core of the town that the Victorian new town of West Hartlepool eventually overtook in size. The current building dates from the 12th century, on the site of a 7th-century Saxon abbey founded by Hilda of Whitby before she moved to the more famous abbey to the south.

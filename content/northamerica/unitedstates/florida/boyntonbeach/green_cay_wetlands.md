@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 26.5053
 longitude: -80.1389
+score: 8.0
 ---
 
 A 100-acre constructed wetland on the western edge of Boynton Beach that has become one of the best birding spots in Palm Beach County. A 1.5-mile elevated boardwalk loops through open marsh and cattail beds — visitors walk at water level with herons, moorhens, anhingas, gallinules, and alligators just feet away. The lack of natural impediments between the boardwalk and the water makes this exceptional for photography.

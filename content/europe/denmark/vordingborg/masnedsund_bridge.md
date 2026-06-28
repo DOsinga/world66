@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.996667
 longitude: 11.889722
+score: 5.9
 ---
 
 The Masnedsund Bridge connects the southern tip of Zealand to the small island of Masnedø, and from it you get clear views across the Storstrøm strait — the body of water that Vordingborg Castle was originally built to control. The older Storstrøm Bridge, a slender railway structure from 1937 that runs parallel to the newer road crossing, is particularly photogenic.

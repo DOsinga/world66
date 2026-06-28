@@ -8,6 +8,7 @@ tags:
   - monastic_zone
 latitude: 27.4790
 longitude: 83.2718
+score: 7.1
 ---
 
 A large compound on the west (Mahayana) side of the Monastic Zone, built in classic Ming-dynasty style with red walls, swooping eaves, and a courtyard layout around a central hall. Completed in 2000 with funding from Chinese Buddhists in Singapore and Hong Kong.

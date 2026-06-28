@@ -8,6 +8,7 @@ latitude: 39.6394
 longitude: -106.3647
 sources:
   - https://en.wikipedia.org/wiki/Bravo!_Vail
+score: 7.3
 ---
 
 Bravo! Vail is an annual classical music festival held each June, bringing world-class orchestras and chamber ensembles to the mountains for a week of concerts. The outdoor performances in Gerald R. Ford Amphitheater, a covered pavilion in Ford Park at the east end of the village, draw audiences that spill out onto the grass in the summer evening air — with the Gore Range as a backdrop, it is a hard setting to beat.

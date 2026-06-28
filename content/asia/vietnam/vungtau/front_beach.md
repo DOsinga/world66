@@ -6,6 +6,7 @@ longitude: 107.0741
 tags:
   - things_to_do
   - beach
+score: 6.8
 ---
 
 Front Beach faces north-west across Ganh Rai bay and is the more sheltered, less swimmable of the two main Vung Tau beaches. The water is greyish and busy with fishing boats; people come here mainly to walk the promenade, eat at one of the seafood places along the road, and watch the sun set over the islands offshore.

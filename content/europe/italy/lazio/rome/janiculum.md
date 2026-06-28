@@ -5,11 +5,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.8924
 longitude: 12.4626
+score: 8.6
 snippet: Best panoramic view of Rome, with a daily noon cannon
 tags:
 - 48 Hours in Rome
 - things_to_do
 - viewpoint
+- trastevere
 title: Janiculum Hill
 type: poi
 ---

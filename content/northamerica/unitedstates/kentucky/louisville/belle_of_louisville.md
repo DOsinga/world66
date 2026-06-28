@@ -10,6 +10,7 @@ story: >
   The Belle of Louisville was built in 1914 as a ferry and workboat. She is the oldest operating Mississippi River-style steamboat in the world — a stern-wheel boat still powered by the original steam engine design. During the Belle of Louisville race against the Spirit of Jefferson on Derby Eve, the two steamboats compete for the right to fly the coveted golden antlers, a tradition since 1963.
 sources:
   - https://en.wikipedia.org/wiki/Belle_of_Louisville
+score: 7.7
 ---
 
 The Belle of Louisville is a 1914 steamboat that still operates on the Ohio River, making her the oldest working Mississippi River-style steamboat in the world. She runs public excursions from the downtown riverfront, including sightseeing cruises, dinner cruises, and the famous Derby Eve race against the Spirit of Jefferson that has been a Louisville tradition since 1963.

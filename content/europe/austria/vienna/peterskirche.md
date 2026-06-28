@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - innere_stadt
+score: 7.8
 ---
 
 A baroque round church tucked into a small square just off the Graben, easily missed and worth the detour. The Peterskirche was rebuilt between 1701 and 1733 on what is believed to be the oldest Christian site in Vienna. Hildebrandt designed the oval plan; Andrea Pozzo painted the trompe-l'œil ceiling fresco; the sculptor Lorenzo Mattielli produced the dramatic statue of the Fall of John Nepomucene.

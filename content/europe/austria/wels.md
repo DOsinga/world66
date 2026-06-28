@@ -6,7 +6,9 @@ done:
 latitude: 48.156547
 loc_type: city
 longitude: 14.024375
-score: 0.47
+score: 6.89
+snippet: Working Upper Austrian city on the Traun, with Roman Ovilava traces beneath
+  its long Stadtplatz.
 sources:
 - https://en.wikipedia.org/wiki/Wels
 title: Wels

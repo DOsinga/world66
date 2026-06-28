@@ -1,21 +1,23 @@
 ---
-title: Poland
-type: location
-latitude: 52.215933
-longitude: 19.134422
-image: poland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:02860_Kraków,_zespół_Wzgórza_Wawelskiego.jpg
-image_license: CC BY-SA 3.0 pl
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Daniel.zolopa" title="User:Daniel.zolopa">Daniel.zolopa</a>
 done:
   country_cleanup: 2026-03-29
-quick_facts:
-  Population: "38 million"
-  Budget Meal: "~$5–7"
-  Wieliczka Salt Mine: Carved chapels 135 m underground
-  European Bison: Last wild herd in Białowieża Forest
-score: 0.55
+image: poland.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Daniel.zolopa" title="User:Daniel.zolopa">Daniel.zolopa</a>
+image_license: CC BY-SA 3.0 pl
+image_source: https://commons.wikimedia.org/wiki/File:02860_Kraków,_zespół_Wzgórza_Wawelskiego.jpg
+latitude: 52.215933
 loc_type: country
+longitude: 19.134422
+quick_facts:
+  Budget Meal: ~$5–7
+  European Bison: Last wild herd in Białowieża Forest
+  Population: 38 million
+  Wieliczka Salt Mine: Carved chapels 135 m underground
+score: 0.8
+snippet: Central European country with Baltic coast, Tatra mountains, rebuilt cities,
+  and layered historical landscapes.
+title: Poland
+type: location
 ---
 
 Poland is one of Europe's most underrated travel destinations — a large country with a rich, often painful history, remarkable cities, and landscapes that range from Baltic beaches to Tatra mountain peaks. It has been rebuilt, reinvented, and reopened to the world over the past few decades, and it rewards travelers who go beyond the obvious.

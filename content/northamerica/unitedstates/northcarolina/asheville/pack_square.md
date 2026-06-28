@@ -6,6 +6,7 @@ longitude: -82.5493
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 Pack Square is the central square of downtown Asheville and the natural starting point for a walk. It is named after George Willis Pack, a lumber baron who funded the original library here in the 1890s, and it has been the centre of civic life for more than a century. The art deco Asheville City Hall and the neighbouring Buncombe County Courthouse face each other across the eastern end of the park.

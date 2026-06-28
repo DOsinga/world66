@@ -6,6 +6,7 @@ tags:
   - sight
 title: Old Harbour
 type: poi
+score: 6.3
 ---
 
 Limassol's Old Harbour is the oldest part of the city's working waterfront, a short walk south from the medieval castle. Colourful fishing boats tie up here alongside smaller pleasure craft, and the area has several seafood restaurants and cafés that draw both locals and visitors for lunch by the water.

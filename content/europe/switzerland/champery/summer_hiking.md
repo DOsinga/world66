@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.183988888888884
 longitude: 6.834869444444444
+score: 8.2
 ---
 
 In summer, the Portes du Soleil becomes a mountain biking and hiking destination, with the lifts still running and the trails open. From the Planachaux plateau above Champéry, marked footpaths lead through alpine meadows, past isolated farms, and up into rocky terrain above the treeline. The circuit around the Croix de Culet and across toward Les Crosets is a popular half-day walk with sweeping views across the Illiez valley.

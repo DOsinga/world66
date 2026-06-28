@@ -8,6 +8,7 @@ latitude: 39.3460
 longitude: 22.9960
 snippet: "Historic narrow-gauge steam railway running through chestnut forest from Ano Lechonia to Milies"
 story: "The Pelion Railway was designed by Italian engineer Evaristo de Chirico — father of the Surrealist painter Giorgio de Chirico, who was born in Volos in 1888. The elder de Chirico spent years in Magnesia on railway projects, and his son grew up amid the trains and landscapes that would later appear, transformed and dreamlike, in his metaphysical paintings."
+score: 8.3
 ---
 
 The Pelion Railway is a narrow-gauge line built in 1903–04 to connect the mountain villages to the port of Volos. The line runs 28 kilometres from Ano Lechonia on the coast up through orchards and dense chestnut forest to the village of Milies, climbing from near sea level to 400 metres via a series of tight curves and bridges over mountain streams. The original steam locomotives were replaced by diesel, but the character of the line — slow, scenic, clinging to vertiginous hillsides — remains entirely intact.

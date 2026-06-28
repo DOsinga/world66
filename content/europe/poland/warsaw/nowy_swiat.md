@@ -1,12 +1,15 @@
 ---
-title: "Nowy Świat"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 52.2340
+latitude: 52.234
 longitude: 21.0183
-snippet: "Elegant shopping and cafe street continuing the Royal Route south from Krakowskie Przedmieście"
+score: 7.6
+snippet: Elegant shopping and cafe street continuing the Royal Route south from Krakowskie
+  Przedmieście
+tags:
+- things_to_do
+- srodmiescie_district
+- sight
+title: Nowy Świat
+type: poi
 ---
 
 Nowy Świat (New World) continues south from Krakowskie Przedmieście and is Warsaw's most pleasant shopping street — a pedestrianised-feeling boulevard lined with restored 19th-century tenements housing cafes, bookshops, and restaurants. In summer, outdoor tables fill the wide pavement and the street has the feel of a Parisian boulevard. In winter, Christmas lights and heated terraces keep it lively.

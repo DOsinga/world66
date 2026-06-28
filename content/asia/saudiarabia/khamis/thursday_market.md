@@ -13,6 +13,7 @@ story: >
   the most important trade gatherings in the Asir region, drawing mountain farmers,
   Yemeni traders, and bedouin from the surrounding valleys with livestock, honey,
   coffee, spices, and handicrafts.
+score: 8.1
 ---
 
 The Thursday market remains one of the most authentic traditional markets in Saudi Arabia. Unlike the souqs of Riyadh or Jeddah that have become largely tourist attractions, Khamis operates as a genuine commercial gathering where farmers from the surrounding mountains sell fresh produce alongside vendors of traditional Asiri goods.

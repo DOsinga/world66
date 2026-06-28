@@ -14,6 +14,7 @@ story: >
   with quiet local pride.
 sources:
   - https://en.wikipedia.org/wiki/Traunstein
+score: 7.0
 ---
 
 St. Oswald's stands at the eastern end of the Stadtplatz, its tower visible from much of the old town. The current building dates to a reconstruction completed in 1501, though the church's history on this site goes back further. The interior was remodelled in the Baroque style in the 18th century — ornate stucco, a painted ceiling, and side altars loaded with gilded carving, all quite typical of Bavarian Catholic devotion.

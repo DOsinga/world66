@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.9020
 longitude: 22.4310
+score: 6.8
 ---
 
 Lamia preserves a substantial stretch of its ancient defensive walls on the northern and western slopes of the castle hill. Built in the Hellenistic period, when Lamia was an important city of the Aenianes — the indigenous tribe of the Spercheios valley — and later a Macedonian garrison town, the walls are constructed in the careful polygonal masonry characteristic of the period. Some sections stand to nearly their full original height.

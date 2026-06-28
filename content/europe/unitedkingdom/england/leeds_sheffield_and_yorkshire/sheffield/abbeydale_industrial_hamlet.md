@@ -1,13 +1,14 @@
 ---
 address: Abbeydale Road South, Sheffield S7 2QW
 latitude: 53.3433
-loc_type: feature
 longitude: -1.5061
+score: 7.4
 snippet: Preserved 18th-century scythe works powered by the River Sheaf
 tags:
 - things_to_do
 - museum
 title: Abbeydale Industrial Hamlet
+type: poi
 ---
 
 A complete 18th-century industrial site preserved as a museum, on the southern edge of the city beside the River Sheaf. The works produced agricultural scythes and other edged tools from the 1750s to 1930, powered by water from the river driving the great hammer, the rolling mill, and the grinding wheels. The buildings, workers' cottages, manager's house, and the school were all part of one self-contained community.

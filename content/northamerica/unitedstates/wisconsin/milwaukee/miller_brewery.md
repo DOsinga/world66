@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Miller_Brewing_Company
 story: >
   Frederick Miller bought the Plank Road Brewery in 1855 with nothing more than a yeast culture he had carried from Bavaria. By the time of his death the brewery was one of the largest in Wisconsin. The lagering caves dug into the hillside below the brewery — used before mechanical refrigeration — survive intact beneath the modern complex and are the most atmospheric stop on the tour.
+score: 7.6
 ---
 
 The Miller Brewery in the Menomonee Valley is one of the largest breweries in the United States and has been a Milwaukee institution since Frederick Miller arrived from Bavaria in 1855. Free tours run several times a day and are among the better brewery tours in America: you get the full history, a walk through the working production facility, a visit to the original 19th-century lagering caves cut into the hillside, and a tasting session in the historic Caves building at the end.

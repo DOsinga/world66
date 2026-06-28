@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-w
 latitude: 54.902662
 loc_type: city
 longitude: 8.331149
-score: 0.53
+score: 7.97
+snippet: North Sea island of dunes, thatched villages, and beach culture shaped by
+  Hamburg wealth.
 title: Sylt
 type: location
 ---

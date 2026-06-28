@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_Residence_Margao.jpg
 latitude: 15.2726
 loc_type: city
 longitude: 73.9583
-score: 0.47
+score: 7.4
+snippet: South Goa commercial city with a covered market, Catholic quarter, and old
+  Portuguese mansions
 title: Margao
 type: location
 ---

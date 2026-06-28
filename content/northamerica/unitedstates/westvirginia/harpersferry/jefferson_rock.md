@@ -15,6 +15,7 @@ story: >
   exception — the view is extraordinary, but so are many views.
 sources:
   - https://en.wikipedia.org/wiki/Jefferson_Rock
+score: 7.6
 ---
 
 Jefferson Rock is a projecting shelf of Harpers phyllite near the top of the steps that climb from the lower town up to St. Peter's Church, with a sweeping view of the confluence of the Shenandoah and Potomac Rivers, the Maryland and Virginia ridges beyond, and the railway bridge below. Thomas Jefferson visited in 1783 and recorded his admiration in Notes on the State of Virginia.

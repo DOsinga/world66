@@ -6,6 +6,7 @@ tags:
 - museum
 title: Museo de Zaragoza
 type: poi
+score: 7.8
 ---
 
 The city's main archaeological and fine arts museum occupies a neoclassical building near the Plaza de los Sitios. The archaeological section covers the prehistoric, Iberian, and Roman periods with good collections of pottery, coins, and sculpture from excavations across Aragon; the highlight is the set of Roman mosaics from Bilbilis and other local sites. The fine arts section holds 16th–20th century Spanish painting, with several Goyas including the portraits of Ferdinand VII and preparatory sketches.

@@ -2,10 +2,13 @@
 address: Paseo del Prado, 36
 latitude: 40.41114
 longitude: -3.693568
-snippet: "Free cultural centre with a five-storey vertical garden"
+score: 7.3
+snippet: Free cultural centre with a five-storey vertical garden
 tags:
 - things_to_do
 - architecture
+- retiro
+- huertas
 title: CaixaForum and Vertical Garden
 type: poi
 ---

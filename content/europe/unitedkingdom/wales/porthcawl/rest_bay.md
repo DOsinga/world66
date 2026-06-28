@@ -10,6 +10,7 @@ latitude: 51.489
 longitude: -3.728
 snippet: "Wide, clean, west-facing surfing beach with a Blue Flag and a lifeboat-spotting view"
 story: "Rest Bay was where Wales held its first official surf competition in 1965 and the beach remains the home break of the Welsh Surfing Federation. The reliable south-westerly swell that funnels up the Bristol Channel makes the rocky points at either end of the bay genuinely consistent — rare on this stretch of coast."
+score: 8.4
 ---
 
 Rest Bay is the best of Porthcawl's three beaches — a wide, west-facing crescent of clean sand and reefs at the north end of town, with the Bristol Channel breaking onto rocky points at either end. It has held a Blue Flag for years and is the headquarters of the Welsh Surfing Federation; surf school lessons and board hire run from a permanent base above the beach.

@@ -12,6 +12,7 @@ story: >
   the "Two Jealous Mountains" — a reference to the legend that they were named
   after a man and woman condemned to death for a forbidden love. The names
   have outlasted the empire, the poets, and the language that first gave them.
+score: 7.0
 ---
 
 The Aja Mountains rise to the west of Ha'il, a dramatic wall of granite that catches the last light of afternoon and turns the colour of fire. They are part of the wider Hejaz escarpment and rise to more than 1,400 metres, offering hiking trails with views across the surrounding desert plains that few travellers ever see. The terrain is rocky and arid but not featureless — the mountains shelter sheltered wadis with scattered acacia trees and occasional springs.

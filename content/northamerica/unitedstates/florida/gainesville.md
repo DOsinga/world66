@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-04'
 latitude: 29.652
+loc_type: city
 longitude: -82.325
+score: 6.71
+snippet: North-central Florida college town shaped by the University of Florida and
+  nearby springs, museums, and wetlands
 title: Gainesville
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Gainesville is a college town in north-central Florida, home to the [University of Florida](/northamerica/unitedstates/florida/gainesville/university_of_florida) and shaped almost entirely by it. When school is in session the city buzzes with energy; when students leave, it goes noticeably quiet. For visitors, Gainesville offers a pleasant surprise — more culture and nature than you expect from inland Florida.

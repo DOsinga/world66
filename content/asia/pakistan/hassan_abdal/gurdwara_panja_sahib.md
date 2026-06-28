@@ -9,6 +9,7 @@ latitude: 33.82083
 longitude: 72.68972
 story: >
   The handprint (panja) of Guru Nanak is believed to be preserved in the stone here. According to tradition, the Guru stopped a boulder hurled at him by the Muslim saint Baba Wali Qandhari with his bare hand — and the imprint remained. The boulder itself sits outside the gurdwara to this day.
+score: 9.3
 ---
 
 Gurdwara Panja Sahib is one of the holiest Sikh shrines in the world, dedicated to Guru Nanak, the founder of Sikhism. The name means "sacred handprint of the master," referring to the miraculous event tradition says occurred here in the early sixteenth century.

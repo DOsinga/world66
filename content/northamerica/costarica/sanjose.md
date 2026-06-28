@@ -7,7 +7,9 @@ done:
 latitude: 9.9281
 loc_type: city
 longitude: -84.0907
-score: 0.49
+score: 7.61
+snippet: Central Valley capital of Costa Rica, with pre-Columbian museums, busy plazas,
+  and a mild highland climate.
 title: San José
 type: location
 ---

@@ -11,6 +11,7 @@ story: >
   river upstream and tried to sail it out to sea. He failed — the boat ran aground at the inlet's
   shifting bar — and the channel kept his name as a memorial to the misadventure. The bar is still
   treacherous; it has to be dredged constantly and changes shape after every nor'easter.
+score: 7.5
 ---
 
 Lockwood Folly Inlet marks the eastern end of Holden Beach, where the Lockwood Folly River meets the Atlantic. The shifting sand bars and braided channels make for excellent shelling, and the salt marshes inside the inlet are some of the best in the area for kayaking and bird-watching. Egrets, ibis, ospreys and the occasional brown pelican all show up here, and dolphins regularly work the inlet on a rising tide.

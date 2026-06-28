@@ -7,6 +7,7 @@ tags:
 snippet: Three-Michelin-star restaurant inside the Ritz-Carlton at the Autostadt
 latitude: 52.4322
 longitude: 10.7969
+score: 5.9
 ---
 
 Aqua, in the Ritz-Carlton hotel on the edge of the Autostadt, is one of the most decorated restaurants in Germany — chef Sven Elverfeld held three Michelin stars here for many years. The cooking is precise, modern German with strong Mediterranean influences; the dining room overlooks the artificial lagoon at the heart of the Volkswagen complex.

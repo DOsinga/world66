@@ -7,6 +7,7 @@ tags:
 - sight
 title: Feira Nacional de Agricultura
 type: poi
+score: 6.6
 ---
 
 The Feira Nacional de Agricultura — the National Agricultural Fair — is held in Santarém each June (dates vary) and is one of the largest agricultural fairs in Europe. The fair occupies a dedicated exhibition ground on the edge of the city and draws over 700,000 visitors over its ten-day run. Livestock competitions, agricultural machinery, regional food and wine producers, and folk performances fill the site.

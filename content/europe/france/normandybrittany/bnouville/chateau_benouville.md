@@ -13,6 +13,7 @@ story: Claude-Nicolas Ledoux designed the château in the 1770s for the Marquis 
 tags:
 - things_to_do
 - landmark
+score: 6.5
 ---
 
 A neoclassical château designed by Claude-Nicolas Ledoux in the 1770s, considered one of the finest examples of his work in Normandy. The building now functions as a maternity hospital — an oddly peaceful use for a place so close to the D-Day sites — but is open to visitors during temporary exhibitions and guided visits. The exterior and formal grounds are worth a look even when the interior is closed; the grand entrance façade and the small formal park give a good sense of Ledoux's austere but elegant style.

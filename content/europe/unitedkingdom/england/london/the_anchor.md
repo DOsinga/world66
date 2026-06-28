@@ -4,10 +4,12 @@ latitude: 51.506943
 longitude: -0.09252
 opening_hours: Mon–Sat 11am–11pm; Sun noon–10:30pm
 price_range: £5–7 pint
+score: 7.5
 snippet: Bankside pub opposite the Tate Modern, on the site of Shakespeare's brewery
 tags:
 - eating_out
 - restaurant
+- south_bank
 title: The Anchor Bankside
 type: poi
 ---

@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Guildford_MMB_08_Cathedral
 latitude: 51.235607
 loc_type: city
 longitude: -0.573206
-score: 0.48
+score: 7.26
 title: Guildford
 type: location
+snippet: Surrey town on the River Wey, with a steep cobbled High Street and gilded
+  Guildhall clock.
 ---
 
 Guildford is a handsome town on the River Wey in Surrey, about 30 minutes by train from London Waterloo. The steep cobbled [High Street](/europe/unitedkingdom/england/south_east/guildford/high_street), lined with shops and pubs and presided over by the gilded clock of the [Guildhall](/europe/unitedkingdom/england/south_east/guildford/guildhall), is one of the most attractive in the region.

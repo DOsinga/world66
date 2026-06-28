@@ -8,6 +8,7 @@ tags:
   - bastide_saint_louis
   - restaurant
 neighbourhood: Bastide Saint-Louis
+score: 5.7
 ---
 
 A solid Bastide bistro with menus from about 15 euros and a sensible à la carte. It is what an honest mid-range French restaurant should look like — chalkboard specials, regional standards, no marketing, and a busy local clientele at lunch.

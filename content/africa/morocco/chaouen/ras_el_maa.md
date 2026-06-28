@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1708
 longitude: -5.2619
+score: 7.6
 ---
 
 Ras el Maa — "head of the water" — is a spring at the top of the medina where a fast-running stream tumbles down from the Rif and flows through a small washhouse. Local women still do laundry here as they have for centuries, laying clothes to dry on the flat rocks downstream. It is one of the most photogenic corners of Chaouen and also, refreshingly, one of the least touristy.

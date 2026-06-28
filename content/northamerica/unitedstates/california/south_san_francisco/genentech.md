@@ -14,6 +14,7 @@ story: >
   technique at UC San Francisco. On 14 October 1980, Genentech went public
   in what was, at the time, one of the largest first-day share price increases in
   Wall Street history — going from $35 to $88 in less than an hour.
+score: 5.5
 ---
 
 Genentech's campus on the eastern waterfront of South San Francisco is the spiritual home of the modern biotech industry. The company was founded here in 1976 — the first firm to use recombinant DNA technology to produce human proteins — and its success attracted hundreds of other life-science companies to the area. The biotech corridor along East Grand Avenue is now one of the most valuable concentrations of pharmaceutical research in the world.

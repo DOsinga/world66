@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-30'
 latitude: 45.251701
+loc_type: city
 longitude: 11.13572
+score: 6.74
+snippet: Flat Veronese agricultural plain south of Verona, dotted with castles and
+  fortified medieval towns.
 title: Basso Veronese
 type: location
-score: 0.42
-loc_type: city
 ---
 
 The Basso Veronese is the flat agricultural plain south of [Verona](/europe/italy/veneto/verona), stretching between the Adige River and the Po. This is one of Italy's most productive farming zones — irrigated by a network of canals and ditches — but it is also rich in history, as the extraordinary number of castles and fortified towns demonstrates.

@@ -7,6 +7,7 @@ tags:
 latitude: 17.188
 longitude: -25.104
 snippet: "Tiny clifftop village along the coastal path, one of Santo Antão's most photographed views"
+score: 8.4
 ---
 
 A tiny village of about 80 people clinging to a ridge between two ravines a couple of kilometres west of Ponta do Sol. There are no roads in or out: you walk along the old coastal path, which winds up and around the cliffs with the Atlantic crashing below. The village itself is a handful of colour-washed houses, a small church, and terraced plots of corn and sugarcane held together by stone walls.

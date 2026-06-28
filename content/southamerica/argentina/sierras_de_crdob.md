@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: -31.986439
+loc_type: feature
 longitude: -64.93628
+score: 7.93
+snippet: Mountain region around Córdoba with lake towns, fresh air, and the UFO-famed
+  Cerro Uritorco.
 title: Sierras de Córdoba
 type: location
-score: 0.56
-loc_type: feature
 ---
 
 The mountains surrounding the city of [Córdoba](/southamerica/argentina/cordoba) are a popular escape for Argentines looking for fresh air, lakes, and outdoor adventure without travelling far. Many day trips are possible from the capital.

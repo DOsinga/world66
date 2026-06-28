@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, sight]
 latitude: -25.2782
 longitude: -57.6375
+score: 6.7
 ---
 
 Casa Viola is one of the oldest houses in Asuncion — a low colonial building with thick adobe walls that sits in the Manzana de la Rivera complex near the riverfront. The building dates from the early colonial period and now houses the Museo Memoria de la Ciudad, a collection of maps, photographs, and documents that trace the history of Asuncion from its founding in 1537 to the present.

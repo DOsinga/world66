@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Puerto Plata's main Catholic cathedral, facing the central park
+score: 7.1
 ---
 
 The Cathedral of St Philip the Apostle closes the south side of Parque Central, its pale façade visible from the park's benches and providing the main vertical accent in the city's central streetscape. The current building dates largely from the late 19th century, though there has been a church on this site since the early Spanish colonial period. The exterior is in a restrained neoclassical style, white with modest towers, that fits naturally with the Victorian-era buildings around the square.

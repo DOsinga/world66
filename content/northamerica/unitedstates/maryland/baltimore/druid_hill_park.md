@@ -14,6 +14,7 @@ story: >
   in American cities. Druid Hill covers 745 acres, contains a lake, a zoo, and miles
   of wooded paths, and was — unusually for the era — originally integrated before being
   segregated by a court order in 1904.
+score: 7.5
 ---
 
 Druid Hill Park is Baltimore's major green space — a 745-acre Victorian-era park in northwest Baltimore with a reservoir lake, wooded trails, historic structures, and the Maryland Zoo (one of the oldest in the country). The park was designed with the sweeping naturalistic landscape aesthetic of Olmsted-era American parks, and has survived the 20th century in reasonable condition.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayval%C4%B1k,_Turkey.jpg
 latitude: 39.318096
 loc_type: city
 longitude: 26.691671
-score: 0.57
+score: 8.18
+snippet: Aegean port town with Greek stone houses, olive groves, island restaurants,
+  and Lesbos ferries.
 title: Ayvalik
 type: location
 ---

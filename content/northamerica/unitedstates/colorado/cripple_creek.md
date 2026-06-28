@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-28'
+image: cripple_creek.jpg
+image_attribution: Detroit Publishing Co.
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Cripple_Creek,_Colorado,_1900.jpg
 latitude: 38.746656
+loc_type: city
 longitude: -105.178315
+score: 7.34
+snippet: Former Colorado gold-mining town high in the Rockies, west of Colorado Springs
+  and Pikes Peak.
+sources:
+- https://en.wikipedia.org/wiki/Cripple_Creek,_Colorado
+- https://en.wikipedia.org/wiki/Cripple_Creek_Historic_District
 title: Cripple Creek
 type: location
-score: 0.46
-loc_type: city
-image: cripple_creek.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cripple_Creek,_Colorado,_1900.jpg
-image_license: Public domain
-image_attribution: Detroit Publishing Co.
-sources:
-  - https://en.wikipedia.org/wiki/Cripple_Creek,_Colorado
-  - https://en.wikipedia.org/wiki/Cripple_Creek_Historic_District
 ---
 
 Cripple Creek is a former gold mining town at 9,494 feet in the Colorado Rockies, about an hour's scenic drive west from [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). The drive takes you around the back of Pikes Peak and up near the tree line — bring layers, because snow and sunshine can happen on the same summer day.

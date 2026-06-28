@@ -9,6 +9,7 @@ latitude: 40.9985
 longitude: 16.6810
 story: >
   The Filippo Cea variety, named after the farmer who selected it in the early twentieth century, almost disappeared in the 1980s when growers switched to higher-yielding Californian almonds. Slow Food recognised it as a Presidium product in 2007, and today around fifty smallholders share the work of keeping it alive — each tree producing a handful of kilos a year.
+score: 7.6
 ---
 
 The almond is Toritto's pride. The Filippo Cea variety, also called the Mandorla di Toritto, has a thin, papery shell and a soft, sweet kernel high in oil — flavours that pastry chefs across Italy seek out for their pasta reale, confetti, and almond paste. The trees, gnarled and silvery, cover the hills around the town in patches still farmed largely by hand.

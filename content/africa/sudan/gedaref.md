@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Agricultural_area_in_%27Al
 latitude: 14.040941
 loc_type: city
 longitude: 35.398832
-score: 0.16
+score: 4.22
+snippet: Eastern Sudanese agricultural city on the Butana plains, surrounded by sorghum,
+  sesame, and cotton fields
 title: Gedaref
 type: location
 ---

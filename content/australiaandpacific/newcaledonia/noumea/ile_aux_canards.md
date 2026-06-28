@@ -7,6 +7,7 @@ tags:
 - sight
 title: Île aux Canards
 type: poi
+score: 7.3
 ---
 
 Duck Island — Île aux Canards — is a tiny coral-ringed islet just 5 minutes by boat from Anse Vata beach, making it the most accessible snorkelling spot in Nouméa. The water around the island is clear and shallow, with coral gardens and abundant reef fish visible within 50 metres of the shore. The lagoon here is part of the UNESCO World Heritage site that covers most of New Caledonia's reef system.

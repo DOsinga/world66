@@ -6,8 +6,8 @@ latitude: 45.443826
 longitude: 12.327037
 opening_hours: Wed-Fri, 3pm-4pm
 phone: +39 041 5242812
+score: 7.6
 snippet: RAI-owned palace with Tiepolo's Antony and Cleopatra frescoes
-neighbourhood: Cannaregio
 tags:
 - things_to_do
 - cannaregio

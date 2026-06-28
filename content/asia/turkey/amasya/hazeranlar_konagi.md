@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.6523
 longitude: 35.8298
+score: 7.6
 ---
 
 The Hazeranlar Konağı is one of the best-preserved Ottoman timber mansions in Amasya and has been converted into an ethnographic museum. It was built in 1865 by Hasan Talat Pasha, a local official, for his sister Hazeran. The building is a fine example of the Amasya Ottoman house type: three storeys, projecting upper floors cantilevered over the street, and a facade of white plaster and dark timber framing that is characteristic of the whole riverfront.

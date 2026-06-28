@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Alexander River was one of the most polluted waterways in Israel by the 1980s, fed by industrial waste from textile mills and a slaughterhouse. A long restoration project — including the unlikely return of the giant African softshell turtle, a species that survives here in one of its last Mediterranean populations — has turned it into a model for river rehabilitation.
+score: 7.3
 ---
 
 The Alexander River winds across the coastal plain just north of Netanya and is a quietly excellent walk on a hot day. The reach near Kibbutz Hama'apil has a paved riverside path, picnic areas, and a series of wooden viewing platforms over the slow brown water.

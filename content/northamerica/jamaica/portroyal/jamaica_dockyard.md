@@ -7,6 +7,7 @@ tags:
 - sight
 title: Royal Navy Dockyard
 type: poi
+score: 7.0
 ---
 
 For two centuries Port Royal was the principal Royal Navy base in the Caribbean. The dockyard handled the careening of ships, victualling, and major repair work for the West Indies squadron. Admirals Vernon, Rodney, and Nelson all spent time here, and the place was effectively a small naval town in its own right.

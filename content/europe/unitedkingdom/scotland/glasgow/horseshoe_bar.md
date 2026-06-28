@@ -8,6 +8,7 @@ tags:
 address: "17 Drury Street, Glasgow"
 latitude: 55.8594
 longitude: -4.2533
+score: 7.5
 ---
 
 The Horseshoe Bar on Drury Street is one of Glasgow's great Victorian pubs, preserved almost intact since it opened in 1884. The central horseshoe-shaped bar — allegedly the longest continuous bar in Britain — is surrounded by etched glass panels, carved mahogany gantries, and a pressed tin ceiling, all original. The pub is busy almost all day every day, serves food (notably substantial Scottish lunches at very low prices), and functions as a social institution for the city centre.

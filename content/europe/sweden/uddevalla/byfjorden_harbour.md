@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.3270
 longitude: 11.8600
+score: 6.1
 ---
 
 Uddevalla sits at the inland end of Byfjorden, a fjord that cuts between rocky forested hills and opens westward to the Havstensfjord and ultimately the sea. The old harbour area at the foot of the town still retains something of its working character, and the views down the fjord are best at dusk when the water catches the light between the dark wooded slopes.

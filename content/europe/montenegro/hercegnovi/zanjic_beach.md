@@ -8,6 +8,7 @@ tags:
 - beach
 - day_trips
 snippet: "White-pebble beach on the Luštica peninsula, reachable by boat from town"
+score: 7.2
 ---
 
 Žanjic is across the strait on the Luštica peninsula and counts as the best swimming beach within easy reach of Herceg Novi. The pebbles are unusually white and round, the water is clear, and the olive groves come right down to the shore. There's a small restaurant and parasols for rent.

@@ -1,0 +1,200 @@
+{
+  "round": 4783,
+  "timestamp": "2026-06-14T00:41:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 3.2326,
+      "prior_variance": 0.093885,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 2.7997,
+      "prior_variance": 0.08821,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Cayman Brac",
+      "path": "northamerica/thecaribbean/caymanislands/caymanbrac",
+      "prior_score": 3.6262,
+      "prior_variance": 0.093991,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 4.5957,
+      "prior_variance": 0.099049,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 2.5264,
+      "prior_variance": 0.099446,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_score": 3.6365,
+      "prior_variance": 0.133179,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadeiros",
+      "prior_score": 3.1185,
+      "prior_variance": 0.090632,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 3.1281,
+      "prior_variance": 0.095319,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.3012,
+      "prior_variance": 0.084513,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.6705,
+      "prior_variance": 0.091395,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 3.7446,
+      "prior_variance": 0.095529,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 0.6281,
+      "prior_variance": 0.131909,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.1397,
+      "prior_variance": 0.08658,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough",
+      "prior_score": 1.1035,
+      "prior_variance": 0.083146,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Zutphen",
+      "path": "europe/netherlands/zutphen",
+      "prior_score": 0.2516,
+      "prior_variance": 0.078064,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": -0.3784,
+      "prior_variance": 0.083111,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 1.9408,
+      "prior_variance": 0.08203,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.6916,
+      "prior_variance": 0.084126,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -2.9694,
+      "prior_variance": 0.090728,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Jiujiang",
+      "path": "asia/china/jiangxi/jiujiang",
+      "prior_score": -2.0961,
+      "prior_variance": 0.095927,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -3.0344,
+      "prior_variance": 0.095173,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -2.504,
+      "prior_variance": 0.094849,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -3.3467,
+      "prior_variance": 0.097395,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.029,
+      "prior_variance": 0.114578,
+      "prior_n": 16
+    }
+  ]
+}

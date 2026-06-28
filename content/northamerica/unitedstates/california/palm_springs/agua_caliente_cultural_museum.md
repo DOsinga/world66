@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.8210
 longitude: -116.5472
+score: 8.0
 ---
 
 The museum of the Agua Caliente Band of Cahuilla Indians traces 10,000 years of indigenous presence in the Coachella Valley. The Cahuilla inhabited this desert long before Palm Springs became a celebrity retreat, and the museum tells that story well — through baskets, pottery, photographs, and oral history recordings that give you a sense of what the desert meant to people who lived in it rather than just visited.

@@ -8,6 +8,7 @@ tags:
 latitude: 50.4928
 longitude: -3.7756
 story: "Buckfast Abbey was dissolved under Henry VIII in 1539 and lay in ruins for over 300 years. In 1882 a small community of French Benedictine monks arrived and began rebuilding it from scratch — by hand, with no professional builders. The project took 32 years and was completed in 1938. The monks who built it were amateurs who learned masonry as they went."
+score: 8.5
 ---
 
 Buckfast Abbey is a working Benedictine monastery about two miles north of Ashburton, and the most impressive ecclesiastical building in this part of Devon. The abbey church is large and architecturally confident — a neo-Romanesque structure built in the early 20th century by the monks themselves, a story remarkable enough to be worth reading before you visit.

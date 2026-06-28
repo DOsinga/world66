@@ -8,6 +8,7 @@ tags:
 - beach
 title: Bombarde Beach
 type: poi
+score: 7.6
 ---
 
 Bombarde is the best beach within easy reach of Alghero — a long crescent of fine white sand backed by maritime pine and macchia, with water that stays shallow and a glowing turquoise for a long way out. The setting is more dramatic than the in-town beaches because the cliffs of Capo Caccia close the view to the west. The locals prefer it, which is a good signal.

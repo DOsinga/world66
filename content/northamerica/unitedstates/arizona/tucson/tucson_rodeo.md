@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 story: "Tucson schools have been getting Rodeo Week off — two days excused absence — since 1925, when the city decided that rodeo simply mattered too much to compete with classes. It is one of only two events in the United States with this distinction; the only other is Mardi Gras."
+score: 7.0
 ---
 
 The Tucson Rodeo — La Fiesta de los Vaqueros — has been running since 1925 and is one of the top professional rodeos on the PRCA circuit. Nine days in late February with bull riding, bareback bronc, steer wrestling, calf roping, and barrel racing.

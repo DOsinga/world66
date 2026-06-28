@@ -1,10 +1,12 @@
 ---
 latitude: -34.603819
 longitude: -58.381071
-snippet: "World's widest avenue, crowned by the iconic Obelisco"
+score: 6.8
+snippet: World's widest avenue, crowned by the iconic Obelisco
 tags:
 - things_to_do
 - landmark
+- microcentro
 title: Avenida 9 de Julio
 type: poi
 ---

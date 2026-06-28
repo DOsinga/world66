@@ -9,6 +9,7 @@ story: >
   Hartley was a Maine modernist who grew up in nearby Lewiston and is considered one
   of the most important American painters of the early 20th century. His works are
   rarely seen outside a handful of museums, and the Zillman holds a strong selection.
+score: 8.0
 ---
 
 The Zillman Art Museum in downtown Bangor — affiliated with the University of Maine — is Maine's most serious art museum outside Portland. The permanent collection spans American modern and contemporary art, with works by David Hockney, Andy Warhol, Edward Hopper, Pablo Picasso, Winslow Homer, and a particularly strong selection of paintings by Marsden Hartley, the great Maine modernist who grew up in nearby Lewiston.

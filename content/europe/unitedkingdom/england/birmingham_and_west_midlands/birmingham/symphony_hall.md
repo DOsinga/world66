@@ -8,6 +8,7 @@ latitude: 52.4774
 longitude: -1.9115
 address: Broad Street, Birmingham B1 2EA
 url: www.thsh.co.uk
+score: 7.5
 ---
 
 One of the finest concert halls in Europe, opened in 1991 and consistently rated among the best acoustic venues in the world. The City of Birmingham Symphony Orchestra, which rose to international prominence under Simon Rattle's directorship in the 1980s and 1990s, is the resident orchestra. Mirga Gražinytė-Tyla held the position from 2016, maintaining the CBSO's reputation as one of Britain's finest regional orchestras.

@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/146878425@N05/49490219521
 latitude: 18.4316
 loc_type: city
 longitude: -64.6231
-score: 0.63
+score: 8.91
 title: Tortola
 type: location
+snippet: Largest British Virgin Island and territory hub, with hilly ridges, Road
+  Town harbour, and north-shore beaches.
 ---
 
 Tortola is the largest of the British Virgin Islands and the territory's main hub. [Road Town](/northamerica/britishvirginislands/tortola/road_town), on the southern coast, is the capital — a small, manageable Caribbean town with a main street of restaurants, shops, and a deep natural harbour busy with yachts and ferries. The island is hilly and green, with dramatic ridges running east-west and excellent beaches on both the north and south coasts — the showpiece being [Cane Garden Bay](/northamerica/britishvirginislands/tortola/cane_garden_bay) on the north shore, home to the [Callwood Rum Distillery](/northamerica/britishvirginislands/tortola/callwood_rum_distillery), one of the oldest in the Caribbean.

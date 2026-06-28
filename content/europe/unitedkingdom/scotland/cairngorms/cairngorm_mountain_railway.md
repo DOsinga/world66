@@ -14,6 +14,7 @@ story: >
   designed to minimise its impact on the fragile sub-arctic plateau ecosystem.
 sources:
   - https://en.wikipedia.org/wiki/Cairngorm_Mountain_Railway
+score: 6.7
 ---
 
 The Cairngorm Mountain Railway is the highest railway in the United Kingdom, climbing from the Coire Cas ski base station to a terminal at 1,085 metres in under ten minutes. It was built partly to replace vehicular access to the upper ski area and partly to give the general public access to the Cairngorm plateau without requiring a strenuous uphill walk. The top station has a cafe and exhibition space.

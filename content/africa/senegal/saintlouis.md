@@ -7,7 +7,9 @@ done:
 latitude: 16.0228
 loc_type: city
 longitude: -16.4897
-score: 0.47
+score: 7.85
+snippet: Former Senegalese capital on the Senegal River, known for colonial architecture
+  and Pont Faidherbe.
 title: Saint-Louis
 type: location
 ---

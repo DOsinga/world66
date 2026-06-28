@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 1926 Italian Renaissance theatre was nearly demolished in the 1970s and saved by a community campaign that has since restored it to its full Roaring Twenties grandeur. The Mighty Wurlitzer pipe organ at the front of the stage is still played; the instrument was built half a mile away at Wurlitzer's North Tonawanda factory in 1926 and is one of the very few still in its original location."
+score: 7.7
 ---
 
 The 1,100-seat picture-palace cinema on Webster Street is the cultural heart of North Tonawanda. It opened in 1926, fell into disrepair, and was painstakingly restored by volunteers. The schedule mixes silent films with live Wurlitzer accompaniment, second-run movies, ballet, and concerts.

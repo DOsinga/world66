@@ -6,6 +6,7 @@ longitude: -79.8141
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The Saxonburg Festival of the Arts has been running on the Saturday after Labor Day since the early 1970s and is the one weekend a year when the town fills up. Main Street is closed off; some 150 craft and art booths set up the length of the street, a parade comes through in the morning, a 5K race starts at dawn, and the borough does its best impression of a much larger place.

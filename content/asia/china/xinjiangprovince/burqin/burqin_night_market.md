@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Burqin Night Market
 type: poi
+score: 6.6
 ---
 
 Burqin's night market is the town's social centre in travel season. Grills smoke, fish cooks over coals, and the tables fill with travellers comparing Kanas plans over skewers, noodles, and beer.

@@ -14,6 +14,7 @@ story: >
   theater — marble floors, frescoed ceilings, and a chandelier that originally burned whale oil.
   The building faces the shaded Praça da República and is still in active use for opera,
   ballet, and concerts.
+score: 8.4
 ---
 
 Guided tours run on weekdays and let you into the main hall, the backstage, and the smaller rehearsal spaces. The guides are knowledgeable and the tour takes about an hour. Check the schedule if you want to catch an actual performance — tickets are often surprisingly affordable.

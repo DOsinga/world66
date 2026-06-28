@@ -9,6 +9,7 @@ tags:
 latitude: 47.5939
 longitude: 1.3433
 snippet: "1930s art deco basilica with a 60-metre tower of bells"
+score: 7.7
 ---
 
 The Basilique Notre-Dame de la Trinité is one of the most unusual buildings in Blois — a vast 1930s church in a stripped, almost art-deco interpretation of medieval architecture, built between 1932 and 1949 to a design by architect Paul Rouvière. The exterior is austere reinforced concrete clad in stone; the interior is unexpectedly luminous, with full-height stained glass and a vaulted concrete ceiling.

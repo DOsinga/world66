@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 39.0833
 longitude: 16.3667
+score: 6.9
 ---
 
 Soveria Mannelli's old town sits on a ridge at 750 metres, looking out over valleys of chestnut and oak. The streets are steep and narrow, running up to the central piazza and the church of Sant'Andrea Apostolo, which has a good 18th-century organ and a calm interior worth stepping into. The town's architecture is typical of these Calabrian hill settlements — stone houses on the lower slopes giving way to newer concrete construction as you move toward the edges, but the historic core remains intact.

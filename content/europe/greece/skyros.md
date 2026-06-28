@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/58661913@N00/14579966904
 latitude: 38.873044
 loc_type: city
 longitude: 24.524477
-score: 0.64
+score: 8.56
 title: Skyros
 type: location
+snippet: Remote Sporades island split between pine-covered north, rocky south, and
+  semi-wild Skyrian horses.
 ---
 
 Skyros is the largest and most remote of the Sporades islands, and it feels like two different places joined at the waist. The northern half is green and forested, with pine-covered hills and sheltered beaches. The southern half is rocky, barren, and wind-swept, home to the endangered Skyrian horse, a small breed that has lived semi-wild on the island for centuries. The contrast is dramatic and gives the island a character quite unlike any of its neighbors.

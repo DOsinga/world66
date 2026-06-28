@@ -11,6 +11,7 @@ title: Masmak Fortress
 type: poi
 story: >
   In January 1902, Abdul Aziz ibn Saud led a group of about forty men on a night raid from exile in Kuwait to recapture Riyadh from the Rashidi dynasty that had held it for a decade. The attack on the Masmak Fortress in the early hours of the morning succeeded partly through audacity and partly through surprise. During the assault, one of Ibn Saud's followers hurled a spear at the fleeing Rashidi governor, Ajlan. The spear missed but lodged in the fortress gate, and the tip remains embedded in the wood today.
+score: 8.6
 ---
 
 The mud-brick fortress that Abdul Aziz ibn Saud and his followers captured in 1902 marks the event conventionally dated as the beginning of modern Saudi Arabia. The fort was built in the 1860s in the traditional Najdi style — thick walls of sun-dried brick, watchtowers at the corners, a large central courtyard — and served as the military headquarters of whatever power held Riyadh.

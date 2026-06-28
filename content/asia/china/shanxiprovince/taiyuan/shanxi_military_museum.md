@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.8750
 longitude: 112.5400
+score: 5.0
 ---
 
 The Shanxi Military Museum focuses on the province's role in the Second World War (the War of Resistance Against Japan) and the civil war period, with particular attention to the Battle of Taiyuan in 1937 — the major engagement in which Japanese forces captured the provincial capital after weeks of fighting that killed tens of thousands of soldiers on both sides. The museum's account of the battle is detailed and surprisingly frank about the scale of the military defeat.

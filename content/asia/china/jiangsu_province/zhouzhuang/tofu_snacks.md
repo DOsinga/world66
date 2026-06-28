@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 31.1147
 longitude: 120.8458
+score: 5.9
 ---
 
 Beyond the pork hock, Zhouzhuang has a good tradition of freshwater dishes: braised mandarin fish (松鼠鳜鱼 in the Suzhou style), stir-fried river shrimp with tea leaves, and fermented tofu that has been made here for generations. Street vendors near the main gate sell deep-fried taro cakes and glutinous rice balls filled with sesame paste — straightforward snacks that make good walking food.

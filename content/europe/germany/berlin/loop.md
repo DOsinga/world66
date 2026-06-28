@@ -10,6 +10,7 @@ tags:
 - berlinmitte
 title: Loop
 type: poi
+score: 6.4
 ---
 
 A contemporary art space in Berlin-Mitte showing young, up-to-date work from the city's art scene. Exhibition openings double as club nights with DJs, drawing people who might not otherwise set foot in a gallery. Open only during exhibitions, Wednesday through Saturday afternoons.

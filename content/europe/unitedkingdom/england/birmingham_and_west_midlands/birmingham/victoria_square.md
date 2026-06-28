@@ -7,6 +7,7 @@ tags:
 latitude: 52.479
 longitude: -1.9028
 address: Victoria Square, Birmingham B1 1BB
+score: 6.3
 ---
 
 The civic heart of Birmingham, flanked by the neoclassical Council House (1879) and the older Town Hall (1834), which is modelled on the Temple of Castor and Pollux in Rome. The square was pedestrianised and redesigned in the 1990s; the result is an open space that works well on a sunny day.

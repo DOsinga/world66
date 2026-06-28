@@ -1,0 +1,200 @@
+{
+  "round": 2982,
+  "timestamp": "2026-06-13T22:20:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 7.4015,
+      "prior_variance": 0.191136,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 6.2688,
+      "prior_variance": 0.194474,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": 2.6626,
+      "prior_variance": 0.172262,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": -0.019,
+      "prior_variance": 0.145506,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": -0.042,
+      "prior_variance": 0.130303,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.5465,
+      "prior_variance": 0.25702,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 3.1301,
+      "prior_variance": 0.158302,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.8473,
+      "prior_variance": 0.149779,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 4.2201,
+      "prior_variance": 0.155284,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_score": -1.6054,
+      "prior_variance": 0.132759,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 0.448,
+      "prior_variance": 0.14717,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -0.5488,
+      "prior_variance": 0.149055,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.488,
+      "prior_variance": 0.130429,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Arecibo",
+      "path": "northamerica/thecaribbean/puertorico/arecibo",
+      "prior_score": -0.1706,
+      "prior_variance": 0.138851,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Liberia",
+      "path": "northamerica/costarica/liberia",
+      "prior_score": -0.4076,
+      "prior_variance": 0.130316,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -4.1951,
+      "prior_variance": 0.15167,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -1.9186,
+      "prior_variance": 0.172188,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -1.9496,
+      "prior_variance": 0.127954,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.1441,
+      "prior_variance": 0.131176,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_score": -0.9636,
+      "prior_variance": 0.135748,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -2.0842,
+      "prior_variance": 0.179427,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.5815,
+      "prior_variance": 0.134148,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -6.0281,
+      "prior_variance": 0.187178,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/santaclarita",
+      "prior_score": -4.3105,
+      "prior_variance": 0.15184,
+      "prior_n": 10
+    }
+  ]
+}

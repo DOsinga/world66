@@ -3,21 +3,21 @@ done:
   country_cleanup: 2026-03-31
   location_cleanup: '2026-04-08'
 image: bhutan.jpg
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/67769030@N07">Arian
-  Zwegers</a> from Brussels, Belgium
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/67769030@N07">Arian Zwegers</a> from Brussels, Belgium
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Paro_Dzong_(15656348118).jpg
 latitude: 27.5142
 longitude: 90.4336
 quick_facts:
-  Population: "780,000"
+  Population: 780,000
   Drives On: Left
-  Forest Cover: "71%"
-  Tourist Fee: "$100/night"
+  Forest Cover: 71%
+  Tourist Fee: $100/night
 title: Bhutan
 type: location
-score: 0.81
+score: 0.71
 loc_type: country
+snippet: Himalayan kingdom between India and Tibet, defined by fortress-monasteries, forested valleys, and Gross National Happiness.
 ---
 
 Bhutan is the last great Himalayan kingdom, a country the size of Switzerland wedged between India and Tibet where Gross National Happiness is official policy and television arrived only in 1999. It is one of the most tightly controlled tourism destinations on earth, and that is exactly what makes it extraordinary.

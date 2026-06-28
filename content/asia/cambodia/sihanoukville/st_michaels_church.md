@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.6360
 longitude: 103.5164
+score: 7.0
 ---
 
 St. Michael's is the small Catholic church serving the (mostly Vietnamese and expatriate) Catholic community of Sihanoukville. A modest pastel building rather than an architectural showpiece, it is one of the very few Christian places of worship in the country and tells a quiet story about Cambodia's complicated minority communities.

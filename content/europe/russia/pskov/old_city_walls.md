@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 57.8160
 longitude: 28.3250
+score: 8.6
 ---
 
 Pskov's medieval defensive system was one of the most elaborate in medieval Russia. By the 16th century the city had six concentric rings of walls — the Krom, the Dovmont Town, the Middle Town, the Okolny Gorod, and the outer suburban rings — covering a perimeter of several kilometres. More survives here than almost anywhere else in Russia: long sections of the limestone walls still stand, along with a number of towers in varying states of preservation.

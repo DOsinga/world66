@@ -11,6 +11,7 @@ story: >
   The current Steven Holl-designed building opened in 2001 and is considered one of the architect's finest works
   in the Pacific Northwest. Holl described its three interlocking volumes as representing "bridges, filters and
   screens" — meaning you move through the building almost as much as you look at the art inside it.
+score: 7.5
 ---
 
 BAM focuses on craft, design, and contemporary art — a niche that sets it apart from Seattle's larger institutions and gives it a clear identity. The permanent collection leans toward works made by hand: studio glass, ceramics, textile art, and sculpture. Rotating exhibitions are consistently well-mounted and often feature Pacific Northwest artists alongside international makers.

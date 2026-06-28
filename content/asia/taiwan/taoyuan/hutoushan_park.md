@@ -7,6 +7,7 @@ tags:
 latitude: 24.9978
 longitude: 121.3127
 snippet: Central Taoyuan's main hilltop park with temple complex and city views
+score: 6.5
 ---
 
 Hutoushan (虎頭山) — Tiger Head Mountain — is the hill park at the center of Taoyuan city, offering a network of walking trails through subtropical forest, several temple complexes, and views over the urban spread below. The main temple on the hill is dedicated to Guanyin, and the surrounding area has a peaceful atmosphere unusual for a city park this close to a major urban center.

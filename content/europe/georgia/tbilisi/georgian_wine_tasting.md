@@ -7,6 +7,7 @@ tags:
 - bar
 title: Georgian Wine Bars
 type: poi
+score: 7.7
 ---
 
 Georgia has been making wine in clay vessels called *qvevri* for at least 8,000 years, and wine culture is embedded in Georgian identity in a way that is hard to overstate. Tbilisi has a thriving wine bar scene, centred on the old town and Erekle II Street, where you can taste both conventional Georgian wines and the amber (orange) wines that have attracted international attention.

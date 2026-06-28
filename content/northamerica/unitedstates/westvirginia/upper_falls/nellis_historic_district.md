@@ -8,6 +8,7 @@ latitude: 38.15472
 longitude: -81.74139
 sources:
   - https://en.wikipedia.org/wiki/Nellis_Historic_District
+score: 7.0
 ---
 
 The Nellis Historic District, a short distance from Upper Falls, is a preserved coal company town listed on the National Register of Historic Places. Nellis was built by the coal industry in the early 20th century, and the tight cluster of company housing, the tipple remnants, and the overall layout tell the story of how the Coal River valley was shaped by mining.

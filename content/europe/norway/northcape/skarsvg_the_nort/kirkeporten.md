@@ -1,8 +1,16 @@
 ---
+latitude: 71.1194
+longitude: 25.8228
+score: 8.2
+story: The name means "the Church Door" in Norwegian — the arch frames the North Cape
+  cliff so perfectly that the silhouette looks like a Gothic window. It was only recognised
+  as a viewpoint in the 1990s when a local guided the first tourists up; before that,
+  it was just a rock formation the villagers walked past.
+tags:
+- things_to_do
+- sight
 title: Kirkeporten
 type: poi
-tags: [things_to_do, sight]
-story: The name means "the Church Door" in Norwegian — the arch frames the North Cape cliff so perfectly that the silhouette looks like a Gothic window. It was only recognised as a viewpoint in the 1990s when a local guided the first tourists up; before that, it was just a rock formation the villagers walked past.
 ---
 
 Kirkeporten is a natural rock arch on the hillside above Skarsvåg, reached by a short but steep hike of about 45 minutes from the village. Through the arch, the North Cape cliff appears framed as if in a picture window — the same cliff that draws millions to the plateau, but seen from across the water and from a completely different angle. Many people who have stood at the globe monument on the plateau consider this the better view.

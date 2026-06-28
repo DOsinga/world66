@@ -13,6 +13,7 @@ story: Krasnodar's Gorky Park occupies a stretch of land along the Kuban River t
   was renamed for Maxim Gorky in the Soviet period, as parks across Russia were, and
   unlike many Soviet-era parks, this one has been genuinely maintained and improved
   in the post-Soviet decades.
+score: 6.2
 ---
 
 Gorky Park stretches along the Kuban River in the southern part of central Krasnodar, a long green space with tree-lined alleys, fountains, a small funfair, and the riverside atmosphere that makes southern Russian cities pleasant in warm weather. The park connects to the riverside promenade that runs along the bank of the Kuban.

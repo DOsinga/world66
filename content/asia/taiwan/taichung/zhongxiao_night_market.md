@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, market, eating_out]
 latitude: 24.1273
 longitude: 120.6809
+score: 6.5
 ---
 
 Zhongxiao Night Market is the most local of the major Taichung night markets, in the South District a short distance from the centre. It runs every evening on Zhongxiao Road, with several hundred stalls and a heavier focus on sit-down food than at Fengjia.

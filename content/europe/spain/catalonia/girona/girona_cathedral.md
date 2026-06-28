@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Girona Cathedral
 type: poi
+score: 9.4
 ---
 
 The Cathedral of Santa Maria, reached by a sweeping baroque staircase of 86 steps, is Girona's centrepiece. Construction spanned from the 11th to the 18th century, meaning the building combines Romanesque cloisters, a Gothic nave, and a baroque façade in an unusually harmonious way.

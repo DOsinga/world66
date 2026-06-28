@@ -13,6 +13,7 @@ story: >
   Buddhist stories but also the court life of their own time: noblemen, musicians, and
   domestic scenes that make the murals as much a social document as a religious one.
   The artists remain anonymous, as was customary, but the quality suggests royal patronage.
+score: 8.0
 ---
 
 Degaldoruwa, about 6 km east of Kandy on the Mahiyangana road, contains some of the finest eighteenth-century murals in Sri Lanka. The cave temple — carved from a natural rock overhang — has three painted halls covering scenes from the Jataka tales (stories of the Buddha's previous lives) with a vividness and naturalism unusual in Sri Lankan Buddhist art.

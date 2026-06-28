@@ -15,6 +15,7 @@ story: >
   regarded by conservative theologians as dangerously close to Jewish scholarship, and teaching Greek as 
   a threat to the Latin-language church. The controversy attracted some of the leading humanist scholars 
   of the day and briefly made Leuven one of the intellectual centres of northern Europe.
+score: 6.9
 ---
 
 The Collegium Trilingue, founded in 1517 under the patronage of humanist Hieronymus van Busleyden, was one of the most important institutions of the Northern Renaissance. The college was created specifically to teach the three ancient languages — Latin, Greek, and Hebrew — at a time when such learning was considered radical. Erasmus was instrumental in its foundation, and the college attracted scholars from across Europe during its first decades.

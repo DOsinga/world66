@@ -12,6 +12,7 @@ story: >
   back convinced that American painting deserved a museum of its own. He hired McKim, Mead and White to
   design the building — the same firm that designed Penn Station and the Boston Public Library — and
   endowed it with a collection that has grown steadily ever since.
+score: 8.5
 ---
 
 The Butler Institute of American Art is a genuine gem of American museumship, and the fact that it sits in Youngstown rather than New York or Washington makes it all the more surprising. The collection covers American painting from the colonial period to the present, with particularly strong holdings in 19th-century landscape painting, the Ashcan School, and 20th-century realism. Winslow Homer's "Snap the Whip" is the most famous single work.

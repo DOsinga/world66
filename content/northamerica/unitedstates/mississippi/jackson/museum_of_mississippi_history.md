@@ -7,6 +7,7 @@ tags:
 latitude: 32.3025
 longitude: -90.1823
 story: "The two museums opened together on the same day in December 2017 — a deliberate decision, after long debate, to tell the state's full history and its civil rights history side by side rather than in one combined narrative or in separate buildings across town."
+score: 8.7
 ---
 
 The Museum of Mississippi History is the companion to the Civil Rights Museum next door, and the two were designed to be visited together. It covers 15,000 years of human presence in what is now Mississippi: the Choctaw and Chickasaw, the French and Spanish on the Gulf coast, the cotton economy and slavery, the Civil War, Reconstruction, the great twentieth-century migrations.

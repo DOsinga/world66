@@ -9,6 +9,7 @@ longitude: 24.7482
 snippet: City history museum in a 14th-century merchant house on Vene Street
 sources:
   - https://en.wikipedia.org/wiki/Tallinn_City_Museum
+score: 7.5
 ---
 
 The Tallinn City Museum occupies a 14th-century merchant house on Vene Street, in the heart of the Old Town. The permanent exhibition covers the history of Tallinn from medieval trading post to Soviet city to modern capital, with good collections of household objects, costumes, and documents that give the city's social history a tangible quality.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:River_in_downtown_Zhongsha
 latitude: 22.517645
 loc_type: city
 longitude: 113.392782
-score: 0.41
+score: 6.55
+snippet: Pearl River Delta city named for Sun Yat-sen, whose birthplace remains its
+  defining landmark.
 title: Zhongshan
 type: location
 ---

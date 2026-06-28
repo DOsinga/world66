@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_salerno_from_a
 latitude: 40.6824
 loc_type: city
 longitude: 14.7681
-score: 0.65
+score: 8.45
+snippet: Working Campanian port city beside the Amalfi Coast, with medieval lanes
+  and a grand seafront promenade
 title: Salerno
 type: location
 ---

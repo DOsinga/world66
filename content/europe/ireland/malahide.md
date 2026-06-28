@@ -9,8 +9,10 @@ image_source: https://www.flickr.com/photos/141847070@N05/41433495001
 latitude: 53.45084
 loc_type: city
 longitude: -6.15367
-score: 0.51
+score: 7.81
 title: Malahide
+snippet: Seaside town on Dublin's north coast, centred on a medieval castle and harbour
+  village.
 type: location
 ---
 

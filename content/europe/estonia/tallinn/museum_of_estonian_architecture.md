@@ -10,6 +10,7 @@ longitude: 24.7565
 snippet: Architecture museum in a converted 19th-century exchange building at the Old Town edge
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Estonian_Architecture
+score: 7.6
 ---
 
 The Museum of Estonian Architecture occupies the Börsihoone (Exchange Building), a neoclassical 19th-century building on the edge of Tallinn's Old Town, and covers the history of Estonian architecture from medieval times to the present. The permanent collection documents the country's transitions between wooden vernacular buildings, Soviet modernism, and contemporary design, and the temporary exhibitions often explore architecture and urban planning themes that put Tallinn's visible heritage in context.

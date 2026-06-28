@@ -12,6 +12,7 @@ story: >
   because the tide returns fast enough to drown careless walkers
   in deep gullies. A handful of professional outfits run trips
   from Vlieland in summer.
+score: 8.9
 ---
 
 Once or twice a month in summer, when the tide allows, you can walk from Vlieland out across the wet sand of the Wadden Sea to neighbouring sandbanks or to Texel — barefoot or in old trainers, through ankle- to thigh-deep mud and water. The activity, known as **wadlopen**, is a Dutch tradition with a long history and a very strict licensing regime: only certified guides may organise crossings.

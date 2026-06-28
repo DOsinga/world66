@@ -6,6 +6,7 @@ tags:
 - market
 title: Mercado Hidalgo
 type: poi
+score: 6.9
 ---
 
 The Mercado Hidalgo is Veracruz's main covered market, and a good place to see the produce of the Gulf coast and the state's interior at close range. The market sells tropical fruits — mamey, guanábana, pitahaya — alongside the herbs and spices used in Veracruz cooking, fresh seafood, dried chiles, and the local coffee grown in the highlands around Coatepec and Xalapa, some of the best in Mexico.

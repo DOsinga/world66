@@ -10,6 +10,7 @@ address: St Xavier's College, Palayamkottai, Tirunelveli 627002
 latitude: 8.7180
 longitude: 77.7388
 snippet: Jesuit arts and science college founded in 1923
+score: 5.6
 ---
 
 St Xavier's, founded in 1923 by Jesuits of the Madurai Mission, is the oldest college in Tirunelveli district and one of the better arts and science colleges in southern Tamil Nadu. The main quadrangle preserves a handful of substantial early 20th-century buildings in a restrained Madras–Gothic style around a wide green lawn, with the college chapel on the north side.

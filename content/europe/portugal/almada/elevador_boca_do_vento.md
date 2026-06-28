@@ -15,6 +15,7 @@ story: >
   the old connection between the river and the upper town, which had existed via a much less
   elegant stairway since the nineteenth century. Its glass car makes the 35-metre ascent
   feel like a slow-motion reveal of the Tagus and Lisbon beyond.
+score: 7.0
 ---
 
 The panoramic elevator at Boca do Vento solves a practical problem with considerable elegance: it connects the Cacilhas waterfront to the upper town of Almada without requiring visitors to climb a long, steep hill. The glass-sided car rises about 35 metres in under a minute, and the views during the ascent — across the Tagus to Lisbon, with the Ponte 25 de Abril framing the left side — are excellent.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, park]
 latitude: 51.9050
 longitude: 4.4783
 snippet: "19th-century English-style park between the Euromast and the Maas"
+score: 7.5
 ---
 
 Het Park — formally the Maaspark — is a long English-style landscape garden laid out in the 1850s by the great Dutch park designers Zocher father and son, running along the right bank of the Maas from the Euromast down to the Westzeedijk. It is the only substantial piece of pre-war centre that survived intact: lawns, mature plane trees, ornamental ponds, and a Norman-style folly.

@@ -1,200 +1,200 @@
 {
   "round": 695,
-  "timestamp": "2026-04-12T10:43:20",
+  "timestamp": "2026-06-13T19:49:06",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Carcassonne",
-      "path": "europe/france/midi/languedoc/carcassonne",
-      "prior_mu": 26.6396,
-      "prior_sigma": 5.5204,
-      "prior_n": 2
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -8.0391,
+      "prior_variance": 0.721302,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Biarritz",
-      "path": "europe/france/midi/basqueregion/biarritz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -7.7932,
+      "prior_variance": 1.206737,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Calvi",
-      "path": "europe/france/corsica/calvi",
-      "prior_mu": 23.3611,
-      "prior_sigma": 3.9179,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -8.2519,
+      "prior_variance": 0.723544,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Vaison-la-Romaine",
-      "path": "europe/france/midi/provence/vaisonlaromaine",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -9.1123,
+      "prior_variance": 1.100978,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Le Puy en Velay",
-      "path": "europe/france/midi/cevennes/lepuyenvelay",
-      "prior_mu": 22.9287,
-      "prior_sigma": 5.7357,
-      "prior_n": 1
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -9.4011,
+      "prior_variance": 1.062319,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "M\u00e9ribel",
-      "path": "europe/france/alpes/meribel",
-      "prior_mu": 22.9648,
-      "prior_sigma": 4.7832,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -10.2824,
+      "prior_variance": 1.13943,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Domme",
-      "path": "europe/france/midi/dordogne/domme",
-      "prior_mu": 22.1305,
-      "prior_sigma": 5.7543,
-      "prior_n": 1
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -8.6728,
+      "prior_variance": 1.03691,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Saumur",
-      "path": "europe/france/centre/loirevalley/saumur",
-      "prior_mu": 22.7249,
-      "prior_sigma": 4.5816,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -9.6088,
+      "prior_variance": 0.740879,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Cahors",
-      "path": "europe/france/midi/dordogne/cahors",
-      "prior_mu": 22.5393,
-      "prior_sigma": 5.946,
-      "prior_n": 1
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -7.3495,
+      "prior_variance": 0.926301,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Chartreuse",
-      "path": "europe/france/alpes/chartreuse",
-      "prior_mu": 22.9391,
-      "prior_sigma": 6.0042,
-      "prior_n": 1
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -7.7511,
+      "prior_variance": 1.014255,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Rennes",
-      "path": "europe/france/normandybrittany/rennes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -10.0802,
+      "prior_variance": 0.731595,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Orleans",
-      "path": "europe/france/centre/loirevalley/orleans",
-      "prior_mu": 21.2511,
-      "prior_sigma": 4.0681,
-      "prior_n": 3
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -7.3291,
+      "prior_variance": 1.082715,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Vernet les Bains",
-      "path": "europe/france/midi/pyrenees/vernet_les_bains",
-      "prior_mu": 22.0129,
-      "prior_sigma": 4.6815,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -9.5292,
+      "prior_variance": 0.646431,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Ile d'Oleron",
-      "path": "europe/france/aquitaine/iledoleron",
-      "prior_mu": 22.4537,
-      "prior_sigma": 5.903,
-      "prior_n": 1
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -10.4117,
+      "prior_variance": 1.180734,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Ardeche",
-      "path": "europe/france/midi/ardeche",
-      "prior_mu": 21.8204,
-      "prior_sigma": 4.3732,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -9.288,
+      "prior_variance": 0.772846,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Langeais",
-      "path": "europe/france/centre/loirevalley/langeais",
-      "prior_mu": 21.5115,
-      "prior_sigma": 4.457,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -8.1085,
+      "prior_variance": 0.998147,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Valen\u00e7ay",
-      "path": "europe/france/centre/loirevalley/valencay",
-      "prior_mu": 21.3962,
-      "prior_sigma": 3.0841,
-      "prior_n": 4
-    },
-    {
-      "rank": 18,
-      "title": "Poitiers",
-      "path": "europe/france/midi/aquitaine/poitiers",
-      "prior_mu": 21.3496,
-      "prior_sigma": 4.6073,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -10.9029,
+      "prior_variance": 0.910961,
       "prior_n": 2
     },
     {
+      "rank": 18,
+      "title": "Myllykoski",
+      "path": "europe/finland/myllykoski",
+      "prior_score": -12.6531,
+      "prior_variance": 0.911117,
+      "prior_n": 3
+    },
+    {
       "rank": 19,
-      "title": "Ch\u00e2lons-en-Champagne",
-      "path": "europe/france/east/champagne/chalonssurmarne",
-      "prior_mu": 22.7021,
-      "prior_sigma": 5.9049,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -11.0263,
+      "prior_variance": 1.426465,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Beziers",
-      "path": "europe/france/midi/languedoc/beziers",
-      "prior_mu": 21.4033,
-      "prior_sigma": 4.7071,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "St. Omer",
-      "path": "europe/france/nord/stomer",
-      "prior_mu": 22.4269,
-      "prior_sigma": 5.4091,
-      "prior_n": 1
-    },
-    {
-      "rank": 22,
-      "title": "Mont-de-Marsan",
-      "path": "europe/france/aquitaine/montdemarsan",
-      "prior_mu": 21.6885,
-      "prior_sigma": 3.8384,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -12.1539,
+      "prior_variance": 0.65818,
       "prior_n": 3
     },
     {
-      "rank": 23,
-      "title": "Queven",
-      "path": "europe/france/normandybrittany/queven",
-      "prior_mu": 19.0643,
-      "prior_sigma": 4.8804,
+      "rank": 21,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -9.9427,
+      "prior_variance": 1.212812,
       "prior_n": 2
     },
     {
+      "rank": 22,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -10.4998,
+      "prior_variance": 1.222335,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -12.18,
+      "prior_variance": 0.731539,
+      "prior_n": 3
+    },
+    {
       "rank": 24,
-      "title": "Bussy",
-      "path": "europe/france/around_paris/bussy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -12.0698,
+      "prior_variance": 0.9032,
+      "prior_n": 3
     }
   ]
 }

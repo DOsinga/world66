@@ -1,0 +1,200 @@
+{
+  "round": 3679,
+  "timestamp": "2026-06-13T23:11:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 7.4045,
+      "prior_variance": 0.163628,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 5.9072,
+      "prior_variance": 0.120826,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 5.2337,
+      "prior_variance": 0.154715,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_score": -1.0041,
+      "prior_variance": 0.132915,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 0.8428,
+      "prior_variance": 0.119176,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": 0.5948,
+      "prior_variance": 0.101892,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -0.1211,
+      "prior_variance": 0.119445,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.4227,
+      "prior_variance": 0.100462,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": -0.0231,
+      "prior_variance": 0.122296,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -2.3751,
+      "prior_variance": 0.112056,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 0.9864,
+      "prior_variance": 0.111181,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.214,
+      "prior_variance": 0.114814,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -2.2147,
+      "prior_variance": 0.1139,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Kuqa",
+      "path": "asia/china/xinjiangprovince/kuqa",
+      "prior_score": -2.3993,
+      "prior_variance": 0.10554,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_score": -6.8082,
+      "prior_variance": 0.183251,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -1.5458,
+      "prior_variance": 0.106811,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -2.8584,
+      "prior_variance": 0.120977,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -4.6419,
+      "prior_variance": 0.163065,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -3.0116,
+      "prior_variance": 0.119022,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -5.8504,
+      "prior_variance": 0.180386,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -4.576,
+      "prior_variance": 0.122564,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Shangluo",
+      "path": "asia/china/shaanxi/shangluo",
+      "prior_score": -4.388,
+      "prior_variance": 0.121916,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.2752,
+      "prior_variance": 0.188133,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -5.3489,
+      "prior_variance": 0.146802,
+      "prior_n": 12
+    }
+  ]
+}

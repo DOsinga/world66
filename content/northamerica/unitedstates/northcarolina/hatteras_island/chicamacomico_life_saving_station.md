@@ -12,6 +12,7 @@ story: >
   from the torpedoed tanker Mirlo. The rescue involved rowing through burning oil
   on the sea surface in surfboats — a feat recognised by the British and American
   governments and commemorated annually at the station.
+score: 8.1
 ---
 
 The Chicamacomico Life-Saving Station in Rodanthe is the best-preserved example of the U.S. Life-Saving Service's work on the Outer Banks. The original 1874 station — the first operational Life-Saving Service station in North Carolina — still stands alongside a larger replacement building from 1911, a boat room, cook's quarters, and a watch tower.

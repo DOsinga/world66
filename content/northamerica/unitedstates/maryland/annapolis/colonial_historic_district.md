@@ -8,6 +8,7 @@ tags:
 - history
 title: Colonial Annapolis Historic District
 type: poi
+score: 9.0
 ---
 
 Designated a National Historic Landmark District in 1965 and expanded in 1984, the historic district covers most of the original colonial town. The 1695 street plan by Governor Francis Nicholson — radial streets converging on two circles, one for the state house, one for the church — is the oldest surviving baroque town plan in the United States, predating L'Enfant's Washington by almost a century.

@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The highest point in the city with sweeping views of the valley and surrounding hills
 story: "Named in the British period for the famous Indian hill station of Shimla — the original founders saw a resemblance in the wooded ridge above the city."
+score: 7.3
 ---
 
 A wooded hill on the north-western edge of the city that gives the best panoramic view over Abbottabad and the surrounding valley. The walk up takes about thirty minutes from the main bazaar, on a paved road and then a footpath that climbs through pine forest. At the top there is a small park, a few benches, and a clear view across the valley to the mountains on the far side.

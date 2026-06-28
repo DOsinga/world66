@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
   location_enrich: '2026-06-02'
+  major_city_neighborhoods: '2026-06-14'
   poi_cleanup: '2026-04-21'
 image: rome.jpg
 image_attribution: Diliff
@@ -11,7 +12,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-
 latitude: 41.9028
 loc_type: city
 longitude: 12.4964
-score: 0.92
+score: 9.99
+snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, and
+  everyday street life layer three millennia together
 title: Rome
 type: location
 ---

@@ -7,6 +7,7 @@ snippet: Home of Tigers football and the annual Liberty Bowl college game every 
 tags:
   - things_to_do
   - sport
+score: 5.9
 ---
 
 Liberty Bowl Memorial Stadium seats over 58,000 and is the home field of the University of Memphis Tigers football team. College football is the dominant autumn sport in this part of the South, and a Memphis Tigers home game is a genuine cultural experience — tailgate culture, the Tiger Walk before the game, and the intensely partisan crowd that fills the stadium when the Tigers are playing well. The stadium is on the fairgrounds, close enough to downtown to walk or take a rideshare.

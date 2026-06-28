@@ -4,12 +4,14 @@ done:
 latitude: 34.616114
 loc_type: city
 longitude: -120.093375
-score: 0.51
+score: 7.59
+snippet: Santa Barbara County wine town anchoring a valley of Pinot Noir, Syrah, and
+  Danish-heritage Solvang.
+sources:
+- https://en.wikipedia.org/wiki/Santa_Ynez,_California
+- https://en.wikipedia.org/wiki/Santa_Ynez_Valley_AVA
 title: Santa Ynez
 type: location
-sources:
-  - https://en.wikipedia.org/wiki/Santa_Ynez,_California
-  - https://en.wikipedia.org/wiki/Santa_Ynez_Valley_AVA
 ---
 
 Santa Ynez is a small town of about 5,000 people in the Santa Ynez Valley, a long flat basin running east to west through Santa Barbara County, about 45 minutes north of Santa Barbara and three hours from Los Angeles. The valley is better known to most visitors than the town itself — it is one of California's premier wine regions, home to more than forty wineries, and was made internationally famous by the 2004 film *Sideways*.

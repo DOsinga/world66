@@ -9,6 +9,7 @@ latitude: 33.9555
 longitude: 35.5967
 story: >
   The Nahr el-Kalb (Dog River) stelae were carved by more than a dozen conquerors over three millennia — from Ramesses II in the 13th century BC to the French after World War I. Each inscription commemorates a victorious army's passage. Ramesses left two inscriptions in 1274 BC after the Battle of Kadesh, the largest chariot battle in history.
+score: 7.9
 ---
 
 The stelae of Nahr el-Kalb are a remarkable group of over 20 inscriptions and rock carvings carved into the limestone cliffs at the mouth of the Dog River gorge, about 10 km south of Jounieh. Stretching from the 13th century BC to the 20th century AD, they record the passage of armies — Egyptian pharaohs, Assyrian kings, Babylonian rulers, Roman emperors, Arab caliphs, Crusaders, Napoleon III's forces, the Ottoman army, and British and French forces — each leaving a mark on the same narrow coastal passage.

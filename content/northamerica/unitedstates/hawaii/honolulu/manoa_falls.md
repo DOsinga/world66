@@ -7,6 +7,7 @@ tags:
 - sight
 title: Manoa Falls
 type: poi
+score: 6.9
 ---
 
 The Manoa Falls trail is one of Honolulu's best free attractions — a 1.6-kilometre walk through dense tropical rainforest up a narrow valley behind the University of Hawaii that ends at a 46-metre waterfall dropping into a shallow pool. The forest is lush even by Hawaii standards, with ginger, guava, massive tree ferns, and wild orchids.

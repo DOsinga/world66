@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.3106
 longitude: 2.5760
+score: 5.8
 ---
 
 The village itself is a typical Nigerien Sahel settlement: low mud-brick compounds, millet fields at the margins, a handful of small stalls. It is not a tourist village in any self-conscious sense, and that is to its credit. The community's relationship with the giraffes is practical and economic rather than performed — the animals are a source of income that competes favourably with farming or hunting, which is why the conservation has held.

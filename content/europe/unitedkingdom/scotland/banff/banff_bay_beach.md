@@ -9,6 +9,7 @@ tags:
 title: Banff Bay Beach
 type: poi
 snippet: Sheltered cove with wading birds and occasional seals
+score: 5.3
 ---
 
 A small sheltered beach at the mouth of the River Deveron, just below the Deveron Bridge. The location attracts wading birds and occasional seals and is an easy walk from the town centre.

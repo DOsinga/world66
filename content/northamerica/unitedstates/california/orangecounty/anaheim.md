@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Anaheim-streetbanners-duck
 latitude: 33.8348
 loc_type: city
 longitude: -117.9117
-score: 0.47
+score: 7.61
 title: Anaheim
+snippet: Orange County city defined by Disneyland, with theme parks replacing the
+  orange groves that shaped it
 type: location
 ---
 

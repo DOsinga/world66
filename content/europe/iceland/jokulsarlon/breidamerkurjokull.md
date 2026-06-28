@@ -15,6 +15,7 @@ story: >
   from past Icelandic eruptions — dark horizontal stripes through the white ice.
 sources:
   - https://en.wikipedia.org/wiki/Brei%C3%B0amerkursandur
+score: 8.9
 ---
 
 Breiðamerkurjökull is the outlet glacier that calves into Jökulsárlón, one of several glacial tongues descending from the vast Vatnajökull ice cap above. The glacier face — the calving margin where ice meets the lagoon — can be seen from the lagoon shore and is particularly dramatic from the boat tours. Watching a large piece of ice calve and create small waves in the lagoon is one of those experiences that sounds unremarkable described but feels momentous witnessed.

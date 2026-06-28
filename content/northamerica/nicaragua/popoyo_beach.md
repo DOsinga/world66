@@ -5,7 +5,9 @@ done:
 latitude: 11.4847
 loc_type: city
 longitude: -86.0978
-score: 0.47
+score: 7.26
+snippet: Southwestern Nicaragua surf beach known for the powerful Popoyo Reef and
+  a low-key lodge scene.
 title: Popoyo Beach
 type: location
 ---

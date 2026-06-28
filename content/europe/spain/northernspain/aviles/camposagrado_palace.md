@@ -9,6 +9,7 @@ latitude: 43.5574
 longitude: -5.9221
 sources:
   - https://en.wikipedia.org/wiki/Camposagrado_Palace_(Avil%C3%A9s)
+score: 7.2
 ---
 
 The Camposagrado Palace is a seventeenth-century noble residence in the heart of the Avilés old town, one of several aristocratic palaces that line the narrow streets around the Plaza de España. The building is notable for its imposing stone facade and the elaborate heraldic carvings above the main entrance, and it is among the best-preserved examples of Baroque civic architecture in Asturias.

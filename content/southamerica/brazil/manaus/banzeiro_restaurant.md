@@ -9,6 +9,7 @@ tags:
 latitude: -3.1011
 longitude: -60.0108
 address: Rua Libertador, Nossa Senhora das Graças, Manaus
+score: 7.2
 ---
 
 Banzeiro is the city's most ambitious kitchen — chef Felipe Schaedler has spent more than a decade reworking Amazonian ingredients with restaurant-grade technique. The menu rotates with the river and the seasons: tucunaré with tucupi and jambu, pirarucu confit, manioc stews, sorbets of cupuaçu and bacuri. Schaedler's commitment to sourcing from riverine communities is unusually rigorous.

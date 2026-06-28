@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -39.0000
 longitude: 177.3000
+score: 7.1
 ---
 
 The rivers around Wairoa — particularly the Ruakituri and Hangaroa — have a reputation as some of the finest trout fishing in New Zealand, which is saying something in a country that takes its trout fishing extremely seriously. The Ruakituri Valley in particular attracts serious fly fishers from around the world, drawn by clear water, wild backcountry, and brown and rainbow trout that run large.

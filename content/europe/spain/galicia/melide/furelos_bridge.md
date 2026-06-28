@@ -7,6 +7,7 @@ snippet: A four-arched medieval bridge on the Camino, just west of Melide
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The Ponte de Furelos is a four-arched medieval bridge crossing the river of the same name, two kilometres west of Melide on the Camino de Santiago. The bridge dates from the late Middle Ages on Roman foundations, and the route across it is one of the most photographed stretches of the Camino — the stone arches reflected in the still water, with the small village of Furelos rising on the far bank.

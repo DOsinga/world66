@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Hierro_Sabinar.JPG
 latitude: 27.743508
 loc_type: city
 longitude: -18.03818
-score: 0.56
+score: 7.94
+snippet: Remote Canary Island of volcanic cliffs and juniper woods, once used for
+  Europe's prime meridian
 title: El Hierro
 type: location
 ---

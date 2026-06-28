@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_Natio
 latitude: -18.855
 loc_type: feature
 longitude: 16.329
+score: 9.08
+snippet: Namibian wildlife park centred on a vast saltpan where animals gather at
+  dry-season waterholes.
 sources:
 - https://en.wikipedia.org/wiki/Etosha_National_Park
 title: Etosha National Park

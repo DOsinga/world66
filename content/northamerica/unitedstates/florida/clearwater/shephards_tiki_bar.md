@@ -6,6 +6,7 @@ longitude: -82.8270
 tags:
   - bars_and_cafes
   - bar
+score: 5.2
 ---
 
 Shephard's Tiki Beach Bar sits at the south end of Clearwater Beach on Gulfview Boulevard and is the closest thing the beach has to a proper nightlife venue. The open-air tiki bar faces the Gulf, with sand underfoot and palm trees strung with lights. Live bands and DJs play most nights, and the dance floor fills up after 9 p.m., especially on weekends.

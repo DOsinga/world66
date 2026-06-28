@@ -9,6 +9,7 @@ tags:
 - prenzlauerberg
 title: Café Anita Wronski
 type: poi
+score: 5.9
 ---
 
 A Prenzlauer Berg institution that has been a neighbourhood meeting point for decades. The outdoor seating is particularly popular in summer. Open Mon–Fri 9am–2am, Sat–Sun from 10am; meals served until 11pm.

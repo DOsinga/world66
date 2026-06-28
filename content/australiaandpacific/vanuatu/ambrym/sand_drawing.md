@@ -10,6 +10,7 @@ story: >
   Ambrym's sand drawing tradition — called sandroing or sand drawing — was recognised by UNESCO in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity. The drawings are not made freehand: the artist traces a single continuous line without lifting the finger, forming complex geometric patterns that encode stories, rituals, and territorial information. Some patterns are restricted to specific grades of the custom hierarchy.
 sources:
   - https://en.wikipedia.org/wiki/Sand_drawing_(Vanuatu)
+score: 7.8
 ---
 
 Ambrym has one of Vanuatu's strongest traditions of sand drawing — a complex system of geometric patterns traced in the sand in a single continuous line, without the finger ever leaving the surface. The drawings encode mythology, genealogy, territorial claims, and ritual knowledge, and the tradition spans the island and several neighbouring islands.

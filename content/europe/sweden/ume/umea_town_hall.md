@@ -9,6 +9,7 @@ latitude: 63.825
 longitude: 20.2628
 story: >
   The town hall was one of the first major public buildings completed after the 1888 fire. The city built wide streets and planted silver birch trees as firebreaks — a precaution that gave Umeå both its distinctive grid plan and its nickname, the Birch City. The town hall anchors the rebuilt city centre with an imposing facade designed to project stability after the catastrophe.
+score: 6.7
 ---
 
 Umeå Town Hall was built in the immediate aftermath of the 1888 fire that destroyed virtually the entire city. It stands on Rådhusesplanaden in the centre of town, a solid neoclassical building that forms the civic heart of the post-fire grid. The wide, birch-lined boulevard in front of it was itself part of the fire-prevention strategy — a firebreak wide enough that the next blaze could not easily jump across.

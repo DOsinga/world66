@@ -8,6 +8,7 @@ latitude: 29.9980
 longitude: 120.5820
 story: >
   The *wupeng chuan* — the black-awning punt — is so associated with Shaoxing that Lu Xun made it the setting for several stories and essays. The boats are propelled by the boatman's feet working a rear sweep while the passengers sit under the low black canvas awning, which was historically made of bamboo-framed oilcloth. The footwork method of propulsion is unusual enough that early foreign visitors to Shaoxing described the boats at length and with some admiration.
+score: 7.8
 ---
 
 The *wupeng chuan* — flat-bottomed canal boat with a low black bamboo awning — is the traditional transport of the Shaoxing canal system and remains the most atmospheric way to see the old city. Short boat tours depart from several landings near the Lu Xun quarter and the Shen Garden area, navigating the canal network between whitewashed walls, under stone arch bridges, and past the backs of traditional courtyard houses whose water gates open onto the canal.

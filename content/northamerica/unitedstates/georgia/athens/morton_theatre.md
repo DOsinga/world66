@@ -11,6 +11,7 @@ longitude: -83.37861
 story: "When Monroe Morton opened this theatre in 1910, he became one of the few African American businessmen in the South to construct, own, and operate a commercial building of this scale during the Jim Crow era. The building housed offices, shops, and a 950-seat vaudeville house that brought Black entertainers to Athens at a time when they were banned from performing in white venues."
 sources:
   - https://en.wikipedia.org/wiki/Morton_Theatre
+score: 7.6
 ---
 
 The Morton Theatre on West Washington Street is one of the most historically significant buildings in Athens. Built in 1910 by Monroe Morton, a Black businessman and barber who accumulated enough capital to build his own commercial block, it was one of the first theatres in the United States designed, built, owned, and operated by an African American.

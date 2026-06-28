@@ -8,6 +8,7 @@ latitude: -33.4409
 longitude: -70.6516
 story: >
   The Observatorio Astronómico Nacional was established in 1852, making it the oldest scientific institution in Chile still in its original building. It was founded by the Chilean government and staffed initially by German astronomers. The dome sits on a hilltop within Cerro Santa Lucía park, and the original 1860s refractor telescope is still there. The observatory is now run by the University of Chile and offers night observations for the public on selected evenings.
+score: 6.4
 ---
 
 Santiago's national astronomical observatory sits within the Cerro Santa Lucía park, its white dome visible above the trees from the Alameda. The building dates from 1862 and the observatory from 1852 — it is one of the oldest observatories in South America still in use. The central location means that serious research has long since moved to the dark skies of the Atacama, but the historical instrument collection and the night-observation programmes for the public give it genuine value.

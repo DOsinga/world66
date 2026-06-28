@@ -10,6 +10,7 @@ latitude: 13.3333
 longitude: -61.1833
 story: >
   La Soufrière erupted explosively on 9 April 2021 after months of effusive activity, sending ash 8 kilometres into the air and forcing the evacuation of around 16,000 people from the northern parishes. The mountain had erupted in similar fashion in 1902 — killing more than 1,500 — and again in 1979. Each cycle resets the summit crater and the vegetation around it.
+score: 9.2
 ---
 
 La Soufrière is the highest point of St Vincent at 1,234 metres and the active volcano that shapes everything north of Kingstown — geologically, agriculturally, and psychologically. The most recent eruption began in late 2020 and culminated in violent explosive activity in April 2021, blanketing the north of the island in grey ash and changing the colour of beaches for months. The summit is currently quiet again, and the hike has reopened.

@@ -14,6 +14,7 @@ story: >
   it is a corruption of a Dutch family name — Lindegroen, perhaps — from one of
   the many Low Countries traders Hull attracted in the 16th century. Either way,
   the name has stuck for at least 500 years.
+score: 7.4
 ---
 
 Land of Green Ginger is a short, crooked lane running between Whitefriargate and the Old Town. It has long delighted visitors for its name alone — one of the strangest in Britain — and was for years a clue in a national newspaper crossword. At the entrance to The George Hotel, look for what is sometimes claimed to be England's smallest window: a tiny, postcard-sized opening once used by an ostler to keep an eye on the courtyard.

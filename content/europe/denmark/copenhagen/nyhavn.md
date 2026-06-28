@@ -1,10 +1,13 @@
 ---
 latitude: 55.6798
 longitude: 12.5913
-snippet: "Colourful 17th-century harbour canal and Copenhagen's postcard view"
+score: 8.3
+snippet: Colourful 17th-century harbour canal that is Copenhagen's most recognisable
+  postcard view
 tags:
 - things_to_do
 - landmark
+- indre_by
 title: Nyhavn
 type: poi
 ---

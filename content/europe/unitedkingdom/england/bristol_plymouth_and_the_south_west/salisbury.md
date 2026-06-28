@@ -5,11 +5,13 @@ done:
 latitude: 51.069061
 loc_type: city
 longitude: -1.795413
-score: 0.59
+score: 8.23
 sources:
-  - https://en.wikipedia.org/wiki/Salisbury
-  - https://en.wikipedia.org/wiki/Salisbury_Cathedral
+- https://en.wikipedia.org/wiki/Salisbury
+- https://en.wikipedia.org/wiki/Salisbury_Cathedral
 title: Salisbury
+snippet: Wiltshire cathedral city whose medieval skyline is dominated by England's
+  tallest church spire
 type: location
 ---
 

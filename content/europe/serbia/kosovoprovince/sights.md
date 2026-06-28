@@ -1,7 +1,7 @@
 ---
 email: play.bixha@gmail.com
 title: Sights in Kosovo province
-type: poi
+type: section
 ---
 
 ### Bixha

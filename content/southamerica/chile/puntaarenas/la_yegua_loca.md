@@ -6,6 +6,7 @@ longitude: -70.9028
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 "The Crazy Mare" is a restaurant-and-boutique-hotel on Cerro de la Cruz, in a wonderfully ramshackle wooden house full of antiques, taxidermy and old farm tools. The dining room overlooks the strait, the menu is short and focused on Patagonian classics — lamb, centolla, conger eel, smoked-fish appetisers — and there is a small but interesting wine list.

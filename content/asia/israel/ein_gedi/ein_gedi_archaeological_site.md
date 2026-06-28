@@ -6,6 +6,7 @@ latitude: 31.4614
 longitude: 35.3925
 story: >
   A spectacular ancient synagogue mosaic was discovered here in 1970, intact beneath centuries of debris. Its inscription names donors to the synagogue but also includes a curious warning: anyone who "reveals the secret of the town" will face divine punishment. What secret, no one has yet worked out.
+score: 7.4
 ---
 
 The ancient settlement of Ein Gedi flourished in the Roman and Byzantine periods as a centre of balsam production — the plant's resin was among the most valuable commodities in the ancient world, and the exact method of cultivation was apparently guarded as a trade secret. The site, between the two wadi entrances, contains ruins of a Byzantine-era synagogue with a well-preserved mosaic floor.

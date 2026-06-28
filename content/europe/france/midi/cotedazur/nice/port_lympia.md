@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6963
 longitude: 7.2845
+score: 7.0
 ---
 
 Port Lympia is Nice's old harbour, dug in the 18th century when the city needed a proper commercial and naval port. The port itself is still active — ferries to Corsica and Sardinia depart from here — but the surrounding quays have become one of Nice's most pleasant areas for an evening walk. The ochre and sienna buildings that line the port, many from the 18th and 19th centuries, reflect in the water alongside the masts of pleasure yachts.

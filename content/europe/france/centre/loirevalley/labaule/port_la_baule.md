@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Small fishing and yachting harbour shared with Le Pouliguen."
+score: 6.9
 ---
 
 At the western end of the bay, where the rocky headland breaks the sweep of sand, La Baule and Le Pouliguen share a tidal harbour. It is a working port for a small fleet of fishing boats and a marina for yachts and sailing dinghies, with a few good seafood restaurants on the quayside.

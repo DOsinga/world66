@@ -10,6 +10,7 @@ tags:
 title: U Fleků
 type: poi
 url: ufleku.cz
+score: 7.4
 ---
 
 U Fleků has been a brewery and pub since 1499 — one of the oldest continuously operating breweries in the world, and certainly one of the oldest in Prague. The pub serves a single product: its own dark lager, Flekovský Tmavý Ležák, brewed on the premises in a 13-hectolitre kettle that has barely changed in a century.

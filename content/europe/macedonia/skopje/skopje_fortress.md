@@ -15,6 +15,7 @@ story: >
   damaging the actual ruins it was supposed to celebrate.
 sources:
   - https://en.wikipedia.org/wiki/Skopje
+score: 7.8
 ---
 
 The Skopje Fortress, known locally as Kale, sits on a rocky hill above the Old Bazaar and the Vardar River. The walls visible today are primarily Ottoman — 11th and 12th century — built on top of Byzantine and earlier foundations. The site has been fortified since at least the 6th century, when the Byzantine Emperor Justinian built a major stronghold here. It guarded the crossing of the Vardar and the main road through the Balkans.

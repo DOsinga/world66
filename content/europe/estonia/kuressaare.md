@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuressaare_castle_from_the
 latitude: 58.2528
 loc_type: city
 longitude: 22.4849
-score: 0.49
+score: 7.8
+snippet: Saaremaa's capital, a small Baltic island town with cobbled streets and a
+  medieval castle.
 title: Kuressaare
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 15.5452
 longitude: 73.7631
+score: 5.3
 ---
 
 The everyday market sits a couple of hundred metres back from the beach — a covered hall of fruit and vegetable stalls, a couple of fish stalls (early morning is the moment), a tailor or two, and the usual outer ring of clothing and souvenir shops. Less of a tourist scene than the Wednesday flea market in [Anjuna](/asia/india/goa/anjuna), more of a working town market.

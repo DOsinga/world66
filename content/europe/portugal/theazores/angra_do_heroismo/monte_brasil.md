@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, sight]
 latitude: 38.650
 longitude: -27.240
+score: 8.5
 ---
 
 Monte Brasil is the extinct volcanic peninsula that juts into the Atlantic to shelter Angra's harbor — without it, the anchorage that made the city important wouldn't exist. The peninsula is now a nature reserve with walking trails through a dense cover of subtropical laurisilva forest: laurel, juniper, heather, and the ferns and mosses that thrive in the Azores' persistent cloud. The forest feels ancient and otherworldly in the fog that frequently hangs on the higher ground, though the summit clears regularly and the views are exceptional when it does.

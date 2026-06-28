@@ -16,6 +16,7 @@ story: >
   longest continuously operating observatories in the world.
 sources:
   - https://en.wikipedia.org/wiki/Armagh_Observatory
+score: 8.4
 ---
 
 The Armagh Observatory was founded in 1790 by Archbishop Richard Robinson as part of his ambition to transform Armagh into a great intellectual centre. It has been in continuous operation ever since — 235 years of astronomical observation from the same hill — making it one of the longest-running observatories in the world still producing active research.

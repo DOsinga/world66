@@ -9,6 +9,7 @@ snippet: Regional museum dedicated to Akhenaten and the Amarna period
 tags:
 - things_to_do
 - museum
+score: 7.0
 ---
 
 The Akhenaten Museum was conceived as the principal museum of Middle Egypt, dedicated to the Amarna period and the wider archaeology of the Minya governorate. Construction stretched over many years and the museum has had a difficult opening history, but when accessible it provides essential context for visits to Tell el-Amarna, Beni Hassan, and Tuna el-Gebel.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ashton_Villa_-_Galveston.j
 latitude: 29.3012
 loc_type: city
 longitude: -94.7977
+score: 7.62
+snippet: Gulf Coast barrier-island city with Victorian architecture, seawall beaches,
+  and 1900 hurricane memory.
 sources:
 - https://en.wikipedia.org/wiki/Galveston,_Texas
 - https://en.wikivoyage.org/wiki/Galveston

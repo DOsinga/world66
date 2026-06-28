@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 46.1884
 longitude: -123.8274
+score: 6.8
 ---
 
 Fort George Brewery is the most celebrated craft brewery on the northern Oregon coast, occupying a sprawling complex near the Columbia River waterfront. The name refers to the site of the original Fort Astoria, renamed Fort George when the British took it over during the War of 1812. The brewery offers a rotating selection of ales, IPAs, stouts, and seasonal specials brewed on site.

@@ -8,6 +8,7 @@ tags:
 latitude: 32.7260
 longitude: -117.1686
 snippet: San Diego's most walkable downtown neighbourhood — restaurants, the Saturday farmers' market, and the waterfront
+score: 8.0
 ---
 
 Little Italy is the waterfront neighbourhood north of downtown that has reinvented itself from a faded tuna fishing community into San Diego's most urbanly complete district. India Street is the main commercial strip, with enough good restaurants concentrated in a few blocks to justify multiple visits. The Saturday morning Mercato farmers' market — one of the best in Southern California — fills several blocks with produce, fish, and prepared food vendors from early morning until early afternoon.

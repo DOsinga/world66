@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.2192
 longitude: -121.0625
+score: 7.6
 ---
 
 The Cornish pasty — a crimped pastry stuffed with meat and vegetables — is not just a food in Grass Valley, it is a cultural artefact. Cornish miners brought it to California in the mid-19th century as a practical working lunch: the thick crust served as a handle that could be discarded if hands were contaminated with arsenic from the ore.

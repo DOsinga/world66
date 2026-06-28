@@ -14,6 +14,7 @@ story: >
   euros and was one of dozens of new monuments erected under the Skopje 2014 programme.
 sources:
   - https://en.wikipedia.org/wiki/Porta_Macedonia
+score: 5.8
 ---
 
 Porta Macedonia is a triumphal arch on Pella Square, a pedestrianised zone just south of the main Macedonia Square. It was built in 2012 as part of the "Skopje 2014" urban redesign project. The arch is 21 metres tall, clad in white marble, and covered in bas-relief panels depicting scenes from Macedonian history from antiquity through independence.

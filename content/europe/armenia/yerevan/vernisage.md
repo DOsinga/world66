@@ -7,6 +7,7 @@ tags:
 - market
 title: Vernissage Market
 type: poi
+score: 7.8
 ---
 
 An open-air weekend market running alongside the park between Republic Square and Republic Stadium, packed with stalls selling carpets, silver, woodcarvings, old Soviet medals and cameras, paintings, hand-knotted lace, and the obsidian and pomegranate trinkets that have become Armenian visual shorthand. It is touristy but also genuinely good — many of the carvers, jewellers, and painters work the stalls themselves, so you are often buying directly from the maker.

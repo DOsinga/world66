@@ -10,6 +10,7 @@ tags:
 - beaches
 title: Manastir Beach
 type: poi
+score: 6.1
 ---
 
 A small beach about 10 minutes from Saranda, popular with locals for its clear water. The parking is free, which makes it an easy half-day escape from the town. The restaurant at Hotel Kristal serves fresh seafood right on the beach. Quieter than the busier beaches closer to Saranda itself.

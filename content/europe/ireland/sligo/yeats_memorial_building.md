@@ -4,6 +4,7 @@ type: poi
 latitude: 54.2727
 longitude: -8.475
 tags: [things_to_do, sight]
+score: 6.6
 ---
 
 The headquarters of the Yeats Society on Hyde Bridge in the centre of Sligo. The building hosts the annual Yeats International Summer School in July and August, holds a small permanent exhibition on the poet, and runs a year-round programme of readings and lectures.

@@ -12,6 +12,7 @@ story: >
   a group of Ngāti Oneone men who came to challenge them. Three men died — the first
   Maori killed by Europeans in New Zealand. Cook named the bay Poverty Bay because,
   he wrote, it afforded us no one thing we wanted.
+score: 6.9
 ---
 
 Kaiti Hill is the bluff that rises above the eastern bank of the Turanganui River, the place where James Cook made his first landfall on New Zealand soil in October 1769. The 33-hectare Titirangi Reserve at the top gives you panoramic views across Poverty Bay, the city, and the Wainui Hills — one of the better panoramas on the East Coast.

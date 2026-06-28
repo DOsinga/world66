@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 15.8620
 longitude: -97.0740
+score: 7.6
 ---
 
 The ceviche at Puerto Escondido's beachfront stands is some of the best on the Mexican Pacific coast. The tostadas de mariscos — seafood piled onto a crisp fried tortilla — are a local staple: shrimp, fish, octopus, and sometimes crab in a citrus marinade with onion, chile, and fresh herbs. The freshness of the catch makes the difference, and at the best stands you can watch the seafood being prepared in front of you.

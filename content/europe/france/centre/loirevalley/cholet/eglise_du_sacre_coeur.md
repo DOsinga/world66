@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 47.0617
 longitude: -0.8783
+score: 6.0
 ---
 
 The Sacre-Coeur church stands a short walk north of the town hall, a late nineteenth-century neo-Romanesque building in pale stone with twin square towers. It replaced an earlier church burned during the Vendée wars and is one of several Cholet churches that double as memorials to those events.

@@ -6,6 +6,7 @@ latitude: 25.4539
 longitude: 81.8481
 story: >
   On 27 February 1931, the revolutionary Chandra Shekhar Azad was cornered by British police in this park — then called Alfred Park. Refusing to surrender, he kept fighting until his last bullet, which he used on himself rather than be taken alive. He was 24 years old. The park was renamed in his honour after independence, and the spot where he died is marked by a memorial that Allahabad's residents still visit regularly.
+score: 6.1
 ---
 
 Chandra Shekhar Azad Park — also known by its former colonial name, Alfred Park — is the main civic garden of Allahabad, a large green space in the Civil Lines neighbourhood housing the Allahabad Museum, the Public Library, and various monuments. The park is named for the independence movement hero who died here in 1931, and his memorial within the grounds remains a place of genuine veneration.

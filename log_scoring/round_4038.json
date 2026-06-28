@@ -1,0 +1,200 @@
+{
+  "round": 4038,
+  "timestamp": "2026-06-13T23:38:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 9.2263,
+      "prior_variance": 0.286171,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 5.5937,
+      "prior_variance": 0.114194,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 3.3505,
+      "prior_variance": 0.110245,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Gili Air",
+      "path": "asia/indonesia/lombok/giliislands/gili_air",
+      "prior_score": 5.004,
+      "prior_variance": 0.113765,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 2.6152,
+      "prior_variance": 0.116128,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 4.0272,
+      "prior_variance": 0.127406,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 5.2635,
+      "prior_variance": 0.122863,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 2.9361,
+      "prior_variance": 0.099586,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 3.7731,
+      "prior_variance": 0.12333,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 1.7552,
+      "prior_variance": 0.103058,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 3.9896,
+      "prior_variance": 0.110222,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 3.6624,
+      "prior_variance": 0.104154,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_score": 1.6055,
+      "prior_variance": 0.104384,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_score": -1.6827,
+      "prior_variance": 0.103463,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.8432,
+      "prior_variance": 0.102739,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.505,
+      "prior_variance": 0.11205,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -2.9511,
+      "prior_variance": 0.107136,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_score": -3.8427,
+      "prior_variance": 0.103769,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.025,
+      "prior_variance": 0.120856,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -3.2527,
+      "prior_variance": 0.114791,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.5253,
+      "prior_variance": 0.157394,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Vushtrri",
+      "path": "europe/serbia/kosovoprovince/vushtrri",
+      "prior_score": -5.2751,
+      "prior_variance": 0.116334,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -4.0841,
+      "prior_variance": 0.104536,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -6.183,
+      "prior_variance": 0.113922,
+      "prior_n": 13
+    }
+  ]
+}

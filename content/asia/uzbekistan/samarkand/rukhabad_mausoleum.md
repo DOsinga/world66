@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Small 14th-century mausoleum near Gur-e-Amir, said to hold hairs of the Prophet"
+score: 6.7
 ---
 
 The Rukhabad — 'abode of the spirit' — is a modest brick mausoleum on the walking street that connects the Registan to Gur-e-Amir. It dates from the 1380s and was built by Timur for the Sufi sheikh Burhan ad-Din Sagardji. The story Timur is said to have told is that a casket holding seven hairs of the Prophet Muhammad lay inside the dome, and that he himself dismounted whenever he passed in respect.

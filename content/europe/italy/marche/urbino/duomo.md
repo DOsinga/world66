@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.7250
 longitude: 12.6364
+score: 7.4
 ---
 
 The original 15th-century cathedral collapsed in the earthquake of 1789 and was rebuilt over the next several decades to designs by Giuseppe Valadier, in a sober neoclassical idiom that contrasts with the warm brick of the surrounding city. The interior is white and high, with paintings by Federico Barocci (the painter, born in Urbino) and Cristoforo Unterperger.

@@ -8,6 +8,7 @@ tags:
 - wine
 title: Savannah-Chanelle Vineyards
 type: poi
+score: 6.9
 ---
 
 A small family-owned winery on Pierce Road in the same hills that drew Paul Masson here in the 1850s. Some of the Cabernet Franc vines on the property date to 1910, making them among the oldest producing vines in the Santa Cruz Mountains. Today's portfolio focuses on Pinot Noir and Zinfandel, sourced both from the estate and from named single-vineyard sites elsewhere in California.

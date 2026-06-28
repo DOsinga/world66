@@ -9,6 +9,7 @@ tags:
 title: Wat Nokor
 type: poi
 story: "When a working Theravada pagoda was built inside Wat Nokor in the mid-20th century, the monks chose not to demolish the original Angkor-era sandstone shrines but to wrap the new buildings around them. The result is the unusual spectacle of bright modern Buddhist murals painted directly across the carved lintels of an 11th-century Mahayana sanctuary."
+score: 6.9
 ---
 
 Wat Nokor — sometimes Wat Nokor Bachey — is a Khmer temple complex on the western edge of Kampong Cham, dating from the late 11th century and originally built in honour of the Buddha-king Jayavarman VII. The grey sandstone gopuras, blackened with age, are still in good condition, and the carved lintels and corner pediments show clear traces of their original Mahayana iconography.

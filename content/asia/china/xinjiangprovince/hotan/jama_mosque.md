@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.1125
 longitude: 79.9361
+score: 7.5
 ---
 
 The Jama Mosque in Hotan — one of the largest mosques in southern Xinjiang — is built in the Central Asian style that characterises the great mosques of the region: a large courtyard shaded by ancient trees, a prayer hall with a flat wooden ceiling supported by carved columns, and minarets in the local tradition rather than the pointed Ottoman style more familiar in the west. Friday prayers draw hundreds of worshippers from across the city, filling the courtyard with a crowd that spills out onto the surrounding streets.

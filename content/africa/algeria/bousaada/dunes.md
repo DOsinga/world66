@@ -12,6 +12,7 @@ story: >
   obsessively, often returning to the same spots in different seasons and at
   different times of day. In his later years he described the light on the dunes
   at sunset as the thing he had spent his whole life trying to capture on canvas.
+score: 7.8
 ---
 
 The sand dunes south of Bou Saâda begin within a short drive or long walk of the town centre, where the valley narrows and the landscape transitions from rocky desert to open sand. They are not the great ergs of the deep Sahara, but they are substantial — rolling orange dunes that give a convincing taste of desert scenery without a multi-day expedition.

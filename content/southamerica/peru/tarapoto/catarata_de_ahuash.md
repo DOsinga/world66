@@ -7,6 +7,7 @@ snippet: Jungle waterfall reachable by a short mountain trail
 tags:
 - day_trips
 - nature
+score: 8.1
 ---
 
 Ahuashiyacu -- "Laughing Waters" in Quechua -- is a 40-metre waterfall tucked into the cloud forest about 14 km from Tarapoto on the road toward Yurimaguas. What was once a grueling scramble over boulders and along cables is now a well-maintained trail with stone steps and footbridges, managed by the regional government. The walk up takes about 20 minutes and is manageable for anyone in reasonable shape, though the altitude and humidity will make you sweat.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Round-tower churches are peculiar to Norfolk and Suffolk and are found almost nowhere else in England. The tower at Burnham Deepdale is Saxon — built before the Norman Conquest — making it over a thousand years old. The reason Norfolk has so many is practical: the local flint is excellent building material but cannot be shaped into the interlocking corner stones that square towers require, so builders went round instead."
+score: 8.2
 ---
 
 St Mary's Church at Burnham Deepdale, a short drive east of Brancaster, is a small Norman church with a Saxon round tower that dates to around the tenth or eleventh century. The tower is one of the best-preserved of Norfolk's round towers, and the interior of the church holds a carved Romanesque font that is considered one of the finest in England — twelve panels depicting the twelve months of the year through agricultural scenes.

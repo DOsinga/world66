@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.1419
 longitude: 18.4955
+score: 7.0
 ---
 
 A short walk south of the old town brings you to a low rise once dedicated to the Roman goddess Minerva. After the Ottoman sack of Otranto in August 1480, the surviving male inhabitants were marched here and given a choice: convert to Islam or die. Some 800 refused and were beheaded — their remains later transferred to the cathedral chapel.

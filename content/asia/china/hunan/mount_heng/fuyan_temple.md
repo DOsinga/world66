@@ -9,6 +9,7 @@ latitude: 27.2696
 longitude: 112.7098
 story: >
   Fuyan Temple was the founding site of the Tiantai school of Buddhism in China, established here in the 6th century by the monk Huisi. The Tiantai school — based on the Lotus Sutra — subsequently spread to Japan and throughout East Asia. The temple at Fuyan is therefore, in a real sense, one of the places from which Japanese Buddhism and its many forms descend.
+score: 8.1
 ---
 
 Fuyan Temple, on the lower slopes of Mount Heng, is one of the most historically significant Buddhist sites in China. The 6th-century monk Huisi established the Tiantai school of Buddhism here, and his disciple Zhiyi brought the teachings to their full development. The Tiantai (Tendai in Japanese) school became foundational for Chinese, Japanese, and Korean Buddhism — many of the most important Buddhist traditions in East Asia trace their lineage through Fuyan.

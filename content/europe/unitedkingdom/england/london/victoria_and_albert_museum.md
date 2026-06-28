@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 51.4966
 longitude: -0.1722
+score: 9.6
 snippet: World-class collection of art and design across centuries
 tags:
 - things_to_do
 - museum
+- south_kensington
 title: Victoria and Albert Museum
 type: poi
 ---

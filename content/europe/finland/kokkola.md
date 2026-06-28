@@ -5,13 +5,15 @@ done:
 latitude: 63.8391
 loc_type: city
 longitude: 23.1337
-score: 0.4
+score: 6.83
 title: Kokkola
 type: location
 image: kokkola.jpg
 image_source: https://www.flickr.com/photos/37583176@N00/51828596393
 image_license: CC BY 2.0
 image_attribution: Ninara on Flickr
+snippet: Bilingual Finnish coastal city on the Gulf of Bothnia, with a preserved wooden
+  old town.
 ---
 
 Kokkola is one of those small Finnish coastal cities that most travellers blow past on the train between Vaasa and Oulu. That is a mistake. This bilingual city on the Gulf of Bothnia has a beautifully preserved wooden old town, a surprisingly lively cultural scene, and the kind of quiet charm that rewards anyone willing to slow down.

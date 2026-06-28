@@ -6,6 +6,7 @@ tags:
 - shrine
 latitude: 34.6869
 longitude: 135.526
+score: 5.7
 ---
 
 A shrine inside Osaka Castle Park dedicated to Toyotomi Hideyoshi, the warlord who built the original Osaka Castle in 1583 and unified Japan after centuries of civil war. The shrine was established in the Meiji period, when the new government sought to rehabilitate Hideyoshi's legacy for nationalist purposes. The bronze statue of Hideyoshi near the castle keep is associated with the shrine.

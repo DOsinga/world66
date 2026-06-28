@@ -11,6 +11,7 @@ tags:
 - bar
 title: Fizzees
 type: poi
+score: 5.4
 ---
 
 A low-key neighborhood bar in the Richmond with five TVs, two pool tables, pinball, and an internet jukebox. Free pool on Sundays and Saturday mornings. Happy hour runs Monday through Friday from 4 to 6 pm. Pool tournaments on Sunday evenings.

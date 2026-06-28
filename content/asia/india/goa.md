@@ -8,6 +8,8 @@ latitude: 15.300454
 loc_type: region
 longitude: 74.085513
 score: 0.69
+snippet: Small Indian coastal state shaped by Portuguese rule, Arabian Sea beaches,
+  and distinctive Catholic heritage.
 title: Goa
 type: location
 ---

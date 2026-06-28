@@ -6,10 +6,12 @@ done:
 latitude: 41.395256
 longitude: 2.161572
 phone: +34 93 487 36 13
+score: 9.1
 snippet: Gaudí's undulating stone masterpiece on Passeig de Gràcia
 tags:
 - things_to_do
 - sights
+- eixample
 title: La Casa Mila
 type: poi
 ---

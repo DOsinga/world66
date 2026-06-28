@@ -1,0 +1,200 @@
+{
+  "round": 2539,
+  "timestamp": "2026-06-13T21:49:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 9.0312,
+      "prior_variance": 0.319039,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 7.7664,
+      "prior_variance": 0.269976,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 0.9915,
+      "prior_variance": 0.203387,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 3.1715,
+      "prior_variance": 0.176679,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 1.7203,
+      "prior_variance": 0.168395,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.529,
+      "prior_variance": 0.207945,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.4509,
+      "prior_variance": 0.158608,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_score": 3.5208,
+      "prior_variance": 0.18152,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 2.4957,
+      "prior_variance": 0.170918,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.1179,
+      "prior_variance": 0.18621,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.6142,
+      "prior_variance": 0.17081,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 4.4045,
+      "prior_variance": 0.178032,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": -0.0283,
+      "prior_variance": 0.193176,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.5586,
+      "prior_variance": 0.189567,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 0.3049,
+      "prior_variance": 0.196811,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.2695,
+      "prior_variance": 0.181842,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 2.16,
+      "prior_variance": 0.18854,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.1282,
+      "prior_variance": 0.164857,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.9053,
+      "prior_variance": 0.167396,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.3337,
+      "prior_variance": 0.156555,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -1.4145,
+      "prior_variance": 0.154649,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.1331,
+      "prior_variance": 0.192949,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -0.4933,
+      "prior_variance": 0.136054,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -2.7788,
+      "prior_variance": 0.207234,
+      "prior_n": 8
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4634,
+  "timestamp": "2026-06-14T00:28:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 6.6315,
+      "prior_variance": 0.124895,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 3.6512,
+      "prior_variance": 0.100131,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 2.5283,
+      "prior_variance": 0.098367,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 3.0822,
+      "prior_variance": 0.094625,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.8386,
+      "prior_variance": 0.092883,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.3104,
+      "prior_variance": 0.081957,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 1.9272,
+      "prior_variance": 0.088427,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 2.1113,
+      "prior_variance": 0.09658,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.2668,
+      "prior_variance": 0.113238,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.651,
+      "prior_variance": 0.109303,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.467,
+      "prior_variance": 0.089521,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 0.5812,
+      "prior_variance": 0.08487,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -1.1834,
+      "prior_variance": 0.097182,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 0.353,
+      "prior_variance": 0.096848,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -2.5302,
+      "prior_variance": 0.095348,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.0654,
+      "prior_variance": 0.088714,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -1.8745,
+      "prior_variance": 0.100474,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -1.6054,
+      "prior_variance": 0.120607,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.4505,
+      "prior_variance": 0.090739,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.1896,
+      "prior_variance": 0.090328,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.5444,
+      "prior_variance": 0.09133,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -5.5233,
+      "prior_variance": 0.113986,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -4.5544,
+      "prior_variance": 0.097509,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -6.6924,
+      "prior_variance": 0.124288,
+      "prior_n": 15
+    }
+  ]
+}

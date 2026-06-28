@@ -7,6 +7,7 @@ tags:
 latitude: 42.99111
 longitude: -71.46166
 snippet: Ornate 1915 vaudeville house still running Broadway touring shows
+score: 6.9
 ---
 
 Opened in 1915 as a vaudeville and silent film house, the Palace Theatre is one of the few surviving venues from Manchester's early 20th-century entertainment district on Hanover Street. The interior — plaster ornament, gilded balconies, a painted ceiling — was restored in the 1970s after decades of decline, and the theatre now operates as the main venue for Broadway touring productions in southern New Hampshire.

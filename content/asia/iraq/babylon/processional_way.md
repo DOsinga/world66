@@ -6,6 +6,7 @@ longitude: 44.4220
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 The Processional Way led north from the Ishtar Gate towards the temple precinct, and was the route along which the statue of Marduk was carried during the spring Akitu festival. It was paved with massive limestone slabs set in bitumen, with walls of glazed brickwork showing 120 striding lions in white and yellow against a blue ground.

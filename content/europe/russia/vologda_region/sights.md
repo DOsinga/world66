@@ -1,6 +1,6 @@
 ---
 title: Sights in Vologda Region
-type: poi
+type: section
 ---
 
 Vologda region offers many interesting places to visit

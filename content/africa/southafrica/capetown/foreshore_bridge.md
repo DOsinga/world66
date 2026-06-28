@@ -1,8 +1,7 @@
 ---
-category: Curiosity
 latitude: -33.9181
 longitude: 18.4267
-neighbourhood: Green Point
+score: 5.9
 scores:
   architecture: 0.6409
   sight: 0.6543
@@ -16,7 +15,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- green_point
+- city_bowl
 title: Foreshore Freeway Bridge
 type: poi
 ---

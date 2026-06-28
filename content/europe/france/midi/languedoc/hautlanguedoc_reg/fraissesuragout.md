@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fraisse-sur-Agout_vue_1.JP
 latitude: 43.605898
 loc_type: city
 longitude: 2.79893
-score: 0.46
+score: 6.71
+snippet: Haut Languedoc village among chestnut woods and granite hills, near the Saut
+  de Vésoles waterfall
 title: Fraisse-sur-Agout
 type: location
 ---

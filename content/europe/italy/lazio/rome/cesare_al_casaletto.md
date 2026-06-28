@@ -5,6 +5,7 @@ done:
 latitude: 41.8741
 longitude: 12.444
 opening_hours: Tue–Sat 13:00–14:45, 20:00–22:30; Sun 13:00–14:45; closed Mon
+score: 7.9
 snippet: Cult Roman trattoria worth the tram ride for the fried gnocchi
 tags:
 - Katie Parla Rome
@@ -12,6 +13,7 @@ tags:
 - Eater Rome
 - eating_out
 - restaurant
+- trastevere
 title: Da Cesare al Casaletto
 type: poi
 ---

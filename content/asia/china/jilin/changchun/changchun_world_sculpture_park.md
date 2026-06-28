@@ -8,6 +8,7 @@ latitude: 43.8600
 longitude: 125.2600
 story: >
   The park grew out of Changchun's ambition to position itself as a world city during the economic growth of the 1990s and 2000s. The city commissioned works from artists across dozens of countries and gathered them in a single space — a cultural project that was at least partly civic boosterism, but resulted in a genuinely varied collection that includes some pieces of real quality alongside the more conventional.
+score: 7.1
 ---
 
 The Changchun World Sculpture Park contains several hundred outdoor sculptures by artists from over 60 countries, arranged around a central lake and garden landscape. The collection was assembled through the Changchun World Sculpture Conference, an international event that the city has hosted repeatedly since the mid-1990s.

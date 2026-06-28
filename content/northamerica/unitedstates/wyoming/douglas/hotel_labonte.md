@@ -10,6 +10,7 @@ longitude: -105.3850
 sources:
   - https://en.wikipedia.org/wiki/Hotel_LaBonte
   - https://www.wyohistory.org/encyclopedia/hotel-labonte
+score: 6.7
 ---
 
 The Hotel LaBonte is the most substantial building in downtown Douglas, a three-story brick structure erected in 1913 and opened in January 1914. It was financed as a community project by the local cattle and sheep industry's wealth — local businessmen formed the Douglas Hotel Company specifically to build a hotel that would serve the growing town. Architects Baerresen Brothers of Cheyenne and Denver designed the building, which opened with electrical lighting, steam heat, and telephones in 54 guest rooms, all of them luxuries in a Wyoming ranching town of that era.

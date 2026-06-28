@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.2026
 longitude: -80.8481
+score: 6.5
 ---
 
 Freedom Park is Charlotte's most popular public green space, 98 acres in the Dilworth neighbourhood about two kilometres south of Uptown. The park centres on a small lake with a paved walking loop, grassy slopes popular for picnicking, a children's play area, and tennis courts. In summer it hosts outdoor concerts on the amphitheatre stage. The surrounding Dilworth neighbourhood is one of Charlotte's oldest and most attractive residential areas, with early-20th-century bungalows and tree-lined streets worth exploring after a walk in the park.

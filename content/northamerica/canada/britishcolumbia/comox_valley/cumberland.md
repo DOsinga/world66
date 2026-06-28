@@ -8,6 +8,7 @@ tags:
 - sight
 title: Cumberland Village
 type: poi
+score: 8.2
 ---
 
 The third of the Comox Valley's three towns is the smallest and the most distinctive — a former Vancouver Island Coal Company company-town that once had a population of 13,000, one of British Columbia's largest Chinatowns, and a Japanese settlement. After the mines closed in 1966 the town shrank to a few hundred, but a generation of mountain bikers, brewers, and artists have revived its compact wooden main street.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:St._John%27s_Episcopal_Chu
 latitude: 36.947997
 loc_type: city
 longitude: -81.086975
-score: 0.34
+score: 5.74
+snippet: Southwest Virginia town at the I-77 and I-81 junction, named for signer George
+  Wythe.
 title: Wytheville
 type: location
 ---

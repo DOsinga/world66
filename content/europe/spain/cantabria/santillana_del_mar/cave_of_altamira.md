@@ -17,6 +17,7 @@ story: >
   only formally accepted as genuine in 1902.
 sources:
   - https://en.wikipedia.org/wiki/Cave_of_Altamira
+score: 7.4
 ---
 
 The Cave of Altamira contains some of the most extraordinary art ever made by human hands. Painted by Magdalenian hunter-gatherers between roughly 36,000 and 11,000 years ago, the images cover the ceiling of a low gallery called the Polychrome Hall: bison rolling on the ground, horses, deer, and wild boar, rendered in red and black ochre with a skill and naturalism that astonished the world when they were finally accepted as genuine prehistoric work. The UNESCO World Heritage designation covers not just Altamira but 17 other painted caves across northern Spain.

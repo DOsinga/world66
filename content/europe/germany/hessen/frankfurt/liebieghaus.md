@@ -5,6 +5,7 @@ tags: [things_to_do, museum, sachsenhausen]
 latitude: 50.1019
 longitude: 8.6717
 story: The 2008 "Bunte Götter" (Coloured Gods) exhibition stunned the art world by showing reconstructed ancient Greek statues painted in their original gaudy reds, blues and yellows. The museum keeps the polychrome casts on permanent display in a small side gallery — they look so unlike the white marble we expect that visitors often refuse to believe the originals looked the same.
+score: 8.1
 ---
 
 The Liebieghaus is a small but exquisite museum of sculpture housed in a turreted neo-Renaissance villa built in the 1890s for a Bohemian textile baron. The collection runs from Ancient Egypt and Greece through medieval Europe to the 18th century — perhaps 3,000 pieces in total — and the labyrinth of small high-ceilinged rooms makes it one of the most enjoyable museums on the Museumsufer. The garden, set with a few of the larger Renaissance and Baroque pieces, is open to the public and a pleasant spot in summer.

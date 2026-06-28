@@ -9,6 +9,7 @@ tags:
 - sight
 title: Pinsapar
 type: poi
+score: 8.8
 ---
 
 The Pinsapar is a protected forest of Spanish fir (*Abies pinsapo*) in the Sierra de Grazalema Natural Park — one of only two remaining stands of this ancient species, which once covered much of the western Mediterranean. The circular walk from Grazalema to Benamahoma through the forest is one of the finest hikes in Andalucia.

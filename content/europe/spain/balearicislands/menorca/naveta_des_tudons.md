@@ -14,6 +14,7 @@ story: >
   vessels, and bone buttons. The bodies had been placed in the chamber over several
   centuries, with older remains pushed aside to make room for new arrivals — a
   collective ancestor vault that the community used for perhaps 500 years.
+score: 7.9
 ---
 
 The Naveta des Tudons is the best-preserved prehistoric funerary monument in the Balearic Islands — an upturned boat-shaped stone tomb built by the Talayotic culture around 1000 BCE. The structure stands about four metres tall and has a distinctive elongated shape: a rounded end facing west and a more vertical facade at the east with a low entrance doorway. It was used as a communal burial chamber over several centuries.

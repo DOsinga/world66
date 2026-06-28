@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Community Christian Church
 type: poi
+score: 7.8
 ---
 
 The Community Christian Church in Kansas City is the only Frank Lloyd Wright building in Missouri and one of the most unusual in his oeuvre. Wright designed the church in 1940, but construction was repeatedly delayed due to cost. After Wright died in 1959, the congregation persisted with his original design, and the building finally opened in 1994. The long delay means the church looks anachronistic — a boldly geometric structure that seems both very old and very contemporary at once.

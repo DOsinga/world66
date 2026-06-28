@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, hot_springs]
 latitude: -7.3133
 longitude: 109.2222
 story: The name Baturraden is said to come from a Javanese love story — "batur" (servant) and "raden" (noble) — about a stableman who eloped with the daughter of the local lord and hid here on the slopes of Mount Slamet. The waterfall said to be their meeting place is still pointed out to visiting families today.
+score: 7.6
 ---
 
 Baturraden is the highland resort area 14 km north of Purwokerto, set at around 700 metres on the southern slopes of Mount Slamet — Java's second-highest volcano. Buses and angkots run frequently from Terminal Purwokerto and the journey takes around 45 minutes, climbing through pine forest and tea plantations into a noticeably cooler microclimate. It is a long-standing weekend retreat for Javanese families, especially during school holidays when it gets crowded.

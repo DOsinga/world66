@@ -1,0 +1,200 @@
+{
+  "round": 2958,
+  "timestamp": "2026-06-13T22:19:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 5.0619,
+      "prior_variance": 0.186156,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 1.7308,
+      "prior_variance": 0.128989,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": 1.1596,
+      "prior_variance": 0.252191,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.7408,
+      "prior_variance": 0.206257,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 2.6238,
+      "prior_variance": 0.139625,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.918,
+      "prior_variance": 0.180619,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/truro",
+      "prior_score": 0.8076,
+      "prior_variance": 0.151463,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.165,
+      "prior_variance": 0.153656,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -1.144,
+      "prior_variance": 0.124837,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.1884,
+      "prior_variance": 0.147368,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -2.258,
+      "prior_variance": 0.142127,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -1.6421,
+      "prior_variance": 0.139613,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -2.2365,
+      "prior_variance": 0.165521,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -0.5215,
+      "prior_variance": 0.15484,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -3.1775,
+      "prior_variance": 0.143156,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -1.9298,
+      "prior_variance": 0.136732,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ningbo",
+      "path": "asia/china/zhejiang/ningbo",
+      "prior_score": -0.7183,
+      "prior_variance": 0.132328,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Jacmel",
+      "path": "northamerica/thecaribbean/haiti/jacmel",
+      "prior_score": -1.7633,
+      "prior_variance": 0.176189,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 0.2593,
+      "prior_variance": 0.133181,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.9994,
+      "prior_variance": 0.142376,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_score": 0.6734,
+      "prior_variance": 0.137791,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.3923,
+      "prior_variance": 0.157264,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -3.7324,
+      "prior_variance": 0.176303,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_score": -5.0291,
+      "prior_variance": 0.149535,
+      "prior_n": 9
+    }
+  ]
+}

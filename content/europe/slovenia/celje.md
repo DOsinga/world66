@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/41980486@N07/52195070848
 latitude: 46.229389
 loc_type: city
 longitude: 15.261683
-score: 0.51
+score: 7.65
+snippet: Savinja River city below Celje Castle, tied to Slovenia's most powerful medieval
+  dynasty
 sources:
 - https://en.wikipedia.org/wiki/Celje
 - https://en.wikipedia.org/wiki/Celje_Castle

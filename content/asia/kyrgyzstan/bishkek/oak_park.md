@@ -8,6 +8,7 @@ tags:
 latitude: 42.8782
 longitude: 74.6094
 address: "Erkindik Boulevard, Bishkek"
+score: 7.7
 ---
 
 The oldest park in Bishkek, planted in 1890 when the town was still the Russian outpost of Pishpek. It runs east from Erkindik Boulevard and is shaded by tall oaks and poplars, with a permanent open-air sculpture park that mixes Soviet-era social-realist bronzes with newer Kyrgyz pieces.

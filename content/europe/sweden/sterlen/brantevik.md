@@ -6,6 +6,7 @@ longitude: 14.3436
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Brantevik was once one of the largest fishing harbours in Sweden — the village had its own merchant fleet of more than a hundred sailing ships in the 19th century and was richer per head than Stockholm. The fleet has gone but the houses remain, low whitewashed cottages clustered around the harbour with rose bushes and hollyhocks against the walls.

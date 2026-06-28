@@ -10,6 +10,7 @@ story: >
   The giant was created in 1580 by Giambologna for Francesco I de' Medici. Inside the hollow body there are several rooms, including a grotto decorated with stalactites — visitors in the sixteenth century could be received inside the colossus itself, peering out through its eyes across the garden.
 sources:
   - https://en.wikipedia.org/wiki/Apennine_Colossus
+score: 8.7
 ---
 
 The Apennine Colossus is the centrepiece of the Parco Demidoff and one of the most extraordinary pieces of Mannerist garden sculpture in Europe. Standing roughly eleven metres high, the stone giant crouches over a small pond as if emerging from the earth itself — one massive hand pressed into the ground, a mossy, craggy face staring downward. The effect is monumental and slightly unsettling, which is exactly what Giambologna intended.

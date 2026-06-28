@@ -8,6 +8,7 @@ snippet: Local history museum in a 1937 brick building on Seymour Street
 tags:
   - things_to_do
   - museum
+score: 7.6
 ---
 
 The **Kamloops Museum and Archives** occupies a handsome 1937 brick building on Seymour Street in the centre of downtown. The collection is broad and old-fashioned in the best sense: artefacts from the area's Secwépemc First Nations peoples, the fur trade era and the Hudson's Bay Company outpost, the gold-rush years, the building of the Canadian Pacific Railway, the early ranches, and the chinatown of late 19th-century Kamloops.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2779
 longitude: 8.0418
+score: 7.8
 ---
 
 The Marienkirche — St. Mary's Church — stands on the east side of the Marktplatz, a Gothic hall church built mostly in the fourteenth and fifteenth centuries. It is the Protestant counterpart to the Catholic Dom, and the two churches represent the denominational division that made Osnabrück a key location for the Peace of Westphalia negotiations: the city had agreed to alternate between Protestant and Catholic bishops, a unique arrangement that gave it a particular role in the religious politics of the region.

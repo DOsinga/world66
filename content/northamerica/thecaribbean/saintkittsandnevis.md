@@ -1,9 +1,12 @@
 ---
-title: "Saint Kitts and Nevis"
-type: location
-loc_type: country
 latitude: 17.3578
-longitude: -62.7830
+loc_type: country
+longitude: -62.783
+score: 0.43
+snippet: Two-island Leeward federation separated by The Narrows, with Basseterre on
+  larger Saint Kitts.
+title: Saint Kitts and Nevis
+type: location
 ---
 
 Saint Kitts and Nevis is a two-island federation in the Leeward Islands, part of the Lesser Antilles. It is one of the smallest countries in the Western Hemisphere, with a combined area of just 261 square kilometres and a population of around 42,000. The two islands are separated by a narrow channel called The Narrows, and despite their size they have distinct personalities — Saint Kitts is the larger and more developed, with the capital Basseterre and most of the tourist infrastructure; Nevis is quieter, more rural, and prized by visitors who want to get away from the busier parts of the Caribbean.

@@ -6,7 +6,9 @@ done:
 latitude: 53.2929
 loc_type: city
 longitude: -6.136
-score: 0.51
+score: 7.72
+snippet: Dublin Bay harbour town with Victorian streets and two long granite piers
+  used for seaside walks.
 title: Dun Laoghaire
 type: location
 ---

@@ -9,6 +9,7 @@ story: >
   between Switzerland and France. During World War I, with France and Germany at war and Switzerland strictly
   neutral, the tunnel became a strategically significant crossing point — the neutral Swiss postal route through
   Vallorbe was one of the few ways mail could pass between the warring countries.
+score: 5.7
 ---
 
 Vallorbe sits at the Swiss end of the Mont d'Or tunnel, the rail crossing through the Jura that links Switzerland to France on the main Paris-Lausanne-Geneva line. The TGV Lyria passes through the station at speed, but local and regional trains stop, making Vallorbe the formal border crossing for rail passengers. The station itself has some architectural interest — the Swiss side was built with the confidence of a major international gateway even though the town is small.

@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 12.1050
 longitude: -86.2550
+score: 5.8
 ---
 
 Zona Hippos is one of the better-known entertainment complexes on the Carretera Masaya strip, an outdoor collection of bars and food stalls centred around a large open-air terrace. It is a loud, sociable place aimed at a younger Managuan crowd — rum cocktails, loud music (usually a combination of reggaeton, cumbia, and salsa), and the kind of energy that starts slowly around 9pm and peaks well after midnight.

@@ -8,6 +8,7 @@ tags:
 title: Platería Ramírez
 type: poi
 url: www.plateriaramirez.com
+score: 5.6
 ---
 
 Family-run silver and gold workshop in Versalles, with some of the best prices in the city for handmade jewellery and Colombian filigree work. They will also make pieces to order. Easy to reach by taxi from anywhere in the centre.

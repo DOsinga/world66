@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 55.4694
 longitude: 8.4533
+score: 6.8
 ---
 
 Esbjerg Museum runs the history of the area from prehistory to the present. The early rooms cover the Iron Age and Viking finds from the surrounding Jutland farmland — pottery, weapons, and the remarkable Tjæreborg amber hoard — and the upper galleries jump to the late nineteenth century and the founding of Esbjerg as Denmark's new North Sea port in 1868.

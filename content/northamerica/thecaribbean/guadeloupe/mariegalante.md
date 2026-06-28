@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Guadeloupe_map.png
 latitude: 15.9333
 loc_type: city
 longitude: -61.2667
-score: 0.55
+score: 8.15
+snippet: Rural Guadeloupe island of sugarcane fields, windmill ruins, rum distilleries,
+  and quiet beaches
 sources:
-  - https://en.wikipedia.org/wiki/Marie-Galante
-  - https://en.wikipedia.org/wiki/Grand-Bourg
-  - https://en.wikipedia.org/wiki/Capesterre-de-Marie-Galante
+- https://en.wikipedia.org/wiki/Marie-Galante
+- https://en.wikipedia.org/wiki/Grand-Bourg
+- https://en.wikipedia.org/wiki/Capesterre-de-Marie-Galante
 title: Marie-Galante
 type: location
 ---

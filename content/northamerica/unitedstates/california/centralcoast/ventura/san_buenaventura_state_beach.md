@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 6.3
 ---
 
 San Buenaventura State Beach is a two-mile stretch of wide, sandy beach running north from the pier along the edge of Ventura Harbor. It is the kind of California beach that does everything well without doing anything spectacular: clean sand, consistent surf, reliable sunshine, and a bike path running the full length of the waterfront that connects it to Emma Wood State Beach to the north. Swimmers, surfers, and joggers all use it without getting in each other's way.

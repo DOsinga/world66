@@ -9,6 +9,7 @@ story: >
   At its peak in the late 19th century, the Estey Organ Company employed 700 workers and produced more organs than any other manufacturer in the world — over 500,000 reed organs and 3,200 pipe organs shipped to churches, schools, and parlours across Africa, Australia, New Zealand, and the British Empire. The factory complex is listed on the National Register of Historic Places and has been converted into a museum and mixed-use space.
 sources:
   - https://en.wikipedia.org/wiki/Estey_Organ
+score: 7.6
 ---
 
 The Estey Organ Company was founded in Brattleboro in 1852 and grew to become one of the largest organ manufacturers in the world, at one point employing 700 workers in a factory complex on Birge Street. The reed organs they made — foot-pumped parlour instruments — ended up in homes, churches, and mission stations across the English-speaking world during the Victorian era.

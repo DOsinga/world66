@@ -1,13 +1,14 @@
 ---
 address: Strada Mircea Vulcănescu 125-127, Bucharest
 latitude: 44.4496
-loc_type: feature
 longitude: 26.0578
+score: 6.5
 snippet: National Military Museum, with weapons, uniforms, and an aircraft hangar
 tags:
 - things_to_do
 - museum
 title: National Military Museum
+type: poi
 ---
 
 The official museum of the Romanian armed forces, occupying a former 19th-century barracks west of the centre. The collection covers Romanian military history from the medieval principalities through both world wars to the present, with a large open-air display of aircraft, tanks, and artillery in the rear courtyard.

@@ -8,6 +8,7 @@ tags:
   - culture
 latitude: 38.2462
 longitude: 21.7351
+score: 7.8
 ---
 
 The Patras Carnival is the largest in Greece and ranks among the biggest in Europe, drawing hundreds of thousands of visitors over the weeks before Lent. It begins in mid-January and builds to a climax in the final weekend before Clean Monday (the start of Orthodox Lent), with the Grand Parade — a procession of enormous satirical floats built over months by competing groups — as the centrepiece event. The floats are large enough to require cranes and carry dozens of costumed participants; the best ones are genuine works of public art as well as political commentary.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 25.285
 longitude: 83.026
+score: 7.1
 ---
 
 Ramnagar Fort sits on the opposite bank of the Ganges from the main ghats, accessible by a short boat ride from Tulsi Ghat or by road across a bridge. Built in the 18th century by the Maharaja of Benares, it remains the official residence of the royal family of Varanasi. The fort's museum — housed within the ramparts — contains a remarkable collection: vintage cars, ivory palanquins, jewelled howdahs, antique weapons, and astronomical clocks. The collection has a delightfully eccentric, unstudied quality compared to well-curated national museums.

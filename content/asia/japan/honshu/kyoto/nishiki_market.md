@@ -1,13 +1,18 @@
 ---
-latitude: 35.0050
+latitude: 35.005
 longitude: 135.7661
-snippet: "Kyoto's covered food market — \"the kitchen of Kyoto\""
-story: The market began as a wholesale fish district around 1310, when a cold underground spring made it the only place in the city where the catch from Wakasa Bay could be kept fresh through the summer. The spring still runs beneath the street.
+score: 6.8
+snippet: Kyoto's covered food market — "the kitchen of Kyoto"
+story: The market began as a wholesale fish district around 1310, when a cold underground
+  spring made it the only place in the city where the catch from Wakasa Bay could
+  be kept fresh through the summer. The spring still runs beneath the street.
 tags:
 - things_to_do
 - market
 - food
 - sight
+- eating_out
+- nishiki
 title: Nishiki Market
 type: poi
 ---

@@ -5,16 +5,16 @@ tags:
   - things_to_do
   - sight
   - architecture
-latitude: 56.1240
-longitude: -3.9483
-sources:
-  - https://en.wikipedia.org/wiki/Stirling_Castle
+latitude: 56.1239
+longitude: -3.9478
+snippet: One of Scotland's largest and most historically important castles, perched on a volcanic crag above the old town
 story: >
-  The Great Hall of Stirling Castle, completed in 1503 for James IV, is the largest medieval great hall in Scotland — and at the time of its construction, one of the largest secular buildings in the country. It was used as a barracks and later a school before being restored in the 1990s and repainted in its original vivid golden yellow, a colour that scandalised conservation purists when it was unveiled. Archaeological evidence confirmed the colour was historically correct.
+  When the masons working on the Royal Palace finished its astonishing carved facade in 1542, they probably did not expect their work to be hidden under whitewash for four centuries. The Stuart kings used the palace as a showcase of Renaissance art; the British army that took the castle over after the Jacobite risings had no use for ornament and painted everything in regulation buff. The 21st-century restoration stripped the paint back, recovered the original pigments and re-wove the Unicorn Tapestries on hand looms — a 13-year project that returned the rooms to something close to how James V would have seen them.
+score: 9.5
 ---
 
-Stirling Castle is one of the great castles of Scotland, sitting on a volcanic plug that commands the town and the surrounding carse with near-perfect military logic. A castle has stood here since at least the twelfth century; the buildings you see today are largely from the fifteenth and sixteenth centuries, when Stirling served as the principal residence of the Stuart kings and the Scottish court. James IV, James V, and Mary Queen of Scots all spent significant portions of their lives here.
+Stirling Castle is one of the largest and most strategically positioned castles in Britain. It stands on Castle Hill, a volcanic crag with cliffs on three sides, dominating the river crossing where the Lowlands meet the Highlands. The site has been fortified for at least a thousand years, but the buildings you see today belong mostly to the Stewart period — the great age of Scottish royal building between 1490 and 1600.
 
-The castle complex is substantial. The Great Hall — restored to its medieval state, including the controversial golden-yellow walls — is the most impressive secular interior. The Royal Palace, built by James V in the 1540s, contains the series of carved and painted oak roundels known as the Stirling Heads, remarkably expressive sixteenth-century portraiture that decorated the royal apartments. Most spectacular of all are the recently completed unicorn tapestries in the Queen's Inner Hall: full-size hand-woven reproductions, made over more than a decade, of the famous Hunt of the Unicorn series. The originals are in the Cloisters museum in New York; these reproductions are among the most ambitious craft projects in recent Scottish history.
+The Royal Palace, completed by James V in 1542, is the centrepiece. Its exterior is encrusted with sculpted figures of saints, kings and Renaissance grotesques, and the interior has been restored with extraordinary care, including a reweaving of the Unicorn Tapestries that hung in the rooms in the 16th century. The Great Hall, with its hammerbeam roof and harled yellow walls, is the largest medieval hall ever built in Scotland. The Chapel Royal, the Old Kitchens, and the Argyll and Sutherland Highlanders' Museum all add depth to a visit.
 
-The views from the castle esplanade and the outer walls are superb on a clear day: the flat carse stretches west, the Wallace Monument rises on its crag to the northeast, and the Highland line is visible beyond. Allow at least two hours. Historic Environment Scotland operates the site and it is well interpreted.
+Allow at least three hours, longer in summer when the costumed guides perform set pieces in the palace rooms. The castle is run by Historic Environment Scotland and entry is included with a Historic Scotland Explorer Pass. Avoid the busy middle of the day if you can; first thing in the morning is when the views over the Forth valley to the Highlands are at their best.

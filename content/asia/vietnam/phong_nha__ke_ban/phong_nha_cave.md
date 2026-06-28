@@ -9,6 +9,7 @@ longitude: 106.2848
 story: >
   The cave was used as a hospital and weapons cache during the American War, its interior providing shelter from B-52 bombing raids.
   Traces of that period — carved inscriptions and some infrastructure — remain visible in the outer chambers.
+score: 8.8
 ---
 
 The cave that gave the park its name is reached by wooden longtail boat from the village jetty, a thirty-minute ride upstream on the Son River through karst scenery. The boat turns into the cliff face and enters the cave, where the water continues deeper into the mountain through a series of chambers filled with stalactites and stalagmites, some dramatically lit, others left to the natural darkness.

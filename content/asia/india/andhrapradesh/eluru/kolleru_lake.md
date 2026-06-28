@@ -10,6 +10,7 @@ tags:
 latitude: 16.6500
 longitude: 81.2167
 story: Kolleru was once one of the largest grey pelican breeding colonies in the world, but aggressive fish-pond conversion in the 1980s and 90s nearly destroyed the wetland. The state declared it a wildlife sanctuary in 1999 and a Ramsar site in 2002; restoration is ongoing.
+score: 8.6
 ---
 
 Kolleru, 15 km from Eluru, is one of the largest freshwater lakes in India — 674 sq km at normal water levels, swelling to over 900 sq km during the monsoon. It sits in a shallow basin between the Krishna and Godavari deltas and acts as a natural overflow for both rivers.

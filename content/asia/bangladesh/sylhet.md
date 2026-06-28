@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ali_Amjad%27s_Clock_(1164)
 latitude: 24.8949
 loc_type: city
 longitude: 91.8687
-score: 0.41
+score: 6.57
+snippet: Northeastern Bangladeshi city of tea estates, Sufi pilgrimage, and hills
+  below Meghalaya
 title: Sylhet
 type: location
 ---

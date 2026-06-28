@@ -14,6 +14,7 @@ story: >
   been reduced and the moat filled in on three sides. The surviving section
   makes it one of the few genuinely moated buildings still standing in the
   West Midlands.
+score: 7.4
 ---
 
 The Manor House near Stone Cross is a rare survival of medieval domestic architecture in the industrial West Midlands. Parts of the structure date from the 13th century, with significant rebuilding in the 14th and 15th centuries. The building retains sections of its original moat, a great hall range, and timber-framed elements that pre-date the town's industrial transformation by several hundred years.

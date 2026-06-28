@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.9985
 longitude: 15.6545
+score: 6.4
 ---
 
 A simple trattoria near the Norman castle, Trattoria del Castello serves the kind of Basilicatan home cooking that is difficult to find outside the region: pasta al ragù di agnello (pasta with slow-cooked lamb ragu), orecchiette with sausage and peperoni cruschi, and grilled meats from local farms. The wine list is short and local — Aglianico del Vulture from nearby producers, served at honest prices.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8669
 longitude: 35.5079
+score: 7.1
 ---
 
 Horsh Beirut, a wedge of stone pine forest at the southern edge of the city, is by far the largest green space in Beirut. It was closed to the public for decades and only fully reopened in 2016 after a long campaign by Beirut-area activists.

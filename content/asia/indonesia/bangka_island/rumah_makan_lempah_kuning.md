@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Specialist in lempah kuning, Bangka's signature bright yellow fish soup"
+score: 6.8
 ---
 
 Lempah kuning — the bright yellow fish soup made with turmeric, nanas (pineapple), and local spices — is Bangka's most distinctive dish, and this restaurant does it well. The broth is sour and aromatic, the fish fresh, and the colour is genuinely vivid: a deep gold from the turmeric that stains the bowl. It's served with steamed rice and a small plate of sambal on the side.

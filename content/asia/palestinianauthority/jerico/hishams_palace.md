@@ -12,6 +12,7 @@ story: >
   Some scholars see it as a straightforward hunting scene; others argue the two gazelles
   under the tree represent paradise and the lion attacking represents the world outside
   it. The caliph who commissioned it left no explanation.
+score: 8.8
 ---
 
 Hisham's Palace is an early 8th-century Umayyad complex built under Caliph Hisham ibn Abd al-Malik (or possibly his nephew al-Walid II — scholars still disagree). It sprawls across 60 hectares north of Jericho, comprising a palace, an elaborate bath complex, and an agricultural estate fed by a sophisticated water system drawing on local springs.

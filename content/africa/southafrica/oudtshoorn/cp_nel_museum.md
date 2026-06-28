@@ -11,6 +11,7 @@ story: >
   fetch more than its weight in gold on the London market. Oudtshoorn farmers became
   millionaires almost overnight, and spent their fortunes on sandstone mansions they called
   "feather palaces" — most of which outlasted the boom by more than a century.
+score: 7.7
 ---
 
 The best introduction to Oudtshoorn's extraordinary history as the ostrich feather capital of the world. The museum occupies a 1906 building that was itself a product of the boom years, and its collection covers every aspect of the feather trade — from the social history of the Little Karoo Afrikaner community to the mechanics of Victorian London's fashion industry that drove the demand.

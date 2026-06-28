@@ -7,9 +7,11 @@ image_attribution: Michal Klajban
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Baldy_Hill_from_Snowslide_Valley,_Craigieburn_Range,_Canterbury,_New_Zealand.jpg
 latitude: -43.494176
-loc_type: city
+loc_type: region
 longitude: 171.809845
-score: 0.61
+score: 8.07
+snippet: South Island region stretching from the Southern Alps to Christchurch and
+  the Pacific coast
 title: Canterbury
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
 latitude: 20.9101
 longitude: 107.1839
 story: "Halong Bay has about 1,600 islands; the tourist junks visit maybe 40 of them. The difference between a two-night cruise and a one-night cruise isn't just time — it's geography. With two nights, your boat gets past the traffic around Bai Chay and into water where you might wake up with karst towers on all sides and no other boats visible."
+score: 9.0
 ---
 
 The 1,553 square kilometres of Halong Bay contain somewhere between 1,600 and 2,000 limestone islands, depending on what you count. Most rise vertically from the water, riddled with caves and clad in tropical vegetation. UNESCO listed the bay in 1994; the Chinese government has made similar claims about similar landscapes in Guilin, but Halong's combination of scale, geology, and access by sea is distinct.

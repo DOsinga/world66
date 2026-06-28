@@ -9,6 +9,7 @@ tags:
 - nature
 snippet: "Sandbar that vanished beneath the rising sea — a stark climate-change landmark"
 story: "Within living memory Bikeman was a small vegetated islet where locals used to picnic. By the early 2000s it had been reduced to a submerged sandbar visible only at low tide, one of the most-quoted physical examples of what rising seas mean for low-lying atoll nations."
+score: 5.9
 ---
 
 Half an hour by canoe northeast of Betio lies what is left of Bikeman Island, a sandbar that was once a vegetated islet large enough for picnics and now appears only as a pale patch in the lagoon at low tide. It is regularly cited as one of the clearest local examples of sea-level rise affecting Kiribati, and a sobering counterpoint to the country's tourist literature.

@@ -12,6 +12,7 @@ story: >
   wooden wedge used to elevate the breech of a cannon, which the island's
   triangular silhouette closely resembles when seen from a ship deck. The
   British kept the name in translation as Gunner's Quoin.
+score: 8.1
 ---
 
 The most striking landmark on Mauritius's northern horizon — a sheer-sided wedge of basalt rising 165 metres from the sea, visible from anywhere along the Grand Baie coast. The island is uninhabited, designated a nature reserve in 1951, and you cannot land on it: nesting white-tailed tropicbirds and a population of skinks make it off-limits.

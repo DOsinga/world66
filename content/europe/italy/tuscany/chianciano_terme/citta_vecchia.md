@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.0613
 longitude: 11.8313
+score: 6.8
 ---
 
 The old hilltop town above the modern spa district is worth a half-hour stroll. The medieval streets are quiet compared to the terma-town below, with a Romanesque church, a small local museum, and views across the Val di Chiana that stretch toward Montepulciano on a clear day.

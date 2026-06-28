@@ -7,6 +7,7 @@ tags:
 latitude: 13.938500
 longitude: 121.162000
 snippet: "Enclosed Carmelite convent at the centre of the 1948 Marian apparition story, still an active pilgrimage site"
+score: 6.6
 ---
 
 The Carmelite Monastery of the Most Holy Trinity in central Lipa is the site of the famous 1948 apparitions, when a novice named Teresita Castillo reported visions of the Virgin Mary and rose petals bearing miraculous images fell in the convent grounds. The events drew enormous crowds at the time and remain a subject of active Catholic devotion in the Philippines.

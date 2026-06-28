@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.6260
 longitude: -124.0530
+score: 7.4
 ---
 
 The Yaquina Bay Bridge is the most photographed structure in Newport, a 1936 arch-and-truss span by Oregon's master bridge engineer Conde McCullough. It carries US-101 across the bay's mouth in a single dramatic 600-foot main arch flanked by smaller arches stepping down to either bank.

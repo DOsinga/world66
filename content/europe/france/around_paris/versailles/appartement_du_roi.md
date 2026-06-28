@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80472
 longitude: 2.12047
+score: 8.9
 ---
 
 The Grand Appartement du Roi is the suite of seven state rooms that Louis XIV used for formal occasions in the first decades of the palace. Each room is dedicated to a planet and its corresponding Roman deity — Venus, Diana, Mars, Mercury, Jupiter, Saturn, and finally Apollo, the Sun God with whom Louis most closely identified himself. The ceilings were painted by Charles Le Brun and his workshop with scenes from classical mythology illustrating the virtues of the king.

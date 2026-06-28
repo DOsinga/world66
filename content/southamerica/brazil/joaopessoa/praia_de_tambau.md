@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 6.5
 ---
 
 Tambaú is João Pessoa's main beach strip — a wide arc of sand backed by a seafront promenade, hotels, restaurants, and the landmark Tambaú Hotel, a circular modernist building that juts out into the sea and has become one of the city's most recognisable images. The beach is accessible, well-served by buses from the Lagoa, and lively in the evenings when families and couples come out to eat at the kiosks along the orla.

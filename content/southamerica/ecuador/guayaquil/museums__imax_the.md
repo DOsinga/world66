@@ -6,6 +6,7 @@ tags:
 - museum
 title: Malecón 2000 Museums and IMAX
 type: poi
+score: 6.1
 ---
 
 The Malecón 2000 boardwalk complex includes several cultural institutions at its southern end: a natural history museum, the Naim Museum of Archaeology with a strong pre-Columbian collection, and an IMAX cinema. The cluster of buildings serves as an entertainment and educational anchor for the southern stretch of the riverfront promenade.

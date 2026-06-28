@@ -16,6 +16,7 @@ story: >
 sources:
   - https://www.wikidata.org/wiki/Q5953247
   - https://military-history.fandom.com/wiki/Fujairah_Fort
+score: 7.7
 ---
 
 Fujairah Fort is one of the oldest and largest forts in the UAE, perched on a rocky hill about two kilometres north of the city centre. The mud-brick structure dates to around the 16th century and served as the seat of the ruling Al Sharqi family for hundreds of years. From the hilltop, you can see across the date palm gardens of the old town toward the Gulf of Oman and the Hajar Mountains beyond — a view that makes it obvious why this particular hill was chosen.

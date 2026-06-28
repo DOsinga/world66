@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mauritius_Moka-Range-from-
 latitude: -20.252139
 loc_type: city
 longitude: 57.587224
-score: 0.48
+score: 7.21
+snippet: Mauritian plateau district below the Moka Range, centered on Eureka's Creole
+  colonial mansion.
 title: Moka
 type: location
 ---

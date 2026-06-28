@@ -7,6 +7,7 @@ tags:
 latitude: 34.0089
 longitude: -118.4992
 snippet: "A small hands-on aquarium under the pier focused on the Santa Monica Bay ecosystem"
+score: 6.2
 ---
 
 The Heal the Bay Aquarium sits beneath the Santa Monica Pier and focuses specifically on the marine environment of Santa Monica Bay. The touch tanks allow visitors to handle sea stars, hermit crabs, and urchins, and the exhibits explain the ecosystems of kelp forests and sandy-bottom habitats. The scale is small — this is not an oceanarium — but the focus is genuine and the staff are knowledgeable.

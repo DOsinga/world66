@@ -13,6 +13,7 @@ story: >
   Fo Guang Shan Buddhist order from Taiwan in the 1990s, and is designed to be
   entirely self-sufficient — it has its own vegetarian restaurant, guesthouse, and
   museum, so visitors can spend a day here without leaving the grounds.
+score: 8.8
 ---
 
 Nan Tien Temple is the largest Buddhist temple in the Southern Hemisphere, a striking complex of traditional Chinese architecture set on a hillside in Berkeley, about 10 kilometres south of the Wollongong city centre. The temple was consecrated in 1995 by the Fo Guang Shan order, which runs Buddhist institutions across Asia, Europe, and the Americas.

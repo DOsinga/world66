@@ -10,6 +10,7 @@ tags:
 title: Tam-awan Village
 type: poi
 url: tam-awan.com
+score: 8.2
 ---
 
 Tam-awan is the brainchild of Baguio artist Chanum Tabunan and writer Doc Ben Tabunan, who in 1998 began transporting traditional huts from remote villages in the Cordillera mountains and reassembling them on a wooded hillside in north Baguio. The result is a working village of nine authentic Ifugao and Kalinga houses, arranged along bamboo trails through pine and bougainvillea.

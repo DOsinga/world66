@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 Palazzo della Rovere is one of Savona’s great Renaissance reminders, tied to the same family that produced popes Sixtus IV and Julius II. Its scale feels almost oversized for the modern city, which is exactly the point: Savona once had ambitions far beyond being a ferry and cruise port.

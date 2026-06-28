@@ -9,6 +9,7 @@ tags:
   - nature
 title: Montaña Chayofita
 type: poi
+score: 6.7
 ---
 
 Montaña Chayofita is the small volcanic cone between Los Cristianos and Las Américas. It is not high, but in a flat resort landscape even a modest climb changes everything: suddenly the hotels, beaches, harbour, and dry southern hills fall into place.

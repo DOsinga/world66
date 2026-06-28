@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 49.7472
 longitude: 13.3770
+score: 6.7
 ---
 
 Pivnice Prazdroj is a traditional Czech pub a few steps from Republic Square, the kind of place where you can drink a well-kept Pilsner Urquell without the tourist prices of the brewery restaurant. The interior is dark wood, long tables, and the smell of hops — nothing has changed here in decades and that is the whole point.

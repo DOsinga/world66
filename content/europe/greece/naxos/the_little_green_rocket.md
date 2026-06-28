@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 37.1051
 longitude: 25.3742
+score: 5.4
 ---
 
 The waterfront promenade of Hora is lined with tavernas catering almost entirely to the steady stream of ferry arrivals and day visitors. The quality is what you would expect from restaurants operating in that position: adequate, consistent, and priced for people who won't return. Fish and seafood are expensive and sometimes frozen despite the descriptions on the menu; salads and grilled meat are more reliably done. The view across the harbour to the Portara is the attraction, and nobody is pretending otherwise.

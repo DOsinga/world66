@@ -7,6 +7,7 @@ tags:
 - sight
 title: Minor Basilica of Our Lady of Sorrows
 type: poi
+score: 7.5
 ---
 
 The Basílica Menor Nossa Senhora das Dores — Our Lady of Sorrows — is the oldest church in Porto Alegre still in its original location, with construction beginning in 1807 and the building reaching essentially its current form by the mid-19th century. It is a handsome colonial structure with a white facade and twin towers, sitting on a slight rise a few streets south of Praça da Matriz. Compared to the grand metropolitan cathedral nearby, it is smaller and more intimate, and its colonial character is better preserved.

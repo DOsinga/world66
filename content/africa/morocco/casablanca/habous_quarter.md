@@ -13,6 +13,7 @@ story: The Habous Quarter was built by the French in the 1930s to house the trad
   from scratch, purpose-built in traditional style. The result is neater and less
   chaotic than a real medina, which some find charming and others find inauthentic,
   but the craftsmanship in the buildings is genuine.
+score: 7.8
 ---
 
 The Habous Quarter, or New Medina, was constructed in the 1930s as the French Protectorate administration tried to reconcile urban expansion with the preservation of traditional Moroccan commercial life. Architects designed the quarter from scratch in a Moroccan vernacular style: whitewashed buildings, arcaded streets, zellige-tiled interiors, and a grid layout that is slightly more navigable than a genuinely historic medina.

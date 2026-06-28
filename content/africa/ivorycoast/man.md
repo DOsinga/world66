@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
 latitude: 7.410258
+loc_type: city
 longitude: -7.550372
+score: 5.69
+snippet: Western Ivory Coast town backed by lush green hills, waterfalls, sacred forest,
+  and mountain villages
 title: Man
 type: location
-score: 0.32
-loc_type: city
 ---
 
 Man itself is not a particularly beautiful town, but the lush green hills surrounding it make it one of the more rewarding destinations in western Ivory Coast.

@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: 5 Star Saloon
 type: poi
+score: 5.5
 ---
 
 A no-frills dive bar on West Street in downtown Reno that has been a local fixture for years. The setup is simple: pool tables, a jukebox, cheap drinks, and a rotating lineup of live bands and DJs on weekends. The crowd is friendly and unpretentious, and the place is open 24 hours with no cover charge — making it a reliable late-night option when the casino bars start to feel sterile.

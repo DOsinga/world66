@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.2
 ---
 
 Kampung Arab Al-Munawar is a small Hadrami Arab quarter on the south bank of the Musi River, a short ojek ride from the southern end of the Ampera Bridge. The settlement was founded in the eighteenth century by Yemeni traders, and a tight cluster of around fifteen traditional wooden Limas houses around the original mosque survives almost intact.

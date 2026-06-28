@@ -14,6 +14,7 @@ story: >
   and North Africa. The Songhai conquest in 1515 ended its golden age, and it has never 
   quite recovered its regional dominance, which is part of why the city has changed so 
   little since.
+score: 9.3
 ---
 
 The old city of Agadez is a UNESCO World Heritage Site (inscribed 2013) and one of the best-preserved medieval Saharan settlements on the continent. The streets are narrow enough to provide shade for most of the day, lined with compounds whose exterior walls give nothing away — the life of the city is entirely interior, hidden behind doors in unmarked mud-brick walls. Without a guide, navigation is disorienting by design.

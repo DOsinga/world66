@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.2078
 longitude: -97.4456
+score: 8.7
 ---
 
 The Bizzell is the centrepiece of the OU campus and the most photographed building in Norman — a five-storey, Cherokee Gothic library of brick and limestone, completed in 1929 to designs by Joseph Foucart with later wings by Layton, Hicks & Forsyth. The Great Reading Room on the second floor is one of the best public-university interiors in the United States, with a vaulted plaster ceiling, oak panelling, and tall arched windows.

@@ -7,6 +7,7 @@ tags:
 latitude: 43.2762
 longitude: 11.9840
 story: "Fra Angelico spent five years in Cortona as a young Dominican friar in the 1430s. His Annunciation, painted here around 1434, is the centrepiece of the Diocesan Museum: a small panel where the angel Gabriel and the Virgin are framed by a slender colonnade and a paradise garden full of identifiable Tuscan plants."
+score: 8.5
 ---
 
 The Museo Diocesano, across the small square from the cathedral, is a small museum of astonishing quality for a town of this size. The collection includes Fra Angelico's Annunciation and a Madonna and Child, Pietro Lorenzetti's Crucifixion, and works by the local Renaissance painter Luca Signorelli.

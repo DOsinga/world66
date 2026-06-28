@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6615
 longitude: 116.9864
+score: 7.5
 ---
 
 Jinan's Catholic Cathedral on Shoulu Street is a Gothic Revival structure built by Italian missionaries in the early twentieth century, with the distinctive twin towers and pointed arches of the style rendered in local brick. The church is still in active use by Jinan's Catholic community and is open to visitors outside Mass times.

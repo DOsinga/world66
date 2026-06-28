@@ -7,6 +7,7 @@ tags:
 - beaches
 title: Cala Salada
 type: poi
+score: 8.4
 ---
 
 A beautiful sheltered cove on Ibiza's western coast, about 5 km north of Sant Antoni. Pine-covered cliffs frame a small sandy beach with shallow turquoise water that's calm enough for children. A short scramble over the rocks to the north leads to Cala Saladeta, a smaller and quieter neighbor with even clearer water.

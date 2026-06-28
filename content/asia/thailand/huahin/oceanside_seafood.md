@@ -1,5 +1,8 @@
 ---
+latitude: 12.5792
+longitude: 99.9604
 phone: 032-531-470
+score: 4.9
 tags:
 - eating_out
 - restaurant

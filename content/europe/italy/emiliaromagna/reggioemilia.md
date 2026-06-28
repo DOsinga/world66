@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Reggio_nell'Emilia_aerial_
 latitude: 44.699
 loc_type: city
 longitude: 10.6311
+score: 7.96
+snippet: Po Valley city where Italy's tricolour was adopted, with interlocking piazzas
+  and quiet civic grandeur
 sources:
 - https://en.wikipedia.org/wiki/Reggio_Emilia
 - https://en.wikivoyage.org/wiki/Reggio_Emilia

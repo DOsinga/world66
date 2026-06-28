@@ -12,6 +12,7 @@ story: >
   The Généreux Baths, built in 1927, were the most architecturally ambitious public bathhouse in Quebec — a cathedral of hygiene for a working-class neighbourhood that had no private bathtubs. The Art Deco interior, with its marble columns and vaulted ceiling, was considered scandalously expensive at the time. When the bathhouse closed in 1993, local activists fought to save it and convert it into a museum of working-class history. The result is a museum whose building is inseparable from its subject.
 sources:
   - https://en.wikipedia.org/wiki/%C3%89comus%C3%A9e_du_fier_monde
+score: 7.5
 ---
 
 The Écomusée du fier monde occupies the former Généreux public baths in the Centre-Sud neighbourhood — an extraordinary 1927 Art Deco building that once served the working-class families of the area who had no private bathtubs at home. The interior is as beautiful as any church: marble columns, mosaic tile floors, and a magnificent vaulted ceiling over the main pool hall, which has been converted into the museum's exhibition space.

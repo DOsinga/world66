@@ -1,0 +1,200 @@
+{
+  "round": 3108,
+  "timestamp": "2026-06-13T22:29:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 9.487,
+      "prior_variance": 0.241533,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 3.633,
+      "prior_variance": 0.138399,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 3.9558,
+      "prior_variance": 0.156584,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 3.731,
+      "prior_variance": 0.147999,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 4.2039,
+      "prior_variance": 0.156702,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 2.3021,
+      "prior_variance": 0.141762,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Chengyang",
+      "path": "asia/china/guangxi/chengyang",
+      "prior_score": 1.7687,
+      "prior_variance": 0.156636,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -1.2226,
+      "prior_variance": 0.144721,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -0.3571,
+      "prior_variance": 0.152784,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -2.708,
+      "prior_variance": 0.128034,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Narayangarh",
+      "path": "asia/nepal/narayangarh",
+      "prior_score": -4.1617,
+      "prior_variance": 0.144264,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.4619,
+      "prior_variance": 0.138454,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -3.2029,
+      "prior_variance": 0.132153,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -4.0111,
+      "prior_variance": 0.139315,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/wairoa",
+      "prior_score": -3.4366,
+      "prior_variance": 0.132049,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -5.24,
+      "prior_variance": 0.201147,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -6.352,
+      "prior_variance": 0.201216,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -4.6453,
+      "prior_variance": 0.207573,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_score": -5.9256,
+      "prior_variance": 0.254819,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -5.2696,
+      "prior_variance": 0.136867,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -4.6026,
+      "prior_variance": 0.130189,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -3.7169,
+      "prior_variance": 0.162072,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -3.9962,
+      "prior_variance": 0.156422,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -5.5404,
+      "prior_variance": 0.230639,
+      "prior_n": 9
+    }
+  ]
+}

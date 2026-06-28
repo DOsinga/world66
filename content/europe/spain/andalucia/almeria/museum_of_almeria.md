@@ -8,6 +8,7 @@ latitude: 36.8373
 longitude: -2.4489
 sources:
   - https://www.museosdeandalucia.es/web/museodealmeria
+score: 7.6
 ---
 
 The Museum of Almería is the best place to understand the province before heading out to its archaeological landscapes. The displays are especially strong on prehistoric cultures from southeast Spain, including the Copper Age societies that flourished in the dry valleys around the city.

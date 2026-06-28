@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kicevo_11-08-2006.jpg
 latitude: 41.5089
 loc_type: city
 longitude: 20.9585
-score: 0.34
+score: 5.85
+snippet: Mountain town in western North Macedonia, set where the Treska and Kičevska
+  rivers meet.
 title: Kičevo
 type: location
 ---

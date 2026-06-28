@@ -7,6 +7,7 @@ tags:
 latitude: 28.6450
 longitude: 77.3650
 snippet: Modern Krishna temple in Indirapuram with daily aartis and a free meal hall
+score: 5.5
 ---
 
 The Ghaziabad branch of the International Society for Krishna Consciousness, on the southern side of Indirapuram. A modern marble temple with bright pastel murals of Krishna and Radha, daily aarti services (especially crowded for the evening sandhya aarti around 7pm) and a free vegetarian meal hall (Govinda) that anyone can join.

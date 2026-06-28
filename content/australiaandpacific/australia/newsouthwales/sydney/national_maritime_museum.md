@@ -9,6 +9,7 @@ latitude: -33.8694
 longitude: 151.1990
 sources:
   - https://en.wikipedia.org/wiki/Australian_National_Maritime_Museum
+score: 7.6
 ---
 
 The National Maritime Museum sits at Darling Harbour with a working waterfront of historic vessels moored alongside. Inside, the galleries cover Australia's relationship with the sea from the First Nations' bark canoes to the America's Cup. The most unusual exhibit is HMAS Onslow, a decommissioned Royal Australian Navy submarine you can crawl through — a claustrophobic but fascinating experience.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 52.3936
 longitude: 13.0685
+score: 6.8
 ---
 
 The Havel Lakes around Potsdam can be explored by passenger ferry and tour boat, giving a completely different perspective on the city's royal landscape. White Line and other operators run regular services between the city centre, Babelsberg, Wannsee, and the Schwielowsee — a chain of interconnected lakes stretching south of Potsdam. The ferries operate on scheduled routes that function as a waterborne transit system, and it is possible to board at one landing stage and disembark at another for a walk through the parks.

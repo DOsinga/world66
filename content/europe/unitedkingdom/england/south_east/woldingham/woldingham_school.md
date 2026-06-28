@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Woldingham School and Marden Park
 type: poi
+score: 5.8
 ---
 
 The Woldingham School campus occupies Marden Park, a Victorian Gothic mansion with 700 acres of grounds south of the village. The building and estate are not open to the general public except during specific events, but the paths through Marden Park woodland are accessible to walkers following established rights of way. The combination of Victorian architecture glimpsed through mature beech trees makes for an atmospheric walk. The grounds contain some of the oldest chalk downland in Surrey's private hands, with significant populations of downland wildflowers in the managed clearings.

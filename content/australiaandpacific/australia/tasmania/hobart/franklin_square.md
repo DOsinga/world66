@@ -10,6 +10,7 @@ tags:
   - sight
   - park
 snippet: "Oak-shaded central public square with a statue of Sir John Franklin in the middle of an ornamental pond"
+score: 5.8
 ---
 
 A small but characterful square in the heart of the CBD, laid out in the 1860s on the site of the original Government House. Mature **English oaks** shade the lawns, and the centrepiece is an 1860 bronze statue of **Sir John Franklin**, the Tasmanian governor turned Arctic explorer who died in 1847 looking for the Northwest Passage. Franklin stands on a stone pedestal in the middle of an ornamental pond filled with carp.

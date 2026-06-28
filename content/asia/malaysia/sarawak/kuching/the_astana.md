@@ -6,6 +6,7 @@ latitude: 1.5636
 longitude: 110.3456
 story: >
   The Astana was built in 1870 as a wedding present from Charles Brooke to his wife Margaret, and is now the official residence of the Yang di-Pertua Negeri — the Governor of Sarawak. The same building has served as the seat of power in Sarawak since the Brooke era, a remarkable continuity that gives it a different kind of historical weight than most colonial buildings in Southeast Asia.
+score: 5.9
 ---
 
 The Astana — "palace" in Malay — is a white-painted mansion on the north bank of the Sarawak River, visible from the waterfront esplanade and one of the most photographed buildings in Kuching. It was built in 1870 by Charles Brooke, the second White Rajah, as a residence for himself and his wife Margaret. The building is still in use as the official residence of the Governor of Sarawak and is not open to the public.

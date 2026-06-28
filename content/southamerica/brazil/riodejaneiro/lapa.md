@@ -1,14 +1,18 @@
 ---
-title: Lapa
-type: neighbourhood
-snippet: Rio's nightlife and samba heartland, centred on the Arcos da Lapa (the Lapa aqueduct)
-tags:
-  - things_to_do
-  - neighbourhood
+image: lapa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:At_Rio_de_Janeiro_2019_125.jpg
 latitude: -22.9148
 longitude: -43.1841
+snippet: Rio's nightlife and samba heartland, centred on the Arcos da Lapa (the Lapa
+  aqueduct)
 sources:
-  - https://en.wikipedia.org/wiki/Lapa,_Rio_de_Janeiro
+- https://en.wikipedia.org/wiki/Lapa,_Rio_de_Janeiro
+tags:
+- things_to_do
+- neighbourhood
+title: Lapa
+type: neighbourhood
 ---
 
 Lapa is Rio's most distinctive neighbourhood for nightlife, a cluster of old buildings and cobblestone streets centred on the 18th-century Arcos da Lapa — a massive stone aqueduct whose arches now carry the Santa Teresa tram. On Friday and Saturday nights the neighbourhood becomes one of the largest open-air parties in the world, with samba and choro spilling out of the clubs and bars into the streets.

@@ -16,6 +16,7 @@ story: >
   of shallow lagoons forms at their base, attracting flocks of pink flamingos.
   Locals come on weekends to slide down the slopes on sandboards and bathe in
   the lagoons.
+score: 8.0
 ---
 
 The Lomas de Arena is the closest natural escape from Santa Cruz, and one of the strangest landscapes anywhere in the lowlands. Walls of pale sand rise dozens of metres above the surrounding savanna, with patches of dry forest, lagoons, and grassland in between. The dunes shift visibly from year to year as the wind pushes them across the park.

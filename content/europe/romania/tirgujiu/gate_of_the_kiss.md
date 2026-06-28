@@ -8,6 +8,7 @@ snippet: "Brâncuși's travertine triumphal arch inscribed with kiss motifs, in 
 latitude: 45.0413
 longitude: 23.2737
 story: "The kiss motif that covers the Gate's columns appears in Brâncuși's work as early as 1907 — his marble sculpture 'The Kiss' in the Montparnasse Cemetery in Paris uses the same elemental, compressed image. The Gate multiplies this symbol across an architectural scale: two half-circles on every column face, representing the union of two people, stacked in repeating bands up the full height."
+score: 8.9
 ---
 
 The Gate of the Kiss stands at the western end of the park that forms the middle section of the Calea Eroilor ensemble. It is a triumphal arch in travertine marble from Bâmpotoc, 6.45 metres wide and 5.13 metres tall, with every surface covered in the same compressed kiss motif — two half-circles joined, repeated like a frieze across the columns and lintel.

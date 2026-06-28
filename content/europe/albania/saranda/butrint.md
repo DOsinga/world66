@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Butrint
 type: poi
+score: 9.5
 ---
 
 A UNESCO site on a wooded peninsula 18 kilometres south of Saranda — one of the most complete ancient cities in the Balkans. Greek, Roman, Byzantine, and Venetian remains, all on one short walking loop: the amphitheatre, the basilica, the baptistery mosaic (usually covered for protection), the Venetian triangular fortress on the hill. An archaeological park in a national park — set aside three hours.

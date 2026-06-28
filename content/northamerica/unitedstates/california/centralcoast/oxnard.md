@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Carneige_Art_Museum_2,_Oxn
 latitude: 34.197631
 loc_type: city
 longitude: -119.180381
-score: 0.38
+score: 6.41
 title: Oxnard
 type: location
+snippet: Ventura County port city with broad uncrowded beaches and a working Channel
+  Islands harbour.
 ---
 
 Oxnard is a working-class port city on the Ventura County coast, better known among locals than tourists — which is part of its appeal. The coastline here is genuinely impressive: broad sandy beaches at [Hollywood Beach and Silver Strand](/northamerica/unitedstates/california/centralcoast/oxnard/hollywood_beach) stretch for miles without the crowds of Malibu or Santa Barbara. Behind them, [Channel Islands Harbor](/northamerica/unitedstates/california/centralcoast/oxnard/channel_islands_harbor) gives the town its character, a proper working harbor where fishing boats share the water with kayakers and whale-watching charters.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 4.7
 ---
 
 The Yunnan Ethnic Village is a 90-hectare theme park on the eastern shore of Dianchi Lake, opened in 1992 and slowly expanded since. It recreates traditional villages and architecture for 26 of the province's ethnic minorities — Naxi water mills, Dai bamboo houses, Tibetan stone fortresses, Bai courtyards, Wa long houses — across a landscaped lakefront site.

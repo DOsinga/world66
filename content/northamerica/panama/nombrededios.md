@@ -5,9 +5,11 @@ done:
 latitude: 9.5634
 loc_type: city
 longitude: -79.4693
-score: 0.4
+score: 6.6
 title: Nombre de Dios
 type: location
+snippet: Afro-Caribbean village with early Spanish colonial history as the Camino
+  Real's Caribbean terminus.
 ---
 
 Nombre de Dios is not big, nor particularly exciting — but it has history layered deep beneath its sleepy surface. This was one of the first Spanish settlements on the American mainland, founded in 1510, and for decades served as the Caribbean terminus of the [Camino Real](/northamerica/panama/nombrededios/camino_real_terminus): not a canal, but a punishing overland route of rivers and jungle paths used to haul Peruvian gold and silver to waiting ships. The town was raided by Sir Francis Drake in 1572 and eventually abandoned in favour of [Portobelo](/northamerica/panama/portobelo) down the coast.

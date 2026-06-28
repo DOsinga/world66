@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 7.3500
 longitude: 99.2333
+score: 8.4
 ---
 
 Ko Kradan sits inside Hat Chao Mai National Park and is one of the most beautiful islands in the province — a slim finger of land surrounded by coral reefs with water so clear that the reef is visible from the beach. There are no roads and no large resorts: a handful of simple bungalow operations and the national park accommodation are the only options.

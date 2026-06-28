@@ -11,8 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Early_morning_view_across_
 latitude: 51.619596
 loc_type: city
 longitude: -3.945925
-score: 0.46
+score: 7.11
 title: Swansea
+snippet: Welsh port city on Swansea Bay, balancing industrial edges with the beaches
+  and cliffs of nearby Gower.
 type: location
 ---
 

@@ -7,6 +7,7 @@ tags:
 address: "2400 Trinity St"
 latitude: 30.2869
 longitude: -97.7374
+score: 6.9
 ---
 
 The Texas Memorial Museum on the UT campus is a natural history museum with a focus on Texas's geology, paleontology, and wildlife. The building, a WPA-era Art Deco structure from 1939, is worth seeing for its architecture alone: the grand hall and exterior ornamentation are impressively scaled. Inside, the fossil collections are the highlight — Texas's geological history has produced an extraordinary array of dinosaur and Pleistocene megafauna remains.

@@ -8,6 +8,7 @@ latitude: 26.0185
 longitude: 76.4970
 sources:
   - https://en.wikipedia.org/wiki/Ranthambore_National_Park
+score: 8.3
 ---
 
 The Raj Bagh Ruins are the skeletal remains of a royal summer pavilion, now standing half-drowned in the shallows of Padam Talao. Banyan trees have taken over the walls, their roots embracing the stonework in a decades-long slow demolition. Crocodiles sun themselves on the flooded steps; tigers have been photographed walking through the broken doorways.

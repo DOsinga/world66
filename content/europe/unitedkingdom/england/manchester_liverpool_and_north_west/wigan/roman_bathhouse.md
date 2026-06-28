@@ -11,6 +11,7 @@ story: >
   coins, and the remains of a bathhouse. A reconstructed section of the bathhouse
   — with its hypocaust underfloor heating system — has been built into the Galleries
   shopping centre, an unlikely but genuinely interesting collision of eras.
+score: 6.8
 ---
 
 Beneath the unremarkable streets of Wigan town centre lies a Roman past that most visitors — and many locals — are unaware of. The Roman settlement of Coccium occupied this location from the first to the fourth centuries AD, and excavations over the decades have found substantial evidence of occupation including a bathhouse complex.

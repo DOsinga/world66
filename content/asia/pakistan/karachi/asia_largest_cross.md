@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The cross at Gora Qabristan is reportedly bulletproof — a practical requirement in a city where religious minority sites have been attacked, and a detail that says something sharp about what it means to be a Christian in Karachi. The cemetery itself is one of the oldest in the city, predating partition, and contains the graves of British soldiers and administrators from the colonial era alongside Pakistani Christian graves from the decades since independence. It is the only major operational Christian cemetery still functioning in the city."
+score: 6.5
 ---
 
 Gora Qabristan — the 'white people's cemetery,' a name that persists from the British colonial period despite its jarring quality — is a historic Christian cemetery in Karachi that contains the remains of British soldiers, colonial administrators, and Pakistani Christians across several decades of history. The cemetery's most visible feature is a giant white cross said to be the largest in Asia, erected in recent years as a statement of presence by the city's Christian minority community.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Limestone cave with a Shiva shrine and an underground view of Davis Falls
+score: 7.4
 ---
 
 A long limestone cave directly across the road from [Davis Falls](/asia/nepal/pokhara/davis_falls), descended by a steep staircase to a small Shiva lingam shrine in the antechamber, then continuing 100 metres deeper to a window on the river thundering through the cavern from above. The cave-and-falls combination is the only place in Nepal where you can stand under a waterfall that is disappearing into rock.

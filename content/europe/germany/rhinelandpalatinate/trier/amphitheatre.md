@@ -14,6 +14,7 @@ story: >
   The underground chambers are still accessible — walking through them, past the
   openings for animal cages and the channels for the drainage of blood, is one of
   the more sobering Roman experiences Germany offers.
+score: 8.6
 ---
 
 Built around AD 100 and capable of holding 20,000 spectators, Trier's Roman Amphitheatre lies just beyond the medieval city wall. The arena itself is remarkably intact — the protective perimeter wall, the arched entrance, and the underground service level all survive. The stone seating was dismantled for building material in the 13th century, but the acoustics are still exceptional: the amphitheatre is used for open-air concerts today.

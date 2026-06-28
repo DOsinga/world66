@@ -1,13 +1,15 @@
 ---
-title: Frankie's Tiki Room
-type: poi
 address: 1712 W Charleston Boulevard
 latitude: 36.1588
 longitude: -115.1746
-snippet: "The only 24-hour tiki bar in the world"
+score: 8.2
+snippet: The only 24-hour tiki bar in the world
 tags:
 - bars_and_cafes
 - bar
+- the_strip
+title: Frankie's Tiki Room
+type: poi
 ---
 
 Frankie's Tiki Room is exactly the kind of bar you want to find in Las Vegas: dim, weird, and open 24 hours. The interior was designed by tiki royalty Bamboo Ben and packs decades of mid-century tropical kitsch into a small room — black-light puffer-fish lamps, carved tiki figures, lava-rock walls, and a thatched ceiling, all sealed against the desert sun.

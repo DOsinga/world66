@@ -1,9 +1,14 @@
 ---
 address: 1 Palm Drive, New Orleans LA, 70124
 email: info@nocp.org
+latitude: 29.9869
+longitude: -90.098
 phone: 504-482-4888
+score: 7.8
 tags:
 - things_to_do
+- sight
+- park
 title: New Orleans City Park
 type: poi
 url: www.neworleanscitypark.com

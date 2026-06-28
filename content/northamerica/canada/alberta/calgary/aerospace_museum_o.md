@@ -7,6 +7,7 @@ tags:
 snippet: "Historic aircraft and Canadian aviation pioneers"
 title: Aero Space Museum of Calgary
 type: poi
+score: 6.6
 ---
 
 A museum dedicated to the history of aviation in Alberta and Canada, with a collection of historic aircraft and displays on the pioneers of Canadian flight. Located near the former Barlow/Hardie airfield in northeast Calgary.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.2980
 longitude: 7.6725
+score: 7.9
 ---
 
 Altena's German Wire Museum tells the story of one of Germany's most unexpected industrial specialisations — the production of fine wire. The Märkisches Sauerland became the centre of European wire-drawing in the medieval period, when craftsmen discovered that the region's abundant water power could drive the draws and stamps needed to pull metal rods into ever-finer gauges. By the 19th century, Altena wire was going into piano strings, telegram cables, and surgical instruments around the world.

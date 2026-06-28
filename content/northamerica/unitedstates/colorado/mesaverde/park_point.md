@@ -9,6 +9,7 @@ tags:
 - nature
 title: Park Point Overlook
 type: poi
+score: 6.6
 ---
 
 Park Point Overlook is part of the larger Mesa Verde story, where architecture, farming, water, and movement through canyon country all mattered. Look beyond the drama of the alcoves: the masonry, ventilation, storage rooms, and paths tell you how carefully people understood this landscape.

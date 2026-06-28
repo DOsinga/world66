@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.8089
 longitude: 130.7032
+score: 7.0
 ---
 
 The municipal museum sits beneath the castle's northern walls and gives a clear, well-laid-out introduction to Kumamoto's history, archaeology, and natural environment. Highlights include a planetarium under a small dome, a section on the Aso volcanic plateau, and a long display on the 2016 earthquake that gutted the castle.

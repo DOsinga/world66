@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Skyscrapers_in_Limassol.jp
 latitude: 34.68529
 loc_type: city
 longitude: 33.033266
-score: 0.65
+score: 8.51
+snippet: Southern Cypriot port city with a seafront promenade and a medieval core
+  around Limassol Castle.
 title: Limassol
 type: location
 ---

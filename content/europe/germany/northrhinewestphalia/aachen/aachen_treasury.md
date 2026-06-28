@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: One of Europe's finest collections of medieval sacred art, next to the Dom
+score: 9.1
 ---
 
 The Treasury of Aachen Cathedral — the Domschatzkammer — holds one of the most important collections of medieval sacred art north of the Alps. The highlights are Charlemagne's personal relics: his hunting horn (a carved Byzantine ivory), the Cross of Lothair (a 10th-century processional cross encrusted with gems and cameos), a gilded bronze equestrian statue of the emperor, and the Shrine of Charlemagne, a gold reliquary in the shape of a miniature cathedral that contains the emperor's skull and arm bones.

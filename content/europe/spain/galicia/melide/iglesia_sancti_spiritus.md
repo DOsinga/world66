@@ -7,6 +7,7 @@ snippet: A 14th-century Gothic-Romanesque church on the central square
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Iglesia de Sancti Spiritus is the principal church of Melide, built in the 14th century in a transitional Romanesque-Gothic style. The exterior is plain — a single nave, a low bell tower, a south porch — but the interior holds a remarkable late-Gothic main altarpiece and a series of polychrome wooden saints that were brought down from the older Romanesque chapel of San Pedro when that was deconsecrated in the 18th century.

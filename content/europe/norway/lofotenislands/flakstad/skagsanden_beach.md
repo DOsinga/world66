@@ -8,6 +8,7 @@ tags:
 title: Skagsanden Beach
 type: poi
 snippet: "Long sweep of fine white sand at Ramberg, popular with surfers and photographers"
+score: 8.2
 ---
 
 Skagsanden is the long, gently curving beach in front of Ramberg, one of the most accessible and photographed beaches in Lofoten. The sand is unusually fine and pale for the latitude, and the shallow shoreline catches reflections of the surrounding mountains at low tide — a favourite setup for landscape photographers chasing sunrise or sunset.

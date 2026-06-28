@@ -19,6 +19,7 @@ story: >
   had won. Francisco de Montejo el Mozo, who commissioned the façade, was
   the son of the conquistador who founded Mérida; the figures with the
   conquistador helmets are believed to be portraits of both men.
+score: 8.5
 ---
 
 The Casa Montejo, occupying the southern face of the Plaza Mayor, was built in 1549 by Francisco de Montejo el Mozo, son of the founder of Mérida. It is the oldest surviving domestic colonial structure on the American mainland and is notable primarily for its extraordinary Plateresque façade — a dense relief carving in which armoured conquistadors stand on the heads of defeated Maya warriors, flanked by wild men and family crests. It is a confrontational piece of architecture that tells you exactly what the Spanish thought about their conquest.

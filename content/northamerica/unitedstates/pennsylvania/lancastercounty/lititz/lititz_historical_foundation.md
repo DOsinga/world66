@@ -7,6 +7,7 @@ tags:
 latitude: 40.1554
 longitude: -76.3023
 story: "Among the museum's strangest exhibits is a 19th-century clock built from over 50,000 individually carved pieces of wood — the work of a Lititz watchmaker who, having access to the spring water and the patience of the town, spent decades on it."
+score: 6.8
 ---
 
 The town museum, in the historic Johannes Mueller house on East Main Street, traces Lititz's history from the Moravian founding through the industrial era and into the recent designation as "America's Coolest Small Town" (Budget Travel, 2013) that brought it new attention. Period rooms, archival photographs, local crafts, and curiosities like the famous all-wood clock.

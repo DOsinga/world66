@@ -6,6 +6,7 @@ longitude: 9.7472
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Vorarlberger Landestheater is Bregenz's principal theatre for spoken drama, dance, and smaller musical productions — distinct from the Festival stage on the lake, which handles the big summer operas. The building sits close to the Kunsthaus and the Festspielhaus on the lakeside cultural strip, and the ensemble produces a full season of work from autumn through spring.

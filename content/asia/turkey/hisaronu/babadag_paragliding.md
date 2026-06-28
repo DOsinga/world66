@@ -13,6 +13,7 @@ story: >
   vertical drop down to the lagoon at sea level makes for a flight time of
   around forty minutes on a good day. The sport took off here in the early
   1990s and Oludeniz has hosted the annual Air Games every October ever since.
+score: 7.8
 ---
 
 Babadag, the cone-shaped mountain that dominates the view south from Hisaronu, is the launch site for what is widely regarded as one of the finest tandem paragliding flights anywhere in the Mediterranean. A new gondola, opened in 2021, lifts pilots and passengers from a base station above Oludeniz up to the summit ridge in under twenty minutes — eliminating what used to be a long, dusty van ride up unpaved switchbacks. From the top, three terraced launch pads at different altitudes let pilots pick the right wind window through the day.

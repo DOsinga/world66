@@ -7,11 +7,13 @@ image_attribution: Magnus Gertkemper
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Fuerth_Stadttheater_2.jpg
 latitude: 49.488571
+loc_type: city
 longitude: 10.95872
-score: 0.43
+score: 7.08
+snippet: Franconian city beside Nuremberg, known for independent character and Germany’s
+  first railway terminus
 title: Fürth
 type: location
-loc_type: city
 ---
 
 Fürth lives in the shadow of its bigger neighbour [Nuremberg](/europe/germany/bavaria/nuremberg), just seven kilometres to the east, but has its own distinct character. The two cities have grown together physically — the U1 U-Bahn connects them in 15 minutes — yet Fürth feels quieter, more residential, and proudly independent.

@@ -14,6 +14,7 @@ story: >
   suggests the estate was also a commercial hub. The complex survived into late
   antiquity — Byzantine-era finds show the site was still occupied in the 6th
   century AD, some five hundred years after the initial construction.
+score: 8.2
 ---
 
 The archaeological sites on Veli Brijun are among the best-preserved Roman remains in Croatia. The main complex, known as the Byzantine Castrum or Villa Rustica, dates from the first century BC and covers a large area on the southwestern part of the island. Visible remains include sections of mosaic floor, cisterns, a small harbour installation, and the walls of various residential and agricultural buildings.

@@ -1,56 +1,200 @@
 {
   "round": 702,
-  "timestamp": "2026-04-12T10:43:35",
+  "timestamp": "2026-06-13T19:49:25",
   "model": "claude-sonnet-4-6",
-  "batch_size": 6,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Honiara",
-      "path": "australiaandpacific/solomonislands/honiara",
-      "prior_mu": 22.6093,
-      "prior_sigma": 5.9097,
-      "prior_n": 1
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.9625,
+      "prior_variance": 0.579527,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Guadalcanal",
-      "path": "australiaandpacific/solomonislands/guadalcanal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 3.4755,
+      "prior_variance": 1.754989,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "New Georgia",
-      "path": "australiaandpacific/solomonislands/newgeorgia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 3.6721,
+      "prior_variance": 1.138748,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Santa Isabel",
-      "path": "australiaandpacific/solomonislands/santaisabel",
-      "prior_mu": 22.7942,
-      "prior_sigma": 5.716,
-      "prior_n": 1
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 3.228,
+      "prior_variance": 0.650006,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Malaita",
-      "path": "australiaandpacific/solomonislands/malaita",
-      "prior_mu": 20.1622,
-      "prior_sigma": 2.7082,
-      "prior_n": 6
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 3.5413,
+      "prior_variance": 0.854253,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Solomon Islands",
-      "path": "australiaandpacific/solomonislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 4.848,
+      "prior_variance": 0.667179,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 0.6585,
+      "prior_variance": 1.467198,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 3.7808,
+      "prior_variance": 0.646376,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.3245,
+      "prior_variance": 1.483641,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.5945,
+      "prior_variance": 0.861308,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 1.9577,
+      "prior_variance": 0.973556,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 3.031,
+      "prior_variance": 1.570346,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": 0.598,
+      "prior_variance": 0.608614,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": 2.581,
+      "prior_variance": 1.403957,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": 1.7463,
+      "prior_variance": 1.042336,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": 0.3125,
+      "prior_variance": 0.690706,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 3.0376,
+      "prior_variance": 0.629933,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": 2.5771,
+      "prior_variance": 1.496905,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": 2.2997,
+      "prior_variance": 0.642833,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": 2.0457,
+      "prior_variance": 1.3719,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 1.5164,
+      "prior_variance": 1.354921,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": 1.6525,
+      "prior_variance": 0.871634,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": 1.393,
+      "prior_variance": 0.867327,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": 0.0652,
+      "prior_variance": 0.846392,
+      "prior_n": 2
     }
   ]
 }

@@ -16,6 +16,7 @@ story: >
   across the western Mediterranean. The castle that stands today incorporates
   structures from this period, though what you see is largely a 16th-century
   Christian reconstruction on Moorish foundations.
+score: 8.5
 ---
 
 Dénia Castle sits on a rocky promontory above the old town and can be seen from almost everywhere in the surrounding area. The castle has been continuously occupied since Iberian times, through Roman, Moorish, and Christian periods, and the layers of history are visible in the fabric of the building — Moorish arches embedded in later Christian walls, Renaissance palace rooms, and medieval towers.

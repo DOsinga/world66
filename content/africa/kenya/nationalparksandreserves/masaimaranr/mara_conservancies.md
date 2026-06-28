@@ -11,6 +11,7 @@ story: >
   The conservancy model — community-owned land managed for wildlife tourism, with local Maasai receiving direct income from fees — emerged in the Mara in the 1990s as an answer to the crowding and vehicle pressure in the national reserve. The results have been striking: conservancy areas regularly report better predator sightings than the main park, simply because fewer vehicles are allowed per sighting. The model has since been replicated across Kenya and is widely cited as a template for community conservation in Africa.
 sources:
   - https://en.wikipedia.org/wiki/Maasai_Mara
+score: 9.0
 ---
 
 The conservancies bordering the official Masai Mara National Reserve — Mara North, Olare Motorogi, Naboisho, Ol Kinyei, and several others — are private community land managed jointly by Maasai landowners and safari operators. They typically apply strict vehicle limits (as few as two vehicles per sighting), allow off-road driving, and permit night game drives — none of which is possible in the national reserve. The trade-off is higher cost: camps in the conservancies charge substantially more than those in the main park.

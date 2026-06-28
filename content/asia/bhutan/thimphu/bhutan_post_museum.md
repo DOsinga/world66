@@ -8,6 +8,7 @@ tags:
 - museum
 title: Bhutan Postal Museum
 type: poi
+score: 7.9
 ---
 
 The Bhutan Postal Museum in central Thimphu tells the story of one of the world's most creative postal services. Bhutan's stamps — issued since the 1960s — are known internationally among collectors for their inventiveness: the collection includes steel stamps, stamps you can play on a record player, and 3D lenticular stamps. The museum's main draw is the personalized stamp service: bring a digital photo, pay a small fee, and walk out with a sheet of legal Bhutanese stamps bearing your own image. A genuinely unusual souvenir.

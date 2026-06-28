@@ -1,17 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: chengyang.jpg
+image_attribution: EditQ
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chengyang_Yongji_Bridge,_Guangxi.jpg
 latitude: 25.9059
 loc_type: city
 longitude: 109.643
+score: 7.83
+snippet: Dong minority village cluster in northern Guangxi, centred on a celebrated
+  wind-and-rain bridge.
 sources:
 - https://en.wikivoyage.org/wiki/Chengyang
 title: Chengyang
 type: location
-image: chengyang.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Chengyang_Yongji_Bridge,_Guangxi.jpg
-image_license: CC BY-SA 4.0
-image_attribution: EditQ
 ---
 
 Chengyang is a cluster of eight Dong minority villages in the mountains of northern Guangxi, connected by footpaths and famous for the [Chengyang Wind-and-Rain Bridge](/asia/china/guangxi/chengyang/chengyang_wind_rain_bridge) completed in 1912 — a covered wooden structure spanning the Linxi River, supported on stone piers, with pavilions along its length where people sit and talk out of the rain. It is one of the finest examples of Dong architecture anywhere, and the villages around it, with their [drum towers](/asia/china/guangxi/chengyang/dong_drum_tower) rising above a landscape of terraced fields and forested ridges, make for a whole that is more satisfying than any individual element.

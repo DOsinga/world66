@@ -13,6 +13,7 @@ story: >
   used as locations — the Astoria Column, the Goonie House, and yes, Haystack Rock on Cannon Beach.
 sources:
   - https://en.wikipedia.org/wiki/Haystack_Rock
+score: 8.8
 ---
 
 Haystack Rock is a 72-metre basalt monolith rising directly from the surf at the south end of Cannon Beach. It is one of the most photographed features on the Oregon coast — visible from miles in either direction, accessible on foot at low tide, and surrounded by tidal pools that are among the richest marine life zones on the Pacific coast. Starfish, sea anemones, hermit crabs, mussels, chitons, and the occasional octopus populate the rocks around its base.

@@ -8,6 +8,7 @@ tags:
 latitude: 32.1708
 longitude: 13.0198
 story: Gharyan's old residential quarter contains a handful of troglodyte houses — semi-underground dwellings dug into the soft limestone bedrock, kept cool in summer and warm in winter by the insulating rock above. This style of building was once common in the Nafusa Mountains and is now rare elsewhere in Libya.
+score: 6.5
 ---
 
 Gharyan's old quarter is compact but worth an hour of wandering. The architecture is typical of the western Libyan highlands — flat-roofed stone houses, narrow lanes, and the occasional remnant of the older Berber building tradition. Some of the older homes are built partly underground, taking advantage of the limestone bedrock to stay cool through the brutal summer months.

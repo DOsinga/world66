@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 34.8
 longitude: -87.6753
+score: 7.4
 ---
 
 Downtown Florence is one of the better-preserved small-city commercial centres in northern Alabama. The historic district, listed on the National Register, takes in around five blocks of mostly late-19th and early-20th century brick storefronts along Court Street, Tennessee Street, and surrounding side streets.

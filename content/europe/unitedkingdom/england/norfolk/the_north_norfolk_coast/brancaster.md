@@ -5,7 +5,9 @@ done:
 latitude: 52.9634
 loc_type: city
 longitude: 0.6395
-score: 0.49
+score: 7.44
+snippet: North Norfolk Coast village by tidal flats and salt marshes, near Titchwell
+  Marsh and Brancaster Staithe.
 title: Brancaster
 type: location
 ---

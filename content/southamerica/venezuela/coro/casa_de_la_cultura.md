@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.4078
 longitude: -69.6783
+score: 6.0
 ---
 
 The Casa de la Cultura is a small cultural centre in another of Coro's colonial mansions, used for rotating exhibitions of local painters, photographers and craftspeople. It is the easiest place to see contemporary Falconian art and to find out about any current festivals or concerts.

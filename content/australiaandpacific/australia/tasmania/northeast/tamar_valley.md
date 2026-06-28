@@ -9,6 +9,7 @@ title: Tamar Valley
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Tamar_Wetlands_Important_Bird_Area
+score: 7.8
 ---
 
 The Tamar River runs 70 kilometres north from [Launceston](/australiaandpacific/australia/tasmania/launceston) to the sea at Georgetown, and the valley it carves through the hills is Tasmania's best-known wine region. The climate here — cool, maritime, with reliable summer sunshine — suits pinot noir, chardonnay, and riesling particularly well, and the wines have a reputation for intensity and fineness.

@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Horsens_-_g%C3%A5gaden.jpg
 latitude: 55.86117
 loc_type: city
 longitude: 9.844477
-score: 0.47
+score: 7.17
+snippet: East Jutland fjord town known for large concerts and a major medieval festival
 title: Horsens
 type: location
 ---

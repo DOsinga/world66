@@ -6,6 +6,7 @@ longitude: 57.5045
 tags:
   - things_to_do
   - neighbourhood
+score: 7.8
 ---
 
 Port Louis Chinatown runs along Royal Road and Joseph Rivière Street, marked at both ends by ornate Friendship Gates donated by the Chinese government. The first Chinese traders arrived in the late 18th century from Guangdong and Fujian, and the neighbourhood has been continuously Chinese for around 150 years.

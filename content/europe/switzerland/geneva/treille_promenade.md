@@ -9,6 +9,7 @@ tags:
 - sight
 - park
 story: "The 126-metre wooden bench, built in 1767 and replaced section by section over the centuries, is the longest in the world according to Geneva's own claim. The chestnut tree at the eastern end is the city's official meteorological tree: every spring an inspector records the date of the first leaf, in a tradition that goes back to 1818."
+score: 7.2
 ---
 
 The Promenade de la Treille runs along the southern wall of the old town, the highest walkable point in Geneva, lined on one side with chestnut trees and on the other with a continuous wooden bench claimed to be the longest in the world at 126 metres. The promenade was created from the old city ramparts in the 18th century as a place for the patricians of Geneva to take the air; the view across the lower town and out to the Salève and the French Alps is one of the city's classic vistas.

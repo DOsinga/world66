@@ -8,6 +8,7 @@ tags:
   - sight
 story: "Tradition holds this as the peak where Moses received the Ten Commandments. Whether or not the historical events occurred here, the mountain has been a Jewish, Christian, and Muslim pilgrimage site for at least 1,700 years — the path to the summit is partly the famous Steps of Repentance, cut by a single 6th-century monk."
 snippet: The 2,285-metre peak above St. Catherine's monastery, climbed at night for the sunrise from the summit.
+score: 8.9
 ---
 
 Mount Sinai, two hours by road north of Sharm el-Sheikh, is the great obligatory side trip from the resort. The classic itinerary leaves Sharm around 23:00, reaches the foot of the mountain at 01:00, and climbs by torchlight in time for sunrise on the summit. Two routes go up: the gentler Camel Path, which can be walked or ridden (Bedouin camel handlers wait at the trailhead), and the much steeper Steps of Repentance, around 3,750 stone steps carved by a single monk as an act of penance.

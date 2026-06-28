@@ -6,6 +6,7 @@ longitude: -78.4980
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 Pigeon Lake is the largest of the inner Kawartha lakes, a long ragged S-shape running 36 kilometres north from the village of Omemee to Bobcaygeon. It is the busiest cottage lake in the region, with shoreline densely lined with summer houses, marinas, and a handful of small resorts.

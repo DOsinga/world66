@@ -6,6 +6,7 @@ latitude: 29.6344
 longitude: 95.0531
 story: >
   Namcha Barwa remained unclimbed until 1992, largely because the Chinese government kept it off limits and the mountain itself is almost perpetually cloud-covered. The first successful ascent was a joint Chinese-Japanese expedition that waited three years for a clear enough window.
+score: 8.9
 ---
 
 Namcha Barwa (7,782 m) is one of the most spectacular and least visited of the world's great peaks — a technically demanding mountain that repels most expeditions and is often hidden in cloud for weeks at a time. When it does appear, usually in the early morning from viewpoints along the Sichuan-Tibet Highway near Jiala village, the sight is unforgettable: a vast pyramid of ice and rock rising above forested gorges.

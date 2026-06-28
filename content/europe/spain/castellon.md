@@ -7,6 +7,7 @@ title: Castellón
 type: location
 score: 0.47
 loc_type: region
+snippet: "Northern Valencian province linking the Costa del Azahar with the rugged medieval highlands of the Maestrat."
 ---
 
 Castellón is the northernmost of the three provinces that make up the Valencia region, stretching from the Costa del Azahar (Coast of Orange Blossoms) on the Mediterranean to the rugged interior highlands of the Maestrat. While less famous than its southern neighbours, it rewards travellers who look beyond the beaches: the province combines a long stretch of largely undeveloped coast with a well-preserved medieval interior.

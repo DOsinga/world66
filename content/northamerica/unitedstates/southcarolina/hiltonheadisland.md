@@ -1,9 +1,12 @@
 ---
-title: "Hilton Head Island"
-type: location
-loc_type: city
 latitude: 32.1871
+loc_type: city
 longitude: -80.7307
+score: 8.13
+snippet: South Carolina barrier island known for Atlantic beaches, golf courses, and
+  early ecological resort planning.
+title: Hilton Head Island
+type: location
 ---
 
 Hilton Head Island is a twelve-mile barrier island off the South Carolina coast, connected to the mainland by a causeway and known across the American Southeast as one of the most popular resort destinations on the Atlantic seaboard. Around two million people visit each year, drawn by the beaches, the golf courses, and an unusual degree of ecological planning that keeps the island looking green and unhurried despite the crowds.

@@ -3,9 +3,11 @@ address: Panoramic Building - Dubai Marina
 latitude: 25.0765
 longitude: 55.135
 price: AED 0-50
+score: 4.3
 snippet: Arabic-international grill with Marina Walk waterfront seating
 tags:
 - eating_out
+- dubai_marina
 title: Camoon Restaurant & Cafe
 type: poi
 ---

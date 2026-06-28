@@ -3,9 +3,11 @@ address: 799 Las Vegas Boulevard South
 latitude: 36.161157
 longitude: -115.145828
 phone: 702-891-7374
+score: 6.7
 tags:
 - eating_out
 - restaurant
+- arts_district
 title: Emeril’s New Orleans Fish House
 type: poi
 url: www.emerils.com

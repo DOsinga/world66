@@ -8,6 +8,7 @@ tags:
   - eating_out
   - midtown
   - restaurant
+score: 6.6
 ---
 
 Brother Juniper's has been feeding Midtown Memphis since 1981, and on weekend mornings it is one of the busiest tables in the city. The menu is breakfast and lunch only, with a focus on big, unhurried plates: eggs and grits, French toast made from thick-cut bread, pancakes that lean more toward substance than airiness. The biscuits are excellent. The portions are generous in the way of places that have been feeding working people for decades.

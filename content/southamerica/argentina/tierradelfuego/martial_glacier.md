@@ -8,6 +8,7 @@ tags:
 latitude: -54.7850
 longitude: -68.3267
 snippet: Retreating glacier above Ushuaia with panoramic views of the Beagle Channel and Martial Mountains
+score: 7.8
 ---
 
 The Martial Glacier sits in the mountains directly above Ushuaia and can be reached by a combination of chairlift and hiking trail. The glacier itself has receded significantly — what the old photographs show is largely gone — but the walk up through the lenga beech forest is beautiful, and the views from the ridge over the Beagle Channel and the rooftops of Ushuaia are outstanding.

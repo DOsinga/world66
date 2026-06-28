@@ -8,6 +8,7 @@ tags:
 neighbourhood: Yas Island
 latitude: 24.4690
 longitude: 54.6131
+score: 6.7
 ---
 
 A new entertainment district at the southern end of Yas Island, with a long waterfront strip of bars and restaurants, the Etihad Arena (the largest indoor venue in the Middle East), and the Yas Bay Beach. By far the most lively going-out cluster in Abu Dhabi.

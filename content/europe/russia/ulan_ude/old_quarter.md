@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8290
 longitude: 107.5848
+score: 7.9
 ---
 
 The streets between Soviets Square and the Uda river preserve much of Ulan-Ude's 19th-century mercantile character. Two-storey stone warehouses, painted wooden townhouses with carved window frames, and the colonnaded former trading rows give a sense of the trans-Mongolian tea trade that once made the town wealthy.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.3200
 longitude: 21.9460
+score: 7.8
 ---
 
 A handful of seventeenth-century grain granaries survive along the Vistula bank south of the centre — tall whitewashed stone buildings with steep red-tiled roofs, originally used to store the grain awaiting shipment downriver. At the trade's height the town had over 60 of these granaries; today, around a dozen remain.

@@ -4,6 +4,7 @@ admission: €14
 latitude: 41.9031
 longitude: 12.4663
 opening_hours: Tue–Sun 09:00–19:30; closed Mon
+score: 8.3
 snippet: Hadrian's mausoleum turned papal fortress with rooftop views
 tags:
 - 48 Hours in Rome
@@ -11,6 +12,7 @@ tags:
 - things_to_do
 - museum
 - palace
+- prati
 title: Castel Sant'Angelo
 type: poi
 url: www.castelsantangelo.beniculturali.it

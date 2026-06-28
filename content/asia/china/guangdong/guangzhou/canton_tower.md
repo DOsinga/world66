@@ -10,6 +10,7 @@ longitude: 113.3245
 snippet: "600-metre landmark tower with observation deck and the world's highest outdoor skyride"
 story: >
   The tower's twisted lattice silhouette was designed to represent a slender female figure — the tower is nicknamed "Little Waist" by locals. When completed in 2010 for the Asian Games, it briefly held the record as the world's tallest TV and radio tower. It lost that title shortly after to the Tokyo Skytree, but the observation deck still offers the most dramatic views of the Pearl River Delta skyline.
+score: 7.3
 ---
 
 The Canton Tower dominates the Guangzhou skyline from the southern bank of the Pearl River, its twisted red lattice structure rising 600 metres above Haizhu district. Completed in 2010 for the Asian Games, it is the centrepiece of the modern Tianhe and Zhujiang New Town skyline, which you can see stretching north across the river.

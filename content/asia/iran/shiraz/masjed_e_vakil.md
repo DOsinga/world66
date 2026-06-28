@@ -7,6 +7,7 @@ tags:
 - sight
 title: Masjed-e Vakil
 type: poi
+score: 8.6
 ---
 
 The Regent's Mosque, built in the 18th century by Karim Khan Zand, is best known for its vast prayer hall: 75 metres long, 36 metres wide, its roof supported by 48 twisted columns, each carved from a single block of stone. The spiral fluting catches the light differently at different times of day. The tilework in the iwans is outstanding — deep blue and turquoise in the classic Zand style.

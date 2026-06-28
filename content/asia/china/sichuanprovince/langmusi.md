@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:201208%E9%83%8E%E6%9C%A8%E
 latitude: 34.0913
 loc_type: city
 longitude: 102.6363
+score: 7.57
+snippet: Tibetan border village in a high Amdo valley, with twin monasteries divided
+  by a provincial river.
 sources:
 - https://en.wikivoyage.org/wiki/Langmusi
 title: Langmusi

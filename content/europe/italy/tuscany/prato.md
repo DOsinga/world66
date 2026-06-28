@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Duomo_Prato_01.jpg
 latitude: 43.935718
 loc_type: city
 longitude: 11.094147
-score: 0.55
+score: 7.78
+snippet: Tuscan textile city near Florence, with medieval walls, Filippo Lippi art,
+  and Italy’s largest Chinese community
 title: Prato
 type: location
 ---

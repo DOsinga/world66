@@ -7,6 +7,7 @@ tags:
 latitude: 8.4856
 longitude: 123.8044
 snippet: "Provincial capital and centre for inland excursions"
+score: 5.9
 ---
 
 Oroquieta is the seat of the provincial government and the quietest of the three Misamis Occidental cities — a low-rise grid of streets fronting the Mindanao Sea, with the provincial capitol and a long seaside park as the main public spaces. It is the natural base for trips inland into the hilly municipalities of Lopez Jaena and Plaridel.

@@ -6,6 +6,7 @@ longitude: -16.74
 tags:
 - eating_out
 - restaurant
+score: 5.3
 ---
 
 Le Kabrousse is the oldest established hotel-restaurant at Cap Skirring, having operated since the 1970s when the resort first began attracting visitors from France. The open-air terrace restaurant serves a mix of Senegalese and French food — grilled barracuda, thiéboudienne, brochettes, and French preparations using local fish and vegetables. The setting is pleasant: tables under a thatched roof looking toward the garden and the sound of the sea in the background.

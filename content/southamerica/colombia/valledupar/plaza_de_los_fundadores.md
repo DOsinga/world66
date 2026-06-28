@@ -13,6 +13,7 @@ story: >
   mano a mano on the accordion; Francisco played the Creed backwards to confound
   him and won. The legend became the title of a Gabriel García Márquez story,
   and the statue has stood here since the 1980s.
+score: 6.7
 ---
 
 The Plaza de los Fundadores is the central square of Valledupar, fronted by the cathedral and surrounded by the older buildings of the city. In the evenings — especially on weekends — it fills with people, and vallenato drifts out from the surrounding bars. It is the kind of plaza that works best at night, when the heat lifts a little and the music starts.

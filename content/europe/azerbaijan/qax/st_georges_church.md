@@ -16,6 +16,7 @@ story: >
   worshipped in this area for generations. The church was reconstructed in the
   first half of the 18th century on the ruins of an earlier building destroyed
   during Shah Abbas I's campaigns through the Caucasus.
+score: 8.0
 ---
 
 On the southern edge of Qax, near the main bus station, a Georgian-style stone church stands quietly in a walled compound on the left bank of the Kakistskali river. This is St George's Church, a Georgian Orthodox building that dates in its current form to the early 18th century, built to replace an earlier church levelled during Shah Abbas I's invasion of Georgia in the early 17th century.

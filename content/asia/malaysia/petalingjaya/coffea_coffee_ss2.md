@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
   - ss2
+score: 5.3
 ---
 
 A small Korean-style cafe on the SS2 square, with one of the more reliable flat whites in the area and a short menu of toasts and pastries. The interior is bright and minimal; outside seating overlooks the busiest stretch of the SS2 perimeter.

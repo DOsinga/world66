@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:39002-Danxiashan_(48989060
 latitude: 24.8011
 loc_type: city
 longitude: 113.5927
+score: 6.43
+snippet: Northern Guangdong city serving Danxiashan's red cliffs, cooler air, and
+  the Nanling mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Shaoguan
 title: Shaoguan

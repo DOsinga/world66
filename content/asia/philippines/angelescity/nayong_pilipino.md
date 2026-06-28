@@ -8,6 +8,7 @@ tags:
 latitude: 15.1750
 longitude: 120.5690
 story: "The original Nayong Pilipino in Manila was demolished to make way for the expansion of Ninoy Aquino International Airport. The Clark version, opened in 2003 within the former American air base, revived the concept and serves as both cultural park and a deliberate act of Filipino nation-building on land that was, until recently, under American jurisdiction."
+score: 6.9
 ---
 
 Nayong Pilipino Clark is a cultural park within the Clark Freeport Zone that presents the diverse regions and traditions of the Philippines in a single walkable site. The park contains scale replicas of iconic Philippine structures — including a recreation of the Barasoain Church, which hosted the First Philippine Republic's Congress — alongside reconstructed examples of traditional architecture from different ethnolinguistic groups across the archipelago.

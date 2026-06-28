@@ -8,6 +8,7 @@ tags:
   - cafe
   - centre
 address: Profsoyuznaya Street 13
+score: 5.6
 ---
 
 Skuratov is the Kazan branch of one of Russia's best independent coffee roasters, based in Omsk and well distributed across the major Russian cities. The Profsoyuznaya Street branch is small but bright, with a long bar and a few window seats.

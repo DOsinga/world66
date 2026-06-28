@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 28.8636
 longitude: -13.8299
+score: 6.2
 ---
 
 El Anzuelo ("The Hook") sits on the old harbour front, the kind of plain, no-nonsense seafood restaurant that has been feeding the fishing community for decades. The menu focuses on what came in that day — grilled fish, fried squid, seafood rice. The terrace tables overlook the small harbour and the boats that still work this part of the coast.

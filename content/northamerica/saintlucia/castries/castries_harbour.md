@@ -6,6 +6,7 @@ longitude: -60.9950
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A natural deep-water harbour shaped like a bottle, with a narrow neck that opens out into a wide inner basin, Castries Harbour is one of the best-protected anchorages in the Caribbean and the reason the city exists where it does. Cruise ships nose in at Pointe Seraphine, container ships work the south side, and a small flotilla of inter-island schooners and water taxis ply the inner waters.

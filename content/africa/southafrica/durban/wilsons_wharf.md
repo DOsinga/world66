@@ -8,6 +8,7 @@ tags:
 latitude: -29.8703
 longitude: 31.0258
 address: "18 Boatmans Road, Durban Point"
+score: 6.5
 ---
 
 Wilson's Wharf is a small renovated dockside strip on the Victoria Embankment, with about a dozen seafood restaurants and bars looking out over Durban Harbour. The little **Catalina Theatre** here hosts comedy, jazz and small drama productions; the harbour cruises depart from the next jetty along.

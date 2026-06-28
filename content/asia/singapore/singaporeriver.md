@@ -3,11 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 1.290115
 longitude: 103.84121
+score: 7.8
 snippet: Historic waterway turned riverside promenade with bars and restaurants
 tags:
 - things_to_do
 - landmark
 - sights
+- clarke_quay
 title: Singapore River
 type: poi
 ---

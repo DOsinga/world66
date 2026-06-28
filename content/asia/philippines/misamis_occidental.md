@@ -10,6 +10,8 @@ latitude: 8.333333
 loc_type: region
 longitude: 123.7
 score: 0.36
+snippet: Mindanao province bordered by bays and sea, with fishing towns and hilly
+  inland terrain.
 title: Misamis Occidental
 type: location
 ---

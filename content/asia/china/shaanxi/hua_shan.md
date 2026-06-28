@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1_mount_hua_shan_china_201
 latitude: 34.4833
 loc_type: feature
 longitude: 110.0833
+score: 8.87
+snippet: Taoist sacred mountain in Shaanxi, famous for sheer granite peaks, cliff
+  paths, and vertiginous chain-assisted hikes.
 sources:
 - https://en.wikivoyage.org/wiki/Hua_Shan
 title: Hua Shan

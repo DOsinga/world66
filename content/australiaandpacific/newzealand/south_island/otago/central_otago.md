@@ -10,6 +10,8 @@ longitude: 169.696148
 score: 0.62
 title: Central Otago
 type: location
+snippet: Inland South Island region of tussock hills, glacial lakes, gold towns, and
+  pinot noir vineyards.
 ---
 
 Central Otago is the inland heart of [New Zealand's](/australiaandpacific/newzealand) South Island — a dramatic landscape of tawny tussock-covered hills, deep gorges, and glacial lakes. The region includes the adventure tourism capital of [Queenstown](/australiaandpacific/newzealand/south_island/otago/queenstown) and the quieter lakeside town of [Wanaka](/australiaandpacific/newzealand/south_island/otago/wanaka), but beyond those headline destinations lies some of New Zealand's most distinctive scenery.

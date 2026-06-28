@@ -5,7 +5,9 @@ done:
 latitude: 60.140025
 loc_type: city
 longitude: -45.242852
-score: 0.5
+score: 7.63
+snippet: South Greenland island town surrounded by Arctic granite peaks and colourful
+  former Royal Greenland trade buildings.
 title: Nanortalik
 type: location
 ---

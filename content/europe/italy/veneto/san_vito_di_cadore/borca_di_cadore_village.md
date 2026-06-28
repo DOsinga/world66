@@ -16,6 +16,7 @@ story: >
   in 1962.
 sources:
   - https://en.wikipedia.org/wiki/Borca_di_Cadore
+score: 7.8
 ---
 
 Borca di Cadore is a small comune immediately south of San Vito di Cadore, separated by only a few kilometres of the Boite valley. The village itself is unremarkable, but adjacent to it lies one of the most unusual architectural complexes in the Alps: the Villaggio Eni, a mid-century modernist holiday colony built for the workers of Italy's state oil company.

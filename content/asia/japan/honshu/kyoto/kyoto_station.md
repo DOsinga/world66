@@ -1,11 +1,14 @@
 ---
 latitude: 34.9858
 longitude: 135.7588
-snippet: Hiroshi Hara's 1997 cathedral-of-steel station building, a Kyoto landmark in its own right
+score: 7.0
+snippet: Hiroshi Hara's 1997 cathedral-of-steel station building, a Kyoto landmark
+  in its own right
 tags:
 - things_to_do
 - station
 - sight
+- higashiyama
 title: Kyoto Station
 type: poi
 ---

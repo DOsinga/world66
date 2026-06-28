@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.5097
 longitude: 80.6225
+score: 5.4
 ---
 
 A public park near the south end of the Prakasam Barrage, with a small zoo, a musical fountain that runs in the evenings, and broad lawns by the river. It is a popular family spot at weekends; weekday mornings are quieter and more pleasant.

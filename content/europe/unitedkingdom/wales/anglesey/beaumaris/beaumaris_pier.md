@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Beaumaris_Pier
+score: 7.2
 ---
 
 The 173-metre Victorian pier was built in 1846 to serve steamer traffic from Liverpool and the Menai bridges, and rebuilt to its current length in 1895. It is one of the few surviving wooden piers in Britain and the only major pier on Anglesey, lined with traditional cast-iron lamps and a small kiosk at the seaward end.

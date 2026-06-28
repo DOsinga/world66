@@ -2,7 +2,7 @@
 address: 273 Long Street, City Bowl (rooftop, above Clarke's Bookshop)
 latitude: -33.9254
 longitude: 18.4183
-neighbourhood: City Bowl
+score: 6.8
 scores:
   activities: 0.6234
   bars_and_cafes: 0.7845

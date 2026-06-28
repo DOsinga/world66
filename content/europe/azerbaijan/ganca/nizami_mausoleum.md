@@ -8,6 +8,7 @@ story: >
   Nizami Ganjavi (1141–1209) is the greatest poet of the Persian literary tradition to have been born in the Caucasus. His five epic poems — the Khamsa — include Layla and Majnun, the tragic love story that Shakespeare may have drawn on for Romeo and Juliet. Azerbaijan and Iran both claim him as a national poet, a dispute that is conducted mostly through competing translations rather than conflict.
 sources:
   - https://en.wikipedia.org/wiki/Nizami_Ganjavi
+score: 7.0
 ---
 
 The mausoleum of Nizami Ganjavi stands about six kilometres east of Ganca near the road to Baku, on the site of the old city destroyed by the earthquake of 1139. The current monument — a slender, elegant marble structure about twenty metres tall — was built in 1991, replacing a Soviet-era obelisk from the 1940s. Behind it, an open sculpture garden displays scenes from Nizami's poems rendered in metal.

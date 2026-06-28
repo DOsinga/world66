@@ -13,6 +13,7 @@ story: >
   science of ecological succession — the idea that ecosystems change predictably over time.
   The Dunes Succession Trail near Porter follows the path he walked, showing the progression
   from bare dune to oak forest within a single short hike.
+score: 9.0
 ---
 
 Designated the 61st US national park in 2019, Indiana Dunes protects 15,349 acres of lakeshore, dunes, bogs, and savanna along Lake Michigan's southern shore. It is one of the most biodiverse national parks in the country — over 1,400 vascular plant species have been recorded here, ranking it eighth among all National Park Service units. The reason is its unusual ecology: the same dunes support Arctic plants from the north, desert species from the south, and eastern and western woodland species, all within walking distance of each other.

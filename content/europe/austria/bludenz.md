@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bludenz_overview.jpg
 latitude: 47.153037
 loc_type: city
 longitude: 9.821931
-score: 0.53
+score: 7.81
+snippet: Vorarlberg alpine town where five valleys meet beneath the Rätikon peaks
+  and painted old facades.
 title: Bludenz
 type: location
 ---

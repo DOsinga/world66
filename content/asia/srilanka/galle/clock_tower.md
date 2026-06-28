@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 6.029722
 longitude: 80.216833
+score: 6.2
 ---
 
 The 25-metre red-brick clock tower on the Moon Bastion was built in 1883 in memory of P.D. Anthonisz, a popular Galle physician, and paid for by public subscription. Its four clock faces and characteristic silhouette have made it one of the most recognisable landmarks of the fort, visible from much of the surrounding town.

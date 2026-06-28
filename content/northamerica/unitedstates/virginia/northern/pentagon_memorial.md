@@ -13,6 +13,7 @@ story: >
   for those aboard American Airlines Flight 77 face skyward in the direction
   the plane came from. The age of each victim is encoded in the placement — the
   youngest victim's bench sits at one end of the field, the oldest at the other.
+score: 6.5
 ---
 
 A quiet outdoor memorial on the grounds of the Pentagon honouring the 184 people killed there on September 11, 2001. The memorial consists of 184 illuminated benches set in a shallow field with mature trees; each bench bears the name of one victim and is oriented according to whether they were in the Pentagon or on the plane.

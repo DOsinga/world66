@@ -14,6 +14,7 @@ story: >
   is maintained exactly as she left it, right down to the furniture, books, and her personal Bible.
 sources:
   - https://en.wikipedia.org/wiki/Elmshaven
+score: 6.6
 ---
 
 A Victorian farmhouse at 125 Glass Mountain Lane, preserved as a historic museum and the last home of Ellen G. White, co-founder of the Seventh-day Adventist Church. White lived here from 1900 until her death in 1915, writing much of the theological and health-reform work that shaped the modern Adventist movement. The white clapboard house, set among old elms on a quiet lane east of the Silverado Trail, retains its original furnishings, library, and personal effects.

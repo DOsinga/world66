@@ -14,6 +14,7 @@ tags:
 - sight
 title: Ngulia Rhino Sanctuary
 type: poi
+score: 7.9
 ---
 
 A fenced sanctuary of 70 square kilometres in the northern part of the park, protecting one of Kenya's most significant black rhino populations. Sightings require patience and some luck — the bush is thick — but rangers know the area well and guided drives within the sanctuary significantly improve your chances. Black rhinos are critically endangered, and this is one of the few places in East Africa where you have a realistic chance of seeing one in the wild. Contact the park headquarters at Mtito Andei to arrange a visit inside the sanctuary fence.

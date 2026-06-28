@@ -6,6 +6,7 @@ tags:
   - beach
 latitude: 31.3703
 longitude: 27.1876
+score: 7.1
 ---
 
 Obayed Beach is about 14 kilometres west of Marsa Matruh and is one of the more tranquil options on the coast. The beach is longer and flatter than some of the rockier spots closer to town, and the water runs a particularly vivid shade of turquoise where the sand bar shelters the shallows from the open sea. It attracts a more laid-back crowd than the town beaches, and there is usually space to spread out even in summer.

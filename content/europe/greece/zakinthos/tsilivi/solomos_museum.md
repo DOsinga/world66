@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Solomos_Museum
 story: >
   Dionysios Solomos wrote the "Hymn to Liberty" in 1823, celebrating the Greek War of Independence from the Ottoman Empire. The poem's first two stanzas were later adopted as the Greek national anthem — making the small island of Zakynthos the unlikely birthplace of the words every Greek sings on national occasions.
+score: 7.1
 ---
 
 The Solomos Museum in Zakynthos Town is dedicated to Dionysios Solomos, the 19th-century poet who wrote the "Hymn to Liberty" — the text of the Greek national anthem — and is buried in the adjacent mausoleum alongside fellow Zakynthian writer Andreas Kalvos. The museum covers the history of the island's cultural life as well as the poet's biography and works.

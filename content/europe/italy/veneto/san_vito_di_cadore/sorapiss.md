@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Sorapiss
   - https://en.wikipedia.org/wiki/Lake_Sorapiss
+score: 8.4
 ---
 
 The Sorapiss massif rises north of San Vito di Cadore in a tangle of towers, couloirs, and sheer faces that constitute some of the most technically demanding terrain in the Dolomites. At around 3,200 metres the group is dominated by the Punta Sorapiss, but it is the lake at its base — Lago di Sorapiss — that attracts most summer visitors, drawn by its extraordinary milky turquoise water, one of the most vivid alpine lakes in Italy.

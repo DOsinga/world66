@@ -5,6 +5,7 @@ tags: [things_to_do, sight, beaches]
 latitude: 36.707867
 longitude: -2.807456
 story: Almerimar was designed from scratch as a marina town — the harbour was built first, and the resort grew around it. The result is a marina that is actually integrated into the town's life rather than bolted on as an afterthought, with bars and restaurants around the harbour that serve both boat crews and land-based visitors and operate with more consistency than most resort marina strips.
+score: 5.8
 ---
 
 The marina at Almerimar is one of the larger yacht harbours on the Costa de Almería, with berths for several hundred boats and facilities that make it a serious stop for cruising yachts moving between Gibraltar and the Balearics. The harbour is calm, well-maintained, and serviced by a yacht club that has been operating long enough to have accumulated proper institutional knowledge about the local conditions.

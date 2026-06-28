@@ -8,6 +8,7 @@ latitude: 42.4639
 longitude: -71.3439
 story: >
   Nathaniel Hawthorne was so famous by the time of his death in 1864 that his pallbearers at this cemetery included Ralph Waldo Emerson, Henry Wadsworth Longfellow, Oliver Wendell Holmes, and Amos Bronson Alcott — four of the most celebrated literary figures of 19th-century America. Emerson's eulogy described Hawthorne as "the most original genius that America has produced." Twenty years later, Emerson was buried 30 metres away from Hawthorne on the same ridge.
+score: 8.2
 ---
 
 Sleepy Hollow Cemetery in Concord contains Author's Ridge, a small hillside section that holds the graves of four of the most significant American writers of the 19th century: Ralph Waldo Emerson, Henry David Thoreau, Nathaniel Hawthorne, and Louisa May Alcott. The concentration of literary significance in this quiet, tree-shaded corner of a New England cemetery is extraordinary — there is no comparable gathering of major writers' graves anywhere in America.

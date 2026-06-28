@@ -11,6 +11,7 @@ story: >
   The cathedral took 100 years to build, from 1725 to 1826, interrupted by attacks, floods, and the chronic poverty of the colonial north. Beneath the main altar lies the crypt where Don Antonio Deza y Ulloa, the bishop who commissioned the building, is buried — alongside the remains of the Jesuit martyrs of Chihuahua, executed here in the 18th century.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_Chihuahua
+score: 7.3
 ---
 
 The Metropolitan Cathedral of Chihuahua stands on the Plaza de Armas, the city's main square, its twin towers visible from much of the downtown area. Completed in the late 18th century after decades of stop-start construction, it is one of the finest examples of Churrigueresque architecture in northern Mexico — the façade is covered in elaborate stone carving that somehow avoids tipping into excess.

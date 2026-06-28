@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Maobitou_Cape_01.jpg
 latitude: 21.945308
 loc_type: city
 longitude: 120.798785
-score: 0.56
+score: 8.41
+snippet: Southern Taiwan beach area around Kenting National Park, where tropical coastline
+  meets coral-fringed sea.
 title: Kenting
 type: location
 ---

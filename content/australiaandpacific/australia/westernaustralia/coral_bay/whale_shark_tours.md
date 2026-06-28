@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Whale sharks are the largest fish in the sea — adults reach 12 metres or more — and yet they feed almost exclusively on plankton and small fish. They are filter feeders, slow-moving and harmless to people, and the Ningaloo is one of the few places where you can reliably swim alongside one as it grazes."
+score: 8.9
 ---
 
 The whale shark season at Ningaloo runs from late March to early August. Several Coral Bay operators run full-day boat tours with spotter aircraft that scan the open ocean outside the reef and direct the boats to individual sharks. Snorkellers slip into the water in small groups and swim alongside the animal for a few minutes at a time, governed by strict distance rules set by the Department of Biodiversity, Conservation and Attractions.

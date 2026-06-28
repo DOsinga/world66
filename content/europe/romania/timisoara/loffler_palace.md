@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Loffler Palace is a small but conspicuous Secession-Eclectic palace on Victory Square, completed in 1912 and named after its original owner, the engineer Max Loffler. It is one of a series of four palaces along the western side of the square that together form one of the most coherent stretches of Habsburg-era commercial architecture in eastern Europe.

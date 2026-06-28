@@ -4,6 +4,9 @@ done:
 latitude: 32.64
 loc_type: city
 longitude: 103.5972
+score: 8.12
+snippet: Northern Sichuan walled town and mountain gateway for Jiuzhaigou, Huanglong,
+  and long-running horse treks.
 sources:
 - https://en.wikivoyage.org/wiki/Songpan
 title: Songpan

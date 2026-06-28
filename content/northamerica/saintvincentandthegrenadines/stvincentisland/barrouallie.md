@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 13.2358
 longitude: -61.2719
+score: 6.5
 ---
 
 Barrouallie (pronounced "Barley") is a small fishing town on the leeward coast about 30 km north of Kingstown. It is best known for being one of the last places in the Caribbean where a traditional small-scale whaling fleet still operates — fishermen go out in open boats with hand harpoons after pilot whales and small dolphins, mostly for local consumption. The catch is sold on the beach in the late afternoon when the boats come in.

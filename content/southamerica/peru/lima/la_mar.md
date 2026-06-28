@@ -10,6 +10,7 @@ tags:
 neighbourhood: Miraflores
 snippet: Gastón Acurio's flagship cevichería, possibly the most famous in Lima
 url: lamarcebicheria.com
+score: 7.8
 ---
 
 **La Mar** is the cevichería of **Gastón Acurio**, the chef who arguably started the whole Lima food renaissance in the 1990s. It serves classic *ceviche*, *tiraditos*, *causas*, and Peruvian-Pacific seafood at a single seating from noon until early evening — there is no dinner service. The atmosphere is high-energy, with white-shirted waiters carrying plates between a dozen full tables, the bar pouring pisco sours in batches, and the kitchen open behind a long counter.

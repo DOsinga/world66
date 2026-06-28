@@ -7,9 +7,16 @@ done:
 latitude: 28.5091
 loc_type: city
 longitude: 34.5131
-score: 0.6
+score: 8.57
+snippet: Sinai beach town on the Gulf of Aqaba, shaped by Bedouin roots, backpacker
+  cafés, and Red Sea diving
 title: Dahab
 type: location
+image: dahab.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Blue_Hole_2005.JPG
+image_license: Public domain
+image_attribution: No machine-readable author provided. Nowic assumed (based on copyright
+  claims).
 ---
 
 Dahab is the Sinai's laid-back antidote to the package-tour glitz of [Sharm el Sheikh](/africa/egypt/sharmelsheikh). Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Backpackers discovered it in the 1980s, and the vibe has never fully shaken that easygoing DNA, even as proper restaurants and dive centers have moved in.

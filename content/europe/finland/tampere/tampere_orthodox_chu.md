@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 61.5016
 longitude: 23.7744
+score: 6.8
 ---
 
 Tampere's Orthodox church (Aleksanterin kirkko) is a striking building in the Kyttälä district, designed by Nikolai Salko and completed in 1899. The red-brick exterior with its characteristic Orthodox domes stands out in a city whose religious architecture is otherwise firmly Lutheran. The interior has a traditional iconostasis and a collection of icons, several of which are historically significant.

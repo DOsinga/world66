@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 40.6924
 longitude: -89.5930
+score: 6.9
 ---
 
 Peoria City Hall is one of the more striking civic buildings in central Illinois, built from reddish sandstone in a Romanesque Revival style that was fashionable for public buildings in the late nineteenth century. The building's heavy masonry, rounded arches, and corner tower give it a solidity that says something about how Peoria saw itself at the time it was built — a city with permanence, resources, and civic pride worth expressing in stone.

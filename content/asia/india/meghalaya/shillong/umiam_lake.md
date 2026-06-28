@@ -7,6 +7,7 @@ tags:
   - lake
 latitude: 25.6532
 longitude: 91.8843
+score: 7.6
 ---
 
 A large reservoir twenty minutes north of Shillong, formed by damming the Umiam river in 1965 to generate hydroelectric power. The lake stretches for several kilometres between pine-covered ridges, and a string of resorts and boating clubs lines the eastern shore.

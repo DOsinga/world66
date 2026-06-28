@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 51.2093
 longitude: -2.6449
+score: 5.8
 ---
 
 Goodfellows on Sadler Street is the most acclaimed restaurant in Wells — a seafood-focused place with a small dining room and a straightforward approach to good ingredients. The menu changes with the catch; expect dishes like grilled bream with samphire, crab bisque, and scallops with cauliflower puree alongside a few meat options for committed land-eaters.

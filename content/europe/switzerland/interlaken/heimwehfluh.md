@@ -7,6 +7,7 @@ tags:
 - sight
 title: Heimwehfluh
 type: poi
+score: 6.4
 ---
 
 The Heimwehfluh ("homesickness hill") is the gentler counterpart to the Harderkulm — a wooded viewpoint above Interlaken's western end, reached by a short funicular ride from near the West station. At 669 metres it sits well below the Harderkulm, but the views over Lake Thun and the western Alps are excellent, and the whole operation is smaller and less crowded than its rival across the valley.

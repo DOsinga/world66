@@ -1,0 +1,200 @@
+{
+  "round": 3465,
+  "timestamp": "2026-06-13T22:55:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 5.8675,
+      "prior_variance": 0.234737,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 5.3175,
+      "prior_variance": 0.184875,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 7.0902,
+      "prior_variance": 0.147688,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.471,
+      "prior_variance": 0.186416,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 8.6671,
+      "prior_variance": 0.314013,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 6.8578,
+      "prior_variance": 0.148446,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 4.9729,
+      "prior_variance": 0.197222,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 6.1895,
+      "prior_variance": 0.142651,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_score": 2.7343,
+      "prior_variance": 0.13702,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": -0.2595,
+      "prior_variance": 0.109236,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.7018,
+      "prior_variance": 0.113483,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.4545,
+      "prior_variance": 0.13399,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.873,
+      "prior_variance": 0.114113,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -0.4391,
+      "prior_variance": 0.144462,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -1.9251,
+      "prior_variance": 0.10903,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -3.3845,
+      "prior_variance": 0.117676,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -1.93,
+      "prior_variance": 0.106738,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Harrisburg",
+      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
+      "prior_score": -2.6504,
+      "prior_variance": 0.125744,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.1997,
+      "prior_variance": 0.117621,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.4172,
+      "prior_variance": 0.112214,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -2.672,
+      "prior_variance": 0.137993,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -3.9459,
+      "prior_variance": 0.126433,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -3.6411,
+      "prior_variance": 0.127384,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -4.8398,
+      "prior_variance": 0.128827,
+      "prior_n": 11
+    }
+  ]
+}

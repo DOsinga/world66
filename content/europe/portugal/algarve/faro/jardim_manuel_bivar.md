@@ -5,6 +5,7 @@ tags: [things_to_do, sight, park]
 latitude: 37.0156
 longitude: -7.9353
 snippet: "Palm-shaded harbourside garden between the old town and the marina"
+score: 5.8
 ---
 
 The wedge-shaped garden that separates the marina from the old town walls is Faro's social heart. Palms, jacarandas, banyan trees and bougainvillea give shade in summer; the bandstand in the middle hosts concerts on warm evenings.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.8
 ---
 
 The Ancienne Douane — old customs house — is the most important secular building in old Colmar, dating from 1480. Until the Revolution it functioned as both a customs hall (downstairs) and a meeting place for the deputies of the Décapole, the league of ten free imperial cities of upper Alsace, who gathered upstairs in a large vaulted chamber. The two functions explain the building's confusing local nicknames: Koïfhus, from the German Kaufhaus (merchants' hall), and Ancienne Douane.

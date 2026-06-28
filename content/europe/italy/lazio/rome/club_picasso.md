@@ -5,11 +5,13 @@ done:
 latitude: 41.8757
 longitude: 12.474
 phone: +39 06 5742975
+score: 5.4
 snippet: No-cover Testaccio nightclub with rotating music styles and late-night pizza
 tags:
 - bars_and_cafes
 - bar
 - club
+- testaccio
 title: Club Picasso
 type: poi
 ---

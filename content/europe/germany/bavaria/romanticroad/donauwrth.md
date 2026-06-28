@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Reichsstrassedonauworth.JP
 latitude: 48.718036
 loc_type: city
 longitude: 10.78073
-score: 0.52
+score: 7.93
+snippet: Bavarian Romantic Road town at the Wörnitz-Danube confluence, rebuilt around
+  its photogenic Reichsstrasse.
 title: Donauwörth
 type: location
 ---

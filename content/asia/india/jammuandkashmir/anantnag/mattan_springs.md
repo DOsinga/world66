@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7754
 longitude: 75.2067
+score: 7.1
 ---
 
 The spring-fed pools at Mattan, below the Martand plateau, are a pilgrimage site for Kashmiri Pandits and one of the oldest sacred spots in the valley. Carp and trout swim in the clear water, fed by pilgrims, and the surrounding ghats see ritual bathing and ancestral offerings throughout the year.

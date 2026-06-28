@@ -9,13 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Kyrgyzstan_-_48215582271.j
 latitude: 41.2044
 longitude: 74.7661
 title: Kyrgyzstan
+snippet: Mountainous Central Asian country of Tian Shan peaks, jailoo pastures, yurts, and nomadic culture
 type: location
 quick_facts:
   Population: "7 million"
   Visa-Free: "60 days for most nationalities"
   Above 1,500 m: "90% of the country"
   Lake Issyk-Kul: "Never freezes despite the altitude"
-score: 0.6
+score: 0.67
 loc_type: country
 ---
 

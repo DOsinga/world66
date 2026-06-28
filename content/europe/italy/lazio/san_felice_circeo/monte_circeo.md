@@ -8,6 +8,7 @@ latitude: 41.2333
 longitude: 13.05
 story: >
   A Neanderthal skull was found in a cave near the summit of Monte Circeo in 1939, surrounded by a ring of animal bones that suggested ritual. Later analysis questioned whether the arrangement was deliberate, but the discovery sparked decades of debate about Neanderthal cognition and burial practices. The cave, Grotta Guattari, is one of the most significant Palaeolithic sites in Europe.
+score: 8.8
 ---
 
 The limestone promontory that defines San Felice Circeo, rising to 541 metres from the flat Pontine Plain in a dramatic rocky mass covered in holm oak. In mythology, this is the island of Aeaea — the home of the sorceress Circe who turned Odysseus's men into pigs and kept the hero here for a year. The geography has shifted over millennia (the promontory was once a true island), but the association is old and the landscape earns the legend.

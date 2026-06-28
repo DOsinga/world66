@@ -10,6 +10,7 @@ story: >
   At the time of its completion in 1965, the Friendship Bridge was one of the longest concrete bridges in South America. It was jointly built by Brazil and Paraguay at a time when relations between the two countries were being restructured by the Treaty of Friendship signed in 1941 — a treaty that eventually led to the joint construction of the Itaipu Dam in the 1970s.
 sources:
   - https://en.wikipedia.org/wiki/Friendship_Bridge_(Brazil%E2%80%93Paraguay)
+score: 6.2
 ---
 
 The Friendship Bridge (Ponte da Amizade in Portuguese, Puente de la Amistad in Spanish) spans the Paraná River between Foz do Iguaçu and Ciudad del Este, Paraguay. It is 552 metres long and carries an extraordinary volume of traffic — reportedly one of the busiest border crossings in the world, with thousands of lorries, buses, and private cars crossing daily. The crossing feeds the massive duty-free shopping trade that sustains Ciudad del Este's economy.

@@ -6,11 +6,13 @@ longitude: 12.446084
 opening_hours: Mon–Sat 9:00am–6:00pm (last entry 4pm); closed Sundays except last
   Sun of month (free, very crowded)
 phone: +39 06 69883332
+score: 9.7
+snippet: World-class art collection culminating in Michelangelo's ceiling
 tags:
 - things_to_do
 - museum
 - church
-snippet: "World-class art collection culminating in Michelangelo's ceiling"
+- prati
 title: Vatican Museums and Sistine Chapel
 type: poi
 url: www.museivaticani.va

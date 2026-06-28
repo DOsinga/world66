@@ -1,0 +1,200 @@
+{
+  "round": 3287,
+  "timestamp": "2026-06-13T22:42:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 11.5977,
+      "prior_variance": 0.345045,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 10.0735,
+      "prior_variance": 0.343184,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 6.8546,
+      "prior_variance": 0.162243,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.7436,
+      "prior_variance": 0.190003,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Zhangye Danxia Geological Park",
+      "path": "asia/china/gansu/zhangye_danxia",
+      "prior_score": 7.2491,
+      "prior_variance": 0.191623,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.5749,
+      "prior_variance": 0.174622,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 6.4494,
+      "prior_variance": 0.203102,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 5.929,
+      "prior_variance": 0.173415,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 7.6761,
+      "prior_variance": 0.179005,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Siquijor",
+      "path": "asia/philippines/siquijor",
+      "prior_score": 3.6012,
+      "prior_variance": 0.123385,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 2.9226,
+      "prior_variance": 0.154363,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 3.7186,
+      "prior_variance": 0.156433,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 4.7452,
+      "prior_variance": 0.143051,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 6.1623,
+      "prior_variance": 0.182843,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 3.8025,
+      "prior_variance": 0.151199,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 3.2815,
+      "prior_variance": 0.132114,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.6135,
+      "prior_variance": 0.155712,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 4.277,
+      "prior_variance": 0.147329,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 6.1554,
+      "prior_variance": 0.159402,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 1.2878,
+      "prior_variance": 0.126025,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 4.3579,
+      "prior_variance": 0.132098,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 2.5885,
+      "prior_variance": 0.146718,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -0.9692,
+      "prior_variance": 0.115671,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.2826,
+      "prior_variance": 0.169824,
+      "prior_n": 10
+    }
+  ]
+}

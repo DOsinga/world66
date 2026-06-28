@@ -8,6 +8,7 @@ latitude: 12.034
 longitude: 39.045
 story: >
   The name refers to the seven olive trees in the garden, which according to local legend were planted by King Lalibela himself. Whether or not the king had anything to do with olive cultivation in the 12th century is debatable, but the trees are old and the shade they cast over the outdoor tables is real enough.
+score: 5.3
 ---
 
 Seven Olives is one of the longest-established restaurants in Lalibela, attached to the hotel of the same name near the church complex entrance. It occupies a pleasant garden setting with the seven titular olive trees providing shelter from both sun and the occasional rain shower. The atmosphere is unhurried in the way that highland Ethiopia tends to be.

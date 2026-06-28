@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Atlantic_City_skyline_from
 latitude: 39.364285
 loc_type: city
 longitude: -74.422935
-score: 0.49
+score: 7.12
+snippet: New Jersey seaside resort on a barrier island, built around casinos and a
+  historic wooden boardwalk.
 title: Atlantic City
 type: location
 ---

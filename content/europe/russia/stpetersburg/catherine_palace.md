@@ -13,6 +13,7 @@ story: >
   mirrors — was looted by the Wehrmacht in 1941, shipped to Königsberg, and lost. Its fate has been
   one of the great unsolved mysteries of the war. The Russians completed a full reconstruction in 2003
   for the city's tercentenary, working from old photographs and a few salvaged fragments.
+score: 9.1
 ---
 
 The Catherine Palace at Tsarskoye Selo — Pushkin since 1937 — is the rococo imperial summer residence about 25 kilometres south of St Petersburg. The blue and white facade by Bartolomeo Rastrelli runs for more than 300 metres, the longest enfilade in Europe, and behind it stretches an ornate landscape of formal gardens, lakes, follies, and an English landscape park dotted with neoclassical pavilions.

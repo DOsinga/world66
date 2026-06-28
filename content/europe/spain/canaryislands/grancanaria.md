@@ -5,8 +5,14 @@ latitude: 27.9202
 loc_type: region
 longitude: -15.5474
 score: 0.68
+snippet: Volcanic Canary Island of resort beaches, pine-clad ravines, and cloud-catching
+  interior mountains.
 title: Gran Canaria
 type: location
+image: grancanaria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Roque_Nublo_2024-12-14.jpg
+image_license: CC BY-SA 4.0
+image_attribution: MiljenkoSuljic
 ---
 
 Gran Canaria packs an unlikely amount of variety into 1,532 square kilometres: volcanic peaks, deep ravines, fertile valleys, and a southern coastline dominated by one of Europe's most famous beach resorts. The island is roughly circular, which means the interior mountains intercept northern clouds and keep the south perpetually sunny — you can swim in January.

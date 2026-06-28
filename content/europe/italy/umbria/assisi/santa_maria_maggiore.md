@@ -8,6 +8,7 @@ tags:
 latitude: 43.0696
 longitude: 12.6145
 story: "In front of this church, in 1207, a 25-year-old Francis stripped off his clothes and returned them to his furious cloth-merchant father, formally renouncing his inheritance. The bishop wrapped him in his own cloak. The act gave the church its second name — Sanctuary of the Spoliation."
+score: 7.1
 ---
 
 Santa Maria Maggiore was Assisi's cathedral before that title moved to San Rufino in the 11th century, and it remains one of the oldest churches in town. The simple Romanesque facade, with three doors and a single rose window, hides a plain, dimly lit interior of bare stone.

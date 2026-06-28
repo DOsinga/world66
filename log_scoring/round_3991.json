@@ -1,0 +1,200 @@
+{
+  "round": 3991,
+  "timestamp": "2026-06-13T23:35:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/paloalto",
+      "prior_score": -2.24,
+      "prior_variance": 0.112938,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.5364,
+      "prior_variance": 0.113205,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -2.8326,
+      "prior_variance": 0.109599,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": -5.1467,
+      "prior_variance": 0.14876,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 3.0378,
+      "prior_variance": 0.115844,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.5443,
+      "prior_variance": 0.108885,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -2.5502,
+      "prior_variance": 0.114107,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -1.3866,
+      "prior_variance": 0.099569,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Foshan",
+      "path": "asia/china/guangdong/foshan",
+      "prior_score": -3.6437,
+      "prior_variance": 0.108993,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -4.5728,
+      "prior_variance": 0.140203,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -3.0861,
+      "prior_variance": 0.115358,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": -2.3314,
+      "prior_variance": 0.096553,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.194,
+      "prior_variance": 0.099929,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.4948,
+      "prior_variance": 0.121251,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -4.3407,
+      "prior_variance": 0.128579,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -2.8831,
+      "prior_variance": 0.102327,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.216,
+      "prior_variance": 0.114374,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -2.8257,
+      "prior_variance": 0.115332,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -5.7573,
+      "prior_variance": 0.133483,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -7.2341,
+      "prior_variance": 0.239107,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -7.8213,
+      "prior_variance": 0.165076,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -7.8492,
+      "prior_variance": 0.153072,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -8.1995,
+      "prior_variance": 0.203811,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -8.7648,
+      "prior_variance": 0.222524,
+      "prior_n": 12
+    }
+  ]
+}

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 21.2895
 longitude: 99.5985
+score: 6.8
 ---
 
 Naung Tung Lake sits at the western edge of the old town, ringed by pagodas and shaded by trees. In the early morning, monks from nearby monasteries take their alms-gathering routes around the lake's edge, and local families come to feed fish in the shallows — the fish are considered sacred and are not harmed. The lake is a pleasant place to sit, watch the light change on the water, and observe the rhythms of daily life in Kengtung.

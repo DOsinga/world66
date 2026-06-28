@@ -7,6 +7,7 @@ tags:
   - museum
 title: Instituto Oceanográfico de Venezuela
 type: poi
+score: 6.9
 ---
 
 Founded in 1959 and attached to the Universidad de Oriente, the Instituto Oceanográfico is Venezuela's leading marine research centre. Its small public museum and aquarium display Caribbean fish, marine fossils, and exhibits on the unique ecosystem of the Gulf of Cariaco — one of the only naturally anoxic bodies of water in the world.

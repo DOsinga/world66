@@ -6,6 +6,7 @@ longitude: 14.3769
 tags:
 - things_to_do
 - hike
+score: 8.0
 ---
 
 The Triq Panoramika — the Panoramic Road — runs for over three kilometres along the very edge of the Dingli Cliffs, the highest point on Malta. Half lane, half walking path, it is just wide enough for a single car and quiet enough to walk most of the day without one passing.

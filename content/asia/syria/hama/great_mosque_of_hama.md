@@ -14,6 +14,7 @@ story: >
   the reuse of classical elements was a deliberate assertion that the new faith had
   superseded what came before. The mosque thus contains Rome, Byzantium, and Islam
   within a single structure.
+score: 8.8
 ---
 
 The Great Mosque of Hama stands on a site of continuous religious use stretching back to the Roman period, when a temple to Jupiter occupied the same ground. The Byzantines converted the temple into a cathedral dedicated to Saint John the Baptist; after the Arab conquest of 637 AD, the cathedral was shared briefly between Christians and Muslims before being converted into a mosque under the Umayyad caliphs — following the same sequence as the more famous Great Mosque of Damascus, built on an identical pattern of Roman temple to Byzantine church to Islamic mosque. Elements of the Roman colonnade and Byzantine stonework are still visible in the mosque's courtyard walls and the base of the minaret.

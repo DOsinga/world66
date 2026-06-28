@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - history
+score: 7.1
 ---
 
 Brunnsvik is one of Sweden's most famous folkhögskolor — folk high schools — founded in 1906 on the shore of Lake Väsman. From the start it was closely tied to the trade union and labour movement, and over the twentieth century an extraordinary number of Swedish socialist politicians, writers and journalists passed through its doors.

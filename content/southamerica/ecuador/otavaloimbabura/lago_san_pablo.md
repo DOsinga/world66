@@ -15,6 +15,7 @@ story: >
   still practised by a few families in the lakeside village of San Rafael.
 sources:
   - https://en.wikipedia.org/wiki/San_Pablo_del_Lago
+score: 7.3
 ---
 
 The closest of the Imbabura lakes to Otavalo, Lago San Pablo sits just 6 km south of town at 2,660 metres, with Imbabura volcano rising dramatically behind it. The road around the lake is about 17 km long and mostly flat, making it good for cycling or a leisurely drive.

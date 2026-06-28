@@ -9,6 +9,7 @@ tags:
   - market
   - old_town
 neighbourhood: Old Town
+score: 8.2
 ---
 
 Halės Market (Halės Turgus) is the main traditional food market of Vilnius, operating in a covered 19th-century iron-and-glass market hall at the southern end of the old town. The market is open daily and sells fresh produce, meat, dairy, smoked fish, pickled vegetables, honey, dried mushrooms, and Lithuanian food specialities that are hard to find in supermarkets.

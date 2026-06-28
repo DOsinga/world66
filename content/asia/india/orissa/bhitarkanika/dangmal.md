@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 20.7500
 longitude: 86.8800
+score: 6.2
 ---
 
 Dangmal is the main visitor node for Bhitarkanika, with forest department facilities and access to boat routes through the creeks. It is more functional than pretty, but it gives structure to a park that otherwise feels like a maze of water and forest.

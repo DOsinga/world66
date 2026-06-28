@@ -4,8 +4,9 @@ email: tours@tontantravel.com
 latitude: 14.897192
 longitude: 100.83273
 phone: +66 (0)87 87 45 794
+score: 3.2
 title: Things to do in Khao yai national park
-type: poi
+type: section
 url: www.tontantravel.com
 ---
 

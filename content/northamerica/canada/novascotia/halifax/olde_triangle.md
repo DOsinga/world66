@@ -8,6 +8,7 @@ latitude: 44.6441
 longitude: -63.5726
 phone: "(902) 492-4900"
 url: https://www.oldtriangle.com
+score: 5.8
 ---
 
 The Olde Triangle is a proper Irish pub on Prince Street in downtown Halifax — dark wood, low light, and live Celtic music most nights of the week. The kitchen goes well beyond standard pub fare: the fish and chips are reliably good, and the beef stew is the kind of thing you want on a cold Maritime evening.

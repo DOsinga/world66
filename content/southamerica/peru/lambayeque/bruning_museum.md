@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 snippet: "Broad pre-Columbian collection from the Lambayeque region"
 latitude: -6.7039
 longitude: -79.9039
+score: 8.1
 ---
 
 The Museo Regional Arqueológico Enrique Brüning is the older of Lambayeque's two major museums and worth visiting alongside the Royal Tombs. Founded by German merchant and amateur archaeologist Heinrich Brüning, who spent decades documenting the Mochica language and customs in the late 19th and early 20th centuries, it opened in 1966 and covers the full span of pre-Columbian cultures of the region.

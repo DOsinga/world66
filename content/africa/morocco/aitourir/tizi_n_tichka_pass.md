@@ -4,6 +4,7 @@ type: poi
 tags: [day_trips, scenic_drive]
 latitude: 31.3036
 longitude: -7.3811
+score: 8.4
 ---
 
 The Tizi n'Tichka, at 2260 metres, is the highest paved road pass in North Africa and the main link between Marrakesh and the desert south. From Ait Ourir the road begins its real climb — switchback after switchback through walnut groves, then bare red rock, then snowfields in winter. The drive from town to the summit takes about an hour and a half if you don't stop, but you will want to stop, often.

@@ -5,7 +5,9 @@ done:
 latitude: 44.49
 loc_type: city
 longitude: -92.26
-score: 0.38
+score: 6.01
+snippet: Tiny Wisconsin village on Lake Pepin, founded by Swedish immigrants and set
+  along the Great River Road.
 title: Stockholm
 type: location
 ---

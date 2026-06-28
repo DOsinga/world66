@@ -1,11 +1,13 @@
 ---
 latitude: 13.7523
 longitude: 100.5405
+score: 6.5
 snippet: Bangkok's biggest wholesale clothing market, open around the clock
 tags:
 - shopping
 - shop
 - market
+- pratunam
 title: Pratunam Market
 type: poi
 ---

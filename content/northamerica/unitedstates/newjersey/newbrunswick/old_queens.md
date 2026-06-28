@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 Old Queens, at the top of College Avenue, is the founding building of Rutgers and one of the few colonial-era university buildings still in use in the United States. Built between 1809 and 1825 in a restrained Federal style out of brownstone, it stands at the head of the original Queens Campus with the Voorhees Mall stretching away behind it.

@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Altausseer_See_Trisselwand
 latitude: 47.6399
 loc_type: city
 longitude: 13.7641
+score: 8.59
+snippet: Salzkammergut lakeside village in Styria, set below wooded mountains and
+  a green-blue alpine lake
 title: Altaussee
 type: location
 ---

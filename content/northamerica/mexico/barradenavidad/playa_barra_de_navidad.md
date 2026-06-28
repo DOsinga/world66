@@ -6,6 +6,7 @@ latitude: 19.2030
 longitude: -104.6840
 sources:
   - https://en.wikipedia.org/wiki/Barra_de_Navidad
+score: 7.5
 ---
 
 The main beach is a long arc of dark volcanic sand running the full length of the sandbar. The Pacific here has real surf — not usually dangerous, but big enough to body-surf and powerful enough to knock you over if you are not paying attention. The water is warm year-round, and the beach is rarely crowded by Mexican resort standards.

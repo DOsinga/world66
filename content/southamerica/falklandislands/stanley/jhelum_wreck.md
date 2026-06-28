@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Jhelum and Other Harbour Wrecks
 type: poi
+score: 7.5
 ---
 
 Several mid-19th-century sailing ships beached themselves in Stanley Harbour after being damaged rounding Cape Horn, finding shelter here but never sailing again. The most prominent of the surviving hulks is the Jhelum, an 1849 East Indiaman, whose timber frame still stands on the foreshore east of the town centre.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.2944
 longitude: 14.7775
+score: 8.7
 ---
 
 Hammeren is the granite promontory that forms the northernmost point of Bornholm, a hammer-head shape of rock and heather jutting into the Baltic Sea. It is a protected nature area, and the walking here is excellent — short distances between varied scenery, with coastal paths above cliffs, heather moorland, and the Hammersø lake all within easy reach.

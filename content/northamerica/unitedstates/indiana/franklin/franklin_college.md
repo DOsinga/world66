@@ -8,6 +8,7 @@ latitude: 39.4726
 longitude: -86.1333
 story: >
   Franklin College was founded in 1834 by Baptist settlers — making it one of the oldest colleges in Indiana. The campus holds a bronze statue of Benjamin Franklin, after whom both the college and the town are named, positioned near the library. A second, more informal Franklin statue sits nearby, making it possible to get a double Benjamin Franklin photograph in a single visit.
+score: 6.5
 ---
 
 Franklin College is a small liberal arts college with a compact, walkable campus about ten minutes' walk south of the courthouse square. Founded in 1834, it predates the town's period of greatest growth and gives Franklin a quiet academic character that larger cities rarely achieve.

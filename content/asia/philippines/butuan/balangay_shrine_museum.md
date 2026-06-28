@@ -9,6 +9,7 @@ latitude: 8.9268
 longitude: 125.5517
 story: >
   The balangay boats found at Butuan are not just old watercraft — they are evidence that the Philippines had its own sophisticated maritime civilisation more than a thousand years before Magellan arrived. Carbon-14 dating of the wood places the oldest boats at around 320 CE, predating European contact by over 1,200 years. The boats were built using a technique of pre-fabricated interlocking planks that required no written plans — the knowledge was held in the community.
+score: 8.8
 ---
 
 The Balangay Shrine Museum is Butuan's most important cultural site, housing the excavated remains of ancient plank-built boats that were discovered at this site in the 1970s. The balangay boats — nine have been found so far — are the oldest watercraft discovered in Southeast Asia and prove that Butuan was a significant centre of long-distance maritime trade long before Spanish colonisation.

@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Winston-Salem_skyline.jpg
 latitude: 36.099813
 loc_type: city
 longitude: -80.244052
-score: 0.43
+score: 6.69
 title: Winston-Salem
+snippet: North Carolina city shaped by Moravian Salem, tobacco wealth, and the restored
+  Old Salem district.
 type: location
 ---
 

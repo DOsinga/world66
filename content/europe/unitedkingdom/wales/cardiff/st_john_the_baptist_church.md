@@ -10,6 +10,7 @@ latitude: 51.48072
 longitude: -3.17837
 sources:
   - https://en.wikipedia.org/wiki/St_John_the_Baptist_Church,_Cardiff
+score: 7.2
 ---
 
 St John the Baptist is the oldest surviving church in Cardiff's city centre, a Grade I listed building that has stood on the same spot since the 12th century. The current structure is largely 15th century, with a notably tall tower that serves as a landmark visible from the arcades. It is one of the few medieval buildings in the centre that survived Cardiff's Victorian redevelopment largely intact.

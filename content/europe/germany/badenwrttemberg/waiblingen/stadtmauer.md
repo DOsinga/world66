@@ -5,6 +5,7 @@ snippet: Restored sections of the medieval town wall, with a marked walking circ
 tags: [things_to_do, sight]
 latitude: 48.8326
 longitude: 9.3181
+score: 8.0
 ---
 
 Substantial parts of Waiblingen's medieval town wall survive and have been progressively restored over the last century. The marked Stadtmauerweg follows the wall around the old core, taking in the Beinsteiner Tor gate, the Hochwachtturm, and the smaller Apothekerturm and Wehrturm towers.

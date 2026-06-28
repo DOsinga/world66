@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SendaiCity_Skylines_from_M
 latitude: 38.267755
 loc_type: city
 longitude: 140.86915
-score: 0.62
+score: 8.43
+snippet: Tohoku’s largest city, founded by Date Masamune and famous for Zuihoden,
+  Matsushima access, and gyutan
 title: Sendai
 type: location
 ---

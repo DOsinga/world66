@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.55883227758731
 longitude: 60.623198999983885
+score: 6.1
 ---
 
 The Dashkin Bobo Complex (also known as Dashkinjan Bobo) is a modest architectural monument in the northern part of Urgench. The complex honours a local Islamic saint and consists of a small mausoleum and surrounding grounds. It is a place of local religious significance and sees a steady trickle of pilgrims and visitors.

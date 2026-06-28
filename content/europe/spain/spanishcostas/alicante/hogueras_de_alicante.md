@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3454
 longitude: -0.4831
+score: 8.1
 ---
 
 The Hogueras de Alicante — the Bonfires of Saint John — is Alicante's answer to Valencia's Fallas, and arguably more spectacular. Every June, elaborate papier-mâché sculptures called hogueras (bonfires) are erected in squares and streets across the city. They range from satirical floats lampooning local politicians to monumental artworks standing several storeys high. Then, on the night of 24 June, every last one of them is set ablaze.

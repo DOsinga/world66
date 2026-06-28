@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.542
 longitude: -103.413
+score: 6.1
 ---
 
 La Cava is one of Torreón's more popular restaurants for norteño cuisine, the kind of place where locals bring visiting family to show off the regional cooking. The carne asada here — beef grilled over mesquite coals and served with flour tortillas, beans, and grilled spring onions — is the thing to order. The cabrito, when available, is similarly good: kid goat roasted until the skin is crisp and the meat is tender.

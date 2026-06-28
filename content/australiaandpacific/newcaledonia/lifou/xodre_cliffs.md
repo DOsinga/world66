@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Xodre Cliffs
 type: poi
+score: 7.5
 ---
 
 The south coast of Lifou ends at Xodre, where the same kind of limestone walls that make Jokin famous come at you with bigger surf and far fewer people. The viewpoint is reached by a rough track from the village; the cliffs drop straight into deep water, and on a windy day the swell explodes upward in spray that reaches the top.

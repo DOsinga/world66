@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/The_Kelpies
 story: >
   Kelpies are shape-shifting water horses from Scottish mythology, said to haunt rivers and lochs and lure unsuspecting travellers to a watery death. Andy Scott's enormous steel sculptures are rather more welcoming — they were designed to celebrate the heavy horses that once pulled barges along the canals and ploughed the farmland of Scotland's central belt.
+score: 8.4
 ---
 
 The Kelpies are two 30-metre steel horse heads rising from the grass of the Helix park at the edge of Falkirk, commissioned as a gateway monument to the new park and to the canal network. Sculptor Andy Scott spent years designing them. Up close, the scale is startling — each head weighs about 300 tonnes, and the engineering required to give the steel its muscular surface texture is as impressive as the final result.

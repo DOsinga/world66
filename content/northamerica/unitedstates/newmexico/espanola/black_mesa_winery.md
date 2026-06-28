@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.9889
 longitude: -106.0464
+score: 6.4
 ---
 
 Black Mesa Winery is a family-run operation just outside Española that has become one of the better-known wineries in northern New Mexico. The vineyard sits at around 1,800 metres elevation, which gives the wines a distinctive character — the dry climate, high altitude, and dramatic temperature swings between day and night produce fruit with more concentration than you might expect from a state not traditionally associated with viticulture.

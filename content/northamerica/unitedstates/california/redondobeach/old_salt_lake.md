@@ -10,6 +10,7 @@ tags:
 - sight
 - historic
 story: "The Old Salt Lake — also known as Lake Salinas — supplied salt to indigenous tribes for centuries and then to the early Mexican ranchos around Los Angeles in the early 19th century. Salt from this lagoon was so valuable as a trade good that wars were fought between native groups for control of it. The lake itself was drained in the late 1800s as the area was developed; the site is now a small interpretive park beside what is otherwise a residential intersection."
+score: 4.6
 ---
 
 A small fenced grassy plot just up from King Harbor marks the site of what was, for two centuries, the most economically important feature on this part of the coast. The Old Salt Lake was a shallow tidal lagoon where seawater evaporated naturally, leaving behind sea salt that the Tongva-Gabrieleño collected for trade, and that the early Spanish and Mexican settlers later harvested commercially.

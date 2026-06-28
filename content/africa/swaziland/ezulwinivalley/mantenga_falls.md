@@ -7,6 +7,7 @@ tags:
 latitude: -26.4350
 longitude: 31.1567
 snippet: "A nature reserve combining a 95-metre waterfall with a living Swazi cultural village"
+score: 7.8
 ---
 
 Mantenga Nature Reserve, at the northern end of the Ezulwini Valley, packages two things together: a genuinely impressive waterfall and a recreated traditional Swazi village where aspects of homestead life — food preparation, beer-making, craft work, and traditional dance — are demonstrated for visitors. The two elements are independent enough that you can do one without the other.

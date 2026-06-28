@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:HengshanMountains.JPG
 latitude: 27.3017
 loc_type: feature
 longitude: 112.6847
+score: 7.86
+snippet: Southern Sacred Mountain in Hunan, with Taoist and Buddhist temples across
+  72 named summits.
 sources:
 - https://en.wikivoyage.org/wiki/Mount_Heng_(Hunan)
 title: Mount Heng

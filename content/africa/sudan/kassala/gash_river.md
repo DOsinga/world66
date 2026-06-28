@@ -5,6 +5,7 @@ snippet: A wide bed of pale sand most of the year, transformed into a torrent du
 tags: [things_to_do, sight, nature, river]
 latitude: 15.4500
 longitude: 36.3970
+score: 7.6
 ---
 
 For most of the year the Gash river running through Kassala is not a river at all but a broad pale sand wash a couple of hundred metres wide. In the cool of the late afternoon it becomes one of the social spaces of the city — pickup football matches, kids practising karate, families walking, hawkers selling roasted nuts and tea.

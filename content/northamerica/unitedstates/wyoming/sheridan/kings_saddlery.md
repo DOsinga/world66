@@ -12,6 +12,7 @@ story: >
   museum section was an afterthought that grew: Don King began collecting Western artefacts,
   and over five decades the back of a saddle shop became one of the largest private collections
   of cowboy gear and Native American artefacts in the country.
+score: 7.8
 ---
 
 King's Saddlery at 184 North Main Street is both a functioning saddle-making workshop and a museum. The front of the building sells handmade saddles, ropes, and Western gear; the back contains several rooms of artefacts — wagons, carriages, Native American beadwork, historic photographs, branding irons, and cowboy equipment spanning more than a century of the region's history.

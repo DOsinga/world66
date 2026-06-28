@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.4112
 longitude: 11.8798
+score: 7.1
 ---
 
 The Museo Civico is housed in the former Augustinian monastery next to the Scrovegni Chapel, and the combination ticket covers both. The collection runs from ancient Roman finds to Renaissance and Baroque paintings, with particular strength in Venetian painting from the 14th to 18th centuries. The Egyptian and archaeological section in the basement, drawing on material excavated from the Euganean Hills and the Roman city beneath modern Padova, is quietly impressive.

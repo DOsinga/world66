@@ -8,6 +8,7 @@ tags:
   - dal_lake_area
 latitude: 34.1003
 longitude: 74.8819
+score: 7.6
 ---
 
 The smallest of the three main Mughal gardens on Dal Lake, Chashme Shahi — "Royal Spring" — is also the most intimate. Built in 1632 by Shah Jahan around a natural spring that still flows, it occupies a steep hillside site with three modest terraces and a central water channel fed directly from the spring. The water has a reputation for being exceptionally pure and cold; locals fill bottles from it. The garden is surrounded by a Jawaharlal Nehru Memorial garden, but the Mughal core is distinct and charming.

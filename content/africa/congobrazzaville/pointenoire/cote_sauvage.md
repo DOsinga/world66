@@ -7,6 +7,7 @@ snippet: Long stretch of wild beach running south of Pointe-Noire
 tags:
 - things_to_do
 - beach
+score: 8.1
 ---
 
 The Côte Sauvage is the strip of undeveloped Atlantic coast that runs south from the edge of the city — wide, dark sand, big rolling waves, and almost no infrastructure. There is no resort development here, no umbrellas for hire and no real lifeguards either. The current is strong enough that swimming is risky in many places; ask locally before going in.

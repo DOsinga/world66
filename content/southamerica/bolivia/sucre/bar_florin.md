@@ -8,6 +8,7 @@ tags:
   - bar
   - restaurant
 snippet: Dutch-run pub with good food and a lively bar
+score: 6.3
 ---
 
 Florin is a Dutch-run gastropub on Calle Bolívar that has become a fixture of Sucre's social life. The kitchen is more ambitious than most — burgers and fries done properly, fish and chips, schnitzel, a daily menu with Bolivian and European options — and the bar pours a long list of Bolivian craft beers, Belgian imports, and serious cocktails. The room is rambling, with a long wooden bar, scattered tables, and a back patio for warm nights.

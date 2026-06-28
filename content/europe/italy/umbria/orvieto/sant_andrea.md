@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.7182
 longitude: 12.1087
+score: 6.8
 ---
 
 Sant'Andrea is a Romanesque church in Piazza della Repubblica, the civic heart of Orvieto, notable for its unusual twelve-sided bell tower — one of the few dodecagonal towers in Italy. The church dates from the 7th century in its origins, though the current building is mostly 13th century. Inside, the floor is a patchwork of ancient mosaic fragments.

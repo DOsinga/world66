@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, art]
 latitude: 34.6708
 longitude: 133.9344
+score: 6.9
 ---
 
 The Yumeji Art Museum is devoted to Takehisa Yumeji, a painter and designer known for lyrical images of women in the Taisho period. His work sits somewhere between fine art, illustration, and commercial design, which makes the museum more approachable than many single-artist collections.

@@ -9,6 +9,7 @@ longitude: 105.3383
 sources:
   - https://www.vietnamtourism.org.vn/attractions/nature-adventure/stunning-journey-to-thung-nai-hoa-binh.html
   - https://en.vietnamplus.vn/thung-nai-a-highlight-of-hoa-binh-lake-tourist-site-post274963.vnp
+score: 7.8
 ---
 
 Thung Nai — "the Valley of Deer" in the Muong language — was a forested valley before the Hoa Binh Dam flooded it in the 1980s. Today it is the most scenic part of the vast reservoir: about 47 limestone islands rising from calm green water, draped in jungle, with Muong fishing villages clinging to their lower slopes. Vietnamese tourism has taken to calling it "Ha Long Bay on land," which is a stretch, but the scenery is genuinely striking. The best time to come is autumn, when the reservoir is at its fullest and the water reaches deepest into the valleys.

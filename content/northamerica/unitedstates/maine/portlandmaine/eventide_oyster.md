@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 43.6589
 longitude: -70.2492
+score: 7.4
 ---
 
 The most famous oyster bar in Maine. A long granite slab in the middle of the room is buried in ice and twenty kinds of local oyster; the kitchen sends out a Maine-revisionist take on the New England raw bar — brown-butter lobster rolls on steamed buns, kelp pickles, smoked bluefish pâté.

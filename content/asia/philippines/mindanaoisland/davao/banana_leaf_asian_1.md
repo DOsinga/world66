@@ -1,8 +1,12 @@
 ---
 address: Ground Floor Chimes Specialty Store, Governor Sales Street Davao City
+latitude: 7.0761
+longitude: 125.6192
 phone: (082) 225-8898
+score: 5.1
 tags:
 - eating_out
+- restaurant
 - cafe
 title: Banana Leaf Asian Cafe
 type: poi

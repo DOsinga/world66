@@ -1,8 +1,12 @@
 ---
+latitude: -29.1822
+longitude: -51.5172
+score: 8.1
 snippet: The Brazilian wine country — Italian heritage, excellent Chardonnay and Merlot
 tags:
 - day_trips
 - sight
+- wine
 title: Bento Gonçalves and the Vale dos Vinhedos
 type: poi
 ---

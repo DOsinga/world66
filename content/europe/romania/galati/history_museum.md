@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museum of History
 type: poi
+score: 7.4
 ---
 
 The Paul Păltănea History Museum is housed in a cream-coloured neoclassical mansion on Strada Alexandru Ioan Cuza, a few minutes' walk from Eminescu Park. The collection covers the lower Danube from prehistory through the Roman frontier, the medieval principality of Moldavia, and the city's commercial heyday in the 19th century.

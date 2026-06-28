@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Gimignano_-_View_-_1.j
 latitude: 43.467799
 loc_type: city
 longitude: 11.043211
-score: 0.77
+score: 9.25
+snippet: Tuscan hill town on the Via Francigena, famous for its surviving medieval
+  towers.
 title: San Gimignano
 type: location
 ---

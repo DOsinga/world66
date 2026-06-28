@@ -9,6 +9,7 @@ latitude: 14.6306
 longitude: 121.0961
 sources:
   - https://en.wikipedia.org/wiki/Marikina_Church
+score: 7.2
 ---
 
 The Immaculate Conception Parish Church, known locally as the Marikina Church, stands on a plaza near the city's historic core. The original church on this site dates to the late seventeenth century, established by Augustinian missionaries shortly after the Spanish colonised the area. The current structure is the product of several rebuildings — typhoons, earthquakes, and wartime damage have all taken their toll over the centuries — but it retains its role as the religious and social centre of the community.

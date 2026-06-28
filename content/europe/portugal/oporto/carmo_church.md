@@ -8,6 +8,7 @@ story: >
   The two churches stand side by side — so close that a single three-foot-wide house was built between them to satisfy a religious rule that forbade two churches from sharing a wall. The house is still there, now barely visible behind the Carmo church's massive azulejo facade, which covers the entire side wall in blue-and-white tiles depicting the founding of the Carmelite order.
 sources:
   - https://en.wikipedia.org/wiki/Carmo_Church_(Porto)
+score: 7.6
 ---
 
 The Carmo and Carmelitas churches stand almost touching on the same street near the University of Porto, separated only by a famously narrow house that was inserted between them to prevent the walls from meeting. The building is now one of Porto's most photographed curiosities.

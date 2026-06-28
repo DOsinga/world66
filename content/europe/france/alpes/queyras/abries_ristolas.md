@@ -7,6 +7,7 @@ tags:
 - sight
 title: Abriès-Ristolas
 type: poi
+score: 7.5
 ---
 
 Abriès and Ristolas merged into a single commune in 2019 — the easternmost settlement in the Queyras, hard up against the Italian border. The villages serve a small ski station in winter and a busy hiking scene in summer, with trails fanning out toward Monte Viso (Italy's "King Stone").

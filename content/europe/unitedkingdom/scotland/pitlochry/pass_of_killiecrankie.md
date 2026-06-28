@@ -10,6 +10,7 @@ story: >
   The Pass of Killiecrankie was the site of the 1689 Battle of Killiecrankie, the first major engagement of the Jacobite rising. The Jacobite force under Viscount Dundee (Bonnie Dundee) routed a government army here in a ferocious downhill charge — but Dundee himself was killed at the moment of victory. A government soldier, fleeing the battle, is said to have leaped across the gorge at a point now marked as Soldier's Leap.
 sources:
   - https://en.wikipedia.org/wiki/Pass_of_Killiecrankie
+score: 8.5
 ---
 
 The Pass of Killiecrankie is a spectacular wooded gorge cut by the River Garry about 4km north of Pitlochry. It can be reached by footpath along the river from Pitlochry in about an hour; the National Trust for Scotland visitor centre at the north end of the pass has parking and a café. The gorge is particularly dramatic in autumn, when the beech, oak, and birch canopy turns gold and the river runs fast below.

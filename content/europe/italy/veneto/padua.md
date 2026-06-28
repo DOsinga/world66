@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Padua_from_La_Spec
 latitude: 45.4077
 loc_type: city
 longitude: 11.8734
-score: 0.69
+score: 8.92
+snippet: Veneto university city where Giotto's Scrovegni Chapel anchors a learned,
+  arcaded old town.
 title: Padua
 type: location
 ---

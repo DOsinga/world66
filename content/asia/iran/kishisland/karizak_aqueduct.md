@@ -13,6 +13,7 @@ story: >
   groundwater. The Kish qanat is estimated to be around 2,500 years old, predating the island's 
   peak as a trading port by more than a thousand years. That people were managing water this 
   ingeniously on a small Gulf island in the 5th century BCE is worth sitting with for a moment.
+score: 7.6
 ---
 
 The Karizak is one of the most unusual attractions on Kish: a 2,500-year-old underground aqueduct system that you can actually walk through. The qanat extends several hundred metres underground, cut through the island's limestone, and was the primary water source for the island's ancient population. Inside, the temperature drops noticeably and the light narrows to whatever your guide carries.

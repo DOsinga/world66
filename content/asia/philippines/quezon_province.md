@@ -1,12 +1,14 @@
 ---
-title: Quezon Province
-type: location
-latitude: 14.0313
-longitude: 122.1108
 done:
   location_cleanup: 2026-04-05
-score: 0.44
+latitude: 14.0313
 loc_type: region
+longitude: 122.1108
+score: 0.44
+snippet: Long rural Luzon province along the Sierra Madre, known for Mount Banahaw
+  and coastal pilgrimage towns.
+title: Quezon Province
+type: location
 ---
 
 Quezon Province is a long, narrow, mostly rural province on the south-east side of Luzon, Philippines' main island, named after **Manuel L. Quezon**, the country's second president and a native of the area. It stretches for over 200 km along the **Sierra Madre** mountain range and the coasts of Lamon and Tayabas Bays, with the Pacific on one side and the Sibuyan Sea on the other. The interior is dominated by rugged jungle-covered mountains and extinct volcanoes — most famously **Mount Banahaw** (2,170 m), a sacred mountain whose slopes are dotted with hermitages, healing springs, and small religious communities.

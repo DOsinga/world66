@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Camil_Iamandescu-Castelul_
 latitude: 45.345549
 loc_type: city
 longitude: 25.54815
-score: 0.57
+score: 8.31
+snippet: Carpathian resort town where Peleș Castle rises from forest above the railway
+  line
 sources:
 - https://en.wikipedia.org/wiki/Sinaia
 title: Sinaia

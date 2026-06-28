@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0847
 longitude: 25.646
+score: 7.8
 ---
 
 Trapezitsa is the second of Veliko Turnovo's three medieval fortified hills, rising above the Yantra just across the river from Tsarevets. During the Second Bulgarian Empire, Trapezitsa was the residential quarter of the Bulgarian nobility — dozens of churches have been identified within its walls through excavation, more than in any other Bulgarian fortress. The ruins are less extensively restored than Tsarevets and attract fewer visitors, which makes them worth seeking out.

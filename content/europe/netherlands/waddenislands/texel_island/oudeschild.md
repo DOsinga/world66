@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Oudeschild_(NL),_Ortsansic
 latitude: 53.038389
 loc_type: city
 longitude: 4.845691
-score: 0.51
+score: 7.37
 title: Oudeschild
+snippet: Texel harbour village on the Waddenzee, with fishing quays and the maritime
+  Museum Kaap Skil.
 type: location
 ---
 

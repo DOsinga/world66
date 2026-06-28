@@ -10,6 +10,7 @@ tags:
 - architecture
 title: "Cathédrale Notre-Dame du Havre"
 type: poi
+score: 7.4
 ---
 
 The cathedral of Notre-Dame is one of the rare surviving pre-war buildings in Le Havre's centre, making it a powerful counterpoint to the surrounding Perret concrete. Construction began in 1574 under the architect Guillaume Pontifs and continued in phases through the 17th century, giving the building a mix of Gothic and Renaissance elements. The main façade has a fine rose window and two asymmetrical towers; the interior is spacious and quietly atmospheric.

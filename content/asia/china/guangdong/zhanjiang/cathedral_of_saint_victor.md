@@ -14,6 +14,7 @@ story: >
   cathedral as a stable and storage facility; it was restored after the war
   and is still in active use as a Catholic parish church, with Sunday masses
   attended by a congregation that has no connection to its French builders.
+score: 6.9
 ---
 
 The Cathedral of Saint Victor, built by French missionaries in 1903, is the most striking survivor of Zhanjiang's colonial period as Fort Bayard. The Gothic Revival building — stone walls, pointed arches, a single bell tower — sits in the older district near the waterfront and is still an active parish church. The architectural contrast with the Chinese shophouses and mid-century buildings surrounding it is stark and slightly incongruous in the way of colonial buildings everywhere.

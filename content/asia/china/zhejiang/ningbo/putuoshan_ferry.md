@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.9400
 longitude: 121.8300
+score: 5.4
 ---
 
 The Beilun passenger ferry terminal in northeastern Ningbo is the main departure point for boats to Mount Putuo, Zhoushan city, and the other islands of the Zhoushan archipelago. The terminal is in the Beilun district, about thirty-five kilometres from central Ningbo, reachable by a dedicated bus service from the city centre or by taxi in about forty minutes.

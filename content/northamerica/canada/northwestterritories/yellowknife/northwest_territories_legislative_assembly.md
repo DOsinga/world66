@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.4594
 longitude: -114.3819
+score: 7.0
 ---
 
 The Northwest Territories Legislative Assembly sits on a hill above Frame Lake, its glass-and-wood structure designed to reflect both the landscape and the consensus-based governance model unique to the territory. Unlike provincial legislatures, the NWT has no political parties — all members sit as independents and decisions are made through consensus, a model partly inspired by traditional Indigenous decision-making. The building was completed in 1993 and its architecture deliberately echoes the boreal landscape: the copper dome represents the midnight sun, and indigenous materials and motifs appear throughout.

@@ -12,6 +12,7 @@ snippet: "60 miles of switchbacks, waterfalls, and rainforest on Maui's east coa
 story: "The road to Hāna has 59 bridges, most of them single-lane and built in the early 20th century. The longest stretch between pull-outs is barely a mile — the challenge is not the distance but the patience it demands."
 sources:
   - https://en.wikipedia.org/wiki/H%C4%81na,_Hawaii
+score: 9.2
 ---
 
 The Road to Hāna is one of the most celebrated drives in the United States. The route follows the rainforested northeast coast of Maui for about 100 kilometres, winding through 59 one-lane bridges and past an almost continuous series of waterfalls, pools, and viewpoints before arriving at the remote village of Hāna. It is not fast driving — most people allow a full day, and a night in Hāna makes the trip considerably more relaxed.

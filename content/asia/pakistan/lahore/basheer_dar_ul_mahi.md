@@ -11,6 +11,7 @@ tags:
 - seafood
 title: Basheer Dar-ul-Mahi
 type: poi
+score: 6.8
 ---
 
 A Lahore institution at Mazang Chowk, Basheer Dar-ul-Mahi serves fried fish in two or three preparations to long queues of loyal customers. The wait is part of the experience — come hungry and patient. Nearby you will find cheap parathas and lassi to round out the meal.

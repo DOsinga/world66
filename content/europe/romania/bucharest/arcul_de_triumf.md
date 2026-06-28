@@ -1,14 +1,18 @@
 ---
 address: Piața Arcului de Triumf, Bucharest
 latitude: 44.4672
-loc_type: feature
 longitude: 26.0781
+score: 7.3
 snippet: Romania's triumphal arch on Șoseaua Kiseleff
+story: The original wooden arch was thrown up in 1878 in just three weeks to welcome
+  Romanian troops returning from the War of Independence. The current stone version,
+  completed in 1936, deliberately echoes its Parisian namesake — Bucharest's old nickname
+  was 'Little Paris' and the architects were determined to live up to it.
 tags:
 - things_to_do
 - sight
 title: Arcul de Triumf
-story: "The original wooden arch was thrown up in 1878 in just three weeks to welcome Romanian troops returning from the War of Independence. The current stone version, completed in 1936, deliberately echoes its Parisian namesake — Bucharest's old nickname was 'Little Paris' and the architects were determined to live up to it."
+type: poi
 ---
 
 A 27-metre granite triumphal arch on Șoseaua Kiseleff, the leafy boulevard that runs north from the centre to Herăstrău Park. The current arch was built in 1936 by Petre Antonescu to commemorate Romanian unification after the First World War, replacing two earlier temporary versions. The reliefs on the four faces depict scenes from the war and the founding of Greater Romania.

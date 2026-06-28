@@ -10,6 +10,7 @@ tags:
 - market
 title: Faneuil Hall and Quincy Market
 type: poi
+score: 7.4
 ---
 
 Two of the oldest public centers in Boston, Faneuil Hall and Quincy Market have been gathering places since colonial times. Faneuil Hall acted as a meeting place for many important figures in American history. Directly behind it, Quincy Market remains a place to meet, eat, and shop, with the entire length of the building filled with food stalls selling everything from New England clam chowder to tandoori chicken.

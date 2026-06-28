@@ -9,6 +9,7 @@ longitude: -4.2838
 snippet: 'France''s leading artisanal fishing port, best seen at 4pm when the trawler fleet returns with the day''s catch.'
 story: >
   Guilvinec is the third-largest fishing port in France by value, after Boulogne-sur-Mer and Lorient, yet it remains entirely artisanal. No industrial factory ships operate from here. The fleet of around 50 boats lands roughly 15,000 tonnes of fish per year, with langoustines accounting for the most valuable share.
+score: 8.8
 ---
 
 The port is the beating heart of Guilvinec and the reason anyone visits. Split between Le Guilvinec on the south bank and Lechiagat on the north, it stretches along a narrow inlet where trawlers, crabbers, and coastal boats jostle for space. The quayside infrastructure is entirely functional: unloading cranes, ice plants, net repair sheds, the long low building of the criee where the catch is auctioned.

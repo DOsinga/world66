@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.3600
 longitude: 107.0500
+score: 6.8
 ---
 
 The Wei River valley west of Baoji is among the most historically significant landscapes in China. This is the terrain where the Zhou and Qin states developed — the fertile river bottom and the dry loess plateau above provided grain surpluses that funded armies and bronze industries. The Wei River itself, a major Yellow River tributary, flows east from here through Xi'an and into the Yellow River, carrying the silt that built the alluvial plain of central Shaanxi.

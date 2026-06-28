@@ -8,6 +8,8 @@ latitude: 52.016855
 loc_type: region
 longitude: -4.825811
 score: 0.65
+snippet: Welsh coastal national park of sea stacks, coves, beaches, and a long cliff
+  path
 title: Pembrokeshire Coast National Park
 type: location
 ---

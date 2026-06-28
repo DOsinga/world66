@@ -11,6 +11,7 @@ story: >
   Heureka was designed by the architecture firm Heikkinen-Komonen and opened in 1989. The building won the Finnish State Architecture Prize, and its curved glass and copper roof has become something of a landmark in Tikkurila — an appropriate form for a science centre, since it looks vaguely like a molecule when seen from above.
 sources:
   - https://en.wikipedia.org/wiki/Heureka
+score: 8.5
 ---
 
 Heureka is one of the best science centres in Scandinavia — a large, well-designed space where most of the exhibits are hands-on and genuinely engaging for both children and adults. The permanent collection covers physics, mathematics, biology, and technology through interactive installations that avoid the patronising simplicity of many science museums. Temporary exhibitions rotate through several times a year and are often excellent.

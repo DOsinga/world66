@@ -13,6 +13,7 @@ story: >
   wartime government. He donated his personal collection of Philippine art to the
   university partly as an act of rehabilitation — the museum that bears his name
   has outlasted the controversy.
+score: 8.2
 ---
 
 The Vargas Museum is the best place in Metro Manila to see Philippine art from the early twentieth century to the present. The collection, originally donated by Jorge Vargas, a former secretary to President Quezon, includes paintings, sculpture, and decorative arts from the Spanish colonial period through the Commonwealth era. Rotating exhibitions feature contemporary Filipino artists.

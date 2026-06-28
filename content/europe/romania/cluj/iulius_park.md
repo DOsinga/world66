@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 5.8
 ---
 
 Iulius Park, between the old centre and the eastern districts, is the modern face of Cluj — a small lake surrounded by terraces, restaurants, and the city's biggest shopping mall. After dark in summer the boardwalk around the lake is one of the most lively places in the city.

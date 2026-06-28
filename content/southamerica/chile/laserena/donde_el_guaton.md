@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.2
 ---
 
 A local institution on the upper floor of Mercado La Recova, run by the same family for decades. Plain wooden tables, big portions, and Chilean classics: paila marina (mixed shellfish stew), corvina al pil-pil, ceviche, and a long list of fried fish.

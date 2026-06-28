@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 51.8172
 longitude: 4.6863
+score: 6.8
 ---
 
 The Binnenvaartmuseum is the only museum in the Netherlands devoted to the country's inland shipping, and fittingly it is housed not in a building but on a 1898 iron barge moored permanently at the Maartensgat. The exhibits inside the holds and crew quarters tell the story of life on Dutch inland waterways: the navigation, the locks, the family life of skipper-owners, the long evolution from sail to steam to diesel.

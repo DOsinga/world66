@@ -14,6 +14,7 @@ story: "The Château Frontenac was designed by New York architect Bruce Price in
 title: Château Frontenac
 type: poi
 url: www.fairmont.com/frontenac-quebec
+score: 7.9
 ---
 
 The most photographed hotel in the world, according to some counts. The Château Frontenac looms over the Old City from its clifftop position above the St. Lawrence, its copper-roofed turrets visible for miles. It was built in 1893 by the Canadian Pacific Railway as part of a chain of grand railway hotels. You don't need to be staying here to walk through the lobby, or to take the guided tour of its history. The adjacent Dufferin Terrace — a long wooden boardwalk along the cliff edge — offers outstanding views of the river and the Lower Town.

@@ -11,6 +11,7 @@ tags:
 - sights
 title: Laas Geel
 type: poi
+score: 9.4
 ---
 
 One of the most significant collections of prehistoric rock art in Africa. These natural rock shelters — laas geel means "watering place for camels" in Somali — contain paintings estimated to be between 9,000 and 11,000 years old. The images are remarkable for their preservation: cattle with elaborately decorated hides, human figures, and wild animals rendered in ochre, red, white, and brown.

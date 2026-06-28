@@ -13,6 +13,7 @@ tags:
 - things_to_do
 title: Lafcadio Hearn Old Residence
 type: poi
+score: 7.3
 ---
 
 The modest wooden house where Lafcadio Hearn lived during his time in Kumamoto in the early 1890s, before moving on to Matsue and eventually Tokyo. The rooms are spare and atmospheric, furnished as they would have been during his residency. Hearn's writing desk overlooks a small garden. Fans of Japanese literature or of Meiji-era history will find it worth the short detour from the castle.

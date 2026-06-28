@@ -7,6 +7,7 @@ tags:
 latitude: 48.7353
 longitude: 19.1452
 story: "The square's name commemorates the Slovak National Uprising of 29 August 1944, launched from Banská Bystrica. For two months, the city served as the capital of an insurgent-controlled zone stretching across central Slovakia — until the Nazis crushed it in October and burned parts of the city in reprisal."
+score: 8.2
 ---
 
 The main square of Banská Bystrica is one of Slovakia's most attractive, a long Renaissance space lined with merchant townhouses in warm yellows and ochres. The Old Town Hall at the east end — a fine 16th-century building with a characteristic tower — now houses the Central Slovakia Museum. On the square itself, the 16th-century Benický House and the Preacher's House reflect the wealth that copper mining brought to the city.

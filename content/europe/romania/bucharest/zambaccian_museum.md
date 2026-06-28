@@ -1,13 +1,14 @@
 ---
 address: Strada Muzeul Zambaccian 21A, Bucharest
 latitude: 44.4609
-loc_type: feature
-longitude: 26.0910
+longitude: 26.091
+score: 7.5
 snippet: Private collection of Romanian and French modernist painting
 tags:
 - things_to_do
 - museum
 title: Zambaccian Museum
+type: poi
 ---
 
 The private collection of Krikor Zambaccian, an Armenian-Romanian art dealer who in 1947 donated his villa and 290 paintings to the Romanian state. The collection runs heavy on Romanian modernists — Grigorescu, Luchian, Pallady, Petrașcu, Tonitza — and includes Cézanne, Bonnard, Renoir, Matisse, and Pissarro.

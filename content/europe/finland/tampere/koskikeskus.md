@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 61.4958
 longitude: 23.7675
+score: 3.8
 ---
 
 Koskikeskus is the main shopping centre in central Tampere, on Aleksanterinkatu adjacent to Sokos Hotel Ilves. It houses standard Finnish chain stores (Zara, H&M, Finnish department stores) and is primarily of interest as a practical convenience rather than a destination. The location next to the rapids and the river hotel is good.

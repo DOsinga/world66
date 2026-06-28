@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 20.6340
 longitude: 96.5640
+score: 7.8
 ---
 
 Kalaw was developed as a British hill station in the late nineteenth century, and a surprising number of the original buildings survive. Mock-Tudor bungalows with pitched roofs and deep verandas line the streets around the central area, set among gardens that the colonial administration planted with English flowers — roses, marigolds, and sweet peas — alongside the local pine trees. The effect is peculiar and rather charming, a slice of Surrey transplanted into the Shan hills.

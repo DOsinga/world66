@@ -11,6 +11,7 @@ longitude: 120.63
 snippet: "Museum dedicated to Kunqu, one of the world's oldest surviving forms of opera"
 story: >
   Kunqu opera originated in Suzhou in the 14th century and was for centuries China's most prestigious theatrical form — the opera of the elite, performed at court and in the gardens of scholars. By the mid-20th century it had nearly disappeared. The revival began in the 1950s when a group of elderly masters were tracked down and persuaded to teach a new generation of performers. UNESCO recognised it as an Intangible Cultural Heritage in 2001.
+score: 7.7
 ---
 
 The China Kunqu Opera Museum occupies a beautifully restored Qing-dynasty mansion in the old town. Kunqu is one of the oldest surviving forms of Chinese opera, originating in Suzhou in the 14th century, and it remains the most literary and refined of the operatic traditions — slower and more melodically complex than Peking opera, with elaborate costumes and stylised movement that took years to master. This museum tells its story with instruments, costumes, stage sets, and archival recordings.

@@ -7,6 +7,7 @@ tags:
 latitude: -19.7200
 longitude: 63.4600
 story: "The lagoon around Rodrigues is one of the largest enclosed lagoons in the world relative to the island's size — some 200 square kilometres of protected water ringed by barrier reef. The outer reef drops steeply and hosts sharks, rays, and healthy coral that has suffered less bleaching than reefs further west."
+score: 8.9
 ---
 
 Rodrigues has some of the best snorkelling and diving in the Indian Ocean, largely because the island sees far fewer visitors than Mauritius and the reefs have been correspondingly less impacted. Several dive operators in Port Mathurin and Anse aux Anglais offer guided dives to the outer reef and to sites within the lagoon.

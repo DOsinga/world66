@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 61.8380
 longitude: -6.8220
+score: 8.1
 ---
 
 Sandoy is one of the best islands in the Faroese archipelago for walking — not because of dramatic vertical terrain (the other islands have more of that) but because of the quietness. The trails around Sandur and across Sandoy's interior run through pastoral farmland, along coastal cliffs, and across moorland with views to the surrounding islands and ocean.

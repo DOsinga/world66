@@ -10,6 +10,7 @@ longitude: -4.8210
 sources:
   - https://en.wikipedia.org/wiki/Cascades_de_Karfigu%C3%A9la
 story: "The falls are formed where the Komoé River drops off the sandstone plateau of the Burkina Faso uplands on its way south to the Bandama in Côte d'Ivoire. In the rainy season they are spectacular; in February and March the volume drops so low that visitors can walk across the lip of the upper fall. The Komoé eventually flows into the Gulf of Guinea after 1,160 kilometres."
+score: 8.5
 ---
 
 The Cascades de Karfiguéla — also called the Banfora Falls — are a series of waterfalls along the Komoé River about 12 kilometres north of Banfora. The river drops about 150 metres in stages over a kilometre or so of rapids and falls, with deep pools at the foot of the larger drops where swimming is excellent.

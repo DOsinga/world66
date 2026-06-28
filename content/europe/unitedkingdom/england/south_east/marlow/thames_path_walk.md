@@ -7,6 +7,7 @@ snippet: 'A flat, scenic walk along the river through the Chilterns'
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 The stretch of Thames Path between Marlow and Henley-on-Thames is one of the finest sections of the entire national trail. The walk is about 8 miles each way, entirely flat, and follows the river through water meadows, past Hurley Lock and the pretty village of Hurley, and on through Medmenham to Henley. You pass Temple Island — the start point of the Henley Royal Regatta course — before arriving in Henley itself.

@@ -6,6 +6,7 @@ latitude: 38.6895
 longitude: 34.8695
 sources:
   - https://en.wikipedia.org/wiki/Zelve_Monastery
+score: 7.0
 ---
 
 The Fish Church (Balıklı Kilise) is one of the most interesting decorated interiors in the Zelve valley complex. Named for the fish reliefs carved into the rock above the entrance, it is a pre-iconoclastic church — carved and decorated before the 8th-century Byzantine period when representational religious images were forbidden and then restored. The decoration is accordingly symbolic rather than figurative: crosses, geometric patterns, and the fish motif that was an early Christian symbol.

@@ -13,6 +13,7 @@ story: >
   defences of a Chinese coastal position during the conflicts of that era.
   The cannon emplacements, still in place, were imported from Germany and
   represent the Qing dynasty's belated attempt to modernise its coastal defences.
+score: 8.1
 ---
 
 Xiuying Fort (秀英炮台) is a well-preserved 19th-century coastal battery on the western edge of Haikou, built by the Qing government to guard the northern approaches to Hainan Island against French naval incursions. The fort dates to the 1880s and is one of the best-surviving examples of late Qing military architecture in south China.

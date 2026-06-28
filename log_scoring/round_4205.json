@@ -1,0 +1,200 @@
+{
+  "round": 4205,
+  "timestamp": "2026-06-13T23:53:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 3.243,
+      "prior_variance": 0.138886,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 3.2854,
+      "prior_variance": 0.12831,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 5.4053,
+      "prior_variance": 0.138297,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 5.3912,
+      "prior_variance": 0.107123,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_score": 2.1311,
+      "prior_variance": 0.127896,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 2.6624,
+      "prior_variance": 0.117358,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.1116,
+      "prior_variance": 0.086169,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.0885,
+      "prior_variance": 0.110956,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.0724,
+      "prior_variance": 0.101158,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 1.7169,
+      "prior_variance": 0.10699,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -0.4245,
+      "prior_variance": 0.093269,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -0.4671,
+      "prior_variance": 0.116413,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Aizawl",
+      "path": "asia/india/mizoram/aizawl",
+      "prior_score": -3.5631,
+      "prior_variance": 0.111891,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -2.7784,
+      "prior_variance": 0.09974,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.3758,
+      "prior_variance": 0.100421,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.651,
+      "prior_variance": 0.101444,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -3.6139,
+      "prior_variance": 0.114043,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_score": -2.6476,
+      "prior_variance": 0.096584,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -4.0545,
+      "prior_variance": 0.126121,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Ganzhou",
+      "path": "asia/china/jiangxi/ganzhou",
+      "prior_score": -3.2837,
+      "prior_variance": 0.115939,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -3.5751,
+      "prior_variance": 0.115525,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -4.7051,
+      "prior_variance": 0.100182,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_score": -4.6717,
+      "prior_variance": 0.105224,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_score": -5.8565,
+      "prior_variance": 0.132778,
+      "prior_n": 13
+    }
+  ]
+}

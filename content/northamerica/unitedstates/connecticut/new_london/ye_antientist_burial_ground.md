@@ -6,6 +6,7 @@ longitude: -72.10028
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 One of the earliest surviving cemeteries in New England, Ye Antientist Burial Ground contains graves dating to the late 17th century, with worn sandstone and slate markers bearing the skull-and-crossbones imagery typical of early New England funerary art. The inscriptions, where they remain legible, speak in the blunt theological language of Puritan Connecticut.

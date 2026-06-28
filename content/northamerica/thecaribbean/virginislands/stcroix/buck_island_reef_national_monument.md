@@ -14,6 +14,7 @@ story: >
   marked with signposts on the ocean floor — was one of the first such
   trails established anywhere in the world, developed as a way to guide
   snorkelers through the elkhorn coral without them needing a guide.
+score: 9.4
 ---
 
 Buck Island Reef National Monument protects one of the finest elkhorn coral barrier reefs in the Caribbean, lying about a mile and a half off St. Croix's northeast shore. The reef is the main attraction: a sweeping arc of elkhorn coral that rises to within a few feet of the surface and shelters a vivid community of reef fish, sea turtles, rays, and the occasional nurse shark resting on the sandy bottom. The underwater snorkel trail runs through the clearest section of the reef, and the water here is typically calm enough for swimmers of any ability.

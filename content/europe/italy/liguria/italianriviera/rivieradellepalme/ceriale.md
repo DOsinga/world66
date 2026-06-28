@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ceriale-piazza_del_torrion
 latitude: 44.091629
 loc_type: city
 longitude: 8.223251
-score: 0.49
+score: 7.43
+snippet: Western Ligurian beach town watched by a sixteenth-century Bastione and backed
+  by green valleys.
 title: Ceriale
 type: location
 ---

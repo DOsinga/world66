@@ -8,6 +8,7 @@ latitude: 37.4722
 longitude: -5.6370
 sources:
   - https://www.andalucia.com/province/sevilla/carmona/things-to-see
+score: 7.6
 ---
 
 Carmona's municipal museum is housed in the Palacio de los Briones, a handsome Renaissance palace in the old town. The collection takes you from prehistoric times through the Roman, Visigothic, and Moorish periods up to the early modern era, displayed across rooms that make good use of the palace's architecture.

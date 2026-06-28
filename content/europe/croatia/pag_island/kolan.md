@@ -7,6 +7,7 @@ tags:
 - food
 title: Kolan
 type: poi
+score: 6.6
 ---
 
 **Kolan** is a small inland village on the western side of Pag island, set back from the coast in the karst interior. It is one of the island's main sheep-farming settlements and the place most associated with the production of authentic **paški sir** — Pag sheep's cheese. Several local producers sell direct from family farms around Kolan, and buying cheese here rather than from a supermarket gives both a better product and a glimpse into the island's agricultural life.

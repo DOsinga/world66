@@ -10,6 +10,7 @@ longitude: 142.1630
 snippet: Heritage paddlesteamer still running excursions on the Murray River
 story: >
   The PS Melbourne was built in 1912 and is one of the oldest surviving steam-powered paddlesteamers in Australia still in operating condition. For most of the twentieth century, vessels like this were the lifeblood of the inland river system — carrying wool, grain, and passengers along the Murray before the railways arrived and made river transport obsolete. The fact that it still runs under steam power, rather than diesel conversion, is what makes it genuinely rare.
+score: 8.4
 ---
 
 The PS Melbourne is a working museum piece — a wood-fired steam paddlesteamer that has been running on the Murray River since 1912. Regular cruises depart from the Mildura wharf, ranging from short afternoon trips to longer lunch and dinner excursions. Watching the twin paddlewheels churn the Murray's brown water while the steam engine thumps away below deck gives a visceral sense of what river travel looked like in the nineteenth century.

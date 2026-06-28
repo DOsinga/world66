@@ -7,6 +7,7 @@ tags:
 - sight
 title: Farol das Conchas
 type: poi
+score: 7.8
 ---
 
 The Farol das Conchas — "Lighthouse of the Shells" — is a small iron-frame lighthouse built in 1872 on the highest point of the island's narrow waist. The climb up the wooden steps takes ten minutes and rewards you with a 360-degree view: the open Atlantic to the east, the mangroves and bay to the west, and the long curve of beach in both directions.

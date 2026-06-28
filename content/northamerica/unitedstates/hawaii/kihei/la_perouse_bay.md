@@ -8,6 +8,7 @@ latitude: 20.609
 longitude: -156.408
 story: >
   La Pérouse Bay is named for the French explorer Jean-François de Galaup, comte de Lapérouse, who became the first European to land on Maui when he anchored here in 1786. He described the people he met and the landscape at length in his journals. He then sailed away and was never seen again — his entire expedition disappeared in the South Pacific two years later, one of the great maritime mysteries of the 18th century.
+score: 8.1
 ---
 
 La Pérouse Bay sits at the southern end of Kihei, beyond the end of the paved road, in a landscape of raw black lava flows from the most recent eruption on this part of Maui (around 1790). The lava field is rough and dramatic, the vegetation sparse, and the bay itself — accessed by a dirt track — is calm, clear, and almost always uncrowded. The Ahihi-Kinau Natural Area Reserve covers this coastline and protects one of the best remaining coral reef systems on Maui.

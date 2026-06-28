@@ -15,6 +15,7 @@ story: >
   foundation. This means decisions about what to display, how to explain it, and what not
   to show are made by the communities whose heritage is on display. The result is a museum
   that tells a story the Pueblos want told, in their own words.
+score: 8.8
 ---
 
 The Indian Pueblo Cultural Center is one of the most important cultural institutions in New Mexico — a museum and cultural space owned and operated by all 19 Pueblo nations, presenting Pueblo history, art, and living culture on their own terms. The permanent collection covers Pueblo history from pre-contact to the present, including the 1680 Pueblo Revolt (which drove the Spanish from New Mexico for twelve years) and the continuity of traditional arts through to the present day.

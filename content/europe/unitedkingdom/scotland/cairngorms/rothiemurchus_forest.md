@@ -15,6 +15,7 @@ story: >
   oldest continuously wooded landscapes in Britain.
 sources:
   - https://en.wikipedia.org/wiki/Rothiemurchus_Forest
+score: 8.4
 ---
 
 Rothiemurchus Forest is a remnant of the ancient Caledonian pinewood that once stretched across the Scottish Highlands, and one of the finest examples of this habitat in Scotland. The forest covers the slopes south of Aviemore between the Spey Valley and the foot of the Cairngorm plateau, a mosaic of old Scots pines, birch, juniper, and heather. The light beneath the old pines is distinctive — amber-filtered, resinous-smelling — and the forest floor is a dense carpet of blaeberry and heather.

@@ -16,6 +16,7 @@ story: >
   beside the Havel, with garden buildings named for Pompeii and the Bosporus.
 sources:
   - https://en.wikipedia.org/wiki/Klein_Glienicke_Palace
+score: 8.5
 ---
 
 Glienicke Palace (Klein-Glienicke) stands directly beside the Glienicke Bridge on the Potsdam side of the Havel — a white neoclassical villa set in an English landscape park designed by Lenné and richly decorated with ancient Greek and Roman sculpture collected by Prince Karl of Prussia during his Italian travels. The combination of Schinkel architecture, Lenné landscape, and genuine classical antiquities makes it one of the most complete and satisfying of Potsdam's UNESCO properties.

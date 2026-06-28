@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When the House of Menander was excavated in 1927–32, archaeologists discovered a wooden chest in a locked service room containing 118 pieces of silver tableware — spoons, cups, plates, mirrors — carefully wrapped in cloth for storage. The owners had apparently packed it away before the eruption, expecting to return and retrieve it. The Boscoreale Treasure, as it is known, is now in the National Archaeological Museum in Naples and is one of the finest collections of Roman silver in existence."
+score: 8.2
 ---
 
 One of the finest and largest houses in Pompeii, covering about 1,800 square metres of a residential block. The house is named for a portrait of the Greek playwright Menander painted in one of the rooms — evidence of the owner's cultural pretensions. The atrium, peristyle, and reception rooms are well-preserved, and the private bath suite (a rare luxury in a private home) gives a sense of the household's considerable wealth.

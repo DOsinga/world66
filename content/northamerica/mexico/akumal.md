@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Akumal_Half-moon_Bay-27527
 latitude: 20.398797
 loc_type: city
 longitude: -87.31734
-score: 0.59
+score: 8.54
+snippet: Riviera Maya seaside village where green sea turtles feed in the shallow
+  seagrass of Akumal Bay.
 title: Akumal
 type: location
 ---

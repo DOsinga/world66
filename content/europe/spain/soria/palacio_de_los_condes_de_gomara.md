@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.7646
 longitude: -2.4646
+score: 6.6
 ---
 
 The most imposing building in the old city of Soria is the Palacio de los Condes de Gómara, a long Renaissance palace running nearly the full length of the Calle Mayor. Built in the sixteenth century for the local nobility, its main facade is a lesson in Plateresque ornament: a hundred metres of elaborately carved stonework with a tower at each end and a richly decorated entrance portal in the centre.

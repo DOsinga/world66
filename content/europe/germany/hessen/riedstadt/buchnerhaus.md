@@ -17,6 +17,7 @@ story: >
   1925.
 sources:
   - https://en.wikipedia.org/wiki/Georg_B%C3%BCchner
+score: 7.8
 ---
 
 The Büchnerhaus in Goddelau is a modest but thoughtfully presented museum in the house where Georg Büchner was born on 17 October 1813. Büchner is one of the most remarkable figures in German literary and political history: in just 23 years he wrote Danton's Death, Woyzeck, and Leonce and Lena, founded a radical political movement, fled prosecution for sedition, and died in exile in Zurich. The Woyzeck fragment alone secured his place in the canon of European literature, and the Hessische Landbote — the revolutionary pamphlet he co-wrote in 1834 — remains a landmark document of early German radicalism.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Tatra Museum
 type: poi
+score: 7.3
 ---
 
 The main building of the Muzeum Tatrzańskie at 10 Krupówki Street is the place to understand the culture that made Zakopane distinct. The permanent collection covers Góral folk art, traditional costume, musical instruments, and domestic objects from the highland communities that have lived in the Tatras for centuries. A separate floor covers the natural history and ecology of the Tatry National Park.

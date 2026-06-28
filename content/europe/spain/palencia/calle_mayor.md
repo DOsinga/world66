@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 42.0115
 longitude: -4.534
+score: 6.4
 ---
 
 Calle Mayor is Palencia's main street — a long, partially arcaded pedestrian avenue running through the heart of the old city. It functions as the social spine of the city, with cafes, shops, bars, and the daily rhythms of Spanish provincial life playing out along its length from morning to late at night. The arcaded sections provide shade in summer and shelter in the cold Castilian winters.

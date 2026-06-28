@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bolzano_-_50417361231.jpg
 latitude: 46.655946
 loc_type: city
 longitude: 11.230213
-score: 0.67
+score: 8.77
+snippet: South Tyrolean Alpine city where Italian and Austrian cultures meet beneath
+  the Dolomites.
 title: Bolzano
 type: location
 ---

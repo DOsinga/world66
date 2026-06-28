@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.060395
 longitude: 11.603645
+score: 7.7
 ---
 
 San Quirico d'Orcia has been a waypoint on the Via Francigena — the great medieval pilgrimage route from Canterbury to Rome — since at least the 12th century. The town sits at a natural stopping point where the route crosses the Orcia river, and the Collegiata was built in part to serve the thousands of pilgrims who passed through each year.

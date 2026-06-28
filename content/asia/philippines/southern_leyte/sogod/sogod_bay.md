@@ -8,6 +8,7 @@ tags:
 latitude: 10.33
 longitude: 124.9
 story: "Sogod Bay is one of the best whale shark aggregation sites in the Philippines — a fact largely unknown outside diving circles, which is precisely what makes it interesting. The whale sharks that gather at Donsol in Sorsogon are famous; those in Southern Leyte's waters are not, and you are unlikely to share the experience with crowds."
+score: 8.0
 ---
 
 Sogod Bay stretches along the western coast of Southern Leyte. While its name is not prominent in the Philippine tourist literature, the bay has excellent marine biodiversity — healthy coral reefs, diverse fish life, and occasional whale shark sightings make it a worthwhile diving and snorkelling destination for those who get this far south.

@@ -8,6 +8,7 @@ tags:
   - cafe
   - wuchang
 neighbourhood: Wuchang
+score: 6.2
 ---
 
 Tanhualin, the steep narrow old street running across Wuchang's missionary quarter, has become Wuhan's cafe district in recent years. Independent coffee shops are scattered along its length, often built into the stone-fronted houses left by 19th-century missionaries. The crowd is creative and young, the prices are higher than at the chains, and the coffee is mostly very good.

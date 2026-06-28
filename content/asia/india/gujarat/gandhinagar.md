@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Akshardham_Gandhinagar_Guj
 latitude: 23.2232
 loc_type: city
 longitude: 72.6493
-score: 0.39
+score: 6.56
+snippet: Planned Gujarat capital of numbered sectors and green avenues, anchored by
+  the pink sandstone Akshardham complex
 title: Gandhinagar
 type: location
 ---

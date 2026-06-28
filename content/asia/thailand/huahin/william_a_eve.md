@@ -2,8 +2,11 @@
 accessibility: walking street
 address: 8 Naresdamri  Rd Hua Hin down by the fishing pier turn right out of the Hilton
 email: info@buffalobillshuahin.com
+latitude: 12.5712
+longitude: 99.9598
 phone: 032-530087 086 6035335
 price: 40 Baht - 680 Baht
+score: 3.9
 tags:
 - eating_out
 - restaurant

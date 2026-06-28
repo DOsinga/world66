@@ -2,11 +2,13 @@
 address: Fifth Avenue at 49th Street
 latitude: 40.7582
 longitude: -73.9769
-phone: "212-753-4000"
+phone: 212-753-4000
+score: 5.3
 snippet: Iconic luxury department store opposite Rockefeller Center
 tags:
 - shopping
 - shop
+- midtown
 title: Saks Fifth Avenue
 type: poi
 ---

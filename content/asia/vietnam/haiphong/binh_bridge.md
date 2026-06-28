@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The Bính Bridge is a cable-stayed bridge across the Cấm River, completed in 2005 with Japanese funding and design. At 1,280 metres it was one of the longest cable-stayed bridges in Vietnam at the time and is the principal road link between central Haiphong and the northern districts.

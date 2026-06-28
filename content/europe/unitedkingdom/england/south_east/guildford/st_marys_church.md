@@ -8,6 +8,7 @@ tags:
 - sight
 story: "The square stone tower of St Mary's, built in the late 10th or early 11th century, is the oldest surviving structure of any kind in Guildford. Lewis Carroll preached occasionally from a small pulpit inside the church while he was visiting his sisters at The Chestnuts; the pulpit is still in place."
 snippet: Anglo-Saxon tower and the church Lewis Carroll preached in
+score: 8.4
 ---
 
 The oldest building in Guildford, with an Anglo-Saxon tower from before the Norman Conquest. The body of the church is mostly 12th and 13th-century, with later medieval additions, and the interior is one of the most peaceful in town — small, dim, and almost untouched by Victorian restoration.

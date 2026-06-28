@@ -14,6 +14,7 @@ tags:
 - historic
 title: Walls of Ávila
 type: poi
+score: 9.7
 ---
 
 The walls of Ávila are the defining feature of the city and among the best-preserved medieval fortifications in the world. Completed in the late 11th century, the circuit runs 2.5 kilometres around the entire old town, with 88 semicircular towers and nine gates. The granite construction is remarkably intact — repairs have been made over the centuries but the basic fabric is original. A UNESCO World Heritage Site since 1985.

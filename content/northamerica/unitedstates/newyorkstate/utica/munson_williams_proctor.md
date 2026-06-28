@@ -13,6 +13,7 @@ story: >
   favorite works, though critics were divided. The pairing of the two buildings
   side by side remains one of the more striking architectural arguments in
   upstate New York.
+score: 8.6
 ---
 
 One of the most important regional art museums in the northeast, housing a substantial collection of American art from the 18th century to the present. The Philip Johnson building from 1960 is a landmark of mid-century architecture — a severe granite and glass cube set in a formal landscape. Inside, the permanent collection includes major works by Thomas Cole, Winslow Homer, and Jackson Pollock.

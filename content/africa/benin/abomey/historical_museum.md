@@ -7,6 +7,7 @@ tags:
 latitude: 7.1849
 longitude: 1.9887
 snippet: One of West Africa's best regional museums, housed within the palace complex
+score: 9.0
 ---
 
 The Abomey Historical Museum occupies the palaces of King Guézo and King Glèlè within the Royal Palaces complex and is generally considered one of the finest regional museums in West Africa. The collection of over 1,000 objects includes royal thrones, weapons, ceremonial regalia, and the remarkable anthropomorphic statues of the kings — each king had a statue incorporating an animal symbol that stood for his rule.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - bridge
+score: 7.5
 ---
 
 The bascule bridge at the centre of the village is the image of Woudsend: a steep wooden drawbridge over the narrow Ee, with the two windmills standing on the canal banks either side and the stepped-gable houses lining the water beyond. In summer it opens regularly to let yachts through.

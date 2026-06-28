@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.5000
 longitude: -78.6333
+score: 6.6
 ---
 
 Taino Beach, a few kilometres east of Port Lucaya, has a strip of casual Bahamian restaurants that serve the real local food without the tourist markup. The conch vendors here — typically operating from open-air stands or trucks — sell cracked conch, conch fritters, and conch salad made to order: fresh conch chopped fine with onion, pepper, orange juice, and lime.

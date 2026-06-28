@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Festung_Munot_mit_dem_Rhei
 latitude: 47.696049
 loc_type: city
 longitude: 8.634513
-score: 0.59
+score: 8.46
+snippet: Swiss Rhine city near Germany, with a painted medieval old town, Munot fortress,
+  and nearby Rhine Falls.
 title: Schaffhausen
 type: location
 ---

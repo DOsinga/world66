@@ -8,6 +8,7 @@ latitude: 16.5
 loc_type: region
 longitude: -92.5
 score: 0.62
+snippet: "Southern Mexican state of Maya highlands, jungle ruins, Indigenous communities, waterfalls, and the Sumidero Canyon."
 title: Chiapas
 type: location
 ---

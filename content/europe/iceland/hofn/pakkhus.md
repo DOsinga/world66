@@ -8,6 +8,7 @@ tags:
 - restaurant
 - seafood
 snippet: Höfn's most celebrated restaurant in a harbour warehouse — the langoustine is the whole point
+score: 7.6
 ---
 
 Pakkhús occupies an old packing warehouse by the harbour and has been the town's most celebrated restaurant for years. The menu covers Icelandic fish and lamb, but the langoustine tail with garlic butter is the dish that made the place famous — and it deserves the reputation. The langoustine are hauled from the waters just outside, cooked simply, and served in a way that lets the sweetness of the meat do the work. There is nothing complicated about it. It is just very, very good.

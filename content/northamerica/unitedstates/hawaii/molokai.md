@@ -5,8 +5,14 @@ latitude: 21.1345
 loc_type: region
 longitude: -157.0072
 score: 0.55
+snippet: Least-developed major Hawaiian island, with towering north-shore sea cliffs
+  and strong native Hawaiian roots
 title: Molokai
 type: location
+image: molokai.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Molokai_Sea_Cliffs.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Jay
 ---
 
 Molokai is the fifth largest of the Hawaiian islands and by far the least developed — there are no traffic lights, no buildings taller than a coconut palm, and no resort strip. Just twenty minutes by air from [Maui](/northamerica/unitedstates/hawaii/maui) and [Oahu](/northamerica/unitedstates/hawaii/oahu), it feels like a different century.

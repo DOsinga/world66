@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nkob_village_d%E2%80%99acc
 latitude: 30.6096
 loc_type: city
 longitude: -7.4333
-score: 0.52
+score: 7.43
+snippet: Southern Draa Valley village with an exceptional concentration of kasbahs
+  on the road to the Sahara
 title: Nkob
 type: location
 ---

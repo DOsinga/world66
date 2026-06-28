@@ -8,6 +8,7 @@ tags:
   - countryside
 title: "Camargue Bull Manades"
 type: poi
+score: 6.6
 ---
 
 The manades are the ranches where Camargue bulls and horses are raised, and they are central to local identity. Visits can include demonstrations by gardians, meals, and explanations of the course camarguaise, a local bull game that is very different from Spanish-style bullfighting.

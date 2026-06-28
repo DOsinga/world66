@@ -10,6 +10,7 @@ tags:
 - sight
 - church
 - architecture
+score: 6.7
 ---
 
 The Capela de Nossa Senhora das Vitórias is a small neo-Gothic chapel on the south-western shore of Lagoa das Furnas, built between 1862 and 1886 by the wealthy land-owner José do Canto in memory of his wife Maria Guilhermina Brickwood, who died young. The chapel is the centrepiece of the formal mata-jardim — woodland garden — that the same man laid out around the lake, planting thousands of trees imported from around the world.

@@ -8,6 +8,7 @@ tags:
 title: Royal Northern College of Music
 type: poi
 url: https://www.rncm.ac.uk
+score: 7.2
 ---
 
 One of the UK's leading conservatoires, the RNCM hosts a packed calendar of public performances — orchestral concerts, chamber music, jazz, opera, and new work by students and visiting professionals alike. The concert hall and theatre are proper venues, not practice-room affairs, and ticket prices are often a fraction of what you'd pay at the Bridgewater Hall down the road. Many lunchtime recitals are free.

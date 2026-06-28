@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 52.6307
+loc_type: feature
 longitude: 1.55
+score: 7.93
+snippet: Protected English wetland of navigable rivers, flooded medieval peat diggings,
+  reedbeds, and hire-boat villages
 title: The Norfolk Broads
 type: location
-score: 0.56
-loc_type: feature
 ---
 
 The Norfolk Broads is England's largest protected wetland and one of its most distinctive landscapes — a place that most visitors arrive at by boat and many never want to leave. Formed by medieval peat diggings that flooded over centuries, the Broads now comprise around 125 miles of navigable waterways: rivers, lakes (called broads), and drainage channels spread across Norfolk and into neighbouring Suffolk.

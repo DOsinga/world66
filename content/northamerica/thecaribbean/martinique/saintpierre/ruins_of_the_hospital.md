@@ -8,6 +8,7 @@ latitude: 14.7420
 longitude: -61.1750
 sources:
   - https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique
+score: 7.8
 ---
 
 The ruins of the old military hospital are among the more extensive building remains in Saint-Pierre. The original structure was a substantial colonial institution — multiple wards, courtyards, and outbuildings — and the 1902 eruption left the walls standing to a considerable height while destroying everything inside. Today the roofless rooms are overgrown, with trees growing up through the wards and bougainvillea covering sections of the stonework.

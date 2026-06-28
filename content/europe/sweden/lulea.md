@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lulea-city-festival-water.
 latitude: 65.5845
 loc_type: city
 longitude: 22.1505
+score: 7.38
+snippet: Northern Swedish university city on Bothnian Bay, where winter sea ice shapes
+  daily life
 sources:
 - https://en.wikipedia.org/wiki/Lule%C3%A5
 - https://en.wikivoyage.org/wiki/Lule%C3%A5

@@ -7,6 +7,7 @@ tags:
 latitude: 25.695000
 longitude: 32.635000
 snippet: "Multi-day cruise between Luxor and Aswan, stopping at Edfu, Kom Ombo, and other temples"
+score: 7.7
 ---
 
 The classic Nile cruise between Luxor and Aswan is one of the great slow journeys in travel. The four-day southward route (or three days returning north) passes through agricultural Upper Egypt, stopping at the Ptolemaic temples of Edfu and Kom Ombo and arriving at Aswan past the modern monuments of Nubia. Most cruises include guided visits to all the temples.

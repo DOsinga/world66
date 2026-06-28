@@ -6,11 +6,13 @@ done:
 latitude: -22.984
 longitude: -43.199
 phone: 2247-8220
+score: 3.8
 snippet: Two-floor Ipanema club, hip hop downstairs, lounge upstairs
 tags:
 - bars_and_cafes
 - bar
 - club
+- ipanema
 title: Cristal Lounge
 type: poi
 ---

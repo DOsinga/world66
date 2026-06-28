@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.4
 ---
 
 Göhren is the easternmost of Rügen's main seaside resorts, sitting on the narrow Mönchgut peninsula with beaches on both the north and south sides. It is smaller and less polished than Binz, with much of its Wilhelmine pier architecture intact and a quieter, more local feel.

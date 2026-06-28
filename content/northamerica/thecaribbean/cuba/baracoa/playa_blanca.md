@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.3
 ---
 
 A small white-sand beach just beyond Playa Maguana, reached by a short walk along a coastal path from the main beach. It is usually quieter than its neighbour and the water is just as clear. Local fishermen sometimes have a hut at the back of the beach selling freshly grilled fish; otherwise, bring your own picnic.

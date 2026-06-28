@@ -3,10 +3,11 @@ address: Candlemaker Row, Edinburgh EH1 2QQ
 latitude: 55.946841
 longitude: -3.191286
 opening_hours: 10.30am-4.30pm
+score: 8.8
 snippet: Atmospheric Old Town graveyard with the famous Greyfriars Bobby statue.
 tags:
 - things_to_do
-- old_town
+- oldtown
 - monument
 title: Greyfriars Kirkyard
 type: poi

@@ -14,6 +14,7 @@ story: >
   local tradition, he took revenge by having grotesque stone carvings of the councillors'
   faces placed on the ground floor of his new house — permanently sneering at the town
   hall across the square.
+score: 8.2
 ---
 
 Jens Bang's House at Østerågade 9 is the most striking private building in Aalborg and one of the finest examples of Dutch Renaissance architecture in Denmark. Built in 1624 for the wealthy merchant Jens Bang, the five-storey sandstone facade is decorated with elaborate carvings, grotesque figures, coats of arms, and — if local tradition is to be believed — caricatures of the town councillors Bang despised. The building has been in continuous use ever since, currently housing a pharmacy in the street-level vaults.

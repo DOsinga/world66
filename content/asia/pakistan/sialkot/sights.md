@@ -1,8 +1,9 @@
 ---
 address: Ghazi Road, V-Mail, Cant, Sialkot
 opening_hours: '12.00'
+score: 5.4
 title: Sights in Sialkot
-type: poi
+type: section
 ---
 
 ***Iqbal's Birth Place , Iqbal Manzil*** is situated on Iqbal Road in the old city.

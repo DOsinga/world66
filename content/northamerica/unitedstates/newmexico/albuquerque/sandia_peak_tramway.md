@@ -15,6 +15,7 @@ story: >
   suspended in mid-air — over a 500-metre void between towers. The lower tower is in the
   desert at 1,980 metres; the upper terminal is at 3,255 metres in a completely different
   ecosystem of fir and aspen forest.
+score: 8.7
 ---
 
 The Sandia Peak Tramway rises from the desert floor at the eastern edge of Albuquerque to the crest of the Sandia Mountains in about 15 minutes — a vertical gain of 1,275 metres in a single cable span. The views from the top are genuinely extraordinary: on a clear day you can see from Arizona to Texas, the Rio Grande snaking through cottonwood bosque far below, and the city spread across the valley like a circuit board. The summit at 3,255 metres is cool even in summer and often snowy in winter.

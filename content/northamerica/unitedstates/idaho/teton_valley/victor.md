@@ -5,7 +5,9 @@ done:
 latitude: 43.603
 loc_type: city
 longitude: -111.128
-score: 0.44
+score: 7.1
+snippet: Teton Valley town at the foot of Teton Pass, with ranch roots and Grand Teton
+  views
 title: Victor
 type: location
 ---

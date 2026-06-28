@@ -6,6 +6,7 @@ tags:
 - music
 latitude: 34.6825
 longitude: 135.533
+score: 5.6
 ---
 
 The large indoor arena inside Osaka Castle Park, with a capacity of 16,000, that has been one of Japan's most important concert venues since it opened in 1983. Almost every major Japanese musical act has performed here, and international tours regularly include it as one of their Japan dates. The venue is also used for sports events and ceremonies.

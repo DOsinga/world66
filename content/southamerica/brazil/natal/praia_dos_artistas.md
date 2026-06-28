@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -5.7967
 longitude: -35.2017
+score: 6.4
 ---
 
 Praia dos Artistas is the closest beach to Natal's city center, a short strip of sand where the Potengi River meets the sea near the old Ribeira neighborhood. It is a people's beach rather than a tourist destination — local families use it at weekends, and the fishing boats that work the river mouth anchor here. The water quality is not as good as Ponta Negra's, but the setting, with the old city and the Forte dos Reis Magos visible to the north, is more atmospheric than the hotel-lined beaches further south.

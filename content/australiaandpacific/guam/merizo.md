@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-02'
+image: merizo.jpg
+image_attribution: LittleT889
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Malesso,_Guam.jpg
 latitude: 13.268297
 loc_type: city
 longitude: 144.672611
-score: 0.44
+score: 7.15
+snippet: Southern Guam village with Chamorro traditions, Spanish colonial traces,
+  and a reef-protected lagoon facing Cocos Island
 title: Merizo
 type: location
-image: merizo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Malesso,_Guam.jpg
-image_license: CC BY-SA 4.0
-image_attribution: LittleT889
 ---
 
 Merizo is a small village at the southern tip of Guam, one of the most traditional Chamorro communities on the island. It sits on a calm lagoon protected by a reef, with [Cocos Island](/australiaandpacific/guam/merizo/cocos_island) visible just offshore. The pace of life here is noticeably slower than in the tourist areas to the north, and the concentration of Spanish colonial heritage makes it the most historically interesting village on Guam.

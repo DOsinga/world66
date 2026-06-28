@@ -11,6 +11,7 @@ tags:
 - petrogradsky
 title: Aurora Cruiser
 type: poi
+score: 7.2
 ---
 
 The cruiser Aurora sits permanently moored on the Petrogradskaya Embankment of the Bolshaya Nevka River. Built in 1900, it saw action in the Russo-Japanese War before becoming the most famous ship in Soviet history. Today it serves as a branch of the Naval Museum. The interior has been preserved with period artifacts and exhibits about the ship's role in Russian naval history.

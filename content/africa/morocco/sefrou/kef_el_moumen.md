@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8100
 longitude: -4.8200
+score: 6.4
 ---
 
 The Kef el-Moumen caves lie in the hills south of Sefrou, and contain ancient rock-cut tombs. Local tradition holds that one of them is the tomb of the biblical prophet Daniel — a claim that places Sefrou in the same company as several other Moroccan towns that make similar assertions about various prophets, and which should be taken accordingly.

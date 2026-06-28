@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.2
 ---
 
 The cathedral, completed in 1958, is one of the more characterful buildings to survive in central Pointe-Noire — a wide, low-slung concrete structure with a separate freestanding bell tower, in the late-colonial modernist style that turned up across French-speaking Africa in the 1950s. It is the seat of the Archdiocese of Pointe-Noire and the principal Catholic church in the city.

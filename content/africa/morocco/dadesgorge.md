@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 31.5106
+loc_type: feature
 longitude: -5.9583
+score: 8.65
+snippet: High Atlas gorge where red cliffs, green riverbed fields, and hairpin roads
+  cut through the Dades valley.
 title: Dades Gorge
 type: location
-score: 0.66
-loc_type: feature
+image: dadesgorge.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gorges_du_dades03.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Hans Peter Schaefer (= Hps-poll)
 ---
 
 The Dades Gorge cuts through the eastern High Atlas in [Morocco](/africa/morocco), carving a dramatic valley between the town of Boumalne Dades and the mountains to the north. The lower valley is wide and colourful — green riverbed vegetation set against red, scarlet, and ochre rock — before the gorge narrows dramatically at Ait Oudinar, where the road twists through a series of hairpin bends beneath towering cliff walls.

@@ -1,0 +1,200 @@
+{
+  "round": 4479,
+  "timestamp": "2026-06-14T00:15:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 5.0687,
+      "prior_variance": 0.103331,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 3.0103,
+      "prior_variance": 0.112242,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 3.5809,
+      "prior_variance": 0.125452,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_score": 4.2314,
+      "prior_variance": 0.093884,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 2.9993,
+      "prior_variance": 0.095533,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.207,
+      "prior_variance": 0.089147,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 2.8016,
+      "prior_variance": 0.095204,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 2.3114,
+      "prior_variance": 0.085153,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 2.9419,
+      "prior_variance": 0.094975,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.4962,
+      "prior_variance": 0.099042,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": -0.4093,
+      "prior_variance": 0.107908,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -1.21,
+      "prior_variance": 0.090302,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": -0.171,
+      "prior_variance": 0.087599,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -1.305,
+      "prior_variance": 0.107439,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.3502,
+      "prior_variance": 0.097386,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -1.7173,
+      "prior_variance": 0.098538,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -4.416,
+      "prior_variance": 0.122236,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.3141,
+      "prior_variance": 0.093629,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -1.6388,
+      "prior_variance": 0.118825,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -4.493,
+      "prior_variance": 0.132593,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -4.2405,
+      "prior_variance": 0.106545,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.1947,
+      "prior_variance": 0.100818,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -6.5792,
+      "prior_variance": 0.146882,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -9.7933,
+      "prior_variance": 0.216797,
+      "prior_n": 14
+    }
+  ]
+}

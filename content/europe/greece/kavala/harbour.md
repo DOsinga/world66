@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.9380
 longitude: 24.4080
+score: 7.6
 ---
 
 The working harbour is the liveliest part of the lower town, and the morning fish market near the port is the best place in Kavala to feel the city's identity as a fishing port and commercial hub. Arriving early — before 8am — is ideal: the catch has just been landed and the market fills with local buyers, taverna owners selecting the day's seafood, and the general organized chaos of a real fish trade.

@@ -1,10 +1,11 @@
 ---
+score: 6.8
 tags:
 - Roman Cucina Povera
 - day_guides
 - restaurant
 title: 'Rome''s Cucina Povera: Eating in Testaccio — The Good Food Guide'
-type: poi
+type: theme
 url: thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-testaccio-rome-daily-pasta-rituals-in-the-home-of-quinto-quarto
 ---
 

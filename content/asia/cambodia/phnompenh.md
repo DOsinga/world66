@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Royal_Palace,_Phnom_Penh_C
 latitude: 11.5564
 loc_type: city
 longitude: 104.9282
-score: 0.63
+score: 8.45
+snippet: Cambodian capital at the Mekong and Tonle Sap confluence, with royal spires
+  and French boulevards.
 title: Phnom Penh
 type: location
 ---

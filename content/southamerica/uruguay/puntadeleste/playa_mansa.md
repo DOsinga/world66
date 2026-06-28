@@ -7,6 +7,7 @@ tags:
 latitude: -34.9495
 longitude: -54.9302
 snippet: "The sheltered bay beach — flat water, family-friendly, good for sunsets"
+score: 7.1
 ---
 
 Playa Mansa stretches along the western, bay-facing side of the Punta del Este peninsula, looking out over the Río de la Plata toward the Argentine coast. The name means "calm beach," which describes it exactly: the water here is flat and sheltered, with no real surf, and the colour is a different shade from the Brava side — greener and cooler. It is the beach for families and for anyone who prefers swimming to wave-dodging.

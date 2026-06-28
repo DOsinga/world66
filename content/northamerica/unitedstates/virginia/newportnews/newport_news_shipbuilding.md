@@ -9,6 +9,7 @@ tags:
   - sight
 story: "The shipyard has built every nuclear-powered aircraft carrier in the US fleet, and is the only place in the country that can — the gantry crane lifting the assembled hulls is the largest in the Western Hemisphere, capable of lifting over 1,000 tonnes in a single pick."
 snippet: "Largest industrial employer in Virginia, the only US yard that builds nuclear aircraft carriers"
+score: 7.3
 ---
 
 You cannot tour the yard itself — this is one of the most secure industrial sites in the country — but you can stand on the waterfront and see the carriers under construction or refit. The huge yellow Goliath crane is visible from across Hampton Roads. The yard was founded by Collis P. Huntington in 1886 as the Chesapeake Dry Dock and Construction Company, and it has shaped the city ever since: at peak World War II employment it had 31,000 workers, and the company still employs about 25,000 people today.

@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: Tantra
 type: poi
+score: 5.4
 ---
 
 Also inside The Park Hotel, Tantra is one of Kolkata's top nightclubs. The music is loud, the dance floor is packed, and the crowd skews young. Off to one side there is a lounge area with flowing curtains and big cushions where you can catch your breath. Not the place for conversation, but good fun if you want to dance.

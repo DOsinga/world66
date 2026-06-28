@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 2.8119
 longitude: 104.1614
+score: 8.1
 ---
 
 Renggis Island is a tiny rock islet just offshore from the Berjaya Tioman Beach Resort, a short swim or kayak from Tekek's southern beach. The surrounding reef is one of the most accessible and productive snorkelling spots on the island's west coast, with healthy coral gardens, reef fish in abundance, and frequent sightings of blacktip reef sharks and green sea turtles. The clarity of the water here on a calm day is exceptional.

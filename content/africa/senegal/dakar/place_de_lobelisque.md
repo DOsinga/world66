@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Large open square with the city's tallest obelisk, a focal point for protests and rallies"
+score: 4.8
 ---
 
 The Place de l'Obélisque is a vast paved square in central Dakar built around a tall white obelisk that commemorates the country's independence. It is one of the few large open spaces in the dense city core and acts as the unofficial venue for major political rallies, religious gatherings and the occasional concert.

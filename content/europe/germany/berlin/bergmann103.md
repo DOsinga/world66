@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Bergmann 103
 type: poi
+score: 5.7
 ---
 
 A spacious café on two floors on the lively Bergmannstraße, with food from all over the world and pavement tables for watching the neighbourhood go by. Good for a long breakfast or a late afternoon beer.

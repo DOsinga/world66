@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
   - sight
+score: 7.6
 ---
 
 The long curving bay south of Klong Chao, with shallow turquoise water and a gentler crowd than its better-known neighbour. Bang Bao is wide enough that even with a handful of small resorts strung along it the beach never feels busy — at low tide the exposed sand bar stretches several hundred metres out into the sea.

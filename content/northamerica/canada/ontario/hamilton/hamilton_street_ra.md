@@ -7,6 +7,7 @@ title: Hamilton Street Railway
 type: poi
 snippet: "City bus network covering Hamilton and surrounding areas"
 url: https://www.hamilton.ca/hsr
+score: 2.5
 ---
 
 The Hamilton Street Railway (HSR) is the public transit system for the City of Hamilton, covering the urban core as well as Stoney Creek, Dundas, and Ancaster. Buses run frequently on most routes seven days a week.

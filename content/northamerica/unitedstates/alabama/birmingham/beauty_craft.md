@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Parkside Bar and Cafe
 type: poi
+score: 4.8
 ---
 
 A neighborhood bar and cafe just south of Railroad Park with a wide selection of craft beers, a good whiskey selection, and a kitchen that runs later than most places in Birmingham. The outdoor seating overlooks a small park, making it a natural stop before or after a walk through Railroad Park.

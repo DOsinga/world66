@@ -3,7 +3,7 @@ title: Day Trips
 type: section
 ---
 
-The ruins of [Apollonia](/europe/albania/apollonia) are the most compelling excursion from this part of Albania. One of the most significant ancient Greek colonies on the Adriatic, Apollonia was founded in the 7th century BC and became a major intellectual and commercial centre — Julius Caesar studied rhetoric here. The ruins are around 30 kilometres northwest of Corrush and include a substantial theatre, temple remains, and a well-presented museum. The site sits on a hill above the village of Pojan with good views across the plain.
+The ruins of Apollonia are the most compelling excursion from this part of Albania. One of the most significant ancient Greek colonies on the Adriatic, Apollonia was founded in the 7th century BC and became a major intellectual and commercial centre — Julius Caesar studied rhetoric here. The ruins are around 30 kilometres northwest of Corrush and include a substantial theatre, temple remains, and a well-presented museum. The site sits on a hill above the village of Pojan with good views across the plain.
 
 [Fier](/europe/albania/fier) is the nearest city, around 25 kilometres northwest, and offers the full range of Albanian urban life — a busy bazaar area, restaurants, and the regional museum with displays on Apollonia and the wider region.
 

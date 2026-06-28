@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/79721788@N00/32423496247
 latitude: 13.0087
 loc_type: city
 longitude: -61.2327
-score: 0.54
+score: 8.65
+snippet: Small Grenadine island with hilly villages, Admiralty Bay anchorage, and
+  a slow Caribbean pace.
 title: Bequia
 type: location
 ---

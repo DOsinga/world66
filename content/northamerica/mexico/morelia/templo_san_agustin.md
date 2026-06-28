@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 19.7040
 longitude: -101.1923
+score: 8.3
 ---
 
 The Templo de San Agustín is one of Morelia's most striking churches, its facade covered in densely carved baroque decoration that overwhelms the eye in the best possible way. Built by the Augustinian order in the 17th century, it sits on a small plaza a few blocks north of the main cathedral and feels less visited and more atmospheric for it. The carved stone vines, angels, and figures crowd every surface in a style that represents the high point of Mexican baroque exuberance.

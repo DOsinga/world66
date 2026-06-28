@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 51.6859
 longitude: 5.3036
+score: 6.6
 ---
 
 De Toonzaal is a music venue housed in the city's former synagogue, a striking Moorish Revival building from 1927. The synagogue was used during the German occupation and the building fell into disuse after the war, but was eventually restored and repurposed as a concert hall for chamber music, experimental music, and improvised performance.

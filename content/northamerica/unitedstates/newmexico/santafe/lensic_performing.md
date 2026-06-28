@@ -7,7 +7,13 @@ email: sales@lensic.com
 latitude: 35.687911
 longitude: -105.941065
 phone: +1 505 988 7050
+score: 7.5
 snippet: 1931 Moorish-Spanish Revival theatre, Santa Fe's cultural anchor
+tags:
+- things_to_do
+- theatre
+- architecture
+- performance
 title: Lensic Performing Arts Center
 type: poi
 url: www.lensic.com

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG
 latitude: 25.4611
 loc_type: feature
 longitude: 107.8801
+score: 7.38
+snippet: Southern Guizhou karst county of turquoise rivers, waterfalls, and the Xiaoqikong
+  stone bridge
 sources:
 - https://en.wikivoyage.org/wiki/Libo_County
 title: Libo County

@@ -9,6 +9,7 @@ longitude: 5.5772
 snippet: 374-step staircase cut into the cliff above the old city, with a panoramic view at the top
 story: >
   The staircase takes its name from Vincent de Bueren, a Liégeois military commander who led 600 volunteers up this very cliff face during the night of 22 October 1468, trying to relieve the city from Burgundian siege. The attempt failed — the volunteers were killed almost to a man — but the gesture became a symbol of Liégeois resistance. The staircase was cut into the cliff in 1875, partly to honour the memory of the dead, partly to give the workers of the Outremeuse quarter a direct route to work.
+score: 8.5
 ---
 
 The Montagne de Bueren is a straight staircase of 374 steps cut directly into the cliff face above the old city, rising from the Rue Hors-Château to the citadel plateau above. It is an unexpected and impressive sight: a narrow slot in the rock, lined with railings, climbing steeply through the hillside with small gardens and old stone houses on either side.

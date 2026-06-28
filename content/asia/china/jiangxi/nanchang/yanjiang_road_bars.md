@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 28.6680
 longitude: 115.8600
+score: 6.5
 ---
 
 The bars and outdoor seating venues along Yanjiang Road (沿江路) on the east bank of the Gan River have grown into one of the most pleasant places to drink in Nanchang. The strip faces the Honggutan skyline directly across the water, and on evenings when the synchronized LED light show is running on the west-bank towers, tables outside any of the riverside venues have a surprisingly dramatic view. Beer and local baijiu are cheaper here than in the tourist-facing venues around Bayi Square.

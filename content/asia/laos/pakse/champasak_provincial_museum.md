@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Provincial museum covering Champasak's history from prehistoric times through the French colonial era"
+score: 6.9
 ---
 
 The Champasak Provincial Museum is the main cultural institution in Pakse, housed in a colonial-era building near the centre of town. Its collection spans prehistoric artefacts from the region, Khmer-period bronzes and stone carvings, and ethnographic material from the many ethnic groups of southern Laos. English-language labels are present throughout, if sometimes sparse.

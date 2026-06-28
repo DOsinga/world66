@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The fort was built in 1670 to defend the tuna fishing fleet — the very tunny industry that gave Armação its name (armação means a tuna trap). It saw little real combat; its main enemy was the Atlantic, which has been steadily eating away at the cliff it sits on."
+score: 6.5
 ---
 
 The little white fort of Sao Joao do Carvalhao stands on the headland at the eastern end of the seafront, the only piece of pre-resort Armacao left standing. It is a low, square fortification with a small chapel inside and a courtyard open to the sea.

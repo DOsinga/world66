@@ -6,6 +6,7 @@ tags:
 - market
 title: Jordan Landing
 type: poi
+score: 4.2
 ---
 
 Jordan Landing in West Jordan, about 20 minutes south of downtown Salt Lake City, is one of the largest open-air retail centres in Utah, anchored by a cinema, major chain stores, and a good selection of restaurants. It draws shoppers from across the south valley.

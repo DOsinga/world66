@@ -1,11 +1,13 @@
 ---
-latitude: 35.0250
+latitude: 35.025
 longitude: 135.7956
+score: 7.9
 snippet: Quiet temple off the Philosopher's Path; novelist Tanizaki is buried here
 tags:
 - things_to_do
 - temple
 - sight
+- philosophers_walk
 title: Hōnen-in
 type: poi
 ---

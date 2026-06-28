@@ -7,6 +7,7 @@ tags:
 title: The Snickelways
 type: poi
 snippet: "York's network of medieval alleys and passages, threading between the main streets through the old city"
+score: 8.2
 ---
 
 York's Snickelways — a word invented by local author Mark W. Jones in 1983 from "snicket" (alley), "ginnel" (passage), and "way" — are the network of narrow pedestrian paths that thread between the main streets through the medieval city. They range from covered passages barely wide enough for one person to open cobbled alleys between old buildings. Pope's Head Alley, Mad Alice Lane, Whip-ma-whop-ma-gate (York's shortest and most bizarrely named street) — the snickelways reward explorers who leave the main tourist routes.

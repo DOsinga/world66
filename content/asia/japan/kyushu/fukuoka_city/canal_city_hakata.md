@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 33.5911
 longitude: 130.4106
+score: 5.8
 ---
 
 Canal City Hakata is a large private shopping and entertainment complex in central Hakata, notable as an example of what its American architect Jon Jerde described as "festival architecture" — a dense, internally focused urban environment built around a man-made canal with fountains, a theatrical stage, and tiered retail galleries wrapping around an open-air atrium. The canal runs through the centre of the complex with hourly fountain shows; the curved facades in terracotta and blue create an atmosphere deliberately unlike standard Japanese commercial buildings.

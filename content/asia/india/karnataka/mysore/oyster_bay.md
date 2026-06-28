@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.3050
 longitude: 76.6540
+score: 5.8
 ---
 
 Oyster Bay, in the Lalitha Mahal Road area, is one of the few places in Mysore to eat well in the evening — a slightly more formal restaurant that does both vegetarian and non-vegetarian cooking, including a range of coastal Karnataka seafood dishes that you will not find at the standard city-centre thali places. The pomfret and prawn curries, cooked in the Mangalorean style with coconut and tamarind, are the picks from the menu.

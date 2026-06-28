@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 6.1250
 longitude: 1.2260
+score: 8.1
 ---
 
 The Cathédrale du Sacré-Cœur is the largest and oldest church in Lomé, a heavy neo-Gothic brick building completed in 1902 by the Steyl Society of the Divine Word during the German colonial period. With its red brick facade and twin square towers it looks distinctly like a transplanted Rhineland parish church, and it has been an unmissable landmark of the city centre for more than a century.

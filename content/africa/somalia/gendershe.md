@@ -4,7 +4,9 @@ done:
 latitude: 1.834937
 loc_type: city
 longitude: 44.966845
-score: 0.13
+score: 1.09
+snippet: Small Indian Ocean settlement south of Mogadishu, known locally as Janaale,
+  Gendershe, or Jannaale
 title: Janaale
 type: location
 ---

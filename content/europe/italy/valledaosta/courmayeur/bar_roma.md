@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 45.7871
 longitude: 6.9698
+score: 5.2
 ---
 
 Bar Roma has been a fixture on Via Roma for decades and is one of the best places to observe the Courmayeur ritual of the early-evening aperitivo. The bar makes a good Negroni and keeps a generous spread of snacks alongside it, in the proper Italian fashion. It is a straightforward, unpretentious place that caters to locals as well as visitors — a useful distinction in a resort town where many bars cater entirely to the ski crowd.

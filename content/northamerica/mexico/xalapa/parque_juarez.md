@@ -9,6 +9,7 @@ latitude: 19.52611
 longitude: -96.92389
 sources:
   - https://en.wikipedia.org/wiki/Parque_Ju%C3%A1rez
+score: 7.8
 ---
 
 Parque Juarez is the heart of Xalapa — a terraced hillside garden set high above the city, with sweeping views down the valley when the clouds part. The park is beautifully planted with tropical trees, flower beds, and fountains, and the terrace walls drop away to reveal panoramas of the surrounding mountains and, on clear days, the snow-capped cone of Cofre de Perote in the distance.

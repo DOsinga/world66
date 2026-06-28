@@ -11,6 +11,7 @@ story: >
   Scattery Island was the domain of Saint Senan, who according to tradition drove a serpentine monster called the Cathach from the island before establishing his monastery in the 6th century. The round tower here stands 25 metres tall and is unusual in having its doorway at ground level — most Irish round towers place theirs several metres up to deter attackers.
 sources:
   - https://en.wikipedia.org/wiki/Scattery_Island
+score: 8.4
 ---
 
 Scattery Island sits in the Shannon Estuary about two kilometres west of Kilrush marina, and the short ferry crossing transports you to one of the most atmospherically abandoned monastic sites in the west of Ireland. The island was inhabited until 1978, when the last few families were evacuated to the mainland, and the sense of recent desertion — cottages with roofs still intact, vegetable patches gone to seed — adds to the strange quiet of the place.

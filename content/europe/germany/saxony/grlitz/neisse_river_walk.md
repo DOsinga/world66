@@ -7,6 +7,7 @@ tags:
 latitude: 51.1500
 longitude: 15.0005
 story: "The Altstadtbrücke (Old Town Bridge) connecting Görlitz to Zgorzelec was blown up by retreating German forces in April 1945. For 50 years, the two halves of the city were separated by the Iron Curtain, cut off from each other by the Polish border established at Potsdam. The bridge was rebuilt in 2004 and now carries pedestrians freely between Germany and Poland."
+score: 7.8
 ---
 
 Walking from the Untermarkt down to the Neisse River takes you to the Old Town Bridge (Altstadtbrücke), which connects Görlitz to its Polish twin city Zgorzelec. Since Polish accession to the Schengen Area in 2007, crossing the bridge requires no passport or checkpoint — you simply walk from Germany into Poland in a matter of seconds, which never quite loses its novelty.

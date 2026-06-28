@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:MonrealeCathedral-pjt1.jpg
 latitude: 38.0826
 loc_type: city
 longitude: 13.292
-score: 0.64
+score: 8.82
+snippet: Hillside Sicilian town above Palermo, dominated by a cathedral of gold Norman-Arab-Byzantine
+  mosaics
 sources:
 - https://en.wikipedia.org/wiki/Monreale_Cathedral
 - https://en.wikipedia.org/wiki/Abbey_of_San_Martino_delle_Scale

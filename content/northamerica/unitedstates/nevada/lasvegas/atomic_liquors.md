@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - downtown
+score: 8.1
 ---
 
 Atomic Liquors is the oldest freestanding bar in Las Vegas — it has been pouring drinks on Fremont East since 1952. The name comes from the rooftop ritual that drew regulars during the 1950s nuclear testing era: customers would climb to the roof with cocktails to watch the mushroom clouds rise from the Nevada Test Site, 65 miles to the north. The Atomic Cocktail, vodka, brandy, and Champagne with a dash of sherry, was the house drink.

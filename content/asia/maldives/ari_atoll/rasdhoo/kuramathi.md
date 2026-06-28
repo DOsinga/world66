@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The two-kilometre resort island next door — long natural sandbank and good reef"
+score: 7.5
 ---
 
 Kuramathi is the longest island in the Rasdhoo atoll group, about two kilometres of palm-covered sand a few minutes' panga ride from Rasdhoo village. It is operated as a single resort, but day visits from Rasdhoo guesthouses can sometimes be arranged for the reef snorkelling and the long natural sandbank that extends west from the island at low tide.

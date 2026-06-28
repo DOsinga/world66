@@ -10,6 +10,7 @@ longitude: 2.7294
 sources:
   - https://en.wikipedia.org/wiki/Palma_Aquarium
 story: "The aquarium's main tank holds 2.5 million litres of water and is home to eight shark species. A transparent tunnel runs through it so visitors walk among the fish — including sand tiger sharks that circle overhead."
+score: 7.0
 ---
 
 Palma Aquarium sits at the Ca'n Pastilla end of Playa de Palma, just a short walk from the beach. Opened in 2007, it has grown into one of the most visited attractions in the Balearics, housing more than 700 species across a series of tanks that recreate habitats from the Mediterranean, the Indian Ocean, and the Atlantic.

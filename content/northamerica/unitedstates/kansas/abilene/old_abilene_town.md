@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A reconstructed Wild West boardwalk on the site of the original cattle-town
 story: "In 1871 Wild Bill Hickok, having just shot a fellow gambler in Hays City, was hired as Abilene's town marshal. He lasted eight months before accidentally killing his own deputy in a street gunfight outside the Alamo Saloon — and was promptly fired by the city council."
+score: 8.1
 ---
 
 In the 1860s and 1870s Abilene was the original Kansas cowtown: the southern terminus of the Chisholm Trail and the railhead where Texas longhorns met the eastern markets. The original wooden town was burned and rebuilt several times; what survives today is a reconstruction along the original main street, with a boardwalk, a saloon, a livery, a jail, and a small church.

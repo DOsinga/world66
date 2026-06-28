@@ -13,6 +13,7 @@ story: >
   the Jotunheimen peaks to the north and the fjords of western Norway catching
   the light to the west. The ridge walks here have the scale and openness of
   Arctic Norway, at a fraction of the distance from Oslo.
+score: 8.7
 ---
 
 The Hemsedalsfjella — the mountains that ring the Hemsedal valley — offer some of the best hiking in central Norway. The peaks here rise above 1,800 metres and the terrain above the treeline is classic Norwegian high mountain: rocky ridges, snowfields that persist into August, and the kind of long, sweeping views that justify the climb. The trails are marked but not crowded.

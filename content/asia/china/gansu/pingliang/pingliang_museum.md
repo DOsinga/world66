@@ -14,6 +14,7 @@ story: >
   represent an artistic tradition that flourished in the Chinese northwest for over
   a thousand years and then essentially vanished when the populations that created
   it dispersed or were absorbed.
+score: 6.8
 ---
 
 The Pingliang Museum is housed inside the Longyin Temple Park and holds around 14,500 artefacts covering the region's history from the Stone Age to the modern period. The collection's strengths are in painted pottery and bronzeware, reflecting the long sequence of cultures that occupied the Jing River valley before and during the Zhou Dynasty.

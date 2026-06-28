@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hôtel_Castel_Marie-Louise
 latitude: 47.284373
 loc_type: city
 longitude: -2.39516
-score: 0.57
+score: 8.02
+snippet: Elegant Atlantic resort town with a nine-kilometre sandy bay, Belle Époque
+  villas, and pine-shaded promenades.
 title: La Baule
 type: location
 ---

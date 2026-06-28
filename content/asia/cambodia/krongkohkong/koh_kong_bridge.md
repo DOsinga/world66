@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 11.6176
 longitude: 102.9710
+score: 6.1
 ---
 
 The Koh Kong Bridge stretches almost two kilometres across the wide mouth of the Kaoh Pao River. When it opened in 2002 it was the longest bridge in Cambodia. Walk or cycle across at dusk for views down the estuary toward the Gulf of Thailand and back to the mangroves.

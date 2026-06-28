@@ -5,7 +5,9 @@ done:
 latitude: 24.262815
 loc_type: city
 longitude: 75.385692
-score: 0.33
+score: 5.62
+snippet: Western Madhya Pradesh district town known for Pashupatinath Temple and Malwa
+  plateau opium fields.
 title: Mandsaur
 type: location
 ---

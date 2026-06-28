@@ -1,14 +1,13 @@
 ---
-category: Park
 latitude: -33.9278
 longitude: 18.4169
-neighbourhood: City Bowl
+score: 8.5
 scores:
   activities: 0.62
   park: 0.7404
   sight: 0.6829
   sightseeing: 0.6563
-snippet: The 17th-century vegetable garden that became central Cape Town's leafy park
+snippet: 17th-century vegetable garden that became central Cape Town's leafy park
 story: The garden was planted in 1652 by Jan van Riebeeck to supply fresh produce
   to Dutch East India Company ships rounding the Cape. The original beds are long
   gone, but a few of the oak avenues, a pear tree said to date from the 1650s, and

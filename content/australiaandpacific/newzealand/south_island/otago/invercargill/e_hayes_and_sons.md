@@ -9,6 +9,7 @@ snippet: "Hardware store turned museum displaying Burt Munro's original Indian m
 latitude: -46.407778
 longitude: 168.346389
 story: "Burt Munro set the world land speed record for motorcycles under 1000cc at the Bonneville Salt Flats in 1967, riding a 1920 Indian Scout he had spent decades modifying in his Invercargill backyard. He was 68 years old. His story was told in the 2005 film The World's Fastest Indian, starring Anthony Hopkins."
+score: 8.6
 ---
 
 E. Hayes & Sons is one of those places that sounds unremarkable and turns out to be extraordinary. On the surface it is a hardware store — tools, plumbing fittings, outdoor equipment — but the back of the store has expanded over the years into a museum of extraordinary vehicles, with Burt Munro's original Indian motorcycle as the centrepiece.

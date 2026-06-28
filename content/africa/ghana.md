@@ -3,8 +3,7 @@ done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-08'
 image: ghana.jpg
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Peterfitzgerald" title="User:Peterfitzgerald">Peter
-  Fitzgerald</a>
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Peterfitzgerald" title="User:Peterfitzgerald">Peter Fitzgerald</a>
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Fort_St_Jago_from_Elmina_Castle.JPG
 latitude: 7.9465
@@ -12,12 +11,13 @@ longitude: -1.0232
 title: Ghana
 type: location
 quick_facts:
-  Population: "34 million"
-  Language: "English widely spoken"
-  Cocoa Production: "2nd globally"
-  Lake Volta: "largest man-made lake by area"
-score: 0.36
+  Population: 34 million
+  Language: English widely spoken
+  Cocoa Production: 2nd globally
+  Lake Volta: largest man-made lake by area
+score: 0.6
 loc_type: country
+snippet: Welcoming West African country of Atlantic forts, rainforest canopy walks, savannah wildlife, and vibrant English-speaking cities.
 ---
 
 Ghana is one of the most welcoming countries in Africa. English-speaking, politically stable, and genuinely friendly, it is the place most first-time visitors to West Africa start -- and for good reason. The country packs an extraordinary range of experiences into a manageable size: slave castles that will leave you shaken, rainforest canopy walks, savannah wildlife, vibrant cities, and some of the best food on the continent.
@@ -45,5 +45,6 @@ Ghana is not a cheap destination by West African standards, and the infrastructu
 - [Dixcove](/africa/ghana/dixcove)
 - [Winneba](/africa/ghana/winneba)
 - [Aburi](/africa/ghana/aburi)
+- [Tafi Atome](/africa/ghana/tafi_atome)
 - [Lake Volta](/africa/ghana/lakevolta)
 - [Akosombo](/africa/ghana/akosombo)

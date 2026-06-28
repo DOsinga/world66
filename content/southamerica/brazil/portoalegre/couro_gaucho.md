@@ -1,8 +1,13 @@
 ---
-snippet: Gaúcho leather goods — boots, belts, and equestrian equipment from a genuine tradition
+latitude: -30.0291
+longitude: -51.2283
+score: 5.6
+snippet: Gaúcho leather goods — boots, belts, and equestrian equipment from a genuine
+  tradition
 tags:
 - shopping
-- sight
+- leather
+- local_craft
 title: Gaúcho Leather Shopping
 type: poi
 ---

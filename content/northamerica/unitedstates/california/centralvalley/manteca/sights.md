@@ -2,8 +2,9 @@
 address: Downtown Manteca
 email: mtcascvb@aol.com
 phone: 877-998-2739
+score: 2.8
 title: Sights in Manteca
-type: poi
+type: section
 url: www.visitmanteca.org
 ---
 

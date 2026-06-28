@@ -14,6 +14,7 @@ story: >
   cricket, and several Meerut manufacturers supply bats used in international
   Test matches, though the workshop that made them may be a small room with
   two men and a band saw.
+score: 7.7
 ---
 
 Meerut produces roughly half of India's sports goods — cricket bats, boxing gloves, footballs, hockey sticks, martial arts equipment, and much else — in a cluster of small workshops and factories concentrated in the industrial areas along and around Hapur Road in the eastern part of the city. This is one of the genuine industrial curiosities of Uttar Pradesh, and visiting the market area gives a fascinating look at how a global supply chain operates at its production end.

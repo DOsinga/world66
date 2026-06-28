@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The serpents on the wall painting represent female sins. One woman has snakes coiled around her breasts (for nursing other people's children rather than her own), another around her ears (slander), another around her mouth (gossip). It is a memorably grim piece of medieval moralising."
+score: 8.0
 ---
 
 A short walk downstream from the main staircase. The church takes its name from a fresco of damned souls being tormented by serpents — graphic enough to make it one of the most photographed paintings in the valley.

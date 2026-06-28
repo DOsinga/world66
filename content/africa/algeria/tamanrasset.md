@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hoggar_dpuis_assekrem.jpg
 latitude: 24.375344
 loc_type: city
 longitude: 4.320844
-score: 0.39
+score: 6.5
 title: Tamanrasset
+snippet: Saharan town and Tuareg hub for Algeria's Hoggar Mountains and Assekrem plateau.
 type: location
 ---
 

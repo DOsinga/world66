@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A quieter alternative to Sarangkot — same views, fewer people
+score: 7.2
 ---
 
 A half-day ridge walk along the wooded hills above the north shore of Phewa Lake, with mountain views that rival Sarangkot's but a fraction of the visitors. The walk starts at the village of **Phulbari**, climbs gently along the ridge for two to three hours, and descends to Naudanda on the Baglung Highway.

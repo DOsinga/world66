@@ -1,0 +1,200 @@
+{
+  "round": 4680,
+  "timestamp": "2026-06-14T00:32:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 5.2411,
+      "prior_variance": 0.099408,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Shiretoko",
+      "path": "asia/japan/hokkaido/shiretoko",
+      "prior_score": 5.0044,
+      "prior_variance": 0.100276,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.3309,
+      "prior_variance": 0.10758,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 4.0916,
+      "prior_variance": 0.10402,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 3.2854,
+      "prior_variance": 0.11307,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 3.4461,
+      "prior_variance": 0.094492,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_sessanio",
+      "prior_score": 2.4892,
+      "prior_variance": 0.091914,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.2552,
+      "prior_variance": 0.094997,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 5.1928,
+      "prior_variance": 0.106705,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 2.469,
+      "prior_variance": 0.085785,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 2.1216,
+      "prior_variance": 0.09071,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 2.1877,
+      "prior_variance": 0.086111,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.9002,
+      "prior_variance": 0.091042,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.1355,
+      "prior_variance": 0.101288,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 2.8921,
+      "prior_variance": 0.097029,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 2.5391,
+      "prior_variance": 0.095458,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 0.6449,
+      "prior_variance": 0.084019,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 1.0661,
+      "prior_variance": 0.08579,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.5614,
+      "prior_variance": 0.082867,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.5064,
+      "prior_variance": 0.089381,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.6578,
+      "prior_variance": 0.096592,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.6115,
+      "prior_variance": 0.086557,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -0.9615,
+      "prior_variance": 0.085076,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -5.6445,
+      "prior_variance": 0.112775,
+      "prior_n": 15
+    }
+  ]
+}

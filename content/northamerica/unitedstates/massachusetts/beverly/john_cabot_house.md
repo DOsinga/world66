@@ -8,6 +8,7 @@ tags:
 latitude: 42.54583
 longitude: -70.88
 story: John Cabot and his brothers were among the most active privateering investors during the American Revolution, financing armed ships that preyed on British merchant vessels. The wealth that built this house came partly from prize money captured at sea — legalized wartime piracy that made fortunes for Boston-area merchant families.
+score: 7.0
 ---
 
 The John Cabot House at 117 Cabot Street is a National Historic Landmark, a handsome 1781 Federal-style mansion that anchors the Beverly Historical Society's museum campus. It was built by John Cabot, a merchant and privateer investor whose family became one of the most powerful in Essex County during the Revolutionary era.

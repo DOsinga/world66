@@ -6,6 +6,7 @@ longitude: -84.5495
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A working steam-powered clock on the Grand River walkway just north of downtown, modeled on the famous Gastown clock in Vancouver. The clock chimes the Westminster quarters on its steam whistles every fifteen minutes, with extra hisses and plumes on the hour.

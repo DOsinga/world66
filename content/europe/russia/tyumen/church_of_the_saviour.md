@@ -6,6 +6,7 @@ latitude: 57.1558
 longitude: 65.5317
 story: >
   The Church of the Saviour was built in 1819 on the site of an earlier wooden church from the 17th century — making the location one of the oldest continuously sacred sites in Siberia. During the Soviet period the church was converted to a storage warehouse; the damage to its interior was significant, and restoration has been ongoing since the 1990s.
+score: 6.7
 ---
 
 The Church of the Saviour (Spasskaya Church) is one of the landmark buildings of old Tyumen, its white stone bell tower visible above the roofline on Lenin Street. Built in the early 19th century in the neoclassical style that was fashionable across Russia at the time, the church survived the Soviet period as a warehouse and has been extensively restored since.

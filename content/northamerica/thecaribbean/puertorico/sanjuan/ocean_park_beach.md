@@ -8,6 +8,7 @@ tags:
   - sight
   - ocean_park
 neighbourhood: Ocean Park
+score: 6.8
 ---
 
 A two-kilometre stretch of beach between Condado and Isla Verde, fronted by small guesthouses rather than resort hotels. The Atlantic surf here is more consistent than at Condado, which is why the local windsurfing and kitesurfing schools have set up at the eastern end — Velauno is the longest-running of them.

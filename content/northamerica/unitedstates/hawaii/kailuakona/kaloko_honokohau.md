@@ -6,6 +6,7 @@ longitude: -156.0220
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 Kaloko-Honokohau National Historical Park covers 1,160 acres of coastline four miles north of Kailua-Kona. It preserves a settlement of Native Hawaiians who lived along this shoreline for centuries — a complex of fishponds, petroglyphs, temple platforms, the foundations of houses, and one of the largest aquaculture systems in pre-contact Hawaii.

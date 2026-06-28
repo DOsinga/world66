@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Massimino_(SV)-municipio.j
 latitude: 44.299575
 loc_type: city
 longitude: 8.07062
-score: 0.4
+score: 6.23
+snippet: Tiny Ligurian mountain village with medieval ruins, chestnut woods, and views
+  over the Tanaro valley
 title: Massimino
 type: location
 ---

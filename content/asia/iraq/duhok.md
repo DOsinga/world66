@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Badinan_Derby_in_Duhok_Sta
 latitude: 36.85426
 loc_type: city
 longitude: 42.992453
-score: 0.29
+score: 5.61
+snippet: Northern Iraqi Kurdistan city in a mountain valley near the Turkish border.
 title: Duhok
 type: location
 ---

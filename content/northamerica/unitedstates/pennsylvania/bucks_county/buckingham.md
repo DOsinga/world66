@@ -5,7 +5,9 @@ done:
 latitude: 40.3193
 loc_type: city
 longitude: -75.0696
-score: 0.34
+score: 6.1
+snippet: Rural Bucks County township of Quaker meeting houses, stone farms, and Underground
+  Railroad history.
 sources:
 - https://en.wikipedia.org/wiki/Buckingham,_Pennsylvania
 - https://en.wikipedia.org/wiki/Buckingham_Township,_Bucks_County,_Pennsylvania

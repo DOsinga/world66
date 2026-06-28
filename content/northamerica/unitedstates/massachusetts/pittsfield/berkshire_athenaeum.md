@@ -9,6 +9,7 @@ latitude: 42.4476
 longitude: -73.2514
 sources:
   - https://en.wikipedia.org/wiki/Berkshire_Athenaeum
+score: 5.9
 ---
 
 The Berkshire Athenaeum is Pittsfield's public library and a useful stop for travelers who like local history. The institution's roots go back to the nineteenth century, and the surrounding Park Square area still carries that old civic confidence.

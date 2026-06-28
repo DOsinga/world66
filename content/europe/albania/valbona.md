@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-10-14_Valbona_Valley_
 latitude: 42.4533
 loc_type: feature
 longitude: 19.8878
+score: 8.21
+snippet: Albanian Alps valley of limestone walls, turquoise river water, and the Valbona
+  to Theth trail.
 sources:
 - https://en.wikipedia.org/wiki/Valbona_Valley_National_Park
 title: Valbona Valley

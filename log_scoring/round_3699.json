@@ -1,0 +1,200 @@
+{
+  "round": 3699,
+  "timestamp": "2026-06-13T23:13:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 9.6782,
+      "prior_variance": 0.211304,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 5.1106,
+      "prior_variance": 0.136264,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 3.2592,
+      "prior_variance": 0.11393,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": -0.0609,
+      "prior_variance": 0.134227,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 0.9789,
+      "prior_variance": 0.135044,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": 0.0576,
+      "prior_variance": 0.121793,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.8722,
+      "prior_variance": 0.147015,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 0.7214,
+      "prior_variance": 0.115189,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 3.0451,
+      "prior_variance": 0.120391,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.3326,
+      "prior_variance": 0.108628,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": -0.1218,
+      "prior_variance": 0.102512,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 0.6223,
+      "prior_variance": 0.120297,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -4.0455,
+      "prior_variance": 0.144312,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_score": -3.4787,
+      "prior_variance": 0.121371,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -2.8367,
+      "prior_variance": 0.122186,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.6176,
+      "prior_variance": 0.128413,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.0737,
+      "prior_variance": 0.127234,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": -2.91,
+      "prior_variance": 0.121102,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.248,
+      "prior_variance": 0.124678,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -5.815,
+      "prior_variance": 0.145009,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -4.8946,
+      "prior_variance": 0.13799,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -5.8282,
+      "prior_variance": 0.142379,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.3049,
+      "prior_variance": 0.243651,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.73,
+      "prior_variance": 0.413005,
+      "prior_n": 11
+    }
+  ]
+}

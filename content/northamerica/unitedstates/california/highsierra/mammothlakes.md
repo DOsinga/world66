@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-05-15'
+image: mammothlakes.jpg
+image_attribution: King of Hearts
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lake_Mary_Mammoth_September_2016.jpg
 latitude: 37.6485
 loc_type: city
 longitude: -118.9721
-score: 0.63
+score: 8.6
+snippet: High Sierra mountain town where ski slopes, volcanic lakes, and basalt columns
+  ring a year-round outdoor base.
 title: Mammoth Lakes
 type: location
-image: mammothlakes.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Lake_Mary_Mammoth_September_2016.jpg
-image_license: CC BY-SA 4.0
-image_attribution: King of Hearts
 ---
 
 Mammoth Lakes sits at 7,880 feet on the eastern escarpment of the Sierra Nevada, in a wide volcanic basin ringed by peaks. It is a year-round mountain town whose personality changes completely with the seasons: a serious ski destination in winter, a hiker's and biker's paradise in summer.

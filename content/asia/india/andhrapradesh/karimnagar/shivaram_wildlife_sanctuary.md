@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 18.705
 longitude: 79.697
+score: 7.1
 ---
 
 Shivaram Wildlife Sanctuary lies about 80 kilometres from Karimnagar along the Godavari River in Mancherial district — a straightforward drive on good roads that makes it feasible as a long day trip. Established in 1978, the sanctuary covers 36 square kilometres of riverine forest mixed with teak and terminalia, and is the most accessible place near Karimnagar to see marsh crocodiles in the wild. The Godavari forms the northern boundary, and the mugger crocodiles bask on the sandy banks in the cooler months.

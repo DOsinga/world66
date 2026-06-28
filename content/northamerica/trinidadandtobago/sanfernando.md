@@ -4,7 +4,9 @@ done:
 latitude: 10.2803
 loc_type: city
 longitude: -61.4681
-score: 0.45
+score: 6.74
+snippet: Southern Trinidad city on the Gulf of Paria, shaped by oil industry and Carnival
+  pride
 sources:
 - https://en.wikipedia.org/wiki/San_Fernando,_Trinidad_and_Tobago
 - https://en.wikipedia.org/wiki/Pitch_Lake

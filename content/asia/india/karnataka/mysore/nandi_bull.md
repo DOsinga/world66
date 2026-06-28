@@ -12,6 +12,7 @@ story: >
   Devaraja Wadiyar. It faces the Chamundeshwari temple as Nandi should, in eternal
   attendance on Shiva. Devotees bring offerings of coconuts, bananas, and flowers daily;
   the garland around its neck is replaced every morning.
+score: 7.6
 ---
 
 Carved into the hillside about two-thirds of the way up the 1,000 steps, this 5-metre-tall bull is one of the finest Nandi sculptures in South India. Nandi is Shiva's vehicle and devotee, and large seated Nandi figures always face toward the Shiva or Shakti temple they serve — this one has had its eyes fixed on the Chamundeshwari temple at the summit since the 17th century. The sculpture is powerful in its simplicity: a massive, polished black form with remarkably detailed bell, garland, and facial features for its scale.

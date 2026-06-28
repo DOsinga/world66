@@ -11,6 +11,7 @@ story: "Al-Atiq means 'the old', and in Derna the name fits. The mosque's many s
 sources:
   - https://en.wikipedia.org/wiki/Derna,_Libya
   - https://www.archnet.org/sites/4723
+score: 7.5
 ---
 
 Al-Atiq Mosque is Derna's old mosque, in the Al-Bilad district on the left bank of Wadi Derna. It is traditionally associated with the Karamanli period and is known for its clustered small cupolas, a local solution to roofing without abundant timber.

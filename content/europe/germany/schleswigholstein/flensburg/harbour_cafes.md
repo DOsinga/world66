@@ -5,6 +5,7 @@ tags:
   - bars_and_cafes
 latitude: 54.786
 longitude: 9.4315
+score: 6.9
 ---
 
 The Flensburg harbour promenade (Speicherline) has a row of cafes and restaurants with outdoor terraces overlooking the Firth. In summer, these fill up in the late afternoon as the water catches the low northern light and the sailing boats move in and out. The atmosphere is relaxed — this is not a tourist waterfront with inflated prices but a working harbour with cafes that serve a local clientele.

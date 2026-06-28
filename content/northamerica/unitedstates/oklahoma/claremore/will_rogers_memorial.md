@@ -7,6 +7,7 @@ tags:
 latitude: 36.3208
 longitude: -95.6317
 story: "Will Rogers said 'I never met a man I didn't like' — and the quote is carved on his tomb in the museum grounds. Rogers was one of the most famous people in America in the early 1930s: a syndicated newspaper columnist, radio commentator, film star, and vaudeville performer who used Cherokee humour and a rope-trick persona to make himself the most trusted voice in the country. He died in a plane crash near Barrow, Alaska in 1935, alongside aviator Wiley Post. He was 55."
+score: 8.8
 ---
 
 The Will Rogers Memorial Museum occupies twenty acres on a hill overlooking Claremore that Rogers himself purchased with the intention of building a retirement home — he never lived to see it. The museum opened in 1938 and has been expanded several times since; it now runs to twelve galleries covering his life in extraordinary detail.

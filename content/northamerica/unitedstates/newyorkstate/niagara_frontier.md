@@ -5,6 +5,8 @@ latitude: 43.0261
 loc_type: region
 longitude: -78.8734
 score: 0.6
+snippet: Western New York region centred on Buffalo and Niagara Falls, shaped by industry
+  and border water
 title: Niagara Frontier
 type: location
 ---

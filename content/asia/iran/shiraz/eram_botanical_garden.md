@@ -7,6 +7,7 @@ tags:
 - sight
 title: Eram Botanical Garden
 type: poi
+score: 6.9
 ---
 
 Adjoining the Bagh-e Eram Persian garden is the Eram Botanical Garden, run by Shiraz University and one of the largest botanical collections in Iran. The grounds stretch over more than 25 hectares and hold thousands of plant species, with sections devoted to native Iranian flora, desert plants, and an arboretum of mature trees.

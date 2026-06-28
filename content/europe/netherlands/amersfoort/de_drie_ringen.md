@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: De Drie Ringen
 type: poi
+score: 6.8
 ---
 
 A small brewery and pub in one — the only brewery left in Amersfoort. Taste their local beers, eat well, and mingle with locals in a relaxed atmosphere. Not expensive, and a good place to end up in conversation with people at the next table.

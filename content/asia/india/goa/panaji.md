@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:0437_Panaji_-_Church_of_Ou
 latitude: 15.498995
 loc_type: city
 longitude: 73.828214
-score: 0.59
+score: 8.13
+snippet: Compact Goan capital with Portuguese-era lanes in Fontainhas and Mandovi
+  estuary views.
 title: Panaji
 type: location
 ---

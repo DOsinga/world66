@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 6.9
 ---
 
 The Awash River rises in the highlands west of Addis Ababa and cuts southeast through the Rift Valley before eventually losing itself in the saline lakes of the Afar lowlands. Near Adama, it is still a substantial river running through open country, and the section where it begins to descend more steeply into the Rift offers some of the most accessible dramatic scenery in this part of Ethiopia. The gorge is not as deep or as sheer as the better-known canyon at Awash National Park downstream, but it has the advantage of being reachable on a day trip without a long drive.

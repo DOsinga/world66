@@ -15,6 +15,7 @@ story: >
   self-proclaimed "Ice Climbing Capital of the World."
 sources:
   - https://en.wikipedia.org/wiki/Ouray_Ice_Park
+score: 8.8
 ---
 
 The Ouray Ice Park occupies a kilometer-long section of the Uncompahgre Gorge just south of town, where pipes installed in the canyon walls spray water that freezes into climbing routes from mid-December through early March. The result is the world's largest artificially created ice climbing venue — more than 200 individual routes at all difficulty levels, all within a 15-minute walk of downtown Ouray.

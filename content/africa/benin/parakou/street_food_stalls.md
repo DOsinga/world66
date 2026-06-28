@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.3356
 longitude: 2.6270
+score: 6.2
 ---
 
 The bus station (gare routière) area on the southern edge of the centre is where Parakou's best street food concentrates. Women at charcoal braziers serve igname pilée (pounded yam) with a peanut sauce or palmnut soup from early morning through the evening rush. Brochettes of beef or goat meat, grilled over wood charcoal and served with onion and chilli, are the standard quick meal for travellers passing through.

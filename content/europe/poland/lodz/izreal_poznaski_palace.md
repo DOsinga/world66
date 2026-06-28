@@ -10,6 +10,7 @@ latitude: 51.7788
 longitude: 19.4513
 sources:
   - https://en.wikipedia.org/wiki/Pozna%C5%84ski_Palace,_%C5%81%C3%B3d%C5%BA
+score: 8.3
 ---
 
 The Poznański Palace, now the Museum of the City of Łódź, stands at the edge of the Manufaktura complex as the most extravagant testament to 19th-century industrial wealth in the city. Izrael Poznański built it in stages from the 1880s onward, adding wings and towers in a flamboyant eclectic style mixing Renaissance, Baroque, and other historicist elements until the whole thing reached a kind of magnificent excess.

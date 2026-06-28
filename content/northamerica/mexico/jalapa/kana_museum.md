@@ -7,6 +7,7 @@ tags:
 latitude: 19.5180
 longitude: -96.8942
 snippet: "Hands-on science museum on the eastern edge of the city — good for families"
+score: 5.4
 ---
 
 Kaná is a hands-on science and technology museum east of the centre, aimed primarily at families and school groups. The exhibits cover space, energy, the human body, robotics and Veracruz ecology, with the usual mix of buttons, levers, animatronics and a planetarium dome.

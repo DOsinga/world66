@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: Texas County Courthouse
 type: poi
+score: 6.2
 ---
 
 The Texas County Courthouse, in the centre of downtown Guymon, is a modest 1929 building in restrained art-deco-meets-Beaux-Arts style — limestone facing, simple pilasters, a low cornice. It is on the National Register of Historic Places and is the visual anchor of the small downtown. The original courtroom upstairs is well preserved; weekday visitors can usually go up and have a look.

@@ -13,6 +13,7 @@ story: >
   The museum here has the particular quality of local memory: exhaustive about events
   that matter intensely to the people who lived through them and are almost invisible
   to the wider world.
+score: 5.2
 ---
 
 The Coconut Village Battle Site commemorates a 1927 engagement that is recorded as the first Chinese Civil War battle fought on Hainan. The small museum attached to the site covers this event and the subsequent Communist revolutionary activity on the island through the 1930s, including the formation of the Red Detachment of Women unit a few years later. The history here is local rather than national — the scale is small, the actors are not famous, and the documentation is provincial in the best sense.

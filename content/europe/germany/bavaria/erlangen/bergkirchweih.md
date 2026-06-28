@@ -7,6 +7,7 @@ longitude: 11.005
 story: "The Bergkirchweih cellars were built into the sandstone hill in the 18th century to keep beer cool without refrigeration. The underground passages maintain a year-round temperature of around 8°C. The tradition of drinking up on the Berg in May predates Oktoberfest by a century."
 sources:
   - https://en.wikipedia.org/wiki/Bergkirchweih
+score: 8.7
 ---
 
 The Bergkirchweih is Erlangen's spring folk festival, held on the wooded Burgberg hill northeast of the city centre for eleven days in late May and early June. It centres on a series of old sandstone beer cellars built into the hillside in the 18th century, which kept the local breweries' stock cool through the summer. The festival tradition of tapping those cellars in May has continued without interruption since the mid-1700s.

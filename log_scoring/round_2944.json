@@ -1,0 +1,200 @@
+{
+  "round": 2944,
+  "timestamp": "2026-06-13T22:18:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.187,
+      "prior_variance": 0.144557,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 3.0461,
+      "prior_variance": 0.138906,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 2.3453,
+      "prior_variance": 0.141837,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 2.5374,
+      "prior_variance": 0.133177,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 1.3148,
+      "prior_variance": 0.142942,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territory/carcross",
+      "prior_score": 0.7589,
+      "prior_variance": 0.13455,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.8545,
+      "prior_variance": 0.181439,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.5001,
+      "prior_variance": 0.16223,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Peel",
+      "path": "europe/isleofman/peel",
+      "prior_score": 0.9306,
+      "prior_variance": 0.145278,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 0.4502,
+      "prior_variance": 0.158736,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.7523,
+      "prior_variance": 0.157858,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 1.838,
+      "prior_variance": 0.137104,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": -0.7079,
+      "prior_variance": 0.187221,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_score": 0.4323,
+      "prior_variance": 0.14707,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -0.9486,
+      "prior_variance": 0.154548,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_score": 1.347,
+      "prior_variance": 0.127724,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Kassel",
+      "path": "europe/germany/hessen/kassel",
+      "prior_score": 0.0854,
+      "prior_variance": 0.163676,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": -0.2258,
+      "prior_variance": 0.138454,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.2072,
+      "prior_variance": 0.138816,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.2373,
+      "prior_variance": 0.141507,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -4.1442,
+      "prior_variance": 0.155194,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -5.7463,
+      "prior_variance": 0.181224,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -6.6863,
+      "prior_variance": 0.249558,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -8.0592,
+      "prior_variance": 0.285706,
+      "prior_n": 9
+    }
+  ]
+}

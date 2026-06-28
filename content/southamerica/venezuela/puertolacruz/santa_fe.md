@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 5.4
 ---
 
 Santa Fé is a small coastal village an hour east of Puerto la Cruz, partway along the road to Cumaná. It is quieter than Puerto la Cruz, with a couple of posadas, a small market, and a beach where lanchas leave for the islands of Mochima — Playa Colorada and Isla Caracas are the usual destinations.

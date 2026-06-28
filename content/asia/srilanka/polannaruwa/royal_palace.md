@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 At the southern end of the ancient city, the brick walls of the royal palace still stand to first-floor height, surrounded by the foundations of administrative buildings and audience halls. The chronicles record that the palace was seven storeys high, with a thousand rooms, and that the upper levels were built of timber on the brick base — they burned in the medieval sack of the city.

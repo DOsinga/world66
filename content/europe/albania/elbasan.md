@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Elbasan_alb.jpg
 latitude: 41.1127
 loc_type: city
 longitude: 20.0822
-score: 0.38
+score: 6.59
+snippet: Central Albanian city in the Shkumbin valley, with an Ottoman walled old
+  town and industrial outskirts.
 title: Elbasan
 type: location
 ---

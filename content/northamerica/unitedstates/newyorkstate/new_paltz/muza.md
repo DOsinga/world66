@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.7469
 longitude: -74.0881
+score: 6.2
 ---
 
 Muza is a Polish restaurant on Main Street, the kind of place that doesn't fit the New Paltz archetype but has become genuinely beloved. The menu covers the standards of Central European cooking — pierogi, bigos, kielbasa, beet soups — executed with real skill and served in generous portions. The interior is unpretentious and the prices are reasonable.

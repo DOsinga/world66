@@ -3,12 +3,14 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-22'
 image: gallipoli.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Landing_at_Gallipoli_(13901951593).jpg
 image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Landing_at_Gallipoli_(13901951593).jpg
 latitude: 40.310675
 loc_type: city
 longitude: 26.406377
-score: 0.56
+score: 8.4
+snippet: Dardanelles peninsula of First World War battlefields, shared memorials,
+  and Turkish, Australian, and New Zealand memory
 title: Gallipoli
 type: location
 ---

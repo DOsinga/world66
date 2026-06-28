@@ -9,6 +9,7 @@ snippet: "Surfer breakfast institution on Main Street, open since 1967"
 address: "213 1/2 Main Street"
 latitude: 33.6571
 longitude: -118.0007
+score: 5.8
 ---
 
 A small, packed breakfast counter on Main Street, opened by the Turner family in 1967 and run by the same family ever since. It is the morning surfer hangout — six o'clock opening, queue down the sidewalk by seven, pancakes and bacon and chorizo eggs served fast. The walls are covered in old surf photos, including several of Robert August, who lived a few blocks over.

@@ -1,0 +1,200 @@
+{
+  "round": 4003,
+  "timestamp": "2026-06-13T23:36:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 1.7471,
+      "prior_variance": 0.117615,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.4407,
+      "prior_variance": 0.113385,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_score": 1.5808,
+      "prior_variance": 0.10363,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.8312,
+      "prior_variance": 0.097543,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 1.8948,
+      "prior_variance": 0.092183,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -0.3842,
+      "prior_variance": 0.111343,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Bragan\u00e7a",
+      "path": "europe/portugal/bragana",
+      "prior_score": 0.3889,
+      "prior_variance": 0.098164,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.0257,
+      "prior_variance": 0.093841,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -1.3472,
+      "prior_variance": 0.124048,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 1.0247,
+      "prior_variance": 0.156212,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_score": -2.1025,
+      "prior_variance": 0.097161,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": 0.087,
+      "prior_variance": 0.098508,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_score": -1.9415,
+      "prior_variance": 0.113247,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.0513,
+      "prior_variance": 0.101132,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.5266,
+      "prior_variance": 0.098096,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.5969,
+      "prior_variance": 0.112227,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -1.288,
+      "prior_variance": 0.095885,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -3.7933,
+      "prior_variance": 0.133005,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -1.5973,
+      "prior_variance": 0.114906,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -3.6212,
+      "prior_variance": 0.125013,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.7327,
+      "prior_variance": 0.118693,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -3.3411,
+      "prior_variance": 0.102677,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -5.7581,
+      "prior_variance": 0.13495,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -5.2312,
+      "prior_variance": 0.119391,
+      "prior_n": 13
+    }
+  ]
+}

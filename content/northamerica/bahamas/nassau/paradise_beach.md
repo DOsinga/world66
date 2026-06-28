@@ -7,6 +7,7 @@ tags:
   - paradise_island
 latitude: 25.0833
 longitude: -77.3275
+score: 6.9
 ---
 
 The western end of Paradise Island's north shore beach, on the other side of the Atlantis resort from Cabbage Beach. Smaller, quieter, and with fewer water-sports touts. The sand is the same fine white, and there is good snorkelling around the rocks at the eastern end where the limestone outcrops meet the sea.

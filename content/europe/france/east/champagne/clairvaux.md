@@ -5,8 +5,10 @@ done:
   location_enrich: '2026-05-15'
 latitude: 48.1455
 loc_type: city
+snippet: Aube valley village where Bernard of Clairvaux founded the Cistercian abbey
+  that reshaped medieval Europe.
 longitude: 4.7933
-score: 0.44
+score: 7.07
 title: Clairvaux
 type: location
 ---

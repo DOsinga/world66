@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.2
 ---
 
 A handsome brick-and-sandstone depot from the railroad era, the former Great Northern (later Burlington Northern) station sits at 1 Court Street downtown. Aberdeen had four railroads converging here at the turn of the 20th century — the source of its "Hub City" nickname — and the depot is the most intact survivor of that boom.

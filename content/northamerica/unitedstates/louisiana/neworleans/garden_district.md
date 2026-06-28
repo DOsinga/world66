@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.9299
 longitude: -90.0989
+score: 9.1
 ---
 
 The Garden District is the grandest of New Orleans's neighbourhoods, developed in the nineteenth century by American merchants who deliberately built their mansions upriver from the Creole French Quarter — a geographical expression of the cultural divide between the old French-speaking city and the new American arrivals. The result is a neighbourhood of extraordinary antebellum mansions set in lush subtropical gardens, with live oaks draped in Spanish moss arching over the streets.

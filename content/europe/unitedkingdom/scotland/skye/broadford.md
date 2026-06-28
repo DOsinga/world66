@@ -5,7 +5,9 @@ done:
 latitude: 57.241015
 loc_type: city
 longitude: -5.90618
-score: 0.57
+score: 8.15
+snippet: Practical Skye village on Broadford Bay, well placed for Sleat, Elgol, and
+  southern island roads.
 title: Broadford
 type: location
 image: broadford.jpg

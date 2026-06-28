@@ -7,6 +7,7 @@ tags:
   - mountain
 latitude: 54.5142
 longitude: -3.2014
+score: 8.8
 ---
 
 The most dramatic of the central Lake District passes, climbing south from Borrowdale at a punishing gradient up to the 356 m top, where the Honister Slate Mine has been working the green slate of Fleetwith Pike since the 17th century.

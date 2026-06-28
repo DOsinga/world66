@@ -13,6 +13,7 @@ story: >
   earned him enemies at court. He was assassinated in 1913. The minaret he
   funded is the tallest building in Khiva and tapers more sharply than older
   Central Asian examples, giving it the look of a chimney from a distance.
+score: 8.7
 ---
 
 The Islam Khoja Minaret rises 57 metres in tapering bands of glazed turquoise, white, and unglazed mud-brick. Its visibility from outside the walls makes it the city's most reliable navigation point. The interior staircase is narrow, steep, and pitch dark — you need a torch, and anyone uncomfortable in tight spaces should skip it — but the view from the top is the best in Khiva: the entire walled city in plan, the Kalta Minor squat at the other end, the desert beyond.

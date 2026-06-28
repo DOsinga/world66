@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nationaal_Park_Weerribben-
 latitude: 52.775
 loc_type: city
 longitude: 5.95
-score: 0.51
+score: 7.61
+snippet: Overijssel marshland national park shaped by peat extraction, with reed beds,
+  turf ponds, and reintroduced otters.
 title: Weerribben National Park
 type: location
 ---

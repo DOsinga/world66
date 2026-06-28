@@ -9,6 +9,7 @@ tags:
 - river
 title: Clark Fork River and Caras Park
 type: poi
+score: 8.5
 ---
 
 The Clark Fork River is the reason Missoula exists and is still the reason most people enjoy it. The river runs through the centre of town, and the riverfront trail — a paved path running from the Orange Street bridge east past the University — is the city's main artery for cyclists, runners, and walkers. In summer, Caras Park on the river's north bank fills with the Saturday farmers' market, outdoor concerts, and people sitting in the grass.

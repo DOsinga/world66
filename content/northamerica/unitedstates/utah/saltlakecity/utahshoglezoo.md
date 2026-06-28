@@ -6,6 +6,7 @@ tags:
 - sight
 title: Utah's Hogle Zoo
 type: poi
+score: 5.9
 ---
 
 Utah's Hogle Zoo sits at the mouth of Emigration Canyon on the eastern edge of the city, adjacent to This Is The Place Heritage Park. The zoo houses several hundred species, with notable exhibits for great apes, big cats, elephants, and giraffes, plus a popular children's area with interactive elements and a small train.

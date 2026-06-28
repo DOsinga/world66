@@ -11,6 +11,7 @@ tags:
 title: Freedom Trail
 type: poi
 url: www.thefreedomtrail.org
+score: 9.1
 ---
 
 A red brick line set into the pavement leads two and a half miles from Boston Common to the Bunker Hill Monument in Charlestown, passing sixteen of the city's most important colonial and revolutionary sites along the way. The full walk takes a good three hours — longer if you go inside the Old State House, the Old North Church, and Paul Revere's house — but you can do any portion of it and get something out of it.

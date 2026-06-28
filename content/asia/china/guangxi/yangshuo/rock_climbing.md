@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.7600
 longitude: 110.4700
+score: 8.5
 ---
 
 Yangshuo has become one of Asia's most celebrated rock climbing destinations, with over 300 bolted routes on the karst peaks surrounding the town. The limestone here has better friction than most karst — the erosion pattern has left the surface rough rather than polished — and the routes range from beginner slabs accessible to anyone with a half-day lesson to long multi-pitch climbs that require genuine technical skill.

@@ -5,6 +5,9 @@ done:
 latitude: 29.2605
 loc_type: city
 longitude: 0.2286
+score: 6.69
+snippet: Saharan oasis town of red Soudano-Saharien architecture beside palm groves
+  and the Grand Erg Occidental.
 title: Timimoun
 type: location
 ---

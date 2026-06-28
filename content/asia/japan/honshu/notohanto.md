@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Noto_Peninsula,_Ishika
 latitude: 37.1833
 loc_type: city
 longitude: 136.8833
-score: 0.61
+score: 8.52
+snippet: Rural Sea of Japan peninsula of fishing villages, rugged coasts, and Wajima
+  lacquerware
 title: Noto Peninsula
 type: location
 ---

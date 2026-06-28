@@ -1,199 +1,199 @@
 {
   "round": 1719,
-  "timestamp": "2026-04-13T10:45:09",
+  "timestamp": "2026-06-13T20:48:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cayman Islands",
-      "path": "northamerica/caymanislands",
-      "prior_score": 6.9096,
-      "prior_variance": 0.406196,
-      "prior_n": 4
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 12.1448,
+      "prior_variance": 0.426888,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Sint Maarten",
-      "path": "northamerica/netherlandsantilles/sintmaarten",
-      "prior_score": 4.6135,
-      "prior_variance": 0.42825,
-      "prior_n": 4
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 5.6264,
+      "prior_variance": 0.299556,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "West caicos",
-      "path": "northamerica/turksandcaicosislands/westcaicos",
-      "prior_score": 1.4035,
-      "prior_variance": 0.437553,
-      "prior_n": 4
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 1.3623,
+      "prior_variance": 0.250618,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Vevey",
-      "path": "europe/switzerland/vevey",
-      "prior_score": 4.7264,
-      "prior_variance": 0.376413,
-      "prior_n": 4
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 3.5459,
+      "prior_variance": 0.262509,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Sant Feliu de Gu\u00edxols",
-      "path": "europe/spain/catalonia/sant_feliu_de_gu",
-      "prior_score": 4.5021,
-      "prior_variance": 0.337618,
-      "prior_n": 4
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -1.7436,
+      "prior_variance": 0.26149,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Blanes",
-      "path": "europe/spain/blanes",
-      "prior_score": 1.8628,
-      "prior_variance": 0.31365,
-      "prior_n": 4
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 0.8742,
+      "prior_variance": 0.36631,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Marche",
-      "path": "europe/italy/marche",
-      "prior_score": 1.9163,
-      "prior_variance": 0.346533,
-      "prior_n": 4
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.4566,
+      "prior_variance": 0.298274,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Popayan",
-      "path": "southamerica/colombia/popayan",
-      "prior_score": 2.4882,
-      "prior_variance": 0.313789,
-      "prior_n": 4
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": -0.2458,
+      "prior_variance": 0.257336,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Chetumal",
-      "path": "northamerica/mexico/chetumal",
-      "prior_score": -2.1596,
-      "prior_variance": 0.259445,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 0.8922,
+      "prior_variance": 0.24714,
       "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Chengde",
-      "path": "asia/china/chengde",
-      "prior_score": 3.5332,
-      "prior_variance": 0.235152,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -1.0166,
+      "prior_variance": 0.242561,
       "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Amizmiz",
-      "path": "africa/morocco/marrakesh/amizmiz",
-      "prior_score": -0.8782,
-      "prior_variance": 0.351356,
-      "prior_n": 4
-    },
-    {
-      "rank": 12,
-      "title": "Errachidia",
-      "path": "africa/morocco/errachidia",
-      "prior_score": -1.2793,
-      "prior_variance": 0.342532,
-      "prior_n": 4
-    },
-    {
-      "rank": 13,
-      "title": "Arta",
-      "path": "europe/greece/arta",
-      "prior_score": 0.4893,
-      "prior_variance": 0.328226,
-      "prior_n": 4
-    },
-    {
-      "rank": 14,
-      "title": "Cortegana",
-      "path": "europe/spain/andalucia/cortegana",
-      "prior_score": 0.123,
-      "prior_variance": 0.327074,
-      "prior_n": 4
-    },
-    {
-      "rank": 15,
-      "title": "Bad Bentheim",
-      "path": "europe/germany/lowersaxony/bad_bentheim",
-      "prior_score": -1.8945,
-      "prior_variance": 0.30256,
-      "prior_n": 4
-    },
-    {
-      "rank": 16,
-      "title": "Portsmouth",
-      "path": "europe/unitedkingdom/england/south_east/portsmouth",
-      "prior_score": 0.8907,
-      "prior_variance": 0.383228,
-      "prior_n": 4
-    },
-    {
-      "rank": 17,
-      "title": "San Rafael",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
-      "prior_score": -3.6468,
-      "prior_variance": 0.331987,
-      "prior_n": 4
-    },
-    {
-      "rank": 18,
-      "title": "Redlands",
-      "path": "northamerica/unitedstates/california/inlandempire/redlands",
-      "prior_score": -3.6292,
-      "prior_variance": 0.337294,
-      "prior_n": 4
-    },
-    {
-      "rank": 19,
-      "title": "Santa Ana",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
-      "prior_score": -4.9216,
-      "prior_variance": 0.365957,
-      "prior_n": 4
-    },
-    {
-      "rank": 20,
-      "title": "Hrodna (Grodno)",
-      "path": "europe/belarus/hrodna_grodno",
-      "prior_score": -2.9731,
-      "prior_variance": 0.356474,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_score": 0.5935,
+      "prior_variance": 0.305818,
       "prior_n": 5
     },
     {
+      "rank": 12,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -2.7885,
+      "prior_variance": 0.270383,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -3.817,
+      "prior_variance": 0.331882,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": -1.1931,
+      "prior_variance": 0.245287,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.6417,
+      "prior_variance": 0.239169,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": 0.2854,
+      "prior_variance": 0.255564,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -1.2774,
+      "prior_variance": 0.238382,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -3.6609,
+      "prior_variance": 0.284153,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.6045,
+      "prior_variance": 0.232887,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.5008,
+      "prior_variance": 0.251381,
+      "prior_n": 6
+    },
+    {
       "rank": 21,
-      "title": "Galanta",
-      "path": "europe/slovakia/galanta",
-      "prior_score": -5.6071,
-      "prior_variance": 0.412634,
-      "prior_n": 4
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -4.7769,
+      "prior_variance": 0.3245,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Podujeva",
-      "path": "europe/serbia/kosovoprovince/podujeva_1",
-      "prior_score": -8.3627,
-      "prior_variance": 0.633211,
-      "prior_n": 4
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -1.7279,
+      "prior_variance": 0.270204,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Kheshgi",
-      "path": "asia/pakistan/nowshera/kheshgi",
-      "prior_score": -10.1441,
-      "prior_variance": 0.551633,
-      "prior_n": 4
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -8.4513,
+      "prior_variance": 0.355435,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Gedaref",
-      "path": "africa/sudan/gedaref",
-      "prior_score": -10.2723,
-      "prior_variance": 0.733936,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -11.549,
+      "prior_variance": 0.487106,
       "prior_n": 5
     }
   ]

@@ -14,6 +14,7 @@ tags:
 - things_to_do
 title: Kumamoto Castle
 type: poi
+score: 9.3
 ---
 
 Kumamoto-jo is one of Japan's three great castles, along with Himeji and Matsumoto. The current black-timbered keep is a 1960 reconstruction but faithful to the original's commanding silhouette on its hilltop. The 2016 earthquakes caused serious damage and restoration work is ongoing — sections of the grounds are fenced off — but the castle is open and the construction itself has become a draw, with viewing platforms letting visitors watch stonemasons rebuild collapsed walls by hand.

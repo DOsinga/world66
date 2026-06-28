@@ -6,6 +6,7 @@ longitude: 120.2058
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 **Coron** is a small, dusty town on Busuanga Island, the launching point for the wreck-diving and lake-hopping that make this corner of the Philippines famous. Confusingly, **Coron Island** itself is a separate, mostly uninhabited karst island across the bay — almost everything you do in Coron starts with a boat ride across.

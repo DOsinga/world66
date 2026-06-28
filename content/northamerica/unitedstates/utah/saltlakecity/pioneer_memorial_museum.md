@@ -6,6 +6,7 @@ tags:
 - museum
 title: Pioneer Memorial Museum
 type: poi
+score: 6.4
 ---
 
 The Pioneer Memorial Museum, operated by the Daughters of Utah Pioneers, houses one of the largest collections of pioneer artifacts in the American West. The four-story building near the State Capitol contains thousands of items brought by hand across the plains: furniture, tools, clothing, documents, and domestic objects that belonged to the Mormon pioneers who settled Utah from 1847 onward.

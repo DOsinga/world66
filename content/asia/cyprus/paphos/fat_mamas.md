@@ -1,8 +1,12 @@
 ---
 address: 47 Tomb of the King's Ave.
+latitude: 34.7714
+longitude: 32.4101
 phone: 06-949619
+score: 4.7
 tags:
 - eating_out
+- restaurant
 title: Fat Mama's
 type: poi
 ---

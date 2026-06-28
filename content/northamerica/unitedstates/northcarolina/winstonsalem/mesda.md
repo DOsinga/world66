@@ -6,6 +6,7 @@ longitude: -80.2422
 tags:
   - things_to_do
   - museum
+score: 8.8
 ---
 
 The Museum of Early Southern Decorative Arts, attached to the Old Salem complex, is the only museum in the country dedicated specifically to the material culture of the early South. The collection covers furniture, ceramics, silver, textiles and paintings produced in the southern colonies and states from 1670 to 1860, and it is organised by region rather than by object type — so each gallery feels like the interior of a different house in a different place.

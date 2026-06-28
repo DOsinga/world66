@@ -3,11 +3,13 @@ address: 1 Empress Place, Singapore
 latitude: 1.2876
 longitude: 103.8514
 opening_hours: Sat–Thu 10:00–19:00, Fri 10:00–21:00
+score: 8.6
 snippet: Pan-Asian cultural survey in a grand colonial building
 tags:
 - things_to_do
 - museum
 - museums
+- clarke_quay
 title: Asian Civilisations Museum
 type: poi
 ---

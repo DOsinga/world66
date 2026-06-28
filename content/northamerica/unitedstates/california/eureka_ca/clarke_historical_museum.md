@@ -16,6 +16,7 @@ story: >
   and cultural heritage ever since.
 sources:
   - https://en.wikipedia.org/wiki/Clarke_Historical_Museum
+score: 8.2
 ---
 
 The Clarke Historical Museum on 3rd Street in Old Town is the main history museum for the Humboldt Bay region, and it is considerably better than its modest exterior suggests. The collection spans natural history, Victorian-era material culture, and indigenous Wiyot artefacts, with particular strength in the lives of the region's first peoples and the dramatic boom years of the 1880s and 1890s when Eureka was one of the most productive timber ports in the world.

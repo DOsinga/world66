@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.3767
 longitude: -119.0078
+score: 5.1
 ---
 
 Mill Creek Linear Park runs along the Mill Creek waterway on the eastern edge of downtown Bakersfield. The park stretches for about a mile through a narrow green corridor between the city centre and the Highway 178 bridge. It is a modest urban amenity — a paved path, lawns, and some tree cover — but in a city where green space in the downtown core is thin on the ground, it serves as a decent walking route and a place to escape the heat in the shade of mature trees.

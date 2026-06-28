@@ -8,6 +8,7 @@ tags:
 - sight
 title: Castle Ruins
 type: poi
+score: 7.0
 ---
 
 At the highest point of Calitri's old town, the ruins of a medieval castle — built by the Normans in the 11th or 12th century and expanded by later lords — command views over the Ofanto valley and the surrounding Irpinia hills. Most of the structure was damaged or destroyed by successive earthquakes over the centuries, including the catastrophic 1980 Irpinia earthquake, and what remains is fragmentary: walls, a partial tower, and scattered stonework.

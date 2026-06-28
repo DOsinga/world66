@@ -5,6 +5,7 @@ tags: [things_to_do, nature, sight]
 latitude: 13.9728
 longitude: 75.3386
 story: Mandagadde is a tiny river island, barely half a hectare, that hosts one of the densest breeding colonies of open-billed storks and cormorants in South India — thousands of birds packed into a cluster of fig and kadamba trees visible from the riverbank.
+score: 7.6
 ---
 
 Mandagadde Bird Sanctuary occupies a small island in the Tunga river about 18 km southeast of Shimoga. From July through December the island is taken over by massive breeding colonies of open-billed storks, cormorants, egrets, and herons. The noise and activity at the height of the nesting season — thousands of birds coming and going — is extraordinary.

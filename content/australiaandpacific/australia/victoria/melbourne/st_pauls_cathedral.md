@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral,_Melbourne
 story: >
   The architect William Butterfield designed St Paul's entirely from London without ever setting foot in Australia, relying on detailed correspondence with the building committee and a local supervising architect to execute his plans. Butterfield was one of the most influential Gothic Revival architects of the Victorian era, responsible for Keble College at Oxford and numerous English churches. He refused to travel to Melbourne despite repeated invitations, reportedly considering the colony too remote for a man of his years.
+score: 7.4
 ---
 
 St Paul's Anglican Cathedral occupies the corner of Flinders and Swanston Streets opposite Federation Square and Flinders Street Station, giving it one of the most prominent positions of any building in Australia. The Gothic Revival building was designed by William Butterfield, the Victorian-era architect responsible for Keble College at Oxford, though he never visited Australia — the design was executed entirely from London based on his drawings and detailed instructions.

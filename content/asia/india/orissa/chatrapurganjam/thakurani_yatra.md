@@ -9,6 +9,7 @@ longitude: 84.986
 snippet: "Biennial chariot procession honouring the goddess Thakurani"
 story: >
   The Thakurani Yatra occurs every two years and draws pilgrims from across Ganjam District. The goddess Thakurani is carried through the streets on a decorated chariot while thousands of devotees pull the ropes — an event so central to local identity that businesses close and families travel from distant villages to participate.
+score: 7.3
 ---
 
 Chatrapur's most important cultural event, the Thakurani Yatra takes place every two years (in even years) and transforms the otherwise quiet town into a major pilgrimage hub. The festival honours the presiding goddess Thakurani and centres on a procession of decorated chariots pulled through the main streets by thousands of devotees. Traditional music, dance, and offerings fill the days surrounding the procession.

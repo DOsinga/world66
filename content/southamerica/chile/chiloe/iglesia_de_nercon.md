@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Iglesia de Nercón
 type: poi
+score: 7.3
 ---
 
 The Church of Nercón sits just south of Castro and is another of the UNESCO-listed Chilote churches. It is quieter than San Francisco, with a more rural setting and a handsome timber interior.

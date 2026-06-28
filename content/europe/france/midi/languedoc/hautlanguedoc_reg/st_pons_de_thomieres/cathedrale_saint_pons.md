@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Saint-Pons-de-Thomi%C3%A8res_Cathedral
   - https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint-Pons-de-Thomi%C3%A8res
+score: 8.3
 ---
 
 The Cathédrale Saint-Pons is the dominant building in St-Pons, and rightly so — it is a remarkable piece of Romanesque and Gothic architecture that belongs in a larger city but ended up in this small Hérault town by a combination of history and episcopal politics. The building combines a severe Romanesque nave with Gothic choir modifications and contains some exceptional medieval stone carving, including the carved marble heads on the choir stalls that are worth a close look.

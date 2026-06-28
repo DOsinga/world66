@@ -1,12 +1,15 @@
 ---
 latitude: 35.0307
 longitude: 135.7137
-snippet: Head temple of the Omuro school, famous for its late-blooming dwarf cherry trees
+score: 8.1
+snippet: Head temple of the Omuro school, famous for its late-blooming dwarf cherry
+  trees
 tags:
 - things_to_do
 - temple
 - unesco
 - sight
+- nijo
 title: Ninna-ji
 type: poi
 ---

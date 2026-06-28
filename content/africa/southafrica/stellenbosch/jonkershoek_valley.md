@@ -11,6 +11,7 @@ story: >
   per square kilometre in the world — part of the Cape Floristic Region that UNESCO has
   declared a World Heritage Site for its biodiversity. More than 9,000 plant species are
   endemic to the Western Cape, more than in the entire British Isles.
+score: 8.4
 ---
 
 The valley that runs southeast from Stellenbosch toward the Jonkershoek mountains is one of the most scenic in the Western Cape. Wine estates occupy the lower valley — including the beautiful Lanzerac and Rustenberg estates — while the upper valley is the Jonkershoek Nature Reserve, with fynbos-covered mountains, streams, and hiking trails.

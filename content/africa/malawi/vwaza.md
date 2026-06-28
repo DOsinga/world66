@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kazuni_1.jpg
 latitude: -10.9667
 loc_type: feature
 longitude: 33.5833
+score: 7.0
+snippet: Remote Malawian wetland reserve where elephants, hippos, and buffalo gather
+  around Lake Kazuni
 sources:
 - https://en.wikipedia.org/wiki/Vwaza_Marsh_Game_Reserve
 title: Vwaza Marsh Game Reserve

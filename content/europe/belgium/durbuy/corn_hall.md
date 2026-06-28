@@ -8,6 +8,7 @@ tags:
 latitude: 50.3522
 longitude: 5.4560
 story: "The Corn Hall was already documented in written records in 1380, making it one of the oldest structures in what claims to be the smallest city in the world. It served as a seat of local justice and administration for centuries before becoming the landmark it is today."
+score: 6.7
 ---
 
 The Corn Hall is a distinctive half-timbered building standing conspicuously among the stone houses of Durbuy's historic core. First mentioned in records dating to 1380, it served for centuries as a seat for judicial and administrative activities — a civic hub in what the Belgians proudly call the world's smallest city.

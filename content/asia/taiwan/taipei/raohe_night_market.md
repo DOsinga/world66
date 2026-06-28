@@ -1,11 +1,13 @@
 ---
 latitude: 25.0506
 longitude: 121.5775
+score: 7.4
 snippet: Compact, atmospheric night market with the famous pepper buns
 tags:
 - things_to_do
 - shopping
 - market
+- songshan
 title: Raohe Street Night Market
 type: poi
 ---

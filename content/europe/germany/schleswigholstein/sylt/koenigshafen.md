@@ -14,6 +14,7 @@ story: >
   and operate it as a private nature reserve. A toll booth at the entrance charges
   cars a small fee in cash, and the family also runs the simple lighthouses that
   guard the entrance to the bay.
+score: 8.7
 ---
 
 The Königshafen is a shallow protected bay at the very north of Sylt, ringed by the curving sand spit of the Ellenbogen — the "elbow" of land that gives the island its hook-shaped silhouette on the map. The bay is a favoured haul-out for grey seals and harbour seals, and on a calm afternoon you can watch dozens of them lying on the sandbanks just offshore.

@@ -1,5 +1,0 @@
-europe/switzerland/aigle
-europe/switzerland/ascona
-europe/switzerland/schwyz
-europe/switzerland/spiez
-europe/ukraine/kolomyia

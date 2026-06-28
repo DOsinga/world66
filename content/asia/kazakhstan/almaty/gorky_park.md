@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 6.2
 ---
 
 Central Park — still widely called Gorky Park after the Soviet writer whose name it bore for decades — is the largest recreational area in the city, stretching east along Gogol Street from the main shopping district. The park has boating lakes, funfair rides of questionable vintage, several cafés and shashlik stands, and a small zoo that has been home to Tien Shan bears, Turkestan lynx, and other Central Asian wildlife.

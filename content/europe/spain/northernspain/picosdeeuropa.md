@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Camino_Vadiniense,_Picos_d
 latitude: 43.1975
 loc_type: feature
 longitude: -4.8517
+score: 8.86
+snippet: Compact limestone massif in northern Spain, cut by deep gorges above the
+  Cantabrian coast.
 sources:
 - https://en.wikipedia.org/wiki/Picos_de_Europa_National_Park
 - https://en.wikipedia.org/wiki/Picos_de_Europa

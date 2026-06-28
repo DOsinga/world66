@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - museum
 story: "Henri d'Orléans, Duke of Aumale, willed the entire collection to the Institut de France in 1884 on the explicit condition that nothing be moved, lent, sold or rearranged. To this day, paintings hang where he placed them — sometimes two or three rows deep on the walls, sometimes obscuring smaller works behind them. Curators have spent over a century working within this constraint, and the result is that the rooms feel less like a museum and more like an aristocrat's drawing room turned to the public."
+score: 8.6
 ---
 
 The Musée Condé occupies the interior of the Grand Château and is, by collection size and quality, the second-most important collection of old master paintings in France after the Louvre. It holds around 800 paintings, 2,500 drawings, 3,000 engravings and 40 illuminated manuscripts.

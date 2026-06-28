@@ -6,9 +6,11 @@ done:
 latitude: 41.909
 longitude: 12.4762
 phone: +39 06 3612154
+score: 7.0
 snippet: Historic wine shop with rare vintages since the 1800s
 tags:
 - shopping
+- pantheon_navona
 title: Enoteca Buccone
 type: poi
 ---

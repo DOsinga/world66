@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 A memorial pavilion in Wanowrie commemorating the eighteenth-century Maratha general Mahadji Shinde, who held the centre of Hindustan together for three decades after the disaster at Panipat. The structure is a small Rajasthani-style pavilion of carved sandstone, more ornate than anything else of its era in Pune.

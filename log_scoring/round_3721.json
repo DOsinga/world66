@@ -1,0 +1,200 @@
+{
+  "round": 3721,
+  "timestamp": "2026-06-13T23:15:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 10.0567,
+      "prior_variance": 0.284346,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 9.1978,
+      "prior_variance": 0.226713,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 7.8526,
+      "prior_variance": 0.155549,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 2.2038,
+      "prior_variance": 0.123953,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 4.6283,
+      "prior_variance": 0.115352,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 5.2545,
+      "prior_variance": 0.142572,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 4.3796,
+      "prior_variance": 0.132288,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Noum\u00e9a",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_score": 3.4638,
+      "prior_variance": 0.117216,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 3.7357,
+      "prior_variance": 0.127239,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.4842,
+      "prior_variance": 0.112455,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.7362,
+      "prior_variance": 0.12822,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 1.7218,
+      "prior_variance": 0.11691,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": 0.8701,
+      "prior_variance": 0.113129,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "T\u00f8nsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 1.5662,
+      "prior_variance": 0.106615,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 1.2662,
+      "prior_variance": 0.115304,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.6,
+      "prior_variance": 0.13493,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": 0.1962,
+      "prior_variance": 0.113009,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 0.4966,
+      "prior_variance": 0.110386,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Falkirk",
+      "path": "europe/unitedkingdom/scotland/falkirk",
+      "prior_score": -0.7753,
+      "prior_variance": 0.110358,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.2822,
+      "prior_variance": 0.107838,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -3.5413,
+      "prior_variance": 0.116469,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -2.1778,
+      "prior_variance": 0.099721,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": 0.285,
+      "prior_variance": 0.125625,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.519,
+      "prior_variance": 0.104736,
+      "prior_n": 13
+    }
+  ]
+}

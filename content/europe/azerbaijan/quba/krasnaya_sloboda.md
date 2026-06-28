@@ -11,6 +11,7 @@ story: >
   Krasnaya Sloboda is one of the last places in the world where Mountain Jews — Tats who adopted Judaism centuries ago — have maintained an unbroken community. Unlike most Jewish communities in the former Soviet Union, which saw mass emigration after 1991, Krasnaya Sloboda has retained a stable population of several thousand, partly because many families have prospered through the New York diamond trade and remit money home.
 sources:
   - https://en.wikipedia.org/wiki/Quba
+score: 8.5
 ---
 
 Krasnaya Sloboda (Red Town) sits directly across the Kudyal river from Quba, connected by a bridge from Nizami Park. It is one of the last surviving mountain Jewish communities in the world — the Tats, a people who speak an Iranian language and follow Judaism, have lived here for centuries. The town has its own synagogues, community institutions, and a way of life distinct from both Quba and the Azerbaijani mainstream.

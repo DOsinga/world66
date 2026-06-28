@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.78035
 longitude: 122.97252
+score: 4.6
 ---
 
 Magikland is an amusement park on the southern outskirts of Silay, about 2 km from the town centre. It is the largest theme park in Negros Occidental and caters primarily to Filipino families. Rides range from a Ferris wheel and carousel to faster thrill rides, and there are several food stalls and a small water play area.

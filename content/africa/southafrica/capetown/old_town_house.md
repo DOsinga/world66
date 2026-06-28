@@ -1,7 +1,7 @@
 ---
-category: Museum
 latitude: -33.9247
 longitude: 18.4198
+score: 8.2
 scores:
   activities: 0.6174
   museum: 0.7232
@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - museum
 - art
+- city_bowl
 title: Old Town House and Michaelis Collection
 type: poi
 ---

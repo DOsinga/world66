@@ -6,6 +6,7 @@ longitude: 96.4820
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The second-largest Buddhist monastery in Myanmar, Kha Khat Wain Kyaung is home to around a thousand monks ranging from very young novices to elderly abbots who have lived here most of their lives. The complex of wooden halls, dormitories, and meditation rooms is a working institution, not a museum, and moving through its courtyards you are never far from someone studying, chanting, or simply sitting quietly.

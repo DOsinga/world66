@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.38579
 longitude: 2.173826
+score: 7.1
 snippet: Modernista café where Picasso held his first exhibition
 tags:
 - bars_and_cafes
 - landmark
+- gothic_quarter
 title: Els Quatre Gats
 type: poi
 ---

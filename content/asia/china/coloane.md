@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-23'
+image: coloane.jpg
+image_attribution: K.C. Tang
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Coloane4.jpg
 latitude: 22.126082
 loc_type: city
 longitude: 113.567644
-score: 0.53
+score: 7.04
+snippet: Green Macau island district with beaches, parks, hiking trails, and a former
+  pirate-village history.
 sources:
 - https://en.wikipedia.org/wiki/Coloane
 title: Coloane
 type: location
-image: coloane.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Coloane4.jpg
-image_license: CC BY-SA 3.0
-image_attribution: K.C. Tang
 ---
 
 Until 1910 Coloane was a pirates' nest — a Portuguese attempt to clear the island of raiders ended in a battle that is still commemorated by a monument in the village square. Now it is the green escape from [Macau](/asia/china/macau)'s casino towers, with parks, beaches, and hiking trails that feel a world away from the Cotai Strip a few kilometres to the north.

@@ -9,6 +9,7 @@ latitude: 12.6200
 longitude: 37.4560
 sources:
   - https://en.wikipedia.org/wiki/Empress_Mentewab
+score: 7.5
 ---
 
 About 2km west of the Royal Enclosure, on a hill called Kusquam, stands a separate palace compound built by Empress Mentewab in the 1730s. Mentewab was one of the most powerful women in Ethiopian history — she served as regent for her son Iyasu II and effectively ruled the empire for decades. She built the Kusquam complex as her own royal retreat, separate from the main enclosure.

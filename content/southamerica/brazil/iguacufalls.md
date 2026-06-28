@@ -7,11 +7,13 @@ image_attribution: Mayra Villas Boas Francisco Zamulko
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cataratas_do_Igua%C3%A7u_-_Vista_de_cima_alt.jpg
 latitude: -25.693905
+loc_type: feature
 longitude: -54.436538
-score: 0.86
+score: 9.77
+snippet: Border-spanning waterfall system where the Iguaçu River breaks into hundreds
+  of cataracts and mist-filled gorges
 title: Iguaçu Falls
 type: location
-loc_type: feature
 ---
 
 Iguaçu Falls — Cataratas do Iguaçu in Portuguese, Cataratas del Iguazú in Spanish — are one of the great natural spectacles on earth. The Iguaçu River drops over a basalt cliff edge in a horseshoe nearly three kilometres wide, splitting into roughly 275 individual falls that thunder into the gorge below. Rainbows hang permanently in the mist, and the roar carries for miles.

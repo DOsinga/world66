@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Melrose_Abbey_-_geograph.o
 latitude: 55.597594
 loc_type: city
 longitude: -2.719968
-score: 0.55
+score: 7.92
 title: Melrose
 type: location
+snippet: Scottish Borders town below the Eildon Hills, known for the ruins of Melrose
+  Abbey.
 ---
 
 Of the abbey towns in the Scottish Borders, Melrose is possibly the prettiest, tucked at the foot of the Eildon Hills with the River Tweed nearby. It is a small, friendly place -- more village than town -- but it punches well above its weight for things to see.

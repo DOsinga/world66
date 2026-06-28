@@ -13,6 +13,7 @@ story: >
   Ocean and the Gulf of Aden each summer, watering juniper forests, wild olive groves,
   and mountain meadows that would be impossible anywhere else in the country.
   Arabian leopards — critically endangered — still survive in these mountains.
+score: 8.8
 ---
 
 Asir National Park protects a 4,500-square-kilometre section of the Asir highlands, encompassing the full range of the escarpment from mountain summit to coastal plain. The park's environmental diversity is extraordinary for Saudi Arabia: juniper and wild olive forests grow on the heights; acacia and euphorbia cover the lower slopes; the Tihama coastal strip at the bottom is semi-arid lowland with its own ecology.

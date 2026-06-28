@@ -1,10 +1,17 @@
 ---
 accessibility: 12 hours a day open
 address: rr.Ismail Tatzati
+latitude: 39.8752
+longitude: 20.0065
 phone: 085221317
 price: normal
+score: 3.0
+sources:
+- https://www.visitsaranda.net/food-drinks/la-banana/
 tags:
 - eating_out
+- restaurant
+- seafood
 title: La Banana
 type: poi
 ---

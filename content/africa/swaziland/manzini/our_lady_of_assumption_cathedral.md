@@ -6,6 +6,7 @@ latitude: -26.5006
 longitude: 31.3774
 sources:
   - https://en.wikipedia.org/wiki/Our_Lady_of_Assumption_Cathedral,_Manzini
+score: 5.8
 ---
 
 The Catholic Cathedral of Our Lady of Assumption is the most prominent religious building in Manzini, its whitewashed facade and twin towers visible from much of the town centre. The cathedral was built in the mid-twentieth century and serves the Diocese of Manzini, which covers most of the country.

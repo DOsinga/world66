@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.3825
 longitude: 2.169
+score: 5.5
 snippet: Late-night bar with art exhibitions and DJ sets
 tags:
 - bars_and_cafes
 - nightlife
+- el_raval
 title: Santanassa
 type: poi
 ---

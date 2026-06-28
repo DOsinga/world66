@@ -6,6 +6,7 @@ longitude: 21.1832
 tags:
   - eating_out
   - restaurant
+score: 6.2
 ---
 
 A small *koutouki* — Greek for a snug, slightly bohemian taverna — tucked down a side street just off the main square. The menu is short and changes daily, written in Greek on a blackboard. Expect game in season (wild boar, hare), homemade sausages, baked beans, and grilled meats. The wine list runs to a few local producers in addition to the inevitable Katogi.

@@ -7,6 +7,7 @@ tags:
 latitude: -34.9065
 longitude: -56.2004
 snippet: Classic Uruguayan parrilla chain, reliable and unpretentious
+score: 6.3
 ---
 
 La Pasiva is a Montevideo institution — a no-frills parrilla chain that has been serving grilled beef to the city's residents since 1917. There are branches throughout the city but the one on Plaza Independencia is the most central and perhaps the most characterful. The menu is simple: chivito (the loaded steak sandwich that is Uruguay's national dish), beef cuts, sausages, and fried potatoes.

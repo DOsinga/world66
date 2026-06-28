@@ -5,8 +5,14 @@ latitude: 40.984254
 loc_type: region
 longitude: 16.621003
 score: 0.76
+snippet: Southern Italian region in the boot's heel, known for baroque Lecce, trulli,
+  and working Adriatic ports
 title: Puglia
 type: location
+image: puglia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Castel_del_Monte_-_Andria.jpg
+image_license: CC BY-SA 4.0
+image_attribution: ParisTaras
 ---
 
 Puglia is the heel of the boot. Not many tourists make it this far, and those who do often come just to take a ferry to [Greece](/europe/greece). That is a shame, because Puglia has things that are hard to find elsewhere in Italy.

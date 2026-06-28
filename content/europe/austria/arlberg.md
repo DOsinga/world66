@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arlberg_passstrasse.jpg
 latitude: 47.129845
 loc_type: city
 longitude: 10.21063
-score: 0.63
+score: 8.62
+snippet: Austrian alpine pass region linking Tyrol and Vorarlberg, surrounded by St.
+  Anton, Lech, Zürs, and ski terrain.
 title: Arlberg
 type: location
 ---

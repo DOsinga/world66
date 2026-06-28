@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.5090
 longitude: 112.9360
+score: 5.8
 ---
 
 The Shaolin Scenic Area hosts regular kung fu demonstrations by students from the area's martial arts schools. The main performance venue near the monastery entrance runs scheduled shows throughout the day, typically lasting thirty to forty minutes. The quality varies considerably: the best demonstrations by senior students show genuine athletic ability — forms performed with precision, breaking demonstrations that require real controlled force, and aerial work that is legitimately impressive. The lower-tier tourist shows are more theatrical than athletic.

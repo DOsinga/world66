@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Klosters_Dorf.jpg
 latitude: 46.88291
 loc_type: city
 longitude: 9.875068
-score: 0.61
+score: 8.49
+snippet: Alpine Prättigau village of wooden chalets and royal ski history, linked
+  to the Parsenn slopes.
 title: Klosters
 type: location
 ---

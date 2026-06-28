@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "What stands today is only about a quarter of the original 17th-century complex. King Thirumalai Nayak's own grandson dismantled most of the palace to build a new one in Tiruchirappalli — many of the columns and beams of that later palace were salvaged from here."
+score: 8.8
 ---
 
 Thirumalai Nayak Palace was built in 1636 by King Thirumalai of the Nayak dynasty and at its peak combined Dravidian and Islamic architecture across a sprawling complex of more than ten courtyards. What remains is mostly the grand entrance hall and a single courtyard — but the courtyard is something extraordinary, with massive yellow stuccoed columns and high arches that feel more like a Mughal madrassa than a Hindu palace.

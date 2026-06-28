@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: -0.4500
 longitude: 35.7000
+score: 7.6
 ---
 
 The Mau Forest complex begins not far west of Kericho and stretches across the highlands for hundreds of square kilometres. It is the largest closed-canopy montane forest in East Africa and the water tower for half a dozen rivers that feed Lake Victoria and the Mara. Without it the Maasai Mara and the Serengeti would dry out.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 4.4002
 longitude: -7.6966
+score: 5.8
 ---
 
 Tubman University — one of only two public universities in Liberia — sits on a large campus north of Harper's centre. It was founded in the 1970s and named for William V.S. Tubman, the longest-serving president of Liberia (1944–1971), who had personal roots in Harper and Maryland County. The university's presence gives the town a student population and a more active street life than the rest of Harper might suggest.

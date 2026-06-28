@@ -8,6 +8,7 @@ tags:
 latitude: 37.0560
 longitude: 10.0618
 story: "Excavations here in the 1950s turned up stone-built chamber tombs containing not only grave goods but also lead urns with cremated remains — a Phoenician burial practice. Some of the urns are now in the Bardo Museum in Tunis."
+score: 5.4
 ---
 
 Below the Roman houses, on the lower slope of the site, lie the foundations of Phoenician tombs cut into the limestone bedrock. They belong to the earliest phase of Utica, when the town was a Phoenician trading post centuries older than Carthage.

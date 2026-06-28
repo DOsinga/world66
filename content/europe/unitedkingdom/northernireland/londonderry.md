@@ -5,7 +5,9 @@ done:
 latitude: 54.9979
 loc_type: city
 longitude: -7.3213
-score: 0.56
+score: 7.86
+snippet: Walled Northern Irish city where complete 17th-century ramparts encircle
+  the old centre above the Bogside.
 title: Derry / Londonderry
 type: location
 ---

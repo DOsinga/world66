@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.4025
 longitude: 2.1878
+score: 7.8
 snippet: Barcelona's oldest flea market under a striking mirrored canopy
 tags:
 - shopping
+- sant_marti
 title: Els Encants
 type: poi
 ---

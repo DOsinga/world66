@@ -6,6 +6,7 @@ longitude: 78.8235
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The city's defining landmark is the point where seven streets converge in the middle of the old town. Roads arrive from the old bus stand, the Chennur bus stand area, Palem Papaiah Street (the building materials bazaar), the government hospital road, and several others. The junction marks the boundary between the old bazaar quarter and the newer Madras Road development.

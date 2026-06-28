@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra
 latitude: 38.835545
 loc_type: city
 longitude: -9.352237
-score: 0.77
+score: 9.45
+snippet: Portuguese hill town of royal palaces and misty forests, 40 minutes by train
+  from Lisbon.
 title: Sintra
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Tha Phae Gate
 type: poi
+score: 6.8
 ---
 
 Tha Phae Gate is the most recognisable surviving element of Chiang Mai's old city walls, a robust brick gatehouse on the eastern edge of the moated square. It's been the symbolic entry point to the old city for centuries, and today it's where locals and visitors gather at all hours — particularly in the evenings when people sit on the steps and the surrounding plaza fills with food carts.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Horno_alfarero_de_Mota_del
 latitude: 39.500934
 loc_type: city
 longitude: -2.871109
-score: 0.45
+score: 6.91
+snippet: La Mancha hill town whose ridge of white windmills overlooks the wide Don
+  Quixote plains.
 title: Mota del Cuervo
 type: location
 ---

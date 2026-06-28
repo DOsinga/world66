@@ -8,6 +8,7 @@ tags:
 latitude: 44.1931
 longitude: 8.1325
 snippet: "Walking trails through ancient chestnut and beech forest on the surrounding ridges"
+score: 7.8
 ---
 
 The hills around Bardineto are covered in some of the finest chestnut and beech forest in inland Liguria. These woods were managed for centuries as a food source — chestnut flour was the staple of poor mountain communities long before maize arrived from the Americas — and today they offer excellent walking on well-marked trails through cool, dense canopy.

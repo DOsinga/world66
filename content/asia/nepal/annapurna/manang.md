@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Manang
 story: >
   Manang sits in a classic Himalayan rain shadow: despite being in Nepal, it receives just 200mm of rain per year — less than Cairo. The Manang people historically were licensed traders between Tibet and the plains, enjoying a royal charter that allowed them to trade internationally. You can still see the relative prosperity in the stone houses and the number of guesthouses, which are significantly more comfortable than the teahouses further down the valley.
+score: 8.7
 ---
 
 Manang (3,500m) is the main acclimatisation stop on the Annapurna Circuit and one of the most interesting settlements along the route. The village sits in an open valley beneath the Gangapurna glacier, with the brown cliffs of the rain shadow landscape rising behind it and the white peaks of Gangapurna (7,455m) and Annapurna III (7,555m) filling the skyline to the south. After the lush subtropical lower sections of the circuit, Manang feels like a different world: flat-roofed stone houses, Buddhist shrines, and juniper smoke.

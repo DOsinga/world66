@@ -8,8 +8,10 @@ image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/37583176@N00/51938368593
 latitude: -0.4169
 loc_type: city
+snippet: Cool Kenyan highland town between Mount Kenya and the Aberdares, surrounded
+  by coffee and tea estates.
 longitude: 36.951
-score: 0.44
+score: 7.23
 title: Nyeri
 type: location
 ---

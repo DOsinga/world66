@@ -8,6 +8,7 @@ latitude: 36.8626
 longitude: -5.1806
 story: >
   The church was begun in the early 16th century, shortly after the Christian reconquest, in the Spanish Gothic style that was fashionable at the time. Construction dragged on for over a century, and the building was never entirely finished — the intended second tower was abandoned, leaving the facade with an asymmetry that gives it a slightly unresolved look.
+score: 6.5
 ---
 
 The parish church of the Incarnation stands in the upper part of the village, a short climb from the cave streets. Built on the site of the former mosque after the Christian conquest of 1484, it combines Gothic and Renaissance elements in a way typical of the Andalucian churches built during that transitional period. The single tower that was completed is visible from the lower village and serves as a useful landmark for navigation.

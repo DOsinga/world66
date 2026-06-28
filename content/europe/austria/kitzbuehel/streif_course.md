@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Hahnenkamm_races
 story: >
   The Streif (German: "stroke" or "stripe") is 3.3 km long, drops 860 metres, and averages 27 degrees of incline. The most notorious section is the Mausefalle — the "mousetrap" — a compression followed by a jump that launches racers 60–80 metres through the air at 140 km/h. The race course was unchanged from 1931 to 2013, when a minor modification was made for safety. All attempts to make it safer have been resisted by racers, who consider the danger inseparable from the prestige.
+score: 8.8
 ---
 
 The Streif is the downhill course on the Hahnenkamm that has defined Kitzbühel's identity since the first race in 1931. It drops 860 metres over 3.3 km, reaching speeds of 140 km/h on the straight sections and involving sections so steep and icy that conventional ski technique breaks down completely. The course passes through a series of named sections — the Mausefalle, the Steilhang, the Hausbergkante — each with its own character and its own history of crashes.

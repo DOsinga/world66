@@ -9,6 +9,7 @@ tags:
 title: Beaufort Historic District
 type: poi
 story: "When Union troops captured Beaufort in November 1861, the planter families fled so suddenly that their houses, furniture, and silver were left in place. Northerners bought the abandoned mansions for back taxes — which is why so many survive today, intact, instead of being burned like much of the rest of Sherman's path."
+score: 8.8
 ---
 
 The historic district covers roughly three hundred acres of downtown Beaufort and is one of only three National Historic Landmark Districts in South Carolina (the others are Charleston and Camden). Within it stand dozens of antebellum houses, most built between 1790 and 1860 with the deep porches, raised foundations, and tabby walls that are particular to the Lowcountry climate.

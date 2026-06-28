@@ -6,6 +6,7 @@ longitude: -63.0480
 tags:
   - shopping
   - sight
+score: 4.5
 ---
 
 Front Street is the main commercial strip of Philipsburg, running parallel to Great Bay Beach on the Dutch side. Sint Maarten is a free port with no sales tax, and Front Street is the result: a dense sequence of duty-free shops selling electronics, spirits, jewellery, perfume, and branded clothing. When cruise ships are in dock — which is often — the street is extremely crowded and the atmosphere is aggressively commercial.

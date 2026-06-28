@@ -5,10 +5,12 @@ latitude: 53.358888
 longitude: -6.30853
 opening_hours: Daily 09:30–18:00 (17:00 in winter)
 phone: +353 1 474 8900
+score: 6.4
 snippet: One of Europe's oldest zoos, set in the western corner of Phoenix Park
 tags:
 - things_to_do
 - sight
+- phoenix_park_area
 title: Dublin Zoo
 type: poi
 url: https://www.dublinzoo.ie

@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 40.7985
 longitude: -96.7425
+score: 7.4
 ---
 
 Pioneers Park is Lincoln's largest park — 668 acres of prairie, woodland, and wetland in the southwestern part of the city, preserving a significant patch of the tallgrass prairie ecosystem that once covered this part of the Great Plains. The park contains a nature center, miles of walking and cycling trails, and a small herd of bison and elk that graze in enclosed natural habitat. Seeing bison within city limits is something that surprises most visitors.

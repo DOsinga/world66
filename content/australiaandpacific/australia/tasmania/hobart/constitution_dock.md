@@ -10,6 +10,7 @@ tags:
   - sight
   - sullivans_cove
 snippet: "The historic harbour basin in the centre of town, where the Sydney–Hobart yacht race finishes"
+score: 7.5
 ---
 
 The working heart of Hobart's waterfront — a small rectangular basin lined with fishing boats, floating fish punts, and bobbing pleasure craft. On 28 December each year, the surviving boats of the **Rolex Sydney–Hobart Yacht Race** arrive after a brutal three-day downwind run from Sydney; the dock is packed, the pubs along Hunter Street are full, and the city's biggest party of the year unfolds on the cobblestones.

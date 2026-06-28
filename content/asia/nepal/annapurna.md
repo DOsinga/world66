@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Annapurna_Massif_Panorama.
 latitude: 28.5955
 loc_type: feature
 longitude: 83.8201
+score: 9.62
+snippet: Himalayan trekking region around the Annapurna massif, spanning subtropical
+  valleys and high desert plateau.
 sources:
 - https://en.wikipedia.org/wiki/Annapurna_Conservation_Area
 - https://en.wikipedia.org/wiki/Annapurna_Circuit

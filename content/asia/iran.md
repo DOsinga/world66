@@ -2,16 +2,22 @@
 done:
   poi_cleanup: '2026-04-19'
 latitude: 32.647531
+loc_type: country
 longitude: 54.564352
 quick_facts:
-  Population: "88 million"
-  Alcohol: "Banned (Islamic republic)"
-  UNESCO World Heritage Sites: "27 — 3rd most in Asia"
-  Oil Reserves: "~10% of world"
-score: 0.33
+  Alcohol: Banned (Islamic republic)
+  Oil Reserves: ~10% of world
+  Population: 88 million
+  UNESCO World Heritage Sites: 27 — 3rd most in Asia
+score: 0.8
+snippet: Large Middle Eastern country with ancient Persian sites, old cities, mountains,
+  deserts, and Caspian coast.
 title: Iran
 type: location
-loc_type: country
+image: iran.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Choqa_Zanbil_Darafsh_1_(36).JPG
+image_license: GFDL
+image_attribution: درفش کاویانی
 ---
 
 Known as **Persia** until 1935, **Iran** became an Islamic republic in 1979. This country has nearly 10% of the world's known oil and the second biggest gas reserves.
@@ -46,6 +52,7 @@ However, before getting ready to the travel you should know some specific requir
  
  
  [Persepolis](/asia/iran/persepolis)
+ [Qazvin](/asia/iran/qazvin)
  [Shiraz](/asia/iran/shiraz)
  [Tabriz](/asia/iran/tabriz)
  

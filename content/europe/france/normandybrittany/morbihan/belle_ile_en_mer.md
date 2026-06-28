@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Claude Monet spent the autumn of 1886 on Belle-Île, working obsessively on the dramatic west-coast rocks at Port-Coton. He produced around forty canvases over ten weeks — among the most violent and atmospheric seascapes of his career — many of them now in the Musée d'Orsay and the Met."
+score: 8.7
 ---
 
 Belle-Île is the largest of the Brittany islands — eighty-five square kilometres of moorland, cliffs and small inland villages, lying ten nautical miles south of Quiberon. The ferry takes 45 minutes from Quiberon to the main port of Le Palais, a Vauban-fortified harbour with a citadel that still dominates the entrance.

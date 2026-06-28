@@ -1,10 +1,15 @@
 ---
 latitude: 35.1217
 longitude: 135.7625
-snippet: Riverside shrine north of Kyoto, with lantern-lit stone steps and a water-divination tradition
-story: At Kifune you draw a blank piece of paper from the shrine office and float it on the spring — your fortune appears in ink as the paper gets wet. The shrine is also the canonical home of the *ushi-no-toki-mairi*, the gruesome curse ritual of nailing a straw effigy to a sacred tree at 2 a.m.
+score: 7.9
+snippet: Riverside shrine north of Kyoto, with lantern-lit stone steps and a water-divination
+  tradition
+story: At Kifune you draw a blank piece of paper from the shrine office and float
+  it on the spring — your fortune appears in ink as the paper gets wet. The shrine
+  is also the canonical home of the *ushi-no-toki-mairi*, the gruesome curse ritual
+  of nailing a straw effigy to a sacred tree at 2 a.m.
 tags:
-- things_to_do
+- day_trips
 - shrine
 - sight
 title: Kifune Shrine

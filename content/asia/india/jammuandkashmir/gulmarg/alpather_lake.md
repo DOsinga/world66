@@ -13,6 +13,7 @@ story: >
   The lake sits at 3,843 m in a cirque below the Afarwat ridge. Even in late May,
   when the meadows below are full of wildflowers, Alpather can be frozen solid —
   a flat white disc ringed by snow slopes, completely still, completely silent.
+score: 8.9
 ---
 
 Alpather Lake lies at 3,843 m in a high cirque just below the Afarwat ridge, a forty-minute walk from the upper Gondola station. The route follows a broad path across snowfields and boulder slopes; in early summer you will almost certainly need to cross patches of firm snow.

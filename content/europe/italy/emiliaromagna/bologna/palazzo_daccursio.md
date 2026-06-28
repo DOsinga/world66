@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 7.7
 ---
 
 The Palazzo Comunale (still often called Palazzo d'Accursio after the jurist whose house was incorporated into the original building) has been the seat of city government since 1336. The brick facade carries a terracotta Madonna by Niccolò dell'Arca, a bronze statue of Pope Gregory XIII (a Bolognese pope), and a clock tower above the main gate.

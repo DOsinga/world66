@@ -15,6 +15,7 @@ story: >
   one of dozens of Serbian Orthodox sites in Kosovo guarded by international
   peacekeepers as part of arrangements that remain in place more than two decades
   later.
+score: 6.0
 ---
 
 The Church of the Holy Emperor Uroš is a Serbian Orthodox church in the centre of Ferizaj, dedicated to the last ruler of the medieval Nemanjić dynasty. The current building is relatively modern — the original medieval association was maintained through rebuilding over the centuries — but the site carries considerable symbolic weight in the context of Kosovo's complex history.

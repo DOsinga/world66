@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 7.4750
 longitude: 99.0374
+score: 8.0
 ---
 
 Kantiang Bay is widely considered the most beautiful beach on Koh Lanta. A wide crescent of white sand backed by jungle-covered hills, with the headlands curving around to enclose it on both sides, it feels more remote than it is — about 30 km south of the ferry pier. The water is calm and clear, the beach rarely crowded, and the sunsets from here are exceptional.

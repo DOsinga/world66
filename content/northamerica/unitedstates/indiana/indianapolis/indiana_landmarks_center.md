@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 A restored 1891 Romanesque sandstone church on North Meridian Street that now houses the headquarters of Indiana Landmarks, the largest historic preservation organisation in the United States. The Cook Theater, a 600-seat performance space inside the former sanctuary, has retained its stained glass and original woodwork.

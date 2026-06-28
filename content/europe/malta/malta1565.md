@@ -1,9 +1,10 @@
 ---
+score: 5.9
 snippet: Gripping account of the Great Siege by the Ottoman Empire
 tags:
 - books
 title: 'Malta 1565: Last Battle of the Crusades'
-type: poi
+type: theme
 ---
 
 Tim Pickles' compact account of the 1565 Great Siege of Malta, when a few thousand Knights of St. John and Maltese defenders held off an Ottoman invasion force of over 30,000 for nearly four months. The book is part of Osprey's Campaign series, so expect clear maps, battle diagrams, and concise military analysis rather than literary prose.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Guadalcanal_American_Memor
 latitude: -9.4328
 loc_type: city
 longitude: 160.0456
-score: 0.44
+score: 6.37
+snippet: Solomon Islands' largest island, known for World War II battlefields, jungle
+  ridges, and Iron Bottom Sound
 title: Guadalcanal
 type: location
 ---

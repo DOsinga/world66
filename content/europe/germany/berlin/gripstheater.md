@@ -10,6 +10,7 @@ tags:
 - berlinmitte
 title: Grips Theater
 type: poi
+score: 7.6
 ---
 
 Grips has been one of Berlin's most celebrated theatres since it opened in 1969 — originally conceived as a theatre for children and teenagers, but long since recognised as serious political art. The productions deal with real topics: bullying, racism, family breakdown, social exclusion, told without condescension and often with dark humour.

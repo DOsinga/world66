@@ -1,0 +1,200 @@
+{
+  "round": 4113,
+  "timestamp": "2026-06-13T23:44:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 4.8022,
+      "prior_variance": 0.117113,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 3.0652,
+      "prior_variance": 0.104699,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 3.7091,
+      "prior_variance": 0.111456,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.144,
+      "prior_variance": 0.09083,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 2.3257,
+      "prior_variance": 0.109723,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": 0.2574,
+      "prior_variance": 0.100713,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.4379,
+      "prior_variance": 0.102205,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Middle Caicos",
+      "path": "northamerica/turksandcaicosislands/middlecaicos",
+      "prior_score": 2.3537,
+      "prior_variance": 0.109904,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 0.4852,
+      "prior_variance": 0.108014,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 0.8356,
+      "prior_variance": 0.105754,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 0.5027,
+      "prior_variance": 0.101392,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.1499,
+      "prior_variance": 0.104517,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_score": 0.3959,
+      "prior_variance": 0.100862,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": -0.1759,
+      "prior_variance": 0.107765,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": -0.1572,
+      "prior_variance": 0.089555,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -2.7128,
+      "prior_variance": 0.103522,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.124,
+      "prior_variance": 0.10445,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -2.6011,
+      "prior_variance": 0.120617,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -3.2646,
+      "prior_variance": 0.095194,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_score": -3.1509,
+      "prior_variance": 0.09314,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -4.2135,
+      "prior_variance": 0.111875,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -4.2039,
+      "prior_variance": 0.09977,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Alton",
+      "path": "northamerica/unitedstates/illinois/alton",
+      "prior_score": -3.564,
+      "prior_variance": 0.112554,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -7.0225,
+      "prior_variance": 0.150969,
+      "prior_n": 13
+    }
+  ]
+}

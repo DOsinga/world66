@@ -13,6 +13,7 @@ story: >
   the traditions of the Buddhist communities that contributed to the temple's construction. This wasn't
   symbolism — it was diplomacy. The temple's founder negotiated donations from Buddhist communities across
   Southeast Asia, and each major donor tradition got its style represented on the tower.
+score: 9.2
 ---
 
 Kek Lok Si — the Temple of Supreme Bliss — was begun in 1891 and took two decades to complete, funded by donations from Chinese Buddhist communities across Penang, Singapore, and the Malay peninsula. It climbs the hillside at Air Itam in a series of halls, shrines, and pavilions, culminating in the 30-metre-high Ban Po Thar (Ten Thousand Buddhas Pagoda) at the top of the complex.

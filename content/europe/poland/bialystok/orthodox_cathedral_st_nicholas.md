@@ -7,6 +7,7 @@ tags:
 snippet: "Russian-style Orthodox cathedral with strong frescos by Mikhail Avilov"
 latitude: 53.1327
 longitude: 23.1545
+score: 8.0
 ---
 
 Białystok has one of the largest Orthodox populations in Poland — roughly a tenth of the city is Orthodox — and the Cathedral of St. Nicholas, completed in 1846, is the centre of its religious life. The exterior is a classic Russian Revival design with a tall central drum and onion dome, but the real attraction is inside.

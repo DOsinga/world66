@@ -4,6 +4,9 @@ done:
 latitude: 12.1192
 loc_type: city
 longitude: -61.6264
+score: 7.32
+snippet: Workaday Grenadian east-coast town where the Saturday market shows the island
+  beyond resort rhythms
 sources:
 - https://en.wikipedia.org/wiki/Grenville,_Grenada
 - https://www.puregrenada.com/product/lake-antoine/

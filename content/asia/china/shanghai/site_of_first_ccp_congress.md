@@ -1,14 +1,15 @@
 ---
-title: "Site of the First CCP Congress"
-type: poi
-category: "Museum"
+category: Museum
 latitude: 31.2208
-longitude: 121.4760
+longitude: 121.476
+score: 8.0
+snippet: Shikumen house where the Chinese Communist Party was founded in July 1921
 tags:
-  - things_to_do
-  - museum
-  - xintiandi
-snippet: "Shikumen house where the Chinese Communist Party was founded in July 1921"
+- things_to_do
+- museum
+- xintiandi
+title: Site of the First CCP Congress
+type: poi
 ---
 
 A grey-brick shikumen lane house in Xintiandi where, between 23 and 31 July 1921, thirteen Chinese delegates and two Comintern representatives met in secret to found the Chinese Communist Party. A French Concession police raid on the eighth day forced them to finish the meeting on a boat at South Lake near Jiaxing.

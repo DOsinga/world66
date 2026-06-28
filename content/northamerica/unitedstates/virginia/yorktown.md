@@ -4,6 +4,9 @@ done:
 latitude: 37.2344
 loc_type: city
 longitude: -76.5097
+score: 7.82
+snippet: York River town where Revolutionary War battlefields meet Virginia's quietest
+  Historic Triangle waterfront.
 sources:
 - https://en.wikipedia.org/wiki/Yorktown,_Virginia
 - https://en.wikipedia.org/wiki/Colonial_National_Historical_Park

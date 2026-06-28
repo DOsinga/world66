@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.0
 ---
 
 The Church of Saint Mary is Sønderborg's main church, a Gothic brick building rebuilt several times since the 15th century after fires and bombardments. The interior is a slightly austere Lutheran whitewash, with a Baroque altarpiece and good 18th-century epitaphs along the walls.

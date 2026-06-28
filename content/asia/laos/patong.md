@@ -5,7 +5,8 @@ done:
 latitude: 17.262183
 loc_type: city
 longitude: 105.574525
-score: 0.27
+score: 5.78
+snippet: Small Route 13 village in the Lao mountains, set among karst limestone scenery.
 title: Patong
 type: location
 ---

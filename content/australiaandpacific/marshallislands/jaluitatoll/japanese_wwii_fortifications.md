@@ -12,6 +12,7 @@ story: >
   at Kwajalein. The Japanese garrison — over 2,000 men at its peak — was left
   stranded, cut off from supply, and slowly starved until Japan's surrender in
   August 1945. The men who surrendered were severely malnourished.
+score: 7.8
 ---
 
 Jaluit was one of the most heavily fortified Japanese bases in the central Pacific. The lagoon, protected and deep enough to anchor large naval vessels, was developed as a major seaplane base from the 1930s onwards. Concrete bunkers, gun emplacements, and the concrete foundations of the seaplane hangar facilities are still visible across several islets on the atoll's southern rim, particularly around Imiej island.

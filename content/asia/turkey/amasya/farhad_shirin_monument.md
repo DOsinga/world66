@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Farhad_and_Shirin_Monument
 story: >
   The legend of Farhad and Shirin is one of the great tragic romances of Persian and Turkish literature. Farhad, a stone-cutter, fell in love with Shirin, who was promised to a king. He was told he could win her hand if he cut a channel through the Elburz mountains to bring milk to the city — an impossible task, which he undertook anyway. According to the legend connected to Amasya, it was on this hilltop that the heartbroken Farhad threw himself off the cliff when tricked into believing Shirin was dead.
+score: 5.8
 ---
 
 This bronze monument stands on a rocky hilltop above the city, depicting the tragic lovers Farhad and Shirin from the classical Persian and Turkish literary tradition. The site is reached by a road that winds up from the town below, and the hilltop itself provides excellent panoramic views over the Yeşilırmak valley and the surrounding countryside.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aranjuez_PalacioReal_Plaza
 latitude: 40.032229
 loc_type: city
 longitude: -3.60401
-score: 0.58
+score: 8.29
+snippet: Royal retreat town south of Madrid, shaped by palace gardens along the Tagus
+  River.
 title: Aranjuez
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 snippet: "Pair of Greek Revival civic buildings from 1830s"
 latitude: 44.538889
 longitude: -68.429444
+score: 6.2
 ---
 
 At the triangular junction where Court Street meets US Route 1 stand two austere Greek Revival buildings dating from the 1830s — the original Hancock County courthouse and jail. They are no longer in official use, but the granite-and-brick architecture is among the best preserved of its era in eastern Maine.

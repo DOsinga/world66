@@ -10,6 +10,7 @@ story: >
   The Kindred Spirit Mailbox has stood near the western end of Bird Island since 1983, placed there by a local resident named Frank Nesmith. It contains notebooks for visitors to leave messages, poems, and reflections. Thousands of entries have accumulated over the decades; the notebooks are collected periodically and archived. It has no address, receives no mail, and is visited only by those willing to make the walk.
 sources:
   - https://en.wikipedia.org/wiki/Bird_Island_Reserve
+score: 8.5
 ---
 
 Bird Island Reserve is a 1,400-acre protected barrier island at the western tip of Ocean Isle Beach, accessible only on foot — there are no roads, no bridges, and no development. A walk of roughly 1.5 miles along the beach from the Ocean Isle western parking area brings you here, and the contrast with the rest of the Carolina coast is immediate: nothing but dunes, maritime shrubs, shorebirds, and sea.

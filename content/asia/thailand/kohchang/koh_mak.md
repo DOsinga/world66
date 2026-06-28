@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Red_sun
 latitude: 11.816
 loc_type: city
 longitude: 102.492633
-score: 0.65
+score: 8.3
+snippet: Quiet Gulf of Thailand island with low-key beaches, coconut plantations,
+  and bicycle-friendly roads.
 title: Koh Mak
 type: location
 ---

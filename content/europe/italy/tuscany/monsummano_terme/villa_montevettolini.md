@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
   - historic_house
+score: 6.7
 ---
 
 A late-sixteenth-century Medici villa perched on a hilltop above Monsummano, commissioned by Grand Duke Ferdinando I as a hunting lodge in the Valdinievole. The building, designed by Gherardo Mechini, has the typical Medici villa profile — long symmetrical façade, terraced gardens, two grand loggias — and commands sweeping views across the marshes and olive groves below.

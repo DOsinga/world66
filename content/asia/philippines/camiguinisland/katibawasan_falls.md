@@ -9,6 +9,7 @@ tags:
 - nature
 title: Katibawasan Falls
 type: poi
+score: 7.4
 ---
 
 The most accessible of Camiguin's waterfalls, Katibawasan drops about 70 metres into a cold emerald pool surrounded by dense forest, five kilometres southeast of Mambajao. The water is cold year-round — fed by mountain springs rather than surface runoff — and the pool is safe for swimming. The volume of the falls is highest from July to September during the wet season.

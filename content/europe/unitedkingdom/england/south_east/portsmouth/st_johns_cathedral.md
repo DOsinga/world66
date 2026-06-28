@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Roman Catholic cathedral, completed in 1882 in Early English Gothic style by architect Joseph Hansom (the inventor of the hansom cab). It was the first new Catholic cathedral built in southern England since the Reformation.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6814
 longitude: 16.5617
+score: 6.8
 ---
 
 Taródi Castle (Taródi-vár) on the Várhegy (Castle Hill) west of Sopron is not what it appears. The towers, ramparts, and Gothic-looking stonework were built between 1960 and 1998 by a single family — the Taródi family — working largely by hand, using salvaged stone from demolished buildings. It is an entirely 20th-century creation designed to look like a medieval castle, and it succeeds well enough that many visitors assume it is the genuine article.

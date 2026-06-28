@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.1565
 longitude: -1.1497
+score: 8.8
 ---
 
 The Tour Saint-Nicolas is the southern of the two towers guarding the entrance to the Vieux Port — a hefty stone keep built between 1345 and 1376, when La Rochelle's wealth was at its medieval peak. Inside, a maze of spiral staircases and small chambers climbs to a terrace at the top, with a long view across the harbour to the Tour de la Lanterne and out to Île d'Aix.

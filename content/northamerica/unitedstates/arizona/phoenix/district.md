@@ -1,12 +1,15 @@
 ---
 accessibility: MON-SUN 6:30 am-10:00 pm
 address: 320 North Third Street Phoenix, AZ 85004
+latitude: 33.4517
+longitude: -112.0701
 phone: 602-817-5400
+score: 5.7
 tags:
 - eating_out
 - restaurant
 - bar
-- neighbourhood
+- downtown_phoenix
 title: District
 type: poi
 ---

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-05'
 latitude: 40.3468
+loc_type: region
 longitude: -75.1304
+score: 0.49
+snippet: Historic Pennsylvania county north of Philadelphia, marked by Delaware River
+  towns and preserved colonial farmland
 title: Bucks County
 type: location
-score: 0.49
-loc_type: region
 ---
 
 Bucks County sits just north of Philadelphia, stretching from the Delaware River west through rolling farmland and small historic towns. William Penn received the land as part of his original grant, and the county retains a colonial character — covered bridges, fieldstone farmhouses, and village greens that haven't changed much since the 18th century.

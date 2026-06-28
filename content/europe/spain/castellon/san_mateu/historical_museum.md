@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 40.4642
 longitude: 0.1795
+score: 7.2
 ---
 
 The town museum occupies a restored Gothic palace just off the Plaça Major and tells the story of Sant Mateu as the medieval capital of the Maestrat — the territory controlled by the Order of Montesa, the Valencian successor to the Knights Templar. The collection is small but well presented across two floors, with explanatory panels in Valencian, Spanish and basic English.

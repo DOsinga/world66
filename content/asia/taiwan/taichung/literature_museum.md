@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 24.1480
 longitude: 120.6740
+score: 7.3
 ---
 
 The Taichung Literature Museum occupies a cluster of restored Japanese-era police dormitories on Lequn Street, in the centre of the city. The wood-and-tile buildings, set in small gardens, hold permanent exhibitions on the major Taichung-born writers and rotating exhibitions on contemporary Taiwanese literature.

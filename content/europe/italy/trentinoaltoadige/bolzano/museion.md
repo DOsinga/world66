@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 46.6603
 longitude: 11.2253
+score: 6.8
 ---
 
 Museion is South Tyrol's contemporary art museum, housed in a bold glass and concrete building on the bank of the Talvera river, a short walk west from the old town. The glass facade doubles as a display surface — art and text are projected onto it at night. Inside, the museum mounts rotating exhibitions of modern and contemporary work by international and regional artists.

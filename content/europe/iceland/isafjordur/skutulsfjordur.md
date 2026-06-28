@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The dramatic fjord on which Isafjordur sits
+score: 7.2
 ---
 
 Skutulsfjörður is the westernmost branch of Ísafjarðardjúp, the long fjord system that defines this part of the Westfjords. The town of Isafjordur sits at its head on a low spit of sand, hemmed in by mountains rising 600–700 metres on either side. The fjord stays ice-free year round, which is the historic reason for the town's existence.

@@ -13,6 +13,7 @@ story: >
   appears to be walking on the surface of Lake Rotorua. The window was installed in 1954 as a
   gift from the local Māori community. The church itself was built in 1910 and its interior is
   lined with Māori carvings and tukutuku (woven lattice) panels.
+score: 8.2
 ---
 
 Ohinemutu is a lakeside Māori village at the northern edge of central Rotorua, one of the oldest continuously inhabited settlements in the Bay of Plenty. Unlike the cultural shows and reconstructed villages available elsewhere in the city, Ohinemutu is an actual community — people live in the houses between the steam vents, and have done so for centuries.

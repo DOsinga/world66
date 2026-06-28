@@ -8,6 +8,7 @@ tags:
 neighbourhood: Yas Island
 latitude: 24.4878
 longitude: 54.6027
+score: 6.9
 ---
 
 A fully indoor theme park on Yas Island themed around Warner Bros characters — DC superheroes, Looney Tunes, Hanna-Barbera, Scooby-Doo. Six lands, 29 rides, several full-size dark rides and a couple of serious coasters.

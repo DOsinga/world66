@@ -8,6 +8,7 @@ latitude: -4.617
 longitude: 55.426
 sources:
   - https://en.wikipedia.org/wiki/Mah%C3%A9
+score: 8.1
 ---
 
 Beau Vallon on Mahe's northwest coast is the island's main beach — a two-kilometre crescent of pale sand backed by casuarina trees and a scattering of restaurants and dive shops. The beach is never crowded by Maldivian standards, but it is the most developed stretch on the island, with water sports operators offering snorkelling, diving, sailing, and glass-bottom boat trips.

@@ -19,6 +19,7 @@ tags:
 - historic_site
 title: Shwe Oo Min Paya (Pindaya Caves)
 type: poi
+score: 9.1
 ---
 
 A vast limestone cave system above Angels Lake, containing more than 8,000 Buddha images accumulated over centuries of pilgrimage. Donors have placed figures of every size and material — white marble, gilded plaster, bronze — in every chamber and crevice of the cave, creating a dense, glittering interior that takes time to absorb. The main stupa dates to the 12th century; some of the oldest images are several hundred years old. A covered walkway zigzags up the cliff face to the entrance, or you can take the lift.

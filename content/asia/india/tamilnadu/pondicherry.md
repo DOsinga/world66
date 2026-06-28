@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pondicherry-Rock_beach_aer
 latitude: 10.915649
 loc_type: city
 longitude: 79.806949
-score: 0.55
+score: 8.44
+snippet: Bay of Bengal town with a French colonial White Town and the Sri Aurobindo
+  Ashram.
 title: Pondicherry
 type: location
 ---

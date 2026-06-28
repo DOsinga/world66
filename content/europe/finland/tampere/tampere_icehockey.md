@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 61.5114
 longitude: 23.7799
+score: 7.8
 ---
 
 Tampere is Finland's hockey capital, home to three clubs in the Liiga (Finland's top division): Tappara, Ilves, and KooKoo (based in nearby Kouvola). Tappara and Ilves are fierce rivals with deep roots in the city's working-class communities — Tappara historically linked to the white-collar factory management and Ilves to the workers, a split that no longer applies but that both clubs' supporters maintain with considerable enthusiasm.

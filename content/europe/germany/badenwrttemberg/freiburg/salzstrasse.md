@@ -7,6 +7,7 @@ tags:
 snippet: "Pedestrianised lane lined with cafés and small shops"
 latitude: 47.99430
 longitude: 7.85180
+score: 7.2
 ---
 
 The Salzstrasse — Salt Street — was the historic route along which salt from the mines at Bad Dürrnberg near Salzburg arrived in Freiburg. Today it is one of the prettiest pedestrian lanes in the old town, running east from the Bertoldsbrunnen towards the Schwabentor, lined with small shops, cafés, and the Augustinerplatz halfway down.

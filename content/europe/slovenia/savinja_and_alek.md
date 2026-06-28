@@ -5,8 +5,10 @@ done:
 latitude: 46.37
 loc_type: city
 longitude: 14.85
-score: 0.5
+score: 7.42
 title: Savinja and Šalek Valley
+snippet: Slovenian alpine valley region below the Savinja Alps, centred on Logar Valley
+  and mountain landscapes
 type: location
 ---
 

@@ -6,6 +6,7 @@ longitude: 106.9886
 tags:
   - eating_out
   - restaurant
+score: 4.4
 ---
 
 A long-running travellers' restaurant on the main street, **Cafe Alee** does a workable curry, a properly cooked *amok*, and a passable Western breakfast for those who have had enough of rice. The owner is friendly and a good source of advice about onward travel.

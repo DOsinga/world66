@@ -8,6 +8,8 @@ latitude: 27.601611
 loc_type: region
 longitude: 88.45502
 score: 0.65
+snippet: Himalayan Indian state below Kanchenjunga, known for monasteries, orchids,
+  and mountain trails.
 title: Sikkim
 type: location
 ---

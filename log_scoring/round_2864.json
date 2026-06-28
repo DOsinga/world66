@@ -1,0 +1,200 @@
+{
+  "round": 2864,
+  "timestamp": "2026-06-13T22:12:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 7.9532,
+      "prior_variance": 0.218438,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 4.3542,
+      "prior_variance": 0.19701,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.1844,
+      "prior_variance": 0.152406,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/delmar",
+      "prior_score": 0.9061,
+      "prior_variance": 0.157743,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 3.026,
+      "prior_variance": 0.148435,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 2.6409,
+      "prior_variance": 0.149095,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": 2.0255,
+      "prior_variance": 0.162745,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 2.0495,
+      "prior_variance": 0.153381,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 1.1596,
+      "prior_variance": 0.156837,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 1.5694,
+      "prior_variance": 0.148898,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.2049,
+      "prior_variance": 0.162293,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 3.1442,
+      "prior_variance": 0.152187,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 5.178,
+      "prior_variance": 0.163618,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 2.687,
+      "prior_variance": 0.161974,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": 1.2289,
+      "prior_variance": 0.157948,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.1671,
+      "prior_variance": 0.132705,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ceret",
+      "path": "europe/france/midi/ceret",
+      "prior_score": 1.4173,
+      "prior_variance": 0.158434,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.185,
+      "prior_variance": 0.152168,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_score": 0.9984,
+      "prior_variance": 0.147451,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.9606,
+      "prior_variance": 0.152403,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -0.9015,
+      "prior_variance": 0.128647,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.7933,
+      "prior_variance": 0.173757,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_score": -3.5036,
+      "prior_variance": 0.155131,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_score": -3.3548,
+      "prior_variance": 0.180206,
+      "prior_n": 9
+    }
+  ]
+}

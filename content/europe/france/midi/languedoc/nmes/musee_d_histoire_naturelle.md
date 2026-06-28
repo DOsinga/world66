@@ -7,6 +7,7 @@ snippet: Old-school natural history museum with strong prehistoric and ethnograp
 tags:
 - things_to_do
 - museum
+score: 5.9
 ---
 
 The Musée d'Histoire Naturelle, in a former Jesuit college on Boulevard Amiral Courbet, has an unusually broad collection: prehistory, ethnography, zoology, geology. The prehistoric section, drawing on the rich finds from caves in the Languedoc and Cévennes, is particularly strong.

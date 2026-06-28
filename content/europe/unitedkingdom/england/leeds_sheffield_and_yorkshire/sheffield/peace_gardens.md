@@ -1,13 +1,14 @@
 ---
 address: Pinstone Street, Sheffield S1 2HH
 latitude: 53.3798
-loc_type: feature
 longitude: -1.4694
+score: 7.0
 snippet: Central public square with cascading fountains beside Town Hall
 tags:
 - things_to_do
 - sight
 title: Peace Gardens
+type: poi
 ---
 
 A central public square laid out in 1998 on the south side of the Town Hall, with a generous lawn, twelve cascading water jets that children play in on hot days, and four corner fountains modelled on Sheffield's traditional knife-grinder's wheel. The bronze statue at the centre, Hold-Together, commemorates the steel industry that built the city.

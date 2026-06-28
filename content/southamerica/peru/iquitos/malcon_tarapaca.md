@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -3.7490
 longitude: -73.2430
+score: 7.4
 ---
 
 The Malecón Tarapacá is Iquitos's riverside promenade, running along the west bank of the Amazon for about a kilometre in the centre of the city. In the evenings it fills with locals and travellers, vendors selling grilled meats and tropical juices, and the occasional musician. The views across the river are substantial — the Amazon at this point is wide enough that the far bank is often invisible in haze.

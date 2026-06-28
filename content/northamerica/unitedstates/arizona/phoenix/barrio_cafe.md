@@ -10,6 +10,7 @@ tags:
 title: Barrio Cafe
 type: poi
 url: barriocafe.com
+score: 7.5
 ---
 
 Barrio Cafe is the long-running flagship of Silvana Salcido Esparza, one of the most influential chefs in the Phoenix food scene. The menu draws from southern Mexican cooking that you rarely find north of the border — moles from Oaxaca, chiles en nogada from Puebla, cochinita pibil from the Yucatan — assembled with care from often-imported ingredients. The chiles en nogada, in season around Independence Day, is the dish to beat.

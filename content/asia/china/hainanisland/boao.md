@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:HN_QH_Boao_Jade_Belt_Beach
 latitude: 19.16
 loc_type: city
 longitude: 110.58
+score: 6.83
+snippet: Small Hainan coastal town where three rivers meet the sea beside mangroves,
+  fishing boats, and the Boao Forum.
 sources:
 - https://en.wikivoyage.org/wiki/Bo%27ao
 title: Bo'ao

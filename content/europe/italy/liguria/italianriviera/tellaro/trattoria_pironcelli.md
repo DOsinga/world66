@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.0586
 longitude: 9.9304
+score: 7.0
 ---
 
 Up in Montemarcello, fifteen minutes by car from the seafront, this trattoria in a stone-floored room is where locals from Tellaro and Lerici go when they want a real meal at a reasonable price. The menu changes with the season but always leans on the gulf: anchovies marinated and fried, mesciua (a chickpea, bean and farro soup from La Spezia), and rabbit with olives.

@@ -10,6 +10,7 @@ story: >
   The summit crater of Ojos del Salado contains a small permanent lake at approximately 6,390 metres — the highest lake in the world. It is also the highest point in Chile and, after Aconcagua, the second highest peak in the Western Hemisphere. Climbers who reach the summit can look down into a crater that steams faintly even now.
 sources:
   - https://en.wikipedia.org/wiki/Copiap%C3%B3
+score: 8.4
 ---
 
 At 6,893 metres, Ojos del Salado is the world's highest active volcano and one of the great prizes of Andean mountaineering. It straddles the Chile-Argentina border, accessible from the Chilean side via Copiapó. The ascent is non-technical — no glacier travel is required — but the extreme altitude and remote location make it a serious undertaking. Most climbers use Copiapó as a base for acclimatisation before driving up to base camp.

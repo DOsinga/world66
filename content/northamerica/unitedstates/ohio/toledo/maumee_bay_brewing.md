@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - eating_out
+score: 6.1
 ---
 
 Maumee Bay opened in 1995 in the Oliver House, a restored 1859 hotel in the Warehouse District — and is the brewery that more or less single-handedly launched craft beer in Toledo. The flagship Buckeye Beer is a clean Pilsener; the Glass Hopper IPA and the Total Eclipse Black IPA are the more interesting picks.

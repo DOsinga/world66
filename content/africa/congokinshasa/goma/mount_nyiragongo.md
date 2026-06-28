@@ -10,6 +10,7 @@ tags:
 - sight
 title: Mount Nyiragongo
 type: poi
+score: 9.6
 ---
 
 Mount Nyiragongo rises to 3,470 metres about twenty kilometres north of Goma, inside Virunga National Park. Its summit crater holds an active lava lake — sometimes the largest on the planet — and on clear nights its glow can be seen from the city below. The classic visit is a two-day climb up the steep volcanic slopes, sleeping in basic shelters on the crater rim and watching the lava churn and burst through the dark. It is one of the great mountain experiences in Africa when conditions allow.

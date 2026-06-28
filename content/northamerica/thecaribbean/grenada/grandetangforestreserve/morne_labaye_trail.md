@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 12.0928
 longitude: -61.6928
+score: 6.0
 ---
 
 The Morne LaBaye Trail is a 15-minute loop walk from the Grand Etang visitor centre — the shortest and easiest way to get a sense of the cloud forest without committing to a longer hike. It climbs a low ridge above the visitor centre through a series of named tree species (the National Trust has labelled the major ones) and returns to the centre on a gentle descent.

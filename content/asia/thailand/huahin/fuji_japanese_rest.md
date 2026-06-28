@@ -1,6 +1,9 @@
 ---
 address: Hua hin Market Village Shopping Mall
+latitude: 12.5509
+longitude: 99.9627
 price: B 120+
+score: 4.0
 tags:
 - eating_out
 - restaurant

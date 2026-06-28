@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Archbishop%27s_Garden
 story: >
   The garden was originally the private park of the Archbishop of Eger, attached to the Archbishop's Palace, and was opened to the public only in the twentieth century. In the eighteenth and nineteenth centuries it was one of the finest landscaped gardens in Hungary, maintained at considerable expense with exotic trees, a baroque garden theatre, and a network of paths. Much of the original planting survives, including several specimen trees now over two hundred years old.
+score: 6.3
 ---
 
 The Archbishop's Garden (Érsekkert, or colloquially Népkert — People's Garden) is a twelve-hectare park in the centre of Eger, one of the city's most pleasant spaces. Originally laid out in the eighteenth century as the private garden of the Archbishop's Palace, it was given to the public in 1929 and has been a popular outdoor space ever since.

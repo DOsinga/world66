@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 10.2316
 longitude: 12.9302
+score: 6.8
 ---
 
 The periodic market at Hong is a centre for trade between farming and pastoral communities across the area. The Kilba people are known for their weaving and metalwork, and the market is where these crafts are sold alongside agricultural produce, livestock, and provisions. Market days draw traders from surrounding villages and the atmosphere is lively.

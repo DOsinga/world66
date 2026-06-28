@@ -8,6 +8,7 @@ latitude: 51.4543
 longitude: -2.5954
 story: >
   The expression "paying on the nail" — meaning to pay immediately, in cash — is said to derive from the practice of merchants concluding their deals at these pedestals and placing their coin on the flat nail-head-shaped tops. Whether the phrase actually originated here or the story was invented to explain the expression is genuinely disputed by etymologists.
+score: 6.7
 ---
 
 The Nails are four brass pedestals standing outside the Corn Exchange on Corn Street, placed there in the 16th and 17th centuries for merchants to conclude their transactions. Bristol merchants were required to pay debts publicly, and these flat-topped pillars were the designated spot — the expression "paying on the nail" is claimed to derive from this practice, though etymologists argue about the origin.

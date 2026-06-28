@@ -4,6 +4,7 @@ type: poi
 tags: [shopping, market]
 latitude: 29.2917
 longitude: 117.2005
+score: 7.0
 ---
 
 Jingdezhen's porcelain markets range from the tourist-oriented stalls near the Ancient Kiln area (dominated by mass-produced blue-and-white replicas) to the more interesting Taoxichuan weekend market where contemporary artists sell directly to buyers. The distinction matters: most of what you see on the tourist lane is factory ware produced elsewhere; the interesting pieces require more searching.

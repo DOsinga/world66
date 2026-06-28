@@ -8,6 +8,7 @@ longitude: 130.75
 tags:
 - things_to_do
 - sight
+score: 9.4
 ---
 
 The Valley of the Winds is a 7.4 km loop that weaves through the heart of Kata Tjuta, climbing two saddles between the domes and crossing a wide central valley. There are two lookouts — Karu and Karingana — with the latter offering one of the great views in the desert: a panorama down a valley framed by orange-red walls.

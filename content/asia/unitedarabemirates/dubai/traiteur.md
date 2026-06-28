@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Traiteur
 type: poi
+score: 6.5
 ---
 
 Traiteur at the Park Hyatt Dubai is widely considered one of the best fine-dining restaurants in the city. The European-influenced menu focuses on seasonal produce and classical technique, and the kitchen is known for its consistency over many years. The restaurant looks out over the Creek and the marina, and the open kitchen is visible through a glass wall.

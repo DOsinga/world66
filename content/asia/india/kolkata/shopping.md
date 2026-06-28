@@ -3,7 +3,7 @@ address: raj nagar, jhau talla
 email: manamika25@gmail.com
 phone: '22236519'
 title: Shopping
-type: poi
+type: section
 url: www.spainflorist.com
 ---
 

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wire Pass Trailhead and Slot Canyon
 type: poi
+score: 7.8
 ---
 
 The standard starting point for Buckskin Gulch is Wire Pass Trailhead, about 8 miles down an unpaved road from US-89 near the Utah-Arizona border. The access road is fine in dry weather for ordinary cars but can become impassable when wet — the clay-heavy dirt becomes extremely slippery. Check conditions before heading out.

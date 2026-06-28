@@ -11,6 +11,7 @@ story: "The Abraj Al-Bait complex was built on the site of the Ajyad Fortress, a
 sources:
   - https://en.wikipedia.org/wiki/The_Clock_Towers
   - https://en.wikipedia.org/wiki/Ajyad_Fortress
+score: 5.4
 ---
 
 The Abraj Al-Bait complex — commonly called the Clock Towers — is the cluster of high-rise hotels and a shopping mall immediately adjacent to the Grand Mosque, dominated by the Makkah Royal Clock Tower, one of the tallest buildings in the world. The clock faces, four in number, are among the largest in the world; they are visible across much of Mecca and are illuminated at night in green and white light. The complex contains tens of thousands of hotel rooms oriented directly toward the mosque.

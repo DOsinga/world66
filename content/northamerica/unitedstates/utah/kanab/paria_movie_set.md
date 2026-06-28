@@ -14,6 +14,7 @@ story: >
   The Outlaw Josey Wales here in 1975. By the time filming stopped, the Paria set had
   appeared in more Westerns than perhaps any other location in Utah, largely because
   it looked like the real thing rather than a studio construction.
+score: 6.1
 ---
 
 The Paria Movie Set is a ghost town that was never a real town — a collection of frontier-style wooden buildings about 65 km north-east of Kanab on the Cottonwood Canyon Road, constructed entirely for film and television productions from the 1960s onwards. The adobe and wood-frame buildings are now weathering into the surrounding red rock landscape, giving the site an eerie authenticity it never had when it was freshly built.

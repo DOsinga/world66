@@ -5,10 +5,12 @@ done:
 latitude: 41.879
 longitude: 12.5063
 opening_hours: Tue–Sun 12:30–14:30, 19:30–22:30; closed Mon
+score: 8.1
 snippet: Roman trattoria by MasterChef winner Sarah Cicolini, offal as fine dining
 tags:
 - eating_out
 - restaurant
+- monti
 title: Santo Palato
 type: poi
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.
 latitude: 43.213
 loc_type: city
 longitude: 2.3491
-score: 0.74
+score: 9.28
+snippet: Fortified Languedoc city with 52 towers and concentric medieval ramparts
+  above the Aude River.
 title: Carcassonne
 type: location
 ---

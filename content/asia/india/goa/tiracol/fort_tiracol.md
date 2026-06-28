@@ -15,6 +15,7 @@ story: >
   by Indian nationalists who occupied the fort and raised the Indian flag.
   Portugal's troops took it back the next day, but Goa's eventual liberation
   in 1961 traces back, in part, to the protest staged here.
+score: 8.1
 ---
 
 Fort Tiracol — officially the Fortaleza da Santíssima Trindade — sits on a low headland at the very northern tip of Goa, looking down the wide Tiracol estuary out to the Arabian Sea. It is small as Portuguese forts go: a single ring of red laterite ramparts with bastions at the corners, a parade ground, a few cells, and the white-painted St Anthony's Church sitting like a wedding cake in the middle of it all. The whole circuit can be walked in twenty minutes, but the headland views are some of the best on the Goan coast and easily justify a much longer stay.

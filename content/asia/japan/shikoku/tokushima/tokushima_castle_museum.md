@@ -7,6 +7,7 @@ tags:
 - museum
 title: Tokushima Castle Museum
 type: poi
+score: 6.8
 ---
 
 The municipal museum at the base of the castle hill traces the Hachisuka dynasty from their installation as lords of Awa Province in 1585 through the dismantling of the castle in 1873. Highlights include lacquered samurai armour, the family's writing desks, and a wooden scale model of the keep as it stood at its 18th-century peak.

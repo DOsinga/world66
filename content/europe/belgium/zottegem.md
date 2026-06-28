@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Egmontkasteel_Kasteel_van_
 latitude: 50.8642
 loc_type: city
 longitude: 3.8103
-score: 0.37
+score: 6.13
+snippet: East Flanders town at the edge of the Flemish Ardennes, tied to cycling and
+  Egmont history.
 title: Zottegem
 type: location
 ---

@@ -12,6 +12,7 @@ tags:
 - sight
 title: SubTropolis
 type: poi
+score: 5.8
 ---
 
 Beneath the bluffs on Kansas City's north side, inside old limestone mining tunnels, lies what claims to be the world's largest underground business complex. SubTropolis covers 55 million square feet of space — roughly the size of Manhattan's commercial real estate — and is home to hundreds of businesses, government agencies, and storage facilities. The USPS processes mail here, film studios store archive reels here, and a large section holds fresh mushrooms that are grown and shipped commercially.

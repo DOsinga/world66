@@ -14,6 +14,7 @@ story: >
   iconoclasts, probably in the 8th century when the Umayyad Arab conquest brought
   Islam to the region. The archaeologists spent years reassembling the pieces;
   the restored figure now occupies an entire room in the National Museum in Dushanbe.
+score: 8.8
 ---
 
 Ajina-Tepe (meaning "devil's hill" in Tajik — locals gave it the name without knowing what it was) is the site of a 7th–8th century Buddhist monastery complex, 12 kilometres east of Bokhtar. The monastery was active during a period when Buddhism was flourishing in the Sogdian and Bactrian regions of what is now Tajikistan and Uzbekistan, before the Arab conquest brought the religion to an abrupt end.

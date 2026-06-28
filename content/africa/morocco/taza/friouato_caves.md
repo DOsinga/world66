@@ -13,6 +13,7 @@ story: The full depth of the Friouato cave system has never been definitively ma
   without reaching the end of the system. The formations inside — stalactites, columns,
   and calcite curtains — were created over hundreds of thousands of years by slightly
   acidic rainwater dissolving the limestone of the Middle Atlas.
+score: 7.7
 ---
 
 The **Friouato Caves** (Gouffre de Friouato) are located about 20 kilometres south of Taza, in the limestone foothills of the Middle Atlas at the southern edge of the Djebel Tazzeka massif. They are the largest publicly accessible cave system in Morocco and one of the most impressive in Africa. The main entrance is a large sinkhole, and a staircase descends into the darkness to the main cave chamber, where an extraordinary array of stalactites, stalagmites, and calcite formations have built up over geological time.

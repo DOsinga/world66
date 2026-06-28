@@ -14,6 +14,7 @@ story: >
   cut through the rock to a castle observation tower built by Franklin D. Roosevelt when
   he was New York governor. The castle has the best views of any paved summit in the
   northeastern United States.
+score: 9.0
 ---
 
 Whiteface Mountain, 20 minutes north of Lake Placid, is the alpine ski area that hosted the 1980 Winter Olympic downhill and slalom events. It is the highest ski resort in the northeastern United States by vertical drop, with 3,430 feet from summit to base — the mountain falls steeply from its 4,867-foot peak to the village level. In winter it operates as a major ski area with a wide range of runs and the kind of serious vertical that the rest of the northeast cannot match.

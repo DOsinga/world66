@@ -1,9 +1,12 @@
 ---
-title: "Ratnagiri, Lalitgiri and Udayagiri"
-type: location
-loc_type: feature
 latitude: 20.6253
+loc_type: feature
 longitude: 86.3433
+score: 6.89
+snippet: Odisha Buddhist archaeological triangle preserving monasteries, stupas, and
+  early monastic remains.
+title: Ratnagiri, Lalitgiri and Udayagiri
+type: location
 ---
 
 Ratnagiri, Lalitgiri, and Udayagiri form a triangle of Buddhist archaeological sites in Odisha (formerly Orissa), about 60 to 70 km northeast of Cuttack. Together they represent one of the most significant concentrations of early Buddhist monasticism in eastern India, with remains dating from the 7th to 12th centuries.

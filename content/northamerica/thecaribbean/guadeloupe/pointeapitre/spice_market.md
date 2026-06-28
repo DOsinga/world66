@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 16.2382
 longitude: -61.5350
+score: 7.8
 ---
 
 Pointe-à-Pitre's spice market, often called the marché aux épices or marché Saint-Antoine, is the city's most aromatic stop. Stalls sell cinnamon, vanilla, nutmeg, colombo spice blends, medicinal herbs, punches, and tourist-ready baskets of colour, but it remains a real market rather than a stage set.

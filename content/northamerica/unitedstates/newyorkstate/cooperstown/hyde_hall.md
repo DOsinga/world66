@@ -18,6 +18,7 @@ story: >
   State history.
 sources:
   - https://en.wikipedia.org/wiki/Hyde_Hall
+score: 7.8
 ---
 
 Hyde Hall is a large Federal and Greek Revival country house on the eastern shore of Otsego Lake, within Glimmerglass State Park, constructed between 1817 and 1835 for George Clarke, a wealthy landowner of English origins. It is considered one of the most significant Federal-period domestic buildings in the United States, representing an unusually intact example of an early 19th-century American gentleman's estate.

@@ -8,6 +8,7 @@ latitude: 40.3050
 longitude: 16.2280
 story: >
   The calanchi are not natural badlands in the usual geological sense — they are partly the product of centuries of deforestation and overgrazing in a landscape where the clay soil, once exposed, erodes with extraordinary speed. What looks like a moonscape is in fact a wound in the land, slow to heal, that speaks to the poverty and land-use history of this part of the Italian south.
+score: 9.1
 ---
 
 The calanchi around Aliano are one of the strangest landscapes in southern Italy: a terrain of pale grey clay eroded into deep ravines, knife-edge ridges, and isolated pinnacles that shifts colour through the day — silver in early morning, white at noon, almost ochre in the late afternoon light. Levi described them as lunar, and the comparison is apt.

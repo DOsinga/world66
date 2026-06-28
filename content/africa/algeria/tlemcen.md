@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Grande_Mosqu%C3%A9e_de_Tle
 latitude: 34.8818
 loc_type: city
 longitude: -1.3167
-score: 0.45
+score: 6.96
+snippet: Northwestern Algerian hill city with Moorish architecture, medieval learning,
+  and Sufi shrine traditions.
 title: Tlemcen
 type: location
 ---

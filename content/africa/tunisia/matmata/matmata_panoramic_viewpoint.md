@@ -6,6 +6,7 @@ longitude: 9.9756
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A short walk or drive south from the village brings you to a ridge looking back across the lunar landscape of conical hills, pitted with the dark circular shadows of the troglodyte courtyards. This is the photograph that explains why Matmata's villages look "invisible" — they vanish into the rock.

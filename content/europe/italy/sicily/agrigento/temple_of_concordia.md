@@ -14,6 +14,7 @@ story: >
   later cleared the additions, the original Greek structure emerged almost complete beneath.
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento
+score: 9.4
 ---
 
 The Temple of Concordia is the best-preserved Greek temple in Sicily and one of the finest in the world. Built around 440 BC, it stands 34 columns intact on its high stone platform, the warm amber limestone glowing at sunset in a way that makes photographs feel redundant — you simply have to be there. The "Concordia" name is a medieval attribution; the original dedication is unknown, though it may have been to the Dioscuri (Castor and Pollux).

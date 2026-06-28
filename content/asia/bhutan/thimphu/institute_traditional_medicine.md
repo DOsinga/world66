@@ -13,6 +13,7 @@ tags:
 - museum
 title: Institute of Traditional Medicine Services
 type: poi
+score: 7.4
 ---
 
 The national centre for traditional Bhutanese medicine, located on a hilltop above the Folk Heritage Museum in the Kawajangsa area. The institute functions as a working hospital — outpatient services run daily — as well as a training centre for traditional medicine practitioners. There is a small exhibition space explaining the principles of Sowa Rigpa medicine and showing some of the herbal preparations used in treatment. The hilltop location offers good views, and the gardens contain medicinal plants used in the pharmacy.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 25.2926
 longitude: 51.5345
+score: 5.8
 ---
 
 Café Bateel is a Saudi-born chain that has become one of the more civilised café options in the Gulf — it started as a date producer (the best dates in Saudi Arabia are Bateel's) and expanded into a café and restaurant format. The Doha locations, particularly the Souq Waqif branch, serve good coffee, fresh date pastries, and light meals.

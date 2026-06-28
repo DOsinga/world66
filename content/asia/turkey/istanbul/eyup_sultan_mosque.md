@@ -13,6 +13,7 @@ story: >
   (or, according to tradition, revealed in a dream to Mehmed the Conqueror's adviser) after the
   Ottoman conquest in 1453. Ottoman sultans were girded with the sword of Osman here at
   coronation — a ceremony that served the same legitimising function as European coronations.
+score: 7.9
 ---
 
 Eyüp Sultan Mosque, at the head of the Golden Horn, is one of the holiest Islamic sites in Istanbul and draws pilgrims from across Turkey and the Muslim world. The mosque itself was built in 1458, five years after the Ottoman conquest, and has been rebuilt and expanded multiple times since. The tomb of Eyüp el-Ensari, the Prophet's companion, stands in the courtyard and is a constant site of prayer.

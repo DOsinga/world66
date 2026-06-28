@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Scuba Diving
 type: poi
+score: 6.8
 ---
 
 Several dive shops on Koh Chang run daily trips to sites around the archipelago. The best diving is around the outer islands — Koh Rang and Koh Wai have good coral and visibility, especially from November to May. Two-dive day trips typically include gear, lunch, and boat transport.

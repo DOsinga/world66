@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mrljane.JPG
 latitude: 43.966521
 loc_type: city
 longitude: 15.356302
-score: 0.46
+score: 7.25
+snippet: Small Pašman fishing village with clear channel waters, sandy beaches, and
+  a navigator tradition.
 title: Mrljane
 type: location
 ---

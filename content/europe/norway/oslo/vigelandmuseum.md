@@ -1,8 +1,12 @@
 ---
 address: Nobelsgate 32
+latitude: 59.9237
+longitude: 10.7008
 phone: +47 22 -  54 25 30
+score: 6.1
 tags:
 - things_to_do
+- museum
 title: Vigeland Museum
 type: poi
 url: www.vigeland.museum.no

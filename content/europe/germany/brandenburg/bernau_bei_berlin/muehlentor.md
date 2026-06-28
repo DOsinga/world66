@@ -4,6 +4,7 @@ tags: [things_to_do, sight, historic_site]
 latitude: 52.6800
 longitude: 13.5858
 type: poi
+score: 5.9
 ---
 
 The Mühlentor — the Mill Gate — stands at the northern edge of the old town and takes its name from the millstream that once ran close by. Of the three surviving gates it is the most asymmetrical: a broad base with a single round tower attached to one side, giving it a somewhat lopsided but characterful silhouette. Like the others it is built of the dark red brick typical of Brandenburg Gothic.

@@ -14,6 +14,7 @@ story: >
   found in the forest in 1700. The event has been recognized by UNESCO as Intangible Cultural
   Heritage of Humanity. The basilica itself — modeled on St. Peter's in Rome and completed in 1909
   — is stunning inside, its Italian stained-glass windows casting colored light across a grand nave.
+score: 7.9
 ---
 
 The basilica anchors the Nazaré neighborhood, a quieter and leafier part of the city away from the waterfront bustle. Even outside of October, the interior is worth visiting: the mosaics, gilded altars, and the devotional objects left by pilgrims over centuries fill the space.

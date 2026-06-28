@@ -13,6 +13,7 @@ story: >
   one-word despatch: "Peccavi" — Latin for "I have sinned", a pun on "I have
   Sindh." The story is almost certainly apocryphal, but it has attached itself
   to this city permanently.
+score: 7.2
 ---
 
 The main fort of Hyderabad, known as Pakka Qila ("solid fort"), sits on a rocky eminence above the old city and overlooks the flat plains of Sindh. Built in 1768 by the Kalhora ruler Ghulam Shah Kalhora, the fort was subsequently used by the Talpur Mirs who replaced them, and later by the British after their conquest of Sindh in 1843.

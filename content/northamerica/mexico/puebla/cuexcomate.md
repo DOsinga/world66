@@ -8,6 +8,7 @@ tags:
 latitude: 19.0021
 longitude: -98.2246
 snippet: "A 13-metre dormant volcanic cone you can climb down into — said to be the world's smallest volcano"
+score: 5.9
 ---
 
 A small but genuine volcanic cone standing 13 metres high in a residential neighbourhood south of the historic centre. Cuexcomate is often billed as the world's smallest active volcano — though dormant since the 19th century, when the nearby Popocatépetl eruption sent a mudslide that formed the cone. A metal staircase spirals down into the hollow interior, which is about 23 metres deep.

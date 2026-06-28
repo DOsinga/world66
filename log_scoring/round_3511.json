@@ -1,0 +1,200 @@
+{
+  "round": 3511,
+  "timestamp": "2026-06-13T22:59:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 5.9907,
+      "prior_variance": 0.13766,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 3.1498,
+      "prior_variance": 0.14424,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 3.6903,
+      "prior_variance": 0.136812,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 0.6434,
+      "prior_variance": 0.140952,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.5048,
+      "prior_variance": 0.114542,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -1.0138,
+      "prior_variance": 0.121754,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 1.2552,
+      "prior_variance": 0.111208,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -0.2363,
+      "prior_variance": 0.131305,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": 0.0381,
+      "prior_variance": 0.106713,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.0394,
+      "prior_variance": 0.115185,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": -0.3546,
+      "prior_variance": 0.125369,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.1452,
+      "prior_variance": 0.130617,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 0.8875,
+      "prior_variance": 0.107581,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -1.0982,
+      "prior_variance": 0.137901,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": -0.2575,
+      "prior_variance": 0.117353,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_score": 0.3451,
+      "prior_variance": 0.1311,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.1985,
+      "prior_variance": 0.123626,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": 0.5355,
+      "prior_variance": 0.118678,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.5913,
+      "prior_variance": 0.127451,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -0.6443,
+      "prior_variance": 0.120653,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -5.748,
+      "prior_variance": 0.142833,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -5.9447,
+      "prior_variance": 0.157927,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -3.7331,
+      "prior_variance": 0.147192,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -5.1368,
+      "prior_variance": 0.130131,
+      "prior_n": 11
+    }
+  ]
+}

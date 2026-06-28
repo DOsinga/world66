@@ -3,10 +3,12 @@ address: Via Santa Passera 7, 00149 Rome (Marconi)
 latitude: 41.869234
 longitude: 12.462112
 opening_hours: Tue–Sun 6pm–2am; closed Mon
+score: 7.5
 snippet: Rome's best cocktail bar, in an unlikely location south of Trastevere
 tags:
 - bars_and_cafes
 - bar
+- testaccio
 title: Pimm's Good
 type: poi
 ---

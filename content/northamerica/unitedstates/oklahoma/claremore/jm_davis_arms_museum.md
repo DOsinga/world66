@@ -7,6 +7,7 @@ tags:
 latitude: 36.3153
 longitude: -95.6150
 story: "J. M. Davis was an Oologah-born businessman and politician who spent decades accumulating what became one of the largest private firearms collections in the United States. He reportedly told his wife, when she objected to the ever-expanding collection filling their home, that he would build a museum — so he did, in 1969. The collection passed to the state of Oklahoma after his death and is now one of the stranger state-run museums in America."
+score: 8.1
 ---
 
 The J. M. Davis Arms and Historical Museum holds over 12,000 firearms and approximately 20,000 related artefacts — swords, edged weapons, World War I and II posters, outlaw and lawman memorabilia, steins, and Native American items. It bills itself as the largest privately assembled collection in the world, and that may well be accurate.

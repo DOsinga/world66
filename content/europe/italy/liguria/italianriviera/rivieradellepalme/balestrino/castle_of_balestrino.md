@@ -10,6 +10,7 @@ longitude: 8.1715
 story: "The del Carretto family, one of the most powerful feudal dynasties of medieval Liguria, controlled Balestrino for centuries and rebuilt the castle in its current form in the 17th century. Their coat of arms appears throughout the village — on the pulpit of the main church, on the altars moved to safety after the evacuation, and above the castle gate. The family's long grip on the territory is visible in every carved stone."
 sources:
   - https://en.wikipedia.org/wiki/Balestrino
+score: 7.1
 ---
 
 The castle of Balestrino stands on the highest point of the inhabited upper village, a solidly built 17th-century fortified palace that replaced earlier medieval structures on the same site. It was the seat of the del Carretto marquises, who held the territory for generations, and the current building reflects their wealth and ambition — thick walls, round towers, and a commanding position over the surrounding olive groves and valleys.

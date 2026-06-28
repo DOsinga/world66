@@ -8,6 +8,7 @@ longitude: -75.69536
 story: The original 1875 building was rebuilt twice after earthquakes. Inside, the
   vaulted ceiling of laminated wood is one of the largest of its kind in Colombia
   and a quiet feat of engineering.
+score: 6.1
 ---
 
 The cathedral church of Pereira, on the western side of Plaza de Bolivar. The current building dates from the 1950s rebuild after the 1949 earthquake destroyed much of the previous structure. From the square it looks unassuming, but the interior is worth a look — the high vaulted ceiling is made entirely of laminated wood, an unusual choice in a country where most cathedral interiors are stone and plaster.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 36.9257
 longitude: 14.7448
+score: 7.9
 ---
 
 San Giuseppe is a Baroque church on Piazza Pola in Ragusa Ibla, also designed by Rosario Gagliardi in the 18th century. Its facade is notably theatrical, with convex and concave curves that make it one of the more distinctive examples of Sicilian Baroque in the town.

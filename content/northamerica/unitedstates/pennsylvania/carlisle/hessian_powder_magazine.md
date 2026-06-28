@@ -11,6 +11,7 @@ story: >
   The building held Hessian soldiers captured during the Revolutionary War — German mercenaries hired by the British who surrendered to American forces at the battles of Trenton and Princeton. Some of those prisoners later chose to stay in Pennsylvania rather than return to Germany, and their descendants are part of the local fabric today.
 sources:
   - https://en.wikipedia.org/wiki/Hessian_Powder_Magazine
+score: 6.8
 ---
 
 The Hessian Powder Magazine is one of the oldest surviving structures on the Carlisle Barracks campus — a squat stone building dating to the 1770s that served both as a guardhouse for Hessian prisoners of war and as a storage magazine for gunpowder. It is the oldest military building in the United States that is still standing.

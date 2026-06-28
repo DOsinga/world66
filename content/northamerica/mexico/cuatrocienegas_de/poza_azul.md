@@ -16,6 +16,7 @@ story: >
   unchanged from 3.5-billion-year-old fossil examples, making them one of the closest 
   living analogues to early life on earth. NASA has studied the Cuatrocienegas ecosystem 
   as a model for what life on other planets might look like.
+score: 8.2
 ---
 
 The Poza Azul is the most accessible and most famous of the hundreds of spring-fed pools that dot the Cuatrocienegas valley. The name is straightforward — the water is a startling blue-green, perfectly clear, and fed by underground springs that maintain a constant temperature year-round. The pool sits in the middle of the Chihuahuan Desert with no obvious source, which adds to the sense of unreality.

@@ -9,6 +9,7 @@ latitude: 40.6393
 longitude: 17.9442
 sources:
   - https://en.wikipedia.org/wiki/Brindisi
+score: 7.3
 ---
 
 The Church of San Benedetto, built by the Benedictine monks in the late eleventh century, is one of the most complete examples of Puglian Romanesque architecture in Brindisi. The façade is relatively restrained by the standards of the region — Lecce's baroque exuberance is entirely absent here — but the doorway has fine carved capitals and a carved architrave depicting animals and foliage that rewards close attention.

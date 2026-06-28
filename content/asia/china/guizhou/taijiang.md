@@ -4,6 +4,9 @@ done:
 latitude: 26.669
 loc_type: city
 longitude: 108.3201
+score: 6.62
+snippet: Guizhou county in the Qingshui River valley, noted for Miao villages and
+  the Sister Festival.
 sources:
 - https://en.wikivoyage.org/wiki/Taijiang
 title: Taijiang

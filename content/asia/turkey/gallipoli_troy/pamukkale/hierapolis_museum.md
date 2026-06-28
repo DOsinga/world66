@@ -7,6 +7,7 @@ tags:
 - museum
 title: Hierapolis Archaeology Museum
 type: poi
+score: 7.3
 ---
 
 The Hierapolis Archaeology Museum occupies a section of the restored 2nd-century AD thermal baths inside the site. The vaulted brick chambers — caldarium, frigidarium, the gymnasium — make a striking exhibition space in their own right.

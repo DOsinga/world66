@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -9.2500
 longitude: 34.7500
+score: 7.0
 ---
 
 North and west of Njombe town the plateau rolls out in vivid green tea bushes and the silvery-leaved **black wattle** (*Acacia mearnsii*) plantations introduced by the Germans for tannin extraction. The combination is unique to this corner of Tanzania and gives the highlands their distinctive open-but-managed look.

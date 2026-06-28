@@ -6,6 +6,7 @@ longitude: 40.9024
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The two-kilometre seafront promenade from the southern jetty up to the donkey sanctuary is the social spine of Lamu. It runs in front of the old town, lined with low coral-stone buildings, café terraces, and the harbour wall, with dozens of dhows pulled up on the mudflats at low tide.

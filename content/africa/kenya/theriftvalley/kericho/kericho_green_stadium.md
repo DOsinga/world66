@@ -7,6 +7,7 @@ tags:
 - landmark
 latitude: -0.3690
 longitude: 35.2870
+score: 5.6
 ---
 
 The Green Stadium, opened after a major rebuild in the 2010s, is one of the more impressive sporting venues in this part of the Rift. It seats around ten thousand and is the home ground of Kericho's local football side. On match days the town turns out and the atmosphere is friendly enough that visitors are usually waved in without ceremony.

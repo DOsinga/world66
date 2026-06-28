@@ -1,12 +1,14 @@
 ---
-title: El Paraigua
-type: poi
 address: Pas de l'Ensenyanca 2
-latitude: 41.3820
+latitude: 41.382
 longitude: 2.1767
+score: 6.5
 snippet: Ornate 19th-century cocktail bar in the Gothic Quarter
 tags:
 - bars_and_cafes
+- gothic_quarter
+title: El Paraigua
+type: poi
 ---
 
 Tucked into a tiny passage off Plaça Sant Jaume, El Paraigua ("The Umbrella") occupies a space built in 1902 as a luxury umbrella shop. The original carved wooden facade and stained glass survived, making this one of the most beautiful small bars in Barcelona's Gothic Quarter.

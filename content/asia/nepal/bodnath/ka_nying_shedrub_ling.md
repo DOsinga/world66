@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.724
 longitude: 85.3627
+score: 8.0
 ---
 
 Ka-Nying Shedrub Ling, also known as the White Monastery, is one of the most active Tibetan Buddhist monasteries ringing the Boudha Stupa. It belongs to the Nyingma school and houses several hundred monks and nuns. The main shrine hall contains an impressive collection of statues and thangka paintings, and the monastery hosts regular pujas (ritual prayers) that visitors may observe.

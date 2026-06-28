@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
+image: newplymouth.jpg
+image_attribution: Andrew and Annemarie
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Across_New_Plymouth_to_Mt._Taranaki.jpg
 latitude: -39.058
 loc_type: city
 longitude: 174.0806
-score: 0.51
+score: 7.45
+snippet: North Island coastal city beneath Mount Taranaki, with strong art galleries
+  and volcano trails.
 title: New Plymouth
 type: location
-image: newplymouth.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Across_New_Plymouth_to_Mt._Taranaki.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Andrew and Annemarie
 ---
 
 New Plymouth sits on the west coast of New Zealand's North Island, in the shadow of [Mount Taranaki](/australiaandpacific/newzealand/north_island/whanganui_region/newplymouth/mount_taranaki) — a symmetrical volcanic cone that dominates the skyline from almost everywhere in the city. The mountain is the main reason to come: its national park offers everything from short bush walks to a serious multi-day circuit, the Pouakai Crossing, and in winter there is skiing on its slopes.

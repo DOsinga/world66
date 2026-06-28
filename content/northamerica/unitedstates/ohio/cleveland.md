@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2024_Solar_Eclipse_over_Cl
 latitude: 41.499657
 loc_type: city
 longitude: -81.693677
-score: 0.42
+score: 6.72
+snippet: Lake Erie city of music museums, serious cultural institutions, and neighborhood
+  food scenes from Ohio City to Little Italy.
 title: Cleveland
 type: location
 ---

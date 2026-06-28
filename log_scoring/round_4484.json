@@ -1,0 +1,200 @@
+{
+  "round": 4484,
+  "timestamp": "2026-06-14T00:16:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 8.7272,
+      "prior_variance": 0.175137,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 10.8943,
+      "prior_variance": 0.269517,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 7.8615,
+      "prior_variance": 0.132925,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 8.0025,
+      "prior_variance": 0.161148,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.8511,
+      "prior_variance": 0.098527,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.9327,
+      "prior_variance": 0.118628,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 4.8535,
+      "prior_variance": 0.120097,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 0.822,
+      "prior_variance": 0.097593,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.4691,
+      "prior_variance": 0.098154,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -0.8023,
+      "prior_variance": 0.108276,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.0614,
+      "prior_variance": 0.093685,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.6444,
+      "prior_variance": 0.097529,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 0.1866,
+      "prior_variance": 0.098299,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -2.8374,
+      "prior_variance": 0.172885,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.1493,
+      "prior_variance": 0.088793,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": -0.8193,
+      "prior_variance": 0.086398,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -1.7171,
+      "prior_variance": 0.08235,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -3.2047,
+      "prior_variance": 0.100326,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -1.5431,
+      "prior_variance": 0.100747,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -1.8265,
+      "prior_variance": 0.096397,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -3.829,
+      "prior_variance": 0.09504,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -2.7813,
+      "prior_variance": 0.093525,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Kunshan",
+      "path": "asia/china/jiangsu_province/kunshan",
+      "prior_score": -4.3733,
+      "prior_variance": 0.095953,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -5.6772,
+      "prior_variance": 0.125661,
+      "prior_n": 14
+    }
+  ]
+}

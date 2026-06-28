@@ -9,6 +9,7 @@ tags:
 - hiking
 title: Jbel Saghro
 type: poi
+score: 8.2
 ---
 
 The Jbel Saghro is the eroded volcanic massif rising south of Boumalne — a wild, almost lunar landscape of black basalt towers, dry valleys, and scattered Berber settlements. Less trekked than the High Atlas to the north, it is favoured by walkers who want to escape the crowded Toubkal trails and see a Morocco that has changed very little.

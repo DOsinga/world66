@@ -12,6 +12,7 @@ story: >
   later, children's books. The Land of Oz section here, with its yellow
   brick road and Emerald City, was added in 1995 — a hometown nod to a
   resident the town now treats as its most famous son.
+score: 7.4
 ---
 
 A free outdoor park inside Wylie Park dedicated to nursery rhymes and fairy tales, Storybook Land is the kind of place that delights five-year-olds and quietly charms their parents too. Walk-through sets depict the houses of the Three Bears, Humpty Dumpty's wall, the Old Woman in the Shoe, and dozens of other tableaux scattered across landscaped grounds.

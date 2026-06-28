@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -26.8332
 longitude: -65.2061
+score: 6.3
 ---
 
 A traditional Tucumán restaurant a few blocks south of the centre, specialising in regional dishes — empanadas, locro, humita, tamales, and grilled meats from the Andean north. The dining room is plain and welcoming, with red tablecloths and folk music in the background some evenings.

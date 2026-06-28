@@ -9,6 +9,7 @@ tags:
   - museum
 title: Museum of Costa Rican Art
 type: poi
+score: 7.6
 ---
 
 The Museum of Costa Rican Art (Museo de Arte Costarricense) occupies the elegant former terminal building of La Sabana airport, right at the park's eastern entrance. The permanent collection covers two centuries of Costa Rican painting, sculpture, and printmaking. The landscape tradition is particularly strong — artists from the mid-20th century documented the Central Valley, the volcanoes, and the coasts in a way that now reads as both art history and documentary record.

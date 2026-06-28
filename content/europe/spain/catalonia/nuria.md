@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuria13.jpg
 latitude: 42.3977
 loc_type: feature
 longitude: 2.1547
-score: 0.58
+score: 8.44
+snippet: High Pyrenean sanctuary valley reached by rack railway, with pilgrimage traditions
+  and mountain walking.
 sources:
-  - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria
-  - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria_Rack_Railway
-  - https://en.wikipedia.org/wiki/Virgin_of_Nuria
+- https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria
+- https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria_Rack_Railway
+- https://en.wikipedia.org/wiki/Virgin_of_Nuria
 title: Vall de Núria
 type: location
 ---

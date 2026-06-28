@@ -11,6 +11,7 @@ story: >
   Edmund Kennedy's 1848 expedition to Cape York ended in disaster. Of the twelve men who left Cardwell on foot, only three survived. Kennedy himself was speared by Aboriginal warriors near the tip of Cape York, just days from his destination. His companion Jackey Jackey, a Gamilaroi man, carried the dying Kennedy and attempted to reach the rescue ship — a story of loyalty and endurance that is one of the most dramatic in Australian exploration history.
 sources:
   - https://en.wikipedia.org/wiki/Edmund_Kennedy_expedition
+score: 5.6
 ---
 
 Edmund Kennedy National Park covers mangroves, melaleuca swamp, and coastal heath on the southern outskirts of Cardwell, protecting a remnant of the coastal vegetation that once bordered much of this section of north Queensland. The park is named for explorer Edmund Kennedy, who launched his ill-fated 1848 Cape York expedition from near this location.

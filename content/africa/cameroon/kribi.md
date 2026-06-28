@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kribi.jpg
 latitude: 2.94341
 loc_type: city
 longitude: 9.912699
-score: 0.48
+score: 6.99
+snippet: Cameroonian beach town where palm-fringed Gulf of Guinea sand meets the Lobé
+  Falls.
 title: Kribi
 type: location
 ---

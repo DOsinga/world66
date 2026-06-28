@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Stari Grad (Old Fortress Town)
 type: poi
+score: 8.4
 ---
 
 The original six-pointed star fortress laid out in 1579 is the heart of Karlovac. The bastions and moats have been converted into green promenades — the Zvijezda (Star) park wraps around the old core and is ideal for a morning walk. The grid of streets inside is regular and quiet, lined with baroque townhouses in various states of upkeep. It is a working neighbourhood, not a museum piece, and is more charming for it.

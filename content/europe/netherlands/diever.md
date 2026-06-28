@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Diever_Feb_2020_-_16.jpg
 latitude: 52.854658
 loc_type: city
 longitude: 6.318266
-score: 0.41
+score: 6.5
+snippet: Drenthe village by the Drents-Friese Wold, with a medieval church, windmill,
+  and prehistoric hunebed.
 sources:
 - https://en.wikipedia.org/wiki/Diever
 title: Diever

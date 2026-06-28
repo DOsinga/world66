@@ -10,6 +10,7 @@ tags:
   - wildlife
 story: >
   The Yucatán flamingos are the brightest pink flamingos in the world, with a tone the field guides describe as "vermilion." The colour comes entirely from the brine shrimp and blue-green algae they filter out of the salt lagoons here — captive birds fed standard pellets fade within months to pale ghosts of themselves.
+score: 8.1
 ---
 
 Behind El Cuyo the land disappears into a network of shallow lagoons, part of the Ría Lagartos Biosphere Reserve. Flamingos feed here in flocks of hundreds, particularly between April and October when the lagoon waters are at their saltiest, and you can also expect roseate spoonbills, frigatebirds, egrets, herons and, with luck, ospreys hunting overhead.

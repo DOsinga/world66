@@ -7,6 +7,7 @@ tags:
 latitude: 14.6443
 longitude: 121.0600
 snippet: QC's independent food and cafe strip in Teachers Village
+score: 6.4
 ---
 
 Maginhawa Street in the Teachers Village neighbourhood is the best place in Quezon City to eat well and cheaply. The street and its side alleys are lined with independent restaurants, themed cafes, craft beer spots, and dessert places, most of them small and owner-operated. The price point is low — this is student and young professional territory, not tourist territory.

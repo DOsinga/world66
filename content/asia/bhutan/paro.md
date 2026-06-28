@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-10'
 latitude: 27.464637
 loc_type: city
+snippet: Bhutanese valley town and main air gateway, rich in dzongs, temples, rice
+  paddies, and Himalayan views.
 longitude: 89.318341
-score: 0.71
+score: 9.11
 title: Paro
 type: location
 image: paro.jpg

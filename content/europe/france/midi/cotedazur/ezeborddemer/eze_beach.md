@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.7217
 longitude: 7.3563
+score: 5.8
 ---
 
 The beach at Eze-bord-de-mer is a classic Riviera pebble shore — not the wide sandy beaches of the Var, but clean, quiet, and well-positioned between Nice and Monaco. The water is clear and the setting backed by the limestone cliffs of the Corniche is dramatic. There are a couple of beach restaurants and loungers for hire in summer, but out of season you'll often have the shore to yourself.

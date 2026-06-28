@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.5
 ---
 
 Taki Falls drops 25 metres into a jungle pool in Ngardmau state, on the western side of the island. The walk in takes about 30 minutes through dense rainforest along the bed of an old Japanese phosphate mine railway, with the rusted remains of locomotives slowly being swallowed by vines.

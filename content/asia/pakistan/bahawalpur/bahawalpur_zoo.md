@@ -9,6 +9,7 @@ longitude: 71.6816
 snippet: "One of Pakistan's oldest zoos, established 1942, with extensive grounds"
 sources:
   - https://en.wikipedia.org/wiki/Bahawalpur_Zoo
+score: 4.8
 ---
 
 Bahawalpur Zoo, established in 1942 during the princely state era, is one of the oldest zoos in Pakistan. The grounds cover 25 acres in the city centre and hold a range of animals including Bengal tigers, lions, leopards, various deer species, and waterfowl. The zoo also maintains a small botanical garden section.

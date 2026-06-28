@@ -9,6 +9,7 @@ latitude: 54.998
 longitude: -7.3163
 story: >
   The bridge replaced a ferry service that had operated across the Foyle for generations. On the night it opened in 2011, thousands of Derry residents walked across it — some for the first time connecting two parts of their own city that had felt unreachable across the old divided geography of the Troubles.
+score: 7.3
 ---
 
 The Peace Bridge is a curving footbridge and cycleway across the River Foyle, opened in 2011, connecting the old walled city on the west bank to the Ebrington Square development on the east bank. Designed by the Wilkinson Eyre architecture firm, it spans the river in a graceful asymmetric arc that has won multiple architectural awards.

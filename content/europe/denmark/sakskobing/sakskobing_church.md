@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.4
 ---
 
 A whitewashed Gothic parish church at the top of Vestergade, with a stepped gable tower and a small graveyard. The current building dates from the late thirteenth century, though much of what you see is a heavy nineteenth-century restoration. Inside, the carved altarpiece from around 1620 is the main attraction — a Renaissance work attributed to the workshop of Hans Gudewerth.

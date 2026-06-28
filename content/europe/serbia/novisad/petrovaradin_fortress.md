@@ -8,6 +8,7 @@ tags:
 latitude: 45.2525
 longitude: 19.8625
 story: "The Habsburgs called Petrovaradin the Gibraltar of the Danube. In 1716, when an Ottoman army nearly twice its size besieged the fortress, the defending commander Prince Eugene of Savoy crushed them in a single day's battle outside the walls — a defeat the Ottomans never recovered from in the region. The clock on the famous tower runs backwards: the small hand shows hours, the large hand minutes, so river boatmen could read the time from a distance."
+score: 9.1
 ---
 
 Petrovaradin Fortress dominates the right bank of the Danube, an enormous star-shaped bastion that the Habsburgs spent the best part of a century building. Designed by French military engineers to repel the Ottomans, it never fell to an attacker after its main construction was complete in 1780. Today it is a quiet sprawl of ramparts, courtyards, and tunnels — the centrepiece is the iconic clock tower with its reversed hands, visible from across the river.

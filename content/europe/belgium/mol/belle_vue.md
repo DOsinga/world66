@@ -8,6 +8,7 @@ latitude: 51.1840
 longitude: 5.1160
 address: "Corbiestraat 22"
 phone: "+32 (0)14 322662"
+score: 4.9
 ---
 
 Belle Vue is a large, traditional Belgian brasserie on Corbiestraat — the kind of place that has been feeding the town for years without trying to be fashionable. The menu runs to the classics: steaks, mussels in season, stews, and the reliable Belgian-French combinations that most people in this part of the country grew up eating.

@@ -6,6 +6,7 @@ longitude: 141.4626
 tags:
   - things_to_do
   - architecture
+score: 5.7
 ---
 
 A long red-brick warehouse built around 1900 for the Seppelt wine company, which supplied the outback pubs and the miners' clubs from this depot. The building is a good example of the utilitarian commercial architecture of the boom years — simple but well made, with iron-shuttered loading bays opening directly onto the street.

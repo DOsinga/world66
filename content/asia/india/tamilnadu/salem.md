@@ -5,13 +5,15 @@ done:
 latitude: 11.646962
 loc_type: city
 longitude: 78.210696
-score: 0.35
+score: 5.95
 title: Salem
 type: location
 image: salem.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salem,_Tamil_Nadu,_India_-_panoramio_(3).jpg
 image_license: CC BY-SA 3.0
 image_attribution: RAJUKHAN SR RAJESH
+snippet: Industrial Tamil Nadu city ringed by hills, chiefly a gateway to Yercaud
+  and the Shevaroy slopes.
 ---
 
 Salem is a large industrial city in north-central Tamil Nadu, surrounded on three sides by hills. It's a significant steel production centre and a busy transport hub, but most travellers pass through it rather than stopping here.

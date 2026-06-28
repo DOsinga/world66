@@ -11,6 +11,7 @@ story: >
   many seasons — the empty white-sand bays and dense interior jungle were
   ideal for the format. The crew built and dismantled a tribal village on the
   northern beaches every year.
+score: 6.6
 ---
 
 Koh Rong is the largest island off Sihanoukville and one of the most beautiful in southeast Asia. About 45 minutes by speedboat from Serendipity Pier, it has a long arc of white sand at the main village (Koh Touch), plus a string of quieter beaches reached by jungle trails or longtail boat.

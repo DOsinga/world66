@@ -9,6 +9,7 @@ latitude: 12.8717
 longitude: 74.8425
 address: Hampankatta, Mangaluru, Karnataka
 snippet: Classic Mangalorean seafood restaurant in the city centre
+score: 6.1
 ---
 
 One of the established names for Mangalorean seafood cooking in the city centre, Gajalee is the place to go for the full local seafood experience without the hunt for a roadside shack. The menu covers the classics — Mangalorean fish curry with boiled rice, prawn ghee roast, kane (ladyfish) fried with a thick spice coating, and fish gassi (the definitive coconut-tamarind curry). The cooking is consistent and the seafood is fresh.

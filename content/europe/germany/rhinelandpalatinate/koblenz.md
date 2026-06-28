@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:FGS_Marksburg_in_Koblenz_(
 latitude: 50.353328
 loc_type: city
 longitude: 7.594395
-score: 0.57
+score: 8.52
+snippet: Rhine city at the Deutsches Eck, where the Moselle meets the Rhine below
+  Ehrenbreitstein Fortress.
 title: Koblenz
 type: location
 ---

@@ -14,6 +14,7 @@ story: >-
 tags:
   - eating_out
   - restaurant
+score: 6.9
 ---
 
 Slyman's is a working-class diner on St. Clair Avenue, opened in 1964 by Lebanese immigrants and never expanded beyond the original counter and dining room. The menu has plenty of other options — eggs, pancakes, sandwiches — but the corned beef is what people come for. The brisket is brined for ten days and hand-sliced to order; a single sandwich easily feeds two unless you have a very serious appetite.

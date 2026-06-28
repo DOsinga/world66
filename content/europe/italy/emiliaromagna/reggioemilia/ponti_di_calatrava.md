@@ -11,6 +11,7 @@ story: >
   Santiago Calatrava designed three bridges for Reggio Emilia as part of the high-speed rail infrastructure project — the Calatrava works here were funded by Renzo Piano's project for the new Mediopadana station. The bridges are not near the historic centre but are a twenty-minute bus ride north, near the motorway. They were inaugurated in 2007 and immediately divided local opinion between those who considered them a gift and those who thought them expensive white elephants.
 sources:
   - https://en.wikipedia.org/wiki/Calatrava_bridges_in_Reggio_Emilia
+score: 6.8
 ---
 
 The Ponti di Calatrava are three spectacular white bridges designed by Spanish architect Santiago Calatrava for the new infrastructure corridor north of Reggio Emilia city centre. Built in connection with the Mediopadana high-speed rail station designed by Renzo Piano, they span the A1 motorway and adjacent roads with characteristic Calatrava elegance — swooping white arches and cables creating a gateway effect visible for miles across the flat Po Valley.

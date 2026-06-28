@@ -11,6 +11,7 @@ story: >
   Talleyrand bought Valençay in 1803 under direct pressure from Napoleon, who insisted his foreign minister needed an estate grand enough to impress visiting dignitaries. The price was steep, but Talleyrand — who outlived Napoleon, the Bourbons, and the July Monarchy — managed to die owning the place in 1838, outlasting nearly every political cause he had ever served.
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Valen%C3%A7ay
+score: 8.8
 ---
 
 The Château de Valençay is one of the largest and most impressive châteaux in the Loire Valley, yet it consistently draws far fewer visitors than Chambord or Chenonceau. That relative obscurity is a gift: you can wander the formal gardens, explore the deer park, and stroll through the furnished rooms without the crowds that make the famous châteaux feel like theme parks.

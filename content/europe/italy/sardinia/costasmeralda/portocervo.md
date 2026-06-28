@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_Cervo1.jpg
 latitude: 41.1319
 loc_type: city
 longitude: 9.5354
-score: 0.66
+score: 8.76
+snippet: Costa Smeralda marina town built around Sardinia's yacht culture and Aga
+  Khan-era resort architecture
 title: Porto Cervo
 type: location
 ---

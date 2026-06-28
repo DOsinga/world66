@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "The 725-metre inselberg that looms over the road from Abuja to Kaduna"
 story: "The Gbagyi people, the rock's traditional custodians, long used it as a defensive retreat during inter-tribal raids and the slave-trading era — they would hide on its upper slopes and roll boulders down on attackers. The natural human face visible on the southern flank is read locally as the rock's guardian spirit."
+score: 9.4
 ---
 
 Zuma Rock is a single piece of igneous rock — gabbro and granodiorite, pushed up from below the surrounding plain in the Precambrian — that rises 725 metres almost vertically out of the savannah. It is roughly oval in plan, around three kilometres in circumference at the base, and visible for tens of kilometres in every direction. Drivers heading north on the Abuja–Kaduna expressway round a bend and the whole thing looms above the trees with no warning.

@@ -8,6 +8,7 @@ tags:
 address: 27-29 Tattersalls Lane
 latitude: -37.8109
 longitude: 144.9666
+score: 7.5
 ---
 
 Section 8 is a container bar in a laneway off Lonsdale Street, built from stacked shipping containers around a central outdoor courtyard. It opened in 2010 and has become a reference point for Melbourne's outdoor bar culture — one of the best examples of the city's ability to turn forgotten urban spaces into gathering places. The crowd is young and the music is good, generally leaning toward electronic and hip-hop.

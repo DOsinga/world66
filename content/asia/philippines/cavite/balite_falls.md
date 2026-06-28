@@ -12,6 +12,7 @@ story: >
   surrounding area produces some of the Philippines' better highland coffee —
   Alfonso's strawberry farms and organic coffee plots have made it a small agri-
   tourism destination in its own right.
+score: 5.5
 ---
 
 Balite Falls is a tiered waterfall set in the forested hills of Alfonso municipality in the southern interior of Cavite province. The falls themselves are modest by Philippine standards — a drop of perhaps eight to ten metres into a pool — but the setting is pleasant and the cooler highland air makes the hike in agreeable compared to the coastal lowlands.

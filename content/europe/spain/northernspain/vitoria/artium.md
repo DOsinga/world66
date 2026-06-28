@@ -1,5 +1,9 @@
 ---
-snippet: The Basque Museum of Contemporary Art, with strong collections of Spanish and Basque artists
+latitude: 42.8501
+longitude: -2.6698
+score: 8.1
+snippet: The Basque Museum of Contemporary Art, with strong collections of Spanish
+  and Basque artists
 tags:
 - things_to_do
 - museum

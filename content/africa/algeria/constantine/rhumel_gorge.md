@@ -12,6 +12,7 @@ story: >
   the gorge was also the city's main defence — attackers had to take the bridges, which
   could be held by a small force.
 snippet: The defining feature of Constantine — a 100-metre-deep canyon carved through the city's rock plateau
+score: 9.5
 ---
 
 The Rhumel Gorge is the reason Constantine is Constantine. A river has cut through the limestone plateau over millions of years, leaving the city perched on a great rock island with near-vertical walls dropping 100 metres or more to the river below. Seven bridges and viaducts span the gorge at various points; the cliff faces are studded with cave openings that were used as dwellings into the 20th century. The gorge is polluted — rubbish and wastewater accumulate in the narrow canyon — but the scale and drama of the setting override the grim details.

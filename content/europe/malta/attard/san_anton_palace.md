@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "San Anton was built in 1623 as a summer retreat for Grand Master Antoine de Paule of the Knights of St John, who hosted famously lavish parties there. When the British took Malta in 1800, the palace became the residence of the colonial governor; today it serves the President of the Republic in the same role."
+score: 6.8
 ---
 
 San Anton Palace is the official residence of the President of Malta and one of the finest 17th-century buildings on the island. The honey-coloured stone is typical of the period — austere on the outside but built around a generous internal courtyard with arcades and a fountain.

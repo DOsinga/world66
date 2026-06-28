@@ -6,6 +6,7 @@ latitude: -2.5500
 longitude: 150.8200
 story: >
   The Steffen and Albatross Channels that flank New Hanover funnel huge volumes of water past the reefs on every tide, drawing in pelagic fish in numbers that have largely vanished from more heavily dived parts of the Pacific. Local operators time dives to slack water and then drift back out with the current — short but spectacular.
+score: 9.3
 ---
 
 Kavieng's dive sites are spread across the northern reefs and the channels between New Ireland and New Hanover, all within an hour or so of the harbour. Big-fish drift dives are the speciality: schooling barracuda, eagle rays, grey reef sharks, and the occasional silvertip or hammerhead. Coral cover is healthy by Pacific standards and visibility is typically 25–40 metres.

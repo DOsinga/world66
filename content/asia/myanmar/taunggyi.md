@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Shwe_Bone_Pwint_Pagoda,_Ta
 latitude: 20.787011
 loc_type: city
 longitude: 97.038726
-score: 0.38
+score: 6.52
+snippet: Shan State capital perched on a scarp slope, known for its market and hill
+  cultures.
 title: Taunggyi
 type: location
 ---

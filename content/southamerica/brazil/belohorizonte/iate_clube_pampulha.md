@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Iate Tênis Clube de Pampulha
 type: poi
+score: 7.2
 ---
 
 The Iate Tênis Clube — the Pampulha yacht and tennis club — is the fourth and least visited of Niemeyer's lakeside buildings. The famous element is the butterfly-shaped concrete roof of the main clubhouse, which appears to hover above the structure on a few thin supports. The building was completed with the rest of the Pampulha set in 1943 and remains in active use as a private sports club.

@@ -9,6 +9,7 @@ tags:
 - sight
 title: Newbury Street
 type: poi
+score: 7.7
 ---
 
 Eight blocks of Victorian brownstones converted into a shopping promenade, Newbury Street runs from the Public Garden west to Massachusetts Avenue through the heart of Back Bay. The east end, closer to the Garden, is luxury — Chanel, Burberry, art galleries, jewelry — and the prices and ambitions descend gradually as you walk west, ending in vintage clothes, college bookshops, and inexpensive Asian noodle joints around Berklee.

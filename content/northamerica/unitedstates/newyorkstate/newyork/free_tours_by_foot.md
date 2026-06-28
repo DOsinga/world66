@@ -6,9 +6,11 @@ email: info@nycbyfoot.com
 latitude: 40.7339
 longitude: -73.992488
 phone: (646) 450-6831
+score: 5.8
 snippet: Pay-what-you-wish walking tours of Manhattan and Brooklyn
 tags:
 - things_to_do
+- soho
 title: Free Tours by Foot
 type: poi
 url: www.freetoursbyfoot.com

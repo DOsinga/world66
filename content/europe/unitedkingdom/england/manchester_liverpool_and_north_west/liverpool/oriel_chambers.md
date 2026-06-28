@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Oriel Chambers
 type: poi
+score: 8.0
 ---
 
 A modest-looking office building on Water Street that occupies an outsized place in architectural history: completed in 1864 to a design by Peter Ellis, it is widely credited as the world's first building with a metal frame supporting a "curtain wall" of glass — a structural concept that would later define skyscraper architecture in Chicago and New York.

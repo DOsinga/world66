@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.2097
 longitude: 119.7350
+score: 6.4
 ---
 
 Hailar's restaurant strip on Zhongyang Street and the surrounding blocks contains the best concentration of Mongolian hotpot restaurants in the city. The format is different from the Sichuan hotpot you might encounter in southern China — the broth is clear and lightly seasoned (often just lamb bone stock with scallions), and the lamb slices are thin-cut from local grassland-raised sheep, dipped raw into the simmering stock and eaten with sesame paste and fermented tofu. The emphasis is on the quality of the meat rather than on the complexity of the sauce.

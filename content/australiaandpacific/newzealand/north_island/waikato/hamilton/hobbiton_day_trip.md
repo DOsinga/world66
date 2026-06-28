@@ -14,6 +14,7 @@ story: >
   Jackson returned and decided to rebuild the entire Hobbit Hole village in permanent
   materials so it could operate as a tourist attraction. The farm's sheep now graze among
   forty-four carefully maintained Hobbit Holes.
+score: 7.4
 ---
 
 Hobbiton is on a working sheep farm near Matamata, about 40 km east of Hamilton, and it is the only permanent movie set from the Lord of the Rings and Hobbit trilogies open to the public. The visit is guided and takes about two hours — you walk among the forty-four Hobbit Holes, inspect the mill and the party tree, and end with a complimentary drink at the Green Dragon Inn.

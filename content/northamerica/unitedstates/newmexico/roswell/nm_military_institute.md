@@ -9,6 +9,7 @@ tags:
 address: "101 W College Blvd, Roswell, NM"
 latitude: 33.4099
 longitude: -104.5247
+score: 7.1
 ---
 
 Founded in 1891 and still operating as a public military high school and junior college. The original campus was built in a heavy crenellated Gothic Revival style in pinkish-tan brick — castle-like turrets, towers, and arched gateways — that contrasts strikingly with the flat surrounding desert.

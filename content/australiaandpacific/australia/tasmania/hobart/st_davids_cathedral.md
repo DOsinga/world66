@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 snippet: "Hobart's Anglican cathedral — a tall Gothic Revival in dark sandstone with a striking interior"
+score: 7.3
 ---
 
 Built between 1868 and 1874 in dark Tasmanian sandstone in a confident Gothic Revival style, with a square tower that dominates the lower end of Murray Street. The interior is unexpectedly tall and dim, with a fine **Walker organ**, stained glass by Hardman of Birmingham, and a series of memorials to early colonial Tasmanians (and the men killed in the colony's various wars). The acoustic is excellent — the cathedral hosts free **Friday lunchtime organ recitals** during term time.

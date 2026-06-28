@@ -7,6 +7,7 @@ tags:
 snippet: Regional history museum covering tobacco wars, the Black Patch, and local culture
 latitude: 36.8637
 longitude: -87.4860
+score: 7.4
 ---
 
 The Pennyroyal Area Museum in downtown Hopkinsville covers the history of the Pennyroyal region of western Kentucky. Exhibits include the Black Patch tobacco wars of the early 1900s — when farmer vigilantes called Night Riders burned warehouses and threatened buyers — as well as displays on the Trail of Tears, the Civil War in Christian County, and the locally famous Kelly-Hopkinsville encounter.

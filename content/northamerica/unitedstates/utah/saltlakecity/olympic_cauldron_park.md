@@ -6,6 +6,7 @@ tags:
 - sight
 title: Olympic Cauldron Park
 type: poi
+score: 5.6
 ---
 
 Olympic Cauldron Park at the University of Utah preserves the cauldron from the 2002 Winter Olympics, which was lit for the duration of the Games and serves as a permanent reminder of when Salt Lake City hosted the world. The park includes the original cauldron, which can be viewed up close, along with interpretive displays about the Olympics and the athletes who competed.

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Zminj,_Croatia.JPG
 latitude: 45.14391
 loc_type: city
 longitude: 13.908675
-score: 0.46
+score: 7.03
+snippet: Central Istrian hilltop town with stone lanes, castle remnants, and countryside
+  cave excursions nearby
 title: Žminj
 type: location
 ---

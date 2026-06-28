@@ -7,6 +7,7 @@ tags:
   - sight
 title: Río Manzanares
 type: poi
+score: 7.7
 ---
 
 The Manzanares splits Cumaná in two before emptying into the Gulf of Cariaco, and the riverside is one of the more atmospheric parts of the old city. Wooden boats are pulled up on the banks, fishermen mend nets, and pelicans cruise the surface looking for scraps from the catch.

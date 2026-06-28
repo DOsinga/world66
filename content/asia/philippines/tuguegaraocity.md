@@ -6,14 +6,16 @@ longitude: 121.727
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-06-01'
-score: 0.35
+score: 6.12
 loc_type: city
+snippet: Cagayan Valley capital on Luzon, set between mountain ranges near the Philippines'
+  largest river basin.
 sources:
-  - https://en.wikipedia.org/wiki/Tuguegarao
-  - https://en.wikipedia.org/wiki/Callao_Cave
-  - https://en.wikipedia.org/wiki/Pinacanauan_River
-  - https://en.wikipedia.org/wiki/Buntun_Bridge
-  - https://en.wikipedia.org/wiki/Tuguegarao_Cathedral
+- https://en.wikipedia.org/wiki/Tuguegarao
+- https://en.wikipedia.org/wiki/Callao_Cave
+- https://en.wikipedia.org/wiki/Pinacanauan_River
+- https://en.wikipedia.org/wiki/Buntun_Bridge
+- https://en.wikipedia.org/wiki/Tuguegarao_Cathedral
 ---
 
 Tuguegarao City is the capital of Cagayan province in the Cagayan Valley, the northernmost region of Luzon. It sits at the edge of a vast agricultural plain hemmed in by the Cordillera mountains to the west and the Sierra Madre to the east, with the mighty Cagayan River — the largest river basin in the Philippines — passing a few kilometres outside the city centre. The city is busy and purposeful, a commercial and government hub rather than a polished tourist stop, but that's part of its appeal: this is a real Philippine provincial capital, not a resort town.

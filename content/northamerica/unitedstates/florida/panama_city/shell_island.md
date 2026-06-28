@@ -6,6 +6,7 @@ longitude: -85.7000
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Shell Island is a seven-mile undeveloped barrier island lying between St. Andrews Bay and the Gulf of Mexico. There are no buildings, no roads, no power, and no facilities — just dunes, scrub palmetto, and miles of empty sand. The water on the Gulf side is the colour of jade glass on a calm day.

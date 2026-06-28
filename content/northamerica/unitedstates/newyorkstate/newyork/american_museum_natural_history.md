@@ -1,12 +1,14 @@
 ---
-title: "American Museum of Natural History"
-type: poi
+address: Central Park West at 79th Street
+latitude: 40.781101
+longitude: -73.974236
+score: 9.7
 tags:
-  - things_to_do
-  - museum
-latitude: 40.7813
-longitude: -73.9740
-address: "Central Park West at 79th Street"
+- things_to_do
+- museum
+- upper_west_side
+title: American Museum of Natural History
+type: poi
 ---
 
 The American Museum of Natural History, on the Upper West Side facing Central Park, is one of the largest and most visited natural history museums in the world, with 45 permanent exhibition halls. The dinosaur halls on the fourth floor are the best in America — the T. rex, mounted in an active hunting pose, the Apatosaurus skeleton, the hands-on fossil preparation lab — and the museum's collection of dinosaur fossils is genuinely unmatched.

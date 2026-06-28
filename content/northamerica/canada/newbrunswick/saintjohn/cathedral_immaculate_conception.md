@@ -8,6 +8,7 @@ tags:
 latitude: 45.2783
 longitude: -66.0564
 snippet: Gothic Revival cathedral in the Waterloo Village neighbourhood
+score: 7.1
 ---
 
 The Cathedral of the Immaculate Conception stands on Waterloo Street in the Waterloo Village neighbourhood, a Gothic Revival building that is the mother church of the Roman Catholic Diocese of Saint John. The present building dates from 1853 with subsequent additions, and its twin towers are a landmark on the uptown skyline.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3
 longitude: 13.85
+score: 7.9
 ---
 
 Istria is one of Croatia's most serious wine regions, producing distinctive whites from the indigenous *Malvazija Istarska* grape and reds from *Teran*. The terra rossa soils on the limestone hills give the wines their character — Malvazija is dry, mineral, and fresh; Teran is dark, tart, and traditionally drunk young.

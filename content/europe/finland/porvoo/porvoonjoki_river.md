@@ -8,6 +8,7 @@ latitude: 60.3833
 longitude: 25.6667
 sources:
   - https://en.wikipedia.org/wiki/Porvoonjoki
+score: 7.2
 ---
 
 The Porvoonjoki river runs through the heart of Porvoo's old town, and the walk along its banks ties together the main sights. From the old bridge near the warehouses you can see the red-painted storehouses to the south and the Cathedral on its ridge to the north. Following the river upstream from the town leads into pleasant parkland that is largely tourist-free.

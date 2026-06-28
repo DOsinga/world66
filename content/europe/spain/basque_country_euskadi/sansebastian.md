@@ -8,7 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebasti%C3%A1n_-_Ayunt
 latitude: 43.3183
 loc_type: city
 longitude: -1.9812
-score: 0.77
+score: 9.46
+snippet: Elegant Basque bay city of pintxos bars, crescent beaches, and wooded headlands.
 title: San Sebastián
 type: location
 ---

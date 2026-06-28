@@ -13,6 +13,7 @@ story: >
   The award has gone to journalists, activists, and public interest lawyers.
   The museum's founder, Manrico Dell'Agnola, spent decades collecting and
   crafting slingshots from across the world before opening the museum in Albenga.
+score: 6.9
 ---
 
 An unexpected find in a medieval Ligurian town: a museum dedicated entirely to the slingshot (fionda in Italian), housed in a small space in the historic centre. The collection includes handmade slingshots from dozens of countries, historical examples, and miniature replicas, all assembled by a collector who became fascinated by the simple weapon's symbolic role as the tool of the underdog.

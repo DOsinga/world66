@@ -9,6 +9,7 @@ title: Phu Quoc National Park
 type: poi
 story: >
   The national park was gazetted in 2001 after pressure from conservationists who feared the island's forests would be entirely cleared for plantations. The forests here are some of the last intact lowland tropical jungle in Vietnam outside of the Central Highlands, and contain several species — including the endemic Phu Quoc ridgeback dog — found nowhere else on the island.
+score: 8.1
 ---
 
 Phu Quoc National Park covers roughly 31,400 hectares in the island's northern half, protecting tropical lowland forest, mangroves, and coral reefs in the waters offshore. The interior is dense jungle of dipterocarp forest with streams running off the granite hills to the coast. Several trails enter the park from the road on the western edge, and the two main summits — Chua Mountain (603 m) and Ham Ninh Mountain (365 m) — are accessible on foot.

@@ -7,6 +7,7 @@ tags:
 latitude: 53.4035
 longitude: 5.2714
 story: "The North Sea beach here is at least 100 metres wide at high tide and widens to several hundred metres at low water. On calm summer evenings, when the tide retreats, you can walk halfway to the horizon on firm wet sand without getting your ankles wet."
+score: 7.4
 ---
 
 The beach on the north side of the island directly above Midsland is one of the wilder stretches of Terschelling's coast — there is no beach club, no parking lot right behind the dunes, and the cycling path from the village keeps it just far enough away to thin the crowds. A ten-minute ride from the village brings you to the beach access through the dunes.

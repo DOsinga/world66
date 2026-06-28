@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 43.768
 longitude: 11.2531
+score: 8.3
 snippet: Medieval bridge lined with goldsmiths' shops over the Arno
 tags:
 - One Day in Florence
@@ -11,6 +12,7 @@ tags:
 - 3 Days in Florence
 - things_to_do
 - bridge
+- centro_storico
 title: Ponte Vecchio
 type: poi
 ---

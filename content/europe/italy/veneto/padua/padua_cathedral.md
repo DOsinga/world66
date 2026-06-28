@@ -9,6 +9,7 @@ tags:
 - church
 snippet: "The city's cathedral, with an outstanding Romanesque baptistery covered in 14th-century frescoes"
 story: "The baptistery next to the cathedral was decorated in the 1370s by Giusto de' Menabuoi with a complete cycle of frescoes — Old Testament, New Testament, Apocalypse — culminating in an enormous Paradise of more than a hundred saints arranged in concentric rings around Christ in glory. It is one of the great fresco cycles of medieval Italy and far less crowded than the Scrovegni Chapel."
+score: 8.3
 ---
 
 The Cathedral of Padua is a plain, unfinished sixteenth-century church built from a design partly attributed to Michelangelo — substantial but, frankly, not the headline attraction on the square. The real draw is the **Baptistery** next door, a squat twelfth-century Romanesque building with a low dome.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The 5.7 km bridge across the Ganges -- once the longest river bridge in the world -- linking Patna to Hajipur
+score: 5.8
 ---
 
 The Mahatma Gandhi Setu, completed in 1982, was the longest river bridge in the world when it opened. It connects Patna to Hajipur on the north bank, spanning the Ganges at one of its widest points. The four-lane bridge was for years an essential link for traffic between Bihar's two main population centres.

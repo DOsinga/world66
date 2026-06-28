@@ -10,6 +10,7 @@ tags:
 story: At 253 metres, Ta' Dmejrek is the highest point of the Maltese islands. Filfla,
   visible offshore in clear weather, is one of the smallest. Between them, the entire
   Mediterranean.
+score: 7.5
 ---
 
 Ta' Dmejrek, on the southern stretch of the Dingli Cliffs, is the highest point of Malta — 253 metres above the sea. There is no peak as such, only an unfenced patch of clifftop scrub marked by a small trig point. But on a clear day the view is unmatched: the open Mediterranean stretches to the horizon, the islet of Filfla floats two kilometres offshore, and the sea breeze cuts straight up the cliff face.

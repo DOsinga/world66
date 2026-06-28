@@ -1,11 +1,12 @@
 ---
 latitude: 59.329
 longitude: 18.068
+score: 5.5
 tags:
 - things_to_do
 - sight
 - market
-- gamla_stan
+- norrmalm
 title: Gustav Adolfs torg
 type: poi
 ---

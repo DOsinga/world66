@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, neighbourhood]
 latitude: 47.4006
 longitude: 0.6900
+score: 6.7
 ---
 
 The Île Aucard is a long, narrow island in the middle of the Loire just downstream of the Wilson Bridge. Most of it is wooded park, threaded with footpaths and bike trails — one of the easiest escapes from the city centre on a hot afternoon.

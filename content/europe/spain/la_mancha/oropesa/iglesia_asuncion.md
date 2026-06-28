@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9172
 longitude: -5.1740
+score: 6.7
 ---
 
 The parish church of Oropesa, built in the 16th century, stands just below the castle complex on the Plaza de la Constitución. It is a solid Castilian Gothic structure with a nave and side chapels added progressively over two centuries. The tower is a local landmark — you can see it from the road long before you reach the town.

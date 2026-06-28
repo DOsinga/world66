@@ -9,6 +9,7 @@ tags:
   - sight
 story: "Malmberget — 'the ore mountain' — has been mined so heavily that the ground beneath the town has started collapsing, and almost all of the original houses have been moved or demolished. A vast crater, 'Kaptensgropen', has opened where the centre once stood, and the remaining residents are being relocated to Gällivare proper."
 snippet: "One of the largest iron-ore mines in the world, slowly swallowing the town above it"
+score: 8.2
 ---
 
 Malmberget, 5 km north of Gällivare, sits on top of one of the largest iron-ore deposits in the world — and the mining has gone so deep and so widely that the town itself is being consumed. The crater known as Kaptensgropen, in the middle of what used to be central Malmberget, is now several hundred metres across. The mining company LKAB is steadily buying up and dismantling the surrounding buildings.

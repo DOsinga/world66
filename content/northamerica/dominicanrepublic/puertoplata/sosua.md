@@ -5,7 +5,9 @@ done:
 latitude: 19.7517
 loc_type: city
 longitude: -70.515
-score: 0.49
+score: 7.59
+snippet: Dominican north-coast beach town with a sheltered cove, coral reef, and distinct
+  El Batey and Los Charamicos districts.
 sources:
 - https://en.wikipedia.org/wiki/Sos%C3%BAa
 - https://www.sosuajewishmuseum.com/

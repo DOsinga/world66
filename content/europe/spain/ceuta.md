@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Ceuta_y_la_pen%C3
 latitude: 35.8944
 loc_type: city
 longitude: -5.3558
-score: 0.52
+score: 7.82
+snippet: Spanish autonomous city on North Africa’s coast, defined by fortress walls
+  and Strait of Gibraltar crossings
 sources:
 - https://en.wikipedia.org/wiki/Ceuta
 title: Ceuta

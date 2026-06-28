@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.1387
 longitude: -94.6863
+score: 6.9
 ---
 
 A small free museum at the entrance to Beavers Bend State Park that does a surprisingly good job of explaining the forests of southeastern Oklahoma. The main hall has fourteen dioramas walking visitors through the region's woods — from the longleaf pine savannas that once dominated the area to bottomland hardwood swamps and the modern managed plantations.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5070
 longitude: 15.0843
+score: 7.0
 ---
 
 Sant'Agata al Carcere — Saint Agatha at the Prison — is the church built on the spot traditionally identified as the cell where Catania's patron saint was imprisoned before her martyrdom in 251 AD. The present church is a Norman-period building with later baroque additions, set against the old city wall near the amphitheatre.

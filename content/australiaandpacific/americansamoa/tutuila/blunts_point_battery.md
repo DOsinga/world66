@@ -7,6 +7,7 @@ tags:
 latitude: -14.2789
 longitude: -170.6706
 snippet: WWII gun emplacement above Pago Pago Harbor with sweeping views
+score: 7.4
 ---
 
 The Blunts Point Battery sits on a headland above Pago Pago Harbor, where the US military installed coastal defence guns after Japan attacked Pearl Harbor in December 1941. The guns remain in place — large naval cannons pointing seaward, now surrounded by vegetation and slowly being reclaimed by the tropical climate.

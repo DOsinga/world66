@@ -9,6 +9,7 @@ snippet: "1820s Federal-style estate with period rooms, gardens, and walking tra
 latitude: 44.53608
 longitude: -68.43345
 story: "Woodlawn was built by Colonel John Black, a Yorkshire-born land agent who acquired vast Downeast holdings in the early 1800s. The Black family lived here for three generations and left the house with nearly all its original furnishings intact — a rarity for any American estate of this age."
+score: 7.8
 ---
 
 Woodlawn, also known as the Black House, is the grandest Federal-style mansion in Downeast Maine. The 1820s brick house sits on 180 acres a short drive south of downtown, with period rooms shown more or less as the last Black descendant left them in 1928.

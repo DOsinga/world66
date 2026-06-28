@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Mary_(elephant)
   - https://en.wikipedia.org/wiki/Erwin,_Tennessee
+score: 6.9
 ---
 
 The Clinchfield Railroad defined Erwin for over a century. When the Carolina, Clinchfield and Ohio Railway made Erwin its headquarters in 1909, it brought hundreds of jobs and transformed what had been a small mountain settlement into a proper railroad town. The yard remained a major CSX facility until it closed in October 2015, ending more than a hundred years of rail operations.

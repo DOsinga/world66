@@ -2,7 +2,7 @@
 address: Old Biscuit Mill, Albert Road, Woodstock
 latitude: -33.9275
 longitude: 18.4562
-neighbourhood: Woodstock
+score: 7.8
 scores:
   activities: 0.7012
   eating_out: 0.8512

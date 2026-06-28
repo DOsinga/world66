@@ -13,6 +13,7 @@ tags:
 - sight
 title: Three Sisters Wilderness
 type: poi
+score: 9.2
 ---
 
 The Three Sisters Wilderness covers 281,000 acres of the central Cascades just west of the town of Sisters, named for the three glaciated volcanoes that dominate the skyline — North, Middle, and South Sister, each over 3,000 metres. The wilderness is the second-largest in Oregon and contains over 250 lakes, hundreds of kilometres of streams, and miles of the Pacific Crest Trail.

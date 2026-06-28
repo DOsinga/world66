@@ -1,5 +1,6 @@
 ---
 title: Uruguay
+snippet: Small South American country between Argentina and Brazil, centred on Montevideo and Atlantic beach towns.
 type: location
 latitude: -32.875555
 longitude: -56.020153
@@ -15,7 +16,7 @@ quick_facts:
   Cost Level: "Priciest in South America"
   Cattle-to-People Ratio: "4 cows per person"
   Renewable Energy: "98% of electricity"
-score: 0.54
+score: 0.61
 loc_type: country
 ---
 

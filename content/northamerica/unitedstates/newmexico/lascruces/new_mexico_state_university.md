@@ -12,6 +12,7 @@ story: >
   The chile breeding program, the pecan research station, and the cotton
   variety trials are not relics but active scientific enterprises that directly
   shape what is grown across the Mesilla Valley and beyond.
+score: 5.9
 ---
 
 New Mexico State University anchors the southern end of Las Cruces and gives the city much of its cultural and intellectual life. The campus is pleasant to walk — a mix of Spanish Colonial Revival buildings from the early 20th century and more recent additions — and the university's museums, galleries, and performance spaces are open to visitors. The NMSU Art Museum on the main campus has a small but quality collection of contemporary art and rotating exhibitions.

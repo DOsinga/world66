@@ -16,6 +16,7 @@ tags:
   - architecture
 title: Exeter Cathedral
 type: poi
+score: 9.2
 ---
 
 Exeter Cathedral, formally the Cathedral Church of Saint Peter, has the longest unbroken Gothic vault in the world — a continuous stretch of ribbed stone ceiling running the full length of the nave and choir, uninterrupted by a crossing tower. The effect is extraordinary: 91 metres of fan-like vaulting overhead, lit by the great west window and the bishop's throne on the south side.

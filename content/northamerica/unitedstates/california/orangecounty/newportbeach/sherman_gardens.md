@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
   - corona_del_mar
+score: 7.8
 ---
 
 Two and a half acres of meticulously tended subtropical garden in the heart of Corona del Mar, with a small specialist research library focused on the Pacific Southwest tucked away inside. Founded in 1955 by businessman Arnold Haskell as a memorial to his mentor Moses Sherman, the gardens are now one of the prettiest small public gardens in southern California.

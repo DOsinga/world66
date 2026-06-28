@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 40.1551
 longitude: -76.3025
+score: 7.9
 ---
 
 The Moravian Church on East Main Street, built in 1787, is the spiritual centre of the town the Moravians founded. The building is plain by the standards of contemporary American Protestant architecture — symmetrical brick, a simple white interior, no altar, traditional separate doors for men and women — but the simplicity is itself the point.

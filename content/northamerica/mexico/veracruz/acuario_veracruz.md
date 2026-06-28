@@ -6,6 +6,7 @@ tags:
 - museum
 title: Acuario de Veracruz
 type: poi
+score: 6.3
 ---
 
 The Acuario de Veracruz is one of the largest public aquariums in Latin America, with exhibits focused on the marine life of the Gulf of Mexico. The main tanks hold sharks, sea turtles, moray eels, and large schools of tropical fish; there are also displays of rays, seahorses, and Gulf coast freshwater species. The shark tunnel is the centrepiece, and it is genuinely impressive.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - eating_out
   - neighbourhood
+score: 7.8
 ---
 
 South Terrace, the broad tree-lined avenue south of the Fremantle Markets, is the famous Cappuccino Strip — a continuous run of pavement cafés, gelaterias, pubs, and small restaurants that has been the social centre of the city since the 1980s. The Italian and Croatian fishing families who built Fremantle established the cafés; their grandchildren still run several of them.

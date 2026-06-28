@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.5662
 longitude: 22.7972
+score: 7.5
 ---
 
 Syntagma is the heart of the old town: a wide marble-paved square ringed by the old Venetian arsenal (now the Archaeological Museum), the Vouleftikon mosque-turned-parliament, and a row of cafes that come to life in the evening.

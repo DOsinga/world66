@@ -1,11 +1,13 @@
 ---
 latitude: 35.0244
-longitude: 135.7180
+longitude: 135.718
+score: 8.1
 snippet: Largest Rinzai Zen complex in Japan, holding more than 40 sub-temples
 tags:
 - things_to_do
 - temple
 - sight
+- nijo
 title: Myōshin-ji
 type: poi
 ---

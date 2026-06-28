@@ -4,6 +4,7 @@ type: poi
 latitude: 34.7312
 longitude: -86.5886
 tags: [eating_out, restaurant]
+score: 6.0
 ---
 
 Ol' Heidelberg has been on Jefferson Street in downtown Huntsville since 1975, making it one of the oldest continuously operating restaurants in the city. It serves a straightforward menu of German-American fare — sausages, schnitzel, sauerkraut, and a selection of German beers — in a comfortable setting that has barely changed in decades. The kitchen is not experimental, and that is the point: reliable, well-executed Central European cooking in a city that does not have much of it.

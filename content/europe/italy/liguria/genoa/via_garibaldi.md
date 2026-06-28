@@ -14,6 +14,7 @@ story: >
   grandeur. It was the most expensive street in Europe when completed. Rubens visited
   and published a book of the palaces' drawings in 1622, spreading their influence
   across northern Europe.
+score: 9.5
 ---
 
 The finest Renaissance street in northern Italy, Via Garibaldi was laid out between 1550 and 1570 as a planned development of patrician palaces. Both sides of the street are lined with buildings of extraordinary quality: deep courtyards, grand staircases, painted ceilings, and collections of paintings assembled by the Genoese banking families who built them.

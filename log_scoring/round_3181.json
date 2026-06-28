@@ -1,0 +1,200 @@
+{
+  "round": 3181,
+  "timestamp": "2026-06-13T22:34:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 4.5352,
+      "prior_variance": 0.121082,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 2.888,
+      "prior_variance": 0.125375,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 3.1288,
+      "prior_variance": 0.137852,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.0388,
+      "prior_variance": 0.143852,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 0.7963,
+      "prior_variance": 0.148631,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 1.7543,
+      "prior_variance": 0.136459,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 2.0238,
+      "prior_variance": 0.120765,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.5718,
+      "prior_variance": 0.151321,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 3.0222,
+      "prior_variance": 0.162018,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 0.6451,
+      "prior_variance": 0.184537,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Deqin",
+      "path": "asia/china/yunnanprovince/deqin",
+      "prior_score": 1.5535,
+      "prior_variance": 0.157847,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.3354,
+      "prior_variance": 0.135034,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.108,
+      "prior_variance": 0.129604,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 1.1749,
+      "prior_variance": 0.156963,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": 1.5982,
+      "prior_variance": 0.141808,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 0.0473,
+      "prior_variance": 0.136827,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 2.1119,
+      "prior_variance": 0.139986,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -0.4438,
+      "prior_variance": 0.162732,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.5879,
+      "prior_variance": 0.151236,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -0.5486,
+      "prior_variance": 0.148188,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -2.6765,
+      "prior_variance": 0.155215,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.8279,
+      "prior_variance": 0.165034,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -0.6747,
+      "prior_variance": 0.130129,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 5.7423,
+      "prior_variance": 0.214624,
+      "prior_n": 10
+    }
+  ]
+}

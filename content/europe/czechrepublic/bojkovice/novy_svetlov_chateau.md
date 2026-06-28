@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: "Neo-Gothic chateau rebuilt on a medieval castle on the hill above the town"
+score: 7.3
 ---
 
 The town's defining building. A castle stood on this hilltop from the 15th century but was rebuilt in the 1850s in the romantic Tudor-Gothic style fashionable across central Europe at the time, by the noble Haugwitz family. Crenellated towers, pointed-arch windows, and a small park surrounding it.

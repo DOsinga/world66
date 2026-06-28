@@ -3,20 +3,22 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-28'
+image: portharcourt.jpg
+image_attribution: Utibe4you at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:1st_Artilery_Cross_Road,_Phc.jpg
 latitude: 4.767658
 loc_type: city
 longitude: 7.018853
-score: 0.29
+score: 5.46
+snippet: Niger Delta port city and oil-industry capital, founded on the Bonny River
+  in 1913.
 sources:
 - https://en.wikipedia.org/wiki/Port_Harcourt
 - https://en.wikipedia.org/wiki/Old_GRA,_Port_Harcourt
 - https://en.wikipedia.org/wiki/Port_Harcourt_Zoo
 title: Port Harcourt
 type: location
-image: portharcourt.jpg
-image_source: https://commons.wikimedia.org/wiki/File:1st_Artilery_Cross_Road,_Phc.jpg
-image_license: Public domain
-image_attribution: Utibe4you at English Wikipedia
 ---
 
 Port Harcourt is the capital of Rivers State in southern Nigeria and the centre of the country's oil industry. The city was founded by the British in 1913 as a deep-water port on the Bonny River and named after Lewis Harcourt, Secretary of State for the Colonies; before that, the area was small fishing villages at the edge of the Niger Delta. It is still sometimes called the "Garden City" for its colonial-era planned avenues and green spaces, though the reality of modern Port Harcourt is more sprawling and chaotic than that nickname suggests.

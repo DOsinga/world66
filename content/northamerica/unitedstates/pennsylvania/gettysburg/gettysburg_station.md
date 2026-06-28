@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Lincoln arrived at this station on the afternoon of 18 November 1863 to attend the dedication of the cemetery the next day. The platform he stepped onto, the rooms where he was greeted, and the gas-lit interior are essentially unchanged."
+score: 7.1
 ---
 
 The 1858 brick station on Carlisle Street was used as a field hospital during and after the battle and as the point of arrival for Lincoln when he came to dedicate the cemetery. It now operates as a small museum and visitor information centre with exhibits on the station's role in the battle.

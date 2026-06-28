@@ -7,6 +7,7 @@ tags:
 address: "200 E Martin Luther King Jr Blvd"
 latitude: 30.2826
 longitude: -97.7390
+score: 8.6
 ---
 
 The Blanton Museum of Art at the University of Texas is one of the largest university art museums in the United States, with a permanent collection of nearly 20,000 works. The strengths are in European art from the Renaissance through the 19th century, Latin American art (one of the best collections in the country), and modern and contemporary American and European work.

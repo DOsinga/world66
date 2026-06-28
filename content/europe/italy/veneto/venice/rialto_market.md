@@ -1,11 +1,12 @@
 ---
 latitude: 45.4391
 longitude: 12.3354
-snippet: "Venice's daily fish and produce market — best seen before noon"
-neighbourhood: San Polo
+score: 8.0
+snippet: Venice's daily fish and produce market — best seen before noon
 tags:
 - shopping
 - market
+- san_polo
 title: Rialto Market
 type: poi
 ---

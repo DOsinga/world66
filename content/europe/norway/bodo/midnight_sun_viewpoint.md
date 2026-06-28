@@ -13,6 +13,7 @@ story: >
   night, in late June, the sun barely dips toward the horizon before rising again. 
   For first-time visitors from lower latitudes, the experience of full daylight at 
   2 am is genuinely disorienting — bring an eye mask if you want to sleep.
+score: 7.8
 ---
 
 Bodø is positioned almost exactly on the Arctic Circle, making it one of the most accessible places in the world to experience the midnight sun without travelling to remote wilderness. From late May to mid-July the sun does not set, and the quality of the light in the hours around midnight — low, amber, casting long shadows across the fjord — is unlike anything further south.

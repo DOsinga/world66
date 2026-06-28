@@ -7,6 +7,7 @@ tags:
   - vegetarian
 latitude: 23.4234
 longitude: 88.3886
+score: 5.4
 ---
 
 The pilgrim canteen inside the ISKCON Mayapur complex, serving a wide menu of North and South Indian vegetarian dishes plus the obligatory pizzas, pastas, and lassis for the international devotees. Hygienic, air-conditioned, and inexpensive — most thalis around ₹150-250.

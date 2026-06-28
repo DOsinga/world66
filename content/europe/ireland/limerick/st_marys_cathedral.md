@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Cathedral's chapter house holds the only surviving complete set of medieval carved misericords in Ireland — 23 oak choir stalls cut around 1480 with images of angels, animals, and grotesques. The misericords survived Cromwell's troops, who stabled horses in the nave but did not touch the chapter house."
+score: 8.4
 ---
 
 St Mary's, founded in 1168 by Donal Mor O'Brien, the last King of Munster, is the oldest building in Limerick still in continuous daily use. The cathedral has been added to in every century since: a Norman nave, a late-medieval chapter house, a 17th-century tower with a peal of bells, and a 19th-century reredos. The result is layered rather than unified, and the building rewards a slow walk around the interior.

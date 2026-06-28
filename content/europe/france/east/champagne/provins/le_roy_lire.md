@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - shopping
 - bookshop
+score: 6.4
 ---
 
 A bookshop set into a 13th-century vaulted stone basement just off the Place du Châtel. The space alone is worth the visit — heavy ribbed vaulting, exposed limestone walls, and a stone staircase that descends from the street into the cool interior. The owner has fitted the shelves into the alcoves and arches of the medieval room without disturbing the architecture.

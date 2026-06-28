@@ -6,6 +6,7 @@ longitude: 3.0450
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 The Algerian patisserie tradition is North African with heavy Ottoman and Andalusian influences. The best pastry shops in Algiers are concentrated on Rue Didouche Mourad and in the Belouizdad neighbourhood. Look for makroud (semolina diamond cakes stuffed with date paste and fried in oil), baklava soaked in orange-flower syrup, and tcharek (crescent-shaped cookies dusted with icing sugar). In the run-up to Ramadan the patisseries work through the night.

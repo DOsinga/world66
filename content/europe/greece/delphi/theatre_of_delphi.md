@@ -6,6 +6,7 @@ tags:
   - sight
 title: Theatre of Delphi
 type: poi
+score: 8.5
 ---
 
 The theatre at Delphi sits above the Temple of Apollo on the sanctuary hillside, built from local limestone in the 4th century BC and restored by the Romans in the 2nd century AD. It held around 5,000 spectators and was used for the musical and dramatic competitions of the Pythian Games — the second most prestigious festival in the ancient world after the Olympics. The acoustics are good, and the occasional modern performance still uses the space.

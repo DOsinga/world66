@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.412
 longitude: 121.972
+score: 8.8
 ---
 
 The official name is Racuh a Payaman, but everyone calls it Marlboro Country — a wide, flat-topped plateau in the south of Batan Island where cattle graze freely on open grassland against a backdrop of sea and sky. The nickname comes from the resemblance to the old cigarette advertisements, which may say something about the power of that landscape. It works, though: on a clear day with horses or cattle in the foreground and the Pacific behind, it really does look like a film set.

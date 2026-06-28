@@ -1,13 +1,14 @@
 ---
 address: Bouvignes-sur-Meuse, 5500 Dinant
 latitude: 50.2667
-loc_type: feature
-longitude: 4.9000
+longitude: 4.9
+score: 6.6
 snippet: Tiny medieval town on the opposite bank from Dinant
 tags:
 - things_to_do
 - sight
 title: Bouvignes-sur-Meuse
+type: poi
 ---
 
 A tiny medieval town on the west bank of the Meuse, opposite the northern edge of Dinant. Bouvignes was a rival of Dinant in the Middle Ages, twinned by intense commercial competition and the occasional war; its surviving 13th-century Maison Espagnole and 14th-century Crèvecœur Castle (now a ruin on the hill above) are reminders.

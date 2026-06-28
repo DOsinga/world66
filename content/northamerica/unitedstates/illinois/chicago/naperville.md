@@ -3,10 +3,10 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.7729
 longitude: -88.1479
+score: 5.8
 snippet: Charming suburb with riverwalk and living history museum
 tags:
-- things_to_do
-- day_trip
+- day_trips
 title: Naperville
 type: poi
 url: www.visitnaperville.com

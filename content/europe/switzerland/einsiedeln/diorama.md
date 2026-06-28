@@ -7,6 +7,7 @@ tags:
 latitude: 47.12750
 longitude: 8.75100
 snippet: "Vast mechanical nativity panorama that has been running since 1947"
+score: 6.3
 ---
 
 A short walk from the abbey, the Bethlehem Diorama is one of the more unusual things you can see in Switzerland. The panorama depicts the town of Bethlehem at the time of the Nativity in meticulous detail: roughly 450 hand-carved figures, hundreds of buildings, and an animated lighting system that cycles through day and night. The whole scene measures about 100 square metres.

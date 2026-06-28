@@ -9,6 +9,7 @@ longitude: 22.9612
 snippet: "Outstanding collection of painted funerary stelae and prehistoric Thessalian finds"
 story: >
   The painted funerary stelae from Demetrias are unlike anything else in Greek archaeology. Instead of the stylised, impersonal figures typical of classical grave monuments, these show real people: a woman arranging her hair, a man saying goodbye to his family, a young girl with a pet bird. The colours — ochre, blue, red — have survived two millennia. Standing in front of them, you get the rare sense of looking at individuals rather than archetypes.
+score: 8.3
 ---
 
 The Archaeological Museum of Volos is one of the best mid-sized museums in Greece, and easily the most important reason to spend time in the city itself. Its collection spans thousands of years of Thessalian history, from the Neolithic settlements at Sesklo and Dimini — among the earliest farming communities in Europe, dating back to around 6500 BCE — through the Bronze Age, the classical period, and into Hellenistic times. The breadth is impressive, but the museum wears it lightly: the displays are well-organised and not overwhelming.

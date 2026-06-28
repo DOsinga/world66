@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.5511
 longitude: -77.4632
+score: 8.3
 ---
 
 Richmond's most beautiful residential neighbourhood, the Fan takes its name from the way its streets fan outward from Monroe Park toward the west. The streets are lined with late-19th and early-20th century rowhouses — graceful, brick-fronted, with small front stoops and the occasional turret — in a density and state of preservation that rivals the finest urban rowhouse districts in the American Northeast.

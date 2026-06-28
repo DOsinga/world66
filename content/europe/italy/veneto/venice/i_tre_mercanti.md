@@ -2,10 +2,12 @@
 address: Castello 5364, near Ponte della Guerra, San Marco
 latitude: 45.436315
 longitude: 12.339359
-snippet: "Gourmet Italian food shop near Piazza San Marco"
+score: 4.9
+snippet: Gourmet Italian food shop near Piazza San Marco
 tags:
 - shopping
 - shop
+- san_marco
 title: I Tre Mercanti
 type: poi
 ---

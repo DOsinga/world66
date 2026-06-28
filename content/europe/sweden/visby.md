@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%B6dra_Kyrkogatan_Visb
 latitude: 57.6379
 loc_type: city
 longitude: 18.298
-score: 0.67
+score: 8.91
+snippet: Walled medieval city on Gotland, ringed by limestone towers and roofless
+  Hanseatic church ruins.
 title: Visby
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 21.6271
 longitude: 87.5068
+score: 5.8
 ---
 
 The Marine Aquarium and Research Centre in Digha, run by the Zoological Survey of India, is the town's main indoor attraction. It holds a collection of Bay of Bengal marine species — fish, crustaceans, molluscs, and other creatures — in aquarium tanks and preserved specimen displays. The research centre also maintains exhibits on the ecology of the coastal and estuarine environments of West Bengal.

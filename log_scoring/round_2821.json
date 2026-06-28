@@ -1,0 +1,200 @@
+{
+  "round": 2821,
+  "timestamp": "2026-06-13T22:09:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 5.4936,
+      "prior_variance": 0.180737,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 6.7762,
+      "prior_variance": 0.256479,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.6329,
+      "prior_variance": 0.18555,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 6.2088,
+      "prior_variance": 0.15954,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_island",
+      "prior_score": 3.2292,
+      "prior_variance": 0.150718,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 3.1316,
+      "prior_variance": 0.164492,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -3.484,
+      "prior_variance": 0.239511,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 3.9273,
+      "prior_variance": 0.165577,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby",
+      "prior_score": 4.0174,
+      "prior_variance": 0.171068,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 3.1987,
+      "prior_variance": 0.166463,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 1.7263,
+      "prior_variance": 0.15652,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.4169,
+      "prior_variance": 0.161162,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.7664,
+      "prior_variance": 0.131425,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": 1.3006,
+      "prior_variance": 0.147927,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_score": 1.0627,
+      "prior_variance": 0.209268,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 0.5485,
+      "prior_variance": 0.152703,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.3917,
+      "prior_variance": 0.139028,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -0.5607,
+      "prior_variance": 0.180171,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.5151,
+      "prior_variance": 0.161339,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_score": -1.5883,
+      "prior_variance": 0.135971,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -3.2222,
+      "prior_variance": 0.156704,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -3.867,
+      "prior_variance": 0.172609,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -2.7845,
+      "prior_variance": 0.161917,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_score": -4.0075,
+      "prior_variance": 0.156266,
+      "prior_n": 9
+    }
+  ]
+}

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.6480
 longitude: 24.9330
+score: 8.5
 ---
 
 Karaimų Gatvė (Karaim Street) is the main street of the historic Karaim quarter, running from the town centre toward the lake. The wooden houses lining it follow a tradition: each house has three windows facing the street — one for God, one for the Grand Duke, and one for the family. The houses are painted in distinctive colours, predominantly green, and the street as a whole has a character unlike any other in Lithuania or the Baltic states.

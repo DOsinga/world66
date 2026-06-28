@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Kut,_Thailand,_Palm_tr
 latitude: 11.662155
 loc_type: city
 longitude: 102.568105
-score: 0.66
+score: 8.93
+snippet: Quiet island in the Koh Chang archipelago, with palm-backed beaches, waterfalls,
+  and rubber plantations.
 title: Koh Kood
 type: location
 ---

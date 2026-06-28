@@ -5,7 +5,9 @@ done:
 latitude: 47.682152
 loc_type: city
 longitude: 13.095631
-score: 0.56
+score: 7.92
+snippet: Salzach river town south of Salzburg, shaped by ancient salt mines and Celtic
+  history
 title: Hallein
 type: location
 ---

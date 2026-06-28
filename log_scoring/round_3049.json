@@ -1,0 +1,200 @@
+{
+  "round": 3049,
+  "timestamp": "2026-06-13T22:25:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": -0.3997,
+      "prior_variance": 0.146366,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 5.1863,
+      "prior_variance": 0.15666,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -3.805,
+      "prior_variance": 0.138872,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.1131,
+      "prior_variance": 0.175537,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -3.4449,
+      "prior_variance": 0.171778,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.6888,
+      "prior_variance": 0.19714,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.069,
+      "prior_variance": 0.122335,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.3012,
+      "prior_variance": 0.224256,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_score": -4.7728,
+      "prior_variance": 0.145829,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hami",
+      "path": "asia/china/xinjiangprovince/hami",
+      "prior_score": -4.0038,
+      "prior_variance": 0.143576,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -4.3864,
+      "prior_variance": 0.193286,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -4.2116,
+      "prior_variance": 0.162308,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -5.8907,
+      "prior_variance": 0.167499,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -4.8615,
+      "prior_variance": 0.159433,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -5.6663,
+      "prior_variance": 0.14544,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -4.9309,
+      "prior_variance": 0.167623,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -7.0767,
+      "prior_variance": 0.241587,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -5.7884,
+      "prior_variance": 0.257462,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -8.1434,
+      "prior_variance": 0.234787,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -8.2331,
+      "prior_variance": 0.229438,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -6.8291,
+      "prior_variance": 0.300249,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.4198,
+      "prior_variance": 0.373419,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -5.5878,
+      "prior_variance": 0.26496,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -9.0096,
+      "prior_variance": 0.267235,
+      "prior_n": 10
+    }
+  ]
+}

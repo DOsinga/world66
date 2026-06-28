@@ -1,5 +1,7 @@
 ---
+score: 0.47
 title: "Turks and Caicos Islands"
+snippet: British Overseas Territory of low Atlantic islands defined by Providenciales' long reef-backed beaches.
 type: location
 loc_type: country
 latitude: 21.6940

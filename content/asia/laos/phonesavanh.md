@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jarssite3.jpg
 latitude: 19.449774
 loc_type: city
 longitude: 103.183655
-score: 0.51
+score: 7.75
+snippet: Plateau town in Xieng Khouang, used as the base for visiting the Plain of
+  Jars.
 title: Phonsavan
 type: location
 ---

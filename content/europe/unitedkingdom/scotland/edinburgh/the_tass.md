@@ -4,10 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 55.950708
 longitude: -3.184422
+score: 6.9
 snippet: Royal Mile pub with live traditional music sessions
 tags:
 - bars_and_cafes
-- old_town
+- oldtown
 - bar
 title: The Tass
 type: poi

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Modern art museum in a restored 17th-century plantation house
+score: 8.0
 ---
 
 Salvador's modern art museum (MAM-BA) is set in the Solar do Unhão, a restored 17th-century sugar warehouse, big house, and chapel complex on the bay south of the centre. The buildings alone are worth the visit — the chapel has one of the more austere baroque interiors in the city — and the collection covers Brazilian modernism with a strong Bahian focus.

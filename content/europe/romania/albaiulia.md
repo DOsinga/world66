@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cetatea_Alba_Carolina_Ansa
 latitude: 46.068275
 loc_type: city
 longitude: 23.566476
-score: 0.52
+score: 7.77
+snippet: Transylvanian city of Romanian unification, centred on the restored star-shaped
+  Alba Carolina Citadel
 title: Alba Iulia
 type: location
 ---

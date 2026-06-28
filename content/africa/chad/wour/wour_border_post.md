@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.9167
 longitude: 17.0833
+score: 3.4
 ---
 
 The Wour border post marks the frontier between Libya and Chad on one of the most remote trans-Saharan crossing routes in existence. This is not a crossing for the unprepared: the terrain is trackless desert, the infrastructure is non-existent, and the paperwork requirements are unpredictable. What you will find here is a cluster of buildings, a flag, and officials whose patience and goodwill you will need to cultivate carefully.

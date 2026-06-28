@@ -14,6 +14,7 @@ story: >
   largely destroyed.
 sources:
   - https://en.wikipedia.org/wiki/Gergeti_Trinity_Church
+score: 9.3
 ---
 
 The 14th-century Gergeti Trinity Church (Tsminda Sameba) sits on a hilltop at 2,170 metres with Mount Kazbek rising behind it — one of the most photographed images in the entire Caucasus. The medieval stone church is still an active place of worship, which means the interior is lit by candles and smells of incense rather than being dressed up for tourists.

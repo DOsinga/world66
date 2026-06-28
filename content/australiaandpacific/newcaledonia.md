@@ -1,21 +1,23 @@
 ---
-title: New Caledonia
-type: location
-latitude: -21.30199
-longitude: 165.488077
-image: newcaledonia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Vestiges_bagne_Prony.JPG
-image_license: FAL
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Roman.b" title="User:Roman.b">Roman.b</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "265,000"
-  Language: "French — limited English outside resorts"
-  Coral Lagoon: UNESCO-listed, one of world's largest
-  Nickel Reserves: "~25% of world's known supply"
-score: 0.62
+image: newcaledonia.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Roman.b" title="User:Roman.b">Roman.b</a>
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:Vestiges_bagne_Prony.JPG
+latitude: -21.30199
 loc_type: country
+longitude: 165.488077
+quick_facts:
+  Coral Lagoon: UNESCO-listed, one of world's largest
+  Language: French — limited English outside resorts
+  Nickel Reserves: ~25% of world's known supply
+  Population: 265,000
+score: 0.57
+snippet: French Pacific collectivity of Grande Terre, Kanak culture, nickel mountains,
+  and reef-ringed lagoons
+title: New Caledonia
+type: location
 ---
 
 New Caledonia is a French special collectivity in the southwest Pacific, roughly 1,500 km east of Australia. It consists of one large island — Grande Terre — and several smaller island groups: the Loyalty Islands (Lifou, Maré, Ouvéa), the Isle of Pines, and a handful of remote atolls. The total population is around 265,000.

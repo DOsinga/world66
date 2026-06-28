@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "Leafy waterfront suburb south of Battery Point — University of Tasmania, beaches, and the Wrest Point casino"
+score: 6.4
 ---
 
 The genteel waterfront suburb immediately south of Battery Point, climbing the slopes between the Derwent and the mountain. Sandy Bay is mostly residential — large weatherboard and Federation houses, gardens, and the **University of Tasmania** main campus. The **Sandy Bay Beach** at Long Beach is a sheltered swimming spot popular with locals on hot summer afternoons; **Nutgrove Beach**, further south, is a longer sandy stretch with a popular café.

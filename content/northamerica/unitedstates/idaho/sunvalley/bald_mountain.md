@@ -9,6 +9,7 @@ tags:
   - skiing
 story: >
   Sun Valley installed the world's first chairlift on Proctor Mountain in 1936, designed by Union Pacific engineer James Curran from a fruit-loading conveyor he had seen on banana boats in Honduras. The original idea was tested in summer with engineers riding past bunches of bananas to gauge the loading speed before snow had ever fallen on the route.
+score: 9.3
 ---
 
 Bald Mountain — Baldy to anyone who has skied it — is the reason Sun Valley exists. The peak rises 3,400 feet straight out of the valley floor, and the runs descend in long unbroken pitches rather than the rolling traverses of so many western resorts. There are no flat sections to skate through, no awkward cat tracks; you point your skis downhill and stay there for a long time.

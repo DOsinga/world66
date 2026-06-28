@@ -4,13 +4,13 @@ admission: €14 full; combined museum pass available
 latitude: 45.4339
 longitude: 12.34
 opening_hours: Daily 09:00–18:00 (19:00 in summer)
+score: 9.9
+snippet: Gothic seat of Venetian power with Tintoretto masterpieces
 tags:
 - things_to_do
 - san_marco
 - museum
 - palace
-snippet: Gothic seat of Venetian power with Tintoretto masterpieces
-neighbourhood: San Marco
 title: Doge's Palace
 type: poi
 url: www.visitmuve.it

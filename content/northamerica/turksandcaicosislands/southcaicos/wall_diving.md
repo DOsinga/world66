@@ -8,6 +8,7 @@ tags:
 - diving
 - sight
 snippet: The drop-off of the Turks Island Passage runs within a kilometre of shore, with vertical walls in clear blue water
+score: 9.0
 ---
 
 The **wall** — the edge of the Caicos Bank where the seabed drops from less than 20 metres to more than a kilometre — comes closer to the shore at South Caicos than at any other inhabited island in the territory. From January to April humpback whales pass through the Turks Island Passage and divers can sometimes hear them singing underwater. The rest of the year the wall offers reef sharks, turtles, eagle rays, schooling jacks, and a healthy variety of hard coral and giant sponges.

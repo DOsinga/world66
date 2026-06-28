@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.9350
 longitude: -110.9800
+score: 6.9
 ---
 
 Miramar beach at Bacochibampo Bay is the most accessible beach from Guaymas proper — a broad crescent of sand on a sheltered inlet framed by black volcanic rock formations and distant mountains. The water is calm and warm from spring through autumn, making it popular with families and a reliable swimming spot. The bay's sheltered position means it rarely gets the surf that makes some Sea of Cortez beaches difficult for young children.

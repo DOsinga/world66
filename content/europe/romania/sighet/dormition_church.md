@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 5.8
 ---
 
 The Romanian Orthodox church on Strada Dragoș Vodă is a short walk from the main square. The interior is painted floor to ceiling with traditional Byzantine iconography. The church is open for visits outside service times; bring modest dress.

@@ -7,6 +7,7 @@ tags:
   - religious
 latitude: 30.45192
 longitude: -91.18694
+score: 6.7
 ---
 
 St Joseph Cathedral on Main Street is the seat of the Roman Catholic Diocese of Baton Rouge, built in the 1850s in a Gothic Revival style and substantially renovated in the 20th century. The interior is notable for its stained glass windows and the high vaulted ceiling.

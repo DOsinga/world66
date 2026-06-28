@@ -1,6 +1,11 @@
 ---
+latitude: 12.23
+longitude: 124.46
+score: 5.8
 tags:
-- sights
+- things_to_do
+- sight
+- waterfall
 title: Tabokno Falls
 type: poi
 ---

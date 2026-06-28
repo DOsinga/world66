@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 49.4566
 longitude: -2.5331
+score: 7.8
 ---
 
 St Peter Port's harbour is one of the most attractive working waterfronts in the British Isles. Yachts crowd the marina, the ferry terminal connects to England and France, and the fishing boats that still work the channel tie up in the inner basin. The quayside cafés are good for watching the constant movement of boats and people.

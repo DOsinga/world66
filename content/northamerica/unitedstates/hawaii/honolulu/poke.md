@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Poke
 type: poi
+score: 7.2
 ---
 
 Poke (pronounced poh-KAY) is Hawaii's most successful culinary export — cubes of raw tuna or other fish dressed with soy sauce, sesame oil, green onion, and whatever the maker decides to add. In Honolulu it is as normal as sandwiches. Every supermarket sells it by the pound from a deli counter, and dedicated poke shops serve it over rice in bowls.

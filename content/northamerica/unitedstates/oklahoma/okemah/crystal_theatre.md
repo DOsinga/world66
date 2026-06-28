@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Crystal Theatre
 type: poi
+score: 7.8
 ---
 
 The Crystal Theatre on Broadway is the only intact pre-war theatre left in Okemah, and the centrepiece of the Woody Guthrie Folk Festival every July. The brick-and-stucco facade and the period marquee have been carefully preserved, and inside there is a single sloping floor of seats, a small stage, and excellent acoustics for an audience of about three hundred.

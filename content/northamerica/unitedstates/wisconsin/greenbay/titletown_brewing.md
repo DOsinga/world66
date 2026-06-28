@@ -8,6 +8,7 @@ tags:
 latitude: 44.5205
 longitude: -88.0195
 snippet: Brewpub in the old Chicago and Northwestern Railway depot building
+score: 6.8
 ---
 
 Titletown Brewing occupies one of the handsomest buildings in downtown Green Bay — the former Chicago and Northwestern Railway passenger depot, a 1898 Richardsonian Romanesque brick structure near the Fox River. The brewery makes a reliable range of ales and lagers, and the pub menu covers the usual brewpub territory with Wisconsin comfort food additions: cheese curds, Friday fish fry, bratwurst.

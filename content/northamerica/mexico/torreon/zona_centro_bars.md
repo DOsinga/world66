@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 25.541
 longitude: -103.412
+score: 5.9
 ---
 
 The Zona Centro comes alive on Friday and Saturday nights, when a cluster of bars along the central streets fill up with a mix of students, professionals, and locals who have been drinking here for decades. The soundtrack is norteño and banda — accordion-driven, bass-heavy, and played loud. Regional beers are cheap and cold, and the vibe is convivial rather than pretentious.

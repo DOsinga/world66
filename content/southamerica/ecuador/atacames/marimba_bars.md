@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 0.8560
 longitude: -79.8850
+score: 7.1
 ---
 
 The beachfront strip in Atacames — a row of open-sided thatched bars running for several hundred metres — is really the heart of the town's social life. By day it doubles as a restaurant row; by evening it transforms into a string of competing sound systems playing cumbia, reggaeton, and salsa at volumes that make conversation inadvisable.

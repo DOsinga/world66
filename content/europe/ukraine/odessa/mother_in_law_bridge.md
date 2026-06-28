@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mother-in-Law Bridge
 type: poi
+score: 5.2
 ---
 
 The Mother-in-Law Bridge (Tyoshchin Most) is a slender pedestrian footbridge suspended over a ravine at the edge of the city centre, offering one of the better views of Odessa's port and the sea beyond. Its informal name comes from a Soviet-era story: a local Communist Party official allegedly had the bridge built specifically so his wife could visit her mother without walking around the ravine.

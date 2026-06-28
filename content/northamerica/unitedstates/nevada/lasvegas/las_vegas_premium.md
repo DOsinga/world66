@@ -5,9 +5,11 @@ done:
 latitude: 36.164775
 longitude: -115.157648
 phone: 702-474-7500
+score: 3.8
 snippet: Huge outdoor outlet mall with designer brands at deep discounts
 tags:
 - shopping
+- downtown
 title: Las Vegas Premium Outlets
 type: poi
 url: www.premiumoutlets.com

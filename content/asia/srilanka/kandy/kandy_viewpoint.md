@@ -13,6 +13,7 @@ story: >
   African countries. From this particular Arthur's Seat, the view is over the Kandyan hills
   rather than the Firth of Forth, which the Victorian soldiers posted here presumably thought
   was an improvement.
+score: 6.6
 ---
 
 Arthur's Seat, on the ridge north of Kandy, offers one of the classic panoramic views over the city and its surrounding hills. The viewpoint is best in the early morning before the valley fills with haze, and at dusk when the lights come on across the city. A road leads up from the town centre; the drive takes about fifteen minutes, or you can walk via the Udawattakele Forest Reserve.

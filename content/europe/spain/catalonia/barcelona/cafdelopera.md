@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.3808
 longitude: 2.1741
+score: 6.2
 snippet: Stylish art-nouveau cafe on the Ramblas opposite the Liceu
 tags:
 - bars_and_cafes
+- gothic_quarter
 title: Café de L'Opera
 type: poi
 ---

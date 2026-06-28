@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Mutare_Area,_Zimbabwe.jpg
 latitude: -18.974656
 loc_type: city
 longitude: 32.670473
-score: 0.36
+score: 6.87
 title: Mutare
 type: location
+snippet: Eastern Highlands city near Mozambique, set in a mountain valley and used
+  as a birding base.
 ---
 
 Mutare is the largest town in Zimbabwe's Eastern Highlands, situated in a narrow valley near the Mozambique border with forested mountains rising on all sides. It is the commercial centre for the region and a practical base for exploring some of Zimbabwe's most spectacular highland scenery. The Eastern Highlands as a whole are among the best birdwatching destinations in southern Africa and among the least visited.

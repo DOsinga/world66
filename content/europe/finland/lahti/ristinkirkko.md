@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Ristinkirkko was Alvar Aalto's last major building, designed in 1969 and completed in 1978, two years after the architect's death. The hovering white concrete cross above the altar — visible from every seat in the asymmetric fan-shaped nave — gives the church its name."
+score: 8.2
 ---
 
 Alvar Aalto's Church of the Cross is one of the more interesting modern churches in Finland — a white asymmetric building with a sweeping curved roof and an interior dominated by a free-standing concrete cross that appears to hover above the altar.

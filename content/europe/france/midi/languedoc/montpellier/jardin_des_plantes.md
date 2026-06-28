@@ -9,6 +9,7 @@ tags:
 - garden
 title: Jardin des Plantes
 type: poi
+score: 8.0
 ---
 
 A small green oasis just north of the medieval town, established in 1593 to grow medicinal plants for Montpellier's famous medical school. It is the oldest botanical garden in France. The collection includes a venerable **ginkgo biloba** planted in 1795, hothouses of exotic species, an English-style garden, and a still-functioning system of 17th-century terraces.

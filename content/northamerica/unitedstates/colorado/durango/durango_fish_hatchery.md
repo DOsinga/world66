@@ -6,6 +6,7 @@ longitude: -107.8753
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 A working Colorado Parks and Wildlife trout hatchery on the river just north of downtown. Free, open year-round, and surprisingly engaging — concrete raceways hold rainbow, brown, cutthroat and brook trout at every stage from fingerling to brood stock.

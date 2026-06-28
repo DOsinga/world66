@@ -11,6 +11,7 @@ story: >
   Meissen Cathedral contains the oldest surviving porcelain figures in the world — a set of figures produced by the Meissen manufactory in the 1720s and installed in the cathedral as a demonstration of the new medium's possibilities. They remain in the choir, alongside Gothic altarpieces that predate the porcelain era by two centuries.
 sources:
   - https://en.wikipedia.org/wiki/Meissen_Cathedral
+score: 8.6
 ---
 
 Meissen Cathedral (Dom zu Meissen) is a Gothic hall church sitting directly beside the Albrechtsburg on the city's hilltop. Construction began in the thirteenth century and continued through the fifteenth, which accounts for the mixture of early Gothic nave and the more decorated late Gothic choir. The west towers, never completed in the medieval period, were finally finished in Gothic Revival style in the nineteenth century.

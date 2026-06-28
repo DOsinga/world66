@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2532
 longitude: -81.1583
+score: 8.0
 ---
 
 The Schiele Museum of Natural History is one of the best natural history museums in the Carolina Piedmont, with exhibits on the regional geology, wildlife, and Native American cultures of the Southeast. The centerpiece is a life-size replica of a Catawba Indian village, which occupied this river country for thousands of years before European settlement. Full-size reconstructed frontier buildings and a living history area round out the outdoor exhibits.

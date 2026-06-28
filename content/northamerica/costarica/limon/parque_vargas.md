@@ -7,6 +7,7 @@ tags:
 latitude: 9.9919
 longitude: -83.0317
 story: "Look up into the royal palms in the late afternoon and you will often see two-toed and three-toed sloths moving slowly between the fronds — wild, but utterly used to the city below."
+score: 6.8
 ---
 
 Parque Vargas runs along the seafront at the eastern edge of the town centre, hemmed in by the old sea wall on one side and the city's grid of low buildings on the other. The planting is the point: tall royal palms, almond trees, and dense tropical foliage that genuinely shelters wildlife — sloths overhead, agoutis on the ground, and a constant turnover of birds.

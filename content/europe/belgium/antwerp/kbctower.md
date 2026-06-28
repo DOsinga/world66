@@ -9,6 +9,7 @@ tags:
 - architecture
 title: KBC Tower
 type: poi
+score: 7.0
 ---
 
 The KBC Tower — better known locally as the *Boerentoren* (Farmer's Tower) — was the first skyscraper built in Europe when it went up in 1930. The nickname comes from the bank that commissioned it, which was originally a farmers' cooperative. Standing 87 metres tall in Art Deco style, it still dominates the Antwerp skyline along the Meir shopping street.

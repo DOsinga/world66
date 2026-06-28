@@ -8,6 +8,7 @@ tags:
   - bastide_saint_louis
   - sight
 neighbourhood: Bastide Saint-Louis
+score: 6.4
 ---
 
 Place Carnot is the central square of the Bastide and the obvious place to sit down. It has the original arcaded houses on at least one side, a baroque fountain of Neptune in the middle (1770), and a market on Tuesdays, Thursdays, and Saturdays.

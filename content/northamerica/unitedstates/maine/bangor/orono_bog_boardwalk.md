@@ -9,6 +9,7 @@ story: >
   Peatlands like this one accumulate organic matter over thousands of years — the peat
   beneath the boardwalk is over 10,000 years old. The ecosystem supports plants found
   nowhere else in Maine, including several species of carnivorous sundew.
+score: 7.6
 ---
 
 The Orono Bog Boardwalk is a 4,200-foot wooden walkway that leads through a peatland ecosystem about 10 minutes north of downtown Bangor, near the University of Maine campus. The bog would be entirely inaccessible on foot without the boardwalk — the sphagnum moss that forms the surface looks solid but is essentially floating on water.

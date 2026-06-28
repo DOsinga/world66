@@ -7,6 +7,7 @@ tags:
 - museum
 title: Archaeological Museum of Ioannina
 type: poi
+score: 7.8
 ---
 
 The regional Archaeological Museum, in a modernist building set inside Litharitsa Park, holds finds from sites across Epirus. The collection covers the prehistoric, classical, Hellenistic, Roman, and early Byzantine periods, with strong material from the oracle sanctuary at **Dodona** — bronze tripods, votive offerings, and an extraordinary set of inscribed lead tablets used to consult the oracle.

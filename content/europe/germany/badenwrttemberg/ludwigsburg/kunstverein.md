@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, museum]
 latitude: 48.8964
 longitude: 9.1918
+score: 6.2
 ---
 
 The Kunstverein Ludwigsburg, a long-running independent contemporary art association founded in 1979, runs an exhibition space and project programme in the old town. Shows rotate every few months and tend to focus on emerging German and international artists working in painting, sculpture, and installation.

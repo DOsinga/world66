@@ -6,6 +6,7 @@ tags:
 - bar
 title: Good View Bar and Restaurant
 type: poi
+score: 5.8
 ---
 
 Good View is one of the oldest and most popular riverside venues in Chiang Mai, spread across a large open-air terrace on the east bank of the Ping River. Live music — usually Thai rock, pop, or covers — plays most evenings, and the atmosphere is cheerful without being overwhelming.

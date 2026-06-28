@@ -7,6 +7,7 @@ latitude: -6.705
 longitude: -79.8994
 story: >
   The Lord of Sipán's tomb was discovered in 1987 by archaeologist Walter Alva after looters had already begun tunnelling into Huaca Rajada nearby. A guard was shot dead defending the site. Alva arrived with police and began one of the most important excavations in South American history — finding not just the lord's body but his warrior-guards, buried with their feet amputated so they could never abandon their post in the afterlife.
+score: 9.4
 ---
 
 The Museo Tumbas Reales de Sipán is one of Peru's finest museums, purpose-built to display the extraordinary treasures excavated from the nearby tomb of the Lord of Sipán, a Moche ruler buried around 250 AD. The gold death mask, turquoise-inlaid ear ornaments, and elaborate ceremonial regalia are breathtaking in their craftsmanship and sheer quantity.

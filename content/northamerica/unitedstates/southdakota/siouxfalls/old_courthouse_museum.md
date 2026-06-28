@@ -7,6 +7,7 @@ tags:
 latitude: 43.5469
 longitude: -96.7276
 snippet: "1890 Romanesque Revival courthouse with local history exhibits"
+score: 8.3
 ---
 
 The Minnehaha County Courthouse, completed in 1890, is one of the finest Romanesque Revival buildings in the upper Midwest — a massive pink quartzite pile with a corner tower and elaborate stone carving. It served as the county courthouse until 1962, then became a history museum.

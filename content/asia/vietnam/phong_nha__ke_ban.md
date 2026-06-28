@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cueva_Para%C3%ADso,_Parque
 latitude: 17.5553
 loc_type: city
 longitude: 106.1123
-score: 0.7
+score: 9.13
+snippet: Central Vietnamese national park in Quang Binh, famous for vast limestone
+  caves including Son Doong.
 title: Phong Nha - Ke Bang
 type: location
 ---

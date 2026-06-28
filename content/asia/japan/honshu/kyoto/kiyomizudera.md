@@ -1,13 +1,20 @@
 ---
 latitude: 34.9949
 longitude: 135.7851
-snippet: Hillside temple on a vast wooden platform, with one of Kyoto's best city views
-story: The main hall sits on 168 wooden pillars rising thirteen metres above the slope, all assembled without a single nail. In the Edo period, an Osaka legal expression — "to jump from the stage of Kiyomizu" — meant to commit oneself to a desperate course of action. Records show 234 people actually did jump between 1694 and 1864; eighty-five per cent survived.
+score: 9.5
+snippet: Hillside temple on a vast wooden platform, with one of Kyoto's best city
+  views
+story: The main hall sits on 168 wooden pillars rising thirteen metres above the slope,
+  all assembled without a single nail. In the Edo period, an Osaka legal expression
+  — "to jump from the stage of Kiyomizu" — meant to commit oneself to a desperate
+  course of action. Records show 234 people actually did jump between 1694 and 1864;
+  eighty-five per cent survived.
 tags:
 - things_to_do
 - temple
 - unesco
 - sight
+- higashiyama
 title: Kiyomizu-dera
 type: poi
 ---

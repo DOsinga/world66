@@ -10,6 +10,7 @@ latitude: 12.1420
 longitude: -86.2560
 story: >
   The Mercado Oriental grew spontaneously after the 1972 earthquake destroyed the old city centre. With no government plan for rebuilding, vendors simply set up stalls on the cleared land and kept expanding. Fifty years later, it covers dozens of city blocks and is estimated to employ tens of thousands of people — a city within a city that emerged entirely from the ground up.
+score: 8.3
 ---
 
 The Mercado Oriental is reputedly the largest market in Central America, a vast, dense, largely covered labyrinth occupying dozens of city blocks east of the old centre. It sells everything imaginable — fresh produce, live animals, electronics, car parts, pirated DVDs, traditional medicine, clothing, and hardware — in a chaotic and often overwhelming sensory experience.

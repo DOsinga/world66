@@ -12,6 +12,7 @@ story: >
   the Cabinet Room of this building on 19 July 1947, along with six members of
   his cabinet. He was 32 years old, and independence was less than a year away.
   The date is still marked as Martyrs' Day, a public holiday in Myanmar.
+score: 8.4
 ---
 
 The Secretariat is the most historically significant building in downtown Yangon — a vast red-brick complex built in 1905 to house the colonial government of Burma. After independence it became the seat of the Burmese government until the capital moved to Naypyidaw in 2006.

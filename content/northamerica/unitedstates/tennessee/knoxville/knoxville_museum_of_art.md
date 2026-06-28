@@ -6,6 +6,7 @@ latitude: 35.9625
 longitude: -83.9253
 sources:
   - https://en.wikipedia.org/wiki/Knoxville_Museum_of_Art
+score: 7.2
 ---
 
 The Knoxville Museum of Art sits at the edge of World's Fair Park, in a building designed by Edward Larrabee Barnes with a distinctive pink Tennessee marble facade. The permanent collection focuses on contemporary and modern art, with a particular strength in works by Appalachian and Tennessee artists. The Richard Jolley Cycle of Life gallery, a cathedral-like room filled with Jolley's large-scale glass sculptures, is the standout installation.

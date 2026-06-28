@@ -11,6 +11,7 @@ story: >
   Saddar Cave is walked through from one side to the other — you enter through the mouth on the hill, pass through a kilometre of chambers filled with Buddha statues and stalactites, and emerge at the far end onto a lagoon fringed with palms and rice paddies. In the dry season, boats wait at the lagoon to ferry visitors back around the hill to the entrance. In the wet season, the lagoon can be walked around, and the surrounding paddies are flooded and green.
 sources:
   - https://en.wikipedia.org/wiki/Saddan_Cave
+score: 9.4
 ---
 
 Saddar Cave (also written Saddan) is the largest and most atmospheric of the cave pagodas around Hpa-an, about 25 kilometres south of town on the way to the Kayin coast. The cave itself is vast — a series of cathedral-sized chambers where the ceilings retreat into darkness far above and Buddha images of all sizes line the walls and floor. Light enters through holes in the rock at several points, creating shafts of illumination in the gloom.

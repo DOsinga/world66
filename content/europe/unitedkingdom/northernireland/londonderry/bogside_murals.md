@@ -14,6 +14,7 @@ story: >
   funded the project themselves and worked without payment. The most reproduced
   image — "Bloody Sunday," showing a crowd carrying a casualty — has become
   one of the most recognisable political artworks in the world.
+score: 8.8
 ---
 
 The Bogside murals — formally called the People's Gallery — are twelve large-scale paintings on the gable ends of houses along Rossville Street below the city walls. They depict key events in the history of the civil rights movement and the conflict, from the civil rights marches of the late 1960s to Bloody Sunday, from the hunger strikes to the peace process.

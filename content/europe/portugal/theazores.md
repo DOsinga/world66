@@ -5,8 +5,14 @@ latitude: 37.7463
 loc_type: region
 longitude: -25.6629
 score: 0.74
+snippet: Remote Portuguese Atlantic archipelago of volcanic islands, crater lakes,
+  hot springs, and whale waters.
 title: The Azores
 type: location
+image: theazores.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Fogo_lake_-_S.Miguel_island_-_Azores_(39000072215)_(cropped).jpg
+image_license: CC BY 2.0
+image_attribution: Luis Ascenso from Lisbon, Portugal
 ---
 
 The Azores are nine volcanic islands in the middle of the Atlantic, 1,500 kilometres west of Lisbon, and they feel genuinely remote. Green hills drop sharply into a dark ocean. Calderas hold twin lakes of different colours. Hot springs bubble up through the ground. Sperm whales feed offshore. It is one of the most striking landscapes in Europe, and one of the most undervisited.

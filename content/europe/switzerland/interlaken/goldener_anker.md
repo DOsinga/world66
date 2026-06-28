@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Restaurant Goldener Anker
 type: poi
+score: 6.9
 ---
 
 The Goldener Anker sits in the old market square in Unterseen, across the river from Interlaken proper, in a building that has been feeding people since the 14th century. The menu is unapologetically traditional: cheese fondue, raclette, rösti in several variations, lake fish from Thun and Brienz, and cuts of beef and veal from Bernese farms. The wine list leans on Swiss cantons that don't get enough international attention.

@@ -10,6 +10,7 @@ longitude: -92.125
 address: "250 Richland Place, Monroe, LA"
 phone: "+1 318-387-1114"
 snippet: "Cypress-and-tupelo wetland refuge with birdwatching and paddling just north of Monroe"
+score: 8.2
 ---
 
 Black Bayou Lake National Wildlife Refuge sits about 8 miles north of Monroe, protecting 4,500 acres of cypress-tupelo swamp, hardwood bottomland, and open water that are characteristic of the Ouachita River flood plain. The refuge is managed primarily for wintering waterfowl but draws year-round visitors for birdwatching, paddling, and wildlife photography.

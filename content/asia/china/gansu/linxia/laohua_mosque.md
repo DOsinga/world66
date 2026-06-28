@@ -13,6 +13,7 @@ story: >
   Persian texts carried their learning to Sufi communities across Gansu and Qinghai —
   one reason Linxia became known, among Chinese Muslims, as a city of religious learning
   as much as commerce.
+score: 6.8
 ---
 
 The Laohua Mosque is one of the oldest religious foundations in Linxia and represents the mainstream Sunni Hanafi tradition that predominates among the Hui. The building sits in a quieter part of the city, west of the main bazaar, and retains a more traditional Chinese mosque form than some of the newer structures — timber-framed halls set around a long rectangular courtyard, with a minaret that has been rebuilt in a more Central Asian style in recent decades.

@@ -15,6 +15,7 @@ tags:
   - sight
 title: The Lower City
 type: poi
+score: 9.3
 ---
 
 East of the Citadel, the Lower City is where the residents of Moenjodaro lived and worked. The excavated streets reveal a planned grid — broad main streets and narrower lanes — lined with fired-brick houses. Many walls still stand to head height. The most striking feature is the drainage system: covered brick drains beneath every street, connected to household drains from each building. This was a city with functioning sanitation in 2500 BC.

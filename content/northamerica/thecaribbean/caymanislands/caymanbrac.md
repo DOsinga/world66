@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cayman_Brac_Watering_Place
 latitude: 19.72
 loc_type: island
 longitude: -79.8
+score: 8.47
+snippet: Limestone Cayman island with caves, cliff trails, rock climbing, and the
+  43-metre Bluff.
 sources:
 - https://en.wikipedia.org/wiki/Cayman_Brac
 - https://en.wikipedia.org/wiki/The_Bluff_(Cayman_Islands)

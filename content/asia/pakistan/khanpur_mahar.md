@@ -5,7 +5,9 @@ done:
 latitude: 28.1
 loc_type: city
 longitude: 69.44
-score: 0.22
+score: 4.31
+snippet: Sindh agricultural city in fertile Ghotki District, tied to sugarcane, cotton,
+  and the Qadirpur gas field.
 title: Khanpur Mahar
 type: location
 ---

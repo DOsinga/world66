@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 52.6499
 longitude: -1.1207
+score: 6.3
 ---
 
 A small Georgian manor house in the Belgrave suburb, built in 1709 and now a free museum of 18th- and 19th-century domestic life. The house is presented as it would have appeared in different periods, with period furniture, kitchen equipment, and costume pieces helping to show how people of the prosperous merchant class lived.

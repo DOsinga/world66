@@ -7,10 +7,12 @@ image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Les_Chutes_de_Boali_001.jpg
 latitude: 4.8
 longitude: 18.1167
-score: 0.24
+score: 4.81
 title: Boali
 type: location
 loc_type: feature
+snippet: Small town northwest of Bangui, known for the broad Chutes de Boali waterfall
+  on the Mbali River.
 ---
 
 Boali is a small town about 100 kilometres northwest of [Bangui](/africa/centralafricanrepublic/bangui), known almost entirely for the Chutes de Boali — a broad, powerful waterfall on the Mbali River that drops roughly 50 metres over a wide basalt ledge. It is one of the few developed tourist sites in the Central African Republic and, in calmer times, the most popular day trip from the capital.

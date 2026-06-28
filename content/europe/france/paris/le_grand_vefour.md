@@ -14,6 +14,7 @@ tags:
 title: Le Grand Véfour
 type: poi
 url: www.grand-vefour.com
+score: 7.4
 ---
 
 Le Grand Véfour occupies one of the most beautiful dining rooms in Paris: a restored Empire-period interior beneath the arcades of the Palais-Royal, with painted glass panels, gilded columns, and upholstered banquettes that have accommodated Napoleon, Victor Hugo, and Colette. The room alone justifies the visit.

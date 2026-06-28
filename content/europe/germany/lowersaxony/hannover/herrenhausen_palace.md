@@ -9,6 +9,7 @@ tags:
 latitude: 52.3914
 longitude: 9.6964
 snippet: Reconstructed summer palace at the head of the Grosser Garten
+score: 7.2
 ---
 
 The summer residence of the Hanoverian electors, originally built in the 17th century and destroyed in 1943. Berlin philanthropist Volkswagen Stiftung paid for its reconstruction, finished in 2013 — a stripped-down neoclassical box that fills the silhouette of the original without claiming to be a copy.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The mosque is called the "Barber's Mosque" because it houses the tomb of Abu Zamaa al-Balawi, one of the companions of the Prophet Muhammad, who reportedly kept three hairs from the Prophet's beard in a locket around his neck. The complex has been a pilgrimage destination since the 7th century, which makes it one of the oldest continuously visited shrines in North Africa.
+score: 8.7
 ---
 
 The Zaouia of Sidi Sahab — popularly known as the Barber's Mosque — is a 17th-century religious complex containing the tomb of Abu Zamaa al-Balawi, a companion of the Prophet Muhammad. It is one of the most important pilgrimage sites in Tunisia and one of the most visually spectacular buildings in Kairouan.

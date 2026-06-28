@@ -8,6 +8,7 @@ snippet: "Chile's oldest national park, with waterfalls and an emerald-green lak
 latitude: -41.08000
 longitude: -72.32000
 story: "The park was created in 1926, making it Chile's oldest national park, after the local landowner Vicente Pérez Rosales lobbied the government to protect the area. It now stretches across 2,500 square kilometres up to the Argentine border and includes Volcán Osorno, the Petrohué waterfalls, and Lago Todos los Santos."
+score: 8.9
 ---
 
 Chile's oldest and one of its most visited national parks lies an hour's drive east of Puerto Varas. The two main attractions are the Petrohué waterfalls — a series of chutes where the Río Petrohué tears through black volcanic rock — and the emerald-green Lago Todos los Santos, the most photographed lake in southern Chile.

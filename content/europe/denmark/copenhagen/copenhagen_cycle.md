@@ -1,9 +1,13 @@
 ---
-title: Cycling in Copenhagen
-type: poi
-tags: [things_to_do, sight]
 latitude: 55.6761
 longitude: 12.5683
+score: 8.7
+tags:
+- things_to_do
+- sight
+- indre_by
+title: Cycling in Copenhagen
+type: poi
 ---
 
 Copenhagen has the world's most functional urban cycling infrastructure. Around 62 percent of residents commute to work or school by bicycle every day — not as a lifestyle statement but as the most convenient way to get around. The city has over 400 kilometres of dedicated cycle lanes, and the traffic system is designed to prioritise bicycles over cars.

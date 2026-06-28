@@ -8,6 +8,7 @@ tags:
   - sight
   - monument
 snippet: The spring where William's mother Arlette is said to have caught Robert the Duke's eye
+score: 4.8
 ---
 
 At the foot of the castle rock, a small spring known as the Fontaine d'Arlette marks the spot where, according to Norman tradition, Duke Robert I first saw Herleva (called Arlette in the later chronicles) washing linen. She was the daughter of a local tanner; he was the ruler of Normandy. Their liaison produced William, who would become Duke of Normandy and later King of England.

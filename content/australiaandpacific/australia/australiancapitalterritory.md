@@ -1,7 +1,8 @@
 ---
-title: "Australian Capital Territory"
+title: Australian Capital Territory
 type: location
 loc_type: region
+snippet: Small Australian enclave built for Canberra, with planned capital avenues and bushland national parks.
 latitude: -35.4735
 longitude: 149.0124
 ---

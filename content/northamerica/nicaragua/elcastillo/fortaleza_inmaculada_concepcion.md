@@ -12,6 +12,7 @@ story: "In 1762, British forces seized the fort in a surprise attack during the 
 sources:
   - https://en.wikipedia.org/wiki/El_Castillo_(village)
   - https://en.wikipedia.org/wiki/San_Juan_Expedition_(1780)
+score: 8.8
 ---
 
 The Fortaleza de la Inmaculada Concepción is the reason El Castillo exists. Built by the Spanish in 1675 on a rocky bluff above the Río San Juan, the fort was designed to stop buccaneers and rival colonial powers from using the river as a back door to Granada and the riches of the interior. It worked — mostly. The battlements command a sweeping bend in the river, giving defenders sight lines over the approach in both directions.

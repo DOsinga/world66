@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: The essential introduction to Sukhothai's art and history, just inside the historical park's main gate.
+score: 7.8
 ---
 
 The Ramkhamhaeng National Museum sits a few metres inside the eastern gate of the central zone and is the best place to start a visit to the park. Opened in 1964 and named for the great Sukhothai king, it collects the finest individual sculptures recovered from the surrounding monuments — including bronze walking Buddhas, terracotta architectural ornament, glazed celadon from the Si Satchanalai kilns, and a copy of the famous Ramkhamhaeng stele (the original is in the Bangkok National Museum).

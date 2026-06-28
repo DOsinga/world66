@@ -15,6 +15,7 @@ story: >
   and shot for failing to relieve it. The satirist Voltaire used the execution as
   the basis for his famous line in Candide: "In this country, it is wise to kill
   an admiral from time to time, to encourage the others."
+score: 7.3
 ---
 
 Fort Marlborough stands on a promontory on the south shore of Maó harbour, one of the most complete examples of early 18th-century British military engineering in Europe. Built from 1710 on the site of an earlier Spanish fortification, it is a star-shaped structure of local limestone with underground galleries, a dry moat, and a sea-facing battery. The fort was designed to prevent enemy ships from entering the harbour; it changed hands between the British, French, and Spanish several times during the wars of the 18th century.

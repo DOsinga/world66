@@ -12,6 +12,7 @@ story: >
   building's longevity makes it something of an exhibit in itself: most of medieval and early
   modern Caen was destroyed at one point or another, and a structure that has been standing
   continuously since the 1640s is a rarity in this city.
+score: 7.3
 ---
 
 The Musée de Normandie covers the archaeology and ethnography of the Normandy region from prehistoric times through the 20th century. It's a quieter and more focused museum than the Beaux-Arts next door, and well worth an hour for anyone interested in the region's history beyond the Second World War.

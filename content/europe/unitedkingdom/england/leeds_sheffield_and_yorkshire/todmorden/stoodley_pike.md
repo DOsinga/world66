@@ -15,6 +15,7 @@ story: >
   in London at the start of the Crimean War in 1854 — a coincidence locals found
   grimly appropriate — and was rebuilt and completed in 1856 to mark the end of
   that conflict. The hollow interior can be climbed via a spiral staircase.
+score: 8.4
 ---
 
 Stoodley Pike is the landmark that dominates the skyline east of Todmorden — a 120-foot obelisk perched at 1,300 feet on the open moorland of the South Pennines. The walk up from the town takes about an hour and a half each way, passing through the hamlet of Mankinholes and following the Pennine Way for part of the route. On clear days the views stretch across to the Lancashire lowlands one way and deep into Yorkshire the other.

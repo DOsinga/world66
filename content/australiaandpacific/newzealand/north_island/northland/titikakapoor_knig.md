@@ -2,10 +2,16 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
+image: titikakapoor_knig.jpg
+image_attribution: Pseudopanax at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Tutukaka_marina.jpg
 latitude: -35.62
 loc_type: city
 longitude: 174.5367
-score: 0.6
+score: 8.28
+snippet: Tiny Northland harbour settlement and launch point for diving the marine
+  reserve around the Poor Knights.
 title: Tutukaka / Poor Knights
 type: location
 ---

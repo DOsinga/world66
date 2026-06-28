@@ -9,6 +9,7 @@ latitude: 31.4187
 longitude: 73.0791
 story: >
   The eight bazaars radiating from the clock tower were laid out deliberately in the shape of the Union Jack — a piece of British imperial symbolism that Faisalabad's planners apparently found appropriate for a city named after the Lieutenant Governor of Punjab. The city has long since moved on, but the Union Jack street pattern remains visible on maps and from above, almost 120 years later.
+score: 8.5
 ---
 
 The clock tower — Ghanta Ghar — is the defining landmark of Faisalabad and the hub of its historic bazaar district. Built in 1905 during the British Raj by the architect Sir Ganga Ram, it stands at the centre of eight radiating markets arranged in a pattern that, viewed from above, resembles the Union Jack. Each of the eight bazaars specialises in different goods: cloth and textiles in some, spices and food in others, metalwork, jewellery, grain, and household goods in the rest.

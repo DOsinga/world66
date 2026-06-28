@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Genova%60s_Fortresss,_Suda
 latitude: 44.8488
 loc_type: city
 longitude: 34.9711
-score: 0.41
+score: 7.02
+snippet: Crimean Black Sea resort town beneath a Genoese fortress, with ancient trade
+  history and wine valleys
 title: Sudak
 type: location
 ---

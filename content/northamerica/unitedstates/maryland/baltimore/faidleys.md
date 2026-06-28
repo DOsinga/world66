@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 39.2963
 longitude: -76.6245
+score: 7.7
 ---
 
 Faidley's Seafood at Lexington Market is the most famous crab cake counter in Baltimore, which is to say it sells what many consider the best crab cake in a city that takes crab cakes very seriously. The market stall has been operating since 1886. The crab cake is a large, barely-held-together patry of backfin lump crab meat with almost no filler — the way Baltimore people insist crab cakes should be.

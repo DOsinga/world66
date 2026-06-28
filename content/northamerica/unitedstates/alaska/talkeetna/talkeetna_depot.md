@@ -10,6 +10,7 @@ longitude: -150.1116
 sources:
   - https://en.wikipedia.org/wiki/Talkeetna_Depot
 snippet: Alaska Railroad stop serving the Denali Star and Aurora Winter Train
+score: 6.4
 ---
 
 The Alaska Railroad depot sits at the end of the Talkeetna Spur Road and serves two routes: the Denali Star (Anchorage to Fairbanks, running daily in summer) and the Aurora Winter Train (weekend service in winter). It is the most comfortable and scenic way to arrive from Anchorage, taking around three hours through wilderness that the road does not show you.

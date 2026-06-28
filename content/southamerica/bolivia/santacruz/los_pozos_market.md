@@ -7,6 +7,7 @@ tags:
 latitude: -17.7820
 longitude: -63.1738
 snippet: Big working market with cheap regional food upstairs
+score: 7.5
 ---
 
 Mercado Los Pozos is the city's main covered market — a sprawling warren of stalls a few blocks east of the centre, selling everything from tropical fruit and meat to plastic toys and Bolivian-made clothes. For travellers the upstairs food court is the reason to come: rows of open kitchens cooking surubí (river catfish), majadito (rice and dried beef), pacumutu (skewered beef), and other Beni and cruceño specialities.

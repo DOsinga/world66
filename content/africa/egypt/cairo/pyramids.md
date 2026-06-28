@@ -3,10 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 29.970781
 longitude: 31.124233
+score: 10.0
 snippet: The Great Pyramids and Sphinx at the edge of Cairo's desert
 tags:
-- things_to_do
-- landmark
+- day_trips
+- giza
 title: Pyramids of Giza
 type: poi
 ---

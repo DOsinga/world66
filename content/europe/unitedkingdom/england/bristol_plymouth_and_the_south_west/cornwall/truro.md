@@ -8,8 +8,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:1_Prince%27s_Street,_Truro.jpg
 latitude: 50.263335
 loc_type: city
+snippet: Cornwall's only city, set on a tidal river and anchored by a three-spired
+  cathedral
 longitude: -5.051078
-score: 0.55
+score: 7.82
 sources:
 - https://en.wikipedia.org/wiki/Truro
 - https://en.wikipedia.org/wiki/Truro_Cathedral

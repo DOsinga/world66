@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Zinder_Mosque
 story: >
   The original Zinder Mosque was a 19th-century mudbrick structure built in the Sudano-Sahelian style, with characteristic protruding wooden beams and a distinctive tower. The French colonial administration significantly altered the building in the early 20th century. The site remains a place of active worship, and the layers of construction — traditional Hausa foundations beneath French-era modifications — tell the compressed history of Zinder's colonial transformation in concrete form.
+score: 6.4
 ---
 
 The Zinder Mosque, located in the southern part of the city near Zinder I commune, marks one of the oldest places of Islamic worship in this region. The original structure dates to the 19th century, built in the earthen Sudano-Sahelian tradition characteristic of Hausa religious architecture — the same style visible in the Grande Mosquée and throughout the Birnin quarter.

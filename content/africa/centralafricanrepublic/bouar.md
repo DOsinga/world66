@@ -5,7 +5,9 @@ done:
 latitude: 5.95
 loc_type: city
 longitude: 15.6
-score: 0.18
+score: 4.35
+snippet: Central African town near Cameroon, noted for ancient granite megaliths in
+  surrounding grasslands.
 title: Bouar
 type: location
 ---

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, outdoor]
 latitude: -7.3150
 longitude: 109.2240
+score: 5.2
 ---
 
 Baturraden Adventure Forest (BAF) is an outdoor activity park set in the montane forest above the main Baturraden resort area, at around 800–900 metres on the slopes of Mount Slamet. It offers zip lines of varying lengths through the forest canopy, tree-walk platforms, abseiling, and guided nature trails that pass through stands of pine and tropical montane woodland. The park is run commercially and caters primarily to school groups and domestic tourists looking for something more active than the hot springs.

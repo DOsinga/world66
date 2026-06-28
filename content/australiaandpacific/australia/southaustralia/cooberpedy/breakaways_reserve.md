@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The Breakaways are flat-topped mesas left when softer surrounding rock eroded away from a former inland sea bed. The two largest, named Salt and Pepper and the Castle by miners, sit a few hundred metres apart and are the most photographed landforms in central South Australia outside Uluru."
+score: 8.9
 ---
 
 The Breakaways Reserve, about 30 km north of Coober Pedy, is the essential half-day trip from town. A loop track of unsealed but normally car-passable road takes you through about 27 square kilometres of multi-coloured mesas, painted desert hills, and salt-pan plains. There are several signed viewpoints; sunrise and late afternoon are when the colour really comes alive.

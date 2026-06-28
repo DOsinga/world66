@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Every December, the hillside vineyards above Manarola are decorated with a large-scale nativity scene made from recycled materials — thousands of figurines covering the terraces, lit up at night. Started in 1961 by a railway worker named Mario Andreoli, the presepe (nativity) now has 300 illuminated figurines and draws visitors from across Italy during the Christmas season."
+score: 8.9
 ---
 
 Manarola is one of the oldest of the Cinque Terre villages and one of the most photographed, particularly at sunrise when the pastel-coloured houses reflect in the harbour water. The village clusters up a narrow rocky inlet; the houses are tall and tightly packed, and a single main street runs down to the small boat harbour. The Church of San Lorenzo, dating from 1338, stands at the top of the village.

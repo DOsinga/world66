@@ -1,11 +1,13 @@
 ---
 latitude: 35.0167
 longitude: 135.6783
+score: 6.5
 snippet: Scenic seven-kilometre vintage train through the Hozu River gorge
 tags:
 - things_to_do
 - train
 - sight
+- arashiyama
 title: Sagano Scenic Railway
 type: poi
 ---

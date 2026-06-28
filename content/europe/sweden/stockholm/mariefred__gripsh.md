@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Mariefred & Gripsholms slott
 type: poi
+score: 7.8
 ---
 
 Mariefred is a small town on Lake Mälaren, about an hour west of Stockholm, best known for Gripsholm Castle — a well-preserved Renaissance fortress with a portrait collection spanning five centuries. The castle sits right on the water and the surrounding streets are full of wooden houses, cafes, and antique shops.

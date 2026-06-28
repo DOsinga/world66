@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 68.15181567
 longitude: 14.19833511
+score: 6.2
 ---
 
 The white wooden church on Heimøya island is a modest but striking building that fits its surroundings precisely — white walls, simple lines, the sea pressing in close. There has been a chapel here since 1852, when a local landowner donated the land; the current structure dates from 1974, designed by architect Odd Storm.

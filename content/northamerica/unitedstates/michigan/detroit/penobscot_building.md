@@ -12,6 +12,7 @@ tags:
 neighbourhood: Downtown
 title: Penobscot Building
 type: poi
+score: 6.8
 ---
 
 When the Penobscot Building topped out at 565 feet in 1928 it was the tallest skyscraper in the United States outside New York and Chicago. The red neon orb on its mast still glows at night, visible across downtown. The exterior carvings draw on Native American motifs — the Penobscot are a Maine nation — and the lobby has the deep brass and marble of high Art Deco.

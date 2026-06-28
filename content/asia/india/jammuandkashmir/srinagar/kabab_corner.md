@@ -7,6 +7,7 @@ tags:
 latitude: 34.0817
 longitude: 74.8067
 address: "Residency Road, Srinagar"
+score: 6.4
 ---
 
 A reliable lunch option on Residency Road, Kabab Corner focuses on the grilled meat end of Kashmiri cooking rather than the slow-cooked wazwan dishes. The seekh kababs — minced lamb with Kashmiri spices, grilled over charcoal — are consistently good, and the Shami kababs (pan-fried patties of minced lamb and lentil) are made to a decent standard. The bread is cooked fresh and the accompanying chutneys change with availability.

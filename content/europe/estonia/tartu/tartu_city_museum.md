@@ -6,6 +6,7 @@ tags:
 - museum
 title: Tartu City Museum
 type: poi
+score: 7.2
 ---
 
 A local history museum covering the development of Tartu from its origins as a medieval trading settlement through the 19th-century university boom, the independence periods, and the Soviet era. The collection is more personal and less polished than the Estonian National Museum — photographs, everyday objects, furniture, documents — which gives it a different kind of intimacy.

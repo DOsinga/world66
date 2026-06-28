@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Free local-history museum tucked under the castle wall
+score: 6.8
 ---
 
 A small free local-history museum tucked into the medieval castle wall, covering the archaeology and history of Guildford and west Surrey. Highlights include Saxon and medieval finds from the town, a Victorian schoolroom recreation, and a strong section on the local needlework tradition — Surrey was once a centre of British lacemaking and lined-knot embroidery.

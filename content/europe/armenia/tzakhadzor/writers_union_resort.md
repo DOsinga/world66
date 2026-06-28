@@ -9,6 +9,7 @@ latitude: 40.5334
 longitude: 44.7225
 story: >
   The resort was designed in the 1960s by the Armenian architect Eduard Sarapian and became something of a landmark of Soviet Armenian modernism. Among the writers who stayed here was the Nobel-winning poet Andrei Voznesensky, who reportedly found the mountain setting more conducive to writing than Moscow. The complex attracted artists, poets, and filmmakers from across the Soviet Union who used it as a retreat from urban obligations.
+score: 7.9
 ---
 
 The Writers' Union Resort (Grakanneri Miutyun) occupies a commanding position on the hillside above Tsaghkadzor and remains one of the most architecturally striking buildings in the town. Built during the Soviet era as a sanatorium and creative retreat for Armenian and Soviet writers, it exemplifies the ambitious modernist architecture that flourished in Soviet Armenia between the 1960s and 1980s — all cantilevered concrete, bold geometric forms, and mountain-scale ambition.

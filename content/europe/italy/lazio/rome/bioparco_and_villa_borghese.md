@@ -1,10 +1,12 @@
 ---
 latitude: 41.9165
 longitude: 12.4858
+score: 7.4
 snippet: Rome's grand park with zoo, galleries, and Bernini sculptures
 tags:
 - things_to_do
 - park
+- parioli
 title: Bioparco and Villa Borghese
 type: poi
 url: www.bioparco.it

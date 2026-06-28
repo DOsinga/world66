@@ -5,7 +5,9 @@ done:
 latitude: 40.9011
 loc_type: city
 longitude: -4.0033
-score: 0.54
+score: 7.58
+snippet: Royal retreat town near Segovia, built around a Bourbon palace and gravity-fed
+  formal gardens.
 title: La Granja
 type: location
 ---

@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 13.7511
 longitude: 100.5317
+score: 5.9
 snippet: Bangkok's classic heavy metal bar with impressive house bands
 tags:
 - bars_and_cafes
 - bar
+- siam_square
 title: Rock Pub
 type: poi
 ---

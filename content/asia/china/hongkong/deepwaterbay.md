@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 22.247077
 longitude: 114.187541
+score: 6.8
 snippet: Quiet beach flanked by mansions and flame trees, with a path to Repulse Bay
 tags:
 - beaches
+- hongkongisland
 title: Deep Water Bay
 type: poi
 ---

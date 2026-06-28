@@ -5,9 +5,11 @@ snippet: North America's largest public reference library, open to all visitors
 tags:
 - things_to_do
 - library
+- yorkville
 title: Toronto Reference Library
 type: poi
 url: https://www.torontopubliclibrary.ca/trl/
+score: 8.4
 ---
 
 The Toronto Reference Library on Yonge Street, designed by Raymond Moriyama and opened in 1977, is the largest public reference library in North America. The central atrium is extraordinary — five stories of walkways and balconies surrounding a sunlit central void, with a waterfall and pool at the base. The architecture is one of the most successful library designs of the 20th century: it manages to be grand without being intimidating.

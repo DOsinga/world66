@@ -12,6 +12,7 @@ story: >
   boats carried fish, timber, and people between Arctic communities for centuries, 
   and the Anna Karoline is one of the last surviving examples. The ship was still 
   working cargo routes within living memory.
+score: 7.3
 ---
 
 The Nordland Museum in the city centre covers the history and culture of Nordland county, with particular emphasis on the coastal communities that depended on fishing and maritime trade. The collection includes traditional boat types, Sami cultural artefacts, and exhibits on the fishing industry that shaped this part of Norway. The Anna Karoline — an 1876 nordlandsjekt — is the centrepiece of the maritime section and the finest object in the collection.

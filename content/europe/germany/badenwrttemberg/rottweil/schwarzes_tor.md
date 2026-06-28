@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Schwarzes Tor — the Black Gate — is the southern entrance to the medieval old town. Built in the late thirteenth century and given its baroque roof in 1571, it is one of two surviving gate towers in Rottweil and the more striking of the pair. The clock on its facade still keeps time; the stones underneath are blackened from centuries of soot, hence the name.

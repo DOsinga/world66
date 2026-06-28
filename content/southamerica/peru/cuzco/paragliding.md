@@ -1,7 +1,12 @@
 ---
 address: Any travel agency in Cuzco
+latitude: -13.391
+longitude: -72.047
+score: 6.4
 tags:
 - things_to_do
+- adventure
+- paragliding
 title: Paragliding
 type: poi
 ---

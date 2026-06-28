@@ -12,6 +12,7 @@ story: Edward James Roye was Liberia's fifth president and the first from a non-
   circumstances — possibly drowned while trying to escape, possibly murdered. The
   building named for him became the seat of the legislature that overthrew him, which
   says something about how Liberian memory works.
+score: 7.5
 ---
 
 The Edward J. Roye Building on Capitol Hill is one of the most prominent colonial-era government structures remaining in Monrovia. The building served various administrative functions through Liberia's history and carries the name of one of the country's more controversial early presidents — a man who sought closer economic ties with Britain, borrowed heavily, and was overthrown by his own government.

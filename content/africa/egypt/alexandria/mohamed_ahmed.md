@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.1986
 longitude: 29.9036
+score: 7.8
 ---
 
 The most famous fuul-and-falafel place in Alexandria, around the corner from Saad Zaghloul Square. The menu is a single laminated card — fuul medames (slow-cooked fava beans), taamiya (Egyptian falafel made with fava beans rather than chickpeas), spiced cheese, salads, tahini, and fresh bread.

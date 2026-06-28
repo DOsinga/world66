@@ -14,6 +14,7 @@ story: >
   man was still alive, in a place that was already old when he arrived.
 sources:
   - https://en.wikipedia.org/wiki/Catacombs_of_San_Gennaro
+score: 9.0
 ---
 
 The largest paleo-Christian catacomb in southern Italy, cut into the volcanic tufa hillside at Capodimonte. The catacombs were in use from the second century AD and expanded through the fifth century. They contain remarkable early Christian mosaics, frescoes, and decorative tomb carvings — among the finest surviving examples of early Christian art in Italy.

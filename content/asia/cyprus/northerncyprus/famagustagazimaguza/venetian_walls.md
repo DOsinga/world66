@@ -9,6 +9,7 @@ title: Venetian Walls of Famagusta
 type: poi
 story: >
   The walls were so formidable that the Venetians held off an Ottoman army of 100,000 with a garrison of fewer than 8,000 for ten months in 1570–71 — one of the longest and most famous sieges in Mediterranean history. The Ottoman commander Lala Mustafa Pasha eventually forced surrender through sheer attrition and starvation. The Venetian commander Marcantonio Bragadin agreed to surrender on honourable terms, which the Ottomans then violated.
+score: 8.5
 ---
 
 The Venetian walls that encircle Famagusta's old city are three kilometres long, up to nine metres thick, and in places fifteen metres high — built in 1489–1540 to resist the Ottoman artillery that the Venetians knew would eventually come. They are some of the most impressive military fortifications in the eastern Mediterranean, and they are in remarkable condition considering they are 500 years old and have been besieged, occupied, and otherwise neglected in the intervening centuries.

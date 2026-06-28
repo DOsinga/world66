@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_da_Luz_(4000954897).
 latitude: 37.0868
 loc_type: city
 longitude: -8.7255
-score: 0.58
+score: 8.38
+snippet: Low-key Algarve beach village near Lagos, set below Rocha Negra and a broad
+  sandy bay.
 title: Praia da Luz
 type: location
 ---

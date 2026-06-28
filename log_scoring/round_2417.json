@@ -1,0 +1,200 @@
+{
+  "round": 2417,
+  "timestamp": "2026-06-13T21:41:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_score": 14.3243,
+      "prior_variance": 0.770449,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 12.1269,
+      "prior_variance": 0.68256,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.714,
+      "prior_variance": 0.207852,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.3902,
+      "prior_variance": 0.229383,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 6.842,
+      "prior_variance": 0.266081,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 2.8248,
+      "prior_variance": 0.313091,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_score": 3.9697,
+      "prior_variance": 0.157312,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.3988,
+      "prior_variance": 0.177819,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.8962,
+      "prior_variance": 0.169033,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_score": 1.2869,
+      "prior_variance": 0.213438,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -0.1928,
+      "prior_variance": 0.1911,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -1.2876,
+      "prior_variance": 0.200582,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 2.9126,
+      "prior_variance": 0.180829,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -2.0277,
+      "prior_variance": 0.161972,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.7399,
+      "prior_variance": 0.185464,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.3929,
+      "prior_variance": 0.167238,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.1887,
+      "prior_variance": 0.188111,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -1.6164,
+      "prior_variance": 0.199216,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.8058,
+      "prior_variance": 0.164117,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -1.1666,
+      "prior_variance": 0.16353,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -2.0672,
+      "prior_variance": 0.202483,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -3.5381,
+      "prior_variance": 0.201106,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.0125,
+      "prior_variance": 0.193527,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -6.287,
+      "prior_variance": 0.250703,
+      "prior_n": 7
+    }
+  ]
+}

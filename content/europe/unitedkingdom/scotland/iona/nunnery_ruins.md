@@ -2,7 +2,13 @@
 category: Sight
 latitude: 56.3302
 longitude: -6.4073
+score: 7.6
 snippet: Well-preserved 13th-century Augustinian nunnery remains
+tags:
+- things_to_do
+- sight
+- ruin
+- history
 title: Nunnery Ruins
 type: poi
 ---

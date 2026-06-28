@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "10th-century church half-buried in sand by the island's main strand"
+score: 8.0
 ---
 
 The small medieval church of St. Caomhán, the patron saint of Inis Oirr, sits in a hollow that the islanders have to dig out from sand and grass once a year to keep it accessible. The oldest parts go back to the 10th century; the nave and chancel arch are 14th-century work. Caomhán's grave, marked by a stone slab, lies inside what is left of the chancel.

@@ -9,6 +9,7 @@ tags:
 - theatre
 title: West Theatre
 type: poi
+score: 8.7
 ---
 
 The West Theatre is the most dramatic structure at Umm Qais — a semicircular auditorium carved into the hillside and built almost entirely of black basalt. Originally constructed in the 2nd century AD, it could seat around 3,000 spectators and is still largely intact. The cavea (seating area) is in good condition, and the stage building retains much of its original stonework.

@@ -5,8 +5,14 @@ latitude: 62.298151
 loc_type: region
 longitude: -6.74299
 score: 0.61
+snippet: Narrow Faroese island ridge of east-coast villages, road tunnels, and the
+  Kallur lighthouse hike.
 title: Kalsoy
 type: location
+image: kalsoy.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kalsoyarfjordur,_Faroe_Islands.jpg
+image_license: Public domain
+image_attribution: Sietse Snel
 ---
 
 Kalsoy is one of the six northern islands of the Faroe Islands, connected to Borðoy by a car ferry from Syðradalur to Klaksvík. The return fare of about £4 (£2 for pensioners) could be called a steal.

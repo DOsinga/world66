@@ -9,6 +9,7 @@ tags:
   - historic_house
 story: >
   Gavnø's art collection was largely assembled by Otto Thott in the 18th century. He inherited the estate and spent his fortune building what became one of the largest private art collections in Scandinavia — over 1,500 paintings. He died childless, and the collection passed through several noble families before arriving at its current state, still intact and still in the castle.
+score: 8.1
 ---
 
 Gavnø Castle sits on a small island just south of Næstved, connected to the mainland by a short causeway. The current Baroque building dates from the 1740s and houses one of the largest private painting collections in Scandinavia — over 1,500 works covering European art from the 15th to 20th centuries. It is the main cultural attraction in the area around Næstved.

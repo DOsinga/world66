@@ -10,6 +10,7 @@ tags:
 title: Marina del Rey Fisherman's Village
 type: poi
 url: www.visitmarina.com
+score: 5.6
 ---
 
 A low-key waterfront development on the largest man-made small-craft harbor in the country. Rent a kayak, book a sunset dinner cruise, or just stroll along the docks and watch the sailboats go in and out. Free weekend afternoon concerts keep the atmosphere relaxed. A good antidote to the more hectic parts of the city, and a short drive from Venice Beach.

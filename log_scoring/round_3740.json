@@ -1,0 +1,200 @@
+{
+  "round": 3740,
+  "timestamp": "2026-06-13T23:16:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 4.333,
+      "prior_variance": 0.113942,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 3.8271,
+      "prior_variance": 0.116872,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 7.3352,
+      "prior_variance": 0.174352,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.4751,
+      "prior_variance": 0.11227,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": -0.1421,
+      "prior_variance": 0.174478,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.8871,
+      "prior_variance": 0.095974,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": 0.7951,
+      "prior_variance": 0.117548,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": -0.4557,
+      "prior_variance": 0.109234,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -0.5673,
+      "prior_variance": 0.112016,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.7034,
+      "prior_variance": 0.108166,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Fredericton",
+      "path": "northamerica/canada/newbrunswick/fredericton",
+      "prior_score": -0.4164,
+      "prior_variance": 0.099772,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": 0.1122,
+      "prior_variance": 0.120708,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -2.9516,
+      "prior_variance": 0.121964,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -3.6722,
+      "prior_variance": 0.115647,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -1.9183,
+      "prior_variance": 0.118073,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -3.9175,
+      "prior_variance": 0.11406,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -1.8681,
+      "prior_variance": 0.119187,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -4.7842,
+      "prior_variance": 0.148326,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Xuzhou",
+      "path": "asia/china/jiangsu_province/xuzhou",
+      "prior_score": -3.2774,
+      "prior_variance": 0.110449,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.5662,
+      "prior_variance": 0.11284,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -4.6825,
+      "prior_variance": 0.16351,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -5.4544,
+      "prior_variance": 0.137188,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -7.2921,
+      "prior_variance": 0.162141,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -5.7989,
+      "prior_variance": 0.133713,
+      "prior_n": 12
+    }
+  ]
+}

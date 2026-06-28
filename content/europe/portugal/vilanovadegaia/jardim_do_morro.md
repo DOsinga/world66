@@ -8,6 +8,7 @@ latitude: 41.1371
 longitude: -8.6092
 sources:
   - https://en.wikipedia.org/wiki/Gaia_Cable_Car
+score: 8.2
 ---
 
 The Jardim do Morro is a public garden on the upper level of the Gaia riverbank, directly above the port lodges and adjacent to the Monastery of Serra do Pilar. It serves principally as a lookout point — the best one in either Porto or Gaia for the panoramic view across the Douro and up into the heart of Porto's historic centre. The garden itself is modest: lawns, some shade trees, benches, and a café. What brings people here is the view, which is superb at any time of day and magnificent at sunset.

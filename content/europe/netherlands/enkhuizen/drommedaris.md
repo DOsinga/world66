@@ -9,6 +9,7 @@ latitude: 52.7007
 longitude: 5.2930
 story: >
   The Drommedaris takes its name from the dromedary camel — the one-humped variety — because the tower's silhouette, with its distinctive peaked roof rising over the lower base, was thought to resemble the animal's hump. The ship that Jan van Riebeeck sailed to the Cape of Good Hope in 1652, founding what would become Cape Town, was also called the Drommedaris, and was built in Enkhuizen.
+score: 7.7
 ---
 
 The Drommedaris is Enkhuizen's most recognisable building: a massive 16th-century fortified tower that once formed the southern gate of the city and guarded the entrance to the harbour. Built in 1540 as part of the city wall, it is a well-preserved example of Dutch late-medieval military architecture, with thick walls, arrow slits, and a bulbous wooden roof added in the 17th century. Today it functions as a cultural centre hosting concerts, theatre, and exhibitions.

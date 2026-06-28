@@ -6,6 +6,7 @@ longitude: -8.2951
 tags:
   - things_to_do
   - sight
+score: 4.7
 ---
 
 A small Beaux-Arts station from the early 20th century, ten minutes' walk south of the historic centre. It is the terminus of the Guimarães line and the easiest way to arrive from [Porto](/europe/portugal/porto) — trains run roughly hourly and take about an hour and a quarter.

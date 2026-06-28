@@ -1,200 +1,200 @@
 {
   "round": 22,
-  "timestamp": "2026-04-11T19:25:07",
+  "timestamp": "2026-06-13T19:16:07",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Costa Rica",
-      "path": "northamerica/costarica",
-      "prior_mu": 32.45,
-      "prior_sigma": 6.13,
-      "prior_n": 2
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "St. Kitts",
-      "path": "northamerica/saintkittsandnevis/st_kitts",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Laos",
-      "path": "asia/laos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Merano",
+      "path": "europe/italy/trentinoaltoadige/merano",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Bad Ischl",
-      "path": "europe/austria/badischl",
-      "prior_mu": 23.61,
-      "prior_sigma": 6.07,
-      "prior_n": 1
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Neuchatel",
-      "path": "europe/switzerland/neuchatel",
-      "prior_mu": 22.73,
-      "prior_sigma": 4.86,
-      "prior_n": 2
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
       "title": "Ulm",
       "path": "europe/germany/badenwrttemberg/ulm",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Limburg",
-      "path": "europe/germany/hesse/limburg",
-      "prior_mu": 22.73,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Astorga",
-      "path": "europe/spain/astorga",
-      "prior_mu": 21.77,
-      "prior_sigma": 4.0,
-      "prior_n": 3
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Valen\u00e7ay",
-      "path": "europe/france/centre/loirevalley/valencay",
-      "prior_mu": 22.48,
-      "prior_sigma": 5.91,
-      "prior_n": 1
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Montr\u00e9al",
-      "path": "europe/france/east/burgundy/montral",
-      "prior_mu": 22.5,
-      "prior_sigma": 5.91,
-      "prior_n": 1
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Ibo Island",
-      "path": "africa/mozambique/iboisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Chonju",
-      "path": "asia/southkorea/chonju",
-      "prior_mu": 22.9,
-      "prior_sigma": 5.73,
-      "prior_n": 1
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Cirebon",
-      "path": "asia/indonesia/cirebon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Xalapa",
-      "path": "northamerica/mexico/yucatan/xalapa",
-      "prior_mu": 21.7,
-      "prior_sigma": 4.72,
-      "prior_n": 2
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Lakeland",
-      "path": "northamerica/unitedstates/florida/lakeland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Inland Empire",
-      "path": "northamerica/unitedstates/california/inlandempire",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "San Salvador",
-      "path": "northamerica/elsalvador/sansalvador",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Bamiyan",
-      "path": "asia/afghanistan/bamian",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Xeger",
-      "path": "asia/china/tibet/xeger",
-      "prior_mu": 21.6,
-      "prior_sigma": 5.93,
-      "prior_n": 1
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Udayagi",
-      "path": "asia/india/andhrapradesh/udayagi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Dalaba",
-      "path": "africa/guineeconakry/dalaba",
-      "prior_mu": 22.28,
-      "prior_sigma": 5.78,
-      "prior_n": 1
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Bibala",
-      "path": "africa/angola/bibala",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Port Moresby",
-      "path": "asia/papuanewguinea/portmoresby",
-      "prior_mu": 19.08,
-      "prior_sigma": 5.24,
-      "prior_n": 2
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Juarez",
-      "path": "northamerica/mexico/juarez",
-      "prior_mu": 22.72,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

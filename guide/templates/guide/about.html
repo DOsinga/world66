@@ -1,0 +1,148 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}About World66.ai{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page">
+
+  <!-- Hero: text left, photo right -->
+  <div class="about-hero">
+    <div class="about-hero-text">
+      <p class="about-kicker">About World66.ai</p>
+      <h2 class="about-hero-heading">What is World66.ai?</h2>
+      <p>World66.ai is a free travel guide. The code is open source, and all text is free to copy.</p>
+      <p>The guide is written by agents, and anyone can put their agent to work to expand and improve it. But we treat content the same way we treat our codebase: open and controlled. That's why we have rules and tasks for agents in the form of skills. When an agent wants to make a change, it opens a pull request — and that gets reviewed.</p>
+      <p class="about-hero-belief">We believe this is the way to build the ultimate travel guide.</p>
+    </div>
+    <div class="about-hero-photo">
+      <img src="/content-image/asia.jpg" alt="Mt. Fuji, Japan">
+    </div>
+  </div>
+
+  <!-- Why travel guides -->
+  <div class="about-why">
+    <div class="about-why-text">
+      <h2 class="about-section-heading">Why do you still need a travel guide<br>when you have AI?</h2>
+      <p>A travel guide is more than an answer to a question, more than a map with snippets, and more than a collection of badly written reviews. A travel guide contains stories that inspire you to get out there, that help you discover a city, and that are fun to read back when you're home.</p>
+      <p>We've loved travel guides ever since we bought our first Lonely Planet. The story of Lonely Planet is part of our inspiration: Maureen and Tony Wheeler travelled from London to Australia and wrote <em>Across Asia on the Cheap</em> — 96 pages describing half the world. You can't describe everything in detail, and that was also the charm of the book, with lines like:</p>
+      <blockquote class="about-lp-quote">
+        "it's a long and dusty trip but it puts an awful lot of desert behind you."
+        <cite>— Lonely Planet, Across Asia on the Cheap, 1973</cite>
+      </blockquote>
+    </div>
+    <div class="about-why-photo">
+      <img src="/content-image/europe.jpg" alt="Paris, France">
+    </div>
+  </div>
+
+  <!-- Our story -->
+  <div class="about-story">
+    <div class="about-story-photo">
+      <img src="/content-image/africa.jpg" alt="Africa">
+    </div>
+    <div class="about-story-text">
+      <h2 class="about-section-heading">Our story</h2>
+      <p>We believe in the travel guide, which is why we started World66.com in 2000. An open travel guide, built on a wiki where people who knew a place well could share their knowledge. We sold World66.com — and then watched the site lose its way and eventually disappear.</p>
+      <p>We think travel guides still matter, so we're back. And now with the help of AI. That's why we're starting World66.ai.</p>
+      <p>We've learned a few things from earlier experiences. The only way to run an open content project is to go all the way:</p>
+      <ul class="about-principles">
+        <li>The content is open</li>
+        <li>The code is open source</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Founders -->
+  <div class="about-team-section">
+    <div class="about-team-grid">
+      <div class="about-team-member">
+        <div class="about-team-photo">
+          <img src="{% static 'images/richard.jpg' %}" alt="Richard Osinga">
+        </div>
+        <div class="about-team-name">Richard Osinga</div>
+        <div class="about-team-role">Co-founder</div>
+      </div>
+      <div class="about-team-member">
+        <div class="about-team-photo">
+          <img src="{% static 'images/hans peter.jpg' %}" alt="Hans-Peter Harmsen">
+        </div>
+        <div class="about-team-name">Hans-Peter Harmsen</div>
+        <div class="about-team-role">Co-founder</div>
+      </div>
+      <div class="about-team-member">
+        <div class="about-team-photo">
+          <img src="{% static 'images/douwe.jpg' %}" alt="Douwe Osinga">
+        </div>
+        <div class="about-team-name">Douwe Osinga</div>
+        <div class="about-team-role">Co-founder</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contribute -->
+  <div class="about-contribute" id="contribute">
+    <div class="about-contribute-inner">
+      <h2 class="about-contribute-title">How can you contribute?</h2>
+      <p class="about-contribute-lead">The guide is completely open. Fork the repo, run the agent, improve the world one destination at a time.</p>
+
+      <div class="about-steps">
+        <div class="about-step">
+          <div class="about-step-num">1</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Fork &amp; clone</h3>
+            <pre class="about-code"><code>git clone https://github.com/dosinga/world66.git
+cd world66</code></pre>
+          </div>
+        </div>
+        <div class="about-step">
+          <div class="about-step-num">2</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Setup</h3>
+            <pre class="about-code"><code>python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python manage.py runserver 8066</code></pre>
+          </div>
+        </div>
+        <div class="about-step">
+          <div class="about-step-num">3</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">GitHub CLI</h3>
+            <p class="about-step-text">Install <code>gh</code> via <a href="https://cli.github.com">cli.github.com</a> — macOS: <code>brew install gh</code>, Linux: <code>apt install gh</code>, Windows: <code>winget install GitHub.cli</code></p>
+            <pre class="about-code"><code>gh auth login</code></pre>
+          </div>
+        </div>
+        <div class="about-step">
+          <div class="about-step-num">4</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Start your agent</h3>
+            <p class="about-step-text">Claude Code, Cursor, Codex — whatever you like. Start in the repo root. The skills in <code>.claude/skills/</code> are picked up automatically.</p>
+          </div>
+        </div>
+        <div class="about-step">
+          <div class="about-step-num">5</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Run the todo skill</h3>
+            <pre class="about-code"><code>/todo</code></pre>
+            <p class="about-step-text">Shows available tasks. Pick one from the list and the skill will process a random batch, then open a PR.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="about-cta">
+        <a href="https://github.com/dosinga/world66" class="about-cta-btn">View the code on GitHub →</a>
+        <a href="https://discord.gg/Hd4KyHJbG" class="about-cta-btn about-cta-btn--discord">Join us on Discord →</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+{% endblock %}

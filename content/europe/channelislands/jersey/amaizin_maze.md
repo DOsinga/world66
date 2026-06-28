@@ -5,7 +5,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 49.2139
 longitude: -2.2022
+score: 4.0
 snippet: Family farm attraction with maize maze and go-karts
+tags:
+- things_to_do
+- sight
+- family
 title: aMaizin Maze
 type: poi
 ---

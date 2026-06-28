@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Local tradition holds that the hermit Genadio so loved music that even after he had renounced the world for the silence of this cave, he could not bear to give it up entirely. He carved a stone chessboard into the rock floor and would play games against himself by candlelight. The board is still visible inside."
+score: 6.8
 ---
 
 In the steep cliffs above the village of San Pedro de Montes, a cave was reportedly used as a hermitage by Saint Genadio, a tenth-century Bishop of Astorga who renounced his see to live as an anchorite. The site can only be reached on foot, by a path through chestnut and oak forest above the village. The walk is not long but it is steep and there are no facilities.

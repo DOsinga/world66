@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Marina on the mouth of the Touques, with yachts, restaurants and a flea market"
+score: 5.7
 ---
 
 The Port de Deauville is a smart yacht marina at the mouth of the Touques river, opened in 1975 to give cruisers a base on the Norman coast. Several hundred boats are moored along its pontoons; behind the quayside, a row of brasseries and gelaterias makes it a pleasant alternative to the seafront for an early evening drink.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.5914
 longitude: 80.2401
+score: 4.5
 ---
 
 Pithoragarh's small domestic airport sits on a plateau northeast of town and has an unusual distinction for travellers: it is so close to the Himalayan foothills that flights are genuinely dramatic, with snow peaks visible through the cabin windows on the descent. Sporadic flights connect to Dehradun and Pant Nagar, though schedules are unreliable and the route is often suspended; check before building your itinerary around it.

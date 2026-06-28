@@ -1,0 +1,200 @@
+{
+  "round": 3038,
+  "timestamp": "2026-06-13T22:24:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 8.2214,
+      "prior_variance": 0.260927,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 5.5429,
+      "prior_variance": 0.156703,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 6.5438,
+      "prior_variance": 0.169001,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 3.7664,
+      "prior_variance": 0.148213,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 5.3917,
+      "prior_variance": 0.179543,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 5.8877,
+      "prior_variance": 0.179222,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.0164,
+      "prior_variance": 0.161234,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 3.6419,
+      "prior_variance": 0.169675,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.4232,
+      "prior_variance": 0.149744,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 3.0645,
+      "prior_variance": 0.143077,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 3.3113,
+      "prior_variance": 0.16133,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": -0.0637,
+      "prior_variance": 0.12967,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.339,
+      "prior_variance": 0.164725,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": -0.1446,
+      "prior_variance": 0.139272,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 1.8869,
+      "prior_variance": 0.130557,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.1383,
+      "prior_variance": 0.14096,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.9629,
+      "prior_variance": 0.135124,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Poindimi\u00e9",
+      "path": "australiaandpacific/newcaledonia/poindimie",
+      "prior_score": -0.6596,
+      "prior_variance": 0.135764,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.1449,
+      "prior_variance": 0.15257,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.6648,
+      "prior_variance": 0.136528,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.0462,
+      "prior_variance": 0.132548,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -1.031,
+      "prior_variance": 0.135057,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -0.9041,
+      "prior_variance": 0.160317,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": -0.357,
+      "prior_variance": 0.140197,
+      "prior_n": 10
+    }
+  ]
+}

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.0354
 longitude: 22.0003
+score: 7.4
 ---
 
 The Bernardine Church and Monastery, just south of the castle, is one of the most important Baroque churches in southeastern Poland. Built between 1624 and 1629 for the Order of Friars Minor, it owes its survival of the partitions, both world wars, and the communist period to a quietly persistent monastic community that never quite left.

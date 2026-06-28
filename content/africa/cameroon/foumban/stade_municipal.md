@@ -6,6 +6,7 @@ longitude: 10.8841
 tags:
   - things_to_do
   - sight
+score: 4.8
 ---
 
 Foumban's municipal stadium is the home ground of Panthère du Ndé and the venue for regional matches. It seats around five thousand and on match days fills with drumming, chanting, and the local taste for football that runs deep across the West Region.

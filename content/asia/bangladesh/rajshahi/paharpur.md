@@ -15,6 +15,7 @@ story: >
   stepped-pyramid form of the central temple at Paharpur was the direct model
   for the Borobudur in Indonesia, making this modest mound in the Bangladesh
   countryside the architectural ancestor of one of the world's great monuments.
+score: 8.9
 ---
 
 The Somapura Mahavihara at Paharpur, about 80 km northeast of Rajshahi, is the largest Buddhist monastery ever excavated in the Indian subcontinent. Built in the late 8th century by the Pala king Dharmapala, the complex covers nearly 11 hectares and once housed over 177 cells for monks arranged around a central courtyard. At its centre stands the remains of a massive stepped pyramid temple — the main shrine — whose terracotta plaques still carry some of the finest decorative work from the Pala period.

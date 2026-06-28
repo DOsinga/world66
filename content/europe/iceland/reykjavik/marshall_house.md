@@ -10,6 +10,7 @@ tags:
   - grandi
 neighbourhood: Grandi
 snippet: Former herring factory on Grandi, now a contemporary art centre
+score: 8.0
 ---
 
 The Marshall House is an old herring-meal factory at the far end of Grandi, built in 1948 with Marshall Plan money and now repurposed as one of Reykjavik's most ambitious contemporary art centres. It houses the gallery of artist-run space Kling & Bang, the Living Art Museum (Nýló), and an exhibition space dedicated to the work of Ólafur Elíasson.

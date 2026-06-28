@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Old Market (Phsar Chas)
 type: poi
+score: 6.9
 ---
 
 **Phsar Chas** ("Old Market") is the most useful and lively market in Siem Reap town, occupying a covered hall near the river just off the southern end of Pub Street. Inside the building, vendors sell spices, dried fish, fresh produce, and packaged Cambodian foodstuffs in the kind of organised chaos that makes Asian covered markets worth visiting even when you are not buying anything. Around the perimeter and spilling into the surrounding streets are stalls selling silk scarves, carvings, lacquerware, t-shirts, jewellery, and the usual range of souvenirs.

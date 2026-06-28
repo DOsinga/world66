@@ -7,6 +7,7 @@ tags:
 latitude: 51.122
 longitude: 17.039
 address: "Nadodrze, Wrocław"
+score: 7.8
 ---
 
 The grid of streets immediately north of the river, beyond Ostrów Tumski. Nadodrze is the city's most visibly gentrifying area — once a forgotten quarter of working-class tenements, now full of design studios, vintage shops, third-wave coffee houses, small art galleries and craft beer bars. Street art covers many of the side-street walls.

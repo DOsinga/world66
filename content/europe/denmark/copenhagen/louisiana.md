@@ -2,10 +2,10 @@
 address: Gammel Strandvej 13, Humlebæk
 latitude: 55.9694
 longitude: 12.5432
-snippet: World-class modern art museum on the Øresund coast
+score: 9.7
+snippet: World-class modern art museum on the Øresund coast, 35 km north of Copenhagen
 tags:
-- things_to_do
-- museum
+- day_trips
 title: Louisiana Museum of Modern Art
 type: poi
 ---

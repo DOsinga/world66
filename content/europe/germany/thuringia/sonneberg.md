@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sonneberg-Bahnhofsplatz5.j
 latitude: 50.35
 loc_type: city
 longitude: 11.1667
+score: 6.58
+snippet: Thuringian town near Bavaria, historically one of Europe's major toy-making
+  centres.
 sources:
 - https://en.wikipedia.org/wiki/Sonneberg
 - https://www.discover-bavaria.com/destinations/toy-museum-sonneberg

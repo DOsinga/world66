@@ -1,200 +1,200 @@
 {
   "round": 1338,
-  "timestamp": "2026-04-12T22:22:22",
+  "timestamp": "2026-06-13T20:24:28",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Coventry",
-      "path": "europe/unitedkingdom/coventry",
-      "prior_rank": 6690,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 9.9091,
+      "prior_variance": 0.402343,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Berkhampsted",
-      "path": "europe/unitedkingdom/england/berkhampsted",
-      "prior_rank": 4648,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 5.8542,
+      "prior_variance": 0.357993,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Piana Crixia",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
-      "prior_rank": 5218,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 6.329,
+      "prior_variance": 0.362601,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Bretten",
-      "path": "europe/germany/badenwrttemberg/bretten",
-      "prior_rank": 6003,
-      "prior_wins": 31,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.2039,
+      "prior_variance": 0.355765,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Amriswil",
-      "path": "europe/switzerland/amriswil",
-      "prior_rank": 6844,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/delmar",
+      "prior_score": 1.0623,
+      "prior_variance": 0.505331,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Sant Boi",
-      "path": "europe/spain/catalonia/santboi",
-      "prior_rank": 5421,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.637,
+      "prior_variance": 0.297794,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Newbridge",
-      "path": "europe/ireland/newbridge",
-      "prior_rank": 6067,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.8973,
+      "prior_variance": 0.315173,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Tupelo",
-      "path": "northamerica/unitedstates/mississippi/tupelo",
-      "prior_rank": 6128,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -1.028,
+      "prior_variance": 0.350093,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Easton",
-      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
-      "prior_rank": 4491,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -2.4376,
+      "prior_variance": 0.319316,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Old Fort",
-      "path": "northamerica/unitedstates/northcarolina/old_fort",
-      "prior_rank": 6841,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -3.1777,
+      "prior_variance": 0.333992,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Laguna",
-      "path": "northamerica/unitedstates/newmexico/laguna",
-      "prior_rank": 7335,
-      "prior_wins": 14,
-      "prior_n": 3
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -4.6506,
+      "prior_variance": 0.318651,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Medicine Hat",
-      "path": "northamerica/canada/alberta/medicinehat",
-      "prior_rank": 5866,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -4.2283,
+      "prior_variance": 0.41848,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Salmiya",
-      "path": "asia/kuwait/salmiya",
-      "prior_rank": 6198,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -4.3134,
+      "prior_variance": 0.321111,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Settat",
-      "path": "africa/morocco/settat",
-      "prior_rank": 6711,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -4.6058,
+      "prior_variance": 0.303849,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Pristina",
-      "path": "europe/serbia/kosovoprovince/pristina",
-      "prior_rank": 4592,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -5.78,
+      "prior_variance": 0.348953,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Dili",
-      "path": "asia/easttimor/dili",
-      "prior_rank": 5734,
-      "prior_wins": 25,
-      "prior_n": 3
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_score": -3.4006,
+      "prior_variance": 0.399099,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Rajkot",
-      "path": "asia/india/gujarat/rajkot",
-      "prior_rank": 7163,
-      "prior_wins": 21,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -8.0988,
+      "prior_variance": 0.469906,
       "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Elbasan",
-      "path": "europe/albania/elbasan",
-      "prior_rank": 6102,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -5.3636,
+      "prior_variance": 0.293331,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Mallakast\u00ebr",
-      "path": "europe/albania/mallakaster",
-      "prior_rank": 7002,
-      "prior_wins": 17,
-      "prior_n": 3
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -6.444,
+      "prior_variance": 0.332113,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Uruapan",
-      "path": "northamerica/mexico/yucatan/uruapan",
-      "prior_rank": 6875,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -5.6619,
+      "prior_variance": 0.322198,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Gabon",
-      "path": "africa/gabon",
-      "prior_rank": 5080,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -8.3345,
+      "prior_variance": 0.419429,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Pudukkottai",
-      "path": "asia/india/tamilnadu/pudukkottai",
-      "prior_rank": 6209,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -9.1927,
+      "prior_variance": 0.554559,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Jos",
-      "path": "africa/nigeria/jos",
-      "prior_rank": 4593,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -9.8407,
+      "prior_variance": 0.782087,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Pajala",
-      "path": "europe/sweden/pajala",
-      "prior_rank": 6687,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -6.7225,
+      "prior_variance": 0.390745,
+      "prior_n": 4
     }
   ]
 }

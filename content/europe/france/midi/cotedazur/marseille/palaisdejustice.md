@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Palais de Justice
 type: poi
+score: 5.9
 ---
 
 Marseille's courthouse stands on Place Monthyon, a neoclassical pile designed by Auguste Martin and built between 1856 and 1862. The facade features 24 Ionic columns and allegorical sculptures representing Justice, Law, and Prudence. It's not open for casual visits, but the exterior is worth a look if you're passing through the Préfecture neighbourhood — the colonnade is impressive, and the square in front is a good spot to pause.

@@ -8,6 +8,7 @@ latitude: 43.7091
 longitude: 7.2712
 story: >
   Marc Chagall designed this museum himself — the only one he agreed to participate in during his lifetime. He chose the building's orientation so that the light from the garden would fall onto the paintings in a particular way. The 17 large canvases of the Biblical Message series took Chagall 13 years to complete and were painted specifically to hang here.
+score: 8.9
 ---
 
 The Chagall Museum holds the world's largest collection of work by Marc Chagall, displayed in a purpose-built museum designed with the artist's involvement and opened in 1973. The core of the collection is the Biblical Message series — 17 monumental canvases depicting scenes from Genesis and Exodus in Chagall's characteristic floating, dreamlike style, saturated with deep blue, crimson, and gold.

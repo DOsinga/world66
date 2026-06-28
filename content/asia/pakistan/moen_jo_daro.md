@@ -9,6 +9,7 @@ tags:
 - sights
 title: Mohenjo-daro
 type: poi
+score: 9.6
 ---
 
 Mohenjo-daro is one of the most important archaeological sites in the world -- the remains of a planned city built around 2500 BCE by the Indus Valley civilisation, contemporary with ancient Egypt and Mesopotamia. The site lies about 28 km from Larkana in Sindh province.

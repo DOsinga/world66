@@ -15,6 +15,7 @@ story: >
   tourist attraction generating more income than the residents had previously earned
   from informal labour. The story is cited as a model for creative community-led
   urban regeneration across Indonesia.
+score: 6.7
 ---
 
 A riverside kampung along the Brantas River in central Malang that was transformed in 2016 when university students painted every surface in rainbow colours as part of a community-led urban beautification project. The result is densely photogenic — narrow stairs between houses painted in clashing tropical colours, murals on every wall, laundry strung above painted alleys. It is genuinely cheerful rather than contrived, not least because the community that lives here has invested in it and continues to maintain it.

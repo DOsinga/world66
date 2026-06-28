@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Huascaran_Huandoy_Chopical
 latitude: -9.5279
 loc_type: city
 longitude: -77.5278
-score: 0.66
+score: 8.66
+snippet: High Andean trekking city and gateway to Peru's Cordillera Blanca beneath
+  snow-capped peaks.
 title: Huaraz
 type: location
 ---

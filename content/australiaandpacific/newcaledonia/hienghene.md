@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%22La_Poule_Couveuse%22_-_
 latitude: -20.689369
 loc_type: city
 longitude: 164.944037
-score: 0.53
+score: 7.68
+snippet: Kanak town on Grande Terre's northeast coast, framed by dark limestone formations
+  in turquoise water.
 title: Hienghène
 type: location
 ---

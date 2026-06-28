@@ -13,6 +13,7 @@ story: >
   1834 and 1837 following detailed surveys of the spring. The water emerges at 37°C.
 sources:
   - https://en.wikipedia.org/wiki/Pr%C3%A9-Saint-Didier
+score: 7.8
 ---
 
 Just five kilometres down the valley from Courmayeur, the small town of Pré-Saint-Didier has been the site of thermal baths since antiquity. The modern establishment — the Terme di Pré-Saint-Didier — is a large open-air spa complex built around natural hot springs that emerge at 37°C. The setting is theatrical: pools and terraces are cut into a cliff above the Dora Baltea river, with the mountains rising steeply on both sides.

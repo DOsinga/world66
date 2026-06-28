@@ -8,6 +8,7 @@ tags:
 - posta
 title: Akemi Revolving Restaurant
 type: poi
+score: 6.5
 ---
 
 Akemi spans the top two floors of the PSPF Tower in the city centre, the upper one revolving slowly through one full turn an hour. The view is the whole point — the harbour, the cathedrals, the Kigamboni Bridge, the Indian Ocean beyond — and on a clear day at sunset it is unimprovable. The food is competent rather than exceptional: a long pan-African and Indian Ocean menu, with seafood the best bet.

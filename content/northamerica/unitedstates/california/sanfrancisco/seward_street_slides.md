@@ -1,14 +1,14 @@
 ---
 address: 30 Seward St
 latitude: 37.7576
-longitude: -122.4400
+longitude: -122.44
+score: 6.8
 snippet: Concrete slides hidden in a residential neighbourhood — bring your own cardboard
 tags:
 - things_to_do
 - sight
 - castro_district
 title: Seward Street Slides
-neighbourhood: Castro District
 type: poi
 ---
 

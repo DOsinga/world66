@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Headland west of town with sweeping views and the start of the coast path"
+score: 7.2
 ---
 
 Cap Hornu is the headland just west of St-Valéry, where the wooded chalk cliff falls away to the open mouth of the bay. The point can be reached on foot in half an hour from the upper town by following the GR125 coastal path, or by a short drive out along the D940. A hotel and restaurant occupy the headland, and there is a small parking area where the path begins.

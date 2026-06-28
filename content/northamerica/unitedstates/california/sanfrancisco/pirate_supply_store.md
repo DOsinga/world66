@@ -2,13 +2,13 @@
 address: 826 Valencia St
 latitude: 37.7596
 longitude: -122.4214
+score: 7.7
 snippet: Pirate shop fronting a writing centre founded by Dave Eggers
 tags:
 - shopping
 - shop
 - mission_district
 title: 826 Valencia / Pirate Supply Store
-neighbourhood: Mission District
 type: poi
 ---
 

@@ -10,9 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8
 latitude: 30.5728
 loc_type: city
 longitude: 104.0668
-score: 0.71
+score: 8.95
 title: Chengdu
 type: location
+snippet: Sichuan capital of tea, mahjong, hotpot, and pandas, set in China's relaxed
+  southwest.
 ---
 
 Chengdu is the capital of Sichuan and the unofficial capital of laid-back China. A city of sixteen million people, it is famously addicted to tea, mahjong, hotpot and pandas — usually in that order. Where Beijing strives and Shanghai dazzles, Chengdu sits back, orders another pot of jasmine, and asks why you are in such a hurry.

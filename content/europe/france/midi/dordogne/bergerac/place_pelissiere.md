@@ -12,6 +12,7 @@ story: >
   sculptor Mauro Corda and was installed in 2005. It is the second statue of Cyrano in town
   — an older one stands on the Place de la Myrpe — and is part of a slightly tongue-in-cheek
   local industry that claims a writer who was never actually from Bergerac.
+score: 7.0
 ---
 
 The Place Pélissière is the largest of the squares in Bergerac's old town and one of the most successful pieces of urban restoration in the region. Until the 1970s it was a derelict warren of tobacco warehouses; today it is a stone-paved open square surrounded by restored medieval houses, half-timbered facades, and a small Romanesque church on its upper side.

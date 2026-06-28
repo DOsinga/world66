@@ -16,6 +16,7 @@ story: >
   His methods were those of his era rather than modern standards, but his
   dedication transformed understanding of the Atacameño civilisation — and
   he never left. He died in San Pedro in 1980, aged 77.
+score: 8.4
 ---
 
 The Museo Gustavo Le Paige is the best reason, after the landscape, to spend time in San Pedro de Atacama. Run by the Universidad Católica del Norte, it holds one of the most important archaeological collections in South America, covering 11,000 years of human occupation of the Atacama Desert.

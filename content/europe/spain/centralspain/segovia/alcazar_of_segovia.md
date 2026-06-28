@@ -12,6 +12,7 @@ story: >
   Madrid on hearing of her brother Alfonso's death, because whoever controlled
   the Alcázar controlled the royal treasury — and whoever held the treasury
   would be recognised as sovereign.
+score: 9.5
 ---
 
 The Alcázar rises from the cliff where the Eresma and Clamores rivers converge, its sharp turrets and blue-grey slate roofs making it look exactly like the Disney castle it allegedly inspired. The interior delivers: the throne room has an extraordinary gold-leaf coffered ceiling, the armour collection is one of the finest in Spain, and the keep offers panoramic views across the Castilian meseta that stretch for miles on a clear day. The climb up the tower is 152 steps and absolutely worth it.

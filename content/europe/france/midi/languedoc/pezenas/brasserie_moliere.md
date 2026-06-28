@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.4609
 longitude: 3.4220
+score: 5.0
 ---
 
 The Brasserie Molière has a good location in the old town, which is the main reason to choose it over the alternatives: you can sit outside and watch the foot traffic through the historic center without having to work very hard for a table. It is a straightforward brasserie — drinks, simple food, friendly service — rather than anything remarkable in itself, but the setting does the work.

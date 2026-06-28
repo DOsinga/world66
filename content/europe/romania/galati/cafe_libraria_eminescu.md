@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Librăria Eminescu Café
 type: poi
+score: 5.8
 ---
 
 A small café tucked inside the Eminescu bookshop on Domnească, this is the closest Galați comes to a literary hangout. Decent espresso, simple cakes, and the option of reading the books before you buy them. Quiet in the morning, busier in the afternoon when students come out of nearby lectures.

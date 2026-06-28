@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arenzano_panorama.jpg
 latitude: 44.4025
 loc_type: city
 longitude: 8.6814
-score: 0.53
+score: 7.61
+snippet: Ligurian seaside town west of Genoa, squeezed between steep green hills and
+  the coast.
 title: Arenzano
 type: location
 ---

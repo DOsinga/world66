@@ -1,12 +1,17 @@
 ---
 latitude: 35.0058
 longitude: 135.7833
-snippet: Head temple of the Jōdo-shū Buddhist sect; site of Japan's largest temple gate
-story: Chion-in's giant bronze bell weighs 74 tonnes and requires seventeen monks to ring on New Year's Eve. Sixteen of them swing on long ropes attached to a single beam; the seventeenth, lying flat on his back, anchors them with his weight.
+score: 8.3
+snippet: Head temple of the Jōdo-shū Buddhist sect; site of Japan's largest temple
+  gate
+story: Chion-in's giant bronze bell weighs 74 tonnes and requires seventeen monks
+  to ring on New Year's Eve. Sixteen of them swing on long ropes attached to a single
+  beam; the seventeenth, lying flat on his back, anchors them with his weight.
 tags:
 - things_to_do
 - temple
 - sight
+- gion
 title: Chion-in
 type: poi
 ---

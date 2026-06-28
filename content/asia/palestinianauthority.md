@@ -1,9 +1,12 @@
 ---
+latitude: 31.9
+loc_type: country
+longitude: 35.2
+score: 0.47
+snippet: West Bank territory of ancient cities, layered sacred history, and checkpoints
+  between Israel and Jordan.
 title: Palestinian Authority
 type: location
-loc_type: country
-latitude: 31.9
-longitude: 35.2
 ---
 
 The Palestinian Authority administers most of the West Bank, a landlocked territory between Israel and Jordan that holds some of the oldest and most layered cities in the world. For travellers willing to navigate the logistics — Israeli-controlled checkpoints, variable road access, and an uncertain security situation — this is a remarkably rewarding destination. The history is deep, the hospitality is genuine, and the food is excellent.

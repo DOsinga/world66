@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Place_Bruselas_2.jpg
 latitude: 50.846737
 loc_type: city
 longitude: 4.352493
-score: 0.65
+score: 8.76
+snippet: Bilingual Belgian capital and EU seat, centred on the gilded Grand-Place
+  and wry urban contradictions.
 title: Brussels
 type: location
 ---

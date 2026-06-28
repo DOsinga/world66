@@ -5,6 +5,7 @@ snippet: The snow hotel's bar, where glasses are made of ice and the walls are c
 tags: [bars_and_cafes, bar]
 latitude: 69.7406
 longitude: 29.9853
+score: 4.9
 ---
 
 The Ice Bar operates within the Snow Hotel complex, open from late December when the hotel is rebuilt each year until it melts in late March or April. Drinks are served in cups carved from ice, the walls are sculpted ice, and the temperature inside stays around −5 °C — warm blankets are provided at the door. It sounds like a gimmick, and partly it is, but the craftsmanship on the ice sculptures is genuinely impressive and the atmosphere (candlelit, cold, absurdly remote) is unlike anywhere else.

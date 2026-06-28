@@ -7,6 +7,7 @@ tags:
 - museum
 title: Haftanan Museum of Stone
 type: poi
+score: 6.5
 ---
 
 The Haftanan Museum displays a small but interesting collection of carved tombstones, lintels, and architectural fragments from across Fars province, brought together in a restored Qajar house in the old quarter. The building itself — with its central pool, painted plaster, and stained glass — is part of the attraction.

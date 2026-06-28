@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 story: "Marie Antoinette visited the Chantilly Hamlet in 1774 and was so charmed by the idea — a working farm rebuilt as a stage set for aristocratic leisure — that she commissioned her own version at Versailles a few years later. The Versailles Hameau, completed in the 1780s, is now the more famous of the two; but the Chantilly original was first."
+score: 7.9
 ---
 
 A cluster of seven thatched-roof cottages arranged around a small lake on the western edge of the domain. The Hamlet was built between 1774 and 1775 for Louis-Joseph de Bourbon, Prince of Condé, as a rustic retreat where aristocrats could play at country life — taking afternoon tea in cottages that looked like peasant dwellings from the outside but contained finely panelled salons within.

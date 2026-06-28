@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_Skogar.JPG
 latitude: 63.526951
 loc_type: city
 longitude: -19.49443
-score: 0.64
+score: 8.54
+snippet: Small south-coast Icelandic settlement at the foot of Skógafoss waterfall
+  and former sea cliffs
 title: Skogar
 type: location
 ---

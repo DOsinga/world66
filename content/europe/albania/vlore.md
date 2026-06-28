@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Promenade_of_Vlor%C3%AB_al
 latitude: 40.47076
 loc_type: city
 longitude: 19.491272
-score: 0.52
+score: 7.78
+snippet: Albanian port city where independence was declared, set between Adriatic
+  beaches and Ionian cliffs
 title: Vlore
 type: location
 ---

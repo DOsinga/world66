@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gympie_City_Town_Hall.jpg
 latitude: -26.190045
 loc_type: city
 longitude: 152.660026
-score: 0.39
+score: 6.61
+snippet: Queensland gold-rush town whose 1867 discovery helped pull the colony from
+  financial trouble
 title: Gympie
 type: location
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Anchorage_Skyline_in_Winte
 latitude: 61.2163
 loc_type: city
 longitude: -149.8949
-score: 0.56
+score: 8.19
+snippet: Alaskan gateway city between Cook Inlet and the Chugach Mountains, with wilderness
+  close to downtown.
 title: Anchorage
 type: location
 ---

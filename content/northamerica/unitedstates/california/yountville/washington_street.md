@@ -6,6 +6,7 @@ longitude: -122.3604
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Washington Street is the spine of Yountville: about a mile of restaurants, tasting rooms, art galleries, and small hotels, with the Napa Valley Wine Train running parallel just to the east. It is genuinely walkable end to end, which is unusual for a Napa town and the easiest argument for using Yountville as a base.

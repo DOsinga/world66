@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_house
 story: "Cohen bought the house in 1960 for $1,500 using money from a small Canadian inheritance. He lived here on and off until the late 1970s with the Norwegian Marianne Ihlen — the Marianne of 'So Long, Marianne' and 'Bird on the Wire.' He wrote much of *The Spice-Box of Earth*, *Flowers for Hitler*, and *Beautiful Losers* here. The house is still owned by the Cohen family and is closed to the public."
+score: 5.6
 ---
 
 A modest white house on a stepped lane two minutes' walk up from the harbour, hidden behind a tall blue door and a fig tree. From the outside it looks like any of a dozen 18th-century captains' houses on the same slope — there is no plaque, no museum, no signage. It is private property and there is nothing inside to see; the appeal is purely as a piece of literary geography.

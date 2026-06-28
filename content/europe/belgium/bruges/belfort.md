@@ -7,6 +7,7 @@ title: Belfort
 type: poi
 category: Sight
 snippet: "Medieval bell tower with 366 steps and sweeping city views"
+score: 9.1
 ---
 
 The Belfort rises 83 metres above the Markt, Bruges's central square. Built in the 13th century as part of the market halls, it served as both a watchtower and a symbol of civic pride — the city's treasury and archives were kept inside. The 47-bell carillon still plays, and you can hear it across the old town every quarter hour.

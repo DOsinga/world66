@@ -6,6 +6,7 @@ tags:
 - sight
 title: Guayaquil Historic Park
 type: poi
+score: 7.1
 ---
 
 The Guayaquil Historic Park (Parque Histórico Guayaquil) is located east of the city in the suburb of Samborondón and recreates the look and atmosphere of old Guayaquil through reconstructed wooden buildings from the early 20th century, before the fires that repeatedly devastated the city. It has a wildlife zone with endemic species from the western region of Ecuador, including spider monkeys, toucans, and crocodiles.

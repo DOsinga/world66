@@ -7,6 +7,7 @@ tags:
 latitude: 62.044
 longitude: 129.6243
 story: "The Permafrost Kingdom is carved into the side of a hill on the edge of Yakutsk, several hundred metres into permanently frozen ground. The temperature inside is a steady minus ten Celsius year-round, even when the summer outside hits plus thirty — which means you visit it in the heat to get cold, and in winter to feel warm."
+score: 8.0
 ---
 
 The Permafrost Kingdom is a tourist complex burrowed into the frozen hillside outside the city. Visitors are issued thick fur coats at the entrance and led through a series of tunnels and chambers filled with ice sculptures — figures from Yakut mythology, frozen thrones, a bar where vodka glasses are made of ice.

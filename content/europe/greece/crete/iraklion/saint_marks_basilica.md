@@ -8,6 +8,7 @@ tags:
 latitude: 35.33917
 longitude: 25.13361
 snippet: "Venetian basilica on Lions Square, now an exhibition hall, with fine Gothic arches"
+score: 6.7
 ---
 
 The Venetian basilica of Saint Mark stands at the corner of Lions Square, directly across from the Morosini Fountain. Built in the 14th century and dedicated to the patron saint of Venice, it served as the seat of the Latin church in Crete throughout the Venetian period. After the Ottoman conquest in 1669 it became a mosque, and after Cretan independence it was used as a cinema, a warehouse, and eventually a municipal exhibition hall — its current function.

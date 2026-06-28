@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.213
 longitude: 2.3508
+score: 7.8
 ---
 
 The lower town on the left bank of the River Aude, built in the 13th century by Louis IX (Saint Louis) after he expelled the original inhabitants of the Cité. Where the Cité is medieval theatre, the Bastide is a working French town: a grid-iron street plan, the handsome Place Carnot market square with its Neptune fountain, bourgeois mansions from the 17th and 18th centuries, and the Saint-Michel Cathedral, which serves the diocese today where the basilica inside the Cité does not.

@@ -8,6 +8,7 @@ tags:
 latitude: 44.3989
 longitude: 0.5903
 story: "The church preserves a fragment of a fortified medieval tower behind its apse — a reminder that this was a frontier zone during the Hundred Years' War, with English-held Aquitaine on one side of the Lot and the French crown on the other. Most of the building was rebuilt in the fifteenth century after the war finally ended."
+score: 6.3
 ---
 
 The parish church of Sainte-Marie is the dominant building in the old centre, a sturdy Gothic structure with a Romanesque core and a heavy square belfry. Inside, the nave is unexpectedly tall for a small-town church, with simple ribbed vaulting and a handful of polychrome statues in the side chapels. There is usually a notice in the porch about visiting hours and the next concert.

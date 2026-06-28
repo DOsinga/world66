@@ -9,6 +9,7 @@ tags:
 - charlottenburg
 title: Café Hegel
 type: poi
+score: 6.1
 ---
 
 A small, cosy bar serving Russian food and sometimes hosting live piano and violin. The charming landlady is part of the appeal. A genuinely warm spot in a neighbourhood that can lean cold.

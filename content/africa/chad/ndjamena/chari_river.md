@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.1400
 longitude: 15.0400
+score: 6.8
 ---
 
 The Chari River forms the border between Chad and Cameroon, and its banks on the N'Djamena side are one of the more pleasant places in the city. Fishermen work the shallows from pirogues — long, narrow wooden boats — in the early morning, and the opposite bank is Cameroon, with the town of Kousseri visible across the water. The border crossing here is one of the busiest in the region, and a steady procession of people and goods moves back and forth by boat.

@@ -11,6 +11,7 @@ story: >
   The aqueduct was designed in 1537 by Pierre Vedel to look Roman — Teruel's civic authorities wanted an infrastructure project that would project classical authority. The lower level was later opened as a pedestrian walkway, which is how it is used today. It is one of the most accomplished works of Spanish Renaissance engineering.
 sources:
   - https://en.wikipedia.org/wiki/Teruel
+score: 7.6
 ---
 
 The Los Arcos Aqueduct is a Renaissance structure built in 1537 to carry water across the Viaducto ravine into Teruel. Its architect designed it to evoke a Roman aqueduct — multiple tiers of arches in stone — and the result is one of the most dramatic pieces of engineering in Aragon. It stands at the edge of the old city where the plateau drops sharply away.

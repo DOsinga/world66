@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Telfair Academy
 type: poi
+score: 8.1
 ---
 
 The Telfair Academy is the oldest public art museum in the American South, founded in 1886 in the former Telfair family mansion — another William Jay Regency building from 1818. The collection focuses on American and European art from the 18th to 20th centuries, with particular strength in American Impressionism and works connected to the Georgia region.

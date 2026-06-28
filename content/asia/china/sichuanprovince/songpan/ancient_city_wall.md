@@ -8,6 +8,7 @@ latitude: 32.6453
 longitude: 103.5712
 story: >
   Songpan's city wall is one of the best-preserved Ming Dynasty fortifications in Sichuan, built in 1379 and strengthened repeatedly over the following century as the town served as the military and commercial linchpin of the tea-horse trade between the Han heartland and the Tibetan and Qiang highlands. The gates are decorated with carved stone inscriptions; the one above the South Gate reads "Protect the Mountain Country" — a straightforward statement of the wall's original purpose.
+score: 8.5
 ---
 
 Songpan's Ming Dynasty city wall, first built in 1379 and surviving in substantial sections today, is 6.2 kilometres long, 12.5 metres high, and in places 12 metres thick — a scale that reflects the town's historical importance as both a military post and a trade entrepôt. The blue-grey brick, mortared with a mixture of glutinous rice, lime, and tung oil, has held together considerably better than most Ming fortifications of comparable age.

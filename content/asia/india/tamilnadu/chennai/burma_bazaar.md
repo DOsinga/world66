@@ -8,6 +8,7 @@ tags:
 latitude: 13.0927
 longitude: 80.2895
 snippet: "Chennai's gray-market district run by Burmese Indian traders for generations."
+score: 7.3
 ---
 
 Burma Bazaar is a sprawling informal market district near the Chennai Harbour, occupying a cluster of permanent sheds and street stalls that have been the domain of Burmese Indian traders since the partition of Burma from British India in 1937. Waves of ethnic Indian refugees from Burma — Tamils and Telugus whose families had been merchants in Rangoon — settled in this area and recreated the trading culture they had known there.

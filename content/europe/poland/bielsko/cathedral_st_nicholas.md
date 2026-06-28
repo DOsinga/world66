@@ -10,6 +10,7 @@ tags:
 - sight
 - religious
 story: The cathedral's slender tower, added in 1907 and rising 61 metres, is visible from every corner of the old town. Architect Leopold Bauer worked it into the medieval church in a neo-Romanesque style that locals quickly accepted as part of the skyline — even though the original church behind it is centuries older.
+score: 6.4
 ---
 
 Bielsko's cathedral has a long, layered history: a parish church here is documented from the late fourteenth century, the Gothic core dates to the sixteenth, and the dramatic tower that now defines its silhouette was added at the start of the twentieth. The interior is restrained — whitewashed walls, ribbed vaulting, a mix of Baroque and neo-Gothic altars — and the acoustics make it a popular venue for choral concerts.

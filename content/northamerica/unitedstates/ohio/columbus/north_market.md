@@ -8,6 +8,7 @@ tags:
 latitude: 39.9732
 longitude: -83.0026
 snippet: "Columbus's farmers and artisan market — the best place to graze and grocery shop in the city"
+score: 7.4
 ---
 
 North Market is a year-round indoor market at the northern end of the Short North, mixing local farmers with prepared food vendors and artisan producers. It is the kind of market Columbus actually uses: you will find serious produce alongside good coffee, handmade pasta, local charcuterie, and excellent baked goods from a rotating cast of vendors.

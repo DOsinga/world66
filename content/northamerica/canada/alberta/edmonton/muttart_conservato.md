@@ -14,6 +14,7 @@ story: >
   simply Edmonton.
 sources:
   - https://en.wikipedia.org/wiki/Muttart_Conservatory
+score: 8.0
 ---
 
 The Muttart Conservatory is one of Edmonton's most distinctive landmarks — four glass pyramids rising from the south bank of the North Saskatchewan River, each enclosing a different biome. Three permanent pyramids contain tropical, arid, and temperate plant collections; the fourth cycles through changing seasonal and themed displays throughout the year.

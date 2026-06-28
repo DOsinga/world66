@@ -1,13 +1,18 @@
 ---
 latitude: 35.013
 longitude: 135.772
+score: 7.3
 snippet: The river that bisects central Kyoto, lined with footpaths and stepping-stones
-story: At each bridge along the central stretch, evenly spaced young couples sit at almost exactly the same distance from one another along the riverbank — a phenomenon studied by Kyoto sociologists in the 1990s, who measured an average spacing of three to four metres.
+story: At each bridge along the central stretch, evenly spaced young couples sit at
+  almost exactly the same distance from one another along the riverbank — a phenomenon
+  studied by Kyoto sociologists in the 1990s, who measured an average spacing of three
+  to four metres.
 tags:
 - things_to_do
 - river
 - nature_sight
 - sight
+- downtown_kyoto
 title: Kamo River
 type: poi
 ---

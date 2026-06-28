@@ -6,6 +6,7 @@ longitude: 74.9356
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 An unlikely sight: the cooling reservoir of the (now-decommissioned) Guru Nanak Dev Thermal Power Station has become, almost by accident, a birding spot of regional importance. In winter the lake fills with migrating waterfowl — northern pintails, gadwalls, common pochards, occasional flamingoes — drawn from across central Asia.

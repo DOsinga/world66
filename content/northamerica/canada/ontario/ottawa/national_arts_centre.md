@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 45.4231
 longitude: -75.6939
+score: 7.4
 ---
 
 The National Arts Centre is Canada's main performing arts venue, a brutalist concrete complex at the edge of the Rideau Canal that houses opera, ballet, theatre and orchestral performances. The building was completed in 1969 and has recently been renovated — the new glass addition on Elgin Street has opened up the formerly opaque facade and connected the building to the street in a way the original design didn't. The resident National Arts Centre Orchestra is one of Canada's finest.

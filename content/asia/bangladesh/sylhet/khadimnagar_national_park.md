@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.9450
 longitude: 91.9572
+score: 9.0
 ---
 
 Khadimnagar is a small protected forest about 15 km northeast of the city, covering a hill ridge of mixed evergreen woodland. The park protects monkeys, slow lorises, civets, and an excellent range of forest birds, and a marked nature trail runs about 3 km through the best of the habitat.

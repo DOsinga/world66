@@ -9,6 +9,7 @@ tags:
 title: Calactus Cafe
 type: poi
 snippet: Long-running vegetarian cafe near downtown
+score: 5.2
 ---
 
 Calactus is a vegetarian cafe just off the downtown core that has been operating since the early 1990s — an unusual amount of staying power for a meatless restaurant in seafood country. The menu runs to thali plates, falafel wraps, veggie burgers, tofu stir-fries, and an excellent rotation of homemade soups.

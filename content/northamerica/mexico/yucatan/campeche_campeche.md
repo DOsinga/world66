@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Calakmul_bio_reserve.jpg
 latitude: 19.8454
 loc_type: city
 longitude: -90.5253
-score: 0.63
+score: 8.7
+snippet: Walled Gulf port city of pastel colonial streets, pirate history, and nearby
+  Maya ruins
 title: Campeche
 type: location
 ---

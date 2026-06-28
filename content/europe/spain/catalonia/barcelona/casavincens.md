@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.403648
 longitude: 2.151316
+score: 8.5
 snippet: Gaudi’s exuberant first house, all tiles and colour
 tags:
 - things_to_do
 - sights
+- gracia
 title: Casa Vicens
 type: poi
 ---

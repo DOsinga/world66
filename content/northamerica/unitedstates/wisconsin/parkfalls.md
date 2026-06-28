@@ -5,7 +5,9 @@ done:
 latitude: 45.933825
 loc_type: city
 longitude: -90.451745
-score: 0.33
+score: 5.75
+snippet: Northern Wisconsin city serving as a gateway to Chequamegon-Nicolet forests,
+  Northwoods lakes, and Flambeau River country.
 title: Park Falls
 type: location
 ---

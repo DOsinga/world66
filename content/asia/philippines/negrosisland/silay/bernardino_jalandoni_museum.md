@@ -7,6 +7,7 @@ tags:
 latitude: 10.801858
 longitude: 122.977309
 story: "Don Bernardino Jalandoni was not just a sugar planter — he was also a poet and literary figure who wrote in Hiligaynon. His house became a salon for Negrense intellectuals, and the museum now holds a collection of early twentieth-century literature that reveals a side of sugar-boom Negros rarely discussed in tourism materials."
+score: 7.5
 ---
 
 The Bernardino Jalandoni Museum occupies the ancestral home of the Jalandoni family on Rizal Street, a short walk from the Balay Negrense. The house was built in the early twentieth century and is a good example of the transitional style that combined Spanish colonial features with American-period influences — wide verandas, concrete columns alongside traditional woodwork.

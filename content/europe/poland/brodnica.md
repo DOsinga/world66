@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Brodnica,_Du%C5%BCy_Rynek.
 latitude: 53.258092
 loc_type: city
 longitude: 19.399363
-score: 0.37
+score: 6.27
+snippet: Northern Polish town with a triangular market square, Teutonic castle remains,
+  and Drwęca river setting.
 title: Brodnica
 type: location
 ---

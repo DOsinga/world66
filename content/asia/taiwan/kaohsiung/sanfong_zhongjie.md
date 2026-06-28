@@ -7,6 +7,7 @@ tags:
 latitude: 22.6418
 longitude: 120.3025
 snippet: Old Chinese medicine and dried-goods street near Kaohsiung station
+score: 7.7
 ---
 
 A street that has been selling dried goods, Chinese medicinal herbs, mushrooms, seaweed and preserved fruit since the 1940s. Sanfong Zhongjie has retained more of an old-Taiwan atmosphere than most of the city — the shopkeepers are mostly older, the shops are family-run, and the herbs are still measured out with brass weighing scales.

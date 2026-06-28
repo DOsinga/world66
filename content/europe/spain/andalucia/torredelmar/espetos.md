@@ -14,6 +14,7 @@ story: >
   tradition is particularly strong in the Axarquía — the coast east of Málaga — where
   the local espetera fishing boat and its associated culture are now protected under
   Andalucían intangible cultural heritage law.
+score: 8.0
 ---
 
 The defining food experience in Torre del Mar is eating espetos — fresh sardines threaded on bamboo canes and grilled over wood fires — at one of the chiringuitos along the Paseo Marítimo. This is the Costa del Sol tradition at its most authentic and unpretentious. The sardines are cooked over an open fire directly on the beach, arrived that morning from the boats at La Caleta.

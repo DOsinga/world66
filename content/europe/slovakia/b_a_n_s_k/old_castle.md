@@ -15,6 +15,7 @@ story: >
   unique in Slovakia.
 sources:
   - https://en.wikipedia.org/wiki/Bansk%C3%A1_%C5%A0tiavnica
+score: 8.5
 ---
 
 The Old Castle dominates Banská Štiavnica from its hilltop position above the town. What looks like a medieval fortification turns out to be a fortified church — the original Gothic Church of the Assumption was encased in defensive walls and towers in the sixteenth century to protect the population from Ottoman raids, and the resulting structure is unlike anything else in the country.

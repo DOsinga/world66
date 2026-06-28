@@ -11,6 +11,7 @@ address: "364 Smith Street"
 snippet: "Restored 1906 Edwardian theatre with extraordinary interior"
 sources:
   - https://en.wikipedia.org/wiki/Burton_Cummings_Theatre
+score: 6.8
 ---
 
 Built in 1906 as the Walker Theatre, this Edwardian Baroque venue was restored and renamed in honour of Winnipeg's most famous rock musician. The interior — ornate plasterwork, gilded boxes, deep red upholstery — is one of the finest surviving theatre interiors in western Canada. It hosts touring concerts, comedy, and occasional opera productions. Even if you don't catch a show, the building is worth the look.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Colégio 27
 type: poi
+score: 6.1
 ---
 
 A stylish spot in the centre of town, combining an international restaurant with a jazz lounge bar. The menu changes regularly and is chalked on blackboards; the cooking is ambitious by local standards. Good for both dinner and an evening drink, with occasional live music.

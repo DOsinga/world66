@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Horseshoe_Bay_Beach,_Bermu
 latitude: 32.2652
 loc_type: city
 longitude: -64.8534
-score: 0.57
+score: 8.2
+snippet: Western Bermuda parish where South Shore coves and pink sand beaches line
+  a quiet coast.
 sources:
 - https://en.wikipedia.org/wiki/Southampton_Parish,_Bermuda
 - https://en.wikipedia.org/wiki/Horseshoe_Bay,_Bermuda

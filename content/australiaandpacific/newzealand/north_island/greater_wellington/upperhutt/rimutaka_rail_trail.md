@@ -12,6 +12,7 @@ story: >
   the steepest in the country. The system required specially built locomotives
   and a small army of brakemen. The line closed in 1955 when a tunnel bypassed
   the summit, and the old railbed became the trail it is today.
+score: 8.5
 ---
 
 The Remutaka Rail Trail follows the route of the old Remutaka Incline Railway across the ranges between Upper Hutt and the Wairarapa, climbing through native bush to a high saddle before descending to the flat farm country on the eastern side. The trail is 115 km one way, though the classic section from Maymorn in the Upper Hutt valley to Featherston in the Wairarapa — about 40 km — can be done in a long day by fit cyclists or over two days at a gentler pace.

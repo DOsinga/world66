@@ -5,7 +5,9 @@ done:
 latitude: 38.149375
 loc_type: city
 longitude: 48.074621
-score: 0.37
+score: 6.36
+snippet: Small Iranian spa town in the Alborz foothills, known for mineral springs
+  fed by Mount Sabalan.
 title: Sareyn
 type: location
 ---

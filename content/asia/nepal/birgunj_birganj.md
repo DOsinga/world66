@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ghadiarwa_Pokhara_Birgunj_
 latitude: 27.042839
 loc_type: city
 longitude: 84.856979
-score: 0.31
+score: 5.67
+snippet: Terai border city and Nepal's main trade gateway to India, paired with Raxaul
+  across the frontier.
 title: Birgunj
 type: location
 ---

@@ -1,12 +1,16 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+image: wan_chai.jpg
+image_attribution: Photoed by Jerry Crimson Mann 21:09, 5 Jun 2005 (UTC)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Busy_streets_in_Wan_Chai.JPG
 latitude: 22.2775
 longitude: 114.1731
 snippet: Gritty, gentrifying neighbourhood where old and new Hong Kong collide
 tags:
-- hongkongisland
 - things_to_do
+- neighbourhood
 title: Wan Chai
 type: neighbourhood
 ---

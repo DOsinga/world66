@@ -1,11 +1,13 @@
 ---
 latitude: 34.9905
 longitude: 135.7728
+score: 8.8
 snippet: The principal museum for Kyoto's pre-modern art and Buddhist heritage
 tags:
 - things_to_do
 - museum
 - sight
+- higashiyama
 title: Kyoto National Museum
 type: poi
 ---

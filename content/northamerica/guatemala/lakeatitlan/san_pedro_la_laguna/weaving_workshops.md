@@ -8,6 +8,7 @@ tags:
 latitude: 14.6938
 longitude: -91.2710
 snippet: Learn backstrap loom weaving from Tz'utujil Maya women
+score: 7.0
 ---
 
 Several women's cooperatives in San Pedro La Laguna offer hands-on backstrap loom workshops where you sit with a weaver and try the technique yourself. The backstrap loom — a simple but remarkably versatile tool that ties at one end to a fixed point and at the other around the weaver's waist — has been used in this region for over a thousand years. The fabric produced here is some of the most technically sophisticated textile work made anywhere in Guatemala.

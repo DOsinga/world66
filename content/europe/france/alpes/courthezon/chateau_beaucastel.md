@@ -8,6 +8,7 @@ latitude: 44.1052
 longitude: 4.8523
 snippet: One of Châteauneuf-du-Pape's most celebrated estates
 story: Beaucastel is unusual in the appellation for planting all thirteen permitted grape varieties — most producers work with three or four. The estate has been in the Perrin family since 1909, and the same family now has wine estates in California and Spain. Visits by appointment only.
+score: 8.6
 ---
 
 Château de Beaucastel is one of the most famous and consistently praised estates in the Châteauneuf-du-Pape appellation, sitting just north of the village on the road to Orange. The Perrin family has run the estate for over a century, and their wines — particularly the red, built on a backbone of old-vine Mourvèdre — age for decades and are sought by collectors worldwide.

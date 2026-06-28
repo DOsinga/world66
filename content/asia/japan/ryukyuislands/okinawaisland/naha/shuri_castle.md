@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Gusuku_Sites_and_Related_Properties_of_the_Kingdom_of_Ryukyu
   - https://en.wikipedia.org/wiki/Shuri_Castle
+score: 8.9
 ---
 
 Shuri Castle stands on a hill east of the city centre, the former palace of the Ryukyu Kingdom and the symbolic heart of Okinawan history. The Ryukyus were an independent kingdom from 1429 until Japanese annexation in 1879, and Shuri was their capital — a place of court ceremony, Chinese and Japanese diplomatic contacts, and a culture that was distinctly neither Chinese nor Japanese but its own.

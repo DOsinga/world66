@@ -9,6 +9,7 @@ longitude: 22.5833
 snippet: An 11th-century monastic complex, traditionally believed to mark the site of a Byzantine atrocity
 story: >
   The name Vodoča comes from the Macedonian *vadi oči* — "to gouge eyes". Tradition holds that in 1014, after defeating the Bulgarian Tsar Samuel at the Battle of Kleidion, the Byzantine emperor Basil II had 15,000 captured Bulgarian soldiers blinded near this spot, leaving one in every hundred with a single eye to lead the others home. Samuel died of shock days after seeing them return. The monastery is traditionally said to mark the site.
+score: 8.3
 ---
 
 The Monastery of Saint Leontius at Vodoča lies about 7 km west of Strumica, on the same back road as Veljusa. Three churches in a small walled compound mark the centuries of building: the surviving central church dates to the 11th century, with a slightly later western annex and a small chapel.

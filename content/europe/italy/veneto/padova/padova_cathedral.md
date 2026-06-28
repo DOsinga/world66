@@ -8,6 +8,7 @@ latitude: 45.40671
 longitude: 11.8722
 story: >
   Michelangelo submitted a design for the cathedral facade in the 16th century. It was rejected. The facade still has not been finished and stands today as raw brick — a bare front for a cathedral that has been "temporarily" unfinished for 500 years. The real treasure is next door: the baptistery's 14th-century fresco cycle by Giusto de' Menabuoi covers every surface including the dome, a complete theological programme that predates and arguably rivals Giotto's chapel nearby.
+score: 8.3
 ---
 
 Padova's cathedral is a substantial Renaissance building, largely rebuilt in the 16th century to a design partly attributed to Michelangelo — though the facade was never completed and the exterior remains brick. The interior is cool and spacious, with a large crypt containing the relics of early bishops of Padova.

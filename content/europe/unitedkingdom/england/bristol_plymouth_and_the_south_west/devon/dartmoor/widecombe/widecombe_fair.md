@@ -10,6 +10,7 @@ story: >
   The song "Widecombe Fair" — known to every English schoolchild — tells the story of old Tom Cobley and his friends borrowing a grey mare to ride to the fair, killing the horse with the weight of seven riders, and being haunted by its ghost. The song dates to at least the early 19th century, though the fair itself goes back centuries earlier. A real Tom Cobley lived in the nearby village of Spreyton in the 18th century and is buried there.
 sources:
   - https://en.wikipedia.org/wiki/Widecombe_Fair
+score: 7.8
 ---
 
 Widecombe Fair takes place on the second Tuesday of September each year and has done so for centuries, attracting farmers, traders, and visitors from across Devon and beyond. It is primarily an agricultural fair — livestock, produce, and crafts — but the fun fair, the morris dancers, and the general festive chaos make it a proper event rather than a solemn agricultural show.

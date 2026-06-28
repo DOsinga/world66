@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Limonada
 type: poi
+score: 5.0
 ---
 
 A sleek cocktail lounge on a quiet side street just off the cathedral square. The interior leans toward the trendy side - low lighting, comfortable seating, house music at a conversational volume. Cocktails start around five to seven euros, which is reasonable for a place like this in central Ghent.

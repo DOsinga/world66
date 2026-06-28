@@ -8,6 +8,7 @@ tags:
   - historic_house
 latitude: 39.0842
 longitude: -77.1553
+score: 7.2
 ---
 
 The Beall–Dawson House is a Federal-style mansion built around 1815, one of the best-preserved early 19th-century homes in Montgomery County. It serves as the headquarters of the Montgomery County Historical Society and contains period furnishings, decorative arts, and rotating exhibits on the county's history.

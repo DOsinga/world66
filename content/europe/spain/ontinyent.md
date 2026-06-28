@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Vila_d%27Ontinyent.jpg
 latitude: 38.8209
 loc_type: city
 longitude: -0.61
-score: 0.46
+score: 6.88
 title: Ontinyent
+snippet: Inland Valencian city in the Vall d'Albaida, known for its Moros i Cristians
+  festival.
 type: location
 ---
 

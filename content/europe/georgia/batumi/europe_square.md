@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Europe Square
 type: poi
+score: 8.0
 ---
 
 Europe Square (Evropas Moedani) is the pedestrian heart of Batumi's old town — a triangular open space bordered by pastel-painted nineteenth-century facades, with the Statue of Medea rising in the middle. The buildings are mostly merchants' houses and small hotels from the era when Batumi was a Russian-imperial oil-export port, with ornate balconies, columns, and the occasional astronomical clock.

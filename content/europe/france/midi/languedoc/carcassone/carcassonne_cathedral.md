@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Bastide Saint-Louis
+score: 6.9
 ---
 
 The Cathedral of Saint-Michel in the Bastide replaced the basilica up in the Cité as the seat of the diocese in 1801. The building is fourteenth-century southern Gothic — a single broad nave without aisles, the standard regional plan — and was originally a fortified parish church, with the buttresses doubling as defensive piers.

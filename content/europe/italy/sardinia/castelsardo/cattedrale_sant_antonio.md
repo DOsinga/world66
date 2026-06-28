@@ -14,6 +14,7 @@ story: >
   combined Catalan Gothic style with elements from Flemish painting. The master's identity has
   never been established; the name is simply that of this altarpiece. Several other works by
   the same anonymous hand survive in churches scattered across the Anglona region.
+score: 8.1
 ---
 
 The Cathedral of Sant'Antonio Abate clings to the cliff edge of the old town, just below the castle and above a sheer drop to the sea. The building dates from the late medieval period and has been modified many times, but retains a Romanesque-Gothic character in its stonework and proportions.

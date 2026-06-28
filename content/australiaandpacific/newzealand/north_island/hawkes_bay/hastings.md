@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hastings_CBD_Oct_2023.jpg
 latitude: -39.641768
 loc_type: city
 longitude: 176.843078
-score: 0.53
+score: 7.69
+snippet: Hawke's Bay agricultural city with Art Deco architecture from the 1931 earthquake
+  rebuild.
 title: Hastings
 type: location
 ---

@@ -9,6 +9,7 @@ tags:
 neighbourhood: Al Balad
 latitude: 21.4870
 longitude: 39.1894
+score: 6.9
 ---
 
 A no-frills Yemeni-Hijazi place in Al Balad serving the regional staples that this part of Arabia does best — mandi (slow-cooked rice with lamb or chicken in a tandoor oven), kabsa (the spiced-rice national dish), and salta (a spicy Yemeni stew).

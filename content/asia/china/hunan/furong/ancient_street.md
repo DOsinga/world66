@@ -15,6 +15,7 @@ story: >
   inescapable. The tofu stall at the base of the street, where the film's
   protagonist sells her tofu and loses everything, has been preserved and is
   now one of the most visited sites in Hunan.
+score: 8.8
 ---
 
 Furong's ancient street runs about one thousand metres from the You River level at the bottom to the plateau above, climbing the cliff face on stone steps past two- and three-storey timber buildings constructed in the Tujia stilt-house tradition. The street is paved in river stone worn smooth by centuries of use, flanked by wooden shopfronts, guesthouses, and workshops. The waterfall is visible at multiple points along the climb; the sound accompanies the entire walk.

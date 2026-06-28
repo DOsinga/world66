@@ -12,6 +12,7 @@ story: >
   Mount Nyangani (2,592m), Zimbabwe's highest peak, has a peculiar reputation for making people disappear. Dozens of hikers have gone missing on its slopes over the decades, and the mountain is considered sacred and dangerous by local Shona communities. The disappearances remain unexplained — the terrain is not exceptionally treacherous — and the mountain has acquired a genuine mystique.
 sources:
   - https://en.wikipedia.org/wiki/Nyanga_National_Park
+score: 8.6
 ---
 
 Nyanga National Park, about 100km north of Mutare, contains Zimbabwe's highest peak (Mount Nyangani, 2,592m) and the Mtarazi Falls, which drop 762m into the Honde Valley — the second highest waterfall in Africa. The national park also has Zimbabwe's only trout fishing streams and a landscape of rolling grassland, forest patches, and rocky kopjes quite unlike the rest of the country.

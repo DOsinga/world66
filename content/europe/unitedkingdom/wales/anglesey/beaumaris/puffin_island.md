@@ -9,6 +9,7 @@ tags:
   - nature
 sources:
   - https://en.wikipedia.org/wiki/Puffin_Island,_Anglesey
+score: 7.6
 ---
 
 Puffin Island — Ynys Seiriol in Welsh — sits in the Irish Sea off the easternmost tip of Anglesey, about four miles from Beaumaris pier. It is uninhabited, a privately owned Special Protection Area for seabirds, and reachable only by boat. Several operators run hour-long cruises from the Beaumaris pier in season, weather permitting.

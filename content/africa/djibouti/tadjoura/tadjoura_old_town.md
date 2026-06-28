@@ -7,6 +7,7 @@ tags:
 snippet: "Whitewashed streets, old mosques, and the character of an Afar trading port"
 latitude: 11.7833
 longitude: 42.8833
+score: 8.2
 ---
 
 Tadjoura's old town is the most historically intact settlement in Djibouti — a compact district of whitewashed buildings and narrow lanes that reflect its long history as an Afar sultanate seat and trading port. The town was exporting slaves and ivory to Arabia and India for centuries before the French arrived in the 1880s, and the Arab-influenced architecture of the older mosques and merchants' houses still shows that connection.

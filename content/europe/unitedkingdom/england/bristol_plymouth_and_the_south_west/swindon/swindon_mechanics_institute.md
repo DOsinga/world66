@@ -8,6 +8,7 @@ tags:
   - sight
 title: Swindon Mechanics' Institute
 type: poi
+score: 6.8
 ---
 
 The Mechanics' Institute was built in 1855 by the Great Western Railway as a facility for the education and recreation of its Swindon Works employees — a library, reading room, theatre, and classrooms all under one roof. The GWR subsidised memberships, deducting a penny a week from workers' wages. At a time when the company ran the town, it was one of the more enlightened examples of Victorian paternalistic capitalism.

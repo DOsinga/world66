@@ -7,6 +7,7 @@ tags:
 latitude: 51.6700
 longitude: -1.2815
 story: "On the coronation of every new monarch, the mayor and corporation still climb to the roof of the County Hall and throw hot buns down to the crowd in the market square below — a tradition recorded since at least 1761. The buns are stamped with the date and the monarch's initial, and surviving examples are kept in the museum's collection."
+score: 8.4
 ---
 
 The County Hall is the centrepiece of the market square — a magnificent Grade I-listed building begun in 1678 and designed by Christopher Kempster, a mason who had worked under Christopher Wren on St Paul's. The arcaded ground floor was originally an open market hall, and the courtroom upstairs is now the museum's main gallery.

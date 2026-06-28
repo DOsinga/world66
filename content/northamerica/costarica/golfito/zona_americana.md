@@ -8,6 +8,7 @@ tags:
   - sight
   - historical_site
 story: "The Zona Americana housed United Fruit's senior managers in bungalows with screened porches, manicured lawns, and an exclusive country club — kept rigorously separate from the workers' Pueblo Civil district. When the company pulled out in 1985, the bungalows were sold off in lots; you can still walk the gridded streets and read the company history off the architecture."
+score: 7.5
 ---
 
 The northern end of Golfito preserves the planned town that the United Fruit Company built in the 1930s for its expatriate management. Wide streets, two-storey wooden bungalows on stilts, and the broad avenue along the waterfront still survive, slowly being eaten by the jungle and the rainfall.

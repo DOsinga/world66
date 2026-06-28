@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 47.5567
 longitude: 8.8989
+score: 7.5
 ---
 
 Thurgau's quiet cantonal capital sits on the Murg River, between the lake and the forested hills of the Bichelseegebiet. The old town is a single long line of houses below the medieval castle, mostly 16th- and 17th-century with painted façades and stone signs, and a Saturday market on the Marktgasse that draws growers from across the canton.

@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Islands_of_transition_zone
 latitude: 66.716118
 loc_type: city
 longitude: 27.433353
-score: 0.37
+score: 6.66
+snippet: Small Finnish Lapland town on Lake Kemijärvi, at the northern end of regular
+  passenger rail.
 title: Kemijärvi
 type: location
 ---
@@ -17,4 +19,4 @@ Kemijärvi is a small town in Finnish Lapland, set on the shores of a beautifull
 
 The surrounding area is dotted with summer cottages, many on the shores of [Lake Kemijärvi](/europe/finland/kemijarvi/lake_kemijarvi). In winter the landscape transforms into a snow-covered wilderness, and this is [reindeer herding country](/europe/finland/kemijarvi/reindeer_herding) — hundreds of them roam freely, so watch out on the roads.
 
-[Kemijärvi railway station](/europe/finland/kemijarvi/kemijarvi_railway_station) is the northernmost regular passenger station on the Finnish rail network, at the end of the overnight sleeper line from Helsinki. From here, [Pyhä-Luosto National Park](/europe/finland/kemijarvi/pyha_luosto_national_park) is a 50-kilometre drive south through the forest, and [Luosto](/europe/finland/kemijarvi/luosto) ski resort and amethyst mine is about 70 kilometres away.
+[Kemijärvi railway station](/europe/finland/kemijarvi/kemijarvi_railway_station) is the northernmost regular passenger station on the Finnish rail network, at the end of the overnight sleeper line from Helsinki. From here, [Pyhä-Luosto National Park](/europe/finland/kemijarvi/pyha_luosto_national_park) is a 50-kilometre drive south through the forest, and [Luosto](/europe/finland/luosto) ski resort and amethyst mine is about 70 kilometres away.

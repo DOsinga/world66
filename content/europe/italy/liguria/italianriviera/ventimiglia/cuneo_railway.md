@@ -14,6 +14,7 @@ story: >
   appears to hang in mid-air above a river gorge. During World War II the line
   was repeatedly bombed and didn't fully reopen until 1979. It now operates just
   a few trains a day and remains largely unknown outside the region.
+score: 8.9
 ---
 
 The narrow-gauge railway that climbs from Ventimiglia up through the Roja valley and over the Alps to Cuneo is one of the great slow train journeys of northern Italy. In roughly three hours the line gains nearly 1,000 metres of altitude, passes through medieval hilltop villages like Dolceacqua and Pigna, plunges into Alpine tunnels, and crosses bridges that offer vertiginous views down to river gorges below. The descent into the Piedmontese plain on the far side is equally dramatic.

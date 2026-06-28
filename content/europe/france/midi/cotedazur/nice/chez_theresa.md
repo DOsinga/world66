@@ -8,6 +8,7 @@ tags:
 address: "Cours Saleya, Vieux Nice"
 latitude: 43.6955
 longitude: 7.2762
+score: 7.2
 ---
 
 Chez Thérésa claims to be the original socca stall in Nice, and no one has seriously disputed it. The wood-fired oven in the tiny space on Cours Saleya dates to 1867, when it served a bakery; Madame Thérésa adapted it for chickpea baking in the early 20th century and sold socca to the fishermen of the port from a cart. Today the operation is unchanged in essentials: socca baked in large copper pans, portioned and served on paper in minutes.

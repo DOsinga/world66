@@ -6,6 +6,7 @@ latitude: 34.5796
 longitude: 108.2106
 story: >
   Among the 61 headless stone officials that line the Sacred Way, Chinese historians long wondered why their heads were missing. The most likely explanation — confirmed by examination of the damage — is that they were destroyed during foreign invasions in the Jin and Yuan dynasties, when the effigies of Tang officials were seen as symbols of a rival court. A few inscribed bases still identify who the figures were meant to represent.
+score: 8.6
 ---
 
 The Qianling Mausoleum, in Qian County about sixty kilometres northwest of Weinan city, is the joint burial place of the Tang Emperor Gaozong (r. 649–683) and his wife Wu Zetian — the only woman in Chinese history to rule as emperor in her own name. The tomb is built into a natural hill, Liangshan, whose twin peaks form the silhouette visible for miles across the plain. Neither the main tomb nor Wu Zetian's adjacent burial has ever been excavated; what you see is the landscape and the approach.

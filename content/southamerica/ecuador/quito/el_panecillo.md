@@ -14,6 +14,7 @@ story: >
   carved by Bernardo de Legarda that is kept in the church of San Francisco.
   Unlike most Virgin images, this one is depicted in mid-flight, with wings
   spread and a serpent crushed beneath her feet.
+score: 6.7
 ---
 
 El Panecillo ("the little bread roll") is a volcanic hill that rises 200 metres above the Historic Centre, crowned by the enormous aluminium figure of the Virgen de Quito that has been the city's most recognisable landmark since 1976. The views from the summit are among the best in Quito — a 360-degree panorama that takes in the Historic Centre below, the modern city spreading north, and the ring of volcanoes that surrounds the city on all sides. On clear mornings (the best time to visit), both Pichincha to the west and Cotopaxi to the south are visible.

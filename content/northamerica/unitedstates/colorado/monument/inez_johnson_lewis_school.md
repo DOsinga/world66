@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 5.3
 ---
 
 The Inez Johnson Lewis School is the most substantial historic building in Monument. Completed in 1922 in a restrained Classical Revival style, it served as the town's school for decades and is now the administration building for the Lewis-Palmer School District. The two-story brick facade with its prominent entrance and stone trim is on the National Register of Historic Places.

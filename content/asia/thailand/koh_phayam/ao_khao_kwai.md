@@ -7,6 +7,7 @@ tags:
 snippet: "Sheltered east-coast bay, calmer than the main beach and better for swimming year-round"
 latitude: 9.75
 longitude: 98.42
+score: 6.8
 ---
 
 Buffalo Horn Bay curves around the eastern side of the island and is generally calmer than Ao Yai. The more sheltered position makes it a better choice for swimming when the Andaman side is rough, and there are mangroves at the northern end worth exploring by kayak. A handful of simple bungalows sit above the beach, and there are a couple of small restaurants serving Thai food and fresh seafood.

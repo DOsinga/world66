@@ -1,11 +1,21 @@
 ---
-snippet: A Romanesque cathedral with a golden Pórtico del Paraíso modelled on Santiago's famous portico
+latitude: 42.3364
+longitude: -7.8629
+score: 8.7
+snippet: A Romanesque cathedral with a golden Pórtico del Paraíso modelled on Santiago's
+  famous portico
+story: The Pórtico del Paraíso inside Ourense's cathedral is a direct artistic response
+  to Santiago's famous Pórtico de la Gloria — built a few decades later by sculptors
+  who had evidently seen it and decided to push the polychrome gilding further. While
+  Santiago's portico has faded to stone, Ourense's retains much of its original paint,
+  giving you a rare sense of how these medieval sculptures actually looked when they
+  were new.
 tags:
 - things_to_do
-- landmark
+- sight
+- architecture
 title: Cathedral of Ourense
 type: poi
-story: The Pórtico del Paraíso inside Ourense's cathedral is a direct artistic response to Santiago's famous Pórtico de la Gloria — built a few decades later by sculptors who had evidently seen it and decided to push the polychrome gilding further. While Santiago's portico has faded to stone, Ourense's retains much of its original paint, giving you a rare sense of how these medieval sculptures actually looked when they were new.
 ---
 
 Ourense's cathedral is one of the finest Romanesque buildings in Galicia, begun in the 12th century and completed with Gothic additions over the following two centuries. The exterior is relatively austere Romanesque granite; the interior is where the surprises are. The Capilla del Cristo, containing a venerated figure of Christ said to be of supernatural origin, draws pilgrims from across the region. The high altar is an elaborate Renaissance retablo behind gilded Gothic arches.

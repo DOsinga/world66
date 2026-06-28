@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - garden
 - historic_site
+score: 8.1
 ---
 
 Zhanyuan Garden (瞻园) is the oldest preserved garden in Nanjing, dating from the Ming dynasty and expanded by Qing-era owners. The garden is built around a central pool with Taihu limestone rockeries — the dramatically perforated stones brought from Taihu Lake in Jiangsu — arranged on the banks. The rockeries are unusually large and well-preserved examples of the classical literati garden tradition.

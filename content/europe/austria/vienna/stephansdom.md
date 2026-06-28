@@ -14,6 +14,7 @@ tags:
 - innere_stadt
 title: Stephansdom
 type: poi
+score: 9.6
 ---
 
 The heart of Vienna's inner city. St. Stephen's Cathedral dominates Stephansplatz with its Gothic bulk and the brightly coloured chevrons of its tiled roof. Inside, the vaulted interior features a remarkable early 16th-century carved stone pulpit by Anton Pilgram. The catacombs house the entrails of illustrious Habsburgs in bronze caskets. One of the cathedral's towers can be ascended by lift for views and a look at the Pummerin, the great bell.

@@ -11,6 +11,7 @@ story: >
   1835 as a deliberate statement of independence from the central Ottoman government in
   Algiers. When the French took Constantine in 1837, they used the palace as their military
   headquarters — an indignity that Ahmed Bey spent the rest of his life trying to reverse.
+score: 9.1
 ---
 
 The finest Ottoman palace in Algeria, built for the last bey of Constantine in the early 19th century. The palace is enormous — over 5,000 square metres arranged around a central garden courtyard with marble colonnades, ornate carved woodwork, and painted ceramic tiles. It was modelled on the palaces of the Bardo in Tunis rather than the Ottoman style of Algiers, giving it a distinct North African grandeur.

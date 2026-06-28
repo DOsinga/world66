@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.8
 ---
 
 A modern seafood restaurant on the Boulevard de Ruyter, with floor-to-ceiling windows looking out over the Western Scheldt. The menu changes weekly with the catch — oysters, lobster, North Sea sole, brown shrimp croquettes — and the wine list is heavy on Loire whites that go with shellfish.

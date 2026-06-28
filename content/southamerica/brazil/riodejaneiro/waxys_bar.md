@@ -5,10 +5,12 @@ done:
 latitude: -22.986
 longitude: -43.203
 phone: '22472808'
+score: 4.1
 snippet: Lively Ipanema bar with nightly live music
 tags:
 - bars_and_cafes
 - bar
+- ipanema
 title: Waxy's Bar
 type: poi
 ---

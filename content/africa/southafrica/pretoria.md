@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pretoria_Union_Buildings_i
 latitude: -25.745928
 loc_type: city
 longitude: 28.18791
-score: 0.5
+score: 7.37
+snippet: South African executive capital of jacaranda avenues, Union Buildings, and
+  highveld history north of Johannesburg.
 sources:
 - https://en.wikipedia.org/wiki/Pretoria
 - https://en.wikipedia.org/wiki/Union_Buildings

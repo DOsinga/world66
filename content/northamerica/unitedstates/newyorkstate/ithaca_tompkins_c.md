@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/30515687@N05/3678122369
 latitude: 42.439172
 loc_type: city
 longitude: -76.505061
-score: 0.54
+score: 7.55
+snippet: Finger Lakes college town at the southern tip of Cayuga Lake, shaped by Cornell
+  University.
 title: Ithaca
 type: location
 ---

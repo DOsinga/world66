@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/9297241@N02/31311384470
 latitude: 37.1891
 loc_type: city
 longitude: -112.9988
-score: 0.67
+score: 8.81
+snippet: Tiny Utah gateway town at Zion Canyon's mouth, backed by red-and-white sandstone
+  cliffs.
 title: Springdale
 type: location
 ---

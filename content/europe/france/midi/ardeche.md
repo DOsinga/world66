@@ -8,6 +8,8 @@ latitude: 44.815194
 loc_type: region
 longitude: 4.398652
 score: 0.59
+snippet: Southern French region known for its long limestone gorge, canoeing routes,
+  caves, waterfalls, and hill villages.
 title: Ardeche
 type: location
 ---

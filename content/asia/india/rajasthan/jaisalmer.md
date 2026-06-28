@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jaisalmer_Fort.jpg
 latitude: 26.9117
 loc_type: city
 longitude: 70.9125
-score: 0.72
+score: 9.27
+snippet: Thar Desert city of golden sandstone, centred on a living fort of havelis
+  and Jain temples
 title: Jaisalmer
 type: location
 ---

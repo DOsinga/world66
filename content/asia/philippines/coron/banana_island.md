@@ -9,6 +9,7 @@ address: Banana Island, Palawan
 latitude: 11.8167
 longitude: 120.0833
 snippet: White-sand island and reef on the southern island-hopping circuit
+score: 6.8
 ---
 
 Banana Island is one of the prettier stops on the southern Calamian island-hopping circuit — a small island fringed with white sand and shallow turquoise water, with a healthy patch of reef just offshore. The interior is mostly coconut grove, with a handful of nipa huts where the boatmen prepare grilled fish for lunch.

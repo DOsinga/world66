@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3243
 longitude: -89.2905
+score: 6.2
 ---
 
 The Hattiesburg Zoo in Kamper Park is a genuine rarity in Mississippi: free admission, seven days a week. The zoo is small by major-city standards — about 30 acres — but it is well maintained and holds a decent collection of animals including giraffes, primates, and various big cats. The rides (a carousel, a miniature train) make it genuinely child-friendly in a way that larger, more serious zoos sometimes aren't.

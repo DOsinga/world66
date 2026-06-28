@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 30.3950
 longitude: -88.8750
+score: 7.6
 ---
 
 The Biloxi beach runs for roughly 26 miles along Highway 90, from Long Beach in the west through Biloxi and Gulfport to Ocean Springs in the east. The sand is white and the water warm from May through October. The beach is artificial — the sand was imported — but it works. After Hurricane Katrina stripped the coast bare, the restored beach is genuinely pleasant, with lifeguarded sections and public access points throughout.

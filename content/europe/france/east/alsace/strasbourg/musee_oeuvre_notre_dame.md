@@ -7,6 +7,7 @@ tags:
 latitude: 48.5808
 longitude: 7.7514
 snippet: "Medieval and Renaissance art from the Rhineland, including original cathedral sculptures"
+score: 8.6
 ---
 
 The Musée de l'Œuvre Notre-Dame houses the original medieval and Renaissance art from the cathedral and the upper Rhine region — including the actual 13th-century stone sculptures that were replaced by copies on the cathedral façade. Seeing the originals up close, after looking up at the façade from the square, is a revealing experience.

@@ -10,6 +10,7 @@ tags:
 title: Bunker Hill Monument
 type: poi
 url: www.nps.gov
+score: 8.0
 ---
 
 A 221-foot granite obelisk on Breed's Hill marking the first major battle of the American Revolution, fought here on 17 June 1775. The colonial militia held off two British assaults before running out of powder and falling back; the British took the hill but lost more than a thousand men in the attempt. It was the costliest victory of the war for them, and it convinced the colonies that they could fight.

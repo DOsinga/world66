@@ -8,6 +8,7 @@ tags:
 latitude: 49.3083
 longitude: -123.0429
 address: 333 Brooksbank Avenue
+score: 5.6
 ---
 
 Park & Tilford Gardens is a small (1.5 acre) themed botanical garden adjoining the Park & Tilford shopping centre on the east side of North Vancouver. The garden is organised as a sequence of small enclosed "rooms" — a White Garden, an Oriental Garden, a Native Garden, a Display Garden, and a Rose Garden — each laid out by a different gardener.

@@ -12,6 +12,7 @@ story: >
   of highland identity being overshadowed by Lima and the coast, Huancayo wanted a place that
   celebrated being Wanka — the indigenous people of the Mantaro Valley. The result is part
   open-air museum, part living archive, and entirely sincere.
+score: 7.3
 ---
 
 The Parque de la Identidad Wanka, in the El Tambo district, is an unusual public space dedicated to celebrating the culture and history of the Wanka people. The grounds are dotted with sculptures, ceramic murals, and reproductions of traditional houses, costumes, and festival scenes. A large painted map of the valley shows the pre-Hispanic settlements and trade routes that made Huancayo a commercial centre long before the Spanish arrived.

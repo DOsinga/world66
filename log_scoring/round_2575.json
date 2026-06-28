@@ -1,0 +1,200 @@
+{
+  "round": 2575,
+  "timestamp": "2026-06-13T21:52:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 3.9001,
+      "prior_variance": 0.203033,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.0075,
+      "prior_variance": 0.162029,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.389,
+      "prior_variance": 0.16105,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": -0.1116,
+      "prior_variance": 0.172174,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": -0.257,
+      "prior_variance": 0.154011,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pelee_island",
+      "prior_score": -1.0902,
+      "prior_variance": 0.181863,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/south_east/chiswick",
+      "prior_score": -1.3093,
+      "prior_variance": 0.160538,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -1.0967,
+      "prior_variance": 0.161241,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -0.757,
+      "prior_variance": 0.177293,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": -0.0387,
+      "prior_variance": 0.163011,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.3997,
+      "prior_variance": 0.157493,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -3.2216,
+      "prior_variance": 0.159521,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.5883,
+      "prior_variance": 0.19664,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_score": -1.6501,
+      "prior_variance": 0.161869,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -3.4811,
+      "prior_variance": 0.18111,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -0.9323,
+      "prior_variance": 0.211826,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -1.9726,
+      "prior_variance": 0.154775,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -3.4814,
+      "prior_variance": 0.146035,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.0593,
+      "prior_variance": 0.15134,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -2.2958,
+      "prior_variance": 0.213408,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_score": -4.1928,
+      "prior_variance": 0.181416,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Guazhou",
+      "path": "asia/china/gansu/guazhou",
+      "prior_score": -5.0306,
+      "prior_variance": 0.226266,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -4.0295,
+      "prior_variance": 0.187748,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.4314,
+      "prior_variance": 0.201832,
+      "prior_n": 8
+    }
+  ]
+}

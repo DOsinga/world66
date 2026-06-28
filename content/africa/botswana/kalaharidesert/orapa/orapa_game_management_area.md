@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -21.3500
 longitude: 25.3500
+score: 7.5
 ---
 
 The land surrounding Orapa forms part of the broader Central Kalahari ecosystem, and the game management area bordering the town sees elephant, giraffe, zebra, wildebeest, and the full range of Kalahari predators — lion, leopard, cheetah, and wild dog. The Kalahari is a semi-arid fossil desert, not the sand desert most people imagine: in the rains (November–April) the vegetation greens dramatically and the wildlife disperses across an enormous area. In the dry season animals concentrate around any available water.

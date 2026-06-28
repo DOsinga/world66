@@ -9,6 +9,7 @@ latitude: 39.3018
 longitude: 16.2509
 story: >
   The collection began in 1968 when the city decided to place a single sculpture — a work by Umberto Boccioni — in the pedestrian street. Over the following decades, the collection grew to include works by Dalí, De Chirico, Manzù, and dozens of other 20th-century artists. The result is one of Italy's most unusual public art experiences: a mile-long open-air gallery in a southern Italian city that most tourists never visit.
+score: 8.1
 ---
 
 Corso Mazzini, Cosenza's main pedestrianised thoroughfare, doubles as an open-air sculpture museum — one of the largest in Italy. Works by Salvador Dalí, Giorgio de Chirico, Giacomo Manzù, and many other major 20th-century artists are placed along the full length of the corso, creating what amounts to a free-admission gallery in the open air.

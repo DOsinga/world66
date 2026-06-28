@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.2295
 longitude: 120.1490
+score: 7.7
 ---
 
 Jingci Temple sits at the foot of Nanping Hill on the southern shore of West Lake, just below Leifeng Pagoda. Founded in 954 AD, it was once one of the most important Buddhist monasteries in southern China. The current halls, rebuilt in the 1980s and 1990s after Cultural Revolution destruction, house a large bronze Buddha and the famous Jingci Bell — the original Tang-dynasty bell's tolling gave rise to a proverb still quoted today.

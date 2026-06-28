@@ -7,6 +7,7 @@ tags:
 - sight
 title: Library of Avalon
 type: poi
+score: 6.2
 ---
 
 The Library of Avalon is a small specialist lending library tucked into the courtyard of the Glastonbury Experience, just off the High Street. Its collection covers every kind of esoteric and occult literature: Western mystery traditions, Celtic mythology, alchemy, tarot, astrology, Gnostic gospels, druid texts, witchcraft, channelled writings. There is nothing quite like it elsewhere in Britain.

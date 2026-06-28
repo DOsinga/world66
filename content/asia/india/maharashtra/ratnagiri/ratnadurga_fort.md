@@ -13,6 +13,7 @@ story: >
   eventually the British. The Bhagwati Temple inside the walls has been in
   continuous use throughout all those transitions, making it one of the most
   resilient religious sites on the Konkan coast.
+score: 8.3
 ---
 
 Ratnadurga Fort — also called Bhagwati Fort after the temple inside its walls — stands on a rocky headland at the southern end of Ratnagiri town with three of its sides meeting the Arabian Sea. The battlements are largely intact, and the walk along the ramparts gives you a sweeping view of the coastline in both directions, the fishing harbour below, and on a clear day the hills of the Western Ghats inland.

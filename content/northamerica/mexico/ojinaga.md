@@ -9,9 +9,11 @@ image_source: https://www.flickr.com/photos/21328181@N00/314141173
 latitude: 29.545625
 loc_type: city
 longitude: -104.58711
-score: 0.32
+score: 5.83
 title: Ojinaga
 type: location
+snippet: Quiet Chihuahua border town where ranch country meets the Rio Grande opposite
+  Presidio, Texas.
 ---
 
 Ojinaga is a small border town in Chihuahua state, sitting across the Rio Grande from Presidio, Texas. It serves mainly as a crossing point into Mexico and a supply stop for the surrounding ranch country. The town itself is quiet and unassuming, with a few taco stands and local restaurants along the main road.

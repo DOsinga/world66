@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped)
 latitude: -15.7939
 loc_type: city
 longitude: -47.8828
-score: 0.52
+score: 7.79
+snippet: Purpose-built Brazilian capital of Niemeyer curves, monumental axes, and
+  vast modernist government spaces
 title: Brasilia
 type: location
 ---

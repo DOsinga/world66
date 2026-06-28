@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Amasya_Museum
 story: >
   The museum's mummy collection dates from the Mongol Ilkhanate period of the 13th–14th centuries. The seven mummies were discovered in the Burmalı Minare Mosque complex in 1930, apparently the embalmed remains of senior court officials. The embalming technique used was not the Egyptian method but a different process involving herbal preservatives — and the results are striking. Their faces are still recognisable after seven centuries.
+score: 8.1
 ---
 
 The Amasya Museum houses two collections worth your time. The ethnographic section occupies a beautifully restored Ottoman building and covers the domestic life, costumes, and crafts of the region across several centuries. It is the kind of collection that most provincial Turkish museums do well, and this is a good example.

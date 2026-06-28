@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.
 latitude: 13.361756
 loc_type: city
 longitude: 103.859032
-score: 0.75
+score: 9.42
+snippet: Compact Cambodian city on the Siem Reap River, gateway to Angkor’s vast medieval
+  temple landscape.
 title: Siem Reap
 type: location
 ---

@@ -1,11 +1,15 @@
 ---
-title: 'Bacolod Fireworks Festival'
-type: poi
-address: 'SM City, Bacolod'
-date: 'December'
+address: SM City, Bacolod
+date: December
 latitude: 10.6713
 longitude: 122.9511
-snippet: 'Annual December fireworks competition lighting up the city sky'
+score: 5.3
+snippet: Annual December fireworks competition lighting up the city sky
+tags:
+- things_to_do
+- festival
+title: Bacolod Fireworks Festival
+type: poi
 ---
 
 An annual fireworks competition held at SM City Bacolod in December, drawing teams from around the Philippines and occasionally international competitors. Synchronized pyrotechnics are choreographed to music, and the crowds that gather on the grounds make it as much a street party as a spectacle. It's typically held over several nights in the run-up to New Year's Eve. Come early to get a good spot on the viewing grounds; food stalls and vendors line the perimeter.

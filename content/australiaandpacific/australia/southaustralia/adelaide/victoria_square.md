@@ -9,6 +9,7 @@ tags:
 snippet: "The geographical and civic heart of Adelaide, starting point for the Bay Tram"
 story: >
   The square sits on the traditional country of the Kaurna people, who knew it as Tarntanyangga — "place of the red kangaroo dreaming." The colonial name was chosen for Queen Victoria, but Adelaide City Council now uses both names officially, and the Kaurna name appears on signage alongside the English.
+score: 7.4
 ---
 
 Victoria Square is the dead centre of Colonel William Light's 1836 grid — the point from which Adelaide measures itself. Five roads converge here, the Glenelg tram departs from its southern edge, and the city's main ceremonial axis runs north–south through it.

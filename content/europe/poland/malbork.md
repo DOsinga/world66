@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polon
 latitude: 54.035836
 loc_type: city
 longitude: 19.03685
-score: 0.63
+score: 8.52
+snippet: Polish town dominated by Malbork Castle, the world's largest brick Gothic
+  fortress.
 title: Malbork
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
 snippet: Spanish colonial-style summer residence of the President of Chile
 latitude: -33.0200
 longitude: -71.5643
+score: 6.6
 ---
 
 The Palace of Cerro Castillo crowns the hill that gives the neighbourhood its name and serves as the official country retreat and summer residence of the President of Chile. The building dates from the 1920s and is in a restrained Spanish colonial revival style: white walls, terracotta roofs, deep arcaded loggias.

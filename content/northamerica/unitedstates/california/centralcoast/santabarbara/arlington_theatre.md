@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The 2,000-seat Arlington Theatre, built in 1931 in Spanish-Moorish style on the site of an earlier resort hotel that was destroyed in the 1925 earthquake, is the city's main concert and film venue. The interior is the spectacular feature: the auditorium is painted to look like a Spanish village square at night, with stars on the ceiling.

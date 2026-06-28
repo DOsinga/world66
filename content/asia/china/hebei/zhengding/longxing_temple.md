@@ -13,6 +13,7 @@ story: >
   who wanted to demonstrate Buddhist piety on an imperial scale. The pavilion
   that houses the statue was built around it specifically, its height dictated
   by the statue within rather than the other way around.
+score: 9.1
 ---
 
 Longxing Temple is the pre-eminent site in Zhengding and one of the best-preserved Tang and Song dynasty temple complexes in northern China. Founded in the Sui dynasty in AD 586, it was substantially rebuilt and expanded during the Northern Song period, and the buildings that stand today date largely from that era. The compound is large — about five hectares — and contains a series of halls arranged on a central axis, each housing notable sculpture.

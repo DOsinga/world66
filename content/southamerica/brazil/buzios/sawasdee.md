@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -22.7467
 longitude: -41.8816
+score: 6.2
 ---
 
 Sawasdee is one of Búzios' best-regarded restaurants, a small, carefully run place on Rua das Pedras that combines Thai and seafood influences to unusual effect. The fish is always fresh — sourced directly from local fishermen — and the kitchen handles it with more skill than most beach-town restaurants can manage.

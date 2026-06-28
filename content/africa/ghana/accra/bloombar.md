@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: Bloombar
 type: poi
+score: 6.1
 ---
 
 A courtyard bar that anchors the alternative-Accra scene: live highlife on Wednesdays, jazz on Thursdays, and a younger creative crowd of designers, musicians, and writers most other nights. Cheap beer, good vibes, no pretension.

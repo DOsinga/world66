@@ -9,6 +9,7 @@ latitude: 46.2339
 longitude: 7.3644
 sources:
   - https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica
+score: 9.6
 ---
 
 The Valère Basilica is the single most extraordinary thing in Sion, and arguably one of the most unusual churches in Europe. Built between the 11th and 15th centuries, it is a fortified church — essentially a small castle with a church inside it — perched on a steep rocky hill that rises directly from the valley floor. The walls, towers, and gates belong to the fortress; within them, the church is a world apart.

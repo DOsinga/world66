@@ -6,6 +6,7 @@ longitude: 73.7414
 tags:
   - bars_and_cafes
   - bar
+score: 7.8
 ---
 
 Shiva Valley is the small open-air psychedelic trance bar on the rocks at the south end of Anjuna Beach. It is the most consistent of the survivors from the Goa trance scene of the 1990s — a Tuesday all-nighter still goes from dusk to the small hours, with the music played through stacks of speakers half-buried in the sand.

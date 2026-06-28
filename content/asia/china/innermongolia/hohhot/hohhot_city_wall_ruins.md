@@ -8,6 +8,7 @@ tags:
   - old_town_quarter
 latitude: 40.7950
 longitude: 111.6380
+score: 6.7
 ---
 
 The ancient city walls of Guicheng (the original Mongolian city founded by Altan Khan in 1572) are mostly gone, but sections of the earthen ramparts survive in the southern part of the old town area, incorporated into parks and residential neighbourhoods. The surviving sections are not impressive by the standards of Xi'an or Nanjing, but they provide a physical connection to the city's founding moment and a quiet place to sit away from the commercial main streets.

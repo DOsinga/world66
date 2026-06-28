@@ -11,6 +11,7 @@ tags:
   - barbecue
 story: >
   Charlie Vergos opened the Rendezvous in 1948 in the basement of a downtown building, reached through an alley off Monroe Avenue. He developed his signature dry-rub technique partly by accident — a Greek immigrant with no particular background in southern barbecue, he experimented with spice mixtures until he arrived at the combination that still defines the restaurant. The alley entrance has been the same since the beginning, and the walls inside are covered with the same kind of accumulated memorabilia that suggests a place people keep coming back to.
+score: 7.6
 ---
 
 The Rendezvous has been a Memphis institution for over seventy years, and it has remained stubbornly itself through all the changes around it. The entrance is through a downtown alley off Monroe Avenue — easy to miss if you don't know it's there — down steep stairs into a cavernous basement that smells of charcoal and dried spices. The walls are covered with photographs and sports memorabilia, the booths are packed close together, and the waitstaff are brisk and efficient in the way of places that have been doing this a long time.

@@ -3,8 +3,8 @@ accessibility: Totally Wheelchair Accessible
 address: Carrer Sant Antoni Maria Claret 167
 category: sights
 email: santpau@santpau.es
-latitude: 41.120727
-longitude: 2.1741
+latitude: 41.4128
+longitude: 2.1744
 opening_hours: Daily 9:00 a.m.-2:00 p.m. and 4:00 p.m.-7:00 p.m., weekends 10:00 a.m.-2:00
   p.m.
 phone: 93 291-9000, 93 488 2078 (tours)
@@ -15,6 +15,7 @@ tags:
 title: Hospital de Sant Pau
 type: poi
 url: www.santpau.es
+score: 9.3
 ---
 
 Recinto Modernista de Sant Pau is one of the finest examples of Catalan Art Nouveau architecture in the world, designed by Lluís Domènech i Montaner and built between 1902 and 1930. The complex was a functioning hospital until 2009; today it operates as a UNESCO World Heritage Site open to visitors.

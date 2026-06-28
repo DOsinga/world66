@@ -6,6 +6,7 @@ longitude: 11.7628
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 The Sella Pass (Passo Sella, 2,218 m) separates the Sella group from the spiky Sasso Lungo to the west — one of the most photographed Dolomite views. The road from Canazei twists up the head of the valley through forest and meadow before opening onto a stark rock landscape at the top.

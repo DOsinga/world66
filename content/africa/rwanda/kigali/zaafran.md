@@ -8,6 +8,7 @@ tags:
 neighbourhood: Kiyovu
 latitude: -1.9478
 longitude: 30.0635
+score: 5.7
 ---
 
 Zaafran serves excellent Indian food at friendlier prices than Khana Khazana, and for quick midday service it is the better choice of the two. The restaurant occupies a ground-floor space on Rue de l'Akagera in Kiyovu, near the Canadian Embassy road, and its lunchtime crowd reflects how good the value is — a mix of local professionals, embassy staff, and travellers who have been tipped off.

@@ -10,6 +10,7 @@ story: >
   The zoo was founded in 1896 as the Königsberg Zoological Garden. During the storming of Königsberg in April 1945, it was in the direct line of battle. When Soviet forces took the city, just four animals survived: a wounded hippopotamus, a badger, a donkey, and a deer. The hippo — christened Hans by Soviet soldiers — became famous and lived in the zoo until 1990.
 sources:
   - https://en.wikipedia.org/wiki/Kaliningrad_Zoo
+score: 6.3
 ---
 
 Kaliningrad Zoo occupies a large park in the city centre — one of the best-maintained green spaces in the city — and has grown from its traumatic post-war beginning into a well-regarded institution with over 300 species. The grounds are pleasant to walk in, with mature trees and good landscaping. The zoo has been gradually modernised, with larger and more naturalistic enclosures replacing the original Victorian-era structures.

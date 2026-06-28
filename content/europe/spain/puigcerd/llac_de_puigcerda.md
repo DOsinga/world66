@@ -10,6 +10,7 @@ tags:
 story: The lake was dug in 1380 to feed the irrigation channels of the surrounding
   fields. It still does. The grand mansions around its edge belong to families from
   Barcelona who summered here from the late 1800s onward.
+score: 7.0
 ---
 
 The Llac de Puigcerdà is a small artificial lake at the north end of town, fringed with mature plane trees and lined with belle-époque summer mansions built by the Catalan bourgeoisie at the end of the nineteenth century. The Café del Llac on the south shore is the traditional spot for a vermouth before lunch.

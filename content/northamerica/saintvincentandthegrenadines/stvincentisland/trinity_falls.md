@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 13.2944
 longitude: -61.1925
+score: 6.9
 ---
 
 Trinity Falls is a three-stage waterfall in the northern interior, fed by the headwaters of the Richmond River. The hike in is the appeal as much as the falls themselves — about 45 minutes through dense rainforest from the trailhead above Richmond, crossing the river several times and descending into a steep gorge. The pool at the base of the lowest fall is deep enough to swim in and the water is cold.

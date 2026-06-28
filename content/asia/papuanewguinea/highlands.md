@@ -10,6 +10,7 @@ tags:
 - sights
 title: Highlands
 type: poi
+score: 9.1
 ---
 
 Situated 2,600 metres above sea level, the Highlands offer cool temperatures and dramatic scenery — craggy mountains, wide fertile valleys, and rivers cutting through dense vegetation. Major towns like Kainatu, Mt Hagen, and Mondi mix traditional life with modern amenities, though contact with the outside world here is remarkably recent.

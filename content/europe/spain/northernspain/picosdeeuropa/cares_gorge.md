@@ -9,6 +9,7 @@ latitude: 43.2300
 longitude: -4.8900
 story: >
   The path through the Cares Gorge was not built for hikers. It was carved from the cliff face in the 1940s to provide access to a hydroelectric canal running through the rock. Workers dynamited shelves, dug tunnels, and suspended a maintenance path 1,000 metres above the river at points where the gorge walls lean inward. Today the same path carries thousands of hikers annually through what is essentially a working irrigation inspection route — the canal is still in use.
+score: 9.4
 ---
 
 The Cares Gorge (Garganta del Cares) is the most celebrated walking route in the Picos de Europa and one of the most dramatic gorge hikes in Spain. The trail follows a narrow path carved into the cliff walls of a limestone gorge roughly 1,000 metres deep, running 12 kilometres from the village of Caín in León to Poncebos in Asturias (or the reverse). The path stays high on the gorge wall throughout, with the Cares river far below and the Urrieles peaks rising above.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.3200
 longitude: -2.5900
+score: 7.6
 ---
 
 Three rivers traverse Ankasa Conservation Area — the Ankasa, the Nini, and the Suhien — and following them into the forest is one of the best ways to move through the park. The rivers run through rapids and occasional small waterfalls, and their banks are where wildlife congregates, especially in the dry season when water elsewhere is scarce.

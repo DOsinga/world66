@@ -11,6 +11,7 @@ story: >
   it dominates the Plaza Constitución with the confidence of a colonial edifice. The diocese was
   elevated to an archdiocese in 1966, a mark of Huancayo's importance in the central Andes —
   it serves a sprawling highland region that stretches east toward the Amazon.
+score: 6.4
 ---
 
 The Cathedral of the Most Holy Trinity faces the Plaza Constitución, Huancayo's main square. The building is large and imposing — its twin towers are the most prominent structures in the city centre — but the interior rewards a visit. The nave is high and cool, with coloured light filtering through stained glass windows depicting scenes from the life of Christ and the history of the Andean church.

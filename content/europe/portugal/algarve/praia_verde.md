@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_Verde_(Portugal)_(18
 latitude: 37.173886
 loc_type: city
 longitude: -7.479309
-score: 0.57
+score: 7.83
+snippet: Eastern Algarve beach settlement backed by umbrella pines, salt-pan wetlands,
+  and a long quiet shore.
 title: Praia Verde
 type: location
 ---

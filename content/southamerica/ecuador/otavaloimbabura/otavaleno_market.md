@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 0.2347
 longitude: -78.2641
+score: 7.5
 ---
 
 The everyday food market that operates alongside the Saturday craft market, the Mercado 24 de Mayo is where Otavalo's residents actually shop. Stalls selling produce, grains, dried chillies, and local cheeses sit alongside food counters dishing out cheap almuerzo. It is far less touristic than the craft market and gives a more accurate picture of local life.

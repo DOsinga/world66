@@ -8,6 +8,7 @@ tags:
 - museum
 - art
 snippet: "Nevada's only accredited art museum, in a striking 2003 black-cliff building by Will Bruder"
+score: 8.6
 ---
 
 The Nevada Museum of Art is Nevada's only AAM-accredited art museum and a serious surprise in a city dominated by casino entertainment. The 2003 building by Phoenix architect **Will Bruder** is itself a draw — a sloping, fractured volume clad in dark zinc that recalls the geological cliffs of the Great Basin.

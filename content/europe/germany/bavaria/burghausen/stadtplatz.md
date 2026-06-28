@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.1589
 longitude: 12.8331
+score: 7.9
 ---
 
 Stadtplatz is Burghausen's long, elegant main square, stretched between the Salzach river and the castle cliff. Its pastel townhouses, arcades and narrow side lanes give the lower town a distinctly Inn-Salzach look: more Austrian borderland than postcard Bavaria.

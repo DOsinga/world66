@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Marigold
 type: poi
+score: 4.4
 ---
 
 A small takeaway in Paphos serving fish and chips. Nothing fancy, but the quality is consistently good and it draws a loyal local following. Good option if you want something quick and satisfying rather than a sit-down meal.

@@ -5,7 +5,9 @@ done:
 latitude: 59.5765
 loc_type: city
 longitude: 25.9554
-score: 0.4
+score: 6.9
+snippet: Small Estonian beach village inside Lahemaa National Park, long used as a
+  north-coast summer resort.
 sources:
 - https://visitestonia.com/en/vosu-beach
 - https://visitlahemaa.com/en/

@@ -8,6 +8,7 @@ tags:
 latitude: 39.9572
 longitude: 26.2395
 snippet: "Cyclopean limestone walls of the late Bronze Age city — the longest stretches of standing masonry on the mound."
+score: 8.4
 ---
 
 The walls of Troy VI are the most impressive single piece of architecture surviving on the mound — long stretches of carefully fitted ashlar limestone, two metres thick, originally rising about five metres before the mud-brick superstructure on top. They were built around 1700 BC and stood for several centuries until the city was destroyed (probably by an earthquake) around 1300 BC, after which Troy VIIa rose on the same site.

@@ -1,9 +1,11 @@
 ---
 latitude: 41.371346
 longitude: 2.189262
+score: 6.8
 snippet: Barcelona's closest and liveliest city beach
 tags:
 - beaches
+- barceloneta
 title: Playa de la Barceloneta
 type: poi
 ---

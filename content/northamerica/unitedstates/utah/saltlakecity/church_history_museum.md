@@ -6,6 +6,7 @@ tags:
 - museum
 title: Church History Museum
 type: poi
+score: 6.8
 ---
 
 The Church History Museum on West Temple Street, adjacent to Temple Square and the Family History Library, holds the primary collection of artifacts, documents, and art relating to the history of the Church of Jesus Christ of Latter-day Saints from its founding in 1830 to the present. Admission is free.

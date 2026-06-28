@@ -3,10 +3,10 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 42.5917
 longitude: -88.4334
+score: 6.4
 snippet: Gilded Age resort town with a 21-mile lakeshore path
 tags:
-- things_to_do
-- day_trip
+- day_trips
 title: Lake Geneva
 type: poi
 url: www.visitlakegeneva.com

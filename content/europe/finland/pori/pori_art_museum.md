@@ -11,6 +11,7 @@ tags:
 - museum
 title: Pori Art Museum
 type: poi
+score: 8.1
 ---
 
 One of Finland's most respected contemporary art museums, housed in a neo-Renaissance building on the waterfront. The permanent collection draws on the Marie Gullichsen Art Foundation and the Pori Municipal collection, but it is the temporary exhibitions — international in scope and consistently strong — that bring people from across Finland. The associated Poriginal Gallery focuses on Finnish contemporary work.

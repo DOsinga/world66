@@ -16,6 +16,7 @@ story: >
   experienced surfers, it is the reason to come to Pacasmayo.
 sources:
   - https://en.wikipedia.org/wiki/Pacasmayo
+score: 8.0
 ---
 
 El Faro — the lighthouse point at the northern end of the bay — is the focal point of surfing in Pacasmayo. The left-hand point break that runs from the lighthouse into the bay is one of Peru's better known surf spots, producing long rides on the right swell conditions. The consistent wind that makes the bay excellent for kite and windsurfing also adds a challenging side-shore element for surfers.

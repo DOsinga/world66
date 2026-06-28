@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 47.1900
 longitude: 18.4127
+score: 7.3
 ---
 
 The Szent István Király Múzeum is the city's main museum, split between two buildings in the centre. The collection covers the long history of the region, with particularly good Roman material from the nearby Gorsium site, medieval finds from the royal basilica excavations, and a comprehensive ethnographic section on rural Fejér County.

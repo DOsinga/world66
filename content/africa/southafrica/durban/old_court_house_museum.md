@@ -9,6 +9,7 @@ tags:
 latitude: -29.8589
 longitude: 31.0273
 address: "Aliwal Street"
+score: 6.7
 ---
 
 The Old Court House, built in 1866, is the oldest surviving building in Durban — a low colonnaded sandstone block that served as the city's first courthouse, then town hall, before being repurposed in the 1980s as a small local-history museum.

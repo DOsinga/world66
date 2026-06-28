@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ShwedagonPagoda.jpg
 latitude: 16.796713
 loc_type: city
 longitude: 96.160992
-score: 0.57
+score: 7.98
+snippet: Myanmar's largest city, where golden pagodas rise above lakes, colonial facades,
+  and busy street markets.
 title: Yangon
 type: location
 ---

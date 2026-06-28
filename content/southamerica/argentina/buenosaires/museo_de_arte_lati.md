@@ -3,10 +3,12 @@ address: Avenida Figueroa Alcorta 3415, Palermo
 latitude: -34.5772
 longitude: -58.4034
 opening_hours: Thu–Mon 12:00–20:00; Wed 12:00–21:00 (reduced entry); closed Tue
+score: 8.9
 snippet: Top Latin American modern art from Kahlo to Berni
 tags:
 - things_to_do
 - museum
+- palermo
 title: MALBA (Museum of Latin American Art)
 type: poi
 url: malba.org.ar

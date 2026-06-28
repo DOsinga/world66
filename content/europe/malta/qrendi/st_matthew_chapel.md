@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 Two churches dedicated to St Matthew stand side by side on the rim of the Maqluba sinkhole: a tiny medieval chapel — locally called San Mattew iż-Żgħir, "the smaller" — and a larger baroque parish chapel built in the seventeenth century when the original was deemed too small for the growing village. The pairing is unusual and pleasantly atmospheric, both buildings in dressed limestone with the sinkhole gaping behind.

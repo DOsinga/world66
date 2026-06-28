@@ -13,6 +13,7 @@ story: >
   in 1861 to prevent it from guiding Union ships. The light went dark for the
   entire Civil War, and the keeper who originally installed it returned after
   the war to relight it. It has been burning continuously ever since.
+score: 8.4
 ---
 
 The Jupiter Inlet Lighthouse is the oldest structure in Palm Beach County and the defining image of the town. Built from red brick in 1860, the 105-foot tower stands at the meeting point of the Loxahatchee River and the Indian River Lagoon, just where they pour into the Atlantic. You can climb the 105-step spiral staircase for views stretching north and south along the coast — on a clear day you can see the curve of the earth.

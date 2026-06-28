@@ -10,6 +10,7 @@ longitude: 78.3933
 snippet: Wooden Russian Orthodox cathedral from 1895, set in a peaceful garden
 sources:
   - https://en.wikipedia.org/wiki/Karakol
+score: 7.7
 ---
 
 The Holy Trinity Cathedral is a handsome wooden Russian Orthodox church built in 1895 to serve Karakol's Slavic settlers. Painted pale green and white, with a modest bell tower and an onion dome, it stands in a walled garden that has remained unchanged in feeling despite the upheavals of the twentieth century. The church was closed during the Soviet period and used as a sports hall, but was returned to the Russian Orthodox community after independence and thoroughly restored.

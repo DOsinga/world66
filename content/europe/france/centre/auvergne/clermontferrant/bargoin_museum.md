@@ -7,6 +7,7 @@ tags:
 - museum
 title: Bargoin Museum
 type: poi
+score: 7.2
 ---
 
 The Bargoin Museum occupies a 19th-century building in the old town and divides between two substantial collections: natural history and textiles. The natural history section covers the geology and biology of the Massif Central with particular depth on the volcanic Auvergne — an appropriate local focus given the landscape. The palaeontology section includes material from sites in the surrounding region.

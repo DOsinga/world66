@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 5.8
 ---
 
 The Palazzo d'Invrea stands on the main square of Pontinvrea, a low porticoed building from the seventeenth century built by the marchesi d'Invrea, the Genoese family who took the village in fief from the Gonzaga in 1606. The frontage is restrained — arches at street level, a row of regular windows above — and you would walk past it without a second glance if you did not know what it was.

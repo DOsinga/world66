@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 Built in 1896, Holy Trinity is the oldest Catholic parish in Shreveport and one of the most striking buildings downtown — Romanesque revival in red brick, with a 165-foot bell tower that still dominates the surrounding blocks. The interior has stained glass imported from Munich and a hand-carved Italian altar.

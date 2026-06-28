@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sport, outdoor]
 latitude: 14.4383
 longitude: -17.0125
+score: 6.7
 ---
 
 Saly has the right conditions for a range of watersports — consistent Atlantic winds, warm water, and a reasonably long beach. The standard package-resort offerings are all here: jet-skiing, windsurfing, kitesurfing, paddleboarding, and snorkelling excursions to nearby reefs.

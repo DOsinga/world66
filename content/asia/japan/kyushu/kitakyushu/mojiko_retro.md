@@ -14,6 +14,7 @@ story: Moji's Meiji-era prosperity came from being the transfer point for coal f
   The customs house, trading company buildings, and railroad hotels built during that
   era are what remain as the "Retro" district — preserved because the coal trade collapsed
   before the buildings were demolished for something newer.
+score: 8.4
 ---
 
 Mojiko Retro is the preserved Meiji and Taisho-era port district of the Moji ward, at the northern tip of Kitakyushu where the city meets the Kanmon Strait. A cluster of grand redbrick and stone buildings — the former Customs House, the Moji Mitsui Club, the Osaka Shosen Building — have been preserved and converted into restaurants, galleries, and tourist facilities.

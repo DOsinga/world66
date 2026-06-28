@@ -4,7 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 55.387
 longitude: 10.412
+score: 6.3
 snippet: African animals and an oceanarium along the river
+tags:
+- things_to_do
+- sight
+- zoo
+- family
 title: Odense Zoo
 type: poi
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Johannistor_-_Jena_April_2
 latitude: 50.928172
 loc_type: city
 longitude: 11.587936
-score: 0.45
+score: 7.26
+snippet: Saale valley university city framed by limestone cliffs and linked to German
+  philosophy and optics.
 title: Jena
 type: location
 ---

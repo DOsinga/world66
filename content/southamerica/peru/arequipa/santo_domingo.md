@@ -9,6 +9,7 @@ tags:
 - centro_historico
 title: Convent of Santo Domingo
 type: poi
+score: 7.3
 ---
 
 Santo Domingo is the oldest church still standing in Arequipa — the current building was finished in 1677 — and one of the best examples of the mestizo baroque style that local stonemasons developed by mixing Spanish patterns with native Andean motifs. The main portal is a riot of carved sillar: vines, parrots, and stylised faces of Inca origin, all wrapped around the conventional saintly figures.

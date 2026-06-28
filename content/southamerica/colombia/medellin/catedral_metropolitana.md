@@ -10,6 +10,7 @@ tags:
 title: Catedral Metropolitana
 type: poi
 story: "The cathedral was built between 1875 and 1931 from 1.12 million handmade bricks, fired in kilns on the outskirts of the city. By volume of brick used, it is among the largest brick buildings in the world."
+score: 7.9
 ---
 
 A massive Romanesque Revival cathedral facing Parque Bolívar in downtown Medellin, built between 1875 and 1931 entirely of brick — over a million handmade bricks, one of the largest brick buildings ever constructed. The twin square towers and the long basilica nave dominate the north side of the square.

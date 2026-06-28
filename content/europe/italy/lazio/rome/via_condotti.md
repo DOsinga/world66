@@ -2,9 +2,12 @@
 address: Via Condotti, 00187 Rome
 latitude: 41.904143
 longitude: 12.481872
-snippet: Rome's most glamorous shopping street — the Italian fashion houses on one block
+score: 4.9
+snippet: Rome's most glamorous shopping street — the Italian fashion houses on one
+  block
 tags:
 - shopping
+- pantheon_navona
 title: Via Condotti
 type: poi
 ---

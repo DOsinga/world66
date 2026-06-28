@@ -9,6 +9,7 @@ latitude: 47.5843
 longitude: 12.1664
 story: >
   The Heroes' Organ was built in 1931 as a memorial to the Austrian and German soldiers who died in World War I. At the time of its installation it was the largest outdoor organ in the world, a title it still holds. The recital plays automatically at noon each day — on quiet mornings you can hear it echoing across the entire Inn valley from the riverside promenade far below.
+score: 7.6
 ---
 
 The Heroes' Organ (Heldenorgel) is housed inside the Kufstein Fortress, sheltered within the round tower but with its sound projected outward through an opening facing the valley. The instrument has 4,948 pipes spread across 46 registers and was built by the Tyrolean organ manufacturer Konrad Reinisch. A short automated recital plays every day at noon; on Sundays and public holidays the recital is performed live.

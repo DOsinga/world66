@@ -6,6 +6,7 @@ longitude: 49.8299
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 Uzeyir Hajibeyov, who lived in this apartment from 1949 until his death in 1948, was the central figure of Azerbaijani classical music: he wrote the country's first opera ("Leyli and Majnun", 1908), founded the conservatory, and composed the national anthem still in use today. The four-room museum preserves his study, his piano, and a substantial archive of manuscripts and personal letters.

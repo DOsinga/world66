@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 53.3952
 longitude: -9.9837
+score: 7.9
 ---
 
 Roundstone is the most attractive village on the Connemara coast: a small, colourful fishing harbour on a bay with Errisbeg Hill rising behind it and the Twelve Bens visible to the north. It has a handful of pubs, a handful of cafes, and Malachy Kearns' bodhran workshop — O'Machain's — where you can watch the goatskin drums being made and buy one.

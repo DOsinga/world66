@@ -7,6 +7,7 @@ tags:
 - museum
 title: Archaeological Museum of Lorca
 type: poi
+score: 7.6
 ---
 
 The Museo Arqueológico de Lorca occupies the Casa de los Salazar, a beautifully

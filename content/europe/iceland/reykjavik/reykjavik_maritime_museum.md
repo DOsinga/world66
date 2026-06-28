@@ -10,6 +10,7 @@ tags:
   - grandi
 neighbourhood: Grandi
 snippet: The story of Iceland and the sea, with a coast-guard cutter you can tour
+score: 7.7
 ---
 
 In a former fish-freezing plant on Grandi, the Maritime Museum traces a thousand years of Icelandic life on the water — from the open rowing boats of medieval fishermen through to the modern stern trawlers — with particular emphasis on the Cod Wars of the 1950s to 1970s, when Iceland repeatedly faced down the British Royal Navy to push its fishing limits out to 200 miles.

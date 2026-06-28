@@ -7,6 +7,7 @@ tags:
 snippet: Newark's Portuguese and Brazilian neighbourhood — the most vibrant in the city
 latitude: 40.7290
 longitude: -74.1620
+score: 8.7
 ---
 
 The Ironbound is Newark's most energetic and interesting neighbourhood — a dense, walkable district east of Penn Station named for the railway lines that once enclosed it on three sides. The community has been Portuguese and Brazilian for generations, and Ferry Street, its main commercial artery, is one of the best streets for eating in the northeastern United States.

@@ -8,6 +8,7 @@ latitude: 44.8553
 longitude: 24.8708
 sources:
   - https://en.wikipedia.org/wiki/Arge%C8%99_County_Museum
+score: 6.6
 ---
 
 The Argeș County Museum is the main cultural institution in Pitești, housed in a central location and divided into natural history, history, and art collections. The history section traces the development of the Argeș region from antiquity through the 20th century, with particular attention to Dacian and Roman finds from the area.

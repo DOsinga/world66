@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ann Arbor
 type: poi
+score: 7.0
 ---
 
 Ann Arbor is the most rewarding half-day trip from Detroit: a lively university town 45 minutes west on I-94, anchored by the University of Michigan and entirely unlike its neighbour in character. The downtown grid is walkable and independently minded, with good bookshops (Literati is the standard), record stores, and restaurants along Liberty, Main, and State Streets. The University of Michigan Museum of Art is one of the best university art museums in the country and is free.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Imperia_(Ligurien)_mit_Por
 latitude: 43.958375
 loc_type: city
 longitude: 7.866743
-score: 0.52
+score: 7.85
+snippet: Western Ligurian Riviera city split between port-side Oneglia and hilltop
+  Porto Maurizio.
 title: Imperia
 type: location
 ---

@@ -4,8 +4,10 @@ done:
 latitude: 42.226649
 longitude: 79.880393
 title: Lake Issyk-Kul
+snippet: High alpine lake in Kyrgyzstan, ringed by Tian Shan peaks and never freezing
+  in winter.
 type: location
-score: 0.57
+score: 8.04
 loc_type: feature
 ---
 

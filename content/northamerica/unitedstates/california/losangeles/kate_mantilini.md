@@ -8,6 +8,7 @@ tags:
 - beverlyhills
 title: Kate Mantilini
 type: poi
+score: 4.5
 ---
 
 Kate Mantilini was a Beverly Hills institution for over two decades, serving American comfort food from breakfast through late night in a striking high-ceilinged space designed by Morphosis architects. The restaurant gained wider fame as the location of the coffee shop scene in Michael Mann's Heat (1995), where Al Pacino and Robert De Niro sat across from each other for the first time on screen.

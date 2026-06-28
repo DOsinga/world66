@@ -10,6 +10,7 @@ tags:
   - bar
   - music
   - blues
+score: 6.8
 ---
 
 Rum Boogie Cafe is one of the more atmospheric venues on Beale Street, its walls densely covered with guitars signed by everyone who has ever played there and photographs documenting decades of live music. The decor alone is worth studying for a while. The bands play every night and the caliber is generally high — Rum Boogie has a reputation for booking genuine musicians rather than merely adequate cover acts.

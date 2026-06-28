@@ -14,8 +14,10 @@ quick_facts:
   Bazaruto Archipelago: "Africa's largest marine park"
 done:
   country_cleanup: 2026-03-29
-score: 0.4
+score: 0.59
 loc_type: country
+snippet: Southern African coastal country stretching from South Africa to Tanzania
+  along the Indian Ocean.
 ---
 
 Mozambique is located in Southern Africa on the coast between South Africa and [Tanzania](/africa/tanzania). It also shares a border with the landlocked countries [Malawi](/africa/malawi), [Zimbabwe](/africa/zimbabwe), [Swaziland](/africa/swaziland) and [Zambia](/africa/zambia). 
@@ -38,6 +40,6 @@ Mozambique has some of the best beaches on the East African coast, offering azur
 [Xai-xai](/africa/mozambique/xaixai)
 [Inhambane](/africa/mozambique/inhambane)
 [Ibo island](/africa/mozambique/iboisland)
-[Mozambique island](/africa/mozambique/mozambiqueisland)
-[Gorongosa game reserve](/africa/mozambique/gorongosagamereserve)
+[Mozambique Island](/africa/mozambique/mozambiqueisland)
+[Gorongosa National Park](/africa/mozambique/gorongosa)
 [Bazaruto archipelago](/africa/mozambique/vilanculos/bazaruto_archipelago)

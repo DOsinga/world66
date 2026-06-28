@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-02'
+image: salinas.jpg
+image_attribution: City of Salinas
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Dancers_in_Salinas,_California.jpg
 latitude: 36.6744
 loc_type: city
 longitude: -121.655
-score: 0.38
+score: 6.19
+snippet: California agricultural city and John Steinbeck's hometown, set in the valley
+  behind Monterey Bay.
 title: Salinas
 type: location
-image: salinas.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Dancers_in_Salinas,_California.jpg
-image_license: Public domain
-image_attribution: City of Salinas
 ---
 
 Salinas is best known as the hometown of John Steinbeck, and the agricultural valley that surrounds it is the landscape he wrote about in East of Eden, Of Mice and Men, and The Grapes of Wrath. The [National Steinbeck Center](/northamerica/unitedstates/california/salinas/national_steinbeck_center) downtown is the main draw for literary travellers, housing manuscripts, personal effects, and the camper truck from Travels with Charley. A few blocks away, the [John Steinbeck House](/northamerica/unitedstates/california/salinas/steinbeck_house) — the Victorian where he was born in 1902 — is open for tours and runs a lunch restaurant. The [John Steinbeck Library](/northamerica/unitedstates/california/salinas/john_steinbeck_library) holds the most complete research archive in California.

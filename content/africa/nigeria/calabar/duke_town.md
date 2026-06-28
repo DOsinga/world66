@@ -8,6 +8,7 @@ latitude: 4.95
 longitude: 8.3167
 sources:
   - https://en.wikipedia.org/wiki/Duke_Town
+score: 8.1
 ---
 
 Duke Town is the oldest and most characterful part of Calabar, a hillside neighbourhood of colonial-era buildings, old tin-roofed Efik houses, and the Presbyterian church founded by the earliest Scottish missionaries. The name comes from the Efik trading house of the Duke family, who were among the most powerful merchants in the pre-colonial slave and palm oil trades.

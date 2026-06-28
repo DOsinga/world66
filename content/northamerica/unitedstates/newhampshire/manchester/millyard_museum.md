@@ -12,6 +12,7 @@ story: The Amoskeag Manufacturing Company once produced enough cloth each year t
   the Earth twice. At its 1915 peak it employed 17,000 workers in a single complex
   — a mile of red-brick mills along the Merrimack. It collapsed in 1936. Its industrial
   ghost still shapes everything about Manchester.
+score: 8.4
 ---
 
 The Millyard Museum sits inside one of the original Amoskeag factory buildings and tells the full story of the manufacturing complex that was, for a few decades in the late 19th century, the largest textile operation in the world. The permanent exhibition — "Woven in Time: 11,000 Years at Amoskeag Falls" — begins with Indigenous use of the river's fishing grounds, moves through the founding of the mill city in the 1830s, and follows the Amoskeag Manufacturing Company through its spectacular rise and its collapse in the Great Depression.

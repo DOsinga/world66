@@ -8,6 +8,7 @@ tags:
 - temple
 title: Sutra Collection Pavilion
 type: poi
+score: 7.2
 ---
 
 The Sutra Collection Pavilion sits within Guiyuan Temple (归元寺) in Wuhan's Hanyang district, one of the best-preserved Buddhist temple complexes in central China. The pavilion was built in 1696 during the reign of the Kangxi Emperor and serves as the temple's repository for sacred texts — over 7,000 Buddhist sutras, including rare manuscripts from Japan, India, Burma, and Thailand.

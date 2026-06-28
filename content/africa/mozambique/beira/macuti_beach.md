@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 snippet: Long beach along the northern peninsula, busy in the evenings with local families
+score: 5.9
 ---
 
 Beira's main beach runs the full length of the city's northern peninsula. The sand is grey-brown and the water is silty from the Pungwe estuary, so it is not a swimming beach in the sense of Bazaruto or the southern Mozambican coast. What it has is a long, open stretch of sand and a generous evening breeze that pulls everyone out of town as the sun goes down.

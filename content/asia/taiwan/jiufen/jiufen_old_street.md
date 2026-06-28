@@ -13,6 +13,7 @@ story: >
   peanut ice cream rolls, and souvenir lanterns. During peak periods — Saturday afternoons
   and public holidays — the crowd is slow enough to stop. The sweet smell of taro and the
   red light from the lantern shops are particular to this place and to nothing else in Taiwan.
+score: 7.9
 ---
 
 Jiufen Old Street is the main commercial lane running through the centre of the old town, narrow enough that two people with bags struggle to pass. It is lined with food stalls selling the town's speciality snacks — taro balls (芋圓, yù yuán) in red bean soup, fish ball soup, peanut ice cream rolled in spring roll skin and coriander — and souvenir shops selling lanterns, pottery, and products using gold leaf from the local mines.

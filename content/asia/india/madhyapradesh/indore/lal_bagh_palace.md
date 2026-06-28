@@ -13,6 +13,7 @@ story: >
   it with Italian marble, Belgian crystal chandeliers, and furniture imported from Paris and
   London. The gates at the main entrance are exact replicas of the gates of Buckingham
   Palace in London — ordered from the same ironmonger, according to Indore lore.
+score: 8.4
 ---
 
 Lal Bagh Palace is the more extravagant of Indore's two major Holkar palaces, built in the late 19th century in a full Italian Renaissance style that was fashionable among Indian princes of the era who wanted to signal their sophistication to British colonial visitors. The result is a curious and rather wonderful collision of cultures: a Maratha dynasty's summer palace with marble halls, crystal chandeliers, formal French gardens, and a ballroom designed for European-style entertainments.

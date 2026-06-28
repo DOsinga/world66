@@ -12,6 +12,7 @@ story: >
   and one that explains why the building survived when so many others were lost.
   The tannery and printing press inside produced Māori-language religious texts,
   making it one of the earliest publishing houses in New Zealand.
+score: 8.4
 ---
 
 Pompallier House is one of the oldest surviving European buildings in New Zealand, built in 1841 as the headquarters of the French Catholic Marist mission to the Western Pacific. The building has been beautifully restored and demonstrates the tannery and printing operations that the missionaries used to produce religious books in te reo Māori.

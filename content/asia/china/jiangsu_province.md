@@ -13,6 +13,7 @@ image: jiangsu_province.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chengxu_Temple,_Zhou_Zhuang.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Paul Louis
+snippet: "Jiangsu is an eastern Chinese province of rivers, canals, rice paddies, and historic cities."
 ---
 
 Jiangsu (江苏) is a coastal province in eastern China, stretching along the Yellow Sea from the Yangtze River delta northward. It is one of the most densely populated and economically developed provinces in the country, a flat landscape of rivers, canals and rice paddies that has been central to Chinese culture for millennia.

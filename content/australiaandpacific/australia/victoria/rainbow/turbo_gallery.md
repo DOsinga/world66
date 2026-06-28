@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -35.9005
 longitude: 141.9917
+score: 6.6
 ---
 
 A small contemporary art space in central Rainbow that punches considerably above its weight for a remote Wimmera town. Turbo Gallery shows work by local and visiting artists, runs workshops, and sells art supplies and giftware. It functions as something of a community cultural hub for the region, and the quality of the exhibitions changes regularly.

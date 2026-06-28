@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Benidorm-pano-160410.jpg
 latitude: 38.540625
 loc_type: city
 longitude: -0.129093
-score: 0.57
+score: 7.9
+snippet: High-rise Costa Blanca beach resort with two broad sandy bays and a wintering
+  northern European crowd
 title: Benidorm
 type: location
 ---

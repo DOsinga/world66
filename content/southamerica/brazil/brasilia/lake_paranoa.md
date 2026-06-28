@@ -7,6 +7,7 @@ snippet: Artificial lake wrapping the Pilot Plan, with sailing, beaches, and sun
 tags:
 - things_to_do
 - park
+score: 6.5
 ---
 
 Lake Paranoá was created in 1959 by damming the Paranoá river — a deliberate piece of the Pilot Plan, both to soften Brasília's dry climate and to provide a recreational waterfront. The lake wraps around three sides of the central plan and is 80 metres deep in places, making it popular for sailing, wakeboarding, stand-up paddle, and scuba diving (yes, really — there is a sunken city of model concrete buildings on the bed).

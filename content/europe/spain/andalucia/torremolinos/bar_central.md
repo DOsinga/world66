@@ -7,6 +7,7 @@ tags:
   - tapas
 latitude: 36.6229
 longitude: -4.5001
+score: 6.0
 ---
 
 Bar Central is one of the longest-established tapas bars in Torremolinos town centre, popular with locals rather than tourists. The tapas are inexpensive and come in the Andalusian tradition of being served automatically with each drink — you do not order them, they simply arrive. Jamón, olives, patatas bravas, and small portions of whatever is fresh that day.

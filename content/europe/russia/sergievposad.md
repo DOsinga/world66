@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sergiev_Posad,_Russia,_The
 latitude: 56.3098
 loc_type: city
 longitude: 38.1353
+score: 7.79
+snippet: Small Russian town northeast of Moscow, centred on the fortified Trinity
+  Lavra of St. Sergius
 sources:
 - https://en.wikipedia.org/wiki/Sergiyev_Posad
 - https://en.wikivoyage.org/wiki/Sergiev_Posad

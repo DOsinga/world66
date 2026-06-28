@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.3800
 longitude: -105.3000
+score: 7.9
 ---
 
 Angel Fire sits within the Carson National Forest, and trailheads within a short drive of town give access to alpine meadows, aspen groves, and ridgeline walks above 10,000 feet. The Elliot Barker Trail and the South Boundary Trail are the most popular multi-day routes, but plenty of day hikes fan out from the valley floor.

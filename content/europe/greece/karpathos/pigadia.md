@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.5079
 longitude: 27.2136
+score: 6.4
 ---
 
 Pigadia is the capital and main port of Karpathos — a working town with ferry connections to Rhodes and Piraeus, car rental agencies, and a reasonable concentration of tavernas and kafeneions along the waterfront and up the hill behind the port. It is functional rather than beautiful, but it has a relaxed rhythm that grows on you.

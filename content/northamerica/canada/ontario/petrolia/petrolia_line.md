@@ -8,6 +8,7 @@ tags:
 - sight
 title: Petrolia Line
 type: poi
+score: 8.0
 ---
 
 The main commercial street through town, Petrolia Line, retains an extraordinary concentration of late-Victorian buildings — most of them designated heritage structures. Walk slowly: the detail on the cornices, the iron-work, and the stone trim repays close attention.

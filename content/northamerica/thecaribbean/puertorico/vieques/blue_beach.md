@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 18.1083
 longitude: -65.395
+score: 8.8
 ---
 
 Blue Beach — officially Playa La Chiva — is not one beach but a sequence of small coves strung along a couple of kilometres of refuge coastline east of Red Beach. The dirt road has marked pull-offs every few hundred metres, and at each you have a near-private cove with a few palm trees for shade.

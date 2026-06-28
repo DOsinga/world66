@@ -11,6 +11,7 @@ tags:
 title: Ralph's Rock Diner
 type: poi
 snippet: 1940s diner bolted onto a punk-rock bar, with a year-round outdoor patio
+score: 6.8
 ---
 
 Ralph's is a Worcester institution — a vintage Worcester Lunch Car diner from the 1940s welded onto a much larger and louder rock bar. By day the diner side serves greasy-spoon breakfast and lunch; by night the back room is one of the city's best small live-music venues, with punk, indie, and hardcore shows running most nights.

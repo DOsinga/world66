@@ -14,6 +14,7 @@ sources:
   - https://en.wikipedia.org/wiki/Campo_dei_Fiori_Regional_Park
 story: >
   The Grand Hotel Campo dei Fiori was built in 1912 at the summit as a fashionable resort for Milanese society, connected to the city by funicular and a little rack railway. It closed in 1968 and has been abandoned ever since — its ornate Liberty facade slowly being reclaimed by the forest, a reminder of a world that vanished between the wars.
+score: 8.1
 ---
 
 Campo dei Fiori is the hill that dominates the western skyline above Varese, rising to 1226 metres and now protected as a regional park. A road winds up through beech and chestnut forest to the summit, where you find trails, a small observatory, and the extraordinary ghost of the Grand Hotel Campo dei Fiori — a vast abandoned Liberty-era hotel that looms out of the trees like a set from a gothic novel.

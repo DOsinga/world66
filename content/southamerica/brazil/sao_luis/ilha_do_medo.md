@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.55
 longitude: -44.33
+score: 6.9
 ---
 
 The "Island of Fear" — *Ilha do Medo* — is a small island in the bay of São Marcos, accessible by boat from the city's waterfront. In the colonial period, it was used to quarantine ships arriving from plague-affected ports; today it's uninhabited and largely forested, with good birdwatching and views back towards the city skyline.

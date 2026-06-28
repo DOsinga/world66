@@ -13,6 +13,7 @@ tags:
   - sight
 title: Aka Forest Communities
 type: poi
+score: 8.6
 ---
 
 The forests around M'Baïki are home to Aka (also written BaAka or Ba'Aka) communities — semi-nomadic hunter-gatherers who have lived in the Congo Basin rainforest for thousands of years. They are among the most extensively documented forest-dwelling peoples in Africa, having been the subject of anthropological and musical research since the 1970s.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.0009
 longitude: 14.9947
+score: 6.1
 ---
 
 The Lungomare Cristoforo Colombo is Termoli's main seafront promenade, running south from the port along the town's principal beach. Two kilometres of palm-lined walkway, with the sand on one side and a string of beach bars, ice cream parlours, and fish restaurants on the other.

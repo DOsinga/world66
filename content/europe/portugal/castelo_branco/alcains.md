@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alc.XIII-Solar_Capela.jpg
 latitude: 39.915137
 loc_type: city
 longitude: -7.461465
-score: 0.33
+score: 5.79
+snippet: Small Beira Baixa town north of Castelo Branco, set among streams and quiet
+  interior farmland.
 title: Alcains
 type: location
 ---

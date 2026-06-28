@@ -14,6 +14,7 @@ story: >
   For 131 years no one knew what had happened to it. When divers found it in 1995, all eight
   crew members were still at their posts. The mystery of why they died — just after their
   greatest triumph — has never been conclusively solved.
+score: 8.5
 ---
 
 The H.L. Hunley was a Confederate submarine, hand-cranked by a crew of eight, that became the first submarine in history to sink an enemy warship when it attacked the USS Housatonic in Charleston Harbor on 17 February 1864. It then disappeared — and was lost for 131 years until discovered by a dive team led by novelist Clive Cussler in 1995.

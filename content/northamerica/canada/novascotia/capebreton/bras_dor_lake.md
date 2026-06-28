@@ -16,6 +16,7 @@ story: >
   its shores, called it "the most beautiful saltwater lake in the world" and
   spent the last 37 years of his life there, conducting experiments in aviation
   and hydrofoil technology on its calm surface.
+score: 8.1
 ---
 
 The Bras d'Or is a vast inland sea that divides Cape Breton Island nearly in two. At 1,100 square kilometres it is larger than many Canadian provinces' entire lake systems, and its mixture of fresh and salt water supports an extraordinary variety of wildlife. Bald eagles nest along almost every shore. Osprey fish the shallows. The deeper channels hold abundant Atlantic salmon, and blue herons are almost omnipresent.

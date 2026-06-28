@@ -5,8 +5,14 @@ latitude: 60.333333
 loc_type: region
 longitude: -1.333333
 score: 0.56
+snippet: Northern Scottish archipelago of treeless moorland, seabird cliffs, Norse
+  archaeology, and long summer light
 title: Shetland
 type: location
+image: shetland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gulberwick_IMG_3157_(20121529905).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ronnie Robertson
 ---
 
 Shetland is an archipelago of over 100 islands at the very top of the British Isles, closer to Norway than to most of [Scotland](/europe/unitedkingdom/scotland). The landscape is treeless and windswept — low, rolling moorland meeting dramatic cliffs and white sand beaches. The light in summer, when it barely gets dark, is extraordinary.

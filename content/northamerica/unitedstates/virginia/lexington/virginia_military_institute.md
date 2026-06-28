@@ -13,6 +13,7 @@ story: >
   intensity that made him a poor instructor made him one of the most feared commanders in
   the war. A statue of Jackson stands on the parade ground, and his uniform and other
   belongings are in the VMI Museum.
+score: 8.0
 ---
 
 The Virginia Military Institute sits adjacent to Washington and Lee, and its gray Gothic Revival barracks and parade ground are unmistakable. VMI is still a functioning military college — students wear uniforms, live in barracks, and observe a strict code of conduct — so visits feel more like an encounter with a living institution than a museum.

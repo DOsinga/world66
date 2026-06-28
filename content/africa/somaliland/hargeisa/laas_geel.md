@@ -8,6 +8,7 @@ tags:
 latitude: 9.6000
 longitude: 44.1167
 story: "Laas Geel was unknown to the outside world until a French archaeological team discovered the site in 2002. The Somaliland government had guarded the caves for years without any knowledge of their contents. When the researchers arrived and documented the paintings, they found colours so vivid and forms so well-preserved that they are among the finest Neolithic rock art sites anywhere on earth — better preserved than many famous European sites that receive millions of visitors."
+score: 9.6
 ---
 
 Laas Geel, about 55 kilometres northeast of Hargeisa, contains some of the best-preserved Neolithic rock art in Africa. Ten cave alcoves hold paintings estimated to be between 5,000 and 11,000 years old, depicting cattle, humans, and dogs in ochre, red, and white. The colours are remarkable — vivid against the granite walls, protected from rain by the overhanging rock and the dry climate. The animals are shown in profile with decorated markings, and the style is confident and precise in a way that makes them immediately striking even to someone who knows nothing about rock art.

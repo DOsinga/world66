@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The Seebrücke at Sellin is the most photographed pier on the German Baltic — 394 metres of timber walkway with an ornate, white-and-blue restaurant pavilion at the seaward end. The current structure dates from 1998, a faithful reconstruction of the original 1925 pier that succumbed to ice and storms.

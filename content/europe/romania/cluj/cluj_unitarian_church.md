@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.2
 ---
 
 Unitarianism — the Christian movement that rejected the doctrine of the Trinity — was formally founded in Transylvania in 1568, and Cluj has been its centre ever since. The current Unitarian church on Bulevardul 21 Decembrie, finished in 1796 in a sober late-baroque style, replaced an earlier medieval building.

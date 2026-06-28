@@ -3,11 +3,9 @@ accessibility: very easy
 address: near bus station
 done:
   poi_cleanup: '2026-04-19'
-latitude: 40.443866
-longitude: -79.992055
 price: average.. fits most budgets
 title: Eating Out
-type: poi
+type: section
 ---
 
 Food is quite Tasty. Make sure you have the Paneer Sashlik.

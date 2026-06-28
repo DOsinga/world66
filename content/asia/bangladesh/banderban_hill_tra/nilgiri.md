@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.9500
 longitude: 92.4167
+score: 6.5
 ---
 
 Nilgiri is a hilltop at around 3500 feet, one of the higher viewpoints accessible from Bandarban and the most dramatic. On clear mornings the view stretches across a sea of forested ridges to the Myanmar border, and in the early hours cloud often fills the valleys below, leaving the hilltops like islands in a white ocean. The name means "blue mountain" in Hindi and the effect on a clear day justifies it.

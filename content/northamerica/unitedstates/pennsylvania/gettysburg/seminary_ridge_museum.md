@@ -6,6 +6,7 @@ longitude: -77.2447
 tags:
   - things_to_do
   - museum
+score: 8.4
 ---
 
 The Lutheran seminary's 1832 Schmucker Hall stood at the centre of fighting on the first day of the battle and became one of the largest field hospitals afterward. The building has been restored as a museum focused on the first-day fighting, the medical care of the wounded, and the role of faith and the church during the war.

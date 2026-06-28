@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.8007
 longitude: 2.1341
+score: 7.2
 ---
 
 The Cathédrale Saint-Louis was built between 1743 and 1754 by Jules Hardouin-Mansart de Sagonne (grandson of the architect who built the Hall of Mirrors) as the parish church for the growing town of Versailles. The palace had its own Royal Chapel, but the thousands of tradespeople, servants, and officials who lived in the town needed a church they could actually use.

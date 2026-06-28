@@ -9,6 +9,7 @@ tags:
 - sight
 title: Louisiana Shrimp and Petroleum Festival
 type: poi
+score: 7.8
 ---
 
 The Louisiana Shrimp and Petroleum Festival, held on Labor Day weekend in late August or early September, is one of the oldest festivals in Louisiana. It began in 1936 as a celebration of the shrimping industry and later expanded to include the offshore oil industry that came to define the town in the late 20th century. The combination of the two industries in a single festival name is a fair description of Morgan City's economy.

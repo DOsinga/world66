@@ -8,6 +8,7 @@ latitude: 38.5689
 longitude: -121.4659
 story: >
   The co-op was founded in 1973, when Sacramento's counterculture scene centred on the Land Park and Curtis Park neighbourhoods. It predates the Midtown food renaissance by three decades and is part of the reason Sacramento's Farm-to-Fork claims have genuine substance — the co-op maintained direct relationships with Central Valley farms when most of the country was still buying everything from supermarket chains.
+score: 6.6
 ---
 
 One of the oldest natural food cooperatives in California, founded in 1973 and still operating as a member-owned grocery in the Midtown neighbourhood. The co-op stocks an unusually strong selection of locally grown Central Valley produce, and the deli counter prepares some of the best grab-and-go food in the neighbourhood.

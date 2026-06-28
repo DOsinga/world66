@@ -8,6 +8,7 @@ latitude: 50.35181
 longitude: -3.5786857
 sources:
   - https://en.wikipedia.org/wiki/Dartmouth_Museum
+score: 7.2
 ---
 
 Dartmouth Museum occupies a ground floor of the Butterwalk, a remarkable row of four merchant's houses built in the 1630s. The first floor is carried on granite columns and carved wooden beams, creating the covered walk that gives the row its name — a practical shelter from the Devon rain for the merchants who traded here. The museum inside covers the maritime history of the town and the Dart estuary: ship models, charts, navigation instruments, and material from the town's long involvement with exploration and the Royal Navy.

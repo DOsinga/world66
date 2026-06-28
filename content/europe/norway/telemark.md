@@ -8,6 +8,8 @@ latitude: 59.396268
 loc_type: region
 longitude: 8.66266
 score: 0.54
+snippet: Inland southern Norwegian county, associated with the Telemark Canal and
+  the skiing technique bearing its name.
 title: Telemark
 type: location
 ---

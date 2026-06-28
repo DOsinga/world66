@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3893
 longitude: -1.6624
+score: 7.1
 ---
 
 Saint-Jean-de-Luz is still a working tuna fishing harbour, which gives it a practical edge that most beach resorts lack. The harbour lies just north of the main square, and the quays are busy with boats in the morning when the catch comes in. In late summer, the tuna season brings a particularly active atmosphere — the boats that go all the way to the Atlantic and return loaded with bluefin are a different scale from the inshore vessels.

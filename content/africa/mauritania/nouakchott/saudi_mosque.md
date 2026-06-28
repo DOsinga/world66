@@ -6,6 +6,7 @@ latitude: 18.0900
 longitude: -15.9756
 story: >
   The Saudi Grand Mosque was funded entirely by the Kingdom of Saudi Arabia — part of a broader programme of mosque construction across the Sahel that accompanied the spread of Wahhabi Islamic practice in the 1980s and 1990s. Mauritania, a deeply conservative Islamic society, received several such gifts, and the mosques have become landmarks in cities that had little notable architecture of their own.
+score: 6.2
 ---
 
 The Saudi Grand Mosque — officially the Nouakchott Grand Mosque — is the most prominent building in the capital's low skyline, its white minaret visible from much of the central city. Built with Saudi funding in the 1980s, it can hold several thousand worshippers and is the focal point of the city's religious life.

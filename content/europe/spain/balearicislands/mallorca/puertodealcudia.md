@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-12'
+image: puertodealcudia.jpg
+image_attribution: Stein Arne Jensen on Flickr
+image_license: CC0 1.0
+image_source: https://www.flickr.com/photos/22852159@N05/30552119024
 latitude: 39.8486
 loc_type: city
 longitude: 3.1213
-score: 0.62
+score: 8.48
+snippet: Mallorcan beach resort beside Alcudia's shallow white-sand bay and nearby
+  Roman Pollentia.
 title: Puerto de Alcudia
 type: location
-image: puertodealcudia.jpg
-image_source: https://www.flickr.com/photos/22852159@N05/30552119024
-image_license: CC0 1.0
-image_attribution: Stein Arne Jensen on Flickr
 ---
 
 Puerto de Alcudia sits at the eastern end of Mallorca's longest beach — a five-mile sweep of soft, white sand that shelves gently into shallow, warm water, making it one of the best family beaches on the island. The resort town itself is a busy strip of restaurants, bars, and shops running along the waterfront, with a small marina at one end and the beach stretching away south toward Ca'n Picafort.

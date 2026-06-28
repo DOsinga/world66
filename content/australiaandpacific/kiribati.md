@@ -1,15 +1,17 @@
 ---
+latitude: 0.344861
+loc_type: country
+longitude: 173.664177
+quick_facts:
+  Currency: Australian Dollar
+  Population: 120,000
+  Spans All 4 Hemispheres: Only country to do so
+  Time Zones Spanned: '3'
+score: 0.33
+snippet: Scattered Pacific island nation spanning the Gilberts, Phoenix, and Line
+  Islands across an immense ocean.
 title: Kiribati
 type: location
-quick_facts:
-  Population: "120,000"
-  Currency: Australian Dollar
-  Time Zones Spanned: "3"
-  Spans All 4 Hemispheres: "Only country to do so"
-latitude: 0.344861
-longitude: 173.664177
-score: 0.45
-loc_type: country
 ---
 
 Kiribati is one of those tropical islands paradises ion the Pacific. It consists of three island groups. They are, from west to east the Gilberts Group (including Banaba and known prior to western contact as Tungaru), the Phoenix Group and the Line Islands Group.

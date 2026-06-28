@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Batumi Drama Theatre
 type: poi
+score: 6.4
 ---
 
 The Batumi State Drama Theatre is a colonnaded neoclassical building on Rustaveli Avenue, built in the early 1950s during the high Stalinist period. The facade — a portico of tall columns, a triangular pediment, and a long stone staircase — is a recognisable example of the kind of formal civic architecture the Soviets favoured for provincial centres. It is the city's main theatre, with Georgian-language productions and a regular calendar of touring concerts and ballets.

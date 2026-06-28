@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Krupówki Street
 type: poi
+score: 6.8
 ---
 
 Krupówki is the kilometre-long pedestrian street that runs through the centre of Zakopane, and it is where everyone ends up sooner or later. Lined with restaurants, cafes, souvenir shops, and cheese vendors, it is animated at all hours during the tourist season and has been the town's main promenade since the early 20th century.

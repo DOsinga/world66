@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 32.5188
 longitude: -93.7309
+score: 6.6
 ---
 
 The East Bank District is Bossier's small but determined attempt at a walkable arts and entertainment quarter, centred on Barksdale Boulevard a few blocks back from the river. Old commercial buildings have been gradually converted into restaurants, breweries, a brewery taproom or two, and event spaces.

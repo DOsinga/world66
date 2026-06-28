@@ -12,6 +12,7 @@ story: >
   barricaded herself inside this tower for weeks while a Guanche uprising raged outside.
   When Columbus arrived on his second voyage, he reportedly fell for her, and local legend
   has it she persuaded him to linger in port far longer than he had planned.
+score: 8.2
 ---
 
 The Torre del Conde is the oldest surviving building in the Canary Islands, a squat pink-walled watchtower built around 1450 by Hernán Peraza the Elder. It stands at the edge of the bay just south of the ferry terminal, looking slightly incongruous amid the palm trees and the modern promenade, but it has been here long enough to have watched every chapter of the island's colonial history unfold.

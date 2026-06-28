@@ -12,6 +12,7 @@ admission: Free; museum donation suggested
 opening_hours: Daily 09:00–17:00
 story: >
   Mission San Luis Obispo was the first California mission to adopt clay roof tiles, and the reason is practical rather than aesthetic. The local Chumash tribes, unhappy with the Spanish presence, repeatedly set fire to the tule-grass roofs. After the third burning, Padre Junípero Serra's successor ordered tiles fired from local clay — the same style that went on to define California mission architecture statewide. The arsonists, inadvertently, gave the state one of its most recognizable architectural exports.
+score: 8.5
 ---
 
 Founded in 1772 by Padre Junípero Serra, Mission San Luis Obispo de Tolosa is the fifth of California's 21 missions and the one that gave this city its name. It still functions as a parish church, which means the interior is not a museum piece — people actually attend mass here, and the scale is intimate and human rather than monumental.

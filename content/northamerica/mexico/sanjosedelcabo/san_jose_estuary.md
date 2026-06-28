@@ -7,6 +7,7 @@ tags:
 latitude: 23.064
 longitude: -109.688
 story: "The San José Estuary is the only freshwater lagoon on the Baja California Sur coast — a sliver of green fed by underground springs from the Sierra de la Laguna. It survives between the hotel beach and the town as a protected reserve, and its existence is a mild geological miracle: the springs that feed it maintain the water level even as the surrounding desert reaches into the 40s in summer."
+score: 7.8
 ---
 
 A protected freshwater estuary a short walk or cycle east of the town centre, where Wentworth Springs and other underground sources maintain a lagoon surrounded by dense reed beds, willows, and palms. The estuary is a critical stopover on the Pacific Flyway and supports over 350 species of birds — including herons, egrets, ospreys, and seasonal migrants. A boardwalk trail runs along the northern edge.

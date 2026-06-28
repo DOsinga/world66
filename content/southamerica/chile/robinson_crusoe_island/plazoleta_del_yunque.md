@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 6.8
 ---
 
 A clearing in the forest south of San Juan Bautista, the Plazoleta del Yunque is the site where Alexander Selkirk is said to have built his shelter during his marooning between 1704 and 1708. The walk in takes about an hour from town through dense native forest, past gigantic chonta palms and the strange luma trees.

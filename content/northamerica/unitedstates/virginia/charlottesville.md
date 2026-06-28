@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Charlottesville_Downtown_M
 latitude: 38.029306
 loc_type: city
 longitude: -78.476678
-score: 0.52
+score: 7.72
 title: Charlottesville
+snippet: Blue Ridge foothills city defined by Thomas Jefferson, the University of
+  Virginia, and Albemarle wine country.
 type: location
 ---
 

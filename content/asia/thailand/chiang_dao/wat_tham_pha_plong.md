@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Wat Tham Pha Plong
 type: poi
+score: 8.3
 ---
 
 About two kilometres past the cave, a staircase of roughly 500 steps winds up through dense jungle to a golden pagoda and a shrine carved into the cliff face. The steps are engraved with Buddhist quotes; the views from the top across the valley are excellent. Free to enter; dress modestly. The temple runs silent meditation retreats — contact them directly if you're interested in staying.

@@ -8,6 +8,7 @@ tags:
 latitude: 43.7233
 longitude: 12.6378
 story: "Piero della Francesca's *Flagellation of Christ* is one of the most enigmatic paintings in Western art. Three figures stand calmly in the foreground while Christ is scourged in the distance — and 500 years of scholarship has failed to agree on who they are or what the picture means. Kenneth Clark called it 'the greatest small painting in the world.'"
+score: 9.5
 ---
 
 The gallery occupies the bel piano of the Palazzo Ducale and was assembled in the 19th century from suppressed churches and convents across the Marche. Its prize possessions are three works by Piero della Francesca: the haunting *Flagellation of Christ*, the *Madonna of Senigallia*, and the diptych ideal city panel known as the *Ideal View of a City*.

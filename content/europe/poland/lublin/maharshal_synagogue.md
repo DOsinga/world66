@@ -9,6 +9,7 @@ latitude: 51.2511
 longitude: 22.5722
 story: >
   Lublin was known as the "Jewish Oxford" in the 16th and 17th centuries — the city's yeshivas attracted scholars from across Europe, and the Va'ad Arba Aratzot (Council of Four Lands), which effectively governed Jewish life in the Polish-Lithuanian Commonwealth, met here annually. The Maharshal — Rabbi Solomon Luria — was the most influential of these scholars, and his legal rulings shaped Jewish practice for centuries.
+score: 7.5
 ---
 
 The Maharshal's Synagogue stands in the Podzamcze district beneath the castle, in what was once the centre of Lublin's Jewish quarter. The building dates to the 16th century and is named for Rabbi Solomon Luria, one of the great Talmudic authorities of the period, whose legal decisions and commentaries remain studied today. Lublin's Jewish community was one of the largest and most intellectually significant in Europe before the Second World War.

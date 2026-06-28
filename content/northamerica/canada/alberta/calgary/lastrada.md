@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: La Strada
 type: poi
+score: 5.4
 ---
 
 Gourmet dining in a comfortable atmosphere, the international menu

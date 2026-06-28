@@ -6,6 +6,7 @@ longitude: 27.4956
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 A two-and-a-half-hour zipline tour through the Ysterhout Kloof, on a farm about ten kilometres outside Magaliesburg. Ten cables run between cliff-side platforms, the longest about 140 metres, with views straight down into the indigenous forest in the kloof and out across the highveld.

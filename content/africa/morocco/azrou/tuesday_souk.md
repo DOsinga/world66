@@ -13,6 +13,7 @@ story: >
   middlemen. Bargaining is unhurried, in French or Tamazight; prices are a
   fraction of what the same rug will fetch in Fez or Marrakech, and the
   quality is often higher.
+score: 7.9
 ---
 
 Azrou's main weekly market runs every Tuesday on the open ground at the edge of town. It is one of the most important Berber markets in the Middle Atlas — farmers and traders come in from the surrounding villages with sheep, vegetables, mountain honey, dried herbs, and the woven carpets and blankets the region is known for.

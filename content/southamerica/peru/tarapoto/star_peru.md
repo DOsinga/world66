@@ -9,6 +9,7 @@ tags:
 title: Star Peru
 type: poi
 url: www.starperu.com
+score: 1.8
 ---
 
 Flights on Star Peru from Lima to Tarapoto are generally scheduled for 2:30 p.m. each day, and the flight is about one hour long. Passengers are required to check in at the airport two hours ahead of the scheduled time of the flight.

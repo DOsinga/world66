@@ -5,7 +5,9 @@ done:
 latitude: 24.4975
 loc_type: city
 longitude: 93.9836
-score: 0.29
+score: 5.69
+snippet: Southeastern Manipur town with an organized market culture, People's Museum,
+  and gardens near Imphal.
 sources:
 - https://en.wikipedia.org/wiki/Kakching
 - https://kakching.nic.in/places-of-interest/

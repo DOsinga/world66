@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-28'
 latitude: 45.15
+loc_type: city
 longitude: 26.821
+score: 6.45
+snippet: Carpathian foothills city near the Berca Mud Volcanoes, where grey clay cones
+  bubble from salt-crusted ground.
 title: Buzău
 type: location
-score: 0.38
-loc_type: city
 ---
 
 Buzău is the principal city of Buzău County, sitting at the foot of the Carpathian foothills about 130 km north-east of Bucharest, where the plains meet the mountains. It is an old city — documents from the 15th century mention it — but most of what you see today is modern, the old centre having been largely rebuilt in the Soviet era. The city itself is unremarkable; the reason to come is what lies outside it.

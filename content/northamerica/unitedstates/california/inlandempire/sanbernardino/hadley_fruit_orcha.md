@@ -10,6 +10,7 @@ tags:
 title: Hadley Fruit Orchards
 type: poi
 url: www.hadleyfruitorchards.com
+score: 5.9
 ---
 
 Founded by Paul and Peggy Hadley in 1931 in Banning, California. Their neighbors were the Morongo Band of Mission Indians, and the two families maintained a warm relationship for decades. When Paul became dissatisfied with the quality of dates he could buy, he purchased five date orchards and grew his own. When commercially made cereals did not meet his standard, he bought his own puffed grain operation. By the 1970s he estimated he sold a ton of honey every day.

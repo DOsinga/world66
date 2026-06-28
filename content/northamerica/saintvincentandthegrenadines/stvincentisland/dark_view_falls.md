@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 13.27
 longitude: -61.2658
+score: 7.8
 ---
 
 Dark View Falls is a twin-stage waterfall on the leeward coast, reached by a short walk and a wobbly bamboo suspension bridge over the Richmond River. The lower fall is a wide veil dropping into a clear pool deep enough to swim in; the upper fall is reached by a steeper, slightly scrambly path another fifteen minutes uphill.

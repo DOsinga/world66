@@ -9,6 +9,7 @@ tags:
 latitude: 3.62
 longitude: -53.22
 snippet: "Day-long loop through primary forest around the village"
+score: 8.8
 ---
 
 The Grand Boucle is the longest of the day hikes signposted from the airstrip — a roughly 20 km loop through old-growth rainforest on the slopes of Mont La Fumée. It is the standard "serious day" for fit walkers and the best chance of seeing larger mammals on a single trip: groups of red howler monkeys, occasional tapir tracks in mud, and trails of leafcutter ants metres wide.

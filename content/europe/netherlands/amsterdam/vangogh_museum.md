@@ -1,18 +1,18 @@
 ---
-title: Van Gogh Museum
-type: poi
-tags:
-- things_to_do
-- museum
-- museum_quarter
 address: Paulus Potterstraat 7
 image: vangogh_museum.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Van_Gogh_Museum_Amsterdam_2017.jpg
 latitude: 52.358435
 longitude: 4.881197
-neighbourhood: Museum Quarter
 opening_hours: Daily 10:00–18:00, Friday until 22:00
+score: 9.3
+tags:
+- things_to_do
+- museum
+- museum_quarter
+title: Van Gogh Museum
+type: poi
 url: vangoghmuseum.nl
 ---
 

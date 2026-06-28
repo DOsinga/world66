@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 6.4
 ---
 
 Vienna's 252-metre Danube Tower is the tallest building in Austria and one of the few high-rises in a deliberately low-rise city. Opened in 1964 with the Vienna International Garden Show, it has an open observation terrace at 150 metres and a slowly revolving restaurant just below.

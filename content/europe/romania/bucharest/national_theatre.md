@@ -1,13 +1,14 @@
 ---
 address: Bulevardul Nicolae Bălcescu 2, Bucharest
 latitude: 44.4366
-loc_type: feature
 longitude: 26.1036
+score: 6.9
 snippet: Bucharest's main theatre, on University Square
 tags:
 - things_to_do
 - architecture
 title: National Theatre Bucharest
+type: poi
 ---
 
 A huge brutalist theatre complex on University Square, named after Romania's greatest playwright Ion Luca Caragiale. The original 1973 building was clad in white travertine after a 2010s renovation, with a glass-walled rooftop café and a vast new terrace that opens onto Piața Universității.

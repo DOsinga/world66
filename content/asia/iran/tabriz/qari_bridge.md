@@ -7,6 +7,7 @@ tags:
 - sight
 title: Qari Bridge
 type: poi
+score: 5.2
 ---
 
 The Qari Bridge is a small historic stone bridge spanning the Quri River as it cuts

@@ -10,6 +10,7 @@ tags:
 title: Granary Burying Ground
 type: poi
 url: www.thefreedomtrail.org
+score: 7.8
 ---
 
 The third-oldest cemetery in Boston and easily the most visited, the Granary holds the bones of John Hancock, Samuel Adams, Paul Revere, the five victims of the Boston Massacre, and most of Benjamin Franklin's family (Franklin himself is buried in Philadelphia). The stones are not always in the right places — Victorian groundskeepers rearranged them for neatness — but the inhabitants are real.

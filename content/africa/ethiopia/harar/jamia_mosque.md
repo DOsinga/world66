@@ -8,6 +8,7 @@ latitude: 9.311111
 longitude: 42.138889
 sources:
   - https://en.wikipedia.org/wiki/Jamia_Mosque,_Harar
+score: 7.5
 ---
 
 The Jamia Mosque — also called the Grand Mosque or Friday Mosque — is the largest and oldest mosque in Harar, standing near the centre of the walled city. The current building dates substantially from the 16th century, though the site has been a place of worship for considerably longer. Its tall minaret is a landmark visible from many of the surrounding lanes.

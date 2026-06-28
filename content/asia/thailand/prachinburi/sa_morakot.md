@@ -17,6 +17,7 @@ story: >
   the 6th and 11th centuries CE. Dvāravatī coins, Buddhist votive tablets, and
   stucco Buddha images found here were among the first clues that archaeologists
   had to the existence of this largely forgotten civilisation.
+score: 7.9
 ---
 
 Sa Morakot is an ancient Khmer reservoir at Ban Sa Khoi village, about 23 kilometres east of Prachinburi town on Route 319. The reservoir dates to the Dvāravatī period (6th–11th centuries CE) and was the water source for the ancient city of Sri Mahosot. The original laterite sluice gates and carved Naga serpent sculptures survive at the edges of the tank, remarkably intact for stonework that is over a thousand years old.

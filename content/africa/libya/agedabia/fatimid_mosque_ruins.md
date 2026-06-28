@@ -11,6 +11,7 @@ story: "The Fatimids sacked Agedabia in 912, then rebuilt it as a fortified stop
 sources:
   - https://www.temehu.com/islamic-tourism-and-mosques.htm
   - https://slsgazetteer.org/irt_geo/recordview/?id=1190
+score: 6.6
 ---
 
 The Fatimid mosque ruins are the most important historic remains associated with Agedabia. Little of the original structure is easy to read without a guide, but the site matters because early Islamic architecture has survived only patchily across Libya.

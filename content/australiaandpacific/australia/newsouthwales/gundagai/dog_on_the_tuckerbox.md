@@ -16,6 +16,7 @@ tags:
 - monument
 title: Dog on the Tuckerbox
 type: poi
+score: 6.9
 ---
 
 A bronze dog sitting faithfully on a box, five miles north of town — this modest statue is one of Australia's most visited monuments and a genuine piece of national mythology. The legend traces back to an old teamsters' song about a bullockee bogged at Five Mile Creek, whose dog memorably fouled the tuckerbox. Jack Moses cleaned up the story in the 1920s, turning the dog into a loyal guardian, and the sanitised version stuck.

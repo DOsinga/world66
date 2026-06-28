@@ -4,10 +4,12 @@ latitude: 41.377613
 longitude: 2.188902
 opening_hours: Mon–Sat 9am–3pm; closed Sun and evenings
 price_range: €10–20
-snippet: The bar that invented the bomba, Barceloneta's fried potato snack
+score: 7.9
+snippet: Bar that invented the bomba, Barceloneta's fried potato snack
 tags:
 - eating_out
 - restaurant
+- barceloneta
 title: La Cova Fumada
 type: poi
 ---

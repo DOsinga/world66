@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Senedd
 story: >
   The Senedd only came into being because 50.3% of Welsh voters said yes in a 1997 referendum — a margin of just 6,721 votes. The building that houses it, designed by Richard Rogers and opened in 2006, won the RIBA Stirling Prize shortlist and has become the symbol of devolved Wales. On sitting days, members of the public can watch debates from the public gallery for free.
+score: 7.8
 ---
 
 The Senedd is the home of the Welsh Parliament and one of the best public buildings in Cardiff. Richard Rogers's design is deliberately transparent — huge glass walls let you see the debating chamber from outside, and the public gallery is open free on sitting days. The timber-slatted roof with its funnel-shaped ventilation cowls is as distinctive close up as it is in photographs.

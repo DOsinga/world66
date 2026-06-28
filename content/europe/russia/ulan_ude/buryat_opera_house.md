@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 51.8331
 longitude: 107.5834
+score: 7.2
 ---
 
 The Buryat Opera and Ballet Theatre, just off Soviets Square, is a 1952 Stalinist-classical pile painted ochre and white, with a grand colonnaded facade and a sober but generous interior. It is one of the city's defining buildings.

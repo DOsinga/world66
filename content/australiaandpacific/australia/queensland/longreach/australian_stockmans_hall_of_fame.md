@@ -14,6 +14,7 @@ story: >
   view — you only see the full effect from the air, which seems appropriately outback. Jackie
   Howe's gold medals are here: he shore 321 sheep in less than eight hours in 1892, a
   world record that stood for decades.
+score: 8.8
 ---
 
 The Australian Stockman's Hall of Fame is the most ambitious cultural institution in outback Queensland and one of the most engaging museums in the country. It pays tribute to the drovers, shearers, station workers, explorers, and Aboriginal stockmen who shaped the Australian interior over two centuries of European settlement.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - canyon
+score: 5.5
 ---
 
 A short, narrow gorge where the Skeena River squeezes between basalt walls just east of Terrace, near the highway turnoff for Old Lakelse Lake Road. It's much smaller than Kitselas Canyon a few kilometres further upstream, and easy to miss from the road.

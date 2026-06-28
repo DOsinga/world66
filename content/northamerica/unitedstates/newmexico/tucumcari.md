@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Swallow_Motel_from_SW
 latitude: 35.1719
 loc_type: city
 longitude: -103.725
-score: 0.38
+score: 6.16
 title: Tucumcari
 type: location
+snippet: High-plains New Mexico railroad town with Route 66 neon and Tucumcari Mountain
+  legends.
 ---
 
 Boasting one of the most interesting names of any city in the United States, Tucumcari is located in the high plains country of east central New Mexico. It's a former railroad town that began life as "Six-Shooter Siding", and was home to several railroads in the 19th century. Route 66 brought neon motels and mother road culture in the 20th century. Today Tucumcari still preserves much of its Route 66 heritage.

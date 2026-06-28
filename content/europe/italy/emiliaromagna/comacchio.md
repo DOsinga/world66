@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gate_to_Comacchio.jpg
 latitude: 44.696379
 loc_type: city
 longitude: 12.180427
-score: 0.54
+score: 7.98
+snippet: Po Delta canal town of bridges, lagoon fisheries, and the five-stairway Ponte
+  dei Trepponti.
 title: Comacchio
 type: location
 ---

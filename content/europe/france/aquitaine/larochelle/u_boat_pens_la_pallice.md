@@ -8,6 +8,7 @@ tags:
 latitude: 46.1604
 longitude: -1.2003
 story: "The base was built by 14,000 forced labourers between 1941 and 1942. Each pen could house two Type VII submarines under a concrete roof up to seven metres thick. The pens were so massive that Allied bombing was useless against them; they survived the war intact and remain in use today by the French Atlantic Fleet."
+score: 7.2
 ---
 
 The U-boat pens at La Pallice — Base sous-marine de La Rochelle — are one of the largest Nazi concrete structures still standing, an industrial monster of 195,000 cubic metres of reinforced concrete on the western edge of the city. From here, between 1941 and 1944, U-boats sailed out into the Atlantic on the patrols that nearly cut Britain off from the Americas.

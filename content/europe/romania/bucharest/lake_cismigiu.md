@@ -1,13 +1,14 @@
 ---
 address: Cișmigiu Gardens, Bucharest
 latitude: 44.4379
-loc_type: feature
 longitude: 26.0903
+score: 6.8
 snippet: The serpentine lake inside Cișmigiu Gardens
 tags:
 - things_to_do
 - sight
 title: Lake Cișmigiu
+type: poi
 ---
 
 The artificial lake at the heart of Cișmigiu Gardens, fed since 1847 from the same Bucureștioara stream that gives the park its name. In summer it is dotted with rowing boats and pedalos available to rent from kiosks at the eastern end; in winter, when conditions allow, it freezes and turns into Bucharest's most central ice rink.

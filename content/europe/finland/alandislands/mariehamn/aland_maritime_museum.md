@@ -14,6 +14,7 @@ story: >
   afford steamships. The grain races to Australia became the final arena where sail competed
   commercially with steam, and Åland ships dominated them until the 1930s. The museum
   is essentially the archive of this final chapter of the age of sail.
+score: 8.6
 ---
 
 The Åland Maritime Museum, adjacent to the Pommern in the western harbour, tells the story of Åland's extraordinary maritime history. The islands produced a disproportionate number of the world's most accomplished sailors during the age of sail; as late as the 1930s, Åland-owned ships were making the grain run to Australia and back around Cape Horn when the rest of the world had moved to steam.

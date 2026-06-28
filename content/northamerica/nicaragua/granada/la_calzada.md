@@ -9,6 +9,7 @@ latitude: 11.9299
 longitude: -85.9500
 story: >
   Calle La Calzada was once the main road leading from the colonial centre to the lake port, used to carry indigo and cacao to Spanish galleons. Today it has been pedestrianised and lined with restaurants, but the street's historical role as Granada's commercial artery is why the city's best colonial architecture clusters here.
+score: 7.2
 ---
 
 Calle La Calzada is Granada's most photographed street — a pedestrian boulevard running east from Parque Central toward the lake, lined with low colonial buildings painted in vivid pinks, oranges, and yellows. Restaurants, bars, and craft shops occupy the ground floors, their tables spilling onto the pavement in the evenings.

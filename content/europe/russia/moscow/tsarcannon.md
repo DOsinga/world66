@@ -2,6 +2,11 @@
 category: Sight
 latitude: 55.751467
 longitude: 37.617921
+score: 5.9
+tags:
+- things_to_do
+- sight
+- the_kremlin
 title: Tsar Cannon
 type: poi
 ---

@@ -3,10 +3,12 @@ address: Campo de' Fiori, 00186 Rome
 latitude: 41.895613
 longitude: 12.472351
 opening_hours: Mon–Sat 7am–2pm; closed Sun
+score: 6.7
 snippet: Rome's most central daily food market, in the square where Bruno was burned
 tags:
 - shopping
 - market
+- campo_de_fiori
 title: Campo de' Fiori Market
 type: poi
 ---

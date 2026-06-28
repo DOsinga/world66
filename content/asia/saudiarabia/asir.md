@@ -7,6 +7,8 @@ title: Asir
 type: location
 score: 0.39
 loc_type: region
+snippet: Mountain region of southwest Saudi Arabia, with terraced hills, juniper forests,
+  and cool Abha summers.
 ---
 
 The Asir region in southwest Saudi Arabia is one of the country's best-kept secrets. The mountains around Abha rise above 3,000 metres, trapping monsoon clouds from the Indian Ocean and producing a landscape of terraced hillsides, juniper forests, and waterfalls that feels nothing like the rest of the country. In summer, when the rest of Saudi Arabia bakes, Asir stays comfortably cool — locals and Saudis from the interior come here specifically to escape the heat.

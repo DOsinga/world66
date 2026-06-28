@@ -8,6 +8,7 @@ latitude: 19.6150
 longitude: 110.9510
 story: >
   The Wenchang launch center was built here for a specific orbital mechanics reason: proximity to the equator. Every degree of latitude closer to the equator reduces the fuel needed to launch a satellite to geostationary orbit, because the Earth's rotational speed at the equator gives payloads a free velocity boost. At 19°N, Wenchang is China's southernmost feasible launch site, and that advantage is why it was chosen for the country's most ambitious missions including the Chang'e lunar program and the Tianwen Mars mission.
+score: 6.9
 ---
 
 The Wenchang Satellite Launch Center, opened in 2016, is China's newest and southernmost space launch facility. It handles the country's heaviest rockets — the Long March 5, which carries payloads too large for the older inland launch sites — and has been the departure point for significant missions including lunar probes and components of the Chinese Space Station. Launches are not generally open to public viewing from within the facility.

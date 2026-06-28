@@ -8,6 +8,7 @@ tags:
 - story
 title: San Marcos
 type: poi
+score: 8.2
 ---
 
 One of the grandest Renaissance buildings in Spain, San Marcos was built in the 16th century as a monastery and pilgrim hospital on the Camino de Santiago. The long Plateresque façade stretching along the Río Bernesga is almost theatrical in its ambition — over a hundred metres of sculpted medallions, pilasters, and shells.

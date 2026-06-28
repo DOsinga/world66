@@ -7,6 +7,7 @@ tags:
 snippet: University art museum strong in Louisiana and Southern artists
 latitude: 30.2092
 longitude: -92.0158
+score: 7.3
 ---
 
 The Paul and Lulu Hilliard University Art Museum sits on the UL Lafayette campus and is the best art museum in southwest Louisiana. The permanent collection focuses on Louisiana artists and the broader American South, with works by George Rodrigue, John James Audubon, and Walter Inglis Anderson. Eighteenth- and nineteenth-century European paintings round it out.

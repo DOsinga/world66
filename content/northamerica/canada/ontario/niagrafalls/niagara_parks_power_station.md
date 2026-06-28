@@ -17,6 +17,7 @@ story: >
   here, making it a monument to Tesla's victory over Edison in the "War of Currents."
 sources:
   - https://en.wikipedia.org/wiki/Ontario_Power_Generation_Building
+score: 8.3
 ---
 
 The Niagara Parks Power Station is a beautifully restored 1905 hydroelectric generating plant on the Niagara Parkway, now open as a heritage attraction. The enormous generator hall, with its original turbines and equipment, has been restored and dramatically lit. But the main draw is the tunnel tour: a 2,000-foot (600m) tunnel descends from the power station to the edge of the Niagara Gorge and opens onto observation decks directly above the whitewater rapids.

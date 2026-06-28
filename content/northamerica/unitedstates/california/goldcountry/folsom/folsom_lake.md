@@ -14,6 +14,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Folsom_Lake_State_Recreation_Area
   - https://en.wikipedia.org/wiki/Folsom_Lake
+score: 7.7
 ---
 
 Folsom Lake State Recreation Area wraps around the reservoir north of the city and is the main outdoor draw for the region. The lake has 18,000 acres of water surface when full and more than 150 kilometres of shoreline, with multiple swimming beaches, boat launches, equestrian trails, and campgrounds spread around its arms.

@@ -8,6 +8,7 @@ tags:
 latitude: 13.0798
 longitude: 80.2637
 snippet: "One of the finest neo-classical churches in South Asia, built for the Scottish community."
+score: 7.7
 ---
 
 St Andrew's Kirk, completed in 1821, is one of the most architecturally refined buildings in Chennai — a neo-classical church built to serve the city's Scottish community, closely modelled on St Martin-in-the-Fields in London. The circular colonnaded design, with its white stucco exterior and blue-and-gold interior, has been called one of the finest examples of neo-classical architecture in India.

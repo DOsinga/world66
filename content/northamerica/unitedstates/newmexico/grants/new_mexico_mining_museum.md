@@ -9,6 +9,7 @@ longitude: -107.8514
 snippet: The only uranium mining museum in the world, with a walk-through replica mine shaft
 story: >
   In 1950, a Navajo sheepherder named Paddy Martinez found a strange yellow-green rock on the surface near Grants. Geologists identified it as uranium ore. Within a decade, Grants had become the "uranium capital of the world," with multiple mines operating in the area and the town's population tripling. The boom lasted until the 1980s, when uranium prices collapsed and the mines closed.
+score: 7.4
 ---
 
 The New Mexico Mining Museum is the only uranium mining museum in the world. Its centrepiece is a full-scale replica of a uranium mine shaft that visitors can descend — past mining equipment, rock samples, and explanatory panels — to understand what mining in this district actually looked like. The exhibit tracks the entire arc of Grants' extraordinary uranium story, from Paddy Martinez's 1950 discovery through the Cold War boom years to the collapse of the 1980s.

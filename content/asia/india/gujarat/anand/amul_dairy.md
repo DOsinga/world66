@@ -16,6 +16,7 @@ story: >
   instead. Within fifteen days they had one. The Kaira District Co-operative Milk
   Producers' Union — later branded Amul — was born from that strike, and within a
   generation had made India the world's largest producer of milk.
+score: 8.5
 ---
 
 The GCMMF plant on the edge of Anand is the original Amul dairy, and it remains a working facility processing millions of litres of milk every day. Guided tours are offered free of charge, typically at 9am and 3pm on weekdays — turn up at the main gate a few minutes early and you will usually be absorbed into a group. The tour walks you through the pasteurisation halls, the butter and cheese production lines, and the cold storage rooms, explaining how the cooperative collects milk from hundreds of village societies each morning and transforms it into the familiar Amul products within hours.

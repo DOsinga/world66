@@ -5,6 +5,9 @@ done:
 latitude: 21.87
 loc_type: city
 longitude: -71.95
+score: 8.25
+snippet: Green Turks and Caicos island with quiet beaches, flamingo ponds, and Loyalist
+  plantation ruins.
 title: North Caicos
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 39.949257
 loc_type: region
 longitude: 4.049964
 score: 0.76
+snippet: Quieter Balearic island with prehistoric talayotic sites, small coves, and
+  the historic harbour of Mahón.
 title: Menorca
 type: location
 ---

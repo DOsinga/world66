@@ -17,6 +17,7 @@ tags:
 - sight
 title: New Cathedral
 type: poi
+score: 7.4
 ---
 
 The largest church in Austria by interior volume, built between 1862 and 1924 in a Neo-Gothic style that owes a visible debt to French Gothic cathedrals. The stained glass windows are exceptional, including one panel depicting Linz during World War II — a surprisingly frank subject for a church window. The exterior is massive and a little severe, but the interior rewards a look, particularly the windows and the sheer scale of the nave.

@@ -6,6 +6,7 @@ latitude: 40.492222
 longitude: 50.138889
 story: >
   At 25 metres high, the Quadrangular Fortress is the tallest medieval tower on the Absheron Peninsula — visible for considerable distances across the flat landscape. It dates from the 14th century and served as the main defensive anchor for the village during the era of Shirvanshah rule.
+score: 7.8
 ---
 
 The larger of Mardakan's two castles stands in the village centre and is impossible to miss: a square tower 25 metres high and five storeys tall, built in the 14th century. Unlike the round fortress, this one was designed as the primary defensive stronghold of the settlement rather than an isolated watchtower, and the scale reflects that purpose.

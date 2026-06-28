@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 39.2803
 longitude: -76.8567
 snippet: Surviving figures from a 1950s storybook theme park
+score: 5.9
 ---
 
 The Enchanted Forest opened in 1955 — the first themed amusement park east of the Mississippi — and closed quietly in the 1990s as bigger parks took over. For years its fibreglass dragons, gingerbread houses, and giant pumpkin coach sat abandoned behind a strip mall on US-40. Most of the figures have now been moved a couple of miles away to the Clark's Elioak Farm petting zoo, restored, and arranged along a children's walking path.

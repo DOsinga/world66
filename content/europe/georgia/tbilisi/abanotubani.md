@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Abanotubani
 type: poi
+score: 8.8
 ---
 
 Abanotubani — literally "bathhouse district" — is the historic quarter at the southern edge of the old town where the natural sulphur springs that gave Tbilisi its name still bubble up. The area is defined by its extraordinary roofscape: the domed brick caps of the underground bathhouses rise from the ground like giant beehives, the steam sometimes visible in cooler weather.

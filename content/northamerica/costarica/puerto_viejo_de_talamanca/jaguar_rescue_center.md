@@ -8,6 +8,7 @@ tags:
 - sight
 title: Jaguar Rescue Center
 type: poi
+score: 7.1
 ---
 
 The Jaguar Rescue Center, just outside Puerto Viejo on the road to Playa Cocles, is a non-profit wildlife sanctuary that takes in injured, orphaned and confiscated animals. Sloths get the most attention — both two- and three-toed species — but you'll also see howler monkeys, ocelots, snakes, and a rotating cast of birds.

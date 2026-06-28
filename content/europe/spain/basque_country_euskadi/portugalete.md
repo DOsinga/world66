@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Portugalete_Vizcaya_Bridge
 latitude: 43.319
 loc_type: city
 longitude: -3.0199
-score: 0.53
+score: 7.58
+snippet: Basque estuary town downstream from Bilbao, anchored by the UNESCO-listed
+  Vizcaya transporter bridge.
 title: Portugalete
 type: location
 ---

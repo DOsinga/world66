@@ -6,6 +6,7 @@ longitude: 26.8867
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 The fish taverna at the eastern end of Kokkari's seafront strip serves grilled red mullet, anchovies, octopus stewed in red wine, and a particularly good house horiatiki with Samian feta. Tables are set on the pebble beach and the food comes out of a tiny kitchen at the back.

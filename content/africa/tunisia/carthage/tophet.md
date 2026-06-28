@@ -15,6 +15,7 @@ tags:
 - historic
 title: Tophet of Carthage
 type: poi
+score: 8.2
 ---
 
 The Tophet of Carthage — also known as the Sanctuary of Tanit — is the Punic-era infant burial ground just south of the Punic Ports, and it sits at the heart of one of the most contested debates in ancient history. The site holds the cremated remains of thousands of infants, deposited in small urns over the course of several centuries, often accompanied by the bones of young animals and stone votive stelae. Classical writers were unanimous that the Carthaginians sacrificed infants to their gods; modern scholarship has argued back and forth for over a century. Recent DNA and isotopic analysis has tipped the consensus back toward the classical view.

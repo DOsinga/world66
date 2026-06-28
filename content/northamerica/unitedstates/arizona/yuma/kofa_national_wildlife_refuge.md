@@ -11,6 +11,7 @@ story: >
   which operated here in the early 1900s. The refuge was established in 1939 specifically to 
   protect desert bighorn sheep, and now holds one of the largest bighorn populations in the 
   American Southwest — roughly 800 animals in 665,400 acres of pristine Sonoran Desert.
+score: 7.8
 ---
 
 Kofa National Wildlife Refuge covers 665,400 acres of raw Sonoran Desert about 40 miles north of Yuma, protecting two mountain ranges — the Castle Dome and Kofa — and the bighorn sheep that have lived in them for millennia. There are no facilities and no entrance fee. You come here to disappear into the desert.

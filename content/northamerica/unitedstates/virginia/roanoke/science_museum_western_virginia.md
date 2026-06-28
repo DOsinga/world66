@@ -6,6 +6,7 @@ longitude: -79.9390
 tags:
   - things_to_do
   - museum
+score: 5.8
 ---
 
 The Science Museum of Western Virginia is on the third floor of Center in the Square, the shared cultural complex on the City Market block. It is small and oriented largely toward children, with interactive exhibits on physics, geology, ecology and the human body, plus a touch tank with local Chesapeake Bay marine life.

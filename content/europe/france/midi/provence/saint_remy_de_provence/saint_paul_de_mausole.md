@@ -15,6 +15,7 @@ tags:
 snippet: "Monastery asylum where Van Gogh painted The Starry Night"
 title: Saint-Paul-de-Mausole
 type: poi
+score: 8.4
 ---
 
 A 12th-century monastery that has operated as a psychiatric hospital since the early 19th century. Van Gogh spent a year here from May 1889 to May 1890 and created some of his most celebrated works in the gardens and the fields just outside. Visitors can tour the Romanesque cloister, the chapel, and a faithful reconstruction of Van Gogh's room, as well as walk the garden paths he painted repeatedly.

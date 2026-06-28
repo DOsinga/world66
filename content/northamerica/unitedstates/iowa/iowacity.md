@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Iowa_City_Clinton_St.jpg
 latitude: 41.6612
 loc_type: city
 longitude: -91.5299
-score: 0.39
+score: 6.46
+snippet: Iowa college town anchored by the Writers’ Workshop, independent bookshops,
+  and a UNESCO literary identity.
 title: Iowa City
 type: location
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Castill
 latitude: 29.8947
 loc_type: city
 longitude: -81.3145
-score: 0.61
+score: 8.76
+snippet: Spanish colonial Florida city with coquina fortifications, cobbled lanes,
+  and the Castillo de San Marcos
 title: St. Augustine
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 42.8775
 longitude: 74.5953
 address: "Tynystanov Street 199, Bishkek"
+score: 6.5
 ---
 
 A serious Japanese restaurant in central Bishkek, run by a long-resident Japanese family and one of the few places in Central Asia where you can get good sashimi, tempura and chawanmushi. The fish is flown in from Almaty; the rest of the menu is anchored in homestyle Japanese cooking that does not bend to local tastes.

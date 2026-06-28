@@ -1,0 +1,200 @@
+{
+  "round": 3958,
+  "timestamp": "2026-06-13T23:32:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 17.2852,
+      "prior_variance": 1.367869,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 5.459,
+      "prior_variance": 0.122236,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.8573,
+      "prior_variance": 0.109192,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.8699,
+      "prior_variance": 0.105936,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.4805,
+      "prior_variance": 0.114624,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.6473,
+      "prior_variance": 0.099852,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.7205,
+      "prior_variance": 0.104446,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.4436,
+      "prior_variance": 0.100911,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 5.0463,
+      "prior_variance": 0.120986,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Chilika Lake",
+      "path": "asia/india/orissa/chilika",
+      "prior_score": 0.5031,
+      "prior_variance": 0.098225,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_score": 2.9874,
+      "prior_variance": 0.109441,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": -0.0028,
+      "prior_variance": 0.158381,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_score": -0.3393,
+      "prior_variance": 0.117182,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": 0.2046,
+      "prior_variance": 0.114717,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Taijiang",
+      "path": "asia/china/guizhou/taijiang",
+      "prior_score": -2.8082,
+      "prior_variance": 0.120516,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.7098,
+      "prior_variance": 0.102443,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -2.8159,
+      "prior_variance": 0.111063,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -1.1101,
+      "prior_variance": 0.110048,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": -3.0775,
+      "prior_variance": 0.126085,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.3608,
+      "prior_variance": 0.114671,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -2.0463,
+      "prior_variance": 0.105587,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -3.0336,
+      "prior_variance": 0.127079,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.1093,
+      "prior_variance": 0.11282,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -6.6414,
+      "prior_variance": 0.204422,
+      "prior_n": 13
+    }
+  ]
+}

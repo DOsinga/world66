@@ -15,6 +15,7 @@ story: >
   offers fewer flavours and requires a queue, but the price is still set at
   Cuban peso rates — meaning that a local portion costs the equivalent of a
   few cents.
+score: 6.3
 ---
 
 Coppelia is Cuba's most famous ice cream parlour — a futuristic circular pavilion designed by architect Mario Girona and built in 1966 in the Vedado neighbourhood, covering a full city block and designed to serve the masses of a socialist state unlimited access to high-quality ice cream as a revolutionary right.

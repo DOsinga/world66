@@ -1,7 +1,10 @@
 ---
 address: Chomsin Road and Naresdamri Road
+latitude: 12.571
+longitude: 99.9586
 phone: Thailand
 price: THB 200 - 400
+score: 4.6
 tags:
 - eating_out
 - restaurant

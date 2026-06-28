@@ -8,6 +8,7 @@ latitude: 43.8461
 longitude: 126.5600
 story: >
   The Jilin Wen Miao was built in 1742 under the Qing dynasty — a significant date because the Manchu imperial family that founded the Qing dynasty originated in the region around Jilin, and building a Confucian temple here was an act of cultural integration: a Manchurian dynasty embracing the canonical scholarly institution of the Chinese civilisation it had conquered. The temple is the largest Confucian temple in Manchuria.
+score: 8.1
 ---
 
 The Wen Miao Confucian Temple in Jilin City is the largest Confucian temple in Manchuria and one of the better-preserved such complexes in northeastern China. Built in the Qing dynasty, the complex follows the standard Confucian temple plan — a sequence of halls on a central axis, with the Hall of Great Achievement at the centre housing the tablets and portraits of Confucius and the canonical sages.

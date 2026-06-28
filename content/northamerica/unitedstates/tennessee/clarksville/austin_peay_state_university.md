@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.5323
 longitude: -87.3546
+score: 5.5
 ---
 
 Austin Peay State University (APSU) is the only four-year university in Clarksville, with a campus of red-brick buildings set on a hillside north of the downtown historic district. Founded in 1927 and named for Tennessee Governor Austin Peay, the university has grown significantly in recent decades, driven partly by the large military population at nearby Fort Campbell.

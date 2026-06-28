@@ -1,14 +1,18 @@
 ---
 address: Clarkehouse Road, Sheffield S10 2LN
 latitude: 53.3739
-loc_type: feature
 longitude: -1.5036
+score: 7.3
 snippet: 19 acres of curated gardens with restored Victorian pavilions
+story: A long-empty pit at the south end of the gardens once held a fully grown black
+  bear, kept on display from 1837 for the entertainment of Victorian visitors. The
+  pit is still there with a small bear statue at the bottom in tribute to its unfortunate
+  former occupant.
 tags:
 - things_to_do
 - sight
 title: Sheffield Botanical Gardens
-story: "A long-empty pit at the south end of the gardens once held a fully grown black bear, kept on display from 1837 for the entertainment of Victorian visitors. The pit is still there with a small bear statue at the bottom in tribute to its unfortunate former occupant."
+type: poi
 ---
 
 Nineteen acres of Victorian gardens west of the city centre, opened in 1836 and laid out around a series of glass pavilions designed by Joseph Paxton's contemporary Benjamin Broomhead Taylor. The pavilions were restored in 2003 and now hold subtropical and Mediterranean collections; the rest of the gardens are divided into themed sections including a rose garden, a rock garden, a fossil display, and the famous bear pit.

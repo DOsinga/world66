@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: -6.4424
 longitude: 38.9059
+score: 8.0
 ---
 
 The Old Fort — known locally as the Old Slave Prison — is a square coral-stone fort facing the harbour, built in the 1860s when the Sultan of Zanzibar tightened his grip on the mainland coast. The thick walls held a garrison of Baluchi soldiers, and the underground rooms were used as holding cells for slaves waiting to be shipped across to the Zanzibar market.

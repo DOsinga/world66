@@ -9,6 +9,7 @@ tags:
   - neighbourhood
   - eating_out
 snippet: Aurora's "international district" — Korean, Vietnamese, Mexican strip malls for kilometres
+score: 8.5
 ---
 
 Havana Street runs north-south through central Aurora and concentrates the city's most ambitious immigrant cooking in a six-kilometre string of strip malls. The northern stretch around East Mississippi is heavily Korean — banchan-laden Korean barbecues, Korean fried chicken, supermarkets with their own in-house tofu factories. South of Mississippi the tilt shifts toward Mexican and Vietnamese, with a few Ethiopian and Eritrean places scattered through. Indian and Pakistani restaurants thicken further south.

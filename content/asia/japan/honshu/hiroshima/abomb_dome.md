@@ -17,6 +17,7 @@ story: >
   witness.
 sources:
   - https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial
+score: 8.8
 ---
 
 The skeletal iron frame of the former Hiroshima Prefectural Industrial Promotion Hall, now the most powerful monument in the city. The building was completed in 1915, designed by Czech architect Jan Letzel in a Viennese Secession style — a handsome domed hall that once housed exhibitions and trade shows. In 1945 it became, by accident of geometry, the only structure left standing near the hypocenter of the world's first atomic bombing.

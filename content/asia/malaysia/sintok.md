@@ -5,7 +5,9 @@ done:
 latitude: 6.4451
 loc_type: city
 longitude: 100.4811
-score: 0.33
+score: 5.87
+snippet: Small Kedah foothill town near the Thai border, best known as the home of
+  Universiti Utara Malaysia.
 title: Sintok
 type: location
 ---

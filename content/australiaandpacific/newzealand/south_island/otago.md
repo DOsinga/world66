@@ -7,6 +7,12 @@ longitude: 170.1779
 score: 0.69
 title: Otago
 type: location
+snippet: South Island region linking Dunedin's Scottish heritage with Central Otago
+  goldfields, vineyards, and alpine scenery.
+image: otago.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Autumn_in_Otago,_New_Zealand.jpg
+image_license: Public domain
+image_attribution: Bernard Spragg. NZ from Christchurch, New Zealand
 ---
 
 Otago is one of [New Zealand](/australiaandpacific/newzealand)'s original provinces, stretching from the southeastern coast deep into the Southern Alps. Its largest city is [Dunedin](/australiaandpacific/newzealand/south_island/otago/dunedin), founded by Scottish settlers in 1848 and named after Edinburgh — Scottish place names are everywhere in the region.

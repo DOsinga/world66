@@ -7,6 +7,7 @@ tags:
 latitude: 43.5483
 longitude: -96.7276
 snippet: "Sioux Falls' best-known craft brewery in a repurposed downtown building"
+score: 6.2
 ---
 
 Fernson Brewing Company's downtown taproom occupies a handsomely converted commercial building one block from the SculptureWalk. The beer list runs to a dozen or more taps, including the flagship Red Lager, seasonal IPAs, and rotating speciality ales. The food menu is solid — flatbreads, shareable plates, and bar snacks that go well beyond the usual pub fare.

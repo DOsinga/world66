@@ -9,6 +9,7 @@ title: Brent Tor and St Michael's Church
 type: poi
 snippet: "Tiny Norman church on the summit of a volcanic plug, visible for miles across Dartmoor"
 story: "Legend has the Devil building the church at the foot of the tor each night, with St Michael carrying the stones back up to the summit by morning. The 1130 church is the smallest complete parish church in England still in active use."
+score: 8.2
 ---
 
 A few miles south-east of Lydford, the volcanic plug of Brent Tor rises 1,100 feet abruptly from the moorland, capped by St Michael de Rupe — built in 1130 and at 37 feet long, one of the smallest complete parish churches in England. It is also one of the most dramatically sited: the views on a clear day take in both the Bristol and English Channels.

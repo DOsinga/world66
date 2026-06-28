@@ -9,6 +9,7 @@ latitude: 38.1760
 longitude: 12.7341
 story: >
   The sanctuary was built on the site of the martyrdom of San Vito, a 3rd-century Sicilian saint whose remains were taken to Germany in the 9th century. The coastal town that grew up around the church took his name, and the fortress walls that surround the building were added in the 16th century as protection against Barbary pirate raids.
+score: 7.6
 ---
 
 The Sanctuary of San Vito is the oldest building in town and its spiritual centre — a Norman church that has been enlarged and fortified over the centuries until it resembles a small castle as much as a place of worship. The thick white walls and the squat tower are visible from far out at sea.

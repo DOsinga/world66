@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/42033648@N00/269966509
 latitude: -41.124067
 loc_type: city
 longitude: 175.069959
-score: 0.4
+score: 6.49
+snippet: Hutt Valley suburb where Wellington's northern edge opens into river trails
+  and forested ranges.
 title: Upper Hutt
 type: location
 ---

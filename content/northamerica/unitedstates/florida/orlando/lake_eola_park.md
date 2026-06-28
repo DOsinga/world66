@@ -10,6 +10,7 @@ title: Lake Eola Park
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Lake_Eola_Park
+score: 6.8
 ---
 
 Lake Eola is where downtown Orlando exhales. The circular park around the lake is a genuine public space — runners, dog walkers, families with pedal-powered swan boats, and the farmers' market that occupies the eastern shore every Sunday morning. The Walt Disney Amphitheater hosts outdoor concerts and events throughout the year.

@@ -8,6 +8,7 @@ latitude: 33.5128
 longitude: 36.2980
 snippet: Central modern square, marking the divide between Old City and new
 story: "The bronze column in the centre of Marjeh Square was erected in 1907 to celebrate the Hejaz Railway, which connected Damascus to Medina and could carry pilgrims to Mecca. The column carries a small replica of the Yildiz Mosque in Istanbul on top — a tribute to the Ottoman sultan Abdul Hamid II who built the line."
+score: 6.0
 ---
 
 The main public square of modern Damascus, just west of the Old City walls. Marjeh ("Meadow") was the gateway between the Ottoman administrative quarter and the medieval city, and is still a busy crossroads of buses, taxis and cheap hotels.

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bergen_panorama_at_night_-
 latitude: 60.394306
 loc_type: city
 longitude: 5.325919
-score: 0.73
+score: 9.31
+snippet: Hanseatic Norwegian port wedged between seven mountains, fjords, and Bryggen's
+  timber warehouses.
 title: Bergen
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
 latitude: 59.7733
 longitude: 22.9433
 story: "Russarö was a Finnish coastal artillery base until 2017 — closed to civilians for more than a century. After demilitarisation the island opened to the public, with the 1863 lighthouse and the surrounding bunkers as the main draws."
+score: 8.5
 ---
 
 Russarö lies about seven kilometres south of Hanko and is the most accessible of the offshore islands now that the military has left. The 1863 lighthouse — a slim red-and-white-banded tower — is still operational; visitors can climb it for a sweeping view of the Gulf of Finland that on a clear day reaches the Estonian coast.

@@ -1,10 +1,14 @@
 ---
 address: Museumveien 10, Bygdøy
 email: nf@norskfolkemuseum.no
+latitude: 59.9074
+longitude: 10.6869
 opening_hours: 10-18 summer, 11-15 winter
 phone: (+47) 22 12 37 00
+score: 8.0
 tags:
 - things_to_do
+- museum
 title: Norsk Folkemuseum
 type: poi
 zipcode: www.norskfolkemuseum.no

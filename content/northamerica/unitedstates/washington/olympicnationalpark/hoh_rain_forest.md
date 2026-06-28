@@ -9,6 +9,7 @@ tags:
   - forest
 title: Hoh Rain Forest
 type: poi
+score: 9.5
 ---
 
 The Hoh Rain Forest is Olympic's signature green cathedral: Sitka spruce, western hemlock, mossy maples, nurse logs, ferns, and a soft filtered light that makes the whole valley feel underwater.

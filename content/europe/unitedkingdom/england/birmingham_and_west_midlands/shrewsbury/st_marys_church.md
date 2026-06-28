@@ -14,6 +14,7 @@ story: >
   Royalist garrison town) when many churches had their glass destroyed by Parliamentary forces.
   Some of the glass was brought from other sources, including German and Flemish workshops,
   making St Mary's a treasury of European medieval glazing.
+score: 8.4
 ---
 
 St Mary's Church stands in its own churchyard in the centre of Shrewsbury and is one of the finest medieval churches in the Welsh Marches. The building dates from the 12th century with substantial additions through the Gothic period, and the interior is full of carved detail and historical interest.

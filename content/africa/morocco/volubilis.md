@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Volubilis_Longshot_II.jpg
 latitude: 34.073473
 loc_type: city
 longitude: -5.555366
-score: 0.65
+score: 8.67
+snippet: Roman archaeological site in Morocco, with mosaicked villas spread across
+  a fertile plateau.
 title: Volubilis
 type: location
 ---

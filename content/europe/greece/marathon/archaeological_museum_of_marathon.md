@@ -15,6 +15,7 @@ story: >
   above Marathon where Pan-worship was established after the battle as thanks to the 
   god who, according to Herodotus, had appeared to the Athenian messenger Pheidippides 
   on his run to Sparta to seek help.
+score: 8.1
 ---
 
 The Archaeological Museum of Marathon is one of the better regional museums in Attica, occupying a modern building a kilometre from the tumulus. Its collections cover finds from the battlefield and the wider Marathon area, including material from the Egyptian sanctuary at Marathon (Ptolemaic-era), artifacts from the Cave of Pan above the valley, and finds from various Bronze Age and Mycenaean sites in the region.

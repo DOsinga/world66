@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.2298
 longitude: -63.1266
+score: 5.8
 ---
 
 Peake's Wharf is the main public access point to Charlottetown Harbour, a restored 19th-century commercial wharf now occupied by boutique shops, a restaurant, and the departure point for harbour cruises. The wharf itself is a pleasant place to spend an hour — walking out over the water, watching the sailboats at the adjacent marina, and getting a sense of the harbour that shaped the city's early economy.

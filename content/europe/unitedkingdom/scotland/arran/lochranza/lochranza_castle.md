@@ -12,6 +12,7 @@ story: >
   Lochranza Castle may have been built on the site of an even earlier Norse fortification — the area was part of the Kingdom of the Isles before it came under Scottish control in 1266. Robert the Bruce is said to have landed near here in 1306 on his return from Ireland to begin the campaign that would eventually end at Bannockburn. The castle appears on the cover of Robert Louis Stevenson's novel The Master of Ballantrae, though Stevenson set the fictional castle elsewhere.
 sources:
   - https://en.wikipedia.org/wiki/Lochranza_Castle
+score: 8.2
 ---
 
 Lochranza Castle stands on a low promontory at the edge of the sea loch, accessible by a short walk from the village. The current structure is an L-plan tower house, mostly dating from the 16th century, though there was a fortification here at least two centuries earlier. It is roofless and partly ruined but structurally impressive, with walls rising to several storeys.

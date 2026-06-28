@@ -8,6 +8,7 @@ tags:
 - hike
 latitude: 45.9592
 longitude: 7.6439
+score: 7.6
 ---
 
 The Rifugio Duca degli Abruzzi sits at 2,802 metres above Cervinia, on the approach route to the Italian side of the Matterhorn. It is named after Prince Luigi Amedeo of Savoy, Duke of the Abruzzi — one of the great mountaineering explorers of the late 19th century, who climbed in the Alps before going on to expeditions in Alaska and the Karakoram.

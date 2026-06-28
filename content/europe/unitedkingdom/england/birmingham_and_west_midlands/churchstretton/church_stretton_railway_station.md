@@ -9,6 +9,7 @@ latitude: 52.5375
 longitude: -2.8035
 sources:
   - https://en.wikipedia.org/wiki/Church_Stretton_railway_station
+score: 5.9
 ---
 
 Church Stretton station sits in the middle of town and is the most convenient arrival point for visitors without a car. It's a handsome Victorian building on the Welsh Marches Line, one of the most scenically spectacular railway routes in England. The line runs through the Stretton valley with the Long Mynd visible to the west and Caer Caradoc rising to the east — arriving by train is a better introduction to the landscape than arriving by road.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "The riverboat service has been running since the 1990s on flat-bottomed boats modelled — only half-jokingly — on Venetian gondolas. Local gondolieri trained in Venice for a few summers in the early years to learn the technique. It is one of those quirks that makes Eskişehir feel different from the rest of Anatolia."
+score: 6.9
 ---
 
 The Porsuk threads through the city in a shallow, slow-flowing green ribbon, crossed by short pedestrian bridges and lined with parks, cafes, and trees. It is the central place to come for a beer or coffee in the evening, especially the stretch between Hamamyolu and the Adalar islands.

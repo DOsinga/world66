@@ -1,17 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: jining.jpg
+image_attribution: Zhangzhugang
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Jining_Taibai_Lou_2015.08.13_18-00-36.jpg
 latitude: 35.4
 loc_type: city
 longitude: 116.58
+score: 6.11
+snippet: Shandong canal city whose Grand Canal history sits beside Confucian pilgrimage
+  routes to Qufu.
 sources:
 - https://en.wikivoyage.org/wiki/Jining_(Shandong)
 title: Jining
 type: location
-image: jining.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Jining_Taibai_Lou_2015.08.13_18-00-36.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Zhangzhugang
 ---
 
 Jining occupies the southwestern corner of Shandong, sitting astride the [Grand Canal](/asia/china/shandong_province/jining/grand_canal) at the point where it begins its descent through Shandong toward the Yangtze. For centuries the city was one of the great canal entrepôts, growing wealthy on the grain, silk, and salt that moved north and south through its locks, and the poet Li Bai spent two years here in the 730s — there is a [tower in his memory](/asia/china/shandong_province/jining/li_bai_tower) in the canal district. The canal heritage is less visible now than in the restored stretches to the south, but the [canal front walking district](/asia/china/shandong_province/jining/canal_front) has been thoughtfully restored and the working locks are still in operation nearby.

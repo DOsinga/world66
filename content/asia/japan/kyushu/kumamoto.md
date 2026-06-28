@@ -10,8 +10,10 @@ image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg
 latitude: 32.8033
 loc_type: city
+snippet: Central Kyushu city beneath Aso-san, anchored by a black-walled castle under
+  long restoration.
 longitude: 130.7078
-score: 0.66
+score: 8.67
 title: Kumamoto
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2420,
+  "timestamp": "2026-06-13T21:41:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 9.3502,
+      "prior_variance": 0.353299,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.0996,
+      "prior_variance": 0.181639,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_score": 1.2424,
+      "prior_variance": 0.161784,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.1827,
+      "prior_variance": 0.160203,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.0635,
+      "prior_variance": 0.179283,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.5307,
+      "prior_variance": 0.168656,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": 0.1798,
+      "prior_variance": 0.192106,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": -0.3191,
+      "prior_variance": 0.157067,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.6223,
+      "prior_variance": 0.168424,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Yushu",
+      "path": "asia/china/qinghai/yushu",
+      "prior_score": -3.2235,
+      "prior_variance": 0.203554,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.6345,
+      "prior_variance": 0.16836,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.82,
+      "prior_variance": 0.160278,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -2.5578,
+      "prior_variance": 0.206023,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -4.1406,
+      "prior_variance": 0.203414,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -1.3601,
+      "prior_variance": 0.155081,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.3991,
+      "prior_variance": 0.208764,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_score": -1.3395,
+      "prior_variance": 0.180621,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -0.7256,
+      "prior_variance": 0.182209,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -2.3906,
+      "prior_variance": 0.228127,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.2781,
+      "prior_variance": 0.17424,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -4.6049,
+      "prior_variance": 0.19399,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -5.2866,
+      "prior_variance": 0.215405,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -8.0427,
+      "prior_variance": 0.408318,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -9.9396,
+      "prior_variance": 0.32401,
+      "prior_n": 7
+    }
+  ]
+}

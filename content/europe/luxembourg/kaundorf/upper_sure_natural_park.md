@@ -8,6 +8,7 @@ latitude: 49.9
 longitude: 5.87
 story: >
   The Upper Sûre Natural Park covers 82,000 hectares — roughly a fifth of Luxembourg's total land area — making it by far the largest protected area in the country. Despite this, very few tourists visit: the Éislek is Luxembourg's most sparsely populated and least-known region.
+score: 8.2
 ---
 
 The Upper Sûre Natural Park stretches across the forested hills and valleys of northwestern Luxembourg, surrounding Kaundorf on all sides. The terrain is classic Ardennes country: beech and oak forests on the hillsides, river valleys threading through, and the Upper Sûre Lake filling a wide basin created when the Esch-sur-Sûre Dam was completed in 1961.

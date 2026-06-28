@@ -11,6 +11,7 @@ story: >
   examples of Chumash rock art, with motifs that include the sun, supernatural
   figures, and what may be a depiction of the November 24, 1677 solar eclipse —
   one of the few astronomically dateable Native American rock paintings in California.
+score: 8.1
 ---
 
 The Painted Cave is up a narrow, twisting road in the mountains behind Santa Barbara — about 20 minutes from downtown if you don't mind some tight curves on Painted Cave Road. The cave itself is small, roughly the size of a closet, and protected by an iron grille; you peer through to see the polychrome paintings on the back wall. There is no visitor centre and minimal signage.

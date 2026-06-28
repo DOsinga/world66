@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.7006
 longitude: -100.5237
+score: 6.2
 ---
 
 Piedras Negras's central plaza follows the standard Mexican template: a shaded square with benches, a bandstand, surrounding restaurants, and the faces of the city's daily life on display. Families gather in the evenings, vendors sell snacks, and the pace is unhurried. The plaza is a good place to get a sense of the city as it actually is, rather than as a border crossing transit point.

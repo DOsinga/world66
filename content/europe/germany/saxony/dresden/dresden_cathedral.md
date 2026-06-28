@@ -7,6 +7,7 @@ tags:
 title: Dresden Cathedral (Hofkirche)
 type: poi
 story: "The Hofkirche was built by Augustus the Strong's son between 1739 and 1751 — specifically so that the Saxon Elector could convert to Catholicism and take the Polish throne without his Protestant subjects noticing he was building a Catholic church. The architect hid the 78 statues of saints along the roofline to make the building less obviously papist from street level."
+score: 8.4
 ---
 
 The Catholic Court Church — officially the Cathedral of the Holy Trinity, commonly called the Hofkirche — stands at the west end of Schlossplatz between the Residenzschloss and the Elbe. It is the largest church in Saxony, built in Italian Baroque style by the Roman architect Gaetano Chiaveri. Augustus III needed it as a private court chapel after the royal family's conversion to Catholicism, while the city remained firmly Lutheran; the church was positioned so the royal family could enter directly from the palace without having to be seen attending Mass in public.

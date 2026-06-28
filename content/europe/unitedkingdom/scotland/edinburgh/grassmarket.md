@@ -1,6 +1,7 @@
 ---
 latitude: 55.9475
 longitude: -3.195556
+score: 7.7
 snippet: Historic cobbled square with pubs beneath Edinburgh Castle
 tags:
 - things_to_do
@@ -8,6 +9,7 @@ tags:
 - market
 - square
 - restaurant
+- grassmarket_nb
 title: Grassmarket
 type: poi
 ---

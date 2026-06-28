@@ -5,7 +5,9 @@ done:
 latitude: 33.1283
 loc_type: city
 longitude: -107.2529
-score: 0.38
+score: 6.45
+snippet: New Mexico hot-springs town renamed for a 1950s radio show, with bathhouses
+  clustered over a geothermal aquifer.
 sources:
 - https://en.wikipedia.org/wiki/Truth_or_Consequences,_New_Mexico
 - https://sierracountynewmexico.info/things-to-do/truth-or-consequences-hot-springs/

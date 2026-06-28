@@ -15,6 +15,7 @@ story: >
   the informality of a private island, and the visible prosperity of Yugoslav
   communism all served his political purposes. He died in 1980 and never saw
   the country he had held together fall apart.
+score: 8.4
 ---
 
 The Tito museum occupies part of the Villa Bijela and the adjacent exhibition space, and it preserves a remarkable time capsule of Yugoslav-era diplomacy. The centrepiece is the Blue Train carriage — the luxury sleeping car Tito used for state travel — displayed intact with its original fittings. Around it: gifts from foreign dignitaries (an ornate howdah from Nehru, a model ship, Soviet porcelain), photographs of state visits, and personal effects that give an unexpectedly intimate portrait of a man who was also a dictator.

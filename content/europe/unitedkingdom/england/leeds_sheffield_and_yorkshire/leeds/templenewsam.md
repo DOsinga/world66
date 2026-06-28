@@ -9,6 +9,7 @@ tags:
 - sight
 title: Temple Newsam
 type: poi
+score: 8.6
 ---
 
 A Tudor-Jacobean mansion set in over 1,000 acres of parkland, Temple Newsam is one of the great country houses of England. The house contains an outstanding collection of decorative arts, including Chippendale furniture made in Leeds. The surrounding grounds, landscaped by Capability Brown, include formal gardens, a working rare breeds farm, and woodland walks. It is about five miles east of the city centre.

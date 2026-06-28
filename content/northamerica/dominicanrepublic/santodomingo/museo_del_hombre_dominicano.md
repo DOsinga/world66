@@ -10,6 +10,7 @@ longitude: -69.9016
 story: "The museum's most affecting collection covers the Taíno people who inhabited Hispaniola before Columbus's arrival in 1492. Within 50 years of contact, the Taíno population had collapsed from an estimated several hundred thousand to near zero — one of the most rapid demographic collapses in history. The museum treats this not as a footnote but as the defining event from which Dominican identity emerges."
 sources:
   - https://en.wikipedia.org/wiki/Museo_del_Hombre_Dominicano
+score: 8.0
 ---
 
 The Museo del Hombre Dominicano is the most important anthropological museum in the Dominican Republic, located on the Plaza de la Cultura alongside the National Theatre and two other major museums. It covers Dominican history from the pre-Columbian Taíno civilization through the colonial period, the African slave trade, Haitian occupation, and the modern republic.

@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sokoto_market_2006.jpg
 latitude: 13.0622
 loc_type: city
 longitude: 5.2339
+score: 4.72
+snippet: Sahel-edge Nigerian city and spiritual centre of the Sokoto Caliphate's old
+  heartland.
 sources:
 - https://en.wikipedia.org/wiki/Sokoto_(city)
 - https://en.wikipedia.org/wiki/Sokoto_Caliphate

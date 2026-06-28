@@ -15,6 +15,7 @@ story: >
   tail, and the effect of thousands together on a cave ceiling closely resembles a night sky.
   A Maori chief named Tane Tinorau is credited with first exploring the caves systematically,
   leading a surveyor named Fred Mace into the system by raft in 1887.
+score: 8.7
 ---
 
 The Waitomo Glowworm Caves are one of New Zealand's great natural spectacles and easily the most famous day trip from Hamilton, about 80 km to the south-west. The main cave tour takes you through limestone chambers and culminates with a boat ride through the glowworm grotto, where the ceiling glows blue-green with thousands of bioluminescent larvae. It is as good as it sounds.

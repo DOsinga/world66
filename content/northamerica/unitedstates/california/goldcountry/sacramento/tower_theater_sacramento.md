@@ -9,6 +9,7 @@ latitude: 38.5571
 longitude: -121.4855
 story: >
   The Tower Theatre anchors the intersection of Land Park Drive and Broadway that gave Tower Records — founded in Sacramento in 1960 — its name. The record shop that would become the world's largest music retailer started directly across the street from this theatre; the theatre's clock tower is in Tower Records' original logo.
+score: 7.2
 ---
 
 A 1938 Streamline Moderne cinema at the corner of Broadway and Land Park Drive in the Tower neighbourhood, now operating as a live music and events venue. The building has the characteristic sleek horizontals and vertical fin tower of Depression-era commercial modernism, and its marquee lights up the Broadway corridor at night.

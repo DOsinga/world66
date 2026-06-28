@@ -9,6 +9,7 @@ tags:
 latitude: 53.87471
 longitude: -1.88118
 snippet: "National Trust 17th-century manor house with a medieval tithe barn"
+score: 7.5
 ---
 
 East Riddlesden Hall is a 17th-century manor house on the north bank of the River Aire, a mile east of Keighley's centre, now in the care of the National Trust. The building dates from the 1640s and is a good example of West Yorkshire vernacular architecture — solid gritstone, mullioned windows, and a domestic scale that feels genuinely inhabited rather than palatial.

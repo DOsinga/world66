@@ -10,6 +10,7 @@ tags:
 - nightlife
 title: Rumba Cafe - Lounge & Club
 type: poi
+score: 5.4
 ---
 
 A Latin-themed bar and club on Poelestraat in the center of Groningen. Rumba spreads over two floors — downstairs is the dancefloor and a long cocktail bar, upstairs a lounge area with a more relaxed vibe. In summer they open a terrace at the back with lounge chairs and hammocks. The music leans Latin and the cocktails are solid. Dress smart if you're going on a weekend night.

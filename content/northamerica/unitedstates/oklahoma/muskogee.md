@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Muskogee_Skyline_(cropped)
 latitude: 35.7484
 loc_type: city
 longitude: -95.3697
-score: 0.33
+score: 5.88
+snippet: Eastern Oklahoma city at three rivers, tied to Native history, azalea gardens,
+  and a preserved submarine.
 title: Muskogee
 type: location
 ---

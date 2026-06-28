@@ -14,6 +14,7 @@ story: >
   continuous use for over 550 years.
 sources:
   - https://en.wikipedia.org/wiki/Stone_Bridge_(Skopje)
+score: 8.3
 ---
 
 The Stone Bridge (Kamen Most) across the Vardar River is one of Skopje's most recognisable landmarks and the symbolic divide between the Ottoman bazaar on the north bank and the modern city to the south. It was built in the 15th century under Sultan Mehmed II on the foundations of an even earlier Roman bridge, using local stone. The structure is 214 metres long and 6 metres wide, supported by 13 arches.

@@ -8,6 +8,7 @@ tags:
 - historic
 title: Antico Borgo
 type: poi
+score: 8.4
 ---
 
 The Antico Borgo — Calitri's medieval old town — is the reason people come here. Narrow lanes and stairways thread between terrace houses in faded ochres, yellows, and pinks, with views opening unexpectedly over the valley of the Ofanto river below. The layout is entirely pre-modern: streets that follow the hill's contours, small piazzas where lanes converge, a rhythm set by centuries of pedestrian use.

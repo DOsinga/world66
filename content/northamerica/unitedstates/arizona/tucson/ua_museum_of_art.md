@@ -12,6 +12,7 @@ tags:
   - museum
   - university_district
 story: "In November 1985 two thieves walked into the museum and cut Willem de Kooning's 'Woman-Ochre' out of its frame, hiding it under one of their jackets. It vanished for 31 years until it was spotted on the wall of a private antiques shop in New Mexico in 2017. The painting has been restored and is back on display here."
+score: 7.7
 ---
 
 The University of Arizona Museum of Art occupies a low concrete building on the north side of campus and punches well above its weight for a small university museum. The European collection — the Samuel H. Kress bequest — includes the Renaissance Retablo of Ciudad Rodrigo, twenty-six panels by Fernando Gallego.

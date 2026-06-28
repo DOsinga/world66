@@ -1,14 +1,15 @@
 ---
 address: Khan's Palace, Bakhchysarai
 latitude: 44.7487
-loc_type: feature
-longitude: 33.8820
+longitude: 33.882
+score: 8.0
 snippet: Largest and oldest mosque of the Khan's Palace complex
 tags:
 - things_to_do
 - sight
 - architecture
 title: Big Khan Mosque
+type: poi
 ---
 
 The principal mosque of the Khan's Palace, built in 1532 under Sahib I Giray. The exterior is restrained — square plan, two slender minarets, sloping tiled roof — while the interior is decorated with painted floral panels and a deep mihrab carved with Quranic inscriptions. The royal box on the upper gallery, where the Khan prayed concealed from common worshippers, is the most distinctive feature.

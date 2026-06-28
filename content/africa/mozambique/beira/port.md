@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The reason Beira exists — the main port for landlocked Zimbabwe, Zambia, and Malawi
+score: 6.2
 ---
 
 The port is what gives Beira its character — a working freight harbour at the mouth of the Pungwe River, handling coal, sugar, chrome, and tobacco brought down by rail from the inland countries. The Beira Corridor (road and rail) connects it directly to Mutare in Zimbabwe and on to Harare and the Copperbelt.

@@ -3,11 +3,13 @@ address: Jumeirah Road, Jumeirah 1, Dubai
 latitude: 25.2155
 longitude: 55.2644
 phone: +971 4 353 6666
+score: 7.8
 snippet: Dubai's most beautiful mosque, open to non-Muslims through guided tours
 tags:
 - things_to_do
 - sight
 - mosque
+- jumeirah
 title: Jumeirah Mosque
 type: poi
 ---

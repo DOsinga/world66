@@ -4,10 +4,12 @@ latitude: 41.381823
 longitude: 2.171966
 opening_hours: Mon–Sat 6:30am–4pm; closed Sun
 price_range: €8–18
-snippet: The most beloved breakfast counter inside La Boqueria market
+score: 8.0
+snippet: Beloved breakfast counter inside La Boqueria market
 tags:
 - eating_out
 - restaurant
+- el_raval
 title: Bar Pinotxo
 type: poi
 ---

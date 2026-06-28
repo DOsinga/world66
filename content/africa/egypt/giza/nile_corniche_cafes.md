@@ -7,6 +7,7 @@ tags:
 - bar
 title: Nile Corniche Cafes
 type: poi
+score: 5.4
 ---
 
 The eastern edge of Giza runs along the Nile, and the corniche road here is lined with cafes, tea houses, and floating restaurants moored to the bank. The scene is busiest on Thursday and Friday evenings when Cairenes come out in family groups to sit by the river, drink tea, smoke shisha, and enjoy the relative cool of the waterfront. Several of the floating restaurants serve alcohol; the cafes generally do not.

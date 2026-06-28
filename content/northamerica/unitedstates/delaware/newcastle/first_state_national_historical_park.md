@@ -8,6 +8,7 @@ latitude: 39.6647
 longitude: -75.5653
 sources:
   - https://en.wikipedia.org/wiki/First_State_National_Historical_Park
+score: 7.8
 ---
 
 First State National Historical Park is a National Park Service unit that encompasses several of Delaware's most significant colonial sites, including much of New Castle's historic district. The park was established in 2013 and covers scattered sites across Delaware and into Pennsylvania, but in New Castle it includes the courthouse, the Green, and the surrounding historic district.

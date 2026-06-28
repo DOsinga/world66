@@ -17,6 +17,7 @@ tags:
   - history
   - old_town
 neighbourhood: Old Town
+score: 7.3
 ---
 
 The Palace of the Grand Dukes of Lithuania stands at the foot of Gediminas Hill, adjacent to the Cathedral, on the site of the medieval Lower Castle. This was the main residence of the Lithuanian Grand Dukes and later Polish-Lithuanian kings during the centuries when Vilnius was one of Europe's great capitals. The palace was demolished in the 19th century and its reconstruction — completed in 2018 — is one of the most ambitious architectural projects in post-independence Lithuania.

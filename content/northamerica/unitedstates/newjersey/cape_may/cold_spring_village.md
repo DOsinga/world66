@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.4
 ---
 
 A 30-acre open-air museum about 4 miles north of Cape May, recreating life in a rural South Jersey village around 1830. Twenty-five restored buildings — a blacksmith, a printer, a one-room schoolhouse, a tinsmith, an inn — are staffed by interpreters in period dress demonstrating their crafts.

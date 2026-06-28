@@ -7,6 +7,7 @@ tags:
 - sight
 title: El-Orman Garden
 type: poi
+score: 6.7
 ---
 
 El-Orman Garden is a 30-acre botanical garden established in 1875 beside the Giza Zoo, containing one of the most diverse collections of mature trees in Egypt. Many of the specimens are over a century old — towering Araucaria pines, spreading ficus trees, and an impressive palm collection — and the garden has the peaceful, slightly unkempt quality of a Victorian pleasure ground that has outlasted its original purpose.

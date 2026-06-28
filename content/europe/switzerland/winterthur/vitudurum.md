@@ -12,6 +12,7 @@ story: >
   Vitudurum was established around 15 BC as a staging post on the Roman road from Augusta Raurica (Basel) to the Rhine frontier.
   Archaeologists have found evidence of at least three successive Roman buildings on the same site, each levelled and rebuilt as
   the town grew — a reminder that Winterthur is nearly 2,000 years older than its pleasant old-town shopping streets suggest.
+score: 6.7
 ---
 
 Before Winterthur was Winterthur, it was Vitudurum — a Roman vicus, or civilian settlement, that grew up alongside a military road station in the 1st century AD. The site, now in the district of Oberwinterthur a few kilometres northeast of the city centre, was one of the most important road junctions in Roman Switzerland, connecting routes toward the Rhine and into Raetia.

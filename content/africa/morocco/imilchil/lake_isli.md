@@ -8,6 +8,7 @@ tags:
   - sight
   - lake
 story: "Isli is the bigger and deeper of the two lakes — depths of more than 90 metres have been measured — and local people believed for a long time that it was bottomless. In 2006, a small ferrous meteorite fragment was found nearby that some Berber storytellers link to the lovers' story."
+score: 8.0
 ---
 
 Isli, the "Lake of the Bridegroom", is about 10 kilometres south-east of Imilchil at 2,260 metres. Bigger and far deeper than Tislit, it is set in a stark amphitheatre of dark hills and feels much more remote. The drive in passes pastures dotted with black goat-hair tents in summer, when nomadic families bring their flocks up to graze.

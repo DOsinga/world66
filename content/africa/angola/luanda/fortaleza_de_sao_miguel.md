@@ -12,6 +12,7 @@ story: >
   year the Portuguese established Luanda as a settlement, and the fort served as the administrative
   centre of Portuguese Angola for the next two centuries. It was from here that the colony's slave
   trade was administered — a connection now made explicit in the fort's museum displays.
+score: 8.5
 ---
 
 The Fortaleza de São Miguel is Luanda's oldest surviving Portuguese structure, sitting on a promontory above the bay with commanding views across the harbour. Built from local stone in 1576, the same year the city was founded, it served for centuries as the administrative heart of Portuguese Angola. Today it houses the Museum of Armed Forces, with displays on Angola's colonial and independence history, original cannons on the ramparts, and rotating exhibitions on the MPLA's liberation struggle.

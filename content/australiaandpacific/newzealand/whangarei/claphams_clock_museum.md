@@ -7,6 +7,7 @@ tags:
 - museum
 latitude: -35.7244
 longitude: 174.3241
+score: 7.1
 ---
 
 Clapham's holds the largest clock collection in the Southern Hemisphere — about 1,800 timepieces, mostly accumulated by Archibald Clapham, a Yorkshire-born Whangarei resident who started collecting in the 1900s and donated his holdings to the city in 1961. The current building, set right beside the Town Basin marina, opened in 1999 and was expanded after a 2022 redesign.

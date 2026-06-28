@@ -8,6 +8,7 @@ latitude: 37.3326
 longitude: -121.8869
 sources:
   - https://en.wikipedia.org/wiki/Original_Joe%27s
+score: 7.3
 ---
 
 Original Joe's on East San Carlos Street has been serving plates of Italian-American food since 1956 and looks more or less unchanged from when it opened. Red vinyl booths, white tablecloths, brass fittings, and a long counter facing an open kitchen where line cooks work over flames — this is the platonic ideal of a mid-century San Francisco-style steakhouse, transplanted to San Jose.

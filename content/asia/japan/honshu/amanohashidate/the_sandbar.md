@@ -8,6 +8,7 @@ latitude: 35.5694
 longitude: 135.1915
 story: >
   The traditional way to appreciate Amanohashidate is matanozoki — bending over and looking at the sandbar upside down between your legs. From the elevated viewpoints at each end of the bay, the pine-covered spit against the sky is said to resemble a bridge ascending to heaven. The word "amanohashidate" literally means "bridge to heaven."
+score: 8.9
 ---
 
 The sandbar itself is the point of the visit. Stretching 3.6 kilometres across Miyazu Bay, planted with over 5,000 pine trees, it is wide enough to walk or cycle comfortably and narrow enough that you can see water on both sides at almost every point along the way.

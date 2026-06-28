@@ -6,6 +6,7 @@ tags:
   - restaurant
 title: The Kitchen
 type: poi
+score: 6.3
 ---
 
 A small cafe-restaurant on the Jinja waterfront popular with expats, volunteers, and the kind of traveller who stays in Jinja for a week rather than a day. The menu leans towards comfort food — sandwiches, salads, breakfast plates — with good coffee, which is harder to find well-made in Ugandan towns than you might expect. It's the kind of place you end up returning to every morning.

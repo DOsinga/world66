@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Svolv%C3%A6r,_Lofote
 latitude: 68.2321
 loc_type: city
 longitude: 14.5646
-score: 0.74
+score: 9.3
+snippet: Lofoten harbour town and regional centre, set below steep peaks on Norway's
+  island coast.
 title: Svolvær
 type: location
 ---

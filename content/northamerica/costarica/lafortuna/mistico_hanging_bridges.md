@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.5076
 longitude: -84.6817
+score: 7.6
 ---
 
 The Mistico Hanging Bridges park offers a network of trails through primary and secondary rainforest, connected by a series of suspension bridges that cross ravines and tree canopies at heights of up to 45 metres. It is one of the better alternatives to zip-lining for those who prefer a slower, quieter way to experience the forest canopy — the bridges sway gently and offer good views of the surrounding forest without the speed.

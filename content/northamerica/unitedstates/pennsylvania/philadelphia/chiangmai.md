@@ -9,6 +9,7 @@ tags:
 title: Chiangmai
 type: poi
 snippet: "Excellent Thai restaurant in nearby Conshohocken, worth the short trip from the city"
+score: 4.9
 ---
 
 While visiting Philadelphia, make time for some authentic Thai food at Chiangmai — it's in nearby Conshohocken, a short drive or train ride from the city, but worth the trip. The restaurant is not large but is highly popular with locals and travelers alike. Make a reservation if dining on a Friday or Saturday night.

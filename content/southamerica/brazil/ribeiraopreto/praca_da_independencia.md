@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.1781
 longitude: -47.8108
+score: 6.4
 ---
 
 The Praça da Independência is the central square of Ribeirão Preto and the natural gathering point of the city. The cathedral dominates one end, and the surrounding streets contain some of the better-preserved coffee-era architecture in the region — ornate façades and wide pavements that were meant to project prosperity. On weekday mornings the square is busy with office workers and street vendors; on Sundays it fills with churchgoers and families.

@@ -9,6 +9,7 @@ tags:
 snippet: "51 hectares of botanical collections at the eastern end of North Terrace"
 story: >
   The garden's Bicentennial Conservatory — opened in 1989 — houses the largest glasshouse in the southern hemisphere and contains a complete lowland tropical rainforest ecosystem. The plants inside are from Papua New Guinea, and the building was designed to outlast its contents, engineered to stand for 200 years.
+score: 8.4
 ---
 
 The Botanic Garden occupies 51 hectares at the eastern end of North Terrace and flows into the broader parkland that rings the CBD. It has been here since 1855 and is one of the loveliest in Australia: broad lawns, a large ornamental lake, mature specimen trees (an enormous Moreton Bay fig near the main gate being the most famous), and a series of glasshouses.

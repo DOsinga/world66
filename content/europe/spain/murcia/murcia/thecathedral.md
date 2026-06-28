@@ -11,6 +11,7 @@ tags:
 - sights
 title: Cathedral of Murcia
 type: poi
+score: 9.2
 ---
 
 The Cathedral of Santa María dominates the centre of Murcia and is the city's most important monument. Its main facade, built between 1736 and 1754, faces the Plaza del Cardenal Belluga and is one of Spain's finest examples of Baroque stonemasonry — columns, arches, and niches packed with sculpted saints, the whole thing resembling a giant altarpiece in stone.

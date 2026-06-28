@@ -8,6 +8,7 @@ latitude: 37.4553
 longitude: -89.4785
 story: >
   Nine of the Cherokee detachments that crossed the Mississippi at this location did so in the brutal winter of 1838–39, crossing on a frozen river after waiting weeks on the Missouri bank. Thousands died during the forced removal; Missouri state records document hundreds of graves in the region. The park sits on the bluffs where the survivors climbed out of the river valley.
+score: 7.9
 ---
 
 Trail of Tears State Park lies about 12 miles north of Cape Girardeau on the Mississippi River bluffs and marks one of the crossing points used during the forced removal of the Cherokee Nation from their southeastern homelands to Oklahoma in 1838–39. The park sits on high wooded bluffs above the river and has a museum, hiking trails, and an overlook with views across to the Illinois shore.

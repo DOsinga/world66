@@ -13,6 +13,7 @@ story: >
   functions. Many of these instruments are not made or played anywhere else in the world,
   and some traditions are at risk of dying out as younger generations move to cities.
   The museum's collection is an act of preservation as much as education.
+score: 6.9
 ---
 
 A small but well-curated museum near Durbar Square documenting the musical instruments of Nepal's many ethnic communities. The collection includes drums, string instruments, wind instruments, and ritual objects from communities across the country, from the Himalayan north to the Terai lowlands — materials, construction techniques, and playing styles that vary enormously.

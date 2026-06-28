@@ -9,6 +9,7 @@ tags:
 - le_plateau
 title: La Pyramide
 type: poi
+score: 6.5
 ---
 
 La Pyramide is a 1973 brutalist office building in Le Plateau that looks exactly as its name suggests — a stepped pyramid of concrete and glass rising above the business district. Designed by Rinaldo Olivieri, it was built during Ivory Coast's boom years as a statement of modernist confidence and remains one of the most recognizable buildings on the Abidjan skyline.

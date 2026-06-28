@@ -1,8 +1,13 @@
 ---
 date: October 31
+latitude: -12.0464
+longitude: -77.0428
+score: 7.8
 snippet: October 31 celebration of Peruvian coastal music traditions
 tags:
 - festivals
+- music
+- culture
 title: Día de la Canción Criolla
 type: poi
 ---

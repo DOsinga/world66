@@ -10,6 +10,7 @@ latitude: 22.4107
 longitude: 105.6228
 sources:
   - https://en.wikipedia.org/wiki/Ba_B%E1%BB%83_Lake
+score: 9.2
 ---
 
 Ba Be Lake is Vietnam's largest natural freshwater lake — a single continuous body of water 8 km long and up to 800 m wide, despite the name meaning "three lakes." At 178 m above sea level, it sits in a basin ringed by limestone karst peaks rising above 1,000 m. The water is calm, the colour of green glass, and reflects the forest-covered cliffs on clear mornings.

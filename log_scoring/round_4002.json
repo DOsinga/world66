@@ -1,0 +1,200 @@
+{
+  "round": 4002,
+  "timestamp": "2026-06-13T23:36:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olympic National Park",
+      "path": "northamerica/unitedstates/washington/olympicnationalpark",
+      "prior_score": 7.0192,
+      "prior_variance": 0.190089,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 5.8031,
+      "prior_variance": 0.137729,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 3.9073,
+      "prior_variance": 0.116589,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.6527,
+      "prior_variance": 0.095707,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 4.1178,
+      "prior_variance": 0.119055,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.0927,
+      "prior_variance": 0.128628,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": 2.1142,
+      "prior_variance": 0.111203,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.6666,
+      "prior_variance": 0.164267,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "San Crist\u00f3bal de La Laguna",
+      "path": "europe/spain/canaryislands/tenerife/lalaguna",
+      "prior_score": 3.4137,
+      "prior_variance": 0.09776,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.4066,
+      "prior_variance": 0.112158,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.7251,
+      "prior_variance": 0.105664,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 2.0197,
+      "prior_variance": 0.105014,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 2.2125,
+      "prior_variance": 0.115277,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Liberia",
+      "path": "northamerica/costarica/liberia",
+      "prior_score": -0.3656,
+      "prior_variance": 0.098299,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.571,
+      "prior_variance": 0.114502,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.5358,
+      "prior_variance": 0.090189,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.6128,
+      "prior_variance": 0.097019,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -4.9148,
+      "prior_variance": 0.129726,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -2.9378,
+      "prior_variance": 0.100721,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -4.1922,
+      "prior_variance": 0.118803,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_score": -7.2115,
+      "prior_variance": 0.164758,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -5.4906,
+      "prior_variance": 0.107594,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -5.415,
+      "prior_variance": 0.131717,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.9207,
+      "prior_variance": 0.445043,
+      "prior_n": 12
+    }
+  ]
+}

@@ -12,6 +12,7 @@ story: >
   and legend holds that he sat on the front veranda and auditioned performers for his Wild West
   show — riders, ropers, and sharpshooters auditioning in front of the hotel while guests
   watched from the porch. The Inn was declared a National Historic Landmark in 1964.
+score: 6.8
 ---
 
 The Sheridan Inn opened in 1893, designed by the Chicago, Burlington and Quincy Railroad as the finest hotel between Chicago and San Francisco. It was the first building in the area with electric lights, and the broad veranda stretching across the entire facade set the architectural tone for the Western resort hotel. The inn is still operating, now both a hotel and restaurant.

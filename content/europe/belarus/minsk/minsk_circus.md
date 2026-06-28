@@ -7,6 +7,7 @@ tags:
 latitude: 53.9079
 longitude: 27.5782
 snippet: A Soviet-era big-top with one of the best circus traditions in the former Soviet Union
+score: 5.8
 ---
 
 The Minsk State Circus occupies a purpose-built circular building in the city centre, opened in 1959, and continues to put on performances in the classic Soviet circus tradition. Belarus has a strong circus heritage — Soviet circuses were genuinely world-class, and the training schools and performance traditions have been maintained.

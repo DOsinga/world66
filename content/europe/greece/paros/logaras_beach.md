@@ -6,6 +6,7 @@ tags:
   - swimming
 latitude: 37.0430
 longitude: 25.2410
+score: 6.3
 ---
 
 Logaras is a quieter alternative to Golden Beach, tucked into a bay on the southeast coast near the village of Piso Livadi. The sand is fine, the water is calm by Paros standards, and there are none of the windsurfing crowds that fill Golden Beach in the afternoons. A handful of tavernas line the beach road; the fish restaurants at Piso Livadi harbour, a short walk south, are good value.

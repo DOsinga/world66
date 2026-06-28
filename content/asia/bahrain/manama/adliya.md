@@ -5,6 +5,7 @@ tags: [things_to_do, neighbourhood]
 latitude: 26.21
 longitude: 50.58
 snippet: "Bahrain's most characterful neighbourhood, with galleries, cafes, and a creative scene"
+score: 5.7
 ---
 
 Adliya is the neighbourhood where Manama's educated and professional class eats, drinks, and socialises. It sits south of the city centre, a low-rise district of villas from the 1960s and 1970s that have been progressively converted into restaurants, art galleries, design shops, and cafes over the last two decades. The streets are quiet enough to walk comfortably — a rarity in a city organised almost entirely around cars — and the concentration of independent businesses makes it unlike anywhere else in Bahrain.

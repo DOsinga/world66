@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.8
 ---
 
 Sassnitz is the main town of the Jasmund peninsula — a fishing and ferry port built into the cliffs at the southern end of the chalk coast. It is less polished than Binz or Sellin, more working and weather-beaten, and makes a good base for the national park.

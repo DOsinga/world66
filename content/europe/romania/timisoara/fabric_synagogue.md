@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - fabric
+score: 7.6
 ---
 
 The Fabric Synagogue, also called the Orthodox Synagogue of Fabric, sits at the heart of the old industrial district east of Cetate. It was built in 1899 in a Moorish-Revival style — a brick-and-stone front with twin onion-domed towers and an arched main doorway, broadly similar in idiom to the Cetate Synagogue but smaller and more intimate.

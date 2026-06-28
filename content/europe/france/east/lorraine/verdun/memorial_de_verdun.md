@@ -8,6 +8,7 @@ tags:
 - museum
 story: "The original museum, built in 1967, stood on the site of the obliterated railway station of Fleury-devant-Douaumont. A complete redesign and rebuild reopened in 2016 for the centenary of the battle, with the most ambitious WWI museum installation in France: 2,000 objects, a recreated trench, and exhibits that for the first time give equal weight to the German experience."
 snippet: "Authoritative WWI museum and the best starting point for any battlefield visit"
+score: 9.6
 ---
 
 The Mémorial de Verdun is the indispensable first stop. Built on the site of the destroyed village of Fleury — itself one of the most fought-over points in the battle — the museum was completely reimagined for the 2016 centenary and is now one of the best WWI museums in Europe.

@@ -6,6 +6,7 @@ longitude: 14.4194
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 The restaurant set in part of Schloss Lamberg combines Austrian classics with seasonal cooking and one of the best views in Steyr — a terrace looking down on the meeting of the Enns and Steyr rivers. Reasonable for the setting; reservations advised at weekends.

@@ -11,6 +11,7 @@ story: >
   definitive visual language of Northern Soul. The Casino won Billboard magazine's
   World's Best Disco award in 1978, beating Studio 54 in New York. It burned
   down and closed in 1981; the building was demolished in 1982.
+score: 7.7
 ---
 
 The building is gone, replaced by an ordinary street in the town centre, but the site where the Casino Club stood on Station Road is a place of pilgrimage for fans of Northern Soul. From 1973 to 1981, the Casino hosted legendary all-night dance events that defined a musical movement — the dedication to obscure American soul records from the 1960s, played at high tempo to crowds of working-class young people from across the north of England.

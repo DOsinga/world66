@@ -9,7 +9,9 @@ image_attribution: Myotus
 latitude: 37.692236
 loc_type: city
 longitude: -97.337545
-score: 0.39
+score: 6.41
+snippet: Kansas's largest city, rooted in aviation manufacturing and set where the
+  Arkansas and Little Arkansas rivers meet.
 title: Wichita
 type: location
 ---

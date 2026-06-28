@@ -6,6 +6,7 @@ tags:
 latitude: 18.418333
 longitude: -67.156389
 story: "Puerto Rico is not where you would expect to find a functioning ice rink, but the Aguadilla Ice Skating Arena has been operating since the 1990s and has produced several Puerto Rican competitive figure skaters and hockey players. The arena is kept at a brisk 10°C regardless of the tropical temperature outside — the contrast when you step from the Caribbean heat into the rink is abrupt."
+score: 6.0
 ---
 
 The Aguadilla Ice Skating Arena is a full-size indoor ice rink — a genuine one, not a novelty — offering public skating sessions, figure skating lessons, and ice hockey. It is improbably popular given the climate, and has been a fixture of Puerto Rican competitive skating for decades. The arena hosts regional and national competitions and has produced athletes who have competed internationally.

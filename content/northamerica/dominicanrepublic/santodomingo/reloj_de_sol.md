@@ -9,6 +9,7 @@ tags:
 latitude: 18.4728
 longitude: -69.8857
 story: "The sundial was installed in the early 16th century as the official timekeeper of the Spanish colonial government — the first official clock in North America, used to regulate the schedules of colonial administration, the courts, and the cathedral. It was built at a time when the entire New World was governed from the streets within walking distance of this spot."
+score: 5.7
 ---
 
 The Reloj de Sol — the colonial sundial — stands near the Casas Reales on Calle de las Damas and served as the first official clock in North America in the 16th century. The Spanish colonial administration set its schedules by this dial, which regulated the times of the courts, the cathedral masses, and the movements of the colonial government.

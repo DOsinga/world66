@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-29'
+image: richmond.jpg
+image_attribution: Kyle Pearce from Vancouver, Canada
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Buddhist_Temple_on_No._5_Road,_Richmond,_British_Columbia,_Canada.jpg
 latitude: 49.1632
 loc_type: city
 longitude: -123.1374
-score: 0.44
+score: 6.7
+snippet: Fraser River island city south of Vancouver, home to the airport and notable
+  East Asian food courts.
 title: Richmond
 type: location
-image: richmond.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Buddhist_Temple_on_No._5_Road,_Richmond,_British_Columbia,_Canada.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Kyle Pearce from Vancouver, Canada
 ---
 
 Richmond sits on a flat island between the north and south arms of the Fraser River, about 14 kilometres south of downtown [Vancouver](/northamerica/canada/britishcolumbia/vancouver). It is home to Vancouver International Airport and, more interestingly for visitors, one of the best concentrations of Chinese and East Asian food in North America.

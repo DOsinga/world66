@@ -19,6 +19,7 @@ story: >
   but devoted stream of seekers.
 sources:
   - https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull
+score: 8.9
 ---
 
 Snæfellsjökull is the glacier-capped stratovolcano at the western tip of the Snæfellsnes peninsula, now protected as a national park. The summit glacier sits at 1,446 metres and on clear days is visible from Reykjavik 120 kilometres to the east. The volcano last erupted around 1,800 years ago; the surrounding landscape of black lava fields, sea cliffs, and old lava tubes bears the marks of many previous eruptions.

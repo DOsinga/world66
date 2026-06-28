@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg
 latitude: 40.628658
 loc_type: city
 longitude: 14.485496
-score: 0.84
+score: 9.48
+snippet: Amalfi Coast cliff town of pastel houses stacked above Spiaggia Grande and
+  the Tyrrhenian Sea
 sources:
 - https://en.wikipedia.org/wiki/Positano
 title: Positano

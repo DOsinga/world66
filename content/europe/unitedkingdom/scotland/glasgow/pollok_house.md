@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 55.8270
 longitude: -4.3050
+score: 7.8
 ---
 
 Pollok House is an 18th-century country house in Pollok Country Park — the same park that contains the Burrell Collection — and is furnished as it was in the early 20th century when the Maxwell family donated it to the city. The house contains an outstanding collection of Spanish paintings, including works by El Greco, Goya, and Murillo, assembled by Sir William Stirling Maxwell in the Victorian era.

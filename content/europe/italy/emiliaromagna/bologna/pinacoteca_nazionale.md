@@ -9,6 +9,7 @@ story: Raphael's *Ecstasy of Saint Cecilia*, painted around 1515 for a chapel in
 tags:
 - things_to_do
 - museum
+score: 8.3
 ---
 
 The Pinacoteca Nazionale is the city's main painting collection, focused on Bolognese masters from the thirteenth to the eighteenth century. The strongest rooms cover the local sixteenth- and seventeenth-century school: Ludovico, Annibale and Agostino Carracci, Guido Reni, Guercino, Domenichino — painters who, in their day, set the standard for European religious painting after Caravaggio.

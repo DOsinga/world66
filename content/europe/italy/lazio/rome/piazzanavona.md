@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.8989
 longitude: 12.473
+score: 8.4
 snippet: Rome's grandest Baroque square on an ancient stadium
 tags:
 - 48 Hours in Rome
@@ -11,6 +12,7 @@ tags:
 - things_to_do
 - square
 - cafe
+- pantheon_navona
 title: Piazza Navona
 type: poi
 ---

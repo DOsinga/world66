@@ -12,6 +12,7 @@ tags:
 - historic
 title: Parador de Ávila
 type: poi
+score: 6.2
 ---
 
 The Parador de Ávila occupies the 16th-century Palacio de Benavides, built against the city walls in the eastern old town. The hotel is one of the Spanish state's Parador chain — a network of historic buildings converted to upscale accommodation, one of the most successful heritage tourism programmes in the world. Staying here means sleeping in a Renaissance palace with the city wall visible from the garden.

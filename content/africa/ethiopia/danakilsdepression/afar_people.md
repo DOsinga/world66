@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 14.0000
 longitude: 40.3000
+score: 7.6
 ---
 
 The Danakil Depression is home to the Afar people, a Cushitic-speaking pastoralist community who have lived in this extreme environment for millennia, herding camels, goats, and cattle across the salt flats and volcanic plains. They are known historically as one of the most formidable warrior cultures of the Horn of Africa — the Danakil was sometimes called the "valley of death" by early European explorers, in part because the Afar treated uninvited incursions with extreme prejudice.

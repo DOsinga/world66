@@ -12,9 +12,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_
 latitude: 42.6507
 loc_type: city
 longitude: 18.0944
-score: 0.82
+score: 9.87
 title: Dubrovnik
 type: location
+snippet: Walled Adriatic city whose compact old town rises above cliffs and a historic
+  harbour.
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

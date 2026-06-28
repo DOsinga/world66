@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - nyali
+score: 7.4
 ---
 
 The Tamarind sits on the Nyali shore looking back across Tudor Creek to the Old Town and Fort Jesus, and has been Mombasa's classic special-occasion restaurant for decades. The kitchen does Swahili-Goan-Portuguese seafood — crab claws in coconut and chilli, prawns Pili-Pili, line-caught fish baked in banana leaf — at prices that would be steep elsewhere in Kenya but feel reasonable for the view and the cooking. They also run the **Tamarind Dhow**, a twin-masted boat that takes the kitchen out onto the creek for sunset dinner cruises.

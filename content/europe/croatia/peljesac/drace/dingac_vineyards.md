@@ -5,6 +5,7 @@ tags: [things_to_do, sight, culture]
 latitude: 42.9178
 longitude: 17.3698
 story: Dingač is one of Croatia's most celebrated wine appellations — a Plavac Mali grown on steep south-facing terraces above the sea, where the sun hits the limestone at an angle that concentrates the grapes to such a degree that the wine regularly reaches 15–16% alcohol without any addition.
+score: 7.9
 ---
 
 The Dingač wine region sits on the steep south-facing slopes of Pelješac, a few kilometres west of Drače by road. This is Croatia's most prestigious wine appellation, producing a powerful, full-bodied Plavac Mali — the grape variety indigenous to Dalmatia and a close relative of Californian Zinfandel. The terraces here face directly out to sea at angles so steep that, according to local wine lore, grapes used to be carried down by donkeys because tractors couldn't navigate the slopes.

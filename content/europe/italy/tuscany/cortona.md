@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cortona-vista01.jpg
 latitude: 43.275298
 loc_type: city
 longitude: 11.985062
-score: 0.7
+score: 9.09
+snippet: Medieval Tuscan hill town above the Val di Chiana, with Etruscan walls and
+  wide views.
 title: Cortona
 type: location
 ---

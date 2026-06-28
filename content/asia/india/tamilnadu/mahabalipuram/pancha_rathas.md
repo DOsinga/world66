@@ -9,6 +9,7 @@ tags:
 - historic_site
 - monument
 story: "Each of the five rathas (chariot-temples) was carved from a single granite boulder and represents a different architectural order — none were ever used for worship, making them uniquely experimental. The names given to them — Dharmaraja, Bhima, Arjuna, Nakula-Sahadeva, and Draupadi — come from the Mahabharata heroes, but this was later tradition: the Pallava kings who built them in the 7th century had different intentions entirely."
+score: 9.4
 ---
 
 The Pancha Rathas are five monolithic temples cut from individual rock outcroppings at the southern end of Mahabalipuram. Each is distinct in plan: some are square, some rectangular, some apsidal; they range from a modest single-storey shrine to a multi-storey tower that anticipates the great gopurams of later Tamil temples. Standing among them, you can trace the Pallava dynasty working through every formal problem of temple design simultaneously.

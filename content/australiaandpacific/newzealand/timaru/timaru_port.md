@@ -6,6 +6,7 @@ longitude: 171.2544
 snippet: "A working harbour with grain silos and container ships — and good views from the breakwater"
 tags: [things_to_do, sight]
 story: "Timaru has been a significant South Canterbury port since the 1870s, when the original breakwater was built to protect ships loading wool and grain. The grain silos still dominate the waterfront skyline, and container ships still call here — it's a functional commercial port, not a heritage attraction, which is precisely what makes it interesting to look at."
+score: 6.4
 ---
 
 Timaru's port is the reason the town exists, and it's still very much in business. Grain from the Canterbury Plains moves through here; so do logs, containers, and the occasional cruise ship. The waterfront has the honest, utilitarian look of a place that works for a living: silos, cranes, bollards, chain-link fencing.

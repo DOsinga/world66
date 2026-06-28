@@ -1,9 +1,12 @@
 ---
 latitude: 34.6912
 longitude: 135.4915
+score: 8.0
+snippet: Underground contemporary art museum beneath a bamboo-like steel canopy
 tags:
 - things_to_do
 - museum
+- nakanoshima
 title: National Museum of Art Osaka
 type: poi
 ---

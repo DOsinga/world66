@@ -6,6 +6,7 @@ longitude: -117.82969
 snippet: "One of the largest Buddhist temples in the Western hemisphere, built in traditional Chinese style with a 10-story pagoda"
 tags: [things_to_do, sight]
 story: "The Pao Fa Temple was built to serve Irvine's large Taiwanese-American community, which arrived in significant numbers from the 1980s onward as the tech and biomedical sectors drew educated immigrants to Orange County. The scale of the complex — rivalling major monasteries in Taiwan itself — reflects how well-established that community has become."
+score: 7.5
 ---
 
 The Pao Fa Temple is a striking presence in suburban Irvine: a full-scale traditional Chinese Buddhist monastery complex, complete with a ten-story pagoda visible from some distance. It is considered one of the largest Buddhist temples in the Western hemisphere, a claim that would seem improbable until you actually arrive and see the scale of it.

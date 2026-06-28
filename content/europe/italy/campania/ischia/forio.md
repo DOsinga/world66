@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Soccorso_F
 latitude: 40.7368
 loc_type: city
 longitude: 13.8581
-score: 0.62
+score: 8.81
 title: Forio
+snippet: Western Ischia town of whitewashed lanes, watchtowers, beaches, vineyards,
+  and sunset views from Soccorso church.
 type: location
 ---
 

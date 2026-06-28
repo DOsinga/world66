@@ -7,6 +7,7 @@ tags:
 latitude: 38.8951
 longitude: -77.0225
 story: "Among the Spy Museum's artefacts is a miniature camera disguised as a pack of cigarettes, used by Soviet agents during the Cold War, and the Enigma machine — the German cipher device whose cracking by British intelligence at Bletchley Park (with help from captured German code books) is now considered a decisive factor in winning World War II."
+score: 6.7
 ---
 
 The International Spy Museum is a private museum dedicated to espionage, with the largest collection of international spy artefacts on public display anywhere in the world. The collection spans from ancient history through the Cold War to the present, covering tradecraft, surveillance technology, double agents, and intelligence operations.

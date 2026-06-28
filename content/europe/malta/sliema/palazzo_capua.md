@@ -7,6 +7,7 @@ tags:
 latitude: 35.9126
 longitude: 14.5028
 snippet: Early 19th-century neoclassical palace, one of Sliema's oldest surviving buildings
+score: 5.6
 ---
 
 One of the few pre-modern buildings to survive Sliema's development boom, Palazzo Capua is an early 19th-century neoclassical palace that stands as evidence of the grander vision once held for this stretch of coast. Built for the noble Capua family, it is now converted to private use, but the facade is striking enough to justify a detour: clean classical lines, balconied windows, and the kind of confident proportions that the apartment blocks surrounding it thoroughly lack.

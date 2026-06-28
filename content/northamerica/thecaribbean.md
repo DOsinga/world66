@@ -1,9 +1,12 @@
 ---
+latitude: 17.0
+loc_type: country
+longitude: -66.0
+score: 0.74
+snippet: Island region between North and South America, shaped by volcanic peaks,
+  coral atolls, and colonial histories.
 title: The Caribbean
 type: location
-loc_type: country
-latitude: 17.0
-longitude: -66.0
 ---
 
 The Caribbean is a region of island nations and territories scattered across the Caribbean Sea between North and South America. Spanning from Cuba in the north to Trinidad at the southern fringe, it encompasses enormous variety: mountainous volcanic islands still rising from the sea, low coral atolls barely above the waterline, former British, French, Dutch, and Spanish colonies, each carrying distinct languages, cuisines, and characters shaped by their different colonial and post-colonial histories.

@@ -7,6 +7,7 @@ tags:
 title: Route 13 — Vang Vieng to Luang Prabang
 type: poi
 snippet: "One of the most scenic road journeys in Laos, passing through karst mountain country"
+score: 7.8
 ---
 
 The stretch of Route 13 that passes through Patong is part of the most spectacular overland route in Laos — the 230km journey between Vang Vieng and Luang Prabang. The road winds through a succession of narrow valleys hemmed in by sheer karst limestone formations: jagged grey peaks covered in dense forest, water buffalo grazing on terraced hillsides, occasional villages of wooden houses on stilts.

@@ -1,0 +1,200 @@
+{
+  "round": 3209,
+  "timestamp": "2026-06-13T22:36:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_score": 0.9944,
+      "prior_variance": 0.145733,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.2189,
+      "prior_variance": 0.121073,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.7957,
+      "prior_variance": 0.124777,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.0495,
+      "prior_variance": 0.134257,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 0.9483,
+      "prior_variance": 0.138809,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.2188,
+      "prior_variance": 0.125545,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": 0.3504,
+      "prior_variance": 0.130974,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -0.1733,
+      "prior_variance": 0.14124,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/england/norfolk/the_north_norfolk_coast/brancaster",
+      "prior_score": 0.0732,
+      "prior_variance": 0.124551,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_somme",
+      "prior_score": 0.6424,
+      "prior_variance": 0.122737,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -0.583,
+      "prior_variance": 0.12759,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.1168,
+      "prior_variance": 0.128501,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.3597,
+      "prior_variance": 0.131689,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/beverley",
+      "prior_score": 0.2172,
+      "prior_variance": 0.119051,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Calice Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure",
+      "prior_score": 0.4569,
+      "prior_variance": 0.117513,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 0.1819,
+      "prior_variance": 0.121961,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": -0.7698,
+      "prior_variance": 0.119244,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -1.3041,
+      "prior_variance": 0.117311,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -6.3272,
+      "prior_variance": 0.190326,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -5.1442,
+      "prior_variance": 0.186602,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.6141,
+      "prior_variance": 0.166821,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -6.5126,
+      "prior_variance": 0.213511,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.3664,
+      "prior_variance": 0.217964,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -9.6219,
+      "prior_variance": 0.426835,
+      "prior_n": 10
+    }
+  ]
+}

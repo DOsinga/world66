@@ -8,6 +8,7 @@ latitude: 36.7170
 longitude: 119.1000
 story: >
   The Weifang International Kite Festival began in 1984 and was among the earliest international events held in China after the reform era. In its early years, the foreign participants — kite enthusiasts from the United States, Europe, and Japan — were a novelty to local crowds, and photographs from the first festivals show large numbers of Weifang residents watching the foreigners as intently as the kites.
+score: 7.4
 ---
 
 The International Kite Festival takes place each year around April 20th and draws competitors and enthusiasts from across the world to a dedicated flying field east of the city. The event is one of the world's largest kite-specific gatherings, combining competition in various categories (altitude, duration, artistic design, team formations) with commercial exhibition and cultural performances.

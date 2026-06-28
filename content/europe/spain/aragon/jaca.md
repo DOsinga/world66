@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Jaca_a_los_pies_de_la_pe%C
 latitude: 42.569288
 loc_type: city
 longitude: -0.549376
-score: 0.61
+score: 8.1
+snippet: Pyrenean Aragonese town and former kingdom capital, with a Romanesque cathedral
+  and star-shaped citadel.
 title: Jaca
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1952,
-  "timestamp": "2026-04-13T15:57:24",
+  "timestamp": "2026-06-13T21:08:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Menorca",
-      "path": "europe/spain/balearicislands/menorca",
-      "prior_score": 9.1567,
-      "prior_variance": 0.373997,
-      "prior_n": 5
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 0.8959,
+      "prior_variance": 0.349765,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Porto Colom",
-      "path": "europe/spain/balearicislands/mallorca/porto_colom",
-      "prior_score": 4.1058,
-      "prior_variance": 0.251281,
-      "prior_n": 5
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.484,
+      "prior_variance": 0.274514,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Dimmuborgir",
-      "path": "europe/iceland/dimmuborgir",
-      "prior_score": 4.3392,
-      "prior_variance": 0.278029,
+      "title": "Quetzaltenango",
+      "path": "northamerica/guatemala/quetzaltenango",
+      "prior_score": 0.3692,
+      "prior_variance": 0.230031,
       "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "St. Croix",
-      "path": "northamerica/virginislands/stcroix",
-      "prior_score": 7.1307,
-      "prior_variance": 0.493457,
-      "prior_n": 5
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.5947,
+      "prior_variance": 0.216749,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Mackinac Island",
-      "path": "northamerica/unitedstates/michigan/mackinac_island",
-      "prior_score": 3.2713,
-      "prior_variance": 0.304891,
-      "prior_n": 5
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -3.554,
+      "prior_variance": 0.21334,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Podaca",
-      "path": "europe/croatia/makarskariviera/podaca",
-      "prior_score": 1.8576,
-      "prior_variance": 0.238209,
-      "prior_n": 5
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -6.4054,
+      "prior_variance": 0.250842,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "1",
-      "path": "europe/france/val_disere/1_2",
-      "prior_score": 3.6625,
-      "prior_variance": 0.31739,
-      "prior_n": 5
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -5.0484,
+      "prior_variance": 0.288057,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Basilicata",
-      "path": "europe/italy/basilicata",
-      "prior_score": 1.0291,
-      "prior_variance": 0.29656,
-      "prior_n": 5
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -4.6745,
+      "prior_variance": 0.322425,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Tarascon-sur-Ari\u00e8ge",
-      "path": "europe/france/midi/pyrenees/tarasconsurari",
-      "prior_score": 2.3161,
-      "prior_variance": 0.238542,
-      "prior_n": 5
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -5.4441,
+      "prior_variance": 0.279148,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Lydford",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
-      "prior_score": 1.1591,
-      "prior_variance": 0.262401,
-      "prior_n": 5
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -5.3326,
+      "prior_variance": 0.249864,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Isalo",
-      "path": "africa/madagascar/isalo",
-      "prior_score": 3.4204,
-      "prior_variance": 0.253315,
-      "prior_n": 5
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -5.7169,
+      "prior_variance": 0.224378,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Belitung",
-      "path": "asia/indonesia/belitung",
-      "prior_score": 2.6,
-      "prior_variance": 0.279905,
-      "prior_n": 5
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_score": -6.4892,
+      "prior_variance": 0.252469,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Landsberg",
-      "path": "europe/germany/bavaria/landsberg",
-      "prior_score": -0.4059,
-      "prior_variance": 0.252951,
-      "prior_n": 5
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_score": -7.0406,
+      "prior_variance": 0.309166,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Upper Kern River",
-      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
-      "prior_score": -1.7277,
-      "prior_variance": 0.48556,
-      "prior_n": 5
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.4371,
+      "prior_variance": 0.27844,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Manzanita",
-      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
-      "prior_score": 0.2893,
-      "prior_variance": 0.284132,
-      "prior_n": 5
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -6.9145,
+      "prior_variance": 0.320213,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Kharipati, Nagarkot Phedi",
-      "path": "asia/nepal/dhulikel/kharipati_nagarko",
-      "prior_score": 0.8514,
-      "prior_variance": 0.315337,
-      "prior_n": 5
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -7.4977,
+      "prior_variance": 0.40794,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Nefta",
-      "path": "africa/tunisia/nefta",
-      "prior_score": -0.2597,
-      "prior_variance": 0.253715,
-      "prior_n": 5
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -6.9948,
+      "prior_variance": 0.245474,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Entebbe",
-      "path": "africa/uganda/entebbe",
-      "prior_score": 0.228,
-      "prior_variance": 0.316733,
-      "prior_n": 5
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -8.2739,
+      "prior_variance": 0.44318,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Broken Bow",
-      "path": "northamerica/unitedstates/oklahoma/broken_bow",
-      "prior_score": -2.6255,
-      "prior_variance": 0.227867,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -7.4839,
+      "prior_variance": 0.483743,
       "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Coimbatore",
-      "path": "asia/india/tamilnadu/coimbatore",
-      "prior_score": -2.4555,
-      "prior_variance": 0.285546,
-      "prior_n": 5
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.9053,
+      "prior_variance": 0.315546,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Le\u00f3n",
-      "path": "northamerica/mexico/guanajuato/len",
-      "prior_score": 0.6866,
-      "prior_variance": 0.369191,
-      "prior_n": 5
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -8.0492,
+      "prior_variance": 0.381734,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Baramulla",
-      "path": "asia/india/jammuandkashmir/baramulla",
-      "prior_score": -3.7148,
-      "prior_variance": 0.321496,
-      "prior_n": 5
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.8829,
+      "prior_variance": 0.558585,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Harper",
-      "path": "africa/liberia/harper",
-      "prior_score": -7.3069,
-      "prior_variance": 0.358989,
-      "prior_n": 5
+      "title": "El Merj",
+      "path": "africa/libya/elmerj",
+      "prior_score": -8.4017,
+      "prior_variance": 0.403197,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Wadi Matkhandoush",
-      "path": "africa/libya/idehan_murzuq_mur/wadi_matkhandoush",
-      "prior_score": -5.8504,
-      "prior_variance": 0.613822,
-      "prior_n": 5
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -10.1587,
+      "prior_variance": 0.607064,
+      "prior_n": 6
     }
   ]
 }

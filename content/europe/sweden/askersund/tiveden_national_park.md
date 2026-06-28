@@ -9,6 +9,7 @@ tags:
   - wildlife
 story: >
   Tiveden's deep ravines and boulder fields were considered so wild and lawless that Swedish law long recognised them as beyond the reach of ordinary society. The forest was a refuge for outlaws and vagabonds well into the 18th century — a reputation the dark, close woodland still earns on a grey day.
+score: 8.8
 ---
 
 Tiveden is one of Sweden's wilder national parks, lying about 30 kilometres southwest of Askersund. The landscape is ancient: massive granite boulders tossed about by glaciers, deep ravines choked with old-growth forest, and dark lakes wedged between the rocks. Walking here feels genuinely remote, even though you are in the heart of Sweden.

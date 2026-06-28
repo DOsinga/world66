@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.5925
 longitude: -112.0398
+score: 6.7
 ---
 
 St. Peter's Cathedral is the seat of the Episcopal Diocese of Montana, and it occupies a prominent position in the downtown streetscape. The building is in a Gothic Revival idiom but on a more modest scale than the Catholic cathedral a few blocks away — which makes it, if anything, easier to absorb. The stonework is carefully done, and the setting among the downtown streets gives it an urban presence that larger suburban churches lack.

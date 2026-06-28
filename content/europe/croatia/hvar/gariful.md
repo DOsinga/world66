@@ -6,6 +6,7 @@ longitude: 16.4438
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 Gariful is the most prominent of Hvar Town's waterfront fish restaurants, occupying the long terrace just east of the main quay — the boats moored a metre away from your table are mostly the personal vessels of whichever celebrity is staying that week. The fish is whole, displayed on ice, priced by the kilo and grilled simply.

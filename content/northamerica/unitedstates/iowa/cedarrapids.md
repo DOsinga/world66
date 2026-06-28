@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bohemian-Commercial-Histor
 latitude: 41.9759
 loc_type: city
 longitude: -91.6704
+score: 5.94
+snippet: Eastern Iowa city on the Cedar River, known for grain processing and Czech
+  and Slovak heritage.
 title: Cedar Rapids
 type: location
 ---

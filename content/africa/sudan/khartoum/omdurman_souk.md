@@ -10,6 +10,7 @@ tags:
 title: Omdurman Souk
 type: poi
 story: "The British colonial administration tried for decades to move commerce across the Nile to Khartoum's planned grid, but the souk held on — partly because Omdurman was the Mahdi's capital and remained the cultural heart of Sudan even after the Anglo-Egyptian victory in 1898."
+score: 8.3
 ---
 
 The Omdurman Souk is the largest traditional market in Sudan and, by some counts, one of the largest in Africa. It sprawls across the centre of Omdurman in a tangle of covered lanes and open courtyards, with whole quarters given over to a single trade: gold in one street, silver in another, ebony carvings, spices, leatherwork, sheepskins, ivory beads, and incense.

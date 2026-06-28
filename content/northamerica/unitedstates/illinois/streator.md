@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Streator_IL_Downtown1.jpg
 latitude: 41.121
 loc_type: city
 longitude: -88.8357
-score: 0.28
+score: 4.81
+snippet: Small Illinois prairie city with Gilded Age glass-and-coal history and a
+  proud Clyde Tombaugh connection
 title: Streator
 type: location
 ---

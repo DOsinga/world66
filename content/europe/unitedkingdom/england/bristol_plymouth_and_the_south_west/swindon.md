@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
+image: swindon.jpg
+image_attribution: Dave_S. on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/93398075@N00/29857248356
 latitude: 51.561533
 loc_type: city
 longitude: -1.785432
-score: 0.42
+score: 6.23
+snippet: Wiltshire railway town shaped by the Great Western Railway works and the
+  STEAM Museum.
 title: Swindon
 type: location
-image: swindon.jpg
-image_source: https://www.flickr.com/photos/93398075@N00/29857248356
-image_license: CC BY 2.0
-image_attribution: Dave_S. on Flickr
 ---
 
 Swindon is not a destination most people would travel to for its own sake, but it has its merits. The town grew rapidly around the Great Western Railway works in the 19th century, and the [STEAM Museum of the Great Western Railway](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon/steam_museum) is genuinely worth a visit if you have any interest in industrial history. The adjacent [Swindon Mechanics' Institute](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon/swindon_mechanics_institute), built by the GWR for its workers, is a handsome Victorian building that speaks to how thoroughly the railway company once ran this town.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.4076
 longitude: -69.6790
+score: 8.5
 ---
 
 Calle Zamora is the spine of colonial Coro — a narrow street that runs west from the Plaza Bolívar through the densest concentration of intact colonial houses anywhere in Venezuela. The walk is short, perhaps 400 metres, but the buildings are remarkable: thick walls of bahareque (mud and cane), recessed wooden doors studded with hand-forged iron, deep eaves that throw shade into the street.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -2.527
 longitude: -44.3045
+score: 6.9
 ---
 
 La Vie is one of the more refined dining options in São Luís, a restaurant in the historic centre that takes Maranhão ingredients and applies more careful cooking than most places in the neighbourhood bother with. The menu includes creative interpretations of regional classics — *cuxá* risotto, seafood cooked with tucupi (cassava juice), local fish prepared with more precision than at the neighbouring beach restaurants.

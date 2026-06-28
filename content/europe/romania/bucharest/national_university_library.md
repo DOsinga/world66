@@ -1,13 +1,14 @@
 ---
 address: Strada Boteanu 1, Bucharest
 latitude: 44.4398
-loc_type: feature
 longitude: 26.0973
+score: 6.5
 snippet: Belle Epoque library on Revolution Square, burned in 1989 and rebuilt
 tags:
 - things_to_do
 - architecture
 title: Central University Library
+type: poi
 ---
 
 A French-style Beaux-Arts library, built in 1895 for the use of the University of Bucharest and the royal court. The original building burned to the ground in December 1989 during the revolution — when fighting raged across Revolution Square in front and a great deal of its rare-book collection was destroyed. It was rebuilt in the 1990s, faithfully replicating the original façade and adding a modern annex.

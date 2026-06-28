@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Metz_centre_ville.jpg
 latitude: 49.1193
 loc_type: city
 longitude: 6.1757
-score: 0.56
+score: 8.2
+snippet: Eastern French river city of honey-coloured limestone, Gothic glass, and
+  Moselle island streets.
 title: Metz
 type: location
 ---

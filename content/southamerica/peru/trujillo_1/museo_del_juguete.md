@@ -12,6 +12,7 @@ story: >
   lead soldiers from the 19th century, and dolls of frankly alarming aspect.
   The juxtaposition of ancient toys and Victorian-era playthings makes the case
   that children across millennia have wanted essentially the same things.
+score: 6.6
 ---
 
 Peru's only toy museum, housed in a colonial mansion a couple of blocks from the Plaza de Armas. The collection covers toys from pre-Inca times through the 20th century and was assembled over decades by the surrealist artist Gerardo Chávez.

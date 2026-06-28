@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.5542
 longitude: 15.1493
+score: 7.7
 ---
 
 A fifteen-minute walk south along the coast from Acitrezza brings you to the Norman castle of Aci Castello, a striking black basalt fortress perched on a lava promontory above the sea. The castle was built in the eleventh century on top of an older Byzantine fortification, and its position — essentially a plug of ancient lava jutting into the water — gives it a dramatic, slightly improbable look.

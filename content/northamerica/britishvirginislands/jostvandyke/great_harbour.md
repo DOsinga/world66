@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4462
 longitude: -64.7492
+score: 6.9
 ---
 
 Great Harbour is the main anchorage and the social centre of Jost Van Dyke. This is where the ferry from Tortola docks, where the customs and immigration office sits, and where most of the island's restaurants and shops cluster along a short stretch of beach. The water in the harbour is calm and the holding ground is good, which is why this bay fills with yachts most evenings.

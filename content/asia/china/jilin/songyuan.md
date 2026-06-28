@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E5%8E%9F%E5%B8%8
 latitude: 45.1388
 loc_type: city
 longitude: 124.808
+score: 5.52
+snippet: Jilin river city at the Songhua-Nen confluence, with Fuyu, Bohai, and petroleum-era
+  history.
 sources:
 - https://en.wikivoyage.org/wiki/Songyuan
 title: Songyuan

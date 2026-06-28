@@ -1,5 +1,6 @@
 ---
 title: Bay Islands
+snippet: Caribbean island chain off Honduras, set along the Mesoamerican Barrier Reef and shaped by diving culture.
 type: location
 loc_type: region
 latitude: 16.2

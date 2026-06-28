@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Monta%C3%B1ita.jpg
 latitude: -1.828165
 loc_type: city
 longitude: -80.752906
-score: 0.59
+score: 7.87
+snippet: Small Ecuadorian surf village on the Santa Elena coast, known for long left-hand
+  waves and weekend nightlife
 title: Montañita
 type: location
 ---

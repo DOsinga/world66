@@ -14,6 +14,7 @@ story: >
   species. Divers with a PADI open-water qualification can book a guided dive
   into the tank as a paid experience, descending alongside the sharks with an
   instructor and a group of paying visitors watching through the glass.
+score: 7.2
 ---
 
 Palma Aquarium opened in 2007 and sits on the coastal road between S'Arenal and the airport, about 10 minutes by bus from the resort. It is the most substantial indoor attraction on this part of the coast, with over 700 species of marine life displayed in tanks representing ecosystems from the Mediterranean to the open ocean.

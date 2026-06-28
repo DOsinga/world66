@@ -5,7 +5,9 @@ done:
 latitude: 34.198328
 loc_type: city
 longitude: -86.164942
-score: 0.32
+score: 5.39
+snippet: Small northeastern Alabama town known for outlet shopping near Lake Guntersville
+  and the Tennessee River valley.
 sources:
 - https://en.wikipedia.org/wiki/Boaz,_Alabama
 title: Boaz

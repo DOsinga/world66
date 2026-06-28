@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 38.424
 longitude: 15.899
+score: 6.8
 ---
 
 The Cittadella is the oldest quarter of Gioia Tauro, centred on the church of Sant'Antonio and surrounded by a cluster of baroque buildings with ornate stone portals that date from the 18th century. The narrow lanes here contrast with the more modern grid of the lower town, and the neighbourhood has the unhurried quality typical of a historic Italian centro.

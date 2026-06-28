@@ -17,6 +17,7 @@ story: >
   eastern Mediterranean.
 sources:
   - https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Han
+score: 8.5
 ---
 
 The Büyük Han is the largest caravanserai in Cyprus and one of the best-preserved examples of Ottoman civic architecture in the eastern Mediterranean. Built in 1572 immediately after the Ottoman conquest of Nicosia, it served for centuries as accommodation for travelling merchants — 68 rooms arranged on two storeys around a large central courtyard, with a small octagonal mosque (mescid) at the courtyard's centre, raised on pillars so that the water storage beneath would stay clean. The proportions are generous, the stonework confident, and the whole feels built to last.

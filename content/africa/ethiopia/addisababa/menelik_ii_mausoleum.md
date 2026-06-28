@@ -14,6 +14,7 @@ story: >
   defeated a European colonial power in a pitched battle — and the victory preserved
   Ethiopian independence for another four decades. He is considered the founder of
   modern Ethiopia.
+score: 7.5
 ---
 
 The octagonal St. Mary's Church (Bete Maryam) on the Jubilee Palace grounds contains the mausoleum of Emperor Menelik II, the ruler who founded Addis Ababa and led Ethiopia to its famous victory over Italy at the Battle of Adwa in 1896. The church itself dates from the 1890s and is richly decorated in the Ethiopian Orthodox style.

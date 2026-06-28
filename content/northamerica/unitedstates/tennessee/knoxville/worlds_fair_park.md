@@ -6,6 +6,7 @@ latitude: 35.9614
 longitude: -83.9239
 sources:
   - https://en.wikipedia.org/wiki/World%27s_Fair_Park
+score: 7.0
 ---
 
 World's Fair Park is the green space left behind when Knoxville cleared a swath of downtown to host the 1982 International Energy Exposition. What remained after the fair closed was eleven acres of open lawn, fountains, paths, and the Tennessee Amphitheater — a genuine civic amenity in a city that didn't have much parkland to spare in the centre.

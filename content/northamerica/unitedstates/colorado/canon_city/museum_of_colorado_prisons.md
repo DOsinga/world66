@@ -10,6 +10,7 @@ story: The museum is inside the actual women's prison that operated next to the 
   Territorial Correctional Facility until 1968. Visitors walk the original cell blocks.
   Inmate possessions, weapons confiscated during escapes, and the state's last gas
   chamber are all on display.
+score: 7.6
 ---
 
 The Museum of Colorado Prisons occupies a former 1935 women's prison building immediately adjacent to the still-operating Colorado Territorial Correctional Facility — Cañon City is the historic centre of the state's prison system. The museum tells the story of Colorado incarceration from territorial days to the present.

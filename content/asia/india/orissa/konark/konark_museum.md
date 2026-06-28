@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 19.8881
 longitude: 86.0955
+score: 7.8
 ---
 
 A small ASI museum directly across the road from the Sun Temple complex, holding a careful selection of stone sculptures recovered from the site over the past century. Several fine sculptures that originally adorned the now-vanished main tower are displayed here, including a famous Navagraha (nine-planet) lintel that was removed from the temple ceiling for conservation.

@@ -8,6 +8,7 @@ tags:
 latitude: 53.3242
 longitude: 5.9985
 snippet: "A circular walk along the intact 17th-century earthwork fortifications and canals."
+score: 8.6
 ---
 
 Dokkum's old fortifications are among the best preserved in the Netherlands — a complete ring of earthwork bastions, gates, and water-filled moats that encloses the historic town centre. Walking the circuit, which follows the top of the earthworks and the canal towpaths, takes about 45 minutes at a leisurely pace.

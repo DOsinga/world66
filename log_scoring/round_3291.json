@@ -1,0 +1,200 @@
+{
+  "round": 3291,
+  "timestamp": "2026-06-13T22:42:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yangshuo",
+      "path": "asia/china/guangxi/yangshuo",
+      "prior_score": 8.6099,
+      "prior_variance": 0.216589,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": 5.5662,
+      "prior_variance": 0.149887,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.374,
+      "prior_variance": 0.144819,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.1893,
+      "prior_variance": 0.144609,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 4.0998,
+      "prior_variance": 0.144178,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 3.4839,
+      "prior_variance": 0.153882,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 1.7754,
+      "prior_variance": 0.180907,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.2437,
+      "prior_variance": 0.107727,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.3668,
+      "prior_variance": 0.123363,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 3.0305,
+      "prior_variance": 0.165859,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 4.3703,
+      "prior_variance": 0.179307,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -3.0099,
+      "prior_variance": 0.121446,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -3.3689,
+      "prior_variance": 0.127503,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -2.7704,
+      "prior_variance": 0.107293,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -1.9125,
+      "prior_variance": 0.135269,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -3.4511,
+      "prior_variance": 0.144626,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.1968,
+      "prior_variance": 0.132655,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -2.9068,
+      "prior_variance": 0.126585,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_score": -2.8255,
+      "prior_variance": 0.156654,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -3.4052,
+      "prior_variance": 0.140039,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -2.9946,
+      "prior_variance": 0.133711,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_score": -5.7331,
+      "prior_variance": 0.180737,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -5.2068,
+      "prior_variance": 0.160968,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -5.233,
+      "prior_variance": 0.159252,
+      "prior_n": 10
+    }
+  ]
+}

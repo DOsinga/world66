@@ -7,6 +7,7 @@ tags:
 latitude: 53.3247
 longitude: 5.9994
 snippet: "Small local history museum covering Dokkum's maritime and religious heritage."
+score: 7.9
 ---
 
 The Museum Dokkum (which incorporates the Boniface Museum) is the town's main heritage institution, occupying a historic building in the centre. The collection covers two main themes: the story of St Boniface and his martyrdom at Dokkum, and the town's history as a Frisian naval base and trading port.

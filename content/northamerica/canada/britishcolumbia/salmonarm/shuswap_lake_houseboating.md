@@ -8,6 +8,7 @@ tags:
 latitude: 50.9465
 longitude: -119.2586
 snippet: "Shuswap Lake is one of BC's most popular houseboating destinations, with rentals operating out of Salmon Arm and Sicamous."
+score: 8.1
 ---
 
 Shuswap Lake is shaped like a lopsided H, with four long arms pushing into the surrounding mountains. The combination of calm water, warm summer temperatures (the lake reaches 24°C in August), and dozens of accessible beaches accessible only by water makes it unusually well-suited to slow, self-propelled exploration. Houseboating is the dominant mode: Sicamous, a smaller town about 40 kilometres east, is the main rental hub, but marinas in Salmon Arm also operate fleets.

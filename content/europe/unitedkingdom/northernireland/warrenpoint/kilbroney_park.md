@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 54.0973
 longitude: -6.1905
+score: 6.9
 ---
 
 Kilbroney Park sits at the foot of Slieve Martin in the village of Rostrevor, about four miles east of Warrenpoint. It is a forested country park with a campsite, a playground, a small caravan park, and a network of walking and mountain-biking trails that climb up through Rostrevor Forest to the Cloughmore Stone and beyond.

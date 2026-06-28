@@ -17,6 +17,7 @@ story: >
   cement plaster, erasing centuries of surface detail in an attempt to show
   what the site had once looked like. Archaeologists have never quite forgiven
   them.
+score: 8.2
 ---
 
 Zaculeu was the fortified capital of the Mam Maya kingdom, perched on a natural platform above deep ravines on three sides — a position that made it nearly impregnable and explains why it held out so long against the Spanish. The site is about 4 km from central Huehuetenango and easy to reach by tuk-tuk or taxi.

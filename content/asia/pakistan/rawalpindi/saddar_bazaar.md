@@ -7,6 +7,7 @@ tags:
 - market
 title: Saddar Bazaar
 type: poi
+score: 7.0
 ---
 Saddar is Rawalpindi's cantonment bazaar, built during the British period to serve the garrison and the civilian population that grew up around it. It is more orderly than Raja Bazaar — the streets are wider, the buildings more recognisably colonial in structure, and the commercial mix includes bookshops, tailors, camera shops, and a scattering of restaurants alongside the usual cloth and household goods.
 

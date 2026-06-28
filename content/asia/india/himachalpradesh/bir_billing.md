@@ -5,7 +5,9 @@ done:
 latitude: 32.047219
 loc_type: city
 longitude: 76.74065
-score: 0.53
+score: 7.77
+snippet: Himachal village and paragliding hub below Billing meadow, backed by tea
+  gardens and Dhauladhar peaks.
 title: Bir Billing
 type: location
 ---

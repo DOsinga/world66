@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.4
 ---
 
 Spread over roughly 130 acres in the heart of the Steel Township, Indira Gandhi Park is the largest park in Odisha and the favourite weekend destination for Rourkela families. There are lawns, a children's amusement zone, a small boating lake, walking paths under flowering gulmohar trees, and a musical fountain in the evenings.

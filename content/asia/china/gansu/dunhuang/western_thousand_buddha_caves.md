@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0500
 longitude: 94.4500
+score: 8.7
 ---
 
 A smaller, much quieter complex of about twenty Buddhist grottoes carved into a cliff above the Dang River, about 35 km west of Dunhuang. The art dates roughly to the same period as the main Mogao Caves but on a much more modest scale, and the caves have suffered more damage from flooding and weathering.

@@ -8,6 +8,7 @@ tags:
 latitude: 40.8711
 longitude: 8.7203
 snippet: An isolated 12th-century Romanesque church in the Anglona countryside
+score: 7.3
 ---
 
 About 10 km southeast of Castelsardo, the church of Nostra Signora di Tergu stands almost alone in the Anglona hills — the surviving remnant of a Benedictine monastery founded in 1113. The architecture is Romanesque, built in alternating bands of dark basalt and pale limestone in the distinctive style of medieval Sardinian churches influenced by Pisan builders.

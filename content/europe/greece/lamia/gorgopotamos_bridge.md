@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Gorgopotamos_(river)
 story: >
   On the night of 25 November 1942, ELAS and EDES partisans — communist and nationalist resistance groups who were bitter rivals — set aside their differences long enough to work with British SOE agents and blow up the railway viaduct here. It was the first major act of sabotage in occupied Greece and delayed German supply lines to Rommel's forces in North Africa by several weeks.
+score: 7.1
 ---
 
 The Gorgopotamos river gorge lies about 8 kilometres south of Lamia, where the Athens–Thessaloniki railway crosses on a metal viaduct above a steep wooded ravine. The gorge is beautiful in itself, with the Gorgopotamos (meaning "rushing river") cutting through limestone cliffs. But the viaduct is best known for the wartime operation that destroyed its predecessor.

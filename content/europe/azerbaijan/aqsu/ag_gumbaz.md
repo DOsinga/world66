@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.4
 ---
 
 In Qaraqoyonlu village, southwest of Aqsu, the 19th-century Ag Gumbaz ("white dome") is a small octagonal mausoleum built over the tomb of a local Muslim saint. The whitewashed dome and stone drum are typical of regional funerary architecture, and the building is still a place of pilgrimage for villagers from across the rayon.

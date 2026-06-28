@@ -7,6 +7,7 @@ tags:
 latitude: 13.8019
 longitude: 77.6094
 story: "Two stains on the granite wall near the mandapa are said to be the blood of Virupanna, the temple's patron, who blinded himself after being accused of misusing royal funds. The story is almost certainly later embroidery — but the suddenness of the abandonment is real, and the rough-hewn columns standing mid-carving make the legend feel weirdly persuasive."
+score: 8.6
 ---
 
 At the western edge of the temple compound stands an open-pillared hall — the kalyana mandapa, or wedding hall — in which the divine marriage of Shiva and Parvati was to be celebrated annually. The sculpture programme was begun but never finished: dozens of granite columns stand half-carved, with figures still emerging from the stone, friezes blocked out in rough relief, capitals incomplete.

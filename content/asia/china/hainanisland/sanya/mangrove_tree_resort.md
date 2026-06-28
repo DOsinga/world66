@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mangrove Tree Resort and Wetland Park
 type: poi
+score: 5.2
 ---
 
 The Mangrove Tree Resort World is a large mixed-use resort on the eastern side of Sanya Bay incorporating a partly restored stretch of mangrove wetland — once typical of this stretch of coast before development took most of it. The boardwalk through the mangroves is open to non-guests and offers a brief but interesting walk past tidal channels populated with mudskippers, fiddler crabs, and a small population of egrets and night herons.

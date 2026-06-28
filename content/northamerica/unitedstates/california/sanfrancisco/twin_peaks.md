@@ -7,6 +7,7 @@ tags:
 - sight
 title: Twin Peaks
 type: poi
+score: 8.5
 ---
 
 Twin Peaks are two hills near the geographic center of San Francisco, rising to 925 feet and offering what may be the best 360-degree panorama in the city. On a clear day you can see from the Marin Headlands to the south Bay, with the downtown skyline, the bridges, and the Pacific all spread out below you.

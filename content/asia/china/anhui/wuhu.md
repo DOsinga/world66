@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wuhu-wuhu-zhongjiangta.jpg
 latitude: 31.343
 loc_type: city
 longitude: 118.354
+score: 6.06
+snippet: Yangtze port city near Nanjing, with Mirror Lake walks and a quieter Anhui
+  urban character
 sources:
 - https://en.wikivoyage.org/wiki/Wuhu
 title: Wuhu

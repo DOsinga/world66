@@ -9,6 +9,7 @@ tags:
   - flamingos
 title: "Parc Ornithologique du Pont de Gau"
 type: poi
+score: 8.4
 ---
 
 Pont de Gau is the easiest place in the Camargue to see flamingos well. Boardwalks and paths loop through marshes where the birds feed close to visitors, and the site is manageable even if you only have a couple of hours.

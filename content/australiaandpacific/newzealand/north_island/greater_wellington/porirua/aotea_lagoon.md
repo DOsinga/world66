@@ -7,6 +7,7 @@ tags:
 - park
 latitude: -41.1197
 longitude: 174.857
+score: 6.2
 ---
 
 Aotea Lagoon is an urban park on the eastern arm of Porirua Harbour, built around an artificial saltwater lagoon that fills and drains with the tide. It has lawns for picnicking, a children's playground, a miniature railway that runs on weekends, and a swan paddleboat hire — solidly old-fashioned, but well kept.

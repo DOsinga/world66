@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cremona,_torrazzo_01.JPG
 latitude: 45.1352
 loc_type: city
 longitude: 10.0244
+score: 8.09
+snippet: Po River city in Lombardy, famed for violin making and a medieval piazza
+  with Italy’s tallest bell tower.
 sources:
 - https://en.wikipedia.org/wiki/Cremona
 - https://en.wikivoyage.org/wiki/Cremona

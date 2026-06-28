@@ -9,6 +9,7 @@ longitude: -71.0225
 snippet: Farm island in the St. Lawrence with orchards, sugar shacks, and village churches
 sources:
   - https://en.wikipedia.org/wiki/%C3%8Ele_d%27Orl%C3%A9ans
+score: 8.1
 ---
 
 The island in the St. Lawrence 15 minutes east of Québec City has been farmed continuously since the 17th century and retains a rural character that survives despite its proximity to the city. Champlain called it the Island of Bacchus for its wild grapes; today it's better known for strawberries, apples, artisanal ciders, maple products, and a handful of excellent farm-to-table restaurants.

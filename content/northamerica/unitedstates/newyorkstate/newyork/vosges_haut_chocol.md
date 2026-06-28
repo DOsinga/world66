@@ -3,9 +3,11 @@ address: 132 Spring Street
 latitude: 40.723909
 longitude: -74.000811
 phone: 212-625-2929
+score: 4.7
 tags:
 - shopping
 - shop
+- soho
 title: Vosges Haut Chocolat
 type: poi
 url: www.vosgeschocolate.com

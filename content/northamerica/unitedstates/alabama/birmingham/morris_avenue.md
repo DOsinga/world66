@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Morris Avenue
 type: poi
+score: 7.6
 ---
 
 Morris Avenue is Birmingham's best-preserved Victorian commercial street, a three-block stretch near the railroad tracks lined with 1880s-1920s brick warehouses that once served the city's wholesale trade. The buildings have been renovated into bars, restaurants, and event spaces without losing the character of the original structures.

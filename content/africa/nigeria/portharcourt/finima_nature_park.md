@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.0
 ---
 
 Finima Nature Park occupies the tip of Bonny Island, a roughly 40-minute ferry ride from Port Harcourt's Bonny Waterside. The park protects a strip of forest and beach that is one of the last significant stretches of undeveloped coastline in Rivers State. It is managed with a focus on conservation and ecotourism, and a small but professional team of guides leads walks through the forest to look for birds, primates, and the mangrove ecosystems that line the island's margins.

@@ -8,6 +8,7 @@ tags:
 neighbourhood: Hamra
 latitude: 33.8978
 longitude: 35.4795
+score: 7.4
 ---
 
 Blue Note has been Beirut's jazz address since the 1990s. Tucked into a side street near AUB, it is a small, low-lit room with a stage at the back and local quintets playing standards and original Arabic-jazz fusion most nights.

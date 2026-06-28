@@ -7,11 +7,13 @@ image_attribution: Teunie
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Munshausen_plaats.jpg
 latitude: 50.035145
+loc_type: city
 longitude: 6.039484
+score: 6.58
+snippet: Northern Luxembourg commune of Ardennes hills, old villages, and the medieval
+  Church of St. Hubert.
 title: Munshausen
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Munshausen (Luxembourgish: Munzen) is a small commune in northern Luxembourg, bordering [Clervaux](/europe/luxembourg/clervaux) to the north. The old village of Munshausen has been recorded since the 9th century, and the commune also includes the villages of Drauffelt, Marnach, Roder, and Siebenaler. The landscape is classic Ardennes — rolling hills, steep valleys, and dense forest.

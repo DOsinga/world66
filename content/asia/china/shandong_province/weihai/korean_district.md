@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.5133
 longitude: 122.1200
+score: 7.3
 ---
 
 Weihai's Korean district is one of the more unusual neighborhoods in Shandong — a genuinely Korean-influenced urban area that emerged from the city's proximity to South Korea (94 nautical miles across the strait) and the large Korean expat and student population that settled here in the 1990s and 2000s. The Korean-language signage, restaurants, cafes, convenience stores, and night market are not a tourist performance: they serve an actual community.

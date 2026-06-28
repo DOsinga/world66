@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.4432
 longitude: 19.2668
+score: 6.9
 ---
 
 Podgorica's Catholic church is an architectural curiosity — a striking brutalist concrete structure with virtually no windows, designed in the 1960s as an act of quiet resistance in a country where religion was officially discouraged under communist rule. The building's monolithic form, all smooth concrete angles with a minimal cross, is striking by any standard and makes complete sense in the context of an architect working under ideological pressure.

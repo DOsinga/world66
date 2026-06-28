@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.0853
 longitude: 81.1539
+score: 6.7
 ---
 
 Manginapudi Beach lies about 10 km south of Machilipatnam on the Bay of Bengal. It is one of the few places along this stretch of the Andhra coast where a clean beach meets relative accessibility, and on weekends and holidays it draws families from Machilipatnam and the surrounding villages.

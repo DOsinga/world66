@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Mountain Resort
 type: poi
+score: 9.5
 ---
 
 The Mountain Resort (避暑山庄) is an imperial park of extraordinary scale — 564 hectares enclosed within a 10-kilometre wall, containing palaces, temples, lakes, and a grassland meadow that the emperors used for archery practice and cavalry drills. The Kangxi Emperor began construction in 1703 and subsequent rulers kept adding to it throughout the eighteenth century.

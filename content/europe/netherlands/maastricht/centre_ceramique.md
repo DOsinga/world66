@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The city library and cultural centre on Avenue Céramique, designed by Jo Coenen and opened in 1993. The building is a landmark of Dutch architecture from the 1990s — a confident Postmodern composition with glass bridges, interior ramps, and open reading floors that deliberately inverts the closed, monumental form of the traditional library.

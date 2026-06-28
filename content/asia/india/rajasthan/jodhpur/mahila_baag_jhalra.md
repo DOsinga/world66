@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mahila Baag Jhalra
 type: poi
+score: 6.6
 ---
 
 A few paces from the famous Toorji Ka Jhalra, down a narrower lane that most visitors miss, sits this smaller stepwell. Built by one of the royal concubines in the 18th century, it was never given the public prominence of Toorji — which perhaps explains why it has been only partially restored and retains more of the moss and silence of a place that has been waiting for centuries to be rediscovered.

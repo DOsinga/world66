@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.3050
 longitude: 26.5720
+score: 6.2
 ---
 
 A long sandy bay on the eastern side of Patmos, Grikou is the most accessible beach from Hora and Skala and has more facilities than the remote southern beaches. The bay curves gently, with a narrow strip of sand, calm water, and a few tavernas and sunbed operators. It's not the most dramatic beach on the island but is the most practical for a swim without planning an expedition.

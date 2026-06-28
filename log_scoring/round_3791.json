@@ -1,0 +1,200 @@
+{
+  "round": 3791,
+  "timestamp": "2026-06-13T23:20:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 6.7788,
+      "prior_variance": 0.146834,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.5595,
+      "prior_variance": 0.110542,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_score": 7.8827,
+      "prior_variance": 0.186088,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 5.6921,
+      "prior_variance": 0.135996,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.4026,
+      "prior_variance": 0.094331,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 3.989,
+      "prior_variance": 0.128251,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_score": 1.5403,
+      "prior_variance": 0.11291,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 0.6274,
+      "prior_variance": 0.114103,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sthelena",
+      "prior_score": 0.4718,
+      "prior_variance": 0.116811,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -1.0407,
+      "prior_variance": 0.110619,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 3.4733,
+      "prior_variance": 0.116687,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -0.3234,
+      "prior_variance": 0.102091,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -0.1218,
+      "prior_variance": 0.125133,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -0.5952,
+      "prior_variance": 0.114064,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": -0.895,
+      "prior_variance": 0.113352,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -2.2013,
+      "prior_variance": 0.13262,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.4246,
+      "prior_variance": 0.12526,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -2.9185,
+      "prior_variance": 0.121564,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.5021,
+      "prior_variance": 0.10245,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.5438,
+      "prior_variance": 0.107792,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -1.3583,
+      "prior_variance": 0.105919,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -3.3874,
+      "prior_variance": 0.112459,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/tatta_pani",
+      "prior_score": -4.7761,
+      "prior_variance": 0.144758,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -4.1716,
+      "prior_variance": 0.126146,
+      "prior_n": 12
+    }
+  ]
+}

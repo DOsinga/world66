@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Akakura_Onsen_Ski_Area.jpg
 latitude: 37.9026
 loc_type: city
 longitude: 139.0232
-score: 0.51
+score: 7.58
 title: Niigata
 type: location
+snippet: Sea of Japan port city and snow-country gateway, known for rice, sake, and
+  Sado ferries.
 ---
 
 Niigata is the largest city on the Sea of Japan coast of Honshu, about two hours by Shinkansen from Tokyo. For most foreign visitors it is a stopover rather than a destination — the port where the ferries leave for Sado Island, or the gateway to the ski resorts of the Echigo-Yuzawa area. But Niigata prefecture is one of the most distinctive corners of Japan, and worth more time than it usually gets.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - niemeyer
+score: 7.1
 ---
 
 A spiral concrete building shaped after a Yanomami *maloca* (communal roundhouse), inaugurated in 1987 to display Brazil's indigenous heritage. Niemeyer arranged it as a continuous ramp around a central court, with the collection — featherwork, weapons, ceremonial objects, basketry, ceramics, and ritual masks — displayed along the way.

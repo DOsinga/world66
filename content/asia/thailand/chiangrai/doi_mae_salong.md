@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.2664
 longitude: 99.5822
+score: 8.2
 ---
 
 Doi Mae Salong is a mountain village about 60km north of Chiang Rai, at roughly 1,500 metres above sea level near the border with Myanmar. It was settled in 1961 by remnants of the 93rd Division of the Kuomintang — Chinese Nationalist soldiers who had retreated from Yunnan into Burma in 1949 and were eventually relocated to Thailand. The village retains a distinctly Chinese character: there are Yunnanese restaurants, Chinese temples, and a morning market where traders arrive from the surrounding hills with produce, tea, and occasionally goods that have made their way quietly across the border.

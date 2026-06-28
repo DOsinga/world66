@@ -3,11 +3,13 @@ address: 23/24 Greenside Place, Edinburgh EH1 3AA
 latitude: 55.957071
 longitude: -3.185202
 phone: 0131 556 9331
+score: 6.3
 snippet: Edinburgh's main gay club with cheap drinks and a packed dance floor
 tags:
 - bars_and_cafes
 - bar
 - club
+- oldtown
 title: CC Blooms
 type: poi
 ---

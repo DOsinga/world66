@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 61.5072
 longitude: -6.7553
+score: 6.2
 ---
 
 Down by the harbour, the old village shop has been repurposed as a small museum and cafe — one of those dual-purpose spaces that small Faroese communities do well. The museum side covers the history of fishing in Hov, the traditional economy that shaped the village for generations, with old photographs, equipment, and artefacts from the working harbour.

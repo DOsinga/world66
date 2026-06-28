@@ -8,6 +8,7 @@ latitude: 48.3975
 longitude: 9.9895
 sources:
   - https://en.wikipedia.org/wiki/Ulm
+score: 8.6
 ---
 
 The Fischerviertel is Ulm's medieval waterside quarter, where the channels of the River Blau join the Danube. Fishermen, tanners, and shipbuilders lived and worked here from the Middle Ages, and the neighbourhood preserves its character unusually well: half-timbered houses crowd the narrow lanes, some leaning over the water so far that upper stories on opposite sides nearly touch. The alley called Kussgasse (Kiss Alley) gets its name from exactly this quality.

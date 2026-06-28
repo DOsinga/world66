@@ -8,6 +8,7 @@ tags:
 title: The Shambles Market
 type: poi
 snippet: "A covered and open-air market behind the Shambles, with street food, local produce, and independent traders"
+score: 6.2
 ---
 
 The Shambles Market occupies the area behind and around the Shambles street, roughly where the former Newgate Market stood for centuries. The current market combines a covered section with outdoor stalls and operates most days of the week, with the full complement of traders at weekends. The range is wide: street food from a variety of cuisines, local produce and preserves, crafts, vintage clothing, and general market goods. The quality is variable but the better food stalls are genuinely good.

@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "In 1976 Ferdinand Marcos ordered the importation of giraffes, zebras, elands, impala, gazelles and other African game from Kenya to be released on Calauit Island, after a personal request to Jomo Kenyatta. The original 104 animals' descendants — a few hundred head — still wander the island."
+score: 6.7
 ---
 
 In the far north of Palawan province, **Calauit Island** is genuinely strange — a 3,700-hectare wildlife sanctuary stocked in 1976 by President Marcos with African plains game brought from Kenya as a Cold War act of conservation diplomacy. Giraffes, zebras, eland and impala still graze the open hills, alongside critically endangered Calamian deer and Philippine mouse deer.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.6256
 longitude: -4.6567
 snippet: Marble mountain range rising above the Costa del Sol, with hiking trails and panoramic views
+score: 7.8
 ---
 
 The Sierra de Mijas rises immediately behind the village to a high point of 1,150 metres at Pico Mijas. The range is made of white marble — the same stone that was quarried here for centuries and carried down to the coast by the donkeys that are now the town's tourist mascots. On clear days the summit views extend south across the Mediterranean to the Atlas Mountains of Morocco.

@@ -5,6 +5,7 @@ tags: [things_to_do, beach, sight]
 latitude: -5.7850
 longitude: 132.7940
 story: "Pasir Panjang means 'long sand' in Indonesian, and the beach lives up to its name: about 3 km of uninterrupted white sand on the southwest coast of Kei Kecil. The sand is bright white and fine — local legend attributes it to crushed coral and shells — while the water offshore is extraordinarily clear and ranges from pale green at the shore to deep blue further out. There is almost no development behind the beach, just coconut palms and the occasional small warung."
+score: 9.0
 ---
 
 Pasir Panjang is consistently cited as one of the finest beaches in Indonesia — a distinction earned by a combination of exceptional sand, remarkable water clarity, and near-total absence of commercial development. The beach stretches along the southwest coast of Kei Kecil, backed by a fringe of palm trees and accessible from Tual by bemo (shared minibus) or motorcycle.

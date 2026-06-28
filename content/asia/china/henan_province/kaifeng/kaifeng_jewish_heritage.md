@@ -16,6 +16,7 @@ story: >
   Eastern ancestry. Today perhaps a few hundred families with Jewish ancestry
   remain, navigating between Chinese identity and a heritage that the
   government has at various times celebrated and suppressed.
+score: 6.3
 ---
 
 Kaifeng's Jewish community is one of the most remarkable diaspora stories in the world. Jews are believed to have settled here during the Song dynasty, possibly as merchants or traders, and over the following centuries developed a distinct Sino-Jewish culture that preserved Hebrew prayers and Torah study while absorbing Chinese customs, architecture, and language. The community built a synagogue in the thirteenth century and maintained it for over five hundred years before the building was destroyed by a Yellow River flood in 1849.

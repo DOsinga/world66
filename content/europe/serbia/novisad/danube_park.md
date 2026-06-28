@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2553
 longitude: 19.8511
+score: 7.0
 ---
 
 Dunavski Park is the green heart of central Novi Sad — a 19th-century landscaped park between the old town and the river, with a small lake, a tea house, a swan or two, and the city's busiest jogging loop in the early evening. The plane trees are old enough to give serious shade in summer.

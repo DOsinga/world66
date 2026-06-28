@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Whitby_Abbey_(geograph_724
 latitude: 54.487414
 loc_type: city
 longitude: -0.615511
-score: 0.61
+score: 8.55
+snippet: North Yorkshire fishing town beneath Whitby Abbey, where Dracula lore meets
+  a working harbour.
 title: Whitby
 type: location
 ---

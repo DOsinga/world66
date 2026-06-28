@@ -3,18 +3,21 @@ address: Piazzale Ostiense, 00154 Rome
 admission: Free (exterior); tours of interior available
 latitude: 41.8757
 longitude: 12.4818
-opening_hours: Interior visits on selected weekends; check Parco Archaeologico del Colosseo
+opening_hours: Interior visits on selected weekends; check Parco Archaeologico del
+  Colosseo
+score: 7.2
 snippet: A genuine 2,000-year-old Egyptian pyramid standing at the city wall
-story: Gaius Cestius built his pyramid tomb around 18–12 BC after Rome's conquest of
-  Egypt made Egyptian funerary styles briefly fashionable among the Roman elite. He
-  specified in his will that the pyramid must be completed within 330 days — an unusual
-  contractual clause that surveyors believe accounts for the steep angle, as builders
-  rushed to meet the deadline. It is 36 metres tall and made of concrete faced with
-  white Carrara marble.
+story: Gaius Cestius built his pyramid tomb around 18–12 BC after Rome's conquest
+  of Egypt made Egyptian funerary styles briefly fashionable among the Roman elite.
+  He specified in his will that the pyramid must be completed within 330 days — an
+  unusual contractual clause that surveyors believe accounts for the steep angle,
+  as builders rushed to meet the deadline. It is 36 metres tall and made of concrete
+  faced with white Carrara marble.
 tags:
 - things_to_do
 - monument
 - sight
+- testaccio
 title: Pyramid of Cestius
 type: poi
 ---

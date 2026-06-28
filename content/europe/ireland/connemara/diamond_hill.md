@@ -8,6 +8,7 @@ latitude: 53.5483
 longitude: -9.9145
 sources:
   - https://en.wikipedia.org/wiki/Diamond_Hill_(Ireland)
+score: 8.5
 ---
 
 Diamond Hill is the classic Connemara walk: a looped trail of about 7 km from the Connemara National Park visitor centre, rising to 445 metres with panoramic views over the Atlantic, the Twelve Bens, and the islands. The summit path is rocky and well-maintained; the walk takes two to three hours at a comfortable pace. On clear days you can see as far as the Aran Islands and the mountains of Clare.

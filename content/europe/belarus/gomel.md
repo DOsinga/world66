@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/39392193@N07/3620877856
 latitude: 52.423894
 loc_type: city
 longitude: 31.01317
-score: 0.33
+score: 5.72
+snippet: Southeastern Belarusian city with old fort-town roots and a classicist palace
+  from its 19th-century rebuilding.
 title: Gomel
 type: location
 ---

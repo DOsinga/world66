@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Altstadt-tuebingen-1.jpg
 latitude: 48.5203
 loc_type: city
 longitude: 9.0536
-score: 0.55
+score: 8.32
+snippet: German university town above the Neckar, packed with students, half-timbered
+  lanes, and literary landmarks.
 title: Tubingen
 type: location
 ---

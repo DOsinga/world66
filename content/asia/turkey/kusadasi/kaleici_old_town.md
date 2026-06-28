@@ -6,6 +6,7 @@ longitude: 27.2580
 tags:
   - things_to_do
   - neighbourhood
+score: 7.1
 ---
 
 The Kaleiçi — literally 'inside the castle' — is the small walled core of the old town, just behind the harbour and the caravanserai. The lanes are narrow and cobbled, with bougainvillea on the wooden balconies of converted Ottoman houses. Most of the houses today are restaurants, carpet shops, and small hotels rather than family homes.

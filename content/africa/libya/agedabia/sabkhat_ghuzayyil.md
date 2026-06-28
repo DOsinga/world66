@@ -9,6 +9,7 @@ latitude: 29.84917
 longitude: 19.71972
 sources:
   - https://en.wikipedia.org/wiki/Sabkhat_Ghuzayyil
+score: 5.8
 ---
 
 Sabkhat Ghuzayyil is the broad salt-flat depression south and southwest of Agedabia, usually named as the lowest point in Libya at roughly 47 metres below sea level. It is dry today, but its scale gives the coastal plain a strange, emptied-out quality.

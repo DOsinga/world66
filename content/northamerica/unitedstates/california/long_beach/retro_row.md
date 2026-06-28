@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 33.7776
 longitude: -118.1607
+score: 6.8
 ---
 
 Retro Row is the name given to a stretch of East 4th Street between Junipero and Redondo avenues — about six blocks of vintage shops, independent cafés, and small restaurants that form the cultural heart of the Eastside neighbourhood. The name comes from the concentration of vintage and antique dealers, which gave the street its character in the 1990s before restaurants and coffee shops filled in around them.

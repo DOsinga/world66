@@ -5,8 +5,10 @@ snippet: West-end park that serves as the social living room of Queen West
 tags:
 - things_to_do
 - park
+- queen_west
 title: Trinity Bellwoods Park
 type: poi
+score: 6.7
 ---
 
 Trinity Bellwoods is a large park in the heart of West Queen West, and it is where much of the neighbourhood's social life takes place from May through September. On a sunny Saturday afternoon it fills with people lying in the grass, playing volleyball and tennis, walking dogs, and socialising in the way that makes park life in dense urban neighbourhoods so satisfying.

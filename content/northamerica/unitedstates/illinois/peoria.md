@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Caterpillarhq.JPG
 latitude: 40.6939
 loc_type: city
 longitude: -89.5891
-score: 0.37
+score: 6.04
 title: Peoria
+snippet: Illinois River city in central Illinois, long known as a bellwether for mainstream
+  American taste.
 type: location
 ---
 

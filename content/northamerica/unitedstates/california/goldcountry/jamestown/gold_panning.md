@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - activity
 story: "Jamestown sits on the southern Mother Lode, and recreational pans on Woods Creek still turn up flakes — the area has produced an estimated 100 million ounces of gold since 1848 and the placer deposits have not been worked out."
+score: 6.8
 ---
 
 A handful of outfitters in town run hands-on panning sessions on Woods Creek and other nearby tributaries — typically a 1–2 hour introduction, with pans, snifters and instruction included. Gold Prospecting Adventures on Main Street has run these trips since the 1980s and is the most established operator; book ahead in summer.

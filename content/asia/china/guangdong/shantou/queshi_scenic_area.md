@@ -9,6 +9,7 @@ tags:
 - park
 title: Queshi Scenic Area
 type: poi
+score: 7.5
 ---
 
 Queshi Scenic Area is a ridge of granite hills, temples, gardens, and viewpoints on the south side of Shantou Bay. The best reason to go is simple: the city looks better from here, spread across the water with ships moving through the harbour below.

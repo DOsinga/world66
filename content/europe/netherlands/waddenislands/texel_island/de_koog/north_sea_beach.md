@@ -11,6 +11,7 @@ story: >
   spaced every kilometre along its 30 km length. The system dates to the nineteenth
   century when Dutch coast guards used them to coordinate rescue operations for
   ships wrecked on the treacherous offshore sandbanks.
+score: 8.5
 ---
 
 The North Sea beach stretching west of De Koog is one of the finest in the Netherlands — thirty kilometres of unbroken, wide, clean sand backed by high dunes. The access points from De Koog are well-marked and it's a ten-minute bike ride through the dunes to the shore.

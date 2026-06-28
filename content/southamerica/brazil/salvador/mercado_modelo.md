@@ -9,6 +9,7 @@ tags:
 - cidade_baixa
 snippet: Handicrafts market in the former slave-market building
 story: "The current Mercado Modelo building was once the customs house where enslaved Africans were processed on arrival from West Africa. Some of the stalls in the basement preserve the original 19th-century stonework — and one is run by descendants of one of Salvador's last enslaved families."
+score: 6.8
 ---
 
 The Mercado Modelo is the main souvenir market of Salvador, set in a long arcaded building on the lower-city waterfront. The 250-odd stalls sell capoeira instruments (the bow-shaped berimbau), Bahian lacework, leather goods, the standard tourist art, and Candomblé religious supplies. Bargaining is expected; prices halve with the first counter-offer.

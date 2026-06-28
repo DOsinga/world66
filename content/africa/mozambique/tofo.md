@@ -5,7 +5,9 @@ done:
 latitude: -23.853606
 loc_type: city
 longitude: 35.547171
-score: 0.45
+score: 7.66
+snippet: Mozambican beach village near Inhambane, known for whale shark diving and
+  manta ray encounters.
 title: Tofo
 type: location
 ---

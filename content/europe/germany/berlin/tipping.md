@@ -6,6 +6,7 @@ type: poi
 snippet: "German tipping etiquette for restaurants and taxis"
 latitude: 52.5200
 longitude: 13.4050
+score: 1.0
 ---
 
 Tipping in Berlin follows the standard German practice. It’s not obligatory, but it is customary to round up or add 5-10% at restaurants, cafes, and for taxi rides. You typically tell the server the total you’d like to pay when handing over cash, rather than leaving coins on the table. If paying by card, mention the tip amount before they process the payment.

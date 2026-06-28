@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Polonnaruwa_01.jpg
 latitude: 7.9403
 loc_type: city
 longitude: 81.0188
-score: 0.65
+score: 8.74
+snippet: Ancient Sinhalese capital with compact UNESCO ruins, royal citadel remains,
+  and carved Buddhas across Sri Lanka's Cultural Triangle.
 title: Polonnaruwa
 type: location
 ---

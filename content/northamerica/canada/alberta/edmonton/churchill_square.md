@@ -14,6 +14,7 @@ story: >
   actual civic centre Edmonton had always needed.
 sources:
   - https://en.wikipedia.org/wiki/Churchill_Square_(Edmonton)
+score: 6.8
 ---
 
 Churchill Square is Edmonton's main downtown public space and the heart of the city's cultural district. The square itself is a broad paved plaza that functions as the stage for much of Edmonton's festival life: the International Street Performers Festival, the Jazz Festival, Taste of Edmonton, and numerous other events use the square or its immediate surroundings throughout the summer.

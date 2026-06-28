@@ -9,6 +9,7 @@ latitude: 39.5648
 longitude: 109.7477
 story: >
   The actual burial place of Genghis Khan has never been found. According to Mongolian tradition, he was buried in secret somewhere in the Mongolian heartland, near his birthplace on the Onon River — and the grave was deliberately concealed by killing everyone who attended the funeral, driving horses over the site to obliterate tracks, and planting trees to disguise the disturbance of the earth. Several expeditions have searched for the tomb using ground-penetrating radar and satellite imagery; none have found it. The Ordos mausoleum is a cenotaph maintained by the Darkhad clan of Mongolians, who have guarded it for 750 years.
+score: 8.5
 ---
 
 The Genghis Khan Mausoleum (成吉思汗陵), 55 kilometres south of Ordos's Dongsheng district, is not the actual tomb of the Mongol conqueror — scholars agree that Genghis Khan was buried somewhere in Mongolia and the location has never been identified. What the mausoleum represents is something different: a place of continuous ritual veneration maintained by a hereditary clan of guardians, the Darkhad, who have been tending the complex since the 13th century. For ethnic Mongolians, it is one of the holiest places in their cultural world.

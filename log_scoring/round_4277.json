@@ -1,0 +1,200 @@
+{
+  "round": 4277,
+  "timestamp": "2026-06-13T23:59:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 5.3623,
+      "prior_variance": 0.126012,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 5.4396,
+      "prior_variance": 0.119325,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 5.356,
+      "prior_variance": 0.122912,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.0651,
+      "prior_variance": 0.093944,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 1.7679,
+      "prior_variance": 0.101827,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.2122,
+      "prior_variance": 0.128861,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 1.9415,
+      "prior_variance": 0.103671,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 2.02,
+      "prior_variance": 0.092185,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 2.504,
+      "prior_variance": 0.106389,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.8855,
+      "prior_variance": 0.088296,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 2.046,
+      "prior_variance": 0.09684,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -0.9834,
+      "prior_variance": 0.103267,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": -0.4499,
+      "prior_variance": 0.097751,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.0547,
+      "prior_variance": 0.096811,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": -1.6802,
+      "prior_variance": 0.099099,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_score": -1.555,
+      "prior_variance": 0.094694,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -2.5968,
+      "prior_variance": 0.104223,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -2.2032,
+      "prior_variance": 0.096207,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -2.4757,
+      "prior_variance": 0.110298,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Zhanjiang",
+      "path": "asia/china/guangdong/zhanjiang",
+      "prior_score": -3.3126,
+      "prior_variance": 0.096421,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.6541,
+      "prior_variance": 0.098999,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -4.6447,
+      "prior_variance": 0.144906,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -4.709,
+      "prior_variance": 0.106679,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -12.0754,
+      "prior_variance": 0.469338,
+      "prior_n": 13
+    }
+  ]
+}

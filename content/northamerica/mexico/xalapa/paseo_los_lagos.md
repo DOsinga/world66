@@ -9,6 +9,7 @@ latitude: 19.51889
 longitude: -96.92167
 sources:
   - https://en.wikipedia.org/wiki/Paseo_de_los_Lagos
+score: 7.3
 ---
 
 Paseo de los Lagos is a landscaped lakeside path south of the city centre, following a string of small artificial lakes through parkland and wetland. It is a favourite spot for early morning walkers and joggers, and the reed-fringed water attracts a variety of waterbirds — herons, egrets, and kingfishers are common. The mist that frequently hangs over Xalapa in the morning settles here, and the walk has a quiet, atmospheric quality that feels removed from the busy commercial streets above.

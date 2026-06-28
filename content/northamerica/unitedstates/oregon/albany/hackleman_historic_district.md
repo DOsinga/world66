@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 44.6347
 longitude: -123.0994
+score: 7.8
 ---
 
 The Hackleman Historic District is Albany's oldest residential neighbourhood, listed on the National Register of Historic Places in 1982. It preserves a dense collection of mid-19th to early-20th century houses, ranging from Italianate cottages and Gothic Revival homes to Craftsman bungalows. Many were built by Albany's first settlers in the 1840s and 1850s, when the town was establishing itself as an agricultural centre in the Willamette Valley.

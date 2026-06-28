@@ -14,6 +14,7 @@ tags:
 title: Florida Holocaust Museum
 type: poi
 url: www.flholocaustmuseum.org
+score: 7.5
 ---
 
 One of the four largest Holocaust museums in the United States, with a permanent collection that covers both the historical arc of the Holocaust and its specific impact on individual lives. The exhibits combine photographs, documents, artifacts, and survivor testimonies — the latter recorded in video installations that are among the most affecting parts of the museum. A replica railcar used in deportations is the centerpiece of the main hall.

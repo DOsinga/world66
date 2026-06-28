@@ -1,200 +1,200 @@
 {
   "round": 947,
-  "timestamp": "2026-04-12T16:08:48",
+  "timestamp": "2026-06-13T20:02:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 28,
-      "prior_wins": 138,
-      "prior_n": 6
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": -0.4982,
+      "prior_variance": 0.483809,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Tuscany",
-      "path": "europe/italy/tuscany",
-      "prior_rank": 38,
-      "prior_wins": 69,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.9817,
+      "prior_variance": 0.437821,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Vatican City",
-      "path": "europe/vaticancity",
-      "prior_rank": 51,
-      "prior_wins": 46,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Shibuya",
-      "path": "asia/japan/tokyo/shibuya",
-      "prior_rank": 68,
-      "prior_wins": 43,
-      "prior_n": 2
-    },
-    {
-      "rank": 5,
-      "title": "Mykonos",
-      "path": "europe/greece/mykonos",
-      "prior_rank": 30,
-      "prior_wins": 92,
-      "prior_n": 4
-    },
-    {
-      "rank": 6,
-      "title": "Bora Bora",
-      "path": "australiaandpacific/frenchpolynesia/borabora",
-      "prior_rank": 19,
-      "prior_wins": 54,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 4.0909,
+      "prior_variance": 0.416205,
       "prior_n": 3
     },
     {
+      "rank": 4,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": -1.6693,
+      "prior_variance": 0.651746,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.036,
+      "prior_variance": 0.465678,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": -1.4568,
+      "prior_variance": 0.62011,
+      "prior_n": 2
+    },
+    {
       "rank": 7,
-      "title": "Maldives",
-      "path": "asia/maldives",
-      "prior_rank": 12,
-      "prior_wins": 29,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 1.3088,
+      "prior_variance": 0.626327,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Virgin Islands",
-      "path": "northamerica/virginislands",
-      "prior_rank": 247,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -1.0351,
+      "prior_variance": 0.629485,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Bhutan",
-      "path": "asia/bhutan",
-      "prior_rank": 109,
-      "prior_wins": 44,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -5.3143,
+      "prior_variance": 0.821934,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Transylvania",
-      "path": "europe/romania/transylvania",
-      "prior_rank": 114,
-      "prior_wins": 59,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 2.3672,
+      "prior_variance": 0.670726,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Teramo",
-      "path": "europe/italy/abruzzo/teramo",
-      "prior_rank": 3529,
-      "prior_wins": 26,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": -0.7703,
+      "prior_variance": 0.675938,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Lake Toba",
-      "path": "asia/indonesia/sumatra/laketoba",
-      "prior_rank": 575,
-      "prior_wins": 42,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.8908,
+      "prior_variance": 0.838108,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Natal",
-      "path": "southamerica/brazil/natal",
-      "prior_rank": 1680,
-      "prior_wins": 36,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -2.9149,
+      "prior_variance": 0.652424,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Asir",
-      "path": "asia/saudiarabia/asir",
-      "prior_rank": 4361,
-      "prior_wins": 28,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -1.8435,
+      "prior_variance": 0.718865,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "campbell river",
-      "path": "northamerica/canada/britishcolumbia/campbell_river",
-      "prior_rank": 4787,
-      "prior_wins": 29,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -2.8026,
+      "prior_variance": 0.416303,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Half Moon Bay",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/halfmoonbay",
-      "prior_rank": 4056,
-      "prior_wins": 11,
-      "prior_n": 1
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -3.6731,
+      "prior_variance": 0.510302,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Streator",
-      "path": "northamerica/unitedstates/illinois/streator",
-      "prior_rank": 8108,
-      "prior_wins": 0,
-      "prior_n": 2
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.9567,
+      "prior_variance": 0.497937,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Lula",
-      "path": "northamerica/unitedstates/mississippi/lula",
-      "prior_rank": 8077,
-      "prior_wins": 1,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -4.9042,
+      "prior_variance": 0.568335,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Tcby",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
-      "prior_rank": 8133,
-      "prior_wins": 0,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -4.6118,
+      "prior_variance": 0.998649,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "AuYrfpJmYTzFiPA",
-      "path": "europe/russia/krasnoyarsk_region/auyrfpjmytzfipa",
-      "prior_rank": 8227,
-      "prior_wins": 0,
-      "prior_n": 4
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -10.0237,
+      "prior_variance": 0.997827,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "BbCMQeVjeZFcG",
-      "path": "europe/finland/kotka/bbcmqevjezfcg",
-      "prior_rank": 8215,
-      "prior_wins": 0,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -5.8037,
+      "prior_variance": 0.423712,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "PesTeCPvzsxDFv",
-      "path": "asia/oman/musandampeninsula/pestecpvzsxdfv",
-      "prior_rank": 8104,
-      "prior_wins": 0,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -5.0096,
+      "prior_variance": 0.702064,
       "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Cha bait wala Yaroo khosa",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_bait_wala_yaro",
-      "prior_rank": 8101,
-      "prior_wins": 0,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -3.5968,
+      "prior_variance": 0.426126,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "CHANDAN N BHANDARI",
-      "path": "asia/india/uttaranchal/chandan_n_bhandari",
-      "prior_rank": 8165,
-      "prior_wins": 0,
-      "prior_n": 1
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.6787,
+      "prior_variance": 0.489864,
+      "prior_n": 3
     }
   ]
 }

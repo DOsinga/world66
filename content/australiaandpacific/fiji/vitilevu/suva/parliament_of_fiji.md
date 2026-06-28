@@ -8,6 +8,7 @@ tags:
   - sight
   - nasese
 neighbourhood: Nasese
+score: 6.0
 ---
 
 Fiji's national parliament is housed in the same Government Buildings complex on Victoria Parade. The chamber itself has been moved around since the building of a separate Parliament Complex at Veiuto in the 1990s, but in 2014 it returned to its original home here.

@@ -6,6 +6,7 @@ longitude: -85.5854
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The Parque Central is the social heart of Santa Cruz, a pleasant square shaded by mature trees where locals gather through the day and evening. It is modest by Costa Rican standards but animated — vendors sell fruit and food along the edges, and the benches fill up in the late afternoon as the heat eases. The church on the square and the surrounding commercial streets give a sense of what Guanacaste's main town looks like away from the beach developments.

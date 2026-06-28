@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-23'
+image: stegenevieve.jpg
+image_attribution: pasa47 on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/53301297@N00/30921874838
 latitude: 37.8896
 loc_type: city
 longitude: -90.1857
-score: 0.43
+score: 6.69
+snippet: French colonial Mississippi town with rare vertical-log houses and Missouri's
+  oldest European-settled community.
 title: Ste. Genevieve
 type: location
-image: stegenevieve.jpg
-image_source: https://www.flickr.com/photos/53301297@N00/30921874838
-image_license: CC BY 2.0
-image_attribution: pasa47 on Flickr
 ---
 
 Ste. Genevieve is Missouri's oldest community, founded by French settlers around 1735 on the banks of the Mississippi River. It has one of the most important collections of French colonial architecture in North America — the distinctive vertical-log (poteaux-sur-solle) construction technique used here is rarely found elsewhere in the United States. The town became a National Historical Park in 2020, recognising its significance.

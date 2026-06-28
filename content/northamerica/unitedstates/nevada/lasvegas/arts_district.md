@@ -3,10 +3,15 @@ title: Arts District (18b)
 type: neighbourhood
 latitude: 36.1561
 longitude: -115.1542
-snippet: "Bohemian neighbourhood south of downtown, with galleries, breweries, and Esther's Kitchen"
+snippet: Bohemian neighbourhood south of downtown, with galleries, breweries, and
+  Esther's Kitchen
 tags:
 - things_to_do
 - neighbourhood
+image: arts_district.jpg
+image_source: https://commons.wikimedia.org/wiki/File:18b_Arts_District_sign_(2015).jpg
+image_license: CC BY 2.0
+image_attribution: Diandra Rodriguez
 ---
 
 The 18b Arts District sits just south of downtown along Main Street and Casino Center Boulevard. Once warehouses and antique shops, the area has slowly turned into the city's most credible non-Strip food and drink scene: cocktail bars in old neon-sign warehouses, breweries, vintage shops, vinyl record stores, and a clutch of well-reviewed restaurants of which Esther's Kitchen is the standard-bearer.

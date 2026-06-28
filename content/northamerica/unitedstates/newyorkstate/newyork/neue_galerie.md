@@ -1,13 +1,15 @@
 ---
 address: 1048 Fifth Avenue
-latitude: 40.7806
-longitude: -73.95946
+latitude: 40.781224
+longitude: -73.960237
 phone: (212) 628-6200
-snippet: "German and Austrian art in an elegant Fifth Avenue mansion"
+score: 8.2
+snippet: German and Austrian art in an elegant Fifth Avenue mansion
 tags:
 - things_to_do
 - museum
 - cafe
+- upper_east_side
 title: Neue Galerie
 type: poi
 url: www.neuegalerie.org

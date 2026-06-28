@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mingachevir_reservoir.jpg
 latitude: 40.920633
 loc_type: city
 longitude: 46.757101
-score: 0.34
+score: 5.96
+snippet: Kura River city shaped by ancient settlement traces and Azerbaijan's largest
+  hydroelectric reservoir.
 title: Mingechevir
 type: location
 ---

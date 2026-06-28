@@ -16,6 +16,7 @@ tags:
 - sight
 - architecture
 - uphill
+score: 9.8
 ---
 
 The cathedral is Lincoln's defining presence — visible across the fens from forty miles away, dominating the city centre from below, and an unmistakable horizon from any direction. Building began in 1072, but the Norman cathedral was largely destroyed by an earthquake in 1185 and rebuilt over the next two centuries in the early Gothic style; the great west front incorporates fragments of the original. The interior is a masterclass of English Gothic — the long nave, the famous Angel Choir (a chamber whose carvings include the much-photographed Lincoln Imp), the chapter house with its central column fan-vault.

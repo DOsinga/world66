@@ -10,6 +10,7 @@ tags:
   - luftlmalerei
 story: >
   The painter Franz Seraph Zwink, who painted the Pilatushaus facade in 1784, was the master of Bavarian Lüftlmalerei but died penniless in 1792, said to have drunk away every commission he received. His Pilatushaus is now considered the finest surviving example of the technique in Germany.
+score: 8.3
 ---
 
 The Pilatushaus is the most celebrated of Oberammergau's painted houses, named for the trompe-l'oeil scene of Christ before Pilate on its facade. Franz Seraph Zwink painted it in 1784. Stand on the far side of the street and the painted columns, balconies, and figures appear to project from the wall in convincing relief.

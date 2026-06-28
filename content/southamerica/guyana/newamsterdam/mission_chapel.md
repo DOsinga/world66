@@ -9,6 +9,7 @@ tags:
 title: Mission Chapel
 type: poi
 story: The Mission Chapel was built around 1814 by Congregationalist missionaries working among the enslaved population of Berbice — one of the three Dutch colonies that would eventually become British Guiana. At the time of its construction, New Amsterdam was the capital of the Colony of Berbice, and the chapel was one of the few institutions that ministered to enslaved Africans rather than the Dutch colonial class. The building is one of the oldest surviving wooden structures in Guyana, predating emancipation by two decades.
+score: 7.4
 ---
 
 The Mission Chapel on Main Street in New Amsterdam is a wooden Congregational church built around 1814, making it one of the oldest surviving buildings in Guyana. The structure is in the characteristic Berbice style — wooden frame construction with jalousie shutters and a raised foundation — that once defined the streetscape of New Amsterdam but has been steadily lost to development and decay.

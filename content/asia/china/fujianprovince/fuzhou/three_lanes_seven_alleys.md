@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The neighbourhood takes its name from a simple grid: three lanes running east-west and seven alleys running north-south, preserved from the Tang dynasty layout. Among the families who lived here were several who shaped modern China — Lin Zexu, who destroyed the British opium at Canton and triggered the First Opium War, was born within a block of here.
+score: 4.4
 ---
 
 Three Lanes and Seven Alleys (Sanfang Qixiang) is Fuzhou's most important historical district — a neighbourhood of Ming and Qing dynasty courtyard houses covering about 40 hectares in the city centre. The architecture is southern Chinese timber-frame construction: white-painted walls, curved grey-tile roofs, and carved wooden screen doors. The whole area has been restored and pedestrianised and is now the city's main cultural attraction.

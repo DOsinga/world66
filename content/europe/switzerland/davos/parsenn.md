@@ -8,6 +8,7 @@ latitude: 46.8231
 longitude: 9.8196
 story: >
   The Parsenn Funicular, which climbs from Davos Dorf to the Weissfluhjoch at 2,662 m, has been running since 1931 — one of the world's oldest mountain funiculars still in regular operation. It was built to service what was already, even then, one of Europe's premier ski resorts.
+score: 8.5
 ---
 
 Parsenn is the largest and most celebrated of Davos's seven ski areas, accessed by the Parsenn Funicular from Davos Dorf. It spreads across a vast high-altitude plateau between Davos and Klosters, offering long cruising runs in all directions, excellent off-piste terrain, and the legendary Weissfluh run — a 12 km descent from the summit to Küblis in the valley below, dropping 2,000 m in one go.

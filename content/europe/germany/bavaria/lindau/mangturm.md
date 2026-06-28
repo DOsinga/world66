@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 47.5450
 longitude: 9.6810
+score: 6.5
 ---
 
 The Mangturm is a medieval harbour tower at the western end of the old harbour, built in the 13th century and serving as Lindau's lighthouse until the New Lighthouse was erected in 1856. The tower is capped with a distinctive conical roof decorated in coloured tiles and topped with a weathervane; it has become one of the most recognisable medieval structures on Lake Constance.

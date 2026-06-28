@@ -6,6 +6,7 @@ longitude: 55.788
 snippet: "The largest working camel market in the UAE — loud, dusty, and entirely authentic."
 tags: [things_to_do, sight]
 story: "Al Ain's camel market is one of the few places in the UAE where traditional Bedouin trading life survives in something close to its original form. Camels are still bought and sold here for racing, breeding, and milk production, with prices ranging from a few thousand dirhams for an ordinary animal to hundreds of thousands for a well-bred racing camel. The negotiations happen in Arabic, in clusters of men standing in the dust beside the pens, apparently unhurried, as they have been for centuries."
+score: 8.2
 ---
 
 The Al Ain Camel Market operates on the eastern edge of the city and is one of the most genuinely atmospheric places in the UAE. Unlike the sanitised heritage experiences offered at most Gulf cultural attractions, this is a working market with all the noise, smell, and mercantile energy that implies. Camels are led in from the desert, loaded off trucks, inspected, haggled over, and driven away again in an ongoing flow that begins before dawn and winds down by mid-morning.

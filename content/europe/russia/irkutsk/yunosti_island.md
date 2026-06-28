@@ -8,6 +8,7 @@ tags:
 latitude: 52.2833
 longitude: 104.3
 snippet: "River island with parks and beach popular with locals"
+score: 5.6
 ---
 
 Ostrov Yunosti (Youth Island) is a small island in the Angara River within the city limits, connected to the riverbank by a footbridge. It's a green, low-key park used by Irkutsk residents for weekend picnics, cycling, and in summer, swimming from the pebbly beach on the downstream end. In winter, the island's paths become cross-country ski trails.

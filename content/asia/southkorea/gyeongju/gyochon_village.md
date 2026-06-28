@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.8308
 longitude: 129.2161
+score: 7.2
 ---
 
 A preserved quarter of traditional Korean hanok houses near the Daereungwon tomb park, home to about 100 traditional buildings of the Joseon period. The village is most famous as the production area of Gyeongju gyodong beopju — a traditional rice wine with a 1,000-year history, legally brewed by only one licensed producer in the village, using a method passed down through the Choi family for generations.

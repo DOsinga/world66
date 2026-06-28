@@ -10,6 +10,7 @@ story: When it opened in 1929, the Royal Gorge Bridge was the highest suspension
   bridge in the world — and it held that title for nearly seventy years. It was built
   in just seven months and cost $350,000. There was no engineering precedent. The
   contractor figured it out as he went.
+score: 8.7
 ---
 
 The Royal Gorge Bridge spans the Arkansas River canyon at 291 metres above the water — long the highest suspension bridge in the world, and still the highest in the United States. The bridge is the centrepiece of the Royal Gorge Bridge & Park, a commercial attraction that includes a gondola crossing the gorge at right angles, a glass-floored visitor centre, and a children's playground.

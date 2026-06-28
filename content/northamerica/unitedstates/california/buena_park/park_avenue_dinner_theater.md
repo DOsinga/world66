@@ -6,6 +6,7 @@ longitude: -117.9942
 tags:
   - things_to_do
   - sight
+score: 5.3
 ---
 
 Across Beach Boulevard from Knott's, the Pirates Dinner Adventure is the surviving member of a once-thriving cluster of themed dinner shows in Buena Park. You eat a multi-course meal at long tables ranged around an indoor lagoon while costumed performers stage a pirate-themed acrobatic show on a full-sized 18th-century galleon parked in the middle.

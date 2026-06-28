@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gold_River_Harbour,_Britis
 latitude: 49.780755
 loc_type: city
 longitude: -126.047302
-score: 0.37
+score: 6.06
+snippet: Vancouver Island village reached through Strathcona Provincial Park and glacier-fed
+  lake scenery.
 title: Gold River
 type: location
 ---

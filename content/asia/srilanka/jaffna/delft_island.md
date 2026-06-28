@@ -13,6 +13,7 @@ story: >
   feral for so long that they seem constitutively different from mainland horses — smaller,
   wilder, entirely indifferent to people. The coral-stone walls the colonial powers built
   are still there too, slowly dissolving back into the island.
+score: 8.8
 ---
 
 Delft is the most remote of the Jaffna islands, about two hours by ferry from Kurikattuwan jetty, and it feels like stepping back several centuries. The island is flat and treeless, the vegetation scrubby, and the landscape dominated by ancient coral-stone walls built by the Dutch and Portuguese. Wild horses roam freely, descendants of animals left behind by the colonial powers and now thoroughly feral.

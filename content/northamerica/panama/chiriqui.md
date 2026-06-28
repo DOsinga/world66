@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:VistaBoquete.jpg
 latitude: 8.78
 loc_type: city
 longitude: -82.44
-score: 0.54
+score: 7.79
+snippet: Panamanian highland province of coffee towns, cloud forests, and Volcán Barú,
+  the country's highest peak
 title: Chiriquí
 type: location
 ---

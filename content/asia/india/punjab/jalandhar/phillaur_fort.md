@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.0177
 longitude: 75.7896
+score: 7.7
 ---
 
 The fort at Phillaur, about 35 kilometres southeast of Jalandhar on the Grand Trunk Road, was built by Maharaja Ranjit Singh in 1809 to guard the crossing of the Sutlej. It is a substantial squat structure with corner bastions and a moat, and it sits on what was the frontier between Sikh and British territory. After 1846 the British took it over and added the buildings that still house the Maharaja Ranjit Singh Punjab Police Academy.

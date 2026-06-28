@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.8971
 longitude: 11.4572
+score: 7.2
 ---
 
 The Baumhaus — literally "tree house," though the name derives not from trees but from the log or boom (Baum) that was stretched across the harbour entrance to control access — stands at the narrow mouth of Wismar's inner harbour. It is one of the oldest harbour buildings still standing in Mecklenburg, a stout red-brick structure that once served as the guardhouse and customs post for one of the busiest Hanseatic ports on the Baltic. Visiting ships had to stop here, pay their dues, and wait for the boom to be lowered before they could proceed into the harbour.

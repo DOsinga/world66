@@ -8,6 +8,7 @@ snippet: "European-inspired brunch favorite in downtown Ann Arbor"
 tags:
   - bars_and_cafes
   - cafe
+score: 5.9
 ---
 
 A long-standing Ann Arbor favorite for breakfast, brunch, and lunch. Cafe Zola serves European-inspired dishes with fresh, seasonal ingredients — think French toast with housemade brioche, well-crafted sandwiches, and a consistently excellent brunch. A good choice for a leisurely mid-morning meal.

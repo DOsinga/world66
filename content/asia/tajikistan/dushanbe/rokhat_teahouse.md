@@ -8,6 +8,7 @@ latitude: 38.5759
 longitude: 68.7859
 story: >
   The Rokhat Teahouse opened in Soviet times as a model of Tajik traditional architecture — carved wooden ceilings, painted plasterwork, raised platforms for sitting cross-legged. In the Soviet context, it was a state-sponsored attempt to preserve cultural forms while simultaneously controlling them. The result outlasted the regime: the Rokhat is still the best place in the city to drink tea the traditional way.
+score: 8.3
 ---
 
 The Rokhat Teahouse on Rudaki Avenue is one of the most celebrated chai-khanas (teahouses) in Central Asia. The interior is lavishly decorated with carved wooden columns, painted ceilings in traditional geometric patterns, and raised wooden platforms where you sit cross-legged on cushions. The architecture alone justifies a visit.

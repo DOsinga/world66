@@ -6,6 +6,7 @@ longitude: 33.8883
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 A short drive south of Salamis, the Late Bronze Age site of Enkomi — identified with the ancient kingdom of Alasia mentioned in Egyptian and Hittite records — is one of the oldest known towns on Cyprus. It flourished from around 1600 BC as a centre of the copper trade, supplying ingots stamped with the Alasia mark across the eastern Mediterranean.

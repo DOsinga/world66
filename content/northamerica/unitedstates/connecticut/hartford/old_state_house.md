@@ -18,6 +18,7 @@ tags:
 title: Old State House
 type: poi
 url: https://www.ctosh.org
+score: 8.2
 ---
 
 Built in 1796 and designed by Charles Bulfinch — the architect behind the original US Capitol — Hartford's Old State House is one of the finest Federal-style public buildings in New England. It served as Connecticut's seat of government until 1878. Inside, a notable portrait of George Washington by Gilbert Stuart is on display, along with exhibits on Connecticut history. The Senate Chamber has been restored to its early 19th-century appearance. On the upper floor, the quirky Museum of Natural and Other Curiosities displays oddities in the tradition of Joseph Steward's original collection, including a two-headed calf that has puzzled visitors since 1797.

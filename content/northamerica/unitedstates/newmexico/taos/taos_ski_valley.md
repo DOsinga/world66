@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.5947
 longitude: -105.4511
+score: 8.1
 ---
 
 Taos Ski Valley, about 30 kilometres northeast of town in the Sangre de Cristo Mountains, is one of the best ski areas in the American Southwest and one of the most challenging in the country. The mountain rises to 3,819 metres, the vertical drop is over 900 metres, and the terrain skews heavily toward expert runs — about 51 percent black diamond or double black diamond. The powder here is reliable and the ski resort has maintained an old-fashioned mountain town character compared to more commercialised resorts in Colorado.

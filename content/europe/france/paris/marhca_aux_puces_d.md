@@ -9,6 +9,7 @@ tags:
 - market
 title: Flea Market at Vanves
 type: poi
+score: 7.2
 ---
 
 The Marché aux Puces de Vanves is one of Paris's best flea markets and far less touristic than the massive Clignancourt market in the north. Around 400 dealers set up along the avenues of Marc Sangnier and Georges Lafenestre every Saturday and Sunday morning, selling furniture, vintage clothes, old photographs, Art Deco objects, jewellery, African art, and all manner of curiosities.

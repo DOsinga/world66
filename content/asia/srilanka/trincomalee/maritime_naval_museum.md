@@ -8,6 +8,7 @@ latitude: 8.56981
 longitude: 81.23744
 sources:
   - https://en.wikipedia.org/wiki/Maritime_and_Naval_History_Museum,_Trincomalee
+score: 6.4
 ---
 
 The Maritime and Naval History Museum is a small but worthwhile museum dedicated to Trincomalee's long history as a naval base and strategic harbour. The exhibits cover the Portuguese, Dutch, and British periods of control, the Second World War raids, and the development of the Sri Lanka Navy. Scale models of the harbour and the ships that have passed through it give a sense of the strategic importance of this deep-water bay.

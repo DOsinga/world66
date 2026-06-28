@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/88119561@N03/39271190994
 latitude: 20.948886
 loc_type: city
 longitude: 107.103507
-score: 0.68
+score: 8.66
+snippet: Vietnamese bay city and main gateway to Halong Bay's limestone islands and
+  cruise piers
 title: Halong City
 type: location
 ---

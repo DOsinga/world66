@@ -5,7 +5,9 @@ done:
 latitude: 38.971914
 loc_type: city
 longitude: -95.23594
-score: 0.4
+score: 6.63
+snippet: Eastern Kansas university town with abolitionist roots and a lively Massachusetts
+  Street downtown.
 sources:
 - https://en.wikipedia.org/wiki/Lawrence,_Kansas
 title: Lawrence

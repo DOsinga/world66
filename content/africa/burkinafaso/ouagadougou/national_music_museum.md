@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Burkina Faso has more recognised ethnic groups than almost any other West African country, and each has its own musical tradition. The museum's founder, Massa Makan Diabaté, spent years tracking down representative instruments from every part of the country before the collection opened in the early 1990s."
+score: 8.0
 ---
 
 A small and beautifully curated museum displaying the traditional instruments of Burkina Faso and its neighbours: the balafon, the kora, the talking drum, the one-string fiddle, the long Mossi trumpets used at royal ceremonies. Labels are mostly in French but the staff is generous with explanations and demonstrations.

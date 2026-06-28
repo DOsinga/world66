@@ -7,6 +7,7 @@ tags:
   - gallery
 latitude: 46.4886
 longitude: -80.9939
+score: 6.8
 ---
 
 The Art Gallery of Sudbury lives in the W.J. Bell Mansion, an early-20th-century lumber baron's house on John Street between the downtown and Bell Park. The collection focuses on Northern Ontario artists, with rotating contemporary exhibitions in the upper galleries and the mansion's original woodwork still in place downstairs.

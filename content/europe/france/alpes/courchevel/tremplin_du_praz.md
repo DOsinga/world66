@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4314
 longitude: 6.6164
+score: 7.2
 ---
 
 The towering ski jumps above Le Praz were built for the **1992 Albertville Winter Olympics** and remain the dominant landmark of the lower village. There are four jumps, from K-25 up to the K-120 — that last number is the distance at which competitive jumpers land. They are visible from the road as you arrive in Courchevel and the scale is genuinely intimidating up close.

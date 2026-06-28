@@ -11,12 +11,14 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 done:
   country_cleanup: 2026-03-29
 quick_facts:
-  Population: "800,000"
+  Population: 800,000
   Drives On: Left
-  Language: "Only English-speaking country in South America"
-  Kaieteur Falls: "5× higher than Niagara"
-score: 0.39
+  Language: Only English-speaking country in South America
+  Kaieteur Falls: 5× higher than Niagara
+score: 0.46
 loc_type: country
+snippet: Rainforested South American country where the Guiana Shield rises toward
+  Kaieteur Falls.
 ---
 
 Guyana, or British Guyana, was the first of the three Guyana's to be independent. Before may 1966 it was the only British colony on the South American mainland. 

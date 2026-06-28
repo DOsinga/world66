@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Prado.jp
 latitude: 39.9583
 loc_type: city
 longitude: -4.8328
+score: 6.71
+snippet: Castilian city on the Tagus where blue, white, and ochre ceramics still define
+  the name.
 sources:
 - https://en.wikipedia.org/wiki/Talavera_de_la_Reina
 title: Talavera de la Reina

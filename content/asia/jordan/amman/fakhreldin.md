@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.9530
 longitude: 35.9120
+score: 6.9
 ---
 
 Fakhreldin is Amman's grandest traditional Lebanese-Jordanian restaurant, operating from a converted 1950s villa near Third Circle since 1975. The mezze table here is elaborate — thirty or more small dishes arriving in sequence before the main courses — and the quality is consistently high. This is where Jordanian business lunches happen and where families bring guests they want to impress.

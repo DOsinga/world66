@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - fortress
+score: 7.2
 ---
 
 The largest and highest of Šibenik's land fortresses, St John's crowns Tanaja hill at 115 metres above the sea. It is a star-shaped Venetian work of the 1640s, designed to lob cannon fire at any Ottoman force trying to come over the ridge. The restoration here is more recent and lighter-touch than Barone or St Michael's; the appeal is the scale and the view rather than polished facilities.

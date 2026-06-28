@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 35.1908
 longitude: 25.7190
+score: 6.2
 ---
 
 Itanos is one of the most consistently recommended traditional tavernas in Agios Nikolaos, known for freshly caught fish, grilled octopus, and good local wine from the barrel. It sits a short walk back from the harbour, which means it is slightly out of the prime tourist zone and accordingly more relaxed and better value.

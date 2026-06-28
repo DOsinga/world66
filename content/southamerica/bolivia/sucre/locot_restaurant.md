@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Indigenous-themed restaurant with regional fusion cooking
+score: 7.0
 ---
 
 La Posta de los Tarabuco is a stylish small restaurant on Calle Aniceto Arce that draws on the indigenous food traditions of the Sucre region — quinoa, llama, native potatoes, freshwater fish, the medicinal herbs of the altiplano — and reinterprets them with a contemporary touch. The chef trained in Lima and the influence shows in the careful plating and the use of Andean ingredients beyond the standard tourist plates.

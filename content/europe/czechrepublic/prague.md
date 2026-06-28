@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-06-03'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-19'
 image: prague.jpg
 image_attribution: Jakub Hałun
@@ -10,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20190816_View_of_Prague_fr
 latitude: 50.087465
 loc_type: city
 longitude: 14.421254
-score: 0.78
+score: 9.6
+snippet: Central European capital on the Vltava, dense with intact Gothic, Baroque,
+  and Art Nouveau streetscapes.
 title: Prague
 type: location
 ---
@@ -21,6 +24,8 @@ Most of the city’s main attractions cluster in the centre. [Prague Castle](/eu
 
 The Art Nouveau [Municipal House](/europe/czechrepublic/prague/municipal_house) on náměstí Republiky is Prague’s most ornate building; independent Czechoslovakia was proclaimed from its Smetana Hall in 1918. The adjacent [Estates Theatre](/europe/czechrepublic/prague/estates_theatre), where Mozart himself conducted the premiere of Don Giovanni in 1787, is the finest 18th-century opera house in Central Europe. The [Jewish Quarter](/europe/czechrepublic/prague/josefov) (Josefov) contains six historic synagogues, the [Old Jewish Cemetery](/europe/czechrepublic/prague/josefov_old_cemetery), and the haunting [Pinkas Synagogue](/europe/czechrepublic/prague/pinkas_synagogue) memorial.
 
-The centre of modern Prague is [Wenceslas Square](/europe/czechrepublic/prague/wenceslas_square), site of the 1989 Velvet Revolution. The [National Museum](/europe/czechrepublic/prague/national_museum) dominates its upper end; the [Lucerna Palace](/europe/czechrepublic/prague/lucerna_palace) arcade below it — designed by President Havel’s grandfather — is a perfect antidote to polished tourist Prague. East of the Old Town, the [Mucha Museum](/europe/czechrepublic/prague/mucha_museum) dedicates itself to the great Art Nouveau illustrator; a longer trip to [Veletržní Palace](/europe/czechrepublic/prague/veletrzni_palace) in [Holešovice](/europe/czechrepublic/prague/holešovice) rewards those who want the full Mucha Slav Epic cycle.
+The centre of modern Prague is [Wenceslas Square](/europe/czechrepublic/prague/wenceslas_square) in [Nové Město](/europe/czechrepublic/prague/nove_mesto), site of the 1989 Velvet Revolution. The [National Museum](/europe/czechrepublic/prague/national_museum) dominates its upper end; the [Lucerna Palace](/europe/czechrepublic/prague/lucerna_palace) arcade below it — designed by President Havel’s grandfather — is a perfect antidote to polished tourist Prague. East of the Old Town, the [Mucha Museum](/europe/czechrepublic/prague/mucha_museum) dedicates itself to the great Art Nouveau illustrator; a longer trip to [Veletržní Palace](/europe/czechrepublic/prague/veletrzni_palace) in [Holešovice](/europe/czechrepublic/prague/holesovice) rewards those who want the full Mucha Slav Epic cycle.
 
-The hill of [Petřín](/europe/czechrepublic/prague/petrin_hill), reached by funicular from Malá Strana, has gardens, a mini Eiffel Tower, and views. The [Vyšehrad](/europe/czechrepublic/prague/vysehrad_fortress) fortress south of the centre is quieter, with the national cemetery where Dvořák and Smetana lie. Day trips from Prague reach Kutná Hora (a Gothic ossuary and silver-mining town), Karlštejn Castle, and Terezín — a World War II concentration camp turned memorial, 60 km north.
+The hill of [Petřín](/europe/czechrepublic/prague/petrin_hill), reached by funicular from Malá Strana, has gardens, a mini Eiffel Tower, and views. The [Vyšehrad](/europe/czechrepublic/prague/vysehrad_fortress) fortress south of the centre is quieter, with the national cemetery where Dvořák and Smetana lie. East of the centre, leafy [Vinohrady](/europe/czechrepublic/prague/vinohrady) is where Praguers actually live, drink craft beer in Riegrovy Sady, and eat at neighbourhood bistros; downhill from there, scruffy [Žižkov](/europe/czechrepublic/prague/zizkov) is the pub-crawl heartland under the brutalist TV tower with its crawling Černý babies.
+
+Day trips from Prague reach Kutná Hora (a Gothic ossuary and silver-mining town), Karlštejn Castle, and Terezín — a World War II concentration camp turned memorial, 60 km north.

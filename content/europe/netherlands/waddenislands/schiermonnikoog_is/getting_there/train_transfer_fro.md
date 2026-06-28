@@ -5,6 +5,7 @@ tags: [getting_there]
 snippet: "Train connections to the ferry departure point"
 latitude: 53.1967
 longitude: 5.7917
+score: 4.4
 ---
 
 To reach Schiermonnikoog, you first need to get to Lauwersoog, the ferry departure point. The nearest major train station is Leeuwarden, the capital of Friesland.

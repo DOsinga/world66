@@ -3,12 +3,14 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-22'
 image: rainbow.jpg
-image_source: https://commons.wikimedia.org/wiki/File:RainbowBakery.JPG
 image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:RainbowBakery.JPG
 latitude: -35.8982
 loc_type: city
 longitude: 141.9956
-score: 0.33
+score: 5.85
+snippet: Small Wimmera wheat-belt town in remote northwest Victoria, gateway to Wyperfeld
+  National Park.
 title: Rainbow
 type: location
 ---

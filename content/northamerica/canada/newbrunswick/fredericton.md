@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Fredericton.jpg
 latitude: 45.9617
 loc_type: city
 longitude: -66.6412
+score: 7.26
+snippet: Compact New Brunswick capital on the Saint John River, with a walkable downtown
+  and Garrison District heritage.
 sources:
 - https://en.wikipedia.org/wiki/Fredericton
 - https://en.wikivoyage.org/wiki/Fredericton

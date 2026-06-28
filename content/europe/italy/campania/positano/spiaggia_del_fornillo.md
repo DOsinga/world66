@@ -9,6 +9,7 @@ latitude: 40.6284
 longitude: 14.4805
 story: >
   Fornillo was traditionally the fishermen's beach while the main beach served the town. That distinction is less sharp now, but it retains a more local character than Spiaggia Grande, and the walk to get there along the cliff path is worth the trip alone.
+score: 7.8
 ---
 
 Positano's second beach, about ten minutes' walk west from Spiaggia Grande along a footpath that clings to the cliff face, is quieter and more local than the main beach. Part of it is free, the rest operated by a couple of relaxed lido bars. The rocks on either side are good for snorkelling.

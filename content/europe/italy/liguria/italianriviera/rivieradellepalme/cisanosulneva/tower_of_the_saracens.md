@@ -8,6 +8,7 @@ tags:
 latitude: 44.0820
 longitude: 8.1430
 story: "The cylindrical brick tower beside the old national highway to Albenga is locally called the *Torre dei Saraceni* and traditionally identified as a 9th- or 10th-century coastal lookout. Modern archaeology has shown it is actually a Roman-era circular tomb from the 1st or 2nd century AD — a thousand years older than the legend."
+score: 6.6
 ---
 
 Standing alongside the old SS 453 road south toward Albenga, the so-called Tower of the Saracens is a cylindrical brick structure about 5 metres high. For centuries it was assumed to be a medieval watchtower built against Saracen raiders along the Roman *Via Iulia Augusta*.

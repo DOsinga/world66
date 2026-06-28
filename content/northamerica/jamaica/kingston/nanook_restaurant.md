@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.9376
 longitude: -76.845
+score: 4.9
 ---
 
 The Cannonball Cafe inside Fort Charles at Port Royal is a simple, reliable place to eat while visiting the fort — serving local Jamaican staples (jerk, fish, rice and peas) in the shade of the 17th-century fortifications. It is not a serious restaurant but it solves the practical problem of what to eat after walking the fort in the midday heat.

@@ -5,6 +5,7 @@ tags: [things_to_do, beach]
 latitude: 42.18280
 longitude: 18.97916
 story: At roughly 2.4 kilometres, Buljarica is the longest unbroken beach on the Montenegrin coast and one of the few stretches that remains largely undeveloped — a remarkable holdout in a country where almost every cove has a hotel above it.
+score: 8.0
 ---
 
 A long arc of fine pebble and grey-gold sand backed by olive groves and macchia. The water shelves gently and the swimming is calm. In high summer the central section near Petrovac gets busy with day trippers, but walk ten minutes south and you will find empty space even in August.

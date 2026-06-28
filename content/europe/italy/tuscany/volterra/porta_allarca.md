@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Porta all'Arco
 type: poi
+score: 8.4
 ---
 
 The Etruscan arch at the southern edge of the old town dates to the third century BC. The three weathered basalt heads carved into the keystone and jambs are Etruscan, though their identity has been lost. The gate was integrated into the medieval walls and still serves as an entrance to the historic centre. Walk through it and you are walking through a structure older than the Roman Empire.

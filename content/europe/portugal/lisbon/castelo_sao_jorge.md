@@ -15,6 +15,7 @@ story: >
   promised the right to plunder the city for three days — an incentive that
   ensured their participation. Afonso I reportedly watched the battle from a
   fig tree that he later ordered preserved.
+score: 8.6
 ---
 
 The Moorish castle on Lisbon's highest hill has been the city's defining landmark since before Portugal existed. The massive walls and ten towers that visitors walk today are largely 20th-century reconstructions — the 1755 earthquake severely damaged the medieval structure — but the hilltop position and the views across the city's terracotta rooftops and down to the Tagus are original and magnificent.

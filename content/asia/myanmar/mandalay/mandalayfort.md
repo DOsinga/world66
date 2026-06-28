@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Mandalay Fort
 type: poi
+score: 6.8
 ---
 
 Mandalay Fort -- officially Mandalay Royal Palace -- was built in 1857 by King Mindon as the center of his new capital. The complex is surrounded by immense walls eight meters high and two kilometers long on each side, with a watchtower at every corner and a moat 70 meters wide encircling the whole thing.

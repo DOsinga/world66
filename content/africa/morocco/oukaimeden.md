@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:One_of_the_scenic_location
 latitude: 31.2053
 loc_type: city
 longitude: -7.8613
-score: 0.5
+score: 7.48
+snippet: High Atlas ski village at 2,600 metres, where Moroccan mountain culture meets
+  North Africa's highest slopes.
 title: Oukaimeden
 type: location
 ---

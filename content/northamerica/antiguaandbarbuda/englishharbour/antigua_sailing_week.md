@@ -7,6 +7,7 @@ tags:
   - sailing
 title: Antigua Sailing Week
 type: poi
+score: 7.9
 ---
 
 Antigua Sailing Week, held in the last week of April, is one of the Caribbean's major sailing regattas — established in 1967, it now draws 150 to 200 boats from over 30 countries, ranging from serious offshore racing yachts to classic wooden boats. The racing takes place in English Harbour and in the channels between Antigua's southern headlands; the social scene operates in the dockyard and at Shirley Heights every evening.

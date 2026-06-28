@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-23'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-20'
 image: stockholm.jpg
 image_attribution: Martin Falbisoner
@@ -10,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Stockholm_-_Au
 latitude: 59.325117
 loc_type: city
 longitude: 18.071093
-score: 0.8
+score: 9.41
+snippet: Island-built Nordic capital where Lake Mälaren meets the Baltic and boats
+  open the archipelago.
 title: Stockholm
 type: location
 ---

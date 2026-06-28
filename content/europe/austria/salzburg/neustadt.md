@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 neighbourhood: Neustadt
+score: 7.0
 ---
 
 Across the Salzach on the right bank, the "New Town" — actually only "new" in 17th-century terms — has the Mirabell Palace and gardens, the Mozart family home, the Marionette Theatre, and St Sebastian's Cemetery. The streets are wider, the tourists fewer, and the prices noticeably lower than in the old town.

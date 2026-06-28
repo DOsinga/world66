@@ -7,6 +7,7 @@ tags:
 latitude: 32.7898
 longitude: -79.9359
 address: "360 Meeting St"
+score: 7.8
 ---
 
 Founded in 1773, the Charleston Museum is the oldest museum in the United States — it predates the republic. The collections cover the natural history and cultural history of the South Carolina Lowcountry: fossils, Native American artefacts, colonial silverware and ceramics, and extensive documentation of plantation life and the Gullah-Geechee culture of the Sea Islands.

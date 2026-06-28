@@ -1,8 +1,7 @@
 ---
-category: Historic Site
 latitude: -33.9261
 longitude: 18.4192
-neighbourhood: City Bowl
+score: 6.3
 scores:
   activities: 0.5681
   sight: 0.618

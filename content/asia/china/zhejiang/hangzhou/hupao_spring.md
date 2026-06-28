@@ -15,6 +15,7 @@ story: >
   brewed with Hupao water is considered to have a sweeter, cleaner taste than
   tea made with tap water. The combination is sometimes called the "two
   wonders of Hangzhou."
+score: 7.5
 ---
 
 Hupao Spring lies at the foot of Daci Hill in the forested hills southwest of West Lake, a short taxi ride from the main lake area. The spring itself is set in a classical Chinese garden built around a series of pools and pavilions. It produces remarkably pure water, and local tea enthusiasts make pilgrimages here to collect it for brewing Longjing.

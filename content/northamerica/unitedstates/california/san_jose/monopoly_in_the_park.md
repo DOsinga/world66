@@ -10,6 +10,7 @@ story: >
   The board was certified by Guinness World Records as the largest permanent Monopoly board in the world. Players use vinyl banners as cards, lawn dice the size of footstools, and pieces that look like overgrown Monopoly tokens. The board is laid out on the ground with concrete tiles in Discovery Meadow, and games can be reserved through the local nonprofit that maintains it.
 sources:
   - https://en.wikipedia.org/wiki/Monopoly_in_the_Park
+score: 4.8
 ---
 
 Monopoly in the Park, in Guadalupe River Park near the Children's Discovery Museum, is the world's largest permanent Monopoly board — a 30 by 30 foot concrete grid of properties, complete with oversized dice and player pieces. The board is open for play during park hours; group games can be booked in advance through the nonprofit that runs it.

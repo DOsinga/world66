@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chapman%27s_Peak_2022_02.j
 latitude: -34.043093
 loc_type: city
 longitude: 18.355645
-score: 0.55
+score: 7.95
+snippet: Cape Peninsula fishing village in a mountain valley, with a working harbour
+  and Chapman's Peak Drive nearby.
 sources:
 - https://en.wikipedia.org/wiki/Hout_Bay
 title: Hout Bay

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Late-baroque church a short walk from the cathedral"
+score: 5.8
 ---
 
 The Chiesa del Purgatorio (officially Sant'Anna) is a small late-baroque church on Via XI Maggio, with an exuberantly carved facade in pale tufo stone. The interior is a single nave with rich stucco work and a series of 18th-century altarpieces.

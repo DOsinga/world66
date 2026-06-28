@@ -16,6 +16,7 @@ tags:
   - sight
 title: Grote Kerk (St Vitus Church)
 type: poi
+score: 8.2
 ---
 
 The late-Gothic church at the centre of the old town, dating from the 15th century. Inside, the vaulted ceiling is covered in painted biblical scenes — a rare survival in a Dutch Reformed church, where iconoclasm usually stripped the walls bare. The Grote Kerk is best known for its annual Easter performances of Bach's St Matthew Passion, a tradition that has made Naarden famous well beyond its size.

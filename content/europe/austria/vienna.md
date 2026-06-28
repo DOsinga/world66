@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-15'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: vienna.jpg
 image_attribution: Flocci Nivis
@@ -11,7 +12,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20250502_B%C3%A4ckerstra%C
 latitude: 48.208354
 loc_type: city
 longitude: 16.372504
-score: 0.88
+score: 9.55
+snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music,
+  and vineyards beyond the suburbs.
 title: Vienna
 type: location
 ---
@@ -24,4 +27,6 @@ The [Innere Stadt](/europe/austria/vienna/innere_stadt) (first district) is the 
 
 Vienna's café culture is as important as its museums. The traditional Viennese café — marble tables, newspapers on wooden holders, unhurried waiters in long aprons — is an institution. [Café Central](/europe/austria/vienna/cafe_central), [Café Hawelka](/europe/austria/vienna/cafe_hawelka), and [Café Landtmann](/europe/austria/vienna/cafe_landtmann) are among the famous ones; just pick any that looks right and settle in for an hour. The coffee is strong and the pastry is not optional.
 
-Vienna takes music more seriously than almost anywhere else. The [Staatsoper](/europe/austria/vienna/staatsoper), the Konzerthaus, and the [Musikverein](/europe/austria/vienna/musikverein) all stage world-class performances year-round. Tickets are expensive but worth planning around; cheaper standing-room tickets are available at the box office on the day. A trip to [Schönbrunn Palace](/europe/austria/vienna/schoenbrunn) on the western edge of the city, or out to the [Prater](/europe/austria/vienna/prater) and its famous ferris wheel, fills out the picture.
+Vienna takes music more seriously than almost anywhere else. The [Staatsoper](/europe/austria/vienna/staatsoper), the Konzerthaus, and the [Musikverein](/europe/austria/vienna/musikverein) all stage world-class performances year-round. Tickets are expensive but worth planning around; cheaper standing-room tickets are available at the box office on the day. A trip to [Schönbrunn Palace](/europe/austria/vienna/schoenbrunn) on the western edge in [Hietzing](/europe/austria/vienna/hietzing), or out to [Leopoldstadt](/europe/austria/vienna/leopoldstadt) for the [Prater](/europe/austria/vienna/prater) and its famous ferris wheel, fills out the picture.
+
+Beyond the centre, Vienna divides into a handful of districts worth a visit in their own right. The [MuseumsQuartier](/europe/austria/vienna/museumsquartier) clusters the city's modern art museums and a sprawling courtyard café scene in the former imperial stables. [Spittelberg](/europe/austria/vienna/spittelberg) is a small pub quarter of Biedermeier houses tucked behind the MQ. And on the northern wine hills, [Grinzing](/europe/austria/vienna/grinzing) is the most famous of the Heuriger villages, where local Gemischter Satz is served in long shared rooms beneath vineyard slopes.

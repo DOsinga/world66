@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_dock_besides_Dongqian_La
 latitude: 29.8667
 loc_type: city
 longitude: 121.55
+score: 7.15
+snippet: Zhejiang port city with treaty-port grit and TianYi Pavilion, China's oldest
+  surviving private library.
 sources:
 - https://en.wikivoyage.org/wiki/Ningbo
 title: Ningbo

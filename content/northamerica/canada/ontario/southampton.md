@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Southampton_Beach.jpg
 latitude: 44.495739
 loc_type: city
 longitude: -81.371584
-score: 0.4
+score: 6.56
+snippet: Lake Huron beach town on the Saugeen River, known for sandy sunsets and cottager
+  ease.
 title: Southampton
 type: location
 ---

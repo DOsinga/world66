@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 40.1710
 longitude: 22.4920
+score: 6.8
 ---
 
 The broader Dion area sits at the junction of the Pierian plain and the lower slopes of Mount Olympus, and the wetlands that surround the ancient site have been designated a protected natural area. The floodplain of the Vaphyras River creates a network of channels, reed beds, and small pools that support a rich birdlife, including herons, egrets, kingfishers, and various waders.

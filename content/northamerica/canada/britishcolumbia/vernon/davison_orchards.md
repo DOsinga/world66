@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.2451
 longitude: -119.3254
+score: 6.9
 ---
 
 Davison Orchards is a working fruit farm about 5 km west of central Vernon that has become one of the area's most popular visitor attractions. The farm grows apples, peaches, cherries, apricots, and pears across 75 acres, and in harvest season (July through October) you can pick your own fruit or buy fresh produce from the farm stand. The apple cider — pressed on site — is excellent.

@@ -11,6 +11,7 @@ tags:
 - museums
 title: Museo de la Huerta
 type: poi
+score: 7.3
 ---
 
 The Museo de la Huerta in Alcantarilla explores the traditional agricultural life of Murcia's huerta -- the irrigated farmland that has shaped the region for centuries. The museum displays tools, clothing, ceramics, and household items from rural families, offering a window into a way of life that is rapidly disappearing.

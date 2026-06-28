@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Lido Theater opened in 1938 on the small Lido Marina Village section of the Newport Boulevard, designed in a Spanish Colonial Revival style with a striking tiled facade and a tall neon-lit marquee. It is one of the few independent cinemas left on the Orange County coast.

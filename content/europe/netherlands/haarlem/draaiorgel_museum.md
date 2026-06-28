@@ -6,6 +6,7 @@ longitude: 4.6394
 tags:
 - things_to_do
 - museum
+score: 7.3
 ---
 
 A small museum dedicated to the Dutch street organ — the ornately decorated barrel organs that have been a fixture of Dutch street life since the 19th century. The collection includes instruments from tiny table-top models to full-sized fairground organs, many in working condition and played during visits.

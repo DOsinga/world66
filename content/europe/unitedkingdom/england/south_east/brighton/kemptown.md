@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.8213
 longitude: -0.1259
+score: 7.7
 ---
 
 Kemptown is Brighton's eastern village: a grid of Regency terraces running back from the seafront that has long been the city's LGBTQ+ neighbourhood. St James's Street is the social spine, with bars, cafes, and independent shops taking up the ground floors of handsome nineteenth-century buildings. Marine Parade overlooks the Channel and has some of the grandest Regency architecture in Brighton.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Roussillon_2025.jpg
 latitude: 43.8972
 loc_type: city
 longitude: 5.2925
-score: 0.62
+score: 8.64
+snippet: Luberon hill village built from ochre cliffs, with facades in yellow, orange,
+  and red.
 title: Roussillon
 type: location
 ---

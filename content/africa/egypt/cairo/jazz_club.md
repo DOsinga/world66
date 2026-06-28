@@ -2,11 +2,12 @@
 address: Midan Sphinx, Mohandiseen
 latitude: 30.058333
 longitude: 31.200556
+score: 7.5
+snippet: Late-night live jazz in Mohandiseen until 3am
 tags:
 - bars_and_cafes
 - bar
 - club
-snippet: Late-night live jazz in Mohandiseen until 3am
 title: The Jazz Club
 type: poi
 ---

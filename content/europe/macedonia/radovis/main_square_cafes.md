@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 41.6398
 longitude: 22.4650
+score: 5.6
 ---
 
 The main square and the streets immediately south of it hold a string of espresso bars and kafanas that operate on the Macedonian café model: open from early morning for thick Turkish-style coffee and burek, busy at noon with workers on lunch breaks, and then busy again from five in the afternoon until late. The pace is unhurried and the expectation is that you will stay a while.

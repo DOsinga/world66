@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 51.8136
 longitude: 4.6644
+score: 7.0
 ---
 
 The Stadhuis is a wide, slightly fussy classical building on the Stadhuisplein, sitting over the Voorstraathaven so that water actually runs under one of its wings. It started life in the 14th century as a cloth hall for the wool merchants, then became the town hall after the 1383 fire that reshaped much of the city. The current frontage is from the 19th century and looks more Parisian than Dutch — pediment, pilasters, balustrade — but the older brick core is visible from the canal side.

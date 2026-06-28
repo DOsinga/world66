@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+score: 6.9
 ---
 
 In a city dominated by Calvinism, the Catholic cathedral feels almost like an oversight. St. Anne's was built between 1721 and 1746 by the Piarist order — a quiet baroque counterpoint to the assertive neoclassical Great Church around the corner. The white-and-gold interior has a fine pulpit by the Tyrolean sculptor Antal Hindelang and a respected pipe organ.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Missouri_-_National_Bank_o
 latitude: 37.950932
 loc_type: city
 longitude: -91.770808
-score: 0.33
+score: 5.84
+snippet: Ozark foothills college town and Missouri S&T home, near trout streams, caves,
+  and forest trails.
 title: Rolla
 type: location
 ---

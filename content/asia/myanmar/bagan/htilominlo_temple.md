@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Htilominlo Temple
 type: poi
+score: 8.5
 ---
 
 Built in 1218, the Htilominlo is one of the last great temples constructed before Bagan's decline. It stands four storeys tall and is notable for its well-preserved stucco decoration on the exterior — most temples have lost their plasterwork to centuries of weathering and earthquake damage. Inside, original wall paintings survive in some of the upper corridors, faded but still legible.

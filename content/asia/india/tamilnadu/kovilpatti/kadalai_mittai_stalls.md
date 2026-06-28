@@ -6,6 +6,7 @@ longitude: 77.8690
 tags:
   - things_to_do
   - shopping
+score: 6.2
 ---
 
 Kovilpatti's main claim on the Tamil culinary map is kadalai mittai — peanut brittle made with jaggery rather than refined sugar. Stalls clustered around the bus stand and along the main bazaar street sell it by weight, in glossy slabs that snap into shards.

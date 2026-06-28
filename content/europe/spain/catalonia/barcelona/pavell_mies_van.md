@@ -1,13 +1,15 @@
 ---
 address: Av. Francesc Ferrer i Guàrdia 7, Parc de Montjuïc
 latitude: 41.3716
-longitude: 2.1500
+longitude: 2.15
 opening_hours: Daily 10am-8pm
 phone: +34 93 423 40 16
-snippet: "Reconstructed 1929 modernist pavilion by Mies van der Rohe"
+score: 8.9
+snippet: Reconstructed 1929 modernist pavilion by Mies van der Rohe
 tags:
 - things_to_do
 - architecture
+- montjuic
 title: Pavelló Mies van der Rohe
 type: poi
 url: www.miesbcn.com

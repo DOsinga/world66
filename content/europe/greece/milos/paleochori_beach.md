@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 36.6717
 longitude: 24.5393
+score: 7.4
 ---
 
 Paleochori is a long beach on the southeast coast of Milos with a geological curiosity that sets it apart from any other beach in the Cyclades: volcanic hot springs seep up through the sand and into the shallow water along the shoreline. If you sit at the water's edge in the right spot you can feel the warm volcanic water rising around your feet, mixing with the cool sea in pockets of unexpected warmth. The temperature varies along the beach; dig a little into the wet sand near the water line and the heat is even more pronounced.

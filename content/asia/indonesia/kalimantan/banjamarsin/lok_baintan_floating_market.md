@@ -13,6 +13,7 @@ story: >
   villagers from up and down the Martapura. Women in conical bamboo hats
   arrive in narrow jukung canoes loaded with their own produce; barter
   rather than rupiah is still common between regulars.
+score: 8.4
 ---
 
 Lok Baintan, on the Martapura River about thirty minutes by boat upstream from Banjarmasin, is the more authentic of the city's two floating markets. Trade begins before sunrise and is over by eight, so most boat trips leave Jalan Pos around 04:30 to catch the action in the soft early light.

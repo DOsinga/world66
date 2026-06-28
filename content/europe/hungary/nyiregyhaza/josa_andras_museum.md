@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.9556
 longitude: 21.7175
+score: 6.9
 ---
 
 The **Jósa András Museum** is the main regional museum of Szabolcs-Szatmár-Bereg county, named after a 19th-century physician and amateur archaeologist who assembled the founding collection. The museum covers archaeology, natural history, and folk culture of the northeastern Hungarian region, with particular strengths in Bronze Age and Iron Age finds from the Nyírség area.

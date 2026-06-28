@@ -8,6 +8,7 @@ tags:
 story: The Mercado Público was built between 1844 and 1869 and has operated continuously ever since, surviving fires, floods, and the complete transformation of the city around it. During the military dictatorship it was one of the few public spaces in the city where people could gather and speak relatively freely; market sellers, it turned out, made reliable lookouts.
 title: Mercado Público Central
 type: poi
+score: 8.9
 ---
 
 The Mercado Público Central is Porto Alegre's most important building after the government palaces — not because of its architecture, though the mid-19th-century neoclassical structure is handsome, but because of its role in the city's daily life. Since 1869 it has been the place where portoalegrenses eat, shop, gossip, and argue. The building occupies a full city block near the waterfront, its four main entrances leading into a labyrinth of more than a hundred permanent stalls selling everything imaginable: fresh produce, meat, seafood, chimarrão equipment, regional food products, leather goods, hardware, and considerably more.

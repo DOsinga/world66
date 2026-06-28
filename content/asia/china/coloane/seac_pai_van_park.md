@@ -10,6 +10,7 @@ longitude: 113.559
 sources:
   - https://en.wikipedia.org/wiki/Seac_Pai_Van_Park
   - https://en.wikipedia.org/wiki/Macao_Giant_Panda_Pavilion
+score: 8.3
 ---
 
 Seac Pai Van Park covers around 20 hectares in the heart of Coloane and holds the distinction of being the largest natural green area in Macau. What was originally farmland was converted into a multipurpose nature park and given protected status in 1981. Within the park, the Natural and Agrarian Museum covers the ecology and agricultural heritage of the island.

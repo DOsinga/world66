@@ -1,200 +1,200 @@
 {
   "round": 588,
-  "timestamp": "2026-04-12T10:38:41",
+  "timestamp": "2026-06-13T19:43:41",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "New Orleans",
-      "path": "northamerica/unitedstates/louisiana/neworleans",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Vwaza Marsh Game Reserve",
+      "path": "africa/malawi/vwaza",
+      "prior_score": -5.1789,
+      "prior_variance": 0.991543,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Philadelphia",
-      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -3.62,
+      "prior_variance": 0.842073,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Niagara Frontier",
-      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
-      "prior_mu": 24.3604,
-      "prior_sigma": 6.2992,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -3.5651,
+      "prior_variance": 1.581335,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Virginia Beach",
-      "path": "northamerica/unitedstates/virginia/virginiabeach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -5.0914,
+      "prior_variance": 0.643496,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Cannon Beach",
-      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
-      "prior_mu": 22.4373,
-      "prior_sigma": 5.3405,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -6.8489,
+      "prior_variance": 1.468984,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Yountville",
-      "path": "northamerica/unitedstates/california/yountville",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2991,
-      "prior_n": 1
-    },
-    {
-      "rank": 7,
-      "title": "Burlington",
-      "path": "northamerica/unitedstates/vermont/burlington",
-      "prior_mu": 22.7731,
-      "prior_sigma": 5.545,
-      "prior_n": 1
-    },
-    {
-      "rank": 8,
-      "title": "Death Valley",
-      "path": "northamerica/unitedstates/california/deserts/deathvalley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 9,
-      "title": "Pictured Rocks",
-      "path": "northamerica/unitedstates/michigan/picturedrock",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 10,
-      "title": "Cincinnati",
-      "path": "northamerica/unitedstates/ohio/cincinnati",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 11,
-      "title": "Panama City",
-      "path": "northamerica/unitedstates/florida/panama_city",
-      "prior_mu": 21.479,
-      "prior_sigma": 3.7822,
-      "prior_n": 3
-    },
-    {
-      "rank": 12,
-      "title": "Palo Alto",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/paloalto",
-      "prior_mu": 22.5582,
-      "prior_sigma": 5.445,
-      "prior_n": 1
-    },
-    {
-      "rank": 13,
-      "title": "Sheboygan",
-      "path": "northamerica/unitedstates/wisconsin/sheboygan",
-      "prior_mu": 21.7663,
-      "prior_sigma": 4.5672,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -6.3502,
+      "prior_variance": 1.09004,
       "prior_n": 2
     },
     {
-      "rank": 14,
-      "title": "Auburn",
-      "path": "northamerica/unitedstates/newyorkstate/auburn",
-      "prior_mu": 22.575,
-      "prior_sigma": 5.9493,
+      "rank": 7,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -6.3407,
+      "prior_variance": 0.902115,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -8.1662,
+      "prior_variance": 1.409132,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -5.6211,
+      "prior_variance": 0.603594,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -5.957,
+      "prior_variance": 0.614533,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -4.7614,
+      "prior_variance": 1.336435,
       "prior_n": 1
     },
     {
+      "rank": 12,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -7.1662,
+      "prior_variance": 0.615876,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -3.9906,
+      "prior_variance": 0.53906,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -6.944,
+      "prior_variance": 0.706667,
+      "prior_n": 2
+    },
+    {
       "rank": 15,
-      "title": "South San Francisco",
-      "path": "northamerica/unitedstates/california/south_san_francisc",
-      "prior_mu": 18.6077,
-      "prior_sigma": 4.8607,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -7.0668,
+      "prior_variance": 0.774195,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Lahaska",
-      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
-      "prior_mu": 22.272,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
-    },
-    {
-      "rank": 17,
-      "title": "Abilene",
-      "path": "northamerica/unitedstates/kansas/abilene",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 18,
-      "title": "Tuscumbia",
-      "path": "northamerica/unitedstates/alabama/tuscumbia",
-      "prior_mu": 21.7838,
-      "prior_sigma": 4.7434,
+      "title": "Carolina",
+      "path": "northamerica/thecaribbean/puertorico/carolina",
+      "prior_score": -4.0593,
+      "prior_variance": 0.824165,
       "prior_n": 2
     },
     {
-      "rank": 19,
-      "title": "Rugby, Tennessee",
-      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
-      "prior_mu": 22.1411,
-      "prior_sigma": 5.8461,
+      "rank": 17,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/paloalto",
+      "prior_score": -3.6926,
+      "prior_variance": 0.821492,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -4.7538,
+      "prior_variance": 1.437693,
       "prior_n": 1
     },
     {
+      "rank": 19,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -3.8577,
+      "prior_variance": 1.021391,
+      "prior_n": 2
+    },
+    {
       "rank": 20,
-      "title": "Newhall",
-      "path": "northamerica/unitedstates/california/losangeles/newhall",
-      "prior_mu": 21.655,
-      "prior_sigma": 4.705,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisco",
+      "prior_score": -7.1657,
+      "prior_variance": 0.720694,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Oologah",
-      "path": "northamerica/unitedstates/oklahoma/oolagah",
-      "prior_mu": 18.0969,
-      "prior_sigma": 3.1798,
-      "prior_n": 4
-    },
-    {
-      "rank": 22,
-      "title": "McAlester",
-      "path": "northamerica/unitedstates/oklahoma/mcalester",
-      "prior_mu": 22.7247,
-      "prior_sigma": 5.5527,
-      "prior_n": 1
-    },
-    {
-      "rank": 23,
-      "title": "Chickasaw",
-      "path": "northamerica/unitedstates/oklahoma/chickasaw",
-      "prior_mu": 21.6,
-      "prior_sigma": 4.8134,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -6.8983,
+      "prior_variance": 0.75988,
       "prior_n": 2
     },
     {
-      "rank": 24,
-      "title": "Buckeye",
-      "path": "northamerica/unitedstates/arizona/buckeye",
-      "prior_mu": 21.0876,
-      "prior_sigma": 3.9765,
+      "rank": 22,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -6.6818,
+      "prior_variance": 0.697055,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_score": -7.5805,
+      "prior_variance": 0.676421,
       "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -8.4494,
+      "prior_variance": 1.187726,
+      "prior_n": 2
     }
   ]
 }

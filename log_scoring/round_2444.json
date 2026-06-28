@@ -1,0 +1,200 @@
+{
+  "round": 2444,
+  "timestamp": "2026-06-13T21:43:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 10.3745,
+      "prior_variance": 0.418353,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 14.2787,
+      "prior_variance": 0.808113,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 10.8449,
+      "prior_variance": 0.371236,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 11.567,
+      "prior_variance": 0.35756,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 9.3317,
+      "prior_variance": 0.321476,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 8.6944,
+      "prior_variance": 0.267951,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 11.0615,
+      "prior_variance": 0.497654,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 5.6976,
+      "prior_variance": 0.268205,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 7.0751,
+      "prior_variance": 0.500001,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 10.8363,
+      "prior_variance": 0.531615,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 8.1063,
+      "prior_variance": 0.332054,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 5.9087,
+      "prior_variance": 0.242112,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Longji Rice Terraces",
+      "path": "asia/china/guangxi/longji",
+      "prior_score": 5.3591,
+      "prior_variance": 0.180008,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 2.8611,
+      "prior_variance": 0.182041,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.114,
+      "prior_variance": 0.200849,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 1.5582,
+      "prior_variance": 0.1828,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 9.0566,
+      "prior_variance": 0.292316,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bear Lake",
+      "path": "northamerica/unitedstates/utah/bearlake",
+      "prior_score": 0.6779,
+      "prior_variance": 0.172552,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 5.285,
+      "prior_variance": 0.209031,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.2644,
+      "prior_variance": 0.158579,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.8253,
+      "prior_variance": 0.161287,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -0.5233,
+      "prior_variance": 0.18108,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -6.6828,
+      "prior_variance": 0.243083,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -6.3164,
+      "prior_variance": 0.308915,
+      "prior_n": 7
+    }
+  ]
+}

@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 37.4315
 longitude: -122.0871
+score: 7.8
 ---
 
 The Rengstorff House, built in 1867, is the oldest surviving house in Santa Clara County and one of the finest examples of Italianate Victorian architecture in the Bay Area. Henry Rengstorff was a German immigrant who made his fortune shipping grain from the bay's southern shore, and the house reflects the prosperity of the era — high ceilings, bay windows, and decorative cornices that would look entirely at home in San Francisco's Painted Ladies district.

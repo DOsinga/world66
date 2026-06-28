@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, hike]
 latitude: 7.9833
 longitude: -7.6000
 story: "Mont Sângbé National Park covers 95,000 hectares of the Monts du Toura range north of Man, between Biankouma and Touba. It was established in 1976 to protect the last significant intact forest in this part of western Ivory Coast. The park contains chimpanzees, elephants, buffaloes, and a large variety of West African birds, but access infrastructure is minimal and visits require preparation."
+score: 6.6
 ---
 
 Mont Sângbé National Park lies north of Biankouma on the road toward Touba, covering 95,000 hectares of the Monts du Toura — a range of hills and forest on the western Sassandra watershed. The park was created in 1976 and encompasses the most significant remaining forest block in this part of the Man region. Wildlife includes chimpanzees, forest elephants, buffaloes, and numerous bird species.

@@ -9,6 +9,7 @@ longitude: -74.41417
 snippet: "New Jersey's tallest lighthouse, open to climb, at the north end of the boardwalk"
 story: >
   When the lighthouse was built in 1857, it was sited to warn ships away from Absecon Shoals, the sandbar that had caused dozens of wrecks over the preceding century. One of the men most responsible for getting it built was George Meade, a US Army engineer who later commanded the Union forces at the Battle of Gettysburg. He designed the lighthouse, supervised its construction, and then went on to rather more famous work.
+score: 7.0
 ---
 
 The tallest lighthouse in New Jersey and one of the most historic in the country stands at the northern end of Atlantic City, a reminder of what this barrier island looked like before the boardwalk and the casinos arrived. Built in 1857, the brick tower rises 56 metres and has 228 steps to the top. When the light was in operation it could be seen 19 nautical miles out to sea.

@@ -1,12 +1,17 @@
 ---
 latitude: 34.9907
 longitude: 135.7585
+score: 7.9
 snippet: One of the two great Jōdo Shinshū head temples, just north of Kyoto Station
-story: When the present main hall was reconstructed in the late 19th century, ordinary rope was not strong enough to haul the timbers — so devotees across Japan donated their hair to be braided into ropes. Several of these *kezuna* survive at the temple, displayed as relics of mass devotion.
+story: When the present main hall was reconstructed in the late 19th century, ordinary
+  rope was not strong enough to haul the timbers — so devotees across Japan donated
+  their hair to be braided into ropes. Several of these *kezuna* survive at the temple,
+  displayed as relics of mass devotion.
 tags:
 - things_to_do
 - temple
 - sight
+- nishiki
 title: Higashi Hongan-ji
 type: poi
 ---

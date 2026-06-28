@@ -9,6 +9,7 @@ tags:
 - sight
 - neighbourhood
 story: "Each jetty was traditionally settled by a single Chinese clan: the Chew Jetty by people surnamed Chew, the Lim Jetty by the Lim family, and so on. Six clan jetties survive today (a seventh, the Koay Jetty, was demolished in 2006), and each still functions as a small village over the water, with its own temple, its own narrow walkway and its own surname over the entrance."
+score: 8.4
 ---
 
 The clan jetties are wooden stilt villages built out over the water on the southern edge of the old town. Hokkien Chinese immigrants in the 19th century, denied land on shore, built houses on stilts above the harbour and clustered by family name — each surname grouped on its own jetty. Six remain, still inhabited, still living as small village communities directly over the tidal water.

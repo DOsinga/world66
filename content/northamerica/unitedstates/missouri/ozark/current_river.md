@@ -7,6 +7,7 @@ snippet: Spring-fed river with reliable summer flow, ideal for multi-day canoe t
 tags:
 - things_to_do
 - sight
+score: 9.0
 ---
 
 The Current is the longer and more reliable of the two rivers in the park. Fed by Welch, Pulltite, Round, Big and a string of smaller springs, it keeps a paddleable flow even at the end of dry summers when most Midwestern rivers run shallow.

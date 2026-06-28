@@ -15,6 +15,7 @@ story: >
   subjects — the pure black timber against the white or grey sky, with the
   lava fields behind and the glacier on the horizon, has become a defining
   image of the peninsula.
+score: 8.0
 ---
 
 Búðir is a small settlement on the south coast of Snæfellsnes, famous for its striking black wooden church and the surrounding lava field (Búðahraun) that extends from the mountains to the sea. The church stands alone on a slight rise above the lava, painted entirely black, with a small churchyard. The surrounding landscape is one of the most evocative on the peninsula — the lava field is ancient enough to be fully colonised by moss, and on misty days the church seems to float in a grey-green world.

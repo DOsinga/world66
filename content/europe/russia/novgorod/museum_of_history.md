@@ -10,6 +10,7 @@ tags:
 - museum
 title: Museum of History, Architecture and Art
 type: poi
+score: 8.2
 ---
 
 Housed within the Kremlin complex, this museum holds a fine collection of icons from the Novgorod School, one of the most distinctive traditions in Russian icon painting spanning the 12th to 16th centuries. The collection also includes decorative arts, manuscripts, and archaeological finds from the region.

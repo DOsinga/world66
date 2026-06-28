@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: Built in 1161-1162 by Ajami of Nakhchivan, the same architect who designed the more famous Momine Khatum Mausoleum, this octagonal brick tomb is the earlier of his two surviving works. The geometric brickwork patterns covering its faces influenced tomb architecture from Anatolia to Iran for centuries afterwards.
+score: 8.0
 ---
 
 The Yusif ibn Kuseyir Mausoleum is one of the oldest surviving works of the great Nakhchivan architect Ajami. Built in 1161-1162, the octagonal brick tower predates his masterpiece, the Momine Khatum, by several decades. Each of its eight faces is covered in a different geometric pattern of laid brick, and the conical roof has largely survived.

@@ -13,6 +13,7 @@ story: >
   Standardised by the Burmese royal court, these weights were used throughout
   the Shan hills for centuries to measure opium, the plateau's main cash crop
   before poppy eradication programmes dramatically reduced cultivation.
+score: 7.2
 ---
 
 Also known as the Taunggyi Museum, this state museum houses a well-curated collection of artefacts from the many ethnic groups of Shan State. The tribal costume displays are among the best of their kind in Myanmar, presenting the distinct textiles and jewellery of the Pa-O, Palaung, Danu, Lahu, Akha, and Shan peoples alongside explanatory panels in Burmese and sometimes English.

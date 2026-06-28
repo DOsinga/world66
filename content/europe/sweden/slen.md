@@ -5,7 +5,9 @@ done:
 latitude: 61.155724
 loc_type: city
 longitude: 13.269409
-score: 0.5
+score: 7.45
+snippet: Dalarna mountain village and Sweden's largest ski destination, also marking
+  the start of the Vasaloppet route.
 title: Sälen
 type: location
 ---

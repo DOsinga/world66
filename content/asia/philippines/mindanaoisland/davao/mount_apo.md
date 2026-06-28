@@ -9,6 +9,7 @@ tags:
 - park
 title: Mount Apo National Park
 type: poi
+score: 9.4
 ---
 
 At 2,954 metres, Mount Apo is the highest mountain in the Philippines and the centrepiece of a national park that spans parts of Davao del Sur and North Cotabato. The summit sits about 40 km west of Davao city and on clear days the views stretch to the Celebes Sea. The mountain is a dormant stratovolcano surrounded by geothermal fields, cloud forest, sulphurous lakes, and hot springs — it is one of the most ecologically diverse areas in the country and home to the Philippine Eagle.

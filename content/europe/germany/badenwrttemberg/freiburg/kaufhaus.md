@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Historisches Kaufhaus
 type: poi
+score: 8.0
 ---
 
 The Historisches Kaufhaus — the blood-red trading hall with its arcaded ground floor — dominates the south side of Münsterplatz. Built between 1520 and 1530, it served as the city's main customs house and merchants' exchange. The facade is lined with the painted figures of Habsburg emperors, reminders of Freiburg's long ties to Austria. Step under the arcade for shade and a close look at the relief work; the interior occasionally hosts exhibitions.

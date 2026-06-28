@@ -5,7 +5,9 @@ done:
 latitude: 53.01813
 loc_type: city
 longitude: -1.732789
-score: 0.45
+score: 6.86
+snippet: Derbyshire market town on the Peak District edge, known for Georgian streets
+  and the Tissington Trail.
 title: Ashbourne
 type: location
 image: ashbourne.jpg

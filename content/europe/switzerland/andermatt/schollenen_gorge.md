@@ -8,6 +8,7 @@ latitude: 46.6475
 longitude: 8.5900
 snippet: Dramatic rocky gorge formed by the Reuss river, with the legendary Devil's Bridge
 story: "According to legend, the villagers of Uri needed a bridge over the gorge but could not build one. They made a pact with the devil: he would build the bridge in exchange for the first soul to cross. They sent a goat across first. The devil, furious, hurled a boulder to destroy the bridge. A woman drew a cross on the boulder as it fell, and it harmlessly split in two. Both halves can be seen beside the road today."
+score: 8.9
 ---
 
 The Schöllenen Gorge is a short, savage canyon that the Reuss has cut through the granite of the Uri Alps between Göschenen and Andermatt. The gorge walls rise vertically above the river, and for most of history this was one of the most formidable natural barriers on the route between northern and southern Europe.

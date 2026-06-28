@@ -8,6 +8,7 @@ tags:
 latitude: 57.8190
 longitude: 28.3365
 snippet: The finest merchant mansion in Pskov, now housing the main icon collection
+score: 8.1
 ---
 
 The Pogankin Chambers are the best example of medieval Pskovian civil architecture that survives intact. Built in the 1670s for a wealthy merchant family, the complex consists of three interconnected stone buildings around a courtyard — heavily buttressed, with small windows set deep in thick walls, designed for both habitation and storage of goods. It is now part of the Pskov State Museum and houses the main icon collection.

@@ -13,6 +13,7 @@ story: >
   de facto national anthem during the resistance against Japan; it became official in 1978.
   Yuxi claims him with considerable pride, and the park is a major civic statement about
   the city's most famous son.
+score: 5.8
 ---
 
 Nie Er Memorial Park occupies a substantial area in central Yuxi and is dedicated to the composer Nie Er, born here in 1912, who wrote what became China's national anthem. The park is a large and well-maintained green space with a central memorial hall, a large bronze statue, and gardens maintained to a civic standard that reflects the local pride in Nie Er's legacy. It functions simultaneously as a public park for Yuxi residents and as a pilgrimage site for Chinese visitors who know the anthem's origin.

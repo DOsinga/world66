@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Great Mill
 type: poi
+score: 7.5
 ---
 
 Built by the Teutonic Knights in the 14th century, the Great Mill was the largest watermill in medieval Europe and ran continuously until 1945. Its 18 pairs of millstones, powered by the Radunia Canal, ground flour for the city for over five centuries. The long red-brick building with its stepped gables is one of Gdansk's most distinctive medieval structures.

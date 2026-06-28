@@ -1,10 +1,11 @@
 ---
 latitude: 1.2915
 longitude: 103.8499
+score: 6.1
 snippet: Tech-focused mall with co-working and rooftop garden
 tags:
-- things_to_do
 - shopping
+- clarke_quay
 title: Funan
 type: poi
 ---

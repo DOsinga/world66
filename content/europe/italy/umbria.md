@@ -5,8 +5,14 @@ latitude: 42.965916
 loc_type: region
 longitude: 12.490236
 score: 0.67
+snippet: Landlocked central Italian region of medieval hill towns, Romanesque churches,
+  and olive groves.
 title: Umbria
 type: location
+image: umbria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Assisi-from-Subasio.jpg
+image_license: Public domain
+image_attribution: Gunnar Bach Pedersen
 ---
 
 Umbria is the only landlocked region of peninsular Italy, a green, hilly country of medieval hilltowns, Romanesque churches, and olive groves. Often called "the green heart of Italy", it sits between Tuscany to the northwest and Lazio to the south and receives far fewer visitors than its neighbours — which is one of its main virtues.

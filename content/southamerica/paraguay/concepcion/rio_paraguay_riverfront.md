@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The passenger-cargo boats that still ply the upper Río Paraguay are among the last working river vessels of their kind in South America. Travelling on one — sleeping in a hammock strung on deck, eating communal meals, watching the caiman-spotted banks slide by — is an experience that has largely disappeared elsewhere on the continent.
+score: 7.3
 ---
 
 The riverfront at Concepción is where the town's identity as a river port comes through most clearly. The Río Paraguay here is wide and brown, lined with camalote (water hyacinth) mats that drift slowly downstream. Fishing boats work the edges, and the occasional larger vessel ties up at the embarcadero.

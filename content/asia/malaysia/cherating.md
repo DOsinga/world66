@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
 latitude: 4.1265
+loc_type: city
 longitude: 103.3925
+score: 7.6
+snippet: Low-key Malaysian beach village of kampung guesthouses, monsoon surf, turtles,
+  and mangrove fireflies.
 title: Cherating
 type: location
-score: 0.5
-loc_type: city
 ---
 
 Cherating is a low-key beach village on the east coast of Peninsular Malaysia, about 75 kilometres north of Kuantan. It was the site of Asia's first Club Med, but the real draw is the laid-back kampung atmosphere — thatched-roof guesthouses, backpacker bars, and a long sandy beach backed by coconut palms. Most guesthouses serve communal dinners at a fixed time, which makes it easy to meet other travellers.

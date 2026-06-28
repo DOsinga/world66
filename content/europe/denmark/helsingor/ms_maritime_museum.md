@@ -8,6 +8,7 @@ latitude: 56.0392
 longitude: 12.6156
 sources:
   - https://en.wikipedia.org/wiki/M/S_Maritime_Museum_of_Denmark
+score: 8.9
 ---
 
 One of the most cleverly designed museums in Scandinavia, the M/S Maritime Museum of Denmark was built inside and around a 19th-century dry dock next to Kronborg Castle. Danish architect Bjarke Ingels (BIG) sank the museum below ground level into the old dock, with a series of ramps and bridges linking the galleries across the dock floor. The dock walls themselves become exhibition space.

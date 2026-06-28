@@ -10,6 +10,7 @@ tags:
 - museum
 title: Anchorage Museum
 type: poi
+score: 9.0
 ---
 
 The state's flagship museum covers Alaska's natural history, indigenous cultures, and art. The gallery of Alaska Native artefacts is extensive and well-presented. Allow two to three hours. Closed Mondays outside summer.

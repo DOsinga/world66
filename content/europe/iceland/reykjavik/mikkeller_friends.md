@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Mikkeller & Friends
 type: poi
+score: 6.9
 ---
 
 The Reykjavik outpost of the Danish craft brewery, on the upper floor of an old downtown building. Twenty taps of Mikkeller and rotating Icelandic guests, a clear no-pretentiousness vibe, and one of the better beer selections in the city.

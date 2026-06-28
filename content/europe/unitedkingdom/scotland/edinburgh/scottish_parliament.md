@@ -1,16 +1,23 @@
 ---
-title: Scottish Parliament
-type: poi
-tags:
-  - things_to_do
-  - old_town
-  - architecture
-  - sight
 address: Horse Wynd, Edinburgh EH99 1SP
 latitude: 55.9518
-longitude: -3.1750
-story: >
-  The building was designed by Catalan architect Enric Miralles, who died in 2000, two years before it opened. The design is notoriously unusual — leaves, boats, upturned fishing vessels, the landscapes of the Pentland Hills — all folded into a building that sits at the foot of Salisbury Crags. Miralles described it as "a building that grows from the ground." The Scottish Parliament voted to use the Miralles design in a competitive process, over cheaper and more conventional alternatives.
+longitude: -3.175
+score: 8.1
+story: 'The building was designed by Catalan architect Enric Miralles, who died in
+  2000, two years before it opened. The design is notoriously unusual — leaves, boats,
+  upturned fishing vessels, the landscapes of the Pentland Hills — all folded into
+  a building that sits at the foot of Salisbury Crags. Miralles described it as "a
+  building that grows from the ground." The Scottish Parliament voted to use the Miralles
+  design in a competitive process, over cheaper and more conventional alternatives.
+
+  '
+tags:
+- things_to_do
+- oldtown
+- architecture
+- sight
+title: Scottish Parliament
+type: poi
 ---
 
 The Scottish Parliament building, opened in 2004, is one of the most discussed works of contemporary architecture in Britain. The building by Enric Miralles is deliberately complex — abstract leaf shapes, cantilevered concrete, irregular windows with a distinctive cross-section profile that appears on the MSP offices facing Canongate. It is polarising: some find it brilliant, others merely baffling. Either way, it is worth seeing up close.

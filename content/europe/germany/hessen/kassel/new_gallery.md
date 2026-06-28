@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.3103
 longitude: 9.495
+score: 7.8
 ---
 
 The **Neue Galerie** picks up where the Wilhelmshöhe Picture Gallery's Old Masters leave off — its collection runs from the 18th century through to the present. The strongest sections are German Romantics, late-19th-century realists, the **Expressionists** (Beckmann is a particular strength), and contemporary art including key works from past documentas.

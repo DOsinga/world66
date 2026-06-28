@@ -10,6 +10,7 @@ longitude: 20.920667
 story: "Al-Mnaykhrat is a small site, but its late sixth-century BC date pulls El Merj back into the earliest Greek presence in Cyrenaica. It is the kind of place that rewards travellers who like the quiet margins of famous histories."
 sources:
   - https://en.wikipedia.org/wiki/Al-Mnaykhrat
+score: 6.0
 ---
 
 Al-Mnaykhrat is a Greek rock-cut tomb southeast of El Merj. It is not a major tourist monument, but it is a valuable archaeological trace of the wider landscape around ancient Barca.

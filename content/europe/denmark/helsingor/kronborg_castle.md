@@ -14,6 +14,7 @@ story: >
   himself almost certainly never visited.
 sources:
   - https://en.wikipedia.org/wiki/Kronborg
+score: 9.7
 ---
 
 Kronborg is one of the most important Renaissance castles in northern Europe and a UNESCO World Heritage Site. Built in the 1570s on the narrowest point of the Øresund strait, it commanded the Sound Dues — the toll all ships passing between the North Sea and the Baltic were required to pay Denmark for over four centuries. The income made Denmark one of the wealthiest kingdoms in Europe.

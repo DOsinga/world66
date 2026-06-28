@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.7163
 longitude: 35.7944
+score: 6.5
 ---
 
 The Madaba Museum (sometimes called the Folklore Museum) occupies a sequence of restored traditional houses just north of the Archaeological Park. As well as more mosaic floors moved here from sites across the governorate, it has a good ethnographic collection: traditional costumes, Bedouin tents, jewellery, agricultural tools, and reconstructed nineteenth-century domestic interiors.

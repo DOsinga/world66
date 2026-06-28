@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Vecliep%C4%81ja
+score: 8.0
 ---
 
 Vecliepāja is the oldest and largest district in Liepāja, stretching south of the city centre along the lakeside. The streets here are lined with wooden houses — some elaborately decorated, many in need of paint — that date from the 18th and 19th centuries, when Liepāja was a prosperous merchant city trading with Germany, Sweden, and Russia.

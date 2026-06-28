@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.6
 ---
 
 Bayamón's city hall is one of the more unusual municipal buildings in Puerto Rico — a long structure that straddles Calle Degetau, with a covered passageway running underneath. The current building dates from the 1950s and has been remodelled several times, most recently to add the bridge-like span over the street.

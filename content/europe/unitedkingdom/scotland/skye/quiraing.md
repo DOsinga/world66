@@ -4,7 +4,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 57.6353
 longitude: -6.2827
+score: 9.3
 snippet: Dramatic landslip landscape with rock towers and plateau walks
+tags:
+- things_to_do
+- sight
+- hiking
+- landscape
 title: Quiraing
 type: poi
 ---

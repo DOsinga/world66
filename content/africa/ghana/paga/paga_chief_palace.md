@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.9880
 longitude: -1.1120
+score: 6.5
 ---
 
 The traditional compound of the Nakore chief stands near the main crocodile pond and is itself worth a look. It is built in the round, flat-roofed mud style characteristic of the Upper East Region, with painted geometric patterns on the exterior walls — the bold black-and-white or ochre designs that define Kassena and Nankani domestic architecture across this part of northern Ghana and southern Burkina Faso.

@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Shangri-La Dim Sum
 type: poi
+score: 5.8
 ---
 
 A Hat Yai institution where the steamer trolleys start rolling out at six in the morning and the place stays packed through lunchtime. The dim sum is broadly Cantonese but heavier on the southern Thai pork and shrimp combinations than you would find in Hong Kong. Try the salted-egg buns, the pork siu mai, and the deep-fried prawn rolls.

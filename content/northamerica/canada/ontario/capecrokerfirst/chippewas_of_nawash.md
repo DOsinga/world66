@@ -8,6 +8,7 @@ tags:
 - sight
 title: Chippewas of Nawash First Nation
 type: poi
+score: 5.8
 ---
 
 The Chippewas of Nawash Unceded First Nation (Neyaashiinigmiing Anishinaabek) have lived on the Bruce Peninsula since long before European settlement. The reserve was never ceded — the Nawash signed Treaty 72 in 1857 under significant pressure, but the legal status of their land and fishing rights remained disputed for well over a century.

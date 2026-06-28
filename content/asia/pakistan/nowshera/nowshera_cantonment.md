@@ -8,6 +8,7 @@ tags:
 - sight
 title: Nowshera Cantonment
 type: poi
+score: 6.7
 ---
 
 Across the Kabul river from the civilian town, the cantonment is a separate planned settlement of leafy avenues, parade grounds, and stone bungalows dating from the British military occupation of the mid-19th century. It still functions as the headquarters of an active Pakistan Army division and access is regulated, but the public roads through it remain the most pleasant part of greater Nowshera to walk.

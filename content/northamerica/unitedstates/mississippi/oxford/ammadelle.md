@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 Ammadelle is an Italianate mansion built around 1859 on North Lamar Boulevard and one of the most photographed houses in north Mississippi. Designed by the Memphis architect Calvert Vaux (who would later design Central Park in New York), the house is a near-perfect example of mid-19th-century Tuscan villa style transplanted to the Mississippi Delta — square tower, asymmetrical wings, arched windows, ornate brackets.

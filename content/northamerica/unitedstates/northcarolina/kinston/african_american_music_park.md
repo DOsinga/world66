@@ -5,6 +5,7 @@ latitude: 35.2625
 longitude: -77.5825
 snippet: "Outdoor monument to Kinston's pioneering funk musicians, including members of Parliament-Funkadelic"
 tags: [things_to_do, sight]
+score: 7.1
 ---
 
 Kinston produced a surprising number of pioneering Black musicians, including members of George Clinton's Parliament-Funkadelic and Maceo Parker, the saxophone player who anchored James Brown's band. The African American Music Park, a small plaza in downtown, recognises this heritage with markers and a sculpture trail along the Lenoir County African American Music Trail.

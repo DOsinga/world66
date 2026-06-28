@@ -11,6 +11,7 @@ story: >
   Leatherback turtles, the largest reptiles on earth, weigh up to 900 kg and have been crossing the same
   beaches at Gandoca for an estimated 65 million years. The females that nest here navigate by the Earth's
   magnetic field — each one returning to within a few hundred metres of the beach where she herself was born.
+score: 8.4
 ---
 
 The Gandoca-Manzanillo Wildlife Refuge covers the southernmost stretch of Costa Rica's Caribbean coast, protecting beaches, coral reefs, mangroves, and lowland forest in a single block that runs almost to the Panamanian border. The village of Manzanillo marks the practical end of the road, beyond which a coastal trail continues through the refuge to Punta Mona — a three-hour walk each way through increasingly wild jungle.

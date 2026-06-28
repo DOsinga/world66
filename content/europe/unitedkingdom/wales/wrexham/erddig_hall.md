@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Erddig
   - https://www.nationaltrust.org.uk/visit/wales/erddig
+score: 8.8
 ---
 
 Erddig is a late 17th-century country house on the southern outskirts of Wrexham, now owned by the National Trust and one of the most compelling historic houses in Wales. Built for Josiah Edisbury in 1687 and later acquired by the Yorke family, who held it until 1973, the house is remarkable not so much for its grand rooms — though the state rooms are handsomely furnished — as for what it preserves of ordinary domestic life.

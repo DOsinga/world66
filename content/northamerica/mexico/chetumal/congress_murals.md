@@ -6,6 +6,7 @@ longitude: -88.2960
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 Inside the state legislature on Avenida 22 de Enero is a remarkable cycle of murals telling the history of Quintana Roo from pre-Columbian times to the present. Quintana Roo is Mexico's youngest state — it only became a full state in 1974 — so this is also a young history, dominated by chicleros (chewing-gum sappers), the Caste War of the Yucatán, and the early twentieth-century expansion that brought settlers down from the rest of Mexico.

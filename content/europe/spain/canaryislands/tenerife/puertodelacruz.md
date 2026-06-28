@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-22'
 image: puertodelacruz.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Faro,_Puerto_de_la_Cruz,_Tenerife,_Espa%C3%B1a,_2012-12-13,_DD_01.jpg
-image_license: CC BY-SA 3.0
 image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Faro,_Puerto_de_la_Cruz,_Tenerife,_Espa%C3%B1a,_2012-12-13,_DD_01.jpg
 latitude: 28.4159
 loc_type: city
 longitude: -16.5533
-score: 0.64
+score: 8.76
+snippet: Northern Tenerife resort town with a Canarian old harbour below the Orotava
+  valley and Mount Teide.
 title: Puerto de la Cruz
 type: location
 ---

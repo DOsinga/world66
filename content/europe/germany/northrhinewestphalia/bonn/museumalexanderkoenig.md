@@ -14,6 +14,7 @@ tags:
 - museum
 title: Museum Alexander Koenig
 type: poi
+score: 7.8
 ---
 
 A zoological research institution and natural history museum at the northern end of Bonn's Museumsmeile. The highlight is the immersive savannah diorama on the ground floor — life-sized elephants, lions, and giraffes arranged in a recreation of the African plains that feels surprisingly convincing for a building on the Rhine.

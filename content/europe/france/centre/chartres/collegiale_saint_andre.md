@@ -1,5 +1,9 @@
 ---
-snippet: A Romanesque church on the Eure, partly ruined, that hosts exhibitions and outdoor events
+latitude: 48.4502
+longitude: 1.4899
+score: 6.5
+snippet: A Romanesque church on the Eure, partly ruined, that hosts exhibitions and
+  outdoor events
 tags:
 - things_to_do
 - landmark

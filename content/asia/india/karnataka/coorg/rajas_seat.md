@@ -8,6 +8,7 @@ tags:
   - sight
   - viewpoint
 snippet: "Cliff-edge garden in Madikeri where the Kodava rajas watched the sunset."
+score: 6.4
 ---
 
 Raja's Seat is a small terraced garden on the western edge of Madikeri, where the ground drops away into a sea of forested hills. The Kodava rulers reputedly came here to watch the sun set behind the Western Ghats — the same view is still the main attraction, framed by manicured flower beds and a stubby brick pavilion.

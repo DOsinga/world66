@@ -14,6 +14,7 @@ tags:
 - sight
 title: San Pedro Prison
 type: poi
+score: 5.5
 ---
 
 San Pedro Prison occupies a large block in the neighbourhood of the same name, about fifteen minutes' walk south of Plaza Murillo. From outside it looks like what it is: a high-walled compound with a gate and guards. What you cannot see from the street is the internal life — the families who lived inside with inmates for years, the restaurants and shops operating in the courtyards, the real estate market for cells, with better accommodation costing more per month. The internal economy was not a metaphor or a journalist's simplification; it was the literal operating system of the prison.

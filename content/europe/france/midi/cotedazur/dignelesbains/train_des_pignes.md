@@ -13,6 +13,7 @@ story: >
   story that passengers collected fallen pine cones from the trackside to
   throw into the locomotive's firebox when the coal ran low. The steam version
   of the train still runs on summer weekends as a heritage service.
+score: 8.1
 ---
 
 The Train des Pignes is a narrow-gauge railway that connects Digne-les-Bains to Nice, winding 150 kilometres through mountain valleys, gorges, and high plateaux that no other line reaches. The journey takes about three and a half hours on the modern diesel trains that run the regular service, and the scenery through the Gorges du Verdon approaches and the high Var valley is as dramatic as any rail journey in France.

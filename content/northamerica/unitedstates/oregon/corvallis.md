@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Benton_County_Courthouse_G
 latitude: 44.564566
 loc_type: city
 longitude: -123.262044
-score: 0.4
+score: 6.79
+snippet: Willamette Valley university city with a walkable brick downtown and Oregon
+  State campus energy
 title: Corvallis
 type: location
 ---

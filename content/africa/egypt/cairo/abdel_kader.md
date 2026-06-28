@@ -5,9 +5,13 @@ done:
 latitude: 30.059407
 longitude: 31.223722
 phone: +20 2 7359640
+score: 4.8
+snippet: No-frills late-night bar on 26th July Street, open until 4am and popular
+  with locals
 tags:
 - bars_and_cafes
 - bar
+- zamalek
 title: Abdel Kader
 type: poi
 ---

@@ -10,6 +10,7 @@ latitude: 37.9747
 longitude: -92.7694
 sources:
   - https://en.wikipedia.org/wiki/Ha_Ha_Tonka_State_Park
+score: 8.6
 ---
 
 One of Missouri's most unusual parks, Ha Ha Tonka sits on a dramatic stretch of karst terrain — sinkholes, caves, natural bridges, and springs — about 15 miles southwest of Camdenton. The park takes its name from a Osage phrase meaning "laughing waters."

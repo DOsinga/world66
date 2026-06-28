@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2013_Wat_Phra_Si_Rattana_M
 latitude: 16.8158
 loc_type: city
 longitude: 100.2636
-score: 0.48
+score: 7.52
+snippet: Northern Thai provincial city on the Nan River, centered on Wat Yai and King
+  Naresuan history
 title: Phitsanulok
 type: location
 ---

@@ -13,6 +13,7 @@ story: >
   fort's supply routes, making Fort Whipple the seed from which the entire city grew.
 sources:
   - https://en.wikipedia.org/wiki/Fort_Whipple,_Arizona
+score: 7.0
 ---
 
 Fort Whipple was established in 1863 as the first United States Army post in what is now Arizona. It was built to protect settlers in the territory and to provide a base for campaigns against the Apache and Yavapai peoples. The fort served as the seat of the Arizona Territorial government in 1864, and the city of Prescott grew from the civilian settlement that gathered around it.

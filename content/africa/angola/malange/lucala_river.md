@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: -9.0833
 longitude: 16.0
+score: 5.8
 ---
 
 The Lucala is the main river of the province, a tributary of the Kwanza, and the water that goes over Kalandula Falls. It winds through the western half of the Malanje plateau, broad and shallow in the dry season, fierce and brown after the rains.

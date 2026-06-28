@@ -11,9 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Lome_Beach_Togo_1.jpg
 latitude: 6.1304
 loc_type: city
 longitude: 1.2158
-score: 0.38
+score: 6.41
 title: Lome
 type: location
+snippet: Lomé is Togo’s coastal capital, known for its markets, voodoo heritage, and
+  compact city centre.
 ---
 
 Lomé is one of West Africa's most approachable capitals. It is small enough to walk across, set right on the coast with sandy [beaches](/africa/togo/lome/lome_beach) stretching from the city centre, and carries the relaxed energy of a town that has never quite tried to be anything other than itself. The [Grand Marché](/africa/togo/lome/grand_marche) dominates the commercial heart of the city, a sprawling market run almost entirely by women — the famous Nana Benz — where you can find everything from Dutch wax prints to traditional medicines.

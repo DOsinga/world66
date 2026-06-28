@@ -7,6 +7,7 @@ tags:
   - italian
 latitude: 35.6265
 longitude: -120.6911
+score: 7.0
 ---
 
 Il Cortile is an Italian restaurant on the downtown square that has built a following on the strength of its housemade pasta and straightforward wine list. The room is warm and close, the kind of place where tables are near enough together that conversations spill across them. Portions are generous.

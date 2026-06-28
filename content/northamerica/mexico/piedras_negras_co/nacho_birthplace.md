@@ -16,6 +16,7 @@ story: >
   of Piedras Negras has embraced it so fully that they hold an International
   Nacho Festival every October. The International Nacho Day on November 6th
   is also attributed to Piedras Negras.
+score: 5.1
 ---
 
 A bronze statue in the city centre commemorates Ignacio Anaya and his accidental culinary invention. The statue shows Anaya holding a plate of nachos, and it attracts a steady trickle of visitors who want a photograph with the man who fed the world's sports bars and cinema lobbies. The location is on Avenida Zaragoza near the central plaza.

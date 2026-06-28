@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-17'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: berlin.jpg
 image_attribution: Norbert Nagel
@@ -10,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Branden
 latitude: 52.517389
 loc_type: city
 longitude: 13.395131
-score: 0.75
+score: 9.29
+snippet: German capital where Wall remnants, monumental landmarks, and creative districts
+  share the urban fabric.
 title: Berlin
 type: location
 ---

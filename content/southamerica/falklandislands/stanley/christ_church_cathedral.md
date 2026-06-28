@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Christ Church Cathedral
 type: poi
+score: 7.8
 ---
 
 The southernmost Anglican cathedral in the world, a modest brick and stone building with a green roof, completed in 1892 on the shore of Stanley Harbour. Despite its small size — it would be a parish church in any English town — it serves the entire diocese of the Falklands, South Georgia, and the South Sandwich Islands.

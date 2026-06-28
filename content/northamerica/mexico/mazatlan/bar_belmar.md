@@ -9,6 +9,7 @@ tags:
   - olas_altas
 neighbourhood: Olas Altas
 snippet: "Faded grand bar of the 1923 Olas Altas hotel, with sea views"
+score: 6.4
 ---
 
 The Belmar opened in 1923 as the first international-class hotel in Mazatlan, and most of the cinema stars and writers who passed through in the city's mid-century heyday stayed here — John Wayne, Tyrone Power, John Huston when he was filming on the coast. The bar at the front of the hotel still looks roughly as it did in the 1940s: heavy wood, mirrors, tile floors, and a terrace looking out across Olas Altas to the Pacific.

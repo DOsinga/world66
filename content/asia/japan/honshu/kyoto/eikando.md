@@ -1,11 +1,14 @@
 ---
 latitude: 35.0149
 longitude: 135.7951
-snippet: Higashiyama temple with a famous backwards-looking Amida and exceptional autumn maples
+score: 8.4
+snippet: Higashiyama temple with a famous backwards-looking Amida and exceptional
+  autumn maples
 tags:
 - things_to_do
 - temple
 - sight
+- philosophers_walk
 title: Eikan-dō Zenrin-ji
 type: poi
 ---

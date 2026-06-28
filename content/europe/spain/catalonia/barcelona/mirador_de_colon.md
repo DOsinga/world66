@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.3757
 longitude: 2.1774
+score: 7.2
 snippet: 60-metre Columbus column with panoramic viewing gallery
 tags:
 - things_to_do
 - sights
+- gothic_quarter
 title: Mirador de Colón
 type: poi
 ---

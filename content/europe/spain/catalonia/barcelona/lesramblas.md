@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.3809
 longitude: 2.1734
+score: 8.3
 snippet: Barcelona's famous tree-lined promenade from sea to square
 tags:
 - things_to_do
 - sights
+- gothic_quarter
 title: Les Ramblas
 type: poi
 ---

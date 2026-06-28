@@ -8,6 +8,7 @@ tags:
 latitude: 20.2264
 longitude: 105.9394
 snippet: "Three-tiered cave pagoda on a limestone cliff near Tam Coc, dating from 1428"
+score: 7.8
 ---
 
 Bich Dong — "Green Pearl Grotto" — is a pagoda complex built into and onto a limestone cliff about 2 kilometres from the Tam Coc boat dock. Founded in 1428 under the Le dynasty, it comprises three separate pagoda buildings: the Lower (Ha), Middle (Trung), and Upper (Thuong) temples, each at a higher elevation on the cliff face.

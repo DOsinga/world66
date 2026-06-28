@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 23.1583
 longitude: 105.4042
+score: 8.6
 ---
 
 The Nho Que River runs at the base of the Ma Pi Leng canyon, several hundred metres below the road that traverses the pass above. The water is an extraordinary shade of turquoise-green, the product of mineral runoff from the limestone bedrock, and the colour intensifies during the dry season when the river runs shallow and clear. From the road above, the river is a thin bright thread at the bottom of a vertical gorge; from the river itself, the walls feel almost suffocating.

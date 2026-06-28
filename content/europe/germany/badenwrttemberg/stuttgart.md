@@ -10,7 +10,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz
 latitude: 48.778449
 loc_type: city
 longitude: 9.180013
-score: 0.55
+score: 7.97
+snippet: Swabian capital set in a vineyard-lined bowl, home to Mercedes-Benz and Porsche
 title: Stuttgart
 type: location
 ---

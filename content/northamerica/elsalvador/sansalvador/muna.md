@@ -12,6 +12,7 @@ story: >
   construction, its carvings face-down so that the Spanish colonists who used it
   did not realise what they were standing on. Its survival was entirely
   accidental.
+score: 8.4
 ---
 
 The Museo Nacional de Antropología David J. Guzmán (MUNA) in the Colonia San Benito neighbourhood west of the centre is the best museum in El Salvador. The collection covers pre-Columbian cultures of the region — including the Pipil, Lenca, Maya, and earlier civilizations — with good displays of ceramics, jade, obsidian tools, and funerary objects. There is also a section on the colonial period and early independence.

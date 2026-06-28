@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museum of Khövsgöl Province
 type: poi
+score: 6.9
 ---
 
 The provincial museum, a single-storey building on the central square. Three rooms: a natural-history section with stuffed birds and a Lake Khövsgöl bathymetric model; an ethnography room with Buryat and Darkhad costumes, shaman's drums and the gear of a Tsaatan reindeer herder; and an archaeological room with finds from the Bronze Age deer-stone sites that surround Mörön.

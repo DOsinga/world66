@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 55.1716
 longitude: -118.8076
+score: 7.2
 ---
 
 Muskoseepi — Cree for "bear creek" — is the long green spine that runs north to south through the centre of Grande Prairie, following Bear Creek for more than 400 hectares. It is the city's signature recreational space, with paved and gravel trails for walking and cycling, a small lake and pavilion at the south end, picnic areas, playgrounds, and outdoor sports facilities scattered along its length.

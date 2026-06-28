@@ -11,6 +11,7 @@ story: >
   Farnese. When the Cardinal's collection moved to Naples with the Bourbon
   dynasty, the picture came too. Napoleon stole it in 1799; it was returned
   after Waterloo. It has left Naples only twice since.
+score: 8.8
 ---
 
 The Bourbon royal palace at Capodimonte, north of the city centre, houses one of the great Italian art collections. The paintings span the thirteenth to the eighteenth century and include major works by Titian, Caravaggio, Raphael, and Simone Martini. The Caravaggio flagellation scene, originally painted for a Neapolitan church, is one of the museum's central works.

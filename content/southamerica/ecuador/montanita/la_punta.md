@@ -9,6 +9,7 @@ tags:
 latitude: -1.8354
 longitude: -80.7564
 snippet: "Montañita's main surf break at the point, consistent left-handers"
+score: 8.6
 ---
 
 La Punta is the headland at the southern end of Montañita's beach and the best surf spot on this stretch of the Ecuadorian coast. The break produces consistent left-hand waves that work on a variety of swell directions — best between December and April when swells from the northwest push in and the water is warmer. The right-hand reef break further down the beach is better for beginners.

@@ -11,9 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:FlorenceSkyline.jpg
 latitude: 43.769796
 loc_type: city
 longitude: 11.25564
-score: 0.92
+score: 9.95
 title: Florence
 type: location
+snippet: Tuscan city on the Arno, packed with Renaissance art, Medici palaces, and
+  the Duomo.
 ---
 
 Florence is a small city with an outsized claim on Western civilization. In the 15th and 16th centuries, the Medici-funded Renaissance concentrated more art and architecture here than almost anywhere else on earth, and the results are still on view in a compact historic centre that you can walk across in twenty minutes. The [Uffizi Gallery](/europe/italy/tuscany/florence/uffizi_gallery) holds the world's greatest collection of Renaissance painting. The [Galleria dell'Accademia](/europe/italy/tuscany/florence/galleria_dellaccademia) has Michelangelo's David. The [Duomo](/europe/italy/tuscany/florence/duomo_florence), designed by Brunelleschi with an engineering audacity that was unmatched for a century, still dominates the skyline. The [Baptistery](/europe/italy/tuscany/florence/baptistery) opposite it has Ghiberti's Gates of Paradise and a mosaic ceiling of ten million tesserae.

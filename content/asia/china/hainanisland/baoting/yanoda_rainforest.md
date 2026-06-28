@@ -12,6 +12,7 @@ story: >
   rainforest in Hainan's highland interior. The Li people who inhabit these hills
   have been gathering medicinal plants, rattan, and timber here for generations —
   the marked hiking trails follow paths that existed long before the tourism infrastructure arrived.
+score: 8.3
 ---
 
 Yanoda Rainforest Cultural Tourism Zone is the better of Baoting's two major attractions, and one of the more convincing rainforest experiences in Hainan. The core attraction is a 40-minute to one-hour hike through a forested valley of substantial trees — some several hundred years old — with a stream running through the gorge and occasional waterfalls. The secondary forest has had decades to recover and feels genuinely dense in stretches, even if the entrance plaza with its shuttle buses and souvenir stalls is unmistakably a managed park.

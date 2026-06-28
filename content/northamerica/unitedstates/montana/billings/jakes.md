@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Jake's Downtown
 type: poi
+score: 5.6
 ---
 
 One of the most popular steakhouses in Billings, known for well-prepared cuts and a straightforward menu. Also serves sandwiches and burgers at lunch. Reservations accepted. 2701 1st Avenue North.

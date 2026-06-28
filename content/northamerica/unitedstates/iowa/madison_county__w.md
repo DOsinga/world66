@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Madison_County_Courthouse_
 latitude: 41.335189
 loc_type: city
 longitude: -94.016041
-score: 0.4
+score: 6.78
 title: Madison County & Winterset
 type: location
+snippet: Iowa county and Winterset base known for covered bridges scattered through
+  rolling farmland south of Des Moines.
 ---
 
 Madison County is famous for its six covered bridges, made even more so by the novel and film *The Bridges of Madison County*. The bridges — [Roseman](/northamerica/unitedstates/iowa/madison_county__w/roseman_bridge), [Cedar](/northamerica/unitedstates/iowa/madison_county__w/cedar_bridge), [Holliwell](/northamerica/unitedstates/iowa/madison_county__w/holliwell_bridge), [Hogback](/northamerica/unitedstates/iowa/madison_county__w/hogback_bridge), [Imes](/northamerica/unitedstates/iowa/madison_county__w/imes_bridge), and [Cutler-Donahoe](/northamerica/unitedstates/iowa/madison_county__w/cutler_donahoe_bridge) — are scattered across the rolling farmland south of Des Moines and can be visited by car in a half-day loop, or by bus tour during the annual Covered Bridge Festival in October, when the town of Winterset celebrates the harvest with food, crafts and bridge tours.

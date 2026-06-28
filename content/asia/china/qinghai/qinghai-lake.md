@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Qinghai_Lake_2016.jpg
 latitude: 36.89
 loc_type: feature
 longitude: 100.19
+score: 8.23
+snippet: High-altitude salt lake encircled by Tibetan grassland, fierce light, and
+  China's classic cycling circuit.
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai_Lake
 title: Qinghai Lake

@@ -9,6 +9,7 @@ tags:
   - eating_out
   - shopping
 story: "Don Guerra's bakery uses White Sonora and other heritage grains that have been grown in the Santa Cruz valley for hundreds of years and were nearly lost. The 2022 James Beard Award for Outstanding Baker — his second nomination, third win in some category — recognised both the bread and the supply chain he rebuilt with local farmers."
+score: 6.6
 ---
 
 Barrio Bread is a small neighbourhood bakery on the east side of Tucson that has done more than anywhere to revive local heirloom wheats. The breads — country loaves, focaccia, the Heritage Wheat baguette — are made from grains grown within a hundred miles. Buy a loaf and you taste the entire ecology of the Santa Cruz valley.

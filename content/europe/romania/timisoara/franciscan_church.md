@@ -6,6 +6,7 @@ longitude: 21.2269
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Franciscan Church (Biserica Franciscana) on Marasesti Street is a small late-Baroque church completed in 1733, one of the first ecclesiastical buildings the Habsburgs put up in the city after taking it from the Ottomans in 1716. The plain stuccoed exterior contrasts with the densely decorated interior, with painted vaulted ceilings, a high gilded main altar, and several side chapels.

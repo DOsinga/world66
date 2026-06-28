@@ -8,6 +8,7 @@ tags:
 - sight
 title: Krambatangi Ferry Terminal
 type: poi
+score: 5.8
 ---
 
 Krambatangi is the ferry terminal for Suðuroy, located on the southern shore of Trongisvágsfjørður about two kilometres from Tvøroyri by road. The Smyril ferry runs several times daily to Tórshavn, with the crossing taking around two hours — one of the longer inter-island routes in the Faroes, and one of the more atmospheric. The ferry passes through the mouth of the fjord and out across open water, with views of Suðuroy's cliffs from the sea that you don't get from land.

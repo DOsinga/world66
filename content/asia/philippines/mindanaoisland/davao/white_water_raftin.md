@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: White Water Rafting
 type: poi
+score: 7.8
 ---
 
 White water rafting on the Davao River offers Class II to IV rapids through lush tropical scenery. The most popular stretch runs through the municipality of Calinan, about 30 km from the city centre. Trips typically take two to three hours and pass through narrow gorges flanked by dense vegetation, with calm stretches between the rapids where you can take in the surrounding hills.

@@ -8,6 +8,7 @@ latitude: 32.9170
 longitude: 117.3890
 story: >
   The Shuangdun pottery shards in the museum's collection are among the oldest examples of symbolic writing ever found in China. The spirals, crosses, and abstract marks incised on vessels dating to around 5000 BCE have fueled decades of debate about whether they represent a proto-writing system or purely decorative patterning — the question remains unresolved.
+score: 8.7
 ---
 
 The Bengbu Museum, housed in a modern building at Civic Plaza, holds the most important collection of regional archaeology between Nanjing and Zhengzhou. Its centerpiece is the Shuangdun culture — a Neolithic civilization unique to this section of the Huaihe valley, distinguished by pottery decorated with incised geometric and symbolic markings that have no close parallels elsewhere in prehistoric China.

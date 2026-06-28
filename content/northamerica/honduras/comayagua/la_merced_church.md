@@ -7,6 +7,7 @@ tags:
 - church
 title: La Merced Church
 type: poi
+score: 7.8
 ---
 
 Built in 1550, La Merced is the oldest surviving church in Comayagua and one of the oldest in Honduras. The construction predates the cathedral by over 150 years and reflects the earliest phase of Spanish colonial building in Central America — simpler and more austere than the baroque grandeur that came later. The church served as Comayagua's first cathedral before the current cathedral was built.

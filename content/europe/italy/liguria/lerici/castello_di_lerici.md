@@ -15,6 +15,7 @@ story: >
   The final arbitration came in 1256 when Genoa decisively defeated Pisa at the
   naval Battle of Meloria — and Lerici, along with most of the Ligurian coast,
   stayed Genoese for the next two centuries.
+score: 8.0
 ---
 
 The Castello di Lerici sits on the rocky promontory at the eastern edge of town, dominating the harbour from above. Built in the 13th century and expanded through the 16th, the castle is a layered structure — defensive towers, internal courtyards, and a chapel of Sant'Anastasia whose original mosaics are still partially intact.

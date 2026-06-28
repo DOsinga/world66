@@ -7,6 +7,7 @@ tags:
 latitude: 34.0145
 longitude: -118.4905
 snippet: "Wood-fired small plates in a warm room on Santa Monica Boulevard — excellent for sharing"
+score: 7.3
 ---
 
 Tar & Roses on Santa Monica Boulevard centres its menu on a wood-burning oven and grill, cooking vegetables, meats, and fish with the attention to char and smoke that open-fire cooking demands. The format is small plates designed for sharing, and the kitchen handles roasted and braised things particularly well. The room is warm and not overstyled, the wine list California-focused and reasonably priced.

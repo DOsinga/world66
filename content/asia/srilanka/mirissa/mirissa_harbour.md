@@ -6,6 +6,7 @@ tags:
   - sight
 title: Mirissa Harbour
 type: poi
+score: 6.8
 ---
 
 The fishing harbour at the eastern end of Mirissa is where the working side of the town lives. Colourful wooden fishing boats — outriggers with painted eyes on their bows — crowd the small jetty, and the activity is most intense in the early morning when the night's catch is landed and sold directly off the boats. It is also the departure point for whale watching trips.

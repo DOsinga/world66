@@ -9,6 +9,7 @@ title: Saurierpark Kleinwelka
 type: poi
 snippet: A large outdoor dinosaur park in a former GDR-era sculpture garden, north of the city
 story: The park began as the personal obsession of the East German sculptor Franz Gruss, who from 1978 onwards filled his garden in Kleinwelka with life-sized concrete dinosaurs cast from his own designs. The state took over and expanded it in 2003, but most of the older sculptures — about 200 in all — are still Gruss's.
+score: 5.5
 ---
 
 The Saurierpark, just north of Bautzen at Kleinwelka, is the largest dinosaur park in Germany — around 200 life-sized sculptures of dinosaurs and other prehistoric beasts arranged along trails through 16 hectares of woodland. It originated in a private collection of concrete sculptures made by the East German artist Franz Gruss in the 1970s.

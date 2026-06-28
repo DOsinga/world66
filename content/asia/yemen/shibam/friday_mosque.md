@@ -12,6 +12,7 @@ story: >
   the late eighth century, making it among the oldest in southern Arabia. Successive
   Hadrami sultans rebuilt and extended it, and the present form is largely sixteenth-century,
   but fragments of the earlier mosque survive in the foundations.
+score: 7.2
 ---
 
 The Friday Mosque sits near the centre of the walled city, low-slung and unadorned by the standards of Yemeni religious architecture — no high minarets, no banded gypsum work, just a flat-roofed prayer hall of mud brick around a small courtyard. Its importance is its age. The mosque was first built in the early Islamic period, and although it has been rebuilt many times, it has continuously occupied the same spot for more than a thousand years.

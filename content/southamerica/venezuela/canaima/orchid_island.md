@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 6.0250
 longitude: -62.5700
+score: 5.8
 ---
 
 Isla Orquídea — Orchid Island — is a sandy stop along the Río Carrao route to Angel Falls, usually visited for lunch on the return leg. The island has a basic camp where most operators serve a hot meal of grilled chicken or fish with rice; the surrounding banks are lined with the wild orchids that give it its name.

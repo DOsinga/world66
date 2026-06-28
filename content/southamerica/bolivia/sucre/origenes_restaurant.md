@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Bolivian food paired with a folkloric dinner show
+score: 6.5
 ---
 
 Origenes is a dinner-and-show restaurant on Calle Azurduy that pulls together a survey of Bolivia's regional cuisines and folkloric music traditions into one evening. The set menu cycles through plates from the altiplano (chairo, llama meat), the valleys (silpancho, picante de pollo), and the lowlands (fish from the Amazonian rivers), accompanied by a live performance of dances from each region — Caporales, Diablada, Tinku — in full costume.

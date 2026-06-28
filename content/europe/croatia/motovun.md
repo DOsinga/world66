@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_to_Motovun.jpg
 latitude: 45.336713
 loc_type: city
 longitude: 13.82828
-score: 0.67
+score: 8.47
+snippet: Istrian hilltop town above the Mirna River valley, encircled by medieval
+  walls and truffle forests.
 title: Motovun
 type: location
 ---

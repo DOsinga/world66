@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/New_Place
 story: >
   New Place was the second-largest house in Stratford when Shakespeare bought it in 1597, a purchase that signified his success as a London playwright and businessman. He retired there in 1613 and lived in it for the last three years of his life. The house was demolished in 1759 by its then-owner, the Reverend Francis Gastrell, in a fit of exasperation with the tourists who kept visiting — apparently inspired partly by his earlier felling of a mulberry tree in the garden, planted according to tradition by Shakespeare himself. Gastrell's name has been unpopular in Stratford ever since.
+score: 7.5
 ---
 
 New Place was Shakespeare's final home and the largest house he owned, purchased in 1597 and lived in during his retirement from the London stage. The house itself was demolished in 1759, but the site has been excavated and the footprint of the original building marked out in the garden, with interpretation panels explaining the layout and history. Nash's House, the adjacent Tudor building that belonged to Shakespeare's granddaughter's husband, survived and now contains a museum of the town's social history.

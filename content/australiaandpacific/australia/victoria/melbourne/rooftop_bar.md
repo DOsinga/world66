@@ -8,6 +8,7 @@ tags:
 address: 252 Swanston Street, Level 7
 latitude: -37.8141
 longitude: 144.9655
+score: 7.2
 ---
 
 The Rooftop Bar on top of the Curtin House building on Swanston Street is one of Melbourne's best-known outdoor drinking spots, combining good views over the CBD with an unpretentious atmosphere and a cinema that operates on summer evenings. The bar is on the seventh floor and is reached by a narrow staircase through the building, which also houses several other bars, a record shop, and a bookshop on lower floors.

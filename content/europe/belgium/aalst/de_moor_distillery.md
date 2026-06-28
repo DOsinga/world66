@@ -7,6 +7,7 @@ tags:
 - sight
 title: De Moor Distillery
 type: poi
+score: 6.1
 ---
 
 De Moor is a small family-run distillery on the western edge of Aalst, producing gin, jenever, and traditional Belgian liqueurs. The business has been in the same hands for several generations and still operates from a modest building in a residential street.

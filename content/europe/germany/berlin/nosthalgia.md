@@ -10,6 +10,7 @@ tags:
 - prenzlauerberg
 title: Nosthalgia
 type: poi
+score: 5.4
 ---
 
 A bar in the Knaackstraße cluster, one of the better-known streets for evening drinks in Prenzlauer Berg. Relaxed atmosphere.

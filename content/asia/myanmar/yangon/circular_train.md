@@ -13,6 +13,7 @@ story: >
   goods of a working city. The trains move slowly enough that passengers jump
   on and off at crossings rather than waiting for stations. It is as vivid a
   cross-section of Yangon life as you will find.
+score: 8.6
 ---
 
 The Yangon Circular Railway is a 45-km loop that rings the city, stopping at 39 stations and taking about three hours to complete the full circuit. It was built by the British and operates on ageing rolling stock that clanks and rocks through the city's outer suburbs and satellite towns.

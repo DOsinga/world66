@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 25.0833
 longitude: -77.2200
+score: 6.4
 ---
 
 A long, thin, mostly-uninhabited island stretching east from Paradise Island for fifteen kilometres. The main public draws are the white sand of **Sandy Toes Beach** near the western end and **Pirate Cove**, both reached by ferry-and-day-pass deals from Nassau marinas.

@@ -1,0 +1,200 @@
+{
+  "round": 3692,
+  "timestamp": "2026-06-13T23:12:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 6.7475,
+      "prior_variance": 0.141329,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 5.4514,
+      "prior_variance": 0.146462,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 7.5614,
+      "prior_variance": 0.161857,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Suwon",
+      "path": "asia/southkorea/suwon",
+      "prior_score": 1.7048,
+      "prior_variance": 0.125529,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 0.1175,
+      "prior_variance": 0.11058,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 1.2976,
+      "prior_variance": 0.124279,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": 0.4077,
+      "prior_variance": 0.117048,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Dalian",
+      "path": "asia/china/liaoning/dalian",
+      "prior_score": -0.3486,
+      "prior_variance": 0.103771,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_score": 0.8899,
+      "prior_variance": 0.104038,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 0.3581,
+      "prior_variance": 0.113375,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -1.0364,
+      "prior_variance": 0.122377,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 0.8731,
+      "prior_variance": 0.11208,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 0.6248,
+      "prior_variance": 0.112379,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2725,
+      "prior_variance": 0.106908,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 0.3104,
+      "prior_variance": 0.114067,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -2.8683,
+      "prior_variance": 0.130877,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -4.9459,
+      "prior_variance": 0.131837,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Hotan",
+      "path": "asia/china/xinjiangprovince/hotan",
+      "prior_score": -5.5888,
+      "prior_variance": 0.182009,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -5.3872,
+      "prior_variance": 0.152202,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -5.2281,
+      "prior_variance": 0.146913,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -5.9282,
+      "prior_variance": 0.137055,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.558,
+      "prior_variance": 0.149423,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -9.0551,
+      "prior_variance": 0.204029,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -7.8562,
+      "prior_variance": 0.269514,
+      "prior_n": 12
+    }
+  ]
+}

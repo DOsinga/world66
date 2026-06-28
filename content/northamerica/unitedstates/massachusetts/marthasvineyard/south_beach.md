@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: The island's largest public surf beach, a three-mile stretch of dunes and Atlantic surf
+score: 7.6
 ---
 
 South Beach (also called Katama Beach) is the longest and most-used beach on Martha's Vineyard — three miles of soft white sand backed by dunes, with regular Atlantic surf, occasional rip currents, and a bus service from downtown Edgartown in season.

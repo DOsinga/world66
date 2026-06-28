@@ -1,0 +1,200 @@
+{
+  "round": 3718,
+  "timestamp": "2026-06-13T23:14:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 7.9268,
+      "prior_variance": 0.195533,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 5.0006,
+      "prior_variance": 0.146558,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 1.8445,
+      "prior_variance": 0.115879,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.3515,
+      "prior_variance": 0.123209,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 0.892,
+      "prior_variance": 0.10907,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.2433,
+      "prior_variance": 0.100692,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -2.0411,
+      "prior_variance": 0.10765,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -1.1319,
+      "prior_variance": 0.108353,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.5487,
+      "prior_variance": 0.110153,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.0362,
+      "prior_variance": 0.10249,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -0.7983,
+      "prior_variance": 0.110185,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": -0.4198,
+      "prior_variance": 0.115425,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.1128,
+      "prior_variance": 0.108018,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -1.6923,
+      "prior_variance": 0.109957,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.4257,
+      "prior_variance": 0.133453,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -0.9393,
+      "prior_variance": 0.10548,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.4129,
+      "prior_variance": 0.108664,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.4719,
+      "prior_variance": 0.106038,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.2273,
+      "prior_variance": 0.122638,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -1.7202,
+      "prior_variance": 0.113823,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -1.6653,
+      "prior_variance": 0.109915,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -2.4202,
+      "prior_variance": 0.178527,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -3.8466,
+      "prior_variance": 0.129477,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_score": -2.9112,
+      "prior_variance": 0.124836,
+      "prior_n": 12
+    }
+  ]
+}

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.4001
 longitude: -93.7392
+score: 9.1
 ---
 
 The entire downtown of Eureka Springs is listed on the National Register of Historic Places, and walking its winding streets — which follow the contours of the Ozark hillside rather than any grid — is the town's main activity. The streets climb and descend past ornate Victorian storefronts, galleries, independent restaurants, and shops selling local art, crystals, and antiques. There are no traffic lights in the entire town.

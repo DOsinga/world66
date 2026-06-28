@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, walk]
 latitude: 38.4598
 longitude: 23.6011
+score: 5.9
 ---
 
 The waterfront promenade along the Chalkis side of the strait is the city's social spine. In the early evening — the volta hour — it fills up with families walking and groups of teenagers loitering against the railings. Tavernas line the inland side for most of its length.

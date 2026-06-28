@@ -5,7 +5,9 @@ done:
 latitude: 36.767214
 loc_type: city
 longitude: 28.800274
-score: 0.5
+score: 7.06
+snippet: Turkish farming town and airport gateway to Lycian ruins, turtle beaches,
+  and the Dalaman River
 title: Dalaman
 type: location
 ---

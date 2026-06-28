@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3647
 longitude: 20.7202
+score: 7.8
 ---
 
 Vathy is Ithaca's capital and the largest settlement on the island, sitting at the end of one of the deepest natural harbours in the Mediterranean. The town wraps around the bay in a horseshoe of pastel houses, with the wooded slopes rising steeply behind. The 1953 Ionian earthquake destroyed almost everything; what stands today was rebuilt in traditional style afterwards.

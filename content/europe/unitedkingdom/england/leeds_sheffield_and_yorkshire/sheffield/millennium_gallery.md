@@ -1,13 +1,14 @@
 ---
 address: Arundel Gate, Sheffield S1 2PP
 latitude: 53.3796
-loc_type: feature
 longitude: -1.4673
+score: 8.4
 snippet: Sheffield's main art gallery, free to enter
 tags:
 - things_to_do
 - museum
 title: Millennium Gallery
+type: poi
 ---
 
 Sheffield's principal art and design gallery, opened in 2001 in a striking white building connected directly to the Winter Garden. The permanent collection includes the spectacular Metalwork Gallery — knives, forks, tea services, and ornamental silver showing four centuries of Sheffield craftsmanship — and the Ruskin Gallery, a collection of art and artefacts assembled by John Ruskin specifically for the working people of Sheffield in 1875.

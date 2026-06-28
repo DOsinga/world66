@@ -9,6 +9,7 @@ tags:
 latitude: -16.5200
 longitude: -151.7700
 story: "The Lagoonarium was one of the first facilities in the South Pacific to offer controlled interaction with rays and sharks in a natural lagoon setting. It opened in the late 1980s and helped establish the template for marine encounter tourism across French Polynesia. The rays at the facility have been fed by hand for so long that they approach swimmers from below and will rest across outstretched arms — an experience that is disarmingly intimate for something that weighs 20 kilograms."
+score: 6.4
 ---
 
 The Bora Bora Lagoonarium occupies a small motu in the western part of the lagoon and offers structured snorkelling encounters with the marine life that inhabits the shallow water around it. Rays, turtles, reef sharks, and dense schools of tropical fish are all present in calm, very shallow water, making this the ideal introduction to the lagoon for children or less confident swimmers.

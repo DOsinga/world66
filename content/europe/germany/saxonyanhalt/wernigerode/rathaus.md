@@ -14,6 +14,7 @@ story: >
   civic government, with an elaborate Gothic oriel window and sandstone figures of saints
   and electors added over the following centuries. The building that looks like it was
   designed all at once was actually assembled piecemeal over 400 years.
+score: 8.3
 ---
 
 The Rathaus on Wernigerode's Marktplatz is widely considered one of the finest half-timbered town halls in Germany. The building presents a fantasy of medieval carpentry to the square — steep pointed gables, an elaborate oriel window, and carved wooden figures that project from every surface. The effect is almost theatrical, and the square in front of it, lined with more half-timbered houses, is one of the most photographed scenes in the Harz.

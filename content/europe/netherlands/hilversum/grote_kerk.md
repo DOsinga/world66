@@ -6,6 +6,7 @@ longitude: 5.1779
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Grote Kerk (or Sint-Vituskerk in older sources) on Kerkbrink is Hilversum's medieval parish church, a brick Gothic building with origins in the 14th century, much rebuilt over the years. The square in front is the oldest open space in the town and held the weekly market from the 16th century onwards.

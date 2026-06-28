@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The remote northwestern section of Zion National Park, far from the crowds
+score: 8.0
 ---
 
 Kolob Canyons is the northwestern lobe of Zion National Park, separated from the main canyon by twenty miles of impassable plateau. It is reached by a separate entrance off Interstate 15, an hour's drive from Springdale, and it sees a fraction of the visitors. The five-mile Kolob Canyons Road climbs into a series of parallel red-rock finger canyons that are at least the equal of the main Zion gorge.

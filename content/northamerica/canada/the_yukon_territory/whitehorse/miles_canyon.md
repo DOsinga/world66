@@ -13,6 +13,7 @@ story: >
   Mounted Police to require that women and children portage around them. A tramway was built to
   move goods around the worst sections, and the canyon became a profitable bottleneck that
   made the tramway operators rich.
+score: 8.3
 ---
 
 Miles Canyon is a dramatic basalt canyon carved by the Yukon River about 8 kilometres south of central Whitehorse. The canyon walls rise 15 metres above the water, and the compressed river turns a vivid green as it passes through. A suspension bridge spans the narrowest point, giving you a view straight down into the current. The canyon and the surrounding park are accessed by trails through a pleasant forested area.

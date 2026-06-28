@@ -3,7 +3,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 23.57
 longitude: -75.76
+score: 6.9
 snippet: Roadside shack serving fresh conch salad made to order
+tags:
+- eating_out
+- restaurant
+- seafood
 title: Big D's Conch Spot
 type: poi
 ---

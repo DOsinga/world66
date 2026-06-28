@@ -1,13 +1,15 @@
 ---
 address: Bulevardul Regina Elisabeta, Bucharest
 latitude: 44.4379
-loc_type: feature
 longitude: 26.0903
-snippet: Oldest public garden in the city, with a lake, rowing boats, and a chess corner
+score: 7.6
+snippet: Oldest public garden in the city, with a lake, rowing boats, and a chess
+  corner
 tags:
 - things_to_do
 - sight
 title: Cișmigiu Gardens
+type: poi
 ---
 
 The oldest public park in Bucharest, laid out in 1847 by the German landscape architect Wilhelm Mayer on a marshy stretch of land that had until then been used by a dervish to gather drinking water — cișmea being the Turkish word for fountain. The result is a romantic, English-style park of winding paths, ornamental bridges, and a serpentine lake where in summer Bucharestians rent rowing boats and in winter they skate.

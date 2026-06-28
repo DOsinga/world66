@@ -7,8 +7,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Gemeentehuis_Oss_ingang_Raadhuishof.jpg
 latitude: 51.778354
 loc_type: city
+snippet: Working Noord-Brabant town on the Maas, with carnival traditions and an industrial
+  meat-and-medicine legacy.
 longitude: 5.532084
-score: 0.34
+score: 5.89
 sources:
 - https://en.wikipedia.org/wiki/Oss
 title: Oss

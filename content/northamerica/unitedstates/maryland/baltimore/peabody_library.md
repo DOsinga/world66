@@ -16,6 +16,7 @@ story: >
   as a "cathedral of books" open to all citizens. The architect, Edmund Lind, has been
   largely forgotten while his building is universally regarded as one of the finest
   interior spaces in the United States.
+score: 9.0
 ---
 
 The George Peabody Library contains one of the most beautiful rooms in America. The reading room is a six-storey atrium of cast-iron balconies stacked to a skylit roof, lined floor to ceiling with 300,000 volumes and absolutely silent. It is part of the Johns Hopkins University library system but open to the public on weekdays.

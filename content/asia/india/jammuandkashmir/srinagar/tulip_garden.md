@@ -8,6 +8,7 @@ tags:
   - dal_lake_area
 latitude: 34.1300
 longitude: 74.8750
+score: 7.5
 ---
 
 Asia's largest tulip garden occupies a terraced hillside on the lower slopes of the Zabarwan Hills above Dal Lake, between Nishat Bagh and the Chashme Shahi road. The garden covers about 30 hectares and holds over a million tulip bulbs in more than 60 varieties, planted in long colour-banded rows that cascade down the slope. The blooming period is short — typically late March to mid-April, depending on the year — and coincides with the official spring Tulip Festival.

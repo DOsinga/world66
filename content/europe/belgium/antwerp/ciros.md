@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Antwerp's classic brasserie since 1962 — stoofvlees and frites done right
+score: 6.5
 ---
 
 A Het Zuid institution since 1962. Ciro's does the classic Flemish brasserie repertoire: *stoofvlees* (beef stewed slowly in dark beer), *vol-au-vent*, *paling in 't groen*, steak frites with béarnaise. The room is unchanged from the 1960s — dark wood, leather banquettes, mirrored walls — and the service is professional and unhurried in the old-school manner.

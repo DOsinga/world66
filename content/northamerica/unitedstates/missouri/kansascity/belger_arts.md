@@ -7,6 +7,7 @@ tags:
 - museum
 title: Belger Arts Center
 type: poi
+score: 6.8
 ---
 
 The Belger Arts Center is a private art foundation that operates a gallery in a converted 1930s industrial building in the Crossroads Arts District. The Belger family collection is strong on post-war American art, outsider and folk art, and contemporary ceramic works. The gallery spaces occupy the former manufacturing floor of the building, with high ceilings and industrial detailing that suit the work well.

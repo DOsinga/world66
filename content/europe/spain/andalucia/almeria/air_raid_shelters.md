@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Almer%C3%ADa_air_raid_shelters
 story: >
   The shelters were excavated in 1937 after Almería was bombarded by German and Italian warships supporting Franco's forces. The city's population dug 4.5 kilometres of tunnels under the old town in just a few months, capable of sheltering 34,000 people. After the war, the tunnels were sealed and forgotten for decades, rediscovered only by accident during construction work in the 1990s.
+score: 8.4
 ---
 
 The air raid shelters beneath Almería are among the most extensive surviving examples of Second World War civilian infrastructure in Spain, and the guided tours through them are genuinely moving. The tunnel system — nearly 4.5 kilometres of passages dug by hand in 1937 — runs beneath the old town and could shelter the entire population of the city during bombing raids. The shelters include dormitories, a surgery, a pharmacy, a water cistern, and ventilation shafts that still work.

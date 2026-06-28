@@ -4,12 +4,14 @@ admission: €8 full, €2 reduced
 latitude: 43.7704
 longitude: 11.258
 opening_hours: Daily 08:15–13:50; hours vary seasonally — check ahead
-snippet: "Essential sculpture museum with Donatello and Michelangelo masterworks"
+score: 9.2
+snippet: Essential sculpture museum with Donatello and Michelangelo masterworks
 tags:
 - 24 Hours in Florence
 - things_to_do
 - museum
 - palace
+- centro_storico
 title: Museo Nazionale del Bargello
 type: poi
 ---

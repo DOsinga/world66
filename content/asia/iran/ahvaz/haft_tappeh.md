@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 32.0833
 longitude: 48.4667
+score: 7.4
 ---
 
 Haft Tappeh — "Seven Mounds" in Persian — is an Elamite archaeological site about 15 km from Shush, dating to roughly the 14th century BC. The site preserves the ruins of a royal tomb complex and a temple that predates Chogha Zanbil by over a century. Excavations have uncovered royal burials, cuneiform tablets, and fired-brick vaulted chambers that are among the oldest such structures known in Iran.

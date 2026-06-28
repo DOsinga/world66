@@ -6,6 +6,7 @@ longitude: 38.9352
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 A small Italian-era hotel and restaurant in a fine 1930s building on Liberation Avenue, the Albergo Italia is the most evocative dinner spot in central Asmara if you want the colonial-era atmosphere served straight. The dining room has the original tile floors, dark wood, and slow ceiling fans.

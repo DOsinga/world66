@@ -8,6 +8,7 @@ latitude: 48.7667
 longitude: -123.6333
 sources:
   - https://en.wikipedia.org/wiki/Cowichan_River
+score: 8.2
 ---
 
 The Cowichan River is one of Vancouver Island's premier fly-fishing rivers, a Canadian Heritage River that flows from Cowichan Lake through old-growth forest and canyon, past Skutz Falls, and into the bay at Cowichan Bay. The river is a serious salmon and steelhead fishery — chinook, coho, and chum salmon return in significant numbers — and the steelhead run in winter draws fly fishermen from across North America.

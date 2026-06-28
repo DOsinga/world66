@@ -1,8 +1,13 @@
 ---
-snippet: A shaded park in the new town, lined with chestnut trees and used for festivals and markets
+latitude: 42.3414
+longitude: -7.8638
+score: 5.6
+snippet: A shaded park in the new town, lined with chestnut trees and used for festivals
+  and markets
 tags:
 - things_to_do
-- nature
+- sight
+- park
 title: Parque de San Lázaro
 type: poi
 ---

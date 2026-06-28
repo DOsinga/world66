@@ -1,16 +1,17 @@
 ---
 done:
   location_enrich: '2026-05-23'
+image: wadihalfa.jpg
+image_attribution: Matson Collection
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Sudan._Wadi_Halfa._Air_view._The_town_and_the_Nile_LOC_matpc.17273.jpg
 latitude: 21.7833
 loc_type: city
 longitude: 31.3667
-score: 0.26
+score: 4.7
+snippet: Northern Sudan frontier town on Lake Nubia, where rail and ferry routes meet.
 title: Wadi Halfa
 type: location
-image: wadihalfa.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Sudan._Wadi_Halfa._Air_view._The_town_and_the_Nile_LOC_matpc.17273.jpg
-image_license: Public domain
-image_attribution: Matson Collection
 ---
 
 Wadi Halfa sits at the northern tip of Sudan, on the eastern shore of Lake Nubia — the Sudanese portion of Lake Nasser. It is the last town before the Egyptian border, the terminus of the railway from Khartoum, and the point where goods and travellers switch between the train and the ferry that crosses the lake to Aswan. Despite its strategic position, it is a small, sun-blasted place with a frontier feel.

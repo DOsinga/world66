@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Former colonial governor's palace, now a small museum
+score: 6.9
 ---
 
 The former colonial governor's palace at the top of the Lacerda Elevator, rebuilt several times since 1549 and used as the seat of government of the entire Portuguese colony of Brazil until the capital moved to Rio. The building now functions as a small museum of colonial Bahia, with period furniture, paintings, and a panel on Tomé de Sousa, the first governor.

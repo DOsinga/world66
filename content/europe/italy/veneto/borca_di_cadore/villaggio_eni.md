@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Edoardo_Gellner
   - https://en.wikipedia.org/wiki/Borca_di_Cadore
+score: 9.1
 ---
 
 Edoardo Gellner's Villaggio ENI is the reason to come to Borca. Built between 1954 and 1963 on a steep wooded slope west of the village, it was conceived as a complete holiday city: 240 bungalows, two hotels, a children's colony, a campground, a church, sports facilities, and infrastructure to support 5,000 ENI employees and their families at a time. The scale is hard to grasp until you walk through it.

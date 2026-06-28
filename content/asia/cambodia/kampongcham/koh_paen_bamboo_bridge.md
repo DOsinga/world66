@@ -8,6 +8,7 @@ tags:
 title: Koh Paen Bamboo Bridge
 type: poi
 story: "Every November, the villagers of Koh Paen island lash together a kilometre-long bridge of split bamboo across the Mekong by hand. It carries cars, motorbikes, and water buffaloes through the dry season, and is dismantled and floated downstream when the river rises in June. Photographs taken in 2017 show a single articulated lorry crossing it, its rear wheels pressing the bamboo decking down into the brown river water."
+score: 6.5
 ---
 
 For roughly half of every year, Kampong Cham is connected to the long, low Mekong island of **Koh Paen** by a hand-built bridge of split bamboo and lashed lumber, almost a kilometre long. Built by the island's villagers between November and December as the river drops, it carries pedestrians, motorbikes, cars, and even small lorries for a small toll. When the river rises again in May or June the bridge is taken apart and the bamboo poled away to be reused next year.

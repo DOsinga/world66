@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 36.6300
 longitude: 101.7600
+score: 5.6
 ---
 
 A cluster of stalls and small shops in the central district around Changjiang Road caters to Tibetan residents and tourists with items from across the plateau: thangka paintings (ranging from cheap prints to handmade works costing thousands), silver jewellery, Buddhist ritual objects (dorje, prayer wheels, singing bowls), traditional Tibetan clothing, and an extensive selection of incense. The quality and authenticity vary widely — bargain on everything.

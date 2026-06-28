@@ -7,6 +7,7 @@ tags:
 latitude: 36.1890
 longitude: 5.4120
 snippet: "The large central park with lake, fountains, and amusement rides — the city's living room"
+score: 5.8
 ---
 
 The large public park at the heart of Sétif is one of the most genuinely pleasant urban parks in northeastern Algeria. It contains an artificial lake, fountains, a small amusement zone with rides for children, and broad shaded paths that fill with families in the afternoons and evenings. A small zoo on the grounds has local wildlife including gazelles and birds of prey.

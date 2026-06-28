@@ -10,6 +10,7 @@ tags:
   - historic
 story: >
   The child's tomb inside the church has been a place of pilgrimage for centuries, credited with healing properties. Parents still leave small offerings near it.
+score: 8.7
 ---
 
 The Old Orthodox Church (Stara pravoslavna crkva) in Baščaršija is one of the oldest churches in Sarajevo, built in the 16th century (though the exact date is disputed). Unlike the grander Serbian Orthodox churches built in the Austrian period, this one retains the humble, almost domestic scale of a congregation that had to practise quietly under Ottoman rule — churches were permitted but not encouraged to be visually impressive.

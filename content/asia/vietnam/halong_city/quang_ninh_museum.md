@@ -7,6 +7,7 @@ tags:
 latitude: 20.9617
 longitude: 107.0583
 story: "The museum building is the main attraction — a striking angular glass-and-concrete structure designed by GMP Architekten and completed in 2013, quite unlike anything else in northern Vietnam. Inside, the collections on Halong Bay's geology and the region's coal mining history are better than you'd expect."
+score: 7.6
 ---
 
 A modern regional museum in Bai Chay with exhibits covering the geology and ecology of Halong Bay, the history of the Quang Ninh province's coal industry, and local ethnography. The building itself is worth visiting — designed by a German architecture firm and genuinely striking by Vietnamese regional museum standards.

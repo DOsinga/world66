@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The name 'Morbihan' is Breton for 'little sea' — to distinguish it from the Atlantic on the other side of the Rhuys peninsula. Local tradition holds that there are as many islands in the gulf as there are days in the year. There are actually about forty if you only count the inhabited ones, perhaps sixty if you include every rock that breaks the surface at low tide."
+score: 8.5
 ---
 
 The Golfe du Morbihan is a sheltered inland sea of about 115 square kilometres on the south coast of Brittany, separated from the Atlantic only by a narrow strait between the Locmariaquer peninsula and Port-Navalo. The tides funnel through that strait at impressive speeds — at full ebb the current runs at nine knots, fast enough to be a sailing challenge.

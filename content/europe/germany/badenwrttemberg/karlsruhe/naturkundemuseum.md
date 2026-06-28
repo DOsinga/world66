@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 49.0074
 longitude: 8.3923
+score: 6.9
 ---
 
 The State Museum of Natural History at Erbprinzenstraße 13 is one of the two state natural history museums of Baden-Württemberg, holding collections covering geology, palaeontology, mineralogy, botany, and zoology. The museum's strength lies in its regional focus: the geology and prehistoric life of the Upper Rhine Valley, the Black Forest ecosystem, and the flora and fauna of Baden-Württemberg.

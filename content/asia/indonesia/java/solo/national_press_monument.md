@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -7.5650
 longitude: 110.8181
+score: 6.6
 ---
 
 The Monumen Pers Nasional (National Press Monument) commemorates the founding of the Indonesian press and houses a museum dedicated to the history of journalism in Indonesia. Solo was an important early centre of Indonesian-language newspapers and political publishing in the early 20th century, and the museum traces this history from the colonial period through independence.

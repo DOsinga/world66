@@ -12,6 +12,7 @@ tags:
 - museum
 title: Hallmark Visitors Center
 type: poi
+score: 6.3
 ---
 
 The Hallmark Visitors Center at Crown Center is a free museum inside the world headquarters of America's largest greeting card company. The exhibits trace Hallmark's history from its founding in Kansas City in 1910 by Joyce Hall, who arrived in the city as a teenager with a shoebox of picture postcards and built one of the most recognizable brands in American consumer culture.

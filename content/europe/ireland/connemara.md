@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Diamond_Hill_looking_West.
 latitude: 53.5
 loc_type: region
 longitude: -9.75
+snippet: Mountainous Irish region of bogs, lakes, Atlantic inlets, and one of the
+  country's strongest Gaeltacht communities
 sources:
 - https://en.wikipedia.org/wiki/Connemara
 title: Connemara
@@ -20,5 +22,7 @@ Connemara is the wildest corner of Ireland, and arguably the most beautiful. It 
 The [Twelve Bens](/europe/ireland/connemara/twelve_bens), a knot of quartzite mountains rising to 730 metres, form the dramatic heart of the region. [Connemara National Park](/europe/ireland/connemara/connemara_national_park) protects the southern slopes and gives walkers access to the open mountain without commitment to the summits. [Kylemore Abbey](/europe/ireland/connemara/kylemore_abbey), with its neo-Gothic facade reflected in a long lake below the hills, is the most photographed building in Connemara and justifiably so. [Ballynahinch Castle](/europe/ireland/connemara/ballynahinch_castle), surrounded by salmon rivers, is the region's most famous place to stay.
 
 The road west from Galway to Clifden — the regional capital, a small town on an Atlantic bay — passes through the landscape but only gives a partial sense of it. The better approach is to leave the main road: take the Sky Road around the headland west of Clifden, drive the Inagh Valley north, or pull off at any lake to walk into the bog. Connemara is a place that rewards getting out of the car.
+
+Off the coast near Claddaghduff, [Omey Island](/europe/ireland/connemara/omey_island) adds a smaller, stranger version of that wildness: a tidal island reached across the sand at low water, with early Christian ruins and Atlantic grassland once the tide closes behind you.
 
 The [Aran Islands](/europe/ireland/aranislands), clearly visible from the coastline here on fine days, are reached by ferry from Rossaveal, west of Galway city. Many visitors combine the two. Bus Éireann runs services from Galway to Clifden, though having a car makes the region vastly more accessible.

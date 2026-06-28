@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Sate Khas Senayan
 type: poi
+score: 5.8
 ---
 
 A popular chain specializing in Indonesian satay and traditional dishes, with a reliable standard of quality across its many Jakarta locations.

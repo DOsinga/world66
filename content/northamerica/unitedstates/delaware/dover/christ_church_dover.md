@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Christ_Church_(Dover,_Delaware)
 story: >
   Christ Church was established in 1703, and its burial ground holds the graves of several signers of the Declaration of Independence and the Constitution. Caesar Rodney, who made a famous overnight ride to Philadelphia to cast the deciding vote for Delaware's support of independence in 1776, is buried in the churchyard. His is one of the most visited graves in Dover.
+score: 7.3
 ---
 
 Christ Church is an Episcopal church and historic landmark on South State Street, a few steps from The Green. The present building dates from 1734, making it one of the oldest surviving churches in Delaware. The interior is spare and white, in the Anglican colonial tradition, with box pews and clear glass windows. The church has been in continuous use since its founding.

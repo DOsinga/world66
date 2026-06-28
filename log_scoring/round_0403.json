@@ -1,199 +1,199 @@
 {
   "round": 403,
-  "timestamp": "2026-04-12T09:29:26",
+  "timestamp": "2026-06-13T19:33:41",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Milos",
-      "path": "europe/greece/milos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_score": 5.0387,
+      "prior_variance": 2.10482,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Naxos",
-      "path": "europe/greece/naxos",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 5.9542,
+      "prior_variance": 1.752032,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Hydra",
-      "path": "europe/greece/hydra",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.7339,
+      "prior_variance": 1.456971,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Patmos",
-      "path": "europe/greece/patmos",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 6.0223,
+      "prior_variance": 2.911156,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Amorgos",
-      "path": "europe/greece/amorgos",
-      "prior_mu": 24.5208,
-      "prior_sigma": 5.8396,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 0.1863,
+      "prior_variance": 1.40449,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Skopelos",
-      "path": "europe/greece/skopelos",
-      "prior_mu": 24.0596,
-      "prior_sigma": 6.0431,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 2.921,
+      "prior_variance": 1.658517,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Delos",
-      "path": "europe/greece/delos",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 4.5487,
+      "prior_variance": 1.820452,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Thassos",
-      "path": "europe/greece/thassos_island",
-      "prior_mu": 25.7506,
-      "prior_sigma": 6.3396,
+      "title": "Quetzaltenango",
+      "path": "northamerica/guatemala/quetzaltenango",
+      "prior_score": 0.0366,
+      "prior_variance": 1.425815,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Kos",
-      "path": "europe/greece/kos",
-      "prior_mu": 27.4507,
-      "prior_sigma": 5.4891,
-      "prior_n": 2
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_score": 1.1718,
+      "prior_variance": 1.461228,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Aegina",
-      "path": "europe/greece/aegina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 4.066,
+      "prior_variance": 2.486371,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Fiskardo",
-      "path": "europe/greece/cephalonia/fiskardo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 1.1741,
+      "prior_variance": 1.680286,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Chios",
-      "path": "europe/greece/chios",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 1.4826,
+      "prior_variance": 2.017225,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Kardamili",
-      "path": "europe/greece/mani/kardamili",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -1.0451,
+      "prior_variance": 1.33638,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Kalamaki",
-      "path": "europe/greece/zakinthos/kalamaki",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -3.3692,
+      "prior_variance": 1.41829,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Metsovo",
-      "path": "europe/greece/metsovo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 3.9588,
+      "prior_variance": 2.739979,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Kritsa",
-      "path": "europe/greece/crete/kritsa",
-      "prior_mu": 23.9686,
-      "prior_sigma": 6.0305,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 3.157,
+      "prior_variance": 1.650024,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Siros",
-      "path": "europe/greece/siros",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cullen",
+      "path": "europe/unitedkingdom/scotland/cullen",
+      "prior_score": 0.8243,
+      "prior_variance": 2.100243,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Hersonnissos",
-      "path": "europe/greece/crete/hersonnissos",
-      "prior_mu": 22.4295,
-      "prior_sigma": 5.8012,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -0.6725,
+      "prior_variance": 1.394629,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Kavala",
-      "path": "europe/greece/kavala",
-      "prior_mu": 22.5122,
-      "prior_sigma": 5.5618,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -1.368,
+      "prior_variance": 1.522286,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Epirus",
-      "path": "europe/greece/epirus",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -3.7926,
+      "prior_variance": 2.379225,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Philippi",
-      "path": "europe/greece/philippi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -2.1339,
+      "prior_variance": 1.574659,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Skala Kalloni",
-      "path": "europe/greece/lesbos/skalakalloni",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mariposa",
+      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
+      "prior_score": 0.6193,
+      "prior_variance": 1.530105,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Prefecture of Serres",
-      "path": "europe/greece/prefecture_of_serr",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -1.5179,
+      "prior_variance": 1.608404,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Kozanh",
-      "path": "europe/greece/kozanh",
-      "prior_mu": 22.5285,
-      "prior_sigma": 5.9137,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -6.7575,
+      "prior_variance": 1.775191,
       "prior_n": 1
     }
   ]

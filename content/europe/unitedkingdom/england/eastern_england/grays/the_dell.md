@@ -15,6 +15,7 @@ story: >
   who came to see whether concrete could really be used for domestic architecture.
 sources:
   - https://en.wikipedia.org/wiki/The_Dell,_Thurrock
+score: 5.5
 ---
 
 The Dell in Grays is a modest Victorian villa with an extraordinary distinction: it is one of the first houses in Britain to have been built using concrete as the primary structural material. The house dates from around 1901 and is listed for its architectural and historical significance. It looks from the outside like an ordinary late Victorian house, which was rather the point — the builder wanted to demonstrate that concrete could produce a building indistinguishable from conventional construction.

@@ -1,0 +1,200 @@
+{
+  "round": 3584,
+  "timestamp": "2026-06-13T23:04:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 3.7678,
+      "prior_variance": 0.12922,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 7.5558,
+      "prior_variance": 0.169501,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 5.545,
+      "prior_variance": 0.157647,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 2.3192,
+      "prior_variance": 0.107512,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 3.6516,
+      "prior_variance": 0.132005,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 4.161,
+      "prior_variance": 0.133989,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 2.2917,
+      "prior_variance": 0.147019,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 2.4348,
+      "prior_variance": 0.139973,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/jal",
+      "prior_score": 0.0987,
+      "prior_variance": 0.115994,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.3586,
+      "prior_variance": 0.116824,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 0.7864,
+      "prior_variance": 0.125106,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 1.7952,
+      "prior_variance": 0.111082,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.6458,
+      "prior_variance": 0.112463,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_score": 0.9461,
+      "prior_variance": 0.120309,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 0.4068,
+      "prior_variance": 0.126733,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -0.6541,
+      "prior_variance": 0.107313,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.8021,
+      "prior_variance": 0.123827,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": 0.4372,
+      "prior_variance": 0.103113,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.7344,
+      "prior_variance": 0.134431,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": 0.5121,
+      "prior_variance": 0.116145,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -0.2349,
+      "prior_variance": 0.108404,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -4.1149,
+      "prior_variance": 0.148029,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": -2.4921,
+      "prior_variance": 0.143067,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -9.8862,
+      "prior_variance": 0.309823,
+      "prior_n": 11
+    }
+  ]
+}

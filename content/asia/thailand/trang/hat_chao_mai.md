@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 7.4300
 longitude: 99.2500
+score: 6.6
 ---
 
 Hat Chao Mai National Park protects 231 square kilometres of coastline, mangroves, islands, and sea, including Ko Muk, Ko Kradan, and several smaller islands. The park headquarters is on the mainland coast south of Hat Pakmeng, and entry fees apply to visitors to the beaches and islands within the park boundary.

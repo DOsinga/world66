@@ -9,6 +9,7 @@ title: Zytglogge Clock Tower
 type: poi
 story: >
   In 1905, a 26-year-old Albert Einstein was riding a tram away from the Zytglogge when he had the thought experiment that helped crack the mystery of time: if the tram were travelling at the speed of light, the clock tower would appear frozen. He later said this was the moment that set him on the path to special relativity. The tower has become a pilgrimage spot for physicists ever since.
+score: 8.8
 ---
 
 The Zytglogge is a medieval clock tower from the early 13th century and the symbolic centre of Bern. At four minutes before each hour a display of mechanical figures — a jester, a procession of bears, knights, and the figure of Father Time — plays out above the clock face. The tower originally served as a watchtower and city gate; guided tours can be arranged to see the clockwork mechanism inside.

@@ -12,6 +12,7 @@ story: >
   pattern — assembled by members of the fraternal order who formed Camp Skagway No. 1
   during the gold rush. The Arctic Brotherhood was a mutual aid society for men travelling
   the Klondike routes, and the Skagway chapter was its founding lodge.
+score: 6.4
 ---
 
 The Arctic Brotherhood Hall on Broadway is one of Skagway's most photographed buildings — its facade is entirely covered with over 8,800 pieces of driftwood arranged in a geometric pattern, giving it an unmistakable look on the historic main street. It was built in 1899 by the fraternal order that formed to support the stampeders on the gold rush trails.

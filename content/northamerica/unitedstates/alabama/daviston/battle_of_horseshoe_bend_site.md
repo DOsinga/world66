@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: 'The exact barricade site where 800 Red Stick Creek warriors fell defending their homeland in 1814.'
 story: 'The Red Sticks built a 400-yard wall of earth and logs across the peninsula''s neck -- a formidable barrier that Jackson''s cannon could barely dent. The breakthrough came when Cherokee and Lower Creek allies swam the river, set fire to buildings behind the barricade, and forced the defenders to fight on two fronts simultaneously.'
+score: 8.1
 ---
 
 The barricade site is the emotional center of the park, marked by interpretive panels and a cleared field where the Red Sticks built their defensive wall. Standing here, you can trace the line of the fortification across the neck of the peninsula -- roughly 400 yards of packed earth and timber that the Creek warriors believed would hold against any assault. Jackson positioned two cannon on a hill about 80 yards away and fired for two hours before concluding that artillery alone would not breach the wall.

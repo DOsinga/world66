@@ -7,6 +7,7 @@ tags:
 snippet: "Small museum of the University of Freiburg's 550-year history"
 latitude: 47.99535
 longitude: 7.84863
+score: 7.1
 ---
 
 The Uniseum is a free, compact museum tucked inside the old university building on Bertoldstrasse. It tells the story of the Albert-Ludwigs-Universität from its founding in 1457 — making it one of Germany's oldest — to the present, with original lecture-room benches, student union pennants, and rooms devoted to the university's twenty-three Nobel laureates.

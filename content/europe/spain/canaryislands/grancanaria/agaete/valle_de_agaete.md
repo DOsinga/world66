@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.09
 longitude: -15.68
+score: 8.1
 ---
 
 The Valle de Agaete is the green valley that rises behind the town towards the mountains of Gran Canaria's interior. Unlike the arid south coast, this northwest-facing valley catches enough moisture from the trade winds to support lush cultivation: banana plantations, papaya, citrus, avocado, and — uniquely in Europe — commercial coffee. The Agaete coffee (Café de Agaete) is grown on small terraced plots at altitude and is considered one of the rarest coffees on the continent.

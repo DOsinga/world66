@@ -9,6 +9,7 @@ longitude: -14.013
 snippet: Five interlocking concrete domes on the hillside above town, tuned to Icelandic harmonics
 story: >
   German artist Lukas Kühne designed the five domes to resonate with the five notes of the traditional Icelandic tvísöngur, a form of two-voice singing used in the church and folk tradition. Each dome is a different size and amplifies a different pitch. When you stand inside one and hum its note, the resonance is remarkable; when two people stand in adjacent domes and sing together, the effect is uncanny.
+score: 8.1
 ---
 
 Tvísöngur (literally "two-song," for the traditional Icelandic harmonic singing form) is an outdoor sound sculpture installed on the steep hillside above Seyðisfjörður in 2012. Five concrete domes are arranged in an arc, each sized to resonate with one note of the pentatonic scale. The installation is designed to be experienced rather than just looked at — you step inside each dome and make sound, and the curved walls amplify and sustain it in ways that feel architectural and acoustic at once.

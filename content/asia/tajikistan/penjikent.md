@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/43714545@N06/53174166587
 latitude: 39.4962
 loc_type: city
 longitude: 67.6141
-score: 0.43
+score: 6.64
+snippet: Tajik town near Samarkand, with nearby ruins from the old Sogdian centre
+  of Ancient Penjikent.
 title: Penjikent
 type: location
 ---

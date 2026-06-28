@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Monopoli-ItalyiDec052021.j
 latitude: 40.9524
 loc_type: city
 longitude: 17.2999
-score: 0.64
+score: 8.51
+snippet: Puglian port town of whitewashed lanes, Adriatic harbour walls, and layered
+  Byzantine-to-Venetian history
 title: Monopoli
 type: location
 ---

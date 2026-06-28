@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.2
 ---
 
 Lake Ngardok is Micronesia's largest freshwater lake, sitting in the rainforest of Melekeok state. The lake and its catchment are a wetland reserve protected under the Ramsar convention, home to saltwater crocodiles, freshwater eels, and a population of endemic birds.

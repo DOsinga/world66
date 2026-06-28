@@ -10,6 +10,7 @@ tags:
 title: Elm Wildlife Tours
 type: poi
 url: www.elmwildlifetours.co.nz
+score: 6.2
 ---
 
 A family-run wildlife tour company based in Dunedin offering guided trips to the Otago Peninsula. Their half-day afternoon tour is timed to coincide with peak animal activity — yellow-eyed penguins returning from the sea, New Zealand sea lions lounging on the beach, and royal albatross soaring overhead.

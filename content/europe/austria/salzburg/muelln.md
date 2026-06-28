@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 neighbourhood: Mülln
+score: 6.8
 ---
 
 The quiet residential quarter on the northwest edge of the Altstadt, set into the western flank of the Mönchsberg, has a single defining feature: the Augustiner Bräustübl, the largest beer hall in Salzburg, run by Augustinian monks since 1621. The beer is brewed on site, served in stoneware mugs you collect yourself from a fountain.

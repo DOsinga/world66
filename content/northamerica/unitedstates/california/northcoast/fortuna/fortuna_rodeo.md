@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Fortuna Rodeo has run continuously since 1921, making it one of the longest-running rodeos on the West Coast. The week-long programme includes a soap box derby, a Junior Rodeo for under-18 riders, and the only Wild Cow Milking competition in the region — a chaotic event where teams of three try to extract enough milk from a half-wild range cow to pour from a bottle."
+score: 7.6
 ---
 
 The Fortuna Rodeo, held the third full week of July, is the town's signature event and the thing most likely to draw a visitor from outside Humboldt County. It is a working rodeo, sanctioned and competitive, rather than a tourist re-enactment — riders come from across the Pacific Northwest and the prize money is real.

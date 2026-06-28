@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 55.1637
 longitude: -118.8068
+score: 5.6
 ---
 
 The Heritage Discovery Centre is a small interpretive centre attached to the Grande Prairie Museum complex in Muskoseepi Park. It focuses on the natural and cultural heritage of the Peace Country, with hands-on exhibits aimed at families and a calendar of changing displays drawing on the museum's collections.

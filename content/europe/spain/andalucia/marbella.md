@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Captivating_Views_of_Old_T
 latitude: 36.508976
 loc_type: city
 longitude: -4.88562
-score: 0.64
+score: 8.8
+snippet: Costa del Sol resort town where whitewashed Andalusian lanes meet marina
+  wealth beneath La Concha.
 title: Marbella
 type: location
 ---

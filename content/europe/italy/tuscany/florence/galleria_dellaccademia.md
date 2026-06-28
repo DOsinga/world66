@@ -6,11 +6,13 @@ done:
 latitude: 43.7769
 longitude: 11.2587
 opening_hours: Tue–Sun 08:15–18:50; closed Mon
+score: 8.8
 snippet: Home to Michelangelo's original David
 tags:
 - 3 Days in Florence
 - things_to_do
 - museum
+- san_marco
 title: Galleria dell'Accademia
 type: poi
 url: www.galleriaaccademiafirenze.it

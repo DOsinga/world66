@@ -1,8 +1,7 @@
 ---
-category: Sculpture
 latitude: -33.9059
 longitude: 18.4196
-neighbourhood: Green Point
+score: 6.8
 scores:
   activities: 0.5912
   sight: 0.6507

@@ -5,10 +5,12 @@ done:
 latitude: 40.569392
 loc_type: city
 longitude: 16.500966
-score: 0.41
+score: 6.79
 sources:
 - https://en.wikipedia.org/wiki/Miglionico
 title: Miglionico
+snippet: Basilicata hilltop town dominated by Castello del Malconsiglio and views
+  between two river valleys
 type: location
 ---
 

@@ -7,6 +7,7 @@ tags:
 latitude: 59.4804
 longitude: 25.2498
 story: "Kalevi-Liiva takes its name from the Estonian mythological hero Kalevipoeg, the giant son of Kalev, whose legendary footprints and earthworks are credited with shaping much of the Estonian landscape in folk tradition."
+score: 6.5
 ---
 
 The Kalevi-Liiva dunes are an unusual natural feature for northern Estonia — a cluster of sand dunes formed by glacial outwash and subsequently shaped by wind coming off the Gulf of Finland. The dunes are modest in height but striking in context, rising out of the surrounding pine forest about 4.5 km south of Kaberneeme village.

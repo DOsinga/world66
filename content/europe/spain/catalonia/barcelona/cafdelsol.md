@@ -2,9 +2,11 @@
 address: Plaça del Sol 29, Gràcia
 latitude: 41.4034
 longitude: 2.1568
-snippet: "Laid-back neighbourhood bar on Gràcia's liveliest square"
+score: 6.4
+snippet: Laid-back neighbourhood bar on Gràcia's liveliest square
 tags:
 - bars_and_cafes
+- gracia
 title: Café del Sol
 type: poi
 ---

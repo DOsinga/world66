@@ -8,6 +8,7 @@ tags:
 latitude: 51.7597
 longitude: -0.5618
 snippet: Cruciform parish church with a thirteenth-century core
+score: 7.8
 ---
 
 The town's medieval parish church sits on the High Street at the corner of Church Lane, its squat central tower visible from much of the town. The core of the building is thirteenth-century, with later additions running through to a heavy Victorian restoration by William Butterfield. Inside, the medieval glass and a number of fine alabaster monuments survive in the chancel and the side chapels.

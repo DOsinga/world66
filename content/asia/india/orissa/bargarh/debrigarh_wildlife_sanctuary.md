@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature, wildlife]
 latitude: 21.5667
 longitude: 83.7833
 story: A small population of bison (gaur) was reintroduced into Debrigarh in the 2020s after the species had effectively disappeared from western Odisha for decades. Forest officers monitor the new herd by radio collar; visitors who linger near the Dhodrokusum watchtower in the late afternoon have a decent chance of seeing them come down to drink.
+score: 8.1
 ---
 
 Debrigarh covers around 350 square kilometres of dry deciduous forest on the western flank of the Barapahar hills, with the long reservoir formed by the Hirakud Dam running along its eastern boundary. The sanctuary is home to leopards, sloth bears, sambar, chital, wild boar, and a notable population of Indian gaur; resident and migratory birdlife around the Hirakud waters is abundant in winter. The combination of forest and large reservoir gives Debrigarh a different feel from most Indian sanctuaries — there are waterside trails, boat-based birdwatching, and watchtowers that look out over both forest and lake.

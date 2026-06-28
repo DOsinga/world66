@@ -6,12 +6,14 @@ done:
 latitude: 41.8925
 longitude: 12.4853
 opening_hours: Daily from 09:00; closing varies by season
+score: 9.7
 snippet: Sprawling ruins at the heart of ancient Rome
 tags:
 - 48 Hours in Rome
 - 3 Days in Rome
 - things_to_do
 - landmark
+- monti
 title: Roman Forum
 type: poi
 ---

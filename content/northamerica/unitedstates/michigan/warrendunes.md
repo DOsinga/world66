@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Warren_Dunes.JPG
 latitude: 41.920579
 loc_type: city
 longitude: -86.589715
-score: 0.46
+score: 6.92
+snippet: Lake Michigan state park with steep sand dunes, broad beaches, and beech-maple
+  forest trails.
 title: Warren Dunes
 type: location
 ---

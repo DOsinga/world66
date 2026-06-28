@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Cardiff_Bay_WMC.jpg
 latitude: 51.481655
 loc_type: city
 longitude: -3.179193
-score: 0.58
+score: 8.16
 title: Cardiff
+snippet: Compact Welsh capital where a castle-centred core meets bayfront redevelopment
+  and a strong cultural life.
 type: location
 ---
 

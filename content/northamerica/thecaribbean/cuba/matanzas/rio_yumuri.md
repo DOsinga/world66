@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.0486
 longitude: -81.5728
+score: 8.2
 ---
 
 A river that drains northward through a dramatic gorge — the Valle de Yumurí — before emptying into the Bahía de Matanzas. The valley is one of the most striking landscapes near the city: steep limestone walls, lush vegetation, and a valley floor that once held prosperous coffee and sugar plantations. Boat trips into the gorge can be arranged near the river mouth, and the road along the rim provides good views down into the valley.

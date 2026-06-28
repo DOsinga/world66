@@ -8,6 +8,7 @@ tags:
 - nature
 title: Serra do Curral
 type: poi
+score: 8.0
 ---
 
 The Serra do Curral is the limestone ridge that closes off the south side of the city — the long, wavy horizon line that gives Belo Horizonte its name. The ridge has been an official municipal symbol since 1960 and is visible from almost everywhere in town.

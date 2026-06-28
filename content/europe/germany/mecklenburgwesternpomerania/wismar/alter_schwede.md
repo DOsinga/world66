@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.8929
 longitude: 11.4628
+score: 8.1
 ---
 
 The Alter Schwede — the Old Swede — is the oldest surviving house on the Marktplatz, built around 1380, and one of the finest examples of North German Brick Gothic domestic architecture anywhere on the Baltic coast. It is a tall, stepped-gable merchant house of the kind that once lined every prosperous Hanseatic waterfront: deep red brick, narrow windows, and a gable profile that climbs in steps to a pointed peak. The name references Wismar's long Swedish period (1648–1803), when the town was a key Swedish possession on the German coast.

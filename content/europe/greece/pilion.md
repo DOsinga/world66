@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pilion_with_monastery_pau.
 latitude: 39.365088
 loc_type: city
 longitude: 23.135561
-score: 0.59
+score: 8.39
+snippet: Aegean peninsula east of Volos, with chestnut forests, stone villages, and
+  mythic centaur associations.
 title: Pilion
 todo_location_cleanup: done
 type: location

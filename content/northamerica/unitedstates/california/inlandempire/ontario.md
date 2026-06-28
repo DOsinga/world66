@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:GardinerWSpring05apr2006_(
 latitude: 34.065846
 loc_type: city
 longitude: -117.64843
-score: 0.33
+score: 5.55
+snippet: Inland Empire city east of Los Angeles, grown from citrus groves around Euclid
+  Avenue.
 title: Ontario
 type: location
 ---

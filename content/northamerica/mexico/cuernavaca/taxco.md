@@ -9,6 +9,7 @@ latitude: 18.5558
 longitude: -99.6058
 sources:
   - https://en.wikipedia.org/wiki/Taxco
+score: 8.7
 ---
 
 Taxco is a silver-mining town in the hills of Guerrero state, about 80km southwest of Cuernavaca, and it is one of the most visually striking colonial towns in Mexico. The streets are steep, narrow, and built of cobblestones; the houses are uniformly whitewashed with red-tiled roofs; and at the top of the central plaza rises the pink sandstone Baroque facade of the church of Santa Prisca, built in the 1750s by the silver magnate José de la Borda (the same man who funded the Jardín Borda in Cuernavaca).

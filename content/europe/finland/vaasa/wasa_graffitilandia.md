@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, art, outdoor]
 latitude: 63.0905
 longitude: 21.5864
+score: 6.3
 ---
 
 Wasa Graffitilandia occupies the site of Wasalandia, the amusement park that operated on Vaskiluoto island until it closed. Rather than demolish the park structures, the city repurposed the old railway warehouse and park buildings as an open-air street art space. The walls are available for anyone to paint — and people do, continuously. The result is a constantly changing gallery of graffiti and street art, ranging from quick tags to elaborate murals.

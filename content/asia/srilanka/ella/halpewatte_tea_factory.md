@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Working tea factory with tours and a viewing deck above Ella
+score: 7.6
 ---
 
 The largest tea factory in the Uva region, a few minutes' tuk-tuk ride above town on the road to Bandarawela. Tours run hourly through the day and walk you through the full process — withering, rolling, fermentation, drying, grading — in the actual working factory, not a mock-up. The smell is unforgettable. The shop at the end is reasonable rather than a trap.

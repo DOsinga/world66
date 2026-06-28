@@ -3,10 +3,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 3.148929
 longitude: 101.695676
-snippet: KL's oldest mosque at the confluence of two rivers
+score: 7.2
+snippet: KL's oldest mosque, built in 1907 at the confluence of the Gombak and Klang
+  rivers
 tags:
 - things_to_do
 - landmark
+- chinatown
 title: Jamek Mosque
 type: poi
 ---

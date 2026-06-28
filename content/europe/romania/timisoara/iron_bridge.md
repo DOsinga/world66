@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The Iron Bridge (Podul de Fier) crosses the Bega Canal between the Iosefin district and the centre, a single-span riveted-iron footbridge built in 1898 by the Klein engineering firm of Budapest. It was the first iron bridge in the city and was originally designed to carry horse-drawn trams; today it is restricted to pedestrians and cyclists.

@@ -4,6 +4,9 @@ done:
 latitude: 36.088
 loc_type: city
 longitude: 111.519
+score: 4.87
+snippet: Southern Shanxi city in the Fen River valley, tied to early Chinese civilisation
+  and Emperor Yao.
 sources:
 - https://en.wikivoyage.org/wiki/Linfen
 title: Linfen

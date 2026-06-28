@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Views_from_Haogu_Pagoda.jp
 latitude: 30.7667
 loc_type: city
 longitude: 120.75
+score: 6.41
+snippet: Jiangnan canal city north of Hangzhou, known for South Lake and pork-filled
+  zongzi
 sources:
 - https://en.wikivoyage.org/wiki/Jiaxing
 title: Jiaxing

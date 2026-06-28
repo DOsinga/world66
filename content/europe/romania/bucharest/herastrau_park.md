@@ -7,6 +7,7 @@ tags:
 - sight
 title: Herăstrău Park
 type: poi
+score: 7.4
 ---
 
 Bucharest's largest park, renamed King Michael I Park in 2017 but still called Herăstrău by everyone. It surrounds Lake Herăstrău, the largest of the chain of lakes that ring the northern edge of the city, and it is the lung of the city — three kilometres of shaded paths, an island, an open-air theatre, and a string of terraces where Bucharestians spend whole summer days.

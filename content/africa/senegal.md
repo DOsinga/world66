@@ -1,22 +1,22 @@
 ---
-title: Senegal
-type: location
-latitude: 14.475061
-longitude: -14.452961
-image: senegal.jpg
-image_source: https://commons.wikimedia.org/wiki/File:MégalitheSénégal.jpg
-image_license: CC BY-SA 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/gbaku/">John
-  Atherton</a>
-quick_facts:
-  Population: "18 million"
-  Language: "French (Wolof widely spoken)"
-  Westernmost Point: Cap Vert peninsula
-  Military Coups: "0"
 done:
   country_cleanup: 2026-03-31
-score: 0.49
+image: senegal.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/gbaku/">John Atherton</a>
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:MégalitheSénégal.jpg
+latitude: 14.475061
 loc_type: country
+longitude: -14.452961
+quick_facts:
+  Language: French (Wolof widely spoken)
+  Military Coups: '0'
+  Population: 18 million
+  Westernmost Point: Cap Vert peninsula
+score: 0.61
+snippet: West African country of Atlantic beaches, mbalax music, Sufi brotherhoods, and Wolof teranga.
+title: Senegal
+type: location
 ---
 
 *Africa > Senegal*

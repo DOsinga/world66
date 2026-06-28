@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cerro_Negro
 story: >
   Cerro Negro is the youngest volcano in Central America, first erupting in 1850. It has erupted more than 20 times since then — most recently in 1999 — making it one of the most active volcanoes in the hemisphere. The jet-black ash slope you slide down was deposited by these repeated eruptions.
+score: 8.1
 ---
 
 Cerro Negro is a young, black-ash volcano about 19 kilometres from León, and it has become famous for a peculiar activity: volcano boarding. You hike 45 minutes up the steep slope, pulling a plywood or foam board, then sit on it and push off down the loose volcanic ash. Speeds can reach 80 km/h if you let yourself go, though most people brake more than they intend.

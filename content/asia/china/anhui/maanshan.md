@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Maanshan_Yushanhu_lake.jpg
 latitude: 31.67
 loc_type: city
 longitude: 118.501
+score: 5.75
+snippet: Yangtze steel city in eastern Anhui, linked to Tang poet Li Bai's final years.
 sources:
 - https://en.wikivoyage.org/wiki/Ma%27anshan
 title: Ma'anshan

@@ -7,6 +7,7 @@ latitude: 69.0167
 longitude: 29.2167
 story: >
   The Treriksrøysa cairn — the three-country marker where Norway, Finland and Russia share a corner — sits on a small island in the Gandvik lake. You can walk up to the Norwegian shore and look across at it, but not to the cairn itself: it sits in the water, technically in all three countries at once.
+score: 8.0
 ---
 
 Øvre Pasvik, about 100 km south of Kirkenes along the border with Russia and Finland, is Norway's easternmost national park and its least visited. The landscape is pure Siberian taiga: endless spruce and pine forests, marshy ground between low ridges, brown bears and elk moving quietly through the trees. The park extends right to the Russian border, and the southern tip marks the point where three countries meet.

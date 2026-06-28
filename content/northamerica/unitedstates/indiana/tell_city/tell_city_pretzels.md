@@ -8,6 +8,7 @@ latitude: 37.9481
 longitude: -86.7657
 sources:
   - https://en.wikipedia.org/wiki/Tell_City,_Indiana
+score: 6.5
 ---
 
 The Tell City Pretzel Company has been baking its dense, hard, hand-twisted pretzels in the same downtown brick building since 1858 — by the same family recipe brought over from Switzerland by Casper Gloor. They are unlike anything sold as a "pretzel" elsewhere in the country: small, dark brown, salty, and almost cracker-hard. People mail-order them across the United States.

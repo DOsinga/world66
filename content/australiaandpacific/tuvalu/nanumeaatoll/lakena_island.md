@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -5.6472
 longitude: 176.0674
+score: 8.2
 ---
 
 Lakena is the second main island of Nanumea atoll, lying across the lagoon from the main settlement. It is uninhabited apart from the gardens that families from Lolua tend on a rotating basis — pulaka pits, taro, and stands of coconut maintained for the village. The reef around Lakena is the best snorkelling on the atoll, with healthy coral and visibility that often exceeds twenty metres on a calm day.

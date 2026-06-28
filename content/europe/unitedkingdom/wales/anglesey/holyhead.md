@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Stack_Lighthouse,_Ho
 latitude: 53.310671
 loc_type: city
 longitude: -4.633097
-score: 0.46
+score: 6.86
+snippet: Welsh ferry port on Anglesey's western tip, with Roman walls, sea cliffs,
+  and South Stack seabird colonies.
 sources:
 - https://en.wikipedia.org/wiki/Holyhead
 - https://en.wikipedia.org/wiki/South_Stack

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.87556
 longitude: -159.45306
+score: 7.7
 ---
 
 Kāneiolouma is an ancient Hawaiian village complex on the Poipū coast, containing some of the best-preserved pre-contact archaeology on Kauai's south shore. The site includes remnants of fishponds, agricultural terraces, a heiau (temple), and petroglyphs — a substantial settlement that was inhabited for centuries before Western contact. The Poipū Beach Foundation has been working with the community to restore and protect the complex, and guided tours are occasionally available.

@@ -5,7 +5,9 @@ done:
 latitude: 6.185882
 loc_type: city
 longitude: 6.729707
-score: 0.3
+score: 5.35
+snippet: Delta State capital on the River Niger, anchored by its bridge to Onitsha
+  and busy waterfront.
 title: Asaba, Delta State
 type: location
 ---

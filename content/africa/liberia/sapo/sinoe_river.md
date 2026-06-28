@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 5.4000
 longitude: -8.7500
+score: 7.8
 ---
 
 The Sinoe River and its tributaries are the watery backbone of Sapo, draining most of the park's central forest and flowing south to meet the sea near Greenville. The rivers and their pools are where most wildlife activity converges — pygmy hippos wallow in quieter side channels, forest elephants drink at certain stretches, and the river edges hold dense bird populations.

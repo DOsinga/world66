@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.3
 ---
 
 The main Ashkenazi synagogue at 171 Dilara Aliyeva Street, opened in 2003, is one of the largest synagogues in the Caucasus, built to serve the European Jewish community that came to Baku with the late nineteenth-century oil boom. The community is now small but the building is well maintained and active.

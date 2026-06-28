@@ -10,6 +10,7 @@ story: "The Black Stone set into the Kaaba's eastern corner is thought to date t
 sources:
   - https://en.wikipedia.org/wiki/Kaaba
   - https://en.wikipedia.org/wiki/Black_Stone
+score: 10.0
 ---
 
 The Kaaba is the cube-shaped building at the centre of the Grand Mosque — the most sacred structure in Islam. Muslims face toward the Kaaba during prayer, wherever they are in the world. The structure is approximately 13 metres high and draped in a black silk cloth (the kiswah) embroidered with gold Quranic verses, which is renewed annually.

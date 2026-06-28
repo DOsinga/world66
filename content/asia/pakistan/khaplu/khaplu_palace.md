@@ -9,6 +9,7 @@ latitude: 35.1517
 longitude: 76.3353
 story: >
   The Aga Khan Trust for Culture restored the palace between 2005 and 2010, rescuing it from near-collapse. The restoration uncovered a series of intricately carved wooden balconies and latticed windows that had been hidden behind later additions. One section of the palace is now a heritage hotel — you can stay in rooms where the local raja once received guests.
+score: 8.8
 ---
 
 Khaplu Palace — known locally as Yabgo Khar, the residence of the raja — perches on a rocky spur above the town, commanding views up the Shyok and Hushe valleys toward the Karakoram peaks. The structure is a mix of timber, stone, and mud-brick typical of Balti vernacular architecture, with elaborate carved balconies and latticed wooden screens on the upper floors.

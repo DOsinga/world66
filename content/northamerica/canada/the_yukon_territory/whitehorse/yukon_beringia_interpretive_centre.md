@@ -14,6 +14,7 @@ story: >
   mammoths with hair, flesh, and stomach contents still identifiable.
 sources:
   - https://en.wikipedia.org/wiki/Yukon_Beringia_Interpretive_Centre
+score: 7.8
 ---
 
 The Yukon Beringia Interpretive Centre is one of the more unusual museums in Canada. It focuses on the Ice Age landscape that covered this region 20,000 years ago, when Yukon was part of a vast unglaciated grassland called Beringia, home to mammoths, mastodons, giant short-faced bears, scimitar cats, and the first humans to enter the Americas. The centre has life-size reconstructions and actual fossils, including a full cast of the largest woolly mammoth recovered in North America.

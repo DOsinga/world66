@@ -1,0 +1,200 @@
+{
+  "round": 3610,
+  "timestamp": "2026-06-13T23:06:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_score": 13.9587,
+      "prior_variance": 0.491117,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.1963,
+      "prior_variance": 0.134597,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 4.4283,
+      "prior_variance": 0.158936,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 4.8606,
+      "prior_variance": 0.123278,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 4.5174,
+      "prior_variance": 0.133073,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 2.8711,
+      "prior_variance": 0.122825,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Nuwara Eliya",
+      "path": "asia/srilanka/nuwaraeliya",
+      "prior_score": 4.469,
+      "prior_variance": 0.133145,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 4.6992,
+      "prior_variance": 0.166974,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": 2.858,
+      "prior_variance": 0.138115,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Langmusi",
+      "path": "asia/china/sichuanprovince/langmusi",
+      "prior_score": 0.0782,
+      "prior_variance": 0.252194,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -2.324,
+      "prior_variance": 0.108004,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -2.113,
+      "prior_variance": 0.099944,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.3216,
+      "prior_variance": 0.14821,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -5.3446,
+      "prior_variance": 0.142708,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -3.6965,
+      "prior_variance": 0.13274,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Erlian",
+      "path": "asia/china/innermongolia/erlian",
+      "prior_score": -5.4068,
+      "prior_variance": 0.159144,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -5.0394,
+      "prior_variance": 0.128907,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -5.9736,
+      "prior_variance": 0.152825,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_score": -6.04,
+      "prior_variance": 0.158056,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -8.8227,
+      "prior_variance": 0.292763,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -6.7646,
+      "prior_variance": 0.157122,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -8.1567,
+      "prior_variance": 0.220794,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -7.7967,
+      "prior_variance": 0.205856,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -6.9029,
+      "prior_variance": 0.21672,
+      "prior_n": 11
+    }
+  ]
+}

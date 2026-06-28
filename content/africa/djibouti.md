@@ -1,20 +1,22 @@
 ---
-title: Djibouti
-type: location
-latitude: 11.5721
-longitude: 43.1456
 image: djibouti.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg
-image_license: Public domain
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Fishercd&amp;action=edit&amp;redlink=1"
   class="new" title="User:Fishercd (page does not exist)">Fishercd</a>
-quick_facts:
-  Population: "1 million"
-  Languages: "French & Arabic"
-  Lake Assal: "155 m below sea level"
-  Foreign Military Bases: "6"
-score: 0.41
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg
+latitude: 11.5721
 loc_type: country
+longitude: 43.1456
+quick_facts:
+  Foreign Military Bases: '6'
+  Lake Assal: 155 m below sea level
+  Languages: French & Arabic
+  Population: 1 million
+score: 0.43
+snippet: Small Red Sea country of volcanic rock, salt flats, crater lakes, and Afar
+  rift landscapes.
+title: Djibouti
+type: location
 ---
 
 Djibouti is one of the smallest and least visited countries in Africa, a sliver of volcanic rock and salt flats wedged between [Eritrea](/africa/eritrea), [Ethiopia](/africa/ethiopia), and [Somalia](/africa/somalia) at the mouth of the Red Sea. It is brutally hot, genuinely expensive, and rewards the traveler with landscapes that look like they belong on another planet.

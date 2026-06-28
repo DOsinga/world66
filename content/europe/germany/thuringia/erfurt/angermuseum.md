@@ -9,6 +9,7 @@ latitude: 50.9756
 longitude: 11.0342
 sources:
   - https://en.wikipedia.org/wiki/Angermuseum
+score: 7.8
 ---
 
 The main art museum of Erfurt, housed in a handsome Baroque building on the Anger — the city's broad commercial boulevard. The collection covers applied arts and fine arts from the Middle Ages through the 20th century, with particularly strong holdings in medieval carved altarpieces and German painting. The Cranach-era religious works are exceptional.

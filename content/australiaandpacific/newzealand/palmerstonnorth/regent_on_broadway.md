@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Regent on Broadway
 type: poi
+score: 7.2
 ---
 
 The Regent on Broadway is the most architecturally interesting building in central Palmy. Designed by the prolific cinema architects Charles and Eric Reichard and opened in 1930, it is a near-pristine example of early Art Deco, with a sweeping marble-faced foyer, a 1,400-seat auditorium, and the original stained-glass and brass fittings. The cinema closed in the 1980s and the building was carefully restored in the 1990s as a live performance venue.

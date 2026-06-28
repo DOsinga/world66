@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 13.1420
 longitude: 123.7400
+score: 6.6
 ---
 
 Waway is the most consistently recommended local restaurant for Bicolano cuisine, operating from a simple shopfront in the central area and popular with both locals and travellers. The menu covers the essential dishes of the region: laing (taro leaves cooked in coconut milk and chilli), Bicol Express (pork in a fiery coconut-milk sauce), pinangat (meat and vegetables wrapped in taro leaf and stewed), and grilled seafood from the Albay Gulf.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 57.7775
 longitude: 14.1717
+score: 7.4
 ---
 
 Spira is Jönköping's main cultural hub, a modern building on the waterfront that houses the city theatre, concert hall, and exhibition spaces under one roof. It opened in 2011 and quickly became a landmark — the building's distinctive angular profile is visible from much of the lakefront.

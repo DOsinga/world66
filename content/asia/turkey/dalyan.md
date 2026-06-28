@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dalyan_view_from_lycian_to
 latitude: 36.835018
 loc_type: city
 longitude: 28.642391
-score: 0.63
+score: 8.61
+snippet: Southwest Turkish river town between Caunos ruins, turtle-nesting Iztuzu
+  Beach, and reed-lined boat channels.
 title: Dalyan
 type: location
 ---

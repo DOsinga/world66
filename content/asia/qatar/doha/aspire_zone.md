@@ -9,6 +9,7 @@ latitude: 25.2638
 longitude: 51.4468
 story: >
   The Aspire Tower — the tilted flame-shaped skyscraper at the heart of the zone — was built for the 2006 Asian Games and reaches 300 metres. At the tip of the "flame" sits a gas burner that was lit during the opening ceremony but is rarely used since, as it costs a large amount to run and can be seen from much of southern Doha when lit.
+score: 6.8
 ---
 
 Aspire Zone is Doha's major sports district, built for the 2006 Asian Games and now a permanent complex of stadiums, training academies, cycling tracks, parkland, and the Aspire Tower. The Khalifa International Stadium — renovated for the 2022 FIFA World Cup — is at its heart, along with the 3-2-1 Qatar Olympic and Sports Museum.

@@ -9,6 +9,7 @@ tags:
   - historic_house
 story: >
   On 13 March 1781, William Herschel was observing the night sky from the garden of this house when he spotted what he initially took to be a comet. It turned out to be the planet Uranus — the first planet discovered since antiquity. Herschel was not a professional astronomer but a musician, working as organist at the Octagon Chapel in Bath.
+score: 7.1
 ---
 
 The modest Georgian townhouse on New King Street where William Herschel discovered the planet Uranus in 1781. The museum tells the story of Herschel and his sister Caroline, who assisted his observations and became a notable astronomer in her own right. The small garden where the discovery was made can still be visited, and a replica of his telescope is on display.

@@ -6,6 +6,7 @@ longitude: 7.3550
 tags:
 - things_to_do
 - museum
+score: 5.8
 ---
 
 A modest old-fashioned natural history museum founded by the Society of Natural History of Colmar in 1859, with Bartholdi himself among its early donors. Two floors of mineralogy, palaeontology, regional zoology and a slightly random ethnographic collection — Egyptian artefacts, Pacific Island carvings, North African textiles — collected by 19th-century Colmar travellers and missionaries.

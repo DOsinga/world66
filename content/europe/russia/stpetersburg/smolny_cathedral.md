@@ -13,6 +13,7 @@ story: >
   Elizabeth's death halted construction and the bell tower was never built. The cathedral was
   finally finished by Vasily Stasov in 1835, almost a century after Rastrelli started, and it remains
   the most exuberant baroque building in Russia.
+score: 8.6
 ---
 
 Smolny Cathedral, on the east bend of the Neva away from the main tourist circuit, is the masterpiece of Bartolomeo Rastrelli — the architect who also gave St Petersburg the Winter Palace, the Catherine Palace, and the Stroganov Palace. The exterior is dazzling pale blue and white, with the five domes clustered tightly around the central drum like a Russian Orthodox church compressed into baroque form. The interior is comparatively spare, the ornate Rastrelli iconostasis having been removed in the Soviet period.

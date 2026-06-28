@@ -1,6 +1,6 @@
 ---
 done:
-  link_coverage: '2026-06-07'
+  link_coverage: '2026-06-22'
 image: greymouth.jpg
 image_attribution: Michal Klajban
 image_license: CC BY-SA 4.0
@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Grey_River_in_Greymouth,_W
 latitude: -42.45
 loc_type: city
 longitude: 171.2075
+score: 7.09
+snippet: Working West Coast town at the Grey River mouth, terminus of the TranzAlpine
+  railway
 sources:
 - https://en.wikipedia.org/wiki/Greymouth
 title: Greymouth

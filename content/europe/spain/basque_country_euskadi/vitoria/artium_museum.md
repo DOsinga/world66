@@ -6,6 +6,7 @@ longitude: -2.6722
 tags:
   - things_to_do
   - museum
+score: 8.5
 ---
 
 The Basque Centre-Museum of Contemporary Art opened in 2002 in a converted bus station at the edge of the old town. The permanent collection is built around late 20th-century Basque art — Oteiza, Chillida, Tàpies, Equipo Crónica — and the temporary programme is strong, regularly showing major international names.

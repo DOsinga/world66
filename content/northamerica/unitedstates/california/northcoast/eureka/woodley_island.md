@@ -7,6 +7,7 @@ tags:
 - sight
 title: Woodley Island Marina
 type: poi
+score: 6.5
 ---
 
 Woodley Island is a small island in Humboldt Bay connected to the mainland by a causeway on the north side of downtown. The marina here is home to Eureka's commercial fishing fleet — dungeness crab boats, trawlers, and salmon boats — and walking the docks gives a more honest picture of the working waterfront than the tourist-facing Old Town strip.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The irrigated date palms that have supported life on the wadi floor for two millennia
+score: 7.9
 ---
 
 The flat strip of green that runs along the south side of Shibam, between the city wall and the desert proper, is the agricultural heart of the oasis: date palms, vegetable plots, and small stands of fodder grass, all watered by a network of channels fed from wells and from the rare flash floods of the wadi. Without the palm groves there would be no walled city — every brick of every tower was made from the wadi's silt, baked in the wadi's sun, and roofed with the wadi's palm trunks.

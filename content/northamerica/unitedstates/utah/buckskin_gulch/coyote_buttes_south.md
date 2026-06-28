@@ -7,6 +7,7 @@ tags:
 - sight
 title: Coyote Buttes South
 type: poi
+score: 8.6
 ---
 
 While the northern section of Coyote Buttes draws the crowds competing for Wave permits, Coyote Buttes South requires its own permit but sees far fewer visitors. The landscape here is equally dramatic: wind-eroded sandstone in shades of red, orange, pink, and cream, with teepee-like formations, small arches, and vast expanses of crossbedded Navajo sandstone. The Cottonwood Teepees formation is the most distinctive feature.

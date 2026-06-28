@@ -9,6 +9,7 @@ longitude: 78.3622
 snippet: Weekly livestock market on the edge of town, one of the most authentic in Central Asia
 sources:
   - https://en.wikipedia.org/wiki/Karakol
+score: 8.3
 ---
 
 The Sunday animal market on the western edge of Karakol is one of the most vivid market experiences in Central Asia. From dawn, herders ride in from the surrounding valleys on horseback, leading cattle, sheep, and horses to trade. The air fills with the sounds of livestock and rapid negotiation — deals are struck with handshakes and the slapping of palms. The market is entirely local: you will not find tourist stalls or souvenir sellers here, just farmers assessing animals and buyers haggling.

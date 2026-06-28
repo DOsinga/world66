@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/25061723@N00/40431879565
 latitude: 11.5
 loc_type: city
 longitude: -85.4
-score: 0.52
+score: 7.52
+snippet: Vast freshwater lake, locally Cocibolca, with volcanic islands and a long
+  canal dream
 title: Lake Nicaragua
 type: location
 ---

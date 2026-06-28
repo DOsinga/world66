@@ -13,6 +13,7 @@ story: >
   ballroom burned down in mysterious circumstances in 1971 — it was derelict
   and there were squatters on the island at the time. The musicians who
   remember it describe the venue with something approaching reverence.
+score: 6.8
 ---
 
 Eel Pie Island is a small island in the middle of the Thames opposite Twickenham Embankment, accessible only by a footbridge that is private and mostly closed to the public. In the early 1960s, its ballroom hosted what became known as the Eel Pie Island Hotel concerts — a series of R&B and blues nights that helped launch the careers of the Rolling Stones, the Who, and a generation of British rock musicians. The Rolling Stones were the house band for a period.

@@ -9,6 +9,7 @@ tags:
 latitude: -4.0970
 longitude: 143.1523
 story: "Korogu's carvers were among the first to sell large pieces to outside collectors, and several major Sepik works in European museums came out of this single village in the 1960s and 1970s. The trade continues — visit a carver's workshop and a half-finished mask will probably be sitting on a banana leaf beside the hammock."
+score: 9.0
 ---
 
 Korogu is one of the great Middle Sepik villages, a long string of stilt-houses set back from the bank under a canopy of mangoes and breadfruit. The men's house here is one of the largest in the region, with a triple-tiered roof and a forest of carved house-posts. Inside, ancestor masks, garamut log drums, and the sacred flutes used during initiation rest in the half-dark.

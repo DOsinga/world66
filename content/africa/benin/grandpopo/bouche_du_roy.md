@@ -10,6 +10,7 @@ longitude: 1.9312
 snippet: "Where the Mono river meets the sea — a UNESCO Biosphere Reserve of mangroves, lagoons and fishing villages accessible by pirogue"
 story: >
   The Bouche du Roy (King's Mouth) takes its name not from any king of Benin but from a European cartographic tradition: early Portuguese navigators named river mouths and estuaries after the grandest things they could imagine. The local Hula people who have fished these waters for centuries call it something different entirely.
+score: 8.5
 ---
 
 The Bouche du Roy is where the Mono River flows into the Atlantic at the Benin-Togo border — a wide, layered estuary of lagoons, mangroves, sandbanks, and fishing villages that forms part of a UNESCO Biosphere Reserve. You get here by pirogue from Grand-Popo, a journey of 30 to 45 minutes depending on the tide and the current.

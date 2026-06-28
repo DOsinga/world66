@@ -8,6 +8,7 @@ tags:
 latitude: 47.6115
 longitude: 13.0418
 story: "The Kehlsteinhaus was built in 1939 as a 50th birthday gift for Adolf Hitler, presented by Martin Bormann. Hitler himself reportedly visited only 14 times and never liked the building, suffering from vertigo and altitude sickness. The final 124 metres from the bus terminal to the summit is climbed inside the mountain itself, via a circular brass-panelled elevator bored directly into the Kehlstein rock."
+score: 7.9
 ---
 
 The Kehlsteinhaus stands at 1,834 metres on the summit of the Kehlstein mountain, reached by a spectacular 6.5km toll road carved into the mountainside and then a brass-lined elevator through the final 124 metres of rock. The building itself — a stone and copper-roofed pavilion with panoramic views across Germany and Austria — was built for Hitler's 50th birthday in 1939 and survived the 1945 bombing that destroyed the Berghof below it. It now operates as a restaurant.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Livermore_Carnegie_Library
 latitude: 37.682058
 loc_type: city
 longitude: -121.768053
-score: 0.38
+score: 6.46
+snippet: Bay Area valley city where old California wineries sit beside major federal
+  research labs.
 title: Livermore
 type: location
 ---

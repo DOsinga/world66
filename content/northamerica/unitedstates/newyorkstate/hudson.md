@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-06-01'
 latitude: 42.2528
+loc_type: city
 longitude: -73.7907
+score: 7.32
+snippet: Hudson River city of whaling origins, notorious reinventions, and remarkably
+  intact historic architecture
+sources:
+- https://en.wikipedia.org/wiki/Hudson,_New_York
+- https://en.wikipedia.org/wiki/Hudson_Historic_District_(New_York)
 title: Hudson
 type: location
-score: 0.43
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Hudson,_New_York
-  - https://en.wikipedia.org/wiki/Hudson_Historic_District_(New_York)
 ---
 
 Hudson has one of the more colourful backstories of any small city in New York State. Founded in 1785 by a group of Nantucket whalers looking for a river port safe from British warships, it boomed through the early 19th century as a whaling and trading centre. After the whaling industry collapsed it reinvented itself — rather notoriously — as a semi-official centre for gambling and prostitution that operated openly until a state police raid in 1950. Since then it has transformed once more, this time into one of the most talked-about small cities in the Hudson River Valley.

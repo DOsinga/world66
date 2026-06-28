@@ -8,6 +8,7 @@ latitude: 54.0355
 longitude: 19.0280
 sources:
   - https://en.wikipedia.org/wiki/Malbork_Castle
+score: 8.1
 ---
 
 The Amber Museum within Malbork Castle is one of the best collections of amber craftsmanship in Poland. Amber was the Teutonic Knights' most valuable commodity — they held a monopoly on Baltic amber production and trade for over a century, and the proceeds funded the castle's construction and expansion. The collection covers amber objects from the medieval period through to the twentieth century, including ecclesiastical pieces, jewellery, carved figurines, and works of astonishing intricacy.

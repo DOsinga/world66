@@ -1,0 +1,200 @@
+{
+  "round": 3411,
+  "timestamp": "2026-06-13T22:51:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 11.2102,
+      "prior_variance": 0.298298,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/avebury",
+      "prior_score": 3.475,
+      "prior_variance": 0.13134,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.7744,
+      "prior_variance": 0.16281,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.2297,
+      "prior_variance": 0.099003,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.4583,
+      "prior_variance": 0.112933,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.7714,
+      "prior_variance": 0.127452,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -1.4381,
+      "prior_variance": 0.137108,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.5001,
+      "prior_variance": 0.121211,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -2.3241,
+      "prior_variance": 0.164049,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -0.5639,
+      "prior_variance": 0.119295,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.4615,
+      "prior_variance": 0.149538,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": -2.5085,
+      "prior_variance": 0.132125,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.5678,
+      "prior_variance": 0.132273,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.6332,
+      "prior_variance": 0.138348,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -2.1682,
+      "prior_variance": 0.135117,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -3.823,
+      "prior_variance": 0.136719,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -4.9343,
+      "prior_variance": 0.132406,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -2.8855,
+      "prior_variance": 0.1123,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -1.0942,
+      "prior_variance": 0.118074,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -2.1446,
+      "prior_variance": 0.178837,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -3.3382,
+      "prior_variance": 0.114895,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": -3.7913,
+      "prior_variance": 0.135711,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -7.9452,
+      "prior_variance": 0.192603,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -10.8156,
+      "prior_variance": 0.742739,
+      "prior_n": 10
+    }
+  ]
+}

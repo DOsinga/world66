@@ -8,6 +8,7 @@ tags:
   - sight
   - beaches
   - swimming
+score: 8.6
 ---
 
 Scarborough Beach is the social heart of Perth's northern beach suburbs — a broad, white-sand strand running for about two kilometres along the Indian Ocean, backed by a redeveloped foreshore of grassy terraces, food trucks, public art and an amphitheatre. The surf is reliable enough to support a small year-round surfing scene; flags are set out daily by the patrol club.

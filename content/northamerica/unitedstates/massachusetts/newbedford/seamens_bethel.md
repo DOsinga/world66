@@ -8,6 +8,7 @@ latitude: 41.6356
 longitude: -70.9239
 story: >
   The ship's bow pulpit inside the Bethel is a replica, added in 1961 after the John Huston film of Moby-Dick brought a wave of tourists who expected to find it. Melville invented it for the novel — the real chapel had an ordinary pulpit when he prayed here in 1840. The cenotaphs on the walls commemorating whalers lost at sea, however, are entirely real and predate the novel by decades.
+score: 8.4
 ---
 
 The Seamen's Bethel at 15 Johnny Cake Hill is the chapel where Herman Melville prayed before his 1841 whaling voyage — and the inspiration for the "Whaleman's Chapel" in the opening chapters of Moby-Dick. Built in 1832 by the New Bedford Port Society, it served as a spiritual waystation for sailors departing on voyages that might last three or four years and from which some never returned. The walls are lined with cenotaphs — memorial tablets to whalers who died at sea — naming men and vessels lost to storms, strandings, and angry whales.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.1975
 longitude: 112.9632
+score: 6.7
 ---
 
 Evening river cruises on the Xiang River depart from the Orange Isle Bridge area and the central promenade, offering views of both riverbanks as the city lights come on. From the river, the combination of the Mao sculpture on Orange Island, the IFS towers, and the older city fabric visible on the east bank gives a more comprehensive picture of Changsha's layers than any single vantage point on land provides.

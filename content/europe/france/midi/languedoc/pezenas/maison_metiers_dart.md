@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.4610
 longitude: 3.4225
+score: 7.1
 ---
 
 The Maison des Métiers d'Art is housed in the former consular building — the seat of the town's governing consuls during Pézenas's long run as a major administrative center for the Languedoc. The building itself is worth visiting for the architecture; the fact that it now showcases contemporary craft and art is a good bonus. Entry is free.

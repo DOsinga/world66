@@ -7,6 +7,7 @@ tags:
 - beach
 title: Suan Son Pradiphat Beach
 type: poi
+score: 6.7
 ---
 
 Fringed with pine trees, Suan Son Pradiphat is a peaceful, lovely beach, where you can get away from it all.

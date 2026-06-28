@@ -9,6 +9,7 @@ latitude: 41.1222
 longitude: 121.1444
 story: >
   Guta Pagoda was built during the Liao Dynasty — probably in the eleventh century, contemporary with Fengguo Temple to the south. At fifty-seven metres it is the tallest ancient brick tower in Liaoning, and it has survived intact because the city around it was too poor for long periods to afford the demolitions that cleared so many similar structures elsewhere.
+score: 7.5
 ---
 
 Guta Pagoda — "Guta" means old pagoda in Chinese — is the tallest surviving ancient brick pagoda in Liaoning Province, rising fifty-seven metres above the old city neighbourhood. Built during the Liao Dynasty in the eleventh century, the thirteen-storey octagonal tower is the oldest structure in Jinzhou and the landmark by which residents orient themselves in the central districts.

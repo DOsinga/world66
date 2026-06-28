@@ -1,200 +1,200 @@
 {
   "round": 2009,
-  "timestamp": "2026-04-13T16:02:30",
+  "timestamp": "2026-06-13T21:12:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Nice",
-      "path": "europe/france/midi/cotedazur/nice",
-      "prior_score": 9.5908,
-      "prior_variance": 0.35409,
-      "prior_n": 5
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_score": 12.0482,
+      "prior_variance": 0.521824,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Hoi An",
-      "path": "asia/vietnam/hoian",
-      "prior_score": 9.8397,
-      "prior_variance": 0.472466,
-      "prior_n": 5
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 6.3248,
+      "prior_variance": 0.229654,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Torres del Paine",
-      "path": "southamerica/argentina/patagonia/torresdelpaine",
-      "prior_score": 7.8965,
-      "prior_variance": 0.412144,
-      "prior_n": 5
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_score": 6.8354,
+      "prior_variance": 0.297671,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Churchill",
-      "path": "northamerica/canada/manitoba/churchill",
-      "prior_score": 2.8665,
-      "prior_variance": 0.396613,
-      "prior_n": 5
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.7582,
+      "prior_variance": 0.238468,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "1",
-      "path": "europe/france/val_disere/1",
-      "prior_score": 1.1206,
-      "prior_variance": 0.389545,
-      "prior_n": 5
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 3.0802,
+      "prior_variance": 0.246649,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Killington",
-      "path": "northamerica/unitedstates/vermont/killington",
-      "prior_score": 3.0343,
-      "prior_variance": 0.282998,
-      "prior_n": 5
+      "title": "Salem",
+      "path": "northamerica/unitedstates/massachusetts/salem",
+      "prior_score": 4.6808,
+      "prior_variance": 0.224107,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Lloret de Mar",
-      "path": "europe/spain/lloret_de_mar",
-      "prior_score": 1.9279,
-      "prior_variance": 0.217445,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.4893,
+      "prior_variance": 0.237882,
       "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Bregenzerwald",
-      "path": "europe/austria/bregenzerwald",
-      "prior_score": 3.1573,
-      "prior_variance": 0.252187,
-      "prior_n": 5
-    },
-    {
-      "rank": 9,
-      "title": "Huancayo",
-      "path": "southamerica/peru/huancayo",
-      "prior_score": 0.6395,
-      "prior_variance": 0.25724,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 7.0521,
+      "prior_variance": 0.221998,
       "prior_n": 6
     },
     {
+      "rank": 9,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 4.368,
+      "prior_variance": 0.336784,
+      "prior_n": 7
+    },
+    {
       "rank": 10,
-      "title": "Hormuz Island",
-      "path": "asia/iran/hormuz_island",
-      "prior_score": 0.5693,
-      "prior_variance": 0.365667,
-      "prior_n": 5
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.448,
+      "prior_variance": 0.282592,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Chebika",
-      "path": "africa/tunisia/chebika",
-      "prior_score": 1.3326,
-      "prior_variance": 0.302384,
-      "prior_n": 5
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.6684,
+      "prior_variance": 0.245376,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Cheltenham",
-      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
-      "prior_score": 2.5921,
-      "prior_variance": 0.23861,
-      "prior_n": 5
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 2.7091,
+      "prior_variance": 0.215299,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Lipica",
-      "path": "europe/slovenia/lipica",
-      "prior_score": 1.0309,
-      "prior_variance": 0.236736,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 4.1969,
+      "prior_variance": 0.230227,
       "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Autun",
-      "path": "europe/france/east/burgundy/autun",
-      "prior_score": 1.5059,
-      "prior_variance": 0.239369,
-      "prior_n": 5
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_score": 3.0758,
+      "prior_variance": 0.234723,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Naumburg",
-      "path": "europe/germany/thuringia/naumburg",
-      "prior_score": -0.55,
-      "prior_variance": 0.29247,
-      "prior_n": 5
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury",
+      "prior_score": 3.7591,
+      "prior_variance": 0.307057,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Koessen",
-      "path": "europe/austria/koessen",
-      "prior_score": -0.1503,
-      "prior_variance": 0.289466,
-      "prior_n": 5
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 3.7903,
+      "prior_variance": 0.207011,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Forde",
-      "path": "europe/norway/forde",
-      "prior_score": 0.5159,
-      "prior_variance": 0.347172,
-      "prior_n": 5
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.7881,
+      "prior_variance": 0.240946,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Neretva",
-      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
-      "prior_score": -1.0439,
-      "prior_variance": 0.356389,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 2.2817,
+      "prior_variance": 0.267601,
       "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Idaho",
-      "path": "northamerica/unitedstates/idaho",
-      "prior_score": -0.3438,
-      "prior_variance": 0.302169,
-      "prior_n": 5
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_score": 1.2526,
+      "prior_variance": 0.226709,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Timor-Leste",
-      "path": "asia/easttimor",
-      "prior_score": -0.0172,
-      "prior_variance": 0.320194,
-      "prior_n": 5
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 0.0289,
+      "prior_variance": 0.233091,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Central City",
-      "path": "northamerica/unitedstates/colorado/central_city",
-      "prior_score": -1.6368,
-      "prior_variance": 0.25426,
-      "prior_n": 5
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 2.9986,
+      "prior_variance": 0.250435,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Warrens",
-      "path": "northamerica/unitedstates/wisconsin/warrens",
-      "prior_score": -6.021,
-      "prior_variance": 0.288038,
-      "prior_n": 5
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 4.4139,
+      "prior_variance": 0.251959,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Wa",
-      "path": "africa/ghana/wa",
-      "prior_score": -6.3916,
-      "prior_variance": 0.346819,
-      "prior_n": 5
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 2.1618,
+      "prior_variance": 0.268668,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Labe",
-      "path": "africa/guineeconakry/labe",
-      "prior_score": -7.1977,
-      "prior_variance": 0.382567,
-      "prior_n": 5
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -0.7093,
+      "prior_variance": 0.235947,
+      "prior_n": 6
     }
   ]
 }

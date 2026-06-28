@@ -1,0 +1,200 @@
+{
+  "round": 4423,
+  "timestamp": "2026-06-14T00:11:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 2.8777,
+      "prior_variance": 0.093831,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.1792,
+      "prior_variance": 0.109787,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.3827,
+      "prior_variance": 0.09511,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.2567,
+      "prior_variance": 0.092787,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -0.24,
+      "prior_variance": 0.103898,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -2.6279,
+      "prior_variance": 0.096485,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -2.4785,
+      "prior_variance": 0.115836,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.3927,
+      "prior_variance": 0.103946,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -2.4386,
+      "prior_variance": 0.136024,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.059,
+      "prior_variance": 0.095085,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -1.8809,
+      "prior_variance": 0.092507,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.5471,
+      "prior_variance": 0.115803,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_score": -1.2446,
+      "prior_variance": 0.125677,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/escondido",
+      "prior_score": -2.6615,
+      "prior_variance": 0.102242,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -3.245,
+      "prior_variance": 0.106299,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_score": -4.3133,
+      "prior_variance": 0.117568,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -2.6606,
+      "prior_variance": 0.088678,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.1635,
+      "prior_variance": 0.110388,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -3.5031,
+      "prior_variance": 0.097368,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -5.8326,
+      "prior_variance": 0.102458,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -5.2528,
+      "prior_variance": 0.124367,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -4.9996,
+      "prior_variance": 0.114106,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_score": -4.5411,
+      "prior_variance": 0.111363,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -6.3834,
+      "prior_variance": 0.121595,
+      "prior_n": 15
+    }
+  ]
+}

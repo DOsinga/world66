@@ -1,6 +1,12 @@
 ---
+latitude: 12.279
+longitude: 124.643
+score: 7.8
 tags:
-- sights
+- things_to_do
+- sight
+- waterfall
+- swimming
 title: Bangon-Bugtong Falls
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: 98.2853
 tags:
   - beaches
   - sight
+score: 7.2
 ---
 
 A small, quieter beach tucked into a cove just south of Patong's southern headland, reached by a short coastal road through low hills. Tri Trang is what Patong used to be: a strip of pale sand backed by trees, a few seafood shacks, no Jet Skis, and dramatically clearer water than the main beach.

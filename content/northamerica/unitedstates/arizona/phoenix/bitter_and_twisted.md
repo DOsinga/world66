@@ -10,6 +10,7 @@ tags:
 title: Bitter & Twisted Cocktail Parlour
 type: poi
 url: bitterandtwistedaz.com
+score: 7.6
 ---
 
 Bitter & Twisted occupies the ground-floor space of the Luhrs Building that was once the home of the state liquor commission — the office that issued every liquor licence in Arizona after the end of Prohibition. The bar plays the historical irony for all it's worth: a long mahogany counter, low lighting, an enormous menu of cocktails organised into illustrated chapters, and a no-photos policy in the back room.

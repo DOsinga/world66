@@ -8,6 +8,7 @@ latitude: 3.5666
 longitude: 101.65
 sources:
   - https://en.wikipedia.org/wiki/Kuala_Kubu_Bharu
+score: 7.3
 ---
 
 The Selangor River — Sungai Selangor — runs down from the Titiwangsa range and through the valley below Kuala Kubu Baru before widening into the Selangor Dam reservoir downstream. The stretch above the dam runs through a forested gorge and is the main white-water rafting river in peninsular Malaysia. Guided half-day trips take groups through a series of grade two and three rapids — enough to keep things exciting without requiring prior experience.

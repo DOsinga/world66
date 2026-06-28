@@ -6,6 +6,7 @@ longitude: 5.4170
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The southern of Harlingen's three inner harbours, and the most photogenic. Tall narrow merchants' houses, restored warehouses now converted to homes and small shops, the spires of the old town behind, and a long line of traditional Frisian sailing ships — tjalken, klippers, skûtsjes — moored along the quay. In summer the harbour is alive; in winter the ships still in the water, lights on the masts, the scene is even better.

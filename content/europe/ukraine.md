@@ -1,21 +1,23 @@
 ---
-latitude: 49.487197
-longitude: 31.271832
-title: Ukraine
-type: location
-image: ukraine.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Chocim_stronghold_front.jpg
-image_license: CC BY 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Galileo01" title="User:Galileo01">Galileo01</a>
 done:
   country_cleanup: 2026-03-29
-quick_facts:
-  Population: "~37 million (pre-war 44 million)"
-  Travel Warning: "Active war zone since Feb 2022"
-  Largest Country Entirely in Europe: "603,550 km²"
-  Sunflower Oil Production: "Largest exporter in the world"
-score: 0.32
+image: ukraine.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Galileo01" title="User:Galileo01">Galileo01</a>
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Chocim_stronghold_front.jpg
+latitude: 49.487197
 loc_type: country
+longitude: 31.271832
+quick_facts:
+  Largest Country Entirely in Europe: 603,550 km²
+  Population: ~37 million (pre-war 44 million)
+  Sunflower Oil Production: Largest exporter in the world
+  Travel Warning: Active war zone since Feb 2022
+score: 0.55
+snippet: Large eastern European country of ancient cities, rolling steppe, Carpathian
+  forests, and Black Sea coast
+title: Ukraine
+type: location
 ---
 
 Ukraine is one of Europe's largest countries, a place of extraordinary depth — ancient cities, rolling steppes, the forested Carpathians in the west, and the Black Sea coast in the south. Before the Russian invasion of February 2022, it was drawing more visitors every year, and [Lviv](/europe/ukraine/lviv) had become one of the continent's most beloved cities for weekend breaks.

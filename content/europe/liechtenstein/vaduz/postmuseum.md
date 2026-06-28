@@ -8,6 +8,7 @@ tags:
 title: Postmuseum
 type: poi
 story: "Liechtenstein issued its first stamps in 1912 and quickly realised that collectors all over the world would pay good money for them — at one point in the 1950s, philatelic sales accounted for around 10% of the country's national income. The principality is still one of the great philatelic powers, the Vatican of stamps."
+score: 7.3
 ---
 
 The Postmuseum on Städtle is small and absorbing. Two compact floors trace Liechtenstein's astonishing 20th-century career as a stamp issuer — from the first 1912 set printed in Austria, through the spectacular full-colour issues of the 1950s and 60s, to the modern themed series.

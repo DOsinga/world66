@@ -16,6 +16,7 @@ story: >
   reportedly said on leaving: "We have invented nothing." The cave was opened to the public
   in 1948 and had to be closed in 1963 when the breath and body heat of 1,200 daily visitors
   began destroying the paintings.
+score: 9.1
 ---
 
 The original Lascaux cave, near Montignac in the Vézère Valley, contains some of the most extraordinary Palaeolithic paintings in the world — 17,000-year-old images of bulls, horses, aurochs, and deer covering every surface in vivid ochre and manganese black. It has been closed to the public since 1963 to protect the paintings from the damage caused by visitor breath and light.

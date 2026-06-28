@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
+image: kourou.jpg
+image_attribution: Arria Belli
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kourou_beach.jpg
 latitude: 5.157983
 loc_type: city
 longitude: -52.64242
-score: 0.43
+score: 7.3
+snippet: French Guiana coastal town defined by Europe's spaceport and the penal-colony
+  ruins of Îles du Salut.
 title: Kourou
 type: location
-image: kourou.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kourou_beach.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Arria Belli
 ---
 
 Kourou is a small, well-kept town on the coast of French Guiana, best known as the home of the [Guiana Space Centre](/southamerica/frenchguiana/kourou/guiana_space_centre) — Europe's spaceport, from which Ariane rockets are launched. The space centre dominates the local economy and gives the town a more modern, planned feel than most settlements in the region.

@@ -8,6 +8,7 @@ latitude: 44.1452
 longitude: 9.6550
 story: >
   The stripes on the façade are not decorative whimsy: in medieval Liguria, alternating bands of dark and light stone were a mark of civic prestige and prosperity. The pattern was borrowed from Pisa and Genoa, both powerful maritime rivals, and a church that could afford it was signalling that its town counted for something.
+score: 7.7
 ---
 
 The parish church of Monterosso, built in the 14th century in the Ligurian Gothic style. The façade is striped in alternating courses of dark green marble and white stone — the same visual rhythm you see in Genoa's most important churches — and the interior is cool and dim after the brightness of the caruggi outside.

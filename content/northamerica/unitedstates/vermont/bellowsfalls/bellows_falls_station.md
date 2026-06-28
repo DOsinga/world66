@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.1364
 longitude: -72.4447
+score: 6.7
 ---
 
 The Amtrak station is a small red-brick building on Depot Street, still serving the daily Vermonter on its run between Washington, DC and St Albans. It is in many ways the village's anchor — most visitors arrive on the train.

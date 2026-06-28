@@ -12,6 +12,7 @@ story: >
   winter resort in America, with power supplied by a private Westinghouse
   generator — one of the first buildings in Florida to have electric lighting.
   Thomas Edison himself helped oversee the installation.
+score: 9.0
 ---
 
 The former Ponce de León Hotel, completed in 1888 for railroad magnate Henry Flagler, is one of the finest examples of Spanish Renaissance Revival architecture in the United States. The vast red-brick building with its four towers now functions as Flagler College, a private liberal arts school, but guided tours are offered to the public and are well worth taking. The lobby alone — with its intricate Tiffany stained glass windows, hand-painted murals and original gilded furnishings — is extraordinary. Flagler commissioned the Tiffany firm directly, and the windows in the dining hall are among the finest examples of their work.

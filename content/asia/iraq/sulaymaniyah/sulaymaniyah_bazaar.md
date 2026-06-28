@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 35.5575
 longitude: 45.4380
+score: 8.1
 ---
 
 The bazaar is one of the largest and most active in the Kurdistan Region, a sprawling traditional market covering several city blocks in the old centre with covered streets, specialised sections for different goods, and a constant flow of shoppers and traders. It is primarily a working market rather than a tourist experience — clothing, fabrics, spices, household goods, electronics, and food are the main trade.

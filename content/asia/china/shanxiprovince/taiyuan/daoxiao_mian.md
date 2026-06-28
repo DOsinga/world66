@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.8610
 longitude: 112.5490
+score: 7.1
 ---
 
 Daoxiao mian — noodles shaved directly from a large block of stiff dough using a crescent-shaped blade — are the signature dish of Shanxi and are made and eaten better in Taiyuan than anywhere else. A skilled cook holds the dough block against their shoulder and shaves off curved ribbons of varying thickness directly into the boiling water, producing noodles with a slightly different texture on each surface from the cut. The result, served in broth or with a braised meat sauce, has a chewiness that no extruded or rolled noodle can match.

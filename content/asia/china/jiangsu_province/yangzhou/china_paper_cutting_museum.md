@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.3956
 longitude: 119.4470
+score: 7.0
 ---
 
 The China Paper Cutting Museum is the national museum for this traditional folk art form, located in Yangzhou partly because the city has been one of the major centres of the craft for centuries — Yangzhou paper cutting (yangzhou jianzhi) is recognised as UNESCO Intangible Cultural Heritage. The museum occupies a purpose-built building with several floors of exhibits tracing the history and regional variations of the art form across China.

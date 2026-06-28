@@ -6,6 +6,7 @@ tags:
   - sight
 title: Big Blue Bug
 type: poi
+score: 4.8
 ---
 
 On the roof of a pest control company's office at 161 O'Connell Street near I-95 sits a nine-foot-tall fiberglass termite, painted blue, that has become one of Providence's most recognizable landmarks. The bug — officially named Nibbles Woodaway — has been up there since 1980 and has accumulated a cult following disproportionate to its modest origins as a company mascot. Local media dresses it in seasonal costumes for holidays.

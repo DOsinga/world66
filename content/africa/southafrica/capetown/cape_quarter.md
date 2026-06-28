@@ -1,8 +1,9 @@
 ---
 latitude: -33.9233
 longitude: 18.4142
+score: 5.6
 snippet: Boutique lifestyle complex in the heart of De Waterkant, with design shops,
-  delis and restaurants around a central courtyard.
+  delis and restaurants around a central courtyard
 tags:
 - things_to_do
 - shopping

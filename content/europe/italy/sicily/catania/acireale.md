@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 37.6128
 longitude: 15.1656
+score: 7.8
 ---
 
 Acireale is a small baroque town on the cliffs about fifteen kilometres north of Catania, less visited but architecturally on par with Noto. The main square, Piazza Duomo, holds a cathedral, a basilica, and the town hall in a single tight composition of black lava and creamy stone.

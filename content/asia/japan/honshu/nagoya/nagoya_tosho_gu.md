@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1776
 longitude: 136.8993
+score: 5.9
 ---
 
 Nagoya Tosho-gu is a small Shinto shrine within Nagoya Castle's outer precinct, dedicated to Tokugawa Ieyasu (deified after death as Tosho Daigongen). It was founded in 1619 by Ieyasu's son Yoshinao, the first Owari Tokugawa lord, and at its peak was one of the most lavish provincial Tosho-gu in the country.

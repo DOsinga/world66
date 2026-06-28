@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.7322
 longitude: 36.1877
+score: 6.4
 ---
 
 Kursk's Roman Catholic church is an arresting sight in a city dominated by Orthodox architecture — a Gothic-revival building of red brick and pointed arches that would look at home in Germany or Poland. The parish dates to the early nineteenth century when Kursk had a significant Catholic population; the current building survived the Soviet period in a diminished state and has been restored as an active place of worship.

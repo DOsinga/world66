@@ -1,20 +1,22 @@
 ---
-title: Botswana
-type: location
-latitude: -23.168178
-longitude: 24.592874
 image: botswana.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036_.JPG
-image_license: CC BY-SA 2.5
 image_attribution: Winfried Bruenken (<a href="//commons.wikimedia.org/wiki/User:Amrum"
   title="User:Amrum">Amrum</a>)
-quick_facts:
-  Population: "2.6 million"
-  Cost Level: "High-value, high-cost safaris"
-  Kalahari Coverage: "70%"
-  Elephants: "130,000"
-score: 0.59
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036_.JPG
+latitude: -23.168178
 loc_type: country
+longitude: 24.592874
+quick_facts:
+  Cost Level: High-value, high-cost safaris
+  Elephants: 130,000
+  Kalahari Coverage: 70%
+  Population: 2.6 million
+score: 0.72
+snippet: Southern African wildlife country of Okavango floodplains and Kalahari desert,
+  built around low-volume safari travel.
+title: Botswana
+type: location
 ---
 
 Botswana is one of Africa's great wildlife destinations and one of its most expensive. This is deliberate -- the government has pursued a low-volume, high-value tourism policy that keeps the wild places genuinely wild. If you can afford it, or if you are willing to self-drive and camp, the reward is landscapes and animal encounters that feel like nowhere else on earth.

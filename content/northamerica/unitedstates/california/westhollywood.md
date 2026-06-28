@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_Tower,_8358_Sunset_
 latitude: 34.092301
 loc_type: city
 longitude: -118.369289
-score: 0.58
+score: 7.99
+snippet: Dense Los Angeles enclave of Sunset Strip music history, LGBT civic culture,
+  and walkable nightlife.
 title: West Hollywood
 type: location
 ---

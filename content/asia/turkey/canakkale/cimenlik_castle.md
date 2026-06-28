@@ -9,6 +9,7 @@ tags:
 - museum
 - castle
 snippet: "Ottoman fortress on the Asian shore, now the Naval Museum and a memorial to Gallipoli"
+score: 7.6
 ---
 
 Çimenlik Castle (Kale-i Sultaniye) was built by Mehmed II in 1462 — the same year as Kilitbahir Castle directly across the water on the European shore — to control shipping through the narrowest point of the Dardanelles. The two fortresses together gave Çanakkale its name: çanak (pot) and kale (castle), after the local pottery that supplied the garrison.

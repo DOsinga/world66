@@ -7,6 +7,7 @@ tags:
 latitude: 37.4190
 longitude: -122.0824
 story: "The campus's outdoor Android statue garden, where each new OS version is commemorated with a giant dessert-themed sculpture, has been quietly retired since Google shifted to alphabetic versioning — but the statues remain, a peculiar monument to a naming convention that ended with 'Pie' in 2018."
+score: 6.4
 ---
 
 Google's global headquarters occupies a sprawling campus of colourful low-rise buildings, outdoor volleyball courts, and the kind of free food that other tech companies have spent two decades trying to imitate. The Googleplex is not open to the general public for tours, but you can walk or bike the perimeter paths and get a sense of the scale — and the famous Android statue lawn is visible from the street.

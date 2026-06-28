@@ -12,6 +12,7 @@ story: >
   He later wrote about the poverty of that life without bitterness, describing the sensory
   richness that compensated for it: the heat, the smell of the sea, the light. That light
   is still the defining characteristic of Algiers.
+score: 6.4
 ---
 
 The apartment block at 93 Rue de Lyon (now Rue Belouizdad) in the Belouizdad neighbourhood is where Albert Camus lived from childhood until he left for France. There is no museum here — it is a private residential building — but a small plaque marks the door.

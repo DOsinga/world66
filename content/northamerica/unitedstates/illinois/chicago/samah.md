@@ -7,8 +7,10 @@ snippet: Middle Eastern hookah lounge with curtained booths and belly dancers
 tags:
 - eating_out
 - restaurant
+- lakeview
 title: Samah
 type: poi
+score: 5.5
 ---
 
 A Middle Eastern restaurant and hookah lounge where you sit in curtained booths on sofas or floor cushions around low tables. The hummus and falafel are excellent. Hookahs come in 19 tobacco flavors. Belly dancers perform Thursday and Friday nights. Reservations recommended.

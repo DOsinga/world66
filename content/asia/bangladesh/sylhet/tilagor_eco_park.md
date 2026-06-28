@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.8995
 longitude: 91.9050
+score: 8.5
 ---
 
 Tilagor is a small forest park on the eastern edge of Sylhet city, easily reached in 20 minutes from downtown. The reserve is part of the wider Khadimnagar National Park system and protects a patch of sub-tropical evergreen forest, criss-crossed by short footpaths and home to monkeys, kingfishers, and a healthy population of butterflies.

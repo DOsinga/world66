@@ -6,6 +6,7 @@ longitude: 130.5478
 snippet: Hometown museum on the Satsuma samurai who toppled the shogunate
 tags: [things_to_do, museum]
 story: "Of the four men whose names are most associated with the Meiji Restoration, three — Saigo Takamori, Okubo Toshimichi and Komatsu Tatewaki — grew up within a few minutes' walk of this museum, on the same Kajiya-cho block. The exhibits include a working animatronic of Saigo and Okubo arguing across a low table about Korea, the dispute that ended their friendship and led to the 1877 rebellion."
+score: 7.8
 ---
 
 The Ishin Furusato-kan, to give it its Japanese name, sits on the riverbank where many of the architects of modern Japan lived as boys. It is a small, friendly, well-translated museum and the right first stop for anyone trying to make sense of why this provincial Satsuma capital matters so much in Japanese history.

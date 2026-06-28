@@ -10,6 +10,7 @@ tags:
   - church
   - old_town
 neighbourhood: Old Town
+score: 6.9
 ---
 
 The Cathedral of the Theotokos (Prechistenskiy Cathedral) on Maironio Street is the main Russian Orthodox church in Vilnius, built in the 19th century during Russian imperial rule. Its blue-and-white exterior and onion domes create a striking contrast with the predominantly Catholic Baroque architecture of the surrounding old town streets.

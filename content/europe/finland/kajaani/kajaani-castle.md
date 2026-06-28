@@ -6,6 +6,7 @@ longitude: 27.733
 snippet: "Granite fortress ruins on a river island, blown up by Russian forces in 1716"
 tags: [things_to_do, sight, historic]
 story: "Kajaani Castle was built in 1604 to control trade on the Kajaaninjoki rapids and served for over a century as a key stronghold in the Finnish interior. During the Great Northern War, Russian forces destroyed it in 1716, and it was never rebuilt — the ruins have sat on their island ever since, a reminder of how deeply the wars of the early 18th century reshaped this region."
+score: 7.9
 ---
 
 The ruins of Kajaani Castle occupy a small island in the middle of the Kajaaninjoki river rapids, accessible by a short footbridge from the town centre. The castle was constructed in 1604 from local granite and served as an administrative and military post controlling river traffic and the fur trade that moved through Kainuu. At its height it was a reasonably significant garrison in an otherwise sparsely populated region of Finland.

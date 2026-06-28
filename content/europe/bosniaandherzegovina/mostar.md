@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Stari_Most_viewed_from_Nor
 latitude: 43.3438
 loc_type: city
 longitude: 17.8078
-score: 0.66
+score: 9.04
 title: Mostar
+snippet: Herzegovinian city on the Neretva, defined by Ottoman stone lanes and the
+  rebuilt Stari Most.
 type: location
 ---
 

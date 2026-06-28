@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - outdoor
+score: 7.2
 ---
 
 Satpara Lake lies in a deep valley about 10 km south of Skardu, fed by glacial streams from the Deosai Plateau and partly dammed in 2003 for hydropower. The water is a deep, clear blue, with a small island in the middle that can be reached by boat in summer.

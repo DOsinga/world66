@@ -3,10 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 30.0058
 longitude: 31.2302
+score: 8.3
 snippet: Egypt's finest collection of early Christian art and relics
 tags:
 - things_to_do
 - museum
+- coptic_quarter
 title: Coptic Museum
 type: poi
 ---

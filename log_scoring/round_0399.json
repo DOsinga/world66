@@ -1,200 +1,200 @@
 {
   "round": 399,
-  "timestamp": "2026-04-12T09:29:17",
+  "timestamp": "2026-06-13T19:33:31",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Boracay",
-      "path": "asia/philippines/boracay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 12.0889,
+      "prior_variance": 8.589619,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Camiguin Island",
-      "path": "asia/philippines/camiguinisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 12.4833,
+      "prior_variance": 3.461505,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Dumaguete City",
-      "path": "asia/philippines/dumaguetecity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 13.1726,
+      "prior_variance": 8.038584,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Legazpi City",
-      "path": "asia/philippines/bicol/legazpi_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 10.7038,
+      "prior_variance": 4.636988,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Iloilo",
-      "path": "asia/philippines/iloilo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 13.4484,
+      "prior_variance": 3.333222,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Baguio",
-      "path": "asia/philippines/baguio",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 9.2146,
+      "prior_variance": 4.066172,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Sabang Beach",
-      "path": "asia/philippines/mindoroisland/sabangbeach",
-      "prior_mu": 22.8991,
-      "prior_sigma": 5.9715,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 6.8379,
+      "prior_variance": 3.171261,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Laguna",
-      "path": "asia/philippines/laguna",
-      "prior_mu": 22.523,
-      "prior_sigma": 5.913,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 11.8425,
+      "prior_variance": 2.812903,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Quezon Province",
-      "path": "asia/philippines/quezonprovince",
-      "prior_mu": 21.95,
-      "prior_sigma": 4.8387,
-      "prior_n": 2
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 6.2581,
+      "prior_variance": 2.027599,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Kalibo",
-      "path": "asia/philippines/aklan/kalibo",
-      "prior_mu": 22.5162,
-      "prior_sigma": 5.6532,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 11.682,
+      "prior_variance": 2.508532,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "San Pablo City",
-      "path": "asia/philippines/sanpablocity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ilha Grande",
+      "path": "southamerica/brazil/ilhagrande",
+      "prior_score": 10.3535,
+      "prior_variance": 3.820602,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Los Banos",
-      "path": "asia/philippines/losbanos",
-      "prior_mu": 20.8132,
-      "prior_sigma": 4.7039,
-      "prior_n": 2
+      "title": "Tayrona National Park",
+      "path": "southamerica/colombia/tayrona",
+      "prior_score": 11.8022,
+      "prior_variance": 2.552116,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Southern Leyte",
-      "path": "asia/philippines/southern_leyte",
-      "prior_mu": 22.7227,
-      "prior_sigma": 5.9499,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 10.167,
+      "prior_variance": 2.701745,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "tacloban city",
-      "path": "asia/philippines/taclobancity/tacloban_city",
-      "prior_mu": 22.9903,
-      "prior_sigma": 5.6926,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 9.4356,
+      "prior_variance": 4.016741,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Butuan",
-      "path": "asia/philippines/butuan",
-      "prior_mu": 22.6306,
-      "prior_sigma": 5.9373,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 8.5918,
+      "prior_variance": 2.205072,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Pasay City",
-      "path": "asia/philippines/pasay_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 10.1293,
+      "prior_variance": 2.034537,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Tarlac",
-      "path": "asia/philippines/tarlac",
-      "prior_mu": 22.8319,
-      "prior_sigma": 5.4309,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 9.9819,
+      "prior_variance": 2.272908,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Cotabato",
-      "path": "asia/philippines/cotabato",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Crist\u00f3bal de La Laguna",
+      "path": "europe/spain/canaryislands/tenerife/lalaguna",
+      "prior_score": 7.4605,
+      "prior_variance": 3.060843,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Iba",
-      "path": "asia/philippines/iba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 7.8943,
+      "prior_variance": 1.543098,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Mangatarem",
-      "path": "asia/philippines/mangatarem",
-      "prior_mu": 21.6709,
-      "prior_sigma": 4.7467,
-      "prior_n": 2
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 5.325,
+      "prior_variance": 2.04074,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Hinunangan",
-      "path": "asia/philippines/southern_leyte/hinunangan",
-      "prior_mu": 20.6033,
-      "prior_sigma": 3.0289,
-      "prior_n": 5
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 5.0971,
+      "prior_variance": 2.040742,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "San Gabriel",
-      "path": "asia/philippines/sangabriel",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 8.6447,
+      "prior_variance": 5.563699,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Victorias City",
-      "path": "asia/philippines/negrosisland/victorias_city",
-      "prior_mu": 22.7217,
-      "prior_sigma": 5.9498,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 5.7381,
+      "prior_variance": 1.821653,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Philippines",
-      "path": "asia/philippines",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 2.0163,
+      "prior_variance": 1.553445,
+      "prior_n": 1
     }
   ]
 }

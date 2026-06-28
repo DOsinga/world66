@@ -5,12 +5,12 @@ done:
 latitude: 37.7633
 longitude: -122.4346
 phone: (415) 861-3846
+score: 6.8
 snippet: Popular mixed gay bar at the head of the Castro
 tags:
 - bars_and_cafes
 - bar
 - castro_district
-neighbourhood: Castro District
 title: The Cafe
 type: poi
 ---

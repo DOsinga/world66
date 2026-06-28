@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 21.2945
 longitude: -157.8418
+score: 6.6
 ---
 
 The unofficial canteen of Honolulu's restaurant industry. Chefs come here after their own shifts end, which tells you everything. The portions are enormous — a plate of pan-fried pork chops with rice and kimchi easily feeds two. The fried rice is famous; the chicken wings are outstanding. The original location on Hopaka Street is a dingy, beloved dive; the newer Kapahulu branch is bigger and louder. Cash preferred at the original.

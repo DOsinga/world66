@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.3943
 longitude: 119.4129
+score: 7.8
 ---
 
 Yechun Garden is both a classical garden and the most historically celebrated teahouse in Yangzhou — a combination that is entirely natural in a city where gardens and refined meals have been inseparable for centuries. The teahouse has operated on this site since the Qing Dynasty and serves the traditional Yangzhou morning tea (zaochao) in pavilions overlooking the garden's pool and rockeries.

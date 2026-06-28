@@ -15,6 +15,7 @@ story: >
   the stream flowing beneath it — a typically eccentric puszta sight.
 sources:
   - https://en.wikipedia.org/wiki/Hortob%C3%A1gy
+score: 7.6
 ---
 
 The symbol of Hortobágy and the longest stone bridge in Hungary, spanning the Hortobágy River with nine arches in a graceful 167-metre sweep. Built in the 1830s, it served as a crossing point on the main cattle-droving route between Debrecen and the grazing lands of the puszta — the broad, flat grassland that was once the pasture ground for hundreds of thousands of cattle and horses.

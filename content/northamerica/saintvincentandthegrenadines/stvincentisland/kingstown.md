@@ -9,6 +9,7 @@ latitude: 13.1578
 longitude: -61.225
 story: >
   Kingstown was laid out by the French in the 1760s on a perfect natural harbour and seized by the British a decade later — the standard 18th-century Caribbean script. The arcaded sidewalks that shelter pedestrians from sun and tropical downpours along Bay Street are a survival of that era, more common in Trinidad and Grenada than further north.
+score: 7.7
 ---
 
 Kingstown is the capital and the only real town on St Vincent — a tight grid of two- and three-storey buildings wedged between a steep ridge and a deep harbour. The population is barely 20,000, but on a weekday morning the streets are busy with commerce: market vendors, fishermen unloading at Little Tokyo, schoolchildren in colour-coded uniforms, vans loading for the country routes.

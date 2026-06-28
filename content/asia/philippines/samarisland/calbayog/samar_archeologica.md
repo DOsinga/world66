@@ -7,6 +7,7 @@ tags:
 - museums
 title: Samar Archeological Museum and Research Center
 type: poi
+score: 7.4
 ---
 
 Opened on April 11, 1970, this is the first and only museum on Samar Island. Housed at Christ the King College, the collection focuses on archaeological artifacts recovered from sites across the island, including burial jars and covers, a log coffin, jarlets, cups, bowls, saucers, and dishes dating back to pre-colonial times.

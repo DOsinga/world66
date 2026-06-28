@@ -7,6 +7,7 @@ tags:
   - asian
 latitude: -37.8098
 longitude: 145.0037
+score: 7.9
 ---
 
 Victoria Street in Richmond is Melbourne's Vietnamese quarter, a kilometre-long strip of restaurants, pho houses, grocery stores, and bakeries that has been the heart of the city's Vietnamese community since the late 1970s, when refugees resettled here after the fall of Saigon. The street is one of the best places in Australia to eat Vietnamese food, with dozens of restaurants competing across a relatively small block. Prices are low and the quality is consistently high.

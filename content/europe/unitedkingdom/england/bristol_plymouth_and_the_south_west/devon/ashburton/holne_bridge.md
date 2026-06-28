@@ -7,6 +7,7 @@ tags:
 latitude: 50.5212
 longitude: -3.7927
 story: "Holne Bridge is a Grade II* listed medieval structure — one of the best-preserved packhorse bridges on Dartmoor. The bridge carried tin from the moor to Ashburton's stannary for centuries, and the marks of laden packhorses can still be seen worn into the stone of the parapet."
+score: 7.7
 ---
 
 Holne Bridge is a medieval stone bridge over the River Dart, a short drive or a longer walk from Ashburton through the Dart Valley. The bridge dates from the medieval period and is one of the finest examples of Dartmoor bridge-building — narrow, hump-backed, and built from local granite with characteristic Dartmoor solidity.

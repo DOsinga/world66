@@ -6,6 +6,7 @@ tags:
 - nature
 title: Saline River
 type: poi
+score: 4.8
 ---
 
 The Saline River reaches the Adriatic near Montesilvano after forming from the Fino and Tavo rivers inland. It is not a grand attraction, but it marks the northern edge of the resort area and gives walkers a natural break in the beach line.

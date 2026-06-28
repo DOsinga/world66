@@ -13,6 +13,7 @@ story: >
   means "the collectivity of those who found peace at last."
 sources:
   - https://en.wikipedia.org/wiki/Ganvie
+score: 9.1
 ---
 
 The pirogue trip across Lake Nokoué from Abomey-Calavi shore to Ganvié takes about 30 minutes and is the only way to reach the village. Pirogues — long wooden dugout canoes, sometimes with a motor — depart from the jetty when enough passengers have assembled. Negotiate the price before you board; the standard return trip includes waiting time while you explore.

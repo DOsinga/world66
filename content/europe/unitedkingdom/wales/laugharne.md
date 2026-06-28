@@ -7,7 +7,9 @@ done:
 latitude: 51.770035
 loc_type: city
 longitude: -4.464705
-score: 0.44
+score: 7.49
+snippet: Taf estuary town in southwest Wales, inseparable from Dylan Thomas and Under
+  Milk Wood.
 sources:
 - https://en.wikipedia.org/wiki/Laugharne
 title: Laugharne

@@ -14,6 +14,7 @@ story: >
   track on special weekends throughout the operating season.
 sources:
   - https://www.atlasobscura.com/places/alberta-railway-museum
+score: 6.4
 ---
 
 The Alberta Railway Museum, about 15 kilometres north of Edmonton, is an outdoor museum dedicated to the railway history of Alberta and the Canadian west. The collection spans locomotives, freight cars, passenger coaches, and maintenance equipment from the late nineteenth century through the diesel era — over 75 pieces of rolling stock spread across several hectares of track.

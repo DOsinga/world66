@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-20'
 image: dominica.jpg
@@ -10,6 +11,8 @@ latitude: 15.415
 loc_type: region
 longitude: -61.371
 score: 0.64
+snippet: Volcanic Caribbean island of rainforest, rivers, hot springs, and a rugged
+  interior made for hiking.
 title: Dominica
 type: location
 ---

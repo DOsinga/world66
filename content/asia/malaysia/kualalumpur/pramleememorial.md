@@ -5,7 +5,9 @@ done:
 latitude: 3.194886
 longitude: 101.709167
 opening_hours: 10am - 5pm daily, closed Monday (except public and school holidays)
-snippet: Memorial to Malaysia’s most beloved entertainer
+score: 5.8
+snippet: Small museum in P. Ramlee's former Ampang home, honouring Malaysia's greatest
+  actor, singer, and director
 tags:
 - things_to_do
 - museum

@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: "Phoenician island city in the Stagnone lagoon, with a single-room museum"
 story: "When Dionysius of Syracuse stormed Motya in 397 BC, the islanders prepared by ferrying their valuables to the mainland. Excavations on the island in the 20th century turned up the Motya Charioteer — a near-perfect Greek marble youth in a clinging tunic, found face-down in the rubble of the destruction."
+score: 9.1
 ---
 
 Motya is a flat island about a kilometre across in the **Stagnone Lagoon**, reached by a small flat-bottomed ferry from Contrada Spagnola. It was a Phoenician trading post from the 8th century BC and grew rich on the salt trade and the export of purple dye. Carthage made it a major outpost; Dionysius of Syracuse destroyed it.

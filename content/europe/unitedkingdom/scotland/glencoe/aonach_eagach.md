@@ -4,7 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 56.6888
 longitude: -5.0501
+score: 9.1
 snippet: The most exposed ridge scramble on the Scottish mainland
+tags:
+- things_to_do
+- sight
+- hiking
+- mountain
 title: Aonach Eagach
 type: poi
 ---

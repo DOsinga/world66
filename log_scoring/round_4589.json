@@ -1,0 +1,200 @@
+{
+  "round": 4589,
+  "timestamp": "2026-06-14T00:24:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arcachon",
+      "path": "europe/france/aquitaine/arcachon",
+      "prior_score": 3.578,
+      "prior_variance": 0.089582,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 1.5832,
+      "prior_variance": 0.088755,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 2.989,
+      "prior_variance": 0.101169,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.9115,
+      "prior_variance": 0.097514,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.0617,
+      "prior_variance": 0.118574,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Saint Gallen",
+      "path": "europe/switzerland/saintgallen",
+      "prior_score": 2.1394,
+      "prior_variance": 0.104805,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 1.1944,
+      "prior_variance": 0.113073,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.9222,
+      "prior_variance": 0.092789,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 1.4245,
+      "prior_variance": 0.089509,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.2506,
+      "prior_variance": 0.092812,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 1.6643,
+      "prior_variance": 0.088811,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.0715,
+      "prior_variance": 0.085763,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.8168,
+      "prior_variance": 0.090217,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.9182,
+      "prior_variance": 0.079829,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Peel",
+      "path": "europe/isleofman/peel",
+      "prior_score": 0.917,
+      "prior_variance": 0.090901,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -2.0271,
+      "prior_variance": 0.083761,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.6711,
+      "prior_variance": 0.097605,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -1.6027,
+      "prior_variance": 0.095049,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -2.6124,
+      "prior_variance": 0.091961,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -2.9967,
+      "prior_variance": 0.094187,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -1.7792,
+      "prior_variance": 0.115682,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -3.998,
+      "prior_variance": 0.11575,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -6.8155,
+      "prior_variance": 0.131993,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -11.1076,
+      "prior_variance": 0.317623,
+      "prior_n": 14
+    }
+  ]
+}

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:250717_Fotos_Centro_de_Cam
 latitude: -22.905639
 loc_type: city
 longitude: -47.059564
-score: 0.41
+score: 6.25
+snippet: São Paulo state university and technology city with a strong market, Lagoa
+  do Taquaral, and Cambuí nightlife
 title: Campinas
 type: location
 ---

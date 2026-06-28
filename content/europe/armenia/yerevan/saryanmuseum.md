@@ -10,6 +10,7 @@ tags:
 - museum
 title: Saryan Museum
 type: poi
+score: 7.7
 ---
 
 The Saryan Museum is housed in the former studio of Martiros Saryan (1880–1972), Armenia's most celebrated painter. Saryan is best known for his vivid, sun-saturated landscapes of Armenia, Egypt, and Persia — the colours are almost shockingly bold compared to the European tradition of his era.

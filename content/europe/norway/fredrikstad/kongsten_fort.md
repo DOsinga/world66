@@ -15,6 +15,7 @@ story: >
   to defend the approach to Gamlebyen from the east, and saw serious action during the Great
   Northern War. It was never taken by assault. The star-shaped earthworks were largely built by
   Swedish prisoners of war captured during that conflict.
+score: 6.9
 ---
 
 Kongsten Fort sits on a hilltop a short walk from Gamlebyen's eastern gate, an irregular star-shaped earthwork with good views over the surrounding countryside and Glomma river valley. It is the outer defensive position of the Fredrikstad fortification system — while Gamlebyen provided the primary ring of walls and moats, Kongsten was designed to hold attackers at a distance before they could reach the town.

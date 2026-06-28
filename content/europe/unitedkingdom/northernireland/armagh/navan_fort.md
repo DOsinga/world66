@@ -17,6 +17,7 @@ story: >
   interpretation in Northern Ireland.
 sources:
   - https://en.wikipedia.org/wiki/Navan_Fort
+score: 8.8
 ---
 
 Navan Fort — known in Irish as Emain Macha — is one of the most important archaeological sites in Ireland and the legendary capital of the Kingdom of Ulster. The earthwork monument, about two miles west of Armagh on a hilltop with views across the surrounding countryside, has been occupied since at least 4000 BCE and was the ceremonial and political center of Ulster for well over a thousand years.

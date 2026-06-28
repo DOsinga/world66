@@ -7,6 +7,7 @@ tags:
 - sight
 title: Plaza de España
 type: poi
+score: 7.2
 ---
 
 The Plaza de España is the ceremonial centre of Lorca, framed by three of the

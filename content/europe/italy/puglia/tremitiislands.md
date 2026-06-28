@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Tremiti_1999_-Isola_di_San
 latitude: 42.1148
 loc_type: city
 longitude: 15.487124
-score: 0.65
+score: 8.62
+snippet: Tiny Adriatic archipelago off Puglia, with limestone cliffs, pine woods,
+  and coves reached by ferry
 title: Tremiti Islands
 type: location
 ---

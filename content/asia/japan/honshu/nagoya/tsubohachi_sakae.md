@@ -8,6 +8,7 @@ tags:
 latitude: 35.1712
 longitude: 136.9078
 neighbourhood: Sakae
+score: 4.8
 ---
 
 A reliable mid-priced izakaya chain branch in the heart of Sakae, open late and a good first stop for anyone unfamiliar with the form. Tsubohachi runs the standard izakaya menu — yakitori, sashimi platters, agedashi tofu, karaage, salads — with a long all-you-can-drink (nomihodai) option that brings the price down to about 4,000 yen for two hours of food and drink combined.

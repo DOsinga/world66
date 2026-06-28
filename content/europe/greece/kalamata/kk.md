@@ -8,6 +8,7 @@ tags:
 - getting_there
 title: By Rail from Athens
 type: poi
+score: 4.8
 ---
 
 The railway line from Athens to Kalamata is one of the more scenic train rides in the Peloponnese, winding through countryside, small villages, and mountain passes on a narrow-gauge track. The route passes through Corinth, Argos, and Tripoli before descending to the Messenian plain.

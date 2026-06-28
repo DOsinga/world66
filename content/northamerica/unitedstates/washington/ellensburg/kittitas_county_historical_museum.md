@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.9962
 longitude: -120.5451
+score: 7.7
 ---
 
 The Kittitas County Historical Museum occupies the 1889 Cadwell Building on N Pearl Street and is one of the better small-county museums in the state. The standout collection is the Carey Mineral Collection, an extensive holding of gems and stones, but there are also strong exhibits on Kittitas County agriculture, mining, the Northern Pacific railroad, and the area's Native heritage.

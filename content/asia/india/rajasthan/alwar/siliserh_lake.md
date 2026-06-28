@@ -12,6 +12,7 @@ story: >
   court life. She agreed to the marriage only on the condition that she could see
   her childhood village across the lake from her window. The palace was positioned
   accordingly, and the village of Siliserh remains visible from the upper terrace.
+score: 6.3
 ---
 
 Siliserh Lake is a peaceful reservoir 13 km southwest of Alwar, surrounded by the wooded Aravalli hills and best visited at dusk when the sky reflects on the water. The lake was created as a water source for Alwar city and is now a popular picnic spot.

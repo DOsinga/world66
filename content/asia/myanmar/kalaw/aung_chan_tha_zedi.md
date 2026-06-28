@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 20.6400
 longitude: 96.5600
+score: 6.8
 ---
 
 The hillside pagoda overlooking Kalaw offers the best views over the town and the surrounding Shan plateau. The white stupa sits above a series of terraces approached by a covered stairway, and is busy with worshippers at dawn and dusk when the light on the hills is at its best. Several smaller shrines and meditation halls are scattered across the hilltop compound.

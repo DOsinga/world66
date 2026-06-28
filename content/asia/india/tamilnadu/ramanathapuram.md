@@ -5,7 +5,8 @@ done:
 latitude: 9.520558
 loc_type: city
 longitude: 78.518463
-score: 0.36
+score: 5.96
+snippet: Tamil Nadu town with Sethupati palace history on the mainland route to Rameshwaram
 title: Ramanathapuram
 type: location
 ---

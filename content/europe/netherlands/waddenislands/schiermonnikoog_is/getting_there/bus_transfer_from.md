@@ -1,7 +1,11 @@
 ---
 latitude: 53.3372
 longitude: 6.1492
+score: 4.3
 snippet: Direct bus from Leeuwarden to the Lauwersoog ferry terminal
+tags:
+- getting_there
+- transport
 title: Bus transfer Leeuwarden <> Lauwersoog
 type: poi
 ---

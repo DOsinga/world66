@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 26.8638
 longitude: 80.9442
+score: 7.2
 ---
 
 The Shah Najaf Imambara is the smaller and quieter of the major imambaras of Lucknow — a low white-domed mausoleum complex built in 1814 by Nawab Ghazi-ud-din Haider as his own future tomb, deliberately modelled on the shrine of Imam Ali at Najaf in Iraq. The Nawab and his queens are buried in the central hall.

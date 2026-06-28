@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Vlissingen_(NL),_Koopmansh
 latitude: 51.4427
 loc_type: city
 longitude: 3.5744
-score: 0.44
+score: 6.99
+snippet: Zeeland port city on the Western Scheldt, with a sea boulevard above beaches
+  and Antwerp-bound shipping lanes.
 title: Vlissingen
 type: location
 ---

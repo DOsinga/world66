@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 47.5430
 longitude: 9.6836
+score: 7.6
 ---
 
 The New Lighthouse at the harbour entrance was built in 1856 and has guided ships into Lindau ever since. At 33 metres it is the tallest structure on the island, and the view from the top — on days when it is open to visitors — takes in the whole of the eastern lake, the Austrian shore, and the Alps. The climb is 139 steps.

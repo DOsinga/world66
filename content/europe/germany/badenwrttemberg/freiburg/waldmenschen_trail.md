@@ -7,6 +7,7 @@ tags:
 snippet: "Wooden carved figures in the woods east of town"
 latitude: 47.96944
 longitude: 7.92500
+score: 5.8
 ---
 
 The WaldMenschen ("forest people") are a small group of weathered wooden sculptures hidden in the woods around the Waldhaus environmental education centre, a short drive or a long walk east of Freiburg into the foothills of the Black Forest. The figures, carved from tree trunks by visiting artists since the 1990s, range from human silhouettes to abstract totems and are slowly being reclaimed by moss and rot — which is the point.

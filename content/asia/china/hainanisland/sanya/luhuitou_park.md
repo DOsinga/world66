@@ -9,6 +9,7 @@ tags:
 - nature
 title: Luhuitou Park
 type: poi
+score: 8.2
 ---
 
 Luhuitou Park covers the hilly peninsula that juts south between Dadonghai and Sanya Bay, and from the top — a steep but well-signposted climb, with shuttle buses for those who don't fancy walking — you get the single best panoramic view in the city. On a clear day you can see Yalong Bay to the east, the whole stretch of Sanya Bay to the west, and Phoenix Island sitting in the water below.

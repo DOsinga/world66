@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Whitehall Ruins
 type: poi
+score: 7.0
 ---
 
 Whitehall was the palatial summer estate of Captain Isaac Edward Emerson, inventor of the headache remedy Bromo-Seltzer, built on Ocean Road around 1910. The 60-room marble mansion was demolished in the 1960s after years of neglect; what survives is the long balustraded sea terrace, the entrance gateposts, and fragments of the formal gardens, all freely accessible from a roadside pull-off.

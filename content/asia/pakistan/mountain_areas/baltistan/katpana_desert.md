@@ -8,6 +8,7 @@ tags:
 latitude: 35.310522
 longitude: 75.590747
 story: "The Katpana Desert is one of the world's highest deserts, sitting at around 2,226 metres in the Skardu valley between the Indus River and the mountains — a cold desert where temperatures drop well below freezing in winter even though precipitation is minimal. The combination of sand dunes, snowcapped peaks, and green irrigated patches from the rivers creates a landscape that looks implausible: sand dunes with glaciers visible behind them."
+score: 7.4
 ---
 
 The Katpana Desert, also called the Skardu Cold Desert, is an expanse of sand dunes in the broad Skardu valley east of town, at an elevation of around 2,200 metres. It is one of the highest deserts in the world — cold enough in winter to be snow-covered, but arid enough in the rain-shadow of the Karakoram to produce genuine sand dune formations.

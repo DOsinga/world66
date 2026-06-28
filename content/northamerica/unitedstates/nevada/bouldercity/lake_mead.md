@@ -10,6 +10,7 @@ tags:
 latitude: 36.0097
 longitude: -114.7967
 story: "Lake Mead is the largest reservoir in the United States by volume, but for the past two decades it has been steadily shrinking — a victim of long drought and overuse of the Colorado River. The pale 'bathtub ring' on the surrounding cliffs marks the original 1983 high-water level, more than 50 metres above where the water sits today."
+score: 8.1
 ---
 
 Lake Mead National Recreation Area covers nearly a million acres of desert, canyon, and reservoir along the Nevada-Arizona border. The lake itself is the main draw — boating, kayaking, swimming, and fishing for striped bass — but the surrounding desert is also worth exploring, with slot canyons, hot springs, and surprisingly varied wildlife including bighorn sheep.

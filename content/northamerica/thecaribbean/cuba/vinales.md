@@ -3,19 +3,21 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   location_enrich: '2026-05-21'
-score: 0.68
+image: vinales.jpg
+image_attribution: AxelF
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Cuba_Vinales_Centro.jpg
+latitude: 22.6136
+loc_type: city
+longitude: -83.7183
+score: 9.02
+snippet: Western Cuban valley town surrounded by tobacco fields, palms, and steep
+  limestone mogotes.
+sources:
+- https://en.wikipedia.org/wiki/Vi%C3%B1ales
+- https://whc.unesco.org/en/list/840
 title: Viñales
 type: location
-image: vinales.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cuba_Vinales_Centro.jpg
-image_license: CC BY 2.5
-image_attribution: AxelF
-loc_type: city
-latitude: 22.6136
-longitude: -83.7183
-sources:
-  - https://en.wikipedia.org/wiki/Vi%C3%B1ales
-  - https://whc.unesco.org/en/list/840
 ---
 
 Viñales and its surrounding valley are among the absolute top attractions of Cuba. Set about 40 km north of [Pinar del Río](/northamerica/thecaribbean/cuba/pinardelrio) in the island's westernmost province, it is a place where the landscape alone justifies the journey.

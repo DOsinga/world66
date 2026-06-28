@@ -16,6 +16,7 @@ tags:
   - church
   - old_town
 neighbourhood: Old Town
+score: 6.8
 ---
 
 The Church of St. Casimir on Didžioji Street is the oldest Baroque church in Vilnius, built by the Jesuits between 1604 and 1618. St. Casimir was a 15th-century Polish-Lithuanian prince who died young and was canonised, becoming Lithuania's patron saint. The church was dedicated to him, though it has had various other uses over the centuries including as a granary under Napoleon and as a museum of atheism during the Soviet period.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:201616_Qingyang_Station.jp
 latitude: 35.7278
 loc_type: city
 longitude: 107.64
+score: 6.13
+snippet: Loess Plateau city in eastern Gansu, surrounded by cave dwellings, ravines,
+  and Buddhist grottoes
 sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Qingyang

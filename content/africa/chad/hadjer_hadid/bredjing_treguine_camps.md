@@ -8,6 +8,7 @@ latitude: 12.7833
 longitude: 22.2167
 story: >
   Bredjing camp was established in 2003 when the Darfur crisis in Sudan pushed tens of thousands of people across the border into Chad. At its peak it housed over 40,000 refugees. Two decades later, many residents have been born in the camp and have never seen Sudan. The UNHCR coordinates services with multiple international NGOs; MSF, IFRC, and Oxfam have all maintained long-term operations here.
+score: 3.2
 ---
 
 Bredjing and Treguine are two large refugee camps near Hadjer Hadid, established in 2003 to house Sudanese refugees fleeing the Darfur conflict. Together they have housed tens of thousands of people over the course of two decades, making them among the longer-established refugee settlements in the Sahel. International organisations including the UNHCR, MSF, Oxfam, and the Red Cross maintain a presence in and around the camps.

@@ -6,6 +6,7 @@ longitude: 10.3305
 tags:
 - things_to_do
 - sight
+score: 6.4
 ---
 
 The smaller of Feuchtwangen's two old churches, set immediately beside the Stiftskirche and connected to it by an arch. Originally Romanesque, the Johanniskirche was rebuilt in late Gothic and Baroque phases and now serves as the Protestant parish church.

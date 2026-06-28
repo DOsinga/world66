@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.9085
 longitude: 73.8195
+score: 6.4
 ---
 
 The Lakshmi Narayan Temple is one of the oldest temples in Sawantwadi, built under the patronage of the Bhonsle royal family. The temple follows the Konkan style of construction — a low-pitched tiled roof, carved wooden pillars at the entrance mandap, and a relatively compact sanctum. The interior stonework is weathered but detailed, with carvings of celestial figures and floral motifs.

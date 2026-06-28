@@ -4,6 +4,9 @@ done:
 latitude: 37.8704
 loc_type: city
 longitude: 112.5497
+score: 6.6
+snippet: Shanxi capital and industrial gateway to Jinci Temple, coal country, and
+  northern China's dynastic past.
 sources:
 - https://en.wikivoyage.org/wiki/Taiyuan
 title: Taiyuan

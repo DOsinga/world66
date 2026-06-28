@@ -1,0 +1,200 @@
+{
+  "round": 4504,
+  "timestamp": "2026-06-14T00:17:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 6.3986,
+      "prior_variance": 0.11179,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 5.9117,
+      "prior_variance": 0.138571,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 3.4399,
+      "prior_variance": 0.113531,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_score": 4.7996,
+      "prior_variance": 0.101565,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 4.2019,
+      "prior_variance": 0.093297,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 5.3332,
+      "prior_variance": 0.105811,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": 2.6616,
+      "prior_variance": 0.113279,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 3.491,
+      "prior_variance": 0.107133,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 2.1919,
+      "prior_variance": 0.100349,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 2.0703,
+      "prior_variance": 0.106025,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 2.7628,
+      "prior_variance": 0.092792,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 3.0333,
+      "prior_variance": 0.115068,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 2.9633,
+      "prior_variance": 0.111252,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Anchorage",
+      "path": "northamerica/unitedstates/alaska/anchorage",
+      "prior_score": 2.7609,
+      "prior_variance": 0.09956,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.465,
+      "prior_variance": 0.089592,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 1.1244,
+      "prior_variance": 0.115763,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.9765,
+      "prior_variance": 0.107792,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.1211,
+      "prior_variance": 0.087153,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.8968,
+      "prior_variance": 0.103676,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": -0.0532,
+      "prior_variance": 0.084862,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 0.1941,
+      "prior_variance": 0.118925,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.0341,
+      "prior_variance": 0.097648,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": -0.0104,
+      "prior_variance": 0.097025,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -1.6771,
+      "prior_variance": 0.091932,
+      "prior_n": 15
+    }
+  ]
+}

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 24.9050
 longitude: 118.5850
+score: 7.5
 ---
 
 Zhongshan Road is the commercial and ceremonial spine of Quanzhou's old town, a kilometre-long street lined with late-Qing and early Republican era shophouses whose covered arcades are a distinctive feature of Fujian coastal architecture. Unlike many Chinese historic commercial streets that have been sanitised into tourist zones, Zhongshan Road still operates as a working commercial street — hardware shops, fabric merchants, tea sellers, and traditional medicine dispensaries alongside the newer cafes and souvenir shops.

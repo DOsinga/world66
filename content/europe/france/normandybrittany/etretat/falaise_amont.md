@@ -9,6 +9,7 @@ tags:
   - cliff
   - viewpoint
 story: "The chapel of Notre-Dame-de-la-Garde and the white pylon monument on the eastern cliff commemorate the aviators Charles Nungesser and François Coli, who took off from Le Bourget in May 1927 attempting the first non-stop Paris–New York flight in their biplane *L'Oiseau Blanc*. They were last sighted from the cliffs at Étretat. They were never seen again."
+score: 8.4
 ---
 
 The Falaise d'Amont is the eastern cliff, lower and more accessible than the Aval. A wide path climbs from the eastern end of the seafront in about ten minutes, with steps and benches the whole way; the view back across the bay to the Porte d'Aval arch and the Needle is the best in town. At the top is the small chapel of Notre-Dame-de-la-Garde and the monument to Nungesser and Coli, the aviators who disappeared from these cliffs in 1927.

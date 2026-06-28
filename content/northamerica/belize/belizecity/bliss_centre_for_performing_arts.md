@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bliss Centre for the Performing Arts
 type: poi
+score: 6.0
 ---
 
 The Bliss Centre for the Performing Arts is the main cultural venue in Belize City, built with funds from the estate of Henry Bliss, the eccentric English nobleman whose bequest transformed Belizean public life in the early 20th century. It hosts theatre performances, concerts, dance events, and cultural festivals throughout the year.

@@ -15,6 +15,7 @@ story: >
   evening that the Polish 1st Armoured Division liberated Ypres. That night
   the ceremony was performed in the presence of the liberating troops before
   the echoes of the fighting had fully died away.
+score: 9.3
 ---
 
 Every evening at 8pm, traffic on the road through the Menin Gate stops. The police halt the cars. Four buglers from the Last Post Association raise their instruments and play — as they have every evening since 11 November 1929 — in memory of the soldiers who passed under this gate on their way to the front and never came back.

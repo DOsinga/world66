@@ -5,7 +5,9 @@ done:
 latitude: 59.744
 loc_type: city
 longitude: 10.2045
-score: 0.44
+score: 7.06
+snippet: Norwegian river-and-fjord city southwest of Oslo, known for its waterfront
+  and spiral mountain tunnel.
 sources:
 - https://en.wikipedia.org/wiki/Drammen
 title: Drammen

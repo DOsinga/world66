@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ulm_Panorama_01.jpg
 latitude: 48.3984
 loc_type: city
 longitude: 9.9912
-score: 0.53
+score: 8.2
+snippet: Danube city in Baden-Württemberg, known for Ulm Minster and the world’s tallest
+  church spire.
 title: Ulm
 type: location
 ---

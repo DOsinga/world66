@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumbum_Monastery.jpg
 latitude: 36.6333
 loc_type: city
 longitude: 101.7667
+score: 7.11
+snippet: Qinghai capital on the Tibetan Plateau, where Han, Hui, and Tibetan cultures
+  meet
 sources:
 - https://en.wikivoyage.org/wiki/Xining
 title: Xining

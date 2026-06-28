@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Basílica de San Isidoro
 type: poi
+score: 9.2
 ---
 
 This Romanesque basilica predates the cathedral and, in the opinion of many visitors, surpasses it. The church was built in the 11th and 12th centuries over an earlier structure to house the relics of Saint Isidore of Seville, brought here from Muslim-controlled Seville in 1063.

@@ -7,6 +7,7 @@ snippet: "Shallow coral garden reachable from the beach, ideal for snorkelling"
 tags:
 - things_to_do
 - sight
+score: 7.9
 ---
 
 The Japanese Gardens — so named for the precise, ornamental arrangement of the small coral heads on the sandy bottom — are one of the most popular shore-dive and snorkelling sites in the Aqaba Marine Park. The reef begins twenty metres from the beach and slopes gradually to about 30 metres, with hard corals dominating the shallows and gorgonian fans appearing deeper down.

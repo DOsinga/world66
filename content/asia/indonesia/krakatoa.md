@@ -1,12 +1,15 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-07'
 latitude: -6.1021
+loc_type: feature
 longitude: 105.423
+score: 7.61
+snippet: Volcanic island group in the Sunda Strait, shaped by the 1883 eruption and
+  Anak Krakatau.
 title: Krakatoa
 type: location
-score: 0.52
-loc_type: feature
 ---
 
 Krakatoa sits in the Sunda Strait between Java and Sumatra, and its name alone carries a weight few volcanoes can match. The catastrophic 1883 eruption destroyed most of the original island, generated tsunamis that killed over 36,000 people, and sent shockwaves around the globe. The sound of the blast was heard nearly 5,000 kilometres away in Australia.

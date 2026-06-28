@@ -13,6 +13,7 @@ story: >
   at 100 metres. Its architect, Mario Palanti, originally designed it for Buenos Aires — rejected 
   there, he sold the design to the Salvo brothers in Montevideo, who built it anyway. It 
   dominated the Montevideo skyline for decades and remains the most recognisable building in Uruguay.
+score: 7.8
 ---
 
 The Palacio Salvo rises above the southeast corner of Plaza Independencia in a fantastical eclectic style — part Art Deco, part neo-Gothic, topped by a lighthouse tower. It was built by the Salvo family between 1922 and 1928 and served as a combined hotel, apartment building, and commercial complex. The design by Italian architect Mario Palanti is genuinely strange: the building narrows as it rises, with turrets and ornamental detail that belongs more to a fairy-tale castle than an office block.

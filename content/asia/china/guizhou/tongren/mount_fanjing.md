@@ -8,6 +8,7 @@ latitude: 27.9167
 longitude: 108.6833
 story: >
   The two rock pillars at the summit of Fanjingshan — the New Golden Summit and the Old Golden Summit — rise from the ridgeline like separate geological events, connected to the main mountain by a narrow path and a flight of stone steps. Buddhist temples have stood on both pillars since the Ming Dynasty. The one on the New Golden Summit was destroyed and rebuilt several times; the current structure, perched on an outcrop about 100 metres high with sheer drops on all sides, was completed in 1999. The monks who maintain it carry all supplies up the 8,888 steps.
+score: 9.6
 ---
 
 Mount Fanjing is the highest peak in Guizhou at 2,570 metres and a UNESCO World Heritage Site, listed in 2018 as a natural site of outstanding universal value. The mountain is an ancient refugium — isolated by its height from the valleys below, it has preserved plant and animal species that disappeared elsewhere when the climate changed. The Guizhou golden monkey lives here and nowhere else in China outside the Wuling range.

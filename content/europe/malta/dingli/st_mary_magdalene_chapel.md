@@ -11,6 +11,7 @@ story: The chapel was a refuge of last resort. Marked on Knights of St John maps
   from the sixteenth century, it served as a beacon and shelter for sailors who had
   miraculously survived the cliffs below. Mary Magdalene was the patron saint of
   the desperate.
+score: 6.9
 ---
 
 The small whitewashed chapel of St Mary Magdalene sits alone on the very edge of the Dingli Cliffs, one of the most photographed buildings in Malta. The current structure was built in 1646, replacing a medieval chapel that probably dated to the fourteenth century. A single nave, a square belfry, a stone-flagged forecourt: that is the whole building.

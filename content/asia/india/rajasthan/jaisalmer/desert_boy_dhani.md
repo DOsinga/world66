@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Desert Boy's Dhani
 type: poi
+score: 4.6
 ---
 
 Desert Boy's Dhani is a restaurant set up to resemble a traditional Rajasthani dhani — a small rural settlement with low mud-plastered walls, charpoys (string beds) to sit on, and earthenware pots. The performance aspect is obvious, but the food underneath it is genuinely good: unlimited thalis with a rotating selection of Rajasthani dishes, freshly made rotis, and local sweets including ghevar (a flour and sugar honeycomb pastry) when in season.

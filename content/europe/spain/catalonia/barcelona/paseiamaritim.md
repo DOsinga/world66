@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.3795
 longitude: 2.1926
+score: 7.7
 snippet: Barcelona's seafront promenade from Barceloneta to the Port
 tags:
 - things_to_do
 - sights
+- barceloneta
 title: Passeig Marítim
 type: poi
 ---

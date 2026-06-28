@@ -8,6 +8,7 @@ tags:
 latitude: 51.9833
 longitude: 5.8500
 story: The Hartenstein Hotel served as British divisional headquarters during the Battle of Arnhem and was under siege for nine days as German forces tightened the perimeter. The commander, Major General Roy Urquhart, was trapped in the attic of this building for 36 hours early in the battle, hiding from German troops moving through the garden below — while his headquarters staff frantically tried to organise a battle without him.
+score: 8.4
 ---
 
 The Airborne Museum Hartenstein in nearby Oosterbeek (about 6 kilometres west of Arnhem) is one of the finest Second World War museums in the Netherlands, housed in the hotel that served as the British 1st Airborne Division's headquarters during the Battle of Arnhem in September 1944. The museum tells the full story of Operation Market Garden from the Allied perspective, with a particular focus on the nine-day battle at the Arnhem bridgehead.

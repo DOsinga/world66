@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.4528
 longitude: -82.7244
+score: 5.8
 ---
 
 A long-running Italian-American family restaurant on West Perkins Avenue, known for its breakfast (the perch and eggs is the local move), its hand-cut french fries, and the kind of large all-day menu that anchors a small American city. Berardi's has been in Sandusky since the 1940s and is the spot where locals take visiting parents.

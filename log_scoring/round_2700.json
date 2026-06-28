@@ -1,0 +1,200 @@
+{
+  "round": 2700,
+  "timestamp": "2026-06-13T22:01:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 10.482,
+      "prior_variance": 0.366601,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 3.4177,
+      "prior_variance": 0.19823,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_score": 5.6651,
+      "prior_variance": 0.203334,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 7.8038,
+      "prior_variance": 0.21343,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 5.767,
+      "prior_variance": 0.247614,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 4.6496,
+      "prior_variance": 0.181188,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 4.6153,
+      "prior_variance": 0.185226,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 6.2488,
+      "prior_variance": 0.167908,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 3.0475,
+      "prior_variance": 0.15637,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.1916,
+      "prior_variance": 0.153246,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.609,
+      "prior_variance": 0.170068,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.5461,
+      "prior_variance": 0.204979,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.6,
+      "prior_variance": 0.166406,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.8499,
+      "prior_variance": 0.146013,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 2.2798,
+      "prior_variance": 0.171102,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.232,
+      "prior_variance": 0.164392,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Dalian",
+      "path": "asia/china/liaoning/dalian",
+      "prior_score": -0.0335,
+      "prior_variance": 0.158654,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -0.1517,
+      "prior_variance": 0.224045,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -1.0931,
+      "prior_variance": 0.154441,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -2.2009,
+      "prior_variance": 0.164799,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.1157,
+      "prior_variance": 0.14988,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -0.9622,
+      "prior_variance": 0.159125,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -3.2609,
+      "prior_variance": 0.1908,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -6.4989,
+      "prior_variance": 0.203486,
+      "prior_n": 8
+    }
+  ]
+}

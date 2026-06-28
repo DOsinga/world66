@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/7633518@N08/52288860913
 latitude: 38.402104
 loc_type: city
 longitude: -122.824222
-score: 0.43
+score: 7.1
+snippet: Western Sonoma town where Gravenstein apple heritage meets vineyards, farm
+  stands, galleries, and coastal access.
 title: Sebastopol
 type: location
 ---

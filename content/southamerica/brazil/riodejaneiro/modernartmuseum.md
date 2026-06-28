@@ -5,10 +5,12 @@ done:
 latitude: -22.914
 longitude: -43.172
 phone: '2102188'
+score: 7.9
 snippet: Landmark modernist building with Brazilian and international modern art
 tags:
 - things_to_do
 - museum
+- flamengo
 title: Museum of Modern Art (MAM)
 type: poi
 ---

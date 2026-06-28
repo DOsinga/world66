@@ -13,6 +13,7 @@ story: >
   Parliament fast-tracked the mine's establishment so urgently that the first town buildings
   went up within weeks. At its peak the mine employed over 1,200 men and supplied a quarter
   of Victoria's coal. The last shift worked in 1968.
+score: 8.6
 ---
 
 The State Coal Mine is the best reason to visit Wonthaggi, and one of the most authentic industrial heritage sites in Australia. The mine operated from 1909 to 1968, extracting black coal from beneath the Bass Coast, and the heritage area preserves a substantial portion of the surface infrastructure — engine houses, boiler houses, workshops, the lamp room, the manager's office — in a state that gives a genuine sense of what the working mine felt like.

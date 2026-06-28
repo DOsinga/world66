@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.1383
 longitude: 2.4942
+score: 6.3
 ---
 
 A small museum in a Renaissance house in the village centre, the Musée des Vieux Métiers (Museum of Old Trades) displays tools and reconstructed workshops from the traditional crafts of the Cantal — coopering, blacksmithing, weaving, cheese-making. The collection is modest but earnestly presented, and it fills in the picture of what life in this isolated mountain region looked like before the 20th century.

@@ -14,6 +14,7 @@ story: >
   The largest fall drops nearly a hundred metres into a pool that fills
   with mist on warm mornings. The Miao name for this fall translates
   approximately as "the sound that frightens birds."
+score: 8.8
 ---
 
 The gorge walk at Dehang is the main reason to make the trip from Jishou. A trail follows the river upstream through progressively narrower rock walls, past waterfalls dropping from the plateau above, to a series of pools and viewpoints at the upper end of the canyon. The full circuit takes three to five hours at a comfortable pace; the terrain is not technically demanding but involves river crossings on stepping stones, some steep sections near the falls, and paths that are rougher than the manicured walkways of Wulingyuan or Zhangjiajie.

@@ -1,14 +1,17 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-04'
 image: leon_cathedral.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Le%C3%B3n_Catedral.jpg"
-image_license: "CC BY-SA 3.0"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Le%C3%B3n_Catedral.jpg
 latitude: 12.4346
 loc_type: city
 longitude: -86.878
-score: 0.52
+score: 7.46
+snippet: Nicaraguan university city of colonial churches, revolutionary murals, and
+  fierce Leónese pride
 title: León
 type: location
 ---

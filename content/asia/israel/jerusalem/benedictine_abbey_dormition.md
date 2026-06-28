@@ -7,6 +7,7 @@ tags:
   - old_city
 title: Dormition Abbey
 type: poi
+score: 7.5
 ---
 
 A German Benedictine abbey built at the turn of the 20th century on Mount Zion, just outside the Zion Gate of the Old City, marking the traditional site where the Virgin Mary "fell asleep" (dormitio in Latin) before the Assumption. The abbey's circular tower and Romanesque bulk are a landmark on the southwestern corner of the Old City skyline. The crypt contains a striking carved marble effigy of Mary in repose.

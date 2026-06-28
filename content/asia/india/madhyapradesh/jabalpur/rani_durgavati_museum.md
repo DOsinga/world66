@@ -13,6 +13,7 @@ story: Rani Durgavati was the Gond queen of Gondwana who ruled from 1550 to 1564
   than surrender — her last act was to take her own life to avoid capture. The museum
   named for her holds one of the best collections of medieval Indian sculpture in
   Madhya Pradesh.
+score: 7.2
 ---
 
 The Rani Durgavati Museum in Jabalpur holds archaeological finds from the region, including sculptures from the Kalchuri and Chandela periods and material from the Gond kingdom that centred on this part of central India. The collection includes medieval Hindu and Jain sculpture, coins, inscriptions, and exhibits tracing Jabalpur's history from prehistoric times to the present.

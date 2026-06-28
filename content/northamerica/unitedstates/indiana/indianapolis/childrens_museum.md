@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum's permanent dinosaur exhibit includes the actual fossil skeleton of Bucky the T. rex, named after the cowboy teenager who found him in South Dakota in 1998. He is the only known T. rex skeleton with a wishbone. The exhibit's life-size sculpted dinosaur breaking through the museum's exterior wall is one of the most-photographed objects in Indiana."
+score: 8.8
 ---
 
 The largest children's museum in the world by area, with five floors of exhibits, an IMAX theatre, a working carousel from 1917, the Lilly Theater, a dinosaur hall with real fossils, and the outdoor Sports Legends Experience. Plan a full day. With younger children, two days is not excessive.

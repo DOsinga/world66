@@ -7,6 +7,7 @@ tags:
   - market
 title: Uzgen Bazaar
 type: poi
+score: 6.8
 ---
 
 The Uzgen Bazaar is a sprawling daily market a few minutes' walk from the Karakhanid monuments. It serves the agricultural hinterland and draws traders from the largely Uzbek-speaking villages on both sides of the Kara Darya. The mix of produce, cloth, household goods, and livestock makes it a busy, noisy, properly functional market rather than anything aimed at tourists.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 34.8022
 longitude: -87.6797
+score: 6.6
 ---
 
 Locust Street, a few blocks north-west of downtown, is the prettiest residential street in Florence: wide, tree-shaded, and lined with substantial Victorian, Queen Anne, and Craftsman houses built between the 1880s and the 1920s. The whole street is on the National Register as a historic district.

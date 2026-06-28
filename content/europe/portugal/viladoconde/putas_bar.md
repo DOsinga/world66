@@ -6,6 +6,7 @@ tags:
   - bar
 title: Velvet
 type: poi
+score: 4.1
 ---
 
 A bar in the centre of Vila do Conde with a laid-back atmosphere and music. A good option for an evening drink in the old town, attracting a local crowd rather than a tourist one.

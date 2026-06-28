@@ -9,6 +9,7 @@ latitude: 35.5600
 longitude: 118.0500
 story: >
   The Yimeng Mountains were the base of the Shandong Eighth Route Army's resistance against Japan from 1938 to 1945, and the mountain villages have preserved a particular reputation in the Communist historical narrative — the "Yimeng Spirit" of soldiers supported by local civilians, many of them women who carried the wounded on stretchers through mountain terrain. The area is dotted with revolutionary memorials alongside the natural scenery.
+score: 7.6
 ---
 
 The Yimeng Mountain 5A Scenic Area covers a broad section of the Meng Shan range north of Linyi, with walking trails through forested ridges, river gorges, waterfalls, and sections of ancient Qi State defensive walls threading through the landscape. The highest summit is Guimeng Peak (1,156m), accessible by cable car and foot path; from the top on a clear day the coastal plain extends to the horizon.

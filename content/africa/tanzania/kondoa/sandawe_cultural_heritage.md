@@ -7,6 +7,7 @@ tags: [things_to_do, sight, culture]
 snippet: One of the last click-language speaking peoples of East Africa, related to the Khoisan of southern Africa
 story: >
   Linguists discovered in the 1950s that the Sandawe language contains click consonants almost identical to those in the Khoisan languages of the Kalahari, thousands of kilometres to the south. This connection — preserved in isolation for perhaps ten thousand years — suggests that click-speaking hunter-gatherers once occupied a far wider belt of eastern Africa, and that the Sandawe are a remnant of a much older Africa that was gradually displaced by Bantu expansion.
+score: 7.8
 ---
 
 The Sandawe people of the Kondoa district are one of the most historically remarkable communities in Africa. Linguistically distinct from their Bantu-speaking neighbours, they speak a click language that connects them to the San (Bushman) peoples of the Kalahari — separated by thousands of kilometres and thousands of years, but sharing a linguistic ancestry that predates most of the migration patterns that shaped modern Africa.

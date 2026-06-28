@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - day_trip
+score: 8.1
 ---
 
 The Somerset Levels are one of the great low-lying wetlands of southern England — a vast flat plain of water-meadows, rhynes (drainage ditches), pollarded willows, and reed beds, stretching east from Taunton toward Glastonbury and the Mendips. The land was reclaimed slowly over a thousand years and remains a working agricultural landscape on the very edge of being marsh.

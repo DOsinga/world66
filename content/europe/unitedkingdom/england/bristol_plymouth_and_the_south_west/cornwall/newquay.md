@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Headland_near_Newquay_harb
 latitude: 50.413625
 loc_type: city
 longitude: -5.084336
-score: 0.55
+score: 8.19
+snippet: Cornish resort town and surf capital, centred on Fistral Beach and north-coast
+  sandy bays.
 title: Newquay
 type: location
 ---

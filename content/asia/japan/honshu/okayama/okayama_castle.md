@@ -6,6 +6,7 @@ latitude: 34.6652
 longitude: 133.9361
 story: >
   The castle's black exterior earned it the nickname U-jo, or Crow Castle, in deliberate contrast to Himeji's white "Egret Castle." The current keep is a post-war reconstruction, but the silhouette still gives Okayama its sharpest skyline.
+score: 7.5
 ---
 
 Okayama Castle stands on the east side of the city centre, facing Korakuen across the Asahi River. Its black cladding makes it look more severe than many Japanese castles, especially when seen from the garden side.

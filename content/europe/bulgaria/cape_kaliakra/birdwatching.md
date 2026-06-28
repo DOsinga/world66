@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3650
 longitude: 28.4600
+score: 8.6
 ---
 
 Kaliakra is one of the most important migration bottlenecks on the western Black Sea coast and is designated an Important Bird Area and a Natura 2000 site. The Via Pontica flyway runs along this stretch of coast, and in spring and autumn the cape funnels storks, raptors, and pelicans in numbers that can fill the sky.

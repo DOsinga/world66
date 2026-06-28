@@ -1,14 +1,15 @@
 ---
-title: "Pirajá"
-type: poi
 latitude: -23.5712
 longitude: -46.6925
+score: 6.8
+snippet: Classic Pinheiros boteco — chopp, croquetes, and crowds spilling onto the
+  sidewalk
 tags:
-  - bars_and_cafes
-  - bar
-  - pinheiros
-neighbourhood: Pinheiros
-snippet: "Classic Pinheiros boteco — chopp, croquetes, and crowds spilling onto the sidewalk"
+- bars_and_cafes
+- bar
+- vila_madalena
+title: Pirajá
+type: poi
 ---
 
 Pirajá has been the standard Pinheiros boteco — corner bar — since 1978. The format is unchanged: standing room around the wood bar, a few tables inside, and at the weekends a crowd that overflows onto the sidewalk and the road outside. The draft beer (chopp) is the order, kept properly cold, and the bar snacks are above the average — bolinho de bacalhau, ham croquettes, pasteis de queijo.

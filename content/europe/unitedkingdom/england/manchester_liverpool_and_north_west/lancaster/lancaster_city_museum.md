@@ -9,6 +9,7 @@ longitude: -2.8012
 snippet: Local history museum in the old Town Hall, covering Roman Lancaster to the present
 sources:
   - https://en.wikipedia.org/wiki/Lancaster_City_Museum
+score: 7.3
 ---
 
 The City Museum occupies the former Town Hall on Market Square, a handsome Georgian building at the civic heart of the city. The collection covers Lancaster's history from the Roman fort of Longovicium through the medieval period, the Georgian slave-trade era, and the Victorian industrial boom.

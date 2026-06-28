@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fenghuang_County,_Hunan,_C
 latitude: 27.952
 loc_type: city
 longitude: 109.5916
+score: 8.65
+snippet: Riverside Hunan ancient town of stilted wooden houses, lantern reflections,
+  and Shen Congwen literary associations.
 sources:
 - https://en.wikivoyage.org/wiki/Fenghuang
 title: Fenghuang

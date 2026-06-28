@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: The main parish church at the heart of Nueva Rosita's modest historic centre
+score: 5.9
 ---
 
 The Templo de San Juan is the principal Catholic church of Nueva Rosita and the anchor of the town's small historic centre. Built in a simple colonial style, it faces a shaded plaza that serves as the town's main gathering place — particularly lively on Sunday mornings and during the festivals of San Juan in June and the town's patron saint celebrations.

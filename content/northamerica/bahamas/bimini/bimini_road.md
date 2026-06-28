@@ -9,6 +9,7 @@ tags:
 title: Bimini Road
 type: poi
 story: "In 1968 the psychic Edgar Cayce's followers identified the row of stone blocks off North Bimini as part of Atlantis, which Cayce had predicted would re-emerge that year. Geologists since have concluded the slabs are natural beachrock, but the legend has never quite died."
+score: 6.2
 ---
 
 A row of large flat limestone blocks lying in about five metres of water off Paradise Point on North Bimini, the Bimini Road runs in a straight line for almost a kilometre. Discovered by chance in 1968 by divers Joseph Manson Valentine and Robert Brush, the formation was immediately seized on as evidence of a lost civilisation — the fulfilment of Edgar Cayce's prophecy that Atlantis would rise again that year off Bimini.

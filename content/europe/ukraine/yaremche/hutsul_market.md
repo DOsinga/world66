@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 48.4422
 longitude: 24.5430
+score: 7.2
 ---
 
 A long, open-air bazaar along the banks of the Prut near the bridge to Probiy Waterfall, said to be the largest souvenir market in western Ukraine. The merchandise is a mix of genuine Hutsul folk craft and standard tourist tat — sheepskin vests and embroidered shirts (vyshyvanky), carved wooden boxes and crucifixes, ceramic pots, mountain honey, herbal teas, and homemade horilka in dubious bottles.

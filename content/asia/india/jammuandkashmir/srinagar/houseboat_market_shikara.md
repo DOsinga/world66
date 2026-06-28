@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 34.1100
 longitude: 74.8333
+score: 5.9
 ---
 
 The floating market that operates on the lake each morning is supplemented throughout the day by vendor shikaras that come directly to moored houseboats — a floating market brought to your door rather than requiring you to go to it. Selling flowers, fresh vegetables, crisps and soft drinks, jewellery, postcards, papier-mâché goods, and even a floating massage service, these itinerant vendors pole alongside and wait patiently while you inspect their offerings.

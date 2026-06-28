@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:DeTianPuBu.jpg
 latitude: 22.856111
 loc_type: feature
 longitude: 106.722222
-score: 0.55
+score: 8.33
+snippet: Large transnational waterfall on the China-Vietnam border, surrounded by
+  Guangxi karst countryside.
 title: Detian Waterfall
 type: location
 ---

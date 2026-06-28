@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 39.744623
 longitude: -104.998476
+score: 7.6
 ---
 
 The DCPA is the second-largest performing arts complex in the United States after Lincoln Center — a four-block campus of ten venues, including the Buell Theatre (Broadway tours), the Ellie Caulkins Opera House (Opera Colorado, Colorado Ballet), and the Stage Theatre, home to the Tony-winning resident company Denver Center Theatre Company. The whole thing is wrapped in a soaring glass roof that frames a public courtyard.

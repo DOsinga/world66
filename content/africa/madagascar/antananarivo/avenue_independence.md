@@ -6,6 +6,7 @@ longitude: 47.5250
 tags:
   - things_to_do
   - neighbourhood
+score: 7.3
 ---
 
 The Avenue de l'Indépendance is the main boulevard of Antananarivo, running from the railway station at the lower end up to the central market area at the top. Lined with colonial-era arcaded buildings, it serves as the commercial and social spine of the city. The avenue is always busy — vendors, commuters, schoolchildren, money changers — and walking its full length gives a rapid introduction to Tana's street life.

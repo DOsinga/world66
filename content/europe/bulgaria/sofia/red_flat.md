@@ -6,6 +6,7 @@ longitude: 23.3231
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 A small interactive museum recreating a Bulgarian apartment from 1985 — every object in the flat is original, from the Pelikan-brand sewing machine to the Bakelite telephone to the wooden TV cabinet. Visitors are encouraged to open cupboards, leaf through magazines, and listen to records.

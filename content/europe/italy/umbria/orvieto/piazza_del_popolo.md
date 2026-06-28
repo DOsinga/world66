@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.7193
 longitude: 12.1106
+score: 6.6
 ---
 
 Piazza del Popolo is Orvieto's second main square, dominated by the Palazzo del Capitano del Popolo, a handsome late 13th-century civic palace that has served as a seat of government for more than seven centuries. The palazzo's ground-floor arcade and the grand external staircase give the piazza much of its character.

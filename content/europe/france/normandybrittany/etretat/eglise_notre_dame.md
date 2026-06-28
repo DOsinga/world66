@@ -8,6 +8,7 @@ tags:
   - sight
   - church
   - architecture
+score: 6.8
 ---
 
 The parish church of Étretat is a quietly impressive 12th- and 13th-century Romanesque-Gothic building on a small rise just back from the seafront. The stone tower and the simple nave look older than they actually are — much of the visible structure is 19th-century restoration after damage in the Wars of Religion — but the proportions are right and the interior is striking, with a barrel-vaulted nave, plain stone walls, and a few good stained-glass windows.

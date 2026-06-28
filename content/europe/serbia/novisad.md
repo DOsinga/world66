@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:20230429.Ansichten_in_Novi
 latitude: 45.2671
 loc_type: city
 longitude: 19.8335
-score: 0.55
+score: 8.26
 title: Novi Sad
 type: location
+snippet: Serbia's Danube-side second city, with an Austro-Hungarian centre and Petrovaradin
+  Fortress across the river.
 ---
 
 Novi Sad is Serbia's second-largest city and the capital of the Vojvodina province, set on the Danube about 80 km north of [Belgrade](/europe/serbia/belgrade). It is a cultured, relaxed city with a handsome Austro-Hungarian centre and a lively cafe scene.

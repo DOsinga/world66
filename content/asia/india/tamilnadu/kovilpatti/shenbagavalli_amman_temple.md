@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The temple's nine-day annual festival around Tamil New Year is the biggest event in town, and the chariot procession on its final day blocks the main streets for hours. Villagers from across the surrounding taluk make the trip, and the town's population effectively doubles for the week.
+score: 5.8
 ---
 
 The Shenbagavalli Amman Temple, at the town centre, is the principal shrine in Kovilpatti and the focus of community life. The presiding deity is Shenbagavalli, a form of the mother goddess, and the temple follows the southern Tamil style of compact gopurams and brightly painted figures above the entrance.

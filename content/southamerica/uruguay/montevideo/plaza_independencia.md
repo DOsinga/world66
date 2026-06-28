@@ -12,6 +12,7 @@ story: >
   the remains of José Artigas lie in a sarcophagus guarded by two soldiers around the clock. 
   Artigas died in exile in Paraguay in 1850, having never set foot in Uruguay after independence. 
   His remains were returned 70 years later.
+score: 8.7
 ---
 
 Plaza Independencia is the main square of Montevideo and the hinge point between the old city and the new. To the west, the narrow streets of the Ciudad Vieja; to the east, the broad Avenida 18 de Julio running through the modern centre. The square is dominated by a large equestrian statue of José Artigas, the founding hero of Uruguayan independence, and framed by several significant buildings.

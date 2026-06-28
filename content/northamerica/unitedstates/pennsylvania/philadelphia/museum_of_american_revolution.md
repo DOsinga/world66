@@ -8,6 +8,7 @@ tags:
 latitude: 39.9484
 longitude: -75.1456
 snippet: "The best single museum for understanding the Revolutionary War — including Washington's actual command tent"
+score: 8.8
 ---
 
 The Museum of the American Revolution opened in 2017 in Old City, a block from Independence Hall, and immediately established itself as the best place in Philadelphia — perhaps in the country — to understand what the Revolutionary War actually was: who fought it, who was excluded from its promises, and what it felt like to live through it. The collection is serious, the interpretation honest, and the design excellent.

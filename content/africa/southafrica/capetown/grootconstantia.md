@@ -4,6 +4,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -34.030377
 longitude: 18.417646
+score: 8.7
 scores:
   activities: 0.5813
   landmark: 0.6393
@@ -12,6 +13,7 @@ snippet: Cape Town's oldest wine estate with manor house museum
 tags:
 - things_to_do
 - sight
+- newlands
 title: Groot Constantia
 type: poi
 ---

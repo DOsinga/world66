@@ -8,6 +8,7 @@ latitude: 47.893
 longitude: 20.364
 story: >
   The valley's name — Szépasszony-völgy in Hungarian — comes from local legend: a beautiful woman who sold wine here was said to be a witch who lured men to their ruin. The story may be a morality tale about the wine, or simply a piece of local colour attached to the unusual geological feature of a valley full of wine cellars carved into the volcanic rock. Either way, it has been drawing visitors since the eighteenth century.
+score: 8.5
 ---
 
 The Valley of the Beautiful Woman (Szépasszony-völgy) is a small valley about a fifteen-minute walk west of Eger's centre, lined on both sides with wine cellars carved into the tuff rock. About thirty cellars are open for tasting during the afternoon and evening, selling directly from barrels and bottles propped on crude wooden tables outside the cave entrances.

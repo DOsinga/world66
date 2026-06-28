@@ -6,6 +6,7 @@ longitude: -70.90719
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 **INACH**, the Chilean Antarctic Institute, has its headquarters in a low building just south of the Plaza. It is the public agency that coordinates all Chilean scientific work in Antarctica, and it runs the small but well-presented **Centro Antártico Internacional** exhibits on the polar regions.

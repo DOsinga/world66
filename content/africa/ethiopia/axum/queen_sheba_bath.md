@@ -6,6 +6,7 @@ longitude: 38.7225
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Mai Shum — "chief's water" in Tigrinya — is a large reservoir on the northwest side of the stelae field, traditionally claimed as the bathing pool of the Queen of Sheba. Archaeologists date it more prosaically to the 15th century, when it was reportedly dug by the Bishop of Axum. The name has survived the debunking well.

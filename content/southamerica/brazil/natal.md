@@ -6,7 +6,9 @@ image: natal_dunes_state_park.jpg
 latitude: -5.805398
 loc_type: city
 longitude: -35.20809
-score: 0.53
+score: 7.65
+snippet: Northeastern Brazilian beach city with warm surf, urban dunes, and the Forte
+  dos Reis Magos
 title: Natal
 type: location
 ---

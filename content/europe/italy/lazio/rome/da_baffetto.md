@@ -4,10 +4,12 @@ latitude: 41.8983
 longitude: 12.4704
 phone: +39 06 6861617
 price: 10-15 euros
+score: 6.7
 snippet: No-frills Roman pizzeria near Piazza Navona, famous for thin crispy pies
 tags:
 - eating_out
 - restaurant
+- prati
 title: Da Baffetto
 type: poi
 ---

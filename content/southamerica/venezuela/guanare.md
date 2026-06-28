@@ -5,7 +5,9 @@ done:
 latitude: 9.040786
 loc_type: city
 longitude: -69.741259
-score: 0.32
+score: 5.5
+snippet: Portuguesa state capital on the llanos, known for the Virgen de Coromoto
+  pilgrimage tradition.
 title: Guanare
 type: location
 ---

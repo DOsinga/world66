@@ -12,6 +12,7 @@ story: >
   apart timber by timber and transported north to become the core of the new Mandalay
   Palace. What remains in Amarapura is the plan of the city walls, the moat, and
   various brick foundations — a palace that walked away.
+score: 6.8
 ---
 
 The former palace complex of Amarapura lies within the old city walls, whose moat and earthen ramparts survive in rough outline. The palace buildings themselves were removed to Mandalay in the 1850s, but the spatial logic of the walled city is still readable: the orientation, the grid of internal roads, the positions of gates and towers. A few brick structures remain, and a large bell that was too heavy to move.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.7
 ---
 
 Ladies Beach — Kadınlar Denizi in Turkish — is the busiest of Kuşadası's town beaches, a long sweep of sand and shingle two kilometres south of the centre. The name reportedly comes from an earlier era when one side of the beach was reserved for women, though that custom is long gone.

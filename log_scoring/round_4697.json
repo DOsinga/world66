@@ -1,0 +1,200 @@
+{
+  "round": 4697,
+  "timestamp": "2026-06-14T00:34:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 5.2896,
+      "prior_variance": 0.108148,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 4.9908,
+      "prior_variance": 0.097092,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 6.035,
+      "prior_variance": 0.119026,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 4.8993,
+      "prior_variance": 0.102322,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_park",
+      "prior_score": 4.5916,
+      "prior_variance": 0.120875,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.4307,
+      "prior_variance": 0.104981,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.58,
+      "prior_variance": 0.087666,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 1.7296,
+      "prior_variance": 0.088679,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 0.2933,
+      "prior_variance": 0.09248,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 1.95,
+      "prior_variance": 0.082454,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Aguadilla",
+      "path": "northamerica/thecaribbean/puertorico/aguadilla",
+      "prior_score": 1.0604,
+      "prior_variance": 0.090734,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.6726,
+      "prior_variance": 0.083226,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": 0.2942,
+      "prior_variance": 0.084003,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.1237,
+      "prior_variance": 0.087909,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.9521,
+      "prior_variance": 0.090241,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.782,
+      "prior_variance": 0.080324,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.0482,
+      "prior_variance": 0.081344,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.1462,
+      "prior_variance": 0.083324,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -5.3781,
+      "prior_variance": 0.111444,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -3.1527,
+      "prior_variance": 0.116634,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -3.0703,
+      "prior_variance": 0.102331,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -4.6425,
+      "prior_variance": 0.101681,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -5.487,
+      "prior_variance": 0.108423,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -6.0345,
+      "prior_variance": 0.133515,
+      "prior_n": 15
+    }
+  ]
+}

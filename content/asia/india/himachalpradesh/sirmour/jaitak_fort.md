@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The fort was the Gurkha stronghold during the Anglo-Nepalese War of 1814-15 and the scene of one of the East India Company's hardest-fought sieges. Major General David Ochterlony lost more than a thousand men taking it. The Gurkhas only surrendered after a relief column was defeated."
+score: 7.2
 ---
 
 Jaitak Fort sits on a ridge about 15 km from Nahan, at around 1,500 metres. It was built in 1810 by the Gurkha general Ranjore Singh Thapa as a forward base during the Gurkha occupation of Sirmaur, and was contested in the Anglo-Nepalese War. The British eventually took it in 1815, and the loss formed part of the wider settlement that pushed the Gurkhas back into modern Nepal.

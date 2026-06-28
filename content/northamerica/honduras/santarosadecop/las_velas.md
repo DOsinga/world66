@@ -7,6 +7,7 @@ tags:
 latitude: 14.7688
 longitude: -88.7810
 snippet: 'Cosy cafe with a loyal local following, good breakfasts and air conditioning'
+score: 5.2
 ---
 
 Las Velas (also known as El Cafe de las Velas) is a reliable morning spot a couple of blocks west of the plaza on Avenida 3 NO. The air conditioning is a genuine draw on warmer days, and the coffee and breakfast options are solid without being showy.

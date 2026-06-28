@@ -7,6 +7,7 @@ tags:
 latitude: 55.3216
 longitude: 15.1853
 snippet: The smaller sister island, joined to Christianso by a footbridge
+score: 8.3
 ---
 
 A short wooden footbridge connects Christianso to its smaller neighbour Frederikso, named after Frederik IV. The whole island can be walked across in five minutes. At its centre is the Lille Tarn, the smaller of the two original gun towers — beheaded by a Swedish naval bombardment in 1808 and rebuilt at a lower height, it now houses a small exhibition on the maritime history of the archipelago.

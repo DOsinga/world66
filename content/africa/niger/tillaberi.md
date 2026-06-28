@@ -5,7 +5,9 @@ done:
 latitude: 13.725107
 loc_type: city
 longitude: 1.696146
-score: 0.19
+score: 3.33
+snippet: Niger River road town northwest of Niamey, known for nearby giraffe country
+  and Sahel crossings.
 sources:
 - https://en.wikipedia.org/wiki/Tillabéri
 title: Tillaberi

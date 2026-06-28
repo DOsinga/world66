@@ -6,6 +6,7 @@ tags: [things_to_do, sight]
 latitude: 47.6680
 longitude: 19.0746
 story: "The cast-iron Memorial Cross at the centre of the square was put up in 1763 by the Serbian merchants of Szentendre to give thanks for being spared in a plague that had swept the Danube bend. Its base is wrapped with icons painted directly onto the metal."
+score: 8.5
 ---
 
 The triangular Fő tér — Main Square — is the centre of old Szentendre, ringed by pastel Baroque townhouses and the Blagovestenska Church. In the middle stands a wrought-iron Memorial Cross, the most photographed object in town after the church itself.

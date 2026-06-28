@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 65.0125
 longitude: 25.4685
+score: 5.5
 ---
 
 A long-running traditional cafe-konditori on Kirkkokatu, between the cathedral and the market square. Display cases of pulla buns, Karelian rice pasties, marzipan cakes, and the giant Runeberg torte in season.

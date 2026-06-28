@@ -9,6 +9,7 @@ longitude: 22.9369
 snippet: "History of the beloved narrow-gauge Pelion Railway, in the beautiful old station building"
 story: >
   The narrow-gauge Pelion Railway, nicknamed Moutzouris — Dirty Face — for the coal soot its steam engines showered on passengers, wound up into the Pelion mountains from Volos between 1895 and 1971. The route was an engineering feat for its time, climbing through hairpin curves and dense forest to reach villages that had no road access. Locals adored it; when it closed, many of the mountain communities lost their main connection to the outside world.
+score: 7.0
 ---
 
 The Thessaly Railway Museum occupies the old Volos station, a handsome neoclassical building that alone justifies a short detour. The museum documents the history of the railway network that once connected Volos to the wider Thessaly plain and, more evocatively, the narrow-gauge Pelion Railway — the Moutzouris, or Dirty Face — that ran from here up into the steep terrain of the Pelion peninsula from 1895 until its closure in 1971.

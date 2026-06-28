@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aqueduc_du_Peyrou,_Montpel
 latitude: 43.611242
 loc_type: city
 longitude: 3.876734
-score: 0.64
+score: 8.5
+snippet: Mediterranean university city with medieval lanes, student energy, and France's
+  historic medical faculty.
 title: Montpellier
 type: location
 ---

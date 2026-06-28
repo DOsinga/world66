@@ -14,6 +14,7 @@ story: >
   famous revolutionary ballets of the Mao era, premiering in 1964. The ballet was
   performed at state banquets during Nixon's 1972 visit to China — the American
   president watched it the evening after arriving in Beijing.
+score: 5.8
 ---
 
 The Red Detachment of Women Memorial Park was developed in 1998 to commemorate the real female Communist military unit that was formed in Qionghai in 1931 and inspired one of the most enduring cultural artefacts of the Mao era. The park contains revolutionary sculptures, a museum covering the unit's history, coconut groves, and periodic live performances of scenes from the ballet. It was designated a National Classic Red Tourism Attraction in 2005 and draws substantial numbers of mainland Chinese visitors, particularly organised tour groups.

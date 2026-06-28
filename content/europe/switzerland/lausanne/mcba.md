@@ -13,6 +13,7 @@ tags:
   - museum
 title: MCBA – Musée Cantonal des Beaux-Arts
 type: poi
+score: 7.4
 ---
 
 The Musée Cantonal des Beaux-Arts holds Vaud canton's permanent art collection in a contemporary building on the Plateforme 10 arts campus, a short walk from the main station. The collection spans Swiss and European painting from the 15th century to the present, with particular strength in 19th-century Swiss work and a large holding of works by artists connected to the Lake Geneva region.

@@ -5,6 +5,7 @@ latitude: 52.7500
 longitude: 6.0500
 snippet: "The largest peatland nature reserve in northwest Europe, beginning at the village's edge"
 tags: [things_to_do, nature]
+score: 8.8
 ---
 
 Weerribben-Wieden is one of the most biodiverse wetland habitats in the Netherlands, and it begins immediately at the edge of the village. The national park covers a vast expanse of reed beds, open water, and narrow channels — the same peatland landscape that Giethoorn sits in, but extending far beyond the tourist zone into genuine wilderness. Otters, marsh harriers, bitterns, and rare dragonfly species are all present in summer for those willing to move quietly and look carefully.

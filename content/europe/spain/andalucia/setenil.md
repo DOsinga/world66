@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Setenil_de_las_Bodegas_-_W
 latitude: 36.862184
 loc_type: city
 longitude: -5.1787
-score: 0.58
+score: 8.65
+snippet: Andalucian white village built beneath overhanging gorge rock, with cave-like
+  streets and Moorish ruins
 sources:
 - https://en.wikipedia.org/wiki/Setenil_de_las_Bodegas
 title: Setenil de las Bodegas

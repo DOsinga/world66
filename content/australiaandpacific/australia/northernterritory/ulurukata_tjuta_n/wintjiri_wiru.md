@@ -8,6 +8,7 @@ longitude: 130.9750
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 Wintjiri Wiru, opened in 2023, is a drone-and-light show that retells part of the Mala (rufous hare-wallaby) ancestral story across the night sky above the dunes near Yulara. More than a thousand drones form moving figures, alongside laser projections and a soundtrack of voices, didgeridoo and bullroarer.

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 15.590853
+loc_type: city
 longitude: 73.810215
+score: 7.22
+snippet: North Goa market town and administrative hub, best known for its busy Friday
+  Market.
 title: Mapusa
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Mapusa is the administrative headquarters of North Goa and the main market town for the northern part of the state. It doesn't have the beach-resort feel of the coastal villages, but it is one of the most practical towns in Goa for getting things done — buses, pharmacies, banks, and supplies are all here.

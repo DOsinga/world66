@@ -10,6 +10,7 @@ latitude: 51.6880
 longitude: 5.3084
 story: >
   The cathedral took nearly two centuries to build, from around 1330 to 1529. During that time, the designers kept adding structural and decorative elements that were unlike anything being built in the Low Countries — including the extraordinary flying buttresses populated with angels, devils, dragons, and hybrid creatures. One of them is known as the "Bosch devil" and is often linked to the imagery of Hieronymus Bosch, who lived in the city as the cathedral was being completed.
+score: 8.9
 ---
 
 Sint-Janskathedraal is one of the finest Gothic churches in the Netherlands, and arguably the most elaborate. The building took almost two centuries to complete, and the result is a late Gothic masterpiece that somehow manages to be both monumental and fantastically detailed. The exterior is encrusted with nearly 600 stone statues and figures — carved angels, saints, dragons, and nightmare creatures that seem to have escaped from a Bosch painting.

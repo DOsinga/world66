@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 16.7785
 longitude: 96.1576
+score: 6.2
 ---
 
 Mohinga is Myanmar's national dish — a fish-based noodle soup eaten almost exclusively for breakfast. Hawkers carry it through the city in the early morning, or you can find it at tea shops and noodle stalls throughout the downtown area. The broth is made from catfish, lemongrass, ginger, and banana flower stem; it is served over thin rice noodles and topped with fried onions, crispy chickpea fritters, and a boiled egg.

@@ -11,6 +11,7 @@ story: >
   The mural was commissioned in 1975 as part of an urban arts initiative and painted by Blue Sky (Warren Johnson), a local artist who has spent decades creating trompe l'oeil murals around Columbia. The optical illusion is convincing enough that drivers occasionally brake in genuine alarm — the story of at least one crash attributed to the mural is part of local lore, though its accuracy is disputed.
 sources:
   - https://en.wikipedia.org/wiki/Tunnelvision_(mural)
+score: 5.7
 ---
 
 Tunnelvision is a 75-foot trompe l'oeil mural painted on the wall of a parking garage on Gervais Street in the Vista district. The painting depicts a realistic tunnel receding into the distance, complete with a vanishing point and painted pavement markings — convincing enough from the right angle to make drivers instinctively reach for their brakes.

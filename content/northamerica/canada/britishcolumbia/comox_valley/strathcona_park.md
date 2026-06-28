@@ -8,6 +8,7 @@ tags:
 - sight
 title: Strathcona Provincial Park
 type: poi
+score: 9.2
 ---
 
 British Columbia's oldest provincial park, founded in 1911, spans 2,500 square kilometres of the spine of central Vancouver Island just west of the Comox Valley. It contains the highest peak on the island (the Golden Hinde at 2,200 m), Della Falls — one of the tallest waterfalls in Canada at 440 m — and the deepest alpine lake (Buttle).

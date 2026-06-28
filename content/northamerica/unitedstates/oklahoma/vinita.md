@@ -5,7 +5,9 @@ done:
 latitude: 36.640837
 loc_type: city
 longitude: -95.156363
-score: 0.29
+score: 5.37
+snippet: Route 66 Oklahoma town with Cherokee, railroad, and frontier history layered
+  into its downtown.
 title: Vinita
 type: location
 ---

@@ -4,6 +4,7 @@ type: poi
 latitude: 22.5210
 longitude: 113.3820
 tags: [things_to_do, sight, neighbourhood]
+score: 7.7
 ---
 
 The Shiqi district — pronounced "shir-chee" — is the historic urban core of Zhongshan. Wedged between the Qijiang River and the surrounding canals, it predates the modern prefecture by several centuries and retains a network of narrow alleys, small temples, and arcaded shop-houses that survives in pockets between the newer building.

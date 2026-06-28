@@ -9,6 +9,7 @@ latitude: 41.0833
 longitude: 9.5333
 snippet: The celebrity-magnet stretch of emerald coast north of Olbia, developed from scratch in the 1960s by the Aga Khan
 story: The Costa Smeralda was essentially invented from scratch in 1962 when the Aga Khan IV bought 55 kilometres of Sardinian coastline and had a consortium of architects design an entire resort aesthetic from scratch — no building could exceed the height of the surrounding trees, all construction had to use local stone in specific colours, and the electricity and phone lines were buried underground. The result set the template for luxury Mediterranean resort development worldwide.
+score: 7.9
 ---
 
 The Costa Smeralda is the strip of northeastern Sardinian coastline running north from Olbia toward Palau, taking in bays such as Porto Cervo, Cala di Volpe, Romazzino, and Liscia di Vacca. The scenery is genuinely spectacular: granite cliffs plunging into emerald water, white sand beaches sheltered in rocky coves, with the islands of the Maddalena Archipelago visible in the distance.

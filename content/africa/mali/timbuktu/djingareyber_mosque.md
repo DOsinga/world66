@@ -12,6 +12,7 @@ story: >
   for a decade. The mosque he built on his return was intended to announce to the Islamic world
   that Mali had arrived as a civilisation. Seven hundred years later, it is still the most
   important building in the city.
+score: 9.2
 ---
 
 The oldest and most important of Timbuktu's three UNESCO World Heritage mosques, built in 1327 on the orders of Emperor Mansa Musa and still in active use today. It is constructed in the distinctive Sudano-Sahelian style: sun-dried mud brick with protruding wooden beams that form the scaffolding used for annual replastering. The whole community participates in the annual replastering ceremony each spring, which is as much social festival as building maintenance.

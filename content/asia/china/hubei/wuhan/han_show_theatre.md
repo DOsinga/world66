@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - theatre
+score: 6.4
 ---
 
 The Han Show Theatre, on the eastern shore of East Lake in Wuchang, is the most ambitious piece of late-2010s entertainment architecture in Wuhan — a red lacquer egg-shaped building, completed in 2014 by the Mark Fisher and Stufish design teams, custom-built for a single resident production: a multi-million-dollar acrobatic-water show called The Han Show.

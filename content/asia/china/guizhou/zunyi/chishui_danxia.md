@@ -12,6 +12,7 @@ story: >
   The colour — a deep terracotta red, saturated to almost implausible intensity when wet —
   comes from iron oxide in the rock. In 2010, Chishui was inscribed as part of the
   UNESCO World Heritage "China Danxia" serial nomination.
+score: 8.8
 ---
 
 The Chishui area, about 150 kilometres west of Zunyi on the Guizhou–Sichuan border, contains one of China's six designated Danxia landscapes and the only one on the UNESCO World Heritage List with intact bamboo forest at altitude. The combination is arresting: red sandstone cliffs and towers rising from a sea of green bamboo, cut by rivers that run red after rain, with waterfalls cascading over the edge of the red escarpments. The waterfalls at Sidonggou, where four streams drop in parallel over a wide red cliff face, are the most photographed feature in the park.

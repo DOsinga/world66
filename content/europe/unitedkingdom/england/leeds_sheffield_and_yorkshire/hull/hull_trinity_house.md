@@ -8,6 +8,7 @@ tags:
 title: Hull Trinity House
 type: poi
 snippet: "Medieval guild of mariners on the Whitefriargate, with one of England's oldest continuously operating charity schools"
+score: 7.8
 ---
 
 Hull Trinity House was founded as a religious fraternity in 1369 and granted a royal charter in 1457 to look after mariners and their families. The institution still exists, runs a nautical college, and operates a navigation school for cadets that trains for the merchant marine. The current complex on Trinity House Lane, behind Whitefriargate, dates mostly from the 18th and 19th centuries.

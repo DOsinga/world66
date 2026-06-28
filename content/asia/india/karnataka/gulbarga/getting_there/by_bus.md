@@ -3,7 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 17.3297
 longitude: 76.8343
+score: 2.2
 snippet: Well-connected bus hub with overnight services to Bangalore
+tags:
+- getting_there
+- bus
 title: By Bus
 type: poi
 ---

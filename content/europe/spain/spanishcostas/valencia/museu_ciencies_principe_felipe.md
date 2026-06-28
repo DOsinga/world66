@@ -7,6 +7,7 @@ tags:
   - family
 latitude: 39.4558
 longitude: -0.3515
+score: 6.9
 ---
 
 Calatrava's whale-skeleton of a science museum is hands-on across three floors — biology, physics, technology, plus a long ribbon of interactive experiments aimed at children but happily commandeered by adults. The pendulum demonstration, the climbing wall built to teach basic physics, and the rotating space exhibit are the standouts.

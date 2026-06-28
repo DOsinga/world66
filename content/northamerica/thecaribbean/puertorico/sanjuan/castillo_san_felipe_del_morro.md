@@ -9,6 +9,7 @@ tags:
   - old_san_juan
 neighbourhood: Old San Juan
 story: "In 1898 the US Navy lobbed shells at El Morro during the Spanish-American War; the fort took some damage but never fell, and Spain ceded Puerto Rico at the negotiating table rather than on the battlements. The lighthouse on the top floor still works — its current concrete tower replaced the one the US shelled."
+score: 9.8
 ---
 
 El Morro is the great hexagonal Spanish fortress at the tip of Old San Juan, six storeys of golden sandstone walls rising 140 feet above the Atlantic. Construction began in 1539 and continued in fits and starts for the next two centuries; the fort defended the harbour entrance against the English, the Dutch, and assorted pirates, and is now a UNESCO World Heritage Site managed by the US National Park Service.

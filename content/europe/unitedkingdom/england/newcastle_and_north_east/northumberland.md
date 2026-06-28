@@ -6,6 +6,7 @@ loc_type: region
 longitude: -2.0006
 title: Northumberland
 type: location
+snippet: England's northernmost county, spanning Cheviot moorland, Hadrian's Wall, and a castle-lined coast.
 ---
 
 Northumberland is England's most northerly county — and also one of its most dramatic. Stretching from the Scottish border down to the edges of Tyneside, it covers open moorland, the wild Cheviot Hills, and a coastline lined with dune-backed beaches and medieval castles that is often called the finest in England.

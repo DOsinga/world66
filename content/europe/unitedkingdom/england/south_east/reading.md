@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Broad_Street,_Reading,_201
 latitude: 51.451495
 loc_type: city
 longitude: -0.983634
-score: 0.38
+score: 5.94
+snippet: Thames Valley town known for its music festival, ruined medieval abbey, and
+  fast London rail links
 title: Reading
 type: location
 ---

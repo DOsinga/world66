@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Sushi Dai
 type: poi
+score: 7.3
 ---
 
 Sushi Dai relocated from the old Tsukiji inner market to Toyosu in 2018, and the queues moved with it. This is the legendary sushi counter that people queue two to four hours to reach — a ten-seat counter inside the wholesale market where the omakase (chef's choice) set, at around ¥4,500, includes a succession of whatever was freshest that morning: tuna, uni, shrimp, scallop, finished with a roll and a cup of miso.

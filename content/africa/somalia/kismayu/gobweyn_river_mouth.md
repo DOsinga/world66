@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.1500
 longitude: 42.4500
+score: 7.2
 ---
 
 A short drive north of Kismayo, Gobweyn is the point where the Jubba River — one of the two permanent rivers of Somalia — meets the Indian Ocean. The visual contrast is dramatic: the reddish silt-laden water of the river pushing against the deep turquoise of the sea, the two colours refusing to mix for some distance offshore. It is one of the more striking natural phenomena in the region.

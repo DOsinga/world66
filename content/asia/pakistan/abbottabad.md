@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Abbottabad_Pakistan_In_win
 latitude: 34.143614
 loc_type: city
 longitude: 73.213275
-score: 0.35
+score: 5.97
+snippet: Himalayan foothill city and former British hill station, gateway to the Karakoram
+  road north.
 title: Abbottabad
 type: location
 ---

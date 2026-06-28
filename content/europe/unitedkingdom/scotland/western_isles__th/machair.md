@@ -7,6 +7,7 @@ tags:
 latitude: 57.8600
 longitude: -7.3200
 snippet: Flower-covered coastal grassland unique to the Hebrides
+score: 8.3
 ---
 
 Machair is a habitat found almost nowhere else on earth — a low-lying coastal grassland formed on shell-sand, carpeted with wildflowers from May to August. The western coasts of South Uist and Benbecula have some of the finest examples. In early summer the machair is a continuous carpet of yellow, white, and purple — corn marigolds, daisies, ragged robin, purple clover — stretching from the dune edge down to the beach.

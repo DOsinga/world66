@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum]
 latitude: 37.2185
 longitude: -7.4419
 story: Castro Marim was the first headquarters of the Knights of the Order of Christ — the Portuguese successor to the Templar Knights — who moved here after the Templars were suppressed in 1314, making this quiet hilltop one of the founding sites of Portuguese maritime expansion.
+score: 7.8
 ---
 
 The Castle of Castro Marim crowns a low hill about 5 km north of Vila Real de Santo António, visible for miles around across the flat estuary country. The ruins are medieval in core but were heavily rebuilt in the 17th century when Portugal feared a Spanish incursion from across the Guadiana. The circuit of walls is largely intact and the views from the battlements take in the river, the salt pans, the sea, and across into Spain.

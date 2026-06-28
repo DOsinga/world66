@@ -9,6 +9,7 @@ tags:
 latitude: 45.2100
 longitude: -66.1200
 snippet: 243-hectare coastal park with cliffs, beaches, and seabird colonies on the Bay of Fundy
+score: 8.4
 ---
 
 Irving Nature Park occupies a peninsula at the southern tip of Saint John, a gift to the city from the Irving family that covers 243 hectares of coastal forest, cliffs, and shoreline on the Bay of Fundy. It is one of the best easily accessible pieces of wild coastline in the Maritimes, and it is free to visit.

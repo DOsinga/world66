@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Palacio de los Guzmanes
 type: poi
+score: 7.1
 ---
 
 The Palacio de los Guzmanes is widely considered the finest Renaissance civil building in León. Designed by Rodrigo Gil de Hontañón and completed in 1560, it occupies the north side of the Plaza de Santo Domingo alongside Casa Botines — the two buildings together making this square one of the more architecturally unusual in Spain.

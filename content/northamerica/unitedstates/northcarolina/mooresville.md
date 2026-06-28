@@ -5,7 +5,9 @@ done:
 latitude: 35.58486
 loc_type: city
 longitude: -80.810072
-score: 0.34
+score: 6.01
+snippet: Lake Norman town known as Race City USA, with NASCAR workshops embedded in
+  local culture.
 title: Mooresville
 type: location
 ---

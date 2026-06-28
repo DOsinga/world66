@@ -9,6 +9,8 @@ latitude: 54.4609
 loc_type: region
 longitude: -3.0886
 score: 0.68
+snippet: English mountain region of lakes, fells, glaciated valleys, and long associations
+  with the Lake Poets.
 title: Lake District
 type: location
 ---

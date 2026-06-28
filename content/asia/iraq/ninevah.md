@@ -6,12 +6,14 @@ latitude: 36.3592
 longitude: 43.1589
 title: Nineveh
 type: location
-score: 0.31
+score: 5.62
 loc_type: city
 image: ninevah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2018_Ashurbanipal_-_Nineveh.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Anthony Huan
+snippet: Ancient Assyrian capital on the Tigris, marked by great mounds beside modern
+  Mosul.
 ---
 
 Nineveh was once the greatest city in the world — capital of the Assyrian Empire at its height, home to perhaps half a million people, and the political and cultural hub of the ancient Near East. At its peak under Sennacherib (704–681 BC), the city enclosed an area of roughly 750 hectares within walls twelve kilometres in circumference, pierced by fifteen gates each named after an Assyrian deity. It fell in 612 BC when a coalition of Medes and Babylonians sacked and burned it, fulfilling the prophecies that had made its name synonymous with pride before a fall.

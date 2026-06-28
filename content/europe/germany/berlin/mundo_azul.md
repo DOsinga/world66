@@ -14,6 +14,7 @@ tags:
 title: Mundo Azul
 type: poi
 url: www.mundoazul.de
+score: 6.3
 ---
 
 An international children's bookstore with titles in English, Spanish, French, Italian, and German. The shelves are well curated, leaning toward illustrated and picture books, and the bilingual selection is particularly strong. They host regular readings, workshops, and storytelling sessions for children and parents.

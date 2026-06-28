@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.j
 latitude: 35.1686
 loc_type: city
 longitude: -5.2636
-score: 0.75
+score: 9.34
+snippet: Blue-washed Rif Mountains town whose hillside medina climbs beneath Chefchaouen's
+  twin rocky peaks
 title: Chefchaouen
 type: location
 ---

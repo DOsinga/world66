@@ -2,10 +2,12 @@
 address: Carrer Nou de la Rambla 3-5
 latitude: 41.375978
 longitude: 2.171029
-snippet: "Early Gaudi mansion with extraordinary rooftop chimneys"
+score: 8.7
+snippet: Early Gaudi mansion with extraordinary rooftop chimneys
 tags:
 - things_to_do
 - sight
+- el_raval
 title: Palau Guell
 type: poi
 ---

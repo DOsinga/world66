@@ -10,6 +10,7 @@ story: >
   intentional BASE jump from the Troll Wall, kicking off the modern
   sport. So many jumpers died on the wall in the following decades
   that Norway banned BASE jumping here in 1986 — the ban still stands.
+score: 8.9
 ---
 
 The Trollveggen — Troll Wall — is the highest vertical rock face in Europe, rising more than 1,000 metres almost sheer from the Romsdalen valley floor. The summit ridge overhangs the base by roughly 50 metres, which means anything falling off the top lands well clear of the cliff. It is one of the great climbing prizes in the Alps and a place where some of the first big-wall first ascents in the Nordic countries were made.

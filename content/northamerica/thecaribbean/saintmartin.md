@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Philipsburg,_St._Martin_(1
 latitude: 18.0731
 loc_type: city
 longitude: -63.0822
-score: 0.61
+score: 8.98
+snippet: French Caribbean half-island of beaches, Marigot markets, and easy border
+  crossings with Sint Maarten.
 title: Saint-Martin
 type: location
 ---

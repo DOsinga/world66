@@ -9,6 +9,7 @@ type: poi
 snippet: Fertile agricultural valley famous for avocados and cherimoyas
 sources:
   - https://en.wikipedia.org/wiki/Quillota
+score: 7.5
 ---
 
 The Aconcagua River valley surrounding Quillota is some of the most productive agricultural land in Chile. The terraced hillsides and irrigated flats grow avocados, cherimoyas (a tropical fruit the size of a grapefruit, with sweet white flesh), papayas, and citrus. In late summer the roadside stalls along the highway sell fresh fruit at prices that make you want to stop every few kilometres.

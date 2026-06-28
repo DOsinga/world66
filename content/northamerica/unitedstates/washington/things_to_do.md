@@ -5,7 +5,7 @@ opening_hours: $6 per hour $4 half hour $2 min
 phone: (360)378-8488
 price: Like the menu bar on your computer, the Menu Bar Cafe &
 title: Things to do
-type: poi
+type: section
 url: www.interisland.net
 ---
 

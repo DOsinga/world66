@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Rande Bridge
 type: poi
+score: 5.6
 ---
 
 The Rande suspension bridge, built in 1978, spans the narrowest point of the Ría de Vigo between the municipalities of Redondela and Moaña. The view from the bridge deck is spectacular — the full sweep of the ría opens up in both directions, with Vigo to the southwest and the inner estuary towards Pontevedra to the northeast.

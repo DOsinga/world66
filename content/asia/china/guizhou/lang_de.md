@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E6%9C%97%E5%BE%B7%E4%B8%8
 latitude: 26.476
 loc_type: feature
 longitude: 108.066
+score: 6.35
+snippet: Miao hillside village near Kaili, with timber stilt houses above rice terraces
+  in the Bala River valley.
 sources:
 - https://en.wikivoyage.org/wiki/Guizhou
 title: Lang De

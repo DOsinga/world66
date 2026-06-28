@@ -11,6 +11,7 @@ tags:
 - nature
 title: Inverewe Garden
 type: poi
+score: 8.4
 ---
 
 A walled garden of extraordinary variety on a peninsula jutting into Loch Ewe in the northwest Highlands. Osgood Mackenzie began planting here in 1863, choosing a sheltered spot warmed by the Gulf Stream — which is why Himalayan rhododendrons, Chilean fire bushes, and Tasmanian tree ferns thrive at 57°N. The National Trust for Scotland has managed the garden since 1952. It sits between Gairloch and Ullapool, well off any main route, but worth a detour if you are touring the northwest coast.

@@ -9,6 +9,7 @@ tags:
 - museum
 title: Palace of the Inquisition
 type: poi
+score: 7.8
 ---
 
 The Palace of the Inquisition sits on Plaza de Bolivar in Cartagena's old walled city. Built in the 18th century, this grand colonial building with its distinctive baroque stone entrance served as the seat of the Holy Office of the Inquisition for much of northern South America.

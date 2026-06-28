@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Takayama.-_Inari-torii_u_(
 latitude: 36.139625
 loc_type: city
 longitude: 137.251032
-score: 0.78
+score: 9.44
+snippet: Mountain castle town in Gifu Prefecture, known for Edo-period merchant streets
+  and morning markets.
 title: Takayama
 type: location
 ---

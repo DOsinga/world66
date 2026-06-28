@@ -1,7 +1,7 @@
 ---
 latitude: -33.9272
 longitude: 18.4558
-neighbourhood: Woodstock
+score: 7.9
 scores:
   activities: 0.7245
   eating_out: 0.9012

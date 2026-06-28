@@ -12,6 +12,7 @@ story: >
   Māori land; each time it fell, British troops re-erected it and Hone Heke
   cut it down again. The fourth chopping — accompanied by the attack on the
   settlement — triggered a war.
+score: 8.2
 ---
 
 Flagstaff Hill, known in Māori as Maiki, rises steeply above Russell and commands sweeping views over the Bay of Islands in all directions. A flagpole stands on the summit today, a direct descendant of the one that Hone Heke famously chopped down four times in 1844–45 in acts of defiance against British sovereignty that are central to New Zealand's colonial history.

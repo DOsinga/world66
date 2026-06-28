@@ -7,16 +7,18 @@ image_attribution: 'Flickr user: upyernose Haverford <a rel="nofollow" class="ex
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Timbuktu_street_scene.jpg
 latitude: 17.5707
+loc_type: country
 longitude: -3.9962
+quick_facts:
+  Great Mosque of Djenné: largest mud-brick building in the world
+  Language: French
+  Population: 23 million
+  Size: twice the size of France
+score: 0.39
+snippet: West African country of Dogon cliffs, mud-brick cities, and musical traditions
+  shaped by the Sahel
 title: Mali
 type: location
-quick_facts:
-  Population: "23 million"
-  Language: French
-  Size: "twice the size of France"
-  Great Mosque of Djenné: largest mud-brick building in the world
-score: 0.27
-loc_type: country
 ---
 
 *Africa > Mali*

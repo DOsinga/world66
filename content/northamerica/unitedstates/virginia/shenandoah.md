@@ -7,6 +7,12 @@ title: Shenandoah
 type: location
 score: 0.52
 loc_type: region
+snippet: Blue Ridge national park in Virginia, followed end to end by the scenic Skyline
+  Drive.
+image: shenandoah.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Crossing_the_Shenandoah_River.jpg
+image_license: CC BY-SA 4.0
+image_attribution: AgnosticPreachersKid
 ---
 
 Shenandoah National Park stretches for 105 miles along the crest of the Blue Ridge Mountains in [Virginia](/northamerica/unitedstates/virginia). Skyline Drive follows the ridge the entire length of the park, with more than 70 overlooks offering views east to the rolling Piedmont and west to the Shenandoah Valley and Massanutten Mountain.

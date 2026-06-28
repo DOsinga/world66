@@ -13,6 +13,7 @@ story: Phare is a social enterprise that grew out of a programme at a refugee ca
   Selpak arts centre in Battambang, and the circus troupe grew from it; performers
   graduate from the school and then work professionally, receiving fair wages and training
   that keeps them self-sufficient.
+score: 4.5
 ---
 
 **Phare, the Cambodian Circus** is one of the most original evening performances in Southeast Asia. The troupe performs original shows that blend circus arts — acrobatics, juggling, aerial work, motorbike stunts — with contemporary dance, live music, and storytelling drawn from Cambodian history and mythology. The shows change regularly and each production has a distinct narrative arc; this is not traditional apsara dance, but something entirely modern and often funny, occasionally moving, and technically dazzling.

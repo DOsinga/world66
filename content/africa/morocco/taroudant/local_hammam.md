@@ -7,6 +7,7 @@ tags:
 latitude: 30.4715
 longitude: -8.8755
 snippet: "Traditional steam baths in the medina, open to visitors"
+score: 7.1
 ---
 
 Taroudant's medina has several traditional hammams open to visitors, and using one is one of the more authentic experiences in the town. The local hammams operate on separate hours for men and women, and the price is minimal. Bring flip-flops, a towel, and a kessa (exfoliating glove) if you have one — you can usually buy them in the souk beforehand.

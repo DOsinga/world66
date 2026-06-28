@@ -7,6 +7,7 @@ tags:
 latitude: 31.6177
 longitude: -2.2240
 snippet: "Regional museum covering Saharan prehistory and ethnography"
+score: 7.1
 ---
 
 The Béchar Museum holds the modest but valuable archaeological and ethnographic collection of the Saoura region — the Saharan zone of which Béchar is the administrative centre. The strongest part is the prehistory: stone tools, ceramic fragments, and copies of the rock art that survives in the nearby massifs of the Tassili and the Saoura, recording a wetter Sahara of hunters, herders, and large mammals.

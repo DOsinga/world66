@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The McPherson County Courthouse is a handsome late-Victorian public building completed in 1894, built in the Richardsonian Romanesque style that was popular in Kansas public architecture during the wheat-boom years of the 1880s and 90s. The red sandstone exterior, round arched entrance, and prominent corner tower give it a solidity that reflects the optimism of the era — McPherson County was prospering from wheat and hoped to keep doing so.

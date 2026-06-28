@@ -6,6 +6,7 @@ longitude: 120.2225
 tags:
   - things_to_do
   - sight
+score: 8.8
 ---
 
 A short boat ride from Kayangan Lake, **Twin Lagoon** is two inland salt lakes connected by a small underwater tunnel. Boats anchor at the first lagoon; to reach the second you either duck through the tunnel underwater (about a metre below the surface, doable in goggles) or, at low tide, scramble over a small wooden ladder over the rock arch.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9833
 longitude: 74.9167
+score: 7.1
 ---
 
 Pampore, about 15 km south of Srinagar on the road toward Awantipora, is the centre of Kashmir's saffron cultivation — one of the finest saffrons in the world, grown on the same volcanic soil for at least two millennia. The saffron crocus blooms for a brief window in October, typically mid-month, when the entire plain around Pampore turns vivid purple-violet. The smell of the flowers carries across the fields, and at sunrise the light on the blooms is remarkable.

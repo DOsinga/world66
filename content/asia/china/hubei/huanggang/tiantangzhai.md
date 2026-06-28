@@ -8,6 +8,7 @@ latitude: 31.1100
 longitude: 115.8300
 story: >
   Tiantangzhai — "Heaven's Fortress" — sits at 1,729 metres on the main watershed of the Dabie range, the boundary between Hubei and Anhui provinces. The mountain's summit area is classified as a nature reserve protecting a section of what was, before the twentieth century's deforestation, the continuous broadleaf forest that covered the Dabie uplands. What remains is enough to sustain breeding populations of clouded leopard (extremely rare), giant salamander, and over two hundred bird species — a biodiversity that makes the reserve significant beyond its scenic attractions.
+score: 8.4
 ---
 
 Tiantangzhai is the highest point of the Dabie Mountains accessible from Huanggang prefecture, a forested watershed at 1,729 metres in Luotian County that offers the kind of scenery — mossy broadleaf forest, waterfalls, glacial ponds, and ridge trails with views over the Anhui border — that in other parts of China would attract enormous crowds but here remains comparatively quiet. The journey from Huanggang city takes about three hours; the mountain is one of those places that the prefecture's comparatively low tourism profile has accidentally protected from over-development.

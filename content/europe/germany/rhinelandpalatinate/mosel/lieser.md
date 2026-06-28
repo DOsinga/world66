@@ -5,7 +5,9 @@ done:
 latitude: 49.9191
 loc_type: city
 longitude: 7.0208
-score: 0.51
+score: 7.56
+snippet: Mosel wine village below steep slate vineyards, where the Lieser stream meets
+  the river.
 title: Lieser
 type: location
 ---

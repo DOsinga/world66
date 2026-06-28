@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Parque de las Luces
 type: poi
+score: 7.4
 ---
 
 A pedestrianised plaza in El Centro filled with three hundred slender white pillars, each topped with a halogen lamp, designed by Juan Manuel Peláez as part of the city's deliberate reclamation of its downtown public spaces in the early 2000s. Lit at night they form a glowing forest visible from blocks away; daytime they are a stark sculptural grid.

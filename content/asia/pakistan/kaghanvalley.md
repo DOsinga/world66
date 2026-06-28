@@ -9,8 +9,10 @@ image_source: https://www.flickr.com/photos/25183035@N03/7452937734
 latitude: 34.9072
 loc_type: city
 longitude: 73.6509
-score: 0.48
+score: 7.57
 title: Kaghan Valley
+snippet: Alpine valley in northern Pakistan, climbing from Balakot to the high Babusar
+  Pass.
 type: location
 ---
 

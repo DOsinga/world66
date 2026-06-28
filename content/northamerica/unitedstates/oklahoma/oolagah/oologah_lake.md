@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4500
 longitude: -95.6800
+score: 5.8
 ---
 
 Oologah Lake is a 29,500-acre reservoir on the Verdigris River, created by the Army Corps of Engineers in the 1960s. The Will Rogers Birthplace Ranch sits on a hill above the lakeshore, giving the site a setting that feels both pastoral and faintly melancholy — you can see the land Rogers grew up on, but much of the valley that once surrounded it is now under water.

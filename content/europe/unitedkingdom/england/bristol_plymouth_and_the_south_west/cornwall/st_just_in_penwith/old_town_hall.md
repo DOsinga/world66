@@ -9,6 +9,7 @@ tags:
 latitude: 50.1259
 longitude: -5.6816
 story: The Old Town Hall of St Just was built in the 18th century as the civic centre for what was then a significant mining parish. St Just's prosperity came from tin and copper mining, and the town hall reflects the ambitions of a community that expected to continue growing. The mines declined, but the building survived, and it is one of the few buildings in St Just that gives a sense of the town's former civic confidence.
+score: 5.8
 ---
 
 The Old Town Hall sits at the top of the market square in St Just, a plain but well-proportioned 18th-century stone building that served as the centre of local administration for the mining parish. The building is characteristic of the restrained Cornish interpretation of Georgian civic architecture — dressed granite, relatively simple lines, and a scale appropriate to a prosperous but working-class community.

@@ -8,6 +8,7 @@ tags:
 latitude: 41.8762
 longitude: -8.8388
 snippet: Granite clock tower, the last surviving fragment of Caminha's medieval walls
+score: 6.5
 ---
 
 The clock tower in the main square is what remains of the medieval defences that once enclosed Caminha. Built in the fourteenth century as the **Porta Marítima** — the gate facing the river — it was raised and crowned with a clock in the sixteenth century, when the rest of the walls had begun to come down.

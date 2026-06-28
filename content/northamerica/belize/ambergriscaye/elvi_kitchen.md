@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.9200
 longitude: -87.9608
+score: 6.4
 ---
 
 Elvi's Kitchen is the most famous restaurant on the island, started in 1974 by Elvi Staines in her family's yard — the "kitchen" of the name. The sand floor is still there, and the open-air setting under thatch roofing has expanded to include a full restaurant with good seafood, Belizean staples, and a lively atmosphere. It is the kind of place that becomes an institution because it was genuinely good first.

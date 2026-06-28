@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Kashi Art Cafe
 type: poi
+score: 6.2
 ---
 
 Kashi Art Cafe on Burgher Street is Fort Kochi's most celebrated cafe, as well-known for its art exhibitions as for its food. The small gallery space changes regularly and has supported local and visiting artists for over two decades. The menu is short: excellent breakfasts, good coffee, and the famous chocolate cake that has been drawing visitors back repeatedly since the place opened.

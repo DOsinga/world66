@@ -8,6 +8,7 @@ tags:
   - day_trips
   - sight
 snippet: Riverside village with a traditional ceramics tradition
+score: 7.2
 ---
 
 A 90-minute drive east of Tarapoto on the banks of the Huallaga river, **Chazuta** is a small riverine town best known for its **ceramics**: black-fired earthenware pots, bowls, and figures, decorated with thin geometric designs in natural pigments. The Wasichay association of women potters runs a workshop in the village where you can watch the building and firing, and buy directly.

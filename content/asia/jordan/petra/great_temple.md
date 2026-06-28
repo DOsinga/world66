@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 30.3288
 longitude: 35.4423
+score: 8.1
 ---
 
 A vast Nabataean public complex south of the colonnaded street, excavated by Brown University from the 1990s. The main building covered more than 7,000 square metres, with a central temple-like structure flanked by smaller rooms and a small theatre or council chamber tucked behind. Whether it was a religious temple or a civic building remains disputed.

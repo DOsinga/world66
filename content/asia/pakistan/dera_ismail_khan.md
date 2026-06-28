@@ -3,13 +3,15 @@ done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-29'
 image: dera_ismail_khan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Noll_Bagh_Dera_Ismail_Khan.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Amirk94391
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Noll_Bagh_Dera_Ismail_Khan.jpg
 latitude: 31.8275
 loc_type: city
 longitude: 70.9091
-score: 0.26
+score: 4.62
+snippet: Indus River trading city known for Dhakki dates, old bazaars, and frontier
+  crossroads history.
 sources:
 - https://en.wikipedia.org/wiki/Dera_Ismail_Khan
 title: Dera Ismail Khan

@@ -7,6 +7,7 @@ tags:
 latitude: 32.5267
 longitude: -117.0362
 snippet: "Tijuana's oldest park, with a kiosk, chess players, and a weekend book market."
+score: 6.8
 ---
 
 Parque Teniente Guerrero is the oldest park in Tijuana and one of the few genuinely pleasant public spaces in the Centro. Established in the early 20th century, it's a shaded square with a central kiosk, benches, and a bandstand — the kind of traditional Mexican plaza that most of Tijuana's other neighbourhoods lack.

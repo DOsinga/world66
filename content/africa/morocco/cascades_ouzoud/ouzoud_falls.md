@@ -10,6 +10,7 @@ story: >
   The name Ouzoud comes from the Berber word for olive — the falls drop through ancient olive groves that have been worked for centuries, and the plateau above the gorge is covered with olive trees that produce oil still pressed by traditional stone mills. The red-rock cliffs through which the water falls are dramatically coloured by iron oxide and are at their most vivid in late afternoon light.
 sources:
   - https://en.wikipedia.org/wiki/Ouzoud_Falls
+score: 9.4
 ---
 
 The Ouzoud Falls are the tallest waterfalls in Morocco — three separate streams tumbling 110 metres over a red-rock cliff into a wide emerald pool below. The approach through the olive groves from the car park above gives little warning of the scale; the moment the falls come into view is genuinely striking.

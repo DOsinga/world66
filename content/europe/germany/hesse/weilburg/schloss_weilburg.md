@@ -17,6 +17,7 @@ story: >
   type.
 sources:
   - https://en.wikipedia.org/wiki/Schloss_Weilburg
+score: 8.4
 ---
 
 Schloss Weilburg is the former residential palace of the Counts of Nassau-Weilburg, set on a ridge above the dramatic bend of the Lahn River that defines the town's shape. The core of the palace is a Renaissance building constructed between 1530 and 1572, with a 40-by-34-metre central courtyard; Baroque extensions added in the early 18th century extended the complex to nearly 400 metres of buildings arranged in a horseshoe around it. The Hessian state administration manages it today and offers guided tours of the interiors.

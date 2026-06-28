@@ -4,7 +4,7 @@ email: torg-nis@bankerinter.net
 opening_hours: 'Mon-Sat: 8-20h, Sunday: 8-20h'
 phone: +381-18/322-228
 title: Sights
-type: poi
+type: section
 url: www.nistourism.org.yu
 ---
 

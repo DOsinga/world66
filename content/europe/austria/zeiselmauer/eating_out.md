@@ -3,7 +3,7 @@ address: A-3424 Zeiselmauer, Kirchenplatz 1
 email: zum.lustigen.bauern@aon.at
 phone: +43 (22 42) 704 24
 title: Eating Out
-type: poi
+type: section
 url: www.zumlustigenbauern.at
 ---
 

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Russian-style Street
 type: poi
+score: 5.4
 ---
 
 Burqin's Russian-style facades are partly decorative and partly a nod to the town's borderland geography. Pastel fronts, pitched roofs, and timber details give the central streets a different look from southern Xinjiang's oasis cities.

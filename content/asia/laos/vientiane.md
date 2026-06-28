@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pha_That_Luang_-_Vientiane
 latitude: 17.964099
 loc_type: city
 longitude: 102.613371
-score: 0.55
+score: 8.02
+snippet: Laid-back Mekong capital of Laos, with French-Lao streets, gilded temples,
+  and riverside evenings.
 title: Vientiane
 type: location
 ---

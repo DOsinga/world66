@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Rosa_de_Cop%C3%A1n_C
 latitude: 14.7717
 loc_type: city
 longitude: -88.7794
-score: 0.46
+score: 6.9
+snippet: Western Honduran highland town of cobblestones, mild air, and Flor de Copán
+  cigar country.
 title: Santa Rosa de Copán
 type: location
 ---

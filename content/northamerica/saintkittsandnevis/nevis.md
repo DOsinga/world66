@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nevis_2008.jpg
 latitude: 17.15
 loc_type: city
 longitude: -62.58
-score: 0.63
+score: 8.52
+snippet: Quiet volcanic Caribbean island centred on Nevis Peak and known as Alexander
+  Hamilton's birthplace.
 sources:
 - https://en.wikipedia.org/wiki/Nevis
 - https://en.wikipedia.org/wiki/Charlestown,_Nevis

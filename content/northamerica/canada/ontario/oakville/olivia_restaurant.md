@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 43.4458
 longitude: -79.6672
+score: 5.5
 ---
 
 Olivia is a mid-range Italian restaurant on Lakeshore Road East that has built a loyal following for its straightforward, well-executed cooking. The menu runs through familiar territory — handmade pasta, wood-oven pizza, grilled proteins — but the ingredients are good quality and the kitchen doesn't overcomplicate things. The house-made tagliatelle with a braised meat ragù is a reliable choice.

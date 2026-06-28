@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.3039
 longitude: 18.9581
+score: 7.3
 ---
 
 Tucked into the buildings of the former Kościuszko steelworks, the Museum of Metallurgy tells the story of the iron and steel industry that built Chorzów. Founded in 1834 as the Königshütte ironworks, the plant ran for nearly two centuries before closing in the 2010s — its furnaces, foundries, and railways were the city's reason for being.

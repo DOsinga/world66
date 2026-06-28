@@ -9,6 +9,7 @@ latitude: 45.4072
 longitude: 11.8753
 story: >
   The upper hall — the Salone — is 81 metres long and 27 metres wide, covered by a remarkable self-supporting wooden roof built without internal supports in the 13th century. When Altichiero da Zevio painted its walls with over 300 frescoes in the 1420s, it was called the most beautifully decorated room in the world. A fire in 1420 destroyed many of those paintings; what you see today is a later cycle. In the corner stands a wooden horse made for a 1466 joust, enormous and slightly threatening.
+score: 8.8
 ---
 
 The Palazzo della Ragione is the medieval market hall and courthouse that divides the Piazza delle Erbe (herb market) from the Piazza della Frutta (fruit market) — the two main squares that form the social heart of Padova. The ground floor is still lined with market stalls selling food and produce, as it has been for 700 years.

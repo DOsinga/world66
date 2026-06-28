@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Norman_July_2019_15_(E_Mai
 latitude: 35.2226
 loc_type: city
 longitude: -97.4395
-score: 0.36
+score: 6.05
 title: Norman
 type: location
+snippet: Central Oklahoma university town dominated by the University of Oklahoma
+  and notable campus museums.
 ---
 
 Norman is a university town of about 125,000 people in central Oklahoma, 30 kilometres south of Oklahoma City. The University of Oklahoma dominates the city's identity — the campus is beautiful, the football culture is intense, and the OU Sooners have a passionate following that turns Norman into a different place on home game days.

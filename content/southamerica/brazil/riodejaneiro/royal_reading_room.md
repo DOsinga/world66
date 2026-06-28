@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Real_Gab._Portugu%C3%AAs_de_Leitura
 story: >
   The Real Gabinete was founded in 1837 by Portuguese immigrants in Rio, determined to preserve their cultural heritage in exile. The current building, opened in 1887, was designed by a Portuguese architect in the neo-Manueline style — the same elaborate Gothic-meets-maritime-decoration style used in Lisbon's Jerónimos Monastery. The 350,000-volume collection includes books from the 16th century and is still an active lending library for Portuguese-Brazilian citizens.
+score: 8.8
 ---
 
 The Real Gabinete Português de Leitura — the Royal Portuguese Reading Room — is one of the great library interiors of the world. The main reading room is a four-storey hall of Portuguese stone, carved wood, and stained glass in the neo-Manueline style, with wrought-iron balconies on three upper levels and skylights flooding the room with natural light. The effect is somewhere between a cathedral and a jewel box.

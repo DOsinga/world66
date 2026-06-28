@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.16628
 longitude: -86.53283
+score: 7.4
 ---
 
 The Buskirk-Chumley Theater on Kirkwood Avenue is a restored 1922 vaudeville house that now operates as Bloomington's main venue for independent and foreign films, live music, and performing arts. The building has been largely preserved: the ornate plasterwork ceiling, the original marquee, and the narrow stage-front configuration remain intact, which gives it a character that purpose-built modern cinemas cannot replicate.

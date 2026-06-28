@@ -7,6 +7,7 @@ tags:
   - bar
 title: Sky Lounge (Hilton)
 type: poi
+score: 5.7
 ---
 
 Colombo's rooftop bar scene has expanded considerably in the last decade as the new skyscrapers went up. The Sky Lounge at the Hilton, on the 41st floor, offers one of the highest points you can drink at in Colombo, with unobstructed views west over the Indian Ocean and north along the Galle Face seafront. Arrive before sunset for the best light.

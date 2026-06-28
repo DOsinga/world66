@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4925
 longitude: -75.0675
+score: 7.1
 ---
 
 The Freeman Arts Pavilion, located on Route 1 a couple of miles south of Bethany Beach near Selbyville, is an open-air performing arts venue that punches above its weight for a small beach town. The summer season runs from late June through August and typically includes concerts, theatre, dance performances, and family shows — the programming mixes local acts with touring performers from the mid-Atlantic region.

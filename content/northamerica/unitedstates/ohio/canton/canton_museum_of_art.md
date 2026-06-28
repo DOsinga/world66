@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Canton_Museum_of_Art_(Ohio)
+score: 6.7
 ---
 
 The Canton Museum of Art, founded in 1935, is a well-regarded regional art museum with a permanent collection strong in American watercolours, ceramics, and works on paper. The collection includes pieces by major American artists of the 19th and 20th centuries, and the museum presents rotating temporary exhibitions that frequently feature contemporary work from regional and national artists.

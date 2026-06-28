@@ -7,6 +7,7 @@ tags:
   - bar
 title: The First Station
 type: poi
+score: 5.7
 ---
 
 Jerusalem's old Ottoman-era train station, last used in 1998, has been converted into a pedestrian cultural campus with restaurants, food stalls, a craft beer bar, and an outdoor events space. The original station buildings — stone, high-ceilinged, elegant — are intact; the platforms and tracks have become promenades. On weekends there is a farmers' market, occasional live music, and food trucks.

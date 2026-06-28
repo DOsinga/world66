@@ -13,6 +13,7 @@ story: >
   long-tailed macaques that live wild on the island are seen by some local
   Chinese as descendants of the temple's first guardians; they receive
   ritual offerings of bananas on holy days.
+score: 5.8
 ---
 
 Pulau Kembang — "Flower Island" — is a small forested island in the middle of the Barito River, half an hour by boat downstream from Banjarmasin. It is a popular short excursion, usually combined with a morning at one of the floating markets.

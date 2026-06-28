@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9208
 longitude: -80.8011
+score: 3.6
 ---
 
 McEntire is an active South Carolina Air National Guard base just north of Hopkins, home to a wing of F-16 Fighting Falcons. You cannot wander in, but the base hosts a periodic open house and airshow, and at other times the roar of F-16s on training flights is a regular soundtrack across the Lower Richland County countryside.

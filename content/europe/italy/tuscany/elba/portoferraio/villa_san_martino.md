@@ -14,6 +14,7 @@ story: >
   and added the grand Neoclassical pavilion that fronts the original villa today. It was
   designed to house the most important private collection of Napoleonic memorabilia outside
   France, much of which is still on display.
+score: 7.5
 ---
 
 Villa di San Martino sits in a wooded valley about five kilometres south-west of Portoferraio, well away from the heat and noise of the town. It was the summer residence Napoleon bought in May 1814 and used as a quiet retreat during his exile, escaping the formality of the Palazzina dei Mulini. The original villa is a modest single-storey country house with frescoed rooms decorated by Pietro Ravelli — the **Egyptian Room** with its painted ceiling of palm fronds, the **Knot of Love Room** with intertwined initials on the floor, and the small bedroom with the iron field bed Napoleon used.

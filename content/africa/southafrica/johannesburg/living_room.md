@@ -8,6 +8,7 @@ tags:
 latitude: -26.176
 longitude: 28.011
 neighbourhood: Melville
+score: 5.6
 ---
 
 The Living Room on 7th Street is one of the landmark bars of Melville — it has been here long enough to have become part of the neighbourhood's identity, which is exactly what a good bar should aspire to. Outdoor seating along the 7th Street strip, decent cocktails, cold beer, and live music on some nights. The crowd is local, relaxed, and mixed in the way that Melville generally is.

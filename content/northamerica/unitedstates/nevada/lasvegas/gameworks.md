@@ -4,9 +4,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 36.102793
 longitude: -115.172341
+score: 3.8
 snippet: Sprawling arcade and bar complex next to the MGM Grand on the Strip
 tags:
 - things_to_do
+- the_strip
 title: GameWorks
 type: poi
 ---

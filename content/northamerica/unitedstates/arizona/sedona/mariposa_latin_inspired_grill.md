@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.8670
 longitude: -111.7890
+score: 5.8
 ---
 
 Mariposa is Sedona's most dramatic dining room, built into the hillside on Airport Road with floor-to-ceiling windows framing a direct view of the Airport Mesa and the red rock basin. The kitchen serves Latin-influenced food — grilled meats, seafood with Latin spice profiles, vegetable dishes with good structure — at prices to match the view. The guacamole prepared tableside is a crowd pleaser.

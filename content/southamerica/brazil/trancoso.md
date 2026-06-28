@@ -5,6 +5,9 @@ done:
 latitude: -16.5896
 loc_type: city
 longitude: -39.0969
+score: 8.14
+snippet: Barefoot Bahian village of colonial houses around the grassy Quadrado and
+  beaches below the cliffs.
 sources:
 - https://en.wikipedia.org/wiki/Trancoso,_Bahia
 title: Trancoso

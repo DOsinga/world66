@@ -13,6 +13,7 @@ tags:
 - sight
 title: Downtown Art Deco Architecture
 type: poi
+score: 8.5
 ---
 
 Downtown Kansas City contains one of the finest concentrations of Art Deco architecture in the United States. The building boom of the 1920s and early 1930s coincided with the height of the Art Deco movement, and Kansas City's prosperity at that moment — fueled by its role as a rail hub and agricultural trading center — produced a run of architecturally ambitious towers and civic buildings. The 29-story Kansas City Power & Light Building (1931) with its illuminated crown, the 29-story City Hall (1937) with its stepped pyramid top, and the Federal Reserve Bank building are the most prominent examples.

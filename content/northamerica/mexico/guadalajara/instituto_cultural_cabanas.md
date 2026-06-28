@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.6748
 longitude: -103.3389
+score: 7.1
 ---
 
 Beyond the Orozco murals — which are the main reason most visitors come — the Instituto Cultural Cabañas is a functioning arts centre with a regular programme of temporary exhibitions, theatre, dance, and film. The building's 23 courtyards and elegant Neoclassical architecture make it an excellent venue; events here tend to have a production quality above what you find in comparable provincial cities.

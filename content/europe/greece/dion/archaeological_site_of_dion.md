@@ -9,6 +9,7 @@ latitude: 40.1725
 longitude: 22.4875
 story: >
   Alexander the Great performed sacrifices and held games at Dion before embarking on his Persian campaign in 334 BC. Philip II did the same before his own conquests. The site was considered so sacred to the Macedonians that harming it was believed to invite divine punishment — when Aetolian raiders looted the sanctuaries in 219 BC, the historian Polybius described the act as the ultimate sacrilege.
+score: 8.8
 ---
 
 The open-air archaeological site of Dion spreads across a broad flat plain at the base of Mount Olympus, covering the remains of a city that was occupied from at least the 5th century BC through the early Byzantine period. The walk through the excavations takes you through successive layers of history: Macedonian sanctuaries, Hellenistic streets, Roman civic buildings, and early Christian basilicas.

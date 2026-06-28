@@ -7,7 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Haystack_Rock,_Oregon_(dro
 latitude: 45.890028
 loc_type: city
 longitude: -123.961862
-score: 0.6
+score: 8.75
+snippet: Northern Oregon coast town where broad sand and forested headlands frame
+  Haystack Rock
 title: Cannon Beach
 type: location
 ---

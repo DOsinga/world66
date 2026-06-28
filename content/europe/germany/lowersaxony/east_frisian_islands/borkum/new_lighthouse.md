@@ -13,6 +13,7 @@ story: >
   and its light extinguished; ships had to navigate without it for several years before repairs were 
   completed in 1946. It remains an active navigational aid, guiding vessels through the Ems estuary 
   and into Dutch ports to this day.
+score: 7.4
 ---
 
 The New Lighthouse is Borkum's most recognizable landmark — a tall, slender brick tower visible from almost anywhere on the island and from ships well out to sea. Built in 1879 to replace the inadequate old tower, it guided vessels navigating the tricky shallows between the East Frisian Islands and the mainland, where sandbanks and tidal channels shift over time.

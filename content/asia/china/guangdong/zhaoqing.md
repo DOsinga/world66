@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhaoqing-7stars.JPG
 latitude: 23.05
 loc_type: city
 longitude: 112.4667
+score: 7.39
+snippet: Guangdong lake city where karst crags, temples, and pavilions form a Pearl
+  River Delta escape.
 sources:
 - https://en.wikivoyage.org/wiki/Zhaoqing
 title: Zhaoqing

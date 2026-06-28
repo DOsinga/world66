@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 Faletti's, founded in 1880 by an Italian hotelier, was the grand hotel of Lahore for a century — the place where Kipling, Lord Curzon, Jinnah, and most of the British and post-colonial elite stayed. The building is a low whitewashed colonial structure built around a leafy garden, slightly down-at-heel today but full of period detail.

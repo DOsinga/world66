@@ -8,6 +8,7 @@ title: Source of the Nile Bridge
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Source_of_the_Nile_Bridge
+score: 6.6
 ---
 
 The Source of the Nile Bridge — a cable-stayed road bridge opened in 2018 — crosses the Victoria Nile just downstream from the dam and has quickly become one of the better vantage points for the river. Walking across it gives you a clear view of the water flowing north from the lake, with the dam visible upstream and the beginning of the Nile's long journey ahead.

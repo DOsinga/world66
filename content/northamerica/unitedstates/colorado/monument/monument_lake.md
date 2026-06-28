@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 5.0
 ---
 
 Monument Lake is a small reservoir on the west side of town. The paved path around the water is just over a mile, mostly flat, and works for an after-dinner stroll or a stroller-friendly outing with kids. Mountain views to the west are good in the late afternoon when the sun catches the Rampart Range.

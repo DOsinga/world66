@@ -8,6 +8,7 @@ tags:
 - market
 title: Dong Ba Market
 type: poi
+score: 7.1
 ---
 
 Dong Ba is Hue's main commercial market, sprawling across several blocks just north of the Truong Tien Bridge on the Citadel side of the Perfume River. It has been the commercial heart of the city for over a century and remains emphatically local — not particularly tourist-oriented, which is part of its appeal.

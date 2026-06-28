@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 8.1
 ---
 
 The largest private collection of Mexican folk art open to the public — over three thousand pieces, displayed inside the restored colonial home of an American couple who have lived in Valladolid for decades. The tour, given by one of the owners or a long-term staff member, takes about an hour and runs in English at 10:00 each morning; admission is a suggested donation that goes to local charities.

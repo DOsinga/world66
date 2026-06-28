@@ -5,9 +5,11 @@ done:
 latitude: 36.216389
 loc_type: city
 longitude: -81.674444
-score: 0.48
+score: 7.61
 title: Boone
 type: location
+snippet: Blue Ridge mountain town in North Carolina, home to Appalachian State University
+  and nearby ski slopes.
 ---
 
 Boone is a mountain town in northwestern North Carolina, sitting at around 3,300 feet in the Blue Ridge Mountains. It is a popular destination year-round: skiers come in winter for the slopes at nearby [Appalachian Ski Mountain](/northamerica/unitedstates/northcarolina/boone/appalachian_ski_mountain), summer visitors arrive for relief from lowland heat and access to the [Blue Ridge Parkway](/northamerica/unitedstates/northcarolina/boone/blue_ridge_parkway), and autumn draws leaf-peepers for some of the best fall color in the eastern United States.

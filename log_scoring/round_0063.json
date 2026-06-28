@@ -1,200 +1,200 @@
 {
   "round": 63,
-  "timestamp": "2026-04-12T08:02:19",
+  "timestamp": "2026-06-13T19:17:50",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bryce Canyon",
-      "path": "northamerica/unitedstates/utah/bryce_canyon",
-      "prior_mu": 31.68,
-      "prior_sigma": 6.5,
-      "prior_n": 2
+      "title": "Huanglong",
+      "path": "asia/china/sichuanprovince/huanglong",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "The Cinque Terre",
-      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
-      "prior_mu": 32.74,
-      "prior_sigma": 6.31,
-      "prior_n": 2
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Hurtigruten",
-      "path": "europe/norway/hurtigruten",
-      "prior_mu": 26.52,
-      "prior_sigma": 4.76,
-      "prior_n": 2
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Marquesas",
-      "path": "australiaandpacific/frenchpolynesia/marquesas",
-      "prior_mu": 29.85,
-      "prior_sigma": 4.32,
-      "prior_n": 4
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Bordeaux",
-      "path": "europe/france/midi/aquitaine/bordeaux",
-      "prior_mu": 28.26,
-      "prior_sigma": 4.86,
-      "prior_n": 2
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Suzhou",
-      "path": "asia/china/suzhou",
-      "prior_mu": 22.62,
-      "prior_sigma": 4.29,
-      "prior_n": 2
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Lombok",
-      "path": "asia/indonesia/lombok",
-      "prior_mu": 25.65,
-      "prior_sigma": 5.08,
-      "prior_n": 2
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Karakoram Highway",
-      "path": "asia/pakistan/karakoram_highway",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Stowe",
-      "path": "northamerica/unitedstates/vermont/stowe",
-      "prior_mu": 23.43,
-      "prior_sigma": 5.02,
-      "prior_n": 2
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Gorski Kotar",
-      "path": "europe/croatia/gorski_kotar",
-      "prior_mu": 21.99,
-      "prior_sigma": 3.58,
-      "prior_n": 3
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Te Paki Stream",
-      "path": "australiaandpacific/newzealand/northland/te_paki_stream",
-      "prior_mu": 22.1,
-      "prior_sigma": 4.51,
-      "prior_n": 2
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Chittorgarh",
-      "path": "asia/india/rajasthan/chittorgarh",
-      "prior_mu": 21.44,
-      "prior_sigma": 3.89,
-      "prior_n": 3
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Pindaya",
-      "path": "asia/myanmar/pindaya",
-      "prior_mu": 21.07,
-      "prior_sigma": 3.36,
-      "prior_n": 4
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Ballarat",
-      "path": "australiaandpacific/australia/victoria/ballarat",
-      "prior_mu": 22.43,
-      "prior_sigma": 5.89,
-      "prior_n": 1
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Helsingborg",
-      "path": "europe/sweden/helsingborg",
-      "prior_mu": 21.49,
-      "prior_sigma": 4.49,
-      "prior_n": 2
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Xalapa",
-      "path": "northamerica/mexico/yucatan/xalapa",
-      "prior_mu": 21.3,
-      "prior_sigma": 4.08,
-      "prior_n": 3
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Brendon and Oare",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
-      "prior_mu": 21.72,
-      "prior_sigma": 4.49,
-      "prior_n": 2
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Lewes",
-      "path": "northamerica/unitedstates/delaware/lewes",
-      "prior_mu": 21.13,
-      "prior_sigma": 3.93,
-      "prior_n": 3
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Agadez",
-      "path": "africa/niger/agadez",
-      "prior_mu": 22.53,
-      "prior_sigma": 5.91,
-      "prior_n": 1
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Campobasso",
-      "path": "europe/italy/molise/campobasso",
-      "prior_mu": 22.73,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Chetumal",
-      "path": "northamerica/mexico/chetumal",
-      "prior_mu": 22.26,
-      "prior_sigma": 5.24,
-      "prior_n": 1
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Bhagalpur",
-      "path": "asia/india/bihar/bhagalpur",
-      "prior_mu": 20.88,
-      "prior_sigma": 4.52,
-      "prior_n": 2
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "1",
-      "path": "europe/georgia/tbilisi/1",
-      "prior_mu": 18.31,
-      "prior_sigma": 3.09,
-      "prior_n": 6
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "khatreel",
-      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
-      "prior_mu": 22.24,
-      "prior_sigma": 5.78,
-      "prior_n": 1
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

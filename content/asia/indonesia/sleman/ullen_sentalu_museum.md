@@ -9,6 +9,7 @@ latitude: -7.5980
 longitude: 110.4232
 snippet: Private museum of Javanese aristocratic culture in the Merapi foothills
 story: One room displays love letters and poems written by Princess Gusti Nurul, who broke off three royal engagements before finally choosing her own husband. The museum was built around her donated trove of court memorabilia.
+score: 8.5
 ---
 
 A private museum 25 kilometres north of Yogyakarta, set in a network of stone-lined underground passages and pavilions in a forested compound near Kaliurang. The collection focuses on the cultural and personal life of the four Javanese royal houses — batik, dance costumes, family portraits, letters, poetry — much of it given by the families themselves.

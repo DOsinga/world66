@@ -6,7 +6,9 @@ done:
 latitude: 15.830925
 loc_type: city
 longitude: 78.042537
-score: 0.37
+score: 5.9
+snippet: Rayalaseema city on the Tungabhadra River, used as a base for forts and religious
+  sites.
 title: Kurnool
 type: location
 ---

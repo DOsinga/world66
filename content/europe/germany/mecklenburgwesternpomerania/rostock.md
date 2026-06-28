@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_-_Petrikirche_-_Rosto
 latitude: 54.088671
 loc_type: city
 longitude: 12.140021
-score: 0.52
+score: 7.6
+snippet: Baltic Hanseatic port city with brick Gothic churches, medieval remnants,
+  and the Warnemünde seaside district.
 title: Rostock
 type: location
 ---

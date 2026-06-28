@@ -1,11 +1,15 @@
 ---
-title: "Stary Kleparz Market"
-type: poi
-tags:
-  - shopping
-  - market
 latitude: 50.0679
 longitude: 19.9378
+score: 7.8
+snippet: Outdoor market north of the Old Town selling fruit, vegetables, flowers,
+  and street food daily
+tags:
+- shopping
+- market
+- kleparz
+title: Stary Kleparz Market
+type: poi
 ---
 
 Stary Kleparz ("Old Kleparz") is the main outdoor market north of the Old Town, a ten-minute walk from the Florian Gate. It operates most days but is largest and most interesting on Saturday and Sunday mornings, when vendors spread out across the square with vegetables, flowers, mushrooms, cheese, smoked meats, eggs, and seasonal produce from the surrounding Małopolska region.

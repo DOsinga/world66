@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/60057960@N06/52601529023
 latitude: 51.898514
 loc_type: city
 longitude: -8.472642
-score: 0.61
+score: 8.34
+snippet: Hilly Irish second city on River Lee islands, proud of markets, pubs, and
+  Munster character
 title: Cork
 type: location
 ---

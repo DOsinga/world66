@@ -12,6 +12,7 @@ story: >
   Local tradition holds that Dante stayed here briefly during his Tuscan exile around
   1306, when the area was held by the Malaspina family. The story is impossible to verify
   but is on a memorial plaque in the church and is repeated cheerfully by the staff.
+score: 7.6
 ---
 
 The Monastero di Santa Croce stands on a wooded headland directly above Bocca di Magra, reached by a short uphill walk from the village. The site has been religious since at least the 6th century; the present buildings — a small Romanesque church and a low cloistered convent — date in their oldest parts to the 11th century.

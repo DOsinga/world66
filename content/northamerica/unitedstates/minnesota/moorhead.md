@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-22'
+image: moorhead.jpg
+image_attribution: Ken Lund on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/75683070@N00/44072000701
 latitude: 46.873908
 loc_type: city
 longitude: -96.753867
-score: 0.32
+score: 5.73
+snippet: Minnesota college town across the Red River from Fargo, with oxcart history
+  and a recreated Viking ship.
 title: Moorhead
 type: location
-image: moorhead.jpg
-image_source: https://www.flickr.com/photos/75683070@N00/44072000701
-image_license: CC BY-SA 2.0
-image_attribution: Ken Lund on Flickr
 ---
 
 Moorhead sits on the Minnesota side of the Red River of the North, directly across from Fargo, North Dakota. Together the two cities form the Fargo-Moorhead metro area, home to about 140,000 people in the flat, open country of the northern Great Plains.

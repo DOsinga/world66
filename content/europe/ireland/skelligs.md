@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 51.7687
+loc_type: feature
 longitude: -10.5417
+score: 9.0
+snippet: Atlantic rock islands off Kerry, crowned by an early Christian monastery
+  and vast seabird colonies.
 title: Skelligs
 type: location
-score: 0.7
-loc_type: feature
+image: skelligs.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Skellig_4.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Ronan Mac Giollapharaic
 ---
 
 Two jagged rock islands rising from the Atlantic 12 km off the Kerry coast, the Skelligs are one of Ireland's most extraordinary places. Skellig Michael — the larger of the two at 44 acres, soaring to 218 metres — holds a remarkably well-preserved early Christian monastery, occupied by monks from roughly the 6th to the 12th centuries. The beehive stone huts clinging to the clifftop look like they were abandoned last century, not a thousand years ago.

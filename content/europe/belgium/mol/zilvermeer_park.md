@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 51.1950
 longitude: 5.1400
+score: 7.6
 ---
 
 The landscape around Mol — part of the larger Kempen region — is flat, forested, and cut through with canals and heathland. It is ideal cycling territory, and the area is well served by marked routes that connect the beach lakes, the canal towpaths, and stretches of open heather. You do not need to plan carefully; a bike, a rough direction, and a willingness to follow the numbered junction signs is enough.

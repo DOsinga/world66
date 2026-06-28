@@ -1,0 +1,200 @@
+{
+  "round": 3113,
+  "timestamp": "2026-06-13T22:29:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 5.24,
+      "prior_variance": 0.168383,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_score": 3.4083,
+      "prior_variance": 0.150066,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 3.1627,
+      "prior_variance": 0.165183,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.1682,
+      "prior_variance": 0.137477,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_somme",
+      "prior_score": 0.58,
+      "prior_variance": 0.135233,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": -0.3343,
+      "prior_variance": 0.131969,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.6682,
+      "prior_variance": 0.141784,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -0.9878,
+      "prior_variance": 0.141491,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.4375,
+      "prior_variance": 0.156519,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -1.5055,
+      "prior_variance": 0.123307,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -2.3135,
+      "prior_variance": 0.135909,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.2214,
+      "prior_variance": 0.166392,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.5074,
+      "prior_variance": 0.144345,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -1.647,
+      "prior_variance": 0.128494,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -0.8544,
+      "prior_variance": 0.137069,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -1.9768,
+      "prior_variance": 0.120596,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -2.1006,
+      "prior_variance": 0.135907,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -1.0516,
+      "prior_variance": 0.147373,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -4.0668,
+      "prior_variance": 0.121963,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -5.0762,
+      "prior_variance": 0.161412,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -4.9947,
+      "prior_variance": 0.156056,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -6.5553,
+      "prior_variance": 0.202814,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_score": -5.657,
+      "prior_variance": 0.193423,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_score": -8.9087,
+      "prior_variance": 0.421319,
+      "prior_n": 9
+    }
+  ]
+}

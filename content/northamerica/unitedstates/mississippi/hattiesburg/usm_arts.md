@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3279
 longitude: -89.3325
+score: 7.0
 ---
 
 The University of Southern Mississippi (USM) brings a level of cultural programming to Hattiesburg that outstrips what most cities of this size would otherwise have. The performing arts calendar runs through the academic year (September to April) and includes the **USM Symphony Orchestra**, **Opera Theatre USM**, student theatre productions, and an international visiting artist series that has brought nationally recognised names to the campus.

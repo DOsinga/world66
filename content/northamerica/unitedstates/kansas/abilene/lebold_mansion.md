@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Sandstone Italianate mansion built in 1880 by an Abilene banker
+score: 7.0
 ---
 
 A 23-room Italianate-Gothic mansion built in 1880 by Conrad H. Lebold, a German immigrant banker who arrived with little and ended up owning much of Abilene's commercial real estate. The four-storey limestone block on a small rise west of downtown looks faintly out of place on the plains — there's a turret, balconies, ornate woodwork, and a wraparound porch.

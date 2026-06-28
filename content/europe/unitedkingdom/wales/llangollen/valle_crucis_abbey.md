@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Valle_Crucis_Abbey
 story: >
   Valle Crucis means "Valley of the Cross" — the name comes from the Pillar of Eliseg, a 9th century stone cross standing in a field nearby. The cross was erected by a Welsh king to commemorate his great-great-grandfather's victories. It was shattered during the Civil War and only the shaft survives, but it remains one of the most important early medieval inscribed monuments in Wales.
+score: 8.4
 ---
 
 Valle Crucis Abbey sits in a flat-floored valley a mile west of Llangollen, a Cistercian monastery founded in 1201 and largely dissolved in the 16th century. What remains is substantial: the west front of the church with its great rose window, the chapter house with its vaulted ceiling, and the eastern range of the cloister. The buildings stand in a meadow by a small lake, which gives the ruins an unusually peaceful setting.

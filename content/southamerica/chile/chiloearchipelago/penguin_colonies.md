@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -42.0039
 longitude: -74.0500
+score: 8.3
 ---
 
 Chiloé has several accessible Magellanic penguin colonies, the best known at Puñihuil on the northwestern coast near Ancud, where both Magellanic and Humboldt penguins nest side by side — one of the few places in the world where the two species coexist. Small wooden boats run regular tours from the Puñihuil beach through the colony, where hundreds of penguins nest in burrows among the rocky islets.

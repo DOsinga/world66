@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Semnan Citadel Gate
 type: poi
+score: 7.2
 ---
 
 The Semnan Citadel Gate, or Darvazeh-ye Arg, is the city's most recognisable monument: a compact Qajar gateway with blue tilework, small turrets, and a surprisingly dramatic decorative face. The rest of the citadel walls are gone, which makes the gate feel a little stranded in modern traffic, but it still has presence.

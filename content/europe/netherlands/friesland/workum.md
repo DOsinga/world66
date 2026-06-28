@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:8711_Workum,_Netherlands_-
 latitude: 52.977849
 loc_type: city
 longitude: 5.446409
-score: 0.45
+score: 7.31
+snippet: Historic Frisian town on the IJsselmeer, once a Zuiderzee trading port with
+  stepped-gable streets.
 title: Workum
 type: location
 ---

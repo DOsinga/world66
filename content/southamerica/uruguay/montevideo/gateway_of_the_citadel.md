@@ -13,6 +13,7 @@ story: >
   citadel itself — was demolished in 1829 to make way for the expanding city. Only this gate 
   survived, apparently because it was serving as a convenient arch for pedestrian traffic and 
   removing it would have been more trouble than leaving it.
+score: 7.2
 ---
 
 The Puerta de la Ciudadela is the only surviving piece of the colonial military wall that once surrounded Montevideo. Built in 1741, it formed the main entrance to the walled city from the landward side. The rest of the fortification was systematically demolished in the early 19th century as the city grew; the gate survived by accident.

@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Stokmarknes_from_Mountains
 latitude: 68.567
 loc_type: city
 longitude: 14.913348
-score: 0.48
+score: 7.6
+snippet: Small Vesterålen town on Hadseløya, birthplace of the Hurtigruten coastal
+  steamer service.
 title: Stokmarknes
 type: location
 ---

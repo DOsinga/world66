@@ -1,9 +1,13 @@
 ---
-title: Lækkerbar
-type: poi
-tags: [bars_and_cafes, bar]
 latitude: 55.6803
 longitude: 12.5521
+score: 6.8
+tags:
+- bars_and_cafes
+- bar
+- vesterbro
+title: Lækkerbar
+type: poi
 ---
 
 Lækkerbar in Vesterbro is one of the better small natural wine bars in Copenhagen — a low-lit, unpretentious place with a short menu of charcuterie, cheese, and seasonal small plates to go with the wine. The list is mostly European natural producers, changed regularly, and the staff know the wines well enough to guide you without being tedious about it.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 52.2780
 longitude: 8.0430
+score: 5.6
 ---
 
 A brewpub in the old town serving Osnabrück beers including the classic Ratsherren Pils, brewed according to a recipe associated with the city for generations. The pub occupies a traditional building a short walk from the Marktplatz, with a vaulted interior that works in all weathers and a terrace that fills up quickly on warm evenings. It is popular with a cross-section of local life — students, older regulars, office workers on a Friday — rather than being aimed at any particular crowd.

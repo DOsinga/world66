@@ -11,6 +11,7 @@ story: >
   on the Britannia Bay jetty. He built it on stilts over the water himself.
   It has survived two direct hurricane hits and the attentions of several
   generations of celebrities, and Basil is still there most evenings.
+score: 7.8
 ---
 
 Basil's Bar is a wooden structure on a jetty jutting into Britannia Bay, and it has been the social hub of Mustique since 1977. The owner, Basil Charles, is one of the island's true characters — known personally to most long-term visitors and many famous guests, and present most evenings to make introductions and pour rum punches.

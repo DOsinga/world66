@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Rivercross,_Ton
 latitude: 34.9057
 loc_type: city
 longitude: 108.9422
+score: 5.76
+snippet: Shaanxi plateau city with coal roots, Taoist sites, and a long Yaozhou ceramics
+  tradition
 sources:
 - https://en.wikivoyage.org/wiki/Tongchuan
 title: Tongchuan

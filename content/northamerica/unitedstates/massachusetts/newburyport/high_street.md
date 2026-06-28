@@ -13,6 +13,7 @@ story: >
   and pronounced it the handsomest avenue he had seen in America — which was both
   flattery and an accurate observation: even by the standards of the time, the
   density of grand houses on a single street was remarkable.
+score: 8.8
 ---
 
 The pulled-back avenue that runs the length of the city, parallel to the Merrimack at a quarter-mile remove from the waterfront. For roughly a mile from Pleasant Street out to the High Street Cemetery, the road is lined on both sides with Federal and Greek Revival houses built between 1790 and 1840 by shipbuilders, ship captains, and the merchants whose vessels traded with Canton and Calcutta.

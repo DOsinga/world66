@@ -10,6 +10,7 @@ tags:
 title: Museo del Pisco
 type: poi
 url: museodelpisco.org
+score: 5.9
 ---
 
 The Museo del Pisco is less a museum than an excellent bar with a teaching component. Half the front room is a tasting counter where staff will pour you a flight of single-grape piscos (quebranta, italia, torontel, mosto verde) and explain what makes each one distinct. Half is the cocktail bar proper, mixing chilcanos, pisco sours, and a regularly changing list of original drinks. The atmosphere is candlelit and unhurried.

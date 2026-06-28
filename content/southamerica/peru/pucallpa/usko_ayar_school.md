@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: The art school founded by Pablo Amaringo, the most famous painter of ayahuasca visions.
 story: "Amaringo (1938–2009) was a former *vegetalista* — a healer who worked with ayahuasca and other plant medicines — who turned to painting after a serious illness convinced him to leave the practice. His extraordinarily detailed canvases catalogue the visions he had received during ceremonies and have been published as the book *Ayahuasca Visions*."
+score: 7.3
 ---
 
 The Usko-Ayar school occupies a small two-storey house in central Pucallpa, painted with the same dense, jungle-bright imagery that fills the canvases inside. Pablo Amaringo founded it in 1988 as a free art school for young people from the surrounding Shipibo, Asháninka and *mestizo* communities, and it continues in roughly the same form: a workshop, a teaching studio, and a gallery showing student work alongside Amaringo's own pieces.

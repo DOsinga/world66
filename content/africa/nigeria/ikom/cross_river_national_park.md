@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 8.5
 ---
 
 Cross River National Park, of which Ikom is the closest town gateway, protects one of the most biodiverse areas of forest in West Africa. The park contains two separate divisions — Okwangwo in the north and Oban in the south — covering a total of around 4,000 square kilometres of lowland and montane rainforest. It is the last refuge of the Cross River gorilla, the world's most endangered great ape, with a total wild population of fewer than 300 individuals.

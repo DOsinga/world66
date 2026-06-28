@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Picswiss_VD-44-39.jpg
 latitude: 46.34387
 loc_type: city
 longitude: 7.01484
-score: 0.6
+score: 8.14
+snippet: Vaud Alps resort village on a sunny terrace above the Rhône valley, with
+  skiing and sanatorium history
 title: Leysin
 type: location
 ---

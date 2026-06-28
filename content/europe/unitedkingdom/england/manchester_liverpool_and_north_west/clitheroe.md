@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Clitheroe_Castle,_keep_and
 latitude: 53.871
 loc_type: city
 longitude: -2.392
-score: 0.43
+score: 7.09
+snippet: Lancashire market town beneath Pendle Hill, with a Norman castle and views
+  across the Ribble Valley.
 title: Clitheroe
 type: location
 ---

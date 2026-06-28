@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 29.8955
 longitude: -81.3129
+score: 8.2
 ---
 
 St. George Street is the pedestrianised spine of St. Augustine's historic core, running about a third of a mile from the old city gate in the north to the Plaza de la Constitución in the south. The street itself dates from the First Spanish Period, and several of the buildings along it are reconstructions of colonial-era structures standing on their original foundations.

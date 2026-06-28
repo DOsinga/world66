@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Salers_-_H%C3%B4tel_de_Vil
 latitude: 45.138588
 loc_type: city
 longitude: 2.494343
-score: 0.56
+score: 8.06
+snippet: Hilltop Auvergne village of dark basalt mansions, Renaissance squares, and
+  medieval lanes above volcanic countryside.
 title: Salers
 type: location
 ---

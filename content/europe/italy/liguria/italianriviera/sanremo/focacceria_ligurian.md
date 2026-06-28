@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.8178
 longitude: 7.7760
+score: 6.7
 ---
 
 Sanremo's street food scene centres on focaccia, which in Liguria is a serious daily staple rather than a sideline. The local version is thick, oily, and generously salted — nothing like the thin Italian-American interpretation. Focaccerie open early in the morning and sell by weight, serving slabs wrapped in paper to people on their way to work.

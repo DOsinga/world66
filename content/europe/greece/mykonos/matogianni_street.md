@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 37.4452
 longitude: 25.3287
+score: 6.8
 ---
 
 The main shopping street in Mykonos Town and the closest thing the island has to a high street — though "street" understates the labyrinthine charm. Matogianni and its radiating alleyways are lined with boutiques selling linen and cotton clothing, leather sandals handmade to order, fine jewellery, ceramics, and art. International luxury brands sit alongside small Greek designers; the shopping is genuinely good even if the prices match the island's reputation.

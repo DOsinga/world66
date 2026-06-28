@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Santiago_de_los_Caballeros
 latitude: 19.4517
 loc_type: city
 longitude: -70.697
-score: 0.38
+score: 6.24
+snippet: Inland Dominican city in the Cibao Valley, shaped by tobacco fields, markets,
+  and industry.
 title: Santiago
 type: location
 ---

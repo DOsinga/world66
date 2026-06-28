@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cuba_-_Matanzas_-_Matanzas
 latitude: 23.0415
 loc_type: city
 longitude: -81.5775
-score: 0.5
+score: 7.46
+snippet: Cuban bay city and former sugar port, known for Afro-Cuban music and 19th-century
+  theatre.
 title: Matanzas
 type: location
 ---

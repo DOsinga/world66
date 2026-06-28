@@ -4,10 +4,12 @@ latitude: 1.296548
 longitude: 103.848317
 opening_hours: 10:00–19:00 daily
 phone: (65) 6332 3659
+score: 8.2
 snippet: Singapore's oldest museum covering history and culture
 tags:
 - things_to_do
 - museums
+- clarke_quay
 title: National Museum of Singapore
 type: poi
 url: https://www.nationalmuseum.sg

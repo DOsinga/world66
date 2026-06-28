@@ -7,6 +7,7 @@ tags:
 latitude: 50.8342
 longitude: 12.9058
 snippet: Cultural centre and bar in the Kaßberg, with live music, events, and a good beer selection
+score: 6.3
 ---
 
 Weltecho is one of Chemnitz's more durable cultural-venue bars — a converted space in the Kaßberg that runs a programme of concerts, readings, and club nights alongside a regular bar operation. The crowd is mixed: students, artists, older regulars who've been coming for years. The beer list is longer than average, with a good selection of Saxon and Czech options on tap.

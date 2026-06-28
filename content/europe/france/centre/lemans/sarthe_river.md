@@ -9,6 +9,7 @@ latitude: 47.9956
 longitude: 0.1803
 sources:
   - https://en.wikipedia.org/wiki/Huisne
+score: 6.2
 ---
 
 The rivers Sarthe and Huisne meet at the southern edge of Le Mans, and the confluence and riverbanks provide the city's best green escape. The Sarthe towpath is walkable and cyclable for several kilometres in both directions, passing under the old bridges and through stretches of riverside park with views back up to the cathedral hill.

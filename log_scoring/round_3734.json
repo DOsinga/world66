@@ -1,0 +1,200 @@
+{
+  "round": 3734,
+  "timestamp": "2026-06-13T23:16:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 9.2946,
+      "prior_variance": 0.292541,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 5.8755,
+      "prior_variance": 0.174749,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.2143,
+      "prior_variance": 0.10927,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 3.5274,
+      "prior_variance": 0.107971,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.2214,
+      "prior_variance": 0.108635,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 2.3158,
+      "prior_variance": 0.117791,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 1.9999,
+      "prior_variance": 0.131585,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 0.8536,
+      "prior_variance": 0.106774,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.4782,
+      "prior_variance": 0.124438,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.4828,
+      "prior_variance": 0.114494,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": -0.1785,
+      "prior_variance": 0.140996,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.2928,
+      "prior_variance": 0.141745,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -1.1518,
+      "prior_variance": 0.122086,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.985,
+      "prior_variance": 0.106209,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 1.0688,
+      "prior_variance": 0.118246,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.2869,
+      "prior_variance": 0.109577,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_score": -1.9413,
+      "prior_variance": 0.116162,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.4893,
+      "prior_variance": 0.099291,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -1.2194,
+      "prior_variance": 0.147373,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -1.6313,
+      "prior_variance": 0.112095,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -1.3051,
+      "prior_variance": 0.138944,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.7417,
+      "prior_variance": 0.101077,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -4.3627,
+      "prior_variance": 0.155776,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Homs",
+      "path": "asia/syria/homs",
+      "prior_score": -11.2964,
+      "prior_variance": 0.406198,
+      "prior_n": 11
+    }
+  ]
+}

@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Oyster Omelette Stalls
 type: poi
+score: 7.2
 ---
 
 Shantou's oyster omelette stalls turn tiny oysters, egg, starch, and herbs into a crisp-edged, soft-centred plate that tastes better than its humble ingredients suggest. It is a classic Chaoshan snack and a good test of a street kitchen's heat control.

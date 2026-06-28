@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Grasmere_1,_Cumbria_-_June
 latitude: 54.459388
 loc_type: city
 longitude: -3.024366
-score: 0.6
+score: 8.56
+snippet: Lake District village associated with William Wordsworth, Dove Cottage, St
+  Oswald's churchyard, and local gingerbread.
 title: Grasmere
 type: location
 ---

@@ -9,6 +9,7 @@ tags:
 - nature
 title: Illimani (Mountain Views)
 type: poi
+score: 7.4
 ---
 
 Illimani is the mountain that defines La Paz's horizon — a triple-peaked massif of glaciated rock rising to 6,438 metres southeast of the city. It can be seen on clear days from the mirador at Parque El Montículo, from the southern end of El Prado, from the upper teleférico stations, and from various viewpoints around Sopocachi and Miraflores. The views are best in the morning before the clouds build around the summit.

@@ -15,6 +15,7 @@ story: >
   many of the same species he documented.
 sources:
   - https://en.wikipedia.org/wiki/Alpine_Botanical_Garden_Saussurea
+score: 6.7
 ---
 
 Perched at 2,173 metres on the slopes above Courmayeur, the Giardino Botanico Alpino Saussurea is the highest alpine botanical garden in Europe. It was established to protect and display the remarkable range of plant life that survives at altitude on the Mont Blanc massif — from dwarf willows and cushion plants to vivid alpine wildflowers that bloom in brief, intense bursts during the short summer. The setting is dramatic: the garden looks directly up at the south face of Mont Blanc.

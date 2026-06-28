@@ -12,6 +12,7 @@ story: >
   designed the lighting to use the natural rock faces as screens, projecting
   colour across surfaces that are up to 300 metres tall. On nights with
   low cloud, the peaks disappear and reappear through the mist.
+score: 8.7
 ---
 
 Impressions Da Hong Pao (印象大红袍) is the outdoor theatrical show created by Zhang Yimou, the filmmaker behind the Beijing Olympics opening ceremony. The performance uses the actual mountains of Wuyishan as its stage — a semicircle of peaks 360 degrees around the audience serves as backdrop and screen. The show runs at dusk and after dark, with the mountains illuminated in shifting colours. The narrative loosely follows the history and mythology of Da Hong Pao tea, but the visuals are the point.

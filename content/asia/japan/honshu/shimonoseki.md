@@ -9,11 +9,13 @@ image_attribution: Ka23 13
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Shimonoseki_20080503_114546.jpg
 latitude: 33.9577
+loc_type: city
 longitude: 130.9415
-score: 0.57
+score: 7.91
+snippet: Honshu port city on the Kanmon Strait, known for maritime history and fugu
+  cuisine.
 title: Shimonoseki
 type: location
-loc_type: city
 ---
 
 Shimonoseki sits at the far southwestern tip of Honshu, separated from Kyushu by the Kanmon Strait — one of the narrowest and busiest sea lanes in Japan. The city is defined by this water: the tides run fast, the fishing is exceptional, and the history is dramatic. The decisive naval battle of Dan-no-ura was fought here in 1185, ending the Genpei War and the Heike clan's claim to power. Today the strait is crossed by bridge, tunnel (you can walk under it to Kyushu), and ferry, and the waterfront Karato district still hums with the trade that has always sustained the city.

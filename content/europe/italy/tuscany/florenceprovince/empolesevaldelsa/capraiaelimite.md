@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Veduta_di_capraia_dal_pont
 latitude: 43.7596
 loc_type: city
 longitude: 10.9997
-score: 0.4
+score: 6.76
+snippet: Tuscan Arno-side comune where old shipbuilding traditions meet Montalbano
+  hill trails and villas.
 title: Capraia e Limite
 type: location
 ---

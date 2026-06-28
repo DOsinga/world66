@@ -8,6 +8,7 @@ tags:
 story: Porto Alegre's Centro Histórico survives more completely than those of most Brazilian cities of comparable size, partly because the city was never wealthy enough for the wholesale redevelopment that destroyed older São Paulo, and partly because the gaúcho cultural pride in preservation — stronger than in most Brazilian states — has protected buildings that elsewhere would have been demolished decades ago.
 title: Centro Histórico Walking Tour
 type: poi
+score: 9.1
 ---
 
 A morning walking Porto Alegre's Centro Histórico covers an amount of history, architecture, and urban texture that would take a week to fully absorb. The compact area between the Praça da Matriz, the Praça da Alfândega, and the Cais Mauá waterfront holds the city's most important buildings within easy walking distance of each other, and the streets between them have some of the best-preserved 19th- and early 20th-century commercial architecture in southern Brazil.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 33.3316
 longitude: -105.6710
+score: 6.8
 ---
 
 Sudderth Drive is the main commercial street in Ruidoso and runs through the town centre for about a mile, lined with galleries, shops, and restaurants. The arts scene here is more serious than you might expect for a mountain resort — several galleries focus on southwestern and Native American art, with work by both established and emerging artists.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.5
 ---
 
 The Gothic parish church closes the eastern end of the Stadtplatz. Most of the structure dates from the late 14th and 15th centuries, with a slim spire that gives Wels its skyline punctuation. Inside, the surviving medieval stained glass — fragments rather than full windows — is the main draw for visitors with an eye for it.

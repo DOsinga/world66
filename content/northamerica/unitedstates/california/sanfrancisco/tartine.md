@@ -2,13 +2,13 @@
 address: 600 Guerrero St
 latitude: 37.7617
 longitude: -122.4237
+score: 7.8
 snippet: Legendary Mission bakery with James Beard Award-winning bread and pastries
 tags:
 - eating_out
 - restaurant
 - mission_district
 title: Tartine
-neighbourhood: Mission District
 type: poi
 ---
 

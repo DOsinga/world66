@@ -5,7 +5,9 @@ done:
 latitude: 22.4167
 loc_type: city
 longitude: -83.6956
-score: 0.53
+score: 7.49
+snippet: Western Cuban city near tobacco valleys, limestone mogotes, and the cave
+  country around Viñales
 title: Pinar del Río
 type: location
 ---

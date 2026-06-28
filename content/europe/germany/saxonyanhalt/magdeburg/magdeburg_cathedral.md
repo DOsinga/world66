@@ -11,6 +11,7 @@ address: Am Dom 1, 39104 Magdeburg
 opening_hours: Mon-Sat 10:00-18:00, Sun 11:30-18:00 (closes 17:00 Oct-Apr)
 snippet: Germany's oldest Gothic cathedral, begun 1209, burial place of Emperor Otto I
 story: "When Otto I died in 973, he was buried in the older Romanesque cathedral on this site alongside his first wife, the English princess Edith of Wessex. Her tomb was rediscovered intact in 2008 during renovation work — still containing her remains, making it one of the most significant royal burials found in Germany in modern times."
+score: 9.1
 ---
 
 Magdeburg Cathedral (Dom St. Mauritius und Katharina) is the oldest Gothic cathedral in German-speaking lands — construction began in 1209, replacing a Romanesque cathedral that had burned down, and continued for over 300 years. The two tall Gothic towers define the city's skyline from the Elbe, and the interior is a landmark of early German Gothic: tall, austere, and impressive in scale.

@@ -6,6 +6,7 @@ longitude: -6.642
 tags:
   - eating_out
   - restaurant
+score: 7.8
 ---
 
 A long-standing destination restaurant in a converted crofter's cottage at Colbost. Eddie and Shirley Spear opened it in 1985 and turned it into one of the most celebrated restaurants in Scotland; it has been awarded multiple stars and accolades over the decades and is still routinely cited as one of the country's best.

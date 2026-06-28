@@ -5,7 +5,9 @@ done:
 latitude: 35.766
 loc_type: city
 longitude: 10.7774
-score: 0.4
+score: 7.0
+snippet: Tunisian coastal resort suburb south of Monastir, dominated by beach hotels
+  and package-holiday infrastructure.
 title: Skanes
 type: location
 ---

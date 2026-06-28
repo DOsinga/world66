@@ -6,6 +6,7 @@ tags:
 - architecture
 title: Roman Baths
 type: poi
+score: 8.1
 ---
 
 Going to the baths was an important part of Roman life, and, besides some smaller private baths, Trier had three large public baths: the newly discovered Forum Baths, the Barbara Baths, and the Imperial Baths, the latter two being the largest baths outside Rome.

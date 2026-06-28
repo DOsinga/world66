@@ -9,6 +9,7 @@ latitude: 61.8354
 longitude: -6.8181
 story: >
   The name "Í Koytu" means "in the enclosure" in Faroese — a reference to the stone-walled farmyard that defines traditional Faroese building groups. The museum preserves one of the few such complexes on Sandoy that has survived intact, giving visitors a clear sense of the material conditions of island life before the 20th century brought electricity, roads, and connection to the wider world.
+score: 6.8
 ---
 
 Í Koytu is a preserved traditional farmhouse in Sandur that now serves as a house museum illustrating daily life on Sandoy in earlier centuries. The building complex — the main house, outbuildings, and stone-walled yard — has been preserved as an example of the traditional Faroese longhouse farm type, with period furnishings and agricultural tools.

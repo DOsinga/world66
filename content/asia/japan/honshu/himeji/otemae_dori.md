@@ -6,6 +6,7 @@ longitude: 134.6904
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Otemae-dori is the broad boulevard that runs straight from Himeji Station to the south gate of Himeji Castle. It is the city's main axis and the perfect first walk: the castle is visible the whole way, growing larger as you approach. The avenue is lined with ginkgo trees, sculptures, and a few well-placed cafes.

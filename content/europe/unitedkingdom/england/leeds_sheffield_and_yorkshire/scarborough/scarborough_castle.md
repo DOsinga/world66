@@ -15,6 +15,7 @@ story: >
   War (a nine-month Parliamentary siege), and as recently as 1914, when two German
   battlecruisers shelled the town and damaged the keep. The visible scars on the
   medieval stonework include both medieval and 20th-century damage.
+score: 9.4
 ---
 
 Scarborough Castle sits on the great headland that divides the town into its two bays, a position so commanding that the site has been fortified since the Iron Age. The current castle was built by Henry II in the 12th century, and its massive keep — still largely intact — dominates the headland from a distance.

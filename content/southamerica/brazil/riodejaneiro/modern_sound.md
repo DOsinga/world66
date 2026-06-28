@@ -2,10 +2,12 @@
 address: Rua Barata Ribeiro, 502, Copacabana
 latitude: -22.9698
 longitude: -43.1882
-snippet: "Legendary Copacabana record store with live music stage"
+score: 6.6
+snippet: Legendary Copacabana record store with live music stage
 tags:
 - shopping
 - shop
+- copacabana
 title: Modern Sound
 type: poi
 ---

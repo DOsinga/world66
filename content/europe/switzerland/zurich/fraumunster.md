@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Fraumünster
 type: poi
+score: 8.8
 ---
 
 The Fraumunster sits on the west bank of the Limmat, its slender green spire one of the defining features of the Zurich skyline. Founded in 853 AD by Louis the German for his daughter Hildegard, the abbey once wielded considerable power -- its abbess had the right to mint coins and collect tolls.

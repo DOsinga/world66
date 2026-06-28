@@ -13,6 +13,7 @@ story: >
   exceeding the maximum slope. The entire Albula/Bernina route is a UNESCO
   World Heritage Site, one of very few railway lines to hold that status.
 type: poi
+score: 9.3
 ---
 
 The Bernina Express runs from St. Moritz south over the Bernina Pass to Tirano in northern Italy, crossing some of the most dramatic mountain scenery in Europe in under four hours. The route climbs from 1,775 metres at St. Moritz to 2,253 metres at the Ospizio Bernina station — the highest point on the mainline railway network in Switzerland — before descending through the Italian-speaking canton of Graubünden and into the Valtellina.

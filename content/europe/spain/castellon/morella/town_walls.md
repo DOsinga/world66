@@ -9,6 +9,7 @@ longitude: -0.1020
 snippet: "Complete circuit of 13th-century walls with six gate towers — among the best-preserved in Spain"
 sources:
   - https://en.wikipedia.org/wiki/Morella,_Spain
+score: 8.2
 ---
 
 Morella's walls are almost entirely intact — a rare survival in Spain, where most medieval fortifications were demolished or allowed to decay after losing their military purpose. The circuit runs around the entire old town perimeter, with six main gate towers and numerous interval towers. The walls are accessible and walkable; sections of the wall walk give panoramic views over the surrounding countryside.

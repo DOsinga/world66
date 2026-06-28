@@ -8,6 +8,7 @@ tags:
   - printmaking
 title: "Musee de l'Image"
 type: poi
+score: 8.7
 ---
 
 The Musee de l'Image is the essential Epinal stop. It presents the popular prints that made the city famous, from soldiers and saints to fairy tales and advertising, with enough context to show how mass images shaped French imagination before radio and television.

@@ -15,6 +15,7 @@ story: >
   his final years fishing its rivers. He was by all accounts an eccentric and
   benevolent landlord who employed everyone in the district and had the salmon
   served with champagne.
+score: 7.0
 ---
 
 Ballynahinch Castle sits at the meeting point of a salmon river and Ballynahinch Lake, in the bog valley south of the Twelve Bens. It is the most atmospheric place to stay in Connemara: a proper castle with turreted towers, ancient oaks along the river bank, and red deer on the hillside above. Fishing rights on the Ballynahinch River — one of the finest wild salmon rivers in Ireland — go with certain rooms.

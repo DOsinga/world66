@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Old Town (Kala)
 type: poi
+score: 9.3
 ---
 
 Old Tbilisi — *Kala* in Georgian — is the historic heart of the city: a dense maze of narrow streets, wooden-balconied houses, courtyards, and medieval churches compressed into the wedge of land between Narikala Fortress and the Mtkvari river. The architecture is a layered hybrid of Georgian, Persian, and Russian imperial styles, reflecting the city's turbulent ownership history.

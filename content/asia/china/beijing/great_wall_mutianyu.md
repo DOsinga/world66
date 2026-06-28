@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Great Wall of China (Mutianyu)
 type: poi
+score: 8.0
 ---
 
 The most practical section of the Great Wall to visit from Beijing, about 70 km northeast of the city. Mutianyu is fully restored, less crowded than Badaling, and runs along a spectacular ridge. A cable car and chairlift carry visitors up to the wall; the return journey can be made on a toboggan slide. Plan a full day including travel — most hotels and agencies offer day-trip drivers, which are usually the easiest option.

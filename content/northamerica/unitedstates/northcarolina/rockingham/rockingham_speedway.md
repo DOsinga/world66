@@ -15,6 +15,7 @@ story: >
   NASCAR cancelled the Cup race after 2004, fan anger was loud enough to be
   heard in Charlotte — a regional loyalty that says something about how seriously
   this area took its race track.
+score: 8.1
 ---
 
 The Rockingham Speedway — known for decades as the North Carolina Speedway and to everyone who followed it as "The Rock" — is the town's most recognizable landmark and the reason most visitors have heard of Rockingham at all. The one-mile oval hosted NASCAR Cup Series races from 1965 to 2004, a stretch that gave the track a well-deserved reputation as one of the most demanding on the circuit.

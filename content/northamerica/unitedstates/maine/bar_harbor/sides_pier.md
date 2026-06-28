@@ -8,6 +8,7 @@ tags:
 latitude: 44.3878
 longitude: -68.2065
 address: "49 Rodick Street, Bar Harbor"
+score: 6.5
 ---
 
 A friendly, slightly cramped restaurant a block off Main Street known for its lobster mac-and-cheese and big portions of fried clams. Service is quick, the beer list is solid, and it stays open later than most.

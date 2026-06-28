@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Moreeb_dune_desert.jpg
 latitude: 23.131
 loc_type: city
 longitude: 53.7611
-score: 0.41
+score: 7.08
+snippet: Abu Dhabi oasis chain on the Rub al Khali edge, homeland of ruling families
+  and giant dunes.
 title: Liwa
 type: location
 ---

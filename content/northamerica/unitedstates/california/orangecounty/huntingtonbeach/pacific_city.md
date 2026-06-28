@@ -9,6 +9,7 @@ snippet: "Open-air retail and restaurant complex across PCH from the pier"
 address: "21010 Pacific Coast Highway"
 latitude: 33.6533
 longitude: -117.9944
+score: 5.8
 ---
 
 Pacific City is an open-air complex of shops and restaurants on the bluff directly across Pacific Coast Highway from the pier. Architecturally unremarkable but well-positioned, with a long terrace and lawn that look out over the beach. It is where locals come for a casual dinner and a cocktail with an ocean view rather than walking down Main Street.

@@ -14,6 +14,7 @@ story: >
   house reopened in the 1980s, the workers returned to their benches and resumed
   a tradition that had been interrupted but not broken. Some of the texts preserved
   here exist nowhere else on earth.
+score: 9.1
 ---
 
 The Dege Parkhang, founded in 1729 by the eighth king of Derge, is one of the three great printing houses of Tibetan Buddhism — the others being in Lhasa and Narthang — and by many accounts the most important for textual preservation. The building contains over 140,000 carved wooden printing blocks, including scriptures, historical texts, and medical treatises representing all four major schools of Tibetan Buddhism plus the pre-Buddhist Bon tradition. Roughly seventy percent of all surviving Tibetan literary heritage is said to be held here.

@@ -2,7 +2,7 @@
 email: admin@creativityworkshops.com
 phone: 1 (831) 915-5209
 title: Things to do in Carmel
-type: poi
+type: section
 url: www.creativityworkshop.com
 ---
 

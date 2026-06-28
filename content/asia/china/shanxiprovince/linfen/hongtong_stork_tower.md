@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.2030
 longitude: 111.6800
+score: 5.3
 ---
 
 The Stork Tower (Guanque Lou) at Hongtong, northeast of Linfen, is one of the most celebrated sites in Chinese classical poetry. Wang Zhihuan's eight-line poem written from the tower's upper storey — ending with the observation that to see another thousand li you must climb one more storey — has been memorised by Chinese schoolchildren for over a thousand years. The original Tang-dynasty tower was destroyed and the current structure is a 1997 reconstruction, but it is a careful one, and the view from the upper level over the Yellow River plain to the west gives the poem its meaning back.

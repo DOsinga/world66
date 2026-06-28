@@ -11,6 +11,7 @@ tags:
 - bar
 title: Caffè degli Artisti
 type: poi
+score: 5.4
 ---
 
 A café in the upper city with outdoor seating, live music evenings, and a menu running from breakfast through to late-night drinks. Food covers both hot dishes and snacks. Open 08:00–02:00.

@@ -1,8 +1,7 @@
 ---
-category: Market
 latitude: -33.9247
 longitude: 18.4197
-neighbourhood: City Bowl
+score: 7.5
 scores:
   activities: 0.6355
   market: 0.7743

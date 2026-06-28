@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 title: Kazandžijsko Sokače
 type: poi
+score: 6.8
 ---
 
 Kazandžijsko Sokače — the Coppersmiths' Alley — was once a busy Ottoman-era craft street where metalworkers hammered out copper vessels, tools, and decorative objects. Today the cobblestones are still there, the narrow lane is still lined with low traditional buildings, but the craftsmen have mostly been replaced by kafanas, wine bars, and restaurants that get extremely lively in the evening.

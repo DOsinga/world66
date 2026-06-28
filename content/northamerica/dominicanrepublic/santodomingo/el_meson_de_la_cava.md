@@ -7,6 +7,7 @@ tags:
 latitude: 18.4615
 longitude: -69.9283
 story: "The restaurant sits in a natural cave system that was used as a hiding place by buccaneers and smugglers in the colonial era — the same network of limestone caverns that riddled the coast around Santo Domingo before the city expanded over them. Dining 12 metres underground with only the cave walls and stalactites for decor makes for an experience that is genuinely unlike anything else in the city."
+score: 6.6
 ---
 
 El Mesón de la Cava is one of Santo Domingo's most unusual restaurants, built inside a natural cave about 12 metres below street level. The cave was occupied by pirates and buccaneers in the colonial period; today it is an upscale Dominican and international restaurant with proper tablecloths and a wine list. The setting — all stalactites and natural rock walls — is extraordinary.

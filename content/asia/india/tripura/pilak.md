@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 23.2000
 longitude: 91.6000
+score: 7.6
 ---
 
 Pilak is an archaeological area in South Tripura with Buddhist and Hindu remains, terracotta plaques, stone images, and traces of old settlement. It is quieter than Unakoti but important for understanding Tripura's links with Bengal, Arakan, and wider eastern India.

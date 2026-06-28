@@ -9,6 +9,7 @@ longitude: 11.6363
 address: Alter Markt, 39104 Magdeburg
 snippet: The 'Magdeburg Rider' — a 13th-century equestrian statue, the first free-standing one north of the Alps
 story: "The original sandstone statue in the museum was long thought to represent Otto I, but modern scholarship is uncertain — no inscription survives to identify the rider, and the dating of the statue (around 1240) makes it more than 250 years after Otto's death, which was unusual for a memorial portrait. Whatever its subject, it is an extraordinary technical achievement for its era: casting a life-size free-standing rider and horse from stone with no supporting structure."
+score: 7.3
 ---
 
 The Magdeburger Reiter — the Magdeburg Rider — stands in the Alter Markt (Old Market Square), though what you see there today is a 1966 copy. The original 13th-century statue, carved around 1240 and considered the first free-standing equestrian monument in Europe north of the Alps, is preserved in the Kulturhistorisches Museum.

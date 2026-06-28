@@ -12,6 +12,7 @@ story: >
   that mimicked naval architecture. Japanese forces captured it in 1942 and held it
   until American troops literally pumped fuel oil into the ventilation shafts and set
   it alight in 1945, incinerating the garrison inside.
+score: 8.1
 ---
 
 Fort Drum is one of the most unusual military fortifications in the world. In the early 1900s, the United States Army reshaped El Fraile Island at the entrance to Manila Bay into what amounted to a concrete battleship — the entire island was covered in reinforced concrete up to nine metres thick, with two twin-gun turrets mounted on top. It was virtually unsinkable and nearly impervious to conventional attack.

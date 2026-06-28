@@ -7,6 +7,12 @@ longitude: -82.519064
 score: 0.55
 title: Tampa Bay Area
 type: location
+snippet: Florida Gulf Coast metro area of beaches, Ybor City nightlife, and historic
+  Fort De Soto.
+image: tampabayarea.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Downtowntampa08.jpg
+image_license: Public domain
+image_attribution: w:en:FightingRaven531
 ---
 
 Tampa Bay ius one of the most popular tourist resorts of the United States. With perfect beaches lost of activities and attraction as well as a major historic monument in [Fort de Soto](/northamerica/unitedstates/florida/tampabayarea/fortdesoto) it is hardky surprising that tourists come flocking in every year.

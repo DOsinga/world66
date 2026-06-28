@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5834
 longitude: -121.5073
+score: 6.7
 ---
 
 Several operators run boat tours on the Sacramento River from the Old Sacramento waterfront, ranging from one-hour sightseeing cruises to dinner cruises that travel south toward the Delta. The river view of Sacramento — looking east at the Tower Bridge and the Old Sacramento levee — is the best angle from which to understand the city's geography and relationship to its waterway.

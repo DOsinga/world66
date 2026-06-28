@@ -5,8 +5,14 @@ latitude: 39.056
 loc_type: region
 longitude: 16.5942
 score: 0.53
+snippet: Mountainous Italian region at the boot's toe, with Ionian beaches, chili-rich
+  food, and Greek layers
 title: Calabria
 type: location
+image: calabria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cliff_at_Tropea,_Italy,_Sep_2005.jpg
+image_license: CC BY-SA 2.5
+image_attribution: Unknown
 ---
 
 Calabria is the toe of Italy's boot, a mountainous peninsula wedged between the Tyrrhenian and Ionian seas. It is one of Italy's poorest regions and one of its least-visited, which is exactly what makes it rewarding. The beaches are uncrowded, the food is fierce with chili, and the hilltop towns feel like they belong to another century.

@@ -16,6 +16,7 @@ story: >
   construction anywhere in the world. The bridge has stood for nearly a thousand
   years, survived many floods and one earthquake, and still carries foot traffic
   across the Jin River estuary.
+score: 8.6
 ---
 
 Luoyang Bridge — also called Wan'an Bridge — is one of the great engineering achievements of medieval China. At 1,200 metres long, it was the longest sea bridge in China when completed in 1059, built across a tidal estuary using an innovative technique that became the model for subsequent stone bridge construction. Governor Cai Xiang's use of oyster cultivation to cement the foundations was brilliant improvisation, but the engineering challenges he solved — large stone beams over tidal water, protective pillars against currents, uniform alignment across a wide estuary — represent centuries of accumulated knowledge.

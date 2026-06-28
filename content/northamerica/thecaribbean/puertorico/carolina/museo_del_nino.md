@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.3950
 longitude: -65.9600
+score: 5.8
 ---
 
 The Museo del Niño de Carolina is a children's museum in Carolina offering interactive exhibits aimed at young visitors. It is a popular destination for families resident in the San Juan metro area and fills a gap that the more historic museums of Old San Juan do not address. Temporary exhibitions change through the year, and there are regular activity programmes.

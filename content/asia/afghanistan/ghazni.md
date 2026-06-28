@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:66-172_Ghazni_Afghanistan_
 latitude: 33.544897
 loc_type: city
 longitude: 68.413211
-score: 0.18
+score: 1.51
+snippet: Historic Afghan city whose minarets recall the Ghaznavid empire's medieval
+  court and power
 title: Ghazni
 type: location
 ---

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The fertile lowland that surrounds Lushnjë — Albania's bread-and-vegetables basket
+score: 6.7
 ---
 
 The Myzeqe is the broad alluvial plain between the lower Shkumbin and Seman rivers — flat, fertile, and famously the heartland of Albanian agriculture. The plain produces a large share of the country's wheat, sunflowers, tomatoes, and watermelons, and the roads radiating out from Lushnjë cross mile after mile of cultivated fields.

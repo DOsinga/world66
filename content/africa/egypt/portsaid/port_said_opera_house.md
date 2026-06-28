@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.2703
 longitude: 32.3048
+score: 5.6
 ---
 
 The Port Said Cultural Entertainment Center, known locally as the Port Said Opera House, is the city's main venue for theatre, music, and cultural events. It stages performances throughout the year, including opera, classical concerts, and Egyptian theatrical productions.

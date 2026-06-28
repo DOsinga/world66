@@ -2,9 +2,12 @@
 address: Skindergade 43
 latitude: 55.6787
 longitude: 12.5733
-snippet: Traditional jazz bar with free live music several nights a week
+score: 6.5
+snippet: Traditional jazz bar on Rådhuspladsen with free live music several nights
+  a week
 tags:
 - bars_and_cafes
+- indre_by
 title: Charlie Scott's Bar
 type: poi
 ---

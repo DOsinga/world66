@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.495
 longitude: 79.95
+score: 6.4
 ---
 
 The Gundlakamma Reservoir is built across the Gundlakamma River as it cuts down from the Eastern Ghats toward the coast. It is both a scenic spot — a broad sheet of water with low hills behind — and a pilgrimage site, with a Venkateswara temple on its banks that sees steady foot traffic from the surrounding villages.

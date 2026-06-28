@@ -13,6 +13,7 @@ tags:
 - sight
 title: Paro
 type: poi
+score: 8.0
 ---
 
 The most important day trip from Thimphu, Paro is a 54 km drive (about 1.5 hours) west along the Wang Chhu river valley. The town has its own substantial dzong and a clutch of medieval temples, but the reason everyone comes is Taktsang Monastery — Tiger's Nest — clinging to a cliff face above the valley at 900 metres of vertical gain from the trailhead. The hike takes 2–3 hours up and 1.5–2 hours down; start early to avoid the afternoon heat. Paro is also the site of Bhutan's international airport.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "10,000-acre linear park along the River Lea, north from the Thames to Hertfordshire"
+score: 6.8
 ---
 
 Lee Valley Regional Park is a 26-mile-long ribbon of green that follows the River Lea north from the Thames at Limehouse all the way up to Ware in Hertfordshire, taking in Waltham Cross at roughly the halfway point. Created by Act of Parliament in 1967, it stitches together former gravel pits, reservoirs, water meadows, sewage works, and industrial wasteground into a 10,000-acre patchwork of nature reserves, sports facilities and walking trails.

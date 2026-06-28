@@ -8,6 +8,7 @@ latitude: 18.3697
 longitude: -66.8378
 story: >
   The Río Camuy is the third-largest underground river in the world by volume. The cave system it has carved over millions of years contains chambers large enough to fit a 20-storey building. The sinkhole at the heart of the park — Empalme Sinkhole — is 170 metres wide and 65 metres deep, and a colony of over 100,000 bats lives in the caves, streaming out at dusk in a river of their own.
+score: 8.5
 ---
 
 Río Camuy Cave Park is one of the most impressive natural attractions in Puerto Rico and one of the larger cave systems in the Western Hemisphere. Located about 25 kilometres southwest of Arecibo, the park is built around a section of the underground Río Camuy river system, which has been carving through the limestone karst for millions of years.

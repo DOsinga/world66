@@ -3,7 +3,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.633714
 longitude: -7.978875
-snippet: Open-air leather dyeing vats, centuries-old tradition
+score: 8.2
+snippet: Open-air leather dyeing vats in the northeastern medina, operated by the
+  same method since the 12th century
 tags:
 - things_to_do
 - sight

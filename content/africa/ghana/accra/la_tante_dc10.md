@@ -7,6 +7,7 @@ tags:
 latitude: 5.6028
 longitude: -0.1747
 snippet: "Decommissioned passenger jet converted into a restaurant near Kotoka Airport"
+score: 5.3
 ---
 
 One of Accra's most improbable dining experiences: a decommissioned DC-10 widebody aircraft dragged from a runway and positioned beside the road near Kotoka International Airport, where it has been operating as a restaurant for over twenty years. The original cabin layout survives — you eat from trays in the passenger seats, served by staff in flight-attendant uniforms, with the overhead lockers still in place and the windows looking out onto a Ghanaian car park rather than clouds.

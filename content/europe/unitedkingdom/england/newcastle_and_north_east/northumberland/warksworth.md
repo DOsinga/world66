@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Warkworth_from_Castle.jpg
 latitude: 55.3467
 loc_type: city
 longitude: -1.6144
+score: 7.7
+snippet: Northumberland village on the River Coquet, dominated by a Percy family castle.
 title: Warkworth
 type: location
 ---

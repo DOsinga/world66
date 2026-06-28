@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The arch was built in 129 AD to welcome the Emperor Hadrian on his visit to Gerasa — one of a series of civic building projects the city undertook to impress Rome's most travelled emperor. It was designed to serve as the new southern gate of a city expansion that never quite happened; the city never grew south to meet it, leaving the arch standing alone in a field.
+score: 7.8
 ---
 
 The Arch of Hadrian stands at the southern entrance to the Jerash site, a triple-arched triumphal gateway built to commemorate the Emperor Hadrian's visit to the city in 129–130 AD. At 13 metres high with its upper sections largely intact, it is one of the better-preserved triumphal arches of the Roman east.

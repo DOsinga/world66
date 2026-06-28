@@ -1,0 +1,200 @@
+{
+  "round": 4661,
+  "timestamp": "2026-06-14T00:31:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/manitousprings",
+      "prior_score": 2.4676,
+      "prior_variance": 0.08696,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.5691,
+      "prior_variance": 0.087017,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 2.7452,
+      "prior_variance": 0.093913,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": 0.4096,
+      "prior_variance": 0.084757,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 0.879,
+      "prior_variance": 0.094813,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -3.9423,
+      "prior_variance": 0.113013,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 1.7726,
+      "prior_variance": 0.091651,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 1.3492,
+      "prior_variance": 0.094443,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.7068,
+      "prior_variance": 0.080822,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -2.21,
+      "prior_variance": 0.083446,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -2.4851,
+      "prior_variance": 0.107646,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -3.0174,
+      "prior_variance": 0.097406,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.5747,
+      "prior_variance": 0.090299,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.4448,
+      "prior_variance": 0.089722,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.1064,
+      "prior_variance": 0.095529,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -4.4081,
+      "prior_variance": 0.098751,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -4.3502,
+      "prior_variance": 0.110219,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_score": -5.5137,
+      "prior_variance": 0.136592,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_score": -3.124,
+      "prior_variance": 0.095548,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_score": -5.3895,
+      "prior_variance": 0.105652,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_score": -4.7675,
+      "prior_variance": 0.093943,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -6.2153,
+      "prior_variance": 0.142728,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_score": -6.5552,
+      "prior_variance": 0.138575,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -6.8965,
+      "prior_variance": 0.145562,
+      "prior_n": 15
+    }
+  ]
+}

@@ -7,9 +7,11 @@ snippet: Major contemporary art museum on the Magnificent Mile
 tags:
 - things_to_do
 - museum
+- river_north
 title: Museum of Contemporary Art
 type: poi
 url: www.mcachicago.org
+score: 7.1
 ---
 
 One of the nation's largest contemporary art museums, with work from 1945 to the present by artists including Franz Kline, Andy Warhol, and Jeff Koons. The building is right on the Magnificent Mile, making it easy to combine with shopping. Tuesday evenings from 5 to 8 PM are free. The First Fridays event on the first Friday of each month (6 to 10 PM) is a good social evening.

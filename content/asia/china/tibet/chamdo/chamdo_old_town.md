@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 31.1430
 longitude: 97.1700
+score: 7.4
 ---
 
 The old town clusters around the base of the monastery promontory, a network of narrow lanes lined with flat-roofed Tibetan houses decorated with prayer flags and wood carvings. It is a smaller and quieter version of the Barkhor area in Lhasa, and the relative scarcity of tourists gives it a more lived-in quality. In the mornings, women in traditional dress carry butter offerings up toward the monastery, and the smell of juniper incense carries down from the courtyard above.

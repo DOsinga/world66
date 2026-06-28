@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - walled_city
+score: 8.2
 ---
 
 The Delhi Gate is the eastern entrance to the Walled City — the gate from which the road historically led to Delhi. It is the best-preserved of Lahore's six surviving gates, with two squat octagonal turrets flanking a deep barrel-vaulted arch. Beyond it begins the **Royal Trail** (Shahi Guzargah), the restored bazaar route through to the fort.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Qingzhou-WhiteTower.jpg
 latitude: 42.2663
 loc_type: city
 longitude: 118.9221
+score: 6.18
+snippet: Southeastern Inner Mongolian city used as a base for the Hexigten UNESCO
+  Global Geopark landscapes.
 sources:
 - https://en.wikivoyage.org/wiki/Chifeng
 title: Chifeng

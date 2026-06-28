@@ -9,6 +9,7 @@ latitude: 33.9850
 longitude: 51.4492
 sources:
   - https://en.wikipedia.org/wiki/Bazaar_of_Kashan
+score: 8.8
 ---
 
 The Bazaar of Kashan is one of the best-preserved historic bazaars in Iran, a continuous network of vaulted brick corridors running for several kilometres through the old city. It dates largely from the Safavid period, though its origins are older, and it connects the Jameh Mosque, the Agha Bozorg complex, the Amin od-Dowleh caravanserai, and the surrounding residential quarters into a single walkable whole.

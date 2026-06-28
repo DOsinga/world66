@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Renaissance palace housing the city museum, with works tied to the Burgundian and Habsburg court
+score: 8.9
 ---
 
 Hieronymus van Busleyden was a wealthy humanist and patron of Erasmus, and his palace — built between 1503 and 1517 — is one of the earliest and finest Renaissance buildings in the Low Countries. It now houses the city museum, which makes very good use of the space.

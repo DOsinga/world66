@@ -10,6 +10,7 @@ story: >
   Renovation work in the 1990s uncovered an entire neighbourhood of Roman and
   Byzantine Beirut beneath the cathedral floor — now displayed on illuminated
   walkways below the nave.
+score: 8.5
 ---
 
 Standing right beside the Mohammad Al-Amin Mosque, the Greek Orthodox Cathedral of St. George is Beirut's oldest standing church. The current building dates from the 18th century, but it sits on the ruins of a 5th-century basilica.

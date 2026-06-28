@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Welland_Canal_Memorial_Mon
 latitude: 42.9922
 loc_type: city
 longitude: -79.2484
-score: 0.34
+score: 5.97
+snippet: Niagara Region canal city where ocean-going ships pass through locks in the
+  middle of town.
 title: Welland
 type: location
 ---

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, cycling]
 latitude: 52.5025
 longitude: 4.9615
+score: 8.1
 ---
 
 The Waterlandroute is one of the finest day rides in the Amsterdam region, linking Purmerend to Amsterdam through a landscape that feels improbably unchanged given its proximity to one of Europe's most visited cities. The route runs roughly 20 kilometres south through the Waterland nature area: flat polder fields stitched together by narrow drainage ditches, wooden farmhouses painted in the dark greens and browns that Dutch farmers favour, and grazing cattle standing knee-deep in grass so vivid it seems almost theatrical. The sky here is enormous, and the light over the polders on a clear afternoon justifies every landscape painting produced in the Netherlands since the seventeenth century.

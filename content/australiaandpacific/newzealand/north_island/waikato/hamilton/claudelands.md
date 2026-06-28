@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: Riverside suburb east of the Waikato River with parkland and event venues
+score: 5.6
 ---
 
 Claudelands is the suburb directly across the Waikato River from central Hamilton, connected to the city by the Claudelands Bridge. It has a quiet, residential feel quite different from the city centre — most of the area is parkland, with walking and cycling tracks running along the river and through the Claudelands Reserve.

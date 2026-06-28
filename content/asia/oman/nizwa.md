@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nizwa_(7).jpg
 latitude: 22.932388
 loc_type: city
 longitude: 57.5311
-score: 0.59
+score: 8.55
+snippet: Omani interior city beneath the Hajar Mountains, centred on a great fort
+  and old souq.
 title: Nizwa
 type: location
 ---

@@ -5,7 +5,9 @@ done:
 latitude: 54.3713
 loc_type: city
 longitude: -2.9211
-score: 0.61
+score: 8.24
+snippet: Lake District base on Windermere, practical for boat trips, piers, and Victorian
+  tourism.
 title: Bowness
 type: location
 ---

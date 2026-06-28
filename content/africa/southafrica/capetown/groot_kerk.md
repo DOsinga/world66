@@ -1,13 +1,12 @@
 ---
-category: Religious
 latitude: -33.9242
 longitude: 18.42
-neighbourhood: City Bowl
+score: 8.1
 scores:
   activities: 0.5592
   sight: 0.6055
   sightseeing: 0.6257
-snippet: The mother church of the Dutch Reformed Church in South Africa
+snippet: Mother church of the Dutch Reformed Church in South Africa
 tags:
 - things_to_do
 - sight

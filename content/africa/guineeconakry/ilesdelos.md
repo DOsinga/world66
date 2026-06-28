@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Iles_de_Los_Map.jpg
 latitude: 9.483104
 loc_type: city
 longitude: -13.826735
-score: 0.4
+score: 5.99
+snippet: Guinean island archipelago off Conakry, offering pirogue crossings, beach
+  villages, and quieter Atlantic air.
 title: Iles de Los
 type: location
 ---

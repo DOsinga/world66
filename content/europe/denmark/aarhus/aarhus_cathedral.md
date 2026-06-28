@@ -6,6 +6,7 @@ latitude: 56.1569
 longitude: 10.2122
 story: >
   The cathedral was largely stripped of its Catholic decoration during the Reformation in 1536 — but a series of frescoes behind the altar walls were simply whitewashed over rather than destroyed. When the whitewash was removed in the twentieth century, they emerged in extraordinary condition: vivid scenes of saints and biblical stories in blues, reds, and ochres, untouched for four centuries.
+score: 8.4
 ---
 
 Aarhus Cathedral is Denmark's longest church and the tallest building in the city. Construction began in 1201, making it one of the oldest buildings in Aarhus, and the building was modified and extended over the following three centuries. The result is a mix of Romanesque foundations and Gothic elevations, with a remarkable collection of medieval frescoes covering the vaults and choir — more than in any other Danish cathedral.

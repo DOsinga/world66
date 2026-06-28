@@ -1,11 +1,13 @@
 ---
 latitude: 35.0064
 longitude: 135.7669
+score: 7.7
 snippet: Long covered shopping arcade running north from Shijō
 tags:
 - things_to_do
 - shopping
 - sight
+- nishiki
 title: Teramachi-dōri
 type: poi
 ---

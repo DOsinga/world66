@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 18.9600
 longitude: -69.0200
+score: 7.4
 ---
 
 Playa Esmeralda is a quieter beach north of Miches town, named for the shade of green the shallow water takes on certain days. It is less dramatic than Playa Limón but more accessible from town and has a handful of local restaurants and beach shacks serving fresh fish.

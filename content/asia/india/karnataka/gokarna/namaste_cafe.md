@@ -7,6 +7,7 @@ tags:
   - bar
 title: Namaste Cafe
 type: poi
+score: 5.5
 ---
 
 The most established of the Om Beach shack cafes, Namaste Cafe has been a fixture for backpackers since the 1990s. It sits right on the sand with a palm-leaf roof and hammocks strung between posts, serving the standard Gokarna menu of banana pancakes, hummus, pasta, fresh fish, and chai from early morning until late. The filter coffee is particularly good.

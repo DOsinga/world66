@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The Timisoara Garrison Command (Cazinoul Militar) is a long Eclectic palace on the eastern side of Victory Square, completed in 1885. The building has served continuously as the military officers' club for the local garrison since it opened, originally for the Habsburg army and now for the Romanian forces. Its ornate ballroom and reception rooms were among the city's main social venues through the late 19th century.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Saint Nicholas Church is the main parish church of central Örebro, a medieval Gothic structure that has been rebuilt and expanded several times since its founding in the 13th century. The tower dates from the 15th century and is the most prominent historical element; the nave was substantially altered in the 19th century.

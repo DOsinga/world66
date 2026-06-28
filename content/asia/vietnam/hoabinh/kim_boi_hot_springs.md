@@ -9,6 +9,7 @@ longitude: 105.4833
 sources:
   - https://www.vinpearl.com/en/hoa-binh-vietnam-an-ultimate-guide-for-first-time-travelers
   - https://www.originvietnam.com/destinations/hoa-binh/
+score: 5.8
 ---
 
 The Kim Boi hot springs, in the valley below the Muong hills about 55 km from Hoa Binh city, are among the best-known mineral baths in northern Vietnam. The springs produce alkaline water at around 35–36°C, with a faint sulphur smell but a clean taste — locals drink it as well as bathe in it. Several resorts and bath houses have grown up around the springs; the more modest public pools charge a few dollars entry and are perfectly adequate.

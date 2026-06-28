@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - decorative_arts
+score: 7.7
 ---
 
 The Musée Ariana occupies a grand neo-Baroque villa adjacent to the Palais des Nations, donated to the city by its builder, the art collector Gustave Revilliod, who also bequeathed it his entire collection. The museum now holds around 25,000 objects tracing the history of ceramics and glass from antiquity to the present day — Chinese, Japanese, Islamic, and European examples are all represented, along with a good collection of Swiss and Geneva faience.

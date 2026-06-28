@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.993
 longitude: 23.242
+score: 6.2
 ---
 
 Hullo is the administrative centre of Vormsi and, with a permanent population of around eighty, the closest the island has to a village. Most of what travellers need is here: the church and graveyard, a small museum in the former parsonage, a guesthouse or two, and the only shop on the island.

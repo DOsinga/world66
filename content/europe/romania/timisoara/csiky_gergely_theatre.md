@@ -6,6 +6,7 @@ longitude: 21.2264
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Csiky Gergely Hungarian State Theatre shares the Opera and National Theatre building on Victory Square, performing in the smaller hall on the upper floors. Founded in 1953, it is one of only two state-funded Hungarian-language professional theatres in Romania (the other is in Cluj) and a key cultural institution for the city's substantial Hungarian-speaking population.

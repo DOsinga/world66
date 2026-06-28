@@ -6,6 +6,7 @@ longitude: 14.1894
 tags:
   - things_to_do
   - museum
+score: 8.4
 ---
 
 A small modern museum adjacent to the memorial site, opened in 2006, that tells the story of the village before, during, and after the massacre. The exhibition is unsentimental and rigorous: prewar photographs of ordinary Lidice families, footage shot by the Nazis of the destruction itself, the resettlement of the surviving women after 1945, and the painstaking postwar search for the children sent to German families.

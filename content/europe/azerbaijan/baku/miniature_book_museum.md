@@ -8,6 +8,7 @@ tags:
   - museum
   - icherisheher
 story: "The museum was the lifelong project of Zarifa Salahova, who began collecting in the 1980s and amassed more than six thousand books from sixty-four countries — the largest such collection in the world. It is the only museum of its kind to be officially recognised by Guinness World Records."
+score: 6.5
 ---
 
 Tucked into a small building in the Old City, the Museum of Miniature Books is one of the more unexpected places to spend half an hour in Baku. It houses thousands of pocket-sized and matchbox-sized books — Shakespeare, the Qur'an, Soviet propaganda, fairy tales — many of them readable only with the magnifying glass thoughtfully supplied at each case.

@@ -8,6 +8,7 @@ snippet: Hands-on science museum on the lakefront, with a NASA Glenn outpost
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The Great Lakes Science Center is a 165,000-square-foot lakefront museum next door to the Rock and Roll Hall of Fame. The permanent exhibits cover physics, biology, and Great Lakes ecology, and the building shares a campus with the NASA Glenn Research Center's visitor outpost — which houses, among other things, the Apollo Skylab 3 command module that flew in 1973.

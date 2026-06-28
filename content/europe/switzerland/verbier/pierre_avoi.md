@@ -7,6 +7,7 @@ tags:
 title: Pierre Avoi
 type: poi
 snippet: 2,473-metre rocky outcrop with a steel ladder to the summit
+score: 8.1
 ---
 
 A striking limestone tooth on the ridge between Verbier and the Rhône Valley. The summit is reached by a steel staircase and a final fixed ladder bolted to the rock — straightforward in dry conditions and an exhilarating end to an otherwise easy hike from La Croix de Coeur.

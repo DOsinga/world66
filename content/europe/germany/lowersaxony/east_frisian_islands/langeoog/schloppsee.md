@@ -13,6 +13,7 @@ story: >
   falling slightly even though the lake has no direct connection to the sea.
   The Schloppsee is one of the best examples of this phenomenon on the East
   Frisian Islands.
+score: 6.2
 ---
 
 The Schloppsee is a small freshwater lake tucked into the dune belt east of the village, reached by a pleasant walk through the national park. It is about 150 by 200 metres, surprisingly deep for its size — up to 12 metres in places — and surrounded by reeds and low dune scrub that make it feel hidden even when you are standing at its edge.

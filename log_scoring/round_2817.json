@@ -1,0 +1,200 @@
+{
+  "round": 2817,
+  "timestamp": "2026-06-13T22:09:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ciudad Perdida",
+      "path": "southamerica/colombia/ciudadperdida",
+      "prior_score": 5.6418,
+      "prior_variance": 0.20644,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.6603,
+      "prior_variance": 0.175848,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.1249,
+      "prior_variance": 0.168881,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Montepulciano",
+      "path": "europe/italy/tuscany/montepulciano",
+      "prior_score": 6.911,
+      "prior_variance": 0.19641,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 1.441,
+      "prior_variance": 0.158346,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": -0.1117,
+      "prior_variance": 0.182731,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 2.3431,
+      "prior_variance": 0.135717,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.7022,
+      "prior_variance": 0.140044,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Ordino",
+      "path": "europe/andorra/ordino",
+      "prior_score": 1.742,
+      "prior_variance": 0.16101,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 1.7423,
+      "prior_variance": 0.166258,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 2.0208,
+      "prior_variance": 0.155264,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 0.7606,
+      "prior_variance": 0.141071,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 0.3144,
+      "prior_variance": 0.183704,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 4.2186,
+      "prior_variance": 0.205497,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.4486,
+      "prior_variance": 0.166713,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 2.0043,
+      "prior_variance": 0.188238,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 2.8691,
+      "prior_variance": 0.174384,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/gloucestershire/tewkesbury",
+      "prior_score": 0.7577,
+      "prior_variance": 0.156168,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.7849,
+      "prior_variance": 0.149317,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.0746,
+      "prior_variance": 0.167315,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.9682,
+      "prior_variance": 0.21127,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": -0.2606,
+      "prior_variance": 0.168226,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -1.9142,
+      "prior_variance": 0.19581,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -11.9056,
+      "prior_variance": 0.504465,
+      "prior_n": 8
+    }
+  ]
+}

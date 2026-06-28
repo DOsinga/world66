@@ -1,0 +1,200 @@
+{
+  "round": 2364,
+  "timestamp": "2026-06-13T21:37:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 12.6055,
+      "prior_variance": 0.522014,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 12.4346,
+      "prior_variance": 0.427273,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 4.4443,
+      "prior_variance": 0.203635,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 3.515,
+      "prior_variance": 0.21022,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 3.4388,
+      "prior_variance": 0.183232,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 2.9342,
+      "prior_variance": 0.181013,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_score": 3.4457,
+      "prior_variance": 0.183363,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.5046,
+      "prior_variance": 0.210547,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 4.7647,
+      "prior_variance": 0.226764,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 3.9153,
+      "prior_variance": 0.2016,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Esperance",
+      "path": "australiaandpacific/australia/westernaustralia/esperance",
+      "prior_score": 3.537,
+      "prior_variance": 0.198061,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -1.1016,
+      "prior_variance": 0.2399,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 3.5806,
+      "prior_variance": 0.211564,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -2.5846,
+      "prior_variance": 0.235923,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -0.2015,
+      "prior_variance": 0.168878,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": -0.1384,
+      "prior_variance": 0.148519,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -3.843,
+      "prior_variance": 0.202197,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.842,
+      "prior_variance": 0.186283,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.9968,
+      "prior_variance": 0.171243,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -2.2574,
+      "prior_variance": 0.179898,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.9405,
+      "prior_variance": 0.169452,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.9319,
+      "prior_variance": 0.173855,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.5952,
+      "prior_variance": 0.213341,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -2.5153,
+      "prior_variance": 0.192134,
+      "prior_n": 8
+    }
+  ]
+}

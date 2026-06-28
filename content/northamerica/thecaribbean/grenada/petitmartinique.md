@@ -4,6 +4,9 @@ done:
 latitude: 12.518
 loc_type: island
 longitude: -61.385
+score: 7.28
+snippet: Tiny Grenadian volcanic island with boatbuilding traditions, fishing life,
+  and views across the Grenadines.
 sources:
 - https://en.wikipedia.org/wiki/Petite_Martinique
 - https://www.puregrenada.com/about-petite-martinique/

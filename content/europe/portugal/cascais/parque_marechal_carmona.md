@@ -5,6 +5,7 @@ tags: [things_to_do, sight, park]
 latitude: 38.6930
 longitude: -9.4222
 snippet: "Large municipal park with peacocks, ducks, and a small petting zoo"
+score: 6.4
 ---
 
 The Marechal Carmona Park is Cascais's central green space, a generous landscaped park immediately behind the Palácio dos Condes de Castro Guimarães. Old palm trees, dragon trees, plane trees, and rose gardens are organised around winding paths, with a duck pond, a children's playground, and a small petting zoo with peacocks, rabbits, and donkeys.

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 41.4750
 longitude: -82.6850
+score: 6.4
 ---
 
 The 1-mile sandy beach on the south side of the Cedar Point peninsula is included with park admission and is far less busy than the rides — most coaster fans never wander out to it. The water of Lake Erie is shallow and warms up nicely by July; lifeguards are on duty in summer.

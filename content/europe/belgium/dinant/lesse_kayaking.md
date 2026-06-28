@@ -1,13 +1,16 @@
 ---
 address: Anseremme, 5500 Dinant
 latitude: 50.2383
-loc_type: feature
 longitude: 4.9056
+score: 8.0
 snippet: Half-day kayak descent of the River Lesse from Houyet
 tags:
 - things_to_do
 - sight
+- kayaking
+- river
 title: Kayaking on the Lesse
+type: poi
 ---
 
 The most popular outdoor activity in the Dinant area: a kayak descent of the River Lesse from Houyet (or Gendron) downstream to Anseremme, where the Lesse joins the Meuse. Half-day or full-day trips run between Easter and late September. Two-seater kayaks are the standard; the route is gentle, the rapids small, and the scenery — passing directly below Walzin Castle, through the Lesse gorges — is excellent.

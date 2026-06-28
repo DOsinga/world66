@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.9633
 longitude: -90.0667
+score: 8.5
 ---
 
 Tremé — pronounced Treh-MAY — is the oldest African American neighbourhood in the United States and the birthplace of jazz. It lies just across Rampart Street from the French Quarter, a few blocks that most tourists never cross, which means it retains a genuine neighbourhood character that the Quarter lost long ago. The streets are quieter, the houses are smaller, and on a Sunday afternoon you might hear a brass band practising a few doors down.

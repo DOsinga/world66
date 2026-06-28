@@ -12,6 +12,7 @@ tags:
 title: Michigan State Capitol
 type: poi
 story: "When the building was being designed in the 1870s, the architect Elijah E. Myers used the same plans to win three state capitol commissions — Michigan, Texas, and Colorado. All three buildings share the same basic form. Michigan was first to finish, and is the one where the original Victorian painted interior survives largely intact."
+score: 8.7
 ---
 
 Michigan's State Capitol, completed in 1879, is one of the finest examples of Victorian painted interior decoration in the United States. The exterior — a tall white-stone dome modelled on the U.S. Capitol — is restrained, but the interior is a riot of stencilled colour: nine acres of hand-painted surfaces, more than 90,000 square feet of decoration, all faithfully restored in the 1990s.

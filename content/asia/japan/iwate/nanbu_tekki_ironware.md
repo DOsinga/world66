@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 39.7021
 longitude: 141.1535
+score: 6.9
 ---
 
 Nanbu Tekki — cast-iron ware from the Morioka area — is one of the great regional crafts of Japan, produced here for over 400 years. The technique was brought to Morioka by the Nambu clan, who attracted skilled ironsmiths from Kyoto to create ceremonial vessels and teakettles for the castle town. The distinctive *tetsubin* iron teakettle, with its patterned exterior and dense, rust-resistant interior, has become an international design icon.

@@ -6,6 +6,7 @@ longitude: 114.2856
 tags:
   - eating_out
   - restaurant
+score: 6.9
 ---
 
 Sijimei is a Wuhan dumpling house famous for tangbao — soup dumplings — and one of the city's most loved old restaurants. Founded in 1922 on Jianghan Road, it has been making the same handful of dishes ever since: pork tangbao, crab roe tangbao, the small steamed sticky-rice cakes called ouxiang gao, and a substantial wonton soup.

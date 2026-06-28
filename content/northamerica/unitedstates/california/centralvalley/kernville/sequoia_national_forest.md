@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.4
 ---
 
 Sequoia National Forest covers the wooded mountains north and west of Kernville and is the closest big wilderness to the town. The forest is not the same thing as Sequoia National Park (which lies further north), but it does protect groves of giant sequoia — the **Trail of 100 Giants** loop in the Long Meadow Grove is the easiest place to see them, an hour's drive up the Western Divide Highway from Kernville.

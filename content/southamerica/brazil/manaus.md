@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Manaus_amazonas.jpg
 latitude: -3.131633
 loc_type: city
 longitude: -59.982504
-score: 0.52
+score: 8.16
+snippet: Amazon river city at the Negro and Solimões meeting point, built on rubber-boom
+  wealth.
 title: Manaus
 type: location
 ---

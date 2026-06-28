@@ -9,6 +9,7 @@ latitude: 27.9225
 longitude: 78.0756
 story: >
   AMU was founded by Sir Syed Ahmad Khan in 1875 as the Muhammadan Anglo-Oriental College, with the explicit goal of bringing Western-style scientific education to Indian Muslims while preserving Islamic traditions. Sir Syed's argument — that Muslims needed to engage with modern education to participate in India's future — was controversial in his time. His experiment worked: the university became one of the most important in South Asia, producing prime ministers, scholars, lawyers and scientists across the subcontinent.
+score: 8.1
 ---
 
 Aligarh Muslim University is one of the oldest and most significant universities in South Asia, and its campus is the main reason a traveller would come to Aligarh. Founded in 1875 and granted university status in 1920, it now enrolls over 30,000 students across faculties of science, law, medicine, theology, arts and engineering.

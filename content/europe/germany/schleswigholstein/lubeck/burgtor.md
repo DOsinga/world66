@@ -7,6 +7,7 @@ snippet: The northern gatehouse to the Altstadt, less famous than the Holstentor
 tags:
 - things_to_do
 - sight
+score: 7.1
 ---
 
 The Burgtor is the other surviving medieval city gate of Lübeck, at the northern end of the Altstadt island. Built in 1444, it is older than its more famous western sibling the Holstentor but rarely as crowded. The brick tower rises three storeys above a vaulted passage cut through the medieval defensive wall.

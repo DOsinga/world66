@@ -7,6 +7,7 @@ tags:
 title: Big-Game Fishing
 type: poi
 story: "Bimini sits on the edge of the deep blue water of the Gulf Stream, which runs between Florida and the Bahamas — within a mile of the harbour the bottom drops to over 600 metres. Hemingway caught his first marlin here in 1935 and the Bimini Big Game Club has run the same world-record-class waters ever since."
+score: 8.5
 ---
 
 Big-game fishing is what put Bimini on the map. The drop-off east of the islands brings deep-water pelagic fish — blue marlin, white marlin, sailfish, mahi-mahi, yellowfin and bluefin tuna, wahoo — within minutes of leaving the harbour. The Bimini Big Game Club, founded in 1936, still runs charter boats and hosts a calendar of annual tournaments.

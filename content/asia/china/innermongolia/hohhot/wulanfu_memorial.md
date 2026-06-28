@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 40.8142
 longitude: 111.6352
+score: 6.8
 ---
 
 Ulanhu (Ulanfu in older transliteration) was the founding chairman of the Inner Mongolia Autonomous Region, established in 1947, and one of the most significant ethnic Mongolian political figures in modern Chinese history. The memorial hall dedicated to him, near central Hohhot, covers his biography and political career — he navigated the relationship between Chinese Communist Party authority and Mongolian cultural autonomy over several decades, with complicated results. The Cultural Revolution was particularly harsh on him and the Mongolian people he represented.

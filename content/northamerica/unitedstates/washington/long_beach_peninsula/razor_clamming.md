@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 8.5
 ---
 
 Digging razor clams on the Pacific beach at low tide is one of the defining experiences of the Long Beach Peninsula and something of a ritual for generations of Washington families. The Washington Department of Fish and Wildlife opens specific clamming days at low tide between October and April based on population surveys; check the WDFW website before visiting as dates change each season.

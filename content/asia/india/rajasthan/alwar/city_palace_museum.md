@@ -14,6 +14,7 @@ story: >
   ceremonial howdah (elephant seat) encrusted with silver and gold that was used
   by the maharajas on state occasions, and a stuffed tiger shot by the British
   viceroy Lord Curzon during a famous 1899 hunt in the area.
+score: 8.1
 ---
 
 The City Palace of Alwar was built in 1793 by Raja Bakhtawar Singh and is a handsome amalgam of Rajputana and Islamic architectural styles — arched pavilions, marble inlay, and intricately painted interiors. The lower floors of the palace complex house the government museum, which is one of the better regional collections in Rajasthan and rarely crowded.

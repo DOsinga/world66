@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_Streymoy,_K
 latitude: 61.9537
 loc_type: city
 longitude: -6.7934
-score: 0.55
+score: 8.08
+snippet: Historic Streymoy village with medieval church ruins and one of the Faroe
+  Islands' oldest farmhouses.
 title: Kirkjubour
 type: location
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Cafe_des_delices_in_Sidi_B
 latitude: 36.871094
 loc_type: city
 longitude: 10.349052
-score: 0.6
+score: 8.57
+snippet: Clifftop Tunisian village above the Gulf of Tunis, famous for protected blue-and-white
+  architecture.
 title: Sidi bou said
 type: location
 ---

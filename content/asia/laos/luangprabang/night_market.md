@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market, shopping]
 latitude: 19.8895
 longitude: 102.1345
+score: 7.7
 ---
 
 Every evening, the main street of the old town — Sisavangvong Road — closes to traffic and fills with stalls selling handicrafts, textiles, and souvenirs. The Luang Prabang night market is one of the better craft markets in Southeast Asia, with genuine quality among the tourist tat: hand-woven silk and cotton scarves, mulberry paper products, silver jewellery, indigo-dyed cloth, and bamboo basketware.

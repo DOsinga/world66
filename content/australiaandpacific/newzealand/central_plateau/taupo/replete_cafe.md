@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -38.6861
 longitude: 176.0698
+score: 5.4
 ---
 
 A reliable café and deli on Roberts Street in the centre of town, Replete is a local favourite for breakfast and lunch. The cabinet food is made fresh daily — good pies, substantial sandwiches, and seasonal salads — and the coffee is among the best in Taupo. The dining room is small and fills quickly on weekends.

@@ -13,6 +13,7 @@ story: >
   people. Local legend says that if you sit on the space bar and make a wish, it will come
   true. On warm evenings in summer, every key is occupied by someone, and the Enter key
   is popular for photographs.
+score: 7.1
 ---
 
 The Keyboard Monument is a full-size replica of a QWERTY keyboard laid flat on the bank of the Iset River, cast in concrete and weighing about a thousand kilograms. The 86 keys are spread across 16 square metres — a walkable keyboard that visitors inevitably type their names on, stepping from letter to letter. It is one of those civic objects that is simultaneously absurd and completely lovable.

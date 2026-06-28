@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.5761
 longitude: -3.2203
+score: 6.9
 ---
 
 A three-day festival held each year in late July on the green between the castle and the town, dedicated to Caerphilly cheese and to a slightly anarchic mix of medieval re-enactment, falconry, fire shows, Welsh choral singing and craft stalls. Free to enter, around 80,000 people attend across the weekend, and the town effectively closes down to make room.

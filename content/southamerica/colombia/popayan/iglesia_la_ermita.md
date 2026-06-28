@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Oldest church in town, dating from 1546"
+score: 7.7
 ---
 
 The Ermita de Jesús Nazareno is the oldest standing church in Popayán, founded just nine years after the city itself. A small, single-nave building with whitewashed walls and a low bell tower; the simplicity is the point — this is what colonial churches looked like before gold and ambition turned them into baroque set-pieces.

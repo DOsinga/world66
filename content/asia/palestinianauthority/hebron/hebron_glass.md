@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.5295
 longitude: 35.1055
+score: 7.0
 ---
 
 Hebron has been a centre of glassblowing since at least the medieval period, and the craft survives in several workshops near the old city. The tradition produces hand-blown glass in deep cobalt blue, turquoise, and amber — colours that come from metal oxides added to the molten mix. The process is essentially unchanged from centuries ago: a craftsman gathers a blob of molten glass on a long iron pipe, blows to form a bubble, and shapes it by rotating and swinging while still hot.

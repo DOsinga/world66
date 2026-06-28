@@ -7,6 +7,7 @@ tags:
 latitude: 33.5078
 longitude: 36.3017
 snippet: Distinctive 16th-century mosque with a green-tiled minaret
+score: 6.8
 ---
 
 A late-Ottoman mosque just south of the Old City, easy to spot because of its unusual green-tiled minaret rising slim and elegant above the surrounding low buildings. The mosque was completed in 1591 for Sinan Pasha, the Ottoman governor of Damascus, in the typical Ottoman style with a single dome over the prayer hall.

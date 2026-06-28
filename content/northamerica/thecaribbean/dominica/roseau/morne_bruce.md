@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 15.299166666666666
 longitude: -61.37861111111111
+score: 7.8
 ---
 
 Morne Bruce is the steep green hill that rises immediately behind Roseau, named for an eighteenth-century British army engineer who built the original fort on its slope. A 20-minute walk from the Botanic Gardens through a steep palm-shaded trail brings you to the top, where a cross (the "Cross of Morne Bruce") and a long stone wall mark the lookout point.

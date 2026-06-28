@@ -9,6 +9,7 @@ longitude: -106.6598
 address: 4803 Rio Grande Blvd NW, Albuquerque, NM 87107
 phone: (505) 242-8800
 snippet: Farm-to-table restaurant in the Los Poblanos fields, emphasising New Mexican produce
+score: 7.2
 ---
 
 Campo is the restaurant at Los Poblanos Historic Inn, a working lavender farm and heritage property in the Rio Grande bosque north of Old Town. The setting — a 1930s Spanish Colonial hacienda surrounded by fields — is the most atmospheric dining environment in Albuquerque. The kitchen works closely with the farm and sources heavily from New Mexico producers, resulting in menus that feel genuinely of this place rather than generic upscale Southwest.

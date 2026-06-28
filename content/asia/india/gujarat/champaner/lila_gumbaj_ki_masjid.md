@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Lila Gumbaj ki Masjid
 type: poi
+score: 6.9
 ---
 
 Lila Gumbaj ki Masjid is another of the atmospheric mosque ruins spread across Champaner. Its name, often rendered Green Dome Mosque, hints at colour now mostly replaced by weathered stone and open sky.

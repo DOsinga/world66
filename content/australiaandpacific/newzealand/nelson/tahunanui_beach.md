@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -41.2885
 longitude: 173.2406
+score: 5.8
 ---
 
 Tahunanui is Nelson's main town beach, a long curve of pale sand on Tasman Bay backed by dunes and a reserve. The water is shallow for a long way out, which makes it safe for children and easy for paddling, but means swimming for serious adults requires patience or low tide.

@@ -7,6 +7,7 @@ tags:
   - boat_trip
 latitude: 20.7300
 longitude: 86.8300
+score: 5.3
 ---
 
 Khola is another important entry point into the Bhitarkanika creek system. From here boats push into the mangroves, where the landscape quickly becomes water, roots, birds, and mudbanks.

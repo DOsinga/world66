@@ -11,6 +11,7 @@ longitude: 8.7947
 sources:
   - https://en.wikipedia.org/wiki/Masnago
   - https://en.wikipedia.org/wiki/Villa_Baragiola
+score: 7.0
 ---
 
 Varese earned its reputation as the "Garden City" during the late nineteenth and early twentieth centuries, when wealthy Milanese industrialists built summer villas in the hills above the city. Many were designed in the Liberty style — the Italian version of Art Nouveau — with ornate ironwork, tiled facades, and gardens that spilled down the terraced hillsides.

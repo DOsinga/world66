@@ -15,6 +15,7 @@ story: >
   last African rulers to die in direct combat against foreign invaders. His body
   was decapitated, and his head was taken to Khartoum as a trophy. The palace he
   built in Mekele stands today as his most tangible legacy.
+score: 7.8
 ---
 
 Emperor Yohannes IV chose Mekele as the seat of his government and built this graceful stone palace in the 1870s. The two-storey structure, built in a style blending local Tigrinya traditions with Italian-influenced stonework, served as the imperial residence during the years when Yohannes was consolidating Ethiopian power against Egyptian and later Mahdist threats.

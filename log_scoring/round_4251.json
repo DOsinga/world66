@@ -1,0 +1,200 @@
+{
+  "round": 4251,
+  "timestamp": "2026-06-13T23:57:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 0.4457,
+      "prior_variance": 0.152804,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 2.4329,
+      "prior_variance": 0.1082,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.0924,
+      "prior_variance": 0.094098,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Amasya",
+      "path": "asia/turkey/amasya",
+      "prior_score": 3.0698,
+      "prior_variance": 0.101632,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.7434,
+      "prior_variance": 0.097229,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -1.3952,
+      "prior_variance": 0.121107,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 1.8271,
+      "prior_variance": 0.095529,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.5191,
+      "prior_variance": 0.121003,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 0.9126,
+      "prior_variance": 0.096381,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 2.0305,
+      "prior_variance": 0.096323,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": -0.5212,
+      "prior_variance": 0.106899,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Thiruvananthapuram",
+      "path": "asia/india/kerala/thiruvananthapuram",
+      "prior_score": 1.6653,
+      "prior_variance": 0.094914,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": 0.0421,
+      "prior_variance": 0.115861,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_score": 0.8248,
+      "prior_variance": 0.100934,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.9443,
+      "prior_variance": 0.090215,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/widecombe",
+      "prior_score": 0.9461,
+      "prior_variance": 0.090695,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_score": 0.5234,
+      "prior_variance": 0.086056,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -2.8471,
+      "prior_variance": 0.093732,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Shaoguan",
+      "path": "asia/china/guangdong/shaoguan",
+      "prior_score": -3.0504,
+      "prior_variance": 0.091357,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.2836,
+      "prior_variance": 0.11398,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -6.2893,
+      "prior_variance": 0.137443,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -4.8766,
+      "prior_variance": 0.111903,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -5.6011,
+      "prior_variance": 0.117372,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/consett",
+      "prior_score": -5.3096,
+      "prior_variance": 0.121128,
+      "prior_n": 14
+    }
+  ]
+}

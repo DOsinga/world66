@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - park
+score: 7.8
 ---
 
 The largest inland marsh in Italy stretches south from Monsummano towards the Arno valley — around 1,800 hectares of reedbeds, water channels and seasonal pools, recognised as a Site of European Community Importance. The marshes are a key wintering ground for herons, egrets, ducks and the occasional flamingo, and in spring host nesting purple herons and night herons.

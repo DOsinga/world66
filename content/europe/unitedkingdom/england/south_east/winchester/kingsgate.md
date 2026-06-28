@@ -11,6 +11,7 @@ story: >
   Above the arch of Kingsgate sits the tiny Church of St Swithun-upon-Kingsgate — a church literally built into a medieval city gate, with its floor at first-floor level above the road. St Swithun, the 9th-century Bishop of Winchester, gave his name to the saying that if it rains on 15 July (his feast day), it will rain for forty more days — a legend associated with his remains being moved in AD 971.
 sources:
   - https://en.wikipedia.org/wiki/Kingsgate,_Winchester
+score: 7.3
 ---
 
 Kingsgate is one of two surviving medieval gates of Winchester's city walls, and it carries a remarkable extra structure: the miniature Church of St Swithun-upon-Kingsgate, perched directly above the archway. The combination of gate and church dates from the medieval period, and both are still in their original use — the gate still admits vehicles and pedestrians, and the church holds occasional services.

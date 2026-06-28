@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.9430
 longitude: -80.1043
+score: 8.7
 ---
 
 The Loxahatchee River is Florida's only federally designated Wild and Scenic River, a status it earned for the remarkable stretch of blackwater cypress swamp that winds through Riverbend Park west of Jupiter. Where the Loxahatchee enters the Atlantic at Jupiter Inlet, it is wide and busy with boat traffic; further inland, it narrows into a tannin-dark channel beneath canopies of ancient cypress and strangler fig, with alligators on the banks and anhingas drying their wings in the morning sun.

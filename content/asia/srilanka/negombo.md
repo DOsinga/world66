@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Negombo_Beach_resort_pool_
 latitude: 7.2096
 loc_type: city
 longitude: 79.8356
-score: 0.56
+score: 8.05
+snippet: Sri Lankan coastal town near the international airport, marked by Dutch canals,
+  lagoon life, and Catholic churches.
 title: Negombo
 type: location
 ---

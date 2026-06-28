@@ -7,6 +7,7 @@ tags:
 - religion
 title: Azizyie Mosque
 type: poi
+score: 7.2
 ---
 
 The Azizyie Mosque was built in 1863 under the late Ottoman rule of Dobruja, named after Sultan Abdülaziz. It is a modest, square-plan stone building with a single slender minaret — far from the grand imperial mosques of Istanbul, but a reminder that Tulcea was a multicultural Ottoman port for centuries before it became Romanian.

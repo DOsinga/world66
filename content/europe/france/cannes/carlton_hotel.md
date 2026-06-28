@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Carlton_Cannes_Hotel
 story: >
   The two domed towers at either end of the Carlton's facade were supposedly modelled on the breasts of La Belle Otéro, a famous Belle Époque courtesan and casino regular who was a regular guest when the hotel opened in 1911. Whether the story is true or apocryphal, the architect Henri Ruhl has never confirmed it — but it has been repeated so often it has become part of the hotel's mythology.
+score: 6.8
 ---
 
 The Carlton is the most famous hotel on the Croisette and one of the most recognisable buildings in France — a white Beaux-Arts wedding cake at 58 La Croisette, open since 1911. During the film festival it is the epicentre of the industry: every suite is booked a year in advance, the terrace is a stage set, and the lobby bar operates at a level of intensity normally associated with trading floors.

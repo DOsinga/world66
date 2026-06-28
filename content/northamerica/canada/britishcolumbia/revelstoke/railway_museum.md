@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Outdoor museum celebrating the CPR's mountain division with restored locomotives and equipment
+score: 7.9
 ---
 
 The Canadian Pacific Railway made Revelstoke by pushing through Rogers Pass in the 1880s — before the railway, there was nothing here but a river crossing. The Railway Museum preserves that history with an impressive collection of restored equipment: steam locomotives, a business car from the 1890s, snowplows, and the massive rotary snowplow that kept the tracks open through Rogers Pass winters. The exhibits are outdoors and under cover alongside the original station.

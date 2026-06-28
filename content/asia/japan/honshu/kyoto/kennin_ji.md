@@ -1,11 +1,13 @@
 ---
 latitude: 34.9989
 longitude: 135.7741
+score: 8.5
 snippet: The oldest Zen temple in Kyoto, at the southern end of Gion
 tags:
 - things_to_do
 - temple
 - sight
+- higashiyama
 title: Kennin-ji
 type: poi
 ---

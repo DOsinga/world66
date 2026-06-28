@@ -9,6 +9,7 @@ title: Friends the Restaurant
 type: poi
 neighbourhood: Daun Penh
 snippet: Tapas-style training restaurant near the National Museum
+score: 7.5
 ---
 
 Romdeng's sister project, on Street 13 around the corner from the National Museum. Friends serves modern tapas — small plates fusing Cambodian and pan-Asian flavours — alongside fresh fruit shakes and a serious cocktail list. The crowd is mixed Khmer and foreign, the atmosphere relaxed and noisy, and the cooking consistently good.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5097
 longitude: -97.4974
+score: 6.5
 ---
 
 A small museum on Northeast 36th Street built around the relocated Florence fire station — the oldest surviving fire station in Oklahoma, dating from 1903 — and full of polished hand-drawn engines, horse-drawn steam pumpers, and uniforms from a century and a half of firefighting in the state. The collection includes equipment used at the Oklahoma City bombing in 1995.

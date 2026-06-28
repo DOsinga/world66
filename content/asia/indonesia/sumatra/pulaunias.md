@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_%27
 latitude: 1.0427
 loc_type: city
 longitude: 97.6452
-score: 0.46
+score: 7.0
+snippet: Indian Ocean island off Sumatra, known for stone villages, traditional houses,
+  warrior culture, and major surf breaks.
 title: Pulau Nias
 type: location
 ---

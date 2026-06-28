@@ -9,6 +9,8 @@ latitude: 30.421309
 loc_type: region
 longitude: -87.216915
 score: 0.51
+snippet: Florida Panhandle city of Spanish history, white Gulf beaches, naval aviation,
+  and Seville Square streets.
 title: Pensacola
 type: location
 ---

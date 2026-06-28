@@ -10,6 +10,7 @@ story: >
   The royal dining hall at Haghartsin — a separate building from the churches — was built in 1248 for the Zakarian princes. Its carved stone ceiling, supported on a single central column, shows an Armenian architectural ingenuity that predates comparable European vaulting by a generation. The hall still feels like a place where important meals happened.
 sources:
   - https://en.wikipedia.org/wiki/Haghartsin
+score: 9.0
 ---
 
 Haghartsin Monastery sits in a forested valley a few kilometres north of Dilijan, reached by a road that winds through beech and oak trees. The complex consists of three churches — Saint Gregory, Saint Stepanos, and the Cathedral of Saint Astvatsatsin — along with a 13th-century royal dining hall and a scattering of khachkars (cross-stones) that are among the finest examples of this distinctly Armenian art form. The main church dates to the 10th century; the complex was expanded by the Zakarian princes in the 12th and 13th centuries.

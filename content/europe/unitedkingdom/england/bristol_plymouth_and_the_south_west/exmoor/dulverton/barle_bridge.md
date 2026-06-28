@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 The five-arched stone bridge over the River Barle that leads into Dulverton from the south. The current bridge is medieval in origin, with later repairs after the great flood of 1952 swept much of it away. It is a Grade II* listed structure.

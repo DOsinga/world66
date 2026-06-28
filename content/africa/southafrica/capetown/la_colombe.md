@@ -2,6 +2,7 @@
 address: Silverhurst Estate, Main Road, Constantia
 latitude: -34.0295
 longitude: 18.4339
+score: 7.6
 scores:
   activities: 0.6891
   eating_out: 0.8756
@@ -9,6 +10,7 @@ snippet: French-inspired fine dining on a wine estate in Constantia
 tags:
 - eating_out
 - restaurant
+- newlands
 title: La Colombe
 type: poi
 ---

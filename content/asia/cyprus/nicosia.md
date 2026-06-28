@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Nicosia_01-2017_img14_View
 latitude: 35.17465
 loc_type: city
 longitude: 33.363878
-score: 0.56
+score: 7.93
+snippet: Divided Cypriot capital where Greek and Turkish quarters meet across the
+  Green Line inside Venetian walls.
 title: Nicosia
 type: location
 ---

@@ -17,6 +17,7 @@ story: >
   functions as part of that university's campus, teaching traditional
   scholarship within the same buildings where scholars debated philosophy
   a thousand years ago.
+score: 9.1
 ---
 
 Yuelu Academy, on the lower slopes of Yuelu Mountain on the west bank of the Xiang River, is one of the oldest and most celebrated educational institutions in China. Founded in 976 AD, it was a major centre of Confucian scholarship during the Song dynasty and continues to operate within the grounds of Hunan University — one of the few places in China where ancient academy architecture has survived continuously in its original function.

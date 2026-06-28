@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Torri_di_Bologna,_Bologna.
 latitude: 44.49382
 loc_type: city
 longitude: 11.342633
-score: 0.69
+score: 9.15
+snippet: Emilia-Romagna university city of porticoes, red roofs, medieval towers,
+  and famously rich food
 title: Bologna
 type: location
 ---

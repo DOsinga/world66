@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -6.3500
 longitude: 106.0667
+score: 6.3
 ---
 
 A handful of cold-water springs feed into a series of public bathing pools at Cikoromoy, a few kilometres south of Pandeglang town. The water comes out clear and cold from the volcanic rock under Mount Karang, and on weekends the place fills with local families.

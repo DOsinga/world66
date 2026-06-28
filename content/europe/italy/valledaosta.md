@@ -10,6 +10,8 @@ longitude: 7.387426
 score: 0.63
 title: Valle d'Aosta
 type: location
+snippet: High Alpine Italian region between Mont Blanc and the Great St Bernard Pass,
+  with French-Italian culture.
 ---
 
 Valle d'Aosta is Italy's smallest and highest region, wedged into the northwest corner of the country between the Mont Blanc massif and the Great St Bernard Pass. The mountains here are not background scenery — they are the point. Mont Blanc, the Matterhorn, Gran Paradiso, and the Monte Rosa massif all crowd the skyline, and the valley floor sits at over a thousand metres before the passes climb much higher.

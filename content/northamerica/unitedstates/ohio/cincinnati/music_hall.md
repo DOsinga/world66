@@ -10,6 +10,7 @@ latitude: 39.1094
 longitude: -84.5192
 story: >
   Music Hall was declared a National Historic Landmark in 1975, but by the 2010s its Victorian Gothic facade was deteriorating and its interior systems were failing. A $143 million restoration completed in 2017 returned the building to something better than its original state. During the restoration, excavations beneath the stage unearthed human bones — the building sits above a former paupers' cemetery and cholera victims' burial ground from the 1849 epidemic.
+score: 9.1
 ---
 
 Music Hall is one of the finest concert halls in America and the architectural centrepiece of Over the Rhine. The 1878 Victorian Gothic structure, with its elaborate terracotta ornament and twin towers, dominates the northern end of Washington Park. It is home to the Cincinnati Symphony Orchestra, the Cincinnati Pops, Cincinnati Opera, and Cincinnati Ballet — making it genuinely one of the most heavily used major concert halls in the country.

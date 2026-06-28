@@ -7,6 +7,7 @@ tags:
 latitude: 4.5969
 longitude: -74.0742
 snippet: "Bogota's colonial heart — cobblestones, painted houses, museums"
+score: 9.4
 ---
 
 La Candelaria is the old city, a tight grid of cobblestoned streets on the lower slopes of the Andes east of the city centre. Most of Bogota's museums, universities, and colonial churches crowd into this small district, which has changed relatively little in layout since the Spanish laid it out in the 16th century. The streets are lined with brightly painted houses, street art, and the kind of organized chaos that comes from being the historic heart of an eight-million-person city.

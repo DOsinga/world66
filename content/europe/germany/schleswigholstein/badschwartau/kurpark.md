@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.9200
 longitude: 10.6960
+score: 6.1
 ---
 
 The Kurpark is Bad Schwartau's spa park, a well-maintained green space at the heart of the health-resort district. It has the characteristic features of a German Kurpark: shaded walking paths, flower beds, a Wandelhalle (a covered promenade for walking in bad weather), Kneipp pools for foot immersion therapy, and benches arranged to catch the sun at different times of day.

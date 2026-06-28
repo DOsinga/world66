@@ -13,6 +13,7 @@ story: Chachapoyas Cathedral was built on the main plaza of the city in the colo
   settlements in the Amazon basin — at 2,335 metres it is the highest jungle-region
   capital in Peru, straddling the ecological and cultural divide between the Andes
   and the Amazon.
+score: 6.8
 ---
 
 The Cathedral of Chachapoyas on the Plaza de Armas is a handsome colonial structure that anchors the city's main square. The plaza itself is one of the more attractive in northern Peru — well-maintained, tree-lined, and surrounded by colonial-era buildings that give the city its pleasant provincial character.

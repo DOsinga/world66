@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bad_Gastein_Centre_1997-02
 latitude: 47.087112
 loc_type: city
 longitude: 13.160853
-score: 0.61
+score: 8.36
+snippet: Austrian Alpine spa town stacked above a waterfall, with Belle Époque hotels
+  and thermal waters
 title: Bad Gastein
 type: location
 ---

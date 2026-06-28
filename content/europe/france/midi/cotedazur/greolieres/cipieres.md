@@ -8,6 +8,7 @@ latitude: 43.7842
 longitude: 6.9558
 sources:
   - https://en.wikipedia.org/wiki/Cipi%C3%A8res
+score: 6.4
 ---
 
 Cipières is a small hilltop village about two kilometres east of Gréolières, sitting on its own rocky spur at around 700 metres. The two villages make a natural pair: both are perched, both are medieval in origin, and both are quiet enough that you can walk the entire length of the main street without meeting another tourist. The views from Cipières look south across the plateau toward Grasse and the coast, and east along the valley toward Vence.

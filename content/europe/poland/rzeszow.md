@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:4_Rzesz%C3%B3w,_zesp%C3%B3
 latitude: 50.0413
 loc_type: city
 longitude: 21.999
+score: 7.06
+snippet: Southeastern Polish city on the Wislok River, centred on a market square
+  and underground cellars.
 sources:
 - https://en.wikipedia.org/wiki/Rzesz%C3%B3w
 title: Rzeszow

@@ -1,200 +1,200 @@
 {
   "round": 1075,
-  "timestamp": "2026-04-12T22:08:03",
+  "timestamp": "2026-06-13T20:09:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Banaue",
-      "path": "asia/philippines/banaue",
-      "prior_rank": 1350,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Iona National Park",
+      "path": "africa/angola/ionanationalpark",
+      "prior_score": -7.3249,
+      "prior_variance": 0.489793,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Kunming",
-      "path": "asia/china/yunnanprovince/kunming",
-      "prior_rank": 1352,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -1.4207,
+      "prior_variance": 0.387958,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Gjirokaster",
-      "path": "europe/albania/gjirokaster",
-      "prior_rank": 2121,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_score": -1.2263,
+      "prior_variance": 0.408508,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Swakopmund",
-      "path": "africa/namibia/swakopmund",
-      "prior_rank": 2590,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": -0.4245,
+      "prior_variance": 0.404676,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Taranaki",
-      "path": "australiaandpacific/newzealand/north_island/taranaki",
-      "prior_rank": 4426,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -0.2388,
+      "prior_variance": 0.323405,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Sanl\u00facar de Barrameda",
-      "path": "europe/spain/andalucia/sanlcar",
-      "prior_rank": 1777,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.0316,
+      "prior_variance": 0.49676,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Charlottesville",
-      "path": "northamerica/unitedstates/virginia/charlottesville",
-      "prior_rank": 2207,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": -1.729,
+      "prior_variance": 0.417891,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Gettysburg",
-      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
-      "prior_rank": 2830,
-      "prior_wins": 43,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_score": -0.9034,
+      "prior_variance": 0.408554,
       "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Madaba",
-      "path": "asia/jordan/madaba",
-      "prior_rank": 3072,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -4.4806,
+      "prior_variance": 0.694956,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Casela",
-      "path": "africa/mauritius/casela",
-      "prior_rank": 2547,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -1.0641,
+      "prior_variance": 0.427324,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "South of Mombasa",
-      "path": "africa/kenya/thecoast/southofmombasa",
-      "prior_rank": 2718,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_score": -1.4378,
+      "prior_variance": 0.415061,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Aride Island",
-      "path": "africa/seychelles/arideisland",
-      "prior_rank": 4844,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -2.6089,
+      "prior_variance": 0.463422,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Baguio",
-      "path": "asia/philippines/baguio",
-      "prior_rank": 1756,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -1.8061,
+      "prior_variance": 0.39883,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Kennebunkport",
-      "path": "northamerica/unitedstates/maine/kennebunkport",
-      "prior_rank": 1286,
-      "prior_wins": 54,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -1.3438,
+      "prior_variance": 0.485553,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Bucks County",
-      "path": "northamerica/unitedstates/pennsylvania/bucks_county",
-      "prior_rank": 3150,
-      "prior_wins": 27,
-      "prior_n": 2
-    },
-    {
-      "rank": 16,
-      "title": "Glenwood Springs",
-      "path": "northamerica/unitedstates/colorado/glenwood_springs",
-      "prior_rank": 4189,
-      "prior_wins": 33,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.9242,
+      "prior_variance": 0.446493,
       "prior_n": 3
     },
     {
+      "rank": 16,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -0.4364,
+      "prior_variance": 0.350109,
+      "prior_n": 4
+    },
+    {
       "rank": 17,
-      "title": "Oristano",
-      "path": "europe/italy/sardinia/oristano",
-      "prior_rank": 5477,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -2.6636,
+      "prior_variance": 0.402521,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Fischland-Darss-Zingst",
-      "path": "europe/germany/mecklenburgwesternpomerania/fischland_darss",
-      "prior_rank": 2122,
-      "prior_wins": 48,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -3.2005,
+      "prior_variance": 0.396298,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Suva",
-      "path": "australiaandpacific/fiji/vitilevu/suva",
-      "prior_rank": 4023,
-      "prior_wins": 29,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -1.542,
+      "prior_variance": 0.401471,
       "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Cherating",
-      "path": "asia/malaysia/cherating",
-      "prior_rank": 4198,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -3.4095,
+      "prior_variance": 0.432905,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Isla Verde",
-      "path": "northamerica/puertorico/islaverde",
-      "prior_rank": 2291,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/livermore",
+      "prior_score": -4.212,
+      "prior_variance": 0.501661,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Lania",
-      "path": "asia/cyprus/troodosmountains/lania_traditiona",
-      "prior_rank": 2340,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -4.551,
+      "prior_variance": 0.484903,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Safaga",
-      "path": "africa/egypt/hurghada/safaga",
-      "prior_rank": 2548,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -3.405,
+      "prior_variance": 0.568406,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Golan Heights",
-      "path": "asia/israel/golanheights",
-      "prior_rank": 3334,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -2.2605,
+      "prior_variance": 0.394319,
+      "prior_n": 4
     }
   ]
 }

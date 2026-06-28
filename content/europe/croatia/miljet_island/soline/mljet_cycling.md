@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, bike, hike]
 latitude: 42.744
 longitude: 17.555
+score: 8.1
 ---
 
 The circuit around both lakes is the classic Mljet ride: roughly 11km on a flat road that stays close to the water for most of its length, passing through dense stands of Aleppo pine that keep the route shaded even in the middle of the day. Bike rental is available in Polače and Pomena; if you're based in Soline, Polače is about 4km west and renting from there and riding back is the logical way to start. The road surface is good enough for standard bikes — no mountain bike required.

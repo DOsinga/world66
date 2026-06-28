@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Heis_(town).jpg
 latitude: 10.896318
 loc_type: city
 longitude: 46.919332
-score: 0.16
+score: 1.37
+snippet: Remote Gulf of Aden town in Somaliland, set below the dry mountains of Sanaag.
 title: Xiis
 type: location
 ---

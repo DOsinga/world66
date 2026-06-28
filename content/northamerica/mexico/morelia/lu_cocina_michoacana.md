@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 19.7021
 longitude: -101.1927
+score: 7.8
 ---
 
 LU Cocina Michoacana is Morelia's most acclaimed fine-dining restaurant, earning consistent recognition as one of the best in Mexico for its deep exploration of Michoacan's culinary traditions. Chef Lucero Soto has spent years researching the indigenous Purepecha food culture, working with communities across the state to revive ingredients and preparation methods that were disappearing. The result is a menu that feels both rooted in history and genuinely creative.

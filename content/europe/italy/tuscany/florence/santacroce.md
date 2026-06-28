@@ -2,11 +2,13 @@
 address: Piazza Santa Croce, 50122 Florence
 latitude: 43.7686
 longitude: 11.2625
+score: 8.8
 snippet: Franciscan basilica housing the tombs of Michelangelo, Galileo, and Machiavelli
 tags:
 - things_to_do
 - church
 - square
+- santa_croce_quarter
 title: Santa Croce
 type: poi
 ---

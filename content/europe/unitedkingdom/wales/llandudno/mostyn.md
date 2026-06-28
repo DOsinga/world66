@@ -9,6 +9,7 @@ latitude: 53.321
 longitude: -3.8238
 sources:
   - https://en.wikipedia.org/wiki/Mostyn_(gallery)
+score: 7.7
 ---
 
 Mostyn is the most important contemporary art gallery in Wales outside Cardiff, and one of the more distinctive art spaces in Britain. It occupies a handsome red-brick building on Vaughan Street that was originally built in 1901 as an exhibition hall. After a major renovation in 2010 — which added a striking new facade and significantly expanded the gallery space — it has become a destination in its own right.

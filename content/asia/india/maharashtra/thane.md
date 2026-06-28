@@ -3,16 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-17'
   poi_cleanup: '2026-04-19'
+image: thane.jpg
+image_attribution: Kshirsagarrahul
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Talao_Pali,_Thane.jpg
 latitude: 19.2183
 loc_type: city
 longitude: 72.9781
-score: 0.33
+score: 5.8
+snippet: Mumbai-edge Maharashtra city whose surviving lakes give dense urban sprawl
+  its most walkable corners.
 title: Thane
 type: location
-image: thane.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Talao_Pali,_Thane.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Kshirsagarrahul
 ---
 
 Thane sits at the northeastern edge of Mumbai's urban sprawl, separated from the city by Thane Creek and surrounded by a chain of shallow lakes. Once a quiet town and later a dormitory suburb, it has grown into one of Maharashtra's largest cities in its own right — dense, chaotic, and alive with the rhythms of everyday urban India.

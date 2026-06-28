@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:PiazzavittorioemanueleIIPo
 latitude: 43.773831
 loc_type: city
 longitude: 11.434629
-score: 0.51
+score: 7.57
+snippet: Tuscan wine town at the Arno-Sieve confluence, anchored by a Medici bridge
+  and Chianti Rufina.
 title: Pontassieve
 type: location
 ---

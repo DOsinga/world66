@@ -9,6 +9,7 @@ tags:
   - sight
   - park
 snippet: A 3,000-foot sandstone fin rising abruptly from the ridgeline north of town.
+score: 7.1
 ---
 
 Pinnacle Rock is a startling 30-foot-thick blade of sandstone that juts vertically from the ridge along US-52 about ten miles north of Bluefield, towering over the road. A short scramble — maybe 150 metres, with one rough section — gets you to the base of the rock; a longer trail goes round the back and on to Jimmy Lewis Lake, a small artificial lake in a forested basin behind the formation.

@@ -8,6 +8,7 @@ tags:
 - shopping
 - market
 - eating_out
+score: 6.8
 ---
 
 Les Halles de Nîmes is the daily covered market in a 1980s building next to the old town — open every morning, busiest on Saturdays. The stalls cover the produce of the Cévennes, the Camargue, and the Mediterranean: olives, anchovies, brandade de morue (salt cod), Camargue rice, taureau (bull meat) sausages, picholines, goat cheese from the garrigues.

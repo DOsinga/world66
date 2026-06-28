@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: -30.4458
 longitude: 152.8857
+score: 7.7
 ---
 
 The Bellinger River runs through the heart of the valley and through the town itself, and it is the reason the landscape looks the way it does — lush, green, subtropical, with weeping willows along the banks and swimming holes beneath the old bridge. Swimming in the river on a summer afternoon is one of the simple pleasures of being in Bellingen; the water is clear and cool, and the setting — weeping willows, the old bridge, farmland beyond — is idyllic.

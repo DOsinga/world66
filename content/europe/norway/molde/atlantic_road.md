@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trip, nature, drive]
 latitude: 62.9963
 longitude: 7.3419
+score: 8.9
 ---
 
 The Atlanterhavsveien (Atlantic Road) is one of Norway's most celebrated scenic drives, a 8.3-kilometre stretch of road that hops across a series of small islands and skerries on a chain of bridges and causeways, fully exposed to the open Atlantic. It is about 70 kilometres west of Molde, making it an easy day trip.

@@ -1,12 +1,14 @@
 ---
 address: 1 Bade Road Sec 1, Zhongzheng District, Taipei
-latitude: 25.0440
+latitude: 25.044
 longitude: 121.5293
+score: 7.6
 snippet: Former wine and brandy factory, now a cluster of galleries and bars
 tags:
 - things_to_do
 - sight
 - architecture
+- zhongzheng
 title: Huashan 1914 Creative Park
 type: poi
 url: https://www.huashan1914.com

@@ -5,9 +5,11 @@ done:
 latitude: 41.8827
 longitude: 12.4751
 opening_hours: Tue–Sun 19:00–23:30; closed Mon
+score: 8.0
 snippet: Inventive Neapolitan pizza in a buzzy Testaccio room
 tags:
 - eating_out
+- trastevere
 title: Seu Pizza Illuminati
 type: poi
 ---

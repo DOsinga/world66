@@ -12,6 +12,7 @@ story: >
   The castle was the headquarters of the feared mercenary captain Almeric de Chauvigny in the 14th 
   century, who used it as a base for raiding the surrounding countryside — including the English-held 
   château of Beynac directly across the river.
+score: 8.8
 ---
 
 Château de Castelnaud sits on a crag above the Dordogne, 8 kilometres west of Domme, and is one of the best-preserved medieval fortresses in France. The castle was a key stronghold throughout the Hundred Years War, switching between French and English control several times as fortunes shifted, and the existing structure largely dates from the 13th to 16th centuries. Today it houses the Museum of Medieval Warfare, with an exceptional collection of siege engines, weapons, and armour.

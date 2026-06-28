@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Igaliku.JPG
 latitude: 60.9891
 loc_type: city
 longitude: -45.421
-score: 0.41
+score: 7.19
+snippet: Southern Greenland sheep-farming village on Norse Gardar's cathedral ruins,
+  set among fjord and mountain views.
 title: Igaliku
 type: location
 ---

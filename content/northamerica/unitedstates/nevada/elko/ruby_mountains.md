@@ -8,6 +8,7 @@ tags:
 latitude: 40.616
 longitude: -115.532
 story: "The Ruby Mountains are sometimes called the 'Alps of Nevada' — a name that sounds like hyperbole until you see them. The range rises to over 2,900 metres, supports several glacial cirques, and contains a remnant population of Lahontan cutthroat trout in its high alpine lakes. In winter, Ruby Mountains Heli-Experience operates one of the longest-running heli-ski operations in North America, with terrain so uncrowded that guides sometimes see no other tracks all week."
+score: 9.1
 ---
 
 The Ruby Mountains rise sharply from the high desert southeast of Elko, topping out at Ruby Dome (2,947 m) and presenting a genuinely impressive wall of granite and limestone. Despite their remoteness — or because of it — the Rubies contain some of the best mountain wilderness in the Great Basin.

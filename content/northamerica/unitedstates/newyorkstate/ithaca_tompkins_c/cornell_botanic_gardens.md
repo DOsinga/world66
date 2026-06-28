@@ -9,6 +9,7 @@ tags:
   - cornell
 latitude: 42.4524
 longitude: -76.4699
+score: 7.8
 ---
 
 The botanic gardens occupy the rolling land just north of the central Cornell campus, with a herb garden, a winter garden, a peony collection, and a long arboretum walk planted with thousands of native trees. Entry is free and the grounds are open from dawn to dusk year-round.

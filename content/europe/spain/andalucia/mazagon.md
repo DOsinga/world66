@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mazag%C3%B3n_(Huelva)_(Spa
 latitude: 37.1367
 loc_type: city
 longitude: -6.8278
-score: 0.48
+score: 7.3
+snippet: Low-key Andalusian beach resort near Doñana, with pine-backed sands and sandstone
+  cliffs.
 title: Mazagón
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.8248
 longitude: 28.3268
+score: 5.6
 ---
 
 The equestrian statue of Alexander Nevsky on Sovetskaya Square commemorates the 13th-century Novgorodian prince who won his most famous victory against the Teutonic Knights at the Battle of the Ice in 1242, on the frozen surface of Lake Peipus just 40 kilometres from Pskov. Nevsky is one of Russia's most important national heroes, and the monument — unveiled in 1993 — is large and theatrical, showing the prince in armour with his sword raised.

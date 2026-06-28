@@ -2,11 +2,13 @@
 address: 1952 W Flagler Street
 latitude: 25.7719
 longitude: -80.2265
+score: 7.5
 tags:
 - eating_out
 - restaurant
 - seafood
 - cuban
+- little_havana
 title: La Camaronera Fish Market
 type: poi
 ---

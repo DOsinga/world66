@@ -12,6 +12,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Flogsta is a 1970s student housing area on the western edge of Uppsala — eight identical concrete towers ringed by lawns and birch trees. By day it is unremarkable. By night, on the dot of ten o'clock, it produces one of the strangest urban rituals in northern Europe: a collective scream that erupts from the open windows and rolls across the suburb for half a minute before falling silent.

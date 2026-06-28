@@ -11,6 +11,7 @@ story: "Barca was one of the names by which the wider region of Cyrenaica was kn
 sources:
   - https://en.wikipedia.org/wiki/Barca_(ancient_city)
   - https://slsgazetteer.org/1181/
+score: 7.3
 ---
 
 Old Barca, or Al Marj al Qadim, is the historic settlement site associated with ancient Barce and medieval Barqa. It lies away from the rebuilt modern centre, which moved after the 1963 earthquake.

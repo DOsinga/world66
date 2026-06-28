@@ -15,6 +15,7 @@ story: >
   support an unusual flora adapted to the mineral-rich, nutrient-poor soils.
   UNESCO recognised the geopark in 2005 for the exceptional quality of its
   geological heritage.
+score: 8.3
 ---
 
 The Parco Naturale Regionale del Beigua, recognized as a UNESCO Global Geopark, rises steeply behind Varazze through a landscape of maritime pine, chestnut forest, and upland heath. The park protects the Beigua massif, a geologically unusual area where ancient ocean-floor rocks were pushed to the surface during the formation of the Alps. The resulting terrain is rugged and botanically distinctive.

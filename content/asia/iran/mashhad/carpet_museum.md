@@ -4,6 +4,7 @@ type: poi
 latitude: 36.2867
 longitude: 59.6155
 tags: [things_to_do, museum]
+score: 7.1
 ---
 
 Part of the Astan Quds Razavi museum complex inside the Imam Reza Shrine, the Carpet Museum displays a small but exceptional selection of Persian carpets gifted to the shrine over the centuries — including silk carpets from Kashan, vast wool carpets from Tabriz, and the distinctive medallion carpets of Mashhad itself.

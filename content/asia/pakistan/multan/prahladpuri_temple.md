@@ -8,6 +8,7 @@ tags:
 latitude: 30.200361
 longitude: 71.476833
 story: "Multanis still celebrate Holi here in spirit — the festival commemorates Holika's failed attempt to burn the boy-prince Prahlad on this very spot, and the temple was its mythological epicentre. After Partition the Hindu community left and the temple was burnt during the 1992 Babri Masjid riots; it has never been rebuilt."
+score: 6.8
 ---
 
 The **Prahladpuri Temple** is the most important Hindu site in Multan and, by tradition, one of the oldest temples in the entire subcontinent — said to mark the spot where the boy-prince **Prahlad** was protected from being burnt by his demoness aunt Holika, the founding myth of the **Holi festival**. The temple stood on the highest point of the Multan Fort mound, immediately next to the Shrine of Bahauddin Zakariya, the two buildings forming an unusually intimate Hindu–Muslim juxtaposition.

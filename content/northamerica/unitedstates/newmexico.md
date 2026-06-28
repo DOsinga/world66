@@ -8,6 +8,8 @@ latitude: 34.5199
 loc_type: region
 longitude: -105.8701
 score: 0.56
+snippet: Southwestern state where Pueblo, Hispanic, and Anglo cultures meet desert
+  skies and green chile.
 title: New Mexico
 type: location
 ---

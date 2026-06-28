@@ -12,6 +12,7 @@ story: >
   and reconvened in York. Over the following nine months they drafted and adopted the 
   Articles of Confederation — America's first national governing document — right here. 
   York was, briefly, the capital of a new nation.
+score: 8.4
 ---
 
 The York Colonial Complex brings together several historic buildings that illuminate York's remarkable nine-month stint as the temporary capital of the United States during the Revolutionary War. The Golden Plough Tavern (1741) and the General Gates House (c. 1751) are among the oldest surviving structures in York County, and the reproduction Colonial Court House is where the Continental Congress met in 1777–1778.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.1771
 longitude: -85.8049
+score: 6.4
 ---
 
 The SkyWheel is a 200-foot Ferris wheel at Pier Park that has become the de facto landmark of the strip, visible from miles of beach in either direction. The gondolas are enclosed and air-conditioned, which matters a great deal in July. A rotation takes about 15 minutes and gives you a clear view over the Gulf and the lagoon side simultaneously — the best aerial perspective of the geography you'll get without a drone.

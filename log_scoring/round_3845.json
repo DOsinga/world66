@@ -1,0 +1,200 @@
+{
+  "round": 3845,
+  "timestamp": "2026-06-13T23:24:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 6.6356,
+      "prior_variance": 0.200178,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 7.0506,
+      "prior_variance": 0.136916,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 4.3436,
+      "prior_variance": 0.122495,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.7582,
+      "prior_variance": 0.132916,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 7.2677,
+      "prior_variance": 0.198352,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Cannes",
+      "path": "europe/france/cannes",
+      "prior_score": 6.3761,
+      "prior_variance": 0.151613,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.6956,
+      "prior_variance": 0.132742,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 5.4012,
+      "prior_variance": 0.12409,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 6.4217,
+      "prior_variance": 0.132012,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.2313,
+      "prior_variance": 0.117154,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 6.113,
+      "prior_variance": 0.1219,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 4.4481,
+      "prior_variance": 0.11541,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.7205,
+      "prior_variance": 0.149589,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 5.6135,
+      "prior_variance": 0.173567,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 3.7818,
+      "prior_variance": 0.110845,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 2.8174,
+      "prior_variance": 0.152654,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 3.3814,
+      "prior_variance": 0.142202,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 2.8505,
+      "prior_variance": 0.107752,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.0461,
+      "prior_variance": 0.140654,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 2.2952,
+      "prior_variance": 0.11206,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 3.1105,
+      "prior_variance": 0.098719,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.8895,
+      "prior_variance": 0.10156,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 0.7889,
+      "prior_variance": 0.100945,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.6235,
+      "prior_variance": 0.109031,
+      "prior_n": 12
+    }
+  ]
+}

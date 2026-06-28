@@ -13,6 +13,7 @@ story: >
   island. The tidal schedule has been factored into the flight timetables
   ever since. On days when the tide doesn't cooperate, the flight is
   simply delayed until the sea retreats.
+score: 8.0
 ---
 
 Barra Airport is the world's only airport where scheduled flights land on a beach. The three runways are marked by poles and are usable only when the tide is out — at high tide, the runway is under water. Loganair operates twice-daily flights from Glasgow using Twin Otter prop planes. You can watch arrivals from the dunes above the beach, standing perhaps twenty metres from the touchdown point.

@@ -14,6 +14,7 @@ story: >
   by tapping out their position on the wire.
 sources:
   - https://en.wikipedia.org/wiki/MacBride_Museum_of_Yukon_History
+score: 8.2
 ---
 
 The MacBride Museum covers Yukon history from the pre-contact Indigenous era through the Klondike Gold Rush and into the 20th century. The collection includes Gold Rush artefacts, Indigenous materials, natural history specimens, and the kind of practical tools and equipment that kept people alive in a remote northern territory for 150 years. The outdoor display of heavy equipment — old locomotives, mining machinery, riverboat parts — is particularly striking.

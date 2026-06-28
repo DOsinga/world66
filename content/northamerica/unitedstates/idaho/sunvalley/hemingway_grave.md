@@ -9,6 +9,7 @@ tags:
   - literary
 story: >
   Visitors leave whiskey bottles, pennies, and unsmoked cigars on the slab. The cemetery groundskeepers clear the offerings every week and pile them in a shed at the back; whatever is left after a year goes to local charities and the bottles to the Pioneer Saloon.
+score: 8.1
 ---
 
 Hemingway shot himself at his house in Ketchum on 2 July 1961 and is buried in the Ketchum Cemetery on the north edge of town. The grave is a plain rectangular slab of grey granite under three pines, with only his name and dates. His fourth wife Mary, his son Jack, and several other family members lie alongside him.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.0694
 longitude: 25.4372
+score: 8.1
 ---
 
 Halki — also spelled Chalkio — was the capital of Naxos for much of the Venetian period and retains the slightly formal air of a place that was once important. It sits in the Tragea valley at the heart of the island, surrounded by ancient olive groves that are among the oldest in the Cyclades. The village is small (a few hundred permanent residents) but packed with architectural detail: Byzantine churches with frescoed interiors, the towers and carved doorways of Venetian merchant families, and lanes that wind in the gentle confusion of a place built over many centuries.

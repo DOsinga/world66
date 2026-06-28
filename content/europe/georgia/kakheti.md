@@ -3,9 +3,11 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-22'
 latitude: 41.737352
-loc_type: city
+loc_type: region
 longitude: 45.672178
-score: 0.64
+score: 8.15
+snippet: Eastern Georgian wine region of qvevri traditions, Alazani Valley vineyards,
+  monasteries, and fortified towns.
 title: Kakheti
 type: location
 ---

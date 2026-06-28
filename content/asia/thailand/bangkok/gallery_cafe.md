@@ -3,11 +3,13 @@ address: 1293-1295 Charoen Krung Rd
 latitude: 13.7209
 longitude: 100.5161
 phone: +66-22340053
+score: 5.8
 snippet: Thai dining amid four floors of Asian art
 tags:
 - eating_out
 - museum
 - cafe
+- silom
 title: Gallery Cafe
 type: poi
 ---

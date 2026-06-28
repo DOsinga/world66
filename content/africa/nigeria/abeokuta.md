@@ -5,7 +5,9 @@ done:
 latitude: 7.161
 loc_type: city
 longitude: 3.348
-score: 0.39
+score: 6.26
+snippet: Ogun State capital defined by sacred Olumo Rock and the Egba adire cloth
+  tradition.
 title: Abeokuta
 type: location
 ---

@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Nai Harn Beach
 type: poi
+score: 8.1
 ---
 
 Situated at the southern tip of Phuket, Nai Harn is one of the island's best family beaches. The bay is sheltered from prevailing winds and waves, and the water stays shallow for a good distance out, making it safer for children and weaker swimmers. The beach is big enough that it rarely feels overcrowded, even when other Phuket beaches are packed.

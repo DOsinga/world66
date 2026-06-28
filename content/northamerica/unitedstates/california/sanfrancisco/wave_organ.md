@@ -8,6 +8,7 @@ tags:
 - sight
 title: The Wave Organ
 type: poi
+score: 7.5
 ---
 
 The Wave Organ is an acoustic sculpture built into a stone jetty at the end of the Marina yacht harbour. Twenty-five organ pipes of varying lengths are set into the rocks at the waterline, and as waves wash in and out, the pipes produce low, gurgling, otherworldly sounds -- somewhere between breathing and singing.

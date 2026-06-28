@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.9218
 longitude: -110.8990
+score: 6.3
 ---
 
 The Church of San Fernando is Guaymas's main Catholic church, a colonial-era building on Serdan Street that has been at the centre of the city's religious life since the Spanish colonial period. The facade is relatively modest by Mexican standards — Guaymas was always more of a commercial port than a religious centre — but the interior has good examples of colonial religious art and remains an active parish.

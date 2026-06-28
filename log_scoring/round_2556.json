@@ -1,0 +1,200 @@
+{
+  "round": 2556,
+  "timestamp": "2026-06-13T21:50:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_score": 11.9085,
+      "prior_variance": 0.351821,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 5.3119,
+      "prior_variance": 0.186535,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Varadero",
+      "path": "northamerica/thecaribbean/cuba/varadero",
+      "prior_score": 4.7273,
+      "prior_variance": 0.193914,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Ranthambore National Park",
+      "path": "asia/india/rajasthan/ranthambore",
+      "prior_score": 4.5341,
+      "prior_variance": 0.190003,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_score": 4.53,
+      "prior_variance": 0.281775,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Jericoacoara",
+      "path": "southamerica/brazil/jericoacoara",
+      "prior_score": 5.7447,
+      "prior_variance": 0.212726,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 2.249,
+      "prior_variance": 0.241182,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_score": 2.3099,
+      "prior_variance": 0.167955,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 4.4387,
+      "prior_variance": 0.170839,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 4.526,
+      "prior_variance": 0.209295,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 3.7583,
+      "prior_variance": 0.17298,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 4.154,
+      "prior_variance": 0.178059,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 2.4189,
+      "prior_variance": 0.172972,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 2.2845,
+      "prior_variance": 0.150387,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 4.4693,
+      "prior_variance": 0.211119,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/lakedistrict/bowness",
+      "prior_score": 2.6812,
+      "prior_variance": 0.216819,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 2.4008,
+      "prior_variance": 0.165113,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.7476,
+      "prior_variance": 0.183682,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.6926,
+      "prior_variance": 0.174484,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_score": 2.7957,
+      "prior_variance": 0.15657,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 1.1378,
+      "prior_variance": 0.152882,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 0.9954,
+      "prior_variance": 0.166393,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.1149,
+      "prior_variance": 0.156256,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -3.1207,
+      "prior_variance": 0.176609,
+      "prior_n": 8
+    }
+  ]
+}

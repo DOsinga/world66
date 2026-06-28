@@ -9,6 +9,7 @@ tags:
   - museum
   - old_san_juan
 neighbourhood: Old San Juan
+score: 8.4
 ---
 
 Casa Blanca is the oldest continuously occupied house in the Americas — built in 1521 for Juan Ponce de León, who died before he ever lived in it. His descendants held the house for over 250 years; it then passed to the Spanish military as the governor's residence, and is now a small museum.

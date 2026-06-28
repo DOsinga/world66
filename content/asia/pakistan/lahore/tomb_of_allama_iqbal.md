@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - walled_city
+score: 7.3
 ---
 
 The tomb of Muhammad Iqbal — poet, philosopher, and the intellectual godfather of the Pakistan movement — sits in a corner of the Hazuri Bagh between the Badshahi Mosque and Lahore Fort. The building is a small red-sandstone pavilion in restrained Mughal style, designed by the Punjab architect Nawab Zain Yar Jung.

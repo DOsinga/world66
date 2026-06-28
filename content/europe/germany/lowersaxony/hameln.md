@@ -5,7 +5,9 @@ done:
 latitude: 52.104
 loc_type: city
 longitude: 9.3562
-score: 0.53
+score: 8.11
+snippet: Weserbergland town of the Pied Piper legend, lined with ornate Weser Renaissance
+  facades.
 title: Hameln
 type: location
 ---

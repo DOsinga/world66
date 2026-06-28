@@ -11,6 +11,7 @@ tags:
 - bar
 title: CoCo Bar
 type: poi
+score: 5.3
 ---
 
 A central downtown bar near Zhongshan Square in Dalian's Zhongshan District, popular with expats and international visitors. The bar stays open until 3am and staff speak English, making it an easy landing spot if you have just arrived in the city. Drinks are reasonably priced by Chinese standards, and the atmosphere is relaxed rather than clubby.

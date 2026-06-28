@@ -14,6 +14,7 @@ story: >
   valleys and two directions of travel. The Rio Chama comes down from the
   mountains of Colorado; the Rio Grande comes from as far north as Colorado's
   San Juan Mountains, on its way to the Gulf of Mexico.
+score: 6.8
 ---
 
 Just north of Española, the Rio Grande and Rio Chama rivers meet in a spot that has drawn human settlement for a thousand years. The confluence is accessible from several points along the river road heading north from town toward Ohkay Owingeh Pueblo, and the views of the two rivers joining in the broad valley are dramatic, especially in the late afternoon light when the cottonwoods glow gold in autumn.

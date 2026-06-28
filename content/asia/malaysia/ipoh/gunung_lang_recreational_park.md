@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.3
 ---
 
 A municipal recreational park north of central Ipoh built around an old quarry lake at the foot of Gunung Lang. The trick is the access: the park's other half is on an island in the lake, reached by a short boat ride on a flat-bottomed ferry that runs every few minutes. On the island side are an artificial sand beach, a small free zoo with deer and ostriches, a butterfly garden, several walking trails up the limestone, and a viewpoint platform at the top.

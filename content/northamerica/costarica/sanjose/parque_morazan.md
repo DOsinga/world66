@@ -8,6 +8,7 @@ tags:
   - sight
 title: Parque Morazán
 type: poi
+score: 7.2
 ---
 
 Parque Morazán is one of the city's principal green spaces, named after the Central American federalist general Francisco Morazán. Its central feature is the Templo de la Música, a circular neoclassical bandstand built in 1895 that appears on postcards and in paintings throughout the country. The park is full of shade trees and benches occupied by office workers at lunchtime and families in the evenings.

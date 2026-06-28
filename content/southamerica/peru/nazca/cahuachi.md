@@ -14,6 +14,7 @@ story: >
   systematic excavation began in the 1980s.
 sources:
   - https://en.wikipedia.org/wiki/Cahuachi
+score: 8.1
 ---
 
 The ceremonial capital of the Nazca culture, covering roughly 24 square kilometres of desert about 28 km west of Nazca town. Cahuachi consists of over 40 mounds built from adobe bricks, the largest rising about 20 metres above the plain. It was the religious and political centre of the Nazca world from around 100 BC to 500 AD.

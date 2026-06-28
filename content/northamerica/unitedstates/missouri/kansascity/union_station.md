@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Union Station
 type: poi
+score: 8.4
 ---
 
 When Union Station opened in 1914 it was the second-largest train station in the United States. The Beaux-Arts building — grand hall, coffered ceiling, massive clock — fell into disuse as rail travel declined and stood nearly derelict for decades before a major restoration in 1999. Today it houses Science City (a hands-on science museum popular with families), exhibition spaces that host major travelling shows, and several restaurants. Worth a visit for the architecture alone: stand in the main hall and look up.

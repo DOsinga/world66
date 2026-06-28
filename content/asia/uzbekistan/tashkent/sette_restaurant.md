@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3097
 longitude: 69.2772
+score: 4.7
 ---
 
 When you have eaten plov and shashlik until you cannot face another carrot, Sette is the safest landing pad in central Tashkent. The pizza is wood-fired, the pasta is properly al dente, and the Italian-trained chef takes the food seriously.

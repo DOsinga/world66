@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 60.86
 longitude: 8.3835
+score: 7.8
 ---
 
 Hemsedal's terrain park is among the best in Norway and draws freeskiers and snowboarders from across Scandinavia. The park features a range of kickers, rails, and jibs graded by difficulty, with a dedicated big air jump area at one end. The park crew maintain the features daily during the ski season and the construction quality is high — the hits are consistent and well-shaped. Several Norwegian national team riders have trained here.

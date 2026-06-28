@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Forested hills and gorges above the Danube Bend, with hiking trails between the towns"
 latitude: 47.7667
 longitude: 18.95
+score: 7.8
 ---
 
 The Danube-Ipoly National Park covers the forested hills on both sides of the Danube Bend, protecting one of the most biodiverse landscapes in Hungary. The park includes the Pilis Mountains on the west bank and the Börzsöny Hills on the east — relatively low ranges (up to about 700 metres) but with dense mixed forest, limestone gorges, and a good network of marked trails.

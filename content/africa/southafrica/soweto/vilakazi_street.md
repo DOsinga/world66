@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -26.238536
 longitude: 27.908772
+score: 7.2
 ---
 
 Vilakazi Street in Orlando West is the most famous street in Soweto and perhaps in South Africa. It is the address of both Nelson Mandela's former house (now a museum) and Archbishop Desmond Tutu's house — the only street in the world where two Nobel Peace Prize laureates have lived.

@@ -9,6 +9,7 @@ tags:
   - historic_house
 title: Baba Reshi Shrine
 type: poi
+score: 7.6
 ---
 
 The Baba Reshi dargah sits at the foot of the Gulmarg slope, about 5 km below the main meadow on the road toward Tangmarg. It is the tomb of Sheikh Hamza Makhdoom's disciple Baba Reshi, a fifteenth-century Sufi saint revered across Kashmir, and one of the most peaceful spots in the region.

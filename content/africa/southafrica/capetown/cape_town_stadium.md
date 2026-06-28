@@ -1,8 +1,7 @@
 ---
-category: Stadium
 latitude: -33.9036
 longitude: 18.4108
-neighbourhood: Green Point
+score: 6.3
 scores:
   architecture: 0.6852
   sight: 0.6574

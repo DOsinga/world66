@@ -12,6 +12,7 @@ story: >
   the northeast and sustaining a scrubby vegetation that survives nowhere
   else on São Vicente. At 774 metres, it is the highest point in the island
   and one of the few places in Cape Verde where you might find yourself in mist.
+score: 8.3
 ---
 
 Monte Verde is the highest point on São Vicente at 774 metres, and on clear days the summit offers views across to the island of [Santo Antão](/africa/capeverde/santo_antao), whose jagged ridges rise dramatically from the ocean a few kilometres to the northwest. The walk to the top takes two to three hours from the road that winds up from Mindelo.

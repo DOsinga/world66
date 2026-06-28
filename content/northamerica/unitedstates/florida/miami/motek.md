@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Motek
 type: poi
+score: 6.8
 ---
 
 A bright, casual Mediterranean-Israeli café at the southern tip of South Beach, right by South Pointe Park. The shakshuka, sabich, and fresh-squeezed juices are excellent, and the outdoor terrace catches a breeze off the water. Popular for brunch — expect a wait on weekends. A good spot before or after a walk along the South Pointe promenade, where you can watch cruise ships pass through Government Cut.

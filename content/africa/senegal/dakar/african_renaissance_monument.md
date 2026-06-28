@@ -14,6 +14,7 @@ story: >
   claimed personal copyright over the design and demanded 35 per cent of
   ticket revenue — a row that has rumbled on ever since. Locally it is
   loved, loathed and photographed in equal measure.
+score: 6.9
 ---
 
 The African Renaissance Monument looms above the Ouakam district at the western edge of the city: a 49-metre bronze of a man, woman and child striding into the future, set on a volcanic twin-peaked hill called Collines des Mamelles. The sheer scale — it is taller than the Statue of Liberty — makes it visible from kilometres away, especially as planes line up for the airport.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 19.8903
 longitude: 102.1369
 story: "The gilded stupa at the summit — That Chomsi — was built in 1804. During the Lao New Year festival in April, a procession of monks and laity carries the sacred Phra Bang image up these same steps. The mountain has also been used as an observation post in every conflict involving Luang Prabang, most recently by Pathet Lao forces taking up position above the town in 1975 before the monarchy was abolished."
+score: 8.9
 ---
 
 Mount Phou Si rises about 100 metres from the flat peninsula of the old town, and the 300-plus steps to the top reward you with one of the finest views in Southeast Asia: the Mekong curving below, the Nam Khan to the east, and the surrounding mountains stretching in every direction. The gilded stupa at the summit is visible from throughout the town.

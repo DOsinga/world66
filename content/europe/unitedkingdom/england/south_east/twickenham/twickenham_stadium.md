@@ -14,6 +14,7 @@ story: >
   several times in the 20th century; the current 82,000-capacity ground dates
   largely from the 1990s. On England Six Nations match days, the queues for the
   car parks start in the early morning and the pubs are open by 9am.
+score: 7.4
 ---
 
 Twickenham Stadium is the largest dedicated rugby union stadium in the world, seating 82,000 people, and the home of England rugby since 1909. On match days — particularly for the Six Nations or autumn internationals — the whole town transforms. The approach from the train station is wall-to-wall white shirts, the pubs overflow, and the atmosphere is boisterous but good-natured in the way that only a sport which hasn't fully professionalised its fanbase can be.

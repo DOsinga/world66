@@ -2,13 +2,15 @@
 address: 5961 Palisade Ave (at 261st St), Riverdale, Bronx
 done:
   poi_cleanup: '2026-04-19'
-latitude: 40.89897
-longitude: -73.92199
+latitude: 40.910676
+longitude: -73.909604
 phone: +1 718 549 8700
+score: 5.0
 snippet: Intimate Jewish heritage museum overlooking the Hudson in Riverdale
 tags:
 - things_to_do
 - museum
+- upper_east_side
 title: Judaica Museum
 type: poi
 ---

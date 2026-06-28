@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 21.0157
 longitude: -101.2547
+score: 8.1
 ---
 
 A vast pink-stone statue of the insurgent miner-hero, standing on a ridge directly above the centre and visible from every part of the city. The point of going up is the view — the most photographed in Guanajuato, looking down across the entire bowl of coloured houses to the church towers and the green Jardín. Sunset is best.

@@ -11,6 +11,7 @@ tags:
 - kreuzberg
 title: Schnabelbar
 type: poi
+score: 5.8
 ---
 
 A sleek, design-conscious bar for a young Kreuzberg crowd. Good for drinks before heading somewhere else, or for staying late on a Friday night.

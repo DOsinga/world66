@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_skyline_view_of_Enid,_Ok
 latitude: 36.396762
 loc_type: city
 longitude: -97.879134
-score: 0.34
+score: 5.72
+snippet: Oklahoma wheat-plains city with huge grain elevators and Cherokee Strip land-run
+  history.
 title: Enid
 type: location
 ---

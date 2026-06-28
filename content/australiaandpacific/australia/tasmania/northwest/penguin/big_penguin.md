@@ -13,6 +13,7 @@ story: >
   attractions that includes the Big Banana, Big Lobster, and Big Merino.
   Locals occasionally dress it for Christmas, Easter, and Mardi Gras; the
   scarf in winter is a recurring sight.
+score: 5.8
 ---
 
 A three-metre concrete fairy penguin standing on the foreshore in the middle of town — earnest, slightly absurd, and the obvious photo stop for anyone driving Tasmania's north coast. The statue faces Bass Strait with the actual ocean a few metres behind.

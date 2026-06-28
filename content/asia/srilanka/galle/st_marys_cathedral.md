@@ -8,6 +8,7 @@ tags:
   - religious
 latitude: 6.036056
 longitude: 80.212722
+score: 5.8
 ---
 
 St. Mary's Cathedral sits on a low hill in the new town, north of the fort, the seat of the Catholic Diocese of Galle. The present church was built in 1874 by French Jesuit missionaries, with a tall central tower and a long nave that can seat over a thousand. The exterior, freshly whitewashed, is visible from much of the surrounding town.

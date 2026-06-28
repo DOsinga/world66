@@ -7,6 +7,7 @@ snippet: "White-sand beach in the Tinambacan district, north of the city"
 tags:
 - things_to_do
 - beach
+score: 6.7
 ---
 
 Looc Beach lies about ten minutes' drive from Calbayog's Tinambacan district at the northern end of the city. The beach is small but properly white-sand, fringed by tall coconut palms and broken at intervals by large rocks that come right down to the water. The sea is calm enough most of the year for safe swimming, and clear enough that snorkellers can pick out small reef fish on the rockier sections.

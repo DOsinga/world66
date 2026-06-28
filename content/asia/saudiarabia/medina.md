@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/43714545@N06/52501731659
 latitude: 24.471153
 loc_type: city
 longitude: 39.611122
-score: 0.34
+score: 4.65
+snippet: Holy city of Islam in the Hejaz, centred on the Prophet's Mosque and early
+  Muslim history
 title: Medina
 type: location
 ---

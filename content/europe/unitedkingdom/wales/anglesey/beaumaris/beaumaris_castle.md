@@ -16,6 +16,7 @@ story: >
   never raised to their planned full height. The result is paradoxical: a
   textbook of military architecture, frozen at half-mast, and considered the
   most perfectly designed concentric castle in Britain.
+score: 9.4
 ---
 
 Beaumaris Castle is the last and largest of the four UNESCO-listed castles Edward I built to subdue Wales after his 1282 conquest. The design is a perfect concentric plan — a lower outer wall with twelve towers ringing a higher inner ward of four massive towers and two great gatehouses — with a moat connected to the sea so that supply ships could once sail right up to the castle dock. The symmetry on paper has never been surpassed in Britain.

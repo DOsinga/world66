@@ -1,13 +1,18 @@
 ---
 latitude: 35.0142
 longitude: 135.7481
+score: 8.9
 snippet: Tokugawa-era flatland castle with famous nightingale floors
-story: The wooden corridors of the Ninomaru Palace are deliberately laid so that hidden iron clamps under the boards creak when stepped on — the so-called *uguisu-bari* or nightingale floors, designed to alert guards to intruders no matter how lightly they trod.
+story: The wooden corridors of the Ninomaru Palace are deliberately laid so that hidden
+  iron clamps under the boards creak when stepped on — the so-called *uguisu-bari*
+  or nightingale floors, designed to alert guards to intruders no matter how lightly
+  they trod.
 tags:
 - things_to_do
 - castle
 - unesco
 - sight
+- nijo
 title: Nijō Castle
 type: poi
 ---

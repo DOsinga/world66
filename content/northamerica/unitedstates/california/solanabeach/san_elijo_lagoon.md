@@ -7,6 +7,7 @@ tags:
 latitude: 33.0097
 longitude: -117.2622
 snippet: "One of the largest remaining coastal wetlands in San Diego County, good for birdwatching and kayaking"
+score: 8.2
 ---
 
 San Elijo Lagoon Ecological Reserve straddles the Solana Beach–Encinitas border, covering around 1,000 acres of wetland, salt marsh, and upland habitat — one of the largest remaining coastal wetland systems in southern California. The lagoon supports over 300 bird species, including great blue herons, ospreys, egrets, and seasonal shorebirds during migration. It is a reliable spot for birding year-round.

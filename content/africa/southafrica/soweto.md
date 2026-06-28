@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-06-04'
 latitude: -26.222778
 loc_type: city
+snippet: Johannesburg township city central to apartheid history, with Vilakazi Street
+  and Orlando West at its heart
 longitude: 27.89
-score: 0.42
+score: 7.29
 title: Soweto
 type: location
 image: soweto.jpg

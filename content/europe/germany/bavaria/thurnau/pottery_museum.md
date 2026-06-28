@@ -8,6 +8,7 @@ latitude: 50.0244
 longitude: 11.3945
 story: >
   Thurnauer Töpferei — the distinctive local earthenware — has been produced in this area since at least the 17th century, and at its peak in the 19th century the town had dozens of working potteries supplying markets across Franconia and beyond. The characteristic glaze colours and geometric patterns were copied and imitated widely, but the Thurnau originals remain identifiable to collectors. The museum holds examples spanning three centuries of production.
+score: 7.6
 ---
 
 The Thurnau Pottery Museum (Töpfereimuseum Thurnau) is the primary record of a craft tradition that defined the town's economy for centuries. Thurnau's earthenware — sturdy, well-glazed domestic pottery — was traded across Franconia and sold at markets as far away as Nuremberg. The museum traces the entire production process from raw clay extraction through to the finished glazed pieces, with working examples of traditional kiln techniques.

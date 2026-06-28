@@ -4,10 +4,12 @@ latitude: 41.392043
 longitude: 2.158891
 opening_hours: Daily 8am–1:30am
 price_range: €10–25
+score: 7.5
 snippet: Best pintxos bar in the Eixample, always busy, always worth the wait
 tags:
 - eating_out
 - restaurant
+- eixample
 title: Cervecería Catalana
 type: poi
 ---

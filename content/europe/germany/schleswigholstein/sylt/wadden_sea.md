@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: UNESCO World Heritage tidal flats running along the eastern shore of the island
+score: 9.1
 ---
 
 The Wadden Sea is the largest unbroken system of intertidal sand and mudflats in the world, stretching from the Netherlands across northern Germany to Denmark, and Sylt sits on its outer edge. The eastern side of the island, facing the mainland, is part of the Schleswig-Holstein Wadden Sea National Park — the whole area is also a UNESCO World Heritage Site, awarded for the extraordinary biodiversity of the tidal ecosystem and the millions of migratory birds that depend on it.

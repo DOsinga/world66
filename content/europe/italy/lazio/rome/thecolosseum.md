@@ -4,7 +4,8 @@ admission: €16–€22; combined ticket with Roman Forum and Palatine Hill; bo
 latitude: 41.8902
 longitude: 12.4922
 opening_hours: Daily from 09:00; closing varies by season (17:00–19:30)
-snippet: "Ancient Rome's 50,000-seat amphitheatre, the largest ever built"
+score: 9.8
+snippet: Ancient Rome's 50,000-seat amphitheatre, the largest ever built
 story: The Colosseum was built on the site of an artificial lake in Nero's private
   Domus Aurea gardens — Vespasian deliberately returned the land to the people as
   a political statement. On opening day in AD 80, the games lasted 100 days and killed
@@ -16,6 +17,7 @@ tags:
 - things_to_do
 - monument
 - theatre
+- monti
 title: Colosseum
 type: poi
 url: www.colosseo.it

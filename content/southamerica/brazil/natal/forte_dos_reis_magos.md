@@ -11,6 +11,7 @@ story: >
   The fort was begun on 6 January 1598 — the Feast of the Three Wise Men (Reis Magos) — which gave it its name and gave the city its name: Natal means Christmas in Portuguese, and the city was founded during the Christmas season. The star-shaped plan follows Renaissance fortification principles, with angled bastions designed to deflect cannon fire. It was briefly captured by the Dutch in 1633 before the Portuguese reclaimed it.
 sources:
   - https://en.wikipedia.org/wiki/Fortress_of_the_Magi
+score: 9.0
 ---
 
 The Forte dos Reis Magos stands on a reef at the very tip of a peninsula where the Potengi River meets the Atlantic, guarding the entrance to Natal's harbor. It is a star-shaped fort built in the late 16th and early 17th centuries, and it is Natal's oldest and most recognizable landmark. Walking out to it along the causeway at low tide, with the surf breaking on both sides, is one of the better approaches to any fort in Brazil.

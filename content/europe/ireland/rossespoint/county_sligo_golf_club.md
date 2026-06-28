@@ -12,6 +12,7 @@ story: >
   has been won at various times by Pádraig Harrington, Rory McIlroy, and Shane
   Lowry. The course sits between Drumcliff Bay and the open Atlantic, with
   Benbulben dominating the inland views.
+score: 6.8
 ---
 
 County Sligo Golf Club — known to most people as Rosses Point — occupies the headland north of the village. The eighteen-hole championship course is laid out across genuine links terrain: tumbling dunes, fast greens, the constant Atlantic wind, and a view of Benbulben that distracts even seasoned players.

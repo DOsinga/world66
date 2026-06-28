@@ -3,7 +3,7 @@ address: Concertgebouwplein 10
 category: Architecture
 latitude: 52.353451
 longitude: 4.881961
-neighbourhood: Museum Quarter
+score: 9.4
 snippet: World-class concert hall with free Wednesday lunchtime concerts
 tags:
 - things_to_do

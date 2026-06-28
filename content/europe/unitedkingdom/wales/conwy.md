@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Conwy_Castle,_water_view1.
 latitude: 53.146093
 loc_type: city
 longitude: -3.75992
-score: 0.63
+score: 8.32
+snippet: Medieval walled town in north Wales, still encircled by Edward I's castle
+  defenses
 title: Conwy
 type: location
 ---

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bi%C3%B1an_Church,_Laguna,
 latitude: 14.341
 loc_type: city
 longitude: 121.084
-score: 0.32
+score: 5.84
+snippet: Laguna industrial city south of Manila, with Spanish-era landmarks and Mount
+  Makiling on the horizon.
 title: Binan, Laguna
 type: location
 ---

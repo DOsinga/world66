@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.9685
 longitude: -93.2556
+score: 8.2
 ---
 
 Cedar-Riverside, the neighbourhood immediately south of downtown near the University of Minnesota West Bank campus, is the centre of the largest Somali diaspora community in the United States — a population that arrived following the collapse of the Somali state in the early 1990s. The commercial strip on Cedar Avenue between Franklin and Riverside has become one of the most concentrated Somali commercial districts outside East Africa.

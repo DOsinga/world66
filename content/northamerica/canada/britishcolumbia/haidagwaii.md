@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Haida_Gwaii_2015_16.jpg
 latitude: 53.25
 loc_type: region
 longitude: -132.0
+snippet: Remote British Columbia archipelago of Haida culture, temperate rainforest,
+  stormy straits, and ancient village sites.
 title: Haida Gwaii
 type: location
 ---

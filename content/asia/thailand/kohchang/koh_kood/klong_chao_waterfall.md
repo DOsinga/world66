@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
   - nature
+score: 8.5
 ---
 
 The most visited waterfall on the island, a three-tier cascade dropping into a deep, cool plunge pool wide enough to swim in. King Rama V signed his name on a rock here on a visit in 1911 — the inscription is still legible at the base of the falls.

@@ -7,6 +7,7 @@ tags:
 snippet: West Java's main state museum, focused on Sundanese history and culture
 latitude: -6.9378
 longitude: 107.6036
+score: 7.1
 ---
 
 The Sri Baduga is the West Java provincial museum, named after the 15th-century king of the Sundanese Pakuan Pajajaran kingdom. Three floors of exhibits walk through the geology of the province, archaeological finds from the megalithic period, the spread of Hindu-Buddhist and Islamic influence, and the textile and music traditions that survive today. The collection of *wayang golek* puppets and *kujang* daggers is particularly strong.

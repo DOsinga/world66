@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 66.7200
 longitude: 27.5000
+score: 7.0
 ---
 
 The Kemijärvi area is genuine reindeer herding country. The local Paliskunta — the reindeer herding cooperative — manages herds that roam across a vast area of forest and fell. Several farms in the surrounding countryside welcome visitors, offering the chance to meet reindeer up close, learn about the herding culture, and in winter take a sleigh ride through the snow.

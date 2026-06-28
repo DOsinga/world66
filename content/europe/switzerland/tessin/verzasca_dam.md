@@ -13,6 +13,7 @@ story: >
   few Bond film locations where you can replicate the stunt yourself.
 sources:
   - https://www.myswitzerland.com/en-us/experiences/verzasca-valley-cool-green-water/
+score: 7.4
 ---
 
 The Verzasca Dam sits at the mouth of the Verzasca Valley, about 25 kilometres north of Locarno. Built between 1961 and 1965, the double-arch concrete dam is 220 metres high and holds back a deep reservoir in the narrow gorge. By any measure it is impressive engineering; what made it famous worldwide is a different kind of jump.

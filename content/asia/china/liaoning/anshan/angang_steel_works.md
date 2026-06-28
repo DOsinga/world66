@@ -8,6 +8,7 @@ latitude: 41.1199
 longitude: 122.9696
 story: >
   The Anshan Iron and Steel Company was the industrial centrepiece of Mao Zedong's first Five-Year Plan — Mao spoke of "rebuilding Anshan" as a symbol of socialist construction, and the plant was held up as the model for Chinese heavy industry development in the 1950s. When Soviet advisors arrived to help rebuild and expand the works after 1949, they found a facility that the Japanese had already developed to remarkable scale. The combination produced what was, at its peak, one of the largest steel operations in Asia.
+score: 6.6
 ---
 
 The Angang Iron and Steel Company has defined Anshan since the 1910s, when Japanese engineers first developed steel production here on the abundant local iron ore deposits. The massive industrial complex — blast furnaces, rolling mills, cooling towers — dominates the skyline of the Tiexi District and represents one of the most significant industrial sites in Chinese history.

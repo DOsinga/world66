@@ -12,6 +12,7 @@ story: >
   convention rather than law, but it was real. After 1959 the distinction was
   abolished, and today the park is one of the most integrated public spaces in
   the country.
+score: 8.0
 ---
 
 Parque Vidal is the heart of Santa Clara — a full city block of park surrounded by the most important public buildings in the city: the Teatro La Caridad, the former city hall, the Biblioteca José Martí, and several colonial-era mansions now turned into cultural spaces. In the evenings the park fills with the entire social range of Santa Clara: children running around the central bandstand, older residents on benches, teenagers on mobile phones, and the occasional musical performance.

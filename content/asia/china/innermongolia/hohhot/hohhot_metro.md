@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8139
 longitude: 111.6641
+score: 7.1
 ---
 
 Hohhot's metro system is one of a very small number in the world to display trilingual signage on every station, platform, and rolling stock panel — Chinese characters, traditional Mongolian script (written vertically), and English. The Mongolian script, which flows from top to bottom in vertical columns, is one of the few traditional alphabets that has survived relatively intact in daily use in Inner Mongolia, and seeing it deployed throughout a modern mass transit system is unexpectedly striking.

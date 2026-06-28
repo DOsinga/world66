@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: The largest Shipibo-Conibo village on the lake, a centre for textile and ceramic arts.
 story: "The Shipibo-Conibo are the indigenous people of the central Ucayali. Their distinctive geometric *kené* patterns — labyrinthine designs painted, embroidered or sewn onto textiles and ceramics — are said by elders to be visualisations of songs received in plant-medicine ceremonies."
+score: 7.4
 ---
 
 San Francisco is the largest Shipibo settlement on Yarinacocha — about 4,000 people, a wooden church, a school, a small artisan cooperative and several family workshops where you can watch women painting *kené* designs onto cotton cloth or hand-coiling ceramic pots. Visits work best when arranged in advance through one of the Puerto Callao boatmen; show up at random and you may find people busy with their own work.

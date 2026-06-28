@@ -9,6 +9,7 @@ tags:
 title: Cruz del Cóndor
 type: poi
 story: "Andean condors have the largest wingspan of any land bird in the world — up to 3.3 metres tip to tip. They mate for life and live up to 70 years. At Cruz del Cóndor in the early morning, you can stand at eye level with one as it sweeps past on the thermals rising from the canyon."
+score: 8.9
 ---
 
 Cruz del Cóndor is the famous viewpoint on the lip of the Colca Canyon, forty minutes east of Cabanaconde by road. Andean condors nest on the cliffs below, and in the early morning, as the sun warms the canyon walls, they ride the rising thermals up past the viewpoint — often within metres of where you are standing. On a good day you see eight or ten birds at once, gliding without a wingbeat, the largest land birds in the world.

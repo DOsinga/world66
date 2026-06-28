@@ -5,8 +5,14 @@ latitude: 61.5211
 loc_type: region
 longitude: -6.8142
 score: 0.54
+snippet: Southern Faroe island of basalt cliffs, narrow fjords, and fishing villages
+  far from the main tourist loop.
 title: Suðuroy
 type: location
+image: suuroy.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hvalba_scenery.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Erik Christensen
 ---
 
 Suðuroy is the southernmost of the eighteen Faroe Islands, a dramatic slab of an island two hours by ferry from Tórshavn across open North Atlantic. It is the Faroes at their most rugged and least touristed: vertical basalt sea cliffs rising more than 400 metres straight out of the ocean on the western side, quiet fishing villages tucked into narrow fjords on the eastern side, and a population of around 4,600 spread across a dozen small communities. Almost no foreign visitors come here, and the islanders like it that way.

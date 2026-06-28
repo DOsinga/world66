@@ -6,6 +6,7 @@ longitude: 40.2780
 tags:
   - things_to_do
   - sight
+score: 5.5
 ---
 
 Al Kar is a long-running summer resort village at the bottom of the Al Hada escarpment, reached by cable car or the switchback road. It has a chairlift, small theme park rides, a few restaurants, and walking paths through the boulders at the base of the cliffs. By regional standards it is dated, but on a summer weekend it is packed with families who have come from the lowlands to escape the heat.

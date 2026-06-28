@@ -5,7 +5,9 @@ done:
 latitude: 46.184669
 loc_type: city
 longitude: 6.139684
-score: 0.49
+score: 7.72
+snippet: Geneva-area commune planned by Sardinian rulers, known for colourful streets
+  and artisan workshops.
 title: Carouge
 type: location
 ---

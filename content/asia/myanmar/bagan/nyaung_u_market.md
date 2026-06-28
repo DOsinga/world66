@@ -7,6 +7,7 @@ tags:
   - market
 title: Nyaung-U Market
 type: poi
+score: 7.1
 ---
 
 Nyaung-U's morning market is the most local thing you can do in Bagan. It runs from before dawn until mid-morning and draws vendors and buyers from the surrounding villages. Produce stalls sell tomatoes, chillies, and longan fruit; dried fish and shrimp paste fill one corner with a distinctive smell; monks move through in single file collecting alms.

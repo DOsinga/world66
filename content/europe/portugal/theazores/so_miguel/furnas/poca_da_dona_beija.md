@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 8.0
 ---
 
 Poça da Dona Beija is a small complex of warm-water bathing pools built around a stream of iron-rich thermal water on the edge of Furnas village. There are five connected pools at slightly different temperatures (around 35–40°C) arranged among ferns and trees along the watercourse. The setting is more intimate than the large Terra Nostra pool and the water is comparable in mineral content and colour.

@@ -9,6 +9,7 @@ tags:
 latitude: 52.3796
 longitude: 9.7308
 snippet: Expressionist brick high-rise from 1928, with a copper dome
+score: 7.5
 ---
 
 Hanover's first proper skyscraper — a 51-metre brick tower finished in 1928 for the Madsack newspaper group, designed by Fritz Höger in the same Expressionist brick style as his Chilehaus in Hamburg. The green copper dome on top originally contained a planetarium and now houses a cinema.

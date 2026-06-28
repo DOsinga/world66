@@ -6,6 +6,7 @@ tags:
 - museum
 title: Venkatappa Art Gallery
 type: poi
+score: 6.7
 ---
 
 The Venkatappa Art Gallery in Cubbon Park is dedicated to K. Venkatappa, who served as court artist to the Mysore maharajas in the early 20th century. The collection includes his paintings — detailed portraits, landscape studies, and mythological subjects — as well as his remarkable carved plaster works and wood sculptures. Venkatappa was technically accomplished and prolific, and the gallery gives a good sense of the artistic culture maintained by the Mysore court in the colonial period.

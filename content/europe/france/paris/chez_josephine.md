@@ -11,6 +11,7 @@ tags:
 - saint_germain
 title: Chez Josephine (Dumonet)
 type: poi
+score: 7.3
 ---
 
 Dumonet — named by locals after the formidable Josephine who once ran it — is one of the great unreconstructed bistros of the Left Bank, the kind of place that serves portions large enough to intimidate and expects you to take them seriously. The classics are perfect: soufflé Grand Marnier, cassoulet, steak au poivre.

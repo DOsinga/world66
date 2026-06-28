@@ -1,8 +1,7 @@
 ---
-category: Museum
 latitude: -33.9304
 longitude: 18.4205
-neighbourhood: City Bowl
+score: 7.7
 scores:
   activities: 0.6038
   museum: 0.6431

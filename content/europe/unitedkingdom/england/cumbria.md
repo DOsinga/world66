@@ -8,6 +8,8 @@ latitude: 54.6144
 loc_type: region
 longitude: -2.9421
 score: 0.57
+snippet: Northwestern English county of fells, lakes, and stone-walled valleys, anchored
+  by the Lake District.
 title: Cumbria
 type: location
 ---

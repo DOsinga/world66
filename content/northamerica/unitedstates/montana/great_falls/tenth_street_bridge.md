@@ -7,6 +7,7 @@ tags:
 title: Tenth Street Bridge
 type: poi
 snippet: "Long concrete-arch pedestrian bridge across the Missouri, lit up at night"
+score: 6.3
 ---
 
 The 1920 concrete arch bridge spans the Missouri in seven graceful arches and is the largest of its kind in Montana. It was converted to pedestrian and bicycle use in the 1980s when a newer car bridge took the traffic. The view from mid-span back to the downtown bluffs is one of the best photographs you'll take in the city.

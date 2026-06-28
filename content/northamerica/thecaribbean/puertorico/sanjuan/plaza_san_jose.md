@@ -9,6 +9,7 @@ tags:
   - old_san_juan
 neighbourhood: Old San Juan
 story: "The bronze statue of Ponce de León in the centre of the plaza was cast in 1882 from British cannons captured during the failed 1797 attack on San Juan by Sir Ralph Abercromby. Puerto Ricans like to point out that they melted down the enemy's guns to commemorate the conquistador who founded their country."
+score: 7.4
 ---
 
 Plaza San José is one of the prettier small squares in Old San Juan — a paved triangle in front of the Iglesia de San José, ringed by the Pablo Casals Museum, a bookshop, two small bars, and several galleries. The Ponce de León statue stands in the middle, cast from melted British cannons.

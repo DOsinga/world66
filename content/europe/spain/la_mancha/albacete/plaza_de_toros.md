@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 The bullring sits at the western edge of the city, a neo-Mudéjar brick building from 1916–17 with capacity for nearly 12,000. The big *corridas* happen during the September fair, when matadors of national stature appear; outside fair week the ring is used for concerts and the occasional cultural event.

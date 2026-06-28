@@ -10,6 +10,7 @@ tags:
 - historic
 title: Historic Main Street
 type: poi
+score: 8.8
 ---
 
 Main Street runs steeply downhill from the ridge into the Patapsco gorge, lined on both sides with stone and brick buildings from the 18th and 19th centuries. Most are now antique shops, independent restaurants, and galleries, but the bones of the mill-town architecture are intact. The street was seriously flooded in 2016 and again in 2018 — the high-water marks are sometimes still visible — and not all businesses recovered, but enough remains to make a walking tour satisfying.

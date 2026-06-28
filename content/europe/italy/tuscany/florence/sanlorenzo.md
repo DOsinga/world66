@@ -2,10 +2,12 @@
 address: Piazza San Lorenzo, 50123 Florence
 latitude: 43.7751
 longitude: 11.253
+score: 9.3
 snippet: Brunelleschi church with Medici tombs and Michelangelo library
 tags:
 - things_to_do
 - church
+- san_lorenzo_quarter
 title: San Lorenzo
 type: poi
 ---

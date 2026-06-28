@@ -8,6 +8,7 @@ latitude: 41.7283
 longitude: 125.9397
 story: >
   Yang Jingyu commanded Communist guerrilla forces against the Japanese occupation of Manchuria throughout the 1930s. When Japanese forces finally cornered him in February 1940, he had been alone in the forest for five days without food, surviving on tree bark and cotton from his own jacket. An autopsy after his death revealed he had eaten nothing but bark and grass for days. The Japanese commander reportedly said he could not understand how such a man existed. Tonghua built its main memorial to him.
+score: 7.1
 ---
 
 The Yang Jingyu Martyrs' Cemetery, built in 1954 and completed in 1957, honours the Communist resistance commander who led guerrilla forces against Japanese occupation in Manchuria and became one of the most celebrated martyrs of the anti-Japanese war. The site sits along the Tongjiang River and has the formal, classical architecture characteristic of memorial construction in the early People's Republic period.

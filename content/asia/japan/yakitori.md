@@ -4,7 +4,7 @@ tags:
 - food_and_drink
 - food
 title: Yakitori
-type: poi
+type: theme
 ---
 
 Yakitori -- skewers of chicken grilled over charcoal -- is one of Japan's great drinking foods. You will find yakitori-ya everywhere, from tiny stalls under the train tracks to proper sit-down restaurants. The best places use binchotan charcoal, which burns clean and hot.

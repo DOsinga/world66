@@ -6,6 +6,7 @@ tags:
 - sight
 title: Kharkhorin Rock
 type: poi
+score: 4.8
 ---
 A short walk from Erdene Zuu stands a large carved phallic rock, one of the more unexpected sights on the Mongolian steppe. Local tradition holds that it was placed here deliberately as a reminder to the monastery's monks of what they had renounced — a carved object of temptation positioned within sight of their vows. Whether or not that explanation is entirely true, it is the one every guide tells, and it has the satisfying quality of being just plausible enough to be taken seriously.
 

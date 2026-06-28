@@ -2,7 +2,14 @@
 category: Sight
 latitude: 43.9022
 longitude: -77.2483
+score: 9.0
 snippet: World's largest freshwater dunes and three sandy beaches
+tags:
+- things_to_do
+- sight
+- beach
+- park
+- nature
 title: Sandbanks Provincial Park
 type: poi
 ---

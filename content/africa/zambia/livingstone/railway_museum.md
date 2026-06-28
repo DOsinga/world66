@@ -8,6 +8,7 @@ latitude: -17.8625
 longitude: 25.8480
 sources:
   - https://en.wikipedia.org/wiki/Railway_Museum_(Livingstone,_Zambia)
+score: 6.2
 ---
 
 The Railway Museum is a small open-air collection of rolling stock and artefacts from Zambia's railway history, housed in the old locomotive sheds near the station. The main exhibits are the steam engines themselves — heavy, rusting, and impressive — which ran the Cape-to-Cairo line that Cecil Rhodes dreamed of building across the continent. Livingstone was an important junction on this line, and the railway brought both the colonial administration and the first significant wave of commerce.

@@ -10,6 +10,7 @@ latitude: 50.8219
 longitude: -0.1372
 story: >
   The Prince Regent (later George IV) began remodelling a modest farmhouse here in 1783. By the time John Nash finished the job in 1823, the building bore Indian domes, Chinese interiors, dragon chandeliers, and a kitchen fitted with cast-iron palm trees as columns. Brighton's fishermen reportedly watched the exotic structure rise from their boats and had no idea what to make of it.
+score: 9.4
 ---
 
 The Royal Pavilion is one of the most architecturally improbable buildings in Britain. George IV commissioned John Nash to transform a Regency villa into this extraordinary fantasy of Indian domes and minarets, with Chinese-inspired interiors that run to lacquered furniture, painted silk, and chandelier dragons three metres long. The Banqueting Room alone, with its huge lotus chandelier weighing nearly a tonne, is worth the entrance fee.

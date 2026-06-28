@@ -8,6 +8,7 @@ latitude: 42.4500
 longitude: 45.3500
 story: >
   At 3,431 metres the Atsunta Pass is the highest walkable crossing of the main Caucasus watershed inside Georgia. Tusheti shepherds and Kist horse traders have moved over it for centuries, and the path in places is worn knee-deep into the alpine turf by the hooves that have used it.
+score: 8.8
 ---
 
 The Atsunta Pass crossing from Pankisi into Tusheti is one of the classic mountain treks of the Caucasus — four to six days on foot, more comfortably done in five, sleeping in shepherds' huts and tents. The route climbs out of the upper gorge above Birkiani, gains height through forest and meadow for two days, crosses the 3,431 m Atsunta Pass on the watershed, and descends into the stone-tower villages of Tusheti National Park. Horses can be hired in Duisi or Jokolo to carry packs.

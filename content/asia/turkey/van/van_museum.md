@@ -7,6 +7,7 @@ tags:
 - museum
 title: Van Museum
 type: poi
+score: 8.3
 ---
 
 The Van Museum (Van Müzesi) holds the best collection of Urartian material outside Ankara, drawn from the dozens of fortress and palace sites that dot Van Province. Bronzes (cauldrons, weapons, votives), gold and silver jewellery, cuneiform tablets, and architectural fragments from the citadel itself fill the main galleries.

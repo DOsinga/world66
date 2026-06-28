@@ -7,6 +7,7 @@ tags:
 latitude: -8.6717
 longitude: 115.2339
 story: "Taman Festival Bali opened in 1997 as a US$25 million theme park designed to rival Disneyland. The 1998 Asian financial crisis struck within a year of opening, wiping out Indonesian tourism and leaving the park bankrupt. The owners never dismantled it — they simply walked away, leaving the rides, animatronic dinosaurs, and concrete structures to the tropical jungle that has been slowly reclaiming it ever since."
+score: 5.8
 ---
 
 On the eastern edge of Denpasar, hidden behind overgrown walls near the beach at Sanur, lies one of the strangest sights in Bali — an abandoned theme park being consumed by rainforest. Taman Festival Bali opened in 1997 and closed within a year, a casualty of the Asian financial crisis. The park has been left to nature ever since, and the result is genuinely eerie: rusting roller coaster tracks disappearing into thick vegetation, concrete dinosaur sculptures wearing strangling vines like scarves, a collapsed amphitheatre where monitor lizards sun themselves on broken seating.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.4333
 longitude: 81.6956
+score: 7.6
 ---
 
 Narsapur is famous across India for its handmade lace, and the town and surrounding villages are among the largest centres of the craft anywhere in Asia. The industry was introduced by missionaries in the 19th century, and it took root so thoroughly that today tens of thousands of women in the delta region earn their livelihoods making lace in their homes. The designs range from traditional European patterns to distinctly Indian motifs.

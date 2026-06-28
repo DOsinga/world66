@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.8044
 longitude: 2.1219
+score: 6.7
 ---
 
 The Musée de l'Histoire de France occupies the north and south wings of the palace — essentially, the parts that are not the King's Apartment or the Hall of Mirrors. Created by Louis-Philippe in 1837, it was the first major public museum in France dedicated to national history, and it transformed Versailles from a deserted royal palace into a living institution.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, beach, nature]
 latitude: 26.7058
 longitude: -80.0305
+score: 6.6
 ---
 
 The Atlantic beach on the east side of Palm Beach is public and free, which surprises some visitors who expect the whole island to be gated. The town operates several public beach access points with parking (paid), showers, and restrooms. The beach is wide, clean, and well maintained, and the water is warm for most of the year.

@@ -8,6 +8,8 @@ latitude: 51.706856
 loc_type: region
 longitude: -2.692298
 score: 0.59
+snippet: Border river valley of wooded gorges, book towns, and the ruined arches of
+  Tintern Abbey.
 title: Wye Valley
 type: location
 ---

@@ -19,6 +19,7 @@ story: >
   develop a whole school of climbing technique in the 1950s and 60s when the
   area was pioneered by the Vulgarians, a deliberately anti-establishment
   climbing club who prized hard routes and harder drinking.
+score: 9.1
 ---
 
 Mohonk Preserve is a 8,000-acre nature sanctuary on the Shawangunk Ridge west of New Paltz, managed as a nonprofit land trust since 1963. It protects one of the most botanically and geologically distinctive landscapes in the Northeast: a long quartzite ridge with exposed white conglomerate cliffs, pitch pine barrens, sky lakes, and sweeping views across the Hudson Valley to the Catskills.

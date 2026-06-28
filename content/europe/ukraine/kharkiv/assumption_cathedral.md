@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.9964
 longitude: 36.235
+score: 5.6
 ---
 
 The Cathedral of the Assumption of the Blessed Virgin Mary is the principal Roman Catholic church in Kharkiv, serving the city's small but historically significant Polish and other Catholic communities. The building dates from the late 19th century and was designed in a neo-Gothic style, its twin spires a distinctive landmark in the city centre near Freedom Square.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.6667
 longitude: 76.0000
+score: 7.4
 ---
 
 Soochipara — also known as Sentinel Rock Waterfalls — is a three-tiered waterfall about 20km from Kalpetta in the Vellarimala area. The falls drop about 200m in total, and the third and lowest tier, accessible by a trail through the forest, is the most impressive. There is a pool at the base where swimming is possible when water levels are safe.

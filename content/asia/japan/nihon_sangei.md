@@ -5,7 +5,7 @@ tags:
 - landmark
 - sights
 title: Nihon Sankei
-type: poi
+type: theme
 ---
 
 The Nihon Sankei are the Three Views of Japan, a designation dating back to 1643. They are Miyajima, Amanohashidate, and Matsushima. Don't expect majestic scenery — the beauty is much more subtle.

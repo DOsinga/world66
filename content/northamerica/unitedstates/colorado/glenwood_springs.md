@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Glenwood_Springs_city_view
 latitude: 39.546638
 loc_type: city
 longitude: -107.324694
-score: 0.56
+score: 7.98
 title: Glenwood Springs
 type: location
+snippet: Colorado mountain town at two river confluences, known for hot springs and
+  whitewater rafting.
 ---
 
 Glenwood Springs sits at the confluence of the Colorado River and the Roaring Fork River, surrounded by some of the best outdoor country in the Rocky Mountains. The two rivers bring gold-medal fly fishing, [world-class whitewater rafting](/northamerica/unitedstates/colorado/glenwood_springs/colorado_river_rafting) and kayaking right through town.

@@ -13,6 +13,7 @@ story: >
   the Venetian urban plan was laid out. The 1604 cistern at its centre was built during
   a siege — the Ottoman fleet had blockaded the port and cut off the fresh water supply
   from the mainland. The Venetian governor ordered the cistern built in a matter of weeks.
+score: 7.6
 ---
 
 The main square of Hvar Town — formally Trg Sv. Stjepana (St. Stephen's Square), known locally as Pjaca — is the social centre of the island in summer. Surrounded by 15th and 16th-century Venetian Gothic palaces, the Arsenal at the western end, the Cathedral at the eastern, and the harbour beyond, it is the kind of space that makes you understand why Venice built so prolifically on the Adriatic coast.

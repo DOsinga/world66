@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -6.1167
 longitude: 177.2833
+score: 6.7
 ---
 
 Kulia is the larger of Niutao's two villages, set on the western side of the island where the cargo is lightered ashore from the inter-island boat. Most of the island's population lives here, in low concrete and timber houses spread among the coconut palms behind the beach. The maneapa, the island council office, and the small co-operative shop are all in Kulia, along with the only fuel for the few outboard engines on the island.

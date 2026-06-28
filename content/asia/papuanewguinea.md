@@ -14,7 +14,8 @@ quick_facts:
   English: "Official language (plus Tok Pisin)"
   Languages Spoken: "Over 800"
   Highland Contact: "Some communities first contacted in the 1930s"
-score: 0.43
+score: 0.51
+snippet: Mountainous Pacific country with more than 800 languages and communities still reached mainly by air or foot.
 title: Papua New Guinea
 type: location
 loc_type: country
@@ -32,6 +33,7 @@ The country occupies the eastern half of the island of New Guinea and includes h
 
 - [Port Moresby](/asia/papuanewguinea/portmoresby) — the capital and main entry point
 - [Lae](/asia/papuanewguinea/lae) — the second city, industrial, on Huon Gulf
+- [Mount Hagen](/asia/papuanewguinea/mount_hagen) — Western Highlands city and base for the Mount Hagen Show
 - [Madang](/asia/papuanewguinea/madang) — the prettiest town in PNG, known for diving
 - [Rabaul](/asia/papuanewguinea/rabaul) — volcanic harbour, WWII history, East New Britain
 - [Sepik River](/asia/papuanewguinea/sepikriver) — river journey, wood carving, remote villages

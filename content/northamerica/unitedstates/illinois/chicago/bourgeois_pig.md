@@ -9,8 +9,10 @@ snippet: Parisian-themed Lincoln Park cafe with literary-named sandwiches and vi
   charm
 tags:
 - bars_and_cafes
+- lincoln_park
 title: Bourgeois Pig
 type: poi
+score: 5.9
 ---
 
 A Parisian-flavored cafe tucked near the DePaul campus, complete with a model Eiffel Tower outside the window. The shelves are lined with books and vintage trinkets, and the sandwiches — named after literary works like Hamlet and The Egg and I — are the best items on the menu. Ground floor seating has retro rock, upstairs gets classical. Outdoor seating on both levels in warm weather.

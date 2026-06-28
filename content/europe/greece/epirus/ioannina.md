@@ -13,6 +13,7 @@ story: >
   from the Sultan. His head was sent to Constantinople. The monastery where it
   happened still stands on the island, and the bullet holes in the floor of his
   final refuge are still visible.
+score: 8.8
 ---
 
 Ioannina is the capital of Epirus and one of the most interesting cities in northern Greece — a lakeside city with a well-preserved Ottoman old town, a castle on a promontory jutting into Lake Pamvotis, and a long history as the capital of Ali Pasha's quasi-independent Ottoman domain in the late 18th and early 19th centuries. The old city within the castle walls contains mosques, a Byzantine museum, and the tower where Ali Pasha made his last stand before being killed.

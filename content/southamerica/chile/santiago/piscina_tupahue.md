@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4204
 longitude: -70.6365
+score: 7.2
 ---
 
 Piscina Tupahue and the adjacent Piscina Antilén sit near the summit of Cerro San Cristóbal, making them the most dramatically situated public swimming pools in any major city in South America. The pools are open in the Santiago summer (December to March), and swimming here — with views of the Andes on one side and the city sprawled below on the other — is one of the better experiences available in the city for a modest entrance fee.

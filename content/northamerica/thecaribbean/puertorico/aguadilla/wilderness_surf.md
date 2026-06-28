@@ -7,6 +7,7 @@ tags:
 latitude: 18.463
 longitude: -67.169
 story: "Wilderness sits at Punta Borinquen, the island's northwestern tip, where north and northwest swells wrap around the headland and produce a long, fast right-hander. The break has hosted international surf competitions and draws professional surfers from Puerto Rico and beyond when the swell is running."
+score: 8.1
 ---
 
 Wilderness is the most celebrated surf break in the Aguadilla area and one of the most respected in Puerto Rico. It works best on a north or northwest swell, which hits the reef at Punta Borinquen and peels off into long, workable walls. The wave is powerful and fast enough to attract serious surfers, and the site has hosted rounds of the Puerto Rico Surf Series. On a good day the right-hand point break runs for several hundred metres.

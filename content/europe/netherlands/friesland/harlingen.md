@@ -9,7 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Harlingen._Harlingen._Klei
 latitude: 53.17521
 loc_type: city
 longitude: 5.4142
-score: 0.47
+score: 6.95
+snippet: Frisian Wadden Sea harbour town and ferry port for Terschelling and Vlieland.
 title: Harlingen
 type: location
 ---

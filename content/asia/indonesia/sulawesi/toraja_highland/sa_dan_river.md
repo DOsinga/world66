@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.89
 longitude: 119.9
+score: 7.6
 ---
 
 The Sa'dan River flows north of Rantepao through a wide valley of rice terraces and traditional villages. The area around Sa'dan itself is known for its weavers — local women produce the geometric ikat textiles that are worn during ceremonies and sold in markets throughout the highlands. You can watch the weaving process at small family workshops along the roadside, and buy cloth directly from the producers at fair prices.

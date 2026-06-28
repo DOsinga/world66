@@ -1,9 +1,11 @@
 ---
 latitude: 29.975281
 longitude: 31.137512
+score: 9.0
 snippet: Iconic half-lion, half-human limestone monument at Giza
 tags:
-- things_to_do
+- day_trips
+- giza
 title: Sphinx
 type: poi
 ---

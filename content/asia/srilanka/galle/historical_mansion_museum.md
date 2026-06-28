@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 6.026300
 longitude: 80.217500
+score: 6.7
 ---
 
 The Historical Mansion on Leyn Baan Street is a private museum in a beautifully restored Dutch-era merchant's house, built around a central courtyard with a verandah on all sides. The owner, a local gem trader, has filled the rooms with his personal collection — antique furniture, VOC-period porcelain, typewriters, sewing machines, glassware, traditional jewellery — accumulated over decades.

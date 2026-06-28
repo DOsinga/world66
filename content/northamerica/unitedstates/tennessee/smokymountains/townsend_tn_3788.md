@@ -5,7 +5,9 @@ done:
 latitude: 35.6754
 loc_type: city
 longitude: -83.7557
-score: 0.51
+score: 7.65
+snippet: Quiet Smoky Mountains gateway town near Cades Cove, known for river scenery
+  and heritage sites.
 title: Townsend
 type: location
 ---

@@ -9,6 +9,7 @@ snippet: "Islamic Center of Marawi — the largest mosque in the southern Philip
 address: "Pangarungan Village"
 latitude: 8.0006
 longitude: 124.2931
+score: 7.6
 ---
 
 The Marawi Grand Mosque — formally the Islamic Center of Marawi — is the largest mosque in the southern Philippines, a domed building with twin minarets that anchors the north side of the city. It was completed in 1986 as a gift from a delegation of Middle Eastern governments, and the architecture is more Gulf than Filipino: white stone, broad plazas, large domed prayer hall capable of holding several thousand worshippers.

@@ -13,6 +13,7 @@ story: >
   was inscribed as a UNESCO World Heritage Site in 1997, and the density of Romanesque
   and Gothic architecture on its small island is higher than almost anywhere else in the
   Adriatic.
+score: 7.9
 ---
 
 Trogir is a small medieval city built on a tiny island connected by bridges to the mainland and to the larger island of Čiovo, about 30km west of Split along the coastal highway. Its UNESCO-listed old town is a remarkable concentration of Romanesque and Gothic architecture: the Cathedral of St Lawrence with its extraordinary Romanesque portal carved by Master Radovan in 1240 is the finest medieval sculpture on the Adriatic coast; the Riva waterfront, the Kamerlengo fortress, and the town loggia are all in excellent condition.

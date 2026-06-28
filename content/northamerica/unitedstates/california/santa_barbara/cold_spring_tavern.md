@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.5333
 longitude: -119.8047
+score: 7.5
 ---
 
 Cold Spring Tavern is a tiny, ramshackle wooden roadhouse hidden in an oak grove off Stagecoach Road, which used to be the main route over the Santa Ynez Mountains before Highway 154 cut a faster line a few hundred metres to the east. The tavern has been serving drinks and food since 1886, when stagecoaches stopped here to change horses, and its dark, smoke-stained interior with antlers on the walls has barely changed.

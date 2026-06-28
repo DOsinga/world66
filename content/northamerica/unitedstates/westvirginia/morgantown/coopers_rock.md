@@ -11,6 +11,7 @@ latitude: 39.6500
 longitude: -79.8000
 sources:
   - https://en.wikipedia.org/wiki/Coopers_Rock_State_Forest
+score: 9.0
 ---
 
 Coopers Rock State Forest covers nearly 13,000 acres of ridges and hollows east of Morgantown, about 13 miles out on I-68. The main overlook above Cheat Canyon is one of the most dramatic viewpoints in the Appalachians — a long eastward view across forested ridges and the Cheat River winding far below through a 1,000-foot gorge. In fall the colours are exceptional.

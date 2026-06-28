@@ -8,6 +8,7 @@ latitude: 36.5085
 longitude: -4.895
 story: >
   Fontanilla is one of the rare Blue Flag beaches on the Costa del Sol that has been continuously certified since the scheme began in Spain in 1987. The Blue Flag standard is maintained partly because Fontanilla has no river outflow and limited development directly behind it — the promenade acts as a buffer between the beach and the old town.
+score: 6.0
 ---
 
 The main beach closest to Marbella's old town, a wide strip of grey-gold sand with calm, shallow water and good facilities — showers, lifeguards, beach bars, and sunbed rental. Fontanilla is the most accessible beach for day visitors staying in the centre, easily reached via the Avenida del Mar from the old town.

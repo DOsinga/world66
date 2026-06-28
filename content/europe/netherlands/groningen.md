@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Groningen_(stad),_station_
 latitude: 53.219065
 loc_type: city
 longitude: 6.568008
-score: 0.54
+score: 7.94
+snippet: Northern Dutch university city with canal-ring fragments, medieval landmarks,
+  and a stubbornly independent character
 title: Groningen
 type: location
 ---

@@ -8,6 +8,7 @@ latitude: 45.1619
 longitude: 10.7937
 story: >
   The piazza is named after Sordello da Goito, a 13th-century troubadour from the Mantuan region who became famous enough to appear in Dante's Purgatorio. Dante, writing in Italian, depicts Sordello sitting apart from the other souls, "proud and disdainful in his bearing" — and then bursting into a tearful embrace when he discovers a fellow Mantuan. The piazza was renamed for him in the 19th century.
+score: 7.7
 ---
 
 Piazza Sordello is the historic and ceremonial heart of Mantua, a long, rectangular space flanked by the Palazzo Ducale on one side and the Palazzo Bianchi and Palazzo Bonacolsi on the other. The Mantua Cathedral occupies the north end. The overall effect, especially in the late afternoon when the crowds thin out, is of a stage set for Renaissance ambition — grand, slightly theatrical, and very quiet.

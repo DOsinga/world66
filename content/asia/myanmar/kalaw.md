@@ -7,7 +7,9 @@ done:
 latitude: 20.6357
 loc_type: city
 longitude: 96.5669
-score: 0.47
+score: 7.79
+snippet: Shan Plateau hill station with pine forests, colonial bungalows, trekking
+  routes, and a mixed highland culture
 title: Kalaw
 type: location
 ---

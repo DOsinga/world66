@@ -5,9 +5,11 @@ done:
 latitude: 42.3251
 loc_type: city
 longitude: -72.6317
-score: 0.44
+score: 6.92
 title: Northampton
 type: location
+snippet: College town in western Massachusetts with a progressive downtown anchored
+  by Smith College and Pioneer Valley arts.
 ---
 
 **Northampton** is a lively college town in the Pioneer Valley of western Massachusetts, home to [Smith College](/northamerica/unitedstates/massachusetts/northhampton/smith_college) and a thriving arts and dining scene. [Main Street](/northamerica/unitedstates/massachusetts/northhampton/main_street) is packed with independent bookshops, cafes, galleries, and restaurants — it is one of the most walkable downtowns in New England.

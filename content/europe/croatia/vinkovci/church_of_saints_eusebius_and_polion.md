@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Church of Saints Eusebius and Polion
 type: poi
+score: 7.2
 ---
 
 The Church of Saints Eusebius and Polion stands on Vinkovci's central square, a dignified late-Baroque building that serves as the architectural anchor of the town centre. The church is dedicated to two Christian martyrs from ancient Cibalae who were executed in 304 AD during the Diocletian persecutions. Their relics are preserved here, connecting the modern church to the Roman city that preceded the Slavonian town.

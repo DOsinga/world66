@@ -7,6 +7,7 @@ tags:
 - landmark
 title: The Man with Two Hats
 type: poi
+score: 4.8
 ---
 
 A monument unveiled in May 2000 by Princess Margriet, honouring the Canadian soldiers who liberated the Netherlands in World War II. An identical replica stands in Ottawa. A small but moving reminder of the deep Dutch-Canadian bond.

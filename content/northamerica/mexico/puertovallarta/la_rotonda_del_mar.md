@@ -7,6 +7,7 @@ tags:
 - sight
 title: La Rotonda del Mar
 type: poi
+score: 6.2
 ---
 
 A bronze installation by Mexican sculptor Alejandro Colunga, occupying a small terrace on the Malecón directly opposite the Hotel Rosita. The piece consists of twelve oversized chairs and thrones, each grotesquely embellished with skeletal arms, animal heads, fish tails, and writhing tentacles. Children love them, adults find them slightly unsettling, and they are the most photographed sculptures on the boardwalk.

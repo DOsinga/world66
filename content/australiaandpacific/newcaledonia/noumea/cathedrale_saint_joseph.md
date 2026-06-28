@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Cathédrale Saint-Joseph
 type: poi
+score: 7.4
 ---
 
 The Cathedral of Saint Joseph is the oldest surviving substantial building in Nouméa, a neo-Gothic structure completed in 1887 on a hill above the city centre. Its twin towers serve as landmarks visible from much of the lower city, and the cathedral's elevated position — a short walk up from Place des Cocotiers — gives fine views across the rooftops and bay.

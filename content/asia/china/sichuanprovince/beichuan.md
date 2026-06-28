@@ -4,6 +4,9 @@ done:
 latitude: 31.8299
 loc_type: city
 longitude: 104.4572
+score: 6.37
+snippet: Sichuan memorial county where the preserved Qushan ruins mark the destruction
+  of the 2008 earthquake.
 sources:
 - https://en.wikivoyage.org/wiki/Beichuan
 title: Beichuan

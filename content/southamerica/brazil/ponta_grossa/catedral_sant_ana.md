@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -25.09819
 longitude: -50.15889
+score: 5.8
 ---
 
 The Cathedral of Sant'Ana is Ponta Grossa's most recognisable landmark, a neo-Gothic church completed in the early 20th century that rises above the city's central Praça Marechal Floriano Peixoto. The twin towers are visible from much of the downtown area and remain a useful orientation point.

@@ -12,6 +12,7 @@ story: >
   spiritual practice: the Tindana, or earth priest, who maintains the shrine descends from a
   lineage that has served these sacred stones for generations. Visitors are shown around by a
   guide who mediates between the sacred landscape and the outside world.
+score: 8.7
 ---
 
 The Tengzug Shrine sits in the Tongo Hills south of Bolgatanga, among a dramatic scatter of granite boulders that the Talensi people consider sacred. The shrine complex is one of the most important traditional religious sites in Ghana and is still actively used for ceremonies, sacrifices, and consultations. It was included on the UNESCO Tentative List in recognition of its cultural significance.

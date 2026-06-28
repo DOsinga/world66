@@ -9,6 +9,7 @@ latitude: 41.9076
 longitude: 13.0746
 sources:
   - https://en.wikipedia.org/wiki/Abbey_of_Saint_Scholastica,_Subiaco
+score: 8.6
 ---
 
 The Abbey of Santa Scolastica is the oldest Benedictine monastery in continuous operation in the world — founded in the sixth century and still home to a community of monks today. Named after Benedict's twin sister, it has been rebuilt and expanded many times, and its three cloisters span Romanesque, Gothic, and Renaissance styles in succession, each one a small masterpiece.

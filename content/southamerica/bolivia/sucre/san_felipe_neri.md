@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Climb to the whitewashed rooftop terrace for the classic Sucre view
+score: 8.7
 ---
 
 San Felipe Neri is an 18th-century Oratorian monastery whose chief attraction for visitors is the climb to its broad whitewashed rooftop. The roof is reached up a narrow staircase from the cloister and opens onto a kind of terrace city: domes, bell towers, and parapets all painted in the same bright lime-white as the rest of Sucre's centre. From up here you can see the cathedral, La Merced, and the green hills behind the town. It is the best near-ground-level view of Sucre and a favourite spot for photographers.

@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 43.3694
 longitude: -8.3939
+score: 8.2
 ---
 
 The Ciudad Vieja (Old Town) is the original settlement on the La Coruña peninsula, a compact tangle of medieval streets clustered around two fine Romanesque churches. The neighbourhood has been sensitively restored without losing its character: the streets are narrow and shaded, the stone buildings are weathered but inhabited, and the plazas host local rather than tourist life.

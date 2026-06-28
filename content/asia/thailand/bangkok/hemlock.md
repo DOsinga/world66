@@ -2,10 +2,12 @@
 address: 56 Phra Athit Rd
 latitude: 13.7619
 longitude: 100.4935
+score: 6.6
 snippet: Cheap, excellent Thai food near Khao San run by ex-students
 tags:
 - eating_out
 - restaurant
+- banglamphu
 title: Hemlock
 type: poi
 ---

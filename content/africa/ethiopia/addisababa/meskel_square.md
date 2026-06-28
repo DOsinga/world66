@@ -13,6 +13,7 @@ story: >
   huge bonfire called Demera, preceded by a procession of priests in colourful robes
   carrying ceremonial crosses. Over a million people can gather in and around the square —
   one of the largest religious gatherings in Africa.
+score: 7.7
 ---
 
 A huge paved plaza in the southern part of central Addis, Meskel Square serves as the city's main ceremonial space. For much of the year it is a traffic circle and open expanse, but during major festivals — particularly the Meskel celebration in September and Timkat (Ethiopian Epiphany) in January — it fills with extraordinary crowds.

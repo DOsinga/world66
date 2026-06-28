@@ -13,6 +13,7 @@ story: >
   Protectorate. It collapsed in 2003 from age and disease, but its bleached
   skeleton still stands as a sombre landmark, the trunk too vast for two
   people to encircle.
+score: 8.4
 ---
 
 The Cèdre Gouraud Forest spreads across the high plateau between Azrou and Ifrane, a vast woodland of Atlas cedar — one of the few major populations of this endangered Mediterranean conifer. The forest stretches for miles, threaded with quiet roads and tracks suitable for walking, mountain biking, or a long picnic.

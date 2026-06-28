@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.9245
 longitude: 14.7411
+score: 6.8
 ---
 
 Santa Maria dei Miracoli is a Baroque church near the eastern end of Ibla, slightly off the main tourist circuit and often overlooked. It dates from the early 18th century and has a restrained facade compared to the more theatrical churches of the main piazza.

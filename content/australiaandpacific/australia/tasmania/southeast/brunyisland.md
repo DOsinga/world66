@@ -5,6 +5,7 @@ tags: [things_to_do, island, nature, hiking]
 snippet: "Wild island off Tasmania's Channel coast, split by a narrow isthmus"
 latitude: -43.2899
 longitude: 147.2891
+score: 9.4
 ---
 
 Bruny Island is accessible as a day trip from Hobart, but to do the island justice you should take a weekend. The northern half is mostly grazing land, with a few small towns and good swimming beaches. The hike to Elizabeth Bay is well worth the effort.

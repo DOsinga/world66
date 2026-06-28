@@ -17,6 +17,7 @@ story: >
   almost immediately, in 1912, after only two corridas had been held.
   Mihanovich's grand resort project was abandoned. The bullring has never been
   used for its intended purpose since.
+score: 8.8
 ---
 
 The Plaza de Toros Real de San Carlos, about 4 kilometres north of the Barrio Histórico, is one of the most unusual buildings in Uruguay. Built in 1910 in Moorish Revival style, with elaborate terracotta and tile decoration, it was intended to be the largest bullring in the Americas, with a capacity of around 10,000 spectators. The building took less than a year to construct, which is remarkable for its scale.

@@ -8,6 +8,7 @@ latitude: 20.9150
 longitude: -11.6200
 sources:
   - https://en.wikipedia.org/wiki/Ouadane
+score: 7.0
 ---
 
 Below the cliff ruins, the wadi that gives Ouadane its name ("two wadis" in Arabic) cuts through the plateau and supports a belt of date palms. The palms are the town's most important agricultural resource and the reason anyone settled here in the first place — fresh water, shade, and dates for caravan provisions.

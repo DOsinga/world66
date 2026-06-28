@@ -9,6 +9,7 @@ latitude: 26.5234
 longitude: -78.3456
 story: >
   Gold Rock Beach appeared in the Pirates of the Caribbean films — Port Royal in the first film was shot partly here, and production crews were frequent visitors in the early 2000s. The beach's relative inaccessibility (a 40-minute drive from Freeport) has kept it from being overrun despite its cinematic credentials.
+score: 8.8
 ---
 
 Consistently rated one of the best beaches in the Bahamas, Gold Rock Beach lies at the southern end of Lucayan National Park, about 40 kilometres east of Freeport. It is a long arc of powdery white sand backed by pine forest and dunes, with shallow turquoise water that deepens gradually — good for swimming at most tidal states.

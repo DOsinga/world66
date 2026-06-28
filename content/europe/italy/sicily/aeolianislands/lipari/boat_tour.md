@@ -6,6 +6,7 @@ longitude: 14.9565
 tags:
   - things_to_do
   - activity
+score: 7.9
 ---
 
 The standard half-day boat tour leaves from Marina Lunga and rings the island in three to four hours, stopping for swimming at the best of the rocky coves on the west coast and pausing under the high cliffs around Capo Rosso. The route takes in the obsidian flows at Rocche Rosse, the kaolin quarries at Quattropani, and the towering Faraglioni stacks at Pietra del Bagno.

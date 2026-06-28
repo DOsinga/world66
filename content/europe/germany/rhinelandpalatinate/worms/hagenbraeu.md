@@ -10,6 +10,7 @@ tags:
   - bar
 address: Am Rhein 3
 snippet: "Brewpub overlooking the Rhine, next to the Hagen statue"
+score: 5.3
 ---
 
 A working brewpub on the Rhine embankment near the Hagendenkmal, with the river running just

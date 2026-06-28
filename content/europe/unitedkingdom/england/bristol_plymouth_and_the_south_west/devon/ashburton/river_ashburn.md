@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 50.523
 longitude: -3.757
+score: 5.4
 ---
 
 The Ashburn is the river that gives Ashburton its name, flowing through the lower part of the town and down to join the Dart near Buckfastleigh. In the town itself the river runs alongside the lower streets and is a pleasant presence — audible from the main shopping street, accessible from several points below the town hall.

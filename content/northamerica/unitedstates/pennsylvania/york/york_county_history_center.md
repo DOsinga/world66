@@ -6,6 +6,7 @@ longitude: -76.7261
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The York County History Center on East Market Street is the main repository of the region's history and manages several historic properties around town, including the Colonial Complex. Its main galleries cover Pennsylvania Dutch culture, the Civil War, and York County's manufacturing history — the region was a significant industrial centre through the twentieth century, producing everything from casings to turbines.

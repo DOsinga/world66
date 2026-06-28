@@ -8,6 +8,7 @@ tags:
 latitude: 41.313056
 longitude: -105.581389
 story: "The UW Art Museum holds around 7,000 works and punches well above its weight for a state university in a town of 30,000 people. The permanent collection includes significant holdings in American Western art, photography, and pre-Columbian objects — assembled over decades through gifts and targeted acquisitions by curators who made a virtue of the institution's geographic remoteness."
+score: 7.3
 ---
 
 The University of Wyoming Art Museum is free to enter and houses a collection that would not embarrass a much larger institution. The American art holdings are the strongest, with good representation of the Hudson River School and twentieth-century Western painting, but the museum also runs serious temporary exhibitions that draw from national collections and travelling shows.

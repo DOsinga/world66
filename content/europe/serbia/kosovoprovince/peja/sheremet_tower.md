@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.6558
 longitude: 20.2905
+score: 6.7
 ---
 
 The Sheremet Tower is a well-preserved Dukagjin stone defensive tower — kulla — with the characteristic thick limestone walls, narrow rifle-loop windows, and high interior ceiling beams that defined this building type across the Accursed Mountains region. The tower rises four storeys; the ground floor was used for animals and storage, the upper floors for the family's living quarters, with the finest reception room at the top where guests were received.

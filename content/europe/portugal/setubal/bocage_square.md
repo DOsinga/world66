@@ -6,6 +6,7 @@ longitude: -8.8920
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The town's main square is named for Manuel Maria Barbosa du Bocage (1765-1805), Setúbal's most famous son and one of the great pre-Romantic poets of Portugal. His bronze statue stands in the middle, looking faintly disapproving. The buildings around the square include the town hall, a baroque-fronted church, and a row of pastelarias good for an afternoon coffee.

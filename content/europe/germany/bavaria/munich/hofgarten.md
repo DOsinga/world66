@@ -8,6 +8,7 @@ tags:
 latitude: 48.1419
 longitude: 11.5797
 story: "The Hofgarten's Dianatempel is a small octagonal pavilion at the garden's centre, built in 1615. Locals play chess on the tables around it in summer and hold impromptu dance sessions (traditional Bavarian couples dancing, to a boom box) on Sunday afternoons — a peculiarly Munich combination of the grand and the informal."
+score: 8.0
 ---
 
 A formal Italian Renaissance garden on the north side of the Residenz, enclosed by arcaded walks that were once used as a promenade by the Munich court. The garden is small but meticulously maintained, with gravel paths, clipped hedges, and the circular Dianatempel at the centre. The arcades contain frescoes depicting Wittelsbach history.

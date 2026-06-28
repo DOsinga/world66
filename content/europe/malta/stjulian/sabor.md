@@ -7,6 +7,7 @@ tags:
   - paceville
 latitude: 35.9228
 longitude: 14.4913
+score: 4.8
 ---
 
 Sabor is a well-established cocktail bar in the Paceville area with Latin American influences — caipirinhas, mojitos, and rum-based drinks are done well here. The bar runs late and has a dance floor that gets going around midnight on weekends. Less overwhelming than the large clubs but more energetic than a sit-down restaurant bar.

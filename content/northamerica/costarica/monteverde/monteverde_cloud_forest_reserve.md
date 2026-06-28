@@ -6,6 +6,7 @@ tags: [things_to_do, sight, nature_reserve, wildlife]
 latitude: 10.3025
 longitude: -84.7956
 story: "The reserve grew from research by biologist George Powell in the early 1970s after he watched logging spreading up the mountain. The Tropical Science Center bought the first 328 hectares with funding from Powell, the Quaker community, and the World Wildlife Fund."
+score: 9.4
 ---
 
 The Monteverde Cloud Forest Reserve is the original protected area on the mountain and still the headline destination — 10,500 hectares of largely virgin forest spread across the continental divide between the Atlantic and Pacific slopes. The trail network around the visitor centre is well maintained and lets you walk through six different life zones in a few hours, from open lookouts to dripping moss-covered cloud forest.

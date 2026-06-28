@@ -9,7 +9,9 @@ image_source: https://www.flickr.com/photos/80424201@N00/4992925350
 latitude: 50.636565
 loc_type: city
 longitude: 3.063528
-score: 0.51
+score: 7.88
+snippet: Flemish-flavoured French city of red-brick old streets, lively food culture,
+  and cross-border metropolitan life.
 title: Lille
 type: location
 ---

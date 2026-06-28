@@ -12,6 +12,7 @@ tags:
   - sight
 title: Bala Hissar
 type: poi
+score: 7.1
 ---
 
 Bala Hissar — "High Fort" in Dari — is the great citadel mound that anchors the northern edge of old Balkh. It is not a single building but a tells: a mound of compacted rubble and earth that represents 3,500 years of continuous occupation, each civilization building on the ruins of the last. Walking across it, you are stepping on layers of Achaemenid, Macedonian, Kushan, Arab, Timurid, and Uzbek occupation, though there is nothing clearly defined to see above ground.

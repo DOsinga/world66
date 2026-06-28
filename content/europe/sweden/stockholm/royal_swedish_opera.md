@@ -1,11 +1,12 @@
 ---
 latitude: 59.3297
 longitude: 18.0706
+score: 8.1
 tags:
 - things_to_do
 - sight
 - architecture
-- gamla_stan
+- norrmalm
 title: Royal Swedish Opera
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Pioneer Trolley
 type: poi
+score: 4.6
 ---
 
 The Pioneer Trolley is a free open-air trolley ride around Temple Square and the surrounding blocks, with a guide narrating the key historic sites along the route. Six stops allow passengers to hop on and off. It runs Monday through Saturday, 10am to 4pm during the summer months only.

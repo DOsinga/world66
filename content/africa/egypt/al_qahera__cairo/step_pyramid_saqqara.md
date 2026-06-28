@@ -8,6 +8,7 @@ latitude: 29.8713
 longitude: 31.2167
 story: >
   The Step Pyramid of Djoser, built around 2630 BCE, is the earliest large-scale stone structure in human history. Its architect, Imhotep, was so revered for the achievement that he was eventually deified — worshipped as a god of medicine and wisdom for thousands of years after his death. The Greeks identified him with Asclepius, their own healing deity. He is one of very few non-royal ancient Egyptians to have been elevated to divine status.
+score: 9.1
 ---
 
 The Step Pyramid complex at Saqqara, about 30 kilometres south of Cairo, is older than the Giza pyramids and architecturally their ancestor. Built around 2630 BCE for the pharaoh Djoser by the architect Imhotep, it is the first large-scale stone structure in human history — a series of six mastabas stacked in decreasing size to create a stepped pyramid 62 metres high.

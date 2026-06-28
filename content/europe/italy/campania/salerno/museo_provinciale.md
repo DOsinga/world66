@@ -7,6 +7,7 @@ tags:
   - historic_centre
 latitude: 40.6808
 longitude: 14.7609
+score: 7.4
 ---
 
 The Provincial Museum of Salerno occupies the former Benedictine convent of San Benedetto in the heart of the old town and holds the most important archaeological collection in the province. The displays cover more than three thousand years of human activity in the Salerno area, from prehistoric finds through Etruscan, Greek, Lucanian, and Roman periods to the early medieval era. Particularly strong are the Greco-Lucanian painted pottery, the Roman bronzes, and the early medieval material from the Lombard and Norman periods that shaped Salerno's character as a city.

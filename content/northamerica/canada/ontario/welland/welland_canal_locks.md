@@ -13,6 +13,7 @@ story: >
   and Lake Ontario. About 40 million tonnes of cargo pass through each year.
 sources:
   - https://en.wikipedia.org/wiki/Welland
+score: 8.4
 ---
 
 The Welland Canal passes directly through the city, and Lock 1 near downtown is the most accessible viewing point. The locks are massive — each chamber is about 233 metres long and 24 metres wide — and watching a fully loaded bulk carrier or container ship pass through at street level is unexpectedly dramatic. The ship seems impossibly large for the channel, moving silently and slowly while the water level adjusts around it.

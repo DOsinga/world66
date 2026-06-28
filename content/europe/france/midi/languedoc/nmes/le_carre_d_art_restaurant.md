@@ -7,6 +7,7 @@ snippet: Rooftop restaurant on top of the Carré d'Art, with views of the Maison
 tags:
 - eating_out
 - restaurant
+score: 5.8
 ---
 
 Le Ciel de Nîmes occupies the rooftop terrace of Norman Foster's Carré d'Art and looks directly across at the Maison Carrée — the best lunch view in town. The cooking is Mediterranean and lighter than many neighbouring places: salads, fish, small plates, well-judged desserts.

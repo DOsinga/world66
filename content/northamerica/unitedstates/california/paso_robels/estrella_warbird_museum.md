@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.6678
 longitude: -120.6267
+score: 8.0
 ---
 
 Located at the Paso Robles Municipal Airport, the Estrella Warbird Museum preserves and displays vintage military aircraft from World War II through the Vietnam era. The collection includes a P-38 Lightning, a B-25 Mitchell bomber, a Corsair, and various other airframes in varying states of restoration. Several aircraft are in flying condition and appear at airshows.

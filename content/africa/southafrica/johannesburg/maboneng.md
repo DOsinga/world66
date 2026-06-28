@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -26.2032
 longitude: 28.0575
+score: 8.0
 ---
 
 Maboneng ("place of light" in Sotho) is the most successful regeneration project in inner Johannesburg, centred on Fox and Commissioner Streets in the city's east. A developer began buying and restoring neglected warehouses and factory buildings from around 2009, and the result is a compact cluster of galleries, independent restaurants, design studios, and residential lofts that feels genuinely urban in a city where almost everything interesting has moved to the northern suburbs.

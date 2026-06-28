@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:20191210_Widok_z_dachu_w_D
 latitude: 26.2389
 loc_type: city
 longitude: 73.0243
-score: 0.67
+score: 9.18
+snippet: Rajasthani fortress city where Mehrangarh rises above blue-painted lanes,
+  bazaars, and the Thar Desert edge.
 title: Jodhpur
 type: location
 ---

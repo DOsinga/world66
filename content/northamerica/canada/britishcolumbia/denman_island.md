@@ -4,8 +4,10 @@ done:
   location_enrich: '2026-05-22'
 latitude: 49.5418
 loc_type: city
+snippet: Rural Gulf Island known for its arts community, white sand beaches, and dry
+  Strait of Georgia climate
 longitude: -124.7945
-score: 0.47
+score: 6.86
 title: Denman Island
 type: location
 image: denman_island.jpg

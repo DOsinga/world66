@@ -10,6 +10,7 @@ story: >
   On 4 January 1821, Piura became the first city in Peru to declare independence from Spain — the proclamation was made in the square in front of this church, seven months before Lima followed suit. The event is celebrated every year with civic ceremonies, and the church square is considered one of the founding sites of the Peruvian republic.
 sources:
   - https://en.wikipedia.org/wiki/Piura
+score: 6.2
 ---
 
 The Iglesia San Francisco is a few blocks from the Plaza de Armas and carries significant historical weight: this is the site where Piura declared independence from Spain in January 1821, making it the first city in Peru to do so. A plaque and small monument mark the occasion in the church square, and the annual independence festival here is one of the most spirited in the region.

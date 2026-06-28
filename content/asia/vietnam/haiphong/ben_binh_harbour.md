@@ -6,6 +6,7 @@ longitude: 106.6841
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 Bến Bính is the small passenger harbour at the northern edge of the city centre, on the Cấm River. From here hydrofoils and slower boats depart for Cát Bà Island and several smaller destinations in the surrounding coastal islands. The harbour building is a low concrete shed with a noisy ticket hall, but the embarkation is straightforward and the schedules are reasonably reliable.

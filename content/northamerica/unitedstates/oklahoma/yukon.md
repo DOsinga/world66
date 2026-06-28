@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Yukon_Oklahoma_20
 latitude: 35.5067
 loc_type: city
 longitude: -97.7625
-score: 0.31
+score: 5.53
+snippet: Route 66 city west of Oklahoma City, marked by Czech heritage and roadside
+  flour-mill signs
 title: Yukon
 type: location
 ---

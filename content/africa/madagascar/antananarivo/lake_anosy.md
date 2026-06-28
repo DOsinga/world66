@@ -6,6 +6,7 @@ tags:
 - sight
 title: Lake Anosy
 type: poi
+score: 7.1
 ---
 
 Lake Anosy is an artificial heart-shaped lake in the south of the city, created by damming a marshy valley in the early twentieth century during French colonial rule. A small island at its centre holds the Monument aux Morts, a war memorial built in 1927 to honour Malagasy soldiers who died in the First World War, connected to the shore by a narrow footbridge. In October, the avenues surrounding the lake erupt in violet jacaranda blossom — one of the most photographed scenes in all of Antananarivo.

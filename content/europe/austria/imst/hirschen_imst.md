@@ -6,6 +6,7 @@ longitude: 10.7397
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 A long-running Tyrolean inn on the Stadtplatz with a wood-panelled *Stube*, a tiled stove in the corner, and a menu of all the classics done well — schnitzel as wide as the plate, *Spinatknödel* with brown butter, *Topfenpalatschinken* for dessert. In summer you can sit out under the chestnut trees in the small front garden.

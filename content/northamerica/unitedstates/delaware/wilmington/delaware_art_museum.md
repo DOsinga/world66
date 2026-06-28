@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The Delaware Art Museum holds the largest collection of Pre-Raphaelite art outside the UK — left to the museum in 1935 by Samuel Bancroft, a Wilmington industrialist who collected Rossetti, Burne-Jones, and Holman Hunt with single-minded intensity. Several of the works are not just important examples but the defining versions of their subjects."
+score: 8.2
 ---
 
 The Delaware Art Museum has two collections of national importance: the largest Pre-Raphaelite holdings outside Britain, built around the Samuel Bancroft bequest of 1935 (Rossetti, Burne-Jones, Hunt, Millais — the lot), and a strong American collection particularly rich in N.C. Wyeth and the Brandywine illustrators who worked in the surrounding valley.

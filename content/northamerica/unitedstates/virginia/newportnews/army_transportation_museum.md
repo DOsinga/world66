@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Every vehicle the US Army has ever moved with, from mule wagons to Hueys, on Fort Eustis"
+score: 7.8
 ---
 
 Tucked away on Fort Eustis at the north end of Newport News, this is the official museum of the US Army's Transportation Corps. The collection covers every way the Army has ever moved people, goods or itself: a Civil War rail car, a World War I horse-drawn ambulance, the various trucks of the Red Ball Express, a Korean-War M76 Otter amphibian, a Vietnam-era Huey and Chinook, and several experimental hovercraft and flying jeeps that never went into service.

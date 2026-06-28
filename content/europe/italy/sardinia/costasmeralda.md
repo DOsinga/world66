@@ -8,6 +8,8 @@ latitude: 40.899377
 loc_type: region
 longitude: 9.517747
 score: 0.74
+snippet: Northeastern Sardinian coast developed as a planned resort area around granite
+  coves and turquoise water.
 title: Costa Smeralda
 type: location
 ---

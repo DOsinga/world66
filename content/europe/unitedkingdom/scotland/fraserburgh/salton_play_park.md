@@ -10,6 +10,7 @@ tags:
 - sights
 title: Salton Play Park
 type: poi
+score: 4.0
 ---
 
 A pleasant green space on Salton Place with a children's play area and a fine old fountain dating from 1904. The fountain depicts Fraserburgh's coat of arms, including an ostrich with a key in its mouth — the town's traditional symbol. It's a good spot if you need a break or have kids in tow, particularly in summer when the flower beds are in bloom.

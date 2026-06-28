@@ -7,6 +7,7 @@ tags:
 snippet: "Principal alpine skiing area above the village"
 latitude: 62.47
 longitude: 13.85
+score: 8.1
 ---
 
 Vemdalsskalet is the main alpine skiing area in the Vemdalen cluster, with runs ranging from wide, beginner-friendly slopes to steeper descents for more experienced skiers. The resort is part of the SkiStar group and is connected by ski bus to the other resorts in the area — Björnrike and Storhogna — making it possible to ski across the whole system in a day.

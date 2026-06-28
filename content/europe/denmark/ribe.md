@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Denmark_ribe_church.jpg
 latitude: 55.328404
 loc_type: city
 longitude: 8.764784
-score: 0.56
+score: 8.25
+snippet: Denmark's oldest town, a Viking trading place with half-timbered lanes and
+  Wadden Sea marshes nearby.
 title: Ribe
 type: location
 ---

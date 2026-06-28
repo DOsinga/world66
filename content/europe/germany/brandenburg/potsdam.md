@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Havel-Park-Lake-Babelsberg
 latitude: 52.3906
 loc_type: city
 longitude: 13.0645
-score: 0.7
+score: 8.81
+snippet: Brandenburg capital and Prussian royal residence, surrounded by UNESCO-listed
+  palaces, parks, and gardens.
 title: Potsdam
 type: location
 ---

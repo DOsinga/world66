@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Leopold's Ice Cream
 type: poi
+score: 6.8
 ---
 
 Leopold's has been making ice cream on Broughton Street since 1919 — the current location is a 2004 revival of the original shop, run by the founder's grandson. The ice cream is made in house using recipes largely unchanged from the original. The Tutti Frutti (the house flavor), the seasonal peach, and the rum bisque are the ones to try.

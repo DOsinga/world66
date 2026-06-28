@@ -5,7 +5,9 @@ done:
 latitude: 49.358
 loc_type: city
 longitude: -122.478
-score: 0.54
+score: 7.71
+snippet: British Columbia provincial park east of Vancouver, named for the twin peaks
+  of Mount Blanshard.
 title: Golden Ears
 type: location
 ---

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Maple_Glade_rainforest,_Ol
 latitude: 47.9694
 loc_type: feature
 longitude: -123.4986
+score: 9.24
+snippet: Wild Washington national park of glacier-cut mountains, mossy rainforest,
+  Pacific beaches, and deep lakes.
 sources:
 - https://en.wikipedia.org/wiki/Olympic_National_Park
 - https://en.wikipedia.org/wiki/Olympic_Peninsula

@@ -15,6 +15,7 @@ story: >
   the suppression of Miao autonomy now stands in the middle of a tourism zone
   that markets Miao culture as its main attraction is real but unacknowledged
   in any of the on-site interpretation.
+score: 7.2
 ---
 
 The Yang Family Ancestral Hall is one of the eight core heritage sites within Fenghuang's ancient town compound. The hall was built by the Yang clan, who held military authority in the Fenghuang area during the Qing dynasty, to commemorate their ancestors and assert their family's prestige. The architecture is classic Chinese ancestral hall design: a symmetrical compound with ceremonial gates, main hall, side wings, and carved wooden screens. The woodcarving throughout the building is particularly fine, with narrative panels depicting scenes from Chinese history and mythology.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:8130_Sozopol,_Bulgaria_-_p
 latitude: 42.4182
 loc_type: city
 longitude: 27.6943
-score: 0.58
+score: 8.21
+snippet: Black Sea headland town founded as ancient Apollonia Pontica, with a preserved
+  wooden old town.
 title: Sozopol
 type: location
 ---

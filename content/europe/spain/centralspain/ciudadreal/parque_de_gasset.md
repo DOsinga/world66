@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.6
 ---
 
 A handsome 19th-century city park laid out in the formal manner, with mature plane trees, a lake, ducks and an old bandstand. Locals walk here in the early evening and at weekends the small kiosks open up for coffee and ice cream.

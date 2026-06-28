@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville,_Curep
 latitude: -20.315052
 loc_type: city
 longitude: 57.52115
-score: 0.46
+score: 7.05
+snippet: Central Plateau Mauritian town known for model ships, textile outlets, and
+  the Trou aux Cerfs crater.
 title: Curepipe
 type: location
 ---

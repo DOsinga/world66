@@ -13,6 +13,7 @@ story: >
   already a place of significance long before the Christian chapel was built here.
 sources:
   - https://en.wikipedia.org/wiki/Notre_Dame_de_Gu%C3%A9rison_sanctuary
+score: 6.8
 ---
 
 A small pilgrimage chapel at the entrance to the Val Veny, Notre-Dame-de-Guérison — Our Lady the Healer — sits at the foot of Mont Chétif on the road that leads towards the old Roman alpine pass of the Col de la Seigne. The sanctuary has been a place of devotion for local communities for centuries, and the surrounding landscape of meadows and rocky peaks makes the setting particularly compelling.

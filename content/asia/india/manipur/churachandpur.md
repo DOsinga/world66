@@ -5,7 +5,9 @@ done:
 latitude: 24.346884
 loc_type: city
 longitude: 93.699414
-score: 0.32
+score: 5.8
+snippet: Manipur hill town south of Imphal, shaped by Kuki culture, churches, and
+  surrounding forested valleys.
 sources:
 - https://en.wikipedia.org/wiki/Churachandpur
 title: Churachandpur

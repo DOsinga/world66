@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5800
 longitude: 68.7800
+score: 6.8
 ---
 
 The Soviet-era circus building in Dushanbe still operates performances on weekends during the season (roughly October through spring). Soviet circuses were a genuine art form — the Dushanbe company, though much reduced from its Soviet-era size, still includes acrobats, jugglers, and animal trainers trained in the Russian circus tradition.

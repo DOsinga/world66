@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:%E5%AE%BF%E8%BF%81%E9%AA%8
 latitude: 33.963
 loc_type: city
 longitude: 118.276
+score: 5.64
+snippet: Northern Jiangsu city tied to Xiang Yu, baijiu distilleries, and the wetlands
+  of Hongze Lake.
 sources:
 - https://en.wikivoyage.org/wiki/Suqian
 title: Suqian

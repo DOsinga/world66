@@ -7,6 +7,7 @@ tags:
 latitude: -8.0005
 longitude: -34.8512
 snippet: One of Olinda's established art galleries, focused on Northeast Brazilian painting and woodcut
+score: 6.8
 ---
 
 Olinda has more working artists per square kilometre than almost anywhere in Brazil — the combination of cheap rents (by Brazilian standards), a beautiful setting, and a tradition of bohemian settlement has made the historic hill a magnet for painters, sculptors, and printmakers for decades. The Galeria do Macambira is one of the established spaces showing this work, with a collection that focuses on painting and xilogravura (woodcut printing), the traditional illustrative medium of the Northeast.

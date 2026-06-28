@@ -10,7 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chennai_train_station.jpg
 latitude: 13.083694
 loc_type: city
 longitude: 80.270186
-score: 0.48
+score: 7.48
+snippet: Capital city of Tamil Nadu, founded around Fort St George and a hub for exploring
+  the state.
 title: Chennai
 type: location
 ---

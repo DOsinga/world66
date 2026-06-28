@@ -8,6 +8,7 @@ tags:
   - neighbourhood
   - market
 snippet: The original settlement of Sharm, scruffy and lively, where the cheapest food and most persistent hawkers are.
+score: 7.0
 ---
 
 The Old Market — Sharm el-Maya in Arabic — is the actual town beneath the resort. This is where the dockworkers, taxi drivers, and shop staff live and where the cheapest fish and best street food are sold. The market itself is a few blocks of stalls selling spices, leather, perfume oils, sheesha pipes, and the kind of brass and cotton souvenirs that hotel boutiques charge five times more for.

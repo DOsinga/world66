@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Venetian Walls and Bastions
 type: poi
+score: 8.4
 ---
 
 Iraklion's Venetian fortifications — built and expanded from the 13th to the 17th century — are among the best preserved city walls in Europe. The full circuit is about 4 km. The walls are up to 40 metres thick in places, designed to withstand Ottoman artillery. You can walk along the top of several sections; the best stretch runs from the Martinengo Bastion (where the writer Nikos Kazantzakis is buried) around to the Pantocrator Bastion above the old harbour.

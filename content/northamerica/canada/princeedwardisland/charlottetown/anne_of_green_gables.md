@@ -7,6 +7,7 @@ author: "L.M. Montgomery"
 isbn: "978-0553213133"
 latitude: 46.2354
 longitude: -63.1265
+score: 6.6
 ---
 
 Lucy Maud Montgomery published Anne of Green Gables in 1908, having set it on the farm landscape and red roads of Prince Edward Island where she had grown up. The novel follows Anne Shirley, a red-haired orphan sent to the wrong farm and then adopted anyway, through her childhood on the island. It became an international bestseller almost immediately and has never gone out of print.

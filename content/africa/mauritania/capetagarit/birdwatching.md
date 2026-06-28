@@ -13,6 +13,7 @@ story: >
   flats can hold hundreds of thousands of waders: bar-tailed godwits that have
   flown non-stop from Alaska, knot from Greenland, dunlin from Siberia. The
   Banc d'Arguin as a whole is estimated to support 2–3 million waterbirds each winter.
+score: 8.4
 ---
 
 The coast around Cape Tagarit sits at the southern edge of the Banc d'Arguin system, one of the most productive birdwatching areas in Africa. From October through March, the mudflats and shallow lagoons around the cape host extraordinary numbers of migratory waders and waterbirds that spend the northern winter here: flamingos, spoonbills, pelicans, terns, herons, and a vast assortment of sandpipers and plovers freshly arrived from European and Arctic breeding grounds.

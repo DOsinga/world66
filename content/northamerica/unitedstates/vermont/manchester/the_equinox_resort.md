@@ -9,6 +9,7 @@ latitude: 43.1619
 longitude: -73.0736
 sources:
   - https://en.wikipedia.org/wiki/Equinox_House_Historic_District
+score: 7.4
 ---
 
 The Equinox has been a landmark on Route 7A in Manchester Village since 1769, when the main building was first established as a tavern and inn. The current white-columned structure dates largely from the 19th and early 20th centuries, and the Equinox House Historic District around it — a collection of Federal and Greek Revival buildings — forms the architectural heart of the village.

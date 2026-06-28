@@ -8,6 +8,7 @@ latitude: 36.8909
 longitude: 15.0706
 story: >
   The cathedral's dome collapsed catastrophically in 1996, taking large sections of the nave with it. The collapse was caused by structural weaknesses accumulated over centuries combined with earthquake damage; a restoration funded by European and Italian state money took until 2007 to complete. The rebuilt interior is immaculate — too immaculate, some critics argue, but the exterior facade remains one of the great set pieces of Sicilian Baroque.
+score: 9.2
 ---
 
 The Cattedrale di San Nicolò dominates Piazza del Municipio at the top of a broad flight of steps, its three-tiered facade the single most impressive view in Noto. Built between 1693 and 1776 after the earthquake, the cathedral exemplifies the theatrical ambition of the Sicilian Baroque: the wide staircase, the monumental proportions, the warm golden-honey colour of the local limestone in afternoon light.

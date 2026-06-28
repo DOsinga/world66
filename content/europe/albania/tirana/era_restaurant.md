@@ -8,6 +8,7 @@ tags:
   - restaurant
   - blloku
 neighbourhood: Blloku
+score: 5.9
 ---
 
 Era opened in 2002 in the heart of Blloku and is still one of the most reliable evening tables in the city: Italian-Albanian, with very good wood-fired pizza, fresh pasta, grilled meats and seafood, and a wine list that covers most of the region. Open until late and friendly to walk-ins, which is rare for a popular Tirana restaurant.

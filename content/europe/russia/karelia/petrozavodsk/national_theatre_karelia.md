@@ -10,6 +10,7 @@ story: >
   The National Theatre of Karelia was founded in 1932 and has long performed in both Russian and Finnish — a reflection of Karelia's dual cultural heritage. During the Soviet period, the Karelian-Finnish Soviet Socialist Republic was the only Soviet republic with a Finnic language alongside Russian as an official language.
 sources:
   - https://en.wikipedia.org/wiki/National_Theatre_of_Karelia
+score: 6.4
 ---
 
 The National Theatre of Karelia is one of the few theatres in Russia that performs in both Russian and Finnish, reflecting the region's particular cultural history. The theatre building, a substantial Stalinist-era structure near the city centre, hosts productions of classical and contemporary drama alongside Karelian folk performances and music events.

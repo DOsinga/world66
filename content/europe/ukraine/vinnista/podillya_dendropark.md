@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 49.21778
 longitude: 28.42028
+score: 5.5
 ---
 
 The Podillya Dendropark is a botanical garden and arboretum on the south-western edge of Vinnytsia, about 4 kilometres from the city centre. The park holds a collection of tree and shrub species from across Ukraine, Europe, and further afield, planted over several decades to create a diverse dendrological collection.

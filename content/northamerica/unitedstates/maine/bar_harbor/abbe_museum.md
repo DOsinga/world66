@@ -7,6 +7,7 @@ tags:
 latitude: 44.3872
 longitude: -68.2057
 story: "The Abbe was the first museum in the United States to formally adopt a decolonising mission statement, redesigning its exhibits with the four Wabanaki nations as co-curators rather than subjects."
+score: 8.0
 ---
 
 A small, focused museum on the history and present of the Wabanaki — the Mi'kmaq, Maliseet, Passamaquoddy, and Penobscot peoples whose territory includes Mount Desert Island. The collection ranges from 10,000-year-old stone tools to contemporary basketry and beadwork.

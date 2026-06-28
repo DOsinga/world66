@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -38.7153
 longitude: -62.2692
+score: 6.5
 ---
 
 The Museo Municipal de Bellas Artes has a solid permanent collection of Argentine art from the 19th and 20th centuries, with work by some of the country's most important painters and sculptors. The building is an attractive early 20th-century structure near the central plaza.

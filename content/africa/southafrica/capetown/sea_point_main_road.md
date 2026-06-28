@@ -1,10 +1,10 @@
 ---
 latitude: -33.9201
 longitude: 18.3862
-snippet: The city's most cosmopolitan restaurant and deli street, busy from breakfast
+score: 7.0
+snippet: City's most cosmopolitan restaurant and deli street, busy from breakfast
   to midnight
 tags:
-- things_to_do
 - eating_out
 - sea_point
 title: Sea Point Main Road

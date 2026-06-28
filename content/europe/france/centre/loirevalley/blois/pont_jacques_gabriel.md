@@ -9,6 +9,7 @@ tags:
 latitude: 47.5859
 longitude: 1.3367
 snippet: "18th-century stone bridge with the best view of the upper town"
+score: 7.0
 ---
 
 The Pont Jacques-Gabriel is the stone bridge that connects the two sides of the Loire at Blois, built between 1716 and 1724 after the medieval bridge collapsed. Eleven low arches, an obelisk at the centre topped by a small pyramid commemorating Louis XV, and steeply graded approaches mean the bridge is both a working road and a long, slightly theatrical viewpoint.

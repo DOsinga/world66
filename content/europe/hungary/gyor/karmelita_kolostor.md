@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.6852
 longitude: 17.6330
+score: 7.7
 ---
 
 The former Carmelite monastery occupies the south side of Széchenyi Square and is one of Győr's finest Baroque buildings. The church was built in the 1720s and its facade — all movement and drama in the Central European Baroque manner — is particularly good. The interior has an elaborate frescoed ceiling and gilded altarpieces.

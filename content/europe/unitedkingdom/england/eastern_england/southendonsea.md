@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fishing_Boat,_Southend-on-
 latitude: 51.538824
 loc_type: city
 longitude: 0.712814
-score: 0.41
+score: 6.82
+snippet: Essex seaside town on the Thames Estuary, centred on the world's longest
+  pleasure pier
 title: Southend-on-Sea
 type: location
 ---

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Neo-Gothic Catholic church beside the cathedral, with the city's tallest spire
+score: 6.4
 ---
 
 The current St. Alban's, completed in 1908 and modelled on Westminster Cathedral in red brick, is a striking neo-Gothic building with a 54-metre spire that dominates the central skyline. It is dedicated to an 11th-century English martyr whose relics, according to tradition, Knud the Holy was bringing to Odense when he was killed.

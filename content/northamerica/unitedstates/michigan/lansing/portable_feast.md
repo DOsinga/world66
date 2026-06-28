@@ -10,6 +10,7 @@ tags:
 - eating_out
 - restaurant
 - old_town
+score: 5.8
 ---
 
 An intimate restaurant and bakery in the heart of Old Town. The breakfast burrito is famous locally, and the Cajun salmon salad and assorted wraps are solid lunch options. Good desserts too.

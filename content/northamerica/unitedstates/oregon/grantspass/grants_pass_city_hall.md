@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Grants Pass City Hall and Fire Station
 type: poi
+score: 5.8
 ---
 
 The 1916 city hall and fire station is the most interesting civic building downtown. Built in a Renaissance Revival style of red brick and tan stone, it housed the city offices, the fire department, and the jail under one roof — a common arrangement for small American cities of the period.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Lakhari Valley Wildlife Sanctuary
 type: poi
+score: 7.4
 ---
 
 The Lakhari Valley Wildlife Sanctuary lies about 5km from Aska in the foothills of the Eastern Ghats, covering around 185 square kilometres of mixed deciduous forest. The sanctuary protects leopard, sloth bear, sambar, spotted deer, and a variety of birdlife in the Ganjam hills.

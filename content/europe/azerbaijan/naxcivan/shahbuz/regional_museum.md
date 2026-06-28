@@ -7,6 +7,7 @@ tags:
   - museum
 title: Shahbuz Regional Museum
 type: poi
+score: 6.8
 ---
 
 The Shahbuz Regional Museum has been operating since 1982, housing more than 3,500 exhibits across six divisions. The collection spans the full history of the district from prehistoric times to the present: archaeological finds from excavations at Bronze Age settlements, coins from the early medieval period, examples of traditional carpet weaving and embroidery, and documentary material on the Soviet and post-Soviet periods.

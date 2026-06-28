@@ -14,6 +14,7 @@ tags:
   - market
 title: Maimana Bazaar
 type: poi
+score: 7.1
 ---
 
 The central bazaar of Maimana is the heart of the city — a covered warren of stalls selling everything from spices and dried fruit to the deep red kilim rugs the region is famous for. The bazaar is a working market, not a tourist showcase, and that is its appeal. Traders deal in carpets, agricultural goods, livestock fittings, hardware, and the small comforts of daily life. The pace is unhurried and the atmosphere distinctly Central Asian: Uzbek and Turkmen faces predominate, and the languages spoken include Uzbek, Turkmen, and Dari.

@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Savassi
 type: poi
+score: 7.2
 ---
 
 Savassi is the centre of social life in Belo Horizonte — a roughly diamond-shaped neighbourhood about two kilometres south of the centro, packed with restaurants, bars, cafes, bookstores, and the kind of small specialty shops that fill out a successful urban district. The crossroads of Pernambuco and Cristóvão Colombo is the symbolic heart, with cafes spilling out onto the pavement most evenings.

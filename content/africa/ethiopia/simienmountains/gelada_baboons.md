@@ -14,6 +14,7 @@ story: >
   meadows like hairy, quadrupedal sheep. At night they descend to sleep on cliff
   ledges that predators cannot reach — at dawn they emerge onto the plateau edge
   in their hundreds.
+score: 9.3
 ---
 
 Geladas are endemic to Ethiopia and exist primarily in the Simien Mountains, making this one of very few places in the world where you can see them. They live in large multi-male, multi-female herds that can number in the hundreds, grazing the high-altitude grasslands together. Approaching a grazing herd on foot is straightforward — the animals are accustomed to people and will allow close approach as long as you move calmly and avoid sudden movements.

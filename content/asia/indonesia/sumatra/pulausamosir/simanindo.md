@@ -12,6 +12,7 @@ story: >
   accommodate the entire extended family — up to a hundred people — under one roof. The main beam
   running the length of the building was carved from a single tree and took months to transport
   from the forest interior.
+score: 8.0
 ---
 
 Simanindo at the northern tip of Samosir contains one of the best-preserved traditional Batak house complexes on the island — a compound of beautifully carved rumah adat with the boat-shaped roof profile characteristic of Batak Toba architecture. The houses are decorated with the red, black, and white geometric patterns of Batak carving, with carved lizards and animal heads at the roof peaks.

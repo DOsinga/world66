@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
   - leopoldstadt
+score: 7.7
 ---
 
 A smaller, less touristy market than the Naschmarkt, on the south side of Leopoldstadt. The Karmelitermarkt has been overrun (in the best sense) by a new generation of food businesses — Tewa for modern Israeli, Skopik & Lohn next door for innovative Viennese, several specialist cheesemongers, and a Saturday farmers' market that draws the city's chefs.

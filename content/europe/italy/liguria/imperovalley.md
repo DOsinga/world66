@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Colle_San_Bartolomeo_da_va
 latitude: 43.939627
 loc_type: city
 longitude: 8.010234
-score: 0.51
+score: 7.64
+snippet: Ligurian inland valley of olive groves, medieval villages, and quiet roads
+  behind Imperia.
 title: Impero Valley
 type: location
 ---

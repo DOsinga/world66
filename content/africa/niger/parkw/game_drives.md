@@ -12,6 +12,7 @@ story: >
   large predators — lion, leopard, cheetah, wild dog, and spotted hyena — are still present
   in the same ecosystem. Wild dog sightings are genuinely rare, and spotting them here
   would count as a major find by any measure.
+score: 8.9
 ---
 
 Game drives in W are best done in the early morning and late afternoon, when the big cats are active and the temperature is bearable. A ranger from Tapoa camp is required to accompany vehicles inside the park and is worth every franc — they know the tracks and the animal patterns far better than any map.

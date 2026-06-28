@@ -6,6 +6,7 @@ tags:
 - getting_around
 title: Hamilton Airport
 type: poi
+score: 2.8
 ---
 
 John C. Munro Hamilton International Airport (YHM) sits just west of the city and serves as a lower-cost alternative to Toronto Pearson, about an hour's drive east. WestJet and seasonal carriers operate flights to various Canadian destinations, and the airport handles a significant volume of cargo traffic.

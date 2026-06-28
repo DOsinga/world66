@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -22.998257
 longitude: -43.357461
+score: 3.2
 snippet: Massive mall in Barra da Tijuca with cinemas
 tags:
 - shopping
 - shop
+- barra_da_tijuca
 title: BarraShopping
 type: poi
 ---

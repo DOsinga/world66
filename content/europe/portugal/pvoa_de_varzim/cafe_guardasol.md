@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 41.3791
 longitude: -8.7686
+score: 6.8
 ---
 
 Café Guardasol, on the seafront above Redonda Beach, is the long-standing local home of the *francesinha poveira* — Póvoa's adaptation of Porto's famous sandwich, lighter on the cheese and with a thinner, sharper sauce. The cafe occupies an old wooden beachfront pavilion and has changed remarkably little over the decades.

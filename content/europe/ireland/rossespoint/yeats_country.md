@@ -11,6 +11,7 @@ story: >
   Knocknarea, Benbulben, the lake isle of Innisfree, the rocky promontory of
   Lissadell — as the backdrop for much of his poetry. His grave is at Drumcliff,
   ten kilometres north of Rosses Point under the shadow of Benbulben.
+score: 7.7
 ---
 
 The view from the promenade at Rosses Point is the picture-postcard Yeats Country panorama: the flat-topped massif of Benbulben to the north, the cone of Knocknarea to the south, and Sligo Bay between them. On a clear evening with the light low it is unfairly beautiful.

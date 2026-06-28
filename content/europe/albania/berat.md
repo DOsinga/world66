@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Berat_57.jpg
 latitude: 40.701864
 loc_type: city
 longitude: 19.958076
-score: 0.61
+score: 8.58
+snippet: Ottoman hillside town in Albania, famed for stacked white houses overlooking
+  the Osum valley.
 title: Berat
 type: location
 ---

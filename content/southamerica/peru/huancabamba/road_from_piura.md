@@ -12,6 +12,7 @@ tags:
 - sight
 title: Road from Piura
 type: poi
+score: 6.8
 ---
 
 The journey from Piura to Huancabamba is an attraction in itself. The road climbs from the hot coastal desert at sea level to the high Andean valleys at over 3,000 metres, passing through a dramatic sequence of landscapes: dry scrub, green valleys, coffee and sugar plantations, cloud forest, and finally the cold open páramo. The road is unpaved for most of its length and in poor condition; the drop-offs are considerable and the bus schedule optimistic.

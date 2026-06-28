@@ -14,6 +14,7 @@ tags:
   - sight
 title: Lagundri Bay
 type: poi
+score: 8.5
 ---
 
 Lagundri Bay, a few kilometres south of Teluk Dalam, is the centre of Nias surfing. The bay itself is a wide horseshoe of coral sand, with the village of Sorake at its western end and the small settlement of Lagundri proper at the eastern. The famous wave breaks just off the Sorake side: a fast, hollow, right-hand reef break that runs over a shallow coral shelf. In good conditions it produces some of the most consistent barrels in Indonesia.

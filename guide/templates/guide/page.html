@@ -13,7 +13,7 @@
     {% if forloop.last %}
       <span class="current">{{ name }}</span>
     {% else %}
-      <a href="/{{ path }}">{{ name }}</a>
+      <a href="{{ url_prefix }}/{{ path }}">{{ name }}</a>
     {% endif %}
     {% endif %}
   {% endfor %}
@@ -379,6 +379,25 @@
 {% endif %}
 {% endif %}
 
+{% if linked_locations %}
+<div class="wide-block destinations-section">
+  <span class="section-kicker">Cities</span>
+  <h2 class="section-block-heading">Places in {{ page.title }}</h2>
+  <div class="dest-grid">
+    {% for loc in linked_locations %}
+    <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">
+      {% if loc.image_url %}<img src="{{ loc.image_url }}" alt="{{ loc.title }}">{% endif %}
+      <div class="dest-veil"></div>
+      <div class="dest-txt">
+        <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="dest-name">{{ loc.title }}</div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 {% if neighbourhood_items %}
 <div class="wide-block neighbourhoods-section">
   <span class="section-kicker">Areas</span>
@@ -427,7 +446,7 @@
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
   <ul class="poi-elsewhere-list">
     {% for poi in nav_siblings %}{% if poi.slug != page.slug %}
-    <li><a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
+    <li><a href="{{ url_prefix }}/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
 </div>

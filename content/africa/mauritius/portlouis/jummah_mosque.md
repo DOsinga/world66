@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 The Jummah Mosque is a striking pale-green building on Royal Road, in the neighbourhood between the market and Chinatown. It dates from the 1850s and blends Indian, Creole, and Mughal influences — an arched entrance, ornate teak doors, and a courtyard that catches the trade-wind breeze.

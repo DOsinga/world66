@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-23'
 image: winter_park.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Winter_Park_Ski_Resort_-_Colorado_(13843211033).jpg
-image_license: CC BY-SA 2.0
 image_attribution: Murray Foubister
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Winter_Park_Ski_Resort_-_Colorado_(13843211033).jpg
 latitude: 39.8917
 loc_type: city
 longitude: -105.7631
-score: 0.55
+score: 7.98
+snippet: Rocky Mountain ski town linked to Denver by the Winter Park Express and Mary
+  Jane's mogul terrain.
 title: Winter Park
 type: location
 ---

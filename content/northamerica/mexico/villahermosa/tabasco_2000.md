@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.9983
 longitude: -92.9483
+score: 5.9
 ---
 
 Tabasco 2000 is a 1980s civic complex in the north of the city, built during the Tabasco oil boom as a statement of modernity and ambition. It includes a convention centre, government buildings, a shopping mall, an planetarium, and the distinctive Plaza de la Corregidora — a large open-air civic square with sculptures and fountains. The architecture is dated in the way that ambitious 1980s government projects always date, but the scale is impressive.

@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Dianshan_Lake_1.jpg
 latitude: 31.3867
 loc_type: city
 longitude: 120.9766
+score: 5.98
+snippet: Jiangsu manufacturing city between Shanghai and Suzhou, with classical gardens
+  and gateway access to Zhouzhuang water town.
 sources:
 - https://en.wikivoyage.org/wiki/Kunshan
 title: Kunshan

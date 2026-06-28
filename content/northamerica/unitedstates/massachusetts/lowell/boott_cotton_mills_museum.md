@@ -13,6 +13,7 @@ story: >
   who lived in supervised boarding houses and worked 14-hour days. The "mill girls" were
   among the first factory workers in the United States, and their letters and diaries
   are some of the most vivid records of early industrial labour in American history.
+score: 8.9
 ---
 
 The Boott Cotton Mills Museum is the centrepiece of Lowell National Historical Park and one of the most remarkable industrial heritage experiences in the United States. The highlight is the weave room: 88 power looms, all running simultaneously, filling the room with a sound that makes conversation impossible without raising your voice. It is genuinely, physically deafening — which is the point. Workers stood in rooms like this for twelve hours a day, six days a week.

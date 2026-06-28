@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.1655
 longitude: -86.5270
+score: 6.6
 ---
 
 Snow Lion is one of several Tibetan restaurants in Bloomington — the city has the largest Tibetan exile community in North America, and the food reflects that. The menu covers the staples of Tibetan cooking: momos (steamed or fried dumplings filled with meat or vegetables), thukpa (noodle soup), and tsampa dishes, alongside some pan-Asian additions. The cooking is home-style and generous.

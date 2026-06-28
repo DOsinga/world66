@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaili_City.jpg
 latitude: 26.5822
 loc_type: city
 longitude: 107.9751
+score: 6.76
+snippet: Industrial Guizhou city used as a base for Miao and Dong villages in Qiandongnan.
 sources:
 - https://en.wikivoyage.org/wiki/Kaili
 title: Kaili

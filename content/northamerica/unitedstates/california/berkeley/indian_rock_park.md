@@ -8,6 +8,7 @@ latitude: 37.8865
 longitude: -122.2720
 story: >
   The acorn-grinding pits worn into the surface of Indian Rock were made by the Huichin band of the Ohlone people, for whom the site was a community gathering place for ceremonies and storytelling. During the 1930s, a young David Brower — who would later found Friends of the Earth — learned to rock climb on this outcropping in North Berkeley.
+score: 7.6
 ---
 
 A large volcanic rock outcropping in the Northbrae neighbourhood, Indian Rock gives you one of the best panoramic views in Berkeley for absolutely no cost and a five-minute climb. From the top you can see downtown Oakland, UC Berkeley, the entire bay, and all three major bay bridges.

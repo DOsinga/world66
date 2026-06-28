@@ -9,6 +9,7 @@ latitude: 12.780044
 longitude: 45.049821
 story: >
   Sira island has been a fortress since at least the 11th century, when the Banu Zuray'i Sulayhid emirs built the first stone walls. The Portuguese under Afonso de Albuquerque tried and failed to take it in 1513 — Albuquerque's troops scaled the cliffs but were repulsed and the fleet sailed for Hormuz. The Ottomans took it without a fight in 1538 and used it for two centuries.
+score: 8.5
 ---
 
 Sira Fortress crowns a small island — now a peninsula since causeway construction — at the eastern end of Aden harbour. The walls and bastions visible today are a mix of medieval Arab work, Ottoman repairs, and 19th-century British modifications, all on a steep volcanic outcrop that drops sheer into the sea on three sides.

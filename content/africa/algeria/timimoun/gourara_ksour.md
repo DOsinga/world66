@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Cluster of small fortified oasis villages on the road south and east of Timimoun"
+score: 8.8
 ---
 
 The Gourara region around Timimoun contains dozens of *ksour* — fortified mud-brick villages — set in small oases linked by foggara. The nearest, such as Ouled Saïd, Aghlad and Ighzer, can be reached in an hour or two on a half-day driving loop from town, with stops to walk through the alleyways and meet the date farmers who still maintain them.

@@ -8,6 +8,7 @@ tags:
   - turkish
 latitude: 36.88400
 longitude: 30.70500
+score: 7.2
 ---
 
 Scattered through the lanes of Kaleiçi are meyhane — traditional Turkish taverns — where meze plates arrive without being ordered, rakı (the anise spirit) flows, and the evening stretches into something extended and sociable. The format is fixed: small cold plates (cold meze: hummus, haydari, stuffed vine leaves, grilled aubergine), then hot plates (fried calamari, meatballs, pide), then fish, and rakı throughout.

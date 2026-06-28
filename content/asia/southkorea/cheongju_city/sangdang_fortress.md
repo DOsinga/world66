@@ -13,6 +13,7 @@ story: >
   Joseon period, rebuilt after Japanese invasions. At the height of the mountain
   you can see the entire Cheongju basin spread below — a view that has been
   strategically important for two millennia.
+score: 8.1
 ---
 
 Sangdang Fortress (Sangdangsanseong) sits on the slopes of Uam Mountain, 4 km northeast of central Cheongju. The stone walls stretch 4.2 km around the ridge, standing 3–4 metres high, with three intact gates and the ruins of several buildings within the enclosure. The trail along the top of the walls is the best walk in Cheongju — not difficult, but long enough to be satisfying, with views over the city and the surrounding hills.

@@ -10,6 +10,7 @@ longitude: -14.0025
 snippet: Iceland's most photographed small-town landmark, at the end of the rainbow street
 story: >
   The church was built in 1894 by Norwegian craftsmen who came to Seyðisfjörður to construct the timber buildings that still line the town centre. It was originally painted white, like most Icelandic churches. The distinctive blue colour is a modern choice, introduced when the building was restored in the 1990s, but it has become so associated with the town that it now appears on every map and postcard of the East Fjords.
+score: 7.9
 ---
 
 The Blue Church stands at the inland end of Seyðisfjörður's main street, framed by the valley walls and — on the right morning — reflected in the river alongside it. The rainbow-painted road leading to it has been photographed so many times that it risks becoming a cliché, but the setting remains genuinely striking: a compact Norwegian timber church in confident blue, with the high fjord walls rising steeply on three sides.

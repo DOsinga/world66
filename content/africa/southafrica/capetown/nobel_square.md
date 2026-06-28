@@ -1,8 +1,7 @@
 ---
-category: Square
 latitude: -33.9046
 longitude: 18.4214
-neighbourhood: V&A Waterfront
+score: 5.7
 scores:
   activities: 0.5421
   sight: 0.6595

@@ -1,11 +1,13 @@
 ---
 latitude: 35.0033
 longitude: 135.7822
+score: 7.1
 snippet: Central Kyoto's most popular cherry-blossom park, behind Yasaka Shrine
 tags:
 - things_to_do
 - park
 - sight
+- gion
 title: Maruyama Park
 type: poi
 ---

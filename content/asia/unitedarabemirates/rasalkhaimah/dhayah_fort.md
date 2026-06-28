@@ -12,6 +12,7 @@ story: >
   days under bombardment from Royal Navy ships and a force of more than
   3,000 troops. The surrender ended Qawasim sea power and led directly to
   the treaties that became the Trucial States and, eventually, the UAE.
+score: 8.0
 ---
 
 Dhayah Fort is a small mud-brick fortress perched on a rocky hilltop just inland from the coast about 20 kilometres north of the city. It is the only hilltop fort still standing in the UAE, and the short climb up the stepped path is rewarded with a sweeping view across date plantations to the sea on one side and the Hajar Mountains on the other.

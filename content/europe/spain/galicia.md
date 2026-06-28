@@ -6,8 +6,14 @@ latitude: 42.5751
 loc_type: region
 longitude: -8.1339
 score: 0.65
+snippet: Rainy Atlantic region of granite villages, rías, Galego language, and Celtic
+  hill-forts.
 title: Galicia
 type: location
+image: galicia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Breogan_e_Torre_de_H%C3%A9rcules.jpg
+image_license: CC BY 2.0
+image_attribution: Jose Luis Cernadas Iglesias
 ---
 
 Galicia occupies the rainy, green corner of northwestern Spain, where the Atlantic hammers a jagged coastline of deep inlets called rías. It doesn't look or feel like the rest of Spain — the granite villages, the bagpipes, the Celtic hill-forts, and the persistent mist give it a mood entirely its own. People speak Galego, a language closer to Portuguese than Castilian, and they'll tell you proudly that Galicia is one of the ancient Celtic nations.

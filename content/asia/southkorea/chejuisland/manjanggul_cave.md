@@ -13,6 +13,7 @@ story: >
   when lava drained from the tube and the ceiling material gradually dripped and
   built up over thousands of years. It looks like something that should be behind
   glass in a museum but you just walk past it in the dark.
+score: 8.7
 ---
 
 Manjanggul is one of the finest lava tube caves in the world — 13 kilometres long, with passages large enough to walk upright through for most of the accessible 1-kilometre section open to visitors. The tube formed when the outer crust of a lava flow hardened while molten rock continued to flow inside and eventually drained away, leaving a hollow tunnel.

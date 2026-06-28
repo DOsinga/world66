@@ -7,6 +7,7 @@ tags:
 latitude: 34.5963
 longitude: -120.1382
 snippet: Working windmills that are the iconic symbol of Solvang's Danish heritage
+score: 6.0
 ---
 
 Solvang's working windmills are the town's most recognisable feature and the visual symbol of its Danish identity. The most prominent is the four-sailed windmill visible from Mission Drive — a traditional Dutch-style smock mill built in the style used historically in Denmark. It has become the unofficial emblem of the town and appears on nearly every piece of Solvang merchandise.

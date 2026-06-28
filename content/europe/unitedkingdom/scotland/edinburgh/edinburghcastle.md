@@ -3,10 +3,11 @@ address: Castlehill, Edinburgh EH1 2NG
 latitude: 55.948606
 longitude: -3.199933
 phone: 0131 225 9846
+score: 9.6
 snippet: Fortress on volcanic rock holding Scotland's crown jewels.
 tags:
 - things_to_do
-- old_town
+- oldtown
 - church
 - palace
 title: Edinburgh Castle

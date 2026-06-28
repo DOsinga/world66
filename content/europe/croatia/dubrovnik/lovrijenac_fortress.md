@@ -12,6 +12,7 @@ story: >
   and Lovrijenac, perched on its cliff above the sea, was its physical embodiment: a fortress built to prevent
   Venice from establishing a foothold on the coast. According to chronicle, the Ragusans built it in three months
   when they heard Venice intended to construct a stronghold on the same rock.
+score: 8.5
 ---
 
 Lovrijenac stands on a sheer 37-metre cliff west of the Pile Gate, connected to the city walls but separate from the main old town. It is one of the most dramatic fortifications in Dalmatia — a triangular tower rising directly from the sea, with walls on the seaward side that are 12 metres thick. The views from the top take in the old town, the walls, the sea, and the Croatian coast stretching north.

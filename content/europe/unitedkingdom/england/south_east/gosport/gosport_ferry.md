@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Royal_Clarence_Yard
 story: >
   The passenger ferry between Gosport and Portsmouth has been running continuously since at least the 14th century, making it one of the oldest ferry crossings still in operation in Britain. For most of that time it was propelled by oar or sail; the current catamarans are a recent upgrade on a very ancient service.
+score: 7.0
 ---
 
 The ferry from Gosport town pontoon to Portsmouth Harbour station is a five-minute crossing that offers one of the best views in the Solent. As the boat leaves the Gosport side, you get a clear view of Royal Clarence Yard — the oldest victualling yard in the world still in use by the Royal Navy, its Georgian warehouses stretching along the waterfront. As you approach Portsmouth, the Historic Dockyard opens up to the north, with the masts of HMS Warrior and HMS Victory visible above the dockyard walls.

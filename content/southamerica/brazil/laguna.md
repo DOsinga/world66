@@ -5,12 +5,14 @@ done:
 latitude: -28.4837
 loc_type: city
 longitude: -48.7817
-score: 0.44
+score: 6.68
 sources:
 - https://en.wikipedia.org/wiki/Laguna,_Santa_Catarina
 - https://en.wikipedia.org/wiki/Anita_Garibaldi
 title: Laguna
 type: location
+snippet: Historic southern Brazilian coastal town enclosed by lagoon and ocean, with
+  colonial streets tied to Anita Garibaldi.
 ---
 
 Laguna is one of the oldest and most historically significant towns on Brazil's southern coast — a place where colonial architecture, wild beaches, and a famous carnival combine in a way that sets it apart from the beach resorts further north. Founded in 1676, it sits on a narrow strip of land between the Atlantic Ocean and the vast Lagoa Santo Antônio, giving it the feel of a town enclosed by water on all sides.

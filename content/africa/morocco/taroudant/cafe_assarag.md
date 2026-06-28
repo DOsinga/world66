@@ -7,6 +7,7 @@ tags:
 latitude: 30.4720
 longitude: -8.8764
 snippet: "Pavement terraces with mint tea and evening socialising"
+score: 6.1
 ---
 
 The cafés around Place Assarag are the social heart of Taroudant evenings. Plastic chairs spill out onto the pavement, old men play dominoes, and a steady stream of people passes through. Mint tea is the default order, brought in the small silver pot with a tower of glasses; coffee is available but the tea is better. Some cafés also serve orange juice freshly squeezed from Souss valley fruit.

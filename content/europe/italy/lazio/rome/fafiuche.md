@@ -5,11 +5,13 @@ done:
 latitude: 41.8947
 longitude: 12.4868
 opening_hours: Daily 12:00–01:00
+score: 6.9
 snippet: Natural wine bar with great outdoor tables in Monti
 tags:
 - eating_out
 - bars_and_cafes
 - bar
+- pantheon_navona
 title: Fafiuche
 type: poi
 ---

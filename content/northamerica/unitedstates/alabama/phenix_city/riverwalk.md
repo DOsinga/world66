@@ -8,6 +8,7 @@ tags:
 - park
 title: Chattahoochee RiverWalk
 type: poi
+score: 7.1
 ---
 
 A 22-mile paved path running along both sides of the Chattahoochee River from Lake Oliver in the north down to Fort Moore in the south, with the Phenix City and Columbus sections linked by half a dozen pedestrian bridges. The riverbank is parkland for most of its length — picnic spots, benches, exercise equipment, the occasional historical marker.

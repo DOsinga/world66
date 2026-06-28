@@ -10,6 +10,7 @@ sources:
   - https://www.greeka.com/sporades/skopelos/sightseeing/agios-ioannis-kastri/
 story: >
   The chapel appeared in the climactic wedding scene of the 2008 film Mamma Mia!, launching Skopelos from a quiet Aegean island to an international destination. The scene required actors to climb the 198 steps in wedding attire — reputedly not the most comfortable film shoot. The chapel itself is tiny, seating barely a dozen people, and has been a pilgrimage site since long before the film.
+score: 8.4
 ---
 
 The tiny whitewashed chapel of Agios Ioannis sits atop a 100-metre sea-rock on the northeastern coast of Skopelos, reached by 198 steps carved directly into the rock face. The climb takes about ten minutes and is straightforward if steep; the view from the top across the blue-green Aegean to the mainland is one of the finest on the island.

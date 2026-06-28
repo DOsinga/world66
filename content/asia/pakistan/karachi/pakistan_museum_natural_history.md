@@ -6,6 +6,7 @@ longitude: 67.0810
 tags:
   - things_to_do
   - museum
+score: 6.1
 ---
 
 The Pakistan Museum of Natural History, located in the university campus area of Gulshan-e-Iqbal, is the country's premier natural science museum, covering geology, palaeontology, botany, and zoology with particular depth in the natural history of the South Asian subcontinent. The palaeontology collection includes significant Pakistani finds — the fossil record of Balochistan and the Indus Basin has yielded important specimens of early cetaceans (ancestral whales), early primates, and large mammals that once roamed the subcontinent in the Eocene and Oligocene periods.

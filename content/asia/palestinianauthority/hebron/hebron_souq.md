@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 31.5255
 longitude: 35.1095
+score: 8.3
 ---
 
 The souq of Hebron's old city is one of the most atmospheric markets in the West Bank. It fills the narrow alleys beneath the Cave of the Patriarchs with stalls selling hand-blown glass — a craft Hebron has been known for since the Ottoman period — alongside pottery, leather goods, spices, dried fruit, and local sweets. The glassblowing workshops in the nearby Bab al-Zawiyah district are open to visitors; you can watch craftsmen gather molten glass from wood-fired furnaces and blow it into the distinctive cobalt and turquoise vessels sold throughout the region.

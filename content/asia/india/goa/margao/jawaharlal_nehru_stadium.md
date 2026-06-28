@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 Jawaharlal Nehru Stadium — widely known as Fatorda Stadium after the neighbourhood it occupies — is Goa's principal football ground and the largest sports venue in the state. With a capacity of around 19,000, it is one of the few venues in India certified to host international football matches, and it regularly does: the Indian national team plays here, and the stadium was one of the chosen venues for the 2017 FIFA U-17 World Cup.

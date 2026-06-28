@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Elephants_at_Amboseli_nati
 latitude: -2.6527
 loc_type: feature
 longitude: 37.2606
+score: 9.26
+snippet: Kenyan savanna park where elephants move across dusty plains below the great
+  cone of Kilimanjaro.
 title: Amboseli National Park
 type: location
 ---

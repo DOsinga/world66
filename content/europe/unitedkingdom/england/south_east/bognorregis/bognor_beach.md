@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.7780
 longitude: -0.6750
+score: 7.6
 ---
 
 Bognor's beach is a broad stretch of sand and shingle running the full length of the town, backed by a traditional promenade with shelters, ice cream kiosks, and the kind of amusement arcade that has changed very little since the 1980s. The sand is reasonably clean and the beach gets busy in summer — the town's position roughly 90 kilometres from London makes it accessible enough for day trips by train.

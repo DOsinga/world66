@@ -8,6 +8,7 @@ latitude: 34.7203
 longitude: 10.7337
 sources:
   - https://en.wikipedia.org/wiki/Sfax_War_Cemetery
+score: 5.8
 ---
 
 The Sfax War Cemetery, maintained by the Commonwealth War Graves Commission, lies about 3 km from the city centre and contains the graves of Allied soldiers who died during the North Africa campaign of World War II. Sfax was captured by the Eighth Army in April 1943 during the push towards Tunis, and the cemetery holds those who died in the fighting around the city.

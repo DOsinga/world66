@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%A9_de_Viseu_IMG_20141
 latitude: 40.657471
 loc_type: city
 longitude: -7.913866
-score: 0.54
+score: 7.76
+snippet: Central Portuguese market city in Dão wine country, with granite streets
+  and a hilltop cathedral.
 title: Viseu
 type: location
 ---

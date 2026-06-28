@@ -8,6 +8,7 @@ tags:
 snippet: "Whitewashed market town with a genuine souk, wooden fishing boats, and fortress-mosques"
 latitude: 33.8754
 longitude: 10.8579
+score: 8.5
 ---
 
 Houmt Souk — "market neighbourhood" in Arabic — is the island's main town and the place that gives Jerba its character beyond the beach resorts. The medina is compact and genuinely functional: its souks sell cloth, handwoven blankets in Berber patterns, pottery, and the kind of everyday goods that serve a working community rather than a tourist trade. Wander the alleys around the central market early in the morning and you'll see it at its best.

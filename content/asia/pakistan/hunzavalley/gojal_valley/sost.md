@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Sost_Bazar.JPG
 latitude: 36.689719
 loc_type: city
 longitude: 74.820554
-score: 0.37
+score: 6.05
+snippet: Karakoram Highway border town in Gojal Valley, beneath glaciated peaks near
+  Khunjerab Pass.
 title: Sost
 type: location
 ---

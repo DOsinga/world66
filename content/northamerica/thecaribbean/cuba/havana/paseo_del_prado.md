@@ -1,21 +1,22 @@
 ---
-title: Paseo del Prado
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - habana_vieja
 latitude: 23.1392
 longitude: -82.3592
-story: >
-  The Prado was Havana's first suburban promenade, built in 1772 at the edge
-  of the colonial city and lined with shade trees that made it the preferred
-  evening walk of the Havana bourgeoisie. By the early 20th century it had
-  been redesigned in the style of Las Ramblas in Barcelona, with a central
-  pedestrian boulevard flanked by marble benches and bronze lions. Today the
-  lions are polished smooth by generations of children sitting on them, and
-  the boulevard has been taken over by skateboarders and boxers sparring
-  in the open air.
+score: 8.5
+story: 'The Prado was Havana''s first suburban promenade, built in 1772 at the edge
+  of the colonial city and lined with shade trees that made it the preferred evening
+  walk of the Havana bourgeoisie. By the early 20th century it had been redesigned
+  in the style of Las Ramblas in Barcelona, with a central pedestrian boulevard flanked
+  by marble benches and bronze lions. Today the lions are polished smooth by generations
+  of children sitting on them, and the boulevard has been taken over by skateboarders
+  and boxers sparring in the open air.
+
+  '
+tags:
+- things_to_do
+- sight
+- centro_habana
+title: Paseo del Prado
+type: poi
 ---
 
 The Paseo del Prado (officially Paseo de Martí) is Havana's main promenade — a tree-lined marble boulevard running from the Parque Central down to the Malecón, flanked by some of the finest 19th and early 20th century buildings in the city. The central walkway is separated from traffic by decorative ironwork and has marble benches at intervals, bronze lions at the main intersections, and very old trees providing dense shade.

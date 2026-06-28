@@ -7,6 +7,7 @@ tags:
 - sight
 title: Khan Madrasa
 type: poi
+score: 7.5
 ---
 
 The Madrasa-ye Khan was founded in 1615 by Imam-Quli Khan, governor of Fars under Shah Abbas, as a centre for Shia theology and philosophy. The brick complex sits just south of the Shah Cheragh and has a square central courtyard ringed by student cells under two storeys of arcade, with the main prayer hall on the south side.

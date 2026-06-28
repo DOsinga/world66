@@ -8,6 +8,7 @@ tags:
   - cacilhas
 latitude: 38.6858
 longitude: -9.1502
+score: 7.8
 ---
 
 Ponto Final is one of Cacilhas's most talked-about restaurants, tucked into the riverside just past the more prominent waterfront eateries. The terrace juts out over the water, and the tables closest to the edge are so near the Tagus that you can watch the ferries pass while you eat. The setting is unusually intimate for a riverside restaurant, and the kitchen is confident with traditional fish dishes.

@@ -3,13 +3,15 @@ done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-23'
 image: lascruces.jpg
-image_license: Public domain
 image_attribution: AllenS
+image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Branigan_Library_Las_Cruces_(cropped).jpg
 latitude: 32.314
 loc_type: city
 longitude: -106.7798
-score: 0.4
+score: 6.57
+snippet: Mesilla Valley city where New Mexico State University sits below the jagged
+  Organ Mountains.
 title: Las Cruces
 type: location
 ---

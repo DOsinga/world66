@@ -1,12 +1,13 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+score: 8.1
 snippet: A guide to France's extraordinary regional cheeses
 tags:
 - food_and_drink
 - food
 title: French Cheese
-type: poi
+type: theme
 ---
 
 France produces more varieties of cheese than any other country — estimates range from 400 to over 1,000 depending on how you count. Like wine, many are protected by the Appellation d'Origine Contrôlée (AOC) system, tying production to specific regions and methods. Every corner of the country has its own traditions, and tasting local cheese is one of the simplest pleasures of traveling here.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:102Churches_landmarks_Buil
 latitude: 14.6512
 loc_type: city
 longitude: 120.9672
-score: 0.33
+score: 5.5
+snippet: Metro Manila city tied to the Cry of Pugad Lawin and the Philippine Revolution's
+  opening act.
 title: Caloocan
 type: location
 ---

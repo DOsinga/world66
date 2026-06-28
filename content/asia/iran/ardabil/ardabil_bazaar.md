@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, shopping, sight]
 latitude: 38.2510
 longitude: 48.2935
+score: 6.6
 ---
 
 The covered bazaar runs through several blocks of the old city centre, between the Jameh Mosque and the Sheikh Safi shrine. It is smaller than Tabriz or Isfahan but works on the same principle — a warren of vaulted brick passageways arranged by trade. Carpet sellers occupy the most space, which makes sense in a city famous for its rugs.

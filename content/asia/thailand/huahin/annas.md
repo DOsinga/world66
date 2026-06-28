@@ -1,7 +1,10 @@
 ---
 address: Nabkehad Road Hua Hin
+latitude: 12.579
+longitude: 99.9605
 phone: 032-515-787
 price: THB 200 +
+score: 5.7
 tags:
 - eating_out
 - restaurant

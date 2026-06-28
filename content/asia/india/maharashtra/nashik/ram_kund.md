@@ -12,6 +12,7 @@ story: >
   the Simhastha) draws tens of millions of pilgrims every twelve years, making it
   one of the largest human gatherings on earth. At the last Nashik Kumbh (2015),
   estimates put the total attendance over the month-long event at 75 million people.
+score: 8.0
 ---
 
 Ram Kund is the principal ghat on the Godavari River in Nashik, and the most sacred spot in the city. Pilgrims come here to bathe in the Godavari, whose waters are considered capable of washing away sins. Priests line the steps performing rituals, and the ghats are in near-constant use from before dawn. The site is believed to be where Lord Rama bathed during his exile in the forest.

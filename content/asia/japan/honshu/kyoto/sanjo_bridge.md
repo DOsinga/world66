@@ -1,12 +1,15 @@
 ---
-latitude: 35.0090
+latitude: 35.009
 longitude: 135.7717
-snippet: Historic bridge over the Kamo River; eastern end of the Tōkaidō road from Tokyo
+score: 6.2
+snippet: Historic bridge over the Kamo River; eastern end of the Tōkaidō road from
+  Tokyo
 tags:
 - things_to_do
 - bridge
 - historic_site
 - sight
+- gion
 title: Sanjō Ōhashi
 type: poi
 ---

@@ -6,6 +6,7 @@ latitude: 47.3247
 longitude: 1.0704
 story: >
   During World War I, the Menier family (who have owned the château since 1913) converted the gallery bridge over the Cher into a hospital with 22 beds, treating over 2,000 wounded soldiers. During World War II the gallery proved strategically crucial again: the north end of the bridge was in the German-occupied zone, the south end in Vichy France, making the château one of the few crossing points on the Cher. It became a significant escape route for people fleeing the Occupation into unoccupied territory.
+score: 9.7
 ---
 
 The Château de Chenonceau straddles the River Cher on a five-arched bridge, and the gallery that Catherine de' Medici built atop that bridge — 60 meters long, with mullioned windows on both sides — is one of the most recognizable images of the French Renaissance. From the water, looking up at the arches with their reflections and the castle rising behind, you understand why this is the second most visited château in France after Versailles.

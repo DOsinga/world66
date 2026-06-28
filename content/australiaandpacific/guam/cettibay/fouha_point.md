@@ -10,6 +10,7 @@ story: >
   In Chamorro creation mythology, Fouha Point is the place where the first humans emerged from the rock. A boulder on the point, known as Fouha Rock, is said to be the origin point of the Chamorro people. The site was designated a National Natural Landmark in 1974, though it receives surprisingly few visitors for a place of such cultural significance.
 sources:
   - https://en.wikipedia.org/wiki/Fouha_Point
+score: 8.3
 ---
 
 Fouha Point, also known as Creation Point, is a National Natural Landmark on the southwestern coast of Guam near Cetti Bay. According to Chamorro oral tradition, this rocky promontory is the place where the first human beings were created — making it one of the most sacred sites in Chamorro culture. The point juts into the sea at the base of forested cliffs, and the coastal scenery here is raw and dramatic.

@@ -15,4 +15,4 @@ Getting around Benin is straightforward if you are patient and flexible. The mai
 
 For [Ganvie](/africa/benin/ganvie), you take a pirogue (motorized canoe) from the town of Abomey-Calavi, about 15 km north of Cotonou. Boats can be hired at the lakeside for a round trip.
 
-Road quality drops significantly on secondary routes, especially in the north and during the rainy season. If you are heading to the [Somba villages](/africa/benin/sombavillages) or Pendjari National Park, allow extra time and ideally travel in a 4x4.
+Road quality drops significantly on secondary routes, especially in the north and during the rainy season. If you are heading to the Somba villages or Pendjari National Park, allow extra time and ideally travel in a 4x4.

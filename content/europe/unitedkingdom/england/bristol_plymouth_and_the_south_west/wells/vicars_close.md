@@ -9,6 +9,7 @@ latitude: 51.2109
 longitude: -2.6462
 story: >
   Vicars' Close was built in the 1360s to house the Vicars Choral — the singers who performed the daily services in the cathedral. It was intended to keep them out of the town's taverns. The plan was only partially successful.
+score: 8.5
 ---
 
 Vicars' Close is a short, cobbled street of terraced medieval houses leading north from the cathedral, and it is claimed to be the oldest residential street in Europe still in continuous occupation. The houses were built between 1348 and 1430 for the Vicars Choral — the men who sang the cathedral services — and have been lived in without interruption since.

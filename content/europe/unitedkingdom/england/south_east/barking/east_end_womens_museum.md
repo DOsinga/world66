@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.5338
 longitude: 0.0753
+score: 7.5
 ---
 
 A small, sharp museum dedicated to the working women of east London — the matchgirls, the suffragettes, the wartime munitions workers, and the activists who shaped the East End from the 19th century onwards. It started as a pop-up campaign in 2015, opened as a permanent space in 2022, and now occupies a ground-floor unit on Cambridge Road close to the abbey.

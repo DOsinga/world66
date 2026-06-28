@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Broeltorens,_Kortrijk_(DSC
 latitude: 50.8276
 loc_type: city
 longitude: 3.266
-score: 0.47
+score: 7.29
+snippet: Flemish river city with medieval towers, linen history, and the Battle of
+  the Golden Spurs.
 title: Kortrijk
 type: location
 ---

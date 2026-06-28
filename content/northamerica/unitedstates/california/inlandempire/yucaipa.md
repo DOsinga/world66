@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Yucaipa_Adobe,_CA_2-15-15_
 latitude: 34.033625
 loc_type: city
 longitude: -117.043087
-score: 0.32
+score: 5.71
+snippet: Foothill town below the San Bernardino Mountains, edged by lakes, orchards,
+  and autumn apple country.
 title: Yucaipa
 type: location
 ---

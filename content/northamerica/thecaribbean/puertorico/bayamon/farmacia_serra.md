@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 A small but architecturally striking pharmacy building close to the Plaza de Recreo, built in 1910. The Farmacia Serra is on the National Register of Historic Places for its turn-of-the-century commercial design — a two-story brick structure with decorative cornices and large windows typical of early 20th-century Bayamón.

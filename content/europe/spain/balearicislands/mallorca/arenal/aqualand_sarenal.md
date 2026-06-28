@@ -13,6 +13,7 @@ story: >
   of the town boundary, chosen partly because the split jurisdiction — the resort
   straddles two municipalities — simplified planning permission at a time when
   coastal development rules were still being written.
+score: 6.0
 ---
 
 Aqualand S'Arenal is one of the largest water parks in the Balearics, spread over several hectares just inland from the resort. It has been a fixture of the S'Arenal family holiday offer since the mid-1980s and remains the most-visited paid attraction in the area. The park has a full range of slides — the kamikaze near-vertical drops at the top end, lazy rivers and wave pools at the gentler end — along with children's zones for younger kids.

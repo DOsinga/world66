@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 41.6514
 longitude: -4.7197
+score: 8.1
 ---
 
 The Palacio de Santa Cruz, built between 1486 and 1491 for Cardinal Mendoza, is considered the first Renaissance building in Spain — a key transition from the late Gothic that still dominated the country to the Italian classicism that would arrive a generation later. The facade still carries some Gothic detailing, but the proportions and the rusticated stonework are unmistakably new.

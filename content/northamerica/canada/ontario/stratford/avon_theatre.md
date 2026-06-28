@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - theatre
+score: 7.9
 ---
 
 The Avon is the festival's downtown venue, on the main shopping street and easy to combine with dinner before the show. The building started life as the Theatre Albert in 1901, was rebuilt as a cinema in the 1960s, and has since been the festival's mid-sized house — about 1,100 seats with a more conventional proscenium.

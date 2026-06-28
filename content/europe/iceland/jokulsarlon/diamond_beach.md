@@ -16,6 +16,7 @@ story: >
   surviving fragments after they tumble through the outlet channel.
 sources:
   - https://en.wikipedia.org/wiki/Brei%C3%B0amerkursandur
+score: 9.1
 ---
 
 Diamond Beach is the stretch of black volcanic sand on the ocean side of the Jökulsárlón outlet, where ice chunks that have survived the journey through the lagoon wash ashore and catch the light like enormous crystals on the dark sand. The beach is directly across the Ring Road bridge from the lagoon itself and takes about five minutes to walk to. The ice pieces range from fist-sized fragments to chunks the size of a small car, and their translucency against the black sand creates the photographic effect that has made this one of Iceland's most replicated images.

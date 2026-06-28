@@ -10,6 +10,7 @@ tags:
 - sight
 title: Terracotta Workshops
 type: poi
+score: 8.1
 ---
 
 The pale grey marl quarried in the hills around Impruneta turns a deep warm red when fired and resists cold and damp better than most other clays. That is why, since at least the Renaissance, the tiles on Tuscan roofs, the giant lemon pots in villa courtyards, and the floors of countless monasteries have all come from here. Brunelleschi famously specified Impruneta tiles for the lantern of Florence cathedral.

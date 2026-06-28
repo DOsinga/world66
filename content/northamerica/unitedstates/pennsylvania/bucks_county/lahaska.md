@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Buckingham_Friends_Meeting
 latitude: 40.3465
 loc_type: city
 longitude: -75.0312
-score: 0.39
+score: 6.82
+snippet: Tiny Bucks County crossroads anchored by Peddler's Village and its hand-carved
+  Dentzel carousel.
 title: Lahaska
 type: location
 ---

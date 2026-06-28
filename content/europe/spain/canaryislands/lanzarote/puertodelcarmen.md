@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:PuertodelcarmenBeach.JPG
 latitude: 28.9204
 loc_type: city
 longitude: -13.6507
-score: 0.6
+score: 8.48
 title: Puerto del Carmen
+snippet: Lanzarote resort town with low white buildings along a six-kilometre southeast-coast
+  beach strip.
 type: location
 ---
 

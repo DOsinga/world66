@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 29.522665
+loc_type: feature
 longitude: 103.336864
+score: 9.05
+snippet: Sacred Buddhist mountain in Sichuan, with forested temple paths climbing
+  toward a 3,099-metre summit
 title: Mount Emei
 type: location
-score: 0.69
-loc_type: feature
+image: mount_emei.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Golden_Top_of_Mount_Emei.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Zhou Yuji1028
 ---
 
 Mount Emei is one of China's four sacred Buddhist mountains, located south of [Chengdu](/asia/china/sichuanprovince/chengdu) in Sichuan province. The highest peak, Wanfo Ding (Ten Thousand Buddha Peak), reaches 3,099 metres and has been a pilgrimage destination for nearly two thousand years. UNESCO listed it as a World Heritage site in 1996 for both its cultural and natural significance.

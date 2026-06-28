@@ -10,6 +10,7 @@ tags:
 - theatre
 title: Musical Comedy Theatre
 type: poi
+score: 6.8
 ---
 
 Moscow's Theatre of Musical Comedy sits on Bolshaya Dmitrovka just a few blocks from the Bolshoi, and locals sometimes call it the Bolshoi's younger sibling. The repertoire leans toward operetta — Strauss, Kálmán, Lehár — alongside classic Soviet musicals and the occasional contemporary production. It's a more intimate and less formal venue than the Bolshoi, with tickets far easier to obtain and considerably cheaper.

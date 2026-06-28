@@ -7,6 +7,7 @@ tags:
 - sight
 title: Whale Watching and Harbor Cruises
 type: poi
+score: 8.4
 ---
 
 Several operators run boat trips from Boothbay Harbor's pier, the most popular being whale watching cruises out to Jeffreys Ledge and other feeding grounds off the coast. Finback, minke, and humpback whales are regularly sighted from late June through September. Balmy Days Cruises and Cap'n Fish's Whale Watch are among the established operators.

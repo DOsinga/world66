@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 7.1
 ---
 
 Kita is a station on the old Dakar-Niger Railway, the colonial line completed in 1924 that connected the Atlantic at Dakar with the Niger River at Koulikoro. The station building, with its long platform and shaded verandas, is a piece of French West African railway architecture little changed in a century.

@@ -5,6 +5,7 @@ tags: [things_to_do, nature, sight]
 latitude: 50.4480
 longitude: -104.6159
 story: "Regina's sky is the defining feature of the city's landscape, and meteorologists confirm what residents have long claimed: southern Saskatchewan records more hours of sunshine per year than almost anywhere else in Canada. The flatness of the terrain means the horizon is unbroken in every direction, and at dusk the sky turns through every shade between yellow and violet in a display that visitors from hillier countries consistently find disorienting and beautiful."
+score: 7.3
 ---
 
 The greatest free spectacle in Regina requires no admission, no queue, and no particular planning — just stepping outside at the right moment and looking up. The prairie sky over southern Saskatchewan is extraordinary: the absolute flatness of the terrain in every direction means the sky occupies a larger fraction of your visual field than anywhere in a more topographically varied landscape, and the light at sunset does things that painters from elsewhere find difficult to believe.

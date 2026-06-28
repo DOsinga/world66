@@ -8,6 +8,8 @@ latitude: 50.796837
 loc_type: region
 longitude: -2.344732
 score: 0.6
+snippet: Rural English county of chalk downs and Jurassic Coast cliffs where fossils
+  fall from winter-eroded rock.
 title: Dorset
 type: location
 ---

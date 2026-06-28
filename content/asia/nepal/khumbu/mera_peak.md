@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mera_Peak
 story: >
   From the summit of Mera Peak on a clear day, you can see six of the world's fourteen 8,000m peaks: Everest, Lhotse, Makalu, Cho Oyu, Kangchenjunga, and Dhaulagiri. No other accessible trekking peak in Nepal offers this combination. The ascent itself involves a long glacial approach and a final ice slope but no technical rock climbing, making it achievable by fit trekkers with basic crampon experience.
+score: 8.2
 ---
 
 Mera Peak (6,476m) is the highest trekking peak in Nepal — meaning the highest peak accessible without full mountaineering training. It sits in the Hinku valley, southeast of the Khumbu proper, and is typically approached via Lukla and then a seldom-walked route over the Zatrawala Pass (4,600m) that gives excellent views of the Khumbu from the outside. The approach is remote and requires at least 18–20 days for the full expedition.

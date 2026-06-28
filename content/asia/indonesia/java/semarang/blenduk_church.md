@@ -17,6 +17,7 @@ story: >
   Indonesia.
 sources:
   - https://en.wikipedia.org/wiki/Blenduk_Church
+score: 7.4
 ---
 
 The Blenduk Church (officially GPIB Immanuel) was built in 1753 and rebuilt in its current form in 1894, making it one of the oldest Dutch Reformed churches in Indonesia still standing in something close to its original condition. Its domed interior — all whitewash, dark wood, and high windows — has the austere beauty of Dutch Protestant architecture transplanted to the tropics.

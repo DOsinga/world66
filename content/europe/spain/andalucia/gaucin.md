@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gauc%C3%ADn,_Spain.jpg
 latitude: 36.519238
 loc_type: city
 longitude: -5.317754
-score: 0.57
+score: 7.89
+snippet: Andalucian hilltop village with whitewashed lanes and clear-day views to
+  Gibraltar and Morocco
 title: Gaucin
 type: location
 ---

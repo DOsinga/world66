@@ -8,6 +8,7 @@ tags:
 story: "Once a week (on a published schedule), taps embedded in the base of the tower run not water but chacha — the local fruit brandy. Bring a small cup. The schedule is enforced strictly; outside those hours the tower is purely decorative."
 title: Chacha Tower
 type: poi
+score: 4.6
 ---
 
 The Chacha Tower (Chacha Kosht'i) is a brick clock tower on Era Square, opposite the cathedral. It was built in 2012 in an Italianate style — narrow, tall, with arched balconies and a clock face — to anchor the new corner of the city. The novelty is what it does on schedule: taps at the foot of the tower pour out free chacha, Georgia's strong fruit brandy, for fifteen minutes once a week.

@@ -17,6 +17,7 @@ story: >
   installation.
 sources:
   - https://en.wikipedia.org/wiki/Iglesia_de_la_Inmaculada
+score: 8.7
 ---
 
 The Iglesia de la Inmaculada Concepción, completed in 1797, is the most architecturally significant colonial building in the Central Valley of Costa Rica and the oldest church in the country still in its original form. Its survival over more than two centuries of earthquakes is a direct result of its construction: walls two metres thick and a low, wide profile that distributes seismic stress far better than the taller, thinner structures that collapsed throughout the region.

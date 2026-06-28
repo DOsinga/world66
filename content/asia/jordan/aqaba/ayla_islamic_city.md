@@ -7,6 +7,7 @@ snippet: "Excavated remains of the early Islamic walled city of Ayla"
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 The excavated remains of Ayla — the early Islamic city that preceded modern Aqaba — sit in a low-fenced archaeological park on the corniche, between the Mövenpick hotel and the city centre. The walled town was founded by the Umayyad caliphs around 650 CE on the site of the earlier Roman trading post of Aila and flourished as an entrepôt on the pilgrimage route to Mecca until an earthquake in 1068 destroyed most of it.

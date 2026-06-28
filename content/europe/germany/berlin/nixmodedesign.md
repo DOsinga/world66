@@ -12,6 +12,7 @@ tags:
 - berlinmitte
 title: NIX Mode-Design
 type: poi
+score: 5.8
 ---
 
 A Berlin-based fashion label run by designer Barbara Gebhardt, tucked inside the Heckmann Höfe courtyard complex off Oranienburger Strasse. The shop doubles as a workshop where the entire collection is designed and produced on site. The style leans towards clean, wearable pieces for men, women, and children with a distinctly urban sensibility. Worth a visit if you're browsing the courtyards of Mitte.

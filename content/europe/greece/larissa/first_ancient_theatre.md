@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/First_Ancient_Theatre,_Larissa
 story: >
   The theatre was dedicated to Dionysus and used for both dramatic performances and political assemblies — in ancient Greek cities, theatre and democracy were inseparable institutions. Hippocrates, the father of medicine, is said to have died in Larissa and may well have attended performances here.
+score: 8.5
 ---
 
 The First Ancient Theatre of Larissa, carved into the southern slope of Frourio Hill, is the largest theatre in Thessaly and one of the best-preserved Hellenistic theatres in mainland Greece. Built in the third or second century BC, it could accommodate around 10,000 spectators — a substantial audience for a city of this size. Its semi-circular seating (the cavea) is cut directly into the hillside and looks out over the city below.

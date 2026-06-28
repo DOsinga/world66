@@ -12,6 +12,7 @@ story: >
   where the continent's land runs out. When the sun rises here, it rises on the Americas 
   before anywhere else on the landmass. The Portuguese explorer Cabral may have seen this 
   cape from his fleet in 1500, though historians debate the exact landfall.
+score: 8.3
 ---
 
 The easternmost point of the Americas, where the Atlantic begins and the continent ends. The cliffs here are striking — white-faced and dramatic — and the viewpoint gives you a clear sense of why this cape earned its name. Come in the morning when the light is behind you and the sea is at its most vivid.

@@ -8,6 +8,7 @@ latitude: -33.7432
 longitude: 18.9482
 sources:
   - https://en.wikipedia.org/wiki/Paarl_Mountain_Nature_Reserve
+score: 8.7
 ---
 
 Paarl Mountain Nature Reserve rises above the town and contains the three great granite domes that give Paarl its name — "parel" means pearl in Dutch, and when the sun catches the wet granite after rain, the domes do indeed gleam like enormous pearls. The reserve has well-marked hiking trails that take you through fynbos vegetation and past some of the largest granite outcrops in the world, second in scale only to Ayers Rock.

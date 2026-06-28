@@ -13,6 +13,7 @@ tags:
   - museum
 title: Wayne County Historical Museum
 type: poi
+score: 7.5
 ---
 
 The Wayne County Historical Museum occupies a complex of buildings in the heart of Richmond and holds one of the better small-city historical collections in Indiana. The emphasis is on the county's Quaker founding and frontier era, with pioneer artefacts, tools, and furnishings from the early 19th century. There are also early automobiles manufactured locally — Richmond had a brief automotive industry in the early 1900s, producing the Westcott and other models.

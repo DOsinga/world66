@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 43.7172
 longitude: 10.4009
+score: 6.9
 ---
 
 The arcaded market square three minutes from the river is the working heart of Pisan student life. Mornings bring a small produce market under the loggia; by evening the same square fills with students sitting on the steps eating focaccia and drinking spritzes from the surrounding bars. The architecture is straight 16th-century Tuscan, four sides of identical arcaded buildings around a flat paved space.

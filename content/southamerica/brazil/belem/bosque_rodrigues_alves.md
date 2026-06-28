@@ -14,6 +14,7 @@ story: >
   drops a few degrees, and you hear howler monkeys before you see them. Trails wind through native
   trees, past ponds with giant water lilies, and along enclosures with manatees, giant otters,
   and native birds.
+score: 6.8
 ---
 
 The zoo section is modest but the animals are at least Amazonian natives rather than the usual international collection. Manatees, caimans, toucans, and various primates make appearances. The botanical garden labels many of the trees, which is useful if you want to put names to the species you will encounter if you travel further into the Amazon.

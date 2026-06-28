@@ -11,6 +11,7 @@ story: "Wadi Derna is usually dry or modest, but in September 2023 it became the
 sources:
   - https://en.wikipedia.org/wiki/Wadi_Derna
   - https://en.wikipedia.org/wiki/Derna,_Libya
+score: 7.7
 ---
 
 Wadi Derna cuts down from the Jebel Akhdar to the sea, dividing the city and giving Derna much of its character. In calmer times the wadi explains the greenery and water features that made the city unusual by Libyan standards.

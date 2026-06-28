@@ -8,6 +8,7 @@ latitude: 40.525
 longitude: 44.7111
 sources:
   - https://en.wikipedia.org/wiki/Tsaghkadzor_Olympic_Sports_Complex
+score: 6.3
 ---
 
 The Olympic Sports Complex on the lower slopes of Tsaghkadzor was developed as a dedicated training facility for Armenian Olympic athletes. It includes a velodrome, athletics track, and various indoor and outdoor training areas, making it one of the most comprehensive sports facilities in the country outside of Yerevan. The complex has hosted national championships and international training camps.

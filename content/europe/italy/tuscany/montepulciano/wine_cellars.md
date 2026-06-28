@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0928
 longitude: 11.7807
+score: 8.0
 ---
 
 Beneath the streets and palaces of Montepulciano, carved into the volcanic tuff on which the town stands, lie some of the most impressive wine cellars in Tuscany. The major producers — Contucci, Avignonesi, Poliziano, and others — have cellars in and around the main square and the streets descending from it. Most offer tastings and many are open without appointment.

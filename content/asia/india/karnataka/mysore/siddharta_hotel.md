@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.3072
 longitude: 76.6559
+score: 6.1
 ---
 
 Hotel Siddharta on Guest House Road is one of Mysore's reliable old-school vegetarian restaurants — a large, busy place with ceiling fans, formica tables, and a menu that runs through the full range of South Indian and North Indian vegetarian cooking. The masala dosa here are excellent: thin, crisp, and served with chutney and sambar that are remade fresh through the morning.

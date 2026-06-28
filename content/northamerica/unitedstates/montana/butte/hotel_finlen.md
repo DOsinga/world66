@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.0128
 longitude: -112.5356
+score: 7.0
 ---
 
 A 1924 Italian Renaissance brick-and-terracotta hotel on Broadway, modelled on the Astor in New York and built by Miles Finlen to serve the mining executives flowing through Butte. JFK, Nixon, Eisenhower, Charles Lindbergh, and Theodore Roosevelt all stayed here.

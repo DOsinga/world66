@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - medieval_quarter
+score: 6.8
 ---
 
 A 16th-century palace on the corner of Plaza del Machete and Calle Fray Zacarías Martínez, built into the medieval city wall. The building incorporates a stretch of the old town's defences in its lower walls — visit the basement to see the masonry.

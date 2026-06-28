@@ -8,6 +8,7 @@ tags:
   - religion
 latitude: 38.1146
 longitude: 13.3627
+score: 8.8
 ---
 
 San Cataldo, next door to La Martorana, is the most visually distinctive small church in Palermo: a stripped Norman block topped by three brilliant red bulbous domes, identical in style to the better-known domes of San Giovanni degli Eremiti. Built in the 1160s for Chancellor Maio of Bari, the interior was never finished and the original mosaics never executed.

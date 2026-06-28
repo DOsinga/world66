@@ -6,6 +6,7 @@ longitude: 38.9275
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 A large cemetery on the southwestern edge of the city centre that holds the dead of the long Eritrean independence war (1961–1991). Endless rows of small white headstones, each with a name and a date, climb up a hillside above the city; a tall central obelisk marks the entrance.

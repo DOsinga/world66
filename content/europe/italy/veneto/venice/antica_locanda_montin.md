@@ -3,8 +3,8 @@ address: Fondamenta di Borgo 1147, Dorsoduro, 30123 Venice
 latitude: 45.4316
 longitude: 12.3248
 opening_hours: Thu–Mon 12:30–14:30, 19:30–22:00; closed Tue–Wed
-snippet: "Old-school Venetian restaurant with a vine-covered garden"
-neighbourhood: Dorsoduro
+score: 7.0
+snippet: Old-school Venetian restaurant with a vine-covered garden
 tags:
 - eating_out
 - dorsoduro

@@ -15,6 +15,7 @@ story: >
   negotiated directly with the Esopus Munsee people for the land, paying in
   trade goods. The original street plan they laid out is still intact — you are
   walking on a 350-year-old grid.
+score: 8.5
 ---
 
 Huguenot Street is one of the oldest continuously inhabited streets in the United States, and the cluster of stone houses that line it is genuinely remarkable. Six of the original stone dwellings survive from the late 17th and early 18th centuries, built by the French Huguenot families who founded New Paltz in 1678: the DuBois, Bevier, Deyo, Freer, LeFevre, and Hasbrouck families, whose descendants still have a strong presence in the valley.

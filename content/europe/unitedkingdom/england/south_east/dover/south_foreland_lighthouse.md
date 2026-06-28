@@ -9,6 +9,7 @@ latitude: 51.1404
 longitude: 1.3711
 snippet: Victorian clifftop lighthouse where Marconi made the first international radio transmission
 story: On 27 March 1899, Guglielmo Marconi stood in this lighthouse and sent the first international radio transmission across the Channel to Wimereux in France — a distance of 50 km. Two years earlier, he had also used the lighthouse to prove that electricity could power a lighthouse signal, making it the first electrically lit lighthouse in England.
+score: 7.7
 ---
 
 South Foreland Lighthouse stands on the chalk headland east of Dover, reached by a brisk clifftop walk from the National Trust visitor centre at the White Cliffs. The Victorian lighthouse was built in 1843 to warn ships away from the Goodwin Sands, a notorious shallow where hundreds of vessels have foundered over the centuries.

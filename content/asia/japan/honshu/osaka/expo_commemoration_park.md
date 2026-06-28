@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 34.8096
 longitude: 135.5255
+score: 7.5
 ---
 
 The park built on the site of the 1970 World Exposition in Suita, north of Osaka — an event that symbolised Japan's post-war recovery and drew 64 million visitors over six months. The vast site retains the original layout of the Expo grounds, and the centrepiece sculpture remains: the Tower of the Sun by artist Taro Okamoto, a 70-metre abstract figure with three faces — one looking up (the future), one looking forward (the present), and one on the back of the head (the past) — that has become an icon of 1970s Japanese modernism.

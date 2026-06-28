@@ -7,6 +7,7 @@ tags:
 latitude: 38.9109
 longitude: -76.9692
 story: "The National Capitol Columns at the Arboretum are among the most surreal sights in Washington: twenty-two Corinthian columns from the east portico of the US Capitol, removed in 1958 when the Capitol's dome was being replaced and the east front extended. They were stored for decades, then installed in a meadow in 1990, arranged in a partial ellipse around a reflecting pool, with no building attached — columns holding up nothing but sky."
+score: 8.4
 ---
 
 The US National Arboretum occupies 446 acres of wooded hills in the northeastern part of Washington DC, about four miles from the Mall. It is operated by the Department of Agriculture as a research and educational facility, and it is free to visit every day of the year.

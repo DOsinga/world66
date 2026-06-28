@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: A hilltop temple reached by a slate causeway, crowned by a 12-metre standing Buddha.
+score: 8.0
 ---
 
 Wat Saphan Hin — "Temple of the Stone Bridge" — stands on a low hill about 3 km west of the central walls, in what was once a forest meditation zone of the Sukhothai kingdom. The name comes from the causeway of large slate slabs that leads up to it; the climb is about 200 metres, with views back across the plain.

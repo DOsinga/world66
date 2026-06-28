@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 33.771551
 longitude: 73.896786
+score: 7.4
 ---
 
 The hills surrounding Hajira are covered in pine and deodar cedar forest, and walking into them is one of the best reasons to stop here rather than simply passing through. There are no marked trails, but the terrain is not difficult, and the forest opens up regularly to give views across the valleys toward the Line of Control and the mountains of Indian-administered Kashmir beyond.

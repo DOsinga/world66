@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Roccamorice,_eremo_di_Sant
 latitude: 42.086944
 loc_type: feature
 longitude: 14.0875
+score: 8.14
+snippet: Wild Abruzzo mountain massif of limestone ridges, beech forest, wolf country,
+  and hermitages.
 sources:
 - https://en.wikipedia.org/wiki/Maiella
 - https://en.wikipedia.org/wiki/Maiella_National_Park

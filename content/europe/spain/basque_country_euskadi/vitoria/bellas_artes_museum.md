@@ -6,6 +6,7 @@ longitude: -2.6797
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 The Fine Arts Museum of Álava occupies a handsome neo-Renaissance palace, the Augustin Zulueta Palace, built in 1916. The collection focuses on 18th- and 19th-century Spanish and Basque painting — landscapes by Regoyos, portraits by Madrazo, the academic and costumbrist work that flowered before the modernists.

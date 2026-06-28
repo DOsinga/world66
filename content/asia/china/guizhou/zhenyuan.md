@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:A_bridge_in_Zhenyuan_Count
 latitude: 27.0517
 loc_type: city
 longitude: 108.4176
+score: 8.17
+snippet: Guizhou ancient town where wooden riverside houses and cliff temples crowd
+  a Wuyang River gorge.
 sources:
 - https://en.wikivoyage.org/wiki/Zhenyuan
 title: Zhenyuan

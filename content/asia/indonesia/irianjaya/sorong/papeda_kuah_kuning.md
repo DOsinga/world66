@@ -6,6 +6,7 @@ tags:
   - food
 latitude: -0.8780
 longitude: 131.2590
+score: 6.7
 ---
 
 Papeda is the staple food of West Papua — a sticky, almost translucent porridge made from sago palm starch, eaten with a tart yellow turmeric fish broth (kuah kuning) and grilled fish on the side. It is unlike anything in mainland Indonesian cuisine and a useful introduction to Papuan food before heading further east.

@@ -14,6 +14,7 @@ story: >
   towers (3.024 km) and the highest point above ground (436 m) for a gondola of its kind.
 sources:
   - https://en.wikipedia.org/wiki/Whistler_Blackcomb
+score: 9.4
 ---
 
 Whistler Blackcomb is the biggest ski resort in North America by skiable terrain, spreading across two side-by-side mountains with over 8,000 acres of runs, more than 200 trails, and 16 alpine bowls. The vertical drop on Whistler Mountain alone exceeds 1,500 metres, and Blackcomb's Horstman Glacier offers summer skiing most years. The season typically runs from late November to April, sometimes longer.

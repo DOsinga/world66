@@ -14,6 +14,7 @@ story: >
   Truku fighters, the community surrendered and was forcibly relocated from
   the gorge. The Cross-Island Highway built from 1956-60 followed routes
   that the Truku had used for centuries before their displacement.
+score: 7.4
 ---
 
 The Truku people — also written Taroko, which also gives the national park its name — are the Indigenous Formosan people who have lived in the gorge valleys for centuries. Their weaving tradition (geometric patterns in red and white, traditionally using hemp) is among the most distinctive in Taiwan. The park's name honours this presence; the Truku Nation has increasingly advocated for recognition of their connection to the land and for a greater role in managing the park.

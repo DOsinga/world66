@@ -6,6 +6,7 @@ latitude: 32.1556
 longitude: 74.1886
 snippet: "Historic public garden where the city's wrestling tradition is centred"
 story: "Sheranwala Bagh — 'garden of lions' — was laid out in the early 19th century by Maharaja Ranjit Singh, who kept a pair of caged lions here. The akharas (traditional wrestling pits) on the grounds still attract crowds at weekend matches, and pehlwani culture in Gujranwala is closely tied to this single garden."
+score: 7.8
 ---
 
 The 'garden of lions' is the closest thing Gujranwala has to a civic park: a walled enclosure of trees, paths and a 19th-century baradari pavilion in the middle of the old city. It is best known for the akharas — traditional Punjabi wrestling pits — that still operate on the grounds. Matches at weekends draw substantial crowds, and morning training is open to watch.

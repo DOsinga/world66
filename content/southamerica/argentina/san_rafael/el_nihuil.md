@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.9
 ---
 
 El Nihuil is the largest reservoir on the Atuel system, about 75 kilometres south of San Rafael, with consistent afternoon winds that have made it one of the better windsurfing and kitesurfing spots in inland South America. The village of El Nihuil on the shore is small — a school, a few shops, a couple of restaurants, and the windsurfing schools.

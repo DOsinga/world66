@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Great_Amber_Concert_Hall
 story: >
   The concert hall's acoustic design was entrusted to the firm Nagata Acoustics, which also worked on the Walt Disney Concert Hall in Los Angeles and the Lucerne Culture and Convention Centre. Liepāja is a small city by any measure — commissioning this calibre of acoustic consultant was a statement of ambition unusual for a Latvian provincial city.
+score: 7.8
 ---
 
 The Great Amber Concert Hall (Lielais dzintars) opened in 2015 and immediately became the most architecturally striking building in Liepāja — a faceted golden structure designed to evoke a piece of amber, clad in wooden panels that warm in colour as the sun moves. It is the home of the Liepāja Symphony Orchestra, one of the oldest professional orchestras in the Baltic states.

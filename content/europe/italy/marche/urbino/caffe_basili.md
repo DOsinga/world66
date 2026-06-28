@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 43.7264
 longitude: 12.6360
+score: 6.5
 ---
 
 Founded in 1854 and still in operation on Piazza della Repubblica. The interior keeps its original wood panelling, mirrors, and marble counter. Locals stop in for an espresso standing at the bar (€1.20); tourists pay double to sit on the terrace.

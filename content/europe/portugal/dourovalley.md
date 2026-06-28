@@ -9,8 +9,10 @@ image_source: https://www.flickr.com/photos/62621566@N00/3913515392
 latitude: 41.287796
 loc_type: city
 longitude: -7.740175
-score: 0.72
+score: 9.14
 title: Douro Valley
+snippet: Portuguese wine valley of steep terraced quintas, port grapes, and the winding
+  Douro River.
 type: location
 ---
 

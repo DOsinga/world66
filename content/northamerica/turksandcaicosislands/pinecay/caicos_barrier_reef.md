@@ -8,6 +8,7 @@ tags:
   - snorkeling
 latitude: 21.8950
 longitude: -72.1100
+score: 8.9
 ---
 
 Pine Cay sits on the edge of the Caicos Barrier Reef, the third-largest barrier reef system in the world. Visibility in these waters regularly exceeds 30 metres, and the reef is in excellent health, supporting elkhorn coral, brain coral, sea fans, and a dense fish population.

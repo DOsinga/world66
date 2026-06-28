@@ -9,6 +9,7 @@ latitude: 52.4787
 longitude: -1.9106
 address: Centenary Square, Broad Street, Birmingham B1 2ND
 url: www.libraryofbirmingham.com
+score: 7.8
 ---
 
 The largest public library in the United Kingdom outside London, opened in 2013. The building, designed by Mecanoo architects, is a striking presence on Centenary Square — its exterior is covered with interlocking gold and silver filigree rings that reference the city's jewellery heritage. A series of outdoor terraces at different levels give open views over Centenary Square and the city.

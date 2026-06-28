@@ -9,8 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Cairo_Montenotte_-_Castell
 latitude: 44.399268
 loc_type: city
 longitude: 8.274561
-score: 0.41
+score: 6.65
 title: Cairo Montenotte
+snippet: Inland Ligurian town on the Bormida plain, known for Napoleon's first Italian
+  campaign victory.
 type: location
 ---
 

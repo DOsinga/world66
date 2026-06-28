@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 8.3
 ---
 
 The Santa Barbara Botanic Garden, in Mission Canyon above the city, has been a leader in California-native plant conservation since 1926. The 78-acre site is laid out as a series of habitat zones — woodland, redwood grove, chaparral, meadow, dune — joined by walking paths and an old stone dam built originally to water the mission.

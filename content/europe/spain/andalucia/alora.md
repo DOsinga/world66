@@ -5,7 +5,9 @@ done:
 latitude: 36.823881
 loc_type: city
 longitude: -4.706301
-score: 0.52
+score: 7.75
+snippet: Andalucian hill village on the Málaga rail line, built across terraces below
+  its castle.
 title: Alora
 type: location
 ---

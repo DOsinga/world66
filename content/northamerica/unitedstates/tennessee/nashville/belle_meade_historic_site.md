@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
   - historic_house
+score: 8.3
 ---
 
 Belle Meade was once one of the most famous thoroughbred horse farms in America — the bloodlines of three of every four Kentucky Derby winners can be traced back to its sires. The 1853 Greek Revival mansion and a cluster of original outbuildings (the carriage house, the original log cabin, the dairy) are now a museum and one of the most thoroughly documented antebellum sites in the South.

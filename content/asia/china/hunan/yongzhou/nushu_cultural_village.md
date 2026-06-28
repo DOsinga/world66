@@ -9,6 +9,7 @@ latitude: 25.2312
 longitude: 111.2414
 story: >
   The last fully fluent writer of Nüshu, Yang Huanyi, died in 2004 at the age of 98. She had spent her final decades working with scholars to document the script, which she had learned as a girl through the traditional channel of transmission: from mother to daughter and between sworn sisters, in documents meant to be buried with the dead or burned. Yang's death marked the end of a living tradition, though the script itself survives in thousands of collected documents and in the Cultural Village that opened in Jiangyong two years before she died.
+score: 8.1
 ---
 
 The Nüshu Cultural Village in Jiangyong County, about 90 kilometres southwest of Yongzhou city, is the primary site for understanding Nüshu — the world's only script invented by women for exclusive use by women. The village includes a museum of collected documents, textiles, and personal artifacts written in or decorated with the script; a demonstration area where trained cultural inheritors show the writing process; and a reconstructed traditional house representing the domestic spaces where Nüshu was produced.

@@ -11,6 +11,7 @@ tags:
 - eating_out
 title: Doce Restaurant and Lounge
 type: poi
+score: 4.9
 ---
 
 Filipino food and pizza in a casual outdoor setting in Brgy. Bagacay. Cash only. Good for groups and families, with reservations accepted. Open late, making it one of the few evening dining options in Calbayog.

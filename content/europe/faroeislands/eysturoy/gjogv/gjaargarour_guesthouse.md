@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 62.3255
 longitude: -6.9428
+score: 5.2
 ---
 
 The Gjáargarður guesthouse is the social and practical centre of Gjógv. Built as a youth hostel in the 1980s and later converted to a small guesthouse, it sits above the village with views toward the gorge and the open sea beyond.

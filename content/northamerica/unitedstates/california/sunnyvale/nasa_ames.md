@@ -12,6 +12,7 @@ tags:
   - story
 title: NASA Ames Research Center
 type: poi
+score: 7.1
 ---
 
 NASA Ames Research Center occupies the former Moffett Naval Air Station and is best known from the outside for Hangar One: one of the largest freestanding structures ever built, visible for miles and impossible to miss from Highway 101. Ames hosts an annual open house event (usually in October) when the public can tour the wind tunnels, supercomputing facilities, and historic aircraft hangar. Check the NASA Ames website for current tour availability, which varies by year.

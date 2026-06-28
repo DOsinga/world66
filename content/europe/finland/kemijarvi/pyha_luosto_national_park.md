@@ -10,6 +10,7 @@ story: >
   The park takes its name from Pyhätunturi fell, which means "sacred fell" in Finnish — the Sami considered it a holy site long before the national park existed. The gorge at its heart, Pyhäjoki, was believed to be the abode of spirits, and Sami shamans performed rituals on its banks.
 sources:
   - https://en.wikipedia.org/wiki/Pyh%C3%A4-Luosto_National_Park
+score: 8.8
 ---
 
 Pyhä-Luosto National Park lies about 50 kilometres south of Kemijärvi and is one of the most accessible national parks in Finnish Lapland. The park centres on a chain of fells — Pyhätunturi and Luostotunturi — that rise above the treeline and offer genuine hiking country in an otherwise flat landscape.

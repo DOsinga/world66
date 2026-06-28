@@ -9,6 +9,7 @@ tags:
 title: Fort Western
 type: poi
 url: https://www.oldfortwestern.org
+score: 8.0
 ---
 
 Built in 1754 during the French and Indian War, Fort Western is the oldest surviving wooden fort in New England. The original blockhouse and garrison house still stand on the east bank of the Kennebec River. Living-history interpreters in period dress bring the colonial frontier to life — demonstrating musket drill, cooking methods, and the daily routines of 18th-century soldiers and settlers. The fort saw genuine military action during the Revolutionary War and later served as a trading post.

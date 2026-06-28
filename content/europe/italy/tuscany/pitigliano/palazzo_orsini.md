@@ -10,6 +10,7 @@ latitude: 42.6351
 longitude: 11.6725
 story: >
   The Orsini family ruled Pitigliano from 1293 to 1604, when the Medicis absorbed it into the Grand Duchy of Tuscany. In their three centuries of power they built or rebuilt almost everything of importance in town — the aqueduct, the fortezza, the palazzo — and left Pitigliano with a skyline that has barely changed since.
+score: 7.8
 ---
 
 The Palazzo Orsini dominates the western end of the tuff spur, its bulk visible from the valley far below. It was built and extended by successive Orsini lords between the 13th and 16th centuries, incorporating an earlier fortified tower into an increasingly palatial structure as the family grew in power and pretension.

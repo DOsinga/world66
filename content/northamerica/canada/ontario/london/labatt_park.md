@@ -9,6 +9,7 @@ tags:
 title: Labatt Memorial Park
 type: poi
 story: "Recognised by Guinness in 1994 as the oldest baseball field in continuous use — games have been played on this spot since 1877. The grandstand is mid-twentieth-century, but the diamond itself is the one Tecumseh Park hosted before the field was renamed for the brewing family that paid to save it from a 1936 flood."
+score: 7.0
 ---
 
 A 5,000-seat baseball park near the forks of the Thames River, just west of downtown. It is the home of the London Majors of the Intercounty Baseball League and, according to Guinness World Records, the oldest continuously operating baseball grounds in the world — games have been played on this exact field since 1877.

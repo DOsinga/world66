@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 48.4862
 longitude: 135.0700
 story: "The bluff above the Amur marks the border between Russia and China — on the opposite bank, Chinese territory begins just a few kilometres away. At the height of the Sino-Soviet split in 1969, this stretch of river was the site of armed clashes over the ownership of Damansky Island downstream. Today, Chinese tourists cross the river from Fuyuan to shop in Khabarovsk, and the border feels entirely different in character."
+score: 8.5
 ---
 
 The high riverbank above the Amur is Khabarovsk's finest public space: a long promenade along the cliff edge with sweeping views over the great river and the low Chinese shore beyond. The river here is immense — over a kilometre wide — and the setting is dramatic in all seasons.

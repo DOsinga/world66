@@ -7,6 +7,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Convent_of_St_Gall.jpg
 latitude: 47.4238
 loc_type: city
 longitude: 9.3766
+score: 8.08
+snippet: Northeastern Swiss abbey city whose medieval monastery became a major European
+  centre of learning.
 sources:
 - https://en.wikipedia.org/wiki/St._Gallen
 - https://en.wikivoyage.org/wiki/St._Gallen

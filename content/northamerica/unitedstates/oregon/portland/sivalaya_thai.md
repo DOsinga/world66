@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Sivalaya Thai
 type: poi
+score: 5.0
 ---
 
 A welcoming Thai restaurant in SE Portland with a large menu of Thai standards. The owner greets guests personally, and a complimentary appetizer, tea, and dessert come with every meal. The portions are generous and the curries have real heat if you ask for it.

@@ -2,10 +2,12 @@
 address: Circus Circus, 2880 Las Vegas Blvd. South
 latitude: 36.13772
 longitude: -115.16584
-snippet: "Indoor theme park on the Strip with rides and circus acts"
+score: 5.0
+snippet: Indoor theme park on the Strip with rides and circus acts
 tags:
 - things_to_do
 - amusement_park
+- the_strip
 title: Circus Circus Adventuredome
 type: poi
 ---

@@ -15,6 +15,7 @@ story: >
   he arrived at Tripoli in the 7th century, the city's inhabitants offered him camel-loads
   of tribute in hopes of a peaceful life. He refused the gifts, asking instead that a mosque
   be built — giving the building its popular name, the Camel Mosque.
+score: 8.3
 ---
 
 Tripoli's oldest mosque, the Naqa Mosque dates to the first Arab conquest of the city in the 7th century, though the present building is a mixture of additions and restorations — the last major work was completed around 1610. It is sometimes called the Camel Mosque after a legend about its founding.

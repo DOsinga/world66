@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Eger_-_Dob%C3%B3_Square.JP
 latitude: 47.898989
 loc_type: city
 longitude: 20.374367
-score: 0.6
+score: 8.48
+snippet: Baroque Hungarian wine city beneath the Bükk hills, remembered for Eger Castle
+  and Egri Bikavér.
 title: Eger
 type: location
 ---

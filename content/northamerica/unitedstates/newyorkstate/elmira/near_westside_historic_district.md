@@ -12,6 +12,7 @@ title: Near Westside Historic District
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Near_Westside_Historic_District
+score: 8.0
 ---
 
 A 22-block residential district listed on the National Register of Historic Places, with one of the largest concentrations of Victorian homes in New York State. The architecture spans Federal, Greek Revival, Italianate, Gothic Revival, Second Empire, Queen Anne, and Colonial Revival styles. Walking the tree-lined streets gives a vivid sense of Elmira's prosperity in the late nineteenth century.

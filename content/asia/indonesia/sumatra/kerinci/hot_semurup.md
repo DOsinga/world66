@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hot_spring
+score: 5.9
 ---
 
 A small thermal bathing complex in the village of Air Hangat, ten kilometres north of Sungai Penuh. The water comes out of the ground at around 80°C and is cooled and piped into a series of concrete pools. The facility is simple, run by the local government, and used mostly by Kerinci families.

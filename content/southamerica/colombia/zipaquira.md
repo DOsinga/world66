@@ -5,7 +5,9 @@ done:
 latitude: 5.023475
 loc_type: city
 longitude: -74.003982
-score: 0.59
+score: 8.19
+snippet: Colonial town north of Bogotá, famous for its underground cathedral carved
+  from salt mine walls
 title: Zipaquira
 type: location
 ---

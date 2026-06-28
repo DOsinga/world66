@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-02'
+image: potosi.jpg
+image_attribution: Jbmurray
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cerro_Rico_over_Potos%C3%AD,_Bolivia.jpg
 latitude: -19.58929
 loc_type: city
 longitude: -65.753471
-score: 0.62
+score: 8.41
+snippet: High Andean silver city beneath Cerro Rico, preserving colonial architecture
+  from its imperial mining boom.
 title: Potosi
 type: location
-image: potosi.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cerro_Rico_over_Potos%C3%AD,_Bolivia.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Jbmurray
 ---
 
 Potosí was once the largest and wealthiest city in the Americas. Founded in 1545 following the discovery of silver in the Cerro Rico — the "rich mountain" that looms above the city — it grew with astonishing speed: by the early 17th century it had a population rivalling London or Paris, and the phrase "worth a Potosí" entered the Spanish language as a synonym for fabulous wealth.

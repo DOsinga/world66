@@ -1,200 +1,200 @@
 {
   "round": 606,
-  "timestamp": "2026-04-12T10:39:36",
+  "timestamp": "2026-06-13T19:44:37",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Athens",
-      "path": "europe/greece/athens",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_score": -1.8754,
+      "prior_variance": 1.423495,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Thessaloniki",
-      "path": "europe/greece/thessaloniki",
-      "prior_mu": 23.163,
-      "prior_sigma": 5.7376,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -3.8596,
+      "prior_variance": 1.341932,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Corfu",
-      "path": "europe/greece/corfu",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -2.3327,
+      "prior_variance": 0.651576,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Paros",
-      "path": "europe/greece/paros",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -4.6484,
+      "prior_variance": 0.722859,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Zakinthos",
-      "path": "europe/greece/zakinthos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -2.5831,
+      "prior_variance": 0.996826,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Kalambaka",
-      "path": "europe/greece/kalambaka",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": -1.2779,
+      "prior_variance": 1.541554,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Nauplia",
-      "path": "europe/greece/nauplia",
-      "prior_mu": 23.6489,
-      "prior_sigma": 5.4884,
-      "prior_n": 1
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -4.8584,
+      "prior_variance": 0.661313,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Mani",
-      "path": "europe/greece/mani",
-      "prior_mu": 23.9941,
-      "prior_sigma": 5.5874,
-      "prior_n": 1
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_score": -3.6452,
+      "prior_variance": 0.669358,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Ithaca",
-      "path": "europe/greece/ithaca",
-      "prior_mu": 23.1162,
-      "prior_sigma": 4.1833,
-      "prior_n": 3
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -4.0079,
+      "prior_variance": 0.896246,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Amorgos",
-      "path": "europe/greece/amorgos",
-      "prior_mu": 23.6584,
-      "prior_sigma": 4.9279,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -3.2705,
+      "prior_variance": 1.069737,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Mycenae",
-      "path": "europe/greece/mycenae",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -5.0626,
+      "prior_variance": 0.694467,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Mistra",
-      "path": "europe/greece/mistra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -6.6983,
+      "prior_variance": 1.236965,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Ioannina",
-      "path": "europe/greece/ioannina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -4.2614,
+      "prior_variance": 1.791333,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Mytilini",
-      "path": "europe/greece/lesbos/mytilini",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -5.7555,
+      "prior_variance": 1.251883,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Lesbos",
-      "path": "europe/greece/lesbos",
-      "prior_mu": 22.732,
-      "prior_sigma": 4.6031,
+      "title": "Daman",
+      "path": "asia/india/daman",
+      "prior_score": -5.4937,
+      "prior_variance": 0.626222,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Kavala",
-      "path": "europe/greece/kavala",
-      "prior_mu": 21.7264,
-      "prior_sigma": 4.5868,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -5.7172,
+      "prior_variance": 0.695956,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Volos",
-      "path": "europe/greece/volos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -5.1657,
+      "prior_variance": 0.748207,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Aegina",
-      "path": "europe/greece/aegina",
-      "prior_mu": 23.1642,
-      "prior_sigma": 5.9731,
-      "prior_n": 1
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -6.9256,
+      "prior_variance": 1.140933,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Kalamaki",
-      "path": "europe/greece/zakinthos/kalamaki",
-      "prior_mu": 22.5749,
-      "prior_sigma": 5.9524,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -2.4799,
+      "prior_variance": 1.392437,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Zakynthos City",
-      "path": "europe/greece/zakinthos/zakynthoscity",
-      "prior_mu": 24.6266,
-      "prior_sigma": 4.2805,
-      "prior_n": 3
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -8.183,
+      "prior_variance": 0.893576,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Pilion",
-      "path": "europe/greece/pilion",
-      "prior_mu": 22.2837,
-      "prior_sigma": 5.7531,
-      "prior_n": 1
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -7.7409,
+      "prior_variance": 0.733279,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Piraeus",
-      "path": "europe/greece/piraeus",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -6.2198,
+      "prior_variance": 1.237607,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Chalkis",
-      "path": "europe/greece/chalkis",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -7.6937,
+      "prior_variance": 0.681361,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Eleusis",
-      "path": "europe/greece/eleusis",
-      "prior_mu": 22.4542,
-      "prior_sigma": 5.951,
-      "prior_n": 1
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -8.9767,
+      "prior_variance": 1.035588,
+      "prior_n": 3
     }
   ]
 }

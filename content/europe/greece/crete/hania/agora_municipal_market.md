@@ -10,6 +10,7 @@ latitude: 35.5132
 longitude: 24.0208
 sources:
   - https://en.wikipedia.org/wiki/Chania
+score: 8.2
 ---
 
 The Agora — Hania's covered municipal market — was built in 1911 in the shape of a cross, modelled on the great covered markets of southern France. The four wings of the cross converge in a central domed hall; the stalls line the corridors selling meat, fish, vegetables, cheeses, olive oil, Cretan herbs, honey, wine, and raki. It is the best food market in western Crete and one of the finest in Greece.

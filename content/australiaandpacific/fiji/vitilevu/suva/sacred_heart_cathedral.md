@@ -9,6 +9,7 @@ tags:
   - church
   - suva_central
 neighbourhood: Suva Central
+score: 6.8
 ---
 
 The sandstone Catholic cathedral on Pratt Street, finished in 1902 from stone shipped over from quarries near Sydney. The two square towers and the rose window above the main door make it one of the most distinctive buildings in the centre.

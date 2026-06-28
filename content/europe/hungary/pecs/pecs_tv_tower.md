@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.0991
 longitude: 18.2201
+score: 6.6
 ---
 
 The Pécs TV Tower stands on the Misina peak of the Mecsek hills, about 535 metres above sea level and several hundred metres above the city below. The tower has an observation deck accessible to the public, offering a panoramic view south across the whole Pécs plain toward Croatia on a clear day — one of the widest views available from any viewpoint in southern Hungary.

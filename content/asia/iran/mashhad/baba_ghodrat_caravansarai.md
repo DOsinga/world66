@@ -4,6 +4,7 @@ type: poi
 latitude: 36.2718
 longitude: 59.6196
 tags: [things_to_do, sight]
+score: 5.8
 ---
 
 A 16th-century roadside caravansarai on the old approach into Mashhad from the south, Baba Ghodrat is one of the few well-preserved Safavid travel inns in the region. The square plan, with rooms opening onto a central courtyard, was the universal pattern for caravansarais along the Silk Road and pilgrimage routes; this one is unusually intact.

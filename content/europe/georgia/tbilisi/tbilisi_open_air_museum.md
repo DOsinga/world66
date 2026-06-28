@@ -7,6 +7,7 @@ tags:
 - museum
 title: Georgian Ethnographic Open-Air Museum
 type: poi
+score: 8.1
 ---
 
 The Open-Air Museum of Ethnography on the slopes of Turtle Lake hill is one of Tbilisi's less-visited but more rewarding attractions. Traditional buildings from across Georgia — wooden houses from Svaneti, tower-houses from Kakheti, farmsteads from Adjara — have been dismantled and reassembled here in a forested hillside setting, creating an open-air architectural survey of the country's regional building traditions.

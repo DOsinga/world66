@@ -12,6 +12,7 @@ story: >
   for the Armada. According to legend, María Pita killed an English standard-bearer who had
   reached the city walls and rallied the defenders. Whether the story is entirely accurate
   barely matters — the city has embraced her as its defining hero for four centuries.
+score: 7.8
 ---
 
 The Plaza de María Pita is the social heart of A Coruña — a broad arcaded square flanked by the neoclassical City Hall and lined with cafes whose tables fill every evening. The square was rebuilt in the early 20th century, and the arcades on three sides give it an elegance that holds up in any weather.

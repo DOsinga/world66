@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 snippet: Winchester's oldest surviving church, built in 1788, used as barracks and hospital by both armies during the Civil War.
+score: 7.3
 ---
 
 The Old Stone Church at 304 E. Piccadilly Street is the oldest surviving church building in Winchester, completed in 1788 on the site of an earlier log structure that dated to 1736. The Presbyterian congregation that built it was among the earliest in the region, made up largely of Scots-Irish settlers who came down the Great Wagon Road from Pennsylvania in the mid-18th century. The building is a plain, sturdy piece of Federal-era construction that reflects the congregation's theological preference for simplicity over ornament.

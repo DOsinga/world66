@@ -13,6 +13,7 @@ sources:
   - https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/tallgrass-prairie-national-preserve/
 story: >
   Bison returned to the preserve in 2009 through work by the National Park Service and The Nature Conservancy. Their grazing is not decorative: it helps shape the prairie, creating the mixed-height grass and disturbed ground that many prairie species need.
+score: 8.3
 ---
 
 The bison pasture is the preserve's most powerful reminder that prairie is a living system, not just scenery. If the herd is visible, watch from a distance and let binoculars do the work.

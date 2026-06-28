@@ -7,6 +7,7 @@ tags:
 latitude: 45.9200
 longitude: 63.3420
 snippet: The world's first and largest space launch facility, within day-trip range
+score: 8.8
 ---
 
 Kyzylorda sits roughly 200 kilometres from the Baikonur Cosmodrome, the world's first and largest operational space launch facility. It was from Baikonur that Sputnik was launched in 1957, Yuri Gagarin made his historic first human spaceflight in 1961, and where Russian Soyuz rockets still carry crews to the International Space Station today.

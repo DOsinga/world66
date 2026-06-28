@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.6
 ---
 
 Rottweil's defining feature is the Hauptstrasse, the slightly curving main street that runs north from the Schwarzes Tor through the old town. The street is lined with patrician houses whose facades carry painted oriel windows — Erker — that project out at first-floor level. Most date from the late Renaissance and early baroque period and are decorated with biblical scenes, heraldic painting, or grotesques.

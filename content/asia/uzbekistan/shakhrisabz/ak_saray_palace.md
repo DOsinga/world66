@@ -13,6 +13,7 @@ story: >
   look at our buildings." Timur began construction in 1380 and it took 24 years to complete.
   Abdullah Khan II destroyed much of the palace in the 16th century; what remains are
   38-metre gateway pylons faced with intricate blue and gold mosaic tilework.
+score: 9.0
 ---
 
 The Ak-Saray, or White Palace, was Timur's summer residence and his most ambitious architectural statement. Construction began in 1380 and continued for 24 years, resulting in a structure of extraordinary scale — the arcaded courtyard alone measured roughly 120 by 250 metres, and one wing reportedly rose six storeys. The craftsmen who built it were brought from the conquered territories of Persia and the Middle East.

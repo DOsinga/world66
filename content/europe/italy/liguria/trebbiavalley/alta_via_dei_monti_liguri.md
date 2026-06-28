@@ -10,6 +10,7 @@ story: >
   interest in the mountain interior at a time when all tourism was flowing toward the coast. Sections of the
   route follow ancient mule tracks used by pilgrims and salt merchants for centuries before the coastal roads
   existed.
+score: 8.4
 ---
 
 The Alta Via dei Monti Liguri is a long-distance walking route that crosses the Ligurian Apennines along the main ridge, and the Trebbia Valley section passes through some of the wildest and quietest terrain on the route. The path here stays high above the valley floor, crossing open grasslands and beech forests with long views south toward the Mediterranean and north into the Po Plain. In clear weather the sea is visible from the ridge.

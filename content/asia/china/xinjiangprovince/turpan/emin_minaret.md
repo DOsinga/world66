@@ -16,6 +16,7 @@ story: >
   is decorated entirely in raised geometric patterns laid in differently
   oriented bricks — no glaze, no tile, just shadows shifting across the
   desert light through the day.
+score: 8.2
 ---
 
 The 37-metre brick minaret on the eastern edge of Turpan is China's tallest, and one of the most distinctive Islamic structures in the country. The neighbouring mosque, built simultaneously, can hold around a thousand worshippers under a flat poplar-beam roof — a typically Central Asian construction adapted to the punishing desert climate.

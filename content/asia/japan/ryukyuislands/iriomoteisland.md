@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Funauki_iriomote_island.jp
 latitude: 24.3464
 loc_type: feature
 longitude: 123.8391
-score: 0.63
+score: 8.68
+snippet: Wild Ryukyu island of rainforest, mangroves, remote rivers, and the endemic
+  Iriomote cat.
 title: Iriomote Island
 type: location
 ---

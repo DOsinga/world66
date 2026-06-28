@@ -20,7 +20,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_San_Bernardino_da_S
 latitude: 34.108345
 loc_type: city
 longitude: -117.289757
-score: 0.28
+score: 5.76
+snippet: Inland Empire city where Route 66 meets the San Bernardino Mountains and
+  desert pass.
 title: San Bernardino
 type: location
 ---

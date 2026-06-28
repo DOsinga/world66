@@ -13,6 +13,7 @@ story: >
   donor who paid to have their name inscribed underneath it.
 sources:
   - https://en.wikipedia.org/wiki/Phuket_Big_Buddha
+score: 8.6
 ---
 
 The Phuket Big Buddha — officially the Great Buddha of Phuket — sits atop Nakkerd Hill on the southern part of the island, visible from much of Chalong and well beyond. At 45 metres tall and clad in white Burmese marble, it is a genuine landmark rather than a roadside curiosity. The hill commands views over Chalong Bay, Kata Beach, and on clear days all the way to the Phi Phi Islands.

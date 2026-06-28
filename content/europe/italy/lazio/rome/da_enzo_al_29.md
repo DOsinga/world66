@@ -5,10 +5,12 @@ done:
 latitude: 41.8888
 longitude: 12.4714
 opening_hours: Mon–Sat 12:30–15:00, 19:30–23:00; closed Sun
+score: 7.8
 snippet: Beloved Trastevere trattoria for Roman classics
 tags:
 - eating_out
 - restaurant
+- trastevere
 title: Trattoria Da Enzo al 29
 type: poi
 ---

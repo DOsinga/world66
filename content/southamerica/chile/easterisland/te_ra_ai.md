@@ -6,6 +6,7 @@ longitude: -109.435
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 Cultural dinner show on the western edge of Hanga Roa. Guests are shown how a traditional umu (earth oven) is opened and the resulting pork, chicken, and sweet potato is served family-style. A song and dance performance with traditional music follows.

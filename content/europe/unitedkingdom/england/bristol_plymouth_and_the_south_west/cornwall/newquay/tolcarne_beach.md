@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4204
 longitude: -5.0820
+score: 6.5
 ---
 
 Tolcarne is one of the central town beaches, less crowded than Towan and Great Western, with a wide swathe of sand at low tide and reliable smaller-scale surf. A beach cafe and watersports centre at the back rent paddleboards and bodyboards.

@@ -11,6 +11,7 @@ longitude: -100.4348
 snippet: "Historic downtown bordello preserved as a museum since 1952"
 story: >
   Miss Hattie Converse ran the most respectable of the Concho Street brothels from the 1890s until a Texas Ranger raid shut the place down in 1952. Her house catered to soldiers from Goodfellow Field and ranch hands coming to town. When the Rangers finally closed it, they found the rooms still stocked with Victorian furniture, calling cards, and a telegram system — the same fixtures visitors see today.
+score: 6.9
 ---
 
 Miss Hattie's operated openly as a brothel on Concho Street from the late 1800s until 1952, when Texas Rangers shut it down during a statewide crackdown on vice. The building was preserved largely intact, and today it operates as an interpretive museum in its original location above what is now a restaurant.

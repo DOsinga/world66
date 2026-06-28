@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - downtown
+score: 6.2
 ---
 
 Courtroom 322 in the historic Pima County Courthouse is the room where John Dillinger and his three accomplices were arraigned on 25 January 1934 after their arrest. The Spanish revival interior — heavy wooden benches, plaster reliefs, the original judge's bench — has been preserved largely as it was.

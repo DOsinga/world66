@@ -7,6 +7,7 @@ tags:
 latitude: 22.3325
 longitude: 91.8394
 snippet: 19th-century Catholic cathedral, seat of the archdiocese
+score: 6.9
 ---
 
 The Roman Catholic Cathedral of Chittagong, founded by Portuguese Catholics in the 16th century and rebuilt in its present form in the late 19th century. The single-towered, off-white facade and the simple long nave inside are typical of mission-era churches in eastern Bengal.

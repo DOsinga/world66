@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pagadian_City_Hall_2024.jp
 latitude: 7.824972
 loc_type: city
 longitude: 123.436582
-score: 0.35
+score: 6.18
+snippet: Mindanao provincial capital on Illana Bay, known for steep streets and angled
+  local tricycles.
 title: Pagadian City
 type: location
 ---

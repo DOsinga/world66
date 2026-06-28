@@ -14,6 +14,7 @@ story: >
   international treaty and can theoretically only be removed by a unanimous decision
   of the Finnish parliament plus a two-thirds majority of the Åland parliament itself.
   In practice, no one has tried.
+score: 6.6
 ---
 
 The Parliament of Åland (Lagting) building stands near the eastern harbour in the center of Mariehamn. The building is from the 1930s — a solid, functionalist structure appropriate for its time — and houses the 30-seat assembly that governs the islands' domestic affairs. The parliament building can be visited on guided tours; check with the Mariehamn tourist office for current arrangements.

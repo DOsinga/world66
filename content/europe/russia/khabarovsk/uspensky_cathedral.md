@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 48.4857
 longitude: 135.0728
+score: 6.5
 ---
 
 The Cathedral of the Assumption stands on the high bluff above the Amur, its gold domes visible from the river and from the Chinese shore beyond. The original cathedral was built in the 1890s and demolished by Soviet authorities in 1930 — a typical fate for churches across the Soviet Union. The current building is a reconstruction completed in 2001, built to the original plans and on the original foundations.

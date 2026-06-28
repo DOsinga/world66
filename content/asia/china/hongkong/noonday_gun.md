@@ -1,18 +1,24 @@
 ---
-title: "Noonday Gun"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - history
 latitude: 22.2804
 longitude: 114.1884
-snippet: A naval cannon fired every day at noon — a colonial tradition that's been running since 1860
-story: >
-  The original story is that Jardine Matheson, the great Hong Kong trading house, fired the gun to
-  salute their own taipan's arrival in 1860 — an honour reserved for the Governor. The Royal Navy
-  was so offended that they sentenced the company to fire it every day at noon, forever, as
-  punishment. Jardine Matheson denies this. They fire it anyway.
+score: 4.7
+snippet: A naval cannon fired every day at noon — a colonial tradition that's been
+  running since 1860
+story: 'The original story is that Jardine Matheson, the great Hong Kong trading house,
+  fired the gun to salute their own taipan''s arrival in 1860 — an honour reserved
+  for the Governor. The Royal Navy was so offended that they sentenced the company
+  to fire it every day at noon, forever, as punishment. Jardine Matheson denies this.
+  They fire it anyway.
+
+  '
+tags:
+- things_to_do
+- hongkongisland
+- causeway_bay
+- sight
+- history
+title: Noonday Gun
+type: poi
 ---
 
 A three-pounder Hotchkiss gun on the waterfront in Causeway Bay, the Noonday Gun has been fired every day at noon since at least the 1860s — one of Hong Kong's oldest and most reliably performed rituals. Noel Coward immortalised it in his 1924 song "Mad Dogs and Englishmen" ("In Hong Kong, they strike a gong, and fire off a noonday gun").

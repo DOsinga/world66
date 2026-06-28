@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.7751
 longitude: 17.1949
+score: 6.4
 ---
 
 The Cathedral of Saint Bonaventure is the Roman Catholic cathedral of Banja Luka and one of four Catholic cathedrals in Bosnia and Herzegovina. Built in the early 20th century, it is a Gothic Revival building in terracotta brick, rising above the surrounding streets with a single slender tower. The interior is quietly dignified, with stained glass and carved woodwork.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 52.6462
 longitude: -1.1272
+score: 7.1
 ---
 
 Bobby's is the most celebrated restaurant on Belgrave Road and one of the best Gujarati restaurants in Britain. It has been here for decades and shows no sign of slowing down — the queues on weekends and during Diwali season speak for themselves. The menu covers the full range of Gujarati snacks and main dishes: pani puri, bhel puri, dosa, and excellent thali.

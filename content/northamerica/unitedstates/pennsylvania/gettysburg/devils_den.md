@@ -6,6 +6,7 @@ longitude: -77.2410
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The jumble of huge boulders at the foot of Little Round Top — a natural fortress that Confederate sharpshooters used to fire on Union positions above. The most famous Civil War photographs, including Alexander Gardner's "Home of a Rebel Sharpshooter," were taken among these rocks.

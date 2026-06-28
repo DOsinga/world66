@@ -5,7 +5,9 @@ done:
 latitude: 52.823021
 loc_type: city
 longitude: -6.209618
-score: 0.47
+score: 7.39
+snippet: Wicklow valley village where two rivers meet, known for Avoca Handweavers
+  and wooded hill scenery.
 title: Avoca
 type: location
 ---

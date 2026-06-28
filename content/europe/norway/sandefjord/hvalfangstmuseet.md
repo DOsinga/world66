@@ -8,6 +8,7 @@ latitude: 59.1285
 longitude: 10.2179
 story: >
   The museum's prize exhibit is the Pol VIII, one of the last whale catchers built for the Antarctic whaling fleet, moored outside and open to board. At its peak in the 1920s, Sandefjord was the whaling capital of the world, dispatching factory ships to the Southern Ocean that processed thousands of blue whales per season — an industry that came within a generation of making the blue whale extinct.
+score: 8.3
 ---
 
 Europe's only museum devoted solely to the history of whaling occupies a purpose-built building on the Sandefjord waterfront. The permanent collection walks through the rise and fall of Norwegian whaling from the small-scale coastal operations of the 19th century to the enormous factory ships that dominated the Antarctic in the early 20th.

@@ -9,6 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Arc_romain_de_Cavaillon_02
 latitude: 43.8357
 loc_type: city
 longitude: 5.0384
+score: 7.48
+snippet: Luberon market town synonymous with fragrant melons, Roman remains, and a
+  historic Jewish quarter.
 title: Cavaillon
 type: location
 ---

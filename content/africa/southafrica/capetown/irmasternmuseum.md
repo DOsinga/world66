@@ -1,10 +1,9 @@
 ---
 address: (UCT) Cecil Road, Rosebank.
-category: Museum
 latitude: -33.9584
 longitude: 18.4694
-neighbourhood: Rosebank
 phone: ++27 (0)21 685 5686.
+score: 7.8
 scores:
   activities: 0.5686
   museum: 0.6971
@@ -14,6 +13,7 @@ snippet: Museum of South African expressionist painter Irma Stern in her former 
 tags:
 - things_to_do
 - museum
+- observatory
 title: Irma Stern Museum
 type: poi
 ---

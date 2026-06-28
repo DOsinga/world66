@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.80389
 longitude: 2.12833
+score: 7.4
 ---
 
 The Galerie des Carrosses occupies the ground floor of the south wing and displays the royal coaches used for coronations, royal weddings, and state occasions. It is one of the less-visited parts of the palace complex and all the better for it — you can actually look at things here without being pushed along by a crowd.

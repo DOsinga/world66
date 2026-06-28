@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ChiancianoTermePanoramaChi
 latitude: 43.058255
 loc_type: city
 longitude: 11.828429
-score: 0.53
+score: 7.76
+snippet: Southern Tuscan spa town where Etruscan springs feed thermal parks below
+  a hilltop old centre.
 title: Chianciano Terme
 type: location
 ---

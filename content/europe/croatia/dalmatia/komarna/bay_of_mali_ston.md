@@ -16,6 +16,7 @@ story: >
   freshwater karst springs, gives the oysters a distinctively sweet, mineral
   finish that the cultivators say is impossible to reproduce elsewhere on
   the Adriatic.
+score: 8.1
 ---
 
 The Bay of Mali Ston is the enclosed body of water between the Pelješac peninsula and the mainland, with Komarna on its northern shore. It is a protected nature park, famous for the best oysters in the Adriatic and a rich mussel harvest.

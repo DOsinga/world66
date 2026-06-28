@@ -5,7 +5,9 @@ done:
 latitude: 37.839979
 loc_type: city
 longitude: -94.708288
-score: 0.33
+score: 5.86
+snippet: Kansas frontier city shaped by Bleeding Kansas, the Civil War, and a preserved
+  military post.
 title: Fort Scott
 type: location
 ---

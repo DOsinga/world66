@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The circular brick-paved street that gives downtown Indianapolis its rare radial geometry, centred on the Soldiers' and Sailors' Monument. The four "quadrants" — the historic Hilbert Circle Theatre, Christ Church Cathedral, the Columbia Club, and a string of early-20th-century office buildings — make the circle one of the more architecturally coherent urban spaces in the Midwest.

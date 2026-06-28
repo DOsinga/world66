@@ -8,6 +8,7 @@ tags:
 latitude: 38.9173
 longitude: -6.3399
 story: "When Rafael Moneo's building opened in 1986, the construction workers digging the foundations kept hitting walls, sarcophagi, and mosaics from the Roman necropolis that had stood on the spot. The whole excavated necropolis is now preserved as the museum's underground crypt and is visited as part of the standard tour."
+score: 9.0
 ---
 
 The National Museum of Roman Art is the indispensable indoor partner to Mérida's open-air ruins. Rafael Moneo's 1986 building is itself a statement — pale brick raised in monumental Roman arches, columns of stairs and galleries running through the central nave, the whole interior bathed in the kind of slow side-light that suits Roman marble. Moneo won the Pritzker for this and a handful of other works.

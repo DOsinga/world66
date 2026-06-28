@@ -1,19 +1,28 @@
 ---
-title: Houses of Parliament and Big Ben
-type: poi
-snippet: Charles Barry's neo-Gothic seat of British government, with the Elizabeth Tower clock as its public face
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - historic_site
-latitude: 51.4995
-longitude: -0.1248
 address: Westminster, London SW1A 0AA
 admission: Free to view exterior; UK Parliament tours ticketed
+latitude: 51.4995
+longitude: -0.1248
+score: 9.3
+snippet: Charles Barry's neo-Gothic seat of British government, with the Elizabeth
+  Tower clock as its public face
+story: 'The original Palace of Westminster burned to the ground on the night of 16
+  October 1834, in a fire started by overheated stoves used to dispose of tally sticks
+  — wooden Exchequer accounting tools. J.M.W. Turner watched from the Thames and produced
+  two of his finest paintings of the blaze. The replacement, designed by Charles Barry
+  and decorated by Augustus Pugin, is the building we see today — finished in 1870
+  and still the seat of both Houses of Parliament.
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+- historic_site
+- westminster
+title: Houses of Parliament and Big Ben
+type: poi
 url: www.parliament.uk
-story: >
-  The original Palace of Westminster burned to the ground on the night of 16 October 1834, in a fire started by overheated stoves used to dispose of tally sticks — wooden Exchequer accounting tools. J.M.W. Turner watched from the Thames and produced two of his finest paintings of the blaze. The replacement, designed by Charles Barry and decorated by Augustus Pugin, is the building we see today — finished in 1870 and still the seat of both Houses of Parliament.
 ---
 
 The most photographed building in London for good reason. The 96-metre Elizabeth Tower — what nearly everyone calls Big Ben, though the name properly belongs only to the 13.5-tonne hour bell — sits at the north end of the Palace of Westminster, looking out over Westminster Bridge and the Thames. Restoration scaffolding came off in 2022 and the gilded clock faces are now back to their original Victorian colour scheme.

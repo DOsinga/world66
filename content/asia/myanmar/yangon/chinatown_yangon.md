@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 16.7742
 longitude: 96.1519
+score: 7.9
 ---
 
 Yangon's Chinatown occupies Latha Township, just west of the Sule Pagoda, and has been the centre of the city's substantial Chinese community since the colonial era. Cantonese, Hokkien, and Hakka communities each had their own associations and temples here, and the neighbourhood retains a distinctly Chinese character.

@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 51.2804
 longitude: 0.5173
+score: 5.8
 ---
 
 The Kent History and Library Centre holds the county archives for Kent, one of the oldest counties in England, alongside an impressive collection of maps, photographs, manuscripts, and documents covering the history of the region from the medieval period to the present. The Centre at the Archives is the public-access branch of the Kent County Archives.

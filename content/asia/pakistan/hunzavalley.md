@@ -2,11 +2,17 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 36.3263
+loc_type: region
 longitude: 74.665
 score: 0.57
+snippet: Karakoram mountain valley of apricot terraces, Ismaili villages, and 7,000-metre
+  peaks above the highway.
 title: Hunza valley
 type: location
-loc_type: region
+image: hunzavalley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hunza_Valley_HDR.jpg
+image_license: CC BY-SA 3.0
+image_attribution: FaizanAhmad
 ---
 
 The Hunza Valley is the great prize at the top of Pakistan — a long, irrigated green slot in the Karakoram, ringed by 7,000-metre peaks, with the Karakoram Highway threading down its length and apricot orchards spilling off every terrace. Coming up from Gilgit you round a bend and there it is: **Rakaposhi** (7,788 m) filling the windscreen, snow on its summit and pasture at its base, and across the river, the old fort town of **Karimabad** with **Baltit Fort** perched above it on a knob of rock. For many travellers, this is the moment they have been waiting for since the plane to Islamabad.

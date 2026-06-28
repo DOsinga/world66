@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cave
+score: 7.3
 ---
 
 A long lava tube on the western side of the island, used in earlier centuries as a refuge and a banana garden. The roof has collapsed in several places, creating sunken courtyards where the tropical light filters down between the walls and bananas, taros, and avocados still grow wild. From there a tunnel extends underground for around 350 metres — passable for the first hundred metres or so with a head torch, increasingly tight after that.

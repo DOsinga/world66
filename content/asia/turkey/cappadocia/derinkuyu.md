@@ -8,7 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Catholic_Church_Derinkuyu_
 latitude: 38.400309
 loc_type: city
 longitude: 34.699588
-score: 0.71
+score: 8.93
+snippet: Cappadocian town known for its vast underground city carved through multiple
+  subterranean levels.
 title: Derinkuyu
 type: location
 ---

@@ -14,6 +14,7 @@ story: >
   that still bears monuments to his name. The tower was built on the
   highest of Ibadan's eight hills in 1936, long after his posting ended,
   by an Ibadan that chose to honor him on its own terms.
+score: 8.2
 ---
 
 Bower Tower stands on Oke-Are, the highest of Ibadan's eight distinctive hills, and from the top you get the definitive view of the city — an ocean of rust-colored corrugated rooftops stretching to the horizon in every direction, punctuated by minarets, churches, and the occasional high-rise. The tower is 60 feet tall, built in 1936 in honor of British colonial administrator Captain Robert Lister Bower.

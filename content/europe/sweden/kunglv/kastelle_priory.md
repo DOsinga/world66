@@ -6,6 +6,7 @@ tags:
   - sight
 title: Kastelle Priory
 type: poi
+score: 6.8
 ---
 
 Kastelle Priory was an Augustinian monastery founded in the medieval period at Konghelle — the Norse settlement that preceded Kungälv. The priory stood on a low hill about three kilometres south of the modern town centre. It was dissolved during the Lutheran Reformation in the 16th century and the buildings were subsequently dismantled, with stone taken to build other structures in the region. What survives are foundations and earthwork traces.

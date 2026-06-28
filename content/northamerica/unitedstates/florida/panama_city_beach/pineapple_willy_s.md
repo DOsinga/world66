@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 30.1647
 longitude: -85.7817
+score: 6.0
 ---
 
 Pineapple Willy's is a sprawling beach bar and restaurant that has been operating since 1983, which gives it legitimate old-timer status by local standards. It occupies a beachfront position and sprawls across a big deck with direct access to the sand. Locals and long-returning visitors tend to end up here; newer tourists find Pier Park first.

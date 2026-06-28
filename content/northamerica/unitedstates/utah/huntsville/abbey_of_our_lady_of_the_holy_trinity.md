@@ -11,6 +11,7 @@ story: >
   support themselves through beekeeping and by selling creamed honey and granola
   from a small gift shop, which has become quietly famous among travellers looking
   for a quiet counterpoint to the ski slopes nearby.
+score: 7.3
 ---
 
 The Trappist monastery on the edge of Huntsville is one of the more surprising places in northern Utah. The Abbey of Our Lady of the Holy Trinity was established in 1947, and the monks who live here follow the Rule of Saint Benedict — manual labour, communal prayer seven times a day, and a commitment to silence. Visitors are welcome during daytime hours, though the monastery church is open for prayer only and the cloister is not accessible.

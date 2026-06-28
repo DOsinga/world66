@@ -1,7 +1,7 @@
 ---
-category: Sculpture
 latitude: -34.193
 longitude: 18.4316
+score: 5.8
 scores:
   activities: 0.553
   sight: 0.6642
@@ -14,6 +14,7 @@ story: Just Nuisance, a Great Dane born in 1937, became such a beloved fixture i
 tags:
 - things_to_do
 - sight
+- southern_peninsula
 title: Just Nuisance Statue
 type: poi
 ---

@@ -17,6 +17,7 @@ story: >
   in Geneva for the last 20 years of his life. The city took the money and built
   exactly what he requested, producing one of the most extravagant tombs in the
   country.
+score: 6.1
 ---
 
 The Brunswick Monument stands on the Quai du Mont-Blanc overlooking the lake, a neo-Gothic mausoleum built between 1874 and 1879 and inspired by the Scaligeri tombs in Verona. It was commissioned by Charles II, Duke of Brunswick, who bequeathed his fortune to Geneva in exchange for a suitably impressive memorial. The result is a covered stone canopy supported on marble columns, decorated with carved reliefs and heraldic symbols, protecting a sarcophagus beneath.

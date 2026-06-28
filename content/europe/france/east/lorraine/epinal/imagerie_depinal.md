@@ -7,6 +7,7 @@ tags:
   - printmaking
 title: "Imagerie d'Epinal"
 type: poi
+score: 7.9
 ---
 
 The Imagerie d'Epinal is the working heir to the city's famous print tradition. It is part workshop, part shop, part living archive, and it gives a more tactile sense of the craft than the museum alone.

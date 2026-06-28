@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryggjubakki,_T%C3%B3rshav
 latitude: 62.01014
 loc_type: city
 longitude: -6.771571
-score: 0.61
+score: 8.65
+snippet: Tiny Faroese capital on Streymoy, with turf-roofed Tinganes and a working
+  North Atlantic harbour.
 title: Tórshavn
 type: location
 ---

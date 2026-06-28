@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Melilla_la_Vieja
+score: 7.3
 ---
 
 The Municipal Museum sits inside Melilla la Vieja, in the old fortress buildings at the heart of the citadel. Its collections span from pre-Roman Phoenician finds through the Roman period (Melilla was the ancient port of Rusadir), the medieval Berber settlements, and the centuries of Spanish occupation. The weapons and military equipment section reflects the long history of the garrison, while ethnographic displays cover the city's four communities — Spanish, Berber, Jewish, and Hindu — whose co-existence has been a defining feature of Melilla's character.

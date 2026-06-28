@@ -11,6 +11,7 @@ story: >
   The original house where Joan of Arc stayed in 1429 was bombed in 1940 and completely destroyed. The current building is a reconstruction based on historical descriptions and period documents. It is, in a sense, a monument not just to Joan but to the determination of Orléans to maintain her memory regardless of circumstance.
 sources:
   - https://en.wikipedia.org/wiki/Orl%C3%A9ans
+score: 6.8
 ---
 
 The Maison de Jeanne d'Arc reconstructs the house on the Place du Général-de-Gaulle where Joan of Arc stayed during the siege of Orléans in 1429. The original building was destroyed in the Second World War and the current structure is a careful reconstruction from historical sources, but the museum inside is honest about this and uses the space well.

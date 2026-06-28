@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Laguna_Torre
   - https://en.wikipedia.org/wiki/Cerro_Torre
+score: 8.8
 ---
 
 Laguna Torre sits beneath Cerro Torre, whose needle-like summit is often described as one of the most technically demanding climbs in the world. The lake reflects the jagged Torres massif when conditions allow, with chunks of blue glacial ice floating in the grey-green water. The hike from El Chaltén is about 18 km return, with modest elevation gain — it is one of the easier major trails in the area, though "easier" in Patagonia still means wind, changeable weather, and a landscape that makes you feel very small.

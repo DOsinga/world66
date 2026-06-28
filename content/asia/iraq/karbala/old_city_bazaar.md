@@ -5,6 +5,7 @@ snippet: Covered market lanes around the shrines, full of pilgrim souvenirs and 
 tags: [things_to_do, shopping, market]
 latitude: 32.6155
 longitude: 44.0335
+score: 7.6
 ---
 
 The lanes radiating out from Bayn al-Haramayn are a covered bazaar dedicated mostly to pilgrim needs: prayer beads of Karbalai clay, framed calligraphy, dates from the south, votive offerings, and small turbah (prayer stones) made from the soil of the battlefield. There are also vendors selling rugs, perfumes, and a remarkable variety of sweets — try the Karbalai zalabiya, a syrup-soaked pastry sold by the kilo.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic]
 latitude: 24.0635
 longitude: 120.7000
 story: 'The Lin family of Wufeng were one of the great clans of Qing dynasty Taiwan, wealthy enough to maintain their own private army. The compound was built up between 1864 and the 1890s and is one of the largest surviving Qing-era residences anywhere in Taiwan — most of the rest were demolished by the Japanese.'
+score: 8.4
 ---
 
 The Wufeng Lin Family Mansion is a sprawling Qing dynasty residential compound about half an hour south of central Taichung, in the suburb of Wufeng. Three connected complexes — the Underpalace, the Lower House, and the Upper House — combine into one of the finest examples of traditional Chinese residential architecture on the island.

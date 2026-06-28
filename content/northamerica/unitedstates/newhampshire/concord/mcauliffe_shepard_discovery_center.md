@@ -11,6 +11,7 @@ story: >
   applicants to be the first teacher in space. She died with the rest of the Challenger crew when the
   shuttle broke apart 73 seconds after launch on 28 January 1986. Alan Shepard, the first American
   in space and the fifth person to walk on the moon, was born just east of Concord at Derry.
+score: 6.9
 ---
 
 The McAuliffe-Shepard Discovery Center honours the two New Hampshire space pioneers in its name: Christa McAuliffe, the Concord High School teacher killed in the Challenger disaster, and Alan Shepard, the first American in space. The centre combines a planetarium with a small but substantial science museum covering astronomy, astronautics, and Earth science. The planetarium shows are the main draw and run several times a day on a roster of full-dome films.

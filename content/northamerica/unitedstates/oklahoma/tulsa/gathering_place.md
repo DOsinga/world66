@@ -12,6 +12,7 @@ story: >
   The park was funded entirely by a private gift of $465 million from the Kaiser family, making it one of the largest charitable donations for a public park in American history. It opened in 2018 and won the Urban Land Institute's Award for Excellence in the Americas in its first year.
 sources:
   - https://en.wikipedia.org/wiki/Gathering_Place_(Tulsa)
+score: 8.8
 ---
 
 Gathering Place is a 100-acre public park along the south bank of the Arkansas River, opened in 2018 and funded by a $465 million gift from the George Kaiser Family Foundation. It is, quite simply, one of the best urban parks in the United States — its designers at MVVA (Michael Van Valkenburgh Associates) created a park that works equally well for small children, skateboarders, kayakers, and people who just want to sit by the water.

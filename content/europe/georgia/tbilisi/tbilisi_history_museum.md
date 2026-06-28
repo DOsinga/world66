@@ -9,6 +9,7 @@ title: Tbilisi History Museum
 type: poi
 story: >
   The building that houses the museum was a caravanserai — a waystation for merchant caravans on the Silk Road. Tbilisi was a major stop on the trade routes between the Middle East, the Black Sea, and Central Asia, and the caravanserais of the old town were its commercial nerve centres. The building retains its original courtyard structure, making the museum's surroundings as interesting as the exhibits inside.
+score: 7.1
 ---
 
 The Tbilisi History Museum is housed in a restored caravanserai in the Abanotubani district, a few steps from the sulphur baths. The building itself is part of the attraction: the vaulted brick rooms and central courtyard preserve the structure of a working Silk Road waystation, and standing in it gives a concrete sense of Tbilisi's role as a trading city.

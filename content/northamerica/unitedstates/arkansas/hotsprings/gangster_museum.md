@@ -12,6 +12,7 @@ story: >
   Central Avenue, and Al Capone, Lucky Luciano, and Owney Madden all kept hotel suites here. The local
   sheriff is said to have collected a weekly cut. Capone's standing reservation at the Arlington was
   Suite 442.
+score: 7.1
 ---
 
 A small but well-curated museum on Central Avenue, dedicated to the era when Hot Springs functioned

@@ -10,6 +10,7 @@ story: >
   Baranovichi was founded specifically because two Russian imperial rail lines crossed here in 1871. The whole city grew up to serve the railway — the depot, the workshops, the workers' housing — so a retired locomotive standing on a plinth near the station is less a decoration than an honest monument to the town's reason for existing.
 sources:
   - https://en.wikipedia.org/wiki/Baranovichi
+score: 6.1
 ---
 
 Near the main railway station stands a retired Soviet-era locomotive mounted on a concrete plinth, commemorating the railway workers whose labour built both the rail network and the city itself. Baranovichi came into existence in 1871 as a junction point on the Brest–Moscow line, and the surrounding workshops and depots shaped everything that followed — the layout of the city, the workforce, the economy.

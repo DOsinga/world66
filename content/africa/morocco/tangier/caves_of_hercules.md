@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Caves of Hercules
 type: poi
+score: 7.7
 ---
 
 About 14 km west of Tangier, these partly natural, partly man-made caves are the city's most popular excursion. According to legend, Hercules rested here after separating Europe from Africa. The sea-facing opening is shaped remarkably like the outline of the African continent -- best seen in the afternoon when the light comes through it.

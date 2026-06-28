@@ -19,6 +19,7 @@ story: >
   better — he was in the Tower awaiting execution when Henry VIII died in 
   1547, and was saved only because the new king signed no death warrants 
   on his first day.
+score: 8.1
 ---
 
 The ruined gatehouse and soaring arches of Thetford Priory stand in a meadow beside the Little Ouse, free to visit and largely empty on most days. Founded in 1103 as a Cluniac monastery, this was one of the wealthiest religious houses in East Anglia before the Dissolution. The scale of what remains — the long nave walls, the prior's lodging, the great gatehouse — gives a clear sense of how large the original complex was.

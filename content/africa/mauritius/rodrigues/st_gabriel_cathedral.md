@@ -8,6 +8,7 @@ tags:
 latitude: -19.7179
 longitude: 63.4385
 story: "The cathedral was built in stages through the 20th century and dominates the surrounding hillside in a way that seems improbable for a community this size. It seats several thousand — many times the population of the village immediately around it — because it was designed to serve the entire island for major feast days."
+score: 6.6
 ---
 
 A large Catholic cathedral on a hill above the village of St. Gabriel, visible from a wide stretch of the central island. The setting is striking — an imposing pale building against the green hills, surrounded by small houses and tropical vegetation. The interior is simply furnished but has good stained glass.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious_site
+score: 6.5
 ---
 
 The Hazrath Shah Mir Saab Dargah is one of the smaller Sufi shrines in the cluster of dargahs that give old Cuddapah its character. The shrine sits in a courtyard a short walk from the old bus stand and the Seven Roads junction. Like its neighbours, it draws Hindu and Muslim visitors alike, particularly on Thursday evenings when devotional qawwali singing is held in the courtyard.

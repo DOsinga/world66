@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 - historic_site
+score: 6.8
 ---
 
 The Cathedral of the Immaculate Conception, known locally as Shigu Road Cathedral, is a late 19th-century Catholic church that serves as the cathedral of the Archdiocese of Nanjing. Built by French missionaries in 1869, the church is a modest Gothic Revival structure that has survived intact through revolutionary upheaval, Japanese occupation, and the Cultural Revolution.

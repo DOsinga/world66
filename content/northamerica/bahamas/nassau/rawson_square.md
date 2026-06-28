@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0784
 longitude: -77.3408
+score: 5.5
 ---
 
 The small public square between Bay Street and the cruise terminal, with a bronze bust of Sir Milo Butler — the first black Bahamian governor-general — at its centre. The square is the staging area for downtown carriage tours, the official tourist information centre, and the open-air **Junkanoo Beach Shack** for cold drinks.

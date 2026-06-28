@@ -13,6 +13,7 @@ story: >
   State Prison just up the road; the gilded eagle on the dome was carved in 1818 by William Low Foster
   and is still up there, regilded but otherwise unchanged. The 400-member House of Representatives
   packed into Representatives Hall is one of the largest legislative bodies in the English-speaking world.
+score: 8.3
 ---
 
 Built in 1819 of granite quarried by state prison labour, the New Hampshire State House dominates the centre of Concord with its gilded eagle-topped dome. It is the oldest state capitol still housing its legislature in the original chambers, and the building works hard — New Hampshire's 400-member House of Representatives is the largest in the country, so Representatives Hall is packed shoulder-to-shoulder when in session.

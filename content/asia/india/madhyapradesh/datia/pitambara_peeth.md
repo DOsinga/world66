@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 25.9177
 longitude: 78.6606
+score: 7.8
 ---
 
 Pitambara Peeth is one of the most important Tantric temples in India, dedicated to the goddess Bagalamukhi (also known as Pitambara Devi), one of the ten Mahavidyas — the forms of the divine feminine in the Tantric tradition. The temple draws a steady stream of pilgrims from across India, particularly those seeking blessings in legal disputes, competitive examinations, and matters requiring resolution of conflict, for which Bagalamukhi is specifically invoked.

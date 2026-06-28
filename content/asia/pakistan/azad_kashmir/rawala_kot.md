@@ -10,8 +10,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Rawalakot,ajk_nat.jpg
 latitude: 33.8577
 loc_type: city
+snippet: Azad Kashmir mountain town in a saucer-shaped Poonch valley, ringed by pine
+  forests and ridges.
 longitude: 73.7615
-score: 0.42
+score: 6.57
 title: Rawalakot
 type: location
 ---

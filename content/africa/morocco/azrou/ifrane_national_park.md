@@ -8,6 +8,7 @@ tags:
   - nature
 sources:
   - https://en.wikipedia.org/wiki/Ifrane_National_Park
+score: 8.0
 ---
 
 Ifrane National Park covers 1,250 square kilometres of the Middle Atlas plateau between Azrou and Khenifra. It protects the largest remaining stand of Atlas cedar in the world, along with the holm-oak woodlands, alpine lakes, and limestone karst that characterise this part of Morocco.

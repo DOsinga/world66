@@ -1,9 +1,16 @@
 ---
+latitude: 44.15
+loc_type: country
+longitude: 17.68
+score: 0.7
+snippet: Balkan country of river canyons, Ottoman towns, and visible memories of the
+  1990s war
 title: Bosnia and Herzegovina
 type: location
-loc_type: country
-latitude: 44.15
-longitude: 17.68
+image: bosniaandherzegovina.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina-02166_-_Po%C4%8Ditelj_(10476710854).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Dennis G. Jarvis
 ---
 
 Bosnia and Herzegovina is a country that defies easy summary. It is a place of extraordinary natural beauty — deep river canyons, dense forests, medieval villages — where the legacy of the 1992–1995 war is still visibly and emotionally present. Coming here means engaging with both: the landscape and the history are inseparable.

@@ -8,6 +8,7 @@ tags:
 title: Raja Bazaar
 type: poi
 story: "Raja Bazaar is one of the oldest continuously operating markets in South Asia. It predates the British, predates the Sikh empire that ruled this region, and may trace its commercial life back centuries to when Rawalpindi was a waypoint on trade routes connecting the Gangetic plain to Central Asia. The British did not build it — they simply grafted their cantonment onto a town where a market already existed."
+score: 8.1
 ---
 Raja Bazaar is the beating, chaotic heart of old Rawalpindi. To call it busy is an understatement: the lanes are densely packed with shops selling cloth, spices, electronics, hardware, plastic goods, wedding paraphernalia, and much else, all pressed together with no obvious logic. Motorcycles push through crowds. Hawkers shout. The smell shifts from open drains to roasting nuts to fresh bread within the space of twenty metres.
 

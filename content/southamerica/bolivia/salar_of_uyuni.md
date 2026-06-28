@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: salar_of_uyuni.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Isla_del_Pescado,_Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_42.JPG
 latitude: -20.2043
+loc_type: feature
 longitude: -67.515
+score: 9.68
+snippet: High Andean salt flat in southwest Bolivia, a white expanse of islands, volcanoes,
+  and flamingo lakes
 title: Salar de Uyuni
 type: location
-score: 0.77
-image: salar_of_uyuni.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Isla_del_Pescado,_Salar_de_Uyuni,_Bolivia,_2016-02-04,_DD_42.JPG
-image_license: CC BY-SA 4.0
-image_attribution: Diego Delso
-loc_type: feature
 ---
 
 The Salar de Uyuni is the world's largest salt flat, a blinding white expanse of over 10,000 square kilometres in southwest [Bolivia](/southamerica/bolivia), at 3,650 metres on the Altiplano near the crest of the Andes.

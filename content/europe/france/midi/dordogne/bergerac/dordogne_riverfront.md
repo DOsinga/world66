@@ -7,6 +7,7 @@ tags:
 latitude: 44.8499
 longitude: 0.4830
 snippet: "The old quay where flat-bottomed gabarres once loaded wine for Bordeaux"
+score: 7.7
 ---
 
 The Dordogne riverfront below the old town is where Bergerac's medieval and early modern wealth originated. For five centuries the town was the upper limit of navigation on the river, and casks of wine were loaded here onto the flat-bottomed *gabarres* that drifted down to Bordeaux on the current. The stone quay, the slipways, and several of the warehouses survive.

@@ -8,6 +8,7 @@ tags:
 latitude: -4.2667
 longitude: 15.2833
 story: "The Nabemba Tower was completed in 1986 at a cost that became emblematic of the country's economic mismanagement under the People's Republic. Named after the country's highest mountain, it rises 106 metres — the tallest building in the Republic of Congo — and is said to have cost more to maintain annually than most government ministries. An Atlas Obscura subject, it is regarded locally as both a source of civic pride and an expensive white elephant."
+score: 5.1
 ---
 
 Tour Nabemba is impossible to miss — the tallest building in the Republic of Congo rises 106 metres above central Brazzaville in a cylindrical tower of stepped concrete floors. Built in 1986 during the socialist People's Republic, it serves as the headquarters of Elf Congo (now TotalEnergies Congo) and has become the most recognisable element of the city's skyline when viewed from the river or from Kinshasa across the water.

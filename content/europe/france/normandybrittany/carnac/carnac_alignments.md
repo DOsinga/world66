@@ -10,6 +10,7 @@ longitude: -3.0639
 story: "The Carnac alignments were raised between 4500 and 2000 BCE — a period spanning some 2,500 years — which means the site was continuously used and expanded for roughly as long as the gap between us and the ancient Romans. Early modern visitors assumed they were the work of Romans, Druids, or fairies; it was not until the 19th century that systematic archaeology confirmed their Neolithic origin. The purpose remains genuinely unknown."
 sources:
   - https://en.wikipedia.org/wiki/Carnac_stones
+score: 9.5
 ---
 
 The Carnac alignments are the largest megalithic alignment system in the world: over 3,000 standing stones arranged in roughly parallel rows that extend for more than three kilometres across the Breton interior. The rows are divided into three main groups — Menec, Kermario, and Kerlescan — each of which was once enclosed at one or both ends by a stone semicircle (cromlech). Several of these have been partially destroyed over the centuries.

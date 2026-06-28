@@ -8,8 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Commando_memorial_Domburg.
 latitude: 51.563214
 loc_type: city
 longitude: 3.496728
-score: 0.51
+score: 7.53
 title: Domburg
+snippet: Old Zeeland seaside resort of wide dunes, refined beach life, and the light
+  that drew Mondrian.
 type: location
 ---
 

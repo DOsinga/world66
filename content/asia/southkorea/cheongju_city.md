@@ -2,17 +2,19 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
-  poi_cleanup: '2026-04-19'
   location_enrich: '2026-05-21'
+  poi_cleanup: '2026-04-19'
 latitude: 36.642117
+loc_type: city
 longitude: 127.489174
-score: 0.43
+score: 6.95
+snippet: Central Korean provincial capital known as the birthplace of Jikji, the oldest
+  surviving metal-type book.
+sources:
+- https://en.wikipedia.org/wiki/Cheongju
+- https://en.wikipedia.org/wiki/Cheongju_Early_Printing_Museum
 title: Cheongju City
 type: location
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Cheongju
-  - https://en.wikipedia.org/wiki/Cheongju_Early_Printing_Museum
 ---
 
 Cheongju is a mid-sized city of around 800,000 people in central Korea and the capital of North Chungcheong Province. It sits roughly equidistant between Seoul and Daejeon, and makes a practical base for exploring the region — buses to Seoul take about 90 minutes, Daejeon 30 minutes.

@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 55.4935
 longitude: 9.4716
+score: 7.2
 ---
 
 The Geographical Garden (Geografisk Have) sits immediately behind Koldinghus on the castle hill and contains around 2,000 plant species from every part of the world, grouped by continent. It was established in 1920 with a deliberately educational structure: walking through the garden, you move from one biogeographic zone to another, passing through Mediterranean scrub, North American woodland, and Asian ornamental planting. The layout gives it an oddly satisfying logic — a miniature atlas of world flora.

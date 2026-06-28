@@ -8,6 +8,7 @@ tags:
 latitude: -9.930833
 longitude: -76.279444
 story: "The crossed-hands relief at Kotosh — two pairs of human forearms modelled in clay, one above the other — dates to around 2000 BCE, making it one of the oldest surviving sculptures in the Americas. Nobody knows what the crossed hands signify, but they predate the Inca by nearly 3,500 years and any other known Andean iconography."
+score: 8.4
 ---
 
 Kotosh sits about five kilometres west of central Huánuco, on a hillside above the Higueras River. The site is one of the most significant pre-Columbian archaeological sites in Peru, with evidence of continuous occupation spanning six distinct cultural periods from roughly 3000 BCE to 900 CE. The main structure visible today is the Templo de las Manos Cruzadas — the Temple of the Crossed Hands — a stone platform temple containing the famous clay relief of two pairs of crossed arms, thought to be among the oldest known sculptures in the Americas.

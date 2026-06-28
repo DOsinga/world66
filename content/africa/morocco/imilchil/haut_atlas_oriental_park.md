@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - hiking
+score: 7.8
 ---
 
 Imilchil sits inside the Haut Atlas Oriental National Park, a 49,000-hectare protected area covering some of the highest country in the central Atlas. The park takes in the two lakes, the granite ridge of the Jbel Masker (3,265 m), and a complex of cedar forests, juniper scrub, and high pasture.

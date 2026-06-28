@@ -8,6 +8,7 @@ tags:
 - nature
 latitude: -40.943
 longitude: 175.683
+score: 5.4
 ---
 
 Henley Lake is an artificial wetland on the eastern edge of Masterton, created in the 1980s out of farmland that flooded regularly from the Waipoua River. It is now the best bird-watching spot in town, with regular sightings of black swans, royal spoonbills, white-faced herons, and a colony of New Zealand scaup.

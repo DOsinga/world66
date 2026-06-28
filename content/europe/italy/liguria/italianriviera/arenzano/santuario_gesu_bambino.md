@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "The cult of the Infant Jesus of Prague — a wax-and-wood figure of the child Christ dressed in elaborate vestments — arrived in Liguria in the early 20th century. The Carmelite friars at Arenzano made it their special devotion, and pilgrims now arrive year-round from across northern Italy."
+score: 6.8
 ---
 
 The Sanctuary of the Infant Jesus of Prague is the most visited church on this stretch of the Riviera, with a square bell tower rising above the lower town. Inside, a beautifully clothed statue of the Christ child sits behind glass, surrounded by ex-voto offerings — silver hearts, photos of cured children, scribbled prayers.

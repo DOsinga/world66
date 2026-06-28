@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: -36.8287
 longitude: 174.8093
+score: 6.7
 ---
 
 The Torpedo Bay Navy Museum is the official museum of the Royal New Zealand Navy, set in an attractive position on the waterfront east of the main wharf. The collection covers New Zealand's naval history from the colonial gunboat era through to modern operations, with a particular focus on the two World Wars and the RNZN's role in the Pacific.

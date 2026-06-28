@@ -10,6 +10,7 @@ tags:
 - sight
 title: Castle of Breda
 type: poi
+score: 6.2
 ---
 
 Built in the 12th century and remodelled many times since, the castle now houses the Royal Military Academy. The grounds are normally closed, but on open days you can walk through the courtyards and see the chapel. The Spanjaardsgat watergate at the back of the castle is always accessible and worth a look.

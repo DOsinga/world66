@@ -16,6 +16,7 @@ story: >
   striking object in the abbey's museum and the main reason for her veneration
   here — her body was kept in the monastery for centuries, and miracles were
   attributed to her intercession.
+score: 7.8
 ---
 
 The Mosteiro de Arouca was founded in the 10th century and expanded to its current form under Cistercian rule in the 13th century. The baroque church and convent complex dominate the centre of the town and contain one of the most significant collections of religious art in northern Portugal. The church interior is impressive: gilded wooden altarpieces, azulejo panels, and carved choir stalls that took decades to complete.

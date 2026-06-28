@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.4980
 longitude: 101.5650
+score: 6.4
 ---
 
 Huangzhong is the town 25 kilometres south of Xining that grew around Kumbum Monastery and has been defined by it for seven centuries. Most visitors come only for the monastery itself, but the town's older streets — particularly the market lanes below the monastery car park — have a texture worth spending an hour in. Stalls sell Tibetan Buddhist objects (prayer wheels, incense, thangkas of varying quality), Tibetan clothing, and food.

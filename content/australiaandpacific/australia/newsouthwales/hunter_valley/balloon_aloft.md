@@ -8,6 +8,7 @@ latitude: -32.7923
 longitude: 151.2840
 story: >
   The Hunter Valley's early-morning balloon season runs through most of the year, though foggy winter mornings can ground flights unpredictably. The Pokolbin district's layout — rolling vineyard hills with few obstacles — is well suited to balloon flight, and the views back over the vine rows towards the Brokenback Range are the visual reward for getting up before dawn.
+score: 7.8
 ---
 
 Hot air balloon rides at dawn are one of the Hunter Valley's signature experiences. Several operators run daily flights (weather permitting) from launch sites around Pokolbin, with flights lasting roughly an hour and typically followed by a champagne breakfast. The view over the vineyard landscape — rows of vines, the Brokenback Range in the background, the early light — is genuinely beautiful.

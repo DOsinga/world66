@@ -7,6 +7,7 @@ tags:
 latitude: -19.6833
 longitude: 63.4167
 story: "Port Mathurin is small enough that you can walk from one end to the other in fifteen minutes, but the harbour front has genuine character — fishing pirogues tied up alongside the weekly cargo boat from Mauritius, and the smell of dried octopus drifting from the market lanes."
+score: 7.0
 ---
 
 The capital of Rodrigues is a relaxed, slightly ramshackle harbour town with a few streets of low colonial-era buildings, a market, and a small waterfront. It's not picturesque in a postcard way, but it's real — people going about their lives, fishers offloading catches, schoolchildren in uniform threading through the lanes.

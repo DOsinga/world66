@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.8642
 longitude: -116.6141
+score: 5.8
 ---
 
 The Cathedral of Our Lady of Guadalupe is Ensenada's main Catholic church and the most prominent building in the town centre. The twin towers are visible from much of the city and serve as a navigation point when you are finding your way around. Construction of the current building was completed in the mid-20th century, though the parish dates to the late 19th century.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - beach
+score: 7.8
 ---
 
 Balsam Lake is the highest navigable point on the Trent-Severn — boats coming up from Lake Ontario climb 184 metres to reach it — and the provincial park on its eastern shore has the best public beach in the Kawartha Lakes. The sand is fine, the water shelves gently, and the shallow inlet stays warm into September.

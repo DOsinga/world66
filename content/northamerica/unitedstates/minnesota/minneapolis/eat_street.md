@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.9625
 longitude: -93.2811
+score: 8.5
 ---
 
 "Eat Street" is the informal name for the stretch of Nicollet Avenue south of downtown, roughly between 24th and 30th Streets, where an extraordinary concentration of immigrant-owned restaurants has made this the most diverse dining mile in Minnesota. Vietnamese, Korean, Indian, Somali, Mexican, Ethiopian, and Middle Eastern restaurants line both sides of the street, most of them family-run and priced well below the trendy dining districts north of downtown.

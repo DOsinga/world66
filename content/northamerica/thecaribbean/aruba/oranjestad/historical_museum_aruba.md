@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Historical_Museum_of_Aruba
+score: 7.3
 ---
 
 The Historical Museum of Aruba occupies the restored rooms of Fort Zoutman, making the setting as interesting as the contents. The exhibits cover Aruba's colonial history, the 19th-century gold rush that briefly made the island wealthy, and the rise of the oil refinery at San Nicolas that transformed Aruban society in the 20th century. There are maps, photographs, furniture, and artefacts from each era.

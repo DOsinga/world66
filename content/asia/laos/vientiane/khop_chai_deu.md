@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Khop Chai Deu
 type: poi
+score: 5.8
 ---
 
 Khop Chai Deu is the closest thing Vientiane has to a public living room. The building, a creaking French colonial townhouse facing the Nam Phu fountain, has been a restaurant-bar since the late 1990s and now sprawls across two floors, a courtyard, and a wraparound veranda. The pan-Asian menu covers Lao, Thai, Indian, and the usual Western suspects — none of it perfect, but the breadth is the point.

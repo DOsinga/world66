@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - museum
+score: 8.5
 ---
 
 The MNHA on the Marché-aux-Poissons covers Luxembourgish material culture from prehistory to the present. The strongest section is the Gallo-Roman, with the floor mosaics from Vichten as the headline piece — a startlingly intact Roman pavement showing the nine Muses, lifted intact from a Roman villa in 1995 and reassembled in a purpose-built gallery.

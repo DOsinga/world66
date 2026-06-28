@@ -6,6 +6,7 @@ longitude: 13.7700
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A handsome lakeside inn at the end of the road on the eastern shore of Lake Altaussee, with a wooden terrace right at the water's edge — possibly the prettiest setting for a meal in the whole Salzkammergut. The kitchen does straightforward regional cooking with the lake's own catch as its centrepiece: smoked char, Reinanke whitefish baked in herbs, and freshwater crayfish in season.

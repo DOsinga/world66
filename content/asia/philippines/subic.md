@@ -5,14 +5,16 @@ done:
   location_enrich: '2026-06-02'
 latitude: 14.87748
 longitude: 120.23447
-score: 0.42
+score: 6.77
 title: Subic
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Subic_Special_Economic_and_Freeport_Zone
-  - https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay
-  - https://en.wikipedia.org/wiki/Subic_Bay
+- https://en.wikipedia.org/wiki/Subic_Special_Economic_and_Freeport_Zone
+- https://en.wikipedia.org/wiki/U.S._Naval_Base_Subic_Bay
+- https://en.wikipedia.org/wiki/Subic_Bay
+snippet: Former US naval base on Luzon, remade as a freeport of beaches, jungle, and
+  duty-free streets.
 ---
 
 Subic Bay Freeport Zone occupies the former US Naval Base on the west coast of Luzon, about two and a half hours' drive north of Manila. The Americans left in 1992 after the Philippine Senate voted not to renew the lease — ending what had been one of the largest US overseas military installations in the world. Since then the base has been converted into a special economic zone combining light industry, duty-free retail, beaches, and family attractions. The result is unlike anywhere else in the Philippines: American-grid streets, English signage, and a residual expat culture layered over a rapidly changing Filipino city.

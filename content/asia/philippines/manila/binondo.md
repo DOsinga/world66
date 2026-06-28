@@ -12,6 +12,7 @@ story: >
   colonial government didn't trust non-Christian Chinese with residence inside Manila's walls, but
   needed their commercial skills badly enough to create a dedicated settlement just outside Intramuros.
   The result was the oldest Chinatown in the world, predating San Francisco's by nearly three centuries.
+score: 9.1
 ---
 
 Binondo is one of the great Chinatowns of Asia — not because it is well-preserved or photogenic in the usual way, but because it is genuinely alive. Streets choked with delivery tricycles, wholesale warehouses stacked to the ceiling with dried goods and cooking supplies, dim sum restaurants at 7am full of people who eat here because it's good and cheap.

@@ -6,7 +6,12 @@ latitude: 52.376956
 longitude: 9.746927
 opening_hours: Wed, Thu, Sun 20:00-05:00; Fri, Sat 21:00-05:00
 phone: +49 511 34 46 10
+score: 5.2
 snippet: Flamboyant cabaret bar with drag shows and ballroom dancing
+tags:
+- bars_and_cafes
+- bar
+- nightlife
 title: Alcazar
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: 54.3669
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Water Museum occupies a beautifully restored historical mansion and explains the remarkable engineering behind Yazd's ancient water supply — the qanat system. Qanats are underground aqueducts, some extending for dozens of kilometres from the mountains, that bring water to desert cities by gravity alone and have kept Yazd habitable for thousands of years. Several of Yazd's qanats are still in use today.

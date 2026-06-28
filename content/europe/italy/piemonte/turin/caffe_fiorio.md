@@ -7,6 +7,7 @@ tags:
 latitude: 45.0702
 longitude: 7.6829
 story: "Cavour, the principal architect of Italian unification, met his political circle at Fiorio almost every evening in the 1850s. The cafe is still nicknamed 'the cafe of the punctuators' — *caffè dei pavè* — after the gravelly local politicians who argued there for decades."
+score: 7.6
 ---
 
 A vast red-velvet salon under the arcades of Via Po, opened in 1780 and patronised by Cavour, Mark Twain, Friedrich Nietzsche and most of nineteenth-century Turinese politics. The interior — original leather banquettes, dark wood, mirrored walls — has barely changed.

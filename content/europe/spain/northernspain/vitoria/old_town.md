@@ -1,8 +1,13 @@
 ---
-snippet: The medieval walled hill that is the core of the city, with street names still reflecting medieval trades
+latitude: 42.8502
+longitude: -2.6725
+score: 8.2
+snippet: The medieval walled hill that is the core of the city, with street names
+  still reflecting medieval trades
 tags:
 - things_to_do
-- walk
+- sight
+- neighbourhood
 title: Old Town (Casco Viejo)
 type: poi
 ---

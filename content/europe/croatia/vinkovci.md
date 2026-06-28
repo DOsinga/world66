@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Crkva_sv._Euzebija_i_Polio
 latitude: 45.288377
 loc_type: city
 longitude: 18.804525
-score: 0.41
+score: 6.53
+snippet: Slavonian city in eastern Croatia, layered with Neolithic finds and the Roman
+  town of Cibalae.
 title: Vinkovci
 type: location
 ---

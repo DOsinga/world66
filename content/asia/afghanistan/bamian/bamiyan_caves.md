@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - unesco
+score: 8.5
 ---
 
 The same sandstone cliff that held the two giant Buddhas is honeycombed with several hundred small caves cut for use by Buddhist monks between roughly the 3rd and the 9th centuries AD. Some are simple meditation cells; others are larger assembly chambers with painted ceilings and remnants of murals. The most accessible caves are reached from the staircase between the two empty niches; many are open to visitors with a local guide.

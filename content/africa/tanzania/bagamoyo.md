@@ -2,20 +2,22 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
+image: bagamoyo.jpg
+image_attribution: Geir Kiste
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bagamoyo_Tanzania_Missionary_Building.jpg
 latitude: -6.442208
 loc_type: city
 longitude: 38.906219
-score: 0.45
+score: 7.4
+snippet: Historic Tanzanian coastal town tied to Swahili trade routes, Catholic missions,
+  and carved old streets.
 sources:
 - https://en.wikipedia.org/wiki/Bagamoyo
 - https://en.wikipedia.org/wiki/Bagamoyo_Historic_Town
 - https://en.wikipedia.org/wiki/Kaole
 title: Bagamoyo
 type: location
-image: bagamoyo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bagamoyo_Tanzania_Missionary_Building.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Geir Kiste
 ---
 
 Bagamoyo is a historic coastal town about 75 km north of [Dar es Salaam](/africa/tanzania/daressalaam). Founded in the late 1700s by families related to the ruler of [Oman](/asia/oman), it grew into one of the most important towns on the East African coast during the 19th century as the terminus of the slave and ivory trade route from Lake Tanganyika. The name itself — Bagamoyo, "lay down your heart" in Swahili — is said to be what enslaved people muttered as they were marched onto the beach to be shipped across to [Zanzibar](/africa/tanzania/zanzibar).

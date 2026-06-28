@@ -9,6 +9,7 @@ latitude: 33.8200
 longitude: 118.2030
 story: >
   Yanghe Daqu baijiu is made using the sauce-fragrance (酱香) style — a long fermentation process using sorghum, wheat, and rice in underground mud cellars, with a production cycle that takes years from grain to bottle. The underground wine cellars at the Yanghe distillery are classified as a national key cultural relic protection unit, which makes this the only active distillery in China where the production infrastructure is simultaneously a protected historical monument.
+score: 8.5
 ---
 
 Yanghe Daqu is one of the top three best-selling baijiu brands in China and one of the oldest distilleries in the country, with production records stretching back to the Tang Dynasty. The Cultural Tourism Zone covers over 100 acres of the Yanghe distillery complex in the Yanghe New District, and the visitor experience is genuinely industrial: you walk through active brewing workshops, see the mud fermentation cellars up close, and get a visceral sense of the scale and smell of large-scale baijiu production.

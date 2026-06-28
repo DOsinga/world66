@@ -9,6 +9,7 @@ story: The three arrows lodged high in the wooden beams of the portico are local
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 The Casa Isolani at Strada Maggiore 19 has one of the few surviving thirteenth-century wooden porticoes in Bologna. Most of the city's medieval porticoes were originally wooden; over the centuries they were rebuilt in brick and stone for fire safety. The original timber here, nine metres tall, gives a sense of what the city looked like in 1250.

@@ -14,6 +14,7 @@ story: >
   shipbuilding, and the movements of neighbors — with an unhurried specificity
   that makes the period come alive. The house and diary together are an
   exceptional primary source for early American history.
+score: 7.6
 ---
 
 One of the oldest surviving wooden structures in New England, the Joshua Hempsted House at 11 Hempstead Street was built around 1678 and stayed in the same family for over two centuries. It stands as a direct physical link to the early settlement of Connecticut, with thick walls and small windows typical of 17th-century New England construction.

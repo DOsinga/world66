@@ -14,6 +14,7 @@ tags:
 - sight
 title: Million Dollar Point
 type: poi
+score: 8.0
 ---
 
 What looks like a shallow reef at first glance is actually the site of the largest deliberate dump of military equipment in history. As American forces prepared to leave Espiritu Santo after WWII, they pushed thousands of vehicles and tons of machinery off this point rather than sell them cheaply to the colonial powers. Trucks, jeeps, bulldozers, refrigerators, and artillery pieces went into the lagoon in a matter of days.

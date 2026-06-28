@@ -7,6 +7,7 @@ tags:
 - historic_site
 title: Bhagalpur Museum
 type: poi
+score: 7.0
 ---
 
 The Bhagalpur Museum, located near the town centre, holds a modest but worthwhile collection of archaeological finds from the region's long history. Bihar has been continuously inhabited since at least the Neolithic period, and the museum holds terracottas, stone sculptures, and coins spanning from the Mauryan through the Pala periods.

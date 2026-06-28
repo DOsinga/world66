@@ -13,6 +13,7 @@ story: >
   this dam the morning of March 12, 1928, and declared it sound. Twelve hours later it collapsed, sending a wall
   of water fifty feet high down the Santa Clara River valley, killing nearly 450 people. Mulholland never designed
   another dam.
+score: 7.1
 ---
 
 The ruins of the St. Francis Dam stand in a remote canyon off San Francisquito Canyon Road, an eerie reminder of the worst American civil engineering disaster of the twentieth century. On the night of March 12–13, 1928, the dam failed catastrophically, releasing its entire reservoir in a matter of minutes. The flood wave swept through the Santa Clara River valley at thirty miles per hour, destroying farms, towns, and oil camps all the way to the Pacific Ocean near Ventura.

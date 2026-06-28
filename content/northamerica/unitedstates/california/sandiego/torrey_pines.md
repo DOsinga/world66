@@ -14,6 +14,7 @@ story: >
   was set aside in 1921 largely through the efforts of Ellen Browning Scripps, who was also
   responsible for much of the coastal preservation around La Jolla. The trees grow twisted and
   flat-topped from the constant sea wind, adapted to survive on the coastal fog alone.
+score: 9.1
 ---
 
 Torrey Pines State Natural Reserve sits on the sandstone cliffs between Del Mar and La Jolla, 1,750 acres of chaparral, lagoon, and coastal bluff protecting the rarest pine tree in North America. The Torrey pine (Pinus torreyana) grows nowhere else in its natural state, and the trees here — shaped by wind into flat-topped canopies — are recognisable from a distance.

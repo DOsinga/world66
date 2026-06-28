@@ -9,6 +9,7 @@ latitude: 40.5961
 longitude: 8.2997
 sources:
   - https://en.wikipedia.org/wiki/Calich_Pond
+score: 6.4
 ---
 
 The Calich is a coastal lagoon about 5km north of Alghero, separated from the sea by a narrow sandbar. It is a protected wetland and a significant birdwatching location — flamingos, herons, egrets, and various waders use the lagoon seasonally. The surrounding low scrubland is typical Sardinian macchia.

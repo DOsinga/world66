@@ -15,6 +15,7 @@ story: >
   listed as a national monument. The female figure on the roof gable is
   conventionally described as representing "Spring" — but the locals have
   always called her "the woman on the roof."
+score: 7.2
 ---
 
 On Viale della Repubblica near the seafront, the Villino Ruggeri is a small but extravagant Liberty-style villa from 1902, the high point of Italian Art Nouveau. The facade is a riot of organic decoration: sinuous ironwork, floral reliefs in polychrome ceramic, decorative window surrounds, and a tower capped by a female figure with flowing hair. It looks like something that arrived from Vienna or Barcelona and decided to stay.

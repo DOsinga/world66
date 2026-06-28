@@ -1,103 +1,199 @@
 {
   "round": 9,
-  "timestamp": "2026-04-11T15:40:05",
+  "timestamp": "2026-06-13T19:15:35",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Rethimno",
-      "path": "europe/greece/crete/rethimno",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Westman islands",
-      "path": "europe/iceland/westmanislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Meissen",
-      "path": "europe/germany/saxony/meissen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Kragero",
-      "path": "europe/norway/kragero",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "S\u00e3o Joaquim",
-      "path": "southamerica/brazil/so_joaquim",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "New London",
-      "path": "northamerica/unitedstates/wisconsin/new_london",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "St. Andrews",
-      "path": "northamerica/canada/newbrunswick/standrews",
-      "prior_mu": 22.73,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Biskra",
-      "path": "africa/algeria/biskra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Mungivacca",
-      "path": "europe/italy/puglia/bari/mungivacca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Balasore",
-      "path": "asia/india/orissa/balasore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Wargal",
-      "path": "asia/india/andhrapradesh/wargal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Lubero",
-      "path": "africa/congokinshasa/lubero",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Wuwei",
+      "path": "asia/china/gansu/wuwei",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

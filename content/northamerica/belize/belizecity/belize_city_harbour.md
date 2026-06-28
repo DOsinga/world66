@@ -7,6 +7,7 @@ tags:
 - sight
 title: Belize City Harbour
 type: poi
+score: 7.2
 ---
 
 The harbour is the practical and symbolic centre of Belize City's existence. The city grew up at the mouth of the Belize River precisely because of this sheltered anchorage, and it remains the hub for water taxis to Ambergris Caye and Caye Caulker, dive boats, and the occasional cruise ship.

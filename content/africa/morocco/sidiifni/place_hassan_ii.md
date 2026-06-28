@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.3820
 longitude: -10.1715
+score: 8.5
 ---
 
 Place Hassan II is the centre of town: a wide, shaded square laid out by the Spanish in the 1930s as the social heart of their colonial capital. An Andalusian-style garden with a tiled fountain occupies the centre, and the surrounding buildings — the old town hall, the former courthouse, the post office — are the most complete surviving ensemble of Spanish Art Deco architecture outside Spain.

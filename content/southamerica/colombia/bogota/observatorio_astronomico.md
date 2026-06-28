@@ -8,6 +8,7 @@ tags:
 latitude: 4.5984
 longitude: -74.0769
 snippet: "Colombia's oldest scientific institution, built 1803, next to the presidential palace"
+score: 7.1
 ---
 
 The Observatorio Astronómico Nacional, tucked behind the Casa de Nariño on Calle 11, is the oldest scientific institution in Colombia and one of the oldest astronomical observatories in the Americas. It was built by botanist Francisco José de Caldas under the direction of José Celestino Mutis and opened in 1803.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 23.6644
 longitude: 91.3117
+score: 6.5
 ---
 
 Sepahijala Wildlife Sanctuary is an easy wildlife stop south of Agartala, with forest, lakes, and a mix of free-ranging and managed animal areas. It is especially known for primates and birdlife.

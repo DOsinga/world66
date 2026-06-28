@@ -6,6 +6,7 @@ longitude: 18.4327
 tags:
   - eating_out
   - restaurant
+score: 7.9
 ---
 
 Žjelo (also spelled Žejo) is consistently rated the best ćevapi restaurant in Sarajevo, which in a city this devoted to the dish is a meaningful claim. It operates from a tiny, perpetually crowded space in Baščaršija, with queue times that can reach 30 minutes on busy weekends. The ćevapi here are small, dense, and heavily spiced, served in a portion of ten with somun flatbread, raw onion, and kajmak (a clotted cream dairy product similar to high-fat crème fraîche).

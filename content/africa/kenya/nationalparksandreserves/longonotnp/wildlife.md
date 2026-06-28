@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -0.9145
 longitude: 36.4536
+score: 5.8
 ---
 
 The park is not a Big Five destination but the lower slopes shelter zebra, eland, hartebeest, gazelle, baboon and the occasional giraffe. Buffalo and leopard live in the crater forest; both are uncommon on the rim trail but rangers will sometimes know about a recent sighting.

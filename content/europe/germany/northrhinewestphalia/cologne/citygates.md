@@ -1,6 +1,10 @@
 ---
+latitude: 50.9493
+longitude: 6.9568
+score: 7.0
 tags:
 - things_to_do
+- sight
 - architecture
 title: City Gates
 type: poi

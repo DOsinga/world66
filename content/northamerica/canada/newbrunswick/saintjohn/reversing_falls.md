@@ -9,6 +9,7 @@ longitude: -66.0858
 snippet: Where the Bay of Fundy's tidal force reverses the Saint John River
 story: >
   At low tide the Saint John River flows freely over a rocky gorge into the bay. As the enormous Fundy tide rises, the sea level climbs above the river level and water begins flowing the other direction — upstream. For a brief moment at mid-tide, the river surface runs glassy and still, and then the current reverses completely. The cycle repeats roughly every six hours, meaning a patient visitor who times two visits can watch the same stretch of water run in opposite directions.
+score: 8.5
 ---
 
 The Reversing Falls is the single most-visited natural spectacle in New Brunswick, and it is more genuinely impressive than its roadside-attraction reputation might suggest. The Saint John River meets the Bay of Fundy at a narrow basalt gorge here, and the bay's tidal range — among the highest in the world — is powerful enough to overwhelm the river's outflow and push water upstream against the current.

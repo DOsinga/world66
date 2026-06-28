@@ -13,6 +13,7 @@ story: >
   theme park. There are no roller coasters, no queues for rides, and no
   corporate gloss. Children wander through Moominhouse, meet characters on
   the beach, and take boat rides across the island at their own pace.
+score: 8.1
 ---
 
 Moominworld sits on Kailo Island, connected to the mainland by a short footbridge. The park recreates the world of Tove Jansson's books — the blue Moominhouse, Snork Maiden's house, the lighthouse — with care and without irony. It is aimed at young children, but adults who grew up with the books find it quietly moving.

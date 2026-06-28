@@ -9,6 +9,7 @@ latitude: 14.7417
 longitude: -61.1758
 sources:
   - https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique
+score: 8.5
 ---
 
 The most rewarding way to understand Saint-Pierre is on foot, following the seafront road through the town. The route takes you past the working waterfront — fishing boats, a small market, the dive centre jetty — and continuously beside and between ruins that are woven into the fabric of the modern town. Old stone foundations support new buildings. Ruined walls serve as garden borders. The palm-lined promenade runs through what was once the main commercial boulevard of the colonial city.

@@ -14,6 +14,7 @@ story: >
   one of Aalto's few commissions in Denmark, and the white marble exterior and skylighted
   galleries show his characteristic concern with natural light. The building itself is on
   the Danish list of protected architectural works.
+score: 8.7
 ---
 
 Kunsten (the name means simply "the art") is Aalborg's museum of modern art, housed in a 1972 white-marble building by Alvar and Elissa Aalto — one of the few works by the celebrated Finnish architect outside Scandinavia. The building is as much a draw as the collection: the long horizontal facade, the interior courts, and the carefully controlled natural light from clerestory windows make it one of the finest museum buildings in Denmark.

@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - fine_dining
+score: 6.7
 ---
 
 The most decorated restaurant on the Croatian coast outside of Istria, holding a Michelin star since 2017. Chef Rudolf Štefan cooks modern Dalmatian — local lamb, Adriatic fish, Pag cheese, foraged herbs — with the technical precision of a French kitchen. The wine list is one of the best for Croatian indigenous varieties.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Beautifully restored 1926 movie palace in downtown Eau Claire
+score: 7.7
 ---
 
 The State Theatre opened in 1926 as a vaudeville and silent-film house, and the original interior has been carefully preserved through several restoration campaigns — the ornate plasterwork, the painted ceiling, and the original balcony remain intact. It is now a 1,100-seat performing arts venue with a broad programme of concerts, comedy, and theatrical productions. The indie band Bon Iver, whose frontman Justin Vernon is from Eau Claire, has used it for intimate hometown performances.

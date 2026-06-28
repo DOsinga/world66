@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.2
 ---
 
 The small wooden house on Chaussee Road where Derek Walcott grew up has been restored and turned into a modest museum and cultural centre. The exhibits cover his life, his Methodist family in a Catholic island, his early paintings (he was a serious painter before he was a poet), and the poems and plays that won him the 1992 Nobel Prize in Literature.

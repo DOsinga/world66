@@ -13,6 +13,7 @@ tags:
 title: Sheikh Zayed Grand Mosque
 type: poi
 story: "The carpet that fills the main prayer hall took 1,200 weavers in Iran two years to make. It is a single piece, weighs 35 tonnes, and is so large that workers crawl underneath it through a network of channels to remove dust."
+score: 9.8
 ---
 
 The largest mosque in the UAE and one of the largest in the world, able to accommodate over 40,000 worshippers. Completed in 2007 and named for the country's founding ruler, it was built in white Macedonian marble inlaid with semi-precious stones — lapis lazuli, mother-of-pearl, jasper, amethyst — laid into floral arabesques across the courtyards.

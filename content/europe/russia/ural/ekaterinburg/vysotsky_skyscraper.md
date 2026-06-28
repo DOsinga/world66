@@ -13,6 +13,7 @@ story: >
   illegal but circulated on illegally copied cassette tapes across the entire country. His death
   in 1980 caused an unofficial public mourning that the Soviet state tried to suppress. Naming
   a skyscraper after him in Ekaterinburg is a quietly pointed gesture.
+score: 7.7
 ---
 
 The Vysotsky Building is one of the tallest buildings in Russia outside Moscow and Saint Petersburg, and its observation deck on the 52nd floor offers the best panoramic view of Ekaterinburg. On a clear day you can see the Ural Mountains to the west and follow the Iset River as it threads through the city. The view makes visible what is hard to appreciate on the ground: the contrast between the 18th-century merchant city on the hills to the north, the Soviet-era constructivist buildings in the centre, and the glass towers of the modern business district rising along the river.

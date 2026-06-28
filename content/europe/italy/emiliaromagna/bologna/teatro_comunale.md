@@ -8,6 +8,7 @@ snippet: Bologna's grand opera house, one of the most important venues in Italy
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 The Teatro Comunale opened in 1763 to a design by Antonio Galli Bibiena. The bell-shaped auditorium is the work of the Bolognese family of stage designers who set the European template for opera-house architecture in the eighteenth century. The acoustic is excellent; the seasons concentrate on opera and symphonic concerts.

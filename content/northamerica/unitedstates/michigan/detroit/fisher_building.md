@@ -12,6 +12,7 @@ tags:
 neighbourhood: New Center
 title: Fisher Building
 type: poi
+score: 8.8
 ---
 
 The Fisher Building, completed in 1928 to house the Fisher brothers (of Fisher Body) and their fortune, was designed by Albert Kahn with a budget for materials that no developer would touch today. The lobby is faced with 40 varieties of marble and decorated with bronze, frescoes, and mosaics. The exterior was originally clad in granite and limestone with a roof of gilded copper tile, and the building won the 1929 Architectural League of New York silver medal for the best commercial building in America.

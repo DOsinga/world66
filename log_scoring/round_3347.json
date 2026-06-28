@@ -1,0 +1,200 @@
+{
+  "round": 3347,
+  "timestamp": "2026-06-13T22:47:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 9.3491,
+      "prior_variance": 0.342976,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 5.5298,
+      "prior_variance": 0.156199,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 6.1423,
+      "prior_variance": 0.141484,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 6.0979,
+      "prior_variance": 0.168003,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 6.7422,
+      "prior_variance": 0.140828,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.7489,
+      "prior_variance": 0.186973,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york",
+      "prior_score": 6.52,
+      "prior_variance": 0.163421,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 1.676,
+      "prior_variance": 0.135897,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 1.4914,
+      "prior_variance": 0.127117,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 1.4683,
+      "prior_variance": 0.129046,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -1.1609,
+      "prior_variance": 0.128464,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": -0.1129,
+      "prior_variance": 0.110842,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": -0.3499,
+      "prior_variance": 0.129099,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": 0.2569,
+      "prior_variance": 0.121636,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.3632,
+      "prior_variance": 0.137695,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.2569,
+      "prior_variance": 0.137655,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.337,
+      "prior_variance": 0.124254,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.5906,
+      "prior_variance": 0.132041,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.6827,
+      "prior_variance": 0.117734,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -1.7807,
+      "prior_variance": 0.117627,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -2.1717,
+      "prior_variance": 0.116359,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -7.1599,
+      "prior_variance": 0.152799,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.278,
+      "prior_variance": 0.151781,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -7.9989,
+      "prior_variance": 0.197153,
+      "prior_n": 10
+    }
+  ]
+}

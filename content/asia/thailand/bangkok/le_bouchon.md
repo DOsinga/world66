@@ -5,10 +5,12 @@ done:
 latitude: 13.7289
 longitude: 100.5326
 phone: +66-2-2349109
+score: 5.2
 snippet: Cosy French bistro tucked into Patpong's neon strip
 tags:
 - eating_out
 - restaurant
+- silom
 title: Le Bouchon
 type: poi
 ---

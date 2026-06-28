@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 Notre Dame de Miséricorde is the Catholic cathedral of Cotonou, and one of the most architecturally distinctive buildings in the city. The facade is tiled in alternating burgundy and white horizontal stripes — an arresting pattern that looks simultaneously colonial and vaguely Moorish, unlike almost anything else in West Africa. The interior is cooler than the street outside and worth a few minutes even for secular visitors.

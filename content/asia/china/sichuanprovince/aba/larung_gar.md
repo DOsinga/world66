@@ -15,6 +15,7 @@ story: >
   world. Chinese authorities ordered demolitions in 2001 and again in 2016,
   reducing the community significantly. What remains is still one of the most
   extraordinary concentrations of Buddhist practice anywhere on earth.
+score: 9.2
 ---
 
 Larung Gar — the Larung Five Sciences Buddhist Institute — sits in a narrow valley near Serta town, roughly 200 kilometres southeast of Aba. From a hillside above, it is a breathtaking sight: thousands of small red wooden cabins covering every inch of the valley slopes, home to monks, nuns, and students who have come from across the Tibetan world to study. It is one of the most important centres of Tibetan Buddhist learning, founded by the revered Khenchen Jigme Phuntsok in 1980.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.7395
 longitude: -5.1668
+score: 8.0
 ---
 
 The Palacio de Mondragón is the finest building in Ronda's old Moorish town. Originally built as the palace of the Moorish king, it was rebuilt after the Christian reconquest in 1485 and now houses the municipal museum. The interior mixes Moorish arches, Renaissance courtyards, and Mudéjar tilework; the views from the garden terrace at the back, hanging directly over the gorge, are extraordinary.

@@ -1,10 +1,12 @@
 ---
 latitude: 13.7399
 longitude: 100.497
+score: 7.8
 snippet: Frenetic wholesale flower market best visited before dawn
 tags:
 - shopping
 - market
+- thonburi
 title: Pak Klong Market
 type: poi
 ---

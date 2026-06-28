@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A 350-foot Victorian carriage tunnel cut through sandstone, that was used by almost nobody.
 story: "The Duke of Newcastle hired the engineer T.C. Hine in 1855 to cut a grand carriage tunnel between his Park Estate and Derby Road. By the time it was finished four years later the slope at the far end turned out too steep for carriages — and the tunnel was effectively obsolete the day it opened."
+score: 6.9
 ---
 
 The Park Tunnel is one of Nottingham's better-kept oddities: a high, arched passage cut 350 feet through solid sandstone in the 1850s, intended as a carriage road between the genteel Park Estate and Derby Road, but rendered useless by an engineering miscalculation before it even opened.

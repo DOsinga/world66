@@ -16,6 +16,7 @@ story: >
   the bodies. The work gangs seem to have taken pride in what they were building.
 sources:
   - https://en.wikipedia.org/wiki/Giza_pyramid_complex
+score: 8.4
 ---
 
 The myth that the pyramids were built by slaves, popularised by Herodotus and kept alive by Hollywood, was definitively refuted when archaeologists Zahi Hawass and Mark Lehner excavated a workers' settlement south of the pyramids in the 1990s. The village shows organized barracks that housed an estimated 20,000 workers at a time, along with bakeries capable of producing thousands of loaves a day, breweries, fish-drying facilities, and a field hospital with evidence of bone-setting and even brain surgery.

@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Sicilia
 type: poi
+score: 4.8
 ---
 
 A popular pizzeria on Taikos gatve that is always busy, which tells you something. Ironically, the pizza is probably the weakest item on the menu. Go for the Lithuanian dishes instead: the saltibarsciai (cold beet soup), the koldunai (meat-stuffed dumplings in cream sauce), or the chicken fillet stuffed with mushrooms. Portions are generous and prices are low.

@@ -9,7 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_22.jpg
 latitude: 20.9084
 loc_type: city
 longitude: 107.0683
-score: 0.93
+score: 9.59
+snippet: Vietnamese karst bay where nearly two thousand limestone islands rise from
+  the Gulf of Tonkin.
 tags:
 - natural_wonder
 - cruising

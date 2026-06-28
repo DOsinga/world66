@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - cafe
 - downhill
+score: 6.6
 ---
 
 Stokes have been roasting coffee in Lincoln since 1902 — their main roastery is still in the city — and the High Bridge Café, in the 16th-century half-timbered house perched directly on Lincoln's medieval bridge over the Witham, has been the company's flagship since the 1930s. The dining rooms are spread across two creaking upper floors; the windows look directly down into the river and across to the medieval guildhall.

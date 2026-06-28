@@ -14,6 +14,7 @@ story: >
   sweeping off the surrounding mountains keep the vegetation from reclaiming the
   sand, leaving a pocket of dunes that looks genuinely incongruous in the
   boreal landscape.
+score: 7.8
 ---
 
 A short walk north of town, the Carcross Desert is one of the Yukon's most improbable sights: a series of open sand dunes covering about two and a half square kilometres, surrounded entirely by boreal forest and mountains. At first glance it seems like a trick of the eye — bare, wind-rippled sand in the middle of the northern wilderness, with Nares Lake glittering beyond.

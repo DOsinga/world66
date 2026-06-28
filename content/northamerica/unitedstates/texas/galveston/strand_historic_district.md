@@ -10,6 +10,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/The_Strand,_Galveston,_Texas
+score: 9.0
 ---
 
 The Strand, running along the north side of Galveston Island facing Galveston Bay, was the commercial heart of what was once the largest and wealthiest city in Texas. In the decades before 1900 this six-block stretch of cast-iron-fronted Victorian commercial buildings was known as the "Wall Street of the Southwest," processing cotton, grain, and general cargo through one of the busiest ports in the Gulf.

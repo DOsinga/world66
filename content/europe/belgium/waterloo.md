@@ -4,13 +4,15 @@ done:
   location_enrich: '2026-06-02'
 latitude: 50.703286
 longitude: 4.408428
+snippet: Belgian commuter town south of Brussels, defined by the battlefield that
+  ended Napoleon's rule.
 title: Waterloo
 type: location
-score: 0.49
+score: 7.94
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Battle_of_Waterloo
-  - https://en.wikipedia.org/wiki/Waterloo,_Belgium
+- https://en.wikipedia.org/wiki/Battle_of_Waterloo
+- https://en.wikipedia.org/wiki/Waterloo,_Belgium
 image: waterloo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belgique_Butte_du_Lion_dit_de_Waterloo.jpg
 image_license: CC BY-SA 3.0

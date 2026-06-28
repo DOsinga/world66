@@ -3,6 +3,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 53.367458
 longitude: -6.167425
+score: 6.8
 snippet: Long sandy beach on Bull Island with bird sanctuary
 tags:
 - things_to_do

@@ -5,7 +5,9 @@ done:
 latitude: 44.0061
 loc_type: city
 longitude: -97.1142
-score: 0.31
+score: 5.93
+snippet: Small South Dakota university city on Lake Herman, with prairie parks and
+  Dakota State campus life.
 title: Madison
 type: location
 ---

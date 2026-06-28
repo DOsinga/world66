@@ -14,6 +14,7 @@ story: >
   could not hold it, the women performed jauhar — ritual self-immolation — rather
   than face capture. The men then rode out in saffron robes for a last charge.
   The fort fell, but the defiance became legend throughout Rajputana.
+score: 8.7
 ---
 
 Ranthambore Fort rises from a sheer-sided rocky outcrop above the forest, a thousand years of Rajput history enclosed within a national park full of tigers. It is a UNESCO World Heritage Site (as part of the Hill Forts of Rajasthan) and one of the more atmospheric monuments in the country — partly because you approach it through the jungle, partly because very few tourists make the effort.

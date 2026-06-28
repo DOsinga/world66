@@ -9,6 +9,7 @@ tags:
   - park
   - swimming
 snippet: "Lake-and-mountain state park ten miles east, with a public beach and camping."
+score: 7.0
 ---
 
 Rocky Gap is the closest state park to Cumberland — about 15 minutes east on I-68. The centrepiece is Lake Habeeb, a 243-acre reservoir wrapped in steep wooded ridges. There is a public swimming beach, a campground with 278 sites, hiking trails climbing to Evitts Mountain Overlook, and a small resort with a casino at the southern end.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.9748
 longitude: -122.5310
+score: 7.5
 ---
 
 Sol Food is a San Rafael institution serving Puerto Rican food — rice and beans, roast pork, plantains, and hefty sandwiches — in a brightly painted space that looks like a Caribbean street corner dropped into downtown Marin. The line stretches out the door on weekends, but it moves quickly and the food is worth it.

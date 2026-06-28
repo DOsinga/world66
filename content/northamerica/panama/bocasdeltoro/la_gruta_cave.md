@@ -9,6 +9,7 @@ longitude: -82.2583
 story: "The cave doubles as an improvised roadside chapel — local Panamanians have placed a statue of the Virgin Mary on a stone ledge inside the entrance, and the cave has become a small pilgrimage site, incongruously positioned between the bats overhead and the clear spring water underfoot."
 sources:
   - https://en.wikipedia.org/wiki/Col%C3%B3n_Island
+score: 6.1
 ---
 
 La Gruta is a small bat cave in the centre of Isla Colón, a few kilometres from Bocas Town along the road toward Bluff Beach. The cave is easy to miss — it appears as a dark opening in a low limestone cliff beside the road — but inside it opens into chambers filled with thousands of bats hanging from the ceiling. A clear, shallow stream runs through the base of the cave, and it is possible to wade through the cave from one entrance to another.

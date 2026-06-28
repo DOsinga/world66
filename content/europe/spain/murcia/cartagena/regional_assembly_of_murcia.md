@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Regional Assembly of Murcia
 type: poi
+score: 5.6
 ---
 
 The Regional Assembly of Murcia sits in Cartagena rather than the regional capital, a small political oddity that says something about the city's historic weight. The building is contemporary, but its waterfront position makes it part of the civic face Cartagena shows to the harbour.

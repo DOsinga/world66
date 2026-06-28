@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 5.8120
 longitude: -55.1900
+score: 5.6
 ---
 
 The Zorg en Hoop airstrip, right within the city limits of Paramaribo, is one of the few urban airports still in regular operation in South America. Small propeller aircraft take off and land here continuously, making the short hop to villages deep in the rainforest interior. Watching the parade of light aircraft — Cessnas, DHC Twin Otters, small charter planes — is unexpectedly fascinating, a reminder of how remote much of Suriname is and how aviation knits it together.

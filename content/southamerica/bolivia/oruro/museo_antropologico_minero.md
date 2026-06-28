@@ -12,6 +12,7 @@ story: >
   mines — squat surrounded by offerings of coca, cigarettes, and alcohol.
   El Tío is said to own the minerals; miners make offerings to him before each
   shift in exchange for safety and a good vein.
+score: 7.4
 ---
 
 Beneath and alongside the Santuario del Socavón, the anthropological and mining museum occupies the tunnels and chambers of the original mine. The collection covers the pre-Columbian cultures of the Bolivian altiplano, the history of Oruro's mining industry, and the religious traditions that grew up around it.

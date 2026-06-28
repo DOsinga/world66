@@ -11,7 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Efate_Beach_1.jpg
 latitude: -17.6739
 loc_type: city
 longitude: 168.3648
-score: 0.54
+score: 7.77
+snippet: Vanuatu's most populated island, ringed by reefs and centred on Port Vila's
+  natural harbour.
 title: Efate
 type: location
 ---

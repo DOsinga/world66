@@ -10,8 +10,11 @@ longitude: 2.1454
 sources:
 - https://en.wikipedia.org/wiki/Albi
 - https://en.wikivoyage.org/wiki/Albi
+snippet: Tarn river city of red-brick Gothic power, anchored by Sainte-Cécile Cathedral
+  and Toulouse-Lautrec's legacy.
 title: Albi
 type: location
+score: 8.65
 ---
 
 Albi is a small city in the Tarn department that contains two of the most remarkable buildings in southern France, both of which it carries with remarkable composure. The [Cathédrale Sainte-Cécile](/europe/france/midi/languedoc/albi/cathedrale_sainte_cecile) — the largest brick Gothic cathedral in the world — rises from the hilltop above the Tarn river in warm red-brown brick, and it is genuinely astonishing: the walls are so thick and so tall that from outside it looks more like a fortress than a church, which is precisely what it was designed to be. Next door, the Palais de la Berbie houses the [Musée Toulouse-Lautrec](/europe/france/midi/languedoc/albi/musee_toulouse_lautrec), the world's largest collection of work by Henri de Toulouse-Lautrec, who was born in Albi in 1864.

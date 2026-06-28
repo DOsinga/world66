@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - bar
 story: "The facade is made from 6,600 reclaimed antique window shutters, sourced from villages across Java and assembled into a fan-shaped wall by Indonesian architect Andra Matin. The hotel that grew up behind it claims to be the world's first zero-waste resort — even the lobby furniture is made from recycled plastic ocean trash."
+score: 8.0
 ---
 
 Potato Head opened in 2010 and effectively invented the Bali beach club as it now exists. The amphitheatre-shaped venue, with its arc of antique window shutters facing the ocean, has a swimming pool, several bars, a clutch of restaurants, and lawn space packed with day-beds from mid-afternoon onwards.

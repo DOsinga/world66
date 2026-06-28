@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.3490
 longitude: 11.9380
+score: 7.3
 ---
 
 The Bohusleden is a long-distance hiking trail that runs for about 370 kilometres through the Bohuslän province, from Lindome near Gothenburg in the south to Strömstad on the Norwegian border. The trail passes through Uddevalla and provides access to the rocky, lake-scattered landscape of the interior as well as the coastal scenery to the west.

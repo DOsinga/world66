@@ -10,7 +10,9 @@ image_source: https://www.flickr.com/photos/79721788@N00/6556996125
 latitude: 35.557727
 loc_type: city
 longitude: 45.432802
-score: 0.37
+score: 6.31
+snippet: Kurdish cultural city with museums, poetry, and mountain-framed streets distinct
+  from neighbouring Erbil.
 title: Sulaymaniyah
 type: location
 ---

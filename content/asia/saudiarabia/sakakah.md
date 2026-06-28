@@ -5,7 +5,9 @@ done:
 latitude: 29.978401
 loc_type: city
 longitude: 40.20477
-score: 0.21
+score: 5.09
+snippet: Northwestern Saudi city in Al-Jawf, surrounded by olive groves, rock inscriptions,
+  and oasis ruins
 title: Sakakah
 type: location
 ---

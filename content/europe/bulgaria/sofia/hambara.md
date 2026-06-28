@@ -6,6 +6,7 @@ longitude: 23.3253
 tags:
   - bars_and_cafes
   - bar
+score: 7.2
 ---
 
 A candlelit cellar bar that does not appear to have any official sign — the entrance is an unmarked door on a small lane between Vasil Levski and Tsar Shishman. Inside, vaulted brick rooms with no electric light, only candles, and live jazz several nights a week.

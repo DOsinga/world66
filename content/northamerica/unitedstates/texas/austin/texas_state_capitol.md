@@ -10,6 +10,7 @@ latitude: 30.2747
 longitude: -97.7403
 story: >
   The Texas Capitol stands seven feet taller than the US Capitol in Washington — a point of enormous Texas pride. It was built in 1888 using sunset red granite quarried near Marble Falls, and the state paid for the construction by giving 3 million acres of West Texas land to the contractors. That land eventually became the largest cattle ranch in the world.
+score: 8.9
 ---
 
 The pink granite dome of the Texas State Capitol dominates the northern end of Congress Avenue and is one of the finest state capitols in America. Completed in 1888, it is taller than the national Capitol in Washington — a fact Texans will tell you without being asked — and its interior is as ornate as the exterior promises.

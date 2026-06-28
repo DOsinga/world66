@@ -4,7 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 23.5169
 longitude: -75.7861
+score: 5.3
 snippet: Casual George Town cafe, reliable breakfasts and pizzas on patio
+tags:
+- eating_out
+- restaurant
+- cafe
 title: Driftwood Cafe
 type: poi
 ---

@@ -16,10 +16,6 @@ snippet: British Columbia capital on Vancouver Island, centred on the Inner Harb
   and Parliament Buildings.
 title: Victoria
 type: location
-<<<<<<< HEAD
-loc_type: city
-=======
->>>>>>> origin/main
 ---
 
 *North America > Canada > [British Columbia](/northamerica/canada/britishcolumbia) > Victoria*

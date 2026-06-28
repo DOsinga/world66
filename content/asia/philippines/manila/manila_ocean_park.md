@@ -1,6 +1,6 @@
 ---
-latitude: 14.5851
-longitude: 120.9826
+latitude: 14.58003
+longitude: 120.97261
 score: 6.5
 snippet: Oceanarium and marine theme park beside Rizal Park with an impressive shark
   tank walk-through

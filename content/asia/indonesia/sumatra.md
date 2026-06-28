@@ -27,5 +27,6 @@ For travellers, Sumatra is a different Indonesia from Java or Bali — less deve
 - [Lake Toba](/asia/indonesia/sumatra/laketoba)
 - [Bukittinggi](/asia/indonesia/sumatra/bukittinggi)
 - [Padang](/asia/indonesia/sumatra/padang)
+- [Bengkulu](/asia/indonesia/sumatra/bengkulu)
 - [Pulau Nias](/asia/indonesia/sumatra/pulaunias)
 - [Palembang](/asia/indonesia/sumatra/palembang)

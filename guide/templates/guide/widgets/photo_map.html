@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html class="w66-widget-page" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World66 Photo Map</title>
+  <link rel="stylesheet" href="{% static 'css/widgets.css' %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..400&family=Inter:wght@300;400;500;600&display=swap">
+</head>
+<body>
+  <div class="w66-pm" id="photo-map">
+    <a href="/" class="w66-pm-brand" target="_top" aria-label="World66 home">World<span></span>66</a>
+    <div class="w66-pm-map" data-photo-map></div>
+    <div class="w66-pm-card" data-photo-map-card></div>
+    <div class="w66-pm-actions">
+      <button class="w66-ge-action" data-photo-map-fullscreen type="button" aria-label="View photo thumbnails full screen">Full screen</button>
+      <button class="w66-ge-action" data-photo-map-embed type="button">Embed</button>
+    </div>
+    <div class="w66-ge-embed" data-photo-map-embed-dialog hidden>
+      <div class="w66-ge-embed-panel" role="dialog" aria-modal="true" aria-labelledby="photo-map-embed-title">
+        <div class="w66-ge-embed-head">
+          <h2 class="w66-ge-embed-title" id="photo-map-embed-title">Embed this photo view</h2>
+          <button class="w66-ge-embed-close" data-photo-map-embed-close type="button" aria-label="Close embed instructions">&times;</button>
+        </div>
+        <textarea class="w66-ge-embed-code" data-photo-map-embed-code readonly>{{ embed_code }}</textarea>
+        <div class="w66-ge-embed-actions">
+          <button class="w66-ge-action" data-photo-map-embed-copy type="button">Copy code</button>
+        </div>
+        <ul class="w66-ge-embed-help">
+          <li><strong>Wix:</strong> Add Elements, Embed Code, then Embed HTML and paste this code.</li>
+          <li><strong>Squarespace:</strong> Add an Embed block, choose code mode, then paste this code.</li>
+          <li><strong>Webflow:</strong> Add a Code Embed element and paste this code.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="{% static 'js/widgets/photo-map.js' %}"></script>
+  <script>
+  (function() {
+    window.World66Widgets.photoMap({
+      root: '#photo-map',
+      metadataUrl: '{% static "widgets/photo-map.json" %}',
+      embedUrl: '{{ widget_url|escapejs }}',
+      embedHeight: '560',
+      linkTarget: '_top'
+    });
+  })();
+  </script>
+</body>
+</html>

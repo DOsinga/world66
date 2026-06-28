@@ -2,6 +2,7 @@
 latitude: 37.96348
 longitude: 23.72458
 score: 6.8
+snippet: Koukaki wine bar with a deep list of Greek natural bottles
 tags:
 - bars_and_cafes
 - bar

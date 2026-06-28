@@ -2,6 +2,8 @@
 latitude: 37.97232
 longitude: 23.71813
 score: 7.2
+snippet: 1842 hilltop observatory opposite the Acropolis with the historic Doridis
+  telescope
 tags:
 - things_to_do
 - sight

@@ -2,6 +2,7 @@
 latitude: 37.97902
 longitude: 23.71239
 score: 6.5
+snippet: rooftop bar, restaurant, and live-music venue above the Gazi gasworks
 tags:
 - bars_and_cafes
 - bar

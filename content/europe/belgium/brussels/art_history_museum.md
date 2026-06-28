@@ -2,6 +2,7 @@
 latitude: 50.83985
 longitude: 4.3937
 score: 6.8
+snippet: encyclopaedic Cinquantenaire collection of antiquities and decorative arts
 tags:
 - things_to_do
 - museum

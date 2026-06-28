@@ -2,6 +2,8 @@
 latitude: 37.97856
 longitude: 23.71148
 score: 8.0
+snippet: converted 19th-century gasworks, now a cultural centre with the Industrial
+  Gas Museum
 tags:
 - things_to_do
 - sight

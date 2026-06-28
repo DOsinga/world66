@@ -2,6 +2,7 @@
 latitude: 50.83681
 longitude: 4.38148
 score: 6.5
+snippet: celebrated Place Jourdan frites stand frying since 1948
 tags:
 - eating_out
 - restaurant

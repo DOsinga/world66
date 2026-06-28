@@ -2,6 +2,7 @@
 latitude: 4.69444
 longitude: -74.03018
 score: 7.0
+snippet: farm-to-table pioneer near the Usaquén plaza known for weekend brunch
 tags:
 - eating_out
 - restaurant

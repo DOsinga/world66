@@ -2,6 +2,7 @@
 latitude: 37.98008
 longitude: 23.71119
 score: 6.6
+snippet: modern Gazi taverna serving updated village cooking and barrel wine
 tags:
 - eating_out
 - restaurant

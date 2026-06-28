@@ -2,6 +2,8 @@
 latitude: 37.97653
 longitude: 23.72056
 score: 8.2
+snippet: pedestrian promenade circling the Acropolis with cafés and floodlit ruin
+  views
 tags:
 - things_to_do
 - sight

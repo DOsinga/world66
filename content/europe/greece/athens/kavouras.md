@@ -2,6 +2,7 @@
 latitude: 37.98591
 longitude: 23.73423
 score: 6.0
+snippet: late-night Exarchia souvlaki institution with live rebetiko upstairs
 tags:
 - eating_out
 - restaurant

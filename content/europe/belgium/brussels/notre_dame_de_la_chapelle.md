@@ -2,6 +2,7 @@
 latitude: 50.84153
 longitude: 4.35109
 score: 6.4
+snippet: 12th-century church on the Marolles edge where Bruegel is buried
 tags:
 - things_to_do
 - sight

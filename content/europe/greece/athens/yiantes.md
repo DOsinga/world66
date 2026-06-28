@@ -2,6 +2,7 @@
 latitude: 37.98543
 longitude: 23.73598
 score: 7.0
+snippet: courtyard farm-to-table taverna off Exarchia's Valtetsiou Street
 tags:
 - eating_out
 - restaurant

@@ -2,6 +2,7 @@
 latitude: 50.82747
 longitude: 4.37177
 score: 6.5
+snippet: streamlined 1930s broadcasting building, now an Ixelles cultural centre
 tags:
 - things_to_do
 - sight

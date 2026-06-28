@@ -2,6 +2,7 @@
 latitude: 4.64543
 longitude: -74.06195
 score: 6.0
+snippet: triangular Chapinero plaza with a weekend craft market and bar scene
 tags:
 - things_to_do
 - sight

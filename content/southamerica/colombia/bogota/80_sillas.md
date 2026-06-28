@@ -2,6 +2,7 @@
 latitude: 4.69488
 longitude: -74.03162
 score: 6.8
+snippet: buzzy Usaquén seafood spot for ceviche and Pacific-coast cooking
 tags:
 - eating_out
 - restaurant

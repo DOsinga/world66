@@ -2,6 +2,7 @@
 latitude: 50.837
 longitude: 4.34584
 score: 7.0
+snippet: Marolles square hosting the city's daily flea market since 1873
 tags:
 - things_to_do
 - market

@@ -2,6 +2,7 @@
 latitude: 50.85027
 longitude: 4.34765
 score: 7.2
+snippet: stand-up fish stall on Place Sainte-Catherine for cheap fresh seafood
 tags:
 - eating_out
 - restaurant

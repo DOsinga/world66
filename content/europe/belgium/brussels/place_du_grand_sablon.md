@@ -2,6 +2,7 @@
 latitude: 50.84118
 longitude: 4.35487
 score: 6.8
+snippet: elegant sloping square of antique dealers, chocolatiers, and a weekend market
 tags:
 - things_to_do
 - sight

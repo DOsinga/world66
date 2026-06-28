@@ -2,6 +2,7 @@
 latitude: 50.84862
 longitude: 4.35627
 score: 7.0
+snippet: 1928 café serving its own house gueuze and kriek
 tags:
 - bars_and_cafes
 - bar

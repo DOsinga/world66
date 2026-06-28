@@ -2,6 +2,7 @@
 latitude: 37.97533
 longitude: 23.73268
 score: 6.5
+snippet: cheerful mezedopoleio off Syntagma serving inventive Greek small plates
 tags:
 - eating_out
 - restaurant

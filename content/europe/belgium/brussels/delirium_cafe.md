@@ -2,6 +2,7 @@
 latitude: 50.84845
 longitude: 4.35383
 score: 6.0
+snippet: cavernous beer hall near the Galeries stocking over 2,000 beers
 tags:
 - bars_and_cafes
 - bar

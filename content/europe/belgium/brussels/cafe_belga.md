@@ -2,6 +2,7 @@
 latitude: 50.82704
 longitude: 4.3726
 score: 6.4
+snippet: big marble café in the Flagey building, social anchor of Ixelles
 tags:
 - bars_and_cafes
 - bar

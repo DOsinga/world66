@@ -2,6 +2,7 @@
 latitude: 50.85081
 longitude: 4.34853
 score: 6.2
+snippet: 19th-century church by Poelaert on the old fish-market square
 tags:
 - things_to_do
 - sight

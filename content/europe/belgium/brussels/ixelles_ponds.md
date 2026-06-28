@@ -2,6 +2,7 @@
 latitude: 50.82539
 longitude: 4.37197
 score: 6.3
+snippet: ornamental ponds lined with willows and Art Nouveau houses south of Flagey
 tags:
 - things_to_do
 - sight

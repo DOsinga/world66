@@ -2,6 +2,8 @@
 latitude: 37.9878
 longitude: 23.73177
 score: 7.4
+snippet: neoclassical university where the 1973 student uprising against the junta
+  began
 tags:
 - things_to_do
 - sight

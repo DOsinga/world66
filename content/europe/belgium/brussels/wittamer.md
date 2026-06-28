@@ -2,6 +2,7 @@
 latitude: 50.84125
 longitude: 4.35506
 score: 6.6
+snippet: pink-fronted Sablon pâtisserie and chocolate house since 1910
 tags:
 - bars_and_cafes
 - cafe

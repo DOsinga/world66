@@ -2,6 +2,7 @@
 latitude: 50.83885
 longitude: 4.35052
 score: 6.2
+snippet: classic Marolles brasserie on Rue Haute serving honest Belgian plates
 tags:
 - eating_out
 - restaurant

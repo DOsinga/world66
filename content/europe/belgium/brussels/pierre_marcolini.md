@@ -2,6 +2,7 @@
 latitude: 50.84132
 longitude: 4.35366
 score: 6.5
+snippet: Sablon flagship of Belgium's most fashionable haute-couture chocolatier
 tags:
 - bars_and_cafes
 - cafe

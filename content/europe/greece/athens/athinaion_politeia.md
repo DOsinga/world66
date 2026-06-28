@@ -2,6 +2,7 @@
 latitude: 37.97442
 longitude: 23.71979
 score: 6.5
+snippet: all-day café-restaurant in a neoclassical mansion below the Acropolis
 tags:
 - bars_and_cafes
 - cafe

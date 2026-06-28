@@ -2,6 +2,7 @@
 latitude: 50.85253
 longitude: 4.34716
 score: 6.6
+snippet: old-school quayside brasserie serving classic Belgian seafood
 tags:
 - eating_out
 - restaurant

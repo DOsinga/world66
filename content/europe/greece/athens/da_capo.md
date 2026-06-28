@@ -2,6 +2,7 @@
 latitude: 37.97749
 longitude: 23.74087
 score: 6.2
+snippet: see-and-be-seen Kolonaki café on pedestrian Tsakalof Street
 tags:
 - bars_and_cafes
 - cafe

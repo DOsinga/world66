@@ -2,6 +2,7 @@
 latitude: 37.97655
 longitude: 23.7354
 score: 7.2
+snippet: rooftop restaurant atop the Hotel Grande Bretagne facing the Acropolis
 tags:
 - eating_out
 - restaurant

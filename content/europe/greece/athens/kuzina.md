@@ -2,6 +2,8 @@
 latitude: 37.97644
 longitude: 23.72206
 score: 6.8
+snippet: modern Greek restaurant on Thiseio's Adrianou Street with an Acropolis-view
+  roof
 tags:
 - eating_out
 - restaurant

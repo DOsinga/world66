@@ -2,6 +2,8 @@
 latitude: 37.97447
 longitude: 23.7086
 score: 7.8
+snippet: Benaki Museum's industrial Pireos Street annexe staging major contemporary
+  exhibitions
 tags:
 - things_to_do
 - museum

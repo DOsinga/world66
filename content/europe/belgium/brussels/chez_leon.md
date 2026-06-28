@@ -2,6 +2,7 @@
 latitude: 50.84816
 longitude: 4.35402
 score: 5.8
+snippet: Rue des Bouchers institution serving moules-frites since 1893
 tags:
 - eating_out
 - restaurant

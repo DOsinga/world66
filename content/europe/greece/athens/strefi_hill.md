@@ -2,6 +2,7 @@
 latitude: 37.98819
 longitude: 23.73897
 score: 7.0
+snippet: pine-covered Exarchia hill with stone paths and rooftop Acropolis views
 tags:
 - things_to_do
 - sight

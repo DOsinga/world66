@@ -2,6 +2,7 @@
 latitude: 37.9648
 longitude: 23.72672
 score: 6.0
+snippet: pedestrian café-and-restaurant strip at the heart of Koukaki
 tags:
 - bars_and_cafes
 - cafe

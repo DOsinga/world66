@@ -2,6 +2,7 @@
 latitude: 50.83993
 longitude: 4.37859
 score: 6.8
+snippet: free Parc Léopold museum telling Europe's 20th-century story
 tags:
 - things_to_do
 - museum

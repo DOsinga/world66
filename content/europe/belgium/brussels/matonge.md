@@ -1,14 +1,17 @@
 ---
 latitude: 50.83707
 longitude: 4.36413
-score: 6.4
-snippet: Brussels's vivid Congolese quarter of salons, grocers, and restaurants
 tags:
 - things_to_do
-- sight
-- ixelles
+- neighbourhood
 title: Matongé
-type: poi
+type: neighbourhood
+image: matonge.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bruxelles_Matonge_en_Couleurs_2009_002.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Varech
 ---
 
-Brussels's African quarter, named after a district of Kinshasa — a few dense streets of Congolese hair salons, grocers, music shops, and restaurants. The most vivid immigrant neighbourhood in the city and a fine place to eat West African food.
+Matongé is Brussels's African quarter, a few dense, vivid streets behind the Porte de Namur and named after a lively district of Kinshasa. Congolese families settled here from the 1960s, and it is now the cultural heart of the city's Central African community — wax-print fabric shops, hair salons, record stores, grocers stacked with plantain and cassava, and the smell of grilled fish and *moambe* drifting out of the restaurants.
+
+The covered **Galerie de la Porte de Namur** and the **Chaussée de Wavre** are the spine of it, busiest on Saturdays and during the summer Matongé street festival. Come to eat — Congolese, Senegalese, and Rwandan kitchens sit within a block of each other — and to browse the fabric and music shops. It is one of the most distinctive corners of Brussels, a short walk from both the Sablon and Ixelles proper.

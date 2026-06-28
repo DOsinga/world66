@@ -23,7 +23,7 @@ Ethiopia is unlike anywhere else on earth. It is the only African country never 
 
 The Historic Route through the northern highlands is what draws most travelers. [Lalibela](/africa/ethiopia/lalibela) has eleven medieval churches carved from solid rock, still in active use after eight centuries. [Axum](/africa/ethiopia/axum) was the seat of a great trading empire and claims to hold the Ark of the Covenant. [Gondar](/africa/ethiopia/gondar) has a compound of seventeenth-century castles that look as though they belong in Europe. [Bahar Dar](/africa/ethiopia/bahardar) sits on Lake Tana, where island monasteries hide illuminated manuscripts, and the Blue Nile Falls crash nearby.
 
-The south is a different world entirely. The lower Omo Valley is home to dozens of indigenous communities — the Mursi, Hamer, Karo, and others — who maintain traditions that have changed little over centuries. The Rift Valley lakes stretch south from [Addis Ababa](/africa/ethiopia/addisababa), drawing birdwatchers and anyone looking for a break from the highland chill.
+The south is a different world entirely. The lower Omo Valley is home to dozens of indigenous communities — the Mursi, Hamer, Karo, and others — who maintain traditions that have changed little over centuries. The Rift Valley lakes stretch south from [Addis Ababa](/africa/ethiopia/addisababa) through [Hawassa](/africa/ethiopia/hawassa), drawing birdwatchers and anyone looking for a break from the highland chill.
 
 The east has its own rewards. [Harar](/africa/ethiopia/harar) is a walled city with 82 mosques and narrow alleys that feel more like Yemen than Africa. Every evening, men feed raw meat to wild hyenas at the city gates — one of the strangest sights on the continent.
 

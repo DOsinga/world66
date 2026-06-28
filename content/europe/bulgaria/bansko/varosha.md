@@ -1,9 +1,13 @@
 ---
-title: Varosha (Old Town)
-type: poi
-tags: [things_to_do, sight, neighbourhood]
 latitude: 41.8378
 longitude: 23.4869
+score: 7.8
+tags:
+- things_to_do
+- sight
+- neighbourhood
+title: Varosha (Old Town)
+type: poi
 ---
 
 Varosha is Bansko's old quarter — the original town that existed before the gondola, the ski hotels and the apartment blocks. The streets are narrow, cobbled and lined with high stone walls; behind them, two- and three-storey Revival-era houses with overhanging wooden upper floors and stout wooden gates.

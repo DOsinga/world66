@@ -2,6 +2,7 @@
 address: Piața Arcului de Triumf, Bucharest
 latitude: 44.4672
 longitude: 26.0781
+score: 7.3
 snippet: Romania's triumphal arch on Șoseaua Kiseleff
 story: The original wooden arch was thrown up in 1878 in just three weeks to welcome
   Romanian troops returning from the War of Independence. The current stone version,

@@ -2,15 +2,15 @@
 date: 26 January
 email: info@australiaday.gov.au
 phone: 02 6120 0600
+score: 6.8
 snippet: National public holiday marking the 1788 British landing, celebrated nationwide
 tags:
 - things_to_do
 - festival
 - festivals
 title: Australia Day
-type: poi
+type: theme
 url: www.australiaday.gov.au
-score: 6.8
 ---
 
 Australia Day falls on 26 January, commemorating the arrival of the First Fleet at Port Jackson in 1788. It's a public holiday in every state and territory, marked by fireworks, outdoor concerts, citizenship ceremonies, and the Australian of the Year awards. Major cities put on their biggest shows — Sydney Harbour is particularly spectacular.

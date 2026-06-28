@@ -1,7 +1,15 @@
 ---
+latitude: -28.242333
+longitude: 153.265167
 score: 7.9
+sources:
+- https://panedia.com/content/5915
+- https://parks.qld.gov.au/parks/springbrook/journeys
 tags:
 - things_to_do
+- sight
+- viewpoint
+- hiking
 title: Best of All Lookout
 type: poi
 ---

@@ -1,7 +1,12 @@
 ---
+latitude: 16.3167
+longitude: -61.05
 score: 7.4
 tags:
 - things_to_do
+- sight
+- walking
+- cycling
 title: Walking or Cycling the Coast Road
 type: poi
 ---

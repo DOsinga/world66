@@ -2,6 +2,7 @@
 address: Abbeydale Road South, Sheffield S7 2QW
 latitude: 53.3433
 longitude: -1.5061
+score: 7.4
 snippet: Preserved 18th-century scythe works powered by the River Sheaf
 tags:
 - things_to_do

@@ -1,9 +1,12 @@
 ---
+latitude: 64.0007258
+longitude: -21.1871075
+score: 6.7
+tags:
+- eating_out
+- restaurant
 title: Hot Spring Bread and Local Produce
 type: poi
-tags:
-  - eating_out
-score: 6.7
 ---
 
 The most distinctively local food experience in Hveragerði is rúgbrauð, the dense rye bread that is baked underground in geothermal pots. Restaurants and bakeries in town serve it alongside smoked Icelandic lamb, salted butter, and pickled fish — a combination that has been the standard local meal for generations. The bread has a slightly moist, sticky texture from the long slow cook, and a faint mineral character that you do not get from oven-baked versions.

@@ -1,7 +1,14 @@
 ---
+latitude: -28.1994
+longitude: 153.2297
 score: 8.7
+sources:
+- https://parks.qld.gov.au/parks/springbrook/maps-resources
 tags:
 - things_to_do
+- sight
+- waterfall
+- hiking
 title: Natural Bridge
 type: poi
 ---

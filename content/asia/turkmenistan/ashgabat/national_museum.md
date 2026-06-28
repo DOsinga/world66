@@ -1,7 +1,13 @@
 ---
+latitude: 37.88517
+longitude: 58.34903
 score: 8.4
+sources:
+- https://aroundus.com/p/165745888-ashgabat-national-museum-of-history
 tags:
 - things_to_do
+- museum
+- history
 title: National Museum of Turkmenistan
 type: poi
 ---

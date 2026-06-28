@@ -2,6 +2,7 @@
 address: Pinstone Street, Sheffield S1 2HH
 latitude: 53.3803
 longitude: -1.4694
+score: 6.9
 snippet: 1897 Renaissance Revival town hall with a Vulcan-topped tower
 tags:
 - things_to_do

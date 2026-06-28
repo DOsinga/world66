@@ -1,7 +1,11 @@
 ---
+latitude: 5.1162
+longitude: -74.4513
 score: 6.1
 tags:
 - things_to_do
+- adventure
+- river
 title: Tubing
 type: poi
 ---

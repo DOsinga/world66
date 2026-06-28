@@ -3,7 +3,7 @@ score: 5.3
 tags:
 - eating_out
 title: Dining Near the Sights
-type: poi
+type: theme
 ---
 
 The major tourist sights — the National Museum, the carpet museum, the monument complexes — are clustered along Archabil Avenue and the parallel ministry boulevards, but the eating options immediately around them are thin. Most visitors end up lunching at their hotel or at a restaurant their guide selects. If you have more freedom, the area east of the old city centre, around the bazaar on Teke Street and the residential streets behind the Russian Orthodox church, yields small restaurants and chaykhana where the food is local and the bill is very low.

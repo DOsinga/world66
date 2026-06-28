@@ -1,11 +1,12 @@
 ---
+latitude: 10.2
+longitude: 1.15
+score: 7.0
+tags:
+- things_to_do
+- sight
 title: Tata granaries
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 10.20
-longitude: 1.15
 ---
 
 The bottle-shaped clay granaries on the upper terrace of every tata are one of the most photogenic details of Somba architecture, and they reward looking at closely. Each compound has several, varying in size by what they hold: large ones for sorghum and millet, smaller ones for fonio, peanuts, sesame, and dried okra. The lids are thatched cones, weighted down with stones; the openings are sealed with mud at harvest and reopened a handful at a time through the lean months.

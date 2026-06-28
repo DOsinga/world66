@@ -1,7 +1,14 @@
 ---
+latitude: 40.0752
+longitude: 20.1387
 score: 8.1
+sources:
+- https://www.getyourguide.com/en-gb/the-cold-war-tunnel-l200907/
+- https://www.visitsaranda.net/see/cold-war-tunnel-gjirokastra/
 tags:
 - things_to_do
+- sight
+- history
 title: Cold War Tunnel
 type: poi
 ---

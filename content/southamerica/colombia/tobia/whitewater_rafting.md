@@ -1,7 +1,12 @@
 ---
+latitude: 5.1162
+longitude: -74.4513
 score: 8.5
 tags:
 - things_to_do
+- adventure
+- rafting
+- river
 title: Whitewater Rafting on the Río Negro
 type: poi
 ---

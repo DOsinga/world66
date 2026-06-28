@@ -1,9 +1,18 @@
 ---
+latitude: 19.3129
+longitude: -69.5688
+score: 7.4
+story: Playa Bonita earned its name — it simply means "beautiful beach" in Spanish
+  — from the early European settlers who discovered it in the 1980s. Several of the
+  first foreign residents in Las Terrenas built homes along the cliff above this beach
+  rather than in town, establishing the pattern of low-key, residential-style development
+  that distinguishes the Samaná Peninsula from the resort coast further west.
+tags:
+- things_to_do
+- sight
+- beach
 title: Playa Bonita
 type: poi
-tags: [things_to_do, sight, beach]
-story: Playa Bonita earned its name — it simply means "beautiful beach" in Spanish — from the early European settlers who discovered it in the 1980s. Several of the first foreign residents in Las Terrenas built homes along the cliff above this beach rather than in town, establishing the pattern of low-key, residential-style development that distinguishes the Samaná Peninsula from the resort coast further west.
-score: 7.4
 ---
 
 Playa Bonita lies a few kilometres west of Las Terrenas along the coast, and it lives up to its name — a curving bay of golden sand backed by a low headland and palm trees, with calm water and a domestic atmosphere that contrasts with the more commercial stretch in town. Several small hotels and restaurants sit along the road above the beach, and a few beach bars operate at the sand level.

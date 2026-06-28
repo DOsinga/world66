@@ -1,11 +1,15 @@
 ---
+latitude: -29.3135
+longitude: -50.8543
+score: 7.9
 snippet: Serra Gaúcha's best waterfall and most beautiful natural park, next to Gramado
 tags:
 - day_trips
 - park
+- waterfall
+- nature
 title: Canela and Parque do Caracol
 type: poi
-score: 7.9
 ---
 
 Canela sits just a few kilometres from Gramado in the Serra Gaúcha and makes an excellent companion destination: slightly less touristic than its famous neighbour but with better natural scenery. The main attraction is the **Parque Estadual do Caracol**, a few kilometres from the town centre, where a 131-metre waterfall drops through Atlantic Forest in one of the most impressive natural sights in southern Brazil. The access involves either a steep staircase descent (400-odd steps) or a cable car, both of which give you different and equally good perspectives of the falls.

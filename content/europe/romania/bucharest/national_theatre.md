@@ -2,6 +2,7 @@
 address: Bulevardul Nicolae Bălcescu 2, Bucharest
 latitude: 44.4366
 longitude: 26.1036
+score: 6.9
 snippet: Bucharest's main theatre, on University Square
 tags:
 - things_to_do

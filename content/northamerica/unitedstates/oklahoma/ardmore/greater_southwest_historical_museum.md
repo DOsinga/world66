@@ -1,7 +1,11 @@
 ---
+latitude: 34.1758
+longitude: -97.1521
 score: 6.8
 tags:
 - things_to_do
+- museum
+- history
 title: Greater Southwest Historical Museum
 type: poi
 ---

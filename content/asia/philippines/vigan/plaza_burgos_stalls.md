@@ -1,7 +1,11 @@
 ---
+latitude: 17.574395
+longitude: 120.388366
 score: 7.0
 tags:
 - eating_out
+- market
+- street_food
 title: Plaza Burgos Stalls
 type: poi
 ---

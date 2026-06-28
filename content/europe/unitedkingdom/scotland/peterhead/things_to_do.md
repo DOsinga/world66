@@ -1,8 +1,8 @@
 ---
-title: Things to do in Peterhead
-type: poi
-url: www.peterheadgolfclub.co.uk
 score: 2.8
+title: Things to do in Peterhead
+type: section
+url: www.peterheadgolfclub.co.uk
 ---
 
 Peterhead has two museums, it's own golf course, and reasonable amount of shops.

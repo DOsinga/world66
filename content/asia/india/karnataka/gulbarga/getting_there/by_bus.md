@@ -3,10 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 17.3297
 longitude: 76.8343
+score: 2.2
 snippet: Well-connected bus hub with overnight services to Bangalore
+tags:
+- getting_there
+- bus
 title: By Bus
 type: poi
-score: 2.2
 ---
 
 Gulbarga (now officially Kalaburagi) has strong bus connections across Karnataka and into neighboring states. The central bus stand is the main hub for both state-run KSRTC and private services.

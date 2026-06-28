@@ -1,7 +1,11 @@
 ---
+latitude: 25.0689
+longitude: 73.875
 score: 7.6
 tags:
 - things_to_do
+- sight
+- lake
 title: Rajsamand Lake
 type: poi
 ---

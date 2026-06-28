@@ -1,13 +1,14 @@
 ---
-title: Kouaba
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.25
 longitude: 1.2333
+score: 5.8
 sources:
-  - https://en.wikipedia.org/wiki/Kouaba
+- https://en.wikipedia.org/wiki/Kouaba
+tags:
+- things_to_do
+- sight
+title: Kouaba
+type: poi
 ---
 
 Kouaba is one of the more northerly Somba arrondissements, on the route between the Boukoumbé area and the road back up to Natitingou. The tata compounds here sit in slightly drier country, with thorn trees and more open ground between them, and the families are largely subsistence farmers — millet, sorghum, sesame, a few cattle.

@@ -4,10 +4,10 @@ done:
   poi_cleanup: '2026-04-19'
 email: info@northwalesbutterflies.org.uk
 phone: 01352 711198
-title: Things to do
-type: poi
-url: www.northwalesbutterflies.org.uk
 score: 4.7
+title: Things to do
+type: section
+url: www.northwalesbutterflies.org.uk
 ---
 
 **Eyarth Rocks Butterfly Conservation Reserve**

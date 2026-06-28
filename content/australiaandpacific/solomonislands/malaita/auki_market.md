@@ -1,7 +1,13 @@
 ---
+latitude: -8.7676
+longitude: 160.7034
 score: 7.5
+sources:
+- https://mapcarta.com/W857222190
+- https://latitude.to/map/sb/solomon-islands/cities/auki
 tags:
 - things_to_do
+- market
 title: Auki Market
 type: poi
 ---

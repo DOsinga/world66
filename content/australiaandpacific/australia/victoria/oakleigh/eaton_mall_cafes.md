@@ -1,7 +1,13 @@
 ---
+latitude: -37.8998
+longitude: 145.0888
 score: 7.5
+sources:
+- https://latitude.to/articles-by-country/au/australia/35924/oakleigh-victoria
 tags:
 - bars_and_cafes
+- cafe
+- greek_precinct
 title: Eaton Mall Cafes
 type: poi
 ---

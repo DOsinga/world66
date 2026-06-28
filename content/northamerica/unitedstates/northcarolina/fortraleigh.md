@@ -4,10 +4,14 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 35.93531
 longitude: -75.711828
+score: 8.0
 snippet: Site of America's Lost Colony mystery
+tags:
+- things_to_do
+- sight
+- historic_site
 title: Fort Raleigh
 type: poi
-score: 8.0
 ---
 
 Fort Raleigh National Historic Site on Roanoke Island commemorates the first English attempts at colonization in the New World. Between 1585 and 1587, Sir Walter Raleigh sponsored two expeditions that established settlements here. The second group of 116 men, women, and children -- including Virginia Dare, the first English child born in the Americas -- vanished without a trace. Their fate remains one of the great unsolved mysteries of American history.

@@ -1,9 +1,12 @@
 ---
+latitude: 41.8389
+longitude: 23.487
+score: 6.3
+tags:
+- things_to_do
+- museum
 title: Vaptsarov House Museum
 type: poi
-tags: [things_to_do, museum]
-latitude: 41.8389
-longitude: 23.4870
 ---
 
 Nikola Vaptsarov was born in this house in 1909, grew up to become one of Bulgaria's most-loved twentieth-century poets, joined the Communist resistance during the Second World War, and was executed by firing squad in Sofia in 1942 at the age of thirty-two. His birthplace is now a small museum dedicated to his life and work.

@@ -2,6 +2,7 @@
 address: Rechnaya Street 133, Bakhchysarai
 latitude: 44.7487
 longitude: 33.882
+score: 9.4
 snippet: Only surviving palace of the Crimean khans
 story: The Fountain of Tears in the courtyard inspired Pushkin's narrative poem 'The
   Fountain of Bakhchisaray', written in 1823 after the poet visited and heard the

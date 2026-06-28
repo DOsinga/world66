@@ -1,7 +1,7 @@
 ---
-title: Sights
-type: poi
 score: 8.3
+title: Sights
+type: section
 ---
 
 Vratza iz city fill with many very charming attraction.

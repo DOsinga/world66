@@ -1,7 +1,11 @@
 ---
+latitude: 29.698
+longitude: -8.983
 score: 7.8
 tags:
 - things_to_do
+- sight
+- land_art
 title: Les Rochers Peints
 type: poi
 ---

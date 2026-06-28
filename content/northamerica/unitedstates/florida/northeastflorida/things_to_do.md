@@ -2,10 +2,10 @@
 address: '4871 palm Coast Parkway NW #3,Palm Coast,FL. 32137'
 email: turtlekevin@bellsouth.net
 phone: 386-793-1283
-title: Things to do
-type: poi
-url: www.jolitabarry.com
 score: 1.0
+title: Things to do
+type: section
+url: www.jolitabarry.com
 ---
 
 ### Jolita and Kevin Barry

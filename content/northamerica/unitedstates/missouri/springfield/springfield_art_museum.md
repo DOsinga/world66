@@ -1,7 +1,11 @@
 ---
+latitude: 37.18892
+longitude: -93.2789
 score: 6.8
 tags:
 - things_to_do
+- museum
+- art
 title: Springfield Art Museum
 type: poi
 ---

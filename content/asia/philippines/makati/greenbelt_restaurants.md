@@ -1,7 +1,10 @@
 ---
+latitude: 14.553
+longitude: 121.0214
 score: 6.3
 tags:
 - eating_out
+- restaurant
 title: Greenbelt Restaurants
 type: poi
 ---

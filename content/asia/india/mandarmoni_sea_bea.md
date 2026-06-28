@@ -1,10 +1,13 @@
 ---
+latitude: 21.6686
+loc_type: feature
+longitude: 87.7126
 score: 6.2
 tags:
 - beaches
 - sight
 title: Mandarmani Beach
-type: poi
+type: location
 ---
 
 Mandarmani (sometimes Mandarmoni) is a long, flat beach in East Midnapore district of West Bengal, around four hours by road from Kolkata and just up the coast from the better-known resort town of Digha. The headline feature is the beach itself: roughly 13 kilometres of hard-packed sand, broad enough to drive on at low tide, which makes it one of the longest motorable beaches in India.

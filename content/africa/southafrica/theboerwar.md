@@ -5,11 +5,8 @@ done:
 isbn: 0380720019
 snippet: Definitive account of the 1899-1902 South African conflict
 subject: history
-tags:
-- books
 title: The Boer War
-type: poi
-score: 7.8
+type: theme
 ---
 
 Thomas Pakenham's 1979 history of the Boer War (1899-1902) remains the standard single-volume account of the conflict. At nearly 700 pages, it draws on previously unpublished sources to cover the war from the bungled British campaign through the scorched-earth tactics and concentration camps that turned international opinion against the Empire.

@@ -1,10 +1,10 @@
 ---
 address: Kasato – al. do Linguado, s/n; cep 48280-000
 phone: 71-3676-0174
-title: Eating Out
-type: poi
-url: www.kasato.com.br
 score: 3.9
+title: Eating Out
+type: section
+url: www.kasato.com.br
 ---
 
 As in most tourist meccas, the restaurants in PdF don’t seem to be counting on repeat business for their survival. While they are generally not stellar, they are at least varied: Italian, Mexican, German, and Brazilian food are within steps of each other on the main strip.

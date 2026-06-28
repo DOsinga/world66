@@ -2,8 +2,7 @@
 address: Tanah Rata hawker centre
 price: RM 1 for a pancake!
 title: Eating Out
-type: poi
-score: 4.0
+type: section
 ---
 
 Restuarants, cafe, hawker centres in Cameron Highlands.

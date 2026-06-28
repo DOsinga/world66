@@ -5,9 +5,9 @@ latitude: 32.561987
 longitude: 74.051849
 phone: (0546) 507044, (0546) 506144, (0546) 424362
 price: Different for different manu.
-title: Eating Out in Mandi Bahauddin
-type: poi
 score: 2.4
+title: Eating Out in Mandi Bahauddin
+type: section
 ---
 
 ****

@@ -1,13 +1,14 @@
 ---
-title: Castle of San Felipe
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 43.4674
 longitude: -8.2998
+score: 8.2
 sources:
-  - https://en.wikipedia.org/wiki/Castillo_de_San_Felipe_(Ferrol)
+- https://en.wikipedia.org/wiki/Castillo_de_San_Felipe_(Ferrol)
+tags:
+- things_to_do
+- sight
+title: Castle of San Felipe
+type: poi
 ---
 
 The Castle of San Felipe sits on the north shore of the Ría de Ferrol at the narrowest point of the estuary, where the channel pinches to barely 350 metres across. It was built in the late sixteenth century under Philip II as the main defensive work guarding the approach to the future arsenal — paired with the smaller Castle of La Palma on the opposite bank and once linked across the channel by a heavy boom chain that could be hauled up to block enemy ships. The chain is gone, but the geometry of the defence is still legible from the walls.

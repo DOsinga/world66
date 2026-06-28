@@ -1,7 +1,12 @@
 ---
+latitude: 36.926432
+longitude: -76.007226
 score: 8.0
 tags:
 - things_to_do
+- sight
+- lighthouse
+- history
 title: Cape Henry Lighthouses
 type: poi
 ---

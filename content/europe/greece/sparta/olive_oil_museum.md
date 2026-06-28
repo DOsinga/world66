@@ -1,9 +1,12 @@
 ---
+latitude: 37.0728
+longitude: 22.425
+score: 7.5
+tags:
+- things_to_do
+- museum
 title: Museum of the Olive and Greek Olive Oil
 type: poi
-tags: [things_to_do, museum]
-latitude: 37.0728
-longitude: 22.4250
 ---
 
 The Museum of the Olive and Greek Olive Oil — part of the Piraeus Bank Group Cultural Foundation's network of industrial-heritage museums — occupies a former olive press in the centre of Sparta. The collection traces the olive in Greek life from the Neolithic period to the twentieth century, covering cultivation, milling technology, soap-making, religious symbolism and trade.

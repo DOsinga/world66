@@ -1,5 +1,9 @@
 ---
+latitude: 11.58139
+longitude: 165.49861
 score: 9.6
+sources:
+- https://en.wikipedia.org/wiki/USS_Saratoga_(CV-3)
 tags:
 - things_to_do
 - diving

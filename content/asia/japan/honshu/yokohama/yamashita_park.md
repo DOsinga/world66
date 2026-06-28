@@ -1,7 +1,12 @@
 ---
+latitude: 35.4442
+longitude: 139.6503
 score: 7.0
 tags:
 - things_to_do
+- sight
+- park
+- waterfront
 title: Yamashita Park and the Waterfront
 type: poi
 ---

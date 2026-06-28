@@ -1,7 +1,12 @@
 ---
+latitude: 29.0857
+longitude: 48.0566
 score: 5.8
 tags:
 - things_to_do
+- sight
+- architecture
+- oil
 title: Kuwait Oil Company Headquarters
 type: poi
 ---

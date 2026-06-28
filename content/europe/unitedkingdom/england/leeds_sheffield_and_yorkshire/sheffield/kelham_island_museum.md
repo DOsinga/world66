@@ -2,6 +2,7 @@
 address: Alma Street, Sheffield S3 8RY
 latitude: 53.3895
 longitude: -1.4723
+score: 8.3
 snippet: Industrial museum on a man-made island, with a running River Don Engine
 story: The 12,000-horsepower River Don Engine, built in 1905, is the most powerful
   working steam engine in Europe. Twice a day on demonstration days the entire museum

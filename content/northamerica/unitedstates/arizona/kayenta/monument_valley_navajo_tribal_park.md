@@ -1,7 +1,11 @@
 ---
+latitude: 36.9824
+longitude: -110.1118
 score: 10.0
 tags:
 - things_to_do
+- sight
+- nature
 title: Monument Valley Navajo Tribal Park
 type: poi
 ---

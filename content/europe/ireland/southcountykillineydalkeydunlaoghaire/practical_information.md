@@ -4,10 +4,10 @@ email: dublinaccommodations@gmail.com
 latitude: 53.349379
 longitude: -6.260559
 phone: 0035318510512
-title: Practical Information in South County Dublin
-type: poi
-url: www.hidden-dublin.com
 score: 1.5
+title: Practical Information in South County Dublin
+type: section
+url: www.hidden-dublin.com
 ---
 
 A useful website for South County Dublin visitors is http://www.hidden-dublin.com

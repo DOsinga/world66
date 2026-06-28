@@ -1,8 +1,10 @@
 ---
-title: East Coulee
-type: location
-loc_type: village
+image: east_coulee.jpg
+image_attribution: Redstar3000
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:ECOULEE.jpg
 latitude: 51.3363
+loc_type: city
 longitude: -112.489
 score: 6.2
 snippet: Former Drumheller Valley coal village with a nationally important mine site
@@ -12,11 +14,9 @@ sources:
 - https://www.wikidata.org/wiki/Q5328176
 - https://atlascoalmine.ab.ca/
 - https://history.alberta.ca/energyheritage/coal/reinvention-1950-onwards/the-decline-of-albertas-mining-communities/the-fate-of-east-coulee-and-atlas-coal-mine.aspx
+title: East Coulee
+type: location
 wikidata: Q5328176
-image: east_coulee.jpg
-image_source: https://commons.wikimedia.org/wiki/File:ECOULEE.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Redstar3000
 ---
 
 East Coulee is a small former coal town east of Drumheller, set in the bare, striped badlands of the Red Deer River valley. It is not a polished destination, and that is the point: the old school, the mine buildings, and the dry coulee walls make the coal history feel close rather than packaged.

@@ -1,10 +1,11 @@
 ---
-title: Bad Muskau
-type: location
-loc_type: town
+image: bad_muskau.jpg
+image_attribution: Marek Slusarczyk (Slimark)
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bad_Muskau_-_Schloss_Muskau.jpg
 latitude: 51.549722
+loc_type: city
 longitude: 14.72
-wikidata: Q165131
 score: 7.3
 snippet: Saxon border spa town wrapped around the UNESCO-listed Muskau Park landscape
   garden
@@ -14,10 +15,9 @@ sources:
 - https://muskauer-park.de/en/world-heritage-site
 - https://visitsaxony.com/culture-nature-family-wellness/culture/unesco-world-heritage-sites/muskau-park
 - https://en.wikipedia.org/wiki/Bad_Muskau
-image: bad_muskau.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bad_Muskau_-_Schloss_Muskau.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Marek Slusarczyk (Slimark)
+title: Bad Muskau
+type: location
+wikidata: Q165131
 ---
 
 Bad Muskau is a small Saxon spa town on the Neisse River, right against the Polish border. The town itself is quiet, but it has one exceptional reason to come: [Muskau Park](/europe/germany/saxony/bad_muskau/muskau_park), a cross-border landscape garden designed by Prince Hermann von Puckler-Muskau and now protected by UNESCO.

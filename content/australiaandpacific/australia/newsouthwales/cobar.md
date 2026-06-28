@@ -4,10 +4,11 @@ image_attribution: Axel Strauß
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cobar_mining.jpg
 latitude: -31.499722
-loc_type: town
+loc_type: city
 longitude: 145.831944
 score: 6.5
-snippet: Red-dust mining town in outback New South Wales, with copper history and nearby Aboriginal rock art.
+snippet: Red-dust mining town in outback New South Wales, with copper history and
+  nearby Aboriginal rock art.
 sources:
 - https://en.wikivoyage.org/wiki/Cobar
 - https://www.wikidata.org/wiki/Q1104537

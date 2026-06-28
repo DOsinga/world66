@@ -4,15 +4,16 @@ image_attribution: Karie Kuiper
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Connemara_National_Park_Diamond_Hill.jpg
 latitude: 53.553595
-loc_type: village
+loc_type: city
 longitude: -9.948366
 score: 7.1
-snippet: Connemara village at the gate of Diamond Hill, Kylemore Abbey, and the national park.
+snippet: Connemara village at the gate of Diamond Hill, Kylemore Abbey, and the national
+  park.
 sources:
-  - https://en.wikivoyage.org/wiki/Letterfrack
-  - https://www.wikidata.org/wiki/Q1821184
-  - https://www.nationalparks.ie/connemara/
-  - https://www.nationalparks.ie/connemara/about-us/
+- https://en.wikivoyage.org/wiki/Letterfrack
+- https://www.wikidata.org/wiki/Q1821184
+- https://www.nationalparks.ie/connemara/
+- https://www.nationalparks.ie/connemara/about-us/
 title: Letterfrack
 type: location
 wikidata: Q1821184

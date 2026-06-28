@@ -4,10 +4,11 @@ image_attribution: Albatross2147
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Mudgee,_New_South_Wales,_Clock.jpg
 latitude: -32.6125
-loc_type: town
+loc_type: city
 longitude: 149.587222
 score: 6.8
-snippet: Central West wine town with gold-era streets, cellar doors, and sandstone gorge walks nearby.
+snippet: Central West wine town with gold-era streets, cellar doors, and sandstone
+  gorge walks nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Mudgee
 - https://www.wikidata.org/wiki/Q59819

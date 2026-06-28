@@ -8,13 +8,13 @@ image_attribution: Otter
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Calanais_Standing_Stones_20090610_01.jpg
 latitude: 57.9
-loc_type: city
+loc_type: island
 longitude: -6.7
 score: 8.15
-title: Western Isles (Outer Hebrides)
-type: location
 snippet: Outer Hebrides island chain of peat moors, sea lochs, machair beaches, and
   Gaelic culture.
+title: Western Isles (Outer Hebrides)
+type: location
 ---
 
 The Outer Hebrides — also known as the Western Isles or the Long Island — are a chain of islands off the northwest coast of Scotland, stretching about 200 km from Lewis and Harris in the north to Barra in the south. Despite appearances on a map, Lewis and Harris are a single island divided by mountains, not a strait; the other main islands are North Uist, Benbecula, South Uist, and Barra, linked by bridges and causeways.

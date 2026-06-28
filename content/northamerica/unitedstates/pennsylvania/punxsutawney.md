@@ -1,6 +1,10 @@
 ---
+image: punxsutawney.jpg
+image_attribution: Chris Flook
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Punxsutawney_Phil_2018.jpg
 latitude: 40.945556
-loc_type: town
+loc_type: city
 longitude: -78.975278
 score: 6.4
 snippet: Western Pennsylvania borough whose winter identity is built around Punxsutawney
@@ -13,10 +17,6 @@ sources:
 title: Punxsutawney
 type: location
 wikidata: Q732342
-image: punxsutawney.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Punxsutawney_Phil_2018.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Chris Flook
 ---
 
 Punxsutawney is a small borough in western Pennsylvania that has managed to turn one February morning into a national ritual. The town is home to Punxsutawney Phil, the groundhog whose shadow is supposed to forecast the rest of winter, and the whole place leans into the joke with admirable seriousness.

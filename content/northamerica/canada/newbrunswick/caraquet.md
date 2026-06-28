@@ -1,10 +1,11 @@
 ---
-title: Caraquet
-type: location
-loc_type: town
+image: caraquet.jpg
+image_attribution: Dr Wilson
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_Caraquet_3.JPG
 latitude: 47.785278
+loc_type: city
 longitude: -64.959167
-wikidata: Q1035422
 score: 7.1
 snippet: Acadian coastal town on Chaleur Bay, known for living history, oysters, and
   August festival energy
@@ -14,10 +15,9 @@ sources:
 - https://villagehistoriqueacadien.com/en/site/
 - https://www.tourismnewbrunswick.ca/listing/eco-musee-de-lhuitre
 - https://en.wikipedia.org/wiki/Caraquet
-image: caraquet.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_Caraquet_3.JPG
-image_license: CC BY 3.0
-image_attribution: Dr Wilson
+title: Caraquet
+type: location
+wikidata: Q1035422
 ---
 
 Caraquet calls itself the capital of Acadia, and for once the slogan has some bite. This is not a large town, but it sits on a long, open sweep of Chaleur Bay where fishing boats, Acadian flags, seafood restaurants, and French-speaking Maritime life all meet in one place.

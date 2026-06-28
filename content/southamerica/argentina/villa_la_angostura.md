@@ -1,10 +1,11 @@
 ---
-title: Villa La Angostura
-type: location
-loc_type: town
+image: villa_la_angostura.jpg
+image_attribution: Revisorweb
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Villa-la-angostura-Patagoni.jpg
 latitude: -40.7619
+loc_type: city
 longitude: -71.6463
-wikidata: Q106096
 score: 7.4
 snippet: Patagonian lake town between Nahuel Huapi forest, copper-barked arrayanes,
   and Cerro Bayo.
@@ -13,10 +14,9 @@ sources:
 - https://www.villalaangosturaturismo.gob.ar/en/
 - https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-los-arrayanes
 - https://en.wikipedia.org/wiki/Villa_La_Angostura
-image: villa_la_angostura.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Villa-la-angostura-Patagoni.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Revisorweb
+title: Villa La Angostura
+type: location
+wikidata: Q106096
 ---
 
 Villa La Angostura sits on the north shore of Lago Nahuel Huapi, smaller and quieter than [Bariloche](/southamerica/argentina/bariloche) but with the same Patagonian mix of cold blue water, forested mountains, and timber lodges. It is not a town of grand monuments. The reason to come is the landscape right on its doorstep.

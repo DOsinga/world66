@@ -13,7 +13,7 @@ sources:
   - https://www.vale.com/vale-natural-reserve
 ---
 
-Linhares is not a pretty colonial town and it does not pretend to be one. It is a working city on BR-101, about 135 km north of [Vitória](/southamerica/brazil/vitoria), with its best travel reasons spread across the surrounding municipality: freshwater lagoons, preserved Atlantic Forest, and a wild stretch of turtle coast.
+Linhares is not a pretty colonial town and it does not pretend to be one. It is a working city on BR-101, about 135 km north of Vitória, with its best travel reasons spread across the surrounding municipality: freshwater lagoons, preserved Atlantic Forest, and a wild stretch of turtle coast.
 
 The strongest anchor is [Lagoa Juparanã](/southamerica/brazil/linhares/lagoa_juparana), a broad freshwater lagoon west of town with public beaches and boatable water. North of the city, [Reserva Natural Vale](/southamerica/brazil/linhares/reserva_natural_vale) protects a large block of lowland Atlantic Forest with trails, birdlife, and environmental interpretation.
 

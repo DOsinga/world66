@@ -1,22 +1,23 @@
 ---
-title: Tamuín
-type: location
-loc_type: town
+image: tamuin.jpg
+image_attribution: panza.rayada
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Tamtoc_-_panoramio.jpg
 latitude: 22.00554
+loc_type: city
 longitude: -98.77972
-wikidata: Q2655761
 score: 6.2
-snippet: Small Huasteca town in eastern San Luis Potosí, anchored by major pre-Hispanic archaeological sites.
+snippet: Small Huasteca town in eastern San Luis Potosí, anchored by major pre-Hispanic
+  archaeological sites.
 sources:
 - https://en.wikivoyage.org/wiki/Tamu%C3%ADn
 - https://www.wikidata.org/wiki/Q2655761
 - https://visitmexico.com/en/destino/17860/tamuin
 - https://lugares.inah.gob.mx/en/node/4460
 - https://lugares.inah.gob.mx/en/node/4527
-image: tamuin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Tamtoc_-_panoramio.jpg
-image_license: CC BY-SA 3.0
-image_attribution: panza.rayada
+title: Tamuín
+type: location
+wikidata: Q2655761
 ---
 
 Tamuín is a small town in the Huasteca Potosina, east of Ciudad Valles and close to the Tampaón River. The town itself is plain and low-key, but it sits beside one of the most important Huastec archaeological landscapes in Mexico.

@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
 latitude: 57.25
-loc_type: city
+loc_type: region
 longitude: 15.25
 score: 7.63
 snippet: Forested southern Swedish province known for glassworks, red cottages, and

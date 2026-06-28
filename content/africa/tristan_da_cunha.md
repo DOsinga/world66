@@ -1,13 +1,14 @@
 ---
-latitude: -37.1150
-longitude: -12.2850
-loc_type: feature
+latitude: -37.115
+loc_type: country
+longitude: -12.285
 score: 8.0
-snippet: Remote South Atlantic volcanic archipelago with the world's most isolated inhabited settlement.
+snippet: Remote South Atlantic volcanic archipelago with the world's most isolated
+  inhabited settlement.
 sources:
-  - https://en.wikivoyage.org/wiki/Tristan_da_Cunha
-  - https://www.tristandc.com/
-  - https://en.wikipedia.org/wiki/Tristan_da_Cunha
+- https://en.wikivoyage.org/wiki/Tristan_da_Cunha
+- https://www.tristandc.com/
+- https://en.wikipedia.org/wiki/Tristan_da_Cunha
 title: Tristan da Cunha
 type: location
 ---

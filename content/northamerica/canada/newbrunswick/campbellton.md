@@ -4,16 +4,17 @@ image_attribution: New Brunswick / Nouveau-Brunswick
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Sugarloaf_provincial_park.jpg
 latitude: 48.004
-loc_type: town
+loc_type: city
 longitude: -66.672
 score: 6.4
-snippet: Restigouche River town below Sugarloaf Mountain, with salmon history and four-season trails.
+snippet: Restigouche River town below Sugarloaf Mountain, with salmon history and
+  four-season trails.
 sources:
-  - https://en.wikivoyage.org/wiki/Campbellton
-  - https://tourismnewbrunswick.ca/campbellton
-  - https://www.parcsnbparks.ca/en/parks/9/sugarloaf-provincial-park
-  - https://www.experiencerestigouche.com/
-  - https://en.wikipedia.org/wiki/Campbellton,_New_Brunswick
+- https://en.wikivoyage.org/wiki/Campbellton
+- https://tourismnewbrunswick.ca/campbellton
+- https://www.parcsnbparks.ca/en/parks/9/sugarloaf-provincial-park
+- https://www.experiencerestigouche.com/
+- https://en.wikipedia.org/wiki/Campbellton,_New_Brunswick
 title: Campbellton
 type: location
 wikidata: Q1030568

@@ -4,16 +4,17 @@ image_attribution: Kadı
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ala%C3%A7at%C4%B1_2016.jpg
 latitude: 38.281388888889
-loc_type: town
+loc_type: city
 longitude: 26.374166666667
 score: 7.0
-snippet: Aegean town of Greek stone houses, cobbled lanes, windmills, and serious windsurfing.
+snippet: Aegean town of Greek stone houses, cobbled lanes, windmills, and serious
+  windsurfing.
 sources:
-  - https://en.wikivoyage.org/wiki/Ala%C3%A7at%C4%B1
-  - https://www.wikidata.org/wiki/Q941328
-  - https://en.wikipedia.org/wiki/Ala%C3%A7at%C4%B1
-  - https://goturkiye.com/cesme/see
-  - https://goturkiye.com/cesme/touch
+- https://en.wikivoyage.org/wiki/Ala%C3%A7at%C4%B1
+- https://www.wikidata.org/wiki/Q941328
+- https://en.wikipedia.org/wiki/Ala%C3%A7at%C4%B1
+- https://goturkiye.com/cesme/see
+- https://goturkiye.com/cesme/touch
 title: Alaçatı
 type: location
 wikidata: Q941328

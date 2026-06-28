@@ -16,4 +16,4 @@ Guaranda is the small capital of Bolívar province, sitting high in the Ecuadori
 
 The city is best known for Carnival. Guaranda's version is one of Ecuador's big traditional celebrations: water, masks, parades, music, local food, and Pájaro Azul, the strong local aguardiente flavoured with herbs. Outside Carnival, the town is quieter and more provincial, with markets, plazas, and viewpoints rather than grand monuments.
 
-This is a borderline but worthwhile spare-day stop if you are already moving through the central highlands. [El Indio Guaranga](/southamerica/ecuador/guaranda/el_indio_guaranga), [Cruz Loma](/southamerica/ecuador/guaranda/cruz_loma), the Carnival tradition, and trips toward Salinas or the canyon country give it enough identity to justify a page.
+This is a borderline but worthwhile spare-day stop if you are already moving through the central highlands. [El Indio Guaranga](/southamerica/ecuador/guaranda/el_indio_guaranga), Cruz Loma, the Carnival tradition, and trips toward Salinas or the canyon country give it enough identity to justify a page.

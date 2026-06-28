@@ -4,16 +4,17 @@ image_attribution: Pseudopanax@Wikimedia
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Waihi_Beach.jpg
 latitude: -37.4118
-loc_type: town
+loc_type: city
 longitude: 175.9432
 score: 6.8
-snippet: Bay of Plenty beach town with long surf sand, coastal walks, and Bowentown views.
+snippet: Bay of Plenty beach town with long surf sand, coastal walks, and Bowentown
+  views.
 sources:
-  - https://en.wikivoyage.org/wiki/Waihi_Beach
-  - https://www.newzealand.com/us/waihi-beach/
-  - https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/orokawa-scenic-reserve/things-to-do/orokawa-bay-track/
-  - https://www.westernbay.govt.nz/recreation/walking-tracks-and-trails/waihi-beach-trig
-  - https://en.wikipedia.org/wiki/Waihi_Beach
+- https://en.wikivoyage.org/wiki/Waihi_Beach
+- https://www.newzealand.com/us/waihi-beach/
+- https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/orokawa-scenic-reserve/things-to-do/orokawa-bay-track/
+- https://www.westernbay.govt.nz/recreation/walking-tracks-and-trails/waihi-beach-trig
+- https://en.wikipedia.org/wiki/Waihi_Beach
 title: Waihi Beach
 type: location
 wikidata: Q1520662

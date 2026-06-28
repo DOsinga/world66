@@ -1,6 +1,10 @@
 ---
+image: tilcara.jpg
+image_attribution: Bernard Gagnon
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara,_Argentina_01.jpg
 latitude: -23.5667
-loc_type: village
+loc_type: city
 longitude: -65.3667
 score: 8.1
 snippet: Bohemian Quebrada de Humahuaca village beneath a pre-Inca hilltop fortress.
@@ -12,10 +16,6 @@ sources:
 title: Tilcara
 type: location
 wikidata: Q604722
-image: tilcara.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara,_Argentina_01.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Bernard Gagnon
 ---
 
 Tilcara is the Quebrada de Humahuaca's bohemian village: a high Andean place of adobe houses, craft stalls, musicians, archaeologists, backpackers, and rust-coloured cliffs. It sits at about 2,460 metres in one of the most dramatic stretches of the UNESCO-listed quebrada, with the Rio Grande below town and dry hills rising hard on both sides.

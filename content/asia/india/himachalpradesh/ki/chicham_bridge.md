@@ -11,6 +11,7 @@ tags:
 - viewpoint
 title: Chicham Bridge
 type: poi
+score: 7.5
 ---
 
 Chicham Bridge carries the road across a deep gorge beyond Kibber. It is a quick stop, but the scale of the drop and the barren mountain setting make it one of the most memorable viewpoints on the Ki-Kibber loop.

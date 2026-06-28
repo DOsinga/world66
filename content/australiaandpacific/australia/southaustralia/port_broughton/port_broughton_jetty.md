@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Port_Broughton
   - https://southaustralia.com/products/yorke-peninsula/destination-information/port-broughton
+latitude: -33.5995
+longitude: 137.9305
 ---
 
 Port Broughton Jetty is the town's natural first stop. Built for the wheat trade and now used by fishers and walkers, it reaches out into the protected gulf and gives a good sense of why the town grew here.

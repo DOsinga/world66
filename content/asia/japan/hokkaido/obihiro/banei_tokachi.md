@@ -13,6 +13,7 @@ sources:
   - https://www.banei-keiba.or.jp/language/index_en.php
   - https://www.visit-hokkaido.jp/en/spot/detail_10256.html
   - https://en.wikivoyage.org/wiki/Obihiro
+score: 7.4
 ---
 
 Banei Tokachi is Obihiro's one truly unusual attraction. Instead of fast flat racing, one-ton draft horses pull iron sleds along a 200-metre track with two ramps, while jockeys manage pace and power.

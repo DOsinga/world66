@@ -9,6 +9,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Houghton_Lake
   - https://en.wikipedia.org/wiki/Houghton_Lake,_Michigan
+latitude: 44.307
+longitude: -84.76
 ---
 
 The Houghton Lake Area Historical Society runs a small historic village with rebuilt and restored structures from the late-19th-century logging era. It is the kind of local museum that works best with children or with anyone curious about how northern Michigan lake towns looked before the cottages and marinas took over.

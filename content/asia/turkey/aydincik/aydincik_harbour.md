@@ -11,6 +11,7 @@ tags:
 - waterfront
 title: Aydıncık Harbour
 type: poi
+score: 6.5
 ---
 
 Aydıncık's harbour and beach are simple, but they make sense of the town. Fishing boats, low cliffs, and the bright Mediterranean sit beside the ancient-port site, with none of the heavy resort feel found farther west.

@@ -9,6 +9,7 @@ tags:
   - sight
 title: "Ewell"
 type: poi
+score: 6.4
 ---
 
 Ewell is the usual landing point for Smith Island ferries and the easiest village for a first visit. It has the cultural center, small restaurants, gift shops, lanes used by golf carts, and views into the channels that cut through the island.

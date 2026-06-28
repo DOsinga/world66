@@ -12,6 +12,7 @@ tags:
 title: Key Monastery
 type: poi
 wikidata: Q1341262
+score: 8.4
 ---
 
 Key Monastery is the reason to come to Ki. The whitewashed complex sits high above the Spiti River, with prayer rooms, monk quarters, old murals, and wide valley views packed into a building that looks almost grown from the hill.

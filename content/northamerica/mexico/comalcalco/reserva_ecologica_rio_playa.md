@@ -8,6 +8,7 @@ tags:
   - sight
 title: "Reserva Ecológica Rio Playa"
 type: poi
+score: 6.8
 ---
 
 Reserva Ecológica Rio Playa protects forest, swamp, and mangrove habitat north of Comalcalco. It is locally managed ejido land rather than a polished national-park experience, which is part of the appeal if you are interested in birds and wetland landscapes.

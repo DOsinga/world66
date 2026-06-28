@@ -9,6 +9,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Mayrhofen
   - https://www.erlebnisbad-mayrhofen.at/
+latitude: 47.1682
+longitude: 11.8619
 ---
 
 Erlebnisbad Mayrhofen is the useful non-mountain fallback: indoor pools, slides, and a sauna complex close to the village centre. It matters most with children, in bad weather, or after a few hard ski days.

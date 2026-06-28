@@ -12,6 +12,7 @@ snippet: Broad central park with walking paths, lawns, sculptures, and Obihiro's
 sources:
   - https://en.wikivoyage.org/wiki/Obihiro
   - https://www.japan.travel/en/spot/2144/
+score: 6.7
 ---
 
 Midorigaoka Park is Obihiro's main green space near the centre. It has lawns, wooded paths, ponds, and cultural stops around its edges, including the Hokkaido Obihiro Museum of Art.

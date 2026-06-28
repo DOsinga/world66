@@ -10,6 +10,7 @@ tags:
   - museum
 title: "Smith Island Cultural Center"
 type: poi
+score: 6.3
 ---
 
 The Smith Island Cultural Center is the best first stop in Ewell. Its small exhibits explain island life, watermen's work, family history, local boats, and the practical realities of living in a place where every person and parcel arrives by water.

@@ -11,6 +11,7 @@ snippet: Small hillside zoo across from Lake Michigan, with historic WPA stonewo
 sources:
   - https://www.washingtonparkzoo.com/
   - https://en.wikivoyage.org/wiki/Michigan_City
+score: 6.6
 ---
 
 Washington Park Zoo has been part of the lakefront since 1928. It is compact, but the hillside paths, old stone structures, and lake setting give it more character than a standard small-city zoo.

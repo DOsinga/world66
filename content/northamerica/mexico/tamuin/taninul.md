@@ -11,6 +11,8 @@ sources:
 - https://en.wikivoyage.org/wiki/Tamu%C3%ADn
 - https://visitmexico.com/en/destino/17860/tamuin
 - https://www.huaxteca.com/en/tamtoc-hotspings/
+latitude: 22.0395
+longitude: -98.879
 ---
 
 Taninul is the warm spring country west of Tamuín, often paired with Tamtoc on local day tours. The water comes from the cave system at the foot of the Abra-Tanchipa hills and is used for bathing in a tropical, sulphurous setting.

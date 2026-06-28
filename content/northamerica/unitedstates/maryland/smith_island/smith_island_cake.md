@@ -9,6 +9,7 @@ tags:
   - sight
 title: "Smith Island Cake"
 type: poi
+score: 6.5
 ---
 
 Smith Island cake is the island's edible landmark: many thin layers of cake, traditionally yellow cake with cooked chocolate icing, stacked high enough to look slightly improbable. It became Maryland's official state dessert in 2008.

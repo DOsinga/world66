@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Ranua
   - https://en.wikipedia.org/wiki/Ranua
+latitude: 66.083
+longitude: 26.933
 ---
 
 Lake Simojarvi is one of Ranua's main landscape anchors, a long lake scattered with islands and summer cottages. It is not a dramatic fell-lake scene; it is lower, quieter, and more typically southern Lapland, with forested shores and a lot of space.

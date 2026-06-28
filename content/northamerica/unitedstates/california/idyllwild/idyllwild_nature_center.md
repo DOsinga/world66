@@ -10,6 +10,7 @@ tags:
 - hiking
 title: Idyllwild Nature Center
 type: poi
+score: 6.8
 ---
 
 Idyllwild Nature Center is an easy first stop if you want the forest without committing to a long mountain hike. It has short trails, picnic space, local wildlife and plant displays, and exhibits on Native culture in the San Jacinto Mountains.

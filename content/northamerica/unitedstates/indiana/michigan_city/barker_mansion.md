@@ -12,6 +12,7 @@ snippet: Restored Gilded Age mansion tied to Michigan City's railroad and freigh
 sources:
   - https://barkermansion.org/
   - https://en.wikivoyage.org/wiki/Michigan_City
+score: 6.8
 ---
 
 Barker Mansion is the city's strongest indoor sight. The Barker family made its fortune in rail freight cars, and the house shows how much industrial money once flowed through Michigan City.

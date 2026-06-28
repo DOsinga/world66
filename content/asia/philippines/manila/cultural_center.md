@@ -1,6 +1,6 @@
 ---
-latitude: 14.5604
-longitude: 120.9839
+latitude: 14.55857
+longitude: 120.98579
 score: 8.0
 snippet: The main performing arts venue, designed by Leandro Locsin, with galleries
   and the main CCP theater

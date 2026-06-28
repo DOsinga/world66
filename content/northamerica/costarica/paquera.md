@@ -4,7 +4,7 @@ done:
 latitude: 9.8265
 loc_type: city
 longitude: -84.9644
-score: 0.33
+score: 6.79
 snippet: Ferry town on the southern Nicoya Peninsula, useful for Curú, Tortuga Island,
   and quiet gulf beaches.
 sources:

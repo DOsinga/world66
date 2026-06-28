@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0352_Buildings_in_Arrow
 latitude: -44.9425
 loc_type: city
 longitude: 168.8358
-score: 0.42
+score: 7.11
 snippet: Preserved Otago gold-rush town beside the Arrow River, best in autumn.
 sources:
 - https://en.wikipedia.org/wiki/Arrowtown

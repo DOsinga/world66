@@ -10,7 +10,7 @@ tags:
 - landmark
 - sight
 - architecture
-- museumsquartier
+- innere_stadt
 title: Karlskirche
 type: poi
 score: 9.1

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:05021_Firenzuola_TR,_Italy
 latitude: 44.1167
 loc_type: city
 longitude: 11.3833
-score: 0.39
+score: 7.0
 snippet: Quiet Apennine town of grey pietra serena stone, Gothic Line history, and
   mountain passes.
 sources:

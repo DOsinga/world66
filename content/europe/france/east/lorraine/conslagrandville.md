@@ -4,7 +4,7 @@ done:
 latitude: 49.485
 loc_type: city
 longitude: 5.7019
-score: 0.31
+score: 6.72
 snippet: Tiny Lorraine village near Longwy, dominated by a château, priory, and wooded
   Chiers valley.
 sources:

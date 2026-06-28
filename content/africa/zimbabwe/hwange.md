@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Herd_of_elephants_in_the_H
 latitude: -18.735
 loc_type: feature
 longitude: 26.955
-score: 0.55
+score: 7.56
 snippet: Zimbabwe's largest national park, famous for huge elephant herds gathering
   at pumped dry-season waterholes.
 sources:

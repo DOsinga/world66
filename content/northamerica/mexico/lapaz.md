@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Paz_vista_desde_the_one
 latitude: 24.1422
 loc_type: city
 longitude: -110.3108
-score: 0.58
+score: 7.66
 snippet: Relaxed Baja California Sur capital with a long malecón, Gulf beaches, seafood,
   and island trips.
 sources:

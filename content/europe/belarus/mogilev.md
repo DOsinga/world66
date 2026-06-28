@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mahilio%C5%AD,_ratu%C5%A1a
 latitude: 53.9167
 loc_type: city
 longitude: 30.35
-score: 0.33
+score: 6.79
 snippet: Eastern Belarusian Dnieper city with a rebuilt town hall, Baroque churches,
   and heavy wartime memory.
 sources:

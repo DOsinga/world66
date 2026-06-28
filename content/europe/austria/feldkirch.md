@@ -4,7 +4,7 @@ done:
 latitude: 47.2381
 loc_type: city
 longitude: 9.5983
-score: 0.49
+score: 7.36
 snippet: Medieval Vorarlberg border town between Switzerland and Liechtenstein, watched
   over by Schattenburg castle.
 sources:

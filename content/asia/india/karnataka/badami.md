@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agastya_Lake_with_Badami_T
 latitude: 15.92
 loc_type: city
 longitude: 75.680278
-score: 0.47
+score: 7.29
 snippet: Red-sandstone Chalukya capital in northern Karnataka, famous for cave temples
   above Agastya Lake.
 sources:

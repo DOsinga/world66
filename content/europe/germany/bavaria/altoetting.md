@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_7661_Alt%C3%B6tting_-Wa
 latitude: 48.2267
 loc_type: city
 longitude: 12.6783
-score: 0.45
+score: 7.22
 snippet: Bavarian pilgrimage town centred on the Black Madonna chapel in a compact
   sacred square
 sources:

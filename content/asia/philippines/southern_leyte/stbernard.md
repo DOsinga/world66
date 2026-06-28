@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._Bernard_resort_-_panor
 latitude: 10.28
 loc_type: city
 longitude: 125.13
-score: 0.25
+score: 6.5
 snippet: Eastern Southern Leyte town remembered for Guinsaugon, with beaches, waterfalls,
   and Cabalian Volcano nearby.
 sources:

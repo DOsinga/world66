@@ -2,7 +2,7 @@
 latitude: 54.7694
 longitude: 11.8739
 loc_type: city
-score: 0.38
+score: 6.97
 snippet: Falster's main market town, known for Czarens Hus where Peter the Great stayed
   in 1716, and medieval St. Catherine's Church.
 tags:

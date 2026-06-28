@@ -4,7 +4,7 @@ done:
 latitude: 22.2247
 loc_type: feature
 longitude: 114.1096
-score: 0.58
+score: 7.66
 snippet: Ferry-linked Hong Kong island region where fishing villages, monasteries,
   beaches, and hiking trails replace city bustle.
 title: Outlying Islands

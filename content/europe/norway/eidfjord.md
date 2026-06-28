@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Eidfjor
 latitude: 60.4675
 loc_type: city
 longitude: 7.0719
-score: 0.48
+score: 7.33
 snippet: Small Hardangerfjord village beneath mountain roads, waterfalls, and the
   Hardangervidda plateau.
 sources:
@@ -18,7 +18,7 @@ title: Eidfjord
 type: location
 ---
 
-Eidfjord sits at the innermost end of a branch of the [Hardangerfjord](/europe/norway/hardangerfjord), where steep green walls, waterfalls, and mountain roads press close around a small village. It is quiet when no cruise ship is in, suddenly busy when one arrives, and still one of the most dramatic gateways to the western edge of [Hardangervidda National Park](/europe/norway/hardangerviddanationalpark).
+Eidfjord sits at the innermost end of a branch of the Hardangerfjord, where steep green walls, waterfalls, and mountain roads press close around a small village. It is quiet when no cruise ship is in, suddenly busy when one arrives, and still one of the most dramatic gateways to the western edge of [Hardangervidda National Park](/europe/norway/hardangerviddanationalpark).
 
 The essential excursion is up through [Måbødalen](/europe/norway/eidfjord/mabodalen) to [Vøringsfossen](/europe/norway/eidfjord/voringsfossen), one of Norway's great waterfalls. Along the way, the [Hardangervidda Natursenter](/europe/norway/eidfjord/hardangervidda_natursenter) in Øvre Eidfjord gives useful context for the plateau, reindeer, and highland ecology above the fjord.
 

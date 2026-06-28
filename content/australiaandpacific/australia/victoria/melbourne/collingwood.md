@@ -2,10 +2,14 @@
 title: Collingwood
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: -37.8030
+- things_to_do
+- neighbourhood
+latitude: -37.803
 longitude: 144.9855
+image: collingwood.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Smith_street_collingwood_looking_north.jpg
+image_license: Public domain
+image_attribution: Biatch at en.wikipedia
 ---
 
 Collingwood sits directly east of Fitzroy and shares much of its character, though it has historically been even grittier. The suburb's main artery, Smith Street, was known for decades as a street of sex workers and heroin dealers; it is now one of Melbourne's best strips for independent eating and drinking. Johnston Street, running east-west, is Melbourne's Spanish quarter, with flamenco bars and tapas restaurants that get going very late. The suburb's industrial heritage shows in its converted warehouses — many now home to galleries, breweries, and design studios.

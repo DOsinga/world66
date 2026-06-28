@@ -2,7 +2,7 @@
 latitude: 54.8
 longitude: 11.95
 loc_type: feature
-score: 0.38
+score: 6.97
 snippet: Flat Danish island south of Zealand with the beach resort of Marielyst, the
   market town of Nykøbing Falster, and the southernmost tip of Denmark.
 title: Falster

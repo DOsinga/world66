@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Main_Street,_Wexford
 latitude: 52.3383
 loc_type: city
 longitude: -6.4617
-score: 0.42
+score: 7.11
 snippet: Southeast Irish harbour town with Viking roots and an outsized international
   opera festival.
 sources:

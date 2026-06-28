@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Nangan,_Lienchiang
 title: Matsu
 type: location
+score: 7.5
 ---
 
 Matsu is Taiwan at its most windblown and frontier-like: a scattered archipelago closer to the Chinese mainland than to Taipei, with granite villages, military tunnels, sea cliffs, and a strong Fujianese character. It is officially Lienchiang County, but everyone calls the islands Matsu.

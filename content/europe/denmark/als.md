@@ -2,7 +2,7 @@
 latitude: 55.0
 longitude: 9.9
 loc_type: feature
-score: 0.38
+score: 6.97
 snippet: Southern Danish island of fjords, ducal estates, and the battlefield landscape
   of 1864, centred on the castle town of Sønderborg.
 title: Als

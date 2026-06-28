@@ -1,24 +1,13 @@
 ---
-title: "Day Trips in Toronto"
+title: "Day Trips"
 type: section
+linked_locations:
+  - northamerica/canada/ontario/niagrafalls
+  - northamerica/canada/ontario/niagara_on_the_lake
+  - northamerica/canada/ontario/prince_edward_county
+  - northamerica/canada/ontario/stratford
 ---
 
-Toronto, also known as Golden Horseshoe--due to the shape of Lake Ontario&rsquo;s shoreline--has a lot to offer as attractions for **Toronto day trips**. You have a choice of destinations, all within a comfortable drive of 2-4 hours. From the breath-taking spectacle of Niagara Falls, there are so many possibilities for day trips that it will be tough to choose one over the other.
+Toronto sits at the centre of the Golden Horseshoe, with several worthwhile escapes within a couple of hours' drive. Niagara Falls, about 90 minutes southwest, is the obvious one — touristy at the brink but still genuinely spectacular up close on the Maid of the Mist. Just downriver, Niagara-on-the-Lake is a prettier, calmer base for the surrounding wine country and the Shaw Festival.
 
-Following are only a few of the day-trips that will transport you to natural scenic wonders like Niagara or Ontario lakeside.
-
-**Niagara Falls**
-
-Southwest of Toronto, about an-hour-and-a- half&rsquo;s drive, is Niagara Falls, one of the wonders of the world. You can spend days enjoying the various special tours to fully enjoy Niagara Falls, like a Maid of the Mist boat ride to the base of Horseshoe falls. Driving through the Queen Elizabeth Highway parallel to the lake is a delightful experience.
-
-**Stratford &**** Mennonite Country**
-
-Travelling northwest of Toronto, you get to see many beautiful places, all within a 2-3 hour drive from Toronto. These include St. Jacob country&rsquo;s towns and villages--known as Mennonite country--and places like Elora and Elmira on the Grand River. Nearby is Stratford, famous for the Stratford Festival. There is even a village called Shakespeare. Market days draw a lot of visitors.
-
-**P****rince Edward County**
-
-This beautiful island is on the south-eastern side of Ontario extending into Ontario Lake. The place is famous for scenic beauty and mega-size sand banks and water sports like sailing and fishing on lake-shores. Pollution free with wide open spaces, this is a nice place for relaxing and enjoying a cool lake-side scenario. There are some pretty looking wineries nearby.
-
-**Niagara Wine Region**
-
-En route to Niagara Falls, a visit to the Niagara-on-the-Lake is a must with visits to the famous orchards and the dozens of wineries. Crystal Beach and Bay Beach on Lake Erie are beautiful beaches and a star attraction for weekend visitors. There are theme parks, historic towns, museums and so many scenic attractions like Bruce Trail on Niagara Escarpment in this region. Niagara-on-the-Lake connects the Niagara Falls through a beautiful parkway. You can take a detour and visit the Royal Botanical Garden.
+Further afield, Stratford, two hours west, draws crowds to its summer-long Shakespeare festival, while Prince Edward County, two hours east, has reinvented itself around wineries, sandbanks, and Lake Ontario beaches. All make comfortable day trips, though the County and Stratford reward an overnight stay.

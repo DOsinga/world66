@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ambleside_%26_Waterhead_Pa
 latitude: 54.43
 loc_type: city
 longitude: -2.963
-score: 0.54
+score: 7.53
 snippet: Lake District walking town at the head of Windermere, with fells, waterfalls,
   and Wordsworth country close by.
 sources:

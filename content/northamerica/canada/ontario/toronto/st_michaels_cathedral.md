@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - historic
 - church
+- garden_district
 title: St. Michael's Cathedral Basilica
 type: poi
 score: 7.4

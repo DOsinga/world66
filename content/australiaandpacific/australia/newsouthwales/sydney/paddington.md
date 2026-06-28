@@ -2,10 +2,14 @@
 title: Paddington
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: -33.8847
 longitude: 151.2256
+image: paddington.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cafe_Fiveways,_Paddington,_New_South_Wales.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Kgbo
 ---
 
 Paddington is Sydney's most handsome inner-city suburb, a hillside neighbourhood of Victorian terrace houses with cast-iron lacework balconies running east from the CBD toward Bondi. The terraces were built for workers in the 1880s and 1890s, fell into disrepair through the mid-20th century, and have since been restored to the point where they are among the most expensive real estate in the country. Oxford Street runs through Paddington's heart and holds a concentration of fashion boutiques, art galleries, specialty food shops and cafes.

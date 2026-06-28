@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:F6F_takes_off_from_USS_Lex
 latitude: 6.0833
 loc_type: island
 longitude: 171.7333
-score: 0.3
+score: 6.68
 snippet: Southern Marshall Islands atoll with wartime airfield remains, wide reef
   flats, and minimal visitor infrastructure.
 sources:

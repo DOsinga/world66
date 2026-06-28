@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pedestrian_Crossing_Struct
 latitude: 38.8403
 loc_type: city
 longitude: -97.6114
-score: 0.33
+score: 6.79
 snippet: Central Kansas crossroads city with a strong downtown arts strip and prairie
   museums.
 sources:

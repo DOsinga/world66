@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Minas.JPG
 latitude: -34.3667
 loc_type: city
 longitude: -55.2333
-score: 0.31
+score: 6.72
 snippet: Lavalleja hill-country capital used as a base for Uruguay's sierras, waterfalls,
   and pilgrim viewpoints.
 sources:

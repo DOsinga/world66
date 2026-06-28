@@ -4,7 +4,7 @@ done:
 latitude: -13.9167
 loc_type: island
 longitude: -171.75
-score: 0.48
+score: 7.33
 snippet: Samoa's main island, with Apia, rainforest ridges, lava caves, waterfalls,
   and south-coast swimming holes.
 sources:

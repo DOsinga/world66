@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:J28_076_San_Mart%C3%ADn_de
 latitude: -40.1569
 loc_type: city
 longitude: -71.3526
-score: 0.58
+score: 7.66
 snippet: Andean lake town on Lago Lacar, known for Lanin National Park and the Seven
   Lakes road.
 sources:

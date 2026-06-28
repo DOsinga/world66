@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Golden_Gate,_Guam,_M.I.
 latitude: 13.273
 loc_type: city
 longitude: 144.748
-score: 0.35
+score: 6.86
 snippet: Southern Guam village, now officially Inalåhan, known for historic houses
   and natural pools.
 sources:

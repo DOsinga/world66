@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1910_-_Center_Square_Looki
 latitude: 40.6017
 loc_type: city
 longitude: -75.4772
-score: 0.55
+score: 7.56
 snippet: Lehigh Valley city with industrial history, Dorney Park, art museums, and
   a hidden Liberty Bell story.
 sources:

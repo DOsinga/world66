@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yardimli06.jpg
 latitude: 38.9206
 loc_type: city
 longitude: 48.2372
-score: 0.18
+score: 6.17
 snippet: Small Talysh Mountain town in southern Azerbaijan, reached by a winding road
   from Masally.
 sources:

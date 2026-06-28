@@ -8,6 +8,10 @@ tags:
 - shopping
 title: Yorkville
 type: neighbourhood
+image: yorkville.jpg
+image_source: https://commons.wikimedia.org/wiki/File:OldYorkLaneYorkville.jpg
+image_license: CC0
+image_attribution: Raysonho @ Open Grid Scheduler / Grid Engine
 ---
 
 Yorkville occupies a few blocks just north of Bloor Street west of Yonge, and is now Toronto's most expensive and internationally recognisable shopping district. The streets are lined with luxury boutiques, high-end restaurants, and art galleries. During the Toronto International Film Festival each September, the neighbourhood becomes the city's social epicentre as studios set up events in the hotels and restaurants.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panajachel-guatemala-2009.
 latitude: 14.7406
 loc_type: city
 longitude: -91.1594
-score: 0.43
+score: 7.15
 snippet: Lake Atitlán gateway town where highland shuttles, lanchas, markets, and
   volcano views converge.
 sources:

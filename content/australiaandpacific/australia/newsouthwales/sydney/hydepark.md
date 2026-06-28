@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - park
 - monument
+- cbd
 title: Hyde Park
 type: poi
 score: 6.8

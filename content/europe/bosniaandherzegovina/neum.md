@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Neum,_2023.02.08_1.jpg
 latitude: 42.925
 loc_type: city
 longitude: 17.6167
-score: 0.31
+score: 6.72
 snippet: Bosnia and Herzegovina's only Adriatic resort town, squeezed between Croatia
   and the Bay of Neum.
 sources:

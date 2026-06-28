@@ -1,0 +1,69 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}World66 Views{% endblock %}
+
+{% block body_style %}
+<link rel="stylesheet" href="{% static 'css/widgets.css' %}">
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div class="wide-block widgets-page">
+  <div class="widgets-head">
+    <h1 class="widgets-title">Travel views</h1>
+    <p class="widgets-intro">Small World66 views you can embed on another site.</p>
+  </div>
+
+  <section class="widget-builder" aria-labelledby="globe-widget-title">
+    <div class="widget-builder-copy">
+      <h2 id="globe-widget-title">Auto play</h2>
+      <p>Show a rotating globe of World66 destination guides on another site.</p>
+
+      <label class="widget-embed-label" for="globe-embed-code">Embed code</label>
+      <textarea id="globe-embed-code" class="widget-embed-code" readonly>{{ globe_iframe }}</textarea>
+
+      <div class="widget-platform-help">
+        <a href="https://support.wix.com/en/article/wix-editor-embedding-a-site-or-a-widget" target="_blank" rel="noopener">Wix</a>
+        <a href="https://support.squarespace.com/hc/en-us/articles/206543617-Embed-blocks" target="_blank" rel="noopener">Squarespace</a>
+        <a href="https://help.webflow.com/hc/en-us/articles/33961332238611-Custom-code-embed" target="_blank" rel="noopener">Webflow</a>
+      </div>
+    </div>
+
+    <div class="widget-preview">
+      <iframe id="globe-widget-preview" src="{{ globe_embed_url }}" width="100%" height="520" style="border:0" loading="lazy" allow="fullscreen"></iframe>
+    </div>
+  </section>
+
+  <section class="widget-builder" aria-labelledby="globe-explore-title">
+    <div class="widget-builder-copy">
+      <h2 id="globe-explore-title">Explore</h2>
+      <p>Show the same globe in interactive mode, ready for dragging and destination picking.</p>
+
+      <label class="widget-embed-label" for="globe-explore-code">Embed code</label>
+      <textarea id="globe-explore-code" class="widget-embed-code" readonly>{{ globe_explore_iframe }}</textarea>
+    </div>
+
+    <div class="widget-preview">
+      <iframe id="globe-explore-preview" src="{{ globe_explore_embed_url }}" width="100%" height="520" style="border:0" loading="lazy" allow="fullscreen"></iframe>
+    </div>
+  </section>
+
+  <section class="widget-builder" aria-labelledby="photo-map-widget-title">
+    <div class="widget-builder-copy">
+      <h2 id="photo-map-widget-title">Photo thumbnails</h2>
+      <p>A gridded world map where the best-scored destination in each cell becomes the tile image.</p>
+
+      <label class="widget-embed-label" for="photo-map-embed-code">Embed code</label>
+      <textarea id="photo-map-embed-code" class="widget-embed-code" readonly>{{ photo_map_iframe }}</textarea>
+    </div>
+
+    <div class="widget-preview">
+      <iframe id="photo-map-widget-preview" src="{{ photo_map_embed_url }}" width="100%" height="520" style="border:0" loading="lazy"></iframe>
+    </div>
+  </section>
+</div>
+{% endblock %}

@@ -1,7 +1,11 @@
 ---
+latitude: -29.4119
+longitude: -66.8543
 score: 7.2
 tags:
 - things_to_do
+- museum
+- culture
 title: Museo Folklórico
 type: poi
 ---

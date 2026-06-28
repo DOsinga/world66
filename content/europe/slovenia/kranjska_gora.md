@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kranjska_Gora_(40186131781
 latitude: 46.4854
 loc_type: city
 longitude: 13.7871
-score: 0.58
+score: 7.66
 snippet: Slovenian Alpine resort town for skiing, Planica ski flying, and the Vršič
   Pass road.
 sources:

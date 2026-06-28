@@ -1,7 +1,11 @@
 ---
+latitude: 11.9408
+longitude: -69.8107
 score: 5.8
 tags:
 - eating_out
+- restaurant
+- seafood
 title: Coastal Seafood
 type: poi
 ---

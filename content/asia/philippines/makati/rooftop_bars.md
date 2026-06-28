@@ -1,7 +1,11 @@
 ---
+latitude: 14.5547
+longitude: 121.0244
 score: 6.5
 tags:
 - bars_and_cafes
+- bar
+- nightlife
 title: Rooftop Bars
 type: poi
 ---

@@ -1,4 +1,6 @@
 ---
+latitude: 39.7425
+longitude: -105.5155
 score: 7.8
 tags:
 - things_to_do

@@ -25,7 +25,7 @@ Myanmar is one of Southeast Asia's most remarkable countries — and one of its 
 
 That context matters before you read anything else here.
 
-The core tourist circuit — [Yangon](/asia/myanmar/yangon), [Bagan](/asia/myanmar/bagan), [Mandalay](/asia/myanmar/mandalay), [Inle Lake](/asia/myanmar/inlelake) — remains accessible and sees a modest flow of visitors, mainly from China, Thailand, and a handful of independent Western travellers who've made a deliberate choice to go. Outside that circuit, large parts of the country are active conflict zones. Rakhine, Shan, Kachin, Kayah, Chin, Sagaing, and Magway regions all have ongoing fighting.
+The core tourist circuit — [Yangon](/asia/myanmar/yangon), [Bagan](/asia/myanmar/bagan), [Mandalay](/asia/myanmar/mandalay), [Inle Lake](/asia/myanmar/inlelake) — remains accessible and sees a modest flow of visitors, mainly from China, Thailand, and a handful of independent Western travellers who've made a deliberate choice to go. [Hsipaw](/asia/myanmar/hsipaw), once a popular Shan State trekking base, needs much more caution now. Outside the core circuit, large parts of the country are active conflict zones. Rakhine, Shan, Kachin, Kayah, Chin, Sagaing, and Magway regions all have ongoing fighting.
 
 If you do go: every dollar you spend funds the junta to some degree. Visa fees (currently $50) go to the military. Entry fees to Bagan and Inle Lake go to the military. All businesses pay government taxes. You can minimise how much reaches the generals — eat at local teahouses, stay at family-run guesthouses, avoid state enterprises — but you can't eliminate it. That's a decision each traveller has to make for themselves.
 

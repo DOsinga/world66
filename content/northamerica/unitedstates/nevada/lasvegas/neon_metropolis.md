@@ -1,11 +1,11 @@
 ---
-title: Neon Metropolis
-type: poi
 author: Hal Rothman
 isbn: 978-0415927642
+score: 8.2
 tags:
 - books
-score: 8.2
+title: Neon Metropolis
+type: theme
 ---
 
 Hal Rothman was a Las Vegas historian who wrote about the city with affection and clear eyes. Neon Metropolis (2002) is the best single-volume modern history of Las Vegas — how a small Mormon settlement and railway stop became the fastest-growing American city of the late twentieth century, and what it cost in environmental and social terms to pull off.

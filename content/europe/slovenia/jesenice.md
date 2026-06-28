@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Delavska_kasarna_na_Jeseni
 latitude: 46.4366
 loc_type: city
 longitude: 14.0602
-score: 0.36
+score: 6.9
 snippet: Upper Sava industrial town below the Karawanks, useful for rail links and
   ironworks history.
 sources:

@@ -2,6 +2,7 @@
 address: Calea Văcărești, Bucharest
 latitude: 44.4002
 longitude: 26.1325
+score: 7.2
 snippet: Abandoned Communist reservoir turned protected urban wetland
 story: Ceaușescu ordered the site cleared in the 1980s for a vast water reservoir
   to feed an unfinished Danube-Bucharest canal. After the revolution the half-built

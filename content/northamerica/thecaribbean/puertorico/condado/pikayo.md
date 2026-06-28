@@ -1,8 +1,12 @@
 ---
-title: "Pikayo"
-type: poi
-tags: [eating_out, restaurant]
+latitude: 18.461
+longitude: -66.081
 score: 6.8
+tags:
+- eating_out
+- restaurant
+title: Pikayo
+type: poi
 ---
 
 Pikayo is one of the restaurants that established Puerto Rico as a serious culinary destination rather than just a place for hotel buffets. Chef Wilo Benet has been working here for decades, refining a cuisine that takes local ingredients — plantains, lechón, sofrito, chayote, fresh local fish — and applies modern technique without losing the essential flavors. The results are recognizably Puerto Rican but precisely executed, which is harder to achieve than it sounds.

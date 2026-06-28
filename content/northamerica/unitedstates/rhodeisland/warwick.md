@@ -4,7 +4,7 @@ done:
 latitude: 41.7167
 loc_type: city
 longitude: -71.4167
-score: 0.33
+score: 6.79
 snippet: Suburban Narragansett Bay city with coves, beaches, old villages, and Rhode
   Island's main airport.
 sources:

@@ -2,7 +2,7 @@
 latitude: 54.9414
 longitude: 10.7136
 loc_type: city
-score: 0.45
+score: 7.22
 tags:
 - langeland
 title: Rudkøbing

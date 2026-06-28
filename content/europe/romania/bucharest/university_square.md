@@ -2,6 +2,7 @@
 address: Piața Universității, Bucharest
 latitude: 44.4356
 longitude: 26.1023
+score: 7.1
 snippet: Major central square ringed by the university, theatre, and four statues
 story: After the December 1989 revolution, University Square became Romania's Tiananmen
   — a 53-day occupation of students and intellectuals protesting the new post-Communist

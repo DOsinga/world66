@@ -2,7 +2,7 @@
 title: "Museo de Arte Popular"
 type: poi
 snippet: "Folk art from across Mexico, in an Art Deco former fire station"
-tags: [things_to_do, museum]
+tags: [things_to_do, museum, centro_historico]
 address: "Revillagigedo 11"
 latitude: 19.4341
 longitude: -99.1454

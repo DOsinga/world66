@@ -1,7 +1,11 @@
 ---
+latitude: 18.3411
+longitude: -64.9398
 score: 5.7
 tags:
 - bars_and_cafes
+- bar
+- frenchtown
 title: Frenchtown Bars
 type: poi
 ---

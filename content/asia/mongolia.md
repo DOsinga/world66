@@ -37,6 +37,7 @@ Mongolia is not an easy destination. Infrastructure outside the capital is minim
 - [Lake Khovsgol](/asia/mongolia/lakekhovsgol) — vast alpine lake near the Russian border
 - [Terelj](/asia/mongolia/terelj) — dramatic granite landscape an hour from the capital
 - [Gobi Desert](/asia/mongolia/gobidesert) — flaming cliffs, sand dunes, dinosaur fossils
+- [Sainshand](/asia/mongolia/sainshand) — Gobi railway town and base for Hamriin Hiid
 - [Arkhangai](/asia/mongolia/arkhangai) — central highlands, volcanic lakes, good horse trekking
 - [Khentii](/asia/mongolia/khentii) — birthplace of Genghis Khan, wild eastern steppe
 - [Darkhan](/asia/mongolia/darkhan) — Mongolia's second city, industrial but useful

@@ -1,11 +1,11 @@
 ---
-title: Leaving Las Vegas
-type: poi
 author: John O'Brien
 isbn: 978-0802135681
+score: 7.5
 tags:
 - books
-score: 7.5
+title: Leaving Las Vegas
+type: theme
 ---
 
 John O'Brien's 1990 debut novel is one of the bleakest portraits of the city ever written. Ben, a Hollywood screenwriter, comes to Las Vegas with the explicit plan of drinking himself to death; Sera, a sex worker, becomes his companion through the slow self-destruction. The book is short, controlled, and unsparing.

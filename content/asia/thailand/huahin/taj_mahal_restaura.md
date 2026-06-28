@@ -1,14 +1,16 @@
 ---
 address: Chomsin Road and Naresdamri Road
+latitude: 12.571
+longitude: 99.9586
 phone: Thailand
 price: THB 200 - 400
+score: 4.6
 tags:
 - eating_out
 - restaurant
 title: Taj Mahal Restaurant Hua Hin
 type: poi
 zipcode: Hua Hin
-score: 4.6
 ---
 
 The Taj Mahal in Hua Hin has two locations, one on the seafront near the fishing piers along from Naresdamri Road and the other on Chomsin Road just up from the Hua hin Fishing Pier. Good Indian cuisine in a friendly and relaxed surrounding.

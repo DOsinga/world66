@@ -276,6 +276,18 @@ Use this scale:
 score: 7.4
 ```
 
+### Location scores (`loc_type: city` / `feature` / `island`)
+
+Cities, features, and islands — `type: location` pages below the region level — also carry a `score` on the same `1.0`-`10.0` scale as POIs, so destinations and the sights within them sort consistently everywhere they're listed together.
+
+These scores aren't hand-picked one at a time the way POI scores are. They come from `tools/rank_locations.py`, which repeatedly asks Claude to order small batches of destinations from best to worst, fits a Plackett-Luce model to the accumulated pairwise rankings, and percentile-maps the result onto the same score distribution as scored POIs (`POI_SCORE_QUANTILES` in that file). This keeps location and POI scores comparable without manually comparing every location against every POI.
+
+A brand-new city/feature/island page won't have a score until it's been through that process. Don't leave it unscored in the meantime — either:
+- run `python tools/rank_locations.py discover`, then enough `run --rounds` against the Claude API to get it compared, then `apply`; or
+- if that's not practical right now, hand-calibrate a score by comparing the new page against sibling locations in the same parent directory, the same way you would for a POI.
+
+**Countries, regions, and continents are scored on a separate, older `0.0`-`1.0` scale** that predates this system and is unrelated to it — don't try to "fix" a country score that looks low next to a city's `7.4`. Only `city`/`feature`/`island` locations and POIs use the `1.0`-`10.0` scale.
+
 ## Sources
 
 The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded. Any time we discover a source, add it to the list for future reference, both for pois & locs

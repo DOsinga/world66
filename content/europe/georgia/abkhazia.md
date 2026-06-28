@@ -3,7 +3,7 @@ done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-01'
 latitude: 43.150023
-loc_type: city
+loc_type: region
 longitude: 41.229979
 score: 6.78
 snippet: Black Sea breakaway region of subtropical coast, war-scarred politics, and

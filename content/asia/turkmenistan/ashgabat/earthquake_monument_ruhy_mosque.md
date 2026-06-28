@@ -1,7 +1,16 @@
 ---
+latitude: 37.920278
+longitude: 58.3275
 score: 7.4
+sources:
+- https://ayan-turkmenistan.travel/tours/ayan-travel/national-memorial-complex-with-earthquake-monument-and-wwii-memorial
+- https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_Ruhy_Mosque
 tags:
 - things_to_do
+- sight
+- monument
+- memorial
+- mosque
 title: Earthquake Monument and Ruhy Mosque
 type: poi
 ---

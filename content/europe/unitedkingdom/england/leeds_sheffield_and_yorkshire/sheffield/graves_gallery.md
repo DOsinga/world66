@@ -2,6 +2,7 @@
 address: Surrey Street, Sheffield S1 1XZ
 latitude: 53.3801
 longitude: -1.4667
+score: 7.1
 snippet: Permanent gallery of British and European fine art above the Central Library
 tags:
 - things_to_do

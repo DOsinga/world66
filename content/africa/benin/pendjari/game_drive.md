@@ -1,11 +1,12 @@
 ---
+latitude: 11.42
+longitude: 1.4
+score: 9.0
+tags:
+- things_to_do
+- sight
 title: Pendjari Game Drive
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 11.42
-longitude: 1.40
 ---
 
 The classic Pendjari experience is a slow loop through the park in a 4WD with a local guide, starting at dawn or in the late afternoon when animals are most active. A typical morning drive from the Batia area runs north on the main central track to one of the waterholes, then either east toward the river country or west toward the Porga end of the park, returning to base by late morning before the heat shuts everything down.

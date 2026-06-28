@@ -1,4 +1,7 @@
 ---
+latitude: 53.7331
+longitude: 7.3977
+score: 8.2
 snippet: A broad sandy beach running the full length of the island's north shore
 tags:
 - things_to_do
@@ -6,7 +9,6 @@ tags:
 - beach
 title: North Beach
 type: poi
-score: 8.2
 ---
 
 Baltrum's north beach is the island's main reason for being. It stretches the full length of the island — about five kilometres — and at low tide is impressively broad, with firm sand that makes walking easy and a gradual entry into the sea that works well for families. The water is cold even in summer (rarely above 18°C), but the shallow profile makes it safer than many North Sea beaches.

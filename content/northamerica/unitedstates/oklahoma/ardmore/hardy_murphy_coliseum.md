@@ -1,7 +1,12 @@
 ---
+latitude: 34.162852
+longitude: -97.125449
 score: 5.5
 tags:
 - things_to_do
+- sight
+- arena
+- events
 title: Hardy Murphy Coliseum
 type: poi
 ---

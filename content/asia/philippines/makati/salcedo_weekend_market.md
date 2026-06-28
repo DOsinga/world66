@@ -1,7 +1,11 @@
 ---
+latitude: 14.56
+longitude: 121.0231
 score: 7.2
 tags:
 - things_to_do
+- market
+- food
 title: Salcedo Weekend Market
 type: poi
 ---

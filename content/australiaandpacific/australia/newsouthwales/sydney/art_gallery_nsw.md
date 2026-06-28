@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - museum
+  - cbd
 latitude: -33.8688
 longitude: 151.2175
 sources:

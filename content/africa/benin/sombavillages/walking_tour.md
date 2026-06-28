@@ -1,12 +1,13 @@
 ---
+latitude: 10.2
+longitude: 1.15
+score: 8.4
+tags:
+- things_to_do
+- sight
+- hike
 title: Walking the Somba hills
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - hike
-latitude: 10.20
-longitude: 1.15
 ---
 
 The best way to see the Somba country is to walk it. Distances between compounds are short — a few hundred metres to two or three kilometres — and the paths are easy enough underfoot, mostly hard-baked earth between sorghum fields and rocky outcrops. A half-day route out of Boukoumbé or Koussoukoingou will easily take in three or four compounds with time to sit at each one, accept a calabash of beer, and let the families show you around.

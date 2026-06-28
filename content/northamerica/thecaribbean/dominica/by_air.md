@@ -1,10 +1,10 @@
 ---
-snippet: "Two small airports with inter-island connections, no direct long-haul flights"
+score: 5.2
+snippet: Two small airports with inter-island connections, no direct long-haul flights
 tags:
 - getting_there
 title: By Air
-type: poi
-score: 5.2
+type: theme
 ---
 
 Dominica has two airports. **Douglas-Charles Airport** (DOM, also called Melville Hall) on the northeast coast is the larger of the two and handles most inter-island traffic. It is about one hour from Roseau by road. **Canefield Airport** sits just north of Roseau and is used by small charter and inter-island flights.

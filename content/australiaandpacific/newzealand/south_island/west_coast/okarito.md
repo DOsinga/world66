@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Okarito_Lagoon_03.jpg
 latitude: -43.2
 loc_type: city
 longitude: 170.2167
-score: 0.36
+score: 6.9
 snippet: Tiny West Coast settlement beside a wild lagoon, known for kayaking and rowi
   kiwi.
 sources:

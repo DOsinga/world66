@@ -1,11 +1,12 @@
 ---
+latitude: 10.2
+longitude: 1.15
+score: 6.8
+tags:
+- things_to_do
+- sight
 title: Sacred groves and ancestor shrines
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 10.20
-longitude: 1.15
 ---
 
 Scattered through the Somba country are small fenced groves of mature trees that have never been cut — the sacred groves where ancestors are honoured, sacrifices are made, and certain rituals are performed away from the everyday compound. They are not always obvious from the outside (sometimes just a knot of mature trees in an otherwise cleared landscape), and they are not places where visitors can simply wander in.

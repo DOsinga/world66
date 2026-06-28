@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:706_MPR_Presov.JPG
 latitude: 49.0017
 loc_type: city
 longitude: 21.2394
-score: 0.49
+score: 7.36
 snippet: Eastern Slovak regional city with a long main street, Rusyn culture, and
   nearby Šariš Castle.
 sources:

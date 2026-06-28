@@ -2,7 +2,7 @@
 latitude: 54.694
 longitude: 11.397
 loc_type: city
-score: 0.38
+score: 6.97
 tags:
 - lolland
 title: Rødby

@@ -1,11 +1,14 @@
 ---
-snippet: A network of cycling and walking paths covering most of the island's five-kilometre length
+latitude: 53.7277
+longitude: 7.392
+score: 7.3
+snippet: A network of cycling and walking paths covering most of the island's five-kilometre
+  length
 tags:
 - things_to_do
 - nature
 title: Cycling and Walking the Island
 type: poi
-score: 7.3
 ---
 
 Baltrum has a small network of cycling and walking paths running across the dunes and along the flat centre of the island. With no cars and no hills, the island can be cycled end to end in under an hour on one of the rental bikes available from the village. The western end of the island is a nature reserve and can only be entered on foot; it holds nesting colonies of terns and other seabirds in the breeding season.

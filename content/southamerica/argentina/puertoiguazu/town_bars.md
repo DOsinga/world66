@@ -1,7 +1,10 @@
 ---
+latitude: -25.6
+longitude: -54.5714
 score: 5.4
 tags:
 - bars_and_cafes
+- bar
 title: Bars on Avenida Córdoba
 type: poi
 ---

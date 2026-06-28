@@ -1,8 +1,15 @@
 ---
+latitude: 11.596944
+longitude: 165.5125
 score: 8.7
+sources:
+- https://wikimapia.org/18734605/Wreck-of-USS-Arkansas-BB-33
+- https://wreckedinmyrevo.com/2023/08/03/uss-arkansas-bikini-atoll-170-fsw/
 tags:
 - things_to_do
 - diving
+- wreck
+- history
 title: USS Arkansas
 type: poi
 ---

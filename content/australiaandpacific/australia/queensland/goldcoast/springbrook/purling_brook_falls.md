@@ -1,7 +1,14 @@
 ---
+latitude: -28.1914
+longitude: 153.2732
 score: 8.4
+sources:
+- https://www.queensland.com/us/en/plan-your-holiday/journeys/p-56b2624b2880253d74c4b16e-purling-brook-falls-circuit-springbrook-national-park
 tags:
 - things_to_do
+- sight
+- waterfall
+- hiking
 title: Purling Brook Falls
 type: poi
 ---

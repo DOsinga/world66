@@ -1,10 +1,14 @@
 ---
 latitude: 52.6541
 longitude: -7.2448
+score: 7.2
 snippet: Compact medieval city easily explored on foot in an hour
+tags:
+- things_to_do
+- sight
+- walking_tour
 title: Walk
 type: poi
-score: 7.2
 ---
 
 Kilkenny is compact enough to walk end-to-end in about 20 minutes, which makes it one of the most agreeable cities in Ireland to explore on foot. The medieval mile between the castle and St Canice's Cathedral is the main axis — along it you'll find the castle gardens, the Tholsel (the old city hall), and a cluster of well-preserved Norman buildings.

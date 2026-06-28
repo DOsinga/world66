@@ -2,6 +2,7 @@
 address: Aleea Dealul Mitropoliei 25, Bucharest
 latitude: 44.4246
 longitude: 26.0978
+score: 7.3
 snippet: 17th-century Orthodox cathedral on the hill of the Patriarchate
 tags:
 - things_to_do

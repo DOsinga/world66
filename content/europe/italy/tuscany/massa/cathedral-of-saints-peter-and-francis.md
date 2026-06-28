@@ -1,7 +1,12 @@
 ---
+latitude: 44.036
+longitude: 10.1402
 score: 7.0
 tags:
 - things_to_do
+- sight
+- church
+- architecture
 title: Cathedral of Saints Peter and Francis
 type: poi
 ---

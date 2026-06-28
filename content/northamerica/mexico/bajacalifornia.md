@@ -7,7 +7,7 @@ image_attribution: Thelmadatter
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:CaboSanLucasPort09.JPG
 latitude: 30.033892
-loc_type: city
+loc_type: region
 longitude: -115.142511
 score: 8.01
 snippet: Long arid peninsula between the Pacific and Gulf of California, stretching

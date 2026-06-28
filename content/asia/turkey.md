@@ -35,11 +35,13 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 
 - [Istanbul](/asia/turkey/istanbul) — the great city, straddling two continents
 - [Ankara](/asia/turkey/ankara) — the capital; worth a day for the Anatolian Civilizations Museum
+- [Akşehir](/asia/turkey/aksehir) — Nasreddin Hoca's town, with Seljuk tombs and War of Independence memory
 - [Izmir](/asia/turkey/izmir) — the modern, secular west-coast city
 - [Antalya](/asia/turkey/antalya) — gateway to the Mediterranean coast
 - [Cappadocia](/asia/turkey/cappadocia) — the fairy-chimney landscape of central Anatolia
 - [Ephesus](/asia/turkey/ephesus) — arguably the best-preserved Roman city in the world
-- Bodrum — Aegean resort with history and good nightlife
+- [Bodrum](/asia/turkey/bodrum) — Aegean resort with history and good nightlife
+- [Datça](/asia/turkey/datca) — quieter Aegean peninsula town for Knidos, coves, and old villages
 - [Fethiye](/asia/turkey/fethiye) and [Marmaris](/asia/turkey/marmaris) — yachting bases on the Turquoise Coast
 - [Selcuk](/asia/turkey/selcuk) — the small town closest to Ephesus
 - [Side](/asia/turkey/side) — Roman ruins on the Mediterranean coast
@@ -54,11 +56,16 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Troy](/asia/turkey/troy) — the legendary city near Canakkale
 - [Bursa](/asia/turkey/bursa) — first Ottoman capital, great bazaar, good food
 - [Canakkale](/asia/turkey/canakkale) — ferry town for Gallipoli and Troy
+- [Edremit](/asia/turkey/edremit) — northern Aegean base for Mount Ida, olive country, thermal villages, and gulf beaches
 - [Kusadasi](/asia/turkey/kusadasi) — cruise-ship port and base for Ephesus
 - [Alanya](/asia/turkey/alanya) — beach resort on the eastern Mediterranean coast
 - [Pamukale](/asia/turkey/pamukale) — the white calcium terraces and ancient Hierapolis above them
 - [Aphrodisias](/asia/turkey/aphrodisias) — underrated Roman site inland from the coast
 - [Dogubeyazit](/asia/turkey/dogubeyazit) — border town below Mount Ararat
 - [Edirne](/asia/turkey/edirne) — Ottoman city near the Greek and Bulgarian borders
+- [Uzunköprü](/asia/turkey/uzunkopru) — Eastern Thrace town named for its long Ottoman bridge
 - [Eskisehir](/asia/turkey/eskisehir) — lively university city
+- [Divriği](/asia/turkey/divrigi) — remote Anatolian town with a UNESCO-listed medieval mosque and hospital
+- [Burdur](/asia/turkey/burdur) — Lakes District market town with Sagalassos finds and nearby karst scenery
 - [Trabzon region](/asia/turkey/kackar) — Black Sea coast and the Kackar mountains
+- [Tokat](/asia/turkey/tokat) — Black Sea hinterland city of hilltop castle ruins, old mansions, mosques, and caravanserai

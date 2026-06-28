@@ -1,13 +1,18 @@
 ---
 latitude: 43.668028
 longitude: -79.299722
-snippet: Lakeside neighbourhood with a boardwalk, sandy beaches, and a village main street
+snippet: Lakeside neighbourhood with a boardwalk, sandy beaches, and a village main
+  street
 tags:
 - things_to_do
 - neighbourhood
 - beach
 title: The Beaches
 type: neighbourhood
+image: the_beaches.jpg
+image_source: https://commons.wikimedia.org/wiki/File:BoardwalkBeaches.jpg
+image_license: CC BY-SA 2.0
+image_attribution: John Vetterli
 ---
 
 The Beaches is a lakeside neighbourhood in the city's east end that genuinely does have beaches — four of them (Kew Beach, Woodbine Beach, Balmy Beach, and Eastern Beaches), connected by a boardwalk that runs 3 kilometres along the water. In summer, the stretch from Kew Gardens east to Balmy Beach has a real seaside feel that is unusual for an inland city of Toronto's size.

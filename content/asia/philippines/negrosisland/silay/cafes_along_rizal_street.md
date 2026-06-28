@@ -1,10 +1,13 @@
 ---
+latitude: 10.8008
+longitude: 122.9755
+score: 5.9
+tags:
+- bars_and_cafes
+- cafe
+- heritage
 title: Heritage Cafes Along Rizal Street
 type: poi
-tags:
-  - bars_and_cafes
-  - cafe
-score: 5.9
 ---
 
 A handful of small cafes have opened along and near Rizal Street in recent years, tucked into the ground floors of heritage buildings or in gardens behind ancestral houses. They cater to the day-trip crowd from Bacolod and serve the standard Filipino cafe menu — brewed coffee, fruit shakes, light rice meals, and an obligatory selection of local pastries. The setting, more than the coffee itself, is the draw: ceiling fans, wooden floors, and the relative quiet of a city that has not been overrun by tourism.

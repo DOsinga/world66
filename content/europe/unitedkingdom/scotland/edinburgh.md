@@ -30,5 +30,5 @@ In August, the city transforms for the **Festivals** — the Fringe, the Interna
 
 ## Destinations in Edinburgh
 
-[New Town](/europe/unitedkingdom/scotland/edinburgh/newtown_1)
+[New Town](/europe/unitedkingdom/scotland/edinburgh/newtown)
 [Stockbridge](/europe/unitedkingdom/scotland/edinburgh/stockbridge)

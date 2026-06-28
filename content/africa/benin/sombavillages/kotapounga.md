@@ -1,13 +1,14 @@
 ---
+latitude: 10.2333
+longitude: 1.2
+score: 6.2
+sources:
+- https://en.wikipedia.org/wiki/Kotapounga
+tags:
+- things_to_do
+- sight
 title: Kotapounga
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 10.2333
-longitude: 1.20
-sources:
-  - https://en.wikipedia.org/wiki/Kotapounga
 ---
 
 Kotapounga is a small arrondissement north of Boukoumbé where the country opens out into rolling millet fields and scattered baobabs. The settlement pattern here is even more dispersed than at Koussoukoingou — tata compounds stand alone across the landscape, sometimes a kilometre or more apart, each with its own granaries and shrine. The walking between them is half the point.

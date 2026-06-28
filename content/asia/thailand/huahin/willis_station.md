@@ -2,14 +2,16 @@
 accessibility: In the heart of Hua-Hin (Centre)
 address: 20/4 Poolsuk Rod
 email: willy.station@bluewin.ch
+latitude: 12.5685
+longitude: 99.9587
 price: THB 100+
+score: 3.8
 tags:
 - eating_out
 - restaurant
 title: Willi's Station
 type: poi
 url: www.willys-station.ch
-score: 3.8
 ---
 
 **[Come an pamper your self at our cosy](/asia/thailand/huahin/eating_out)**

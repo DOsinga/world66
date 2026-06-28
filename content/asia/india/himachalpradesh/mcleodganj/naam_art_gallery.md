@@ -1,13 +1,17 @@
 ---
 address: Main Road Sidhbari, Dharamsala
 category: Museum
+latitude: 32.1887
+longitude: 76.3573
 phone: 09816043708
+score: 6.4
 tags:
 - things_to_do
+- museum
+- gallery
 title: Naam Art Gallery
 type: poi
 url: naamartgallery.com
-score: 6.4
 ---
 
 Naam Art Gallery permanently exhibits watercolours and acrylics by German painter Elsbeth Buschmann and oil paintings by English painter A.W. Hallett. Buschmann studied painting in London and Paris and has works in private collections across Germany, the USA, Scotland, India, and Switzerland. Hallett, a Fellow of the Royal Academy of Art, lived over forty years at Dharamsala and became well known for his paintings of Himachal Pradesh's culture and scenery. He passed away in 1986 at Dharamsala.

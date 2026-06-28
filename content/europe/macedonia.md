@@ -32,6 +32,7 @@ The capital [Skopje](skopje) was badly damaged by an earthquake in the 1960-ies.
 [Strumica](/europe/macedonia/strumica)
 [Bitola](/europe/macedonia/bitola)
 [Florina](/europe/macedonia/florina)
+[Kumanovo](/europe/macedonia/kumanovo)
 [Veles](/europe/macedonia/veles)
 Plackovica
 Vardar River

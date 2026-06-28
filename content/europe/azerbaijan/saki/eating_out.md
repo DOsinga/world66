@@ -1,13 +1,10 @@
 ---
 address: Nukha street
 email: farrukh@nuxa .az
-latitude: 41.202435
-longitude: 47.171634
 phone: '+994557957489'
 price: good price
 title: Eating Out
-type: poi
-score: 2.5
+type: section
 ---
 
 **Restaurants:**

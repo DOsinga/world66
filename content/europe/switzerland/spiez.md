@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_Schloss_Spiez_un
 latitude: 46.6833
 loc_type: city
 longitude: 7.6667
-score: 0.5
+score: 7.4
 snippet: Lake Thun town with a castle, vineyards, and a sheltered bay below the Niesen.
 sources:
 - https://en.wikipedia.org/wiki/Spiez

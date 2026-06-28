@@ -4,7 +4,7 @@ done:
 latitude: 62.299167
 loc_type: city
 longitude: -7.090278
-score: 0.49
+score: 7.36
 snippet: North Eysturoy village facing the Risin og Kellingin sea stacks and high
   moorland roads.
 sources:

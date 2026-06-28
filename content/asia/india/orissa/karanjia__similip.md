@@ -5,7 +5,7 @@ done:
 latitude: 21.7272
 loc_type: feature
 longitude: 86.1172
-score: 0.32
+score: 6.75
 snippet: Odisha town in Mayurbhanj district, serving as the main gateway to Similipal
   National Park.
 title: Karanjia & Similipal

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Av_Mohamed_V,_Nador_(cropp
 latitude: 35.1667
 loc_type: city
 longitude: -2.9333
-score: 0.32
+score: 6.75
 snippet: Rif coast city on Morocco's Marchica Lagoon, with Melilla and wild Mediterranean
   hills close by.
 sources:

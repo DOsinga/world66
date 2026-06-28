@@ -1,11 +1,14 @@
 ---
 address: 47 Tomb of the King's Ave.
+latitude: 34.7714
+longitude: 32.4101
 phone: 06-949619
+score: 4.7
 tags:
 - eating_out
+- restaurant
 title: Fat Mama's
 type: poi
-score: 4.7
 ---
 
 This restaurant offers not one, but two menus! It's basically two restaurants (Fat Mama's and Willy's Rib Ranch) put together and the mix creates an extensive choice of very reasonably priced meals that are large enough to fill even the most capacious belly!

@@ -6,7 +6,7 @@ image: michoacan.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cerro_Patamban.jpg
 latitude: 19.207098
-loc_type: city
+loc_type: region
 longitude: -101.878113
 score: 7.58
 snippet: Western Mexican state of Purépecha heritage, colonial towns, Pacific coast,

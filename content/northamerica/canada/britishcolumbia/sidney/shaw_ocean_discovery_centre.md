@@ -1,7 +1,11 @@
 ---
+latitude: 48.64956
+longitude: -123.39485
 score: 7.1
 tags:
 - things_to_do
+- museum
+- nature
 title: Shaw Ocean Discovery Centre
 type: poi
 ---

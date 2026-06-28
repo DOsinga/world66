@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calafia_Park,_San_Clemente
 latitude: 33.4378
 loc_type: city
 longitude: -117.6203
-score: 0.46
+score: 7.26
 snippet: Southern Orange County surf town with Spanish Colonial streets, a long pier,
   and Trestles nearby.
 sources:

@@ -1,11 +1,13 @@
 ---
+latitude: 12.5702
+longitude: 99.9585
+score: 4.8
 tags:
 - eating_out
 - restaurant
 title: La Villa Restaurant Hua Hin
 type: poi
 url: www.la-villa-huahin.com
-score: 4.8
 ---
 
 La Villa restaurant Hua Hin famous and popular Italian restaurant in Hua Hin Thailand

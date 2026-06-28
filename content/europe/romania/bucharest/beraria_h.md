@@ -2,6 +2,7 @@
 address: Aleea Pavilioanele Expoziției 2, Bucharest
 latitude: 44.4767
 longitude: 26.076
+score: 6.9
 snippet: Vast beer hall and live-music venue near Herăstrău Park
 tags:
 - bars_and_cafes

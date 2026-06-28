@@ -1,9 +1,12 @@
 ---
-title: Bansko International Jazz Festival
-type: poi
-tags: [things_to_do, sight]
 latitude: 41.8378
 longitude: 23.4875
+score: 7.0
+tags:
+- things_to_do
+- festival
+title: Bansko International Jazz Festival
+type: poi
 ---
 
 The Bansko International Jazz Festival runs for a week every August, with free open-air concerts on the main Varosha square in front of the Holy Trinity bell tower. Running since 1998, it has hosted Joshua Redman, Bobby McFerrin, Branford Marsalis and a long list of European and Bulgarian acts, and it draws a crowd that more than doubles the town's population for the week.

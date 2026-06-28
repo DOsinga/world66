@@ -2,10 +2,12 @@
 address: Quai de Meuse, 5500 Dinant
 latitude: 50.2597
 longitude: 4.9131
+score: 7.7
 snippet: River cruises south from Dinant to Anseremme, Freÿr, and Hastière
 tags:
 - things_to_do
 - sight
+- river
 title: Meuse Boat Trips
 type: poi
 ---

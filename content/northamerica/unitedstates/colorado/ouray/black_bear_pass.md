@@ -3,6 +3,7 @@ done:
   link_coverage: '2026-06-26'
 latitude: 37.8956
 longitude: -107.7706
+score: 8.4
 sources:
 - https://en.wikipedia.org/wiki/Black_Bear_Pass
 story: 'The road originally served the Black Bear Mine on the Telluride side of the

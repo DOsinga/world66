@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wybrze%C5%BCe_Bornholmu.JP
 latitude: 55.1431
 loc_type: feature
 longitude: 14.9226
-score: 0.59
+score: 7.69
 title: Bornholm Island
 type: location
 snippet: Baltic Danish island of granite coast, sandy beaches, round churches, smokehouses,

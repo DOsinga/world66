@@ -1,7 +1,11 @@
 ---
+latitude: 9.1398
+longitude: 99.3249
 score: 7.3
 tags:
 - things_to_do
+- market
+- street_food
 title: Night Markets and Southern Thai Food
 type: poi
 ---

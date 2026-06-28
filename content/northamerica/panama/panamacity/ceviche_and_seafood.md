@@ -1,7 +1,12 @@
 ---
+latitude: 8.952
+longitude: -79.536
 score: 7.7
 tags:
 - eating_out
+- restaurant
+- seafood
+- market
 title: Ceviche and seafood
 type: poi
 ---

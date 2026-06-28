@@ -1,7 +1,10 @@
 ---
+latitude: 37.2091
+longitude: -93.291
 score: 5.8
 tags:
 - eating_out
+- restaurant
 title: Farmer's Gastropub
 type: poi
 ---

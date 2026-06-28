@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eglise_d%27Ouara_(42797961
 latitude: -22.4316
 loc_type: island
 longitude: 166.8239
-score: 0.43
+score: 7.15
 snippet: Low-key island south of Nouméa, known for Kanak village life, reef water,
   and Prony Bay access.
 sources:

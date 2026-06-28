@@ -2,7 +2,7 @@
 latitude: 54.832
 longitude: 11.1492
 loc_type: city
-score: 0.4
+score: 7.04
 tags:
 - lolland
 title: Nakskov

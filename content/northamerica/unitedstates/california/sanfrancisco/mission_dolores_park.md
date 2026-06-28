@@ -2,16 +2,16 @@
 address: Dolores St and 19th St
 latitude: 37.7597
 longitude: -122.4261
+score: 8.3
 snippet: The city's favourite sunny hangout, with downtown views and people-watching
+story: The park sits on the site of a former Jewish cemetery. After the 1906 earthquake,
+  it served as a refugee camp for more than 1,600 families whose homes had been destroyed.
 tags:
 - things_to_do
 - park
 - mission_district
 title: Mission Dolores Park
-neighbourhood: Mission District
 type: poi
-story: "The park sits on the site of a former Jewish cemetery. After the 1906 earthquake, it served as a refugee camp for more than 1,600 families whose homes had been destroyed."
-score: 8.3
 ---
 
 Dolores Park is where San Francisco goes to soak up the sun. On a warm weekend afternoon, up to 10,000 people spread across the sloping lawns -- picnicking, playing, sunbathing, and taking in the view of the downtown skyline framed by palm trees. The park sits in the Mission's sunny microclimate, which means it can be glorious here while the rest of the city shivers in fog.

@@ -2,6 +2,7 @@
 address: Calea Victoriei 36, Bucharest
 latitude: 44.4355
 longitude: 26.0981
+score: 7.0
 snippet: 1852 hotel and café, the literary heart of Belle Époque Bucharest
 tags:
 - eating_out

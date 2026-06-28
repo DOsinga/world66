@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Tamerza.jpg
 latitude: 34.38
 loc_type: city
 longitude: 7.95
-score: 0.45
+score: 7.22
 snippet: Western Tunisian mountain oasis of waterfalls, ruined stone houses, and canyons
   near the Algerian border.
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: 43.058
 loc_type: city
 longitude: 11.489
-score: 0.61
+score: 7.75
 snippet: Hilltop Tuscan wine town above Val d'Orcia, guarded by a fortress and Brunello
   vineyards.
 sources:

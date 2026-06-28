@@ -2,10 +2,13 @@
 address: Rochers de Freÿr, 5500 Dinant
 latitude: 50.2254
 longitude: 4.894
+score: 7.4
 snippet: Towering limestone cliffs on the Meuse, popular with climbers
 tags:
 - things_to_do
 - sight
+- climbing
+- geology
 title: Rocks at Freÿr
 type: poi
 ---

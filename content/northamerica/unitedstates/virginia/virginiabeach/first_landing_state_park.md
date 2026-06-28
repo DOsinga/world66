@@ -1,7 +1,13 @@
 ---
+latitude: 36.9061
+longitude: -76.0153
 score: 8.7
 tags:
 - things_to_do
+- sight
+- park
+- history
+- nature
 title: First Landing State Park
 type: poi
 ---

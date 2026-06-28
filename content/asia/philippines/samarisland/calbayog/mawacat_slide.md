@@ -1,9 +1,14 @@
 ---
+latitude: 12.1735
+longitude: 124.5271
+score: 6.4
 tags:
-- sights
+- things_to_do
+- sight
+- waterfall
+- swimming
 title: Mawacat Slide
 type: poi
-score: 6.4
 ---
 
 Located a 35-minute ride from Oquendo District, Calbayog City

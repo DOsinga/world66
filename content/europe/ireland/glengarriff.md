@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Pool,_Glengariff_(2).
 latitude: 51.75
 loc_type: city
 longitude: -9.552
-score: 0.38
+score: 6.97
 snippet: Small West Cork village where Bantry Bay, wooded glens, and the Caha Mountains
   meet.
 sources:

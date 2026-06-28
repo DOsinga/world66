@@ -1,12 +1,15 @@
 ---
 accessibility: Just over one block off the Plaza de Armas.  Wheelchair accessible
 address: 'Jr. Alegria Arias de Morey #229 (Just a few doors north of Jr. Grau)'
+latitude: -6.4892
+longitude: -76.3638
 phone: 042 531380
+score: 4.6
 tags:
 - shopping
+- local_craft
 title: Irinita's Net
 type: poi
-score: 4.6
 ---
 
 Nestled in the new space of the largest ground-level Internet cafe in Tarapoto is an artesenia (local crafts) shop, featuring jewelry made from natural products with local designs and motifs. Necklaces, earrings, bracelets, keychains, coin purses, handpainted pottery, and other handicrafts are constantly rotated through the artesania collection at Irinita's Net. It is the northernmost artesania on a strip of shops that runs from Jr. Lima to Jr. Leoncio Prado on Jr. Alegria Arias de Morey.

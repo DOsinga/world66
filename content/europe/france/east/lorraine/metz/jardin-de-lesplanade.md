@@ -1,10 +1,14 @@
 ---
 category: Park
-image_url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Esplanade-metz.jpg
 image_license: CC BY-SA 3.0
+image_url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Esplanade-metz.jpg
 latitude: 49.1198
 longitude: 6.1736
 score: 6.6
+tags:
+- things_to_do
+- sight
+- park
 title: Jardin de l'Esplanade
 type: poi
 ---

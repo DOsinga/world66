@@ -4,7 +4,7 @@ done:
 latitude: 42.43
 loc_type: city
 longitude: 18.7
-score: 0.45
+score: 7.22
 snippet: Bay of Kotor town where a former naval base has become Montenegro's glossy
   marina quarter.
 sources:

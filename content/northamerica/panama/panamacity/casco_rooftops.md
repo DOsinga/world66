@@ -1,7 +1,11 @@
 ---
+latitude: 8.9468
+longitude: -79.536
 score: 6.9
 tags:
 - bars_and_cafes
+- bar
+- casco_viejo
 title: Casco Viejo rooftop bars
 type: poi
 ---

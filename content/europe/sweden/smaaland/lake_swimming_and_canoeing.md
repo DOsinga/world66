@@ -1,9 +1,6 @@
 ---
-score: 8.2
-tags:
-- things_to_do
 title: Lake Swimming and Canoeing
-type: poi
+type: theme
 ---
 
 Småland has over five thousand lakes scattered through its forests, and in summer they are the main reason to be outdoors. The water warms quickly in June and stays swimmable through August. Most lakes have free public access under Sweden's allemansrätten (right to roam), and it is perfectly normal to pull over on a forest road, walk through the trees, and swim from an unmarked shore. Larger lakes like Bolmen, Åsnen, and Sommen have maintained bathing spots with changing facilities, but the smaller lakes offer more solitude.

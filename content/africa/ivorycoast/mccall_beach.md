@@ -1,8 +1,11 @@
 ---
+latitude: 5.196
+longitude: -3.733
 score: 5.8
 tags:
-- beaches
+- things_to_do
 - sight
+- beach
 title: Bassam Beach
 type: poi
 ---

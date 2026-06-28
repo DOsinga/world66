@@ -3,7 +3,7 @@ title: Melbourne Zoo
 type: poi
 tags:
   - things_to_do
-  - carlton
+  - parkville
   - sight
   - wildlife
 latitude: -37.7842

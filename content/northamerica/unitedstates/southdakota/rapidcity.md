@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dow%27s_Park,_Rapid_City,_
 latitude: 44.0714
 loc_type: city
 longitude: -103.2208
-score: 0.48
+score: 7.33
 snippet: Black Hills gateway city with presidential statues, dinosaur kitsch, museums,
   and easy park access.
 sources:

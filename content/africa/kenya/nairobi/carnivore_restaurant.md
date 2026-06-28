@@ -1,6 +1,6 @@
 ---
-latitude: -1.33
-longitude: 36.7816
+latitude: -1.32923
+longitude: 36.8009
 score: 7.2
 snippet: Legendary game-meat restaurant where waiters circle with sword-skewered cuts
   until you raise the flag

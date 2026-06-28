@@ -6,7 +6,7 @@ image_attribution: Nihonsuku
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Nagano.jpg
 latitude: 36.6456
-loc_type: city
+loc_type: region
 longitude: 138.1885
 score: 9.08
 snippet: Mountain-ringed Japanese regional capital known for Zenkō-ji pilgrimage culture

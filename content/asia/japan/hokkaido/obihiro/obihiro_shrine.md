@@ -11,6 +11,7 @@ snippet: Quiet Shinto shrine in a wooded precinct on the eastern side of central
 sources:
   - https://en.wikivoyage.org/wiki/Obihiro
   - https://www.japan.travel/en/spot/2144/
+score: 6.4
 ---
 
 Obihiro Shrine is a calm stop among trees east of the city centre. The grounds are at their best when you want a simple walk, a bit of shade, and a break from the grid of central Obihiro.

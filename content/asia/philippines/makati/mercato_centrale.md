@@ -1,7 +1,11 @@
 ---
+latitude: 14.5517
+longitude: 121.0495
 score: 6.0
 tags:
 - eating_out
+- market
+- street_food
 title: Mercato Centrale
 type: poi
 ---

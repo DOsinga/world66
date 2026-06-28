@@ -1,7 +1,12 @@
 ---
+latitude: 35.4433
+longitude: 139.6438
 score: 8.2
 tags:
 - things_to_do
+- neighbourhood
+- food
+- shopping
 title: Chinatown (Chukagai)
 type: poi
 ---

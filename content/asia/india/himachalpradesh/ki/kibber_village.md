@@ -11,6 +11,7 @@ tags:
 - village
 title: Kibber Village
 type: poi
+score: 7.7
 ---
 
 Kibber is often paired with Ki because the same road continues up from the monastery. The village sits at roughly 4,200 metres, with stone houses, fields, and huge views across the dry Spiti mountains.

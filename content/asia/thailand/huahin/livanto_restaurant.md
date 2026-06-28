@@ -1,4 +1,7 @@
 ---
+latitude: 12.5678
+longitude: 99.9583
+score: 4.7
 tags:
 - eating_out
 - cafe
@@ -6,7 +9,6 @@ tags:
 title: Livanto Restaurant Hua Hin
 type: poi
 url: www.livantohuahin.com
-score: 4.7
 ---
 
 LIVANTO THAI-EUROPEAN RESTAURANT

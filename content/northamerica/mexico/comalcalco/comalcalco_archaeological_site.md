@@ -10,6 +10,7 @@ tags:
   - sight
 title: "Comalcalco Archaeological Site"
 type: poi
+score: 8.0
 ---
 
 Comalcalco archaeological site is the city's real draw. It was a Classic-period Maya city and the westernmost major Maya centre, built on the wet coastal plain where stone was scarce and clay was abundant.

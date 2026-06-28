@@ -1,12 +1,13 @@
 ---
+latitude: 10.18
+longitude: 1.2
+score: 7.8
+tags:
+- things_to_do
+- sight
+- nature
 title: Atakora ridge views
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-latitude: 10.18
-longitude: 1.20
 ---
 
 The Somba villages sit on and below a series of rocky ridges that are an outlier of the Atakora chain — not high mountains, but enough relief to give the country a different feel from the flat savanna further east. The best views are from the ridge above Koussoukoingou and from the tracks running along the watershed north of Boukoumbé. On clear mornings you can see across into Togo and back over the Beninese hills in long blue layers.

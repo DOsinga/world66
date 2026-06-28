@@ -1,15 +1,18 @@
 ---
+latitude: 41.8378
+longitude: 23.49
+score: 8.0
+story: 'The eight-seater gondola was installed in 2003 as part of the privatised expansion
+  of the ski area, replacing a slow chairlift and turning Bansko almost overnight
+  into Bulgaria''s most-visited resort. It also drove much of the construction boom
+  — and over-construction — that now flanks the town''s southern edge.
+
+  '
+tags:
+- things_to_do
+- sight
 title: Bansko Gondola
 type: poi
-tags: [things_to_do, sight]
-latitude: 41.8378
-longitude: 23.4900
-story: >
-  The eight-seater gondola was installed in 2003 as part of the privatised
-  expansion of the ski area, replacing a slow chairlift and turning Bansko
-  almost overnight into Bulgaria's most-visited resort. It also drove much
-  of the construction boom — and over-construction — that now flanks the
-  town's southern edge.
 ---
 
 The Bansko Gondola — a 6.3-kilometre cable car running from the bottom of town up to the Banderishka Polyana mid-station at 1,635 metres — is what made modern Bansko. In winter it carries skiers and snowboarders up to the main piste network; in summer it stays open at reduced hours for hikers heading into Pirin National Park.

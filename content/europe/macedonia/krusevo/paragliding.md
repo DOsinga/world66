@@ -11,6 +11,8 @@ sources:
 - https://en.wikivoyage.org/wiki/Kru%C5%A1evo
 - https://xcmag.com/travel-guide/guide-to-krusevo-macedonia/
 - https://flywideopen.com/the-venue/
+latitude: 41.379
+longitude: 21.25
 ---
 
 Kruševo has become one of the Balkans' best-known paragliding venues. The town sits above a broad valley, with grassy launch areas, reliable summer conditions, and enough space for both tandem flights and serious cross-country flying.

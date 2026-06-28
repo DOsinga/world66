@@ -9,6 +9,7 @@ tags:
   - museum
 title: "Hacienda La Luz"
 type: poi
+score: 7.0
 ---
 
 Hacienda La Luz is a cacao estate and chocolate stop in central Comalcalco. Tours explain how cacao is grown and processed, and why Tabasco's hot, wet lowlands have been tied to chocolate since long before the Spanish arrived.

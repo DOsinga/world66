@@ -12,6 +12,7 @@ snippet: Green River park with a short trail to a loud, narrow waterfall carved 
 sources:
   - https://bcparks.ca/nairn-falls-park/
   - https://en.wikivoyage.org/wiki/Pemberton_(British_Columbia)
+score: 7.4
 ---
 
 Nairn Falls is the simplest strong outing from Pemberton. The trail from the day-use area is about 1.5 km each way, following the Green River to a viewpoint over water forced through a tight rock channel.

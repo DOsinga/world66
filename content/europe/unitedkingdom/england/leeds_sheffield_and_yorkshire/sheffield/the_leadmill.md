@@ -2,6 +2,7 @@
 address: 6 Leadmill Road, Sheffield S1 4SE
 latitude: 53.3774
 longitude: -1.4652
+score: 7.8
 snippet: Sheffield's most storied music venue, opened 1980
 story: Pulp, Arctic Monkeys, Coldplay, the Stone Roses, Radiohead, and Oasis all played
   The Leadmill on the way up. Jarvis Cocker famously worked the bar in the 1980s.

@@ -2,6 +2,7 @@
 address: Calea Șerban Vodă 249, Bucharest
 latitude: 44.4067
 longitude: 26.1019
+score: 7.2
 snippet: Romania's most important cemetery, with the graves of national poets and
   writers
 tags:

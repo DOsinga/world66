@@ -1,7 +1,11 @@
 ---
+latitude: 29.093
+longitude: 48.0658
 score: 7.0
 tags:
 - things_to_do
+- museum
+- oil
 title: Oil Display Centre
 type: poi
 ---

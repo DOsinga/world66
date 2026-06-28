@@ -3,10 +3,10 @@ address: 1356 Bass Pro Dr
 latitude: 37.782248
 longitude: -121.226179
 phone: 209-825-8400
-title: Shopping in Manteca
-type: poi
-url: www.basspro.com
 score: 3.2
+title: Shopping in Manteca
+type: section
+url: www.basspro.com
 ---
 
 Beyond the basics

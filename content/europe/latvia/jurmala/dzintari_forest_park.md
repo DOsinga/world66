@@ -1,7 +1,11 @@
 ---
+latitude: 56.9751
+longitude: 23.8179
 score: 6.6
 tags:
 - things_to_do
+- sight
+- park
 title: Dzintari Forest Park
 type: poi
 ---

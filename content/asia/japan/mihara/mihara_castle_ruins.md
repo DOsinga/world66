@@ -11,6 +11,7 @@ sources:
 - https://dive-hiroshima.com/en/explore/1261/
 - https://en.wikipedia.org/wiki/Mihara_Castle
 - https://en.wikivoyage.org/wiki/Mihara
+score: 6.5
 ---
 
 Mihara Castle was once known as a "floating castle" because its walls rose near the sea. The modern station now cuts through the site, which sounds unfortunate until you see how odd and memorable it is: stone walls, moats, and the old keep base sitting right beside the railway.

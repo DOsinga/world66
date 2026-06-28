@@ -3,8 +3,7 @@ snippet: Grilled freshwater eel glazed with sweet soy sauce
 tags:
 - food
 title: Unagi
-type: poi
-score: 8.0
+type: theme
 ---
 
 Unagi — grilled freshwater eel — is one of Japan's most revered delicacies. Specialist unagi restaurants (unagi-ya) can be found across the country, many of them family businesses passed down for generations. The preparation is an art: the eel is filleted, skewered, steamed, then grilled over charcoal while being basted repeatedly with tare, a thick sweet sauce made from soy, mirin, and sugar. The result is served over steaming white rice as unajuu (in a lacquered box) or unadon (in a bowl).

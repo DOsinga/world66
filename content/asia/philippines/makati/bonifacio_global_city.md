@@ -1,7 +1,12 @@
 ---
+latitude: 14.5494
+longitude: 121.0546
 score: 6.9
 tags:
 - things_to_do
+- neighbourhood
+- shopping
+- nightlife
 title: Bonifacio Global City
 type: poi
 ---

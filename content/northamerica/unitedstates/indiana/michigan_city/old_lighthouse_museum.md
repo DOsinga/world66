@@ -11,6 +11,7 @@ snippet: Restored 1858 lighthouse museum covering Michigan City's lake, pier, an
 sources:
   - https://michigancitylaporte.com/see-and-do/washington-park-beach/
   - https://en.wikivoyage.org/wiki/Michigan_City
+score: 6.7
 ---
 
 The Old Lighthouse Museum sits near the mouth of Trail Creek, close enough to the water that its purpose is obvious. Exhibits cover lighthouse keepers, shipping, and Michigan City's role on Lake Michigan.

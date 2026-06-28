@@ -1,7 +1,12 @@
 ---
+latitude: 35.4402
+longitude: 139.6505
 score: 6.4
 tags:
 - bars_and_cafes
+- motomachi
+- cafe
+- bar
 title: 'Motomachi and Yamate: Cafes and Bars'
 type: poi
 ---

@@ -1,12 +1,12 @@
 ---
 author: Ante Susnjara
 isbn: '9789535507703'
+score: 5.9
 snippet: Comprehensive guide to Illyrian, Greek, and Roman sites
 tags:
 - books
 title: The Practical Guide To Croatia's Archaeological Sites
-type: poi
-score: 5.9
+type: theme
 ---
 
 *By Ante Susnjara*

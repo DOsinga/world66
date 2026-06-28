@@ -1,7 +1,12 @@
 ---
+latitude: -23.889
+longitude: 32.08
 score: 8.3
 tags:
 - things_to_do
+- sight
+- wildlife
+- national_park
 title: Limpopo National Park
 type: poi
 ---

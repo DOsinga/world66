@@ -9,6 +9,7 @@ tags:
   - sight
 title: "Martin National Wildlife Refuge"
 type: poi
+score: 7.0
 ---
 
 Martin National Wildlife Refuge protects the northern half of Smith Island and nearby Watts Island, a wide expanse of Chesapeake salt marsh, tidal flats, shallow water, and bird habitat. It is one of the reasons the island feels so open once you get beyond the villages.

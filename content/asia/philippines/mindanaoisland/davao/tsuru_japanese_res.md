@@ -1,13 +1,16 @@
 ---
 address: Door 3, Don R. Castillo Bldg., Legaspi St. , Davao City
+latitude: 7.0689
+longitude: 125.6082
 phone: +63 (82) 2210901
+score: 5.8
 tags:
 - eating_out
 - restaurant
 - bar
+- japanese
 title: Tsuru Japanese Restaurant and Sushi Bar
 type: poi
-score: 5.8
 ---
 
 Serves Japanese dishes. A bit pricey by Davao standards. Be prepared to shell out about 20 USD for a good meal. Since yellowfin tuna is readily available in the city, be prepared to taste the best sushi and sashimi this side of Asia! There's also a buffet (eat-all-u-can) event every 15th and 30th of the month for about 10 USD per person.

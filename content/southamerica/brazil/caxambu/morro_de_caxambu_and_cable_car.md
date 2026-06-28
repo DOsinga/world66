@@ -9,6 +9,8 @@ tags:
   - cable_car
 sources:
   - https://www.turismo.caxambu.mg.gov.br/pagina/12/morro-caxambu
+latitude: -21.979
+longitude: -44.936
 ---
 
 Morro de Caxambu rises above town to about 1,090 metres. The most enjoyable way up is the chairlift from Parque das Águas, which gives open views over the park, the town, and the surrounding Mantiqueira and Serra do Papagaio contours.

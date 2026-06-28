@@ -1,8 +1,10 @@
 ---
+latitude: 30.133
+longitude: 9.5
 score: 8.0
 tags:
 - things_to_do
-- sightseeing
+- sight
 - nature
 title: Ain al-Faras (The Horse Spring)
 type: poi

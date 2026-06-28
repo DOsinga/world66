@@ -12,6 +12,7 @@ snippet: Lakefront park with a broad public beach, marina, pier walk, and views 
 sources:
   - https://michigancitylaporte.com/see-and-do/washington-park-beach/
   - https://www.southshorecva.com/the-region/michigan-city/things-to-do/
+score: 7.3
 ---
 
 Washington Park is the reason most visitors come to Michigan City. The beach is wide enough for a proper summer day, and the long pier gives the classic walk out toward the red-roofed East Light.

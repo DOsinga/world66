@@ -9,6 +9,7 @@ tags:
   - sight
 title: "Santuario La Asunción de María"
 type: poi
+score: 6.4
 ---
 
 Santuario La Asunción de María stands in Cupilco, a short ride from Comalcalco, and is one of the most memorable churches in the area. Its bright painted facade mixes Catholic forms with local colour and natural motifs, so it feels much more Tabasco than standard colonial stonework.

@@ -2,6 +2,7 @@
 address: Bulevardul I. C. Brătianu 1, Bucharest
 latitude: 44.4347
 longitude: 26.1034
+score: 6.0
 snippet: 1702 church next to the city's oldest hospital
 tags:
 - things_to_do

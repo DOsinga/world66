@@ -1,9 +1,12 @@
 ---
-title: Archaeological Museum of Sparta
-type: poi
-tags: [things_to_do, museum]
 latitude: 37.0742
 longitude: 22.4316
+score: 7.1
+tags:
+- things_to_do
+- museum
+title: Archaeological Museum of Sparta
+type: poi
 ---
 
 The Archaeological Museum of Sparta is one of the oldest in Greece — founded in 1875 — and occupies a small neoclassical building in the middle of a public garden a block south of the main square. The collection is mostly small finds from the various sanctuaries around Laconia: bronze figurines, votive offerings, lead pilgrim tokens, and several rare Archaic-period marble reliefs of bearded warriors.

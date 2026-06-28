@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Hemmingford
   - https://en.wikipedia.org/wiki/Hemmingford,_Quebec
+latitude: 45.061
+longitude: -73.586
 ---
 
 Verger Hemmingford is part of the apple-and-cider identity that makes the countryside around the village worth visiting. The operation is associated with ice cider, Quebec's cold-climate answer to dessert wine, and the orchard country feels most alive in autumn.

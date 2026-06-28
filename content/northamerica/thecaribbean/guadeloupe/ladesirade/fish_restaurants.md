@@ -1,7 +1,11 @@
 ---
+latitude: 16.3167
+longitude: -61.07
 score: 6.7
 tags:
 - eating_out
+- restaurant
+- seafood
 title: Fish Restaurants
 type: poi
 ---

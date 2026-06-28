@@ -2,6 +2,7 @@
 address: Ōpihi River, near Temuka
 latitude: -44.2819
 longitude: 171.3489
+score: 6.8
 snippet: South Canterbury's premier salmon and trout fishing river
 story: The Ōpihi takes its name from the local Māori word for the limpet that was
   once gathered from its tidal estuary. The river was the food source that gave Temuka

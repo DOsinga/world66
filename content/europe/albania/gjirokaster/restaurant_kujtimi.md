@@ -1,7 +1,12 @@
 ---
+latitude: 40.07479
+longitude: 20.13864
 score: 6.2
+sources:
+- https://thingstodoalbania.com/en/place/bar-fisk/
 tags:
 - eating_out
+- restaurant
 title: Restaurant Kujtimi
 type: poi
 ---

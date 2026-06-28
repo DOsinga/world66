@@ -1,7 +1,6 @@
 ---
 title: Sights in Krasnoyarsk region
-type: poi
-score: 5.8
+type: section
 ---
 
 Interesting places in Krasnoyarsk region

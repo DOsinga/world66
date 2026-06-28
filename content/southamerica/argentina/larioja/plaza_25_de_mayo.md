@@ -1,7 +1,11 @@
 ---
+latitude: -29.4127
+longitude: -66.8559
 score: 6.3
 tags:
 - things_to_do
+- sight
+- square
 title: Plaza 25 de Mayo and the City Centre
 type: poi
 ---

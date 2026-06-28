@@ -1,9 +1,15 @@
 ---
-title: Cayo Caracoles
-type: poi
-tags: [things_to_do, beach, nature, island]
 latitude: 17.9583
 longitude: -67.0497
+score: 7.4
+tags:
+- things_to_do
+- sight
+- beach
+- nature
+- island
+title: Cayo Caracoles
+type: poi
 ---
 
 Cayo Caracoles — "Snail Cay" — is the second of the two main public cays off La Parguera, slightly larger than Mata la Gata and less of a scene. The water around it is shallow, calm and beautifully clear; the snorkelling along the seagrass flats and small patch reefs is the best of the easily reached cays.

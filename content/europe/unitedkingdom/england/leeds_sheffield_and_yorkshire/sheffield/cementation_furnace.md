@@ -2,6 +2,7 @@
 address: Doncaster Street, Sheffield S3 7DQ
 latitude: 53.3874
 longitude: -1.4775
+score: 6.8
 snippet: Last surviving example of a Sheffield cementation steel furnace
 tags:
 - things_to_do

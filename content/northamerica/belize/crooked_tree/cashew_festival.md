@@ -7,6 +7,8 @@ tags:
 score: 7.0
 sources:
   - https://en.wikivoyage.org/wiki/Crooked_Tree
+latitude: 17.741
+longitude: -88.541
 ---
 
 Crooked Tree's Cashew Festival is held in early May, when the village celebrates the local harvest. Cashews turn up as juice, jelly, cakes, wine, and snacks, and the event gives visitors a reason to see the village as more than a base for the sanctuary.

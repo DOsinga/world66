@@ -3,9 +3,9 @@ address: mian waheed ud din park
 latitude: 32.585167
 longitude: 73.494992
 opening_hours: 5 AM To 10 PM
-title: Sights in Mandi Bahauddin
-type: poi
 score: 3.6
+title: Sights in Mandi Bahauddin
+type: section
 ---
 
 1. Mian waheed-u-deen park

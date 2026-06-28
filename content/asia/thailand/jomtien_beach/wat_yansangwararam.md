@@ -1,10 +1,12 @@
 ---
-title: "Wat Yansangwararam"
-type: poi
-tags:
-  - things_to_do
-  - sight
+latitude: 12.7897
+longitude: 100.9598
 score: 6.1
+tags:
+- things_to_do
+- sight
+title: Wat Yansangwararam
+type: poi
 ---
 
 Wat Yansangwararam, about 15 km southeast of Jomtien, is a large modern temple complex built in the 1980s under royal patronage. It is scattered across landscaped grounds with a series of pagodas, shrines and a small Chinese pavilion, all set among lakes and gardens.

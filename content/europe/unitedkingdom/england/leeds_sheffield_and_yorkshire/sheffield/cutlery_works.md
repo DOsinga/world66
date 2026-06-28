@@ -2,6 +2,7 @@
 address: 73-101 Neepsend Lane, Sheffield S3 8AT
 latitude: 53.3918
 longitude: -1.4727
+score: 6.9
 snippet: Independent food hall in a converted cutlery factory
 tags:
 - eating_out

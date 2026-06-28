@@ -1,7 +1,12 @@
 ---
+latitude: 35.6967
+longitude: 139.4467
 score: 8.1
 tags:
 - things_to_do
+- sight
+- boulevard
+- cherry_blossom
 title: Daigaku-dori
 type: poi
 ---

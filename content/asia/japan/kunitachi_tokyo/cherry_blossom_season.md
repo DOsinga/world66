@@ -1,7 +1,12 @@
 ---
+latitude: 35.6965
+longitude: 139.4466
 score: 7.5
 tags:
 - things_to_do
+- sight
+- cherry_blossom
+- seasonal
 title: Cherry blossom season on Daigaku-dori
 type: poi
 ---

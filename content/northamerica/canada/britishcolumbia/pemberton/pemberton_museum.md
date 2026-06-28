@@ -11,6 +11,7 @@ snippet: Open-air local museum preserving Pemberton Valley farm, logging, railwa
 sources:
   - https://www.slrd.bc.ca/services/recreation-culture/heritage-museums/museums/pemberton-district-museum-archives
   - https://www.pembertonmuseum.org/
+score: 6.2
 ---
 
 Pemberton Museum is small, local, and useful. Its buildings, photographs, and objects cover the valley's farm, railway, logging, and community history on Lil'wat and St'at'imc territory.

@@ -1,7 +1,12 @@
 ---
+latitude: 17.572441
+longitude: 120.389055
 score: 9.0
 tags:
 - things_to_do
+- sight
+- architecture
+- heritage
 title: Calle Crisologo
 type: poi
 ---

@@ -1,7 +1,10 @@
 ---
+latitude: 16.3167
+longitude: -61.07
 score: 5.4
 tags:
 - bars_and_cafes
+- bar
 title: Village Bars
 type: poi
 ---

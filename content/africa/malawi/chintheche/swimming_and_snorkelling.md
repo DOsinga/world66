@@ -1,7 +1,12 @@
 ---
+latitude: -11.85
+longitude: 34.17
 score: 8.1
 tags:
 - things_to_do
+- sight
+- swimming
+- snorkelling
 title: Swimming and Snorkelling in Lake Malawi
 type: poi
 ---

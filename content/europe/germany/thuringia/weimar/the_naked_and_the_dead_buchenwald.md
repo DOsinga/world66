@@ -1,10 +1,10 @@
 ---
-title: "Buchenwald: Hell on a Hilltop"
-type: poi
-author: "Florent Brayard"
-tags:
-  - books
+author: Florent Brayard
 score: 6.9
+tags:
+- books
+title: 'Buchenwald: Hell on a Hilltop'
+type: theme
 ---
 
 Brayard's account of Buchenwald concentration camp draws on survivor testimonies and camp records to reconstruct daily life and death on the Ettersberg ridge above Weimar. It does not flinch from the details, but it also examines how the camp and the city coexisted — how the citizens of Weimar claimed ignorance while smoke rose from the crematorium visible from town.

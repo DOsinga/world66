@@ -1,7 +1,12 @@
 ---
+latitude: 48.6513
+longitude: -123.3319
 score: 8.4
 tags:
 - things_to_do
+- park
+- nature
+- beach
 title: Sidney Spit Marine Park
 type: poi
 ---

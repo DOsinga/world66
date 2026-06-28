@@ -1,7 +1,14 @@
 ---
+latitude: 39.319
+longitude: 26.6954
 score: 7.2
+sources:
+- https://time-ok.com/coordinates/ayvalik
 tags:
 - eating_out
+- restaurant
+- meze
+- olive_oil
 title: Olive Oil and Meze
 type: poi
 ---

@@ -3,12 +3,12 @@ author: Clyde Arbuckle
 done:
   poi_cleanup: '2026-04-19'
 isbn: '9996625222'
+score: 4.3
 snippet: Comprehensive local history from Spanish pueblo to Silicon Valley
 tags:
 - books
 title: Clyde Arbuckle's History of San Jose
-type: poi
-score: 4.3
+type: theme
 ---
 
 Although San Jose is one of the newest of cities, it is one of the

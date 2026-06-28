@@ -1,11 +1,11 @@
 ---
 address: Brescia or Verona
+score: 1.3
 tags:
 - getting_there
 title: Brescia & Verona Airports
-type: poi
+type: theme
 url: www.aeroportoverona.it
-score: 1.3
 ---
 
 Many times The Bergamo Airport located at Orio al Serio uses the Airports at Brescia and at Verona for extra landing possibilities. The Verona Catullo Airport is around an hour by train or bus from Bergamo. And then there's an airport shuttle bus from the Verona train station to Verona Catullo Airport leaving every 20 minutes and it takes 15 minutes to get there (4.50 euro).

@@ -1,7 +1,12 @@
 ---
+latitude: 44.0388
+longitude: 10.1371
 score: 8.1
 tags:
 - things_to_do
+- sight
+- castle
+- architecture
 title: Malaspina Castle (Rocca Malaspiniana)
 type: poi
 ---

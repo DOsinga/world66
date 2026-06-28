@@ -1,7 +1,11 @@
 ---
+latitude: 18.3419
+longitude: -64.9307
 score: 5.2
 tags:
 - eating_out
+- restaurant
+- charlotte_amalie
 title: Waterfront Dining in Charlotte Amalie
 type: poi
 ---

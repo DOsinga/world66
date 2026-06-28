@@ -1,7 +1,11 @@
 ---
+latitude: 5.1162
+longitude: -74.4513
 score: 6.8
 tags:
 - things_to_do
+- adventure
+- canopy
 title: Zip Lines and Canopy
 type: poi
 ---

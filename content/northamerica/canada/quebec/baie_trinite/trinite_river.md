@@ -10,6 +10,7 @@ tags:
 sources:
 - https://www.saumonquebec.com/en/north-shore-manicouagan/baie-trinite-river
 - https://en.wikipedia.org/wiki/Baie-Trinit%C3%A9
+score: 6.7
 ---
 
 The Trinité River is part of the village's shape as much as its map. It runs down from the Laurentian plateau to meet the St. Lawrence at Baie-Trinité, and its salmon reputation gives outdoor travellers a reason to know the name.

@@ -13,6 +13,7 @@ sources:
   - https://www.tourismvictoria.com/things-to-do/beaches-lakes/botanical-beach-provincial-park
   - https://bcparks.ca/juan-de-fuca-park/
   - https://en.wikivoyage.org/wiki/Port_Renfrew
+score: 8.1
 ---
 
 Botanical Beach is the reason many travellers push all the way to Port Renfrew. At low tide, flat rock shelves hold pools filled with anemones, sea stars, chitons, urchins, and other intertidal life.

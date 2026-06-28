@@ -1,7 +1,13 @@
 ---
+latitude: -28.1908
+longitude: 153.2659
 score: 4.7
+sources:
+- https://parks.qld.gov.au/parks/springbrook/journeys
 tags:
 - eating_out
+- restaurant
+- cafe
 title: Springbrook Village Cafes
 type: poi
 ---

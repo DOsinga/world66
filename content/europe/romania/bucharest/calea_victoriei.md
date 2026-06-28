@@ -2,6 +2,7 @@
 address: Calea Victoriei, Bucharest
 latitude: 44.4421
 longitude: 26.094
+score: 8.0
 snippet: Bucharest's most historic boulevard, lined with palaces, churches, and cafés
 story: Until 1878 the street was called Drumul Brașovului, the road to Brașov, because
   that was where it went. When Romanian troops marched back from the War of Independence

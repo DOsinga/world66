@@ -1,10 +1,13 @@
 ---
 latitude: 53.3372
 longitude: 6.1492
+score: 4.3
 snippet: Direct bus from Leeuwarden to the Lauwersoog ferry terminal
+tags:
+- getting_there
+- transport
 title: Bus transfer Leeuwarden <> Lauwersoog
 type: poi
-score: 4.3
 ---
 
 Arriva bus 50 runs directly from Leeuwarden Railway Station to Lauwersoog harbour, with the ferry connection guaranteed. If you're coming from Groningen, take Arriva bus 63 — the ferry waits for that connection too.

@@ -7,6 +7,10 @@ snippet: A slender 20-mile peninsula north of Traverse City lined with vineyards
   cherry orchards, ending at a lighthouse on the 45th parallel.
 title: Old Mission Peninsula
 type: location
+image: old_mission_peninsula.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mission_Point_Light_-_Michigan.jpg
+image_license: CC BY 2.0
+image_attribution: Nara J
 ---
 
 Old Mission Peninsula is a slender, 20-mile finger of land reaching north from Traverse City, splitting Grand Traverse Bay into its two arms. The drive out the peninsula is one of northern Michigan's finest: the bay is visible on both sides for most of the route, flanked by cherry orchards and vineyards that turn spectacular in blossom season in late May and again at harvest in September. The road terminates at Mission Point Lighthouse, where you can picnic on the rocky shore and look back down the length of the peninsula.

@@ -7,6 +7,10 @@ snippet: A small Leelanau Peninsula town that punches above its size for food, w
   and small-town charm, 15 miles north of Traverse City.
 title: Suttons Bay
 type: location
+image: suttons_bay.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Suttons_Bay_village_hall_(Michigan).jpg
+image_license: CC0
+image_attribution: Notorious4life (talk) (Uploads)
 ---
 
 Suttons Bay is a small town on the eastern shore of the Leelanau Peninsula, about 15 miles north of Traverse City, and it punches well above its size in terms of food, wine, and charm. The main street is lined with independent shops and a handful of good restaurants, and the harbour gives onto the calm western arm of Grand Traverse Bay.

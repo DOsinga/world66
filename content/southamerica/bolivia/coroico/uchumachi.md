@@ -8,9 +8,9 @@ title: Uchumachi
 type: poi
 score: 8.0
 image: uchumachi.jpg
-image_source: https://commons.wikimedia.org/wiki/File:3ra-cascada-la-jalancha(1).jpg
+image_source: https://commons.wikimedia.org/wiki/File:Yungas_Bolivia_01.jpg
 image_license: CC BY-SA 4.0
-image_attribution: Rodrigo Garcia
+image_attribution: Das Morton
 ---
 
 The 2,500-metre mountain that Coroico is built on. Above 2,100 metres it is a nature reserve, mostly covered in cloudforest rich with orchids.

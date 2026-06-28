@@ -6,6 +6,10 @@ score: 8.3
 snippet: Cool alpine forests and a small ski area 45 minutes from the Las Vegas Strip
 title: Mount Charleston
 type: location
+image: mt_charleston.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2015-07-13_09_09_22_View_of_Mount_Charleston,_Nevada_from_the_North_Loop_Trail_about_7.3_miles_west_of_the_trailhead_in_the_Mount_Charleston_Wilderness,_Nevada.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Famartin
 ---
 
 When the Vegas summer hits 110°F, Mount Charleston offers a 30-degree drop in temperature an hour's drive northwest of the city. The 11,916-foot peak — Nevada's eighth-highest mountain — rises out of the Mojave Desert and is cloaked in ponderosa pine, white fir, and aspen, a different planet from the desert basin below. Geologically it is a "sky island," its high forests cut off from any other range, and it shelters plants and animals found nowhere else in southern Nevada.

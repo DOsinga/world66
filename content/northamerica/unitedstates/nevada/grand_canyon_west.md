@@ -6,6 +6,10 @@ score: 6.3
 snippet: Hualapai tribal section of the Grand Canyon with the glass-bottomed Skywalk
 title: Grand Canyon West
 type: location
+image: grand_canyon_west.jpg
+image_source: https://commons.wikimedia.org/wiki/File:West_End,_Grand_Canyon_National_Park,_Arizona_(6780624011).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ken Lund from Reno, Nevada, USA
 ---
 
 Grand Canyon West is the part of the canyon closest to Las Vegas — about a 2.5-hour drive southeast — and sits on Hualapai tribal land rather than within the national park boundary. The signature attraction is the Skywalk, a horseshoe-shaped glass-floored bridge that cantilevers 70 feet beyond the rim with a 4,000-foot drop straight down. It is an unabashedly touristy experience, and you cannot bring phones or cameras onto the walk, but the view straight through your feet is genuinely unsettling.

@@ -7,6 +7,10 @@ snippet: A long, wine-rich peninsula northwest of Traverse City with over 25 win
   small harbour towns, and bay views at every turn.
 title: Leelanau Peninsula
 type: location
+image: leelanau_peninsula.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Grand_Traverse_Light.jpg
+image_license: CC BY 2.0
+image_attribution: Rodney Campbell
 ---
 
 The Leelanau Peninsula stretches northwest of Traverse City between Grand Traverse Bay and Lake Michigan, and it is considerably larger and more varied than its neighbour Old Mission. This is one of the loveliest corners of the Lower Peninsula: rolling hills, inland lakes, forested ridges, cherry orchards, and a shoreline that shifts between sheltered bay and open Great Lake. Locals sometimes call it "the little finger" of Michigan's mitten, and a day spent driving it is one of the best ways to spend time in the north of the state.

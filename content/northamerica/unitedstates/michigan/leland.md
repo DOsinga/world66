@@ -7,6 +7,10 @@ snippet: A small Leelanau Peninsula village famous for Fishtown, a surviving Gre
   Lakes fishing settlement of weathered shanties and net sheds.
 title: Leland
 type: location
+image: leland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Fishtown_at_sunset,_on_Lake_Michigan_at_Leland,_MI_06-21-2019_006_(48117047808).jpg
+image_license: CC BY 2.0
+image_attribution: Richard Hurd from Green Bay, USA
 ---
 
 Leland is a small village on the Lake Michigan side of the Leelanau Peninsula, about 25 miles northwest of Traverse City, and it is worth the drive for Fishtown alone. The historic district sits where the Leland River tumbles down to the lake, and the cluster of grey-weathered shacks, net sheds, and docks strung along the water is the most atmospheric spot in the region.

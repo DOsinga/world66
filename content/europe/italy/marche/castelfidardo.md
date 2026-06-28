@@ -7,6 +7,10 @@ snippet: Marche hill town that is the world capital of accordion making, with a 
   of historic instruments and a Risorgimento battlefield.
 title: Castelfidardo
 type: location
+image: castelfidardo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:MONUMENTO_NAZIONALE_DELLE_MARCHE_(CASTELFIDARDO).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Cristiana.marra
 ---
 
 Castelfidardo is a small hill town ten kilometres inland from the Riviera del Conero, and it carries an outsized reputation: this is the world capital of accordion making. The industry began here in 1863, when Paolo Soprani set up a workshop in the cellar of the family farm, and the trade spread through the town until dozens of small factories were turning out instruments for players across the globe. Many workshops still operate, and the squeezebox remains woven into the town's identity.

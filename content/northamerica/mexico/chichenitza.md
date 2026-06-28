@@ -2,9 +2,9 @@
 done:
   location_cleanup: '2026-04-09'
 image: chichenitza.jpg
-image_attribution: Daniel Schwen
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_2.jpg
+image_attribution: Dennis G. Jarvis
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Chichanchoob_and_ballcourt,_Chichen_Itza,_Mexico_2010.jpg
 latitude: 20.682852
 loc_type: feature
 longitude: -88.56872

@@ -8,7 +8,7 @@ snippet: Coastal Sicilian village built around a Norman castle on a black basalt
 title: Aci Castello
 type: location
 image: acicastello.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aci_Castello_Sicily_Italy_-_Creative_Commons_by_gnuckx_(5085398127).jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aci_Castello_Sicily_Italy_-_Creative_Commons_by_gnuckx_(5085308297).jpg
 image_license: CC BY 2.0
 image_attribution: gnuckx
 ---

@@ -5,9 +5,9 @@ done:
   location_enrich: '2026-05-28'
   poi_cleanup: '2026-04-20'
 image: giza.jpg
-image_attribution: Vincent Brown
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Giza_Plateau_(31762565191).jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza,_Giza,_Egypt4.jpg
 latitude: 29.987075
 loc_type: city
 longitude: 31.211806

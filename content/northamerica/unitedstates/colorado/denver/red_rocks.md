@@ -13,9 +13,9 @@ story: 'The natural acoustics — created by two 300-foot sandstone monoliths th
   1983 film Live at Red Rocks: Under a Blood Red Sky was shot here in pouring rain.'
 score: 9.4
 image: red_rocks.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Red_Rocks_Amphitheatre,_Colorado_1.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Sarbjit Bahga
+image_source: https://commons.wikimedia.org/wiki/File:Red_Rock_Theatre,_Park_of_the_Red_Rocks,_Denver_Mountain_Parks,_Colorado_(7725170254).jpg
+image_license: Public domain
+image_attribution: Boston Public Library
 ---
 
 Fifteen miles west of downtown in the foothills of Morrison, Red Rocks is the world's most beautiful natural amphitheatre — 9,500 seats wedged between two giant slabs of red sandstone, with the lights of Denver and the prairie laid out below to the east. The park is open to the public during the day (free), and the climb up to the top row is the city's favourite cardio workout.

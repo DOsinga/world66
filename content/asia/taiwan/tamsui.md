@@ -3,9 +3,14 @@ latitude: 25.1715
 loc_type: city
 longitude: 121.4408
 score: 8.2
-snippet: Former Spanish, Dutch and British river port at the mouth of the Tamsui, now Taipei's classic riverside outing.
+snippet: Former Spanish, Dutch and British river port at the mouth of the Tamsui,
+  now Taipei's classic riverside outing.
 title: Tamsui
 type: location
+image: tamsui.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tamsui_skyline,_New_Taipei,_Taiwan_20160213.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ludovic Lubeigt
 ---
 
 Tamsui sits at the mouth of the Tamsui River, an hour from central Taipei at the end of the red MRT line. For most of its history it was northern Taiwan's principal port, and the foreign powers who traded here — Spanish, Dutch, and finally British — each left their mark on the bluff above the river. Today it is the city's classic half-day outing: a broad, lively riverfront promenade, a string of historic buildings on the hillside, and a sunset over the Taiwan Strait that draws crowds every clear evening.

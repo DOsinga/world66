@@ -15,6 +15,10 @@ tags:
 - giza
 title: Grand Egyptian Museum
 type: poi
+image: grand_egyptian_museum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20251101_El_Cairo_llegada_al_Grand_Egyptian_Museum-Andrea_Puentes.jpg
+image_license: Public domain
+image_attribution: REPÚBLICA DE COLOMBIA
 ---
 
 The Grand Egyptian Museum sits at the edge of the Giza plateau, within sight of the Pyramids, and is one of the largest archaeological museums in the world. Its collection of ancient Egyptian artefacts is the most comprehensive anywhere, built around the complete contents of Tutankhamun's tomb (5,000 objects) and supplemented by pieces transferred from the Egyptian Museum downtown and from storage.

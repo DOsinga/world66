@@ -7,6 +7,10 @@ snippet: Mangrove and tidal-flat park north of Libreville, a key staging post fo
   migrating waterbirds.
 title: Akanda National Park
 type: location
+image: akanda_national_park.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Strengthening_Partnerships-_U_S_and_Gabonese_Agence_National_des_Parcs_Nationaux_Complete_JCET_(9351192).jpg
+image_license: Public domain
+image_attribution: U.S. Air Force photo by Senior Airman Makensie Coo
 ---
 
 Akanda National Park covers the mangroves and tidal mudflats just north of Libreville, wedged between the Moka and Mondah estuaries. It is the smallest of Gabon's national parks, but it punches well above its size biologically: this is a major staging post on the East Atlantic flyway, where large flocks of pelicans, flamingos, sandpipers and other waders pause to feed on the rich mudflats. For a birder, it is one of the most rewarding half-days in the country.

@@ -4,9 +4,9 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-12'
 image: taormina.jpg
-image_attribution: Berthold Werner
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Taormina_BW_2025-04-27_09-32-30.jpg
+image_attribution: Scott Wylie
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Taormina_Sicily_04.jpg
 latitude: 37.8512
 loc_type: city
 longitude: 15.283

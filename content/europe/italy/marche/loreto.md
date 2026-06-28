@@ -7,6 +7,10 @@ snippet: Marche pilgrimage town built around the Holy House, one of the most vis
   Marian shrines in Europe.
 title: Loreto
 type: location
+image: loreto.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Loreto_visto_da_Porto_Recanati_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Emanuela Mazzarini
 ---
 
 Loreto sits on a hill fifteen kilometres south of the Riviera del Conero, and for centuries it has drawn pilgrims from across the Catholic world. It is one of the most important Marian shrines in Europe, and the whole town — its walls, its long arcaded piazza, its hospices for travellers — grew up to receive the crowds who come to see a single small building.

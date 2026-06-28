@@ -10,7 +10,7 @@ title: Tulum Ruins
 type: poi
 score: 8.9
 image: tulum_ruins.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Maya_ruins_at_Tulum_-_Palms_and_beach.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ruins_at_Tulum,_QR_Mexico_2023.jpg
 image_license: CC BY 2.0
 image_attribution: Erik Cleves Kristensen
 ---

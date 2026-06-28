@@ -15,7 +15,7 @@ story: 'At its peak in the late 19th century San Sebastián supported over 20,00
 title: San Sebastián del Oeste
 type: location
 image: sansebastiandeloeste.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Pinus_gordoniana,_San_Sebasti%C3%A1n_del_Oeste,_Jalisco,_Mexico_3.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pinus_gordoniana,_San_Sebasti%C3%A1n_del_Oeste,_Jalisco,_Mexico_2.jpg
 image_license: CC BY 4.0
 image_attribution: abrahamsanchez
 ---

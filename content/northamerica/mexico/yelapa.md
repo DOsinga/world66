@@ -14,9 +14,9 @@ story: 'Until 2001 Yelapa had no road, no grid electricity, and no police force.
 title: Yelapa
 type: location
 image: yelapa.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Sunset_in_Yelapa_-_panoramio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Yelapa_Beach.JPG
 image_license: CC BY-SA 3.0
-image_attribution: tceagle
+image_attribution: RichardMills65
 ---
 
 Yelapa is a small fishing village about 45 minutes by boat south of [Puerto Vallarta](/northamerica/mexico/puertovallarta), tucked into a sheltered cove on the southern arm of Banderas Bay. The setting is the draw: a wide crescent beach lined with palapa restaurants, jungle-covered cliffs rising directly behind, and two waterfalls within a short hike of the village. The lower waterfall is an easy 20-minute walk from the beach; the upper one, Cascada del Cielo, is a 100-metre plunge that requires a guided horseback trip into the hills.

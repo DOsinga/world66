@@ -3,9 +3,14 @@ latitude: 36.5054
 loc_type: feature
 longitude: -117.0794
 score: 9.1
-snippet: The hottest, lowest, driest place in North America — two hours west of Las Vegas
+snippet: The hottest, lowest, driest place in North America — two hours west of Las
+  Vegas
 title: Death Valley National Park
 type: location
+image: death_valley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Artist%27s_Palette,_Death_Valley_National_Park,_California.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Christian David
 ---
 
 Death Valley National Park sits two hours west of the Strip across the California state line and contains the lowest point in North America at Badwater Basin, 282 feet below sea level. The valley regularly records the hottest air temperatures ever measured on Earth — 134°F in 1913 — and the colour palette of salt flats, eroded badlands, and rust-streaked mountains has drawn film crews since the silent era. It is also, despite the name, startlingly alive: spring wildflower blooms can carpet the valley floor in good rain years.

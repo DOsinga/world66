@@ -10,7 +10,9 @@ type: location
 image: cornello_dei_tasso_and_oneta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cornello_dei_Tasso_ingresso_sud_-_Museo_dei_Tasso_e_della_Storia_Postale.jpg
 image_license: CC0
-image_attribution: Museo dei Tasso e della storia postale
+image_attribution: 'Museo dei Tasso e della storia postale
+
+  '
 ---
 
 Two tiny medieval villages in the Brembana Valley, each with a surprising claim to fame, make one of the more atmospheric day trips out of Bergamo.

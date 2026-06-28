@@ -7,6 +7,10 @@ snippet: Small pampas town built around the UNESCO-listed ruins of a great 17th-
   Jesuit mission — one of the most haunting sites in South America.
 title: São Miguel das Missões
 type: location
+image: sao_miguel_das_missoes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Igreja_de_S%C3%A3o_Miguel,_em_S%C3%A3o_Miguel_das_Miss%C3%B5es,_Rio_Grande_do_Sul,_Brazil.png
+image_license: CC BY-SA 4.0
+image_attribution: Paulo Alves de Lima
 ---
 
 São Miguel das Missões is a small town in the western pampas of Rio Grande do Sul, about 480 kilometres west of Porto Alegre — too far for a comfortable day trip, but close enough for an overnight journey that is thoroughly worth the effort. It exists around its reason for fame: the ruin of one of the great Jesuit reduction settlements of the 17th and 18th centuries, a UNESCO World Heritage Site since 1983.

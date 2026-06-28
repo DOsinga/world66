@@ -8,7 +8,7 @@ snippet: High alpine pass on the Continental Divide west of Denver, where US 6 c
 title: Loveland Pass
 type: location
 image: loveland_pass.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2022-09-11_09_01_25_View_east_along_U.S._Route_6_at_Loveland_Pass_on_the_border_of_Summit_County_and_Clear_Creek_County_in_Colorado.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2022-09-11_09_05_57_View_southeast_from_just_above_Loveland_Pass_on_the_border_of_Summit_County_and_Clear_Creek_County_in_Colorado.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Famartin
 ---

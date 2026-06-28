@@ -4,9 +4,9 @@ done:
   location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-21'
 image: paris.jpg
-image_attribution: Kainet
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
+image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_on_the_illuminated_Rue_de_Rennes_and_Notre-Dame_de_Paris_at_sunset_France.jpg
 latitude: 48.8566
 loc_type: city
 longitude: 2.3522

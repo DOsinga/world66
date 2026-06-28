@@ -7,6 +7,10 @@ snippet: Serra Gaúcha town next to Gramado with the best natural scenery in the
   — a 131-metre waterfall and araucária forest.
 title: Canela
 type: location
+image: canela.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Canela_-_RS,_Brazil_-_panoramio_(4).jpg
+image_license: CC BY 3.0
+image_attribution: Larissa Fraga
 ---
 
 Canela sits just a few kilometres from Gramado in the Serra Gaúcha highlands, about two and a half hours north of Porto Alegre. It is slightly less polished and less touristic than its famous neighbour, and that works in its favour: the town has a relaxed, lived-in feel and far better access to the natural scenery that makes this corner of Rio Grande do Sul worth the drive. The pretty main square has a large Flamboyant tree and the Gothic-style Catedral de Pedra (Stone Cathedral), built in stages through the 20th century and genuinely handsome.

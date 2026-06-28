@@ -7,6 +7,10 @@ snippet: Historic town 25 km north of Mashhad, the medieval capital of Khorasan 
   home to the tomb of the poet Ferdowsi.
 title: Tus
 type: location
+image: tus.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tomb_of_Ferdowsi,_Tus,_Mashhad,_Iran_(125).jpg
+image_license: CC BY-SA 4.0
+image_attribution: AR VLD
 ---
 
 Tus lies 25 km north of [Mashhad](/asia/iran/mashhad) and was, for centuries, the great city of this corner of Khorasan — the regional capital that Mashhad eventually eclipsed. It was one of the foremost centres of the Persian world until Tamerlane's forces destroyed it in 1389, and the modern village beside the ruins is a quiet heir to that history rather than a continuation of it.

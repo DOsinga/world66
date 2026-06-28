@@ -16,9 +16,9 @@ story: 'Dos Ojos forms part of the world''s longest known underwater cave system
   '
 score: 8.7
 image: cenote_dos_ojos.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cenote_Dos_Ojos,_M%C3%A9xico_-_panoramio.jpg
-image_license: CC BY-SA 3.0
-image_attribution: diego_cue
+image_source: https://commons.wikimedia.org/wiki/File:Cenotes_Dos_Ojos_in_Yucatan,_Mexico_(42882089264).jpg
+image_license: CC BY 2.0
+image_attribution: dronepicr
 ---
 
 Two large, almost circular cenotes ("eyes") connected by a 400-metre underwater passage in the jungle 50 km south of Tulum. The water is fresh, cold, and extraordinarily clear — visibility often exceeds 50 metres — and the limestone formations on the walls and roofs glow blue when light pours through. Snorkellers swim from one cenote to the other through the connecting passage, with a rope guide and a guide's flashlight overhead. Cave divers go much further into the side passages.

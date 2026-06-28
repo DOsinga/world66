@@ -7,6 +7,10 @@ snippet: Park on the south shore of the Gabon Estuary, a globally important leat
   turtle nesting site.
 title: Pongara National Park
 type: location
+image: pongara_national_park.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lance_Cpl._Justin_Forrester_teaches_immediate_action_drills_to_a_park_ranger_with_the_Agence_Nationale_des_Parcs_Nationaux_at_the_Pongara_National_Forest_in_Pongara,_Gabon,_Sept._17,_2015.jpg
+image_license: Public domain
+image_attribution: Staff Sgt. Ryan Nikzad
 ---
 
 Pongara National Park spreads across the southern shore of the Gabon Estuary, directly opposite Libreville, taking in mangroves, coastal forest, and a long, wild Atlantic beach that runs south from Pointe Denis. Despite sitting just across the water from the capital, it feels remote: empty sand stretches for kilometres, broken only by the tracks of nesting turtles and the occasional forest elephant that wanders down from the trees.

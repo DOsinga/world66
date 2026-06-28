@@ -2,8 +2,8 @@
 done:
   poi_cleanup: '2026-04-19'
 image: lagodigarda.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:La_Rocca_di_Manerba_del_Garda_con_l%27isola_dei_Conigli.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Andromeda_ferry_at_the_harbour_in_Desenzano_del_Garda,_Italy.jpg
 latitude: 45.662431
 loc_type: region
 longitude: 10.686157
@@ -12,6 +12,7 @@ snippet: Italy’s largest lake, shifting from Mediterranean southern shores to 
   Alpine water at Riva
 title: Lago di Garda
 type: location
+image_attribution: Fabio Pani
 ---
 
 Lake Garda is the largest lake in Italy, straddling the borders of Lombardia, Veneto, and Trentino. It stretches 52 kilometres from the broad, flat southern end near Peschiera to the narrow Alpine fjord at its northern tip near Riva del Garda. The contrast between the two ends is striking: the south is gentle and Mediterranean in feel, planted with olive groves and vineyards; the north is dramatic, with mountains dropping directly into the water and fierce winds that have made it a windsurfing and kitesurfing destination.

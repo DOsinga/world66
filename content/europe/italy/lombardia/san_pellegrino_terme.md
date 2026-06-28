@@ -7,6 +7,10 @@ snippet: Belle Époque spa town in the Brembana Valley, source of the famous min
   water
 title: San Pellegrino Terme
 type: location
+image: san_pellegrino_terme.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Pellegrino_Terme,_panorama_dal_palazzo_del_casin%C3%B2_municipale.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Basilicofresco
 ---
 
 San Pellegrino Terme sits in the Brembana Valley about 25 km northeast of Bergamo, strung along the Brembo river where it narrows between wooded slopes. Most people know the name from the green bottles on restaurant tables the world over — the mineral water has been bottled here since the late nineteenth century — but the town has a grander story to tell.

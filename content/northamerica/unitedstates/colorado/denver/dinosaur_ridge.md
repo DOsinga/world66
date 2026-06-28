@@ -8,8 +8,8 @@ latitude: 39.6818
 longitude: -105.1923
 score: 8.3
 image: dinosaur_ridge.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Concretion_in_the_Dakota_Sandstone_(Lower_Cretaceous)_(Dinosaur_Ridge,_Colorado,_USA).jpg
-image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Stegosaurus_dinosaur_footprints_in_sandstone_(Morrison_Formation,_Upper_Jurassic;_Quarry_5,_Dinosaur_Ridge,_west_of_Denver,_north-central_Colorado,_USA)_(15354473407).jpg
+image_license: CC BY 2.0
 image_attribution: James St. John
 ---
 

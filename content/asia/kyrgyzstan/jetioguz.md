@@ -3,10 +3,19 @@ latitude: 42.3667
 loc_type: feature
 longitude: 78.2
 score: 8.2
-snippet: Scenic valley west of Karakol famous for its red sandstone Seven Bulls and Broken Heart formations
-story: The Kyrgyz name means "Seven Bulls" — a reference to the seven red sandstone pillars at the valley's entrance that local legend says were once bulls turned to stone. A separate formation nearby, a solitary rock face called the Broken Heart, has its own tale of two rivals who loved the same woman, one of whom stabbed the other; the rock is said to have split when it heard the cry.
+snippet: Scenic valley west of Karakol famous for its red sandstone Seven Bulls and
+  Broken Heart formations
+story: The Kyrgyz name means "Seven Bulls" — a reference to the seven red sandstone
+  pillars at the valley's entrance that local legend says were once bulls turned to
+  stone. A separate formation nearby, a solitary rock face called the Broken Heart,
+  has its own tale of two rivals who loved the same woman, one of whom stabbed the
+  other; the rock is said to have split when it heard the cry.
 title: Jeti-Oguz Valley
 type: location
+image: jetioguz.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Djeti-Oguz_Valley_(3976719188).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Peretz Partensky from San Francisco, USA
 ---
 
 The Jeti-Oguz Valley, about 30 kilometres west of [Karakol](/asia/kyrgyzstan/karakol) on the southern shore of [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul), is one of the most photographed landscapes in Kyrgyzstan. At its entrance, a wall of seven rounded red sandstone pinnacles rises abruptly above the green plain — hence the name, which means "Seven Bulls." A little further along the road, a solitary red formation called the Broken Heart stands cleft in two against the sky, the subject of its own bitter love legend.

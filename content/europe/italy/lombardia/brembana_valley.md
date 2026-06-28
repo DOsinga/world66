@@ -7,9 +7,9 @@ snippet: Alpine valley north of Bergamo with skiing, hiking, and mountain cheese
 title: Brembana Valley
 type: location
 image: brembana_valley.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Casa_in_Val_Brembana_-_Laghi_Gemelli.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mountain_Pizzo_Badile_Brembano_2044m_west_face_-_Piazzatorre,_Bergamo,_Lombardy,_Italy_-_2022-01-29.jpg
 image_license: CC BY-SA 4.0
-image_attribution: Veronicar15
+image_attribution: Mænsard vokser
 ---
 
 Val Brembana stretches north from Bergamo into the Orobie Alps, following the Brembo river through a succession of small towns, gorges, and high pastures. In winter the valley offers affordable skiing at Foppolo and cross-country trails around Piazzatorre. In summer the same slopes become hiking country, with paths climbing to mountain lakes and rifugi above the treeline.

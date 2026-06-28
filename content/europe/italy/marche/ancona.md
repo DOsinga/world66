@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-03'
 image: ancona.jpg
 image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Il_porto_di_Ancona_(2426413820).jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ancona,_Marche,_Italy_-_Italian_sunset.jpg
 latitude: 43.480119
 loc_type: city
 longitude: 13.218728
@@ -13,6 +13,7 @@ snippet: Marche port city on an Adriatic promontory, with a hilltop cathedral an
   the Conero Riviera nearby.
 title: Ancona
 type: location
+image_attribution: gianni del bufalo
 ---
 
 Ancona is the capital of the Marche region, a working port city built on a promontory jutting into the Adriatic. It lacks the instant charm of its smaller neighbors, but rewards those who look past the port infrastructure: a fine Romanesque cathedral on the hill, a well-preserved old town, and the Conero Riviera — some of the Adriatic's best coastline — right on its doorstep.

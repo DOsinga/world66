@@ -7,6 +7,7 @@ tags:
 - sight
 - viewpoint
 - thiseio
+- koukaki
 title: Filopappou Hill
 type: poi
 ---

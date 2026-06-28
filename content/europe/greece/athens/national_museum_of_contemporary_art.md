@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - museum
 - art
+- koukaki
 title: National Museum of Contemporary Art
 type: poi
 ---

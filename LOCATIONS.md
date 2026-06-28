@@ -84,7 +84,7 @@ Examples:
 
 ## Quick facts
 
-A location's frontmatter may carry a `quick_facts:` block — a short at-a-glance table rendered beside the overview, the kind of panel a reader scans before the prose.
+A location's frontmatter may carry a `quick_facts:` block. Only add this if the city is a major travel destination and it's easy to find good facts. Never fabricate things.
 
 **The rule:** four facts per location — **two hard-data facts and two fun-but-true facts** — written as clean `key: value` pairs.
 
@@ -105,7 +105,7 @@ quick_facts:
   Population: 920,000
   Founded: c. 1275, as a dam on the Amstel
   Canals: 165 km — more than Venice
-  Bicycles: More bikes than residents
+  Bicycles: 1 Million - more than residents
 ```
 
 Two hard-data facts (population, founding), two fun-but-true (the canal length, the bicycle count), each a distinct label with a self-contained value.

@@ -1,18 +1,20 @@
 ---
-title: "Museo Pambata"
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - family
 latitude: 14.5796
 longitude: 120.9779
-snippet: "Hands-on Manila children's museum in the historic Elks Club Building near Rizal Park"
-sources:
-  - http://www.museopambata.org/
-  - https://www.museopambata.com.ph/
-  - https://en.wikivoyage.org/wiki/Manila
 score: 6.8
+snippet: Hands-on Manila children's museum in the historic Elks Club Building near
+  Rizal Park
+sources:
+- http://www.museopambata.org/
+- https://www.museopambata.com.ph/
+- https://en.wikivoyage.org/wiki/Manila
+tags:
+- things_to_do
+- museum
+- family
+- ermita
+title: Museo Pambata
+type: poi
 ---
 
 Museo Pambata is Manila's hands-on children's museum, set in the old Elks Club Building near Rizal Park and Roxas Boulevard. The exhibits are designed for play and discovery rather than quiet glass-case viewing, with rooms on the environment, the body, careers, rights, and Filipino culture.

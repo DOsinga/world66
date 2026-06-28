@@ -2,11 +2,16 @@
 title: Karen
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: -1.3600
-longitude: 36.7100
-snippet: Nairobi's garden suburb — leafy, spacious, and home to the Giraffe Centre, Karen Blixen Museum, and the city's best outdoor restaurants
+- things_to_do
+- neighbourhood
+latitude: -1.36
+longitude: 36.71
+snippet: Nairobi's garden suburb — leafy, spacious, and home to the Giraffe Centre,
+  Karen Blixen Museum, and the city's best outdoor restaurants
+image: karen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Karen_Blixen_museum,_Karen,_Kenya.jpg
+image_license: CC0
+image_attribution: Grenadille
 ---
 
 Karen is a leafy suburb in the south-west of Nairobi, named after Karen Blixen, whose coffee farm occupied much of what is now the neighbourhood. The streets are wide and lined with mature trees, the houses are set in generous plots, and the overall pace is slower and calmer than the CBD or Westlands.

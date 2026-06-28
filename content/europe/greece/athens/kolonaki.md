@@ -1,12 +1,15 @@
 ---
-title: "Kolonaki"
-type: poi
 latitude: 37.9794
 longitude: 23.7444
 tags:
-  - things_to_do
-  - neighbourhood
-score: 6.3
+- things_to_do
+- neighbourhood
+title: Kolonaki
+type: neighbourhood
+image: kolonaki.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kolonaki_Square_3.jpg
+image_license: Public domain
+image_attribution: Giorgoos
 ---
 
 Kolonaki is the wealthy quarter of central Athens, spread across the lower slopes of Lycabettus Hill and centred on the leafy **Kolonaki Square** (officially Plateia Filikis Etairias). The neighbourhood is a grid of expensive boutiques, art galleries, designer cafés, and the city's best restaurants. It is also where most of Athens's foreign embassies and several of its best museums — the Benaki, the Cycladic, the Byzantine and Christian — are located.

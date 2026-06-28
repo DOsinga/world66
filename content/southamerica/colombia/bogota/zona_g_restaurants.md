@@ -1,13 +1,14 @@
 ---
-title: "Zona G Gourmet District"
-type: poi
-tags:
-  - eating_out
-  - restaurant
 latitude: 4.6472
 longitude: -74.0558
-snippet: "Bogota's upscale restaurant cluster around Calle 69 and Carrera 6"
 score: 7.3
+snippet: Bogota's upscale restaurant cluster around Calle 69 and Carrera 6
+tags:
+- eating_out
+- restaurant
+- chapinero
+title: Zona G Gourmet District
+type: poi
 ---
 
 The Zona G (for Gourmet) is the informal name for the cluster of upscale restaurants concentrated around the intersection of Calle 69 and Carrera 6 in the Chapinero locality. For serious Colombian and international cooking, this is where Bogota's chefs concentrate. Prices are higher than the rest of the city, but in line with mid-range restaurants in most other capitals.

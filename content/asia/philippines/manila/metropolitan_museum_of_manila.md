@@ -1,17 +1,19 @@
 ---
+latitude: 14.5503
+longitude: 121.051
+score: 6.7
+snippet: Manila art museum with Philippine and international exhibitions in the Malate
+  cultural district
+sources:
+- http://www.metmuseum.ph/
+- https://en.wikivoyage.org/wiki/Manila
+tags:
+- things_to_do
+- museum
+- art
+- bgc
 title: Metropolitan Museum of Manila
 type: poi
-latitude: 14.5624
-longitude: 120.9865
-tags:
-  - things_to_do
-  - museum
-  - art
-snippet: Manila art museum with Philippine and international exhibitions in the Malate cultural district
-score: 6.7
-sources:
-  - http://www.metmuseum.ph/
-  - https://en.wikivoyage.org/wiki/Manila
 ---
 
 The Metropolitan Museum of Manila is one of the city's more serious art stops, with exhibitions that move between Philippine art, design, contemporary work, and international material. Its scale is manageable, which can be a relief in a city where travel between sights often takes longer than expected.

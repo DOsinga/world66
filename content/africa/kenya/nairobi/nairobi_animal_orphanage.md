@@ -1,14 +1,16 @@
 ---
+latitude: -1.33657
+longitude: 36.77754
+score: 6.9
+snippet: Kenya's oldest animal rescue centre, at the main gate of Nairobi National
+  Park
+tags:
+- things_to_do
+- sight
+- wildlife
+- langata
 title: Nairobi Animal Orphanage
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - wildlife
-latitude: -1.3602
-longitude: 36.8400
-snippet: Kenya's oldest animal rescue centre, at the main gate of Nairobi National Park
-score: 6.9
 ---
 
 The Nairobi Animal Orphanage is a rescue centre and care facility for injured, orphaned, and confiscated wild animals, established in 1964 — making it one of the oldest of its kind in Africa. It sits just inside the main gate of Nairobi National Park at Banda Gate.

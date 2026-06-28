@@ -1,13 +1,15 @@
 ---
-title: "Manila Ocean Park"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 14.5851
-longitude: 120.9826
-snippet: Oceanarium and marine theme park beside Rizal Park with an impressive shark tank walk-through
+latitude: 14.58003
+longitude: 120.97261
 score: 6.5
+snippet: Oceanarium and marine theme park beside Rizal Park with an impressive shark
+  tank walk-through
+tags:
+- things_to_do
+- sight
+- ermita
+title: Manila Ocean Park
+type: poi
 ---
 
 Manila Ocean Park sits on the reclamation area behind Quirino Grandstand at the edge of Rizal Park, combining a serious oceanarium with marine-themed entertainment. The main attraction is the walk-through underwater tunnel, where sharks, rays, and large pelagic fish swim overhead. There is also a jellyfish gallery, a coral reef exhibit, and a section on endemic Philippine marine species.

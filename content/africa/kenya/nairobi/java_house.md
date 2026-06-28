@@ -1,15 +1,17 @@
 ---
+latitude: -1.28307
+longitude: 36.82145
+score: 5.3
+snippet: Nairobi's most reliable café chain, with good coffee, breakfast, and free
+  Wi-Fi across dozens of locations
+tags:
+- eating_out
+- bars_and_cafes
+- restaurant
+- cafe
+- cbd
 title: Java House
 type: poi
-tags:
-  - eating_out
-  - bars_and_cafes
-  - restaurant
-  - cafe
-latitude: -1.2897
-longitude: 36.7844
-snippet: Nairobi's most reliable café chain, with good coffee, breakfast, and free Wi-Fi across dozens of locations
-score: 5.3
 ---
 
 Java House is the closest thing Nairobi has to a universal meeting place — a coffee-and-meals chain with branches across the city that serves consistently good food in comfortable, air-conditioned surroundings. It is where business meetings happen, where solo travellers work, and where families go for Sunday breakfast.

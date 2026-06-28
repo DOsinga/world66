@@ -1,7 +1,11 @@
 ---
+latitude: 17.5725
+longitude: 120.389
 score: 5.4
 tags:
 - bars_and_cafes
+- bar
+- heritage
 title: Ground Zero Café
 type: poi
 ---

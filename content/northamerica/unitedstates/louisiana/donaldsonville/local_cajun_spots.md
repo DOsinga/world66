@@ -1,7 +1,11 @@
 ---
+latitude: 30.1015
+longitude: -90.9938
 score: 5.8
 tags:
 - eating_out
+- restaurant
+- cajun
 title: Local Cajun spots
 type: poi
 ---

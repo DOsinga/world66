@@ -1,7 +1,15 @@
 ---
+latitude: 39.319
+longitude: 26.6954
 score: 7.5
+sources:
+- https://en.wikipedia.org/wiki/Ayval%C4%B1k
+- https://time-ok.com/coordinates/ayvalik
 tags:
 - things_to_do
+- sight
+- boat_trip
+- islands
 title: Archipelago Boat Trips
 type: poi
 ---

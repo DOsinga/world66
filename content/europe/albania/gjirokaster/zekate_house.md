@@ -1,7 +1,14 @@
 ---
+latitude: 40.07481
+longitude: 20.1323
 score: 9.0
+sources:
+- https://commons.wikimedia.org/wiki/Category:Zekate_House
 tags:
 - things_to_do
+- sight
+- architecture
+- historic_house
 title: Zekate House
 type: poi
 ---

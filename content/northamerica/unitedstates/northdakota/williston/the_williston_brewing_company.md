@@ -1,7 +1,11 @@
 ---
+latitude: 48.160589
+longitude: -103.626638
 score: 5.8
 tags:
 - eating_out
+- restaurant
+- brewery
 title: Williston Brewing Company
 type: poi
 ---

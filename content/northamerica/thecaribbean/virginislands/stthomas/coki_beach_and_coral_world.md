@@ -1,7 +1,12 @@
 ---
+latitude: 18.3495
+longitude: -64.864
 score: 7.9
 tags:
 - things_to_do
+- sight
+- beach
+- snorkelling
 title: Coki Beach and Coral World Ocean Park
 type: poi
 ---

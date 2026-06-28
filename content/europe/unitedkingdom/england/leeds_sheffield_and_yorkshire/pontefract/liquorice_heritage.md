@@ -1,7 +1,11 @@
 ---
+latitude: 53.6911
+longitude: -1.3124
 score: 7.8
 tags:
 - things_to_do
+- museum
+- food
 title: Liquorice Heritage
 type: poi
 ---

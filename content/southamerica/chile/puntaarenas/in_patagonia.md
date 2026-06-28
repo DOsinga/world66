@@ -1,11 +1,11 @@
 ---
-title: "In Patagonia"
-type: poi
-author: "Bruce Chatwin"
-isbn: "978-0142437193"
-tags:
-  - books
+author: Bruce Chatwin
+isbn: 978-0142437193
 score: 7.4
+tags:
+- books
+title: In Patagonia
+type: theme
 ---
 
 The defining travel book about the region, published in 1977 and still in print everywhere from Punta Arenas to airport bookshops in Buenos Aires. Chatwin came south to find the source of a scrap of brontosaurus skin his grandmother had owned, and ended up writing a series of short, almost cinematic chapters about the German, Welsh, Scottish and Russian exiles who fetched up at the bottom of the world.

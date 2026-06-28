@@ -2,6 +2,7 @@
 address: Khan's Palace, Bakhchysarai
 latitude: 44.7487
 longitude: 33.882
+score: 8.0
 snippet: Largest and oldest mosque of the Khan's Palace complex
 tags:
 - things_to_do

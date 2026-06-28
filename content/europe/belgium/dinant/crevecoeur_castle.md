@@ -2,6 +2,7 @@
 address: Bouvignes-sur-Meuse, 5500 Dinant
 latitude: 50.273
 longitude: 4.896
+score: 6.4
 snippet: Ruined medieval castle on the hill above Bouvignes
 tags:
 - things_to_do

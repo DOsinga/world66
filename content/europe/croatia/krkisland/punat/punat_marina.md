@@ -1,7 +1,11 @@
 ---
+latitude: 45.0299
+longitude: 14.6269
 score: 6.6
 tags:
 - things_to_do
+- sight
+- marina
 title: Punat Marina
 type: poi
 ---

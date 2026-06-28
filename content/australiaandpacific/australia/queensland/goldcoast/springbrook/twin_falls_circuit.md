@@ -1,7 +1,14 @@
 ---
+latitude: -28.1918
+longitude: 153.2711
 score: 8.5
+sources:
+- https://parks.qld.gov.au/parks/springbrook/journeys
 tags:
 - things_to_do
+- sight
+- waterfall
+- hiking
 title: Twin Falls Circuit
 type: poi
 ---

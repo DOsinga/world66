@@ -1,12 +1,16 @@
 ---
 address: Dubai Marina- Dubai
 email: kapose4@hotmail.com
-latitude: 25.078641
-longitude: 55.135252
+latitude: -8.814
+longitude: 13.23
 phone: '925661710'
+score: 1.5
+tags:
+- bars_and_cafes
+- bar
+- nightlife
 title: Nightlife and Entertainment in Luanda
 type: poi
-score: 1.5
 ---
 
 Clubs

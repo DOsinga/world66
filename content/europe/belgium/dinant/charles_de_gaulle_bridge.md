@@ -2,6 +2,7 @@
 address: Pont Charles de Gaulle, 5500 Dinant
 latitude: 50.2596
 longitude: 4.9131
+score: 7.2
 snippet: Bridge decorated with painted saxophones from across the EU
 story: Charles de Gaulle, then a young lieutenant in the French army, was wounded
   in Dinant in August 1914 while crossing the river to fight the Germans. The bridge

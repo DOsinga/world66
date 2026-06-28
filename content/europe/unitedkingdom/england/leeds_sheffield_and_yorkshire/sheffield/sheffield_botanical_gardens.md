@@ -2,6 +2,7 @@
 address: Clarkehouse Road, Sheffield S10 2LN
 latitude: 53.3739
 longitude: -1.5036
+score: 7.3
 snippet: 19 acres of curated gardens with restored Victorian pavilions
 story: A long-empty pit at the south end of the gardens once held a fully grown black
   bear, kept on display from 1837 for the entertainment of Victorian visitors. The

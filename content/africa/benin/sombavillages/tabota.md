@@ -1,13 +1,14 @@
 ---
+latitude: 10.3
+longitude: 1.2
+score: 5.5
+sources:
+- https://en.wikipedia.org/wiki/Tabota,_Benin
+tags:
+- things_to_do
+- sight
 title: Tabota
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 10.30
-longitude: 1.20
-sources:
-  - https://en.wikipedia.org/wiki/Tabota,_Benin
 ---
 
 Tabota is a small Atakora arrondissement on the broad upland north of Boukoumbé, more or less midway between the Somba country proper and the road to Tanguiéta. The settlement is a scatter of compounds — some still in classic tata style, others gradually shifting to cement and corrugated iron as the materials become cheaper than freshly mudded walls.

@@ -6,10 +6,14 @@ done:
 latitude: 25.0782
 longitude: -77.4081
 phone: 327 3373
+score: 5.8
 snippet: Lively Bahamian spot at Cable Beach with live music
+tags:
+- eating_out
+- restaurant
+- cable_beach_road
 title: Café Johnny Canoe
 type: poi
-score: 5.8
 ---
 
 A lively spot for authentic Bahamian food at Cable Beach. The menu runs to cracked conch, rum cake, guava duff, and pineapple duff alongside roast chicken, burgers, steaks, and seafood. The covered outdoor seating fills up fast, which tells you what you need to know.

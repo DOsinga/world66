@@ -2,6 +2,7 @@
 address: Rue des Jardins 37a, 5537 Annevoie
 latitude: 50.334
 longitude: 4.893
+score: 7.2
 snippet: 18th-century water gardens 15 km north of Dinant
 story: The 50 fountains, cascades, and water jets are all driven entirely by gravity
   — water diverted from four springs flows through canals at different levels and

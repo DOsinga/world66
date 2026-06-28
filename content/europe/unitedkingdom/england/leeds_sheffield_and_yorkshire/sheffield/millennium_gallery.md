@@ -2,6 +2,7 @@
 address: Arundel Gate, Sheffield S1 2PP
 latitude: 53.3796
 longitude: -1.4673
+score: 8.4
 snippet: Sheffield's main art gallery, free to enter
 tags:
 - things_to_do

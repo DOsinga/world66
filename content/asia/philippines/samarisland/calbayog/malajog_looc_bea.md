@@ -1,9 +1,12 @@
 ---
+latitude: 12.0931
+longitude: 124.5364
+score: 5.6
 tags:
-- sights
+- things_to_do
+- beach
 title: Malajog (Looc) Beach
 type: poi
-score: 5.6
 ---
 
 This is the ever-famous beach in Calbayog, not to mention the VIP's, foreign & local tourists that flocks in during summer time. With the breath taking crystal clear water, very fine grayish sand on its seabed and marvelous pebbles along its shoreline, this makes the place a perfect hideaway.

@@ -1,7 +1,11 @@
 ---
+latitude: 41.4545
+longitude: -106.8074
 score: 6.9
 tags:
 - bars_and_cafes
+- bar
+- historic
 title: Wolf Hotel Bar
 type: poi
 ---

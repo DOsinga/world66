@@ -1,7 +1,11 @@
 ---
+latitude: 36.858944
+longitude: -75.977928
 score: 6.4
 tags:
 - eating_out
+- restaurant
+- seafood
 title: Catch 31 Fish House & Bar
 type: poi
 ---

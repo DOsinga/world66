@@ -1,7 +1,11 @@
 ---
+latitude: 11.1038
+longitude: -0.9247
 score: 8.8
 tags:
 - things_to_do
+- sight
+- architecture
 title: Royal court
 type: poi
 ---

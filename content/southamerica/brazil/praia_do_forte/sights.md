@@ -1,8 +1,8 @@
 ---
-title: Sights
-type: poi
-url: www.praiadoforte.com
 score: 5.6
+title: Sights
+type: section
+url: www.praiadoforte.com
 ---
 
 Check these out if you can tear yourself away from the beach.

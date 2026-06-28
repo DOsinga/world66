@@ -1,7 +1,11 @@
 ---
+latitude: -25.6896
+longitude: -54.4451
 score: 8.5
 tags:
 - things_to_do
+- waterfalls
+- boat_trip
 title: Boat Rides into the Falls
 type: poi
 ---

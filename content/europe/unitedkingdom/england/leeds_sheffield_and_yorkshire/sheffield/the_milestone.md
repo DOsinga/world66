@@ -2,6 +2,7 @@
 address: 84 Green Lane, Sheffield S3 8SE
 latitude: 53.389
 longitude: -1.4747
+score: 6.2
 snippet: Long-standing gastropub on the edge of Kelham Island
 tags:
 - eating_out

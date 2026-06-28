@@ -1,9 +1,9 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
-title: Sights
-type: poi
 score: 4.5
+title: Sights
+type: section
 ---
 
 There are lots of sights to see, especially for a nature lover, but the most-visited and the most breath-taking of them all is for sure the Great Dune aka Parnidis Dune. 

@@ -1,12 +1,12 @@
 ---
 phone: 0039 036 356 0076
+score: 1.7
 tags:
 - getting_there
 - theatre
 title: Airport Shuttle and Transfers
-type: poi
+type: theme
 url: bergamo.airports-shuttle.com
-score: 1.7
 ---
 
 Our Bergamo transfers use Mercedes vehicles such as limousine E-class, van, minibus and busses. We operate transfers from and to Bergamo airport to any Milan city hotel, private apartment, any destination of Como, Garda, and Maggiore lakes. Ski transfers to the all of the popular ski resorts of the area and private tours.

@@ -2,6 +2,7 @@
 address: Route de Philippeville 142, 5500 Dinant
 latitude: 50.254
 longitude: 4.909
+score: 6.3
 snippet: Second show cave, with concretions and an audio-visual presentation
 tags:
 - things_to_do

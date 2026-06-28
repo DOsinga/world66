@@ -1,13 +1,14 @@
 ---
-title: Arsenal de Ferrol
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 43.4797
 longitude: -8.2371
+score: 7.5
 sources:
-  - https://en.wikipedia.org/wiki/Ferrol_Naval_Base
+- https://en.wikipedia.org/wiki/Ferrol_Naval_Base
+tags:
+- things_to_do
+- sight
+title: Arsenal de Ferrol
+type: poi
 ---
 
 The Arsenal de Ferrol is the working heart of the city — a fenced naval shipyard and base that runs along the entire south side of the centre, between the Magdalena district and the ría. It has been Spain's principal Atlantic naval dockyard since 1750, when the Marquis of the Ensenada chose Ferrol over A Coruña for its deep, sheltered water and easily defended ría. The current shipyards (operated by Navantia) build frigates for the Spanish Navy and major surface combatants for export — the Australian Hobart-class and the Norwegian Nansen-class were both constructed here.

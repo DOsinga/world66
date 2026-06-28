@@ -1,9 +1,15 @@
 ---
-title: "Savannakhet Colonial Quarter"
-type: poi
-tags: [things_to_do, sight]
-snippet: "Riverside grid of French Indochina-era shophouses and administrative buildings"
+latitude: 16.557
+longitude: 104.7486
 score: 8.1
+snippet: Riverside grid of French Indochina-era shophouses and administrative buildings
+tags:
+- things_to_do
+- sight
+- architecture
+- neighbourhood
+title: Savannakhet Colonial Quarter
+type: poi
 ---
 
 The grid of streets between the Mekong riverside and the town centre holds the densest collection of French colonial architecture in Savannakhet. Shaded by old trees and bound on the west by the river road, the quarter has two-storey shophouses with colonnaded ground floors, stucco administrative buildings, and a few Chinese-style merchants' houses. Some are well maintained; others are pleasantly weathered.

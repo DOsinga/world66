@@ -2,6 +2,7 @@
 address: Șoseaua Kiseleff 28, Bucharest
 latitude: 44.4708
 longitude: 26.0797
+score: 5.5
 snippet: 1930s royal residence on the edge of Herăstrău Park
 tags:
 - things_to_do

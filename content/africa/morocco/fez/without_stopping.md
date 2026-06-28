@@ -1,11 +1,13 @@
 ---
-title: "Without Stopping"
-author: "Paul Bowles"
-type: poi
+author: Paul Bowles
+latitude: 35.7595
+longitude: -5.834
+score: 6.8
+snippet: The autobiography of the American writer who made Morocco his home
 tags:
 - books
-snippet: "The autobiography of the American writer who made Morocco his home"
-score: 6.8
+title: Without Stopping
+type: poi
 ---
 
 Paul Bowles arrived in Tangier in 1931 and never really left North Africa, eventually settling there permanently from 1947. His autobiography traces his encounters with Moroccan culture over decades, including long periods in Fez, which he considered the most intellectually and spiritually alive city in Morocco. Without Stopping is essential reading for understanding what drew Western writers and artists to Morocco in the mid-twentieth century and what they found there.

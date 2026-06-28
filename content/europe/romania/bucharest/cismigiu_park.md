@@ -2,6 +2,7 @@
 address: Bulevardul Regina Elisabeta, Bucharest
 latitude: 44.4379
 longitude: 26.0903
+score: 7.6
 snippet: Oldest public garden in the city, with a lake, rowing boats, and a chess
   corner
 tags:

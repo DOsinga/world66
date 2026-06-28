@@ -1,7 +1,12 @@
 ---
+latitude: 10.4394
+longitude: -85.7893
 score: 7.0
 tags:
 - things_to_do
+- sight
+- beach
+- snorkelling
 title: Snorkelling at Playa Flamingo
 type: poi
 ---

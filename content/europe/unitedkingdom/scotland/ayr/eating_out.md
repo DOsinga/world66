@@ -2,9 +2,9 @@
 address: Miller Road Ayr
 latitude: 55.45811
 longitude: -4.632161
-title: Eating Out in Ayr
-type: poi
 score: 2.8
+title: Eating Out in Ayr
+type: section
 ---
 
 Fantastic selection of places to eat out, and because there are so many there seems to be a lot of great deals such as buy one meal get one free and special cheap lunchtime deals.

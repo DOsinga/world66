@@ -1,11 +1,14 @@
 ---
+latitude: -29.3793
+longitude: -50.8737
+score: 6.6
 snippet: The Serra Gaúcha mountain resort — hydrangeas, chocolate, and alpine pretension
 tags:
 - day_trips
 - sight
+- mountain_town
 title: Gramado Day Trip
 type: poi
-score: 6.6
 ---
 
 Gramado is one of the most visited destinations in Brazil, which comes as a surprise to travellers who arrive expecting something more authentically Brazilian. The town — 127 kilometres north of Porto Alegre in the Serra Gaúcha hills — has been playing at being a Swiss-German alpine village for so long that the performance has acquired a kind of sincerity. The streets are lined with chalet-style buildings, the hydrangeas are everywhere from October through April (the town plants them in extraordinary quantities), the chocolate shops are excellent, and the temperature is reliably cool even in Brazilian summer. It is not subtle, but it is genuinely pleasant.

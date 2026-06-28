@@ -1,7 +1,11 @@
 ---
+latitude: 4.1278
+longitude: 103.3929
 score: 6.4
 tags:
 - eating_out
+- restaurant
+- guesthouse
 title: Guesthouse Dinners
 type: poi
 ---

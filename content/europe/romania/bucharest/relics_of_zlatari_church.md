@@ -2,6 +2,7 @@
 address: Calea Victoriei 12, Bucharest
 latitude: 44.4325
 longitude: 26.0974
+score: 6.3
 snippet: 18th-century church holding the preserved arm of Saint Cyprian
 story: The church preserves the silver-cased arm of Saint Cyprian, a third-century
   Antiochene sorcerer turned bishop. Romanian Orthodox believers come from across

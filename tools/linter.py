@@ -14,6 +14,8 @@ Checks:
   missing_coordinates      type=location without latitude/longitude  [report]
   invalid_loc_type         loc_type not in allowed set               [report]
   invalid_page_type        type field not in allowed set             [report]
+  missing_poi_fields       type=poi missing required frontmatter      [report]
+  invalid_poi_score        type=poi score is not 1.0-10.0             [report]
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
   city_has_child_location  city contains a child location page        [report]
@@ -306,6 +308,47 @@ def check_invalid_page_type(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_missing_poi_fields(pages: list[Page]) -> list[Issue]:
+    issues = []
+    required = ("tags", "latitude", "longitude", "score")
+    for p in pages:
+        if p.page_type != "poi":
+            continue
+        missing = [
+            key for key in required
+            if p.meta.get(key) in (None, "")
+        ]
+        if missing:
+            issues.append(Issue(
+                path=p.path,
+                check="missing_poi_fields",
+                message=f"type=poi without {', '.join(missing)}",
+            ))
+    return issues
+
+
+def check_invalid_poi_score(pages: list[Page]) -> list[Issue]:
+    issues = []
+    for p in pages:
+        if p.page_type != "poi" or p.meta.get("score") in (None, ""):
+            continue
+        score = p.meta["score"]
+        if isinstance(score, bool) or not isinstance(score, (int, float)):
+            issues.append(Issue(
+                path=p.path,
+                check="invalid_poi_score",
+                message=f"score={score!r} is not numeric",
+            ))
+            continue
+        if not 1.0 <= score <= 10.0:
+            issues.append(Issue(
+                path=p.path,
+                check="invalid_poi_score",
+                message=f"score={score!r} not in range 1.0-10.0",
+            ))
+    return issues
+
+
 def check_continent_misplaced(pages: list[Page]) -> list[Issue]:
     """Files directly in content/ should be continent locations."""
     issues = []
@@ -510,6 +553,8 @@ CHECKS = [
     check_missing_coordinates,
     check_invalid_loc_type,
     check_invalid_page_type,
+    check_missing_poi_fields,
+    check_invalid_poi_score,
     check_continent_misplaced,
     check_country_misplaced,
     check_city_has_child_location,

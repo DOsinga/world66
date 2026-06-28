@@ -1,7 +1,11 @@
 ---
+latitude: 4.1265
+longitude: 103.3925
 score: 6.6
 tags:
 - bars_and_cafes
+- bar
+- beach
 title: Beach Bars
 type: poi
 ---

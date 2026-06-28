@@ -1,7 +1,10 @@
 ---
+latitude: 30.1019
+longitude: -90.9929
 score: 4.8
 tags:
 - bars_and_cafes
+- bar
 title: Local bars
 type: poi
 ---

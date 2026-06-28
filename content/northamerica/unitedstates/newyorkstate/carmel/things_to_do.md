@@ -2,9 +2,8 @@
 email: admin@creativityworkshops.com
 phone: 1 (831) 915-5209
 title: Things to do in Carmel
-type: poi
+type: section
 url: www.creativityworkshop.com
-score: 1.8
 ---
 
 Bored, well you can visit Carmel Moviepel 8. Don't want to see a movie then you can going bowling at Carmel Bowl.

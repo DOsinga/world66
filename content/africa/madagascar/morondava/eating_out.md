@@ -5,10 +5,14 @@ latitude: -20.298178
 longitude: 44.269011
 phone: + 261.20.95.52347
 price: $ 15.00
+score: 5.4
+tags:
+- eating_out
+- restaurant
+- seafood
 title: Eating Out
 type: poi
 url: www.chezmaggie.com
-score: 5.4
 ---
 
 ### Le Masoandro Restaurant / Chez Maggie Hotel

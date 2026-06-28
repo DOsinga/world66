@@ -1,12 +1,13 @@
 ---
+latitude: 11.3
+longitude: 1.55
+score: 8.6
+tags:
+- things_to_do
+- sight
+- nature
 title: Mare Bori
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-latitude: 11.30
-longitude: 1.55
 ---
 
 Mare Bori is the best-known waterhole on the Pendjari game-drive circuit and the kind of place where, given an hour of patient waiting in the late afternoon, you can see almost everything the park has to offer pass through in succession. It is a broad shallow pan rather than a deep pool, and in the late dry season it shrinks to a muddy patch that draws elephants, buffalo, hartebeest, kob, baboons, and increasingly often a lion or two, lying up nearby and waiting for the herd to relax its guard.

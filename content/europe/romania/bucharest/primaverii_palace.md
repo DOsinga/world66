@@ -2,6 +2,7 @@
 address: Bulevardul Primăverii 50, Bucharest
 latitude: 44.4651
 longitude: 26.0985
+score: 7.4
 snippet: Ceaușescu's astonishingly kitsch private mansion, now a museum
 story: Nicolae and Elena Ceaușescu lived here from 1965 until they fled by helicopter
   from the roof of the Central Committee in December 1989. The peacock-themed gold

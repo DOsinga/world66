@@ -1,9 +1,9 @@
 ---
+score: 3.0
 tags:
 - getting_there
 title: Train transfer Amsterdam <> Den Helder harbour
-type: poi
-score: 3.0
+type: theme
 ---
 
 Departure/timetable and tariff information for train transfer to Den

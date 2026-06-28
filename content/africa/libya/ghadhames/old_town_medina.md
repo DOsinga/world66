@@ -1,8 +1,12 @@
 ---
+latitude: 30.133
+longitude: 9.5
 score: 9.6
 tags:
 - things_to_do
-- sightseeing
+- sight
+- architecture
+- unesco
 title: Old Town (UNESCO World Heritage Site)
 type: poi
 ---

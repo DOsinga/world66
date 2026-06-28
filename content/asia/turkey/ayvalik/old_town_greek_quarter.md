@@ -1,7 +1,14 @@
 ---
+latitude: 39.319
+longitude: 26.6954
 score: 9.0
+sources:
+- https://time-ok.com/coordinates/ayvalik
 tags:
 - things_to_do
+- sight
+- architecture
+- old_town
 title: Old Town Greek Quarter
 type: poi
 ---

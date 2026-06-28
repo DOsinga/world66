@@ -1,9 +1,13 @@
 ---
-title: Arvanitia Promenade
-type: poi
-tags: [things_to_do, sight, nature]
 latitude: 37.5611
 longitude: 22.7972
+score: 7.1
+tags:
+- things_to_do
+- sight
+- nature
+title: Arvanitia Promenade
+type: poi
 ---
 
 The Arvanitia is the coastal walking path that wraps around the base of the Akronafplia rock from the western edge of the old town to Arvanitia Beach on the south side of the headland. It is roughly one kilometre each way, paved the whole distance, and shaded for most of it by pines clinging to the cliff face.

@@ -1,14 +1,15 @@
 ---
-title: Cabo Prior Lighthouse and Batteries
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
 latitude: 43.5676
 longitude: -8.3145
+score: 7.6
 sources:
-  - https://en.wikipedia.org/wiki/Cabo_Prior_Lighthouse
+- https://en.wikipedia.org/wiki/Cabo_Prior_Lighthouse
+tags:
+- things_to_do
+- sight
+- nature
+title: Cabo Prior Lighthouse and Batteries
+type: poi
 ---
 
 Cabo Prior is the high, cliff-edged headland north of Ferrol where the Atlantic meets the open ría. The lighthouse on its summit, built in 1854, still works — a slim white tower beside a granite keeper's house, perched well over a hundred metres above the surf with one of the bigger Galician views: south to the entrance of the Ría de Ferrol, north along the Costa Ártabra toward Cabo Ortegal, and west across nothing but ocean.

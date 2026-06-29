@@ -30,6 +30,10 @@ The content hierarchy is documented in LOCATIONS.md. In short: continents contai
 
 **POIs always live flat in the city or feature directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same folder, not inside an `eating_out/` subfolder.
 
+### Markdown files
+
+Markdown files use Unix line endings (`LF`, not `CRLF`) and every non-empty markdown file ends with a final newline.
+
 ### Images
 
 Pages can have a hero image via frontmatter:

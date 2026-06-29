@@ -6,6 +6,7 @@ Walks content/ and runs a battery of checks. Reports issues grouped by
 check; some checks have mechanical fixes available via --fix.
 
 Checks:
+  markdown_newlines       markdown uses LF and final newline          [fixable]
   frontmatter_parse        YAML frontmatter fails to load            [fixable]
   duplicate_image_keys     image_* keys repeated in frontmatter      [fixable]
   bad_attribution_quotes   image_attribution with unescaped inner "  [fixable]
@@ -26,6 +27,7 @@ Exits non-zero if any unfixable issues remain after fixes are applied.
 """
 
 import argparse
+import os
 import re
 import sys
 import subprocess
@@ -91,6 +93,54 @@ class Issue:
             return str(self.path.relative_to(REPO))
         except ValueError:
             return str(self.path)
+
+
+# ---------------------------------------------------------------------------
+# Raw file checks
+# ---------------------------------------------------------------------------
+
+def _tracked_markdown_files() -> list[Path]:
+    result = subprocess.run(
+        ["git", "ls-files", "-z", "*.md"],
+        cwd=REPO,
+        check=True,
+        stdout=subprocess.PIPE,
+    )
+    return [
+        REPO / os.fsdecode(name)
+        for name in result.stdout.split(b"\0")
+        if name
+    ]
+
+
+def check_markdown_newlines() -> list[Issue]:
+    issues = []
+    for path in _tracked_markdown_files():
+        data = path.read_bytes()
+        problems = []
+        if b"\r\n" in data or b"\r" in data:
+            problems.append("uses CRLF line endings")
+        if data and not data.endswith(b"\n"):
+            problems.append("missing final newline")
+        if problems:
+            issues.append(Issue(
+                path=path,
+                check="markdown_newlines",
+                message=", ".join(problems),
+                fixer=lambda p=path: fix_markdown_newlines(p),
+            ))
+    return issues
+
+
+def fix_markdown_newlines(path: Path) -> bool:
+    data = path.read_bytes()
+    fixed = data.replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+    if fixed and not fixed.endswith(b"\n"):
+        fixed += b"\n"
+    if fixed == data:
+        return False
+    path.write_bytes(fixed)
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -611,6 +661,15 @@ def main() -> int:
                     help="Max examples to print per check (default 10)")
     args = ap.parse_args()
 
+    newline_issues = check_markdown_newlines()
+
+    if args.fix and newline_issues:
+        print(f"Applying markdown newline fixes to {len(newline_issues)} files...")
+        for issue in newline_issues:
+            if issue.fixer:
+                issue.fixer()
+        newline_issues = check_markdown_newlines()
+
     parse_issues, pages = collect_parse_issues()
 
     if args.fix and parse_issues:
@@ -637,7 +696,7 @@ def main() -> int:
             for check in CHECKS:
                 structural_issues.extend(check(pages))
 
-    all_issues = parse_issues + structural_issues
+    all_issues = newline_issues + parse_issues + structural_issues
     if not all_issues:
         print("Clean — no issues found.")
         return 0

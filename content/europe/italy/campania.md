@@ -27,6 +27,7 @@ Further south, the Cilento region is where Campania shakes off its crowds. The G
 - [Sorrento](/europe/italy/campania/sorrento) — clifftop town, ideal base for the region
 - [Amalfi](/europe/italy/campania/amalfi) — the historic maritime republic
 - [Positano](/europe/italy/campania/positano) — most picturesque town on the coast
+- [Amalfi Coast](/europe/italy/campania/amalfi_coast) — the cliffside coastline that ties the towns together
 - [Ravello](/europe/italy/campania/ravello) — hilltop town above Amalfi
 - [Capri](/europe/italy/campania/capri) — island in the Bay of Naples
 - [Ischia](/europe/italy/campania/ischia) — volcanic island with thermal spas

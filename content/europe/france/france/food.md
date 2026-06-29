@@ -5,7 +5,9 @@ type: section
 
 The French tend to think their culture is superior to any other in the world. While this is still very much open for debate, there is some truth in the statement when applied to the culinary arts. French food is just great.
 
- It is impossible to give a complete overview of French cuisine. Here we give you a short summary of different regions and their specific specialities. More info about the specific regions is found on the pages dedicated to those regions.  
+
+ It is impossible to give a complete overview of French cuisine. Here we give you a short summary of different regions and their specific specialities. More info about the specific regions is found on the pages dedicated to those regions. 
+ 
 
 **general**
 

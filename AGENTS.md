@@ -22,6 +22,22 @@ source venv/bin/activate
 python3 manage.py runserver 8066
 ```
 
+## Running the linter
+
+Before pushing, run:
+
+```bash
+python3 tools/linter.py
+```
+
+For trivial mechanical cleanup, run:
+
+```bash
+python3 tools/linter.py --fix
+```
+
+Review the diff after `--fix`; it is meant for safe formatting and frontmatter fixes, not for judgment calls.
+
 ## Content structure
 
 `content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file.

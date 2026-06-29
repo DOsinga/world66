@@ -1,5 +1,7 @@
 ---
 linked_locations:
+  - europe/netherlands/deventer
+  - europe/netherlands/enschede
   - europe/netherlands/twente_cycling
 title: Day Trips
 type: section

@@ -1,6 +1,6 @@
 ---
 linked_locations:
-- europe/netherlands/texel
+  - europe/netherlands/waddenislands/texel_island
 title: Day Trips
 type: section
 ---

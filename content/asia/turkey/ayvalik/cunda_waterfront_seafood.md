@@ -1,7 +1,14 @@
 ---
+latitude: 39.3325
+longitude: 26.6572
 score: 7.8
+sources:
+- https://en.wikipedia.org/wiki/Ayval%C4%B1k
 tags:
 - eating_out
+- restaurant
+- seafood
+- cunda_island
 title: Cunda Waterfront Seafood
 type: poi
 ---

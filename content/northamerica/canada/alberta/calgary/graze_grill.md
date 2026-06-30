@@ -1,15 +1,17 @@
 ---
 address: 2828 23rd Street NE Inside the Executive Royal Inn
 email: fandbcalgary@royalinn.com
+latitude: 51.0777
+longitude: -114.0003
 phone: 403-219-7484
 price: $13.95 - $14.95
+score: 3.9
 tags:
 - eating_out
 - restaurant
 title: Graze Grill
 type: poi
 url: www.grazegrill.com
-score: 3.9
 ---
 
 Located inside the Executive Royal Inn north Calgary, we have a different take on your dining experience unlike all the other choices.

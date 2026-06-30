@@ -1,10 +1,12 @@
 ---
-title: "Andoni Elephants Reserve"
-type: poi
-tags:
-  - things_to_do
-  - sight
+latitude: 4.4692
+longitude: 7.4595
 score: 7.2
+tags:
+- things_to_do
+- sight
+title: Andoni Elephants Reserve
+type: poi
 ---
 
 A reserve among the Niger Delta barrier islands southeast of Port Harcourt, in the Obolo (Andoni) area. It protects one of the last remaining populations of forest elephants in the region and stretches along roughly 20 miles of beach — a long, empty shoreline that lends itself to low-key ecotourism rather than polished safari.

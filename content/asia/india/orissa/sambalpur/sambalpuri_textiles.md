@@ -1,7 +1,11 @@
 ---
+latitude: 21.4739
+longitude: 83.9594
 score: 8.6
 tags:
 - things_to_do
+- shopping
+- craft
 title: Sambalpuri Textile Weaving
 type: poi
 ---

@@ -19,3 +19,6 @@ Waterlooplein sits at the junction of the Amstel river and the old Jewish Quarte
 The Portuguese Synagogue on Mr. Visserplein, built in 1675, is one of the largest and most impressive synagogues in the world and is still in use by the Sephardic community. It is lit entirely by candles — no electric light has been introduced — which makes an evening service, if you can attend one, an extraordinary experience. [Biblioteca Ets Haim](/europe/netherlands/amsterdam/ets_haim), the oldest functioning Jewish library in the world, is part of the same complex.
 
 The square itself is given over daily to the [Waterlooplein flea market](/europe/netherlands/amsterdam/waterlooplein_market), one of Amsterdam's older markets. Behind it stands the Stopera, and a short walk away on Jodenbreestraat is the Rembrandt House — both worth combining with a visit here.
+
+The Rembrandt House on Jodenbreestraat is where Rembrandt lived and worked during his most productive years, 1639–1658, before financial ruin forced him to sell it. The house has been reconstructed to its 17th-century state with Rembrandt's actual collection of curiosities, props, and materials reconstructed from the bankruptcy inventory. It is a more intimate encounter with the artist than the Rijksmuseum and considerably less crowded.
+

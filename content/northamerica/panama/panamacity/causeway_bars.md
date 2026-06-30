@@ -1,7 +1,11 @@
 ---
+latitude: 8.924
+longitude: -79.533
 score: 5.8
 tags:
 - bars_and_cafes
+- bar
+- amador_causeway
 title: Amador Causeway bars
 type: poi
 ---

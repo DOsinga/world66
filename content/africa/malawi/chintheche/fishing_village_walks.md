@@ -1,7 +1,11 @@
 ---
+latitude: -11.8314
+longitude: 34.1693
 score: 7.0
 tags:
 - things_to_do
+- sight
+- walking
 title: Fishing Village Walks
 type: poi
 ---

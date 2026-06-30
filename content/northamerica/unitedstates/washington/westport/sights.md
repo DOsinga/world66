@@ -1,8 +1,7 @@
 ---
 title: Sights in Westport
-type: poi
+type: section
 url: www.parks.wa.gov
-score: 4.5
 ---
 
 **Contributors**

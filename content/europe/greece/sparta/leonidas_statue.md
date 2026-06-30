@@ -1,9 +1,12 @@
 ---
-title: Leonidas Statue
-type: poi
-tags: [sight]
 latitude: 37.0816
 longitude: 22.4334
+score: 6.3
+tags:
+- things_to_do
+- sight
+title: Leonidas Statue
+type: poi
 ---
 
 The bronze statue of Leonidas stands at the northern end of Sparta's main avenue, on the broad plaza below the acropolis hill. It is a 1968 work by the sculptor Vasos Falireas and shows the Spartan king at Thermopylae — helmet, spear, round hoplite shield — in full forward motion. The plinth below carries Leonidas's famously laconic reply to the Persian demand to lay down arms: *Molon labe* — "come and get them."

@@ -1,10 +1,17 @@
 ---
-title: Phosphorescent Bay
-type: poi
-tags: [things_to_do, sight, nature]
 latitude: 17.9633
 longitude: -67.0322
-story: The glow comes from Pyrodinium bahamense, dinoflagellates that flash blue when disturbed by motion. Decades of motorboat traffic and pollution have noticeably dimmed Parguera's bay compared to its peak — the brightest of Puerto Rico's three bio-bays is now Mosquito Bay on Vieques.
+score: 9.2
+story: The glow comes from Pyrodinium bahamense, dinoflagellates that flash blue when
+  disturbed by motion. Decades of motorboat traffic and pollution have noticeably
+  dimmed Parguera's bay compared to its peak — the brightest of Puerto Rico's three
+  bio-bays is now Mosquito Bay on Vieques.
+tags:
+- things_to_do
+- sight
+- nature
+title: Phosphorescent Bay
+type: poi
 ---
 
 Bahía Fosforescente — the Phosphorescent Bay — sits a short boat ride east of La Parguera village and is the reason most visitors come. After dark, when a hand or paddle stirs the water, microscopic dinoflagellates flash a brief, electric blue. The wake of a boat lights up like a comet's tail; fish darting through leave glowing trails.

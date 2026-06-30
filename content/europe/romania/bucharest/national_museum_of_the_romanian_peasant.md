@@ -2,6 +2,7 @@
 address: Șoseaua Kiseleff 3, Bucharest
 latitude: 44.4544
 longitude: 26.0839
+score: 8.1
 snippet: Painted icons, woven textiles, and a basement of Communist propaganda
 story: When the Communists requisitioned the building in 1953 they tore out the peasant
   collection and installed a museum dedicated to Romanian Communism. After 1989 the

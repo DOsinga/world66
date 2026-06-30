@@ -2,6 +2,7 @@
 address: Walzin, 5500 Dinant
 latitude: 50.219
 longitude: 4.923
+score: 7.5
 snippet: Romantic medieval castle dramatically perched above the Lesse
 tags:
 - things_to_do

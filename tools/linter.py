@@ -6,6 +6,7 @@ Walks content/ and runs a battery of checks. Reports issues grouped by
 check; some checks have mechanical fixes available via --fix.
 
 Checks:
+  markdown_newlines       markdown uses LF and final newline          [fixable]
   frontmatter_parse        YAML frontmatter fails to load            [fixable]
   duplicate_image_keys     image_* keys repeated in frontmatter      [fixable]
   bad_attribution_quotes   image_attribution with unescaped inner "  [fixable]
@@ -14,6 +15,8 @@ Checks:
   missing_coordinates      type=location without latitude/longitude  [report]
   invalid_loc_type         loc_type not in allowed set               [report]
   invalid_page_type        type field not in allowed set             [report]
+  missing_poi_fields       type=poi missing required frontmatter      [report]
+  invalid_poi_score        type=poi score is not 1.0-10.0             [report]
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
   city_has_child_location  city contains a child location page        [report]
@@ -24,6 +27,7 @@ Exits non-zero if any unfixable issues remain after fixes are applied.
 """
 
 import argparse
+import os
 import re
 import sys
 import subprocess
@@ -89,6 +93,54 @@ class Issue:
             return str(self.path.relative_to(REPO))
         except ValueError:
             return str(self.path)
+
+
+# ---------------------------------------------------------------------------
+# Raw file checks
+# ---------------------------------------------------------------------------
+
+def _tracked_markdown_files() -> list[Path]:
+    result = subprocess.run(
+        ["git", "ls-files", "-z", "*.md"],
+        cwd=REPO,
+        check=True,
+        stdout=subprocess.PIPE,
+    )
+    return [
+        REPO / os.fsdecode(name)
+        for name in result.stdout.split(b"\0")
+        if name
+    ]
+
+
+def check_markdown_newlines() -> list[Issue]:
+    issues = []
+    for path in _tracked_markdown_files():
+        data = path.read_bytes()
+        problems = []
+        if b"\r\n" in data or b"\r" in data:
+            problems.append("uses CRLF line endings")
+        if data and not data.endswith(b"\n"):
+            problems.append("missing final newline")
+        if problems:
+            issues.append(Issue(
+                path=path,
+                check="markdown_newlines",
+                message=", ".join(problems),
+                fixer=lambda p=path: fix_markdown_newlines(p),
+            ))
+    return issues
+
+
+def fix_markdown_newlines(path: Path) -> bool:
+    data = path.read_bytes()
+    fixed = data.replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+    if fixed and not fixed.endswith(b"\n"):
+        fixed += b"\n"
+    if fixed == data:
+        return False
+    path.write_bytes(fixed)
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -306,6 +358,47 @@ def check_invalid_page_type(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_missing_poi_fields(pages: list[Page]) -> list[Issue]:
+    issues = []
+    required = ("tags", "latitude", "longitude", "score")
+    for p in pages:
+        if p.page_type != "poi":
+            continue
+        missing = [
+            key for key in required
+            if p.meta.get(key) in (None, "")
+        ]
+        if missing:
+            issues.append(Issue(
+                path=p.path,
+                check="missing_poi_fields",
+                message=f"type=poi without {', '.join(missing)}",
+            ))
+    return issues
+
+
+def check_invalid_poi_score(pages: list[Page]) -> list[Issue]:
+    issues = []
+    for p in pages:
+        if p.page_type != "poi" or p.meta.get("score") in (None, ""):
+            continue
+        score = p.meta["score"]
+        if isinstance(score, bool) or not isinstance(score, (int, float)):
+            issues.append(Issue(
+                path=p.path,
+                check="invalid_poi_score",
+                message=f"score={score!r} is not numeric",
+            ))
+            continue
+        if not 1.0 <= score <= 10.0:
+            issues.append(Issue(
+                path=p.path,
+                check="invalid_poi_score",
+                message=f"score={score!r} not in range 1.0-10.0",
+            ))
+    return issues
+
+
 def check_continent_misplaced(pages: list[Page]) -> list[Issue]:
     """Files directly in content/ should be continent locations."""
     issues = []
@@ -510,6 +603,8 @@ CHECKS = [
     check_missing_coordinates,
     check_invalid_loc_type,
     check_invalid_page_type,
+    check_missing_poi_fields,
+    check_invalid_poi_score,
     check_continent_misplaced,
     check_country_misplaced,
     check_city_has_child_location,
@@ -566,6 +661,15 @@ def main() -> int:
                     help="Max examples to print per check (default 10)")
     args = ap.parse_args()
 
+    newline_issues = check_markdown_newlines()
+
+    if args.fix and newline_issues:
+        print(f"Applying markdown newline fixes to {len(newline_issues)} files...")
+        for issue in newline_issues:
+            if issue.fixer:
+                issue.fixer()
+        newline_issues = check_markdown_newlines()
+
     parse_issues, pages = collect_parse_issues()
 
     if args.fix and parse_issues:
@@ -592,7 +696,7 @@ def main() -> int:
             for check in CHECKS:
                 structural_issues.extend(check(pages))
 
-    all_issues = parse_issues + structural_issues
+    all_issues = newline_issues + parse_issues + structural_issues
     if not all_issues:
         print("Clean — no issues found.")
         return 0

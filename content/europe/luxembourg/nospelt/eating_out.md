@@ -3,9 +3,9 @@ address: 4, Grand-Rue
 latitude: 43.297801
 longitude: 5.372519
 phone: +352 - 26 31 36 92
-title: Eating Out
-type: poi
 score: 5.1
+title: Eating Out
+type: section
 ---
 
 ### Café-Restaurant Bonifas

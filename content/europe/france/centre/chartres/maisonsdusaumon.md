@@ -3,10 +3,14 @@ address: 10, Place de la Poissonnerie
 category: Architecture
 latitude: 48.4487
 longitude: 1.4886
+score: 5.7
 snippet: Carved 16th-century house on the old fish market square
+tags:
+- things_to_do
+- sight
+- architecture
 title: Maison du Saumon
 type: poi
-score: 5.7
 ---
 
 One of the oldest houses in Chartres, dating from the early 16th century. The carved salmon on its facade gives it its name. It stands on the Place de la Poissonnerie, the old fish market square.

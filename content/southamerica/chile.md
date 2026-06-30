@@ -32,6 +32,7 @@ Chile has the honour of being the thinnest country in the world if you compare i
 
 
  The Arctic south offers the opportunity to explore the incredible beauty of gigantic glaciers, the wildlife of birds, seals, sealions and whales.
+ [Puerto Natales](/southamerica/chile/puerto_natales) is the friendliest base for Torres del Paine and the caves and fjords around Última Esperanza Sound.
 
 
  If you have the chance to visit the [Easter island](/southamerica/chile/easterisland) you will be sure to be surprised by the beauty of the place. It is way out in the Ocean and the island has had culture of its own for centuries.

@@ -1,11 +1,8 @@
 ---
-title: "The Pickwick Papers"
-type: poi
-author: "Charles Dickens"
-isbn: "978-0140436112"
-tags:
-  - books
-score: 4.3
+author: Charles Dickens
+isbn: 978-0140436112
+title: The Pickwick Papers
+type: theme
 ---
 
 Dickens sends Mr Pickwick and his companions to Bath for several riotous chapters, staying at the White Hart Inn (which still exists, though much altered) and attending a ball at the Assembly Rooms. The Bath episodes are among the funniest in the novel, full of social pretension, misunderstandings, and Dickens's gift for comic set-pieces.

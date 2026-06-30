@@ -1,7 +1,11 @@
 ---
+latitude: 45.0266
+longitude: 14.6189
 score: 8.6
 tags:
 - things_to_do
+- sight
+- monastery
 title: Košljun Island Franciscan Monastery
 type: poi
 ---

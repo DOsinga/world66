@@ -1,17 +1,18 @@
 ---
 title: "Álamos"
-type: poi
-tags:
-  - things_to_do
-  - sight
+type: location
+loc_type: city
 latitude: 27.0211
 longitude: -108.9350
-story: "In the 18th century Álamos was one of the richest silver-mining towns in New Spain, producing fortunes that were shipped to Mexico City and on to Spain. When the silver ran out and the revolution came, the town was largely abandoned — which is exactly why it survives today in such remarkable condition. If it had kept growing, it would have been modernised."
+score: 7.6
+snippet: Colonial silver town in southern Sonora, known for arcaded streets and restored 18th-century mansions.
 sources:
+  - https://en.wikivoyage.org/wiki/%C3%81lamos
   - https://en.wikipedia.org/wiki/%C3%81lamos
-score: 8.4
 ---
 
-Álamos is a beautifully preserved colonial silver-mining town in the foothills of the Sierra Madre Occidental in southeastern Sonora, designated a Pueblo Mágico for its exceptional architectural heritage. The streets are cobbled, the mansions are built around cool interior courtyards, and the central Plaza de Armas is one of the most elegant colonial squares in northern Mexico. The whole town is a monument to 18th-century silver wealth.
+Álamos is the best colonial town in Sonora, a former silver-mining city set where the desert begins to fold into the Sierra Madre Occidental. Its wealth peaked in the 18th and 19th centuries, then faded sharply enough that many mansions survived by being left alone.
 
-Today Álamos has a small but committed community of American and Canadian expatriates who have restored many of the old mansions. The town hosts the Festival Cultural Alfonso Ortíz Tirado each January, a classical music and art festival that draws performers from across Mexico. Álamos is about 6 hours south of Hermosillo but worth the detour for anyone with an interest in colonial Mexico.
+That is the charm today. The centre is all portales, cobbled streets, shaded courtyards, and thick-walled houses restored with care rather than polish. It feels more like old northern Mexico than a resort version of it.
+
+Come for a slow day of walking: the Plaza de Armas, the Purísima Concepción church, the Museo Costumbrista, and the back streets around the old mansions. Birders and hikers can push out toward the Sierra de Álamos-Río Cuchujaqui Biosphere Reserve, but the town itself is the reason to make the detour from Navojoa or Ciudad Obregón.

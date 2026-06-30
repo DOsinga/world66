@@ -1,7 +1,11 @@
 ---
+latitude: 37.2912
+longitude: -93.3566
 score: 8.3
 tags:
 - things_to_do
+- sight
+- cave
 title: Fantastic Caverns
 type: poi
 ---

@@ -1,12 +1,16 @@
 ---
 email: info@confederacyofcruisers.com
+latitude: 29.9637
+longitude: -90.0569
 phone: 504 400 5468
+score: 6.9
 tags:
 - things_to_do
+- cycling
+- tour
 title: New Orleans Bicycle Tour
 type: poi
 url: confederacyofcruisers.com
-score: 6.9
 ---
 
 Confederacy of Cruisers offers 3 hour guided bike tours that wind through several of New Orleans' historic Creole neighborhoods. Enjoy the Faubourgs Marigny, St Roch, and Treme and the people and culture of the most interesting city in the united states,

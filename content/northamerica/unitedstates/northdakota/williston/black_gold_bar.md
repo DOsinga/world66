@@ -2,8 +2,10 @@
 score: 5.3
 tags:
 - bars_and_cafes
+- bar
+- oil_boom
 title: Black Gold Bar
-type: poi
+type: theme
 ---
 
 The name is not subtle, and neither is the bar: the Black Gold is a straightforward North Dakota saloon that leans into the oil-boom identity with pump-jack memorabilia and a clientele that includes a fair number of people who have actually worked on a rig. The beer selection is modest but cold, the whiskey list covers the basics, and there is usually a pool table free. It is the kind of bar where conversations start easily and the music is loud enough to dance to on Friday nights but not so loud that you cannot hear the person next to you.

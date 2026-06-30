@@ -7,7 +7,7 @@ image_attribution: dgjarvis10@gmail.com on Flickr
 image_license: CC BY-SA 2.0
 image_source: https://www.flickr.com/photos/22490717@N02/50628233031
 latitude: 46.295
-loc_type: city
+loc_type: island
 longitude: -60.9361
 score: 8.21
 snippet: Nova Scotia island known for the Cabot Trail, highland scenery, and strong

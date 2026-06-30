@@ -1,7 +1,12 @@
 ---
+latitude: 35.6986
+longitude: 139.4469
 score: 6.5
 tags:
 - bars_and_cafes
+- cafe
+- bar
+- music
 title: Jazz bars and kissaten
 type: poi
 ---

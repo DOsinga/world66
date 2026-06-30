@@ -1,7 +1,10 @@
 ---
+latitude: 7.4103
+longitude: -7.5504
 score: 6.0
 tags:
 - eating_out
+- restaurant
 title: Maquis
 type: poi
 ---

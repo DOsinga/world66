@@ -5,7 +5,8 @@ type: section
 
 It is always an exciting and tasty experience to try a city's special. There are plenty of restaurants and food stalls famous for their food and we would surely recommend them. Besides that, the city's cosmopolitan character led to a wide variety of restaurants serving all sorts of international dishes. By the way, make sure you only drink mineral water that is available at every shop, stop and destination.
 
- 
+
+ 
 
 **general**
 

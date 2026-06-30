@@ -45,5 +45,6 @@ Ghana is not a cheap destination by West African standards, and the infrastructu
 - [Dixcove](/africa/ghana/dixcove)
 - [Winneba](/africa/ghana/winneba)
 - [Aburi](/africa/ghana/aburi)
+- [Tafi Atome](/africa/ghana/tafi_atome)
 - [Lake Volta](/africa/ghana/lakevolta)
 - [Akosombo](/africa/ghana/akosombo)

@@ -1,7 +1,11 @@
 ---
+latitude: 14.553
+longitude: 121.0214
 score: 7.3
 tags:
 - things_to_do
+- shopping
+- park
 title: Greenbelt Complex
 type: poi
 ---

@@ -1,13 +1,17 @@
 ---
-title: "Malate"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 14.5744
 longitude: 120.9851
-snippet: Manila's old bohemian district — hotels, restaurants, bars, and galleries between the bay and Ermita
-score: 7.2
+snippet: Manila's old bohemian district — hotels, restaurants, bars, and galleries
+  between the bay and Ermita
+tags:
+- things_to_do
+- neighbourhood
+title: Malate
+type: neighbourhood
+image: malate.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Malate_Church,_Manila,_Mar_2024.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ralff Nestor Nacor
 ---
 
 Malate is Manila's traditional tourist and expat district, a neighbourhood of hotels, restaurants, bars, and art galleries running along and behind Roxas Boulevard between the bay and the historic centre. It is older and more faded than Makati or BGC, which is part of its appeal — the streets have the texture of a city that was once international and cosmopolitan and still carries traces of that history.

@@ -4,9 +4,8 @@ email: torg-nis@bankerinter.net
 opening_hours: 'Mon-Sat: 8-20h, Sunday: 8-20h'
 phone: +381-18/322-228
 title: Sights
-type: poi
+type: section
 url: www.nistourism.org.yu
-score: 2.0
 ---
 
 Nis was wery known in the Roman era,as Naisus, with it's luxurious suburb Mediana, where some Roman emperors, like Constantin The Great, bult their vilas and summer housses.

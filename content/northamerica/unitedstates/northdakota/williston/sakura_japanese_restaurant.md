@@ -1,7 +1,11 @@
 ---
+latitude: 48.148444
+longitude: -103.667442
 score: 5.2
 tags:
 - eating_out
+- restaurant
+- japanese
 title: Sakura Japanese Restaurant
 type: poi
 ---

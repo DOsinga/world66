@@ -1,12 +1,12 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+score: 7.1
 snippet: Alsatian sauerkraut dish with pork and potatoes
 tags:
 - food
 title: Choucroute
-type: poi
-score: 7.1
+type: theme
 ---
 
 Choucroute garnie is the signature dish of [Alsace](/europe/france/east/alsace) and one of France's great cold-weather meals. At its core, it's sauerkraut — finely shredded cabbage fermented in salt — but the garnish is what makes it a feast: smoked pork belly, Strasbourg sausages, knack (frankfurter-style sausages), and boiled potatoes, all slow-cooked together with juniper berries, bay leaves, and Riesling.

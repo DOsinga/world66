@@ -1,7 +1,11 @@
 ---
+latitude: 25.059
+longitude: 73.8969
 score: 6.2
 tags:
 - things_to_do
+- sight
+- temple
 title: Dwarikadhish Temple
 type: poi
 ---

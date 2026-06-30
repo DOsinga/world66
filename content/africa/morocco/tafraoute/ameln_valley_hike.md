@@ -1,7 +1,11 @@
 ---
+latitude: 29.735
+longitude: -8.92
 score: 9.0
 tags:
 - things_to_do
+- sight
+- hike
 title: Ameln Valley Hike
 type: poi
 ---

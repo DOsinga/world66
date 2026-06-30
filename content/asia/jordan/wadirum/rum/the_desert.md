@@ -1,10 +1,9 @@
 ---
-title: The Desert
-type: poi
 author: Wilfred Thesiger
 tags:
-  - books
-score: 5.8
+- books
+title: The Desert
+type: theme
 ---
 
 Thesiger's account of crossing the Empty Quarter of Arabia in the late 1940s is not set in Wadi Rum specifically, but it captures the essence of desert travel better than almost any book ever written. The privation, the beauty, the deep bonds between travellers who depend on each other for survival — all of it resonates when you are sitting around a Bedouin campfire in Rum.

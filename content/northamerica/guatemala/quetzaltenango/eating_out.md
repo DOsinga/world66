@@ -1,10 +1,8 @@
 ---
-address: 14 ave. A 3-36 zona 1
 email: joedelbusto@gmail.com
 phone: '59153231'
 title: Eating Out
-type: poi
-score: 3.0
+type: section
 ---
 
 Somewhere close to Mercado Las Flores, my friend Martha runs a little cafe with the best Gallo Pinto in town. Check it out.

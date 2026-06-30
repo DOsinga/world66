@@ -1,11 +1,16 @@
 ---
-snippet: Wild beaches and wildlife reserve on the Lagoa dos Patos — the best beach day from Porto Alegre
+latitude: -30.367
+longitude: -51.026
+score: 8.0
+snippet: Wild beaches and wildlife reserve on the Lagoa dos Patos — the best beach
+  day from Porto Alegre
 tags:
 - day_trips
 - park
+- nature
+- beach
 title: Parque Estadual de Itapuã
 type: poi
-score: 8.0
 ---
 
 Parque Estadual de Itapuã, about 60 kilometres south of Porto Alegre, is the best natural escape within easy reach of the city. The park occupies a long peninsula of forested headlands, rocky beaches, and lagoon shoreline on the edge of the Lagoa dos Patos — the vast coastal lagoon that stretches south toward Uruguay. The scenery is striking: outcrops of ancient rock covered in Atlantic Forest, clear water (the lagoon is freshwater here), white sandy beaches that feel almost Caribbean on calm summer days, and very little development.

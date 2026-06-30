@@ -7,10 +7,13 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Da_svet_photo_%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%B4%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%81%D0%B0%D0%B4%D0%B0.jpg
 latitude: 58.6163
 loc_type: city
-longitude: 50.1357
+longitude: 49.668
 score: 5.03
 snippet: Old Russian river city in the taiga belt, known for Dymkovo toys and merchant-era
   streets
+sources:
+  - https://en.wikivoyage.org/wiki/Kirov
+  - https://en.wikipedia.org/wiki/Kirov,_Kirov_Oblast
 title: Vyatka
 type: location
 ---

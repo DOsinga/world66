@@ -1,7 +1,12 @@
 ---
+latitude: 36.859609
+longitude: -75.977933
 score: 7.2
 tags:
 - things_to_do
+- sight
+- beach
+- boardwalk
 title: The Oceanfront and Boardwalk
 type: poi
 ---

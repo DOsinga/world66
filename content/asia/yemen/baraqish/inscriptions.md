@@ -1,7 +1,14 @@
 ---
+latitude: 14.0824
+longitude: 44.4077
 score: 7.7
+sources:
+- https://whitelevy.fas.harvard.edu/italian-archaeological-mission-yemen-excavations-bar%C4%81qishyathill-temple-%CA%BFathtar-dhu-qab%E1%B8%8D
 tags:
 - things_to_do
+- sight
+- archaeology
+- history
 title: Minaic Inscriptions
 type: poi
 ---

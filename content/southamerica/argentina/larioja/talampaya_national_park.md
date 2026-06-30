@@ -1,8 +1,12 @@
 ---
+latitude: -29.7996
+longitude: -67.8331
 score: 9.4
 tags:
 - things_to_do
-- day_trip
+- day_trips
+- park
+- nature
 title: Talampaya National Park
 type: poi
 ---

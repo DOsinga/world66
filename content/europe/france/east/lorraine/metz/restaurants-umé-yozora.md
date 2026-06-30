@@ -3,6 +3,9 @@ category: Restaurant
 latitude: 49.1192
 longitude: 6.1733
 score: 5.8
+tags:
+- eating_out
+- restaurant
 title: Umé & Yozora
 type: poi
 ---

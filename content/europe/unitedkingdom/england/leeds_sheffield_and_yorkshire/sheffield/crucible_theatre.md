@@ -2,6 +2,7 @@
 address: 55 Norfolk Street, Sheffield S1 1DA
 latitude: 53.3811
 longitude: -1.4667
+score: 7.2
 snippet: Thrust-stage theatre, home of the World Snooker Championship since 1977
 story: The Crucible has hosted the World Snooker Championship every year since 1977,
   and the tournament is so closely identified with the venue that the trophy itself

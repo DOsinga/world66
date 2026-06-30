@@ -1,13 +1,14 @@
 ---
-title: Koussoukoingou
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.1831
 longitude: 1.2008
+score: 8.6
 sources:
-  - https://en.wikipedia.org/wiki/Kossoucoingou
+- https://en.wikipedia.org/wiki/Kossoucoingou
+tags:
+- things_to_do
+- sight
+title: Koussoukoingou
+type: poi
 ---
 
 Koussoukoingou (sometimes Kossoucoingou) sits high on a ridge east of Boukoumbé and is the most visited of the Somba arrondissements, partly because the local families have organised themselves to receive small numbers of visitors and partly because the views from the village down across the Atakora foothills are some of the best in the region. The compounds here are textbook tata: two-storey mud towers with thatch-tipped granaries and a single low entrance, set on bare rock with a sweep of cultivated land below.

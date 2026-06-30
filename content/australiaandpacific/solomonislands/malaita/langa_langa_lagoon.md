@@ -1,7 +1,14 @@
 ---
+latitude: -8.87971
+longitude: 160.74487
 score: 9.2
+sources:
+- https://www.mindat.org/feature-9485499.html
 tags:
 - things_to_do
+- sight
+- lagoon
+- culture
 title: Langa Langa Lagoon
 type: poi
 ---

@@ -2,6 +2,7 @@
 address: 90 Surrey Street, Sheffield S1 2LH
 latitude: 53.3798
 longitude: -1.468
+score: 7.2
 snippet: Spectacular timber-and-glass urban glasshouse opened in 2003
 tags:
 - things_to_do

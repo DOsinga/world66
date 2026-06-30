@@ -1,13 +1,17 @@
 ---
 address: 1047 Main Street (at North), north of Downtown Buffalo
+latitude: 42.902344
+longitude: -78.868531
 phone: 716-886-8920
 price: varies
+score: 5.6
 tags:
 - eating_out
+- restaurant
+- wings
 title: (Frank and Teressas) Anchor Bar
 type: poi
 url: www.anchorbar.com
-score: 5.6
 ---
 
 THE home of the Buffalo Style Chicken Wing.

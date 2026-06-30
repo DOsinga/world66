@@ -1,15 +1,21 @@
 ---
+latitude: -1.32923
+longitude: 36.8009
+score: 7.2
+snippet: Legendary game-meat restaurant where waiters circle with sword-skewered cuts
+  until you raise the flag
+story: 'The restaurant opened in 1980 with the concept of serving game meat — ostrich,
+  crocodile, hartebeest, and more — on long swords over charcoal braziers. For decades
+  it served a wider range of game than it can today; current Kenyan wildlife law has
+  restricted the menu, but the spectacle and the sheer quantity of meat remain intact.
+
+  '
+tags:
+- eating_out
+- restaurant
+- langata
 title: Carnivore Restaurant
 type: poi
-tags:
-  - eating_out
-  - restaurant
-latitude: -1.3300
-longitude: 36.7816
-snippet: Legendary game-meat restaurant where waiters circle with sword-skewered cuts until you raise the flag
-story: >
-  The restaurant opened in 1980 with the concept of serving game meat — ostrich, crocodile, hartebeest, and more — on long swords over charcoal braziers. For decades it served a wider range of game than it can today; current Kenyan wildlife law has restricted the menu, but the spectacle and the sheer quantity of meat remain intact.
-score: 7.2
 ---
 
 Carnivore is Nairobi's most famous restaurant and one of the best-known in Africa, established in 1980 in the Langata area near Wilson Airport. The concept is simple and relentless: a fixed-price "Beast of a Feast" in which waiters carry sword-skewers of different meats from table to table, carving directly onto your plate. You eat until you raise a small white flag to signal surrender.

@@ -2,6 +2,7 @@
 address: Mariam-Dere Valley, Bakhchysarai
 latitude: 44.7447
 longitude: 33.9099
+score: 8.4
 snippet: Orthodox cave monastery cut into the limestone cliffs
 story: Tradition holds that the monastery was founded after an icon of the Virgin
   Mary miraculously appeared on the cliff face. The cliffs are honeycombed with rock-cut

@@ -1,7 +1,11 @@
 ---
+latitude: 44.0356
+longitude: 10.1392
 score: 6.8
 tags:
 - things_to_do
+- sight
+- square
 title: Piazza Aranci
 type: poi
 ---

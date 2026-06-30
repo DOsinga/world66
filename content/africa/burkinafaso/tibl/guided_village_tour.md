@@ -1,7 +1,11 @@
 ---
+latitude: 11.1038
+longitude: -0.9247
 score: 8.2
 tags:
 - things_to_do
+- sight
+- architecture
 title: Guided village tour
 type: poi
 ---

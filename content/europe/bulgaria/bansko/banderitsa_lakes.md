@@ -1,9 +1,12 @@
 ---
-title: Banderitsa Lakes
-type: poi
-tags: [things_to_do, nature]
 latitude: 41.7567
 longitude: 23.4222
+score: 7.3
+tags:
+- things_to_do
+- nature
+title: Banderitsa Lakes
+type: poi
 ---
 
 The Banderitsa Lakes are a chain of small, glacial lakes scattered through the alpine basin above the Banderitsa Hut in Pirin National Park. There are five named lakes — Dalgoto, Ribnoto, Krivoto, Okotoand and Murato — most of them above 2,200 metres, fringed in summer with wildflowers and mossy granite slabs.

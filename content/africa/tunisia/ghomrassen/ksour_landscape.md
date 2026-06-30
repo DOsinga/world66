@@ -1,7 +1,11 @@
 ---
+latitude: 33.0602
+longitude: 10.3392
 score: 7.5
 tags:
 - things_to_do
+- sight
+- architecture
 title: Ksour Landscape
 type: poi
 ---

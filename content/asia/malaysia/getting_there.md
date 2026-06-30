@@ -9,7 +9,7 @@ Malaysia is one of the best-connected countries in Southeast Asia, with direct f
 
 Kuala Lumpur International Airport (KLIA) is the main gateway, located about 50 km south of the city center. It has two terminals: KLIA for full-service carriers and KLIA2 for budget airlines, principally AirAsia, which uses KL as its hub and flies cheaply to dozens of destinations across Asia and Australia. The KLIA Ekspres train reaches KL Sentral in 28 minutes. Taxis and Grab rides take 45 minutes to an hour depending on traffic.
 
-[Penang](/asia/malaysia/penang), [Langkawi](/asia/malaysia/langkawi), [Kota Kinabalu](/asia/malaysia/kotakinabalu) and [Kuching](/asia/malaysia/kuching) also have international airports with regional connections to Singapore, Bangkok, Jakarta and other Southeast Asian cities.
+[Penang](/asia/malaysia/penang), [Langkawi](/asia/malaysia/langkawi), [Kota Kinabalu](/asia/malaysia/kotakinabalu) and [Kuching](/asia/malaysia/sarawak/kuching) also have international airports with regional connections to Singapore, Bangkok, Jakarta and other Southeast Asian cities.
 
 **By land from Thailand**
 

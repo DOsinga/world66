@@ -19,4 +19,4 @@ Shahhat is a modern town in the Jebel Akhdar, but the reason to come is ancient 
 
 This is Libya's classical landscape at its most lyrical: temples, theatres, tombs, and streets laid out on high ground where the air feels cooler than the coast. The [Sanctuary of Apollo](/africa/libya/shahhat/sanctuary_of_apollo) and [Temple of Zeus](/africa/libya/shahhat/temple_of_zeus) are the headline stops, but the whole site rewards unhurried wandering.
 
-Shahhat pairs naturally with [Apollonia](/africa/libya/apollonia) on the coast and [Qasr Libya](/africa/libya/qasr_libya) inland. In more settled times this would be one of Libya's easiest archaeological bases to recommend. For now, access depends on permits, local conditions, and a responsible operator.
+Shahhat pairs naturally with [Apollonia](/africa/libya/apollonia) on the coast and [Qasr Libya](/africa/libya/jebelakhdar/qasr_libya) inland. In more settled times this would be one of Libya's easiest archaeological bases to recommend. For now, access depends on permits, local conditions, and a responsible operator.

@@ -13,8 +13,9 @@ snippet: Ferry-linked Hong Kong island region where fishing villages, monasterie
   beaches, and hiking trails replace city bustle.
 tags:
 - things_to_do
+- neighbourhood
 title: Outlying Islands
-type: section
+type: neighbourhood
 ---
 
 Hong Kong's outlying islands are one of its less-visited assets. Ferries from the Central Piers make most islands accessible within an hour, and the contrast with the mainland bustle is immediate.

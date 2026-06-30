@@ -1,0 +1,82 @@
+{% load static %}
+<!DOCTYPE html>
+<html class="w66-widget-page" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World66 Scoring Explorer</title>
+  <link rel="stylesheet" href="{% static 'css/widgets.css' %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..400&family=Inter:wght@300;400;500;600;700&display=swap">
+</head>
+<body>
+  <div class="w66-se" id="scoring-explorer">
+    <header class="w66-se-controls" aria-label="Ranking weights">
+      <a href="/" class="w66-se-brand" target="_top" aria-label="World66 home">World<span></span>66</a>
+      <div class="w66-se-slider" data-score-control="culture">
+        <label for="culture-weight">Culture <strong data-score-value>1.0</strong></label>
+        <input id="culture-weight" type="range" min="0" max="5" step="0.1" value="1">
+      </div>
+      <div class="w66-se-slider" data-score-control="nature">
+        <label for="nature-weight">Nature <strong data-score-value>1.0</strong></label>
+        <input id="nature-weight" type="range" min="0" max="5" step="0.1" value="1">
+      </div>
+      <div class="w66-se-slider" data-score-control="leisure">
+        <label for="leisure-weight">Leisure <strong data-score-value>1.0</strong></label>
+        <input id="leisure-weight" type="range" min="0" max="5" step="0.1" value="1">
+      </div>
+      <div class="w66-se-slider" data-score-control="adventure">
+        <label for="adventure-weight">Adventure <strong data-score-value>1.0</strong></label>
+        <input id="adventure-weight" type="range" min="0" max="5" step="0.1" value="1">
+      </div>
+      <button class="w66-se-reset" data-score-reset type="button">Reset</button>
+    </header>
+
+    <main class="w66-se-main">
+      <section class="w66-se-map-panel" aria-label="Ranked destination map">
+        <svg class="w66-se-map" data-score-map viewBox="0 0 1000 520" role="img" aria-label="World map with ranked destinations"></svg>
+      </section>
+      <aside class="w66-se-list-panel" aria-label="Top ranked destinations">
+        <div class="w66-se-list-head">
+          <h1>Top 50</h1>
+          <p data-score-summary>Loading scores...</p>
+        </div>
+        <ol class="w66-se-list" data-score-list></ol>
+      </aside>
+    </main>
+
+    <div class="w66-se-actions">
+      <button class="w66-ge-action" data-score-fullscreen type="button" aria-label="View scoring explorer full screen">Full screen</button>
+      <button class="w66-ge-action" data-score-embed type="button">Embed</button>
+    </div>
+
+    <div class="w66-ge-embed" data-score-embed-dialog hidden>
+      <div class="w66-ge-embed-panel" role="dialog" aria-modal="true" aria-labelledby="score-embed-title">
+        <div class="w66-ge-embed-head">
+          <h2 class="w66-ge-embed-title" id="score-embed-title">Embed this scoring explorer</h2>
+          <button class="w66-ge-embed-close" data-score-embed-close type="button" aria-label="Close embed instructions">&times;</button>
+        </div>
+        <textarea class="w66-ge-embed-code" data-score-embed-code readonly>{{ embed_code }}</textarea>
+        <div class="w66-ge-embed-actions">
+          <button class="w66-ge-action" data-score-embed-copy type="button">Copy code</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="{% static 'js/widgets/scoring-explorer.js' %}"></script>
+  <script>
+  (function() {
+    window.World66Widgets.scoringExplorer({
+      root: '#scoring-explorer',
+      dataUrl: '{% static "widgets/scoring-explorer.json" %}',
+      geoUrl: '{% static "geo/countries.geo.json" %}',
+      embedUrl: '{{ widget_url|escapejs }}',
+      embedHeight: '640',
+      linkTarget: '_top'
+    });
+  })();
+  </script>
+</body>
+</html>

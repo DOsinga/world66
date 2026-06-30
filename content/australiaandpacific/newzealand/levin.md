@@ -17,7 +17,7 @@ title: Levin
 type: location
 ---
 
-Levin is the largest town in the Horowhenua District, about 95 kilometres north of [Wellington](/australiaandpacific/newzealand/greater_wellington/wellington) on the State Highway 1 / North Island Main Trunk corridor. The Tararua Range rises sharply to the east; the Tasman Sea is a short drive to the west; in between, a fertile alluvial plain produces most of the vegetables that feed the lower North Island. The Māori name, Taitoko, refers to a tributary of the Hokio Stream.
+Levin is the largest town in the Horowhenua District, about 95 kilometres north of [Wellington](/australiaandpacific/newzealand/north_island/greater_wellington/wellington) on the State Highway 1 / North Island Main Trunk corridor. The Tararua Range rises sharply to the east; the Tasman Sea is a short drive to the west; in between, a fertile alluvial plain produces most of the vegetables that feed the lower North Island. The Māori name, Taitoko, refers to a tributary of the Hokio Stream.
 
 For travellers, Levin is mostly a stop rather than a destination — the town is a working agricultural centre, and the main reason to pause is usually a coffee or a supermarket run before pushing on. There are two genuine attractions, though: [Lake Horowhenua](/australiaandpacific/newzealand/levin/lake_horowhenua) on the western edge of town, with its associated wetland reserves, and [Lake Papaitonga](/australiaandpacific/newzealand/levin/lake_papaitonga), a small forested lake just south, one of the best surviving patches of lowland kahikatea forest on the southwestern plain.
 

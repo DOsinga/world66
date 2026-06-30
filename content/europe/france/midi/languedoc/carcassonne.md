@@ -3,6 +3,7 @@ done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-06-05'
 image: carcassonne.jpg
+image_attribution: Chensiyuan
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.jpg
 latitude: 43.213

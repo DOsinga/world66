@@ -16,7 +16,7 @@ title: Toulon
 type: location
 ---
 
-Toulon is a working naval city on the western edge of the Cote d'Azur, home to France's Mediterranean fleet and refreshingly free of the polished tourism that defines [Nice](/europe/france/midi/cotedazur/nice) and [Cannes](/europe/france/midi/cotedazur/cannes). The old port is lively and a bit rough around the edges — the morning fish market on the Quai Cronstadt is excellent, and the narrow streets behind it are full of small restaurants and bars that cater to locals rather than visitors.
+Toulon is a working naval city on the western edge of the Cote d'Azur, home to France's Mediterranean fleet and refreshingly free of the polished tourism that defines [Nice](/europe/france/midi/cotedazur/nice) and [Cannes](/europe/france/cannes). The old port is lively and a bit rough around the edges — the morning fish market on the Quai Cronstadt is excellent, and the narrow streets behind it are full of small restaurants and bars that cater to locals rather than visitors.
 
 The [cable car up Mont Faron](/europe/france/midi/cotedazur/toulon/mont_faron) is not to be missed. From the summit at 584 metres you get a panoramic view over the great natural harbour, the fleet at anchor, the offshore islands, and on clear days the coastline stretching east toward Saint-Tropez. There is a small zoo at the top and a memorial to the 1944 liberation of Provence — Operation Dragoon, the Allied landings that Churchill opposed and Roosevelt overruled.
 

@@ -1,4 +1,7 @@
 ---
+image: wolfenbttel.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:August_II-Marktplatz_Wolfenbuettel.jpg
 latitude: 52.1638
 loc_type: city
 longitude: 10.5375

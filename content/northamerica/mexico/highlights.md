@@ -13,7 +13,7 @@ The colonial city of [Oaxaca](/northamerica/mexico/oaxaca) is the cultural and c
 
 ## Chichen Itza
 
-The Yucatan Peninsula's most famous Maya site and a UNESCO World Heritage Site. The Pyramid of Kukulcán (El Castillo) is the icon, but the site also includes a ball court, the Temple of Warriors, and a sacred cenote. Visit at opening time (8am) to beat the crowds. See [Chichen Itza](/northamerica/mexico/chichenitza).
+The Yucatan Peninsula's most famous Maya site and a UNESCO World Heritage Site. The Pyramid of Kukulcán (El Castillo) is the icon, but the site also includes a ball court, the Temple of Warriors, and a sacred cenote. Visit at opening time (8am) to beat the crowds. See [Chichen Itza](/northamerica/mexico/yucatan/chichen_itza).
 
 ## Teotihuacan
 

@@ -7,7 +7,7 @@ Peru divides naturally into three regions: the coastal desert (costa), the Andes
 
 ## By Air
 
-Flying is the fastest way to cover Peru's distances and dramatic changes in elevation. Domestic routes fan out from [Lima](/southamerica/peru/lima) to [Cusco](/southamerica/peru/cuzco), [Arequipa](/southamerica/peru/arequipa), [Iquitos](/southamerica/peru/iquitos), [Trujillo](/southamerica/peru/trujillo_1), Chiclayo, Tarapoto, and Puno, among others. LATAM, Sky Airline, and Star Peru cover most routes. Book a day or more ahead during high season (June to August); fog in Lima mornings can cause cascading delays across the country, so build buffer time into connections.
+Flying is the fastest way to cover Peru's distances and dramatic changes in elevation. Domestic routes fan out from [Lima](/southamerica/peru/lima) to [Cusco](/southamerica/peru/cuzco), [Arequipa](/southamerica/peru/arequipa), [Iquitos](/southamerica/peru/iquitos), [Trujillo](/southamerica/peru/trujillo), Chiclayo, Tarapoto, and Puno, among others. LATAM, Sky Airline, and Star Peru cover most routes. Book a day or more ahead during high season (June to August); fog in Lima mornings can cause cascading delays across the country, so build buffer time into connections.
 
 ## By Bus
 

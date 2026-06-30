@@ -5,7 +5,7 @@ type: section
 
 **San Gorgonio Wilderness** -- The climax region of the San Bernardino Mountains, about 25 miles east of San Bernardino. Its 58,969 acres include two small lakes, meadows, streams, 100 miles of trail, and rugged terrain. Elevations range from 4,400 feet to 11,499 feet atop Mt. San Gorgonio, the highest peak in Southern California. Eleven peaks exceed 10,000 feet. [sgwa.org](http://www.sgwa.org)
 
-**Snow Summit** -- Home of the Miracle Mile ski trail in [Big Bear Lake](/northamerica/unitedstates/california/inlandempire/bigbearlake). Founded in 1952 by sportsman Tommi Tyndall, this has been a Southern California skiing institution for decades. 880 Summit Boulevard, Big Bear Lake. Tel: 909-866-5766. [snowsummit.com](http://www.snowsummit.com)
+**Snow Summit** -- Home of the Miracle Mile ski trail in [Big Bear Lake](/northamerica/unitedstates/california/big_bear_lake). Founded in 1952 by sportsman Tommi Tyndall, this has been a Southern California skiing institution for decades. 880 Summit Boulevard, Big Bear Lake. Tel: 909-866-5766. [snowsummit.com](http://www.snowsummit.com)
 
 **Mountain High Ski Resort** -- In 1929, construction began on what was then the largest ski jump in the world. In 1931, Norwegian-born Alf Engen set a world record by jumping 243 feet on wooden plank skis with leather straps. Located in Wrightwood. 24510 State Highway 2. Tel: 888-754-7878. [mthigh.com](http://www.mthigh.com/)
 

@@ -18,7 +18,7 @@ image_attribution: François  Philipp from Munich, Germany
 A justifiably popular destination the region of Provence combines historic sites a warm climate striking scenery and some of the best restaurants in France.
 
 
- From the beaches and posh towns of the Riviera such as [Nice](/europe/france/midi/cotedazur/nice), [Monaco](/europe/monaco) or [Cannes](/europe/france/midi/cotedazur/cannes) to the hilly and mountainous hinterland constantly smelling of perfume and thyme, the Provence offers something to every kind of traveler.
+ From the beaches and posh towns of the Riviera such as [Nice](/europe/france/midi/cotedazur/nice), [Monaco](/europe/monaco) or [Cannes](/europe/france/cannes) to the hilly and mountainous hinterland constantly smelling of perfume and thyme, the Provence offers something to every kind of traveler.
 
 
  [Marseille](/europe/france/midi/cotedazur/marseille) is the largest town in this region and is really the capital of the South. When you talk to one of the locals, don't mention that you like [Paris](/europe/france/paris).
@@ -29,7 +29,7 @@ A justifiably popular destination the region of Provence combines historic sites
  Among the wonderful culinary regional specialites are anchoiade (anchovy oil and garlic paste) daube (braised meat poultry fish or game) marcassin (young wild boar) and panade (fruit tart). Provence is also prime truffle territory. During the season (fall through December) stop at a truffle fair—the prices are steep but the taste and mystery surrounding this delicacy are definitely worth the cost. At any time of the year you can enjoy a variety of markets including the Marche des Antiquaires at L’Isle sur la Sorgue (Sundays).
 
 
- When you go closer to the Pyrenees, you enter the [Languedoc](/europe/france/midi/languedoc): the land where they say "Oc". The Occitans are still proud of their own language and culture. A visit to [Toulouse](/europe/france/midi/languedoc/toulouse), [Montpellier](/europe/france/midi/languedoc/montpellier) or [Carcassone](/europe/france/midi/languedoc/carcassone) gives you some impression of the richness of their culture.
+ When you go closer to the Pyrenees, you enter the [Languedoc](/europe/france/midi/languedoc): the land where they say "Oc". The Occitans are still proud of their own language and culture. A visit to [Toulouse](/europe/france/midi/languedoc/toulouse), [Montpellier](/europe/france/midi/languedoc/montpellier) or [Carcassone](/europe/france/midi/languedoc/carcassonne) gives you some impression of the richness of their culture.
 
 
 

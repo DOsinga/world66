@@ -546,6 +546,58 @@ def resolve_tag_route(path, revision=None, url_revision=None):
     return None, None
 
 
+def find_locations_tagged(slug, feature_path):
+    """Return location pages that carry `slug` in their tags.
+
+    Scans only the parent directory of the feature page (and its immediate
+    children), which is where cities that tag into a feature always live.
+    Falls back to the grandparent if the parent scan finds nothing.
+    """
+    results = []
+    if "/" not in feature_path:
+        return results
+
+    parent_path = feature_path.rsplit("/", 1)[0]
+    search_dirs = [CONTENT_DIR / parent_path]
+    # Also try grandparent (for features nested one level deeper than their cities)
+    if "/" in parent_path:
+        search_dirs.append(CONTENT_DIR / parent_path.rsplit("/", 1)[0])
+
+    seen = set()
+    for search_dir in search_dirs:
+        if not search_dir.is_dir():
+            continue
+        for md_file in sorted(search_dir.rglob("*.md")):
+            result = _load_md(md_file)
+            if not result:
+                continue
+            meta, _ = result
+            if meta.get("type") != "location":
+                continue
+            raw_tags = meta.get("tags", [])
+            if isinstance(raw_tags, str):
+                raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+            if slug not in raw_tags:
+                continue
+            rel = md_file.relative_to(CONTENT_DIR)
+            parts = list(rel.parts)
+            stem = parts[-1][:-3]
+            if len(parts) >= 2 and stem == parts[-2]:
+                url_path = "/".join(parts[:-1])
+            else:
+                url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+            if url_path in seen:
+                continue
+            seen.add(url_path)
+            page = _load_page_from_file(md_file, url_path)
+            if page:
+                results.append(page)
+        if results:
+            break  # found in parent dir, no need to scan grandparent
+
+    return results
+
+
 @lru_cache(maxsize=1)
 def load_tag_index():
     """Scan all content files and return a dict mapping tag -> list of Pages."""

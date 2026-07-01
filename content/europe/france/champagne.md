@@ -6,8 +6,13 @@ loc_type: region
 longitude: 4.0
 score: 0.63
 title: Champagne
-snippet: Northeastern French wine region whose chalk soils and cool climate define bottle-fermented Champagne.
+snippet: Northeastern French wine region whose chalk soils and cool climate define
+  bottle-fermented Champagne.
 type: location
+image: champagne.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Champagne_Vineyards.jpg
+image_license: CC BY 2.0
+image_attribution: Rob & Stephanie Levy
 ---
 
 **Champagne** is a historic province and wine region of north-eastern France, tucked between Paris, Lorraine, and the Belgian and Luxembourg borders. It gives its name to the only wine in the world protected by a geographical indication so strict that no other sparkling wine may legally use the word — and most of what you come here for is connected, in some way, to that fact. The chalky soil, the cool northerly climate, and the blend of **Chardonnay**, **Pinot Noir** and **Pinot Meunier** grapes combine to produce the bottle-fermented sparkling wine that has defined celebration since the late 17th century, when the Benedictine monk **Dom Pérignon** first codified the techniques at his abbey in **[Hautvillers](/europe/france/champagne/hautvillers)**.

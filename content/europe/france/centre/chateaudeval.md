@@ -12,6 +12,10 @@ tags:
 - limousin
 title: Château de Val
 type: location
+image: chateaudeval.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Barques_lac_Val_Joyeux_Chateau-la-Valliere.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Myrabella
 ---
 
 Just north of [Tulle](/europe/france/centre/tulle), the Château de Val is a fifteenth-century fortress standing on a rocky promontory in the enormous Lac de Bort. With six battlemented towers reflected in the water, it looks like something straight out of a fairy tale — or a child's drawing of what a castle should be.

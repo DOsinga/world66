@@ -3,9 +3,14 @@ latitude: 43.9774
 loc_type: city
 longitude: 2.9793
 score: 8.2
-snippet: Village on the Combalou plateau whose natural caves have produced the world's most famous blue cheese for centuries.
+snippet: Village on the Combalou plateau whose natural caves have produced the world's
+  most famous blue cheese for centuries.
 title: Roquefort
 type: location
+image: roquefort.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Roquefort.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Unknown
 ---
 
 Roquefort-sur-Soulzon is a small village perched on the edge of the Combalou plateau in the Aveyron, notable for a single extraordinary fact: the natural fissures and caves beneath it are the only place in the world where genuine Roquefort cheese can legally be made. The cool, humid air that circulates through the *fleurines* — narrow natural ventilation shafts — maintains exactly the conditions the Penicillium roqueforti mould needs to create the characteristic blue-green veins in the raw sheep's milk curd.

@@ -3,12 +3,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 48.0396
 longitude: 7.1375
+score: 7.3
 snippet: Pungent washed-rind cheese from the Vosges monasteries
 tags:
 - food
 title: Munster
 type: poi
-score: 7.3
 ---
 
 Munster is one of France's great washed-rind cheeses, soft and powerfully aromatic. It was created by Benedictine monks in the Munster valley of the Vosges mountains in the 12th century -- the name comes from the Latin *monasterium*. During maturation the wheels are turned every two days and washed with warm water from Vosges springs, which encourages the orange-red rind and the famously strong smell.

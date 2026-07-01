@@ -1,12 +1,12 @@
 ---
 latitude: 45.588527
 longitude: 2.992456
+score: 7.6
 snippet: Earthy Auvergne semi-soft cheese aged on straw in volcanic-stone cellars
 tags:
 - food
 title: St. Nectaire
 type: poi
-score: 7.6
 ---
 
 Saint-Nectaire is a semi-soft, disc-shaped cheese from Auvergne, made from the milk of Salers cows that graze the volcanic pastures of the Massif Central. The fermier (farm-made) version carries a green oval label — the telltale sign you're getting the real thing rather than a factory product.

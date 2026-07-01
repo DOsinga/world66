@@ -2,6 +2,7 @@
 latitude: 48.5
 loc_type: region
 longitude: -2.5
+score: 0.72
 snippet: Northwest French region of cider country, granite coasts, ferry ports, and
   Mont Saint-Michel on the border.
 title: Normandy and Brittany

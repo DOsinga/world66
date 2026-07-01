@@ -4,9 +4,9 @@ done:
 image: alsace.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg
-latitude: 50.70069
+latitude: 48.3
 loc_type: region
-longitude: 3.161005
+longitude: 7.5
 score: 0.67
 snippet: French border region of pretty villages, white wines, and food shaped by
   Franco-German history.

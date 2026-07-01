@@ -9,6 +9,10 @@ snippet: Mediterranean French mountain region of limestone gorges, lavender vall
   high pastures, and hill villages
 title: Southern Alps
 type: location
+image: southern_alps.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2909_vallon_moy_res.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Berrucomons
 ---
 
 The Southern Alps cover the three French departments with "Alpes" in their name: Alpes-Maritimes, Hautes-Alpes and Alpes-de-Haute-Provence. These are the mountains of Provence — drier, sunnier and more Mediterranean in character than the glaciated peaks of Savoie to the north.

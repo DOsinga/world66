@@ -1,16 +1,21 @@
 ---
 attribution:
-  - https://en.wikivoyage.org/wiki/Peillon
-  - https://www.peillon.fr/decouvrir-peillon/comment-venir/
+- https://en.wikivoyage.org/wiki/Peillon
+- https://www.peillon.fr/decouvrir-peillon/comment-venir/
 done:
   wikivoyage_missing_locations: '2026-06-27'
 latitude: 43.78
 loc_type: city
 longitude: 7.38
 score: 6.4
-snippet: Tiny Alpes-Maritimes hill village perched above the Paillon valley, with a car-free medieval core.
+snippet: Tiny Alpes-Maritimes hill village perched above the Paillon valley, with
+  a car-free medieval core.
 title: Peillon
 type: location
+image: peillon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Peillon_Landscape.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Mark Fischer
 ---
 
 Peillon is a small perched village in the hills north of Nice and Monaco, set on a rocky spur above the Paillon valley. It is close to the coast on the map, but the mood is inland and old: stone houses stacked on the slope, vaulted passages, steep stairways, and no traffic in the old village.

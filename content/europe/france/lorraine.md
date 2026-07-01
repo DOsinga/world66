@@ -9,6 +9,10 @@ type: location
 loc_type: region
 snippet: Eastern French border region of rolling hills, white wines, Vosges countryside,
   and elegant Metz and Nancy.
+image: lorraine.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cathedrale_metz_2003.jpg
+image_license: CC BY-SA 2.0 fr
+image_attribution: Unknown
 ---
 
 Located between the [Luxembourg city](/europe/luxembourg/luxembourgcity), [Belgium](/europe/belgium), [Germany](/europe/germany) and the [Alsace](/europe/france/alsace) and the [Champagne](/europe/france/champagne), the Lorraine is one of the most charming regions of France. It's gently rolling hills with vineyards that produce some very good white wines, the rugged countryside of the Vosges, its stylish cities such as [Metz](/europe/france/lorraine/metz) and [Nancy](/europe/france/lorraine/nancy) make it an ideal place to come to for a relaxing holiday.

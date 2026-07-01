@@ -12,6 +12,10 @@ tags:
 - pyrenees
 title: Vernet les Bains
 type: location
+image: vernet_les_bains.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vernet-les-Bains_2013.jpg
+image_license: CC0
+image_attribution: Alan Mattingly
 ---
 
 Vernet-les-Bains sits on the eastern flank of the Pyrenees, in the Têt Valley just below the imposing peak of Canigou. It's a small spa town that most guidebooks underrate — the setting is beautiful, the walking is excellent, and it has a genuine unhurried character that makes it a much better base for exploring this corner of Catalonia than its modest profile suggests.

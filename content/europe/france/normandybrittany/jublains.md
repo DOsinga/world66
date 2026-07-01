@@ -10,6 +10,10 @@ snippet: Mayenne village with unusually complete Gallo-Roman remains, including 
   fortress, theatre, and baths.
 title: Jublains
 type: location
+image: jublains.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Archaeological_site_of_Jublains_02.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Chatsam
 ---
 
 Known in Roman times as **Noviodunum**, Jublains is a quiet agricultural town in the Mayenne département with an outsized archaeological heritage. The remains of a Roman fortress, theatre, and thermal baths are all within walking distance, making it one of the best-preserved Gallo-Roman sites in northwestern France.

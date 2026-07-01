@@ -9,6 +9,10 @@ snippet: Northern French region bordering Belgium, shaped by Flemish cities, Cha
   coast, and industrial history.
 title: Nord
 type: location
+image: nord.jpg
+image_source: https://commons.wikimedia.org/wiki/File:0_Lille_-_Vieille_bourse_du_travail_051201b.JPG
+image_license: CC BY 3.0
+image_attribution: Jean-Pol GRANDMONT
 ---
 
 The Nord-Pas-de-Calais region sits at the top of France, bordered by Belgium to the east, the English Channel to the north, and closer to London by rail than to Lyon. Its image has long been shaped by its industrial past — coal mines, textile mills, and the battlefields of two world wars — but this undersells a region of real character and some unexpectedly attractive corners.

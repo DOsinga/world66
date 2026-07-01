@@ -4,10 +4,9 @@ done:
   location_cleanup: '2026-04-10'
   poi_cleanup: '2026-04-20'
 image: france.jpg
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
-  LIEU SONG</a>
+image_attribution: Luc Viatour
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gordes_Vaucluse_France_Luc_Viatour.JPG
 latitude: 46.603354
 loc_type: country
 longitude: 1.888334

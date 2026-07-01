@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27Ancenis
 title: Ancenis
 type: location
+image: ancenis.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ancenis_01_07_1968.jpg
+image_license: CC BY 2.0
+image_attribution: IGN
 ---
 
 Ancenis sits on a broad bend of the Loire about halfway between [Nantes](/europe/france/loirevalley/nantes) and [Angers](/europe/france/loirevalley/angers), where the river widens into something almost lake-like and the surrounding hills are planted end to end with vines. It is a small town — fewer than fifteen thousand people — but it carries itself with quiet confidence. The ruined towers of the Château d'Ancenis rise above the riverbank, the old centre has a grid of stone streets, and the covered market still fills on Saturday mornings.

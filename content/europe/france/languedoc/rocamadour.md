@@ -7,6 +7,10 @@ snippet: Medieval pilgrimage village carved into a limestone cliff above the Alz
   canyon in Lot.
 title: Rocamadour
 type: location
+image: rocamadour.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rocamadour%27s_Porte_Basse.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Eden Briand
 ---
 
 Rocamadour is one of France's most dramatic villages: a medieval pilgrimage site stacked in seven levels up a sheer limestone cliff above the Alzou canyon in the Lot department. From a distance it looks almost impossible — a cluster of chapels, a château, and a village clinging to the rock face, with the valley floor far below.

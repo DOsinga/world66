@@ -11,6 +11,10 @@ snippet: Languedoc hill city above the Orb, with Roman roots, rugby pride, and C
   du Midi engineering.
 title: Beziers
 type: location
+image: beziers.jpg
+image_source: https://commons.wikimedia.org/wiki/File:34500_B%C3%A9ziers,_France_-_panoramio_(5).jpg
+image_license: CC BY-SA 3.0
+image_attribution: logopop
 ---
 
 Béziers sits on a hill above the river Orb, about 15 kilometres from the Mediterranean coast, and it wears its age well. The Romans founded a colony here, the Canal du Midi passes through its outskirts, and the city gave rugby to the region — the local club, AS Béziers, was for decades the most powerful side in France. The old centre is compact and walkable, dominated by the Cathedral of Saint-Nazaire, whose terrace gives sweeping views across the plain toward the sea.

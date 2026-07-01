@@ -11,4 +11,4 @@ The salade niçoise is Nice's most famous export to menus worldwide, and also th
 
 Of course, most restaurants in Nice itself now serve it with cooked green beans, potatoes, and seared fresh tuna — a modern take that traditionalists consider heresy but most visitors find delicious. The dressing is always a simple vinaigrette, never creamy.
 
-Order one at any brasserie along the Cours Saleya in [Nice](/europe/france/midi/cotedazur/nice) and you'll get the modern version. For something closer to the original, ask for "la vraie niçoise" and hope the kitchen obliges.
+Order one at any brasserie along the Cours Saleya in [Nice](/europe/france/cotedazur/nice) and you'll get the modern version. For something closer to the original, ask for "la vraie niçoise" and hope the kitchen obliges.

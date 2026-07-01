@@ -9,7 +9,7 @@ type: poi
 score: 7.2
 ---
 
-It all started with a small error: the Tatin sisters — Caroline and Stéphanie — are said to have put the apples in the pan before the pastry while running their hotel in Lamotte-Beuvron in the 1880s. Rather than throw it away, they served it upside-down. The result was fabulous. The Tarte Tatin is a speciality of the Sologne, the forested region just south of the [Loire valley](/europe/france/centre/loirevalley).
+It all started with a small error: the Tatin sisters — Caroline and Stéphanie — are said to have put the apples in the pan before the pastry while running their hotel in Lamotte-Beuvron in the 1880s. Rather than throw it away, they served it upside-down. The result was fabulous. The Tarte Tatin is a speciality of the Sologne, the forested region just south of the [Loire valley](/europe/france/loirevalley).
 
 The authentic version uses caramelised apples — firm varieties like Reine des Reinettes or Calville Blanc — in a buttery pastry, cooked in a pan and inverted onto the plate. It is served warm, often with crème fraîche. The Hôtel Tatin in Lamotte-Beuvron still exists and still serves the original.
 

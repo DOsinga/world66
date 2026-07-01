@@ -15,17 +15,17 @@ The Centre region of France — sometimes known as Centre-Val de Loire — lies 
 
 [Chartres](/europe/france/centre/chartres) is the obvious first stop from Paris — 90 minutes by train, with a 12th-century cathedral widely held to be the greatest Gothic building in Europe. Its stained glass is the best-preserved medieval glazing in the world; an hour looking at the north and west rose windows is time well spent.
 
-The [Loire Valley](/europe/france/centre/loirevalley) — "the Garden of France" — has a higher density of châteaux than any other region on earth. The drive along the Loire from [Orleans](/europe/france/centre/loirevalley/orleans) through [Blois](/europe/france/centre/loirevalley/blois), [Amboise](/europe/france/centre/loirevalley/amboise), and [Tours](/europe/france/centre/loirevalley/tours) takes you past one Renaissance masterpiece after another: [Chambord](/europe/france/centre/loirevalley/chambord) with its fantastical French roofscape of towers and chimneys, Chenonceau straddling the Cher river, Villandry with its formal Renaissance gardens, and Amboise where Leonardo da Vinci is buried. Allow at least three days to do the valley any justice.
+The [Loire Valley](/europe/france/loirevalley) — "the Garden of France" — has a higher density of châteaux than any other region on earth. The drive along the Loire from [Orleans](/europe/france/loirevalley/orleans) through [Blois](/europe/france/loirevalley/blois), [Amboise](/europe/france/loirevalley/amboise), and [Tours](/europe/france/loirevalley/tours) takes you past one Renaissance masterpiece after another: [Chambord](/europe/france/loirevalley/chambord) with its fantastical French roofscape of towers and chimneys, Chenonceau straddling the Cher river, Villandry with its formal Renaissance gardens, and Amboise where Leonardo da Vinci is buried. Allow at least three days to do the valley any justice.
 
-Further south, the [Limousin](/europe/france/centre/limousin) on the western slopes of the Massif Central is one of the least-developed rural corners of France — the Corrèze, Creuse, and Haute Vienne départements, with green meadows, hidden gorges, Romanesque village churches, and bastide towns. [Limoges](/europe/france/centre/limousin/limoges) is the main city and still a world centre for porcelain.
+Further south, the [Limousin](/europe/france/centre/limousin) on the western slopes of the Massif Central is one of the least-developed rural corners of France — the Corrèze, Creuse, and Haute Vienne départements, with green meadows, hidden gorges, Romanesque village churches, and bastide towns. [Limoges](/europe/france/centre/limoges) is the main city and still a world centre for porcelain.
 
-East of Limousin, the [Auvergne](/europe/france/centre/auvergne) is volcano country — extinct Puys rising from the plateau, crater lakes, and some of France's best hiking. [Clermont-Ferrand](/europe/france/centre/auvergne/clermontferrant) is the capital, with a black lava-stone cathedral unique in Europe.
+East of Limousin, the [Auvergne](/europe/france/auvergne) is volcano country — extinct Puys rising from the plateau, crater lakes, and some of France's best hiking. [Clermont-Ferrand](/europe/france/auvergne/clermontferrant) is the capital, with a black lava-stone cathedral unique in Europe.
 
 ## Destinations in Centre
 
 - [Chartres](/europe/france/centre/chartres)
-- [Loire Valley](/europe/france/centre/loirevalley)
+- [Loire Valley](/europe/france/loirevalley)
 - [Bourges](/europe/france/centre/bourges)
 - [Le Mans](/europe/france/centre/lemans)
-- [Auvergne](/europe/france/centre/auvergne)
+- [Auvergne](/europe/france/auvergne)
 - [Limousin](/europe/france/centre/limousin)

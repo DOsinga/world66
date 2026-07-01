@@ -15,4 +15,4 @@ Futuroscope is a theme park near Poitiers dedicated to multimedia, cinematograph
 
 The park's strength is its immersive cinematic experiences: IMAX screens, 4D shows, motion simulators, and projection-mapped spectacles. The night show, projected onto water screens and the park's buildings, is genuinely impressive. A full visit takes a day, or two if you have children who want to repeat favourites.
 
-Futuroscope is just north of [Poitiers](/europe/france/midi/aquitaine), about 90 minutes by TGV from Paris. It is not actually in Aquitaine — it sits in the Vienne département — but it makes a good stop on a journey south.
+Futuroscope is just north of [Poitiers](/europe/france/centre/poitiers), about 90 minutes by TGV from Paris. It is not actually in Aquitaine — it sits in the Vienne département — but it makes a good stop on a journey south.

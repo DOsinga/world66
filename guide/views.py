@@ -435,11 +435,15 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     loc.word_cloud_center = loc.title
                     loc.word_cloud_top = []
                     loc.word_cloud_bottom = [p.title for p in children]
-    top_locations = locations[:9]
-    more_locations = sorted(locations, key=lambda loc: loc.title)
+    _CARD_THRESHOLD = 18
+    _CARD_MAX = 9
+    _top_n = len(locations) if len(locations) <= _CARD_THRESHOLD else _CARD_MAX
+    top_locations = locations[:_top_n]
+    more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
+    more_linked_locations = []
     if page.meta.get('loc_type') == 'feature':
         tag_index = load_tag_index()
         linked_locations = sorted(
@@ -449,6 +453,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         for loc in linked_locations:
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+        _ll_top_n = len(linked_locations) if len(linked_locations) <= _CARD_THRESHOLD else _CARD_MAX
+        more_linked_locations = sorted(linked_locations[_ll_top_n:], key=lambda p: p.title)
+        linked_locations = linked_locations[:_ll_top_n]
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
@@ -528,6 +535,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
+        "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
     })
 

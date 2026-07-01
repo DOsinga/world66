@@ -14,7 +14,7 @@ from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
+    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -445,9 +445,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     linked_locations = []
     more_linked_locations = []
     if page.meta.get('loc_type') == 'feature':
-        tag_index = load_tag_index()
         linked_locations = sorted(
-            [p for p in tag_index.get(page.slug, []) if p.page_type == 'location'],
+            find_locations_tagged(page.slug, page.path),
             key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,
         )
         for loc in linked_locations:

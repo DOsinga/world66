@@ -1,0 +1,302 @@
+{
+  "southamerica/ecuador/coca_puerto_francisco_de_orellana": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/equatorialguinea/riomuni/acalayong": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/spain/galicia/vigo_city": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "australiaandpacific/australia/victoria/yackandandah": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "australiaandpacific/newzealand/north_island/waikato/hamilton": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "africa/zimbabwe/greatzimbabwe": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "africa/morocco/zagora": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/belgium/zottegem": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/mexico/tehuacan": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/wisconsin/wausau": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/utah/henry_mountains": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/georgia/andersonville": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/netherlands/middelburg": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/china/yunnanprovince/xishuangbanna": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/portugal/algarve/tavira": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/france/centre/loirevalley/bracieux": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "asia/srilanka/dambulla": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 4
+  },
+  "europe/spain/la_mancha/tarancon": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/denmark/aero": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "southamerica/venezuela/altos_mirandinos/los_teques": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/spain/catalonia/barcelona": {
+    "culture": 10,
+    "nature": 3,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "northamerica/netherlandsantilles/curacao/willemstad": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "asia/india/himachalpradesh/joginder_nagar": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/scotland/skye/sligachan": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "europe/hungary/lakebalaton/keszthely": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/spain/blanes": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "africa/botswana/maun": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/newyorkstate/albany": {
+    "culture": 9,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/china/henan_province/anyang": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/austria/stanton": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/india/maharashtra/mumbai": {
+    "culture": 10,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "africa/malawi/livingstonia": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "asia/philippines/quezoncity": {
+    "culture": 5,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/algeria/adrar": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/denmark/haderslev": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/india/uttarpradesh/agra": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/myanmar/mandalay": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/california/orangecounty/huntingtonbeach": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 9,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/wisconsin/lacrosse": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/isleofman/douglas": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/china/qinghai/guide": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/mauritania/atar": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 1,
+    "adventure": 8
+  },
+  "southamerica/argentina/esquel": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/india/karnataka/gulbarga": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/italy/sardinia/sunuraxi": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/italy/tuscany/massa": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "asia/mongolia/darkhan": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/oklahoma/broken_arrow": {
+    "culture": 2,
+    "nature": 2,
+    "leisure": 2,
+    "adventure": 3
+  }
+}

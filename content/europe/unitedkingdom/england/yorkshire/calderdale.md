@@ -1,12 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: calderdale.jpg
+image_attribution: John Slater
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Calderdale_Way_at_Shelf_Hall_Park_-_geograph.org.uk_-_2848994.jpg
 latitude: 53.7205
 loc_type: region
 longitude: -1.9623
 score: 0.52
 snippet: Metropolitan borough around Halifax, known for Calder Valley mill towns and
   the 18th-century Piece Hall.
+tags:
+- south_pennines
 title: Calderdale
 type: location
 ---

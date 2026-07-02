@@ -12,6 +12,8 @@ longitude: -1.738
 score: 7.27
 snippet: Historic Swaledale market town above the River Swale, dominated by an 11th-century
   Norman castle.
+tags:
+- yorkshire_dales
 title: Richmond
 type: location
 ---

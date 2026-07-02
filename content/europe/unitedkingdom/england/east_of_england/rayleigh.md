@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Rayleigh,_Essex
 title: Rayleigh
 type: location
+image: rayleigh.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Essex_Army_Cadet_Force_Rayleigh_Detachment_-_geograph.org.uk_-_4818655.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Geographer
 ---
 
 Rayleigh is a market town in Essex, roughly 40 kilometres east of London in the Thames estuary hinterland. It sits on a ridge above the surrounding flatlands, and its long high street retains enough character to reward a short stop.

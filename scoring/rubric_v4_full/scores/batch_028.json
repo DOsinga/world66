@@ -1,0 +1,302 @@
+{
+  "asia/pakistan/swat": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 6
+  },
+  "europe/italy/emiliaromagna/ferrara": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "africa/morocco/taza": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "northamerica/mexico/sancristobaldelascasas": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/norway/bodo": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/minnesota/minneapolis": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/malaysia/bintulu": {
+    "culture": 2,
+    "nature": 2,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "asia/china/beijing": {
+    "culture": 10,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/pakistan/azad_kashmir/benjosa": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/california/westhollywood": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/bulgaria/primorsko": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/ethiopia/harar": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "africa/djibouti/lakeabbe": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 2,
+    "adventure": 6
+  },
+  "northamerica/guatemala/panajachel": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/switzerland/savognin": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/brunei/bandarseribegawan": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "southamerica/argentina/humahuaca": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/china/shaanxi/hukou_falls": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "africa/angola/luanda": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/nebraska/northplatte": {
+    "culture": 2,
+    "nature": 2,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "europe/romania/sapinta": {
+    "culture": 9,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/china/jiangxi/shangrao": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/thecaribbean/martinique/fortdefrance": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "southamerica/bolivia/salar_of_uyuni": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "asia/china/sichuanprovince/yading": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 2,
+    "adventure": 8
+  },
+  "southamerica/chile/chillan": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/algeria/eloued": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "asia/bahrain/jid_hafs": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/italy/emiliaromagna/modena": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/india/maharashtra/chiplun": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/andorra/ordino": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/greece/karpathos": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/california/paso_robels": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "africa/morocco/cascades_ouzoud": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 2,
+    "adventure": 6
+  },
+  "asia/india/rajasthan/ranthambore": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/liechtenstein/vaduz": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/scotland/linlithgow": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/panama/portobelo": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/sweden/lysekil": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/california/big_sur": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/nepal/birtamode": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/china/fujianprovince/tulou": {
+    "culture": 9,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/germany/bavaria/fussen": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "africa/guineeconakry/dalaba": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/germany/lowersaxony/osnabrck": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/northdakota/fargo": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/italy/tuscany/elba/portoferraio": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "asia/qatar/alwakrah": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 6
+  },
+  "asia/india/orissa/bhitarkanika": {
+    "culture": 7,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "southamerica/paraguay/yaguaron": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  }
+}

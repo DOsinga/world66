@@ -12,6 +12,10 @@ snippet: Northern English city of commerce and universities, with Victorian arca
   and broad urban parkland.
 title: Leeds
 type: location
+image: leeds.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Leeds_(England,_United_Kingdom)_2025-8.jpg
+image_license: CC BY 4.0
+image_attribution: Jorge Franganillo
 ---
 
 Leeds is the principal city of northern [England](/europe/unitedkingdom/england), a commercial and cultural centre that has reinvented itself from its industrial past into one of the most dynamic cities in the country. It sits at the crossroads where the main north-south and east-west motorways and railways meet, making it easy to reach from anywhere in Britain.

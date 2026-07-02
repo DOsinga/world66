@@ -9,6 +9,10 @@ snippet: Lancashire hill region of misty Pendle villages and the enduring memory
   the witch trials
 title: Pendle
 type: location
+image: pendle.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Barkerhouse_Road_to_Nelson_-_geograph.org.uk_-_5555459.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Steve Daniels
 ---
 
 Many people have only heard of Pendle in one context -- witches. The trial of the Pendle witches in the 17th century has never been forgotten and is the subject of a much-read novel, *Mist over Pendle* by Robert Neill.

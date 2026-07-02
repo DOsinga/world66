@@ -2,12 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-22'
+image: scarborough.jpg
+image_attribution: Thomas Tolkien
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Scarborough,_North_Yorkshire._(4_of_7).jpg
 latitude: 54.282001
 loc_type: city
 longitude: -0.401187
 score: 7.8
 snippet: Yorkshire seaside resort divided by a North Sea headland into north and south
   bays.
+tags:
+- north_york_moors
 title: Scarborough
 type: location
 ---

@@ -1,0 +1,302 @@
+{
+  "europe/norway/hardangerviddanationalpark": {
+    "culture": 3,
+    "nature": 10,
+    "leisure": 4,
+    "adventure": 6
+  },
+  "europe/france/midi/dordogne/cahors": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/california/orangecounty/anaheim": {
+    "culture": 4,
+    "nature": 2,
+    "leisure": 9,
+    "adventure": 1
+  },
+  "asia/japan/honshu/niigata": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "asia/china/innermongolia/hohhot": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/france/aquitaine/angouleme": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/alaska/tok": {
+    "culture": 2,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "africa/malawi/lilongwe": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/algeria/timimoun": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/india/uttaranchal/pithoragarh": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 4,
+    "adventure": 5
+  },
+  "asia/philippines/sanpablocity": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/france/midi/pyrenees/picdumidi": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/italy/liguria/dianomarina": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/indonesia/kalimantan/banjamarsin": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/unitedkingdom/england/eastern_england/peterborough": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/england/eastern_england/bury_st_edmunds": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "asia/india/maharashtra/dhule": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 2
+  },
+  "europe/switzerland/val_ferret": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 6
+  },
+  "europe/switzerland/thurgau": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/italy/tuscany/punta_ala": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "australiaandpacific/newzealand/south_island/west_coast/buller": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 4,
+    "adventure": 5
+  },
+  "europe/unitedkingdom/england/lakedistrict/hawkshead": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/utah/cannonville": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/tajikistan/hisar": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/france/centre/loirevalley/valencay": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "northamerica/costarica/limon": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/france/normandybrittany/vannes": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "northamerica/canada/algonquin_park": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "northamerica/mexico/cancun": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 10,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "australiaandpacific/australia/westernaustralia/bussleton": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/tennessee/memphis": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "asia/india/punjab/jalandhar": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "europe/croatia/opatija": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "europe/france/midi/pyrenees/vernet_les_bains": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/england/suffolk/lowestoft": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "europe/russia/khabarovsk": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/alabama/tuscaloosa": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "africa/niger/bilma": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 1,
+    "adventure": 8
+  },
+  "europe/italy/tuscany/viareggio": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 8,
+    "adventure": 1
+  },
+  "asia/pakistan/bahawalpur": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/guineabissau/bafata": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 4
+  },
+  "europe/malta/dingli": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/thecaribbean/grenada/carriacou/windward": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "northamerica/canada/ontario/quintewest": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "asia/china/guizhou/xijiang": {
+    "culture": 8,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "northamerica/turksandcaicosislands/pinecay": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 9,
+    "adventure": 2
+  },
+  "europe/germany/northrhinewestphalia/hamm": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "europe/greece/pilion": {
+    "culture": 6,
+    "nature": 8,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "europe/belgium/geel": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  }
+}

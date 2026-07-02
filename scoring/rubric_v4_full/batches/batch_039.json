@@ -1,0 +1,589 @@
+[
+  {
+    "embedding_text": "Alhama de Granada, Andalucia, Spain, Europe",
+    "latitude": 37.0083,
+    "longitude": -3.9886,
+    "name": "Alhama de Granada",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/alhama_de_granada"
+  },
+  {
+    "embedding_text": "Abaco, Bahamas, North America",
+    "latitude": 26.4667,
+    "longitude": -77.0833,
+    "name": "Abaco",
+    "parent_chain": [
+      "North America",
+      "Bahamas"
+    ],
+    "path": "northamerica/bahamas/abaco"
+  },
+  {
+    "embedding_text": "Atiu, Cook Islands, Australia, Pacific & Antarctica",
+    "latitude": -19.916358,
+    "longitude": -158.197198,
+    "name": "Atiu",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Cook Islands"
+    ],
+    "path": "australiaandpacific/cookislands/atiu"
+  },
+  {
+    "embedding_text": "Trapani, Sicily, Italy, Europe",
+    "latitude": 38.0157,
+    "longitude": 12.5099,
+    "name": "Trapani",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sicily"
+    ],
+    "path": "europe/italy/sicily/trapani"
+  },
+  {
+    "embedding_text": "Nguigmi, Niger, Africa",
+    "latitude": 14.256858,
+    "longitude": 13.115596,
+    "name": "Nguigmi",
+    "parent_chain": [
+      "Africa",
+      "Niger"
+    ],
+    "path": "africa/niger/nguigmi"
+  },
+  {
+    "embedding_text": "Cambridge, Ontario, Canada, North America",
+    "latitude": 43.3601,
+    "longitude": -80.3123,
+    "name": "Cambridge",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/cambridge"
+  },
+  {
+    "embedding_text": "Cockburn Town, Grand Turk, Turks and Caicos Islands, North America",
+    "latitude": 21.4607,
+    "longitude": -71.139,
+    "name": "Cockburn Town",
+    "parent_chain": [
+      "North America",
+      "Turks and Caicos Islands",
+      "Grand Turk"
+    ],
+    "path": "northamerica/turksandcaicosislands/grandturk/cockburntown"
+  },
+  {
+    "embedding_text": "Phuntsholing, Bhutan, Asia",
+    "latitude": 26.863961,
+    "longitude": 89.383736,
+    "name": "Phuntsholing",
+    "parent_chain": [
+      "Asia",
+      "Bhutan"
+    ],
+    "path": "asia/bhutan/phuntsholing"
+  },
+  {
+    "embedding_text": "Ankang, Shaanxi Province, China, Asia",
+    "latitude": 32.6877,
+    "longitude": 109.0235,
+    "name": "Ankang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shaanxi Province"
+    ],
+    "path": "asia/china/shaanxi/ankang"
+  },
+  {
+    "embedding_text": "Cengio, Riviera delle Palme, Italian Riviera, Liguria, Italy, Europe",
+    "latitude": 44.390259,
+    "longitude": 8.207952,
+    "name": "Cengio",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria",
+      "Italian Riviera",
+      "Riviera delle Palme"
+    ],
+    "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio"
+  },
+  {
+    "embedding_text": "Ipiales, Colombia, South America",
+    "latitude": 0.8281,
+    "longitude": -77.6414,
+    "name": "Ipiales",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/ipiales"
+  },
+  {
+    "embedding_text": "Denali National Park, Alaska, United States, North America",
+    "latitude": 63.620728,
+    "longitude": -148.719587,
+    "name": "Denali National Park",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alaska"
+    ],
+    "path": "northamerica/unitedstates/alaska/denalipark"
+  },
+  {
+    "embedding_text": "Faj\u00e3 d\u2019Agua, Brava, Cape Verde, Africa",
+    "latitude": 14.8715,
+    "longitude": -24.7315,
+    "name": "Faj\u00e3 d\u2019Agua",
+    "parent_chain": [
+      "Africa",
+      "Cape Verde",
+      "Brava"
+    ],
+    "path": "africa/capeverde/brava/faj_dagua"
+  },
+  {
+    "embedding_text": "Corn Islands, Nicaragua, North America",
+    "latitude": 12.1694,
+    "longitude": -83.0418,
+    "name": "Corn Islands",
+    "parent_chain": [
+      "North America",
+      "Nicaragua"
+    ],
+    "path": "northamerica/nicaragua/cornislands"
+  },
+  {
+    "embedding_text": "Coloma, Gold Country, California, United States, North America",
+    "latitude": 38.8039,
+    "longitude": -120.8987,
+    "name": "Coloma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Gold Country"
+    ],
+    "path": "northamerica/unitedstates/california/goldcountry/coloma"
+  },
+  {
+    "embedding_text": "Vila Nova de Cacela, Algarve, Portugal, Europe",
+    "latitude": 37.1667,
+    "longitude": -7.5333,
+    "name": "Vila Nova de Cacela",
+    "parent_chain": [
+      "Europe",
+      "Portugal",
+      "Algarve"
+    ],
+    "path": "europe/portugal/algarve/vilanovadecacela"
+  },
+  {
+    "embedding_text": "Ki\u010devo, Macedonia, Europe",
+    "latitude": 41.5089,
+    "longitude": 20.9585,
+    "name": "Ki\u010devo",
+    "parent_chain": [
+      "Europe",
+      "Macedonia"
+    ],
+    "path": "europe/macedonia/kicevo"
+  },
+  {
+    "embedding_text": "Madrid, Spain, Europe",
+    "latitude": 40.416782,
+    "longitude": -3.703507,
+    "name": "Madrid",
+    "parent_chain": [
+      "Europe",
+      "Spain"
+    ],
+    "path": "europe/spain/madrid"
+  },
+  {
+    "embedding_text": "Derbent, Dagestan, Russia, Europe",
+    "latitude": 42.0579,
+    "longitude": 48.2888,
+    "name": "Derbent",
+    "parent_chain": [
+      "Europe",
+      "Russia",
+      "Dagestan"
+    ],
+    "path": "europe/russia/dagestan/derbent"
+  },
+  {
+    "embedding_text": "Maynooth, Ireland, Europe",
+    "latitude": 53.383024,
+    "longitude": -6.592281,
+    "name": "Maynooth",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/maynooth"
+  },
+  {
+    "embedding_text": "Chester, Manchester, Liverpool and North West, England, United Kingdom, Europe",
+    "latitude": 53.190887,
+    "longitude": -2.890896,
+    "name": "Chester",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Manchester, Liverpool and North West"
+    ],
+    "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester"
+  },
+  {
+    "embedding_text": "Annapurna Region, Nepal, Asia",
+    "latitude": 28.5955,
+    "longitude": 83.8201,
+    "name": "Annapurna Region",
+    "parent_chain": [
+      "Asia",
+      "Nepal"
+    ],
+    "path": "asia/nepal/annapurna"
+  },
+  {
+    "embedding_text": "Ganpatipule, Maharashtra, India, Asia",
+    "latitude": 17.1449,
+    "longitude": 73.2668,
+    "name": "Ganpatipule",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Maharashtra"
+    ],
+    "path": "asia/india/maharashtra/ganpati_phule"
+  },
+  {
+    "embedding_text": "Santillana del Mar, Cantabria, Spain, Europe",
+    "latitude": 43.3925,
+    "longitude": -4.106,
+    "name": "Santillana del Mar",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Cantabria"
+    ],
+    "path": "europe/spain/cantabria/santillana_del_mar"
+  },
+  {
+    "embedding_text": "Burlingame, California, United States, North America",
+    "latitude": 37.578097,
+    "longitude": -122.34731,
+    "name": "Burlingame",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California"
+    ],
+    "path": "northamerica/unitedstates/california/burlingame"
+  },
+  {
+    "embedding_text": "Kastoria, Greece, Europe",
+    "latitude": 40.5193,
+    "longitude": 21.2663,
+    "name": "Kastoria",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/kastoria"
+  },
+  {
+    "embedding_text": "Port Royal, Jamaica, North America",
+    "latitude": 17.9355,
+    "longitude": -76.8424,
+    "name": "Port Royal",
+    "parent_chain": [
+      "North America",
+      "Jamaica"
+    ],
+    "path": "northamerica/jamaica/portroyal"
+  },
+  {
+    "embedding_text": "Sandav\u00e1gur, Vagar, Faroe Islands, Europe",
+    "latitude": 62.0545,
+    "longitude": -7.1511,
+    "name": "Sandav\u00e1gur",
+    "parent_chain": [
+      "Europe",
+      "Faroe Islands",
+      "Vagar"
+    ],
+    "path": "europe/faroeislands/vagar/sandavgur"
+  },
+  {
+    "embedding_text": "Freudenstadt, Baden-W\u00fcrttemberg, Germany, Europe",
+    "latitude": 48.4638,
+    "longitude": 8.4112,
+    "name": "Freudenstadt",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Baden-W\u00fcrttemberg"
+    ],
+    "path": "europe/germany/badenwrttemberg/freudenstadt"
+  },
+  {
+    "embedding_text": "Jimma, Ethiopia, Africa",
+    "latitude": 7.675615,
+    "longitude": 36.847878,
+    "name": "Jimma",
+    "parent_chain": [
+      "Africa",
+      "Ethiopia"
+    ],
+    "path": "africa/ethiopia/jimma"
+  },
+  {
+    "embedding_text": "Saurimo, Angola, Africa",
+    "latitude": -9.65893,
+    "longitude": 20.398112,
+    "name": "Saurimo",
+    "parent_chain": [
+      "Africa",
+      "Angola"
+    ],
+    "path": "africa/angola/saurimo"
+  },
+  {
+    "embedding_text": "Donauw\u00f6rth, Romantic Road, Bavaria, Germany, Europe",
+    "latitude": 48.718036,
+    "longitude": 10.78073,
+    "name": "Donauw\u00f6rth",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria",
+      "Romantic Road"
+    ],
+    "path": "europe/germany/bavaria/romanticroad/donauwrth"
+  },
+  {
+    "embedding_text": "Ounianga, Chad, Africa",
+    "latitude": 19.0539,
+    "longitude": 20.5083,
+    "name": "Ounianga",
+    "parent_chain": [
+      "Africa",
+      "Chad"
+    ],
+    "path": "africa/chad/ounianga"
+  },
+  {
+    "embedding_text": "Malkapur, Maharashtra, India, Asia",
+    "latitude": 20.891958,
+    "longitude": 76.204035,
+    "name": "Malkapur",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Maharashtra"
+    ],
+    "path": "asia/india/maharashtra/malkapur"
+  },
+  {
+    "embedding_text": "Kaghan Valley, Pakistan, Asia",
+    "latitude": 34.9072,
+    "longitude": 73.6509,
+    "name": "Kaghan Valley",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/kaghanvalley"
+  },
+  {
+    "embedding_text": "Pasargadae, Iran, Asia",
+    "latitude": 30.2017,
+    "longitude": 53.1787,
+    "name": "Pasargadae",
+    "parent_chain": [
+      "Asia",
+      "Iran"
+    ],
+    "path": "asia/iran/pasargadae"
+  },
+  {
+    "embedding_text": "Lourdes, Pyrenees, Midi, France, Europe",
+    "latitude": 43.0941,
+    "longitude": -0.0465,
+    "name": "Lourdes",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Pyrenees"
+    ],
+    "path": "europe/france/midi/pyrenees/lourdes"
+  },
+  {
+    "embedding_text": "Capraia e Limite, Empolese Valdelsa, Florence Province, Tuscany, Italy, Europe",
+    "latitude": 43.7596,
+    "longitude": 10.9997,
+    "name": "Capraia e Limite",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany",
+      "Florence Province",
+      "Empolese Valdelsa"
+    ],
+    "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite"
+  },
+  {
+    "embedding_text": "Kragero, Norway, Europe",
+    "latitude": 58.869622,
+    "longitude": 9.414214,
+    "name": "Kragero",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/kragero"
+  },
+  {
+    "embedding_text": "McLeod Ganj, Himachal Pradesh, India, Asia",
+    "latitude": 32.2427,
+    "longitude": 76.3234,
+    "name": "McLeod Ganj",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Himachal Pradesh"
+    ],
+    "path": "asia/india/himachalpradesh/mcleodganj"
+  },
+  {
+    "embedding_text": "Orebi\u0107, Pelje\u0161ac, Croatia, Europe",
+    "latitude": 42.976914,
+    "longitude": 17.183237,
+    "name": "Orebi\u0107",
+    "parent_chain": [
+      "Europe",
+      "Croatia",
+      "Pelje\u0161ac"
+    ],
+    "path": "europe/croatia/peljesac/orebic"
+  },
+  {
+    "embedding_text": "\u0160kofja Loka, Slovenia, Europe",
+    "latitude": 46.1672,
+    "longitude": 14.303,
+    "name": "\u0160kofja Loka",
+    "parent_chain": [
+      "Europe",
+      "Slovenia"
+    ],
+    "path": "europe/slovenia/skofjaloka"
+  },
+  {
+    "embedding_text": "Aranjuez, Central Spain, Spain, Europe",
+    "latitude": 40.032229,
+    "longitude": -3.60401,
+    "name": "Aranjuez",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Central Spain"
+    ],
+    "path": "europe/spain/centralspain/aranjuez"
+  },
+  {
+    "embedding_text": "Limerick, Ireland, Europe",
+    "latitude": 52.6638,
+    "longitude": -8.6267,
+    "name": "Limerick",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/limerick"
+  },
+  {
+    "embedding_text": "Bochum, North Rhine-Westphalia, Germany, Europe",
+    "latitude": 51.4818,
+    "longitude": 7.2197,
+    "name": "Bochum",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "North Rhine-Westphalia"
+    ],
+    "path": "europe/germany/northrhinewestphalia/bochum"
+  },
+  {
+    "embedding_text": "Shenmu, Shaanxi Province, China, Asia",
+    "latitude": 38.8389,
+    "longitude": 110.4896,
+    "name": "Shenmu",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shaanxi Province"
+    ],
+    "path": "asia/china/shaanxi/shenmu"
+  },
+  {
+    "embedding_text": "Viipuri (Vyborg), Finland, Europe",
+    "latitude": 60.71,
+    "longitude": 28.75,
+    "name": "Viipuri (Vyborg)",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/viipuri"
+  },
+  {
+    "embedding_text": "Liverpool, Manchester, Liverpool and North West, England, United Kingdom, Europe",
+    "latitude": 53.4084,
+    "longitude": -2.9916,
+    "name": "Liverpool",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Manchester, Liverpool and North West"
+    ],
+    "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool"
+  },
+  {
+    "embedding_text": "Folly Beach, South Carolina, United States, North America",
+    "latitude": 32.655485,
+    "longitude": -79.94078,
+    "name": "Folly Beach",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Carolina"
+    ],
+    "path": "northamerica/unitedstates/southcarolina/folly_beach"
+  },
+  {
+    "embedding_text": "Huanchaco, Peru, South America",
+    "latitude": -8.0795,
+    "longitude": -79.1203,
+    "name": "Huanchaco",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/huanchaco"
+  }
+]

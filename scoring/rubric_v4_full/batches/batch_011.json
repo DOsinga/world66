@@ -1,0 +1,589 @@
+[
+  {
+    "embedding_text": "Athens, Georgia, United States, North America",
+    "latitude": 33.959768,
+    "longitude": -83.376398,
+    "name": "Athens",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/athens"
+  },
+  {
+    "embedding_text": "Los Gigantes, Spanish Costas, Spain, Europe",
+    "latitude": 28.2439,
+    "longitude": -16.8403,
+    "name": "Los Gigantes",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Spanish Costas"
+    ],
+    "path": "europe/spain/spanishcostas/losgigantes"
+  },
+  {
+    "embedding_text": "Tegucigalpa, Honduras, North America",
+    "latitude": 14.0818,
+    "longitude": -87.2068,
+    "name": "Tegucigalpa",
+    "parent_chain": [
+      "North America",
+      "Honduras"
+    ],
+    "path": "northamerica/honduras/tegucigalpa"
+  },
+  {
+    "embedding_text": "Split, Croatia, Europe",
+    "latitude": 43.511638,
+    "longitude": 16.439966,
+    "name": "Split",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/split"
+  },
+  {
+    "embedding_text": "Burgos, Northern Spain, Spain, Europe",
+    "latitude": 42.3439,
+    "longitude": -3.697,
+    "name": "Burgos",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Northern Spain"
+    ],
+    "path": "europe/spain/northernspain/burgos"
+  },
+  {
+    "embedding_text": "Logro\u00f1o, Northern Spain, Spain, Europe",
+    "latitude": 43.465,
+    "longitude": -2.4456,
+    "name": "Logro\u00f1o",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Northern Spain"
+    ],
+    "path": "europe/spain/northernspain/logrono"
+  },
+  {
+    "embedding_text": "Ciudad Perdida, Colombia, South America",
+    "latitude": 11.037855,
+    "longitude": -73.925775,
+    "name": "Ciudad Perdida",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/ciudadperdida"
+  },
+  {
+    "embedding_text": "Pristina, Kosovo, Serbia, Europe",
+    "latitude": 42.6629,
+    "longitude": 21.1655,
+    "name": "Pristina",
+    "parent_chain": [
+      "Europe",
+      "Serbia",
+      "Kosovo"
+    ],
+    "path": "europe/serbia/kosovoprovince/pristina"
+  },
+  {
+    "embedding_text": "Plymouth, Devon, Bristol, Plymouth and the South-West, England, United Kingdom, Europe",
+    "latitude": 50.3714,
+    "longitude": -4.1424,
+    "name": "Plymouth",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Bristol, Plymouth and the South-West",
+      "Devon"
+    ],
+    "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth"
+  },
+  {
+    "embedding_text": "Bengbu, Anhui Province, China, Asia",
+    "latitude": 32.9333,
+    "longitude": 117.3667,
+    "name": "Bengbu",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Anhui Province"
+    ],
+    "path": "asia/china/anhui/bengbu"
+  },
+  {
+    "embedding_text": "Allahabad, Uttar Pradesh, India, Asia",
+    "latitude": 25.4381,
+    "longitude": 81.8338,
+    "name": "Allahabad",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttar Pradesh"
+    ],
+    "path": "asia/india/uttarpradesh/allahabad"
+  },
+  {
+    "embedding_text": "Efate, Vanuatu, Australia, Pacific & Antarctica",
+    "latitude": -17.6739,
+    "longitude": 168.3648,
+    "name": "Efate",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Vanuatu"
+    ],
+    "path": "australiaandpacific/vanuatu/efate"
+  },
+  {
+    "embedding_text": "Hefei, Anhui Province, China, Asia",
+    "latitude": 31.8667,
+    "longitude": 117.2833,
+    "name": "Hefei",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Anhui Province"
+    ],
+    "path": "asia/china/anhui/hefei"
+  },
+  {
+    "embedding_text": "Moreh, Manipur, India, Asia",
+    "latitude": 24.2477,
+    "longitude": 94.3031,
+    "name": "Moreh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Manipur"
+    ],
+    "path": "asia/india/manipur/moreh"
+  },
+  {
+    "embedding_text": "Riquewihr, Alsace, East France, France, Europe",
+    "latitude": 48.1672,
+    "longitude": 7.2978,
+    "name": "Riquewihr",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "East France",
+      "Alsace"
+    ],
+    "path": "europe/france/east/alsace/riquewihr"
+  },
+  {
+    "embedding_text": "Conwy, Wales, United Kingdom, Europe",
+    "latitude": 53.146093,
+    "longitude": -3.75992,
+    "name": "Conwy",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Wales"
+    ],
+    "path": "europe/unitedkingdom/wales/conwy"
+  },
+  {
+    "embedding_text": "Hanksville, Utah, United States, North America",
+    "latitude": 38.3738,
+    "longitude": -110.7064,
+    "name": "Hanksville",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/hanksville"
+  },
+  {
+    "embedding_text": "Shakhrisabz, Uzbekistan, Asia",
+    "latitude": 39.0053,
+    "longitude": 67.1135,
+    "name": "Shakhrisabz",
+    "parent_chain": [
+      "Asia",
+      "Uzbekistan"
+    ],
+    "path": "asia/uzbekistan/shakhrisabz"
+  },
+  {
+    "embedding_text": "Jaca, Aragon, Spain, Europe",
+    "latitude": 42.569288,
+    "longitude": -0.549376,
+    "name": "Jaca",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Aragon"
+    ],
+    "path": "europe/spain/aragon/jaca"
+  },
+  {
+    "embedding_text": "San Crist\u00f3bal de La Laguna, Tenerife, Canary Islands, Spain, Europe",
+    "latitude": 28.4895,
+    "longitude": -16.3162,
+    "name": "San Crist\u00f3bal de La Laguna",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Canary Islands",
+      "Tenerife"
+    ],
+    "path": "europe/spain/canaryislands/tenerife/lalaguna"
+  },
+  {
+    "embedding_text": "Ouahigouya, Burkina Faso, Africa",
+    "latitude": 13.580982,
+    "longitude": -2.417699,
+    "name": "Ouahigouya",
+    "parent_chain": [
+      "Africa",
+      "Burkina Faso"
+    ],
+    "path": "africa/burkinafaso/ouahigouya"
+  },
+  {
+    "embedding_text": "Cagnes-sur-Mer, Cote d'Azur, Midi, France, Europe",
+    "latitude": 43.6612,
+    "longitude": 7.1514,
+    "name": "Cagnes-sur-Mer",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Cote d'Azur"
+    ],
+    "path": "europe/france/midi/cotedazur/cagnessurmer"
+  },
+  {
+    "embedding_text": "Guysborough, Nova Scotia, Canada, North America",
+    "latitude": 45.394,
+    "longitude": -61.499,
+    "name": "Guysborough",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Nova Scotia"
+    ],
+    "path": "northamerica/canada/novascotia/guysborough"
+  },
+  {
+    "embedding_text": "Bizerte, Tunisia, Africa",
+    "latitude": 37.27209,
+    "longitude": 9.870857,
+    "name": "Bizerte",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/bizerte"
+  },
+  {
+    "embedding_text": "Tay Ninh, Vietnam, Asia",
+    "latitude": 11.0801,
+    "longitude": 106.2611,
+    "name": "Tay Ninh",
+    "parent_chain": [
+      "Asia",
+      "Vietnam"
+    ],
+    "path": "asia/vietnam/tayninh"
+  },
+  {
+    "embedding_text": "Livingston, Guatemala, North America",
+    "latitude": 15.8281,
+    "longitude": -88.7533,
+    "name": "Livingston",
+    "parent_chain": [
+      "North America",
+      "Guatemala"
+    ],
+    "path": "northamerica/guatemala/livingstone"
+  },
+  {
+    "embedding_text": "Taierzhuang, Shandong Province, China, Asia",
+    "latitude": 34.561,
+    "longitude": 117.738,
+    "name": "Taierzhuang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shandong Province"
+    ],
+    "path": "asia/china/shandong_province/taierzhuang"
+  },
+  {
+    "embedding_text": "Arenzano, Italian Riviera, Liguria, Italy, Europe",
+    "latitude": 44.4025,
+    "longitude": 8.6814,
+    "name": "Arenzano",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria",
+      "Italian Riviera"
+    ],
+    "path": "europe/italy/liguria/italianriviera/arenzano"
+  },
+  {
+    "embedding_text": "Tarawa, Kiribati, Australia, Pacific & Antarctica",
+    "latitude": 1.484554,
+    "longitude": 172.968965,
+    "name": "Tarawa",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Kiribati"
+    ],
+    "path": "australiaandpacific/kiribati/tarawa"
+  },
+  {
+    "embedding_text": "Ossiacher See, Austria, Europe",
+    "latitude": 46.6667,
+    "longitude": 13.9667,
+    "name": "Ossiacher See",
+    "parent_chain": [
+      "Europe",
+      "Austria"
+    ],
+    "path": "europe/austria/ossiachersee"
+  },
+  {
+    "embedding_text": "Calvi, Corsica, France, Europe",
+    "latitude": 42.567708,
+    "longitude": 8.759053,
+    "name": "Calvi",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Corsica"
+    ],
+    "path": "europe/france/corsica/calvi"
+  },
+  {
+    "embedding_text": "Ploie\u0219ti, Romania, Europe",
+    "latitude": 44.941747,
+    "longitude": 26.02365,
+    "name": "Ploie\u0219ti",
+    "parent_chain": [
+      "Europe",
+      "Romania"
+    ],
+    "path": "europe/romania/ploiesti"
+  },
+  {
+    "embedding_text": "Embu, Central Highlands, Kenya, Africa",
+    "latitude": -0.5359,
+    "longitude": 37.6653,
+    "name": "Embu",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "Central Highlands"
+    ],
+    "path": "africa/kenya/centralhighlands/embu"
+  },
+  {
+    "embedding_text": "Valley of Flowers, Uttaranchal, India, Asia",
+    "latitude": 30.70568,
+    "longitude": 79.595855,
+    "name": "Valley of Flowers",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttaranchal"
+    ],
+    "path": "asia/india/uttaranchal/valley_of_flowers"
+  },
+  {
+    "embedding_text": "Aachen, North Rhine-Westphalia, Germany, Europe",
+    "latitude": 50.776351,
+    "longitude": 6.083862,
+    "name": "Aachen",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "North Rhine-Westphalia"
+    ],
+    "path": "europe/germany/northrhinewestphalia/aachen"
+  },
+  {
+    "embedding_text": "Silves, Portugal, Europe",
+    "latitude": 37.1894,
+    "longitude": -8.4387,
+    "name": "Silves",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/silves"
+  },
+  {
+    "embedding_text": "Chiavenna, Lombardia, Italy, Europe",
+    "latitude": 46.319786,
+    "longitude": 9.398494,
+    "name": "Chiavenna",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lombardia"
+    ],
+    "path": "europe/italy/lombardia/chiavenna"
+  },
+  {
+    "embedding_text": "Ceuta, Spain, Europe",
+    "latitude": 35.8944,
+    "longitude": -5.3558,
+    "name": "Ceuta",
+    "parent_chain": [
+      "Europe",
+      "Spain"
+    ],
+    "path": "europe/spain/ceuta"
+  },
+  {
+    "embedding_text": "Courtenay, British Columbia, Canada, North America",
+    "latitude": 49.689406,
+    "longitude": -124.995496,
+    "name": "Courtenay",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/courtenay"
+  },
+  {
+    "embedding_text": "Pertouli, Greece, Europe",
+    "latitude": 39.541089,
+    "longitude": 21.466158,
+    "name": "Pertouli",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/pertouli"
+  },
+  {
+    "embedding_text": "Saint Gallen, Switzerland, Europe",
+    "latitude": 47.4238,
+    "longitude": 9.3766,
+    "name": "Saint Gallen",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/saintgallen"
+  },
+  {
+    "embedding_text": "Fontainebleau, Around Paris, France, Europe",
+    "latitude": 48.404938,
+    "longitude": 2.701587,
+    "name": "Fontainebleau",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Around Paris"
+    ],
+    "path": "europe/france/around_paris/fontainebleau"
+  },
+  {
+    "embedding_text": "Nouakchott, Mauritania, Africa",
+    "latitude": 18.0791,
+    "longitude": -15.9785,
+    "name": "Nouakchott",
+    "parent_chain": [
+      "Africa",
+      "Mauritania"
+    ],
+    "path": "africa/mauritania/nouakchott"
+  },
+  {
+    "embedding_text": "Fort Oglethorpe, Georgia, United States, North America",
+    "latitude": 34.949995,
+    "longitude": -85.245661,
+    "name": "Fort Oglethorpe",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/fortoglethorpe"
+  },
+  {
+    "embedding_text": "Gyeongju, South Korea, Asia",
+    "latitude": 35.8562,
+    "longitude": 129.2247,
+    "name": "Gyeongju",
+    "parent_chain": [
+      "Asia",
+      "South Korea"
+    ],
+    "path": "asia/southkorea/gyeongju"
+  },
+  {
+    "embedding_text": "Lenwade, Norfolk, England, United Kingdom, Europe",
+    "latitude": 52.7224,
+    "longitude": 1.1039,
+    "name": "Lenwade",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Norfolk"
+    ],
+    "path": "europe/unitedkingdom/england/norfolk/lenwade_great_wit"
+  },
+  {
+    "embedding_text": "Kabankalan City, Negros island, Philippines, Asia",
+    "latitude": 9.988915,
+    "longitude": 122.81348,
+    "name": "Kabankalan City",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Negros island"
+    ],
+    "path": "asia/philippines/negrosisland/kabankalan_city"
+  },
+  {
+    "embedding_text": "Pajala, Sweden, Europe",
+    "latitude": 67.25,
+    "longitude": 23.0,
+    "name": "Pajala",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/pajala"
+  },
+  {
+    "embedding_text": "Ranomafana, Madagascar, Africa",
+    "latitude": -21.25,
+    "longitude": 47.45,
+    "name": "Ranomafana",
+    "parent_chain": [
+      "Africa",
+      "Madagascar"
+    ],
+    "path": "africa/madagascar/ranomafana"
+  },
+  {
+    "embedding_text": "Chongwu, Fujian Province, China, Asia",
+    "latitude": 24.9,
+    "longitude": 118.9,
+    "name": "Chongwu",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Fujian Province"
+    ],
+    "path": "asia/china/fujianprovince/chongwu"
+  }
+]

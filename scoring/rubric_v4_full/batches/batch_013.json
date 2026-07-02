@@ -1,0 +1,588 @@
+[
+  {
+    "embedding_text": "Kaduna, Nigeria, Africa",
+    "latitude": 10.5183,
+    "longitude": 7.436,
+    "name": "Kaduna",
+    "parent_chain": [
+      "Africa",
+      "Nigeria"
+    ],
+    "path": "africa/nigeria/kaduna"
+  },
+  {
+    "embedding_text": "Cuautla, Mexico, North America",
+    "latitude": 18.8167,
+    "longitude": -98.95,
+    "name": "Cuautla",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/cuatla"
+  },
+  {
+    "embedding_text": "'Eua, Tonga, Australia, Pacific & Antarctica",
+    "latitude": -21.395216,
+    "longitude": -174.898776,
+    "name": "'Eua",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Tonga"
+    ],
+    "path": "australiaandpacific/tonga/eua"
+  },
+  {
+    "embedding_text": "Chorzow, Poland, Europe",
+    "latitude": 50.288473,
+    "longitude": 18.97038,
+    "name": "Chorzow",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/chorzow"
+  },
+  {
+    "embedding_text": "The Qalas, Uzbekistan, Asia",
+    "latitude": 41.9283,
+    "longitude": 60.8122,
+    "name": "The Qalas",
+    "parent_chain": [
+      "Asia",
+      "Uzbekistan"
+    ],
+    "path": "asia/uzbekistan/theqalas"
+  },
+  {
+    "embedding_text": "Hope, British Columbia, Canada, North America",
+    "latitude": 49.38,
+    "longitude": -121.4416,
+    "name": "Hope",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/hope"
+  },
+  {
+    "embedding_text": "Bhandardhara, Maharashtra, India, Asia",
+    "latitude": 19.5218,
+    "longitude": 73.7577,
+    "name": "Bhandardhara",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Maharashtra"
+    ],
+    "path": "asia/india/maharashtra/bhandardhara"
+  },
+  {
+    "embedding_text": "Linosa, Pelagian Islands, Sicily, Italy, Europe",
+    "latitude": 35.8652,
+    "longitude": 12.8675,
+    "name": "Linosa",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sicily",
+      "Pelagian Islands"
+    ],
+    "path": "europe/italy/sicily/pelagianislands/linosa"
+  },
+  {
+    "embedding_text": "Bantayan, Cebu, Philippines, Asia",
+    "latitude": 11.16669,
+    "longitude": 123.718882,
+    "name": "Bantayan",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Cebu"
+    ],
+    "path": "asia/philippines/cebu/bantayan"
+  },
+  {
+    "embedding_text": "Maidstone, South East, England, United Kingdom, Europe",
+    "latitude": 51.2748,
+    "longitude": 0.5217,
+    "name": "Maidstone",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South East"
+    ],
+    "path": "europe/unitedkingdom/england/south_east/maidstone"
+  },
+  {
+    "embedding_text": "Pingyao, Shanxi Province, China, Asia",
+    "latitude": 37.189293,
+    "longitude": 112.169624,
+    "name": "Pingyao",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shanxi Province"
+    ],
+    "path": "asia/china/shanxiprovince/pingyao"
+  },
+  {
+    "embedding_text": "Figuig, Morocco, Africa",
+    "latitude": 32.726313,
+    "longitude": -2.644627,
+    "name": "Figuig",
+    "parent_chain": [
+      "Africa",
+      "Morocco"
+    ],
+    "path": "africa/morocco/figuig"
+  },
+  {
+    "embedding_text": "Everest Base Camp (Tibet), Tibet, China, Asia",
+    "latitude": 28.1365,
+    "longitude": 86.8555,
+    "name": "Everest Base Camp (Tibet)",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Tibet"
+    ],
+    "path": "asia/china/tibet/everest_base_camp"
+  },
+  {
+    "embedding_text": "Florence, Alabama, United States, North America",
+    "latitude": 34.79981,
+    "longitude": -87.677251,
+    "name": "Florence",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alabama"
+    ],
+    "path": "northamerica/unitedstates/alabama/florence"
+  },
+  {
+    "embedding_text": "Biarritz, Basque Region, Midi, France, Europe",
+    "latitude": 43.4832,
+    "longitude": -1.5586,
+    "name": "Biarritz",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Basque Region"
+    ],
+    "path": "europe/france/midi/basqueregion/biarritz"
+  },
+  {
+    "embedding_text": "Sareyn, Iran, Asia",
+    "latitude": 38.149375,
+    "longitude": 48.074621,
+    "name": "Sareyn",
+    "parent_chain": [
+      "Asia",
+      "Iran"
+    ],
+    "path": "asia/iran/sareyn"
+  },
+  {
+    "embedding_text": "Helena, Montana, United States, North America",
+    "latitude": 46.5927,
+    "longitude": -112.0363,
+    "name": "Helena",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Montana"
+    ],
+    "path": "northamerica/unitedstates/montana/helena"
+  },
+  {
+    "embedding_text": "Chernihiv, Ukraine, Europe",
+    "latitude": 51.4943,
+    "longitude": 31.2943,
+    "name": "Chernihiv",
+    "parent_chain": [
+      "Europe",
+      "Ukraine"
+    ],
+    "path": "europe/ukraine/chernihiv"
+  },
+  {
+    "embedding_text": "Dacarbudhuq, Somaliland, Africa",
+    "latitude": 9.85644,
+    "longitude": 44.5272,
+    "name": "Dacarbudhuq",
+    "parent_chain": [
+      "Africa",
+      "Somaliland"
+    ],
+    "path": "africa/somaliland/dacarbudhuq"
+  },
+  {
+    "embedding_text": "Kufstein, Austria, Europe",
+    "latitude": 47.583,
+    "longitude": 12.1692,
+    "name": "Kufstein",
+    "parent_chain": [
+      "Europe",
+      "Austria"
+    ],
+    "path": "europe/austria/kufstein"
+  },
+  {
+    "embedding_text": "Prince George, British Columbia, Canada, North America",
+    "latitude": 53.912864,
+    "longitude": -122.74537,
+    "name": "Prince George",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/princegeorge"
+  },
+  {
+    "embedding_text": "Reading, South East, England, United Kingdom, Europe",
+    "latitude": 51.451495,
+    "longitude": -0.983634,
+    "name": "Reading",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South East"
+    ],
+    "path": "europe/unitedkingdom/england/south_east/reading"
+  },
+  {
+    "embedding_text": "Boa Vista, Cape Verde, Africa",
+    "latitude": 16.099509,
+    "longitude": -22.800941,
+    "name": "Boa Vista",
+    "parent_chain": [
+      "Africa",
+      "Cape Verde"
+    ],
+    "path": "africa/capeverde/boavista"
+  },
+  {
+    "embedding_text": "Mena Creek, Queensland, Australia, Australia, Pacific & Antarctica",
+    "latitude": -17.65487,
+    "longitude": 145.956352,
+    "name": "Mena Creek",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/mena_creek"
+  },
+  {
+    "embedding_text": "Queensbury, New York State, United States, North America",
+    "latitude": 43.361853,
+    "longitude": -73.665245,
+    "name": "Queensbury",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/queensbury"
+  },
+  {
+    "embedding_text": "Soveria Mannelli, Calabria, Italy, Europe",
+    "latitude": 39.0829,
+    "longitude": 16.3719,
+    "name": "Soveria Mannelli",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Calabria"
+    ],
+    "path": "europe/italy/calabria/soveria_mannelli"
+  },
+  {
+    "embedding_text": "Taiping, Malaysia, Asia",
+    "latitude": 4.8549,
+    "longitude": 100.7378,
+    "name": "Taiping",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/taiping"
+  },
+  {
+    "embedding_text": "Warwick, Birmingham and West Midlands, England, United Kingdom, Europe",
+    "latitude": 52.281452,
+    "longitude": -1.581574,
+    "name": "Warwick",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Birmingham and West Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick"
+  },
+  {
+    "embedding_text": "Mountain View, Arkansas, United States, North America",
+    "latitude": 35.8686,
+    "longitude": -92.1174,
+    "name": "Mountain View",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arkansas"
+    ],
+    "path": "northamerica/unitedstates/arkansas/mountain_view"
+  },
+  {
+    "embedding_text": "Westport, Washington, United States, North America",
+    "latitude": 46.8904,
+    "longitude": -124.1059,
+    "name": "Westport",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Washington"
+    ],
+    "path": "northamerica/unitedstates/washington/westport"
+  },
+  {
+    "embedding_text": "Bragan\u00e7a, Portugal, Europe",
+    "latitude": 41.8057,
+    "longitude": -6.7573,
+    "name": "Bragan\u00e7a",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/bragana"
+  },
+  {
+    "embedding_text": "\u00c6r\u00f8sk\u00f8bing, Denmark, Europe",
+    "latitude": 54.8917,
+    "longitude": 10.4125,
+    "name": "\u00c6r\u00f8sk\u00f8bing",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/aeroskobing"
+  },
+  {
+    "embedding_text": "Picos de Europa, Northern Spain, Spain, Europe",
+    "latitude": 43.1975,
+    "longitude": -4.8517,
+    "name": "Picos de Europa",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Northern Spain"
+    ],
+    "path": "europe/spain/northernspain/picosdeeuropa"
+  },
+  {
+    "embedding_text": "Sparta, Greece, Europe",
+    "latitude": 37.0744,
+    "longitude": 22.4321,
+    "name": "Sparta",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/sparta"
+  },
+  {
+    "embedding_text": "Ancenis, Loire valley, Centre, France, Europe",
+    "latitude": 47.3648,
+    "longitude": -1.1816,
+    "name": "Ancenis",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre",
+      "Loire valley"
+    ],
+    "path": "europe/france/centre/loirevalley/ancenis"
+  },
+  {
+    "embedding_text": "Thurnau, Bavaria, Germany, Europe",
+    "latitude": 50.0244,
+    "longitude": 11.3945,
+    "name": "Thurnau",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/thurnau"
+  },
+  {
+    "embedding_text": "Lake of the Ozarks, Missouri, United States, North America",
+    "latitude": 38.1444,
+    "longitude": -92.6595,
+    "name": "Lake of the Ozarks",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Missouri"
+    ],
+    "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks"
+  },
+  {
+    "embedding_text": "Gladstone, Queensland, Australia, Australia, Pacific & Antarctica",
+    "latitude": -23.8432,
+    "longitude": 151.2561,
+    "name": "Gladstone",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/gladstone"
+  },
+  {
+    "embedding_text": "Mount Putuo, Zhejiang, China, Asia",
+    "latitude": 30.0097,
+    "longitude": 122.385,
+    "name": "Mount Putuo",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Zhejiang"
+    ],
+    "path": "asia/china/zhejiang/mount-putuo"
+  },
+  {
+    "embedding_text": "Trabzon, Turkey, Asia",
+    "latitude": 41.0042,
+    "longitude": 39.7278,
+    "name": "Trabzon",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/trabzon"
+  },
+  {
+    "embedding_text": "Vestvagoy, Lofoten islands, Norway, Europe",
+    "latitude": 68.1607,
+    "longitude": 13.7841,
+    "name": "Vestvagoy",
+    "parent_chain": [
+      "Europe",
+      "Norway",
+      "Lofoten islands"
+    ],
+    "path": "europe/norway/lofotenislands/vestvagoy"
+  },
+  {
+    "embedding_text": "Lugano, Switzerland, Europe",
+    "latitude": 46.005,
+    "longitude": 8.952,
+    "name": "Lugano",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/lugano"
+  },
+  {
+    "embedding_text": "Hinunangan, Southern Leyte, Philippines, Asia",
+    "latitude": 10.39404,
+    "longitude": 125.200194,
+    "name": "Hinunangan",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Southern Leyte"
+    ],
+    "path": "asia/philippines/southern_leyte/hinunangan"
+  },
+  {
+    "embedding_text": "Mont Choisi, Mauritius, Africa",
+    "latitude": -20.027,
+    "longitude": 57.582,
+    "name": "Mont Choisi",
+    "parent_chain": [
+      "Africa",
+      "Mauritius"
+    ],
+    "path": "africa/mauritius/montchoisi"
+  },
+  {
+    "embedding_text": "Zipaquira, Colombia, South America",
+    "latitude": 5.023475,
+    "longitude": -74.003982,
+    "name": "Zipaquira",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/zipaquira"
+  },
+  {
+    "embedding_text": "Lower Hutt, Greater Wellington, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -41.212575,
+    "longitude": 174.905763,
+    "name": "Lower Hutt",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Greater Wellington"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt"
+  },
+  {
+    "embedding_text": "Tarifa, Andalucia, Spain, Europe",
+    "latitude": 36.012908,
+    "longitude": -5.605021,
+    "name": "Tarifa",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/tarifa"
+  },
+  {
+    "embedding_text": "Kilkenny, Ireland, Europe",
+    "latitude": 52.650625,
+    "longitude": -7.251444,
+    "name": "Kilkenny",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/kilkenny"
+  },
+  {
+    "embedding_text": "Sault Ste. Marie, Ontario, Canada, North America",
+    "latitude": 46.512655,
+    "longitude": -84.33303,
+    "name": "Sault Ste. Marie",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/sault_ste_marie"
+  },
+  {
+    "embedding_text": "T\u00e2rgu Jiu, Romania, Europe",
+    "latitude": 45.042295,
+    "longitude": 23.272812,
+    "name": "T\u00e2rgu Jiu",
+    "parent_chain": [
+      "Europe",
+      "Romania"
+    ],
+    "path": "europe/romania/tirgujiu"
+  }
+]

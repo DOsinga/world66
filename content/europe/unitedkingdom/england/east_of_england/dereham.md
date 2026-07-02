@@ -5,12 +5,17 @@ loc_type: city
 latitude: 52.6822
 longitude: 0.9404
 score: 6.05
-snippet: Central Norfolk market town with a heritage railway, workhouse museum, windmill, and thatched town history.
+snippet: Central Norfolk market town with a heritage railway, workhouse museum, windmill,
+  and thatched town history.
 wikidata: Q302893
 sources:
-  - https://en.wikivoyage.org/wiki/Dereham
-  - https://www.midnorfolkrailway.co.uk/visit
-  - https://www.museums.norfolk.gov.uk/article/56152/Gressenhall-Farm-and-Workhouse
+- https://en.wikivoyage.org/wiki/Dereham
+- https://www.midnorfolkrailway.co.uk/visit
+- https://www.museums.norfolk.gov.uk/article/56152/Gressenhall-Farm-and-Workhouse
+image: dereham.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dereham_1915_air_raid.jpg
+image_license: Public domain
+image_attribution: Press photograph from 1915
 ---
 
 Dereham is a central Norfolk market town, less polished than the coast and less obvious than [Norwich](/europe/unitedkingdom/england/eastern_england/norwich). Its appeal is practical and historical: railways, farm life, a windmill, and a small museum in one of the town's oldest buildings.

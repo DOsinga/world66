@@ -1,0 +1,302 @@
+{
+  "northamerica/unitedstates/colorado/central_city": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "africa/gambia/banjul": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "asia/pakistan/khanpur_mahar": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 4
+  },
+  "asia/india/karnataka/ullal_beach": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/oklahoma/oklahomacity": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/ireland/kinsale": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/pennsylvania/reading": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/norway/lofotenislands/rost": {
+    "culture": 3,
+    "nature": 10,
+    "leisure": 3,
+    "adventure": 6
+  },
+  "northamerica/thecaribbean/cuba/holguin": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/indiana/delphi": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 1
+  },
+  "africa/libya/jefren": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 1,
+    "adventure": 8
+  },
+  "africa/angola/soyo": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/michigan/holly": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "asia/china/henan_province/yuntaishan": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/greece/andros": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/india/karnataka/tumkur": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/oregon/ashland": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/wales/lleyn_peninsula": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/france/alpes/ceillac": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "europe/greece/corinth": {
+    "culture": 8,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/minnesota/duluth": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich": {
+    "culture": 4,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "africa/malawi/mulanje_mountains": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 7
+  },
+  "africa/morocco/ifrane": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/florida/jupiter": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "africa/kenya/theriftvalley/nakuru": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/moldova/tighina": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "asia/philippines/las_pinas_city": {
+    "culture": 4,
+    "nature": 2,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "australiaandpacific/australia/westernaustralia/broome": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 7,
+    "adventure": 5
+  },
+  "northamerica/canada/britishcolumbia/vernon": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/arizona/kayenta": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/thailand/krabi/krabitown": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "southamerica/venezuela/san_cristobal": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/italy/sicily/mount_etna_park": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 5
+  },
+  "asia/china/zhejiang/xikou": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/italy/tuscany/cortona": {
+    "culture": 8,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/thailand/trat": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/canada/quebec/granby": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "asia/thailand/pranburi": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "europe/france/alpes/sixt_fercheval": {
+    "culture": 4,
+    "nature": 10,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "europe/germany/saxonyanhalt/wernigerode": {
+    "culture": 7,
+    "nature": 6,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "northamerica/canada/princeedwardisland/charlottetown": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "africa/mali/mopti": {
+    "culture": 7,
+    "nature": 6,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "northamerica/canada/ontario/north_bay": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/sweden/stockholm": {
+    "culture": 9,
+    "nature": 5,
+    "leisure": 9,
+    "adventure": 1
+  },
+  "europe/bosniaandherzegovina/tuzla": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/netherlands/denhelder": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/scotland/fort_william": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "northamerica/canada/ontario/sarnia": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/spain/santiago_de_compostela": {
+    "culture": 9,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 2
+  }
+}

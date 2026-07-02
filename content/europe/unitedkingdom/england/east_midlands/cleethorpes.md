@@ -5,10 +5,15 @@ loc_type: city
 latitude: 53.5533
 longitude: -0.0216
 score: 6.5
-snippet: Lincolnshire seaside resort with a broad tidal beach, miniature railway, and Humber wildlife.
+snippet: Lincolnshire seaside resort with a broad tidal beach, miniature railway,
+  and Humber wildlife.
 sources:
-  - https://en.wikivoyage.org/wiki/Cleethorpes
-  - https://www.visitlincolnshire.com/destinations/cleethorpes/
+- https://en.wikivoyage.org/wiki/Cleethorpes
+- https://www.visitlincolnshire.com/destinations/cleethorpes/
+image: cleethorpes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:A_busy_afternoon_at_Cleethorpes.jpg
+image_license: CC BY 2.0
+image_attribution: kitmasterbloke
 ---
 
 Cleethorpes is the seaside half of the Grimsby-Cleethorpes conurbation, and it feels very different from its fishing-port neighbour. The railway made it a resort in the 19th century, and the town still has that old English mixture of promenade, pier, chips, beach huts, amusement arcades, and wind coming straight off the North Sea.

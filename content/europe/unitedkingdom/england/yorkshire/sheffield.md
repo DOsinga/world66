@@ -11,6 +11,10 @@ snippet: Steel city on Yorkshire hills, where industrial museums sit close to Pe
   District moorland
 title: Sheffield
 type: location
+image: sheffield.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sheffield,_United_Kingdom_(Unsplash_2x19-mRQgX8).jpg
+image_license: CC0
+image_attribution: Josh Boot joshboot
 ---
 
 Sheffield is a city built on steel — and on hills. England's fourth-largest city sits where the River Don meets the Sheaf, at the edge of the Peak District, and the combination of industrial grit and wild moorland is part of what makes it distinctive. The steelworks that once filled the Don Valley are mostly gone, but their legacy runs through the city's museums, its architecture, and its character.

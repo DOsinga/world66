@@ -9,6 +9,10 @@ snippet: Northern English mill town whose Victorian civic buildings reflect its 
   wealth and ambition.
 title: Bolton
 type: location
+image: bolton.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bolton_Abbey,_England,_United_Kingdom.jpg
+image_license: CC BY 2.0
+image_attribution: James Donkin
 ---
 
 Bolton is a northern English town that wears its industrial heritage without apology. The cotton mills that powered its Victorian growth have largely been repurposed or demolished, but the grand civic buildings they funded -- the neoclassical Town Hall, the imposing Albert Halls -- still anchor a town center that speaks of serious money and serious ambition. Bolton was a powerhouse of the Industrial Revolution, and you can still feel that energy in the scale of its architecture.

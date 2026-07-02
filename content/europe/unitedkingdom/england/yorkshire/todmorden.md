@@ -14,6 +14,8 @@ snippet: Pennine market town in Calderdale, where an Italianate town hall once s
   Yorkshire and Lancashire
 sources:
 - https://en.wikipedia.org/wiki/Todmorden
+tags:
+- south_pennines
 title: Todmorden
 type: location
 ---

@@ -12,6 +12,10 @@ snippet: West Yorkshire mill town between Leeds and Manchester, with Pennine vie
   from Castle Hill.
 title: Huddersfield
 type: location
+image: huddersfield.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Huddersfield,_United_Kingdom_(Unsplash).jpg
+image_license: CC0
+image_attribution: freddie marriage fredmarriage
 ---
 
 Huddersfield is a compact West Yorkshire mill town sitting between Leeds and Manchester, with more character than its modest reputation suggests. The surrounding Pennine landscape is genuinely dramatic, and the town itself has some worthwhile sights that reward a half-day stop.

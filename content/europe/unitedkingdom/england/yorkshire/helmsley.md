@@ -13,6 +13,10 @@ tags:
 - north_york_moors
 title: Helmsley
 type: location
+image: helmsley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Helmsley,_Bridge_Street_-_geograph.org.uk_-_6286928.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Michael Garlick
 ---
 
 Helmsley is a handsome North Yorkshire market town on the edge of the North York Moors. It has the stone-built good looks of a postcard village, but the reason it earns a day is the cluster of serious sights around it: a ruined castle in town, a walled garden beside it, and Rievaulx Abbey a good walk or short drive away.

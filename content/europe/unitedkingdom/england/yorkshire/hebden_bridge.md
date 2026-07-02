@@ -14,6 +14,8 @@ snippet: Calder Valley market town of steep terraces, independent shops, canals,
 sources:
 - https://en.wikipedia.org/wiki/Hebden_Bridge
 - https://en.wikipedia.org/wiki/Upper_Calder_Valley
+tags:
+- south_pennines
 title: Hebden Bridge
 type: location
 ---

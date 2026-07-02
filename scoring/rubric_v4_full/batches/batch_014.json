@@ -1,0 +1,585 @@
+[
+  {
+    "embedding_text": "Ikom, Nigeria, Africa",
+    "latitude": 5.962765,
+    "longitude": 8.723969,
+    "name": "Ikom",
+    "parent_chain": [
+      "Africa",
+      "Nigeria"
+    ],
+    "path": "africa/nigeria/ikom"
+  },
+  {
+    "embedding_text": "Callander, Scotland, United Kingdom, Europe",
+    "latitude": 56.243694,
+    "longitude": -4.214803,
+    "name": "Callander",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/callander"
+  },
+  {
+    "embedding_text": "Guaruj\u00e1, Brazil, South America",
+    "latitude": -23.992777,
+    "longitude": -46.255833,
+    "name": "Guaruj\u00e1",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/guaruja"
+  },
+  {
+    "embedding_text": "Blois, Loire valley, Centre, France, Europe",
+    "latitude": 47.587686,
+    "longitude": 1.333764,
+    "name": "Blois",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre",
+      "Loire valley"
+    ],
+    "path": "europe/france/centre/loirevalley/blois"
+  },
+  {
+    "embedding_text": "San Fernando, Trinidad and Tobago, North America",
+    "latitude": 10.2803,
+    "longitude": -61.4681,
+    "name": "San Fernando",
+    "parent_chain": [
+      "North America",
+      "Trinidad and Tobago"
+    ],
+    "path": "northamerica/trinidadandtobago/sanfernando"
+  },
+  {
+    "embedding_text": "Warsaw, Indiana, United States, North America",
+    "latitude": 41.238102,
+    "longitude": -85.853054,
+    "name": "Warsaw",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Indiana"
+    ],
+    "path": "northamerica/unitedstates/indiana/warsaw"
+  },
+  {
+    "embedding_text": "Cuman\u00e1, Venezuela, South America",
+    "latitude": 10.4496,
+    "longitude": -64.1578,
+    "name": "Cuman\u00e1",
+    "parent_chain": [
+      "South America",
+      "Venezuela"
+    ],
+    "path": "southamerica/venezuela/cumana"
+  },
+  {
+    "embedding_text": "Le Carbet, Martinique, The Caribbean, North America",
+    "latitude": 14.7167,
+    "longitude": -61.1833,
+    "name": "Le Carbet",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Martinique"
+    ],
+    "path": "northamerica/thecaribbean/martinique/le_carbet"
+  },
+  {
+    "embedding_text": "Beidaihe, Hebei Province, China, Asia",
+    "latitude": 39.8336,
+    "longitude": 119.4897,
+    "name": "Beidaihe",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Hebei Province"
+    ],
+    "path": "asia/china/hebei/bei_dai_he"
+  },
+  {
+    "embedding_text": "Yongzhou, Hunan, China, Asia",
+    "latitude": 26.4515,
+    "longitude": 111.5953,
+    "name": "Yongzhou",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Hunan"
+    ],
+    "path": "asia/china/hunan/yongzhou"
+  },
+  {
+    "embedding_text": "Lake Constance, Baden-W\u00fcrttemberg, Germany, Europe",
+    "latitude": 47.647769,
+    "longitude": 9.34718,
+    "name": "Lake Constance",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Baden-W\u00fcrttemberg"
+    ],
+    "path": "europe/germany/badenwrttemberg/lakeconstance"
+  },
+  {
+    "embedding_text": "Ansbach, Bavaria, Germany, Europe",
+    "latitude": 49.288874,
+    "longitude": 10.559769,
+    "name": "Ansbach",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/ansbach"
+  },
+  {
+    "embedding_text": "Valdes Peninsula, Patagonia, Argentina, South America",
+    "latitude": -42.4752,
+    "longitude": -64.1149,
+    "name": "Valdes Peninsula",
+    "parent_chain": [
+      "South America",
+      "Argentina",
+      "Patagonia"
+    ],
+    "path": "southamerica/argentina/patagonia/valdespeninsula"
+  },
+  {
+    "embedding_text": "Timor, Indonesia, Asia",
+    "latitude": -9.75,
+    "longitude": 124.0,
+    "name": "Timor",
+    "parent_chain": [
+      "Asia",
+      "Indonesia"
+    ],
+    "path": "asia/indonesia/timor"
+  },
+  {
+    "embedding_text": "Reconquista, Argentina, South America",
+    "latitude": -29.144348,
+    "longitude": -59.643773,
+    "name": "Reconquista",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/reconquista"
+  },
+  {
+    "embedding_text": "Apaneca, El Salvador, North America",
+    "latitude": 13.85,
+    "longitude": -89.8,
+    "name": "Apaneca",
+    "parent_chain": [
+      "North America",
+      "El Salvador"
+    ],
+    "path": "northamerica/elsalvador/apaneca"
+  },
+  {
+    "embedding_text": "Porkeri, Su\u00f0uroy, Faroe Islands, Europe",
+    "latitude": 61.481959,
+    "longitude": -6.746296,
+    "name": "Porkeri",
+    "parent_chain": [
+      "Europe",
+      "Faroe Islands",
+      "Su\u00f0uroy"
+    ],
+    "path": "europe/faroeislands/suuroy/porkeri"
+  },
+  {
+    "embedding_text": "Santa Isabel, Solomon Islands, Australia, Pacific & Antarctica",
+    "latitude": -8.0412,
+    "longitude": 159.2113,
+    "name": "Santa Isabel",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Solomon Islands"
+    ],
+    "path": "australiaandpacific/solomonislands/santaisabel"
+  },
+  {
+    "embedding_text": "Ch\u00e2teau de Val, Limousin, Centre, France, Europe",
+    "latitude": 45.442681,
+    "longitude": 2.505324,
+    "name": "Ch\u00e2teau de Val",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre",
+      "Limousin"
+    ],
+    "path": "europe/france/centre/limousin/chateaudeval"
+  },
+  {
+    "embedding_text": "Johnson City, Tennessee, United States, North America",
+    "latitude": 36.316767,
+    "longitude": -82.352903,
+    "name": "Johnson City",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Tennessee"
+    ],
+    "path": "northamerica/unitedstates/tennessee/johnson_city"
+  },
+  {
+    "embedding_text": "Robinson Crusoe Island, Chile, South America",
+    "latitude": -33.64445,
+    "longitude": -78.826224,
+    "name": "Robinson Crusoe Island",
+    "parent_chain": [
+      "South America",
+      "Chile"
+    ],
+    "path": "southamerica/chile/robinson_crusoe_island"
+  },
+  {
+    "embedding_text": "Bangka Island, Indonesia, Asia",
+    "latitude": -2.308124,
+    "longitude": 106.028152,
+    "name": "Bangka Island",
+    "parent_chain": [
+      "Asia",
+      "Indonesia"
+    ],
+    "path": "asia/indonesia/bangka_island"
+  },
+  {
+    "embedding_text": "Sravanabelagola, Karnataka, India, Asia",
+    "latitude": 12.8547,
+    "longitude": 76.4859,
+    "name": "Sravanabelagola",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Karnataka"
+    ],
+    "path": "asia/india/karnataka/sravanabelagola"
+  },
+  {
+    "embedding_text": "Canaima National Park, Venezuela, South America",
+    "latitude": 6.2333,
+    "longitude": -62.85,
+    "name": "Canaima National Park",
+    "parent_chain": [
+      "South America",
+      "Venezuela"
+    ],
+    "path": "southamerica/venezuela/canaima"
+  },
+  {
+    "embedding_text": "Rockville, Montgomery County, Maryland, United States, North America",
+    "latitude": 39.081798,
+    "longitude": -77.151684,
+    "name": "Rockville",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maryland",
+      "Montgomery County"
+    ],
+    "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville"
+  },
+  {
+    "embedding_text": "Bou Sa\u00e2da, Algeria, Africa",
+    "latitude": 35.213312,
+    "longitude": 4.18097,
+    "name": "Bou Sa\u00e2da",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/bousaada"
+  },
+  {
+    "embedding_text": "Hurricane, Utah, United States, North America",
+    "latitude": 37.1753,
+    "longitude": -113.2899,
+    "name": "Hurricane",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/hurricane"
+  },
+  {
+    "embedding_text": "Espoo, Finland, Europe",
+    "latitude": 60.205,
+    "longitude": 24.656,
+    "name": "Espoo",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/espoo"
+  },
+  {
+    "embedding_text": "Jamestown, Gold Country, California, United States, North America",
+    "latitude": 37.954,
+    "longitude": -120.4227,
+    "name": "Jamestown",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Gold Country"
+    ],
+    "path": "northamerica/unitedstates/california/goldcountry/jamestown"
+  },
+  {
+    "embedding_text": "Kep, Cambodia, Asia",
+    "latitude": 10.4822,
+    "longitude": 104.3167,
+    "name": "Kep",
+    "parent_chain": [
+      "Asia",
+      "Cambodia"
+    ],
+    "path": "asia/cambodia/kep"
+  },
+  {
+    "embedding_text": "Somnath, Gujarat, India, Asia",
+    "latitude": 20.888532,
+    "longitude": 70.401425,
+    "name": "Somnath",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/somnath"
+  },
+  {
+    "embedding_text": "\u0160pindler\u016fv Ml\u00fdn, Czech Republic, Europe",
+    "latitude": 50.725645,
+    "longitude": 15.606757,
+    "name": "\u0160pindler\u016fv Ml\u00fdn",
+    "parent_chain": [
+      "Europe",
+      "Czech Republic"
+    ],
+    "path": "europe/czechrepublic/spindleruvmlyn"
+  },
+  {
+    "embedding_text": "Cooperstown, New York State, United States, North America",
+    "latitude": 42.7008,
+    "longitude": -74.9253,
+    "name": "Cooperstown",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/cooperstown"
+  },
+  {
+    "embedding_text": "Lake Vico, Lazio, Italy, Europe",
+    "latitude": 42.320498,
+    "longitude": 12.174887,
+    "name": "Lake Vico",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lazio"
+    ],
+    "path": "europe/italy/lazio/lakevico"
+  },
+  {
+    "embedding_text": "Oxford, Mississippi, United States, North America",
+    "latitude": 34.366377,
+    "longitude": -89.518766,
+    "name": "Oxford",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Mississippi"
+    ],
+    "path": "northamerica/unitedstates/mississippi/oxford"
+  },
+  {
+    "embedding_text": "Dushanbe, Tajikistan, Asia",
+    "latitude": 38.5762,
+    "longitude": 68.7864,
+    "name": "Dushanbe",
+    "parent_chain": [
+      "Asia",
+      "Tajikistan"
+    ],
+    "path": "asia/tajikistan/dushanbe"
+  },
+  {
+    "embedding_text": "Valentine, Nebraska, United States, North America",
+    "latitude": 42.874675,
+    "longitude": -100.550616,
+    "name": "Valentine",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Nebraska"
+    ],
+    "path": "northamerica/unitedstates/nebraska/valentine"
+  },
+  {
+    "embedding_text": "S\u00e1toralja\u00fajhely, Hungary, Europe",
+    "latitude": 48.396098,
+    "longitude": 21.65615,
+    "name": "S\u00e1toralja\u00fajhely",
+    "parent_chain": [
+      "Europe",
+      "Hungary"
+    ],
+    "path": "europe/hungary/satoraljaujhely"
+  },
+  {
+    "embedding_text": "Jermuk, Vayots Dzor Marz, Armenia, Europe",
+    "latitude": 39.838819,
+    "longitude": 45.671264,
+    "name": "Jermuk",
+    "parent_chain": [
+      "Europe",
+      "Armenia",
+      "Vayots Dzor Marz"
+    ],
+    "path": "europe/armenia/vayots_dzor_marz/jermuk"
+  },
+  {
+    "embedding_text": "Round Top, Texas, United States, North America",
+    "latitude": 30.065101,
+    "longitude": -96.695545,
+    "name": "Round Top",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/round_top"
+  },
+  {
+    "embedding_text": "Phu Quoc, Vietnam, Asia",
+    "latitude": 10.2899,
+    "longitude": 103.984,
+    "name": "Phu Quoc",
+    "parent_chain": [
+      "Asia",
+      "Vietnam"
+    ],
+    "path": "asia/vietnam/phu_quoc"
+  },
+  {
+    "embedding_text": "Manuae, Cook Islands, Australia, Pacific & Antarctica",
+    "latitude": -19.2748,
+    "longitude": -158.962403,
+    "name": "Manuae",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Cook Islands"
+    ],
+    "path": "australiaandpacific/cookislands/manuae"
+  },
+  {
+    "embedding_text": "Lessinia, Veneto, Italy, Europe",
+    "latitude": 45.657829,
+    "longitude": 11.149171,
+    "name": "Lessinia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Veneto"
+    ],
+    "path": "europe/italy/veneto/lessinia"
+  },
+  {
+    "embedding_text": "Pittsfield, Massachusetts, United States, North America",
+    "latitude": 42.45,
+    "longitude": -73.25,
+    "name": "Pittsfield",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Massachusetts"
+    ],
+    "path": "northamerica/unitedstates/massachusetts/pittsfield"
+  },
+  {
+    "embedding_text": "Ciudad Obreg\u00f3n, Mexico, North America",
+    "latitude": 27.484662,
+    "longitude": -109.933778,
+    "name": "Ciudad Obreg\u00f3n",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/ciudad_obregn"
+  },
+  {
+    "embedding_text": "Legal, Alberta, Canada, North America",
+    "latitude": 53.948741,
+    "longitude": -113.595427,
+    "name": "Legal",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Alberta"
+    ],
+    "path": "northamerica/canada/alberta/legal"
+  },
+  {
+    "embedding_text": "Fraserburgh, Scotland, United Kingdom, Europe",
+    "latitude": 57.6939,
+    "longitude": -2.0059,
+    "name": "Fraserburgh",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/fraserburgh"
+  },
+  {
+    "embedding_text": "Salt Cay, Turks and Caicos Islands, North America",
+    "latitude": 21.333,
+    "longitude": -71.2,
+    "name": "Salt Cay",
+    "parent_chain": [
+      "North America",
+      "Turks and Caicos Islands"
+    ],
+    "path": "northamerica/turksandcaicosislands/saltcay"
+  },
+  {
+    "embedding_text": "Sheikhupura, Pakistan, Asia",
+    "latitude": 31.7131,
+    "longitude": 73.985,
+    "name": "Sheikhupura",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/sheikhu_pura"
+  },
+  {
+    "embedding_text": "Wanganui, Manawatu-Whanganui Region, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -39.9325,
+    "longitude": 175.0519,
+    "name": "Wanganui",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Manawatu-Whanganui Region"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui"
+  }
+]

@@ -11,6 +11,8 @@ longitude: -2.0166
 score: 7.91
 snippet: Yorkshire market town with a medieval castle, canal towpath, and access to
   the Dales.
+tags:
+- yorkshire_dales
 title: Skipton
 type: location
 ---

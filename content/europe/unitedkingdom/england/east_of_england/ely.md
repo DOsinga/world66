@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ely,_Cambridgeshire
 title: Ely
 type: location
+image: ely.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Colin
 ---
 
 Ely is a small cathedral city in the Cambridgeshire fens, about fifteen miles north of Cambridge. The city essentially exists because of its cathedral, and so do most of its visitors — [Ely Cathedral](/europe/unitedkingdom/england/eastern_england/ely/ely_cathedral) is one of the great medieval buildings of England.

@@ -1270,6 +1270,14 @@ img { max-width: 100%; height: auto; }
   color: #111;
 }
 
+.map-tip-link {
+  color: inherit;
+  text-decoration: none;
+}
+.map-tip-link:hover { text-decoration: underline; }
+
+.map-dot-clickable { cursor: pointer; }
+
 .map-tip-snippet {
   font-family: var(--body-font);
   font-size: 11px;

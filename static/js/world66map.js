@@ -190,15 +190,23 @@ function initLocationMap(elementId, markers, options) {
     _tip.style.cssText = 'position:absolute;z-index:9999;display:none;pointer-events:none';
     var _tipMarker = null;
 
+    // Keep the tooltip open while the cursor is over it, so users can click the link.
+    _tip.addEventListener('mouseenter', function() { _tip.style.display = 'block'; });
+    _tip.addEventListener('mouseleave', _hideTip);
+
     function _showTip(m) {
+        var nameHtml = m.url
+            ? '<a href="' + m.url + '" class="map-tip-link">' + (m.name || '') + '</a>'
+            : (m.name || '');
         if (m.snippet) {
             _tip.className = 'map-name-tip map-name-tip--rich';
-            _tip.innerHTML = '<span class="map-tip-name">' + (m.name || '') + '</span>'
+            _tip.innerHTML = '<span class="map-tip-name">' + nameHtml + '</span>'
                            + '<div class="map-tip-snippet">' + m.snippet + '</div>';
         } else {
             _tip.className = 'map-name-tip';
-            _tip.innerHTML = m.name || '';
+            _tip.innerHTML = nameHtml;
         }
+        _tip.style.pointerEvents = m.url ? 'auto' : 'none';
         _tip.style.display = 'block';
         _tipMarker = m;
         _positionTip();
@@ -239,6 +247,10 @@ function initLocationMap(elementId, markers, options) {
         if (m.name) {
             mk.on('mouseover', function() { _showTip(m); });
             mk.on('mouseout',  _hideTip);
+        }
+        if (m.url) {
+            mk.on('click', function() { window.location.href = m.url; });
+            L.DomUtil.addClass(mk.getElement ? mk.getElement() : mk._icon, 'map-dot-clickable');
         }
         mk.addTo(group);
     }

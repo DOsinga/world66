@@ -9,6 +9,10 @@ tags:
 - thecaribbean
 title: Trinidad and Tobago
 type: location
+image: trinidadandtobago.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maracas_Bay_-_Trinidad,_West_Indies.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Kalamazadkhan
 ---
 
 Trinidad and Tobago is a twin-island republic at the southern end of the Caribbean, so close to Venezuela that on a clear day you can see the South American coast from the hills above [Port of Spain](/northamerica/trinidadandtobago/port_of_spain). The two islands are geologically, culturally, and temperamentally quite different from each other, and together they are unlike anywhere else in the Caribbean.

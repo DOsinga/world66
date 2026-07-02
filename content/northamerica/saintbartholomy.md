@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_the_Anse_de_Grand
 latitude: 17.8988
 loc_type: city
 longitude: -62.8508
-score: 9.18
+score: 0.6
 snippet: Small French Caribbean island of steep hills, Gustavia harbour, expensive
   restaurants, and white-sand beaches.
 tags:

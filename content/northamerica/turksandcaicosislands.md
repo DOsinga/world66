@@ -9,6 +9,10 @@ tags:
 - thecaribbean
 title: Turks and Caicos Islands
 type: location
+image: turksandcaicosislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_in_Grace_Bay,_Turks_and_Caicos_Islands.jpg
+image_license: CC BY 2.0
+image_attribution: Jason Boldero
 ---
 
 The Turks and Caicos Islands is a British Overseas Territory in the Atlantic Ocean, southeast of the Bahamas and north of Haiti. It consists of two island groups — the Caicos Islands to the west and the Turks Islands to the east, separated by the deep Turks Island Passage — plus numerous cays and uninhabited islets. The territory has a population of around 50,000, concentrated on Providenciales, Grand Turk, and South Caicos.

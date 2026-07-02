@@ -7,6 +7,10 @@ snippet: Island region between North and South America, shaped by volcanic peaks
   coral atolls, and colonial histories.
 title: The Caribbean
 type: location
+image: thecaribbean.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Klein_Curacao_Aerial_(213574343).jpeg
+image_license: CC BY 3.0
+image_attribution: Dronepicr
 ---
 
 The Caribbean is a region of island nations and territories scattered across the Caribbean Sea between North and South America. Spanning from Cuba in the north to Trinidad at the southern fringe, it encompasses enormous variety: mountainous volcanic islands still rising from the sea, low coral atolls barely above the waterline, former British, French, Dutch, and Spanish colonies, each carrying distinct languages, cuisines, and characters shaped by their different colonial and post-colonial histories.

@@ -487,8 +487,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             ]
 
     # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
-    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
-    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    # For feature pages, fall back to linked_locations when there are no direct children
+    marker_locations = top_locations or linked_locations[:9]
+    marker_locations_full = locations or linked_locations
+    markers = _collect_markers(page, nav_pages, marker_locations, pois, city_tag_index=city_tag_index)
+    markers_full = _collect_markers(page, nav_pages, marker_locations_full, pois, city_tag_index=city_tag_index)
 
     breadcrumbs = page.breadcrumbs()
 

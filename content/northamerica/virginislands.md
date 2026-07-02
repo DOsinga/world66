@@ -11,6 +11,10 @@ tags:
 - thecaribbean
 title: US Virgin Islands
 type: location
+image: virginislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Charlotte_Amalie_harbor,_Saint_Thomas,_US_Virgin_Islands.jpg
+image_license: CC BY-SA 3.0
+image_attribution: OldPine
 ---
 
 The US Virgin Islands were bought from Denmark in 1917 for $25 million in gold — one of the stranger real-estate transactions in Caribbean history. Columbus named them Las Vírgenes in 1493, in honour of St. Ursula's legendary 10,000 martyred virgins. Today the territory consists of three main islands, each with a distinct character.

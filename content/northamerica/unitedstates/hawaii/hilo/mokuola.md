@@ -1,8 +1,8 @@
 ---
 title: 'Mokuola'
 type: poi
-latitude: 19.7288
-longitude: -155.0640
+latitude: 19.7294
+longitude: -155.0686
 tags:
   - things_to_do
   - park

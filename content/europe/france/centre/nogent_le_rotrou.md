@@ -6,13 +6,18 @@ latitude: 48.3217
 longitude: 0.8217
 wikidata: Q214432
 score: 6.7
-snippet: Perche market town in France's Centre region, watched over by a heavy medieval castle.
+snippet: Perche market town in France's Centre region, watched over by a heavy medieval
+  castle.
 sources:
 - https://en.wikivoyage.org/wiki/Nogent-le-Rotrou
 - https://www.wikidata.org/wiki/Q214432
 - https://en.wikipedia.org/wiki/Nogent-le-Rotrou
 - https://www.france-voyage.com/cities-towns/nogent-le-rotrou-8742/castle-saint-jean-34458.htm
 - https://www.chartres-tourisme.com/en/explore/tours-and-visits/musee-de-l-histoire-du-perche-3678577
+image: nogent_le_rotrou.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gare_de_Nogent-le-Rotrou_(28).JPG
+image_license: CC BY-SA 3.0
+image_attribution: Florian Pépellin (Floflo)
 ---
 
 Nogent-le-Rotrou is a small town in the Perche, west of [Chartres](/europe/france/centre/chartres) and east of Le Mans. It was once the capital of the Counts of Perche, and the old power still shows in the castle that sits above the Huisne valley.

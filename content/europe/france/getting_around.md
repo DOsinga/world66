@@ -5,7 +5,7 @@ type: section
 
 **By Train**
 
-France has some of the fastest and most comfortable trains in Europe. The TGV (Train à Grande Vitesse) connects [Paris](/europe/france/paris) to most major cities at speeds up to 320 km/h. [Lyon](/europe/france/alpes/lyon), [Marseille](/europe/france/midi/cotedazur/marseille), [Bordeaux](/europe/france/aquitaine/bordeaux), Nantes, and [Lille](/europe/france/nord/lille) are all under three hours from the capital. Book through SNCF Connect (sncf-connect.com) or Trainline — early bookings get significantly cheaper fares.
+France has some of the fastest and most comfortable trains in Europe. The TGV (Train à Grande Vitesse) connects [Paris](/europe/france/paris) to most major cities at speeds up to 320 km/h. [Lyon](/europe/france/alpes/lyon), [Marseille](/europe/france/cotedazur/marseille), [Bordeaux](/europe/france/aquitaine/bordeaux), Nantes, and [Lille](/europe/france/nord/lille) are all under three hours from the capital. Book through SNCF Connect (sncf-connect.com) or Trainline — early bookings get significantly cheaper fares.
 
 Regional TER trains are the workhorses for shorter hops and connect smaller towns not served by TGV. Passes such as the Eurail France Pass can offer good value if you plan to travel frequently.
 

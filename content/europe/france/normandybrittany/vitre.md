@@ -5,11 +5,18 @@ longitude: -1.2081
 score: 7.8
 snippet: Small Breton medieval town with a powerful castle and half-timbered streets.
 sources:
-  - https://en.wikivoyage.org/wiki/Vitr%C3%A9
-  - https://en.wikipedia.org/wiki/Vitr%C3%A9,_Ille-et-Vilaine
-  - https://www.wikidata.org/wiki/Q234704
+- https://en.wikivoyage.org/wiki/Vitr%C3%A9
+- https://en.wikipedia.org/wiki/Vitr%C3%A9,_Ille-et-Vilaine
+- https://www.wikidata.org/wiki/Q234704
 title: Vitré
 type: location
+image: vitre.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Centre_historique.JPG
+image_license: CC BY-SA 3.0
+image_attribution: 'The original uploader was Pacoviande at French Wikipedia.
+
+
+  Later versions were uploaded by Grondin at fr.wikipedia.'
 ---
 
 Vitré is a small medieval town on the eastern edge of Brittany, where the old duchy met Normandy, Maine, and Anjou. It is compact, steep in places, and still has the feel of a frontier town built for defence and trade.

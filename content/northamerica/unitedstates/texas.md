@@ -46,6 +46,6 @@ Matagorda County |
 [Round Top](/northamerica/unitedstates/texas/round_top) |
 [San Angelo](/northamerica/unitedstates/texas/san_angelo) |
 [South Padre Island](/northamerica/unitedstates/texas/southpadreisland) |
-[Texarkana](/northamerica/unitedstates/texas/texarkana) |
+[Texarkana](/northamerica/unitedstates/arkansas/texarkana) |
 [The Woodlands](/northamerica/unitedstates/texas/the_woodlands) |
 [Waxahachie](/northamerica/unitedstates/texas/waxahachie)

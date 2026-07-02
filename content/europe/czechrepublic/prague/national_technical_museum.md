@@ -1,17 +1,18 @@
 ---
 title: National Technical Museum
 type: poi
-latitude: 50.0973
-longitude: 14.4249
-score: 8.0
+latitude: 50.0976225
+longitude: 14.4248611
+score: 8.1
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Prague/Praha_5
+source_url: https://en.wikivoyage.org/wiki/Rail_travel_in_Czech_Republic
+url: http://www.ntm.cz/en
 tags:
   - things_to_do
   - museum
-  - technology
+  - holesovice
 ---
 
-Prague's National Technical Museum has a strong collection of motorcycles, cars, aircraft, commercial vehicles, and industrial machines. The transport hall is the crowd-pleaser, but the wider museum also gives good context for Czech engineering and communist-era technology.
+Prague's National Technical Museum is one of the city's best museums beyond the old-town circuit. Its transport hall is the showpiece, filled with historic cars, aircraft, bicycles, and locomotives, including a large steam engine that dominates the space.
 
-It is one of Prague's better choices for families and for travelers who want a museum break from churches, palaces, and old town streets.
+The wider collection covers astronomy, printing, photography, mining, and everyday technology. Allow at least two hours, more if you are travelling with children or have any interest in machines, design, or industrial history.

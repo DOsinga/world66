@@ -1,19 +1,18 @@
 ---
 title: Museum of the Great Patriotic War
 type: poi
-latitude: 55.73078
-longitude: 37.50488
-score: 8.1
+latitude: 55.7308
+longitude: 37.505
+score: 8.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Kolomenskoye
+source_url: "https://en.wikivoyage.org/wiki/Aviation_history"
 tags:
   - things_to_do
   - museum
   - history
-  - war
-  - memorial
+  - military
 ---
 
-The Museum of the Great Patriotic War is Moscow's major museum of the Soviet experience in World War II. Its halls mix military history, memorial space, dioramas, portraits, weapons, documents, and large ceremonial rooms dedicated to commanders and decorated soldiers.
+The Museum of the Great Patriotic War anchors the Victory Park memorial complex on Poklonnaya Hill. Its galleries cover the Soviet experience of the Second World War through documents, dioramas, military equipment, and memorial halls.
 
-The tone is solemn and patriotic, as you would expect in Russia's central war museum. Even if you do not follow every detail, the scale of the place makes clear how central the war remains to Russian public memory.
+The outdoor displays of wartime aircraft and vehicles add scale to the visit. It pairs naturally with a walk through Victory Park, but the museum is substantial enough to justify time on its own.

@@ -1,19 +1,18 @@
 ---
 title: Copp's Hill Burying Ground
 type: poi
-latitude: 42.3671
-longitude: -71.0565
-score: 7.5
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Freedom_Trail
+source_url: https://en.wikivoyage.org/wiki/Boston/North_End
+latitude: 42.367222
+longitude: -71.056389
 tags:
-  - things_to_do
-  - sight
-  - cemetery
-  - history
-  - north_end
+- things_to_do
+- north_end
+- cemetery
+- historic_site
+score: 7.2
 ---
 
-Copp's Hill Burying Ground is one of Boston's oldest cemeteries, dating to 1660 and sitting above the North End. Its graves include colonial merchants, ministers, craftspeople, Black Bostonians who worked in the shipyards, educator Prince Hall, and Robert Newman, the sexton linked to the lantern signal at Old North Church.
+Copp's Hill Burying Ground is Boston's second cemetery, founded in 1659 on a rise above the North End. More than 1,200 marked graves remain, including members of the Mather family and other early Bostonians.
 
-The hill also has Revolutionary War history: British soldiers used it as an artillery position during the Battle of Bunker Hill. It is an easy, worthwhile stop on the Freedom Trail between Old North Church and the climb toward Charlestown.
+During the Revolutionary War, British troops used some patriot headstones for target practice, and visitors can still spot musket marks in the stone. Combine it with Old North Church and the Paul Revere House for a compact walk through the North End's colonial history.

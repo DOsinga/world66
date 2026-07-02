@@ -153,11 +153,19 @@ function _makePinIcon(label, cls) {
     });
 }
 
-function _addSplitTiles(map) {
-    // Labels-free base only — our own text markers replace OSM labels
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        subdomains: 'abcd', maxZoom: 19,
-    }).addTo(map);
+function _addSplitTiles(map, isPoi) {
+    if (isPoi) {
+        // POI maps zoom to street level — use a labeled tile layer so streets
+        // and district names give the reader spatial context.
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            subdomains: 'abcd', maxZoom: 19,
+        }).addTo(map);
+    } else {
+        // City / region maps use our own text markers instead of OSM labels.
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+            subdomains: 'abcd', maxZoom: 19,
+        }).addTo(map);
+    }
 }
 
 function initLocationMap(elementId, markers, options) {
@@ -168,7 +176,7 @@ function initLocationMap(elementId, markers, options) {
         scrollWheelZoom: true,
     });
 
-    _addSplitTiles(map);
+    _addSplitTiles(map, options.isPoi);
 
     const group = L.featureGroup();
     group.addTo(map);

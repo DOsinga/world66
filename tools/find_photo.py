@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 Find and assign copyright-free photos to World66 content pages.
 

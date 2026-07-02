@@ -7,6 +7,10 @@ snippet: Ancient English forest region of former mining railways, Wye Valley wat
   and family cycling trails
 title: Forest of Dean
 type: location
+image: forestofdean.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Into_the_Forest_of_Dean,_Gloucestershire_-_geograph.org.uk_-_7632280.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Jaggery
 ---
 
 Travel Guide

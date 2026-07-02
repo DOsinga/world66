@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-07-02'
 image: cuernavaca.jpg
 image_attribution: AlejandroLinaresGarcia
 image_license: CC BY-SA 4.0

@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - archaeology
-latitude: 18.9278
-longitude: -99.2247
+latitude: 18.9304
+longitude: -99.2221
 sources:
   - https://en.wikipedia.org/wiki/Teopanzolco
 score: 7.4

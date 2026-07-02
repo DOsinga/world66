@@ -11,6 +11,8 @@ longitude: -1.910077
 score: 7.17
 snippet: High Derbyshire spa town with Georgian crescents, thermal springs, and Peak
   District hills at its doorstep.
+tags:
+- peak_district
 title: Buxton
 type: location
 ---

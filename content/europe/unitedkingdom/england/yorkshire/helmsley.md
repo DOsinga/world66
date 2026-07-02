@@ -1,15 +1,18 @@
 ---
-title: Helmsley
-type: location
-loc_type: city
 latitude: 54.247
+loc_type: city
 longitude: -1.054
 score: 7.0
-snippet: North Yorkshire market town with a castle, abbey ruins, and walking routes into the moors.
+snippet: North Yorkshire market town with a castle, abbey ruins, and walking routes
+  into the moors.
 sources:
-  - https://en.wikivoyage.org/wiki/Helmsley
-  - https://www.northyorkmoors.org.uk/places-to-go/helmsley
-  - https://www.english-heritage.org.uk/visit/places/helmsley-castle/
+- https://en.wikivoyage.org/wiki/Helmsley
+- https://www.northyorkmoors.org.uk/places-to-go/helmsley
+- https://www.english-heritage.org.uk/visit/places/helmsley-castle/
+tags:
+- north_york_moors
+title: Helmsley
+type: location
 ---
 
 Helmsley is a handsome North Yorkshire market town on the edge of the North York Moors. It has the stone-built good looks of a postcard village, but the reason it earns a day is the cluster of serious sights around it: a ruined castle in town, a walled garden beside it, and Rievaulx Abbey a good walk or short drive away.

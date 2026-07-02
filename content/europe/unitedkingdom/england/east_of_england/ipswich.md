@@ -21,4 +21,4 @@ The town's medieval prosperity is still visible in its street plan and in the do
 
 Ipswich has had a rougher ride than its neighbour [Bury St Edmunds](/europe/unitedkingdom/england/eastern_england/bury_st_edmunds) since deindustrialisation, and parts of the town centre are undeniably scruffy. But the Waterfront regeneration has brought real energy, the local football club (Ipswich Town) generates fierce civic pride, and the market town culture of Suffolk bleeds in at the edges — good food, good produce, not much pretension.
 
-It makes a decent base for exploring the Suffolk coast, the Dedham Vale, and the wool towns of the Stour Valley. [Constable Country](/europe/unitedkingdom/suffolk) is practically on the doorstep.
+It makes a decent base for exploring the Suffolk coast, the Dedham Vale, and the wool towns of the Stour Valley. [Constable Country](/europe/unitedkingdom/england/east_of_england) is practically on the doorstep.

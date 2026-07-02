@@ -1,5 +1,5 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
@@ -7,4 +7,4 @@ The town centre and Waterfront are both compact and easily walkable. From the tr
 
 Local buses connect the centre to the suburbs and outer areas, but within the historic core you will not need them. Taxis are available outside the station.
 
-Ipswich is reasonably bike-friendly with some dedicated cycle routes, particularly along the Waterfront. Cycling to [Sutton Hoo](/europe/unitedkingdom/england/suffolk) is possible via the River Orwell path for the more adventurous.
+Ipswich is reasonably bike-friendly with some dedicated cycle routes, particularly along the Waterfront. Cycling to [Sutton Hoo](/europe/unitedkingdom/england/east_of_england) is possible via the River Orwell path for the more adventurous.

@@ -435,11 +435,15 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     loc.word_cloud_center = loc.title
                     loc.word_cloud_top = []
                     loc.word_cloud_bottom = [p.title for p in children]
-    top_locations = locations[:9]
-    more_locations = sorted(locations, key=lambda loc: loc.title)
+    _CARD_THRESHOLD = 18
+    _CARD_MAX = 9
+    _top_n = len(locations) if len(locations) <= _CARD_THRESHOLD else _CARD_MAX
+    top_locations = locations[:_top_n]
+    more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
+    more_linked_locations = []
     if page.meta.get('loc_type') == 'feature':
         linked_locations = sorted(
             find_locations_tagged(page.slug, page.path),
@@ -448,6 +452,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         for loc in linked_locations:
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+        _ll_top_n = len(linked_locations) if len(linked_locations) <= _CARD_THRESHOLD else _CARD_MAX
+        more_linked_locations = sorted(linked_locations[_ll_top_n:], key=lambda p: p.title)
+        linked_locations = linked_locations[:_ll_top_n]
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
@@ -486,9 +493,13 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 for s, sp in candidate_sections
             ]
 
-    # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
-    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
-    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    # Map markers: top 9 for initial view, all locations for dynamic zoom filtering.
+    # For feature pages, include linked_locations (tagged cities) in the map.
+    _all_linked = linked_locations + more_linked_locations
+    _map_top = top_locations + (linked_locations if _all_linked else [])
+    _map_all = locations + (_all_linked if _all_linked else [])
+    markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
+    markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
     breadcrumbs = page.breadcrumbs()
 
@@ -527,6 +538,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
+        "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
     })
 

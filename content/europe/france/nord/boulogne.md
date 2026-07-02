@@ -10,6 +10,10 @@ snippet: Fishing port on France's northern coast, with a walled Haute Ville abov
   the working harbour.
 title: Boulogne
 type: location
+image: boulogne.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boulogne_Basilique_001.jpg
+image_license: CC BY 3.0
+image_attribution: Marc Ryckaert
 ---
 
 Boulogne-sur-Mer is France's busiest fishing port and, for many British visitors, the first taste of France. Most people roll off the ferry and drive straight south — which is a mistake. The [Haute Ville](/europe/france/nord/boulogne/haute_ville) perched on the hill is genuinely lovely: [medieval ramparts](/europe/france/nord/boulogne/ramparts) you can walk in their entirety, the [Basilique Notre-Dame](/europe/france/nord/boulogne/basilique_notre_dame) with its enormous crypt, and cobbled streets that feel nothing like a tourist trap. Give it a night, not just a lunch stop.

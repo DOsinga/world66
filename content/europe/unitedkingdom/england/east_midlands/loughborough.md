@@ -1,9 +1,6 @@
 ---
 done:
   location_enrich: '2026-06-02'
-image: loughborough.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Loughborough_Carillon_tower.jpg
 latitude: 52.772386
 loc_type: city
 longitude: -1.207798
@@ -12,6 +9,10 @@ snippet: Leicestershire university town with a major sports campus and Britain's
   heritage railway.
 title: Loughborough
 type: location
+image: loughborough.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Loughborough_All_Saints_Oct_2019.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bellminsterboy
 ---
 
 Loughborough is a Leicestershire market town that runs largely on its university, which dominates the local economy and gives the place more energy than its size might suggest. Loughborough University is consistently rated among the best in the UK for sports, and the campus facilities were used as a training base for the 2012 Olympics. The student population keeps the town's pubs and restaurants ticking over, particularly along the high street and Baxter Gate.

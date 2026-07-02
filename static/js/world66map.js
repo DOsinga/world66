@@ -250,7 +250,6 @@ function initLocationMap(elementId, markers, options) {
         }
         if (m.url) {
             mk.on('click', function() { window.location.href = m.url; });
-            L.DomUtil.addClass(mk.getElement ? mk.getElement() : mk._icon, 'map-dot-clickable');
         }
         mk.addTo(group);
     }

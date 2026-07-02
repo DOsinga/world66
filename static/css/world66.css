@@ -1276,8 +1276,6 @@ img { max-width: 100%; height: auto; }
 }
 .map-tip-link:hover { text-decoration: underline; }
 
-.map-dot-clickable { cursor: pointer; }
-
 .map-tip-snippet {
   font-family: var(--body-font);
   font-size: 11px;

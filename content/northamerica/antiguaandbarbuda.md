@@ -5,6 +5,8 @@ longitude: -61.8175
 score: 0.48
 snippet: Twin-island Caribbean country where beach-ringed Antigua contrasts with quieter,
   low-lying Barbuda offshore.
+tags:
+- thecaribbean
 title: Antigua and Barbuda
 type: location
 ---

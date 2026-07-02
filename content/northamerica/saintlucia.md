@@ -16,6 +16,8 @@ quick_facts:
 score: 0.54
 snippet: Caribbean island country of volcanic Pitons, rainforest interior, banana
   plantations, and sheltered bays.
+tags:
+- thecaribbean
 title: Saint Lucia
 type: location
 ---

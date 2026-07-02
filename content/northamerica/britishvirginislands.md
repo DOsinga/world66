@@ -5,6 +5,8 @@ longitude: -64.623
 score: 0.48
 snippet: Caribbean island territory of volcanic hills, sailing channels, sheltered
   bays, and reef-ringed cays
+tags:
+- thecaribbean
 title: British Virgin Islands
 type: location
 ---

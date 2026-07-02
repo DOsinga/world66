@@ -5,6 +5,8 @@ longitude: -69.0
 score: 0.49
 snippet: Former Dutch Caribbean territory grouping six islands, from dry ABC beaches
   to volcanic SSS hills.
+tags:
+- thecaribbean
 title: Netherlands Antilles
 type: location
 ---

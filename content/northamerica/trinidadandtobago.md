@@ -5,6 +5,8 @@ longitude: -61.2225
 score: 0.53
 snippet: Twin-island Caribbean republic where Trinidad's Carnival culture contrasts
   with Tobago's slower beaches and reefs.
+tags:
+- thecaribbean
 title: Trinidad and Tobago
 type: location
 ---

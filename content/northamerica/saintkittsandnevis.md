@@ -5,6 +5,8 @@ longitude: -62.73
 score: 0.43
 snippet: Two-island Caribbean federation of volcanic peaks, sugar history, and Brimstone
   Hill fortifications.
+tags:
+- thecaribbean
 title: Saint Kitts and Nevis
 type: location
 ---

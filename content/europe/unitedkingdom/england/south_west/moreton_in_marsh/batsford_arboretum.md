@@ -1,7 +1,7 @@
 ---
 latitude: 52.0009
 longitude: -1.7367
-score: 0.70
+score: 7.0
 snippet: Private arboretum of 55 acres near Moreton-in-Marsh, with exceptional Japanese
   maples and a large bronze Buddha.
 tags:

@@ -1,7 +1,7 @@
 ---
 latitude: 52.0658
 longitude: -1.7494
-score: 0.82
+score: 8.2
 snippet: One of England's most influential 20th-century gardens, a series of outdoor
   rooms in contrasting styles.
 tags:

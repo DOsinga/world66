@@ -7,7 +7,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Alfre0411" title="
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Valle_de_Viñales_2.jpg
 latitude: 22.0
-loc_type: region
+loc_type: country
 longitude: -79.5
 score: 0.6
 snippet: Caribbean island nation of Spanish colonial cities, music, vintage cars,

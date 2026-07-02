@@ -9,7 +9,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Anguilla_Shoal_Bay_is_the_BEST_beach_in_the_Caribbean._-_panoramio.jpg
 latitude: 18.2206
-loc_type: region
+loc_type: country
 longitude: -63.0686
 score: 0.66
 snippet: Flat Eastern Caribbean island of pale beaches, strong restaurants, and low-key

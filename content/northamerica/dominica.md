@@ -8,7 +8,7 @@ image: dominica.jpg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Epiphyte_air_plant_DOMINICA_5396.jpg
 latitude: 15.415
-loc_type: region
+loc_type: country
 longitude: -61.371
 score: 0.64
 snippet: Volcanic Caribbean island of rainforest, rivers, hot springs, and a rugged

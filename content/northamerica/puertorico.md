@@ -6,7 +6,7 @@ image_attribution: David
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Man_with_green_hat_and_musical_instrument_in_Catedral,_Old_San_Juan,_Puerto_Rico.jpg
 latitude: 18.2208
-loc_type: region
+loc_type: country
 longitude: -66.5901
 score: 0.67
 snippet: Caribbean U.S. territory with boricua culture, walled San Juan, rainforest,

@@ -8,7 +8,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:At_the_Border_of_Haiti_and_the_Dominican_Republic_(8057179936).jpg
 latitude: 18.9712
-loc_type: region
+loc_type: country
 longitude: -72.2852
 score: 0.24
 snippet: Caribbean nation on western Hispaniola, shaped by mountains, Vodou culture,

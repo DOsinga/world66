@@ -8,7 +8,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:St_George's,_Grenada_-_panoramio_(8).jpg
 latitude: 12.1165
-loc_type: region
+loc_type: country
 longitude: -61.679
 score: 0.66
 snippet: Spice-scented Caribbean island nation of beaches, rainforest hills, nutmeg

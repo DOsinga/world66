@@ -8,7 +8,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Bridgetown_Promenade.jpg
 latitude: 13.1939
-loc_type: region
+loc_type: country
 longitude: -59.5432
 score: 0.72
 snippet: Eastern Caribbean island of coral limestone, Atlantic surf, and calm west-coast

@@ -6,7 +6,7 @@ image_attribution: Box-Off-Dreams, Julie.
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Jardin_de_Balata.jpg
 latitude: 14.6415
-loc_type: region
+loc_type: country
 longitude: -61.0242
 score: 0.63
 snippet: French Caribbean island where Creole rum country, rainforest mountains, and

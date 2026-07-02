@@ -8,7 +8,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Philipsburg,_St._Martin_(16276741515).jpg
 latitude: 18.0731
-loc_type: city
+loc_type: country
 longitude: -63.0822
 score: 0.58
 snippet: French Caribbean half-island of beaches, Marigot markets, and easy border

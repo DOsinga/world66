@@ -7,7 +7,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Lhb12
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Traditional_caymanian_home_east_end.jpg
 latitude: 19.3133
-loc_type: region
+loc_type: country
 longitude: -81.2546
 score: 0.7
 snippet: Wealthy British Caribbean territory of three islands built around offshore

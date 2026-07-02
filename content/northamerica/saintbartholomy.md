@@ -4,7 +4,7 @@ image_attribution: David Broad
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Beach_at_the_Anse_de_Grande_Saline_on_St._Barthelemy,_French_West_Indies_-_panoramio.jpg
 latitude: 17.8988
-loc_type: city
+loc_type: country
 longitude: -62.8508
 score: 0.6
 snippet: Small French Caribbean island of steep hills, Gustavia harbour, expensive

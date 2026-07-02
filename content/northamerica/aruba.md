@@ -7,7 +7,7 @@ image_attribution: Bjørn Christian Tørrissen
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Aruba-Hooiberg-2013.JPG
 latitude: 12.5093
-loc_type: region
+loc_type: country
 longitude: -69.9688
 score: 0.74
 snippet: Dry Caribbean island where white southern beaches contrast with cactus, trade

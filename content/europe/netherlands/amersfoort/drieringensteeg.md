@@ -1,8 +1,8 @@
 ---
 title: "Drieringensteeg"
 type: poi
-latitude: 52.15435
-longitude: 5.39069
+latitude: 52.15438
+longitude: 5.39050
 snippet: "Three Rings Alley — named for the iron rings set into the walls where horses and donkeys were tied by merchants visiting the market"
 tags: [curbside]
 score: 0

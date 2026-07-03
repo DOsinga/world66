@@ -607,6 +607,7 @@ def tag_index(request, tag):
 
 
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
+_META_SLUGS   = {"neighbourhood"}   # organisational tags, not POI categories
 
 
 def _marker_from_page_rich(page, highlight=False):
@@ -633,7 +634,12 @@ def _explore_markers(page):
     """Return (mode, markers) for the explore view.
 
     mode='locations' when the page has child city/location pages to browse.
-    mode='city' when we're at city level and should show sightseeing POIs.
+    mode='city' when we're at city level and should show POIs.
+
+    Primary (sightseeing) POIs come first with highlight=True.
+    Secondary (eating, activities, etc.) follow with highlight=False.
+    Curbside POIs are appended last with curbside=True; the map JS
+    renders them only when zoomed in far enough.
     """
     sections, locations, pois = page.children()
     if locations:
@@ -641,30 +647,39 @@ def _explore_markers(page):
         markers.sort(key=lambda m: m["score"], reverse=True)
         return "locations", markers
 
-    # City level: collect sightseeing POIs
     seen = set()
-    markers = []
+    primary   = []   # sightseeing
+    secondary = []   # other categories
+    curbside  = []   # curbside layer — shown at high map zoom only
 
-    def _add(m, highlight=True):
+    def _collect(poi, section_slug=None):
+        m = _marker_from_page_rich(poi)
         if not m:
             return
         k = (m["lat"], m["lng"])
-        if k not in seen:
-            seen.add(k)
-            m["highlight"] = highlight
-            markers.append(m)
+        if k in seen:
+            return
+        seen.add(k)
+        tags = set(poi.meta.get("tags") or [])
+        if "curbside" in tags:
+            m["curbside"] = True
+            curbside.append(m)
+        elif (tags & _SIGHT_SLUGS) or (section_slug in _SIGHT_SLUGS):
+            m["highlight"] = True
+            primary.append(m)
+        elif tags - _META_SLUGS:
+            m["highlight"] = False
+            secondary.append(m)
 
     for poi in pois:
-        if set(poi.meta.get("tags") or []) & _SIGHT_SLUGS:
-            _add(_marker_from_page_rich(poi))
+        _collect(poi)
     for nav in sections:
-        if nav.slug not in _SIGHT_SLUGS:
-            continue
         for poi in nav.tagged_pois():
-            _add(_marker_from_page_rich(poi))
+            _collect(poi, section_slug=nav.slug)
 
-    markers.sort(key=lambda m: m["score"], reverse=True)
-    return "city", markers
+    primary.sort(key=lambda m: m["score"], reverse=True)
+    secondary.sort(key=lambda m: m["score"], reverse=True)
+    return "city", primary + secondary + curbside
 
 
 def api_page_content(request, path):

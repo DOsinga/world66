@@ -1487,6 +1487,14 @@ img { max-width: 100%; height: auto; }
   border: none;
   box-shadow: none;
 }
+.map-dot--curbside {
+  background: #bbb;
+  width: 4px;
+  height: 4px;
+  border: none;
+  box-shadow: none;
+  opacity: 0.7;
+}
 .map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
 
 /* Transparent hit-area wrapper for dot-only markers.

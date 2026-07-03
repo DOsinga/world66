@@ -73,35 +73,50 @@ function initExploreMap(opts) {
         return result;
     }
 
+    var CURBSIDE_ZOOM = 15;   // show curbside POIs only at this zoom or above
+
     function _renderMarkers(pool) {
-        var bounds=map.getBounds();
-        var inView=pool.filter(function(m){return bounds.contains([m.lat,m.lng]);});
-        inView.sort(function(a,b){
-            return ((b.highlight?1:0)-(a.highlight?1:0))||((b.score||0)-(a.score||0));
+        var zoom   = map.getZoom();
+        var bounds = map.getBounds();
+        var inView = pool.filter(function(m) {
+            if (!bounds.contains([m.lat, m.lng])) return false;
+            if (m.curbside && zoom < CURBSIDE_ZOOM) return false;
+            return true;
+        });
+        // Primaries first, then secondaries, curbside last; within each tier sort by score
+        inView.sort(function(a, b) {
+            var ta = a.curbside ? 0 : (a.highlight ? 2 : 1);
+            var tb = b.curbside ? 0 : (b.highlight ? 2 : 1);
+            return (tb - ta) || ((b.score||0) - (a.score||0));
         });
         _hideTip(); group.clearLayers();
-        var named=inView.filter(function(m){return !!m.name;});
-        var labelled=_deconflict(named,30);
-        var lblSet={};
-        labelled.forEach(function(m){lblSet[m.lat+','+m.lng]=true;});
+
+        // Only non-curbside markers compete for labels
+        var labelPool = inView.filter(function(m){ return !m.curbside && !!m.name; });
+        var labelled  = _deconflict(labelPool, 30);
+        var lblSet    = {};
+        labelled.forEach(function(m){ lblSet[m.lat+','+m.lng] = true; });
 
         inView.forEach(function(m) {
             if (lblSet[m.lat+','+m.lng]) return;
-            var dot=L.marker([m.lat,m.lng],{
-                icon:L.divIcon({className:'map-label',
-                    html:'<div class="map-dot-hit"><i class="map-dot'+(m.highlight?' map-dot--highlight':' map-dot--grey')+'"></i></div>',
-                    iconSize:[0,0],iconAnchor:[0,0]}),zIndexOffset:-500});
-            dot.on('mouseover',function(){_showTip(m);}).on('mouseout',_hideTip).on('click',function(){_onMarkerClick(m);});
+            var dotCls = m.curbside ? ' map-dot--curbside'
+                       : m.highlight ? ' map-dot--highlight' : ' map-dot--grey';
+            var dot = L.marker([m.lat, m.lng], {
+                icon: L.divIcon({className: 'map-label',
+                    html: '<div class="map-dot-hit"><i class="map-dot' + dotCls + '"></i></div>',
+                    iconSize:[0,0], iconAnchor:[0,0]}), zIndexOffset: m.curbside ? -1000 : -500});
+            dot.on('mouseover', function(){ _showTip(m); }).on('mouseout', _hideTip)
+               .on('click', function(){ _onMarkerClick(m); });
             dot.addTo(group);
         });
         labelled.forEach(function(m) {
-            var cls=m.highlight?' map-label--highlight':'';
-            var lbl=L.marker([m.lat,m.lng],{
-                icon:L.divIcon({className:'map-label'+cls,
-                    html:'<i class="map-dot'+(m.highlight?' map-dot--highlight':'')+'"></i><span>'+(m.name||'')+'</span>',
-                    iconSize:[0,0],iconAnchor:[0,0]}),zIndexOffset:1000});
-            if (m.snippet) lbl.on('mouseover',function(){_showTip(m);}).on('mouseout',_hideTip);
-            lbl.on('click',function(){_onMarkerClick(m);});
+            var cls = m.highlight ? ' map-label--highlight' : '';
+            var lbl = L.marker([m.lat, m.lng], {
+                icon: L.divIcon({className: 'map-label' + cls,
+                    html: '<i class="map-dot' + (m.highlight ? ' map-dot--highlight' : '') + '"></i><span>' + (m.name||'') + '</span>',
+                    iconSize:[0,0], iconAnchor:[0,0]}), zIndexOffset: 1000});
+            if (m.snippet) lbl.on('mouseover', function(){ _showTip(m); }).on('mouseout', _hideTip);
+            lbl.on('click', function(){ _onMarkerClick(m); });
             lbl.addTo(group);
         });
     }

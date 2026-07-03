@@ -10,6 +10,8 @@ latitude: 41.780873
 loc_type: city
 longitude: 13.829524
 score: 7.19
+tags:
+- abruzzonationalpark
 title: Opi
 type: location
 snippet: Tiny Abruzzo hilltop village near Val Fondillo in the national park's mountain

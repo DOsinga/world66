@@ -10,6 +10,8 @@ latitude: 41.808401
 loc_type: city
 longitude: 13.789282
 score: 7.98
+tags:
+- abruzzonationalpark
 title: Pescasseroli
 type: location
 snippet: Mountain town inside Abruzzo, Lazio and Molise National Park, gateway to

@@ -5,13 +5,17 @@ excerpt: A rocky, forested island one mile off the coast of Albenga — once hom
   St. Martin of Tours and Benedictine monks, now a protected nature reserve and a
   magnet for divers.
 latitude: 44.0333
+loc_type: feature
 longitude: 8.2
-title: Gallinara Island Regional Park
+score: 7.7
 snippet: Small wooded Ligurian island reserve off Albenga, layered with hermit, monastic,
   and maritime history
+title: Gallinara Island Regional Park
 type: location
-score: 7.7
-loc_type: feature
+image: gallinarapark.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isola_Gallinara-P1010715.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Davide Papalini
 ---
 
 Gallinara is a small, densely wooded island sitting about a mile offshore from [Albenga](/europe/italy/liguria/albenga). The name comes from the Latin for "wild hens" — the island apparently swarmed with them in Roman times, and the Latin writers noticed. Today it is a regional nature reserve, and the only way to truly appreciate it is from the water.

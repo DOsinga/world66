@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aeolian_Islands_(270829163
 latitude: 38.4814
 loc_type: feature
 longitude: 14.9397
-score: 8.7
+score: 9.2
 snippet: Volcanic Sicilian archipelago of black-sand beaches, sulphurous craters,
   and Stromboli's night eruptions.
 title: Aeolian Islands

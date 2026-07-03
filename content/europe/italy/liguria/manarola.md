@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_cinque_terre_-_Manarola
 latitude: 44.106326
 loc_type: city
 longitude: 9.727481
-score: 9.43
+score: 8.9
 snippet: Cinque Terre village where pastel houses descend a steep Ligurian ravine
   to a tiny harbour.
 tags:

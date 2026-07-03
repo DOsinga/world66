@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Riomaggiore,_Cinque_Terre,
 latitude: 44.098975
 loc_type: city
 longitude: 9.73867
-score: 9.49
+score: 8.9
 snippet: Steep Cinque Terre fishing village, where colourful houses climb above a
   narrow Ligurian harbour.
 tags:

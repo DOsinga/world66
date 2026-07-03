@@ -1,17 +1,17 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+image: amalfi_coast.jpg
+image_attribution: Bruno Rijsman
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg
 latitude: 40.6333
 loc_type: feature
 longitude: 14.6029
-score: 8.7
+score: 9.6
 snippet: Cliffside towns and turquoise coves along the Sorrentine coast
 title: Amalfi Coast
 type: location
-image: amalfi_coast.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg
-image_license: CC BY-SA 2.0
-image_attribution: Bruno Rijsman
 ---
 
 The Amalfi Coast stretches about 50 kilometres along the southern side of the Sorrentine Peninsula, from Positano in the west to Vietri sul Mare in the east. The coastal road (SS163) is an experience in itself — carved into sheer cliffs with hairpin turns and views that make passengers forget about the driving.

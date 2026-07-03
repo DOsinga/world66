@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monterosso_al_Mare-panoram
 latitude: 44.1463
 loc_type: city
 longitude: 9.6558
-score: 9.41
+score: 8.8
 snippet: Largest Cinque Terre village, with sandy beaches, a fishing old town, and
   local anchovies and Sciacchetrà wine.
 tags:

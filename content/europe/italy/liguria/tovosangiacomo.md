@@ -10,7 +10,7 @@ snippet: Small Ligurian village in the Maremola valley, just inland from the Riv
   delle Palme.
 tags:
 - rivieradellepalme
-title: “Tovo San Giacomo”
+title: Tovo San Giacomo
 type: location
 ---
 

@@ -1,14 +1,14 @@
 ---
 address: Via Cantoni 1
-latitude: 45.9188
-longitude: 9.1442
+latitude: 45.8189
+longitude: 9.0654
+score: 6.9
 snippet: Neoclassical lakefront villa with free public gardens and rotating exhibitions
 tags:
 - things_to_do
 - architecture
 title: Villa Olmo
 type: poi
-score: 6.9
 ---
 
 This stately neoclassical villa at the northern edge of the lakefront promenade

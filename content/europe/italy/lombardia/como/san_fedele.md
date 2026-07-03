@@ -1,17 +1,18 @@
 ---
-title: Basilica di San Fedele
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 45.9083
-longitude: 9.1574
-snippet: 12th-century Romanesque basilica with a remarkable trefoil apse, in the heart of the old town
+latitude: 45.8097
+longitude: 9.0846
+score: 8.4
+snippet: 12th-century Romanesque basilica with a remarkable trefoil apse, in the heart
+  of the old town
 story: The Basilica di San Fedele was built by the same *Maestri Comacini* — the master
   builders of Como — who spread their craft across medieval Europe. Their influence
   can be traced in churches from Sardinia to Switzerland, but the finest examples
   remain here in the city where they were trained.
-score: 8.4
+tags:
+- things_to_do
+- sight
+title: Basilica di San Fedele
+type: poi
 ---
 
 Standing in the middle of the old town on the piazza that shares its name, San Fedele is the older and more immediately striking of Como's two great Romanesque churches. Its most remarkable feature is the trefoil apse — three semicircular apses arranged in a clover pattern — visible from the small streets behind the church. Inside, a 14th-century fresco cycle and some surviving Romanesque capitals repay close attention.

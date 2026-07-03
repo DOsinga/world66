@@ -13,29 +13,6 @@ title: Dego
 type: location
 ---
 
-An agricultural center on the slopes of the
- Ligurian Appennines, it is set on an extensive
- plain of the Bormida di Spigno and is
- surrounded by vineyards and hazelnut and
- chestnut groves. Mentioned in a diploma of
- concession of Otto I (967), Dego was inherited
- in 1142 by the marchesi Del Carretto, who
- fortified the village and set up a mint there. In
- 1214 the marchesi submitted to Genoa but
- retained the investiture of the fief, over which
- the bishop of Acqui had the right to tithes. In
- 1419 Dego passed to the marchesi del
- Monferrato and then to the Savoy (seventeenth
- century). In April 1796 it was the site of a battle
- at which Napoleon defeated the Austrians and
- that cost the lives of 400 civilians. The ruins of
- the medieval castle situated to the north of the
- village date from the thirteenth century. There
- are the ruins of two more medieval castles at
- the localities of Santa Giulia and Brovida. The
- parish church of Sant'Ambrogio was erected in
- 1810 on the site of a preexisting building, while
- the church of San Rocco is of seventeenth-century
- origin. The local manufacturing
- industry is based around a number of
- glassworks.
+Dego is an agricultural village on the slopes of the Ligurian Apennines, set on a broad plain of the Bormida di Spigno and surrounded by vineyards, hazelnuts, and chestnut groves. The village has a long history: mentioned in a diploma of Otto I (967), it was inherited in 1142 by the Del Carretto marquises, who fortified it and established a mint. In 1214 the marquises submitted to Genoa while retaining the feudal investiture. In April 1796 it was the site of a battle in which Napoleon defeated the Austrians at the cost of 400 civilian lives.
+
+Medieval castle ruins survive to the north of the village, with further ruins at the localities of Santa Giulia and Brovida. The parish church of Sant'Ambrogio was built in 1810 on an earlier site; the church of San Rocco dates from the 17th century. The local economy has historically centred on glassworks alongside the agricultural produce of the surrounding plain.

@@ -8,9 +8,9 @@ image: como.jpg
 image_attribution: Infrogmation
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Along_Lake_Como_at_Como,_1999_01.jpg
-latitude: 45.9075
+latitude: 45.8092
 loc_type: city
-longitude: 9.1599
+longitude: 9.0851
 score: 9.14
 snippet: Compact Lombard lake city with medieval streets, Romanesque churches, neoclassical
   villas, and Alessandro Volta heritage.

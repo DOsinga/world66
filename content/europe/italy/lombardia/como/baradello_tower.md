@@ -1,14 +1,14 @@
 ---
+latitude: 45.7989
+longitude: 9.0964
+score: 7.2
+snippet: Medieval tower on a hill above the city, with sweeping views over Lake Como
+tags:
+- things_to_do
+- sight
+- history
 title: Torre Baradello
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - history
-latitude: 45.8997
-longitude: 9.1476
-snippet: Medieval tower on a hill above the city, with sweeping views over Lake Como
-score: 7.2
 ---
 
 The Torre Baradello is the remnant of a 12th-century castle built by Frederick Barbarossa after his forces sacked and rebuilt Como in 1159. The castle no longer stands, but the square tower — rising from a rocky outcrop on the southern hillside above the city — has survived in good condition and is visible from much of Como below.

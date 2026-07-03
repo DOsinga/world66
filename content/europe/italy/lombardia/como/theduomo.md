@@ -1,7 +1,8 @@
 ---
 address: Piazza del Duomo
-latitude: 45.9075
-longitude: 9.1599
+latitude: 45.8118
+longitude: 9.0837
+score: 9.1
 snippet: Gothic-Baroque cathedral built over 350 years
 story: 'Construction began in 1396 and dragged on for nearly 350 years — the Renaissance
   dome was not added until 1744, giving the cathedral the unusual distinction of having
@@ -13,7 +14,6 @@ tags:
 - sight
 title: Como Cathedral
 type: poi
-score: 9.1
 ---
 
 The Cathedral of Como is one of the last great Gothic churches built in

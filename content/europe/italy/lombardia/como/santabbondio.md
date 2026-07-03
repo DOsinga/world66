@@ -1,14 +1,14 @@
 ---
 address: Via Sant'Abbondio
-latitude: 45.8999
-longitude: 9.1476
+latitude: 45.8022
+longitude: 9.0812
+score: 8.8
 snippet: Superb eleventh-century Romanesque church with frescoed apse
 tags:
 - things_to_do
 - sight
 title: Sant'Abbondio
 type: poi
-score: 8.8
 ---
 
 Standing just outside the old city walls, Sant'Abbondio is one of the finest

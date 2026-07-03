@@ -2,15 +2,15 @@
 address: Viale Marconi 1
 done:
   poi_cleanup: '2026-04-19'
-latitude: 45.9117
-longitude: 9.1501
+latitude: 45.8148
+longitude: 9.0753
+score: 7.9
 snippet: Lakefront temple housing Volta's original battery instruments
 tags:
 - things_to_do
 - museum
 title: Tempio Voltiano
 type: poi
-score: 7.9
 ---
 
 This small neoclassical temple on the lakefront was built in 1927 to honour

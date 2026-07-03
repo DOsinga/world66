@@ -13,6 +13,8 @@ snippet: Tiny Val d'Orcia hamlet whose central piazza is a steaming Roman therma
   pool.
 sources:
 - https://en.wikipedia.org/wiki/Bagno_Vignoni
+tags:
+- val_dorcia
 title: Bagno Vignoni
 type: location
 ---

@@ -14,6 +14,8 @@ longitude: 9.1599
 score: 9.14
 snippet: Compact Lombard lake city with medieval streets, Romanesque churches, neoclassical
   villas, and Alessandro Volta heritage.
+tags:
+- lake_como
 title: Como
 type: location
 ---

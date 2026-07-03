@@ -1043,23 +1043,42 @@ img { max-width: 100%; height: auto; }
   justify-content: space-between;
 }
 
+/* "Explore →" — prominent button below title */
+.explore-drawer-drill-btn {
+  display: block;
+  width: 100%;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  text-align: center;
+  margin: 8px 0 16px;
+  transition: background 0.12s;
+}
+
+.explore-drawer-drill-btn:hover {
+  background: var(--accent-dark, #8a3d20);
+}
+
+/* "Full page →" — quieter footer link */
 .explore-drawer-read-more {
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  background: var(--accent);
-  color: #fff;
+  color: var(--accent);
   text-decoration: none;
-  padding: 8px 18px;
-  border-radius: 4px;
   font-size: 13px;
   font-weight: 600;
-  transition: background 0.12s;
+  transition: color 0.12s;
 }
 
 .explore-drawer-read-more:hover {
-  background: var(--accent-dark, #8a3d20);
-  color: #fff;
+  color: var(--accent-dark, #8a3d20);
 }
 
 /* Mobile: drawer comes from bottom, full width */

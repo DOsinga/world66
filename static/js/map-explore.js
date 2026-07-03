@@ -296,13 +296,17 @@ function initExploreMap(opts) {
 
     // ---- Marker click ----
     function _onMarkerClick(m) {
+        if (state.mode === 'loading') return;
         if (state.mode === 'locations') {
-            // Open drawer with city description; user can choose to drill in
+            // Zoom to the city so it's prominent, then open the drawer
+            map.invalidateSize();
+            map.flyTo([m.lat, m.lng], Math.max(map.getZoom(), 9), {
+                animate: true, duration: 0.6,
+            });
             _openDrawer(m);
         } else if (state.mode === 'city') {
             _openDrawer(m);
         }
-        // 'loading' state: ignore clicks
     }
 
     // ---- Initial render ----

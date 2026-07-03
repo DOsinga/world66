@@ -19,6 +19,7 @@ sources:
 - https://en.wikipedia.org/wiki/Sanremo_Casino
 tags:
 - italianriviera
+- rivieradeifiori
 title: Sanremo
 type: location
 ---

@@ -16,6 +16,7 @@ snippet: Westernmost Italian Riviera town at the French border, split between ri
   flats and a medieval hill.
 tags:
 - italianriviera
+- rivieradeifiori
 title: Ventimiglia
 type: location
 ---

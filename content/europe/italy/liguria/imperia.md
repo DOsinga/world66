@@ -14,6 +14,7 @@ snippet: Western Ligurian Riviera city split between port-side Oneglia and hillt
   Porto Maurizio.
 tags:
 - italianriviera
+- rivieradeifiori
 title: Imperia
 type: location
 ---

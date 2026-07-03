@@ -14,6 +14,7 @@ snippet: Riviera di Ponente seaside town with a long sandy beach, mild microclim
   and Roman-era local finds.
 tags:
 - italianriviera
+- rivieradeifiori
 title: Diano Marina
 type: location
 ---

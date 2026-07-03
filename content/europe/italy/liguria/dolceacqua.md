@@ -13,6 +13,7 @@ snippet: Medieval Ligurian village in the Nervia Valley, known for its Doria cas
   stone lanes, and Monet-painted bridge.
 tags:
 - nerviavalley
+- rivieradeifiori
 title: Dolceacqua
 type: location
 ---

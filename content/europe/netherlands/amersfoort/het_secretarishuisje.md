@@ -1,8 +1,8 @@
 ---
 title: "Het Secretarishuisje"
 type: poi
-latitude: 52.15643
-longitude: 5.39297
+latitude: 52.15642
+longitude: 5.39291
 snippet: "A tiny 17th-century house from 1630 attached to the Kamperbinnenpoort — the lodgings of the gate secretary who recorded who passed in and out"
 tags: [curbside]
 score: 0

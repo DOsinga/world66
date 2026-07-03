@@ -5,7 +5,7 @@ latitude: 41.387
 longitude: 2.188
 snippet: "The four cast-iron lions at the corners of this Ciutadella park bridge were designed for the 1888 Universal Exposition — Barcelona's first major international event and the urban transformation that gave the city its modern character."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Pont dels Lleons (Lions Bridge) in the Parc de la Ciutadella is a small ornamental bridge with four cast-iron lions at its corners, designed for the 1888 Universal Exposition of Barcelona. The Exposition was the city's first major international event and the occasion that drove a substantial transformation of the Ciutadella area: the military fortress that had occupied the site since 1714 was demolished, the park was created, and the exposition buildings were constructed in and around it.

@@ -5,7 +5,7 @@ latitude: 41.36923
 longitude: 2.1696
 snippet: "A bronze of Charlie Chaplin's Tramp character on the Paral·lel — placed here because the entertainment avenue was known as 'the Broadway of Barcelona' in the early 20th century when silent film met vaudeville."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The bronze figure of Charlie Chaplin's Tramp character stands on the Avinguda del Paral·lel, the entertainment avenue that runs along the southern edge of the Raval neighbourhood from the Plaça d'Espanya to the Columbus Monument. The choice of location is historically specific: the Paral·lel in the early 20th century was Barcelona's principal popular entertainment district, hosting dozens of theatres, music halls, cabarets, and cinema houses.

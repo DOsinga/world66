@@ -5,7 +5,7 @@ latitude: 41.3864
 longitude: 2.1636
 snippet: "The square in front of the 1860s historic university building where student protests have gathered since the university moved here — and where Barcelona's tram network once had its central hub."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Universitat is named for the Universitat de Barcelona, whose main building faces it. The university was relocated to this site at the edge of the Eixample in the 1860s, occupying a building designed by Elies Rogent in a Romanesque revival style that was then fashionable for institutional buildings. The building is now one of the more distinguished 19th-century civic structures in Barcelona, though its historical significance for the university is as the location where Catalan academic culture developed through the Renaixença period.

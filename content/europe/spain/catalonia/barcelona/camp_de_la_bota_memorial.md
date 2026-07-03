@@ -5,7 +5,7 @@ latitude: 41.40957
 longitude: 2.22164
 snippet: "A memorial in the Diagonal Mar area to the civilians executed by Franco's regime at the Camp de la Bota beach — where between 1939 and 1952, an estimated 1,700 people were shot against a seaside wall."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Camp de la Bota (Boot Field) was a stretch of sandy ground between the old city and the Besòs river, used from 1714 onward as a military training and execution ground. After the Nationalist victory in 1939, the Franco regime used it as its principal execution site in Barcelona. Prisoners condemned by military tribunals were brought here in the early morning hours, shot in small groups, and buried in mass graves on the beach.

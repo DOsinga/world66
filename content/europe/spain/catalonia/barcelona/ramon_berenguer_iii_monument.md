@@ -5,7 +5,7 @@ latitude: 41.38445
 longitude: 2.17776
 snippet: "A bronze equestrian statue of the 12th-century Count of Barcelona who established Catalan naval power — placed in the Plaça de Ramon Berenguer el Gran, against the Roman and medieval wall."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Ramon Berenguer III (1082-1131) was one of the most consequential Counts of Barcelona: he united the County of Provence with Catalonia through marriage, established Catalan maritime forces in the western Mediterranean, and negotiated the alliance with Pisa that would eventually give Catalonia its Mediterranean empire. The equestrian statue in the square that bears his name — cast in bronze in 1951, designed by the sculptor Josep Llimona — shows him in armour on horseback in the medieval style.

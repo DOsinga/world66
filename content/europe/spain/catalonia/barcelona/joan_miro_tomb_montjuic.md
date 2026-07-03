@@ -5,7 +5,7 @@ latitude: 41.35573
 longitude: 2.15501
 snippet: "The grave of the artist whose foundation stands just above it — Miró is buried in the Montjuïc cemetery in a plot beside the museum built to house his work, creating a unique proximity of artist, collection, and grave."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Joan Miró (1893-1983) was born in Barcelona, spent decades in Paris and Mallorca, and died in Palma at the age of 90. He was buried in the Cementiri de Montjuïc, in the hill below which his foundation and museum — the Fundació Joan Miró, designed by his friend Josep Lluís Sert — had been built in 1975. The proximity of the grave to the museum is striking: Miró's body is interred approximately 500 metres below the institution that holds his work.

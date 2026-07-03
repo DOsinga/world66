@@ -5,7 +5,7 @@ latitude: 41.39
 longitude: 2.182
 snippet: "The medieval irrigation canal that brought water from the Besòs river to Barcelona for 800 years — its trace is preserved in street names and alignments from Sant Andreu to the Born."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Rec Comtal (Count's Canal) was one of the most important pieces of infrastructure in medieval Barcelona. Built in the 10th or 11th century — possibly during the reign of Ramon Berenguer I — it drew water from a weir on the River Besòs at the point where the river reaches the coastal plain, approximately 7 kilometres northeast of the city. The canal ran southwest through what is now the Sant Martí, Poblenou, and Sant Pere neighbourhoods, reaching the mills and workshops of the Born and delivering water to the medieval city.

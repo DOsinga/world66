@@ -5,7 +5,7 @@ latitude: 41.4
 longitude: 2.157
 snippet: "The main commercial artery of Gràcia, whose width and directness reflect its origin as the road from Barcelona to the village — the route along which the city eventually arrived to swallow the village whole."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Gran de Gràcia (Great Street of Gràcia) runs from the Passeig de Gràcia at the bottom of the Eixample to the Plaça de Lesseps at the top of the neighbourhood. It was the main road connecting Barcelona to the village of Gràcia before annexation in 1897 — the route along which goods moved, people travelled, and, eventually, the city itself expanded northward.

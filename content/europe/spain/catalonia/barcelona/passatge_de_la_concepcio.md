@@ -5,7 +5,7 @@ latitude: 41.3926
 longitude: 2.1678
 snippet: "A mid-19th century Eixample passage near the Passeig de Gràcia that retains its original character — one of the few private passages in the Eixample still functioning as a residential address."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge de la Concepció is a short private passage running off the Carrer d'Aragó between the Passeig de Gràcia and the Carrer de Pau Claris. It was built in the 1860s as one of the first residential passages in the new Eixample — a semi-public street within a private development, lined with attached houses of a scale smaller than the apartment blocks fronting the main avenues.

@@ -5,7 +5,7 @@ latitude: 41.43003
 longitude: 2.15067
 snippet: "Claes Oldenburg and Coosje van Bruggen's 1992 giant matchbook sculpture at the Vall d'Hebron Olympic site — one of the most significant public sculptures in Barcelona and virtually unknown to most visitors."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Els Mistos (The Matches) is a sculpture by Claes Oldenburg and Coosje van Bruggen installed at the Vall d'Hebron in 1992 as part of the cultural programme associated with the Barcelona Olympics. The work shows a box of oversized matches — or rather, half a box, split at the fold, with matches spilling out — rendered in steel and painted in the vivid colours of a real matchbox. It stands approximately 7 metres tall.

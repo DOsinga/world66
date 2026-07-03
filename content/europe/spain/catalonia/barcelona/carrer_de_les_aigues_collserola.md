@@ -5,7 +5,7 @@ latitude: 41.415
 longitude: 2.135
 snippet: "A 14-kilometre path running along the Collserola hillside at a constant elevation, following the line of a 19th-century aqueduct that carried water from the hills to the city — now Barcelona's most popular running route."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Aigües (Water Street) is a pedestrian and cycling path running along the lower slopes of the Collserola hills at roughly 130 metres elevation, from the Vallvidrera area above Sarrià to the neighbourhoods above Gràcia. The path is approximately 14 kilometres long and maintains a constant elevation, following the alignment of the aqueduct that the Companyia d'Aigües de Barcelona built in the 1870s to carry spring water from the Collserola sources to the city's distribution system.

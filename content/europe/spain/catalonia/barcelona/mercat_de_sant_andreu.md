@@ -5,7 +5,7 @@ latitude: 41.4342
 longitude: 2.188
 snippet: "The covered iron market of the Sant Andreu neighbourhood, built in 1909 — serving a working-class district that had its own distinct identity as an independent municipality until 12 years before the market opened."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mercat de Sant Andreu was built in 1909, twelve years after the former independent municipality was annexed by Barcelona. The construction of a covered iron market was itself a statement: the city's infrastructure reaching into what had been a separate town, imposing the standard model of the covered municipal market that was being built across Barcelona's expansion zones.

@@ -5,7 +5,7 @@ latitude: 41.392
 longitude: 2.154
 snippet: "The 1927 market hall in Sant Gervasi that serves Barcelona's most expensive residential neighbourhood — its market reveals the same supply chains as the Boqueria but without the tourist premium."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mercat de Galvany was built in 1927 to serve the Sant Gervasi and Sarrià-Sant Gervasi residential areas — the upper-city neighbourhoods that became, in the late 19th and early 20th centuries, the preferred address of Barcelona's professional and upper-middle class. The market reflects the social character of the neighbourhood it serves: the stalls tend toward higher-quality produce and more specialised vendors than the markets in working-class districts.

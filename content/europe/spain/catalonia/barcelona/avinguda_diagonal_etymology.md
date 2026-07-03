@@ -5,7 +5,7 @@ latitude: 41.395
 longitude: 2.153
 snippet: "The only major avenue in the Eixample that cuts across the grid at 45 degrees — Cerdà designed it deliberately to break the monotony of his grid and to connect the peripheral districts."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Avinguda Diagonal is the most distinctive element of Ildefons Cerdà's Eixample grid. The grid is otherwise relentlessly orthogonal — all streets are parallel or perpendicular to each other — but the Diagonal cuts through it at 45 degrees, from the southwest (Plaça de l'Espanya) to the northeast (Plaça de les Glòries). The avenue was planned from the beginning as this diagonal element; it appears in Cerdà's 1860 design alongside the cross-street Gran Via.

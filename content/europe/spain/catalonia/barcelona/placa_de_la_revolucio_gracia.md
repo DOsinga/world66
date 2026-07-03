@@ -5,7 +5,7 @@ latitude: 41.4047
 longitude: 2.1551
 snippet: "A Gràcia square named for the 1868 Glorious Revolution that briefly created a constitutional monarchy — and whose name persisted through every subsequent political regime as a small verbal monument to 19th-century liberal aspirations."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Revolució in Gràcia takes its name from the Revolució Gloriosa of 1868 — the military uprising and popular revolution that overthrew Queen Isabella II and initiated Spain's brief experiment with a democratic monarchy. The revolution brought a constitutional government, freedom of religion, universal male suffrage, and the abolition of slavery in Puerto Rico; it was the most radical political opening Spain had experienced since the Napoleonic period.

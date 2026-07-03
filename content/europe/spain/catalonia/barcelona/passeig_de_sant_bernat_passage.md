@@ -5,7 +5,7 @@ latitude: 41.3817
 longitude: 2.1755
 snippet: "A Gothic Quarter passage connecting the Carrer dels Banys Nous to the Carrer del Call — running through the heart of the former Jewish quarter, one of the most historically layered 20 metres in Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge de Sant Bernat is a covered passage of perhaps 20 metres, connecting two streets in the Gothic Quarter. It runs between the Carrer dels Banys Nous (Old Baths Street) and the Carrer del Call (the street of the Jewish quarter), through a building that was constructed on or near the boundary of Barcelona's medieval Jewish community, the Call.

@@ -5,7 +5,7 @@ latitude: 41.4055
 longitude: 2.157
 snippet: "A quiet Gràcia square where the north-facing side of the neighbourhood meets the upper part of Gràcia's hillside — not a famous square, but the kind of neighbourhood space that makes Gràcia what it is."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça del Nord (North Square) in Gràcia is one of the neighbourhood's smaller squares — not as famous as the Plaça del Sol or the Plaça de la Virreina, but typical of the neighbourhood's character. It serves as the daily gathering point for the immediate surrounding residents: the bars around it open early for coffee, the benches fill on weekend mornings, and the square's fountain marks a gathering point that pre-dates the domestic water supply.

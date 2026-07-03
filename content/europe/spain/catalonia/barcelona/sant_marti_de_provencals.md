@@ -5,7 +5,7 @@ latitude: 41.419
 longitude: 2.199
 snippet: "The medieval parish church of the old village of Sant Martí de Provençals — the municipality that was annexed by Barcelona in 1897, covering most of what is now the Poblenou and Clot neighbourhoods."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Sant Martí de Provençals was an independent municipality to the east of Barcelona until its annexation in 1897. The village had existed as an agricultural community since the early medieval period; the church of Sant Martí, documented from the 10th century, was its religious and civic centre. The name "Provençals" refers not to Provence in France but to the word "pro vinciales" — relating to the lands of the province — indicating the settlement's character as a rural agricultural community dependent on Barcelona.

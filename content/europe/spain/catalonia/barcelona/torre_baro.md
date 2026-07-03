@@ -5,7 +5,7 @@ latitude: 41.448
 longitude: 2.165
 snippet: "A medieval watchtower on the highest point in northern Barcelona, giving its name to one of the neighbourhoods created informally by migrants in the 1950s and 60s — the tower and the barraques represent five centuries of Barcelona's edge."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Torre Baró (Baron's Tower) stands on a ridge in the Collserola foothills at the northern extreme of Barcelona's built-up area. The tower is a medieval defensive structure, probably 14th or 15th century in origin, associated with the control of the road leading north from Barcelona through the Collserola hills. At a height of over 400 metres, it commanded views across the entire coastal plain.

@@ -5,7 +5,7 @@ latitude: 41.4356
 longitude: 2.1489
 snippet: "The oldest surviving garden in Barcelona, laid out in 1791 by the Marquis of Alfarràs — a Neoclassical labyrinth in cypress hedges that predates all other accessible Barcelona parks by nearly a century."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Laberint d'Horta (Horta Labyrinth) was laid out between 1791 and 1808 by the Marquis of Alfarràs, Joan Antoni Desvalls, on his estate in the hills north of the city. The garden was designed by the Italian architect Domenico Bagutti in the Neoclassical style fashionable in late 18th-century Europe, with formal terraces, fountains, classical statuary, and at its centre a hedge labyrinth in cypress that gives the garden its name.

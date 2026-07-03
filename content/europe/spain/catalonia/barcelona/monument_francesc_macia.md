@@ -5,7 +5,7 @@ latitude: 41.3971
 longitude: 2.1621
 snippet: "The 1991 monument to the first President of the Generalitat in the democratic era, by the sculptor Josep Maria Subirachs — Macià proclaimed the Catalan Republic from the Generalitat balcony on 14 April 1931."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Francesc Macià i Llussà (1859-1933) was a Catalan military officer turned republican politician who became one of the central figures of Catalan nationalism in the early 20th century. On 14 April 1931 — the day the Spanish Second Republic was proclaimed in Madrid — Macià appeared on the balcony of the Palau de la Generalitat and proclaimed the Catalan Republic. The proclamation was short-lived: two days later he renegotiated with the Madrid government to accept the formula of a Statute of Autonomy within the Spanish Republic, becoming the first President of the restored Generalitat.

@@ -5,7 +5,7 @@ latitude: 41.38556
 longitude: 2.18941
 snippet: "A 1884 fountain in the Parc de la Ciutadella of a woman with an umbrella — Barcelona's most beloved public sculpture and the model for the Catalan saying about luck and rain."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Dama del Paraigua (Lady with Umbrella) is a cast-iron fountain sculpture in the Parc de la Ciutadella, created in 1884 by the sculptor Joan Roig i Solà. The figure shows a woman in 19th-century dress holding an open umbrella, from which water flows. The combination of an elegant bourgeois lady and a functional water-spouting mechanism is characteristic of the decorative public fountain type popular in the late 19th century.

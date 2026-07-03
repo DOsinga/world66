@@ -5,7 +5,7 @@ latitude: 41.4244
 longitude: 2.15824
 snippet: "A 1996 memorial in the Horta neighbourhood to the 35,000 foreign volunteers who came to Spain to fight for the Republic — most of them arrived through Barcelona, where they were cheered in the streets."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The International Brigades were composed of approximately 35,000 volunteers from 53 countries who came to Spain between 1936 and 1938 to fight for the Republican government against Franco's Nationalist forces, supported by Nazi Germany and Fascist Italy. Of those 35,000, around 3,000 were killed. Their departure, when the Republic dissolved them in 1938 in a vain attempt to persuade the non-intervention powers to withdraw the German and Italian forces, was marked by one of the most filmed farewell scenes in modern history.

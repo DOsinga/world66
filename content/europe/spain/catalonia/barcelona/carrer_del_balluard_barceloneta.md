@@ -5,7 +5,7 @@ latitude: 41.3794
 longitude: 2.188
 snippet: "A Barceloneta street whose name means 'bulwark' — it ran along the line of a small defensive fortification built alongside the neighbourhood in the 18th century to protect the city's new planned settlement from sea attack."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer del Balluard (Bulwark Street) in Barceloneta takes its name from the defensive earthwork that ran along the neighbourhood's western edge when it was first built in the 1750s. The balluard was a low military fortification — not a full wall but a raised earthen bank with strategic firing positions — designed to protect the new neighbourhood from attack from the sea or from the direction of the port.

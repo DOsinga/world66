@@ -5,7 +5,7 @@ latitude: 41.4167
 longitude: 2.1627
 snippet: "The Carmel neighbourhood grew up informally around the anti-aircraft gun emplacements on Turó de la Rovira — its residents built without permits in the 1940s and 50s, creating one of Barcelona's most cohesive working-class communities."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carmel neighbourhood occupies the slopes below and around the Turó de la Rovira — the hill where Civil War anti-aircraft batteries were positioned. The neighbourhood itself was created by internal migrants arriving in Barcelona in the 1940s and 1950s: workers from Andalusia, Murcia, and Extremadura who came north for factory jobs and could not afford formal housing.

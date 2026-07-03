@@ -5,7 +5,7 @@ latitude: 41.404
 longitude: 2.156
 snippet: "Gràcia's most fashionable street is named for the composer Giuseppe Verdi — through an indirect chain: a wine cellar was called 'La Bodega Italiana', its owner's name was Italianised, and the street eventually took a Catalan form of Verdi's first name."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Verdi is Gràcia's most visited street by visitors from outside the neighbourhood — it is lined with independent cinemas, bars, and restaurants, and connects the Plaça de Rius i Taulet to the Parc Güell. The street's name has a peculiar etymology.

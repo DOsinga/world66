@@ -5,7 +5,7 @@ latitude: 41.383
 longitude: 2.138
 snippet: "A surviving 19th-century lime kiln in Les Corts, preserved as industrial heritage — one of the few remaining structures that shows what the neighbourhood's economy was before the football stadium arrived."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Forn de la Calç (Lime Kiln) is a surviving industrial structure in the Les Corts neighbourhood, dating from the 19th century when the area was primarily an agricultural and light industrial zone on the outskirts of Barcelona. Lime kilns burned limestone to produce quicklime, which was an essential building material — used in plaster, mortar, and whitewash — for the expanding city nearby.

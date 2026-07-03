@@ -5,7 +5,7 @@ latitude: 41.4068
 longitude: 2.1559
 snippet: "The raisin street of upper Gràcia — a reminder that before industrialisation, the Gràcia hillside was covered with vineyards whose produce was dried into raisins for the Barcelona market."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Panses (Raisin Street) in upper Gràcia records the agricultural character of the hillside before the neighbourhood was built. The area around Gràcia was covered with vineyards in the early modern period — the slopes below the Collserola were well-suited to viticulture, with adequate sun exposure and drainage. The grapes produced were used for wine, for fresh eating, and for drying into raisins (panses in Catalan), which were traded in the Barcelona market.

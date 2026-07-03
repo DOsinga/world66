@@ -5,7 +5,7 @@ latitude: 41.3728
 longitude: 2.1468
 snippet: "The main crossing point of Sants, where the road from Barcelona met the road from Lleida — its covered cross (creu coberta) marked the boundary of the independent municipality and the point where travellers entered Sants."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Creu Coberta (Covered Cross Square) in Sants takes its name from the covered stone cross that marked the boundary of the independent municipality of Sants and the crossing of two major roads. The covered cross — a cross placed under a stone canopy, a type common in Catalan towns — was a threshold marker: travellers crossing it from Barcelona were entering Sants jurisdiction, and those crossing it in the other direction were leaving.

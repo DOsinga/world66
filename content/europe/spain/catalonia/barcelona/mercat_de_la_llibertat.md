@@ -5,7 +5,7 @@ latitude: 41.4029
 longitude: 2.1568
 snippet: "Gràcia's covered iron market, built in 1888 and named for Liberty — the political climate of the early Restoration period allowed naming a public building for an abstract liberal value that would have been suppressed ten years earlier."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mercat de la Llibertat (Freedom Market) in Gràcia was built in 1888, the same year as the Universal Exposition, by the architect Miquel Pascual i Tintorer. Its name was politically significant at the moment of its construction: "Llibertat" (Freedom or Liberty) was a word with explicit liberal and revolutionary associations in 19th-century Spain, having been the rallying term for the anti-absolutist movements of the 1820s, 1830s, and 1868 revolutions. Naming a public building "Freedom" was a statement of political identity.

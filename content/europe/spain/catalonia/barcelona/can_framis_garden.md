@@ -5,7 +5,7 @@ latitude: 41.399
 longitude: 2.197
 snippet: "The garden surrounding Can Framis — Barcelona's oldest surviving farmhouse — contains fragments of 16th-century stonework set into grass, marking the footprint of outbuildings that did not survive the industrial era."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The garden around Can Framis in Poblenou preserves traces of the agricultural complex that surrounded the farmhouse when it was built in the late 16th century. Stone foundations — walls reduced to a single course, threshold stones, cistern edges — are set into the lawn, marking the positions of outbuildings that were demolished as the industrial development of Poblenou progressed in the 19th century.

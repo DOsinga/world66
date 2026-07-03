@@ -5,7 +5,7 @@ latitude: 41.4015
 longitude: 2.1585
 snippet: "A Gràcia square whose name encodes the neighbourhood's political history — named for a 19th-century political aspiration, it became in the 21st century the gathering point for pro-independence flag-waving."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Independència (Independence Square) in Gràcia was named in the 19th century at a moment when "independence" referred to political liberalism in the Spanish context — specifically to the constitutional independence of the municipalities from central government control. The name was not specifically Catalan separatist; it reflected the liberal federalist tradition that had briefly flourished in the First Spanish Republic of 1873.

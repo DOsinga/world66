@@ -5,7 +5,7 @@ latitude: 41.385
 longitude: 2.179
 snippet: "The square at the point where the Roman and medieval Via Laietana entered the city — an angel was placed above the Roman gate in the medieval period, giving the square its name."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de l'Àngel (Angel Square) marks the position of the principal gate in Barcelona's Roman and medieval city wall on the eastern side: the Porta Praetoria of the Roman city, and later the gate through which the road from the north and east — the Via Laietana, which then ran roughly where the modern Carrer de Jaume I now runs — entered the city.

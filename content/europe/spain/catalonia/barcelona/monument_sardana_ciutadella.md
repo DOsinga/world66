@@ -5,7 +5,7 @@ latitude: 41.36797
 longitude: 2.1687
 snippet: "A 1966 sculpture on Montjuïc by Josep Cañas showing dancers in the traditional Catalan circle dance — carved under Franco at a time when the sardana was one of the few public expressions of Catalan identity permitted."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Monument a la Sardana on Montjuïc, created in 1966 by the sculptor Josep Cañas, shows a circle of dancers engaged in the sardana — the traditional Catalan circle dance that has served as a symbol of Catalan collective identity since the 19th century. The stone frieze captures the characteristic posture of sardana dancers: hands linked and raised, feet performing the complex sequence of steps.

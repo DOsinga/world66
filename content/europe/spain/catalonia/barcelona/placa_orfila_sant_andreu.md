@@ -5,7 +5,7 @@ latitude: 41.435
 longitude: 2.1872
 snippet: "The central square of the old town of Sant Andreu de Palomar, an independent municipality until 1897 — its 12th-century church and village-scale buildings survived the surrounding industrial expansion."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Sant Andreu de Palomar was an independent municipality of considerable age — the church of Sant Andreu is documented from the 10th century — until it was annexed by Barcelona in 1897 along with several other surrounding towns. The village had been growing rapidly as Barcelona's industrial expansion pushed workers northward, but the original medieval core of the settlement survived the demographic pressure.

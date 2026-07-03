@@ -5,7 +5,7 @@ latitude: 41.392
 longitude: 2.168
 snippet: "Cerdà's 1860 Eixample plan included communal gardens in the centre of each block — only a handful were ever built, but Barcelona has been recovering them since the 1990s as the superilla programme."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 When Ildefons Cerdà designed the Eixample in 1859-1860, each block was intended to have buildings on only two of its four sides, with the remaining two sides left as garden and community space. The chamfered corners — the distinctive diagonal cuts at Eixample intersections — were designed partly to create miniature corner plazas. The interior of each block was supposed to be accessible communal garden.

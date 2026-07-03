@@ -5,7 +5,7 @@ latitude: 41.38805
 longitude: 2.16625
 snippet: "A 2003 memorial near the Rambla to the civilian victims of Italian bombing raids on Barcelona in 1938 — the raids killed over 1,000 civilians and were the most intense aerial attack on a European city before the Second World War."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In March 1938, Italian Aviazione Legionaria bombers flying from Mallorca carried out 13 raids on Barcelona over 40 hours. The raids targeted the port, the Estació de França, and central Barcelona, but caused massive civilian casualties because of the imprecision of the bombing and the density of the urban population. Over 1,000 civilians were killed; the raids were the most intensive aerial bombardment of a European city up to that date, exceeding the scale of the Guernica bombing by a factor of ten.

@@ -5,7 +5,7 @@ latitude: 41.392
 longitude: 2.12737
 snippet: "A 1902 garden gate by Gaudí on the Passeig de Manuel Girona — his only surviving work in the Les Corts district, an organic stone wall and gate built for a private house that no longer stands."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Portal Miralles at Passeig de Manuel Girona 55-57 is the entrance gate and boundary wall that Antoni Gaudí designed in 1902 for the property of Hermenegild Miralles Anglès. The main house the gate served was demolished long ago; the gate and wall are what survive, now attached to a later apartment block that replaced the original building.

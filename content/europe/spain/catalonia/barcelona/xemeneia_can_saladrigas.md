@@ -5,7 +5,7 @@ latitude: 41.40146
 longitude: 2.20483
 snippet: "The surviving chimney of the Can Saladrigas textile factory in Poblenou — one of a shrinking number of factory chimneys still standing in the neighbourhood that was once called the 'Manchester of Catalonia'."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The factory chimney of Can Saladrigas stands in the Poblenou neighbourhood as one of the clearest visual markers of the district's industrial past. The Can Saladrigas factory was a textile mill established in the 19th century, part of the cotton manufacturing complex that made Poblenou the most intensely industrialised zone in Catalonia.

@@ -5,7 +5,7 @@ latitude: 41.3805
 longitude: 2.1705
 snippet: "A surviving arch from the Augustinian convent that occupied the Raval block from the 14th century — one of the very few pieces of pre-1835 architecture surviving in the neighbourhood after the fires."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Arc de Sant Agustí is the main surviving element of the Convent de Sant Agustí, the Augustinian house that occupied a large block in the Raval from its foundation in the 14th century until the 1835 anti-clerical fires. The arc — a single Gothic pointed arch spanning the Carrer del Carme — was one of several arcades that connected the convent buildings to structures on the other side of the street.

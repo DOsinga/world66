@@ -5,7 +5,7 @@ latitude: 41.36826
 longitude: 2.16612
 snippet: "A tribute to the Cubelles-born clown who performed internationally for 70 years and whose trademark 'Acrobat!' cry became one of the most recognisable catchphrases in European circus history."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Josep Andreu Lasserre, who performed as Charlie Rivel, was born in Cubelles near Barcelona in 1896 and died in the same town in 1983. He spent the intervening 87 years largely on stage — he was performing into his eighties — and became one of the most celebrated clowns in the history of European circus, known for an act that combined acrobatic skill, musical comedy, and a trademark cry of "Acrobat!" delivered in a high-pitched nasal voice.

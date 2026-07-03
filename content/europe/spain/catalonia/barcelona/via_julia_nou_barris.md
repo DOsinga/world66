@@ -5,7 +5,7 @@ latitude: 41.44
 longitude: 2.175
 snippet: "The main boulevard of Nou Barris, redesigned in 1987 as Barcelona's first large pedestrianisation project in a working-class neighbourhood — a deliberate attempt to bring the urban improvements of the Olympic era to the city's periphery."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Nou Barris (Nine Neighbourhoods) is the northernmost district of Barcelona, composed of nine distinct barrios that were developed informally or through mass social housing construction in the 1950s and 1960s. The district's identity was defined by its distance from the city centre, the low income of its residents, and the inadequacy of its public infrastructure: few parks, narrow streets, no wide pedestrian spaces.

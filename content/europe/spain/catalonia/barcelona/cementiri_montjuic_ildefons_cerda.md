@@ -5,7 +5,7 @@ latitude: 41.35429
 longitude: 2.15556
 snippet: "The grave of the man who designed the Eixample is in the cemetery on Montjuïc — Cerdà died in 1876 in debt, his plan accepted but his reputation destroyed, unable to see how completely his grid would define the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Ildefons Cerdà i Sunyer died in 1876 in Caldas de Besaya, Spain, aged 64, virtually bankrupt. The plan he had created in 1859 for the expansion of Barcelona — the Eixample grid that would come to define the city — had been accepted by the Spanish central government over the objections of the Barcelona city council, which had preferred a different design. But accepting the plan had not meant rewarding its author. The construction of the Eixample proceeded according to Cerdà's grid but deviated from his social programme: the interior block gardens he had intended as communal space were built over by private developers, and the mixed-use, mixed-class neighbourhood he had planned became a bourgeois enclave.

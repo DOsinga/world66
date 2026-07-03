@@ -5,7 +5,7 @@ latitude: 41.396
 longitude: 2.178
 snippet: "An Eixample street named for the island of Sardinia — one of the territories of the Crown of Aragon's Mediterranean empire, commemorated in Barcelona's street grid alongside Sicily, Naples, and Corsica."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Eixample's cross streets were named, when the grid was laid out in the 1860s and 1870s, by a systematic pattern: streets running north-south (the avenues and passages) received the names of Catalan towns and regions; streets running east-west received the names of historical figures, concepts (Consell de Cent, Diputació), or territories of the medieval Crown of Aragon.

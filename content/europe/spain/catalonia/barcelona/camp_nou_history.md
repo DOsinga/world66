@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.1228
 snippet: "The world's largest football ground (capacity 99,000) was built in 1957 not simply to watch football but as a venue where speaking Catalan in a crowd was, briefly, tolerated under Franco."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Camp Nou (New Ground in Catalan) opened in 1957, replacing Les Corts stadium which had served FC Barcelona since 1922. The new stadium was built to the design of the architects Francesc Mitjans and Josep Soteras, with a capacity initially of 90,000 — large enough to be, when it opened, the largest football stadium in the world.

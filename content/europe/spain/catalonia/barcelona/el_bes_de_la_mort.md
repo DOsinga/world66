@@ -5,7 +5,7 @@ latitude: 41.39622
 longitude: 2.2042
 snippet: "The 'Kiss of Death' — a white marble sculpture in the Poblenou cemetery where a skeletal figure embraces a young man — Barcelona's most famous funerary sculpture, carved in 1930 by Jaume Barba."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Bes de la Mort (Kiss of Death) is a white marble sculpture group in the Cementiri de Poblenou, installed in 1930 on the tomb of the Llorenç family. The sculpture shows a winged skeletal figure — Death personified — bending over a young man and placing a kiss on his forehead. The young man appears to be asleep rather than dead; his face is peaceful, his body relaxed. The skeletal figure is not threatening but tender.

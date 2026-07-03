@@ -5,7 +5,7 @@ latitude: 41.3937
 longitude: 2.12048
 snippet: "The Sarrià convent where Catalan intellectuals met secretly in 1966 to protest Franco's regime — the 'Caputxinada' was the first public act of collective resistance by Catalan civil society."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In March 1966, approximately 130 intellectuals, academics, writers, and students gathered in the Convent de les Caputxines in Sarrià for what was announced as a constituent assembly for a democratic student union. The gathering was illegal under Franco's dictatorship. When police arrived to break it up, the participants refused to leave. They remained barricaded inside the convent for several days, with police surrounding it. The convent's status as a religious building created a diplomatic complication: entering by force would mean violating an ecclesiastical space.

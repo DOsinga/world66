@@ -5,7 +5,7 @@ latitude: 41.3827
 longitude: 2.1768
 snippet: "The current civic centre of Barcelona — with the Generalitat on one side and the City Hall on the other — sits directly on top of the Roman forum of Barcino, making it the oldest continuously used civic space in the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de Sant Jaume, where the Generalitat and the City Hall face each other across the cobblestones, is not merely Barcelona's current civic centre. It is the direct successor to the Forum Romanum of Barcino — the central public space of the Roman colonial city established in the 1st century BCE. The Roman forum occupied approximately the same area as the current square, slightly shifted but overlapping substantially.

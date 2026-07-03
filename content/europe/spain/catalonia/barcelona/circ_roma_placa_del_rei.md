@@ -5,7 +5,7 @@ latitude: 41.3841
 longitude: 2.1768
 snippet: "A 1st-century Roman circus (chariot racing track) lies beneath the Plaça del Rei area — Barcelona's medieval royal quarter sits on top of a sports facility from the period of Emperor Augustus."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Romans built a circus — a chariot racing track — in Barcino in the 1st century CE. The circus lay northeast of the forum, running along the line of what is now the Carrer dels Comtes toward the current Plaça del Rei. The structure was approximately 350 metres long and 75 metres wide, typical dimensions for a Roman provincial circus, capable of holding several thousand spectators.

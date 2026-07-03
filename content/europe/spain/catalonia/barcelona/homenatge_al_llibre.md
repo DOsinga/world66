@@ -5,7 +5,7 @@ latitude: 41.38927
 longitude: 2.16808
 snippet: "An early 20th-century marble sculpture near the Rambla paying tribute to the book — placed here because Sant Jordi's Day (April 23) has been Barcelona's book-and-roses festival since 1923."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Homenatge al Llibre (Homage to the Book) is a marble sculpture group near the top of the Rambla, installed as part of the cultural infrastructure around the celebrations of Sant Jordi's Day — April 23, the feast day of Catalonia's patron saint and the date on which the tradition of exchanging books and roses has been celebrated since 1923.

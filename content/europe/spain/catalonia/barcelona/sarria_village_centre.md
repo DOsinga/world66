@@ -5,7 +5,7 @@ latitude: 41.4006
 longitude: 2.1229
 snippet: "The main street of the old village of Sarrià, which remained independent from Barcelona until 1921 — the last municipality to resist annexation, and the only one that still functions as a distinct village."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Sarrià was an independent municipality until 1921, making it the last of Barcelona's surrounding villages to be absorbed into the city. It resisted annexation through the same period when Gràcia (1897), Sant Andreu, Sant Martí, and Sants (all 1897) were being absorbed. By 1921, Sarrià was surrounded on all sides by Barcelona and had no practical alternative to joining, but the merger was contested and bitterly felt.

@@ -5,7 +5,7 @@ latitude: 41.38597
 longitude: 2.12238
 snippet: "A stone gate designed by Gaudí in 1905 for the Güell estate in Les Corts — the dragon gate that inspired the later dragon sculpture at Park Güell, now standing incongruously at a pharmacy school."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The gate now standing at the entrance to the Universitat de Barcelona's Faculty of Pharmacy on the Avinguda de Joan XXIII was originally the main entrance gate to the Güell industrial colony at Santa Coloma de Cervelló — the workers' settlement near Barcelona that Eusebi Güell established for his textile factory employees in the 1890s. Gaudí designed the gate, completed around 1905, with the same organic vocabulary he was developing at Park Güell.

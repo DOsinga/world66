@@ -5,7 +5,7 @@ latitude: 41.38707
 longitude: 2.12929
 snippet: "A memorial in the Les Corts neighbourhood to the women imprisoned in the Franco-era women's prison here — used from 1939 to 1955 to hold political prisoners, including many members of the defeated Republican government."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Presó de Dones de les Corts was a women's prison that operated in the Les Corts neighbourhood from 1939, immediately after Franco's forces occupied Barcelona, until its closure in 1955. The building had previously been a children's correctional home; the Franco regime converted it to hold the women who had been detained for political reasons — members of the Republican government, party members, women who had worked for Republican organisations, relatives of men who had fled into exile.

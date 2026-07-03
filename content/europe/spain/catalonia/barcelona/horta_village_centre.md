@@ -5,7 +5,7 @@ latitude: 41.4315
 longitude: 2.175
 snippet: "The surviving centre of the old village of Horta, which was an independent agricultural municipality until 1904 — the oldest settlement in what is now northeastern Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Horta was one of the oldest agricultural settlements in the Barcelona area. Records of a Roman villa on the site date to the 1st century CE; the medieval village developed around a church dedicated to Sant Joan Baptista and functioned as an agricultural community supplying food to the city throughout the medieval and early modern periods. The name Horta simply means "orchard" or "garden" in Catalan.

@@ -5,7 +5,7 @@ latitude: 41.3753
 longitude: 2.147
 snippet: "The central square of the Sants neighbourhood, where the former independent municipality had its town hall — a working-class district defined by the textile factories that surrounded it on all sides."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça del Centre (Centre Square) in Sants was the municipal square of the independent town of Sants before its annexation by Barcelona in 1897. Like Gràcia and Sant Andreu, Sants had its own town hall, its own mayor, and its own civic identity as a working-class municipality defined by its factories rather than by the bourgeois culture of the expanding city to its east.

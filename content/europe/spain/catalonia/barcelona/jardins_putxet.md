@@ -5,7 +5,7 @@ latitude: 41.4075
 longitude: 2.143
 snippet: "A hillside park in Sant Gervasi with a small hermitage and a viewpoint over the Eixample — the Putxet hill was where Barcelona's upper classes walked on Sundays when the rest of the city was below them."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Turó del Putxet is a small hill rising above the Sant Gervasi neighbourhood, now occupied by a public park with paths, gardens, and a viewpoint overlooking the Eixample grid and the sea. The hill was outside the built-up area of Barcelona until the early 20th century, when the extension of the city northward incorporated it into the urban fabric. Before that, it was a place of Sunday walks for the residents of the upper-class villas that were being built in the Sant Gervasi area from the 1870s onward.

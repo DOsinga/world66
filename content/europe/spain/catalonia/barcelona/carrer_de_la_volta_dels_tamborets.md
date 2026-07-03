@@ -5,7 +5,7 @@ latitude: 41.3808
 longitude: 2.1735
 snippet: "Possibly Barcelona's most evocative medieval street name — 'Street of the Vault of the Little Drums' — recording the covered passage where tambourine sellers displayed their wares."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Volta dels Tamborets (Street of the Vault of the Little Drums) is a Gothic Quarter street whose name is among the most specific and evocative in the old city. The volta (vault) refers to a covered arcade or passage; the tamborets were small tambourines or frame drums that were sold in stalls under this vault. The combination produces a name that preserves, with unusual precision, the commercial identity of a specific medieval covered arcade.

@@ -5,7 +5,7 @@ latitude: 41.39489
 longitude: 2.17556
 snippet: "A 1910 monument to the Barceloneta-born mayor who resigned rather than implement a Madrid-imposed tax — made by Josep Llimona with Josep Puig i Cadafalch, it is Barcelona's most politically explicit Modernista monument."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Bartomeu Robert was a physician and politician who served as mayor of Barcelona in 1899-1902. His defining act was his resignation over the Tancament de Caixes — the Closing of the Cash Boxes. The Spanish government imposed a new tax on Barcelona's industry and commerce to pay the debts incurred in the Cuba and Philippines colonial wars that Spain had just lost. The Barcelona business community refused to pay, closing their books to tax inspectors. The central government threatened severe penalties; Robert, unwilling to implement a tax he considered unjust and which would destroy the economic base of the city he governed, resigned.

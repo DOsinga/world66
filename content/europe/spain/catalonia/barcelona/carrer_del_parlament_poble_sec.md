@@ -5,7 +5,7 @@ latitude: 41.372
 longitude: 2.158
 snippet: "The neighbourhood of Poble Sec grew on the slopes below Montjuïc in the 19th century, populated by workers from the nearby factories — its name, 'dry village', refers to the lack of water on the exposed hillside."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name Poble Sec (Dry Village) describes a practical geographic fact: the southern slope of Montjuïc, where the neighbourhood sits, had no natural water source. The springs that fed the rest of Barcelona's surrounding villages were on the northern and eastern faces of the Collserola and Montjuïc hills; the south-facing slope below Montjuïc was dry. When workers began settling here in the mid-19th century to be near the factories and port facilities along the Paral·lel, they built a neighbourhood where water had to be carried up from below.

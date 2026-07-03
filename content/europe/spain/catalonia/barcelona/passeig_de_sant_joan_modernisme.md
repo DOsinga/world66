@@ -5,7 +5,7 @@ latitude: 41.399
 longitude: 2.172
 snippet: "A less-known Eixample boulevard with a higher concentration of Modernista buildings than the Passeig de Gràcia — including three buildings by Puig i Cadafalch and the earliest surviving iron kiosk in the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passeig de Sant Joan is one of the Eixample's three main north-south boulevards, less famous than the Passeig de Gràcia but arguably richer in surviving Modernista architecture. The boulevard runs from the Arc de Triomf to the Diagonal, and along its upper half contains several Modernista buildings by Josep Puig i Cadafalch — including the Casa Macaya (1901) and the earlier Casa Martí (1896, now better known as Els Quatre Gats café) — alongside works by other architects of the period.

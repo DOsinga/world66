@@ -5,7 +5,7 @@ latitude: 41.3872
 longitude: 2.1895
 snippet: "A 1884 iron and glass winter garden in the Ciutadella park, designed by Josep Amargós — one of the finest surviving Victorian greenhouse structures in southern Europe."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Hivernacle (Winter Garden) in the Parc de la Ciutadella was built between 1884 and 1887 by the architect Josep Amargós, in preparation for the 1888 Universal Exposition. The structure is an iron and glass vaulted greenhouse of considerable elegance: a central nave approximately 70 metres long and 20 metres wide, flanked by side aisles under lower iron arcades, with elaborate cast-iron column capitals and decorative ironwork throughout.

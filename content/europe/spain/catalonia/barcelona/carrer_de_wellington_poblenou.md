@@ -5,7 +5,7 @@ latitude: 41.397
 longitude: 2.191
 snippet: "A Poblenou street named for the Duke of Wellington — one of the Spanish Liberal street-naming conventions of the 1830s, when the British general's campaigns against Napoleon made him a hero to Spanish liberals."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Duke of Wellington appears as a street name in several Spanish cities because his campaigns in the Peninsular War (1808-1814) made him a symbol of the struggle against Napoleonic occupation — and thus, in the political coding of the early 19th century, an ally of Spanish liberalism against both French imperialism and the absolutist Spanish monarchy. Streets named for Wellington were a political statement as well as a historical commemoration.

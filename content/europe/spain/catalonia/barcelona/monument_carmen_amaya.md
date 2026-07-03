@@ -5,7 +5,7 @@ latitude: 41.36852
 longitude: 2.16565
 snippet: "A 2010 bronze in Barceloneta commemorating the greatest flamenco dancer of the 20th century — born in a shack on the beach here in 1913, she became a global star while remaining attached to the neighbourhood that shaped her."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Carmen Amaya was born in 1913 in a shack on the Barceloneta beach, in the impoverished gitano (Roma) community that occupied the shore outside the formal neighbourhood. She died in 1963 in Begur, one of the most celebrated flamenco performers in history. In the fifty years between, she transformed flamenco — particularly the rapid footwork of the baile — while performing before presidents, kings, and Hollywood audiences.

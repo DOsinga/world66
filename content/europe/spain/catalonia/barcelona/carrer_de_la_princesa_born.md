@@ -5,7 +5,7 @@ latitude: 41.3852
 longitude: 2.18
 snippet: "The wide 19th-century street cut through the Born neighbourhood in 1853 — requiring the demolition of dozens of medieval buildings to create a boulevard wider than anything in the old city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Princesa was cut through the dense medieval fabric of the La Ribera neighbourhood in 1853, creating a wide straight street connecting the Plaça de l'Àngel to the Ciutadella park. The project required the demolition of multiple medieval buildings and the displacement of their residents — an operation similar in character to the Haussmann projects in Paris, which were happening simultaneously and were explicitly a model for Barcelona's urban reformers.

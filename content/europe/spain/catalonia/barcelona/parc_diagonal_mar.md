@@ -5,7 +5,7 @@ latitude: 41.41
 longitude: 2.215
 snippet: "The largest park built in Barcelona in the 21st century, designed by Enric Miralles on the former Can Framis farmlands east of Poblenou — a late work by the architect who also rebuilt the Santa Caterina market."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Parc de Diagonal Mar was designed by Enric Miralles and Benedetta Tagliabue and opened in 2002, two years after Miralles's death. The park covers approximately 14 hectares at the point where the Avinguda Diagonal meets the sea — the easternmost extension of the Diagonal, which was extended to the coast in 2004 as part of the Diagonal Mar development.

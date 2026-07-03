@@ -5,7 +5,7 @@ latitude: 41.4203
 longitude: 2.15182
 snippet: "A 1985 Barcelona memorial to Chile's murdered president — part of a pattern of Barcelona's working-class neighbourhoods commemorating Latin American leftists that reflects the city's exile communities."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The memorial to Salvador Allende on the slope above Gràcia was installed in 1985, twelve years after Allende's death in the Chilean coup of September 1973. The inscription quotes his last radio address: "La historia es nuestra y la hacen los pueblos" — History is ours, and it is made by the peoples. Allende died on 11 September 1973, a date that resonates in Barcelona where the same date marks the fall of the city to Bourbon forces in 1714.

@@ -5,7 +5,7 @@ latitude: 41.4008
 longitude: 2.1232
 snippet: "The central square of the former independent village of Sarrià — the church of Sant Vicenç de Sarrià has served the community since the 10th century, predating the city of Barcelona's expansion by nearly a millennium."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The church of Sant Vicenç de Sarrià stands at the centre of Sarrià's village square, on a foundation that dates to the 10th century. The current building is a Baroque structure with later modifications, but the site has been a Christian place of worship since well before Barcelona's medieval expansion reached this far into the foothills of the Collserola.

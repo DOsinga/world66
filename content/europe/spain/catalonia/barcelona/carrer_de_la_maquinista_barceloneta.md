@@ -5,7 +5,7 @@ latitude: 41.3785
 longitude: 2.187
 snippet: "One of the primary north-south streets in Barceloneta's 1754 grid — named not for machines but for the steam engine workshops that later appeared along it, recording the neighbourhood's 19th-century industrialisation."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Maquinista in Barceloneta is one of the primary north-south streets in the military engineer Cermeño's 1754 grid plan. The street's name predates the industrial maquinista (machinery) workshops it later refers to; the naming in the 19th century reflected the mechanical workshops that appeared along the street as steam technology reached the fishing neighbourhood.

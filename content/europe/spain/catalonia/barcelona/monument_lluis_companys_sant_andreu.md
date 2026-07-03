@@ -5,7 +5,7 @@ latitude: 41.42802
 longitude: 2.22457
 snippet: "One of several Barcelona memorials to the President of Catalonia who was executed by Franco in 1940 — placed in Sant Andreu because Companys grew up in this working-class neighbourhood."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Lluís Companys i Jover (1882-1940) served as President of the Generalitat de Catalunya from 1934. He had previously been a trade union lawyer and republican politician. When the Nationalist forces took Barcelona in January 1939, Companys fled to France with the rest of the Generalitat government. In 1940, the Gestapo arrested him in occupied France and handed him to the Spanish authorities in an extradition that violated international law.

@@ -5,7 +5,7 @@ latitude: 41.36318
 longitude: 2.16734
 snippet: "A Montjuïc memorial to the Catalan-born soldier who founded San Diego and the first Spanish settlements in California in 1769 — an entirely forgotten chapter of Catalan contribution to North American history."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Gaspar de Portolà i Rovira was born in Balaguer, Catalonia, in 1716 and died in Lleida in 1786. Between those dates, he had one of the more extraordinary careers in the history of Spanish colonialism: as governor of the Californias, he led the first overland expedition to Alta California in 1769-1770, founding the Presidio of San Diego and Mission San Diego de Alcalá, becoming the first European to see San Francisco Bay from land, and establishing the chain of Spanish settlements that would eventually become California.

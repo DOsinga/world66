@@ -5,7 +5,7 @@ latitude: 41.3812
 longitude: 2.166
 snippet: "The Raval street that has been associated with healthcare since 1401, when the Hospital de la Santa Creu consolidated Barcelona's charitable medical services into a single institution on this block."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de l'Hospital takes its name from the Hospital de la Santa Creu, which has occupied the north side of the street since 1401. Before the hospital's founding, Barcelona had several smaller and less systematic charitable medical institutions scattered across the city. The 1401 consolidation — bringing together six smaller hospitals under a single administration on this site — was one of the first large-scale charitable medical rationalisation projects in European history.

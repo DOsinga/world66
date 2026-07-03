@@ -5,7 +5,7 @@ latitude: 41.4145
 longitude: 2.1525
 snippet: "The famous colonnaded terrace and dragon staircase of Park Güell require a ticket, but the surrounding forest paths — and much of what Gaudí built — remain free to enter, visited by a fraction of the tourists below."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Park Güell was conceived by Eusebi Güell in 1900 as a private residential development: a garden city of 60 houses on the hill above Gràcia, designed by Antoni Gaudí. Only two houses were built before the project failed commercially — the plots sold poorly, partly because the location was considered too remote from the city centre, and the development was abandoned. In 1918 the city of Barcelona bought the land and opened it as a public park.

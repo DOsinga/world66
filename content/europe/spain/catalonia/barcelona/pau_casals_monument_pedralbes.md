@@ -5,7 +5,7 @@ latitude: 41.3941
 longitude: 2.14183
 snippet: "A monument in the Pedralbes neighbourhood to the cellist who spent 40 years in exile rather than return while Franco ruled — placed here because Casals spent his youth in the nearby streets."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Pau Casals (Pablo Casals in Spanish) was one of the most celebrated cellists in the history of Western music, born in El Vendrell in 1876 and trained in Barcelona. He rose to international fame in the early 20th century, performed before presidents and kings, and was considered the master interpreter of the Bach solo cello suites — which he had discovered in a Barcelona music shop in 1890, in a manuscript that everyone else had dismissed as exercises.

@@ -7,7 +7,7 @@ image_attribution: Pampuco
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Colle_San_Bartolomeo_da_valle_Impero.jpg
 latitude: 43.939627
-loc_type: city
+loc_type: feature
 longitude: 8.010234
 score: 7.64
 snippet: Ligurian inland valley of olive groves, medieval villages, and quiet roads

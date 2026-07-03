@@ -5,7 +5,7 @@ latitude: 41.38359
 longitude: 2.17667
 snippet: "A narrow Gothic Quarter street beside the Cathedral wall — its name, Street of Piety, refers to a Gothic limestone relief of the Virgin still embedded in the Cathedral's outer wall."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The street connects the Gothic Quarter's interior lanes to the open space of Plaça de la Seu in front of the Cathedral. It is narrow enough that two people with bags brush shoulders, and it runs along the exterior wall of the Cathedral's apse. The name — Pietat, piety — refers to a Gothic relief carved directly into that wall at street level, embedded in the stone above a doorway: the image of the Virgin receiving the body of Christ, a Pietà in the late medieval tradition.

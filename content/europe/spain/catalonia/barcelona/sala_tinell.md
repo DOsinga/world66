@@ -5,7 +5,7 @@ latitude: 41.38412
 longitude: 2.17728
 snippet: "The 14th-century royal banquet hall where Christopher Columbus reported to Ferdinand and Isabella after his first voyage — six stone arches spanning 17 metres without columns."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The great hall at the back of Plaça del Rei was built between 1359 and 1380 for King Pere III of Aragon, intended as the throne room and principal reception hall of the Royal Palace of Barcelona. It is one of the most remarkable rooms in Catalonia: seventeen metres wide, spanning the full width with six rounded stone arches rising from the floor without any intermediate columns. The arches are the whole structure — there are no pillars inside the space. The effect, walking in, is of extraordinary roominess: the stone curves above you and the floor is clear.

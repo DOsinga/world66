@@ -5,7 +5,7 @@ latitude: 41.3643
 longitude: 2.1564
 snippet: "The hillside cemetery on Montjuïc contains 80,000 burial niches in multi-storey walls — creating a vertical city of the dead whose scale and density reflects the Barcelona that filled it."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Cementiri de Montjuïc, opened in 1883, is organised on a principle that maximises the use of a steeply sloped site: rather than burying the dead in horizontal plots, it uses niches cut into vertical walls, stacked four to six high, creating what appears from a distance as a multi-storey residential development in white and grey stone. This vertical organisation reflects the same space-efficiency logic that drove the construction of Barcelona's narrow apartment buildings.

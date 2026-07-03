@@ -5,7 +5,7 @@ latitude: 41.3822
 longitude: 2.1744
 snippet: "A short street in the former Jewish quarter — named for the Dominican church built on the ruins of the Great Synagogue after the 1391 pogrom destroyed the Jewish community of Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Sant Domènec del Call takes its name from the church of Sant Domènec, a Dominican foundation established in the Jewish quarter in the years following the pogrom of 1391. In August of that year, mobs attacked the Jewish quarter of Barcelona — the Call — killing a significant portion of the community, destroying property, and forcing survivors to convert to Christianity or flee. The Great Synagogue, which had stood near the current Plaça de Sant Jaume, was demolished and a church built in its place.

@@ -5,7 +5,7 @@ latitude: 41.3885
 longitude: 2.169
 snippet: "Named for Barcelona's medieval council of a hundred citizens — a form of urban self-governance that predated most European democratic institutions by four centuries."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Consell de Cent (Council of the Hundred) was established in 1265 as the principal governing body of Barcelona. Its name was slightly misleading from the start: the membership fluctuated between 100 and 200 citizens depending on the period, and the actual decision-making was concentrated in a smaller executive committee. But the name stuck, and the institution with it.

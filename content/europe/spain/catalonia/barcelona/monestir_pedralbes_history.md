@@ -5,7 +5,7 @@ latitude: 41.3978
 longitude: 2.119
 snippet: "The best-preserved Gothic cloister in Catalonia, founded in 1326 by Queen Elisenda de Moncada — who retired here after the death of her husband King James II and spent 34 years in the monastery she built."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Monastery of Pedralbes was founded in 1326 by Elisenda de Moncada, the fourth and last wife of King James II of Aragon. The king died in 1327, less than a year after the monastery's consecration. Elisenda was 35 years old. She entered the Poor Clares community she had founded, adopted the habit, and lived in the monastery for the remaining 34 years of her life. She died in 1364, at roughly 70, having spent most of her adult life in the institution she had built.

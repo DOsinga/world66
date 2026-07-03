@@ -5,7 +5,7 @@ latitude: 41.379
 longitude: 2.178
 snippet: "The street running behind the port where Barcelona's naval officers lived in the 18th century — named for the Mercedarian order that ran the church at its heart."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Mercè runs from the Plaça de la Mercè, where the 18th-century church of Nostra Senyora de la Mercè stands, toward the port. The Mercedarians — the Order of Our Lady of Mercy, founded in Barcelona in 1218 specifically to ransom Christian captives from North African corsairs — had their principal Barcelona church on this street, and the neighbourhood around it became associated with the maritime administration of the city.

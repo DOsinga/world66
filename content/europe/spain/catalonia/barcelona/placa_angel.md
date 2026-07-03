@@ -5,7 +5,7 @@ latitude: 41.38382
 longitude: 2.17845
 snippet: "The square where an angel appeared to stop the removal of Saint Eulàlia's remains — according to legend — and where the city's eastern gate once stood."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The junction where Carrer de Jaume I meets Via Laietana feels like a traffic interchange rather than a square, but the name on the street signs — Plaça de l'Àngel — refers to a story that is central to Barcelona's founding mythology. In the 9th century, according to the account preserved in Catalan chronicles, the remains of the young martyr Santa Eulàlia were being transferred from a church in the Raval district to the newly rebuilt Cathedral. At this spot, the procession stopped and could not continue: the coffin became immovably heavy. An angel appeared and explained that one of Eulàlia's fingers was missing, withheld by someone in the procession. The finger was returned, the weight lifted, and the procession continued.

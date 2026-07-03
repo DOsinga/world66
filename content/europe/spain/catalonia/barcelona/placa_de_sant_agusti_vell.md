@@ -5,7 +5,7 @@ latitude: 41.3848
 longitude: 2.178
 snippet: "A small Sant Pere square built on the ruins of an Augustinian convent destroyed in 1835 — part of Barcelona's great anti-clerical fire that transformed the city's religious real estate."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The summer of 1835 saw systematic arson attacks on religious buildings across Spain, triggered by a complex mix of anti-clerical sentiment, liberal politics, and economic resentment at the wealth of religious institutions. In Barcelona on the night of 25 July 1835 — the feast of Saint James — convents and monasteries across the city were attacked and burned. The Augustinian convent of Sant Agustí Vell, which had stood on this site since the 14th century, was destroyed.

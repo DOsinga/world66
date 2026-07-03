@@ -5,7 +5,7 @@ latitude: 41.39014
 longitude: 2.18653
 snippet: "The monumental fountain in the Parc de la Ciutadella was designed by a team that included a young architecture student named Antoni Gaudí — the first known collaboration of the future master."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Cascada — the great waterfall and fountain at the far end of the Parc de la Ciutadella — was designed for the Universal Exhibition of 1888. It is a theatrical piece of landscape architecture: a massive rocky artificial cliff drops from a Baroque-inspired upper terrace, water tumbles down in several falls, and at the centre stands a bronze group of Aurora's chariot rising from the sea. The scale is romantic rather than rational, borrowed from French and Italian garden traditions and rendered in Spanish stone.

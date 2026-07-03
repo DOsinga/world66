@@ -5,7 +5,7 @@ latitude: 41.4058
 longitude: 2.1895
 snippet: "A pedestrian footbridge crossing the Gran Via in Sant Martí, named for 'Dignified Work' — a recent structure whose name encodes the political character of a neighbourhood defined by the labour movement."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Pont del Treball Digne (Bridge of Dignified Work) crosses the Gran Via de les Corts Catalanes at the Rambla del Poblenou, providing a pedestrian connection between the Poblenou neighbourhood and the Glòries area. The bridge was designed by Robert Brufau and opened in 2011. Its name — Dignified Work — references the labour history of the neighbourhood it serves.

@@ -5,7 +5,7 @@ latitude: 41.388
 longitude: 2.176
 snippet: "A late 19th-century iron pedestrian bridge crossing the railway cut that divided the Eixample from the old city — one of several bridges that connected what the railway had separated."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The railway that arrived in Barcelona in 1848 — the first line in Spain, connecting Barcelona to Mataró — had to cross the city's northern edge. As the network expanded, the main railway corridor ran along what is now the Carrer d'Aragó, cutting through the territory that would become the Eixample and creating a physical barrier between the old city and the new expansion zone.

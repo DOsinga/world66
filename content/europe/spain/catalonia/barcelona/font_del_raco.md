@@ -5,7 +5,7 @@ latitude: 41.415
 longitude: 2.147
 snippet: "A spring fountain in the Collserola foothills above Barcelona used for centuries by residents coming to fill vessels with spring water — one of a chain of natural sources that supplied the city before the industrial water system."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Font del Racó (Corner Fountain) is one of several natural springs in the lower Collserola hills that were used by Barcelona residents for centuries before the city's water infrastructure was modernised in the 19th century. The spring emerges from the hillside at a point where a small depression — the racó, or corner — catches the slope's drainage.

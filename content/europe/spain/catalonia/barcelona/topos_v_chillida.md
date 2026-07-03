@@ -5,7 +5,7 @@ latitude: 41.38404
 longitude: 2.17750
 snippet: "Eduardo Chillida's brooding iron sculpture squats at the edge of Plaça del Rei — a weathering steel mass that seems to belong to the medieval stones around it."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Most people walking into Plaça del Rei are looking up — at the Gothic palace façade, the staircase, the tower. Topos V sits low at the plaza's edge and demands you look down. The Basque sculptor Eduardo Chillida placed this rusted iron form here in 1986, and it has aged into the square like something that was always there: dark, dense, its surfaces oxidized to the colour of old blood.

@@ -5,7 +5,7 @@ latitude: 41.38125
 longitude: 2.18132
 snippet: "Carpenters Street in the old trades quarter near the waterfront — one of a cluster of streets still named for the medieval craft guilds that once operated here."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In medieval Barcelona, the area between the Cathedral district and the waterfront was where the craft guilds worked and lived, and the streets still carry their names. Carrer de la Fusteria is Carpenters Street. Nearby, Carrer dels Flassaders is Blanket-makers Street. Carrer de l'Argenteria, a few blocks north, is Silversmiths Street. The medieval system sorted trades by location — partly for fire safety, partly for quality control by guild inspection, partly so that buyers knew where to find a particular craft.

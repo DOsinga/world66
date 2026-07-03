@@ -5,7 +5,7 @@ latitude: 41.3855
 longitude: 2.1805
 snippet: "The street of the leather finishers in the medieval Born neighbourhood — its name records the guild that dressed and coloured hides in workshops along the Rec Comtal canal."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The assaonadors were leather finishers: craftspeople who took raw tanned hides and worked them into soft, coloured, polished leather suitable for gloves, shoes, and the decorative leatherwork that was a prestige commodity in medieval Barcelona. The guild occupied this street because of its proximity to the Rec Comtal, the canal that carried water through the neighbourhood. Water was essential to their trade: the softening, dyeing, and finishing of leather required constant washing and rinsing.

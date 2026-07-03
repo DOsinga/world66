@@ -5,7 +5,7 @@ latitude: 41.38
 longitude: 2.1745
 snippet: "Officially Plaça de George Orwell since 1996 — ironic, because this CCTV-monitored square is the most surveilled space in a neighbourhood Orwell celebrated for its revolutionary self-governance."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In 1936, the young Eric Blair — known by his pen name George Orwell — arrived in Barcelona to fight in the Spanish Civil War. He was attached to the POUM, a dissident Marxist militia, and spent several months in the city. His memoir Homage to Catalonia, published in 1938, described Barcelona in those early revolutionary months: "I had breathed the air of equality... it was the first time I had ever been in a town where the working class was in the saddle."

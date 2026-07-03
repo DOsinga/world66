@@ -5,7 +5,7 @@ latitude: 41.38219
 longitude: 2.17604
 snippet: "The street named for the medieval Jewish quarter: 'call' comes from the Hebrew 'qahal', community — and the name survived centuries after the community was destroyed."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The street is narrow even by Gothic Quarter standards. The buildings lean slightly toward each other overhead. There are no market stalls, no tourist attractions announced. But the name on the wall — Carrer del Call — is one of the most historically weighted street names in Barcelona.

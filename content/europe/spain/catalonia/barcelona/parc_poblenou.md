@@ -5,7 +5,7 @@ latitude: 41.4015
 longitude: 2.2025
 snippet: "A neighbourhood park in Poblenou incorporating the ruins of an industrial building — the undemolished brick chimney at its centre is a deliberate memorial to the factory landscape the park replaced."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Parc del Poblenou, opened in 1992 as part of Barcelona's pre-Olympic urban improvements, occupies a site that had been a factory complex. Rather than demolishing all traces of the industrial past, the park design retained a large brick chimney from the former factory as a sculptural element at the park's centre. The chimney, approximately 25 metres tall, now stands surrounded by palm trees and garden paths, a relic of the manufacturing landscape that the entire Poblenou neighbourhood is in the process of dismantling and revaluing.

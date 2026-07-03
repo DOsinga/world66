@@ -5,7 +5,7 @@ latitude: 41.3837
 longitude: 2.169
 snippet: "The Raval street whose name means 'workshops' — it was the main artisan manufacturing zone north of the Rambla, and today is Barcelona's surviving record shop district."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer dels Tallers (Workshop Street) was the main artery of the artisan quarter in the Raval north of the old city. The tallers in question were the workshops — not of a specific trade but of the general manufacturing economy that occupied this zone from the 14th century onward. Shoemakers, tailors, carpenters, and blacksmiths worked in the ground-floor premises of the buildings along this street, with their families living above.

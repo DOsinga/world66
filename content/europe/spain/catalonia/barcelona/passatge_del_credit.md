@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.176
 snippet: "A mid-19th century covered passage near the Plaça de Sant Jaume, where Barcelona's first modern financial institutions were established and where Josep Pla, the 20th century's greatest Catalan prose writer, was born."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge del Crèdit is a short covered passage running between the Carrer de Ferran and the Carrer de la Boqueria, a few steps from the Plaça de Sant Jaume. The name refers to the credit institutions — banks, lending houses, and financial agencies — that occupied it in the 19th century, as Barcelona's financial sector began to formalise along modern lines.

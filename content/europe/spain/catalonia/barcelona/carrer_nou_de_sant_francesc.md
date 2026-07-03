@@ -5,7 +5,7 @@ latitude: 41.3783
 longitude: 2.1768
 snippet: "A street near the port where the Franciscan friary of Sant Francesc de Paula stood until the 1835 fires — its destruction opened the zone to the secular commercial development that now characterises it."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer Nou de Sant Francesc (New Saint Francis Street) near the port takes its name from the Franciscan friary of Sant Francesc de Paula, which occupied a large block in this area from the 17th century until its destruction in the 1835 anti-clerical fires. The friary's Church of Sant Francesc de Paula was one of the significant Baroque ecclesiastical buildings of Barcelona's port zone; the friary complex included cloisters, a garden, and extensive storage facilities.

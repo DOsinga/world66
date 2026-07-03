@@ -5,7 +5,7 @@ latitude: 41.3858
 longitude: 2.181
 snippet: "Walking down four levels below the Born market hall floor brings you to 1714 — the preserved streets, wells, and house foundations of the neighbourhood destroyed to build the Ciutadella fortress."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The excavation beneath the Born market hall revealed not a single archaeological layer but a complex stratigraphy of urban life. The upper strata showed 17th-century modifications; deeper, the streets and foundations of the neighbourhood as it existed before 1714 emerged. Archaeologists could follow specific house plans: a room with a hearth, a cellar with storage vessels intact, a street corner where two houses met, a well still holding groundwater.

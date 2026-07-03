@@ -5,7 +5,7 @@ latitude: 41.3842
 longitude: 2.1757
 snippet: "The square in front of the Cathedral where two original Roman towers of the 3rd-century city wall still stand — and where the Saturday sardana dancing takes place."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça Nova (New Square) in front of the Cathedral is paradoxically one of the oldest spaces in Barcelona. The square occupies the area in front of the main gate of the Roman city of Barcino, and two of the original towers flanking that gate still stand, incorporated into the medieval buildings on either side. The towers date from the late 3rd century CE, when the Roman city was fortified as part of the empire's response to incursions across the Rhine and Danube frontiers.

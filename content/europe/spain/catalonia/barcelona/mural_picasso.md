@@ -5,7 +5,7 @@ latitude: 41.38375
 longitude: 2.17616
 snippet: "Sgraffito frieze on the façade of the Col·legi d'Arquitectes — Picasso's largest public commission, executed in 1960 when he was barred from entering Franco's Spain."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building opposite the Barcelona Cathedral is the headquarters of the Catalan architects' professional association, a brutalist block from 1958 that would be entirely unremarkable were it not for what covers its exterior walls. Three massive concrete friezes run across the façades, rendered in sgraffito (a technique of scratching through wet plaster to reveal a contrasting layer beneath). The designs are by Pablo Picasso. They show scenes from Catalan popular life: a sardana dance, a procession with a giant puppet, children playing, palm branches — everything inflected with Picasso's characteristic stylisation.

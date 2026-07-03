@@ -5,7 +5,7 @@ latitude: 41.37144
 longitude: 2.16663
 snippet: "An air raid shelter beneath the Poble Sec neighbourhood was dug by hand by residents in 1936 — one of over a thousand such shelters built by Barcelona's civilian population during the Civil War."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Below the streets of Poble Sec, a network of tunnels runs for 200 metres under the residential blocks. This is Refugi 307, one of the estimated 1,300 civil defence shelters that Barcelona's population dug for themselves during the Spanish Civil War, when the city became the first European capital to be systematically bombed from the air in wartime. The shelter was begun in 1936 and expanded through the war, dug manually by neighbourhood residents without professional assistance.

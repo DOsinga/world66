@@ -5,7 +5,7 @@ latitude: 41.428
 longitude: 2.163
 snippet: "A private garden created by Gaudí in 1906 in the Collserola hills above Barcelona — smaller and less visited than Park Güell, it shows Gaudí working with natural water in an experimental landscape."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Jardins Artigas were created by Antoni Gaudí in 1906 for the manufacturer Joan Artigas, at a site in the La Pobla de Lillet valley in the Collserola hills above Barcelona. The garden is accessed from a road above the Vallvidrera reservoir and represents one of Gaudí's least-known projects — a private commission for a client who wanted a garden incorporating the rocky hillside and natural watercourse that ran through his property.

@@ -5,7 +5,7 @@ latitude: 41.3966
 longitude: 2.154
 snippet: "A quiet Gràcia street where Casa Vicens was built — and where the Caroline Islands connection explains why a Pacific archipelago gave its name to a lane in Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Carolines in Gràcia takes its name not from a person named Carolina but from the Caroline Islands, a Pacific archipelago that Spain claimed as a colony in 1885. The naming of the street in the 1880s reflected the political moment: Spain's claim to the Carolines was disputed by Germany, and the resulting crisis — resolved eventually by papal mediation — briefly made the islands famous in Barcelona, where the colonial question was closely followed by the liberal press.

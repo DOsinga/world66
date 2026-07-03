@@ -5,7 +5,7 @@ latitude: 41.3793
 longitude: 2.178
 snippet: "The 'Wide Street' of medieval Barcelona — named for being the first street wide enough for two carts to pass, it was the commercial artery of the zone between the Gothic Quarter and the port."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer Ample (Broad Street) received its name in the medieval period for a straightforward reason: it was wider than the surrounding streets. In a city where most streets were barely wide enough for two people to walk abreast, a street where two ox-carts could pass each other was genuinely remarkable. The width — approximately 8 to 10 metres — was a luxury that reflected the street's commercial importance.

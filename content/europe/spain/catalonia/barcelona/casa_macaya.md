@@ -5,7 +5,7 @@ latitude: 41.3983
 longitude: 2.1677
 snippet: "Puig i Cadafalch's 1901 mansion in the Eixample — its white Gothic-Modernista façade and extraordinary courtyard mark the peak of one approach to Catalan nationalist architecture."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Josep Puig i Cadafalch was the third figure in the triumvirate of Catalan Modernisme, alongside Domènech i Montaner and Gaudí. The Casa Macaya, built in 1901 for the industrialist Joan Macaya, represents his most developed domestic statement. Where Domènech i Montaner used brick and ceramics, and Gaudí used stone and parabolic arches, Puig i Cadafalch turned to the white stucco of Catalan Gothic secular architecture — the palaces and guildhalls of the late medieval period — inflected with Northern European Gothic and Renaissance details learned from his study of Dutch and Belgian architecture.

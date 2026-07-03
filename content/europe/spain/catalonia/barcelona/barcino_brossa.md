@@ -5,7 +5,7 @@ latitude: 41.38425
 longitude: 2.17538
 snippet: "Seven bronze letters spell the Roman name of Barcelona across the pavement of Plaça Nova — each one a different typographic creature."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 You are standing on what was once the main gate of a Roman colony. The aqueduct towers rise behind you, still holding the weight of two thousand years. And at your feet, spread across the paving stones in a diagonal line, seven letters spell out B-A-R-C-I-N-O — the city's original name, as the Romans who founded it around 10 BCE would have written it.

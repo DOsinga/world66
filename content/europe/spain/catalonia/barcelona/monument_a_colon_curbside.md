@@ -5,7 +5,7 @@ latitude: 41.37589
 longitude: 2.17797
 snippet: "The 1888 iron column at the foot of the Rambla contains a spiral staircase inside — and points Columbus toward Genoa, not the Americas, though no one has ever officially acknowledged this embarrassing detail."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Columbus Monument at the foot of the Rambla was built for the 1888 Universal Exposition and stands 60 metres tall. It celebrates the return of Columbus to Barcelona in 1493 to report to the Catholic Monarchs on his first voyage, which is historically documented. The statue on the top shows Columbus pointing toward the horizon.

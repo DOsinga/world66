@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.167
 snippet: "An art and design school operating in the medieval ward buildings of the Hospital de la Santa Creu — where Gaudí died in 1926, students now work in the same building."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Hospital de la Santa Creu complex on the Carrer de l'Hospital housed the Escola Massana — a school of art and design — in some of its medieval ward buildings. The school was established in 1929 and has occupied the hospital's medieval halls continuously since the hospital's medical functions moved to the modern Hospital de Sant Pau in 1930. The combination of 15th-century Gothic vaulting and contemporary art and design education creates an architectural context that would have seemed surreal to either the medieval founders or the 20th-century pedagogues.

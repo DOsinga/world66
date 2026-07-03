@@ -5,7 +5,7 @@ latitude: 41.402
 longitude: 2.197
 snippet: "The main artery of the 22@ innovation district, where Barcelona's planned transformation of industrial Poblenou into a knowledge economy has produced a neighbourhood in permanent mid-renovation."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer del Pallars runs through the heart of the Poblenou neighbourhood, serving as the main street of the 22@ innovation district — the zone designated for the conversion of former industrial land into offices, research centres, and technology companies. The 22@ plan, launched in 2000, covered 200 hectares of the most intensely industrialised part of the city.

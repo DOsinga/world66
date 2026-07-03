@@ -5,7 +5,7 @@ latitude: 41.38295
 longitude: 2.18219
 snippet: "Old Exchange Street, in the heart of medieval La Ribera — where the city's money-changers operated booths in the shadow of Santa Maria del Mar."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name Canvis Vells means Old Exchanges — and there was a Carrer dels Canvis Nous (New Exchanges) nearby, which tells you that the money-changing trade expanded at some point and needed a new street. The canvis — exchange booths or tables — were where medieval merchants could convert between the currencies of different kingdoms and city-states that flowed through Barcelona's port in the 13th and 14th centuries. A ship from Genoa arrived with Genoese pounds; the goods it carried needed to be paid for in Barcelona lliures or Aragonese sueldos; the canviadors sat at their tables and made the conversion, keeping their percentage.

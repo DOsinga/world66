@@ -5,7 +5,7 @@ latitude: 41.389
 longitude: 2.166
 snippet: "The Eixample street named for the Diputació — the provincial government — which was housed near this thoroughfare and which presided over Barcelona's industrial expansion."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Diputació runs east-west through the Eixample, named for the Diputació Provincial de Barcelona — the provincial government institution that managed local affairs under the Restoration-period centralised Spanish state from 1875 onward. The Diputació presided over Barcelona's fastest period of industrial growth, managing infrastructure and public works in a city that was doubling in population with each generation.

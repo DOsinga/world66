@@ -5,7 +5,7 @@ latitude: 41.383
 longitude: 2.172
 snippet: "A brief 19th-century passage near the Rambla, where the Patriarch refers to Josep Oriol — a 17th-century Barcelona priest beatified for miracles that became a focus of popular Baroque devotion."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge del Patriarca (Patriarch's Passage) in the Gothic Quarter takes its name from the title "Patriarca" applied to the 17th-century priest and healer Josep Oriol Boginyà (1650-1702), who became one of the most celebrated popular religious figures in Barcelona. Oriol was born in the city, studied theology at the University of Barcelona, and spent much of his adult life as the curate of the church of Santa Maria del Pi in the Gothic Quarter.

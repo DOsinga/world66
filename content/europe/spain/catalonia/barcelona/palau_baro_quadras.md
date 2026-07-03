@@ -5,7 +5,7 @@ latitude: 41.39665
 longitude: 2.16141
 snippet: "Puig i Cadafalch's most extraordinary domestic façade — two completely different faces on the same building, one facing Diagonal, one facing Carrer de Rosselló, each in a different style."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Palau del Baró de Quadras on Avinguda Diagonal is one of the most architecturally singular buildings in Barcelona. Josep Puig i Cadafalch designed it between 1902 and 1906 for the Baron de Quadras, a wealthy industrialist, and the result is a building with what amounts to two entirely different personalities. The façade facing Diagonal is late Gothic revival: spiky stone canopies, heraldic carving, trefoil windows, the whole vocabulary of 15th-century Flemish civic architecture rendered in Catalan stone. The façade on the narrower Carrer de Rosselló, just around the corner, is Moorish-Mudejar: horseshoe arches, geometric tilework, carved plasterwork in the Andalusian manner.

@@ -5,7 +5,7 @@ latitude: 41.3858
 longitude: 2.1789
 snippet: "The 2005 renovation of Barcelona's oldest covered market gave it a wave-shaped mosaic roof designed by Enric Miralles — who died during construction, making it his last completed work."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mercat de Santa Caterina in the Sant Pere neighbourhood was the first covered food market built in Barcelona — opened in 1848, on the site of the Dominican convent of Santa Caterina that had been demolished after the anti-clerical fires of 1835. The original market building was a standard 19th-century iron-frame structure with a gabled roof.

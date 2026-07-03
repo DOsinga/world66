@@ -5,7 +5,7 @@ latitude: 41.38134
 longitude: 2.17483
 snippet: "Two red letter A's on the exterior wall of a shop on Carrer de Rauric perform gymnastic feats — a 1997 visual poem by Joan Brossa."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 At number 6 Carrer de Rauric, a narrow street in the Gothic Quarter between Plaça Reial and La Rambla, two large red A's are affixed to the exterior wall of a shop. They are not doing what you expect letters to do. One is upright but leaning; the other tips at an angle. Together they form what Joan Brossa titled Lletres Gimnastes — Gymnastic Letters — a visual poem installed in 1997 and dedicated to the shop's founder, one Mr. Cardona.

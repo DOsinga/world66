@@ -5,7 +5,7 @@ latitude: 41.412
 longitude: 2.149
 snippet: "A 1925 viaduct crossing a ravine in the upper Gràcia neighbourhood — built to carry the tram line that served the Tibidabo resort, it now links two hilltop neighborhoods via a pedestrian bridge."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Viaducte del Vallcarca crosses the Torrent de les Monges ravine in the upper part of the city, at the point where the Gràcia neighbourhood meets the Vallcarca district. The viaduct was built in 1925 to carry the tram line connecting the Plaça de Catalunya to Tibidabo — the mountain-top amusement park that had opened in 1901 and required improved transport links to grow its visitor numbers.

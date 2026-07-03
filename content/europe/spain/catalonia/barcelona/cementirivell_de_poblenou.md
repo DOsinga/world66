@@ -5,7 +5,7 @@ latitude: 41.4043
 longitude: 2.198
 snippet: "The 1775 Neoclassical cemetery at the edge of Poblenou — the first purpose-built cemetery in Spain, created when Enlightenment hygiene reformers moved burials outside city limits."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Cementiri de Poblenou — often called the Cementiri del Poblenou or the Cementiri Vell (Old Cemetery) — was opened in 1775 and is among the oldest purpose-built cemeteries in Spain. Before its creation, the dead of Barcelona were buried in church floors and the small yards attached to parish churches, a practice that had become a public health problem in a city with a rapidly growing population and a tradition of opening graves before the previous occupant had fully decomposed.

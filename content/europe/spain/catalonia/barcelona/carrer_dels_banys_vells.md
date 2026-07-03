@@ -5,7 +5,7 @@ latitude: 41.385
 longitude: 2.179
 snippet: "The street of the Old Baths in the Born — the medieval bathhouse that served the La Ribera neighbourhood until the 1492 expulsion of the Jewish community ended the bath culture associated with them."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer dels Banys Vells (Old Baths Street) in the Born neighbourhood takes its name from a medieval bathhouse that operated on this site from at least the 13th century. The banys — public baths — were essential institutions in medieval Barcelona, serving the large majority of residents who had no bathing facilities in their homes. The La Ribera neighbourhood's baths were among the most significant in the city.

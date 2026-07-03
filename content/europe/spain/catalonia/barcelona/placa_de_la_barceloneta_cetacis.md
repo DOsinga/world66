@@ -5,7 +5,7 @@ latitude: 41.3796
 longitude: 2.193
 snippet: "A small memorial in Barceloneta to the whales and dolphins hunted from this shore — a reminder that Barcelona's fishing economy included a now-forgotten cetacean hunting tradition."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 A small memorial in the Barceloneta neighbourhood commemorates the cetacean hunting that was practiced from the Barcelona shore from the medieval period to the 19th century. Sperm whales, pilot whales, and dolphins were hunted in the waters off the city when they came close to shore, a practice documented in Barcelona's maritime records from the 14th century onward.

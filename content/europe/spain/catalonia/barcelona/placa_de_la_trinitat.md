@@ -5,7 +5,7 @@ latitude: 41.3825
 longitude: 2.174
 snippet: "One of the smallest medieval squares in the Gothic Quarter — a triangle of cobbles wedged between four streets, marking the site of a demolished church of the Trinity."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Trinitat is easy to miss: a three-cornered space not much larger than a living room, squeezed between buildings on what was once the edge of the Jewish quarter. Its triangular shape is not a design choice but a consequence of three converging medieval street lines, none of which were planned in relation to each other. The square occupies the approximate footprint of the former church of the Holy Trinity, which was built for a confraternity in the 14th century and demolished in the early 19th.

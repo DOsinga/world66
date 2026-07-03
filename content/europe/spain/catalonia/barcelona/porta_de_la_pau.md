@@ -5,7 +5,7 @@ latitude: 41.377
 longitude: 2.1765
 snippet: "The gateway to the city from the sea, where the Rambla meets the port — a symbolic threshold that every ship arriving at Barcelona passed through for centuries before the port was extended."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Porta de la Pau (Gate of Peace) is now a traffic roundabout at the bottom of the Rambla, next to the Columbus Monument. In the medieval and early modern city, it was the principal gateway between the port and the urban fabric — the point where sailors coming off ships entered the city and where merchants going down to the docks left it.

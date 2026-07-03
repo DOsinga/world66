@@ -5,7 +5,7 @@ latitude: 41.403
 longitude: 2.159
 snippet: "Gràcia's most beloved small square, named for a woman who never visited but whose palace in the city centre paid for one of Barcelona's finest churches."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Virreina in Gràcia takes its name from an unusual honorific: Viceregent's wife. The Virreina in question was Maria Francesca de Fivaller i de Bru, widow of Manuel d'Amat i de Junyent, who served as Viceroy of Peru from 1761 to 1776. Amat returned to Barcelona extraordinarily rich and began building the Palau de la Virreina on the Rambla — the neoclassical palace that now houses the city's photography and design exhibitions. He died in 1782 before it was complete. His widow inherited the fortune and finished the palace, hence becoming known as "La Virreina."

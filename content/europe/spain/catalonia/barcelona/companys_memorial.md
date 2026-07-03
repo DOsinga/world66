@@ -5,7 +5,7 @@ latitude: 41.35622
 longitude: 2.14895
 snippet: "Lluís Companys, President of Catalonia, was arrested by the Gestapo in Paris in 1940, handed to Franco's Spain, and shot at dawn on Montjuïc — the only democratically elected European head of government executed under Nazism."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In the Fossar de la Pedrera — the old stone quarry-turned-cemetery on the Montjuïc hillside — there is a memorial to Lluís Companys i Jover, President of the Generalitat of Catalonia, who was executed by firing squad here on 15 October 1940. He was arrested in France, where he had fled after the fall of the Republic, by the Gestapo acting at Franco's request, delivered to Spanish authorities, subjected to a military trial that lasted twenty minutes, and shot at dawn in the fortress above.

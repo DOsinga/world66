@@ -5,7 +5,7 @@ latitude: 41.38337
 longitude: 2.17723
 snippet: "Four Corinthian columns of a 1st-century Roman temple survive inside a medieval courtyard — hidden behind an anonymous door on Carrer del Paradís."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Push open the door at number 10 Carrer del Paradís and you step into the courtyard of the Casa de l'Ardèbol, a medieval building like any other on the outside. Then look up. Four slender Corinthian columns rise eleven metres from a limestone podium, their fluted shafts intact, their carved capitals still legible after two thousand years. These are the columns of the Temple d'August — the main religious building of the Roman colony of Barcino, built in the 1st century BCE and dedicated to the emperor who gave it his name.

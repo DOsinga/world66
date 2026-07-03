@@ -5,7 +5,7 @@ latitude: 41.40207
 longitude: 2.15953
 snippet: "Gràcia's covered market has a name that records a vanished trade: the abacers were medieval spice and condiment merchants, and their market is still the neighbourhood's commercial heart."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mercat de l'Abaceria Central stands at the top of Carrer de Verdi in Gràcia, housed in a 19th-century iron market hall. The building is modest by Barcelona market standards — less architecturally ambitious than the Boqueria or Santa Caterina — but its name is the interesting thing. Abaceria comes from abacers, the medieval Catalan term for the dealers in spices, condiments, salt, and preserved foods. The word derives from the Latin abacus, the counting table used by merchants.

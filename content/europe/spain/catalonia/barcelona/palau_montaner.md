@@ -5,7 +5,7 @@ latitude: 41.3927
 longitude: 2.1662
 snippet: "Domènech i Montaner's 1896 mansion in the Eixample — built for the Montaner publishing family, with the most elaborate Modernista staircase in any private residence in the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Palau Montaner at Carrer de Mallorca 278 was begun by Josep Domènech i Estapà in 1889 but taken over and substantially redesigned by Lluís Domènech i Montaner — his relative — when construction stalled. The building was commissioned by the Montaner family, who owned the publishing house Montaner i Simon, and it served as both residence and a statement of cultural aspiration in the years when the Eixample was being built as Barcelona's new bourgeois city.

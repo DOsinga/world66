@@ -5,7 +5,7 @@ latitude: 41.4042
 longitude: 2.14
 snippet: "The small hillside cemetery of the former independent municipality of Sant Gervasi, preserved after annexation by Barcelona as the burial ground of the upper-city bourgeoisie."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The village of Sant Gervasi was an independent municipality in the hills north of Barcelona until it was annexed by the city in 1897, along with several other surrounding towns. The village had its own church, its own mayor, and its own cemetery — the small burial ground now called the Cementiri de Sant Gervasi, set on the hillside above the neighbourhood that still bears the village's name.

@@ -5,7 +5,7 @@ latitude: 41.3795
 longitude: 2.176
 snippet: "A mid-19th-century covered passage in the Gòtic named for Facund Bacardí, the Catalan rum distiller who founded the Bacardí company in Cuba in 1862."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge Bacardí is a short colonnaded passage from the late 19th century, running between the Carrer de Ferran and the Carrer de la Unió in the Gothic Quarter. It was built by the Bacardí family — specifically by Facund Bacardí Massó, who was born in Sitges south of Barcelona in 1814 and emigrated to Cuba in 1830.

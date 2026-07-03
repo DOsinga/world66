@@ -5,7 +5,7 @@ latitude: 41.37649
 longitude: 2.19109
 snippet: "Rebecca Horn's four rusting iron cubes lean against each other on the Barceloneta beach — a memorial to the beach bars demolished by the city in 1992, stacked like the memory of the buildings they replaced."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The four rusting iron cubes stand at the edge of the Barceloneta beach at the end of Carrer del Mar, leaning at angles to each other like a stack of books about to fall. They were installed in 1992, when Barcelona hosted the Olympic Games, and they are the work of the German sculptor Rebecca Horn. The title means "Wounded Star" in Catalan.

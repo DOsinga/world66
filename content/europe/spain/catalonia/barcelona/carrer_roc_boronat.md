@@ -5,7 +5,7 @@ latitude: 41.398
 longitude: 2.1915
 snippet: "A Poblenou street named for a mid-20th-century worker and trade unionist killed during the Franco dictatorship — one of the few Barcelona street names commemorating victims of Francoism by name."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Roc Boronat in Poblenou was named for Roc Boronat Gironès, a textile worker and trade union activist from Poblenou who was arrested in 1941 during the Franco dictatorship's repression of labour movement leaders. Boronat had been active in the anarcho-syndicalist trade union CNT before the Civil War; after the Nationalist victory, the CNT was outlawed and its leaders were systematically arrested, tried in military courts, and executed or imprisoned.

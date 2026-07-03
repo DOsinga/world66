@@ -5,7 +5,7 @@ latitude: 41.3772
 longitude: 2.175
 snippet: "The section of Barcelona's 14th-century city wall that runs along the back of the Drassanes (Royal Shipyard) — one of the longest surviving stretches of the medieval fortification."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The city wall built between the 13th and 14th centuries to enclose the Raval neighbourhood survives in one of its longest accessible sections along the back of the Drassanes Reials — the Royal Shipyard complex that now houses the Maritime Museum. The wall here is approximately 10 metres tall and runs for over 100 metres, visible from the Avinguda del Paral·lel.

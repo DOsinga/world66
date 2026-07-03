@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.1755
 snippet: "A Gothic Quarter street whose brothels the young Picasso frequented in 1907 — giving the women he studied there the title of his most revolutionary painting, Les Demoiselles d'Avignon."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer d'Avinyó runs through the southern part of the Gothic Quarter, a fairly ordinary street connecting the Carrer de Ferran to the Carrer de la Boqueria. In the early 20th century it was known for its brothels — a concentration of commercial sex work in an area that had historically been associated with the entertainment industry adjacent to the port.

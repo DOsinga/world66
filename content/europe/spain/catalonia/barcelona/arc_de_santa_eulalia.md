@@ -5,7 +5,7 @@ latitude: 41.3829
 longitude: 2.1745
 snippet: "The medieval arch spanning a lane beside the Cathedral, beneath which the body of Santa Eulàlia — Barcelona's first patron saint — was carried from the old Roman cemetery to her current crypt in 878."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Arc de Santa Eulàlia bridges the narrow Carrer de Santa Llúcia beside the Cathedral of Barcelona, connecting the cloister wall to the building opposite. The arch is a Gothic structure of the 14th century, but it marks a route with a much older significance.

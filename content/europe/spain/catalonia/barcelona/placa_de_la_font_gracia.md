@@ -5,7 +5,7 @@ latitude: 41.4012
 longitude: 2.1587
 snippet: "A small Gràcia square with a 19th-century fountain that served as the water supply for the surrounding streets before domestic plumbing — the social centre of this part of the neighbourhood."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Font (Fountain Square) in Gràcia is one of several small neighbourhood squares in the village-within-the-city that Gràcia remains. The square takes its name from the fountain at its centre — an 19th-century stone and iron structure that served as the water collection point for the surrounding streets before domestic piping reached Gràcia in the late 19th century.

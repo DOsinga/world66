@@ -5,7 +5,7 @@ latitude: 41.3734
 longitude: 2.1483
 snippet: "A 19th-century textile factory in Sants whose closure in 1968 became a decades-long community campaign — the factory was finally handed over to neighbourhood self-management in 2011."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Can Batlló complex in the Sants-Montjuïc district is one of the largest surviving factory complexes in Barcelona. The textile mill was established in the 19th century and expanded to its current scale in the early 20th century, employing thousands of workers from the surrounding working-class neighbourhood. The factory closed in 1968 as Barcelona's textile industry declined.

@@ -5,7 +5,7 @@ latitude: 41.38201
 longitude: 2.17394
 snippet: "The great Gothic church beside a lone surviving fig tree in the square that bears its name — the largest Gothic rose window in the world when it was built in the 14th century."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The church of Santa Maria del Pi (Saint Mary of the Pine Tree) anchors three connected squares in the heart of the Gothic Quarter: Plaça del Pi, Plaça de Sant Josep Oriol, and Placeta del Pi. The pine tree of the name has been replaced several times; the current specimen in the square is a descendant of the original that stood here when the church was founded in the 9th century. The tree predates the Gothic building, which was constructed between 1319 and 1391.

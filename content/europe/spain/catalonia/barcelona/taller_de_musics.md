@@ -5,7 +5,7 @@ latitude: 41.3822
 longitude: 2.1673
 snippet: "A music school and venue established in the Raval in 1979 that became the nucleus of Barcelona's jazz and improvised music scene during the transition to democracy."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Taller de Músics (Musicians' Workshop) was founded in 1979, four years after Franco's death, as an open music school focusing on jazz, improvised music, and non-classical traditions. Its location in the Raval was deliberate: the neighbourhood was cheap, culturally mixed, and outside the institutional music world centred on the Liceu opera house and the conservatory.

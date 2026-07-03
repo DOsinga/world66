@@ -5,7 +5,7 @@ latitude: 41.38241
 longitude: 2.17485
 snippet: "New Baths Street — named for the 12th-century bathhouse that served the Jewish Call, where medieval Barcelonians paid to use communal hot water."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name Banys Nous means New Baths. There were Old Baths too — the Banys Vells, which gave their name to another street in the La Ribera neighbourhood. The distinction was relative: these baths were "new" when they were built in the 12th century, beside the Jewish Call, as part of the medieval urban infrastructure that provided communal bathing facilities to a city that had no domestic plumbing.

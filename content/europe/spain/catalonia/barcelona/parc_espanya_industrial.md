@@ -5,7 +5,7 @@ latitude: 41.377
 longitude: 2.142
 snippet: "A 1985 park built on the footprint of the Espanya Industrial textile factory — its lighthouse watchtowers and Neptune lake feel simultaneously utopian and dystopian."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Espanya Industrial textile factory opened in 1847 and became one of the anchor employers of the Sants working-class neighbourhood. It employed hundreds of workers at a time when Sants was a separate municipality from Barcelona, and the factory's rhythms structured neighbourhood life for over a century. The factory closed in 1977, two years after Franco's death, as the Spanish textile industry collapsed under international competition.

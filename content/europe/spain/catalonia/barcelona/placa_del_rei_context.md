@@ -5,7 +5,7 @@ latitude: 41.3842
 longitude: 2.1766
 snippet: "The most intact medieval civic space in Barcelona, where the Count-Kings of Aragon held court, and where Columbus reportedly presented the first Indigenous Americans to Ferdinand and Isabella."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça del Rei (King's Square) is enclosed on three sides by medieval buildings of exceptional quality: the Saló del Tinell (the reception hall of the Counts of Barcelona), the Capella de Santa Àgata, and the Palau del Lloctinent (Viceroy's Palace). The fourth side opens onto the Carrer dels Comtes. The ensemble represents the royal complex of the medieval city of Barcelona in its most coherent surviving form — a set of buildings that functioned together as the seat of the Crown of Aragon.

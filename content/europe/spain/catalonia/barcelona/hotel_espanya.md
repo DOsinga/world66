@@ -5,7 +5,7 @@ latitude: 41.3805
 longitude: 2.172
 snippet: "An 1859 hotel on the edge of the Raval with a dining room interior by Domènech i Montaner — the only Modernista hotel interior surviving in Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Hotel Espanya was built in 1859, during the first wave of tourist infrastructure along the Rambla, but it is the renovation carried out between 1902 and 1903 that gives it its current significance. The commission went to Lluís Domènech i Montaner, who was simultaneously working on what would become the Palau de la Música Catalana and the Hospital de Sant Pau. The hotel is on a different scale from those projects, but the interior work he produced here is some of the finest surviving Modernista decoration in the city.

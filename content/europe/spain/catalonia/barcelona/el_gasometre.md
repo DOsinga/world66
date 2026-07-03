@@ -5,7 +5,7 @@ latitude: 41.38
 longitude: 2.195
 snippet: "Barcelona's 1853 gasometer building in Barceloneta, where the city's first gas street-lighting infrastructure was installed — one of the earliest industrial buildings to survive in the port area."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building known as El Gasòmetre stands near the Barceloneta neighbourhood as a remnant of the mid-19th-century infrastructure that made Barcelona the first city in Spain with gas street lighting. The Société Barcelonaise de l'Eclairage au Gaz was established in 1842, and the gas plant was built in 1853 to supply the growing demand. The circular main building — the gasometer itself, where gas was stored under pressure — was a technological marvel of its era.

@@ -5,7 +5,7 @@ latitude: 41.3843
 longitude: 2.1751
 snippet: "The medieval Archdeacon's house in the Gothic Quarter has a 15th-century marble letterbox whose carved swallows and tortoise have been debated for a century — the sculptor's joke at the expense of the legal profession."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Casa de l'Ardiaca (Archdeacon's House) on the Carrer de Santa Llúcia was the residence of the archdeacon of Barcelona Cathedral from the 12th century onward. The building has been extensively rebuilt, but its Gothic courtyard — a cloister-like space with orange trees and a fountain — is well preserved. The city's municipal archives have been housed here since 1919.

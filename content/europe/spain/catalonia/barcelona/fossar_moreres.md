@@ -5,7 +5,7 @@ latitude: 41.38375
 longitude: 2.18233
 snippet: "The paving outside Santa Maria del Mar marks the burial ground where defenders of Barcelona were interred after the city fell on 11 September 1714."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The red-tiled open space on the south side of Santa Maria del Mar is not simply a plaza. It is a grave. When Barcelona fell to the Bourbon forces of Philip V on 11 September 1714, ending the War of the Spanish Succession, the defenders who died during the siege were buried here — in the cemetery that occupied this ground beside the church. The mulberry trees that gave the site its name, Fossar de les Moreres (Mulberry Tree Burial Ground), were felled long ago, but the memory of what is buried beneath has never left.

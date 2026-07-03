@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.1695
 snippet: "The Raval's most notorious street — its name means Robbers' Street, reflecting a reputation for vice that predates the neighbourhood's current transformation by five centuries."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Robadors (Robbers' Street) appears in Barcelona records from at least the 14th century under various names that all point to the same function: a zone outside the effective control of municipal authority where activities of questionable legality could take place. The name robadors appears in the 16th century and has stuck through every subsequent attempt to improve the street's image.

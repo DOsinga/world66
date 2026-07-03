@@ -5,7 +5,7 @@ latitude: 41.391
 longitude: 2.1807
 snippet: "Barcelona's 1888 triumphal arch celebrates no military victory — it was built as the grand entrance to the Universal Exposition, the first major world's fair held in Spain."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Arc de Triomf on the Passeig de Lluís Companys is unusual among triumphal arches: it does not commemorate a battle. The triumphal arch form — borrowed from Roman military tradition — was applied to an entirely peaceful occasion. The arch was built in 1888 as the main ceremonial entrance to the Universal Exposition of Barcelona, which occupied the Parc de la Ciutadella and its surroundings for six months.

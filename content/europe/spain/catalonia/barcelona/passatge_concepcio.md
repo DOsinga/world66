@@ -5,7 +5,7 @@ latitude: 41.39464
 longitude: 2.16021
 snippet: "A hidden 19th-century pedestrian passage in the Eixample where a Roman sarcophagus was discovered in 1876 and where Puig i Cadafalch had his first architectural office."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge de la Concepció is one of several enclosed pedestrian passages tucked behind the street façades of the Eixample. It runs between Carrer d'Aragó and Carrer de Provença, squeezed into the interior of an Eixample block — the kind of private interior passage that developed in the 1860s and 1870s when the new expansion district was being built and private developers created residential lanes that were quieter and more intimate than the public streets.

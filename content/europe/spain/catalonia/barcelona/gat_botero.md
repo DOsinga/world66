@@ -5,7 +5,7 @@ latitude: 41.37881
 longitude: 2.16908
 snippet: "Fernando Botero's monumental fat cat sits in the Rambla del Raval — a bronze sculpture that became a neighbourhood mascot after a bombing killed its predecessor."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Colombian sculptor Fernando Botero is famous for his inflated figures — humans, horses, birds, everything rendered with the proportions of a balloon animal, somehow both comic and imposing. This bronze cat, installed in 2003 in the Rambla del Raval, is a characteristic Botero: enormous, placid, its haunches filling half the boulevard. It is also beloved. Locals call it simply El Gat — the cat.

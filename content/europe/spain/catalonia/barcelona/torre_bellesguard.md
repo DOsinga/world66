@@ -5,7 +5,7 @@ latitude: 41.416
 longitude: 2.141
 snippet: "Gaudí's neo-Gothic house on the site of the last residence of the Catalan kings — built 1900-1909, it combines medieval archaeology with Modernisme in one of his least-visited major works."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Torre Bellesguard (Beautiful View Tower) was built by Antoni Gaudí between 1900 and 1909 on a site of considerable historical significance: it occupies the location of the summer residence of the last Count-Kings of the Crown of Aragon who resided in Barcelona before the union with Castile. Martin I, the last Aragonese king to die without an heir (his death in 1410 precipitated the succession crisis that eventually brought a Castilian king to the Aragonese throne), held his court here.

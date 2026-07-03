@@ -5,7 +5,7 @@ latitude: 41.38
 longitude: 2.1675
 snippet: "A short Raval street that became Barcelona's vintage clothing district in the 1990s — taking advantage of the neighbourhood's low rents to establish a secondhand economy that has partly survived gentrification."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Riera Baixa (Lower Stream Street) takes its name from a seasonal stream — a riera — that drained from the Collserola hills through what is now the Raval, running roughly along the line of this street before reaching the sea. The stream was paved over in the 19th century as the neighbourhood densified, but the slight depression in the street surface still reflects the original watercourse.

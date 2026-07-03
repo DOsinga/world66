@@ -5,7 +5,7 @@ latitude: 41.3816
 longitude: 2.1734
 snippet: "The cast-iron drinking fountain at the top of the Rambla where locals believe that anyone who drinks from it is bound to return to Barcelona — but the fountain itself was moved here in 1892."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The legend of the Font de Canaletes says that anyone who drinks from this four-spigot cast-iron fountain will return to Barcelona. The legend is old, though its exact origins are disputed — versions of it appear in 19th-century popular literature about the city. The word canaletes (little channels) refers to the system of water channels that brought spring water from the Collserola hills to the city; a water distribution point at this location has existed since at least the 16th century.

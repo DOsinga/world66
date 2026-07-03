@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.166
 snippet: "A Raval street named for the flower-sellers who worked here in the 19th century — later home to Barcelona's most notorious prison and now a quiet residential lane."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Flors in the Raval neighbourhood takes its name from the flower vendors who occupied stalls at the corner with the Ronda de Sant Pau from the early 19th century onward. Fresh flowers were sold here on the way to the Hospital de la Santa Creu, which lies nearby — an obvious market for people visiting the sick. The flower-sellers established the name long before the street acquired its more dramatic historical associations.

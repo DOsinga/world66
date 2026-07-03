@@ -5,7 +5,7 @@ latitude: 41.38614
 longitude: 2.17850
 snippet: "The market with the mosaic roof — 325,000 ceramic hexagons in 67 colours — was completed in 2005 by Enric Miralles, who died before seeing it finished."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The roof is visible from the upper floors of buildings two blocks away: a billowing, undulating surface of mosaic hexagons in deep reds, yellows, greens and blues, like a pixelated version of the Catalan landscape seen from the air. The market it covers, Mercat de Santa Caterina, stands on the site of the 13th-century convent of Santa Caterina de Siena, which was demolished in 1836 during the liberal-era suppression of religious houses. A market was built on the ruins in 1848 and fell gradually into disuse. The current structure is its reinvention.

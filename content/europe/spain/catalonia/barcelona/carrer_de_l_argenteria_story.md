@@ -5,7 +5,7 @@ latitude: 41.384
 longitude: 2.18
 snippet: "The main artery of the Born neighbourhood preserves the name of the silversmiths' guild that occupied it in the medieval period — one of the most important craft streets in medieval Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de l'Argenteria (Silversmith Street) has been the main east-west artery connecting the Gothic Quarter to the port since the medieval period. The name records the guild of argenter s — silversmiths — who occupied workshops along this street from at least the 13th century. The silver trade was among the most regulated and prestigious of the medieval craft guilds: precious metals required special oversight to prevent fraud, and the guild maintained strict standards of purity and marking.

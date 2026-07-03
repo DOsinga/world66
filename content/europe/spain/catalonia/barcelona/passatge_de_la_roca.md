@@ -5,7 +5,7 @@ latitude: 41.401
 longitude: 2.164
 snippet: "A Gràcia passage lined with mid-19th-century artisan houses — one of the best-preserved examples of the small-scale residential architecture of the independent village before Barcelona's industrial expansion reached the neighbourhood."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge de la Roca in Gràcia is a small private passage — a cul-de-sac lined with two-storey houses — that dates from the mid-19th century, when Gràcia was still an independent municipality rapidly expanding its residential stock for the artisan and worker population. The houses are typically Catalan artisan: ground floor for a workshop or animal storage, upper floor for the family, with a small façade garden or terrace accessible from the first floor.

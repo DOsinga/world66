@@ -5,7 +5,7 @@ latitude: 41.3795
 longitude: 2.17
 snippet: "The notorious 'Chinese Quarter' of Barcelona's pre-war red-light district had no Chinese residents — the name came from a journalist comparing it to San Francisco's Chinatown."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Between the Rambla and the Carrer del Paral·lel, the Raval neighbourhood was known from the 1920s to the 1980s as the Barri Xinès — the Chinese Quarter. The name has always been a misnomer. The neighbourhood never had a significant Chinese population. The term was coined by the journalist Francesc Madrid in a series of articles in the 1920s describing the zone in terms borrowed from accounts of San Francisco's Chinatown: exotic, dangerous, full of vice, incomprehensible to respectable citizens.

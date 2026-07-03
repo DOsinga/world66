@@ -5,7 +5,7 @@ latitude: 41.3824
 longitude: 2.1763
 snippet: "The Gothic side entrance to Catalonia's government palace on the Carrer del Bisbe — the finest Gothic civic portal in Barcelona, carved in 1416 by Marc Safont."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The main façade of the Palau de la Generalitat on the Plaça de Sant Jaume is a Renaissance addition from 1602. The building's actual historical core is accessible through the Gothic portal on the Carrer del Bisbe, created between 1416 and 1425 by Marc Safont under the commission of the Diputació del General — the representative body of the Crown of Aragon in Catalonia that would evolve into the Generalitat.

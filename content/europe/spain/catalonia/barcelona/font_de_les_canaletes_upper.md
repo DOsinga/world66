@@ -5,7 +5,7 @@ latitude: 41.3882
 longitude: 2.1545
 snippet: "One of the surviving 19th-century cast-iron drinking fountains in the Eixample, marking the points where the municipal water distribution network reached — each one a node in the pre-domestic-plumbing water system."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Font dels Lledoners (Hackberry Tree Fountain) is one of a series of decorative cast-iron drinking fountains that the Barcelona city council installed across the Eixample from the 1870s onward, as the neighbourhood was being built. The fountains served the residents of a district that was largely constructed before domestic plumbing became standard: apartment buildings in the early Eixample often had communal standpipes in the courtyards rather than individual plumbing connections, and the street fountains supplemented these with a public water supply.

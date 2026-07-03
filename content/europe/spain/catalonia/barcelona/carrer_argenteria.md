@@ -5,7 +5,7 @@ latitude: 41.38377
 longitude: 2.17971
 snippet: "Silversmiths Street runs from Plaça de l'Àngel toward Santa Maria del Mar — the medieval workshop district where Barcelona's gold and silver trade was concentrated."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Walk down Carrer de l'Argenteria from the Via Laietana end and you are on the route that medieval Barcelonians called the street of the silver-workers. Argenteria comes from argent, silver — the same root as the word for Argentina, named by Spanish colonists for the silver they expected to find there. On this street in the 13th and 14th centuries, the jewellers, silversmiths, and goldsmiths of Barcelona worked, sold their wares, and lived above their workshops.

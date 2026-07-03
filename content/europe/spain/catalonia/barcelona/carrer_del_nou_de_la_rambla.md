@@ -5,7 +5,7 @@ latitude: 41.3785
 longitude: 2.173
 snippet: "The narrow Raval street where Gaudí built Palau Güell between 1886 and 1890 — the surrounding block of boarding houses and cheap hotels shows what kind of neighbourhood Eusebi Güell commissioned a palace in."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer Nou de la Rambla (New of the Rambla Street) runs south from the Rambla into the Raval. In the 1880s, when Eusebi Güell commissioned Antoni Gaudí to design a family palace on this street, the surrounding neighbourhood was among the roughest in Barcelona: cheap boarding houses, taverns, and the peripheral zone associated with the entertainment district of the Paral·lel nearby.

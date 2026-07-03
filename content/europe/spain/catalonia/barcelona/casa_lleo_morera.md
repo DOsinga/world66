@@ -5,7 +5,7 @@ latitude: 41.39112
 longitude: 2.16524
 snippet: "The third building of the 'Block of Discord' on Passeig de Gràcia — Domènech i Montaner's Modernista mansion whose ground floor was stripped of its sculpture by a leather goods company in 1943."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The block of Passeig de Gràcia between Carrer d'Aragó and Carrer del Consell de Cent is called the Manzana de la Discordia — the Block of Discord — because three of Catalonia's greatest Modernista architects each put their most ambitious buildings here in the same decade. Casa Batlló (Gaudí) and Casa Amatller (Puig i Cadafalch) draw the biggest crowds. The third building, Casa Lleó Morera at number 35, is often overlooked.

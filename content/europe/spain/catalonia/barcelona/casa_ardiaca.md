@@ -5,7 +5,7 @@ latitude: 41.38414
 longitude: 2.17574
 snippet: "The Archdeacon's House beside the Cathedral contains a Roman wall in its foundations, a Gothic courtyard, and a Modernista letterbox slot carved with swallows and a tortoise."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building that houses Barcelona's City Archive is one of the most archaeologically dense in the old city. The foundations incorporate a section of the Roman wall that once enclosed Barcino — you can see the ancient masonry from inside the courtyard. A medieval Gothic structure was built on and around those walls in the 15th century for the Archdeacon of the Cathedral. Then, in 1902, the building was renovated and extended for the 1929 International Exposition, and the architect Lluís Domènech i Montaner added a detail so unexpected that it stops every visitor who notices it.

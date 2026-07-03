@@ -5,7 +5,7 @@ latitude: 41.379
 longitude: 2.162
 snippet: "The Sant Antoni street named for an abortive 19th-century parliament building — the Catalans' brief experience of federal self-government in the 1873 First Spanish Republic."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer del Parlament in the Sant Antoni neighbourhood takes its name from the parliamentary building that was established in the area during the brief First Spanish Republic of 1873-1874. Spain's First Republic lasted only eleven months before a military coup restored the Bourbon monarchy. In that short period, a federal constitution was drafted that would have granted Catalonia extensive autonomy — the most generous framework for Catalan self-governance since the Bourbon conquest of 1714.

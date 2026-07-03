@@ -5,7 +5,7 @@ latitude: 41.4175
 longitude: 2.1538
 snippet: "The Modernista artist Santiago Rusiñol founded the El Cau Ferrat museum in Sitges and with it the movement's concept of the artist's house as a total aesthetic environment — an idea that shaped all of Barcelona's Modernisme."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Santiago Rusiñol was a painter, playwright, and cultural entrepreneur who became one of the central figures of Catalan Modernisme in the 1890s. He is closely associated with Sitges, the coastal town south of Barcelona where he established the museum El Cau Ferrat (Cave of Iron) and organised the Festes Modernistes — festivals that became the defining cultural events of the movement.

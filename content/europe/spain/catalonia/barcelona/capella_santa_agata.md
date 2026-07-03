@@ -5,7 +5,7 @@ latitude: 41.38427
 longitude: 2.17751
 snippet: "A 14th-century royal chapel built into the Roman wall of the Plaça del Rei complex — with an altarpiece by Jaume Huguet considered one of the masterworks of Catalan Gothic painting."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The chapel appears to grow out of the Roman wall itself. Built between 1302 and 1314 as the private chapel of the royal palace of the counts-kings of Barcelona, the Capella de Santa Àgata sits above the Roman defensive wall at the highest point of the ancient city, its bell tower — the Torre Mirador del Rei Martí — rising above everything around it. From outside, in Plaça del Rei, the chapel is the structure directly ahead as you enter the square: the tall pointed window above the staircase, the slim tower to the left.

@@ -5,7 +5,7 @@ latitude: 41.395
 longitude: 2.201
 snippet: "The street running past the site of La Maquinista Terrestre i Marítima, the Barcelona shipyard and locomotive factory that built the machines of Spain's industrial revolution."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 La Maquinista Terrestre i Marítima was established in 1855 as a factory for building ships and railway locomotives. Its location in Poblenou, on the former industrial waterfront east of the city, gave it access to the sea for ship launches and to the railway for locomotive deliveries. At its peak in the early 20th century, it employed over 2,000 workers and was the largest engineering enterprise in Catalonia.

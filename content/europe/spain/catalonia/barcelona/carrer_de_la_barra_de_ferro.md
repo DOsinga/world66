@@ -5,7 +5,7 @@ latitude: 41.3845
 longitude: 2.18
 snippet: "A Born street named for an iron bar that once hung outside a money-changer's shop — the bar (barra) being the counter over which coins were weighed and exchanged."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Barra de Ferro (Street of the Iron Bar) has a name that is easier to understand once you know what a barra meant in the context of medieval commerce. The word referred not to a bar as a drinking establishment, but to the counter or table used by money-changers and assayers — the iron bar was the physical instrument over which transactions took place. A barra de canvi (exchange bar) was a money-changer's table; a barra de ferro was one made of iron.

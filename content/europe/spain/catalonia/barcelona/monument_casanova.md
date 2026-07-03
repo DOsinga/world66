@@ -5,7 +5,7 @@ latitude: 41.39089
 longitude: 2.17747
 snippet: "The marble statue of Barcelona's last chief magistrate — who fell wounded on 11 September 1714 — is where Catalans gather every year to mourn what was lost and assert what remains."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Rafael Casanova was the Conseller en Cap of Barcelona — roughly, the chief magistrate — when the city fell to the Bourbon forces of Philip V on 11 September 1714. He was wounded in the fighting, carried from the walls, survived, and was allowed to live out his days in relative obscurity under the new order. He died in 1743, aged over eighty. His courage in the final siege, and particularly his presence on the walls alongside the city's defenders, made him a symbol of Catalan resistance to the centralizing monarchy that abolished Catalan institutions after the conquest.

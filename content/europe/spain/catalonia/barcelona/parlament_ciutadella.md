@@ -5,7 +5,7 @@ latitude: 41.38811
 longitude: 2.18888
 snippet: "The Catalan Parliament meets in what was once the citadel's arsenal — the very building that was the nerve centre of the military fortress imposed on Barcelona after its defeat in 1714."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Parlament de Catalunya sits at the heart of the Parc de la Ciutadella in a long, low neoclassical building that was originally the arsenal of the Ciutadella fortress. The fortress itself was the instrument of Philip V's control over Barcelona after the defeat of 1714: a star-shaped military installation built directly on top of the demolished La Ribera neighbourhood, designed so that its cannons could threaten the city as effectively as they could threaten any attacker from outside. The arsenal stored the weapons that enforced Bourbon sovereignty over the conquered city.

@@ -5,7 +5,7 @@ latitude: 41.374
 longitude: 2.161
 snippet: "Three industrial chimney stacks beside the Paral·lel avenue — the last visible remnant of the electricity plant that powered Barcelona's trams and the Raval's early industrial expansion."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The three chimneys (xemeneies in Catalan) standing beside the Avinguda del Paral·lel are the surviving visible remnants of the Central de la Canadenca — the Barcelona Traction, Light and Power Company electricity plant that began operations in 1911. The company, nicknamed "La Canadenca" for its Canadian ownership, was the dominant electricity supplier for Barcelona through the early 20th century.

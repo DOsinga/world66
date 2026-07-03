@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.1665
 snippet: "The former house of the blind (cecs) on Carrer de l'Hospital, adjacent to the Hospital de la Santa Creu — one of a cluster of welfare institutions that made this street Barcelona's medieval social services district."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de l'Hospital (Hospital Street) in the Raval takes its name from the Hospital de la Santa Creu, the main charitable medical institution of medieval Barcelona, which has occupied the block on the north side of the street since 1401. But the hospital was not the only welfare institution in the area. A cluster of related establishments occupied the surrounding streets: a hospice for pilgrims, a home for the elderly poor, an asylum for the mentally ill (the Casa dels Folls, one of the first psychiatric hospitals in Europe, founded 1401), and the Casa dels Cecs — the house for the blind.

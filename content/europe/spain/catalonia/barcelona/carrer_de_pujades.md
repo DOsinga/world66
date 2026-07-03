@@ -5,7 +5,7 @@ latitude: 41.396
 longitude: 2.194
 snippet: "Poblenou's main east-west street, named for a 19th-century Catalan historian — now the spine of a neighbourhood in transformation, linking the former industrial waterfront to the inland residential zones."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Pujades is named for Jeroni Pujades, a 17th-century Catalan historian and lawyer who wrote the Crónica Universal del Principat de Catalunya, one of the foundational texts of Catalan historiography. Pujades worked in the period of the Catalan revolt of 1640 — the Reapers' War that briefly separated Catalonia from Spain — and his historical writing was implicated in the political project of asserting Catalan identity against Castilian centralisation.

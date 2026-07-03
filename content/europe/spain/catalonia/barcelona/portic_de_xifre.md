@@ -5,7 +5,7 @@ latitude: 41.3816
 longitude: 2.1829
 snippet: "The 1836 neoclassical arcade opposite the port — the first purpose-built apartment building in Barcelona, financed by an indiano who returned from Cuba with a fortune."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Casa de Xifré, or Pòrtic de Xifré, occupies the block between the Carrer dels Canvis Nous and the Passeig d'Isabel II, directly opposite the port. It was built between 1836 and 1840 by Josep Xifré Casas, a Catalan emigrant who had spent thirty years in Cuba and the United States accumulating a fortune in commerce. When he returned to Barcelona, he commissioned the largest private construction project the city had seen for a generation.

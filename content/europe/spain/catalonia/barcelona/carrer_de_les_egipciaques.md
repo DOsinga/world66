@@ -5,7 +5,7 @@ latitude: 41.382
 longitude: 2.1675
 snippet: "The street whose name encodes a 17th-century institution for the rehabilitation of sex workers — the 'Egyptian women' referred to in the name were not from Egypt but were penitent prostitutes."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Egipcíaques takes its name from the Casa de les Egipcíaques, a religious house established in the 17th century for the rehabilitation of former sex workers. The term egipcíaques (Egyptian women) was a euphemism: it referred to Mary of Egypt, a 4th-century saint who according to hagiography had been a prostitute in Alexandria before her conversion and whose story was widely used in the Counter-Reformation as a model of repentance. Women referred to the house were those who, in the language of the period, sought to "leave an evil life."

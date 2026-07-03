@@ -5,7 +5,7 @@ latitude: 41.3857
 longitude: 2.1811
 snippet: "The iron market hall built in 1876, whose demolition was blocked in 2001 when excavators discovered the buried streets of the 1714 neighbourhood beneath its floor."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The El Born market hall — the large iron and glass structure in the centre of the Born neighbourhood — was built between 1874 and 1876 to designs by Josep Fontserè, the architect who also designed the Parc de la Ciutadella. It is an outstanding example of 19th-century iron architecture, with a central nave and four side aisles under a vaulted iron roof. It functioned as a wholesale food market until 1971, when the construction of the Mercabarna wholesale market in the Zona Franca made it redundant.

@@ -5,7 +5,7 @@ latitude: 41.3854
 longitude: 2.1589
 snippet: "The original 1876 brewery of Estrella Damm in the Eixample — still operating today, making it one of the longest continuously running industrial sites in the city centre."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 August Kuentzmann Damm, an Alsatian brewer who had been forced to leave his home region after the Franco-Prussian War transferred Alsace to Germany in 1871, arrived in Barcelona in 1872. He brought with him the lager-brewing techniques of central Europe, which were at that time almost unknown in Spain, where wine was the universal drink of the population and beer was a novelty consumed mainly by northern European visitors.

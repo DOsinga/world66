@@ -5,7 +5,7 @@ latitude: 41.4008
 longitude: 2.1965
 snippet: "A former factory complex in Poblenou that hosts a design market on the first weekend of each month — its name references the Silicon Valley town as a semi-ironic marker of ambition."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Palo Alto market occupies the courtyard and buildings of a former factory complex at the Carrer dels Pellaires in Poblenou. The factory, which made hardware and metalwork products in the early 20th century, was converted in the 1990s into what the Spanish call a "vivero" — a business incubator for creative enterprises. Design studios, architecture practices, and photography agencies occupied the renovated factory buildings.

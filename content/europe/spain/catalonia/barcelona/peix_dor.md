@@ -5,7 +5,7 @@ latitude: 41.38682
 longitude: 2.19455
 snippet: "Frank Gehry's bronze fish — officially called Peix (Fish) — was built for the 1992 Olympics and became the unexpected emblem of the Olympic Village."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The enormous bronze fish that shimmers outside the Hotel Arts has no official connection to Barcelona's maritime past, yet it has become one of the city's most photographed objects. Frank Gehry designed it for the 1992 Summer Olympics as an abstract exercise in form: the scales are titanium panels layered over a steel armature, and the structure weighs around 54 tonnes. Gehry was in the middle of developing the curvilinear computer-aided techniques he would later use for the Guggenheim Bilbao, and Peix was effectively a prototype.

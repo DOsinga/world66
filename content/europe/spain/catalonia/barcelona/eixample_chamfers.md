@@ -5,7 +5,7 @@ latitude: 41.39232
 longitude: 2.16523
 snippet: "Every intersection in the Eixample has an octagonal corner — Cerdà's design innovation that let carriages turn freely and gave Barcelona's grid its distinctive look from the air."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Stand at any intersection in the Eixample and look at the building corners: they are not right angles. Every corner is cut at 45 degrees, creating a small flat face at each intersection where a right-angle corner would otherwise be. Seen from above — from an aircraft or from the hills — this gives the Eixample its distinctive appearance: not a pure grid but an infinite sequence of octagons, the pattern visible in any aerial photograph of Barcelona.

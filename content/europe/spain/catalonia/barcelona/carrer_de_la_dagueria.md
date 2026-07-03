@@ -5,7 +5,7 @@ latitude: 41.3811
 longitude: 2.1748
 snippet: "The dagger-makers' street in the Gothic Quarter — where the guild that forged daggers, short swords, and knife-blades worked in workshops between the Cathedral district and the market."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Dagueria (Dagger Street) records the medieval knife and dagger makers who occupied workshops along this short street in the southern Gothic Quarter. The daguer s who worked here produced the short blades — daggers, hunting knives, and the functional knives used by butchers, cooks, and craftspeople — that were among the most essential everyday items of the medieval city.

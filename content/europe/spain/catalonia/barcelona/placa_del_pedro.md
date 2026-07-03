@@ -5,7 +5,7 @@ latitude: 41.3818
 longitude: 2.17
 snippet: "The square at the heart of the Raval where a stone cross has stood since the medieval period — the traditional boundary between the city and the extramural zone where the religious houses were located."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça del Pedró takes its name from a pedró — a stone column or cross erected as a landmark, waymarker, or jurisdictional boundary. The pedró that gave the square its name marked the edge of Barcelona's medieval city: the point where the streets of the intramural city met the extramural zone that would become the Raval. Travellers entering from the north and west encountered the pedró as the first fixed point of the city; those leaving the city passed it as the last.

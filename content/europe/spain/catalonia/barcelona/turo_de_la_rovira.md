@@ -5,7 +5,7 @@ latitude: 41.419
 longitude: 2.1595
 snippet: "The hilltop above Gràcia where Republican anti-aircraft guns defended Barcelona during the Civil War — the gun emplacements and shattered remains of the wartime city are still visible."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Turó de la Rovira, at 261 metres the highest natural point within the built-up area of Barcelona, was chosen in 1937 as the site of anti-aircraft gun batteries defending the city against Nationalist and Italian air raids. Barcelona was the most heavily bombed city in Spain during the Civil War, suffering raids by Italian Aviazione Legionaria bombers flying from Mallorca. The raids killed hundreds of civilians and were among the first systematic bombing campaigns against an urban civilian population in European history, preceding the more famous raids on Guernica and Coventry.

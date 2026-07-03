@@ -5,7 +5,7 @@ latitude: 41.4148
 longitude: 2.1357
 snippet: "The upper funicular terminus above Tibidabo, where a modernista bar has served drinks since 1920 with one of the longest views over Barcelona of any accessible point in the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça del Doctor Andreu sits at the point where the blue Tramvia Blau (Blue Tram) ends and the Tibidabo funicular begins. The square is named for Andreu Martí Palau, a pharmacist and municipal health official who developed the Tibidabo area at the turn of the 20th century and is credited with popularising the idea of the mountain as a recreational destination for Barcelona's residents.

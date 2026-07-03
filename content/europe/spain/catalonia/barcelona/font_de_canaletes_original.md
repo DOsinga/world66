@@ -5,7 +5,7 @@ latitude: 41.3813
 longitude: 2.17155
 snippet: "The Boqueria market takes its name from an old Catalan word for a goat — specifically for the goat stalls outside the city gate where livestock was sold before the covered market was built."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mercat de la Boqueria — officially the Mercat de Sant Josep de la Boqueria — has a name whose etymology is disputed but most convincingly derived from boques or boques, a term for the open-air livestock market that was held outside the city gate at this location from at least the 13th century. Some sources derive it from the word boc (male goat), referring to the animals most commonly sold.

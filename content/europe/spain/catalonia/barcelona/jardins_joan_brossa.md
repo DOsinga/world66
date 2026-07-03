@@ -5,7 +5,7 @@ latitude: 41.3693
 longitude: 2.1544
 snippet: "Montjuïc gardens on the site of a demolished amusement park, named for the poet who was a central figure in Barcelona's avant-garde cultural resistance during the Franco years."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Joan Brossa was a Catalan poet, visual artist, and playwright who worked in Barcelona from the late 1940s until his death in 1998. He was associated with the Dau al Set group — a surrealist-influenced collective that operated in the immediate post-war period, when overt political opposition to Franco was impossible and cultural resistance took oblique and hermetic forms. Brossa wrote poetry in Catalan at a time when Catalan publication was banned, distributing work through samizdat-like networks.

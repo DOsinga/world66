@@ -5,7 +5,7 @@ latitude: 41.3725
 longitude: 2.161
 snippet: "The Poble Sec street that became Barcelona's main pintxos strip in the 1990s — a working-class neighbourhood appropriating a Basque food tradition to create a new economy."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Blai in Poble Sec is now known throughout Barcelona as the "pintxos street" — a dense concentration of bars serving the Basque-style tapas-on-bread that became fashionable across Spain from the 1980s onward. The street's transformation from an ordinary working-class residential lane into a gastronomic destination is a story about how Barcelona neighbourhoods reinvent themselves commercially while maintaining certain social continuities.

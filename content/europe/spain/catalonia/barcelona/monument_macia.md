@@ -5,7 +5,7 @@ latitude: 41.38625
 longitude: 2.17010
 snippet: "The abstract geometric monument to Francesc Macià in Plaça de Catalunya marks the spot where the first President of the Generalitat proclaimed the Catalan Republic in April 1931."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 At the corner of Plaça de Catalunya facing La Rambla, a white geometric sculpture rises from a low base: three-dimensional forms in the Constructivist manner, angular and spare, representing the Catalan flag and a stylised human figure. This is the Monument a Francesc Macià, designed by the sculptor Josep Maria Subirachs (later famous for completing the façade of the Sagrada Família) and installed in 1991.

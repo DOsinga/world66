@@ -5,7 +5,7 @@ latitude: 41.3795
 longitude: 2.1655
 snippet: "The Raval street of the wax-chandlers, where the guild that made candles for Barcelona's churches worked — and where the memory of the trade lives only in the street name."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Cera (Wax Street) in the Raval records the location of the cerers — the wax-chandlers who made candles for Barcelona's churches and for domestic lighting. Candle-making was one of the essential trades of the pre-modern city: before gas lighting arrived in the 1840s, every public building, church, and domestic interior that required light after dark required candles, and the quality and quantity of candles in a building was a direct measure of its wealth.

@@ -5,7 +5,7 @@ latitude: 41.38517
 longitude: 2.17481
 snippet: "A ceramic photomosaic eight metres wide covers a wall in the Gothic Quarter, showing a couple kissing — assembled from thousands of images of couples from around the world."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The title, which translates as "The world is born in every kiss," is printed in small letters beneath the mural, easily missed. The image itself is harder to miss: two figures in close embrace, their kiss rendered at monumental scale across a wall on the edge of Plaça d'Isidre Nonell, a tiny square just steps from the Rambla but largely overlooked by the people streaming past.

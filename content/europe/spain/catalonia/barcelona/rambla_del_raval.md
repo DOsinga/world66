@@ -5,7 +5,7 @@ latitude: 41.379
 longitude: 2.168
 snippet: "A new boulevard cut through the Raval in 2000, demolishing 62 buildings to open space in the densest neighbourhood in Europe — Botero's bronze cat presides over a controversial urban intervention."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Rambla del Raval was created by the city government between 1999 and 2000 as part of a programme to reduce the density of the Raval neighbourhood, which at the time had approximately 100,000 inhabitants per square kilometre — one of the highest population densities in Europe. Sixty-two buildings were demolished to create the 300-metre boulevard. The displaced residents were relocated; many of the families who had lived in the Raval for generations were moved to social housing on the city periphery.

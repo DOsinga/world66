@@ -5,7 +5,7 @@ latitude: 41.38009
 longitude: 2.17528
 snippet: "The neoclassical fountain at the centre of Plaça Reial shows the Three Graces in cast iron — brought to Barcelona from a Paris foundry in 1878 and placed in the same square as Gaudí's first lamp posts."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Plaça Reial has two centres of gravity: the lamp posts at its far ends, designed by the young Gaudí in 1878, and the fountain at its geometric centre, installed the same year. The Font de les Tres Gràcies shows the three Graces — Euphrosyne, Thalia, Aglaea — in the classical tradition, their arms entwined in the familiar grouping that painters from Botticelli to Rubens had made canonical. The casting is French, from the Paris foundry of Durenne, which supplied similar fountains to French provincial towns throughout the Second Empire.

@@ -5,7 +5,7 @@ latitude: 41.3848
 longitude: 2.181
 snippet: "The street of the blanket-weavers in the Born — where Barcelona's textile guild operated before the industry migrated to Poblenou, and where a Royal Mint once struck coins."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The flassaders were weavers of coarse woollen blankets, a staple trade in the medieval city. Their guild was established in this street in the 13th century, when the La Ribera neighbourhood was being developed as the commercial district of a rapidly expanding city. The street name records their presence even though no textile production has taken place here for several centuries.

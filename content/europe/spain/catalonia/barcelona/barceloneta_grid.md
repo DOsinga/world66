@@ -5,7 +5,7 @@ latitude: 41.37690
 longitude: 2.18530
 snippet: "The grid-plan fishing neighbourhood on the spit of land beside the port was built by the military in 1754 to house people evicted from their homes when the Bourbon citadel was constructed."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Walk into Barceloneta from the inland edge and you immediately enter a precise orthogonal grid of streets at 45 degrees to the main grid of the city. This is not an accident and not an aesthetic choice: it is a military solution to a social problem created by a military action. After Barcelona fell to the Bourbon forces of Philip V in 1714, one of the new regime's first acts was to demolish the entire Ribera neighbourhood — the most commercial and politically assertive district in Barcelona — and replace it with a star-shaped fortress, the Ciutadella. The four thousand people who had lived in the Ribera were given no new homes.

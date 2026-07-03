@@ -5,7 +5,7 @@ latitude: 41.403
 longitude: 2.193
 snippet: "A Poblenou street named for the Romantic poet who died in 1842 — running through the former industrial heartland of Barcelona in a neighbourhood where Romantic poetry and factory chimneys coexisted."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 José de Espronceda was the leading poet of Spanish Romanticism, a bohemian figure who lived a turbulent life of exile, revolutionary politics, and prolific writing before dying of diphtheria at 34 in 1842. His poems — particularly "The Pirate's Song" and "The Student of Salamanca" — celebrate freedom, defiance, and the doomed hero with an extravagance that made him enormously popular in the period when Barcelona's industrialisation was beginning.

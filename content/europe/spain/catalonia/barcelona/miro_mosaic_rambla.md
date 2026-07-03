@@ -5,7 +5,7 @@ latitude: 41.38116
 longitude: 2.17327
 snippet: "A large Joan Miró mosaic is set into the pavement of La Rambla mid-boulevard — most people walk across it without knowing it's there."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 At the midpoint of La Rambla, roughly level with Carrer de l'Hospital, a large circular mosaic is embedded in the pavement. The primary colours — red, yellow, blue, black — are unmistakably Miró. The design incorporates a large black star, a red disc, and the fluid organic forms that became his signature in the 1950s onwards. Most of the people walking over it are looking at the stalls of the Boqueria market on one side or the flow of tourists on the other. The mosaic is under their feet.

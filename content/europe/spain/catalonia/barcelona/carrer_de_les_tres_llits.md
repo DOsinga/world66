@@ -5,7 +5,7 @@ latitude: 41.382
 longitude: 2.1735
 snippet: "The shortest named street in the Gothic Quarter — 'Three Beds Street' is barely 10 metres long, a passageway between buildings whose name records a medieval boarding house."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Tres Llits (Three Beds Street) is by some measures the shortest named street in Barcelona's old city — a passage barely 10 metres long connecting two adjacent streets in the Gothic Quarter. Its name records a very specific past use: a boarding house with three beds to rent, offering the cheapest accommodation available in the medieval city.

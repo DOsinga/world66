@@ -5,7 +5,7 @@ latitude: 41.40423
 longitude: 2.15782
 snippet: "An ordinary Gràcia square made extraordinary by Mercè Rodoreda's 1962 novel of the same name — the most celebrated work of Catalan fiction of the 20th century."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 There is nothing visually remarkable about this small square in the heart of the Gràcia neighbourhood: a few trees, a fountain, apartment buildings on all sides. Its fame is entirely literary. In 1962, Mercè Rodoreda published La plaça del Diamant, a novel narrated by Natàlia — renamed Colometa (Little Dove) by her first husband — who meets that husband at a dance here, lives through the Civil War and its aftermath in this neighbourhood, and ends the book screaming in this square as an act of release from everything she has endured.

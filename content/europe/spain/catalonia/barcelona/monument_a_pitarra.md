@@ -5,7 +5,7 @@ latitude: 41.3802
 longitude: 2.1736
 snippet: "The 1906 bronze of Frederic Soler 'Pitarra' on the Rambla — the founder of modern Catalan theatre and the man who wrote the poem inscribed at the Fossar de les Moreres."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Frederic Soler, known by his pen name Serafí Pitarra, stands in bronze on the Rambla at the point closest to the theatre that was his life's work. Soler founded the Teatre Romea on the Carrer de l'Hospital in 1863, where he staged theatrical works in Catalan at a time when Catalan public culture was being suppressed by the political authorities. His plays were comedies and sainets (short popular theatrical pieces) that used the vernacular language of Barcelona's working class — not the literary Catalan of the Renaixença intellectuals but the spoken language of the market stalls and workshops.

@@ -5,7 +5,7 @@ latitude: 41.37930
 longitude: 2.16850
 snippet: "The neighbourhood outside the walls: raval comes from the Arabic 'rabad', meaning suburb or extramural settlement — the word that reveals Barcelona's medieval history of expansion beyond its Roman core."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name El Raval tells you exactly what this place was: the suburb. Raval comes from the Arabic rabad, meaning an extramural settlement — the inhabited area outside a fortified city. The word entered Catalan during the period when Arabic was the prestige language of urban administration in much of the Iberian Peninsula, even in Christian territories, because it carried practical concepts for describing urban forms that Latin and early Romance languages lacked.

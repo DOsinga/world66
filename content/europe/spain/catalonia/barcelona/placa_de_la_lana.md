@@ -5,7 +5,7 @@ latitude: 41.3852
 longitude: 2.1793
 snippet: "A small square in the Sant Pere neighbourhood named for the wool trade — the point where raw wool brought from the Pyrenees was inspected, weighed, and distributed to the weavers of the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Llana (Wool Square) was the wholesale market for raw wool in medieval Barcelona. Wool arrived from the sheep-farming areas of the Pyrenees and the Ebro valley, driven south by drovers along the seasonal migration routes. At the Plaça de la Llana, the bales were inspected by guild officials, weighed on the municipal scales, taxed, and distributed to the various wool-working trades.

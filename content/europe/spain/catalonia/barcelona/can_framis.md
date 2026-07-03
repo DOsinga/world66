@@ -5,7 +5,7 @@ latitude: 41.39887
 longitude: 2.19661
 snippet: "A 16th-century wool-dyeing farmhouse in the middle of Poblenou's 22@ tech district — one of the oldest standing buildings in Barcelona outside the medieval city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building now housing the Museu de Pintura de la Fundació Vila Casas is architecturally incongruous in its setting: a two-storey stone farmhouse with pointed Gothic windows, surrounded on all sides by glassed-in office towers and converted factories. Can Framis was built in the late 16th century as a rural farmhouse outside the city walls, used for centuries as a wool-dyeing facility and then a cotton mill. That it survived the industrial transformation of Poblenou — which demolished almost everything pre-19th-century — is largely accidental.

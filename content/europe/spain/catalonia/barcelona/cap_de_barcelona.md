@@ -5,7 +5,7 @@ latitude: 41.37742
 longitude: 2.18618
 snippet: "Roy Lichtenstein's 15-metre ceramic mosaic head at the port entrance — a gift to Barcelona for the 1992 Olympics that caused significant controversy about public art."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Roy Lichtenstein created this towering ceramic column-head for the 1992 Olympics at the request of the Barcelona city government. Standing 15 metres tall at the edge of the old port, it is one of his largest public works and almost certainly his most exposed: visible from the water, from the Rambla, and from the windows of the Barceloneta neighbourhood above. The figure — a stylised female face in Lichtenstein's signature bold outlines and Ben-Day dots, executed in glazed ceramic — deliberately plays with the tradition of the Roman column topped with a portrait.

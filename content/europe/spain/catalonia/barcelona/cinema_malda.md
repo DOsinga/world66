@@ -5,7 +5,7 @@ latitude: 41.3827
 longitude: 2.1748
 snippet: "A cinema hidden inside a shopping arcade in the Gothic Quarter — one of the last surviving single-screen independent cinemas in Barcelona, screening art-house films since 1931."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Cinema Maldà occupies an unusual position: it is inside the Pati del Maldà, a covered shopping arcade in the Gothic Quarter, entered through a passage from the Carrer del Pi. The cinema itself is not visible from the street. You walk through a narrow passage, past small shops, and the cinema appears at the back — a single auditorium that has been operating more or less continuously since 1931.

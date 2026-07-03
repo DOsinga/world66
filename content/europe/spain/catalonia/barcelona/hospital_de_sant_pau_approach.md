@@ -5,7 +5,7 @@ latitude: 41.4143
 longitude: 2.1735
 snippet: "The axis between the Sagrada Família and the Hospital de Sant Pau was planned by Domènech i Montaner as a deliberate urban composition — the two buildings face each other across the Avinguda de Gaudí."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Avinguda de Gaudí is a short, wide boulevard connecting the Sagrada Família to the Hospital de Sant Pau on a direct axis. The alignment is not accidental: Domènech i Montaner, designing the hospital at the same time Gaudí was beginning his church, positioned the main entrance of the hospital so that it would face the as-yet-unbuilt church. The two architects were rivals — Domènech had objected to Gaudí receiving the church commission and their professional relationship was cold — but their buildings were designed in conscious relation to each other.

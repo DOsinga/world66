@@ -5,7 +5,7 @@ latitude: 41.385
 longitude: 2.1785
 snippet: "The cotton merchants' street in Sant Pere — recording the shift from wool to cotton that transformed Barcelona's textile economy in the 18th century and made it the first industrialised city in Spain."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer dels Cotoners (Cotton Merchants Street) in the Sant Pere neighbourhood records a technological and economic revolution. For most of the medieval period, wool was the dominant textile fibre in Barcelona's manufacturing economy. Cotton existed — it came from Egypt and the Levant — but it was a specialty product, more expensive than wool and used for higher-grade textiles.

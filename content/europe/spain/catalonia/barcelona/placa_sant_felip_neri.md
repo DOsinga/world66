@@ -5,7 +5,7 @@ latitude: 41.38338
 longitude: 2.17510
 snippet: "One of the Gothic Quarter's most tranquil squares still carries the pockmarks of shrapnel from a 1938 Civil War bombing in its church walls — the marks were never repaired."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The small circular square of Sant Felip Neri is one of those Barcelona corners that appears in travel photography as an example of Gothic Quarter picturesque: cobblestones, an old well, a Baroque church façade, a single tree. The photographs rarely mention what is embedded in the lower walls of the church on the left side of the square: dozens of small circular pockmarks, 10 to 15 centimetres across, distributed across the stone surface roughly two metres from the ground.

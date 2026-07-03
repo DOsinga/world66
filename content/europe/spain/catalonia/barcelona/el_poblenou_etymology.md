@@ -5,7 +5,7 @@ latitude: 41.401
 longitude: 2.198
 snippet: "A neighbourhood whose name means simply 'the new village' — because it was a fishing village that developed east of Barcelona's walls when the city's industrial expansion made the waterfront too industrial for fishing."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name Poblenou (New Village) is startling in its simplicity. Unlike most Barcelona neighbourhood names — which refer to saints, noble families, topographic features, or historical events — Poblenou simply acknowledges that it is a newer settlement than the surrounding ones. The name dates from the 19th century, when the fishing community that had occupied the waterfront east of Barcelona distinguished itself from the older fishing village of Barceloneta by referring to itself as the "new" settlement.

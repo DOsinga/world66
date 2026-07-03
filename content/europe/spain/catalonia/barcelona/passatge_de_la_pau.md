@@ -5,7 +5,7 @@ latitude: 41.3776
 longitude: 2.1778
 snippet: "A narrow covered passage near the port, running between buildings that were part of the 18th-century maritime administration complex — one of the few surviving Gothic passages in this zone."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Passatge de la Pau (Passage of Peace) connects the Carrer de la Pau to the area near the Plaça del Duc de Medinaceli, cutting through the block at a point where, in the medieval city, a gate once stood in the first ring of city walls. The passage is unusual in this part of the Gothic Quarter: most of the area between the Rambla and the port was rebuilt extensively in the 18th and 19th centuries as the naval and commercial administration of the city expanded. This passatge survived because it served as a service corridor for the buildings on either side.

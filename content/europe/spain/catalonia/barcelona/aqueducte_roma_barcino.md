@@ -5,7 +5,7 @@ latitude: 41.385
 longitude: 2.1768
 snippet: "Sections of the 1st-century Roman aqueduct that supplied water to Barcino survive in the walls of buildings in the Gothic Quarter, visible from the street in two locations."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Roman city of Barcino required a water supply more substantial than the local wells could provide. An aqueduct was built, probably in the 1st century CE, drawing water from sources in the hills to the north and bringing it into the city through a covered channel that ran along the line of what is now the Passeig de Sant Joan. The aqueduct entered the city through the northeast gate and fed the public fountains, baths, and some private houses.

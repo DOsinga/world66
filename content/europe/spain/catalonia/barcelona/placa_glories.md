@@ -5,7 +5,7 @@ latitude: 41.40487
 longitude: 2.18916
 snippet: "The intersection where Cerdà planned to put Barcelona's symbolic centre — the plaza has been demolished and rebuilt three times, and the project to realize his vision is still underway."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 On Ildefons Cerdà's 1859 plan for the Eixample, the point where the Gran Via de les Corts Catalanes, the Avinguda Diagonal, and the Avinguda del Paral·lel converge was marked as the new city's symbolic centre — the place equivalent to a cathedral square or a royal palace, the point from which Barcelona would orient itself into its 19th-century future. Cerdà called it the Gran Plaça, and he drew it as a large public space at the confluence of the three main axes of the new district.

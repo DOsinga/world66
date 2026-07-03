@@ -5,7 +5,7 @@ latitude: 41.37533
 longitude: 2.17587
 snippet: "The Royal Shipyards of Barcelona — a 13th-century industrial complex that built the galleys of the Aragonese fleet and remains the largest medieval shipbuilding facility in the world."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building at the foot of La Rambla, now the Maritime Museum, is not a palace or a church — it is a factory. The Drassanes Reials (Royal Shipyards) were built by the Crown of Aragon beginning in 1255 and expanded through the 13th and 14th centuries to accommodate the fleet-building programme that made Aragon the dominant naval power in the western Mediterranean. The ships that fought at the Battle of Lepanto in 1571 — including the original of the full-scale replica displayed inside — were built in this complex.

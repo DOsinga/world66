@@ -5,7 +5,7 @@ latitude: 41.3849
 longitude: 2.1812
 snippet: "Barcelona's most architecturally complete medieval street — a sequence of 15th-century merchant palaces built by the families enriched by the Crown of Aragon's Mediterranean empire."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Montcada is unusual in Barcelona in having preserved an almost intact streetscape of 15th and 16th-century buildings. The palaces that line it — now housing the Picasso Museum, the Museu Tèxtil, the Palau Dalmases, and several other cultural institutions — were built by the merchant families who had enriched themselves through Barcelona's commercial empire in the Mediterranean.

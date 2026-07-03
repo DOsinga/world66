@@ -5,7 +5,7 @@ latitude: 41.3831
 longitude: 2.1763
 snippet: "The Gothic Quarter's most photographed street — the 'Gothic' bridge connecting the Generalitat and the Palau del Lloctinent was built in 1928, not the medieval period."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer del Bisbe (Bishop's Street) runs between the Plaça de Sant Jaume and the Plaça de la Catedral, cutting through the heart of the Gothic Quarter. The street is famous for the neo-Gothic bridge that crosses it overhead, connecting the Palau de la Generalitat to the Casa dels Canonges. It is one of the most photographed views in Barcelona and appears in every guidebook as an example of medieval Gothic architecture.

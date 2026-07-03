@@ -5,7 +5,7 @@ latitude: 41.3905
 longitude: 2.163
 snippet: "An Eixample street turned pedestrian boulevard in 2012 — recovering the tree-lined central walkway that existed before cars took over, named for the composer who died on the Atlantic in 1916."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Enric Granados was one of the major figures of Catalan Romanticism in music — a composer and pianist whose suite of piano pieces Goyescas, inspired by Francisco Goya's paintings, became internationally celebrated. In 1916, at the peak of his fame, he was returning to Europe after the American premiere of the opera he had drawn from the Goyescas when the ship was torpedoed by a German submarine in the English Channel. Granados swam free of the wreck but drowned trying to rescue his wife. He was 48. The street in the Eixample was named for him shortly after.

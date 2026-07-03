@@ -5,7 +5,7 @@ latitude: 41.382
 longitude: 2.1665
 snippet: "The Raval street that follows the line of a former seasonal stream (riera) that drained the Collserola hills through the pre-urban zone before the neighbourhood was built."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Riera Alta (Upper Stream Street) takes its name from the seasonal stream that ran through what is now the Raval neighbourhood before urbanisation. The stream — technically a riera, meaning a stream that carries water only during and after rain rather than continuously — drained the slopes of Montjuïc and the lower Collserola hills, running through the extramural zone and into the sea at the port.

@@ -5,7 +5,7 @@ latitude: 41.383
 longitude: 2.186
 snippet: "A surviving stretch of the 13th-century city wall built along the waterfront of the La Ribera neighbourhood — incorporated into later buildings and visible in sections along the Passeig del Born."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Barcelona's medieval city wall was expanded twice: first in the 13th century to incorporate the growing La Ribera neighbourhood, and again in the 14th and 15th centuries to enclose the Raval. The 13th-century wall ran along the waterfront of La Ribera, essentially following the line of the current Passeig del Born and continuing to the sea. Sections of this wall were incorporated into the buildings constructed against it in the 14th and 15th centuries.

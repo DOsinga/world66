@@ -5,7 +5,7 @@ latitude: 41.381
 longitude: 2.19
 snippet: "A Barceloneta street named for the salt trade — salt was the preservative that made the neighbourhood's fishing industry economically viable for three centuries."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Sal (Salt Street) in Barceloneta records the central role of salt in the neighbourhood's fishing economy. Before refrigeration, salt was the only practical preservative for fish on a commercial scale. The salt cellars (salines) that stored supplies for the fishing industry were located in and around this street, close to the beach where the boats came in.

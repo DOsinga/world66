@@ -5,7 +5,7 @@ latitude: 41.3762
 longitude: 2.1935
 snippet: "A tiny 18th-century seaside chapel at the tip of Barceloneta, where fishermen prayed for safety before setting out — the last surviving pre-Olympic building at the point where the neighbourhood meets the sea."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Capella de la Punta (Chapel of the Point) stands at the southern tip of the Barceloneta peninsula, at the point where the neighbourhood's triangular form terminates at the sea. The chapel was built in the 18th century, approximately simultaneously with the neighbourhood itself, as a place of maritime devotion for the fishermen who lived in the new planned settlement.

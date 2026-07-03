@@ -5,7 +5,7 @@ latitude: 41.3838
 longitude: 2.1865
 snippet: "The 1929 neoclassical terminus designed as the grand gateway to Barcelona for train travellers from France — its enormous steel and glass hall remains one of the finest surviving railway interiors in Spain."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Estació de França (France Station) was built for the 1929 International Exposition as the principal railway terminus for long-distance trains arriving from France via the Pyrenean border crossings. The existing station on the site was demolished and replaced with a new building in an eclectic neoclassical style: a dignified street façade of stone columns and pilasters, concealing a magnificent iron and glass train shed behind it.

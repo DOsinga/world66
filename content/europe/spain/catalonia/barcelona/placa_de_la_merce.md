@@ -5,7 +5,7 @@ latitude: 41.3788
 longitude: 2.1787
 snippet: "The square dedicated to Barcelona's patron saint, whose September festival has been the city's main popular festival since 1871 — the Mercedarian order that gives her name was founded here in 1218."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Nostra Senyora de la Mercè (Our Lady of Mercy) was declared patron saint of Barcelona in 1687, following a plague epidemic that the city attributed to her intercession. Her feast day on September 24 became the city's principal annual festival, and since 1871 it has been celebrated as the Festa Major — the main city festival. The Mercè festivities now run for nine days around September 24 and include free concerts, correfoc (fire-running), human tower competitions, and neighbourhood events across the entire city.

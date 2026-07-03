@@ -5,7 +5,7 @@ latitude: 41.38042
 longitude: 2.17726
 snippet: "A bulbous abstract form rises from Plaça de George Orwell — nicknamed 'L'oliva' (the olive) or 'El tripi' by the neighbourhood — made by Lleida sculptor Leandre Cristòfol in 1991."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The square is named after George Orwell, who famously wrote about the street fighting he witnessed in this neighbourhood in 1937 during the Spanish Civil War. The square itself was redesigned in the 1990s under controversial circumstances — locals objected to the changes, and a security camera was installed there, which Orwell's estate found grimly apt. What stands in the centre of this charged space is a sculpture that the neighbourhood immediately renamed.

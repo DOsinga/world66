@@ -5,7 +5,7 @@ latitude: 41.4028
 longitude: 2.157
 snippet: "The historic centre of Gràcia village, with the 1864 clocktower that rang out the hours for a community that refused to be absorbed by Barcelona until it had no choice."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Before 1897, Gràcia was an independent municipality. It had been a village outside Barcelona's walls since the 17th century, growing through the 18th and early 19th centuries into a significant small town with its own factories, politics, and identity. When Barcelona's expansion finally absorbed the surrounding municipalities, Gràcia was the last to hold out: it resisted annexation aggressively and surrendered its independence only when the Spanish government imposed it by decree.

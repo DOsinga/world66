@@ -5,7 +5,7 @@ latitude: 41.39243
 longitude: 2.16864
 snippet: "A hidden pedestrian passage in the Eixample — a row of small two-storey English-style houses with private gardens built in 1864, invisible from the street grid outside."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Eixample — Barcelona's 19th-century expansion grid — was designed by Ildefons Cerdà as a rational utopia. Each block was to have a central garden accessible to all residents. The garden courtyards were mostly never built, taken over by further construction as the century progressed. What was built instead, in a handful of locations, were private interior passages: hidden residential lanes tucked behind the street façades and accessible only through archways that look, from the outside, like any other Eixample doorway.

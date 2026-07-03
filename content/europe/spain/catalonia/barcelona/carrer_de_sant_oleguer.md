@@ -5,7 +5,7 @@ latitude: 41.379
 longitude: 2.171
 snippet: "The Raval street named for Barcelona's 12th-century archbishop who led the Catalan armies in the Reconquista — a reminder that medieval Barcelona's clergy were sometimes military commanders."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de Sant Oleguer commemorates Oleguer Bonestruga, Archbishop of Barcelona from 1116 to 1137 and simultaneously Archbishop of Tarragona. Oleguer was a canonical reformer who reorganised the Catalan church in the 12th century, but his contemporary fame rested on his role in the Reconquista — the Christian campaigns to reconquer Iberian territory held by Muslim rulers.

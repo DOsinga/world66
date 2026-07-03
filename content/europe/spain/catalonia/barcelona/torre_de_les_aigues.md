@@ -5,7 +5,7 @@ latitude: 41.3935
 longitude: 2.1715
 snippet: "The water tower built in 1867 in the Eixample — Barcelona's first modern water infrastructure, which brought piped water from the Dos Rius spring to the new expansion district."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Torre de les Aigües (Water Tower) in the Eixample is a cylindrical stone tower built in 1867 as part of the Companyia d'Aigües de Barcelona's new water supply system. The tower served as a pressure reservoir: water pumped up into it from the intake facilities could then flow by gravity to buildings throughout the Eixample, providing the pressure needed for domestic plumbing.

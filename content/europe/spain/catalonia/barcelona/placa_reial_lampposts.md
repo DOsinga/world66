@@ -5,7 +5,7 @@ latitude: 41.38009
 longitude: 2.17502
 snippet: "The six-armed lamp posts in Plaça Reial were Gaudí's first public commission, given to him days after he graduated in 1878 — his earliest surviving work in the city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Plaça Reial, the colonnaded square of Neoclassical grandeur behind La Rambla, has two lamp posts at the two ends of its central axis. They are not the kind of lamp posts that register immediately as objects of particular note — they are simply part of the square. But these are Antoni Gaudí's first public commission, designed in 1878 when he was 26 years old, days after receiving his architecture diploma. They are the oldest surviving work by Gaudí anywhere in Barcelona.

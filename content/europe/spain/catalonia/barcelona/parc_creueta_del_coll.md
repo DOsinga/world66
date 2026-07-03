@@ -5,7 +5,7 @@ latitude: 41.418
 longitude: 2.154
 snippet: "A park built in a disused quarry above Gràcia, with a 1987 suspended iron sculpture by Eduardo Chillida hanging over a swimming lake."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Creueta del Coll quarry provided stone for Barcelona's expansion for most of the 19th and early 20th centuries. When the quarry was exhausted in the 1960s, it left a large pit with sheer rock walls in what had become the edge of the urban area. The city converted it into a park between 1981 and 1987, keeping the quarry's character — exposed granite walls, a floor lower than the surrounding streets — and adding a lake in the central depression.

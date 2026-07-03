@@ -5,7 +5,7 @@ latitude: 41.40022
 longitude: 2.15758
 snippet: "The town square of what was once an independent municipality — Gràcia's clock tower has marked time here since 1862, in a square that was the political centre of a radical republican stronghold."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The square with the tall clock tower is Gràcia's historic civic centre — the Ajuntament (town hall) that faces it was the seat of municipal government when Gràcia was an independent town. Gràcia was not incorporated into Barcelona until 1897, and throughout the 19th century it had its own political identity that was markedly different from the more conservative city it adjoined. The town was a stronghold of radical republicanism, federalism, and early labour organizing; its population of textile workers and artisans made it one of the most politically active communities in Catalonia.

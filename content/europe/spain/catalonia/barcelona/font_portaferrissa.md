@@ -5,7 +5,7 @@ latitude: 41.38304
 longitude: 2.17190
 snippet: "A wall fountain at the start of Carrer de la Portaferrissa, its 1959 ceramic tiles depicting 18th-century street life at the old city gate."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The fountain itself is modest — a small basin built into the wall at the corner of La Rambla and Carrer de la Portaferrissa. But look at the ceramic tiles above the spout. They were installed in 1959, designed by Joan Baptista Guivernau, and they show the Portaferrissa gate as it looked in the 18th century: merchants, water-carriers, a city going about its business through an arch that no longer stands.

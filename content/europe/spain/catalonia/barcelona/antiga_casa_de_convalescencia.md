@@ -5,7 +5,7 @@ latitude: 41.3813
 longitude: 2.1672
 snippet: "A 17th-century tiled convalescent home next to the Hospital de la Santa Creu — its courtyard has the most complete ensemble of 17th-century blue-and-white ceramic tiles in Catalonia."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Casa de la Convalescència was built between 1629 and 1680 as an annex to the Hospital de la Santa Creu, providing accommodation for patients who had been discharged from hospital but were not yet well enough to return home. The hospital had recognised that the transition from acute illness to full recovery was a vulnerable period; patients discharged too soon would relapse, return to hospital, and consume resources more expensively. The convalescent home was a practical solution to a recurring problem.

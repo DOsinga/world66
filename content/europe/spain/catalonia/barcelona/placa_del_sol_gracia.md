@@ -5,7 +5,7 @@ latitude: 41.40163
 longitude: 2.15678
 snippet: "Gràcia's central gathering square — named for the sun it was built to face — became a flashpoint in the 1980s when the city's plan to build an underground car park sparked a neighbourhood revolt."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Plaça del Sol is the social centre of the Vila de Gràcia neighbourhood, a wide, slightly irregular square that faces southeast — toward the sun, as the name indicates. The orientation was deliberate: when the square was laid out in the 19th century, when Gràcia was still an independent town outside Barcelona, the design prioritized winter sunlight in a square intended as a daily gathering place. The bars and restaurants that now line its edges are the contemporary version of that programme.

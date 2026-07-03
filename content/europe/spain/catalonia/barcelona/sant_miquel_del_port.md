@@ -5,7 +5,7 @@ latitude: 41.378
 longitude: 2.1885
 snippet: "The 18th-century parish church at the heart of Barceloneta — built simultaneously with the neighbourhood itself as a gesture of state Catholicism for the workers who replaced the displaced La Ribera residents."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Barceloneta neighbourhood was planned and built by military engineers between 1715 and 1755. After the Bourbon forces demolished the La Ribera district to build the Ciutadella fortress, the displaced population needed somewhere to live. The engineer Juan Martín Cermeño designed a grid of narrow streets on the triangular sandbank between the city wall and the sea, creating the neighbourhood that still bears its grid plan today.

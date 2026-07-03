@@ -5,7 +5,7 @@ latitude: 41.3815
 longitude: 2.175
 snippet: "A tiny Gothic Quarter lane recording the presence of the Knights Templar in medieval Barcelona — the order that protected pilgrims and funded the crusades before being dissolved in 1312."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer dels Templers (Street of the Templars) is one of the shorter streets in the southern Gothic Quarter, a lane connecting the Carrer de Ferran to the Carrer de la Dagueria. The name records the presence of a Templar house — a commandery — in the neighbourhood in the medieval period. The Knights Templar maintained a significant presence in Barcelona from the 12th century onward, when Aragonese participation in the Crusades brought the order into close alliance with the Catalan nobility.

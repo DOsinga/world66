@@ -5,7 +5,7 @@ latitude: 41.3836
 longitude: 2.1757
 snippet: "A short Gothic Quarter street with a 15th-century carved relief of the Pietà set into the Cathedral wall — one of the oldest surviving pieces of public religious sculpture in Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de la Pietat runs along the north side of the Cathedral complex, connecting the Plaça de la Seu to the smaller square in front of the Casa de l'Ardiaca. The street's name references the devotional image set into the wall at its mid-point: a carved stone relief of the Pietà — the Virgin Mary holding the body of the dead Christ — that dates from the 15th century.

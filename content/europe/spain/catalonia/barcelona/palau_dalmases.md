@@ -5,7 +5,7 @@ latitude: 41.38478
 longitude: 2.18156
 snippet: "A 17th-century Baroque palace on Carrer de Montcada with the finest surviving courtyard of that period in Barcelona, built by a merchant family who traded with the Americas."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The mansion at number 20 Carrer de Montcada was built between 1698 and 1717 for Pau Ignasi de Dalmases i Ros, a member of Barcelona's merchant aristocracy and patron of the arts who founded the Acadèmia dels Desconfiats (Academy of the Mistrustful), an early literary society. The building's exterior is restrained by the standards of its era, but the interior courtyard is exceptional: a staircase of carved stone with Neptune and his horses emerging from the balustrade, sea-nymphs on the newel posts, and grape clusters twisting up the columns — Baroque excess in a city that generally ran to Gothic austerity.

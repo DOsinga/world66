@@ -5,7 +5,7 @@ latitude: 41.3803
 longitude: 2.189
 snippet: "The central square of the 18th-century planned neighbourhood, where the grid of Barcelona's most geometric district meets the church of Sant Miquel del Port."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Barceloneta neighbourhood was laid out in a strict geometric grid by the military engineer Juan Martín Cermeño between 1715 and 1755. The grid is unusually precise even by Eixample standards: all streets are parallel or perpendicular, all blocks are 400 by 60 metres, and all apartment buildings were designed to be four storeys maximum (to prevent the neighbourhood from becoming a fortified position that could resist artillery). The Plaça de la Barceloneta is the only exception to the relentless linearity: a square at the neighbourhood's centre where the church of Sant Miquel del Port creates a public space.

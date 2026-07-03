@@ -5,7 +5,7 @@ latitude: 41.38459
 longitude: 2.17625
 snippet: "The medieval almhouse beside the Cathedral once fed a hundred paupers daily — now a museum, its lower floors expose Roman ruins that pre-date the Cathedral itself."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building facing the Cathedral's main apse — the Gothic structure on Avinguda de la Catedral — is the Casa de la Pia Almoina, the Pious Almshouse. Founded in the 11th century by the Bishop of Barcelona as a charitable institution to feed the poor, it operated as a soup kitchen, hospital, and refuge for the homeless for nearly seven hundred years. At its most active in the 14th century, the Pia Almoina distributed food to a hundred people every day, paid for by Cathedral revenues and private donations.

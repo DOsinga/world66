@@ -5,7 +5,7 @@ latitude: 41.38328
 longitude: 2.17644
 snippet: "The neo-Gothic bridge connecting two government buildings on Carrer del Bisbe looks medieval but was built in 1928 — and carries a skull, a stone dagger, and an independence legend."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Almost every visitor to the Barri Gòtic photographs this bridge: a pointed Gothic arch spanning Carrer del Bisbe, its stonework carved with heraldic shields and gargoyles, connecting the Palau de la Generalitat to the Casa dels Canonges across the street. It looks like it belongs to the 14th century. It was built in 1928, designed by the architect Joan Rubió i Bellver, a student of Gaudí, for the 1929 International Exposition. The Gothic style was chosen to match the medieval buildings on either side, and the execution is so convincing that many people never question it.

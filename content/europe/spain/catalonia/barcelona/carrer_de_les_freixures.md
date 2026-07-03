@@ -5,7 +5,7 @@ latitude: 41.3835
 longitude: 2.1795
 snippet: "A Born lane named for 'freixures' — the offal and organ meats from slaughtered animals, sold cheaply to the poor — recording the meat economy of the medieval neighbourhood."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Freixures takes its name from freixura — a term for the lights, liver, and other organ meats taken from slaughtered animals. These cuts were the cheapest and least valued parts of the carcass and were sold separately from the prime cuts of meat, at prices the working poor could afford. The street records the location where this trade took place.

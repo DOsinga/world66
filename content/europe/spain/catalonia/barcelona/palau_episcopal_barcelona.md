@@ -5,7 +5,7 @@ latitude: 41.384
 longitude: 2.1755
 snippet: "The Bishop's Palace next to the Cathedral, whose main gate sits above a section of the original Roman wall of Barcino — one of the better accessible fragments of the 3rd-century city fortification."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Palau Episcopal (Bishop's Palace) occupies the block to the southwest of the Cathedral, with its main entrance on the Carrer del Bisbe. The palace has been the residence and administrative centre of the Bishop of Barcelona for most of the city's Christian history, though the current building is largely a 12th-century Romanesque construction that has been substantially modified in later centuries.

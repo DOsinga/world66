@@ -5,7 +5,7 @@ latitude: 41.3845
 longitude: 2.172
 snippet: "A section of Barcelona's Roman city wall visible in a sunken garden, together with a Roman road and a funerary monument — one of the most accessible fragments of the 3rd-century city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de la Vila de Madrid contains an archaeological garden set below street level, where a section of the Roman city wall of Barcino is preserved in situ, along with a stretch of the Roman road that ran outside the wall and a number of funerary monuments. The sunken garden makes the relationship between the Roman ground level and the current street level immediately visible: the site is approximately 2 metres below the current pavement.

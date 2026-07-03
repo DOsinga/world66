@@ -5,7 +5,7 @@ latitude: 41.39210
 longitude: 2.18091
 snippet: "Barcelona's triumphal arch was built not to celebrate a military victory but to serve as the entrance to a World's Fair — and every brick is Catalan red."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Arc de Triomf at the northern end of Passeig de Lluís Companys is more unusual than it looks. Triumphal arches were a Roman tradition adopted by Napoleon for military victories, and copied by European cities throughout the 19th century to celebrate their own self-importance. Barcelona's version, built in 1888, was designed by Josep Vilaseca i Casanovas for the Universal Exhibition held that year — not to commemorate a battle but to serve as the exhibition's main entrance, opening onto the fairground in the Parc de la Ciutadella.

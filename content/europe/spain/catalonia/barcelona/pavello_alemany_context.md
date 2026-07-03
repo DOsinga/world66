@@ -5,7 +5,7 @@ latitude: 41.37089
 longitude: 2.14968
 snippet: "Mies van der Rohe's 1929 German Pavilion was demolished after the Exposition ended — the present building is a faithful 1986 reconstruction that many architects consider one of the most important buildings of the 20th century."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The German Pavilion for the 1929 International Exposition in Barcelona was built by Ludwig Mies van der Rohe and Lilly Reich as the official representation of the Weimar Republic. It stood for six months, was visited by millions, then was demolished when the Exposition closed. Mies moved to the United States, became director of the Illinois Institute of Technology, and transformed American architecture. The pavilion existed only in photographs, drawings, and memory.

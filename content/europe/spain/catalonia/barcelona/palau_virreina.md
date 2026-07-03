@@ -5,7 +5,7 @@ latitude: 41.38234
 longitude: 2.17148
 snippet: "An 18th-century Baroque palace on La Rambla built by the Viceroy of Peru — who died before he could move in, leaving it to his much younger widow who gave the palace her title."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Baroque façade at La Rambla 99 is one of the grandest domestic buildings in Barcelona's old city. It was built between 1772 and 1778 for Manuel d'Amat i de Junyent, the Viceroy of Peru, who had accumulated enormous wealth in South America and returned to Barcelona intending to live in appropriate splendour. He commissioned the palace, watched it rise, and died in 1782 — just four years after it was completed — before he had fully settled in. His widow, Francesca de Fivaller, was considerably younger than he was, and she outlived him for decades, living in the palace and giving it the name it still carries: the Virreina, the Viceroy's wife.

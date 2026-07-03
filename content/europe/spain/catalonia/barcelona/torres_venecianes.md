@@ -5,7 +5,7 @@ latitude: 41.37410
 longitude: 2.14997
 snippet: "The twin Venetian towers flanking the entry to Plaça d'Espanya were designed by Puig i Cadafalch for the 1929 International Exposition — directly modelled on the campanile of Saint Mark's in Venice."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 At the entrance to Plaça d'Espanya, two tall towers rise identically on either side of the avenue leading up toward Montjuïc. They are red brick with white stone dressings, square-plan below and octagonal above, each terminating in a cylindrical spire. They are direct copies — reduced in scale but faithful in form — of the campanile di San Marco in Venice. These are the Torres Venecianes (Venetian Towers), designed by Puig i Cadafalch for the 1929 International Exposition and completed in 1927.

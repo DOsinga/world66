@@ -5,7 +5,7 @@ latitude: 41.38245
 longitude: 2.18275
 snippet: "Barcelona's medieval commodities exchange, where Picasso's father taught drawing — the Gothic trading hall still stands inside a neoclassical shell built in 1774."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Llotja (from the Catalan word for a covered arcade or exchange) was built between 1380 and 1392 as the trading hall for Barcelona's merchant class. The Gothic hall inside — the Saló Gòtic, or trading room — is one of the best-preserved medieval civic interiors in Catalonia: a three-aisled hall with pointed arches and an upper gallery where the arbiters of commercial disputes would sit. It was the financial heart of Barcelona at the height of its Mediterranean trading empire.

@@ -5,7 +5,7 @@ latitude: 41.3756
 longitude: 2.1659
 snippet: "A 1940s music hall on the Paral·lel that survived from big band dances through flamenco shows to become one of Europe's most respected electronic music venues."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Sala Apolo opened in 1943 as a dance hall on the Avinguda del Paral·lel, the entertainment avenue that ran along the southern edge of the Raval. The Paral·lel — named because it runs along the 41°22'N parallel of latitude, a fact that was seen as cosmically significant by someone in the 19th century — had been Barcelona's entertainment district since the 1890s, housing theatres, music halls, cabarets, and circus venues in a dense strip of popular culture.

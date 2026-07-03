@@ -5,7 +5,7 @@ latitude: 41.3828
 longitude: 2.1798
 snippet: "The 'Street of the Flies' in the Born neighbourhood — named for the flies that swarmed around a medieval slaughterhouse or fish stall, one of the most evocative of Barcelona's surviving medieval street names."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Mosques (Street of the Flies) is a short lane in the Born neighbourhood that preserves a medieval name referring to a basic fact of urban life in a pre-modern city: flies congregated wherever food was processed, animals were slaughtered, or organic waste accumulated. The specific use that created this particular fly concentration is not recorded — the most likely candidates are a meat stall, a tanning operation, or a middens site — but the name was specific enough to stick.

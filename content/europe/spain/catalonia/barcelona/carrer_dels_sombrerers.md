@@ -5,7 +5,7 @@ latitude: 41.3843
 longitude: 2.182
 snippet: "The hat-makers' street in the Born — where the guild of sombrerers (hat-makers) operated from the 14th century, the most surprising of the surviving guild street names in the neighbourhood."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The hat-making guild of Barcelona was among the more prosperous of the medieval craft associations. Hats were status objects: the quality of a person's hat communicated their social position as clearly as their clothes. A wealthy merchant wore a different hat from an artisan; a guild member wore a different hat from a journeyman. The sombrerers who worked in this street made hats for the full social spectrum of Barcelona's population, from the rough felt caps of the working poor to the fine velvet hats of the merchant class.

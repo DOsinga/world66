@@ -5,7 +5,7 @@ latitude: 41.38143
 longitude: 2.17333
 snippet: "A building on La Rambla covered with Japanese parasols and a Chinese dragon holding a street lamp — once the city's most fashionable umbrella shop."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building at La Rambla 82 stops people mid-stride. The upper floors are decorated with open Chinese parasols in cast iron, painted in red, yellow and green. On the corner, where the building meets Carrer de la Boqueria, a gilded Chinese dragon projects from the wall, one arm extended, holding a gas lamp. The whole thing is a piece of 19th-century commercial theatre: this was the shop of Bruno Cuadros, Barcelona's leading umbrella and parasol merchant, and the building was its own advertisement.

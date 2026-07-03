@@ -5,7 +5,7 @@ latitude: 41.3685
 longitude: 2.1526
 snippet: "A 1929 open-air theatre cut into the Montjuïc hillside for the International Exposition — used for stone quarrying before becoming Barcelona's main summer performance venue."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Teatre Grec (Greek Theatre) on Montjuïc was created in 1929 for the International Exposition of Barcelona, designed by the architect Ramon Reventós in the style of an ancient Greek open-air theatre. The name is accurate: the form — a semicircular seating bank cut into the hillside facing a stage — is directly modelled on the theatres of classical antiquity, particularly those of mainland Greece and Sicily.

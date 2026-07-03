@@ -5,7 +5,7 @@ latitude: 41.3825
 longitude: 2.1665
 snippet: "The square in front of the Museum of Contemporary Art of Barcelona, where the skateboarders who colonised it in the 1990s have been expelled and welcomed back repeatedly as the city negotiates its relationship with street culture."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça dels Àngels (Angels Square) in the Raval was created when the Museum of Contemporary Art of Barcelona (MACBA) was built, opening in 1995 to designs by Richard Meier. The museum's white rationalist exterior faces a large paved plaza — the kind of open urban space that was rare in the dense Raval neighbourhood.

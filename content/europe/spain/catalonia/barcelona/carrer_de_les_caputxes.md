@@ -5,7 +5,7 @@ latitude: 41.386
 longitude: 2.1775
 snippet: "A tiny Gothic Quarter lane named for the caputxines — Capuchin nuns whose convent occupied a nearby building — whose name records the women's religious communities that were a significant presence in the medieval city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Carrer de les Caputxes (Street of the Capuchin Nuns) is one of the shortest and narrowest streets in the Gothic Quarter, connecting the Carrer dels Comtes to the Plaça de Sant Iu. The name records the presence of Capuchin nuns in the neighbourhood — a branch of the Franciscan order whose female houses were established in Catalonia from the 17th century onward.

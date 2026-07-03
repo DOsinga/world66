@@ -5,7 +5,7 @@ latitude: 41.38724
 longitude: 2.17526
 snippet: "A 4.5-metre iron face by Jaume Plensa rises from the pavement of Carrer de Sant Pere Més Alt, eyes closed, in front of the Palau de la Música."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 On a narrow street in front of one of the most ornate buildings in Barcelona, Jaume Plensa has placed a face. It rises 4.5 metres from the pavement, wrought iron rather than the white resin he is better known for internationally, and it belongs to no historical figure. The eyes are closed. The expression is somewhere between sleep and concentration, or perhaps the deliberate blankness that comes with sitting very still for a very long time.

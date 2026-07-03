@@ -5,7 +5,7 @@ latitude: 41.3838
 longitude: 2.1722
 snippet: "A hidden square just off the top of the Rambla, where a 12th-century Romanesque church stands in a cloister garden — one of the most complete medieval church complexes in the old city."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Plaça de Santa Anna is reached through a gateway from the Carrer de Santa Anna, a short street connecting the top of the Rambla to the Gothic Quarter interior. Passing through the gate reveals a medieval cloister garden and the church of Santa Anna, one of the few surviving Romanesque churches in Barcelona's old city.

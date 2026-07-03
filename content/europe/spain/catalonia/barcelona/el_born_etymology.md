@@ -5,7 +5,7 @@ latitude: 41.38580
 longitude: 2.18200
 snippet: "The neighbourhood called El Born takes its name from a medieval tournament ground where mounted knights competed — the word comes from 'buhurt', the French term for a jousting melee."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The street sign at the top of Passeig del Born reads simply EL BORN — the name of the neighbourhood and, before it was a neighbourhood name, the name of the open ground that occupied this space outside the medieval city walls. Born comes from the Catalan version of the French word buhurt, a type of tournament in which mounted knights charged each other in groups rather than in the one-on-one jousting of popular imagination. The buhurt was noisier, more dangerous, and more popular: a mass cavalry charge, controlled only loosely, which sent both riders and spectators scrambling.

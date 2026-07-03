@@ -5,7 +5,7 @@ latitude: 41.38516
 longitude: 2.17018
 snippet: "A Victorian cast-iron drinking fountain at the top of La Rambla carries a superstition: drink from it and you will return to Barcelona."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The fountain stands at the head of La Rambla — an ornate four-armed cast-iron post with a globe lamp and four small taps, installed in 1892 to carry water from the springs of Collserola into the city. There is nothing obviously remarkable about it. Hundreds of people walk past it without pausing. But locals know that if you drink from it, you will come back to Barcelona, and after 1936, the fountain acquired a second identity: it became the place where FC Barcelona fans gather to celebrate championships.

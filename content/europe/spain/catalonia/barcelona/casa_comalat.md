@@ -5,7 +5,7 @@ latitude: 41.3935
 longitude: 2.1652
 snippet: "A 1911 apartment building by Salvador Valeri i Pupurull where every surface curves — the most extreme application of organic Modernisme on any residential building in the Eixample."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Salvador Valeri i Pupurull was a student of Antoni Gaudí, and the Casa Comalat on the Carrer de Còrsega is the most extravagant expression of what he learned. Built between 1909 and 1911, the building has no straight lines on its main façade: the balconies undulate, the columns curve, the windows bow outward like eyes, and the ceramic ornamentation spills across the surface without any conventional compositional framework. Valeri pushed Gaudí's organic vocabulary to its logical extreme.

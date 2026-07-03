@@ -5,7 +5,7 @@ latitude: 41.39801
 longitude: 2.16403
 snippet: "Puig i Cadafalch's Gothic castle in the Eixample — six towers with conical stone spires rising from a corner block, built for three unmarried sisters in 1905."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The building that stands on the corner of Avinguda Diagonal and Carrer del Rosselló looks so much like a medieval Flemish guild hall that it seems to have been transported from Bruges. Six round towers with pointed stone spires rise from the roofline; the stone façade is carved with heraldic shields, Gothic tracery, and the kind of decorative programme associated with Northern European civic architecture of the 15th century. It was built in 1905 by Josep Puig i Cadafalch. Barcelona's nickname for it is Casa de les Punxes: House of the Spikes.

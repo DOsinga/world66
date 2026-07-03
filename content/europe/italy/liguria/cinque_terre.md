@@ -21,12 +21,12 @@ Monterosso is the largest and the only one with a real sandy beach — the most 
 
 The walking trail that once linked all five villages, the Sentiero Azzurro, is the classic way to see the Cinque Terre, though landslides mean parts of it close regularly — check the current status before you set out. The most popular section, the Via dell'Amore between Manarola and Riomaggiore, is short and mostly level. The climb from Vernazza to Monterosso is steeper and gives the best views. A Cinque Terre Card (buy it at any train station) covers unlimited regional trains and trail access.
 
-The villages are unbelievably crowded in July and August — cruise-ship day-trippers from La Spezia pour in and the lanes fill with people. Come in April, May, September, or October if you can, stay at least one night in one of the villages rather than day-tripping from La Spezia, and eat the local anchovies fresh, fried, or pickled with lemon. The sweet [Sciacchetrà wine](/europe/italy/liguria/cinque_terre/sciacchetra_wine), produced in tiny quantities from the terraced vineyards, is a rare regional speciality worth trying before you leave.
+The villages are unbelievably crowded in July and August — cruise-ship day-trippers from La Spezia pour in and the lanes fill with people. Come in April, May, September, or October if you can, stay at least one night in one of the villages rather than day-tripping from La Spezia, and eat the local anchovies fresh, fried, or pickled with lemon. The sweet Sciacchetrà wine, produced in tiny quantities from the terraced vineyards, is a rare regional speciality worth trying before you leave.
 
 ## Villages
 
 - [Monterosso al Mare](/europe/italy/liguria/monterosso) — the largest village, with a real sandy beach
-- **Vernazza** — the prettiest, with a harbour and Doria Castle
-- **Corniglia** — the clifftop village, quietest of the five
-- **Manarola** — dramatic harbour, northern end of the Via dell'Amore
+- [Vernazza](/europe/italy/liguria/vernazza) — the prettiest, with a harbour and Doria Castle
+- [Corniglia](/europe/italy/liguria/corniglia) — the clifftop village, quietest of the five
+- [Manarola](/europe/italy/liguria/manarola) — dramatic harbour, northern end of the Via dell'Amore
 - [Riomaggiore](/europe/italy/liguria/riomaggiore) — the southernmost village, working-village character

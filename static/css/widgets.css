@@ -590,6 +590,66 @@ html.w66-widget-page,
   width: 100%;
   height: 100%;
   display: block;
+  cursor: grab;
+  touch-action: none;
+}
+
+.w66-se-map.is-dragging {
+  cursor: grabbing;
+}
+
+.w66-se-map-controls {
+  position: absolute;
+  right: 14px;
+  top: 14px;
+  z-index: 5;
+  display: grid;
+  grid-template-columns: repeat(3, 34px);
+  gap: 6px;
+}
+
+.w66-se-map-controls button {
+  height: 34px;
+  border: 1px solid rgba(19,18,17,0.18);
+  border-radius: 6px;
+  background: rgba(255,250,241,0.92);
+  box-shadow: 0 4px 14px rgba(19,18,17,0.1);
+  color: var(--w66-ink);
+  font: 800 13px/1 var(--w66-body-font);
+  cursor: pointer;
+}
+
+.w66-se-map-controls button:hover {
+  background: #fff;
+}
+
+.w66-se-map-controls [data-map-zoom="in"] {
+  grid-column: 1;
+}
+
+.w66-se-map-controls [data-map-zoom="out"] {
+  grid-column: 2;
+}
+
+.w66-se-map-controls [data-map-pan="up"] {
+  grid-column: 2;
+}
+
+.w66-se-map-controls [data-map-pan="left"] {
+  grid-column: 1;
+}
+
+.w66-se-map-controls [data-map-pan="right"] {
+  grid-column: 3;
+}
+
+.w66-se-map-controls [data-map-pan="down"] {
+  grid-column: 2;
+}
+
+.w66-se-map-controls [data-map-reset] {
+  grid-column: 1 / -1;
+  width: auto;
 }
 
 .w66-se-ocean {

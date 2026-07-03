@@ -29,6 +29,9 @@
     var locations = [];
     var markerLayer = null;
     var hoverCard = null;
+    var worldViewBox = { x: 0, y: 0, width: 1000, height: 520 };
+    var viewBox = { x: 0, y: 0, width: 1000, height: 520 };
+    var dragStart = null;
 
     function escapeHtml(value) {
       var div = document.createElement('div');
@@ -67,6 +70,7 @@
 
     function drawBaseMap(geo) {
       svg.innerHTML = '';
+      applyViewBox();
       var ocean = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
       ocean.setAttribute('class', 'w66-se-ocean');
       ocean.setAttribute('x', '0');
@@ -113,6 +117,78 @@
       svg.appendChild(markerLayer);
     }
 
+    function clampViewBox(next) {
+      var minWidth = 170;
+      var aspect = worldViewBox.width / worldViewBox.height;
+      var width = Math.min(worldViewBox.width, Math.max(minWidth, next.width));
+      var height = width / aspect;
+      var maxX = worldViewBox.width - width;
+      var maxY = worldViewBox.height - height;
+      return {
+        x: Math.min(maxX, Math.max(0, next.x)),
+        y: Math.min(maxY, Math.max(0, next.y)),
+        width: width,
+        height: height
+      };
+    }
+
+    function applyViewBox() {
+      svg.setAttribute('viewBox', [
+        viewBox.x.toFixed(2),
+        viewBox.y.toFixed(2),
+        viewBox.width.toFixed(2),
+        viewBox.height.toFixed(2)
+      ].join(' '));
+    }
+
+    function zoomMap(factor, anchor) {
+      anchor = anchor || {
+        x: viewBox.x + viewBox.width / 2,
+        y: viewBox.y + viewBox.height / 2
+      };
+      var width = viewBox.width * factor;
+      var height = width / (worldViewBox.width / worldViewBox.height);
+      viewBox = clampViewBox({
+        x: anchor.x - (anchor.x - viewBox.x) * width / viewBox.width,
+        y: anchor.y - (anchor.y - viewBox.y) * height / viewBox.height,
+        width: width,
+        height: height
+      });
+      applyViewBox();
+      update();
+    }
+
+    function panMap(dx, dy) {
+      viewBox = clampViewBox({
+        x: viewBox.x + dx,
+        y: viewBox.y + dy,
+        width: viewBox.width,
+        height: viewBox.height
+      });
+      applyViewBox();
+      update();
+    }
+
+    function resetMap() {
+      viewBox = { x: 0, y: 0, width: 1000, height: 520 };
+      applyViewBox();
+      update();
+    }
+
+    function svgPoint(event) {
+      var rect = svg.getBoundingClientRect();
+      return {
+        x: viewBox.x + (event.clientX - rect.left) / rect.width * viewBox.width,
+        y: viewBox.y + (event.clientY - rect.top) / rect.height * viewBox.height
+      };
+    }
+
+    function isVisible(item) {
+      var point = project(item.lng, item.lat);
+      return point.x >= viewBox.x && point.x <= viewBox.x + viewBox.width &&
+        point.y >= viewBox.y && point.y <= viewBox.y + viewBox.height;
+    }
+
     function weightedScore(item) {
       var total = 0;
       dims.forEach(function(dim) {
@@ -129,16 +205,20 @@
       });
     }
 
+    function visibleRankedLocations() {
+      return sortedLocations().filter(function(row) { return isVisible(row.item); });
+    }
+
     function strongestDims(item) {
       return dims.slice().sort(function(a, b) { return item[b] - item[a]; }).slice(0, 2);
     }
 
-    function updateSummary(top) {
+    function updateSummary(top, visibleCount) {
       if (!summary) return;
       var active = dims.filter(function(dim) { return weights[dim] > 0; })
         .map(function(dim) { return labels[dim] + ' ' + weights[dim].toFixed(1); });
       summary.textContent = (active.length ? active.join(' / ') : 'All weights are zero') +
-        ' · ' + top.length + ' destinations';
+        ' · top ' + top.length + ' of ' + visibleCount + ' visible destinations';
     }
 
     function renderList(top) {
@@ -179,8 +259,8 @@
         '<span>Score ' + row.score.toFixed(1) + '</span>' +
         '<span>C/N/L/A ' + item.culture.toFixed(1) + ' / ' + item.nature.toFixed(1) + ' / ' + item.leisure.toFixed(1) + ' / ' + item.adventure.toFixed(1) + '</span>';
       root.appendChild(hoverCard);
-      var x = point.x / 1000 * svg.clientWidth;
-      var y = point.y / 520 * svg.clientHeight;
+      var x = (point.x - viewBox.x) / viewBox.width * svg.clientWidth;
+      var y = (point.y - viewBox.y) / viewBox.height * svg.clientHeight;
       hoverCard.style.left = Math.min(root.clientWidth - hoverCard.offsetWidth - 12, Math.max(12, x + 16)) + 'px';
       hoverCard.style.top = Math.min(root.clientHeight - hoverCard.offsetHeight - 12, Math.max(12, y + 16)) + 'px';
     }
@@ -223,9 +303,9 @@
         weights[dim] = Number(input.value);
         if (value) value.textContent = weights[dim].toFixed(1);
       });
-      var ranked = sortedLocations();
+      var ranked = visibleRankedLocations();
       var top = ranked.slice(0, 50);
-      updateSummary(top);
+      updateSummary(top, ranked.length);
       renderList(top);
       renderMarkers(ranked);
     }
@@ -269,6 +349,60 @@
 
     root.querySelectorAll('[data-score-control] input').forEach(function(input) {
       input.addEventListener('input', update);
+    });
+    root.querySelectorAll('[data-map-zoom]').forEach(function(button) {
+      button.addEventListener('click', function() {
+        zoomMap(button.getAttribute('data-map-zoom') === 'in' ? 0.72 : 1.38);
+      });
+    });
+    root.querySelectorAll('[data-map-pan]').forEach(function(button) {
+      button.addEventListener('click', function() {
+        var direction = button.getAttribute('data-map-pan');
+        var stepX = viewBox.width * 0.28;
+        var stepY = viewBox.height * 0.28;
+        panMap(
+          direction === 'left' ? -stepX : direction === 'right' ? stepX : 0,
+          direction === 'up' ? -stepY : direction === 'down' ? stepY : 0
+        );
+      });
+    });
+    root.querySelectorAll('[data-map-reset]').forEach(function(button) {
+      button.addEventListener('click', resetMap);
+    });
+    svg.addEventListener('wheel', function(event) {
+      event.preventDefault();
+      zoomMap(event.deltaY < 0 ? 0.84 : 1.19, svgPoint(event));
+    }, { passive: false });
+    svg.addEventListener('pointerdown', function(event) {
+      dragStart = {
+        clientX: event.clientX,
+        clientY: event.clientY,
+        viewBox: Object.assign({}, viewBox)
+      };
+      svg.classList.add('is-dragging');
+      svg.setPointerCapture(event.pointerId);
+    });
+    svg.addEventListener('pointermove', function(event) {
+      if (!dragStart) return;
+      var rect = svg.getBoundingClientRect();
+      var dx = (event.clientX - dragStart.clientX) / rect.width * dragStart.viewBox.width;
+      var dy = (event.clientY - dragStart.clientY) / rect.height * dragStart.viewBox.height;
+      viewBox = clampViewBox({
+        x: dragStart.viewBox.x - dx,
+        y: dragStart.viewBox.y - dy,
+        width: dragStart.viewBox.width,
+        height: dragStart.viewBox.height
+      });
+      applyViewBox();
+      update();
+    });
+    svg.addEventListener('pointerup', function() {
+      dragStart = null;
+      svg.classList.remove('is-dragging');
+    });
+    svg.addEventListener('pointercancel', function() {
+      dragStart = null;
+      svg.classList.remove('is-dragging');
     });
     if (reset) {
       reset.addEventListener('click', function() {

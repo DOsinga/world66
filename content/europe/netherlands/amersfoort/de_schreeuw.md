@@ -5,7 +5,7 @@ latitude: 52.15713
 longitude: 5.38346
 snippet: "A bronze figure frozen in a silent scream — one of Amersfoort's most striking memorials to human suffering."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Positioned near the old city walls, this bronze sculpture shows a human figure with its head thrown back and mouth open in a wordless cry. The work is known simply as De Schreeuw — The Scream — and it makes no attempt to explain itself. The anguish is universal.

@@ -5,7 +5,7 @@ latitude: 52.15689
 longitude: 5.39035
 snippet: "Bronze statue of Saint George on horseback — the city's patron saint, standing guard near the church that bears his name."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Near the Sint Joriskerk, Amersfoort's great Gothic church, stands a bronze equestrian statue of Saint George in the moment after the kill — lance down, dragon presumably dispatched, horse alert beneath him. Sint Joris te paard (Saint George on Horseback) has been the city's patron for centuries, and his image appears everywhere in Amersfoort's civic symbolism, from the coat of arms downward.

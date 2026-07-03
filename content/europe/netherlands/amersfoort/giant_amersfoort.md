@@ -5,7 +5,7 @@ latitude: 52.14928
 longitude: 5.36453
 snippet: "A giant steel ant crouches at a railway underpass — the boldest piece on Amersfoort's outdoor art route."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 At one of the railway underpasses near Amersfoort station, a steel ant the size of a small car emerges from the shadows. GiAnt is not subtle. The sculpture is large enough that you see it before you register what it is, and then — once you do — the scale hits you properly. An insect rendered at a scale that reverses the usual power relationship: suddenly you are the small creature walking past something enormous.

@@ -5,7 +5,7 @@ latitude: 52.14070
 longitude: 5.39538
 snippet: "An 1886 railway sentry post — one of a series of small brick shelters built to guard the Utrecht–Amersfoort line during a period of military concern about railway sabotage"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Wachtpost 47 is one of a series of numbered brick sentry shelters built along the Dutch railway network in 1886, when the military became concerned about the vulnerability of railway infrastructure to sabotage or enemy action. Each post housed a guard who could raise the alarm and slow enemy access to a critical section of line.

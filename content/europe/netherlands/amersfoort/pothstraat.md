@@ -5,7 +5,7 @@ latitude: 52.15868
 longitude: 5.39562
 snippet: "Named after the De Poth family who endowed the hofje — a street whose name preserves six centuries of charitable patronage"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Pothstraat takes its name from the De Poth family, wealthy Amersfoort burghers who founded the hofje that still bears their name a few streets away. In medieval and early modern Dutch cities, the families who endowed charitable institutions — hospitals, almshouses, orphanages — were often immortalised in the street names around them, long after the family itself had died out.

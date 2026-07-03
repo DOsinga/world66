@@ -5,7 +5,7 @@ latitude: 52.14929
 longitude: 5.37827
 snippet: "A memorial marking the spot where Dutch resistance fighters were executed by German forces in 1944."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Appelweg memorial marks a place where the war became specific and irrevocable. In 1944, German occupation forces brought Dutch resistance fighters to this location and shot them. The memorial does not let this fact become abstract. It holds the ground.

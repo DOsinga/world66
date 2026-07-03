@@ -5,7 +5,7 @@ latitude: 52.14639
 longitude: 5.39789
 snippet: "A stone from Portugal — sitting at the far edge of the Keien collection, near the Vathorst district"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Portuguese stone sits some distance from the main Hof cluster, near the newer Vathorst district — which perhaps explains why it gets fewer visitors than the central Keien. Portugal and the Dutch Republic had a complex relationship in the 17th century: initially trading partners and occasionally allies against Spain, they became competitors in the spice trade and fought intermittent colonial conflicts across Asia, Africa, and Brazil.

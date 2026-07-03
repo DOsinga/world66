@@ -5,7 +5,7 @@ latitude: 52.15489
 longitude: 5.37085
 snippet: "A bronze railway worker near the station, honouring Amersfoort's long history as one of the Netherlands' busiest rail junctions."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Close to Amersfoort Centraal station, a bronze figure stands in the posture of a working man mid-task — De Wisselwachter, the Switchman. He represents the railway workers who operated the points and signals at one of the most strategically important rail junctions in the country. Amersfoort sits at the crossing of several major lines and has been a key node in the Dutch network since the nineteenth century.

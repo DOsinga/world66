@@ -5,7 +5,7 @@ latitude: 52.15726
 longitude: 5.38671
 snippet: "The Elbow Church — named for its L-shaped floor plan, one of the few Gothic churches in the Netherlands with a bent nave"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Elleboogkerk — Elbow Church — takes its name from its floor plan: the nave bends at an angle, like an elbow, which is highly unusual in Gothic church architecture where the long straight axis is almost universal. The bend was almost certainly forced by the street layout, with the church fitted into an awkward plot between existing buildings.

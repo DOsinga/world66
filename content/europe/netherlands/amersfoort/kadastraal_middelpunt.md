@@ -5,7 +5,7 @@ latitude: 52.15517
 longitude: 5.38720
 snippet: "A bronze disc in the Hof marks the exact geometric centre of the Netherlands — and the origin of the coordinate system that maps the entire country."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Set into the pavement of the Hof, Amersfoort's old town square, is a modest bronze disc that carries enormous practical significance: it marks the cadastral centroid of the Netherlands, the geometric heart of the country as calculated by the land registry service. Stand here and you are, mathematically speaking, in the middle of everything.

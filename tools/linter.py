@@ -390,10 +390,6 @@ def check_invalid_poi_score(pages: list[Page]) -> list[Issue]:
                 message=f"score={score!r} is not numeric",
             ))
             continue
-        tags = p.meta.get("tags") or []
-        is_curbside = "curbside" in tags
-        if is_curbside and score == 0:
-            continue  # curbside POIs use score=0 to stay off the main guide
         if not 1.0 <= score <= 10.0:
             issues.append(Issue(
                 path=p.path,

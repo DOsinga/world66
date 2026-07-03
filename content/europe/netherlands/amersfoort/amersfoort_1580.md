@@ -5,7 +5,7 @@ latitude: 52.15911
 longitude: 5.38562
 snippet: "A detailed relief showing how Amersfoort looked around 1580 — the city in its late-medieval peak, before centuries of change."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Mounted on a wall near the Koppelpoort area, this large relief reconstruction shows Amersfoort as it would have appeared around 1580 — a moment when the city had reached its late-medieval peak but before the upheavals of the Dutch Revolt, the subsequent economic shifts, and centuries of urban change had altered its character. The detail is remarkable: walls, towers, waterways, the major churches, the layout of streets that in some cases still exist beneath your feet.

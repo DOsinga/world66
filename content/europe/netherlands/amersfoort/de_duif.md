@@ -5,7 +5,7 @@ latitude: 52.16108
 longitude: 5.38108
 snippet: "A bronze dove sculpture in the Soesterkwartier neighbourhood, referencing peace and the area's history as a workers' district"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The dove is one of the oldest symbols in European art: peace, the Holy Spirit, the end of flood waters. This bronze piece in the Soesterkwartier gives it a neighbourhood context — this was historically a working-class Catholic quarter, and the religious imagery is part of its vernacular. The sculpture sits quietly in its surroundings without demanding attention.

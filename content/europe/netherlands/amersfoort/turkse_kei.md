@@ -5,7 +5,7 @@ latitude: 52.15253
 longitude: 5.38898
 snippet: "A stone from Turkey — reflecting Amersfoort's significant Turkish community, one of the largest in the Netherlands relative to city size"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Amersfoort has one of the largest Turkish communities in the Netherlands relative to its population size, dating from the guest worker migration of the 1960s and 1970s when Dutch industry recruited heavily from Turkey. The Turkish-Dutch community in Amersfoort is now multi-generational, with grandchildren of the original migrants living here as Dutch citizens.

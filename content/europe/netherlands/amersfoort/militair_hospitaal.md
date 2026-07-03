@@ -5,7 +5,7 @@ latitude: 52.15792
 longitude: 5.40095
 snippet: "The former military hospital on the eastern edge of the old city — a reminder that Amersfoort was a garrison town for three centuries"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Amersfoort was a garrison town for most of its modern history — the central position on the Utrecht-Zwolle axis and the proximity to the eastern border made it a logical place to station troops. A military hospital was a functional necessity: soldiers got sick and injured, and the cost of transporting them to civilian facilities was prohibitive.

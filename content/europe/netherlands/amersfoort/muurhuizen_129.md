@@ -5,7 +5,7 @@ latitude: 52.15737
 longitude: 5.39223
 snippet: "Generally considered the oldest surviving house in Amersfoort, dating from around 1450 — built into the medieval city wall"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Number 129 on the Muurhuizen circuit is generally considered the oldest continuously inhabited domestic building in Amersfoort, dating from around 1450. It is built directly against the 14th-century city wall — the wall is its back wall — which is why it survived when so many other medieval houses in the city were demolished or rebuilt. The wall is structurally embedded in every house on this street, and that structural dependency is what preserved them.

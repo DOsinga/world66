@@ -5,7 +5,7 @@ latitude: 52.16339
 longitude: 5.39300
 snippet: "A stone from the Czech Republic — donated after 1993 when Czechoslovakia split, making it a stone from a country slightly younger than the partnership"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Czechoslovakia split into the Czech Republic and Slovakia on 1 January 1993 in the "Velvet Divorce" — a peaceful separation that was the exception rather than the rule for Cold War-era state dissolutions. If the partner-city relationship was originally with Czechoslovakia, it had to be renegotiated or simply adopted by the Czech Republic after 1993.

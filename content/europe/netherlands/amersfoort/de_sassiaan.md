@@ -5,7 +5,7 @@ latitude: 52.16023
 longitude: 5.38284
 snippet: "A 2004 bronze statue referencing the Amersfoort sassafras tree — once the most famous tree in the Netherlands"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In the 17th century, Amersfoort was home to what was briefly the most famous tree in the Netherlands: a sassafras tree, an American import, that drew visitors from across the country and became such a point of local pride that the citizens were nicknamed "Sassenaars" (sassafras people). In 1688, a Dortmund merchant bribed the gardener to dig it up and take it back to Germany, causing a civic outrage.

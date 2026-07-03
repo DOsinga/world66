@@ -5,7 +5,7 @@ latitude: 52.15469
 longitude: 5.39079
 snippet: "Short Canal — one of the surviving stretches of Amersfoort's inner moat, now a street, with the original water still visible in sections"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Kortegracht means Short Canal — and until the 19th century, this was exactly that: a short section of the inner moat system that ran around the oldest part of Amersfoort. Most of the city's inner canals were filled in during the 19th and early 20th centuries as the city modernised and the moats became public health liabilities rather than defensive assets. A few stretches survived, and the Kortegracht is one of them.

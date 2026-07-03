@@ -5,7 +5,7 @@ latitude: 52.14955
 longitude: 5.37776
 snippet: "A 1912 country villa on the edge of the Berg neighbourhood — part of the belt of bourgeois garden houses built when Amersfoort's middle class moved south"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Klein Groenesteijn — Little Green Stone — is a 1912 villa in the Berg neighbourhood south of the old city, part of the wave of prosperous residential development that extended Amersfoort southward in the early 20th century. The name references the green-tinged stone or render of the original building, and the "klein" (little) suggests there was or was imagined to be a larger Groenesteijn nearby.

@@ -5,7 +5,7 @@ latitude: 52.15906
 longitude: 5.39376
 snippet: "A 16th-century almshouse courtyard — one of several hofjes in Amersfoort, hidden behind a street-level gate that most visitors walk straight past"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Hofjes are a distinctively Dutch urban form: enclosed courtyard complexes originally built as charitable housing for the elderly poor, widows, or specific guild members. De Poth is one of the oldest surviving hofjes in Amersfoort, with origins in the 16th century. The name comes from the De Poth family, who endowed the foundation.

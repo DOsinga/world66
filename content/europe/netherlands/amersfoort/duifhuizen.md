@@ -5,7 +5,7 @@ latitude: 52.15680
 longitude: 5.39199
 snippet: "Dove Houses — where pigeons were kept in the medieval city; only nobles and clergy had the legal right to maintain pigeon lofts"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 In medieval and early modern Europe, keeping pigeons was a privilege reserved for the nobility and the church. Pigeons were a significant food source — fresh meat year-round, at a time when winter livestock were slaughtered in autumn — and the right to maintain a pigeon loft (duiventoren or duifhuis) was a status marker that commoners were legally excluded from.

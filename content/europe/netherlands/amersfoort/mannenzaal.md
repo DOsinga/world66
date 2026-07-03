@@ -5,7 +5,7 @@ latitude: 52.15777
 longitude: 5.38578
 snippet: "A 16th-century chapel from 1530, originally part of a hospital complex — the men's ward that gave it its name"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Mannenzaal ("men's hall") was the male ward of a medieval hospital complex, built around 1530 as part of the Sint-Pieters and Bloklands Gasthuis — one of the city's charitable foundations for the sick and the poor. Medieval hospitals were religious institutions as much as medical ones: prayer and charity were considered as important as any physical treatment, and the chapels attached to these complexes were integral to the function.

@@ -5,7 +5,7 @@ latitude: 52.15801
 longitude: 5.38825
 snippet: "The Old Weavers' House — a surviving guild building from when weaving was one of Amersfoort's primary industries"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Amersfoort had a significant weaving industry from the medieval period through to the 18th century — wool cloth produced here was sold across the Netherlands and exported internationally. The weavers were one of the organised trade guilds in the city, with their own regulations, quality standards, and institutional presence.

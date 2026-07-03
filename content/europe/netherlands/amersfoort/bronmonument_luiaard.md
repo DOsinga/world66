@@ -5,7 +5,7 @@ latitude: 52.15268
 longitude: 5.38963
 snippet: "An artesian well monument marking an underground water source, with a bronze sloth as its unlikely centrepiece"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name translates roughly as "artesian well bronze — the lazy one" (luiaard means sloth), and the monument does exactly what it says: it marks the location of an artesian well beneath this neighbourhood, where groundwater rises to the surface under its own pressure without pumping. The sloth refers to the well itself — water that moves so slowly underground it seems to take no effort at all.

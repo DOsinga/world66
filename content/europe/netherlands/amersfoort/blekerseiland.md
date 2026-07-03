@@ -5,7 +5,7 @@ latitude: 52.15480
 longitude: 5.39502
 snippet: "Bleachers' Island — where cloth was laid out on the grass to be whitened by sunlight and dew, part of Amersfoort's medieval textile industry"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Bleaching was a crucial step in medieval textile production: after cloth was woven and fulled, it needed to be whitened, and before industrial chemicals existed, this meant laying the cloth out on grass and repeatedly wetting it so that sunlight, moisture, and the weak acids in dew would slowly bleach the fibres over days or weeks. You needed flat open ground, access to water, and enough space that the cloth could be spread without folding.

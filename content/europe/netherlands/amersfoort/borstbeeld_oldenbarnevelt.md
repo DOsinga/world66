@@ -5,7 +5,7 @@ latitude: 52.15126
 longitude: 5.36813
 snippet: "Bust of Amersfoort's most famous son — the statesman and advocate for religious tolerance who was judicially executed in 1619."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Johan van Oldenbarnevelt was born in Amersfoort in 1547 and went on to become the most powerful politician in the Dutch Republic, serving as Land's Advocate of Holland for over thirty years. He negotiated the Twelve Years' Truce with Spain, guided the Republic through its formative decades, and championed the cause of religious tolerance at a time when such a position carried serious risk.

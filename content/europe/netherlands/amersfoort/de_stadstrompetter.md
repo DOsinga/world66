@@ -5,7 +5,7 @@ latitude: 52.15701
 longitude: 5.39245
 snippet: "Bronze statue of a city trumpeter near the Hof, recalling the municipal musicians who summoned citizens and announced civic news for centuries."
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Before newspapers, before loudspeakers, before anything electronic, news in a Dutch city arrived through a human throat. The stadstrompetter — the city trumpeter — was a municipal official who stood in public squares, sounded his instrument to draw a crowd, and then proclaimed whatever the city fathers needed everyone to know: market days, curfews, decrees, deaths of notable citizens, the arrival of important visitors.

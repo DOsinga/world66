@@ -5,7 +5,7 @@ latitude: 52.14920
 longitude: 5.39744
 snippet: "A 17th-century country house in the Randenbroek park — now a care facility, but surrounded by one of Amersfoort's finest landscape gardens"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Huize Randenbroek dates from around 1650 and was originally a buitenplaats — a country house outside the city walls where wealthy Amersfoort merchants and regents could escape the density of urban life. The estate was developed with formal gardens in the Dutch tradition: geometric, water-managed, and designed to display both horticultural knowledge and financial resources.

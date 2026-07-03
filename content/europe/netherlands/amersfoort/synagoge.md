@@ -5,7 +5,7 @@ latitude: 52.15435
 longitude: 5.39069
 snippet: "Amersfoort's active synagogue on the Drieringensteeg — the Jewish community here dates back to the 17th century"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Netherlands Israelite Congregation (NIG) synagogue on the Drieringensteeg is Amersfoort's active Jewish house of worship, serving a community whose history in the city goes back to the 17th century. The building dates from the 19th century, when emancipation legislation allowed Dutch Jews to build openly in city centres rather than in back alleys and courtyards.

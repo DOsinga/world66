@@ -5,7 +5,7 @@ latitude: 52.15716
 longitude: 5.39293
 snippet: "One of Amersfoort's surviving medieval city gates, built around 1600 as the inner gate of a two-gate system facing the road to Kampen"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The Kamperbinnenpoort is the inner of the two surviving Kamper gates — the city maintained a double-gate system on the road to Kampen and the northeast, with an outer and inner gate creating a controlled killing ground between them if attackers breached the first line. The gate dates from around 1600, later than the Koppelpoort, and is a more utilitarian piece of military architecture.

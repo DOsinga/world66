@@ -5,7 +5,7 @@ latitude: 52.16012
 longitude: 5.39028
 snippet: "The little toll house — where travellers paid to enter the city along the northern road, before Dutch cities abolished gate tolls in the 19th century"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 Tolhuisje means "little toll house" — the building where a toll collector sat and extracted payment from people entering the city, merchants bringing goods to market, farmers bringing produce, and travellers on their way through. Every gate in a medieval Dutch city was a revenue opportunity, and the tolls were a significant part of municipal income.

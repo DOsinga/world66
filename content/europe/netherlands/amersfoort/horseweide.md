@@ -5,7 +5,7 @@ latitude: 52.16367
 longitude: 5.39216
 snippet: "A sculpture on the Hogeweg marking the site of the old horse meadow outside the city walls"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 The name means "horse meadow" — this was the grazing land outside the Kamperbinnenpoort where horses belonging to travellers and merchants were kept while their owners were in the city. The gates would close at curfew and no one wanted valuable animals locked inside the walls overnight taking up space.

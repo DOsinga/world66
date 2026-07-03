@@ -5,7 +5,7 @@ latitude: 52.15831
 longitude: 5.38444
 snippet: "A sculpture whose title — Finish me, complete me — invites the viewer to supply what the artwork withholds"
 tags: [curbside]
-score: 0
+score: 1
 ---
 
 "Maak me af, maak me compleet" — finish me, complete me — is the kind of title that works better the longer you sit with it. Is the figure speaking? Is the artist speaking about the work? Is the artwork speaking to the viewer? The title refuses to answer, and that refusal is the point.

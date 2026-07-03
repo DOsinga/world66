@@ -1,0 +1,24 @@
+{
+  "positive": [
+    "asia/china/tibet/everest_base_camp",
+    "africa/niger/teneredesert",
+    "africa/algeria/granderg",
+    "northamerica/canada/nunavut/auyuittuq",
+    "southamerica/chile/cape_horn",
+    "asia/afghanistan/jalalabad",
+    "asia/syria/damascus",
+    "africa/chad/lakechad",
+    "asia/china/yunnanprovince/tiger_leaping_gorge",
+    "africa/algeria/djanet"
+  ],
+  "negative": [
+    "asia/japan/tokyo",
+    "europe/france/paris",
+    "europe/italy/lombardia/milan",
+    "europe/switzerland/geneva",
+    "northamerica/unitedstates/wyoming/yellowstone",
+    "northamerica/unitedstates/florida/miamibeach",
+    "europe/netherlands/keukenhof",
+    "europe/france/cannes"
+  ]
+}

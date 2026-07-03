@@ -167,7 +167,33 @@ Current all-location model correlations:
 
 This is much better than the previous nature/adventure correlation of `0.765`, but the dimensions are still not independent enough for exact top-list ordering.
 
-### 6. Predict the old general score
+### 6. Calibrate dimensions with examples
+
+The neural model produces 12 hidden travel dimensions. The public four scores can be calibrated from examples instead of hand-picked slider weights.
+
+Put examples in:
+
+- `score_examples/culture.json`
+- `score_examples/nature.json`
+- `score_examples/leisure.json`
+- `score_examples/adventure.json`
+
+Each file has `positive` and `negative` path lists. Positive examples train toward `10`; negative examples train toward `0`. Paths are the location paths used in `static/widgets/score-composer.json`.
+
+Train the example regression and refresh the example-score widget:
+
+```bash
+python3 tools/train_score_examples.py \
+  --examples score_examples \
+  --input static/widgets/score-composer.json \
+  --model-out scoring/rubric_v4_full/example_score_regression.json \
+  --widget-out static/widgets/score-composer.json \
+  --alpha 25
+```
+
+The script fits one ridge regression per public dimension from the 12 hidden values. It fails if an example path is not present in the widget data. The current default uses `alpha=25` to keep sparse examples from flattening too many destinations to `10`.
+
+### 7. Predict the old general score
 
 To mimic the old `score` field, train a ridge regression over the four predicted dimensions plus the 12 hidden dimensions:
 

@@ -1,0 +1,215 @@
+{
+  "alpha": 25.0,
+  "dimensions": {
+    "adventure": {
+      "coef": [
+        4.866276699471848,
+        0.1524039268333958,
+        -0.004862844045310901,
+        0.4847615587508247,
+        0.6405379988266836,
+        -0.7760542359087387,
+        0.5511701988066459,
+        -0.8027397122113837,
+        0.043566397036546585,
+        -0.3301966522947092,
+        0.3167189642660737,
+        0.5601978339331595,
+        -0.3119550600548486
+      ],
+      "metrics": {
+        "mae": 1.5464,
+        "max": 9.3341,
+        "min": 0.3978,
+        "rmse": 1.9457
+      },
+      "negative": [
+        "asia/japan/tokyo",
+        "europe/france/paris",
+        "europe/italy/lombardia/milan",
+        "europe/switzerland/geneva",
+        "northamerica/unitedstates/wyoming/yellowstone",
+        "northamerica/unitedstates/florida/miamibeach",
+        "europe/netherlands/keukenhof",
+        "europe/france/cannes"
+      ],
+      "positive": [
+        "asia/china/tibet/everest_base_camp",
+        "africa/niger/teneredesert",
+        "africa/algeria/granderg",
+        "northamerica/canada/nunavut/auyuittuq",
+        "southamerica/chile/cape_horn",
+        "asia/afghanistan/jalalabad",
+        "asia/syria/damascus",
+        "africa/chad/lakechad",
+        "asia/china/yunnanprovince/tiger_leaping_gorge",
+        "africa/algeria/djanet"
+      ],
+      "prediction_range": {
+        "max": 9.3341,
+        "min": 0.3978
+      }
+    },
+    "culture": {
+      "coef": [
+        4.546165866441367,
+        -0.4700303345364264,
+        0.15848004716861802,
+        -0.15049296503275494,
+        -0.25535124955424865,
+        0.04105607338856739,
+        -0.44230673000063475,
+        0.20492107720404548,
+        1.0194867639293166,
+        0.6588287404836236,
+        0.5519137105603682,
+        0.303407811798028,
+        0.9051865681916171
+      ],
+      "metrics": {
+        "mae": 1.5167,
+        "max": 9.0297,
+        "min": 0.8938,
+        "rmse": 1.7471
+      },
+      "negative": [
+        "northamerica/unitedstates/wyoming/yellowstone",
+        "africa/tanzania/serengetinationalpark",
+        "northamerica/canada/nunavut/auyuittuq",
+        "africa/algeria/granderg",
+        "southamerica/chile/cape_horn",
+        "asia/china/yunnanprovince/tiger_leaping_gorge",
+        "australiaandpacific/frenchpolynesia/borabora",
+        "northamerica/unitedstates/florida/miamibeach"
+      ],
+      "positive": [
+        "asia/japan/tokyo",
+        "europe/france/paris",
+        "europe/italy/tuscany/florence",
+        "europe/spain/madrid",
+        "asia/turkey/istanbul",
+        "asia/india/uttarpradesh/varanasi",
+        "asia/cambodia/angkorwat",
+        "northamerica/mexico/teotihuacan",
+        "asia/nepal/bhaktapur",
+        "asia/indonesia/java/yogyakarta"
+      ],
+      "prediction_range": {
+        "max": 9.1719,
+        "min": 0.1041
+      }
+    },
+    "leisure": {
+      "coef": [
+        4.9292366484084935,
+        -0.23114950217699462,
+        -0.11960233566669756,
+        -0.43801136910752936,
+        -0.6657508835810563,
+        0.799697541199666,
+        -0.5558579853034145,
+        0.7503439553076959,
+        -0.10081221920949061,
+        0.24745639910589556,
+        -0.03751507466486901,
+        -0.7058996375162321,
+        0.2308420003750102
+      ],
+      "metrics": {
+        "mae": 1.1666,
+        "max": 9.5503,
+        "min": 0.6677,
+        "rmse": 1.3749
+      },
+      "negative": [
+        "asia/syria/damascus",
+        "asia/afghanistan/jalalabad",
+        "northamerica/canada/nunavut/auyuittuq",
+        "africa/niger/teneredesert",
+        "africa/algeria/granderg",
+        "southamerica/chile/cape_horn",
+        "africa/chad/lakechad",
+        "africa/algeria/adrar"
+      ],
+      "positive": [
+        "asia/japan/tokyo",
+        "europe/france/paris",
+        "asia/unitedarabemirates/dubai",
+        "northamerica/unitedstates/florida/miami",
+        "northamerica/unitedstates/nevada/lasvegas",
+        "europe/france/cannes",
+        "australiaandpacific/frenchpolynesia/borabora",
+        "asia/thailand/bangkok",
+        "europe/italy/lombardia/milan",
+        "europe/switzerland/geneva"
+      ],
+      "prediction_range": {
+        "max": 9.5503,
+        "min": 0.5685
+      }
+    },
+    "nature": {
+      "coef": [
+        5.270378436057564,
+        0.6830279340786185,
+        -0.17431899817756233,
+        0.4973297111541987,
+        0.06115033768477642,
+        -0.4149890068227108,
+        0.5071271242607588,
+        -0.05938292047459236,
+        -0.6663929787070334,
+        -0.5905256297849398,
+        -0.46479989561820295,
+        0.1652397149043973,
+        -0.6845814705650228
+      ],
+      "metrics": {
+        "mae": 0.9695,
+        "max": 9.5793,
+        "min": 0.7562,
+        "rmse": 1.0571
+      },
+      "negative": [
+        "europe/france/paris",
+        "asia/japan/tokyo",
+        "northamerica/unitedstates/newyorkstate/newyork",
+        "europe/italy/lombardia/milan",
+        "asia/unitedarabemirates/dubai",
+        "europe/netherlands/amsterdam",
+        "europe/spain/madrid",
+        "asia/thailand/bangkok"
+      ],
+      "positive": [
+        "northamerica/unitedstates/wyoming/yellowstone",
+        "africa/tanzania/serengetinationalpark",
+        "africa/uganda/bwindi",
+        "africa/tanzania/kilimanjaro",
+        "northamerica/unitedstates/alaska/denalipark",
+        "southamerica/argentina/patagonia/torresdelpaine",
+        "asia/indonesia/sumatra/gununglesuer",
+        "southamerica/peru/tambopata",
+        "asia/china/yunnanprovince/tiger_leaping_gorge",
+        "northamerica/canada/nunavut/auyuittuq"
+      ],
+      "prediction_range": {
+        "max": 10.0,
+        "min": 0.7562
+      }
+    }
+  },
+  "features": [
+    "hidden_0",
+    "hidden_1",
+    "hidden_2",
+    "hidden_3",
+    "hidden_4",
+    "hidden_5",
+    "hidden_6",
+    "hidden_7",
+    "hidden_8",
+    "hidden_9",
+    "hidden_10",
+    "hidden_11"
+  ]
+}

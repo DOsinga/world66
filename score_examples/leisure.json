@@ -1,0 +1,24 @@
+{
+  "positive": [
+    "asia/japan/tokyo",
+    "europe/france/paris",
+    "asia/unitedarabemirates/dubai",
+    "northamerica/unitedstates/florida/miami",
+    "northamerica/unitedstates/nevada/lasvegas",
+    "europe/france/cannes",
+    "australiaandpacific/frenchpolynesia/borabora",
+    "asia/thailand/bangkok",
+    "europe/italy/lombardia/milan",
+    "europe/switzerland/geneva"
+  ],
+  "negative": [
+    "asia/syria/damascus",
+    "asia/afghanistan/jalalabad",
+    "northamerica/canada/nunavut/auyuittuq",
+    "africa/niger/teneredesert",
+    "africa/algeria/granderg",
+    "southamerica/chile/cape_horn",
+    "africa/chad/lakechad",
+    "africa/algeria/adrar"
+  ]
+}

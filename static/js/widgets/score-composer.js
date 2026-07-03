@@ -54,6 +54,10 @@
       return JSON.parse(JSON.stringify(value));
     }
 
+    function clampScore(value) {
+      return Math.max(0, Math.min(10, value));
+    }
+
     function sigmoid(value) {
       if (value < -40) return 0;
       if (value > 40) return 1;
@@ -218,6 +222,7 @@
       for (var i = 0; i < config.weights.length; i += 1) {
         value += item.hidden[i] * config.weights[i];
       }
+      if (config.activation === 'linear_clamped') return clampScore(value);
       return sigmoid(value) * 10;
     }
 
@@ -357,8 +362,8 @@
       var ranked = visibleRankedLocations();
       var top = ranked.slice(0, 50);
       var dim = selectedDim();
-      if (summary) summary.textContent = 'Bias ' + state[dim].bias.toFixed(2) + ' · 12 weights';
-      if (listSummary) listSummary.textContent = labels[dim] + ' from hidden-12 · top ' + top.length + ' of ' + ranked.length + ' visible destinations';
+      if (summary) summary.textContent = 'Example regression · bias ' + state[dim].bias.toFixed(2) + ' · 12 weights';
+      if (listSummary) listSummary.textContent = labels[dim] + ' from examples · top ' + top.length + ' of ' + ranked.length + ' visible destinations';
       renderList(top);
       renderMarkers(ranked);
       exportState();

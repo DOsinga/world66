@@ -7,6 +7,10 @@ snippet: UNESCO landscape of rolling hills, lone cypresses, and medieval hill to
   in southern Tuscany.
 title: Val d'Orcia
 type: location
+image: val_dorcia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:I_cipressi_della_Val_D%27Orcia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Carlo cattaneo fotografie
 ---
 
 The Val d'Orcia is a stretch of southern Tuscany between Siena and Monte Amiata where the landscape looks exactly like the paintings it inspired: gentle hills folding into one another, a lone cypress on a ridge, a winding white road through vineyards, golden light at dusk. The valley takes its name from the Orcia river, which drains south toward the Maremma, but the name has come to mean the whole quietly dramatic scenery that was declared a UNESCO World Heritage landscape in 2004. What the UNESCO designation recognises is not just the scenery but its making: this is a humanised landscape, shaped by centuries of farming and fortification, that has barely changed since Sienese painters used it as background in the 14th century.

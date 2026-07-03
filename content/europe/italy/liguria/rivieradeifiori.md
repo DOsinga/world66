@@ -7,6 +7,10 @@ snippet: Western Ligurian coast from the French border to Andora, centred on San
   and the flower-growing hinterland.
 title: Riviera dei Fiori
 type: location
+image: rivieradeifiori.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alassio_from_Capo_Mele.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Incola
 ---
 
 The Riviera dei Fiori — the Riviera of Flowers — is the westernmost stretch of the Italian Riviera, running from [Ventimiglia](/europe/italy/liguria/ventimiglia) on the French border to roughly Andora in the east. The name comes from the carnations, roses, and mimosa grown on the terraced hillsides above the coast, which have supplied the flower markets of northern Europe since the nineteenth century. Drive inland from any of the coastal towns in spring and the terraces are bright with colour.

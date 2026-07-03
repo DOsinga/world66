@@ -9,6 +9,10 @@ tags:
 - lake_como
 title: Bellagio
 type: location
+image: bellagio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bellagio_(Como).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Luca Trombetta
 ---
 
 Bellagio sits on the tip of the promontory that divides Lake Como into its two southern arms, and no other position on the lake matches it for views: from the waterfront promenade you can see both branches of the lake, the Alps rising steeply on all sides, and the opposite shores. The town has been drawing wealthy visitors since Roman times — Pliny the Younger had a villa here — and the combination of elegance, setting, and scale (it is still small enough to walk in an hour) keeps it the most visited town on the lake.

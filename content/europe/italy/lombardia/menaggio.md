@@ -9,6 +9,10 @@ tags:
 - lake_como
 title: Menaggio
 type: location
+image: menaggio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Menaggio_Lago_di_Como.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Aconcagua
 ---
 
 Menaggio is a proper small town on the western shore of Lake Como — not a village, not a resort in the package-tourist sense, but a place where the supermarket is open on Sundays and people actually live. Its lakefront piazza, backed by a grid of streets with bars and restaurants, gives it a different feel from Bellagio's concentrated tourist elegance or Varenna's stepped alleyways.

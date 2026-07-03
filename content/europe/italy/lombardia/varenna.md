@@ -1,7 +1,7 @@
 ---
 latitude: 46.0085
 loc_type: city
-longitude: 9.2840
+longitude: 9.284
 score: 9.1
 snippet: Steep eastern-shore village with a Roman villa garden, ferry connections,
   and quieter streets than Bellagio.
@@ -9,6 +9,10 @@ tags:
 - lake_como
 title: Varenna
 type: location
+image: varenna.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Varenna_2016-06-25_5557.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Manfred Werner (Tsui)
 ---
 
 Varenna on the eastern shore of Lake Como is often described as the more peaceful alternative to Bellagio — smaller, less photographed, and reached by fewer tourists, though the direct train from Milan (50 minutes to Varenna-Esino station) makes it easily accessible. The village climbs steeply from a small ferry landing, with coloured houses, narrow alleys, and a waterfront walkway partly carved into the rock face.

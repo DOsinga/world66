@@ -14,6 +14,8 @@ urlpatterns = [
     path("widgets/photo-map", views.widget_photo_map, name="widget_photo_map"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("review", views.review, name="review"),
+    path("explore/<path:path>", views.map_explore, name="map_explore"),
+    path("api/explore/<path:path>", views.api_explore, name="api_explore"),
     path("passport/", include("passport_app.urls")),
     path("regions", RedirectView.as_view(url="/regions/", permanent=False)),
     path("regions/", include("regions_app.urls")),

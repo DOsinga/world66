@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} — Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="/static/css/world66.css">
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+  </style>
+</head>
+<body class="explore-page">
+
+  <div id="explore-map"></div>
+
+  <!-- Top bar -->
+  <div id="explore-topbar">
+    <button id="explore-zoom-out" class="explore-btn" style="display:none" aria-label="Zoom out">
+      &#8592; <span id="explore-zoom-out-label">{{ page.title }}</span>
+    </button>
+    <span id="explore-topbar-title">{{ page.title }}</span>
+    <a href="{{ page.get_absolute_url }}" id="explore-close" class="explore-btn" title="Close map">&#x2715;</a>
+  </div>
+
+  <!-- POI drawer (slides up from bottom) -->
+  <div id="explore-drawer" aria-hidden="true">
+    <button id="explore-drawer-close" class="explore-btn" aria-label="Close">&#x2715;</button>
+    <div id="explore-drawer-inner">
+      <div id="explore-drawer-img-wrap">
+        <img id="explore-drawer-img" src="" alt="">
+      </div>
+      <div id="explore-drawer-body">
+        <div id="explore-drawer-tags"></div>
+        <h2 id="explore-drawer-title"></h2>
+        <p id="explore-drawer-snippet"></p>
+        <a id="explore-drawer-link" href="#" class="explore-drawer-read-more">Full page &#8594;</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="/static/geo/mappings.js"></script>
+  <script src="/static/js/world66map.js"></script>
+  <script src="/static/js/map-explore.js"></script>
+  <script>
+  initExploreMap({
+    elementId: 'explore-map',
+    basePath: '{{ page.path|escapejs }}',
+    baseTitle: '{{ page.title|escapejs }}',
+    parentTitle: '{% if parent %}{{ parent.title|escapejs }}{% endif %}',
+    parentUrl: '{% if parent %}{{ parent.get_absolute_url|escapejs }}{% endif %}',
+    mode: '{{ mode }}',
+    markers: {{ markers_json }},
+  });
+  </script>
+</body>
+</html>

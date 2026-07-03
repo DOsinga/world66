@@ -609,6 +609,96 @@ def tag_index(request, tag):
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
 
 
+def _marker_from_page_rich(page, highlight=False):
+    """Extended marker that includes path, tags, and image_url for the explore map."""
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is None or lng is None:
+        return None
+    m = {
+        "lat": lat, "lng": lng, "name": page.title,
+        "url": page.get_absolute_url(), "path": page.path,
+        "highlight": highlight,
+        "score": float(page.meta.get("score", 0) or 0),
+        "snippet": page.meta.get("snippet", ""),
+        "tags": list(page.meta.get("tags") or []),
+    }
+    img = _image_path(page)
+    if img:
+        m["image_url"] = f"/content-image/{img}"
+    return m
+
+
+def _explore_markers(page):
+    """Return (mode, markers) for the explore view.
+
+    mode='locations' when the page has child city/location pages to browse.
+    mode='city' when we're at city level and should show sightseeing POIs.
+    """
+    sections, locations, pois = page.children()
+    if locations:
+        markers = [m for m in (_marker_from_page_rich(l) for l in locations) if m]
+        markers.sort(key=lambda m: m["score"], reverse=True)
+        return "locations", markers
+
+    # City level: collect sightseeing POIs
+    seen = set()
+    markers = []
+
+    def _add(m, highlight=True):
+        if not m:
+            return
+        k = (m["lat"], m["lng"])
+        if k not in seen:
+            seen.add(k)
+            m["highlight"] = highlight
+            markers.append(m)
+
+    for poi in pois:
+        if set(poi.meta.get("tags") or []) & _SIGHT_SLUGS:
+            _add(_marker_from_page_rich(poi))
+    for nav in sections:
+        if nav.slug not in _SIGHT_SLUGS:
+            continue
+        for poi in nav.tagged_pois():
+            _add(_marker_from_page_rich(poi))
+
+    markers.sort(key=lambda m: m["score"], reverse=True)
+    return "city", markers
+
+
+def map_explore(request, path):
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    mode, markers = _explore_markers(page)
+    parent = load_page(page.path.rsplit("/", 1)[0]) if "/" in page.path else None
+    return render(request, "guide/map_explore.html", {
+        "page": page,
+        "parent": parent,
+        "mode": mode,
+        "markers_json": mark_safe(json.dumps(markers)),
+    })
+
+
+def api_explore(request, path):
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    mode, markers = _explore_markers(page)
+    data = {
+        "title": page.title,
+        "path": page.path,
+        "url": page.get_absolute_url(),
+        "snippet": page.meta.get("snippet", ""),
+        "mode": mode,
+        "markers": markers,
+    }
+    return JsonResponse(data)
+
+
 def _marker_from_page(page, highlight=False):
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))

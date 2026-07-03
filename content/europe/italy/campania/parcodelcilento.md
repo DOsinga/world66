@@ -9,6 +9,10 @@ snippet: Southern Campania national park of limestone mountains, Greek ruins, ch
   forests, and cave-lined coast.
 title: Parco del Cilento
 type: location
+image: parcodelcilento.jpg
+image_source: https://commons.wikimedia.org/wiki/File:PUNTA_DEL_TELEGRAFO_-_ASCEA_-_Parco_Nazionale_del_Cilento_Alburni_e_Vallo_di_Diano.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Alexelea
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

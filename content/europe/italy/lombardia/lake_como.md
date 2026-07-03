@@ -7,6 +7,10 @@ snippet: Deep Alpine lake lined with grand villas, steep gardens, and elegant to
   between Milan and the Swiss border.
 title: Lake Como
 type: location
+image: lake_como.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Como_Lake_from_Bellagio.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Davide Taviani
 ---
 
 Lake Como is Italy's third-largest lake and its deepest — 410 metres at the bottom — set in a ring of steep Alpine foothills that keep the climate mild enough for palm trees and citrus on the shores while snow sits on the peaks above. The lake has attracted the wealthy and the famous since Roman times: Pliny the Younger had villas here, and the tradition of grand lakeside residences has continued without interruption. The concentration of 18th- and 19th-century villas with terraced gardens cascading down to the water is unlike anything else in Italy.

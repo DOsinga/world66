@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} — Map</title>
+  <title>{{ page_title }} — Map</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="/static/css/world66.css">
   <style>
@@ -17,10 +17,10 @@
   <!-- Top bar -->
   <div id="explore-topbar">
     <button id="explore-zoom-out" class="explore-btn" style="display:none" aria-label="Zoom out">
-      &#8592; <span id="explore-zoom-out-label">{{ page.title }}</span>
+      &#8592; <span id="explore-zoom-out-label">{{ page_title }}</span>
     </button>
-    <span id="explore-topbar-title">{{ page.title }}</span>
-    <a href="{{ page.get_absolute_url }}" id="explore-close" class="explore-btn" title="Close map">&#x2715;</a>
+    <span id="explore-topbar-title">{{ page_title }}</span>
+    {% if page %}<a href="{{ page.get_absolute_url }}" id="explore-close" class="explore-btn" title="Close map">&#x2715;</a>{% endif %}
   </div>
 
   <!-- Side drawer -->
@@ -47,10 +47,10 @@
   initExploreMap({
     elementId: 'explore-map',
     basePath: '{{ page.path|escapejs }}',
-    baseTitle: '{{ page.title|escapejs }}',
-    parentTitle: '{% if parent %}{{ parent.title|escapejs }}{% endif %}',
-    parentUrl: '{% if parent %}{{ parent.get_absolute_url|escapejs }}{% endif %}',
-    parentPath: '{% if parent %}{{ parent.path|escapejs }}{% endif %}',
+    baseTitle: '{{ page_title|escapejs }}',
+    parentTitle: '{{ parent_title|escapejs }}',
+    parentUrl: '{{ parent_url|escapejs }}',
+    parentPath: {{ parent_path_json }},
     mode: '{{ mode }}',
     markers: {{ markers_json }},
   });

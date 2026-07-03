@@ -4,7 +4,8 @@ function initExploreMap(opts) {
     var elementId    = opts.elementId;
     var basePath     = opts.basePath;
     var baseTitle    = opts.baseTitle;
-    var parentPath   = opts.parentPath   || '';   // for back-button navigation
+    // parentPath: null = no parent; '' = world root (/explore); 'a/b' = explore path
+    var parentPath   = opts.parentPath !== undefined ? opts.parentPath : null;
     var parentTitle  = opts.parentTitle  || '';
     var mode         = opts.mode;
     var initMarkers  = opts.markers || [];
@@ -257,7 +258,7 @@ function initExploreMap(opts) {
             state.markers = state.parentMarkers;
             _setTopTitle(state.parentTitle || baseTitle);
             // Show back button again if there's still a page-level parent
-            if (parentPath) {
+            if (parentPath !== null) {
                 _showZoomOut(parentTitle || state.parentTitle || baseTitle);
             } else {
                 _hideZoomOut();
@@ -272,16 +273,18 @@ function initExploreMap(opts) {
             }
             state.parentBounds = null;
             requestAnimationFrame(function() { requestAnimationFrame(function() { map.invalidateSize(); }); });
-        } else if (parentPath) {
+        } else if (parentPath !== null) {
             // Directly-loaded page — navigate to parent explore page
-            window.location.href = '/explore/' + parentPath;
+            // parentPath '' = world root, otherwise a content path
+            window.location.href = parentPath === '' ? '/explore' : '/explore/' + parentPath;
         }
     }
 
     if (zoomOutBtn) zoomOutBtn.addEventListener('click', _exitCity);
 
     // Show back button on load if the page has a page-level parent
-    if (parentPath && parentTitle) {
+    // (parentPath null = no parent; parentPath '' = world root; parentPath 'a/b' = explore path)
+    if (parentPath !== null && parentTitle) {
         _showZoomOut(parentTitle);
     }
 
@@ -297,16 +300,7 @@ function initExploreMap(opts) {
     // ---- Marker click ----
     function _onMarkerClick(m) {
         if (state.mode === 'loading') return;
-        if (state.mode === 'locations') {
-            // Zoom to the city so it's prominent, then open the drawer
-            map.invalidateSize();
-            map.flyTo([m.lat, m.lng], Math.max(map.getZoom(), 9), {
-                animate: true, duration: 0.6,
-            });
-            _openDrawer(m);
-        } else if (state.mode === 'city') {
-            _openDrawer(m);
-        }
+        _openDrawer(m);
     }
 
     // ---- Initial render ----

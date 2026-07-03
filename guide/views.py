@@ -692,16 +692,87 @@ def api_page_content(request, path):
     return JsonResponse(data)
 
 
+_CONTINENT_CENTROIDS = {
+    "europe":             (54.0,   15.0),
+    "asia":               (35.0,   90.0),
+    "africa":             ( 0.0,   20.0),
+    "northamerica":       (45.0, -100.0),
+    "southamerica":       (-15.0,  -60.0),
+    "australiaandpacific":(-25.0,  135.0),
+}
+
+
+def _world_markers():
+    """Return markers for all continents (world-level explore)."""
+    markers = []
+    for slug, (lat, lng) in _CONTINENT_CENTROIDS.items():
+        page = load_page(slug)
+        if not page:
+            continue
+        m = {
+            "lat": lat, "lng": lng,
+            "name": page.title,
+            "url": page.get_absolute_url(),
+            "path": page.path,
+            "highlight": True,
+            "score": float(page.meta.get("score", 0) or 0),
+            "snippet": page.meta.get("snippet", ""),
+            "tags": list(page.meta.get("tags") or []),
+        }
+        img = _image_path(page)
+        if img:
+            m["image_url"] = f"/content-image/{img}"
+        markers.append(m)
+    return markers
+
+
+def map_explore_world(request):
+    markers = _world_markers()
+    return render(request, "guide/map_explore.html", {
+        "page": None,
+        "page_title": "World",
+        "parent_title": "",
+        "parent_url": "",
+        "parent_path_json": mark_safe("null"),
+        "mode": "locations",
+        "markers_json": mark_safe(json.dumps(markers)),
+    })
+
+
+def api_explore_world(request):
+    markers = _world_markers()
+    return JsonResponse({
+        "title": "World",
+        "path": "",
+        "url": "/explore",
+        "snippet": "",
+        "mode": "locations",
+        "markers": markers,
+    })
+
+
 def map_explore(request, path):
     path = path.strip("/")
     page = load_page(path)
     if not page:
         raise Http404
     mode, markers = _explore_markers(page)
-    parent = load_page(page.path.rsplit("/", 1)[0]) if "/" in page.path else None
+    # Build parent info: top-level pages (continents) link up to world explore
+    if "/" in page.path:
+        parent = load_page(page.path.rsplit("/", 1)[0])
+        parent_title = parent.title if parent else ""
+        parent_url = parent.get_absolute_url() if parent else ""
+        parent_path = parent.path if parent else ""
+    else:
+        parent_title = "World"
+        parent_url = "/explore"
+        parent_path = ""   # empty string = world root
     return render(request, "guide/map_explore.html", {
         "page": page,
-        "parent": parent,
+        "page_title": page.title,
+        "parent_title": parent_title,
+        "parent_url": parent_url,
+        "parent_path_json": mark_safe(json.dumps(parent_path)),
         "mode": mode,
         "markers_json": mark_safe(json.dumps(markers)),
     })

@@ -1,25 +1,23 @@
-/* Map Explore — full-screen drill-down map experience */
+/* Map Explore — full-screen drill-down map with side drawer */
 
 function initExploreMap(opts) {
-    var elementId  = opts.elementId;
-    var basePath   = opts.basePath;
-    var baseTitle  = opts.baseTitle;
-    var parentTitle = opts.parentTitle;
-    var parentUrl  = opts.parentUrl;
-    var mode       = opts.mode;        // 'locations' | 'city'
+    var elementId   = opts.elementId;
+    var basePath    = opts.basePath;
+    var baseTitle   = opts.baseTitle;
+    var mode        = opts.mode;
     var initMarkers = opts.markers || [];
 
     // ---- State ----
     var state = {
-        mode: mode,
+        mode: mode,            // 'locations' | 'city' | 'loading'
         markers: initMarkers,
-        parentMarkers: null,   // saved when drilling into a city
-        parentBounds: null,
-        parentTitle: parentTitle || null,
-        parentUrl: parentUrl || null,
+        parentMarkers: null,   // saved on drill-in
+        parentBounds:  null,
+        parentTitle:   null,   // label for zoom-out button
+        pendingDrillPath: null, // path to drill into when user clicks "Explore →"
     };
 
-    // ---- Map init ----
+    // ---- Map ----
     var map = L.map(elementId, {
         zoomControl: true,
         attributionControl: false,
@@ -49,153 +47,157 @@ function initExploreMap(opts) {
         var above = pt.y > h + 20;
         var top = above ? pt.y - h - 10 : pt.y + 14;
         var left = Math.max(6, Math.min(Math.round(pt.x - w / 2), sz.x - w - 6));
-        _tip.style.top = top + 'px';
-        _tip.style.left = left + 'px';
+        _tip.style.top = top + 'px'; _tip.style.left = left + 'px';
     }
-
     function _showTip(m) {
-        if (m.snippet) {
-            _tip.className = 'map-name-tip map-name-tip--rich';
-            _tip.innerHTML = '<span class="map-tip-name">' + (m.name || '') + '</span>'
-                + '<div class="map-tip-snippet">' + m.snippet + '</div>';
-        } else {
-            _tip.className = 'map-name-tip';
-            _tip.innerHTML = m.name || '';
-        }
-        _tip.style.display = 'block';
-        _tipMarker = m;
-        _positionTip();
+        _tip.className = m.snippet ? 'map-name-tip map-name-tip--rich' : 'map-name-tip';
+        _tip.innerHTML = m.snippet
+            ? '<span class="map-tip-name">' + (m.name||'') + '</span><div class="map-tip-snippet">' + m.snippet + '</div>'
+            : (m.name || '');
+        _tip.style.display = 'block'; _tipMarker = m; _positionTip();
     }
-
     function _hideTip() { _tip.style.display = 'none'; _tipMarker = null; }
     map.on('movestart zoomstart', _hideTip);
 
-    // ---- Deconfliction (same as world66map.js) ----
+    // ---- Deconfliction ----
     function _deconflict(pool, maxCount) {
-        var PAD = 4, PX_PER_CHAR = 7, LINE_H = 18;
-        var placed = [], result = [];
-        for (var i = 0; i < pool.length && result.length < maxCount; i++) {
-            var m = pool[i];
-            var pt = map.latLngToContainerPoint(L.latLng(m.lat, m.lng));
-            var w = (m.name || '').length * PX_PER_CHAR + 8;
-            var box = { x1: pt.x - w/2 - PAD, y1: pt.y - PAD,
-                        x2: pt.x + w/2 + PAD, y2: pt.y + LINE_H + PAD };
-            if (!placed.some(function(p) {
-                return box.x2 > p.x1 && box.x1 < p.x2 && box.y2 > p.y1 && box.y1 < p.y2;
-            })) { placed.push(box); result.push(m); }
+        var PAD=2, PPC=7, LH=18, placed=[], result=[];
+        for (var i=0; i<pool.length && result.length<maxCount; i++) {
+            var m=pool[i], pt=map.latLngToContainerPoint(L.latLng(m.lat,m.lng));
+            var w=(m.name||'').length*PPC+8;
+            var box={x1:pt.x-w/2-PAD,y1:pt.y-PAD,x2:pt.x+w/2+PAD,y2:pt.y+LH+PAD};
+            if (!placed.some(function(p){return box.x2>p.x1&&box.x1<p.x2&&box.y2>p.y1&&box.y1<p.y2;}))
+                { placed.push(box); result.push(m); }
         }
         return result;
     }
 
-    // ---- Render markers ----
     function _renderMarkers(pool) {
-        var bounds = map.getBounds();
-        var inView = pool.filter(function(m) { return bounds.contains([m.lat, m.lng]); });
-        inView.sort(function(a, b) {
-            return ((b.highlight ? 1 : 0) - (a.highlight ? 1 : 0)) || ((b.score || 0) - (a.score || 0));
+        var bounds=map.getBounds();
+        var inView=pool.filter(function(m){return bounds.contains([m.lat,m.lng]);});
+        inView.sort(function(a,b){
+            return ((b.highlight?1:0)-(a.highlight?1:0))||((b.score||0)-(a.score||0));
         });
-        _hideTip();
-        group.clearLayers();
-        var named = inView.filter(function(m) { return !!m.name; });
-        var labelled = _deconflict(named, 12);
-        var labelSet = {};
-        labelled.forEach(function(m) { labelSet[m.lat + ',' + m.lng] = true; });
+        _hideTip(); group.clearLayers();
+        var named=inView.filter(function(m){return !!m.name;});
+        var labelled=_deconflict(named,30);
+        var lblSet={};
+        labelled.forEach(function(m){lblSet[m.lat+','+m.lng]=true;});
 
         inView.forEach(function(m) {
-            if (labelSet[m.lat + ',' + m.lng]) return;
-            var dot = L.marker([m.lat, m.lng], {
-                icon: L.divIcon({
-                    className: 'map-label',
-                    html: '<div class="map-dot-hit"><i class="map-dot' + (m.highlight ? ' map-dot--highlight' : ' map-dot--grey') + '"></i></div>',
-                    iconSize: [0,0], iconAnchor: [0,0],
-                }),
-                zIndexOffset: -500,
-            });
-            dot.on('mouseover', function() { _showTip(m); });
-            dot.on('mouseout', _hideTip);
-            dot.on('click', function() { _onMarkerClick(m); });
+            if (lblSet[m.lat+','+m.lng]) return;
+            var dot=L.marker([m.lat,m.lng],{
+                icon:L.divIcon({className:'map-label',
+                    html:'<div class="map-dot-hit"><i class="map-dot'+(m.highlight?' map-dot--highlight':' map-dot--grey')+'"></i></div>',
+                    iconSize:[0,0],iconAnchor:[0,0]}),zIndexOffset:-500});
+            dot.on('mouseover',function(){_showTip(m);}).on('mouseout',_hideTip).on('click',function(){_onMarkerClick(m);});
             dot.addTo(group);
         });
-
         labelled.forEach(function(m) {
-            var cls = m.highlight ? ' map-label--highlight' : '';
-            var lbl = L.marker([m.lat, m.lng], {
-                icon: L.divIcon({
-                    className: 'map-label' + cls,
-                    html: '<i class="map-dot' + (m.highlight ? ' map-dot--highlight' : '') + '"></i><span>' + (m.name || '') + '</span>',
-                    iconSize: [0,0], iconAnchor: [0,0],
-                }),
-                zIndexOffset: 1000,
-            });
-            if (m.snippet) {
-                lbl.on('mouseover', function() { _showTip(m); });
-                lbl.on('mouseout', _hideTip);
-            }
-            lbl.on('click', function() { _onMarkerClick(m); });
+            var cls=m.highlight?' map-label--highlight':'';
+            var lbl=L.marker([m.lat,m.lng],{
+                icon:L.divIcon({className:'map-label'+cls,
+                    html:'<i class="map-dot'+(m.highlight?' map-dot--highlight':'')+'"></i><span>'+(m.name||'')+'</span>',
+                    iconSize:[0,0],iconAnchor:[0,0]}),zIndexOffset:1000});
+            if (m.snippet) lbl.on('mouseover',function(){_showTip(m);}).on('mouseout',_hideTip);
+            lbl.on('click',function(){_onMarkerClick(m);});
             lbl.addTo(group);
         });
     }
+    map.on('zoomend moveend', function(){_renderMarkers(state.markers);});
 
-    map.on('zoomend moveend', function() { _renderMarkers(state.markers); });
-
-    // ---- Fit bounds helper ----
     function _trimmedBounds(mkrs) {
-        if (mkrs.length < 6) return null;
-        var lats = mkrs.map(function(m) { return m.lat; }).sort(function(a,b){return a-b;});
-        var lngs = mkrs.map(function(m) { return m.lng; }).sort(function(a,b){return a-b;});
-        var lo = Math.floor(mkrs.length * 0.1), hi = Math.ceil(mkrs.length * 0.9) - 1;
-        return L.latLngBounds([lats[lo], lngs[lo]], [lats[hi], lngs[hi]]);
+        if (mkrs.length<6) return null;
+        var lats=mkrs.map(function(m){return m.lat;}).sort(function(a,b){return a-b;});
+        var lngs=mkrs.map(function(m){return m.lng;}).sort(function(a,b){return a-b;});
+        var lo=Math.floor(mkrs.length*0.1),hi=Math.ceil(mkrs.length*0.9)-1;
+        return L.latLngBounds([lats[lo],lngs[lo]],[lats[hi],lngs[hi]]);
     }
-
-    function _fitMarkers(mkrs) {
-        if (mkrs.length === 0) return;
-        if (mkrs.length === 1) { map.setView([mkrs[0].lat, mkrs[0].lng], 13); return; }
-        var b = (_trimmedBounds(mkrs) || group.getBounds()).pad(0.15);
-        if (b.isValid()) map.fitBounds(b, { animate: true, duration: 0.5 });
+    function _boundsFromMarkers(mkrs) {
+        var g=L.featureGroup();
+        mkrs.forEach(function(m){L.marker([m.lat,m.lng]).addTo(g);});
+        return g.getBounds();
     }
-
-    function _setMarkers(mkrs) {
-        state.markers = mkrs;
-        _renderMarkers(mkrs);
+    function _fitMarkers(mkrs, animate) {
+        if (!mkrs.length) return;
+        if (mkrs.length===1) { map.setView([mkrs[0].lat,mkrs[0].lng],13,{animate:!!animate}); return; }
+        var b=(_trimmedBounds(mkrs)||_boundsFromMarkers(mkrs)).pad(0.15);
+        if (b.isValid()) map.fitBounds(b,{animate:!!animate,duration:0.5});
     }
 
     // ---- Drawer ----
-    var drawer     = document.getElementById('explore-drawer');
-    var drawerImg  = document.getElementById('explore-drawer-img');
-    var drawerImgW = document.getElementById('explore-drawer-img-wrap');
+    var drawer      = document.getElementById('explore-drawer');
+    var drawerImgW  = document.getElementById('explore-drawer-img-wrap');
+    var drawerImg   = document.getElementById('explore-drawer-img');
     var drawerTitle = document.getElementById('explore-drawer-title');
-    var drawerSnip  = document.getElementById('explore-drawer-snippet');
-    var drawerTags  = document.getElementById('explore-drawer-tags');
+    var drawerCont  = document.getElementById('explore-drawer-content');
     var drawerLink  = document.getElementById('explore-drawer-link');
+    var drawerDrill = document.getElementById('explore-drawer-drill');
     var drawerClose = document.getElementById('explore-drawer-close');
+    var body        = document.body;
 
     function _openDrawer(m) {
+        // Show immediately with what we already know
         drawerTitle.textContent = m.name || '';
-        drawerSnip.textContent  = m.snippet || '';
         drawerLink.href = m.url || '#';
+        drawerCont.innerHTML = '';
+        drawerCont.classList.add('is-loading');
 
         if (m.image_url) {
             drawerImg.src = m.image_url;
             drawerImg.alt = m.name || '';
-            drawerImgW.style.display = '';
+            drawerImgW.classList.remove('no-image');
         } else {
-            drawerImgW.style.display = 'none';
+            drawerImgW.classList.add('no-image');
         }
 
-        var tags = (m.tags || []).filter(function(t) {
-            return !['sights','things_to_do','attractions','landmarks','museums'].includes(t);
-        });
-        drawerTags.innerHTML = tags.map(function(t) {
-            return '<span class="explore-tag">' + t.replace(/_/g, ' ') + '</span>';
-        }).join('');
+        // "Explore →" button only in locations mode (drilling into a city)
+        if (drawerDrill) {
+            if (state.mode === 'locations' && m.path) {
+                state.pendingDrillPath = m.path;
+                state.pendingDrillMarker = m;
+                drawerDrill.style.display = '';
+            } else {
+                state.pendingDrillPath = null;
+                drawerDrill.style.display = 'none';
+            }
+        }
 
         drawer.classList.add('is-open');
         drawer.setAttribute('aria-hidden', 'false');
+        body.classList.add('drawer-open');
+
+        // Fetch real content
+        fetch('/api/page-content/' + m.path)
+            .then(function(r) { return r.json(); })
+            .then(function(data) {
+                drawerCont.classList.remove('is-loading');
+                drawerCont.innerHTML = data.body_html || '';
+                // Update image if we didn't already have one
+                if (!m.image_url && data.image_url) {
+                    drawerImg.src = data.image_url;
+                    drawerImg.alt = data.title || '';
+                    drawerImgW.classList.remove('no-image');
+                }
+            })
+            .catch(function() {
+                drawerCont.classList.remove('is-loading');
+                drawerCont.textContent = m.snippet || '';
+            });
     }
 
     function _closeDrawer() {
         drawer.classList.remove('is-open');
         drawer.setAttribute('aria-hidden', 'true');
+        body.classList.remove('drawer-open');
+        state.pendingDrillPath = null;
+        if (drawerDrill) drawerDrill.style.display = 'none';
+        // Refit map after drawer closes (map pane width changed)
+        requestAnimationFrame(function() {
+            requestAnimationFrame(function() {
+                map.invalidateSize();
+            });
+        });
     }
 
     if (drawerClose) drawerClose.addEventListener('click', _closeDrawer);
@@ -208,52 +210,40 @@ function initExploreMap(opts) {
     var zoomOutLabel = document.getElementById('explore-zoom-out-label');
     var topbarTitle  = document.getElementById('explore-topbar-title');
 
-    function _showZoomOut(title) {
-        if (zoomOutBtn) {
-            zoomOutLabel.textContent = title;
-            zoomOutBtn.style.display = '';
-        }
-    }
+    function _setTopTitle(t) { if (topbarTitle) topbarTitle.textContent = t; }
+    function _showZoomOut(t) { if (zoomOutBtn) { zoomOutLabel.textContent = t; zoomOutBtn.style.display = ''; } }
+    function _hideZoomOut() { if (zoomOutBtn) zoomOutBtn.style.display = 'none'; }
 
-    function _hideZoomOut() {
-        if (zoomOutBtn) zoomOutBtn.style.display = 'none';
-    }
+    // ---- Drill into a city/location ----
+    function _drillInto(m) {
+        // Save the label of the level we're leaving (what zoom-out should say)
+        var leavingTitle = topbarTitle ? topbarTitle.textContent : baseTitle;
+        state.parentMarkers  = state.markers.slice();
+        state.parentBounds   = map.getBounds();
+        state.parentTitle    = leavingTitle;
+        state.mode           = 'loading';
 
-    // ---- City drill-down ----
-    function _enterCity(m) {
+        _setTopTitle(m.name || '');
+        _showZoomOut(leavingTitle);
         _closeDrawer();
-        // Save current state so we can zoom back out
-        state.parentMarkers = state.markers.slice();
-        state.parentBounds  = map.getBounds();
-        state.parentTitle   = baseTitle;
-        state.mode          = 'loading';
-
-        if (topbarTitle) topbarTitle.textContent = m.name || '';
-        _showZoomOut(baseTitle);
 
         fetch('/api/explore/' + m.path)
             .then(function(r) { return r.json(); })
             .then(function(data) {
-                state.mode = data.mode;
-                _setMarkers(data.markers);
-                if (data.markers.length) {
-                    // Build a group from new markers to fit bounds
-                    var tmpGroup = L.featureGroup();
-                    data.markers.forEach(function(mk) {
-                        L.marker([mk.lat, mk.lng]).addTo(tmpGroup);
-                    });
-                    var b = (_trimmedBounds(data.markers) || tmpGroup.getBounds()).pad(0.2);
-                    if (b.isValid()) map.fitBounds(b, { animate: true, duration: 0.5 });
-                } else {
-                    map.setView([m.lat, m.lng], 13, { animate: true });
-                }
+                state.mode    = data.mode;
+                state.markers = data.markers || [];
                 _renderMarkers(state.markers);
+                if (state.markers.length) {
+                    var b = (_trimmedBounds(state.markers) || _boundsFromMarkers(state.markers)).pad(0.2);
+                    if (b.isValid()) map.fitBounds(b, {animate:true, duration:0.5});
+                } else {
+                    map.setView([m.lat, m.lng], 13, {animate:true});
+                }
+                map.invalidateSize();
             })
             .catch(function() {
-                // Fallback: just zoom to the city location
-                state.mode = 'city';
-                state.markers = [];
-                map.setView([m.lat, m.lng], 13, { animate: true });
+                state.mode = 'city'; state.markers = [];
+                map.setView([m.lat, m.lng], 13, {animate:true});
             });
     }
 
@@ -261,59 +251,54 @@ function initExploreMap(opts) {
         _closeDrawer();
         state.mode    = 'locations';
         state.markers = state.parentMarkers || initMarkers;
-        state.parentMarkers = null;
-        if (topbarTitle) topbarTitle.textContent = baseTitle;
+        _setTopTitle(state.parentTitle || baseTitle);
         _hideZoomOut();
-        _setMarkers(state.markers);
+        state.parentMarkers = null;
+        state.parentTitle   = null;
+        _renderMarkers(state.markers);
         if (state.parentBounds && state.parentBounds.isValid()) {
-            map.fitBounds(state.parentBounds, { animate: true, duration: 0.5 });
+            map.fitBounds(state.parentBounds, {animate:true, duration:0.5});
         } else {
-            _fitMarkers(state.markers);
+            _fitMarkers(state.markers, true);
         }
         state.parentBounds = null;
+        requestAnimationFrame(function() { requestAnimationFrame(function() { map.invalidateSize(); }); });
     }
 
     if (zoomOutBtn) zoomOutBtn.addEventListener('click', _exitCity);
 
-    // ---- Click routing ----
+    // "Explore →" drills into the city whose drawer is open
+    if (drawerDrill) {
+        drawerDrill.addEventListener('click', function() {
+            if (state.pendingDrillPath && state.pendingDrillMarker) {
+                _drillInto(state.pendingDrillMarker);
+            }
+        });
+    }
+
+    // ---- Marker click ----
     function _onMarkerClick(m) {
         if (state.mode === 'locations') {
-            // Has a sub-path to drill into
-            if (m.path) {
-                _enterCity(m);
-            } else {
-                window.location.href = m.url;
-            }
-        } else {
-            // City mode: show drawer
+            // Open drawer with city description; user can choose to drill in
+            _openDrawer(m);
+        } else if (state.mode === 'city') {
             _openDrawer(m);
         }
+        // 'loading' state: ignore clicks
     }
 
     // ---- Initial render ----
-    if (mode === 'locations' && state.parentTitle) {
-        _showZoomOut(state.parentTitle);
-    }
-
     (function() {
-        var mkrs = initMarkers;
-        if (mkrs.length) {
-            var tmpGroup = L.featureGroup();
-            mkrs.forEach(function(m) { L.marker([m.lat, m.lng]).addTo(tmpGroup); });
-            if (tmpGroup.getBounds().isValid()) {
-                var b = (_trimmedBounds(mkrs) || tmpGroup.getBounds()).pad(0.15);
-                map.fitBounds(b, { animate: false });
-            } else {
-                map.setView([20, 0], 2);
-            }
+        if (initMarkers.length) {
+            var b = (_trimmedBounds(initMarkers) || _boundsFromMarkers(initMarkers)).pad(0.15);
+            if (b.isValid()) map.fitBounds(b, {animate:false});
+            else map.setView([20,0],2);
         } else {
-            map.setView([20, 0], 2);
+            map.setView([20,0],2);
         }
-        requestAnimationFrame(function() {
-            requestAnimationFrame(function() {
-                map.invalidateSize();
-                _renderMarkers(initMarkers);
-            });
-        });
+        requestAnimationFrame(function() { requestAnimationFrame(function() {
+            map.invalidateSize();
+            _renderMarkers(initMarkers);
+        }); });
     })();
 }

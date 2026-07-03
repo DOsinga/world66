@@ -667,6 +667,31 @@ def _explore_markers(page):
     return "city", markers
 
 
+def api_page_content(request, path):
+    """Return rendered body HTML and image for a page — used by the explore drawer."""
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    body_html = (
+        _prefix_internal_links(md.markdown(page.body), page.url_prefix)
+        if page.body else ""
+    )
+    data = {
+        "title": page.title,
+        "url": page.get_absolute_url(),
+        "body_html": body_html,
+        "snippet": page.meta.get("snippet", ""),
+    }
+    img = _image_path(page)
+    if img:
+        data["image_url"] = f"/content-image/{img}"
+        data["image_source"] = page.meta.get("image_source", "")
+        data["image_license"] = page.meta.get("image_license", "")
+        data["image_attribution"] = page.meta.get("image_attribution", "")
+    return JsonResponse(data)
+
+
 def map_explore(request, path):
     path = path.strip("/")
     page = load_page(path)

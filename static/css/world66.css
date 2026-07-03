@@ -919,60 +919,61 @@ img { max-width: 100%; height: auto; }
   color: var(--accent);
 }
 
-/* POI Drawer */
+/* POI side drawer — slides in from the right */
 #explore-drawer {
   position: fixed;
-  bottom: 0;
-  left: 0;
+  top: 48px;        /* below topbar */
   right: 0;
-  z-index: 500;
+  bottom: 0;
+  width: 400px;
+  z-index: 400;
   background: var(--paper);
-  border-top: 1px solid var(--line);
-  border-radius: 14px 14px 0 0;
-  box-shadow: 0 -4px 24px rgba(0,0,0,0.12);
-  transform: translateY(100%);
-  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
-  max-height: 55vh;
+  border-left: 1px solid var(--line);
+  box-shadow: -6px 0 32px rgba(0,0,0,0.14);
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
 }
 
 #explore-drawer.is-open {
-  transform: translateY(0);
+  transform: translateX(0);
 }
 
+/* Close button sits at top-right of drawer */
 #explore-drawer-close {
   position: absolute;
-  top: 12px;
-  right: 14px;
-  z-index: 1;
-  background: var(--paper-2);
+  top: 10px;
+  right: 12px;
+  z-index: 2;
+  background: rgba(255,255,255,0.85);
+  backdrop-filter: blur(4px);
   border: 1px solid var(--line);
   border-radius: 50%;
-  width: 28px;
-  height: 28px;
+  width: 30px;
+  height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  font-size: 13px;
+  font-size: 14px;
   color: var(--mute);
   padding: 0;
-  transition: color 0.12s;
+  transition: color 0.12s, background 0.12s;
 }
 
 #explore-drawer-close:hover {
   color: var(--ink);
+  background: var(--paper);
 }
 
-#explore-drawer-inner {
-  display: flex;
-  height: 100%;
-  overflow: hidden;
-}
-
+/* Hero image at the top, fixed aspect ratio */
 #explore-drawer-img-wrap {
-  flex: 0 0 180px;
+  flex: 0 0 220px;
   overflow: hidden;
+  background: var(--paper-3);
+  position: relative;
 }
 
 #explore-drawer-img {
@@ -982,53 +983,74 @@ img { max-width: 100%; height: auto; }
   display: block;
 }
 
+#explore-drawer-img-wrap.no-image {
+  display: none;
+}
+
+/* Scrollable content below image */
 #explore-drawer-body {
   flex: 1;
-  padding: 18px 44px 18px 18px;
   overflow-y: auto;
-  min-width: 0;
+  padding: 20px 20px 28px;
+  -webkit-overflow-scrolling: touch;
 }
 
 #explore-drawer-title {
-  margin: 0 0 6px;
-  font-size: 18px;
+  margin: 0 32px 8px 0;  /* right margin avoids close button overlap */
+  font-size: 20px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.25;
   color: var(--ink);
 }
 
-#explore-drawer-snippet {
-  margin: 0 0 10px;
+/* Rendered markdown body */
+#explore-drawer-content {
   font-size: 14px;
-  color: var(--mute);
-  line-height: 1.5;
+  line-height: 1.7;
+  color: var(--ink);
 }
 
-#explore-drawer-tags {
+#explore-drawer-content p { margin: 0 0 0.9em; }
+#explore-drawer-content p:last-child { margin-bottom: 0; }
+#explore-drawer-content a { color: var(--accent); }
+#explore-drawer-content strong { font-weight: 600; }
+#explore-drawer-content h2, #explore-drawer-content h3 {
+  font-size: 14px; font-weight: 600; margin: 1em 0 0.3em;
+}
+
+/* Loading shimmer */
+#explore-drawer-content.is-loading::after {
+  content: '';
+  display: block;
+  height: 120px;
+  background: linear-gradient(90deg, var(--paper-2) 25%, var(--paper-3) 50%, var(--paper-2) 75%);
+  background-size: 200% 100%;
+  animation: drawer-shimmer 1.2s infinite;
+  border-radius: 4px;
+}
+
+@keyframes drawer-shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.explore-drawer-footer {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
   display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  margin-bottom: 12px;
-}
-
-.explore-tag {
-  background: var(--paper-2);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 2px 9px;
-  font-size: 11px;
-  font-family: var(--label-font);
-  text-transform: capitalize;
-  color: var(--mute);
-  letter-spacing: 0.03em;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .explore-drawer-read-more {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   background: var(--accent);
   color: #fff;
   text-decoration: none;
-  padding: 7px 16px;
+  padding: 8px 18px;
   border-radius: 4px;
   font-size: 13px;
   font-weight: 600;
@@ -1040,24 +1062,46 @@ img { max-width: 100%; height: auto; }
   color: #fff;
 }
 
-/* Mobile: drawer takes more vertical space, no image sidebar */
-@media (max-width: 600px) {
-  #explore-drawer-img-wrap {
-    display: none;
-  }
-
-  #explore-drawer-body {
-    padding: 16px 40px 16px 16px;
-  }
-
+/* Mobile: drawer comes from bottom, full width */
+@media (max-width: 640px) {
   #explore-drawer {
-    max-height: 65vh;
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 75vh;
+    border-left: none;
+    border-top: 1px solid var(--line);
+    border-radius: 14px 14px 0 0;
+    transform: translateY(100%);
+    box-shadow: 0 -6px 32px rgba(0,0,0,0.14);
+  }
+
+  #explore-drawer.is-open {
+    transform: translateY(0);
+  }
+
+  #explore-drawer-img-wrap {
+    flex: 0 0 180px;
   }
 }
 
 /* Keep Leaflet zoom controls below the topbar */
 .explore-page .leaflet-top.leaflet-left {
   top: 56px;
+}
+
+/* Shrink map pane when drawer is open so the map isn't hidden */
+.explore-page.drawer-open #explore-map {
+  right: 400px;
+  transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@media (max-width: 640px) {
+  .explore-page.drawer-open #explore-map {
+    right: 0;
+  }
 }
 
 /* Quick facts grid in sidebar */

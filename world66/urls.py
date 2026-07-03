@@ -16,6 +16,7 @@ urlpatterns = [
     path("review", views.review, name="review"),
     path("explore/<path:path>", views.map_explore, name="map_explore"),
     path("api/explore/<path:path>", views.api_explore, name="api_explore"),
+    path("api/page-content/<path:path>", views.api_page_content, name="api_page_content"),
     path("passport/", include("passport_app.urls")),
     path("regions", RedirectView.as_view(url="/regions/", permanent=False)),
     path("regions/", include("regions_app.urls")),

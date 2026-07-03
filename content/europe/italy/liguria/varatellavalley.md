@@ -5,7 +5,7 @@ done:
 latitude: 44.051
 loc_type: feature
 longitude: 8.189
-score: 0.51
+score: 5.3
 snippet: Inland Ligurian valley known for prehistoric caves with Neanderthal handprints
   and terraced olive hillsides.
 title: Varatella Valley

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trebbia_Valley_-_Brugnello
 latitude: 44.549
 loc_type: feature
 longitude: 9.217
-score: 0.55
+score: 5.8
 snippet: Ligurian Apennine valley outside Genoa, threaded by the Trebbia River and
   old pilgrimage villages
 sources:

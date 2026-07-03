@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LagoMaggiore.jpg
 latitude: 45.951094
 loc_type: feature
 longitude: 8.634165
-score: 0.71
+score: 8.8
 snippet: Long Alpine lake between Italy and Switzerland, known for gardens, ferries,
   and Borromean Islands villages
 title: Lake Maggiore

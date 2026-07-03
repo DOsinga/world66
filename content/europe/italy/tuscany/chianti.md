@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Poggio_Amorelli_Castellina
 latitude: 43.55
 loc_type: feature
 longitude: 11.32
-score: 0.73
+score: 8.8
 snippet: Tuscan wine region of vineyards, olive groves, and stone villages between
   Florence and Siena.
 title: Chianti

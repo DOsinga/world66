@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy,_Octob
 latitude: 44.1066
 loc_type: feature
 longitude: 9.7354
-score: 0.79
+score: 9.4
 snippet: Rugged Ligurian coastal region where five fishing villages cling to terraced
   cliffs.
 title: Cinque Terre

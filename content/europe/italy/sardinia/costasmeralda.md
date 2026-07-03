@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_Smeralda_1.jpg
 latitude: 40.899377
 loc_type: feature
 longitude: 9.517747
-score: 0.74
+score: 7.9
 snippet: Northeastern Sardinian coast developed as a planned resort area around granite
   coves and turquoise water.
 title: Costa Smeralda

@@ -4,7 +4,7 @@ done:
 latitude: 44.35
 loc_type: feature
 longitude: 9.15
-score: 0.58
+score: 7.0
 snippet: Liguria coastal gulf between Genoa and Portofino, lined with fishing towns
   below steep green hills
 title: Paradise Gulf

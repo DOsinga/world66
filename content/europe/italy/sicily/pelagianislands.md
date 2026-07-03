@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Spiaggia_Isola_dei_Conigli
 latitude: 35.5134
 loc_type: feature
 longitude: 12.6063
-score: 0.62
+score: 6.8
 snippet: Remote Sicilian archipelago of Lampedusa, Linosa, and Lampione, closer to
   Africa than Italy
 title: Pelagian Islands

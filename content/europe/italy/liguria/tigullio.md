@@ -4,7 +4,7 @@ done:
 latitude: 44.27264
 loc_type: feature
 longitude: 9.396492
-score: 0.63
+score: 7.6
 snippet: Italian Riviera gulf east of Genoa, lined with resort towns above calm blue
   water.
 title: Tigullio

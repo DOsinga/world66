@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amalfi_veduta_dalla_barca.
 latitude: 40.63367
 loc_type: city
 longitude: 14.602609
-score: 0.84
+score: 8.9
 snippet: Cliff-hung Campanian coast where pastel towns and lemon terraces line the
   southern Sorrento peninsula.
 tags:

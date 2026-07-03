@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_-_Lerici,_La_Spezia,_
 latitude: 44.14828
 loc_type: feature
 longitude: 8.271494
-score: 0.74
+score: 8.4
 snippet: Ligurian coastal region of terraced hills, pastel fishing villages, resort
   beaches, and steep Mediterranean coves.
 title: Italian Riviera

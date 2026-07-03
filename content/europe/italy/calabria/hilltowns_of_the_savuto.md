@@ -4,7 +4,7 @@ done:
 latitude: 39.141
 loc_type: feature
 longitude: 16.234
-score: 0.49
+score: 5.2
 snippet: Cluster of Savuto valley hilltowns in central Calabria, including Grimaldi,
   Malito, and Aiello Calabro.
 title: Hilltowns of the Savuto

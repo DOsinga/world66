@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marmolada-Arabba-Val_di_Fa
 latitude: 46.448973
 loc_type: feature
 longitude: 11.698703
-score: 0.67
+score: 7.9
 snippet: Ladin-speaking Dolomite valley linking ski villages, via ferrata routes,
   and the Marmolada glacier.
 title: Val di Fassa

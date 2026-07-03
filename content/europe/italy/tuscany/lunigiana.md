@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pontremoli.JPG
 latitude: 44.25
 loc_type: feature
 longitude: 9.95
-score: 0.54
+score: 6.2
 snippet: Hilly northern Tuscan region of medieval villages, chestnut forests, castles,
   and Ligurian-Emilian food traditions.
 title: Lunigiana

@@ -190,6 +190,7 @@ def widgets(request):
     explore_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
     photo_map_url = request.build_absolute_uri("/widgets/photo-map")
     scoring_explorer_url = request.build_absolute_uri("/widgets/scoring-explorer")
+    score_composer_url = request.build_absolute_uri("/widgets/score-composer")
     return render(request, "guide/widgets/index.html", {
         "globe_embed_url": embed_url,
         "globe_iframe": _iframe_code(embed_url, 520),
@@ -199,6 +200,8 @@ def widgets(request):
         "photo_map_iframe": _iframe_code(photo_map_url, 520),
         "scoring_explorer_embed_url": scoring_explorer_url,
         "scoring_explorer_iframe": _iframe_code(scoring_explorer_url, 640),
+        "score_composer_embed_url": score_composer_url,
+        "score_composer_iframe": _iframe_code(score_composer_url, 720),
     })
 
 
@@ -243,6 +246,15 @@ def widget_scoring_explorer(request):
     return render(request, "guide/widgets/scoring_explorer.html", {
         "widget_url": widget_url,
         "embed_code": _iframe_code(widget_url, 640),
+    })
+
+
+@xframe_options_exempt
+def widget_score_composer(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/score_composer.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 720),
     })
 
 

@@ -13,6 +13,7 @@ urlpatterns = [
     path("widgets/globe-explore", views.widget_globe_explore, name="widget_globe_explore"),
     path("widgets/photo-map", views.widget_photo_map, name="widget_photo_map"),
     path("widgets/scoring-explorer", views.widget_scoring_explorer, name="widget_scoring_explorer"),
+    path("widgets/score-composer", views.widget_score_composer, name="widget_score_composer"),
     path("content-image/<path:path>", views.content_image, name="content_image"),
     path("review", views.review, name="review"),
     path("passport/", include("passport_app.urls")),

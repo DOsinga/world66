@@ -1,0 +1,94 @@
+{% load static %}
+<!DOCTYPE html>
+<html class="w66-widget-page" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World66 Score Composer</title>
+  <link rel="stylesheet" href="{% static 'css/widgets.css' %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..400&family=Inter:wght@300;400;500;600;700&display=swap">
+</head>
+<body>
+  <div class="w66-se w66-sc" id="score-composer">
+    <header class="w66-sc-top" aria-label="Score composition controls">
+      <a href="/" class="w66-se-brand" target="_top" aria-label="World66 home">World<span></span>66</a>
+      <label>
+        <span>Dimension</span>
+        <select data-compose-dimension>
+          <option value="culture">Culture</option>
+          <option value="nature">Nature</option>
+          <option value="leisure">Leisure</option>
+          <option value="adventure">Adventure</option>
+        </select>
+      </label>
+      <label>
+        <span>Profile</span>
+        <select data-compose-profile></select>
+      </label>
+      <label>
+        <span>Name</span>
+        <input data-compose-name type="text" value="Working set">
+      </label>
+      <button class="w66-se-reset" data-compose-save type="button">Save</button>
+      <button class="w66-se-reset" data-compose-reset type="button">Reset</button>
+    </header>
+
+    <main class="w66-sc-main">
+      <section class="w66-sc-editor" aria-label="Latent dimension weights">
+        <div class="w66-sc-editor-head">
+          <h1 data-compose-heading>Culture</h1>
+          <p data-compose-summary>Loading hidden scores...</p>
+        </div>
+        <div class="w66-sc-sliders" data-compose-sliders></div>
+        <textarea class="w66-sc-export" data-compose-export readonly></textarea>
+      </section>
+
+      <section class="w66-se-map-panel" aria-label="Composed score map">
+        <svg class="w66-se-map" data-compose-map viewBox="0 0 1000 520" role="img" aria-label="World map with composed destination scores"></svg>
+      </section>
+
+      <aside class="w66-se-list-panel" aria-label="Top destinations for composed score">
+        <div class="w66-se-list-head">
+          <h1>Top 50</h1>
+          <p data-compose-list-summary>Loading scores...</p>
+        </div>
+        <ol class="w66-se-list" data-compose-list></ol>
+      </aside>
+    </main>
+
+    <div class="w66-se-actions">
+      <button class="w66-ge-action" data-compose-fullscreen type="button" aria-label="View score composer full screen">Full screen</button>
+      <button class="w66-ge-action" data-compose-embed type="button">Embed</button>
+    </div>
+
+    <div class="w66-ge-embed" data-compose-embed-dialog hidden>
+      <div class="w66-ge-embed-panel" role="dialog" aria-modal="true" aria-labelledby="compose-embed-title">
+        <div class="w66-ge-embed-head">
+          <h2 class="w66-ge-embed-title" id="compose-embed-title">Embed this score composer</h2>
+          <button class="w66-ge-embed-close" data-compose-embed-close type="button" aria-label="Close embed instructions">&times;</button>
+        </div>
+        <textarea class="w66-ge-embed-code" data-compose-embed-code readonly>{{ embed_code }}</textarea>
+        <div class="w66-ge-embed-actions">
+          <button class="w66-ge-action" data-compose-embed-copy type="button">Copy code</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="{% static 'js/widgets/score-composer.js' %}"></script>
+  <script>
+  (function() {
+    window.World66Widgets.scoreComposer({
+      root: '#score-composer',
+      dataUrl: '{% static "widgets/score-composer.json" %}',
+      geoUrl: '{% static "geo/countries.geo.json" %}',
+      embedUrl: '{{ widget_url|escapejs }}',
+      embedHeight: '720',
+      linkTarget: '_top'
+    });
+  })();
+  </script>
+</body>
+</html>

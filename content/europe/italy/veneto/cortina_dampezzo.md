@@ -13,6 +13,8 @@ score: 9.3
 snippet: Dolomite resort town in a broad alpine valley, host of the 1956 Winter Olympics.
 sources:
 - https://en.wikipedia.org/wiki/Cortina_d%27Ampezzo
+tags:
+- dolomites
 title: Cortina d'Ampezzo
 type: location
 ---

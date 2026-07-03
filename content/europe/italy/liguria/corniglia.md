@@ -12,6 +12,8 @@ longitude: 9.708687
 score: 9.08
 snippet: Quiet Cinque Terre village perched above the sea, reached by steps and surrounded
   by terraced vineyards.
+tags:
+- cinque_terre
 title: Corniglia
 type: location
 ---

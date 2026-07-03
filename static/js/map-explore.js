@@ -1,11 +1,13 @@
 /* Map Explore — full-screen drill-down map with side drawer */
 
 function initExploreMap(opts) {
-    var elementId   = opts.elementId;
-    var basePath    = opts.basePath;
-    var baseTitle   = opts.baseTitle;
-    var mode        = opts.mode;
-    var initMarkers = opts.markers || [];
+    var elementId    = opts.elementId;
+    var basePath     = opts.basePath;
+    var baseTitle    = opts.baseTitle;
+    var parentPath   = opts.parentPath   || '';   // for back-button navigation
+    var parentTitle  = opts.parentTitle  || '';
+    var mode         = opts.mode;
+    var initMarkers  = opts.markers || [];
 
     // ---- State ----
     var state = {
@@ -249,23 +251,39 @@ function initExploreMap(opts) {
 
     function _exitCity() {
         _closeDrawer();
-        state.mode    = 'locations';
-        state.markers = state.parentMarkers || initMarkers;
-        _setTopTitle(state.parentTitle || baseTitle);
-        _hideZoomOut();
-        state.parentMarkers = null;
-        state.parentTitle   = null;
-        _renderMarkers(state.markers);
-        if (state.parentBounds && state.parentBounds.isValid()) {
-            map.fitBounds(state.parentBounds, {animate:true, duration:0.5});
-        } else {
-            _fitMarkers(state.markers, true);
+        if (state.parentMarkers) {
+            // Drilled in via JS — zoom back out in place
+            state.mode    = 'locations';
+            state.markers = state.parentMarkers;
+            _setTopTitle(state.parentTitle || baseTitle);
+            // Show back button again if there's still a page-level parent
+            if (parentPath) {
+                _showZoomOut(parentTitle || state.parentTitle || baseTitle);
+            } else {
+                _hideZoomOut();
+            }
+            state.parentMarkers = null;
+            state.parentTitle   = null;
+            _renderMarkers(state.markers);
+            if (state.parentBounds && state.parentBounds.isValid()) {
+                map.fitBounds(state.parentBounds, {animate:true, duration:0.5});
+            } else {
+                _fitMarkers(state.markers, true);
+            }
+            state.parentBounds = null;
+            requestAnimationFrame(function() { requestAnimationFrame(function() { map.invalidateSize(); }); });
+        } else if (parentPath) {
+            // Directly-loaded page — navigate to parent explore page
+            window.location.href = '/explore/' + parentPath;
         }
-        state.parentBounds = null;
-        requestAnimationFrame(function() { requestAnimationFrame(function() { map.invalidateSize(); }); });
     }
 
     if (zoomOutBtn) zoomOutBtn.addEventListener('click', _exitCity);
+
+    // Show back button on load if the page has a page-level parent
+    if (parentPath && parentTitle) {
+        _showZoomOut(parentTitle);
+    }
 
     // "Explore →" drills into the city whose drawer is open
     if (drawerDrill) {

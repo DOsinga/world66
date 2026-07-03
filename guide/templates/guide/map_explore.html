@@ -50,6 +50,7 @@
     baseTitle: '{{ page.title|escapejs }}',
     parentTitle: '{% if parent %}{{ parent.title|escapejs }}{% endif %}',
     parentUrl: '{% if parent %}{{ parent.get_absolute_url|escapejs }}{% endif %}',
+    parentPath: '{% if parent %}{{ parent.path|escapejs }}{% endif %}',
     mode: '{{ mode }}',
     markers: {{ markers_json }},
   });

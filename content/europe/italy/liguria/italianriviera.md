@@ -5,7 +5,7 @@ image: italianriviera.jpg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Port_-_Lerici,_La_Spezia,_Italy_-_August_16,_2020.jpg
 latitude: 44.14828
-loc_type: region
+loc_type: feature
 longitude: 8.271494
 score: 0.74
 snippet: Ligurian coastal region of terraced hills, pastel fishing villages, resort

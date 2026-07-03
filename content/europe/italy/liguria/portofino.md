@@ -12,6 +12,8 @@ longitude: 9.209345
 score: 9.32
 snippet: Tiny Ligurian fishing village beneath Monte di Portofino, famous for its
   colourful harbour and Piazzetta.
+tags:
+- tigullio
 title: Portofino
 type: location
 ---

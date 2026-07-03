@@ -12,6 +12,8 @@ longitude: 14.612275
 score: 9.19
 snippet: Amalfi Coast hill town of aristocratic gardens, medieval villas, and wide
   Gulf of Salerno views.
+tags:
+- amalfi_coast
 title: Ravello
 type: location
 ---

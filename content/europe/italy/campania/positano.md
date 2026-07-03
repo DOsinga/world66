@@ -14,6 +14,8 @@ snippet: Amalfi Coast cliff town of pastel houses stacked above Spiaggia Grande 
   the Tyrrhenian Sea
 sources:
 - https://en.wikipedia.org/wiki/Positano
+tags:
+- amalfi_coast
 title: Positano
 type: location
 ---

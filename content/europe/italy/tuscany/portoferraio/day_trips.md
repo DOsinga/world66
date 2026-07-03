@@ -2,8 +2,8 @@
 title: "Day Trips"
 type: section
 linked_locations:
-  - europe/italy/tuscany/elba/marcianamarina
-  - europe/italy/tuscany/elba/marinadicampo
+  - europe/italy/tuscany/marcianamarina
+  - europe/italy/tuscany/marinadicampo
 ---
 
 Most of Elba is within easy day-trip range from Portoferraio. **Marciana Marina** and the cable car up Monte Capanne from Marciana village are the obvious option — the highest point on the island and one of the best viewpoints in the Tuscan archipelago. **Marina di Campo** on the south coast is the largest beach town on Elba, with a long sweep of sand and a more touristy atmosphere than Portoferraio.

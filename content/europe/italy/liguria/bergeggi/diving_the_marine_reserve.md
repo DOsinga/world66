@@ -15,4 +15,4 @@ The waters around the Isola di Bergeggi are among the best dive sites on the wes
 
 The bottom around the island is rocky and drops steeply, with walls and overhangs covered in red and yellow gorgonian fans, sponges, and nudibranchs. Visibility on a good day extends to 20–25 metres. The site also attracts grouper, octopus, and occasional moray eels. The entrance to the Grotta di Bergeggi is a popular end-point for guided dives.
 
-Dive operators in nearby [Spotorno](/europe/italy/liguria/rivieradellepalme/spotorno) and [Vado Ligure](/europe/italy/liguria/vadoligure) run regular excursions to the reserve. Snorkelling directly off the beach is possible and worthwhile — even in shallow water the reserve's protection has allowed sea life to recover noticeably.
+Dive operators in nearby [Spotorno](/europe/italy/liguria/spotorno) and [Vado Ligure](/europe/italy/liguria/vadoligure) run regular excursions to the reserve. Snorkelling directly off the beach is possible and worthwhile — even in shallow water the reserve's protection has allowed sea life to recover noticeably.

@@ -3,7 +3,7 @@ title: Day Trips
 type: section
 linked_locations:
   - europe/italy/veneto/verona
-  - europe/italy/lombardia/lagodigarda/sirmione
+  - europe/italy/lombardia/sirmione
   - europe/italy/veneto/valeggio_sul_mincio
   - europe/italy/lombardia/mantova
 ---

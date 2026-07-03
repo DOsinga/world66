@@ -2,7 +2,7 @@
 title: Day Trips
 type: section
 linked_locations:
-  - europe/italy/liguria/italianriviera/thecinqueterre
+  - europe/italy/liguria/cinque_terre
   - europe/italy/liguria/portofino
   - europe/italy/liguria/camogli
 ---

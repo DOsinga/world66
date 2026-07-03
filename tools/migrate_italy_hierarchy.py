@@ -429,6 +429,13 @@ def apply_link_replacements():
                 new_prefix,
                 new_text,
             )
+            # linked_locations entries in section frontmatter use the same
+            # paths without the leading slash
+            new_text = re.sub(
+                r'(?<=[\s"\'])' + re.escape(old_prefix[1:]) + r'(?=[/\)\s"\'])',
+                new_prefix[1:],
+                new_text,
+            )
         if new_text != text:
             count += 1
             if DRY_RUN:

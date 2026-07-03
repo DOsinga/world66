@@ -14,9 +14,7 @@ function initExploreMap(opts) {
     var state = {
         mode: mode,            // 'locations' | 'city' | 'loading'
         markers: initMarkers,
-        parentMarkers: null,   // saved on drill-in
-        parentBounds:  null,
-        parentTitle:   null,   // label for zoom-out button
+        parentStack: [],       // [{markers, bounds, title, backLabel}] pushed on drill-in
         pendingDrillPath: null, // path to drill into when user clicks "Explore →"
     };
 
@@ -219,12 +217,16 @@ function initExploreMap(opts) {
 
     // ---- Drill into a city/location ----
     function _drillInto(m) {
-        // Save the label of the level we're leaving (what zoom-out should say)
-        var leavingTitle = topbarTitle ? topbarTitle.textContent : baseTitle;
-        state.parentMarkers  = state.markers.slice();
-        state.parentBounds   = map.getBounds();
-        state.parentTitle    = leavingTitle;
-        state.mode           = 'loading';
+        var leavingTitle    = topbarTitle ? topbarTitle.textContent : baseTitle;
+        var leavingBackLabel = (zoomOutBtn && zoomOutBtn.style.display !== 'none')
+            ? (zoomOutLabel ? zoomOutLabel.textContent : null) : null;
+        state.parentStack.push({
+            markers:   state.markers.slice(),
+            bounds:    map.getBounds(),
+            title:     leavingTitle,
+            backLabel: leavingBackLabel,   // back-button text at the level we're leaving
+        });
+        state.mode = 'loading';
 
         _setTopTitle(m.name || '');
         _showZoomOut(leavingTitle);
@@ -236,13 +238,14 @@ function initExploreMap(opts) {
                 state.mode    = data.mode;
                 state.markers = data.markers || [];
                 _renderMarkers(state.markers);
+                // Invalidate first so fitBounds uses the correct (post-drawer-close) dimensions
+                map.invalidateSize();
                 if (state.markers.length) {
                     var b = (_trimmedBounds(state.markers) || _boundsFromMarkers(state.markers)).pad(0.2);
-                    if (b.isValid()) map.fitBounds(b, {animate:true, duration:0.5});
+                    if (b.isValid()) map.fitBounds(b, {animate:true, duration:0.6});
                 } else {
                     map.setView([m.lat, m.lng], 13, {animate:true});
                 }
-                map.invalidateSize();
             })
             .catch(function() {
                 state.mode = 'city'; state.markers = [];
@@ -252,26 +255,28 @@ function initExploreMap(opts) {
 
     function _exitCity() {
         _closeDrawer();
-        if (state.parentMarkers) {
-            // Drilled in via JS — zoom back out in place
+        if (state.parentStack.length) {
+            // Drilled in via JS — pop the stack and zoom back out
+            var parent = state.parentStack.pop();
             state.mode    = 'locations';
-            state.markers = state.parentMarkers;
-            _setTopTitle(state.parentTitle || baseTitle);
-            // Show back button again if there's still a page-level parent
-            if (parentPath !== null) {
-                _showZoomOut(parentTitle || state.parentTitle || baseTitle);
+            state.markers = parent.markers;
+            _setTopTitle(parent.title || baseTitle);
+            // Restore the back button that was visible at the level we're returning to
+            if (parent.backLabel !== null) {
+                _showZoomOut(parent.backLabel);
+            } else if (parentPath !== null && state.parentStack.length === 0) {
+                // Returned to the initial page level — show page-level parent if any
+                _showZoomOut(parentTitle || parent.title || baseTitle);
             } else {
                 _hideZoomOut();
             }
-            state.parentMarkers = null;
-            state.parentTitle   = null;
             _renderMarkers(state.markers);
-            if (state.parentBounds && state.parentBounds.isValid()) {
-                map.fitBounds(state.parentBounds, {animate:true, duration:0.5});
+            var b = parent.bounds;
+            if (b && b.isValid()) {
+                map.fitBounds(b, {animate:true, duration:0.5});
             } else {
                 _fitMarkers(state.markers, true);
             }
-            state.parentBounds = null;
             requestAnimationFrame(function() { requestAnimationFrame(function() { map.invalidateSize(); }); });
         } else if (parentPath !== null) {
             // Directly-loaded page — navigate to parent explore page

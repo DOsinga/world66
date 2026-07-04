@@ -12,10 +12,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_Decembe
 latitude: 36.167426
 loc_type: city
 longitude: -115.148413
+quick_facts:
+  Hotel Rooms: Most of any US city
+  In the Mojave: A desert resort city
+  Population: ~660,000 (metro ~2.3M)
+  The Strip: 6.8 km of casinos
 score: 9.39
-title: Las Vegas
 snippet: Mojave Desert city built on casino spectacle, neon fantasy, and outsized
   entertainment along the Strip.
+tip: Las Vegas rose from the Mojave Desert and runs 24 hours — there are no clocks
+  or windows in the casinos by design. The Strip looks walkable but the casinos are
+  enormous; distances between them are deceiving, so pace yourself in the heat. Beyond
+  the neon, the Grand Canyon, Hoover Dam and Red Rock Canyon are all within day-trip
+  range.
+title: Las Vegas
 type: location
 ---
 

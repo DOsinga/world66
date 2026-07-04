@@ -7,11 +7,21 @@ done:
 latitude: 23.333333
 loc_type: city
 longitude: 45.333333
+quick_facts:
+  Diriyah: Mud-brick Saudi birthplace
+  Kingdom Centre: 302 m, with a sky bridge
+  Name Means: '''The gardens'''
+  Population: ~7.7 million
 score: 6.06
-title: Riyadh
-type: location
 snippet: Saudi Arabia's desert capital, grown from a Najd oasis around the old Masmak
   Fortress.
+tip: Riyadh is a fast-modernising desert capital, drier and more conservative than
+  coastal Jeddah. The restored mud-brick Diriyah and the Masmak Fortress tell the
+  Saudi origin story; the Kingdom Centre's sky bridge gives the best view. Saudi Arabia
+  now issues tourist visas — dress modestly, note prayer-time closures, and the summer
+  heat is extreme.
+title: Riyadh
+type: location
 ---
 
 Riyadh is the capital and largest city of Saudi Arabia, sitting at around 600 metres above sea level on the high limestone plateau of the Nejd in the centre of the Arabian Peninsula. The name in Arabic means "gardens," a reference to the date palms and cultivated plots that once made this desert settlement viable. Today it is a sprawling metropolitan area of over seven million people, one of the fastest-growing cities on earth in the latter half of the twentieth century, and a place undergoing a second transformation in the third decade of the twenty-first.

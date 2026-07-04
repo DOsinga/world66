@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:1_rocinha_night_2014_panor
 latitude: -22.911014
 loc_type: city
 longitude: -43.209373
+quick_facts:
+  Carnival: ~2 million a day
+  Christ the Redeemer: 38 m tall
+  Population: 6.7 million
+  Tijuca: World's largest urban forest
 score: 9.82
 snippet: Brazilian harbour city where beaches, green mountains, and Christ the Redeemer
   frame everyday urban life.
+tip: Rio's beaches have an unspoken geography — locals gather at numbered lifeguard
+  posts (postos), each with its own crowd. Take only what you need to the sand; petty
+  theft is real. Ride the cog train to Christ the Redeemer early, before clouds swallow
+  the view, and never wander into a favela without a trusted local guide.
 title: Rio de Janeiro
 type: location
 ---

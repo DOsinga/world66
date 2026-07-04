@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Grande_Mosquee_Porto-Novo_
 latitude: 6.499072
 loc_type: city
 longitude: 2.625336
+quick_facts:
+  Afro-Brazilian: Built by freed-slave returnees
+  Grande Mosquée: Looks like a colonial church
+  Population: ~270,000
+  Status: Benin's official capital
 score: 6.4
 snippet: Benin's lagoon-side capital, layered with Yoruba palaces, Afro-Brazilian
   architecture, and colonial streets.
+tip: Porto-Novo is the official capital, but the real bustle is in nearby Cotonou
+  — Porto-Novo is quieter, with Afro-Brazilian architecture left by returning freed
+  slaves. See the Da Silva and ethnographic museums and the green-and-pink Grande
+  Mosquée, built like a Brazilian church. A zemidjan (motorbike taxi) is how everyone
+  gets around.
 title: Porto-Novo
 type: location
 ---

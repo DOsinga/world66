@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:20190816_View_of_Prague_fr
 latitude: 50.087465
 loc_type: city
 longitude: 14.421254
+quick_facts:
+  Astronomical Clock: Running since 1410
+  Beer: World's top per head
+  Castle: Largest ancient complex
+  Population: 1.3 million
 score: 9.6
 snippet: Central European capital on the Vltava, dense with intact Gothic, Baroque,
   and Art Nouveau streetscapes.
+tip: Cross Charles Bridge at dawn — by 9am it's shoulder-to-shoulder with crowds and
+  caricature artists. The Astronomical Clock's hourly show is famously underwhelming,
+  so don't plan your day around it. Beer is cheaper than water and taken seriously
+  here. Pay in koruna, not euros, and ignore the currency-exchange touts.
 title: Prague
 type: location
 ---

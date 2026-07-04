@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_
 latitude: 25.03752
 loc_type: city
 longitude: 121.56368
+quick_facts:
+  Hot Springs: Volcanic Beitou in the north
+  Night Markets: Dozens across the city
+  Population: ~2.6 million
+  Taipei 101: 508 m, once world's tallest
 score: 9.31
 snippet: Taiwanese capital in a mountain-ringed basin, mixing night markets, temples,
   and a modern skyline.
+tip: Taipei is friendly, safe and superbly organised — get an EasyCard for the spotless
+  metro. Taipei 101 was the world's tallest building for years; ride up at dusk. The
+  night markets (Shilin, Raohe) are the soul of the city — go hungry. Soak in the
+  Beitou hot springs, and the National Palace Museum holds China's imperial treasures.
 title: Taipei
 type: location
 ---

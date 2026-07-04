@@ -7,9 +7,19 @@ done:
 latitude: 12.649319
 loc_type: city
 longitude: -8.000337
+quick_facts:
+  Founded: Settled for millennia
+  Malian Music: A global powerhouse
+  On the River: The Niger
+  Population: ~2.8 million
 score: 5.56
 snippet: Malian capital on the Niger River, ringed by dusty hills and serving as the
   main inland gateway.
+tip: Bamako sprawls along the Niger River and is one of the fastest-growing cities
+  in Africa. It is the heartland of Malian music — Ali Farka Touré and Salif Keïta
+  country — so catch live griot music if you safely can. The Grand Marché and the
+  National Museum are highlights. Check travel advisories carefully; the wider region
+  is volatile.
 title: Bamako
 type: location
 ---

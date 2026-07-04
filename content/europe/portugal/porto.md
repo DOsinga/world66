@@ -9,10 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:O_Porto_(visto_da_Ponte_Do
 latitude: 41.1496
 loc_type: city
 longitude: -8.611
+quick_facts:
+  Dom Luís Bridge: 1886, Eiffel school
+  Livraria Lello: Inspired Harry Potter
+  Population: 230,000
+  Port Wine: Named after the city
 score: 9.47
-title: Porto
 snippet: Granite Douro city of tiled facades, iron bridges, and port-wine cellars
   across the river.
+tip: Cross the Dom Luís I bridge to Vila Nova de Gaia, where the port-wine cellars
+  line the river — tastings are cheap and most need no booking. Port is named after
+  this city but aged across the water in Gaia. The Livraria Lello bookshop inspired
+  Harry Potter and now charges entry. Try a francesinha if you dare; it's enormous.
+title: Porto
 type: location
 ---
 

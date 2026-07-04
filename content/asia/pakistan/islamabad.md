@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Area,_Islamabad_at_Ni
 latitude: 33.693812
 loc_type: city
 longitude: 73.065151
+quick_facts:
+  Became Capital: 1960s
+  Faisal Mosque: Among the world's largest
+  Margalla Hills: Trails rise from the city
+  Population: ~1.2 million
 score: 6.76
 snippet: Planned Pakistani capital beneath the Margalla Hills, green and gridded beside
   chaotic Rawalpindi
+tip: Islamabad is Pakistan's purpose-built capital from the 1960s — green, orderly
+  and laid out on a grid against the Margalla Hills, a stark contrast to chaotic Karachi
+  or Lahore. The vast Faisal Mosque, shaped like a desert tent, is the landmark. Hike
+  the Margalla trails for city views, and use it as a calm base for the northern mountains.
 title: Islamabad
 type: location
 ---

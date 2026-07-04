@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:1.%E0%A6%9C%E0%A6%BE%E0%A6
 latitude: 23.764386
 loc_type: city
 longitude: 90.389014
+quick_facts:
+  Among Earth's Densest: Cities by population
+  On the Buriganga: A river-port capital
+  Population: ~22 million
+  Rickshaws: Hundreds of thousands of them
 score: 6.05
 snippet: Dense delta capital where Puran Dhaka's markets and monuments sit beside
   Louis Kahn modernism.
+tip: Dhaka is one of the most densely populated cities on earth — the traffic is legendary,
+  so cross town by cycle-rickshaw (the city has hundreds of thousands of them) or
+  on foot for short hops. Old Dhaka's lanes, the Lalbagh Fort and a boat on the Buriganga
+  River are the highlights. Heat and crowds are intense; pace yourself.
 title: Dhaka
 type: location
 ---

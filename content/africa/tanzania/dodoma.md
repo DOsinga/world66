@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Central_Dodoma.JPG
 latitude: -6.179118
 loc_type: city
 longitude: 35.746817
+quick_facts:
+  Became Capital: 1996 (officially)
+  Central Location: Why it was chosen
+  Population: ~760,000
+  Wine Country: Tanzania's vineyards
 score: 6.12
 snippet: Tanzania's official capital on a dry central plateau surrounded by rocky
   hills and vineyards.
+tip: Dodoma is Tanzania's official capital, chosen for its central location, though
+  Dar es Salaam remains the commercial heart. It is a calm, dry town in wine country
+  — yes, Tanzania makes wine here. The vast new Jamhuri/CCM doctrine and the Gaddafi
+  Mosque are landmarks. Most travellers pass through en route to the safari parks.
 title: Dodoma
 type: location
 ---

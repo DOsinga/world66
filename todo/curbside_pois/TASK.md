@@ -1,6 +1,6 @@
 # Curbside POIs Task
 
-Add curbside POIs to a city — the kind of things a walking tour guide would stop at and explain. These are not tourist attractions or restaurants; they are named houses, public art, memorials, historic buildings, interesting street names, and city infrastructure with a story.
+Add curbside POIs to a city — the kind of things a walking tour guide would stop at and explain. These are not tourist attractions or restaurants; they are named houses, public art, memorials, historic buildings, interesting street names, churches, and city infrastructure with a story.
 
 Curbside POIs appear on the explore map only at zoom ≥15 as small dots. They are invisible in the regular guide (no section page exists for `curbside`). They require a fun fact or specific story — if you cannot find one, skip the item.
 
@@ -14,7 +14,7 @@ latitude: 52.12345
 longitude: 5.12345
 snippet: "One line describing what it is and why it's interesting"
 tags: [curbside]
-score: 0
+score: 1
 ---
 ```
 
@@ -30,7 +30,7 @@ Good candidates:
 - **Named historic buildings** — former inns, guild houses, almshouses (hofjes), toll houses, watch posts
 - **Medieval infrastructure** — towers, gates, sluices, city walls, bridges with names
 - **Interesting street names** — names that encode history: former canals, trades, animals kept there, events
-- **Historic places of worship** with a specific story (synagogues, unusual churches, plague chapels)
+- **Historic places of worship** — churches, cathedrals, chapels, synagogues, with a specific story
 - **Neighbourhood nicknames** with a known origin story
 
 Skip:
@@ -41,58 +41,85 @@ Skip:
 
 ## Workflow
 
-### 1. Find candidates via Overpass
+### 1. Find candidates via Overpass — start here, not from memory
 
-Run one combined query to get artworks, memorials, historic nodes, and named buildings:
+**The coordinates must come from OSM, not from model memory.** The correct approach is to query Overpass first, get the real list of named things with their exact GPS coordinates, and then write content only for what actually exists. Never invent a list of places and then try to find coordinates — do it in the other direction.
+
+Use the script `tools/fetch_barcelona_osm.py` as a template. Adapt it for the target city's bounding box. The script queries Overpass and outputs a JSON file of candidates with exact OSM coordinates.
+
+Run one combined query to get artworks, memorials, historic nodes, named buildings, churches, and fountains:
 
 ```
-[out:json];
+[out:json][timeout:120];
 (
   node["tourism"="artwork"]["name"](<bbox>);
   way["tourism"="artwork"]["name"](<bbox>);
   node["historic"]["name"](<bbox>);
   way["historic"]["name"](<bbox>);
+  node["memorial"]["name"](<bbox>);
+  way["memorial"]["name"](<bbox>);
   node["amenity"="fountain"]["name"](<bbox>);
-  way["building"="house"]["name"](<bbox>);
-  way["building"]["name"]["historic"](<bbox>);
+  way["amenity"="fountain"]["name"](<bbox>);
+  node["tourism"="attraction"]["name"](<bbox>);
+  way["tourism"="attraction"]["name"](<bbox>);
+  node["amenity"="place_of_worship"]["name"]["wikipedia"](<bbox>);
+  way["amenity"="place_of_worship"]["name"]["wikipedia"](<bbox>);
+  node["amenity"="place_of_worship"]["name"]["wikidata"](<bbox>);
+  way["amenity"="place_of_worship"]["name"]["wikidata"](<bbox>);
+  node["building"="church"]["name"](<bbox>);
+  way["building"="church"]["name"](<bbox>);
+  node["building"="cathedral"]["name"](<bbox>);
+  way["building"="cathedral"]["name"](<bbox>);
+  way["building"]["name"]["wikipedia"](<bbox>);
+  way["building"]["name"]["wikidata"](<bbox>);
 );
-out center body;
+out center;
 ```
 
-Replace `<bbox>` with `<south>,<west>,<north>,<east>` — a bounding box covering the city centre and inner neighbourhoods, typically about 0.04° × 0.06°.
+Replace `<bbox>` with `<south>,<west>,<north>,<east>`.
 
-Also query for interesting street names — nodes/ways with `highway` and evocative names:
+For Dutch cities, also query interesting street names:
 
 ```
 [out:json];
-way["highway"]["name"~"<pattern>"](<bbox>);
+way["highway"]["name"~"[Ss]teeg|[Gg]racht|[Hh]aven|[Mm]olen|[Pp]oort|[Hh]of"](<bbox>);
 out center body;
 ```
 
-Useful Dutch patterns: `[Ss]teeg` (alley), `[Gg]racht` (canal), `[Hh]aven` (harbour), `[Mm]olen` (mill), `[Pp]oort` (gate), `[Hh]of` (courtyard). Adapt for the city's language.
-
-### 2. Filter
+### 2. Filter candidates
 
 Remove:
 - Items already in the guide as regular POIs (check `content/<city-path>/`)
 - Items with no story you can write (no name, no history, no interesting tag values)
 - Duplicates (same location, two OSM elements)
 
-### 3. Get coordinates from Nominatim
+Quality signal: prefer items with `wikipedia` or `wikidata` tags — these are more likely to have a notable story. Items without either can still be included if the OSM tags suggest something interesting (e.g. `historic=castle`, `artwork_type=sculpture`).
 
-For each item, confirm coordinates via Nominatim rather than trusting the raw Overpass centroid, especially for building ways:
+### 3. Create stub files from Overpass data
 
+Use `tools/create_curbside_stubs.py` (adapt the path and candidates JSON for your city) to write all stub files with frontmatter in one step. The script writes exact OSM coordinates to every file. **Do not change the coordinates after this step.**
+
+```python
+# Stub format — written by the script, not manually:
+---
+title: "Name from OSM"
+type: poi
+latitude: 41.38547  # exact from Overpass
+longitude: 2.17832  # exact from Overpass
+tags: [curbside]
+score: 1
+---
 ```
-https://nominatim.openstreetmap.org/search?q=<name>+<city>&format=json&limit=2
-```
 
-Use `User-Agent: world66-content/1.0`.
+### 4. Write content (snippet + body)
 
-### 4. Write POI files
+For each stub, add:
+- `snippet:` field in frontmatter — one sentence: what it is and why interesting
+- Body: 2–3 paragraphs
 
-One file per item at `content/<city-path>/<slug>.md`. Slugs: lowercase, underscores, no special characters.
+**Do not change latitude or longitude.** They came from OSM and are correct.
 
-Commit each batch together with a descriptive message. Group logically (all artworks, all Keien, all historic buildings, etc.).
+Commit each logical batch together. Group by neighbourhood or type (artworks, churches, memorials, etc.).
 
 ### 5. What makes a good body text
 

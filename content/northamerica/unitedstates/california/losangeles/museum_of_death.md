@@ -1,18 +1,17 @@
 ---
-title: Museum of Death
+title: "Museum of Death"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Hollywood"
 tags:
   - things_to_do
-  - hollywood
   - museum
-  - macabre
-latitude: 34.0999
-longitude: -118.329
-score: 6.3
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Hollywood
+  - unusual
+latitude: 34.09994
+longitude: -118.32899
+score: 6.4
 ---
 
-The Museum of Death is a small, bluntly macabre Hollywood museum devoted to crime, mortality, and the American fascination with both. Exhibits have included serial-killer artwork, crime-scene material, execution devices, and funeral objects, so this is very much for adults with a strong stomach.
+The Museum of Death is a macabre Hollywood museum devoted to death, crime, funerary culture, and related material. Its collection has included serial-killer artwork, crime-scene material, mortuary items, and other dark curiosities.
 
-It is not polished in the way Los Angeles' major museums are, but it is a memorable detour for visitors drawn to the darker side of Hollywood culture.
+It is not for everyone, but it is a distinctive stop for visitors interested in Los Angeles' stranger side.

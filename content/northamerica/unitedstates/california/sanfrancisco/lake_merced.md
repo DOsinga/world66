@@ -3,10 +3,9 @@ title: Lake Merced
 type: poi
 tags:
   - things_to_do
-  - sight
-  - park
   - lake
-  - walking
+  - hiking
+  - nature
 latitude: 37.7208
 longitude: -122.4958
 score: 7.0
@@ -14,6 +13,4 @@ source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/San_Francisco/Ingleside
 ---
 
-Lake Merced is San Francisco's freshwater lake on the far southwest edge of the city, where the streets finally give way to reeds, water, and big Pacific sky. The loop paths are good for a quiet walk or run, and the lake is also a local fishing spot.
-
-It is not as grand as Golden Gate Park or as dramatic as Lands End, but that is part of the appeal. Come here when you want open space, birdlife, and a slower corner of San Francisco.
+Lake Merced is a freshwater lake in the southwest corner of San Francisco. Trails around the water make it a scenic place for a walk, and the lake is also known as a local fishing spot.

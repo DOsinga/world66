@@ -1,18 +1,12 @@
 ---
 title: Pásti Street Synagogue
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - synagogue
-  - architecture
-latitude: 47.5288
+tags: [things_to_do, synagogue, heritage]
+latitude: 47.52875
 longitude: 21.6214
-score: 6.2
+score: 6.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Debrecen
+source_url: https://en.wikivoyage.org/wiki/DEB
 ---
 
-Pásti Street Synagogue is an Orthodox synagogue from 1893, designed by Eugene Berger. It sits close to Debrecen's central sights, but points to a different part of the city's religious history than the famous Calvinist landmarks.
-
-The building is most interesting as part of a walk through the old centre, where churches, schools, civic buildings, and Jewish heritage sit within a few blocks of each other.
+Pásti Street Synagogue is an Orthodox synagogue built in 1893 to designs by Eugene Berger. It is part of Debrecen's surviving Jewish heritage, with a mikveh and community facilities attached.

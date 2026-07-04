@@ -1,18 +1,16 @@
 ---
 title: Waldfriedhof
 type: poi
-latitude: 48.1024
-longitude: 11.4917
 tags:
   - things_to_do
-  - sight
   - cemetery
-  - history
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Munich/South-West"
+  - historic
+  - woodland
+latitude: 48.1024
+longitude: 11.4917
 score: 7.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Munich/South-West
 ---
 
-Waldfriedhof is Munich's large woodland cemetery, opened in 1907 and later expanded into a quiet landscape of trees, paths, chapels, and memorials. It feels more like a forest walk than a formal burial ground.
-
-The graves include writers, artists, politicians, military figures, and other names tied to Germany's 20th century. Visit for the atmosphere as much as for any single monument.
+Waldfriedhof is Munich's largest cemetery, opened in 1907 and laid out as a woodland burial ground. Its paths, funeral chapel, and graves of notable figures are tucked among trees, giving it a very different feel from the city's older urban cemeteries.

@@ -1,16 +1,15 @@
 ---
 title: Burgas Mineral Baths
 type: poi
+latitude: 42.61134
+longitude: 27.3931
+score: 6.6
 tags:
   - things_to_do
-  - sight
-  - spa
-  - history
-latitude: 42.6113
-longitude: 27.3931
-score: 7.0
+  - hot_springs
+  - public_baths
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Burgas
+source_url: https://en.wikivoyage.org/wiki/BOJ
 ---
 
-Burgas Mineral Baths, also known as Aquae Calidae, combines hot springs, Roman remains, and a leafy park on the edge of the city. The water has drawn visitors for centuries, and the site works well as a short outing when you want something quieter than the seafront.
+Burgas Mineral Baths are a long-used hot spring area north of the city, with lightly mineralised water and a wooded park around the spa facilities. The setting makes it a simple excursion for a soak, a picnic, or a quiet break from the coast.

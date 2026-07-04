@@ -1,17 +1,18 @@
 ---
 title: Santa Corona
 type: poi
+latitude: 45.549258
+longitude: 11.547689
 tags:
   - things_to_do
-  - sight
   - church
   - art
   - architecture
-latitude: 45.5493
-longitude: 11.5477
-score: 8.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Vicenza
+source_url: "https://en.wikivoyage.org/wiki/Vicenza"
+score: 8.0
 ---
 
-Santa Corona is one of Vicenza's richest churches, founded in the 13th century to hold a relic of the Crown of Thorns. Come for the art as much as the architecture: works by Bellini and Veronese sit inside, and Palladio's hand appears in the Valmarana Chapel.
+Santa Corona is a 13th-century church built to house relics associated with Christ's crown of thorns. Inside are works and spaces tied to some of Vicenza's major artistic names, including a Palladio-designed chapel, Veronese's Adoration of the Magi and Bellini's Baptism of Christ.
+
+It is one of the stronger church visits in Vicenza for travellers interested in art and architecture.

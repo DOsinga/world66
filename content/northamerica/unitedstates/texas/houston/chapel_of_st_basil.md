@@ -1,18 +1,16 @@
 ---
-title: Chapel of St. Basil
+title: "Chapel of St. Basil"
 type: poi
+latitude: 29.738687
+longitude: -95.392714
 tags:
   - things_to_do
-  - sight
-  - architecture
   - church
-latitude: 29.7387
-longitude: -95.3927
-score: 7.0
+  - architecture
+  - montrose
+score: 6.6
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Houston/Midtown
+source_url: "https://en.wikivoyage.org/wiki/Houston/Midtown"
 ---
 
-Philip Johnson's Chapel of St. Basil is one of Houston's more unexpected modern religious buildings: a crisp white chapel with a black belfry wall and a bright gold dome. It sits on the University of St. Thomas campus, close enough to Montrose and the Museum District to fold into an architecture walk.
-
-The building is small, but the contrast between simple geometry and theatrical detail makes it memorable.
+The Chapel of St. Basil at the University of St. Thomas was designed by Philip Johnson and completed in 1997. Its golden dome, stark white walls, black belfry, and nearby labyrinth make it a compact architecture stop in Montrose.

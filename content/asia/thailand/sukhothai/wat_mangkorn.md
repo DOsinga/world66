@@ -1,19 +1,17 @@
 ---
 title: "Wat Mangkorn"
 type: poi
+latitude: 17.013619
+longitude: 99.677292
+score: 7.0
 tags:
   - things_to_do
-  - sight
   - temple
   - ruins
-  - history
-latitude: 17.0136
-longitude: 99.6773
-score: 6.3
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Sukhothai"
+source_url: https://en.wikivoyage.org/wiki/Sukhothai
 ---
 
-Wat Mangkorn, the Temple of the Dragon, is a ruined temple complex west of Sukhothai's old city walls. Its main hall is ringed by large leaf-shaped boundary stones, and the site gives a quieter look at the historic park away from the best-known monuments.
+Wat Mangkorn, the Temple of the Dragon, is a ruined temple west of Sukhothai's old city walls. The complex includes a bot surrounded by laterite pillars and sits on the road toward Wat Tham Hip Lang.
 
-It is not a first stop in Sukhothai, but it works well by bicycle if you are already exploring the western zone around Wat Saphan Hin and the old city gates.
+It is not the first temple to see in Sukhothai, but it rewards visitors who are exploring the western zone by bicycle or motorbike.

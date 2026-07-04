@@ -1,18 +1,17 @@
 ---
-title: "St. James AME Zion Church"
+title: St. James AME Zion Church
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - church
-  - history
-latitude: 42.4378
+latitude: 42.437778
 longitude: -76.505
-score: 7.1
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Underground_Railroad
+tags:
+- things_to_do
+- church
+- history
 ---
 
-St. James AME Zion Church is one of Ithaca's most meaningful historic sites, a small 19th-century church with a much larger story. Founded in 1836, it served Black worshippers at a time when racism shaped even church life, and it became a station on the Underground Railroad.
+St. James AME Zion Church is one of Ithaca's most important African-American historic sites. Founded in 1836, it served as a station on the Underground Railroad and hosted figures including Harriet Tubman and Frederick Douglass.
 
-Harriet Tubman and Frederick Douglass are both connected with services here, and the church later hosted students who founded Alpha Phi Alpha, the first historically African-American intercollegiate fraternity. It is a modest building, but worth seeking out if you are interested in Ithaca beyond the gorges and Cornell.
+The church is also linked to the 1906 founding of Alpha Phi Alpha, the first official Black fraternity in the United States. It is worth seeking out for its role in abolition, civil rights, and local history.

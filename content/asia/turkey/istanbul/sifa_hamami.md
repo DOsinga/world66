@@ -1,17 +1,17 @@
 ---
-title: "Şifa Hamamı"
+title: Sifa Hamami
 type: poi
-latitude: 41.0041
-longitude: 28.9757
-score: 6.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Balat
+url: https://www.sifahamami.com/
+latitude: 41.0041
+longitude: 28.9757
+score: 6.5
 tags:
   - things_to_do
-  - sultanahmet
-  - hamam
-  - bathhouse
+  - bath
   - historic_site
+  - sultanahmet
 ---
 
-Şifa Hamamı is an old marble bathhouse near Sultanahmet, with separate arrangements for women and mixed bathing areas depending on the session. It is a simpler, cheaper alternative to Istanbul's grander tourist hamams, good if you want the ritual without turning it into a luxury treatment.
+Sifa Hamami is a marble Turkish bath established in 1777 near Sultanahmet. It has a mixed main section and a separate women's section for scrubbing, and is a more modest historic bath option than Istanbul's best-known hamams.

@@ -1,17 +1,17 @@
 ---
-title: "People's Park"
+title: People's Park
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Budapest/K%C5%91b%C3%A1nya
 latitude: 47.4806
 longitude: 19.107
-score: 6.7
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Budapest/K%C5%91b%C3%A1nya"
+score: 6.4
+tags:
+  - things_to_do
+  - park
+  - walking
 ---
 
-People's Park, or Nepliget, is Budapest's largest public park, spread across a broad green area southeast of the centre. It was laid out in the late 19th century as a working-class counterpart to City Park and still feels more local than monumental.
+People's Park, or Nepliget, is one of Budapest's largest public parks. It has broad lawns, mature trees, paths, statues, and monuments, with a quieter feel than the better-known City Park.
 
-The park is best for a quiet walk, shade, and a look at its scattered monuments and Centennial Park section. It is not as polished as Varosliget, but that is part of the contrast.
+It is not the city's top park for first-time visitors, but it is a worthwhile green break if you are nearby or want to see a less polished part of Budapest's public landscape.

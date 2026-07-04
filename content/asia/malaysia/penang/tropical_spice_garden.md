@@ -2,18 +2,16 @@
 title: Tropical Spice Garden
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - garden
-  - nature
-  - food
-latitude: 5.4636
-longitude: 100.2293
-score: 7.3
+- things_to_do
+- garden
+- nature
+latitude: 5.4632
+longitude: 100.2294
+score: 7.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/George_Town_(Malaysia)"
+source_url: https://en.wikivoyage.org/wiki/Batu_Feringghi
 ---
 
-Tropical Spice Garden fills eight acres of secondary jungle near Penang's north coast with the plants behind Malaysian cooking: pepper, nutmeg, cloves, ginger, pandan, and more. It is part garden, part outdoor classroom, and much more fragrant than a normal botanical stop.
+Tropical Spice Garden is an eight-acre garden on a former rubber plantation near Batu Ferringhi. Its shaded trails wind through jungle planting, spice terraces, palms, and small water features, with labelled plants and enough structure to make the visit easy without losing the sense of being in the forest.
 
-The paths are shaded and humid, with enough signs to make a self-guided wander worthwhile. It is a good counterpoint to George Town's food scene, because you see the raw ingredients before they turn up in laksa, curries, and sweets.
+It is a good slow stop if you want a green break from the beach strip, especially in the morning before the heat builds.

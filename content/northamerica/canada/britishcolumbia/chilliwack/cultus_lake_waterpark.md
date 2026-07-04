@@ -1,15 +1,12 @@
 ---
 title: "Cultus Lake Waterpark"
 type: poi
-tags:
-  - things_to_do
-  - waterpark
-  - family
-latitude: 49.0763
-longitude: -121.9750
-score: 6.5
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Chilliwack"
+latitude: 49.0763
+longitude: -121.975
+score: 6.6
+tags: [things_to_do, family, waterpark]
 ---
 
-Cultus Lake Waterpark is a summer day out near Chilliwack, with slides and pools aimed squarely at families. It gets busy in hot weather, so late June, early July, rainy days, or twilight-rate hours are the smarter times to go.
+Cultus Lake Waterpark is a large summer waterpark near Chilliwack, with slides and pools aimed at families and groups. It is the kind of attraction to plan as a half-day or full-day outing in hot weather.

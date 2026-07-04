@@ -1,19 +1,16 @@
 ---
-title: "Bardzrakash Monastery"
+title: Bardzrakash Monastery
 type: poi
 tags:
-- things_to_do
-- sight
-- monastery
-- architecture
-- ruins
-latitude: 40.9779
-longitude: 44.6590
-score: 7.4
+  - things_to_do
+  - monastery
+  - historic_site
+  - architecture
+latitude: 40.977914
+longitude: 44.65902
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Debed_Canyon"
+source_url: https://en.wikivoyage.org/wiki/Debed_Canyon
 ---
 
-Bardzrakash Monastery is a ruined medieval monastery tucked into the wooded slopes near the Debed Canyon. Its carved stonework is still elegant, even where the buildings have collapsed and vegetation has taken over the walls.
-
-It takes a little effort to reach, but that is part of the appeal. Compared with the more famous monasteries around Alaverdi, Bardzrakash feels wilder and more solitary.
+Bardzrakash Monastery is a semi-ruined medieval monastery set on the side of Debed Canyon. Its carved stonework and overgrown setting make it a rewarding stop for travelers exploring the canyon's churches and monasteries.

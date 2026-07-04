@@ -1,18 +1,17 @@
 ---
 title: "Diebsturm"
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Feldkirch
+latitude: 47.237656
+longitude: 9.593158
+score: 6.3
 tags:
   - things_to_do
   - sight
   - architecture
-  - tower
-latitude: 47.2377
-longitude: 9.5932
-score: 6.5
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Feldkirch"
 ---
 
-Diebsturm is a 15th-century prison tower left behind after much of Feldkirch's old town wall disappeared. Its name is plain enough, but the surviving tower gives the compact centre one more piece of medieval texture.
+Diebsturm is one of Feldkirch's surviving medieval towers, built in the 15th century and later used as a prison. The old city walls that once linked it to the rest of the fortifications are gone, but the tower still helps mark the edge of the historic town.
 
-See it as part of a short walk through Marktgasse, Churer Tor, the cathedral, and Schattenburg rather than as a destination on its own.
+See it while walking between Feldkirch's arcaded streets, gates, and Schattenburg. It is a compact stop, useful for reading the old town as a fortified place.

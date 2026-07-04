@@ -1,17 +1,16 @@
 ---
 title: Foochow Arsenal Culture City
 type: poi
+latitude: 25.986319
+longitude: 119.445944
+score: 7.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Mawei
 tags:
   - things_to_do
-  - museum
-  - history
-  - industrial_history
+  - historic_site
   - maritime
-latitude: 25.9863
-longitude: 119.4459
-score: 7.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Fuzhou
+  - museum
 ---
 
-Foochow Arsenal Culture City preserves the site of China's first modern naval shipyard, including relics of the arsenal, docks, and naval school. It is one of Fuzhou's better places to see how treaty-port pressure and late Qing reform reshaped the city.
+Foochow Arsenal Culture City preserves relics of China's first modern naval shipyard in Mawei. The site is tied to nineteenth-century naval reform, the old naval school, and the military facilities built to protect the arsenal, making it one of Fuzhou's more important modern-history stops.

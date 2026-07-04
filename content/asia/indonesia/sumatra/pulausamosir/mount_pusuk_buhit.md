@@ -1,17 +1,16 @@
 ---
 title: Mount Pusuk Buhit
 type: poi
+latitude: 2.59953
+longitude: 98.64923
+score: 7.4
 tags:
   - things_to_do
-  - sight
-  - hiking
   - mountain
-  - batak_culture
-latitude: 2.5995
-longitude: 98.6492
-score: 7.7
+  - hiking
+  - nature
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Lake_Toba/West
 ---
 
-Mount Pusuk Buhit is sacred in Batak tradition and one of the most rewarding hikes around Lake Toba. The climb is not technically hard, but starting before dawn gives you the best chance of reaching the summit for sunrise over the caldera.
+Mount Pusuk Buhit is a sacred mountain in Batak tradition and one of the most accessible climbs around Lake Toba. The hike can usually be done in less than a day, with many walkers starting before dawn to reach the summit for sunrise views over the lake and surrounding highlands.

@@ -1,18 +1,18 @@
 ---
-title: "Playa Manzanillo"
+title: Playa Manzanillo
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/PXM
+latitude: 15.8581
+longitude: -97.0731
+score: 7.0
 tags:
   - things_to_do
   - beach
   - swimming
   - snorkeling
-latitude: 15.8581
-longitude: -97.0731
-score: 7.1
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/PXM"
 ---
 
-Playa Manzanillo is one of Puerto Escondido's calmer town beaches, tucked beside Playa Puerto Angelito. The bay is good for swimming, and the rocky area between the two beaches is one of the better easy snorkeling spots in town, with a chance of seeing rays and sea turtles.
+Playa Manzanillo is a sheltered beach close to central Puerto Escondido, with calm water, beach restaurants, and loungers. It is one of the easier beaches in town for swimming.
 
-Beach restaurants rent loungers informally, usually free if you order food or drinks.
+The rocky area between Playa Manzanillo and Playa Puerto Angelito is also a useful snorkeling spot, with a chance of seeing turtles and rays when conditions are clear.

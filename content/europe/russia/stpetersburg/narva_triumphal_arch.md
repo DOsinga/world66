@@ -1,18 +1,16 @@
 ---
-title: "Narva Triumphal Arch"
+title: Narva Triumphal Arch
 type: poi
-tags:
-- things_to_do
-- sight
-- monument
-- architecture
-latitude: 59.9008
-longitude: 30.2738
+latitude: 59.900842
+longitude: 30.273823
 score: 7.0
+tags:
+  - things_to_do
+  - landmark
+  - architecture
+  - museum
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Saint_Petersburg/South"
+source_url: https://en.wikivoyage.org/wiki/Saint_Petersburg/South
 ---
 
-The Narva Triumphal Arch is one of Saint Petersburg's grand imperial monuments, built to honour Russian soldiers who fought in the Patriotic War of 1812. Its green facade, bronze figures, and chariot of Fame make it hard to miss above Narvskaya Square.
-
-There is also a small museum inside the upper part of the arch, run as a branch of the Museum of City Sculpture.
+This 30-m triumphal arch commemorates Russian heroes of the Patriotic War of 1812. It was completed in 1834 and has a small museum in its upper section.

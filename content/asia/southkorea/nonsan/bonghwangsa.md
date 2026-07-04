@@ -1,16 +1,17 @@
 ---
 title: Bonghwangsa
 type: poi
+latitude: 36.175209
+longitude: 127.156021
+score: 6.5
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Nonsan"
 tags:
   - things_to_do
-  - sight
   - temple
-  - historic
-latitude: 36.1752
-longitude: 127.1560
-score: 6.1
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Nonsan
+  - historic_site
 ---
 
-Bonghwangsa is a quiet temple associated in local tradition with the Baekje period. Its name means phoenix temple, after a legend that phoenixes descended from the sky and settled here.
+Bonghwangsa is a small Buddhist temple outside central Nonsan with a local tradition linking it to the Baekje period. Its name is tied to a legend of phoenixes descending from the sky and settling here.
+
+It is a quiet stop rather than a major temple complex, but it fits well with nearby Nonsan heritage sites such as Donam Seowon and Gwanchoksa Temple.

@@ -1,15 +1,16 @@
 ---
-title: "St Andrews Museum"
+title: St Andrews Museum
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Saint_Andrews
 tags:
   - things_to_do
   - museum
   - history
 latitude: 56.3397
 longitude: -2.8053
-score: 6.8
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Saint_Andrews"
+score: 6.5
 ---
 
-St Andrews Museum tells the story of the town inside a Victorian mansion in Kinburn Park. The permanent displays cover local history, while temporary exhibitions change through the year. It is a useful stop if you want context beyond the cathedral, university, and golf links.
+St Andrews Museum covers the town's history from a Victorian mansion near the Scores. Its permanent displays and temporary exhibitions make it a useful stop for visitors who want context beyond the cathedral, university, and golf landmarks.
+

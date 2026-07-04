@@ -1,16 +1,15 @@
 ---
 title: Sanctuary of Divino Amore
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/EUR
 tags:
   - things_to_do
-  - sight
   - church
   - pilgrimage
-latitude: 41.7788
-longitude: 12.5439
-score: 7.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Rome/South"
+latitude: 41.77875
+longitude: 12.543861
+score: 6.8
 ---
 
-The Sanctuary of Divino Amore is a major Catholic pilgrimage site on the southern edge of Rome. Its devotion centres on an image of the Virgin Mary credited with miracles, including the wartime vow that led Romans to build the modern sanctuary after World War II.
+The Sanctuary of Divino Amore is an important Catholic pilgrimage site south of Rome. It centres on a venerated image of the Virgin Mary associated with miracles and draws visitors for prayer, architecture, and the quieter edge of the city.

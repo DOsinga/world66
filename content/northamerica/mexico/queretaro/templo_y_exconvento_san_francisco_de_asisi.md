@@ -1,18 +1,18 @@
 ---
 title: Templo y Exconvento San Francisco de Asisi
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - church
-latitude: 20.5931
-longitude: -100.3911
-score: 7.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/QRO
+latitude: 20.59311
+longitude: -100.39111
+score: 7.4
+tags:
+- things_to_do
+- church
+- architecture
+- history
 ---
 
-The Templo y Exconvento San Francisco de Asisi is one of the anchors of Querétaro's historic centre. Work began in the late 16th century, and the complex later served as the city's cathedral before the seat moved to San Felipe Neri.
+Templo y Exconvento San Francisco de Asisi is one of Queretaro's key colonial religious sites. Construction began in 1589, with the church completed in 1640 and the cloister in 1698.
 
-The church is richly decorated, but the former convent is just as important: it houses the Museo Regional, where colonial art, religious sculpture, and regional history fill the old cloister rooms.
+The complex is worth a deliberate stop for its ornate interior, historic role as Queretaro's former cathedral, and central location near the old city's main sights.

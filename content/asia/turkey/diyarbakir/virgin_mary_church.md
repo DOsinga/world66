@@ -5,7 +5,7 @@ tags:
   - things_to_do
   - sight
   - church
-  - history
+  - historic
 latitude: 37.9089
 longitude: 40.2306
 score: 7.2
@@ -13,4 +13,4 @@ source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Diyarbakir
 ---
 
-Virgin Mary Church is one of Diyarbakir's most important Syriac Orthodox sites, with roots traditionally traced back to the early Christian centuries. The basalt-walled church is a quiet counterpoint to the city's great mosques and caravanserais; if services are under way, you may hear Aramaic chant in a city better known for its Islamic architecture.
+Virgin Mary Church is a Syrian Orthodox church in Diyarbakır's old city, with roots traditionally traced back to the 3rd century. It is a small but memorable stop among the city's mosques, churches, and basalt lanes, especially if you are interested in the older Christian communities of southeastern Turkey.

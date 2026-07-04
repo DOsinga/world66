@@ -1,19 +1,15 @@
 ---
-title: "Travertine Curtain"
+title: Travertine Curtain
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - geology
-  - waterfall
-  - nature
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Taqah
 latitude: 17.076764
 longitude: 54.434956
-score: 7.1
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Taqah"
+score: 7.0
+tags:
+  - things_to_do
+  - nature
+  - geology
 ---
 
-The Travertine Curtain is a high limestone escarpment east of Taqah, streaked by mineral deposits from seasonal water flowing out of Wadi Darbat. During the khareef, water can pour over the cliff face and turn the dry wall into one of Dhofar's stranger natural spectacles.
-
-Outside the monsoon it is still worth a look if you are already exploring Wadi Darbat and the Taqah area. The interest is geological as much as scenic: the pale curtain shows where water has been building stone, layer by layer.
+The Travertine Curtain is a high escarpment shaped by calcium carbonate deposits from seasonal water flow. During the khareef, water from Wadi Darbat spills over the cliff, turning the pale mineral formations into one of the area's more unusual natural sights.

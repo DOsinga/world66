@@ -1,16 +1,16 @@
 ---
 title: Paseo Maritimo
 type: poi
+latitude: 36.50709
+longitude: -4.88754
+score: 7.0
 tags:
-- things_to_do
-- sight
-- promenade
-- beach
-latitude: 36.5071
-longitude: -4.8875
-score: 6.7
+  - things_to_do
+  - promenade
+  - walking
+  - beach
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Guadalmina
 ---
 
-Marbella's Paseo Maritimo is the seafront walk that ties the resort together. The palm-lined promenade runs for kilometres beside the Mediterranean, with beaches, cafes, bars, and people-watching all along the way.
+Marbella's Paseo Maritimo is a palm-lined seafront promenade running along the Mediterranean. It is the easiest way to link the central beaches, cafes, restaurants, and evening people-watching without leaving the waterfront.

@@ -3,14 +3,15 @@ title: Akiyama Brothers Birthplace
 type: poi
 tags:
   - things_to_do
-  - sight
+  - museum
   - historic_house
-  - history
 latitude: 33.842416
 longitude: 132.771461
-score: 6.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Dogo_Onsen
+source_url: "https://en.wikivoyage.org/wiki/Dogo_Onsen"
+score: 6.8
 ---
 
-This preserved birthplace introduces brothers Akiyama Yoshifuru and Akiyama Saneyuki, two Matsuyama-born military figures who became national heroes in modern Japan. The small site is best for travellers with an interest in Meiji-era history and the city's samurai background.
+The Akiyama Brothers Birthplace preserves the childhood home of Akiyama Yoshifuru and Akiyama Saneyuki, two Matsuyama-born military figures from the Meiji period. The small museum explains their lives and the city's connection to modern Japanese military history.
+
+It works best as a short historical stop near central Matsuyama, especially if you are also visiting Saka no Ue no Kumo Museum or Matsuyama Castle.

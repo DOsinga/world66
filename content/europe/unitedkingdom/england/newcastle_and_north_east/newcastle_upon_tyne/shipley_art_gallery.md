@@ -2,16 +2,14 @@
 title: Shipley Art Gallery
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - gallery
-  - art
-latitude: 54.9501
-longitude: -1.6003
-score: 7.0
+- things_to_do
+- museum
+- art
+latitude: 54.95005
+longitude: -1.60033
+score: 6.9
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Gateshead
 ---
 
-Shipley Art Gallery is a small Gateshead gallery with a strong collection of British and Dutch art, decorative craft and design. Ceramics, textiles, furniture, wood, glass and metalwork give it a broader feel than a standard painting gallery, and it pairs easily with a Quayside visit.
-
+Shipley Art Gallery is a compact Gateshead gallery with collections of Dutch and British art, ceramics, textiles, glass, wood and metalwork. It is a worthwhile add-on for visitors crossing the river from central Newcastle to see the Quayside galleries.

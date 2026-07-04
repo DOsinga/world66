@@ -1,17 +1,17 @@
 ---
 title: "JungleLand Adventure Theme Park"
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Bogor
+latitude: -6.57413
+longitude: 106.89359
+score: 6.2
 tags:
   - things_to_do
   - amusement_park
   - family
-latitude: -6.5741
-longitude: 106.8936
-score: 6.2
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Bogor"
 ---
 
-JungleLand is Bogor's big ride-focused amusement park, with roller coasters, family attractions, and stage shows in the Sentul area. It is less about local character than about giving children and teenagers a full day of noise, queues, and motion.
+JungleLand Adventure Theme Park is a large amusement park near Bogor, focused on rides, shows, and family entertainment. It is most useful for families spending extra time around Bogor or Sentul rather than for a quick cultural stop.
 
-Come for the rides rather than the scenery, and check opening days before building a trip around it.
+Go for a half-day or full-day outing, and check current opening days before travelling out. The park is about easy entertainment, not local history.

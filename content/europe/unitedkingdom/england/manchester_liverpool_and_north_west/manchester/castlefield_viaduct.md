@@ -1,16 +1,15 @@
 ---
 title: Castlefield Viaduct
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Castlefield
 tags:
   - things_to_do
-  - castlefield
-  - architecture
   - garden
-latitude: 53.4752
-longitude: -2.2552
-score: 7.3
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Manchester"
+  - architecture
+latitude: 53.475202
+longitude: -2.255202
+score: 7.0
 ---
 
-Castlefield Viaduct is a Victorian railway structure reused as a raised garden above one of Manchester's most atmospheric old industrial districts. It is a compact visit, but the mix of brick arches, planting, canal views, and railway history makes it an easy add-on to the Science and Industry Museum.
+Castlefield Viaduct is a Victorian railway structure reused as an elevated garden. The short sky-park walk gives a different angle on Castlefield's canals, warehouses, and railway arches.

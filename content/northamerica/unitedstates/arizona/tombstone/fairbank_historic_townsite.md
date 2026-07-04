@@ -1,16 +1,15 @@
 ---
 title: "Fairbank Historic Townsite"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Pearce"
+latitude: 31.722491
+longitude: -110.188356
+score: 7.0
 tags:
   - things_to_do
-  - sight
   - ghost_town
-  - history
-latitude: 31.7225
-longitude: -110.1884
-score: 7.3
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Tombstone"
+  - historic_site
 ---
 
-Fairbank Historic Townsite is a preserved ghost town on the San Pedro River, once a rough rail stop and supply point for Tombstone. A few buildings still stand among the cottonwoods, making it a good short trip for travelers who want the Old West without the staged gunfight feel.
+Fairbank Historic Townsite is a preserved ghost town in the San Pedro Riparian National Conservation Area. It once served Tombstone's mines and stage routes; today the remaining buildings and former schoolhouse make it a worthwhile short detour for travellers following the area's frontier history.

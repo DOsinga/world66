@@ -3,7 +3,7 @@ title: Stanway House and Gardens
 type: poi
 latitude: 51.9899
 longitude: -1.9122
-score: 7.2
+score: 7.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Winchcombe
 tags:
@@ -13,6 +13,6 @@ tags:
   - garden
 ---
 
-Stanway House is a Jacobean manor in a small Cotswold village north of Cheltenham. The house has an old, lived-in feel, but the gardens are the showpiece, especially the tall single-jet fountain that shoots above the lawns.
+Stanway House is a Jacobean manor house north of Cheltenham, set in Cotswold countryside near Winchcombe. The house and gardens are the main reason to come, but the estate is best known for its single-jet fountain, billed as the tallest in Britain.
 
-Opening times are limited, so plan before setting out. It fits well with Winchcombe, Sudeley Castle, or a slow day through the northern Cotswolds.
+Opening days can be limited, so check before building a Cotswolds day around it.

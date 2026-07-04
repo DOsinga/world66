@@ -1,17 +1,12 @@
 ---
 title: Government Museum
 type: poi
-tags:
-  - things_to_do
-  - museum
-  - history
-latitude: 11.4121
-longitude: 76.7127
-score: 6.8
+latitude: 11.412142
+longitude: 76.712728
+score: 6.2
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Nilgiri_Mountain_Railway
+tags: [things_to_do, museum, history]
 ---
 
-Ooty's Government Museum occupies the old Stone House, the 1823 bungalow built for John Sullivan, the British collector who helped establish the hill station. The building alone gives the museum some weight: it is one of Ooty's key colonial-era landmarks.
-
-Inside, the displays look at the Nilgiri region through local history, tribal culture, archaeology and natural history. It is not a flashy museum, but it gives useful context before you head deeper into the hills.
+Ooty's Government Museum is housed in the Stone House, the 1823 bungalow of John Sullivan and one of the town's earliest colonial buildings. Its galleries cover Nilgiri culture, archaeology, flora, fauna, and local tribal history.

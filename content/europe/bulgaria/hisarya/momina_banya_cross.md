@@ -1,16 +1,17 @@
 ---
-title: "Momina Banya Cross"
+title: Momina Banya Cross
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - viewpoint
-  - walking
-latitude: 42.5257
-longitude: 24.7234
-score: 6.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Hisarya
+latitude: 42.52566
+longitude: 24.72335
+score: 6.2
+tags:
+- things_to_do
+- viewpoint
+- walking
 ---
 
-The Momina Banya Cross stands on a low rise northeast of Hisarya's centre, above the Momina Banya quarter. It is a simple local landmark, but the observation deck and picnic shelter make it a pleasant short walk for views back over town.
+Momina Banya Cross stands on a low rise above the Momina Banya quarter, northeast of central Hisarya. The large white cross is a simple landmark, but the small observation deck gives good views back over the town and the surrounding plain.
+
+It is best as a short walk or picnic stop when you have already seen Hisarya's Roman walls, baths, and springs.

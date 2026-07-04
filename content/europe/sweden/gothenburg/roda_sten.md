@@ -1,16 +1,17 @@
 ---
-title: Röda Sten
+title: Roda Sten
 type: poi
+latitude: 57.689187
+longitude: 11.90158
 tags:
   - things_to_do
-  - museum
   - art
-  - gallery
-latitude: 57.6892
-longitude: 11.9016
-score: 7.1
+  - culture
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/GOT
+source_url: "https://en.wikivoyage.org/wiki/GOT"
+score: 7.2
 ---
 
-Röda Sten is Gothenburg's rough-edged contemporary art hall, set in a former industrial building near the Älvsborg Bridge. The graffiti-covered exterior and harbour setting give it a different mood from the city's formal museums, and the exhibitions lean experimental rather than polished.
+Roda Sten is an art hall in a former industrial furnace station near the harbour. The graffiti-covered setting gives it a rougher edge than Gothenburg's formal museums, and the programme mixes exhibitions with workshops and events.
+
+It is worth checking the current schedule before going, as the appeal depends on what is on.

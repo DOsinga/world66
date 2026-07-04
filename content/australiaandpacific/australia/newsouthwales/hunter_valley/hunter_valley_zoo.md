@@ -1,16 +1,15 @@
 ---
-title: "Hunter Valley Zoo"
+title: Hunter Valley Zoo
 type: poi
 tags:
   - things_to_do
-  - sight
   - zoo
-  - wildlife
+  - family
 latitude: -32.797591
 longitude: 151.363388
-score: 6.7
+score: 6.8
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Broke"
+source_url: https://en.wikivoyage.org/wiki/Broke
 ---
 
-Hunter Valley Zoo is a compact wildlife stop near the wine country, with Australian animals alongside exotic mammals, birds and reptiles. It works best as a family break between cellar doors or as an easy animal-focused outing if you are staying around Pokolbin and Broke.
+Hunter Valley Zoo is a small zoo with Australian and exotic mammals, birds, and reptiles. It is one of the Hunter Valley's more useful family stops, especially for travellers balancing wineries and gardens with something more hands-on for children.

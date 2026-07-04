@@ -1,18 +1,16 @@
 ---
 title: Parque Urbano Kabah
 type: poi
+latitude: 21.142334
+longitude: -86.837808
+score: 6.4
 tags:
   - things_to_do
-  - sight
   - park
-  - wildlife
-latitude: 21.1423
-longitude: -86.8378
-score: 6.5
+  - nature
+  - family
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Cancun
 ---
 
-Parque Urbano Kabah is Cancun's main urban nature break, a patch of protected greenery with walking paths, exercise areas, playgrounds, and enough wildlife to make it feel removed from the hotel-zone version of the city. Coatis, iguanas, turtles, and plenty of birds are commonly seen.
-
-It is most useful for travellers staying downtown or families who need a low-key morning outside. Go early for cooler air and better wildlife watching.
+Parque Urbano Kabah is a green break from Cancun's traffic, with short trails through dense vegetation and frequent wildlife sightings. Coatis, iguanas, turtles, and birds are common, and there are playgrounds and exercise areas if you want an easy family stop away from the beaches.

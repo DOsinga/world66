@@ -3,14 +3,15 @@ title: HaMiffal
 type: poi
 tags:
   - things_to_do
-  - gallery
   - arts
-  - culture
+  - gallery
 latitude: 31.776921
 longitude: 35.22157
-score: 6.6
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Jerusalem/West
+source_url: "https://en.wikivoyage.org/wiki/Jerusalem/West"
+score: 6.5
 ---
 
-HaMiffal is an independent art and culture centre in a converted Jerusalem building. Drop in for changing exhibitions, workshops, performances, and the kind of informal creative energy that feels different from the city's larger museums.
+HaMiffal is a public art and cultural space in central Jerusalem, with galleries, workshops, and performances in a building run as a creative project. It is best for visitors who want a small contemporary stop between the Old City edge and the western city centre.
+
+Check the current programme before going, since the appeal depends on what is installed or happening that week.

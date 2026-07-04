@@ -1,18 +1,17 @@
 ---
-title: Malmö Konsthall
+title: "Malmö Konsthall"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/MMX"
 tags:
   - things_to_do
   - museum
   - art
-  - gallery
-latitude: 55.5954
-longitude: 12.9992
-score: 7.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/MMX
+latitude: 55.59542
+longitude: 12.99919
+score: 7.2
 ---
 
-Malmö Konsthall is one of Sweden's strongest contemporary art spaces, opened in 1975 in a low, light-filled building near the city centre. The programme changes often and leans toward serious, large-scale exhibitions rather than a small permanent collection.
+Malmö Konsthall is one of Malmö's main contemporary art venues, opened in 1975 and known for large-scale temporary exhibitions. Its open gallery space suits installations, painting, photography, and experimental work.
 
-Even if the current show is not familiar, the scale and calm of the space make it worth checking when you are moving between Möllevången and the old centre.
+It is close to the city centre and works well with Malmö's other design and art stops.

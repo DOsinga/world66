@@ -1,19 +1,17 @@
 ---
 title: Albay Park and Wildlife
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
-  - wildlife
-  - family
 latitude: 13.1576
 longitude: 123.7309
-score: 6.1
+score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/DRP
+tags:
+  - things_to_do
+  - zoo
+  - family
 ---
 
-Albay Park and Wildlife is a simple city park and small zoo near Legazpi, with picnic space and animal enclosures that include crocodiles, birds, and other local crowd-pleasers. It is not polished, but it gives families an easy outdoor stop close to Lignon Hill and the airport side of town.
+Albay Park and Wildlife is a small zoological park and picnic area near Lignon Hill. It is a low-key family stop, with animals such as crocodiles, birds, and other local wildlife rather than a polished big-city zoo.
 
-Treat it as a relaxed local outing rather than a major wildlife attraction.
+It works best as a short add-on if you are already visiting Lignon Hill or travelling with children who need a break from churches, viewpoints, and volcano scenery.

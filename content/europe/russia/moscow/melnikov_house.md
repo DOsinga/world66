@@ -1,16 +1,15 @@
 ---
 title: Melnikov House
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - historic_house
-latitude: 55.7481
-longitude: 37.5894
-score: 8.0
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Moscow/Central-West"
+latitude: 55.748066
+longitude: 37.589448
+score: 7.8
+tags:
+  - things_to_do
+  - architecture
+  - museum
 ---
 
-Melnikov House is the strange, brilliant home that architect Konstantin Melnikov built for himself in 1929. Its interlocking cylindrical forms make it one of Moscow's great constructivist buildings, though visits are limited and usually need advance booking.
+Melnikov House was the home and studio of constructivist architect Konstantin Melnikov, built in 1929 as two interlocking cylindrical towers. Visits are usually by pre-booked guided tour.

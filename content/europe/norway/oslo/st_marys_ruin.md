@@ -1,16 +1,17 @@
 ---
-title: "St Mary's Ruin"
+title: "St. Mary's Church Ruin"
 type: poi
+latitude: 59.904
+longitude: 10.7623
+score: 6.8
 tags:
   - things_to_do
-  - sight
+  - historic_site
   - ruins
-  - history
-latitude: 59.9040
-longitude: 10.7623
-score: 6.6
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Protestant_Reformation"
+source_url: https://en.wikivoyage.org/wiki/Protestant_Reformation
 ---
 
-The ruins of St Mary's Church stand in Old Oslo, a reminder of the medieval city before power shifted toward Copenhagen under Danish-Norwegian rule. From 1314, the provost of the church also served as chancellor of Norway, giving the site more political weight than the remaining stones suggest. It is a quiet historic stop rather than a showpiece.
+The ruins of St. Mary's Church sit in Old Oslo, close to the medieval core of the city. The church once had unusual political weight: its provost also served as Chancellor of Norway from the early 14th century.
+
+Only ruins remain, but they help make sense of Oslo before the modern capital shifted westward. Stop here while walking the medieval sites around Gamlebyen and the waterfront.

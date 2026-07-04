@@ -1,17 +1,18 @@
 ---
-title: "Taveli Mahal"
+title: Taveli Mahal
 type: poi
 tags:
   - things_to_do
-  - sight
+  - museum
   - architecture
-  - palace
   - history
-latitude: 22.3545
-longitude: 75.3940
-score: 6.5
+latitude: 22.35451
+longitude: 75.39397
+score: 6.4
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Mandav"
 ---
 
-Taveli Mahal stands by the entrance to Mandu's Royal Complex, close to the bigger-ticket palaces. Its lower level probably served as stables, with rooms above for cavalry staff, making it a practical piece of court architecture rather than another pleasure pavilion.
+Taveli Mahal stands near the entrance to Mandu's Royal Complex. The three-storey building probably served as stables below and quarters for cavalrymen and horse caretakers above.
+
+The lower floors now house an Archaeological Survey of India museum, making it a useful stop before or after seeing Jahaz Mahal and the rest of the complex.

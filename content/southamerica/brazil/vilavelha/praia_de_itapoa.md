@@ -1,16 +1,14 @@
 ---
 title: "Praia de Itapoã"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - beach
-  - swimming
 latitude: -20.3526
 longitude: -40.2834
-score: 6.7
+score: 6.6
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Vila_Velha_(Esp%C3%ADrito_Santo)
+source_url: "https://en.wikivoyage.org/wiki/Vila_Velha_(Esp%C3%ADrito_Santo)"
+tags:
+  - things_to_do
+  - beach
 ---
 
-Praia de Itapoã continues the long sandy sweep south from Praia da Costa, with palms, benches, beach umbrellas, and restaurants that often spill music toward the sand. It is a practical Vila Velha beach choice, and usually feels less affected by industrial runoff than some beaches farther north.
+Praia de Itapoã continues Vila Velha's long urban beachfront south of Praia da Costa. It is a practical beach stop with palms, benches, umbrellas, and nearby restaurants, and is often a better swimming choice than beaches farther north.

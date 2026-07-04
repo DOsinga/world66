@@ -1,18 +1,12 @@
 ---
 title: Shiki No Sato
 type: poi
+tags: [things_to_do, park, family]
 latitude: 37.712766
 longitude: 140.36266
-score: 6.4
+score: 6.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Fukushima
-tags:
-  - things_to_do
-  - park
-  - family
-  - craft
 ---
 
-Shiki No Sato is a countryside park west of Fukushima with gardens, craft workshops, animal areas, restaurants, and seasonal produce. It works best as a relaxed family stop or an easy add-on when heading toward the hot-spring villages in the hills.
-
-The appeal is gentle rather than grand: a place to slow down, let children roam, and get a small taste of the region's rural side without leaving the city far behind.
+Shiki No Sato is a family-oriented countryside park outside central Fukushima, with farm activities, animal areas, crafts, a watermill, places to eat, and nearby hot-spring options. It is most worthwhile for visitors travelling with children or pairing it with the Tsuchiyu Onsen area.

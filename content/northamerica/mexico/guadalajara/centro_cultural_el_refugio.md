@@ -1,15 +1,18 @@
 ---
 title: Centro Cultural El Refugio
 type: poi
+latitude: 20.64204
+longitude: -103.31292
+snippet: Former hospital turned cultural centre in Tlaquepaque
 tags:
-  - things_to_do
-  - sight
-  - culture
-  - architecture
-latitude: 20.6420
-longitude: -103.3129
+- things_to_do
+- museum
+- tlaquepaque
 score: 7.1
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Guadalajara
 ---
-Centro Cultural El Refugio fills a former 19th-century hospital in Tlaquepaque with exhibitions, craft displays, and cultural events. The old wards and courtyards are worth a look even between shows, and the ceramics displays fit naturally into a neighbourhood known for its makers.
+
+Centro Cultural El Refugio fills a large 1885 former hospital in Tlaquepaque. The building now hosts exhibitions, cultural events, and the Pantaleon Panduro collection, which displays prize-winning pieces from Mexico's National Ceramics Contest.
+
+It is worth pairing with [El Parian](/northamerica/mexico/guadalajara/cantina_el_parian) and the surrounding craft shops. The building itself is part of the appeal: long corridors, courtyards, and the slightly solemn scale of a 19th-century institution reused for art.

@@ -1,16 +1,16 @@
 ---
 title: Kemnade Castle
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - castle
-  - museum
 latitude: 51.4076
 longitude: 7.2494
-score: 6.7
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Hattingen"
+source_url: https://en.wikivoyage.org/wiki/Hattingen
+tags:
+  - things_to_do
+  - castle
+  - museum
+  - history
 ---
 
-Kemnade Castle is a moated castle beside the Ruhr, close enough to combine with a riverside walk or cycle ride. Inside are museum collections, including historic musical instruments, while the courtyard and chapel give the place enough atmosphere to justify a short detour.
+Kemnade Castle is a medieval water castle beside the Ruhr. Its historic rooms and museum displays make it a useful stop with Lake Kemnade, the riverfront, or the mining trails nearby.

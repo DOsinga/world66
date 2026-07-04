@@ -1,16 +1,16 @@
 ---
 title: "Galärvarvskyrkogården"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - cemetery
-  - history
 latitude: 59.32803
 longitude: 18.09366
 score: 6.4
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/ABBA_Museum"
+tags:
+  - things_to_do
+  - cemetery
+  - memorial
+  - history
 ---
 
-Galärvarvskyrkogården is a small cemetery on Djurgården, close to several of Stockholm's big museums. It includes the memorial to the M/S Estonia disaster and graves of notable Swedes, including ABBA manager Stikkan Anderson.
+Galärvarvskyrkogården is a small historic cemetery on Djurgården. It contains the memorial to the M/S Estonia ferry disaster of 1994, along with graves of prominent Swedes, including Stikkan Anderson, the ABBA manager who founded the Polar Music Prize.

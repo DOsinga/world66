@@ -1,18 +1,15 @@
 ---
 title: Huayan Tourist Park
 type: poi
+latitude: 29.49058
+longitude: 106.44029
+score: 7.0
 tags:
   - things_to_do
-  - sight
   - temple
-  - park
-latitude: 29.4906
-longitude: 106.4403
-score: 6.6
+  - sight
+  - garden
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/CKG
 ---
-
-Huayan Tourist Park is a Buddhist temple complex set around a small lake in western Chongqing. Its large golden Buddha, monastery buildings, and wooded slopes make it feel surprisingly calm for a place wrapped by the city.
-
-The park is worth considering if you have already seen Chongqing's central sights and want a quieter religious site. It is more local than grand, but the valley setting gives it an easy charm.
+Huayan Tourist Park is a Buddhist temple complex in Chongqing, set in a green valley around a small lake. The monastery and large golden Buddha make it a calm religious sight within the urban area.

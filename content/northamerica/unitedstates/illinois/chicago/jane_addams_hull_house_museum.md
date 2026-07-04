@@ -1,15 +1,16 @@
 ---
-title: Jane Addams Hull-House Museum
+title: "Jane Addams Hull-House Museum"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Chicago/Greektown"
 tags:
   - things_to_do
-  - the_loop
   - museum
   - history
-latitude: 41.8720
-longitude: -87.6473
-score: 7.3
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Chicago/Greektown
+  - social_history
+latitude: 41.872028
+longitude: -87.64725
+score: 8.0
 ---
-The Jane Addams Hull-House Museum preserves two surviving buildings from the settlement house where Addams and her colleagues worked with immigrant communities on the Near West Side. The exhibits connect social reform, labour history, women's history, and Chicago's immigrant story in a way that feels rooted in the city rather than abstract.
+
+The Jane Addams Hull-House Museum preserves two surviving buildings from the settlement house where Jane Addams worked with Chicago's immigrant communities. Exhibits connect the site's local history with wider questions of reform, labour, immigration, and social justice.

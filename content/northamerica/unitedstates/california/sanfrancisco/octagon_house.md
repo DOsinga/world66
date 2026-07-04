@@ -1,16 +1,18 @@
 ---
-title: "Octagon House"
+title: The Octagon House
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - architecture
-  - historic_house
+- things_to_do
+- museum
+- historic_house
+- architecture
 latitude: 37.7978
 longitude: -122.4274
-score: 6.8
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Golden_Gate_Bridge
 ---
 
-The Octagon House is an eight-sided 1861 house built during a brief American fashion for healthier, better-lit octagonal homes. It now works as a small museum, with period furniture and historical material inside an unusually shaped landmark near Pacific Heights.
+The Octagon House is an unusual eight-sided house from 1861, built during a 19th-century fashion for octagonal homes that were thought to improve light, air, and health. Its cupola, roof lanterns, and compact plan make it a small but memorable piece of San Francisco architecture.
+
+The house now operates as a museum focused on American colonial and early California decorative arts. Opening times can be limited, so check before making a special trip.

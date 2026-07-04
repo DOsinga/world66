@@ -1,18 +1,12 @@
 ---
 title: Corris Railway
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - railway
-  - heritage
-latitude: 52.6473
-longitude: -3.8431
+tags: [things_to_do, railway, heritage]
+latitude: 52.64728
+longitude: -3.84313
 score: 6.6
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Machynlleth
+source_url: https://en.wikivoyage.org/wiki/Snowdon
 ---
 
-Corris Railway is a short revived section of a narrow-gauge line that once carried slate through the Dyfi valley. The present ride is less than a mile, so treat it as a compact heritage stop rather than a full day out.
-
-It is still worth the detour if old Welsh railways interest you. The small scale is part of the charm: restored engines, volunteers, and mountain scenery wrapped into a simple ride from Corris.
+The Corris Railway is a short narrow-gauge heritage railway at Corris, north of Machynlleth. Only a small section of the line has been revived since the original railway closed in 1948, but the ride gives a compact taste of mid-Wales industrial railway history.

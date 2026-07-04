@@ -1,16 +1,17 @@
 ---
-title: Chrisi Ammos
+title: "Chrisi Ammos"
 type: poi
-tags:
-- things_to_do
-- sight
-- beach
-- swimming
-latitude: 37.7040
-longitude: 26.6440
-score: 7.2
+latitude: 37.704029
+longitude: 26.644011
+score: 6.7
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/SMI"
+tags:
+  - things_to_do
+  - beach
+  - nature
 ---
 
-Chrisi Ammos is a sandy, shallow-water beach on Samos, good for an easy swim rather than a rugged coast walk. Sunbeds, umbrellas, and a restaurant make it a comfortable choice, especially if you want a beach day without much planning.
+Chrisi Ammos is a sandy beach on Samos with shallow water and a sheltered feel. The beach is about 400 metres long, making it easy to settle in for a swim without needing a long walk along the coast.
+
+It is best for travellers who want a simple beach stop on the island's western side, especially when paired with Mount Kerkis or the Cave of Pythagoras nearby.

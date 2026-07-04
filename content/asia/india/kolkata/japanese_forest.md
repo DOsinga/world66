@@ -1,17 +1,15 @@
 ---
-title: Japanese Forest
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - garden
-latitude: 22.5948
-longitude: 88.4694
-score: 6.5
+latitude: 22.59482
+longitude: 88.46944
+score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kolkata/EM_Bypass
+tags:
+  - things_to_do
+  - garden
+  - park
+title: Japanese Forest
+type: poi
 ---
 
-Japanese Forest is a themed garden in eastern Kolkata, built around the visual language of traditional Japanese landscapes. Torii gates, koi ponds, stone lanterns, bonsai, and pagoda-like structures make it a gentle change of pace from the city's denser central sights.
-
-It is more of a quiet stroll than a major attraction, but it works well if you are already exploring the newer parks and museums along the EM Bypass side of the city.
+Japanese Forest is a themed garden in Kolkata with torii gates, koi ponds, stone lanterns, bonsai, and a pagoda-like structure. It is a small but distinctive stop for a quiet walk.

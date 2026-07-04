@@ -1,18 +1,18 @@
 ---
 title: Cami dels Degotalls
 type: poi
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Montserrat_Natural_Park
 tags:
   - things_to_do
-  - sight
-  - walking
-  - pilgrimage
-latitude: 41.5947
-longitude: 1.8402
-score: 6.5
+  - walk
+  - viewpoint
+  - nature
+latitude: 41.59474
+longitude: 1.84019
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Montserrat_Natural_Park
+score: 6.8
 ---
 
-Cami dels Degotalls is an easy walking route near the monastery, lined with devotional images of the Virgin Mary from towns around Catalonia. It is quieter than the main basilica approach and gives Montserrat's pilgrimage culture a more intimate setting.
+Cami dels Degotalls is an easy walking path near the Montserrat monastery, useful for visitors who want mountain views without committing to a harder hike. The route follows the slope through pines and rocky scenery, with religious plaques and small devotional details along the way.
 
-The walk is best treated as a gentle pause rather than a mountain hike. It suits visitors who want a short route with views, shade, and a sense of why the mountain matters to Catalans.
+It is a good short add-on after visiting the basilica and museum, especially when the main monastery area feels crowded.

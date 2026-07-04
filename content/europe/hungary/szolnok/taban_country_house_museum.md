@@ -1,15 +1,17 @@
 ---
-title: Tabán Country House Museum
+title: "Tabán Country House Museum"
 type: poi
-tags:
-- things_to_do
-- museum
-- historic_house
-latitude: 47.1762
-longitude: 20.2031
-score: 6.3
+latitude: 47.1761929
+longitude: 20.2030596
+score: 6.4
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Szolnok"
+tags:
+  - things_to_do
+  - museum
+  - historic_house
 ---
 
-The Tabán Country House Museum preserves a fisherman's home from Szolnok's old Tabán district. Built in the early 20th century but rooted in an older riverside way of life, it gives a small, grounded look at the town before modern blocks and traffic changed the banks of the Tisza.
+Tabán Country House Museum preserves a fisherman's home from the older Tabán district of Szolnok. Built in 1930, it gives a small but useful look at local domestic life before the city took on its more modern shape.
+
+The museum is close enough to combine with the art colony, the gallery, and a walk by the Tisza.

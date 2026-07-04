@@ -1,18 +1,17 @@
 ---
-title: Adlerturm
+title: "Adlerturm"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/DTM"
 tags:
   - things_to_do
   - museum
-  - history
-  - family
+  - historic_site
 latitude: 51.5103
 longitude: 7.4693
-score: 6.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/DTM
+score: 6.6
 ---
 
-Adlerturm is a rebuilt medieval tower on the edge of Dortmund's old city walls, now used as a small museum about the city in the Middle Ages. The displays are aimed especially at children, with models and hands-on exhibits that make the defensive walls, trades, and daily life of medieval Dortmund easier to picture.
+Adlerturm is a reconstructed medieval tower on Dortmund's old city wall line. Inside is a small children's museum with interactive exhibits about Dortmund in the Middle Ages.
 
-It is a modest stop, but a useful one if you are already walking between the city centre churches and the older civic buildings nearby.
+It is a compact stop near the centre, best combined with the nearby churches and old-town sights.

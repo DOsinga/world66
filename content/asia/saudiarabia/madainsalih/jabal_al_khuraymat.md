@@ -1,18 +1,16 @@
 ---
 title: Jabal al-Khuraymat
 type: poi
+latitude: 26.78314
+longitude: 37.9418
+score: 7.3
 tags:
   - things_to_do
-  - sight
+  - historic_site
   - archaeology
-  - heritage
-latitude: 26.7831
-longitude: 37.9418
-score: 7.5
+  - unesco
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Hegra"
+source_url: https://en.wikivoyage.org/wiki/Hegra
 ---
 
-Jabal al-Khuraymat is one of Hegra's larger necropolis areas, with dozens of Nabataean tombs cut into separate sandstone outcrops. The carvings are generally more weathered than the site's headline tombs, but the spread of monuments gives a strong sense of the scale of the ancient cemetery.
-
-It is best seen as part of a wider Hegra visit. The dry plain, isolated rocks, and worn facades make this a quieter counterpoint to the more polished showpieces.
+Jabal al-Khuraymat is one of Hegra's major necropolis areas, spread across sandstone outcrops cut with dozens of Nabataean tombs. The facades are more weathered than at some of Hegra's better-known clusters, but the scale of the burial ground helps explain the size and importance of the ancient settlement.

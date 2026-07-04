@@ -1,16 +1,18 @@
 ---
-title: Kumlinge Aerial Lighthouse
+title: Kumlinge aerial lighthouse
 type: poi
+latitude: 60.2477
+longitude: 20.7847
 tags:
   - things_to_do
   - sight
   - aviation
   - history
-latitude: 60.2477
-longitude: 20.7847
-score: 6.7
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Kumlinge
+source_url: "https://en.wikivoyage.org/wiki/Kumlinge"
+score: 6.4
 ---
 
-Kumlinge's aerial lighthouse is a rare survivor from the early days of aviation, when pilots still used ground beacons much like ships used maritime lighthouses. The tower is modest, but its story is unusual and fits the Åland islands' wider pattern of navigation aids, sea routes, and remote infrastructure.
+The Kumlinge aerial lighthouse is a rare surviving navigation tower built in 1937 to guide aircraft. These towers played a role similar to maritime lighthouses before radio navigation made them obsolete.
+
+It is a brief but unusual stop for visitors exploring Kumlinge's small historic sights.

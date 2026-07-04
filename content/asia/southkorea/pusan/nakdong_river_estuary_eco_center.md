@@ -1,18 +1,17 @@
 ---
-title: "Nakdong River Estuary Eco Center"
+title: Nakdong River Estuary Eco Center
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - nature
-  - wildlife
+- things_to_do
+- museum
+- nature
 latitude: 35.2146
 longitude: 128.9719
-score: 6.4
+score: 7.0
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Busan/North"
 ---
 
-Nakdong River Estuary Eco Center introduces the wetlands where the Nakdong River meets the sea, one of Busan's better places to understand migratory birds and coastal ecology. The exhibits are modest, but they give useful context before walking the surrounding estuary paths.
+The Nakdong River Estuary Eco Center introduces the wetland ecosystems and migratory birds of the Nakdong River estuary. Exhibits focus on conservation, birdlife, and the ecology of the river mouth, making it a good stop for visitors interested in Busan's natural side.
 
-It is best for birders, families, and travellers who want a quieter side of Busan away from beaches and markets. Go when you have time to combine the centre with the nearby wetland viewpoints.
+It pairs best with time in the surrounding estuary area rather than as a stand-alone museum visit. Bird migration seasons are the most rewarding times to go.

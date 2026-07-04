@@ -1,18 +1,18 @@
 ---
 title: Museum of Industrial Archaeology and Textiles
 type: poi
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Ghent
 tags:
   - things_to_do
   - museum
   - industrial_heritage
   - textiles
-latitude: 51.0595
-longitude: 3.7294
-score: 7.2
+latitude: 51.05951
+longitude: 3.72941
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Gand
+score: 7.0
 ---
 
-This former industrial building tells Ghent's working history through machines, textiles, workshops, and changing exhibitions. It is a useful counterweight to the medieval towers and canal views, showing the city as a place of labour as well as guild halls.
+The Museum of Industrial Archaeology and Textiles, often known as MIAT, fills a former industrial building with exhibits on labour, machinery, and textile production. It is a useful counterpoint to Ghent's medieval centre, showing how the city changed during the industrial age.
 
-The subject matter is practical and hands-on rather than grand. If you like old machinery, social history, or the way cities changed during industrialisation, it is worth making time for.
+The museum is best for visitors who like working machinery, social history, and the practical side of how cloth and factories shaped urban life.

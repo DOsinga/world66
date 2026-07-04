@@ -1,16 +1,16 @@
 ---
 title: Shahriar Literary Museum
 type: poi
+latitude: 38.06964
+longitude: 46.29546
+score: 6.6
 tags:
-- things_to_do
-- museum
-- literature
-- historic_house
-latitude: 38.0696
-longitude: 46.2955
-score: 6.4
+  - things_to_do
+  - museum
+  - literature
+  - maralan
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/TBZ
 ---
 
-This modest house museum preserves the last home of Shahriar, the Tabriz-born poet who wrote in Persian and Azeri. It is a simple domestic interior rather than a polished museum, but literature-minded visitors get a close look at the rooms and belongings of one of Iran's best-known modern poets.
+The Shahriar Literary Museum preserves the last home of Mohammad-Hossein Shahriar, one of Iran's best-known modern poets. The modest 1970s house displays personal objects and introduces his work in Persian and Azeri.

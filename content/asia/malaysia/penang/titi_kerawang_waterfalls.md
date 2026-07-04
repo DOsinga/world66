@@ -1,19 +1,17 @@
 ---
-title: Titi Kerawang Waterfalls
+title: "Titi Kerawang Waterfalls"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Balik_Pulau"
 tags:
   - things_to_do
-  - sight
   - waterfall
-  - swimming
   - nature
-latitude: 5.4033
-longitude: 100.2226
-score: 6.7
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Balik_Pulau
+latitude: 5.403338
+longitude: 100.222566
+score: 6.4
 ---
 
-Titi Kerawang Waterfalls drop through the greener western side of Penang Island, close enough to the road to be an easy stop but still leafy once you follow the short trail down. The lower falls are simple to reach, while the upper section takes more care over rocks and wet ground.
+Titi Kerawang Waterfalls are roadside falls near Balik Pulau, reached by a short trail from the bridge beside the stalls. The lower falls are the easiest to visit, while the upper section is more impressive but needs more care on rocks and uneven ground.
 
-The pool below the upper cascade is the reward on a hot day. Weekends can be busy, and buses on this side of the island are infrequent, so plan the return before you wander in.
+It is a simple nature stop when crossing the quieter western side of Penang Island.

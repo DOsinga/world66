@@ -1,18 +1,17 @@
 ---
-title: "Dupree Nature Preserve"
+title: Dupree Nature Preserve
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-  - hiking
 latitude: 37.7992
 longitude: -84.6432
-score: 6.6
+score: 6.7
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Harrodsburg
+tags:
+- things_to_do
+- nature
+- hiking
 ---
 
-Dupree Nature Preserve protects 300 acres of Kentucky River Palisades south of Harrodsburg. The landscape is classic Bluegrass edge country: limestone cliffs, wooded slopes, river views, and trails that feel surprisingly remote for a short outing.
+Dupree Nature Preserve protects 300 acres along the Kentucky River Palisades, a steep limestone gorge cut by the river. Its trails give access to woodland, river views, and a quieter side of the Bluegrass region.
 
-There are about five miles of walking trails, enough for a solid half-day if you take your time. It is best for hikers who want quiet scenery rather than a heavily built visitor attraction.
+There are about 5 miles of hiking trails. It works best as an outdoor stop paired with Shaker Village of Pleasant Hill or other sights around Harrodsburg.

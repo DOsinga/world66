@@ -1,16 +1,18 @@
 ---
 title: Orchard Beach
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - beach
-  - swimming
-latitude: 40.8653
-longitude: -73.7936
-score: 7.1
+latitude: 40.865302
+longitude: -73.79361
+score: 6.8
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Bronx
+tags:
+  - things_to_do
+  - thebronx
+  - beach
+  - park
 ---
 
-Orchard Beach is the Bronx's big public beach, a 1930s sweep of sand facing Long Island Sound inside Pelham Bay Park. It is busy and very local in summer, with a long promenade, ball courts, picnic areas, and a different New York beach mood from Coney Island or the Rockaways.
+Orchard Beach is the Bronx's classic public beach, a 1.1-mile artificial shoreline created in the 1930s inside Pelham Bay Park. Its nickname, the Bronx Riviera, fits the summer scene: families, picnic coolers, boardwalk views, and Long Island Sound in front of you.
+
+It is a seasonal trip rather than an all-weather sight. In summer, bus service makes it reachable without a car.

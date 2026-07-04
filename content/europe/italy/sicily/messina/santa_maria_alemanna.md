@@ -1,19 +1,16 @@
 ---
-title: Santa Maria Alemanna
+title: "Santa Maria Alemanna"
 type: poi
+latitude: 38.188322
+longitude: 15.556828
 tags:
   - things_to_do
-  - sight
-  - architecture
   - church
-  - gallery
-latitude: 38.1883
-longitude: 15.5568
-score: 6.8
+  - architecture
+  - art
+score: 6.7
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Messina
+source_url: "https://en.wikivoyage.org/wiki/Messina"
 ---
 
-Santa Maria Alemanna is a rare Gothic survivor in Messina, built in the early 13th century and badly damaged in the 1908 earthquake. Its stone arches and stripped-back interior feel very different from the city's later churches.
-
-The former church now hosts exhibitions, so it is worth checking what is on as well as stopping for the architecture.
+Santa Maria Alemanna is a former 13th-century church and one of Messina's rare Gothic buildings. Restored after heavy damage in the 1908 earthquake, it now hosts exhibitions and is worth a look for its architecture.

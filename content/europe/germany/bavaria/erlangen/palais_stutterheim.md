@@ -1,16 +1,12 @@
 ---
 title: Palais Stutterheim
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - museum
-latitude: 49.5973
-longitude: 11.0036
+tags: [things_to_do, architecture, museum, sight]
+latitude: 49.597271
+longitude: 11.00362
 score: 6.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Erlangen
 ---
 
-Palais Stutterheim is an 18th-century town palace that later served as Erlangen's town hall. Today it houses the Kunstpalais and the city library, so it works both as a small architectural stop and as a pleasant public interior in the centre of town.
+Palais Stutterheim is an early-18th-century palace in central Erlangen, built for Christian Hieronymus von Stutterheim and later used as the town hall. It now houses the Kunstpalais and the city library, making it both an architectural stop and a practical cultural venue.

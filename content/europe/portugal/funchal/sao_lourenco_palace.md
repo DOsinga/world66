@@ -4,15 +4,13 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - architecture
+  - palace
+  - historic_site
 latitude: 32.64723
 longitude: -16.90983
-score: 7.2
+score: 7.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/FNC"
+source_url: https://en.wikivoyage.org/wiki/FNC
 ---
 
-São Lourenço Palace is half fortress, half palace, a reminder that Madeira's capital was both a trading prize and a place that needed defending. Its mannerist architecture is the main reason to visit, with formal rooms such as the Noble Salon, Green Room, and Audience Hall showing the ceremonial side of the building.
-
-The gardens soften the military edges, and the palace is central enough to fit easily into a walk through lower Funchal.
-
+São Lourenço Palace is part fortress and part palace, set close to Funchal's waterfront. Its mannerist architecture reflects the building's mixed military and ceremonial role, and visits focus on rooms such as the Noble Salon, the Green Room, the Audience Hall, and the gardens.

@@ -1,19 +1,14 @@
 ---
-title: Abbaye de Sénanque
+title: "Abbaye de Senanque"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - monastery
-  - history
-latitude: 43.9283
-longitude: 5.1869
-score: 8.8
+latitude: 43.928333
+longitude: 5.186944
+tags: [things_to_do, sight, monastery, architecture]
+score: 8.2
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Gordes"
+source_url: https://en.wikivoyage.org/wiki/Gordes
 ---
 
-Abbaye de Sénanque is the Luberon postcard that still earns its fame. The Cistercian abbey was founded in 1148, and its pale Romanesque stone, spare cloister and lavender fields make a beautifully austere scene in the valley below Gordes.
+Abbaye de Senanque is a 12th-century Cistercian abbey in a narrow valley below Gordes. Its plain Romanesque church, cloister and dormitory show the order's austere style at its best.
 
-Guided visits take you through the church, dormitory, chapter house and cloister, with a useful sense of how monastic life worked here and how it continues. In summer the lavender draws crowds, so come early if you want the place to feel quiet.
+The abbey is still a working monastic site, so visits are more structured than at a ruin. The classic view is from the road above, especially when the lavender fields are in bloom in early summer.

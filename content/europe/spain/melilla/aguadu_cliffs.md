@@ -1,17 +1,16 @@
 ---
-title: Aguadú Cliffs
+title: Aguadu Cliffs
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-  - viewpoint
-  - wildlife
-latitude: 35.3141
-longitude: -2.9450
-score: 6.7
+latitude: 35.314100627127516
+longitude: -2.9450153466854996
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/MLN
+tags:
+- things_to_do
+- nature
+- viewpoint
+- coast
+score: 6.8
 ---
 
-The Aguadú Cliffs rise above the coast near Aguadú Beach, giving Melilla one of its better natural viewpoints. The sedimentary cliffs are good for a short walk, sea views, and watching seabirds, especially if you want a break from the old town and borderland history.
+Aguadu Cliffs rise above the coast near Aguadu Beach, with sea views and sedimentary rock formations that make the area stand out from Melilla's urban sights. It is a simple stop for coastal scenery, birdlife, and sunset views.

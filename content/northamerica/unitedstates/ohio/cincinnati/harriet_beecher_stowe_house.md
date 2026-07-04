@@ -5,12 +5,11 @@ tags:
   - things_to_do
   - museum
   - historic_house
-  - history
-latitude: 39.1330
-longitude: -84.4877
+latitude: 39.133022
+longitude: -84.487658
 score: 7.2
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Cincinnati/Eastern
+source_url: "https://en.wikivoyage.org/wiki/Cincinnati/Eastern"
 ---
 
-The Harriet Beecher-Stowe House preserves the Cincinnati home connected with the author of *Uncle Tom's Cabin* and her abolitionist family. Exhibits use the house to talk about slavery, the Underground Railroad, and the arguments over race and reform that shaped the city in the 19th century.
+The Harriet Beecher-Stowe House preserves the Cincinnati home connected with the author of *Uncle Tom's Cabin*. It is a small historic house museum, but a worthwhile stop for visitors interested in abolition history, 19th-century Cincinnati, and the city's role in debates over slavery.

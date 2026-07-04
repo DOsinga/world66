@@ -1,16 +1,17 @@
 ---
 title: "Sporthaven Beach"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - beach
-  - surfing
 latitude: 42.0428
 longitude: -124.2658
-score: 6.4
+score: 6.2
+tags:
+  - things_to_do
+  - beach
+  - surfing
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Brookings-Harbor"
+source_url: https://en.wikivoyage.org/wiki/Brookings-Harbor
 ---
 
-Sporthaven Beach, also known as South Jetty Beach, sits by the harbour entrance at Brookings-Harbor. It is used for surfing, beach walks, and watching fishing boats work their way through the jetty. Conditions at the bar can be rough, which makes the view dramatic but demands common sense near the water.
+Sporthaven Beach, also known as South Jetty Beach, is a working-harbor beach used for surfing, beach walks, and watching fishing boats cross the Chetco River bar. The setting is more rugged than resort-like, with jetty views and Pacific surf.
+
+Come for a short coastal stop near Brookings-Harbor, especially if the surf is active or fishing vessels are moving through the entrance.

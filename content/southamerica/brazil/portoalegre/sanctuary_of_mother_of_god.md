@@ -1,19 +1,15 @@
 ---
-title: "Sanctuary of Mother of God"
+title: Sanctuary of Mother of God
 type: poi
+latitude: -30.09991350731358
+longitude: -51.181741166216085
+score: 6.7
 tags:
-- things_to_do
-- sight
-- church
-- viewpoint
-- architecture
-latitude: -30.0999
-longitude: -51.1817
-score: 6.8
+  - things_to_do
+  - church
+  - viewpoint
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/POA"
+source_url: https://en.wikivoyage.org/wiki/Porto_Alegre
 ---
 
-The Sanctuary of Mother of God stands on a high hill south of central Porto Alegre, with broad views over the city and surrounding landscape. The church itself is modern, built in the 1990s with a design shaped by the exposed, windy site.
-
-It is awkward to reach without a car or taxi, but the combination of architecture, quiet, and lookout makes it worthwhile if you are exploring beyond the centre.
+This hilltop church is little known outside Porto Alegre but rewards the trip with city views. Built in 1992, it stands at one of the area's higher points.

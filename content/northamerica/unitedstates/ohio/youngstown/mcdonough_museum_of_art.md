@@ -9,9 +9,7 @@ latitude: 41.105
 longitude: -80.645
 score: 6.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Youngstown
+source_url: https://en.wikivoyage.org/wiki/Berlin_Center
 ---
 
-The McDonough Museum of Art is Youngstown State University's contemporary art museum, showing faculty and student work alongside travelling exhibitions. It gives the city a more current counterpoint to the classic American collection at the Butler Institute nearby.
-
-It is best treated as a flexible stop: check what is on before making a special trip. When the exhibitions are strong, the museum adds a useful look at Youngstown's present-day arts scene.
+McDonough Museum of Art is Youngstown State University's contemporary art museum. It shows student and faculty work alongside changing exhibitions, making it a useful cultural stop near the campus rather than a static local-history display.

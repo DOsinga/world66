@@ -1,18 +1,17 @@
 ---
 title: Museum of the Order of St John
 type: poi
-tags:
-- things_to_do
-- museum
-- history
-- architecture
-latitude: 51.5220
+latitude: 51.522
 longitude: -0.1028
-score: 7.0
+score: 7.2
+tags:
+  - things_to_do
+  - museum
+  - history
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/London/Clerkenwell
 ---
 
-The Museum of the Order of St John occupies the order's former English headquarters in Clerkenwell, with exhibits tracing the Knights Hospitaller from crusading order to modern first-aid charity. The setting gives the museum much of its appeal: medieval gate, old rooms, and a crypt that can be seen on guided tours.
+The Museum of the Order of St John is set in the former English headquarters of the Knights Hospitaller. Its galleries trace the order from medieval crusading and hospital work through to the modern St John Ambulance movement.
 
-It is a strong small museum for travellers interested in London's religious, medical, or military history. Pair it with a Clerkenwell walk, St John's Gate, and the nearby lanes around Smithfield.
+The building is part of the draw: guided tours can include historic spaces such as the crypt and the old priory church.

@@ -1,16 +1,16 @@
 ---
-title: "Zona Arqueologica de Tehuacan Viejo"
+title: Zona Arqueologica de Tehuacan Viejo
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Tehuac%C3%A1n
 tags:
   - things_to_do
-  - sight
   - archaeology
   - history
-latitude: 18.4541
-longitude: -97.3453
+latitude: 18.454116289058327
+longitude: -97.34529134530717
 score: 7.2
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Tehuac%C3%A1n"
 ---
 
-Tehuacan Viejo was the pre-Hispanic town before the Spanish founded modern Tehuacan. The site is still little known, but several pyramids and stone structures are in good shape, and ongoing restoration gives it a working archaeological feel. From the centre, route 23 toward San Isidro can drop you near the entrance.
+Zona Arqueologica de Tehuacan Viejo preserves the pre-Hispanic settlement that preceded modern Tehuacan. Several pyramids and structures are visible at the site, which is still being studied and restored, and it makes a worthwhile half-day trip from the city center.
+

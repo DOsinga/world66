@@ -2,15 +2,15 @@
 title: Black Diamond Mines Regional Park
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - hiking
-  - mining_history
-latitude: 37.9594
-longitude: -121.8634
-score: 7.6
+- things_to_do
+- nature
+- history
+- hiking
+latitude: 37.959426
+longitude: -121.863384
+score: 8.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Antioch_(California)
 ---
 
-Black Diamond Mines Regional Park protects the remains of old coal and sand mines, vanished mining towns, and dry East Bay hills laced with trails. Guided mine tours add the strongest historical layer, but even without one it is a worthwhile hike through a landscape that looks quiet until you know what was here.
+Black Diamond Mines Regional Park preserves the remains of coal and sand mines and several vanished mining towns. Marked trails cross the hills, and guided tours enter safe sections of the old workings, making it both a hiking area and an industrial history site.

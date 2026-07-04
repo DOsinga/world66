@@ -1,18 +1,17 @@
 ---
-title: "Sakina Khanum Mosque"
+title: Sakina Khanum Mosque
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - mosque
-latitude: 41.3612
-longitude: 48.5116
-score: 6.5
+latitude: 41.361215
+longitude: 48.511642
+score: 6.8
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Guba"
+source_url: https://en.wikivoyage.org/wiki/Guba
+tags:
+- things_to_do
+- mosque
+- architecture
 ---
 
-Sakina Khanum Mosque is a small 19th-century mosque in Quba, built in memory of the writer and military officer Abbasgulu Bakikhanov. Its nine domes and compact, brightly coloured form make it a quieter counterpoint to the better-known Juma Mosque nearby.
+Sakina Khanum Mosque is a 19th-century mosque built by Sakina-Khanum in memory of her husband, Abbas-Kuliaga Bakikhanov. Its nine domes and traditional form make it a useful contrast to Quba's more colourful civic and religious buildings.
 
-It is worth a short stop while walking between central Quba's mosques, museum, and market streets. The building is still a place of worship, so visit respectfully and avoid prayer times.
+It is a short architectural stop rather than a large sight. Combine it with Juma Mosque, the historical museum, and a walk through the older parts of Quba.

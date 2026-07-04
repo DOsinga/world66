@@ -1,17 +1,16 @@
 ---
 title: Eastgate Viewing Chamber
 type: poi
-latitude: 51.8641
-longitude: -2.2438
-score: 6.4
+latitude: 51.864054
+longitude: -2.243836
+score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Gloucester
+source_url: https://en.wikivoyage.org/wiki/GLO
 tags:
   - things_to_do
-  - sight
   - archaeology
   - roman
-  - historic_site
+  - ruins
 ---
 
-The Eastgate Viewing Chamber preserves part of Gloucester's Roman and medieval east gate beneath the modern shopping street. You can glimpse the remains from street level, but the guided access gives a better sense of how the old city defences sat below today's centre.
+Eastgate Viewing Chamber preserves part of Roman Gloucester beneath the modern shopping streets. The remains can be seen from street level, and booked tours from the Museum of Gloucester give a closer look at the city wall, gate structures, and later medieval layers around the old east gate.

@@ -1,15 +1,15 @@
 ---
 title: Army Museum Bandiana
 type: poi
+latitude: -36.147279
+longitude: 146.91706
+score: 7.0
 tags:
   - things_to_do
   - museum
-  - military_history
-latitude: -36.1473
-longitude: 146.9171
-score: 7.1
+  - military
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Military_museums_and_sites_in_Australia
 ---
 
-Army Museum Bandiana is one of the better military collections in regional Australia, with tanks, artillery, trucks, uniforms, and displays on specialist army corps. It is especially strong on the units raised around Albury-Wodonga, so it gives the national story a local edge.
+Army Museum Bandiana covers the history of several Australian Army specialist corps and the locally raised 2/23rd Infantry Battalion. The collection is broad, with tanks, trucks, artillery, uniforms, medals, and smaller military objects, making it one of the stronger specialist museums around Albury-Wodonga.

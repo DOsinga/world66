@@ -3,14 +3,15 @@ title: "Yalta Zoo"
 type: poi
 tags:
   - things_to_do
-  - sight
   - zoo
   - family
 latitude: 44.494444
 longitude: 34.118333
-score: 6.3
+score: 6.2
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Yalta
+source_url: "https://en.wikivoyage.org/wiki/Yalta"
 ---
 
-Yalta Zoo is a family-oriented stop in the hills above town, with a large collection ranging from big cats and bears to monkeys and smaller animals. It is not Yalta's essential sight, but it can work well if you are travelling with children or need a change from palaces and seafront walks.
+Yalta Zoo is a large family attraction in the hills above town, with a varied collection that includes big cats, bears, monkeys, and other animals. Some enclosures are dated, but the zoo remains one of Yalta's main child-friendly stops.
+
+Its location also makes it easy to combine with nearby hillside sights such as Uchan-Su Waterfall or the Chekhov museum.

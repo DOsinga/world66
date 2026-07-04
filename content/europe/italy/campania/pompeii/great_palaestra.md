@@ -1,16 +1,17 @@
 ---
 title: "Great Palaestra"
 type: poi
+latitude: 40.750722
+longitude: 14.493875
+score: 7.3
 tags:
   - things_to_do
-  - sight
-  - archaeology
-  - history
-latitude: 40.7507
-longitude: 14.4939
-score: 7.8
+  - historic_site
+  - ruins
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Pompei"
+source_url: https://en.wikivoyage.org/wiki/Pompei
 ---
 
-The Great Palaestra is the large open exercise ground opposite Pompeii's amphitheatre. Its central space was used for athletic training, with a pool in the middle and long porticoes along three sides. It helps show that Pompeii was not only houses, shops, and temples, but a lived-in Roman city with places for sport and public life.
+The Great Palaestra is one of Pompeii's large public spaces, set opposite the amphitheatre. It was built for exercise and games, with long colonnades around a broad central ground and a pool in the middle.
+
+It is most rewarding as part of a walk through Pompeii's eastern side, where the scale of the sports ground contrasts with the tighter streets and houses nearby.

@@ -5,14 +5,13 @@ tags:
   - things_to_do
   - museum
   - art
-  - historic_house
-latitude: 46.4784
-longitude: 30.7447
-score: 6.4
+latitude: 46.478368
+longitude: 30.744684
+score: 6.7
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/ODS"
 ---
 
-The Bleschunov Collection is a small apartment museum built around the private world of Alexander Bleschunov, an Odessa alpinist and collector. Its rooms hold art, relics, craft objects and travel souvenirs, giving the place a more personal feel than a formal city museum.
+The Bleschunov Collection is a museum apartment formed from the former home of alpinist and collector Alexander Bleschunov. Its rooms display art, relics, crafts, and personal collections gathered across many years.
 
-It is not one of Odessa's grand headline sights, but it suits travellers who like collections with a human story behind them. Pair it with the Literary Museum or the nearby seafront sights rather than crossing town for it alone.
+The appeal is the intimate apartment-museum setting: less monumental than Odessa's major museums, but useful for travellers who enjoy collections shaped by one person's curiosity.

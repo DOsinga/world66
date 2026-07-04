@@ -7,11 +7,11 @@ tags:
   - history
 latitude: -26.8094
 longitude: 152.9648
-score: 6.5
+score: 6.2
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Alexandra_Head
 ---
 
-Landsborough Museum is a small local history museum focused on the Sunshine Coast hinterland. Its collection leans toward the practical side of settler life: farm machinery, household objects, photographs, and the everyday tools that shaped the inland towns behind the beaches.
+Landsborough Museum is a small local-history museum in the Sunshine Coast hinterland, with collections on early settlement, farming, transport, and everyday life away from the beaches. Old machinery and rural objects are the strongest part of the display.
 
-It is a modest stop, but a useful one if you are heading toward the Glass House Mountains or want a break from the coast's surf-and-resort version of the Sunshine Coast.
+It is a modest stop, but useful if you are exploring the Glass House Mountains or the inland towns and want context for the region beyond surf beaches and resorts.

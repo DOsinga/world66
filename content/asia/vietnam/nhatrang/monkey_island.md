@@ -1,19 +1,17 @@
 ---
-title: "Monkey Island"
+title: Monkey Island
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - island
-  - wildlife
-  - family
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/CXR
 latitude: 12.3596
 longitude: 109.2151
-score: 6.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/CXR"
+score: 6.1
+tags:
+  - things_to_do
+  - family
+  - island
 ---
 
-Monkey Island is a small day-trip island north of Nha Trang, reached by ferry from the mainland. The draw is the large population of monkeys, plus simple family attractions such as a small go-kart track and scheduled shows.
+Monkey Island is a small family-oriented excursion north of Nha Trang, reached by ferry. The island is known for its resident monkeys and simple visitor activities.
 
-It is a light, touristy outing rather than a nature reserve. Go for an easy excursion, and keep food and loose belongings out of reach around the monkeys.
+It is best treated as an easy half-day outing rather than a nature reserve. Go with modest expectations and keep food secured around the animals.

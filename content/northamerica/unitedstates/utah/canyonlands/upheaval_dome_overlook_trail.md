@@ -1,20 +1,16 @@
 ---
-title: "Upheaval Dome Overlook Trail"
+title: Upheaval Dome Overlook Trail
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - hiking
-  - geology
-  - viewpoint
 latitude: 38.426244
 longitude: -109.926047
-score: 7.4
+score: 7.6
+tags:
+- things_to_do
+- hiking
+- viewpoint
+- nature
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Canyonlands"
-snippet: "Short Island in the Sky hike to viewpoints over Canyonlands' strange circular crater."
+source_url: https://en.wikivoyage.org/wiki/Canyonlands
 ---
 
-Upheaval Dome Overlook Trail is one of the easiest ways to see the park's strangest landform: a broken, pale crater ringed by red rock. The first overlook is a short round trip from the trailhead, with enough height to show the scale of the formation.
-
-Continue to the second overlook if you want a wider angle and fewer people. The trail is exposed, so bring water even though the distance is modest.
+Upheaval Dome Overlook Trail is a short hike in Canyonlands' Island in the Sky district. The first overlook is about a 1-mile round trip, with a longer option continuing to a second view of the unusual crater-like formation.

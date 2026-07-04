@@ -4,15 +4,14 @@ type: poi
 tags:
   - things_to_do
   - museum
-  - art
   - church
 latitude: 47.66923
 longitude: 19.07536
-score: 6.8
+score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Szentendre
+source_url: "https://en.wikivoyage.org/wiki/Szentendre"
 ---
 
-The Serbian Orthodox Ecclesiastical Art Collection is the small museum attached to Szentendre's Orthodox heritage. Its icons, gospel books, liturgical textiles, carved wood, and goldsmith work come from the Serbian churches that shaped the town after the Ottoman period.
+The Serbian Orthodox Ecclesiastical Art Collection holds icons, gospel books, liturgical vessels, textiles, and carved woodwork from Szentendre's Serbian Orthodox community. It gives useful context to the town's churches, which can otherwise feel like isolated monuments without the objects and traditions that shaped them.
 
-It makes most sense after seeing the Belgrade Cathedral and the churches around the old centre. The collection is compact, but it gives useful context for why Szentendre feels so different from other towns near Budapest.
+The collection is especially worthwhile if you are already visiting Belgrade Cathedral or the churches around Templom ter. Allow a short, focused visit rather than a full museum afternoon.

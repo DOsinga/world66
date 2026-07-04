@@ -1,15 +1,15 @@
 ---
 title: Ruins of Komaru Castle
 type: poi
+latitude: 35.897917
+longitude: 136.230167
 tags:
   - things_to_do
-  - sight
-  - castle
+  - ruins
   - history
-latitude: 35.8979
-longitude: 136.2302
-score: 6.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Echizen
+source_url: "https://en.wikivoyage.org/wiki/Echizen"
+score: 6.8
 ---
-Komaru Castle was built in the late 16th century for Sassa Narimasa, a retainer of Oda Nobunaga. Little of the fortress survives, but the foundations, gate traces, and inscribed roof tiles give the site a clear link to the violent politics of Japan's unification period.
+
+The Ruins of Komaru Castle preserve foundations, a gate remnant, and roof tiles from a short-lived castle built in the late 1500s by Sassa Narimasa, a follower of Oda Nobunaga. The site is modest, but it adds useful Sengoku-period context to Echizen's craft and temple stops.

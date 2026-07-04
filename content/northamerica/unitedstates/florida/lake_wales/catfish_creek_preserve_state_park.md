@@ -9,11 +9,11 @@ tags:
   - wildlife
 latitude: 27.98385
 longitude: -81.496917
-score: 7.5
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Dundee_(Florida)
 ---
 
-Catfish Creek Preserve protects a rough, sandy stretch of the Lake Wales Ridge, one of Florida's rarer landscapes. Trails run through scrub, sandhill, and flatwoods habitat, with a real chance of seeing scrub-jays and other wildlife if you walk quietly.
+Allen David Broussard Catfish Creek Preserve protects scrub, sandhill, and flatwoods habitat along the Lake Wales Ridge, one of central Florida's rarest landscapes. Trails run through open sand, pine, and oak scrub where Florida scrub-jays, gopher tortoises, bald eagles, and scrub lizards may be seen.
 
-This is not manicured Florida. Expect sun, sand underfoot, and limited shade, and bring water. The preserve is best for hikers, birders, and anyone who wants to see the dry upland country that once covered much more of central Florida.
+The preserve has about 6 miles of hiking trails and 7 miles of equestrian trails, plus fishing and primitive camping. It is wilder and less manicured than Bok Tower Gardens, and a good stop if you want to see the old Florida landscape around Lake Wales rather than another roadside attraction.

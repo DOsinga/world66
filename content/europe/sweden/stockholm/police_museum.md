@@ -6,10 +6,12 @@ tags:
   - museum
   - history
 latitude: 59.3325
-longitude: 18.1187
-score: 6.7
+longitude: 18.11871
+score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Crime_scene
 ---
 
-Stockholm's Police Museum looks at Swedish police work through crime cases, forensic methods, and the everyday tools of the job. It shares the museum cluster near the National Museum of Science and Technology, so it is easy to pair with other stops.
+Stockholm's Police Museum looks at Swedish policing, crime investigation, and public safety through exhibitions aimed at both adults and children. It shares the Museiparken cluster with other Djurgarden-area museums, making it easy to combine with a wider museum day.
+
+The museum is most useful for travellers who want a smaller, more specific stop beyond Stockholm's headline collections.

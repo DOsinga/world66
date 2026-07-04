@@ -1,17 +1,16 @@
 ---
 title: Ostia Castle
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - castle
-  - architecture
-  - history
 latitude: 41.75927
 longitude: 12.30124
-score: 7.0
+score: 7.2
+tags:
+- things_to_do
+- castle
+- historic_site
+- architecture
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Lido_di_Ostia"
+source_url: https://en.wikivoyage.org/wiki/Lido_di_Ostia
 ---
 
-Ostia Castle stands in the old village beside Ostia Antica, just across the railway from the archaeological site. Giuliano della Rovere, the future Pope Julius II, had it built in 1483, partly with bricks taken from the ancient ruins nearby.
+Ostia Castle stands in the village of Ostia Antica, close to the archaeological site. It was built in 1483 for Giuliano della Rovere, later Pope Julius II, partly using brick taken from ancient Ostia.

@@ -1,18 +1,15 @@
 ---
 title: "Dadaepo Sunset Fountain of Dreams"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - fountain
-  - beach
-latitude: 35.0573
-longitude: 128.9635
-score: 7.0
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Busan/West"
+latitude: 35.057303
+longitude: 128.963473
+score: 6.7
+tags:
+- things_to_do
+- fountain
+- family
 ---
 
-Dadaepo Sunset Fountain of Dreams is a large musical fountain beside Dadaepo Beach, with water jets, lights, and evening shows that feel made for summer nights. It is one of the livelier reasons to head to Busan's western waterfront after the beach crowds thin out.
-
-The show is the point, so check the local schedule before making the trip. Arrive a little early and combine it with a walk on the sand as the light drops over the bay.
+Dadaepo Sunset Fountain of Dreams is a large musical fountain near Dadaepo Beach, with evening shows combining water jets, lights, and music. It is most worthwhile after dark, when the beach setting and illuminated sprays make it a lively family-friendly stop in western Busan.

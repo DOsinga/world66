@@ -1,19 +1,17 @@
 ---
-title: "Berlin Wall Memorial"
+title: Berlin Wall Memorial
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - history
-  - memorial
-  - berlinmitte
-latitude: 52.5337
-longitude: 13.3875
-score: 9.2
+latitude: 52.53374
+longitude: 13.38753
+score: 9.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Berlin/Mitte"
+source_url: https://en.wikivoyage.org/wiki/Berlin/Mitte
+tags:
+- things_to_do
+- historic_site
+- museum
 ---
 
-The Berlin Wall Memorial on Bernauer Strasse is the clearest place in the city to understand what the Wall physically did. A preserved stretch of border fortifications, open-air exhibits, and a viewing platform show the wall, patrol strip, and blocked streets as a system rather than a single slab of concrete.
+The Berlin Wall Memorial runs along Bernauer Strasse, one of the most powerful places to understand how the Wall cut through ordinary streets and lives. The site includes preserved border installations, open-air exhibits, memorials, and a visitor centre.
 
-The site is sobering without the souvenir-shop noise of Checkpoint Charlie. Give it time: the stories of escape tunnels, bricked-up apartment windows, and people killed at the border make the Cold War feel immediate and local.
+Allow time to walk the full stretch rather than treating it as a single marker. The memorial is direct, sober, and far more useful for understanding divided Berlin than most isolated Wall fragments.

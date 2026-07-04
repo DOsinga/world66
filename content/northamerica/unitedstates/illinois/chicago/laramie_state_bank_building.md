@@ -1,17 +1,18 @@
 ---
-title: Laramie State Bank Building
+title: "Laramie State Bank Building"
 type: poi
+latitude: 41.895159
+longitude: -87.755833
+score: 6.7
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Chicago/Austin"
 tags:
   - things_to_do
   - sight
   - architecture
-  - art_deco
-latitude: 41.8952
-longitude: -87.7558
-score: 6.6
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Chicago/Austin
-snippet: Far West Side Art Deco landmark covered in ornate terra-cotta carving
+  - history
 ---
 
-The Laramie State Bank Building is one of Chicago's more out-of-the-way architectural landmarks. Finished in 1929, it wraps a former neighbourhood bank in lively Art Deco terra cotta, with carved figures and geometric detail that reward a close look. It is mainly a stop for architecture fans exploring beyond the Loop.
+The Laramie State Bank Building is an Art Deco landmark in Austin, far west of Chicago's usual sightseeing core. Its terra-cotta exterior is covered with elaborate carvings, giving a local bank building the kind of surface detail more often associated with downtown skyscrapers.
+
+The building is mainly an exterior stop, but it is a strong piece of neighbourhood architecture and a useful reason to look beyond the Loop and lakefront.

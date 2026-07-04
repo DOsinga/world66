@@ -1,19 +1,18 @@
 ---
 title: Nashipur Palace
 type: poi
+latitude: 24.207131
+longitude: 88.263352
 tags:
-- things_to_do
-- sight
-- palace
-- architecture
-- history
-latitude: 24.2071
-longitude: 88.2634
-score: 7.2
+  - things_to_do
+  - palace
+  - historic_site
+  - architecture
+score: 7.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Kathgola
+source_url: "https://en.wikivoyage.org/wiki/Kathgola"
 ---
 
-Nashipur Palace was built in 1865 by Raja Kirtichand Bahadur and is one of Murshidabad's later aristocratic landmarks. The palace compound includes the Ramachandra and Lakshmi-Narayana temples, while several other historic sites sit close by.
+Nashipur Palace was built in 1865 by King Kirtichand Bahadur. The palace compound includes the Ramachandra Temple and Lakshmi-Narayana Temple, with the Mohandas Ashram and Jafraganj Deorhi close by.
 
-It is a useful counterpoint to the Nawabi-era monuments elsewhere in town, showing how local wealth and power continued to express itself in the colonial period.
+It is a useful addition to a Murshidabad heritage route, especially when paired with Hazarduari Palace, Nizamat Imambara, and the other palace-era sites nearby.

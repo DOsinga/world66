@@ -2,15 +2,15 @@
 title: Asama Volcano Museum
 type: poi
 tags:
-- things_to_do
-- museum
-- science
-- volcano
-latitude: 36.4400
-longitude: 138.5353
-score: 6.3
+  - things_to_do
+  - museum
+  - geology
+  - volcano
+latitude: 36.44
+longitude: 138.535278
+score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kusatsu
 ---
 
-The Asama Volcano Museum explains the geology and eruptions of Mount Asama, one of Honshu's most active volcanoes. It is a useful bad-weather or family stop if you are exploring the highlands around Karuizawa and want more context before viewing the mountain itself.
+Asama Volcano Museum explains the geology and eruptions of Mount Asama, one of central Honshu's most active volcanoes. It is especially useful for families or travelers pairing Karuizawa with the volcanic landscape to the north.

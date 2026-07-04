@@ -1,19 +1,16 @@
 ---
 title: Washington Crossing State Park
 type: poi
+latitude: 40.320833
+longitude: -74.878889
+score: 7.7
 tags:
   - things_to_do
-  - sight
+  - history
   - park
   - museum
-  - history
-latitude: 40.3208
-longitude: -74.8789
-score: 8.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Titusville_(New_Jersey)
 ---
 
-Washington Crossing State Park preserves the New Jersey side of George Washington's Delaware River crossing, with woods, fields, river views, and a visitor center devoted to the Revolutionary War. The Harry Kels Swan collection is the strongest reason to go inside: hundreds of military objects from American and British forces, backed by exhibits that explain the campaign around Trenton.
-
-It is a good half-day from Lambertville or New Hope, especially if you combine the history with a walk along the river. The park is large enough to feel rural, but the main sights are easy to reach by car.
+Washington Crossing State Park preserves a large tract by the Delaware River tied to George Washington's 1776 crossing. The visitor center displays Revolutionary War artifacts.

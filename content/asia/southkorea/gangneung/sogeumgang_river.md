@@ -1,17 +1,16 @@
 ---
-title: "Sogeumgang River"
+title: Sogeumgang River
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Gangneung
 tags:
   - things_to_do
-  - sight
   - nature
   - hiking
-  - river
-latitude: 37.8136
-longitude: 128.7023
-score: 7.6
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Gangneung"
+latitude: 37.8135838
+longitude: 128.7022765
+score: 7.0
 ---
 
-Sogeumgang River is known for clear water, waterfalls, and sculpted rock formations in the mountains west of Gangneung. The name means "little Geumgang," a nod to Korea's famous diamond mountains, and the area was designated Scenic Site No. 1 in 1970. Trails here are gentle enough for a light hike rather than a hard mountain day.
+The Sogeumgang River area is known for clear water, waterfalls, and dramatic rock scenery on the inland side of Gangneung. It is a good nature stop for hikers heading toward Odaesan, with the landscape protected as one of South Korea's notable scenic sites.
+

@@ -1,16 +1,12 @@
 ---
-title: "Omoriyama Zoo"
+title: Ōmoriyama Zoo
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - zoo
-  - family
-latitude: 39.673
-longitude: 140.093
-score: 6.1
+tags: [things_to_do, zoo, family]
+latitude: 39.672151
+longitude: 140.077384
+score: 6.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Akita"
+source_url: https://en.wikivoyage.org/wiki/AXT
 ---
 
-Omoriyama Zoo is Akita's small city zoo, set on a wooded hill southwest of the centre. It is strongest as a family outing, with a manageable layout and a mix of large animals, monkeys, red pandas, and seasonal views over the city.
+Ōmoriyama Zoo is Akita's local zoo, with giraffes, elephants, monkeys, red pandas, camels, and other animals. It is mainly a family stop rather than a major regional attraction.

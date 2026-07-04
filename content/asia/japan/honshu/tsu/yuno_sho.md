@@ -1,16 +1,15 @@
 ---
 title: "Yuno-sho"
 type: poi
-tags:
-  - things_to_do
-  - onsen
-  - spa
-  - bathing
 latitude: 34.706517
 longitude: 136.37504
-score: 6.4
+score: 6.3
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Tsu"
+tags:
+  - things_to_do
+  - hot_spring
+  - bath
 ---
 
-Yuno-sho is a day-use bathhouse at Sakakibara Onsen, a hot-spring area long praised in Japanese travel lore. It has indoor baths and an outdoor rotemburo, making it the easiest way to sample the waters without staying overnight.
+Yuno-sho is a day-use bath in Sakakibara Onsen, a hot-spring area long regarded for the quality of its waters. Visitors can use indoor baths and an outdoor rotemburo without staying overnight, making it a practical stop for experiencing the onsen.

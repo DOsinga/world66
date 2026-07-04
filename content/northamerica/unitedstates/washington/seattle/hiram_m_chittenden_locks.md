@@ -5,12 +5,12 @@ tags:
   - things_to_do
   - sight
   - engineering
-  - wildlife
-latitude: 47.6655
+  - viewpoint
+latitude: 47.66546
 longitude: -122.3971
-score: 8.2
+score: 8.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Seattle/Ballard
+source_url: "https://en.wikivoyage.org/wiki/Seattle/Ballard"
 ---
 
-The Hiram M. Chittenden Locks, better known as the Ballard Locks, move boats between freshwater Lake Union and saltwater Puget Sound using gravity rather than pumps. Come for the engineering, then stay for the fish ladder, where a viewing gallery lets you watch salmon moving through the ship canal in season.
+The Hiram M. Chittenden Locks link Lake Union and Lake Washington with Puget Sound, lifting boats between fresh and salt water by gravity. Visitors can watch vessels pass through the chambers, look for salmon at the fish ladder in season, and walk the surrounding grounds for views of the ship canal.

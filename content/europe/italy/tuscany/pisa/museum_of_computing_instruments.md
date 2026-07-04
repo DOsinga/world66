@@ -1,17 +1,17 @@
 ---
 title: "Museum of Computing Instruments"
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/PSA
+latitude: 43.716789
+longitude: 10.390936
+score: 6.7
 tags:
   - things_to_do
   - museum
   - science
-latitude: 43.7168
-longitude: 10.3909
-score: 6.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/PSA"
 ---
 
-This small university museum traces computing before laptops and phones made the word feel ordinary. Its collection ranges from early mechanical calculators to Italy's oldest computer, built at the end of the 1950s.
+The Museum of Computing Instruments covers the history of calculation and computing, from mechanical calculators to early electronic machines. Its collection includes one of Italy's oldest computers, built in the late 1950s.
 
-It is a good Pisa stop if you have already seen the headline monuments and want something quieter, nerdier, and tied to the city's academic life.
+This is a specialist museum, but a worthwhile one if you are interested in science, engineering, or the material history behind modern computing. It pairs well with Pisa's university and research heritage.

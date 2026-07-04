@@ -1,16 +1,16 @@
 ---
 title: La Manufacture
 type: poi
+latitude: 50.6830228247
+longitude: 3.1961714251
+score: 6.6
 tags:
   - things_to_do
   - museum
   - textile
-  - industrial_history
-latitude: 50.683
-longitude: 3.1962
-score: 6.6
+  - history
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/LIL"
+source_url: https://en.wikivoyage.org/wiki/LIL
 ---
 
-La Manufacture is Roubaix's textile museum, built around the machines and workers' stories of the industry that once powered this part of the Lille metropolis. The looms give the place its rhythm, and guided visits make the old factory processes easier to grasp. It is a strong companion to La Piscine if you want Roubaix's art and industrial sides in one trip.
+La Manufacture is a textile-industry museum in Roubaix, with working machines and exhibits on the lives of textile workers. Guided tours are generally in French, but the machinery and industrial setting still make it useful for visitors interested in the Lille area's manufacturing past.

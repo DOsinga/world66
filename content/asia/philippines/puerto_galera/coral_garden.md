@@ -1,17 +1,16 @@
 ---
-title: "Coral Garden"
+title: Coral Garden
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Puerto_Galera
 tags:
   - things_to_do
-  - sight
+  - nature
   - snorkelling
-  - diving
-  - marine_life
-latitude: 13.5204
-longitude: 120.9542
-score: 7.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Puerto_Galera"
+latitude: 13.520437
+longitude: 120.954224
+score: 7.0
 ---
 
-Coral Garden is one of Puerto Galera's better-known snorkelling and freediving spots. Shallow water, coral formations, reef fish, and occasional turtles make it accessible even if you are not a serious diver. It is usually visited by boat, and going with a local guide helps avoid damaging the reef.
+Coral Garden is a snorkeling and freediving spot in Puerto Galera, known for shallow coral formations, reef fish, and clear water. It is a good choice for visitors who want a marine-life stop without committing to a full dive trip.
+

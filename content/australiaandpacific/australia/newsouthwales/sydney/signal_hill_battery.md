@@ -4,13 +4,14 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - historic_site
-  - coast
+  - military_history
 latitude: -33.8495
 longitude: 151.2872
-score: 6.6
+score: 6.7
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/City_walls"
+source_url: https://en.wikivoyage.org/wiki/City_walls
 ---
 
-Signal Hill Battery is a remnant of Sydney's outer coastal defences, built to guard the harbour approaches from ships standing offshore. The old gun emplacements are a small sight, but the headland setting makes them worth folding into a walk around Watsons Bay and the ocean cliffs.
+Signal Hill Battery is one of the coastal defence works that once formed Sydney's outer harbour perimeter. Its position above the coast shows how the city planned to protect the harbour from ships standing offshore.
+
+The remains are a compact stop, best combined with nearby coastal walks and harbour viewpoints.

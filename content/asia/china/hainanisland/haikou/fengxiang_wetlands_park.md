@@ -1,19 +1,17 @@
 ---
-title: Fengxiang Wetlands Park
+title: "Fengxiang Wetlands Park"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/HAK"
 tags:
   - things_to_do
-  - sight
-  - park
   - nature
   - wetlands
-latitude: 19.9838
-longitude: 110.3507
-score: 6.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/HAK
+latitude: 19.983754648
+longitude: 110.3506610171
+score: 6.2
 ---
 
-Fengxiang Wetlands Park follows the Meishe River through a restored wetland landscape on Haikou's southern side. Boardwalks and planted pools show how the city has tried to clean up the river with natural filtration rather than hiding the problem behind concrete.
+Fengxiang Wetlands Park is part of a restoration project along Haikou's Meishe River. Paths and viewing areas run through rehabilitated wetland habitat, making it more interesting than a standard city park.
 
-It is not one of Haikou's headline sights, but it works well for a quiet walk, birdwatching, or a break from the denser historic quarters.
+It is most worthwhile for a quiet walk, birdlife, and a look at Haikou's river clean-up efforts.

@@ -1,16 +1,12 @@
 ---
-title: Haracia's Inn
+title: Haraçia's Inn
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - heritage
-latitude: 42.3786
-longitude: 20.4275
-score: 6.4
+tags: [things_to_do, historic_site, architecture]
+latitude: 42.37864
+longitude: 20.42751
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Gjakova"
+source_url: https://en.wikivoyage.org/wiki/Dakovica
 ---
 
-Haracia's Inn is one of the older buildings around Gjakova's bazaar, with the timber balcony and carved details typical of traditional town architecture. It is a quick but worthwhile stop while walking the southern end of the old market district.
+Haraçia's Inn is one of the older buildings around Gjakova's bazaar, with traditional timber construction and a projecting balcony. It is worth a short look while walking the old market streets, especially as part of a broader visit to the Hadum Mosque and the Long Bazaar.

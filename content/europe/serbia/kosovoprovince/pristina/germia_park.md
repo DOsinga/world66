@@ -1,16 +1,16 @@
 ---
-title: Gërmia Park
+title: Germia Park
 type: poi
 tags:
   - things_to_do
-  - sight
   - park
-  - swimming
-latitude: 42.6730
-longitude: 21.1950
-score: 7.3
+  - nature
+  - family
+latitude: 42.673
+longitude: 21.195
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/PRN
+source_url: "https://en.wikivoyage.org/wiki/PRN"
+score: 6.7
 ---
 
-Gërmia Park is Pristina's easiest escape into green space. In summer the huge open-air pool fills with families and students, while the rest of the year the park is good for a walk, a picnic, or simply getting away from the city's concrete for an hour.
+Germia Park is Pristina's main green escape, with wooded slopes, walking space, picnic areas, and a large outdoor swimming pool that draws families in summer. It is close enough to the city for an easy half-day break from the centre.

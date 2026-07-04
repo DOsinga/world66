@@ -1,16 +1,15 @@
 ---
-title: "Akarenga-kan Museum"
+title: Akarenga-kan Museum
 type: poi
+latitude: 39.716744
+longitude: 140.115651
+score: 6.8
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/AXT
 tags:
   - things_to_do
   - museum
   - architecture
-  - history
-latitude: 39.7167
-longitude: 140.1157
-score: 7.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/AXT"
 ---
 
-Akarenga-kan Museum occupies the red-brick former Akita Bank headquarters, built in 1912. The building is the main draw, with galleries on local arts, crafts, and history that pair well with the nearby Kanto festival museum.
+Akarenga-kan Museum occupies a red-brick former Akita Bank headquarters from 1912. The museum hosts exhibitions on art, crafts and local history, and its historic banking hall is part of the appeal.

@@ -1,16 +1,12 @@
 ---
 title: Raigō-in
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - temple
-  - music
-latitude: 35.1186
-longitude: 135.8376
+tags: [things_to_do, temple, sight]
+latitude: 35.118639
+longitude: 135.837639
 score: 6.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kibune
 ---
 
-Raigō-in is a small temple north of central Kyoto known for shomyo, Buddhist chant. It is not one of the city's headline temples, but the Sunday chanting sessions and quiet setting make it worthwhile if you are already exploring the Ohara and Kibune side of Kyoto.
+Raigō-in is a quiet temple in the Ōhara area north of Kyoto, close enough to Sanzen-in to combine on the same trip. It is known for Buddhist chanting on Sundays and offers sutra copying for visitors who want a slower temple stop.

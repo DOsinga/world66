@@ -1,15 +1,12 @@
 ---
-title: "Mbozi Meteorite"
+title: Mbozi Meteorite
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - geology
-latitude: -9.1167
-longitude: 33.0667
-score: 7.4
+tags: [things_to_do, natural_history, sight]
+latitude: -9.0820402
+longitude: 32.9951244
+score: 7.6
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Southern_Highlands_(Tanzania)"
+source_url: https://en.wikivoyage.org/wiki/Mbeya
 ---
 
-The Mbozi Meteorite is one of the largest known meteorites on earth, a dark iron mass lying in open ground near the Mbeya road. There is little infrastructure around it, but the scale of the object makes the detour memorable if you have your own transport.
+The Mbozi Meteorite is one of the largest known meteorites in the world and sits in open countryside southwest of Mbeya. There is usually no charge to visit, but independent transport is needed.

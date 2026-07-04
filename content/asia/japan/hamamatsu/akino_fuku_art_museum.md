@@ -1,16 +1,17 @@
 ---
-title: "Akino Fuku Art Museum"
+title: Akino Fuku Art Museum
 type: poi
-tags:
-  - things_to_do
-  - museum
-  - art
-  - architecture
-latitude: 34.8649
-longitude: 137.8193
-score: 6.8
+latitude: 34.86488
+longitude: 137.81931
+score: 7.1
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Hamamatsu
+tags:
+- things_to_do
+- museum
+- art
 ---
 
-Akino Fuku Art Museum is a small art museum in northern Hamamatsu dedicated to the painter Akino Fuku, whose work drew on travel in India, Nepal, Cambodia, and Afghanistan. The building, made with local cedar and other natural materials, is part of the pleasure of the visit. It is a selective stop, but a good one if you are tracing Hamamatsu beyond the castle and central museums.
+Akino Fuku Art Museum is a small art museum devoted to the work of Akino Fuku, with additional pieces by other artists. The building itself is part of the appeal, using local cedar and other regional materials rather than a standard gallery box.
+
+It is outside central Hamamatsu, so it works best for visitors with a specific interest in Japanese painting or architecture. Allow time for the trip rather than treating it as a quick city-centre stop.

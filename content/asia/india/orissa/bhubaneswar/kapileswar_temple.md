@@ -1,19 +1,16 @@
 ---
 title: "Kapileswar Temple"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - temple
-  - architecture
-  - historic_site
-latitude: 20.2291
-longitude: 85.8274
-score: 6.9
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/BBI"
+latitude: 20.22909
+longitude: 85.827438
+score: 7.1
+tags:
+  - things_to_do
+  - temple
+  - architecture
+  - history
 ---
 
-Kapileswar Temple is a large temple complex south of Bhubaneswar's old centre, with a tall later-Odia main shrine, more than 30 smaller shrines and the Manikarnika tank. It is linked in local tradition with the sage Kapila, and its layered compound shows how Bhubaneswar's sacred geography extends well beyond Lingaraja Temple.
-
-The complex is best for travellers already exploring the city's temple belt in some depth. Non-Hindus may have limited access to active shrine areas, but the setting, tank and exterior architecture still make it a worthwhile stop.
+Kapileswar Temple is one of the larger temple complexes around Bhubaneswar, with more than thirty shrines and the Manikarnika tank. The 14th-century main temple is tied to the Lingaraj Temple tradition and is a useful stop for seeing the spread of old temple architecture beyond Bhubaneswar's best-known monuments.

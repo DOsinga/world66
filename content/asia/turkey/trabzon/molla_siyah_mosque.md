@@ -1,16 +1,16 @@
 ---
-title: Molla Siyah Mosque
+title: "Molla Siyah Mosque"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Sumela"
 tags:
   - things_to_do
-  - sight
   - mosque
-  - architecture
   - history
+  - architecture
 latitude: 41.0071
 longitude: 39.7184
-score: 6.3
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Sumela
+score: 6.8
 ---
-Molla Siyah Mosque began as the 11th-century Church of St Andrew before being converted after the Ottoman conquest of Trabzon. It is still an active mosque, so the interest is in its layered history and modest surviving Byzantine character rather than a museum-style visit.
+
+Molla Siyah Mosque began as the 11th-century Orthodox church of St Andrew before being converted to a mosque after the Ottoman conquest of Trabzon. It remains an active place of worship, so visit respectfully and look for the older church fabric that still gives the building its historic interest.

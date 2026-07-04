@@ -1,19 +1,17 @@
 ---
 title: Tropical World
 type: poi
+latitude: 53.84054
+longitude: -1.50449
+score: 7.5
 tags:
   - things_to_do
-  - sight
-  - zoo
   - family
-latitude: 53.8405
-longitude: -1.5045
-score: 7.1
+  - animals
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Chapel_Allerton
-snippet: Family-friendly Leeds attraction with tropical houses, aquariums, and small animals.
 ---
 
-Tropical World is a compact animal and greenhouse attraction beside Roundhay Park. Its indoor zones move through jungle, desert, underwater, and nocturnal habitats, with tropical fish, birds, reptiles, small mammals, and outdoor lemurs and monkeys.
+Tropical World is a family-friendly animal attraction near Roundhay Park, with themed indoor zones for jungle, desert, aquatic, and nocturnal habitats. The collection includes tropical fish, birds, reptiles, mammals, and outdoor lemurs and monkeys.
 
-It is especially good with children, but adults who like warm glasshouses and small-scale wildlife will enjoy it too. Combine it with Roundhay Park rather than treating it as a full-day zoo.
+It is one of Leeds' easier rainy-day stops with children, and combines well with a walk in Roundhay Park.

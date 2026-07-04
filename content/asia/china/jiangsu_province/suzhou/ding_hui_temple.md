@@ -1,18 +1,15 @@
 ---
 title: "Ding Hui Temple"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - temple
-  - historic_site
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Suzhou"
 latitude: 31.3083
 longitude: 120.629
-score: 6.5
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Suzhou
+score: 6.4
+tags:
+- things_to_do
+- temple
+- history
 ---
 
-Ding Hui Temple stands on the site of a much older Tang-dynasty temple, though little of the original complex survives. The most atmospheric remnants are two huge ginkgo trees, around 300 years old, and stone bases that hint at the former scale of the place.
-
-Suzhou has far stronger headline sights, so this is a secondary stop. It is worth considering if you are already near the Twin Pagodas and want a quieter fragment of the old city.
+Ding Hui Temple stands on the site of a Tang Dynasty temple in central Suzhou. Little survives from the earliest complex beyond old stone bases and two large ginkgo trees, but the site is still worth a short stop when exploring the lanes and historic sights around the old city.

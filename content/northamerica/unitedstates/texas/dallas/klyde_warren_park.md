@@ -1,17 +1,17 @@
 ---
 title: Klyde Warren Park
 type: poi
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Dallas/Deep_Ellum"
-tags:
-  - things_to_do
-  - sight
-  - park
 latitude: 32.78948
 longitude: -96.80155
-score: 7.4
+tags:
+  - things_to_do
+  - park
+  - family
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Dallas/Deep_Ellum"
+score: 7.2
 ---
 
-Klyde Warren Park is Dallas at its most deliberate: a green deck built over the Woodall Rodgers Freeway, stitching downtown to Uptown instead of letting traffic divide them. Lawns, food trucks, games, concerts, and shaded paths turn what could have been dead infrastructure into one of the city's best public spaces.
+Klyde Warren Park is a downtown deck park built over the Woodall Rodgers Freeway. Its lawns, paths, food trucks and event spaces help connect Downtown with Uptown and the Arts District.
 
-It works especially well as a break between the Arts District and the denser downtown sights. Come for lunch, a short walk, or an outdoor event, then continue to the Dallas Museum of Art or Nasher Sculpture Center nearby.
+It is one of central Dallas's easiest outdoor breaks, especially before or after visiting the nearby museums.

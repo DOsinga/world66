@@ -3,16 +3,14 @@ title: Hanyangzao Art District
 type: poi
 tags:
   - things_to_do
-  - hanyang
-  - sight
   - art
-latitude: 30.5582
-longitude: 114.2621
-score: 6.8
+  - industrial_heritage
+  - hanyang
+latitude: 30.55824826
+longitude: 114.26213474
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Hanyang
+score: 6.8
 ---
 
-Hanyangzao Art District turns a former industrial site into a small creative quarter, with studios, graffiti, outdoor sculpture, and reused factory spaces. It is not as polished as a formal museum, which is part of the appeal.
-
-Go for a wander if you are already exploring Hanyang and want to see a rougher, more contemporary side of Wuhan's old industrial landscape.
+Hanyangzao Art District is a former industrial site turned creative quarter in Hanyang. Outdoor murals, graffiti, sculpture, and reused factory spaces make it a good stop for travellers interested in Wuhan's modern industrial layers as well as its older temples and riverfront sights.

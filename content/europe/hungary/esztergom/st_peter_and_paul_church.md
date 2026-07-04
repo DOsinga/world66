@@ -1,16 +1,17 @@
 ---
-title: "St. Peter and Paul Church"
+title: St. Peter and Paul Church of Inner City Parish
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - church
-  - architecture
-latitude: 47.7904
-longitude: 18.7382
-score: 6.3
+latitude: 47.79036
+longitude: 18.73815
+score: 6.7
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Esztergom
+tags:
+- things_to_do
+- church
+- architecture
 ---
 
-St. Peter and Paul Church is a large Baroque parish church in Esztergom's inner city, built at the end of the 17th century on the site of an older medieval parish. It is overshadowed by the basilica and the Christian Museum, but the interior, altars, and long parish history make it a worthwhile stop if you are already exploring the lower town.
+St. Peter and Paul Church stands in Esztergom's inner city on the site of an older parish church first recorded in the medieval period. The present church was built in the late 17th century and later enlarged, giving it a layered place in the town's religious history.
+
+It is a quieter stop than the basilica, but worthwhile while walking through the centre. The exterior and interior details help show how much of Esztergom's story sits below the castle hill as well as above it.

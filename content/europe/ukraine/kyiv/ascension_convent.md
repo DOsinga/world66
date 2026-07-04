@@ -1,17 +1,16 @@
 ---
 title: Ascension Convent
 type: poi
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/IEV"
-latitude: 50.4624
-longitude: 30.5147
-score: 7.0
 tags:
   - things_to_do
-  - sight
-  - architecture
   - church
-  - podil
+  - architecture
+  - historic
+latitude: 50.4624
+longitude: 30.51471
+score: 7.0
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/IEV"
 ---
 
-Ascension Convent occupies the slopes of Zamkova Hora above Podil, with roots in a 16th-century wooden church dedicated to Saints Florus and Laurus. Its main church is a handsome example of Ukrainian Baroque, best visited as part of a walk through the old lower town and the hill paths above it.
+Ascension Convent stands on the slopes of Zamkova Hora in Podil. Its main church is a Ukrainian Baroque building from the 1720s, with later Neoclassical additions after much of the monastery was rebuilt following an 1811 fire.

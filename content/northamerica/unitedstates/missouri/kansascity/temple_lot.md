@@ -1,16 +1,17 @@
 ---
-title: "Temple Lot"
+title: Temple Lot
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - history
-  - religion
-latitude: 39.0912
-longitude: -94.4277
-score: 7.1
+latitude: 39.09119
+longitude: -94.42774
+score: 6.5
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Independence_(Missouri)
+tags:
+- things_to_do
+- historic_site
+- religion
 ---
 
-Temple Lot is a plain-looking field in Independence with outsized importance in Latter Day Saint history. Joseph Smith dedicated the site in 1831 for a future temple, and several churches in the movement still attach deep meaning to the ground. There is no grand building here, which is part of the interest: the stop is about religious history, contested memory, and the cluster of Latter Day Saint sites around it.
+Temple Lot is a grassy historic site in Independence tied to the early Latter Day Saint movement. Joseph Smith dedicated the land in 1831, and several churches connected to the movement still regard the site as significant.
+
+There is not a large monument here, so the value is in the history rather than spectacle. It is best paired with the Truman sites and other Independence stops east of Kansas City.

@@ -1,19 +1,12 @@
 ---
 title: Alexandra Cave
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - cave
-  - geology
-  - national_park
-latitude: -37.0362
-longitude: 140.7962
+latitude: -37.036221
+longitude: 140.796248
 score: 6.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Naracoorte_Caves
+tags: [things_to_do, cave, nature]
 ---
 
-Alexandra Cave is one of the show caves at Naracoorte, known for its delicate speleothems, especially sharp, needle-like stalactites. Tours are short, usually around half an hour, and start from the fossil centre area.
-
-It is a good choice if you want an accessible cave visit without committing to a longer underground tour. The formations are the draw here, more than scale or adventure.
+Alexandra Cave is one of the show caves at Naracoorte Caves, known for delicate speleothems including sharp, pin-like stalactites. Tours are short, making it an easy add-on to the fossil centre and the park's larger cave visits.

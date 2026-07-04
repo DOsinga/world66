@@ -1,17 +1,17 @@
 ---
-title: Sichuan Art Museum
+title: "Sichuan Art Museum"
 type: poi
+latitude: 30.661044
+longitude: 104.059054
+score: 7.0
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/CTU"
 tags:
   - things_to_do
   - museum
   - art
-  - gallery
-latitude: 30.661
-longitude: 104.0591
-score: 7.2
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/CTU
-snippet: Central Chengdu art museum focused on modern and contemporary Chinese work
 ---
 
-Sichuan Art Museum stands near Tianfu Square and gives Chengdu a substantial public art stop in the middle of the city. Its galleries cover Chinese painting, calligraphy, sculpture, and contemporary work, with rotating exhibitions alongside the permanent collection. It is a useful counterpoint to Chengdu's temples and teahouses, especially on a wet afternoon.
+Sichuan Art Museum is a major art institution near Tianfu Square, focused on modern and contemporary work from Sichuan and beyond. The museum's central location makes it easy to combine with Chengdu Museum, People's Park, or a walk through the city centre.
+
+Exhibitions change, so the value of a visit depends on the current programme, but the museum is a useful stop for seeing Chengdu beyond pandas, temples, and food streets.

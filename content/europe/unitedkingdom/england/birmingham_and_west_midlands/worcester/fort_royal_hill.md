@@ -5,14 +5,12 @@ tags:
   - things_to_do
   - sight
   - history
-  - park
+  - viewpoint
 latitude: 52.187
 longitude: -2.214
-score: 6.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Worcester_(England)
+score: 6.3
 ---
 
-Fort Royal Hill is a small Civil War site overlooking Worcester, where the last Royalist position fell in 1651. Little of the fort remains beyond earthworks, cannons, and the Liberty Oak, but the hill gives a quick sense of the city's role in the final battle of the war.
-
-It is an easy add-on to The Commandery and Worcester Cathedral, especially if you want a view and a bit of battlefield context.
+Fort Royal Hill preserves the site of a Civil War fort that formed the last Royalist bastion at Worcester. The remains are limited, but the hill has cannons, the Liberty Oak, and a useful sense of the battlefield landscape above the city.

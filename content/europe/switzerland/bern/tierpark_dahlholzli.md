@@ -1,18 +1,16 @@
 ---
-title: Tierpark Dählhölzli
+title: Tierpark Dahlholzli
 type: poi
-latitude: 46.93404
-longitude: 7.44817
 tags:
   - things_to_do
   - sight
   - zoo
-  - wildlife
+  - family
+latitude: 46.93404
+longitude: 7.44817
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/BRN"
-score: 6.8
+source_url: https://en.wikivoyage.org/wiki/BRN
 ---
 
-Tierpark Dählhölzli is Bern's riverside zoo, set along the Aare with outdoor enclosures woven into the wooded bank. It is more relaxed than a big-city zoo, and works well as a half-day break from the Old Town.
-
-The setting is the best part: paths run close to the river, and several enclosures use the slope and water instead of feeling like a separate attraction dropped into the city.
+Tierpark Dahlholzli is Bern's riverside zoo, set along the Aare with outdoor enclosures that use the wooded banks and water as part of the landscape. It is a relaxed family stop south of the Old Town and pairs well with a walk by the river.

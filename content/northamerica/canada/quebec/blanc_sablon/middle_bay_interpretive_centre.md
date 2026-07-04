@@ -5,12 +5,11 @@ tags:
   - things_to_do
   - museum
   - history
-  - culture
-latitude: 51.4275
-longitude: -57.1526
-score: 6.4
+latitude: 51.42752
+longitude: -57.15261
+score: 6.3
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Blanc-Sablon
+source_url: "https://en.wikivoyage.org/wiki/Blanc-Sablon"
 ---
 
-The Middle Bay Interpretive Centre occupies a former school and introduces the village history of Quebec's Lower North Shore. Displays of artifacts, old images, paintings, model boats, and local crafts make it a useful first stop before exploring Blanc-Sablon's scattered communities and coastal sites.
+The Middle Bay Interpretive Centre is set in a former school and introduces the history and culture of Middle Bay and the surrounding Lower North Shore. Exhibits use artifacts and photographs to explain local village life, making it a useful first stop before exploring Blanc-Sablon and nearby coastal communities.

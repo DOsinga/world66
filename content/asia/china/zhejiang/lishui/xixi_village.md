@@ -1,16 +1,15 @@
 ---
-title: Xixi Village
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - village
-  - history
-latitude: 28.6382
-longitude: 119.8740
-score: 6.5
+latitude: 28.638231
+longitude: 119.873976
+score: 6.8
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Lishui
+tags:
+  - things_to_do
+  - village
+  - historic_site
+title: Xixi Village
+type: poi
 ---
 
-Xixi Village is an old lived-in village outside Lishui, with narrow lanes and a quiet historic feel rather than a museum-like polish. The buildings are not all ancient, but the street pattern and atmosphere make it a pleasant short wander if you are exploring beyond the city centre.
+Xixi Village is an old village outside Lishui with narrow lanes and a lived-in historic atmosphere rather than a museum feel. Come for a slow walk through the lanes and traditional village setting.

@@ -1,18 +1,17 @@
 ---
 title: Yellow River Forest Park
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
-  - river
 latitude: 36.7266
 longitude: 116.9883
-score: 6.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Jinan
+score: 6.6
+tags:
+  - things_to_do
+  - park
+  - nature
 ---
 
-Yellow River Forest Park gives Jinan a quieter northern edge, with riverside paths, trees, and open views across the Yellow River. It is more local recreation ground than polished showpiece, but the setting is useful if you want to see the river itself rather than only the city's springs and museums.
+Yellow River Forest Park sits on the northern bank of the Yellow River at the edge of Jinan. It offers riverside paths, garden areas, and views of the broad river landscape that gives northern China much of its geography and history.
 
-In good weather the banks are lively with fishing, picnics, and barbecues. The old floating bridge nearby adds a slightly rough, practical counterpoint to the landscaped park.
+It is far from the spring-fed old city sights, so it is best for visitors who specifically want to see the Yellow River while in Jinan.

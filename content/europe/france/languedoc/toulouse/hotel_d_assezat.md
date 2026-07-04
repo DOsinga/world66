@@ -1,17 +1,15 @@
 ---
-title: Hôtel d'Assézat
+title: "Hôtel d'Assézat"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - museum
-  - architecture
-  - art
-latitude: 43.6003
-longitude: 1.4420
-score: 8.1
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/TLS
+latitude: 43.6003
+longitude: 1.442
+score: 8.0
+tags:
+  - things_to_do
+  - museum
+  - architecture
 ---
 
-Hôtel d'Assézat is one of Toulouse's great Renaissance mansions, built for a wealthy merchant when the city was rich on pastel dye. The courtyard alone is worth a look, and the Fondation Bemberg inside adds a compact art collection to the architecture.
+Hôtel d'Assézat is one of Toulouse's finest Renaissance mansions, built in the 16th century for a wealthy merchant. Its courtyard and facade are worth seeing for the architecture alone, and the building now houses the Bemberg Foundation's art collection.

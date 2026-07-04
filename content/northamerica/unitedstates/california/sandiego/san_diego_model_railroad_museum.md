@@ -1,18 +1,17 @@
 ---
 title: "San Diego Model Railroad Museum"
 type: poi
+latitude: 32.73102
+longitude: -117.14889
+score: 7.2
 tags:
   - things_to_do
   - museum
   - family
-  - railway
-latitude: 32.7310
-longitude: -117.1489
-score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Balboa_Park"
+source_url: https://en.wikivoyage.org/wiki/Balboa_Park
 ---
 
-The San Diego Model Railroad Museum is a Balboa Park favourite for children, railway fans, and anyone with patience for tiny engineering. Its large working layouts recreate Southern California rail lines in miniature, with enough detail to make even a short visit entertaining.
+The San Diego Model Railroad Museum is one of Balboa Park's most family-friendly specialist museums. Its large layouts recreate railroads and landscapes in detailed miniature, with enough movement and craft to hold both children and railway fans.
 
-It is not one of Balboa Park's headline museums, but it is one of the easiest to enjoy casually. Use it as a change of pace between the park's art, science, and natural history collections.
+It works best as part of a Balboa Park museum day. Allow extra time if you like model-making, engineering, or hands-on exhibits.

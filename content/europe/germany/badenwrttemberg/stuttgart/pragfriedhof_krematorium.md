@@ -1,20 +1,18 @@
 ---
-title: Pragfriedhof-Krematorium
+title: "Pragfriedhof-Krematorium"
 type: poi
-tags:
-- things_to_do
-- sight
-- architecture
-- cemetery
-- art_nouveau
-latitude: 48.7963
-longitude: 9.1867
+latitude: 48.796342
+longitude: 9.186686
 score: 6.3
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/STR
-snippet: Jugendstil crematorium in Stuttgart's Pragfriedhof cemetery.
+source_url: "https://en.wikivoyage.org/wiki/STR"
+tags:
+  - things_to_do
+  - cemetery
+  - architecture
+  - art_nouveau
 ---
 
-The crematorium at Pragfriedhof is one of Stuttgart's more unusual architectural stops. Built in Jugendstil style, it brings careful ornament and a solemn civic presence to a place most visitors would otherwise pass by.
+Pragfriedhof-Krematorium is a Jugendstil crematorium in Stuttgart's Pragfriedhof cemetery. The building is the main reason to come, with its early 20th-century design and a setting that is quieter than the city's central museum and shopping areas.
 
-It occasionally hosts exhibitions on mortality and remembrance. Even without an exhibition, it is a worthwhile niche stop for travellers interested in cemetery landscapes, Art Nouveau, or the city's less obvious architecture.
+It is a niche stop, but worthwhile for visitors interested in funerary architecture, cemeteries, or Stuttgart's less obvious historic buildings.

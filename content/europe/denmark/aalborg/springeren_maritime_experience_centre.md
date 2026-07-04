@@ -1,16 +1,17 @@
 ---
-title: "Springeren - Maritime Experience Centre"
+title: Springeren - Maritime Experience Centre
 type: poi
 tags:
   - things_to_do
   - museum
   - maritime
-  - family
-latitude: 57.0589
-longitude: 9.8939
-score: 6.8
+latitude: 57.058889
+longitude: 9.893889
+score: 7.0
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/AAL"
 ---
 
-This hands-on maritime museum sits on the wharf west of central Aalborg. The highlight is the submarine *Springeren*, backed by model ships, naval exhibits, and enough interactive pieces to keep the place from feeling like a dry transport collection.
+Springeren - Maritime Experience Centre is a marine museum on Aalborg's waterfront. The main draw is the submarine Springeren, backed by exhibitions on ships, naval life, and Danish maritime history.
+
+The museum is hands-on enough for families, with model ships and displays that make it more than a static collection.

@@ -1,18 +1,15 @@
 ---
 title: Golden Beach
 type: poi
-tags:
-  - things_to_do
-  - amusement_park
-  - beach
-  - family
-latitude: 12.9131
-longitude: 80.2528
-score: 6.6
+latitude: 12.91307
+longitude: 80.25276
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Besant_nagar
+tags:
+- things_to_do
+- amusement_park
+- family
+score: 6.2
 ---
 
-Golden Beach is the seafront amusement park on the East Coast Road south of central Chennai. Its rides and beach setting make it a family-focused outing rather than a cultural sight, but it has been a Chennai landmark for long enough to earn a place on the map.
-
-It works best as a light stop if you are already heading down the coast toward the attractions around Mahabalipuram.
+Golden Beach is one of Chennai's long-running amusement parks, with rides aimed at families and casual day visitors. It is more of a nostalgic local landmark than a major theme park, but it can suit travellers with children looking for an easy outing.

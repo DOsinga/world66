@@ -1,18 +1,18 @@
 ---
 title: Palazzo Massimo
 type: poi
+latitude: 41.901537
+longitude: 12.498062
+score: 8.3
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Rome/Castro_Pretorio
 tags:
   - things_to_do
   - museum
   - archaeology
-  - monti
-latitude: 41.9015
-longitude: 12.4981
-score: 8.8
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Rome/Castro_Pretorio
+  - rome
 ---
 
-Palazzo Massimo is one of the strongest branches of the National Roman Museum, and a superb antidote to Rome's outdoor ruins. The collection brings ancient Rome indoors: sculpture, mosaics, coins, frescoes, and the famous painted garden room from the Villa of Livia.
+Palazzo Massimo is one of the main branches of the National Roman Museum, a short walk from Termini station. Its collections are especially strong on classical sculpture, coins, mosaics, and frescoes from ancient Roman villas.
 
-It is close to Termini, which makes it easy to fit into an arrival or departure day. Give it proper time, especially for the frescoes and mosaics; they show the domestic luxury of Rome as vividly as the Forum shows its public power.
+The museum is a good choice when you want major Roman antiquities without the crowds of the Forum or Vatican Museums. Allow time for the painted garden room from the Villa of Livia and the bronze Boxer at Rest.

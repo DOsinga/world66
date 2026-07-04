@@ -1,18 +1,18 @@
 ---
-title: Church of San Lorenzo del Purgatorio
+title: Church of San Lorenzo (del Purgatorio)
 type: poi
 tags:
   - things_to_do
   - sight
   - church
   - baroque
-latitude: 37.3122
-longitude: 13.5793
+latitude: 37.31221
+longitude: 13.57926
 score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Agrigento
 ---
 
-The Church of San Lorenzo del Purgatorio is a small Baroque stop along Via Atenea, with an interior richer than its street presence suggests. The stucco work associated with Giacomo Serpotta gives the space the theatrical quality that Sicilian Baroque does so well.
+The Church of San Lorenzo, also known as del Purgatorio, is a small Baroque church just off Via Atenea in Agrigento's old town. Its draw is the interior: theatrical stucco work, dramatic decoration, and the kind of compressed Sicilian Baroque that rewards a quick look inside.
 
-It is a quick visit rather than a major sight, but it fits naturally into a slow walk through Agrigento's old centre. Step in if the doors are open.
+It is not a rival to the Valley of the Temples, but it is worth stepping into while walking the old town, especially if you are already visiting Via Atenea and Agrigento Cathedral.

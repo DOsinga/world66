@@ -5,14 +5,11 @@ tags:
   - things_to_do
   - museum
   - history
-  - culture
-latitude: 40.5085
-longitude: 141.4644
-score: 6.6
+latitude: 40.508526
+longitude: 141.464402
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Hachinohe"
+source_url: https://en.wikivoyage.org/wiki/Hachinohe
 ---
 
-Hachinohe City Museum gives a compact overview of the city's archaeology, history, folklore, and local culture. It is most useful as background before visiting Ne Castle or the Jomon sites, where the landscape makes more sense once you know the older story.
-
-The museum is a solid rainy-day stop, especially if you want more context than the markets and coast can give on their own.
+Hachinohe City Museum covers the archaeology, history, folklore, and intangible culture of Hachinohe. It is a useful stop for context before visiting the city's markets, coast, and historic sites.

@@ -1,16 +1,16 @@
 ---
-title: MAK - Museum of Applied Arts
+title: "MAK"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Vienna/Innere_Stadt"
 tags:
   - things_to_do
-  - innere_stadt
   - museum
   - design
   - art
-latitude: 48.2076
-longitude: 16.3816
-score: 8.0
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Vienna/Innere_Stadt
+latitude: 48.207637
+longitude: 16.381568
+score: 8.5
 ---
-MAK is Vienna's museum for applied arts, design, furniture, and decorative objects. Its strengths are exactly what Vienna does well: Secession-era design, elegant interiors, and the long line from craft to modern product design, all close to the Ring and Stadtpark.
+
+MAK, Vienna's museum of applied arts, focuses on design, decorative arts, architecture, and contemporary craft. Its collections and temporary exhibitions are especially strong for travellers interested in objects, interiors, graphic design, and the material culture behind Vienna's artistic reputation.

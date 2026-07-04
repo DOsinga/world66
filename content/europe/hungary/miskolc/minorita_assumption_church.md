@@ -1,16 +1,15 @@
 ---
-title: "Minorita Assumption Church"
+title: Minorita Assumption Church
 type: poi
+latitude: 48.10557
+longitude: 20.78494
+score: 6.4
 tags:
   - things_to_do
-  - sight
   - church
   - architecture
-latitude: 48.1046
-longitude: 20.7849
-score: 6.5
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Miskolc"
+source_url: https://en.wikivoyage.org/wiki/Miskolc
 ---
 
-Minorita Assumption Church is a Baroque church in central Miskolc, completed in the 18th century and later finished with its towers and interior fittings. Its pale facade and twin towers make it one of the more graceful historic buildings around the old town centre.
+Minorita Assumption Church is a baroque church completed in the mid-18th century. Its towers and interior decoration took decades longer to finish, giving the building a layered historic character in central Miskolc.

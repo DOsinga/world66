@@ -1,16 +1,15 @@
 ---
-title: Cemitério da Vila Formosa
+title: Cemiterio da Vila Formosa
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - cemetery
-  - park
 latitude: -23.5639
 longitude: -46.5272
-score: 6.2
+score: 6.7
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Sao_Paulo/Mooca"
+source_url: https://en.wikivoyage.org/wiki/Sao_Paulo/Mooca
+tags:
+  - things_to_do
+  - cemetery
+  - history
 ---
 
-Cemitério da Vila Formosa is one of Latin America's largest cemeteries, spread across a huge green area in São Paulo's east side. It is more a striking urban landscape than a conventional tourist sight, but the scale and its everyday use as open space make it an unusual stop for visitors interested in the city's less polished edges.
+Cemiterio da Vila Formosa is one of Latin America's largest cemeteries, with a vast landscape of graves tied to Sao Paulo's working-class history. It is also used by locals as a quiet place to walk.

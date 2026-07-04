@@ -1,17 +1,18 @@
 ---
 title: Mirror Lake/Meadow
 type: poi
+latitude: 37.739428
+longitude: -119.559862
+score: 7.4
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Badger_Pass"
 tags:
   - things_to_do
-  - sight
-  - lake
-  - hike
   - nature
-latitude: 37.7394
-longitude: -119.5599
-score: 8.0
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Badger_Pass
+  - hiking
+  - viewpoint
 ---
 
-Mirror Lake is seasonal, often more meadow than water, but the walk is still one of Yosemite Valley's classic easy outings. In spring the shallow lake can reflect Half Dome; later in the year the open meadow and Tenaya Creek still give you a quiet view into the valley's granite walls.
+Mirror Lake is a seasonal pool below Half Dome that becomes Mirror Meadow when the water drops. In spring and early summer the water can reflect the cliffs above; later in the year the same route is still an easy walk into a quiet corner of Yosemite Valley.
+
+The first mile follows a paved service road, making this one of the more accessible Yosemite walks. Go early if you want the best chance of calm reflections and fewer people.

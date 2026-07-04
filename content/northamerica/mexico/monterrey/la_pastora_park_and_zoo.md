@@ -1,20 +1,18 @@
 ---
-title: La Pastora Park and Zoo
+title: "La Pastora Park and Zoo"
 type: poi
-tags:
-- things_to_do
-- sight
-- park
-- zoo
-- family
-latitude: 25.6678
-longitude: -100.2488
-score: 6.2
+latitude: 25.66779
+longitude: -100.24875
+score: 6.5
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Guadalupe_(Mexico)
-snippet: Family park in Guadalupe with a zoo, aviary, and herbarium.
+source_url: "https://en.wikivoyage.org/wiki/Guadalupe_(Mexico)"
+tags:
+  - things_to_do
+  - zoo
+  - family
+  - park
 ---
 
-La Pastora Park and Zoo is a family-oriented green space in Guadalupe, on the eastern side of the Monterrey urban area. The zoo has a mix of animal exhibits, an aviary, and a herbarium, making it more than just a playground stop.
+La Pastora Park and Zoo is a family-oriented stop in Guadalupe, east of central Monterrey. The park includes a zoo, aviary, herbarium, and open green space, giving it more range than a simple neighbourhood park.
 
-It is not one of Monterrey's headline sights, but it is useful if you are travelling with children or spending time around Guadalupe.
+It is most useful for travellers with children or anyone looking for a relaxed outdoor break away from the denser central sights.

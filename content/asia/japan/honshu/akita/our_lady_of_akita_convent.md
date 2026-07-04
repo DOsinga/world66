@@ -1,16 +1,18 @@
 ---
-title: "Our Lady of Akita Convent"
+title: Our Lady of Akita Convent
 type: poi
 tags:
   - things_to_do
-  - sight
-  - religious
   - church
-latitude: 39.7592
-longitude: 140.1495
-score: 6.7
+  - pilgrimage
+  - garden
+latitude: 39.759235
+longitude: 140.14953
+score: 7.0
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/AXT"
 ---
 
-This quiet Catholic convent is known for the Marian apparitions reported here in the 1970s and later approved for local devotion. Even outside a pilgrimage context, it is a calm, unusual stop in Akita's hills.
+Our Lady of Akita Convent is a Catholic pilgrimage site outside central Akita. It is associated with reported Marian apparitions and a statue that drew national attention in Japan.
+
+Even for visitors without a pilgrimage interest, the convent is a quiet place with expansive gardens and a church that uses Japanese architectural forms.

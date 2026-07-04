@@ -1,16 +1,15 @@
 ---
 title: Blue Cave
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/TAH
 tags:
   - things_to_do
-  - sight
-  - cave
+  - nature
   - swimming
-latitude: -19.3637
-longitude: 169.2463
-score: 8.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/TAH"
+latitude: -19.36371
+longitude: 169.246251
+score: 7.8
 ---
 
-Blue Cave is one of Tanna's standout coastal excursions: a sea cave where sunlight pours through the opening and turns the water an electric blue. It is a simple idea, but swimming inside the lit chamber is memorable.
+Blue Cave is a sea cave on Tanna where sunlight pours through the opening and turns the water bright blue. Visits are usually by boat, and the main draw is swimming inside the cave when the light is good.

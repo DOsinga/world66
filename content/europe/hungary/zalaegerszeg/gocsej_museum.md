@@ -1,17 +1,17 @@
 ---
 title: Göcsej Museum
 type: poi
+latitude: 46.8462053
+longitude: 16.8462264
+score: 6.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Zalaegerszeg
-latitude: 46.8462
-longitude: 16.8462
-score: 6.5
 tags:
   - things_to_do
   - museum
   - history
 ---
 
-Göcsej Museum is the main indoor history stop in Zalaegerszeg, set in an eclectic late-19th-century building near the centre. Its exhibitions explain the history and folk culture of Zala County, giving useful context before or after a visit to the open-air village museum.
+Göcsej Museum covers the history and culture of Zala County from a central Zalaegerszeg building dating from 1890. It is a compact indoor counterpart to the better-known open-air Göcsej Village Museum.
 
-It is not a blockbuster museum, but it fills in the local story well. Pair it with the synagogue and Mary Magdalene Church for an easy walk around the town centre.
+Visit if you want local context before heading out to the folk museum, churches, or countryside around the city.

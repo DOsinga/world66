@@ -1,19 +1,16 @@
 ---
-title: "Palácio da Justiça de São Paulo"
+title: "Palacio da Justica de Sao Paulo"
 type: poi
+latitude: -23.55185
+longitude: -46.633196
 tags:
   - things_to_do
-  - sight
-  - architecture
   - museum
+  - architecture
   - centro
-latitude: -23.5519
-longitude: -46.6332
-score: 6.2
+score: 6.4
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Sao_Paulo/Bixiga"
 ---
 
-The Palácio da Justiça is one of central São Paulo's grander civic buildings, home to the state's higher courts since the 1930s. Its stone facade, formal halls, and old institutional confidence make it a worthwhile pause when walking around Sé and the historic centre.
-
-The building also houses a small museum on the legal history of São Paulo. It is not a headline attraction, but it adds another layer to a part of the city where politics, religion, and law sit close together.
+The Palacio da Justica de Sao Paulo has housed the state's higher courts since 1933. Its formal architecture and law museum make it a worthwhile stop around Se Cathedral and Patio do Colegio for visitors interested in civic history.

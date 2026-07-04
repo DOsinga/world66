@@ -1,16 +1,15 @@
 ---
 title: Sexmuseum
 type: poi
-latitude: 52.3767
-longitude: 4.8972
-score: 6.2
+latitude: 52.37666
+longitude: 4.897235
+score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Amsterdam/Binnenstad
 tags:
   - things_to_do
   - museum
-  - de_wallen
-  - adult
+  - centrum
 ---
 
-Sexmuseum is a long-running Amsterdam museum of erotic art, objects, and curiosities near the station end of the centre. It is tacky in places and not for children, but it fits the city's frank, commercial approach to sex better than a more polished museum would.
+Sexmuseum is a central Amsterdam museum devoted to sex, erotic art, and sexual history. The collection mixes historical objects, images, and oddities, and is best treated as a short adult-only stop near Centraal Station rather than a traditional art museum.

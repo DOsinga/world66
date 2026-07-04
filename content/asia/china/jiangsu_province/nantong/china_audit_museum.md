@@ -1,17 +1,15 @@
 ---
-title: China Audit Museum
+title: "China Audit Museum"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/NTG"
 tags:
   - things_to_do
   - museum
   - history
-latitude: 32.0316
-longitude: 120.8602
-score: 6.2
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/NTG"
+latitude: 32.03161451331332
+longitude: 120.86016551987456
+score: 6.4
 ---
 
-The China Audit Museum is a niche museum devoted to accounting, auditing, and the tools used to keep official records. Its displays include abacuses and other calculating devices, including examples made for unusually large numbers.
-
-This is not Nantong's broadest museum, but it is an offbeat companion to the city's abacus collection. It suits travellers who enjoy specialist museums and the small mechanics of bureaucracy.
+The China Audit Museum is a niche museum on accounting and auditing history, including displays of abacuses and calculation tools. It is not a general-interest blockbuster, but it is an unusual stop for visitors already exploring Nantong's museums.

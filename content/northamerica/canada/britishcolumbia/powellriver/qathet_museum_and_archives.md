@@ -1,16 +1,17 @@
 ---
 title: qathet Museum and Archives
 type: poi
-tags:
-  - things_to_do
-  - museum
-  - history
-  - first_nations
 latitude: 49.84623
 longitude: -124.52972
-score: 6.3
+score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Powell_River
+tags:
+- things_to_do
+- museum
+- history
 ---
 
-qathet Museum and Archives tells the local story of Powell River and the surrounding coast, including First Nations history and the arrival of later settlers. It is a practical first stop if you want some context before exploring the old townsite and shoreline.
+qathet Museum and Archives covers the local history of Powell River and the surrounding region, including First Nations history, settler life, and the tools and everyday objects used by earlier communities.
+
+It pairs well with a visit to the Historic Townsite, giving useful background before or after walking through the old mill town and waterfront.

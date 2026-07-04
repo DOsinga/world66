@@ -1,18 +1,18 @@
 ---
-title: "Riordan Mansion State Historic Park"
+title: Riordan Mansion State Historic Park
 type: poi
+latitude: 35.187387
+longitude: -111.659375
+score: 7.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/FLG
 tags:
   - things_to_do
-  - sight
   - historic_house
   - architecture
-latitude: 35.1874
-longitude: -111.6594
-score: 7.2
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/FLG"
+  - museum
 ---
 
-Riordan Mansion State Historic Park preserves a handsome Arts and Crafts house built in 1904 for one of Flagstaff's leading families. The timber, stone, and broad rooflines fit the mountain setting, and the guided tours give useful context on the logging, rail, and ranching money that shaped early Flagstaff.
+Riordan Mansion is a 1904 Arts and Crafts house built for a prominent Flagstaff family. The timbered design, period interiors, and family history make it one of the city's best stops for understanding early Flagstaff beyond Route 66.
 
-Tours are usually timed and can fill up, so reserve ahead if this is high on your list.
+Visits are usually by guided tour, often on the hour. Reserve ahead in busy periods, since the house is more interesting when you can see the interior rather than just the grounds.

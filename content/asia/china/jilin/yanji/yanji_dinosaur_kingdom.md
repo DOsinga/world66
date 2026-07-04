@@ -1,15 +1,15 @@
 ---
 title: Yanji Dinosaur Kingdom
 type: poi
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/YNJ"
-latitude: 42.8635
-longitude: 129.4888
-score: 6.4
 tags:
   - things_to_do
-  - theme_park
   - family
+  - amusement_park
+latitude: 42.863473
+longitude: 129.488787
+score: 6.5
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/YNJ"
 ---
 
-Yanji Dinosaur Kingdom is a large dinosaur-themed amusement park south of the city, opened in the early 2020s beside Yanji's dinosaur museum. It is mainly a family stop, with rides, models, and new facilities that work best if you are already building a day around the museum area.
+Yanji Dinosaur Kingdom is a dinosaur-themed family park south of Yanji, near the city's dinosaur museum. It opened in 2022, so the rides and themed facilities are relatively new, though some parts may still feel in progress.

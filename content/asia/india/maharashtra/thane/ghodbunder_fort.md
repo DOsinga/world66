@@ -1,16 +1,18 @@
 ---
 title: Ghodbunder Fort
 type: poi
+latitude: 19.2962
+longitude: 72.8883
 tags:
   - things_to_do
   - sight
   - fort
   - history
-latitude: 19.2962
-longitude: 72.8883
-score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Mira-Bhayandar
+source_url: "https://en.wikivoyage.org/wiki/Mira-Bhayandar"
+score: 7.2
 ---
 
-Ghodbunder Fort stands above the old creek route where horses once arrived by sea for trade inland. The Portuguese built the fort and later powers reused it, leaving a compact but layered ruin with views toward Thane Creek and the northern edge of Mumbai.
+Ghodbunder Fort is a protected hilltop fort near the old horse-trading port that gave the area its name. The Portuguese built it between the 16th and 18th centuries, and it later passed to the Marathas and the East India Company.
+
+The surviving walls are worth a short stop for the history and views over the creek. Go in daylight and expect a simple ruin rather than a restored monument.

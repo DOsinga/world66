@@ -2,14 +2,15 @@
 title: Natural History Museum
 type: poi
 tags:
-  - things_to_do
-  - museum
-  - natural_history
+- things_to_do
+- museum
 latitude: 49.4518
 longitude: 11.0848
-score: 6.8
+score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/NUE
+source_url: "https://en.wikivoyage.org/wiki/NUE"
 ---
 
-This compact museum mixes natural history with ethnology. The lower floor has masks, textiles, and cultural objects from places as far apart as Costa Rica, Morocco, Siberia, and the South Pacific, while the upper floor turns to geology, prehistory, and archaeology. It is a useful change of pace from Nuremberg's medieval and Nazi-era sights.
+Nuremberg's Natural History Museum combines ethnology, geology, prehistory, and archaeology in a compact city-centre museum. The displays range from South Seas masks and Costa Rican material culture to a Berber tent, Siberian clothing, fossils, minerals, and archaeological finds.
+
+It is a useful stop for visitors who want a smaller museum away from the main imperial and Nazi-era sights, especially on a wet day or with children who need something more varied than church and castle interiors.

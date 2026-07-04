@@ -1,15 +1,18 @@
 ---
 title: University Museum of Zoology
 type: poi
+latitude: 52.20297
+longitude: 0.12064
+score: 7.3
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/CBG
 tags:
   - things_to_do
   - museum
   - science
-latitude: 52.2030
-longitude: 0.1206
-score: 7.2
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/CBG
+  - family
 ---
 
-The University Museum of Zoology is a compact but serious Cambridge museum, built around teaching collections gathered over centuries. Skeletons, fossils, insects, shells, and preserved animals fill the galleries, making it a strong stop for families and anyone interested in Darwin, anatomy, or natural history.
+The University Museum of Zoology displays recent and fossil animals from collections built up since 1814. The museum is especially strong on anatomy, evolution, and specimens linked with Cambridge science, including material collected by Charles Darwin.
+
+It is central, free, and good for families, but also detailed enough for visitors who want more than a quick look at skeletons and cases.

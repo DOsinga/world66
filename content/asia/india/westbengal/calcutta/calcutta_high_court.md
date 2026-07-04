@@ -1,16 +1,15 @@
 ---
 title: "Calcutta High Court"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/BBD_Bagh"
+latitude: 22.568333
+longitude: 88.343333
+score: 6.6
 tags:
   - things_to_do
-  - sight
   - architecture
   - history
-latitude: 22.5683
-longitude: 88.3433
-score: 6.8
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/BBD_Bagh
 ---
 
-Calcutta High Court is one of the great colonial landmarks of BBD Bagh, a red-and-cream Gothic building modelled on the Cloth Hall in Ypres. It still functions as a court, so the draw for most travellers is the exterior: pointed arches, tall windows, and the slightly theatrical confidence of 19th-century imperial Calcutta.
+Calcutta High Court is India's oldest high court and one of central Kolkata's major Gothic landmarks. Established in 1862, its building was modelled on the Cloth Hall in Ypres and is best appreciated from the outside while walking around BBD Bagh.

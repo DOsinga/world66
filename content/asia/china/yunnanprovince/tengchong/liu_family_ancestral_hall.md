@@ -1,16 +1,16 @@
 ---
-title: "Liu Family Ancestral Hall"
+title: Liu Family Ancestral Hall
 type: poi
 tags:
   - things_to_do
   - sight
   - architecture
-  - historic_site
+  - heritage
 latitude: 25.007698341
 longitude: 98.4602716373
-score: 6.8
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Tengchong"
+source_url: https://en.wikivoyage.org/wiki/Tengchong
 ---
 
-Liu Family Ancestral Hall is one of Heshun's major clan temples, begun in the Jiaqing era of the Qing dynasty. The appeal is in the mix of Chinese ancestral-hall planning with western touches, a reminder of Heshun's old trading links beyond Yunnan.
+Liu Family Ancestral Hall is one of Heshun's major clan halls, begun in the Qing dynasty and built over more than two decades. Its mix of Chinese and Western architectural details makes it a good stop while walking through the old town's lanes and courtyard compounds.

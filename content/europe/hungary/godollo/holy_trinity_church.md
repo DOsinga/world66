@@ -1,16 +1,15 @@
 ---
-title: "Holy Trinity Church"
+title: Holy Trinity Church
 type: poi
+latitude: 47.59846
+longitude: 19.34212
+score: 6.3
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Godollo
 tags:
   - things_to_do
-  - sight
   - church
   - architecture
-latitude: 47.5985
-longitude: 19.3421
-score: 6.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Godollo"
 ---
 
-Holy Trinity Church is a modern Catholic church with a plain exterior and a more interesting artistic core. Inside, a series of woven works by Erzsebet Szekeres shows canonised and beatified figures from the Arpad dynasty, giving the church a specific Hungarian thread that makes it more than a quick parish stop.
+Holy Trinity Church is a modern Catholic church in Godollo, ordained in 2007. Its simple architecture frames a distinctive series of textile works by Erzsebet Szekeres depicting canonized and beatified members of the House of Arpad.

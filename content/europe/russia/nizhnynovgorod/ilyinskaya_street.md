@@ -1,16 +1,16 @@
 ---
 title: Ilyinskaya Street
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - street
-latitude: 56.3239
-longitude: 43.9913
-score: 6.8
+latitude: 56.323891
+longitude: 43.991275
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/GOJ
+tags:
+- things_to_do
+- historic_site
+- architecture
+- walk
+score: 7.0
 ---
 
-Ilyinskaya Street is one of the quieter historic walks in central Nizhny Novgorod, lined with 19th-century merchant houses and older wooden buildings that survived away from the city's showier streets. The side lanes toward the Fedorovsky Embankment are part of the appeal, with a calmer, more residential feel than the main pedestrian centre.
+Ilyinskaya Street is lined with 19th-century merchant buildings and older corners that show Nizhny Novgorod away from its best-known sights. The surrounding lanes toward Fedorovsky Embankment make it a good area for an architecture-focused walk.

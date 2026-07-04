@@ -1,18 +1,17 @@
 ---
-title: "Lunan Shuicheng"
+title: Lunan Shuicheng
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Zaozhuang
+latitude: 34.847598
+longitude: 117.533931
+score: 6.6
 tags:
   - things_to_do
   - sight
-  - waterfront
-  - architecture
-latitude: 34.847598
-longitude: 117.533931
-score: 6.2
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Zaozhuang"
+  - walking
 ---
 
-Lunan Shuicheng is Zaozhuang's canal-themed old street scenic area, built around waterways, bridges, and traditional-style shopfronts. It is a managed leisure district rather than a preserved ancient town, but the water-town layout makes it a pleasant place for an evening stroll.
+Lunan Shuicheng is a canal-themed scenic area in Zaozhuang, built around water streets, small bridges, and traditional-style architecture. It is designed as a leisure district rather than a preserved old town, but it can still be a pleasant place for a walk.
 
-Come for the canal atmosphere, photos, and restaurants, not for deep history.
+Come for the water-town atmosphere, evening lights, and easy strolling. It works best as a low-key city stop rather than a major historical sight.

@@ -1,18 +1,15 @@
 ---
 title: "Parc Monceau"
 type: poi
+latitude: 48.8794
+longitude: 2.30923
 tags:
   - things_to_do
-  - sight
   - park
   - garden
-latitude: 48.8794
-longitude: 2.3092
-score: 7.5
+score: 7.3
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Arc_de_Triomphe"
 ---
 
-Parc Monceau is one of Paris's most elegant small parks, a soft English-style garden ringed by wealthy 8th-arrondissement streets and 19th-century mansions. Monet painted it several times, and the park still has the calm, composed feel that made it irresistible to the Impressionists.
-
-The pleasure here is in details: the rotunda at the entrance, scattered statues, curved paths, and bits of decorative ruin. It is a good breather after the Arc de Triomphe or a visit to the nearby Musée Nissim de Camondo.
+Parc Monceau is an elegant Paris park surrounded by mansions, with statues, a rotunda entrance, and landscaped lawns that inspired several Monet paintings. It is a calm detour near the Arc de Triomphe side of the city.

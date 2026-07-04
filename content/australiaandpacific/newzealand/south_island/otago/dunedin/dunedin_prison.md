@@ -1,16 +1,15 @@
 ---
 title: Dunedin Prison
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - history
 latitude: -45.8758
 longitude: 170.5072
 score: 7.0
+tags:
+  - things_to_do
+  - historic_site
+  - architecture
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Dunedin
+source_url: https://en.wikivoyage.org/wiki/DUD
 ---
 
-Dunedin Prison is a striking Edwardian neo-Baroque former gaol near the railway station, built in 1898 and used until 2007. Its red-and-cream exterior is the main draw, though the building's prison history and reuse plans add a harder edge to the architecture.
+Dunedin Prison is a striking Edwardian neo-Baroque former gaol, completed in 1898 and used until the early 21st century. Its red-and-pale facade and heavy detailing make it one of the city's more distinctive heritage buildings, with tours and events gradually bringing the site back into public use.

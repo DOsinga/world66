@@ -2,15 +2,15 @@
 title: Nwa-La-Boh Pagoda
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - pagoda
-  - pilgrimage
-latitude: 16.6420
-longitude: 97.5028
-score: 7.4
+- things_to_do
+- sight
+- temple
+- viewpoint
+latitude: 16.641999
+longitude: 97.502799
+score: 7.2
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Mawlamyine
 ---
 
-Nwa-La-Boh Pagoda is a smaller, quieter cousin of Kyaiktiyo, with a gilded rock formation balanced in three stacked stones. The trip takes some effort from Mawlamyine, but the reward is a striking pilgrimage site that can feel almost empty outside busy religious periods.
+Nwa-La-Boh Pagoda is a hilltop pilgrimage site north of Mawlamyaing, known for a gold-covered rock formation balanced in stacked boulders. It is smaller and quieter than Kyaiktiyo, but the setting and the uphill approach make it a worthwhile half-day outing for travelers who want a less crowded pagoda visit.

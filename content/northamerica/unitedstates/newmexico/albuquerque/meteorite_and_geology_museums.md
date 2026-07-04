@@ -1,18 +1,12 @@
 ---
 title: Meteorite and Geology Museums
 type: poi
-tags:
-  - things_to_do
-  - museum
-  - science
-  - geology
-latitude: 35.0829
-longitude: -106.6229
-score: 6.8
+latitude: 35.08294
+longitude: -106.62289
+score: 6.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/ABQ
+tags: [things_to_do, museum, geology]
 ---
 
-The University of New Mexico's geology department keeps a pair of small public galleries devoted to minerals, fossils, meteorites and the geology of the Southwest. The meteorite collection is the draw, especially if you like seeing real fragments of space rock rather than just reading labels about them.
-
-The museums are compact and academic in feel, but they are a worthwhile detour around the UNM campus. They also pair well with the nearby Maxwell Museum if you are spending time east of downtown.
+The University of New Mexico's Meteorite and Geology Museums are small campus galleries with meteorites, minerals, fossils, and displays on local geology. They are a good short stop for science-minded visitors near the university.

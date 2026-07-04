@@ -1,18 +1,18 @@
 ---
 title: Casa da Cultura
 type: poi
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Paraty
 tags:
   - things_to_do
   - museum
   - architecture
   - culture
-latitude: -23.2187
-longitude: -44.7125
-score: 7.0
+latitude: -23.21866
+longitude: -44.71245
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Parati
+score: 6.9
 ---
 
-Casa da Cultura occupies an 18th-century building in Paraty's historic centre, originally built as a jail and later restored as a cultural space. It now hosts exhibitions, a small bookstore, a cafe, and displays that connect the town's architecture with its artistic life.
+Casa da Cultura occupies an 18th-century building in Paraty's historic centre, originally built as a jail and later restored as a cultural space. Inside are temporary and permanent exhibitions, a small theatre, a bookshop, and a cafe.
 
-It is not a large museum, but it is one of the better indoor stops in the old town. Drop in between walks through the cobbled streets, especially if rain or heat slows the day down.
+The visit is short but worthwhile if you are already walking the colonial streets, as the building adds local art and history to the architecture outside.

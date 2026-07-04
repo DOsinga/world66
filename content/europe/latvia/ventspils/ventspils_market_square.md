@@ -1,16 +1,16 @@
 ---
-title: "Ventspils Market Square"
+title: Ventspils Market Square
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/VNT
 tags:
   - things_to_do
-  - sight
   - market
-  - architecture
-latitude: 57.3972
-longitude: 21.5677
-score: 6.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/VNT"
+  - heritage
+latitude: 57.39719
+longitude: 21.56774
+score: 6.2
 ---
 
-Ventspils Market Square has been a trading place since the early 17th century. It is still used for produce, meat, clothing, and everyday shopping, but the most distinctive feature is the carillon clock tower, which plays Latvian melodies through the day. Stop by in the morning, when the stalls are busiest.
+Ventspils Market Square has been a trading place since the early 17th century and is still used for produce, smoked meats, and everyday market stalls. It is most interesting as part of a walk through the old town, where the market adds local life to the nearby historic streets.
+

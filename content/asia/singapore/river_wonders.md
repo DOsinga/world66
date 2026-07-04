@@ -1,19 +1,17 @@
 ---
-title: "River Wonders"
+title: River Wonders
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - zoo
-  - wildlife
-  - family
-latitude: 1.4039
-longitude: 103.7907
-score: 8.1
+latitude: 1.403873
+longitude: 103.790744
+score: 7.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Singapore/North_and_West
+tags:
+- things_to_do
+- aquarium
+- family
 ---
 
-River Wonders, formerly River Safari, is Singapore's river-themed wildlife park beside the zoo and Night Safari. The covered loop moves through ecosystems inspired by the Amazon, Congo, Nile, Mekong, Mississippi, and Yangtze, mixing aquarium tanks, animal habitats, and cool indoor exhibits.
+River Wonders is Mandai's river-themed wildlife park, mixing aquarium exhibits, zoo-style habitats, and covered walkways themed around major river ecosystems. Exhibits range from the Amazon and Yangtze to the Congo and Mississippi.
 
-The giant pandas are the big draw, but the Amazon section and the manatees are just as memorable. It is a good choice in heavy rain or fierce heat, and families can combine it easily with the neighbouring Mandai parks.
+It is especially useful in hot or rainy weather because much of the route is sheltered, with air-conditioned exhibits along the way. The giant panda habitat and Amazon River area are the main draws.

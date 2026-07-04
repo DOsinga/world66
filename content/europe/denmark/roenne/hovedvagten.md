@@ -1,16 +1,17 @@
 ---
-title: "Hovedvagten"
+title: Hovedvagten
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - history
-latitude: 55.0993
-longitude: 14.7013
-score: 6.2
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/R%C3%B8nne
+latitude: 55.09926
+longitude: 14.7013
+score: 6.3
+tags:
+- things_to_do
+- architecture
+- historic_building
 ---
 
-Hovedvagten is Rønne's old guard house, built in 1744 using bricks taken from the partly demolished Hammershus. Its modest size is part of the charm: this is the oldest brick house in town, and an easy stop while walking the historic centre.
+Hovedvagten was built as a guard house in 1744, using bricks from Hammershus while the medieval fortress was being dismantled. It is regarded as the oldest brick house in Ronne and is a small but worthwhile marker of the town's older military history.
+
+See it while walking between the harbour, the old streets, and the Bornholm Museum rather than as a separate outing.

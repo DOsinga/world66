@@ -1,18 +1,18 @@
 ---
-title: "Hockley Woods and Cherry Orchard Way Park"
+title: Hockley Woods and Cherry Orchard Way Park
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-  - woodland
-  - walking
-  - birdwatching
-latitude: 51.5951
-longitude: 0.6446
-score: 6.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/SEN
+latitude: 51.59509
+longitude: 0.64463
+score: 6.6
+tags:
+- things_to_do
+- nature
+- walking
+- birdwatching
 ---
 
-Hockley Woods is one of Essex's largest ancient woodlands, with walking paths, birdlife, and a quieter feel than the coast nearby. The woods connect with the meadows and farmland of Cherry Orchard Way Park, making this a good half-day ramble if you want green space around Rayleigh.
+Hockley Woods is one of the largest ancient woodland areas in Essex, with walking paths, spring flowers, and good birdwatching. The woods open into Cherry Orchard Way Park, a mix of meadow and farmland that gives the route a more open feel.
+
+It is a useful outdoor stop near Rayleigh, especially if you want a longer walk rather than another town-centre sight.

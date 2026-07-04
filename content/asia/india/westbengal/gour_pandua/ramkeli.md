@@ -1,16 +1,16 @@
 ---
-title: "Ramkeli"
+title: Ramkeli
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Gour_(West_Bengal)
 tags:
   - things_to_do
-  - sight
   - temple
-  - history
+  - heritage
 latitude: 24.8864
 longitude: 88.1279
-score: 6.7
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Gour_(West_Bengal)"
+score: 7.0
 ---
 
-Ramkeli is a small but important Vaishnavite pilgrimage site near the ruins of Gour. It marks the meeting place of Chaitanya Mahaprabhu with Rupa and Sanatana Goswami, and has a statue, a small temple with footprints attributed to Chaitanya, and the Madanmohan Jiu temple behind it. It pairs well with the nearby gates, mosques, and towers of Gour.
+Ramkeli is a pilgrimage stop associated with Chaitanya Mahaprabhu and the early Gaudiya Vaishnava tradition. The site includes a statue, a small temple with footprints attributed to Chaitanya, and the Madanmohan Jiu temple, making it a useful addition to a visit around Gour's historic monuments.
+

@@ -1,15 +1,14 @@
 ---
 title: Globe of the Great Southwest
 type: poi
-tags:
-  - things_to_do
-  - theatre
-  - architecture
 latitude: 31.8639
 longitude: -102.382
-score: 7.0
+tags: [things_to_do, theatre, architecture, family]
+score: 6.7
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Odessa_(Texas)"
+source_url: https://en.wikivoyage.org/wiki/Odessa_(Texas)
 ---
 
-The Globe of the Great Southwest is a full-size recreation of Shakespeare's Globe Theatre on the Odessa College campus. It stages plays and other productions through the year, and the neighbouring Anne Hathaway cottage replica adds to the odd pleasure of finding Elizabethan England in West Texas.
+The Globe of the Great Southwest is a full-scale replica of Shakespeare's Globe Theatre in Odessa. It hosts plays and other productions through the year and includes a replica of Anne Hathaway's cottage nearby.
+
+Even outside performance times, the unusual building makes it one of the more distinctive cultural stops in the Midland-Odessa area.

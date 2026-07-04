@@ -1,18 +1,15 @@
 ---
-title: "Henry Cooper House"
+title: Henry Cooper House
 type: poi
+latitude: 39.27187
+longitude: -81.52953
+score: 6.1
 tags:
-- things_to_do
-- sight
-- historic_house
-- local_history
-latitude: 39.2719
-longitude: -81.5295
-score: 6.2
+  - things_to_do
+  - history
+  - architecture
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/PKB"
+source_url: https://en.wikivoyage.org/wiki/Parkersburg
 ---
 
-Henry Cooper House is a reconstructed log cabin with roots going back to 1804, a few years before Parkersburg was formally founded. It is usually described as the oldest house in Wood County, which makes it a small but useful marker of the area's early settlement history.
-
-It is a quick stop rather than a major museum, best paired with Parkersburg's riverfront and other historic sites.
+The Henry Cooper House is a reconstructed early-1800s cabin, believed to represent one of the oldest structures associated with Wood County's early settlement.

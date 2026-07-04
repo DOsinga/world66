@@ -1,17 +1,16 @@
 ---
 title: Fanyin Cave
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - cave
-  - pilgrimage
 latitude: 30.0057
 longitude: 122.4082
-score: 7.0
+score: 7.1
+tags:
+- things_to_do
+- temple
+- cave
+- pilgrimage
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/HSN
 ---
 
-Fanyin Cave sits on the east coast of Mount Putuo and makes a quiet change from the island's busier monastery stops. From Fayu Monastery it is a short bus ride and walk, with forest paths continuing toward nearby Shancai Cave.
-
+Fanyin Cave is one of Mount Putuo's Buddhist pilgrimage sites, set into the island's rocky eastern side. Visitors come for the cliffside setting, sea views, and the cave's association with Guanyin worship, making it a worthwhile stop while exploring the temples and paths beyond the main monasteries.

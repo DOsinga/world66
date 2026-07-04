@@ -1,16 +1,15 @@
 ---
 title: Lions Gate Bridge
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Stanley_Park
 tags:
   - things_to_do
-  - architecture
   - landmark
-  - cycling
+  - architecture
 latitude: 49.3155
 longitude: -123.1385
-score: 8.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Vancouver"
+score: 7.8
 ---
 
-Lions Gate Bridge is the green suspension bridge linking Vancouver and the North Shore across Burrard Inlet. Built in the late 1930s, it is both a city landmark and a practical walking or cycling route, with wide views toward Stanley Park, the harbour, and the mountains.
+Lions Gate Bridge is Vancouver's green suspension bridge linking Stanley Park with the North Shore across Burrard Inlet. The bridge is best appreciated from Stanley Park viewpoints, where its towers frame the harbour and mountains.

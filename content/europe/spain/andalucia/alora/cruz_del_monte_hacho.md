@@ -1,16 +1,17 @@
 ---
-title: "Cruz del Monte Hacho"
+title: Cruz del Monte Hacho
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - viewpoint
-  - walking
-latitude: 36.8287
-longitude: -4.7120
-score: 6.7
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Alora
+latitude: 36.828731
+longitude: -4.712024
+score: 6.5
+tags:
+- things_to_do
+- viewpoint
+- walking
 ---
 
-Cruz del Monte Hacho is the white cross on the hill above Álora. The climb is signposted from town and rewards the effort with broad views over the whitewashed houses, the Guadalhorce valley, and the dry hills beyond.
+Cruz del Monte Hacho is the crucifix on the hill above Alora, reached by a signposted path from town. The climb is the point: from the cross you get wide views over the whitewashed town, the Guadalhorce valley, and the surrounding hills.
+
+Go early or late in hot weather, and treat it as a short walk rather than a major hike.

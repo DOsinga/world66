@@ -1,17 +1,16 @@
 ---
 title: Jinhae Marine Park
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - museum
-  - family
-  - coast
 latitude: 35.0914
 longitude: 128.7197
-score: 7.1
+score: 6.8
+tags:
+  - things_to_do
+  - family
+  - museum
+  - coast
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Changwon"
+source_url: https://en.wikivoyage.org/wiki/Changwon
 ---
 
-Jinhae Marine Park brings several small coastal attractions together, including marine ecology exhibits, naval history displays, and a deck road along the water. It is especially good with children, but the sea views make it a pleasant outing even if you are mainly using Jinhae as a cherry-blossom stop.
+Jinhae Marine Park is a coastal family attraction with the Changwon Solar Tower, marine-life exhibits, a fish ecology learning center, naval-history displays, and deck walks by the water. It is especially useful for families looking for an easy Jinhae stop beyond the cherry blossom streets.

@@ -1,18 +1,18 @@
 ---
 title: "Korean Folk Village"
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Everland
+latitude: 37.259402
+longitude: 127.120557
+score: 7.4
 tags:
   - things_to_do
   - museum
   - history
-  - culture
-latitude: 37.2594
-longitude: 127.1206
-score: 8.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Everland"
+  - family
 ---
 
-Korean Folk Village is an open-air museum of traditional houses, workshops, and village scenes from the Joseon period. It is built for wandering rather than glass-case viewing, with performances and craft demonstrations giving the place some life.
+Korean Folk Village is an open-air museum of traditional Korean houses, workshops, and village life from the Joseon period. The site is large enough to feel like a full outing, with regional building styles, craft demonstrations, and regular performances.
 
-It sits outside central Suwon, but it pairs well with a longer day around the city if you want a fuller picture of Korean history beyond the fortress walls.
+It is more polished than a quiet heritage site, but that makes it easy to visit with children or first-time visitors. Allow several hours if you want to see the performances as well as the houses.

@@ -1,18 +1,18 @@
 ---
-title: Old English Cemetery
+title: "Old English Cemetery"
 type: poi
+latitude: 24.123594
+longitude: 88.275818
+score: 6.4
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Baharampur"
 tags:
   - things_to_do
   - sight
   - cemetery
   - history
-latitude: 24.1236
-longitude: 88.2758
-score: 6.3
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Baharampur"
 ---
 
-The Old English Cemetery is a small colonial-era burial ground in Berhampore. Its most noted grave is that of Mary Hastings, wife of Warren Hastings, along with that of her infant daughter.
+The Old English Cemetery is one of Berhampore's colonial-era burial grounds, with tombs and graves from the period when Murshidabad and nearby cantonment towns were closely tied to the East India Company.
 
-Many of the other graves are worn or unmarked, which gives the place a quieter, more fragmentary feel than a polished heritage site. It is a short stop for travellers interested in Bengal's colonial history.
+Among the notable burials are Mary Hastings, wife of Warren Hastings, and her infant daughter. The cemetery is most worthwhile for visitors already exploring Berhampore's older churches, palaces, and other British-period remains.

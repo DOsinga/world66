@@ -1,16 +1,15 @@
 ---
 title: "Turkish Bath House"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - historic_bath
-latitude: 41.3624
-longitude: 48.5074
-score: 6.5
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Guba"
+latitude: 41.362388
+longitude: 48.507444
+score: 6.3
+tags:
+  - things_to_do
+  - historic_site
+  - architecture
 ---
 
-Quba's Turkish Bath House is a small historic bath building with a brick dome that stands apart from much of the town's architecture. It is a quick stop rather than a major sight, but it adds texture to a walk through the old centre.
+Quba's Turkish Bath House is an 18th- or early-19th-century brick bathhouse with a prominent domed roof. It is a small stop, but the form stands out from the surrounding streets and gives a quick look at the town's older public-bath architecture.

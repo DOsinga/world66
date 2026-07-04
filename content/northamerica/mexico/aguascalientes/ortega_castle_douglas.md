@@ -1,18 +1,14 @@
 ---
 title: Ortega Castle Douglas
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - historic_house
-latitude: 21.8857
-longitude: -102.2897
+latitude: 21.88572
+longitude: -102.28972
+tags: [things_to_do, sight, architecture, historic_house]
 score: 6.2
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/AGU"
+source_url: https://en.wikivoyage.org/wiki/AGU
 ---
 
-Ortega Castle Douglas is one of Aguascalientes' odder private landmarks, a castle-like residence built for a family with Scottish roots. The towers, crenellations and moat make it stand out sharply from the surrounding streets.
+Ortega Castle Douglas is an eccentric residence built for a Scottish immigrant family in central Aguascalientes. Its turrets and moat-like setting make it look more like a storybook castle than a typical Mexican townhouse.
 
-It is more a curiosity than a polished attraction, and you should not plan your day around it. Still, if you are already nearby, the building is worth a look for the sheer surprise of finding a Scottish fantasy castle in central Mexico.
+The appeal is mainly architectural, so it is best seen as part of a walk through the historic centre rather than as a long stop.

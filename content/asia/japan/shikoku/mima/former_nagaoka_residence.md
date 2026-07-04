@@ -1,16 +1,17 @@
 ---
 title: Former Nagaoka Residence
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - historic_house
-  - architecture
-latitude: 34.0700
-longitude: 134.1555
-score: 6.5
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Mima"
+source_url: https://en.wikivoyage.org/wiki/Mima
+latitude: 34.0699714
+longitude: 134.1555246
+score: 6.5
+tags:
+- things_to_do
+- architecture
+- historic_house
 ---
 
-The Former Nagaoka Residence is an Important Cultural Property that was moved and reassembled in Mima after preservation work in the late 1970s. It gives a close look at rural domestic architecture from the Sanuki foothills, with more texture than a quick stop in the old streets alone.
+Former Nagaoka Residence is a relocated thatched farmhouse in Wakimachi and an Important Cultural Property. Its mud-and-earth walls and yosemune-style roof show the building style once common on the dry southern slopes of the Sanuki Mountains.
+
+It makes a good companion stop to the Udatsu townscape and Yoshida Residence, especially for travelers interested in rural architecture rather than merchant houses alone.

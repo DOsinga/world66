@@ -1,16 +1,12 @@
 ---
 title: Halla Arboretum
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - garden
-  - nature
+tags: [things_to_do, garden, nature]
 latitude: 33.4702
-longitude: 126.4933
-score: 6.5
+longitude: 126.49331
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Jeju"
+source_url: https://en.wikivoyage.org/wiki/CJU
 ---
 
-Halla Arboretum brings together native Jeju plants and subtropical species in a quiet garden setting near Jeju City. It is not as dramatic as Hallasan itself, but it is an easy place to see the island's flora without committing to a mountain hike.
+Halla Arboretum is a botanical garden near Jeju City with native Jeju plants, subtropical species, and easy walking paths. It is a useful low-key stop for seeing the island's plant life without committing to a longer mountain or forest hike.

@@ -1,19 +1,18 @@
 ---
 title: Khooni Darwaza
 type: poi
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Delhi/Central"
-tags:
-  - things_to_do
-  - sight
-  - history
-  - architecture
-  - lutyens
 latitude: 28.635974
 longitude: 77.241042
-score: 6.6
+tags:
+  - things_to_do
+  - monument
+  - history
+  - architecture
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Delhi/Central"
+score: 7.0
 ---
 
-Khooni Darwaza is a battered stone gateway with a dark place in Delhi's history. It is best known as the spot where British officer William Hodson killed three Mughal princes after the suppression of the 1857 uprising, turning an older city gate into a symbol of imperial violence.
+Khooni Darwaza is a 15.5-metre stone gateway with a grim place in Delhi's history. It is associated with executions under earlier rulers and with the killing of members of Bahadur Shah Zafar's family after the 1857 uprising.
 
-The monument is small and traffic presses close around it, so it is not a long visit. It is worth a stop if you are tracing Delhi's layered history between Old Delhi, India Gate, and the museums around Pragati Maidan.
+The upper levels are normally locked, but the gateway is still a worthwhile stop for travellers tracing Delhi's older fortifications and 1857 sites.

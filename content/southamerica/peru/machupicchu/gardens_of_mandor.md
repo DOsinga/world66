@@ -1,17 +1,12 @@
 ---
-title: "Gardens of Mandor"
+title: Gardens of Mandor
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - garden
-  - hiking
-  - waterfall
-latitude: -13.1487
-longitude: -72.54
+tags: [things_to_do, garden, waterfall, walking]
+latitude: -13.148709
+longitude: -72.539989
 score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Aguas_Calientes"
+source_url: https://en.wikivoyage.org/wiki/Aguas_Calientes
 ---
 
-Private garden and waterfall reached by walking along the railway line from Aguas Calientes toward Hidroelectrica. The trail passes orchids and humid forest, making it a good low-key escape from the crowds around Machu Picchu itself.
+The Gardens of Mandor are a private garden and waterfall reached by walking along the railway line from Aguas Calientes toward Hidroeléctrica. The route is a pleasant half-day escape from the crowds around Machu Picchu, with forest, birds, and a small waterfall at the end.

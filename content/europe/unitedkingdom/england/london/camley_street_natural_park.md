@@ -1,20 +1,14 @@
 ---
 title: Camley Street Natural Park
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
-  - nature
-  - wildlife
-  - camden_town
-latitude: 51.5346
-longitude: -0.1269
-score: 6.8
+latitude: 51.534564
+longitude: -0.126879
+tags: [things_to_do, sight, nature, park]
+score: 6.6
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Camden_(London)"
+source_url: https://en.wikivoyage.org/wiki/Camden_(London)
 ---
 
-Camley Street Natural Park is a small nature reserve just north of King's Cross, squeezed between rail lines, canals and new development. It is not grand London, but that is the point: ponds, reed beds and paths show how much wildlife can survive in the middle of the city.
+Camley Street Natural Park is a small nature reserve beside Regent's Canal, just north of King's Cross. Its ponds, meadow patches and woodland paths make an abrupt change from the surrounding railway yards and new development.
 
-It is an easy stop if you are walking around King's Cross, Coal Drops Yard or the Regent's Canal. The reserve is run by the London Wildlife Trust and is best treated as a short, quiet break rather than a major sight.
+It is best treated as a short urban nature stop rather than a full outing. Families and birdwatchers will get the most from it.

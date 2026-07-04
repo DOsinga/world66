@@ -1,19 +1,14 @@
 ---
 title: Belfry and Town Hall
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - unesco
-  - history
-latitude: 50.8156
-longitude: 5.1860
-score: 7.6
+latitude: 50.815619
+longitude: 5.185993
+tags: [things_to_do, sight, architecture, unesco]
+score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Sint-Truiden"
+source_url: https://en.wikivoyage.org/wiki/Sint-Truiden
 ---
 
-Sint-Truiden's belfry rises from the town hall on the Grote Markt, a layered building whose oldest parts go back to the medieval cloth hall. The belfry is part of the UNESCO-listed group of Belgian and French belfries, and it gives the square its main vertical accent.
+Sint-Truiden's town hall is crowned by a civic belfry that forms part of the UNESCO-listed Belfries of Belgium and France. The tower began as part of the medieval cloth hall and became the city's most visible symbol of municipal authority.
 
-The building has been reshaped several times, so look for the mix rather than a single pure style. It is an easy first stop in town, with Sint-Truiden Abbey and the market square immediately around it.
+The building anchors the central square and is worth a look while walking through the old centre. The belfry is the main point of interest, especially for travellers following the region's historic civic towers.

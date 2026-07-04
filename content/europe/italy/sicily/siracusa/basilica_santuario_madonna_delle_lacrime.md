@@ -1,16 +1,15 @@
 ---
-title: "Basilica Santuario Madonna delle Lacrime"
+title: Basilica Santuario Madonna delle Lacrime
 type: poi
+latitude: 37.074722
+longitude: 15.285278
 tags:
   - things_to_do
-  - sight
-  - architecture
   - church
-latitude: 37.0747
-longitude: 15.2853
-score: 7.0
+  - architecture
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Siracusa"
+score: 7.0
 ---
 
-Basilica Santuario Madonna delle Lacrime is hard to miss: a vast concrete cone rising over modern Siracusa. Built around a 1950s weeping-Madonna devotion, it is a striking contrast to the city's Greek and Baroque sights, and the circular interior is more impressive than the exterior suggests.
+Basilica Santuario Madonna delle Lacrime is Siracusa's striking modern sanctuary, a vast concrete cone completed in 1994. Its scale, circular interior, and crypt make it very different from the city's older churches and archaeological sights.

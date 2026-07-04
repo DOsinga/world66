@@ -1,16 +1,18 @@
 ---
 title: Batu Malang Penyu
 type: poi
-tags:
-  - things_to_do
-  - snorkeling
-  - diving
-  - reef
-latitude: -2.5400
-longitude: 107.6320
-score: 7.0
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Belitung"
+source_url: https://en.wikivoyage.org/wiki/Belitung
+latitude: -2.54
+longitude: 107.632
+score: 6.6
+tags:
+- things_to_do
+- nature
+- snorkeling
+- diving
 ---
 
-Batu Malang Penyu is a snorkelling and diving spot in the waters between Lengkuas and Kepayang islands. Coral, reef fish, and a nearby wreck make it one of the more interesting boat stops off Belitung, especially when the sea is calm and visibility is good.
+Batu Malang Penyu is a snorkeling and diving area between Lengkuas and Kepayang Island, known for clear water, granite rocks, coral, reef fish, and a nearby wreck.
+
+It is best treated as part of an island-hopping day around northwestern Belitung, paired with Lengkuas Island, Kepayang Island, or Tanjung Kelayang.

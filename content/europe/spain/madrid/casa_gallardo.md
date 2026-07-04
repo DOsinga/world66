@@ -1,18 +1,15 @@
 ---
-title: Casa Gallardo
+title: "Casa Gallardo"
 type: poi
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Madrid/Moncloa"
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - arguelles
 latitude: 40.423205
 longitude: -3.714225
-score: 6.8
+score: 6.6
+tags:
+  - things_to_do
+  - architecture
+  - art_nouveau
 ---
 
-Casa Gallardo is one of the showier Art Nouveau buildings around Plaza de Espana, all curved balconies, sculpted stone, and restless ornament. Federico Arias Rey designed it in the early 20th century, and it still stands out against the square's heavier mid-century towers.
-
-You will see it from the outside rather than tour it, so treat it as part of a walk through Arguelles and the western edge of central Madrid. It is especially good if you enjoy the city's smaller architectural surprises.
+Casa Gallardo is an ornate modernista building on the western corner of Plaza de Espana. Designed by Federico Arias Rey and completed in 1914, it rewards a short look while walking between the plaza, Templo de Debod, and the Arguelles sights.

@@ -1,18 +1,12 @@
 ---
 title: Parco Duca di Cesarò
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
-  - garden
-latitude: 37.8509
-longitude: 15.2898
+tags: [things_to_do, garden, viewpoint]
+latitude: 37.850883
+longitude: 15.289772
 score: 7.2
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Castelmola
+source_url: https://en.wikivoyage.org/wiki/Taormina
 ---
 
-Parco Duca di Cesarò is Taormina's leafy municipal garden, laid out with terraces, paths, and whimsical oriental-style follies. It is one of the easiest places in town to escape the main street without leaving the view behind.
-
-The gardens were created by Florence Trevelyan, the English conservationist who also bought Isola Bella. Come for shade and quiet, then stay for the outlook over the coast and the theatrical oddness of the garden buildings.
+Parco Duca di Cesarò is a quiet garden near the centre of Taormina, laid out by Florence Trevelyan and dotted with eccentric follies. It is a useful break from the busy streets, with shaded paths and views toward the coast.

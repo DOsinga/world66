@@ -1,19 +1,14 @@
 ---
 title: Skuleskogen National Park
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - national_park
-  - hiking
-  - nature
-latitude: 63.1167
-longitude: 18.5000
-score: 9.0
+latitude: 63.116667
+longitude: 18.5
+tags: [things_to_do, sight, national_park, hiking]
+score: 8.6
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/High_Coast"
+source_url: https://en.wikivoyage.org/wiki/High_Coast
 ---
 
-Skuleskogen National Park is one of the strongest reasons to visit the High Coast. The landscape is rough and compact: old forest, bare rock, cliffs, sea views and the famous Slåttdalsskrevan, a narrow ravine dropping about 40 metres between sheer stone walls.
+Skuleskogen National Park protects one of the wildest sections of the High Coast, with forest, rocky ridges, lakes and steep shoreline shaped by post-glacial land uplift. The best-known feature is Slattdalsskrevan, a narrow cleft through the rock reached by hiking trails.
 
-The park rewards hikers more than drivers. Trails range from short loops to longer routes that connect with the High Coast Trail, and the terrain can be slow underfoot. Bring proper shoes and allow more time than the map distance suggests.
+This is a proper outdoor stop rather than a roadside viewpoint. Bring footwear for rough ground and allow enough time for one of the marked loops.

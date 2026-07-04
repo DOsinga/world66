@@ -1,16 +1,17 @@
 ---
 title: Shenandoah Valley Discovery Museum
 type: poi
+latitude: 39.1822
+longitude: -78.1671
+score: 7.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/White_Post
 tags:
   - things_to_do
   - museum
   - family
-  - science
-latitude: 39.1822
-longitude: -78.1671
-score: 6.5
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/White_Post
 ---
 
-Shenandoah Valley Discovery Museum is a hands-on museum for families, with exhibits built around science, art, math, and local culture. It is one of Winchester's better rainy-day stops if you are traveling with children.
+Shenandoah Valley Discovery Museum is Winchester's hands-on children's museum, with exhibits built around science, maths, humanities, and the arts. It is aimed squarely at families, especially on days when younger travellers need something more active than historic houses and battle sites.
+
+Its central location makes it easy to combine with Old Town Winchester.

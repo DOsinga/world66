@@ -1,16 +1,15 @@
 ---
-title: "Birla Planetarium"
+title: Birla Planetarium
 type: poi
+latitude: 22.5455
+longitude: 88.3473
+score: 7.3
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Kolkata/Maidan"
 tags:
   - things_to_do
-  - museum
   - science
-  - planetarium
-latitude: 22.545533
-longitude: 88.345194
-score: 7.0
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Astrotourism_in_India
+  - museum
 ---
 
-Birla Planetarium is one of Kolkata's classic science stops, set near the Maidan and Victoria Memorial. Its large dome and regular astronomy shows make it a good break from temples, colonial buildings, and street life, especially for families or anyone curious about India's older public science institutions.
+Birla Planetarium is one of India's best-known planetariums, with a large dome and regular shows in English, Hindi, and Bengali. Its Maidan location makes it easy to combine with the Victoria Memorial and other central Kolkata sights.

@@ -1,17 +1,16 @@
 ---
 title: Hasht Behesht Palace
 type: poi
+latitude: 32.653428
+longitude: 51.669969
+score: 7.8
 tags:
   - things_to_do
-  - sight
-  - architecture
   - palace
+  - architecture
   - garden
-latitude: 32.6534
-longitude: 51.67
-score: 8.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Esfahan"
+source_url: https://en.wikivoyage.org/wiki/Esfahan
 ---
 
-Hasht Behesht Palace is a Safavid garden pavilion from 1669, built as a pleasure palace rather than a formal seat of power. Its name means "Eight Paradises", and the building still has the light, open quality of a place designed for shade, water, and conversation. Even if you skip the interior, the surrounding garden is a fine break from Isfahan's busier monuments.
+Hasht Behesht Palace is a Safavid pavilion set in a garden near central Isfahan. Built in the seventeenth century, it is smaller than the city's best-known royal monuments, but its airy plan, tilework, and garden setting make it a rewarding stop while walking between Isfahan's historic sights.

@@ -1,16 +1,15 @@
 ---
 title: St Michael and All Angels
 type: poi
-tags:
-- things_to_do
-- sight
-- church
-- history
 latitude: 50.5461
-longitude: -3.9961
+longitude: -3.99611
 score: 6.8
+tags:
+  - things_to_do
+  - church
+  - historic_site
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Princetown
 ---
 
-St Michael and All Angels is a small Dartmoor church with an unusual origin: it was built by French and American prisoners of war held near Princetown. The church is not always open, but the graveyard and exterior are worth a stop for their bleak moorland setting and convict-built history.
+St Michael and All Angels is an unusual Dartmoor church built by French and American prisoners of war held at Princetown. Its history is closely tied to nearby Dartmoor Prison, and the simple granite building is one of the village's most distinctive sights.

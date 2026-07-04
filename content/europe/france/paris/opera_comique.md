@@ -1,17 +1,15 @@
 ---
-title: "Théâtre National de l'Opéra-Comique"
+title: Opera-Comique
 type: poi
 tags:
   - things_to_do
   - theatre
   - architecture
-  - music
-  - leshalles
-latitude: 48.8709
-longitude: 2.3375
-score: 8.0
+latitude: 48.870861
+longitude: 2.337511
+score: 6.5
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Paris/2nd"
+source_url: https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement
 ---
 
-The Opéra-Comique is one of Paris's great historic opera houses, best known for the French tradition of opera with spoken dialogue. Check the programme if you want a more intimate alternative to the city's grander opera stages.
+The Opera-Comique is one of Paris's historic opera houses, home to the company associated with the French opera-comique tradition. Its Salle Favart setting makes it worth noting for visitors interested in music, theatre, and 19th-century Paris architecture.

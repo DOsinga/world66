@@ -1,17 +1,18 @@
 ---
 title: Ostankino Palace and Park
 type: poi
+latitude: 55.824722
+longitude: 37.614444
 tags:
   - things_to_do
-  - sight
   - palace
   - architecture
   - park
-latitude: 55.8247
-longitude: 37.6144
-score: 8.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Kolomenskoye
+source_url: "https://en.wikivoyage.org/wiki/Kolomenskoye"
+score: 7.6
 ---
 
-Ostankino Palace was the Sheremetev family's summer estate and private theatre, a remarkable wooden palace built around an opera hall at the end of the 18th century. The surrounding park and nearby television tower make this northern Moscow district a strong excursion for visitors who have already seen the Kremlin and the central museums.
+Ostankino Palace and Park was the Sheremetev family's summer residence and private opera theatre north of central Moscow. The wooden palace was built in 1792-1798 around a theatre hall, with Egyptian and Italian pavilions nearby.
+
+The site also includes the 17th-century Trinity Church and remnants of the old park, making it a strong stop for visitors interested in Moscow's aristocratic estates.

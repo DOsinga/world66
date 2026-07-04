@@ -1,16 +1,15 @@
 ---
-title: "Kumana Baobab"
+title: Kumana Baobab
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-  - tree
 latitude: -24.6185
 longitude: 31.787
-score: 6.4
+score: 6.6
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kruger_National_Park
+tags:
+- things_to_do
+- nature
+- tree
 ---
 
-The Kumana Baobab stands near the Kumana waterhole on a bend of the N'waswitsontso River. Its claim to fame is simple but memorable: it is often cited as the southernmost baobab in the world.
+Kumana Baobab stands near a bend of the N'waswitsontso River by Kumana waterhole. Its broad trunk and remote setting make it a small but memorable stop on a Kruger drive, especially for travellers interested in the park's less obvious natural landmarks.

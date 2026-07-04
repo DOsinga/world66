@@ -1,16 +1,15 @@
 ---
-title: "Moscow Triumphal Gate"
+title: Moscow Triumphal Gate
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - monument
-  - architecture
 latitude: 59.8914
 longitude: 30.3194
-score: 7.1
+score: 7.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Saint_Petersburg/South
+tags:
+- things_to_do
+- monument
+- architecture
 ---
 
-The Moscow Triumphal Gate is a massive cast-iron arch built in 1838 to mark Russian victories in the early 19th century. Its dark columns and severe classical lines make it one of the more striking monuments away from St Petersburg's imperial centre.
+The Moscow Triumphal Gate is a monumental cast-iron arch built in 1838 to mark Russian victories in the wars with Turkey, Persia, and Poland. Designed by Vasily Stasov, it is one of the city's more unusual imperial monuments: grand in scale, but set well away from the usual central sightseeing route.

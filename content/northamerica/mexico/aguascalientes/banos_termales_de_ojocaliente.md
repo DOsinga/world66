@@ -1,18 +1,17 @@
 ---
-title: Baños Termales de Ojocaliente
+title: Banos Termales de Ojocaliente
 type: poi
+latitude: 21.88405
+longitude: -102.26857
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Aguascalientes
+score: 7.0
 tags:
   - things_to_do
-  - spa
-  - swimming
   - hot_springs
-latitude: 21.8841
-longitude: -102.2686
-score: 6.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/AGU
+  - baths
 ---
 
-Banos Termales de Ojocaliente is the city's old hot-spring bathing complex, a fitting stop in a place whose name means "hot waters." The draw is straightforward: warm mineral pools, private baths, and a slower local rhythm than the plazas and museums in the centre.
+Banos Termales de Ojocaliente is the historic hot-spring bath complex that gives Aguascalientes its name. Visitors can use swimming pools and private baths fed by thermal water.
 
-It is best treated as a relaxed couple of hours rather than a major spa destination. Go when you want a swim, a soak, and a glimpse of a tradition that predates modern Aguascalientes.
+It is a simple but distinctive local experience, and a good break from the city's museums and colonial center.

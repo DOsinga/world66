@@ -1,16 +1,15 @@
 ---
 title: Sedil Dominova
 type: poi
+latitude: 40.62592
+longitude: 14.37335
+score: 6.5
 tags:
   - things_to_do
-  - sight
-  - architecture
   - historic_site
-latitude: 40.6259
-longitude: 14.3734
-score: 6.4
+  - architecture
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Sorrento
 ---
 
-Sedil Dominova is a rare survivor from Sorrento's old noble life: an open loggia where local aristocrats once met to settle business and politics. Its frescoed walls and street-corner setting make it an easy, worthwhile stop while wandering the historic centre.
+Sedil Dominova is a small but distinctive historic loggia in central Sorrento. It once served as a meeting place for the town's noble families and now houses the Società di Mutuo Soccorso. The attraction is brief, but the frescoed, open-sided building is an easy stop while walking the old centre.

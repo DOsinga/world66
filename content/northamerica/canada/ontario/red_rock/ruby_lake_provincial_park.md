@@ -1,17 +1,16 @@
 ---
-title: "Ruby Lake Provincial Park"
+title: Ruby Lake Provincial Park
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Nipigon
 tags:
   - things_to_do
-  - sight
-  - park
+  - nature
   - hiking
-  - paddling
 latitude: 48.9754
-longitude: -88.1770
-score: 7.1
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Nipigon"
+longitude: -88.177
+score: 6.4
 ---
 
-Ruby Lake Provincial Park is a rugged Lake Superior park with few services, which is part of the appeal. The hiking trails climb to wide views over Nipigon Bay, while the southern shore links into the Lake Superior Water Trail for canoe and kayak trips.
+Ruby Lake Provincial Park is a rugged Lake Superior park with rough trails and views over Nipigon Bay. There are few visitor services, so it suits self-sufficient hikers and paddlers looking for a quieter natural stop near Red Rock.
+

@@ -1,19 +1,18 @@
 ---
-title: Guan-Yue Temple
+title: "Guan-Yue Temple"
 type: poi
-tags:
-- things_to_do
-- sight
-- temple
-- taoist
-latitude: 24.9047
-longitude: 118.5883
-score: 7.7
+latitude: 24.904722
+longitude: 118.588333
+score: 7.2
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Quanzhou
-snippet: Busy Taoist warrior temple with a huge ritual furnace for paper offerings.
+source_url: "https://en.wikivoyage.org/wiki/Quanzhou"
+tags:
+  - things_to_do
+  - temple
+  - taoist
+  - architecture
 ---
 
-Guan-Yue Temple is a large Taoist temple dedicated to Guan Yu and Yue Fei, two generals revered for loyalty and martial virtue. It feels more local and lived-in than many heritage sights in Quanzhou, with worshippers moving between altars and incense smoke hanging in the courtyards.
+Guan-Yue Temple is a busy Taoist temple dedicated to Guan Yu and Yue Fei, two warrior figures honoured across China. The temple is large, colourful, and active, with a huge ritual furnace used for burning joss paper offerings.
 
-The most memorable feature is the tall ritual furnace used for burning joss paper. Around festivals such as Yuanxiao, the furnace becomes a focus of activity as people queue with offerings.
+It is one of Quanzhou's more vivid religious stops and pairs well with Qingjing Mosque, Tianhou Temple, and the old commercial streets nearby.

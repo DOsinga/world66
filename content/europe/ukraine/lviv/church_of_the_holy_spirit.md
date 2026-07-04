@@ -1,19 +1,18 @@
 ---
-title: "Church of the Holy Spirit"
+title: Church of the Holy Spirit
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - museum
-  - architecture
-  - history
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/L%27viv
 latitude: 49.836
 longitude: 24.0221
-score: 6.3
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/L%27viv"
+score: 6.4
+tags:
+  - things_to_do
+  - church
+  - museum
+  - history
 ---
 
-The Church of the Holy Spirit survives mainly through its restored bell tower, a compact Baroque landmark left after wartime destruction. The site now houses the Mermaids of the Dniester Museum, tied to the 19th-century Ukrainian literary circle that helped shape modern Ukrainian cultural life.
+The Church of the Holy Spirit was largely destroyed during World War II, leaving its restored baroque bell tower as the main surviving feature. The tower now houses the Mermaids of the Dniester Museum.
 
-It is a small stop, but worthwhile if you are already following Lviv's churches, museums, and literary history.
+It is a small stop, but worthwhile if you are tracing Lviv's layered religious and literary history around the centre.

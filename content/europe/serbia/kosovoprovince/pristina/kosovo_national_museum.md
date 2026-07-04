@@ -1,5 +1,5 @@
 ---
-title: "Kosovo National Museum"
+title: Kosovo National Museum
 type: poi
 tags:
   - things_to_do
@@ -8,9 +8,9 @@ tags:
   - archaeology
 latitude: 42.665679
 longitude: 21.166275
-score: 7.3
+score: 7.2
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/PRN"
+source_url: https://en.wikivoyage.org/wiki/PRN
 ---
 
-Kosovo National Museum holds archaeological and ethnographic material that helps explain the region's long, contested history. The collection is strongest on prehistoric finds and traditional culture, though opening arrangements can change during renovation work, so check before crossing town.
+Kosovo National Museum is Pristina's main museum for archaeology, history, and cultural heritage, housed in a late-19th-century Austro-Hungarian building near the old city core. The central building has been undergoing a major restoration, so check access before planning a visit around the collection.

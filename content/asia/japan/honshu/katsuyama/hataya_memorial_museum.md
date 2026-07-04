@@ -1,18 +1,17 @@
 ---
 title: Hataya Memorial Museum
 type: poi
+latitude: 36.061721
+longitude: 136.503122
+score: 6.5
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Katsuyama
-latitude: 36.0617
-longitude: 136.5031
-score: 6.2
 tags:
   - things_to_do
   - museum
-  - craft
-  - textile
+  - crafts
 ---
 
-Hataya Memorial Museum is a small craft museum focused on Katsuyama's silk and weaving traditions. The appeal is hands-on rather than grand: visitors can try simple loom work, thread-making, and small cocoon crafts.
+Hataya Memorial Museum is a small hands-on museum in central Katsuyama focused on silk and textile work. Visitors can try simple activities such as loom use, thread making, or small craft projects using silk cocoons.
 
-It is a modest stop, but a useful counterpoint to the dinosaur museum and temple sights nearby. Families and anyone interested in traditional textile work will get the most out of it.
+It is not the town's main draw, but it is a useful stop if you want something quieter and more local after the dinosaur museum or temple visits.

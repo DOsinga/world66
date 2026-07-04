@@ -1,16 +1,16 @@
 ---
-title: "Notre Dame de Grâce Chapel"
+title: Notre Dame de Grace Chapel
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - church
-  - viewpoint
-latitude: 49.4229
-longitude: 0.2216
-score: 6.8
+latitude: 49.42287
+longitude: 0.22155
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Honfleur
+tags:
+- things_to_do
+- church
+- viewpoint
+- history
 ---
 
-Notre Dame de Grâce Chapel sits above Honfleur, on a hill with fine views over the town and the Seine estuary. The chapel was rebuilt in the early 17th century and is an easy, rewarding climb from the harbour.
+Notre Dame de Grace Chapel stands on the hill above Honfleur, with broad views over the town, the Seine estuary, and the Normandy coast. The old sailors' chapel was rebuilt in the early 17th century and remains a rewarding walk or short drive from the harbour.

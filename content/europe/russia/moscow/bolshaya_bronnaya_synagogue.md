@@ -1,18 +1,18 @@
 ---
-title: "Bolshaya Bronnaya Synagogue"
+title: Bolshaya Bronnaya Synagogue
 type: poi
+latitude: 55.7602
+longitude: 37.5981
+score: 6.3
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Moscow/Central-West
 tags:
   - things_to_do
   - sight
   - synagogue
   - history
-latitude: 55.7602
-longitude: 37.5981
-score: 6.6
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Moscow/Central-West"
 ---
 
-Bolshaya Bronnaya Synagogue began as a private synagogue built for a wealthy pre-revolutionary patron in the early 1900s. Its history runs through the upheavals of Soviet Moscow, including the execution of its pre-war rabbi in 1937, and later attacks that made it a symbol of the city's vulnerable Jewish heritage.
+Bolshaya Bronnaya Synagogue was built in the early 1900s as a private synagogue for a wealthy Moscow patron. Its later history reflects the pressure faced by Jewish institutions in the Soviet period and the security concerns that followed in the post-Soviet years.
 
-It is worth seeking out if you are interested in Moscow's religious history beyond the famous Orthodox churches. Check access before going, as security and opening arrangements can change.
+It is a worthwhile stop for travellers interested in Moscow's Jewish history, especially when exploring the central-west districts around Patriarch's Ponds.

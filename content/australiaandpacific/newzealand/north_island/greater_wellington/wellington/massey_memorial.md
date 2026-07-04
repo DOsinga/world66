@@ -1,16 +1,16 @@
 ---
 title: Massey Memorial
 type: poi
-latitude: -41.285278
-longitude: 174.826111
-score: 6.8
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/WLG
 tags:
   - things_to_do
   - sight
   - memorial
   - viewpoint
+latitude: -41.285278
+longitude: 174.826111
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/WLG
+score: 6.4
 ---
 
-Massey Memorial is a white marble monument on a quiet headland above Wellington Harbour, built for William Massey, New Zealand's prime minister from 1912 to 1925. The memorial itself is solemn and spare, but the real reward is the harbour view from a spot that feels surprisingly removed from the city.
+Massey Memorial is a large memorial to William Massey, Prime Minister of New Zealand from 1912 to 1925. Its harbour views are the main reason to make the trip, especially if you are already exploring the Miramar Peninsula.

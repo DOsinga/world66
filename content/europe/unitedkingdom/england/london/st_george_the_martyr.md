@@ -1,17 +1,12 @@
 ---
 title: "St George the Martyr"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - south_bank
-  - literature
-latitude: 51.5013
-longitude: -0.0927
-score: 6.5
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Bermondsey"
+latitude: 51.501263
+longitude: -0.092671
+score: 6.4
+tags: [things_to_do, church, literature, south_bank]
 ---
 
-St George the Martyr is an 18th-century church just south of Borough, best known for its link with Charles Dickens and *Little Dorrit*. It is not one of London's grand set-piece churches, but it rewards a short detour if you are tracing the city's literary streets.
+St George the Martyr is an 18th-century church near Borough with a strong Dickens connection: it is associated with Little Dorrit and the nearby Marshalsea prison area. It is a good small stop for readers tracing Dickens sites south of the Thames.

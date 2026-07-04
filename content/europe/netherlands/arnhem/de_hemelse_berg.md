@@ -1,16 +1,17 @@
 ---
-title: De Hemelse Berg
+title: "De Hemelse Berg"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Oosterbeek"
 tags:
   - things_to_do
-  - sight
   - park
-  - history
-latitude: 51.9813
-longitude: 5.8281
-score: 6.6
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Arnhem
+  - heritage
+latitude: 51.981267
+longitude: 5.828064
+score: 6.4
 ---
 
-De Hemelse Berg is a wooded estate above Oosterbeek, shaped in the 19th century by writer Johannes Kneppelhout as a retreat for artists. The manor has gone, but the grounds, orangery, and old service buildings still make a pleasant historic walk west of Arnhem.
+De Hemelse Berg is a wooded estate near Oosterbeek, bought in 1848 by the writer Johannes Kneppelhout. He reshaped the grounds and used the estate as a meeting place for artists he supported.
+
+The manor was lost during the fighting around Arnhem in 1944, but the park remains a quiet place for a walk, with old estate features and traces of its cultural history.

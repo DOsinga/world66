@@ -1,16 +1,16 @@
 ---
-title: "Botanical Garden"
+title: Botanical Garden
 type: poi
 tags:
   - things_to_do
-  - sight
-  - park
   - garden
+  - park
+  - heritage
 latitude: 50.85437
 longitude: 4.36497
-score: 7.1
+score: 6.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Brussels/Business_District"
+source_url: https://en.wikivoyage.org/wiki/Brussels/Business_District
 ---
 
-Brussels' old Botanical Garden is now more city park than scientific garden, but the terraces, statues and glasshouses still give it a fine 19th-century air. The greenhouse complex is used as a concert venue, while the lawns and paths make a useful green pause between the North Station area and the inner city.
+Brussels' former Botanical Garden is now a public park around the old greenhouse complex, which has been reused as a concert venue. It is a useful green pause on the north side of the centre, with enough history in the grounds and glasshouse architecture to make it more than a routine city park.

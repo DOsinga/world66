@@ -1,16 +1,16 @@
 ---
 title: Muldalsfossen
 type: poi
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Road_63_(Norway)"
+tags:
+  - things_to_do
+  - waterfall
+  - hiking
+  - nature
 latitude: 62.2513
 longitude: 7.4349
 score: 7.0
-tags:
-  - things_to_do
-  - sight
-  - waterfall
-  - hiking
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Road_63_(Norway)"
 ---
 
-Muldalsfossen is a steep, partly hidden waterfall near the road between Tafjord and Valldal. The full drop is hard to see from one place, but the gorge setting and the high fall make it a worthwhile stop for travellers exploring the quieter side roads around Geirangerfjord.
+Muldalsfossen is a high waterfall hidden in a steep gorge between Tafjord and Valldal. The best views are from the abandoned farm above the fjord, reached by a steep hike of about an hour; the slopes near the falls are exposed and need care.

@@ -1,15 +1,15 @@
 ---
 title: Ningbo Youngor Zoo
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/NGB
 tags:
   - things_to_do
   - zoo
   - family
-latitude: 29.8080
+latitude: 29.808
 longitude: 121.6742
-score: 6.8
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/NGB"
+score: 7.1
 ---
 
-Ningbo Youngor Zoo is a large animal park east of the city, with long walking routes and thousands of animals spread across landscaped grounds. Artificial hills inside the zoo give broad views over the site and make it more than a quick urban zoo visit.
+Ningbo Youngor Zoo is a large zoo near Dongqian Lake, with thousands of animals, long walking routes, and elevated viewpoints across the grounds. It is one of Ningbo's stronger family attractions outside the city centre.

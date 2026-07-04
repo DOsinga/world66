@@ -1,18 +1,15 @@
 ---
-title: "Sarovaram Biopark"
+title: Sarovaram Bio Park
 type: poi
 tags:
   - things_to_do
-  - sight
   - nature
   - park
-  - wildlife
-latitude: 11.2687
-longitude: 75.7927
-score: 7.0
+latitude: 11.26869
+longitude: 75.79274
+score: 6.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Calicut
+source_url: "https://en.wikivoyage.org/wiki/Calicut"
 ---
 
-Sarovaram Biopark protects a patch of mangrove and wetland habitat inside Kozhikode, with canal-side walks, boating, and plenty of birdlife. It is not manicured in the style of a formal city garden, but that is the point: come for shade, water, and a quick look at the coastal ecosystem that still survives around the city.
-
+Sarovaram Bio Park protects wetlands and mangrove habitat in Kozhikode, with canal walkways, boating areas, birdlife, an otter park, and a butterfly park. It is a useful urban nature stop for an easy walk rather than a full-day excursion.

@@ -1,16 +1,15 @@
 ---
-title: "Satpuda Botanical Garden"
+title: Satpuda Botanical Garden
 type: poi
+latitude: 21.15733
+longitude: 79.03979
 tags:
   - things_to_do
-  - sight
   - garden
-  - birds
-latitude: 21.1573
-longitude: 79.0398
-score: 6.2
+  - nature
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Babasaheb_Ambedkar_International_Airport"
+score: 6.4
 ---
 
-Satpuda Botanical Garden is a green stop in Nagpur with rare plant species and enough birdlife to reward a slow walk. It is most useful as a quiet break from the city rather than a major sight.
+Satpuda Botanical Garden is Nagpur's botanical garden, with rare plant species and enough birdlife to interest casual birdwatchers. It is a quiet nature stop rather than a major attraction, useful if you want a low-key break from the city streets.

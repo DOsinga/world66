@@ -1,16 +1,15 @@
 ---
-title: Panteón de Real de Catorce
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - cemetery
-  - history
-latitude: 23.6969
-longitude: -100.8888
+latitude: 23.696880408807704
+longitude: -100.88880673231522
 score: 6.7
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Real_de_Catorce
+tags:
+  - things_to_do
+  - cemetery
+  - history
+title: Panteon de Real de Catorce
+type: poi
 ---
 
-The Panteón de Real de Catorce has served the old mining town since the late 18th century, with weathered graves and the Guadalupe Chapel set against the dry hills. It is a melancholy but atmospheric stop, and the crowded memorials say a lot about how much larger and busier Real de Catorce once was.
+The Panteon de Real de Catorce is the town's old cemetery, with crowded grave markers that reflect the mining boom years when Real de Catorce was far larger than it is today. It is a quiet, atmospheric stop on the edge of town.

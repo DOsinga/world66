@@ -1,17 +1,15 @@
 ---
-title: "Meadows Museum of Art"
+title: Meadows Museum of Art
 type: poi
-tags:
-- things_to_do
-- museum
-- art
-latitude: 32.8382
-longitude: -96.7848
+latitude: 32.83824
+longitude: -96.78483
 score: 8.0
+tags:
+  - things_to_do
+  - museum
+  - art
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Dallas/East_Dallas"
+source_url: https://en.wikivoyage.org/wiki/Dallas/East_Dallas
 ---
 
-The Meadows Museum of Art, on the Southern Methodist University campus, has one of the strongest collections of Spanish art outside Spain. El Greco, Velázquez, Ribera, Murillo, Goya, Miró, and Picasso are all represented, giving the museum real depth rather than a token European gallery.
-
-Outside, Santiago Calatrava's moving sculpture *Wave* adds a bright, kinetic counterpoint to the paintings inside.
+The Meadows Museum holds one of the strongest Spanish art collections outside Spain, with works by El Greco, Velazquez, Goya, Miro, Picasso, and others.

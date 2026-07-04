@@ -1,16 +1,16 @@
 ---
-title: "Heritage Village"
+title: Heritage Village
 type: poi
 tags:
   - things_to_do
-  - sight
-  - culture
   - heritage
+  - culture
+  - museum
 latitude: 25.299522
 longitude: 51.518084
-score: 6.4
+score: 6.5
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Al-Rayyan"
+source_url: https://en.wikivoyage.org/wiki/Al-Rayyan
 ---
 
-Doha's Heritage Village recreates elements of an older Qatari settlement, with displays on weaving, pearl trading and dhow boats. It is not always open as a regular museum, so treat it as a place to catch during Ramadan, Eid or special cultural events rather than a guaranteed daily stop.
+Doha's Heritage Village is a recreated traditional Qatari village with displays around weaving, pearl trading, and dhow culture. It is most useful during Ramadan, Eid, and cultural events, when the site is active rather than just a quiet set of heritage buildings.

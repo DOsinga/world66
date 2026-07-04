@@ -8,10 +8,8 @@ source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Penticton
 tags:
   - things_to_do
-  - sight
-  - park
   - viewpoint
-  - walking
+  - park
 ---
 
-Munson Mountain Park is the hill with Penticton's big white town sign, but the view is the better reason to go. A short paved path reaches a lookout over Okanagan Lake and the South Okanagan valley, while a steeper climb opens wider panoramas across the dry hills and vineyards.
+Munson Mountain Park is the hilltop home of Penticton's large white city sign. Short paths lead to open viewpoints over Okanagan Lake, vineyards, and the South Okanagan valley, making it an easy photo stop just north of town.

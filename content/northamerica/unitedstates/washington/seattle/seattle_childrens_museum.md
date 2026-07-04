@@ -1,15 +1,15 @@
 ---
 title: Seattle Children's Museum
 type: poi
+latitude: 47.6214
+longitude: -122.351
+score: 6.4
 tags:
   - things_to_do
   - museum
   - family
-latitude: 47.6214
-longitude: -122.351
-score: 6.1
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Seattle/Queen_Anne-South_Lake_Union
+source_url: https://en.wikivoyage.org/wiki/Seattle/Eastlake
 ---
 
-Seattle Children's Museum is a hands-on play museum in the Seattle Center Armory, aimed at younger children rather than adults browsing exhibits. It is most useful for families who are already visiting the Space Needle, MoPOP, or the rest of Seattle Center.
+Seattle Children's Museum is a hands-on museum aimed at younger children, with permanent play-based exhibits and changing programs. It is a practical Seattle Center stop for families who need something more active and child-sized than the larger museums nearby.

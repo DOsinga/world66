@@ -1,18 +1,17 @@
 ---
-title: Carsington Water
+title: "Carsington Water"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Wirksworth"
 tags:
   - things_to_do
-  - sight
+  - nature
   - lake
-  - cycling
-  - birdwatching
-  - water_sports
-latitude: 53.0613
-longitude: -1.6412
-score: 7.6
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Wirksworth
+latitude: 53.06127
+longitude: -1.641151
+score: 6.8
 ---
 
-Carsington Water is a large reservoir with walking and cycling routes, birdwatching, fishing, sailing, canoeing, and windsurfing. It is an easy half-day outdoors from Ashbourne, especially if Dovedale is busy or you want a gentler circuit.
+Carsington Water is a large reservoir south-east of Ashbourne with walking and cycling routes around the water. It is also used for birdwatching, fly fishing, sailing, canoeing, and windsurfing.
+
+Cycle hire, refreshments, and visitor facilities make it an easy outdoor day trip rather than just a scenic stop.

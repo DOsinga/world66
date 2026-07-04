@@ -1,19 +1,19 @@
 ---
-title: "National Ethnographic and Natural History Museum"
+title: National Ethnographic and Natural History Museum
 type: poi
+latitude: 47.0234
+longitude: 28.8201
+score: 7.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Chishinau"
+source_url: https://en.wikivoyage.org/wiki/Chishinau
 tags:
   - things_to_do
   - museum
-  - culture
-  - natural_history
-  - architecture
-latitude: 47.0234
-longitude: 28.8201
-score: 7.9
+  - history
+  - science
 ---
 
-The National Ethnographic and Natural History Museum is one of Chisinau's best museum stops, mixing traditional dress, household objects, natural history, and a scale model of Moldova. The palaeontology section includes a Deinotherium skeleton, a prehistoric relative of elephants.
+The National Ethnographic and Natural History Museum is one of Chişinău's strongest museums, with collections that range from traditional dress and folk culture to natural history. Its palaeontology displays include a Deinotherium skeleton, a prehistoric relative of elephants.
 
-Do not rush past the outside. The building's Islamic-inspired facade catches the late-afternoon light beautifully and is part of what makes the museum memorable.
+The Islamic-inspired facade is also worth seeing from outside, especially in late-afternoon light.
+

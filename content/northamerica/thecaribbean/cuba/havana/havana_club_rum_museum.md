@@ -4,13 +4,12 @@ type: poi
 tags:
   - things_to_do
   - museum
-  - rum
-  - history
-latitude: 23.1356
-longitude: -82.3477
-score: 6.8
+  - culture
+latitude: 23.135577
+longitude: -82.347702
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/HAV
+source_url: "https://en.wikivoyage.org/wiki/HAV"
+score: 6.6
 ---
 
-The Havana Club Rum Museum gives a quick, visitor-friendly introduction to one of Cuba's best-known exports. The guided tour covers sugar, distilling, barrels, and branding, with enough English signage to follow along even if the group moves quickly.
+Havana Club Rum Museum is a visitor museum devoted to one of Cuba's best-known rums. Guided tours explain the production process and the place of rum in Cuban culture, with exhibits that are generally easy to follow in English.

@@ -3,14 +3,15 @@ title: St Michael the Archangel Church
 type: poi
 tags:
   - things_to_do
-  - sight
   - church
   - architecture
 latitude: 41.745
 longitude: -87.5475
-score: 7.2
+score: 6.8
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Chicago/Avalon_Park"
+source_url: https://en.wikivoyage.org/wiki/Chicago/Avalon_Park
 ---
 
-St Michael the Archangel Church is one of the South Side's grand Polish Cathedral-style churches, a tall Gothic landmark built in 1909 for the steelworker community around South Chicago. The interior is the reason to step inside: carved wood, marble rails, German stained glass, and a dramatic statue of St Michael give it far more presence than the plain surrounding streets suggest.
+St Michael the Archangel Church is a large South Side church built in 1909 in the Polish Cathedral style. Its tall Gothic Revival profile reflects the era when Polish steelworkers formed a major part of the surrounding parish.
+
+It is a worthwhile architecture stop for travellers already exploring Chicago's South Side churches and historic neighbourhoods.

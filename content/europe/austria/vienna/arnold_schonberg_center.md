@@ -4,12 +4,12 @@ type: poi
 latitude: 48.199149
 longitude: 16.377535
 score: 6.7
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Vienna/Landstrasse
 tags:
   - things_to_do
   - museum
   - music
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Vienna/Landstrasse
 ---
 
-The Arnold Schönberg Center is an archive and exhibition space devoted to the Viennese composer who pushed classical music into difficult, modern territory. It displays material from his life and work, including documents, recordings, and paintings, and is most rewarding if you already have some interest in 20th-century music.
+The Arnold Schönberg Center holds the archive of the Viennese composer Arnold Schönberg and presents a permanent exhibition on his music, ideas, and paintings. It is a focused stop for visitors interested in Vienna's modernist music history, with manuscripts, documents, listening stations, and changing exhibitions.

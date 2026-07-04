@@ -1,16 +1,16 @@
 ---
-title: Kinichná
+title: Kinichna
 type: poi
 tags:
-- things_to_do
-- sight
-- archaeology
-- maya
-latitude: 18.6382
-longitude: -88.7601
-score: 7.1
+  - things_to_do
+  - sight
+  - archaeology
+  - ruins
+latitude: 18.638208
+longitude: -88.76014
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/CTM
 ---
 
-Kinichná is a compact Maya archaeological site near Dzibanché, with a stepped pyramid that rises above the surrounding forest. It was smaller and less powerful than its neighbour, but the preserved platforms and quiet setting make it a rewarding stop for travellers exploring the ruins north of Chetumal.
+Kinichna is a Maya archaeological site close to Dzibanche, with a stepped pyramid and several surviving temple structures. It works best as part of the same outing as Dzibanche if you have your own transport.

@@ -3,16 +3,13 @@ title: Cultural Arts Center
 type: poi
 tags:
   - things_to_do
-  - museum
-  - gallery
-  - german_village
+  - art
+  - architecture
 latitude: 39.95535
 longitude: -83.00333
-score: 6.2
+score: 6.3
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Columbus
+source_url: https://en.wikivoyage.org/wiki/Columbus/Downtown
 ---
 
-Columbus's Cultural Arts Center fills a former Civil War armory with galleries, studios and classes. The exhibitions change often, but the appeal is as much the building as the program: a heavy brick public building reused for local art.
-
-It is a worthwhile short detour if you are already downtown or walking between the riverfront and German Village. Do not expect a major museum; expect a lively civic arts space with a bit of history in the walls.
+The Cultural Arts Center occupies a Civil War-era armory near the riverfront. It hosts galleries, classes, and public events, and the building itself adds a historic stop to a walk between downtown Columbus and German Village.

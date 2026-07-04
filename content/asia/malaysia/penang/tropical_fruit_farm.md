@@ -1,16 +1,16 @@
 ---
-title: "Tropical Fruit Farm"
+title: Tropical Fruit Farm
 type: poi
+latitude: 5.415239
+longitude: 100.217086
+score: 6.6
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Balik_Pulau
 tags:
   - things_to_do
   - farm
-  - food
+  - family
   - viewpoint
-latitude: 5.4152
-longitude: 100.2171
-score: 7.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Balik_Pulau"
 ---
 
-Tropical Fruit Farm sits in the hills near Balik Pulau, growing more than 200 tropical and subtropical fruit varieties. Tours include tastings, unusual plants such as miracle berries, and good views over Penang's northwest coast.
+Tropical Fruit Farm is a 25-acre hill farm near Balik Pulau with more than 200 tropical and subtropical fruit varieties. Visits usually focus on the orchards, fruit tasting and views over Penang's north-western coast.

@@ -1,19 +1,15 @@
 ---
 title: Ebisugahana Shipyard
 type: poi
+latitude: 34.430493
+longitude: 131.412175
+score: 7.2
 tags:
 - things_to_do
-- sight
-- ruins
-- industrial_history
-- unesco
-latitude: 34.4305
-longitude: 131.4122
-score: 7.0
+- historic_site
+- history
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Hagi
 ---
 
-Ebisugahana Shipyard is one of Hagi's industrial-history sites, linked to the period when Japan began adopting Western shipbuilding technology in the 1850s. After the shogunate relaxed restrictions on provincial shipbuilding, the Choshu Domain built warships here using knowledge from Russia and the Netherlands.
-
-The surviving remains are modest, but the site is part of Hagi's UNESCO-listed Meiji industrial heritage story. It pairs naturally with the nearby reverberatory furnace.
+Ebisugahana Shipyard is a historic shipbuilding site from the last years of the Tokugawa period, when the Choshu Domain began building Western-style warships. It is part of Hagi's wider story of industrial and political change before the Meiji Restoration.

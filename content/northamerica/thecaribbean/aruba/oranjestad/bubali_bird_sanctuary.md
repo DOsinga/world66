@@ -3,16 +3,13 @@ title: Bubali Bird Sanctuary
 type: poi
 tags:
   - things_to_do
-  - sight
   - nature
-  - wildlife
-latitude: 12.5615
-longitude: -70.0483
-score: 6.7
+  - birdwatching
+latitude: 12.561537
+longitude: -70.048333
+score: 6.8
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Noord"
+source_url: https://en.wikivoyage.org/wiki/Noord
 ---
 
-Bubali Bird Sanctuary is a wetland refuge behind the hotel strip, with an observation tower looking over ponds used by herons, egrets, ducks, and other migratory birds. It is a short, low-key break from Aruba's beaches rather than a full nature reserve day.
-
-Go early or late for better light and more bird activity, and bring binoculars if you have them.
+Bubali Bird Sanctuary protects wetland habitat used by more than 80 species of migratory birds. An observation tower gives the best view over the ponds and reeds, especially in the quieter parts of the morning or late afternoon.

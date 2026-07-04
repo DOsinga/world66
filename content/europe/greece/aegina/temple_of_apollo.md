@@ -1,17 +1,16 @@
 ---
 title: "Temple of Apollo"
 type: poi
+latitude: 37.75
+longitude: 23.424
+score: 7.1
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Aegina"
 tags:
   - things_to_do
-  - sight
   - archaeology
   - museum
   - viewpoint
-latitude: 37.75
-longitude: 23.424
-score: 7.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Aegina"
 ---
 
-The Temple of Apollo stands on Kolona headland, where one surviving column marks the ancient citadel above Aegina town. The remains are modest, but the small museum and harbour views make this one of the island's easiest archaeological stops.
+The Temple of Apollo site occupies the Kolona headland near Aegina town. Only one column still stands prominently, but the remains of the ancient citadel, the small museum, and the sea views make it one of the island's most worthwhile archaeological stops.

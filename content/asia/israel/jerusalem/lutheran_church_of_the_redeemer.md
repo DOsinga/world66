@@ -3,14 +3,16 @@ title: Lutheran Church of the Redeemer
 type: poi
 tags:
   - things_to_do
-  - old_city
-  - sight
   - church
   - viewpoint
-latitude: 31.7778
-longitude: 35.2306
-score: 8.2
+  - old_city
+latitude: 31.777778
+longitude: 35.230556
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Jerusalem/Old_City
+score: 7.6
 ---
-The Lutheran Church of the Redeemer is a late-19th-century landmark in the Old City, built under Kaiser Wilhelm II. Its best reason to visit is the bell tower: climb the 177 steps and you get one of the clearest views over the church roofs, domes, and tight lanes of old Jerusalem.
+
+The Lutheran Church of the Redeemer is a late-19th-century church in Jerusalem's Old City, completed under Kaiser Wilhelm II in 1898. Its main draw for visitors is the bell tower: climb the 177 steps for a rare high view over the dense lanes, domes, and rooftops of the Old City.
+
+The church also has archaeological remains below the building and a small museum, making it a useful stop for visitors interested in the layers of Christian, Roman, and Ottoman Jerusalem.

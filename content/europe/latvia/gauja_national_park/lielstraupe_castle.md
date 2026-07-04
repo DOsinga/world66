@@ -1,19 +1,17 @@
 ---
 title: "Lielstraupe Castle"
 type: poi
+latitude: 57.34755
+longitude: 24.94796
+score: 7.0
 tags:
   - things_to_do
-  - sight
   - castle
-  - architecture
-  - history
-latitude: 57.3476
-longitude: 24.9480
-score: 7.2
+  - historic_site
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Straupe"
+source_url: https://en.wikivoyage.org/wiki/Straupe
 ---
 
-Lielstraupe Castle is one of the medieval castles of the Gauja valley, heavily rebuilt but still striking from the outside. Its origins are usually traced to the 13th century, though fire, war, and later restorations have left it looking more like a large Baroque country estate than a ruined fortress.
+Lielstraupe Castle is one of the medieval castle sites of the Gauja Valley. It is heavily reconstructed, but the scale and position still make it a useful stop for understanding the valley's network of old fortified estates.
 
-The adjoining church and wooden bell tower make the stop more satisfying than the castle alone. It is a good detour if you are exploring the quieter northern side of Gauja National Park.
+The castle is best visited as part of a wider drive through Gauja National Park, especially with nearby manor and castle sites.

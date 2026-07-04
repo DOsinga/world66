@@ -1,15 +1,15 @@
 ---
 title: Aqualand
 type: poi
+latitude: 39.616675
+longitude: 19.837529
+score: 6.6
 tags:
-- things_to_do
-- water_park
-- families
-latitude: 39.6167
-longitude: 19.8375
-score: 7.0
+  - things_to_do
+  - water_park
+  - family
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Central_Corfu
 ---
 
-Aqualand is Corfu's big inland water park, with slides, pools, and splash-heavy rides spread across a large site. It is a straightforward family day out and a useful break from beaches and old-town sightseeing.
+Aqualand is a large water park in central Corfu with slides, pools, and family attractions. It is a straightforward half-day or full-day stop for families who want a break from beaches and old-town sightseeing.

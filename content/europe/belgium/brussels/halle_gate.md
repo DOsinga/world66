@@ -2,15 +2,16 @@
 title: Halle Gate
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - museum
-  - medieval
-latitude: 50.8330
-longitude: 4.3449
-score: 7.3
+- things_to_do
+- sight
+- museum
+- architecture
+- marolles
+latitude: 50.83301
+longitude: 4.34489
+score: 8.1
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Brussels/Pentagon
 ---
 
-Halle Gate is the last surviving gate of Brussels' medieval city walls, a heavy stone reminder of the fortified city that once stood here. Inside, museum displays explain the old defences, while the upper levels give a useful view back over the southern edge of the centre.
+Halle Gate is the last surviving gate from Brussels' medieval city walls. The restored tower now works as a museum on the city's defenses, with armor displays, traces of the old portcullis and drawbridge system, and views from the battlements.

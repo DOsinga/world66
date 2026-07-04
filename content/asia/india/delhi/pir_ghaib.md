@@ -1,15 +1,15 @@
 ---
 title: Pir Ghaib
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Delhi/Central
 tags:
   - things_to_do
-  - sight
   - historic_site
-latitude: 28.6760
-longitude: 77.2130
-score: 6.8
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Delhi"
+  - ruins
+latitude: 28.676
+longitude: 77.213
+score: 6.2
 ---
 
-Pir Ghaib is one of Delhi's stranger Sultanate-era ruins, tucked inside the Hindu Rao Hospital complex on the northern ridge. The two-storey structure is linked to Feroz Shah Tughlaq and has been described as a hunting lodge, mosque, observatory, and saint's retreat.
+Pir Ghaib is a ruined Delhi Sultanate-era structure on the northern ridge near Hindu Rao Hospital. It is one of the odd, easily missed monuments that make the ridge rewarding for visitors who enjoy hunting down lesser-known historic sites.

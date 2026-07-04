@@ -3,12 +3,15 @@ title: Israel Aquarium
 type: poi
 tags:
   - things_to_do
-  - museum
   - aquarium
-latitude: 31.7447
-longitude: 35.1666
-score: 7.0
+  - family
+latitude: 31.74469
+longitude: 35.16663
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Jerusalem/West
+score: 7.4
 ---
-Israel Aquarium focuses on the marine life of Israel's Mediterranean and Red Sea coasts, which makes it more specific than a generic family attraction. It is outside the city centre near the zoo, so it works best as a planned half-day with children or anyone interested in local sea life.
+
+Israel Aquarium is Jerusalem's major aquarium and the country's only one outside Eilat. Its exhibits focus on aquatic life from Israel's seas, lakes, and streams, making it a good family stop that also adds context to the region's very different water habitats.
+
+Tickets are usually sold for timed entry, and the aquarium is near the zoo rather than in the city centre. Allow time for the bus ride or a short walk from nearby transit.

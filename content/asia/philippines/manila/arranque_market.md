@@ -1,16 +1,15 @@
 ---
-title: "Arranque Market"
+title: Arranque Market
 type: poi
-tags:
-  - things_to_do
-  - quiapo
-  - market
-  - food
 latitude: 14.604
-longitude: 120.9796
+longitude: 120.97961
 score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Binondo
+tags:
+- things_to_do
+- market
+- food
 ---
 
-Arranque Market is a busy wet market on the edge of Binondo and Quiapo, best visited for a raw look at Manila's everyday food trade. Expect narrow aisles, fresh seafood, and a crowd that feels very different from the city's malls.
+Arranque Market is a busy wet market near Manila's Chinatown, known for fresh seafood, meat, produce, and less familiar market fare. It is more of a working local market than a polished tourist stop, but it gives a vivid look at everyday food shopping around Binondo and Santa Cruz.

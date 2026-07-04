@@ -3,14 +3,13 @@ title: Ostgals
 type: poi
 tags:
   - things_to_do
-  - sight
   - heritage
   - neighbourhood
-latitude: 57.3932
-longitude: 21.5434
-score: 6.6
+latitude: 57.393173
+longitude: 21.543404
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/VNT
+source_url: "https://en.wikivoyage.org/wiki/VNT"
+score: 6.4
 ---
 
-Ostgals is Ventspils' old fishermen's quarter, now absorbed into the city but still carrying a different rhythm from the port and centre. Its mid-19th-century street pattern and modest houses make it a good area for a short wander if you want to see the town's maritime roots.
+Ostgals is Ventspils' old fishermen's quarter, dating from the mid-19th century. Now absorbed into the city, it remains a cultural and historical area where the street pattern and waterside setting give a sense of the port's older life.

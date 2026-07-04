@@ -1,16 +1,15 @@
 ---
-title: "Ferniehirst Castle"
+title: Ferniehirst Castle
 type: poi
+latitude: 55.4543
+longitude: -2.55124
+score: 7.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Jedburgh
 tags:
   - things_to_do
-  - sight
   - castle
-  - historic_house
-latitude: 55.4543
-longitude: -2.5512
-score: 6.6
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Jedburgh"
+  - historic_site
 ---
 
-Ferniehirst Castle is a fortified 15th-century tower house just south of Jedburgh. It has been battered, rebuilt, and restored over the centuries, and is mainly worth planning around when pre-booked summer tours are running.
+Ferniehirst Castle is a 15th-century fortified mansion a short trip south of Jedburgh. The L-plan castle has been damaged and rebuilt over the centuries, and can be visited on pre-booked guided tours in July.

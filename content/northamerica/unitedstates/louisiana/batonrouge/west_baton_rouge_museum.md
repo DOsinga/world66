@@ -1,15 +1,17 @@
 ---
-title: "West Baton Rouge Museum"
+title: West Baton Rouge Museum
 type: poi
+latitude: 30.46039
+longitude: -91.20662
+score: 6.8
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Port_Allen_(Louisiana)
 tags:
   - things_to_do
   - museum
   - history
-latitude: 30.4604
-longitude: -91.2066
-score: 6.5
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Port_Allen_(Louisiana)
 ---
 
-The West Baton Rouge Museum, across the Mississippi from Baton Rouge in Port Allen, covers local plantation, sugar, and Creole history. Its mix of exhibits and historic buildings makes it a worthwhile detour if you want more context than the riverfront alone gives you.
+West Baton Rouge Museum is a local history museum in Port Allen, just across the Mississippi River from Baton Rouge.
+
+Its exhibits cover plantation life, Creole cottages, sugar production, and the communities of West Baton Rouge Parish. It works well as a short history stop paired with Baton Rouge's riverfront and capitol-area sights.

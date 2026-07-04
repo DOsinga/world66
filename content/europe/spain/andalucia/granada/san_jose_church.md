@@ -1,17 +1,19 @@
 ---
-title: "San José Church"
+title: San José Church
 type: poi
+latitude: 37.17864
+longitude: -3.59616
+score: 6.8
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/GRX
 tags:
   - things_to_do
-  - sight
   - church
   - architecture
-  - albaicin
-latitude: 37.1786
-longitude: -3.5962
-score: 7.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/GRX"
+  - history
 ---
 
-San José Church is one of the older churches in Granada, built on the site of the Almorabitín mosque. The clearest trace of that earlier building is the bell tower, adapted from a former minaret, which makes the church a quiet but rewarding stop while wandering the Albaicín.
+San José Church is one of Granada's oldest churches, built on the site of the former Almorabitín mosque. Parts of the earlier Islamic architecture remain visible, especially in the minaret that was adapted as the church bell tower.
+
+It is a compact but rewarding stop for travellers following the layers of Moorish and Christian Granada through the old city.
+

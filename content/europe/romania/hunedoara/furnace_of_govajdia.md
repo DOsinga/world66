@@ -1,18 +1,17 @@
 ---
-title: "Furnace of Govajdia"
+title: Furnace of Govajdia
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - industrial_heritage
-  - history
-latitude: 45.7407
-longitude: 22.7911
-score: 6.9
+latitude: 45.740708
+longitude: 22.791063
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Aninoasa
+tags:
+- things_to_do
+- industrial_heritage
+- history
 ---
 
-The Furnace of Govajdia is a rare surviving blast furnace from the early industrial age of Transylvania. Built in 1806, it was once among the most advanced iron furnaces in Europe, designed for more continuous production than older stop-start furnaces.
+The Furnace of Govajdia is an early 19th-century blast furnace and a monument of industrial architecture. Built in 1806, it was among the earliest industrial furnaces used for iron extraction in the region.
 
-It is a niche sight, but a rewarding one if Corvin Castle has made you curious about Hunedoara's ironworking past. The old stone-and-brick structure is now protected as an industrial monument.
+The site is a niche but worthwhile stop for visitors interested in engineering history, mining, and the industrial landscape around Hunedoara. It pairs naturally with Corvin Castle and other historic sights in the area.

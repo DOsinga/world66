@@ -1,15 +1,15 @@
 ---
-title: British in India Museum
-type: poi
+latitude: 53.83969
+longitude: -2.200406
+score: 6.5
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Nelson_(England)
 tags:
   - things_to_do
   - museum
   - history
-latitude: 53.8397
-longitude: -2.2004
-score: 6.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Nelson_(England)
+title: British in India Museum
+type: poi
 ---
 
-The British in India Museum is a small, specialised collection on the British presence in India. Displays include military objects, photographs, paintings, carved models, stamps, and personal items, with enough odd detail to reward visitors who like focused local museums.
+The British in India Museum holds a specialist collection on the British presence in India, including military objects, photographs, paintings, commemorative items, and personal effects. It is a niche museum, but worthwhile if you are interested in colonial history or military collections.

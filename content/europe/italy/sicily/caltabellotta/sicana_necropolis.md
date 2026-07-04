@@ -1,16 +1,18 @@
 ---
-title: Sicana Necropolis
+title: Sicana necropolis
 type: poi
+latitude: 37.57841
+longitude: 13.21225
 tags:
   - things_to_do
-  - sight
   - archaeology
   - history
-latitude: 37.5784
-longitude: 13.2123
-score: 7.0
+  - viewpoint
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Caltabellotta
+source_url: "https://en.wikivoyage.org/wiki/Caltabellotta"
+score: 7.1
 ---
 
-The Sicana Necropolis is cut into the cliffs around Caltabellotta, a reminder that this ridge was important long before the medieval town took shape. The tombs are simple, weathered, and atmospheric, with the added reward of wide views over inland Sicily.
+The Sicana necropolis is a group of prehistoric tombs cut into the cliffs around Caltabellotta. The Bronze Age site is linked to Sicily's ancient Sican people and has a raw, atmospheric setting.
+
+The tombs are best treated as a short archaeological walk with wide views over the surrounding hills.

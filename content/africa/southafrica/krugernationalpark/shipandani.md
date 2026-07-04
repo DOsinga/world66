@@ -1,18 +1,18 @@
 ---
-title: Shipandani
+title: "Shipandani"
 type: poi
-tags:
-- things_to_do
-- sight
-- wildlife
-- viewpoint
 latitude: -23.5301
 longitude: 31.4098
-score: 6.7
+score: 6.6
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Kruger_National_Park"
+tags:
+  - things_to_do
+  - wildlife
+  - viewpoint
+  - nature
 ---
 
-Shipandani is a bird and wildlife hide on the Tsendze River, just below Pioneer Dam. The east-facing view over the water is good for patient watching: saddle-billed storks, hippos, giraffes, klipspringers, and lilac-breasted rollers are among the regular sightings.
+Shipandani is a bird and wildlife hide on the Tsendze River, just downstream from Pioneer Dam. The east-facing view takes in river habitat where visitors may see saddle-billed storks, hippos, giraffes, klipspringers, and other Kruger wildlife.
 
-It is a quiet, low-key Kruger stop rather than a headline viewpoint, but that is part of the appeal. Bring binoculars and give it time.
+It is a good slow stop when driving through this part of the park, especially for birders and photographers who want time away from the road.

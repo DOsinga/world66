@@ -4,14 +4,13 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - archaeology
-  - ruins
+  - archaeological_site
   - history
-latitude: 41.2067
-longitude: 21.5884
+latitude: 41.206722
+longitude: 21.588444
 score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Dolneni
 ---
 
-Old Bonce is an archaeological site south-west of Prilep with remains from the ancient Macedonian and Roman periods. Its best-known feature is a large fourth-century BC arched tomb, possibly built for a high-status figure, with finds from the era of Alexander the Great and later Macedonian rulers. It is a rewarding detour for travellers already exploring Prilep's deeper history beyond Marko's Towers.
+Old Bonce is an archaeological site near Prilep with remains from ancient Macedonian and Roman periods. The main draw is a 4th-century BC tomb, part of a landscape where finds have been linked to the era of Alexander the Great and later Macedonian rulers.

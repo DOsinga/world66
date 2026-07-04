@@ -1,16 +1,16 @@
 ---
 title: Ekebergparken
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
-  - sculpture
 latitude: 59.8969
 longitude: 10.7647
-score: 8.3
+score: 8.0
+tags:
+  - things_to_do
+  - sculpture
+  - park
+  - viewpoint
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Ekebergparken
 ---
 
-Ekebergparken spreads across the wooded hill east of central Oslo, mixing city views with outdoor sculpture by Norwegian and international artists. Come for the art, but leave time for the paths and viewpoints; the fjord looks particularly good from up here.
+Ekebergparken spreads across the wooded hill east of central Oslo, mixing forest paths, city views, public sculpture, and traces of older cultural history. The park is closely associated with the viewpoint that inspired the setting of Edvard Munch's The Scream, and the walk works well as a half-day break from the waterfront museums.

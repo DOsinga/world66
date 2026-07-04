@@ -1,18 +1,15 @@
 ---
-title: "Mann River Nature Reserve"
+title: Mann River Nature Reserve
 type: poi
 tags:
   - things_to_do
-  - sight
   - nature
-  - swimming
-  - hiking
-latitude: -29.6874
-longitude: 152.0989
-score: 7.4
+  - viewpoint
+latitude: -29.68738
+longitude: 152.09888
+score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Glen_Innes
+source_url: "https://en.wikivoyage.org/wiki/Glen_Innes"
 ---
 
-Mann River Nature Reserve is a rugged gorge-and-river escape east of Glen Innes, good for swimming holes, picnics, short walks, and quiet camping. The river is the reason to come, but the views from the walking tracks give the place its bite: granite country, dry forest, and steep water-cut valleys.
-
+Mann River Nature Reserve protects a rugged stretch of river country east of Glen Innes, with picnic areas, swimming holes, fishing spots, and bushwalking tracks. Tommy's Rock Lookout is the main scenic stop, giving wide views over the reserve and the surrounding ranges.

@@ -2,15 +2,16 @@
 title: Al-Nabi Mosque
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - mosque
-  - architecture
-latitude: 36.2680
-longitude: 49.9989
-score: 7.2
+- things_to_do
+- mosque
+- architecture
+latitude: 36.267988
+longitude: 49.998909
+score: 7.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Alamut
+source_url: "https://en.wikivoyage.org/wiki/Alamut"
 ---
 
-Al-Nabi Mosque, also called Soltani Mosque, is one of Qazvin's major religious buildings. Most of the present structure dates from the late 18th century, though parts of the complex reach back to the Safavid period. Its scale makes it a natural stop while walking between Qazvin's bazaar, caravanserai, and older mosques.
+Al-Nabi Mosque, also called Soltani Mosque, is one of Qazvin's major historic mosques. The present complex dates mainly from 1787, though parts of the site go back to the Safavid period.
+
+Its scale, courtyard, and tiled prayer spaces make it a worthwhile stop in central Qazvin, close enough to combine with Sa'd al-Saltaneh Caravanserai, Jameh Mosque, and other old-city sights.

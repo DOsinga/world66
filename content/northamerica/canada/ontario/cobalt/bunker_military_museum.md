@@ -4,15 +4,14 @@ type: poi
 tags:
   - things_to_do
   - museum
-  - history
   - military
 latitude: 47.3962027
 longitude: -79.6865208
-score: 6.8
+score: 6.6
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Cobalt
+source_url: "https://en.wikivoyage.org/wiki/Cobalt"
 ---
 
-The Bunker Military Museum grew from a private Second World War collection into a small but serious display of uniforms, equipment, and military memorabilia. Its strongest material is the uniform collection, which covers several branches and periods.
+Bunker Military Museum is a small military-history museum in Cobalt built around a private Second World War collection. Its displays include uniforms, equipment, and memorabilia from several services, with the uniform collection being the main strength.
 
-It is a local museum rather than a polished national one, and that is part of the charm. In Cobalt, where mining history tends to dominate, it gives a different angle on the town's collectors and memory keepers.
+It is a modest stop, but it fits well with Cobalt's cluster of small heritage sights and is worth adding if you are already exploring the town's mining and railway history.

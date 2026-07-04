@@ -1,17 +1,17 @@
 ---
-title: Museum of Modern Art Manuel Felguérez
+title: Museum of Modern Art Manuel Felguerez
 type: poi
+latitude: 22.780661
+longitude: -102.572537
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Zacatecas
+score: 7.8
 tags:
   - things_to_do
   - museum
   - art
-latitude: 22.7807
-longitude: -102.5725
-score: 8.2
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/ZCL
 ---
 
-The Museum of Modern Art Manuel Felguerez is one of Zacatecas's strongest museums, housed in a large former seminary and prison north of the historic centre. The collection is built around the abstract painter and sculptor Manuel Felguerez, with more than a hundred of his works alongside modern art from Mexico and abroad.
+The Museum of Modern Art Manuel Felguerez is one of Zacatecas's best museums, housed in a large former seminary and prison. Its collection focuses on modern Mexican abstract painting and sculpture, with Manuel Felguerez at the center.
 
-The standout room displays the murals Felguerez made for Mexico's pavilion at Expo 1970 in Osaka. The building's pared-back restoration suits the collection well, giving the museum a calm, spacious feel after the dense streets around the centre.
+The building's scale and restrained restoration make the museum feel different from the city's colonial churches and silver-mining monuments.

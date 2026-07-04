@@ -5,12 +5,13 @@ tags:
   - things_to_do
   - museum
   - heritage
-  - open_air_museum
 latitude: 66.4803
 longitude: 25.7418
-score: 6.6
+score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Ounasvaara
+source_url: "https://en.wikivoyage.org/wiki/Ounasvaara"
 ---
 
-The Local Heritage Museum preserves old Rovaniemi farm buildings, household objects, fishing gear, and tools from rural life along the Kemijoki. It is a quiet counterpoint to the city's Arctic tourism, with a riverside setting and enough local texture to make the visit worthwhile.
+Rovaniemi's Local Heritage Museum preserves rural buildings and everyday objects from the surrounding area. The main farmhouse and two outbuildings date from 1840, and the site includes relocated buildings, household items, hunting and fishing equipment, and agricultural tools.
+
+Its riverbank setting gives a good view back toward the city centre and the Kemijoki. It pairs naturally with the nearby Forestry Museum of Lapland.

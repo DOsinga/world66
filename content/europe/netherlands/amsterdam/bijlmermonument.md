@@ -1,18 +1,14 @@
 ---
 title: Bijlmermonument
 type: poi
+latitude: 52.318611
+longitude: 4.974722
+score: 6.4
 tags:
   - things_to_do
-  - sight
-  - memorial
+  - monument
   - history
-latitude: 52.3186
-longitude: 4.9747
-score: 6.8
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Amsterdam-Zuidoost
 ---
-
-The Bijlmermonument marks the 1992 El Al cargo plane crash in Amsterdam-Zuidoost, when a Boeing 747 struck two apartment blocks. It is built around a tree that survived the disaster, with mosaics and the names of known victims worked into the memorial.
-
-This is a sombre neighbourhood site rather than a headline Amsterdam attraction. It matters because the crash left a deep mark on the Bijlmer, and the monument keeps that local memory visible.
+Bijlmermonument commemorates the 1992 crash of a Boeing 747 freighter into two apartment blocks in the Bijlmer. The memorial, designed by Herman Hertzberger, is built around a tree that survived the disaster.

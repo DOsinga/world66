@@ -1,18 +1,16 @@
 ---
 title: "Raffles' Landing Site"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - monument
-  - clarke_quay
-latitude: 1.2878
-longitude: 103.8506
-score: 7.1
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Singapore/Riverside"
+latitude: 1.287778
+longitude: 103.850556
+score: 7.0
+tags:
+- things_to_do
+- sight
+- history
+- riverside
 ---
 
-Raffles' Landing Site marks the supposed spot where Stamford Raffles first came ashore in Singapore. The white statue here is a replica, but the setting helps explain why it is so photographed: the river, Boat Quay shophouses, and glass towers all line up in one frame.
-
-It is a quick stop, best folded into a riverside walk between the Civic District and Clarke Quay. The original statue stands in front of Victoria Theatre.
+Raffles' Landing Site marks the traditional spot where Stamford Raffles first came ashore in 1819. The white statue is simple, but the riverfront setting makes the stop useful: from here you can read the colonial civic district, the Singapore River, and the modern skyline in one view.

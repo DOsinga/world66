@@ -1,19 +1,17 @@
 ---
 title: "Schindler's Tomb"
 type: poi
+latitude: 31.7702276
+longitude: 35.2303573
+score: 7.1
 tags:
   - things_to_do
-  - old_city
-  - sight
   - cemetery
-  - history
-latitude: 31.7702
-longitude: 35.2304
-score: 7.0
+  - memorial
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/East_Jerusalem"
+source_url: https://en.wikivoyage.org/wiki/East_Jerusalem
 ---
 
-Schindler's Tomb lies in the Catholic cemetery on the slope below Zion Gate. Oskar Schindler, the German industrialist who saved more than a thousand Jews during the Holocaust, asked to be buried in Jerusalem, and his simple grave is usually marked with small stones left by visitors.
+Oskar Schindler's grave is in a small Christian cemetery below Zion Gate. Schindler saved around 1,200 Jews during the Holocaust by employing them in his factories, and his grave has become a quiet memorial stop in Jerusalem.
 
-It is a modest, moving stop rather than a formal monument. Pair it with a walk around Mount Zion, and be prepared for cemetery access to vary.
+The cemetery is modest and easy to miss. It is best combined with Mount Zion, the Armenian Quarter, or the walk down toward the City of David.

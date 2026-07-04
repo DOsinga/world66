@@ -1,17 +1,17 @@
 ---
 title: Cap-des-Rosiers Lighthouse
 type: poi
-latitude: 48.8563
-longitude: -64.2010
-score: 7.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Cap-aux-Os
+url: http://www.pharecapdesrosiers.ca/english/
+latitude: 48.856255
+longitude: -64.201005
+score: 8.0
 tags:
   - things_to_do
-  - sight
   - lighthouse
   - historic_site
   - coast
 ---
 
-Cap-des-Rosiers Lighthouse stands at the northern gateway to Forillon National Park and is the tallest lighthouse in Canada. The white tower has watched the St Lawrence since the 1850s, and the setting is the real reward: wind, open water, and the hard edge of the Gaspe coast.
+Cap-des-Rosiers Lighthouse is Canada's tallest lighthouse, standing 34.1 metres above the rocky St. Lawrence headland. Built in 1858 and now a National Historic Site, it is a strong coastal landmark near the entrance to Forillon National Park.

@@ -1,17 +1,18 @@
 ---
-title: Finch Arboretum
+title: "Finch Arboretum"
 type: poi
+latitude: 47.641
+longitude: -117.467
+score: 6.6
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/GEG"
 tags:
   - things_to_do
   - sight
-  - park
   - garden
-latitude: 47.641
-longitude: -117.467
-score: 7.0
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/GEG
-snippet: West Spokane arboretum with lilacs, conifers, maples, rhododendrons, and walking paths
+  - nature
 ---
 
-Finch Arboretum is Spokane's quiet tree collection on the west side of town, with roughly 2,000 trees and shrubs spread across rolling grounds. The lilacs are a spring draw, but the conifer, maple, and rhododendron collections make it worth a slow walk in other seasons too. It is a good low-key stop when you want fresh air without leaving the city.
+Finch Arboretum is Spokane's main public tree collection, with about 2,000 trees and shrubs arranged across a quiet valley west of downtown. The collection includes conifers, maples, rhododendrons, and dozens of lilac groups.
+
+It is best as a slow walk rather than a checklist attraction, especially in spring bloom or autumn colour. Trails run through the grounds, and the open lawns make it an easy break from the city.

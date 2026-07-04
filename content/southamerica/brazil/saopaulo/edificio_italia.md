@@ -1,11 +1,11 @@
 ---
 title: Edifício Itália
 type: poi
+latitude: -23.545529
+longitude: -46.643509
+score: 7.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Sao_Paulo/Bixiga
-latitude: -23.5455
-longitude: -46.6435
-score: 8.0
 tags:
   - things_to_do
   - sight
@@ -14,6 +14,6 @@ tags:
   - centro
 ---
 
-Edifício Itália is one of São Paulo's great downtown towers, a 1960s high-rise that still gives one of the clearest views over the city's enormous centre. The upper floors hold a bar and restaurant, but the real prize is the open-air walkway and the sudden sense of scale it gives to the skyline.
+Edifício Itália is one of central São Paulo's classic high-rise landmarks, completed in 1965 and long among the tallest buildings in the city. Its upper floors are the draw for visitors, with broad views over the dense downtown skyline.
 
-It pairs naturally with nearby Edifício Copan, Theatro Municipal, and the old centre. Go late in the day if you can; the view is at its best when the city lights start coming on.
+The building is close to Copan and works well as part of a walk through the centro's 20th-century architecture. The view is best on a clear day, when the scale of São Paulo is easiest to grasp.

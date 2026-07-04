@@ -1,19 +1,15 @@
 ---
 title: Portikus
 type: poi
+latitude: 50.10801
+longitude: 8.68732
+score: 6.4
 tags:
   - things_to_do
-  - museum
   - gallery
-  - contemporary_art
-  - sachsenhausen
-latitude: 50.1080
-longitude: 8.6873
-score: 6.7
+  - art
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Frankfurt/S%C3%BCd
 ---
 
-Portikus is a small but influential contemporary art space linked to the Stadelschule art academy. Its exhibitions focus on emerging and established artists, so the experience depends heavily on what is currently installed.
-
-It is a good stop if you are already following Frankfurt's museum strip along the Main and want something sharper-edged than the larger collections nearby. Check the current show before making a special trip.
+Portikus is a contemporary art exhibition space linked to the Stadelschule, showing work by both emerging and established artists.

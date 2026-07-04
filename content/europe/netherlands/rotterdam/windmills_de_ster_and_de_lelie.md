@@ -1,18 +1,16 @@
 ---
 title: Windmills De Ster and De Lelie
 type: poi
-latitude: 51.9316
-longitude: 4.5212
 tags:
   - things_to_do
   - sight
   - windmill
-  - heritage
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Rotterdam/Kralingen-Crooswijk"
+  - historic
+latitude: 51.9316
+longitude: 4.5212
 score: 6.8
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Rotterdam/Kralingen-Crooswijk
 ---
 
-De Ster and De Lelie stand beside Kralingse Plas, giving the lake one of Rotterdam's most traditional views. The mills date from 1777 and 1829 and still grind ingredients for spices and snuff tobacco.
-
-They are a good stop on a walk or bike ride around the water, especially if you want a reminder that Rotterdam's old working landscape did not entirely vanish with the modern city.
+De Ster and De Lelie are two handsome windmills beside the Kralingse Plas, dating from 1777 and 1829. They still grind ingredients for spices and snuff tobacco, and the lakeside setting makes them an easy historic stop on a walk east of central Rotterdam.

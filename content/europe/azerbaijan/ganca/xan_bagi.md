@@ -1,16 +1,15 @@
 ---
-title: "Xan bağı"
+title: "Xan bagi"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - park
-  - garden
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Gance"
 latitude: 40.6771
 longitude: 46.3545
-score: 6.7
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Gance
+score: 6.5
+tags:
+  - things_to_do
+  - park
+  - garden
 ---
 
-Xan bagi is Ganca's old central park, laid out with broad paths, mature trees, flowerbeds, and a calm that feels welcome after the surrounding streets. The park dates its history to the early 18th century and carries the name of Javad Khan, the last khan of Ganja. It works best as a slow stop between the Shah Abbas Mosque, the fortress walls, and the city museums.
+Xan bagi, also known as Khan Bagi, is Ganja's central park and one of the oldest parks in Azerbaijan and the Caucasus. Founded in 1700, it has mature trees, flower beds, and a central location that makes it an easy pause while seeing the old city.

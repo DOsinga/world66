@@ -1,16 +1,15 @@
 ---
 title: "Xinhui Academy"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/NNG"
+latitude: 22.818516002728842
+longitude: 108.312239755316
+score: 6.6
 tags:
   - things_to_do
-  - sight
-  - architecture
-  - history
-latitude: 22.8185
-longitude: 108.3122
-score: 6.5
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Nanning"
+  - museum
+  - historic_site
 ---
 
-Xinhui Academy is a small Qing-era Confucian academy in central Nanning. It no longer serves students, but the courtyards and traditional details give a useful glimpse of the city's older scholarly architecture amid a fast-changing urban centre.
+Xinhui Academy is a Qing-dynasty Confucian academy in central Nanning. It no longer works as a school, but its halls now function as a small museum and event space, with traditional architecture that helps explain the city's older scholarly culture.

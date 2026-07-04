@@ -1,16 +1,15 @@
 ---
 title: Pa-Auk Tawya Monastery
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - monastery
-  - buddhist
-latitude: 16.3711
-longitude: 97.6738
-score: 6.8
+latitude: 16.371054
+longitude: 97.673755
+score: 6.5
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Mawlamyine
+tags:
+- things_to_do
+- monastery
+- buddhist
 ---
 
-Pa-Auk Tawya Monastery is a large forest meditation centre south of Mawlamyaing. It is best known among long-stay meditation students, but visitors can get a glimpse of monastic life by arriving in the morning and walking to the eating hall before the 11:00 meal.
+Pa-Auk Tawya Monastery is a large forest meditation centre south of Mawlamyine. Visitors who arrive respectfully can see the monastery routine and the communal meal, but it is first a working religious community, not a staged attraction.

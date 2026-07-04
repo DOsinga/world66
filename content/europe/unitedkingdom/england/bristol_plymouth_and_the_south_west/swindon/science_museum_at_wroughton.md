@@ -1,15 +1,15 @@
 ---
 title: Science Museum at Wroughton
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Wroughton
 tags:
   - things_to_do
   - museum
   - science
-latitude: 51.5099
-longitude: -1.8113
-score: 6.4
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Wroughton"
+latitude: 51.509891
+longitude: -1.811267
+score: 6.3
 ---
 
-Set on the old RAF Wroughton airfield, this Science Museum site holds large objects and displays tied to engineering, transport, and modern science. It is best for travellers with a specific interest in machinery and industrial history, and worth checking access before making the trip from Swindon.
+The Science Museum at Wroughton occupies part of the former RAF Wroughton airfield. Its collections focus on science, engineering, transport, and large objects that need more space than a city museum can provide.

@@ -1,16 +1,15 @@
 ---
-title: Jan Karlsgården Open Air Museum
+title: "Jan Karlsgården Open Air Museum"
 type: poi
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Sund
+latitude: 60.23074
+longitude: 20.08197
+score: 7.4
 tags:
   - things_to_do
   - museum
-  - open_air_museum
-  - history
-latitude: 60.23074
-longitude: 20.08197
-score: 7.2
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Sund
+  - folk_history
 ---
 
-Jan Karlsgården gathers old Åland farm buildings into a late-19th-century rural homestead beside Kastelholm. The grounds are open year-round, but summer is the best time to see inside the buildings and make sense of the farm layout.
+Jan Karlsgården Open Air Museum brings together traditional Åland farm buildings moved from around the islands to recreate a late-19th-century rural homestead. The grounds can be visited year-round, while the interiors are mainly a summer-season attraction near Kastelholm.

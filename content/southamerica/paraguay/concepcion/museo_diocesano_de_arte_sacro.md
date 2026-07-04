@@ -1,16 +1,15 @@
 ---
 title: "Museo Diocesano de Arte Sacro"
 type: poi
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Concepcion_(Paraguay)"
+latitude: -23.409018
+longitude: -57.448804
+score: 6.4
 tags:
   - things_to_do
   - museum
-  - art
-  - history
-latitude: -23.4090
-longitude: -57.4488
-score: 6.4
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Concepcion_(Paraguay)
+  - religious_art
 ---
 
-The Museo Diocesano de Arte Sacro sits beside Concepcion's cathedral and gathers church silver, vestments, portraits, documents, and devotional objects from the colonial period and the city's later boom years. It is a compact museum, but the collection gives useful context to the churches and river-town history around the plaza.
+Museo Diocesano de Arte Sacro is beside the cathedral and displays religious objects, including silverware used in worship. Several pieces date to Paraguay's colonial period, making it a focused stop for local church history and sacred art.

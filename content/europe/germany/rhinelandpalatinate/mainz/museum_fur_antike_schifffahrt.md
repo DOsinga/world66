@@ -1,18 +1,18 @@
 ---
 title: Museum für Antike Schifffahrt
 type: poi
+latitude: 49.993698
+longitude: 8.280877
+score: 7.5
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Mainz
 tags:
   - things_to_do
   - museum
-  - roman
-latitude: 49.993698
-longitude: 8.280877
-score: 8.0
-source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Mainz"
+  - history
+  - archaeology
 ---
 
-The Museum für Antike Schifffahrt is Mainz's museum of ancient seafaring, built around the remains of Roman warships found beside the Rhine in the 1980s. The original wrecks are displayed with full-scale reconstructions, so you can see both the archaeology and what these river vessels probably looked like in use.
+Museum für Antike Schifffahrt, the Museum of Ancient Seafaring, focuses on Roman ships and river trade on the Rhine. Its main draw is the remains and reconstructions of Roman military vessels found in Mainz.
 
-It is a good companion to the city's Roman remains: practical, focused, and more memorable than the dry name suggests. Workshops and research areas give a glimpse of how the boats were preserved and interpreted.
-
+The museum is useful for understanding why Mogontiacum, Roman Mainz, mattered as a frontier city. It pairs well with the Roman theatre and the old town sights around the cathedral.

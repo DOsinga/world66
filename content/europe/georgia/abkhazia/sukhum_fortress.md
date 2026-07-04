@@ -1,16 +1,15 @@
 ---
-title: Sukhum Fortress
+title: "Sukhum Fortress"
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - fortress
-  - ruins
-latitude: 42.9954
-longitude: 41.0181
-score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/SUI
+latitude: 42.9954
+longitude: 41.0181
+score: 6.6
+tags:
+  - things_to_do
+  - fortress
+  - historic_site
 ---
 
-Sukhum Fortress is a fragment of the city's long Black Sea history: Roman foundations, Ottoman rebuilding, prison use, Soviet destruction, and now a battered tower and wall by the waterfront. It is not a polished sight, but it gives Sukhumi's seafront a rough historical edge.
+Sukhum Fortress is a small surviving fragment of a much older defensive site. The first fortification here was built by the Romans in the 2nd century, then rebuilt by the Ottomans in 1724 and later used as a prison. Today the main remains are the southwestern Turkish-period tower and sections of the northern wall and gate.

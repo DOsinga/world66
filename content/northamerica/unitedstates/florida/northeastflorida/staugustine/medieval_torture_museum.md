@@ -1,17 +1,15 @@
 ---
 title: Medieval Torture Museum
 type: poi
-latitude: 29.8946
-longitude: -81.313
 tags:
   - things_to_do
   - museum
   - history
+latitude: 29.8946
+longitude: -81.313
+score: 6.1
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Saint_Augustine"
-score: 6.3
+source_url: https://en.wikivoyage.org/wiki/Saint_Augustine
 ---
 
-The Medieval Torture Museum is a macabre private collection of torture, execution, and restraint devices. It is not subtle, but it suits St. Augustine's taste for theatrical history and dark-side attractions.
-
-Go if you are curious about the subject or travelling with older children who like grim details. Sensitive visitors can skip it without missing the city's stronger historic sights.
+The Medieval Torture Museum is a macabre private collection of torture, execution, and restraint devices in the historic center of St Augustine. It is not subtle, but visitors interested in darker history may find the interactive displays memorable.

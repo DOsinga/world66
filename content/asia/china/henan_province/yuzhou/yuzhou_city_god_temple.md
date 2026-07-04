@@ -1,18 +1,17 @@
 ---
 title: Yuzhou City God Temple
 type: poi
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Yuzhou
 tags:
   - things_to_do
-  - sight
   - temple
-  - history
+  - historic_site
 latitude: 34.1705
 longitude: 113.4628
-score: 7.0
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Yuzhou
+score: 6.8
 ---
 
-Yuzhou City God Temple is a historic shrine dedicated to the protective deity of the city. The complex has altars, murals, and traditional religious decoration that give a clear look at local temple culture beyond the better-known porcelain sights.
+Yuzhou City God Temple is a historic temple dedicated to the protective city deity. The complex has traditional altars, statues, and murals that show local religious art and the customs around City God worship.
 
-It is a good stop for travellers interested in older town life and folk religion. Go slowly, as the details are the point.
+It is a worthwhile stop for visitors already in Yuzhou, especially when combined with the city's kiln history and other older sites.

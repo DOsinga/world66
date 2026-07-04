@@ -1,16 +1,15 @@
 ---
 title: Whitehall
 type: poi
-tags:
-  - things_to_do
-  - westminster
-  - sight
-  - architecture
-  - history
 latitude: 51.5042
 longitude: -0.1264
-score: 7.8
+tags:
+  - things_to_do
+  - street
+  - history
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Big_Ben
+source_url: "https://en.wikivoyage.org/wiki/Big_Ben"
+score: 7.4
 ---
-Whitehall is the ceremonial and administrative spine between Parliament Square and Trafalgar Square. A short walk takes in the guarded entrance to Downing Street, Horse Guards, the Cenotaph, and Banqueting House, making it one of the easiest places in London to see how government, monarchy, and public ritual overlap.
+
+Whitehall is the ceremonial and political street linking Parliament Square with Trafalgar Square. A walk along it passes the Cenotaph, Banqueting House, Horse Guards, and the guarded entrance to Downing Street, making it an easy extension of a Westminster visit.

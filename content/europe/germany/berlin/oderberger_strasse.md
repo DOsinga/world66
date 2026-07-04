@@ -1,17 +1,15 @@
 ---
-title: "Oderberger Strasse"
+title: Oderberger Strasse
 type: poi
+latitude: 52.539081
+longitude: 13.40837
+score: 6.3
 tags:
   - things_to_do
-  - prenzlauerberg
-  - sight
   - architecture
-  - street
-latitude: 52.5391
-longitude: 13.4084
-score: 6.4
+  - neighbourhood
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Berlin/Central_East"
+source_url: https://en.wikivoyage.org/wiki/Berlin/Central_East
 ---
 
-Oderberger Strasse is one of Prenzlauer Berg's classic walking streets, lined with handsome Grunderzeit apartment blocks, cafes, and small restaurants. Its alternative edge has softened with gentrification, but it still gives a good feel for the district's late-19th-century streetscape.
+Oderberger Strasse is a Prenzlauer Berg street known for its generous Gruenderzeit architecture and long-standing alternative feel. It is best visited as a short walk, with cafes and restaurants along the way.

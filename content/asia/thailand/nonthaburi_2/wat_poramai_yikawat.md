@@ -1,18 +1,17 @@
 ---
-title: "Wat Poramai Yikawat"
+title: Wat Poramai Yikawat
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - temple
-  - mon_heritage
-latitude: 13.9127
-longitude: 100.4897
-score: 7.4
+latitude: 13.912653
+longitude: 100.489692
+score: 7.3
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Ko_Kret
+tags:
+- things_to_do
+- temple
+- architecture
 ---
 
-Wat Poramai Yikawat is the main temple on Ko Kret and one of the clearest places to see the island's Mon heritage. The monastery is still active, with Mon-language scriptures and prayers, and the riverside setting makes it a natural first stop after crossing to the island.
+Wat Poramai Yikawat is Ko Kret's main temple and an important Mon Buddhist site. The monastery preserves Mon traditions, with scriptures and daily prayers in the Mon language.
 
-Look for the white Burmese-style stupa near the water and the carved wooden pagoda close to the pier. The temple is not only decorative; it anchors the Mon community that gives Ko Kret its character.
+The ubosot is decorated with Italian marble brought during the reign of King Rama V, while a wooden pagoda near the pier holds the remains of a former abbot. The white Burmese-style stupa is one of the island's signature sights.

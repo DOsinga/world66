@@ -1,16 +1,17 @@
 ---
-title: St Joseph's Cathedral
+title: "St Joseph's Cathedral"
 type: poi
 tags:
   - things_to_do
-  - sight
   - church
   - landmark
 latitude: -18.655254
 longitude: -173.981384
-score: 6.4
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Neiafu
+source_url: "https://en.wikivoyage.org/wiki/Neiafu"
+score: 6.4
 ---
 
-St Joseph's Cathedral is one of Neiafu's clearest harbour landmarks, visible from the water as boats approach town. Local stories link its construction to prisoners during the colonial period, adding a harder edge to an otherwise quiet island church.
+St Joseph's Cathedral is one of Neiafu's main landmarks, visible from the harbour and the ridge roads above town. The church is tied to the colonial-era Catholic community on Vava'u, and local stories say prisoners helped build it.
+
+It is a short stop rather than a long visit, but it helps anchor a walk through Neiafu beyond the waterfront, market, and yacht harbour.

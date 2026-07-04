@@ -1,17 +1,17 @@
 ---
 title: Rujm el-Hiri
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - archaeology
-latitude: 32.9087
-longitude: 35.8007
-score: 7.4
+latitude: 32.908705
+longitude: 35.800705
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Gamla
+score: 8.2
+tags:
+  - things_to_do
+  - archaeology
+  - sight
 ---
 
-Rujm el-Hiri is a strange and ancient megalithic site in the Golan Heights, made of concentric stone circles dating to around 3000 BCE. It is sometimes nicknamed the Stonehenge of the Levant, though the effect on the ground is flatter and more enigmatic than the English comparison suggests.
+Rujm el-Hiri is a large prehistoric megalithic monument in the Golan Heights, made of concentric stone circles around a central cairn. Dating estimates place it around the early Bronze Age, and it is often nicknamed the "Stonehenge of the Levant."
 
-The site is most impressive from above, where the rings and central cairn become clear. On foot it rewards travellers who like archaeology, open landscapes, and places that still have more questions than answers.
+The site is remote and exposed, but it is one of the region's most unusual archaeological stops for travelers with a car.

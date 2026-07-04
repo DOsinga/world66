@@ -1,18 +1,15 @@
 ---
-title: "Rose Seidler House"
+title: Rose Seidler House
 type: poi
 tags:
-- things_to_do
-- sight
-- architecture
-- historic_house
-latitude: -33.7098
-longitude: 151.1421
-score: 7.8
+  - things_to_do
+  - architecture
+  - historic_house
+latitude: -33.70977
+longitude: 151.14209
+score: 7.6
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Berowra"
+source_url: https://en.wikivoyage.org/wiki/Berowra
 ---
 
-Rose Seidler House is one of the landmark works of Australian modernism. Harry Seidler designed it for his parents in the late 1940s, bringing clean lines, open planning, bold colour, and Bauhaus ideas into a Sydney bushland setting.
-
-The house has been preserved with its original furniture and fittings, so it feels less like a design exhibit and more like a sharp, optimistic vision of postwar living. The views over Ku-ring-gai Chase National Park help too.
+Rose Seidler House was the first house designed by Harry Seidler and is one of Australia's landmark modernist homes. Built from 1948 to 1950, it has been preserved with its original furnishings and looks out over the Ku-ring-gai landscape.

@@ -2,15 +2,16 @@
 title: Royal and Pontifical Church of the Immaculate Conception
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - church
-  - architecture
-latitude: 35.2943
-longitude: -2.9340
-score: 6.7
+- things_to_do
+- church
+- historic_site
+latitude: 35.294339
+longitude: -2.933978
+score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/MLN
+source_url: "https://en.wikivoyage.org/wiki/MLN"
 ---
 
-This church inside old Melilla was begun in 1657 and took about 25 years to complete. Much of the interest is in the surviving 18th-century altars and the Mudejar details, especially the carved wooden ceiling in the main spaces. It pairs well with a walk through Melilla la Vieja.
+The Royal and Pontifical Church of the Immaculate Conception is one of the key historic churches inside Melilla la Vieja. Building began in 1657 and continued for decades, with later altars and altarpieces added through the 18th century.
+
+The church is worth including while walking the old fortress town, especially for its surviving side altars and its role in the religious life of the walled city. It pairs naturally with the nearby Plaza de Armas and municipal museum.

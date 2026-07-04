@@ -1,9 +1,9 @@
 ---
 title: La Tour Royale
 type: poi
-latitude: 43.10272
-longitude: 5.9258044
-score: 7.0
+latitude: 43.1027
+longitude: 5.9258
+score: 7.2
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/TLN
 tags:
@@ -13,6 +13,6 @@ tags:
   - history
 ---
 
-La Tour Royale is a squat 16th-century fort guarding the entrance to Toulon's harbour. Built under Louis XII, it later served as a prison and now gives visitors a compact dose of the city's naval history.
+La Tour Royale is one of Toulon's old harbour forts, built in 1514 under Louis XII to guard the entrance to the roadstead. It later served as a prison and is now open for visits, with views over the water and a small naval exhibition inside.
 
-The tower is worth pairing with the waterfront and naval museum, especially if you want to understand why Toulon has always looked seaward. The harbour views are as much a reason to come as the fort itself.
+The fort is close to the Mourillon waterfront, so it is easy to combine with a walk along the coast.

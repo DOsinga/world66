@@ -1,18 +1,17 @@
 ---
 title: Hokai-in
 type: poi
+latitude: 34.693971
+longitude: 133.934077
+score: 6.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/OKJ
-latitude: 34.694
-longitude: 133.9341
-score: 6.0
 tags:
   - things_to_do
-  - sight
   - temple
   - pilgrimage
 ---
 
-Hokai-in is a quiet temple north of central Okayama, close to Handayama Botanical Garden. It belongs to the Chugoku 33 Kannon pilgrimage, which gives it more interest than its modest size first suggests.
+Hokai-in is a Buddhist temple on the Chūgoku 33 Kannon pilgrimage route, a short distance from Handayama Botanical Garden. It is a modest stop, but useful if you are tracing Okayama's quieter temple and garden sights north of the centre.
 
-It is a useful add-on if you are already heading to Handayama or exploring the city's northern side. Do not cross Okayama for it alone, but it makes a calm pause away from the castle and Korakuen crowds.
+Pair it with Handayama Botanical Garden rather than making a separate trip across the city just for the temple.

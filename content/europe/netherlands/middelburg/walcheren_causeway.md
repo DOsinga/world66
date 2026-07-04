@@ -1,18 +1,17 @@
 ---
-title: "Walcheren Causeway"
+title: Walcheren Causeway
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - history
-  - memorial
 latitude: 51.5031
-longitude: 3.7050
-score: 6.4
+longitude: 3.705
+score: 6.6
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Walcheren"
+source_url: https://en.wikivoyage.org/wiki/Walcheren
+tags:
+- things_to_do
+- historic_site
+- battlefield
 ---
 
-The Walcheren Causeway is a narrow strip of road and railway east of Middelburg, historically the only land link between Walcheren and South Beveland. Its open, low-lying setting makes the geography easy to read: water, mudflat, dike, and a vulnerable route across them.
+Walcheren Causeway was once the narrow land link between Walcheren and South Beveland, crossing tidal mudflats by dike. In 1944 it became the scene of heavy fighting during the Allied campaign to open access to Antwerp.
 
-The causeway is best known for the hard fighting here in 1944, when Canadian forces attacked across it during the Battle of the Scheldt. It is a modest stop, but worthwhile if you are tracing Zeeland's Second World War sites by bike or car.
+The site is modest on the ground, but worthwhile for travellers following Second World War history in Zeeland. It makes the most sense with Middelburg, Vlissingen, and other Walcheren stops.

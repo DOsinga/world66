@@ -1,16 +1,15 @@
 ---
-title: "Binat Bibi Mosque"
+title: Binat Bibi Mosque
 type: poi
+latitude: 23.711109
+longitude: 90.418013
 tags:
   - things_to_do
   - sight
   - mosque
-  - history
-latitude: 23.7111
-longitude: 90.4180
-score: 7.2
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Dhaka/Old_Dhaka"
+score: 7.0
 ---
 
-Binat Bibi Mosque is one of Old Dhaka's oldest surviving buildings, dating from the Bengal Sultanate in the mid-15th century. It is a small mosque rather than a grand monument, but its age makes it a rewarding stop while exploring Narinda and the older lanes east of the centre.
+Binat Bibi Mosque is one of Dhaka's oldest surviving mosques, built in 1454 during the Sultanate of Bengal. It stands in Narinda, east of the main Old Dhaka sights, and is a small but important stop for visitors interested in the city's early Islamic architecture.

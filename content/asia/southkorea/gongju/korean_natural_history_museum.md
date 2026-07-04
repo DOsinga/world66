@@ -1,18 +1,17 @@
 ---
 title: Korean Natural History Museum
 type: poi
+latitude: 36.4159
+longitude: 127.2106
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Gongju
+score: 6.8
 tags:
   - things_to_do
   - museum
-  - science
   - family
-latitude: 36.4159
-longitude: 127.2106
-score: 6.6
-source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/Gongju
 ---
 
-The Korean Natural History Museum sits near Gyeryongsan Mountain and is a useful family stop outside central Gongju. Its displays cover dinosaurs, geology, animals, and the broader story of life on earth, with enough large specimens and visual material to keep younger visitors engaged.
+The Korean Natural History Museum near Gyeryongsan Mountain has exhibits on dinosaurs, geology, wildlife, and the natural world. It is especially useful for families looking for something hands-on outside Gongju's Baekje history circuit.
 
-It is not as essential as Gongju's Baekje tombs and fortress, but it adds variety if you have a car or are already heading toward the mountain.
+Allow extra travel time from central Gongju, as the museum sits outside the city core.

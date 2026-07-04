@@ -1,19 +1,15 @@
 ---
 title: Crown House
 type: poi
-tags:
-- things_to_do
-- sight
-- architecture
-- history
-latitude: 57.7079
-longitude: 11.9637
+latitude: 57.70789
+longitude: 11.96368
 score: 7.1
+tags:
+  - things_to_do
+  - historic_site
+  - architecture
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/GOT
-snippet: Gothenburg's oldest secular building, set among cafes and craft workshops.
 ---
 
-Crown House was built between 1643 and 1655 and is Gothenburg's oldest surviving non-religious building. It briefly housed the Swedish Parliament, but today its appeal is quieter: heavy old brick, a central location, and a strong sense of the city's 17th-century origins.
-
-The surrounding Crown House buildings now hold cafes and craft workshops, so the courtyard is worth lingering in rather than treating as a quick photo stop.
+Crown House is Gothenburg's oldest surviving non-religious building, built in the mid-17th century and briefly used by the Swedish Parliament. The old military storehouse now anchors a small historic courtyard with cafes, craft workshops, and music offices.

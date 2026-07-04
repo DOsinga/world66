@@ -6,13 +6,14 @@ tags:
   - sight
   - architecture
   - church
+  - viewpoint
 latitude: 48.137
 longitude: 11.5531
-score: 7.2
+score: 7.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Isarvorstadt
 ---
 
-St Paul's is a huge neo-Gothic Catholic church near Theresienwiese, completed in 1906 and rebuilt more simply after wartime bombing. Its 97-metre tower is the landmark here, visible above the Oktoberfest grounds and the surrounding streets.
+St Paul's Church is a massive neo-Gothic Catholic church west of central Munich, completed in 1906 and rebuilt after heavy wartime damage. Its 97-metre tower is the feature to notice, especially from the Theresienwiese during Oktoberfest.
 
-The tower is sometimes opened during Oktoberfest, weather permitting, for a donation. If you catch it open, the view runs over the festival below and, on clear days, south toward the Alps.
+The tower is sometimes open for climbs during Oktoberfest, weather permitting, with views over the festival grounds and, on clear days, toward the Alps. Even when the tower is closed, the church is a useful landmark for exploring the area around the Wiesn.

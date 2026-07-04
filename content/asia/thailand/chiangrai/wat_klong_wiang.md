@@ -1,17 +1,15 @@
 ---
-title: "Wat Klong Wiang"
+title: Wat Klong Wiang
 type: poi
 tags:
   - things_to_do
-  - sight
   - temple
   - architecture
-latitude: 19.9108
-longitude: 99.8325
+latitude: 19.910795
+longitude: 99.832525
 score: 7.0
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/CEI
+source_url: "https://en.wikivoyage.org/wiki/CEI"
 ---
 
-Wat Klong Wiang is a small but vivid Lanna-style temple in Chiang Rai, with colourful guardian figures, elephant details, and far fewer visitors than the city's headline temples. It rewards a close look: the decoration is playful, dense, and just odd enough to stay with you.
-
+Wat Klong Wiang is a little-visited Chiang Rai temple dating to the fifteenth century. Its Lanna-style decoration is bright and detailed, with guardian figures, elephant motifs, and a calm compound that rewards a slow look.

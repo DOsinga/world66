@@ -3,14 +3,13 @@ title: Stonewoman Aboriginal Area
 type: poi
 tags:
   - things_to_do
-  - sight
   - aboriginal_history
-  - walking
-latitude: -30.0107
-longitude: 151.2256
-score: 6.4
+  - nature
+latitude: -30.01068
+longitude: 151.225583
 source: wikivoyage
-source_url: https://en.wikivoyage.org/wiki/IVR
+source_url: "https://en.wikivoyage.org/wiki/IVR"
+score: 6.4
 ---
 
-Stonewoman Aboriginal Area is a quiet cultural site north of Inverell, reached by a short 750 m walk from the car park. There are no facilities, so come prepared, and treat the place with the respect due to a site that holds meaning for local Aboriginal people.
+Stonewoman Aboriginal Area protects a place of cultural significance for local Aboriginal people. Visitors should expect a simple nature stop rather than a developed attraction: there is parking, no facilities, and a short walk of about 750 m to the cultural site.

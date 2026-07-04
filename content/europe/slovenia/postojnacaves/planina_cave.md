@@ -1,16 +1,15 @@
 ---
 title: Planina Cave
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - cave
-  - nature
-latitude: 45.8208
-longitude: 14.2465
-score: 7.4
 source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/Postojna"
+latitude: 45.820806
+longitude: 14.246489
+score: 7.2
+tags:
+  - things_to_do
+  - cave
+  - nature
 ---
 
-Planina Cave is a large karst cave near Postojna, with a huge entrance chamber that can be visited without much effort. To go deeper you need a guided tour, but even the accessible section gives a strong sense of the underground river system that shapes this part of Slovenia.
+Planina Cave is a large karst cave connected to the same underground system as Postojna. The entrance section can be visited independently, while deeper routes require a guided tour.

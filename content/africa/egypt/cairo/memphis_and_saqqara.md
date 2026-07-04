@@ -1,5 +1,5 @@
 ---
-title: "Day Trips: Memphis and Saqqara"
+title: "Memphis and Saqqara"
 type: poi
 tags:
   - things_to_do

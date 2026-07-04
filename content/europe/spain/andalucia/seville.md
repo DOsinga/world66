@@ -10,11 +10,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Eventail_chinois_asym%C3%A
 latitude: 37.38863
 loc_type: city
 longitude: -5.99534
+quick_facts:
+  Cathedral: Largest Gothic church
+  Giralda: Climbed by ramp, not stairs
+  Plaza de España: A Star Wars set
+  Population: 680,000
 score: 9.53
-title: Seville
-type: location
 snippet: Andalusian capital on the Guadalquivir, known for its cathedral, Alcázar,
   flamenco, and orange-lined streets.
+tip: Seville is brutally hot from June to September — locals vanish for a midday siesta
+  and the city wakes after dark, so do the same. Free flamenco happens in neighbourhood
+  bars, not just paid tablaos. Climb the Giralda by ramp, not stairs — it was built
+  for a man on horseback. Book the Alcázar and Cathedral online.
+title: Seville
+type: location
 ---
 
 Seville is the capital of Andalucía and the most purely, exuberantly Andalucían city in Spain. Where Barcelona is cosmopolitan and Madrid is national, Seville is intensely local — obsessed with its own traditions, its own rhythms, and its own calendar. Flamenco was born here. The April Fair, the most famous feria in Spain, happens here. Semana Santa transforms the streets every spring into the most theatrical religious event in Europe. If you want to understand what makes southern Spain different from the rest of the country, this is where to come.

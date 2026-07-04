@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Astana_from_Radison_Hotel.
 latitude: 51.1282
 loc_type: city
 longitude: 71.4307
+quick_facts:
+  Bayterek Tower: A 97 m 'tree of life'
+  Became Capital: '1997'
+  Population: ~1.4 million
+  Winter Cold: 2nd-coldest capital on Earth
 score: 7.17
 snippet: Purpose-built Kazakh capital on the steppe, defined by monumental architecture
   along the Ishim River.
+tip: Astana (renamed Nur-Sultan and back again) is a futuristic capital raised from
+  the steppe since 1997, full of Norman Foster towers and bold architecture — the
+  Bayterek tower and the tent-shaped Khan Shatyr mall are icons. It is one of the
+  coldest capitals on earth, brutally so in winter, so come prepared or visit in summer.
 title: Astana
 type: location
 ---

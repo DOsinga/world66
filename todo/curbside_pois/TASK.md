@@ -78,13 +78,15 @@ out center;
 
 Replace `<bbox>` with `<south>,<west>,<north>,<east>`.
 
-For Dutch cities, also query interesting street names:
+For cities with a medieval old town, also query streets whose names record their original function. The pattern is universal: any city old enough will have streets named after the trade, material, or activity once there — tanners, blacksmiths, chandlers, a former canal, a demolished gate. Restrict the bounding box to the old centre, not the whole city.
 
 ```
 [out:json];
-way["highway"]["name"~"[Ss]teeg|[Gg]racht|[Hh]aven|[Mm]olen|[Pp]oort|[Hh]of"](<bbox>);
+way["highway"]["name"](<old-city-bbox>);
 out center body;
 ```
+
+Filter the results manually — look for names that encode a former role: trades (Argenters = silversmiths, Ferrers = blacksmiths), materials (Blanqueria = tanning, Corders = rope), infrastructure (Portaferrissa = iron gate, Boqueria = stalls), natural features (Rambla = dry riverbed). Skip generic names and modern streets. Keep only those where you can write a sentence explaining what happened there.
 
 ### 2. Filter candidates
 

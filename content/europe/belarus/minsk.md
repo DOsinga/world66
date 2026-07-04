@@ -7,9 +7,19 @@ done:
 latitude: 53.902472
 loc_type: city
 longitude: 27.561823
+quick_facts:
+  Founded: '1067'
+  Population: ~2 million
+  Rebuilt: After near-total WWII ruin
+  Stalinist Avenue: Independence Ave, 15 km long
 score: 7.25
 snippet: Belarusian capital rebuilt after wartime destruction into broad Stalinist
   avenues, monumental squares, and Soviet-era urban theatre
+tip: Minsk was flattened in WWII and rebuilt as a showcase of grand Stalinist architecture
+  — wide avenues, monumental squares and the sweeping Independence Avenue. It is clean,
+  orderly and green, with a charm-offensive of parks. The metro is cheap and handsome.
+  Check entry rules and the political situation carefully before travelling; they
+  change often.
 title: Minsk
 type: location
 ---

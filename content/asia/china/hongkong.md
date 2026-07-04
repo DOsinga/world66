@@ -12,11 +12,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_20
 latitude: 22.3193
 loc_type: city
 longitude: 114.1694
+quick_facts:
+  Octopus Card: Even buys snacks
+  Population: 7.5 million
+  Protected Land: 40% country parks
+  Skyscrapers: 500+, most on Earth
 score: 9.5
 snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong
   Kong Island and Kowloon
 sources:
 - https://en.wikivoyage.org/wiki/Hong_Kong
+tip: Get an Octopus card — it pays for the metro, ferries, buses and even convenience
+  stores. The Star Ferry across the harbour costs cents and beats any paid cruise.
+  Ride the world's longest outdoor escalator up through Central, and take the 'ding
+  ding' tram along Hong Kong Island. Dodge the Peak Tram queue by taking a bus up.
 title: Hong Kong
 type: location
 ---

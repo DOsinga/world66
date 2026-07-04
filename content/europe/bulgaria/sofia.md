@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Alexander_Nevsky_Cathedral
 latitude: 42.697703
 loc_type: city
 longitude: 23.321736
+quick_facts:
+  Among Europe's Oldest: Cities, ~7,000 years
+  Mineral Springs: Free hot fountains downtown
+  Mt Vitosha: Skiing beside the city
+  Population: ~1.3 million
 score: 8.17
 snippet: Compact Bulgarian capital below Vitosha mountain, layered with Orthodox churches,
   Roman remains, and café culture
+tip: Sofia is one of Europe's oldest cities, sitting at the foot of Vitosha mountain
+  — you can ski in winter within sight of downtown. The gold-domed Alexander Nevsky
+  Cathedral is the icon. Roman ruins surface right inside metro stations. It is affordable
+  and walkable; drink from the free mineral-water fountains in the centre, which locals
+  fill bottles at.
 title: Sofia
 type: location
 ---

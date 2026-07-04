@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg
 latitude: 28.613895
 loc_type: city
 longitude: 77.209006
+quick_facts:
+  India Gate: A 42 m war memorial
+  Old + New: Mughal and colonial halves
+  Population: ~32 million
+  UNESCO Sites: Three within the city
 score: 8.15
 snippet: Indian capital and layered megacity where Sultanate, Mughal, British, and
   modern Delhi overlap.
+tip: Delhi is really two cities — chaotic, Mughal-era Old Delhi with its lanes and
+  Chandni Chowk bazaar, and the wide colonial avenues of New Delhi laid out by the
+  British. The Metro is clean, cheap and beats the traffic. See the Red Fort, Humayun's
+  Tomb and Qutub Minar. Air quality is dire in winter; check it and carry a mask.
 title: Delhi
 type: location
 ---

@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.
 latitude: 47.374449
 loc_type: city
 longitude: 8.541042
+quick_facts:
+  Bahnhofstrasse: A glittering shopping street
+  Drinking Fountains: 1,200+ flow with spring water
+  Population: ~430,000
+  Swimmable River: Locals swim in the clean Limmat
 score: 9.21
 snippet: Switzerland’s largest city, set where the River Limmat leaves Lake Zürich
   and shaped by finance and trade.
+tip: Zurich is Switzerland's wealthy financial capital, set on a pristine lake with
+  the Alps on the horizon. In summer locals swim straight off the river and lakeside
+  lidos — the water is clean enough to drink. The Old Town (Niederdorf) is full of
+  guild houses and steep lanes. It's famously expensive, so picnic by the lake and
+  ride the efficient trams.
 title: Zurich
 type: location
 ---

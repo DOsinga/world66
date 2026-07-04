@@ -11,10 +11,20 @@ image_source: https://www.flickr.com/photos/134037448@N03/32772680570
 latitude: 5.6037
 loc_type: city
 longitude: -0.187
+quick_facts:
+  Founded: 16th century
+  Independence Square: Among the world's largest
+  Jamestown: Old colonial fishing quarter
+  Population: ~2.6 million
 score: 7.28
-title: Accra
 snippet: Atlantic Ghanaian capital where Ga fishing roots, colonial forts, markets,
   and modern banking towers collide.
+tip: Accra is friendly, hot and humid, strung along the Gulf of Guinea. English is
+  the official language, which makes it easy. See Independence Square and the Kwame
+  Nkrumah Mausoleum, and head to Jamestown, the old fishing quarter, for the best
+  street life. Labadi Beach is the local weekend hangout; bargain for everything at
+  Makola Market.
+title: Accra
 type: location
 ---
 

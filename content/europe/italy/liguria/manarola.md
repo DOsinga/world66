@@ -9,11 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_cinque_terre_-_Manarola
 latitude: 44.106326
 loc_type: city
 longitude: 9.727481
+quick_facts:
+  Claim to Fame: Oldest Cinque Terre village
+  Dry-Stone Walls: 7,000 km region-wide
+  Population: ~350
+  Sciacchetrà: Sweet cliff-grown wine
 score: 9.43
 snippet: Cinque Terre village where pastel houses descend a steep Ligurian ravine
   to a tiny harbour.
 tags:
 - cinque_terre
+tip: Manarola is the prettiest of the Cinque Terre five for photos — shoot it from
+  the cemetery path at blue hour as the lights come on. There's no sand beach; people
+  swim off the rocks in the tiny harbour. Walk the vineyard terraces above town, held
+  up by dry-stone walls. Take the train between the villages rather than driving.
 title: Manarola
 type: location
 ---

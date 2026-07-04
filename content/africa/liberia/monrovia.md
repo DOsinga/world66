@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Liberian_Capitol_Building.
 latitude: 6.320356
 loc_type: city
 longitude: -10.806049
+quick_facts:
+  Among Earth's Wettest: Capital cities
+  Founded: 1822, by freed US slaves
+  Named After: US President James Monroe
+  Population: ~1.6 million
 score: 5.46
 snippet: Liberian capital on the Mesurado River peninsula, founded in 1822 by freed
   American slaves.
+tip: Monrovia is named after a US president (James Monroe) — Liberia was founded by
+  freed American slaves, and the flag and English language still show it. The city
+  is humid and rain-soaked (among the wettest capitals on earth) and bears scars of
+  civil war. The beaches are beautiful but have fierce currents; swim only where locals
+  do.
 title: Monrovia
 type: location
 ---

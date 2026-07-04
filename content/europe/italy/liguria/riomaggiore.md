@@ -9,11 +9,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Riomaggiore,_Cinque_Terre,
 latitude: 44.098975
 loc_type: city
 longitude: 9.73867
+quick_facts:
+  Car-Free: Village banned to cars
+  Cinque Terre: One of five villages
+  Pastel Houses: Stacked up the cliff
+  Population: ~1,500
 score: 9.49
 snippet: Steep Cinque Terre fishing village, where colourful houses climb above a
   narrow Ligurian harbour.
 tags:
 - cinque_terre
+tip: Riomaggiore is the first of the five Cinque Terre villages — buy a Cinque Terre
+  Card for the trains and trails that link them. Cars are banned in the villages,
+  so park above or come by train. The cliffside hiking trails are stunning but sometimes
+  closed by landslides, so check before you set out. Grab a paper cone of fried seafood
+  to go.
 title: Riomaggiore
 type: location
 ---

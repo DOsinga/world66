@@ -607,6 +607,207 @@ def tag_index(request, tag):
 
 
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
+_META_SLUGS   = {"neighbourhood"}   # organisational tags, not POI categories
+
+
+def _marker_from_page_rich(page, highlight=False):
+    """Extended marker that includes path, tags, and image_url for the explore map."""
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is None or lng is None:
+        return None
+    m = {
+        "lat": lat, "lng": lng, "name": page.title,
+        "url": page.get_absolute_url(), "path": page.path,
+        "highlight": highlight,
+        "score": float(page.meta.get("score", 0) or 0),
+        "snippet": page.meta.get("snippet", ""),
+        "tags": list(page.meta.get("tags") or []),
+    }
+    img = _image_path(page)
+    if img:
+        m["image_url"] = f"/content-image/{img}"
+    return m
+
+
+def _explore_markers(page):
+    """Return (mode, markers) for the explore view.
+
+    mode='locations' when the page has child city/location pages to browse.
+    mode='city' when we're at city level and should show POIs.
+
+    Primary (sightseeing) POIs come first with highlight=True.
+    Secondary (eating, activities, etc.) follow with highlight=False.
+    Curbside POIs are appended last with curbside=True; the map JS
+    renders them only when zoomed in far enough.
+    """
+    sections, locations, pois = page.children()
+    if locations:
+        markers = [m for m in (_marker_from_page_rich(l) for l in locations) if m]
+        markers.sort(key=lambda m: m["score"], reverse=True)
+        return "locations", markers
+
+    seen = set()
+    primary   = []   # sightseeing
+    secondary = []   # other categories
+    curbside  = []   # curbside layer — shown at high map zoom only
+
+    def _collect(poi, section_slug=None):
+        m = _marker_from_page_rich(poi)
+        if not m:
+            return
+        k = (m["lat"], m["lng"])
+        if k in seen:
+            return
+        seen.add(k)
+        tags = set(poi.meta.get("tags") or [])
+        if "curbside" in tags:
+            m["curbside"] = True
+            curbside.append(m)
+        elif (tags & _SIGHT_SLUGS) or (section_slug in _SIGHT_SLUGS):
+            m["highlight"] = True
+            primary.append(m)
+        elif tags - _META_SLUGS:
+            m["highlight"] = False
+            secondary.append(m)
+
+    for poi in pois:
+        _collect(poi)
+    for nav in sections:
+        for poi in nav.tagged_pois():
+            _collect(poi, section_slug=nav.slug)
+
+    primary.sort(key=lambda m: m["score"], reverse=True)
+    secondary.sort(key=lambda m: m["score"], reverse=True)
+    return "city", primary + secondary + curbside
+
+
+def api_page_content(request, path):
+    """Return rendered body HTML and image for a page — used by the explore drawer."""
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    body_html = (
+        _prefix_internal_links(md.markdown(page.body), page.url_prefix)
+        if page.body else ""
+    )
+    data = {
+        "title": page.title,
+        "url": page.get_absolute_url(),
+        "body_html": body_html,
+        "snippet": page.meta.get("snippet", ""),
+    }
+    img = _image_path(page)
+    if img:
+        data["image_url"] = f"/content-image/{img}"
+        data["image_source"] = page.meta.get("image_source", "")
+        data["image_license"] = page.meta.get("image_license", "")
+        data["image_attribution"] = page.meta.get("image_attribution", "")
+    return JsonResponse(data)
+
+
+_CONTINENT_CENTROIDS = {
+    "europe":             (54.0,   15.0),
+    "asia":               (35.0,   90.0),
+    "africa":             ( 0.0,   20.0),
+    "northamerica":       (45.0, -100.0),
+    "southamerica":       (-15.0,  -60.0),
+    "australiaandpacific":(-25.0,  135.0),
+}
+
+
+def _world_markers():
+    """Return markers for all continents (world-level explore)."""
+    markers = []
+    for slug, (lat, lng) in _CONTINENT_CENTROIDS.items():
+        page = load_page(slug)
+        if not page:
+            continue
+        m = {
+            "lat": lat, "lng": lng,
+            "name": page.title,
+            "url": page.get_absolute_url(),
+            "path": page.path,
+            "highlight": True,
+            "score": float(page.meta.get("score", 0) or 0),
+            "snippet": page.meta.get("snippet", ""),
+            "tags": list(page.meta.get("tags") or []),
+        }
+        img = _image_path(page)
+        if img:
+            m["image_url"] = f"/content-image/{img}"
+        markers.append(m)
+    return markers
+
+
+def map_explore_world(request):
+    markers = _world_markers()
+    return render(request, "guide/map_explore.html", {
+        "page": None,
+        "page_title": "World",
+        "parent_title": "",
+        "parent_url": "",
+        "parent_path_json": mark_safe("null"),
+        "mode": "locations",
+        "markers_json": mark_safe(json.dumps(markers)),
+    })
+
+
+def api_explore_world(request):
+    markers = _world_markers()
+    return JsonResponse({
+        "title": "World",
+        "path": "",
+        "url": "/explore",
+        "snippet": "",
+        "mode": "locations",
+        "markers": markers,
+    })
+
+
+def map_explore(request, path):
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    mode, markers = _explore_markers(page)
+    # Build parent info: top-level pages (continents) link up to world explore
+    if "/" in page.path:
+        parent = load_page(page.path.rsplit("/", 1)[0])
+        parent_title = parent.title if parent else ""
+        parent_url = parent.get_absolute_url() if parent else ""
+        parent_path = parent.path if parent else ""
+    else:
+        parent_title = "World"
+        parent_url = "/explore"
+        parent_path = ""   # empty string = world root
+    return render(request, "guide/map_explore.html", {
+        "page": page,
+        "page_title": page.title,
+        "parent_title": parent_title,
+        "parent_url": parent_url,
+        "parent_path_json": mark_safe(json.dumps(parent_path)),
+        "mode": mode,
+        "markers_json": mark_safe(json.dumps(markers)),
+    })
+
+
+def api_explore(request, path):
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    mode, markers = _explore_markers(page)
+    data = {
+        "title": page.title,
+        "path": page.path,
+        "url": page.get_absolute_url(),
+        "snippet": page.meta.get("snippet", ""),
+        "mode": mode,
+        "markers": markers,
+    }
+    return JsonResponse(data)
 
 
 def _marker_from_page(page, highlight=False):

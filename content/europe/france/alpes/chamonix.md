@@ -9,11 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Chamonix_-_Lac_Blanc_4.jpg
 latitude: 45.92467
 loc_type: city
 longitude: 6.872751
+quick_facts:
+  Aiguille du Midi: 3,842 m cable car
+  Elevation: 1,035 m
+  First Winter Olympics: '1924'
+  Mont Blanc: 4,808 m above
 score: 9.48
 snippet: Alpine town at the foot of Mont Blanc, known for mountaineering history and
   varied ski areas.
 sources:
 - https://en.wikipedia.org/wiki/Chamonix
+tip: Chamonix sits under Mont Blanc, the Alps' highest peak. Ride the Aiguille du
+  Midi cable car to 3,842 m for the 'Step into the Void' glass box — but altitude
+  hits fast, so move slowly up there. The Mer de Glace glacier is shrinking visibly;
+  the staircase down to it grows longer each year. Summer hiking rivals winter skiing.
 title: Chamonix
 type: location
 ---

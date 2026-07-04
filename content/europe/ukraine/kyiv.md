@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%B4%D0%B8%D
 latitude: 50.45
 loc_type: city
 longitude: 30.5241
+quick_facts:
+  Arsenalna: Among world's deepest metro stations
+  Founded: ~482 AD
+  Gold Domes: St Sophia & the Lavra
+  Population: ~3 million
 score: 8.28
 snippet: Ancient Ukrainian capital on the Dnieper, layered with Kyivan Rus history
   and gold-domed Orthodox monasteries.
+tip: Kyiv is one of the oldest and grandest cities in eastern Europe, the cradle of
+  the Slavic world, crowned by the gold domes of St Sophia and the cave-monastery
+  of the Pechersk Lavra. Ukraine is at war; check advisories carefully before any
+  travel. The metro here runs among the deepest in the world — Arsenalna station doubles
+  as a bomb shelter.
 title: Kyiv
 type: location
 ---

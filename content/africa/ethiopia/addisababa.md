@@ -11,11 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:AddisView.jpg
 latitude: 9.0358
 loc_type: city
 longitude: 38.7524
+quick_facts:
+  African Union: Headquartered here
+  Elevation: 2,355 m
+  Lucy: 3.2-million-year-old ancestor
+  Population: ~5 million
 score: 7.54
-title: Addis Ababa
-type: location
 snippet: Highland Ethiopian capital and African diplomatic hub, founded as Menelik
   II's New Flower above 2,500 metres.
+tip: Addis Ababa is one of the highest capitals on earth at 2,355 m, so take the first
+  day or two slowly. It is the diplomatic capital of Africa, home to the African Union.
+  Eat injera with the locals, browse the vast Mercato — one of Africa's biggest open-air
+  markets — and visit Lucy, the 3.2-million-year-old hominid, at the National Museum.
+title: Addis Ababa
+type: location
 ---
 
 Addis Ababa sits at 2,500 metres in the Ethiopian highlands, a city that feels perpetually spring-like despite being just a few degrees from the equator. Founded in 1886 by Emperor Menelik II, its name means "New Flower" in Amharic, and the city has been growing restlessly ever since. Today it is home to over five million people and serves as the diplomatic capital of Africa, hosting the African Union and dozens of embassies.

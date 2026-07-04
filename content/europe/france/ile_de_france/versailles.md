@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie
 latitude: 48.80354
 loc_type: city
 longitude: 2.126689
+quick_facts:
+  Built By: Louis XIV
+  Gardens: Bigger than central Paris
+  Hall of Mirrors: 357 mirrors
+  Rooms: 2,300
 score: 9.57
 snippet: Paris-region town dominated by the Château de Versailles, its formal gardens,
   and royal history.
+tip: Versailles is enormous — the palace is just the start; the gardens, the Grand
+  Trianon and Marie-Antoinette's hamlet need a full day. Go Tuesday to Friday; weekends
+  and Mondays are mobbed. The fountains only run on scheduled 'Grandes Eaux' days,
+  so check first. Rent a bike or golf cart for the grounds.
 title: Versailles
 type: location
 ---

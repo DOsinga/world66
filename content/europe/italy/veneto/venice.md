@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_del_Redentore_(Veni
 latitude: 45.437191
 loc_type: city
 longitude: 12.33459
+quick_facts:
+  Bridges: 400+
+  Built On: Millions of wooden piles
+  Car-Free: Boats only
+  Islands: '118'
 score: 9.97
 snippet: Lagoon city of canals, palaces, and Venetian painting, beautiful despite
   summer crowds and decay
+tip: 'Venice empties at night. Most visitors are day-trippers off cruise ships and
+  coaches who vanish by 6pm, so stay over if you can — the quiet, lamplit alleys after
+  dark are the city at its best. By day, get lost on purpose: step two streets back
+  from the Grand Canal and the crowds, the prices and the noise all drop away.'
 title: Venice
 type: location
 ---

@@ -9,11 +9,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Monterosso_al_Mare-panoram
 latitude: 44.1463
 loc_type: city
 longitude: 9.6558
+quick_facts:
+  Anchovies: A protected specialty
+  Cinque Terre: One of five villages
+  Population: ~1,400
+  Sand Beach: The only one of the five
 score: 9.41
 snippet: Largest Cinque Terre village, with sandy beaches, a fishing old town, and
   local anchovies and Sciacchetrà wine.
 tags:
 - cinque_terre
+tip: Monterosso is the largest and only real beach town of the Cinque Terre — the
+  one with actual sand and sunbeds, split into an old and new town by a tunnel. It's
+  the easiest of the five for families and the trailhead for the scenic walk to Vernazza.
+  Try the local anchovies and pesto, both regional specialities. Come by train, not
+  car.
 title: Monterosso al Mare
 type: location
 ---

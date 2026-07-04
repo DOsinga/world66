@@ -8,9 +8,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome_and_Motoy
 latitude: 34.391724
 loc_type: city
 longitude: 132.451759
+quick_facts:
+  A-Bomb Dome: Left as it stood
+  Bombed: 6 August 1945
+  Miyajima: '''Floating'' torii gate'
+  Population: 1.2 million
 score: 9.41
 snippet: Western Honshu city rebuilt around peace memorials, with Mazda industry and
   nearby Miyajima excursions.
+tip: Hiroshima is sober and moving — the Peace Memorial Park and Museum around the
+  A-Bomb Dome, the one building left standing near the hypocentre, are essential and
+  emotional, so allow time. From here, ferry to Miyajima island to see the 'floating'
+  torii gate of Itsukushima, best at high tide. Try okonomiyaki, layered Hiroshima-style
+  with noodles.
 title: Hiroshima
 type: location
 ---

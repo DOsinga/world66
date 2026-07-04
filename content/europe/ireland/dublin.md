@@ -10,10 +10,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-
 latitude: 53.349379
 loc_type: city
 longitude: -6.260559
+quick_facts:
+  City of Literature: Joyce, Yeats, Beckett, Wilde
+  Founded: ~841, by Vikings
+  Guinness: Brewed at St James's Gate since 1759
+  Population: ~1.2 million
 score: 9.11
-title: Dublin
 snippet: Compact Irish capital on the Liffey, where literary history still shapes
   the pubs and Georgian streets.
+tip: Dublin is compact and walkable, best explored on foot between its literary pubs
+  — this is the city of Joyce, Yeats and Beckett, a UNESCO City of Literature. Pour
+  an afternoon into the Book of Kells at Trinity College and a pint at the Guinness
+  Storehouse. Temple Bar is touristy and pricey; locals drink in the side streets.
+  Bring a rain jacket, always.
+title: Dublin
 type: location
 ---
 

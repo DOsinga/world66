@@ -9,6 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Positano_(Italy)_02.jpg
 latitude: 40.628658
 loc_type: city
 longitude: 14.485496
+quick_facts:
+  Amalfi Coast: UNESCO-listed
+  Built Vertically: All staircases
+  Population: ~4,000
+  Steinbeck: Wrote it 'bites deep'
 score: 9.48
 snippet: Amalfi Coast cliff town of pastel houses stacked above Spiaggia Grande and
   the Tyrrhenian Sea
@@ -16,11 +21,13 @@ sources:
 - https://en.wikipedia.org/wiki/Positano
 tags:
 - amalfi_coast
+tip: Positano is vertical — it's all staircases, so wear flat shoes and send your
+  luggage ahead if you can. Driving the Amalfi Coast road is white-knuckle; the SITA
+  bus or a ferry is calmer and the views are better. The beach is pebbly and the loungers
+  cost a fortune; the free section is small, so arrive early.
 title: Positano
 type: location
 ---
-
-*Europe > Italy > Campania > Positano*
 
 Positano is the most-photographed town on the Amalfi Coast — pastel buildings stacked up an almost vertical cliff face, a small beach wedged between rocks at the bottom, and the sea below it all. The images are accurate. It is genuinely beautiful and genuinely crowded in July and August, when the narrow streets become difficult to navigate and the beach fills entirely.
 

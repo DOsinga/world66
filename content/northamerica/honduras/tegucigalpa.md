@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tegucigalpa
 latitude: 14.0818
 loc_type: city
 longitude: -87.2068
+quick_facts:
+  Built On: Steep hills and ravines
+  Name: Possibly 'silver hill' in Nahuatl
+  No Railway: The terrain blocked one
+  Population: ~1.2 million
 score: 5.81
 snippet: Hilly Honduran capital with colonial churches, major pilgrimage sites, and
   quick access to La Tigra cloud forest.
+tip: Tegucigalpa — 'Tegus' — sprawls across steep hills and ravines, so there's no
+  real grid; it's a tangle of winding streets. Most travellers use it briefly before
+  heading to the Bay Islands or the Copán ruins. The colonial centre around the cathedral
+  and Parque Central is the heart. Use trusted taxis, stay in the safer districts,
+  and keep a low profile.
 title: Tegucigalpa
 type: location
 ---

@@ -7,6 +7,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Marseille
 - https://musees.marseille.fr/musee-dart-contemporain-mac
 tags:
+- curbside
 - things_to_do
 - museum
 - art

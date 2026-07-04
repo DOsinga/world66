@@ -1,15 +1,16 @@
 ---
-title: Cathédrale de la Major
-type: poi
 latitude: 43.2986
 longitude: 5.3651
+score: 7.8
 snippet: Vast striped Romanesque-Byzantine cathedral overlooking the harbour
 tags:
+- curbside
 - things_to_do
 - sight
 - church
 - architecture
-score: 7.8
+title: Cathédrale de la Major
+type: poi
 ---
 
 The Cathédrale Sainte-Marie-Majeure, locally known as La Major, looms over the edge of the Panier in alternating bands of green Florentine marble and white Cassis limestone. Built between 1852 and 1893 in a Romano-Byzantine style by Léon Vaudoyer and finished by Henri-Jacques Espérandieu, it is one of the largest cathedrals built in France in the 19th century — capable of holding 3,000 worshippers.

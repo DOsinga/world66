@@ -1,14 +1,15 @@
 ---
-title: Fort Saint-Jean
-type: poi
 latitude: 43.2956
 longitude: 5.3624
+score: 8.3
 snippet: 17th-century harbour fort linked to the Mucem by a high footbridge
 tags:
+- curbside
 - things_to_do
 - sight
 - architecture
-score: 8.3
+title: Fort Saint-Jean
+type: poi
 ---
 
 Fort Saint-Jean guards the northern side of the entrance to the Vieux-Port. Louis XIV ordered its construction in 1660, supposedly to defend the city from foreign attack — though the cannons in fact pointed inland, after a recent revolt by Marseille against royal authority. The fort kept that role through the Revolution, the Empire and into the 20th century before becoming a museum in the 2000s.

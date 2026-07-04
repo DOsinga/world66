@@ -22,6 +22,22 @@ source venv/bin/activate
 python3 manage.py runserver 8066
 ```
 
+## Running the linter
+
+Before pushing, run:
+
+```bash
+python3 tools/linter.py
+```
+
+For trivial mechanical cleanup, run:
+
+```bash
+python3 tools/linter.py --fix
+```
+
+Review the diff after `--fix`; it is meant for safe formatting and frontmatter fixes, not for judgment calls.
+
 ## Content structure
 
 `content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file.
@@ -29,6 +45,10 @@ python3 manage.py runserver 8066
 The content hierarchy is documented in LOCATIONS.md. In short: continents contain countries; large countries may contain one region level; regions and smaller countries contain cities and features. Features are named areas or attractions that are destinations in themselves but not settlements.
 
 **POIs always live flat in the city or feature directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same folder, not inside an `eating_out/` subfolder.
+
+### Markdown files
+
+Markdown files use Unix line endings (`LF`, not `CRLF`) and every non-empty markdown file ends with a final newline.
 
 ### Images
 

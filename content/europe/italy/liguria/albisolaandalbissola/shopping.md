@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Albisola and Albissola"
+title: "Shopping"
 type: section
 ---
 

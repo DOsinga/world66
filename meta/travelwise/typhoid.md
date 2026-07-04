@@ -14,9 +14,17 @@ type: poi
 
 You can get typhoid fever if you consume contaminated food or beverages. The most common sign of *S.Typhi* infection is sustained fever up to 40°C/104°F, often accompanied by severe headaches.
 
-Two basic actions can protect you from typhoid fever:   Avoid risky foods and drinks.  Get vaccinated against typhoid fever If you suspect you have typhoid fever, see a doctor immediately. The disease can be treated effectively with antibiotics.
+Two basic actions can protect you from typhoid fever: 
+ 
+ Avoid risky foods and drinks. 
+ Get vaccinated against typhoid fever If you suspect you have typhoid fever, see a doctor immediately. The disease can be treated effectively with antibiotics.
 
-     Background information 
+
+ 
+ 
+ 
+ 
+ Background information 
 
 ** Typhoid Fever and Typhus: TWO diseases **
 
@@ -42,9 +50,19 @@ Typhoid fever is common in most parts of the world except in industrialized regi
 
 Two basic actions can protect you from typhoid fever:
 
-  Avoid risky foods and drinks.  Get vaccinated against typhoid fever. It may surprise you, but watching what you eat and drink when you travel is as important as being vaccinated. This is because the vaccines are not completely effective. Avoiding risky foods will also help protect you from other illnesses, including travelers' diarrhea, cholera, dysentery, and hepatitis A.
 
- **"Boil it, cook it, peel it, or forget it" **  If you drink water, buy it bottled or bring it to a rolling boil for 1 minute before you drink it. Bottled carbonated water is safer than uncarbonated water.  Ask for drinks without ice unless the ice is made from bottled or boiled water. Avoid popsicles and flavored ices that may have been made with contaminated water.  Eat foods that have been thoroughly cooked and that are still hot and steaming.  Avoid raw vegetables and fruits that cannot be peeled. Vegetables like lettuce are easily contaminated and are very hard to wash well.  Avoid foods and beverages from street vendors. It is difficult for food to be kept clean on the street, and many travelers get sick from food bought from street vendors. 
+ 
+ Avoid risky foods and drinks. 
+ Get vaccinated against typhoid fever. It may surprise you, but watching what you eat and drink when you travel is as important as being vaccinated. This is because the vaccines are not completely effective. Avoiding risky foods will also help protect you from other illnesses, including travelers' diarrhea, cholera, dysentery, and hepatitis A.
+
+
+ **"Boil it, cook it, peel it, or forget it" **
+ 
+ If you drink water, buy it bottled or bring it to a rolling boil for 1 minute before you drink it. Bottled carbonated water is safer than uncarbonated water. 
+ Ask for drinks without ice unless the ice is made from bottled or boiled water. Avoid popsicles and flavored ices that may have been made with contaminated water. 
+ Eat foods that have been thoroughly cooked and that are still hot and steaming. 
+ Avoid raw vegetables and fruits that cannot be peeled. Vegetables like lettuce are easily contaminated and are very hard to wash well. 
+ Avoid foods and beverages from street vendors. It is difficult for food to be kept clean on the street, and many travelers get sick from food bought from street vendors. 
 
 ** Getting vaccinated **
 

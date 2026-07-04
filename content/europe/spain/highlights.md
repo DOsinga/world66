@@ -13,7 +13,7 @@ Spain rewards broad exploration — most visitors who think they're just going t
 
 **Seville** — Flamenco, tapas, the third-largest cathedral in the world, the Real Alcázar, and some of the finest Semana Santa processions in Spain. The heat in July is oppressive; go in spring or autumn.
 
-**The Camino de Santiago** — The pilgrimage route to [Santiago de Compostela](/europe/spain/galicia/santiago_de_compostela) has been walked for a thousand years. The most popular route, the Camino Francés, begins in the French Pyrenees and takes around 30 days to complete. Shorter routes are possible. Whether you walk it for spiritual reasons or not, the experience is exceptional.
+**The Camino de Santiago** — The pilgrimage route to [Santiago de Compostela](/europe/spain/galicia/santiagodecompostela) has been walked for a thousand years. The most popular route, the Camino Francés, begins in the French Pyrenees and takes around 30 days to complete. Shorter routes are possible. Whether you walk it for spiritual reasons or not, the experience is exceptional.
 
 **San Sebastián (Donostia)** — Consistently ranked among Europe's best food cities. The old town pintxos bars on Calle 31 de Agosto and Calle Fermín Calbetón are the place to spend an evening. The setting — a perfect curved bay, an old quarter on a headland — helps.
 

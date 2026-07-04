@@ -97,7 +97,52 @@ Remove:
 
 Quality signal: prefer items with `wikipedia` or `wikidata` tags — these are more likely to have a notable story. Items without either can still be included if the OSM tags suggest something interesting (e.g. `historic=castle`, `artwork_type=sculpture`).
 
-### 3. Create stub files from Overpass data
+### 3. Audit existing POIs for coordinate accuracy
+
+Before creating new stubs, cross-reference the Overpass results against existing (non-curbside) POIs already in the city's content directory. This is a free quality pass: you already have the authoritative OSM coordinates in the candidates JSON.
+
+For each existing POI file in `content/<city-path>/` that has `type: poi` and is **not** tagged `curbside`:
+
+1. Normalise its title to a slug and look for a matching entry in the candidates JSON (match on `slug` or fuzzy-match on `name`).
+2. If a match is found, compare the stored `latitude`/`longitude` against the OSM values.
+3. If they differ by more than roughly 100 m (≈0.001° in either axis), update the file's coordinates to the OSM values using `python-frontmatter`. Log what changed.
+
+```python
+import frontmatter, os, json, math
+
+def dist(lat1, lon1, lat2, lon2):
+    return math.hypot(lat1 - lat2, lon1 - lon2)
+
+with open('candidates.json') as f:
+    candidates = {c['slug']: c for c in json.load(f)}
+
+city_dir = 'content/europe/spain/catalonia/barcelona'
+for fname in os.listdir(city_dir):
+    if not fname.endswith('.md'):
+        continue
+    path = os.path.join(city_dir, fname)
+    post = frontmatter.load(path)
+    if post.get('type') != 'poi' or 'curbside' in post.get('tags', []):
+        continue
+    slug = fname[:-3]
+    if slug not in candidates:
+        continue
+    c = candidates[slug]
+    stored_lat = post.get('latitude')
+    stored_lon = post.get('longitude')
+    if stored_lat is None or stored_lon is None:
+        continue
+    if dist(stored_lat, stored_lon, c['lat'], c['lon']) > 0.001:
+        print(f"Fix {slug}: ({stored_lat}, {stored_lon}) → ({c['lat']}, {c['lon']})")
+        post['latitude'] = c['lat']
+        post['longitude'] = c['lon']
+        with open(path, 'wb') as out:
+            frontmatter.dump(post, out)
+```
+
+Only fix coordinates where the OSM match is clearly the same place. If the name is common or ambiguous, skip rather than guess.
+
+### 4. Create stub files from Overpass data
 
 Use `tools/create_curbside_stubs.py` (adapt the path and candidates JSON for your city) to write all stub files with frontmatter in one step. The script writes exact OSM coordinates to every file. **Do not change the coordinates after this step.**
 
@@ -113,7 +158,7 @@ score: 1
 ---
 ```
 
-### 4. Write content (snippet + body)
+### 5. Write content (snippet + body)
 
 For each stub, add:
 - `snippet:` field in frontmatter — one sentence: what it is and why interesting
@@ -123,7 +168,7 @@ For each stub, add:
 
 Commit each logical batch together. Group by neighbourhood or type (artworks, churches, memorials, etc.).
 
-### 5. What makes a good body text
+### 6. What makes a good body text
 
 - Lead with the surprising or non-obvious fact
 - Explain the name etymology if it encodes history

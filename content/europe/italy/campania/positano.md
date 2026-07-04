@@ -29,8 +29,6 @@ title: Positano
 type: location
 ---
 
-*Europe > Italy > Campania > Positano*
-
 Positano is the most-photographed town on the Amalfi Coast — pastel buildings stacked up an almost vertical cliff face, a small beach wedged between rocks at the bottom, and the sea below it all. The images are accurate. It is genuinely beautiful and genuinely crowded in July and August, when the narrow streets become difficult to navigate and the beach fills entirely.
 
 The town divides roughly into upper and lower sections, connected by steep steps and a road that loops around. The main beach ([Spiaggia Grande](/europe/italy/campania/positano/spiaggia_grande)) is shingle rather than sand and charges entry to most of it. The smaller [Spiaggia del Fornillo](/europe/italy/campania/positano/spiaggia_del_fornillo), 10 minutes' walk west, is quieter and free.

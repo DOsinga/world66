@@ -5,9 +5,19 @@ done:
 latitude: 18.5944
 loc_type: city
 longitude: -72.3074
+quick_facts:
+  First Free Black Republic: Independent in 1804
+  Founded: '1749'
+  Haitian Art: A world-renowned tradition
+  Population: ~1 million
 score: 5.04
 snippet: Haitian capital of hillside neighborhoods, tap-taps, markets, and the cooler
   heights of Pétion-Ville.
+tip: Port-au-Prince has endured earthquakes, hurricanes and deep instability; check
+  advisories carefully, as most warn against travel due to gang violence. In calmer
+  times its vibrant art scene, the iron market and the hillside suburb of Pétion-Ville
+  were the draws. Haiti was the first nation born of a successful slave revolt. Any
+  visit needs serious local support.
 title: Port-au-Prince
 type: location
 ---

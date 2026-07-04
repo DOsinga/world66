@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Easter_Island_5.jpg
 latitude: -27.1127
 loc_type: city
 longitude: -109.3497
+quick_facts:
+  Local Name: Rapa Nui
+  Moai Statues: ~900
+  Quarry: Half-carved moai remain
+  Remoteness: 3,500 km to Chile
 score: 9.51
 snippet: Remote Rapa Nui island in the South Pacific, famous for its volcanic landscape
   and moai statues.
+tip: 'Rapa Nui is one of the most remote inhabited places on Earth — flights are limited
+  and pricey, so book early. The moai are protected: never climb the platforms (ahu)
+  or touch the statues. A guide brings the sites alive. Rent a vehicle to reach the
+  Rano Raraku quarry, where unfinished moai still lie in the hillside.'
 title: Easter Island
 type: location
 ---

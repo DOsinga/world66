@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:20221028_100745_plage.jpg
 latitude: -17.5333
 loc_type: city
 longitude: -149.8386
+quick_facts:
+  Bali Hai: Said to inspire it
+  From Tahiti: 30-minute ferry
+  Heart Shape: Two bays form one
+  Highest Peak: Mt Tohivea, 1,207 m
 score: 9.75
 snippet: Mountainous Society Islands escape with turquoise lagoons, deep bays, and
   easy ferry access from Tahiti
+tip: Moorea is Bora Bora's quieter, cheaper neighbour — a 30-minute ferry from Tahiti.
+  Rent a car and circle the island in an afternoon, stopping at the Belvedere Lookout
+  over the two heart-shaped bays. Snorkel with rays and reef sharks in the lagoon;
+  many tours feed them, so they come close.
 title: Moorea
 type: location
 ---

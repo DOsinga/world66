@@ -7,9 +7,18 @@ done:
 latitude: -6.1754
 loc_type: city
 longitude: 106.8272
+quick_facts:
+  Kota Tua: Old Dutch colonial quarter
+  Metro Population: ~30 million
+  New Capital: Being built on Borneo
+  Sinking: Several cm a year
 score: 7.34
 snippet: Indonesian megacity where colonial Batavia, national monuments, canals, and
   relentless traffic collide
+tip: Jakarta is a vast, traffic-clogged megacity that is literally sinking — parts
+  subside several centimetres a year, which is why Indonesia is building a new capital,
+  Nusantara, on Borneo. Beat the gridlock with the TransJakarta busway and the new
+  MRT. See the old Dutch town of Kota Tua and the giant National Monument (Monas).
 title: Jakarta
 type: location
 ---

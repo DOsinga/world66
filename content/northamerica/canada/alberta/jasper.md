@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Jasper_corner_of_
 latitude: 52.8737
 loc_type: city
 longitude: -117.9543
+quick_facts:
+  Athabasca Glacier: Walkable on foot
+  Dark-Sky Preserve: Among world's largest
+  Icefields Parkway: Glacier-lined drive
+  Park Area: 11,000 km²
 score: 9.44
 snippet: Canadian Rockies mountain town inside Jasper National Park, quieter than
   Banff and surrounded by wilderness
+tip: Jasper is Banff's wilder, quieter northern cousin in the same Rockies — and one
+  of the world's largest dark-sky preserves, so stay up for the stars. Drive the Icefields
+  Parkway between them, one of the most scenic roads anywhere, and walk on the Athabasca
+  Glacier. You'll need a Parks Canada pass. Keep your distance from elk and bears.
 title: Jasper
 type: location
 ---

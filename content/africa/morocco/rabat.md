@@ -10,12 +10,22 @@ image_source: https://commons.wikimedia.org/wiki/File:Morocco_-_Rabat_(313877753
 latitude: 34.021845
 loc_type: city
 longitude: -6.840893
+quick_facts:
+  Became Capital: '1912'
+  Hassan Tower: A minaret left unfinished in 1199
+  Kasbah des Udayas: Blue-and-white clifftop quarter
+  Population: ~580,000
 score: 8.63
 snippet: Atlantic Moroccan capital at the Bou Regreg, with Oudaya lanes, Chellah ruins,
   and a calmer imperial-city pace.
 sources:
 - https://en.wikipedia.org/wiki/Rabat
 - https://en.wikivoyage.org/wiki/Rabat
+tip: Rabat is Morocco's calm, elegant capital — far more relaxed than Marrakesh or
+  Fez, and easy to walk. Wander the blue-and-white Kasbah of the Udayas above the
+  river, the unfinished Hassan Tower, and the walled Chellah ruins where storks nest.
+  The medina is hassle-light by Moroccan standards; the tram makes getting around
+  simple.
 title: Rabat
 type: location
 ---

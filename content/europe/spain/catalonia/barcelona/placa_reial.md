@@ -6,6 +6,7 @@ snippet: The two central lampposts are Antoni Gaudí's first public commission, 
   by competition in 1878 when he was 26 and entirely unknown.
 tags:
 - curbside
+- sightseeing
 title: Plaça Reial
 type: poi
 ---

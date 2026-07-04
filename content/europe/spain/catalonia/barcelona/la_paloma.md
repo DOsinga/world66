@@ -7,6 +7,7 @@ snippet: A 1903 ballroom with largely intact painted ceilings and mirrored walls
   since 2009 with its future still unresolved.
 tags:
 - curbside
+- nightlife
 title: La Paloma
 type: poi
 ---

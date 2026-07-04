@@ -6,6 +6,7 @@ snippet: Where Ferdinand and Isabella received Columbus in 1493 — the room whe
   first heard about the New World.
 tags:
 - curbside
+- sightseeing
 title: Plaça del Rei
 type: poi
 ---

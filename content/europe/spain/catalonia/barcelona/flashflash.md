@@ -5,6 +5,7 @@ longitude: 2.1553
 score: 7.4
 snippet: Iconic 1970s design restaurant famous for tortillas in every variation
 tags:
+- curbside
 - eating_out
 - gracia
 title: Flash-Flash

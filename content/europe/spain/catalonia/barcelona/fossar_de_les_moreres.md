@@ -7,6 +7,7 @@ snippet: The Fossar de les Moreres — 'Burial Ground of the Mulberry Trees' —
   commemorate each year as their national tragedy.
 tags:
 - curbside
+- sightseeing
 title: Fossar de les Moreres
 type: poi
 ---

@@ -7,6 +7,7 @@ phone: +34 93 423 40 16
 score: 8.9
 snippet: Reconstructed 1929 modernist pavilion by Mies van der Rohe
 tags:
+- curbside
 - things_to_do
 - architecture
 - montjuic

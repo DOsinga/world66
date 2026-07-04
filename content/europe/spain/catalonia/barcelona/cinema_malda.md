@@ -7,6 +7,7 @@ snippet: The Cinema Maldà has been running inside a shopping arcade in the Goth
   original language — a stance that in Spain still carries political weight.
 tags:
 - curbside
+- nightlife
 title: Cinema Maldà
 type: poi
 ---

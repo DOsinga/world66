@@ -7,6 +7,7 @@ snippet: The intellectual centre of Catalan life since 1860, housed in a 17th-ce
   Catalan culture could be discussed.
 tags:
 - curbside
+- nightlife
 title: Ateneu Barcelonès
 type: poi
 ---

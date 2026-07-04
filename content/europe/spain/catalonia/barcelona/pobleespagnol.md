@@ -6,6 +6,7 @@ longitude: 2.1484
 score: 7.3
 snippet: Open-air architectural museum built for the 1929 Exposition
 tags:
+- curbside
 - things_to_do
 - sights
 - montjuic

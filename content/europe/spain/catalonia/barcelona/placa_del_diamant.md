@@ -7,6 +7,7 @@ snippet: Mercè Rodoreda wrote *La Plaça del Diamant* in exile in Geneva, recon
   novel of the 20th century.
 tags:
 - curbside
+- sightseeing
 title: Plaça del Diamant
 type: poi
 ---

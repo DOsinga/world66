@@ -6,6 +6,7 @@ snippet: Two Roman watchtowers from the 1st century AD stand at the square's nor
   edge — built to guard the main gate into Barcino and still 2,000 years old.
 tags:
 - curbside
+- sightseeing
 title: Plaça Nova
 type: poi
 ---

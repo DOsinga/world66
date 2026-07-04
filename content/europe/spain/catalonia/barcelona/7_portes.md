@@ -2,9 +2,12 @@
 latitude: 41.3821717
 longitude: 2.1832472
 score: 1
-snippet: "Operating continuously since 1836, this is one of the oldest restaurants in Spain. The seven arched entrances that give it its name are still there — and still count seven."
+snippet: Operating continuously since 1836, this is one of the oldest restaurants
+  in Spain. The seven arched entrances that give it its name are still there — and
+  still count seven.
 tags:
 - curbside
+- eating_out
 title: 7 Portes
 type: poi
 ---

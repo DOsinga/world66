@@ -6,6 +6,7 @@ snippet: On All Saints' Day, Barcelona families bring food and sit with their de
   here — the l'aplec dels morts is not gothic ritual but affectionate tradition.
 tags:
 - curbside
+- sightseeing
 title: Cementiri del Poblenou
 type: poi
 ---

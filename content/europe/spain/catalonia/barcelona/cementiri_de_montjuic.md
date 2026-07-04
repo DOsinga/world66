@@ -6,6 +6,7 @@ snippet: Europe's most elaborate bourgeois mausoleums stand a short walk from Ci
   War mass graves — and Francisco Franco's family tomb is buried among them both.
 tags:
 - curbside
+- sightseeing
 title: Cementiri de Montjuïc
 type: poi
 ---

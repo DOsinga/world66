@@ -7,6 +7,7 @@ snippet: Designed by Antoni Rovira i Trias — the architect whose Eixample mast
   Cerdà's grid without appeal.
 tags:
 - curbside
+- eating_out
 title: Mercat de la Barceloneta
 type: poi
 ---

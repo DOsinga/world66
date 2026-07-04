@@ -7,6 +7,7 @@ snippet: The trams stopped running in 1968 and the viaduct stood empty for forty
   a pedestrian walkway in 2012.
 tags:
 - curbside
+- sightseeing
 title: Viaducte de Vallcarca
 type: poi
 ---

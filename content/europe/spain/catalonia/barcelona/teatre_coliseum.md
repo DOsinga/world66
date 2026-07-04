@@ -7,6 +7,7 @@ snippet: What is now Barcelona's main musical theatre venue was designed in 1923
   announces the ambitions of the silent-film era.
 tags:
 - curbside
+- nightlife
 title: Teatre Coliseum
 type: poi
 ---

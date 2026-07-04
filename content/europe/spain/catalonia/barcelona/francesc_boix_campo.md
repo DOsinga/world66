@@ -7,6 +7,7 @@ snippet: The photographs Boix carried to the Nuremberg witness stand were the SS
   in the village below the camp.
 tags:
 - curbside
+- sightseeing
 title: Francesc Boix Campo
 type: poi
 ---

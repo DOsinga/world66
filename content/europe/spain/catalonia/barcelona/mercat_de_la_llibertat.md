@@ -7,6 +7,7 @@ snippet: The only Barcelona market named for a political cause — its republica
   monarchy, a Primo de Rivera dictatorship, and forty years of Francoism.
 tags:
 - curbside
+- eating_out
 title: Mercat de la Llibertat
 type: poi
 ---

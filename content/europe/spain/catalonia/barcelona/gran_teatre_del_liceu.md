@@ -6,6 +6,7 @@ snippet: Barcelona's great opera house has been bombed by an anarchist, destroye
   by fire, and rebuilt twice — and remains one of Europe's premier lyric stages.
 tags:
 - curbside
+- nightlife
 title: Gran Teatre del Liceu
 type: poi
 ---

@@ -7,6 +7,7 @@ snippet: A ballroom opened in 1943, during Franco's dictatorship, when this was 
   survives.
 tags:
 - curbside
+- nightlife
 title: Sala Apolo
 type: poi
 ---

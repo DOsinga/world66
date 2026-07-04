@@ -2,9 +2,12 @@
 latitude: 41.3857384
 longitude: 2.1736392
 score: 1
-snippet: "The architect who designed the building — Puig i Cadafalch — was also one of its regulars. In 1900, Picasso held his first solo exhibition here, aged 18: 150 portrait drawings of the clientele."
+snippet: 'The architect who designed the building — Puig i Cadafalch — was also one
+  of its regulars. In 1900, Picasso held his first solo exhibition here, aged 18:
+  150 portrait drawings of the clientele.'
 tags:
 - curbside
+- eating_out
 title: 4Gats
 type: poi
 ---

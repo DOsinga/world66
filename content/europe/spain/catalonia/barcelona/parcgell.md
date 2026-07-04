@@ -14,6 +14,7 @@ story: 'Parc Güell was designed as a private residential estate — Gaudí and 
 
   '
 tags:
+- curbside
 - things_to_do
 - sight
 - architecture

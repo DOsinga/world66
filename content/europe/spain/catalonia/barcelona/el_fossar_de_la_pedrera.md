@@ -7,6 +7,7 @@ snippet: A former quarry in Montjuïc cemetery became the mass grave of thousand
   politically charged sacred space in Barcelona.
 tags:
 - curbside
+- sightseeing
 title: El Fossar de la Pedrera
 type: poi
 ---

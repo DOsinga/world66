@@ -6,6 +6,7 @@ snippet: Barcelona's newest rambla was created in 2000 by demolishing an entire 
   of the old Raval. The result remains contested thirty years on.
 tags:
 - curbside
+- sightseeing
 title: Rambla del Raval
 type: poi
 ---

@@ -7,6 +7,7 @@ snippet: A sunken section of the square puts 2,000-year-old Roman burial monumen
   and left open to the air rather than reburied or covered.
 tags:
 - curbside
+- sightseeing
 title: Plaça de la Vila de Madrid
 type: poi
 ---

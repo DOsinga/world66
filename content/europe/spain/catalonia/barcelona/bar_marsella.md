@@ -2,9 +2,12 @@
 latitude: 41.378241
 longitude: 2.171243
 score: 1
-snippet: "The bottles of absinthe and anisette on the top shelves at Bar Marsella have reportedly not been moved since the 19th century. The bar has been open since 1820 — over 200 years in the same Raval location."
+snippet: The bottles of absinthe and anisette on the top shelves at Bar Marsella have
+  reportedly not been moved since the 19th century. The bar has been open since 1820
+  — over 200 years in the same Raval location.
 tags:
 - curbside
+- nightlife
 title: Bar Marsella
 type: poi
 ---

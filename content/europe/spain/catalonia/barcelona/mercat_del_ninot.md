@@ -7,6 +7,7 @@ snippet: Named for a wooden puppet dug up from the ground during the market's or
   the 1933 building it haunted was demolished and rebuilt in 2015.
 tags:
 - curbside
+- eating_out
 title: Mercat del Ninot
 type: poi
 ---

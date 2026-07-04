@@ -7,6 +7,7 @@ snippet: Her 1980 memoir *El carretó dels gossos* is one of the only first-pers
   published when she was in her sixties.
 tags:
 - curbside
+- sightseeing
 title: Mercedes Núñez Targa
 type: poi
 ---

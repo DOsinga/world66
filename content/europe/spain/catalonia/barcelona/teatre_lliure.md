@@ -7,6 +7,7 @@ snippet: The founding of the Teatre Lliure in 1976 was a political act — its c
   and naming it the Free Theatre was not an accident.
 tags:
 - curbside
+- nightlife
 title: Teatre Lliure
 type: poi
 ---

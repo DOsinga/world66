@@ -7,6 +7,7 @@ longitude: 2.1741
 score: 6.2
 snippet: Stylish art-nouveau cafe on the Ramblas opposite the Liceu
 tags:
+- curbside
 - bars_and_cafes
 - gothic_quarter
 title: Café de L'Opera

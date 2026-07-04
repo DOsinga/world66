@@ -7,6 +7,7 @@ snippet: Max Stammreich was nine years old when he was deported from Drancy to A
   Stolpersteine network.
 tags:
 - curbside
+- sightseeing
 title: Max Stammreich
 type: poi
 ---

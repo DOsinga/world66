@@ -7,6 +7,7 @@ longitude: 2.151316
 score: 8.5
 snippet: Gaudi’s exuberant first house, all tiles and colour
 tags:
+- curbside
 - things_to_do
 - sights
 - gracia

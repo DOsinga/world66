@@ -8,6 +8,7 @@ snippet: Phenomena is the only cinema in Spain devoted exclusively to fantasy, s
   art house would.
 tags:
 - curbside
+- nightlife
 title: Phenomena
 type: poi
 ---

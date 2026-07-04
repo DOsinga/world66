@@ -7,6 +7,7 @@ snippet: The pitch is gone, the stands are gone, and the site is entirely apartm
   of FC Barcelona's pre-stadium era.
 tags:
 - curbside
+- sightseeing
 title: Camp del Carrer de la Indústria
 type: poi
 ---

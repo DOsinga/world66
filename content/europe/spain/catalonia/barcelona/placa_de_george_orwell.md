@@ -7,6 +7,7 @@ snippet: Locals call it 'Plaça del Trippy.' The 1996 renaming to Orwell was a d
   the Civil War had suppressed.
 tags:
 - curbside
+- sightseeing
 title: Plaça de George Orwell
 type: poi
 ---

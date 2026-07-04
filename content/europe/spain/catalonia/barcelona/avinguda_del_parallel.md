@@ -6,6 +6,7 @@ snippet: Named in 1894 because the avenue runs along the 41°22' north parallel 
   surveyor's coincidence turned into Barcelona's working-class theatre mile.
 tags:
 - curbside
+- sightseeing
 title: Avinguda del Paral·lel
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: 2.1734
 score: 8.3
 snippet: Barcelona's famous tree-lined promenade from sea to square
 tags:
+- curbside
 - things_to_do
 - sights
 - gothic_quarter

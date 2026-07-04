@@ -8,6 +8,7 @@ snippet: The Neo-Mudéjar ring at Plaça d'Espanya was the last great Moorish-Re
   or demolition depending on your position.
 tags:
 - curbside
+- sightseeing
 title: Arenas de Barcelona
 type: poi
 ---

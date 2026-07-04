@@ -7,6 +7,7 @@ snippet: The pockmarks in the church facade are bomb craters from a 1938 Nationa
   blamed anarchists.
 tags:
 - curbside
+- sightseeing
 title: Plaça de Sant Felip Neri
 type: poi
 ---

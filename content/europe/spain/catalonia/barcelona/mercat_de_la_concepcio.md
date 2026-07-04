@@ -7,6 +7,7 @@ snippet: Its flower stalls operate 24 hours a day on the pavement outside — th
   default emergency florist for over a century.
 tags:
 - curbside
+- eating_out
 title: Mercat de la Concepció
 type: poi
 ---

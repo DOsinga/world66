@@ -2,9 +2,12 @@
 latitude: 41.381215
 longitude: 2.1744185
 score: 1
-snippet: "Opened in 1786, Can Culleretes started as a granja — a dairy and provisions shop — before becoming a restaurant. It holds a Guinness World Record as one of the oldest restaurants in continuous operation in Spain."
+snippet: Opened in 1786, Can Culleretes started as a granja — a dairy and provisions
+  shop — before becoming a restaurant. It holds a Guinness World Record as one of
+  the oldest restaurants in continuous operation in Spain.
 tags:
 - curbside
+- eating_out
 title: Can Culleretes
 type: poi
 ---

@@ -6,6 +6,7 @@ longitude: 2.198288
 score: 5.0
 snippet: Large open-air shopping mall in Sant Andreu district
 tags:
+- curbside
 - shopping
 title: La Maquinista
 type: poi

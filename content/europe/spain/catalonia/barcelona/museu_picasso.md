@@ -7,6 +7,7 @@ snippet: Picasso chose Barcelona over Paris and Madrid for this collection — h
   created in the city where he trained as a teenager.
 tags:
 - curbside
+- sightseeing
 title: Museu Picasso
 type: poi
 ---

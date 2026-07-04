@@ -7,6 +7,7 @@ snippet: The only elected head of a European government executed by a totalitari
   his name.
 tags:
 - curbside
+- sightseeing
 title: Passeig de Lluís Companys
 type: poi
 ---

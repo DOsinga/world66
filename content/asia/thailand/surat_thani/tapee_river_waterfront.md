@@ -1,7 +1,12 @@
 ---
+latitude: 9.135129
+longitude: 99.314488
 score: 6.5
 tags:
 - things_to_do
+- sight
+- river
+- market
 title: Tapee River Waterfront
 type: poi
 ---

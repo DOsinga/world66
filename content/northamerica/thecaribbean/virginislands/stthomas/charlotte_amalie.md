@@ -1,7 +1,12 @@
 ---
+latitude: 18.3419
+longitude: -64.9307
 score: 8.8
 tags:
 - things_to_do
+- sight
+- neighbourhood
+- historic_district
 title: Charlotte Amalie
 type: poi
 ---

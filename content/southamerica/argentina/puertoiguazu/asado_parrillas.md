@@ -1,7 +1,11 @@
 ---
+latitude: -25.5996
+longitude: -54.5721
 score: 6.1
 tags:
 - eating_out
+- restaurant
+- steakhouse
 title: Asado and Parrillas
 type: poi
 ---

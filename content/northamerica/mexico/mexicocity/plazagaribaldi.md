@@ -4,6 +4,7 @@ longitude: -99.1389
 tags:
 - things_to_do
 - landmark
+- centro_historico
 title: Plaza Garibaldi
 type: poi
 snippet: "Mexico City's mariachi heartland, loud and properly chaotic after dark"

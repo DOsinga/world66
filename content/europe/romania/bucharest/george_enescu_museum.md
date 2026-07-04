@@ -2,6 +2,7 @@
 address: Calea Victoriei 141, Bucharest
 latitude: 44.447
 longitude: 26.0907
+score: 7.6
 snippet: Romania's greatest composer remembered in the Belle Epoque Cantacuzino Palace
 tags:
 - things_to_do

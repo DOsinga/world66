@@ -1,7 +1,12 @@
 ---
+latitude: 35.4526
+longitude: 139.6429
 score: 5.8
 tags:
 - eating_out
+- minato_mirai
+- restaurant
+- waterfront
 title: Minato Mirai Waterfront Dining
 type: poi
 ---

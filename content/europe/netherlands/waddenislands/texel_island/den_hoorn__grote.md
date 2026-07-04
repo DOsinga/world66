@@ -1,10 +1,10 @@
 ---
+score: 7.3
 tags:
 - day_trips
 title: Den Hoorn > Grote Vlak - De Geul - De Hors > Ferry terminal
-type: poi
+type: theme
 url: images.google.com
-score: 7.3
 ---
 
 **By (bus +) bike + on foot**, *14 kms, 20 minutes cycling and 5 hours of walking time.

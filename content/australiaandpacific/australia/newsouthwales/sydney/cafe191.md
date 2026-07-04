@@ -7,6 +7,7 @@ snippet: Darlinghurst institution for watching Oxford Street life
 tags:
 - eating_out
 - cafe
+- darlinghurst
 title: Cafe 191
 type: poi
 score: 5.3

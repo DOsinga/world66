@@ -7,7 +7,7 @@ image_attribution: Vuvueffino
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Bosco_Chiesanuova_(Grietz_Dossetti_Tinazzo)_Lessinia_VR_Italy_2013-04-01_photo_CTG_ACA_LESSINIA_Paolo_Villa_0055sp_04.jpg
 latitude: 45.657829
-loc_type: city
+loc_type: feature
 longitude: 11.149171
 score: 8.08
 snippet: Limestone plateau north of Verona, where Valpolicella vineyards give way

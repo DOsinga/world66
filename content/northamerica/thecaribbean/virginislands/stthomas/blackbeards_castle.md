@@ -1,7 +1,12 @@
 ---
+latitude: 18.3442
+longitude: -64.9295
 score: 6.8
 tags:
 - things_to_do
+- sight
+- architecture
+- historic_site
 title: Blackbeard's Castle
 type: poi
 ---

@@ -7,8 +7,13 @@ snippet: Mexico City's upscale neighbourhood with world-class restaurants and fr
   museums
 tags:
 - things_to_do
+- neighbourhood
 title: Polanco
 type: neighbourhood
+image: polanco.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Avenida_Presidente_Masaryk,_Polanco.jpg
+image_license: CC BY 2.0
+image_attribution: ProtoplasmaKid
 ---
 
 The smart end of Mexico City, just north of Chapultepec Park. Wide streets named after writers and philosophers, embassies, designer shops along Avenida Presidente Masaryk, and the city's heaviest concentration of high-end restaurants — Pujol, Quintonil, and most of the rest of Mexico's celebrated kitchens are here. The Museo Soumaya (free, in a striking shimmering metal egg) and the Museo Jumex sit on its northern edge.

@@ -1,7 +1,11 @@
 ---
+latitude: 8.9468
+longitude: -79.536
 score: 8.0
 tags:
 - eating_out
+- restaurant
+- casco_viejo
 title: Casco Viejo restaurants
 type: poi
 ---

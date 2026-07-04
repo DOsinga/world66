@@ -1,7 +1,10 @@
 ---
+latitude: 48.6507
+longitude: -123.3984
 score: 7.7
 tags:
 - things_to_do
+- shopping
 title: Beacon Avenue Bookshops
 type: poi
 ---

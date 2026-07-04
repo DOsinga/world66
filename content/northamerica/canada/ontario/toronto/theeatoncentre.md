@@ -7,6 +7,7 @@ tags:
 - shopping
 - shop
 - restaurant
+- garden_district
 title: The Eaton Centre
 type: poi
 url: www.torontoeatoncentre.com

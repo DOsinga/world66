@@ -1,7 +1,11 @@
 ---
+latitude: -23.8752
+longitude: 32.1482
 score: 6.8
 tags:
 - things_to_do
+- sight
+- wildlife
 title: Massingir Dam
 type: poi
 ---

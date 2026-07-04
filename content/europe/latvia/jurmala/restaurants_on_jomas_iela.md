@@ -3,7 +3,7 @@ score: 5.6
 tags:
 - eating_out
 title: Restaurants on Jomas iela
-type: poi
+type: theme
 ---
 
 The concentration of restaurants along Jomas iela is the main dining scene in Jurmala. The offering ranges from Latvian home cooking — smoked fish, grey peas with bacon, dark rye bread — to international menus aimed at the summer tourist trade. Quality varies, but the better places take ingredients seriously, drawing on the Latvian larder of forest mushrooms, fresh dill, smoked meats, and Baltic fish.

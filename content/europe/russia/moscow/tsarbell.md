@@ -2,9 +2,13 @@
 category: Sight
 latitude: 55.750767
 longitude: 37.618437
+score: 6.3
+tags:
+- things_to_do
+- sight
+- the_kremlin
 title: Tsar Bell
 type: poi
-score: 6.3
 ---
 
 Tsar Bell (Tsar-kolokol) is the largest bell in the world, cast in 1655.

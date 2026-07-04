@@ -2,6 +2,7 @@
 address: Strada Lipscani 55, Bucharest
 latitude: 44.4319
 longitude: 26.1016
+score: 7.2
 snippet: Six-storey "carousel of light" bookshop in a restored 19th-century building
 tags:
 - things_to_do

@@ -7,7 +7,7 @@ image_attribution: Luis Miguel Bugallo Sánchez (Lmbuga)
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:2016_Vista_da_costa_desde_a_Ponta_do_Rosto_ate_a_Ponta_do_Castelo._Ponta_de_S%C3%A3o_Louren%C3%A7o._Madeira._Portugal-4.jpg
 latitude: 32.75175
-loc_type: city
+loc_type: island
 longitude: -16.981749
 score: 9.34
 snippet: Volcanic Atlantic island of steep ravines, cloud-touched peaks, levada walks,

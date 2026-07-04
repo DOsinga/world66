@@ -2,6 +2,7 @@
 address: Eski-Yurt, Bakhchysarai
 latitude: 44.7478
 longitude: 33.9078
+score: 8.1
 snippet: 1500 madrasa with the chain that gave the building its name
 story: The 'zincirli' in the name means 'with chain' — and an iron chain hangs above
   the main entrance, low enough that anyone passing through must bow. The intention

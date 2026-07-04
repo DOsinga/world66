@@ -1,13 +1,15 @@
 ---
-title: "Musical Instruments Museum"
-type: poi
-tags:
-  - things_to_do
-  - museum
 latitude: 50.8426
 longitude: 4.3572
-snippet: 7,000 instruments across three floors with wireless audio in an Art Nouveau building
 score: 8.8
+snippet: 7,000 instruments across three floors with wireless audio in an Art Nouveau
+  building
+tags:
+- things_to_do
+- museum
+- royaldistrict
+title: Musical Instruments Museum
+type: poi
 ---
 
 One of the world's largest collections of musical instruments, housed in the extraordinary Old England building on Montagne de la Cour — a 1899 Art Nouveau department store of iron and glass, all scrollwork and bay windows, designed by Paul Saintenoy. The collection runs to more than 7,000 instruments, from prehistoric bone flutes to electronic synthesisers, with particular strengths in Belgian and European folk instruments and non-Western traditions.

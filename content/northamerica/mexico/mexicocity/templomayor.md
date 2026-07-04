@@ -5,6 +5,7 @@ snippet: Excavated Aztec pyramid rediscovered beneath the cathedral in 1978
 tags:
 - things_to_do
 - landmark
+- centro_historico
 title: Templo Mayor
 type: poi
 score: 9.4

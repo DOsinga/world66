@@ -7,7 +7,6 @@ snippet: Italian seafood dining near the Harbour Bridge
 tags:
 - eating_out
 - restaurant
-- bridge
 title: Villa Caprese
 type: poi
 score: 5.8

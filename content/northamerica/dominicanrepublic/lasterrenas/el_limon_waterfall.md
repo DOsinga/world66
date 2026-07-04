@@ -1,9 +1,19 @@
 ---
+latitude: 19.2703
+longitude: -69.4462
+score: 8.4
+story: El Limón is fed by the mountains of the Samaná Peninsula's interior, which
+  catch the trade winds and hold considerably more rainfall than the coast below.
+  The falls were known to local farmers long before they became a tourist attraction
+  — the pool at the base was used for washing and bathing for generations before the
+  first guided horseback tours began in the 1990s.
+tags:
+- things_to_do
+- sight
+- hiking
+- nature
 title: El Limón Waterfall
 type: poi
-tags: [things_to_do, sight, hiking, nature]
-story: El Limón is fed by the mountains of the Samaná Peninsula's interior, which catch the trade winds and hold considerably more rainfall than the coast below. The falls were known to local farmers long before they became a tourist attraction — the pool at the base was used for washing and bathing for generations before the first guided horseback tours began in the 1990s.
-score: 8.4
 ---
 
 El Limón is a waterfall in the mountains of the Samaná Peninsula, about 15 kilometres south of Las Terrenas. The falls drop roughly 40 metres into a pool deep enough to swim in, and the combination of the mountain setting, the cool water, and the hike to reach them makes this the best excursion from Las Terrenas. Most people come on horseback, which takes about 45 minutes each way through forest and past small farms.

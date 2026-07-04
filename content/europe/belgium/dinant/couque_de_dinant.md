@@ -2,6 +2,7 @@
 address: Rue Grande, 5500 Dinant
 latitude: 50.2611
 longitude: 4.9115
+score: 6.1
 snippet: Famously hard honey biscuits from Dinant, pressed into decorative moulds
 story: Local legend says the biscuit was invented during the 1466 siege when starving
   citizens mixed the only ingredients they had — flour and honey — and baked the resulting
@@ -10,6 +11,8 @@ story: Local legend says the biscuit was invented during the 1466 siege when sta
   them.
 tags:
 - eating_out
+- bakery
+- local_food
 title: Couques de Dinant
 type: poi
 ---

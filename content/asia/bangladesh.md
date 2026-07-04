@@ -37,5 +37,6 @@ The northeast — [Sylhet](/asia/bangladesh/sylhet) and the surrounding tea coun
 - [Dhaka](/asia/bangladesh/dhaka) — the capital, old and new, overwhelming and compelling
 - [Chittagong](/asia/bangladesh/chittagong) — port city, gateway to the hill tracts and Cox's Bazar
 - [Cox's Bazar](/asia/bangladesh/coxsbazar) — the long beach on the Bay of Bengal
+- [Bagerhat](/asia/bangladesh/bagerhat) — 15th-century mosque city of Khalifatabad
 - [Sylhet](/asia/bangladesh/sylhet) — tea country and river valleys in the northeast
 - [Rajshahi](/asia/bangladesh/rajshahi) — silk city on the Padma river, gateway to Paharpur ruins

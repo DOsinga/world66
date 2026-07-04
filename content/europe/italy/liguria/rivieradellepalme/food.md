@@ -7,7 +7,7 @@ done:
 
 The cooking of the Riviera delle Palme is rooted in Genoese tradition — olive oil, fresh herbs, seafood — but it has its own character. The cuisine here is greener and lighter than what you find in Genoa, with vegetables playing a bigger role than meat in many classic dishes.
 
-Take ravioli, once considered the queen of first courses along this coast. Where the Genoese version leans on meat and eggs, the local filling is built around beet, borage, chicory and endives. Even the classic stuffed breast of veal uses more egg and less of the offal you find in the Genoese recipe. What ties it all together is sweet marjoram — called *persa* or *persiga* around [Albenga](/europe/italy/liguria/rivieradellepalme) and [Alassio](/europe/italy/liguria/rivieradellepalme/alassio) — an herb of Persian origin that speaks to centuries of maritime trade.
+Take ravioli, once considered the queen of first courses along this coast. Where the Genoese version leans on meat and eggs, the local filling is built around beet, borage, chicory and endives. Even the classic stuffed breast of veal uses more egg and less of the offal you find in the Genoese recipe. What ties it all together is sweet marjoram — called *persa* or *persiga* around [Albenga](/europe/italy/liguria/rivieradellepalme) and [Alassio](/europe/italy/liguria/alassio) — an herb of Persian origin that speaks to centuries of maritime trade.
 
 ### Farinata
 
@@ -31,7 +31,7 @@ Ligurian basil — *baxiaicò* in dialect — grown in the bracing coastal air, 
 
 ### Truffles
 
-The most unexpected find in the province of Savona is truffles. A few kilometres past the Colle di Cadibona, in the southern spur of the Langhe between Cairo Montenotte, Millesimo, Carcare and [Dego](/europe/italy/liguria/rivieradellepalme/dego) — especially in the woods of Santa Giulia — you can find both black truffles (comparable to those of Norcia and Périgord) and the even more prized white truffle. This is the only place in Liguria where truffles grow.
+The most unexpected find in the province of Savona is truffles. A few kilometres past the Colle di Cadibona, in the southern spur of the Langhe between Cairo Montenotte, Millesimo, Carcare and [Dego](/europe/italy/liguria/dego) — especially in the woods of Santa Giulia — you can find both black truffles (comparable to those of Norcia and Périgord) and the even more prized white truffle. This is the only place in Liguria where truffles grow.
 
 ### Wines
 

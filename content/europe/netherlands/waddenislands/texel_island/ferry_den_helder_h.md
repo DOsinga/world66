@@ -1,11 +1,13 @@
 ---
+latitude: 52.9638
+longitude: 4.7717
 phone: +31(0)222-369600 (can be reached 24 hours a day)
+score: 6.0
 tags:
 - getting_there
 title: Ferry Den Helder harbour <> Texel island
 type: poi
 url: www.teso.nl
-score: 6.0
 ---
 
 Departure/timetable and tariff information for the ferry [Den Helder](/europe/netherlands/denhelder) harbour-Texel island.

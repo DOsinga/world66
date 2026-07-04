@@ -42,3 +42,4 @@ The transportation infrastructure is excellent. The High-Speed Rail covers the w
 - [Sun Moon Lake](/asia/taiwan/sunmoonlake) — Taiwan's largest lake, in the central highlands
 - [Taroko Gorge](/asia/taiwan/torokogorge) — marble canyon; the island's most dramatic natural sight
 - [Kenting](/asia/taiwan/kenting) — beach resort at the southern tip
+- [Cimei](/asia/taiwan/cimei) — southern Penghu island with basalt coast and stone fish weirs

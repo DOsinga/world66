@@ -1,7 +1,12 @@
 ---
+latitude: 38.0446
+longitude: 58.4214
 score: 8.2
+sources:
+- https://www.dookinternational.com/poi/altyn-asyr-bazaar/253
 tags:
 - things_to_do
+- market
 title: Altyn Asyr Bazaar (Tolkuchka)
 type: poi
 ---

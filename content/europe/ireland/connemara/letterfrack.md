@@ -1,14 +1,26 @@
 ---
+image: letterfrack.jpg
+image_attribution: Karie Kuiper
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Connemara_National_Park_Diamond_Hill.jpg
+latitude: 53.553595
+loc_type: city
+longitude: -9.948366
+score: 7.1
+snippet: Connemara village at the gate of Diamond Hill, Kylemore Abbey, and the national
+  park.
+sources:
+- https://en.wikivoyage.org/wiki/Letterfrack
+- https://www.wikidata.org/wiki/Q1821184
+- https://www.nationalparks.ie/connemara/
+- https://www.nationalparks.ie/connemara/about-us/
 title: Letterfrack
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
-latitude: 53.5444
-longitude: -9.9625
-score: 5.9
+type: location
+wikidata: Q1821184
 ---
 
-Letterfrack is a crossroads village at the edge of Connemara National Park, tiny in scale but disproportionately important as a base for the western half of the region. The national park visitor centre is here, Diamond Hill is a 15-minute walk away, and Kylemore Abbey is a couple of kilometres down the road. There are a few cafes and a good pub.
+Letterfrack is a tiny Connemara village with an outsized claim on a traveller's day. The houses cluster around the N59 west of the Twelve Bens, but the real reason to stop is what sits within walking or short driving distance: Connemara National Park, the Diamond Hill loop, and Kylemore Abbey.
 
-The village has a troubled history: the Letterfrack Industrial School, run by the Christian Brothers from 1885 to 1974, was the site of systematic abuse that became a symbol of Irish institutional failure when it was revealed in the Ryan Report in 2009. The building is now the Connemara West furniture college, which trains young craftspeople in woodworking skills. The juxtaposition of that history with the extraordinary landscape around it is part of what makes Connemara so complex and interesting.
+The landscape is classic north Connemara: pale quartzite hills, dark bog, stone walls, sudden Atlantic light, and weather that changes its mind several times before lunch. Start at the national park visitor centre, climb Diamond Hill if the cloud is high enough, then continue to Kylemore for the abbey, the lake view, and the walled garden.
+
+Letterfrack also carries a harder story. The old industrial school, run by the Christian Brothers until 1974, became one of the symbols of institutional abuse in Ireland. Part of the site now belongs to a furniture and design college. That mix of beauty, craft, and unresolved memory gives the village more depth than its size suggests.

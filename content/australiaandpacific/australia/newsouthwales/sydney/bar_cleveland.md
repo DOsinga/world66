@@ -2,13 +2,14 @@
 title: Bar Cleveland
 type: poi
 address: 433 Cleveland St, Surry Hills
-latitude: -33.8897
-longitude: 151.2059
+latitude: -33.8919
+longitude: 151.2156
 phone: +61 2 9698 1908
 snippet: Heritage-listed Surry Hills pub with craft beers on tap
 tags:
 - bars_and_cafes
 - bar
+- surry_hills
 score: 5.8
 ---
 

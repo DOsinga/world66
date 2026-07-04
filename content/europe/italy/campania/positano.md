@@ -19,6 +19,8 @@ snippet: Amalfi Coast cliff town of pastel houses stacked above Spiaggia Grande 
   the Tyrrhenian Sea
 sources:
 - https://en.wikipedia.org/wiki/Positano
+tags:
+- amalfi_coast
 tip: Positano is vertical — it's all staircases, so wear flat shoes and send your
   luggage ahead if you can. Driving the Amalfi Coast road is white-knuckle; the SITA
   bus or a ferry is calmer and the views are better. The beach is pebbly and the loungers

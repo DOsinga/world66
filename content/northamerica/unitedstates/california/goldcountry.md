@@ -26,3 +26,4 @@ California's Gold Country runs in a band perhaps 50 miles wide from Mariposa, ne
 [Jamestown](/northamerica/unitedstates/california/goldcountry/jamestown)
 [Nevada city](/northamerica/unitedstates/california/goldcountry/nevadacity)
 [Coloma](/northamerica/unitedstates/california/goldcountry/coloma)
+[Sierra City](/northamerica/unitedstates/california/goldcountry/sierra_city)

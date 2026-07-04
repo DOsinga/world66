@@ -1,18 +1,22 @@
 ---
-title: Marathonisi (Turtle Island)
-type: poi
-tags: [things_to_do, beach, nature]
 latitude: 37.6847
 longitude: 20.8708
-story: >
-  Marathonisi is uninhabited and used by *Caretta caretta* — the
-  loggerhead sea turtle — as a major nesting site. Females come
-  ashore at night between May and August to lay around 100 eggs per
-  nest, which hatch about 60 days later. The hatchlings make their
-  way to the sea on their own; tourist access to the southern half
-  of the beach is restricted to protect the nests.
+score: 8.7
 sources:
-  - https://en.wikipedia.org/wiki/Marathonisi
+- https://en.wikipedia.org/wiki/Marathonisi
+story: 'Marathonisi is uninhabited and used by *Caretta caretta* — the loggerhead
+  sea turtle — as a major nesting site. Females come ashore at night between May and
+  August to lay around 100 eggs per nest, which hatch about 60 days later. The hatchlings
+  make their way to the sea on their own; tourist access to the southern half of the
+  beach is restricted to protect the nests.
+
+  '
+tags:
+- things_to_do
+- beach
+- nature
+title: Marathonisi (Turtle Island)
+type: poi
 ---
 
 Marathonisi — "Turtle Island" in informal English — is the small uninhabited islet at the south-western corner of Laganas Bay. It is one of the principal nesting sites of the loggerhead sea turtle (*Caretta caretta*) in the Mediterranean and the centrepiece of the National Marine Park of Zakynthos.

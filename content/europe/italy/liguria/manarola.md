@@ -17,6 +17,8 @@ quick_facts:
 score: 9.43
 snippet: Cinque Terre village where pastel houses descend a steep Ligurian ravine
   to a tiny harbour.
+tags:
+- cinque_terre
 tip: Manarola is the prettiest of the Cinque Terre five for photos — shoot it from
   the cemetery path at blue hour as the lights come on. There's no sand beach; people
   swim off the rocks in the tiny harbour. Walk the vineyard terraces above town, held

@@ -7,6 +7,7 @@ snippet: Hand-pulled northern Chinese noodles, Chinatown legend.
 tags:
 - eating_out
 - restaurant
+- chinatown
 title: Chinese Noodle Restaurant
 type: poi
 score: 6.6

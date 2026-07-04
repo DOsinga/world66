@@ -1,11 +1,14 @@
 ---
-snippet: A Romanesque church on the Eure, partly ruined, that hosts exhibitions and outdoor events
+latitude: 48.4502
+longitude: 1.4899
+score: 6.5
+snippet: A Romanesque church on the Eure, partly ruined, that hosts exhibitions and
+  outdoor events
 tags:
 - things_to_do
 - landmark
 title: Collégiale Saint-André
 type: poi
-score: 6.5
 ---
 
 The Collégiale Saint-André is a Romanesque church on the banks of the Eure that lost its choir when the riverside road was widened in the 19th century, leaving it with a truncated, semi-ruined look that is oddly appealing. The nave survives intact and is now used as an exhibition and cultural space; the roofless choir end, with its views over the river, is used for outdoor events in summer.

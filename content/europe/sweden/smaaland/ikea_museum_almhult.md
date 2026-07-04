@@ -1,7 +1,10 @@
 ---
+latitude: 56.5525
+longitude: 14.1382
 score: 7.4
 tags:
 - things_to_do
+- museum
 title: IKEA Museum, Älmhult
 type: poi
 ---

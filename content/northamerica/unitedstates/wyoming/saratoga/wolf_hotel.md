@@ -1,7 +1,11 @@
 ---
+latitude: 41.454612
+longitude: -106.807216
 score: 6.6
 tags:
 - eating_out
+- restaurant
+- historic
 title: The Wolf Hotel
 type: poi
 ---

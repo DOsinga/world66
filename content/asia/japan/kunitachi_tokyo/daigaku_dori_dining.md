@@ -1,7 +1,11 @@
 ---
+latitude: 35.6952
+longitude: 139.4467
 score: 5.9
 tags:
 - eating_out
+- daigaku_dori
+- restaurant
 title: Dining on Daigaku-dori
 type: poi
 ---

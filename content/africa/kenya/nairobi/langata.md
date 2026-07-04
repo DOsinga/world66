@@ -2,11 +2,16 @@
 title: Langata
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: -1.3700
-longitude: 36.7550
-snippet: The suburb adjacent to Nairobi National Park, home to the David Sheldrick Wildlife Trust, Bomas of Kenya, and the Carnivore restaurant
+- things_to_do
+- neighbourhood
+latitude: -1.37
+longitude: 36.755
+snippet: The suburb adjacent to Nairobi National Park, home to the David Sheldrick
+  Wildlife Trust, Bomas of Kenya, and the Carnivore restaurant
+image: langata.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Langata_road2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ikanzo
 ---
 
 Langata is a residential suburb bordering the northern edge of Nairobi National Park, about 10 km south of the city centre. The park's main gate is here, and several of Nairobi's best-known wildlife and cultural attractions are concentrated in the area: the David Sheldrick Wildlife Trust elephant orphanage, the Bomas of Kenya cultural centre, and the Carnivore restaurant.

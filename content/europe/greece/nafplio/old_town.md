@@ -1,9 +1,13 @@
 ---
-title: Old Town
-type: poi
-tags: [things_to_do, sight, neighbourhood]
 latitude: 37.5667
 longitude: 22.7972
+score: 8.4
+tags:
+- things_to_do
+- sight
+- neighbourhood
+title: Old Town
+type: poi
 ---
 
 Nafplio's old town occupies the small flat triangle of land between the sea and the rock face of Akronafplia. The grid of streets is mostly neoclassical — built or rebuilt after the War of Independence — but with Venetian and Ottoman pieces showing through: the [Vouleftiko mosque](/europe/greece/nafplio/vouleftiko), the Trianon mosque, Venetian doorways, an Ottoman fountain or two.

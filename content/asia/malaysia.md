@@ -33,6 +33,6 @@ On the east coast, the mood shifts. The pace is slower, the culture more traditi
 
 Historic [Melaka](/asia/malaysia/melaka) on the west coast south of KL preserves layers of Portuguese, Dutch and British colonial history alongside Peranakan culture. [Johor Bahru](/asia/malaysia/johorbahru) sits at the southern tip, a gateway to Singapore.
 
-Malaysian Borneo is wilder and less visited. [Kuching](/asia/malaysia/kuching) in Sarawak is a charming riverfront city with easy access to orangutan sanctuaries and Iban longhouse communities. [Kota Kinabalu](/asia/malaysia/kotakinabalu) in Sabah is the base for climbing Mount Kinabalu, Southeast Asia's highest peak, and for reaching world-class dive sites like Sipadan.
+Malaysian Borneo is wilder and less visited. [Kuching](/asia/malaysia/sarawak/kuching) in Sarawak is a charming riverfront city with easy access to orangutan sanctuaries and Iban longhouse communities. [Kota Kinabalu](/asia/malaysia/kotakinabalu) in Sabah is the base for climbing Mount Kinabalu, Southeast Asia's highest peak, and for reaching world-class dive sites like Sipadan.
 
 Malaysia is modern, well-connected, affordable and safe. English is widely spoken. The infrastructure is excellent for Southeast Asia, the people are welcoming, and the country offers genuine variety -- from megacity to jungle to beach -- within relatively short distances.

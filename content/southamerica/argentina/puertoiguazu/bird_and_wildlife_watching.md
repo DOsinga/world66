@@ -1,7 +1,11 @@
 ---
+latitude: -25.6479
+longitude: -54.2856
 score: 8.3
 tags:
 - things_to_do
+- wildlife
+- nature
 title: Bird and Wildlife Watching
 type: poi
 ---

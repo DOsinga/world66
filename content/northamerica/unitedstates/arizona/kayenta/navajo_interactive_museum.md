@@ -1,7 +1,11 @@
 ---
+latitude: 36.7077
+longitude: -110.2531
 score: 7.4
 tags:
 - things_to_do
+- museum
+- culture
 title: Navajo Interactive Museum
 type: poi
 ---

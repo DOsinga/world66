@@ -2,6 +2,7 @@
 address: 62 Russell Street, Sheffield S3 8RW
 latitude: 53.3882
 longitude: -1.4722
+score: 7.4
 snippet: Multi-award-winning real ale pub in the Kelham Island quarter
 tags:
 - bars_and_cafes

@@ -1,13 +1,15 @@
 ---
-title: "Manila Bay Sunset"
-type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 14.5771
-longitude: 120.9663
-snippet: One of the world's most celebrated sunsets, watched from the Roxas Boulevard waterfront
+latitude: 14.5765
+longitude: 120.9785
 score: 7.6
+snippet: One of the world's most celebrated sunsets, watched from the Roxas Boulevard
+  waterfront
+tags:
+- things_to_do
+- sight
+- malate
+title: Manila Bay Sunset
+type: poi
 ---
 
 Manila Bay has been famous for its sunsets for centuries — the smoke and pollution that have historically plagued the city also created spectacular skies at dusk, when the light turns deep orange and red over the South China Sea. Roxas Boulevard, the waterfront drive that runs along the bay from Ermita to Pasay, is where Manila comes to watch.

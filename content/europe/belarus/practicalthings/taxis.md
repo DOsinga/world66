@@ -1,10 +1,10 @@
 ---
+score: 2.2
 snippet: Tips on metered fares and avoiding overcharges
 tags:
 - practical_information
 title: Taxis
-type: poi
-score: 2.2
+type: theme
 ---
 
 Taxi drivers in Belarus are underpaid, so many jump at the chance to earn extra from tourists. Taxis are required by law to charge by the meter. If the driver does not have a meter or refuses to turn it on, the ride is illegal. Insist on the meter and you will save yourself a large amount of money.

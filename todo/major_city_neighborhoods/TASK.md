@@ -35,6 +35,8 @@ If you find yourself adding a `_nb`, `_area`, or `_quarter` suffix just to dodge
 
 ## For each city in the batch
 
+This applies whether you are building a city's neighbourhoods from scratch **or reviewing a city built in an earlier batch**. On a review pass, run the same audit and apply the same standards: confirm the right neighbourhoods exist, that each one is genuinely useful to browse — both things to see **and** somewhere to eat or drink (see §6) — and that every POI's coordinates are actually correct (see §6b).
+
 ### 1. Audit the current state
 
 ```bash
@@ -177,7 +179,33 @@ grep -rl "things_to_do" content/<city_path> --include="*.md" | xargs grep -l "ty
 
 If a section is genuinely thin and the city has real, well-known places not yet documented, adding them is worthwhile. But the same rule applies: add *named* restaurants and bars, never "Eating out in X" or "Bar scene in Y".
 
+**Every neighbourhood needs both things to see and somewhere to eat or drink.** A neighbourhood that lists only museums and sights, with no restaurant, bar, or café, is incomplete — and so is a nightlife district with no bars tagged to it. For each neighbourhood, check the eat/drink balance:
+
+```bash
+# POIs tagged to a neighbourhood that are eating_out or bars_and_cafes
+grep -rl "<slug>" content/<city_path> --include="*.md" | xargs grep -lE "eating_out|bars_and_cafes" | wc -l
+```
+
+If a neighbourhood has none, add a few **real, named, established** venues that fit its character (the same no-invented-content rule applies — research them, don't fabricate). A bohemian district wants its famous café and a cheap-eats institution; a dining district wants its signature restaurants; a museum quarter may legitimately have just one or two. Use the `eating_out`/`bars_and_cafes` filter tag plus a type tag (`restaurant`, `bar`, `cafe`) plus the neighbourhood slug — **not** `things_to_do`.
+
 Also check for legacy section subdirectories (`eating_out/`, `things_to_do/`, etc. that are *directories* rather than `.md` files). If any exist, move their POIs flat to the city directory and add the right tags before continuing.
+
+### 6b. Verify POI locations against OpenStreetMap
+
+Step 4 checks whether a POI is tagged to the *right neighbourhood*. This step checks something more basic: **is the stored coordinate actually where the place is?** Batches built from approximate data routinely carry coordinates that are hundreds of metres — sometimes kilometres — off, which throws off the map and the neighbourhood assignment.
+
+Verify each POI's `latitude`/`longitude` against OpenStreetMap's Nominatim search directly. Respect the usage policy: **at most ~1 request per second**, and send a real `User-Agent`. Query the POI title plus the city/country, compare the result to the stored coordinate (haversine distance), and flag anything more than a few hundred metres off.
+
+**Do not blindly apply what Nominatim returns.** It frequently matches the *wrong* entity, and trusting it is how you introduce errors instead of fixing them. Adjudicate every flag by hand:
+
+- **Same name, different place.** A query for "Piraeus" returns a *Piraeus Bank* branch; "Benaki Museum" returns the Pireos annex, not the Kolonaki main building. The stored coordinate is often the correct one — keep it.
+- **A chain with many branches.** "Bogotá Beer Company" resolves to whichever branch OSM lists first, not the one your POI means. Keep the stored coordinate if it matches the intended branch.
+- **A genuine error.** When the stored point really is wrong (e.g. a museum 2 km from where it sits), replace it with the verified coordinate.
+- **A relocation.** A restaurant that has moved should get both a corrected coordinate **and** a corrected neighbourhood tag (it may now sit in a different district, or in none of them).
+
+Use the stored coordinate as the source of truth unless you have positively confirmed it is wrong. When in doubt, leave it. Small venues (bars, tavernas, cafés) often aren't in OSM at all — that's expected; verify what you can and move on.
+
+When you create new POIs (§5), take their coordinates from OpenStreetMap in the first place, and **skip any place you cannot locate** rather than guessing a coordinate.
 
 ### 7. Update the city overview
 
@@ -194,6 +222,8 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] Each neighbourhood POI has an image (sourced via `find-photo`), accurate centre coordinates, and only `things_to_do` + `neighbourhood` in tags
 - [ ] Each neighbourhood collects POIs that genuinely sit in it — **no POIs invented to hit a count**
 - [ ] Every neighbourhood tag is geographically accurate — verify each tagged POI's coordinates fall within the neighbourhood's boundaries; remove any tags that are wrong even if the slug appears in the filename
+- [ ] Every neighbourhood offers both things to see **and** somewhere to eat or drink (a nightlife/dining district with no `eating_out`/`bars_and_cafes` POIs is a failure)
+- [ ] Every POI's coordinate is verified against OpenStreetMap; flagged points adjudicated by hand (Nominatim false positives kept, genuine errors and relocations fixed)
 - [ ] No `neighbourhood:` key anywhere — only the slug in `tags:` (run `grep -r "^neighbourhood:" content/<city_path>/` to verify zero results)
 - [ ] No category/"scene" aggregate POIs, no hotels, no transit-station pages, no activity pages, no walking-route pages
 - [ ] Every POI is one specific, named, visitable place

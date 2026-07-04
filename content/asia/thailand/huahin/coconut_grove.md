@@ -1,6 +1,9 @@
 ---
 address: Khao Takiab Bay
+latitude: 12.568
+longitude: 99.9595
 price: Cheap
+score: 4.4
 tags:
 - eating_out
 - restaurant
@@ -8,7 +11,6 @@ tags:
 - beach
 title: Coconut Grove
 type: poi
-score: 4.4
 ---
 
 Small garden Barbeque and bar, cheap drinks, short walk to the beach.

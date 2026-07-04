@@ -1,7 +1,13 @@
 ---
+latitude: -37.9003
+longitude: 145.0897
 score: 6.7
+sources:
+- https://latitude.to/articles-by-country/au/australia/35924/oakleigh-victoria
 tags:
 - things_to_do
+- sight
+- shopping
 title: Portman Street
 type: poi
 ---

@@ -3,7 +3,7 @@ title: Day Trips
 type: section
 tags: [day_trips]
 linked_locations:
-  - europe/italy/campania/amalfi_coast/paestum
+  - europe/italy/campania/paestum
   - europe/italy/campania/amalfi_coast
 ---
 

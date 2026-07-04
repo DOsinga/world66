@@ -1,9 +1,12 @@
 ---
-title: Bansko Ski Area
-type: poi
-tags: [things_to_do, sight]
 latitude: 41.7833
 longitude: 23.4444
+score: 8.8
+tags:
+- things_to_do
+- sight
+title: Bansko Ski Area
+type: poi
 ---
 
 The Bansko ski area covers 75 kilometres of marked piste between 1,635 and 2,560 metres, spread over the slopes of Todorka above town. The terrain is mostly intermediate, with some genuinely steep blacks on the upper Todorka and gentle blues for beginners around Banderishka Polyana. Snow cover is reliable from late December into March and the resort runs extensive snowmaking.

@@ -22,46 +22,50 @@ snippet: One-sentence hook for the map tooltip.
 **All candidates must come from OpenStreetMap.** Never invent a place from training knowledge. The workflow is:
 1. Query Overpass → get named items with GPS coordinates
 2. Check candidates against existing files (avoid dupes)
-3. Present filtered list to user for review
-4. Create stubs with OSM coordinates locked in
-5. Write content via agents
+3. Create stubs with OSM coordinates locked in
+4. Write content via agents
+
+## Scope: be broad, not curated
+
+**All named buildings are candidates.** A named church, hospital, school, factory, old palace, office tower — any of these can have a story. Don't pre-filter based on assumed tourist interest. Filter only the obviously useless:
+
+- No name at all
+- Pure residential apartment blocks (`building=apartments`, `building=residential`)
+- Single-letter or pure-number names (OSM tagging artifacts)
+- National chain stores (Carrefour, McDonald's, H&M, etc.)
+
+A major city should produce **300–700 curbside stubs**. Err on the side of more — it is easy to delete stubs that turn out to be uninteresting, harder to notice what you missed.
 
 ## Overpass query pattern
 
-```
-[out:json][timeout:60];
-(
-  node["key"="value"](LAT_S,LON_W,LAT_N,LON_E);
-  way["key"="value"](LAT_S,LON_W,LAT_N,LON_E);
-  relation["key"="value"](LAT_S,LON_W,LAT_N,LON_E);
-);
-out center tags;
+```python
+import urllib.request, urllib.parse, json
+
+def overpass(query):
+    url = 'https://overpass-api.de/api/interpreter'
+    data = urllib.parse.urlencode({'data': query}).encode()
+    headers = {'User-Agent': 'World66/1.0 (travel guide research)', 'Accept': '*/*'}
+    req = urllib.request.Request(url, data=data, headers=headers)
+    with urllib.request.urlopen(req, timeout=120) as r:
+        return json.loads(r.read())
 ```
 
-Use `out center tags;` for ways/relations to get a centre point. For named POIs without explicit lat/lon (ways, relations), use the `center` object from the response.
+Always include the `User-Agent` header — bare requests get HTTP 406. Use `out center tags;` so ways and relations return a centre point.
 
-Useful OSM tag queries for curbside content:
-- `highway=pedestrian + name=*` — pedestrian squares and major streets
+Run multiple queries by category:
 - `place=square + name=*` — named squares
-- `historic=memorial + name=*` — memorials and plaques
-- `historic=monument + name=*` — monuments  
-- `historic=building + name=*` — named historic buildings
-- `amenity=theatre + name=*` — theatres
-- `amenity=cinema + name=*` — cinemas
-- `amenity=marketplace + name=*` — markets
-- `tourism=museum + name=*` — museums
-- `tourism=attraction + name=*` — major attractions
-- `amenity=restaurant + name=* + wikipedia=*` — famous restaurants (filter by wikipedia link)
-- `amenity=bar + name=* + wikipedia=*` — famous bars
-- `leisure=park + name=*` — parks
-- `man_made=bridge + name=*` — named bridges
-- `historic=stolperstein + name=*` — Stolpersteine (memorial pavement stones)
+- `highway=pedestrian + name=*` — pedestrian streets and areas
+- `historic=* + name=*` — all historic items (memorial, monument, building, castle, fort…)
+- `tourism=* + name=*` — museums, attractions, artworks
+- `amenity=theatre + name=*`, `amenity=cinema + name=*`, `amenity=marketplace + name=*`
+- `leisure=park + name=*` — parks and gardens
+- `amenity=place_of_worship + name=* + wikipedia=*` — religious buildings with Wikipedia
+- `amenity=restaurant + name=* + wikipedia=*`, `amenity=bar + name=* + wikipedia=*`
+- `building=* + name=*` — all named buildings in the city centre bbox
 
-Bounding box for Overpass: use the city's approximate bbox. Expand per neighbourhood as needed.
+## Bounding box
 
-## Finding the bbox
-
-Read the city's main `.md` file for `latitude` and `longitude`, then add ~0.05° in each direction for a small city, ~0.1° for a large one. Alternatively, fetch the city's OSM relation extent.
+Read the city's `.md` file for `latitude` and `longitude`. Add ±0.08–0.12° for a large city. Use a tighter inner-city bbox for the named-buildings query to avoid sprawling suburbs.
 
 ## Slug and stub creation
 
@@ -85,7 +89,7 @@ def create_stub(title, lat, lon, path):
         frontmatter.dump(post, f)
 ```
 
-Check against `os.listdir(city_dir)` before creating to avoid dupes. Also check for existing files with similar names (normalization: strip articles like "la", "el", "les", "the", lower-case, strip diacritics).
+Dedup by slug against `os.listdir(city_dir)`. Skip slugs that already exist as files.
 
 ## Writing content
 
@@ -93,45 +97,41 @@ Each curbside POI needs:
 - `snippet:` in frontmatter — one sentence, the non-obvious hook for the map tooltip
 - Body: 2-3 paragraphs, World66 voice (authoritative, specific, no fluff)
 - Lead with the non-obvious fact — what a guidebook wouldn't say first
-- Do NOT change `latitude` or `longitude`
+- **Never change `latitude` or `longitude`**
 
-Delegate writing to parallel agents in batches of 5-10. Brief each agent with the facts it needs — don't make agents do their own research.
+Delegate writing to parallel agents in batches of 5-10. Brief each agent with the key facts — the agent should not need to do its own research. Pull facts from the OSM data you already fetched, Wikipedia summaries you've read, or direct knowledge.
 
-## Categories and section-tag upgrades
+## Section-tag upgrades
 
-Not all curbside POIs need section tags. Apply them when the place is significant enough to appear in a section page:
+After creating stubs, upgrade significant places to also appear in section pages. Keep `curbside` and add:
 
-| Place type | Section tag |
-|-----------|------------|
-| Major museum, landmark, historic site | `sightseeing` |
-| Famous restaurant, market, café | `eating_out` |
-| Theatre, concert venue, cinema, bar | `nightlife` |
+| Place type | Add tag |
+|-----------|---------|
+| Major museum, landmark, historic site, square | `sightseeing` |
+| Famous restaurant, market, food hall | `eating_out` |
+| Theatre, concert venue, cinema, bar, nightclub | `nightlife` |
 
-A minor street plaque or stolperstein stays `curbside`-only. A major market gets `[curbside, eating_out]`.
+A small wall plaque stays `curbside`-only. A major covered market gets `[curbside, eating_out]`.
 
-## Dupe check (important)
+## Dupe check
 
-After running multiple OSM queries, the city directory may grow to include duplicates from the original World66 crawl. Before finalising:
-
-1. Normalize all titles (lower, strip articles, strip diacritics)
-2. Flag pairs with identical normalized titles
-3. For each pair: if one file has proper section tags and a higher score, it's from the original crawl — keep it, add `curbside`, delete the new stub
-4. If both are curbside-only, keep the better-named file and merge content if needed
+After running multiple OSM queries, cross-check against the original World66 crawl files already in the city directory. Normalize titles (lower, strip articles, strip diacritics) and flag slug-collision pairs. For each dupe:
+- If the old file has proper section tags and a higher score → it's from the original crawl; add `curbside` to it and delete the new stub
+- If both are curbside-only → keep the better-named one
 
 ## Workflow summary
 
-1. **Query OSM** via Overpass for multiple categories
-2. **Filter**: remove already-covered slugs, transit infrastructure, generic chain stores
-3. **Present** filtered candidates to user, grouped by category
-4. **User selects** which to add
-5. **Create stubs** with locked OSM coords
-6. **Write content** via parallel agents (5-10 per batch)
-7. **Lint** (`python3 tools/linter.py --fix`)
-8. **Commit** each batch separately
-9. **Dupe check** when the set is large
-10. **Upgrade section tags** on places significant enough to appear in sections
-11. **Push** and open PR when the city feels complete
+1. **Query OSM** via Overpass across all categories
+2. **Combine and dedup** by slug; save raw JSON for later cross-referencing
+3. **Filter** only obvious junk (apartments, chains, single-letter names)
+4. **Create stubs** for everything else with locked OSM coordinates
+5. **Write content** via parallel agents in batches
+6. **Lint** (`python3 tools/linter.py --fix`)
+7. **Commit** each batch; push to `curbside/<city>` throughout
+8. **Dupe check** — merge old crawl entries with `curbside` tag, delete new duplicates
+9. **Upgrade section tags** on the most significant places
+10. **Open PR** when the city feels complete
 
 ## Branch naming
 
-Use `curbside/<city>` (e.g. `curbside/barcelona`, `curbside/marseille`). Push to that branch throughout; open one PR per city when done.
+Use `curbside/<city>` (e.g. `curbside/barcelona`, `curbside/marseille`). One PR per city.

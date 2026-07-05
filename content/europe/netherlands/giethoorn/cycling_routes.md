@@ -1,8 +1,8 @@
 ---
 title: "Cycling Routes"
 type: poi
-latitude: 52.7411
-longitude: 6.0774
+latitude: 52.7230
+longitude: 6.0897
 snippet: "Flat polder roads through peatland and farmland — ideal cycling from the village"
 tags: [things_to_do, activity, nature]
 score: 6.8

@@ -5,12 +5,17 @@ loc_type: city
 latitude: 45.4506
 longitude: 6.9781
 score: 8.85
-snippet: High-altitude French Alpine ski village with Olympic pistes and direct access to the Vanoise.
+snippet: High-altitude French Alpine ski village with Olympic pistes and direct access
+  to the Vanoise.
 sources:
-  - https://en.wikivoyage.org/wiki/Val-d%27Is%C3%A8re
-  - https://www.valdisere.com/en/val-disere-in-winter/skiing-winter-fun/ski-area-french-alps/
-  - https://www.valdisere.com/en/val-disere-in-summer/vanoise-national-park/
-  - https://www.valdisere.ski/en/top-picks-face-de-bellevarde
+- https://en.wikivoyage.org/wiki/Val-d%27Is%C3%A8re
+- https://www.valdisere.com/en/val-disere-in-winter/skiing-winter-fun/ski-area-french-alps/
+- https://www.valdisere.com/en/val-disere-in-summer/vanoise-national-park/
+- https://www.valdisere.ski/en/top-picks-face-de-bellevarde
+image: val_disere.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Face_de_Bellevarde_2014.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Jmex
 ---
 
 Val-d'Isère sits high in the Tarentaise Valley, close to the Italian border and pressed against the edge of the Vanoise National Park. It is a ski resort first and a village second, but it has more shape than many purpose-built Alpine stations: stone-and-wood chalets, an old church, and a compact centre where the mountains feel close on every side.

@@ -7,7 +7,7 @@ score: 8.5
 snippet: Rembrandt's home and studio, with nearly all his etchings
 tags:
 - things_to_do
-- waterlooplein
+- rembrandtplein
 title: Rembrandt House
 type: poi
 ---

@@ -5,9 +5,9 @@ done:
   location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-21'
 image: playadelcarmen.jpg
-image_attribution: Northwest
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Quinta_Avenida_(2026).jpg
+image_attribution: dronepicr
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_of_Playa_del_Carmen,_Mexico_(28708057347).jpg
 latitude: 20.6461
 loc_type: city
 longitude: -87.0806

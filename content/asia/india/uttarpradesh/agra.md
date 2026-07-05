@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg
 latitude: 27.175255
 loc_type: city
 longitude: 78.009816
+quick_facts:
+  Closed: Every Friday
+  It's a Tomb: Not a palace
+  Population: 1.6 million
+  Taj Mahal Built: 1632–1653
 score: 9.42
 snippet: North Indian city on the Yamuna, home to the Taj Mahal, Agra Fort, and Mughal
   gardens.
+tip: The Taj Mahal is closed on Fridays and best at sunrise, when the marble shifts
+  colour and the crowds and haze are thinnest — buy tickets online and bring your
+  passport. The Taj is a tomb, not a palace; cover up and remove your shoes. Don't
+  skip Agra Fort and the 'Baby Taj' across the river, and catch the Taj from Mehtab
+  Bagh at sunset.
 title: Agra
 type: location
 ---

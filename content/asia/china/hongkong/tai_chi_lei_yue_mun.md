@@ -1,13 +1,15 @@
 ---
-title: "Lei Yue Mun Seafood Village"
-type: poi
-tags:
-  - eating_out
-  - seafood
 latitude: 22.2988
-longitude: 114.2340
-snippet: Waterfront village where you pick live seafood from tanks and have it cooked to order
+longitude: 114.234
 score: 7.0
+snippet: Waterfront village where you pick live seafood from tanks and have it cooked
+  to order
+tags:
+- eating_out
+- seafood
+- kowloon
+title: Lei Yue Mun Seafood Village
+type: poi
 ---
 
 Lei Yue Mun sits at the narrow eastern entrance to Victoria Harbour, where the crossing to Hong Kong Island is barely 200 metres wide. The old fishing village on the Kowloon shore has transformed into a seafood restaurant row where the process is direct: choose your fish, shellfish, or crab from display tanks outside the restaurants, negotiate the price, and specify how you want it cooked. The results are generally excellent.

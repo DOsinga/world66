@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3819_Asunci%C3%B3n_-_Pa
 latitude: -25.28
 loc_type: city
 longitude: -57.6344
+quick_facts:
+  Founded: '1537'
+  Guaraní: Co-official with Spanish
+  Mother of Cities: Other towns were founded from here
+  Population: ~520,000 (metro ~2.3M)
 score: 6.86
 snippet: Paraguayan capital on the east bank of the river, marked by colonial remnants
   and scruffy charm
+tip: Asunción is one of South America's oldest cities and the laid-back, low-key capital
+  of a country few travellers reach. It sits on the Paraguay River; the historic centre
+  around the Panteón de los Héroes and the riverside Costanera are the main strolls.
+  It is hot and humid, and Guaraní is spoken alongside Spanish — learn a word or two.
 title: Asuncion
 type: location
 ---

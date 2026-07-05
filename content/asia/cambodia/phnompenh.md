@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Royal_Palace,_Phnom_Penh_C
 latitude: 11.5564
 loc_type: city
 longitude: 104.9282
+quick_facts:
+  Once Called: The 'Pearl of Asia'
+  Population: ~2.3 million
+  Rivers Meet: Mekong & Tonlé Sap
+  Royal Palace: Still the king's residence
 score: 8.45
 snippet: Cambodian capital at the Mekong and Tonle Sap confluence, with royal spires
   and French boulevards.
+tip: Phnom Penh sits where the Mekong and Tonlé Sap rivers meet — the riverside promenade
+  is the place to be at sunset. See the gleaming Royal Palace and Silver Pagoda, but
+  also the sobering Tuol Sleng genocide museum and the Killing Fields, which give
+  essential context to Cambodia's recent history. Tuk-tuks are cheap; agree the fare
+  first.
 title: Phnom Penh
 type: location
 ---

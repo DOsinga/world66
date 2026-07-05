@@ -9,6 +9,10 @@ snippet: Volcanic lake northwest of Rome, with clean motorboat-free water and la
   medieval towns
 title: Lake Bracciano
 type: location
+image: lakebracciano.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Trevignano_visto_dal_lago.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Albarubescens
 ---
 
 Visiting [Rome](/europe/italy/lazio/rome) and suddenly longing for a swim? Lake Bracciano is an easy escape. About 40 kilometres northwest of the capital, this large volcanic lake fills part of the old Sabatina caldera. It serves as a reserve water supply for Rome, which means motor boats are banned — the water is clean and the shores are peaceful.

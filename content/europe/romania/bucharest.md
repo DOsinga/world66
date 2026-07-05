@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Bucharest_University_Squar
 latitude: 44.4361
 loc_type: city
 longitude: 26.1027
+quick_facts:
+  Arc de Triumf: Its own triumphal arch
+  Once Called: '''Little Paris of the East'''
+  Palace of Parliament: World's heaviest building
+  Population: ~1.8 million
 score: 8.07
 snippet: Romanian capital of Belle Époque mansions, brutalist blocks, and stubborn
   old-city life around Lipscani.
+tip: Bucharest is a city of grand, faded boulevards — once 'Little Paris', it even
+  has its own Arc de Triumf. The colossal Palace of the Parliament, Ceaușescu's megalomaniac
+  project, is the second-largest administrative building on earth; tour the inside.
+  The restored Old Town (Lipscani) is the nightlife hub. It is cheap, raw and full
+  of surprises.
 title: Bucharest
 type: location
 ---

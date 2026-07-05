@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page_title }} — Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="/static/css/world66.css">
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+  </style>
+</head>
+<body class="explore-page">
+
+  <div id="explore-map"></div>
+
+  <!-- Top bar -->
+  <div id="explore-topbar">
+    <button id="explore-zoom-out" class="explore-btn" style="display:none" aria-label="Zoom out">
+      &#8592; <span id="explore-zoom-out-label">{{ page_title }}</span>
+    </button>
+    <span id="explore-topbar-title">{{ page_title }}</span>
+    {% if page %}<a href="{{ page.get_absolute_url }}" id="explore-close" class="explore-btn" title="Close map">&#x2715;</a>{% endif %}
+  </div>
+
+  <!-- Side drawer -->
+  <div id="explore-drawer" aria-hidden="true">
+    <button id="explore-drawer-close" aria-label="Close">&#x2715;</button>
+    <div id="explore-drawer-img-wrap" class="no-image">
+      <img id="explore-drawer-img" src="" alt="">
+    </div>
+    <div id="explore-drawer-body">
+      <h2 id="explore-drawer-title"></h2>
+      <button id="explore-drawer-drill" class="explore-drawer-drill-btn" style="display:none">Explore &#8594;</button>
+      <div id="explore-drawer-content" class="is-loading"></div>
+      <div class="explore-drawer-footer">
+        <a id="explore-drawer-link" href="#" class="explore-drawer-read-more">Full page &#8594;</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="/static/geo/mappings.js"></script>
+  <script src="/static/js/world66map.js"></script>
+  <script src="/static/js/map-explore.js"></script>
+  <script>
+  initExploreMap({
+    elementId: 'explore-map',
+    basePath: '{{ page.path|escapejs }}',
+    baseTitle: '{{ page_title|escapejs }}',
+    parentTitle: '{{ parent_title|escapejs }}',
+    parentUrl: '{{ parent_url|escapejs }}',
+    parentPath: {{ parent_path_json }},
+    mode: '{{ mode }}',
+    markers: {{ markers_json }},
+  });
+  </script>
+</body>
+</html>

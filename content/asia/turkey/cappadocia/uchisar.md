@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0596_Kappadokien_-_U%C3
 latitude: 38.629383
 loc_type: city
 longitude: 34.804614
+quick_facts:
+  Castle: Tallest point in Cappadocia
+  Cave Dwellings: Honeycomb the rock
+  Elevation: 1,400 m
+  Pigeon Valley: Carved dovecotes
 score: 9.41
 snippet: Cappadocian hill village beneath Uçhisar Castle, overlooking fairy chimneys,
   pigeon valleys, and Mount Erciyes.
+tip: Uçhisar is crowned by Cappadocia's tallest fairy-chimney castle — climb it at
+  sunset for a 360° view over the whole region, often better than Göreme's. It's a
+  quieter cave-hotel base, a short walk or drive from Göreme. The dawn balloons launch
+  in clear view. Hike down through Pigeon Valley toward Göreme, past dovecotes carved
+  into the rock.
 title: Uchisar
 type: location
 ---

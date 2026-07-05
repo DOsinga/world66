@@ -8,8 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebasti%C3%A1n_-_Ayunt
 latitude: 43.3183
 loc_type: city
 longitude: -1.9812
+quick_facts:
+  La Concha: Shell-shaped bay beach
+  Michelin Stars: Most per head on Earth
+  Pintxos: Eaten bar to bar
+  Population: 190,000
 score: 9.46
 snippet: Elegant Basque bay city of pintxos bars, crescent beaches, and wooded headlands.
+tip: San Sebastián has one of the highest concentrations of Michelin stars on Earth,
+  but the real magic is pintxos — bar snacks eaten standing, hopping from bar to bar
+  in the old town. Grab a plate, point, and pay on trust at the end. La Concha is
+  one of Europe's finest city beaches. It rains a lot; the Basque coast is green for
+  a reason.
 title: San Sebastián
 type: location
 ---

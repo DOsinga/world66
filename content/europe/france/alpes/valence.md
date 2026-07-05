@@ -10,9 +10,13 @@ snippet: Rhône Valley stopover city with Romanesque churches, Renaissance facad
   and a compact old town.
 title: Valence
 type: location
+image: valence.jpg
+image_source: https://commons.wikimedia.org/wiki/File:C%C3%B4te_des_chapeliers.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Toutaitanous 2
 ---
 
-Valence sits on the left bank of the Rhône, roughly halfway between [Lyon](/europe/france/alpes/lyon) and [Marseille](/europe/france/midi/cotedazur/marseille), and most travelers encounter it as a stop on the way south. That's a reasonable way to use it — the TGV pauses here, the autoroute passes just outside, and the old town is compact enough to explore in a few hours. Founded as a Roman colony and later a bishopric of some importance, Valence spent centuries caught between rival powers, which at least left it with decent architecture.
+Valence sits on the left bank of the Rhône, roughly halfway between [Lyon](/europe/france/alpes/lyon) and [Marseille](/europe/france/cotedazur/marseille), and most travelers encounter it as a stop on the way south. That's a reasonable way to use it — the TGV pauses here, the autoroute passes just outside, and the old town is compact enough to explore in a few hours. Founded as a Roman colony and later a bishopric of some importance, Valence spent centuries caught between rival powers, which at least left it with decent architecture.
 
 The [Cathédrale Saint-Apollinaire](/europe/france/alpes/valence/valence_cathedral) is the one sight you should not skip. Built in the 11th century in the Romanesque style of the Auvergne and consecrated in 1095 by Pope Urban II, it has the solid, rooted feel of early medieval church-building at its best. Inside, look for the tomb of Pope Pius VI, who died here in French captivity in 1799 — an oddly affecting monument to the end of an era. Beside the cathedral, the [Musée de Valence](/europe/france/alpes/valence/musee_de_valence) occupies a handsome bishop's palace and holds an unexpectedly fine collection of drawings by Hubert Robert. The [Maison des Têtes](/europe/france/alpes/valence/maison_des_tetes) on the Grande Rue is a Renaissance townhouse whose facade is covered in 71 carved heads representing the winds.
 

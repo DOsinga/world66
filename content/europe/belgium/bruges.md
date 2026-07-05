@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belf
 latitude: 51.208553
 loc_type: city
 longitude: 3.226772
+quick_facts:
+  Beer Pipeline: Runs under the streets
+  Belfry: 366 steps, 83 m
+  Old Town: Entirely UNESCO-listed
+  Population: 120,000
 score: 9.45
 snippet: Canal city in Flanders whose medieval trading wealth left bridges, guild
   houses, and market squares.
+tip: Bruges is a perfectly preserved medieval town that empties when the day-trippers
+  leave — stay overnight to walk the canals and squares in peace. Climb the 366 steps
+  of the Belfry for the view. The horse-cab and canal-boat tours are touristy but
+  pleasant. Buy chocolate from a real chocolatier, not the chain shops on the main
+  drag.
 title: Bruges
 type: location
 ---

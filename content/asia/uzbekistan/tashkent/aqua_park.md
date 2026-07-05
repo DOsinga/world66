@@ -1,15 +1,17 @@
 ---
-title: "Magic City"
+title: Aqua Park
 type: poi
-snippet: "Themed entertainment park with castles, fountains, and rides"
+latitude: 41.3419
+longitude: 69.2853
+score: 6.2
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Tashkent
 tags:
-  - things_to_do
-  - sight
-latitude: 41.3122
-longitude: 69.2419
-score: 4.3
+- things_to_do
+- family
+- water_park
 ---
 
-A 12-hectare themed park opened in 2019, set around an artificial lake with European fairy-tale castles, a Ferris wheel, fountain shows, and a children's amusement section. The architecture is unapologetically theatrical and parts of the place light up at night in a way that feels like a small Disney pastiche.
+Aqua Park is a family water park south of the Tashkent TV Tower, with pools, a wave machine, chutes, and slides. It is a leisure stop rather than a cultural sight, but it can be useful in hot weather or when traveling with children.
 
-Aimed squarely at local families. For a foreign traveller it is mostly a curiosity — an example of how independent Uzbekistan is choosing to spend its leisure-development money. Free to enter; rides charged individually.
+The park is close to several north Tashkent sights, including the Japanese Garden, Botanical Garden, and TV Tower, so it can fit into a relaxed day in that part of the city.

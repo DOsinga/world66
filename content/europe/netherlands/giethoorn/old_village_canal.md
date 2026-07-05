@@ -1,8 +1,8 @@
 ---
 title: "Old Village Canal"
 type: poi
-latitude: 52.7400
-longitude: 6.0757
+latitude: 52.7235
+longitude: 6.0900
 snippet: "The heart of the village — thatched farmhouses on artificial islands, separated by 17th-century ditches"
 tags: [things_to_do, sight, nature]
 story: >

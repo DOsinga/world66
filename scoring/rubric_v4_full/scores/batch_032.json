@@ -1,0 +1,302 @@
+{
+  "europe/italy/puglia/locorotondo": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/denmark/fanoe": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "australiaandpacific/newzealand/north_island/northland/kaitaia": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "africa/tanzania/mwanza": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/faroeislands/suuroy/hov": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/austria/bad_gastein": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "asia/china/henan_province/hebi": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "africa/mauritius/curepipe": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "africa/algeria/tindouf": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 1,
+    "adventure": 7
+  },
+  "europe/serbia/kosovoprovince/peja": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "africa/nigeria/akure": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/china/hebei/cangzhou": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "europe/moldova/hincest": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 2
+  },
+  "africa/morocco/mohammedia": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/france/normandybrittany/deauville": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 9,
+    "adventure": 1
+  },
+  "europe/estonia/ksmu": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/italy/liguria/rivieradellepalme/zuccarello": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/china/gansu/longnan": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "asia/india/jammuandkashmir/pahalgam": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 6,
+    "adventure": 6
+  },
+  "asia/china/shandong_province/mount_tai": {
+    "culture": 8,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/russia/murmansk": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/ohio/portsmouth": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 1
+  },
+  "europe/germany/northrhinewestphalia/duisburg": {
+    "culture": 4,
+    "nature": 2,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/portugal/chaves": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/finland/lappeenranta": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "southamerica/chile/atacamadesert/valledelaluna": {
+    "culture": 2,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "australiaandpacific/australia/northernterritory/alicesprings": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 4,
+    "adventure": 7
+  },
+  "asia/india/andhrapradesh/westgodavari": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/mexico/taxco": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/portugal/praiadarocha": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "australiaandpacific/newzealand/otaki": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/faroeislands/sandoy/sandur": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/germany/hessen/fulda": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "africa/morocco/dakhla": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 6
+  },
+  "asia/turkey/cappadocia/ihlaravalley": {
+    "culture": 7,
+    "nature": 8,
+    "leisure": 4,
+    "adventure": 5
+  },
+  "europe/france/corsica/ajaccio": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/louisiana/lafayette": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/spain/galicia/vigo": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/china/shandong_province/qingdao": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/gloucestershire/tewkesbury": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "northamerica/canada/alberta/sylvan_lake": {
+    "culture": 2,
+    "nature": 6,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/denmark/nastved": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/ireland/youghal": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/india/rajasthan/rajsamand": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/france/midi/southern_alps/annot": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "asia/philippines/daraga": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/austria/bludenz": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 4
+  }
+}

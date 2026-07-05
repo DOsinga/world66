@@ -5,7 +5,6 @@ longitude: 114.1653
 score: 4.9
 snippet: Upscale mall connected to Admiralty MTR with Lane Crawford
 tags:
-- hongkongisland
 - central
 - shopping
 title: Pacific Place

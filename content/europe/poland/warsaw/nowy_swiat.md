@@ -6,7 +6,7 @@ snippet: Elegant shopping and cafe street continuing the Royal Route south from 
   Przedmieście
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_poludniowe
 - sight
 title: Nowy Świat
 type: poi

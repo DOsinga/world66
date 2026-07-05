@@ -11,6 +11,10 @@ tags:
 title: Newbridge House & Traditional Farm
 type: poi
 url: https://www.newbridgehouseandfarmdublin.com
+image: newbridge_house.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Photographed_In_Balbriggan_-_County_Dublin,_Ireland_(537547594).jpg
+image_license: CC BY-SA 2.0
+image_attribution: William Murphy from Dublin, Ireland
 ---
 
 Newbridge House is a fine Georgian mansion at Donabate, 8km north of Portmarnock, with one of the best-preserved 18th-century interiors in Ireland. The Red Drawing Room in particular is unchanged since it was decorated in the 1760s, making it a remarkable survival. The house was home to the Cobbe family for over 250 years.

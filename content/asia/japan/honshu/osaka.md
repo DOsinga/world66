@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Osaka_Castle_02bs3200.jpg
 latitude: 34.693757
 loc_type: city
 longitude: 135.501454
+quick_facts:
+  Castle Built: '1583'
+  Escalators: Stand on the right
+  Nickname: Japan's Kitchen
+  Population: 2.7 million
 score: 9.54
 snippet: Japanese metropolis of street food, entertainment districts, and frank merchant-city
   energy
+tip: Osaka is Japan's kitchen — eat your way through Dotonbori (takoyaki, okonomiyaki,
+  kushikatsu) and embrace 'kuidaore', eating till you drop. Locals are warmer and
+  louder than in Tokyo, and they stand on the right of escalators (the opposite of
+  Tokyo). Use it as a base for Kyoto and Nara, both under an hour away.
 title: Osaka
 type: location
 ---

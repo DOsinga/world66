@@ -1,0 +1,591 @@
+[
+  {
+    "embedding_text": "Newport, Oregon, United States, North America",
+    "latitude": 44.6368,
+    "longitude": -124.0535,
+    "name": "Newport",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon"
+    ],
+    "path": "northamerica/unitedstates/oregon/newport"
+  },
+  {
+    "embedding_text": "Naivasha, The Rift Valley, Kenya, Africa",
+    "latitude": -0.722442,
+    "longitude": 36.438783,
+    "name": "Naivasha",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "The Rift Valley"
+    ],
+    "path": "africa/kenya/theriftvalley/naivasha"
+  },
+  {
+    "embedding_text": "Turriff, Scotland, United Kingdom, Europe",
+    "latitude": 57.5375,
+    "longitude": -2.4641,
+    "name": "Turriff",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/turriff"
+  },
+  {
+    "embedding_text": "McCloud, Shasta Cascade, California, United States, North America",
+    "latitude": 41.255712,
+    "longitude": -122.139448,
+    "name": "McCloud",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Shasta Cascade"
+    ],
+    "path": "northamerica/unitedstates/california/shastacascade/mccloud"
+  },
+  {
+    "embedding_text": "Shigatse, Tibet, China, Asia",
+    "latitude": 29.105841,
+    "longitude": 86.875398,
+    "name": "Shigatse",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Tibet"
+    ],
+    "path": "asia/china/tibet/shigatse"
+  },
+  {
+    "embedding_text": "Baliem Valley, Irian Jaya, Indonesia, Asia",
+    "latitude": -3.9874,
+    "longitude": 138.8773,
+    "name": "Baliem Valley",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Irian Jaya"
+    ],
+    "path": "asia/indonesia/irianjaya/baliemvalley"
+  },
+  {
+    "embedding_text": "Quimper, Normandy and Brittany, France, Europe",
+    "latitude": 47.996032,
+    "longitude": -4.102478,
+    "name": "Quimper",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Normandy and Brittany"
+    ],
+    "path": "europe/france/normandybrittany/quimper"
+  },
+  {
+    "embedding_text": "Mu'a, Tongatapu, Tonga, Australia, Pacific & Antarctica",
+    "latitude": -21.184403,
+    "longitude": -175.12275,
+    "name": "Mu'a",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Tonga",
+      "Tongatapu"
+    ],
+    "path": "australiaandpacific/tonga/tongatapu/mua"
+  },
+  {
+    "embedding_text": "Sukhothai, Thailand, Asia",
+    "latitude": 17.0196,
+    "longitude": 99.7061,
+    "name": "Sukhothai",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/sukhothai"
+  },
+  {
+    "embedding_text": "R\u00edo Branco, Uruguay, South America",
+    "latitude": -32.5978,
+    "longitude": -53.3864,
+    "name": "R\u00edo Branco",
+    "parent_chain": [
+      "South America",
+      "Uruguay"
+    ],
+    "path": "southamerica/uruguay/rio_branco_urugua"
+  },
+  {
+    "embedding_text": "Norman, Oklahoma, United States, North America",
+    "latitude": 35.2226,
+    "longitude": -97.4395,
+    "name": "Norman",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/norman"
+  },
+  {
+    "embedding_text": "Songtan, South Korea, Asia",
+    "latitude": 37.075356,
+    "longitude": 127.054366,
+    "name": "Songtan",
+    "parent_chain": [
+      "Asia",
+      "South Korea"
+    ],
+    "path": "asia/southkorea/songtan"
+  },
+  {
+    "embedding_text": "San Pedro de Macor\u00eds, Dominican Republic, North America",
+    "latitude": 18.4604,
+    "longitude": -69.3051,
+    "name": "San Pedro de Macor\u00eds",
+    "parent_chain": [
+      "North America",
+      "Dominican Republic"
+    ],
+    "path": "northamerica/dominicanrepublic/san_pedro"
+  },
+  {
+    "embedding_text": "Gera, Thuringia, Germany, Europe",
+    "latitude": 50.876553,
+    "longitude": 12.083267,
+    "name": "Gera",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Thuringia"
+    ],
+    "path": "europe/germany/thuringia/gera"
+  },
+  {
+    "embedding_text": "Toulon, Cote d'Azur, Midi, France, Europe",
+    "latitude": 43.125731,
+    "longitude": 5.930492,
+    "name": "Toulon",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Cote d'Azur"
+    ],
+    "path": "europe/france/midi/cotedazur/toulon"
+  },
+  {
+    "embedding_text": "El Jem, Tunisia, Africa",
+    "latitude": 35.296644,
+    "longitude": 10.71284,
+    "name": "El Jem",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/eljem"
+  },
+  {
+    "embedding_text": "Hampton Beach, New Hampshire, United States, North America",
+    "latitude": 42.91202,
+    "longitude": -70.81742,
+    "name": "Hampton Beach",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Hampshire"
+    ],
+    "path": "northamerica/unitedstates/newhampshire/hampton_beach"
+  },
+  {
+    "embedding_text": "Spotorno, Italian Riviera, Liguria, Italy, Europe",
+    "latitude": 44.227257,
+    "longitude": 8.419177,
+    "name": "Spotorno",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria",
+      "Italian Riviera"
+    ],
+    "path": "europe/italy/liguria/italianriviera/spotorno"
+  },
+  {
+    "embedding_text": "Jerba, Tunisia, Africa",
+    "latitude": 33.8076,
+    "longitude": 10.8451,
+    "name": "Jerba",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/jerba"
+  },
+  {
+    "embedding_text": "Honda, Colombia, South America",
+    "latitude": 5.210419,
+    "longitude": -74.736192,
+    "name": "Honda",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/honda"
+  },
+  {
+    "embedding_text": "Vila Velha, Brazil, South America",
+    "latitude": -20.3297,
+    "longitude": -40.292,
+    "name": "Vila Velha",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/vilavelha"
+  },
+  {
+    "embedding_text": "Malakula, Vanuatu, Australia, Pacific & Antarctica",
+    "latitude": -16.234392,
+    "longitude": 167.499172,
+    "name": "Malakula",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Vanuatu"
+    ],
+    "path": "australiaandpacific/vanuatu/malakula"
+  },
+  {
+    "embedding_text": "Sanremo, Italian Riviera, Liguria, Italy, Europe",
+    "latitude": 43.8198,
+    "longitude": 7.7749,
+    "name": "Sanremo",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria",
+      "Italian Riviera"
+    ],
+    "path": "europe/italy/liguria/italianriviera/sanremo"
+  },
+  {
+    "embedding_text": "Satun, Thailand, Asia",
+    "latitude": 7.036668,
+    "longitude": 99.96154,
+    "name": "Satun",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/satun"
+  },
+  {
+    "embedding_text": "Port Macquarie, New South Wales, Australia, Australia, Pacific & Antarctica",
+    "latitude": -31.42995,
+    "longitude": 152.910352,
+    "name": "Port Macquarie",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "New South Wales"
+    ],
+    "path": "australiaandpacific/australia/newsouthwales/portmacquarie"
+  },
+  {
+    "embedding_text": "Gab\u00e8s, Tunisia, Africa",
+    "latitude": 33.8833,
+    "longitude": 10.1167,
+    "name": "Gab\u00e8s",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/gabes"
+  },
+  {
+    "embedding_text": "Pamplemousse, Mauritius, Africa",
+    "latitude": -20.11322,
+    "longitude": 57.586461,
+    "name": "Pamplemousse",
+    "parent_chain": [
+      "Africa",
+      "Mauritius"
+    ],
+    "path": "africa/mauritius/pamplemousse"
+  },
+  {
+    "embedding_text": "Jigongshan, Henan Province, China, Asia",
+    "latitude": 31.85,
+    "longitude": 114.0833,
+    "name": "Jigongshan",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Henan Province"
+    ],
+    "path": "asia/china/henan_province/jigongshan"
+  },
+  {
+    "embedding_text": "Kielce, Poland, Europe",
+    "latitude": 50.854028,
+    "longitude": 20.609916,
+    "name": "Kielce",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/kielce"
+  },
+  {
+    "embedding_text": "Ambalavao, Madagascar, Africa",
+    "latitude": -21.8333,
+    "longitude": 46.9333,
+    "name": "Ambalavao",
+    "parent_chain": [
+      "Africa",
+      "Madagascar"
+    ],
+    "path": "africa/madagascar/ambalavao"
+  },
+  {
+    "embedding_text": "Blandford Forum, Bristol, Plymouth and the South-West, England, United Kingdom, Europe",
+    "latitude": 50.856005,
+    "longitude": -2.165177,
+    "name": "Blandford Forum",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Bristol, Plymouth and the South-West"
+    ],
+    "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford"
+  },
+  {
+    "embedding_text": "Juiz de Fora, Brazil, South America",
+    "latitude": -21.761,
+    "longitude": -43.3501,
+    "name": "Juiz de Fora",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/juiz_de_fora"
+  },
+  {
+    "embedding_text": "Milford Sound, Otago, South Island, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -44.619019,
+    "longitude": 167.86876,
+    "name": "Milford Sound",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "South Island",
+      "Otago"
+    ],
+    "path": "australiaandpacific/newzealand/south_island/otago/milford_sound"
+  },
+  {
+    "embedding_text": "Haleiwa, Hawaii, United States, North America",
+    "latitude": 21.587627,
+    "longitude": -158.103565,
+    "name": "Haleiwa",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Hawaii"
+    ],
+    "path": "northamerica/unitedstates/hawaii/haleiwa"
+  },
+  {
+    "embedding_text": "Walsall, Birmingham and West Midlands, England, United Kingdom, Europe",
+    "latitude": 52.584795,
+    "longitude": -1.982269,
+    "name": "Walsall",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Birmingham and West Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall"
+  },
+  {
+    "embedding_text": "San Piero a Sieve, Mugello Area, Florence Province, Tuscany, Italy, Europe",
+    "latitude": 43.961354,
+    "longitude": 11.32442,
+    "name": "San Piero a Sieve",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany",
+      "Florence Province",
+      "Mugello Area"
+    ],
+    "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve"
+  },
+  {
+    "embedding_text": "Be'er Sheva, Israel, Asia",
+    "latitude": 31.245744,
+    "longitude": 34.792518,
+    "name": "Be'er Sheva",
+    "parent_chain": [
+      "Asia",
+      "Israel"
+    ],
+    "path": "asia/israel/beer_sheva"
+  },
+  {
+    "embedding_text": "Lake Burton, Georgia, United States, North America",
+    "latitude": 34.8403,
+    "longitude": -83.5577,
+    "name": "Lake Burton",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/lake_burton"
+  },
+  {
+    "embedding_text": "Homer, Alaska, United States, North America",
+    "latitude": 59.6454,
+    "longitude": -151.5446,
+    "name": "Homer",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Alaska"
+    ],
+    "path": "northamerica/unitedstates/alaska/homer"
+  },
+  {
+    "embedding_text": "Senafe, Eritrea, Africa",
+    "latitude": 14.887,
+    "longitude": 39.435,
+    "name": "Senafe",
+    "parent_chain": [
+      "Africa",
+      "Eritrea"
+    ],
+    "path": "africa/eritrea/senafe"
+  },
+  {
+    "embedding_text": "Wilburton, Oklahoma, United States, North America",
+    "latitude": 34.918702,
+    "longitude": -95.309781,
+    "name": "Wilburton",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/wilburton"
+  },
+  {
+    "embedding_text": "Esperance, Western Australia, Australia, Australia, Pacific & Antarctica",
+    "latitude": -33.858228,
+    "longitude": 121.893161,
+    "name": "Esperance",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Western Australia"
+    ],
+    "path": "australiaandpacific/australia/westernaustralia/esperance"
+  },
+  {
+    "embedding_text": "Bafoussam, Cameroon, Africa",
+    "latitude": 5.4759,
+    "longitude": 10.4218,
+    "name": "Bafoussam",
+    "parent_chain": [
+      "Africa",
+      "Cameroon"
+    ],
+    "path": "africa/cameroon/bafoussam"
+  },
+  {
+    "embedding_text": "Ordesa National Park, Aragon, Spain, Europe",
+    "latitude": 42.626,
+    "longitude": -0.0434,
+    "name": "Ordesa National Park",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Aragon"
+    ],
+    "path": "europe/spain/aragon/ordesa_national_park"
+  },
+  {
+    "embedding_text": "Yakutsk, Russia, Europe",
+    "latitude": 62.0274,
+    "longitude": 129.732,
+    "name": "Yakutsk",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/yakutsk"
+  },
+  {
+    "embedding_text": "Great Yarmouth, Eastern England, England, United Kingdom, Europe",
+    "latitude": 52.607174,
+    "longitude": 1.731485,
+    "name": "Great Yarmouth",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Eastern England"
+    ],
+    "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth"
+  },
+  {
+    "embedding_text": "R\u00f8ros, Norway, Europe",
+    "latitude": 62.5695,
+    "longitude": 11.6604,
+    "name": "R\u00f8ros",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/rros"
+  },
+  {
+    "embedding_text": "Gyumri, Shirak Marz, Armenia, Europe",
+    "latitude": 40.7852,
+    "longitude": 43.8416,
+    "name": "Gyumri",
+    "parent_chain": [
+      "Europe",
+      "Armenia",
+      "Shirak Marz"
+    ],
+    "path": "europe/armenia/shirak_marz/gyumri"
+  },
+  {
+    "embedding_text": "Wrexham, Wales, United Kingdom, Europe",
+    "latitude": 53.046508,
+    "longitude": -2.993787,
+    "name": "Wrexham",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Wales"
+    ],
+    "path": "europe/unitedkingdom/wales/wrexham"
+  },
+  {
+    "embedding_text": "Van, Turkey, Asia",
+    "latitude": 38.32496,
+    "longitude": 43.658983,
+    "name": "Van",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/van"
+  }
+]

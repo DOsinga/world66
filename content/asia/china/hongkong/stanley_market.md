@@ -5,7 +5,6 @@ longitude: 114.2125
 score: 5.7
 snippet: Covered seaside market for silks, souvenirs, and antiques
 tags:
-- hongkongisland
 - stanley
 - shopping
 title: Stanley Market

@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-15'
 image: etretat.jpg
-image_attribution: Jörg Braukmann
+image_attribution: Tobi 87
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Aiguille_et_Porte_d%C2%B4Aval.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_Manneporte-Etretat-Normandie.jpg
 latitude: 49.7075
 loc_type: city
 snippet: Normandy resort town framed by chalk arches, sea cliffs, and the needle of
